@@ -32,6 +32,7 @@ A hymn to Agni for protection and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ दिवस्पृथिव्याः पर्यन्तरिक्षाद्वनस्पतिभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAdvanaspatibhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,6 +109,7 @@ Whithersoe'er, from sky, earth, air's mid-regions from plants ands herbs, from t
 </details>
 </details>
 </div>
+
 ## ०२ यस्ते अप्सु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/02_yaste_apsu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -180,6 +182,7 @@ All majesty of thine in floods, in forest, in plants, in cattle, in the depths o
 </details>
 </details>
 </div>
+
 ## ०३ यस्ते देवेषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/03_yaste_deveShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -249,6 +252,7 @@ Thy majesty among the Gods in Svarga, thy body which hath past into the Fathers.
 </details>
 </details>
 </div>
+
 ## ०४ श्रुत्कर्णाय कवये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

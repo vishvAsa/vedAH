@@ -32,6 +32,7 @@ A hymn recommending the protection of various Gods
 </details>
 </details>
 </div>
+
 ## ०१ मित्रः पृथिव्योदक्रामत्ताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/01_mitraH_pRthivyodakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ Mitra arose with Earth. To that fort I lead you: enter it, occupy it. Let it giv
 </details>
 </details>
 </div>
+
 ## ०२ वायुरन्तरिक्षेणोदक्रामत्तां पुरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/02_vAyurantarixeNodakrAmattAM_puram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -153,6 +155,7 @@ Vayu arose with Air. To that fort, etc.
 </details>
 </details>
 </div>
+
 ## ०३ सूर्यो दिवोदक्रामत्ताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/03_sUryo_divodakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -212,6 +215,7 @@ Surya arose with Heaven. To that fort, etc.
 </details>
 </details>
 </div>
+
 ## ०४ चन्द्रमा नक्षत्रैरुदक्रामत्ताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/04_chandramA_naxatrairudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -271,6 +275,7 @@ Chandramas arose with the Constellation. To that fort, etc.
 </details>
 </details>
 </div>
+
 ## ०५ सोम ओषधीभिरुदक्रामत्ताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/05_soma_oShadhIbhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -330,6 +335,7 @@ Sacrifice arose with Priestly Fees. To that fort, etc.
 </details>
 </details>
 </div>
+
 ## ०६ यज्ञो दक्षिणाभिरुदक्रामत्ताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/06_yajno_daxiNAbhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -390,6 +396,7 @@ Ocean arose with the Rivers. To that fort, etc.
 </details>
 </details>
 </div>
+
 ## ०७ समुद्रो नदीभिरुदक्रामत्ताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/07_samudro_nadIbhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -449,6 +456,7 @@ Brahma arose with the Brahmacharis. To that fort, etc.
 </details>
 </details>
 </div>
+
 ## ०८ ब्रह्म ब्रह्मचारिभिरुदक्रामत्ताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/08_brahma_brahmachAribhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -510,6 +518,7 @@ Indra arose with Might. To that fort, etc.
 </details>
 </details>
 </div>
+
 ## ०९ इन्द्रो वीर्येणोदक्रामत्ताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/09_indro_vIryeNodakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -569,6 +578,7 @@ The Gods arose with Immortality. To that fort, etc.
 </details>
 </details>
 </div>
+
 ## १० देवा अमृतेनोदक्रामंस्ताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/10_devA_amRtenodakrAmaMstAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -629,6 +639,7 @@ Prajapati arose with Creatures. To that fort I lead you: enter it, occupy it giv
 </details>
 </details>
 </div>
+
 ## ११ प्रजापतिः प्रजाभिरुदक्रामत्ताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/11_prajApatiH_prajAbhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

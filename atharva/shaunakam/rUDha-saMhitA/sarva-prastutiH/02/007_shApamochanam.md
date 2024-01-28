@@ -32,6 +32,7 @@ A counter-charm against imprecation and malignity
 </details>
 </details>
 </div>
+
 ## ०१ अघद्विष्टा देवजाता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/01_aghadviShTA_devajAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Hated by sinners, sprung from Gods, this Plant that turns the curse away Hath wa
 </details>
 </details>
 </div>
+
 ## ०२ यश्च सापत्नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/02_yashcha_sApatnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ All curses of a rival, each curse of a female relative, Curse uttered by an augr
 </details>
 </details>
 </div>
+
 ## ०३ दिवो मूलमवततम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/03_divo_mUlamavatatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,6 +230,7 @@ Spread on the surface of the earth, downward from heaven thy root depends: With 
 </details>
 </details>
 </div>
+
 ## ०४ परि माम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/04_pari_mAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -297,6 +301,7 @@ Guard on all sides this woman, guard my children, us, and all our wealth! Let no
 </details>
 </details>
 </div>
+
 ## ०५ शप्तारमेतु शपथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/05_shaptArametu_shapatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

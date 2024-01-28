@@ -29,6 +29,7 @@ A prayer for vengeance on a malicious rival worshipper
 </details>
 </details>
 </div>
+
 ## ०१ द्यावापृथिवी उर्व१न्तरिक्षम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/01_dyAvApRthivI_urva1ntarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ The spacious Firmament, and Earth and Heaven, the Field's Queen, and the wonderf
 </details>
 </details>
 </div>
+
 ## ०२ इदं देवाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/02_idaM_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,6 +173,7 @@ Listen to this, ye Gods who merit worship. Hymns here are sung for me by Bharadv
 </details>
 </details>
 </div>
+
 ## ०३ इदमिन्द्र शृणुहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/03_idamindra_shRNuhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -236,6 +239,7 @@ Hear this my call, O Indra, Soma-drinker, as with a burning heart I oft invoke t
 </details>
 </details>
 </div>
+
 ## ०४ अशीतिभिस्तिसृभिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/04_ashItibhistisRbhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -304,6 +308,7 @@ Together with thrice-eighty Sama-singers, Angirases, and Vasus, and Adityas, May
 </details>
 </details>
 </div>
+
 ## ०५ द्यावापृथिवी अनु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/05_dyAvApRthivI_anu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -370,6 +375,7 @@ O Heaven and Earth, regard me with your favour, and, all ye Gods, stand on my si
 </details>
 </details>
 </div>
+
 ## ०६ अतीव यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/06_atIva_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -437,6 +443,7 @@ Whoever either scorns us, O ye Maruts, or blames devotion which we now are payin
 </details>
 </details>
 </div>
+
 ## ०७ सप्त प्राणानष्टौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/07_sapta_prANAnaShTau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -513,6 +520,7 @@ Thy sevenfold vital breath, thine eight marrows I rend away with prayer. With Ag
 </details>
 </details>
 </div>
+
 ## ०८ आ दधामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/08_A_dadhAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

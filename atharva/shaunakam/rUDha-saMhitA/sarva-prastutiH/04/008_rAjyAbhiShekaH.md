@@ -33,6 +33,7 @@ A benediction at the consecration of a King
 </details>
 </details>
 </div>
+
 ## ०१ भूतो भूतेषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/01_bhUto_bhUteShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,6 +109,7 @@ The Being lays the sap of life in beings: he hath become the sovran Lord of crea
 </details>
 </details>
 </div>
+
 ## ०२ अभि प्रेहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/02_abhi_prehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -181,6 +183,7 @@ Come forward, turn not back in scorn, strong guardian, slayer of the foes. Appro
 </details>
 </details>
 </div>
+
 ## ०३ आतिष्ठन्तं परि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/03_AtiShThantaM_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -255,6 +258,7 @@ All waited on him as he came to meet them. He self-resplendent moves endued with
 </details>
 </details>
 </div>
+
 ## ०४ व्याघ्रो अधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/04_vyAghro_adhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -322,6 +326,7 @@ Stride forth to heaven's broad regions, thou, a tiger on a tiger's skin. Let all
 </details>
 </details>
 </div>
+
 ## ०५ या आपो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/05_yA_Apo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -405,6 +410,7 @@ Heaven's waters joyous in their milk, the waters of middle air, and those that e
 </details>
 </details>
 </div>
+
 ## ०६ अभि त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/06_abhi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -473,6 +479,7 @@ The heavenly waters rich in milk have sprinkled thee with power and might. To be
 </details>
 </details>
 </div>
+
 ## ०७ एना व्याघ्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/07_enA_vyAghram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ Praise of Vishnu and Varuna
 </details>
 </details>
 </div>
+
 ## ०१ ययोरोजसा स्कभिता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/025_viShNuH/01_yayorojasA_skabhitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ The early morning prayer hath come to Vishnu and Varuna, Lords through might, wh
 </details>
 </details>
 </div>
+
 ## ०२ यस्येदं प्रदिशि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/025_viShNuH/02_yasyedaM_pradishi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -28,6 +28,7 @@ A charm to banish vermin and noxious creatures
 </details>
 </details>
 </div>
+
 ## ०१ निःसालां धृष्णुम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/01_niHsAlAM_dhRShNum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ Forth from the hall the bold, the sharp, the greedy one, the single-voiced, Sada
 </details>
 </details>
 </div>
+
 ## ०२ निर्वो गोष्ठादजामसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ We drive you forth from cattle-shed, from axle, from within the wain, Ye daughte
 </details>
 </details>
 </div>
+
 ## ०३ असौ यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/03_asau_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -241,6 +244,7 @@ Yonder let the Arayis dwell, there where that house is down below. Let utter ind
 </details>
 </details>
 </div>
+
 ## ०४ भूतपतिर्निरजत्विन्द्रश्चेतः सदान्वाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -315,6 +319,7 @@ May Bhutapati drive away, and Indra, the Sadanvas hence. Let Indra with his bolt
 </details>
 </details>
 </div>
+
 ## ०५ यदि स्थ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/05_yadi_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -381,6 +386,7 @@ Whether ye be of farm and field, or whether ye be sent by men, Or be ye sprung f
 </details>
 </details>
 </div>
+
 ## ०६ परि धामान्यासामाशुर्गाष्ठामिवासरन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A King's address to an amulet which is to strengthen his authority
 </details>
 </details>
 </div>
+
 ## ०१ आयमगन्पर्णमणिर्बली बलेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/01_AyamaganparNamaNirbalI_balena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ This Parna-Amulet hath come, strong and destroying with its strength my rivals. 
 </details>
 </details>
 </div>
+
 ## ०२ मयि क्षत्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/02_mayi_xatram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,6 +173,7 @@ O Parna-Amulet, in me set firmly might and opulence. Within the compass of my ru
 </details>
 </details>
 </div>
+
 ## ०३ यं निदधुर्वनस्पतौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/03_yaM_nidadhurvanaspatau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -234,6 +237,7 @@ That dear mysterious Amulet which Gods have set within the tree, May the Gods gr
 </details>
 </details>
 </div>
+
 ## ०४ सोमस्य पर्णः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/04_somasya_parNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -305,6 +309,7 @@ As Indra's gift, by Varuna instructed, Parna hath come, the mighty strength of S
 </details>
 </details>
 </div>
+
 ## ०५ आ मारुक्षत्पर्णमणिर्मह्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/05_A_mAruxatparNamaNirmahyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -373,6 +378,7 @@ The Parna-Charm hath come to me for great security from ill. That I may be exalt
 </details>
 </details>
 </div>
+
 ## ०६ ये धीवानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/06_ye_dhIvAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -439,6 +445,7 @@ Sagacious builders of the car, cleaver and skilful artisans,-- Make all the men 
 </details>
 </details>
 </div>
+
 ## ०७ ये राजानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/07_ye_rAjAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -512,6 +519,7 @@ The kings and makers of the kings, troop-leaders, masters of the horse, Make all
 </details>
 </details>
 </div>
+
 ## ०८ पर्णोऽसि तनूपानः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/08_parNo-si_tanUpAnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

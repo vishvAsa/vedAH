@@ -33,6 +33,7 @@ A prayer for protection from arrows and for the punishment of enemies
 </details>
 </details>
 </div>
+
 ## ०१ मा नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/01_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Let not the piercers find us, nor let those who wound discover us. O Indra, make
 </details>
 </details>
 </div>
+
 ## ०२ विष्वञ्चो अस्मच्छरवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/02_viShvancho_asmachCharavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ Turned from us let the arrows fall, those shot and those that will be shot. Shaf
 </details>
 </details>
 </div>
+
 ## ०३ यो नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/03_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -229,6 +232,7 @@ Whoever treateth us as foes, be he our own or strange to us, a kinsman or a fore
 </details>
 </details>
 </div>
+
 ## ०४ यः सपत्नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/04_yaH_sapatno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

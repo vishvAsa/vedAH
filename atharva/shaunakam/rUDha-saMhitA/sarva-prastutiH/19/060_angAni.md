@@ -32,6 +32,7 @@ A prayer for perfect bodily and mental health and vigour
 </details>
 </details>
 </div>
+
 ## ०१ वाङ्म आसन्नसोः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/060_angAni/01_vA~Nma_AsannasoH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -109,6 +110,7 @@ May I have voice in my mouth, breath in my nostrils, sight in mine eyes, hearing
 </details>
 </details>
 </div>
+
 ## ०२ ऊर्वोरोजो जङ्घयोर्जवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/060_angAni/02_Urvorojo_janghayorjavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

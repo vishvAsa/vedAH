@@ -28,6 +28,7 @@ Translated: Weber, Ind. Stud. v. 245; Griffith, i. 319; Bloomfield, 104, 535.
 </details>
 </details>
 </div>
+
 ## ०१ यं देवाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/01_yaM_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -89,6 +90,7 @@ The Philter, burning with the pangs of yearning love, which Gods have poured wit
 </details>
 </details>
 </div>
+
 ## ०२ यं विश्वे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/02_yaM_vishve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -148,6 +150,7 @@ The charm which, burning with the pangs of love, the General Gods have poured wi
 </details>
 </details>
 </div>
+
 ## ०३ यमिन्द्राणी स्मरमसिञ्चदप्स्वन्तः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/03_yamindrANI_smaramasinchadapsvantaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -207,6 +210,7 @@ The Philter, burning with the pangs of longing, which Indrani hath effused withi
 </details>
 </details>
 </div>
+
 ## ०४ यमिन्द्राग्नी स्मरमसिञ्चतामप्स्वन्तः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/04_yamindrAgnI_smaramasinchatAmapsvantaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -266,6 +270,7 @@ The charm, aglow with longing, which Indra and Agni have effused within the boso
 </details>
 </details>
 </div>
+
 ## ०५ यं मित्रावरुणौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/05_yaM_mitrAvaruNau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

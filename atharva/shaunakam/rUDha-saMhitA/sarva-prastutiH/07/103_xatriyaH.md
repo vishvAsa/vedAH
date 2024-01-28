@@ -28,6 +28,7 @@ Translated: Ludwig, p. 269; Henry, 41, 116; Griffith, i. 378.—Cf. Bloomfield, 
 </details>
 </details>
 </div>
+
 ## ०१ को अस्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/103_xatriyaH/01_ko_asyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

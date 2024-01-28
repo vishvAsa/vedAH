@@ -32,6 +32,7 @@ A prayer or charm for the defeat and destruction of enemies in battle
 </details>
 </details>
 </div>
+
 ## ०१ अग्निर्नः शत्रून्प्रत्येतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUnpratyetu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ Let the wise Agni go against our foemen, burning against ill-will and imprecatio
 </details>
 </details>
 </div>
+
 ## ०२ यूयमुग्रा मरुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -180,6 +182,7 @@ Mighty are ye for such a deed, O Maruts. Go forward, overcome them and destroy t
 </details>
 </details>
 </div>
+
 ## ०३ अमित्रसेनां मघवन्नस्मान्छत्रूयतीमभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAnChatrUyatImabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -247,6 +250,7 @@ O Maghavan, O Indra, thou who slayest fiends, and, Agni, thou, Burn, both of you
 </details>
 </details>
 </div>
+
 ## ०४ प्रसूत इन्द्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -322,6 +326,7 @@ Shot down the slope, with thy two tawny coursers, forth go thy bolt, destroying 
 </details>
 </details>
 </div>
+
 ## ०५ इन्द्र सेनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/05_indra_senAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -387,6 +392,7 @@ Indra, bewilder thou the foemen's army. With Agni's, Vata's furious rush drive t
 </details>
 </details>
 </div>
+
 ## ०६ इन्द्रः सेनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/06_indraH_senAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

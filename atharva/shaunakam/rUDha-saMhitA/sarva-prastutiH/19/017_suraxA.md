@@ -32,6 +32,7 @@ A prayer for protection from dangers in all directions
 </details>
 </details>
 </div>
+
 ## ०१ अग्निर्मा पातु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/01_agnirmA_pAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Agni from eastward guard me with the Vasus! To him I go, in him I rest: this for
 </details>
 </details>
 </div>
+
 ## ०२ वायुर्मान्तरिक्षेणैतस्या दिशः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/02_vAyurmAntarixeNaitasyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ Vayu with Air protect me from this region. To him I go, etc.
 </details>
 </details>
 </div>
+
 ## ०३ सोमो मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/03_somo_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -219,6 +222,7 @@ May Soma from the south, with Rudras, guard me. To him, etc.
 </details>
 </details>
 </div>
+
 ## ०४ वरुणो मादित्यैरेतस्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/04_varuNo_mAdityairetasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -281,6 +285,7 @@ Varuna with Adityas guard me from this region! To him etc.
 </details>
 </details>
 </div>
+
 ## ०५ सूर्यो मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/05_sUryo_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -341,6 +346,7 @@ Surya with Earth and Heaven from the western region guard me well. To him, etc.
 </details>
 </details>
 </div>
+
 ## ०६ आपो मौषधीमतीरेतस्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/06_Apo_mauShadhImatIretasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -401,6 +407,7 @@ May Waters joined with Plants protect me from this region. To them I go, in them
 </details>
 </details>
 </div>
+
 ## ०७ विश्वकर्मा मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/07_vishvakarmA_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -461,6 +468,7 @@ May Visvakarman with the Seven Rishis be my protector from the northern region. 
 </details>
 </details>
 </div>
+
 ## ०८ इन्द्रो मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/08_indro_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -525,6 +533,7 @@ May Indra, Marut-girt, protect me from this region. To him, etc.
 </details>
 </details>
 </div>
+
 ## ०९ प्रजापतिर्मा प्रजननवान्त्सह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/09_prajApatirmA_prajananavAntsaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -596,6 +605,7 @@ Prajapati, of generative power, with the Pratishlha save me from the nadir! To h
 </details>
 </details>
 </div>
+
 ## १० बृहस्पतिर्मा विश्वैर्देवैरूर्ध्वाया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/10_bRhaspatirmA_vishvairdevairUrdhvAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

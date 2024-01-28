@@ -32,6 +32,7 @@ A hymn to Agni for protection and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ रात्रिंरात्रिमप्रयातं भरन्तोऽश्वायेव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto-shvAyeva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,6 +155,7 @@ Bringing, as 'twere, with care unceasing fodder night after night to feed this s
 </details>
 </details>
 </div>
+
 ## ०२ या ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/02_yA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -211,6 +213,7 @@ Here is thine own desire for wealth: through this be gracious unto us. Joying in
 </details>
 </details>
 </div>
+
 ## ०३ सायंसायं गृहपतिर्नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -277,6 +280,7 @@ Each eve that comes our household's Lord is Agni, showing his. loving-kindness e
 </details>
 </details>
 </div>
+
 ## ०४ प्रातःप्रातर्गृहपतिर्नो अग्निः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -341,6 +345,7 @@ Each morn that comes our household's Lord is Agni, showing. his loving-kindness 
 </details>
 </details>
 </div>
+
 ## ०५ अपश्चा दग्धान्नस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -435,6 +440,7 @@ Never may I come short of food to feed me. Glory to Agni, Rudra, the consumer an
 </details>
 </details>
 </div>
+
 ## ०६ त्वमिन्द्रा पुरुहूत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/06_tvamindrA_puruhUta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

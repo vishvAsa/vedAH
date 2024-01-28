@@ -19,6 +19,7 @@ title = "००९ अध्यात्मम्"
 </details>
 </details>
 </div>
+
 ## ०१ उरुः पृथुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/01_uruH_pRthuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -82,6 +83,7 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 </details>
 </details>
 </div>
+
 ## ०२ प्रथो वरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/02_pratho_varo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -139,6 +141,7 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 </details>
 </details>
 </div>
+
 ## ०३ भवद्वसुरिदद्वसुः संयद्वसुरायद्वसुरिति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -206,6 +209,7 @@ possessive.
 </details>
 </details>
 </div>
+
 ## ०४ नमस्ते अस्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/04_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -263,6 +267,7 @@ possessive.
 </details>
 </details>
 </div>
+
 ## ०५ अन्नाद्येन यशसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/05_annAdyena_yashasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

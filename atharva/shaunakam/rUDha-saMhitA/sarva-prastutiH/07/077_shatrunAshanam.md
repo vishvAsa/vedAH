@@ -32,6 +32,7 @@ An incantation against an enemy
 </details>
 </details>
 </div>
+
 ## ०१ सान्तपना इदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/077_shatrunAshanam/01_sAntapanA_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ Ye Maruts, full of fiery heat, accept this offering brought for you To help us, 
 </details>
 </details>
 </div>
+
 ## ०२ यो नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/077_shatrunAshanam/02_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,6 +173,7 @@ Maruts, the man who filled with rage against us beyond our thoughts would harm u
 </details>
 </details>
 </div>
+
 ## ०३ संवत्सरीणा मरुतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/077_shatrunAshanam/03_saMvatsarINA_marutaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

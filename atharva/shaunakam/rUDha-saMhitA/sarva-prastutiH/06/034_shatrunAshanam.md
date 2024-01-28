@@ -32,6 +32,7 @@ To Agni for protection from enemies
 </details>
 </details>
 </div>
+
 ## ०१ प्राग्नये वाचमीरय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ Send forth thy voice to Agni, to the manly hero of our homes, So may he bear us 
 </details>
 </details>
 </div>
+
 ## ०२ यो रक्षांसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/02_yo_raxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -153,6 +155,7 @@ That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bea
 </details>
 </details>
 </div>
+
 ## ०३ यः परस्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/03_yaH_parasyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -214,6 +217,7 @@ He who from distance far remote shineth across the tracts of land, May he transp
 </details>
 </details>
 </div>
+
 ## ०४ यो विश्वाभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -275,6 +279,7 @@ He who beholds all creatures, who observes them with a careful eye, May he trans
 </details>
 </details>
 </div>
+
 ## ०५ यो अस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/05_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

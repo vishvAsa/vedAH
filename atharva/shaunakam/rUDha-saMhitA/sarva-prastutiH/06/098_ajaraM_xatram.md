@@ -28,6 +28,7 @@ Translated: Griffith, i. 299.
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रो जयाति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/01_indro_jayAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Indra be victor, never to be vanquished, to reign among the Kings as sovran rule
 </details>
 </details>
 </div>
+
 ## ०२ त्वमिन्द्राधिराजः श्रवस्युस्त्वम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/02_tvamindrAdhirAjaH_shravasyustvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ Thou fain for glory, an imperial ruler, hast won dominion over men, O Indra, Of 
 </details>
 </details>
 </div>
+
 ## ०३ प्राच्या दिशस्त्वमिन्द्रासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/03_prAchyA_dishastvamindrAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

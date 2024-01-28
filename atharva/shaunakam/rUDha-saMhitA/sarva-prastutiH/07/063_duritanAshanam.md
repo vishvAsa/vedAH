@@ -32,6 +32,7 @@ A prayer for deliverance from affliction
 </details>
 </details>
 </div>
+
 ## ०१ पृतनाजितं सहमानमग्निमुक्थ्यैर्हवामहे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

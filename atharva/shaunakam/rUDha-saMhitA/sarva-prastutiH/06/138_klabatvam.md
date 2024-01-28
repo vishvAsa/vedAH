@@ -28,6 +28,7 @@ Translated: Weber, Ind. Stud. v. 246; Ludwig, p. 470; Geldner, Ved. Stud. i. 131
 </details>
 </details>
 </div>
+
 ## ०१ त्वं वीरुधाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/01_tvaM_vIrudhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ O Plant, thy fame is spread abroad as best of all the herbs that grow. Unman for
 </details>
 </details>
 </div>
+
 ## ०२ क्लीबं कृध्योपशिनमथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/02_klIbaM_kRdhyopashinamatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ Make him a eunuch with a horn, set thou the crest upon his- head. Let Indra with
 </details>
 </details>
 </div>
+
 ## ०३ क्लीब क्लीबम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/03_klIba_klIbam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,6 +229,7 @@ I have unmanned thee, eunuch! yea, impotent! made thee- impotent, and robbed the
 </details>
 </details>
 </div>
+
 ## ०४ ये ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/04_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -290,6 +294,7 @@ Duas tuas venas, a Diis factas, in quibus stat vigor virilis, paxillo ligneo in 
 </details>
 </details>
 </div>
+
 ## ०५ यथा नडम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/05_yathA_naDam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

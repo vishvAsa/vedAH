@@ -24,6 +24,7 @@ The hymn is wanting in Pāipp. Kāuś. (36. 12) uses it in a women's rite, with 
 </details>
 </details>
 </div>
+
 ## ०१ न्यस्तिका रुरोहिथ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/01_nyastikA_rurohitha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Thou hast grown up, a source of joy to bless me with pros- perity. A hundred are
 </details>
 </details>
 </div>
+
 ## ०२ शुष्यतु मयि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/02_shuShyatu_mayi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ Let thy heart wither for my love and let thy month be dry for me. Parch and dry 
 </details>
 </details>
 </div>
+
 ## ०३ संवननी समुष्पला
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/03_saMvananI_samuShpalA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -231,6 +234,7 @@ Drive us together, tawny! fair! a go-between who wakens love. Drive us together,
 </details>
 </details>
 </div>
+
 ## ०४ यथोदकमपपुषोऽपशुष्यत्यास्यम् एवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/04_yathodakamapapuSho-pashuShyatyAsyam_evA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -292,6 +296,7 @@ Even as his mouth is parched who finds no water for his burn- ing thirst, So par
 </details>
 </details>
 </div>
+
 ## ०५ यथा नकुलो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/05_yathA_nakulo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

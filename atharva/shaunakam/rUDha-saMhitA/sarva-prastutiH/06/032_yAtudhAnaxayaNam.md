@@ -32,6 +32,7 @@ A charm against fiends and goblins
 </details>
 </details>
 </div>
+
 ## ०१ अन्तर्दावे जुहुता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/032_yAtudhAnaxayaNam/01_antardAve_juhutA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ With butter, in his hall v4here fire is burning, perform that sacri- fice which 
 </details>
 </details>
 </div>
+
 ## ०२ रुद्रो वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/032_yAtudhAnaxayaNam/02_rudro_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,6 +173,7 @@ Let Rudra break your necks, O ye Pisachas, and split your ribs asunder, Yatudhan
 </details>
 </details>
 </div>
+
 ## ०३ अभयं मित्रावरुणाविहास्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/032_yAtudhAnaxayaNam/03_abhayaM_mitrAvaruNAvihAstu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A charm for the recovery of a dangerously sick man
 </details>
 </details>
 </div>
+
 ## ०१ मुञ्चामि त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/01_munchAmi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ For life I set thee free by this oblation both from unmarked'. decline and from 
 </details>
 </details>
 </div>
+
 ## ०२ यदि क्षितायुर्यदि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/02_yadi_xitAyuryadi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ Be his days ended, be he now departed, be he brought very near to death already,
 </details>
 </details>
 </div>
+
 ## ०३ सहस्राक्षेण शतवीर्येण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/03_sahasrAxeNa_shatavIryeNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -231,6 +234,7 @@ With sacrifice thousand-eyed and hundred-powered, bringing a hundred lives, have
 </details>
 </details>
 </div>
+
 ## ०४ शतं जीव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/04_shataM_jIva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -298,6 +302,7 @@ Live, waxing in thy strength a hundred autumns, live through a hundred springs, 
 </details>
 </details>
 </div>
+
 ## ०५ प्र विशतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/05_pra_vishatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -371,6 +376,7 @@ Breath, Respiration, come to him, as two car-oxen to their stall! Let all the ot
 </details>
 </details>
 </div>
+
 ## ०६ इहैव स्तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/06_ihaiva_stam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -434,6 +440,7 @@ Breath, Respiration, stay ye here. Go ye not hence away from him, Bring, so that
 </details>
 </details>
 </div>
+
 ## ०७ जरायै त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/07_jarAyai_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -497,6 +504,7 @@ I give thee over to old age, make thee the subject of old age. Let kindly old ag
 </details>
 </details>
 </div>
+
 ## ०८ अभि त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/08_abhi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

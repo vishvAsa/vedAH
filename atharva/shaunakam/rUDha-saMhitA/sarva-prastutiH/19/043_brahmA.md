@@ -32,6 +32,7 @@ In praise of Brahma, Prayer, or Devotion
 </details>
 </details>
 </div>
+
 ## ०१ यत्र ब्रह्मविदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/01_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Whither men versed in Brahma go, with fervour and the cleans- ing rite, Thither 
 </details>
 </details>
 </div>
+
 ## ०२ यत्र ब्रह्मविदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/02_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ Whither etc. Thither let Vayu lead me, let Vayu vouchsafe me vital breath. All h
 </details>
 </details>
 </div>
+
 ## ०३ यत्र ब्रह्मविदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/03_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -224,6 +227,7 @@ Whither, etc. Thither let Surya lead me, let Surya vouchsafe me power of sight. 
 </details>
 </details>
 </div>
+
 ## ०४ यत्र ब्रह्मविदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/04_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -286,6 +290,7 @@ Whither, etc. Thither let Chandra lead me, let Chandra vouchsafe me intellect. A
 </details>
 </details>
 </div>
+
 ## ०५ यत्र ब्रह्मविदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/05_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -350,6 +355,7 @@ Whither, etc. Thither let Soma lead me, let Soma vouchsafe me vital sap. All hai
 </details>
 </details>
 </div>
+
 ## ०६ यत्र ब्रह्मविदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/06_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -412,6 +418,7 @@ Whither, etc. Thither let Indra lead me, let Indra bestow upon me power. All hai
 </details>
 </details>
 </div>
+
 ## ०७ यत्र ब्रह्मविदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/07_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -481,6 +488,7 @@ Whither, etc. Thither, let Waters lead me, let the Waters give me deathless life
 </details>
 </details>
 </div>
+
 ## ०८ यत्र ब्रह्मविदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/08_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

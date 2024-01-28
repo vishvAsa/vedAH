@@ -32,6 +32,7 @@ A prayer for prosperity and happiness
 </details>
 </details>
 </div>
+
 ## ०१ अन्वद्य नोऽनुमतिर्यज्ञम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/01_anvadya_no-numatiryajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -107,6 +108,7 @@ Anumati approve to-day our sacrifice among the Gods! May Agni bear mine offering
 </details>
 </details>
 </div>
+
 ## ०२ अन्विदनुमते त्वम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/02_anvidanumate_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -176,6 +178,7 @@ Do thou, Anumati! approve, and grant us health and happiness. Accept the offered
 </details>
 </details>
 </div>
+
 ## ०३ अनु मन्यतामनुमन्यमानः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/03_anu_manyatAmanumanyamAnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -245,6 +248,7 @@ May he approving in return accord us wealth inexhaustible with store of children
 </details>
 </details>
 </div>
+
 ## ०४ यत्ते नाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/04_yatte_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -310,6 +314,7 @@ Thy name is easy to invoke, good leader! approved, Anumati and rich in bounty. S
 </details>
 </details>
 </div>
+
 ## ०५ एमं यज्ञमनुमतिर्जगाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/05_emaM_yajnamanumatirjagAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -378,6 +383,7 @@ Anumati hath come to this our worship well-formed to give good lands and valiant
 </details>
 </details>
 </div>
+
 ## ०६ अनुमतिः सर्वमिदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/06_anumatiH_sarvamidam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

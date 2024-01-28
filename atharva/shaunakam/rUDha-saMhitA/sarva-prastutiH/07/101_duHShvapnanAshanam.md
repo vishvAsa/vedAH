@@ -28,6 +28,7 @@ Translated: Ludwig, p. 444; Henry, 40, 115; Griffith, i. 378.—Given by Bergaig
 </details>
 </details>
 </div>
+
 ## ०१ यत्स्वप्ने अन्नमश्नामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/101_duHShvapnanAshanam/01_yatsvapne_annamashnAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

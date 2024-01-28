@@ -32,6 +32,7 @@ A charm against fever
 </details>
 </details>
 </div>
+
 ## ०१ अग्नेरिवास्य दहत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/020_yaxmanAshanam/01_agnerivAsya_dahata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ He goes away as 'twere from this fierce burning fire, inebriated and lamenting h
 </details>
 </details>
 </div>
+
 ## ०२ नमो रुद्राय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/020_yaxmanAshanam/02_namo_rudrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ To Rudra and to Fever be our worship paid: worship be paid to Varuna the splendi
 </details>
 </details>
 </div>
+
 ## ०३ अयं यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/020_yaxmanAshanam/03_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

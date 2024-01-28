@@ -32,6 +32,7 @@ A charm against disease and evil spirits
 </details>
 </details>
 </div>
+
 ## ०१ शतवारो अनीनशद्यक्ष्मान्रक्षांसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/01_shatavAro_anInashadyaxmAnraxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ The Hundred-haired hath banished hence fiends and Consump- tions by its might. W
 </details>
 </details>
 </div>
+
 ## ०२ शृङ्गाभ्यां रक्षो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/02_shRngAbhyAM_raxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ It drives off demons with its horns and sorceresses with its root, It stays Cons
 </details>
 </details>
 </div>
+
 ## ०३ ये यक्ष्मासो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/03_ye_yaxmAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -234,6 +237,7 @@ Consumptions, light and serious, and those which sounds accompany, All these the
 </details>
 </details>
 </div>
+
 ## ०४ शतं वीरानजनयच्छतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/04_shataM_vIrAnajanayachChatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -300,6 +304,7 @@ A hundred men hath it produced, hundred Consumptions chased away, All fiends of 
 </details>
 </details>
 </div>
+
 ## ०५ हिरण्यशृङ्ग ऋषभः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/05_hiraNyashRnga_RShabhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -368,6 +373,7 @@ The Bull that weareth horns of gold, this Amulet with hundred hairs, Hath cleft 
 </details>
 </details>
 </div>
+
 ## ०६ शतमहं दुर्णाम्नीनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/06_shatamahaM_durNAmnInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

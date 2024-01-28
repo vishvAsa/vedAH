@@ -32,6 +32,7 @@ Glorification of the power of prayer and to Agni
 </details>
 </details>
 </div>
+
 ## ०१ धीती वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/001_AtmA/01_dhItI_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -105,6 +106,7 @@ They who by thought have guided all that Speech hath best, or they who with thei
 </details>
 </details>
 </div>
+
 ## ०२ स वेद
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/001_AtmA/02_sa_veda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

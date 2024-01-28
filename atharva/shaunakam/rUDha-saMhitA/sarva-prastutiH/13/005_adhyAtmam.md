@@ -19,6 +19,7 @@ title = "००५ अध्यात्मम्"
 </details>
 </details>
 </div>
+
 ## ०१ कीर्तिश्च यशश्चाम्भश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/01_kIrtishcha_yashashchAmbhashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -79,6 +80,7 @@ having the sense of 'might.'
 </details>
 </details>
 </div>
+
 ## ०२ य एतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/02_ya_etam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -136,6 +138,7 @@ having the sense of 'might.'
 </details>
 </details>
 </div>
+
 ## ०३ न द्वितीयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/03_na_dvitIyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -193,6 +196,7 @@ having the sense of 'might.'
 </details>
 </details>
 </div>
+
 ## ०४ न पञ्चमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/04_na_panchamo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -250,6 +254,7 @@ having the sense of 'might.'
 </details>
 </details>
 </div>
+
 ## ०५ नाष्टमो न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/05_nAShTamo_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -307,6 +312,7 @@ having the sense of 'might.'
 </details>
 </details>
 </div>
+
 ## ०६ स सर्वस्मै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/06_sa_sarvasmai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -366,6 +372,7 @@ not.
 </details>
 </details>
 </div>
+
 ## ०७ तमिदं निगतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/07_tamidaM_nigatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -425,6 +432,7 @@ only.
 </details>
 </details>
 </div>
+
 ## ०८ सर्वे अस्मिन्देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/08_sarve_asmindevA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

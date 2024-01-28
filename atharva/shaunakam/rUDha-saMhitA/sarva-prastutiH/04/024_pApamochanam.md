@@ -32,6 +32,7 @@ A hymn of prayer and praise to Indra
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रस्य मन्महे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/01_indrasya_manmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ I think of Indra, only him for ever, fiend-slayer, May these lauds of mine come 
 </details>
 </details>
 </div>
+
 ## ०२ य उग्रीणामुग्रबाहुर्ययुर्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/02_ya_ugrINAmugrabAhuryayuryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ Who with strong arms o'ercame his strong opponents, who broke and crushed the po
 </details>
 </details>
 </div>
+
 ## ०३ यश्चर्षणिप्रो वृषभः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/03_yashcharShaNipro_vRShabhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,6 +235,7 @@ Ruler of men, finder of light, the hero: the pressing-stones declare his valour,
 </details>
 </details>
 </div>
+
 ## ०४ यस्य वशास
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/04_yasya_vashAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -297,6 +301,7 @@ The lord of barren cows and bulls and oxen, finder of light for whom the posts a
 </details>
 </details>
 </div>
+
 ## ०५ यस्य जुष्टिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/05_yasya_juShTim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -361,6 +366,7 @@ Whose favour those desire who offer Soma, whom, arrow-bearer, men invoke in batt
 </details>
 </details>
 </div>
+
 ## ०६ यः प्रथमः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/06_yaH_prathamaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -431,6 +437,7 @@ Why was born, first, for active operation, whose valour as the first hath been a
 </details>
 </details>
 </div>
+
 ## ०७ यः सङ्ग्रामान्नयति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/07_yaH_sangrAmAnnayati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

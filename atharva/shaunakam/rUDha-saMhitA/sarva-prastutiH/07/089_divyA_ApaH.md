@@ -32,6 +32,7 @@ A prayer for purification and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ अपो दिव्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/089_divyA_ApaH/01_apo_divyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ The heavenly Waters have I ranged: we have been sated with their dew. Here, Agni
 </details>
 </details>
 </div>
+
 ## ०२ सं माग्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/089_divyA_ApaH/02_saM_mAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,6 +173,7 @@ Endow me with the gift of strength, with children, and a length- ened life. May 
 </details>
 </details>
 </div>
+
 ## ०३ इदमापः प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/089_divyA_ApaH/03_idamApaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -244,6 +247,7 @@ Ye Waters, wash away this stain and whatsoever taint be here, Each sinful wrong 
 </details>
 </details>
 </div>
+
 ## ०४ एधोऽस्येधिषीय समिदसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/089_divyA_ApaH/04_edho-syedhiShIya_samidasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

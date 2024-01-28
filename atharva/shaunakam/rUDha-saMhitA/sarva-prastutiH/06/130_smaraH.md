@@ -28,6 +28,7 @@ Translated: Weber, Ind. Stud. v. 244; Ludwig, p. 515; Grill, 58, 174; Griffith, 
 </details>
 </details>
 </div>
+
 ## ०१ रथजितां राथजितेयीनामप्सरसामयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ This is the Apsarases' love-spell, the conquering, resistless ones'. Send the sp
 </details>
 </details>
 </div>
+
 ## ०२ असौ मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/02_asau_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ I pray, may he remember me, think of me, loving and beloved. Send forth the spel
 </details>
 </details>
 </div>
+
 ## ०३ यथा मम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/03_yathA_mama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,6 +231,7 @@ That he may think of me, that I may never, never think of him,. Send forth the s
 </details>
 </details>
 </div>
+
 ## ०४ उन्मादयत मरुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/04_unmAdayata_maruta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -35,6 +35,7 @@ A glorification of a sacrificial goat
 </details>
 </details>
 </div>
+
 ## ०१ आ नयैतमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/01_A_nayaitamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ Seize him and bring him hither. Let him travel. foreknowing, to the regions of t
 </details>
 </details>
 </div>
+
 ## ०२ इन्द्राय भागम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/02_indrAya_bhAgam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ I bring thee hither as a share for Indra; prince, at this sacrifice,. for him wh
 </details>
 </details>
 </div>
+
 ## ०३ प्र पदोऽव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/03_pra_pado-va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -233,6 +236,7 @@ Wash from his feet all trace of evil-doing: foreknowing, with cleansed hooves le
 </details>
 </details>
 </div>
+
 ## ०४ अनुछ्य श्यामेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/04_anuChya_shyAmena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -299,6 +303,7 @@ Cut up this skin with the grey knife, Dissector! dividing joint from joint, and 
 </details>
 </details>
 </div>
+
 ## ०५ ऋचा कुम्भीमध्यग्नौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/05_RchA_kumbhImadhyagnau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -364,6 +369,7 @@ With verse upon the fire I set the caldron: pour in the water; lay him down with
 </details>
 </details>
 </div>
+
 ## ०६ उत्क्रामातः परि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/06_utkrAmAtaH_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -430,6 +436,7 @@ Hence come thou forth, vexed by no pain or torment. Mount to the third heaven fr
 </details>
 </details>
 </div>
+
 ## ०७ अजो अग्निरजमु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/07_ajo_agnirajamu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -494,6 +501,7 @@ The Goat is Agni: light they call him, saying that living man must give him to t
 </details>
 </details>
 </div>
+
 ## ०८ पञ्चौदनः पञ्चधा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/08_panchaudanaH_panchadhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -559,6 +567,7 @@ Let the Panchaudana Goat, about to visit the three lights, pass away in five div
 </details>
 </details>
 </div>
+
 ## ०९ अजा रोह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/09_ajA_roha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -625,6 +634,7 @@ Rise to that world, O Goat, where dwell the righteous: pass, like a Sarabha veil
 </details>
 </details>
 </div>
+
 ## १० अजस्त्रिनाके त्रिदिवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/10_ajastrinAke_tridive.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -691,6 +701,7 @@ The Goat Panchaudana, given to a Brahman, sets the bestower on the pitch of heav
 </details>
 </details>
 </div>
+
 ## ११ एतद्वो ज्योतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/11_etadvo_jyotiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -759,6 +770,7 @@ That is the third light that is yours, ye Fathers. He gives the Goat Panchaudana
 </details>
 </details>
 </div>
+
 ## १२ ईजानानां सुकृताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/12_IjAnAnAM_sukRtAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -823,6 +835,7 @@ Seeking the world of good men who have worshipped, he gives the Goat Panchaudana
 </details>
 </details>
 </div>
+
 ## १३ अजो ह्यग्नेरजनिष्ट
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/13_ajo_hyagnerajaniShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -892,6 +905,7 @@ Truly the Goat sprang from the glow of Agni, inspired as sage with all a sage's 
 </details>
 </details>
 </div>
+
 ## १४ अमोतं वासो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/14_amotaM_vAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -952,6 +966,7 @@ Home-woven raiment let him give, and gold as guerdon to the priests. So he obtai
 </details>
 </details>
 </div>
+
 ## १५ एतास्त्वाजोप यन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/15_etAstvAjopa_yantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1020,6 +1035,7 @@ Near to thee, Goat! approach these streams of Soma, divine, distilling meath, be
 </details>
 </details>
 </div>
+
 ## १६ अजोस्यज स्वर्गोसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/16_ajosyaja_svargosi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1087,6 +1103,7 @@ Unborn art thou, O Goat: to heaven thou goest. Though thee Angirases knew that r
 </details>
 </details>
 </div>
+
 ## १७ येना सहस्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/17_yenA_sahasram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1155,6 +1172,7 @@ Convey our sacrifice to heaven, that it may reach the Gods, with that Whereby th
 </details>
 </details>
 </div>
+
 ## १८ अजः पक्वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/18_ajaH_pakvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1217,6 +1235,7 @@ The Goat Panchaudana, when cooked, transporteth, repelling Nirriti, to the world
 </details>
 </details>
 </div>
+
 ## १९ यं ब्राह्मणे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/19_yaM_brAhmaNe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1279,6 +1298,7 @@ The droppings of the Odanas attending the Goat which I have lodged with priest o
 </details>
 </details>
 </div>
+
 ## २० अजो वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/20_ajo_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1341,6 +1361,7 @@ This Unborn cleft apart in the beginning: his breast became the earth, his back 
 </details>
 </details>
 </div>
+
 ## २१ सत्यं चर्तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/21_satyaM_chartam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1411,6 +1432,7 @@ His eyes were Truth and Right. The whole together was Truth: Viraj his head and 
 </details>
 </details>
 </div>
+
 ## २२ अपरिमितमेव यज्ञमाप्नोत्यपरिमितम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/22_aparimitameva_yajnamApnotyaparimitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1473,6 +1495,7 @@ A boundless sacrifice he performs, he wins himself a boundless world: Who gives 
 </details>
 </details>
 </div>
+
 ## २३ नास्यास्थीनि भिन्द्यान्न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/23_nAsyAsthIni_bhindyAnna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1540,6 +1563,7 @@ Let him not break the victim's bones, let him not suck the marrow out. Let the m
 </details>
 </details>
 </div>
+
 ## २४ इदमिदमेवास्य रूपम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/24_idamidamevAsya_rUpam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1609,6 +1633,7 @@ This, even this is his true form: the man uniteth him therewith. Food, greatness
 </details>
 </details>
 </div>
+
 ## २५ पञ्च रुक्मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/25_pancha_rukmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1674,6 +1699,7 @@ The five gold pieces, and the five new garments, and the five milch-kine yield h
 </details>
 </details>
 </div>
+
 ## २६ पञ्च रुक्मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/26_pancha_rukmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1738,6 +1764,7 @@ The five gold pieces, area light to light him, robes become armour to defend his
 </details>
 </details>
 </div>
+
 ## २७ या पूर्वम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/27_yA_pUrvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1802,6 +1829,7 @@ When she who hath been wedded finds a second husband after- ward, The twain shal
 </details>
 </details>
 </div>
+
 ## २८ समानलोको भवति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/28_samAnaloko_bhavati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1866,6 +1894,7 @@ One world with the re-wedded wife becomes the second hus- band's home. Who gives
 </details>
 </details>
 </div>
+
 ## २९ अनुपूर्ववत्सां धेनुमनड्वाहमुपबर्हणम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/29_anupUrvavatsAM_dhenumanaDvAhamupabarhaNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1928,6 +1957,7 @@ They who have given a cow who drops a calf each season, or an ox, A coverlet, a 
 </details>
 </details>
 </div>
+
 ## ३० आत्मानं पितरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/30_AtmAnaM_pitaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1990,6 +2020,7 @@ Himself, the father and the son, the grandson, and the father's sire, Mother, wi
 </details>
 </details>
 </div>
+
 ## ३१ यो वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/31_yo_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2064,6 +2095,7 @@ The man who knows the season named the Scorching--the Goat Pafichaudana is this 
 </details>
 </details>
 </div>
+
 ## ३२ यो वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/32_yo_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2130,6 +2162,7 @@ The man who knows the season called the Working takes to himself the active fame
 </details>
 </details>
 </div>
+
 ## ३३ यो वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/33_yo_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2195,6 +2228,7 @@ The man who knows the season called the Meeting takes to him- self the gathering
 </details>
 </details>
 </div>
+
 ## ३४ यो वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/34_yo_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2260,6 +2294,7 @@ The man who knows the called the Swelling takes to himself the swelling fame, hi
 </details>
 </details>
 </div>
+
 ## ३५ यो वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/35_yo_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2334,6 +2369,7 @@ The man who knows the season called the Rising takes to him- self the rising fam
 </details>
 </details>
 </div>
+
 ## ३६ यो वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/36_yo_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2404,6 +2440,7 @@ The man who knows the season called Surpassing takes to him- self the conquering
 </details>
 </details>
 </div>
+
 ## ३७ अजं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/37_ajaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2469,6 +2506,7 @@ He cooks the Goat and the five boiled rice messes. May the uni- ted Quarters, al
 </details>
 </details>
 </div>
+
 ## ३८ तास्ते रक्षन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/38_tAste_raxantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

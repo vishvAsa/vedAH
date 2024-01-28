@@ -29,6 +29,7 @@ A prayer for wealth and children
 </details>
 </details>
 </div>
+
 ## ०१ धाता दधातु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/01_dhAtA_dadhAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,6 +94,7 @@ May the Ordainer give us wealth, Lord, ruler of the world of life: with full han
 </details>
 </details>
 </div>
+
 ## ०२ धाता दधातु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/02_dhAtA_dadhAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ May Dhatar grant the worshipper henceforth imperishable life. May we obtain the 
 </details>
 </details>
 </div>
+
 ## ०३ धाता विश्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/03_dhAtA_vishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -231,6 +234,7 @@ To him may Dhatar grant all kinds of blessings who, craving children, serves him
 </details>
 </details>
 </div>
+
 ## ०४ धाता रातिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

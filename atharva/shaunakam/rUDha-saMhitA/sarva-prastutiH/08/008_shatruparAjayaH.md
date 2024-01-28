@@ -28,6 +28,7 @@ Imprecations directed against a hostile army
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रो मन्थतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/01_indro_manthatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,6 +91,7 @@ Indra the Shaker shake them up, brave, hero, fortdemolisher, That into thousand 
 </details>
 </details>
 </div>
+
 ## ०२ पूतिरज्जुरुपध्मानी पूतिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/02_pUtirajjurupadhmAnI_pUtim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,6 +160,7 @@ Let Putirajju with her breath corrupt and putrefy that host, And terror smite ou
 </details>
 </details>
 </div>
+
 ## ०३ अमूनश्वत्थ निः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/03_amUnashvattha_niH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,6 +235,7 @@ Asvattha, rend those men; do thou devour them quickly, Khadira! Like reeds let t
 </details>
 </details>
 </div>
+
 ## ०४ परुषानमून्परुषाह्वः कृणोतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/04_paruShAnamUnparuShAhvaH_kRNotu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -299,6 +303,7 @@ Let Parushahva make them reeds, and let the bulrush strike them down: Bound in a
 </details>
 </details>
 </div>
+
 ## ०५ अन्तरिक्षं जालमासीज्जालदण्डा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/05_antarixaM_jAlamAsIjjAladaNDA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -365,6 +370,7 @@ Air was the net; the poles thereof were the great quarters of the sky: Sakra the
 </details>
 </details>
 </div>
+
 ## ०६ बृहद्धि जालम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/06_bRhaddhi_jAlam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -433,6 +439,7 @@ Verily mighty is the net of mighty Sakra rich in wealth: Therewith press all the
 </details>
 </details>
 </div>
+
 ## ०७ बृहत्ते जालम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/07_bRhatte_jAlam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -498,6 +505,7 @@ Great is thy net, brave Indra, thine the mighty match for a thousand, Lord of Hu
 </details>
 </details>
 </div>
+
 ## ०८ अयं लोको
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/08_ayaM_loko.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -558,6 +566,7 @@ This world so mighty was the net of Sakra, of the Mighty One: With this, the net
 </details>
 </details>
 </div>
+
 ## ०९ सेदिरुग्रा व्यृद्धिरार्तिश्चानपवाचना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/09_sedirugrA_vyRddhirArtishchAnapavAchanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -619,6 +628,7 @@ Great weakness and misfortune, pain which words can never charm away, Languor, f
 </details>
 </details>
 </div>
+
 ## १० मृत्यवेऽमून्प्र यच्छामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/10_mRtyave-mUnpra_yachChAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -683,6 +693,7 @@ I give those foemen up to Death: bound in the bonds of Death are they. I bind an
 </details>
 </details>
 </div>
+
 ## ११ नयतामून्मृत्युदूता यमदूता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/11_nayatAmUnmRtyudUtA_yamadUtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -746,6 +757,7 @@ Bear them away, Death's messengers! envoys of Yama! bind them fast. More than a 
 </details>
 </details>
 </div>
+
 ## १२ साध्या एकम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/12_sAdhyA_ekam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -808,6 +820,7 @@ Forth go the Sadhyas in their might bearing one netpole raised aloft. One pole t
 </details>
 </details>
 </div>
+
 ## १३ विश्वे देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/13_vishve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -869,6 +882,7 @@ The Visve Devas from above shall come depressing it with might, And in the midst
 </details>
 </details>
 </div>
+
 ## १४ वनस्पतीन्वानस्पत्यानोषधीरुत वीरुधः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/14_vanaspatInvAnaspatyAnoShadhIruta_vIrudhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -935,6 +949,7 @@ Trees of the forest, trees that bear flower and fruit, and herbs and plants, Qua
 </details>
 </details>
 </div>
+
 ## १५ गन्धर्वाप्सरसः सर्पान्देवान्पुण्यजनान्पितॄन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/15_gandharvApsarasaH_sarpAndevAnpuNyajanAnpitRRn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1000,6 +1015,7 @@ Gandharvas, and Apsarases, Gods, Serpents, Fathers, Holy Men, Seen and unseen, I
 </details>
 </details>
 </div>
+
 ## १६ इम उप्ता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/16_ima_uptA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1065,6 +1081,7 @@ Here spread are snares of Death wherefrom thou, once within them, ne'er art free
 </details>
 </details>
 </div>
+
 ## १७ घर्मः समिद्धो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/17_gharmaH_samiddho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1136,6 +1153,7 @@ The Gharma hath been warmed with fire: this Homa slays a thousand men. Let Bhava
 </details>
 </details>
 </div>
+
 ## १८ मृत्योराषमा पद्यन्ताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/18_mRtyorAShamA_padyantAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1203,6 +1221,7 @@ Their portion be the fire of Death, hunger, exhaustion, slaughter, fear. With yo
 </details>
 </details>
 </div>
+
 ## १९ पराजिताः प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/19_parAjitAH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1269,6 +1288,7 @@ Fly, conquered, in alarm, ye foes, run driven by the spell away! Let not one man
 </details>
 </details>
 </div>
+
 ## २० अव पद्यन्तामेषामायुधानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/20_ava_padyantAmeShAmAyudhAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1330,6 +1350,7 @@ Down fall their weapons on the ground: no strength be theirs to point a shaft: T
 </details>
 </details>
 </div>
+
 ## २१ सं क्रोशतामेनान्द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/21_saM_kroshatAmenAndyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1393,6 +1414,7 @@ Let Heaven and Earth roar out in wrath against them, and Air with all the Deitie
 </details>
 </details>
 </div>
+
 ## २२ दिशश्चतस्रोऽश्वतर्यो देवरथस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/22_dishashchatasro-shvataryo_devarathasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1457,6 +1479,7 @@ The mules of the Gods' car are heaven's four quarters; their hooves are sacred c
 </details>
 </details>
 </div>
+
 ## २३ संवत्सरो रथः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/23_saMvatsaro_rathaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1521,6 +1544,7 @@ Year is the car, Full Year the seat for driving, Viraj the pole, the chariot's f
 </details>
 </details>
 </div>
+
 ## २४ इतो जयेतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/008_shatruparAjayaH/24_ito_jayeto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -28,6 +28,7 @@ Translated: Ludwig, p. 469; Zimmer, p. 234; Griffith, i. 324.
 </details>
 </details>
 </div>
+
 ## ०१ वायुरेनाः समाकरत्त्वष्टा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarattvaShTA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ Vayu collected these: to find their sustenance be Tvashtar's care: May Indra ble
 </details>
 </details>
 </div>
+
 ## ०२ लोहितेन स्वधितिना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ Take thou the iron axe and make a pair by marks upon their ears. This sign the A
 </details>
 </details>
 </div>
+
 ## ०३ यथा चक्रुर्देवासुरा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

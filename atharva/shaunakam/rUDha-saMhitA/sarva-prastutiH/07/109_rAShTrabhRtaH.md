@@ -28,6 +28,7 @@ Translated: Muir, v. 429 (vss. 1-4); Ludwig, p. 456; Henry, 42, 118; Griffith, i
 </details>
 </details>
 </div>
+
 ## ०१ इदमुग्राय बभ्रवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/01_idamugrAya_babhrave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ My homage to the strong, the brown, the sovran lord among the dice! Butter on Ka
 </details>
 </details>
 </div>
+
 ## ०२ घृतमप्सराभ्यो वह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/02_ghRtamapsarAbhyo_vaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ Bear butter to the Apsarases, O Agni, and to the Dice bear dust and sand and wat
 </details>
 </details>
 </div>
+
 ## ०३ अप्सरसः सधमादम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/03_apsarasaH_sadhamAdam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -231,6 +234,7 @@ The Apsarases take pleasure in the banquet between the Sun and. the libation-hol
 </details>
 </details>
 </div>
+
 ## ०४ आदिनवं प्रतिदीव्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/04_AdinavaM_pratidIvne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -300,6 +304,7 @@ Evil be mine opponent's luck! Sprinkle thou butter over us. Strike, as a tree wi
 </details>
 </details>
 </div>
+
 ## ०५ यो नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/05_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -366,6 +371,7 @@ The God who found for us this wealth for gambling, to cast the dice and count th
 </details>
 </details>
 </div>
+
 ## ०६ संवसव इति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/06_saMvasava_iti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -442,6 +448,7 @@ Fellow-inhabitants, such is your title, for Dice with looks of power support dom
 </details>
 </details>
 </div>
+
 ## ०७ देवान्यन्नाथितो हुवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/07_devAnyannAthito_huve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

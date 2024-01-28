@@ -32,6 +32,7 @@ A lover's sleep-charm
 </details>
 </details>
 </div>
+
 ## ०१ सहस्रशृङ्गो वृषभो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/01_sahasrashRngo_vRShabho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ The Bull who hath a thousand horns, who rises up from out the sea, By him the st
 </details>
 </details>
 </div>
+
 ## ०२ न भूमिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/02_na_bhUmim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ Over the surface of the earth there breathes no wind, there looks. no eye. Lull 
 </details>
 </details>
 </div>
+
 ## ०३ प्रोष्ठेशयास्तल्पेशया नारीर्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -231,6 +234,7 @@ The woman sleeping in the court, lying without, or stretched on beds, The matron
 </details>
 </details>
 </div>
+
 ## ०४ एजदेजदजग्रभं चक्षुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/04_ejadejadajagrabhaM_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -293,6 +297,7 @@ Each moving thing have I secured, have held and held the eye and breath. Each li
 </details>
 </details>
 </div>
+
 ## ०५ य आस्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/05_ya_Aste.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -365,6 +370,7 @@ The man who sits, the man who walks, whoever stands and clearly sees Of these we
 </details>
 </details>
 </div>
+
 ## ०६ स्वप्तु माता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/06_svaptu_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -433,6 +439,7 @@ Sleep mother, let the father sleep, sleep dog, and master of the home. Let all h
 </details>
 </details>
 </div>
+
 ## ०७ स्वप्न स्वप्नाभिकरणेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

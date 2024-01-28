@@ -32,6 +32,7 @@ A charm to secure long life and dominion to a prince
 </details>
 </details>
 </div>
+
 ## ०१ इदं वर्चो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/01_idaM_varcho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ To me hath come this word given by Agni, fame, force and might, and strength, an
 </details>
 </details>
 </div>
+
 ## ०२ वर्च आ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/02_varcha_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,6 +175,7 @@ For mighty strength, for action, I receive thee, for manly power, to last a hund
 </details>
 </details>
 </div>
+
 ## ०३ ऊर्जे त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/03_Urje_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -241,6 +244,7 @@ For conquering strength and energy and vigour I fasten thee for chieftainship, f
 </details>
 </details>
 </div>
+
 ## ०४ ऋतुभ्यष्ट्वार्तवेभ्यो माद्भ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

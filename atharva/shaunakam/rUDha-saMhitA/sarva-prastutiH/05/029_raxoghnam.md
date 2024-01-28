@@ -32,6 +32,7 @@ A charm for the destruction of malignant goblins
 </details>
 </details>
 </div>
+
 ## ०१ पुरस्ताद्युक्तो वह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/01_purastAdyukto_vaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Made ready in the east drive forth, take notice of what is hap- pening here, omn
 </details>
 </details>
 </div>
+
 ## ०२ तथा तदग्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/02_tathA_tadagne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -169,6 +171,7 @@ Accordant with all Gods, O Jatavedas Agni, perform this work as we beseech thee,
 </details>
 </details>
 </div>
+
 ## ०३ यथा सो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/03_yathA_so.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -230,6 +233,7 @@ Unanimous, with all the Gods together, so do this thing O Agni Jatavedas, that t
 </details>
 </details>
 </div>
+
 ## ०४ अक्ष्यौ नि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/04_axyau_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -294,6 +298,7 @@ Pierce both his eyes, pierce thou the heart within him, crush thou his teeth and
 </details>
 </details>
 </div>
+
 ## ०५ यदस्य हृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/05_yadasya_hRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -358,6 +363,7 @@ Whatever of his body hath been taken, plundered, borne off, or eaten by Pisachas
 </details>
 </details>
 </div>
+
 ## ०६ आमे सुपक्वे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/06_Ame_supakve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -424,6 +430,7 @@ If some Pisacha in my food raw, ready, thoroughly cooked, or, spotty, hath decei
 </details>
 </details>
 </div>
+
 ## ०७ क्षीरे मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/07_xIre_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -486,6 +493,7 @@ If one hath cheated me in milk or porridge, in food from grain or plants that ne
 </details>
 </details>
 </div>
+
 ## ०८ अपां मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/08_apAM_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -539,6 +547,7 @@ If one, flesh eater, in a draught of water have wronged me lying in the bed of g
 </details>
 </details>
 </div>
+
 ## ०९ दिवा मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/09_divA_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -603,6 +612,7 @@ If one, flesh-eater, in the day or night-time have wronged me lying in the bed o
 </details>
 </details>
 </div>
+
 ## १० क्रव्यादमग्ने रुधिरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/10_kravyAdamagne_rudhiram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -667,6 +677,7 @@ O Agni Jatavedas, slay the bloody Pisacha, flesh-devourer, mind- destroyer, Stro
 </details>
 </details>
 </div>
+
 ## ११ सनादग्ने मृणसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/11_sanAdagne_mRNasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -730,6 +741,7 @@ Thou, Agni, ever slayest Yatudhanas, the fiends have never con- quered thee in b
 </details>
 </details>
 </div>
+
 ## १२ समाहर जातवेदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/12_samAhara_jAtavedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -792,6 +804,7 @@ Collect, O Jatavedas, what hath been removed and borne away. Let this man's memb
 </details>
 </details>
 </div>
+
 ## १३ सोमस्येव जातवेदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/13_somasyeva_jAtavedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -856,6 +869,7 @@ Like as the Soma's tendril, thus, O Jatavedas let him swell, Let him live, Agni 
 </details>
 </details>
 </div>
+
 ## १४ एतास्ते अग्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/14_etAste_agne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -919,6 +933,7 @@ Here, Agni, is the fuel, here are logs that crush Pisachas down. O Jatavedas, wi
 </details>
 </details>
 </div>
+
 ## १५ तार्ष्टाघीरग्ने समिधः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/15_tArShTAghIragne_samidhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

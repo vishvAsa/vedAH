@@ -28,6 +28,7 @@ Translated: Zimmer, p. 68; Grill, 50, 176; Griffith, i. 321; Bloomfield, 31, 536
 </details>
 </details>
 </div>
+
 ## ०१ देवी देव्यामधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/01_devI_devyAmadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,6 +92,7 @@ Born from the bosom of wide Earth the Goddess, godlike Plant, art thou: So we, N
 </details>
 </details>
 </div>
+
 ## ०२ दृंह प्रत्नान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/02_dRMha_pratnAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -152,6 +154,7 @@ Make the old firm, make new hair spring, lengthen what has already grown.
 </details>
 </details>
 </div>
+
 ## ०३ यस्ते केशोऽवपद्यते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/03_yaste_kesho-vapadyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

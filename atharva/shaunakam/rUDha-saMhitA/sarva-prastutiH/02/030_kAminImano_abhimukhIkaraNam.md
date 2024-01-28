@@ -32,6 +32,7 @@ A man's love-charm
 </details>
 </details>
 </div>
+
 ## ०१ यथेदं भूम्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/01_yathedaM_bhUmyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ As the wind shake this Tuft of Grass hither and thither on the ground. So do I s
 </details>
 </details>
 </div>
+
 ## ०२ सं चेन्नयाथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/02_saM_chennayAtho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -178,6 +180,7 @@ Ye, Asvins, lead together, ye unite and bring the loving pair. Now have the fort
 </details>
 </details>
 </div>
+
 ## ०३ यत्सुपर्णा विवक्षवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/03_yatsuparNA_vivaxavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -247,6 +250,7 @@ When eagles, calling out aloud, are screaming in the joy of health, Then to my c
 </details>
 </details>
 </div>
+
 ## ०४ यदन्तरं तद्बाह्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/04_yadantaraM_tadbAhyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -312,6 +316,7 @@ Let what is inward turn outside, let what is outward be within: Seize and posses
 </details>
 </details>
 </div>
+
 ## ०५ एयमगन्पतिकामा जनिकामोऽहमागमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/05_eyamaganpatikAmA_janikAmo-hamAgamam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

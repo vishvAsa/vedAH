@@ -32,6 +32,7 @@ A charm to frustrate an enemy's sacrifice
 </details>
 </details>
 </div>
+
 ## ०१ यत्किं चासौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/01_yatkiM_chAsau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Whatever sacrifice that man performeth with voice, mind, sacred formula, oblatio
 </details>
 </details>
 </div>
+
 ## ०२ यातुधाना निरृतिरादु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/02_yAtudhAnA_nirRtirAdu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ For him may sorcerers, Destruction, demons strike and prevent fulfilment through
 </details>
 </details>
 </div>
+
 ## ०३ अजिराधिराजौ श्येनौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/03_ajirAdhirAjau_shyenau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -231,6 +234,7 @@ Let the two Sovrans, swift to come, like falcons swooping on their prey, Destroy
 </details>
 </details>
 </div>
+
 ## ०४ अपाञ्चौ त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/04_apAnchau_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -295,6 +299,7 @@ I seize thine arms and draw them back, I bind a bandage on thy mouth. I with the
 </details>
 </details>
 </div>
+
 ## ०५ अपि नह्यामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/05_api_nahyAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

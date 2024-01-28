@@ -31,6 +31,7 @@ Cosmogonical and mystico-theological doctrine
 </details>
 </details>
 </div>
+
 ## ०१ ब्रह्म जज्ञानम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/01_brahma_jajnAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -112,6 +113,7 @@ Eastward at first the prayer was generated: Vena disclosed bright flashes from t
 </details>
 </details>
 </div>
+
 ## ०२ इयं पित्र्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/02_iyaM_pitryA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -190,6 +192,7 @@ Let this Queen come in front, her Father's daughter, found in the worlds for ear
 </details>
 </details>
 </div>
+
 ## ०३ प्र यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/03_pra_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -264,6 +267,7 @@ He who was born as his all-knowing kinsman declareth all the deities' generation
 </details>
 </details>
 </div>
+
 ## ०४ स हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/04_sa_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -341,6 +345,7 @@ For he, true to the law of Earth and Heaven, established both the mighty worlds 
 </details>
 </details>
 </div>
+
 ## ०५ स बुध्न्यादाष्ट्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -419,6 +424,7 @@ He from the depth hath been reborn for ever, Brihaspati the world's sole Lord an
 </details>
 </details>
 </div>
+
 ## ०६ नूनं तदस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/06_nUnaM_tadasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -490,6 +496,7 @@ The sage and poet verily advanceth the statute of that mighty God primeval. He w
 </details>
 </details>
 </div>
+
 ## ०७ योऽथर्वाणं पितरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/07_yo-tharvANaM_pitaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A charm to bring the cattle home
 </details>
 </details>
 </div>
+
 ## ०१ अस्थाद् द्यौरस्थात्पृथिव्यस्थाद्विश्वमिदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/01_asthAd_dyaurasthAtpRthivyasthAdvishvamidam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Firm stands the heaven, firm stands the earth, firm stands this universal world,
 </details>
 </details>
 </div>
+
 ## ०२ य उदानट्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/02_ya_udAnaT.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ I call the Herdsman, him who knows the way to drive the cattle forth, Who knows 
 </details>
 </details>
 </div>
+
 ## ०३ जातवेदो नि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/03_jAtavedo_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

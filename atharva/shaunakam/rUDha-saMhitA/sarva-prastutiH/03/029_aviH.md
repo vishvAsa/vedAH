@@ -28,6 +28,7 @@ On the means to obtain immunity from taxation in the next world
 </details>
 </details>
 </div>
+
 ## ०१ यद्राजानो विभजन्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/01_yadrAjAno_vibhajanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ When yonder kings who sit beside Yama divide among them- selves the sixteenth pa
 </details>
 </details>
 </div>
+
 ## ०२ सर्वान्कामान्पूरयत्याभवन्प्रभवन्भवन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/02_sarvAnkAmAnpUrayatyAbhavanprabhavanbhavan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ He satisfies each hope and want, prevailing, present and pre- pared. The wish-fu
 </details>
 </details>
 </div>
+
 ## ०३ यो ददाति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/03_yo_dadAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -229,6 +232,7 @@ He who bestows a white-hooved ram, adequate to the place he holds. Ascends to th
 </details>
 </details>
 </div>
+
 ## ०४ पञ्चापूपं शितिपादमविम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/04_panchApUpaM_shitipAdamavim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -293,6 +297,7 @@ He who bestows a white-hooved ram, adequate to the place he holds. Offered with 
 </details>
 </details>
 </div>
+
 ## ०५ पञ्चापूपं शितिपादमविम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/05_panchApUpaM_shitipAdamavim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -356,6 +361,7 @@ He who bestows a white-hooved ram, adequate to the place he holds, Offered with 
 </details>
 </details>
 </div>
+
 ## ०६ इरेव नोप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/06_ireva_nopa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -424,6 +430,7 @@ Like a refreshing draught, like sea, the mighty flood, he faileth not. Like the 
 </details>
 </details>
 </div>
+
 ## ०७ क इदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/07_ka_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -509,6 +516,7 @@ Whose gift was this, and given to whom? Kama to Kama gave the gift. Kama is give
 </details>
 </details>
 </div>
+
 ## ०८ भूमिष्ट्वा प्रति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/08_bhUmiShTvA_prati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

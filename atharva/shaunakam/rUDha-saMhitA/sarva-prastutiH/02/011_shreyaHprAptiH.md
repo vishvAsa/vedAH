@@ -32,6 +32,7 @@ Counter-charm, with an amulet, against an enemy's spell
 </details>
 </details>
 </div>
+
 ## ०१ दूष्या दूषिरसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Dart against dart, destroyer of destruction, thou art the missile sent to meet t
 </details>
 </details>
 </div>
+
 ## ०२ स्रक्त्योऽसि प्रतिसरोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/02_sraktyo-si_pratisaro-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ Sraktya art thou, an Amulet art thou, a counter-charm of spells, Reach thy super
 </details>
 </details>
 </div>
+
 ## ०३ प्रति तमभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -225,6 +228,7 @@ Use spells against the man we hate, against the man who hateth us. Reach thy sup
 </details>
 </details>
 </div>
+
 ## ०४ सूरिरसि वर्चोधा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -287,6 +291,7 @@ A prince art thou, giver of speech, thou art our bodies' strong defence. Reach t
 </details>
 </details>
 </div>
+
 ## ०५ शुक्रोऽसि भ्राजोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/05_shukro-si_bhrAjo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

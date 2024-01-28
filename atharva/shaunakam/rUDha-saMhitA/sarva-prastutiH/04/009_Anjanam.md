@@ -28,6 +28,7 @@ A charm addressed to a precious ointment for safety and wealth
 </details>
 </details>
 </div>
+
 ## ०१ एहि जीवम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/01_ehi_jIvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ Approach! thou art the mountain's eye, the living thing that saveth us; A gift b
 </details>
 </details>
 </div>
+
 ## ०२ परिपाणं पुरुषाणाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/02_paripANaM_puruShANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ Thou art the safeguard of the men, thou art the safeguard of the kine, Thou stan
 </details>
 </details>
 </div>
+
 ## ०३ उतासि परिपाणम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/03_utAsi_paripANam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -237,6 +240,7 @@ Thou, also, Salve! art a defence that rends and crushes sorcerers. Thou knowest,
 </details>
 </details>
 </div>
+
 ## ०४ यस्याञ्जन प्रसर्पस्यङ्गमङ्गम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -319,6 +323,7 @@ Whomso thou creepest over, Salve! member by member, joint by joint, From him, li
 </details>
 </details>
 </div>
+
 ## ०५ नैनं प्राप्नोति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/05_nainaM_prApnoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -382,6 +387,7 @@ No imprecation reaches him, no magic, no tormenting fiend, O Salve, Vishkandha s
 </details>
 </details>
 </div>
+
 ## ०६ असन्मन्त्राद्दुष्वप्न्याद्दुष्कृताच्छमलादुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/06_asanmantrAdduShvapnyAdduShkRtAchChamalAduta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -447,6 +453,7 @@ From lying speech, from evil dream, from wicked act and sinfulness, From hostile
 </details>
 </details>
 </div>
+
 ## ०७ इदं विद्वानाञ्जन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -521,6 +528,7 @@ I, knowing this, O Salve, will speak the very truth and not a lie: May I obtain 
 </details>
 </details>
 </div>
+
 ## ०८ त्रयो दासा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/08_trayo_dAsA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -586,6 +594,7 @@ Three are the slaves that serve the Salve, Fever, Consumption, and the Snake. Th
 </details>
 </details>
 </div>
+
 ## ०९ यदाञ्जनं त्रैककुदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/09_yadAnjanaM_traikakudam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -663,6 +672,7 @@ Sprung from the Snowy Mountain's side, this Ointment of the Three-peaked hill. C
 </details>
 </details>
 </div>
+
 ## १० यदि वासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/10_yadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

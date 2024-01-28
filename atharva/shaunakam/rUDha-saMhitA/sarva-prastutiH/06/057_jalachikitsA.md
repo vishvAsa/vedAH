@@ -32,6 +32,7 @@ A charm for a wound or bruise
 </details>
 </details>
 </div>
+
 ## ०१ इदमिद्वा उ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/01_idamidvA_u.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ This is a medicine indeed, Rudra's own medicine is this, Wherewith he warns the 
 </details>
 </details>
 </div>
+
 ## ०२ जालाषेणाभि षिञ्चत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ Besprinkle it with anodyne, bedew it with relieving balm: Strong, soothing is th
 </details>
 </details>
 </div>
+
 ## ०३ शं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/03_shaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

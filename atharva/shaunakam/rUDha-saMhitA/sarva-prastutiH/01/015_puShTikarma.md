@@ -32,6 +32,7 @@ A prayer for the prosperity of an institutor of sacrifice
 </details>
 </details>
 </div>
+
 ## ०१ सं सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/01_saM_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ Let the streams, flow together, let the winds and birds assembled come. Let this
 </details>
 </details>
 </div>
+
 ## ०२ इहैव हवमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/02_ihaiva_havamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -169,6 +171,7 @@ Come to my call, Blent Offerings, come ye very nigh. And, singers, do ye strengt
 </details>
 </details>
 </div>
+
 ## ०३ ये नदीनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/03_ye_nadInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -231,6 +234,7 @@ All river founts that blend their streams for ever inexhaustible-- With all thes
 </details>
 </details>
 </div>
+
 ## ०४ ये सर्पिषः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/04_ye_sarpiShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -33,6 +33,7 @@ A glorification of the typical sacrificial bull
 </details>
 </details>
 </div>
+
 ## ०१ साहस्रस्त्वेष ऋषभः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/01_sAhasrastveSha_RShabhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ The Bull, fierce, thousandfold, filled full of vigour, bearing within his flanks
 </details>
 </details>
 </div>
+
 ## ०२ अपां यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/02_apAM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,6 +160,7 @@ He who at first became the Waters' model, a match for everyone, like Earth the G
 </details>
 </details>
 </div>
+
 ## ०३ पुमानन्तर्वान्त्स्थविरः पयस्वान्वसोः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/03_pumAnantarvAntsthaviraH_payasvAnvasoH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -220,6 +223,7 @@ Masculine, pregnant, stedfast. full of vigour, the Bull sustains a trunk of good
 </details>
 </details>
 </div>
+
 ## ०४ पिता वत्सानाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/04_pitA_vatsAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -285,6 +289,7 @@ The husband of the cows, the young calves' father, father is he of mighty water-
 </details>
 </details>
 </div>
+
 ## ०५ देवानां भाग
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/05_devAnAM_bhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -353,6 +358,7 @@ He is the Gods' allotted share and bundle, essence of waters, and of plants, and
 </details>
 </details>
 </div>
+
 ## ०६ सोमेन पूर्णम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/06_somena_pUrNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -417,6 +423,7 @@ A beaker filled with Soma juice thou bearest. framer of forms, begetter of the c
 </details>
 </details>
 </div>
+
 ## ०७ आज्यं बिभर्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/07_AjyaM_bibharti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -479,6 +486,7 @@ He bears oblation, and his seed is butter. Thousand-fold plenty; sacrifice they 
 </details>
 </details>
 </div>
+
 ## ०८ इन्द्रस्यौजो वरुणस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/08_indrasyaujo_varuNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -542,6 +550,7 @@ Both arms of Varuna, and Indra's vigour, the Maruts' hump is he, the Asvins' sho
 </details>
 </details>
 </div>
+
 ## ०९ दैवीर्विशः पयस्वाना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/09_daivIrvishaH_payasvAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -604,6 +613,7 @@ Thou, vigorous, reachest to the tribes of heaven. Thee they call Indra, thee the
 </details>
 </details>
 </div>
+
 ## १० बृहस्पतिः सविता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/10_bRhaspatiH_savitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -668,6 +678,7 @@ Brihaspati, Savitar gave thee vital vigour: thy breath was brought from Tvashtar
 </details>
 </details>
 </div>
+
 ## ११ य इन्द्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/11_ya_indra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -734,6 +745,7 @@ Let the priest joyfully extol the limbs and members of the Bull Who moved and ro
 </details>
 </details>
 </div>
+
 ## १२ पार्श्वे आस्तामनुमत्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/12_pArshve_AstAmanumatyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -797,6 +809,7 @@ The sides must be Anumati's, and both rib-pieces Bhaga's share, Of the knee-bone
 </details>
 </details>
 </div>
+
 ## १३ भसदासीदादित्यानां श्रोणी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/13_bhasadAsIdAdityAnAM_shroNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -858,6 +871,7 @@ The Adityas claim the hinder parts, the loins must be Brihas- pati's. Vata, the 
 </details>
 </details>
 </div>
+
 ## १४ गुदा आसन्त्सिनीवाल्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/14_gudA_AsantsinIvAlyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -915,6 +929,7 @@ To Surya they assigned the skin, to Sinivali inward parts. The Slaughterer hath 
 </details>
 </details>
 </div>
+
 ## १५ क्रोड आसीज्जामिशंसस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/15_kroDa_AsIjjAmishaMsasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -979,6 +994,7 @@ They made a jest of kindred's curse: a jar of Soma juice was set, What time the 
 </details>
 </details>
 </div>
+
 ## १६ ते कुष्ठिकाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/16_te_kuShThikAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1049,6 +1065,7 @@ They gave the hooves to tortoises, to Sarama scraps of the feet: His undigested 
 </details>
 </details>
 </div>
+
 ## १७ शृङ्गाभ्यां रक्ष
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/17_shRngAbhyAM_raxa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1113,6 +1130,7 @@ That Bull, the husband of the kine, pierces the demons with his horns, Banishes 
 </details>
 </details>
 </div>
+
 ## १८ शतयाजं स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/18_shatayAjaM_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1175,6 +1193,7 @@ With hundred sacrifices he worships: the fires consume him not: All Gods promote
 </details>
 </details>
 </div>
+
 ## १९ ब्राह्मणेभ्य ऋषभम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/19_brAhmaNebhya_RShabham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1243,6 +1262,7 @@ He who hath given away the Bull to Brahmans frees and cheers his soul. In his ow
 </details>
 </details>
 </div>
+
 ## २० गावः सन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/20_gAvaH_santu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1304,6 +1324,7 @@ Let there be cattle, let there be bodily strength and progeny: All this may the 
 </details>
 </details>
 </div>
+
 ## २१ अयं पिपान
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/21_ayaM_pipAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1369,6 +1390,7 @@ Indra here verily hath rejoiced: let him bestow conspicuous wealth. May he draw 
 </details>
 </details>
 </div>
+
 ## २२ पिशङ्गरूपो नभसो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/22_pishangarUpo_nabhaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1439,6 +1461,7 @@ With close connexion mingle with the cows in this our cattle- pen: Mingle, the B
 </details>
 </details>
 </div>
+
 ## २३ उपेहोपपर्चनास्मिन्गोष्ठ उप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/23_upehopaparchanAsmingoShTha_upa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1507,6 +1530,7 @@ Here we restore this Bull, your youthful leader: sporting with him, go, wander a
 </details>
 </details>
 </div>
+
 ## २४ एतं वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/24_etaM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

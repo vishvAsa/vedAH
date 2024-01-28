@@ -32,6 +32,7 @@ A prayer for purification
 </details>
 </details>
 </div>
+
 ## ०१ पुनन्तु मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/01_punantu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ Let the Gods purify me, let men purify me with a prayer. Cleanse me all creature
 </details>
 </details>
 </div>
+
 ## ०२ पवमानः पुनातु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/02_pavamAnaH_punAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ May Pavamana make me pure for wisdom and for power and life, and unassailed secu
 </details>
 </details>
 </div>
+
 ## ०३ उभाभ्यां देव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/03_ubhAbhyAM_deva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

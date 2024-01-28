@@ -32,6 +32,7 @@ A prayer for the same
 </details>
 </details>
 </div>
+
 ## ०१ शं न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/01_shaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ Befriend us with their aids Indra and Agni, Indra and Varuna who receive oblatio
 </details>
 </details>
 </div>
+
 ## ०२ शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/02_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ Auspicious friends to us be Bhaga. Sansa, auspicious be Pur- andhi and all Riche
 </details>
 </details>
 </div>
+
 ## ०३ शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/03_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,6 +231,7 @@ Kind unto us be Maker and Sustainer and the far-reaching One with godlike nature
 </details>
 </details>
 </div>
+
 ## ०४ शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/04_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -290,6 +294,7 @@ Favour us Agni with his face of splendour, and Varuna and' Mitra and the Asvins.
 </details>
 </details>
 </div>
+
 ## ०५ शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/05_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -352,6 +357,7 @@ Early invoked may Heaven and Earth be friendly, and Air's mid-region good for us
 </details>
 </details>
 </div>
+
 ## ०६ शं न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/06_shaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -418,6 +424,7 @@ Be the God Indra with the Vasus friendly, and with Adityas Varuna who blesseth. 
 </details>
 </details>
 </div>
+
 ## ०७ शं नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/07_shaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -483,6 +490,7 @@ Kind unto us be Soma and Devotions, kind be the sacrifice and Stones for pressin
 </details>
 </details>
 </div>
+
 ## ०८ शं नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/08_shaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -546,6 +554,7 @@ May the far-seeing Sun rise up to bless us: be the four quarters- of the heaven 
 </details>
 </details>
 </div>
+
 ## ०९ शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/09_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -609,6 +618,7 @@ May Aditi through holy works be gracious, and may the Maruts,_ loud in song, be 
 </details>
 </details>
 </div>
+
 ## १० शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/10_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

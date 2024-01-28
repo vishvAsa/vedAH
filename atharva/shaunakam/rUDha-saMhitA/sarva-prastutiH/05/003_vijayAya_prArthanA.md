@@ -28,6 +28,7 @@ A prayer to Agni, Indra, and other deities for victory and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ ममाग्ने वर्चो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/01_mamAgne_varcho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,6 +92,7 @@ Let strength be mine while I invoke thee, Agni! enkindling thee may we support o
 </details>
 </details>
 </div>
+
 ## ०२ अग्ने मन्युम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/02_agne_manyum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ Baffling the range of our opponents, Agni! guard us as our protector round about
 </details>
 </details>
 </div>
+
 ## ०३ मम देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/03_mama_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -224,6 +227,7 @@ May all the Gods be on my side in battle, the Maruts led by Indra, Vishnu, Agni.
 </details>
 </details>
 </div>
+
 ## ०४ मह्यं यजन्ताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/04_mahyaM_yajantAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -288,6 +292,7 @@ For me let them present all mine oblations, and let my mind's intention be accom
 </details>
 </details>
 </div>
+
 ## ०५ मयि देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/05_mayi_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -354,6 +359,7 @@ May the Gods grant me riches, may the blessing and invocation of the Gods assist
 </details>
 </details>
 </div>
+
 ## ०६ दैवीः षडुर्वीरुरु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/06_daivIH_ShaDurvIruru.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -430,6 +436,7 @@ Ye six divine Expanses, give us freedom. Here, all ye Gods, acquit yourselves li
 </details>
 </details>
 </div>
+
 ## ०७ तिस्रो देवीर्महि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/07_tisro_devIrmahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -499,6 +506,7 @@ Do ye three Goddesses give ample shelter and all success to us ourselves and chi
 </details>
 </details>
 </div>
+
 ## ०८ उरुव्यचा नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/08_uruvyachA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -566,6 +574,7 @@ Foodful and much-invoked, at this our calling may the far- reaching Bull grant u
 </details>
 </details>
 </div>
+
 ## ०९ धाता विधाता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/09_dhAtA_vidhAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -636,6 +645,7 @@ Lord of the world, Creator and Disposer, may the God Savitar who quells assailan
 </details>
 </details>
 </div>
+
 ## १० ये नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/10_ye_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -708,6 +718,7 @@ Let those who are our foemen stay afar from us: with Indra and with Agni we will
 </details>
 </details>
 </div>
+
 ## ११ अर्वाञ्चमिन्द्रममुतो हवामहे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/11_arvAnchamindramamuto_havAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

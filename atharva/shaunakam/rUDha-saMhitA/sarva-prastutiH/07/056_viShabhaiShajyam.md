@@ -32,6 +32,7 @@ A charm against poisonous bites and stings
 </details>
 </details>
 </div>
+
 ## ०१ तिरश्चिराजेरसितात्पृदाकोः परि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/01_tirashchirAjerasitAtpRdAkoH_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Whether it came from viper, from black snake or snake with transverse stripes, O
 </details>
 </details>
 </div>
+
 ## ०२ इयं वीरुन्मधुजाता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/02_iyaM_vIrunmadhujAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ Honey-born, honey-dropping, rich in honey, honeysweet, this herb, Is medicine th
 </details>
 </details>
 </div>
+
 ## ०३ यतो दष्टम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/03_yato_daShTam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -229,6 +232,7 @@ Whatever bit, or sucked thy blood, we summon thence away from thee The ineffectu
 </details>
 </details>
 </div>
+
 ## ०४ अयं यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/04_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -295,6 +299,7 @@ Thou here who crookest wicked jaws, thou tortuous, jointless, limbless thing, Th
 </details>
 </details>
 </div>
+
 ## ०५ अरसस्य शर्कोटस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/05_arasasya_sharkoTasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -358,6 +363,7 @@ This scorpion here that creeps along, low on the ground and powerless-- I have r
 </details>
 </details>
 </div>
+
 ## ०६ न ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/06_na_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -422,6 +428,7 @@ No strength in thy two arms hast thou, nor in thy head, nor in thy waist: Then w
 </details>
 </details>
 </div>
+
 ## ०७ अदन्ति त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/07_adanti_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -487,6 +494,7 @@ The emmets make a meal of thee and peahens tear and mangle thee: All ye are cryi
 </details>
 </details>
 </div>
+
 ## ०८ य उभाभ्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/08_ya_ubhAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

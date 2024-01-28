@@ -28,6 +28,7 @@ Translated: Henry, 37, 107; Griffith, i. 374 and 475.
 </details>
 </details>
 </div>
+
 ## ०१ अपि वृश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/01_api_vRshcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Tear thou asunder, as of old, like tangles of a creeping plant. Demolish thou th
 </details>
 </details>
 </div>
+
 ## ०२ वयं तदस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/02_vayaM_tadasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -169,6 +171,7 @@ May we with Indra's help divide the gathered treasure of the foe. I, by the law 
 </details>
 </details>
 </div>
+
 ## ०३ यथा शेपो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/03_yathA_shepo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

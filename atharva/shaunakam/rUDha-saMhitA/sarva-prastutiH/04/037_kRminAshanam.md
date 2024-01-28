@@ -32,6 +32,7 @@ A charm against Gandharvas and Apsarases
 </details>
 </details>
 </div>
+
 ## ०१ त्वया पूर्वमथर्वाणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/01_tvayA_pUrvamatharvANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ With thee, O Plant, in olden time Atharvans smote and slew the fiends. Kasyapa s
 </details>
 </details>
 </div>
+
 ## ०२ त्वया वयमप्सरसो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/02_tvayA_vayamapsaraso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ With thee we scare and drive away Gandharvas and Apsarases. O Ajasringi, chase t
 </details>
 </details>
 </div>
+
 ## ०३ नदीं यन्त्वप्सरसोऽपाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/03_nadIM_yantvapsaraso-pAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -251,6 +254,7 @@ Let the Apsarases, puffed away, go to the river, to the ford,-- Guggulu, Pila, N
 </details>
 </details>
 </div>
+
 ## ०४ यत्राश्वत्था न्यग्रोधा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/04_yatrAshvatthA_nyagrodhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -321,6 +325,7 @@ Where great trees are, Asvatthas and Nyagrodhas with their leafy crests, There w
 </details>
 </details>
 </div>
+
 ## ०५ यत्र वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/05_yatra_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -389,6 +394,7 @@ Hither hath come this one, the most effectual of herbs and plants.
 </details>
 </details>
 </div>
+
 ## ०६ एयमगन्नोषधीनां वीरुधाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/06_eyamagannoShadhInAM_vIrudhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -454,6 +460,7 @@ Let Ajasringi penetrate, Ara4aki with sharpened horn.
 </details>
 </details>
 </div>
+
 ## ०७ आनृत्यतः शिखण्डिनो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/07_AnRtyataH_shikhaNDino.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -523,6 +530,7 @@ From the Gandharva, dancing near, the lord of the Apsarases, Wearing the tuft of
 </details>
 </details>
 </div>
+
 ## ०८ भीमा इन्द्रस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/08_bhImA_indrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -593,6 +601,7 @@ With those dread hundred iron spears, the darts of Indra, let it pierce. The Bly
 </details>
 </details>
 </div>
+
 ## ०९ भीमा इन्द्रस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/09_bhImA_indrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -655,6 +664,7 @@ With those dread hundred golden spears, the darts of Indra, let it pierce. The B
 </details>
 </details>
 </div>
+
 ## १० अवकादानभिशोचानप्सु ज्योतय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/10_avakAdAnabhishochAnapsu_jyotaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -733,6 +743,7 @@ O Plant, be thou victorious, crush the Pisachas, one and all, Blyxa-fed, shining
 </details>
 </details>
 </div>
+
 ## ११ श्वेवैकः कपिरिवैकः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/11_shvevaikaH_kapirivaikaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -801,6 +812,7 @@ Youthful, completely decked with hair, one monkey-like, one like a dog,-- So the
 </details>
 </details>
 </div>
+
 ## १२ जाया इद्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/12_jAyA_idvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

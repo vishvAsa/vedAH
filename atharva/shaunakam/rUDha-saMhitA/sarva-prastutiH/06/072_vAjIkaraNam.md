@@ -32,6 +32,7 @@ A charm to restore or increase virile power
 </details>
 </details>
 </div>
+
 ## ०१ यथासितः प्रथयते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/01_yathAsitaH_prathayate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Sicut anguis niger ad voluntatem se extendit, Asurarum arte magica formas novas 
 </details>
 </details>
 </div>
+
 ## ०२ यथा पसस्तायादरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/02_yathA_pasastAyAdaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ Velut penis (tayadarus quem ventus permagnum fecit, quantus. est onagri penis, t
 </details>
 </details>
 </div>
+
 ## ०३ यावदङ्गीनं पारस्वतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/03_yAvadangInaM_pArasvatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

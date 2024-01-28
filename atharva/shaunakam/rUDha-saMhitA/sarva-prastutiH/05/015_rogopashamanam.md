@@ -32,6 +32,7 @@ A charm for general prosperity
 </details>
 </details>
 </div>
+
 ## ०१ एका च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/01_ekA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Plant! I have those who shall avert the threatened danger, ten and one. O sacred
 </details>
 </details>
 </div>
+
 ## ०२ द्वे च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/02_dve_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,6 +156,7 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 </details>
 </details>
 </div>
+
 ## ०३ तिस्रश्च मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/03_tisrashcha_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -214,6 +217,7 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 </details>
 </details>
 </div>
+
 ## ०४ चतस्रश्च मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/04_chatasrashcha_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -274,6 +278,7 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 </details>
 </details>
 </div>
+
 ## ०५ पञ्च च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/05_pancha_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -336,6 +341,7 @@ edition follows the latter.
 </details>
 </details>
 </div>
+
 ## ०६ षट्च मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/06_ShaTcha_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -398,6 +404,7 @@ This verse ought to be reckoned by the Anukr. as *nicṛt*, not less than
 </details>
 </details>
 </div>
+
 ## ०७ सप्त च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/07_sapta_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -458,6 +465,7 @@ This verse ought to be reckoned by the Anukr. as *nicṛt*, not less than
 </details>
 </details>
 </div>
+
 ## ०८ अष्ट च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/08_aShTa_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -520,6 +528,7 @@ restoration of the elided *a* of *aśītís*.
 </details>
 </details>
 </div>
+
 ## ०९ नव च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/09_nava_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -580,6 +589,7 @@ restoration of the elided *a* of *aśītís*.
 </details>
 </details>
 </div>
+
 ## १० दश च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/10_dasha_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -640,6 +650,7 @@ restoration of the elided *a* of *aśītís*.
 </details>
 </details>
 </div>
+
 ## ११ शतं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/11_shataM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

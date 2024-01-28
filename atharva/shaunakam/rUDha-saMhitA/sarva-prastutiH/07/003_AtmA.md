@@ -27,6 +27,7 @@ Translated: Henry, 2, 48; Griffith, i. 328.
 </details>
 </details>
 </div>
+
 ## ०१ अया विष्ठा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/003_AtmA/01_ayA_viShThA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

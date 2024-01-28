@@ -28,6 +28,7 @@ A charm to recover a dying man
 </details>
 </details>
 </div>
+
 ## ०१ अन्तकाय मृत्यवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/01_antakAya_mRtyave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,6 +91,7 @@ Homage to Death the Ender! May thy breathings, inward and outward, still remain 
 </details>
 </details>
 </div>
+
 ## ०२ उदेनं भगो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/02_udenaM_bhago.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -153,6 +155,7 @@ Bhaga hath lifted up this man, and Soma with his filaments, Indra and Agni, and 
 </details>
 </details>
 </div>
+
 ## ०३ इह तेऽसुरिह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/03_iha_te-suriha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -213,6 +216,7 @@ Here is thy spirit, here thy breath, here is thy life, here is thy soul: By a ce
 </details>
 </details>
 </div>
+
 ## ०४ उत्क्रामातः पुरुष
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/04_utkrAmAtaH_puruSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -276,6 +280,7 @@ Up from this place, O man, rise! sink not downward, casting away the bonds of De
 </details>
 </details>
 </div>
+
 ## ०५ तुभ्यं वातः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/05_tubhyaM_vAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -339,6 +344,7 @@ Purely for thee breathe Wind and Matarisvan, and let the Waters rain on thee the
 </details>
 </details>
 </div>
+
 ## ०६ उद्यानं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/06_udyAnaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -407,6 +413,7 @@ Upward must be thy way, O man, not downward: with life and mental vigour I endow
 </details>
 </details>
 </div>
+
 ## ०७ मा ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/07_mA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -468,6 +475,7 @@ Let not thy soul go thither, nor be lost to us: slight not the living, go not wh
 </details>
 </details>
 </div>
+
 ## ०८ मा गतानामा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/08_mA_gatAnAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -533,6 +541,7 @@ Yearn not for the departed ones, for those who lead men far away. Rise up from d
 </details>
 </details>
 </div>
+
 ## ०९ श्यामश्च त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/09_shyAmashcha_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -596,6 +605,7 @@ Let not the black dog and the brindled seize thee, two warders of the way sent f
 </details>
 </details>
 </div>
+
 ## १० मैतं पन्थामनु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/10_maitaM_panthAmanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -660,6 +670,7 @@ Forbear to tread this path, for it is awful: that path I speak of which thou has
 </details>
 </details>
 </div>
+
 ## ११ रक्षन्तु त्वाग्नयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/11_raxantu_tvAgnayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -724,6 +735,7 @@ Thy guardians be the Fires within the Waters, thy guardian be the Fire which men
 </details>
 </details>
 </div>
+
 ## १२ मा त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/12_mA_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -793,6 +805,7 @@ Let not the Flesh-Consumer plot against thee: depart thou far away from the Dest
 </details>
 </details>
 </div>
+
 ## १३ बोधश्च त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/13_bodhashcha_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -861,6 +874,7 @@ May Vigilance and Watchfulness protect thee, Sleepless and Slumberless keep guar
 </details>
 </details>
 </div>
+
 ## १४ ते त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/14_te_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -920,6 +934,7 @@ Let these be thy preservers, these thy keepers. All hail to these, to these be l
 </details>
 </details>
 </div>
+
 ## १५ जीवेभ्यस्त्वा समुदे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/15_jIvebhyastvA_samude.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -990,6 +1005,7 @@ May saving Savitar, Vayu, Indra, Dhatar restore thee to com- munion with the liv
 </details>
 </details>
 </div>
+
 ## १६ मा त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/16_mA_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1060,6 +1076,7 @@ Let not the fiend with snapping jaws, nor darkness find thee: tongue, holy grass
 </details>
 </details>
 </div>
+
 ## १७ उत्त्वा द्यौरुत्पृथिव्युत्प्रजापतिरग्रभीत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/17_uttvA_dyaurutpRthivyutprajApatiragrabhIt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1121,6 +1138,7 @@ The Sky hath raised thee, and the Earth, Prajapati hath raised thee up. The Plan
 </details>
 </details>
 </div>
+
 ## १८ अयं देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/18_ayaM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1181,6 +1199,7 @@ Here let this man, O Gods, remain: let him not go to yonder world. We rescue him
 </details>
 </details>
 </div>
+
 ## १९ उत्त्वा मृत्योरपीपरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/19_uttvA_mRtyorapIparam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1248,6 +1267,7 @@ I have delivered thee from Death. Strength-givers smelt and fashion thee! Let no
 </details>
 </details>
 </div>
+
 ## २० आहार्षमविदं त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/20_AhArShamavidaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1312,6 +1332,7 @@ I have attained and captured thee: thou hast returned restored to youth. Perfect
 </details>
 </details>
 </div>
+
 ## २१ व्यवात्ते ज्योतिरभूदप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/21_vyavAtte_jyotirabhUdapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

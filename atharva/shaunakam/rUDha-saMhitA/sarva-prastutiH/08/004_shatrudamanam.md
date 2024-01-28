@@ -35,6 +35,7 @@ Imprecations on demons
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रासोमा तपतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/01_indrAsomA_tapatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Indra and Soma, burn, destroy the demon foe! Send downward, O ye Bulls, those wh
 </details>
 </details>
 </div>
+
 ## ०२ इन्द्रासोमा समघशंसमभ्यघम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/02_indrAsomA_samaghashaMsamabhyagham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ Let sin, Indra and Soma! round the wicked boil, like as a cald- ron set amid the
 </details>
 </details>
 </div>
+
 ## ०३ इन्द्रासोमा दुष्कृतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/03_indrAsomA_duShkRto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -230,6 +233,7 @@ Indra and Soma, plunge the wicked in the depth, yea, cast them into darkness tha
 </details>
 </details>
 </div>
+
 ## ०४ इन्द्रासोमा वर्तयतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/04_indrAsomA_vartayatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -294,6 +298,7 @@ Indra and Soma, hurl your deadly crushing bolt down on the wicked fiend from hea
 </details>
 </details>
 </div>
+
 ## ०५ इन्द्रासोमा वर्तयतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/05_indrAsomA_vartayatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -358,6 +363,7 @@ Indra and Soma, cast ye downward from the sky your deadly bolts of stone burning
 </details>
 </details>
 </div>
+
 ## ०६ इन्द्रासोमा परि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/06_indrAsomA_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -434,6 +440,7 @@ Indra and Soma, let this hymn control you both, even as the girth encompasses tw
 </details>
 </details>
 </div>
+
 ## ०७ प्रति स्मरेथाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/07_prati_smarethAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -488,6 +495,7 @@ In your impetuous manner think ye both thereon: destroy those evil spirits, kill
 </details>
 </details>
 </div>
+
 ## ०८ यो मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/08_yo_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -540,6 +548,7 @@ Whoso accuses me with words of falsehood when I pursue my way with guileless spi
 </details>
 </details>
 </div>
+
 ## ०९ ये पाकशंसम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/09_ye_pAkashaMsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -605,6 +614,7 @@ Those who destroy, as is their wont, the simple, and with their evil natures har
 </details>
 </details>
 </div>
+
 ## १० यो नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/10_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -678,6 +688,7 @@ O Agni, whosoever seeks to injure the essence of our food, kine, steeds, or bodi
 </details>
 </details>
 </div>
+
 ## ११ परः सो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/11_paraH_so.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -740,6 +751,7 @@ May he be swept away, himself and children; may all the three earths press him d
 </details>
 </details>
 </div>
+
 ## १२ सुविज्ञानं चिकितुषे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/12_suvijnAnaM_chikituShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -802,6 +814,7 @@ The prudent finds it easy to distinguish the true and false: their words oppose 
 </details>
 </details>
 </div>
+
 ## १३ न वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/13_na_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -863,6 +876,7 @@ Never doth Soma aid and guide the wicked or him who falsely claims the Warrior's
 </details>
 </details>
 </div>
+
 ## १४ यदि वाहमनृतदेवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/14_yadi_vAhamanRtadevo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -928,6 +942,7 @@ As if I worshipped deities of falsehood, or thought vain thoughts about the Gods
 </details>
 </details>
 </div>
+
 ## १५ अद्या मुरीय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/15_adyA_murIya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -993,6 +1008,7 @@ So may I die this day if I have harassed any man's life, or if I be a demon. Yea
 </details>
 </details>
 </div>
+
 ## १६ यो मायातुम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/16_yo_mAyAtum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1058,6 +1074,7 @@ May Indra slay him with a mighty weapon, and let the vilest of all creatures per
 </details>
 </details>
 </div>
+
 ## १७ प्र या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/17_pra_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1122,6 +1139,7 @@ She too who wanders like an owl at night-time, hiding her body in her guile and 
 </details>
 </details>
 </div>
+
 ## १८ वि तिष्ठध्वम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/18_vi_tiShThadhvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1189,6 +1207,7 @@ Spread out, ye Maruts, search among the people: seize ye and grind the Rakshasas
 </details>
 </details>
 </div>
+
 ## १९ प्र वर्तय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/19_pra_vartaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1255,6 +1274,7 @@ Hurl down from heaven thy bolt of stone, O Indra: sharpen it, Maghavan, made kee
 </details>
 </details>
 </div>
+
 ## २० एत उ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/20_eta_u.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1322,6 +1342,7 @@ They fly, the demon dogs, and, bent on mischief, fain would they harm indomitabl
 </details>
 </details>
 </div>
+
 ## २१ इन्द्रो यातूनामभवत्पराशरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/21_indro_yAtUnAmabhavatparAsharo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1393,6 +1414,7 @@ Indra hath ever been the fiends' destroyer who spoil oblations of the Gods' invo
 </details>
 </details>
 </div>
+
 ## २२ उलूकयातुं शुशुलूकयातुम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/22_ulUkayAtuM_shushulUkayAtum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1458,6 +1480,7 @@ Destroy the fiend shaped like an owl or owlet, destroy him in. the form of dog o
 </details>
 </details>
 </div>
+
 ## २३ मा नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/23_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1523,6 +1546,7 @@ Let not the fiend of witchcraft-workers reach us: may Dawn. drive off the couple
 </details>
 </details>
 </div>
+
 ## २४ इन्द्र जहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/24_indra_jahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1587,6 +1611,7 @@ Indra destroy the demon, male and female, joying and triumph- ing in arts of mag
 </details>
 </details>
 </div>
+
 ## २५ प्रति चक्ष्व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/25_prati_chaxva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

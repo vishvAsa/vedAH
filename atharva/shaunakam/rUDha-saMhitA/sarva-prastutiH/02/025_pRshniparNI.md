@@ -32,6 +32,7 @@ A charm against fiends who cause abortion
 </details>
 </details>
 </div>
+
 ## ०१ शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/01_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -113,6 +114,7 @@ The Goddess Prisniparni hath blest us, and troubled Nirriti. Fierce crusher of t
 </details>
 </details>
 </div>
+
 ## ०२ सहमानेयं प्रथमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -183,6 +185,7 @@ Victorious in the olden time this Prisniparni was brought forth: With her I clea
 </details>
 </details>
 </div>
+
 ## ०३ अरायमसृक्पावानं यश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -247,6 +250,7 @@ One or two of our mss. (W.I.), and several of SPP's, read in **b**
 </details>
 </details>
 </div>
+
 ## ०४ गिरिमेनाँ आ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/04_girimenA.N_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -313,6 +317,7 @@ The hateful fiend who drinks the blood, and him who take away the growth, The Ka
 </details>
 </details>
 </div>
+
 ## ०५ पराच एनान्प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/05_parAcha_enAnpra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

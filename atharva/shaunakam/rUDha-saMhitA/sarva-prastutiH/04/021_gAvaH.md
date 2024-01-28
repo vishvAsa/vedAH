@@ -32,6 +32,7 @@ Glorification and benediction of cows
 </details>
 </details>
 </div>
+
 ## ०१ आ गावो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/01_A_gAvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ The kine have come and brought good fortune: let them rest in the cow-pen and be
 </details>
 </details>
 </div>
+
 ## ०२ इन्द्रो यज्वने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/02_indro_yajvane.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ Indra aids him who offers sacrifice and praise: he takes not what is his, and gi
 </details>
 </details>
 </div>
+
 ## ०३ न ता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/03_na_tA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -244,6 +247,7 @@ These are ne'er lost, no robber ever injures them: no evil-minded foe attempts t
 </details>
 </details>
 </div>
+
 ## ०४ न ता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/04_na_tA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -317,6 +321,7 @@ The charger with his dusty brow o'ertakes them not, and never to the shambles do
 </details>
 </details>
 </div>
+
 ## ०५ गावो भगो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/05_gAvo_bhago.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -384,6 +389,7 @@ To me the Cows seem Bhaga, they seem Indra, they seem a portion of the first pou
 </details>
 </details>
 </div>
+
 ## ०६ यूयं गावो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/06_yUyaM_gAvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -449,6 +455,7 @@ O Cows, ye fatten e'en the worn and wasted, and make the unlovely beautiful to l
 </details>
 </details>
 </div>
+
 ## ०७ प्रजावतीः सूयवसे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/07_prajAvatIH_sUyavase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

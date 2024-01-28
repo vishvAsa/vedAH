@@ -32,6 +32,7 @@ A charm to obtain invisibility
 </details>
 </details>
 </div>
+
 ## ०१ अमूः पारे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/01_amUH_pAre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ There on the bank those Vipers lie, thrice-seven, having cast their skins: Now w
 </details>
 </details>
 </div>
+
 ## ०२ विषूच्येतु कृन्तती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/02_viShUchyetu_kRntatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ Far let her go, cutting her way, brandishing, as it were, a club: Diverted be th
 </details>
 </details>
 </div>
+
 ## ०३ न बहवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/03_na_bahavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -236,6 +239,7 @@ Not many have had power enough; the feeble ones have not prevailed, Like scatter
 </details>
 </details>
 </div>
+
 ## ०४ प्रेतं पादौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/04_pretaM_pAdau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

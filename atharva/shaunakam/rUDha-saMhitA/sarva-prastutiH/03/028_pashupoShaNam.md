@@ -28,6 +28,7 @@ Translated: Weber, xvii. 297; Griffith, i. 122; Bloomfield, 145, 359.
 </details>
 </details>
 </div>
+
 ## ०१ एकैकयैषा सृष्ट्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -107,6 +108,7 @@ for *sṛ́ṣṭyā*, not *sṛṣṭvā*.⌋
 </details>
 </details>
 </div>
+
 ## ०२ एषा पशून्त्सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/02_eShA_pashUntsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -182,6 +184,7 @@ where W. corrects the text to *vyadvará:* accent of masc. and fem.,
 </details>
 </details>
 </div>
+
 ## ०३ शिवा भव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/03_shivA_bhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -246,6 +249,7 @@ propitious to all this field (*kṣétra*); be propitious to us here.
 </details>
 </details>
 </div>
+
 ## ०४ इह पुष्टिरिह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/04_iha_puShTiriha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -312,6 +316,7 @@ very seldom used by our Anukr. as name of a whole verse ⌊8 + 12: 8⌋.
 </details>
 </details>
 </div>
+
 ## ०५ यत्रा सुहार्दः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -377,6 +382,7 @@ TA.). Some of SPP's mss. write in **b** *tanvā̀s*, protracting the
 </details>
 </details>
 </div>
+
 ## ०६ यत्रा सुहार्दाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/06_yatrA_suhArdAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

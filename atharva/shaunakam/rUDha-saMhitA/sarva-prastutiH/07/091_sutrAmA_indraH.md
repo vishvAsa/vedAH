@@ -28,6 +28,7 @@ Translated: Henry, 37, 108; Griffith, i. 374.
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रः सुत्रामा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/091_sutrAmA_indraH/01_indraH_sutrAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

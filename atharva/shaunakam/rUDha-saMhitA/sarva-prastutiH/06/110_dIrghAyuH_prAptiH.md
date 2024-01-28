@@ -28,6 +28,7 @@ Translated: Ludwig, p. 431; Zimmer, p. 321; Griffith, i. 305; Bloomfield, 109, 5
 </details>
 </details>
 </div>
+
 ## ०१ प्रत्नो हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Yea, ancient, meet for praise at sacrifices, ever and now thou sittest down as H
 </details>
 </details>
 </div>
+
 ## ०२ ज्येष्ठघ्न्यां जातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyAM_jAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,6 +172,7 @@ Neath Jyaishthaghni and Yama's Two Releasers this child was born: preserve him f
 </details>
 </details>
 </div>
+
 ## ०३ व्याघ्रेऽह्न्यजनिष्ट वीरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/03_vyAghre-hnyajaniShTa_vIro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

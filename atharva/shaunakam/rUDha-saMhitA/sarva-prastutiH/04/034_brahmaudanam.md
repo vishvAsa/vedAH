@@ -31,6 +31,7 @@ Glorification of the Vishtari sacrifice
 </details>
 </details>
 </div>
+
 ## ०१ ब्रह्मास्य शीर्षम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/01_brahmAsya_shIrSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ The head of this is prayer, its back the Brihat, Odanas's belly is the Vamadevya
 </details>
 </details>
 </div>
+
 ## ०२ अनस्थाः पूताः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/02_anasthAH_pUtAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ Boneless, cleansed, purified by him who cleanseth, they go res- plendent to the 
 </details>
 </details>
 </div>
+
 ## ०३ विष्टारिणमोदनं ये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/03_viShTAriNamodanaM_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -235,6 +238,7 @@ Never doth want or evil fortune visit those who prepare oblation called Vishtari
 </details>
 </details>
 </div>
+
 ## ०४ विष्टारिणमोदनं ये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/04_viShTAriNamodanaM_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -298,6 +302,7 @@ Yama robs not of generative vigour the men who dress oblation called Vishtari. B
 </details>
 </details>
 </div>
+
 ## ०५ एष यज्ञानाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/05_eSha_yajnAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -391,6 +396,7 @@ Strongest is this, performed, of sacrifices: he hath reached heaven who hath pre
 </details>
 </details>
 </div>
+
 ## ०६ घृतह्रदा मधुकूलाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/06_ghRtahradA_madhukUlAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -461,6 +467,7 @@ Full lakes of butter with their banks of honey, flowing with wine, and milk and 
 </details>
 </details>
 </div>
+
 ## ०७ चतुरः कुम्भांश्चतुर्धा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/07_chaturaH_kumbhAMshchaturdhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -527,6 +534,7 @@ I give four pitchers, in four several places, filled to the brim with milk and c
 </details>
 </details>
 </div>
+
 ## ०८ इममोदनं नि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/08_imamodanaM_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A benediction on homeward coming cattle
 </details>
 </details>
 </div>
+
 ## ०१ एह यन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/01_eha_yantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Let them come home, the cattle that have wandered, whom Vayu hath delighted to a
 </details>
 </details>
 </div>
+
 ## ०२ इमं गोष्ठम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/02_imaM_goShTham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ Let the beasts stream together to this cow-pen. Brihaspati who knoweth lead them
 </details>
 </details>
 </div>
+
 ## ०३ सं सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/03_saM_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,6 +235,7 @@ Together stream the cattle! stream together horses and the men! Hitherward press
 </details>
 </details>
 </div>
+
 ## ०४ सं सिञ्चामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/04_saM_sinchAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -301,6 +305,7 @@ I pour together milk of kine, with butter blending strength and juice. Well spri
 </details>
 </details>
 </div>
+
 ## ०५ आ हरामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/05_A_harAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -28,6 +28,7 @@ Translated: Grohmann, Ind. Stud. ix. 386, 414; Zimmer, p. 381; Henry, 45, 124; G
 </details>
 </details>
 </div>
+
 ## ०१ नमो रूराय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/116_jvaranAshanam/01_namo_rUrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Homage to him the burning one, shaker, exciter, violent! Homage to him the cold 
 </details>
 </details>
 </div>
+
 ## ०२ यो अन्येद्युरुभयद्युरभ्येतीमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/116_jvaranAshanam/02_yo_anyedyurubhayadyurabhyetImam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

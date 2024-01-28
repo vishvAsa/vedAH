@@ -27,6 +27,7 @@ A hymn of prayer and praise to Prithivi or deified Earth
 </details>
 </details>
 </div>
+
 ## ०१ सत्यं बृहदृतमुग्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/01_satyaM_bRhadRtamugram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Truth, high and potent Law, the Consecrating Rite, Fervour, Brahma, and Sacrific
 </details>
 </details>
 </div>
+
 ## ०२ असम्बाधं बध्यतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/02_asambAdhaM_badhyato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ Not over awded by the crowd of Manu's sons, she who hath many heights and floods
 </details>
 </details>
 </div>
+
 ## ०३ यस्यां समुद्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/03_yasyAM_samudra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -235,6 +238,7 @@ In whom the sea, and Sindhu, and the waters, in whom our food and corn-lands had
 </details>
 </details>
 </div>
+
 ## ०४ यस्याश्चतस्रः प्रदिशः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/04_yasyAshchatasraH_pradishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -311,6 +315,7 @@ She who is Lady of the earth's four regions, in whom our food and corn-lands had
 </details>
 </details>
 </div>
+
 ## ०५ यस्यां पूर्वे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/05_yasyAM_pUrve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -380,6 +385,7 @@ On whom the men of old before us battled, on whom the Gods attacked the hostile 
 </details>
 </details>
 </div>
+
 ## ०६ विश्वम्भरा वसुधानी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/06_vishvambharA_vasudhAnI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -447,6 +453,7 @@ Firm standing-place, all-bearing, store of treasures, gold-breasted, harbourer o
 </details>
 </details>
 </div>
+
 ## ०७ यां रक्षन्त्यस्वप्ना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/07_yAM_raxantyasvapnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -510,6 +517,7 @@ May Earth, may Prithivi, always protected with ceaseless care by Gods who never 
 </details>
 </details>
 </div>
+
 ## ०८ यार्णवेऽधि सलिलमग्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/08_yArNave-dhi_salilamagra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -579,6 +587,7 @@ She who at first was water in the ocean, whom with their wond- rous powers the s
 </details>
 </details>
 </div>
+
 ## ०९ यस्यामापः परिचराः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/09_yasyAmApaH_paricharAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -642,6 +651,7 @@ On whom the running universal waters flow day and night with never-ceasing motio
 </details>
 </details>
 </div>
+
 ## १० यामश्विनावमिमातां विष्णुर्यस्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/10_yAmashvinAvamimAtAM_viShNuryasyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -710,6 +720,7 @@ She whom the Asvins measured out, o'er whom the foot of Vishnu strode, Whom Indr
 </details>
 </details>
 </div>
+
 ## ११ गिरयस्ते पर्वता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/11_girayaste_parvatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -781,6 +792,7 @@ O Prithivi, auspicious be thy woodlands, auspicious be thy hills and snow-clad m
 </details>
 </details>
 </div>
+
 ## १२ यत्ते मध्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/12_yatte_madhyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -844,6 +856,7 @@ O Prithivi, thy centre and thy navel, all forces that have issued from thy body 
 </details>
 </details>
 </div>
+
 ## १३ यस्यां वेदिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/13_yasyAM_vedim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -915,6 +928,7 @@ a full *śakvarī* (56 syll.).
 </details>
 </details>
 </div>
+
 ## १४ यो नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/14_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -986,6 +1000,7 @@ The man who hates us, Earth! who fights against us, who threaten us with thought
 </details>
 </details>
 </div>
+
 ## १५ त्वज्जातास्त्वयि चरन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/15_tvajjAtAstvayi_charanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1048,6 +1063,7 @@ Produced from thee, on thee move mortal creatures: thou bearest them, both quadr
 </details>
 </details>
 </div>
+
 ## १६ ता नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/16_tA_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1109,6 +1125,7 @@ In concert may these creatures yield us blessings. With honey of discourse, O Ea
 </details>
 </details>
 </div>
+
 ## १७ विश्वस्वं मातरमोषधीनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/17_vishvasvaM_mAtaramoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1176,6 +1193,7 @@ Kind, ever gracious be the Earth we tread on, the firm Earth, Prithivi, borne up
 </details>
 </details>
 </div>
+
 ## १८ महत्सधस्थं महती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/18_mahatsadhasthaM_mahatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1244,6 +1262,7 @@ A vast abode hast thou become, the Mighty. Great stress is on thee, press and ag
 </details>
 </details>
 </div>
+
 ## १९ अग्निर्भूम्यामोषधीष्वग्निमापो बिभ्रत्यग्निरश्मसु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/19_agnirbhUmyAmoShadhIShvagnimApo_bibhratyagnirash.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1311,6 +1330,7 @@ Agni is in the earth, in plants; the waters hold Agni in them, in the stones is 
 </details>
 </details>
 </div>
+
 ## २० अग्निर्दिव आ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/20_agnirdiva_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1372,6 +1392,7 @@ Agni gives shine and heat in heaven: the spacious air is his, the God's Lover of
 </details>
 </details>
 </div>
+
 ## २१ अग्निवासाः पृथिव्यसितज्ञूस्त्विषीमन्तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/21_agnivAsAH_pRthivyasitajnUstviShImantam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1433,6 +1454,7 @@ Dark-kneed, invested with a fiery mantle, Prithivi sharpen me and give me splend
 </details>
 </details>
 </div>
+
 ## २२ भूम्यां देवेभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/22_bhUmyAM_devebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1500,6 +1522,7 @@ On earth they offer sacrifice and dressed oblation to the Gods. Men, mortals, li
 </details>
 </details>
 </div>
+
 ## २३ यस्ते गन्धः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/23_yaste_gandhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1568,6 +1591,7 @@ Scent that hath risen from thee, O Earth, the fragrance which. growing herbs and
 </details>
 </details>
 </div>
+
 ## २४ यस्ते गन्धः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/24_yaste_gandhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1632,6 +1656,7 @@ Thy scent which entered and possessed the lotus, the scent which they prepared a
 </details>
 </details>
 </div>
+
 ## २५ यस्ते गन्धः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/25_yaste_gandhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1701,6 +1726,7 @@ Thy scent in women and in men, the luck and light that is in. males, That is in 
 </details>
 </details>
 </div>
+
 ## २६ शिला भूमिरश्मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/26_shilA_bhUmirashmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1764,6 +1790,7 @@ Rock earth, and stone, and dust, this Earth is held together,. firmly bound. To 
 </details>
 </details>
 </div>
+
 ## २७ यस्यां वृक्षा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/27_yasyAM_vRxA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1827,6 +1854,7 @@ Hither we call the firmly held, the all-supporting Prithivi, On whom the trees, 
 </details>
 </details>
 </div>
+
 ## २८ उदीराणा उतासीनास्तिष्ठन्तः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/28_udIrANA_utAsInAstiShThantaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1890,6 +1918,7 @@ Sitting at ease or rising up, standing or going on our way. With our right foot 
 </details>
 </details>
 </div>
+
 ## २९ विमृग्वरीं पृथिवीमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/29_vimRgvarIM_pRthivImA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1957,6 +1986,7 @@ I speak to Prithivi the purifier, to patient Earth who groweth strong through Br
 </details>
 </details>
 </div>
+
 ## ३० शुद्धा न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/30_shuddhA_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2023,6 +2053,7 @@ Purified for our bodies flow the waters: we bring distress on him who would atta
 </details>
 </details>
 </div>
+
 ## ३१ यास्ते प्राचीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/31_yAste_prAchIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2090,6 +2121,7 @@ Earth, be thine eastern and thy northern regions, those lying southward and thos
 </details>
 </details>
 </div>
+
 ## ३२ मा नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/32_mA_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2158,6 +2190,7 @@ Drive us not from the west or east, drive us not from the north or south, Be gra
 </details>
 </details>
 </div>
+
 ## ३३ यावत्तेऽभि विपश्यामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/33_yAvatte-bhi_vipashyAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2223,6 +2256,7 @@ Long as, on thee, I look around, possessing Surya as a friend, So long, through 
 </details>
 </details>
 </div>
+
 ## ३४ यच्छयानः पर्यावर्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/34_yachChayAnaH_paryAvarte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2299,6 +2333,7 @@ When, as I lie, O Earth, I turn upon my right side and my left, When stretched a
 </details>
 </details>
 </div>
+
 ## ३५ यत्ते भूमे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/35_yatte_bhUme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2366,6 +2401,7 @@ Let what I dig from thee, O Earth, rapidly spring and grow again. O Purifier, le
 </details>
 </details>
 </div>
+
 ## ३६ ग्रीष्मस्ते भूमे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/36_grIShmaste_bhUme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2433,6 +2469,7 @@ Earth, may thy summer, and thy rains, and autumn, thy winter, and thy dewy frost
 </details>
 </details>
 </div>
+
 ## ३७ याप सर्पम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/37_yApa_sarpam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2507,6 +2544,7 @@ The purifier, shrinking from the Serpent, she who held fires that lie within the
 </details>
 </details>
 </div>
+
 ## ३८ यस्यां सदोहविर्धाने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/38_yasyAM_sadohavirdhAne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2578,6 +2616,7 @@ Base of the seat and sheds, on whom the sacrificial stake is reared, On whom the
 </details>
 </details>
 </div>
+
 ## ३९ यस्यां पूर्वे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/39_yasyAM_pUrve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2643,6 +2682,7 @@ On whom the ancient Rishis, they who made the world, sang forth the cows, Seven 
 </details>
 </details>
 </div>
+
 ## ४० सा नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/40_sA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2708,6 +2748,7 @@ May she, the Earth, assign to us the opulence for which we yearn, May Bhaga shar
 </details>
 </details>
 </div>
+
 ## ४१ यस्यां गायन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/41_yasyAM_gAyanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2777,6 +2818,7 @@ May she, the Earth, whereon men sing and dance with varied shout and noise, Wher
 </details>
 </details>
 </div>
+
 ## ४२ यस्यामन्नं व्रीहियवौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/42_yasyAmannaM_vrIhiyavau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2844,6 +2886,7 @@ On whom is food, barley and rice, to whom these Races Five belong, Homage to her
 </details>
 </details>
 </div>
+
 ## ४३ यस्याः पुरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/43_yasyAH_puro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2912,6 +2955,7 @@ womb, pleasant to us on every side!
 </details>
 </details>
 </div>
+
 ## ४४ निधिं बिभ्रती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/44_nidhiM_bibhratI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2978,6 +3022,7 @@ May Earth the Goddess, she who bears her treasure stored up in many a place, gol
 </details>
 </details>
 </div>
+
 ## ४५ जनं बिभ्रती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/45_janaM_bibhratI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3044,6 +3089,7 @@ Earth, bearing folk of many a varied language with divers rites as suits their d
 </details>
 </details>
 </div>
+
 ## ४६ यस्ते सर्पो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/46_yaste_sarpo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3117,6 +3163,7 @@ Thy snake, thy sharply stinging scorpion, lying concealed, be- wildered, chilled
 </details>
 </details>
 </div>
+
 ## ४७ ये ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/47_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3185,6 +3232,7 @@ Thy many ways on which the people travel, the road for car and wain to journey o
 </details>
 </details>
 </div>
+
 ## ४८ मल्वं बिभ्रती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/48_malvaM_bibhratI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3251,6 +3299,7 @@ Supporting both the foolish and the weighty she bears the death both of the good
 </details>
 </details>
 </div>
+
 ## ४९ ये त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/49_ye_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3323,6 +3372,7 @@ All sylvan beasts of thine that love the woodlands, man-eaters,. forest-haunting
 </details>
 </details>
 </div>
+
 ## ५० ये गन्धर्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/50_ye_gandharvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3386,6 +3436,7 @@ Gandharvas and Apsarases, Kimidins, and malignant sprites, Pisachas all, and Rak
 </details>
 </details>
 </div>
+
 ## ५१ यां द्विपादः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/51_yAM_dvipAdaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3460,6 +3511,7 @@ To whom the winged bipeds fly together, birds of each various kind, the swans, t
 </details>
 </details>
 </div>
+
 ## ५२ यस्यां कृष्णमरुणम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/52_yasyAM_kRShNamaruNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3533,6 +3585,7 @@ Earth, upon whom are settled, joined together, the night and day, the dusky and 
 </details>
 </details>
 </div>
+
 ## ५३ द्यौश्च म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/53_dyaushcha_ma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3602,6 +3655,7 @@ Heaven, Earth, the realm of Middle Air have granted me this ample room, Agni, Su
 </details>
 </details>
 </div>
+
 ## ५४ अहमस्मि सहमान
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/54_ahamasmi_sahamAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3695,6 +3749,7 @@ I am victorious, I am called the lord superior on earth, Triumphant, all-o'erpow
 </details>
 </details>
 </div>
+
 ## ५५ अदो यद्देवि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/55_ado_yaddevi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3752,6 +3807,7 @@ There, when the Gods, O Goddess, named thee, spreading thy wide expanse as thou 
 </details>
 </details>
 </div>
+
 ## ५६ ये ग्रामा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/56_ye_grAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3816,6 +3872,7 @@ In hamlets and in woodland, and in all assemblages on earth, In gatherings, meet
 </details>
 </details>
 </div>
+
 ## ५७ अश्व इव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/57_ashva_iva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3880,6 +3937,7 @@ As the horse scattereth the dust, the people who dwelt upon the land, at birth, 
 </details>
 </details>
 </div>
+
 ## ५८ यद्वदामि मधुमत्तद्वदामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/58_yadvadAmi_madhumattadvadAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3946,6 +4004,7 @@ Whate'er I say I speak with honey-sweetness, whatever I behold for that they lov
 </details>
 </details>
 </div>
+
 ## ५९ शन्तिवा सुरभिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/59_shantivA_surabhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -4010,6 +4069,7 @@ Mild, gracious, sweetly odorous, milky, with nectar in her breast, May Earth, ma
 </details>
 </details>
 </div>
+
 ## ६० यामन्वैच्छद्धविषा विश्वकर्मान्तरर्णवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/60_yAmanvaichChaddhaviShA_vishvakarmAntararNave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -4075,6 +4135,7 @@ Whom Visvakarman with oblation followed, when she was set in mid-air's billowy o
 </details>
 </details>
 </div>
+
 ## ६१ त्वमस्यावपनी जनानामदितिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/61_tvamasyAvapanI_janAnAmaditiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -4147,6 +4208,7 @@ Thou art the vessel that containeth people, Aditi, granter of the wish, far-spre
 </details>
 </details>
 </div>
+
 ## ६२ उपस्थास्ते अनमीवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/62_upasthAste_anamIvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -4213,6 +4275,7 @@ Let thy breasts, frec from sickness and Consumption, be. Prithivi, produced for 
 </details>
 </details>
 </div>
+
 ## ६३ भूमे मातर्नि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/001_bhUmisUktam/63_bhUme_mAtarni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

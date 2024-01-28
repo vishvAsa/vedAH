@@ -32,6 +32,7 @@ A charm against witchcraft
 </details>
 </details>
 </div>
+
 ## ०१ सुपर्णस्त्वान्वविन्दत्सूकरस्त्वाखनन्नसा दिप्सौषधे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/01_suparNastvAnvavindatsUkarastvAkhanannasA_dipsau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ An eagle found thee: with his snout a wild boar dug thee from the earth. Harm th
 </details>
 </details>
 </div>
+
 ## ०२ अव जहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/02_ava_jahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -156,6 +158,7 @@ Beat thou the Yatudhanas back, drive thou away the sorcerer; And chase afar, O P
 </details>
 </details>
 </div>
+
 ## ०३ रिश्यस्येव परीशासम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/03_rishyasyeva_parIshAsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -224,6 +227,7 @@ As 'twere a strip cut round from skin of a white-footed an- telope, Bind, like a
 </details>
 </details>
 </div>
+
 ## ०४ पुनः कृत्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/04_punaH_kRtyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -287,6 +291,7 @@ Take thou his sorcery by the hand, and to the sorcerer lead it back. Lay it befo
 </details>
 </details>
 </div>
+
 ## ०५ कृत्याः सन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/05_kRtyAH_santu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -348,6 +353,7 @@ Back on the wizard fall his craft, upon the curser light his curse! Let witchcra
 </details>
 </details>
 </div>
+
 ## ०६ यदि स्त्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/06_yadi_strI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -410,6 +416,7 @@ Whoso, for other's harm hath dealt-woman or man-in magic arts, To him we lead th
 </details>
 </details>
 </div>
+
 ## ०७ यदि वासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/07_yadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -474,6 +481,7 @@ Now whether thou hast been prepared by Gods or been pre- pared by men, We, with 
 </details>
 </details>
 </div>
+
 ## ०८ अग्ने पृतनाषाट्पृतनाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/08_agne_pRtanAShATpRtanAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -538,6 +546,7 @@ Agni, victorious in fight, subdue the armies of our foes! Back on the sorcerer w
 </details>
 </details>
 </div>
+
 ## ०९ कृतव्यधनि विद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/09_kRtavyadhani_vidya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -603,6 +612,7 @@ Thou who hast piercing weapons, pierce him who hath wrought it; conquer him. We 
 </details>
 </details>
 </div>
+
 ## १० पुत्र इव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/10_putra_iva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -669,6 +679,7 @@ Go as a son goes to his sire: bite as a trampled viper bites. As one who flies f
 </details>
 </details>
 </div>
+
 ## ११ उदेणीव वारण्यभिस्कन्धम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/11_udeNIva_vAraNyabhiskandham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -832,6 +843,7 @@ Even as the timid antelope or hind from her assailant flees, So swiftly let the 
 </details>
 </details>
 </div>
+
 ## १२ इष्वा ऋजीयः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/12_iShvA_RjIyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -889,6 +901,7 @@ Straighter than any arrow let it fly against him, Heaven and Earth. So let that 
 </details>
 </details>
 </div>
+
 ## १३ अग्निरिवैतु प्रतिकूलमनुकूलमिवोदकम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/13_agnirivaitu_pratikUlamanukUlamivodakam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

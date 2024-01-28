@@ -32,6 +32,7 @@ A rifaccimento or recension of I
 </details>
 </details>
 </div>
+
 ## ०१ अग्निर्नो दूतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/01_agnirno_dUtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ May Agni, he who knows, our envoy, meet them, burning against ill-will and impre
 </details>
 </details>
 </div>
+
 ## ०२ अयमग्निरमूमुहद्यानि चित्तानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/02_ayamagniramUmuhadyAni_chittAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ This Agni hath bewildered all the senses that were in your hearts: Now let him b
 </details>
 </details>
 </div>
+
 ## ०३ इन्द्र चित्तानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/03_indra_chittAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,6 +231,7 @@ Dazing their senses, Indra, come hitherward with the wish and will. With Agni's,
 </details>
 </details>
 </div>
+
 ## ०४ व्याकूतय एषामिताथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/04_vyAkUtaya_eShAmitAtho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -294,6 +298,7 @@ Vanish, ye hopes and plans of theirs, be ye confounded, all their thoughts! What
 </details>
 </details>
 </div>
+
 ## ०५ अमीषां चित्तानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/05_amIShAM_chittAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -371,6 +376,7 @@ Bewildering the senses of our foemen, seize on their bodies and depart, O Apva! 
 </details>
 </details>
 </div>
+
 ## ०६ असौ या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/06_asau_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

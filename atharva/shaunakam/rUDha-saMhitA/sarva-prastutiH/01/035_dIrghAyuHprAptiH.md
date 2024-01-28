@@ -32,6 +32,7 @@ A charm to ensure long life and glory to the wearer of an amulet
 </details>
 </details>
 </div>
+
 ## ०१ यदाबध्नन्दाक्षायणा हिरण्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/01_yadAbadhnandAxAyaNA_hiraNyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ This Ornament of Gold which Daksha's children bound, with benevolent thoughts, o
 </details>
 </details>
 </div>
+
 ## ०२ नैनं रक्षांसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/02_nainaM_raxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ This man no fiends may conquer, no Pisachas, for this is might of Gods, their pr
 </details>
 </details>
 </div>
+
 ## ०३ अपां तेजो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/03_apAM_tejo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -233,6 +236,7 @@ The light, the power, the lustre of the Waters, the strength of Trees, and all t
 </details>
 </details>
 </div>
+
 ## ०४ समानां मासामृतुभिष्ट्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/04_samAnAM_mAsAmRtubhiShTvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

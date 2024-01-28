@@ -32,6 +32,7 @@ A prayer for seasonable rain and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ अयं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/01_ayaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ May this our Lord of Cloudy Sky, bedewed with liquid drops preserve unequalled r
 </details>
 </details>
 </div>
+
 ## ०२ त्वं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/02_tvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ Lord of the Cloudy Sky, bestow vigour and strength on our abodes. Let wealth and
 </details>
 </details>
 </div>
+
 ## ०३ देव संस्फान
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/03_deva_saMsphAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

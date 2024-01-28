@@ -32,6 +32,7 @@ A charm to reconcile estranged friends
 </details>
 </details>
 </div>
+
 ## ०१ अव ज्यामिव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/01_ava_jyAmiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ I loose the anger from thy heart as 'twere the bowstring from a bow, That we, on
 </details>
 </details>
 </div>
+
 ## ०२ सखायाविव सचावहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/02_sakhAyAviva_sachAvahA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ Together let us walk as friends: thy wrathful feeling I remove. Beneath a heavy 
 </details>
 </details>
 </div>
+
 ## ०३ अभि तिष्ठामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/03_abhi_tiShThAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

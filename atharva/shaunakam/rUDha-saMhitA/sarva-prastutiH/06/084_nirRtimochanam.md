@@ -32,6 +32,7 @@ A charm to accompany the symbolical loosing of sacrificial victims
 </details>
 </details>
 </div>
+
 ## ०१ यस्यास्त आसनि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/01_yasyAsta_Asani.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -110,6 +111,7 @@ Thou in whose dread mouth I present oblation, that these bound victims may obtai
 </details>
 </details>
 </div>
+
 ## ०२ भूते हविष्मती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/02_bhUte_haviShmatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ Be thou enriched, O Welfare, with oblations, here among us is thine allotted por
 </details>
 </details>
 </div>
+
 ## ०३ एवो ष्वस्मन्निरृतेऽनेहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/03_evo_ShvasmannirRte-nehA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -236,6 +239,7 @@ Do thou, Destruction, thus, without a rival, release us from the iron bonds that
 </details>
 </details>
 </div>
+
 ## ०४ अयस्मये द्रुपदे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/04_ayasmaye_drupade.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

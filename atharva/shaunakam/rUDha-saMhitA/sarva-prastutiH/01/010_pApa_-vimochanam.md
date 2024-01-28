@@ -32,6 +32,7 @@ Absolution of a sinner after intercession with Varuna
 </details>
 </details>
 </div>
+
 ## ०१ अयं देवानामसुरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/01_ayaM_devAnAmasuro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ This Lord is the Gods' ruler; for the wishes of Varuna the King must be accompli
 </details>
 </details>
 </div>
+
 ## ०२ नमस्ते राजन्वरुणास्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/02_namaste_rAjanvaruNAstu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ Homage be paid, King Varuna, to thine anger; for thou, dread God, detectest ever
 </details>
 </details>
 </div>
+
 ## ०३ यदुवक्थानृतम्जिह्वया वृजिनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/03_yaduvakthAnRtamjihvayA_vRjinam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -229,6 +232,7 @@ Whatever falsehood thou hast told, much evil spoken with the tongue, I liberate 
 </details>
 </details>
 </div>
+
 ## ०४ मुञ्चामि त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/04_munchAmi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

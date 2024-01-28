@@ -33,6 +33,7 @@ A benediction on a sick man
 </details>
 </details>
 </div>
+
 ## ०१ पार्थिवस्य रसे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/01_pArthivasya_rase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ Gods, give him all that earth hath best with bodily strength and happy fate. Agn
 </details>
 </details>
 </div>
+
 ## ०२ आयुरस्मै धेहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/02_Ayurasmai_dhehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ Bestow thou life on him, O Jatavedas. Store him with future progeny, O Tvashtar.
 </details>
 </details>
 </div>
+
 ## ०३ आशीर्ण ऊर्जमुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/03_AshIrNa_Urjamuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -249,6 +252,7 @@ May this our prayer bring strength and goodly offspring. Give, both of you one-m
 </details>
 </details>
 </div>
+
 ## ०४ इन्द्रेण दत्तो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/04_indreNa_datto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -316,6 +320,7 @@ As Indra's gift, by Varuna instructed the fierce one came to us sent by the Maru
 </details>
 </details>
 </div>
+
 ## ०५ ऊर्जमस्मा ऊर्जस्वती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/05_UrjamasmA_UrjasvatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -388,6 +393,7 @@ Ye twain endowed with vigour, grant him vigour. Ye who are rich in milk, give mi
 </details>
 </details>
 </div>
+
 ## ०६ शिवाभिष्टे हृदयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/06_shivAbhiShTe_hRdayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -457,6 +463,7 @@ With health-bestowing drops thine heart I comfort: all-bright again, and undisea
 </details>
 </details>
 </div>
+
 ## ०७ इन्द्र एताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/07_indra_etAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A charm to secure a husband for a marriageable girl
 </details>
 </details>
 </div>
+
 ## ०१ आ नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/01_A_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ To please us may the suitor come, O Agni, seeking this maid and bringing us good
 </details>
 </details>
 </div>
+
 ## ०२ सोमजुष्टं ब्रह्मजुष्टमर्यम्णा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -177,6 +179,7 @@ As bliss beloved by Soma, dear to Prayer, and stored by Arya- man, With the God 
 </details>
 </details>
 </div>
+
 ## ०३ इयमग्ने नारी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/03_iyamagne_nArI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -250,6 +253,7 @@ O Agni, may this woman find a husband. Then verily King Soma makes her happy. Ma
 </details>
 </details>
 </div>
+
 ## ०४ यथाखरो मघवंश्चारुरेष
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -332,6 +336,7 @@ As this lair, Maghavan! that is fair to look on was dear to wild things as a ple
 </details>
 </details>
 </div>
+
 ## ०५ भगस्य नावमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/05_bhagasya_nAvamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -397,6 +402,7 @@ Mount up, embark on Bhaga's ship, the full, the inexhaustible, Thereon bring hit
 </details>
 </details>
 </div>
+
 ## ०६ आ क्रन्दय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/06_A_krandaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -462,6 +468,7 @@ Call out to him, O Lord of Wealth! Make thou the lover well- inclined. Set each 
 </details>
 </details>
 </div>
+
 ## ०७ इदं हिरण्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/07_idaM_hiraNyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -538,6 +545,7 @@ Here is the Bdellium and the gold, the Auksha and the bliss are here: These brin
 </details>
 </details>
 </div>
+
 ## ०८ आ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/08_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

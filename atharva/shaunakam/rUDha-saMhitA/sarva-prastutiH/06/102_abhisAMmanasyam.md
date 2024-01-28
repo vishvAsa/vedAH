@@ -28,6 +28,7 @@ Translated: Weber, Ind. Stud. 243; Grill, 54, 169; Griffith, i. 301; Bloomfield,
 </details>
 </details>
 </div>
+
 ## ०१ यथायं वाहो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ Even as this ox, O Asvins, steps and turns together with his mate, So let thy fa
 </details>
 </details>
 </div>
+
 ## ०२ आहं खिदामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ I, as the shaft-horse draws the mare beside him, draw thee to myself. Like grass
 </details>
 </details>
 </div>
+
 ## ०३ आञ्जनस्य मदुघस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

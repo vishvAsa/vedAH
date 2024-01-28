@@ -32,6 +32,7 @@ A thanksgiving for life, hearing, and sight
 </details>
 </details>
 </div>
+
 ## ०१ पृथिव्यै श्रोत्राय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,6 +92,7 @@ All hail for hearing to the Earth, to Trees, to Agni, sovran Lord!
 </details>
 </details>
 </div>
+
 ## ०२ प्राणायान्तरिक्षाय वयोभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/02_prANAyAntarixAya_vayobhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -151,6 +153,7 @@ All hail for breath to Air, for power to life to Vayu, sovran Lord!
 </details>
 </details>
 </div>
+
 ## ०३ दिवे चक्षुषे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/03_dive_chaxuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

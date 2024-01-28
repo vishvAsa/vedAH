@@ -32,6 +32,7 @@ A charm to divert Imprecation personified
 </details>
 </details>
 </div>
+
 ## ०१ उप प्रागात्सहस्राक्षो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/037_shApanAshanam/01_upa_prAgAtsahasrAxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Hitherward, having yoked his steeds, came Imprecation, thousand-eyed, Seeking my
 </details>
 </details>
 </div>
+
 ## ०२ परि णो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/037_shApanAshanam/02_pari_No.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ Avoid us, Imprecation! as consuming fire avoids the lake. Smite thou the man who
 </details>
 </details>
 </div>
+
 ## ०३ यो नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/037_shApanAshanam/03_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

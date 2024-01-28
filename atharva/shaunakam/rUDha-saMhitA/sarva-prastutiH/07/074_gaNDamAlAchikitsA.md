@@ -28,6 +28,7 @@ A charm to cure pustules, sores, or scrofulous swellings (apachitas)
 </details>
 </details>
 </div>
+
 ## ०१ अपचितां लोहिनीनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/01_apachitAM_lohinInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ Black is the mother, we have heard, from whom the red-hued Pustules sprang. With
 </details>
 </details>
 </div>
+
 ## ०२ विध्याम्यासां प्रथमाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/02_vidhyAmyAsAM_prathamAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ I pierce the foremost one of these, I perforate the middlemost, And here I cut t
 </details>
 </details>
 </div>
+
 ## ०३ त्वाष्ट्रेणाहं वचसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/03_tvAShTreNAhaM_vachasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -221,6 +224,7 @@ With spell that Tvashtar sent to us I have dispelled thy jealousy. We mitigate a
 </details>
 </details>
 </div>
+
 ## ०४ व्रतेन त्वम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/04_vratena_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

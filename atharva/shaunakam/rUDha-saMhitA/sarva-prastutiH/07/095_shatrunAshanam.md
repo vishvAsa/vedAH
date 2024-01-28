@@ -28,6 +28,7 @@ Translated: Ludwig, p. 517; Henry, 38, 109; Griffith, i. 375.
 </details>
 </details>
 </div>
+
 ## ०१ उदस्य श्यावौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/01_udasya_shyAvau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ To heaven, as 'twere, have soared this man's two vultures, staggering, dusky hue
 </details>
 </details>
 </div>
+
 ## ०२ अहमेनावुदतिष्ठिपं गावौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/02_ahamenAvudatiShThipaM_gAvau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ I verily have stirred them up like oxen resting after toil. Like two loud-snarli
 </details>
 </details>
 </div>
+
 ## ०३ आतोदिनौ नितोदिनावथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/03_Atodinau_nitodinAvatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

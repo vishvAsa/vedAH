@@ -32,6 +32,7 @@ A priest's prayer to the Agnayo Dhishnyah
 </details>
 </details>
 </div>
+
 ## ०१ पुनर्मैत्विन्द्रियं पुनरात्मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/067_AtmA/01_punarmaitvindriyaM_punarAtmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

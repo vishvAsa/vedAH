@@ -32,6 +32,7 @@ A prayer to the presiding deities of the four quarters for protection
 </details>
 </details>
 </div>
+
 ## ०१ अश्मवर्म मेऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/01_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ Thou art my wall of stone against the sinner who fights against me from the east
 </details>
 </details>
 </div>
+
 ## ०२ अश्मवर्म मेऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/02_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -140,6 +142,7 @@ Thou art my wall of stone against the sinner who fights against me from the sout
 </details>
 </details>
 </div>
+
 ## ०३ अश्मवर्म मेऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/03_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -188,6 +191,7 @@ Thou art my wall of stone against the sinner who fights against me from the west
 </details>
 </details>
 </div>
+
 ## ०४ अश्मवर्म मेऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/04_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -236,6 +240,7 @@ Thou art my wall of stone against the sinner who fights against me from northern
 </details>
 </details>
 </div>
+
 ## ०५ अश्मवर्म मेऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/05_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -283,6 +288,7 @@ Thou art my wall of stone against the sinner who fights against me from the sted
 </details>
 </details>
 </div>
+
 ## ०६ अश्मवर्म मेऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/06_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -333,6 +339,7 @@ It is possible to read these verses as 7 + 12 (or 13 ⌊or 14⌋): 5 = 24
 </details>
 </details>
 </div>
+
 ## ०७ अश्मवर्म मेऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/07_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -397,6 +404,7 @@ Thou art my wall of stone against the sinner who from points intermediate fights
 </details>
 </details>
 </div>
+
 ## ०८ बृहता मन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/08_bRhatA_mana.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

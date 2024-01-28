@@ -32,6 +32,7 @@ A prayer for sacred knowledge and its fruits
 </details>
 </details>
 </div>
+
 ## ०१ यदग्ने तपसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/061_tapaH/01_yadagne_tapasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ Since, Agni, with our fervent zeal we undergo austerity, May we be dear to Sacre
 </details>
 </details>
 </div>
+
 ## ०२ अग्ने तपस्तप्यामह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/061_tapaH/02_agne_tapastapyAmaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

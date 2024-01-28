@@ -28,6 +28,7 @@ Translated: Ludwig, p. 512; Zimmer, p. 393; Grill, 21, 170; Griffith, i. 306; Bl
 </details>
 </details>
 </div>
+
 ## ०१ इमं मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/111_unmattatAmochanam/01_imaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ Unbind and loose for me this man, O Agni, who bound and well restrained is chatt
 </details>
 </details>
 </div>
+
 ## ०२ अग्निष्टे नि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/111_unmattatAmochanam/02_agniShTe_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -156,6 +158,7 @@ Let Agni gently soothe thy mind when fierce excitement troubles it. Well-skilled
 </details>
 </details>
 </div>
+
 ## ०३ देवैनसादुन्मदितमुन्मत्तं रक्षसस्परि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/111_unmattatAmochanam/03_devainasAdunmaditamunmattaM_raxasaspari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -219,6 +222,7 @@ Insane through sin against the Gods, or maddened by a demon's power-- Well-skill
 </details>
 </details>
 </div>
+
 ## ०४ पुनस्त्वा दुरप्सरसः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/111_unmattatAmochanam/04_punastvA_durapsarasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

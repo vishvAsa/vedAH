@@ -28,6 +28,7 @@ Translated: Henry, 41, 116; Griffith, i. 379.—Cf. above, v. 11, introduction.
 </details>
 </details>
 </div>
+
 ## ०१ कः पृश्निम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/104_gauH/01_kaH_pRshnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

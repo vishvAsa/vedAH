@@ -28,6 +28,7 @@ Translated: Ludwig, p. 432; Griffith, i. 312.
 </details>
 </details>
 </div>
+
 ## ०१ एतं भागम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/01_etaM_bhAgam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ This portion I who understand deliver to Visvakarman first-born son of Order. So
 </details>
 </details>
 </div>
+
 ## ०२ ततं तन्तुमन्वेके
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/02_tataM_tantumanveke.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -176,6 +178,7 @@ This long-drawn thread some follow who have offered in order- ed course oblation
 </details>
 </details>
 </div>
+
 ## ०३ अन्वारभेथामनुसंरभेथामेतं लोकम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/03_anvArabhethAmanusaMrabhethAmetaM_lokam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -250,6 +253,7 @@ beginning, as xii. 3. 7. It is too irregular to be called a simple
 </details>
 </details>
 </div>
+
 ## ०४ यज्ञं यन्तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/04_yajnaM_yantam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -318,6 +322,7 @@ Dwelling with zeal I mount in spirit after the lofty sacrifice as it departeth. 
 </details>
 </details>
 </div>
+
 ## ०५ शुद्धाः पूता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/05_shuddhAH_pUtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

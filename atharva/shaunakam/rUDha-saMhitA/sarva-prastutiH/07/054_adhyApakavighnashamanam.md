@@ -32,6 +32,7 @@ A charm to obtain knowledge of the Veda
 </details>
 </details>
 </div>
+
 ## ०१ ऋचं साम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/054_adhyApakavighnashamanam/01_RchaM_sAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -120,6 +121,7 @@ We worship holy Verse and Song, by which they carry out their acts, Shining in o
 </details>
 </details>
 </div>
+
 ## ०२ ऋचं साम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/054_adhyApakavighnashamanam/02_RchaM_sAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

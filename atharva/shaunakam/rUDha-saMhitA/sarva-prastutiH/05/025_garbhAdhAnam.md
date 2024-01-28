@@ -32,6 +32,7 @@ A charm to facilitate conception
 </details>
 </details>
 </div>
+
 ## ०१ पर्वताद्दिवो योनेरङ्गादङ्गात्समाभृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/01_parvatAddivo_yonerangAdangAtsamAbhRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ Let the man, sower of the germ, lay, as a feather on a shaft. Limb drawn from li
 </details>
 </details>
 </div>
+
 ## ०२ यथेयं पृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/02_yatheyaM_pRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ Even as this broad earth received the germ of all the things that be, Thus withi
 </details>
 </details>
 </div>
+
 ## ०३ गर्भं धेहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/03_garbhaM_dhehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -234,6 +237,7 @@ O Sinivali, set the germ, set thou the germ, Sarasvati! In thee let both the Asv
 </details>
 </details>
 </div>
+
 ## ०४ गर्भं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/04_garbhaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -296,6 +300,7 @@ Let Mitra-Varuna and God Brihaspati lay the germ in thee. Indra and Agni lay the
 </details>
 </details>
 </div>
+
 ## ०५ विष्णुर्योनिं कल्पयतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/05_viShNuryoniM_kalpayatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -359,6 +364,7 @@ Let Vishnu form and mould the womb, let Tvashtar duly shape the forms, Prajapati
 </details>
 </details>
 </div>
+
 ## ०६ यद्वेद राजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/06_yadveda_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -422,6 +428,7 @@ Drink thou the procreative draught well-known to Varuna the King, Known to divin
 </details>
 </details>
 </div>
+
 ## ०७ गर्भो अस्योषधीनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/07_garbho_asyoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -489,6 +496,7 @@ Thou art the germ of plants and herbs, thou art the germ of forest trees, The ge
 </details>
 </details>
 </div>
+
 ## ०८ अधि स्कन्द
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/08_adhi_skanda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -556,6 +564,7 @@ Rise up, put forth thy manly strength, and lay thy germ within the womb. A bull 
 </details>
 </details>
 </div>
+
 ## ०९ वि जिहीष्व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/09_vi_jihIShva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -624,6 +633,7 @@ Prepare thee, Barhatsama, let the germ be laid within thy side. The Soma-drinkin
 </details>
 </details>
 </div>
+
 ## १० धातः श्रेष्ठेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/10_dhAtaH_shreShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -695,6 +705,7 @@ O Dhatar, thou Disposer, lay within the body of this dame. A male germ with the 
 </details>
 </details>
 </div>
+
 ## ११ त्वष्टः श्रेष्ठेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/11_tvaShTaH_shreShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -754,6 +765,7 @@ Tvashtar, celestial artist, lay within the body of this dame. A male germ with t
 </details>
 </details>
 </div>
+
 ## १२ सवितः श्रेष्ठेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/12_savitaH_shreShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -801,6 +813,7 @@ Savitar, vivifier, lay within the body of this dame A male germ with the noblest
 </details>
 </details>
 </div>
+
 ## १३ प्रजापते श्रेष्ठेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/13_prajApate_shreShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

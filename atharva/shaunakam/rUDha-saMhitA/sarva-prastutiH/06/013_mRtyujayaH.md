@@ -32,6 +32,7 @@ Homage to death
 </details>
 </details>
 </div>
+
 ## ०१ नमो देववधेभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/01_namo_devavadhebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ Worship to weapons of the Gods! worship to weapons of the Kings! Then worship to
 </details>
 </details>
 </div>
+
 ## ०२ नमस्ते अधिवाकाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/02_namaste_adhivAkAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -156,6 +158,7 @@ Let worship be to thy defence and to thine accusation paid. Death! be this worsh
 </details>
 </details>
 </div>
+
 ## ०३ नमस्ते यातुधानेभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/03_namaste_yAtudhAnebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

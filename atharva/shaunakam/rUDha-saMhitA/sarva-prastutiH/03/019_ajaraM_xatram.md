@@ -32,6 +32,7 @@ A glorification of the office of a king's household priest
 </details>
 </details>
 </div>
+
 ## ०१ संशितं म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/01_saMshitaM_ma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -106,6 +107,7 @@ Quickened is this my priest rank, quickened is manly strength and force, Quicken
 </details>
 </details>
 </div>
+
 ## ०२ समहमेषां राष्ट्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/02_samahameShAM_rAShTram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ I quicken these men's princely sway, the might, the manly strength and force; I 
 </details>
 </details>
 </div>
+
 ## ०३ नीचैः पद्यन्तामधरे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/03_nIchaiH_padyantAmadhare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -239,6 +242,7 @@ Down fall the men, low let them lie, who fight against our mighty prince, I ruin
 </details>
 </details>
 </div>
+
 ## ०४ तीक्ष्णीयांसः परशोरग्नेस्तीक्ष्णतरा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/04_tIxNIyAMsaH_parashoragnestIxNatarA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -302,6 +306,7 @@ Keener than is the axe's edge, keener than Agni's self are they, Keener than Ind
 </details>
 </details>
 </div>
+
 ## ०५ एषामहमायुधा सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/05_eShAmahamAyudhA_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -373,6 +378,7 @@ The weapons of these men I whet and sharpen, with valiant heroes I increase thei
 </details>
 </details>
 </div>
+
 ## ०६ उद्धर्षन्तां मघवन्वाजिनान्युद्वीराणाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/06_uddharShantAM_maghavanvAjinAnyudvIrANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -452,6 +458,7 @@ ketumantu udīratām;* with **e** and **f** as in our text.
 </details>
 </details>
 </div>
+
 ## ०७ प्रेता जयता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/07_pretA_jayatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -519,6 +526,7 @@ Advance and be victorious, men I Exceeding mighty be your arms! Smite with sharp
 </details>
 </details>
 </div>
+
 ## ०८ अवसृष्टा परा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/08_avasRShTA_parA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

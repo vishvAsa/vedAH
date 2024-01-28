@@ -32,6 +32,7 @@ A similar charm addressed to the same
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रस्य नाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/01_indrasya_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ While their lips uttered Indra's name the Rishis gave us Jangida.. Which in the 
 </details>
 </details>
 </div>
+
 ## ०२ स नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/02_sa_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ So may this Jangida guard us, even as a treasurer guards wealth,. Even this whic
 </details>
 </details>
 </div>
+
 ## ०३ दुर्हार्दः सङ्घोरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/03_durhArdaH_sanghoram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -240,6 +243,7 @@ Hard-hearted men, the cruel eye, the sinner who hath come to- us, Destroy thou t
 </details>
 </details>
 </div>
+
 ## ०४ परि मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/04_pari_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -304,6 +308,7 @@ Guard me from earth and guard me from the heavens, guard me from middle air, fro
 </details>
 </details>
 </div>
+
 ## ०५ य ऋष्णवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/05_ya_RShNavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

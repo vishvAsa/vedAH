@@ -28,6 +28,7 @@ A prayer to Lightning, against fever, headache, and cough
 </details>
 </details>
 </div>
+
 ## ०१ जरायुजः प्रथम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/01_jarAyujaH_prathama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -109,6 +110,7 @@ Born from the womb, brought forth from wind and from the cloud, the first red bu
 </details>
 </details>
 </div>
+
 ## ०२ अङ्गेअङ्गे शोचिषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/02_angeange_shochiShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -181,6 +183,7 @@ Bending to thee who clingest to each limb with heat, fain would we worship thee 
 </details>
 </details>
 </div>
+
 ## ०३ मुञ्च शीर्षक्त्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/03_muncha_shIrShaktyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -249,6 +252,7 @@ Do thou release this man from headache, free him from cough which has entered in
 </details>
 </details>
 </div>
+
 ## ०४ शं मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/04_shaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

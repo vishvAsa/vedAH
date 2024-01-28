@@ -31,6 +31,7 @@ Vratya
 </details>
 </details>
 </div>
+
 ## ०१ तस्यव्रात्यस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/01_tasyavrAtyasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -88,6 +89,7 @@ Of that Vratya.
 </details>
 </details>
 </div>
+
 ## ०२ यदस्यदक्षिणमक्ष्यसौ स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/02_yadasyadaxiNamaxyasau_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -146,6 +148,7 @@ The right eye is the Sun and the left eye is the Moon.
 </details>
 </details>
 </div>
+
 ## ०३ योऽस्यदक्षिणः कर्णोऽयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/03_yo-syadaxiNaH_karNo-yam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -204,6 +207,7 @@ His right ear is Agni and his left ear is Pavamana.
 </details>
 </details>
 </div>
+
 ## ०४ अहोरात्रेनासिके दितिश्चादितिश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/04_ahorAtrenAsike_ditishchAditishcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -262,6 +266,7 @@ Day and Night are his nostrils. Diti and Aditi are his head and skull.
 </details>
 </details>
 </div>
+
 ## ०५ अह्नाप्रत्यङ्व्रात्यो रात्र्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/05_ahnApratya~NvrAtyo_rAtryA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A prayer for pardon of error in sacrifice, and for wisdom, strength, and life
 </details>
 </details>
 </div>
+
 ## ०१ यन्मे छिद्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/01_yanme_Chidram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -105,6 +106,7 @@ For each defect of mine in voice and spirit I have approached One vehement and a
 </details>
 </details>
 </div>
+
 ## ०२ मा न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/02_mA_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -183,6 +185,7 @@ Disturb ye not our intellect, O Waters, nor the power of prayer_ Glide on your w
 </details>
 </details>
 </div>
+
 ## ०३ मा नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/03_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -260,6 +263,7 @@ Mar not our consecrating rite, our intellect, or fervent zeal. Gracious to us fo
 </details>
 </details>
 </div>
+
 ## ०४ या नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/04_yA_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

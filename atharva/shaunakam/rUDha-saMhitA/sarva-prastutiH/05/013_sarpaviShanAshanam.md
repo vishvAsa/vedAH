@@ -32,6 +32,7 @@ A charm against snakes
 </details>
 </details>
 </div>
+
 ## ०१ ददिर्हि मह्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/01_dadirhi_mahyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Varuna, Sage of heaven, hath given me the gift: with spells of mighty power I dr
 </details>
 </details>
 </div>
+
 ## ०२ यत्ते अपोदकम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/02_yatte_apodakam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ All the non-fluid portion of thy venom, I receive in these. I take thy middlemos
 </details>
 </details>
 </div>
+
 ## ०३ वृषा मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/03_vRShA_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -230,6 +233,7 @@ Strong is my cry like thunder with the rainy cloud: with power- ful incantation 
 </details>
 </details>
 </div>
+
 ## ०४ चक्षुषा ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/04_chaxuShA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -302,6 +306,7 @@ I with this eye destroy thine eye, and with this poison conquer thine. Live not,
 </details>
 </details>
 </div>
+
 ## ०५ कैरात पृश्न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/05_kairAta_pRshna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -380,6 +385,7 @@ Listen to me, Black Snakes and hateful creatures, Lurker-in- Grass, Karait, and 
 </details>
 </details>
 </div>
+
 ## ०६ असितस्य तैमातस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/06_asitasya_taimAtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -452,6 +458,7 @@ Even as the cord that strings the bow, I slacken, as it were, the cars. Of the A
 </details>
 </details>
 </div>
+
 ## ०७ आलिगी च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/07_AligI_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -517,6 +524,7 @@ And Aligi and Viligi, their father and the mother too,-- What will ye do? Your v
 </details>
 </details>
 </div>
+
 ## ०८ उरुगूलाया दुहिता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/08_urugUlAyA_duhitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -589,6 +597,7 @@ Daughter of Urugula, she-fiend whom the black, skinned mother bare-- All female 
 </details>
 </details>
 </div>
+
 ## ०९ कर्णा श्वावित्तदब्रवीद्गिरेरवचरन्तिका
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/09_karNA_shvAvittadabravIdgireravacharantikA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -654,6 +663,7 @@ Dwelling beside the mountain's slope, the quick-eared porcupine exclaimed: Of al
 </details>
 </details>
 </div>
+
 ## १० ताबुवं न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/10_tAbuvaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -717,6 +727,7 @@ Tabuva or not Tabuva, thou verily art not Tabuva: poison is killed by Tabuva. Ta
 </details>
 </details>
 </div>
+
 ## ११ तस्तुवं न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/11_tastuvaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

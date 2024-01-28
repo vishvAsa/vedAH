@@ -32,6 +32,7 @@ The hyperbolical glorification of the Vratya or Aryan Non-conformist
 </details>
 </details>
 </div>
+
 ## ०१ व्रात्यआसीदीयमान एव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/01_vrAtyaAsIdIyamAna_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ There was a roaming Vratya. He roused Prajapati to action.
 </details>
 </details>
 </div>
+
 ## ०२ स प्रजापतिःसुवर्णमात्मन्नपश्यत्तत्प्राजनयत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/02_sa_prajApatiHsuvarNamAtmannapashyattatprAjanaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -151,6 +153,7 @@ Prajapati beheld gold in himself and engendered it.
 </details>
 </details>
 </div>
+
 ## ०३ तदेकमभवत्तल्ललाममभवत्तन्महदभवत्तज्ज्येष्ठमभवत्तद्ब्रह्माभवत्तत्तपोऽभवत्तत्सत्यमभवत्तेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/03_tadekamabhavattallalAmamabhavattanmahadabhavatt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -213,6 +216,7 @@ That became unique, that became distinguished, that became great, that became ex
 </details>
 </details>
 </div>
+
 ## ०४ सोऽवर्धत समहानभवत्स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/04_so-vardhata_samahAnabhavatsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -272,6 +276,7 @@ He grew, he became great, he became Mahadeva.
 </details>
 </details>
 </div>
+
 ## ०५ स देवानामीशाम्पर्यैत्स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/05_sa_devAnAmIshAmparyaitsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -331,6 +336,7 @@ He gained the lordship of the Gods. He became Lord.
 </details>
 </details>
 </div>
+
 ## ०६ स एकव्रात्योऽभवत्स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/06_sa_ekavrAtyo-bhavatsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -393,6 +399,7 @@ He became Chief Vratya. He held a bow, even that Bow of Indra.
 </details>
 </details>
 </div>
+
 ## ०७ नीलमस्योदरंलोहितं पृष्ठम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/07_nIlamasyodaraMlohitaM_pRShTham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -452,6 +459,7 @@ His belly is dark-blue, his back is red.
 </details>
 </details>
 </div>
+
 ## ०८ नीलेनैवाप्रियं भ्रातृव्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/08_nIlenaivApriyaM_bhrAtRvyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

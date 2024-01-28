@@ -35,6 +35,7 @@ A charm accompanying investiture with an amulet of shell
 </details>
 </details>
 </div>
+
 ## ०१ वाताज्जातो अन्तरिक्षाद्विद्युतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/01_vAtAjjAto_antarixAdvidyuto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ Child of the wind firmament, sprung from the lightning and the light, May this t
 </details>
 </details>
 </div>
+
 ## ०२ यो अग्रतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/02_yo_agrato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ Shell that wast born from out the sea, set at the head of things that shine! Wit
 </details>
 </details>
 </div>
+
 ## ०३ शङ्खेनामीवाममतिं शङ्खेनोत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/03_shankhenAmIvAmamatiM_shankhenota.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,6 +235,7 @@ We stay disease and indigence, and chase Sadanvas with the Shell. May the all-he
 </details>
 </details>
 </div>
+
 ## ०४ दिवि जातः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/04_divi_jAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -298,6 +302,7 @@ Born in the heaven, sprung from the sea, brought to us hither from the flood. Th
 </details>
 </details>
 </div>
+
 ## ०५ समुद्राज्जातो मणिर्वृत्राज्जातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/05_samudrAjjAto_maNirvRtrAjjAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -367,6 +372,7 @@ From ocean sprang the Amulet, from Vritra sprang the Lord of Day: May this prote
 </details>
 </details>
 </div>
+
 ## ०६ हिरण्यानामेकोऽसि सोमात्त्वमधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/06_hiraNyAnAmeko-si_somAttvamadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -439,6 +445,7 @@ Peerless 'mid golden ornaments art thou: from Soma wast thou born. Thou gleamest
 </details>
 </details>
 </div>
+
 ## ०७ देवानामस्थि कृशनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/07_devAnAmasthi_kRshanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

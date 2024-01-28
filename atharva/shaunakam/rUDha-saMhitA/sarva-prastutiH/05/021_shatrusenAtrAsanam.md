@@ -32,6 +32,7 @@ A hymn to the War-drum and various deities for victory
 </details>
 </details>
 </div>
+
 ## ०१ विहृदयं वैमनस्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/01_vihRdayaM_vaimanasyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Speak to our enemies, O Drum, discouragement and wild dismay. We bring upon our 
 </details>
 </details>
 </div>
+
 ## ०२ उद्वेपमाना मनसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/02_udvepamAnA_manasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,6 +160,7 @@ When sacrificial butter hath been offered, let our foemen flee. Through constern
 </details>
 </details>
 </div>
+
 ## ०३ वानस्पत्यः सम्भृत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/03_vAnaspatyaH_sambhRta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -224,6 +227,7 @@ Wrought out of wood, compact with straps of leather, dear to all the clan, Bedew
 </details>
 </details>
 </div>
+
 ## ०४ यथा मृगाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/04_yathA_mRgAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -286,6 +290,7 @@ As the wild creatures of the wood flee in their terror from a man, Even so do th
 </details>
 </details>
 </div>
+
 ## ०५ यथा वृकादजावयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/05_yathA_vRkAdajAvayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -348,6 +353,7 @@ As, when the wolf approaches, goats and sheep run sorely terrified, Even so do t
 </details>
 </details>
 </div>
+
 ## ०६ यथा श्येनात्पतत्रिणः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/06_yathA_shyenAtpatatriNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -415,6 +421,7 @@ As birds of air, day after day, fly in wild terror from the hawk, as from a roar
 </details>
 </details>
 </div>
+
 ## ०७ परामित्रान्दुन्दुभिना हरिणस्याजिनेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/07_parAmitrAndundubhinA_hariNasyAjinena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -475,6 +482,7 @@ May all the deities whose might controls the fortune of the fray Frighten away o
 </details>
 </details>
 </div>
+
 ## ०८ यैरिन्द्रः प्रक्रीडते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/08_yairindraH_prakrIDate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -536,6 +544,7 @@ Let those our enemies who go yonder in their battalions shake. In fear at shadow
 </details>
 </details>
 </div>
+
 ## ०९ ज्याघोषा दुन्दुभयोऽभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/09_jyAghoShA_dundubhayo-bhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -598,6 +607,7 @@ To all the quarters of the sky let clang of bowstrings and our Drums. Cry out to
 </details>
 </details>
 </div>
+
 ## १० आदित्य चक्षुरा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/10_Aditya_chaxurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -662,6 +672,7 @@ Aditya, take their sight away! Follow them close, ye motes of light. Let them cl
 </details>
 </details>
 </div>
+
 ## ११ यूयमुग्रा मरुतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/11_yUyamugrA_marutaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -736,6 +747,7 @@ Do ye, O mighty Maruts, sons of Prisni, crush down, with Indra for ally, our foe
 </details>
 </details>
 </div>
+
 ## १२ एता देवसेनाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/12_etA_devasenAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A prayer to Savitar for prosperity
 </details>
 </details>
 </div>
+
 ## ०१ अभि त्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/01_abhi_tyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ I praise this God, parent of heaven and earth, exceeding wiser possessed of real
 </details>
 </details>
 </div>
+
 ## ०२ उर्ध्वा यस्यामतिर्भा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/02_urdhvA_yasyAmatirbhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ Whose splendour is sublime, whose light shone brilliant in crea- tion, who, wise
 </details>
 </details>
 </div>
+
 ## ०३ सावीर्हि देव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/03_sAvIrhi_deva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -237,6 +240,7 @@ As thou, God! quickening, for our ancient father, sentest him height above and r
 </details>
 </details>
 </div>
+
 ## ०४ दमूना देवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/04_damUnA_devaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

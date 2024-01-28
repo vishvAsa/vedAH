@@ -32,6 +32,7 @@ An invitation to Indra
 </details>
 </details>
 </div>
+
 ## ०१ उत्तिष्ठताव पश्यतेन्द्रस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/072_indraH/01_uttiShThatAva_pashyatendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Rise up and look upon the share of Indra fixt by ritual use. Whether ye poured l
 </details>
 </details>
 </div>
+
 ## ०२ श्रातं हविरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/072_indraH/02_shrAtaM_haviro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ Libation is prepared. Come to us, Indra: the Sun hath travelled over half his jo
 </details>
 </details>
 </div>
+
 ## ०३ श्रातं मन्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/072_indraH/03_shrAtaM_manya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

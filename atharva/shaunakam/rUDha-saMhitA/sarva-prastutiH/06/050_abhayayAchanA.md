@@ -32,6 +32,7 @@ A charm for the destruction of vermin
 </details>
 </details>
 </div>
+
 ## ०१ हतं तर्दम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/01_hataM_tardam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -105,6 +106,7 @@ Destroy the rat, the mole, the boring beetle, cut off their heads and crush thei
 </details>
 </details>
 </div>
+
 ## ०२ तर्द है
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/02_tarda_hai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ Ho! boring beetle, ho! thou worm, ho! noxious grub and grasshopper! As a priest 
 </details>
 </details>
 </div>
+
 ## ०३ तर्दापते वघापते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/03_tardApate_vaghApate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

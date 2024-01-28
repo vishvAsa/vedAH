@@ -32,6 +32,7 @@ A glorification of Indra
 </details>
 </details>
 </div>
+
 ## ०१ तदिदास भुवनेषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/01_tadidAsa_bhuvaneShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ In all the worlds That was the best and highest whence sprang the Mighty One of 
 </details>
 </details>
 </div>
+
 ## ०२ वावृधानः शवसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/02_vAvRdhAnaH_shavasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ Grown mighty in his strength, with ample vigour, he as a foe strikes fear into t
 </details>
 </details>
 </div>
+
 ## ०३ त्वे क्रतुमपि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/03_tve_kratumapi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,6 +231,7 @@ All concentrate on thee their mental vigour what time these, twice or thrice, ar
 </details>
 </details>
 </div>
+
 ## ०४ यदि चिन्नु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/04_yadi_chinnu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -293,6 +297,7 @@ If verily in every war the sages joy and exult in thee who win- nest treasures, 
 </details>
 </details>
 </div>
+
 ## ०५ त्वया वयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/05_tvayA_vayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -356,6 +361,7 @@ Proudly we put our trust in thee in battles, when we behold great wealth the pri
 </details>
 </details>
 </div>
+
 ## ०६ नि तद्दधिषेऽवरे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/06_ni_taddadhiShe-vare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -422,6 +428,7 @@ Thou in that house, the highest or the lowest, which thy protec- tion guards, be
 </details>
 </details>
 </div>
+
 ## ०७ स्तुष्व वर्ष्मन्पुरुवर्त्मानम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/07_stuShva_varShmanpuruvartmAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -490,6 +497,7 @@ Praise in the height Him who hath many pathways, courageous, strongest, Aptya of
 </details>
 </details>
 </div>
+
 ## ०८ इमा ब्रह्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/08_imA_brahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -557,6 +565,7 @@ Brihaddiva, the foremost of light-winners, hath made these holy prayers, this st
 </details>
 </details>
 </div>
+
 ## ०९ एवा महान्बृहद्दिवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/09_evA_mahAnbRhaddivo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

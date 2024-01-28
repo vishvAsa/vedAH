@@ -32,6 +32,7 @@ A charm against noxious reptiles and insects
 </details>
 </details>
 </div>
+
 ## ०१ उत्सूर्यो दिव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/01_utsUryo_diva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Slaying the Rakshasas, the Sun mounts upward in the front of heaven, Aditya, fro
 </details>
 </details>
 </div>
+
 ## ०२ नि गावो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/02_ni_gAvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ The kine had settled in their pen, wild animals sought their lairs The wavelets 
 </details>
 </details>
 </div>
+
 ## ०३ आयुर्ददं विपश्चितम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/03_AyurdadaM_vipashchitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

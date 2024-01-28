@@ -35,6 +35,7 @@ A prayer to all Divinities and Sanctities for deliverance from distress
 </details>
 </details>
 </div>
+
 ## ०१ अग्निं ब्रूमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/01_agniM_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ We call on Agni, on the trees lords of the forest, herbs and. plants, Indra, Sur
 </details>
 </details>
 </div>
+
 ## ०२ ब्रूमो राजानम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/02_brUmo_rAjAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -157,6 +159,7 @@ We call on Vishnu, Bhaga, on Mitra and Varuna the King, Ansa Vivasvan we address
 </details>
 </details>
 </div>
+
 ## ०३ ब्रूमो देवम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/03_brUmo_devam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -219,6 +222,7 @@ We call on Savitar the God, on Pushan the establisher, Tvashtar the foremost we 
 </details>
 </details>
 </div>
+
 ## ०४ गन्धर्वाप्सरसो ब्रूमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/04_gandharvApsaraso_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -280,6 +284,7 @@ Gandharvas and Apsarases; the Asvins, Brahmanaspati, Aryaman, God, by name we ca
 </details>
 </details>
 </div>
+
 ## ०५ अहोरात्रे इदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/05_ahorAtre_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -342,6 +347,7 @@ This word of ours to Day and Night, and to the Sun and Moon we speak, All the Ad
 </details>
 </details>
 </div>
+
 ## ०६ वातं ब्रूमः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/06_vAtaM_brUmaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -402,6 +408,7 @@ Vata, Parjanya we address, the Quarters, and the Firmament, And all the Regions 
 </details>
 </details>
 </div>
+
 ## ०७ मुञ्चन्तु मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/07_munchantu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -464,6 +471,7 @@ From all that brings a curse may Day and Night and Dawn deliver me, May Soma fre
 </details>
 </details>
 </div>
+
 ## ०८ पार्थिवा दिव्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/08_pArthivA_divyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -528,6 +536,7 @@ All creatures both of heaven and earth, wild beasts and sylvan animals, And wing
 </details>
 </details>
 </div>
+
 ## ०९ भवाशर्वाविदं ब्रूमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/09_bhavAsharvAvidaM_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -592,6 +601,7 @@ Bhava and Sarva we address, and Rudra who is Lord of Beasts, Their arrows which 
 </details>
 </details>
 </div>
+
 ## १० दिवं ब्रूमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/10_divaM_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -656,6 +666,7 @@ We speak to Constellations, Heaven, to Earth, to Genii, and to Hills, To Seas, t
 </details>
 </details>
 </div>
+
 ## ११ सप्तर्षीन्वा इदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/11_saptarShInvA_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -719,6 +730,7 @@ Or the Seven Rishis we address, Waters divine, Prajapati, Fathers with Yama at t
 </details>
 </details>
 </div>
+
 ## १२ ये देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/12_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -781,6 +793,7 @@ Gods whose abode is in the heaven and those who dwell in middle air, And Mighty 
 </details>
 </details>
 </div>
+
 ## १३ आदित्या रुद्रा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/13_AdityA_rudrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -843,6 +856,7 @@ Adityas, Rudra, Vasus, Gods aloft in heaven, Atharvan's sons, The sages, sons of
 </details>
 </details>
 </div>
+
 ## १४ यज्ञं ब्रूमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/14_yajnaM_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -907,6 +921,7 @@ To sacrifice, to worshipper, hymns, songs, and healing charms, we speak, To prie
 </details>
 </details>
 </div>
+
 ## १५ पञ्च राज्यानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/15_pancha_rAjyAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -972,6 +987,7 @@ To the five kingdoms of the plants which Soma rules as Lord we speak. Darbha, he
 </details>
 </details>
 </div>
+
 ## १६ अरायान्ब्रूमो रक्षांसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/16_arAyAnbrUmo_raxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1038,6 +1054,7 @@ To demons and fierce fiends we speak, to Holy Genii, Fathers,. Snakes, And to th
 </details>
 </details>
 </div>
+
 ## १७ ऋतून्ब्रूम ऋतुपतीनार्तवानुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/17_RtUnbrUma_RtupatInArtavAnuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1104,6 +1121,7 @@ We speak to Seasons, Season-Lords, to years and sections of the year, To Months,
 </details>
 </details>
 </div>
+
 ## १८ एत देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/18_eta_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1166,6 +1184,7 @@ Come hither from the south, ye Gods, rise and come forward from the west. Gather
 </details>
 </details>
 </div>
+
 ## १९ विश्वान्देवानिदं ब्रूमः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/19_vishvAndevAnidaM_brUmaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1227,6 +1246,7 @@ This we address to all the Gods, faithful, maintainers of the Right, With all th
 </details>
 </details>
 </div>
+
 ## २० सर्वान्देवानिदं ब्रूमः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/20_sarvAndevAnidaM_brUmaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1291,6 +1311,7 @@ We speak to the collected Gods, faithful, maintainers of the Right. Present with
 </details>
 </details>
 </div>
+
 ## २१ भूतं ब्रूमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/21_bhUtaM_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1355,6 +1376,7 @@ The spirit, yea, the spirits' Lord, ruler of spirits, we address. Together let a
 </details>
 </details>
 </div>
+
 ## २२ या देवीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/22_yA_devIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1419,6 +1441,7 @@ The five Sky regions, Goddesses, and the twelve Seasons which are Gods. The teet
 </details>
 </details>
 </div>
+
 ## २३ यन्मातली रथक्रीतममृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/23_yanmAtalI_rathakrItamamRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

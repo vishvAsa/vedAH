@@ -32,6 +32,7 @@ A prayer to an amulet for health and strength
 </details>
 </details>
 </div>
+
 ## ०१ ओजोऽस्योजो मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/01_ojo-syojo_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Power art thou, give me power. All hail!
 </details>
 </details>
 </div>
+
 ## ०२ सहो ऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/02_saho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -153,6 +155,7 @@ Might art thou, give me might. All hail!
 </details>
 </details>
 </div>
+
 ## ०३ बलमसि बलम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/03_balamasi_balam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -211,6 +214,7 @@ Strength art thou, give me strength. All hail!
 </details>
 </details>
 </div>
+
 ## ०४ आयुरस्यायुर्मे दाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -269,6 +273,7 @@ Life art thou, give me life. All hail!
 </details>
 </details>
 </div>
+
 ## ०५ श्रोत्रमसि श्रोत्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/05_shrotramasi_shrotram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -328,6 +333,7 @@ Ear art thou, give me hearing! Hail!
 </details>
 </details>
 </div>
+
 ## ०६ चक्षुरसि चक्षुर्मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -385,6 +391,7 @@ Eye art thou, give me eyes. All hail!
 </details>
 </details>
 </div>
+
 ## ०७ परिपाणमसि परिपाणम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/07_paripANamasi_paripANam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

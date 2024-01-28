@@ -51,6 +51,7 @@ A glorification of hospitable reception of guests
 </details>
 </details>
 </div>
+
 ## ०१ यो विद्याद्ब्रह्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/01_yo_vidyAdbrahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -113,6 +114,7 @@ Whoso will know Prayer with immediate knowledge, whose mem- bers are the stuff, 
 </details>
 </details>
 </div>
+
 ## ०२ सामानि यस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/02_sAmAni_yasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -177,6 +179,7 @@ Whose hairs are psalms, whose heart is called the Yajus, whose coverlet is veril
 </details>
 </details>
 </div>
+
 ## ०३ यद्वा अतिथिपतिरतिथीन्प्रतिपश्यति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/03_yadvA_atithipatiratithInpratipashyati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -238,6 +241,7 @@ Verily when a host looks at his guests he looks at the place of sacrifice to the
 </details>
 </details>
 </div>
+
 ## ०४ यदभिवदति दीक्षामुपैति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/04_yadabhivadati_dIxAmupaiti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -298,6 +302,7 @@ When he salutes them reverently he undergoes preparation for a religious ceremon
 </details>
 </details>
 </div>
+
 ## ०५ या एव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/05_yA_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -357,6 +362,7 @@ The water that is solemnly brought at a sacrifice is this same water.
 </details>
 </details>
 </div>
+
 ## ०६ यत्तर्पणमाहरन्ति य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/06_yattarpaNamAharanti_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -416,6 +422,7 @@ The libation which they bring; the sacrificial victim dedicated to Agni and Soma
 </details>
 </details>
 </div>
+
 ## ०७ यदावसथान्कल्पयन्ति सदोहविर्धानान्येव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/07_yadAvasathAnkalpayanti_sadohavirdhAnAnyeva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -474,6 +481,7 @@ When they arrange dwelling-rooms they arrange the sacred chamber and the shed fo
 </details>
 </details>
 </div>
+
 ## ०८ यदुपस्तृणन्ति बर्हिरेव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/08_yadupastRNanti_barhireva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -538,6 +546,7 @@ What they spread upon the floor is just Sacrificial Grass.
 </details>
 </details>
 </div>
+
 ## ०९ यदुपरिशयनमाहरन्ति स्वर्गमेव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/09_yaduparishayanamAharanti_svargameva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -599,6 +608,7 @@ With the couch that the men bring, he wins for himself the world of Svarga.
 </details>
 </details>
 </div>
+
 ## १० यत्कशिपूपबर्हणमाहरन्ति परिधय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/10_yatkashipUpabarhaNamAharanti_paridhaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -661,6 +671,7 @@ The pillow-coverings that they bring are the green sticks that surround the sacr
 </details>
 </details>
 </div>
+
 ## ११ यदाञ्जनाभ्यञ्जनमाहरन्त्याज्यमेव तत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/11_yadAnjanAbhyanjanamAharantyAjyameva_tat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -723,6 +734,7 @@ The ointment that they bring for injunction is just clarified liquid butter.
 </details>
 </details>
 </div>
+
 ## १२ यत्पुरा परिवेषात्खादमाहरन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/12_yatpurA_pariveShAtkhAdamAharanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -783,6 +795,7 @@ The food they bring before the general distribution represents the two sacrifici
 </details>
 </details>
 </div>
+
 ## १३ यदशनकृतं ह्वयन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/13_yadashanakRtaM_hvayanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -842,6 +855,7 @@ When they call the man who prepares food they summon the preparer of oblation.
 </details>
 </details>
 </div>
+
 ## १४ ये व्रीहयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/14_ye_vrIhayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -904,6 +918,7 @@ The grains of rice and barley that are selected are just filaments of the Soma p
 </details>
 </details>
 </div>
+
 ## १५ यान्युलूखलमुसलानि ग्रावाण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/15_yAnyulUkhalamusalAni_grAvANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -963,6 +978,7 @@ The pestle and mortar are really the stones of the Soma press.
 </details>
 </details>
 </div>
+
 ## १६ शूर्पं पवित्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/16_shUrpaM_pavitram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1026,6 +1042,7 @@ The winnowing-basket is the filter, the chaff the Soma dregs, the water, the pre
 </details>
 </details>
 </div>
+
 ## १७ स्रुग्दर्विर्नेक्षणमायवनं द्रोणकलशाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/17_srugdarvirnexaNamAyavanaM_droNakalashAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1114,6 +1131,7 @@ Spoon, ladle, fork, stirring-prong are the wooden Soma tubs; the earthen cooking
 </details>
 </details>
 </div>
+
 ## १८ यजमानब्राह्मणं वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/18_yajamAnabrAhmaNaM_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1184,6 +1202,7 @@ Or the host acts in this way to a Yajamana's Brahman: when he looks at the furni
 </details>
 </details>
 </div>
+
 ## १९ यदाह भूय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/19_yadAha_bhUya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1246,6 +1265,7 @@ When he says, Bring out more, he lengthens his life thereby.
 </details>
 </details>
 </div>
+
 ## २० उप हरति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/20_upa_harati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1303,6 +1323,7 @@ He brings oblations: he makes the men sit down.
 </details>
 </details>
 </div>
+
 ## २१ तेषामासन्नानामतिथिरात्मञ्जुहोति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/21_teShAmAsannAnAmatithirAtmanjuhoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1360,6 +1381,7 @@ As the guest of the seated company he himself offers up sacrifice.
 </details>
 </details>
 </div>
+
 ## २२ स्रुचा हस्तेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/22_sruchA_hastena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1421,6 +1443,7 @@ With ladle, with hand, in life, at the sacrificial post, with cry of Ladle! with
 </details>
 </details>
 </div>
+
 ## २३ एते वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/23_ete_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1482,6 +1505,7 @@ Now these guests, as priests beloved or not beloved, bring one to the world of S
 </details>
 </details>
 </div>
+
 ## २४ स य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/24_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1550,6 +1574,7 @@ He who hath this knowledge should not eat hating, should not eat the food of one
 </details>
 </details>
 </div>
+
 ## २५ सर्वो वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/25_sarvo_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1608,6 +1633,7 @@ This man whose food they eat hath all his wickedness blotted out.
 </details>
 </details>
 </div>
+
 ## २६ सर्वो वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/26_sarvo_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1672,6 +1698,7 @@ All that man's sin whose food they do not eat remains unblot- ted out.
 </details>
 </details>
 </div>
+
 ## २७ सर्वदा वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/27_sarvadA_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1734,6 +1761,7 @@ The man who supplies food hath always pressing stones adjusted, a wet Soma filte
 </details>
 </details>
 </div>
+
 ## २८ प्राजापत्यो वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/28_prAjApatyo_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1791,6 +1819,7 @@ The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.
 </details>
 </details>
 </div>
+
 ## २९ प्रजापतेर्वा एष
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/29_prajApatervA_eSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1849,6 +1878,7 @@ The man who offers food follows the steps of Prajapati.
 </details>
 </details>
 </div>
+
 ## ३० योऽतिथीनां स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/30_yo-tithInAM_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1917,6 +1947,7 @@ The fire of the guests is the Ahavaniya, the fire in the dwelling is the Garhapa
 </details>
 </details>
 </div>
+
 ## ३१ इष्टं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/31_iShTaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1979,6 +2010,7 @@ Now that man who eats before the guest eats up the sacrifice and the merit of th
 </details>
 </details>
 </div>
+
 ## ३२ पयश्च वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/32_payashcha_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2036,6 +2068,7 @@ He devours the milk and the sap:
 </details>
 </details>
 </div>
+
 ## ३३ ऊर्जां च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/33_UrjAM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2095,6 +2128,7 @@ And the vigour and prosperity.
 </details>
 </details>
 </div>
+
 ## ३४ प्रजां च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/34_prajAM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2153,6 +2187,7 @@ And the progeny and the cattle:
 </details>
 </details>
 </div>
+
 ## ३५ कीर्तिं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/35_kIrtiM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2210,6 +2245,7 @@ And the fame and reputation.
 </details>
 </details>
 </div>
+
 ## ३६ श्रियं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/36_shriyaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2269,6 +2305,7 @@ The man who eats before the guest eats up the glory and the understanding of the
 </details>
 </details>
 </div>
+
 ## ३७ एष वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/37_eSha_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2330,6 +2367,7 @@ The man should not eat before the guest who is a Brahman versed in holy lore.
 </details>
 </details>
 </div>
+
 ## ३८ अशितावत्यतिथावश्नीयाद्यज्ञस्य सात्मत्वाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/38_ashitAvatyatithAvashnIyAdyajnasya_sAtmatvAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2396,6 +2434,7 @@ When the guest hath eaten he should eat. This is the rule for the animation of t
 </details>
 </details>
 </div>
+
 ## ३९ एतद्वा उ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/39_etadvA_u.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2464,6 +2503,7 @@ Now the sweetest portion, the produce of the cow, milk, or flesh, that verily he
 </details>
 </details>
 </div>
+
 ## ४० स य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/40_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2542,6 +2582,7 @@ The man who having this knowledge pours out milk and offers it wins for himself 
 </details>
 </details>
 </div>
+
 ## ४१ स य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/41_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2611,6 +2652,7 @@ The man who having this knowledge pours out clarified butter and offers it wins 
 </details>
 </details>
 </div>
+
 ## ४२ स य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/42_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2681,6 +2723,7 @@ He who pours out mead and offers it wins for himself thereby as much as he gains
 </details>
 </details>
 </div>
+
 ## ४३ स य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/43_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2749,6 +2792,7 @@ He who having this knowledge besprinkles flesh and offers it wins for himself th
 </details>
 </details>
 </div>
+
 ## ४४ स य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/44_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2830,6 +2874,7 @@ The man who having this knowledge pours out water and offers it obtains a restin
 </details>
 </details>
 </div>
+
 ## ४५ तस्मा उषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/45_tasmA_uShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2920,6 +2965,7 @@ For him Dawn murmurs, and Savitar sings the prelude; Brihas- pati chants with vi
 </details>
 </details>
 </div>
+
 ## ४६ तस्मा उद्यन्त्सूर्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/46_tasmA_udyantsUryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2992,6 +3038,7 @@ For him the rising Sun murmurs, and Early Morning sings the prelude; Noon chants
 </details>
 </details>
 </div>
+
 ## ४७ तस्मा अभ्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/47_tasmA_abhro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3070,6 +3117,7 @@ For him the Rain-cloud murmurs when present, sings the pre- lude when thundering
 </details>
 </details>
 </div>
+
 ## ४८ उप हरति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/48_upa_harati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3155,6 +3203,7 @@ He looks at the guests, he utters a gentle sound; he speaks, he signs the prelud
 </details>
 </details>
 </div>
+
 ## ४९ यत्क्षत्तारं ह्वयत्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/49_yatxattAraM_hvayatyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3216,6 +3265,7 @@ When he summons the door-keeper he gives instruction.
 </details>
 </details>
 </div>
+
 ## ५० यत्प्रतिशृणोति प्रत्याश्रावयत्येव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/50_yatpratishRNoti_pratyAshrAvayatyeva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3277,6 +3327,7 @@ He (the door-keeper) pronounces the sacrificial formula in his answer to what he
 </details>
 </details>
 </div>
+
 ## ५१ यत्परिवेष्टारः पात्रहस्ताः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/51_yatpariveShTAraH_pAtrahastAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3338,6 +3389,7 @@ When the attendants with vessels in their hands, foremost and hindmost, come in,
 </details>
 </details>
 </div>
+
 ## ५२ तेषां न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/52_teShAM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3400,6 +3452,7 @@ Not one of them is incompetent to sacrifice.
 </details>
 </details>
 </div>
+
 ## ५३ यद्वा अतिथिपतिरतिथीन्परिविष्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/53_yadvA_atithipatiratithInpariviShya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3460,6 +3513,7 @@ Or if the host, having offered food to his guest, goes up to the house, he virtu
 </details>
 </details>
 </div>
+
 ## ५४ यत्सभागयति दक्षिणाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/54_yatsabhAgayati_daxiNAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3520,6 +3574,7 @@ When he distributes food he distributes priestly fees; what he performs he asks 
 </details>
 </details>
 </div>
+
 ## ५५ स उपहूतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/55_sa_upahUtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3594,6 +3649,7 @@ He having been invited on earth, regales, invited in that, which wears all vario
 </details>
 </details>
 </div>
+
 ## ५६ स उपहूतोऽन्तरिक्षे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/56_sa_upahUto-ntarixe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3653,6 +3709,7 @@ He, having been invited in air, regales, invited, in that which wears all variou
 </details>
 </details>
 </div>
+
 ## ५७ स उपहूतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/57_sa_upahUto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3712,6 +3769,7 @@ He having been invited in the sky, regales, invited, in that which wears all var
 </details>
 </details>
 </div>
+
 ## ५८ स उपहूतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/58_sa_upahUto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3772,6 +3830,7 @@ He, having been invited among the gods, regales, invited in that which wears all
 </details>
 </details>
 </div>
+
 ## ५९ स उपहूतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/59_sa_upahUto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3826,6 +3885,7 @@ He, having been invited in the worlds, regales, invited, in that which wears all
 </details>
 </details>
 </div>
+
 ## ६० स उपहूत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/60_sa_upahUta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3883,6 +3943,7 @@ He, having been invited hath been invited.
 </details>
 </details>
 </div>
+
 ## ६१ आप्नोतीमं लोकमाप्नोत्यमुम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/61_ApnotImaM_lokamApnotyamum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3944,6 +4005,7 @@ He gains this world and the world yonder.
 </details>
 </details>
 </div>
+
 ## ६२ ज्योतिष्मतो लोकाञ्जयति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/62_jyotiShmato_lokAnjayati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

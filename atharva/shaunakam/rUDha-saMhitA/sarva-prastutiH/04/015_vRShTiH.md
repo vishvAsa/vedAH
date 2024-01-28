@@ -32,6 +32,7 @@ A charm to hasten the coming of the rains
 </details>
 </details>
 </div>
+
 ## ०१ समुत्पतन्तु प्रदिशो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/01_samutpatantu_pradisho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Let all the misty regions fly together, let all the rain-clouds sped by wind, as
 </details>
 </details>
 </div>
+
 ## ०२ समीक्षयन्तु तविषाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/02_samIxayantu_taviShAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,6 +172,7 @@ Let them show forth, the strong, the bounteous Maruts: let plants and shrubs be 
 </details>
 </details>
 </div>
+
 ## ०३ समीक्षयस्व गायतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/03_samIxayasva_gAyato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -238,6 +241,7 @@ Cause us who sing to see the gathering vapours: out burst in many a place the ru
 </details>
 </details>
 </div>
+
 ## ०४ गणास्त्वोप गायन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/04_gaNAstvopa_gAyantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -305,6 +309,7 @@ Apart, Parjanya! let the troops of Maruts, roaring, swell the song. Let pouring 
 </details>
 </details>
 </div>
+
 ## ०५ उदीरयत मरुतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/05_udIrayata_marutaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -379,6 +384,7 @@ Up from the sea lift your dread might, ye Maruts: as light and splendour, send t
 </details>
 </details>
 </div>
+
 ## ०६ अभि क्रन्द
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/06_abhi_kranda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -451,6 +457,7 @@ Roar, thunder, set the sea in agitation, bedew the ground with thy sweet rain, P
 </details>
 </details>
 </div>
+
 ## ०७ सं वोऽवन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/07_saM_vo-vantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -519,6 +526,7 @@ Let the boon Maruts, let the springs and coiling serpents tend! you well. Urged 
 </details>
 </details>
 </div>
+
 ## ०८ आशामाशां वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/08_AshAmAshAM_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -584,6 +592,7 @@ Let lightning flash on every side: from all the regions blow the winds! Urged by
 </details>
 </details>
 </div>
+
 ## ०९ आपो विद्युदभ्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/09_Apo_vidyudabhram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -652,6 +661,7 @@ May waters, lightning, cloud, and rain, boon springs and serpents tend you well.
 </details>
 </details>
 </div>
+
 ## १० अपामग्निस्तनूभिः संविदानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/10_apAmagnistanUbhiH_saMvidAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -715,6 +725,7 @@ May he who hath become the plants' high regent, suiting our bodies, Agni of the 
 </details>
 </details>
 </div>
+
 ## ११ प्रजापतिः सलिलादाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/11_prajApatiH_salilAdAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -789,6 +800,7 @@ Sending up waters from the flood and ocean Prajapati move the sea to agitation! 
 </details>
 </details>
 </div>
+
 ## १२ अपो निषिञ्चन्नसुरः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/12_apo_niShinchannasuraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -869,6 +881,7 @@ Our father, Lord divine pouring the torrents. Let the streams breathe, O Varuna,
 </details>
 </details>
 </div>
+
 ## १३ संवत्सरं शशयाना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/13_saMvatsaraM_shashayAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -935,6 +948,7 @@ They who lay quiet for a year, the Brahmans who fulfil their vows. The frogs, ha
 </details>
 </details>
 </div>
+
 ## १४ उपप्रवद मण्डूकि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/14_upapravada_maNDUki.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1002,6 +1016,7 @@ Speak forth a welcome, female frog! Do thou O frog, accost the rain. Stretch thy
 </details>
 </details>
 </div>
+
 ## १५ खण्वखा३इ खैमखा३इ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/15_khaNvakhA3i_khaimakhA3i.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1091,6 +1106,7 @@ Khanvakha, ho! Khaimakha, ho! thou in the middle, Taduri! Fathers, enjoy the rai
 </details>
 </details>
 </div>
+
 ## १६ महान्तं कोशमुदचाभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/16_mahAntaM_koshamudachAbhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

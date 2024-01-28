@@ -32,6 +32,7 @@ A charm for the destruction of enemies, continued from 28
 </details>
 </details>
 </div>
+
 ## ०१ निक्ष दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/01_nixa_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Pierce thou my rivals, Darbha, pierce the men who fain would fight with me. Pier
 </details>
 </details>
 </div>
+
 ## ०२ तृन्द्धि दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/02_tRnddhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -155,6 +157,7 @@ Split thou my rivals, Darbha, etc. (as in 1, with 'split' for 'pierce' throughou
 </details>
 </details>
 </div>
+
 ## ०३ रुन्द्धि दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/03_runddhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -224,6 +227,7 @@ Check thou, etc.
 </details>
 </details>
 </div>
+
 ## ०४ मृण दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/04_mRNa_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -283,6 +287,7 @@ Crush thou, etc.
 </details>
 </details>
 </div>
+
 ## ०५ मन्थ दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/05_mantha_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -344,6 +349,7 @@ Shake thou, etc.
 </details>
 </details>
 </div>
+
 ## ०६ पिण्ड्ढि दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/06_piNDDhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -404,6 +410,7 @@ Bruise thou, etc.
 </details>
 </details>
 </div>
+
 ## ०७ ओष दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/07_oSha_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -464,6 +471,7 @@ Burn thou, etc.
 </details>
 </details>
 </div>
+
 ## ०८ दह दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/08_daha_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -524,6 +532,7 @@ Consume, etc.
 </details>
 </details>
 </div>
+
 ## ०९ जहि दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/09_jahi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

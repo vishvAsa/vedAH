@@ -32,6 +32,7 @@ A hymn to Night for protection
 </details>
 </details>
 </div>
+
 ## ०१ अथो यानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/01_atho_yAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -119,6 +120,7 @@ Then all that we accumulate, all that the treasure-chest contains,. All this do 
 </details>
 </details>
 </div>
+
 ## ०२ रात्रि मातरुषसे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/02_rAtri_mAtaruShase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -184,6 +186,7 @@ Entrust thou us to Dawn, O Mother Night. May Dawn entrust us to the Day, and Day
 </details>
 </details>
 </div>
+
 ## ०३ यत्किं चेदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/03_yatkiM_chedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -262,6 +265,7 @@ Whatever flying thing be here, whatever thing that creeps and. crawls. Whatever 
 </details>
 </details>
 </div>
+
 ## ०४ सा पश्चात्पाहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/04_sA_pashchAtpAhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -322,6 +326,7 @@ So guard thou us from west and east, protect us from the north and south. O sple
 </details>
 </details>
 </div>
+
 ## ०५ ये रात्रिमनुतिष्ठन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -396,6 +401,7 @@ They who are followers of Night, and they who watch o'er living things. They who
 </details>
 </details>
 </div>
+
 ## ०६ वेद वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/06_veda_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

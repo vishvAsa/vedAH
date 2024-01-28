@@ -32,6 +32,7 @@ A counter-charm against the incantations of an enemy
 </details>
 </details>
 </div>
+
 ## ०१ यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/01_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ The spell that they have cast for thee on unbaked dish or ming- led meal, The wi
 </details>
 </details>
 </div>
+
 ## ०२ यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/02_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,6 +160,7 @@ The spell that they have cast for thee on jungle-cock, goat, horned ram, The wit
 </details>
 </details>
 </div>
+
 ## ०३ यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/03_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -219,6 +222,7 @@ The spell that they have cast upon thy beast that hath uncloven hooves, The ass 
 </details>
 </details>
 </div>
+
 ## ०४ यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/04_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -281,6 +285,7 @@ The secret spell upon thy plants Amula or Narachi, spell That they have cast upo
 </details>
 </details>
 </div>
+
 ## ०५ यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/05_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -342,6 +347,7 @@ The spell that wicked men have cast on thine original household- fire, And on th
 </details>
 </details>
 </div>
+
 ## ०६ यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/06_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -403,6 +409,7 @@ The spell that they have cast upon thy public room thy gambl- ing-board, Spell t
 </details>
 </details>
 </div>
+
 ## ०७ यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/07_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -466,6 +473,7 @@ The spell that they have cast upon thine army or thy shafts and arms, Spell they
 </details>
 </details>
 </div>
+
 ## ०८ यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/08_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -530,6 +538,7 @@ Charm they have laid within thy well or buried in the burning- ground, Charm the
 </details>
 </details>
 </div>
+
 ## ०९ यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/09_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -594,6 +603,7 @@ The spell that they have wrought for thee in flickering fire of human bones,-- M
 </details>
 </details>
 </div>
+
 ## १० अपथेना जभारैणाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/10_apathenA_jabhAraiNAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -662,6 +672,7 @@ He brought this by no proper path, by the right path we drive it back. The fool 
 </details>
 </details>
 </div>
+
 ## ११ यश्चकार न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/11_yashchakAra_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -727,6 +738,7 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. Unluc
 </details>
 </details>
 </div>
+
 ## १२ कृत्याकृतं वलगिनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/12_kRtyAkRtaM_valaginam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

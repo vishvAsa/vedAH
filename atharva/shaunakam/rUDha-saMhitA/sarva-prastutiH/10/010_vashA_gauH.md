@@ -34,6 +34,7 @@ A glorification of the sacred Cow as representing the radiant heavens
 </details>
 </details>
 </div>
+
 ## ०१ नमस्ते जायमानायै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/01_namaste_jAyamAnAyai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Worship to thee springing to life, and worship unto thee when born! Worship, O C
 </details>
 </details>
 </div>
+
 ## ०२ यो विद्यात्सप्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/02_yo_vidyAtsapta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ The man who knows the Seven Floods, who knows the seven distances, Who knows the
 </details>
 </details>
 </div>
+
 ## ०३ वेदाहं सप्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/03_vedAhaM_sapta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -221,6 +224,7 @@ I know the Seven Water-floods, I know the seven distances, I know the head of sa
 </details>
 </details>
 </div>
+
 ## ०४ यया द्यौर्यया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/04_yayA_dyauryayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -284,6 +288,7 @@ Hitherward we invite with prayer the Cow who pours a thou- sand streams, By whom
 </details>
 </details>
 </div>
+
 ## ०५ शतं कंसाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/05_shataM_kaMsAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -347,6 +352,7 @@ Upon her back there are a hundred keepers, a hundred metal bowls, a hundred milk
 </details>
 </details>
 </div>
+
 ## ०६ यज्ञपदीराक्षीरा स्वधाप्राणा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/06_yajnapadIrAxIrA_svadhAprANA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -411,6 +417,7 @@ Her foot is sacrifice, her milk libation, Svadha her breath, Mahi- luka the migh
 </details>
 </details>
 </div>
+
 ## ०७ अनु त्वाग्निः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/07_anu_tvAgniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -471,6 +478,7 @@ Agni hath entered into thee; Soma, O Cow, hath entered thee. Thine udder is Parj
 </details>
 </details>
 </div>
+
 ## ०८ अपस्त्वं धुक्षे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/08_apastvaM_dhuxe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -534,6 +542,7 @@ Thou pourest out the Waters first, and corn-lands afterward, O Cow. Thirdly thou
 </details>
 </details>
 </div>
+
 ## ०९ यदादित्यैर्हूयमानोपातिष्ठ ऋतावरि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/09_yadAdityairhUyamAnopAtiShTha_RtAvari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -597,6 +606,7 @@ When, Holy One, thou camest nigh invited by the Adityas' call, Indra gave thee t
 </details>
 </details>
 </div>
+
 ## १० यदनूचीन्द्रमैरात्त्वा ऋषभोह्वयत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/10_yadanUchIndramairAttvA_RShabhohvayat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -663,6 +673,7 @@ The Bull, what time thou followedst the way of Indra, summon- ed thee: Thence th
 </details>
 </details>
 </div>
+
 ## ११ यत्ते क्रुद्धो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/11_yatte_kruddho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -724,6 +735,7 @@ O Cow, the milk which in his wrath the Lord of Riches took from thee, That same 
 </details>
 </details>
 </div>
+
 ## १२ त्रिषु पात्रेषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/12_triShu_pAtreShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -785,6 +797,7 @@ The Cow Celestial received that Soma in three vessels, where. Atharvan, consecra
 </details>
 </details>
 </div>
+
 ## १३ सं हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/13_saM_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -849,6 +862,7 @@ Come hither with the Soma, come with every footed thing; the Cow With Kalis and 
 </details>
 </details>
 </div>
+
 ## १४ सं हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/14_saM_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -911,6 +925,7 @@ Come hither with the Wind, yea, come with every creature borne on wings. Laden w
 </details>
 </details>
 </div>
+
 ## १५ सं हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/15_saM_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -972,6 +987,7 @@ Come with the Sun, come hitherward with every creature that hath eyes, Bearing a
 </details>
 </details>
 </div>
+
 ## १६ अभीवृता हिरण्येन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/16_abhIvRtA_hiraNyena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1033,6 +1049,7 @@ When, covered round about with gold, thou stoodest there, O Holy One, The ocean 
 </details>
 </details>
 </div>
+
 ## १७ तद्भद्राः समगच्छन्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/17_tadbhadrAH_samagachChanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1095,6 +1112,7 @@ Then came and met the Blessed Ones, Deshtri, the Cow, and Svadha, where Atharvan
 </details>
 </details>
 </div>
+
 ## १८ वशा माता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/18_vashA_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1158,6 +1176,7 @@ The Kshatriya's mother is the Cow, thy mother, Svadha! is the Cow. Sacrifice is 
 </details>
 </details>
 </div>
+
 ## १९ ऊर्ध्वो बिन्दुरुदचरद्ब्रह्मणः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/19_Urdhvo_bindurudacharadbrahmaNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1219,6 +1238,7 @@ From Brahma's summit there went forth a drop that mounted up on high: From that 
 </details>
 </details>
 </div>
+
 ## २० आस्नस्ते गाथा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/20_Asnaste_gAthA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1281,6 +1301,7 @@ Forth from thy mouth the Gathas came, from thy neck's nape sprang strength, O Co
 </details>
 </details>
 </div>
+
 ## २१ ईर्माभ्यामयनं जातम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/21_IrmAbhyAmayanaM_jAtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1344,6 +1365,7 @@ From thy fore-quarters and thy thighs motion was generated, Cow! Food from thine
 </details>
 </details>
 </div>
+
 ## २२ यदुदरं वरुणस्यानुप्राविशथा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/22_yadudaraM_varuNasyAnuprAvishathA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1405,6 +1427,7 @@ When into Varuna's belly thou hadst found a passage for thy- self, The Brahman c
 </details>
 </details>
 </div>
+
 ## २३ सर्वे गर्भादवेपन्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/23_sarve_garbhAdavepanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1477,6 +1500,7 @@ All trembled at the babe that came from him who brings not to the birth. He hath
 </details>
 </details>
 </div>
+
 ## २४ युध एकः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/24_yudha_ekaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1540,6 +1564,7 @@ He only joineth battle, yea, he who alone controlleth her. Now sacrifices have b
 </details>
 </details>
 </div>
+
 ## २५ वशा यज्ञम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/25_vashA_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1602,6 +1627,7 @@ The Cow hath welcomed sacrifice: the Cow hath held the Sun in place. Together wi
 </details>
 </details>
 </div>
+
 ## २६ वशामेवामृतमाहुर्वशां मृत्युमुपासते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/26_vashAmevAmRtamAhurvashAM_mRtyumupAsate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1665,6 +1691,7 @@ They call the Cow immortal life, pay homage to the Cow as Death. She hath become
 </details>
 </details>
 </div>
+
 ## २७ य एवम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/27_ya_evam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1725,6 +1752,7 @@ The man who hath this knowledge may receive the Cow with. welcoming. So for the 
 </details>
 </details>
 </div>
+
 ## २८ तिस्रो जिह्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/28_tisro_jihvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1788,6 +1816,7 @@ Within the mouth of Varuna three tongues are glittering with light. That which s
 </details>
 </details>
 </div>
+
 ## २९ चतुर्धा रेतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/29_chaturdhA_reto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1848,6 +1877,7 @@ Four-parted was the Cow's prolific humour. One-fourth is Water, one-fourth life 
 </details>
 </details>
 </div>
+
 ## ३० वशा द्यौर्वशा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/30_vashA_dyaurvashA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1909,6 +1939,7 @@ The Cow is Heaven, the Cow is Earth, the Cow is Vishnu, Lord of Life. e The Sadh
 </details>
 </details>
 </div>
+
 ## ३१ वशाया दुग्धम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/31_vashAyA_dugdham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1973,6 +2004,7 @@ When these, Sadhyas and Vasus, have drunk the out-pourings of the Cow, They in t
 </details>
 </details>
 </div>
+
 ## ३२ सोममेनामेके दुह्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/32_somamenAmeke_duhre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2037,6 +2069,7 @@ For Soma some have milked her: some worship the fatness she hath poured. They wh
 </details>
 </details>
 </div>
+
 ## ३३ ब्राह्मणेभ्यो वशाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/33_brAhmaNebhyo_vashAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2101,6 +2134,7 @@ He who hath given a Cow unto the Brahmans winneth all the worlds. For Right is f
 </details>
 </details>
 </div>
+
 ## ३४ वशां देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/010_vashA_gauH/34_vashAM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

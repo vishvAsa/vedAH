@@ -28,6 +28,7 @@ A benediction on a newly built house
 </details>
 </details>
 </div>
+
 ## ०१ इहैव ध्रुवाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/012_shAlAnirmANam/01_ihaiva_dhruvAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ Here, even here I fix my firm-set dwelling; flowing with fatness may it stand in
 </details>
 </details>
 </div>
+
 ## ०२ इहैव ध्रुवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/012_shAlAnirmANam/02_ihaiva_dhruvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ Even here, O House, stand thou on firm foundation, wealthy in horses, rich in ki
 </details>
 </details>
 </div>
+
 ## ०३ धरुण्यसि शाले
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/012_shAlAnirmANam/03_dharuNyasi_shAle.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -243,6 +246,7 @@ A spacious store, O House, art thou, full of clean corn and lofty-roofed. Let th
 </details>
 </details>
 </div>
+
 ## ०४ इमां शालाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/012_shAlAnirmANam/04_imAM_shAlAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -322,6 +326,7 @@ This House may Savitar and Vayu stablish, Brihaspati who knows the way, and Indr
 </details>
 </details>
 </div>
+
 ## ०५ मानस्य पत्नि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/012_shAlAnirmANam/05_mAnasya_patni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -395,6 +400,7 @@ with goodly men about us.
 </details>
 </details>
 </div>
+
 ## ०६ ऋतेन स्थूणामधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/012_shAlAnirmANam/06_Rtena_sthUNAmadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -470,6 +476,7 @@ all our men, a hundred autumns.
 </details>
 </details>
 </div>
+
 ## ०७ एमां कुमारस्तरुण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/012_shAlAnirmANam/07_emAM_kumArastaruNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -553,6 +560,7 @@ milk.
 </details>
 </details>
 </div>
+
 ## ०८ पूर्णं नारि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/012_shAlAnirmANam/08_pUrNaM_nAri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -631,6 +639,7 @@ Bring hitherward, O dame, the well-filled pitcher, the stream of molten butter b
 </details>
 </details>
 </div>
+
 ## ०९ इमा आपः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/012_shAlAnirmANam/09_imA_ApaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

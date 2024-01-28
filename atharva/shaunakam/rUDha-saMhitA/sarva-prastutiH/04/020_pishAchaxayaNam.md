@@ -32,6 +32,7 @@ A charm for the acquisition of superhuman powers of sight
 </details>
 </details>
 </div>
+
 ## ०१ आ पश्यति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/01_A_pashyati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ It sees in front, it sees behind, it sees afar away, it sees The sky, the firmam
 </details>
 </details>
 </div>
+
 ## ०२ तिस्रो दिवस्तिस्रः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/02_tisro_divastisraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ Through thee, O godlike Plant, may I behold all creatures that exist, Three seve
 </details>
 </details>
 </div>
+
 ## ०३ दिव्यस्य सुपर्णस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/03_divyasya_suparNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,6 +231,7 @@ The pupil, verily, art thou of that celestial Engle's eye. On earth hast thou al
 </details>
 </details>
 </div>
+
 ## ०४ तां मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/04_tAM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -292,6 +296,7 @@ The God who hath a thousand eyes give me this Plant in my right hand! I look on 
 </details>
 </details>
 </div>
+
 ## ०५ आविष्कृणुष्व रूपाणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/05_AviShkRNuShva_rUpANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -356,6 +361,7 @@ Make manifest the forms of things; hide not their essences from sight. And, thou
 </details>
 </details>
 </div>
+
 ## ०६ दर्शय मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/06_darshaya_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -418,6 +424,7 @@ Make me see Yatudhanas, make thou Yatudhanis visible. Make me see all Pisachas W
 </details>
 </details>
 </div>
+
 ## ०७ कश्यपस्य चक्षुरसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/07_kashyapasya_chaxurasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -494,6 +501,7 @@ Thou art the sight of Kasyapa and of the hound who hath four eyes. Make the Pisa
 </details>
 </details>
 </div>
+
 ## ०८ उदग्रभं परिपाणाद्यातुधानम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/08_udagrabhaM_paripANAdyAtudhAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -558,6 +566,7 @@ Kimidin, Yatudhana from their hiding-places have I dragged. I look on every one 
 </details>
 </details>
 </div>
+
 ## ०९ यो अन्तरिक्षेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/09_yo_antarixeNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

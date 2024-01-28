@@ -32,6 +32,7 @@ A charm to restore a sick man to health
 </details>
 </details>
 </div>
+
 ## ०१ उत देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/01_uta_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Gods, raise again the man whom ye, O Gods, have humbled and brought low. Ye Gods
 </details>
 </details>
 </div>
+
 ## ०२ द्वाविमौ वातौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/02_dvAvimau_vAtau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,6 +175,7 @@ Here these two winds are blowing far as Sindhu from a distant land. May one brea
 </details>
 </details>
 </div>
+
 ## ०३ आ वात
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/03_A_vAta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -240,6 +243,7 @@ Hither, O Wind, blow healing balm, blow every fault away, thou Wind! For thou wh
 </details>
 </details>
 </div>
+
 ## ०४ त्रायन्तामिमं देवास्त्रायन्ताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/04_trAyantAmimaM_devAstrAyantAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -305,6 +309,7 @@ May the Gods keep and save this man, the Maruts' host deliver him. All things th
 </details>
 </details>
 </div>
+
 ## ०५ आ त्वागमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/05_A_tvAgamam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -372,6 +377,7 @@ I am come nigh to thee with balms to give thee rest and keep thee safe. I bring 
 </details>
 </details>
 </div>
+
 ## ०६ अयं मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/06_ayaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -434,6 +440,7 @@ Felicitous is this my hand, yet more felicitous is this. This hand contains all 
 </details>
 </details>
 </div>
+
 ## ०७ हस्ताभ्यां दशशाखाभ्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/07_hastAbhyAM_dashashAkhAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

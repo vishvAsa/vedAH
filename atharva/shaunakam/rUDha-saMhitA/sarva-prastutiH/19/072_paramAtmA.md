@@ -32,6 +32,7 @@ A sacrificial formula
 </details>
 </details>
 </div>
+
 ## ०१ यस्मात्कोशादुदभराम वेदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

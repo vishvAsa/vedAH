@@ -32,6 +32,7 @@ A charm to cure scrofulous pustules and scrofula
 </details>
 </details>
 </div>
+
 ## ०१ आ सुस्रसः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -107,6 +108,7 @@ Rapidly dropping, quick to drop, more evil than the evil ones, More sapless than
 </details>
 </details>
 </div>
+
 ## ०२ या ग्रैव्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules t
 </details>
 </details>
 </div>
+
 ## ०३ यः कीकसाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -257,6 +260,7 @@ I have expelled and banished all Scrofula harboured in the head, And that which 
 </details>
 </details>
 </div>
+
 ## ०४ पक्षी जायान्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -337,6 +341,7 @@ Scrofula flies borne on by wings: it penerates and holds the man. Here is the cu
 </details>
 </details>
 </div>
+
 ## ०५ विद्म वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -406,6 +411,7 @@ We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast t
 </details>
 </details>
 </div>
+
 ## ०६ धृषत्पिब कलशे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

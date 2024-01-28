@@ -32,6 +32,7 @@ A prayer for delivery from sin and sickness
 </details>
 </details>
 </div>
+
 ## ०१ सोमारुद्रा वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/042_pApamochanam/01_somArudrA_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ Scatter and drive away, Soma and Rudra, the sickness that hath come within our d
 </details>
 </details>
 </div>
+
 ## ०२ सोमारुद्रा युवमेतान्यस्मद्विश्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/042_pApamochanam/02_somArudrA_yuvametAnyasmadvishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

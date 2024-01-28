@@ -28,6 +28,7 @@ Translated: Henry, 41, 117; Griffith, i. 379.
 </details>
 </details>
 </div>
+
 ## ०१ यदस्मृति चकृम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/106_amRtatvam/01_yadasmRti_chakRma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

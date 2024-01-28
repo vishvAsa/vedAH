@@ -32,6 +32,7 @@ I
 </details>
 </details>
 </div>
+
 ## ०१ अक्षीभ्यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/01_axIbhyAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ From both thy nostrils, from both eyes, from both thine ears, and from thy chin,
 </details>
 </details>
 </div>
+
 ## ०२ ग्रीवाभ्यस्त उष्णिहाभ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/02_grIvAbhyasta_uShNihAbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ Forth from the neck and from the nape, from dorsal vertebrae and spine. From arm
 </details>
 </details>
 </div>
+
 ## ०३ हृदयात्ते परि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/03_hRdayAtte_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -220,6 +223,7 @@ Forth from thy heart and from thy lungs, from thy gall-bladder and thy sides, Fr
 </details>
 </details>
 </div>
+
 ## ०४ आन्त्रेभ्यस्ते गुदाभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/04_Antrebhyaste_gudAbhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -288,6 +292,7 @@ From bowels and intestines, from the rectum and the belly, I Extirpate thy Consu
 </details>
 </details>
 </div>
+
 ## ०५ ऊरुभ्यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/05_UrubhyAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -357,6 +362,7 @@ Forth from thy thighs and from thy knees, heels and the fore- parts of thy feet.
 </details>
 </details>
 </div>
+
 ## ०६ अस्थिभ्यस्ते मज्जभ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/06_asthibhyaste_majjabhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -422,6 +428,7 @@ Forth from thy marrows and thy bones, forth from thy tendons and thy veins I ban
 </details>
 </details>
 </div>
+
 ## ०७ अङ्गेअङ्गे लोम्निलोम्नि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/07_angeange_lomnilomni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

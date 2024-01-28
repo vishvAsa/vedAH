@@ -32,6 +32,7 @@ A hymn to the New Moon
 </details>
 </details>
 </div>
+
 ## ०१ यत्ते देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/01_yatte_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Night of the New-born Moon, whatever fortune the Gods who dwell with greatness h
 </details>
 </details>
 </div>
+
 ## ०२ अहमेवास्म्यमावास्या मामा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ I am the New Moon's Night, the good and pious are my in- habitants, these dwell 
 </details>
 </details>
 </div>
+
 ## ०३ आगन्रात्री सङ्गमनी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -237,6 +240,7 @@ The Night hath come, the gatherer of treasures, bestowing strength, prosperity, 
 </details>
 </details>
 </div>
+
 ## ०४ अमावास्ये न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/04_amAvAsye_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -33,6 +33,7 @@ A charm against rival worshippers
 </details>
 </details>
 </div>
+
 ## ०१ ये पुरस्ताज्जुह्वति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/01_ye_purastAjjuhvati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ O Jatavedas, eastward sacrificers, as foes assail us from the eastern quarter. M
 </details>
 </details>
 </div>
+
 ## ०२ ये दक्षिणतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/02_ye_daxiNato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -152,6 +154,7 @@ O Jatavedas, southward sacrificers as foes assail us from the southern quarter. 
 </details>
 </details>
 </div>
+
 ## ०३ ये पश्चाज्जुह्वति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/03_ye_pashchAjjuhvati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -201,6 +204,7 @@ O Jatavedas, westward sacrificers as foes assail us from the western quarter. Fo
 </details>
 </details>
 </div>
+
 ## ०४ य उत्तरतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/04_ya_uttarato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -246,6 +250,7 @@ Jatavedas, northward sacrificers as foes assail us from the northern quarter. Fo
 </details>
 </details>
 </div>
+
 ## ०५ येधस्ताज्जुह्वति जातवेदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/05_yedhastAjjuhvati_jAtavedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -298,6 +303,7 @@ O Jatavedas, nether sacrificers, as foes assail us from the stead- fast quarter.
 </details>
 </details>
 </div>
+
 ## ०६ येऽन्तरिक्षाज्जुह्वति जातवेदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/06_ye-ntarixAjjuhvati_jAtavedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -349,6 +355,7 @@ Those who pay sacrifice, O Jatavedas, from air assail us from the midway quarter
 </details>
 </details>
 </div>
+
 ## ०७ य उपरिष्टाज्जुह्वति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/07_ya_upariShTAjjuhvati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -398,6 +405,7 @@ The sacrificers from above assail us, O Jatavedas, from the lofty quarter. For w
 </details>
 </details>
 </div>
+
 ## ०८ ये दिशामन्तर्देशेभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/08_ye_dishAmantardeshebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

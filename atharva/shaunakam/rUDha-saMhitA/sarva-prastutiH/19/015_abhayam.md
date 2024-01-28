@@ -32,6 +32,7 @@ A prayer for peace and security
 </details>
 </details>
 </div>
+
 ## ०१ यत इन्द्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/01_yata_indra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ Indra, give us security from that whereof we are afraid. Help us, O Maghavan, le
 </details>
 </details>
 </div>
+
 ## ०२ इन्द्रं वयमनूराधम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/02_indraM_vayamanUrAdham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ We call on Indra, on the liberal giver: we will be prosperous in men and cattle.
 </details>
 </details>
 </div>
+
 ## ०३ इन्द्रस्त्रातोत वृत्रहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/03_indrastrAtota_vRtrahA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -243,6 +246,7 @@ Best, making household wealth increase. Indra our saviour, kills the foe. May he
 </details>
 </details>
 </div>
+
 ## ०४ उरुं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/04_uruM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -312,6 +316,7 @@ Lead us to ample room. O thou who knowest, to happiness security, and sunlight. 
 </details>
 </details>
 </div>
+
 ## ०५ अभयं नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/05_abhayaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -377,6 +382,7 @@ May air's mid-region give us peace and safety, safety may both these, Heaven and
 </details>
 </details>
 </div>
+
 ## ०६ अभयं मित्रादभयममित्रादभयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/06_abhayaM_mitrAdabhayamamitrAdabhayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -28,6 +28,7 @@ Address to an amulet which is to secure the defeat of the wearer's enemies
 </details>
 </details>
 </div>
+
 ## ०१ पुमान्पुंसः परिजातोऽश्वत्थः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/01_pumAnpuMsaH_parijAto-shvatthaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Masculine springs from masculine, Asvattha grows from Kha- dira, May it destroy 
 </details>
 </details>
 </div>
+
 ## ०२ तानश्वत्थ निः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/02_tAnashvattha_niH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ Crush down my foes, Asvattha! Rend, O Burster, those who storm and rage, With In
 </details>
 </details>
 </div>
+
 ## ०३ यथाश्वत्थ निरभनोऽन्तर्महत्यर्णवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/03_yathAshvattha_nirabhano-ntarmahatyarNave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -237,6 +240,7 @@ As thou hast rent and torn apart, Asvattha! in the mighty sea, So rend asundar a
 </details>
 </details>
 </div>
+
 ## ०४ यः सहमानश्चरसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/04_yaH_sahamAnashcharasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -301,6 +305,7 @@ Thou who like some victorious bull displayest thy surpassing might, With thee, w
 </details>
 </details>
 </div>
+
 ## ०५ सिनात्वेनान्निरृतिर्मृत्योः पाशैरमोक्यैः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/05_sinAtvenAnnirRtirmRtyoH_pAshairamokyaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -364,6 +369,7 @@ Nirriti bind them with the bonds of Death which never may be loosed. Mine enemie
 </details>
 </details>
 </div>
+
 ## ०६ यथाश्वत्थ वानस्पत्यानारोहन्कृणुषेऽधरान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/06_yathAshvattha_vAnaspatyAnArohankRNuShe-dharAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -438,6 +444,7 @@ As thou, Asvastha!, mountest on the trees and overthrowest them, So do thou brea
 </details>
 </details>
 </div>
+
 ## ०७ तेऽधराञ्चः प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/07_te-dharAnchaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -504,6 +511,7 @@ Let them drift downward like a boat torn from the rope that fastened it. There i
 </details>
 </details>
 </div>
+
 ## ०८ प्रैणान्नुदे मनसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/08_praiNAnnude_manasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

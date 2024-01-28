@@ -28,6 +28,7 @@ A prayer for rain
 </details>
 </details>
 </div>
+
 ## ०१ प्र नभस्व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/018_davRShTiH/01_pra_nabhasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -107,6 +108,7 @@ Burst open, Prithvi, and cleave asunder this celestial cloud. Untie, O Dhatar--f
 </details>
 </details>
 </div>
+
 ## ०२ न घ्रंस्तताप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/018_davRShTiH/02_na_ghraMstatApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

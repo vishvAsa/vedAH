@@ -32,6 +32,7 @@ The same
 </details>
 </details>
 </div>
+
 ## ०१ त्रातारमिन्द्रमवितारमिन्द्रं हवेहवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/086_trAtA_indraH/01_trAtAramindramavitAramindraM_havehave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A charm to avert evil spirits of misfortune and to secure prosperity
 </details>
 </details>
 </div>
+
 ## ०१ निर्लक्ष्म्यं ललाम्यं१
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/01_nirlaxmyaM_lalAmyaM1.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ We drive away the Spotted Hag, Misfortune, and Malignity: All blessings to our c
 </details>
 </details>
 </div>
+
 ## ०२ निररणिं सविता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/02_niraraNiM_savitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -176,6 +178,7 @@ Let Savitar, Mitra, Varuna, and Aryaman drive away Stinginess from both the hand
 </details>
 </details>
 </div>
+
 ## ०३ यत्त आत्मनि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/03_yatta_Atmani.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -242,6 +245,7 @@ Each fearful sign upon thy body, in thyself, each inauspicious mark seen in thy 
 </details>
 </details>
 </div>
+
 ## ०४ रिश्यपदीं वृषदतीम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/04_rishyapadIM_vRShadatIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ Praise of Atharvan
 </details>
 </details>
 </div>
+
 ## ०१ अथर्वाणं पितरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/002_AtmA/01_atharvANaM_pitaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

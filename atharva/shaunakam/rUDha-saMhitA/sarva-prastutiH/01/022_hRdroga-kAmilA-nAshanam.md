@@ -28,6 +28,7 @@ A charm against jaundice
 </details>
 </details>
 </div>
+
 ## ०१ अनु सूर्यमुदयताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/01_anu_sUryamudayatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ As the Sun rises, let thy sore disease and yellowness depart. We compass and sur
 </details>
 </details>
 </div>
+
 ## ०२ परि त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/02_pari_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ Ppp. has a different second half-verse: *yathā tvam arapā 'so atho
 </details>
 </details>
 </div>
+
 ## ०३ या रोहिणीर्देवत्या३
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/03_yA_rohiNIrdevatyA3.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,6 +235,7 @@ Rohiṇī, our Aldebaran. Ppp. reads *rohiṇīr devatyā*, and in **b**
 </details>
 </details>
 </div>
+
 ## ०४ सुकेषु ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/04_sukeShu_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

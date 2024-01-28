@@ -28,6 +28,7 @@ Translated: Henry, 44, 122; Griffith, i. 382.
 </details>
 </details>
 </div>
+
 ## ०१ शुम्भनी द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/112_pApanAshanam/01_shumbhanI_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Radiant with light are Heaven and Earth, whose grace is nigh, whose sway is vast
 </details>
 </details>
 </div>
+
 ## ०२ मुञ्चन्तु मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/112_pApanAshanam/02_munchantu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

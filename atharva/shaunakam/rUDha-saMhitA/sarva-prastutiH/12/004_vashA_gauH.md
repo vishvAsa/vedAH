@@ -32,6 +32,7 @@ On the duty of giving cows to Brahmans, and the sin and danger of withholding th
 </details>
 </details>
 </div>
+
 ## ०१ ददामीत्येव ब्रूयादनु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/01_dadAmItyeva_brUyAdanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Give the gift, shall be his word: and straightway they have bound the Cow For Br
 </details>
 </details>
 </div>
+
 ## ०२ प्रजया स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/02_prajayA_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ He trades and traffics with his sons, and in his cattle suffers loss. Who will n
 </details>
 </details>
 </div>
+
 ## ०३ कूटयास्य सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/03_kUTayAsya_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -229,6 +232,7 @@ They perish through a hornless cow, a lame cow sinks them in a pit. Through a ma
 </details>
 </details>
 </div>
+
 ## ०४ विलोहितो अधिष्ठानाच्छक्नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/04_vilohito_adhiShThAnAchChakno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -306,6 +310,7 @@ Fierce fever where her droppings fall attacks the master of the kine. So have th
 </details>
 </details>
 </div>
+
 ## ०५ पदोरस्या अधिष्ठानाद्विक्लिन्दुर्नाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/05_padorasyA_adhiShThAnAdviklindurnAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -375,6 +380,7 @@ The malady Viklindu springs on him from ground whereon she stands, And suddenly,
 </details>
 </details>
 </div>
+
 ## ०६ यो अस्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/06_yo_asyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -444,6 +450,7 @@ Whoever twitches up her ears is separated from the Gods. He deems he makes a mar
 </details>
 </details>
 </div>
+
 ## ०७ यदस्याः कस्मै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/07_yadasyAH_kasmai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -506,6 +513,7 @@ If to his own advantage one applies the long hair of her tail, His colts, in con
 </details>
 </details>
 </div>
+
 ## ०८ यदस्या गोपतौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/08_yadasyA_gopatau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -570,6 +578,7 @@ If, while her master owneth her, a carrion crow hath harmed her hair, His young 
 </details>
 </details>
 </div>
+
 ## ०९ यदस्याः पल्पूलनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/09_yadasyAH_palpUlanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -636,6 +645,7 @@ What time the Dasi woman throws lye on the droppings of the Cow, Misshapen birth
 </details>
 </details>
 </div>
+
 ## १० जायमानाभि जायते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/10_jAyamAnAbhi_jAyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -702,6 +712,7 @@ For Gods and Brahmans is the Cow produced when first she springs to life, Hence 
 </details>
 </details>
 </div>
+
 ## ११ य एनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/11_ya_enAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -768,6 +779,7 @@ The God-created Cow belongs to those who come to ask for her. They call it outra
 </details>
 </details>
 </div>
+
 ## १२ य आर्षेयेभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/12_ya_ArSheyebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -831,6 +843,7 @@ He who withholds the Cow of Gods from Rishis' sons who ask the gift Is made an a
 </details>
 </details>
 </div>
+
 ## १३ यो अस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/13_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -900,6 +913,7 @@ Then let him seek another Cow, whate'er his profit be in this. The Cow, not give
 </details>
 </details>
 </div>
+
 ## १४ यथा शेवधिर्निहितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/14_yathA_shevadhirnihito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -961,6 +975,7 @@ Like a rich treasure stored away in safety is the Brahmans' Cow. Therefore men c
 </details>
 </details>
 </div>
+
 ## १५ स्वमेतदच्छायन्ति यद्वशाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/15_svametadachChAyanti_yadvashAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1028,6 +1043,7 @@ So when the Brahmans come unto the Cow they come unto their own. For this is her
 </details>
 </details>
 </div>
+
 ## १६ चरेदेवा त्रैहायणादविज्ञातगदा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/16_charedevA_traihAyaNAdavijnAtagadA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1093,6 +1109,7 @@ Thus after three years may she go, speaking what is not under- stood. He, Narads
 </details>
 </details>
 </div>
+
 ## १७ य एनामवशामाह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/17_ya_enAmavashAmAha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1153,6 +1170,7 @@ Whoso calls her a worthless Cow, the stored-up treasure of the Gods, Bhava and S
 </details>
 </details>
 </div>
+
 ## १८ यो अस्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/18_yo_asyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1217,6 +1235,7 @@ The man who hath no knowledge of her udder and the teats thereof, She yields him
 </details>
 </details>
 </div>
+
 ## १९ दुरदभ्नैनमा शये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/19_duradabhnainamA_shaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1285,6 +1304,7 @@ If he withholds the Cow they beg, she lies rebellious in his stall. Vain are the
 </details>
 </details>
 </div>
+
 ## २० देवा वशामयाचन्मुखम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/20_devA_vashAmayAchanmukham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1348,6 +1368,7 @@ The Deities have begged the Cow, using the Brahman as their mouth: The man who g
 </details>
 </details>
 </div>
+
 ## २१ हेडं पशूनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/21_heDaM_pashUnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1412,6 +1433,7 @@ Withholding her from Brahmans, he incurs the anger of the beasts, When mortal ma
 </details>
 </details>
 </div>
+
 ## २२ यदन्ये शतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/22_yadanye_shatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1474,6 +1496,7 @@ If hundred other Brahmans beg the Cow of him who owneth her, The Gods have said,
 </details>
 </details>
 </div>
+
 ## २३ य एवम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/23_ya_evam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1541,6 +1564,7 @@ Whoso to others, not to him who hath this knowledge, gives the Cow, Earth, with 
 </details>
 </details>
 </div>
+
 ## २४ देवा वशामयाचन्यस्मिन्नग्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/24_devA_vashAmayAchanyasminnagre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1608,6 +1632,7 @@ The Deities begged the Cow from him with whom at first she was produced: Her, th
 </details>
 </details>
 </div>
+
 ## २५ अनपत्यमल्पपशुं वशा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/25_anapatyamalpapashuM_vashA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1672,6 +1697,7 @@ The Cow deprives of progeny and makes him poor in cattle who Retains in his poss
 </details>
 </details>
 </div>
+
 ## २६ अग्नीषोमाभ्यां कामाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/26_agnIShomAbhyAM_kAmAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1732,6 +1758,7 @@ For Agni and for Soma, for Kama, Mitra and Varuna, For these the Brahmans ask: f
 </details>
 </details>
 </div>
+
 ## २७ यावदस्या गोपतिर्नोपशृणुयादृचः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/27_yAvadasyA_gopatirnopashRNuyAdRchaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1800,6 +1827,7 @@ Long as her owner hath not heard, himself, the verses, let her move Among his ki
 </details>
 </details>
 </div>
+
 ## २८ यो अस्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/28_yo_asyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1864,6 +1892,7 @@ He who hath heard her verses and still makes her roam among his kine. The Gods i
 </details>
 </details>
 </div>
+
 ## २९ वशा चरन्ती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/29_vashA_charantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1934,6 +1963,7 @@ Roaming in many a place the Cow is the stored treasure of the Gods, Make manifes
 </details>
 </details>
 </div>
+
 ## ३० आविरात्मानं कृणुते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/30_AvirAtmAnaM_kRNute.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2000,6 +2030,7 @@ Her shape and form she manifests when she would seek her dwelling-place; Then ve
 </details>
 </details>
 </div>
+
 ## ३१ मनसा सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/31_manasA_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2060,6 +2091,7 @@ This thought he settles in his mind. This safely goeth to the Gods. Then verily 
 </details>
 </details>
 </div>
+
 ## ३२ स्वधाकारेण पितृभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/32_svadhAkAreNa_pitRbhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2123,6 +2155,7 @@ By Svadha to the Fathers, by sacrifice to the Deities, By giving them the Cow, t
 </details>
 </details>
 </div>
+
 ## ३३ वशा माता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/33_vashA_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2186,6 +2219,7 @@ The Prince's mother is the Cow: so was it ordered from of old. She, when bestowe
 </details>
 </details>
 </div>
+
 ## ३४ यथाज्यं प्रगृहीतमालुम्पेत्स्रुचो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/34_yathAjyaM_pragRhItamAlumpetsrucho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2254,6 +2288,7 @@ As molten butter, held at length, drops down to Agni from the scoop, So falls aw
 </details>
 </details>
 </div>
+
 ## ३५ पुरोडाशवत्सा सुदुघा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/35_puroDAshavatsA_sudughA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2319,6 +2354,7 @@ Good milker, with rice-cake as calf, she in the world comes nigh to him, To him 
 </details>
 </details>
 </div>
+
 ## ३६ सर्वान्कामान्यमराज्ये वशा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/36_sarvAnkAmAnyamarAjye_vashA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2382,6 +2418,7 @@ In Yama's realm the Cow fulfils each wish for him who gave her up; But hell, the
 </details>
 </details>
 </div>
+
 ## ३७ प्रवीयमाना चरति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/37_pravIyamAnA_charati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2442,6 +2479,7 @@ Enraged against her owner roams the Cow when she hath been impregned. He deemed 
 </details>
 </details>
 </div>
+
 ## ३८ यो वेहतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/38_yo_vehatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2506,6 +2544,7 @@ Whoever looking on the Cow as fruitless, cooks her flesh at home, Brihaspati com
 </details>
 </details>
 </div>
+
 ## ३९ महदेषाव तपति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/39_mahadeShAva_tapati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2572,6 +2611,7 @@ Downward she sends a mighty heat, though amid kine a Cow she roams. Poison she y
 </details>
 </details>
 </div>
+
 ## ४० प्रियं पशूनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/40_priyaM_pashUnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2634,6 +2674,7 @@ The animal is happy when it is bestowed upon the priests: But happy is the Cow w
 </details>
 </details>
 </div>
+
 ## ४१ या वशा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/41_yA_vashA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2701,6 +2742,7 @@ Narada chose the terrible Vilipti out of all the cows Which the Gods formed and 
 </details>
 </details>
 </div>
+
 ## ४२ तां देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/42_tAM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2771,6 +2813,7 @@ The Gods considered her in doubt whether she were a Cow or not. Mirada spake of 
 </details>
 </details>
 </div>
+
 ## ४३ कति नु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/43_kati_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2833,6 +2876,7 @@ How many cows, O Narada, knowest thou, born among man- kind I ask thee who dost 
 </details>
 </details>
 </div>
+
 ## ४४ विलिप्त्या बृहस्पते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/44_viliptyA_bRhaspate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2904,6 +2948,7 @@ Vilipti, cow, and she who drops no second calf, Brihaspati! Of these none not a 
 </details>
 </details>
 </div>
+
 ## ४५ नमस्ते अस्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/45_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2968,6 +3013,7 @@ Homage, O Narada, to thee who hast quick knowledge of the cows. Which of these i
 </details>
 </details>
 </div>
+
 ## ४६ विलिप्ती या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/46_viliptI_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3031,6 +3077,7 @@ Vilipti, O Brihaspati, cow, mother of no second calf--Of these none not a Brahma
 </details>
 </details>
 </div>
+
 ## ४७ त्रीणि वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/47_trINi_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3098,6 +3145,7 @@ Threefold are kine, Vilipti, cow, the mother of no seeond calf: These one should
 </details>
 </details>
 </div>
+
 ## ४८ एतद्वो ब्राह्मणा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/48_etadvo_brAhmaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3159,6 +3207,7 @@ This Brahmans! is your sacrifice: thus should one think when he is asked, What t
 </details>
 </details>
 </div>
+
 ## ४९ देवा वशाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/49_devA_vashAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3228,6 +3277,7 @@ He gave her not to us, so spake the Gods, in anger, of the Cow. With these same 
 </details>
 </details>
 </div>
+
 ## ५० उतैनां भेदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/50_utainAM_bhedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3291,6 +3341,7 @@ Solicited by Indra, still Bheda refused to give this Cow. In strife for victory 
 </details>
 </details>
 </div>
+
 ## ५१ ये वशाया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/51_ye_vashAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3352,6 +3403,7 @@ The men of evil counsel who advise refusal of the Cow, Miscreants, through their
 </details>
 </details>
 </div>
+
 ## ५२ ये गोपतिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/52_ye_gopatim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3416,6 +3468,7 @@ They who seduce the owner of the Cow and say, Bestow her not. Encounter through 
 </details>
 </details>
 </div>
+
 ## ५३ यदि हुताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/53_yadi_hutAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

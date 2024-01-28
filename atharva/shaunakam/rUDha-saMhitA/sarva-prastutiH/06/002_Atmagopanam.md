@@ -32,6 +32,7 @@ In praise of Indra
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्राय सोममृत्विजः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/01_indrAya_somamRtvijaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ For Indra, ministering priests! run ye and press the Soma juice, That he may hea
 </details>
 </details>
 </div>
+
 ## ०२ आ यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/02_A_yam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ Thou into whom the drops find way as sap pours life into a tree, Drive off in th
 </details>
 </details>
 </div>
+
 ## ०३ सुनोता सोमपाव्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/03_sunotA_somapAvne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

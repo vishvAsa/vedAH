@@ -32,6 +32,7 @@ A prayer for riches
 </details>
 </details>
 </div>
+
 ## ०१ यन्न इन्द्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/024_savitA/01_yanna_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

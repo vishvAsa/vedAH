@@ -28,6 +28,7 @@ Translated: Ludwig, p. 498; Henry, 40, 115; Griffith, i. 378.
 </details>
 </details>
 </div>
+
 ## ०१ पर्यावर्ते दुःष्वप्न्यात्पापात्स्वप्न्यादभूत्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

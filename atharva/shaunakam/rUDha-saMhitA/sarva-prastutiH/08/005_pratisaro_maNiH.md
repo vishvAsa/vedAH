@@ -31,6 +31,7 @@ A charm accompanying investiture with an amulet
 </details>
 </details>
 </div>
+
 ## ०१ अयं प्रतिसरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/01_ayaM_pratisaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Upon the strong is bound the strong, this magic cord, this Amu- let, Potent, foe
 </details>
 </details>
 </div>
+
 ## ०२ अयं मणिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/02_ayaM_maNiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -157,6 +159,7 @@ This Charm, foe-slayer, served by many heroes, strong, power- ful, victorious, a
 </details>
 </details>
 </div>
+
 ## ०३ अनेनेन्द्रो मणिना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/03_anenendro_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -219,6 +222,7 @@ With this same Amulet wise Indra routed the Asuras, with this he slaughtered Vri
 </details>
 </details>
 </div>
+
 ## ०४ अयं स्राक्त्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/04_ayaM_srAktyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -281,6 +285,7 @@ May this encircling magic cord, this Amulet of Sraktya wood, Mighty, subduing en
 </details>
 </details>
 </div>
+
 ## ०५ तदग्निराह तदु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/05_tadagnirAha_tadu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -346,6 +351,7 @@ This Agni hath declared, Soma declared it, Brihaspati, and Savitar, and Indra. S
 </details>
 </details>
 </div>
+
 ## ०६ अन्तर्दधे द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/06_antardadhe_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -410,6 +416,7 @@ I have obscured the heaven and earth, yea, and the daylight and the sun. So may 
 </details>
 </details>
 </div>
+
 ## ०७ ये स्राक्त्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/07_ye_srAktyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -471,6 +478,7 @@ Whoever for his armour takes an amulet of the Sraktya tree, Like the Sun risen u
 </details>
 </details>
 </div>
+
 ## ०८ स्राक्त्येन मणिना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/08_srAktyena_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -531,6 +539,7 @@ With Amulet of Sraktya wood, as with a thoughtful Rishi's aid, In every fight ha
 </details>
 </details>
 </div>
+
 ## ०९ याः कृत्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/09_yAH_kRtyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -600,6 +609,7 @@ All witchcraft of Angirases,"all witchcraft wrought by Asuras, All witchcraft se
 </details>
 </details>
 </div>
+
 ## १० अस्मै मणिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/10_asmai_maNim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -662,6 +672,7 @@ May the Gods bind the Charm on him for armour, Indra, and Vishnu, Savitar Rudra,
 </details>
 </details>
 </div>
+
 ## ११ उत्तमो अस्योषधीनामनड्वाञ्जगतामिव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/11_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -739,6 +750,7 @@ Thou art the chief of all the plants, even as a bull among the beasts. A tiger o
 </details>
 </details>
 </div>
+
 ## १२ स इद्व्याघ्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/12_sa_idvyAghro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -804,6 +816,7 @@ A tiger verily is he, he is a lion, and a bull, Subduer of his foes is he, the m
 </details>
 </details>
 </div>
+
 ## १३ नैनं घ्नन्त्यप्सरसो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/13_nainaM_ghnantyapsaraso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -864,6 +877,7 @@ No mortal beings slay him, no Gandharvas, no Apsarases; O'er all the regions he 
 </details>
 </details>
 </div>
+
 ## १४ कश्यपस्त्वामसृजत कश्यपस्त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/14_kashyapastvAmasRjata_kashyapastvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -935,6 +949,7 @@ Kasyapa formed and fashioned thee, Kasyapa raised and sent thee forth. Indra wor
 </details>
 </details>
 </div>
+
 ## १५ यस्त्वा कृत्याभिर्यस्त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/15_yastvA_kRtyAbhiryastvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -997,6 +1012,7 @@ Whoever would destroy thee with Diksha-rites, sacrifices, spells, Meet him and s
 </details>
 </details>
 </div>
+
 ## १६ अयमिद्वै प्रतीवर्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/16_ayamidvai_pratIvarta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1059,6 +1075,7 @@ Verily let this Amulet, circular, potent, conquering, Happy and fortunate defenc
 </details>
 </details>
 </div>
+
 ## १७ असपत्नं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/17_asapatnaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1122,6 +1139,7 @@ Brave Indra, set before us light, peace and security from below, Peace and secur
 </details>
 </details>
 </div>
+
 ## १८ वर्म मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/18_varma_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1192,6 +1210,7 @@ My coat of mail is Heaven and Earth, my coat of mail is Day and Sun: A coat of m
 </details>
 </details>
 </div>
+
 ## १९ ऐन्द्राग्नं वर्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/19_aindrAgnaM_varma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1256,6 +1275,7 @@ Not all the Gods may pierce, all leagued together, the vast strong shield which 
 </details>
 </details>
 </div>
+
 ## २० आ मारुक्षद्देवमणिर्मह्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/20_A_mAruxaddevamaNirmahyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1326,6 +1346,7 @@ Let the Gods' Charm be bound on me to keep me safe from every ill. Come ye and e
 </details>
 </details>
 </div>
+
 ## २१ अस्मिन्निन्द्रो नि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/21_asminnindro_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1388,6 +1409,7 @@ In this let Indra lay a store of valour: approach ye Gods, and enter it together
 </details>
 </details>
 </div>
+
 ## २२ स्वस्तिदा विशाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/22_svastidA_vishAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

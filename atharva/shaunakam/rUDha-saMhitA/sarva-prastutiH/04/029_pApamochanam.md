@@ -32,6 +32,7 @@ A hymn to Mitra-Varuna
 </details>
 </details>
 </div>
+
 ## ०१ मन्वे वाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/01_manve_vAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -110,6 +111,7 @@ You twain, O Mitra, Varuna, I honour, Lawstrengtheners, wise, who drive away opp
 </details>
 </details>
 </div>
+
 ## ०२ सचेतसौ द्रुह्वणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/02_sachetasau_druhvaNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -178,6 +180,7 @@ Ye the wise Gods who drive away oppressors, ye who protect the truthful in his b
 </details>
 </details>
 </div>
+
 ## ०३ यावङ्गिरसमवथो यावगस्तिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/03_yAvangirasamavatho_yAvagastim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -241,6 +244,7 @@ Mitra and Varuna who help Agasti, Atri, and Angiras, and Jamadagni, Ye who help 
 </details>
 </details>
 </div>
+
 ## ०४ यौ श्यावाश्वमवथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/04_yau_shyAvAshvamavatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -303,6 +307,7 @@ Mitra and Varuna, who help Syavasva, Atri, and Purumilha, and Vadhryasva, Ye who
 </details>
 </details>
 </div>
+
 ## ०५ यौ भरद्वाजमवथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/05_yau_bharadvAjamavatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -365,6 +370,7 @@ Ye, Varuna, Mitra, who give aid to Kutsa, Gavishthira, Bharadvaja, Visvamitra, W
 </details>
 </details>
 </div>
+
 ## ०६ यौ मेधातिथिमवथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/06_yau_medhAtithimavatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -429,6 +435,7 @@ Ye, Mitra, Varuna, who help Trisoka, Medhatithi, and Usana son of Kavi, Ye, Gota
 </details>
 </details>
 </div>
+
 ## ०७ ययो रथः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/07_yayo_rathaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

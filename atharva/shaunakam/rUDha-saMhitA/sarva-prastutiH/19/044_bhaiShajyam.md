@@ -32,6 +32,7 @@ A curative and protective charm
 </details>
 </details>
 </div>
+
 ## ०१ आयुषोऽसि प्रतरणम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/01_AyuSho-si_prataraNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -107,6 +108,7 @@ Thou art the lengthening of life, thy name is Universal Cure: Then, Ointment! se
 </details>
 </details>
 </div>
+
 ## ०२ यो हरिमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/02_yo_harimA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -177,6 +179,7 @@ The yellow hue, the feverish heat, the shooting pain that rends II the limbs, Al
 </details>
 </details>
 </div>
+
 ## ०३ आञ्जनं पृथिव्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/03_AnjanaM_pRthivyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -239,6 +242,7 @@ Let the Salve born upon the earth, benignant, giving life to man. Make the swift
 </details>
 </details>
 </div>
+
 ## ०४ प्राण प्राणम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/04_prANa_prANam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -310,6 +314,7 @@ Preserve our breath, O Vital Breath, have mercy on our life, O Life. From snares
 </details>
 </details>
 </div>
+
 ## ०५ सिन्धोर्गर्भोऽसि विद्युताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/05_sindhorgarbho-si_vidyutAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -379,6 +384,7 @@ Thou art the babe of Sindhu, thou art lightnings' flower, wind, breath, and Sun:
 </details>
 </details>
 </div>
+
 ## ०६ देवाञ्जन त्रैककुदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/06_devAnjana_traikakudam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -452,6 +458,7 @@ Gods' Ointment from the Three Peaked Hill, preserve thou me on every side. No pl
 </details>
 </details>
 </div>
+
 ## ०७ वीदं मध्यमवासृपद्रक्षोहामीवचातनः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/07_vIdaM_madhyamavAsRpadraxohAmIvachAtanaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -532,6 +539,7 @@ Now hath it gently crept within, fiend-slaying, chasing malady. And driving all 
 </details>
 </details>
 </div>
+
 ## ०८ बह्विदं राजन्वरुणानृतमाह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/08_bahvidaM_rAjanvaruNAnRtamAha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -598,6 +606,7 @@ Full many a falsehood, O thou King Varuna, man hath uttered here: Do thou who ha
 </details>
 </details>
 </div>
+
 ## ०९ यदापो अघ्न्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/09_yadApo_aghnyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -665,6 +674,7 @@ If we have cried, O Waters! Cows! if we have cried, O Varuna! For this endowed w
 </details>
 </details>
 </div>
+
 ## १० मित्रश्च त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/10_mitrashcha_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

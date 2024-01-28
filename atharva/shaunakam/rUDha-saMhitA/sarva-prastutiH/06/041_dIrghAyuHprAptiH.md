@@ -32,6 +32,7 @@ A prayer for protection, long life, and various blessings
 </details>
 </details>
 </div>
+
 ## ०१ मनसे चेतसे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ For mind, for intellect, for thought, for purpose, for intelligence,. For sense,
 </details>
 </details>
 </div>
+
 ## ०२ अपानाय व्यानाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -156,6 +158,7 @@ For expiration, vital air, and breath that amply nourishes, Let us with sacrific
 </details>
 </details>
 </div>
+
 ## ०३ मा नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/03_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

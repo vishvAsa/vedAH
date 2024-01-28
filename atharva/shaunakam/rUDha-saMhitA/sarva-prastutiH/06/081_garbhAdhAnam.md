@@ -32,6 +32,7 @@ A charm to facilitate child-birth
 </details>
 </details>
 </div>
+
 ## ०१ यन्तासि यच्छसे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/01_yantAsi_yachChase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Thou art a grasper, holding fast both hands: drivest fiends away. A holder both 
 </details>
 </details>
 </div>
+
 ## ०२ परिहस्त वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/02_parihasta_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ Prepare accordantly, O Ring, the mother for the infant's birth. On the right way
 </details>
 </details>
 </div>
+
 ## ०३ यं परिहस्तमबिभरदितिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/03_yaM_parihastamabibharaditiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

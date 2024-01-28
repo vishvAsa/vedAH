@@ -32,6 +32,7 @@ A charm to protect cattle and men
 </details>
 </details>
 </div>
+
 ## ०१ अनडुद्भ्यस्त्वं प्रथमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/059_auShadhiH/01_anaDudbhyastvaM_prathamam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ First, O Arundhati, protect our oxen and milky kine: Protect each one that is in
 </details>
 </details>
 </div>
+
 ## ०२ शर्म यच्छत्वोषधिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/059_auShadhiH/02_sharma_yachChatvoShadhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ Let the Plant give us sheltering aid, Arundhati allied with Gods; Avert Consumpt
 </details>
 </details>
 </div>
+
 ## ०३ विश्वरूपां सुभगामच्छावदामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/059_auShadhiH/03_vishvarUpAM_subhagAmachChAvadAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

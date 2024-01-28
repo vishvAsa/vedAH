@@ -32,6 +32,7 @@ A prayer and charm against demons
 </details>
 </details>
 </div>
+
 ## ०१ ये ऽमावास्यां३
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/01_ye-mAvAsyAM3.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ May potent Agni who destroys the demons bless and shelter us. From greedy fiends
 </details>
 </details>
 </div>
+
 ## ०२ सीसायाध्याह वरुणः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/02_sIsAyAdhyAha_varuNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -169,6 +171,7 @@ Varuna's benison hath blessed the lead, and Agni strengthens it. Indra hath give
 </details>
 </details>
 </div>
+
 ## ०३ इदं विष्कन्धम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/03_idaM_viShkandham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -238,6 +241,7 @@ This overcomes Vishkandha, -this drives the voracious fiends away: By means of t
 </details>
 </details>
 </div>
+
 ## ०४ यदि नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/04_yadi_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

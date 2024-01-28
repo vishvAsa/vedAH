@@ -32,6 +32,7 @@ In praise of Brahma, Prayer, or Devotion
 </details>
 </details>
 </div>
+
 ## ०१ ब्रह्म होता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/01_brahma_hotA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -117,6 +118,7 @@ Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was t
 </details>
 </details>
 </div>
+
 ## ०२ ब्रह्म स्रुचो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/02_brahma_srucho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -201,6 +203,7 @@ Brahma is fatness-dropping scoops: with Brahma was the altar reared. Brahma is w
 </details>
 </details>
 </div>
+
 ## ०३ अंहोमुचे प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/03_aMhomuche_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -284,6 +287,7 @@ To him who frees from woe mine hymn I offer, to the Good Guardian, as I seek his
 </details>
 </details>
 </div>
+
 ## ०४ अंहोमुचं वृषभम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ Purusha, Primeval Man or humanity personified
 </details>
 </details>
 </div>
+
 ## ०१ केन पार्ष्णी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/01_kena_pArShNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Who framed the heels of Purusha? Who fashioned the flesh of him? Who formed and 
 </details>
 </details>
 </div>
+
 ## ०२ कस्मान्नु गुल्फावधरावकृण्वन्नष्ठीवन्तावुत्तरौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/02_kasmAnnu_gulphAvadharAvakRNvannaShThIvantAvutta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -169,6 +171,7 @@ Whence did they make the ankles that are under, and the knee- bones of Purusha a
 </details>
 </details>
 </div>
+
 ## ०३ चतुष्टयं युज्यते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/03_chatuShTayaM_yujyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,6 +235,7 @@ A fourfold frame is fixt with ends connected, and up above the knees a yielding 
 </details>
 </details>
 </div>
+
 ## ०४ कति देवाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/04_kati_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -305,6 +309,7 @@ Who and how many were those Gods who fastened the chest of Purusha and neck toge
 </details>
 </details>
 </div>
+
 ## ०५ को अस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/05_ko_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -367,6 +372,7 @@ Who put together both his arms and said, Let him show manly strength? Who and wh
 </details>
 </details>
 </div>
+
 ## ०६ कः सप्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/06_kaH_sapta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -431,6 +437,7 @@ Who pierced the seven openings in the head? Who made these ears, these nostrils,
 </details>
 </details>
 </div>
+
 ## ०७ हन्वोर्हि जिह्वामदधात्पुरूचीमधा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/07_hanvorhi_jihvAmadadhAtpurUchImadhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -496,6 +503,7 @@ He set within the jaws the tongue that reaches far, and thereon placed Speech th
 </details>
 </details>
 </div>
+
 ## ०८ मस्तिष्कमस्य यतमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/08_mastiShkamasya_yatamo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -560,6 +568,7 @@ Who was he, first, of all the Gods who fashioned his skull and brain and occiput
 </details>
 </details>
 </div>
+
 ## ०९ प्रियाप्रियाणि बहुला
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/09_priyApriyANi_bahulA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -622,6 +631,7 @@ Whence bringeth mighty Purusha both pleasant and unpleasant things, Of varied so
 </details>
 </details>
 </div>
+
 ## १० आर्तिरवर्तिर्निरृतिः कुतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/10_ArtiravartirnirRtiH_kuto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -686,6 +696,7 @@ Whence is there found in Purusha want, evil, suffering, dis- tress? Whence come 
 </details>
 </details>
 </div>
+
 ## ११ को अस्मिन्नापो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/11_ko_asminnApo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -750,6 +761,7 @@ Who stored in him floods turned in all directions, moving diverse and formed to 
 </details>
 </details>
 </div>
+
 ## १२ को अस्मिन्रूपमदधात्को
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/12_ko_asminrUpamadadhAtko.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -812,6 +824,7 @@ Who gave him visible form and shape? Who gave him magni- tude and name? Who gave
 </details>
 </details>
 </div>
+
 ## १३ को अस्मिन्प्राणमवयत्को
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/13_ko_asminprANamavayatko.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -873,6 +886,7 @@ Who wove the vital air in him, who filled him with the down- ward breath? What G
 </details>
 </details>
 </div>
+
 ## १४ को अस्मिन्यज्ञमदधादेको
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/14_ko_asminyajnamadadhAdeko.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -935,6 +949,7 @@ What God, what only Deity placed sacrifice in Purusha? Who gave him truth and fa
 </details>
 </details>
 </div>
+
 ## १५ को अस्मै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/15_ko_asmai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -997,6 +1012,7 @@ Who wrapped a garment round him? Who arranged the life he hath to live? Who gran
 </details>
 </details>
 </div>
+
 ## १६ केनापो अन्वतनुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/16_kenApo_anvatanuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1060,6 +1076,7 @@ Through whom did he spread waters out, through whom did he make Day to shine? Th
 </details>
 </details>
 </div>
+
 ## १७ को अस्मिन्रेतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/17_ko_asminreto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1122,6 +1139,7 @@ Who set the seed in him and said, Still be the thread of life spun out? Who gave
 </details>
 </details>
 </div>
+
 ## १८ केनेमां भूमिमौर्णोत्केन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/18_kenemAM_bhUmimaurNotkena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1184,6 +1202,7 @@ Through whom did he bedeck the earth, through whom did he encompass heaven? Whos
 </details>
 </details>
 </div>
+
 ## १९ केन पर्जन्यमन्वेति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/19_kena_parjanyamanveti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1247,6 +1266,7 @@ Through whom seeks he Parjanya out, and Soma of the piercing sight? Through whom
 </details>
 </details>
 </div>
+
 ## २० केन श्रोत्रियमाप्नोति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/20_kena_shrotriyamApnoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1309,6 +1329,7 @@ What leads him to the learned priest? What leads him to this Lord Supreme? How d
 </details>
 </details>
 </div>
+
 ## २१ ब्रह्म श्रोत्रियमाप्नोति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/21_brahma_shrotriyamApnoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1375,6 +1396,7 @@ He, Brahma gains the learned priest, he Brahma, gains this Lord Supreme. As Brah
 </details>
 </details>
 </div>
+
 ## २२ केन देवाँ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/22_kena_devA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1442,6 +1464,7 @@ Through whom doth he abide with Gods? Through whom with the Celestial Tribes? Wh
 </details>
 </details>
 </div>
+
 ## २३ ब्रह्म देवाँ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/23_brahma_devA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1504,6 +1527,7 @@ Brahma inhabits with the Gods, Brahma among the Heavenly Tribes. Brahma this oth
 </details>
 </details>
 </div>
+
 ## २४ केनेयं भूमिर्विहिता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/24_keneyaM_bhUmirvihitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1565,6 +1589,7 @@ By whom was this our earth disposed? By whom was heaven placed over it? By whom 
 </details>
 </details>
 </div>
+
 ## २५ ब्रह्मणा भूमिर्विहिता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/25_brahmaNA_bhUmirvihitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1629,6 +1654,7 @@ By Brahma was this earth disposed: Brahma is sky arranged above. Brahma is this 
 </details>
 </details>
 </div>
+
 ## २६ मूर्धानमस्य संसीव्याथर्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/26_mUrdhAnamasya_saMsIvyAtharvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1693,6 +1719,7 @@ Together, with his needle hath Atharvan sewn his head and heart. And Pavamana ho
 </details>
 </details>
 </div>
+
 ## २७ तद्वा अथर्वणः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/27_tadvA_atharvaNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1756,6 +1783,7 @@ That is indeed Atharvan's head, the well-closed casket of the Gods. Spirit and F
 </details>
 </details>
 </div>
+
 ## २८ ऊर्ध्वो नु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/28_Urdhvo_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1829,6 +1857,7 @@ Stationed on high, Purusha hath pervaded all regions spread aloft and stretched 
 </details>
 </details>
 </div>
+
 ## २९ यो वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/29_yo_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1895,6 +1924,7 @@ Yea, knows that fort of Brahma girt about with immortality, Brahma and Brahmas h
 </details>
 </details>
 </div>
+
 ## ३० न वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/30_na_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1958,6 +1988,7 @@ Sight leaves him not, breath quits not him before life's natural decay, Who know
 </details>
 </details>
 </div>
+
 ## ३१ अष्टाचक्रा नवद्वारा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/31_aShTAchakrA_navadvArA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2022,6 +2053,7 @@ The fort of Gods, impregnable, with circles eight and portals nine, Contains a g
 </details>
 </details>
 </div>
+
 ## ३२ तस्मिन्हिरण्यये कोशे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/32_tasminhiraNyaye_koshe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2085,6 +2117,7 @@ Men deep in lore of Brahma know that Animated Being which Dwells in the golden t
 </details>
 </details>
 </div>
+
 ## ३३ प्रभ्राजमानां हरिणीम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/33_prabhrAjamAnAM_hariNIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -28,6 +28,7 @@ A charm against the magic arts of fiends
 </details>
 </details>
 </div>
+
 ## ०१ शेरभक शेरभ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ O Serabhaka, Serabha, back fall your arts of witchery! Back, Kimidins! let your 
 </details>
 </details>
 </div>
+
 ## ०२ शेवृधक शेवृध
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ Srvridhaka, O Sevridha, back fall your arts of witchery! Back, Kimidins! let you
 </details>
 </details>
 </div>
+
 ## ०३ म्रोकानुम्रोक पुनर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -218,6 +221,7 @@ O Mroka, Anumroka, back return your arts of witchery! Back, Kimidins! let your w
 </details>
 </details>
 </div>
+
 ## ०४ सर्पानुसर्प पुनर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -277,6 +281,7 @@ O Sarpa, Anusarpa, back return your arts of witchery! Back, 'i Kimidins! let you
 </details>
 </details>
 </div>
+
 ## ०५ जूर्णि पुनर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -337,6 +342,7 @@ Back fall your witcheries, Jurni! back your weapon, ye Kimidinis, etc.
 </details>
 </details>
 </div>
+
 ## ०६ उपब्दे पुनर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/06_upabde_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -396,6 +402,7 @@ Back fall your spells, Upabdi! back your weapon, ye Kimidinis, etc.
 </details>
 </details>
 </div>
+
 ## ०७ अर्जुनि पुनर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/07_arjuni_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -455,6 +462,7 @@ Back fall your witchcrafts, Arjuni! your weapon, ye Kimidinis, etc,
 </details>
 </details>
 </div>
+
 ## ०८ भरूजि पुनर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/08_bharUji_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

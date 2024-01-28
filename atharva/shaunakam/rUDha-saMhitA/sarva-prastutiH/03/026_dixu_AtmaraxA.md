@@ -28,6 +28,7 @@ A charm to win the favour of all serpents
 </details>
 </details>
 </div>
+
 ## ०१ येस्यां स्थ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/01_yesyAM_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ Ye Gods who dwell within this eastward region, entitled Weapons, Agni forms your
 </details>
 </details>
 </div>
+
 ## ०२ येस्यां स्थ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/02_yesyAM_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ Ye Gods who dwell within this southward region, entitled Eager, Kama forms your 
 </details>
 </details>
 </div>
+
 ## ०३ येस्यां स्थ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/03_yesyAM_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,6 +230,7 @@ Ye Gods who dwell within this westward region, whose name is Radiant, Water form
 </details>
 </details>
 </div>
+
 ## ०४ येस्यां स्थोदीच्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/04_yesyAM_sthodIchyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -289,6 +293,7 @@ Ye Gods who dwell within this northward region, whose name is Piercers, Vata for
 </details>
 </details>
 </div>
+
 ## ०५ येस्यां स्थ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/05_yesyAM_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -353,6 +358,7 @@ Ye Gods whose home is in this firm-set region--Nilimpas is your name--Plants are
 </details>
 </details>
 </div>
+
 ## ०६ येस्यां स्थोर्ध्वायाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/06_yesyAM_sthordhvAyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

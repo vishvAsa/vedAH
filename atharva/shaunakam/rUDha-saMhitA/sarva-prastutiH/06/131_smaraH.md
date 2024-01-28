@@ -28,6 +28,7 @@ Translated: Weber, Ind. Stud. v. 244; Grill, 58, 175; Griffith, i. 318; Bloomfie
 </details>
 </details>
 </div>
+
 ## ०१ नि शीर्षतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/01_ni_shIrShato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,6 +91,7 @@ Down upon thee, from head to foot, I draw the pangs of long- ing love. Send fort
 </details>
 </details>
 </div>
+
 ## ०२ अनुमतेऽन्विदं मन्यस्वाकूते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/02_anumate-nvidaM_manyasvAkUte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -156,6 +158,7 @@ Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth t
 </details>
 </details>
 </div>
+
 ## ०३ यद्धावसि त्रियोजनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/03_yaddhAvasi_triyojanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

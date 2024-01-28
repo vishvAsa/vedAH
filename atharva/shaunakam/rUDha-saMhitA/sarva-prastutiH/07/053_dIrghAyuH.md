@@ -32,6 +32,7 @@ A charm to recover a sick man at the point of death
 </details>
 </details>
 </div>
+
 ## ०१ अमुत्रभूयादधि यद्यमस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/01_amutrabhUyAdadhi_yadyamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -112,6 +113,7 @@ As thou, Brihaspati, from the curse hast saved us, from dwel- ling yonder in the
 </details>
 </details>
 </div>
+
 ## ०२ सं क्रामतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/02_saM_krAmatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -178,6 +180,7 @@ Move both together; do not leave the body. Let both the breathings stay for thee
 </details>
 </details>
 </div>
+
 ## ०३ आयुर्यत्ते अतिहितम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/03_Ayuryatte_atihitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -244,6 +247,7 @@ Return, thy life now vanished into distance! Return, the breath thou drawest and
 </details>
 </details>
 </div>
+
 ## ०४ मेमं प्राणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/04_memaM_prANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -319,6 +323,7 @@ Let not the vital breath he draws forsake him, let not his expiration part and l
 </details>
 </details>
 </div>
+
 ## ०५ प्र विषतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/05_pra_viShatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -381,6 +386,7 @@ Enter him, both ye breaths, like two draught-oxen entering their stall. Let him,
 </details>
 </details>
 </div>
+
 ## ०६ आ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/06_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -445,6 +451,7 @@ I send thee back thy vital breath; I drive Consumption far from thee, May Agni h
 </details>
 </details>
 </div>
+
 ## ०७ उद्वयं तमसस्परि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/07_udvayaM_tamasaspari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

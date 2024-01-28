@@ -28,6 +28,7 @@ Translated: Muir, i2 255; Griffith, i. 304.
 </details>
 </details>
 </div>
+
 ## ०१ त्वं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/01_tvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ Intelligence, come first to us with store of horses and of kine! Thou with the r
 </details>
 </details>
 </div>
+
 ## ०२ मेधामहं प्रथमाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/02_medhAmahaM_prathamAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ The first, devout Intelligence, lauded by sages, sped by prayer, Drunk by Brahma
 </details>
 </details>
 </div>
+
 ## ०३ यां मेधामृभवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/03_yAM_medhAmRbhavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,6 +230,7 @@ That excellent Intelligence which Ribhus know, and Asuras, Intelligence which sa
 </details>
 </details>
 </div>
+
 ## ०४ यामृषयो भूतकृतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/04_yAmRShayo_bhUtakRto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -291,6 +295,7 @@ Do thou, O Agni, make me wise this day with that Intelligence. Which the creativ
 </details>
 </details>
 </div>
+
 ## ०५ मेधां सायम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/05_medhAM_sAyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

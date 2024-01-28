@@ -32,6 +32,7 @@ A continuation of Hymn 10
 </details>
 </details>
 </div>
+
 ## ०१ शं नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/01_shaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ May the great Lords of Truth protect and aid us: blest to us be our horses and o
 </details>
 </details>
 </div>
+
 ## ०२ शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/02_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ Kind to us be the Gods and Visve Devas, Sarasvati with Holy Thoughts be gracious
 </details>
 </details>
 </div>
+
 ## ०३ शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/03_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -233,6 +236,7 @@ May Aja-Ekapad the God be gracious, gracious the Dragon of the Deep, and Ocean. 
 </details>
 </details>
 </div>
+
 ## ०४ आदित्या रुद्रा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/04_AdityA_rudrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -296,6 +300,7 @@ So may the Rudras, Vasus, and Adityas accept the new hymn we now are making. May
 </details>
 </details>
 </div>
+
 ## ०५ ये देवानामृत्विजो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/05_ye_devAnAmRtvijo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -361,6 +366,7 @@ Priests of the Gods, worthy of sacrifices, immortal, knowing Law, whom man must 
 </details>
 </details>
 </div>
+
 ## ०६ तदस्तु मित्रावरुणा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/06_tadastu_mitrAvaruNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

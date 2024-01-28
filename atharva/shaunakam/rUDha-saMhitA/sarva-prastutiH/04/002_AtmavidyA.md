@@ -28,6 +28,7 @@ Translated: as a RV. hymn, by Max Müller, Ancient Sanskrit Literature (1859), p
 </details>
 </details>
 </div>
+
 ## ०१ य आत्मदा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/01_ya_AtmadA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -109,6 +110,7 @@ oblation?'⌋
 </details>
 </details>
 </div>
+
 ## ०२ यः प्राणतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/02_yaH_prANato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -177,6 +179,7 @@ control. The Anukr. passes without notice the deficiency in **b**.
 </details>
 </details>
 </div>
+
 ## ०३ यं क्रन्दसी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/03_yaM_krandasI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -253,6 +256,7 @@ but calls it simply *dyulokasthaḥ*.
 </details>
 </details>
 </div>
+
 ## ०४ यस्य द्यौरुर्वी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/04_yasya_dyaururvI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -328,6 +332,7 @@ irregularity of **b**.
 </details>
 </details>
 </div>
+
 ## ०५ यस्य विश्वे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/05_yasya_vishve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -403,6 +408,7 @@ make harsh and difficult resolutions.
 </details>
 </details>
 </div>
+
 ## ०६ आपो अग्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/06_Apo_agre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -482,6 +488,7 @@ of RV.⌋
 </details>
 </details>
 </div>
+
 ## ०७ हिरण्यगर्भः समवर्तताग्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/07_hiraNyagarbhaH_samavartatAgre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -556,6 +563,7 @@ syllable in **c**.
 </details>
 </details>
 </div>
+
 ## ०८ आपो वत्सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/08_Apo_vatsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

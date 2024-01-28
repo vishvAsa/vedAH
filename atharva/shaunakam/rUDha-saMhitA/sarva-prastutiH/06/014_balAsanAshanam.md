@@ -32,6 +32,7 @@ A charm against consumption
 </details>
 </details>
 </div>
+
 ## ०१ अस्थिस्रंसं परुस्रंसमास्थितम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/014_balAsanAshanam/01_asthisraMsaM_parusraMsamAsthitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -107,6 +108,7 @@ Remove thou all Decline that lurks within the members and the joints, The firmly
 </details>
 </details>
 </div>
+
 ## ०२ निर्बलासं बलासिनः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/014_balAsanAshanam/02_nirbalAsaM_balAsinaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -176,6 +178,7 @@ From the consumptive man I pluck Decline as 'twere a severed part. I cut the bon
 </details>
 </details>
 </div>
+
 ## ०३ निर्बलासेतः प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/014_balAsanAshanam/03_nirbalAsetaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

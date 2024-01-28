@@ -42,6 +42,7 @@ A charm to overthrow a rival and gain strength, dignity, long life, children, an
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रस्यौज स्थेन्द्रस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/01_indrasyauja_sthendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -134,6 +135,7 @@ Ye are the power of Indra, ye the force and strength of Indra, ye his hero might
 </details>
 </details>
 </div>
+
 ## ०२ इन्द्रस्यौज स्थेन्द्रस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/02_indrasyauja_sthendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -197,6 +199,7 @@ often elsewhere, typify the Brahman and Kshatriya classes or castes.
 </details>
 </details>
 </div>
+
 ## ०३ इन्द्रस्यौज स्थेन्द्रस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/03_indrasyauja_sthendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -259,6 +262,7 @@ Ppp. reads in **c** *annayogāis*.
 </details>
 </details>
 </div>
+
 ## ०४ इन्द्रस्यौज स्थेन्द्रस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/04_indrasyauja_sthendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -321,6 +325,7 @@ Ppp. has this time *brahmayogāis*.
 </details>
 </details>
 </div>
+
 ## ०५ इन्द्रस्यौज स्थेन्द्रस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/05_indrasyauja_sthendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -383,6 +388,7 @@ Ppp. reads *apāṁ yogāis*.
 </details>
 </details>
 </div>
+
 ## ०६ इन्द्रस्यौज स्थेन्द्रस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/06_indrasyauja_sthendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -460,6 +466,7 @@ For the victorious enterprise let all creation stand by me. For me ye, Waters, a
 </details>
 </details>
 </div>
+
 ## ०७ अग्नेर्भाग स्थ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/07_agnerbhAga_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -524,6 +531,7 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 </details>
 </details>
 </div>
+
 ## ०८ इन्द्रस्य भाग
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/08_indrasya_bhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -586,6 +594,7 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 </details>
 </details>
 </div>
+
 ## ०९ सोमस्य भाग
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/09_somasya_bhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -648,6 +657,7 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 </details>
 </details>
 </div>
+
 ## १० वरुणस्य भाग
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/10_varuNasya_bhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -710,6 +720,7 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 </details>
 </details>
 </div>
+
 ## ११ मित्रावरुणयोर्भाग स्थ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/11_mitrAvaruNayorbhAga_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -772,6 +783,7 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 </details>
 </details>
 </div>
+
 ## १२ यमस्य भाग
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/12_yamasya_bhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -834,6 +846,7 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 </details>
 </details>
 </div>
+
 ## १३ पितॄणां भाग
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/13_pitRRNAM_bhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -896,6 +909,7 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 </details>
 </details>
 </div>
+
 ## १४ देवस्य सवितुर्भाग
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/14_devasya_saviturbhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -967,6 +981,7 @@ quotation of vs. 7 in Kāuś. 49. 25, see above, note to vs. 6.
 </details>
 </details>
 </div>
+
 ## १५ यो व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/15_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1040,6 +1055,7 @@ Waters, your ceremonial share of Waters which the waters hold, which aids our sa
 </details>
 </details>
 </div>
+
 ## १६ यो व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/16_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1107,6 +1123,7 @@ etc. etc.
 </details>
 </details>
 </div>
+
 ## १७ यो व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/17_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1174,6 +1191,7 @@ the waters, etc. etc.
 </details>
 </details>
 </div>
+
 ## १८ यो व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/18_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1238,6 +1256,7 @@ etc. etc.
 </details>
 </details>
 </div>
+
 ## १९ यो व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/19_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1304,6 +1323,7 @@ the waters, etc. etc.
 </details>
 </details>
 </div>
+
 ## २० यो व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/20_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1371,6 +1391,7 @@ within the waters, etc. etc.
 </details>
 </details>
 </div>
+
 ## २१ यो व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/21_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1447,6 +1468,7 @@ over *agnáyo*.⌋
 </details>
 </details>
 </div>
+
 ## २२ यदर्वाचीनं त्रैहायणादनृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/22_yadarvAchInaM_traihAyaNAdanRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1519,6 +1541,7 @@ Whatever evil I have done within this last triennium, From all that woe and mise
 </details>
 </details>
 </div>
+
 ## २३ समुद्रं वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/23_samudraM_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1591,6 +1614,7 @@ Onward I urge your gathered floods: enter your own abiding- place, Uninjured and
 </details>
 </details>
 </div>
+
 ## २४ अरिप्रा आपो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/24_ariprA_Apo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1662,6 +1686,7 @@ May the pure Waters cleanse us from defilement, Fair to behold remove our sin an
 </details>
 </details>
 </div>
+
 ## २५ विष्णोः क्रमोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/25_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1734,6 +1759,7 @@ Thou art the step of Vishnu, rival-slayer, sharpened by earth, aglow with fire o
 </details>
 </details>
 </div>
+
 ## २६ विष्णोः क्रमोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/26_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1797,6 +1823,7 @@ Ours is superior place and ours is conquest: may I in all fights tread down spit
 </details>
 </details>
 </div>
+
 ## २७ विष्णोः क्रमोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/27_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1863,6 +1890,7 @@ A single ms. (R.) reads *dyāúḥsaṁśitaḥ*.
 </details>
 </details>
 </div>
+
 ## २८ विष्णोः क्रमोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/28_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1928,6 +1956,7 @@ disportion him who etc. etc.
 </details>
 </details>
 </div>
+
 ## २९ विष्णोः क्रमोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/29_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1993,6 +2022,7 @@ disportion him who etc. etc.
 </details>
 </details>
 </div>
+
 ## ३० विष्णोः क्रमोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/30_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2059,6 +2089,7 @@ Some of the mss. (E.s.m.R.K.) read in **a** *-hā ṛks-*.
 </details>
 </details>
 </div>
+
 ## ३१ विष्णोः क्रमोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/31_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2124,6 +2155,7 @@ sacrifice we disportion him who etc. etc.
 </details>
 </details>
 </div>
+
 ## ३२ विष्णोः क्रमोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/32_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2190,6 +2222,7 @@ Read in **b** *krame* (an accent-sign slipped out of place).
 </details>
 </details>
 </div>
+
 ## ३३ विष्णोः क्रमोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/33_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2256,6 +2289,7 @@ Read *apó* at beginning of **b** (an accent-sign slipped out of place).
 </details>
 </details>
 </div>
+
 ## ३४ विष्णोः क्रमोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/34_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2321,6 +2355,7 @@ him who etc. etc.
 </details>
 </details>
 </div>
+
 ## ३५ विष्णोः क्रमोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/35_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2387,6 +2422,7 @@ disportion him who etc. etc.
 </details>
 </details>
 </div>
+
 ## ३६ जितमस्माकमुद्भिन्नमस्माकमभ्यष्ठां विश्वाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/36_jitamasmAkamudbhinnamasmAkamabhyaShThAM_vishvAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2462,6 +2498,7 @@ With this I here invest the power and splendour, the life of that man and his vi
 </details>
 </details>
 </div>
+
 ## ३७ सूर्यस्यावृतमन्वावर्ते दक्षिणामन्वावृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/37_sUryasyAvRtamanvAvarte_daxiNAmanvAvRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2526,6 +2563,7 @@ I follow Surya's course in heaven, the course that takes him to the South. May t
 </details>
 </details>
 </div>
+
 ## ३८ दिशो ज्योतिष्मतीरभ्यावर्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/38_disho_jyotiShmatIrabhyAvarte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2589,6 +2627,7 @@ I turn me to the regions bright with splendour. May they bestow upon me wealth a
 </details>
 </details>
 </div>
+
 ## ३९ सप्तऋषीनभ्यावर्ते ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/39_saptaRShInabhyAvarte_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2648,6 +2687,7 @@ I turn me to the Rishis Seven. May they, etc.
 </details>
 </details>
 </div>
+
 ## ४० ब्रह्माभ्यावर्ते तन्मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/40_brahmAbhyAvarte_tanme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2707,6 +2747,7 @@ I turn me unto Prayer. May that, etc.
 </details>
 </details>
 </div>
+
 ## ४१ ब्राह्मणाँ अभ्यावर्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/41_brAhmaNA.N_abhyAvarte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2768,6 +2809,7 @@ I turn me unto Brahmans. May they etc.
 </details>
 </details>
 </div>
+
 ## ४२ यं वयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/42_yaM_vayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2832,6 +2874,7 @@ We hunt that man, we beat him down and slay him with our murderous blows. We wit
 </details>
 </details>
 </div>
+
 ## ४३ वैश्वानरस्य दंष्ट्राभ्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/43_vaishvAnarasya_daMShTrAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2893,6 +2936,7 @@ Let the shot missile catch him with Vaisvanara's two mighty fangs. This offering
 </details>
 </details>
 </div>
+
 ## ४४ राज्ञो वरुणस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/44_rAjno_varuNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2958,6 +3002,7 @@ Thou art the bound of Varuna the King. Bind, such an one, the son of such a woma
 </details>
 </details>
 </div>
+
 ## ४५ यत्ते अन्नम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/45_yatte_annam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3021,6 +3066,7 @@ All food of thine, O Lord of Life, that lies, upon the face of earth, Thereof be
 </details>
 </details>
 </div>
+
 ## ४६ अपो दिव्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/46_apo_divyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3081,6 +3127,7 @@ Celestial Waters have I sought: with juice have I besprinkled them. With milk, O
 </details>
 </details>
 </div>
+
 ## ४७ सं माग्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/47_saM_mAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3143,6 +3190,7 @@ Give me the boon of splendid strength; give, Agni! progeny and life. May the God
 </details>
 </details>
 </div>
+
 ## ४८ यदग्ने अद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/48_yadagne_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3204,6 +3252,7 @@ What curse soever couples launch against us, whatever bitter speech the chattere
 </details>
 </details>
 </div>
+
 ## ४९ परा शृणीहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/49_parA_shRNIhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3277,6 +3326,7 @@ Destroy the Yatudhanas with thy fervour, consume the demons with thy wrath, O Ag
 </details>
 </details>
 </div>
+
 ## ५० अपामस्मै वज्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/50_apAmasmai_vajram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

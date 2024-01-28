@@ -32,6 +32,7 @@ A prayer for prosperity, accompanying a sacrifice
 </details>
 </details>
 </div>
+
 ## ०१ घृतस्य जूतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/01_ghRtasya_jUtiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,6 +109,7 @@ Still equal be the flow of butter ever causing the Year to prosper with oblation
 </details>
 </details>
 </div>
+
 ## ०२ उपास्मान्प्राणो ह्वयतामुप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/02_upAsmAnprANo_hvayatAmupa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -182,6 +184,7 @@ Let lively breath invite us: we call vital breath to visit us. Earth and air's m
 </details>
 </details>
 </div>
+
 ## ०३ वर्चसो द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/03_varchaso_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -265,6 +268,7 @@ The earth and heaven have come to be two gatherers up of vigo- rous might. So le
 </details>
 </details>
 </div>
+
 ## ०४ व्रजं कृणुध्वम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/04_vrajaM_kRNudhvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -339,6 +343,7 @@ Prepare the cow-stall, for there drink your heroes: stitch ye the coats of armou
 </details>
 </details>
 </div>
+
 ## ०५ यज्ञस्य चक्षुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/05_yajnasya_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -403,6 +408,7 @@ The eye of sacrifice, source and beginning with voice, car, spirit unto him I of
 </details>
 </details>
 </div>
+
 ## ०६ ये देवानामृत्विजो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/06_ye_devAnAmRtvijo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

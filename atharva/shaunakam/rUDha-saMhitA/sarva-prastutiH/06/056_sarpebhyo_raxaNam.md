@@ -32,6 +32,7 @@ A charm against snakes
 </details>
 </details>
 </div>
+
 ## ०१ मा नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/01_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Let not the serpent slay us, O Gods, with our children and our folk. Let it not 
 </details>
 </details>
 </div>
+
 ## ०२ नमोऽस्त्वसिताय नमस्तिरश्चिराजये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/02_namo-stvasitAya_namastirashchirAjaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ Be worship paid unto the black, worship to that with stripes across! To the brow
 </details>
 </details>
 </div>
+
 ## ०३ सं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/03_saM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

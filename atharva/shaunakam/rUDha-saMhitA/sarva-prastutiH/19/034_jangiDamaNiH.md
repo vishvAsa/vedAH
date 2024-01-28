@@ -32,6 +32,7 @@ A protective charm addressed to the panacea called A Jangida
 </details>
 </details>
 </div>
+
 ## ०१ जाङ्गिडोऽसि जङ्गिडो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/01_jAngiDo-si_jangiDo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -106,6 +107,7 @@ Jangida, thou art Angiras: thou art a guardian, Jangida. Let Jangida, keep safel
 </details>
 </details>
 </div>
+
 ## ०२ या गृत्स्यस्त्रिपञ्चाशीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/02_yA_gRtsyastripanchAshIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -219,6 +221,7 @@ Dice-witcheries, the fifty-threes, the hundred witchcraft-practi- sers, All thes
 </details>
 </details>
 </div>
+
 ## ०३ अरसं कृत्रिमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/03_arasaM_kRtrimam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -294,6 +297,7 @@ Baffle the loud factitious howl, make impotent the seven decays. As when an arch
 </details>
 </details>
 </div>
+
 ## ०४ कृत्यादूषण एवायमथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/04_kRtyAdUShaNa_evAyamatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -359,6 +363,7 @@ This counteracts the sorceress, this banishes malignity: Then may victorious Jan
 </details>
 </details>
 </div>
+
 ## ०५ स जङ्गिडस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/05_sa_jangiDasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -431,6 +436,7 @@ Let Jangida's protecting might encompass us on every side. Wherewith he quells V
 </details>
 </details>
 </div>
+
 ## ०६ त्रिष्ट्वा देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/06_triShTvA_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -496,6 +502,7 @@ Three times the Gods engendered thee fixt on the surface of the earth; The Brahm
 </details>
 </details>
 </div>
+
 ## ०७ न त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/07_na_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -560,6 +567,7 @@ The ancient plants surpass thee not, nor any herbs of recent days. A potent char
 </details>
 </details>
 </div>
+
 ## ०८ अथोपदान भगवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/08_athopadAna_bhagavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -638,6 +646,7 @@ Then when thou sprangest into life, Jangida of un-measured strength, Indra, O mi
 </details>
 </details>
 </div>
+
 ## ०९ उग्र इत्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/09_ugra_itte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -703,6 +712,7 @@ To thee in truth, O Forest Tree, Indra the mighty One gave strength. Driving awa
 </details>
 </details>
 </div>
+
 ## १० आशरीकं विशरीकम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/10_AsharIkaM_visharIkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

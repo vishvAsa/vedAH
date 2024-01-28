@@ -32,6 +32,7 @@ A prayer to Brahmanaspati for protection from wicked men
 </details>
 </details>
 </div>
+
 ## ०१ योस्मान्ब्रह्मणस्पतेऽदेवो अभिमन्यते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/006_shatrunAshanam/01_yosmAnbrahmaNaspate-devo_abhimanyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,6 +94,7 @@ The godless man whoever plots against us, Brahmanaspati, Thou shalt give up as p
 </details>
 </details>
 </div>
+
 ## ०२ यो नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/006_shatrunAshanam/02_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,6 +160,7 @@ If, Soma, any spiteful man hath aimed at us whose thoughts are kind, Smite with 
 </details>
 </details>
 </div>
+
 ## ०३ यो नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/006_shatrunAshanam/03_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

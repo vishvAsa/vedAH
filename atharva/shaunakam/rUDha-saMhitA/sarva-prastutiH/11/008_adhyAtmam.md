@@ -32,6 +32,7 @@ On the origin of some Gods and the creation of man
 </details>
 </details>
 </div>
+
 ## ०१ यन्मन्युर्जायामावहत्सङ्कल्पस्य गृहादधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/01_yanmanyurjAyAmAvahatsankalpasya_gRhAdadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ When Manyu brought his consort home forth from Sankalpa's dwelling-place, Who we
 </details>
 </details>
 </div>
+
 ## ०२ तपश्चैवास्तां कर्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/02_tapashchaivAstAM_karma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,6 +160,7 @@ Fervour and Action were the two, in depths of the great billowy sea? These were 
 </details>
 </details>
 </div>
+
 ## ०३ दश साकमजायन्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/03_dasha_sAkamajAyanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -220,6 +223,7 @@ Ten Gods before the Gods were born together in the ancient time. Whoso may know 
 </details>
 </details>
 </div>
+
 ## ०४ प्राणापानौ चक्षुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/04_prANApAnau_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -284,6 +288,7 @@ Inbreath and outbreath, eye and ear, decay and freedom from. decay, Spiration up
 </details>
 </details>
 </div>
+
 ## ०५ अजाता आसन्नृतवोऽथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/05_ajAtA_AsannRtavo-tho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -346,6 +351,7 @@ As yet the Seasons were unborn, and Dilator and Prajapati, Both Asvins, Indra, A
 </details>
 </details>
 </div>
+
 ## ०६ तपश्चैवास्तां कर्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/06_tapashchaivAstAM_karma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -409,6 +415,7 @@ Fervour and Action were the two, in depths of the great billowy sea; Fervour spr
 </details>
 </details>
 </div>
+
 ## ०७ येत आसीद्भूमिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/07_yeta_AsIdbhUmiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -475,6 +482,7 @@ He may account himself well versed in ancient time who knows by name. The earth 
 </details>
 </details>
 </div>
+
 ## ०८ कुत इन्द्रः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/08_kuta_indraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -536,6 +544,7 @@ From whom did Indra spring? from whom sprang Soma? whence was Agni born? From wh
 </details>
 </details>
 </div>
+
 ## ०९ इन्द्रादिन्द्रः सोमात्सोमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/09_indrAdindraH_somAtsomo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -597,6 +606,7 @@ Indra from Indra, Soma from Soma, Agni from Agni sprang Tvashtar from Tvashtar w
 </details>
 </details>
 </div>
+
 ## १० ये त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/10_ye_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -659,6 +669,7 @@ Those Gods who were of old, the Ten begotten earlier than the Gods, What world d
 </details>
 </details>
 </div>
+
 ## ११ यदा केशानस्थि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/11_yadA_keshAnasthi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -720,6 +731,7 @@ When he had brought together hair, sinew and bone, marrow and flesh. And to the 
 </details>
 </details>
 </div>
+
 ## १२ कुतः केशान्कुतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/12_kutaH_keshAnkutaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -783,6 +795,7 @@ Whence, from what region did he bring the hair, the sinews, and the bones, Marro
 </details>
 </details>
 </div>
+
 ## १३ संसिचो नाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/13_saMsicho_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -846,6 +859,7 @@ Casters, those Gods were called who brought together all the elements: When they
 </details>
 </details>
 </div>
+
 ## १४ ऊरू पादावष्ठीवन्तौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/14_UrU_pAdAvaShThIvantau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -909,6 +923,7 @@ The thighs, the knee-bones, and the feet, the head, the face, Land both the hand
 </details>
 </details>
 </div>
+
 ## १५ शिरो हस्तावथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/15_shiro_hastAvatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -971,6 +986,7 @@ Head, both the hands, and face, and tongue, and neck, and inter- coastal parts, 
 </details>
 </details>
 </div>
+
 ## १६ यत्तच्छरीरमशयत्सन्धया संहितम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/16_yattachCharIramashayatsandhayA_saMhitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1036,6 +1052,7 @@ What time the might body lay firmly compact with tie and bond, Who gave its colo
 </details>
 </details>
 </div>
+
 ## १७ सर्वे देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/17_sarve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1101,6 +1118,7 @@ All Deities had lent their aid: of this a noble Dame took note, Tsa, the Consort
 </details>
 </details>
 </div>
+
 ## १८ यदा त्वष्टा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/18_yadA_tvaShTA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1166,6 +1184,7 @@ When Tvashtar, Tvashtar's loftier Sire, had bored it out and hollowed it. Gods m
 </details>
 </details>
 </div>
+
 ## १९ स्वप्नो वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/19_svapno_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1228,6 +1247,7 @@ Sleep, specially, Sloth, Nirriti, and deities whose name is Sin, Baldness, old a
 </details>
 </details>
 </div>
+
 ## २० स्तेयं दुष्कृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/20_steyaM_duShkRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1289,6 +1309,7 @@ Theft, evil-doing, and deceit, truth, sacrifice, exalted fame, Strength, princel
 </details>
 </details>
 </div>
+
 ## २१ भूतिश्च वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/21_bhUtishcha_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1351,6 +1372,7 @@ Prosperity and poverty, kindnesses and malignities, Hunger and thirst of every k
 </details>
 </details>
 </div>
+
 ## २२ निन्दाश्च वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/22_nindAshcha_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1417,6 +1439,7 @@ Reproaches, freedom from reproach, all blamable, all blameless deeds, Bounty, be
 </details>
 </details>
 </div>
+
 ## २३ विद्याश्च वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/23_vidyAshcha_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1481,6 +1504,7 @@ All knowledge and all ignorance, each other thing that one may learn, Entered th
 </details>
 </details>
 </div>
+
 ## २४ आनन्दा मोदाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/24_AnandA_modAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1544,6 +1568,7 @@ Enjoyments, pleasures, and delights, gladness, and rapturous ecstasies. Laughter
 </details>
 </details>
 </div>
+
 ## २५ आलापाश्च प्रलापाश्चाभीलापलपश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/25_AlApAshcha_pralApAshchAbhIlApalapashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1608,6 +1633,7 @@ Discourse and conversation, and the shrill-resounding cries of woe, All entered 
 </details>
 </details>
 </div>
+
 ## २६ प्राणापानौ चक्षुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/26_prANApAnau_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1670,6 +1696,7 @@ Inbreath and outbreath, ear and eye, decay and freedom from decay. Breath upward
 </details>
 </details>
 </div>
+
 ## २७ आशिषश्च प्रशिषश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/27_AshiShashcha_prashiShashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1734,6 +1761,7 @@ All earnest wishes, all commands, directions, and admonish- ments. Reflections, 
 </details>
 </details>
 </div>
+
 ## २८ आस्तेयीश्च वास्तेयीश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/28_AsteyIshcha_vAsteyIshcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1806,6 +1834,7 @@ They laid in the abhorrent frame those waters hidden, bright, and thick, Which i
 </details>
 </details>
 </div>
+
 ## २९ अस्थि कृत्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/29_asthi_kRtvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1872,6 +1901,7 @@ Fuel they turned to bone, and then they set light waters in the frame. The molte
 </details>
 </details>
 </div>
+
 ## ३० या आपो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/30_yA_Apo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1933,6 +1963,7 @@ All Waters, all the Deities. Viraj with Brahma at her side: Brahma into the body
 </details>
 </details>
 </div>
+
 ## ३१ सूर्यश्चक्षुर्वातः प्राणम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/31_sUryashchaxurvAtaH_prANam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1997,6 +2028,7 @@ The Sun and Wind formed, separate, the eye and vital breath of man. His other pe
 </details>
 </details>
 </div>
+
 ## ३२ तस्माद्वै विद्वान्पुरुषमिदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/32_tasmAdvai_vidvAnpuruShamidam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2060,6 +2092,7 @@ Therefore whoever knoweth man regardeth him as Brahman's self: For all the Deiti
 </details>
 </details>
 </div>
+
 ## ३३ प्रथमेन प्रमारेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/33_prathamena_pramAreNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2127,6 +2160,7 @@ At his first death he goeth hence, asunder, in three separate parts. He goeth yo
 </details>
 </details>
 </div>
+
 ## ३४ अप्सु स्तीमासु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/008_adhyAtmam/34_apsu_stImAsu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

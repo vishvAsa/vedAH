@@ -28,6 +28,7 @@ Translated: Henry, 38, 109; Griffith, i. 375.—Cf. Oldenberg, Rigveda i. p. 249
 </details>
 </details>
 </div>
+
 ## ०१ ध्रुवं ध्रुवेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/094_sAMmanasyam/01_dhruvaM_dhruveNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

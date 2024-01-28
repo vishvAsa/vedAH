@@ -28,6 +28,7 @@ Translated: Henry, 46, 125; Griffith, i. 384.
 </details>
 </details>
 </div>
+
 ## ०१ आ मन्द्रैरिन्द्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/117_shatrunivAraNam/01_A_mandrairindra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

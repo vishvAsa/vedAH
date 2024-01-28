@@ -32,6 +32,7 @@ A charm against rheumatism (vishkondha)
 </details>
 </details>
 </div>
+
 ## ०१ कर्शफस्य विशफस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/01_karshaphasya_vishaphasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ Heaven is the sire, the mother Earth, of Karsapha and Visapha. As ye have brough
 </details>
 </details>
 </div>
+
 ## ०२ अश्रेष्माणो अधारयन्तथा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/02_ashreShmANo_adhArayantathA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ The bands hold fast without a knot: this is the way that Manu- used. I make Vish
 </details>
 </details>
 </div>
+
 ## ०३ पिशङ्गे सूत्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/03_pishange_sUtre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -244,6 +247,7 @@ Then to a tawny-coloured string the wise and skilful bind a brush. Let bandages 
 </details>
 </details>
 </div>
+
 ## ०४ येना श्रवस्यवश्चरथ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/04_yenA_shravasyavashcharatha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -301,6 +305,7 @@ Ye who move active in your strength like Gods with Asuras' magic powers, Even as
 </details>
 </details>
 </div>
+
 ## ०५ दुष्ट्यै हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/05_duShTyai_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -370,6 +375,7 @@ Yea, I will chide thee to thy shame, I will disgrace the Kabava. Under our impra
 </details>
 </details>
 </div>
+
 ## ०६ एकशतं विष्कन्धानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/06_ekashataM_viShkandhAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

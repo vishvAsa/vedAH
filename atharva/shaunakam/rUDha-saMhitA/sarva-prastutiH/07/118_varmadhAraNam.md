@@ -28,6 +28,7 @@ Translated: Henry, 46, 125; Griffith, i. 384.
 </details>
 </details>
 </div>
+
 ## ०१ मर्माणि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/118_varmadhAraNam/01_marmANi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

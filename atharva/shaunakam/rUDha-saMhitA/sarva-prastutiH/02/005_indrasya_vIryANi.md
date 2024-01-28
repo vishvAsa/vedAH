@@ -32,6 +32,7 @@ Invitation to, and praise of Indra
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्र जुषस्व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/01_indra_juShasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -107,6 +108,7 @@ Indra, be gracious, drive thou forth, come, Hero, with thy two bay steeds. Taste
 </details>
 </details>
 </div>
+
 ## ०२ इन्द्र जठरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/02_indra_jaTharam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -182,6 +184,7 @@ O Indra, even as one athirst, fill thee with meath as 'twere from heaven. Sweet-
 </details>
 </details>
 </div>
+
 ## ०३ इन्द्रस्तुराषाण्मित्रो वृत्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/03_indrasturAShANmitro_vRtram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -261,6 +264,7 @@ Swift-conquering Indra, Mitra like, smote, as a Yati, Vritra dead. Like Bhrigu h
 </details>
 </details>
 </div>
+
 ## ०४ आ त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/04_A_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -350,6 +354,7 @@ O Indra, let the juices enter thee. Fill full thy belly, sate thee, mighty one! 
 </details>
 </details>
 </div>
+
 ## ०५ इन्द्रस्य नु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/05_indrasya_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -419,6 +424,7 @@ Now will I tell the manly deeds of Indra, the first that he achieved, the thunde
 </details>
 </details>
 </div>
+
 ## ०६ अहन्नहिं पर्वते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/06_ahannahiM_parvate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -483,6 +489,7 @@ He slew the Dragon lying on the mountain: his heavenly bolt of thunder Tvashtar 
 </details>
 </details>
 </div>
+
 ## ०७ वृषायमाणो अवृणीत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/07_vRShAyamANo_avRNIta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -28,6 +28,7 @@ Translated: Griffith, i. 297.
 </details>
 </details>
 </div>
+
 ## ०१ अश्वत्थो देवसदनस्तृतीयस्यामितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/01_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -88,6 +89,7 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 </details>
 </details>
 </div>
+
 ## ०२ हिरण्ययी नौरचरद्धिरण्यबन्धना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/02_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -153,6 +155,7 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold. T
 </details>
 </details>
 </div>
+
 ## ०३ गर्भो अस्योषधीनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/03_garbho_asyoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

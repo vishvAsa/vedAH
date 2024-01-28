@@ -32,6 +32,7 @@ An epithalamian charm to ensure the birth of a boy
 </details>
 </details>
 </div>
+
 ## ०१ समीमश्वत्थ आरूढस्तत्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/01_samImashvattha_ArUDhastatra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ Asvattha on the Sami-tree. There a male birth is certified. There is the finding
 </details>
 </details>
 </div>
+
 ## ०२ पुंसि वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/02_puMsi_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ The father sows the genial seed, the woman tends and fosters it. This is the fin
 </details>
 </details>
 </div>
+
 ## ०३ प्रजापतिरनुमतिः सिनीवाल्यचीक्लृपत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/03_prajApatiranumatiH_sinIvAlyachIklRpat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

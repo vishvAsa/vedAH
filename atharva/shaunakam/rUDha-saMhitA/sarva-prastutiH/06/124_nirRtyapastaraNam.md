@@ -28,6 +28,7 @@ Translated: Ludwig, p. 498; Griffith, i. 314.
 </details>
 </details>
 </div>
+
 ## ०१ दिवो नु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/01_divo_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ From the high firmament, yea, out of heaven a water-drop with dew on me hath fal
 </details>
 </details>
 </div>
+
 ## ०२ यदि वृक्षादभ्यपप्तत्पलम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/02_yadi_vRxAdabhyapaptatpalam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ If from a tree that fruit hath fallen downward if, aught from air that is vayu. 
 </details>
 </details>
 </div>
+
 ## ०३ अभ्यञ्जनं सुरभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/03_abhyanjanaM_surabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

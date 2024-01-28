@@ -32,6 +32,7 @@ A prayer for preservation from mental sin and evil promptings
 </details>
 </details>
 </div>
+
 ## ०१ परोऽपेहि मनस्पाप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence 
 </details>
 </details>
 </div>
+
 ## ०२ अवशसा निःशसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,6 +175,7 @@ Whatever wrong we have committed, sleeping or waking, by ill-wish, dislike, or s
 </details>
 </details>
 </div>
+
 ## ०३ यदिन्द्र ब्रह्मणस्पतेऽपि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

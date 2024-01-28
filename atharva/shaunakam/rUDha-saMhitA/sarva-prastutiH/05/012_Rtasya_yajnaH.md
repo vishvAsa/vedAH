@@ -28,6 +28,7 @@ An Apri or propitiatory hymn
 </details>
 </details>
 </div>
+
 ## ०१ समिद्धो अद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/01_samiddho_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ Thou in the house of man this day enkindled worshippest Gods as God, O Jatavedas
 </details>
 </details>
 </div>
+
 ## ०२ तनूनपात्पथ ऋतस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/02_tanUnapAtpatha_Rtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ Tanunapat, fair-tongued! with sweet meath balming the baths and ways of Order, m
 </details>
 </details>
 </div>
+
 ## ०३ आजुह्वान ईड्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/03_AjuhvAna_IDyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,6 +230,7 @@ Invoked, deserving prayer and adoration, O Agni, come accor dant with the Vasus.
 </details>
 </details>
 </div>
+
 ## ०४ प्राचीनं बर्हिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/04_prAchInaM_barhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -292,6 +296,7 @@ By rule the Sacred Grass is scattered eastward, a robe to clothe this earth when
 </details>
 </details>
 </div>
+
 ## ०५ व्यचस्वतीरुर्विया वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/05_vyachasvatIrurviyA_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -356,6 +361,7 @@ Let the expansive Doors be widely opened, like wives who deck their beauty for t
 </details>
 </details>
 </div>
+
 ## ०६ आ सुष्वयन्ती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/06_A_suShvayantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -421,6 +427,7 @@ Pouring sweet dews let holy Night and Morning, each close to each, be seated at 
 </details>
 </details>
 </div>
+
 ## ०७ दैव्या होतारा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/07_daivyA_hotArA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -485,6 +492,7 @@ Come the first two celestial sweet-voiced Hotars, arranging sacrifice for man to
 </details>
 </details>
 </div>
+
 ## ०८ आ नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/08_A_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -556,6 +564,7 @@ Let Bharati come quickly to our worship and Ila showing like a human being. So l
 </details>
 </details>
 </div>
+
 ## ०९ य इमे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/09_ya_ime.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -619,6 +628,7 @@ Hotar more skilled in sacrifice, bring hither with speed to-day God Tvashar, tho
 </details>
 </details>
 </div>
+
 ## १० उपावसृज त्मन्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/10_upAvasRja_tmanyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -685,6 +695,7 @@ Bring thou to our oblations which thou balmest the companies of Gods in ordered 
 </details>
 </details>
 </div>
+
 ## ११ सद्यो जातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/11_sadyo_jAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

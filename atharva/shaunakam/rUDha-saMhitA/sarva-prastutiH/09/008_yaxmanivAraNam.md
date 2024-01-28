@@ -33,6 +33,7 @@ A charm for the cure of various diseases connected with Consumption
 </details>
 </details>
 </div>
+
 ## ०१ शीर्षक्तिं शीर्षामयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/01_shIrShaktiM_shIrShAmayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Each pain and ache that racks the head, earache, and erysipelas,. All malady tha
 </details>
 </details>
 </div>
+
 ## ०२ कर्णाभ्यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/02_karNAbhyAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ From both thine ears, from parts thereof, thine earache, and the throbbing pain,
 </details>
 </details>
 </div>
+
 ## ०३ यस्य हेतोः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/03_yasya_hetoH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -220,6 +223,7 @@ So that Consumption may depart forth from thine ears and from. thy mouth, All ma
 </details>
 </details>
 </div>
+
 ## ०४ यः कृणोति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/04_yaH_kRNoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -284,6 +288,7 @@ The malady that makes one deaf, the malady that makes one blind, All malady that
 </details>
 </details>
 </div>
+
 ## ०५ अङ्गभेदमङ्गज्वरं विश्वाङ्ग्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/05_angabhedamangajvaraM_vishvAngyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -347,6 +352,7 @@ The throbbing pain in all thy limbs that rends thy frame with fever-throes, All 
 </details>
 </details>
 </div>
+
 ## ०६ यस्य भीमः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/06_yasya_bhImaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -409,6 +415,7 @@ The malady whose awful look makes a man quiver with alarm, Fever whom every Autu
 </details>
 </details>
 </div>
+
 ## ०७ य ऊरू
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/07_ya_UrU.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -471,6 +478,7 @@ Disease that creeps about the thighs and, after, reaches both the groins, Consum
 </details>
 </details>
 </div>
+
 ## ०८ यदि कामादपकामाद्धृदयाज्जायते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/08_yadi_kAmAdapakAmAddhRdayAjjAyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -531,6 +539,7 @@ If the disease originates from love, from hatred, from the heart, Forth from the
 </details>
 </details>
 </div>
+
 ## ०९ हरिमाणं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/09_harimANaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -596,6 +605,7 @@ The yellow Jaundice from thy limbs, and Colic from the parts within, And Phthisi
 </details>
 </details>
 </div>
+
 ## १० आसो बलासो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/10_Aso_balAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -656,6 +666,7 @@ Let wasting malady turn to dust, become the water of disease. I have evoked the 
 </details>
 </details>
 </div>
+
 ## ११ बहिर्बिलं निर्द्रवतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/11_bahirbilaM_nirdravatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -721,6 +732,7 @@ Forth from the hollow let it run, and rumbling sounds from thine inside. I have 
 </details>
 </details>
 </div>
+
 ## १२ उदरात्ते क्लोम्नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/12_udarAtte_klomno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -784,6 +796,7 @@ Forth from thy belly and thy lungs, forth from thy navel and thy heart. I have e
 </details>
 </details>
 </div>
+
 ## १३ याः सीमानम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/13_yAH_sImAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -848,6 +861,7 @@ The penetrating stabs of pain which rend asunder crown and head, Let them depart
 </details>
 </details>
 </div>
+
 ## १४ या हृदयमुपर्षन्त्यनुतन्वन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/14_yA_hRdayamuparShantyanutanvanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -911,6 +925,7 @@ The pangs that stab the heart and reach the breast-bone and connected parts, Let
 </details>
 </details>
 </div>
+
 ## १५ याः पार्श्वे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/15_yAH_pArshve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -972,6 +987,7 @@ The stabs that penetrate the sides and pierce their way along the ribs, Let them
 </details>
 </details>
 </div>
+
 ## १६ यास्तिरश्चीः उपर्षन्त्यर्षणीर्वक्षणासु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/16_yAstirashchIH_uparShantyarShaNIrvaxaNAsu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1033,6 +1049,7 @@ The penetrating pangs that pierce thy stomach as they shoot across, Let them dep
 </details>
 </details>
 </div>
+
 ## १७ या गुदा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/17_yA_gudA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1097,6 +1114,7 @@ The pains that through the bowels creep, disordering the inward parts, Let them 
 </details>
 </details>
 </div>
+
 ## १८ या मज्ज्ञो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/18_yA_majjno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1159,6 +1177,7 @@ The pains that suck the marrow out, and rend and tear the bones apart, May they 
 </details>
 </details>
 </div>
+
 ## १९ ये अङ्गानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/19_ye_angAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1221,6 +1240,7 @@ Consumptions with their Colic pains which make thy limbs insensible I have evoke
 </details>
 </details>
 </div>
+
 ## २० विसल्पस्य विद्रधस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/20_visalpasya_vidradhasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1283,6 +1303,7 @@ Of piercing pain, of abscesses, rheumatic ache, ophthalmia-- I have evoked the p
 </details>
 </details>
 </div>
+
 ## २१ पादाभ्यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/21_pAdAbhyAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1347,6 +1368,7 @@ I have dispelled the piercing pains from feet, knees, hips, and hinder parts, An
 </details>
 </details>
 </div>
+
 ## २२ सं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/22_saM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

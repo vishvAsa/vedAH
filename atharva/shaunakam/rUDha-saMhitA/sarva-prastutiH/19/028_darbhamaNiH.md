@@ -35,6 +35,7 @@ A charm for the destruction of enemies
 </details>
 </details>
 </div>
+
 ## ०१ इमं बध्नामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/01_imaM_badhnAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ On thee I bind this Amulet for lengthened life and brilliancy. The rival-quellin
 </details>
 </details>
 </div>
+
 ## ०२ द्विषतस्तापयन्हृदः शत्रूणाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/02_dviShatastApayanhRdaH_shatrUNAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -180,6 +182,7 @@ Burning the spirit of the foe, vexing the heart of enemies. Darbha, on every sid
 </details>
 </details>
 </div>
+
 ## ०३ घर्म इवाभितपन्दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/03_gharma_ivAbhitapandarbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -256,6 +259,7 @@ O Darbha, burning round like heat, consuming foes, O Amulet,. Like Indra rending
 </details>
 </details>
 </div>
+
 ## ०४ भिन्द्धि दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/04_bhinddhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -322,6 +326,7 @@ Cleave through. O Darbha, Amulet, my foes', mine adversaries'. heart. Rise thou 
 </details>
 </details>
 </div>
+
 ## ०५ भिन्द्धि दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/05_bhinddhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -385,6 +390,7 @@ Cleave thou my rivals, Darbha, cleave the men who fain would, fight with me. Cle
 </details>
 </details>
 </div>
+
 ## ०६ छिन्द्धि दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/06_Chinddhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -444,6 +450,7 @@ Wound thou, my rivals, Darbha, etc. (as in 5, substituting. 'wound' for cleave.)
 </details>
 </details>
 </div>
+
 ## ०७ वृश्च दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/07_vRshcha_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -503,6 +510,7 @@ Tear thou my rivals, Darbha, etc.
 </details>
 </details>
 </div>
+
 ## ०८ कृन्त दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/08_kRnta_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -565,6 +573,7 @@ How thou my rivals, Darbha, etc.
 </details>
 </details>
 </div>
+
 ## ०९ पिंश दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/09_piMsha_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -628,6 +637,7 @@ Carve thou my rivals, Darbha, etc.
 </details>
 </details>
 </div>
+
 ## १० विध्य दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/10_vidhya_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

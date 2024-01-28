@@ -32,6 +32,7 @@ A prayer for the overthrow of enemies
 </details>
 </details>
 </div>
+
 ## ०१ अयमग्निः सत्पतिर्वृद्धवृष्णो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

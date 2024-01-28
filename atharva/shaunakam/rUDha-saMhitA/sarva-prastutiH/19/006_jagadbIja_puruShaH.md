@@ -28,6 +28,7 @@ The purusha-Sukta, on the mystical Sacrifice of Purusha
 </details>
 </details>
 </div>
+
 ## ०१ सहस्रबाहुः पुरुषः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/01_sahasrabAhuH_puruShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ Purusha hath a thousand arms, a thousand eyes, a thousand feet. On every side pe
 </details>
 </details>
 </div>
+
 ## ०२ त्रिभिः पद्भिर्द्यामरोहत्पादस्येहाभवत्पुनः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/02_tribhiH_padbhirdyAmarohatpAdasyehAbhavatpunaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -177,6 +179,7 @@ He with three quarters rose to heaven here reappeared a fourth of him. Thence he
 </details>
 </details>
 </div>
+
 ## ०३ तावन्तो अस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/03_tAvanto_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -253,6 +256,7 @@ So mighty is his grandeur, yea, greater than this is Purusha. All creatures are 
 </details>
 </details>
 </div>
+
 ## ०४ पुरुष एवेदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/04_puruSha_evedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -323,6 +327,7 @@ Purusha is in truth this All, what hath been and what yet shall; be Lord, too, o
 </details>
 </details>
 </div>
+
 ## ०५ यत्पुरुषं व्यदधुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/05_yatpuruShaM_vyadadhuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -396,6 +401,7 @@ When they divided Purusha how many portions did they make? What was his mouth? w
 </details>
 </details>
 </div>
+
 ## ०६ ब्राह्मणोऽस्य मुखमासीद्बाहू
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/06_brAhmaNo-sya_mukhamAsIdbAhU.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -459,6 +465,7 @@ The Brahman was his mouth, of both his arms was the Rajanya made. His waist beca
 </details>
 </details>
 </div>
+
 ## ०७ चन्द्रमा मनसो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/07_chandramA_manaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -525,6 +532,7 @@ The Moon was gendered from his mind, and from his eye the Sun had birth. Indra a
 </details>
 </details>
 </div>
+
 ## ०८ नाभ्या आसीदन्तरिक्षम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/08_nAbhyA_AsIdantarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -588,6 +596,7 @@ Forth from his navel come mid-air; the sky was fashioned from his head. Earth fr
 </details>
 </details>
 </div>
+
 ## ०९ विराडग्रे समभवद्विराजो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/09_virADagre_samabhavadvirAjo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -652,6 +661,7 @@ In the beginning rose Viraj: Purusha from Viraj was born. As soon as he was born
 </details>
 </details>
 </div>
+
 ## १० यत्पुरुषेण हविषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/10_yatpuruSheNa_haviShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -715,6 +725,7 @@ When Gods performed the sacrifice with Purusha as their offering. Spring was the
 </details>
 </details>
 </div>
+
 ## ११ तं यज्ञम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/11_taM_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -781,6 +792,7 @@ That sacrifice, first-born Purusha, they hallowed with the sprink- led Rains. Th
 </details>
 </details>
 </div>
+
 ## १२ तस्मादश्वा अजायन्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/12_tasmAdashvA_ajAyanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -849,6 +861,7 @@ From it were horses born, from it all creatures with two rows of teeth. From it 
 </details>
 </details>
 </div>
+
 ## १३ तस्माद्यज्ञात्सर्वहुत ऋचः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/13_tasmAdyajnAtsarvahuta_RchaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -918,6 +931,7 @@ From that great general sacrifice Richas and Sama hymns were born; Therefrom the
 </details>
 </details>
 </div>
+
 ## १४ तस्माद्यज्ञात्सर्वहुतः सम्भृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/14_tasmAdyajnAtsarvahutaH_sambhRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -985,6 +999,7 @@ From that great general sacrifice the dripping fat was gathered up: It formed th
 </details>
 </details>
 </div>
+
 ## १५ सप्तास्यासन्परिधयस्त्रिः सप्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/15_saptAsyAsanparidhayastriH_sapta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1050,6 +1065,7 @@ Seven fencing-logs had he, thrice seven layers of fuel were prepared. When, offe
 </details>
 </details>
 </div>
+
 ## १६ मूर्ध्नो देवस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/16_mUrdhno_devasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

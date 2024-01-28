@@ -28,6 +28,7 @@ Translated: Ludwig, p. 455; Griffith, i. 310.
 </details>
 </details>
 </div>
+
 ## ०१ यद्धस्ताभ्यां चकृम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,6 +109,7 @@ If we have sinned with both our hands, desiring to take the host of dice for our
 </details>
 </details>
 </div>
+
 ## ०२ उग्रम्पश्ये राष्ट्रभृत्किल्बिषाणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/02_ugrampashye_rAShTrabhRtkilbiShANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -189,6 +191,7 @@ Stern viewers of their sins who rule the people, forgive us what hash happened a
 </details>
 </details>
 </div>
+
 ## ०३ यस्मा ऋणम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/03_yasmA_RNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

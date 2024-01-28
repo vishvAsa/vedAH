@@ -32,6 +32,7 @@ A benediction on a newly consecrated king
 </details>
 </details>
 </div>
+
 ## ०१ इममिन्द्र वर्धय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/01_imamindra_vardhaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ Exalt and strengthen this my Prince, O Indra, Make him sole lord and leader of t
 </details>
 </details>
 </div>
+
 ## ०२ एमं भज
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/02_emaM_bhaja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,6 +175,7 @@ Give him a share in village, kine, and horses, and leave his enemy without a por
 </details>
 </details>
 </div>
+
 ## ०३ अयमस्तु धनपतिर्धनानामयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/03_ayamastu_dhanapatirdhanAnAmayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -238,6 +241,7 @@ Let him be treasure-lord of goodly treasures, let him as King be master of the p
 </details>
 </details>
 </div>
+
 ## ०४ अस्मै द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/04_asmai_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -308,6 +312,7 @@ Like milch-kine yielding milk for warm libations, pour, Heaven and Earth! on him
 </details>
 </details>
 </div>
+
 ## ०५ युनज्मि त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/05_yunajmi_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -373,6 +378,7 @@ I join in league with thee victorious Indra, with whom men conquer and are ne'er
 </details>
 </details>
 </div>
+
 ## ०६ उत्तरस्त्वमधरे ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/06_uttarastvamadhare_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -440,6 +446,7 @@ Supreme art thou, beneath thee are thy rivals, and all, O King, who were thine a
 </details>
 </details>
 </div>
+
 ## ०७ सिंहप्रतीको विशो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/07_siMhapratIko_visho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

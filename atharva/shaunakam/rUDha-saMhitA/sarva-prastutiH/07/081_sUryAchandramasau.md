@@ -32,6 +32,7 @@ A hymn to the New Moon
 </details>
 </details>
 </div>
+
 ## ०१ पूर्वापरं चरतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/01_pUrvAparaM_charato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -110,6 +111,7 @@ Forward and backward by their wondrous power move these two youths, disporting, 
 </details>
 </details>
 </div>
+
 ## ०२ नवोनवो भवसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/02_navonavo_bhavasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -177,6 +179,7 @@ Thou art re-born for ever new: thou marchest, ensign of days, in forefront of th
 </details>
 </details>
 </div>
+
 ## ०३ सोमस्यांशो युधाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/03_somasyAMsho_yudhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -246,6 +249,7 @@ O spray of Soma, Lord of Wars! all-perfect verily art thou. Make me all-perfect,
 </details>
 </details>
 </div>
+
 ## ०४ दर्शोसि दर्शतोसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/04_darshosi_darshatosi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -309,6 +313,7 @@ Thou art the New Moon, fair to see, thou art complete in every part. May I be pe
 </details>
 </details>
 </div>
+
 ## ०५ यो३ऽस्मान्द्वेष्टि यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/05_yo3-smAndveShTi_yam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -378,6 +383,7 @@ Inflate thee with his vital breath who hathes us and whom we detest. May we grow
 </details>
 </details>
 </div>
+
 ## ०६ यं देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/06_yaM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

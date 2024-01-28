@@ -32,6 +32,7 @@ A hymn to the Full Moon
 </details>
 </details>
 </div>
+
 ## ०१ पूर्णा पश्चादुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/080_pUrNimA/01_pUrNA_pashchAduta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ Full in the front, full rearward, from the middle the Full Moon's Night hath con
 </details>
 </details>
 </div>
+
 ## ०२ वृषभं वाजिनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/080_pUrNimA/02_vRShabhaM_vAjinam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ To him, the Full Moon's mighty Bull, we pay our solemn sacri- fice. May he besto
 </details>
 </details>
 </div>
+
 ## ०३ प्रजापते न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/080_pUrNimA/03_prajApate_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -241,6 +244,7 @@ No one but thou, Prajapati, none beside thee, pervading, gave to all these forms
 </details>
 </details>
 </div>
+
 ## ०४ पौर्णमासी प्रथमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/080_pUrNimA/04_paurNamAsI_prathamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

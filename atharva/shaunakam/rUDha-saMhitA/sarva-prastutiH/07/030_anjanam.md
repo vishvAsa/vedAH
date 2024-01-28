@@ -32,6 +32,7 @@ A charm to be used when the eyes are anointed
 </details>
 </details>
 </div>
+
 ## ०१ स्वाक्तं मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/030_anjanam/01_svAktaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

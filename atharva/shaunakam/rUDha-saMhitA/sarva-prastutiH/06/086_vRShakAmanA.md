@@ -32,6 +32,7 @@ A glorification of a newly consecrated King
 </details>
 </details>
 </div>
+
 ## ०१ वृषेन्द्रस्य वृषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/086_vRShakAmanA/01_vRShendrasya_vRShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ This is the Lord of Indra, this the Lord of Heaven, the Lord of Earth, The Lord 
 </details>
 </details>
 </div>
+
 ## ०२ समुद्र ईशे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/086_vRShakAmanA/02_samudra_Ishe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -157,6 +159,7 @@ The Sea is regent of the floods, Agni is ruler of the land, The Moon is regent o
 </details>
 </details>
 </div>
+
 ## ०३ सम्राडस्यसुराणां ककुन्मनुष्याणाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/086_vRShakAmanA/03_samrADasyasurANAM_kakunmanuShyANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

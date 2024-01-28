@@ -31,6 +31,7 @@ Speculations on the Supreme Being and Cosmogonical and theological subjects
 </details>
 </details>
 </div>
+
 ## ०१ यो भूतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/01_yo_bhUtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,6 +94,7 @@ Worship to loftiest Brahma, Lord of what hath been and what shall be, To him who
 </details>
 </details>
 </div>
+
 ## ०२ स्कम्भेनेमे विष्टभिते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/02_skambheneme_viShTabhite.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,6 +160,7 @@ Upheld by Skambha's power these two, the heaven and the earth, stand fast. Skamb
 </details>
 </details>
 </div>
+
 ## ०३ तिस्रो ह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/03_tisro_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -231,6 +234,7 @@ Three generations have gone by and vanished and others near have entered into su
 </details>
 </details>
 </div>
+
 ## ०४ द्वादश प्रधयश्चक्रमेकम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/04_dvAdasha_pradhayashchakramekam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -299,6 +303,7 @@ One is the wheel, the tires are twelve in number, the naves are three What man h
 </details>
 </details>
 </div>
+
 ## ०५ इदं सवितर्वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/05_idaM_savitarvi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -366,6 +371,7 @@ Discern thou this, O Savitar. Six are the twins, one singly born. They claim rel
 </details>
 </details>
 </div>
+
 ## ०६ आविः सन्निहितम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/06_AviH_sannihitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -427,6 +433,7 @@ Though manifest, it lies concealed in the vast place they call the old: Therein 
 </details>
 </details>
 </div>
+
 ## ०७ एकचक्रं वर्तत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/07_ekachakraM_vartata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -490,6 +497,7 @@ Up, eastward downward in the west, 'it rolleth, with countless elements, one-whe
 </details>
 </details>
 </div>
+
 ## ०८ पञ्चवाही वहत्यग्रमेषाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/08_panchavAhI_vahatyagrameShAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -557,6 +565,7 @@ cases. Ppp. has *asya* instead of *eṣām* at end of **a**.
 </details>
 </details>
 </div>
+
 ## ०९ तिर्यग्बिलश्चमस ऊर्ध्वबुध्नस्तस्मिन्यशो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/09_tiryagbilashchamasa_Urdhvabudhnastasminyasho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -624,6 +633,7 @@ The bowl with mouth inclined and bottom upward holds stored within it every form
 </details>
 </details>
 </div>
+
 ## १० या पुरस्ताद्युज्यते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/10_yA_purastAdyujyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -690,6 +700,7 @@ The Verse employed at opening and conclusion, the Verse employed in each and eve
 </details>
 </details>
 </div>
+
 ## ११ यदेजति पतति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/11_yadejati_patati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -755,6 +766,7 @@ That which hath power of motion, that which flies, or stands, which breathes or 
 </details>
 </details>
 </div>
+
 ## १२ अनन्तं विततम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/12_anantaM_vitatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -820,6 +832,7 @@ The infinite to every side extended, the finite and the infinite around us, Thes
 </details>
 </details>
 </div>
+
 ## १३ प्रजापतिश्चरति गर्भे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/13_prajApatishcharati_garbhe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -893,6 +906,7 @@ Within the womb Prajapati is moving: he, though unseen, is born in sundry places
 </details>
 </details>
 </div>
+
 ## १४ ऊर्ध्वं भरन्तमुदकम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/14_UrdhvaM_bharantamudakam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -954,6 +968,7 @@ All men behold him with the eye, but with the mind they know not him. Holding al
 </details>
 </details>
 </div>
+
 ## १५ दूरे पूर्णेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/15_dUre_pUrNena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1017,6 +1032,7 @@ With the full vase he dwells afar, is left far off what time it fails, A mighty 
 </details>
 </details>
 </div>
+
 ## १६ यतः सूर्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/16_yataH_sUrya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1082,6 +1098,7 @@ That, whence the Sun arises, that whither he goes to take his rest, That verily 
 </details>
 </details>
 </div>
+
 ## १७ ये अर्वाङ्मध्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/17_ye_arvA~Nmadhya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1150,6 +1167,7 @@ Those who in recent times, midmost, or ancient, on all sides. greet the sage who
 </details>
 </details>
 </div>
+
 ## १८ सहस्राह्ण्यं वियतावस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/18_sahasrAhNyaM_viyatAvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1213,6 +1231,7 @@ This gold-hued Haiisa's wings, flying to heaven, spread o'er a thousand days' co
 </details>
 </details>
 </div>
+
 ## १९ सत्येनोर्ध्वस्तपति ब्रह्मणार्वाङ्वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/19_satyenordhvastapati_brahmaNArvA~Nvi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1273,6 +1292,7 @@ By truth he blazes up aloft by Brahma, he looks down below: He breathes obliquel
 </details>
 </details>
 </div>
+
 ## २० यो वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/20_yo_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1334,6 +1354,7 @@ The sage who knows the kindling-sticks whence by attrition wealth is drawn, Will
 </details>
 </details>
 </div>
+
 ## २१ अपादग्रे समभवत्सो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/21_apAdagre_samabhavatso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1396,6 +1417,7 @@ Footless at first was he produced, footless he brought celestial light. Four-foo
 </details>
 </details>
 </div>
+
 ## २२ भोग्यो भवदथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/22_bhogyo_bhavadatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1461,6 +1483,7 @@ Useful will he become, and then will he consume great store of food The man who 
 </details>
 </details>
 </div>
+
 ## २३ सनातनमेनमाहुरुताद्य स्यात्पुनर्णवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/23_sanAtanamenamAhurutAdya_syAtpunarNavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1523,6 +1546,7 @@ Him too they call eternal; he may become new again to-day. Day and Night reprodu
 </details>
 </details>
 </div>
+
 ## २४ शतं सहस्रमयुतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/24_shataM_sahasramayutam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1588,6 +1612,7 @@ A hundred, thousand, myriad, yea a hundred million stores of wealth that passes 
 </details>
 </details>
 </div>
+
 ## २५ बालादेकमणीयस्कमुतैकं नेव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/25_bAlAdekamaNIyaskamutaikaM_neva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1652,6 +1677,7 @@ One is yet finer than a hair, one is not even visible. And hence the Deity who g
 </details>
 </details>
 </div>
+
 ## २६ इयं कल्याण्यजरा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/26_iyaM_kalyANyajarA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1717,6 +1743,7 @@ This fair one is untouched by age, immortal in a mortal's house. He for whom she
 </details>
 </details>
 </div>
+
 ## २७ त्वं स्त्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/27_tvaM_strI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1782,6 +1809,7 @@ Thou art a woman, and a man; thou art a damsel and a boy. Grown old thou tottere
 </details>
 </details>
 </div>
+
 ## २८ उतैषां पितोत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/28_utaiShAM_pitota.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1848,6 +1876,7 @@ Either the sire or son of these, the eldest or the youngest child. As sole God d
 </details>
 </details>
 </div>
+
 ## २९ पूर्णात्पूर्णमुदचति पूर्णम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/29_pUrNAtpUrNamudachati_pUrNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1916,6 +1945,7 @@ Forth from the full he lifts the full, the full he sprinkles with the full. Now 
 </details>
 </details>
 </div>
+
 ## ३० एषा सनत्नी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/30_eShA_sanatnI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1979,6 +2009,7 @@ Brought forth in olden time, the everlasting, high over all that is was she, the
 </details>
 </details>
 </div>
+
 ## ३१ अविर्वै नाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/31_avirvai_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2042,6 +2073,7 @@ Known by the name of Guardian Grace the Deity sits girt by Right. The trees have
 </details>
 </details>
 </div>
+
 ## ३२ अन्ति सन्तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/32_anti_santam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2105,6 +2137,7 @@ When he is near she leaves him not, she sees him not though he is near. Behold t
 </details>
 </details>
 </div>
+
 ## ३३ अपूर्वेणेषिता वाचस्ता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/33_apUrveNeShitA_vAchastA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2166,6 +2199,7 @@ Voices that never were before emitted speak as fitteth them. Whither they go and
 </details>
 </details>
 </div>
+
 ## ३४ यत्र देवाश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/34_yatra_devAshcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2229,6 +2263,7 @@ I ask thee where the waters' flower by wondrous magic art was placed, Thereon th
 </details>
 </details>
 </div>
+
 ## ३५ येभिर्वात इषितः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/35_yebhirvAta_iShitaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2299,6 +2334,7 @@ Who gave command unto the wind that blowet! Who ranged the five united heavenly 
 </details>
 </details>
 </div>
+
 ## ३६ इमामेषां पृथिवीम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/36_imAmeShAM_pRthivIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2362,6 +2398,7 @@ One God inhabiteth the earth we live on; another hath encom- passed air's mid-re
 </details>
 </details>
 </div>
+
 ## ३७ यो विद्यात्सूत्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/37_yo_vidyAtsUtram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2423,6 +2460,7 @@ The man who knows the drawn-out string on which these crea- tures all are strung
 </details>
 </details>
 </div>
+
 ## ३८ वेदाहं सूत्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/38_vedAhaM_sUtram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2483,6 +2521,7 @@ I know the drawn-out string, the thread whereon these creatures all are strung. 
 </details>
 </details>
 </div>
+
 ## ३९ यदन्तरा द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/39_yadantarA_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2549,6 +2588,7 @@ When Agni passed between the earth and heaven devouring with his flame the all-c
 </details>
 </details>
 </div>
+
 ## ४० अप्स्वासीन्मातरिश्वा प्रविष्टः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/40_apsvAsInmAtarishvA_praviShTaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2612,6 +2652,7 @@ Into the floods had Matarisvan entered, the deities had past in- to the waters. 
 </details>
 </details>
 </div>
+
 ## ४१ उत्तरेणेव गायत्रीममृतेऽधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/41_uttareNeva_gAyatrImamRte-dhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2675,6 +2716,7 @@ Over the Gayatri, above the immortal world he strode away. Those who by Song dis
 </details>
 </details>
 </div>
+
 ## ४२ निवेशनः सङ्गमनो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/42_niveshanaH_sangamano.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2739,6 +2781,7 @@ Luller to rest, and gatherer-up of treasures, Savitar like a God whose laws are 
 </details>
 </details>
 </div>
+
 ## ४३ पुण्डरीकं नवद्वारम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/43_puNDarIkaM_navadvAram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2806,6 +2849,7 @@ Men versed in sacred knowledge know that living Being that abides. In the nine-p
 </details>
 </details>
 </div>
+
 ## ४४ अकामो धीरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/008_jyeShThabrahmavarNanam/44_akAmo_dhIro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

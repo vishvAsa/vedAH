@@ -28,6 +28,7 @@ Translated: Henry, 39, iii; Griffith, i. 376.
 </details>
 </details>
 </div>
+
 ## ०१ असदन्गावः सदनेऽपप्तद्वसतिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/096_shatrunAshanam/01_asadangAvaH_sadane-paptadvasatim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

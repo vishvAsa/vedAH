@@ -32,6 +32,7 @@ A priest's prayer for power and glory
 </details>
 </details>
 </div>
+
 ## ०१ यशसं मेन्द्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ May Indra Maghavan give me name and glory. May Heaven and Earth, this couple, ma
 </details>
 </details>
 </div>
+
 ## ०२ यथेन्द्रो द्यावापृथिव्योर्यशस्वान्यथाप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAnyathApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ Indra from Heaven and Earth receiveth glory among the plants the Waters have the
 </details>
 </details>
 </div>
+
 ## ०३ यशा इन्द्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/03_yashA_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

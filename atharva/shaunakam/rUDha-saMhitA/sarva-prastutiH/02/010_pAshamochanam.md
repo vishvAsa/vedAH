@@ -32,6 +32,7 @@ Absolution and benediction
 </details>
 </details>
 </div>
+
 ## ०१ क्षेत्रियात्त्वा निरृत्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/01_xetriyAttvA_nirRtyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noo
 </details>
 </details>
 </div>
+
 ## ०२ शं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/02_shaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -182,6 +184,7 @@ Gracious to thee be Agni with the Waters, let Soma with the Plants be kind and b
 </details>
 </details>
 </div>
+
 ## ०३ शं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/03_shaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -249,6 +252,7 @@ May kind Wind strengthen thee in air's mid-region, to thee may heaven's four qua
 </details>
 </details>
 </div>
+
 ## ०४ इमा या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/04_imA_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -315,6 +319,7 @@ These Goddesses, four regions of the heavens, on whom the Sun looks kindly, wive
 </details>
 </details>
 </div>
+
 ## ०५ तासु त्वान्तर्जरस्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -379,6 +384,7 @@ For long life, in the midst of these I set thee. Away pass Nirriti, away Consump
 </details>
 </details>
 </div>
+
 ## ०६ अमुक्था यक्ष्माद्दुरितादवद्याद्द्रुहः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/06_amukthA_yaxmAdduritAdavadyAddruhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -448,6 +454,7 @@ Thou hast been freed from Phthisis and from trouble, from shame, and from the sn
 </details>
 </details>
 </div>
+
 ## ०७ अहा अरातिमविदः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -516,6 +523,7 @@ Joy hast thou found, and left ill-will behind thee: thou hast attained the happy
 </details>
 </details>
 </div>
+
 ## ०८ सूर्यमृतं तमसो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

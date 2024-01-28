@@ -28,6 +28,7 @@ Translated: Ludwig, p. 434; Henry, 40, 113; Griffith, i. 377.—Henry gives an e
 </details>
 </details>
 </div>
+
 ## ०१ परि स्तृणीहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/099_vedI/01_pari_stRNIhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

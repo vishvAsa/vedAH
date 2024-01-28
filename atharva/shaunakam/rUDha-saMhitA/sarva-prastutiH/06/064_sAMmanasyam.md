@@ -32,6 +32,7 @@ To promote unanimity in an assembly
 </details>
 </details>
 </div>
+
 ## ०१ सं जानीध्वम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/01_saM_jAnIdhvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Agree and be united: let your minds be all of one accord, Even as the Gods of an
 </details>
 </details>
 </div>
+
 ## ०२ समानो मन्त्रः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/02_samAno_mantraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ The rede is common, common the assembly, common the law, so be their thoughts un
 </details>
 </details>
 </div>
+
 ## ०३ समानी व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/03_samAnI_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

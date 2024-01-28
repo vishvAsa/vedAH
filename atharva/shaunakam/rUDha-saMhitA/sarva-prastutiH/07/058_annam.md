@@ -32,6 +32,7 @@ An invitation to Indra and Varuna
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रावरुणा सुतपाविमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/058_annam/01_indrAvaruNA_sutapAvimam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ True to laws, Indra Varuna, drinkers of the juice, quaff this pressed Soma which
 </details>
 </details>
 </div>
+
 ## ०२ इन्द्रावरुणा मधुमत्तमस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

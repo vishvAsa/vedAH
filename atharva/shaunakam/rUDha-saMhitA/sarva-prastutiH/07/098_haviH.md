@@ -28,6 +28,7 @@ Translated: Henry, 40, 112; Griffith, i. 377.
 </details>
 </details>
 </div>
+
 ## ०१ सं बर्हिरक्तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/098_haviH/01_saM_barhiraktam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

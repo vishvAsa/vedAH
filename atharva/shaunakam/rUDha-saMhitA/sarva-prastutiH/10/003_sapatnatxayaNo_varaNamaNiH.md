@@ -33,6 +33,7 @@ Purusha, Primeval Man or humanity personified
 </details>
 </details>
 </div>
+
 ## ०१ अयं मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/01_ayaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Here is my charm the Varana, slayer of rivals, strong in act. With this grasp th
 </details>
 </details>
 </div>
+
 ## ०२ प्रैणाञ्छृणीहि प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/02_praiNAnChRNIhi_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ Break them in pieces; grasp them and destroy them. This Amu- let shall go before
 </details>
 </details>
 </div>
+
 ## ०३ अयं मणिर्वरणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/03_ayaM_maNirvaraNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,6 +229,7 @@ This charm, this Varana healeth all diseases, bright with a thou- sand eyes and 
 </details>
 </details>
 </div>
+
 ## ०४ अयं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/04_ayaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -289,6 +293,7 @@ This will stay witchcraft wrought for thee, will guard thee from the fear of man
 </details>
 </details>
 </div>
+
 ## ०५ वरणो वारयाता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/05_varaNo_vArayAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -353,6 +358,7 @@ Guard against ill of varied kind is Varana this heavenly Plant. The Gods have st
 </details>
 </details>
 </div>
+
 ## ०६ स्वप्नं सुप्त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/06_svapnaM_suptvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -420,6 +426,7 @@ If in thy sleep thou see an evil vision, oft as the beast repeats his loathed ap
 </details>
 </details>
 </div>
+
 ## ०७ अरात्यास्त्वा निरृत्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/07_arAtyAstvA_nirRtyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -481,6 +488,7 @@ From Mischief, from Malignity, from incantation, from alarm, From death, from st
 </details>
 </details>
 </div>
+
 ## ०८ यन्मे माता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/08_yanme_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -543,6 +551,7 @@ Each sinful act that we have done,--my mother, father, and my friends,-- From al
 </details>
 </details>
 </div>
+
 ## ०९ वरणेन प्रव्यथिता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/09_varaNena_pravyathitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -605,6 +614,7 @@ Affrighted by the Varana let my rivals near akin to me Pass to the region void o
 </details>
 </details>
 </div>
+
 ## १० अरिष्टोऽहमरिष्टगुरायुष्मान्त्सर्वपूरुषः तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/10_ariShTo-hamariShTagurAyuShmAntsarvapUruShaH_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -668,6 +678,7 @@ Safe are my cattle, safe am I, long-lived with all my men around. This Varana, m
 </details>
 </details>
 </div>
+
 ## ११ अयं मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/11_ayaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -731,6 +742,7 @@ This Varana is on my breast, the sovran, the celestial Plant. Let it afflict my 
 </details>
 </details>
 </div>
+
 ## १२ इमं बिभर्मि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/12_imaM_bibharmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -793,6 +805,7 @@ Through hundred autumn seasons, long to live, I wear this Varana. May it bestow 
 </details>
 </details>
 </div>
+
 ## १३ यथा वातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/13_yathA_vAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -856,6 +869,7 @@ As with its might the wind breaks down the trees, the sovrans of the wood, So br
 </details>
 </details>
 </div>
+
 ## १४ यथा वातश्चाग्निश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/14_yathA_vAtashchAgnishcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -919,6 +933,7 @@ As Agni and the wind devour the trees, the sovrans of the wood, Even so devour m
 </details>
 </details>
 </div>
+
 ## १५ यथा वातेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/15_yathA_vAtena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -983,6 +998,7 @@ As, shattered by the tempest, trees lie withering ruined on the ground. Thus ove
 </details>
 </details>
 </div>
+
 ## १६ तांस्त्वं प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/16_tAMstvaM_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1047,6 +1063,7 @@ Cut them in pieces, Varana! before their destined term of life, Those who would 
 </details>
 </details>
 </div>
+
 ## १७ यथा सूर्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/17_yathA_sUryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1114,6 +1131,7 @@ As Surya shines with brightest sheen, as splendour hath been stored in him, So m
 </details>
 </details>
 </div>
+
 ## १८ यथा यशश्चन्द्रमस्यादित्ये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/18_yathA_yashashchandramasyAditye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1178,6 +1196,7 @@ As glory dwelleth in the Moon and in the Sun who vieweth men, So may the Charm, 
 </details>
 </details>
 </div>
+
 ## १९ यथा यशः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/19_yathA_yashaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1240,6 +1259,7 @@ As glory dwelleth in the Earth, and in this Jatavedas here, So may the Charm etc
 </details>
 </details>
 </div>
+
 ## २० यथा यशः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/20_yathA_yashaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1302,6 +1322,7 @@ As glory dwelleth in a maid, and in this well-constructed car, So may the Charm,
 </details>
 </details>
 </div>
+
 ## २१ यथा यशः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/21_yathA_yashaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1364,6 +1385,7 @@ As glory dwelleth in the draught of Soma and the honeyed. drink, So may the Char
 </details>
 </details>
 </div>
+
 ## २२ यथा यशोऽग्निहोत्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/22_yathA_yasho-gnihotre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1428,6 +1450,7 @@ As glory dwells in sacrifice to Agni, and the hallowing word, So may the Charm, 
 </details>
 </details>
 </div>
+
 ## २३ यथा यशो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/23_yathA_yasho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1491,6 +1514,7 @@ As glory is bestowed upon the patron and this sacrifice, So may the Charm, etc.
 </details>
 </details>
 </div>
+
 ## २४ यथा यशः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/24_yathA_yashaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1554,6 +1578,7 @@ As glory dwelleth in the Lord of Life and in this God Supreme,. So may the Charm
 </details>
 </details>
 </div>
+
 ## २५ यथा देवेष्वमृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/25_yathA_deveShvamRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

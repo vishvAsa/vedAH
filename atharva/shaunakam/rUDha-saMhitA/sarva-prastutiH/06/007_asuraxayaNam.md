@@ -28,6 +28,7 @@ Translated: Florenz, 256 or 8; Griffith, i. 248.
 </details>
 </details>
 </div>
+
 ## ०१ येन सोमादितिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/007_asuraxayaNam/01_yena_somAditiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ impossible. ⌊The description as *nicṛt* belongs rather to 8. 1.⌋
 </details>
 </details>
 </div>
+
 ## ०२ येन सोम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/007_asuraxayaNam/02_yena_soma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ change of number ⌊in the verb⌋ from **a, b** to **c**; emendation to
 </details>
 </details>
 </div>
+
 ## ०३ येन देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/007_asuraxayaNam/03_yena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

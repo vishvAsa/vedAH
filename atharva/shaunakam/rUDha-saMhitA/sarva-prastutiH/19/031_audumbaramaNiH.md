@@ -32,6 +32,7 @@ A charm to ensure general prosperity, accompanying self-investiture with an amul
 </details>
 </details>
 </div>
+
 ## ०१ औदुम्बरेण मणिना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/01_audumbareNa_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Savitar make all cattle grow and prosper in my stable with. Amulet of Udumbara, 
 </details>
 </details>
 </div>
+
 ## ०२ यो नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/02_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ May he who was our Household Fire, the ruler of our cattle, strong. Amulet of Ud
 </details>
 </details>
 </div>
+
 ## ०३ करीषिणीं फलवतीम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/03_karIShiNIM_phalavatIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -230,6 +233,7 @@ By power of the Udumbara Charm may Dhatar give me plenty, rich. In the kine's dr
 </details>
 </details>
 </div>
+
 ## ०४ यद्द्विपाच्च चतुष्पाच्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/04_yaddvipAchcha_chatuShpAchcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -297,6 +301,7 @@ I win great plenty, while I wear the Amulet of Udumbara. Of quadrupeds and biped
 </details>
 </details>
 </div>
+
 ## ०५ पुष्टिं पशूनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/05_puShTiM_pashUnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -359,6 +364,7 @@ I have obtained abundant wealth of cattle, bipeds and quad- rupeds, and corn in 
 </details>
 </details>
 </div>
+
 ## ०६ अहं पशूनामधिपा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/06_ahaM_pashUnAmadhipA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -423,6 +429,7 @@ Fain would I be the lord of herds of cattle: may he who rules o'er riches send m
 </details>
 </details>
 </div>
+
 ## ०७ उप मौदुम्बरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/07_upa_maudumbaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -488,6 +495,7 @@ To me with wealth and children come the Amulet of Udumbara. With splendour come 
 </details>
 </details>
 </div>
+
 ## ०८ देवो मणिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/08_devo_maNiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -553,6 +561,7 @@ Divine, foe-quelling Amulet, wealth-winner for the gain of wealth-- May it give 
 </details>
 </details>
 </div>
+
 ## ०९ यथाग्रे त्वम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/09_yathAgre_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -616,6 +625,7 @@ As thou, O Forest Tree, wast born with increase when thy life began, So let Sara
 </details>
 </details>
 </div>
+
 ## १० आ मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/10_A_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -691,6 +701,7 @@ Sarasvati vouchsafe me wealth, household prosperity, and corn! Let Sinivali brin
 </details>
 </details>
 </div>
+
 ## ११ त्वं मणीनामधिपा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/11_tvaM_maNInAmadhipA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -764,6 +775,7 @@ The Lord of amulets art thou, most mighty: in thee wealth's ruler hath engendere
 </details>
 </details>
 </div>
+
 ## १२ ग्रामणीरसि ग्रामणीरुत्थायाभिषिक्तोऽभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/12_grAmaNIrasi_grAmaNIrutthAyAbhiShikto-bhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -843,6 +855,7 @@ Vigour art thou, in me do thou plant vigour: riches art thou, so do thou grant m
 </details>
 </details>
 </div>
+
 ## १३ पुष्टिरसि पुष्ट्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/13_puShTirasi_puShTyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -914,6 +927,7 @@ Amulet of Udumbara, enrich us: vouchsafe us wealth with all good men about us. I
 </details>
 </details>
 </div>
+
 ## १४ अयमौदुम्बरो मणिर्वीरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/14_ayamaudumbaro_maNirvIro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

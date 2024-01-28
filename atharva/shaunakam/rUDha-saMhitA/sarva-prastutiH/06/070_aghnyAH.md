@@ -32,6 +32,7 @@ A benediction on cow and calf
 </details>
 </details>
 </div>
+
 ## ०१ यथा मांसम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/01_yathA_mAMsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ As wine associates with flesh, as dice attend the gaming-board, As an enamoured 
 </details>
 </details>
 </div>
+
 ## ०२ यथा हस्ती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/02_yathA_hastI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ As the male elephant pursues with eager step his female's track, As an enamoured
 </details>
 </details>
 </div>
+
 ## ०३ यथा प्रधिर्यथोपधिर्यथा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

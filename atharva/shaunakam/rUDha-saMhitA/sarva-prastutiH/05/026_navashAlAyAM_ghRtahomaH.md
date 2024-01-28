@@ -32,6 +32,7 @@ A hymn of invitation to the gods
 </details>
 </details>
 </div>
+
 ## ०१ यजूंषि यज्ञे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/01_yajUMShi_yajne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ In sacrifice for you may sapient Agni--All hail!--use Yajus texts and fuel.
 </details>
 </details>
 </div>
+
 ## ०२ युनक्तु देवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/02_yunaktu_devaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -155,6 +157,7 @@ May Savitar the God--All hail!--foreknowing, chief in this sacrifice, employ the
 </details>
 </details>
 </div>
+
 ## ०३ इन्द्र उक्थामदान्यस्मिन्यज्ञे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/03_indra_ukthAmadAnyasminyajne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -219,6 +222,7 @@ In this great rite--All hail!--may sapient Indra use lauds, rejoicings, well-yok
 </details>
 </details>
 </div>
+
 ## ०४ प्रैषा यज्ञे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/04_praiShA_yajne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -278,6 +282,7 @@ Bring Praishas in the rite--All hail!--and Nivids, learned, con- nected, with th
 </details>
 </details>
 </div>
+
 ## ०५ छन्दांसि यज्ञे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/05_ChandAMsi_yajne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -338,6 +343,7 @@ As a dame brings her son--All hail! O Maruts, connected, in the rite bring measu
 </details>
 </details>
 </div>
+
 ## ०६ एयमगन्बर्हिषा प्रोक्षणीभिर्यज्ञम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/06_eyamaganbarhiShA_proxaNIbhiryajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -397,6 +403,7 @@ Here Aditi is come--All hail!--preparing the rite with grass and lustral waters.
 </details>
 </details>
 </div>
+
 ## ०७ विष्णुर्युनक्तु बहुधा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/07_viShNuryunaktu_bahudhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -456,6 +463,7 @@ Let Vishnu in this rite in varied manner--All hail! use well- yoked steeds, his 
 </details>
 </details>
 </div>
+
 ## ०८ त्वष्टा युनक्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/08_tvaShTA_yunaktu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -520,6 +528,7 @@ Let Tvashtar in this rite in varied manner--All hail!--use forms, his well-yoked
 </details>
 </details>
 </div>
+
 ## ०९ भगो युनक्त्वाशिषो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/09_bhago_yunaktvAshiSho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -580,6 +589,7 @@ Let Bhaga in this rite use prayers, foreknowing--All hail! for this use well-yok
 </details>
 </details>
 </div>
+
 ## १० सोमो युनक्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/10_somo_yunaktu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -638,6 +648,7 @@ Let Soma in this rite in varied manner--All hail!--use milk- streams, well-yoked
 </details>
 </details>
 </div>
+
 ## ११ इन्द्रो युनक्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/11_indro_yunaktu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -696,6 +707,7 @@ Let Indra in this rite in varied manner--All hail!--use powers,. his well-yoked 
 </details>
 </details>
 </div>
+
 ## १२ अश्विना ब्रह्मणा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/12_ashvinA_brahmaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

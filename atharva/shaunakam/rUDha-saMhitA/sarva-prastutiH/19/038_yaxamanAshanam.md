@@ -28,6 +28,7 @@ A protective charm
 </details>
 </details>
 </div>
+
 ## ०१ न तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/01_na_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Never Consumption, never curse touches the man, Arundhati! Whom the delicious od
 </details>
 </details>
 </div>
+
 ## ०२ विष्वञ्चस्तस्माद्यक्ष्मा मृगा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/02_viShvanchastasmAdyaxmA_mRgA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -195,6 +197,7 @@ Consumptions flee apart from it as from a wild beast fly the deer. If thou, O Bd
 </details>
 </details>
 </div>
+
 ## ०३ उभयोरग्रभं नामास्मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/03_ubhayoragrabhaM_nAmAsmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

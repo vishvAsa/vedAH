@@ -32,6 +32,7 @@ A charm against constipation and suppression of urine
 </details>
 </details>
 </div>
+
 ## ०१ विद्मा शरस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/01_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ We know the father of the shaft, Parjanya strong with hundred powers: By this ma
 </details>
 </details>
 </div>
+
 ## ०२ विद्मा शरस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/02_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -155,6 +157,7 @@ We know the father of the shaft, Mitra, the Lord of hundred powers: By this, etc
 </details>
 </details>
 </div>
+
 ## ०३ विद्मा शरस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/03_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -214,6 +217,7 @@ We know the father of the shaft, Varuna, strong with hundred powers: By this, et
 </details>
 </details>
 </div>
+
 ## ०४ विद्मा शरस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/04_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -273,6 +277,7 @@ We know the father of the shaft, the Moon endowed with hundred powers: By this, 
 </details>
 </details>
 </div>
+
 ## ०५ विद्मा शरस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/05_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -332,6 +337,7 @@ We know the father of the shaft, the Sun endowed with hundred powers: By this ma
 </details>
 </details>
 </div>
+
 ## ०६ यदान्त्रेषु गवीन्योर्यद्वस्तावधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/06_yadAntreShu_gavInyoryadvastAvadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -396,6 +402,7 @@ Whate'er hath gathered, as it flowed, in bowels, bladder, or in groins, Thus let
 </details>
 </details>
 </div>
+
 ## ०७ प्र ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/07_pra_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -458,6 +465,7 @@ I lay the passage open as one cleaves the dam that bars the lake: Thus let, etc.
 </details>
 </details>
 </div>
+
 ## ०८ विषितं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/08_viShitaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -519,6 +527,7 @@ Now hath the portal been unclosed as, of the sea that holds the flood: Thus let,
 </details>
 </details>
 </div>
+
 ## ०९ यथेषुका परापतदवसृष्टाधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/09_yatheShukA_parApatadavasRShTAdhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

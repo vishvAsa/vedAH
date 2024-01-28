@@ -32,6 +32,7 @@ A prayer or charm for long life
 </details>
 </details>
 </div>
+
 ## ०१ जीवा स्थ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/01_jIvA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -89,6 +90,7 @@ Ye are alive. I fain would live. I fain would live my complete term of life.
 </details>
 </details>
 </div>
+
 ## ०२ उपजीवा स्थोप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/02_upajIvA_sthopa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -146,6 +148,7 @@ Ye live dependent. I fain would live dependent. I fain would live my complete te
 </details>
 </details>
 </div>
+
 ## ०३ सञ्जीवा स्थ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/03_sanjIvA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -204,6 +207,7 @@ Ye remain alive. I fain would remain alive. I fain would live my complete term o
 </details>
 </details>
 </div>
+
 ## ०४ जीवला स्थ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/04_jIvalA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

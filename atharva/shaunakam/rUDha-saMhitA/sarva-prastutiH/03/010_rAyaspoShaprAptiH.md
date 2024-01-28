@@ -33,6 +33,7 @@ A new year prayer
 </details>
 </details>
 </div>
+
 ## ०१ प्रथमा ह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/01_prathamA_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ The First hath dawned. With Yama may it be a cow to pour forth milk. May she be 
 </details>
 </details>
 </div>
+
 ## ०२ यां देवाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/02_yAM_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,6 +173,7 @@ May she whom Gods accept with joy, Night who approacheth. as a cow, She who is C
 </details>
 </details>
 </div>
+
 ## ०३ संवत्सरस्य प्रतिमाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/03_saMvatsarasya_pratimAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -239,6 +242,7 @@ Thou whom with reverence we approach, O Night, as model of the Year, Vouchsafe. 
 </details>
 </details>
 </div>
+
 ## ०४ इयमेव सा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/04_iyameva_sA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -322,6 +326,7 @@ This same is she whose light first dawned upon us: she moves established in the 
 </details>
 </details>
 </div>
+
 ## ०५ वानस्पत्या ग्रावाणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/05_vAnaspatyA_grAvANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -401,6 +406,7 @@ Loud was the wooden pass-gear's ring and rattle, as it made annual oblation read
 </details>
 </details>
 </div>
+
 ## ०६ इडायास्पदं घृतवत्सरीसृपम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/06_iDAyAspadaM_ghRtavatsarIsRpam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -477,6 +483,7 @@ The shrine of Ila flows with oil and fatness: accept, O Jatavedas, our oblations
 </details>
 </details>
 </div>
+
 ## ०७ आ मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/07_A_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -565,6 +572,7 @@ Come thou to nourish me and make me prosper. Night! may the favour of the Gods a
 </details>
 </details>
 </div>
+
 ## ०८ आयमगन्त्संवत्सरः पतिरेकाष्टके
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/08_AyamagantsaMvatsaraH_patirekAShTake.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -629,6 +637,7 @@ This Year hath come to us, thy lord and consort, O Ekashtaka. Vouchsafe us child
 </details>
 </details>
 </div>
+
 ## ०९ ऋतून्यज ऋतुपतीनार्तवानुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/09_RtUnyaja_RtupatInArtavAnuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -698,6 +707,7 @@ The Seasons, and the Seasons' Lords I worship, annual parts and groups. Half yea
 </details>
 </details>
 </div>
+
 ## १० ऋतुभ्यष्ट्वार्तवेभ्यो माद्भ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/10_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -770,6 +780,7 @@ I offer to the Seasons, to their several groups, to Months, to Years. Dhatar, Vi
 </details>
 </details>
 </div>
+
 ## ११ इडया जुह्वतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/11_iDayA_juhvato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -838,6 +849,7 @@ With fatness and libation we sacrifice and adore the Gods. Wealthy in kine may w
 </details>
 </details>
 </div>
+
 ## १२ एकाष्टका तपसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/12_ekAShTakA_tapasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -914,6 +926,7 @@ Ekashtaka, burning with zealous fervour, brought forth her babe the great and gl
 </details>
 </details>
 </div>
+
 ## १३ इन्द्रपुत्रे सोमपुत्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/13_indraputre_somaputre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

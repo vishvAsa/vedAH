@@ -32,6 +32,7 @@ A charm to avert misfortune foreshown by the coming of a dove and an owl
 </details>
 </details>
 </div>
+
 ## ०१ अमून्हेतिः पतत्रिणी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/01_amUnhetiH_patatriNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ On these men yonder fall the winged missile: the screeching of the Owl is ineffe
 </details>
 </details>
 </div>
+
 ## ०२ यौ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/02_yau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ Thine envoys who came hither, O Destruction, sent or not sent by thee unto our d
 </details>
 </details>
 </div>
+
 ## ०३ अवैरहत्यायेदमा पपत्यात्सुवीरताया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAtsuvIratAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

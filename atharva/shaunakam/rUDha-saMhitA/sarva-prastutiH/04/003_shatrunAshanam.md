@@ -32,6 +32,7 @@ A Charm against tigers, wolves, thieves and other noxious creatures
 </details>
 </details>
 </div>
+
 ## ०१ उदितस्त्रयो अक्रमन्व्याघ्रः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/01_uditastrayo_akramanvyAghraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ down let our foemen bend and bow.
 </details>
 </details>
 </div>
+
 ## ०२ परेणैतु पथा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/02_pareNaitu_pathA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,6 +173,7 @@ man!
 </details>
 </details>
 </div>
+
 ## ०३ अक्ष्यौ च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/03_axyau_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -241,6 +244,7 @@ jaws and all the twenty claws we break.
 </details>
 </details>
 </div>
+
 ## ०४ व्याघ्रं दत्वताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/04_vyAghraM_datvatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -306,6 +310,7 @@ wolf.
 </details>
 </details>
 </div>
+
 ## ०५ यो अद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/05_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -372,6 +377,7 @@ bolt.
 </details>
 </details>
 </div>
+
 ## ०६ मूर्णा मृगस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/06_mUrNA_mRgasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -451,6 +457,7 @@ pursues the hare!
 </details>
 </details>
 </div>
+
 ## ०७ यत्संयमो न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/07_yatsaMyamo_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

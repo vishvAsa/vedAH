@@ -49,6 +49,7 @@ A glorification of the Odana or oblation of boiled rice
 </details>
 </details>
 </div>
+
 ## ०१ तस्यौदनस्य बृहस्पतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/01_tasyaudanasya_bRhaspatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -109,6 +110,7 @@ Of that Odana Brihaspati is the head, Brahma the mouth.
 </details>
 </details>
 </div>
+
 ## ०२ द्यावापृथिवी श्रोत्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/02_dyAvApRthivI_shrotre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ Heaven and Earth are the ears, the Sun and Moon are the eyes, the seven Rishis a
 </details>
 </details>
 </div>
+
 ## ०३ चक्षुर्मुसलं काम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/03_chaxurmusalaM_kAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -224,6 +227,7 @@ Vision is the pestle, Desire the mortar.
 </details>
 </details>
 </div>
+
 ## ०४ दितिः शूर्पमदितिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/04_ditiH_shUrpamaditiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -282,6 +286,7 @@ Diti is the winnowing basket, Aditi is she who holds it, Vata is the sifter.
 </details>
 </details>
 </div>
+
 ## ०५ अश्वाः कणा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/05_ashvAH_kaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -340,6 +345,7 @@ Horses are the grains, oxen the winnowed ricegrains, gnats the husks.
 </details>
 </details>
 </div>
+
 ## ०६ कब्रु फलीकरणाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/06_kabru_phalIkaraNAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -401,6 +407,7 @@ Kabru is the husked grain, the rain cloud is the reed.
 </details>
 </details>
 </div>
+
 ## ०७ श्याममयोऽस्य मांसानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/07_shyAmamayo-sya_mAMsAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -459,6 +466,7 @@ Grey iron is its flesh, copper its blood.
 </details>
 </details>
 </div>
+
 ## ०८ त्रपु भस्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/08_trapu_bhasma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -520,6 +528,7 @@ Tin is its ashes, gold its colour, the blue lotus flower its scent.
 </details>
 </details>
 </div>
+
 ## ०९ खलः पात्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/09_khalaH_pAtram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -581,6 +590,7 @@ The threshing-floor is its dish, the wooden swords its shoulders, the car-shafts
 </details>
 </details>
 </div>
+
 ## १० आन्त्राणि जत्रवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/10_AntrANi_jatravo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -635,6 +645,7 @@ Collar-bones are its entrails, straps its intestines.
 </details>
 </details>
 </div>
+
 ## ११ इयमेव पृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/11_iyameva_pRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -689,6 +700,7 @@ This earth, verily becomes the jar, and heaven the cover of the Odana as it is c
 </details>
 </details>
 </div>
+
 ## १२ सीताः पर्शवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/12_sItAH_parshavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -743,6 +755,7 @@ Furrows are its ribs, sandy soils the undigested contents of its stomach.
 </details>
 </details>
 </div>
+
 ## १३ ऋतं हस्तावनेजनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/13_RtaM_hastAvanejanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -797,6 +810,7 @@ Law is its water for the hands and family custom its aspersion.
 </details>
 </details>
 </div>
+
 ## १४ ऋचा कुम्भ्यधिहितार्त्विज्येन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/14_RchA_kumbhyadhihitArtvijyena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -851,6 +865,7 @@ The jar covered with the Rich has been solemnly directed by the priestly office.
 </details>
 </details>
 </div>
+
 ## १५ ब्रह्मणा परिगृहीता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/15_brahmaNA_parigRhItA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -905,6 +920,7 @@ Received by the Brahman, it has been carried round.
 </details>
 </details>
 </div>
+
 ## १६ बृहदायवनं रथन्तरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/16_bRhadAyavanaM_rathantaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -959,6 +975,7 @@ The Brihat is, the stirring-spoon, the Rathantara the ladle.
 </details>
 </details>
 </div>
+
 ## १७ ऋतवः पक्तार
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/17_RtavaH_paktAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1016,6 +1033,7 @@ The Seasons are the dressers, the Groups of Seasons kindle the fire.
 </details>
 </details>
 </div>
+
 ## १८ चरुं पञ्चबिलमुखम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/18_charuM_panchabilamukham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1074,6 +1092,7 @@ The caldron flames round the oblation (charu) whose mouth consists of five openi
 </details>
 </details>
 </div>
+
 ## १९ ओदनेन यज्ञवचः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/19_odanena_yajnavachaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1136,6 +1155,7 @@ The sacrificial word, all worlds are to be won with Odana.
 </details>
 </details>
 </div>
+
 ## २० यस्मिन्त्समुद्रो द्यौर्भूमिस्त्रयोऽवरपरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/20_yasmintsamudro_dyaurbhUmistrayo-varaparam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1194,6 +1214,7 @@ Whereon in order rest the three, the ocean, and the heaven, and earth.
 </details>
 </details>
 </div>
+
 ## २१ यस्य देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/21_yasya_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1253,6 +1274,7 @@ Within the residue whereof the Gods arranged six eightieth parts--
 </details>
 </details>
 </div>
+
 ## २२ तं त्वौदनस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/22_taM_tvaudanasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1310,6 +1332,7 @@ I ask thee, of this Odana what is the mighty magnitude.
 </details>
 </details>
 </div>
+
 ## २३ स य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/23_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1367,6 +1390,7 @@ He who may know the magnitude of the Odana.
 </details>
 </details>
 </div>
+
 ## २४ नाल्प इति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/24_nAlpa_iti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1427,6 +1451,7 @@ Would say, Not small, nor devoid of moistening sauce; not this, nor any- thing w
 </details>
 </details>
 </div>
+
 ## २५ यावद्दाताभिमनस्येत तन्नाति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/25_yAvaddAtAbhimanasyeta_tannAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1485,6 +1510,7 @@ He would not declare it to be greater than the giver imagines it to be.
 </details>
 </details>
 </div>
+
 ## २६ ब्रह्मवादिनो वदन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/26_brahmavAdino_vadanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1561,6 +1587,7 @@ The theologians say, Thou hast eaten the averted Odana and the Odana turned hith
 </details>
 </details>
 </div>
+
 ## २७ त्वमोदनं प्राशी३स्त्वामोदना३
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/27_tvamodanaM_prAshI3stvAmodanA3.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1621,6 +1648,7 @@ Thou hast eaten the Odana and the Odana will eat thee.
 </details>
 </details>
 </div>
+
 ## २८ पराञ्चं चैनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/28_parAnchaM_chainam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1679,6 +1707,7 @@ Thou hast eaten this averted; thy inward breath will leave thee; so he said to t
 </details>
 </details>
 </div>
+
 ## २९ प्रत्यञ्चं चैनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/29_pratyanchaM_chainam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1737,6 +1766,7 @@ Thou hast eaten this turned hitherward; thy downward breath will leave thee; so 
 </details>
 </details>
 </div>
+
 ## ३० नैवाहमोदनं न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/30_naivAhamodanaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1794,6 +1824,7 @@ I indeed have not eaten the Odana, nor has the Odana eaten me.
 </details>
 </details>
 </div>
+
 ## ३१ ओदन एवौदनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/31_odana_evaudanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1925,6 +1956,7 @@ The Odana has just eaten the Odana. 2
 </details>
 </details>
 </div>
+
 ## ३२ ततश्चैनमन्येन शीर्ष्णा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/32_tatashchainamanyena_shIrShNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2001,6 +2033,7 @@ And thence he said to this one, Thou hast eaten this with a different head from 
 </details>
 </details>
 </div>
+
 ## ३३ ततश्चैनमन्याभ्यां श्रोत्राभ्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/33_tatashchainamanyAbhyAM_shrotrAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2074,6 +2107,7 @@ And thence he said to him, Thou hast eaten this with other ears than those with 
 </details>
 </details>
 </div>
+
 ## ३४ ततश्चैनमन्याभ्यामक्षीभ्यां प्राशीर्याभ्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/34_tatashchainamanyAbhyAmaxIbhyAM_prAshIryAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2150,6 +2184,7 @@ And thence he said to him. Thou hast eaten this with other eyes . . . thou wilt 
 </details>
 </details>
 </div>
+
 ## ३५ ततश्चैनमन्येन मुखेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/35_tatashchainamanyena_mukhena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2223,6 +2258,7 @@ And thence, etc. . . with other month. Thy offspring will die, reckoning from th
 </details>
 </details>
 </div>
+
 ## ३६ ततश्चैनमन्यया जिह्वया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/36_tatashchainamanyayA_jihvayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2295,6 +2331,7 @@ And thence, etc. . . . with other tongue . . . Thy tongue will die . . . With th
 </details>
 </details>
 </div>
+
 ## ३७ ततश्चैनमन्यैर्दन्तैः प्राशीर्यैश्चैतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/37_tatashchainamanyairdantaiH_prAshIryaishchaitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2368,6 +2405,7 @@ And thence, etc. . . With other teeth . . . Thy teeth will fall out . . . With t
 </details>
 </details>
 </div>
+
 ## ३८ ततश्चैनमन्यैः प्राणापानैः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/38_tatashchainamanyaiH_prANApAnaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2443,6 +2481,7 @@ And thence, etc. . . . with other vital airs. . . . Thy vital airs will leave th
 </details>
 </details>
 </div>
+
 ## ३९ ततश्चैनमन्येन व्यचसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/39_tatashchainamanyena_vyachasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2517,6 +2556,7 @@ And thence, etc. . . . with other expanse . . . Consumption will destroy thee . 
 </details>
 </details>
 </div>
+
 ## ४० ततश्चैनमन्येन पृष्ठेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/40_tatashchainamanyena_pRShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2589,6 +2629,7 @@ And thence, etc. . . . with other back. . . . Lightning will slay thee. . . With
 </details>
 </details>
 </div>
+
 ## ४१ ततश्चैनमन्येनोरसा प्राशीर्येन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/41_tatashchainamanyenorasA_prAshIryena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2662,6 +2703,7 @@ And thence, etc. . . . with other breast . . . Thou wilt fail in agriculture. . 
 </details>
 </details>
 </div>
+
 ## ४२ ततश्चैनमन्येनोदरेण प्राशीर्येन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/42_tatashchainamanyenodareNa_prAshIryena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2736,6 +2778,7 @@ And thence, etc. . . . with other belly . . . colic will destroy thee . . . With
 </details>
 </details>
 </div>
+
 ## ४३ ततश्चैनमन्येन वस्तिना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/43_tatashchainamanyena_vastinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2808,6 +2851,7 @@ And thence, etc. . . . with other abdomen . . . Thou wilt die in the water . . .
 </details>
 </details>
 </div>
+
 ## ४४ ततश्चैनमन्याभ्यामूरुभ्यां प्राशीर्याभ्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/44_tatashchainamanyAbhyAmUrubhyAM_prAshIryAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2880,6 +2924,7 @@ And thence, etc. . . . with other thighs . . . Thy thigh will perish . . . With 
 </details>
 </details>
 </div>
+
 ## ४५ ततश्चैनमन्याभ्यामष्ठीवद्भ्यां प्राशीर्याभ्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/45_tatashchainamanyAbhyAmaShThIvadbhyAM_prAshIryAb.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2953,6 +2998,7 @@ And thence, etc. . . . with other knees . . . Thou wilt become a sick man . . . 
 </details>
 </details>
 </div>
+
 ## ४६ ततश्चैनमन्याभ्यां पादाभ्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/46_tatashchainamanyAbhyAM_pAdAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3026,6 +3072,7 @@ And thence, etc. . . . with other feet . . . Thou wilt become a wanderer . . . W
 </details>
 </details>
 </div>
+
 ## ४७ ततश्चैनमन्याभ्यां प्रपदाभ्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/47_tatashchainamanyAbhyAM_prapadAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3100,6 +3147,7 @@ And thence, etc. . . with other fore-parts of the feet . . . A serpent will kill
 </details>
 </details>
 </div>
+
 ## ४८ ततश्चैनमन्याभ्यां हस्ताभ्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/48_tatashchainamanyAbhyAM_hastAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3173,6 +3221,7 @@ And thence, etc. . . . with other hands . . . The Brahmana (divine power) will k
 </details>
 </details>
 </div>
+
 ## ४९ ततश्चैनमन्यया प्रतिष्ठया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/49_tatashchainamanyayA_pratiShThayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3256,6 +3305,7 @@ And thence, etc. . . . with other basis . . . Without standing-ground and restin
 </details>
 </details>
 </div>
+
 ## ५० एतद्वै ब्रध्नस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/50_etadvai_bradhnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3316,6 +3366,7 @@ The comm. explains *bradhna* as *sūryamaṇḍalamadhyavartī ”śvaraḥ*, an
 </details>
 </details>
 </div>
+
 ## ५१ ब्रध्नलोको भवति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/51_bradhnaloko_bhavati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3374,6 +3425,7 @@ to the summit of the ruddy one, who knoweth thus.
 </details>
 </details>
 </div>
+
 ## ५२ एतस्माद्वा ओदनात्त्रयस्त्रिंशतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/52_etasmAdvA_odanAttrayastriMshatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3432,6 +3484,7 @@ worlds.
 </details>
 </details>
 </div>
+
 ## ५३ तेषां प्रज्ञानाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/53_teShAM_prajnAnAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3490,6 +3543,7 @@ sacrifice.
 </details>
 </details>
 </div>
+
 ## ५४ स य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/54_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3552,6 +3606,7 @@ them; ours makes the necessary emendation to *bhávati*. We might expect
 </details>
 </details>
 </div>
+
 ## ५५ न च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/55_na_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3613,6 +3668,7 @@ The comm. explains *sarvajyāním* by *prajāpśvādirūpasya sarvasyā
 </details>
 </details>
 </div>
+
 ## ५६ न च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/56_na_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ An incantation for the destruction of a hostile army
 </details>
 </details>
 </div>
+
 ## ०१ ये बाहवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/01_ye_bAhavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ All arms and every arrow, all the power and might that bows possess, The warlike
 </details>
 </details>
 </div>
+
 ## ०२ उत्तिष्ठत सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/02_uttiShThata_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ Arise ye and prepare yourselves: ye, the celestial hosts, are friends. Let your 
 </details>
 </details>
 </div>
+
 ## ०३ उत्तिष्ठतमा रभेथामादानसन्दानाभ्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/03_uttiShThatamA_rabhethAmAdAnasandAnAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -235,6 +238,7 @@ Rise both of you: begin your work with fettering and binding. fast, Assail, both
 </details>
 </details>
 </div>
+
 ## ०४ अर्बुदिर्नाम यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/04_arbudirnAma_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -302,6 +306,7 @@ The God whose name is Arbudi, and Nyarbudi the Mighty One, The two by whom the a
 </details>
 </details>
 </div>
+
 ## ०५ उत्तिष्ठ त्वम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/05_uttiShTha_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -363,6 +368,7 @@ Rise with our army stand thou up. O Godlike Being, Arbudi. Breaking the hosts of
 </details>
 </details>
 </div>
+
 ## ०६ सप्त जातान्न्यर्बुद
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/06_sapta_jAtAnnyarbuda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -429,6 +435,7 @@ Exhibiting, O Arbudi, seven children of the mist and fog, When butter hath been 
 </details>
 </details>
 </div>
+
 ## ०७ प्रतिघ्नानाश्रुमुखी कृधुकर्णी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/07_pratighnAnAshrumukhI_kRdhukarNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -499,6 +506,7 @@ Beating her breast, with tearful face, let the short-earned, the wild-haired hag
 </details>
 </details>
 </div>
+
 ## ०८ सङ्कर्षन्ती करूकरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/08_sankarShantI_karUkaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -569,6 +577,7 @@ Snatching away the vertebra, while with her thought she seeks her son, Her husba
 </details>
 </details>
 </div>
+
 ## ०९ अलिक्लवा जाष्कमदा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/09_aliklavA_jAShkamadA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -634,6 +643,7 @@ Let vultures, ravens, kites, and crows, and every carrion-eating bird. Feast on 
 </details>
 </details>
 </div>
+
 ## १० अथो सर्वम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/10_atho_sarvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -695,6 +705,7 @@ Then let each greedy beast of prey, and fly and worm regale itself Upon the huma
 </details>
 </details>
 </div>
+
 ## ११ आ गृह्णीतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/11_A_gRhNItam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -759,6 +770,7 @@ Attack them, both of you; bear off their vital breath O Nyar- budi. Let mingled 
 </details>
 </details>
 </div>
+
 ## १२ उद्वेपय सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/12_udvepaya_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -823,6 +835,7 @@ Shake them, and let them sink with fear: e'erwhelm our enemies with dread. With 
 </details>
 </details>
 </div>
+
 ## १३ मुह्यन्त्वेषां बाहवश्चित्ताकूतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/13_muhyantveShAM_bAhavashchittAkUtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -885,6 +898,7 @@ Let those mens' arms grow faint and weak, dull be the purpose of their heart; An
 </details>
 </details>
 </div>
+
 ## १४ प्रतिघ्नानाः सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/14_pratighnAnAH_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -953,6 +967,7 @@ Self-smiting, beating breast and thigh, careless of unguent, with their hair dis
 </details>
 </details>
 </div>
+
 ## १५ श्वन्वतीरप्सरसो रूपका
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/15_shvanvatIrapsaraso_rUpakA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1029,6 +1044,7 @@ Apsarases with dog-like mates, and Rupakas, O Arbudi, And her who licks the cup 
 </details>
 </details>
 </div>
+
 ## १६ खडूरेऽधिचङ्क्रमां खर्विकाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/16_khaDUre-dhichankramAM_kharvikAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1096,6 +1112,7 @@ The fiend who creeps upon the sword, maimed, dwelling where Lthe wounded lie, Th
 </details>
 </details>
 </div>
+
 ## १७ चतुर्दंष्ट्राञ्छ्यावदतः कुम्भमुष्काँ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/17_chaturdaMShTrAnChyAvadataH_kumbhamuShkA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1160,6 +1177,7 @@ Armed with four fangs and yellow teeth, deformed, with faces smeared with blood,
 </details>
 </details>
 </div>
+
 ## १८ उद्वेपय त्वमर्बुदेऽमित्राणाममूः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/18_udvepaya_tvamarbude-mitrANAmamUH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1228,6 +1246,7 @@ Make thou, O Arbudi, those wings of hostile armies quake with dread. Let Conquer
 </details>
 </details>
 </div>
+
 ## १९ प्रब्लीनो मृदितः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/19_prablIno_mRditaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1290,6 +1309,7 @@ Stifled and crushed, O Nyarbudi, low let the smitten foeman lie. With tongue of 
 </details>
 </details>
 </div>
+
 ## २० तयार्बुदे प्रणुत्तानामिन्द्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/20_tayArbude_praNuttAnAmindro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1354,6 +1374,7 @@ May Indra, Lord of Might, strike down each bravest warrior of the foes, Whom thi
 </details>
 </details>
 </div>
+
 ## २१ उत्कसन्तु हृदयान्यूर्ध्वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/21_utkasantu_hRdayAnyUrdhvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1417,6 +1438,7 @@ Let their hearts burst asunder, let their breath fly up and pass away. Let dryne
 </details>
 </details>
 </div>
+
 ## २२ ये च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/22_ye_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1487,6 +1509,7 @@ The clever and the foolish ones, those who are twisted round, the deaf, The dusk
 </details>
 </details>
 </div>
+
 ## २३ अर्बुदिश्च त्रिषन्धिश्चामित्रान्नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/23_arbudishcha_triShandhishchAmitrAnno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1551,6 +1574,7 @@ Arbudi and Trishandhi fall upon our foes and scatter them, So that, O Indra, Lor
 </details>
 </details>
 </div>
+
 ## २४ वनस्पतीन्वानस्पत्यानोषधीरुत वीरुधः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/24_vanaspatInvAnaspatyAnoShadhIruta_vIrudhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1617,6 +1641,7 @@ Tall trees, and those who live in woods, the herbs and creeping plants of Earth,
 </details>
 </details>
 </div>
+
 ## २५ ईशां वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/25_IshAM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1682,6 +1707,7 @@ High sway have Maruts, and the God Aditya, Brahmanaspati, High sway have Indra, 
 </details>
 </details>
 </div>
+
 ## २६ तेषां सर्वेषामीशाना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/26_teShAM_sarveShAmIshAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

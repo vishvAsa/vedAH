@@ -32,6 +32,7 @@ A prayer for protection
 </details>
 </details>
 </div>
+
 ## ०१ अनाधृष्यो जातवेदा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -107,6 +108,7 @@ Holder of sway, shine here refulgent, Agni! invincible immortal Jatavedas. With 
 </details>
 </details>
 </div>
+
 ## ०२ इन्द्र क्षत्रमभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -180,6 +182,7 @@ Thou, Indra, lord and leader of the people, wast born for lovely strength and hi
 </details>
 </details>
 </div>
+
 ## ०३ मृगो न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/03_mRgo_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

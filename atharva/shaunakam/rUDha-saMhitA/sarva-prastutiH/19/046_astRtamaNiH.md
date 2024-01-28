@@ -32,6 +32,7 @@ A charm accompanying investiture with an amulet that ensures safety and victory
 </details>
 </details>
 </div>
+
 ## ०१ प्रजापतिष्ट्वा बध्नात्प्रथममस्तृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/01_prajApatiShTvA_badhnAtprathamamastRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -106,6 +107,7 @@ For manly strength Prajapati bound thee on first, invincible. This for long life
 </details>
 </details>
 </div>
+
 ## ०२ ऊर्ध्वस्तिष्ठतु रक्षन्नप्रमादमस्तृतेमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/02_UrdhvastiShThatu_raxannapramAdamastRtemam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -182,6 +184,7 @@ Erect, invincible, be this man's watchful keeper: let not the Panis or the sorce
 </details>
 </details>
 </div>
+
 ## ०३ शतं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/03_shataM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -262,6 +265,7 @@ Indra hath lent the power of sight, and vital breath and strength to this. Whom 
 </details>
 </details>
 </div>
+
 ## ०४ इन्द्रस्य त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/04_indrasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -326,6 +330,7 @@ Around thy limbs I place the mail of Indra who hath become the Gods' imperial So
 </details>
 </details>
 </div>
+
 ## ०५ अस्मिन्मणावेकशतं वीर्याणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/05_asminmaNAvekashataM_vIryANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -392,6 +397,7 @@ One and a hundred manly powers, a thousand lives hath this Amulet, unconquered e
 </details>
 </details>
 </div>
+
 ## ०६ घृतादुल्लुप्तो मधुमान्पयस्वान्त्सहस्रप्राणः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/06_ghRtAdullupto_madhumAnpayasvAntsahasraprANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -472,6 +478,7 @@ Drawn forth from butter, rich in milk and sweetness, hundred- lived, thousand-ho
 </details>
 </details>
 </div>
+
 ## ०७ यथा त्वमुत्तरोऽसो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/07_yathA_tvamuttaro-so.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

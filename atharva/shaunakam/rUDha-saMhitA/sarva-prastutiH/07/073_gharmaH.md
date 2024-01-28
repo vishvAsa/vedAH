@@ -32,6 +32,7 @@ An invitation to the Asvins
 </details>
 </details>
 </div>
+
 ## ०१ समिद्धो अग्निर्वृषणा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/01_samiddho_agnirvRShaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ Inflamed is Agni, Heroes! charioteer of heaven. The caldron boils: the meath is 
 </details>
 </details>
 </div>
+
 ## ०२ समिद्धो अग्निरश्विना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/02_samiddho_agnirashvinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ Asvins, the fire is all aglow: your caldron hath been heated;. come! Here, even 
 </details>
 </details>
 </div>
+
 ## ०३ स्वाहाकृतः शुचिर्देवेषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/03_svAhAkRtaH_shuchirdeveShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,6 +235,7 @@ Pure with the Gods is sacrifice with cry of Hail! That is the Asvins' cup whence
 </details>
 </details>
 </div>
+
 ## ०४ यदुस्रियास्वाहुतं घृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/04_yadusriyAsvAhutaM_ghRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -303,6 +307,7 @@ Milk, molten butter offered when the mornings break,--this is your portion, Asvi
 </details>
 </details>
 </div>
+
 ## ०५ तप्तो वाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/05_tapto_vAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -376,6 +381,7 @@ Let the warm drink approach you with its Hotar-priest: let the Adhvaryu come to 
 </details>
 </details>
 </div>
+
 ## ०६ उप द्रव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/06_upa_drava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -455,6 +461,7 @@ Come hither, quickly come, thou milker of the kine; into the caldron pour milk o
 </details>
 </details>
 </div>
+
 ## ०७ उप ह्वये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/07_upa_hvaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -521,6 +528,7 @@ I invocate this milch-cow good for milking, so that the milker, deft of hand, ma
 </details>
 </details>
 </div>
+
 ## ०८ हिङ्कृण्वती वसुपत्नी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/08_hinkRNvatI_vasupatnI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -588,6 +596,7 @@ She, sovran of all treasures, is come hither yearning in spirit for her calf, an
 </details>
 </details>
 </div>
+
 ## ०९ जुष्टो दमूना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/09_juShTo_damUnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -655,6 +664,7 @@ As dear house-friend, guest welcome in the dwelling, to this our sacrifice come 
 </details>
 </details>
 </div>
+
 ## १० अग्ने शर्ध
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/10_agne_shardha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -724,6 +734,7 @@ Show thyself strong for mighty bliss, O Agni! Most excellent be thine effulgent 
 </details>
 </details>
 </div>
+
 ## ११ सूयवसाद्भगवती हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/11_sUyavasAdbhagavatI_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

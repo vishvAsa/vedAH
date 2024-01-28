@@ -32,6 +32,7 @@ An accompaniment to the offering of a Mixt Oblation
 </details>
 </details>
 </div>
+
 ## ०१ संसं स्रवन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/001_yashaH/01_saMsaM_sravantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Let the streams flow together, let the winds and birds assembled come. Strengthe
 </details>
 </details>
 </div>
+
 ## ०२ इमं होमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/001_yashaH/02_imaM_homA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ O Burnt Oblations, aid, and ye, Blent Offerings, this my sacrifice. Strengthen t
 </details>
 </details>
 </div>
+
 ## ०३ रूपंरूपं वयोवयः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/001_yashaH/03_rUpaMrUpaM_vayovayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

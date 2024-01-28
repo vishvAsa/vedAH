@@ -32,6 +32,7 @@ A benediction on a newly elected King
 </details>
 </details>
 </div>
+
 ## ०१ इदं तद्युज
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/01_idaM_tadyuja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -110,6 +111,7 @@ Win the love of Indra that his friend may reach yet higher state. Increase, as r
 </details>
 </details>
 </div>
+
 ## ०२ अस्मै क्षत्रमग्नीषोमावस्मै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/02_asmai_xatramagnIShomAvasmai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -176,6 +178,7 @@ Confirm the princely power in him, Agni and Soma! grant him wealth. In all the c
 </details>
 </details>
 </div>
+
 ## ०३ सबन्धुश्चासबन्धुश्च यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/03_sabandhushchAsabandhushcha_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

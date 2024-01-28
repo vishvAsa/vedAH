@@ -33,6 +33,7 @@ An enunciation of cosmogonical, ritual, and metrical doctrine
 </details>
 </details>
 </div>
+
 ## ०१ कुतस्तौ जातौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/01_kutastau_jAtau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Whence were these two produced? which was that region?' From what world, from wh
 </details>
 </details>
 </div>
+
 ## ०२ यो अक्रन्दयत्सलिलम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/02_yo_akrandayatsalilam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ He who prepared a threefold home, and lying there made the water bellow through 
 </details>
 </details>
 </div>
+
 ## ०३ यानि त्रीणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/03_yAni_trINi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -225,6 +228,7 @@ Which are the three, the mighty three, whereof the fourth divides the voice, Thi
 </details>
 </details>
 </div>
+
 ## ०४ बृहतः परि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/04_bRhataH_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -286,6 +290,7 @@ Out of the Brihat as the sixth five Salmons have been fashioned forth: From Brih
 </details>
 </details>
 </div>
+
 ## ०५ बृहती परि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/05_bRhatI_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -356,6 +361,7 @@ On measure Brihati is based, and measure on the measurer: From magic might came 
 </details>
 </details>
 </div>
+
 ## ०६ वैश्वानरस्य प्रतिमोपरि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/06_vaishvAnarasya_pratimopari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -420,6 +426,7 @@ Vaisvanara's image is the sky above us, so far as Agni forced both spheres asund
 </details>
 </details>
 </div>
+
 ## ०७ षट्त्वा पृच्छाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/07_ShaTtvA_pRchChAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -483,6 +490,7 @@ We, Kagyapa! six present Rishis, ask thee--for thou hast prov- ed things tried a
 </details>
 </details>
 </div>
+
 ## ०८ यां प्रच्युतामनु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/08_yAM_prachyutAmanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -545,6 +553,7 @@ She whom, advancing, sacrifices follow, and when she takes her station stand bes
 </details>
 </details>
 </div>
+
 ## ०९ अप्राणैति प्राणेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/09_aprANaiti_prANena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -613,6 +622,7 @@ Breathless, she moves by breath of living creatures, Svaraj pre- cedes, Viraj co
 </details>
 </details>
 </div>
+
 ## १० को विराजो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/10_ko_virAjo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -679,6 +689,7 @@ Who hath perceived Viraj's duplication, perceived her seasons and her rule and p
 </details>
 </details>
 </div>
+
 ## ११ इयमेव सा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/11_iyameva_sA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -744,6 +755,7 @@ She here who first of all sent forth her lustre moves onward resting on these lo
 </details>
 </details>
 </div>
+
 ## १२ छन्दःपक्षे उषसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/12_ChandaHpaxe_uShasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -818,6 +830,7 @@ Both Dawns on wings of song, with rich adornment, move on together to their comm
 </details>
 </details>
 </div>
+
 ## १३ ऋतस्य पन्थामनु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/13_Rtasya_panthAmanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -883,6 +896,7 @@ The three have passed along the path of Order--three warm libations have regarde
 </details>
 </details>
 </div>
+
 ## १४ अग्नीषोमावदधुर्या तुरीयासीद्यज्ञस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/14_agnIShomAvadadhuryA_turIyAsIdyajnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -957,6 +971,7 @@ She who was fourth was made by Agni, Soma, and Rishis as. they formed both halve
 </details>
 </details>
 </div>
+
 ## १५ पञ्च व्युष्टीरनु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/15_pancha_vyuShTIranu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1023,6 +1038,7 @@ Five milkings answer to the fivefold dawning, five seasons to the cow who bears 
 </details>
 </details>
 </div>
+
 ## १६ षड्जाता भूता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/16_ShaDjAtA_bhUtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1089,6 +1105,7 @@ Six Elements arose, first-born of Order: the six-day time is carried by six Sama
 </details>
 </details>
 </div>
+
 ## १७ षडाहुः शीतान्षडु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/17_ShaDAhuH_shItAnShaDu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1157,6 +1174,7 @@ They call the cold months six, and six the hot ones. Which, tell us, of the seas
 </details>
 </details>
 </div>
+
 ## १८ सप्त होमाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/18_sapta_homAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1226,6 +1244,7 @@ Seven are the Homas, seven the logs for burning, seven are the streams of mead, 
 </details>
 </details>
 </div>
+
 ## १९ सप्त छन्दांसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/19_sapta_ChandAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1292,6 +1311,7 @@ Seven metres, by four syllables increasing, each of the seven founded upon anoth
 </details>
 </details>
 </div>
+
 ## २० कथं गायत्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/20_kathaM_gAyatrI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1355,6 +1375,7 @@ How hath the Gayatri filled out three triads? On the fifteen how is the Trishtup
 </details>
 </details>
 </div>
+
 ## २१ अष्ट जाता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/21_aShTa_jAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1421,6 +1442,7 @@ Eight Elements sprang up, first born of Order: the Priests divine are eight in n
 </details>
 </details>
 </div>
+
 ## २२ इत्थं श्रेयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/22_itthaM_shreyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1486,6 +1508,7 @@ So planning bliss for you have I come hither to win your friendship: kind am I, 
 </details>
 </details>
 </div>
+
 ## २३ अष्टेन्द्रस्य षड्यमस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/23_aShTendrasya_ShaDyamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1549,6 +1572,7 @@ To Indra eight, to Yama six, seven to the Rishis, seven to each: The number five
 </details>
 </details>
 </div>
+
 ## २४ केवलीन्द्राय दुदुहे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/24_kevalIndrAya_duduhe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1612,6 +1636,7 @@ The Heifer, all his own, poured forth for Indra control and milk at her first ti
 </details>
 </details>
 </div>
+
 ## २५ को नु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/25_ko_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1678,6 +1703,7 @@ Who is the Cow? Who is the Single Rishi? What is the law, what are the benedicti
 </details>
 </details>
 </div>
+
 ## २६ एको गौरेक
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/26_eko_gaureka.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

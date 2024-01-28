@@ -32,6 +32,7 @@ A maiden's love-charm
 </details>
 </details>
 </div>
+
 ## ०१ इदं खनामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -126,6 +127,7 @@ I dig this Healing Herb that makes my lover look on me and weep; That bids the p
 </details>
 </details>
 </div>
+
 ## ०२ येना निचक्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/02_yenA_nichakra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -190,6 +192,7 @@ This Herb wherewith the Asuri drew Indra downward from the Gods, With this same 
 </details>
 </details>
 </div>
+
 ## ०३ प्रतीची सोममसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -257,6 +260,7 @@ Thou art the peer of Soma, yea, thou art the equal of the Sun, The peer of all t
 </details>
 </details>
 </div>
+
 ## ०४ अहं वदामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -325,6 +329,7 @@ I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt
 </details>
 </details>
 </div>
+
 ## ०५ यदि वासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/05_yadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

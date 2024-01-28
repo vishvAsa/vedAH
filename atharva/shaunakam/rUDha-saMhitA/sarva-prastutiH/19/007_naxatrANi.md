@@ -28,6 +28,7 @@ A Prayer to the Lunar Mansions and other Powers for protection and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ चित्राणि साकम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/01_chitrANi_sAkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -106,6 +107,7 @@ The brilliant lights shining in heaven together, which through the world glide o
 </details>
 </details>
 </div>
+
 ## ०२ सुहवमग्ने कृत्तिका
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -180,6 +182,7 @@ Krittikas, Rohini be swift to hear me! Let Mrigasiras bless me, help me Ardra! P
 </details>
 </details>
 </div>
+
 ## ०३ पुण्यं पूर्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/03_puNyaM_pUrvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -271,6 +274,7 @@ My bliss be Svati and benignant Chitra, my right First Phalgunis and present Has
 </details>
 </details>
 </div>
+
 ## ०४ अन्नं पूर्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/04_annaM_pUrvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -393,6 +397,7 @@ Food shall be earlier Ashadhas grant me; let those that follow bring me strength
 </details>
 </details>
 </div>
+
 ## ०५ आ मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/05_A_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

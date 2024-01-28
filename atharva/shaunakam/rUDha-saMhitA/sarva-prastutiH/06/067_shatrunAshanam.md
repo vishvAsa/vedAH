@@ -32,6 +32,7 @@ A charm for the destruction and plunder of enemies
 </details>
 </details>
 </div>
+
 ## ०१ परि वर्त्मानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/01_pari_vartmAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ Indra and Pushan have gone forth along the ways on every side. To-day those host
 </details>
 </details>
 </div>
+
 ## ०२ मूढा अमित्राश्चरताशीर्षाण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ Ye foes, come hitherward dismayed like serpents when their heads are gone. Let I
 </details>
 </details>
 </div>
+
 ## ०३ ऐषु नह्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/03_aiShu_nahya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ An expiatory hymn accompanying sacrifice
 </details>
 </details>
 </div>
+
 ## ०१ त्वमग्ने व्रतपा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/01_tvamagne_vratapA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,6 +109,7 @@ God among mortals, Agni, thou art guard of holy Law, thou art To be adored in sa
 </details>
 </details>
 </div>
+
 ## ०२ यद्वो वयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/02_yadvo_vayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -178,6 +180,7 @@ When, ignorant, we violate the statutes of you, O Deities, with whom is knowledg
 </details>
 </details>
 </div>
+
 ## ०३ आ देवानामपि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/03_A_devAnAmapi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

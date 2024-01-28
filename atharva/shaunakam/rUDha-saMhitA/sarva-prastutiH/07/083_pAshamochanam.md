@@ -32,6 +32,7 @@ A prayer for deliverance from sin and other evils
 </details>
 </details>
 </div>
+
 ## ०१ अप्सु ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/01_apsu_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,6 +109,7 @@ Stablished amid the waters is, King Varuna, thy golden home. Thence let the Sovr
 </details>
 </details>
 </div>
+
 ## ०२ धाम्नोधाम्नो राजन्नितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/02_dhAmnodhAmno_rAjannito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -193,6 +195,7 @@ From whatever oath by the waters, by the kine, by Varuna, we have sworn, From th
 </details>
 </details>
 </div>
+
 ## ०३ उदुत्तमं वरुण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/03_uduttamaM_varuNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -275,6 +278,7 @@ Loosen the bonds, O Varuna, that hold us, loosen the bond. above, between, and u
 </details>
 </details>
 </div>
+
 ## ०४ प्रास्मत्पाशान्वरुण मुञ्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/04_prAsmatpAshAnvaruNa_muncha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

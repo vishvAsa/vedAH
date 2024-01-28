@@ -28,6 +28,7 @@ Translated: Zimmer, p. 321; Grill, 49, 176; Griffith, i. 323; Bloomfield, 110, 5
 </details>
 </details>
 </div>
+
 ## ०१ यौ व्याघ्राववरूढौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/140_sumangalau_dantau/01_yau_vyAghrAvavarUDhau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,6 +92,7 @@ Two tigers have grown up who long to eat the mother and the sire: Soothe, Brahma
 </details>
 </details>
 </div>
+
 ## ०२ व्रीहिमत्तं यवमत्तमथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/140_sumangalau_dantau/02_vrIhimattaM_yavamattamatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -157,6 +159,7 @@ Let rice and barley be your food, eat also beans and sesamum. This is the share 
 </details>
 </details>
 </div>
+
 ## ०३ उपहूतौ सयुजौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/140_sumangalau_dantau/03_upahUtau_sayujau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

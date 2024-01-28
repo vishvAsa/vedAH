@@ -32,6 +32,7 @@ A prayer, accompanying sacrifice, for the attainment of a wish
 </details>
 </details>
 </div>
+
 ## ०१ यामाहुतिं प्रथमामथर्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -112,6 +113,7 @@ The first oblation that Atharvan oared, earliest sacrifice paid by Jatavedas, Ev
 </details>
 </details>
 </div>
+
 ## ०२ आकूतिं देवीम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/02_AkUtiM_devIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -184,6 +186,7 @@ In front I set Intention, blessed Goddess. Mother of thought, may she be prompt 
 </details>
 </details>
 </div>
+
 ## ०३ आकूत्या नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/03_AkUtyA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -247,6 +250,7 @@ With Purpose, O Prajapati, with Purpose come thou near to us. Bestow on us a sha
 </details>
 </details>
 </div>
+
 ## ०४ बृहस्पतिर्म आकूतिमाङ्गिरसः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

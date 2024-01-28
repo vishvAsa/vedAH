@@ -32,6 +32,7 @@ To Savitar, or Yama invested with Savitar's attributes
 </details>
 </details>
 </div>
+
 ## ०१ अयं सहस्रमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/022_jyotiH/01_ayaM_sahasramA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Unto a thousand sages he hath given sight: thought, light is he in ranging all.
 </details>
 </details>
 </div>
+
 ## ०२ ब्रध्नः समीचीरुषसः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/022_jyotiH/02_bradhnaH_samIchIruShasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

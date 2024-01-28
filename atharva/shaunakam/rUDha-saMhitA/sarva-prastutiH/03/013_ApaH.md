@@ -32,6 +32,7 @@ A benediction on a newly cut water channel
 </details>
 </details>
 </div>
+
 ## ०१ यददः सम्प्रयतीरहावनदता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/01_yadadaH_samprayatIrahAvanadatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ As ye, when Ahi had been slain, flowed forth together with a roar, So are ye cal
 </details>
 </details>
 </div>
+
 ## ०२ यत्प्रेषिता वरुणेनाच्छीभम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/02_yatpreShitA_varuNenAchChIbham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ As driven forth by Varuna ye swiftly urged your rolling waves, There Indra reach
 </details>
 </details>
 </div>
+
 ## ०३ अपकामं स्यन्दमाना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/03_apakAmaM_syandamAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -234,6 +237,7 @@ Indra restrained you with his might. Goddesses, as ye glided on Not in accordanc
 </details>
 </details>
 </div>
+
 ## ०४ एको वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/04_eko_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -310,6 +314,7 @@ One only God set foot on you flowing according to your will, The mighty ones bre
 </details>
 </details>
 </div>
+
 ## ०५ आपो भद्रा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/05_Apo_bhadrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -388,6 +393,7 @@ water to be had in view.
 </details>
 </details>
 </div>
+
 ## ०६ आदित्पश्याम्युत वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/06_AditpashyAmyuta_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -458,6 +464,7 @@ edition *amṛ́tastha* is a misprint for *-sya.*⌋
 </details>
 </details>
 </div>
+
 ## ०७ इदं व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/07_idaM_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

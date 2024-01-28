@@ -28,6 +28,7 @@ Translated: Ludwig, p. 506; Grill, 38, 168; Griffith, i. 297; Bloomfield, 44, 50
 </details>
 </details>
 </div>
+
 ## ०१ या ओषधयः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/096_chikitsA/01_yA_oShadhayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ The many plants of hundred shapes and forms that Soma rules as King, Commanded b
 </details>
 </details>
 </div>
+
 ## ०२ मुञ्चन्तु मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/096_chikitsA/02_munchantu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ Let them release me from the curse and from the noose of Varupa, Free me from Ya
 </details>
 </details>
 </div>
+
 ## ०३ यच्चक्षुषा मनसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/096_chikitsA/03_yachchaxuShA_manasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

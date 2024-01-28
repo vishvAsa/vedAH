@@ -32,6 +32,7 @@ A benediction on a new-born Kshatriya child
 </details>
 </details>
 </div>
+
 ## ०१ य एनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/076_AyuShyam/01_ya_enam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Those who are sitting round this babe prepare him to be looked upon. Let Agni th
 </details>
 </details>
 </div>
+
 ## ०२ अग्नेः सान्तपनस्याहमायुषे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/076_AyuShyam/02_agneH_sAntapanasyAhamAyuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ For length of life I use the name of Agni the Consuming God, Whose smoke the sag
 </details>
 </details>
 </div>
+
 ## ०३ यो अस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/076_AyuShyam/03_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -224,6 +227,7 @@ The man who knows his fuel laid in order by the Kshatriya Sets not his foot upon
 </details>
 </details>
 </div>
+
 ## ०४ नैनं घ्नन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/076_AyuShyam/04_nainaM_ghnanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

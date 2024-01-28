@@ -32,6 +32,7 @@ The same
 </details>
 </details>
 </div>
+
 ## ०१ अयं दर्भो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/01_ayaM_darbho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ For stranger and for friend alike this Darbha-grass removeth wrath. Soother of A
 </details>
 </details>
 </div>
+
 ## ०२ अयं यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/02_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ This Plant that hath abundant roots spreads to the place where waters meet. Soot
 </details>
 </details>
 </div>
+
 ## ०३ वि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/03_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

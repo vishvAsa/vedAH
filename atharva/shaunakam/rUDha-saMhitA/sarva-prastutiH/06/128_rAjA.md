@@ -28,6 +28,7 @@ Translated: Weber, Omina und Portenta (1858), p. 363; Zimmer, p. 353; Griffith, 
 </details>
 </details>
 </div>
+
 ## ०१ शकधूमं नक्षत्राणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -106,6 +107,7 @@ What time the heavenly bodies chose the Weather Prophet as their King, They brou
 </details>
 </details>
 </div>
+
 ## ०२ भद्राहं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/02_bhadrAhaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,6 +173,7 @@ May we have weather fair at noon, May we have weather fair at eve, Fair weather 
 </details>
 </details>
 </div>
+
 ## ०३ अहोरात्राभ्यां नक्षत्रेभ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -235,6 +238,7 @@ Fair weather to the day and night, and to the stars and sun and moon. Give favou
 </details>
 </details>
 </div>
+
 ## ०४ यो नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/04_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

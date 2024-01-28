@@ -32,6 +32,7 @@ A charm to mend a broken bone
 </details>
 </details>
 </div>
+
 ## ०१ रात्री माता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/01_rAtrI_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Aryaman is thy grandsire, Night thy mother, and the Cloud thy sire. Thy name is 
 </details>
 </details>
 </div>
+
 ## ०२ यस्त्वा पिबति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/02_yastvA_pibati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ Whoever drinketh thee hath life: thou savest and protectest man. As nursing moth
 </details>
 </details>
 </div>
+
 ## ०३ वृक्षंवृक्षमा रोहसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/03_vRxaMvRxamA_rohasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,6 +229,7 @@ Thou clingest close to every tree, as a fond damsel clasps her love. Thy name is
 </details>
 </details>
 </div>
+
 ## ०४ यद्दण्डेन यदिष्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/04_yaddaNDena_yadiShvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -289,6 +293,7 @@ Whatever wound the arrow, or the staff, or violence inflicts, Thereof thou art t
 </details>
 </details>
 </div>
+
 ## ०५ भद्रात्प्लक्षान्निस्तिष्ठस्यश्वत्थात्खदिराद्धवात्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/05_bhadrAtplaxAnnistiShThasyashvatthAtkhadirAddhav.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -351,6 +356,7 @@ Thou springest from blest Plaxa, or Asvattha, Dhava, Khadira, Parna, or blest Ny
 </details>
 </details>
 </div>
+
 ## ०६ हिरण्यवर्णे सुभगे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/06_hiraNyavarNe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -417,6 +423,7 @@ Gold-coloured, bringing happy fate, most lovely, brilliant as the Sun, Mayst tho
 </details>
 </details>
 </div>
+
 ## ०७ हिरण्यवर्णे सुभगे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/07_hiraNyavarNe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -481,6 +488,7 @@ Gold-coloured, bringing happy fate, odorous, hairy-bodied one, The sister of the
 </details>
 </details>
 </div>
+
 ## ०८ सिलाची नाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/08_silAchI_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -548,6 +556,7 @@ Silachi is thy name: thy sire, O goat-brown! is a damsel's son. Thou hast been s
 </details>
 </details>
 </div>
+
 ## ०९ अश्वस्यास्नः सम्पतिता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/09_ashvasyAsnaH_sampatitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

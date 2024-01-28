@@ -32,6 +32,7 @@ A prayer accompanying an animal sacrifice
 </details>
 </details>
 </div>
+
 ## ०१ य ईशे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/01_ya_Ishe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -113,6 +114,7 @@ May this, of all the beasts that Pasupati rules, Lord of animals,. quadruped and
 </details>
 </details>
 </div>
+
 ## ०२ प्रमुञ्चन्तो भुवनस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/02_pramunchanto_bhuvanasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -186,6 +188,7 @@ Loosing the seed of future-time existence, give good success, O Gods, to him who
 </details>
 </details>
 </div>
+
 ## ०३ ये बध्यमानमनु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/03_ye_badhyamAnamanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -260,6 +263,7 @@ Those who are looking, deep in meditation, on the bound ani- mal with eye and sp
 </details>
 </details>
 </div>
+
 ## ०४ ये ग्राम्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/04_ye_grAmyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -327,6 +331,7 @@ Tame animals of every shape, though varied in colour, manifold. alike in nature 
 </details>
 </details>
 </div>
+
 ## ०५ प्रजानन्तः प्रति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/05_prajAnantaH_prati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

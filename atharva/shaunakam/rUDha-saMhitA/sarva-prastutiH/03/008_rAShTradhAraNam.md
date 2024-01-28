@@ -33,6 +33,7 @@ A charm to secure the submission, love, and fidelity of kinsmen
 </details>
 </details>
 </div>
+
 ## ०१ आ यातु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/008_rAShTradhAraNam/01_A_yAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,6 +109,7 @@ Let Mitra come, arranging, with the Seasons, lulling the Earth to rest with glea
 </details>
 </details>
 </div>
+
 ## ०२ धाता रातिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/008_rAShTradhAraNam/02_dhAtA_rAtiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -179,6 +181,7 @@ May Indra, Tvashtar hear my word with favour, may Dhatar, Rati, Savitar accept i
 </details>
 </details>
 </div>
+
 ## ०३ हुवे सोमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/008_rAShTradhAraNam/03_huve_somam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -252,6 +255,7 @@ Soma I call, and Savitar with homage, and all the Adityas in the time of contest
 </details>
 </details>
 </div>
+
 ## ०४ इहेदसाथ न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/008_rAShTradhAraNam/04_ihedasAtha_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -331,6 +335,7 @@ Here, verily, may you stay: go ye no farther. The strong Herd, Lord of Increase,
 </details>
 </details>
 </div>
+
 ## ०५ सं वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/008_rAShTradhAraNam/05_saM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -408,6 +413,7 @@ We bend together all your minds, your vows and purposes we bend. We bend togethe
 </details>
 </details>
 </div>
+
 ## ०६ अहं गृभ्णामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/008_rAShTradhAraNam/06_ahaM_gRbhNAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

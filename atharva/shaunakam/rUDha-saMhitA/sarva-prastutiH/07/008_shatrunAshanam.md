@@ -32,6 +32,7 @@ Godspeed to a departing traveller
 </details>
 </details>
 </div>
+
 ## ०१ भद्रादधि श्रेयः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/008_shatrunAshanam/01_bhadrAdadhi_shreyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A charm for the recovery of one dangerously ill
 </details>
 </details>
 </div>
+
 ## ०१ वि देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/01_vi_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ May Gods release from failing strength, thou Agni, from malignity! I free from e
 </details>
 </details>
 </div>
+
 ## ०२ व्यार्त्या पवमानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ May Pavamana free from harm, and Sakra from unrighteous deed. I free from every 
 </details>
 </details>
 </div>
+
 ## ०३ वि ग्राम्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -229,6 +232,7 @@ Tame beasts have parted from wild beasts, water and thirst have gone apart I fre
 </details>
 </details>
 </div>
+
 ## ०४ वी मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/04_vI_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -296,6 +300,7 @@ Parted are heaven and earth, and paths turned to each quarter of the sky. I free
 </details>
 </details>
 </div>
+
 ## ०५ त्वष्टा दुहित्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -369,6 +374,7 @@ Tvashtar prepares the bridal of his daughter; then all this world of life depart
 </details>
 </details>
 </div>
+
 ## ०६ अग्निः प्राणान्त्सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -436,6 +442,7 @@ Agni combines the vital airs. The moon is closely joined with breath. I free. et
 </details>
 </details>
 </div>
+
 ## ०७ प्राणेन विश्वतोवीर्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/07_prANena_vishvatovIryam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -498,6 +505,7 @@ The Gods have lifted up with breath the Sun whose might is everywhere. I free, e
 </details>
 </details>
 </div>
+
 ## ०८ आयुष्मतामायुष्कृतां प्राणेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -560,6 +568,7 @@ Die not. Live with the breath of those who make and who enjoy long life. I free,
 </details>
 </details>
 </div>
+
 ## ०९ प्राणेन प्राणताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -623,6 +632,7 @@ Die not. Stay here. Breathe with the breath of those who draw the vital air. I f
 </details>
 </details>
 </div>
+
 ## १० उदायुषा समायुषोदोषधीनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -689,6 +699,7 @@ Rise up with life, conjoined with life. Up, with the sap of growing plants! I fr
 </details>
 </details>
 </div>
+
 ## ११ आ पर्जन्यस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/11_A_parjanyasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

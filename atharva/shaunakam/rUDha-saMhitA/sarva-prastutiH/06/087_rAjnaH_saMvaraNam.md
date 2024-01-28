@@ -32,6 +32,7 @@ A benediction addressed to a newly elected King
 </details>
 </details>
 </div>
+
 ## ०१ आ त्वाहार्षमन्तरभूर्ध्रुवस्तिष्ठाविचाचलत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/087_rAjnaH_saMvaraNam/01_A_tvAhArShamantarabhUrdhruvastiShThAvichAchalat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ Here art thou: I have chosen thee. Stand stedfast and immov- able. Let all the c
 </details>
 </details>
 </div>
+
 ## ०२ इहैवैधि माप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/087_rAjnaH_saMvaraNam/02_ihaivaidhi_mApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,6 +175,7 @@ Be even here: fall not away: be like a mountain unremoved. Stand stedfast here l
 </details>
 </details>
 </div>
+
 ## ०३ इन्द्र एतमदीधरद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/087_rAjnaH_saMvaraNam/03_indra_etamadIdharad.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A charm to ensure health and prosperity by wearing an amulet
 </details>
 </details>
 </div>
+
 ## ०१ दीर्घायुत्वाय बृहते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/01_dIrghAyutvAya_bRhate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ For length of life, for mighty joy, uninjured, ever showing strength. We wear Vi
 </details>
 </details>
 </div>
+
 ## ०२ जङ्गिडो जम्भाद्विशराद्विष्कन्धादभिशोचनात्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/02_jangiDo_jambhAdvisharAdviShkandhAdabhishochanAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ Amulet of a thousand powers, Jangida save us, all around. From Jambha, and from 
 </details>
 </details>
 </div>
+
 ## ०३ अयं विष्कन्धम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/03_ayaM_viShkandham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,6 +235,7 @@ This overcomes Vishkandha, this chases the greedy fiends away: May this our pana
 </details>
 </details>
 </div>
+
 ## ०४ देवैर्दत्तेन मणिना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/04_devairdattena_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -294,6 +298,7 @@ With Jangida that brings delight, Amulet given by the Gods, We in the conflict o
 </details>
 </details>
 </div>
+
 ## ०५ शणश्च मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/05_shaNashcha_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -359,6 +364,7 @@ May Cannabis and Jangida preserve me from Vishkandha,-- that Brought to us from 
 </details>
 </details>
 </div>
+
 ## ०६ कृत्यादूषिरयं मणिरथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/06_kRtyAdUShirayaM_maNiratho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

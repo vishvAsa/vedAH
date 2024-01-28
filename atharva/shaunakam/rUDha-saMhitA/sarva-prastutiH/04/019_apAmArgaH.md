@@ -32,6 +32,7 @@ A counter-charm and charm to secure general protection.
 </details>
 </details>
 </div>
+
 ## ०१ उतो अस्यबन्धुकृदुतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/01_uto_asyabandhukRduto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ Thou breakest ties of kith and kin, thou causest, too, relation- ship: So bruise
 </details>
 </details>
 </div>
+
 ## ०२ ब्राह्मणेन पर्युक्तासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/02_brAhmaNena_paryuktAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -182,6 +184,7 @@ Thou hast been blessed with blessing by the Brahman, Kanva Narshada. Thou fliest
 </details>
 </details>
 </div>
+
 ## ०३ अग्रमेष्योषधीनां ज्योतिषेवाभिदीपयन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/03_agrameShyoShadhInAM_jyotiShevAbhidIpayan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -246,6 +249,7 @@ Illumining, as 'twere, with light, thou movest at the head of plants. The saviou
 </details>
 </details>
 </div>
+
 ## ०४ यददो देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/04_yadado_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -309,6 +313,7 @@ As once when time began the Gods with thee expelled the Asuras, Even thence, O P
 </details>
 </details>
 </div>
+
 ## ०५ विभिन्दती शतशाखा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/05_vibhindatI_shatashAkhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -373,6 +378,7 @@ Thy father's name was Cleaver. Thou with thousand branches cleavest all. Do thou
 </details>
 </details>
 </div>
+
 ## ०६ असद्भूम्याः समभवत्तद्यामेति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/06_asadbhUmyAH_samabhavattadyAmeti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -448,6 +454,7 @@ The evil sprang from earth; it mounts to heaven and spreads to vast extent. Reve
 </details>
 </details>
 </div>
+
 ## ०७ प्रत्यङ्हि सम्बभूविथ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/07_pratya~Nhi_sambabhUvitha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -512,6 +519,7 @@ For thou hast grown reverted, and turned backward also is thy fruit. Remove all 
 </details>
 </details>
 </div>
+
 ## ०८ शतेन मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/08_shatena_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

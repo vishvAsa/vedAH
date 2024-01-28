@@ -24,6 +24,7 @@ In Pāipp. ⌊i.⌋ is found only the first half-verse, much corrupted. It is em
 </details>
 </details>
 </div>
+
 ## ०१ त्रिते देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/01_trite_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ This sin the Gods wiped off and laid on Trita, and Trita wiped it off on human b
 </details>
 </details>
 </div>
+
 ## ०२ मरीचीर्धूमान्प्र विशानु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/02_marIchIrdhUmAnpra_vishAnu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ Enter the particles of light and vapours, go to the rising fogs or mists, O Evil
 </details>
 </details>
 </div>
+
 ## ०३ द्वादशधा निहितम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/03_dvAdashadhA_nihitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

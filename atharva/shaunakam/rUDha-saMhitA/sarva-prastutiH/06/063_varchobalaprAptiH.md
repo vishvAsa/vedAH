@@ -32,6 +32,7 @@ The symbolical liberation of a sacrificial victim
 </details>
 </details>
 </div>
+
 ## ०१ यत्ते देवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/01_yatte_devI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,6 +109,7 @@ That collar round thy neck, not to be loosened, which Nirriti the Goddess bound 
 </details>
 </details>
 </div>
+
 ## ०२ नमोऽस्तु ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/02_namo-stu_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -177,6 +179,7 @@ To thee, sharp-pointed Nirriti, be homage! Loose thou the binding fetters wrough
 </details>
 </details>
 </div>
+
 ## ०३ अयस्मये द्रुपदे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/03_ayasmaye_drupade.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -247,6 +250,7 @@ Compassed by death which comes in thousand manners, here art thou fastened to th
 </details>
 </details>
 </div>
+
 ## ०४ संसमिद्युवसे वृषन्नग्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/04_saMsamidyuvase_vRShannagne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

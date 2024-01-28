@@ -32,6 +32,7 @@ A priest's benediction after meat
 </details>
 </details>
 </div>
+
 ## ०१ यदन्नमद्मि बहुधा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/01_yadannamadmi_bahudhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ What food I eat of varied form and nature, food whether gold, or horse, sheep, g
 </details>
 </details>
 </div>
+
 ## ०२ यन्मा हुतमहुतमाजगाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,6 +172,7 @@ Whatever, sacrificed or not, hath reached me, bestowed by men and sanctioned by 
 </details>
 </details>
 </div>
+
 ## ०३ यदन्नमद्म्यनृतेन देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/03_yadannamadmyanRtena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

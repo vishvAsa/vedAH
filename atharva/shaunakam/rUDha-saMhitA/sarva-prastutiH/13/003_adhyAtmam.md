@@ -37,6 +37,7 @@ A glorification of Rohita. with a malediction on the man who wrongs a Brahman
 </details>
 </details>
 </div>
+
 ## ०१ य इमे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/01_ya_ime.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -122,6 +123,7 @@ He who engendered these, the earth and heaven, who made the worlds the mantle th
 </details>
 </details>
 </div>
+
 ## ०२ यस्माद्वाता ऋतुथा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/02_yasmAdvAtA_RtuthA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -187,6 +189,7 @@ He from whom winds blow pure in ordered season, from whom the seas flow forth in
 </details>
 </details>
 </div>
+
 ## ०३ यो मारयति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/03_yo_mArayati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -250,6 +253,7 @@ He who takes life away, he who bestows it; from whom comes breath to every livin
 </details>
 </details>
 </div>
+
 ## ०४ यः प्राणेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/04_yaH_prANena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -314,6 +318,7 @@ Who with the breath he draws sates earth and heaven, with expiration fills the o
 </details>
 </details>
 </div>
+
 ## ०५ यस्मिन्विराट्परमेष्ठी प्रजापतिरग्निर्वैश्वानरः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/05_yasminvirATparameShThI_prajApatiragnirvaishvAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -384,6 +389,7 @@ In whom Viraj, Prajapati, Parameshthin, Agni Vaisvanara abide with Pankti, He wh
 </details>
 </details>
 </div>
+
 ## ०६ यस्मिन्षडुर्वीः पञ्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/06_yasminShaDurvIH_pancha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -458,6 +464,7 @@ On whom rest six expenses and five regions, four waters, and three syllables of 
 </details>
 </details>
 </div>
+
 ## ०७ यो अन्नादो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/07_yo_annAdo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -534,6 +541,7 @@ He who, consuming food, became its master, the Lord of Prayer, the Regent of Dev
 </details>
 </details>
 </div>
+
 ## ०८ अहोरात्रैर्विमितं त्रिंशदङ्गम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/08_ahorAtrairvimitaM_triMshadangam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -598,6 +606,7 @@ He who metes out the thirteenth month, constructed with days and nights, contain
 </details>
 </details>
 </div>
+
 ## ०९ कृष्णं नियानम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/09_kRShNaM_niyAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -667,6 +676,7 @@ Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, 
 </details>
 </details>
 </div>
+
 ## १० यत्ते चन्द्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/10_yatte_chandram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -744,6 +754,7 @@ What silver. Kasyapa, thou hast refulgent, what brightly-shining lotus-flower co
 </details>
 </details>
 </div>
+
 ## ११ बृहदेनमनु वस्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/11_bRhadenamanu_vaste.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -809,6 +820,7 @@ In front the Brihat-Saman is his mantle, and from behind Rathantara enfolds him,
 </details>
 </details>
 </div>
+
 ## १२ बृहदन्यतः पक्ष
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/12_bRhadanyataH_paxa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -876,6 +888,7 @@ One of his wings was Brihat, and the other Rathantarr., vigorous with one same p
 </details>
 </details>
 </div>
+
 ## १३ स वरुणः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/13_sa_varuNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -949,6 +962,7 @@ At evening he is Varuna and Agni, ascending in the morning he is Mitra. As Savit
 </details>
 </details>
 </div>
+
 ## १४ सहस्राह्ण्यं वियतावस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/14_sahasrAhNyaM_viyatAvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1018,6 +1032,7 @@ This gold-hued Harisa's wings, soaring to heaven spread o'er a thousand days' co
 </details>
 </details>
 </div>
+
 ## १५ अयं स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/15_ayaM_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1088,6 +1103,7 @@ This is the God who dwells-within the waters, the thousand- rooted, many-powered
 </details>
 </details>
 </div>
+
 ## १६ शुक्रं वहन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/16_shukraM_vahanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1159,6 +1175,7 @@ With flying feet his tawny coursers carry the bright God through, the sky, aglow
 </details>
 </details>
 </div>
+
 ## १७ येनादित्यान्हरितः संवहन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/17_yenAdityAnharitaH_saMvahanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1238,6 +1255,7 @@ He beside whom his bay steeds bear the Adityas, by whom as sacrifice go many kno
 </details>
 </details>
 </div>
+
 ## १८ सप्त युञ्जन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/18_sapta_yunjanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1305,6 +1323,7 @@ This seven make the one-wheeled chariot ready: bearing seven names the single co
 </details>
 </details>
 </div>
+
 ## १९ अष्टधा युक्तो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/19_aShTadhA_yukto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1379,6 +1398,7 @@ Eight times attached the potent Courser draws it, Sire of the Gods, father of hy
 </details>
 </details>
 </div>
+
 ## २० सम्यञ्चं तन्तुम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/20_samyanchaM_tantum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1445,6 +1465,7 @@ The thread that goes through all celestial quarters within the Gayatri, womb of 
 </details>
 </details>
 </div>
+
 ## २१ निम्रुचस्तिस्रो व्युषो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/21_nimruchastisro_vyuSho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1512,6 +1533,7 @@ There are the settings, three the upward risings, three are the- spaces, yea, an
 </details>
 </details>
 </div>
+
 ## २२ वि य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/22_vi_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1575,6 +1597,7 @@ He who, as soon as born, laid broad earth open, and set the ocean in the air's m
 </details>
 </details>
 </div>
+
 ## २३ त्वमग्ने क्रतुभिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/23_tvamagne_kratubhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1645,6 +1668,7 @@ Thou, Agni, kind with lights and mental powers, hast up in heaven shone as the S
 </details>
 </details>
 </div>
+
 ## २४ य आत्मदा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/24_ya_AtmadA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1714,6 +1738,7 @@ Giver of breath, giver of strength and vigour, he whose com- mandment all the Go
 </details>
 </details>
 </div>
+
 ## २५ एकपाद्द्विपदो भूयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/25_ekapAddvipado_bhUyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1786,6 +1811,7 @@ The single-footed hath outstepped the biped, the biped overtakes the triple-foot
 </details>
 </details>
 </div>
+
 ## २६ कृष्णायाः पुत्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/26_kRShNAyAH_putro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

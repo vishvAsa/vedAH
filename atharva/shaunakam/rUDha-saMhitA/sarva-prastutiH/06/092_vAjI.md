@@ -28,6 +28,7 @@ Translated: Ludwig, p. 459; Griffith, i. 295; Bloomfield, 145, 507.
 </details>
 </details>
 </div>
+
 ## ०१ वातरंहा भव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/01_vAtaraMhA_bhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Be fleet as wind, Strong Steed, when thou art harnessed; go forth as swift as th
 </details>
 </details>
 </div>
+
 ## ०२ जवस्ते अर्वन्निहितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/02_javaste_arvannihito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ That speed, that lies concealed in thee, O Charger, speed granted to the hawk or
 </details>
 </details>
 </div>
+
 ## ०३ तनूष्टे वाजिन्तन्वम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/03_tanUShTe_vAjintanvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

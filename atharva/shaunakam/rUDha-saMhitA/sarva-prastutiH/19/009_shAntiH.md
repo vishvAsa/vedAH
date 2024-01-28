@@ -32,6 +32,7 @@ A prayer for general protection and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ शान्ता द्यौः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/01_shAntA_dyauH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ Gentle be heaven, gentle be earth, gentle this spacious, atmosphere. Gentle be w
 </details>
 </details>
 </div>
+
 ## ०२ शान्तानि पूर्वरूपाणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/02_shAntAni_pUrvarUpANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ Gentle be signs of coming change, and that which is and is not. done! Gentle be 
 </details>
 </details>
 </div>
+
 ## ०३ इयं या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/03_iyaM_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -221,6 +224,7 @@ Quickened by Prayer, this Goddess Vak who standeth in the highest place, By whom
 </details>
 </details>
 </div>
+
 ## ०४ इदं यत्परमेष्ठिनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/04_idaM_yatparameShThinam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -285,6 +289,7 @@ Or, made more keen by Prayer, this mind that standeth in the highest place, Wher
 </details>
 </details>
 </div>
+
 ## ०५ इमानि यानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/05_imAni_yAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -350,6 +355,7 @@ These five sense-organs with the mind as sixth, sharpened by Prayer, abiding in 
 </details>
 </details>
 </div>
+
 ## ०६ शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/06_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -418,6 +424,7 @@ Favour us Mitra, Varuna, and Vishnu, and Prajapati! Gracious* to us be Indra and
 </details>
 </details>
 </div>
+
 ## ०७ शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/07_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -494,6 +501,7 @@ Favour us Mitra, Varuna, Vivasvan, and the Finisher, Portents on earth and in th
 </details>
 </details>
 </div>
+
 ## ०८ शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/08_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -576,6 +584,7 @@ Gracious to us be trembling earth, gracious the flaming meteor stroke! Gracious 
 </details>
 </details>
 </div>
+
 ## ०९ नक्षत्रमुल्काभिहतं शमस्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/09_naxatramulkAbhihataM_shamastu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -653,6 +662,7 @@ Gracious be meteor-stricken constellation, gracious to us be magic spells and wi
 </details>
 </details>
 </div>
+
 ## १० शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/10_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -724,6 +734,7 @@ Kind be the Powers who seize the Moon, with Rahu be Adityas kind! Favour us Deat
 </details>
 </details>
 </div>
+
 ## ११ शं रुद्राः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/11_shaM_rudrAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -792,6 +803,7 @@ Rudras and Vasus favour us, Adityas, Agnis favour us! Favour us mighty Rishis, G
 </details>
 </details>
 </div>
+
 ## १२ ब्रह्म प्रजापतिर्धाता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/12_brahma_prajApatirdhAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -866,6 +878,7 @@ Brahma, Dhatar, Prajapati, Worlds, Vedas, Agnis, Rishis Seven. All these have bl
 </details>
 </details>
 </div>
+
 ## १३ यानि कानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/13_yAni_kAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -929,6 +942,7 @@ May all the Gods protect me, may the Gods united shield me well. May all allevia
 </details>
 </details>
 </div>
+
 ## १४ पृथिवी शान्तिरन्तरिक्षम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/14_pRthivI_shAntirantarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

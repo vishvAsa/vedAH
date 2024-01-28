@@ -32,6 +32,7 @@ A glorification of the sacrificial gharma or milk caldron
 </details>
 </details>
 </div>
+
 ## ०१ अनड्वान्दाधार पृथिवीमुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/01_anaDvAndAdhAra_pRthivImuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,6 +109,7 @@ The Bull supports the wide-spread earth and heaven, the Bull supports the spacio
 </details>
 </details>
 </div>
+
 ## ०२ अनड्वानिन्द्रः स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/02_anaDvAnindraH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -180,6 +182,7 @@ The Bull is Indra o'er the beasts he watches. He, Sakra measures out three sever
 </details>
 </details>
 </div>
+
 ## ०३ इन्द्रो जातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/03_indro_jAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -261,6 +264,7 @@ Being produced among mankind as Indra, the Caldron works heated and brightly glo
 </details>
 </details>
 </div>
+
 ## ०४ अनड्वान्दुहे सुकृतस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/04_anaDvAnduhe_sukRtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -330,6 +334,7 @@ The Ox pours milk out in the world of virtue: in earliest time, he, Pavam5na, sw
 </details>
 </details>
 </div>
+
 ## ०५ यस्य नेशे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/05_yasya_neshe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -399,6 +404,7 @@ That which not sacrifice nor sacrificer, not giver nor receiver rules and govern
 </details>
 </details>
 </div>
+
 ## ०६ येन देवाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/06_yena_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -472,6 +478,7 @@ May we, fame-seekers, reach the world of virtue by service of the Gharma and thr
 </details>
 </details>
 </div>
+
 ## ०७ इन्द्रो रूपेणाग्निर्वहेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/07_indro_rUpeNAgnirvahena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -557,6 +564,7 @@ Prajapati, supreme and sovran ruler, Indra by form and by his shoulder Agni, Cam
 </details>
 </details>
 </div>
+
 ## ०८ मध्यमेतदनडुहो यत्रैष
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/08_madhyametadanaDuho_yatraiSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -627,6 +635,7 @@ The middle of the Bullock's neck, there where the shoulder-bar is placed, Extend
 </details>
 </details>
 </div>
+
 ## ०९ यो वेदानडुहो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/09_yo_vedAnaDuho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -696,6 +705,7 @@ He whosoever knows the seven exhaustless pourings of the Ox, Wins himself offspr
 </details>
 </details>
 </div>
+
 ## १० पद्भिः सेदिमवक्रामन्निराम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/10_padbhiH_sedimavakrAmannirAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -767,6 +777,7 @@ With feet subduing weariness, with legs extracting freshening draughts, Through 
 </details>
 </details>
 </div>
+
 ## ११ द्वादश वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/11_dvAdasha_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -837,6 +848,7 @@ Assigned are these twelve nights, they say, as holy to Prajapati: Whoever knows 
 </details>
 </details>
 </div>
+
 ## १२ दुहे सायम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/12_duhe_sAyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

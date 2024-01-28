@@ -32,6 +32,7 @@ Praise of the sacrificial utensils
 </details>
 </details>
 </div>
+
 ## ०१ वेदः स्वस्तिर्द्रुघणः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/028_svasti/01_vedaH_svastirdrughaNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -28,6 +28,7 @@ Translated: Griffith, i. 321.
 </details>
 </details>
 </div>
+
 ## ०१ यदश्नामि बलम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/01_yadashnAmi_balam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ Whate'er I eat I turn to strength, and thus I grasp the Thunder- bolt, Rending t
 </details>
 </details>
 </div>
+
 ## ०२ यत्पिबामि सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/02_yatpibAmi_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,6 +156,7 @@ I drink together what I drink, even as the sea that swallows all. Drinking the l
 </details>
 </details>
 </div>
+
 ## ०३ यद्गिरामि सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/03_yadgirAmi_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

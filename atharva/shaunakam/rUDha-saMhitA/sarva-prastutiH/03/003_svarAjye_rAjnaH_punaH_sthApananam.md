@@ -32,6 +32,7 @@ A charm for the restoration of an expelled king
 </details>
 </details>
 </div>
+
 ## ०१ अचिक्रदत्स्वपा इह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/01_achikradatsvapA_iha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -116,6 +117,7 @@ Loudly he roared. Here let him labour deftly. Spread, Agni, over spacious earth 
 </details>
 </details>
 </div>
+
 ## ०२ दूरे चित्सन्तमरुषास
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/02_dUre_chitsantamaruShAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -190,6 +192,7 @@ Though he be far away, let the red horses bring Indra, bring the sage to us and 
 </details>
 </details>
 </div>
+
 ## ०३ अद्भ्यस्त्वा राज
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/03_adbhyastvA_rAja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -257,6 +260,7 @@ King Varuna call thee hither from the waters! From hills and mountains Soma call
 </details>
 </details>
 </div>
+
 ## ०४ श्येनो हव्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/04_shyeno_havyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -325,6 +329,7 @@ May the hawk bring the man who must be summoned, from far away, in alien land, a
 </details>
 </details>
 </div>
+
 ## ०५ ह्वयन्तु त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/05_hvayantu_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -397,6 +402,7 @@ Let thine opponents call thee back. Thy friends have chosen, thee again. Indra a
 </details>
 </details>
 </div>
+
 ## ०६ यस्ते हवम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/06_yaste_havam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

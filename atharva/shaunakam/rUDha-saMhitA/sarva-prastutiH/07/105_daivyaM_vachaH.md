@@ -28,6 +28,7 @@ Translated: Henry, 41, 117; Griffith, i. 379.
 </details>
 </details>
 </div>
+
 ## ०१ अपक्रामन्पौरुषेयाद्वृणानो दैव्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/105_daivyaM_vachaH/01_apakrAmanpauruSheyAdvRNAno_daivyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

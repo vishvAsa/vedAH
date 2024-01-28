@@ -32,6 +32,7 @@ The glorification of an all-powerful amulet
 </details>
 </details>
 </div>
+
 ## ०१ अरातीयोर्भ्रातृव्यस्य दुर्हार्दो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/01_arAtIyorbhrAtRvyasya_durhArdo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ With power I cut away the head of my malignant rival, of mine evil-hearted enemy
 </details>
 </details>
 </div>
+
 ## ०२ वर्म मह्यमयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/02_varma_mahyamayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ This Amulet of citron-wood shall make for me a trusty shield Filled with the min
 </details>
 </details>
 </div>
+
 ## ०३ यत्त्वा शिक्वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/03_yattvA_shikvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,6 +229,7 @@ What though the strong-armed carpenter have cleft thee with his hand and axe. Pu
 </details>
 </details>
 </div>
+
 ## ०४ हिरण्यस्रगयं मणिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/04_hiraNyasragayaM_maNiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -287,6 +291,7 @@ This Amulet, decked with chain of gold, shall give faith, sacrifice, and might, 
 </details>
 </details>
 </div>
+
 ## ०५ तस्मै घृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/05_tasmai_ghRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -352,6 +357,7 @@ To this we give apportioned food, clarified butter, wine, and meath. May it prov
 </details>
 </details>
 </div>
+
 ## ०६ यमबध्नाद्बृहस्पतिर्मणिं फालम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/06_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -419,6 +425,7 @@ The Charm Brihaspati hath bound, the fatness-dropping citron- wood, the potent K
 </details>
 </details>
 </div>
+
 ## ०७ यमबध्नाद्बृहस्पतिर्मणिं फालम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/07_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -481,6 +488,7 @@ The Charm Brihaspati hath bound, the fatness-dropping citron- wood, the potent K
 </details>
 </details>
 </div>
+
 ## ०८ यमबध्नाद्बृहस्पतिर्मणिं फालम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/08_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -544,6 +552,7 @@ The Charin Brihaspati, etc. This Charm hath Soma put on him for might, for heari
 </details>
 </details>
 </div>
+
 ## ०९ यमबध्नाद्बृहस्पतिर्मणिं फालम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/09_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -610,6 +619,7 @@ The Charm Brihaspati, etc. This Surya put on him, with this conquered the region
 </details>
 </details>
 </div>
+
 ## १० यमबध्नाद्बृहस्पतिर्मणिं फालम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/10_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -674,6 +684,7 @@ The Charm Brihaspati, etc. This Charm did Chandra wear, with this conquered the 
 </details>
 </details>
 </div>
+
 ## ११ यमबध्नाद्बृहस्पतिर्वाताय मणिमाशवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/11_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -743,6 +754,7 @@ The Amulet Brihaspati bound on the swiftly-moving Wind. This yieldeth him a vigo
 </details>
 </details>
 </div>
+
 ## १२ यमबध्नाद्बृहस्पतिर्वाताय मणिमाशवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/12_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -806,6 +818,7 @@ The Asvins with this Amulet protect this culture of our fields. This yields the 
 </details>
 </details>
 </div>
+
 ## १३ यमबध्नाद्बृहस्पतिर्वाताय मणिमाशवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/13_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -869,6 +882,7 @@ Savitar wore this Amulet: herewith he won this lucid heaven. This yields him glo
 </details>
 </details>
 </div>
+
 ## १४ यमबध्नाद्बृहस्पतिर्वाताय मणिमाशवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/14_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -932,6 +946,7 @@ Wearing this Charm the Waters flow eternally inviolate. This yieldeth them ambro
 </details>
 </details>
 </div>
+
 ## १५ यमबध्नाद्बृहस्पतिर्वाताय मणिमाशवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/15_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -995,6 +1010,7 @@ King Varuna assumed and wore this salutary Amulet. This yieldeth him his truthfu
 </details>
 </details>
 </div>
+
 ## १६ यमबध्नाद्बृहस्पतिर्वाताय मणिमाशवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/16_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1060,6 +1076,7 @@ Wearing this Amulet the Gods conquered in battle all the worlds. This yieldeth v
 </details>
 </details>
 </div>
+
 ## १७ यमबध्नाद्बृहस्पतिर्वाताय मणिमाशवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/17_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1127,6 +1144,7 @@ The Amulet Brihaspati formed for the swiftly-moving Wind, This salutary Amulet t
 </details>
 </details>
 </div>
+
 ## १८ ऋतवस्तमबध्नतार्तवास्तमबध्नत संवत्सरस्तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/18_RtavastamabadhnatArtavAstamabadhnata_saMvatsara.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1188,6 +1206,7 @@ The seasons formed that Amulet, the Groups of Seasons fashion- ed it. The Year h
 </details>
 </details>
 </div>
+
 ## १९ अन्तर्देशा अबध्नत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/19_antardeshA_abadhnata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1248,6 +1267,7 @@ The regions of the heaven, the points that lie between them fashioned it. Create
 </details>
 </details>
 </div>
+
 ## २० अथर्वाणो अबध्नताथर्वणा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/20_atharvANo_abadhnatAtharvaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1309,6 +1329,7 @@ Atharvan made the Amulet, Atharvan's children fashioned it. With them the sage A
 </details>
 </details>
 </div>
+
 ## २१ तं धाता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/21_taM_dhAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1370,6 +1391,7 @@ Dhatar bound on this Amulet: he ranged and ordered all that is. With this do tho
 </details>
 </details>
 </div>
+
 ## २२ यमबध्नाद्बृहस्पतिर्देवेभ्यो असुरक्षितिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/22_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1438,6 +1460,7 @@ The Amulet Brihaspati formed for the Gods, that slew the fiends. That Amulet her
 </details>
 </details>
 </div>
+
 ## २३ यमबध्नाद्बृहस्पतिर्देवेभ्यो असुरक्षितिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/23_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1498,6 +1521,7 @@ The Amulet, etc. That Amulet here hath come to me, hath come with cows, and goat
 </details>
 </details>
 </div>
+
 ## २४ यमबध्नाद्बृहस्पतिर्देवेभ्यो असुरक्षितिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/24_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1558,6 +1582,7 @@ The Amulet, etc. That Amulet here hath come to me with store of barley and of ri
 </details>
 </details>
 </div>
+
 ## २५ यमबध्नाद्बृहस्पतिर्देवेभ्यो असुरक्षितिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/25_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1618,6 +1643,7 @@ The Amulet, etc. That Amulet here hath come to me with streams of butter and of 
 </details>
 </details>
 </div>
+
 ## २६ यमबध्नाद्बृहस्पतिर्देवेभ्यो असुरक्षितिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/26_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1678,6 +1704,7 @@ The Amulet, etc. That Amulet here hath come to me with power and abundant streng
 </details>
 </details>
 </div>
+
 ## २७ यमबध्नाद्बृहस्पतिर्देवेभ्यो असुरक्षितिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/27_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1742,6 +1769,7 @@ The Amulet, etc.. That Amulet here hath come to me with splendour and a blaze of
 </details>
 </details>
 </div>
+
 ## २८ यमबध्नाद्बृहस्पतिर्देवेभ्यो असुरक्षितिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/28_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1802,6 +1830,7 @@ The Amulet Brihaspati made for the Gods, that slew the fiends, That Amulet here 
 </details>
 </details>
 </div>
+
 ## २९ तमिमं देवता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/29_tamimaM_devatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1865,6 +1894,7 @@ That Amulet may the Deities bestow on me to win success, The conquering, strengt
 </details>
 </details>
 </div>
+
 ## ३० ब्रह्मणा तेजसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/30_brahmaNA_tejasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1929,6 +1959,7 @@ I bind on me my happy fate with holy prayer and energy. Foeless destroyer of the
 </details>
 </details>
 </div>
+
 ## ३१ उत्तरं द्विषतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/31_uttaraM_dviShato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1998,6 +2029,7 @@ May this Chaim, offspring of the Gods, make me superior to my foe. So may this c
 </details>
 </details>
 </div>
+
 ## ३२ यं देवाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/32_yaM_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2059,6 +2091,7 @@ The Charm to which men, Fathers, Gods look ever for their maintenance, May this 
 </details>
 </details>
 </div>
+
 ## ३३ यथा बीजमुर्वरायाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/33_yathA_bIjamurvarAyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2121,6 +2154,7 @@ As, when the plough hath tilled the soil, the seed springs up in. fertile land, 
 </details>
 </details>
 </div>
+
 ## ३४ यस्मै त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/34_yasmai_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2183,6 +2217,7 @@ Charm, forwarder of sacrifice, who hast a hundred priestly fees. Speed to preemi
 </details>
 </details>
 </div>
+
 ## ३५ एतमिध्मं समाहितम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/35_etamidhmaM_samAhitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

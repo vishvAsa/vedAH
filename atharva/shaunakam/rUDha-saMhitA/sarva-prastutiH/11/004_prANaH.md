@@ -32,6 +32,7 @@ A glorification of Prana, Breath or Vital Spirit
 </details>
 </details>
 </div>
+
 ## ०१ प्राणाय नमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/01_prANAya_namo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ Homage to Prana, him who hath dominion o'er the universe, Who hath become the So
 </details>
 </details>
 </div>
+
 ## ०२ नमस्ते प्राण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/02_namaste_prANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -153,6 +155,7 @@ Homage, O Prana, to thy roar, to thunder-peal and lightning flash! Homage, O Pra
 </details>
 </details>
 </div>
+
 ## ०३ यत्प्राण स्तनयित्नुनाभिक्रन्दत्योषधीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/03_yatprANa_stanayitnunAbhikrandatyoShadhIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -218,6 +221,7 @@ When Prana with a thunderous voice shouts his loud message to the plants, They s
 </details>
 </details>
 </div>
+
 ## ०४ यत्प्राण ऋतावागतेऽभिक्रन्दत्योषधीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/04_yatprANa_RtAvAgate-bhikrandatyoShadhIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -280,6 +284,7 @@ When the due season hath arrived and Prana shouteth to herbs, Then all is joyful
 </details>
 </details>
 </div>
+
 ## ०५ यदा प्राणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/05_yadA_prANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -343,6 +348,7 @@ When Prana hath poured down his flood of rain upon the mighty land. Cattle and b
 </details>
 </details>
 </div>
+
 ## ०६ अभिवृष्टा ओषधयः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/06_abhivRShTA_oShadhayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -404,6 +410,7 @@ Watered by Prana's rain the plants have raised their voices in accord: Thou hast
 </details>
 </details>
 </div>
+
 ## ०७ नमस्ते अस्त्वायते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/07_namaste_astvAyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -467,6 +474,7 @@ Homage to thee when coming nigh, homage to thee departing hence! Homage, O Prana
 </details>
 </details>
 </div>
+
 ## ०८ नमस्ते प्राण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/08_namaste_prANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -530,6 +538,7 @@ Homage to thee at every breath thou drawest in and sendest forth! Homage to thee
 </details>
 </details>
 </div>
+
 ## ०९ या ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/09_yA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -593,6 +602,7 @@ Prana, communicate to us thy dear, thy very dearest form. Whatever healing balm 
 </details>
 </details>
 </div>
+
 ## १० प्राणः प्रजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/10_prANaH_prajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -656,6 +666,7 @@ Prana robes living creatures as a father his beloved son. Prana is sovran Lord o
 </details>
 </details>
 </div>
+
 ## ११ प्राणो मृत्युः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/11_prANo_mRtyuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -718,6 +729,7 @@ Prana is Fever, he is Death. Prana is worshipped by the Gods. Prana sets in the 
 </details>
 </details>
 </div>
+
 ## १२ प्राणो विराट्प्राणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/12_prANo_virATprANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -781,6 +793,7 @@ Prana is Deshtri, and Viraj Prana is reverenced by all. He is the Sun, he is the
 </details>
 </details>
 </div>
+
 ## १३ प्राणापानौ व्रीहियवावनड्वान्प्राण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/13_prANApAnau_vrIhiyavAvanaDvAnprANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -843,6 +856,7 @@ Both breaths are rice and barley, and Prana is called the toiling ox: In barley 
 </details>
 </details>
 </div>
+
 ## १४ अपानति प्राणति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/14_apAnati_prANati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -905,6 +919,7 @@ The human infant in the womb draws vital breath and sends it Lout: When thou, O 
 </details>
 </details>
 </div>
+
 ## १५ प्राणमाहुर्मातरिश्वानं वातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/15_prANamAhurmAtarishvAnaM_vAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -967,6 +982,7 @@ The name of Prana is bestowed on Matarisvan and on Wind. On Prana, past and futu
 </details>
 </details>
 </div>
+
 ## १६ आथर्वणीराङ्गिरसीर्दैवीर्मनुष्यजा उत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/16_AtharvaNIrAngirasIrdaivIrmanuShyajA_uta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1031,6 +1047,7 @@ All herbs and plants spring forth and grow when thou, O Prana quickenest, Plants
 </details>
 </details>
 </div>
+
 ## १७ यदा प्राणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/17_yadA_prANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1095,6 +1112,7 @@ When Prana hath poured down his flood of rain upon the mighty earth, The plants 
 </details>
 </details>
 </div>
+
 ## १८ यस्ते प्राणेदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/18_yaste_prANedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1156,6 +1174,7 @@ The man who knows this truth of thee, O Prana, and what bears thee up To him wil
 </details>
 </details>
 </div>
+
 ## १९ यथा प्राण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/19_yathA_prANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1219,6 +1238,7 @@ As all these living creatures are thy tributaries, Prana, so Shall they bring tr
 </details>
 </details>
 </div>
+
 ## २० अन्तर्गर्भश्चरति देवतास्वाभूतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/20_antargarbhashcharati_devatAsvAbhUto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1285,6 +1305,7 @@ Filled with a babe, mid deities he wanders: grown; near at hand, he springs agai
 </details>
 </details>
 </div>
+
 ## २१ एकं पादम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/21_ekaM_pAdam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1354,6 +1375,7 @@ Hansa, what time he rises up, leaves in the flood one foot un- moved. If he with
 </details>
 </details>
 </div>
+
 ## २२ अष्टाचक्रं वर्तत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/22_aShTAchakraM_vartata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1424,6 +1446,7 @@ It rolleth on, eight-wheeled and single-fellied, and with a thousand eyes, forwa
 </details>
 </details>
 </div>
+
 ## २३ यो अस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/23_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1492,6 +1515,7 @@ Homage, O Prana unto thee armed with swift bow among the rest, In whose dominion
 </details>
 </details>
 </div>
+
 ## २४ यो अस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/24_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1555,6 +1579,7 @@ May he who rules this Universe of varied sort, that stirs and works, Prana, aler
 </details>
 </details>
 </div>
+
 ## २५ ऊर्ध्वः सुप्तेषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/25_UrdhvaH_supteShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1623,6 +1648,7 @@ Erect among the sleepers he wakes, and is never laid at length, No one hath ever
 </details>
 </details>
 </div>
+
 ## २६ प्राण मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/26_prANa_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

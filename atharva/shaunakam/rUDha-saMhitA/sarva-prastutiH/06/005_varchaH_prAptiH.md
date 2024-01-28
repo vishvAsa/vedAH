@@ -32,6 +32,7 @@ A prayer to Agni and Indra for the well being of a princely patron
 </details>
 </details>
 </div>
+
 ## ०१ उदेनमुत्तरं नयाग्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/01_udenamuttaraM_nayAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ Agni, adored with sacred oil, lift up this man to high estate. Endow him with fu
 </details>
 </details>
 </div>
+
 ## ०२ इन्द्रेमं प्रतरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/02_indremaM_prataram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -169,6 +171,7 @@ Advance him, Indra! Let him be ruler of all akin to him. Grant him sufficiency o
 </details>
 </details>
 </div>
+
 ## ०३ यस्य कृण्मो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/03_yasya_kRNmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

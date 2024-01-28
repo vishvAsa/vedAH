@@ -32,6 +32,7 @@ The wickedness of oppressing and robbing Brahmans
 </details>
 </details>
 </div>
+
 ## ०१ नैतां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/01_naitAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ The Gods, O Prince, have not bestowed this cow on thee to eat thereof. Seek not,
 </details>
 </details>
 </div>
+
 ## ०२ अक्षद्रुग्धो राजन्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/02_axadrugdho_rAjanyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -156,6 +158,7 @@ A base Rajanya, spoiled at dice, and ruined by himself, may eat. The Brahman's c
 </details>
 </details>
 </div>
+
 ## ०३ आविष्टिताघविषा पृदाकूरिव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/03_AviShTitAghaviShA_pRdAkUriva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -218,6 +221,7 @@ The Brahman's cow is like a snake, charged with due poison, clothed with skin. R
 </details>
 </details>
 </div>
+
 ## ०४ निर्वै क्षत्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/04_nirvai_xatram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -285,6 +289,7 @@ She takes away his strength, she mars his splendour, she ruins everything like f
 </details>
 </details>
 </div>
+
 ## ०५ य एनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/05_ya_enam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -350,6 +355,7 @@ Whoever smites him, deeming him a weakling-blasphemer, coveting his wealth throu
 </details>
 </details>
 </div>
+
 ## ०६ न ब्राह्मणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/06_na_brAhmaNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -416,6 +422,7 @@ No Brahman must be injured, safe as fire from him who loves himself. For Soma is
 </details>
 </details>
 </div>
+
 ## ०७ शतापाष्ठां नि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/07_shatApAShThAM_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -481,6 +488,7 @@ The fool who eats the Brahmans' food and thinks it pleasant to the taste, Eats, 
 </details>
 </details>
 </div>
+
 ## ०८ जिह्वा ज्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/08_jihvA_jyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -547,6 +555,7 @@ His voice an arrow's neck, his tongue a bowstring, his windpipes fire-enveloped 
 </details>
 </details>
 </div>
+
 ## ०९ तीक्ष्णेषवो ब्राह्मणा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/09_tIxNeShavo_brAhmaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -610,6 +619,7 @@ Keen arrows have the Brahmans, armed with missiles: the shaft, when they dischar
 </details>
 </details>
 </div>
+
 ## १० ये सहस्रमराजन्नासन्दशशता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/10_ye_sahasramarAjannAsandashashatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -674,6 +684,7 @@ They who, themselves ten hundred, were the rulers of a thousand men, The Vaitaha
 </details>
 </details>
 </div>
+
 ## ११ गौरेव तान्हन्यमाना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/11_gaureva_tAnhanyamAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -740,6 +751,7 @@ The cow, indeed, when she was slain o'erthrew those Vaitahavyas, who Cooked the 
 </details>
 </details>
 </div>
+
 ## १२ एकशतं ता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/12_ekashataM_tA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -803,6 +815,7 @@ One and a hundred were the folk, those whom the earth shook off from her: When t
 </details>
 </details>
 </div>
+
 ## १३ देवपीयुश्चरति मर्त्येषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/13_devapIyushcharati_martyeShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -869,6 +882,7 @@ Among mankind the Gods' despiser moveth: he hath drunk poison, naught but bone i
 </details>
 </details>
 </div>
+
 ## १४ अग्निर्वै नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/14_agnirvai_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -934,6 +948,7 @@ Agni, in sooth, is called our guide, Soma is called our next of kin. Indra quell
 </details>
 </details>
 </div>
+
 ## १५ इषुरिव दिग्धा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/15_iShuriva_digdhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -28,6 +28,7 @@ Translated: Weber, xiii. 179; Griffith, i. 59.
 </details>
 </details>
 </div>
+
 ## ०१ यथा द्यौश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/01_yathA_dyaushcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,6 +91,7 @@ riṣaḥ.*⌋
 </details>
 </details>
 </div>
+
 ## ०२ यथाहश्च रात्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/02_yathAhashcha_rAtrI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -151,6 +153,7 @@ sentences, correspondent but with elements in part different.
 </details>
 </details>
 </div>
+
 ## ०३ यथा सूर्यश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/03_yathA_sUryashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -210,6 +213,7 @@ sentences, correspondent but with elements in part different.
 </details>
 </details>
 </div>
+
 ## ०४ यथा ब्रह्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/04_yathA_brahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -273,6 +277,7 @@ translated.
 </details>
 </details>
 </div>
+
 ## ०५ यथा सत्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/05_yathA_satyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -332,6 +337,7 @@ translated.
 </details>
 </details>
 </div>
+
 ## ०६ यथा भूतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/06_yathA_bhUtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

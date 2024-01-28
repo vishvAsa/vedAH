@@ -32,6 +32,7 @@ A charm against imprecation and threatened evils
 </details>
 </details>
 </div>
+
 ## ०१ प्रतीचीनफलो हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/065_duritanAshanam/01_pratIchInaphalo_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ With retroverted fruit hast thou, O Apamarga, sprung and grown. Hence into dista
 </details>
 </details>
 </div>
+
 ## ०२ यद्दुष्कृतं यच्छमलम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/065_duritanAshanam/02_yadduShkRtaM_yachChamalam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ Whatever evil we have done, whatever vile or sinful act, With thee, O Apamarga, 
 </details>
 </details>
 </div>
+
 ## ०३ श्यावदता कुनखिना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/065_duritanAshanam/03_shyAvadatA_kunakhinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

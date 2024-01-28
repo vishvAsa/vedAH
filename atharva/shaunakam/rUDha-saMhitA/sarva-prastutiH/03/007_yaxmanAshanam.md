@@ -32,6 +32,7 @@ A charm with an amulet of buck horn to drive away hereditary disease
 </details>
 </details>
 </div>
+
 ## ०१ हरिणस्य रघुष्यदोऽधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/01_hariNasya_raghuShyado-dhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ The fleet-foot Roebuck wears upon his head a healing remedy. Innate disease he d
 </details>
 </details>
 </div>
+
 ## ०२ अनु त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/02_anu_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -175,6 +177,7 @@ With his four feet the vigorous Buck hath bounded in pursuit of thee. Unbind the
 </details>
 </details>
 </div>
+
 ## ०३ अदो यदवरोचते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/03_ado_yadavarochate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -247,6 +250,7 @@ That which shines younder, like a roof resting on four walls, down on us,-- Ther
 </details>
 </details>
 </div>
+
 ## ०४ अमू ये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/04_amU_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -314,6 +318,7 @@ May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of th
 </details>
 </details>
 </div>
+
 ## ०५ आप इद्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/05_Apa_idvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -377,6 +382,7 @@ Water, indeed, hath power to heal, Water drives malady away. May water--for it h
 </details>
 </details>
 </div>
+
 ## ०६ यदासुतेः क्रियमाणायाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/06_yadAsuteH_kriyamANAyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -442,6 +448,7 @@ Hath some prepared decoction brought inveterate disease on thee, I know the balm
 </details>
 </details>
 </div>
+
 ## ०७ अपवासे नक्षत्राणामपवास
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/07_apavAse_naxatrANAmapavAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

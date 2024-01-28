@@ -32,6 +32,7 @@ Expiation for an imperfectly performed sacrifice
 </details>
 </details>
 </div>
+
 ## ०१ ये भक्षयन्तो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/01_ye_bhaxayanto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -115,6 +116,7 @@ We who enjoying it have grown no richer, for whom the sacred altar-fires have so
 </details>
 </details>
 </div>
+
 ## ०२ यज्ञपतिमृषयः एनसाहुर्निर्भक्तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/02_yajnapatimRShayaH_enasAhurnirbhaktam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -199,6 +201,7 @@ Rishis have called the sacrifice's patron amerced through sin, sorrowing for his
 </details>
 </details>
 </div>
+
 ## ०३ अदान्यान्त्सोमपान्मन्यमानो यज्ञस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/03_adAnyAntsomapAnmanyamAno_yajnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -274,6 +277,7 @@ Regarding niggard churls as Soma-drinkers, skilful in sacrifice, weak at the mee
 </details>
 </details>
 </div>
+
 ## ०४ घोरा ऋषयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/04_ghorA_RShayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -349,6 +353,7 @@ Awful are Rishis: unto them be homage, and to their eye and truthfulness of spir
 </details>
 </details>
 </div>
+
 ## ०५ यज्ञस्य चक्षुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/05_yajnasya_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

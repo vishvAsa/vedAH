@@ -39,6 +39,7 @@ The glorification of Rohita, a form of Fire and of the Sun
 </details>
 </details>
 </div>
+
 ## ०१ उदेहि वाजिन्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/01_udehi_vAjinyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -115,6 +116,7 @@ Rise, Mighty One, who liest in the waters, and enter this thy fair and glorious 
 </details>
 </details>
 </div>
+
 ## ०२ उद्वाज आ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/02_udvAja_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -191,6 +193,7 @@ The strength that was in waters hath ascended. Mount o'er the tribes which thou 
 </details>
 </details>
 </div>
+
 ## ०३ यूयमुग्रा मरुतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/03_yUyamugrA_marutaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -260,6 +263,7 @@ Ye Maruts, strong and mighty, sons of Prisni, with Indra for ally crush down our
 </details>
 </details>
 </div>
+
 ## ०४ रुहो रुरोह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/04_ruho_ruroha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -332,6 +336,7 @@ Up to the lap of births, to lofty places, hath Rohita, the germ of Dames, ascend
 </details>
 </details>
 </div>
+
 ## ०५ आ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/05_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -411,6 +416,7 @@ For thee hath Rohita obtained dominion, scattered thine ene- mies, become thy sa
 </details>
 </details>
 </div>
+
 ## ०६ रोहितो द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/06_rohito_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -475,6 +481,7 @@ Rohita gave the Earth and Heavens their being. There Para- meshthin held the cor
 </details>
 </details>
 </div>
+
 ## ०७ रोहितो द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/07_rohito_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -540,6 +547,7 @@ Rohita firmly stablished Earth and Heaven: by him was ether fixt by him the welk
 </details>
 </details>
 </div>
+
 ## ०८ वि रोहितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/08_vi_rohito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -606,6 +614,7 @@ Arranging shoots, springs, Rohita considered this Universe in all its forms and 
 </details>
 </details>
 </div>
+
 ## ०९ यास्ते रुहः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/09_yAste_ruhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -671,6 +680,7 @@ Thy risings up, thy mountings and ascensions wherewith thou fillest heaven and a
 </details>
 </details>
 </div>
+
 ## १० यास्ते विशस्तपसः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/10_yAste_vishastapasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -741,6 +751,7 @@ The tribes thy heat produced have followed hither the Calf and Gayatri, the stra
 </details>
 </details>
 </div>
+
 ## ११ ऊर्ध्वो रोहितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/11_Urdhvo_rohito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -805,6 +816,7 @@ Erected, Rohita hath reached the welkin, wise, young, creating every form and fi
 </details>
 </details>
 </div>
+
 ## १२ सहस्रशृङ्गो वृषभो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/12_sahasrashRngo_vRShabho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -876,6 +888,7 @@ Thousand-horned Bull, may Jatavedas, worshipped with butter, balmed with Soma, r
 </details>
 </details>
 </div>
+
 ## १३ रोहितो यज्ञस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/13_rohito_yajnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -946,6 +959,7 @@ Rohita is the sire and mouth of worship: to him with voice, ear, heart I pay obl
 </details>
 </details>
 </div>
+
 ## १४ रोहितो यज्ञम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/14_rohito_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1011,6 +1025,7 @@ Rohita ordered sacrifice for Visvakarman: thence have I obta- ined this strength
 </details>
 </details>
 </div>
+
 ## १५ आ त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/15_A_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1081,6 +1096,7 @@ On thee have mounted Brihati and Pankti. and Kakup with great splendour, Jataved
 </details>
 </details>
 </div>
+
 ## १६ अयं वस्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/16_ayaM_vaste.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1148,6 +1164,7 @@ He goes into the womb of earth, he robes himself in heaven and air. He on the Br
 </details>
 </details>
 </div>
+
 ## १७ वाचस्पते पृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/17_vAchaspate_pRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1203,6 +1220,7 @@ To us, Vachaspati, may Earth be pleasant, pleasant our dwelling, pleasant be our
 </details>
 </details>
 </div>
+
 ## १८ वाचस्पत ऋतवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/18_vAchaspata_RtavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1270,6 +1288,7 @@ And those, Vachaspati, our own five seasons, sacred to Visva- karman their creat
 </details>
 </details>
 </div>
+
 ## १९ वाचस्पते सौमनसम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/19_vAchaspate_saumanasam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1335,6 +1354,7 @@ Breed, O Vachaspati, joy and understanding, kine i n our stall and children in o
 </details>
 </details>
 </div>
+
 ## २० परि त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/20_pari_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1399,6 +1419,7 @@ With splendour let God Savitar, and Agni, with splendour Mitra, Varuna invest th
 </details>
 </details>
 </div>
+
 ## २१ यं त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/21_yaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1474,6 +1495,7 @@ Rohita, car-borne by a speckled leader, thou, pouring water,. goest on in triump
 </details>
 </details>
 </div>
+
 ## २२ अनुव्रता रोहिणी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/22_anuvratA_rohiNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1533,6 +1555,7 @@ Golden, refulgent, lofty is the Lady, Rohini, Rohita's devoted Consort. Through 
 </details>
 </details>
 </div>
+
 ## २३ इदं सदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/23_idaM_sado.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1596,6 +1619,7 @@ Rohita's seat is Rohini before us: that is the path the speckled Mare pursueth. 
 </details>
 </details>
 </div>
+
 ## २४ सूर्यस्याश्वा हरयः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/24_sUryasyAshvA_harayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1659,6 +1683,7 @@ Surya's bay steeds refulgent and immortal draw the light-rolling. chariot on for
 </details>
 </details>
 </div>
+
 ## २५ यो रोहितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/25_yo_rohito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1728,6 +1753,7 @@ Rohita, Bull whose horns are sharply pointed, superior of Agni and of Surya, He 
 </details>
 </details>
 </div>
+
 ## २६ रोहितो दिवमारुहन्महतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/26_rohito_divamAruhanmahataH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1790,6 +1816,7 @@ Rohita rose to heaven from mighty ocean, Rohita rose and clomb all steeps and ri
 </details>
 </details>
 </div>
+
 ## २७ वि मिमीष्व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/27_vi_mimIShva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1858,6 +1885,7 @@ Prepare the Milky One who teems with fatness: she is the Gods' never-reluctant m
 </details>
 </details>
 </div>
+
 ## २८ समिद्धो अग्निः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/28_samiddho_agniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1925,6 +1953,7 @@ Both kindling and inflamed, adored with butter and enhanced thereby. May conquer
 </details>
 </details>
 </div>
+
 ## २९ हन्त्वेनान्प्र दहत्वरिर्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/29_hantvenAnpra_dahatvariryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1988,6 +2017,7 @@ Let him smite down in death and burn the foeman who attacketh me. Our adversarie
 </details>
 </details>
 </div>
+
 ## ३० अवाचीनानव जहीन्द्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/30_avAchInAnava_jahIndra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2053,6 +2083,7 @@ Beat them down, Indra, with thy bolt, beat them down, mighty with thine arm. I t
 </details>
 </details>
 </div>
+
 ## ३१ अग्ने सपत्नानधरान्पादयास्मद्व्यथया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/31_agne_sapatnAnadharAnpAdayAsmadvyathayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2119,6 +2150,7 @@ Cast down our foes beneath our feet, O Agni. Brihaspati, oppress our rebel kinsm
 </details>
 </details>
 </div>
+
 ## ३२ उद्यंस्त्वं देव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/32_udyaMstvaM_deva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2181,6 +2213,7 @@ Ascending up on high, O God. O Surya, drive my foes away. Yea, beat them backwar
 </details>
 </details>
 </div>
+
 ## ३३ वत्सो विराजो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/33_vatso_virAjo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2250,6 +2283,7 @@ Calf of Viraj, the Bull of prayers and worship, whitebacked, he hath gone up to 
 </details>
 </details>
 </div>
+
 ## ३४ दिवं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/34_divaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2318,6 +2352,7 @@ Rise up to earth, rise up to heaven above it; rise up to opulence, rise up to ki
 </details>
 </details>
 </div>
+
 ## ३५ ये देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/35_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2383,6 +2418,7 @@ With all the Gods who circle round the Sun, upholding royal sway, With all of th
 </details>
 </details>
 </div>
+
 ## ३६ उत्त्वा यज्ञा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/36_uttvA_yajnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2448,6 +2484,7 @@ Cleansed by prayer, sacrifices bear thee upward: bay coursers, ever travelling, 
 </details>
 </details>
 </div>
+
 ## ३७ रोहिते द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/37_rohite_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2513,6 +2550,7 @@ Rohita, conqueror of cows and riches and gathered spoil, is heaven's and earth's
 </details>
 </details>
 </div>
+
 ## ३८ यशा यासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/38_yashA_yAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2578,6 +2616,7 @@ A glorious sight to beasts and men, thou goest glorious to the regions and mid-r
 </details>
 </details>
 </div>
+
 ## ३९ अमुत्र सन्निह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/39_amutra_sanniha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2640,6 +2679,7 @@ Thou, yonder, knowest all things here, when here thou knowest what is there. Fro
 </details>
 </details>
 </div>
+
 ## ४० देवो देवान्मर्चयस्यन्तश्चरस्यर्णवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/40_devo_devAnmarchayasyantashcharasyarNave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2705,6 +2745,7 @@ A God, thou injurest the Gods: thou movest in the ocean's depth. Men kindle comm
 </details>
 </details>
 </div>
+
 ## ४१ अवः परेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/41_avaH_pareNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2772,6 +2813,7 @@ Beneath the upper realm, above this lower, bearing her Calf at foot, the Cow hat
 </details>
 </details>
 </div>
+
 ## ४२ एकपदी द्विपदी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/42_ekapadI_dvipadI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2836,6 +2878,7 @@ She hath become one-footed or two-footed, four-footed, or eight-footed or nine-f
 </details>
 </details>
 </div>
+
 ## ४३ आरोहन्द्याममृतः प्राव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/43_ArohandyAmamRtaH_prAva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2898,6 +2941,7 @@ Rising to heaven, immortal, hear my calling. Cleansed by prayer, sacrifices bear
 </details>
 </details>
 </div>
+
 ## ४४ वेद तत्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/44_veda_tatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2961,6 +3005,7 @@ This, O Immortal One, I know of thee, thy progress to the sky thy dwelling-place
 </details>
 </details>
 </div>
+
 ## ४५ सूर्यो द्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/45_sUryo_dyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3024,6 +3069,7 @@ Beyond the sky, beyond the Earth looks Surya, and beyond the floods. The single 
 </details>
 </details>
 </div>
+
 ## ४६ उर्वीरासन्परिधयो वेदिर्भूमिरकल्पत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/46_urvIrAsanparidhayo_vedirbhUmirakalpata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3085,6 +3131,7 @@ The earth was made his altar, and the wide expanses were the fence. There Rohita
 </details>
 </details>
 </div>
+
 ## ४७ हिमं घ्रंसम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/47_himaM_ghraMsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3149,6 +3196,7 @@ He stablished heat and cold, he made the mountains sacrificial posts. Then both 
 </details>
 </details>
 </div>
+
 ## ४८ स्वर्विदो रोहितस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/48_svarvido_rohitasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3212,6 +3260,7 @@ Rohita's Agni-his who found heaven's light-is kindled with the prayer. From him 
 </details>
 </details>
 </div>
+
 ## ४९ ब्रह्मणाग्नी वावृधानौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/49_brahmaNAgnI_vAvRdhAnau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3276,6 +3325,7 @@ Both Agins-Rohita's who found the light of heaven--made strong by prayer, Waxing
 </details>
 </details>
 </div>
+
 ## ५० सत्ये अन्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/50_satye_anyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3338,6 +3388,7 @@ One is deposited in Truth, one kindled in the waters: both Agnis of Rohita who f
 </details>
 </details>
 </div>
+
 ## ५१ यं वातः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/51_yaM_vAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3399,6 +3450,7 @@ That decked by Wind, and that prepared by Indra Brahman- aspati, Agnis of Rohita
 </details>
 </details>
 </div>
+
 ## ५२ वेदिं भूमिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/52_vediM_bhUmim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3460,6 +3512,7 @@ Rohita made the earth to be his altar, heaven his Dakshina. Then heat he took fo
 </details>
 </details>
 </div>
+
 ## ५३ वर्षमाज्यं घ्रंसो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/53_varShamAjyaM_ghraMso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3526,6 +3579,7 @@ The earth became an altar, heat was Agni, and the butter rain. There Agni made, 
 </details>
 </details>
 </div>
+
 ## ५४ गीर्भिरूर्ध्वान्कल्पयित्वा रोहितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/54_gIrbhirUrdhvAnkalpayitvA_rohito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3587,6 +3641,7 @@ Then, having made the hills stand up, Rohita spake to Earth, and said: In thee l
 </details>
 </details>
 </div>
+
 ## ५५ स यज्ञः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/55_sa_yajnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3652,6 +3707,7 @@ This sacrifice, the first of all, the past, the present, had its birth. From tha
 </details>
 </details>
 </div>
+
 ## ५६ यश्च गाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/56_yashcha_gAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3728,6 +3784,7 @@ If thou should kick a cow, or by indecent act offend the Sun, Thy root I sever; 
 </details>
 </details>
 </div>
+
 ## ५७ यो माभिच्छायमत्येषि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/57_yo_mAbhichChAyamatyeShi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3792,6 +3849,7 @@ Thou who, between the fire and me, passest across the line of shade. Thy root I 
 </details>
 </details>
 </div>
+
 ## ५८ यो अद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/58_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3854,6 +3912,7 @@ Whoe'er he be who, Surya, God! comes between thee and me to-day, On him we wipe 
 </details>
 </details>
 </div>
+
 ## ५९ मा प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/59_mA_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3919,6 +3978,7 @@ Let us not, Indra, leave the path, the Soma-presser's sacrifice. Let not maligni
 </details>
 </details>
 </div>
+
 ## ६० यो यज्ञस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/001_adhyAtma-prakaraNam/60_yo_yajnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

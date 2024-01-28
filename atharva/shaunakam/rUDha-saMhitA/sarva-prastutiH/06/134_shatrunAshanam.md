@@ -28,6 +28,7 @@ Translated: Ludwig, p. 448; Griffith, i. 320.
 </details>
 </details>
 </div>
+
 ## ०१ अयं वज्रस्तर्पयतामृतस्यावास्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ This Thunderbolt shall take its fill of Order, scare life away and overthrow the
 </details>
 </details>
 </div>
+
 ## ०२ अधरोऽधर उत्तरेभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/02_adharo-dhara_uttarebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ Down, down beneath the conquerors, let him not rise, concealed in earth, but lie
 </details>
 </details>
 </div>
+
 ## ०३ यो जिनाति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/03_yo_jinAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

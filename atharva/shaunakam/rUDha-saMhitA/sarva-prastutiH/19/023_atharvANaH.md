@@ -29,6 +29,7 @@ A prose hymn of homage to various portions of the Atharva-vada classed according
 </details>
 </details>
 </div>
+
 ## ०१ आथर्वणाना चतुरृचेभ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/01_AtharvaNAnA_chaturRchebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -86,6 +87,7 @@ Hail to the four-verse strophes of the Atharvanas!
 </details>
 </details>
 </div>
+
 ## ०२ पञ्चर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/02_pancharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -143,6 +145,7 @@ Hail to the five-versed!
 </details>
 </details>
 </div>
+
 ## ०३ षळृचेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/03_ShaLRchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -207,6 +210,7 @@ Hail to the six-versed!
 </details>
 </details>
 </div>
+
 ## ०४ सप्तर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/04_saptarchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -264,6 +268,7 @@ Hail to the seven-versed!
 </details>
 </details>
 </div>
+
 ## ०५ अष्टर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/05_aShTarchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -321,6 +326,7 @@ Hail to the eight-versed!
 </details>
 </details>
 </div>
+
 ## ०६ नवर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/06_navarchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -378,6 +384,7 @@ Hail to the nine-versed!
 </details>
 </details>
 </div>
+
 ## ०७ दशर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/07_dasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -435,6 +442,7 @@ Hail to the ten-versed!
 </details>
 </details>
 </div>
+
 ## ०८ एकादशर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/08_ekAdasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -492,6 +500,7 @@ Hail to the eleven-versed!
 </details>
 </details>
 </div>
+
 ## ०९ द्वादशर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/09_dvAdasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -549,6 +558,7 @@ Hail to the twelve-versed!
 </details>
 </details>
 </div>
+
 ## १० त्रयोदशर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/10_trayodasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -606,6 +616,7 @@ Hail to the thirteen-versed
 </details>
 </details>
 </div>
+
 ## ११ चतुर्दशर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/11_chaturdasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -663,6 +674,7 @@ Hail to the fourteen-versed!
 </details>
 </details>
 </div>
+
 ## १२ पञ्चदशर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/12_panchadasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -720,6 +732,7 @@ Hail to the fifteen-versed!
 </details>
 </details>
 </div>
+
 ## १३ षोडशर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/13_ShoDasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -777,6 +790,7 @@ Hail to the sixteen-versed!
 </details>
 </details>
 </div>
+
 ## १४ सप्तदशर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/14_saptadasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -834,6 +848,7 @@ Hail to the seventeen-versed!
 </details>
 </details>
 </div>
+
 ## १५ अष्टादशर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/15_aShTAdasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -891,6 +906,7 @@ Hail to the eighteen-versed!
 </details>
 </details>
 </div>
+
 ## १६ एकोनविंशतिः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/16_ekonaviMshatiH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -948,6 +964,7 @@ Hail, nineteen!
 </details>
 </details>
 </div>
+
 ## १७ विंशतिः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/17_viMshatiH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1008,6 +1025,7 @@ Hail, twenty!
 </details>
 </details>
 </div>
+
 ## १८ महत्काण्डाय स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/18_mahatkANDAya_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1073,6 +1091,7 @@ Hail to the Great Section!
 </details>
 </details>
 </div>
+
 ## १९ तृचेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/19_tRchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1132,6 +1151,7 @@ Hail to the triplets!
 </details>
 </details>
 </div>
+
 ## २० एकर्चेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/20_ekarchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1189,6 +1209,7 @@ Hail to the single-versed hymns!
 </details>
 </details>
 </div>
+
 ## २१ क्षुद्रेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/21_xudrebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1248,6 +1269,7 @@ Hail to the little ones!
 </details>
 </details>
 </div>
+
 ## २२ एकानृचेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/22_ekAnRchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1310,6 +1332,7 @@ Hail to the single non-Rich-versed ones!
 </details>
 </details>
 </div>
+
 ## २३ रोहितेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/23_rohitebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1371,6 +1394,7 @@ Hail to the Rohitas!
 </details>
 </details>
 </div>
+
 ## २४ सूर्याभ्यां स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/24_sUryAbhyAM_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1430,6 +1454,7 @@ Hail to the two Surya hymns!
 </details>
 </details>
 </div>
+
 ## २५ व्रात्याभ्यां स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/25_vrAtyAbhyAM_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1492,6 +1517,7 @@ Hail to the two Vratya hymns!
 </details>
 </details>
 </div>
+
 ## २६ प्राजापत्याभ्यां स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/26_prAjApatyAbhyAM_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1557,6 +1583,7 @@ Hail to the two Prajapati hymns!
 </details>
 </details>
 </div>
+
 ## २७ विषासह्यै स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/27_viShAsahyai_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1617,6 +1644,7 @@ Hail to the hymn of victory!
 </details>
 </details>
 </div>
+
 ## २८ मङ्गलिकेभ्यः स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/28_mangalikebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1687,6 +1715,7 @@ Hail to the hymns for happiness!
 </details>
 </details>
 </div>
+
 ## २९ ब्रह्मणे स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/29_brahmaNe_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1747,6 +1776,7 @@ Hail to Brahma!
 </details>
 </details>
 </div>
+
 ## ३० ब्रह्मज्येष्ठा सम्भृता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/30_brahmajyeShThA_sambhRtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

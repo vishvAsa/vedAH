@@ -32,6 +32,7 @@ A charm to remove a woman's sterility, and to assure the birth of boys
 </details>
 </details>
 </div>
+
 ## ०१ येन वेहद्बभूविथ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/01_yena_vehadbabhUvitha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ From thee we banish and expel the cause of thy sterility. This in another place 
 </details>
 </details>
 </div>
+
 ## ०२ आ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/02_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ As arrow to the quiver, so let a male embryo enter thee. Then from thy side be b
 </details>
 </details>
 </div>
+
 ## ०३ पुमांसं पुत्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/03_pumAMsaM_putram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -230,6 +233,7 @@ Bring forth a male, bring forth a son. Another male shall follow him. The mother
 </details>
 </details>
 </div>
+
 ## ०४ यानि भद्राणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/04_yAni_bhadrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -301,6 +305,7 @@ With that auspicious general flow wherewith steers propagate their kind, Do thou
 </details>
 </details>
 </div>
+
 ## ०५ कृणोमि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/05_kRNomi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -369,6 +374,7 @@ I give thee power to bear a child: within, thee pass the germ of life! Obtain a 
 </details>
 </details>
 </div>
+
 ## ०६ यासां द्यौष्पिता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/06_yAsAM_dyauShpitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

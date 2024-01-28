@@ -32,6 +32,7 @@ A charm to deprecate Arati or Malignity
 </details>
 </details>
 </div>
+
 ## ०१ आ नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/01_A_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Bring thou to us, bar not the way, Arati! Stay not the guerdon that is being bro
 </details>
 </details>
 </div>
+
 ## ०२ यमराते पुरोधत्से
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/02_yamarAte_purodhatse.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -157,6 +159,7 @@ The man whom thou preferrest, O Arati, he who prates to us-- This man of thine, 
 </details>
 </details>
 </div>
+
 ## ०३ प्र णो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/03_pra_No.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -220,6 +223,7 @@ May our desire which Gods have roused fulfil itself by day and night. We seek to
 </details>
 </details>
 </div>
+
 ## ०४ सरस्वतीमनुमतिं भगम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/04_sarasvatImanumatiM_bhagam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -280,6 +284,7 @@ We, suppliant, call on Bhaga, on Sarasvati, Anumati, Pleasant words have I spoke
 </details>
 </details>
 </div>
+
 ## ०५ यं याचाम्यहम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/05_yaM_yAchAmyaham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -342,6 +347,7 @@ The portion that I crave with speech intelligent and full of power, May faith, p
 </details>
 </details>
 </div>
+
 ## ०६ मा वनिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/06_mA_vanim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -409,6 +415,7 @@ Do not thou make our words or wishes fruitless. Let the twain Indra Agni, bring 
 </details>
 </details>
 </div>
+
 ## ०७ परोऽपेह्यसमृद्धे वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/07_paro-pehyasamRddhe_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -470,6 +477,7 @@ Misfortune! go thou far away: we turn thy harmful dart aside. I know thee well, 
 </details>
 </details>
 </div>
+
 ## ०८ उत नग्ना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/08_uta_nagnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -535,6 +543,7 @@ Oft, coming as a naked girl thou hauntest people in their sleep, Baffling the th
 </details>
 </details>
 </div>
+
 ## ०९ या महती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/09_yA_mahatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -595,6 +604,7 @@ To her the mighty vast in size, who penetrates all points of space, To her mine 
 </details>
 </details>
 </div>
+
 ## १० हिरण्यवर्णा सुभगा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/10_hiraNyavarNA_subhagA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

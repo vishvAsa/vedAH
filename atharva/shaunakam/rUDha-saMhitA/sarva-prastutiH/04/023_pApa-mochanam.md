@@ -32,6 +32,7 @@ Magnification of Agni and prayer for his protection
 </details>
 </details>
 </div>
+
 ## ०१ अग्नेर्मन्वे प्रथमस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -105,6 +106,7 @@ I fix my heart on wise and ancient Agni, the Five Tribes' Lord, in many a place 
 </details>
 </details>
 </div>
+
 ## ०२ यथा हव्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/02_yathA_havyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ As thou conveyest offerings, Jatavedas! and fashionest the sacri- fice with know
 </details>
 </details>
 </div>
+
 ## ०३ यामन्यामन्नुपयुक्तं वहिष्ठम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -239,6 +242,7 @@ I pray to Agni in each act successful, employed in every sacrifice, the stronges
 </details>
 </details>
 </div>
+
 ## ०४ सुजातं जातवेदसमग्निम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/04_sujAtaM_jAtavedasamagnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -302,6 +306,7 @@ We invoke the oblation-bearer, well-born Agni Jatavedas, Him, Vaisvanara, almigh
 </details>
 </details>
 </div>
+
 ## ०५ येन ऋषयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/05_yena_RShayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -367,6 +372,7 @@ With whom as friend the Rishis gave their power new splendour, with whom they ke
 </details>
 </details>
 </div>
+
 ## ०६ येन देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/06_yena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -430,6 +436,7 @@ Through whom the Gods discovered life eternal, through whom they stored the plan
 </details>
 </details>
 </div>
+
 ## ०७ यस्येदं प्रदिशि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

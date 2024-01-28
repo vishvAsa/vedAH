@@ -32,6 +32,7 @@ A charm against leprosy
 </details>
 </details>
 </div>
+
 ## ०१ नक्तञ्जातासि ओषधे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/01_naktanjAtAsi_oShadhe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ O Plant, thou sprangest up at night, dusky, dark-coloured, black in hue! So, Raj
 </details>
 </details>
 </div>
+
 ## ०२ किलासं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ Expel the leprosy, remove from him the spots and ashy hue: Let thine own colour 
 </details>
 </details>
 </div>
+
 ## ०३ असितं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/03_asitaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -231,6 +234,7 @@ Dark is the place of thy repose, dark is the place thou dwellest in: Dusky and d
 </details>
 </details>
 </div>
+
 ## ०४ अस्थिजस्य किलासस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

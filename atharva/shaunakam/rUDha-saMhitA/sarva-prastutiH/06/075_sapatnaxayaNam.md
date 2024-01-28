@@ -32,6 +32,7 @@ A charm to effect the removal of an enemy
 </details>
 </details>
 </div>
+
 ## ०१ निरमुं नुद
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 </details>
 </details>
 </div>
+
 ## ०२ परमां तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/02_paramAM_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never m
 </details>
 </details>
 </div>
+
 ## ०३ एतु तिस्रः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/03_etu_tisraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

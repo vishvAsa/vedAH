@@ -24,6 +24,7 @@ The mss., and so SPP., have the incorrect accent prákalpayan in c; it is emende
 </details>
 </details>
 </div>
+
 ## ०१ यानि नक्षत्राणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/01_yAni_naxatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -88,6 +89,7 @@ Benign to me be all those Lunar Mansions to which the Moon as he moves on doth h
 </details>
 </details>
 </div>
+
 ## ०२ अष्टाविंशानि शिवानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ Propitious, mighty, let the eight-and-twenty together deal me out my share of pr
 </details>
 </details>
 </div>
+
 ## ०३ स्वस्तितं मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/03_svastitaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -239,6 +242,7 @@ Fair be my sunset, fair my morn and evening and day with. lucky chase and happy 
 </details>
 </details>
 </div>
+
 ## ०४ अनुहवं परिहवम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/04_anuhavaM_parihavam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -345,6 +349,7 @@ Excitement and invoking cry, ill-omened sneezing and reproof, All sounds of empt
 </details>
 </details>
 </div>
+
 ## ०५ अपपापं परिक्षवम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/05_apapApaM_parixavam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -423,6 +428,7 @@ May we escape an evil sneeze, enjoy the sneeze of happy luck, And may our nostri
 </details>
 </details>
 </div>
+
 ## ०६ इमा या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/06_imA_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -497,6 +503,7 @@ These flames of Brahmanaspati borne to all quarters in the- wind, Turn them all 
 </details>
 </details>
 </div>
+
 ## ०७ स्वस्ति नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/07_svasti_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

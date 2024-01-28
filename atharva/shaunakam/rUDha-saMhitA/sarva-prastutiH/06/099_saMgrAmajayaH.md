@@ -28,6 +28,7 @@ Translated: Grill, 18, 168; Griffith, i. 299; Bloomfield, 123, 510.
 </details>
 </details>
 </div>
+
 ## ०१ अभि त्वेन्द्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Indra, before affliction comes, I call thee from the wide expanse. The mighty gu
 </details>
 </details>
 </div>
+
 ## ०२ यो अद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/02_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ Whatever deadly missile launched to-day flies forth to slaughter us. We take bot
 </details>
 </details>
 </div>
+
 ## ०३ परि दद्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/03_pari_dadma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

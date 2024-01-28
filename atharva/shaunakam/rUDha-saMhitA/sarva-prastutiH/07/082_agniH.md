@@ -32,6 +32,7 @@ In praise of Agni
 </details>
 </details>
 </div>
+
 ## ०१ अभ्यर्चत सुष्टुतिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/01_abhyarchata_suShTutim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Sing with fair laud the combat for the cattle. Bestow upon us excellent possessi
 </details>
 </details>
 </div>
+
 ## ०२ मय्यग्रे अग्निम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/02_mayyagre_agnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ Agni I first appropriate with power, with splendour, and with might. I give myse
 </details>
 </details>
 </div>
+
 ## ०३ इहैवाग्ने अधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/03_ihaivAgne_adhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -243,6 +246,7 @@ Even here do thou, O Agni, stablish wealth: let not oppressors injure thee by th
 </details>
 </details>
 </div>
+
 ## ०४ अन्वग्निरुषसामग्रमख्यदन्वहानि प्रथमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -312,6 +316,7 @@ Agni hath looked upon the spring of Morning, looked on the days, the earliest Ja
 </details>
 </details>
 </div>
+
 ## ०५ प्रत्यग्निरुषसामग्रमख्यत्प्रति अहानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/05_pratyagniruShasAmagramakhyatprati_ahAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -378,6 +383,7 @@ Agni hath looked upon the spring of Mornings, looked on the days, the earliest J
 </details>
 </details>
 </div>
+
 ## ०६ घृतं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/06_ghRtaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

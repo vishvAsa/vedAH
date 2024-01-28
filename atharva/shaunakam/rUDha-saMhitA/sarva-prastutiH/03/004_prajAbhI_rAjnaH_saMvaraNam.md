@@ -32,6 +32,7 @@ A benediction at the election of a king
 </details>
 </details>
 </div>
+
 ## ०१ आ त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ To thee hath come the kingship with its splendour: On! shine as lord, sole ruler
 </details>
 </details>
 </div>
+
 ## ०२ त्वां विशो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -178,6 +180,7 @@ The tribesmen shall elect thee for the Kingship, these five celestial regions sh
 </details>
 </details>
 </div>
+
 ## ०३ अच्छ त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -242,6 +245,7 @@ Kinsmen, inviting thee, shall go to meet thee, with thee go Agni as an active he
 </details>
 </details>
 </div>
+
 ## ०४ अश्विना त्वाग्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -309,6 +313,7 @@ First shall the Asvins, Varuna and Mitra, the Universal Gods, and Maruts call th
 </details>
 </details>
 </div>
+
 ## ०५ आ प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/05_A_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -379,6 +384,7 @@ Speed to us hither from the farthest distance. Propitious unto thee be Earth and
 </details>
 </details>
 </div>
+
 ## ०६ इन्द्रेन्द्र मनुष्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -462,6 +468,7 @@ Pass to the tribes of men. O Indra, Indra. Thou the Varunas hast been found acco
 </details>
 </details>
 </div>
+
 ## ०७ पथ्या रेवतीर्बहुधा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_revatIrbahudhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

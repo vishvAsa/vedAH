@@ -28,6 +28,7 @@ A prayer for help and protection
 </details>
 </details>
 </div>
+
 ## ०१ अन्तरिक्षेण पतति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/080_ariShTaxayaNam/01_antarixeNa_patati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ He flieth in the firmament observing all the things that be: We with this offeri
 </details>
 </details>
 </div>
+
 ## ०२ ये त्रयः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/080_ariShTaxayaNam/02_ye_trayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ The three, the Kalakanjas, set aloft in heaven as they were Gods All these I cal
 </details>
 </details>
 </div>
+
 ## ०३ अप्सु ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/080_ariShTaxayaNam/03_apsu_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

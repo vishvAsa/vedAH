@@ -28,6 +28,7 @@ A charm to make a poisoned arrow harmless
 </details>
 </details>
 </div>
+
 ## ०१ ब्राह्मणो जज्ञे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/01_brAhmaNo_jajne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,6 +94,7 @@ The Brahman first was brought to life ten-headed and with faces ten. First drink
 </details>
 </details>
 </div>
+
 ## ०२ यावती द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/02_yAvatI_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ Far as the heavens and earth are spread in compass, far as the Seven Rivers are 
 </details>
 </details>
 </div>
+
 ## ०३ सुपर्णस्त्वा गरुत्मान्विष
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/03_suparNastvA_garutmAnviSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -236,6 +239,7 @@ The strong-winged Bird Garutman first of all, O Poison fed on thee: Thou didst n
 </details>
 </details>
 </div>
+
 ## ०४ यस्त आस्यत्पञ्चाङ्गुरिर्वक्राच्चिदधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/04_yasta_AsyatpanchAngurirvakrAchchidadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -309,6 +313,7 @@ Whoever with five fingers hath discharged thee from the crooked bow, I from the 
 </details>
 </details>
 </div>
+
 ## ०५ शल्याद्विषं निरवोचम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/05_shalyAdviShaM_niravocham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -375,6 +380,7 @@ The poison have I charmed away from shaft, cement, and feather- ed end; Yea, fro
 </details>
 </details>
 </div>
+
 ## ०६ अरसस्त इषो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/06_arasasta_iSho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -437,6 +443,7 @@ Feeble, O Arrow, is thy shaft, thy poison, too, hath lost its strength. Made of 
 </details>
 </details>
 </div>
+
 ## ०७ ये अपीषन्ये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/07_ye_apIShanye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -503,6 +510,7 @@ The men who brayed it, smeared it on, they who discharged it, sent it forth, All
 </details>
 </details>
 </div>
+
 ## ०८ वध्रयस्ते खनितारो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/08_vadhrayaste_khanitAro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

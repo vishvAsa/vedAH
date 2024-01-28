@@ -32,6 +32,7 @@ A glorification of the Brahmachgri or religious student
 </details>
 </details>
 </div>
+
 ## ०१ ब्रह्मचारीष्णंश्चरति रोदसी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/01_brahmachArIShNaMshcharati_rodasI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Stirring both worlds the Brahmachari moveth: in him the deities are all one-mind
 </details>
 </details>
 </div>
+
 ## ०२ ब्रह्मचारिणं पितरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/02_brahmachAriNaM_pitaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ After the Brahmachari go the Fathers, the heavenly hosts, all Gods in separate o
 </details>
 </details>
 </div>
+
 ## ०३ आचार्य उपनयमानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/03_AchArya_upanayamAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,6 +229,7 @@ The Master, welcoming his new disciple, into his bowels takes the Brahmachari. T
 </details>
 </details>
 </div>
+
 ## ०४ इयं समित्पृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/04_iyaM_samitpRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -294,6 +298,7 @@ This log is earth, the second log is heaven: he fills the air's mid region with 
 </details>
 </details>
 </div>
+
 ## ०५ पूर्वो जातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/05_pUrvo_jAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -358,6 +363,7 @@ The Brahmachari, earlier born than Brahma, sprang up through Fervour, robed in h
 </details>
 </details>
 </div>
+
 ## ०६ ब्रह्मचार्येति समिधा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/06_brahmachAryeti_samidhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -423,6 +429,7 @@ Lighted by fuel goes the Brahmachari, clad in black-buck skin, consecrate, long-
 </details>
 </details>
 </div>
+
 ## ०७ ब्रह्मचारी जनयन्ब्रह्मापो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/07_brahmachArI_janayanbrahmApo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -487,6 +494,7 @@ The Brahmachari, fathering Prayer, world, Waters, Viraj, Praja- pati, and Parame
 </details>
 </details>
 </div>
+
 ## ०८ आचार्यस्ततक्ष नभसी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/08_AchAryastataxa_nabhasI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -553,6 +561,7 @@ The Master fashioned both these cloudy regions, profound and spacious pair, the 
 </details>
 </details>
 </div>
+
 ## ०९ इमां भूमिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/09_imAM_bhUmim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -617,6 +626,7 @@ The Brahmachari first of all brought hither this ample earth as alms, and heaven
 </details>
 </details>
 </div>
+
 ## १० अर्वागन्यः परो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/10_arvAganyaH_paro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -683,6 +693,7 @@ Both treasuries of sacred lore lie hidden, one hitherward, beyond heaven's ridge
 </details>
 </details>
 </div>
+
 ## ११ अर्वागन्य इतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/11_arvAganya_ito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -749,6 +760,7 @@ Hitherward one, hence from the earth the other, two Agnis meet between these clo
 </details>
 </details>
 </div>
+
 ## १२ अभिक्रन्दन्स्तनयन्नरुणः शितिङ्गो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/12_abhikrandanstanayannaruNaH_shitingo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -822,6 +834,7 @@ Thundering, shouting, ruddy-hued, and pallid, he bears along the earth great man
 </details>
 </details>
 </div>
+
 ## १३ अग्नौ सूर्ये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/13_agnau_sUrye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -889,6 +902,7 @@ The Brahmachari stores with fuel Waters, and Fire, and Sun, and Moon, and Matari
 </details>
 </details>
 </div>
+
 ## १४ आचार्यो मृत्युर्वरुणः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/14_AchAryo_mRtyurvaruNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -957,6 +971,7 @@ The Master is Death, Varuna, Soma, the plants of earth, and milk. The thunder-cl
 </details>
 </details>
 </div>
+
 ## १५ अमा घृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/15_amA_ghRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1026,6 +1041,7 @@ Varuna, made a Master, takes at home the butter to himself. Whatever with Prajap
 </details>
 </details>
 </div>
+
 ## १६ आचार्यो ब्रह्मचारी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/16_AchAryo_brahmachArI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1087,6 +1103,7 @@ The pupil is the Master, yea, the pupil is Prajapati. Prajapati shines bright; t
 </details>
 </details>
 </div>
+
 ## १७ ब्रह्मचर्येण तपसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/17_brahmacharyeNa_tapasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1148,6 +1165,7 @@ By Fervour and by self-restraint the King protects the realm he rules. By self-r
 </details>
 </details>
 </div>
+
 ## १८ ब्रह्मचर्येण कन्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/18_brahmacharyeNa_kanyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1216,6 +1234,7 @@ By self-restraint a maiden finds a youth to be her wedded lord. By self-restrain
 </details>
 </details>
 </div>
+
 ## १९ ब्रह्मचर्येण तपसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/19_brahmacharyeNa_tapasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1278,6 +1297,7 @@ By Fervour and by self-restraint the Gods draye Death away from them, And Indra 
 </details>
 </details>
 </div>
+
 ## २० ओषधयो भूतभव्यमहोरात्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/20_oShadhayo_bhUtabhavyamahorAtre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1341,6 +1361,7 @@ The plants, what is and what shall be, day, night, the tall tree of the wood, Th
 </details>
 </details>
 </div>
+
 ## २१ पार्थिवा दिव्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/21_pArthivA_divyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1404,6 +1425,7 @@ All creatures of the earth and heaven, tame animals and sylvan beasts, Winged an
 </details>
 </details>
 </div>
+
 ## २२ पृथक्सर्वे प्राजापत्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/22_pRthaksarve_prAjApatyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1468,6 +1490,7 @@ All children of Prajapati have breath distinctly in themselves. The Brahma that 
 </details>
 </details>
 </div>
+
 ## २३ देवानामेतत्परिषूतमनभ्यारूढं चरति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/23_devAnAmetatpariShUtamanabhyArUDhaM_charati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1536,6 +1559,7 @@ Piled up on high, but never yet ascended, that power of deities is brightly shin
 </details>
 </details>
 </div>
+
 ## २४ ब्रह्मचारी ब्रह्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/24_brahmachArI_brahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1603,6 +1627,7 @@ The Brahmachari wields the radiant Brahma wherein all Gods are woven close toget
 </details>
 </details>
 </div>
+
 ## २५ चक्षुः श्रोत्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/25_chaxuH_shrotram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1663,6 +1688,7 @@ Bestow on us the power of sight and hearing, glory and food and seed and blood a
 </details>
 </details>
 </div>
+
 ## २६ तानि कल्पद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/005_brahmacharyam/26_tAni_kalpad.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

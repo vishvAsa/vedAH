@@ -28,6 +28,7 @@ Translated: Grill, 14, 168; Griffith, i. 295; Bloomfield, 40, 507.
 </details>
 </details>
 </div>
+
 ## ०१ इमं यवमष्टायोगैः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/01_imaM_yavamaShTAyogaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,6 +91,7 @@ They made this barley ready with a team of eight, a team of six. With this I dri
 </details>
 </details>
 </div>
+
 ## ०२ न्यग्वातो वाति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/02_nyagvAto_vAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,6 +156,7 @@ Vita breathes downward from above, and downward Surya sends his heat: Downward i
 </details>
 </details>
 </div>
+
 ## ०३ आप इद्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/03_Apa_idvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

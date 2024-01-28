@@ -32,6 +32,7 @@ A hymn to Manyu
 </details>
 </details>
 </div>
+
 ## ०१ यस्ते मन्योऽविधद्वज्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/01_yaste_manyo-vidhadvajra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ He who hath reverenced thee, Manyu, destructive bolt! breeds. for himself forthw
 </details>
 </details>
 </div>
+
 ## ०२ मन्युरिन्द्रो मन्युरेवास
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/02_manyurindro_manyurevAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -174,6 +176,7 @@ Manyu was Indra, yea, the God was Manyu; Manyu was Hotar Varuna, Jatavedas. The 
 </details>
 </details>
 </div>
+
 ## ०३ अभीहि मन्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/03_abhIhi_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -239,6 +242,7 @@ Come hither, Manyu, mightier than the mighty: smite, with thy fervour, for ally,
 </details>
 </details>
 </div>
+
 ## ०४ त्वं हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/04_tvaM_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -303,6 +307,7 @@ For thou art, Manyu, of surpassing vigour, fierce, queller of the foe, and self-
 </details>
 </details>
 </div>
+
 ## ०५ अभागः सन्नप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/05_abhAgaH_sannapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -374,6 +379,7 @@ I have departed still without a portion, wise God! according to thy will, the mi
 </details>
 </details>
 </div>
+
 ## ०६ अयं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/06_ayaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -442,6 +448,7 @@ Come hither, I am all thine own: advancing, turn thou to me, victorious, all-bes
 </details>
 </details>
 </div>
+
 ## ०७ अभि प्रेहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/07_abhi_prehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -35,6 +35,7 @@ An Apri or Propitiatory hymn
 </details>
 </details>
 </div>
+
 ## ०१ ऊर्ध्वा अस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/01_UrdhvA_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -136,6 +137,7 @@ Uplifted be this sacrificer's fuel: lofty and brilliant be the flames of Agni! S
 </details>
 </details>
 </div>
+
 ## ०२ देवो देवेषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/02_devo_deveShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -190,6 +192,7 @@ God among Gods, the God bedews the paths with fatness and' with mead.
 </details>
 </details>
 </div>
+
 ## ०३ मध्वा यज्ञम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/03_madhvA_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -256,6 +259,7 @@ With store of mead to sacrifice comes Agni, comes Narasansa Agni, friendly-minde
 </details>
 </details>
 </div>
+
 ## ०४ अच्छायमेति शवसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/04_achChAyameti_shavasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -450,6 +454,7 @@ Hither he comes with power and fatness also, the luminous,. implored with adorat
 </details>
 </details>
 </div>
+
 ## ०५ अग्निः स्रुचो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/05_agniH_srucho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -504,6 +509,7 @@ At holy rites and offerings Agni loveth the scoops: let this man worship Agni's 
 </details>
 </details>
 </div>
+
 ## ०६ तरी मन्द्रासु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/06_tarI_mandrAsu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -558,6 +564,7 @@ He is the furtherer at glad oblations: there stood the Vasus and the treasure-gi
 </details>
 </details>
 </div>
+
 ## ०७ द्वारो देवीरन्वस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/07_dvAro_devIranvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -612,6 +619,7 @@ Ever the Doors divine, and all protect this worshipper's holy work.
 </details>
 </details>
 </div>
+
 ## ०८ उरुव्यचसाग्नेर्धाम्ना पत्यमाने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/08_uruvyachasAgnerdhAmnA_patyamAne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -669,6 +677,7 @@ Far-reaching, ruling by the Law of Agni, May Dawn and Night, the holy, speeding 
 </details>
 </details>
 </div>
+
 ## ०९ दैवा होतार
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/09_daivA_hotAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -726,6 +735,7 @@ Celestial Hotars, with the tongues of Agni praise and extol our lofty ceremony, 
 </details>
 </details>
 </div>
+
 ## १० तन्नस्तुरीपमद्भुतं पुरुक्षु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/10_tannasturIpamadbhutaM_puruxu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -796,6 +806,7 @@ Three Goddesses upon this grass, be seated, Ida, Sarasvati, Mahi, and Bharati ad
 </details>
 </details>
 </div>
+
 ## ११ वनस्पतेऽव सृजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/11_vanaspate-va_sRjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -862,6 +873,7 @@ This our nutritious genial flow, God Tvashtar! and growth of wealth, pour down o
 </details>
 </details>
 </div>
+
 ## १२ अग्ने स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/12_agne_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -28,6 +28,7 @@ Translated: Ludwig, p. 531; Henry, 129, 169; Griffith, ii. 88; Bloomfield, 126, 
 </details>
 </details>
 </div>
+
 ## ०१ उत्तिष्ठत सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/01_uttiShThata_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -89,6 +90,7 @@ Rise up, with all your banners rise; prepare your strength, ye vapoury Forms! Se
 </details>
 </details>
 </div>
+
 ## ०२ ईशां वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/02_IshAM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ Let those who bear an evil name, in air, in heaven on earth, and men, After Tris
 </details>
 </details>
 </div>
+
 ## ०३ अयोमुखाः सूचीमुखा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/03_ayomukhAH_sUchImukhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,6 +235,7 @@ Let those with iron faces, with faces like needles or like combs, Flesh-eaters, 
 </details>
 </details>
 </div>
+
 ## ०४ अन्तर्धेहि जातवेद
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/04_antardhehi_jAtaveda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -298,6 +302,7 @@ Omniscient Aditya, make full many a corpse to disappear. Let this devoted army o
 </details>
 </details>
 </div>
+
 ## ०५ उत्तिष्ठ त्वम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/05_uttiShTha_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -360,6 +365,7 @@ Rise up, O Godlike Being, rise, Arbudi, with thine army: this, Tribute is sacrif
 </details>
 </details>
 </div>
+
 ## ०६ शितिपदी सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/06_shitipadI_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -424,6 +430,7 @@ May this four-footed White-foot, may this arrow brace and bind thee fast: Togeth
 </details>
 </details>
 </div>
+
 ## ०७ धूमाक्षी सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/07_dhUmAxI_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -490,6 +497,7 @@ Down let the dim-eyed demon fly, and let her shorteared sister shriek: Red be th
 </details>
 </details>
 </div>
+
 ## ०८ अवायन्तां पक्षिणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/08_avAyantAM_paxiNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -559,6 +567,7 @@ Let all the birds that move on wings come downward, all fowls that roam the heav
 </details>
 </details>
 </div>
+
 ## ०९ यामिन्द्रेण सन्धाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/09_yAmindreNa_sandhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -623,6 +632,7 @@ By that same binding treaty which thou madest, Brihaspati! with Indra! and with 
 </details>
 </details>
 </div>
+
 ## १० बृहस्पतिराङ्गिरस ऋषयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/10_bRhaspatirAngirasa_RShayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -687,6 +697,7 @@ Brihaspati Angirasa, Rishis made strong and keen by prayer, Have set Trishandhi 
 </details>
 </details>
 </div>
+
 ## ११ येनासौ गुप्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/11_yenAsau_gupta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -747,6 +758,7 @@ The Gods enjoyed Trishandhi for the sake of energy and power, Him under whose pr
 </details>
 </details>
 </div>
+
 ## १२ सर्वांल्लोकान्त्समजयन्देवा आहुत्यानया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/12_sarvAMllokAntsamajayandevA_AhutyAnayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -810,6 +822,7 @@ The Gods, victorious, won themselves all worlds by this oblation, which Brihaspa
 </details>
 </details>
 </div>
+
 ## १३ बृहस्पतिराङ्गिरसो वज्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/13_bRhaspatirAngiraso_vajram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -873,6 +886,7 @@ That fiend-destroying weapon which Brihaspati Angirasa poured out and made a thu
 </details>
 </details>
 </div>
+
 ## १४ सर्वे देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/14_sarve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -934,6 +948,7 @@ Over to us come all the Gods who eat the hallowed sacrifice With this oblation b
 </details>
 </details>
 </div>
+
 ## १५ सर्वे देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/15_sarve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -997,6 +1012,7 @@ Over,to us let all Gods come: dear is Trishandhi's offering. Keen the great pled
 </details>
 </details>
 </div>
+
 ## १६ वायुरमित्राणामिष्वग्राण्याञ्चतु इन्द्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/16_vAyuramitrANAmiShvagrANyAnchatu_indra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1067,6 +1083,7 @@ Let Vayu bend the arrow-points of those who are our enemies. Let Indra break the
 </details>
 </details>
 </div>
+
 ## १७ यदि प्रेयुर्देवपुरा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/17_yadi_preyurdevapurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1131,6 +1148,7 @@ If they have issued forth strongholds of Gods, and made their shields of prayer,
 </details>
 </details>
 </div>
+
 ## १८ क्रव्यादानुवर्तयन्मृत्युना च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/18_kravyAdAnuvartayanmRtyunA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1193,6 +1211,7 @@ With the Flesh-eater and with Death, following the Purohita, On! forward with Tr
 </details>
 </details>
 </div>
+
 ## १९ त्रिषन्धे तमसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/19_triShandhe_tamasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1255,6 +1274,7 @@ Do thou, Trishandhi, with the gloom of darkness compass round our foes; Let none
 </details>
 </details>
 </div>
+
 ## २० शितिपदी सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/20_shitipadI_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1320,6 +1340,7 @@ Let White-foot fall upon those wings of our opponents' arma- ment; Mazed and bew
 </details>
 </details>
 </div>
+
 ## २१ मूढा अमित्रा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/21_mUDhA_amitrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1384,6 +1405,7 @@ Mazed are the foemen, Nyarbudi! Slay thou each bravest man of them: with this ou
 </details>
 </details>
 </div>
+
 ## २२ यश्च कवची
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/22_yashcha_kavachI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1450,6 +1472,7 @@ Low lie the warrior, mailed, unmailed, each foeman in the rush of war. Down-smit
 </details>
 </details>
 </div>
+
 ## २३ ये वर्मिणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/23_ye_varmiNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1512,6 +1535,7 @@ The armour-clad, the armourless, enemies clothed with coats of mail, All these s
 </details>
 </details>
 </div>
+
 ## २४ ये रथिनो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/24_ye_rathino.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1581,6 +1605,7 @@ Car-borne and carless fighting men, riders and those who go on foot, All these, 
 </details>
 </details>
 </div>
+
 ## २५ सहस्रकुणपा शेतामामित्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/25_sahasrakuNapA_shetAmAmitrI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1645,6 +1670,7 @@ Low let the hostile army lie, thousands of corpses, on the ground, Pierced throu
 </details>
 </details>
 </div>
+
 ## २६ मर्माविधं रोरुवतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/26_marmAvidhaM_roruvatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1719,6 +1745,7 @@ With eagles let them eat the evil-hearted, pierced in the vitals, lying crushed 
 </details>
 </details>
 </div>
+
 ## २७ यां देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/27_yAM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

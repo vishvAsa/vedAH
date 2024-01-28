@@ -32,6 +32,7 @@ A prayer for influence at deliberative and religious meetings
 </details>
 </details>
 </div>
+
 ## ०१ सभा च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/01_sabhA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ In concord may Prajapati's two daughters, Gathering and As- sembly, both protect
 </details>
 </details>
 </div>
+
 ## ०२ विद्म ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/02_vidma_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ We know thy name, O Conference: thy name is interchange of talk. Let all the com
 </details>
 </details>
 </div>
+
 ## ०३ एषामहं समासीनानाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/03_eShAmahaM_samAsInAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -229,6 +232,7 @@ Of these men seated here I make the splendour and the lore mine own. Indra, make
 </details>
 </details>
 </div>
+
 ## ०४ यद्वो मनः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/04_yadvo_manaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

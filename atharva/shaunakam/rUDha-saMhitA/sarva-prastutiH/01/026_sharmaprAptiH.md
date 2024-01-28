@@ -32,6 +32,7 @@ A prayer for protection, guidance, and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ आरे३ ऽसावस्मदस्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/026_sharmaprAptiH/01_Are3-sAvasmadastu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Let that Destructive Weapon be far distant from us, O ye Gods; far be the Stone 
 </details>
 </details>
 </div>
+
 ## ०२ सखासावस्मभ्यमस्तु रातिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/026_sharmaprAptiH/02_sakhAsAvasmabhyamastu_rAtiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,6 +175,7 @@ Our friend be that Celestial Grace, Indra and Bhaga be our friends, and Savitar 
 </details>
 </details>
 </div>
+
 ## ०३ यूयं नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/026_sharmaprAptiH/03_yUyaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -237,6 +240,7 @@ Thou, Offspring of the waterflood, ye Maruts, with your sun- bright skins, give 
 </details>
 </details>
 </div>
+
 ## ०४ सुषूदत मृडत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/026_sharmaprAptiH/04_suShUdata_mRData.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

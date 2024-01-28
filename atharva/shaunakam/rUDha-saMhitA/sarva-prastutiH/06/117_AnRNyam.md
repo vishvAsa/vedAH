@@ -28,6 +28,7 @@ Translated: Ludwig, p. 444; Griffith, i. 309.
 </details>
 </details>
 </div>
+
 ## ०१ अपमित्यमप्रतीत्तं यदस्मि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -114,6 +115,7 @@ That which I eat, a debt which still is owing, the tribute due to Yama, which su
 </details>
 </details>
 </div>
+
 ## ०२ इहैव सन्तः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/02_ihaiva_santaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -183,6 +185,7 @@ Still dwelling here we give again this present; we send it forth, the living fro
 </details>
 </details>
 </div>
+
 ## ०३ अनृणा अस्मिन्ननृणाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

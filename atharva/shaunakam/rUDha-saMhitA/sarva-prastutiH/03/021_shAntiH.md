@@ -32,6 +32,7 @@ In honour of fire in all shapes, to appease Agni of the funeral pile and to quen
 </details>
 </details>
 </div>
+
 ## ०१ ये अग्नयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/01_ye_agnayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -111,6 +112,7 @@ All Fires that are in water and in Vritra, all those that man and stones contain
 </details>
 </details>
 </div>
+
 ## ०२ यः सोमे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/02_yaH_some.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -181,6 +183,7 @@ That which abides in Soma and in cattle, that which lies deep in birds and sylva
 </details>
 </details>
 </div>
+
 ## ०३ य इन्द्रेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/03_ya_indreNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -251,6 +254,7 @@ The Fire that rideth by the side of Indra, the God Vaisvanara,. yea all-consumin
 </details>
 </details>
 </div>
+
 ## ०४ यो देवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/04_yo_devo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -320,6 +324,7 @@ The all-devouring God whom men call Kama, he whom they call the Giver and Receiv
 </details>
 </details>
 </div>
+
 ## ०५ यं त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/05_yaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -390,6 +395,7 @@ To thee, strength-giver, glorious, rich in pleasant strains, whom. in their mind
 </details>
 </details>
 </div>
+
 ## ०६ उक्षान्नाय वशान्नाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/06_uxAnnAya_vashAnnAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -456,6 +462,7 @@ To him who feeds on ox and cow, sage, bearing Soma on his back, To all Vaisvanar
 </details>
 </details>
 </div>
+
 ## ०७ दिवं पृथिवीमन्वन्तरिक्षम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/07_divaM_pRthivImanvantarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -528,6 +535,7 @@ All fiery flames that follow after lightning, flashing o'er earth, through firma
 </details>
 </details>
 </div>
+
 ## ०८ हिरण्यपाणिं सवितारमिन्द्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/08_hiraNyapANiM_savitAramindram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -594,6 +602,7 @@ The golden-handed Savitar and Indra, Brihaspati, Varuna, Mitra, and Agni, The An
 </details>
 </details>
 </div>
+
 ## ०९ शान्तो अग्निः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/09_shAnto_agniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -657,6 +666,7 @@ Flesh-eating Agni is appeased, appeased is he who hurteth men. Now him who burne
 </details>
 </details>
 </div>
+
 ## १० ये पर्वताः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/10_ye_parvatAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

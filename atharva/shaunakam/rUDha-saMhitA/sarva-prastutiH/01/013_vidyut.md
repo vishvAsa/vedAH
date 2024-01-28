@@ -32,6 +32,7 @@ A prayer to Lightning, for happiness
 </details>
 </details>
 </div>
+
 ## ०१ नमस्ते अस्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/01_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ Homage to thee, the Lightning's flash, homage to thee, the Thunder's roar! Homag
 </details>
 </details>
 </div>
+
 ## ०२ नमस्ते प्रवतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/02_namaste_pravato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ Homage to thee, Child of the Flood whence thou collectest fer- vent heat! Be gra
 </details>
 </details>
 </div>
+
 ## ०३ प्रवतो नपान्नम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/03_pravato_napAnnama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -234,6 +237,7 @@ Yea, homage be to thee, O Offspring of the Flood! Homage we pay to thee, the dar
 </details>
 </details>
 </div>
+
 ## ०४ यां त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/04_yAM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

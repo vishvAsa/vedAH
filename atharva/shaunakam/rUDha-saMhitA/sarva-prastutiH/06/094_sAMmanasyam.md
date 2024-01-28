@@ -28,6 +28,7 @@ Translated: Ludwig, p. 514; Griffith, i. 296; Bloomfield, 138, 508.
 </details>
 </details>
 </div>
+
 ## ०१ सं वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/01_saM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,6 +91,7 @@ We bend your minds in union, bend in harmony your hopes and plans: You there, wh
 </details>
 </details>
 </div>
+
 ## ०२ अहं गृभ्णामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/02_ahaM_gRbhNAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,6 +156,7 @@ I with my spirit make your spirits captive: these with their thoughts follow my 
 </details>
 </details>
 </div>
+
 ## ०३ ओते मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/03_ote_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

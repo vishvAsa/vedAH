@@ -28,6 +28,7 @@ A charm to avert misfortune foreshown by the coming of a dove
 </details>
 </details>
 </div>
+
 ## ०१ देवाः कपोत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/027_ariShTaxayaNam/01_devAH_kapota.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ Gods! whatsoe'er the Dove came hither seeking, sent to us as the envoy of Destru
 </details>
 </details>
 </div>
+
 ## ०२ शिवः कपोत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/027_ariShTaxayaNam/02_shivaH_kapota.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -155,6 +157,7 @@ Auspicious be the Dove that hath been sent us, a harmless bird, O Gods, that see
 </details>
 </details>
 </div>
+
 ## ०३ हेतिः पक्षिणी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/027_ariShTaxayaNam/03_hetiH_paxiNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

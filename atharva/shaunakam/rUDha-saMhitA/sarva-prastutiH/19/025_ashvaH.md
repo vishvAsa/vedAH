@@ -32,6 +32,7 @@ A charm to be used when a young ox is first yoked
 </details>
 </details>
 </div>
+
 ## ०१ अश्रान्तस्य त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/025_ashvaH/01_ashrAntasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A prayer for purification and riches
 </details>
 </details>
 </div>
+
 ## ०१ वैश्वानरो रश्मिभिर्नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/01_vaishvAnaro_rashmibhirnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Cleanse us Vaisvanara with rays of splendour! With breath and clouds let quicken
 </details>
 </details>
 </div>
+
 ## ०२ वैश्वानरीं सूनृतामा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/02_vaishvAnarIM_sUnRtAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,6 +172,7 @@ Lay hold on Sunrita whose forms and regions have fair smooth backs, her who is a
 </details>
 </details>
 </div>
+
 ## ०३ वैश्वानरीं वर्चस
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/03_vaishvAnarIM_varchasa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

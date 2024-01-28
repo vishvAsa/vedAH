@@ -32,6 +32,7 @@ A charm for the destruction and plunder of enemies
 </details>
 </details>
 </div>
+
 ## ०१ निर्हस्तः शत्रुरभिदासन्नस्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Handless be every foeman who assaileth, they who with missiles come to fight aga
 </details>
 </details>
 </div>
+
 ## ०२ आतन्वाना आयच्छन्तोऽस्यन्तो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto-syanto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -169,6 +171,7 @@ Ye who run hither bending bows, brandishing swords and cast- ing darts. Handless
 </details>
 </details>
 </div>
+
 ## ०३ निर्हस्ताः सन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/03_nirhastAH_santu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

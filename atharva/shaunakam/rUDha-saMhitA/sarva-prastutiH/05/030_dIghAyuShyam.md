@@ -32,6 +32,7 @@ A charm to restore life and health
 </details>
 </details>
 </div>
+
 ## ०१ आवतस्त आवतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/01_Avatasta_AvataH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ From thy vicinity I call, from near, from far, from night at hand. Stay here: de
 </details>
 </details>
 </div>
+
 ## ०२ यत्त्वाभिचेरुः पुरुषः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/02_yattvAbhicheruH_puruShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ If any man, a stranger or akin, hath cast a spell on thee, I with my voice to th
 </details>
 </details>
 </div>
+
 ## ०३ यद्दुद्रोहिथ शेपिषे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/03_yaddudrohitha_shepiShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -223,6 +226,7 @@ If in thy folly thou hast lied or cursed a woman or a man, I with my voice decla
 </details>
 </details>
 </div>
+
 ## ०४ यदेनसो मातृकृताच्छेषे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/04_yadenaso_mAtRkRtAchCheShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -285,6 +289,7 @@ If thou art lying there because of mother's or of father's sin, I with my voice 
 </details>
 </details>
 </div>
+
 ## ०५ यत्ते माता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/05_yatte_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -351,6 +356,7 @@ Accept the healing medicine, the balm thy mother and thy sire, Thy sister and th
 </details>
 </details>
 </div>
+
 ## ०६ इहैधि पुरुष
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/06_ihaidhi_puruSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -415,6 +421,7 @@ O man, stay here among us; stay with all thy spirit: follow not Yama's two messe
 </details>
 </details>
 </div>
+
 ## ०७ अनुहूतः पुनरेहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/07_anuhUtaH_punarehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -476,6 +483,7 @@ Come back as thou art called to come, knowing the outlet of the path, And the Ap
 </details>
 </details>
 </div>
+
 ## ०८ मा बिभेर्न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/08_mA_bibherna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -538,6 +546,7 @@ Be not alarmed: thou wilt not die. I give thee lengthened years of life. Forth f
 </details>
 </details>
 </div>
+
 ## ०९ अङ्गभेदो अङ्गज्वरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/09_angabhedo_angajvaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -603,6 +612,7 @@ Gone is the pain that racked thee, gone thy fever, gone thy heart's disease. Con
 </details>
 </details>
 </div>
+
 ## १० ऋषी बोधप्रतीबोधावस्वप्नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/10_RShI_bodhapratIbodhAvasvapno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -667,6 +677,7 @@ Two sages, Sense and Vigilance, the sleepless and the watchful one, These, the p
 </details>
 </details>
 </div>
+
 ## ११ अयमग्निरुपसद्य इह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/11_ayamagnirupasadya_iha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -729,6 +740,7 @@ This Agni must be waited on. Here let the Sun mount up for thee. Rise from deep 
 </details>
 </details>
 </div>
+
 ## १२ नमो यमाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/12_namo_yamAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -796,6 +808,7 @@ Homage be paid to Yama, to Mrityu, and to the Fathers, and to those who guide us
 </details>
 </details>
 </div>
+
 ## १३ ऐतु प्राण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/13_aitu_prANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -861,6 +874,7 @@ Let breath and mind return to him, let sight and vigour come again Let all his b
 </details>
 </details>
 </div>
+
 ## १४ प्राणेनाग्ने चक्षुषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/14_prANenAgne_chaxuShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -925,6 +939,7 @@ Provide this man with breath and sight, O Agni, and with his body and his streng
 </details>
 </details>
 </div>
+
 ## १५ मा ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/15_mA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -986,6 +1001,7 @@ Let not thine inward breathing fail, let not thine outward breath be lost. Let S
 </details>
 </details>
 </div>
+
 ## १६ इयमन्तर्वदति जिह्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/16_iyamantarvadati_jihvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1051,6 +1067,7 @@ Tied, tremulously moving, here the tongue is speaking in the mouth. With thee I 
 </details>
 </details>
 </div>
+
 ## १७ अयं लोकः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/17_ayaM_lokaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

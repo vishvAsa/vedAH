@@ -28,6 +28,7 @@ Translated: Ludwig, p. 443; Zimmer, p. 182 (vss. 2, 3); Grill, 46, 172; Griffith
 </details>
 </details>
 </div>
+
 ## ०१ यद्विद्वांसो यदविद्वांस
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/115_pApamochanam/01_yadvidvAMso_yadavidvAMsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,6 +94,7 @@ Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us ther
 </details>
 </details>
 </div>
+
 ## ०२ यदि जाग्रद्यदि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/115_pApamochanam/02_yadi_jAgradyadi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ If I, a sinner, when awake or sleeping have committed sin, Free me therefrom as 
 </details>
 </details>
 </div>
+
 ## ०३ द्रुपदादिव मुमुचानः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/115_pApamochanam/03_drupadAdiva_mumuchAnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A glorification of the Uchchhishta or Residue of Sacrifice
 </details>
 </details>
 </div>
+
 ## ०१ उच्छिष्टे नाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/01_uchChiShTe_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ The Residue of Sacrifice containeth name, and from, and world: Indra and Agni an
 </details>
 </details>
 </div>
+
 ## ०२ उच्छिष्टे द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/02_uchChiShTe_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,6 +160,7 @@ The Residue of Sacrifice holdeth Earth, Heaven, and all that is: The Residue of 
 </details>
 </details>
 </div>
+
 ## ०३ सन्नुच्छिष्टे असंश्चोभौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/03_sannuchChiShTe_asaMshchobhau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,6 +230,7 @@ Real, non-real, both are there, Prajapati, and Death, and strength: Thereon depe
 </details>
 </details>
 </div>
+
 ## ०४ दृढो दृंहस्थिरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/04_dRDho_dRMhasthiro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -294,6 +298,7 @@ The firm, the fast, the strong, the hard, Brahma, the All-creating Ten. Gods, as
 </details>
 </details>
 </div>
+
 ## ०५ ऋक्साम यजुरुच्छिष्ट
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/05_RksAma_yajuruchChiShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -361,6 +366,7 @@ Verse, Song, and Sacrificial Text, chanting, the prelude, and the laud, The hum 
 </details>
 </details>
 </div>
+
 ## ०६ ऐन्द्राग्नं पावमानम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/06_aindrAgnaM_pAvamAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -425,6 +431,7 @@ Within the Residue, like babes unborn, the parts of sacrifice, Aindragne Pavaman
 </details>
 </details>
 </div>
+
 ## ०७ राजसूयं वाजपेयमग्निष्टोमस्तदध्वरः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/07_rAjasUyaM_vAjapeyamagniShTomastadadhvaraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -488,6 +495,7 @@ The Vajapeya, Royal Rite, the Agnishoma and its forms, Hymns, joyfullest with li
 </details>
 </details>
 </div>
+
 ## ०८ अग्न्याधेयमथो दीक्षा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/08_agnyAdheyamatho_dIxA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -557,6 +565,7 @@ Diksha and Agnyadheya rite that sates the wish, with magic- hymn, Suspended rite
 </details>
 </details>
 </div>
+
 ## ०९ अग्निहोत्रं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/09_agnihotraM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -627,6 +636,7 @@ Faith fire-oblation, fervent zeal, service, and sacrificial cry, Guerdon, good w
 </details>
 </details>
 </div>
+
 ## १० एकरात्रो द्विरात्रः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/10_ekarAtro_dvirAtraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -692,6 +702,7 @@ Sacrifice of one night, or two, Sadyaskri, Ukthya, and Prakri, Call, deep-toned 
 </details>
 </details>
 </div>
+
 ## ११ चतूरात्रः पञ्चरात्रः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/11_chatUrAtraH_pancharAtraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -758,6 +769,7 @@ Sacrifice of four nights, of five, of six nights, day and night conjoined, Shoda
 </details>
 </details>
 </div>
+
 ## १२ प्रतीहारो निधनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/12_pratIhAro_nidhanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -823,6 +835,7 @@ Pratihara and Nidhanam, the Visvajit, the Abhijit, The two Sahnatiratras and Twe
 </details>
 </details>
 </div>
+
 ## १३ सूनृता सन्नतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/13_sUnRtA_sannatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -887,6 +900,7 @@ Pleasantness, reverence, peace, and power, strength, vigour, immortality All for
 </details>
 </details>
 </div>
+
 ## १४ नव भूमीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/14_nava_bhUmIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -951,6 +965,7 @@ Nine several oceans, earths, and skies are set within, the Residue, Bright shine
 </details>
 </details>
 </div>
+
 ## १५ उपहव्यं विषूवन्तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/15_upahavyaM_viShUvantam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1015,6 +1030,7 @@ The Residue the Father's sire, who bears this universe, supports Vishuvan, Upaha
 </details>
 </details>
 </div>
+
 ## १६ पिता जनितुरुच्छिष्टोऽसोः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/16_pitA_janituruchChiShTo-soH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1078,6 +1094,7 @@ The Father's sire, the Residue, grandson of Spirit, primal Sire, Lord of the uni
 </details>
 </details>
 </div>
+
 ## १७ ऋतं सत्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/17_RtaM_satyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1142,6 +1159,7 @@ Right, truth, dominion, fervent zeal, toil, duty, action, future, past, Valour; 
 </details>
 </details>
 </div>
+
 ## १८ समृद्धिरोज आकूतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/18_samRddhiroja_AkUtiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1205,6 +1223,7 @@ Welfare, resolve and energy, the six expanses, kingship, sway, Prayer, and direc
 </details>
 </details>
 </div>
+
 ## १९ चतुर्होतार आप्रियश्चातुर्मास्यानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/19_chaturhotAra_ApriyashchAturmAsyAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1268,6 +1287,7 @@ And the four Hotars, Apri hymns, the Nivids, and Four- monthly rites, Oblations,
 </details>
 </details>
 </div>
+
 ## २० अर्धमासाश्च मासाश्चार्तवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/20_ardhamAsAshcha_mAsAshchArtavA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1331,6 +1351,7 @@ Months, half-months, sections of the year, seasons are in the Residue, The water
 </details>
 </details>
 </div>
+
 ## २१ शर्कराः सिकता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/21_sharkarAH_sikatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1392,6 +1413,7 @@ Pebbles, sand, stones, and herbs, and plants, and grass are in the Residue, Clos
 </details>
 </details>
 </div>
+
 ## २२ राद्धिः प्राप्तिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/22_rAddhiH_prAptiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1458,6 +1480,7 @@ Gain, acquisition, and success, fulness, complete prosperity. Great gain and wea
 </details>
 </details>
 </div>
+
 ## २३ यच्च प्राणति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/23_yachcha_prANati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1518,6 +1541,7 @@ All things that breathe the breath of life, all creatures that have eyes to see,
 </details>
 </details>
 </div>
+
 ## २४ ऋचः सामानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/24_RchaH_sAmAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1581,6 +1605,7 @@ Verses, and Songs, and magic hymns, Purana, sacrificial text. All the celestial 
 </details>
 </details>
 </div>
+
 ## २५ प्राणापानौ चक्षुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/25_prANApAnau_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1643,6 +1668,7 @@ Inbreath and outbreath, eye and ear, decay and freedom from decay, All the celes
 </details>
 </details>
 </div>
+
 ## २६ आनन्दा मोदाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/26_AnandA_modAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1710,6 +1736,7 @@ All pleasures and enjoyments, all delights and rapturous ecsta- sies, All the ce
 </details>
 </details>
 </div>
+
 ## २७ देवाः पितरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/27_devAH_pitaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -28,6 +28,7 @@ Translated: Ludwig, p. 442; Grill, 72, 173; Griffith, i. 311; Bloomfield, 165, 5
 </details>
 </details>
 </div>
+
 ## ०१ यदन्तरिक्षं पृथिवीमुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/120_sukRtasya_lokaH/01_yadantarixaM_pRthivImuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ If we have injured Air, or Earth, or Heaven, if we have wronged our Mother or ou
 </details>
 </details>
 </div>
+
 ## ०२ भूमिर्मातादितिर्नो जनित्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/120_sukRtasya_lokaH/02_bhUmirmAtAditirno_janitram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,6 +172,7 @@ Earth is our Mother, Aditi our birth-place: our brother Air save us from impreca
 </details>
 </details>
 </div>
+
 ## ०३ यत्रा सुहार्दः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/120_sukRtasya_lokaH/03_yatrA_suhArdaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

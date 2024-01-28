@@ -28,6 +28,7 @@ Translated: Zimmer, p. 386 (with comment on the diseases); Griffith, i. 315; Blo
 </details>
 </details>
 </div>
+
 ## ०१ विद्रधस्य बलासस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/01_vidradhasya_balAsasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ Of abscess, of decline, of inflammation of the eyes. O Plant, Of penetrating pai
 </details>
 </details>
 </div>
+
 ## ०२ यौ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/02_yau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,6 +172,7 @@ Those nerves of thine, Consumption! which stand closely hidden in thy groin I kn
 </details>
 </details>
 </div>
+
 ## ०३ यो अङ्ग्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/03_yo_angyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

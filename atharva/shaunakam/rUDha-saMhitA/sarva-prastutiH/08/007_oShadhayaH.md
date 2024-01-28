@@ -37,6 +37,7 @@ A charm to restore a sick man to health
 </details>
 </details>
 </div>
+
 ## ०१ या बभ्रवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/01_yA_babhravo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ The tawny-coloured, and the pale, the variegated and the red, The dusky-tinted, 
 </details>
 </details>
 </div>
+
 ## ०२ त्रायन्तामिमं पुरुषम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/02_trAyantAmimaM_puruSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ This man let them deliver from Consumption which the Gods have sent. The father 
 </details>
 </details>
 </div>
+
 ## ०३ आपो अग्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/03_Apo_agram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,6 +229,7 @@ The Waters are the best, and heavenly Plants. From every limb of thine have they
 </details>
 </details>
 </div>
+
 ## ०४ प्रस्तृणती स्तम्बिनीरेकशुङ्गाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/04_prastRNatI_stambinIrekashungAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -290,6 +294,7 @@ I speak to Healing Herbs spreading, and bushy, to creepers, and to those whose s
 </details>
 </details>
 </div>
+
 ## ०५ यद्वः सहः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/05_yadvaH_sahaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -352,6 +357,7 @@ The conquering strength, the power and might which ye, victo- rious Plants, poss
 </details>
 </details>
 </div>
+
 ## ०६ जीवलां नघारिषाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/06_jIvalAM_naghAriShAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -420,6 +426,7 @@ The living Plant that giveth life, that driveth malady away, Arundhatr, the resc
 </details>
 </details>
 </div>
+
 ## ०७ इहा यन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/07_ihA_yantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -482,6 +489,7 @@ Hitherward let the sapient come, the friendly sharers o f my speech. That we may
 </details>
 </details>
 </div>
+
 ## ०८ अग्नेर्घासो अपाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/08_agnerghAso_apAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -542,6 +550,7 @@ Germ of the Waters, Agni's food, Plants ever growing fresh and new, Sure, healin
 </details>
 </details>
 </div>
+
 ## ०९ अवकोल्बा उदकात्मान
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/09_avakolbA_udakAtmAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -603,6 +612,7 @@ Let Plants whose soul is water, girt with Avakas, piercing with their sharp horn
 </details>
 </details>
 </div>
+
 ## १० उन्मुञ्चन्तीर्विवरुणा उग्रा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/10_unmunchantIrvivaruNA_ugrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -668,6 +678,7 @@ Strong, antidotes of poison, those releasers, free from Varuna, And those that d
 </details>
 </details>
 </div>
+
 ## ११ अपक्रीताः सहीयसीर्वीरुधो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/11_apakrItAH_sahIyasIrvIrudho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -730,6 +741,7 @@ Let purchased Plants of mightier power, Plants that are praised for excellence. 
 </details>
 </details>
 </div>
+
 ## १२ मधुमन्मूलं मधुमदग्रमासाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/12_madhumanmUlaM_madhumadagramAsAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -796,6 +808,7 @@ Sweet is their root, sweet are these Plants' top branches, sweet also is their i
 </details>
 </details>
 </div>
+
 ## १३ यावतीः कियतीश्चेमाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/13_yAvatIH_kiyatIshchemAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -859,6 +872,7 @@ These Plants that grow upon the earth, whate'er their number and their size, Let
 </details>
 </details>
 </div>
+
 ## १४ वैयाघ्रो मणिर्वीरुधाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/14_vaiyAghro_maNirvIrudhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -922,6 +936,7 @@ May the Plants' Tiger-amulet, protective, guardian from the curse, Beat off the 
 </details>
 </details>
 </div>
+
 ## १५ सिंहस्येव स्तनथोः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/15_siMhasyeva_stanathoH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -987,6 +1002,7 @@ Before the gathered Plants they fly and scatter, as though a lion's roar or fire
 </details>
 </details>
 </div>
+
 ## १६ मुमुचाना ओषधयोऽग्नेर्वैश्वानरादधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/16_mumuchAnA_oShadhayo-gnervaishvAnarAdadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1048,6 +1064,7 @@ Emancipated from the sway of Agni, of Vaisvanara, go, covering the earth, ye Pla
 </details>
 </details>
 </div>
+
 ## १७ या रोहन्त्याङ्गिरसीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/17_yA_rohantyAngirasIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1111,6 +1128,7 @@ May these be pleasant to our heart, auspicious, rich in store of milk, These Pla
 </details>
 </details>
 </div>
+
 ## १८ याश्चाहं वेद
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/18_yAshchAhaM_veda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1176,6 +1194,7 @@ The Plants I know myself, the plants that with mine eye I look upon, Plants yet 
 </details>
 </details>
 </div>
+
 ## १९ सर्वाः समग्रा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/19_sarvAH_samagrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1238,6 +1257,7 @@ Let all the congregated Plants attend and mark mine utterance, That we may rescu
 </details>
 </details>
 </div>
+
 ## २० अश्वत्थो दर्भो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/20_ashvattho_darbho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1299,6 +1319,7 @@ Asvattha, Darbha, King of Plants, is Soma, deathless sacrifice Barley and Rice a
 </details>
 </details>
 </div>
+
 ## २१ उज्जिहीध्वे स्तनयत्यभिक्रन्दत्योषधीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/21_ujjihIdhve_stanayatyabhikrandatyoShadhIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1363,6 +1384,7 @@ Lift yourselves up, ye Healing Plants, loud is the thunder's crash and roar. Whe
 </details>
 </details>
 </div>
+
 ## २२ तस्यामृतस्येमं बलम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/22_tasyAmRtasyemaM_balam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1425,6 +1447,7 @@ We give the essence of that stream of nectar of this man to drink: So I prepare 
 </details>
 </details>
 </div>
+
 ## २३ वराहो वेद
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/23_varAho_veda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1489,6 +1512,7 @@ Well doth the wild boar know a Plant, the mungoose knows the Healing Herb. I cal
 </details>
 </details>
 </div>
+
 ## २४ याः सुपर्णा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/24_yAH_suparNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1560,6 +1584,7 @@ Plants of Angirases which hawks, celestial Plants which eagles. know; Plants kno
 </details>
 </details>
 </div>
+
 ## २५ यावतीनामोषधीनां गावः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/25_yAvatInAmoShadhInAM_gAvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1623,6 +1648,7 @@ The multitude of herbs whereon the Cows whom none may slaughter feed, all that a
 </details>
 </details>
 </div>
+
 ## २६ यावतीषु मनुष्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/26_yAvatIShu_manuShyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1684,6 +1710,7 @@ Hitherward unto thee I bring the Plants that cure all maladies, All Plants where
 </details>
 </details>
 </div>
+
 ## २७ पुष्पवतीः प्रसूमतीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/27_puShpavatIH_prasUmatIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1747,6 +1774,7 @@ Let Plants with flower and Plants with bud, the fruitful and the fruitless, all,
 </details>
 </details>
 </div>
+
 ## २८ उत्त्वाहार्षं पञ्चशलादथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/28_uttvAhArShaM_panchashalAdatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A prayer to various deities for protection and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ पातं न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/01_pAtaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Guard us the Maruts! Guard us well, O Indra, Piishan, Aditi. Guard us, O Waters'
 </details>
 </details>
 </div>
+
 ## ०२ पातां नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/02_pAtAM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ May Heaven and Earth take care of us for victory, may Pressing- Stone and Soma s
 </details>
 </details>
 </div>
+
 ## ०३ पातां नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/03_pAtAM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

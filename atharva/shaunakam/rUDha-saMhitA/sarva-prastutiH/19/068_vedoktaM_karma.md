@@ -32,6 +32,7 @@ A preliminary sacrificial formula
 </details>
 </details>
 </div>
+
 ## ०१ अव्यसश्च व्यचसश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A charm to avert an evil omen
 </details>
 </details>
 </div>
+
 ## ०१ इदं यत्कृष्णः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/064_pApamochanam/01_idaM_yatkRShNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ From all that woe and trouble may the Waters save and rescue me, Whate'er the Ra
 </details>
 </details>
 </div>
+
 ## ०२ इदं यत्कृष्णः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/064_pApamochanam/02_idaM_yatkRShNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

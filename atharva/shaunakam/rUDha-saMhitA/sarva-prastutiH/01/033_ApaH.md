@@ -32,6 +32,7 @@ To the Waters, for health and happiness
 </details>
 </details>
 </div>
+
 ## ०१ हिरण्यवर्णाः शुचयः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ May they, the golden-hued, the bright, the splendid, they wherein Savitar was bo
 </details>
 </details>
 </div>
+
 ## ०२ यासां राजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,6 +173,7 @@ They in the midst whereof King Varuna moveth, viewing men's righteous and unrigh
 </details>
 </details>
 </div>
+
 ## ०३ यासां देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/03_yAsAM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -236,6 +239,7 @@ Whom the Gods make their beverage in heaven, they who wax manifold in air's mid-
 </details>
 </details>
 </div>
+
 ## ०४ शिवेन मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/04_shivena_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ Magnification of the Odana or oblation of milk and rice
 </details>
 </details>
 </div>
+
 ## ०१ यमोदनं प्रथमजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/01_yamodanaM_prathamajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Odana which Prajapati, the firstborn of Order, dressed with fervour for the Brah
 </details>
 </details>
 </div>
+
 ## ०२ येनातरन्भूतकृतोऽति मृत्युम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/02_yenAtaranbhUtakRto-ti_mRtyum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ Whereby the World-Creators vanquished Mrityu, that which they found by fervour, 
 </details>
 </details>
 </div>
+
 ## ०३ यो दाधार
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/03_yo_dAdhAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,6 +229,7 @@ That which upholds the Earth, the all-sustainer, that which hath filled air's mi
 </details>
 </details>
 </div>
+
 ## ०४ यस्मान्मासा निर्मितास्त्रिंशदराः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/04_yasmAnmAsA_nirmitAstriMshadarAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -293,6 +297,7 @@ From which the months with thirty spokes were moulded, from which the twelve-spo
 </details>
 </details>
 </div>
+
 ## ०५ यः प्राणदः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/05_yaH_prANadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -409,6 +414,7 @@ Which hath become breath-giver, life-bestower; to which the worlds flow full of 
 </details>
 </details>
 </div>
+
 ## ०६ यस्मात्पक्वादमृतं सम्बभूव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/06_yasmAtpakvAdamRtaM_sambabhUva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -466,6 +472,7 @@ From which, matured, sprang Amrit into being, which hath become Gayatris lord an
 </details>
 </details>
 </div>
+
 ## ०७ अव बाधे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/07_ava_bAdhe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

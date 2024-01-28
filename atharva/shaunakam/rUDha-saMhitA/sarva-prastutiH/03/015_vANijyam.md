@@ -32,6 +32,7 @@ A merchant's prayer for success in his business
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रमहं वणिजम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/01_indramahaM_vaNijam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ I stir and animate the merchant Indra; may he approach and be our guide and lead
 </details>
 </details>
 </div>
+
 ## ०२ ये पन्थानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/02_ye_panthAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,6 +172,7 @@ The many paths which Gods are wont to travel, the paths which go between the ear
 </details>
 </details>
 </div>
+
 ## ०३ इध्मेनाग्न इच्छमानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/03_idhmenAgna_ichChamAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -240,6 +243,7 @@ With fuel. Agni! and with butter, longing, mine offering I present for strength 
 </details>
 </details>
 </div>
+
 ## ०४ इमामग्ने शरणिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/04_imAmagne_sharaNim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -331,6 +335,7 @@ Pardon this stubbornness of ours. O Agni, the distant pathway which our feet hav
 </details>
 </details>
 </div>
+
 ## ०५ येन धनेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/05_yena_dhanena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -397,6 +402,7 @@ The wealth wherewith I carry on my traffic, seeking, ye Gods! wealth with the we
 </details>
 </details>
 </div>
+
 ## ०६ येन धनेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/06_yena_dhanena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -467,6 +473,7 @@ The wealth wherewith I carry on my traffic, seeking, ye Gods! wealth with the we
 </details>
 </details>
 </div>
+
 ## ०७ उप त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/07_upa_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -533,6 +540,7 @@ With reverence we sign thy praise, O Hotar-priest Vaisvanara. Over our children 
 </details>
 </details>
 </div>
+
 ## ०८ विश्वाहा ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/08_vishvAhA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

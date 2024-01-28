@@ -32,6 +32,7 @@ A charm against parasitic worms
 </details>
 </details>
 </div>
+
 ## ०१ ओते मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/01_ote_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ I have called Heaven and Earth to aid, have called divine Sarasvati, Indra and A
 </details>
 </details>
 </div>
+
 ## ०२ अस्येन्द्र कुमारस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/02_asyendra_kumArasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ O Indra, Lord of Treasures, kill the worms that prey upon this boy. All the mali
 </details>
 </details>
 </div>
+
 ## ०३ यो अक्ष्यौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/03_yo_axyau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,6 +229,7 @@ Two of like colour, two unlike, two coloured black, two coloured red. The tawny 
 </details>
 </details>
 </div>
+
 ## ०४ सरूपौ द्वौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/04_sarUpau_dvau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -291,6 +295,7 @@ Worms that are white about the sides, those that are black with black-hued arms,
 </details>
 </details>
 </div>
+
 ## ०५ ये क्रिमयः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/05_ye_krimayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -353,6 +358,7 @@ Eastward the Sun is mounting, seen of all, destroying thing unseen, Crushing and
 </details>
 </details>
 </div>
+
 ## ०६ उत्पुरस्तात्सूर्य एति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/06_utpurastAtsUrya_eti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -416,6 +422,7 @@ Let the Yevashas, Kaskashas, Ejatkas, Sipavitnukas, Let both the worm that we ca
 </details>
 </details>
 </div>
+
 ## ०७ येवाषासः कष्कषास
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/07_yevAShAsaH_kaShkaShAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -483,6 +490,7 @@ Slain the Yevasha of the worms, slain too is the Nadaniman. I have reduced them 
 </details>
 </details>
 </div>
+
 ## ०८ हतो येवाषः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/08_hato_yevAShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -556,6 +564,7 @@ The worm Saranga, white of hue, three-headed, with a triple hump, I split and te
 </details>
 </details>
 </div>
+
 ## ०९ त्रिशीर्षाणं त्रिककुदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/09_trishIrShANaM_trikakudam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -623,6 +632,7 @@ I kill you, worms, as Atri, as Kanva and Jamadagni killed. I crush the worms to 
 </details>
 </details>
 </div>
+
 ## १० अत्रिवद्वः क्रिमयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/10_atrivadvaH_krimayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -683,6 +693,7 @@ The King of worms hath been destroyed, he who was lord of these is slain. Slain 
 </details>
 </details>
 </div>
+
 ## ११ हतो राजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/11_hato_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -744,6 +755,7 @@ Destroyed are his dependants, who those dwell around him are destroyed, And all 
 </details>
 </details>
 </div>
+
 ## १२ हतासो अस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/12_hatAso_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -804,6 +816,7 @@ Of every worm and insect, of the female and the male alike, I crush the head to 
 </details>
 </details>
 </div>
+
 ## १३ सर्वेषां च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/13_sarveShAM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

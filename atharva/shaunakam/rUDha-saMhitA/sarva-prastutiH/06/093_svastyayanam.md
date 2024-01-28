@@ -29,6 +29,7 @@ Translated: Muir, iv2. 333; Ludwig, p. 322; Griffith, i. 296.
 </details>
 </details>
 </div>
+
 ## ०१ यमो मृत्युरघमारो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/093_svastyayanam/01_yamo_mRtyuraghamAro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Yama, Death direly fatal, the Destroyer, with his black crest, Sarva the tawny a
 </details>
 </details>
 </div>
+
 ## ०२ मनसा होमैर्हरसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/093_svastyayanam/02_manasA_homairharasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ With mind, burnt offerings, butter, and libation, to royal Bhava and the archer 
 </details>
 </details>
 </div>
+
 ## ०३ त्रायध्वं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/093_svastyayanam/03_trAyadhvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A prayer for protection and general prosperity
 </details>
 </details>
 </div>
+
 ## ०१ आशानामाशापालेभ्यश्चतुर्भ्यो अमृतेभ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/01_AshAnAmAshApAlebhyashchaturbhyo_amRtebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Here will we serve with sacrifice the great Controllers of the world, The four i
 </details>
 </details>
 </div>
+
 ## ०२ य आशानामाशापालाश्चत्वार
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/02_ya_AshAnAmAshApAlAshchatvAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ Ye, Guardians of the regions, Gods who keep the quarters of the heavens, Rescue 
 </details>
 </details>
 </div>
+
 ## ०३ अस्रामस्त्वा हविषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/03_asrAmastvA_haviShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -231,6 +234,7 @@ I, free from stiffness, serve thee with oblation, not lame I sacri- fice with oi
 </details>
 </details>
 </div>
+
 ## ०४ स्वस्ति मात्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/04_svasti_mAtra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

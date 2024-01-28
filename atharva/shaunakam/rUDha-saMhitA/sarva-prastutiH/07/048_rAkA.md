@@ -32,6 +32,7 @@ A prayer for prosperity and the birth of a son
 </details>
 </details>
 </div>
+
 ## ०१ राकामहं सुहवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/048_rAkA/01_rAkAmahaM_suhavA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ I call on Raka with hair laud and reverent cry: may she, auspicious, hear us and
 </details>
 </details>
 </div>
+
 ## ०२ यास्ते राके
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/048_rAkA/02_yAste_rAke.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

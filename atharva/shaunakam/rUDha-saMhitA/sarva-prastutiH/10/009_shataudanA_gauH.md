@@ -33,6 +33,7 @@ The Sataudana or Hundredfold Oblation
 </details>
 </details>
 </div>
+
 ## ०१ अघायतामपि नह्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/01_aghAyatAmapi_nahyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Binding the mouths of those who threaten mischief, against my rivals cast this b
 </details>
 </details>
 </div>
+
 ## ०२ वेदिष्टे चर्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/02_vediShTe_charma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ Thy skin shall be the Altar; let thine hair become the Sacred Grass. This cord h
 </details>
 </details>
 </div>
+
 ## ०३ बालास्ते प्रोक्षणीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/03_bAlAste_proxaNIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,6 +231,7 @@ The holy water be thy hair: let thy tongue make thee clean, O Cow. Go, Hundredfo
 </details>
 </details>
 </div>
+
 ## ०४ यः शतौदनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/04_yaH_shataudanAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -290,6 +294,7 @@ He who prepares the Hundredfold Oblation gains each wish thereby: For all his mi
 </details>
 </details>
 </div>
+
 ## ०५ स स्वर्गमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/05_sa_svargamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -358,6 +363,7 @@ He rises up to heaven, ascends to younder third celestial height. Whoever gives 
 </details>
 </details>
 </div>
+
 ## ०६ स तांल्लोकान्त्समाप्नोति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/06_sa_tAMllokAntsamApnoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -421,6 +427,7 @@ That man completely wins those worlds, both of the heavens and of the earth, Who
 </details>
 </details>
 </div>
+
 ## ०७ ये ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/07_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -483,6 +490,7 @@ Thine Immolators, Goddess! and the men who dress thee for the feast, all these w
 </details>
 </details>
 </div>
+
 ## ०८ वसवस्त्वा दक्षिणत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/08_vasavastvA_daxiNata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -544,6 +552,7 @@ The Vasus from the South will be thy guards, the Maruts from the North, Adityas 
 </details>
 </details>
 </div>
+
 ## ०९ देवाः पितरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/09_devAH_pitaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -607,6 +616,7 @@ The Gods, the Fathers, mortal men, Gandharvas, and Apsara- ses, All these will b
 </details>
 </details>
 </div>
+
 ## १० अन्तरिक्षं दिवम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/10_antarixaM_divam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -668,6 +678,7 @@ The man who pays the Hundredfold Oblation winneth all the worlds, Air, heaven, a
 </details>
 </details>
 </div>
+
 ## ११ घृतं प्रोक्षन्ती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/11_ghRtaM_proxantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -730,6 +741,7 @@ Sprinkling down fatness, to the Gods will the beneficent God- dess go. Harm not 
 </details>
 </details>
 </div>
+
 ## १२ ये देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/12_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -795,6 +807,7 @@ From all the Gods enthroned in heaven, in air, from those who dwell on earth, Dr
 </details>
 </details>
 </div>
+
 ## १३ यत्ते शिरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/13_yatte_shiro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -857,6 +870,7 @@ Let thy head, let thy mouth, let both thine ears, and those two jaws of thine. P
 </details>
 </details>
 </div>
+
 ## १४ यौ त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/14_yau_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -918,6 +932,7 @@ Let both thy lips, thy nostrils, both thy horns, and these two eyes of thine. Po
 </details>
 </details>
 </div>
+
 ## १५ यत्ते क्लोमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/15_yatte_klomA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -980,6 +995,7 @@ Let heart and pericardium, let thy lungs with all the bronchial tubes, etc.
 </details>
 </details>
 </div>
+
 ## १६ यत्ते यकृद्ये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/16_yatte_yakRdye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1041,6 +1057,7 @@ Let liver, and let kidneys, let thine entrails, and the parts within, etc.
 </details>
 </details>
 </div>
+
 ## १७ यस्ते प्लाशिर्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/17_yaste_plAshiryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1101,6 +1118,7 @@ Let rectum and omentum, let thy belly's hollows, and thy skin, etc.
 </details>
 </details>
 </div>
+
 ## १८ यत्ते मज्जा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/18_yatte_majjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1165,6 +1183,7 @@ Let all thy marrow, every bone, let all thy flesh, and all thy blood, etc.
 </details>
 </details>
 </div>
+
 ## १९ यौ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/19_yau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1226,6 +1245,7 @@ Let both thy shoulders and thy hump, thy forelegs, and their lower parts, etc.
 </details>
 </details>
 </div>
+
 ## २० यास्ते ग्रीवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/20_yAste_grIvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1288,6 +1308,7 @@ Let neck and nape and shoulder-joints, thy ribs and inter-costal parts, etc.
 </details>
 </details>
 </div>
+
 ## २१ यौ त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/21_yau_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1348,6 +1369,7 @@ So let thy thighs and thy knee-bones, thy hinder quarters, and thy hips, etc.
 </details>
 </details>
 </div>
+
 ## २२ यत्ते पुच्छम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/22_yatte_puchCham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1408,6 +1430,7 @@ So let thy tail and all the hairs thereof, thine udder, and thy teats, etc.
 </details>
 </details>
 </div>
+
 ## २३ यास्ते जङ्घा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/23_yAste_janghA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1479,6 +1502,7 @@ Let all thy legs, the refuse of thy feet, thy heelropes, and thy hooves. Pour fo
 </details>
 </details>
 </div>
+
 ## २४ यत्ते चर्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/24_yatte_charma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1539,6 +1563,7 @@ Let all thy skin, Sataudana! let every hair thou hast, O Cow, Pour for the giver
 </details>
 </details>
 </div>
+
 ## २५ क्रोडौ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/25_kroDau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1602,6 +1627,7 @@ Sprinkled with molten butter, let the two meal-cakes be sport for thee. Make the
 </details>
 </details>
 </div>
+
 ## २६ उलूखले मुसले
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/26_ulUkhale_musale.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1676,6 +1702,7 @@ Each grain of rice in mortar or on pestle, all on the skin or in the winnowing-b
 </details>
 </details>
 </div>
+
 ## २७ अपो देवीर्मधुमतीर्घृतश्चुतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/27_apo_devIrmadhumatIrghRtashchuto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

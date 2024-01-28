@@ -32,6 +32,7 @@ A charm to secure freedom from various evils
 </details>
 </details>
 </div>
+
 ## ०१ ईशाणां त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/01_IshANAM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ We seize and hold thee, Conquering One! the queen of medi- cines that heal. O Pl
 </details>
 </details>
 </div>
+
 ## ०२ सत्यजितं शपथयावनीम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/02_satyajitaM_shapathayAvanIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ Still conquering, banishing the curse, mighty, with thy reverted. bloom. Thee an
 </details>
 </details>
 </div>
+
 ## ०३ या शशाप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/03_yA_shashApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -241,6 +244,7 @@ She who hath cursed us with a curse, or hath conceived a murderous sin, Or seize
 </details>
 </details>
 </div>
+
 ## ०४ यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/04_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -322,6 +326,7 @@ What magic they have wrought for thee in dish unbaked or burnt dark-red, What th
 </details>
 </details>
 </div>
+
 ## ०५ दौष्वप्न्यं दौर्जीवित्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/05_dauShvapnyaM_daurjIvityam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -390,6 +395,7 @@ Ill dream and wretchedness of life, Rakshasa, monster, stingy hags, All the she-
 </details>
 </details>
 </div>
+
 ## ०६ क्षुधामारं तृष्णामारमगोतामनपत्यताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/06_xudhAmAraM_tRShNAmAramagotAmanapatyatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -462,6 +468,7 @@ Death caused by famine, caused by thirst, failure of children,. loss of kine, Wi
 </details>
 </details>
 </div>
+
 ## ०७ तृष्णामारं क्षुधामारम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/07_tRShNAmAraM_xudhAmAram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -523,6 +530,7 @@ Death caused by thirst, death caused by stress of hunger, loss at play with dice
 </details>
 </details>
 </div>
+
 ## ०८ अपामार्ग ओषधीनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/08_apAmArga_oShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

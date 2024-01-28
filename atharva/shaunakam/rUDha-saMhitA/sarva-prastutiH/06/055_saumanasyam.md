@@ -32,6 +32,7 @@ A prayer for general protection and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ ये पन्थानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/055_saumanasyam/01_ye_panthAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ Of all the many God-frequented pathways that traverse realms between the earth a
 </details>
 </details>
 </div>
+
 ## ०२ ग्रीष्मो हेमन्तः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/055_saumanasyam/02_grIShmo_hemantaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ Maintain us in well-being Summer, Winter Dew-time and Spring, Autumn, and Rainy 
 </details>
 </details>
 </div>
+
 ## ०३ इदावत्सराय परिवत्सराय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/055_saumanasyam/03_idAvatsarAya_parivatsarAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

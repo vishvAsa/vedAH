@@ -32,6 +32,7 @@ A prayer for riches and general prosperity
 </details>
 </details>
 </div>
+
 ## ०१ अयं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/01_ayaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ This is thine ordered place of birth whence sprung to life thou shinest forth. K
 </details>
 </details>
 </div>
+
 ## ०२ अग्ने अच्छा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/02_agne_achChA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -169,6 +171,7 @@ Turn hither, Agni, speak to us, come to us with a friendly mind. Enrich us, Sovr
 </details>
 </details>
 </div>
+
 ## ०३ प्र णो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/03_pra_No.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -236,6 +239,7 @@ Let Aryaman vouchsafe us, wealth, and Bhaga, and Brihaspati, The Goddesses grant
 </details>
 </details>
 </div>
+
 ## ०४ सोमं राजानमवसेऽग्निम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/04_somaM_rAjAnamavase-gnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -302,6 +306,7 @@ We call King Soma to our aid, and Agni with our songs and. hymn, The Adityas, Vi
 </details>
 </details>
 </div>
+
 ## ०५ त्वं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/05_tvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -369,6 +374,7 @@ Do thou, O Agni, with thy fires strengthen our prayer and. sacrifice. Incite tho
 </details>
 </details>
 </div>
+
 ## ०६ इन्द्रवायू उभाविह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/06_indravAyU_ubhAviha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -439,6 +445,7 @@ Both Indra here and Vayu we invoke with an auspicious call, That in assembly all
 </details>
 </details>
 </div>
+
 ## ०७ अर्यमणं बृहस्पतिमिन्द्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/07_aryamaNaM_bRhaspatimindram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -503,6 +510,7 @@ Urge Aryaman to send us gifts, and Indra, and Brihaspati, Vata, Vishnu, Sarasvat
 </details>
 </details>
 </div>
+
 ## ०८ वाजस्य नु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/08_vAjasya_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -584,6 +592,7 @@ Now have we reached the ordering of power, and all these worlds of life are held
 </details>
 </details>
 </div>
+
 ## ०९ दुह्रां मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/09_duhrAM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -649,6 +658,7 @@ May heaven's five spacious regions pour their milk for me with all their might. 
 </details>
 </details>
 </div>
+
 ## १० गोसनिं वाचमुदेयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/10_gosaniM_vAchamudeyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

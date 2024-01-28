@@ -32,6 +32,7 @@ A hymn to Kama or Time
 </details>
 </details>
 </div>
+
 ## ०१ कालो अश्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/01_kAlo_ashvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ Prolific, thousand-eyed, and undecaying, a horse with seven reins Time bears us 
 </details>
 </details>
 </div>
+
 ## ०२ सप्त चक्रान्वहति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/02_sapta_chakrAnvahati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -184,6 +186,7 @@ This Time hath seven rolling wheels and seven naves immorality is the chariot's 
 </details>
 </details>
 </div>
+
 ## ०३ पूर्णः कुम्भोऽधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/03_pUrNaH_kumbho-dhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -255,6 +258,7 @@ On Time is laid an overflowing beaker: this we behold in many a place appearing.
 </details>
 </details>
 </div>
+
 ## ०४ स एव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/04_sa_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -324,6 +328,7 @@ He only made the worlds of life, he only gathered the worlds of living things to
 </details>
 </details>
 </div>
+
 ## ०५ कालोऽमूं दिवमजनयत्काल
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/05_kAlo-mUM_divamajanayatkAla.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -393,6 +398,7 @@ Kala created yonder heaven, and Kala made these realms of earth. By Kala, stirre
 </details>
 </details>
 </div>
+
 ## ०६ कालो भूतिमसृजत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/06_kAlo_bhUtimasRjata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -456,6 +462,7 @@ Kala created land; the Sun in Kala hath his light and heat. In Kala rest all thi
 </details>
 </details>
 </div>
+
 ## ०७ काले मनः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/07_kAle_manaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -519,6 +526,7 @@ In Kala mind, in Kala breath, in Kala name are fixt and joined. These living cre
 </details>
 </details>
 </div>
+
 ## ०८ काले तपः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/08_kAle_tapaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -586,6 +594,7 @@ Kala embraces Holy Fire, the Highest, Brahma in himself. Yea, Kala, who was fath
 </details>
 </details>
 </div>
+
 ## ०९ तेनेषितं तेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/09_teneShitaM_tena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -648,6 +657,7 @@ He made, he stirred this universe to motion, and on him it rests. He, Kala, havi
 </details>
 </details>
 </div>
+
 ## १० कालः प्रजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/10_kAlaH_prajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

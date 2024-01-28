@@ -32,6 +32,7 @@ A curative and protective charm
 </details>
 </details>
 </div>
+
 ## ०१ ऋणादृणमिव सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/01_RNAdRNamiva_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -107,6 +108,7 @@ As debt from debt repay and send sorcery to the sorcerer's house. Split, Salve! 
 </details>
 </details>
 </div>
+
 ## ०२ यदस्मासु दुःष्वप्न्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/02_yadasmAsu_duHShvapnyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -237,6 +239,7 @@ Whatever evil dream we have, what'er befall our kine or home, Be this that is sa
 </details>
 </details>
 </div>
+
 ## ०३ अपामूर्ज ओजसो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/03_apAmUrja_ojaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -303,6 +306,7 @@ Increasing from the Waters' strength and vigour, sprung into life from Agni Jata
 </details>
 </details>
 </div>
+
 ## ०४ चतुर्वीरं बध्यत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/04_chaturvIraM_badhyata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -377,6 +381,7 @@ On thee is laid the Chaturvira Ointment: let all the regions give thee peace and
 </details>
 </details>
 </div>
+
 ## ०५ आक्ष्वैकं मणिमेकम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/05_AxvaikaM_maNimekam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -468,6 +473,7 @@ Make one thy salve, thine amulet another, drink one, and with another bathe thy 
 </details>
 </details>
 </div>
+
 ## ०६ अग्निर्माग्निनावतु प्राणायापानायायुषे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/06_agnirmAgninAvatu_prANAyApAnAyAyuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -545,6 +551,7 @@ May Agni protect me with fire for inspiration and expiration, for strength, for 
 </details>
 </details>
 </div>
+
 ## ०७ इन्द्रो मेन्द्रियेणावतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/07_indro_mendriyeNAvatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -599,6 +606,7 @@ May Indra protect me with his Indra-power for inspiration, etc.
 </details>
 </details>
 </div>
+
 ## ०८ सोमो मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/08_somo_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -659,6 +667,7 @@ May Soma protect me with Soma-power, etc.
 </details>
 </details>
 </div>
+
 ## ०९ भगो म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/09_bhago_ma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -719,6 +728,7 @@ May Bhaga with good fortune protect me, etc.
 </details>
 </details>
 </div>
+
 ## १० मरुतो मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/10_maruto_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

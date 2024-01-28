@@ -32,6 +32,7 @@ A charm for power and preeminence
 </details>
 </details>
 </div>
+
 ## ०१ उत्तमो अस्योषधीनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/01_uttamo_asyoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Most excellent of all the plants art thou: thy vassals are the trees. Let him be
 </details>
 </details>
 </div>
+
 ## ०२ सबन्धुश्चासबन्धुश्च यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/02_sabandhushchAsabandhushcha_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ Whoever seeks to injure us, with kinsmen or no kin to aid, May I be uppermost of
 </details>
 </details>
 </div>
+
 ## ०३ यथा सोम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/03_yathA_soma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

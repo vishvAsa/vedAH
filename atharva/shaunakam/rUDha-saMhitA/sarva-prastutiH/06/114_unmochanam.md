@@ -24,6 +24,7 @@ The whole hymn is found in TB. (in ii. 4. 48-9), with mā for nas in c as the on
 </details>
 </details>
 </div>
+
 ## ०१ यद्देवा देवहेडनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/01_yaddevA_devaheDanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Whatever God-provoking wrong we priests have done, O Deities. Therefrom do ye de
 </details>
 </details>
 </div>
+
 ## ०२ ऋतस्यर्तेनादित्या यजत्रा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -169,6 +171,7 @@ Here set us free, O holy ones, Adityas, by the right of Law. When striving, brin
 </details>
 </details>
 </div>
+
 ## ०३ मेदस्वता यजमानाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/03_medasvatA_yajamAnAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

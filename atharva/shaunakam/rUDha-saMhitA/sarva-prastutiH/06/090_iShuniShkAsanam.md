@@ -28,6 +28,7 @@ Translated: Grill, 14, 168; Griffith, i. 294; Bloomfield, 11, 506.
 </details>
 </details>
 </div>
+
 ## ०१ यां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/01_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,6 +92,7 @@ The shaft that Rudra hath shot forth against thy members and thy heart, Here do 
 </details>
 </details>
 </div>
+
 ## ०२ यास्ते शतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/02_yAste_shatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,6 +156,7 @@ From all the hundred vessels spread throughout the members of thy frame. From al
 </details>
 </details>
 </div>
+
 ## ०३ नमस्ते रुद्रास्यते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/03_namaste_rudrAsyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

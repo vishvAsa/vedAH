@@ -32,6 +32,7 @@ A prayer to fever, as a charm against his attacks
 </details>
 </details>
 </div>
+
 ## ०१ यदग्निरापो अदहत्प्रविश्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/01_yadagnirApo_adahatpravishya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ When Agni blazed when he had pierced the Waters, whereat the Law-observers paid 
 </details>
 </details>
 </div>
+
 ## ०२ यद्यर्चिर्यदि वासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/02_yadyarchiryadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -183,6 +185,7 @@ If thou be fiery glow, or inflammation, or if thy birthplace call for chips of f
 </details>
 </details>
 </div>
+
 ## ०३ यदि शोको
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/03_yadi_shoko.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -245,6 +248,7 @@ Be thou distress, or agonizing torment, be thou the son King Varuna hath begotte
 </details>
 </details>
 </div>
+
 ## ०४ नमः शीताय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/04_namaH_shItAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

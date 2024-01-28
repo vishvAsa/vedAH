@@ -33,6 +33,7 @@ A King's charm to secure the fidelity of his people
 </details>
 </details>
 </div>
+
 ## ०१ सं वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/01_saM_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Close gathered be your bodies: be your minds and vows in. unison! Here present B
 </details>
 </details>
 </div>
+
 ## ०२ सञ्ज्ञपनं वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/02_sanjnapanaM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,6 +173,7 @@ Let there be union of your minds, let there be union of your hearts: All that is
 </details>
 </details>
 </div>
+
 ## ०३ यथादित्या वसुभिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/03_yathAdityA_vasubhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

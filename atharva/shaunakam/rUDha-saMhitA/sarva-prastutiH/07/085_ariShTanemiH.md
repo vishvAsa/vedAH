@@ -32,6 +32,7 @@ A charm to ensure victory in battle
 </details>
 </details>
 </div>
+
 ## ०१ त्यमू षु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/085_ariShTanemiH/01_tyamU_Shu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A charm to be used at child-birth
 </details>
 </details>
 </div>
+
 ## ०१ वषट्ते पूषन्नस्मिन्त्सूतावर्यमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/01_vaShaTte_pUShannasmintsUtAvaryamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -109,6 +110,7 @@ Vashat to thee. O Pushan At this birth let Aryaman the Sage perform as Hotar-pri
 </details>
 </details>
 </div>
+
 ## ०२ चतस्रो दिवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -178,6 +180,7 @@ Four are the regions of the sky, and four the regions of the earth: The Gods hav
 </details>
 </details>
 </div>
+
 ## ०३ सूषा व्यूर्णोतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -253,6 +256,7 @@ Puerpera (infatem) detegat: nos uterum aperimus. Lexa teipsam, puerpera. Tu, par
 </details>
 </details>
 </div>
+
 ## ०४ नेव मांसे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/04_neva_mAMse.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -332,6 +336,7 @@ Descendat viscosa placenta, cani, comedenda placenta; decidat placenta.
 </details>
 </details>
 </div>
+
 ## ०५ वि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/05_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -397,6 +402,7 @@ Diffindo tuum urinae ductum, diffindo vaginam, diffindo inguina. Matrem natumque
 </details>
 </details>
 </div>
+
 ## ०६ यथा वातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

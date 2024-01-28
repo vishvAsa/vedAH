@@ -32,6 +32,7 @@ A charm against hereditary disease (kshetriya)
 </details>
 </details>
 </div>
+
 ## ०१ उदगातां भगवती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/01_udagAtAM_bhagavatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -112,6 +113,7 @@ Twin Stars of happy omen, named Releasers, have gone up. May they Loose, of inhe
 </details>
 </details>
 </div>
+
 ## ०२ अपेयं रात्र्युच्छत्वपोच्छन्त्वभिकृत्वरीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/02_apeyaM_rAtryuchChatvapochChantvabhikRtvarIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -179,6 +181,7 @@ Vanish this Night, extinct in Dawn! Let those who weave their spells depart. So 
 </details>
 </details>
 </div>
+
 ## ०३ बभ्रोरर्जुनकाण्डस्य यवस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/03_babhrorarjunakANDasya_yavasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -245,6 +248,7 @@ With straw of barley tawny-brown in colour with its silvery ears, with stalk and
 </details>
 </details>
 </div>
+
 ## ०४ नमस्ते लाङ्गलेभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/04_namaste_lAngalebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -311,6 +315,7 @@ Let homage to thy ploughs be paid, our homage to the pole and yokes. So let the 
 </details>
 </details>
 </div>
+
 ## ०५ नमः सनिस्रसाक्षेभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/05_namaH_sanisrasAxebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

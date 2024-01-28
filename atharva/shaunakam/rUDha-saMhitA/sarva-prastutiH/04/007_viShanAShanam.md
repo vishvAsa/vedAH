@@ -32,6 +32,7 @@ A charm to make a poisonous plant innocuous
 </details>
 </details>
 </div>
+
 ## ०१ वारिदम्वारयातै वरणावत्यामधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/01_vAridamvArayAtai_varaNAvatyAmadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ So may this water guard us on the bank of Varanavati. Therein hath Amrit been in
 </details>
 </details>
 </div>
+
 ## ०२ अरसं प्राच्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/02_arasaM_prAchyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ Weak is the poison of the East, weak is the poison of the North, So too this poi
 </details>
 </details>
 </div>
+
 ## ०३ करम्भं कृत्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/03_karambhaM_kRtvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -262,6 +265,7 @@ When he hath made of thee a cake, broad, steaming, swelling up with fat, And eve
 </details>
 </details>
 </div>
+
 ## ०४ वि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/04_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -332,6 +336,7 @@ Intoxicater! like a shaft we make thy spirit fly away, Like a pot boiling on the
 </details>
 </details>
 </div>
+
 ## ०५ परि ग्राममिवाचितम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/05_pari_grAmamivAchitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -399,6 +404,7 @@ We set around thee with the spell as 'twere a gathered arma- ment. Stay quiet li
 </details>
 </details>
 </div>
+
 ## ०६ पवस्तैस्त्वा पर्यक्रीणन्दूर्शेभिरजिनैरुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/06_pavastaistvA_paryakrINandUrshebhirajinairuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -464,6 +470,7 @@ For coverings men have bartered thee, for skins of deer and woven cloths. Thou a
 </details>
 </details>
 </div>
+
 ## ०७ अनाप्ता ये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/07_anAptA_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

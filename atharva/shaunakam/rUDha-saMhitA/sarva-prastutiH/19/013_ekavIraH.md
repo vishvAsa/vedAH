@@ -32,6 +32,7 @@ A prayer for aid and victory in battle
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रस्य बाहू
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/01_indrasya_bAhU.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -116,6 +117,7 @@ These the two sturdy, manly arms of Indra, these that are won- drous, mighty, an
 </details>
 </details>
 </div>
+
 ## ०२ आशुः शिशानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/02_AshuH_shishAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -182,6 +184,7 @@ Swift, like a dread bull sharpening his weapons, rapidly striking, stirring up t
 </details>
 </details>
 </div>
+
 ## ०३ सङ्क्रन्दनेनानिमिषेण जिष्णुनाऽयोध्येन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/03_sankrandanenAnimiSheNa_jiShNunA-yodhyena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -248,6 +251,7 @@ With him loud-roaring, ever watchful, victor bold, hard to over- throw, whom non
 </details>
 </details>
 </div>
+
 ## ०४ स इषुहस्तैः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/04_sa_iShuhastaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -321,6 +325,7 @@ He rules with those who carry shafts and quivers, Indra who with his hand brings
 </details>
 </details>
 </div>
+
 ## ०५ बलविज्ञायः स्थविरः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/05_balavijnAyaH_sthaviraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -399,6 +404,7 @@ Conspicuous by thy strength, firm, foremost fighter, mighty and fierce, victorio
 </details>
 </details>
 </div>
+
 ## ०६ इमं वीरमनु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/06_imaM_vIramanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -467,6 +473,7 @@ Troop-vanquisher, kine-winner, armed with thunder, who quells an army and with m
 </details>
 </details>
 </div>
+
 ## ०७ अभि गोत्राणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/07_abhi_gotrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -541,6 +548,7 @@ Piercing the cow-stalls with surpassing vigour, Indra the pitiless hero, wild wi
 </details>
 </details>
 </div>
+
 ## ०८ बृहस्पते परि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/08_bRhaspate_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -609,6 +617,7 @@ Brihaspati, fly with thy chariot hither, slayer of demons, driving. off our foem
 </details>
 </details>
 </div>
+
 ## ०९ इन्द्र एषाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/09_indra_eShAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -679,6 +688,7 @@ Indra guide these! Brihaspati, the Guerdon, and Soma, and the Sacrifice precede 
 </details>
 </details>
 </div>
+
 ## १० इन्द्रस्य वृष्णो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/10_indrasya_vRShNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -741,6 +751,7 @@ Ours be the potent host of mighty Indra, King Varuna, and Maruts and Adityas. Up
 </details>
 </details>
 </div>
+
 ## ११ अस्माकमिन्द्रः समृतेषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/11_asmAkamindraH_samRteShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

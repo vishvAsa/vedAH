@@ -33,6 +33,7 @@ Skambha, the Pillar or Fulcrum of all existence
 </details>
 </details>
 </div>
+
 ## ०१ कस्मिन्नङ्गे तपो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/01_kasminnange_tapo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -120,6 +121,7 @@ Which of his members is the seat of Fervour: Which is the base of Ceremonial Ord
 </details>
 </details>
 </div>
+
 ## ०२ कस्मादङ्गाद्दीप्यते अग्निरस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/02_kasmAdangAddIpyate_agnirasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -177,6 +179,7 @@ Out of which member glows the light of Agni? Form which proceeds the breath of M
 </details>
 </details>
 </div>
+
 ## ०३ कस्मिन्नङ्गे तिष्ठति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/03_kasminnange_tiShThati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -242,6 +245,7 @@ Which of his members is the earth's upholder? Which gives the middle air a base 
 </details>
 </details>
 </div>
+
 ## ०४ क्व प्रेप्सन्दीप्यत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/04_kva_prepsandIpyata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -305,6 +309,7 @@ Whitherward yearning blazeth Agni upward? Whitherward yearning bloweth Matarisva
 </details>
 </details>
 </div>
+
 ## ०५ क्वार्धमासाः क्व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/05_kvArdhamAsAH_kva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -367,6 +372,7 @@ Whitheward go the half-months, and, accordant with the full year, the months in 
 </details>
 </details>
 </div>
+
 ## ०६ क्व प्रेप्सन्ती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/06_kva_prepsantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -430,6 +436,7 @@ Whitherward yearning speed the two young Damsels, accordant, Day and Night, of d
 </details>
 </details>
 </div>
+
 ## ०७ यस्मिन्त्स्तब्ध्वा प्रजापतिर्लोकान्त्सर्वाँ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/07_yasmintstabdhvA_prajApatirlokAntsarvA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -493,6 +500,7 @@ Who out of many, tell me, is that Skambha, On whom Prajapati set up and firmly s
 </details>
 </details>
 </div>
+
 ## ०८ यत्परममवमं यच्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/08_yatparamamavamaM_yachcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -556,6 +564,7 @@ That universe which Prajapati created, wearing all forms,, the highest, midmost,
 </details>
 </details>
 </div>
+
 ## ०९ कियता स्कम्भः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/09_kiyatA_skambhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -618,6 +627,7 @@ How far within the past hath Skambha entered? How much of him hath reached into 
 </details>
 </details>
 </div>
+
 ## १० यत्र लोकांश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/10_yatra_lokAMshcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -681,6 +691,7 @@ Who out of many, tell me, is that Skambha in whom men recognize the Waters, Brah
 </details>
 </details>
 </div>
+
 ## ११ यत्र तपः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/11_yatra_tapaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -745,6 +756,7 @@ Declare that. Skambha, who is he of many, In whom, exerting every power, Fervour
 </details>
 </details>
 </div>
+
 ## १२ यस्मिन्भूमिरन्तरिक्षं द्यौर्यस्मिन्नध्याहिता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/12_yasminbhUmirantarixaM_dyauryasminnadhyAhitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -807,6 +819,7 @@ Who out of many, tell me, is that Skambha On whom as their foundation earth and 
 </details>
 </details>
 </div>
+
 ## १३ यस्य त्रयस्त्रिंशद्देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/13_yasya_trayastriMshaddevA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -868,6 +881,7 @@ Who out of many, tell me, is that Skambha He in whose body are contained all thr
 </details>
 </details>
 </div>
+
 ## १४ यत्र ऋषयः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/14_yatra_RShayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -933,6 +947,7 @@ Who out of many, tell me, is that Skambha. In whom the Sages earliest born, the 
 </details>
 </details>
 </div>
+
 ## १५ यत्रामृतं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/15_yatrAmRtaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -996,6 +1011,7 @@ Who out of many, tell me, is the Skambha. Who comprehendeth, for mankind, both i
 </details>
 </details>
 </div>
+
 ## १६ यस्य चतस्रः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/16_yasya_chatasraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1062,6 +1078,7 @@ Who out of many, tell me, is that Skambha, He whose chief arteries stand there, 
 </details>
 </details>
 </div>
+
 ## १७ ये पुरुषे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/17_ye_puruShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1128,6 +1145,7 @@ They who in Purusha understand Brahma know Him who is. Supreme. He who knows Him
 </details>
 </details>
 </div>
+
 ## १८ यस्य शिरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/18_yasya_shiro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1189,6 +1207,7 @@ Who out of many, tell me, is that Skambha Of whom Vaisvanara became the head, th
 </details>
 </details>
 </div>
+
 ## १९ यस्य ब्रह्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/19_yasya_brahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1250,6 +1269,7 @@ Who out of many, tell me, is that Skambha Whose mouth they say is Holy Lore, his
 </details>
 </details>
 </div>
+
 ## २० यस्मादृचो अपातक्षन्यजुर्यस्मादपाकषन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/20_yasmAdRcho_apAtaxanyajuryasmAdapAkaShan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1313,6 +1333,7 @@ Who out of many, tell me, is that Skambha From whom they hewed the lichas off, f
 </details>
 </details>
 </div>
+
 ## २१ असच्छाखां प्रतिष्ठन्तीम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/21_asachChAkhAM_pratiShThantIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1379,6 +1400,7 @@ Men count as 'twere a thing supreme nonentity's conspicuous branch; And lower ma
 </details>
 </details>
 </div>
+
 ## २२ यत्रादित्याश्च रुद्राश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/22_yatrAdityAshcha_rudrAshcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1440,6 +1462,7 @@ Who out of many, tell me, is that Skambha In whom Adityas dwell, in whom Rudras 
 </details>
 </details>
 </div>
+
 ## २३ यस्य त्रयस्त्रिंशद्देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/23_yasya_trayastriMshaddevA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1500,6 +1523,7 @@ Whose secret treasure evermore the three-and thirty Gods protect? Who knoweth no
 </details>
 </details>
 </div>
+
 ## २४ यत्र देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/24_yatra_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1565,6 +1589,7 @@ Where the Gods, versed in Sacred Lore, worship the loftiest Power Divine The pri
 </details>
 </details>
 </div>
+
 ## २५ बृहन्तो नाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/25_bRhanto_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1631,6 +1656,7 @@ Great, verily, are those Gods who sprang from non-existence into life. Further, 
 </details>
 </details>
 </div>
+
 ## २६ यत्र स्कम्भः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/26_yatra_skambhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1695,6 +1721,7 @@ Where Skambha generating gave the Ancient World its shape and form, They recogni
 </details>
 </details>
 </div>
+
 ## २७ यस्य त्रयस्त्रिंशद्देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/27_yasya_trayastriMshaddevA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1758,6 +1785,7 @@ The three-and-thirty Gods within his body were disposed as limbs: Some, deeply v
 </details>
 </details>
 </div>
+
 ## २८ हिरण्यगर्भं परममनत्युद्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/28_hiraNyagarbhaM_paramamanatyudyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1820,6 +1848,7 @@ Men know Hiranyagarbha as supreme and inexpressible: In the beginning, in the mi
 </details>
 </details>
 </div>
+
 ## २९ स्कम्भे लोकाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/29_skambhe_lokAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1885,6 +1914,7 @@ On Skambha Fervour rests, the worlds and Holy Law repose on him. Skambha, I clea
 </details>
 </details>
 </div>
+
 ## ३० इन्द्रे लोका
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/30_indre_lokA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1949,6 +1979,7 @@ On Indra Fervour rests, on him the worlds and Holy Law recline. Indra, I clearly
 </details>
 </details>
 </div>
+
 ## ३१ नाम नाम्ना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/31_nAma_nAmnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2015,6 +2046,7 @@ Ere sun and dawn man calls and calls one Deity by the other's name. When the Unb
 </details>
 </details>
 </div>
+
 ## ३२ यस्य भूमिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/32_yasya_bhUmiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2083,6 +2115,7 @@ Be reverence paid to him, that highest Brahma, whose base is Earth, his belly Ai
 </details>
 </details>
 </div>
+
 ## ३३ यस्य सूर्यश्चक्षुश्चन्द्रमाश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/33_yasya_sUryashchaxushchandramAshcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2146,6 +2179,7 @@ Homage to highest Brahma, him whose eye is Surya and the Moon who groweth young 
 </details>
 </details>
 </div>
+
 ## ३४ यस्य वातः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/34_yasya_vAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2209,6 +2243,7 @@ Homage to highest Brahma, him whose two life-breathings were the Wind, The Angir
 </details>
 </details>
 </div>
+
 ## ३५ स्कम्भो दाधार
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/35_skambho_dAdhAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2276,6 +2311,7 @@ Skambha set fast these two, the earth and heaven, Skambha maintained the ample a
 </details>
 </details>
 </div>
+
 ## ३६ यः श्रमात्तपसो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/36_yaH_shramAttapaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2337,6 +2373,7 @@ Homage to highest Brahma, him who, sprung from Fervour and from toil, Filled all
 </details>
 </details>
 </div>
+
 ## ३७ कथं वातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/37_kathaM_vAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2400,6 +2437,7 @@ Why doth the Wind move ceaselessly? Why doth the spirit take no rest? Why do the
 </details>
 </details>
 </div>
+
 ## ३८ महद्यक्षं भुवनस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/38_mahadyaxaM_bhuvanasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2472,6 +2510,7 @@ Absorbed in Fervour, is the mighty Being, in the world's centre, on the waters' 
 </details>
 </details>
 </div>
+
 ## ३९ यस्मै हस्ताभ्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/39_yasmai_hastAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2539,6 +2578,7 @@ Who out of many, tell me, is that Skambha. To whom the Deities with hands, with 
 </details>
 </details>
 </div>
+
 ## ४० अप तस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/40_apa_tasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2599,6 +2639,7 @@ Darkness is chased away from him: he is exempt from all dist- ress. In him are a
 </details>
 </details>
 </div>
+
 ## ४१ यो वेतसम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/41_yo_vetasam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2672,6 +2713,7 @@ He verily who knows the Reed of Gold that stands amid the flood, is the mysterio
 </details>
 </details>
 </div>
+
 ## ४२ तन्त्रमेके युवती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/42_tantrameke_yuvatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2743,6 +2785,7 @@ Singly the two young Maids of different colours approach the six-pegged warp in 
 </details>
 </details>
 </div>
+
 ## ४३ तयोरहं परिनृत्यन्त्योरिव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/43_tayorahaM_parinRtyantyoriva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2812,6 +2855,7 @@ Of these two, dancing round as 'twere, I cannot distinguish whether ranks before
 </details>
 </details>
 </div>
+
 ## ४४ इमे मयूखा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/44_ime_mayUkhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

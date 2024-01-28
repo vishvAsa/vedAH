@@ -28,6 +28,7 @@ Translated: Ludwig, p. 443; Griffith, i. 309.
 </details>
 </details>
 </div>
+
 ## ०१ यद्यामं चक्रुर्निखनन्तो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/01_yadyAmaM_chakrurnikhananto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ The wealth which husbandmen aforetime, digging, like men who find their food wit
 </details>
 </details>
 </div>
+
 ## ०२ वैवस्वतः कृणवद्भागधेयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/02_vaivasvataH_kRNavadbhAgadheyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ May he, Vaivasvata, prepare our portion; May he whose share is mead with mead be
 </details>
 </details>
 </div>
+
 ## ०३ यदीदं मातुर्यदि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/03_yadIdaM_mAturyadi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

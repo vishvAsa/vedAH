@@ -32,6 +32,7 @@ A prayer for the prosperity of a King and his kingdom
 </details>
 </details>
 </div>
+
 ## ०१ प्रान्यान्त्सपत्नान्त्सहसा सहस्व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/01_prAnyAntsapatnAntsahasA_sahasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Subdue with conquering might his other rivals, those yet unborn repel, O Jataved
 </details>
 </details>
 </div>
+
 ## ०२ इमा यास्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/02_imA_yAste.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ Hae quot tibi sunt venae atque arteriae harum omnium os tibi lapide occlusi.
 </details>
 </details>
 </div>
+
 ## ०३ परं योनेरवरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/03_paraM_yoneravaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

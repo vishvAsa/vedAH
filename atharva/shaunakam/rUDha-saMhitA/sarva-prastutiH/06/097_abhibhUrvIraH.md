@@ -28,6 +28,7 @@ Translated: Ludwig, p. 460; Griffith, i. 298; Bloomfield, 122, 510.
 </details>
 </details>
 </div>
+
 ## ०१ अभिभूर्यज्ञो अभिभूरग्निरभिभूः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/01_abhibhUryajno_abhibhUragnirabhibhUH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,6 +92,7 @@ The sacrifice is victor, Agni victor, victorious is Soma, Indra conquers: So wil
 </details>
 </details>
 </div>
+
 ## ०२ स्वधास्तु मित्रावरुणा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/02_svadhAstu_mitrAvaruNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ omits it, prefixing instead *āré* to *bādhasva*. The comm. takes
 </details>
 </details>
 </div>
+
 ## ०३ इमं वीरमनु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/03_imaM_vIramanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

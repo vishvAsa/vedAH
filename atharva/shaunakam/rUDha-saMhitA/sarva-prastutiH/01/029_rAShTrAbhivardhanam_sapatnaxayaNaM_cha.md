@@ -32,6 +32,7 @@ A charm to secure the supremacy of a dethroned King
 </details>
 </details>
 </div>
+
 ## ०१ अभीवर्तेन मणिना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/01_abhIvartena_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ With that victorious Amulet which strengthened Indra's power- and might Do thou,
 </details>
 </details>
 </div>
+
 ## ०२ अभिवृत्य सपत्नानभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/02_abhivRtya_sapatnAnabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ Subduing those who rival us, subduing all malignities, Withstand the man who men
 </details>
 </details>
 </div>
+
 ## ०३ अभि त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/03_abhi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,6 +230,7 @@ Soma and Savitar the God have strengthened and exalted thee: All elements have a
 </details>
 </details>
 </div>
+
 ## ०४ अभीवर्तो अभिभवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/04_abhIvarto_abhibhavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -291,6 +295,7 @@ Slayer of rivals, vanquisher, may that victorious Amulet Be bound on me for rega
 </details>
 </details>
 </div>
+
 ## ०५ उदसौ सूर्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/05_udasau_sUryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -354,6 +359,7 @@ Yon Sun hath mounted up on high, and this my word hath mounted up That I may smi
 </details>
 </details>
 </div>
+
 ## ०६ सपत्नक्षयणो वृषाभिराष्ट्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/06_sapatnaxayaNo_vRShAbhirAShTro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

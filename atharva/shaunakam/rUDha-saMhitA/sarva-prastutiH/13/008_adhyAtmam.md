@@ -19,6 +19,7 @@ title = "००८ अध्यात्मम्"
 </details>
 </details>
 </div>
+
 ## ०१ भूयानिन्द्रो नमुराद्भूयानिन्द्रासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/01_bhUyAnindro_namurAdbhUyAnindrAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -86,6 +87,7 @@ here a similar identification.⌋
 </details>
 </details>
 </div>
+
 ## ०२ भूयानरात्याः शच्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/02_bhUyAnarAtyAH_shachyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -147,6 +149,7 @@ defined by the Anukr.
 </details>
 </details>
 </div>
+
 ## ०३ नमस्ते अस्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/03_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -208,6 +211,7 @@ combination *te astu*.
 </details>
 </details>
 </div>
+
 ## ०४ अन्नाद्येन यशसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/04_annAdyena_yashasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -266,6 +270,7 @@ Brahman-splendor;
 </details>
 </details>
 </div>
+
 ## ०५ अम्भो अमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/05_ambho_amo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -329,6 +334,7 @@ same curtailed way until vs. 54, which is filled out to the end.
 </details>
 </details>
 </div>
+
 ## ०६ अम्भो अरुणम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/06_ambho_aruNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

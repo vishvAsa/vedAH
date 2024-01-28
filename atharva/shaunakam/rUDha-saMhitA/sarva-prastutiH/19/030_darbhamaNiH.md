@@ -32,6 +32,7 @@ A protective charm accompanying investiture with an amulet of Darbha grass
 </details>
 </details>
 </div>
+
 ## ०१ यत्ते दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/01_yatte_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Darbha, with that good shield of thine, of hundred guards tilt death in eld, Arm
 </details>
 </details>
 </div>
+
 ## ०२ शतं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/02_shataM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ Darbha, thou hast a hundred shields, thou hast a thousand. manly powers. All God
 </details>
 </details>
 </div>
+
 ## ०३ त्वामाहुर्देववर्म त्वाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/03_tvAmAhurdevavarma_tvAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -229,6 +232,7 @@ They call thee, 'Darbha, shield of Gods, they call the Brahmanas- pati. They cal
 </details>
 </details>
 </div>
+
 ## ०४ सपत्नक्षयणं दर्भ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/04_sapatnaxayaNaM_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -297,6 +301,7 @@ Darbha, destroyer of the foe, vexing the hearts of enemies, An Amulet that stren
 </details>
 </details>
 </div>
+
 ## ०५ यत्समुद्रो अभ्यक्रन्दत्पर्जन्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/05_yatsamudro_abhyakrandatparjanyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

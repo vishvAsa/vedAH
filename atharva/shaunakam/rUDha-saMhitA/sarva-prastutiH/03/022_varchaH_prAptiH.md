@@ -32,6 +32,7 @@ The taming and training of an elephant for a king to ride on
 </details>
 </details>
 </div>
+
 ## ०१ हस्तिवर्चसं प्रथताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/01_hastivarchasaM_prathatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,6 +109,7 @@ Famed be the Elephant's strength, the lofty glory, which out of Aditi's body too
 </details>
 </details>
 </div>
+
 ## ०२ मित्रश्च वरुणश्चेन्द्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/02_mitrashcha_varuNashchendro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -177,6 +179,7 @@ On this have Mitra, Varuna, Indra, and Rudra fixed their thought. May those all-
 </details>
 </details>
 </div>
+
 ## ०३ येन हस्ती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/03_yena_hastI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -251,6 +254,7 @@ The strength wherewith the Elephant was dowered, that decks a King among the men
 </details>
 </details>
 </div>
+
 ## ०४ यत्ते वर्चो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/04_yatte_varcho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -323,6 +327,7 @@ The lofty strength which sacrifice brings, Jatavedas! unto thee, What strength t
 </details>
 </details>
 </div>
+
 ## ०५ यावच्चतस्रः प्रदिशश्चक्षुर्यावत्समश्नुते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/05_yAvachchatasraH_pradishashchaxuryAvatsamashnute.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -385,6 +390,7 @@ Far as the heaven's four regions spread, far as the eye's most distant ken. So w
 </details>
 </details>
 </div>
+
 ## ०६ हस्ती मृगाणाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/06_hastI_mRgANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

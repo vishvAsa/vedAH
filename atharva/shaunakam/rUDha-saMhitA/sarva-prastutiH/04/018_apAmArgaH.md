@@ -32,6 +32,7 @@ A counter-charm against the incantations of enemies
 </details>
 </details>
 </div>
+
 ## ०१ समं ज्योतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/01_samaM_jyotiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -105,6 +106,7 @@ The moonlight equalleth the sun, night is the rival of the day. I make effectual
 </details>
 </details>
 </div>
+
 ## ०२ यो देवाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/02_yo_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -169,6 +171,7 @@ Gods! if one make and bring a spell on some man's house who knows it not, Close 
 </details>
 </details>
 </div>
+
 ## ०३ अमा कृत्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/03_amA_kRtvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -247,6 +250,7 @@ When one puts poison in a dish of unbaked clay to kill a man, It cracks when set
 </details>
 </details>
 </div>
+
 ## ०४ सहस्रधामन्विशिखान्विग्रीवां छायया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/04_sahasradhAmanvishikhAnvigrIvAM_ChAyayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -319,6 +323,7 @@ Endowed with thousand powers! adjure the bald and those with necks awry. Back to
 </details>
 </details>
 </div>
+
 ## ०५ अनयाहमोषध्या सर्वाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/05_anayAhamoShadhyA_sarvAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -384,6 +389,7 @@ I with this Plant have ruined all malignant powers of witchery. The spell which 
 </details>
 </details>
 </div>
+
 ## ०६ यश्चकार न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/06_yashchakAra_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -461,6 +467,7 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. His a
 </details>
 </details>
 </div>
+
 ## ०७ अपामार्गोऽप मार्ष्टु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/07_apAmArgo-pa_mArShTu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -524,6 +531,7 @@ Let Apamarga sweep away chronic disease and every curse, Sweep sorceresses clean
 </details>
 </details>
 </div>
+
 ## ०८ अपमृज्य यातुधानानप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/08_apamRjya_yAtudhAnAnapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

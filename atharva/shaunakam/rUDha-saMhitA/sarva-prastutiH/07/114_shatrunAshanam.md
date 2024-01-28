@@ -28,6 +28,7 @@ Translated: Weber, Ind. Stud. v. 265; Henry, 45, 123; Griffith, i. 383.
 </details>
 </details>
 </div>
+
 ## ०१ आ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/114_shatrunAshanam/01_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,6 +94,7 @@ I have extracted from thy sides, I have extracted from thy heart, I have extract
 </details>
 </details>
 </div>
+
 ## ०२ प्रेतो यन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/114_shatrunAshanam/02_preto_yantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

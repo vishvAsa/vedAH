@@ -32,6 +32,7 @@ A charm against enemies, goblins, and other evil creatures
 </details>
 </details>
 </div>
+
 ## ०१ भ्रातृव्यक्षयणमसि भ्रातृव्यचातनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Destruction of the foe art thou, give me the scaring of my foes. All hail!
 </details>
 </details>
 </div>
+
 ## ०२ सपत्नक्षयणमसि सपत्नचातनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,6 +156,7 @@ The rival's ruiner art thou, give me to drive my rivals off. All hail!
 </details>
 </details>
 </div>
+
 ## ०३ अरायक्षयणमस्यरायचातनं मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -212,6 +215,7 @@ Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 </details>
 </details>
 </div>
+
 ## ०४ पिशाचक्षयणमसि पिशाचचातनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -270,6 +274,7 @@ Pisa-chas' ruiner art thou, give me to drive Pisachas off. All hail!
 </details>
 </details>
 </div>
+
 ## ०५ सदान्वाक्षयणमसि सदान्वाचातनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

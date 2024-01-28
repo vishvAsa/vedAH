@@ -28,6 +28,7 @@ Translated: Ludwig, p. 463; Zimmer, p. 237; Grill, 66, 177; Griffith, i. 324; Bl
 </details>
 </details>
 </div>
+
 ## ०१ उच्छ्रयस्व बहुर्भव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/01_uchChrayasva_bahurbhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ Spring high, O Barley, and become much through thine own magnificence: Burst all
 </details>
 </details>
 </div>
+
 ## ०२ आशृण्वन्तं यवम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/02_AshRNvantaM_yavam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -155,6 +157,7 @@ As we invite and call to thee, Barley, a God who heareth us, Raise thyself up li
 </details>
 </details>
 </div>
+
 ## ०३ अक्षितास्त उपसदोऽक्षिताः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/03_axitAsta_upasado-xitAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

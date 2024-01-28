@@ -32,6 +32,7 @@ A charm against all sorts of worms
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रस्य या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/01_indrasya_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ With Indra's mighty millstone, that which crushes worms of every sort, I bray an
 </details>
 </details>
 </div>
+
 ## ०२ दृष्टमदृष्टमतृहमथो कुरूरुमतृहम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -174,6 +176,7 @@ The Seen and the Invisible, and the Kururu have I crushed: Alandus, and all Chha
 </details>
 </details>
 </div>
+
 ## ०३ अल्गण्डून्हन्मि महता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/03_algaNDUnhanmi_mahatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -238,6 +241,7 @@ I kill Alandus with a mighty weapon: burnt or not burnt they now have lost their
 </details>
 </details>
 </div>
+
 ## ०४ अन्वान्त्र्यं शीर्षण्य१मथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -314,6 +318,7 @@ The worm that lives within the ribs, within the bowels, in the head. Avaskava an
 </details>
 </details>
 </div>
+
 ## ०५ ये क्रिमयः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/05_ye_krimayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

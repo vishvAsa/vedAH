@@ -32,6 +32,7 @@ A benediction addressed to a newly elected King
 </details>
 </details>
 </div>
+
 ## ०१ ध्रुवा द्यौर्ध्रुवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/01_dhruvA_dyaurdhruvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Firm is the sky, firm is the earth, and firm is all this living world; Firm are 
 </details>
 </details>
 </div>
+
 ## ०२ ध्रुवं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/02_dhruvaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -157,6 +159,7 @@ Stedfast may Varuna the King, stedfast the God Brihaspati, Stedfast may Indra st
 </details>
 </details>
 </div>
+
 ## ०३ ध्रुवोऽच्युतः प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/03_dhruvo-chyutaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

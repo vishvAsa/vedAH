@@ -32,6 +32,7 @@ The wooing of a bride
 </details>
 </details>
 </div>
+
 ## ०१ अयमा यात्यर्यमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/060_patilAbhaH/01_ayamA_yAtyaryamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -107,6 +108,7 @@ With forelock loosened o'er his brow here comes the wooer of the bride, Seeking 
 </details>
 </details>
 </div>
+
 ## ०२ अश्रमदियमर्यमन्नन्यासां समनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/060_patilAbhaH/02_ashramadiyamaryamannanyAsAM_samanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -174,6 +176,7 @@ Wooer! this girl hath toiled in vain, going to others' marriages. Now to her wed
 </details>
 </details>
 </div>
+
 ## ०३ धाता दाधार
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/060_patilAbhaH/03_dhAtA_dAdhAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

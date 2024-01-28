@@ -28,6 +28,7 @@ Translated: Griffith, i. 303.
 </details>
 </details>
 </div>
+
 ## ०१ विश्वजित्त्रायमाणायै मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/01_vishvajittrAyamANAyai_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ Entrust me, Visvajit, to Trayamana. Guard, Trayamana, all our men, guard all our
 </details>
 </details>
 </div>
+
 ## ०२ त्रायमाणे विश्वजिते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/02_trAyamANe_vishvajite.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,6 +156,7 @@ To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 </details>
 </details>
 </div>
+
 ## ०३ विश्वजित्कल्याण्यै मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/03_vishvajitkalyANyai_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -215,6 +218,7 @@ To Visvajit entrust me, O Kalyani. Guard, O Kalyani, all our men, etc.
 </details>
 </details>
 </div>
+
 ## ०४ कल्याणि सर्वविदे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/04_kalyANi_sarvavide.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

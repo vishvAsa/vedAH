@@ -32,6 +32,7 @@ A man's love-charm
 </details>
 </details>
 </div>
+
 ## ०१ उत्तुदस्त्वोत्तुदतु मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/01_uttudastvottudatu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -85,6 +86,7 @@ Let the Impeller goad thee on. Rest not in peace upon thy bed. Terrible is the s
 </details>
 </details>
 </div>
+
 ## ०२ आधीपर्णां कामशल्यामिषुम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/02_AdhIparNAM_kAmashalyAmiShum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -151,6 +153,7 @@ That arrow winged with longing thought, its stem Desire, its neck, Resolve, Let 
 </details>
 </details>
 </div>
+
 ## ०३ या प्लीहानम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/03_yA_plIhAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -216,6 +219,7 @@ The shaft of Kama, pointed well, that withers and consumes the spleen. With hast
 </details>
 </details>
 </div>
+
 ## ०४ शुचा विद्धा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/04_shuchA_viddhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -282,6 +286,7 @@ Pierced through with fiercely-burning heat, steal to me with thy parching lips, 
 </details>
 </details>
 </div>
+
 ## ०५ आजामि त्वाजन्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/05_AjAmi_tvAjanyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -345,6 +350,7 @@ Away Lfrom mother and from sire I drive thee hither with a whip, That thou mayst
 </details>
 </details>
 </div>
+
 ## ०६ व्यस्यै मित्रावरुणौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/06_vyasyai_mitrAvaruNau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

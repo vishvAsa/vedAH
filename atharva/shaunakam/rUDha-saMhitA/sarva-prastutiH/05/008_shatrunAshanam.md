@@ -32,6 +32,7 @@ A charm for the discomfiture and destruction of hostile priests
 </details>
 </details>
 </div>
+
 ## ०१ वैकङ्कतेनेध्मेन देवेभ्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/01_vaikankatenedhmena_devebhya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ With fuel of Vikankata bring molten butter to the Gods. O Agni, make them joyful
 </details>
 </details>
 </div>
+
 ## ०२ इन्द्रा याहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/02_indrA_yAhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ O Indra, come unto my call, This will I do. So hear it thou. Let these exertions
 </details>
 </details>
 </div>
+
 ## ०३ यदसावमुतो देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/03_yadasAvamuto_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,6 +231,7 @@ Whatever plot from yonder, O ye Gods, that godless man would frame, Let not the 
 </details>
 </details>
 </div>
+
 ## ०४ अति धावतातिसरा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/04_ati_dhAvatAtisarA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -295,6 +299,7 @@ Run, ye Fxertions, farther on By Indra's order smite and slay. As a wolf worriet
 </details>
 </details>
 </div>
+
 ## ०५ यममी पुरोदधिरे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/05_yamamI_purodadhire.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -357,6 +362,7 @@ The Brahman whom those yonder have appointed priest, for injury, He, Indra! is b
 </details>
 </details>
 </div>
+
 ## ०६ यदि प्रेयुर्देवपुरा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/06_yadi_preyurdevapurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -427,6 +433,7 @@ If they have issued forth, strongholds of Gods, and made their shield of prayer,
 </details>
 </details>
 </div>
+
 ## ०७ यानसावतिसरांश्चकार कृणवच्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/07_yAnasAvatisarAMshchakAra_kRNavachcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -489,6 +496,7 @@ Exertions which that man hath made, Exertions which he yet will make Turn them, 
 </details>
 </details>
 </div>
+
 ## ०८ यथेन्द्र उद्वाचनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/08_yathendra_udvAchanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -561,6 +569,7 @@ As Indra, having seized him, set his foot upon Udvachana, Even so for all the co
 </details>
 </details>
 </div>
+
 ## ०९ अत्रैनानिन्द्र वृत्रहन्नुग्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/09_atrainAnindra_vRtrahannugro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

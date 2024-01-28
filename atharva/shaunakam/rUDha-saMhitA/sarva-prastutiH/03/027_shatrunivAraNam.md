@@ -33,6 +33,7 @@ A charm consigning an enemy to the serpents for punishment
 </details>
 </details>
 </div>
+
 ## ०१ प्राची दिगग्निरधिपतिरसितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/01_prAchI_digagniradhipatirasito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -115,6 +116,7 @@ Worship to these the regents, these the warders, and to the arrows, yea, to thes
 </details>
 </details>
 </div>
+
 ## ०२ दक्षिणा दिगिन्द्रोऽधिपतिस्तिरश्चिराजी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/02_daxiNA_digindro-dhipatistirashchirAjI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -180,6 +182,7 @@ Worship to these the regents, these the warders, and to the arrows, yea, to thes
 </details>
 </details>
 </div>
+
 ## ०३ प्रतीची दिग्वरुणोऽधिपतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/03_pratIchI_digvaruNo-dhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -245,6 +248,7 @@ Worship, etc.
 </details>
 </details>
 </div>
+
 ## ०४ उदीची दिक्सोमोऽधिपतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/04_udIchI_diksomo-dhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -314,6 +318,7 @@ Worship, etc.
 </details>
 </details>
 </div>
+
 ## ०५ ध्रुवा दिग्विष्णुरधिपतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/05_dhruvA_digviShNuradhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -382,6 +387,7 @@ Worship, etc.
 </details>
 </details>
 </div>
+
 ## ०६ ऊर्ध्वा दिग्बृहस्पतिरधिपतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/06_UrdhvA_digbRhaspatiradhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

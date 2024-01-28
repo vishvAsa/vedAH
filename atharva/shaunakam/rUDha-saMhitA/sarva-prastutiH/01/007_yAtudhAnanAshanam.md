@@ -32,6 +32,7 @@ To Indra and Agni, for the detection and destruction of evil spirits
 </details>
 </details>
 </div>
+
 ## ०१ स्तुवानमग्न आ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/01_stuvAnamagna_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ Bring the Kimidin hither, bring the Yatudhana self-declared For Agni, God, thou,
 </details>
 </details>
 </div>
+
 ## ०२ आज्यस्य परमेष्ठिञ्जातवेदस्तनूवशिन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/02_Ajyasya_parameShThinjAtavedastanUvashin.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -175,6 +177,7 @@ O Jatavedas, Lord Supreme, controller of our bodies, taste The butter, Agni, tas
 </details>
 </details>
 </div>
+
 ## ०३ वि लपन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/03_vi_lapantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -239,6 +242,7 @@ Let Yatudhanas mourn, let all greedy Kimidins weep and wail: And, Agni, Indra, m
 </details>
 </details>
 </div>
+
 ## ०४ अग्निः पूर्व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/04_agniH_pUrva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -303,6 +307,7 @@ May Agni seize upon them first, may strong-armed Indra drive them forth: Let eve
 </details>
 </details>
 </div>
+
 ## ०५ पश्याम ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/05_pashyAma_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -368,6 +373,7 @@ Let us behold thy strength, O Jatavedas. Viewer of men, tell us the Yatudhanas. 
 </details>
 </details>
 </div>
+
 ## ०६ आ रभस्व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/06_A_rabhasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -433,6 +439,7 @@ O Jatavedas, seize, on them: for our advantage art thou born: Agni, be thou our 
 </details>
 </details>
 </div>
+
 ## ०७ त्वमग्ने यातुधानानुपबद्धाँ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/07_tvamagne_yAtudhAnAnupabaddhA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

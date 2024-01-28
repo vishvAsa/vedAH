@@ -32,6 +32,7 @@ A glorification of sacrifice
 </details>
 </details>
 </div>
+
 ## ०१ यज्ञेन यज्ञमयजन्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/01_yajnena_yajnamayajanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -343,6 +344,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 </details>
 </details>
 </div>
+
 ## ०२ यज्ञो बभूव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/02_yajno_babhUva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -411,6 +413,7 @@ Sacrifice was, was manifest among us: it sprang to life and then in time grew st
 </details>
 </details>
 </div>
+
 ## ०३ यद्देवा देवान्हविषाऽयजन्तामर्त्यान्मनसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/03_yaddevA_devAnhaviShA-yajantAmartyAnmanasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -473,6 +476,7 @@ Where the Gods worshipped Gods with their oblation, worship- ped immortals with 
 </details>
 </details>
 </div>
+
 ## ०४ यत्पुरुषेण हविषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/04_yatpuruSheNa_haviShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -543,6 +547,7 @@ With their oblation, Purusha, the Gods performed a sacrifice. A sacrifice more p
 </details>
 </details>
 </div>
+
 ## ०५ मुग्धा देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/05_mugdhA_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

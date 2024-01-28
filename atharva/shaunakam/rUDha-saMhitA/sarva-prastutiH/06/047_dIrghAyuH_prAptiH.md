@@ -32,6 +32,7 @@ To accompany the three daily libations
 </details>
 </details>
 </div>
+
 ## ०१ अग्निः प्रातःसवने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/01_agniH_prAtaHsavane.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Dear to all men, all-prosperer, all-creating, may Agni, guard us* at the morn's 
 </details>
 </details>
 </div>
+
 ## ०२ विश्वे देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/02_vishve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ At this our second offering may Indra, Maruts, and Visve Devas never fail us. St
 </details>
 </details>
 </div>
+
 ## ०३ इदं तृतीयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/03_idaM_tRtIyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

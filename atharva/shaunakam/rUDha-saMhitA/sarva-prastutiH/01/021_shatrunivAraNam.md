@@ -32,6 +32,7 @@ A prayer to Indra for protection
 </details>
 </details>
 </div>
+
 ## ०१ स्वस्तिदा विशाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/01_svastidA_vishAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Lord of the clans, giver of bliss, fiend-slayer, mighty o'er the foe, May Indra,
 </details>
 </details>
 </div>
+
 ## ०२ वि न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/02_vi_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ Indra, subdue our enemies, lay low the men who fight with us: Down into nether d
 </details>
 </details>
 </div>
+
 ## ०३ वि रक्षो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/03_vi_raxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,6 +229,7 @@ O Indra, Vritra slayer, quell the wrath of the assailing foe.
 </details>
 </details>
 </div>
+
 ## ०४ अपेन्द्र द्विषतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/04_apendra_dviShato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

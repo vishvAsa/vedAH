@@ -34,6 +34,7 @@ On the omnipresence and omniscience of Varuna
 </details>
 </details>
 </div>
+
 ## ०१ बृहन्नेषामधिष्ठाता अन्तिकादिव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/01_bRhanneShAmadhiShThAtA_antikAdiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -111,6 +112,7 @@ The mighty Ruler of these worlds beholds as though from close at hand, The man w
 </details>
 </details>
 </div>
+
 ## ०२ यस्तिष्ठति चरति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/02_yastiShThati_charati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -187,6 +189,7 @@ If a man stands or walks or moves in secret, goes to his lying- down or his upri
 </details>
 </details>
 </div>
+
 ## ०३ उतेयं भूमिर्वरुणस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/03_uteyaM_bhUmirvaruNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -253,6 +256,7 @@ This earth, too, is King Varuna's possession, and the high heaven whose ends are
 </details>
 </details>
 </div>
+
 ## ०४ उत यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/04_uta_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -319,6 +323,7 @@ If one should flee afar beyond the heaven, King Varuna would still be round abou
 </details>
 </details>
 </div>
+
 ## ०५ सर्वं तद्राजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/05_sarvaM_tadrAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -391,6 +396,7 @@ All this the royal Varuna beholdeth, all between heaven and earth and all beyond
 </details>
 </details>
 </div>
+
 ## ०६ ये ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/06_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -465,6 +471,7 @@ Those fatal snares of thine which stand extended, threefold, O Varuna, seven by 
 </details>
 </details>
 </div>
+
 ## ०७ शतेन पाशैरभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/07_shatena_pAshairabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -542,6 +549,7 @@ Varuna, snare him with a hundred nooses! Man's watcher! let not him who lies esc
 </details>
 </details>
 </div>
+
 ## ०८ यः समाम्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -617,6 +625,7 @@ Varuna sends, and drives away, diseases: Varuna is both native and a stranger, V
 </details>
 </details>
 </div>
+
 ## ०९ तैस्त्वा सर्वैरभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/09_taistvA_sarvairabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

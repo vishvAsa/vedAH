@@ -29,6 +29,7 @@ Translated: Weber, Ind. Stud. v. 250; Henry, 44, 122; Griffith, i. 382.
 </details>
 </details>
 </div>
+
 ## ०१ तृष्टिके तृष्टवन्दन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/113_shatrunAshanam/01_tRShTike_tRShTavandana.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ Rough Plant, thou rough rude parasite, cut thou that man, O Rough and Rude, That
 </details>
 </details>
 </div>
+
 ## ०२ तृष्टासि तृष्टिका
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/113_shatrunAshanam/02_tRShTAsi_tRShTikA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

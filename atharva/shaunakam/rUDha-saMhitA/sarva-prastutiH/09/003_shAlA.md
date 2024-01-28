@@ -34,6 +34,7 @@ On the consecration of a newly built house
 </details>
 </details>
 </div>
+
 ## ०१ उपमितां प्रतिमितामथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/01_upamitAM_pratimitAmatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ We loose the ties and fastenings of the house that holds all precious things, Th
 </details>
 </details>
 </div>
+
 ## ०२ यत्ते नद्धम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/02_yatte_naddham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ All-wealthy House! each knot and band, each cord that is attached to thee I with
 </details>
 </details>
 </div>
+
 ## ०३ आ ययाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/03_A_yayAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,6 +230,7 @@ He drew them close, he pressed them fast, he made thy knotted. bands secure: Wit
 </details>
 </details>
 </div>
+
 ## ०४ वंशानां ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/04_vaMshAnAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -292,6 +296,7 @@ We loose the bands of thy bamboos, of bolts, of fastening, of thatch, We loose t
 </details>
 </details>
 </div>
+
 ## ०५ सन्दंशानां पलदानाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/05_sandaMshAnAM_paladAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -355,6 +360,7 @@ We loosen here the ties and bands of straw in bundles, and of clamps, Of all tha
 </details>
 </details>
 </div>
+
 ## ०६ यानि तेऽन्तः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/06_yAni_te-ntaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -429,6 +435,7 @@ We loose the loops which men have bound within thee, loops to tie and hold. Be g
 </details>
 </details>
 </div>
+
 ## ०७ हविर्धानमग्निशालं पत्नीनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/07_havirdhAnamagnishAlaM_patnInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -491,6 +498,7 @@ Store-house of Soma, Agni's hall, the ladies' bower, the resi- dence, The seat o
 </details>
 </details>
 </div>
+
 ## ०८ अक्षुमोपशं विततम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/08_axumopashaM_vitatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -557,6 +565,7 @@ We with our incantation loose the net that hath a thousand. eyes. The diadem, se
 </details>
 </details>
 </div>
+
 ## ०९ यस्त्वा शाले
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/09_yastvA_shAle.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -621,6 +630,7 @@ The man who takes thee as his own, and he who was thy builder,. House! Both thes
 </details>
 </details>
 </div>
+
 ## १० अमुत्रैनमा गच्छताद्दृढा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/10_amutrainamA_gachChatAddRDhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -686,6 +696,7 @@ There let her come to meet this man. Firm, strongly fastened,. and prepared Art 
 </details>
 </details>
 </div>
+
 ## ११ यस्त्वा शाले
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/11_yastvA_shAle.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -748,6 +759,7 @@ He who collected timber for the work and built thee up, O House, Made thee for c
 </details>
 </details>
 </div>
+
 ## १२ नमस्तस्मै नमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/12_namastasmai_namo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -810,6 +822,7 @@ Homage to him! We worship too the giver and the Mansion's lord: Homage to Agni! 
 </details>
 </details>
 </div>
+
 ## १३ गोभ्यो अश्वेभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/13_gobhyo_ashvebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -872,6 +885,7 @@ Homage to kine and steeds! to all that shall be born within the house We loose t
 </details>
 </details>
 </div>
+
 ## १४ अग्निमन्तश्छादयसि पुरुषान्पशुभिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/14_agnimantashChAdayasi_puruShAnpashubhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -932,6 +946,7 @@ Agni thou shelterest within, and people with domestic beasts. We loose the bonds
 </details>
 </details>
 </div>
+
 ## १५ अन्तरा द्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/15_antarA_dyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1002,6 +1017,7 @@ All space that lies between the earth and heaven, therewith I take this house fo
 </details>
 </details>
 </div>
+
 ## १६ ऊर्जस्वती पयस्वती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/16_UrjasvatI_payasvatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1063,6 +1079,7 @@ Rich in prosperity, rich in milk, founded and built upon the earth, Injure not t
 </details>
 </details>
 </div>
+
 ## १७ तृणैरावृता पलदान्वसाना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/17_tRNairAvRtA_paladAnvasAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1129,6 +1146,7 @@ Grass-covered, clad with straw, the house, like Night, gives rest to man and bea
 </details>
 </details>
 </div>
+
 ## १८ इटस्य ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/18_iTasya_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1191,6 +1209,7 @@ I loosen and remove from thee thy covering formed by mats of reed. What Varuna h
 </details>
 </details>
 </div>
+
 ## १९ ब्रह्मणा शालाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/19_brahmaNA_shAlAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1255,6 +1274,7 @@ May Indra, Agni, deathless Gods, protect the house where Soma dwells, House that
 </details>
 </details>
 </div>
+
 ## २० कुलायेऽधि कुलायम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/20_kulAye-dhi_kulAyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1317,6 +1337,7 @@ Nest upon nest hath been imposed, compartment on compart- ment laid: There man s
 </details>
 </details>
 </div>
+
 ## २१ या द्विपक्षा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/21_yA_dvipaxA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1383,6 +1404,7 @@ Within the house constructed with two side-posts, or with four, or six. Built wi
 </details>
 </details>
 </div>
+
 ## २२ प्रतीचीं त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/22_pratIchIM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1447,6 +1469,7 @@ Turned to thee, House! I come to thee, innocent, turned to welcome me: For Fire 
 </details>
 </details>
 </div>
+
 ## २३ इमा आपः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/23_imA_ApaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1509,6 +1532,7 @@ Water that kills Consumption, free from all Consumption, here I bring. With Agni
 </details>
 </details>
 </div>
+
 ## २४ मा नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/24_mA_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1571,6 +1595,7 @@ Lay thou no cord or noose on us: a weighty burthen, still be light! Withersoever
 </details>
 </details>
 </div>
+
 ## २५ प्राच्या दिशः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/25_prAchyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1631,6 +1656,7 @@ Now from the east side of the house to the Great Power be homage paid! Hail to t
 </details>
 </details>
 </div>
+
 ## २६ दक्षिणाया दिशः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/26_daxiNAyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1688,6 +1714,7 @@ Now from the south side of the house, etc.
 </details>
 </details>
 </div>
+
 ## २७ प्रतीच्या दिशः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/27_pratIchyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1745,6 +1772,7 @@ Now from the west side of the house, etc.
 </details>
 </details>
 </div>
+
 ## २८ उदीच्या दिशः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/28_udIchyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1802,6 +1830,7 @@ Now from the north side of the house, etc.
 </details>
 </details>
 </div>
+
 ## २९ ध्रुवाया दिशः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/29_dhruvAyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1859,6 +1888,7 @@ So from the mansion's every side to the Great Power be homage paid! Hail to the 
 </details>
 </details>
 </div>
+
 ## ३० ऊर्ध्वाया दिशः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/30_UrdhvAyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1916,6 +1946,7 @@ So from the mansion's every side to the Great Power be homage paid! Hail to the 
 </details>
 </details>
 </div>
+
 ## ३१ दिशोदिशः शालाया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/31_dishodishaH_shAlAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

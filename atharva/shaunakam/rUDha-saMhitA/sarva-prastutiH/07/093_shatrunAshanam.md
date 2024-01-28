@@ -28,6 +28,7 @@ Translated: Henry, 38, 108; Griffith, i. 374.
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रेण मन्युना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/093_shatrunAshanam/01_indreNa_manyunA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

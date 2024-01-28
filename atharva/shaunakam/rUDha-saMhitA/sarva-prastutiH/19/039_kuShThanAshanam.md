@@ -32,6 +32,7 @@ A protective charm
 </details>
 </details>
 </div>
+
 ## ०१ ऐतु देवस्त्रायमाणः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Let Kushtha from the Hill of Snow come, a divine deliverer. Banish thou all Cons
 </details>
 </details>
 </div>
+
 ## ०२ त्रीणि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/02_trINi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -198,6 +200,7 @@ Kushtha, three several names hast thou, Naghamara, Nagharisha: let not mishap be
 </details>
 </details>
 </div>
+
 ## ०३ जीवला नाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -264,6 +267,7 @@ Jivala is thy mother's name, thy father's name is Jivala; let not mishap, etc.
 </details>
 </details>
 </div>
+
 ## ०४ उत्तमो अस्योषधीनामनड्वाञ्जगतामिव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -330,6 +334,7 @@ Thou art the best amid the plants, even as the ox is best of tame, the tiger of 
 </details>
 </details>
 </div>
+
 ## ०५ त्रिः शाम्बुभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -409,6 +414,7 @@ Born thrice from the Adityas, thrice from Bhrigus, thrice from Angiras' sons, bo
 </details>
 </details>
 </div>
+
 ## ०६ अश्वत्थो देवसदनस्तृतीयस्यामितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -483,6 +489,7 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods: There i
 </details>
 </details>
 </div>
+
 ## ०७ हिरण्ययी नौरचरद्धिरण्यबन्धना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -549,6 +556,7 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold: T
 </details>
 </details>
 </div>
+
 ## ०८ यत्र नावप्रभ्रंशनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -634,6 +642,7 @@ Where is the Sinking of the Ship, the summit of the Hill of Snow, There is embod
 </details>
 </details>
 </div>
+
 ## ०९ यं त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/09_yaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -706,6 +715,7 @@ Thou whom Ikshvaku's ancestor, whom he who well-loved Kushtha, knew, Whom Vayasa
 </details>
 </details>
 </div>
+
 ## १० शीर्षलोकं तृतीयकम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

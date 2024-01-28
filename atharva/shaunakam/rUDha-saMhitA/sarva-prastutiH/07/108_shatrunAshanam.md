@@ -28,6 +28,7 @@ Translated: Ludwig, p. 517; Henry, 42, 118; Griffith, i. 380.
 </details>
 </details>
 </div>
+
 ## ०१ यो नस्तायद्दिप्सति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/108_shatrunAshanam/01_yo_nastAyaddipsati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -105,6 +106,7 @@ Whoso by stealth or openly would harm us, a friend who knows us, or a stranger, 
 </details>
 </details>
 </div>
+
 ## ०२ यो नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/108_shatrunAshanam/02_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A benediction on a King at his consecration
 </details>
 </details>
 </div>
+
 ## ०१ विश्वे देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/01_vishve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Guard and protect this man, all Gods and Vasus. Over him keep- ye watch and ward
 </details>
 </details>
 </div>
+
 ## ०२ ये वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/02_ye_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,6 +160,7 @@ Listen, one-minded, to the word I, utter, the sons, O Gods, among you, and the f
 </details>
 </details>
 </div>
+
 ## ०३ ये देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/03_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,6 +230,7 @@ All Gods who dwell on earth or in the heavens, in air, within. the plants, the b
 </details>
 </details>
 </div>
+
 ## ०४ येषां प्रयाजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/04_yeShAM_prayAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

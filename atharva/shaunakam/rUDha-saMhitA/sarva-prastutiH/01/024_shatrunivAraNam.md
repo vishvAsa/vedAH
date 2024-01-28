@@ -32,6 +32,7 @@ A charm against leprosy
 </details>
 </details>
 </div>
+
 ## ०१ सुपर्णो जातः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/01_suparNo_jAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ First, before all, the strong-winged Bird was born;; thou wast the gall thereof.
 </details>
 </details>
 </div>
+
 ## ०२ आसुरी चक्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/02_AsurI_chakre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ The Asuri made, first of all, this medicine for leprosy, this banisher of lepros
 </details>
 </details>
 </div>
+
 ## ०३ सरूपा नाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/03_sarUpA_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -229,6 +232,7 @@ One-coloured, is thy mother's name, One-coloured is thy father called: One-colou
 </details>
 </details>
 </div>
+
 ## ०४ श्यामा सरूपङ्करणी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/04_shyAmA_sarUpankaraNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

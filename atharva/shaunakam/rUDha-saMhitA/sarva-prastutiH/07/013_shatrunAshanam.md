@@ -32,6 +32,7 @@ A charm to win superiority over foes and rivals
 </details>
 </details>
 </div>
+
 ## ०१ यथा सूर्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/013_shatrunAshanam/01_yathA_sUryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,6 +94,7 @@ As the Sun, rising, taketh to himself the brightness of the stars,. So I assume 
 </details>
 </details>
 </div>
+
 ## ०२ यावन्तो मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/013_shatrunAshanam/02_yAvanto_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

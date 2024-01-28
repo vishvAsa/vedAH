@@ -28,6 +28,7 @@ A charm against sores and pustules (apachitas)
 </details>
 </details>
 </div>
+
 ## ०१ अपचितः प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/01_apachitaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ Hence, Sores and Pustules, fly away even as the eagle from his home. Let Surya b
 </details>
 </details>
 </div>
+
 ## ०२ एन्येका श्येन्येका
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/02_enyekA_shyenyekA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ One bright with variegated tints, one white, one black, a couple red:-- The'name
 </details>
 </details>
 </div>
+
 ## ०३ असूतिका रामायण्यपचित्प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/03_asUtikA_rAmAyaNyapachitpra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,6 +230,7 @@ Hence, childless, shall the Pustule flee, grand-daughter of the dusky one. The B
 </details>
 </details>
 </div>
+
 ## ०४ वीहि स्वामाहुतिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/04_vIhi_svAmAhutim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

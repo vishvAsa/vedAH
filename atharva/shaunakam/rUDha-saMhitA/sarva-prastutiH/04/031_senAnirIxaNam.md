@@ -28,6 +28,7 @@ A hymn to Manyu or Wrath
 </details>
 </details>
 </div>
+
 ## ०१ त्वया मन्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/01_tvayA_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Borne on with thee, O Manyu girt by Maruts, let our brave men, impetuous, bursti
 </details>
 </details>
 </div>
+
 ## ०२ अग्निरिव मन्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/02_agniriva_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ Flashing like fire, be thou, O conquering Manyu, invoked, O victor, as our army'
 </details>
 </details>
 </div>
+
 ## ०३ सहस्व मन्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/03_sahasva_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -238,6 +241,7 @@ O Manyu, overcome those who assail us. On! breaking, slaying, crushing down the 
 </details>
 </details>
 </div>
+
 ## ०४ एको बहूनामसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/04_eko_bahUnAmasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -308,6 +312,7 @@ Alone of many thou art worshipped, Manyu: sharpen the spirit of each clan for co
 </details>
 </details>
 </div>
+
 ## ०५ विजेषकृदिन्द्र इवानवब्रवोस्माकम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/05_vijeShakRdindra_ivAnavabravosmAkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -372,6 +377,7 @@ Unyielding, bringing victory like Indra, O Manyu be thou here our sovran ruler. 
 </details>
 </details>
 </div>
+
 ## ०६ आभूत्या सहजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/06_AbhUtyA_sahajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -438,6 +444,7 @@ Twin-borne with power, destructive bolt of thunder the highest conquering might 
 </details>
 </details>
 </div>
+
 ## ०७ संसृष्टं धनमुभयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/07_saMsRShTaM_dhanamubhayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

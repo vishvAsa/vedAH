@@ -32,6 +32,7 @@ A charm to ensure success in gambling
 </details>
 </details>
 </div>
+
 ## ०१ दिव्यो गन्धर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/01_divyo_gandharvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ Lord of the World, divine Gandharva, only he should be honoured in the Tribes an
 </details>
 </details>
 </div>
+
 ## ०२ दिवि स्पृष्टो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/02_divi_spRShTo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,6 +172,7 @@ Sky-reaching, like the Sun in brightness, holy, he who averts from us the Gods' 
 </details>
 </details>
 </div>
+
 ## ०३ अनवद्याभिः समु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/03_anavadyAbhiH_samu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -236,6 +239,7 @@ I came, I met these faultless, blameless beings: among the Apsarases was the Gan
 </details>
 </details>
 </div>
+
 ## ०४ अभ्रिये दिद्युन्नक्षत्रिये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/04_abhriye_didyunnaxatriye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -301,6 +305,7 @@ Thou, Cloudy! ye who follow the Gandharva Visva-vasu, ye, Starry! Lightning-Flas
 </details>
 </details>
 </div>
+
 ## ०५ याः क्लन्दास्तमिषीचयोऽक्षकामा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/05_yAH_klandAstamiShIchayo-xakAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -29,6 +29,7 @@ Translated: Muir, v. 293 (vss. 2,4,5); Ludwig, p. 302; Griffith, i. 313.
 </details>
 </details>
 </div>
+
 ## ०१ एतं सधस्थाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/01_etaM_sadhasthAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Ye who are present, unto you I offer this treasure brought to us by Jatavedas Ha
 </details>
 </details>
 </div>
+
 ## ०२ जानीत स्मैनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/02_jAnIta_smainam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ Do ye acknowledge him in highest heaven: ye know the world here present in assem
 </details>
 </details>
 </div>
+
 ## ०३ देवाः पितरः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/03_devAH_pitaraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,6 +229,7 @@ Gods are the Fathers, and the Fathers Gods. I am the very man I am.
 </details>
 </details>
 </div>
+
 ## ०४ स पचामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/04_sa_pachAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -292,6 +296,7 @@ I cook, I give, I offer up oblation. From what I gave let me not be disparted.
 </details>
 </details>
 </div>
+
 ## ०५ नाके राजन्प्रति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/05_nAke_rAjanprati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A charm to avert misfortune foreshown by the coming of a dove
 </details>
 </details>
 </div>
+
 ## ०१ ऋचा कपोतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ Drive forth the Dove, chase it with holy verses: rejoicing bring we hither food 
 </details>
 </details>
 </div>
+
 ## ०२ परीमेग्निमर्षत परीमे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ These men have strengthened Agni's might, these men have brought the kine to us.
 </details>
 </details>
 </div>
+
 ## ०३ यः प्रथमः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

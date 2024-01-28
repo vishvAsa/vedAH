@@ -28,6 +28,7 @@ A dialogue between Atharvan and Varuna
 </details>
 </details>
 </div>
+
 ## ०१ कथं महे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/01_kathaM_mahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ How, terrible in might, hast thou here spoken to the great God, how to the gold-
 </details>
 </details>
 </div>
+
 ## ०२ न कामेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/02_na_kAmena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,6 +175,7 @@ Not through desire do I revoke my present: I bring this brind- led cow to contem
 </details>
 </details>
 </div>
+
 ## ०३ सत्यमहं गभीरः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/03_satyamahaM_gabhIraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -243,6 +246,7 @@ Truly I am profound in wisdom, truly I know by nature all existing creatures. No
 </details>
 </details>
 </div>
+
 ## ०४ न त्वदन्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/04_na_tvadanyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -307,6 +311,7 @@ None, self-dependent Varuna! existeth wiser than thou or sager by his wisdom. Th
 </details>
 </details>
 </div>
+
 ## ०५ त्वं ह्यङ्ग
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/05_tvaM_hyanga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -379,6 +384,7 @@ O self-dependent Varuna, wise director, thou knowest verily all generations. Wha
 </details>
 </details>
 </div>
+
 ## ०६ एकं रजस
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/06_ekaM_rajasa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -464,6 +470,7 @@ One thing there is beyond this air, and something beyond that one, most hard to 
 </details>
 </details>
 </div>
+
 ## ०७ त्वं ह्यङ्ग
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/07_tvaM_hyanga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -527,6 +534,7 @@ Many reproaches, Varuna, dost thou utter against the misers. who revoke their pr
 </details>
 </details>
 </div>
+
 ## ०८ मा मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/08_mA_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -592,6 +600,7 @@ Let not men call me an illiberal giver. I give thee back the brindled cow, O sin
 </details>
 </details>
 </div>
+
 ## ०९ आ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/09_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -661,6 +670,7 @@ Let hymns of praise ascend to thee, uplifted in every place of human habitation.
 </details>
 </details>
 </div>
+
 ## १० समा नौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/10_samA_nau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -739,6 +749,7 @@ One origin, Varuna! one bond unites us I know the nature of that common kinship.
 </details>
 </details>
 </div>
+
 ## ११ देवो देवाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/11_devo_devAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -34,6 +34,7 @@ A charm to destroy venomous serpents
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रस्य प्रथमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/01_indrasya_prathamo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -106,6 +107,7 @@ not an aorist can be coördinated with *ārat*.
 </details>
 </details>
 </div>
+
 ## ०२ दर्भः शोचिस्तरूणकमश्वस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/02_darbhaH_shochistarUNakamashvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ horse's tail: the reed's plume is their chariot seat.
 </details>
 </details>
 </div>
+
 ## ०३ अव श्वेत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/03_ava_shveta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -244,6 +247,7 @@ Strike out, white courser! with thy foot, strike both with fore and hinder foot,
 </details>
 </details>
 </div>
+
 ## ०४ अरङ्घुषो निमज्योन्मज
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/04_aranghuSho_nimajyonmaja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -309,6 +313,7 @@ Loud neighing he hath dived below, and rising up again replied, Stayed the dire 
 </details>
 </details>
 </div>
+
 ## ०५ पैद्वो हन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/05_paidvo_hanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -376,6 +381,7 @@ Paidva kills Kasarnila, kills both the white Serpent and the black, Paidva hath 
 </details>
 </details>
 </div>
+
 ## ०६ पैद्व प्रेहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/06_paidva_prehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -436,6 +442,7 @@ Go onward, horse of Pedu! go thou first: we follow after thee. Cast thou aside t
 </details>
 </details>
 </div>
+
 ## ०७ इदं पैद्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/07_idaM_paidvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -512,6 +519,7 @@ Here was the horse of Pedu born: this is the way that takes him hence. These are
 </details>
 </details>
 </div>
+
 ## ०८ संयतं न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/08_saMyataM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -576,6 +584,7 @@ Let him not close the opened mouth, nor open that which now is closed. Two snake
 </details>
 </details>
 </div>
+
 ## ०९ अरसास इहाहयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/09_arasAsa_ihAhayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -650,6 +659,7 @@ Powerless are the serpents here, those that are near and those afar. I kill the 
 </details>
 </details>
 </div>
+
 ## १० अघाश्वस्येदं भेषजमुभयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/10_aghAshvasyedaM_bheShajamubhayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -714,6 +724,7 @@ This is the remedy against Aghasva and the adder, both: Indra and Paidva have su
 </details>
 </details>
 </div>
+
 ## ११ पैद्वस्य मन्महे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/11_paidvasya_manmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -776,6 +787,7 @@ We fix our thoughts on Pedu's horse, strong, off-spring of a stedfast line. Behi
 </details>
 </details>
 </div>
+
 ## १२ नष्टासवो नष्टविषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/12_naShTAsavo_naShTaviShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -836,6 +848,7 @@ Bereft of life and poison they lie slain by bolt-armed Indra's hand. Indra and w
 </details>
 </details>
 </div>
+
 ## १३ हतास्तिरश्चिराजयो निपिष्टासः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/13_hatAstirashchirAjayo_nipiShTAsaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -899,6 +912,7 @@ Tiraschirajis have been slain, and vipers crushed and brayed to bits. Slay Darvi
 </details>
 </details>
 </div>
+
 ## १४ कैरातिका कुमारिका
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/14_kairAtikA_kumArikA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -959,6 +973,7 @@ The young maid of Kirata race, a little damsel, digs the drug, Digs it with shov
 </details>
 </details>
 </div>
+
 ## १५ आयमगन्युवा भिषक्पृश्निहापराजितः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/15_AyamaganyuvA_bhiShakpRshnihAparAjitaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1020,6 +1035,7 @@ Hither the young uuconquered leech who slays the speckled snake hath come. He ve
 </details>
 </details>
 </div>
+
 ## १६ इन्द्रो मेऽहिमरन्धयन्मित्रश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/16_indro_me-himarandhayanmitrashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1086,6 +1102,7 @@ Indra, Mitra and Varuna, and Vata and Parjanya both have given the serpent up to
 </details>
 </details>
 </div>
+
 ## १७ इन्द्रो मेऽहिमरन्धयत्पृदाकुम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/17_indro_me-himarandhayatpRdAkum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1151,6 +1168,7 @@ Indra hath given him up to me, the female viper and the male, The adder, him wit
 </details>
 </details>
 </div>
+
 ## १८ इन्द्रो जघान
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/18_indro_jaghAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1212,6 +1230,7 @@ O Serpent, Indra hath destroyed the sire who first engendered thee: And when the
 </details>
 </details>
 </div>
+
 ## १९ सं हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/19_saM_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1275,6 +1294,7 @@ Their heads have I seized firmly as a fisher grasps the spotted prey, Waded half
 </details>
 </details>
 </div>
+
 ## २० अहीनां सर्वेषाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/20_ahInAM_sarveShAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1335,6 +1355,7 @@ Let the floods hurry on and bear the poison of all snakes afar. Tiraschirajis ha
 </details>
 </details>
 </div>
+
 ## २१ ओषधीनामहं वृण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/21_oShadhInAmahaM_vRNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1399,6 +1420,7 @@ As from the salutary plants I deftly pick the fibres out, And guide them skilful
 </details>
 </details>
 </div>
+
 ## २२ यदग्नौ सूर्ये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/22_yadagnau_sUrye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1462,6 +1484,7 @@ All poison that the sun and fire, all that the earth and plants contain, Poison 
 </details>
 </details>
 </div>
+
 ## २३ ये अग्निजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/23_ye_agnijA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1526,6 +1549,7 @@ Serpents which fire or plants have generated, those which have sprung from water
 </details>
 </details>
 </div>
+
 ## २४ तौदी नामासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/24_taudI_nAmAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1590,6 +1614,7 @@ Thou art a maid called Taudi, or Ghritachi is thy name. Thy place; Is underneath
 </details>
 </details>
 </div>
+
 ## २५ अङ्गादङ्गात्प्र च्यावय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/25_angAdangAtpra_chyAvaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1653,6 +1678,7 @@ From every member drive away the venom, and avoid the heart. Then let the poison
 </details>
 </details>
 </div>
+
 ## २६ आरे अभूद्विषमरौद्विषे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/004_sarpaviShadUrIkaraNam/26_Are_abhUdviShamaraudviShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

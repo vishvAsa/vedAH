@@ -32,6 +32,7 @@ A charm for the increase of cattle
 </details>
 </details>
 </div>
+
 ## ०१ यद्येकवृषोऽसि सृजारसोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/01_yadyekavRSho-si_sRjAraso-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Bull! if thou art the single bull, beget. Thou hast no vital sap.
 </details>
 </details>
 </div>
+
 ## ०२ यदि द्विवृषोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/02_yadi_dvivRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -155,6 +157,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 </details>
 </div>
+
 ## ०३ यदि त्रिवृषोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/03_yadi_trivRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -212,6 +215,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 </details>
 </div>
+
 ## ०४ यदि चतुर्वृषोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/04_yadi_chaturvRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -269,6 +273,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 </details>
 </div>
+
 ## ०५ यदि पञ्चवृषोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/05_yadi_panchavRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -326,6 +331,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 </details>
 </div>
+
 ## ०६ यदि षड्वृषोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/06_yadi_ShaDvRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -386,6 +392,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 </details>
 </div>
+
 ## ०७ यदि सप्तवृषोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/07_yadi_saptavRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -443,6 +450,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 </details>
 </div>
+
 ## ०८ यद्यष्टवृषोऽसि सृजारसोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/08_yadyaShTavRSho-si_sRjAraso-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -500,6 +508,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 </details>
 </div>
+
 ## ०९ यदि नववृषोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/09_yadi_navavRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -557,6 +566,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 </details>
 </div>
+
 ## १० यदि दशवृषोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/10_yadi_dashavRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -614,6 +624,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 </details>
 </div>
+
 ## ११ यद्येकादशोऽसि सोऽपोदकोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/11_yadyekAdasho-si_so-podako-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A hymn to Kala; a continuation of the preceding hymn
 </details>
 </details>
 </div>
+
 ## ०१ कालादापः समभवन्कालाद्ब्रह्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/01_kAlAdApaH_samabhavankAlAdbrahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun asce
 </details>
 </details>
 </div>
+
 ## ०२ कालेन वातः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/02_kAlena_vAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests 
 </details>
 </details>
 </div>
+
 ## ०३ कालो ह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/03_kAlo_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -245,6 +248,7 @@ In Kala erst the text produced what is and what is yet to be. From Kala sprang t
 </details>
 </details>
 </div>
+
 ## ०४ कालो यज्ञम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/04_kAlo_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -354,6 +358,7 @@ They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandhar
 </details>
 </details>
 </div>
+
 ## ०५ कालेऽयमङ्गिरा देवोऽथर्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/05_kAle-yamangirA_devo-tharvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

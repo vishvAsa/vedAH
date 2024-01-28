@@ -28,6 +28,7 @@ Translated: Ludwig, p. 432; Griffith, i. 319.
 </details>
 </details>
 </div>
+
 ## ०१ य इमाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/133_mekhalAbandhanam/01_ya_imAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ By the direction of that God we journey, he will seek means to save and he will 
 </details>
 </details>
 </div>
+
 ## ०२ आहुतास्यभिहुत ऋषीणामस्यायुधम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/133_mekhalAbandhanam/02_AhutAsyabhihuta_RShINAmasyAyudham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ Thou, weapon of the Rishis, art adored and served with sacrifice. First tasting 
 </details>
 </details>
 </div>
+
 ## ०३ मृत्योरहं ब्रह्मचारी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/133_mekhalAbandhanam/03_mRtyorahaM_brahmachArI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,6 +230,7 @@ As I am now Death's Brahmachari claiming out of the living world a man for Yama,
 </details>
 </details>
 </div>
+
 ## ०४ श्रद्धाया दुहिता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/133_mekhalAbandhanam/04_shraddhAyA_duhitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -293,6 +297,7 @@ She hath become, Faith's daughter, sprung from Fervour, the sister of the world-
 </details>
 </details>
 </div>
+
 ## ०५ यां त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/133_mekhalAbandhanam/05_yAM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

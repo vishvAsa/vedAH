@@ -32,6 +32,7 @@ A benediction on a newly elected King
 </details>
 </details>
 </div>
+
 ## ०१ येन देवम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/01_yena_devam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Do ye, O Brahmanaspati, invest for the royal sway this man. With that wherewith 
 </details>
 </details>
 </div>
+
 ## ०२ परीममिन्द्रमायुषे महे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/02_parImamindramAyuShe_mahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -177,6 +179,7 @@ Invest this Indra for long life, invest him for great princely power, That I may
 </details>
 </details>
 </div>
+
 ## ०३ परीमं सोममायुषे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/03_parImaM_somamAyuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -244,6 +247,7 @@ Invest this Soma for long life, invest him for great hearing power. That I may l
 </details>
 </details>
 </div>
+
 ## ०४ परि धत्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/04_pari_dhatta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -311,6 +315,7 @@ For us, surround him, cover him with splendour, give him long life, and death wh
 </details>
 </details>
 </div>
+
 ## ०५ जरां सु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/05_jarAM_su.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -388,6 +393,7 @@ Advance to good old age: endue the mantle. Be thou our heifers' guard from impre
 </details>
 </details>
 </div>
+
 ## ०६ परीदं वासो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/06_parIdaM_vAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -471,6 +477,7 @@ Thou for weal hast clothed thee in this garment: thou hast become our cows' sure
 </details>
 </details>
 </div>
+
 ## ०७ योगेयोगे तवस्तरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/07_yogeyoge_tavastaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -535,6 +542,7 @@ In every need, in every fray we call, as friends, to succour us, Indra the might
 </details>
 </details>
 </div>
+
 ## ०८ हिरण्यवर्णो अजरः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/08_hiraNyavarNo_ajaraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

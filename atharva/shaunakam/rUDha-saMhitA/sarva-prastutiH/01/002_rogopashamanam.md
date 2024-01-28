@@ -28,6 +28,7 @@ A charm against dysentery
 </details>
 </details>
 </div>
+
 ## ०१ विद्मा शरस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/01_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,6 +91,7 @@ We know the father of the shaft, Parjanya, liberal nourisher, Know well his moth
 </details>
 </details>
 </div>
+
 ## ०२ ज्याके परि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/02_jyAke_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,6 +156,7 @@ Do thou, O Bowstring, bend thyself around us: make my body stone. Firm in thy st
 </details>
 </details>
 </div>
+
 ## ०३ वृक्षं यद्गावः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/03_vRxaM_yadgAvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -219,6 +222,7 @@ When, closely clinging round the wood, the bowstring sings triumph to the swift 
 </details>
 </details>
 </div>
+
 ## ०४ यथा द्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/04_yathA_dyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A hymn to Night for protection and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ अध रात्रि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/01_adha_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -110,6 +111,7 @@ Blind him and make him headless, Night! the serpent with the pungent breath. Str
 </details>
 </details>
 </div>
+
 ## ०२ ये ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/02_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -207,6 +209,7 @@ Those oxen that are thine, O Night, with sharpened horns and rapid pace, With th
 </details>
 </details>
 </div>
+
 ## ०३ रात्रिंरात्रिमरिष्यन्तस्तरेम तन्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -264,6 +267,7 @@ Uninjured in our bodies may we pass through each succeeding night, And let malig
 </details>
 </details>
 </div>
+
 ## ०४ यथा शाम्याकः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/04_yathA_shAmyAkaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -335,6 +339,7 @@ As millet hurried through the air before us is beheld no more. So cause the man 
 </details>
 </details>
 </div>
+
 ## ०५ अप स्तेनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/05_apa_stenam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -416,6 +421,7 @@ The thief hast thou kept far away, the robber driver of our kine. Even him who h
 </details>
 </details>
 </div>
+
 ## ०६ यदद्या रात्रि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/06_yadadyA_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -493,6 +499,7 @@ If dealing treasure thou hast come to-day, O highly favoured Night. Cause thou u
 </details>
 </details>
 </div>
+
 ## ०७ उषसे नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/07_uShase_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A prayer for security and peace on all sides
 </details>
 </details>
 </div>
+
 ## ०१ अग्निं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/01_agniM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ Let those who vex me from the eastern region, sinners, praise Agni followed by t
 </details>
 </details>
 </div>
+
 ## ०२ वायुं तेन्तरिक्षवन्तमृच्छन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/02_vAyuM_tentarixavantamRchChantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ Let those who vex me from this quarter, sinners, praise Vayu compassed by the Ai
 </details>
 </details>
 </div>
+
 ## ०३ सोमं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/03_somaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -221,6 +224,7 @@ Let those who vex me from the southern quarter, sinners, sing praise to Soma wit
 </details>
 </details>
 </div>
+
 ## ०४ वरुणं त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/04_varuNaM_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -282,6 +286,7 @@ Let those who vex me from this quarter, sinners, praise Varuna connected with Ad
 </details>
 </details>
 </div>
+
 ## ०५ सूर्यं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/05_sUryaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -343,6 +348,7 @@ Let those who vex me from the western quarter, sinners, praise Surya linked with
 </details>
 </details>
 </div>
+
 ## ०६ अपस्त ओषधीमतीरृच्छन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/06_apasta_oShadhImatIrRchChantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -403,6 +409,7 @@ Let those who vex me from this quarter, sinners give praise to plants' associate
 </details>
 </details>
 </div>
+
 ## ०७ विश्वकर्माणं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/07_vishvakarmANaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -465,6 +472,7 @@ Let those who from the north side vex me, sinners, praise Visvakarman with the S
 </details>
 </details>
 </div>
+
 ## ०८ इन्द्रं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/08_indraM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -525,6 +533,7 @@ Let those who vex me from this quarter, sinners, praise Indra with the Marut hos
 </details>
 </details>
 </div>
+
 ## ०९ प्रजापतिं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/09_prajApatiM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -585,6 +594,7 @@ Let those who vex me from the nadir, sinners, extol Prajapati of genial power.
 </details>
 </details>
 </div>
+
 ## १० बृहस्पतिं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/10_bRhaspatiM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

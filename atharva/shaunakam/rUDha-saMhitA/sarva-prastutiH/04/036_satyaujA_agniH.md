@@ -32,6 +32,7 @@ A charm against fiends, human enemies, and other pests
 </details>
 </details>
 </div>
+
 ## ०१ तान्त्सत्यौजाः प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/01_tAntsatyaujAH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Endowed with true strength, let the Bull, Agni Vaisvanara, burn them up. Him who
 </details>
 </details>
 </div>
+
 ## ०२ यो नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/02_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ Him who, unharmed, would injure us, and him who, harmed, would do us harm, I lay
 </details>
 </details>
 </div>
+
 ## ०३ य आगरे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/03_ya_Agare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -234,6 +237,7 @@ Those who, what time the moon is dark, hunt with loud cry and answering shout, F
 </details>
 </details>
 </div>
+
 ## ०४ सहे पिशाचान्त्सहसैषाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/04_sahe_pishAchAntsahasaiShAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -302,6 +306,7 @@ I conquer the Pisachas with my power, and take their wealth away. All who would 
 </details>
 </details>
 </div>
+
 ## ०५ ये देवास्तेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/05_ye_devAstena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -373,6 +378,7 @@ With Gods who flee with him, and match their rapid motion with the Sun, I with t
 </details>
 </details>
 </div>
+
 ## ०६ तपनो अस्मि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/06_tapano_asmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -436,6 +442,7 @@ I trouble the Pisachas as the tiger plagues men rich in kine. They, even as dogs
 </details>
 </details>
 </div>
+
 ## ०७ न पिशाचैः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/07_na_pishAchaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -499,6 +506,7 @@ Naught with Pisachas can I do, with thieves, with roamers of the wood. Pisachas 
 </details>
 </details>
 </div>
+
 ## ०८ यं ग्राममाविशत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/08_yaM_grAmamAvishata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -561,6 +569,7 @@ Into whatever village this mine awful power penetrates, Thence the Pisachas flee
 </details>
 </details>
 </div>
+
 ## ०९ ये मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/09_ye_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -632,6 +641,7 @@ Those who enrage me with their prate, as flies torment an elephant, I deem unhap
 </details>
 </details>
 </div>
+
 ## १० अभि तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/10_abhi_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

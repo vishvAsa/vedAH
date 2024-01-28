@@ -31,6 +31,7 @@ On the preparation and use of holy water, with, a prayer for purification and fr
 </details>
 </details>
 </div>
+
 ## ०१ अतिसृष्टो अपांवृषभोऽतिसृष्टा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/01_atisRShTo_apAMvRShabho-tisRShTA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,6 +94,7 @@ The Bull of the Waters hath been let go; the heavenly fires have been let go.
 </details>
 </details>
 </div>
+
 ## ०२ रुजन्परिरुजन्मृणन्प्रमृणन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/02_rujanparirujanmRNanpramRNan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -150,6 +152,7 @@ Breaking, breaking down, crushing, crushing to pieces,
 </details>
 </details>
 </div>
+
 ## ०३ म्रोको मनोहाखनो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/03_mroko_manohAkhano.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -215,6 +218,7 @@ Mroka, mind-destroying, rooting up, consuming, ruiner of the soul, ruiner of the
 </details>
 </details>
 </div>
+
 ## ०४ इदं तमतिसृजामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/04_idaM_tamatisRjAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -272,6 +276,7 @@ Here I let him go: thou washest me clean of him.
 </details>
 </details>
 </div>
+
 ## ०५ तेनतमभ्यतिसृजामो योस्मान्द्वेष्टि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/05_tenatamabhyatisRjAmo_yosmAndveShTi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -339,6 +344,7 @@ With this we let him loose who hates us and whom we hate.
 </details>
 </details>
 </div>
+
 ## ०६ अपामग्रमसिसमुद्रं वोऽभ्यवसृजामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/06_apAmagramasisamudraM_vo-bhyavasRjAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -398,6 +404,7 @@ Thou art in front of the waters. I let loose your sea.
 </details>
 </details>
 </div>
+
 ## ०७ योप्स्वग्निरति तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/07_yopsvagnirati_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -459,6 +466,7 @@ I let loose the Agni who is within the waters, Mroka the up- rooter, the destroy
 </details>
 </details>
 </div>
+
 ## ०८ यो व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/08_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -517,6 +525,7 @@ Your Agni who entered into the waters, even he here is that very dread of yours.
 </details>
 </details>
 </div>
+
 ## ०९ इन्द्रस्य वइन्द्रियेणाभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/09_indrasya_vaindriyeNAbhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -574,6 +583,7 @@ May he anoint you with Indra's own mighty power!
 </details>
 </details>
 </div>
+
 ## १० अरिप्रा आपोअप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/10_ariprA_Apoapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -632,6 +642,7 @@ May stainless waters cleanse us from defilement.
 </details>
 </details>
 </div>
+
 ## ११ प्रास्मदेनोवहन्तु प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/11_prAsmadenovahantu_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -691,6 +702,7 @@ May they carry sin away from us, may they carry away from us the evil dream.
 </details>
 </details>
 </div>
+
 ## १२ शिवेन माचक्षुषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/12_shivena_mAchaxuShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -750,6 +762,7 @@ Look on me with a friendly eye, O, Waters, and touch my skin with your auspiciou
 </details>
 </details>
 </div>
+
 ## १३ शिवानग्नीनप्सुषदो हवामहे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/13_shivAnagnInapsuShado_havAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -28,6 +28,7 @@ A charm against jealousy
 </details>
 </details>
 </div>
+
 ## ०१ जनाद्विश्वजनीनात्सिन्धुतस्पर्याभृतम् दूरात्त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/045_IrShyAnivAraNam/01_janAdvishvajanInAtsindhutasparyAbhRtam_dUrAttvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -120,6 +121,7 @@ Brought hitherward from Sindhu, from a folk of every mingled race, Fetched from 
 </details>
 </details>
 </div>
+
 ## ०२ अग्नेरिवास्य दहतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/045_IrShyAnivAraNam/02_agnerivAsya_dahato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

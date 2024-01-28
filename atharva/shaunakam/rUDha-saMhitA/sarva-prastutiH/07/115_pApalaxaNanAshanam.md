@@ -24,6 +24,7 @@ The first two verses are found also in Pāipp. xx. It is used by Kāuś. (18. 16
 </details>
 </details>
 </div>
+
 ## ०१ प्र पतेतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/01_pra_patetaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,6 +91,7 @@ Hence. Evil Fortune! fly away, vanish from this place and from that. We fix thee
 </details>
 </details>
 </div>
+
 ## ०२ या मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/02_yA_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ Granting us riches, Savitar! golden-banded, send thou away from us to other regi
 </details>
 </details>
 </div>
+
 ## ०३ एकशतं लक्ष्म्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -223,6 +226,7 @@ One and a hundred Fortunes all together are at his birth born with a mortal's bo
 </details>
 </details>
 </div>
+
 ## ०४ एता एना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/04_etA_enA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

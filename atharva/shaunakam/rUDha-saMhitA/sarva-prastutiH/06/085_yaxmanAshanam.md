@@ -32,6 +32,7 @@ A charm against Consumption
 </details>
 </details>
 </div>
+
 ## ०१ वरणो वारयाता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/085_yaxmanAshanam/01_varaNo_vArayAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ Let Varana the heavenly tree here present keep disease away. The Gods have drive
 </details>
 </details>
 </div>
+
 ## ०२ इन्द्रस्य वचसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/085_yaxmanAshanam/02_indrasya_vachasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -155,6 +157,7 @@ We with the speech of Indra and of Mitra and of Varuna. We with the speech of al
 </details>
 </details>
 </div>
+
 ## ०३ यथा वृत्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/085_yaxmanAshanam/03_yathA_vRtra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -33,6 +33,7 @@ A glorification of the Asvins' whip and a prayer for blessings
 </details>
 </details>
 </div>
+
 ## ०१ दिवस्पृथिव्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/01_divaspRthivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ The Asvins' Honey-whip was born from heaven and earth, from middle air, and ocea
 </details>
 </details>
 </div>
+
 ## ०२ महत्पयो विश्वरूपमस्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/02_mahatpayo_vishvarUpamasyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ They call thee earth's great strength in every form, they call thee too the ocea
 </details>
 </details>
 </div>
+
 ## ०३ पश्यन्त्यस्याश्चरितं पृथिव्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/03_pashyantyasyAshcharitaM_pRthivyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,6 +231,7 @@ In sundry spots, repeatedly reflecting, men view upon the earth: her course and 
 </details>
 </details>
 </div>
+
 ## ०४ मातादित्यानां दुहिता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/04_mAtAdityAnAM_duhitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -295,6 +299,7 @@ Daughter of Vasus, mother of Adityas, centre of Amrit breath of living creatures
 </details>
 </details>
 </div>
+
 ## ०५ मधोः कशामजनयन्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/05_madhoH_kashAmajanayanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -357,6 +362,7 @@ The deities begat the Whip of Honey: her embryo assumed all forms and fashions. 
 </details>
 </details>
 </div>
+
 ## ०६ कस्तं प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/06_kastaM_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -424,6 +430,7 @@ Who understandeth well, who hath perceived it, her heart's un- injured Soma-hold
 </details>
 </details>
 </div>
+
 ## ०७ स तौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/07_sa_tau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -487,6 +494,7 @@ He understandeth them, he hath perceived them, her breasts that pour a thousand 
 </details>
 </details>
 </div>
+
 ## ०८ हिङ्करिक्रती बृहती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/08_hinkarikratI_bRhatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -553,6 +561,7 @@ She who with voice upraised in constant clamour, mighty, life- giving, goes unto
 </details>
 </details>
 </div>
+
 ## ०९ यामापीनामुपसीदन्त्यापः शाक्वरा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/09_yAmApInAmupasIdantyApaH_shAkvarA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -617,6 +626,7 @@ On whom, well-fed, the Waters wait in worship, and steers and self-refulgent bul
 </details>
 </details>
 </div>
+
 ## १० स्तनयित्नुस्ते वाक्प्रजापते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/10_stanayitnuste_vAkprajApate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -684,6 +694,7 @@ The thunder is thy voice, O Lord of Creatures: a Bull, thou castest on the earth
 </details>
 </details>
 </div>
+
 ## ११ यथा सोमः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/11_yathA_somaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -744,6 +755,7 @@ As at the morning sacrifice the Asvins twain love Soma well, Even so may both th
 </details>
 </details>
 </div>
+
 ## १२ यथा सोमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/12_yathA_somo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -804,6 +816,7 @@ As at the second sacrifice Indra and Agni love him well, Let the pair, Indra Agn
 </details>
 </details>
 </div>
+
 ## १३ यथा सोमस्तृतीये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/13_yathA_somastRtIye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -871,6 +884,7 @@ As at third sacrifice Soma is the Ribhus' well-beloved one, Even so may they, th
 </details>
 </details>
 </div>
+
 ## १४ मधु जनिषीय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/14_madhu_janiShIya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -937,6 +951,7 @@ Fain would I bring forth sweetness, fain would make it mine. Bringing milk, Agni
 </details>
 </details>
 </div>
+
 ## १५ सं माग्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/15_saM_mAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -998,6 +1013,7 @@ Grant me, O Agni, splendid strength, and progeny, and length- ened life. May the
 </details>
 </details>
 </div>
+
 ## १६ यथा मधु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/16_yathA_madhu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1061,6 +1077,7 @@ As honey-bees collect and add fresh honey to their honey store, Even so may both
 </details>
 </details>
 </div>
+
 ## १७ यथा मक्षा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/17_yathA_maxA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1125,6 +1142,7 @@ As over honey flies besmear this honey which the bees have made, So may both Asv
 </details>
 </details>
 </div>
+
 ## १८ यद्गिरिषु पर्वतेषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/18_yadgiriShu_parvateShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1189,6 +1207,7 @@ May all the sweetness that is found in hills and mountains, steeds and kine, And
 </details>
 </details>
 </div>
+
 ## १९ अश्विना सारघेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/19_ashvinA_sAragheNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1250,6 +1269,7 @@ May both the Asvins, Lords of Light, balm me with honey of the bees, That I may 
 </details>
 </details>
 </div>
+
 ## २० स्तनयित्नुस्ते वाक्प्रजापते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/20_stanayitnuste_vAkprajApate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1322,6 +1342,7 @@ The thunder is thy voice, O Lord of Creatures: a Bull, thou castest strength on 
 </details>
 </details>
 </div>
+
 ## २१ पृथिवी दण्डोन्तरिक्षम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/21_pRthivI_daNDontarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1383,6 +1404,7 @@ The Whip itself is Heaven, Earth is the handle, the point of juncture is the Air
 </details>
 </details>
 </div>
+
 ## २२ यो वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/22_yo_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1452,6 +1474,7 @@ Whoever knows the Whip's seven kinds of honey, becomes himself a man endowed wit
 </details>
 </details>
 </div>
+
 ## २३ मधुमान्भवति मधुमदस्याहार्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/23_madhumAnbhavati_madhumadasyAhAryam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1512,6 +1535,7 @@ Sweet is the man, sweet are his goods and chattels: he who knows this conquers t
 </details>
 </details>
 </div>
+
 ## २४ यद्वीध्रे स्तनयति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/001_madhuvidyA/24_yadvIdhre_stanayati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

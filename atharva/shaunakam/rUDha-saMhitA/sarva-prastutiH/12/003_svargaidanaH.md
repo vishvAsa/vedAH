@@ -28,6 +28,7 @@ An accompaniment to the preparation and presentation of sacrificial offerings by
 </details>
 </details>
 </div>
+
 ## ०१ पुमान्पुंसोऽधि तिष्ठ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/01_pumAnpuMso-dhi_tiShTha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,6 +94,7 @@ Mount, male from male, the skin. Go thither: summon those whom thou lovest, one 
 </details>
 </details>
 </div>
+
 ## ०२ तावद्वां चक्षुस्तति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/02_tAvadvAM_chaxustati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ So strong your sight, so many be your powers, so great your force, your energies
 </details>
 </details>
 </div>
+
 ## ०३ समस्मिंल्लोके समु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/03_samasmiMlloke_samu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,6 +230,7 @@ Together in this world, in God-ward pathway, together be ye in the realms of Yam
 </details>
 </details>
 </div>
+
 ## ०४ आपस्पुत्रासो अभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/04_ApasputrAso_abhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -295,6 +299,7 @@ Do ye, O sons, unite you with the waters, meeting this living man, ye life-susta
 </details>
 </details>
 </div>
+
 ## ०५ यं वाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/05_yaM_vAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -358,6 +363,7 @@ That which your mother and your sire, to banish sin and un- cleanness from their
 </details>
 </details>
 </div>
+
 ## ०६ उभे नभसी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/06_ubhe_nabhasI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -422,6 +428,7 @@ Live with your sons, when life on earth is ended, live in the sphere most rich i
 </details>
 </details>
 </div>
+
 ## ०७ प्राचीम्प्राचीं प्रदिशमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/07_prAchImprAchIM_pradishamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -492,6 +499,7 @@ Approach the eastern, yea: the eastern region, this is the sphere to which the f
 </details>
 </details>
 </div>
+
 ## ०८ दक्षिणां दिशमभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/08_daxiNAM_dishamabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -557,6 +565,7 @@ Now, as your steps approach the southern quarter, move in. your circling course 
 </details>
 </details>
 </div>
+
 ## ०९ प्रतीची दिशामियमिद्वरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/09_pratIchI_dishAmiyamidvaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -623,6 +632,7 @@ Best of the regions is indeed this western wherein the King and gracious Lord is
 </details>
 </details>
 </div>
+
 ## १० उत्तरं राष्ट्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/10_uttaraM_rAShTram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -687,6 +697,7 @@ Ever victorious is the northern region: may the east quarter set us first and fo
 </details>
 </details>
 </div>
+
 ## ११ ध्रुवेयं विराण्नमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/11_dhruveyaM_virANnamo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -750,6 +761,7 @@ This stedfast realm is Queen. To her be homage! To me and to my sons may she be 
 </details>
 </details>
 </div>
+
 ## १२ पितेव पुत्रानभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/12_piteva_putrAnabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -816,6 +828,7 @@ Embrace us as a father clasps his children. Here on the Earth let kindly breezes
 </details>
 </details>
 </div>
+
 ## १३ यद्यत्कृष्णः शकुन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/13_yadyatkRShNaH_shakuna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -885,6 +898,7 @@ If the dark bird hath come to us and, stealing the hanging. . morsel, settled in
 </details>
 </details>
 </div>
+
 ## १४ अयं ग्रावा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/14_ayaM_grAvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -955,6 +969,7 @@ This pressing-stone, broad-based and strength-bestowing, made pure by cleansing 
 </details>
 </details>
 </div>
+
 ## १५ वनस्पतिः सह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/15_vanaspatiH_saha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1021,6 +1036,7 @@ Together with the Gods, banning Pis5chas and demons, hath Vanaspati come hither.
 </details>
 </details>
 </div>
+
 ## १६ सप्त मेधान्पशवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/16_sapta_medhAnpashavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1092,6 +1108,7 @@ Seven victims held the sacrificial essence, the bright one and the one that hath
 </details>
 </details>
 </div>
+
 ## १७ स्वर्गं लोकमभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/17_svargaM_lokamabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1157,6 +1174,7 @@ Unto the world of Svarga shalt thou lead us: there may we dwell beside our wife 
 </details>
 </details>
 </div>
+
 ## १८ ग्राहिं पाप्मानमति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/18_grAhiM_pApmAnamati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1226,6 +1244,7 @@ We have subdued that sinful-hearted Grahi. Thou shalt speak sweetly having chase
 </details>
 </details>
 </div>
+
 ## १९ विश्वव्यचा घृतपृष्ठो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/19_vishvavyachA_ghRtapRShTho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1295,6 +1314,7 @@ Soon to be, decked with butter, all-embracing, come to this world wherewith birt
 </details>
 </details>
 </div>
+
 ## २० त्रयो लोकाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/20_trayo_lokAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1366,6 +1386,7 @@ Three worlds hath Power Divine marked out and measured, Fheaven yonder, and the 
 </details>
 </details>
 </div>
+
 ## २१ पृथग्रूपाणि बहुधा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/21_pRthagrUpANi_bahudhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1437,6 +1458,7 @@ Manifold, various are the shapes of victims. Thou growest uni- form by great abu
 </details>
 </details>
 </div>
+
 ## २२ पृथिवीं त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/22_pRthivIM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1509,6 +1531,7 @@ Earth upon earth l set thee. This thy body is con-substantial,. but in form it d
 </details>
 </details>
 </div>
+
 ## २३ जनित्रीव प्रति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/23_janitrIva_prati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1575,6 +1598,7 @@ Thou for thy son shalt yearn as yearns a mother. I lay thee down and with the ea
 </details>
 </details>
 </div>
+
 ## २४ अग्निः पचन्रक्षतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/24_agniH_pachanraxatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1643,6 +1667,7 @@ Eastward may Agni as he cooks preserve thee. Southward may Indra, grit by Maruts
 </details>
 </details>
 </div>
+
 ## २५ पूताः पवित्रैः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/25_pUtAH_pavitraiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1710,6 +1735,7 @@ Drops flow, made pure by filters, from the rain-cloud: to heaven and earth and t
 </details>
 </details>
 </div>
+
 ## २६ आ यन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/26_A_yanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1775,6 +1801,7 @@ From heaven they come, they visit earth, and rising from earth unite themselves 
 </details>
 </details>
 </div>
+
 ## २७ उतेव प्रभ्वीरुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/27_uteva_prabhvIruta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1839,6 +1866,7 @@ Yea, and supreme, alike in conformation, and brilliant and refulgent and immorta
 </details>
 </details>
 </div>
+
 ## २८ सङ्ख्याता स्तोकाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/28_sankhyAtA_stokAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1907,6 +1935,7 @@ Numbered, they visit earth, these drops of moisture, commensu- rate with plants 
 </details>
 </details>
 </div>
+
 ## २९ उद्योधन्त्यभि वल्गन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/29_udyodhantyabhi_valganti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1973,6 +2002,7 @@ Heated, they rage and boil in agitation, they cast about their foam and countles
 </details>
 </details>
 </div>
+
 ## ३० उत्थापय सीदतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/30_utthApaya_sIdato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2041,6 +2071,7 @@ Take up these rice-grains lying at the bottom: led them be blent and mingled wit
 </details>
 </details>
 </div>
+
 ## ३१ प्र यच्छ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/31_pra_yachCha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2114,6 +2145,7 @@ Present the sickle: quickly bring it hither. Let them out plants and joints with
 </details>
 </details>
 </div>
+
 ## ३२ नवं बर्हिरोदनाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/32_navaM_barhirodanAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2182,6 +2214,7 @@ Strew ye fresh grass for the boiled rice to rest on: fair let it be, sweet to th
 </details>
 </details>
 </div>
+
 ## ३३ वनस्पते स्तीर्णमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/33_vanaspate_stIrNamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2257,6 +2290,7 @@ On the strewn grass. Vanaspati, be seated; commensurate with Gods and Agnishtoma
 </details>
 </details>
 </div>
+
 ## ३४ षष्ट्यां शरत्सु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/34_ShaShTyAM_sharatsu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2327,6 +2361,7 @@ In sixty autumns may the Treasure-Guardian seek to gain heavenly light by cooked
 </details>
 </details>
 </div>
+
 ## ३५ धर्ता ध्रियस्व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/35_dhartA_dhriyasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2395,6 +2430,7 @@ On the earth's breast stand firmly as supporter: may Deities stir thee who ne'er
 </details>
 </details>
 </div>
+
 ## ३६ सर्वान्त्समागा अभिजित्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/36_sarvAntsamAgA_abhijitya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2464,6 +2500,7 @@ All wishes that have blessed those with fulfilment, having won all the worlds ha
 </details>
 </details>
 </div>
+
 ## ३७ उप स्तृणीहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/37_upa_stRNIhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2529,6 +2566,7 @@ Pour out the covering butter, spread it eastward: sprinkle this vessel over with
 </details>
 </details>
 </div>
+
 ## ३८ उपास्तरीरकरो लोकमेतमुरुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/38_upAstarIrakaro_lokametamuruH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2592,6 +2630,7 @@ Thou hast poured oil and made the worlds: let heaven, unequal- led, be spread ou
 </details>
 </details>
 </div>
+
 ## ३९ यद्यज्जाया पचति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/39_yadyajjAyA_pachati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2655,6 +2694,7 @@ Whate'er thy wife, away from thee, makes ready, or what, O wife, apart from thee
 </details>
 </details>
 </div>
+
 ## ४० यावन्तो अस्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/40_yAvanto_asyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2721,6 +2761,7 @@ All these now dwelling on the earth, mine offspring, these whom, this woman here
 </details>
 </details>
 </div>
+
 ## ४१ वसोर्या धारा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/41_vasoryA_dhArA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2789,6 +2830,7 @@ Swollen with savoury meath, the stream of treasures, sources of immortality blen
 </details>
 </details>
 </div>
+
 ## ४२ निधिं निधिपा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/42_nidhiM_nidhipA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2854,6 +2896,7 @@ The Lord of Treasures may desire this treasure: lordless on. every side be all t
 </details>
 </details>
 </div>
+
 ## ४३ अग्नी रक्षस्तपतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/43_agnI_raxastapatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2921,6 +2964,7 @@ May Agni burn the God-denying demon: let no carnivorous. Pis icha drink here. We
 </details>
 </details>
 </div>
+
 ## ४४ आदित्येभ्यो अङ्गिरोभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/44_Adityebhyo_angirobhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2986,6 +3030,7 @@ This meath do I announce, mingled with butter, to the Angi- rases and the Aditya
 </details>
 </details>
 </div>
+
 ## ४५ इदं प्रापमुत्तमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/45_idaM_prApamuttamam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3051,6 +3096,7 @@ Of this have I obtained the noblest portion from that same world whence Parmesht
 </details>
 </details>
 </div>
+
 ## ४६ सत्याय च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/46_satyAya_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3119,6 +3165,7 @@ To Deities, to Truth, to holy Fervour this treasure we consign,. this rich depos
 </details>
 </details>
 </div>
+
 ## ४७ अहं पचाम्यहम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/47_ahaM_pachAmyaham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3185,6 +3232,7 @@ I cook the offering, I present oblation: only my wife attends the holy service. 
 </details>
 </details>
 </div>
+
 ## ४८ न किल्बिषमत्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/48_na_kilbiShamatra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3249,6 +3297,7 @@ There is no fault in this, no reservation, none when it goes with friends in clo
 </details>
 </details>
 </div>
+
 ## ४९ प्रियं प्रियाणाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/49_priyaM_priyANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3314,6 +3363,7 @@ To those we love may we do acts that please them. Away to darkness go all those 
 </details>
 </details>
 </div>
+
 ## ५० समग्नयः विदुरन्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/50_samagnayaH_viduranyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3380,6 +3430,7 @@ Perfectly do the Agnis know each other, one visitor of plants and one of rivers,
 </details>
 </details>
 </div>
+
 ## ५१ एषा त्वचाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/51_eShA_tvachAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3450,6 +3501,7 @@ Man hath received this skin of his from nature: of other animals not one is nake
 </details>
 </details>
 </div>
+
 ## ५२ यदक्षेषु वदा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/52_yadaxeShu_vadA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3516,6 +3568,7 @@ Whatever thou may say at dice, in meeting, whatever falsehood through desire of 
 </details>
 </details>
 </div>
+
 ## ५३ वर्षं वनुष्वापि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/53_varShaM_vanuShvApi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3583,6 +3636,7 @@ Win thou the rain: approach the Gods. Around thee thou from the skin shalt make 
 </details>
 </details>
 </div>
+
 ## ५४ तन्वं स्वर्गो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/54_tanvaM_svargo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3652,6 +3706,7 @@ In many a shape hath heaven transformed its body, as in itself is known, of vari
 </details>
 </details>
 </div>
+
 ## ५५ प्राच्यै त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/55_prAchyai_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3733,6 +3788,7 @@ To the eastern region, to Agni the Regent, to Asita the Protector, Aditya the Ar
 </details>
 </details>
 </div>
+
 ## ५६ दक्षिणायै त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/56_daxiNAyai_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3796,6 +3852,7 @@ To the southern region, to Indra the Regent, to Tiraschiraji the Protector, to Y
 </details>
 </details>
 </div>
+
 ## ५७ प्रतीच्यै त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/57_pratIchyai_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3858,6 +3915,7 @@ To the western region, to Varuna the Regent, to Pridaku the Protector, to Food t
 </details>
 </details>
 </div>
+
 ## ५८ उदीच्यै त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/58_udIchyai_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3923,6 +3981,7 @@ To the northern region, to Soma the Regent, to Svaja the Protec- tor, to Thunder
 </details>
 </details>
 </div>
+
 ## ५९ ध्रुवायै त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/59_dhruvAyai_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3987,6 +4046,7 @@ To the stedfast region, to Vishnu the Regent, to Kalmashagriva the Protector, to
 </details>
 </details>
 </div>
+
 ## ६० ऊर्ध्वायै त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/003_svargaidanaH/60_UrdhvAyai_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

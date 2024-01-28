@@ -32,6 +32,7 @@ A prayer to Agni for aid against an enemy
 </details>
 </details>
 </div>
+
 ## ०१ अग्ने यत्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/01_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ Burn thou, O Agni, with that heat of thine against the man who hates us, whom we
 </details>
 </details>
 </div>
+
 ## ०२ अग्ने यत्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/02_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -153,6 +155,7 @@ Flame thou, O Agni, with that flame of thine against the man who hates us, whom 
 </details>
 </details>
 </div>
+
 ## ०३ अग्ने यत्तेऽर्चिस्तेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -211,6 +214,7 @@ Shine out, O Agni, with that sheen of thine against the man who hates us, whom w
 </details>
 </details>
 </div>
+
 ## ०४ अग्ने यत्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/04_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -269,6 +273,7 @@ Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom 
 </details>
 </details>
 </div>
+
 ## ०५ अग्ने यत्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/05_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

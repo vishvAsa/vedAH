@@ -32,6 +32,7 @@ To Indra, Brihaspati, Soma and Agni, for the destruction of sorcerers
 </details>
 </details>
 </div>
+
 ## ०१ इदं हविर्यातुधानान्नदी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAnnadI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ This sacrifice shall bring the Yatudhanas as the flood brings foam: Here let the
 </details>
 </details>
 </div>
+
 ## ०२ अयं स्तुवान
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ This one hath come confessing all: do ye receive him eagerly. Master him thou, B
 </details>
 </details>
 </div>
+
 ## ०३ यातुधानस्य सोमप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,6 +230,7 @@ O Soma-drinker, strike and bring the Yatudhana's progeny: Make the confessing si
 </details>
 </details>
 </div>
+
 ## ०४ यत्रैषामग्ने जनिमानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

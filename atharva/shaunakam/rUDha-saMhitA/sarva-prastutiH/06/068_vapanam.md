@@ -32,6 +32,7 @@ A charm to accompany the shaving of the beard
 </details>
 </details>
 </div>
+
 ## ०१ आयमगन्त्सविता क्षुरेणोष्णेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ Savitar hath come hither with the razor: come thou, O Vayu, with the heated wate
 </details>
 </details>
 </div>
+
 ## ०२ अदितिः श्मश्रु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/02_aditiH_shmashru.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ Let Aditi shave the beard, and let the Waters bathe it with their strength: Praj
 </details>
 </details>
 </div>
+
 ## ०३ येनावपत्सविता क्षुरेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

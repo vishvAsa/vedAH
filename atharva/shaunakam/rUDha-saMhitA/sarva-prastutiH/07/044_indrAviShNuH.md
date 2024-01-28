@@ -32,6 +32,7 @@ In praise of Indra and Vishnu
 </details>
 </details>
 </div>
+
 ## ०१ उभा जिग्यथुर्न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/044_indrAviShNuH/01_ubhA_jigyathurna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

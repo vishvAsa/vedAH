@@ -31,6 +31,7 @@ A prayer for Brihaspati's and Indra's protection
 </details>
 </details>
 </div>
+
 ## ०१ बृहस्पतिर्नः परि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/051_paripANam/01_bRhaspatirnaH_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

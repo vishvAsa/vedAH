@@ -32,6 +32,7 @@ A charm to banish jealousy
 </details>
 </details>
 </div>
+
 ## ०१ ईर्ष्याया ध्राजिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ The first approach of Jealousy, and that which followeth the first, The pain, th
 </details>
 </details>
 </div>
+
 ## ०२ यथा भूमिर्मृतमना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,6 +160,7 @@ Even as the earth is dead to sense, yea, more unconscious than the dead, Even as
 </details>
 </details>
 </div>
+
 ## ०३ अदो यत्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/03_ado_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

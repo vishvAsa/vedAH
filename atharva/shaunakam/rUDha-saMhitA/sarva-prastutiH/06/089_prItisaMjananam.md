@@ -32,6 +32,7 @@ A man's love charm
 </details>
 </details>
 </div>
+
 ## ०१ इदं यत्प्रेण्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/01_idaM_yatpreNyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ This strength that Soma hath bestowed, the head of her who gladdeneth,-- With th
 </details>
 </details>
 </div>
+
 ## ०२ शोचयामसि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/02_shochayAmasi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke acc
 </details>
 </details>
 </div>
+
 ## ०३ मह्यं त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/03_mahyaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

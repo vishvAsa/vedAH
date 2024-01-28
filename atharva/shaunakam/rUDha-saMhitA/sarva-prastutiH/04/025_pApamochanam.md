@@ -32,6 +32,7 @@ A hymn of prayer and praise to Vayu and Savitar
 </details>
 </details>
 </div>
+
 ## ०१ वायोः सवितुर्विदथानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/01_vAyoH_saviturvidathAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ I think on Vayu's and Savitar's holy rites, ye twain who penetrate and guard the
 </details>
 </details>
 </div>
+
 ## ०२ ययोः सङ्ख्याता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/02_yayoH_sankhyAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,6 +172,7 @@ Ye who have counted up the earth's expanses, and in the sky smoothed out the air
 </details>
 </details>
 </div>
+
 ## ०३ तव व्रते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/03_tava_vrate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -234,6 +237,7 @@ Beauteously bright! men rest in thy dominion when thou hast risen up and hastene
 </details>
 </details>
 </div>
+
 ## ०४ अपेतो वायो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/04_apeto_vAyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -301,6 +305,7 @@ Hence, Vayu, Savitar drive evil action, chase Simida away, drive off the demons.
 </details>
 </details>
 </div>
+
 ## ०५ रयिं मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/05_rayiM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -367,6 +372,7 @@ Of their own selves let Savitar and Vayu send favourable strength and wealth and
 </details>
 </details>
 </div>
+
 ## ०६ प्र सुमतिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/06_pra_sumatim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -436,6 +442,7 @@ Ye, Savitar and Vayu, to assist us, enjoy the hymn and the delightful cheerer. C
 </details>
 </details>
 </div>
+
 ## ०७ उप श्रेष्ठा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/07_upa_shreShThA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

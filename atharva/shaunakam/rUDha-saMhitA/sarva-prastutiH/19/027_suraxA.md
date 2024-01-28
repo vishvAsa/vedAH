@@ -33,6 +33,7 @@ A benedictory hymn
 </details>
 </details>
 </div>
+
 ## ०१ गोभिष्ट्वा पात्वृषभो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/01_gobhiShTvA_pAtvRShabho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ Let the Bull guard thee with the kine, the Stallien with the fleet- foot steeds.
 </details>
 </details>
 </div>
+
 ## ०२ सोमस्त्वा पात्वोषधीभिर्नक्षत्रैः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/02_somastvA_pAtvoShadhIbhirnaxatraiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ Let Soma guard thee with the plants, Surya protect thee with the stars; With bre
 </details>
 </details>
 </div>
+
 ## ०३ तिस्रो दिवस्तिस्रः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/03_tisro_divastisraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -241,6 +244,7 @@ Three are the earths, they say, and three the heavens, three are the atmospheres
 </details>
 </details>
 </div>
+
 ## ०४ त्रीन्नाकांस्त्रीन्समुद्रांस्त्रीन्ब्रध्नांस्त्रीन्वैष्टपान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/04_trInnAkAMstrInsamudrAMstrInbradhnAMstrInvaiShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -316,6 +320,7 @@ Three vaults of heaven, and three seas, three bright, three stationary ones, Thr
 </details>
 </details>
 </div>
+
 ## ०५ घृतेन त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/05_ghRtena_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -381,6 +386,7 @@ Increasing thee with butter I, Agni! with fatness sprinkle thee. Let not magicia
 </details>
 </details>
 </div>
+
 ## ०६ मा वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/06_mA_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -449,6 +455,7 @@ Let not magicians mar your heat, your vital or diffusive breath. Brilliant and a
 </details>
 </details>
 </div>
+
 ## ०७ प्राणेनाग्निं सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/07_prANenAgniM_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -514,6 +521,7 @@ Fire they endow with vital breath, Wind is compact, with vital breath: With vita
 </details>
 </details>
 </div>
+
 ## ०८ आयुषायुष्कृतां जीवायुष्माञ्जीव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/08_AyuShAyuShkRtAM_jIvAyuShmAnjIva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -585,6 +593,7 @@ Live with the Life-Creators' life. Die not, live on to lengthened age. Live with
 </details>
 </details>
 </div>
+
 ## ०९ देवानां निहितम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/09_devAnAM_nihitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -657,6 +666,7 @@ The secret treasure of the Gods which Indra, by pathways travelled by the Gods, 
 </details>
 </details>
 </div>
+
 ## १० त्रयस्त्रिंशद्देवतास्त्रीणि च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/10_trayastriMshaddevatAstrINi_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -732,6 +742,7 @@ With friendly thoughts the Deities, three-and thirty, and three great Powers pre
 </details>
 </details>
 </div>
+
 ## ११ ये देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/11_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -790,6 +801,7 @@ O ye eleven Gods who are in heaven, accept this sacrifice.
 </details>
 </details>
 </div>
+
 ## १२ ये देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/12_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -848,6 +860,7 @@ O ye eleven Gods who are in air, accept this sacrifice.
 </details>
 </details>
 </div>
+
 ## १३ ये देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/13_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -912,6 +925,7 @@ O ye eleven Gods who are on earth, accept this sacrifice.
 </details>
 </details>
 </div>
+
 ## १४ असपत्नं पुरस्तात्पश्चान्नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/14_asapatnaM_purastAtpashchAnno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -972,6 +986,7 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 </details>
 </details>
 </div>
+
 ## १५ दिवो मादित्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/15_divo_mAdityA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

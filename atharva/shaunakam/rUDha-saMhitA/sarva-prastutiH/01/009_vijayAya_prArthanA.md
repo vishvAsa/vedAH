@@ -32,6 +32,7 @@ Benediction on a King at his inauguration
 </details>
 </details>
 </div>
+
 ## ०१ अस्मिन्वसु वसवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/01_asminvasu_vasavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ May Indra, Pushan, Varuria, Mitra, Agni, benignant Gods, maintain this man in ri
 </details>
 </details>
 </div>
+
 ## ०२ अस्य देवाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/02_asya_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ May light, O Gods, be under his dominion, Agni, the Sun, all; that is bright and
 </details>
 </details>
 </div>
+
 ## ०३ येनेन्द्राय समभरः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/03_yenendrAya_samabharaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -231,6 +234,7 @@ Through that most mighty prayer, O Jatavedas, wherewith thou. broughtest milk to
 </details>
 </details>
 </div>
+
 ## ०४ ऐषां यज्ञमुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/04_aiShAM_yajnamuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

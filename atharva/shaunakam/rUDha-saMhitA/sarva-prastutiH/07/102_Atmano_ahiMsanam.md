@@ -28,6 +28,7 @@ Translated: Henry, 41, 115; Griffith, i. 378.
 </details>
 </details>
 </div>
+
 ## ०१ नमस्कृत्य द्यावापृथिवीभ्यामन्तरिक्षाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

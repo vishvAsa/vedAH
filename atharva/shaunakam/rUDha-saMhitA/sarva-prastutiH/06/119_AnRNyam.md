@@ -28,6 +28,7 @@ Translated: Ludwig, p. 442; Griffith, i. 310.
 </details>
 </details>
 </div>
+
 ## ०१ यददीव्यन्नृणमहं कृणोम्यदास्यन्नग्न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/119_AnRNyam/01_yadadIvyannRNamahaM_kRNomyadAsyannagna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ The debt which I incur, not gaming, Agni! and, not intending to repay, acknowled
 </details>
 </details>
 </div>
+
 ## ०२ वैश्वानराय प्रति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/119_AnRNyam/02_vaishvAnarAya_prati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ I cause Vaisvanara to know, confessing the debt whose payment to the Gods is pro
 </details>
 </details>
 </div>
+
 ## ०३ वैश्वानरः पविता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/119_AnRNyam/03_vaishvAnaraH_pavitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

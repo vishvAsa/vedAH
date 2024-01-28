@@ -32,6 +32,7 @@ A sacrificial charm against enemies
 </details>
 </details>
 </div>
+
 ## ०१ अव मन्युरवायताव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/065_shatrunAshanam/01_ava_manyuravAyatAva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ The angry spirit hath relaxed: loose are the arms that act with mind. Do thou, d
 </details>
 </details>
 </div>
+
 ## ०२ निर्हस्तेभ्यो नैर्हस्तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/065_shatrunAshanam/02_nirhastebhyo_nairhastam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ The shaft for handless fiends which, Gods! ye cast against the handless ones, Wi
 </details>
 </details>
 </div>
+
 ## ०३ इन्द्रश्चकार प्रथमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/065_shatrunAshanam/03_indrashchakAra_prathamam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A prayer to Agni for protection and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ अप नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/01_apa_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Chasing our pain with splendid light, O Agni, shine thou wealth on us. His lustr
 </details>
 </details>
 </div>
+
 ## ०२ सुक्षेत्रिया सुगातुया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -157,6 +159,7 @@ For goodly fields, for pleasant homes, for wealth we sacrifice to thee. His lust
 </details>
 </details>
 </div>
+
 ## ०३ प्र यद्भन्दिष्ठ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/03_pra_yadbhandiShTha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -217,6 +220,7 @@ Best praiser of all these be he, and foremost be our noble chiefs. His lustre fl
 </details>
 </details>
 </div>
+
 ## ०४ प्र यत्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/04_pra_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -277,6 +281,7 @@ So that thy worshipper and we, thine, Agni! in our sons may live. His lustre fla
 </details>
 </details>
 </div>
+
 ## ०५ प्र यदग्नेः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/05_pra_yadagneH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -347,6 +352,7 @@ As ever conquering Agni's beams of splendour go to every side, His lustre flash 
 </details>
 </details>
 </div>
+
 ## ०६ त्वं हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/06_tvaM_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -407,6 +413,7 @@ To every side thy face is turned, thou art triumphant everywhere. His lustre fla
 </details>
 </details>
 </div>
+
 ## ०७ द्विषो नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/07_dviSho_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -467,6 +474,7 @@ O thou whose face looks every way, bear off our foes as in a ship. His lustre fl
 </details>
 </details>
 </div>
+
 ## ०८ स नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/08_sa_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

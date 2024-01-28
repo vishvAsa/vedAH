@@ -32,6 +32,7 @@ Formulas to be used at the three daily libations
 </details>
 </details>
 </div>
+
 ## ०१ श्येनोऽसि गायत्रच्छन्दा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/01_shyeno-si_gAyatrachChandA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Thou art the Hawk, Gayatri's lord: I hold thee fast. Happily bear me to the goal
 </details>
 </details>
 </div>
+
 ## ०२ ऋभुरसि जगच्छन्दा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/02_Rbhurasi_jagachChandA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ Thou art the Ribhu, lord of Jagati: I hold thee fast. Happily bear me to the goa
 </details>
 </details>
 </div>
+
 ## ०३ वृषासि त्रिष्टुप्छन्दा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/03_vRShAsi_triShTupChandA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

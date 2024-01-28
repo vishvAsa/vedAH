@@ -28,6 +28,7 @@ Translated: Henry, 43, 121; Griffith, i. 381.
 </details>
 </details>
 </div>
+
 ## ०१ अग्न इन्द्रश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/01_agna_indrashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Resistless, Agni, Indra, smite his foemen for the worshipper, For best foe-slaye
 </details>
 </details>
 </div>
+
 ## ०२ याभ्यामजयन्त्स्वरग्र एव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/02_yAbhyAmajayantsvaragra_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,6 +173,7 @@ Agni I call, and Indra, foe-destroyers, swift moving, heroes, Gods who wield the
 </details>
 </details>
 </div>
+
 ## ०३ उप त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/03_upa_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A charm to restore virile power
 </details>
 </details>
 </div>
+
 ## ०१ य त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/01_ya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ We dig thee from the earth, the Plant which strengthens and exalts the nerves, T
 </details>
 </details>
 </div>
+
 ## ०२ उदुषा उदु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/02_uduShA_udu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -174,6 +176,7 @@ Let Ushas and let Surya rise, let this the speech I utter rise. Let the strong m
 </details>
 </details>
 </div>
+
 ## ०३ यथा स्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/03_yathA_sma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -247,6 +250,7 @@ Sicut tui surgentis (membrum virile) tanquam inflammatum palpitat, hoc illud tui
 </details>
 </details>
 </div>
+
 ## ०४ उच्छुष्मौषधीनां सार
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/04_uchChuShmauShadhInAM_sAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -319,6 +323,7 @@ Sursum (estote) herbarum vires, taurorum vigor. Tu, Indra, corporis potens, viro
 </details>
 </details>
 </div>
+
 ## ०५ अपां रसः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/05_apAM_rasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -385,6 +390,7 @@ Ros aquarum primigenitus atque arborum, Somae etiam frater es, vatum sacrorum ma
 </details>
 </details>
 </div>
+
 ## ०६ अद्याग्ने अद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/06_adyAgne_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -481,6 +487,7 @@ Hodie, Agnis! hodie Savitar! hodie dea Sarasvatis! hodie Brahmanaspatis! hujus f
 </details>
 </details>
 </div>
+
 ## ०७ आहं तनोमि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/07_AhaM_tanomi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -538,6 +545,7 @@ Velut nervum in arcu ego tuum fascinum extendo. Aggredere (mulierem) semper inde
 </details>
 </details>
 </div>
+
 ## ०८ अश्वस्याश्वतरस्याजस्य पेत्वस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/08_ashvasyAshvatarasyAjasya_petvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

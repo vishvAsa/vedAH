@@ -32,6 +32,7 @@ A single line giving the names of the chief Vedic metres
 </details>
 </details>
 </div>
+
 ## ०१ गायत्र्युष्णिगनुष्टुब्बृहती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

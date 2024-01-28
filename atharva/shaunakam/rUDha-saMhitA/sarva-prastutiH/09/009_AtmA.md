@@ -32,6 +32,7 @@ Enunciation of mystico-theological and cosmological doctrine
 </details>
 </details>
 </div>
+
 ## ०१ अस्य वामस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/01_asya_vAmasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ The second brother of this lovely Hotar, hoary with eld, is the voracious Lightn
 </details>
 </details>
 </div>
+
 ## ०२ सप्त युञ्जन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/02_sapta_yunjanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ The seven make the one-wheeled chariot ready: bearing seven names the single Cou
 </details>
 </details>
 </div>
+
 ## ०३ इमं रथमधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/03_imaM_rathamadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -224,6 +227,7 @@ The seven who on this seven-wheeled car are mounted have horses, seven in tale, 
 </details>
 </details>
 </div>
+
 ## ०४ को ददर्श
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/04_ko_dadarsha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -287,6 +291,7 @@ Who hath beheld at birth the Primal Being, when She who hath no bone supports th
 </details>
 </details>
 </div>
+
 ## ०५ इह ब्रवीतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/05_iha_bravItu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -350,6 +355,7 @@ Let him who knoweth presently declare it, this lovely Bird's securely-founded st
 </details>
 </details>
 </div>
+
 ## ०६ पाकः पृच्छामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/06_pAkaH_pRchChAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -411,6 +417,7 @@ Unripe in mind, in spirit undiscerning, I ask of these the Gods' established pla
 </details>
 </details>
 </div>
+
 ## ०७ अचिकित्वांश्चिकितुषश्चिदत्र कवीन्पृच्छामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/07_achikitvAMshchikituShashchidatra_kavInpRchChAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -477,6 +484,7 @@ Here, ignorant, I ask the wise who know it, as one who knows not, for the sake o
 </details>
 </details>
 </div>
+
 ## ०८ माता पितरमृत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/08_mAtA_pitaramRta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -541,6 +549,7 @@ The Mother gave the Sire his share of Order. With thought at first she wedded hi
 </details>
 </details>
 </div>
+
 ## ०९ युक्ता मातासीद्धुरि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/09_yuktA_mAtAsIddhuri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -604,6 +613,7 @@ Yoked was the Mother to the boon Cow's car-pole; in humid folds of cloud the inf
 </details>
 </details>
 </div>
+
 ## १० तिस्रो मतॄस्त्रीन्पितॄन्बिभ्रदेक
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/10_tisro_matRRstrInpitRRnbibhradeka.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -669,6 +679,7 @@ Bearing three mothers and three fathers, single he stood erect: they never made 
 </details>
 </details>
 </div>
+
 ## ११ पञ्चारे चक्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/11_panchAre_chakre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -733,6 +744,7 @@ Upon the five-spoked wheel revolving ever, whereon all crea- tures rest and are 
 </details>
 </details>
 </div>
+
 ## १२ पञ्चपादं पितरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/12_panchapAdaM_pitaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -800,6 +812,7 @@ They call him in the farther half of heaven the Sire five-footed, of twelve form
 </details>
 </details>
 </div>
+
 ## १३ द्वादशारं नहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/13_dvAdashAraM_nahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -865,6 +878,7 @@ Formed with twelve spokes, too strong for age to weaken, this wheel of during Or
 </details>
 </details>
 </div>
+
 ## १४ सनेमि चक्रमजरम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/14_sanemi_chakramajaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -930,6 +944,7 @@ The wheel revolves, unwasting, with its felly: ten draw it, yoked to the far-str
 </details>
 </details>
 </div>
+
 ## १५ स्त्रियः सतीस्ताँ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/15_striyaH_satIstA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -998,6 +1013,7 @@ They told me these were males, though truly females. He who hath eyes sees this,
 </details>
 </details>
 </div>
+
 ## १६ साकञ्जानां सप्तथमाहुरेकजम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/16_sAkanjAnAM_saptathamAhurekajam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1064,6 +1080,7 @@ Of the co-born they call the seventh single-born: the six twin, pairs are called
 </details>
 </details>
 </div>
+
 ## १७ अवः परेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/17_avaH_pareNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1131,6 +1148,7 @@ Beneath the upper realm, above this lower, bearing her Calf at foot, the Cow hat
 </details>
 </details>
 </div>
+
 ## १८ अवः परेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/18_avaH_pareNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1197,6 +1215,7 @@ Who, that the father of this Calf discerneth beneath the upper realm, above the 
 </details>
 </details>
 </div>
+
 ## १९ ये अर्वाञ्चस्ताँ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/19_ye_arvAnchastA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1262,6 +1281,7 @@ Those that come hitherward they call departing, those that depart they call dire
 </details>
 </details>
 </div>
+
 ## २० द्वा सुपर्णा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/20_dvA_suparNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1327,6 +1347,7 @@ Two Birds with fair wings, knit with bonds of friendship, in the same sheltering
 </details>
 </details>
 </div>
+
 ## २१ यस्मिन्वृक्षे मध्वदः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/21_yasminvRxe_madhvadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1392,6 +1413,7 @@ The tree whereon the fine Birds eat the sweetness, where they all rest and procr
 </details>
 </details>
 </div>
+
 ## २२ यत्रा सुपर्णा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/009_AtmA/22_yatrA_suparNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

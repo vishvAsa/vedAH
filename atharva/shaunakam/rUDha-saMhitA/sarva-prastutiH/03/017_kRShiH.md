@@ -28,6 +28,7 @@ A farmer's song and prayer to speed the plough
 </details>
 </details>
 </div>
+
 ## ०१ सीरा युञ्जन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/01_sIrA_yunjanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ Wise and devoted to the Gods the skilful men bind plough-ropes fast, And lay the
 </details>
 </details>
 </div>
+
 ## ०२ युनक्त सीरा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/02_yunakta_sIrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -188,6 +190,7 @@ Lay on the yokes and fasten well the traces: formed is the furrow, sow the seed 
 </details>
 </details>
 </div>
+
 ## ०३ लाङ्गलं पवीरवत्सुशीमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/03_lAngalaM_pavIravatsushImam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -289,6 +292,7 @@ The keen-shared plough that bringeth bliss, furnished with traces and with stilt
 </details>
 </details>
 </div>
+
 ## ०४ इन्द्रः सीताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/04_indraH_sItAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -352,6 +356,7 @@ May Indra press the furrow down, may Pushan guard and cherish her. May she, well
 </details>
 </details>
 </div>
+
 ## ०५ शुनं सुफाला
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/05_shunaM_suphAlA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -428,6 +433,7 @@ Happily let the shares turn up the ploughland, the ploughers happily follow the 
 </details>
 </details>
 </div>
+
 ## ०६ शुनं वाहाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/06_shunaM_vAhAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -497,6 +503,7 @@ Happily work our steers and men! May the plough furrow happily, Happily be the t
 </details>
 </details>
 </div>
+
 ## ०७ शुनासीरेह स्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/07_shunAsIreha_sma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -565,6 +572,7 @@ Suna and Sira, welcome ye this laud, and with the milk that ye have made in heav
 </details>
 </details>
 </div>
+
 ## ०८ सीते वन्दामहे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/08_sIte_vandAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -631,6 +639,7 @@ Auspicious Sita, come thou near: we venerate and worship thee. That thou mayst b
 </details>
 </details>
 </div>
+
 ## ०९ घृतेन सीता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/09_ghRtena_sItA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

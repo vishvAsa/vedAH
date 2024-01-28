@@ -32,6 +32,7 @@ A man's love-charm
 </details>
 </details>
 </div>
+
 ## ०१ यथा वृक्षम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/008_kAmAtmA/01_yathA_vRxam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ Like as the creeper throws, her arms on every side around the tree, So hold thou
 </details>
 </details>
 </div>
+
 ## ०२ यथा सुपर्णः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/008_kAmAtmA/02_yathA_suparNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ As, when he mounts, the eagle strikes his pinions downward on the earth, So do I
 </details>
 </details>
 </div>
+
 ## ०३ यथेमे द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/008_kAmAtmA/03_yatheme_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

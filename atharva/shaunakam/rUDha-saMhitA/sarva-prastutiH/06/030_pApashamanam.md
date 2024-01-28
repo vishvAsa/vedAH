@@ -32,6 +32,7 @@ A charm to promote the growth of hair
 </details>
 </details>
 </div>
+
 ## ०१ देवा इमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/01_devA_imam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ Over a magic stone, beside Sarasvati, the Gods Ploughed in this barley that was 
 </details>
 </details>
 </div>
+
 ## ०२ यस्ते मदोऽवकेशो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/02_yaste_mado-vakesho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -181,6 +183,7 @@ Thy joy in hair that falleth or is scattered, wherewith thou sub- jectest a man 
 </details>
 </details>
 </div>
+
 ## ०३ बृहत्पलाशे सुभगे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/03_bRhatpalAshe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

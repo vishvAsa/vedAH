@@ -32,6 +32,7 @@ A charm to be pronounced by bride and bridegroom
 </details>
 </details>
 </div>
+
 ## ०१ अक्ष्यौ नौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/036_anjanam/01_axyau_nau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

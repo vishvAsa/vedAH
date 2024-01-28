@@ -32,6 +32,7 @@ The wickedness of robbing or insulting Brahmans
 </details>
 </details>
 </div>
+
 ## ०१ अतिमात्रमवर्धन्त नोदिव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/01_atimAtramavardhanta_nodiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ The sons of Vitahavya, the Srinjayas, waxed exceeding strong. They well-nigh tou
 </details>
 </details>
 </div>
+
 ## ०२ ये बृहत्सामानमाङ्गिरसमार्पयन्ब्राह्मणम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/02_ye_bRhatsAmAnamAngirasamArpayanbrAhmaNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ When men pierced Brihatsaman through, the Brahman, son of Angiras, The ram with 
 </details>
 </details>
 </div>
+
 ## ०३ ये ब्राह्मणम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/03_ye_brAhmaNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,6 +230,7 @@ If men have spat upon, or shot their rheum upon a Brahman, they. Sit in the midd
 </details>
 </details>
 </div>
+
 ## ०४ ब्रह्मगवी पच्यमाना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/04_brahmagavI_pachyamAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -293,6 +297,7 @@ While yet the Brahman's cow which men are dressing quivers in her throe: She mar
 </details>
 </details>
 </div>
+
 ## ०५ क्रूरमस्या आशसनम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/05_krUramasyA_Ashasanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -356,6 +361,7 @@ Terrible is her cutting-up: her bitter flesh is cast away, And it is counted sin
 </details>
 </details>
 </div>
+
 ## ०६ उग्रो राजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/06_ugro_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -419,6 +425,7 @@ If any King who deems himself mighty would eat a Brahman up, Rent and disrupted 
 </details>
 </details>
 </div>
+
 ## ०७ अष्टापदी चतुरक्षी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/07_aShTApadI_chaturaxI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -482,6 +489,7 @@ She grows eight-footed, and four-eyed, four-eared, four-jawed, two-faced, two-to
 </details>
 </details>
 </div>
+
 ## ०८ तद्वै राष्ट्रमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/08_tadvai_rAShTramA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -548,6 +556,7 @@ As water swamps a leaky ship so ruin overflows that realm. Misfortune smites the
 </details>
 </details>
 </div>
+
 ## ०९ तं वृक्षा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/09_taM_vRxA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -611,6 +620,7 @@ The very trees repel the man, and drive him from their sheltering shade, Whoever
 </details>
 </details>
 </div>
+
 ## १० विषमेतद्देवकृतं राजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/10_viShametaddevakRtaM_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -675,6 +685,7 @@ That wealth, King Varuna hath said, is poison by the Gods prepared. None hath ke
 </details>
 </details>
 </div>
+
 ## ११ नवैव ता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/11_navaiva_tA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -737,6 +748,7 @@ Those nine-and-ninety people whom Earth shook and cast away from her, When they 
 </details>
 </details>
 </div>
+
 ## १२ यां मृतायानुबध्नन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/12_yAM_mRtAyAnubadhnanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -803,6 +815,7 @@ Oppressor of the Brahmans! thus the Gods have spoken and declared, The step-effa
 </details>
 </details>
 </div>
+
 ## १३ अश्रूणि कृपमाणस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/13_ashrUNi_kRpamANasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -866,6 +879,7 @@ Oppressor of the Brahmans! tears wept by the man who suffers wrong, These are th
 </details>
 </details>
 </div>
+
 ## १४ येन मृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/14_yena_mRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -927,6 +941,7 @@ The share of water which the Gods have destined to be thine, is that, Oppressor 
 </details>
 </details>
 </div>
+
 ## १५ न वर्षम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/019_brahmagavi/15_na_varSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

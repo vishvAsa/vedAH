@@ -29,6 +29,7 @@ A charm to exercise evil spirits who beset women
 </details>
 </details>
 </div>
+
 ## ०१ यौ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/01_yau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ Let neither fiend of evil name, Alinsa, Vatsapa, desire Thy pair of husband-wooe
 </details>
 </details>
 </div>
+
 ## ०२ पलालानुपलालौ शर्कुम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/02_palAlAnupalAlau_sharkum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ Palala, Anupalala, Sarku, Koka, Malimlucha, Palijaka Vavri- vasas and Asresha, R
 </details>
 </details>
 </div>
+
 ## ०३ मा सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/03_mA_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,6 +231,7 @@ Approach not, come not hitherward: creep not thou in-between her thighs. I set, 
 </details>
 </details>
 </div>
+
 ## ०४ दुर्णामा च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/04_durNAmA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -293,6 +297,7 @@ Durnama and Sunama both are eager to converse with her. We drive away Arayas: le
 </details>
 </details>
 </div>
+
 ## ०५ यः कृष्णः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/05_yaH_kRShNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -355,6 +360,7 @@ The black and hairy Asura, and Stambaja and Tundika, Arayas from this girl we dr
 </details>
 </details>
 </div>
+
 ## ०६ अनुजिघ्रं प्रमृशन्तम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/06_anujighraM_pramRshantam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -419,6 +425,7 @@ Sniffer, and Feeler, him who eats raw flesh, and him who licks his lips, Arayas 
 </details>
 </details>
 </div>
+
 ## ०७ यस्त्वा स्वप्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/07_yastvA_svapne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -485,6 +492,7 @@ Whoever, in thy brother's shape or father's comes to thee in sleep, Let Baja rou
 </details>
 </details>
 </div>
+
 ## ०८ यस्त्वा स्वपन्तीम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/08_yastvA_svapantIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -554,6 +562,7 @@ Whoever steals to thee asleep or thinks to harm thee when awake,-- These hath it
 </details>
 </details>
 </div>
+
 ## ०९ यः कृणोति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/09_yaH_kRNoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -623,6 +632,7 @@ Whoever causeth her to lose her child or bear untimely fruit,-- Destroy him, O t
 </details>
 </details>
 </div>
+
 ## १० ये शालाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/10_ye_shAlAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -694,6 +704,7 @@ Those who at evening, with the bray of asses, dance around the house, Kukshilas,
 </details>
 </details>
 </div>
+
 ## ११ ये कुकुन्धाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/11_ye_kukundhAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -758,6 +769,7 @@ Kukundhas and Kukurabhas who dress themselves in hides and skins, Who dance abou
 </details>
 </details>
 </div>
+
 ## १२ ये सूर्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/12_ye_sUryam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -829,6 +841,7 @@ All those who cannot bear the Sun who warms us yonder from the sky, Arayas with 
 </details>
 </details>
 </div>
+
 ## १३ य आत्मानमतिमात्रमंस
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/13_ya_AtmAnamatimAtramaMsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -893,6 +906,7 @@ All those who on their shoulders bear a head of monstrous magnitude, Who pierce 
 </details>
 </details>
 </div>
+
 ## १४ ये पूर्वे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/14_ye_pUrve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -959,6 +973,7 @@ Those, bearing horns upon their hands, who first of all approach the brides; Sta
 </details>
 </details>
 </div>
+
 ## १५ येषां पश्चात्प्रपदानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/15_yeShAM_pashchAtprapadAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1027,6 +1042,7 @@ Those who have retroverted toes, and heels and faces in the front, Khalajas, Sak
 </details>
 </details>
 </div>
+
 ## १६ पर्यस्ताक्षा अप्रचङ्कशा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/16_paryastAxA_aprachankashA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1092,6 +1108,7 @@ Sightless and with distorted eyes, impotent. woman less be they. O Healing Plant
 </details>
 </details>
 </div>
+
 ## १७ उद्धर्षिणं मुनिकेशम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/17_uddharShiNaM_munikesham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1169,6 +1186,7 @@ The Bristly-haired, the Maniac-haired, the Biter, and the Groper-fiend, The Cree
 </details>
 </details>
 </div>
+
 ## १८ यस्ते गर्भम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/18_yaste_garbham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1232,6 +1250,7 @@ If one should touch thy coming babe or kill thine infant newly born, The yellow 
 </details>
 </details>
 </div>
+
 ## १९ ये अम्नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/19_ye_amno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1298,6 +1317,7 @@ Those who kill infants unawares, and near the new-made mothers lie, Let Pinga ch
 </details>
 </details>
 </div>
+
 ## २० परिसृष्टं धारयतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/20_parisRShTaM_dhArayatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1371,6 +1391,7 @@ Let it maintain the genial seed: let the laid embryo rest secure. Let both stron
 </details>
 </details>
 </div>
+
 ## २१ पवीनसात्तङ्गल्वा च्छायकादुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/21_pavInasAttangalvA_chChAyakAduta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1435,6 +1456,7 @@ From the Kimidin, for thy lord and children, Pinga shield thee well, From Sayaka
 </details>
 </details>
 </div>
+
 ## २२ द्व्यास्याच्चतुरक्षात्पञ्चपादादनङ्गुरेः वृन्तादभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/22_dvyAsyAchchaturaxAtpanchapAdAdanangureH_vRntAda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1500,6 +1522,7 @@ From the five-footed, fingerless, from the four-eyed, the double- faced, From th
 </details>
 </details>
 </div>
+
 ## २३ य आमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/23_ya_Amam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1564,6 +1587,7 @@ Those who eat flesh uncooked, and those who eat the bleeding flesh of men, Feede
 </details>
 </details>
 </div>
+
 ## २४ ये सूर्यात्परिसर्पन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/24_ye_sUryAtparisarpanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1628,6 +1652,7 @@ Shy slinkers from the Sun, as slinks a woman from her husband's sire, Deep down 
 </details>
 </details>
 </div>
+
 ## २५ पिङ्ग रक्ष
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/25_pinga_raxa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1691,6 +1716,7 @@ Pinga, preserve the babe at birth, make not the boy a female child. Let not Egg-
 </details>
 </details>
 </div>
+
 ## २६ अप्रजास्त्वं मार्तवत्समाद्रोदमघमावयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/26_aprajAstvaM_mArtavatsamAdrodamaghamAvayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

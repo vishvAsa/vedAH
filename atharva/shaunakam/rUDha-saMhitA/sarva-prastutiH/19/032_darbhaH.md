@@ -32,6 +32,7 @@ A charm, with an amulet of Darbha grass, to subdue enemies and win the affection
 </details>
 </details>
 </div>
+
 ## ०१ शतकाण्डो दुश्च्यवनः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/01_shatakANDo_dushchyavanaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ For lengthened life I bind on thee the Darbha grass, the mighty plant. Excellent
 </details>
 </details>
 </div>
+
 ## ०२ नास्य केशान्प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/02_nAsya_keshAnpra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,6 +175,7 @@ They cut not off his hair, they strike blow upon the breast for' him. To whom on
 </details>
 </details>
 </div>
+
 ## ०३ दिवि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/03_divi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -238,6 +241,7 @@ O Plant, thy root is in the sky, and thou art stationed on the earth: With thee 
 </details>
 </details>
 </div>
+
 ## ०४ तिस्रो दिवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/04_tisro_divo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -312,6 +316,7 @@ Through all three skies the plant hath pierced, and the three regions of the ear
 </details>
 </details>
 </div>
+
 ## ०५ त्वमसि सहमानोऽहमस्मि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/05_tvamasi_sahamAno-hamasmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -377,6 +382,7 @@ Thou art victorious in thy might I am endowed with conquering strength: Possesse
 </details>
 </details>
 </div>
+
 ## ०६ सहस्व नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/06_sahasva_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -440,6 +446,7 @@ Subdue our foeman, overcome the men who fain would fight: with us. Conquer all e
 </details>
 </details>
 </div>
+
 ## ०७ दर्भेण देवजातेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/07_darbheNa_devajAtena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -514,6 +521,7 @@ With Darbha that hath sprung from Gods, stationed in heaven, full many a time. W
 </details>
 </details>
 </div>
+
 ## ०८ प्रियं मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/08_priyaM_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -587,6 +595,7 @@ Do thou, O Darbha, make me dear to Brahman and Rajanya, dear to Sudra, and to Ar
 </details>
 </details>
 </div>
+
 ## ०९ यो जायमानः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/09_yo_jAyamAnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -664,6 +673,7 @@ He who first born fixed earth in her position, he who established heaven and air
 </details>
 </details>
 </div>
+
 ## १० सपत्नहा शतकाण्डः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/10_sapatnahA_shatakANDaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

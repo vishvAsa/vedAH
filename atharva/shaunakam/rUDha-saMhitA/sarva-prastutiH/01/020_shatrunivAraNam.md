@@ -32,6 +32,7 @@ A prayer to Soma, the Maruts, Mitra, and Varuna, for protection
 </details>
 </details>
 </div>
+
 ## ०१ अदारसृद्भवतु देव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/01_adArasRdbhavatu_deva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -106,6 +107,7 @@ May it glide harmless by in this our sacrifice, O Soma, God! Maruts, be gracious
 </details>
 </details>
 </div>
+
 ## ०२ यो अद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/02_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ Mitra and Varuna, ye twain, turn carefully away from us The deadly dart that fli
 </details>
 </details>
 </div>
+
 ## ०३ इतश्च यदमुतश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/03_itashcha_yadamutashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -239,6 +242,7 @@ Ward off from this side and from that, O Varuna, the deadly dart: Give us thy gr
 </details>
 </details>
 </div>
+
 ## ०४ शास इत्था
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/04_shAsa_itthA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

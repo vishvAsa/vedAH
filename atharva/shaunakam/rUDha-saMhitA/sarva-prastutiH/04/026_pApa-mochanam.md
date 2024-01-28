@@ -32,6 +32,7 @@ A hymn to Heaven and Earth
 </details>
 </details>
 </div>
+
 ## ०१ मन्वे वाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/01_manve_vAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ O Heaven and Earth, I think on you, wise, givers of abundant gifts, ye who throu
 </details>
 </details>
 </div>
+
 ## ०२ प्रतिष्ठे ह्यभवतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/02_pratiShThe_hyabhavatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,6 +172,7 @@ Yea, seats and homes are ye of goodly treasures, grown strong, divine, blessed, 
 </details>
 </details>
 </div>
+
 ## ०३ असन्तापे सुतपसौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/03_asantApe_sutapasau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -233,6 +236,7 @@ I call on you who warm and cause no sorrow, deep, spacious, meet to be adored by
 </details>
 </details>
 </div>
+
 ## ०४ ये अमृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/04_ye_amRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -294,6 +298,7 @@ Ye who maintain Amrit and sacrifices, ye who support rivers and human beings, To
 </details>
 </details>
 </div>
+
 ## ०५ ये उस्रिया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/05_ye_usriyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -357,6 +362,7 @@ Ye by whom cows and forest trees are cherished within whose range all creatures 
 </details>
 </details>
 </div>
+
 ## ०६ ये कीलालेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/06_ye_kIlAlena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -420,6 +426,7 @@ Ye who delight in nectar and in fatness, ye without whom men have no strength or
 </details>
 </details>
 </div>
+
 ## ०७ यन्मेदमभिशोचति येनयेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/07_yanmedamabhishochati_yenayena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

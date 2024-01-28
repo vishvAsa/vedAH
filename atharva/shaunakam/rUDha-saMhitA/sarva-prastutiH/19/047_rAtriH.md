@@ -32,6 +32,7 @@ A hymn to Night for protection from fiends, robbers, snakes and wolves
 </details>
 </details>
 </div>
+
 ## ०१ आ रात्रि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/01_A_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ Night! the terrestrial realm hath been filled with the Father's power and might.
 </details>
 </details>
 </div>
+
 ## ०२ न यस्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/02_na_yasyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ Each moving thing finds rest in her whose yonder boundary is not seen, nor that 
 </details>
 </details>
 </div>
+
 ## ०३ ये ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/03_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -248,6 +251,7 @@ Thy ninety-nine examiners, O Night, who look upon mankind, Eighty-and-eight in n
 </details>
 </details>
 </div>
+
 ## ०४ षष्टिश्च षट्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/04_ShaShTishcha_ShaTcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -309,6 +313,7 @@ Sixty-and-six, O opulent, fifty-and-five, O happy One, Forty-and-four and thirty
 </details>
 </details>
 </div>
+
 ## ०५ द्वौ च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/05_dvau_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -377,6 +382,7 @@ Twenty-and-two hast thou, O Night, eleven, yea, and fewer still. With these prot
 </details>
 </details>
 </div>
+
 ## ०६ रक्षा माकिर्नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/06_raxA_mAkirno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -488,6 +494,7 @@ Let not a fiends or spiteful man, let no ill-wisher master us. Let not the robbe
 </details>
 </details>
 </div>
+
 ## ०७ माश्वानां भद्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/07_mAshvAnAM_bhadre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -548,6 +555,7 @@ Let not the thief, O Blessed, seize our horses, nor she-fiends our men. Let thie
 </details>
 </details>
 </div>
+
 ## ०८ अध रात्रि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/08_adha_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -646,6 +654,7 @@ Far from us let Rope with Fangs, far from us let the wicked flee. Do thou make b
 </details>
 </details>
 </div>
+
 ## ०९ त्वयि रात्रि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/09_tvayi_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

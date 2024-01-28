@@ -32,6 +32,7 @@ A hymn to Bhava and Sarva
 </details>
 </details>
 </div>
+
 ## ०१ भवाशर्वौ मन्वे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/01_bhavAsharvau_manve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ I Reverence you--mark this--Bhava and Sarva, ye under whose control is this that
 </details>
 </details>
 </div>
+
 ## ०२ ययोरभ्यध्व उत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ Lords of all near and even of what is distant, famed as the best and skilfullest
 </details>
 </details>
 </div>
+
 ## ०३ सहस्राक्षौ वृत्रहणा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,6 +235,7 @@ Thousand-eyed foe-destroyers, I invoke you, still praising you the strong, of wi
 </details>
 </details>
 </div>
+
 ## ०४ यावारेभाथे बहु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -298,6 +302,7 @@ Ye who of old wrought many a deed in concert, and showed among mankind unhappy o
 </details>
 </details>
 </div>
+
 ## ०५ ययोर्वधान्नापपद्यते कश्चनान्तर्देवेषूत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -359,6 +364,7 @@ Ye from the stroke of whose destroying weapon not one among the Gods or men esca
 </details>
 </details>
 </div>
+
 ## ०६ यः कृत्याकृन्मूलकृद्यातुधानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -426,6 +432,7 @@ Hurl your bolt, strong Gods, at the Yatudhana, him who makes ready roots and dea
 </details>
 </details>
 </div>
+
 ## ०७ अधि नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/07_adhi_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

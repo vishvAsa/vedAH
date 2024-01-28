@@ -32,6 +32,7 @@ A prayer for peace and concord
 </details>
 </details>
 </div>
+
 ## ०१ सञ्ज्ञानं नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/052_sAMmanasyam/01_sanjnAnaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Give us agreement with our own, with strangers give us unity: Do ye, O Asvins, i
 </details>
 </details>
 </div>
+
 ## ०२ सं जानामहै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/052_sAMmanasyam/02_saM_jAnAmahai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

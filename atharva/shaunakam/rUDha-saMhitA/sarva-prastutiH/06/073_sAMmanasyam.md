@@ -32,6 +32,7 @@ A King's charm to conciliate his discontented kinsmen
 </details>
 </details>
 </div>
+
 ## ०१ एह यातु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/01_eha_yAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ Let Varuna come hither, Soma, Agni, Brihaspati come hither with the Vasus! Unani
 </details>
 </details>
 </div>
+
 ## ०२ यो वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/02_yo_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,6 +172,7 @@ The inclination which your hearts have harboured, the purpose which hath occupie
 </details>
 </details>
 </div>
+
 ## ०३ इहैव स्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/03_ihaiva_sta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

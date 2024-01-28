@@ -32,6 +32,7 @@ A woman's incantation against a rival
 </details>
 </details>
 </div>
+
 ## ०१ भगमस्या वर्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -106,6 +107,7 @@ As from the tree a wreath, have I assumed her fortune and her fame: Among her ki
 </details>
 </details>
 </div>
+
 ## ०२ एषा ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/02_eShA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -174,6 +176,7 @@ King Yama, let this maiden be surrendered as a wife to thee: Bound let her be me
 </details>
 </details>
 </div>
+
 ## ०३ एषा ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/03_eShA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -248,6 +251,7 @@ Queen of thy race is she, O King: to thee do we deliver her. Long with her kinsf
 </details>
 </details>
 </div>
+
 ## ०४ असितस्य ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/04_asitasya_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -20,6 +20,7 @@ title = "००६ अध्यात्मम्"
 </details>
 </details>
 </div>
+
 ## ०१ ब्रह्म च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/01_brahma_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -80,6 +81,7 @@ This is vs. 14 over again, with two more items prefixed.
 </details>
 </details>
 </div>
+
 ## ०२ भूतं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/02_bhUtaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -142,6 +144,7 @@ evidently called for.
 </details>
 </details>
 </div>
+
 ## ०३ य एतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/03_ya_etam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -201,6 +204,7 @@ separately described by the Anukr.
 </details>
 </details>
 </div>
+
 ## ०४ स एव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/04_sa_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -262,6 +266,7 @@ read *só amṛ́taṁ só abhvàm.*
 </details>
 </details>
 </div>
+
 ## ०५ स रुद्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/05_sa_rudro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -329,6 +334,7 @@ we restore *-kāró ánu*.
 </details>
 </details>
 </div>
+
 ## ०६ तस्येमे सर्वे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/06_tasyeme_sarve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -387,6 +393,7 @@ we restore *-kāró ánu*.
 </details>
 </details>
 </div>
+
 ## ०७ तस्यामू सर्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/07_tasyAmU_sarvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

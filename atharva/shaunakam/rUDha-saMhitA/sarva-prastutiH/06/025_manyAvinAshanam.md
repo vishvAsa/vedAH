@@ -32,6 +32,7 @@ A charm to remove pustules or scrofulous swellings (apachitas)
 </details>
 </details>
 </div>
+
 ## ०१ पञ्च च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/01_pancha_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,6 +109,7 @@ May all the five-and-fifty which meet round the tendons of the neck. Depart and 
 </details>
 </details>
 </div>
+
 ## ०२ सप्त च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/02_sapta_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,6 +172,7 @@ Those seventy-and-seven which meet round the upper vertebrae, Let them all vanis
 </details>
 </details>
 </div>
+
 ## ०३ नव च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/03_nava_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

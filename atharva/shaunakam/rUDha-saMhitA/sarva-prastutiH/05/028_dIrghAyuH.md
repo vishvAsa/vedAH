@@ -32,6 +32,7 @@ A charm to ensure general protection and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ नव प्राणान्नवभिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/01_nava_prANAnnavabhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ For lengthened life, to last through hundred autumns, they equalize with nine th
 </details>
 </details>
 </div>
+
 ## ०२ अग्निः सूर्यश्चन्द्रमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/02_agniH_sUryashchandramA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ May Agni, Sun, and Moon, and Earth, and Waters, Sky, Air, the Quarters and the P
 </details>
 </details>
 </div>
+
 ## ०३ त्रयः पोषस्त्रिवृति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/03_trayaH_poShastrivRti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,6 +229,7 @@ In three-threaded Charm rest triple fulness! Let Pushan cover it with milk and b
 </details>
 </details>
 </div>
+
 ## ०४ इममादित्या वसुना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/04_imamAdityA_vasunA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -292,6 +296,7 @@ Enrich this charm, Adityas, with your treasure; magnify this, when magnified, O 
 </details>
 </details>
 </div>
+
 ## ०५ भूमिष्ट्वा पातु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/05_bhUmiShTvA_pAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -356,6 +361,7 @@ With gold let Earth protect thee, and with iron, accordant, all- sustaining Agni
 </details>
 </details>
 </div>
+
 ## ०६ त्रेधा जातम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/06_tredhA_jAtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -428,6 +434,7 @@ This gold, born threefold at its first production, grew the one thing that Agni 
 </details>
 </details>
 </div>
+
 ## ०७ त्र्यायुषं जमदग्नेः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/07_tryAyuShaM_jamadagneH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -495,6 +502,7 @@ Three lives of Jamadagni, thrice the vital force of Kasyapa, Three sights of imm
 </details>
 </details>
 </div>
+
 ## ०८ त्रयः सुपर्णास्त्रिवृता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/08_trayaH_suparNAstrivRtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -560,6 +568,7 @@ When with the three-stringed charm came three strong eagles, sharing the Sacred 
 </details>
 </details>
 </div>
+
 ## ०९ दिवस्त्वा पातु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/09_divastvA_pAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -623,6 +632,7 @@ The golden guard thee from the sky, the silvern guard thee from the air, The iro
 </details>
 </details>
 </div>
+
 ## १० इमास्तिस्रो देवपुरास्तास्त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/10_imAstisro_devapurAstAstvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -686,6 +696,7 @@ May these three castles of the Gods keep thee secure on every side. Endowed with
 </details>
 </details>
 </div>
+
 ## ११ पुरं देवानाममृतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/11_puraM_devAnAmamRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -751,6 +762,7 @@ The God who first bound on in the beginning the deities' im- mortal golden castl
 </details>
 </details>
 </div>
+
 ## १२ आ त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/12_A_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -815,6 +827,7 @@ Aryaman be thy binder-on, and Pushan and Brihaspati: Whatever name the brood of 
 </details>
 </details>
 </div>
+
 ## १३ ऋतुभिष्ट्वार्तवैरायुषे वर्चसे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/13_RtubhiShTvArtavairAyuShe_varchase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -892,6 +905,7 @@ With Seasons and with Lengths of Time, for vigour and exten- ded life, With all 
 </details>
 </details>
 </div>
+
 ## १४ घृतादुल्लुप्तं मधुना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/14_ghRtAdulluptaM_madhunA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

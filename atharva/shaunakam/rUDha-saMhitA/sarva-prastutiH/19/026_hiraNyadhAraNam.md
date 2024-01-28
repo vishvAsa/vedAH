@@ -32,6 +32,7 @@ A hymn accompanying investiture with an amulet of gold
 </details>
 </details>
 </div>
+
 ## ०१ अग्नेः प्रजातम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/01_agneH_prajAtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ Gold that was born from Fire is immortal hath been deposited with mortal creatur
 </details>
 </details>
 </div>
+
 ## ०२ यद्धिरण्यं सूर्येण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/02_yaddhiraNyaM_sUryeNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,6 +173,7 @@ The men of ancient time with children round them longed for this Gold, bright wi
 </details>
 </details>
 </div>
+
 ## ०३ आयुषे त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/03_AyuShe_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -252,6 +255,7 @@ Long life and splendour let it bring energy and strength to thee. That thou mays
 </details>
 </details>
 </div>
+
 ## ०४ यद्वेद राजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/04_yadveda_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

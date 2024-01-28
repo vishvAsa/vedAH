@@ -28,6 +28,7 @@ Translated: Henry, 44, 122; Griffith, i. 382.
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्रस्य कुक्षिरसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/111_AtmA/01_indrasya_kuxirasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

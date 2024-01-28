@@ -32,6 +32,7 @@ A prayer for surpassing strength and energy
 </details>
 </details>
 </div>
+
 ## ०१ सिंहे व्याघ्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/01_siMhe_vyAghra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ What energy the lion hath, the tiger, adder, and burning fire, Brahman, or Surya
 </details>
 </details>
 </div>
+
 ## ०२ या हस्तिनि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/02_yA_hastini.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -144,6 +146,7 @@ All energy of elephant and panther, all energy of gold, men, kine, and waters, A
 </details>
 </details>
 </div>
+
 ## ०३ रथे अक्षेष्वृषभस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/03_rathe_axeShvRShabhasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -195,6 +198,7 @@ Might in car, axles, in the strong bull's courage, in Varuna's breath, in Vata, 
 </details>
 </details>
 </div>
+
 ## ०४ राजन्ये दुन्दुभावायतायामश्वस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/04_rAjanye_dundubhAvAyatAyAmashvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

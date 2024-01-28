@@ -28,6 +28,7 @@ A gambler's prayer for success in gaming
 </details>
 </details>
 </div>
+
 ## ०१ यथा वृक्षम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/01_yathA_vRxam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,6 +92,7 @@ As evermore the lightning flash strikes, irresistible, the tree, So, irresistibl
 </details>
 </details>
 </div>
+
 ## ०२ तुराणामतुराणां विशामवर्जुषीणाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/02_turANAmaturANAM_vishAmavarjuShINAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,6 +160,7 @@ From every side, from hale and sick, impotent to defend them- selves, May all th
 </details>
 </details>
 </div>
+
 ## ०३ ईडे अग्निम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/03_IDe_agnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -230,6 +233,7 @@ I pray to Agni, him who guards his treasure: here, won by homage, may he pile ou
 </details>
 </details>
 </div>
+
 ## ०४ वयं जयेम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/04_vayaM_jayema.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -295,6 +299,7 @@ With thee to aid us may we win the treasure: do thou assist our side in every ba
 </details>
 </details>
 </div>
+
 ## ०५ अजैषं त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/05_ajaiShaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -367,6 +372,7 @@ I have completely cleaned thee out, won from thee what thou keptest back. As a w
 </details>
 </details>
 </div>
+
 ## ०६ उत प्रहामतिदीवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/06_uta_prahAmatidIvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -439,6 +445,7 @@ Yea, by superior play one gains advantage: in time he piles his spoil as doth a 
 </details>
 </details>
 </div>
+
 ## ०७ गोभिष्टरेमामतिं दुरेवाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/07_gobhiShTaremAmatiM_durevAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -508,6 +515,7 @@ May we all, much-invoked! repel with cattle want that brings sin, hunger with st
 </details>
 </details>
 </div>
+
 ## ०८ कृतं मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/08_kRtaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -570,6 +578,7 @@ My right hand holds my winnings fast, and in my left is victory. I would that I 
 </details>
 </details>
 </div>
+
 ## ०९ अक्षाः फलवतीम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/09_axAH_phalavatIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

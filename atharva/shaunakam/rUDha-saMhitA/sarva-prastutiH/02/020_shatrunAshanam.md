@@ -16,6 +16,7 @@ This and the three following hymns are mechanical variations of the one next pre
 </details>
 </details>
 </div>
+
 ## ०१ वायो यत्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/01_vAyo_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -74,6 +75,7 @@ This and the three following hymns are mechanical variations of the one next pre
 </details>
 </details>
 </div>
+
 ## ०२ वायो यत्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/02_vAyo_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -128,6 +130,7 @@ This and the three following hymns are mechanical variations of the one next pre
 </details>
 </details>
 </div>
+
 ## ०३ वायो यत्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/03_vAyo_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -182,6 +185,7 @@ This and the three following hymns are mechanical variations of the one next pre
 </details>
 </details>
 </div>
+
 ## ०४ वायो यत्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/04_vAyo_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -236,6 +240,7 @@ This and the three following hymns are mechanical variations of the one next pre
 </details>
 </details>
 </div>
+
 ## ०५ वायो यत्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/05_vAyo_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

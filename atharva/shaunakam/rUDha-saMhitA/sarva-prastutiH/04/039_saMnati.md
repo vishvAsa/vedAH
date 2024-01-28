@@ -32,6 +32,7 @@ A prayer to various deities for health, wealth, and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ पृथिव्यामग्नये समनमन्त्स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/01_pRthivyAmagnaye_samanamantsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ Agni no earth kath had mine homage. May he bless me. As I have bowed me down to 
 </details>
 </details>
 </div>
+
 ## ०२ पृथिवी धेनुस्तस्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/02_pRthivI_dhenustasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ Earth is the Cow, her calf is Agni. May she with her calf Agni yield me food, st
 </details>
 </details>
 </div>
+
 ## ०३ अन्तरिक्षे वायवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/03_antarixe_vAyave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -229,6 +232,7 @@ Vayu in air hath had mine homage. May he bless me. As I have bowed me down to Va
 </details>
 </details>
 </div>
+
 ## ०४ अन्तरिक्षं धेनुस्तस्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/04_antarixaM_dhenustasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -293,6 +297,7 @@ Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, stre
 </details>
 </details>
 </div>
+
 ## ०५ दिव्यादित्याय समनमन्त्स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/05_divyAdityAya_samanamantsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -355,6 +360,7 @@ The Sun in heaven hath had my homage. May he bless me. As I have bowed me down u
 </details>
 </details>
 </div>
+
 ## ०६ द्यौर्धेनुस्तस्या आदित्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/06_dyaurdhenustasyA_Adityo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -418,6 +424,7 @@ Heaven is the Cow, her calf Aditya. May she yield with her calf the Sun food, st
 </details>
 </details>
 </div>
+
 ## ०७ दिक्षु चन्द्राय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/07_dixu_chandrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -482,6 +489,7 @@ To Chandra in the quarters have I bowed me. May he bless me. As unto Chandra in 
 </details>
 </details>
 </div>
+
 ## ०८ दिशो धेनवस्तासाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/08_disho_dhenavastAsAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -547,6 +555,7 @@ The quarters are the Cows, their calf is Chandra. May they yield with their calf
 </details>
 </details>
 </div>
+
 ## ०९ अग्नावग्निश्चरति प्रविष्ट
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/09_agnAvagnishcharati_praviShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -631,6 +640,7 @@ Agni moves having entered into Agni, the Rishis' son, who guards from imprecatio
 </details>
 </details>
 </div>
+
 ## १० हृदा पूतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/10_hRdA_pUtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

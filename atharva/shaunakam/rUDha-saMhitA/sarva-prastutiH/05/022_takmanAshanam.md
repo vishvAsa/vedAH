@@ -32,6 +32,7 @@ A charm against fever
 </details>
 </details>
 </div>
+
 ## ०१ अग्निस्तक्मानमप बाधतामितः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/01_agnistakmAnamapa_bAdhatAmitaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Hence, filled with holy strength let Agni, Soma, and Varuna, the Press-stone, an
 </details>
 </details>
 </div>
+
 ## ०२ अयं यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/02_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ And thou thyself who makest all men yellow, consuming them with burning heat lik
 </details>
 </details>
 </div>
+
 ## ०३ यः परुषः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/03_yaH_paruShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,6 +235,7 @@ Endowed with universal power! send Fever down-ward, far away, The spotty, like r
 </details>
 </details>
 </div>
+
 ## ०४ अधराञ्चं प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/04_adharAnchaM_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -297,6 +301,7 @@ When I have paid obeisance to Fever I send him downward forth. So let Sakambhara
 </details>
 </details>
 </div>
+
 ## ०५ ओको अस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/05_oko_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -366,6 +371,7 @@ His mansions are the Mujavans, and the Mahavrishas his home, Thou, Fever, ever s
 </details>
 </details>
 </div>
+
 ## ०६ तक्मन्व्याल वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/06_takmanvyAla_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -435,6 +441,7 @@ Fever, snake, limbless one, speak out! Keep thyself far away fi om us. Seek thou
 </details>
 </details>
 </div>
+
 ## ०७ तक्मन्मूजवतो गच्छ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/07_takmanmUjavato_gachCha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -498,6 +505,7 @@ Go, Fever, to the Mujavans, or, farther, to the Bahlikas. Seek a lascivious Sara
 </details>
 </details>
 </div>
+
 ## ०८ महावृषान्मूजवतो बन्ध्वद्धि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/08_mahAvRShAnmUjavato_bandhvaddhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -566,6 +574,7 @@ Go hence and eat thy kinsmen the Mahavrishas and Mujavans. These or those foreig
 </details>
 </details>
 </div>
+
 ## ०९ अन्यक्षेत्रे न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/09_anyaxetre_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -632,6 +641,7 @@ In a strange land thou joyest not; subdued, thou wilt be kind to us. Fever is ea
 </details>
 </details>
 </div>
+
 ## १० यत्त्वं शीतोऽथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/10_yattvaM_shIto-tho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -700,6 +710,7 @@ Since thou now cold, now burning hot, with cough besides, hast made us shake, Te
 </details>
 </details>
 </div>
+
 ## ११ मा स्मैतान्त्सखीन्कुरुथा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/11_mA_smaitAntsakhInkuruthA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -767,6 +778,7 @@ Take none of these to be thy friends, Cough, or Consumption or Decline: Never co
 </details>
 </details>
 </div>
+
 ## १२ तक्मन्भ्रात्रा बलासेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/12_takmanbhrAtrA_balAsena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -836,6 +848,7 @@ Go, Fever, with Consumption, thy brother, and with thy sister, Cough. And with t
 </details>
 </details>
 </div>
+
 ## १३ तृतीयकं वितृतीयम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/13_tRtIyakaM_vitRtIyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -902,6 +915,7 @@ Chase Fever whether cold or hot, brought by the summer or the rains, Tertian, in
 </details>
 </details>
 </div>
+
 ## १४ गन्धारिभ्यो मूजवद्भ्योऽङ्गेभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/14_gandhAribhyo_mUjavadbhyo-ngebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

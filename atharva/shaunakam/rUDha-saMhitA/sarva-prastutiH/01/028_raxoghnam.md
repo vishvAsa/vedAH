@@ -32,6 +32,7 @@ A prayer to Agni for the destruction of evil spirits
 </details>
 </details>
 </div>
+
 ## ०१ उप प्रागाद्देवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/01_upa_prAgAddevo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,6 +96,7 @@ God Agni hath come forth to us, fiend-slayer, chaser of disease, Burning the Yat
 </details>
 </details>
 </div>
+
 ## ०२ प्रति दह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/02_prati_daha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -157,6 +159,7 @@ Consume the Yatudhanas, God! meet the Kimidins with thy flame: Burn up the Yatud
 </details>
 </details>
 </div>
+
 ## ०३ या शशाप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/03_yA_shashApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,6 +231,7 @@ She who hath cursed us with a curse, or hath conceived a murderous sin; Or seize
 </details>
 </details>
 </div>
+
 ## ०४ पुत्रमत्तु यातुधानीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

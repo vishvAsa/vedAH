@@ -32,6 +32,7 @@ A Rishi's morning prayer
 </details>
 </details>
 </div>
+
 ## ०१ प्रातरग्निं प्रातरिन्द्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/01_prAtaragniM_prAtarindram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ Agni at dawn, and Indra we invoke at dawn, and Varuna and Mitra, and the Asvins 
 </details>
 </details>
 </div>
+
 ## ०२ प्रातर्जितं भगमुग्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/02_prAtarjitaM_bhagamugram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ We all strong Bhaga, conqueror in the morning, the son of Aditi, the great Dispo
 </details>
 </details>
 </div>
+
 ## ०३ भग प्रणेतर्भग
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/03_bhaga_praNetarbhaga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -225,6 +228,7 @@ Bhaga, our guide, Bhaga whose gifts are faithful, favour this hymn and give us w
 </details>
 </details>
 </div>
+
 ## ०४ उतेदानीं भगवन्तः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/04_utedAnIM_bhagavantaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -291,6 +295,7 @@ So may felicity be ours at present, and when the Sun advances, and at noontide; 
 </details>
 </details>
 </div>
+
 ## ०५ भग एव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/05_bhaga_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -356,6 +361,7 @@ May Bhaga verily be bliss-bestower, and through him, Gods! may happiness attend 
 </details>
 </details>
 </div>
+
 ## ०६ समध्वरायोषसो नमन्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/06_samadhvarAyoShaso_namanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -423,6 +429,7 @@ To this our sacrifice may the Dawns incline them, and come to the pure place lik
 </details>
 </details>
 </div>
+
 ## ०७ अश्वावतीर्गोमतीर्न उषासो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/07_ashvAvatIrgomatIrna_uShAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

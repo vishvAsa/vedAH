@@ -28,6 +28,7 @@ A prayer to Agni for protection
 </details>
 </details>
 </div>
+
 ## ०१ समास्त्वाग्न ऋतवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Half-years and seasons strengthen thee, O Agni, the years, and all the Verities,
 </details>
 </details>
 </div>
+
 ## ०२ सं चेध्यस्वाग्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ Kindle thee, Agni, and make this man prosper: rise up erect for high and happy f
 </details>
 </details>
 </div>
+
 ## ०३ त्वामग्ने वृणते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -230,6 +233,7 @@ These Brahmans have elected thee, O Agni: be thou propitious in our sacred chamb
 </details>
 </details>
 </div>
+
 ## ०४ क्षत्रेणाग्ने स्वेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -302,6 +306,7 @@ Seize, Agni, on thy power and firmly hold it: contend thou with the Friend by wa
 </details>
 </details>
 </div>
+
 ## ०५ अति निहो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/05_ati_niho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

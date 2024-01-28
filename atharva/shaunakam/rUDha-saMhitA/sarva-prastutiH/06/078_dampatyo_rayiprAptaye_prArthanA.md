@@ -32,6 +32,7 @@ A nuptial benediction
 </details>
 </details>
 </div>
+
 ## ०१ तेन भूतेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/01_tena_bhUtena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,6 +103,7 @@ Let this man be again bedewed with this presented sacrifice. And comfort with th
 </details>
 </details>
 </div>
+
 ## ०२ अभि वर्धताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/02_abhi_vardhatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,6 +173,7 @@ With life's sap let him comfort her, and raise her high with princely sway. In w
 </details>
 </details>
 </div>
+
 ## ०३ त्वष्टा जायामजनयत्त्वष्टास्यै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/03_tvaShTA_jAyAmajanayattvaShTAsyai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

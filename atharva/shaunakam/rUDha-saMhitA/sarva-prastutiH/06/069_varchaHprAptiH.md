@@ -28,6 +28,7 @@ A priest's prayer for power and glory
 </details>
 </details>
 </div>
+
 ## ०१ गिरावरगराटेषु हिरण्ये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/069_varchaHprAptiH/01_girAvaragarATeShu_hiraNye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Mine be the glory in the hill, in vales, in cattle, and in gold, Mine be the swe
 </details>
 </details>
 </div>
+
 ## ०२ अश्विना सारघेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/069_varchaHprAptiH/02_ashvinA_sAragheNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ With your delicious honey balm me, Asvins, Lords of splendid light! That clear a
 </details>
 </details>
 </div>
+
 ## ०३ मयि वर्चो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/069_varchaHprAptiH/03_mayi_varcho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

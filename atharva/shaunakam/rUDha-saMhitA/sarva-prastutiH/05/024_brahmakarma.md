@@ -32,6 +32,7 @@ A priest's prayer for protection and assistance
 </details>
 </details>
 </div>
+
 ## ०१ सविता प्रसवानामधिपतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/01_savitA_prasavAnAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -107,6 +108,7 @@ Savitar, Lord of furthering aids, protect me, in this my prayer, in this mine ac
 </details>
 </details>
 </div>
+
 ## ०२ अग्निर्वनस्पतीनामधिपतिः स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/02_agnirvanaspatInAmadhipatiH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ May Agni, Lord of forest trees, protect, me, in, etc.
 </details>
 </details>
 </div>
+
 ## ०३ द्यावापृथिवी दातॄणामधिपत्नी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/03_dyAvApRthivI_dAtRRNAmadhipatnI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -233,6 +236,7 @@ May Heaven and Earth, the Queens of bounties, save me.
 </details>
 </details>
 </div>
+
 ## ०४ वरुणोऽपामधिपतिः स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/04_varuNo-pAmadhipatiH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -294,6 +298,7 @@ May Varuna, the Lord of waters, save me.
 </details>
 </details>
 </div>
+
 ## ०५ मित्रावरुणौ वृष्ट्याधिपती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/05_mitrAvaruNau_vRShTyAdhipatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -356,6 +361,7 @@ May Mitra-Varuna, Lords of rain, preserve me.
 </details>
 </details>
 </div>
+
 ## ०६ मरुतः पर्वतानामधिपतयस्ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/06_marutaH_parvatAnAmadhipatayaste.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -417,6 +423,7 @@ Lords of the mountains, may the Maruts save me.
 </details>
 </details>
 </div>
+
 ## ०७ सोमो वीरुधामधिपतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/07_somo_vIrudhAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -478,6 +485,7 @@ May, Soma, Lord of plants and herbs, protect me.
 </details>
 </details>
 </div>
+
 ## ०८ वायुरन्तरिक्षस्याधिपतिः स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/08_vAyurantarixasyAdhipatiH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -538,6 +546,7 @@ May Vayu, Lord of middle air, protect me.
 </details>
 </details>
 </div>
+
 ## ०९ सूर्यश्चक्षुषामधिपतिः स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/09_sUryashchaxuShAmadhipatiH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -600,6 +609,7 @@ May Surya, sovran Lord of eyes, protect me.
 </details>
 </details>
 </div>
+
 ## १० चन्द्रमा नक्षत्राणामधिपतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/10_chandramA_naxatrANAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -661,6 +671,7 @@ May the Moon, Lord of constellations, save me.
 </details>
 </details>
 </div>
+
 ## ११ इन्द्रो दिवोऽधिपतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/11_indro_divo-dhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -722,6 +733,7 @@ May Indra who is Lord of heaven protect me.
 </details>
 </details>
 </div>
+
 ## १२ मरुतां पिता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/12_marutAM_pitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -784,6 +796,7 @@ The Maruts' father, Lord of cattle, save me.
 </details>
 </details>
 </div>
+
 ## १३ मृत्युः प्रजानामधिपतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/13_mRtyuH_prajAnAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -845,6 +858,7 @@ May Mrityu, Lord of living creatures, save me.
 </details>
 </details>
 </div>
+
 ## १४ यमः पितॄणामधिपतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/14_yamaH_pitRRNAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -910,6 +924,7 @@ May Yama, Regent of the Fathers, save me.
 </details>
 </details>
 </div>
+
 ## १५ पितरः परे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/15_pitaraH_pare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -969,6 +984,7 @@ May the Forefathers of old time protect me.
 </details>
 </details>
 </div>
+
 ## १६ तता अवरे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/16_tatA_avare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1028,6 +1044,7 @@ May Fathers of succeeding ages save me.
 </details>
 </details>
 </div>
+
 ## १७ ततस्ततामहास्ते मावन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/17_tatastatAmahAste_mAvantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

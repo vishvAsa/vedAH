@@ -28,6 +28,7 @@ Translated: Ludwig, p. 511; Griffith, i. 300; Bloomfield, 27, 511.—See also Be
 </details>
 </details>
 </div>
+
 ## ०१ देवा अदुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/01_devA_aduH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ The Gods and Surya gave the gift, the Earth and Heaven best- owed the boon. The 
 </details>
 </details>
 </div>
+
 ## ०२ यद्वो देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/02_yadvo_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ That water, Upajikas! which Gods poured for you on thirsty land, With that same 
 </details>
 </details>
 </div>
+
 ## ०३ असुराणां दुहितासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

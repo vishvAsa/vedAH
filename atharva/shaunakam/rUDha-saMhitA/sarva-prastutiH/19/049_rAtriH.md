@@ -32,6 +32,7 @@ A hymn of Praise and prayer to Night
 </details>
 </details>
 </div>
+
 ## ०१ इषिरा योषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/01_iShirA_yoShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -105,6 +106,7 @@ Friend of the home, the strong and youthful maiden, Night, dear to Savitar the G
 </details>
 </details>
 </div>
+
 ## ०२ अति विश्वान्यरुहद्गम्भीरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/02_ati_vishvAnyaruhadgambhIro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -233,6 +235,7 @@ Over all depths hath she gone up, and mounted, most mighty One, the sky's exalte
 </details>
 </details>
 </div>
+
 ## ०३ वर्ये वन्दे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/03_varye_vande.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -318,6 +321,7 @@ Excellent, high-born, blissful, meet for worship, Night, thou hast come: stay he
 </details>
 </details>
 </div>
+
 ## ०४ सिंहस्य रात्र्युशती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -395,6 +399,7 @@ With eager haste hath Night assumed the vigour of leopard,. tiger, or of tawny l
 </details>
 </details>
 </div>
+
 ## ०५ शिवां रात्रिमनुसूर्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/05_shivAM_rAtrimanusUryam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -471,6 +476,7 @@ Kind through the Night be absence of the sunshine: Mother of Frost, may she be s
 </details>
 </details>
 </div>
+
 ## ०६ स्तोमस्य नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/06_stomasya_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -536,6 +542,7 @@ Even as a King, O splendid Night, thou takest pleasure in our hymn. May we throu
 </details>
 </details>
 </div>
+
 ## ०७ शम्या ह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/07_shamyA_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -620,6 +627,7 @@ Yes, Ramya is the name thou hast assumed. The men who fain. would spoil. My weal
 </details>
 </details>
 </div>
+
 ## ०८ भद्रासि रात्रि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/08_bhadrAsi_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -713,6 +721,7 @@ Thou like a well-wrought cup, O Night, art lovely: thou, a. young maid, art form
 </details>
 </details>
 </div>
+
 ## ०९ यो अद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/09_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -784,6 +793,7 @@ Whatever robber comes to-day, mischievous mortal enemy. Let Night go forth, enco
 </details>
 </details>
 </div>
+
 ## १० प्र पादौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/10_pra_pAdau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

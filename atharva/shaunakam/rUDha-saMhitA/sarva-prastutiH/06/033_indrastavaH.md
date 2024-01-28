@@ -32,6 +32,7 @@ A prayer to Indra for riches
 </details>
 </details>
 </div>
+
 ## ०१ यस्येदमा रजो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/01_yasyedamA_rajo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ He who controls this air and men who aid his strength, and wood, and heaven, the
 </details>
 </details>
 </div>
+
 ## ०२ नाधृष आ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/02_nAdhRSha_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,6 +175,7 @@ The bold whose overpowering might the boldest never hath defied,-- As erst still
 </details>
 </details>
 </div>
+
 ## ०३ स नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/03_sa_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

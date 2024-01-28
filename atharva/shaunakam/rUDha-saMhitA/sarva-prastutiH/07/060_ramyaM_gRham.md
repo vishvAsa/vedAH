@@ -28,6 +28,7 @@ A parting traveller's address to the houses of his village
 </details>
 </details>
 </div>
+
 ## ०१ ऊर्जं बिभ्रद्वसुवनिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/01_UrjaM_bibhradvasuvaniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ I, prudent, bringing power, a treasure-winner, with amicable eye that strikes no
 </details>
 </details>
 </div>
+
 ## ०२ इमे गृहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/02_ime_gRhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ Let these delightful Houses that are rich in power and store of milk, Replete wi
 </details>
 </details>
 </div>
+
 ## ०३ येषामध्येति प्रवसन्येषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/03_yeShAmadhyeti_pravasanyeShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,6 +231,7 @@ These Houses we invoke, whereon the distant exile sets his thought, Wherein dwel
 </details>
 </details>
 </div>
+
 ## ०४ उपहूता भूरिधनाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/04_upahUtA_bhUridhanAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -292,6 +296,7 @@ Thus greeted, ye of ample wealth, friends who enjoy delightful sweets. Be ever f
 </details>
 </details>
 </div>
+
 ## ०५ उपहूता इह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/05_upahUtA_iha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -356,6 +361,7 @@ Kind greeting to the cattle here, kind greeting to the goats and sheep! Then, of
 </details>
 </details>
 </div>
+
 ## ०६ सूनृतावन्तः सुभगा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/06_sUnRtAvantaH_subhagA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -422,6 +428,7 @@ Full of refreshment, full of charms, of laughter and felicity, Be ever free from
 </details>
 </details>
 </div>
+
 ## ०७ इहैव स्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/07_ihaiva_sta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

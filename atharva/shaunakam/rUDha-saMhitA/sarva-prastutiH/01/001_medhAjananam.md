@@ -32,6 +32,7 @@ A prayer to Vachaspati for divine illumination and help.
 </details>
 </details>
 </div>
+
 ## ०१ ये त्रिषप्ताः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/01_ye_triShaptAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -122,6 +123,7 @@ Now may Vachaspati assign to me the strength and powers of Those Who, wearing ev
 </details>
 </details>
 </div>
+
 ## ०२ पुनरेहि वाचस्पते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/02_punarehi_vAchaspate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -188,6 +190,7 @@ Come thou again, Vachaspati, come with divine intelligence. Vasoshpati, repose t
 </details>
 </details>
 </div>
+
 ## ०३ इहैवाभि वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/03_ihaivAbhi_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -254,6 +257,7 @@ Here, even here, spread sheltering arms like the two bow-ends strained with cord
 </details>
 </details>
 </div>
+
 ## ०४ उपहूतो वाचस्पतिरुपास्मान्वाचस्पतिर्ह्वयताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/04_upahUto_vAchaspatirupAsmAnvAchaspatirhvayatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

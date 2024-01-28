@@ -28,6 +28,7 @@ A jealous wife's incantation against a rival
 </details>
 </details>
 </div>
+
 ## ०१ इमां खनाम्योषधिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/01_imAM_khanAmyoShadhim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,6 +95,7 @@ From out the earth I dig this Plant, and herb of most effectual power, Wherewith
 </details>
 </details>
 </div>
+
 ## ०२ उत्तानपर्णे सुभगे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/02_uttAnaparNe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ Auspicious, with expanded leaves, sent by the Gods, victorious Plant, Drive thou
 </details>
 </details>
 </div>
+
 ## ०३ नहि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/03_nahi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -234,6 +237,7 @@ Indeed he hath not named her name: thou with this husband dalliest not, Far into
 </details>
 </details>
 </div>
+
 ## ०४ उत्तराहमुत्तर उत्तरेदुत्तराभ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/04_uttarAhamuttara_uttareduttarAbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -302,6 +306,7 @@ Stronger am I, O stronger one, yea, mightier than the mightier; Beneath me be my
 </details>
 </details>
 </div>
+
 ## ०५ अहमस्मि सहमानाथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/05_ahamasmi_sahamAnAtho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -364,6 +369,7 @@ I am the conqueror, and thou, thou also art victorious: As victory attends us bo
 </details>
 </details>
 </div>
+
 ## ०६ अभि तेऽधाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/06_abhi_te-dhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

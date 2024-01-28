@@ -32,6 +32,7 @@ To Surya the Sun-God
 </details>
 </details>
 </div>
+
 ## ०१ आयं गौः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/031_gauH/01_AyaM_gauH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ This spotted Bull hath come and sat before his mother in the east. Advancing to 
 </details>
 </details>
 </div>
+
 ## ०२ अन्तश्चरति रोचना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/031_gauH/02_antashcharati_rochanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -174,6 +176,7 @@ As expiration from his breath his radiance penetrates within. The Bull shines ou
 </details>
 </details>
 </div>
+
 ## ०३ त्रिंशद्धामा वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/031_gauH/03_triMshaddhAmA_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -33,6 +33,7 @@ A priest's prayer for power and glory
 </details>
 </details>
 </div>
+
 ## ०१ यशो हविर्वर्धतामिन्द्रजूतम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/01_yasho_havirvardhatAmindrajUtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,6 +109,7 @@ Let sacrifice, like fame, thrive sped by Indra, inspired, well- ordered, with a 
 </details>
 </details>
 </div>
+
 ## ०२ अच्छा न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/02_achChA_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,6 +175,7 @@ We will pay sacrifice and serve with worship our glorious Indra, famous for his 
 </details>
 </details>
 </div>
+
 ## ०३ यशा इन्द्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/03_yashA_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

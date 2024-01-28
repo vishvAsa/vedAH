@@ -28,6 +28,7 @@ Accompanying the sacrifice of a he-goat
 </details>
 </details>
 </div>
+
 ## ०१ अजो ह्यग्नेरजनिष्ट
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/01_ajo_hyagnerajaniShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -106,6 +107,7 @@ The Goat was verily produced from Agni. Through sorrow he beheld, at first, his 
 </details>
 </details>
 </div>
+
 ## ०२ क्रमध्वमग्निना नाकमुख्यान्हस्तेषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/02_kramadhvamagninA_nAkamukhyAnhasteShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -175,6 +177,7 @@ Bearing in hands seethed viands, go with Agni to the cope of heaven. Reaching th
 </details>
 </details>
 </div>
+
 ## ०३ पृष्ठात्पृथिव्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/03_pRShThAtpRthivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -243,6 +246,7 @@ From earth's high ridge to middle air I mounted, and from mid- air ascended up t
 </details>
 </details>
 </div>
+
 ## ०४ स्वर्यन्तो नापेक्षन्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/04_svaryanto_nApexanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -308,6 +312,7 @@ Mounting the sky they look not round; they rise to heaven through both the world
 </details>
 </details>
 </div>
+
 ## ०५ अग्ने प्रेहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/05_agne_prehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -375,6 +380,7 @@ First among all the deities, come forward, thou who art eye of Gods and men, O A
 </details>
 </details>
 </div>
+
 ## ०६ अजमनज्मि पयसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/06_ajamanajmi_payasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -450,6 +456,7 @@ With milk and butter I anoint the mighty, celestial Goat, strong- winged, and fu
 </details>
 </details>
 </div>
+
 ## ०७ पञ्चौदनं पञ्चभिरङ्गुलिभिर्दर्व्योद्धर
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/07_panchaudanaM_panchabhirangulibhirdarvyoddhara.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -522,6 +529,7 @@ Set the Goat's head toward the eastern region, and turn his right side to the so
 </details>
 </details>
 </div>
+
 ## ०८ प्रतीच्यां दिशि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/08_pratIchyAM_dishi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -591,6 +599,7 @@ Set the Goat's backbone upmost in the zenith, and lay his belly downward in the 
 </details>
 </details>
 </div>
+
 ## ०९ शृतमजं शृतया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/09_shRtamajaM_shRtayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

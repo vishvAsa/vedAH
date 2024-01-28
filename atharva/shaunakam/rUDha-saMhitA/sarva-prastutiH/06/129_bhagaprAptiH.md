@@ -28,6 +28,7 @@ Translated: Griffith, i. 317.—The association of this hymn with 139 seems to i
 </details>
 </details>
 </div>
+
 ## ०१ भगेन मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/129_bhagaprAptiH/01_bhagena_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,6 +98,7 @@ With fortune of the Sisu tree--with Indra as my friend to aid I give myself a ha
 </details>
 </details>
 </div>
+
 ## ०२ येन वृक्षाँ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/129_bhagaprAptiH/02_yena_vRxA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,6 +161,7 @@ That splendour and felicity wherewith thou hast excelled the trees Give me there
 </details>
 </details>
 </div>
+
 ## ०३ यो अन्धो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/129_bhagaprAptiH/03_yo_andho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

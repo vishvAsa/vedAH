@@ -28,6 +28,7 @@ Translated: Ludwig, p. 512; Zimmer, p. 68; Grill, 50, 176; Griffith, i. 321; Blo
 </details>
 </details>
 </div>
+
 ## ०१ यां जमदग्निरखनद्दुहित्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/01_yAM_jamadagnirakhanadduhitre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,6 +92,7 @@ The Plant which Jamadagni dug to make his daughter's locks. grow long, This same
 </details>
 </details>
 </div>
+
 ## ०२ अभीशुना मेया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/02_abhIshunA_meyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -157,6 +159,7 @@ They might be measured with a rein, meted with both extended arms. Let the black
 </details>
 </details>
 </div>
+
 ## ०३ दृंह मूलमाग्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/03_dRMha_mUlamAgram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

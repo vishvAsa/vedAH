@@ -35,6 +35,7 @@ A prayer for the destruction of demons
 </details>
 </details>
 </div>
+
 ## ०१ रक्षोहणं वाजिनमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/01_raxohaNaM_vAjinamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ I balm with oil the mighty demon-slayer, to the most famous friend I come for sh
 </details>
 </details>
 </div>
+
 ## ०२ अयोदंष्ट्रो अर्चिषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/02_ayodaMShTro_archiShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ O Jatavedas, armed with teeth of iron, enkindled with thy flame, attack the demo
 </details>
 </details>
 </div>
+
 ## ०३ उभोभयाविन्नुप धेहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/03_ubhobhayAvinnupa_dhehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,6 +231,7 @@ Apply thy teeth, the upper and the lower, thou who hast both, enkindled and dest
 </details>
 </details>
 </div>
+
 ## ०४ अग्ने त्वचम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/04_agne_tvacham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -293,6 +297,7 @@ Pierce through the Yatudhana's skin, O Agni; let the destroying dart with fire c
 </details>
 </details>
 </div>
+
 ## ०५ यत्रेदानीं पश्यसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/05_yatredAnIM_pashyasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -357,6 +362,7 @@ Where now thou seest, Agni Jatavedas! a Yatudhana, standing still or roaming. Or
 </details>
 </details>
 </div>
+
 ## ०६ यज्ञैरिषूः सन्नममानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/06_yajnairiShUH_sannamamAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -420,6 +426,7 @@ Bending thy shafts through sacrifices, Agni! dipping thine arrows in the hymn to
 </details>
 </details>
 </div>
+
 ## ०७ उतारब्धान्त्स्पृणुहि जातवेद
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/07_utArabdhAntspRNuhi_jAtaveda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -497,6 +504,7 @@ Rescue the captives also, Jatavedas! yea, those whom Yatudha- nas' spears have c
 </details>
 </details>
 </div>
+
 ## ०८ इह प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/08_iha_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -562,6 +570,7 @@ Here tell this forth, O Agni: whosoever is, he himself, or acteth as, a demon, G
 </details>
 </details>
 </div>
+
 ## ०९ तीक्ष्णेनाग्ने चक्षुषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/09_tIxNenAgne_chaxuShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -631,6 +640,7 @@ With keen glance guard the sacrifice, O Agni: thou Sage, con- duct it onward to 
 </details>
 </details>
 </div>
+
 ## १० नृचक्षा रक्षः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/10_nRchaxA_raxaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -694,6 +704,7 @@ Look on the fiend, 'mid men, as Man-Beholder: rend thou his three extremities in
 </details>
 </details>
 </div>
+
 ## ११ त्रिर्यातुधानः प्रसितिम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/11_triryAtudhAnaH_prasitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -766,6 +777,7 @@ Thrice, Agni, let thy noose surround the demon who with his falsehood injures ho
 </details>
 </details>
 </div>
+
 ## १२ यदग्ने अद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/12_yadagne_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -835,6 +847,7 @@ Agni, what curse the pair this day may utter, what rude rough word the worshippe
 </details>
 </details>
 </div>
+
 ## १३ परा शृणीहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/13_parA_shRNIhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -899,6 +912,7 @@ With fervent heat exterminate the demons: destroy the fiends with glow and flame
 </details>
 </details>
 </div>
+
 ## १४ पराद्य देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/14_parAdya_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -965,6 +979,7 @@ May Gods destroy to-day the evil-doer: may uttered curses turn again and strike 
 </details>
 </details>
 </div>
+
 ## १५ यः पौरुषेयेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/15_yaH_pauruSheyeNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1028,6 +1043,7 @@ The fiend who smears himself with flesh of cattle, with flesh of horses and of h
 </details>
 </details>
 </div>
+
 ## १६ विषं गवाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/16_viShaM_gavAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1095,6 +1111,7 @@ Let the fiends steal the poison of the cattle: may Aditi cast off the evil-doers
 </details>
 </details>
 </div>
+
 ## १७ संवत्सरीणं पय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/17_saMvatsarINaM_paya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1161,6 +1178,7 @@ The cow gives milk each year, O Man-Beholder: let not the Yatudhana ever taste i
 </details>
 </details>
 </div>
+
 ## १८ सनादग्ने मृणसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/18_sanAdagne_mRNasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1230,6 +1248,7 @@ Agni, from days of old thou slayest demons: never have Rakshasas in fight o'erco
 </details>
 </details>
 </div>
+
 ## १९ त्वं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/19_tvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1295,6 +1314,7 @@ Guard us, O Agni, from above and under, protect us from be- hind and from before
 </details>
 </details>
 </div>
+
 ## २० पश्चात्पुरस्तादधरादुतोत्तरात्कविः काव्येन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/20_pashchAtpurastAdadharAdutottarAtkaviH_kAvyena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1361,6 +1381,7 @@ From rear, from front, from under, from above us, Agni, pro- tect us as a sage w
 </details>
 </details>
 </div>
+
 ## २१ तदग्ने चक्षुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/21_tadagne_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1432,6 +1453,7 @@ Lend thou the worshipper that eye, O Agni, where with thou lookest on the hoof-a
 </details>
 </details>
 </div>
+
 ## २२ परि त्वाग्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/22_pari_tvAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1505,6 +1527,7 @@ We set thee round us as a fort, victorious Agni! thee, a sage, In conquering col
 </details>
 </details>
 </div>
+
 ## २३ विषेण भङ्गुरावतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/23_viSheNa_bhangurAvataH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1571,6 +1594,7 @@ With deadly poison strike thou back the treacherous brood of Rakshasas, O Agni, 
 </details>
 </details>
 </div>
+
 ## २४ वि ज्योतिषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/24_vi_jyotiShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1639,6 +1663,7 @@ Agni shines far and wide with lofty splendour, and by his great- ness makes all 
 </details>
 </details>
 </div>
+
 ## २५ ये ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/25_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1712,6 +1737,7 @@ Thy two unwasting horns, O Jatavedas, keen-pointed weapons, sharpened by devotio
 </details>
 </details>
 </div>
+
 ## २६ अग्नी रक्षांसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/003_shatrunAshanam/26_agnI_raxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

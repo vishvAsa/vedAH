@@ -32,6 +32,7 @@ A charm for offspring and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ सिनीवालि पृथुष्टुके
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/046_sinIvAlI/01_sinIvAli_pRthuShTuke.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ O broad-tressed Sinivali, thou who art the sister of the Gods, Accept the offere
 </details>
 </details>
 </div>
+
 ## ०२ या सुबाहुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/046_sinIvAlI/02_yA_subAhuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,6 +166,7 @@ Present the sacrifice to her, to Sinivali, Queen of men, Beauti- ful-fingered, l
 </details>
 </details>
 </div>
+
 ## ०३ या विश्पत्नीन्द्रमसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/046_sinIvAlI/03_yA_vishpatnIndramasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

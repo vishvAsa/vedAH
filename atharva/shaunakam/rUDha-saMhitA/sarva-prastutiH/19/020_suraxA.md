@@ -32,6 +32,7 @@ A prayer for protection from death and misfortune
 </details>
 </details>
 </div>
+
 ## ०१ अप न्यधुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/01_apa_nyadhuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -109,6 +110,7 @@ May Soma, Varuna the King, both Asvins, Yama and Pushan guard us well from Mrity
 </details>
 </details>
 </div>
+
 ## ०२ यानि चकार
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/02_yAni_chakAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -178,6 +180,7 @@ All that the World's Lord made, all that for creatures Prajapati and Matarisvan 
 </details>
 </details>
 </div>
+
 ## ०३ यत्ते तनूष्वनह्यन्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/03_yatte_tanUShvanahyanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -257,6 +260,7 @@ That which the Gods bound on them when they battled for their royal sway. What I
 </details>
 </details>
 </div>
+
 ## ०४ वर्म मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/04_varma_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

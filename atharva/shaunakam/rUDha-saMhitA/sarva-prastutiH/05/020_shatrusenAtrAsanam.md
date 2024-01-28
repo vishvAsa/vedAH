@@ -32,6 +32,7 @@ A hymn to the War-drum to secure victory
 </details>
 </details>
 </div>
+
 ## ०१ उच्चैर्घोषो दुन्दुभिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/01_uchchairghoSho_dundubhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -109,6 +110,7 @@ Formed out of wood, compact with straps of leather, loud is the: War-drum as he 
 </details>
 </details>
 </div>
+
 ## ०२ सिंह इवास्तानीद्द्रुवयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/02_siMha_ivAstAnIddruvayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -181,6 +183,7 @@ The fastened frame hath roared as 'twere a lion, like a bull bel- lowing to meet
 </details>
 </details>
 </div>
+
 ## ०३ वृषेव यूथे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/03_vRSheva_yUthe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -247,6 +250,7 @@ Like a bull marked by strength among the cattle, roar seeking kine and gathering
 </details>
 </details>
 </div>
+
 ## ०४ सञ्जयन्पृतना ऊर्ध्वमायुर्गृह्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/04_sanjayanpRtanA_UrdhvamAyurgRhyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -315,6 +319,7 @@ Victorious in the battle, loudly roaring, seizing what may be seized, look all a
 </details>
 </details>
 </div>
+
 ## ०५ दुन्दुभेर्वाचं प्रयताम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/05_dundubhervAchaM_prayatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -378,6 +383,7 @@ Hearing the Drum's far-reaching voice resounding, let the foe's dame, waked by t
 </details>
 </details>
 </div>
+
 ## ०६ पूर्वो दुन्दुभे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/06_pUrvo_dundubhe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -449,6 +455,7 @@ Thou, first of all, O Drum, thy voice shalt utter: over the ridge of earth speak
 </details>
 </details>
 </div>
+
 ## ०७ अन्तरेमे नभसी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/07_antareme_nabhasI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -515,6 +522,7 @@ Loud be thy roar between the earth and heaven. Swift let thy sounds go forth in 
 </details>
 </details>
 </div>
+
 ## ०८ धीभिः कृतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/08_dhIbhiH_kRtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -580,6 +588,7 @@ He shall send forth his voice whom art hath fashioned. Make thou the weapons of 
 </details>
 </details>
 </div>
+
 ## ०९ सङ्क्रन्दनः प्रवदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/09_sankrandanaH_pravado.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -646,6 +655,7 @@ Resonant, roaring, with thy powerful weapons, warning, and heard by troops in ma
 </details>
 </details>
 </div>
+
 ## १० श्रेयःकेतो वसुजित्सहीयान्त्सङ्ग्रामजित्संशितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/10_shreyaHketo_vasujitsahIyAntsangrAmajitsaMshito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -717,6 +727,7 @@ Bent on advantage, mightier, gaining treasures, victor in war, the spell hath ma
 </details>
 </details>
 </div>
+
 ## ११ शत्रूषाण्नीषाडभिमातिषाहो गवेषणः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/11_shatrUShANnIShADabhimAtiShAho_gaveShaNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -784,6 +795,7 @@ Foe-conqueror, victor, vanquishing opponents, seeker of booty, mastering, destro
 </details>
 </details>
 </div>
+
 ## १२ अच्युतच्युत्समदो गमिष्ठो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/12_achyutachyutsamado_gamiShTho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

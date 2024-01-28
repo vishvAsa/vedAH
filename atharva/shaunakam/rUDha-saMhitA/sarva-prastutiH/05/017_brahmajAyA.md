@@ -28,6 +28,7 @@ The abduction and restoration of a Brahman's wife
 </details>
 </details>
 </div>
+
 ## ०१ तेऽवदन्प्रथमा ब्रह्मकिल्बिषेऽकूपारः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/01_te-vadanprathamA_brahmakilbiShe-kUpAraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,6 +94,7 @@ These first, the boundless Sea, and Matarisvan, fierce glowing Fire, the Strong,
 </details>
 </details>
 </div>
+
 ## ०२ सोमो राजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/02_somo_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -157,6 +159,7 @@ King Soma first of all, without reluctance, made restitution of the Brahman's co
 </details>
 </details>
 </div>
+
 ## ०३ हस्तेनैव ग्राह्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/03_hastenaiva_grAhya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,6 +231,7 @@ The man, her pledge, must by the hand be taken when he hath cried, She is a Brah
 </details>
 </details>
 </div>
+
 ## ०४ यामाहुस्तारकैषा विकेशीति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/04_yAmAhustArakaiShA_vikeshIti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -295,6 +299,7 @@ She whom they call the star with loosened tresses, descending as. misfortune on 
 </details>
 </details>
 </div>
+
 ## ०५ ब्रह्मचारी चरति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/05_brahmachArI_charati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -359,6 +364,7 @@ Active in duty serves the Brahmachari: he is a member of the Gods' own body. Thr
 </details>
 </details>
 </div>
+
 ## ०६ देवा वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/06_devA_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -434,6 +440,7 @@ Thus spake of her those Gods of old, Seven Rishis, who sate them down to their a
 </details>
 </details>
 </div>
+
 ## ०७ ये गर्भा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/07_ye_garbhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -499,6 +506,7 @@ When infants die, untimely born, when herds of cattle waste away, When heroes st
 </details>
 </details>
 </div>
+
 ## ०८ उत यत्पतयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/08_uta_yatpatayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -561,6 +569,7 @@ Even if ten former husbands--none a Brahman--had espoused a dame, And then a Bra
 </details>
 </details>
 </div>
+
 ## ०९ ब्राह्मण एव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/09_brAhmaNa_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -625,6 +634,7 @@ Not Vaisya, not Rajanya, no, the Brahman is indeed her lord: This Surya in his c
 </details>
 </details>
 </div>
+
 ## १० पुनर्वै देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/10_punarvai_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -688,6 +698,7 @@ So then the Gods restored her, so men gave the woman back again. Princes who kep
 </details>
 </details>
 </div>
+
 ## ११ पुनर्दाय ब्रह्मजायाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/11_punardAya_brahmajAyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -751,6 +762,7 @@ Having restored the Brahman's wife, and freed them, with Gods' aid, from sin, Th
 </details>
 </details>
 </div>
+
 ## १२ नास्य जाया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/12_nAsya_jAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -814,6 +826,7 @@ No lovely wife who brings her dower in hundreds rests upon his bed, Within whose
 </details>
 </details>
 </div>
+
 ## १३ न विकर्णः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/13_na_vikarNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -875,6 +888,7 @@ No broad-browed calf with wide-set ears is ever in his homestead born. Within wh
 </details>
 </details>
 </div>
+
 ## १४ नास्य क्षत्ता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/14_nAsya_xattA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -937,6 +951,7 @@ No steward, golden-necklaced, goes before the meat-trays of the man. Within whos
 </details>
 </details>
 </div>
+
 ## १५ नास्य श्वेतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/15_nAsya_shvetaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -997,6 +1012,7 @@ No black-eared courser, white of hue, moves proudly, harnessed to his car, In wh
 </details>
 </details>
 </div>
+
 ## १६ नास्य क्षेत्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/16_nAsya_xetre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1059,6 +1075,7 @@ No lily grows with oval bulbs, no lotus-pool is in his field, In whose dominion 
 </details>
 </details>
 </div>
+
 ## १७ नास्मै पृश्निम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/17_nAsmai_pRshnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1120,6 +1137,7 @@ The men whose task it is to milk drain not the brindled cow for him, In whose do
 </details>
 </details>
 </div>
+
 ## १८ नास्य धेनुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/18_nAsya_dhenuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

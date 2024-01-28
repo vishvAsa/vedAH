@@ -32,6 +32,7 @@ A prayer, with sacrifice, for long life and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ उत्तिष्ठ ब्रह्मणस्पते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/063_Ayurvardhanam/01_uttiShTha_brahmaNaspate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

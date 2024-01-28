@@ -28,6 +28,7 @@ Translated: Griffith, i. 474.—Cf. iv. 4; vi. 72.
 </details>
 </details>
 </div>
+
 ## ०१ आ वृषायस्व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/101_vAjIkaraNam/01_A_vRShAyasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,6 +94,7 @@ Taurum age, palpita, incresce et teipsum extende: per totum membrum increscat pe
 </details>
 </details>
 </div>
+
 ## ०२ येन कृषम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/101_vAjIkaraNam/02_yena_kRSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -162,6 +164,7 @@ Quo debilem stimulant, quo aegrum excitant (homines), hoc, O Brahmanaspatis, huj
 </details>
 </details>
 </div>
+
 ## ०३ आहं तनोमि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/101_vAjIkaraNam/03_AhaM_tanomi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

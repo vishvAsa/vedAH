@@ -28,6 +28,7 @@ Translated: Ludwig, p. 518; Griffith, i. 302.
 </details>
 </details>
 </div>
+
 ## ०१ आदानेन सन्दानेनामित्राना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/01_AdAnena_sandAnenAmitrAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,6 +94,7 @@ We bind our foemen with a bond that binds them close and holds them fast. Their 
 </details>
 </details>
 </div>
+
 ## ०२ इदमादानमकरं तपसेन्द्रेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -155,6 +157,7 @@ This bond, made keen by Indra, I have formed with heat of holy zeal. Securely bi
 </details>
 </details>
 </div>
+
 ## ०३ ऐनान्द्यतामिन्द्राग्नी सोमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/03_ainAndyatAmindrAgnI_somo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

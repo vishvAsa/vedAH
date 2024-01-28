@@ -32,6 +32,7 @@ A charm against venomous serpents
 </details>
 </details>
 </div>
+
 ## ०१ परि द्यामिव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/01_pari_dyAmiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ I, As the Sun goes round the heaven, have travelled round the Serpents' race. I 
 </details>
 </details>
 </div>
+
 ## ०२ यद्ब्रह्मभिर्यदृषिभिर्यद्देवैर्विदितं पुरा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,6 +167,7 @@ With this, discovered in the days of old by Brahmans, Rishis, Gods, With this I 
 </details>
 </details>
 </div>
+
 ## ०३ मध्वा पृञ्चे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

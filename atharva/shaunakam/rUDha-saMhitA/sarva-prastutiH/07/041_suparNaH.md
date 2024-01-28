@@ -32,6 +32,7 @@ A prayer for prosperity
 </details>
 </details>
 </div>
+
 ## ०१ अति धन्वान्यत्यपस्ततर्द
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/041_suparNaH/01_ati_dhanvAnyatyapastatarda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ Observing men, and viewing home, the Falcon hath cleft his swift way over wastes
 </details>
 </details>
 </div>
+
 ## ०२ श्येनो नृचक्षा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/041_suparNaH/02_shyeno_nRchaxA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

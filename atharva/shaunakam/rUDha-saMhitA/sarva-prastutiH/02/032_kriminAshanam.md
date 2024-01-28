@@ -35,6 +35,7 @@ A charm against worms or bots in cows
 </details>
 </details>
 </div>
+
 ## ०१ उद्यन्नादित्यः क्रिमीन्हन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/032_kriminAshanam/01_udyannAdityaH_krimInhantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,6 +104,7 @@ Uprising let the Sun destroy, and when he sinketh, with his beams. The Worms tha
 </details>
 </details>
 </div>
+
 ## ०२ विश्वरूपं चतुरक्षम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/032_kriminAshanam/02_vishvarUpaM_chaturaxam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -167,6 +169,7 @@ The four-eyed worm, of every shape, the variegated, and the white I break and cr
 </details>
 </details>
 </div>
+
 ## ०३ अत्रिवद्वः क्रिमयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/032_kriminAshanam/03_atrivadvaH_krimayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -234,6 +237,7 @@ Like Atri I destroy you, Worms! in Kanva's, Jamadagni's way: I bray and bruise t
 </details>
 </details>
 </div>
+
 ## ०४ हतो राजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/032_kriminAshanam/04_hato_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -300,6 +304,7 @@ Slain is the sovran of these Worms, yea, their controlling lord is slain: Slain 
 </details>
 </details>
 </div>
+
 ## ०५ हतासो अस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/032_kriminAshanam/05_hatAso_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -370,6 +375,7 @@ Slain are his ministers, and slain his followers and retinue: Yes, those that se
 </details>
 </details>
 </div>
+
 ## ०६ प्र ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/032_kriminAshanam/06_pra_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

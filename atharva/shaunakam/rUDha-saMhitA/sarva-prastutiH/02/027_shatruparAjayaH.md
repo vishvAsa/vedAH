@@ -32,6 +32,7 @@ A charm against an opponent in debate
 </details>
 </details>
 </div>
+
 ## ०१ नेच्छत्रुः प्राशम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/01_nechChatruH_prAsham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,6 +105,7 @@ Let not the enemy win the cause! Strong and predominant art thou. Refute mine ad
 </details>
 </details>
 </div>
+
 ## ०२ सुपर्णस्त्वान्वविन्दत्सूकरस्त्वाखनन्नसा प्राशम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/02_suparNastvAnvavindatsUkarastvAkhanannasA_prAsha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -168,6 +170,7 @@ The strong-winged bird discovered thee, the boar unearthed thee with his snout. 
 </details>
 </details>
 </div>
+
 ## ०३ इन्द्रो ह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/03_indro_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,6 +235,7 @@ Yea, Indra laid thee on his arm, to cast the Asuras to the ground. Refute mine a
 </details>
 </details>
 </div>
+
 ## ०४ पाटामिन्द्रो व्याश्नादसुरेभ्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/04_pATAmindro_vyAshnAdasurebhya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -307,6 +311,7 @@ Indra devoured the Pata plant that he might lay the Asuras low. Refute mine adve
 </details>
 </details>
 </div>
+
 ## ०५ तयाहं शत्रून्त्साक्ष
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/05_tayAhaM_shatrUntsAxa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -379,6 +384,7 @@ With this I overcome my foes as Indra overcame the wolves. Refute mine adversary
 </details>
 </details>
 </div>
+
 ## ०६ रुद्र जलाषभेषज
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/06_rudra_jalAShabheShaja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -445,6 +451,7 @@ O Rudra, Lord of Healing Balms, dark-crested, skilful in thy work!-- Refute mine
 </details>
 </details>
 </div>
+
 ## ०७ तस्य प्राशम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/07_tasya_prAsham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

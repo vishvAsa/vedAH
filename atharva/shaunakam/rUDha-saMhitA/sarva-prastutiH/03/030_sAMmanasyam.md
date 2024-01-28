@@ -28,6 +28,7 @@ On the means to obtain immunity from taxation in the next world
 </details>
 </details>
 </div>
+
 ## ०१ सहृदयं साम्मनस्यमविद्वेषम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/01_sahRdayaM_sAmmanasyamavidveSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,6 +93,7 @@ Freedom from hate I bring to you, concord and unanimity. Love one another as the
 </details>
 </details>
 </div>
+
 ## ०२ अनुव्रतः पितुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,6 +160,7 @@ One-minded with his mother let the son be loyal to his sire. Let the wife, calm 
 </details>
 </details>
 </div>
+
 ## ०३ मा भ्राता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/03_mA_bhrAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -221,6 +224,7 @@ No brother hate his brother, no sister to sister be unkind. Unanimous, with one 
 </details>
 </details>
 </div>
+
 ## ०४ येन देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/04_yena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -285,6 +289,7 @@ That spell through which Gods sever not, nor ever bear each other hate, That spe
 </details>
 </details>
 </div>
+
 ## ०५ ज्यायस्वन्तश्चित्तिनो मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -360,6 +365,7 @@ Intelligent, submissive, rest united, friendly and kind, bearing the yoke togeth
 </details>
 </details>
 </div>
+
 ## ०६ समानी प्रपा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/06_samAnI_prapA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -426,6 +432,7 @@ Let what you drink, your share of food be common together, with one common bond 
 </details>
 </details>
 </div>
+
 ## ०७ सध्रीचीनान्वः सम्मनसस्कृणोम्येकश्नुष्टीन्त्संवननेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/07_sadhrIchInAnvaH_sammanasaskRNomyekashnuShTIntsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

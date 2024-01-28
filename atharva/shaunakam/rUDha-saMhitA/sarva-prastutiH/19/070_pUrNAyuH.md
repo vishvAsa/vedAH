@@ -32,6 +32,7 @@ A charm for long life
 </details>
 </details>
 </div>
+
 ## ०१ इन्द्र जीव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/070_pUrNAyuH/01_indra_jIva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

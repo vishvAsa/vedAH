@@ -35,6 +35,7 @@ A prayer for protection and prosperity
 </details>
 </details>
 </div>
+
 ## ०१ ब्रह्म जज्ञानम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/01_brahma_jajnAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,6 +99,7 @@ Eastward at first the prayer was generated: Vena disclosed bright flashes from t
 </details>
 </details>
 </div>
+
 ## ०२ अनाप्ता ये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/02_anAptA_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ None have attained to those of old, those who wrought holy acts for you, Let the
 </details>
 </details>
 </div>
+
 ## ०३ सहस्रधार एव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/03_sahasradhAra_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,6 +229,7 @@ Sweet-tongued, exhaustless, they have sent their voices down together in heaven'
 </details>
 </details>
 </div>
+
 ## ०४ पर्यु षु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/04_paryu_Shu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -303,6 +307,7 @@ Speed forward, conquering all foes, to win the spoil, Thou comest on thy haters 
 </details>
 </details>
 </div>
+
 ## ०५ न्वेतेनारात्सीरसौ स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/05_nvetenArAtsIrasau_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -376,6 +381,7 @@ Through this now hast thou sent thy gifts. All hail! With sharpened arms and mis
 </details>
 </details>
 </div>
+
 ## ०६ अवैतेनारात्सीरसौ स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/06_avaitenArAtsIrasau_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -436,6 +442,7 @@ Through this hast thou been left in want. All hail! With sharpened arms and miss
 </details>
 </details>
 </div>
+
 ## ०७ अपैतेनारात्सीरसौ स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/07_apaitenArAtsIrasau_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -498,6 +505,7 @@ Through this hast thou committed faults. All hail! With sharpened arms and missi
 </details>
 </details>
 </div>
+
 ## ०८ मुमुक्तमस्मान्दुरितादवद्याज्जुषेथाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/08_mumuktamasmAnduritAdavadyAjjuShethAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -558,6 +566,7 @@ Free us from trouble, free us from dishonour, accept our wor- ship, give us life
 </details>
 </details>
 </div>
+
 ## ०९ चक्षुषो हेते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/09_chaxuSho_hete.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -624,6 +633,7 @@ O missile of the eye, missile of spirit, thou missile of devotion and of fervour
 </details>
 </details>
 </div>
+
 ## १० योस्मांश्चक्षुषा मनसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/10_yosmAMshchaxuShA_manasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -694,6 +704,7 @@ Make with thy weapon weaponless, O Agni, all wicked men who deal with us as foem
 </details>
 </details>
 </div>
+
 ## ११ इन्द्रस्य गृहोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/11_indrasya_gRho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -756,6 +767,7 @@ Thou art the house of Indra. I betake me to thee, I enter thee with all my cattl
 </details>
 </details>
 </div>
+
 ## १२ इन्द्रस्य शर्मासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/12_indrasya_sharmAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -815,6 +827,7 @@ Thou art the guard of Indra. I betake me to thee, etc.
 </details>
 </details>
 </div>
+
 ## १३ इन्द्रस्य वर्मासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/13_indrasya_varmAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -874,6 +887,7 @@ Thou art the shield of Indra. I betake me to thee, etc.
 </details>
 </details>
 </div>
+
 ## १४ इन्द्रस्य वरूथमसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/14_indrasya_varUthamasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

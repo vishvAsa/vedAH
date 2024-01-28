@@ -32,6 +32,7 @@ A charm to be used at venesection
 </details>
 </details>
 </div>
+
 ## ०१ अमूर्या यन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/01_amUryA_yanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ Those maidens there, the veins, who run their course in robes of ruddy hue, Must
 </details>
 </details>
 </div>
+
 ## ०२ तिष्ठावरे तिष्ठ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/02_tiShThAvare_tiShTha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,6 +163,7 @@ Stay still, thou upper vein, stay still, thou lower, stay, thou midmost one, The
 </details>
 </details>
 </div>
+
 ## ०३ शतस्य धमनीनाम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/03_shatasya_dhamanInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -224,6 +227,7 @@ Among a thousand vessels charged with blood, among a thousand veins, Even these 
 </details>
 </details>
 </div>
+
 ## ०४ परि वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/04_pari_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

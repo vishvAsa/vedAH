@@ -28,6 +28,7 @@ Translated: Ludwig, p. 509; Zimmer, p. 389; Griffith, i. 305; Bloomfield, 21, 51
 </details>
 </details>
 </div>
+
 ## ०१ पिप्पली क्षिप्तभेषज्युतातिविद्धभेषजी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods
 </details>
 </details>
 </div>
+
 ## ०२ पिप्पल्यः समवदन्तायतीर्जननादधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,6 +174,7 @@ When from their origin they came, the Berries spake among themselves: The man wh
 </details>
 </details>
 </div>
+
 ## ०३ असुरास्त्वा न्यखनन्देवास्त्वोदवपन्पुनः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

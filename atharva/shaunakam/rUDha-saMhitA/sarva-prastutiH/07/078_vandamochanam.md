@@ -32,6 +32,7 @@ A charm for a prince's prosperity
 </details>
 </details>
 </div>
+
 ## ०१ वि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/078_vandamochanam/01_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,6 +102,7 @@ I free thee from the cord, I loose the bond, I loose the fastening. Even here, p
 </details>
 </details>
 </div>
+
 ## ०२ अस्मै क्षत्राणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/078_vandamochanam/02_asmai_xatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

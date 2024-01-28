@@ -32,6 +32,7 @@ A prayer for children and booty
 </details>
 </details>
 </div>
+
 ## ०१ देवानां पत्नीरुशतीरवन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/049_devapatnyaH/01_devAnAM_patnIrushatIravantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,6 +100,7 @@ May the Gods' Consorts aid us of their own free will, help us to offspring and t
 </details>
 </details>
 </div>
+
 ## ०२ उत ग्ना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/049_devapatnyaH/02_uta_gnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

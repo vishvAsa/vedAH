@@ -29,6 +29,7 @@ Translated: Ludwig, p. 429; Henry, 39, 111; Griffith, i. 376.
 </details>
 </details>
 </div>
+
 ## ०१ यदद्य त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/01_yadadya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -106,6 +107,7 @@ As we have here elected thee, skilled Hotar! to-day as this our sacrifice procee
 </details>
 </details>
 </div>
+
 ## ०२ समिन्द्र नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/02_samindra_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -178,6 +180,7 @@ With kine connect us, and with spirit, Indra! Lord of Bay Steeds, with princes a
 </details>
 </details>
 </div>
+
 ## ०३ यानावह उशतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/03_yAnAvaha_ushato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -250,6 +253,7 @@ The willing Gods whom, God, thou hast brought hither, send thou to their own dwe
 </details>
 </details>
 </div>
+
 ## ०४ सुगा वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/04_sugA_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -331,6 +335,7 @@ Gods, we have made your seats of easy access, who, pleased with me, have come to
 </details>
 </details>
 </div>
+
 ## ०५ यज्ञ यज्ञम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/05_yajna_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -396,6 +401,7 @@ Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Sv
 </details>
 </details>
 </div>
+
 ## ०६ एष ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/06_eSha_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -464,6 +470,7 @@ This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught wit
 </details>
 </details>
 </div>
+
 ## ०७ वषड्ढुतेभ्यो वषडहुतेभ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/07_vaShaDDhutebhyo_vaShaDahutebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -527,6 +534,7 @@ Vashat to paid and yet unpaid oblations! Ye Gods who know the way, find and purs
 </details>
 </details>
 </div>
+
 ## ०८ मनसस्पत इमम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/08_manasaspata_imam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

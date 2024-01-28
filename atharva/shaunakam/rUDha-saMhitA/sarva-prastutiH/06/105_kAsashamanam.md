@@ -28,6 +28,7 @@ Translated: Ludwig, p. 510; Zimmer, p. 385; Griffith, i.302; Bloomfield, 8, 513.
 </details>
 </details>
 </div>
+
 ## ०१ यथा मनो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/105_kAsashamanam/01_yathA_mano.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -109,6 +110,7 @@ Rapidly as the fancy flies forth with conceptions of the mind. So following the 
 </details>
 </details>
 </div>
+
 ## ०२ यथा बाणः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/105_kAsashamanam/02_yathA_bANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -166,6 +168,7 @@ Rapidly as an arrow flies away with keenly-sharpened point, So swiftly flee away
 </details>
 </details>
 </div>
+
 ## ०३ यथा सूर्यस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/105_kAsashamanam/03_yathA_sUryasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

@@ -32,6 +32,7 @@ A charm to win a bride
 </details>
 </details>
 </div>
+
 ## ०१ आगच्छत आगतस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/01_AgachChata_Agatasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,6 +101,7 @@ I call the name of him who comes, hath come, and still draws- nigh to us. Foe-sl
 </details>
 </details>
 </div>
+
 ## ०२ येन सूर्याम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/02_yena_sUryAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,6 +165,7 @@ Thus Bhaga spake to me: Let him bring thee a consort by the path. Whereon the As
 </details>
 </details>
 </div>
+
 ## ०३ यस्तेऽङ्कुशो वसुदानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/03_yaste-nkusho_vasudAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

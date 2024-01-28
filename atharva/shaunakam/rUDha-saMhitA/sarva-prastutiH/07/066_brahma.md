@@ -32,6 +32,7 @@ A prayer to Vak
 </details>
 </details>
 </div>
+
 ## ०१ यद्यन्तरिक्षे यदि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/066_brahma/01_yadyantarixe_yadi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>

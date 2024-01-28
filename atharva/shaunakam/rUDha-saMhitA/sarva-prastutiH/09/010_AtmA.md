@@ -33,6 +33,7 @@ Continuation of Hymn 9
 </details>
 </details>
 </div>
+
 ## ०१ यद्गायत्रे अधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/01_yadgAyatre_adhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,6 +97,7 @@ How on the Gayatri the Gayatri was based; how from the Trishtup they fashioned t
 </details>
 </details>
 </div>
+
 ## ०२ गायत्रेण प्रति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/02_gAyatreNa_prati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,6 +162,7 @@ With Gayatri he measures out the praise-song, Saman with praise-song, triplet wi
 </details>
 </details>
 </div>
+
 ## ०३ जगता सिन्धुम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/03_jagatA_sindhum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -225,6 +228,7 @@ With Jagati the flood in heaven he stablished, and saw the Sun in the Rathantara
 </details>
 </details>
 </div>
+
 ## ०४ उप ह्वये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/04_upa_hvaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -289,6 +293,7 @@ I invocate this Milch-cow good at milking, so that the Milker, deft of hand, may
 </details>
 </details>
 </div>
+
 ## ०५ हिङ्कृण्वती वसुपत्नी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/05_hinkRNvatI_vasupatnI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -354,6 +359,7 @@ She, Lady of all treasures, hath come hither, yearning in spirit for her calf, a
 </details>
 </details>
 </div>
+
 ## ०६ गौरमीमेदभि वत्सम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/06_gauramImedabhi_vatsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -419,6 +425,7 @@ The Cow hath lowed after her blinking youngling: she licks his forehead as she l
 </details>
 </details>
 </div>
+
 ## ०७ अयं स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/07_ayaM_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -482,6 +489,7 @@ He also snorts, by whom encompassed round the Cow lows as she closely clings to 
 </details>
 </details>
 </div>
+
 ## ०८ अनच्छये तुरगातु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/08_anachChaye_turagAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -553,6 +561,7 @@ That which hath breath and life and speed and motion lies firmly stablished in t
 </details>
 </details>
 </div>
+
 ## ०९ विधुं दद्राणम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/09_vidhuM_dadrANam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -624,6 +633,7 @@ The old hath waked the young Moon from his slumber, who runs his circling course
 </details>
 </details>
 </div>
+
 ## १० य ईम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/10_ya_Im.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -694,6 +704,7 @@ He who hath made him doth not comprehend him: from him who saw him surely he is 
 </details>
 </details>
 </div>
+
 ## ११ अपश्यं गोपामनिपद्यमानमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/11_apashyaM_gopAmanipadyamAnamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -761,6 +772,7 @@ I saw the Herdsman, him who never stumbles, approaching by his pathways and depa
 </details>
 </details>
 </div>
+
 ## १२ द्यौर्नः पिता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/12_dyaurnaH_pitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -824,6 +836,7 @@ Dyaus is our father, our begetter: kinship is here. This great Earth is our kin 
 </details>
 </details>
 </div>
+
 ## १३ पृच्छामि त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/13_pRchChAmi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -897,6 +910,7 @@ I bid thee tell me earth's extremest limit, about the Stallion's genial flow I a
 </details>
 </details>
 </div>
+
 ## १४ इयं वेदिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/14_iyaM_vediH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -964,6 +978,7 @@ The earth's most distant limit is this altar: this Soma is the Stallion's genial
 </details>
 </details>
 </div>
+
 ## १५ न वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/15_na_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1029,6 +1044,7 @@ What thing I truly am I know not clearly: mysterious, fettered in my mind I wand
 </details>
 </details>
 </div>
+
 ## १६ अपाङ्प्राङेति स्वधया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/16_apA~NprA~Neti_svadhayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1096,6 +1112,7 @@ Back, forward goes he, grasped by power inherent, immortal born the brother of t
 </details>
 </details>
 </div>
+
 ## १७ सप्तार्धगर्भा भुवनस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/17_saptArdhagarbhA_bhuvanasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1162,6 +1179,7 @@ Seven germs unripened yet are Heaven's prolific seed: their functions they maint
 </details>
 </details>
 </div>
+
 ## १८ ऋचो अक्षरे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/18_Rcho_axare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1227,6 +1245,7 @@ Upon what syllable of holy praise-hymn, as 'twere their highest heaven, the Gods
 </details>
 </details>
 </div>
+
 ## १९ ऋचः पदम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/19_RchaH_padam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1295,6 +1314,7 @@ They, ordering the verse's foot by measure, with the half-verse arranged each th
 </details>
 </details>
 </div>
+
 ## २० सूयवसाद्भगवती हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/20_sUyavasAdbhagavatI_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1357,6 +1377,7 @@ Fortunate mayst thou be with goodly pasture, and may we also be exceeding wealth
 </details>
 </details>
 </div>
+
 ## २१ गौरिन्मिमाय सलिलानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/21_gaurinmimAya_salilAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1427,6 +1448,7 @@ Forming the water-floods the Cow herself hath lowed, one-foot- ed or two-footed 
 </details>
 </details>
 </div>
+
 ## २२ कृष्णं नियानम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/22_kRShNaM_niyAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1494,6 +1516,7 @@ Dark the descent: the birds are golden-coloured. Robed in the floods they fly al
 </details>
 </details>
 </div>
+
 ## २३ अपादेति प्रथमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/23_apAdeti_prathamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1561,6 +1584,7 @@ The footless Maid precedeth footed creatures. Who marketh, Mitra Varuna! this yo
 </details>
 </details>
 </div>
+
 ## २४ विराड्वाग्विराट्पृथिवी विराडन्तरिक्षम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/24_virADvAgvirATpRthivI_virADantarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1627,6 +1651,7 @@ Viraj is Speech, and Earth, and Air's mid-region. He is Praja- pati, and he is M
 </details>
 </details>
 </div>
+
 ## २५ शकमयं धूममारादपश्यम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/25_shakamayaM_dhUmamArAdapashyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1691,6 +1716,7 @@ Soc. de linguistique*, ix. 247, cites the vs.⌋
 </details>
 </details>
 </div>
+
 ## २६ त्रयः केशिन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/26_trayaH_keshina.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1757,6 +1783,7 @@ Three with long tresses show in ordered season. One of them sheareth when the ye
 </details>
 </details>
 </div>
+
 ## २७ चत्वारि वाक्परिमिता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/27_chatvAri_vAkparimitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1821,6 +1848,7 @@ Speech hath been measured out in four divisions: the Brahmans who have wisdom co
 </details>
 </details>
 </div>
+
 ## २८ इन्द्रं मित्रम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/010_AtmA/28_indraM_mitram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
