@@ -20,6 +20,15 @@ original reading may have been *sukṣetrá suvīrátāyāi sújātā:* cf. Roth
 *Ueber gewisse Kürzungen im Wortende im Veda*, page 6.⌋
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+anumati has arrived to this well-done ritual
+Her felicity is indeed kind to us 
+for good land and good heroes: 
+may she protect this rite with divine protection
+</details>
+
+
 <details><summary>Griffith</summary>
 
 Anumati hath come to this our worship well-formed to give good lands and valiant heroes: For her kind care hath blessed us. God-protected, may she assist the sacrifice we offer.
