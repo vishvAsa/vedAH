@@ -9,7 +9,7 @@ When Baballa and Sundari, with son Bullebayi and his wife Savitri and their  one
 
 The author spent more time with Yajulu and his descendants than with  members of any other of the ten extended families in this account. Long con versations with him occurred from October 1980 to March 2005, by which  date he had almost entirely lost his memory and was to live only four more  months until his death at the age of ninety. During the span of interviews, four  generations of Duvvuris flourished, including three of certified Veda pandits  and the hope of a fourth generation committed to Veda. In 1980, Yajulu’s Veda  pandit third son was twenty-seven; by 2000 that third son’s first son, Phani,  was already ghana-pathi and had a four-year-old son nearing upanayana. The  ahitagni status of Yajulu and his father and brother, however, is not currently 
 
-72 vedic voices 
+[[72]]
 
   
 
@@ -37,7 +37,7 @@ Duvvuri Yajulu teaching grandson Kirin, Sriramapuram 2000.) His devotion to agni
 
 The adhana and agni-stoma for Yajulu were both in Kapilesvarapuram, the  village of his birth. He had to prod his older brother to do them first so that  he could follow. Four years later, in 1949, he accomplished agni-cayana in the  cow pasture of Kapilesvarapuram designated for great srauta sacrifices. Again  he inspired the older brother to go first. During the years between his cayana
 
-74 vedic voices 
+[[74]]
 
 and the forty-day extended form of agni-cayana known as paundarika in 1969  there were always rtvij for his routine isti and agrayana. As his sons grew into  manhood they were recruited into roles at new and full-moon offerings. 
 
@@ -85,7 +85,7 @@ Lanka, the sage of Nedunuru down the road from Sarvesvara’s home in  Irusumand
 
 The Duvvuri family history provides a good illustration of some of the pit falls that lie in wait to derail a cherished lineage of srauta. Bhakti can here  be added to the list of tangents alongside inability to complete Veda, failure  to marry (and marry properly), sibling blockade when an older brother does  not set fires, and incapacity to maintain the ritual purity of fire by living in  a separate dwelling. To an observer, Sarvesvara existed in a Vedic/Puranic  half-light, a Siva bhakta, but not a pauranika by profession, an earner of his  keep as a Veda pandit ghana-pathi, but not one committed wholly to Veda  and certainly not to the srauta life of his father. Technically not laukika, since  he was employed by the TTD until he retired on pension as a vrddha pandit  in 1994, his stance is on the threshold between “Vedism” and Hinduism. All  that appeared to change suddenly in 2007 when he declared that he would  set the fires and go on to agni-stoma. In that same year the younger brother  Surya Prakasa Avadhani and Kanaka Durga made that decision. But neither  family followed through beyond vaisva-deva. Yajulu’s second, fourth, and fifth  sons entered laukika careers outside of Veda. The vocation of third son Surya  Prakasa is described later. Four generations of males in the Duvvuri family are  presented in Table 3.2.
 
-78 vedic voices 
+[[78]]
 
 D. Sarvesvara Somayajulu 
 
@@ -151,7 +151,7 @@ day snana and sandhya-vandana. At age twenty he was examined in Veda  and srauta
 
 ing until age sixteen and like his father felt unsure of the Telugu alphabet, 
 
-80 vedic voices 
+[[80]]
 
 aksara-bhasya, until he began to walk from Sriramapuram to a school in  Mukkamala. 
 
@@ -173,7 +173,7 @@ Figure  3.5. Duvvuri Surya Prakasa Avadhani, Yajulu’s third son, and Kanaka  D
 
 Figure 3.6. The four sons of Surya Prakasa and Kanaka Durga: from left: Phani,  S. R. Sastry, Hari Prasad, Girija Sankar, Rajahmundry 1998.
 
-82 vedic voices 
+[[82]]
 
 appeared to be a conscious effort to replicate his father’s career. All the same  he was well aware of the distance between his father’s generation and his own.  “Since I cannot live like my father,” he offered, “the best path open to me is to  try to minimize my needs and interaction with others. To the extent that it is  possible I will try to emulate the ideals of Vedic life. But I am conscious of the  society in which I live.” 
 
@@ -199,7 +199,7 @@ Like other young pandits in Konasima, Phani received offers from Hindu  temples 
 
 3.1.2.8 Duvvuri Sita Ram Sastry and “Saving the Dynasty” Like Phani, the second son of the elder Surya Prakasa began adhyaya with  grandfather Yajulu. Sita Ram Sastry (his chosen spelling of Sastri, his full  name being that of his maternal Gullapalli grandfather) sat down with Yajulu  first, then his older brother Phani. But neither effort at learning a portion of  the Taittiriya Samhita was successful. Stress brought on problems with his  throat, that indispensable organ for recitation, and he could not continue.  Thus his redemption, in his own words, was to become “savior of the dynasty” 
 
-84 vedic voices 
+[[84]]
 
 in a Veda pandit family by obtaining degrees in information technology, secur ing an appointment in the United States in order to send dollars home to sup port his Veda-reciting father, brother Phani, and Phani’s sons, all of them at  that time representing the direct hope of Yajulu’s continuity in srauta as well  as Veda. A Veda pandit manqué, he could thus turn his ambition in going to  America into rupees for the home effort. And so he became one of an estimated  65,000 immigrants from India who entered the United States that year. He  flew to Hartford, Connecticut, his first time out of Andhra Pradesh, assigned  by Satyam Computers to the Cigna Insurance Company. Eventually his wife,  
 

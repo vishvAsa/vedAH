@@ -9,7 +9,7 @@ is precisely the case with the establishment of sacred fire in the household. Th
 
 A potent aspect of the cult of Agni is the seminal notion of purity (sauca)  and impurity (asauca). Maintaining the purity of ritual fires and special areas 
 
-50 vedic voices 
+[[50]]
 
 that are out of bounds for laity is a hallmark of Vedic ritualism. In South Asia,  Vedic Brahmans are not alone in this regard. Parsis are the remnant custodi ans in India of the once-powerful Zoroastrian imperial religion of Achaemenid  Persia. Today their priests in Mumbai and elsewhere in India still wear white  masks to avoid defiling the sacred fire. Lay Parsis, whose home altars burn  incense as a form of domestic ritual fire, may not approach the temple fire.  Their Vedic cousins, also descendants of third-millennium-bce Indo-Iranian  cults of fire and the sacred plant *sauma17 are equally concerned with pro tecting sacred fires from impurity. A significant difference, however, is that  Zoroastrian tradition long ago turned to their famous Towers of Silence and  birds of prey for disposal of the dead in order to avoid defiling fire with the pol lution of death, whereas Vedic tradition retained an identification of sacrificer  and fire, including final absorption by Agni via cremation. 
 
@@ -31,7 +31,7 @@ Another powerful statement of the bond between sacrificers and fires  concerns t
 
 Figure 2.7. agni-manthana, “churning” of new fire with arani as fire-drill to ignite  Agni, Sriramapuram 1987. The upper male wood fixed in a spindle is twirled with  a rope, its drill point seated in the female block on the ground.
 
-52 vedic voices 
+[[52]]
 
 the arani onto kindling materials elsewhere. Alternatively, so tight is the  Agni-sacrificer connection that fires may be mystically drawn up into the  body of the sacrificer for the same ends. Thus in rare instances of traveling  away from home, the sacrificer may take fires in three separate terra-cotta  pots slung from cords, each carefully labeled garhaptaya, daksinagni, aha 
 

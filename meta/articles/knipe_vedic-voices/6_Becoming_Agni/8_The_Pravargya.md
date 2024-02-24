@@ -23,4 +23,4 @@ Hans van Buitenen understood the pravargya as a mystery rite focusing  on the ce
 
 schedule of six pravargya, morning and afternoon for three successive days,  the intention being to encourage the sun’s victorious emergence from the  rainy season. The pravargya serves as well as an illustration of ritual expansion  from simple to complex.44
 
-220 vedic voices 
+[[220]]

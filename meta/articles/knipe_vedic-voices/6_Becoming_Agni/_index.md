@@ -11,7 +11,7 @@ This chapter collects portraits of contemporary Vedic ritual life that, aston is
 
 In order to appreciate these grand rituals, however, there must first be a  review of the ritual life introduced in Chapter 2 and a more careful definition  of the single-fire household and then extension of Agni into a three-fire sys tem and potential soma and animal sacrificial dramas. This chapter considers  the crucial steps taken when Agni, lord of the household, becomes threefold,  fivefold, a receptor of soma, and eventually the medium of transcendence and  cosmic incorporation in the funeral ceremonies.
 
-188 vedic voices 
+[[188]]
 
 Mentioned in Chapter 2 was an important distinction between  “pre-classical” and “classical” periods of Vedic texts and rituals. If one were  to employ an “archeology” of Vedic tradition it would be the Vedic Sanskrit  Brahmana texts and ritual Sutras that represent the “classical” rituals this  chapter is about to explore. In the case of coastal Andhra this means primar 
 

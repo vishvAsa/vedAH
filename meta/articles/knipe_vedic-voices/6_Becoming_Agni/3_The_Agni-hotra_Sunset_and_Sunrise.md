@@ -43,7 +43,7 @@ Agni’s embers can be transferred not only hearth-to-hearth but also site-to si
 
 As noted in Chapter 2, some in Konasima attribute this to outsider  families “who have incorrect procedures.” But ApSS 6.28.8–14 provides  details about the effect of mantras from TB 1 and 2 causing fire to rise and 
 
-198 vedic voices 
+[[198]]
 
 descend. A homology between the churning sticks and the sacrificer’s body  is clear: both are temporary repositories of the fires. Perhaps here is the ori gin of the ubiquitous Hindu puja practice of open palms quickly touching  fire and then one’s face. This is Apastamba’s directive to the sacrificer before  going away overnight, breathing on them, praising them, touching them and  then his face. 
 

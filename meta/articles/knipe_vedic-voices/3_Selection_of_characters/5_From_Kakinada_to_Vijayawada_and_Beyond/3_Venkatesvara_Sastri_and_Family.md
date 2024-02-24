@@ -26,4 +26,4 @@ able option. On the other side is the death of the youthful wife of an aspi rant
 
 In the meantime, fortunes were reversed for the two sons of Venkatesvara  and Sita Rama Laksmi after both achieved certification as Veda pandits  and gained employment by the Andhra Pradesh Department of Temple  Endowments. Rama Yajna does parayana in Kancipakanam, Chittoor District.  He and his wife have a son, Rama Yajnesvara, who lives with his guru, none  other than grandfather Venkatesvara in Simnacalam, and anticipates his  upanayana in 2014. Younger brother Rama Kumar is a Rg Veda pandit in  Visakhapatman and does parayana in an Anjaneya (Hamuman) temple.
 
-124 vedic voices 
+[[124]]

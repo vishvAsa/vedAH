@@ -13,7 +13,7 @@ To address first the lunar offerings, one of the landmark rituals of  Vedic life
 
 As Agni and Prajapati receive the evening agni-hotra while Surya and  Prajapati take the morning one, so too there are multiple recipients of  darsa-purna-masa, the dual divinities Agni-Soma and Indra-Agni as well as  Agni or Prajapati alone.13 Offerings are melted butter (ghee) and purodasa,  pounded rice flour mixed with water into dough and baked in clumps spooned 
 
-200 vedic voices 
+[[200]]
 
 onto pottery rings over open coals. The result is something of a cross between  a small rounded loaf of bread and a pancake. 
 
@@ -37,7 +37,7 @@ Their aggregate might be construed as Vedic midwives of destiny. The  sketchy bu
 
 The patni is highlighted when she sits, knees raised, to be encircled by the  agnidhra and adhvaryu (ApSS 2.5.2–6) with a loop of three strands of munja grass. This yoktra, halter or yoke, suggests that she is now restrained like a  domestic animal, and indeed in a different sakha, SB 1.3.1.13 understands the  cord as such, as well as a dividing line between the pure upper half of her body  and the impure lower half. This gloss points to a tension between seeing the  auspicious wife as pure vessel destined to receive seed and produce children, 
 
-202 vedic voices 
+[[202]]
 
 and impure woman, unfit to direct her gaze toward the pot of ghee, a sub stance homologized to retas, male seed, semen. 
 
@@ -63,7 +63,7 @@ lace, naksatra have clear personalities, some known to be ugra, terrible, cruel,
 
 The naksatra are mentioned in the Rg Veda and Atharva Veda 19.7.2–5  names them all but it is the ritual tradition that best honors them. TS 4.4.10.1–3  lists twenty-seven from Krttika (the Pleiades) to Apabharani in the context of 
 
-204 vedic voices 
+[[204]]
 
 setting the fifth layer of bricks for the agni-cayana. A brick and deity are named  for each, Agni first of all and Yama, judge of the dead, the concluding deity.  Construction of the great altar of Agni is a soma sacrifice and of particular  interest to the ahitagni is a belief that all the constellations together outline  the body of Prajapati. It is Prajapati as well as Agni with whom the sacrificer  is homologized. 
 

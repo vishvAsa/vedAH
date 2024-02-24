@@ -23,7 +23,7 @@ With the “middle” and “young” generations there is a sharp decrease in t
 
 eration, those now still in their childbearing years, it appears that once a son  or two is born, family planning locks in. Conception is celebrated as an enor mously significant milestone for newlyweds. Maruti moved to Annavaram at  age sixteen to begin a new household with Kapilavayi Rama Sastri. “For seven 
 
-172 vedic voices 
+[[172]]
 
 years I did not conceive. I tasted yajna-payasam (rice pudding made on the  sacrificial ground, believed to promote conception) from different sacrifices.  I was present at many yajna as I accompanied my husband and father-in-law  from sacrifice to sacrifice.” There was proof in the pudding: Maruti delivered  three girls and then finally, the obligatory boy to close her childbearing years  with four. Duvvuri Phani declared in 1998 after becoming father of two chil 
 
@@ -49,7 +49,7 @@ Both prenatal rites employ special items, the one for a male child a green  shoo
 
 The delivery itself becomes a ritual, jata-karman, birth-rite, performed if  possible even before the umbilical cord is cut. The “production of wisdom”  is the initial act when the father uses a gold spoon or ring dipped in honey,  curds, and ghee to touch the infant’s mouth while whispering into the right 
 
-174 vedic voices 
+[[174]]
 
 ear the name of Vak, sacred speech. Mantras about ayus, long life, are followed  by the endowment of a secret name, known only to the parents, and the infant  is given to the mother’s right breast. The next ten days are the period of con finement of mother and child in the birth room, a place of impurity where a  special prophylactic fire or lamp, sutika-agni, is burning. Emergence of mother  and child on the tenth day is auspicious and calls for nama-karana, the rite  of name giving, when the secret name is augmented by a public name for  lifelong use until honorific titles are earned in replacement, Yajulu, Cayanulu,  Somidevamma, Somayaji, for example. 
 

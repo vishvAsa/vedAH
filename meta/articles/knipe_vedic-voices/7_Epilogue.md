@@ -15,7 +15,7 @@ ally declined, the ritual path of his father, and three other sons chose worldly
 
 ficing legacy, became highly successful Veda pandits to continue the teaching  heritage of their distinguished parent. Two of the four sons of Samavedam  achieved similar aims. This second generation had a checkered pattern and  could be called the Selecters, those who chose between options, Vaidika and  laukika, a preference that many of their parents did not deem possible.
 
-248 vedic voices 
+[[248]]
 
 The next generation in this delta narrative brings us into the age of comput ers and information technology, yet a further distancing from the traditions of  the early and mid-twentieth century. In fact, the “IT” generation, like “TV” a  recognizably pan-Indian English acronym, is not an inappropriate label since  a few of the Traditionalists’ grandsons left India to accept computer services  employment abroad. Perhaps Opportunists is a better tag for those leaping  into careers totally apart from both parental and grandparental generations.  There are several aspects of modern changes with which to explore the distinc tions between these generations. 
 
@@ -51,7 +51,7 @@ sional taxi is available for an emergency or special event, and for longer dista
 
 Public transportation by train, bus, or shared taxi means of course rub bing shoulders with outsiders, an immense hurdle for ahitagni and awkwardly  distasteful for teaching Veda pandits managing madi, ritual purity. This  is a leading reason for limited movement. And yet both groups, for whom  long-distance journeys were rare before the 1960s, have indulged in travel  to an increasing degree over the decades. As discussed in Chapters 2 and 6,  agni-hotrin found ways to cope with hearth maintenance and requisite isti
 
-250 vedic voices 
+[[250]]
 
 performance while absent. Recruitment of someone to serve as adhvaryu, brah man, or other rtvij role could mean travel to another state, usually Tamil Nadu,  or attendance at a major sabha, perhaps in Kanci, or all-expense paid trips for  special occasions such as the sixtieth and seventieth birthdays of Satya Sai  Baba, in which cases wives were included in the festivities. Mentioned earlier  is the case of Samavedam and his two sons, traveling anywhere by whatever  conveyance, as long as an honorarium and travel expenses were forthcoming  for their recitations. In the Tirupati temple in 1980, the Foreigner and his  wife were delighted to encounter four Gullapalli brothers, Samavedam, and  other Konasima friends among the sixteen Veda pandits belting out antipho 
 
@@ -97,7 +97,7 @@ Lanka, December 29, 1991
 
 Although agrahara life is decidedly not the same as existence in a typi cal Andhra village or town there is no lack of awareness of what goes on 
 
-252 vedic voices 
+[[252]]
 
 in the outside world. Cayanulu, for example, cycled daily to recite in a tem ple in nearby Vyaghresvaram village and Duvvuri Surya Prakasa lives in  Rajahmundry, recites in a temple, and teaches in his orchard compound. In  Sriramapuram and Nedunuru, people from all social strata come to supply  and service agrahara residents and inform them of current events, local, state wide, and national. Radio was there for the oldest generation after electricity  arrived, and television was available for the two recent ones. Suddenly a single  “TV-TV” appeared on Main Road in Rajahmundry, drawing crowds of shop pers to stare at what seemed like a lighted bird house atop a tall pole. Soon  the crowds shifted to lanes where homes of the wealthy glowed with magical  blue light and locked steel gates provided ladders for distant gawkers. When  visiting pandit homes in the 1990s the TV, like that initial single dangling  light bulb for an earlier generation, seemed always to be on for the ladies in an  interior room. “But we don’t have color” became an apologetic refrain, at least  until they did have color. 
 
@@ -115,7 +115,7 @@ tive opportunities. Brahmans could no longer count on posts in village,  state, 
 
 It is perhaps the newest generation, the Opportunists, that has the most  favorable opinions of the ruling powers of state and nation. Already discussed  in Chapters  3 and 5 is one example, the significant change regarding fam ily planning. From the Traditionalists’ point of view contraception is unnatu ral and contrary to Dharma Sastra. A strong battery of Vedic texts is quickly  recited touting the purpose of marriage as the production of children to con tinue the lineage, governmental attempts at planned parenting being a med dling with family values. As in other ways the Selecters were divided while the  Opportunists wholeheartedly embraced the national slogan “We are two, we  have two.” Duvvuri Phani and Laksmi (Nagalaksmi) added two sons to their  union in 1996 and 1998, declaring the second to be “the final” child. It could  be said that Dharma Sastra rules were outweighed by the economic advantage  of being a small family. The days of ten- or twelve-child families were num bered well before the turn of the millennium.
 
-254 vedic voices 
+[[254]]
 
 E.5 “America”: Polarities and Dreams 
 
@@ -171,7 +171,7 @@ Many aspects of life, however, remain unchanged. When the sun rises or  sets eac
 
 In the early 1990s the delta was opened to drilling by the ONGC, India’s  Oil and Natural Gas Company. Large-scale road construction enabled mas sive equipment to reach the littoral of the Bay of Bengal. Then a spectacular  “blowout” occurred in well number 19 on January 8, 1995, at Pasarlipudi and  dangerous horizontal flames shot hundreds of feet in all directions, lighting  up Konasima and frightening everyone in the delta. No one had seen anything  like it. Vedic Brahmans began to recite mantras. Astrologers were consulted  about this eerie phenomenon and one with Veda pandit ancestry assured the  Foreigner that sabda, sacred sound, either mantras or slokas, “both are the  same,” would solve the problem. One day a group of hulking Texans, complete  with spurs, Stetson hats, and bulging beer bellies, appeared on the road outside  Amalapuram, as inconspicuous as a squadron of Martians landing in town.  They set to work first turning the flames into a vertical inferno a thousand feet  in the air, then capping the well with a robot. When the fire finally fizzled and  went out after burning sixty-five days, the Vedic Brahmans announced that  their mantras had been the correct ones. The Brahman astrologer demurred 
 
-258 vedic voices 
+[[258]]
 
 and proclaimed that certain planets whose paths he routinely stalks had fortu nately changed course on March 10, as he predicted. Others said the well fire  had burned itself out, “as do most fires.” No one gave the Martians credit and  they all flew back to Texas. 
 

@@ -5,7 +5,7 @@ title = "3 The Sama-vartana: Graduation Day"
 
 When Lanka was judged by his guru, Baballa’s father, to have completed the  Taittiriya curriculum he could then go home, put behind him those long  daily walks in darkness between Mukkamala and Nedunuru, eat his own  mother's evening meals, and await his examination by a Veda pandit review 
 
-148 vedic voices 
+[[148]]
 
 board.But first there was a marker for this momentous occasion, sama-vartana,  the “return” from the guru’s house. The focus was a ritual bath, snana, when  he received the title snataka, one who has undergone the well-earned bath. It  was a graduation ceremony with a tonsure, shaving of head and facial hair by  the barber, bathing, applying sandal paste and perfumes to his body and kol to  his eyes, putting on two new garments and earrings, first the right, then the  left, new chappals for his feet, and a garland that he placed on his own neck. At  hand were an umbrella and his staff. Finally, he took a mirror and checked out  his appearance, makeup and all. The brahmacarin vow of celibacy was over and  he was now free to marry. The entire day was spent indoors behind the pen for  the agni-hotra cow, shielded from the sun, and he could move about only after  sundown and sandhya-vandana. 
 

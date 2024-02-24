@@ -19,7 +19,7 @@ The guru in charge of a student’s learning has a say in marriage arrange ments
 
 In addition to Vedic branch (sakha), parentage, age, ritual refinement,  education, and compatible horoscope, two other qualifications concern gotra,  clan, and pravara, ancestral lineage. The term gotra has descended from  Indo-Iranian *gautra, cattle place or pen, indicating a close relationship  between cattle-herding communities and their herds. In India centuries later,  Vedic meanings held social and religious import—tribe, family, clan.8 One  must marry inside the subcaste, Vaidika Brahman, and one should marry  inside the sakha, Taittiriya, but conversely the choice must be outside both 
 
-164 vedic voices 
+[[164]]
 
 gotra and pravara. Every clan claims descent from a patronymic ancestor and  each Veda pandit provides the name of his gotra as identification, for example,  Duvvuri Yajulu, Atri (Atreya) and Bulusu Kamesvara, Gautama, to name two  of the seven or eight ancient Vedic seers. Samavedam’s gotra was Harita and  Baballa’s was Srivatsa, two other ancestral lines of import but not among the  famous rsi. With regard to this exogamy, “marriage outside,” a bride should  not be united with a groom with the same pravara, the litany of ancient rsi con 
 
@@ -135,7 +135,7 @@ It was noted in Chapter 2 that Bulusu Cayanulu gave a daughter to  Renducintala�
 
 Many of the pandits in this survey have been involved in marriage cer emonies either within their own community or for local folk of the higher  castes. Bulusu Cayanulu routinely officiated, as does Duvvuri Surya Prakasa  Avadhani in the present. Baballa’s grandson Prasad does muhurta timings by  consulting birth horoscopes to determine the most auspicious months, days,  and hours, a service regularly performed by Baballa and Lanka in decades  
 
-168 vedic voices 
+[[168]]
 
 past. Samavedam picked up honoraria by reciting blessings at marriages,  “never less than Rs. 500” being his reward. 
 
@@ -157,6 +157,6 @@ To those who have witnessed Hindu weddings in India, North America, or  Europe m
 
 In the matter of remarriage, a strict double standard prevails. It is accept able for the widower but unthinkable for a widow to remarry and ApDhS  2.6.13, a discussion of inheritance and paternity, rules widow remarriage sin ful. Bulusu Cayanulu married again only eight months after the death of his 
 
-170 vedic voices 
+[[170]]
 
 typhoid-stricken young wife. Fourteen-year-old pre-pubescent Subbalaksmi,  purchased in Gangalakurru, became his ritual partner for Renducintala’s paun darika. Of the eight different forms of marriage listed in Asvalayana Grhya  Sutra 1.6.1-8, ApDhS 2.5.11-12 mentions six, the one known as daiva marriage  pertaining to a girl who becomes daksina, ritual payment by the sacrificer to a  priest who is serving in his ritual. In Cayanulu’s case, however, the payment  was oblique since the yajamana, Renducintala, was not the father of the girl. 

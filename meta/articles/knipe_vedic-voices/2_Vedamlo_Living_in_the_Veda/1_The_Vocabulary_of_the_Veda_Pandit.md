@@ -33,7 +33,7 @@ vana prastha, “forest dweller,” retiring to the vana, forest;
 
 samnyasin, ascetic, one achieving samnyasa, renunciation.
 
-30 vedic voices 
+[[30]]
 
 The upanayana ceremony involves the god Brhaspati, purohita (priest) of  the gods and also patron of learning. In Telugu he is known as Guru, the  deity of Thursday. AGS 4.10-11 with mantras in the second part of the sepa rate Mantrapatha supply a concise program for the seven- or eight-year-old  boy, beginning with his bath and the tonsure of his head with a razor. He is  instructed to place kindling sticks into the fire and then is directed to place  his right foot on a grindstone; put on a new loincloth, a belt of three strands  of munja grass, and a strip of antelope hide; then receive as staff (danda) a  slim branch from a palasa tree. He sprinkles himself three times with water  received into his cupped hands from the guru who places a three-stranded  white cotton thread over his right shoulder. After hearing initial mantras he  addresses his guru and declares himself ready as a brahmacarin.4 
 
@@ -53,7 +53,7 @@ Figure 2.1. A brahmacarin at Surya’s door in madhu-kara, collecting food house
 
 relying on the Srauta Sutras that are themselves based on the Brahmana texts  (as distinct from the Grhya Sutras covering domestic rituals). At some point in his pre-teen or early teen years his parents arrange his  marriage to a younger pre-pubescent girl, the five-day ritual vivaha creating a  union to be consummated years later when he completes his Vedic learning  and is ready to advance to the second life-stage and become a householder.  This patni, wife, selected by his family, is traditionally from another Vaidika  family with similar heritage and should be the daughter of a woman who mar ried before puberty in a five-day ritual, thus doubly assuring purity of lineage  and ritual sanction. She will be chosen from a family inside the subcaste but  outside the gotra, clan lineage from one of the ancient sages, the rsi. In some  families the bride and groom have known each other from early childhood.  Often, however, the ceremony becomes “first sight,” and when the five festive  days are over it may be years before true acquaintance begins. If the bride grew  up in a household of Vedic reciters or sacrificers she will be entirely familiar  
 
-32 vedic voices 
+[[32]]
 
   
 
@@ -77,7 +77,7 @@ Figure  2.3. Kapilavayi Agnihotra, a brahmacarin performing daily agni-karya wit
 
 Figure 2.4. A blind eighty-five-year-old Duvvuri Yajulu teaching grandson Kirin,  Sriramapuram 2000.
 
-34 vedic voices 
+[[34]]
 
   
 
@@ -161,6 +161,6 @@ Pancavimsa Chandogya Latyayana Sadvimsa Drahyayana
 
 Mandukya
 
-38 vedic voices 
+[[38]]
 
 without origin; it is apauruseya, without human authorship. There is no liter ary “chronology” as in modern historical scholarship and therefore a passage  in an “early” portion of the Rg Veda that outside scholars might date to the  mid-second millennium bce is part of the same eternal text as an Upanisad  dated by text-critical scholars to be well over a thousand years later. Among  Veda pandits there is no debating this issue. Contemporary historical schol ars have perceived a distinction between a “pre-classical” Vedic period from  c. 1200 to c. 800 bce and the subsequent “classical” era that lasted several  centuries after 800. Following a survey of selected families of Veda pandits  in Chapter 3, Chapter 4, “Becoming a Veda,” provides a more nuanced dis cussion of textual learning, application of such skills, and opportunities for  the study of other Vedic and post-Vedic texts. Similarly, Chapters  5 and 6,  “Becoming a Householder,” and “Becoming Agni,” are, respectively, more rig orous pursuits of the domestic and extended ritual traditions. 

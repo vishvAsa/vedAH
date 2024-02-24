@@ -7,7 +7,7 @@ The third ahitagni who established fires in Vyaghresvaram village in the  1960s 
 
 Kamesvari (1926–96), from the Vemparala family, was the granddaugh ter of an ahitagni in the same village of Tondavaram, south of Gangalakurru.  She was married to Laksminarayana there on the left bank of the great  horseshoe curve of the Vainateya Godavari River in 1936 when she was ten  and he was sixteen. They raised eight children, four boys and four girls.  None of the girls married Veda pandits and as was the case with the two  Bulusu brothers of Vyaghresvaram, none of the sons learned Veda. The sons  of Laksminarayana and Kamesvari, now beyond their middle years, blame  economic hardship for this but also, perhaps defensively, mention a certain  shyness in their father with regard to authoritative teaching. Following his  ahitagni father, Laksminarayana had wished to set the fires but delayed until  a private house could be obtained. About 1962 he and his family moved  east a few miles to Vyaghresvaram in search of a better livelihood, aided  by the provision of a house from Kamesvari’s older sister. Vyaghresvaram  in the 1960s, like the adjacent villages of Mukkamala, Nedunuru, and the  Sriramapuram agrahara, was a lively scene of srauta activities, with the  yajna of Lanka and three Bulusus, Duvvuri Yajulu’s paundarika, Baballa’s 
 
-110 vedic voices 
+[[110]]
 
 aruna-ketuka, and others. Laksminarayana and Kamsvari set the fires and  began agni-hotra twice daily, routine isti for new and full moon, and the  annual agrayana. Like Lanka, however, he waited several years before his  first soma ritual, finally performing agni-stoma in 1970 with Lanka as adh 
 

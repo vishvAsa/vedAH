@@ -31,7 +31,7 @@ TB 1.2.1.15–16 is recited during this mystical production of Jatavedas, a  con
 
 Now comes the all-important transfer of the newly kindled fire onto the  layered hearths, the adhvaryu taking a fire pan to the garha-patya first and then  to the ahavaniya, as the agnidhra priest next moves embers from the freshly  lighted garha-patya onto the daksinagni. The sacrificer recites auspicious  names of Agni and dispatches inauspicious, even destructive powers of the  god in the direction of an enemy, bhratrvya, or rival, sapatna. In subsequent  rituals this adversary, real or imagined, will be invoked frequently, often in  astonishing ways. If he (and the enemy seems always to be male) is merely a 
 
-194 vedic voices 
+[[194]]
 
 phantom, these phrases are swiftly glossed over, but if one has a serious foe, a  rival complicating one’s ritual, political, or marital plans, that name is elevated  to the status of designated target. If that rival is suspected of using abhi-cara, black magic, special defensive measures must be taken in counter-sorcery,  often employing mantras from the Atharva Veda.7 
 

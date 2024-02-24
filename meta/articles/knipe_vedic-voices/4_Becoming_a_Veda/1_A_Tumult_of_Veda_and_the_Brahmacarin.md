@@ -9,7 +9,7 @@ mission of Veda from an older to a younger generation and the progression of  th
 
 meaning of interiorizing Veda within the topography of Vedic pandit.1 The first question an outsider asks is, “What is ‘Veda’ for these  agrahara-based Vaidika Brahmans?” Their replies portray Veda as at once sym bol and symbol system. Veda appears to represent an alternate reality, Gaston  Bachelard’s univers imaginaire in the sense that it exists as the real world, a  whole world, as opposed to the illusory fragmentations of laukika, mundane,  existence.2 For the Veda pandit this is an accessible world and, once entered,  a usable world, for it is the mantra and kriya that make up reality and daily  negotiate its perpetuation. The dedicated Veda pandit speaks, as noted earlier,  of “existing in Veda.” At the same time, Veda is not in the least demystified  through such proximity and accessibility. Always it retains its properties of  mystery (guhya, rahasya). It abides in the realm of the numinous because it  is eternal, apauruseya, without human origin, a hierophany in simultaneity  inside and outside of time and space. No human can ever appropriate all of it,  not even the self-proclaimed catur-vedin who has become all four Vedas. All of  this speaks to the density of the text that has enabled the two-syllabled word  Veda to command priority of attention across several millennia of Vedic-Hindu  civilization.
 
-142 vedic voices 
+[[142]]
 
 A second question an outsider might ask is, How does one “learn” Veda?  In the West, there is a particular educational model regarding knowledge: a  teacher who is a “knower” facilitates a student who does not know in a process  of turning the latter into the former. Perhaps, however, the term “education”  might be exchanged for “transmission.” What is the process of transmitting  this beginning-less oral phenomenon Veda to a living Vaidika Brahman? The  epistemological question follows: What does it mean to “know” Veda when the  word veda itself is “knowledge.” 
 
@@ -35,7 +35,7 @@ macarin at the outset of his Vedic career. The two modes of existence, both  cel
 
 With his new thread over his left shoulder and under his right arm the seven or eight-year-old touches the feet of his guru, usually his father but possibly his  grandfather, older brother, uncle, or more distant relative, and in the technique 
 
-144 vedic voices 
+[[144]]
 
 of adhyaya sits down before him to hear and then recite back a phrase at a time.  They begin sometime after the dawn samdhya and continue daily through the  dark and bright halves of the lunar month with the exception of eight speci fied break days of an-adhyaya, days without new recitations when review of past  lessons, or study of Mimamsa, Dharma Sastras, or other acolyte texts take the  place of a fresh Taittiriya recitation. Each new- or full-moon day, as well as the  day succeeding, is considered a day off. Lanka noted that trying to learn Veda  on amavasya, new-moon day, is like fetching water in a sieve. Rolling thunder  and lightning strikes, sometimes dangerous near tall palm trees, may also be  grounds for cessation. Calendars of astrological reckoning (pancanga) are rou 
 

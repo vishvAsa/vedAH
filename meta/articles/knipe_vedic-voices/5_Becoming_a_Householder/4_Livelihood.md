@@ -23,7 +23,7 @@ ant farmer who paid with either paddy or cash. Intercropping of cocoa plants,  t
 
 Veda pandits in general have strong attachment to and concern for the  land and its produce. Duvvuri Yajulu spoke of ksema, the peace, security, and 
 
-178 vedic voices 
+[[178]]
 
 welfare of the land (desa), and Lanka had intense respect for the traditions  of landholding, refusing to turn to the new hybrid seeds that were claiming  responsibility for India’s green revolution. “That seed is not native but for eign,” he objected. He used bovine manure only and cited Dharma Sastras  that confirmed his view that synthetic pesticides and chemical fertilizers  damage the soil and produce unhealthy food. A buffalo or cow gave milk for  
 
@@ -45,4 +45,4 @@ tions between the land, the people, and food are always palpable. As noted in th
 
 On the other hand, the TTD is blamed by some for interfering with tradi tions regarded as reclusive, virtually secretive, away from public scrutiny and  institutional control. Baballa and Lanka were among those who rejected offers  to become, as they saw it, “employees” of the TTD who descend into “selling”  the Veda in exchange for a steady income. They also worried about invita tions to young pandits from Hindu temples in New York, Chicago, Pittsburgh,  Atlanta, Houston, and other American cities. “Only in the isolation of an agra hara,” elders said, “away from worldly distractions, can an ahitagni survive.  Our young men will go there and not return and that will mean the destruc tion of srauta as well as the teaching of Veda here.”
 
-180 vedic voices 
+[[180]]

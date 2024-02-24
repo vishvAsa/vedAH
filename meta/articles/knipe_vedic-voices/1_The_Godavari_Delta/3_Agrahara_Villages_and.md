@@ -9,7 +9,7 @@ When the dora (the author of this book) and his wife began residence directly  o
 
 lion, an increase of 32 million, well over the combined populations of all five  Scandinavian countries, and Andhra was adding more than a million per year.  Substantial transformations of landscape and culture were quite apparent all  the while.
 
-24 vedic voices 
+[[24]]
 
 The search for ahitagni began in the village of Munganda close to the left  bank of the Vasistha Godavari.38 No Vedic ritualists were to be found, and  teaching of the Vedas had long since expired. Authentic Vedic sacrificers, how ever, were reported to be living in agrahara not far away, although at the time,  winding, deteriorating roads and footpaths made the distance seem daunting.  Directions northeast to a cluster of villages hugging the Billakurru Canal (west  of Nedunuru on Map 2) led to a wide neighborhood that included six ahitagni and several other pandits vigorously teaching Veda. 
 

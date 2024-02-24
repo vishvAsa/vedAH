@@ -29,7 +29,7 @@ When it came time to diminish their daily routine, blind Duvvuri Yajulu,  with a
 
 tions, allowed for those in old age with physical handicaps.” Parayana in the  small agrahara temple only a few steps from his house was done for two decades 
 
-182 vedic voices 
+[[182]]
 
 until he retired at age seventy in 1985. Samavedam was only thirty when he  signed on for TTD recitation in 1963 and served for the rest of his days, Cayanulu  participated until pensioned in 1993, and Mitranarayana, who enrolled at age  forty-nine in 1979, remained active until he was almost eighty. The ahitagni 
 
@@ -45,7 +45,7 @@ Equally unimpressed was Lanka, who had absolutely nothing to report  about the s
 
 In the final analysis, Konasima pandits appear to follow Manu in under standing moksa as “a synonym of renunciation,”20 virtually the Niebuhrian  relevance of an impossible ideal with no immediate reward. Renunciation and  liberation are there as supposition for the next time around, a future rebirth.  As for ista-purta, which Kane tidily defines as “the cumulative spiritual result  of merit due to . . . performance of sacrificial and charitable acts,”21 Duvvuri  Yajulu summed it up: “Merely for doing sacrifices, janma-rahita, absence of  rebirths, will not occur. Performing a karma does not bring freedom from  rebirth. Those samnyasin who renounce everything . . . they alone are eligible  for janma-rahita.”
 
-184 vedic voices 
+[[184]]
 
 Another elder in Konasima found a metaphor to describe svarga loka, the  heaven promised to the performer of a rite such as the vaja-peya in which the  sacrificer climbs a ladder placed against the sacrificial post and proclaims on  behalf of his wife and himself together: “We have reached heaven, we have  become immortal.” What does this mean? “It is like a summer resort,” he  offered. “A tourist can have a good time as long as his purse is full but when  the money is gone he has to return home.” Brian Smith also noted this tem 
 

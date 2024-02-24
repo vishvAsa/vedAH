@@ -9,7 +9,7 @@ tive cacophony. Men are always out and about but today in this local Mardi  Gras
 
 Girls and women—wives, mothers, daughters, daughters-in-law—have  appeared only briefly in Chapter 4 on textual studies since the upanayana and  access to Veda learning has been exclusively male for many centuries and the  social system is patrilocal. In this chapter on the life of householders, however,  women are center stage and their oral histories are particularly noteworthy,  providing a counter-narrative to claims of patriarchal supremacy. In Chapter  6 on the ritual life, wives are further recognized in co-sacrificial roles. Some  brief details about the lives of fifteen patni were featured in the overviews of  families in Chapter 3. In the order of that village-by-village survey, wives of ahi tagni included Sundari, Surya, and Subbalaksmi in Sriramapuram, Anasuya  in Nedunuru, Satyavati and Kamesvari in Vyaghresvaram, and Anasuya 
 
-158 vedic voices 
+[[158]]
 
 in Kakinada. Discussed also were the wives of other Veda pandits, some of  them potential ahitagni:  Laksmi, Savitri, and Kamala in Sriramapuram,  Narasamamba in Iragavaram, Sita Rama Laksmi in Simhacalam and Maruti  and Sita Nagalaksmi in Annavaram. Finally, Laksmikanta, widow of the  Konasima-born srauta champion Renducintala Yajulu, graciously contributed  her reflections on a half-century of agni-hotra. 
 
@@ -31,7 +31,7 @@ It was Laksmikanta, performer of agni-hotra for half a century alongside  her hu
 
 Satyavati, then in declining years, was amazed in recollection that she  managed to accomplish adhana and continuing agni-hotra alongside hus band Kamesvara: “I had a baby on the hip, a baby on my lap, a baby in the 
 
-160 vedic voices 
+[[160]]
 
 stomach (Telugu kolupu), all these babies! But people in the village said ‘Don’t  be scared! If you perform agrayana once a year you’ll be fine as agni-hotrin.” By  the time of agni-stoma there were eight of an eventual ten children underfoot  and Satyavati was quite reluctant to advance into soma rites: “Children require  so much attention, my elderly mother-in-law needed care, and the thought  of cooking and serving so many people for five ritual days plus an additional  one was overwhelming.” Kamesvara prevailed, however, both of them offered  soma, added soma-sacrificer to their respective names, and decades later  Satyavati was proud to be Somi-devamma. 
 

@@ -17,7 +17,7 @@ Bachelard’s phrase, as “one of the principles of universal explanation.”3 
 
 He may become intrigued by the mysteries of a particular sacrifice. The  asva-medha horse sacrifice, for example, fascinated Kapilavayi Rama Sastri as 
 
-190 vedic voices 
+[[190]]
 
 a beginning brahmacarin learning TS 4.6.6–9, 4.7.15, and so on. Then after  several more years he discovered the magnificent equine-cosmic catalogue  that opens the Brhad-aranyaka Upanisad. It remains today his favorite ritual  although, not being of royal lineage, one he cannot perform. Nor could he  observe one or participate since it has been obsolete for centuries. It lingers  as imaginative drama, a ritual of two years’ duration with an appreciative day 
 

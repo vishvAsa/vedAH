@@ -7,7 +7,7 @@ The historian of Andhra, P. Raghunanda Rao, credits English education for  intel
 
 Among the Andhra luminaries three nationally influential personalities  deserve special mention, all of them born in the mid or late nineteenth cen tury. Kandukuri Virasalingam (1848–1919), born in Rajahmundry, was a lucky  survivor of childhood smallpox. Considered by many to be the most significant  Andhran of modern times, he was a tireless and aggressive social reformer. 
 
-22 vedic voices 
+[[22]]
 
 He earned the enmity of traditional authorities, including the Sankaracarya of  Kancipuram and many Vaidika Brahmans, by championing female education  and widow remarriage with dramatically staged ceremonies for maximum  notoriety. 
 

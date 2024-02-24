@@ -7,7 +7,7 @@ Due to the constant self-landscaping of the two rivers archeologists obtain  few
 
 The first great empire in India after the Harappan Indus civilization was  the Mauryan dynasty in the northern kingdom of Magadha with a capital  in Patailaputra, modern Patna in Bihar. In 324 bce Candragupta Maurya’s  armies began consolidation of the Gangetic plain. His successor Bindusara  penetrated the Deccan and ventured onto parts of the east coast as well. Asoka,  third and best known of the Mauryan rulers, added to the empire Kalinga on  the Bay of Bengal and for a time may have controlled both the Godavari and 
 
-8 vedic voices 
+[[8]]
 
 Krishna deltas. During his reign 273–32 bce Asoka left rock-cut edicts in a  Prakrit language carved mostly in Kharosthi and Brahmi scripts, the earliest  in India after the Indus script of c. 2600–1900 bce. Two edicts are north of  the deltas on the coast of Kalinga. According to tradition, Candragupta Maurya  converted to the Jaina faith and committed samlekhana, the fast to death, in  Sravana Belgola on the west coast. Asoka, from the tenor of his edicts and  late-life practice, evidently had strong Buddhist sympathies. 
 

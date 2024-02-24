@@ -21,7 +21,7 @@ In 1866 in Orissa, the state on the northern border of Andhra, 1.5 million  peop
 
 ernment revenue because nothing was done. “How strange it seems that men  cannot understand this,” he wrote in 1881. In the newly renamed Godavari  
 
-20 vedic voices 
+[[20]]
 
 District, after Cotton’s efforts and the irrigation of 600,000 acres, the popula tion increased 300 percent from 1843 to 1891. 
 

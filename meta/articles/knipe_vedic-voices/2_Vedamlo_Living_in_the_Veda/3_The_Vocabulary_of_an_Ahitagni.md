@@ -5,7 +5,7 @@ title = "3 The Vocabulary of an Ahitagni"
 
 Veda pandits who have been nurtured within the embrace of srauta traditions  will be strongly encouraged to continue their heritage and become ahitagni,  sacrificers who maintain three hearths, not a single sacred fire; perform the  twice-daily heated milk offering known as agni-hotra that entitles them to be  known as rare and privileged agni-hotrin; and move on with soma sacrifice  in mind to perform the ritual known as yajna, meaning the agni-stoma. Of  the total of 626 ahitagni listed for India and Nepal by C.  G. Kashikar and  Asko Parpola, “A catalogue of ahitagnis and srauta traditions in recent times,”  nearly one-third (200) were residing in Andhra.9 The srauta ritual system, as  noted earlier, is an extended one in the sense that a simple domestic routine  has been replaced by one far more demanding on the religious energies of the  sacrificer and wife. A few may take the life-altering step into extended fires  early on, but many wait until mid-life or later. They speak repeatedly about  what is nitya, obligatory, and invariably distinguish between what is absolutely  necessary for the sacrificial life of a Vedic Brahman and what is set aside as  either kamya, a ritual for a personal desire (long life, for example, or the birth  of a son), or naimittika, a ritual that is occasional, not calendric (such as rites  for a funeral or for rain to end a drought). The last of these three categories, 
 
-42 vedic voices 
+[[42]]
 
 naimittika, includes important prayascitta, expiatory performances as recom pense for failure to do the nitya rites in timely fashion.10 
 
@@ -63,7 +63,7 @@ after the agni-hotra cow is milked, the remains of the offering serving as the  
 
 This routine that brackets the activities of the day will be done tens of thou sands of times in a lifetime, the recipients of the offering and mantras being  
 
-44 vedic voices 
+[[44]]
 
 Agni and Prajapati in the evening, Surya and Prajapati in the morning. Always  it is the deities (devata) receiving the libation who are kept in mind. Every two  weeks there is a darsa-purna-masa new-or-full-moon offering, an isti in which  devata receiving offerings are the dual deities Agni-Soma and Indra-Agni, as  well as Agni alone and Prajapati. More elaborate than the simple agni-hotra,  food for them is pounded rice flour mixed with water into dough that is baked  in a loaf (purodasa) on terra-cotta rings in the garha-patya before presentation  to the gods. Although baked and rounded in a small lump it is not unlike the  flat steamed rice pancake with which most Andhrans begin their day, an idli for breakfast. 
 
@@ -113,7 +113,7 @@ ing carpenters and potters to fashion ritual implements; hiring vanta-Brahman co
 
 tagni required the largest team, as many as six priestly helpers. The demands of soma rituals, however, exceed those limited staffs and  compel him to go outside family and village, perhaps even out of the area to  enlist sixteen or more Brahmans he trusts for the challenging roles. Often rec iprocity in the history of rituals past may determine these choices. Each of the  four major priests selected is linked to one of the four Vedas. Just as the quar tet of Vedas reveals a privileged inner trio and a “plus one” formula,14 namely,  the Atharva Veda, so does the priestly foursome break into those responsible  for the Rg, Yajur, and Sama Vedas, with a fourth who owns only a contrived 
 
-48 vedic voices 
+[[48]]
 
 relationship to the Atharva Veda. These four and their assistants are listed  in Table 2.3. Some of these roles have a deep history going back four millen nia to the Indo-Iranian period as Avestan zaotar and Vedic hotr disclose. Over  the centuries Vedic priestly staffs expanded to the ideal number, sixteen, and  beyond, and several roles shifted. Sutras record the agnidhra as an assistant  to the brahman supervisor, but as kindler and maintainer of fire, as his name  indicates, he is the most important assistant of the adhvaryu, the executive  
 

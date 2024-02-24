@@ -19,7 +19,7 @@ Duvvuri Yajulu, a close relative, was a major source of inspiration, and  the tw
 
 Mitranarayana credits Uppuluri Ganapati Sastri, one of the founders of the  TTD parayana program for Veda pandits, for the furtherance of his career in  several ways. Uppuluri, born in Dangeru in 1888 on the Bank Canal directly  east of Korumilli, lived for most of his nearly one hundred years in the District 
 
-112 vedic voices 
+[[112]]
 
 headquarters town of Kakinada. Uppuluri brought Mitranarayana to a donated  house in Kakinada in 1977, facilitating his appointment as a Veda pandit in the  Venkatesvara temple only a few miles south in the village of Jagannaikapuram.  The rent-free house enabled him to support a family of nine. For many years  his routine was to bathe, do sandhya-vandana and agni-hotra, eat breakfast,  recite in the temple 8 to 10 am, return home by bus for lunch at 11, teach a  student in the afternoon, sandhya-vandana and agni-hotra again, dinner, and  sleep. By 1992 his TTD salary for parayana was Rs. 1,000 and by 1998 Rs.  1,800 per month. 
 
@@ -39,7 +39,7 @@ By the close of the century Mitranarayana, rail-thin and feeling the weight  of 
 
 He retains both his instinctive sense of humor and withering sarcasm.  Setting high standards in his own performance, Mitranarayana is also known  for his unusually stringent, at times scathing critiques of others, including both  students with “empty learning” and clueless contemporary colleagues. When  he goes to the Virabhadra temple on Pattisima Island in the Godavari River  he joins a great throng of one to two hundred Veda pandits to recite for much  of Maha-siva-ratri night. He notes that “only five or six” others actually know  correctly the svasti-vacana they have been summoned and paid to recite. And  recently, replacing Duvvuri Yajulu as one of the board of examiners of newly  minted reciters of Veda, he deplored their lack of skill: “I was asked to rank first,  second, third class. What class? About a hundred students came from different  areas. I did not approve of a single one! They did not deserve to pass! So I tried to  remain a spectator and let the other examiners decide.” Regarding Vedic Sanskrit  he often sounds like an American college professor grumbling about current 
 
-114 vedic voices 
+[[114]]
 
 students who can neither speak nor write with coherence in their own language.  Mitranarayana sees himself as an outlier, one who is both the last of the old guard  keepers of tradition and a critic of all that has gone wrong in modern life. 
 

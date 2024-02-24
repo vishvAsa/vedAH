@@ -11,7 +11,7 @@ What does a sabha mean to Veda pandits? It is a gathering to debate a par ticula
 
 tion and a sense that the subject has been adequately settled. There are substantial differences, however, between a Vedic sabha and an  American faculty meeting. One is that the sabha is open to the public, an 
 
-154 vedic voices 
+[[154]]
 
 audience that for the most part understands nothing of the Sanskrit and little  of the esoteric Telugu, but arrives anyway to bask in the esteemed company  of Brahmans of consequence. Second, attendees at the college meeting, par ticularly junior faculty, are more or less forced to be there and are not paid,  whereas Veda pandits have come voluntarily and receive honoraria. The hono rarium (sambhavana) is the reason they are there. 
 

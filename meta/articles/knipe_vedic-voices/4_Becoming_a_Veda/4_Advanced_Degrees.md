@@ -13,7 +13,7 @@ On the other hand, rather than pursue other textual modifications of his  heredi
 
 If the “returned” Taittiriya student begins adhyaya in some portion of the  Rg Veda, for example, with the same or a different guru, he faces a Samhita  with 1,028 hymns (sukta), comprised of rk, metrical verses, and collected in  ten mandala. His childhood went into learning the Taittiriya texts and within  them were numerous Rg Veda mantras and brahmana discussions of them.  Lanka, who learned about three-fourths of the Rg Veda Samhita, his lessons  coming from a division of the text into astaka, eight sections, was also drawn  to the Asvalayana Srauta Sutra, the ritual manual for the Rg Veda. In one 
 
-150 vedic voices 
+[[150]]
 
 remarkable pedagogical swap Kapilavayi Yajnesvara Agnihotra Sastri and  Tangirala Balagangadhara Sastri exchanged guru and student (sisya) roles in  Kapilesvarapuram in reciprocal teaching of the Rg Veda and Atharva Veda  Samhitas. So dominant is the Taittiriya Samhita, however, that only a few  hereditary families of Rg Vedins may be found today in the Godavari Delta.11 
 
@@ -35,7 +35,7 @@ prosperity, and abhicara, by which he meant counter-sorcery or defensive  charms
 
 In addition to pursuing other vikrti of the Taittiriya Samhita or turning to  Vedas in other sakha the young man with increasing abilities and an expanded  resumé, thinking ahead to living with his wife and starting a family, may 
 
-152 vedic voices 
+[[152]]
 
 choose further studies with a pandit elsewhere in the agrahara or in another  village or town, with a focus on one of the Vedangas, “limbs of Veda.” These  texts, some as old as the fifth century bce, aphoristic in style, are designed  as sciences to further transmission and understanding of the Vedas. Already  mentioned are the Sutras of Apastamba, his Srauta, Grhya, and Dharma  Sutras, respectively, manuals for sacrificial, domestic, and legal or traditional  rituals. In the delta these are part of the standard curriculum. Popular options  beyond Apastamba include Vyakarana, grammar, obviously significant for tex tual learning, particularly important in the transition from Vedic to Classical  Sanskrit, and Jyotisa, astronomical and astrological reckoning to determine  and interpret calendric time. 
 

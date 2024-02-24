@@ -33,7 +33,7 @@ connected yet a third time when they struck a marriage alliance. Yajulu’s son 
 
 Meanwhile, Vyaghresvara had pursued multiple career paths. In accord  with a hereditary relationship, he prepared a more rigorous program in smarta than the normal Veda pandit curriculum. This began at age fifteen and con cluded with exams three years later. Baballa’s Bhamidipati ancestors had  depended for generations upon Vyaghresvara’s Bulusu ancestors for services  as brahma (purohita) for samskara and other domestic rites. Absent from such  services would be apara, funerary rituals that called for a special Brahman.  Until his declining years prevented further service and the Bhamidipati fam ily was forced to go outside the hereditary link, Bulusu Cayanulu remained  as brahma for Baballa’s descendants. To a greater degree than any other Veda  pandit covered here, Bulusu Cayanulu, with a lifetime of experience in both  srauta and smarta, was able to articulate what he clearly understood to be a  close relationship between the two ritual traditions and the Grhya and Srauta  Sutras of Apastamba that support them. It is sometimes said by scholars that  Smarta Brahmans are sharply delineated from those who perform srauta, but  Bulusu Cayanulu was living proof otherwise. 
 
-88 vedic voices 
+[[88]]
 
 In addition to this dual profession he taught for fourteen years in a  veda-patha-sala in Billakurru, north of Vyaghresvaram on the other side of  the canal. He became an examiner in the Veda-certification process. And he  was invited regularly as rtvij in the rituals of Renducintala Yajulu and oth 
 
@@ -59,7 +59,7 @@ In family album photos Bulusu Cayanulu appears in his prime as a strik ingly han
 
 Bulusu Cayanulu was not the philosopher of the adjacent agrahara. Baballa  and Lanka were sought first as authorities, then Duvvuri Yajulu. He stated  his opinions forcefully, categorically, but often they were the odd ones out in  deliberations of the group and he was dismissed as eccentric. For example,  the aim of srauta, he would insist, is the cessation of births. But before he  could elaborate he would be cut off, overridden with contrary views. And his 
 
-90 vedic voices 
+[[90]]
 
 statements were sometimes whimsical and extravagant. “In a Telangana vil lage called Manthini,” he once pronounced grandly, “there are 800 Brahman  families, all ahitagni, all ghana-pathi, and there they perform vaja-peya.” He  possessed a charming naivete. When visits to Sriramapuram occurred a week  or so apart he assumed a commute back to America had intervened. When  presented with a 1975 book by the dora, inscribed to all in the agrahara and  meant to be shared, he assumed with worried demeanor that it was about  him. It was never seen again. Cayanulu inadvertently added a capricious tenor  to conversations. In early years there was no admission to the interior of his  house, and when asked, while sitting on his arugu, about the exact location of  his agni-hotra, room he could find no way to describe it. A careful map of the  agrahara was drawn for him, including the path separating the two rows of  houses and a large empty square for his house. No amount of prodding gave  results. Finally, in desperation to locate his agni-hotras for the inquisitive dora he shouted “Here!” and stabbed the map with the point of a pen in the middle  of the path. 
 

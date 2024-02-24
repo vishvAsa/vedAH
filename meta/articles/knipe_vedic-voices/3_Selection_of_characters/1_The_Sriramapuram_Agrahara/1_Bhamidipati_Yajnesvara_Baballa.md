@@ -19,7 +19,7 @@ Figure 3.1. Bhamidipati “Baballa” and Sundari, Sriramapuram 1987.
 
 Figure 3.2. Baballa, age eighty-eight, Sriramapuram 1991.
 
-58 vedic voices 
+[[58]]
 
 a role in a great srauta ritual, and stayed in the house for some days while  all the preparations were underway, he—or perhaps she, no one was sure— became the target of everyone’s affection. Baballa, sacrificer-to-be, found him  irresistible and admired him daily. “For the ritual of placement we dug a hole,  lined it with shells, let some honey drip onto his shell and placed him looking  at the hole. Face to face with him I recited: ‘You are not required here, you are  free to go.’ The altar bricks for the aruna-ketuka were laid in place above him.  Next morning he was gone. He found the way out.” 
 
@@ -89,7 +89,7 @@ referent, only the female equivalent of Soma-yaji, Somi-devamma. Although born i
 
 Baballa’s father, famous for teaching many students, was guru not only  for Baballa and his five brothers but also for the second Sriramapuram ahi tagni featured in this survey, Duvvuri Yajulu. At that time there were as many  
 
-60 vedic voices 
+[[60]]
 
 as twenty local students of Veda pandits in Mukkamala, with others arriving  from surrounding villages, some by sailboats gliding silently along the river  channels, or smaller craft poled through canals, or punt ferries pulled by rope  to connect one dirt track with another. Before there were metalled all-weather  roads and eventual bus services it was faster to travel by water, usually with  no more cost than hitching a ride on a bullock cart or horse tonga. Duvvuri  Yajulu, arriving from Kapilesvarapuram, remembered Baballa’s father being  so deeply lost in reciting the Vedic text of the day that “we students would  sneak away on calls of nature and he never noticed we were gone!” 
 
@@ -115,7 +115,7 @@ Baballa was well into his middle age, after many years’ study of srauta and  r
 
 Baballa’s yajna initiated an intense period of srauta and other rituals that  was to last five years, as if the sheer weight of his lineage had suddenly ener gized him. “I wanted to accomplish without fail all the rituals performed by all  my ancestors.” After agni-stoma came the sravana pasu animal sacrifice in the 
 
-62 vedic voices 
+[[62]]
 
 month of Sravana. In Bhadrapada month 1960 he performed aruna-ketuka,  the construction of a fire altar composed of symbolic “bricks” in the form of  water offerings. This sacrifice with his pet tortoise he always described as his  favorite and one that both his father and father’s older brother had done. For  this he did madhu-kara for twelve days, a symbolic year of begging for food  from house to house as if he had been returned to his youthful brahmacarin days. The catur-masya, four-monthly sacrifices, were also fulfilled, as was the  ritual of the new rice harvest, the agrayana, a performance that Baballa and  Sundari were to manage in Phalguna month every year through 1990 when  he was eighty-seven and she was eighty-one. In 1991, when both were frail and  quite deaf, it was regretfully omitted from their ritual schedule for the first  time. By then it had been the pattern for some years to allow the agni-hotra fires to lapse and then be rekindled for twice-daily offerings and two lunar isti 
 
@@ -139,7 +139,7 @@ When invited repeatedly by the TTD to take on a parayana position, or at  least 
 
 Perhaps more than any other Veda pandit Baballa expressed affection for  the local people and an awareness of their beliefs. At one time, out of interest  in the fourteenth-century Advaita scholar, Vidyaranya, author of the Pancadasi  and other works in the school of Sankara, he thought of establishing a shrine  by the bathing platform on the Kausika, just across the road from his house,  accessible to all for japa but not inside the agrahara. Then he became aware  that not many knew about Vidyaranya. On the other hand, Dattatreya, son  of the great rsi Atri, was quite popular. Baballa did not give credence to local 
 
-64 vedic voices 
+[[64]]
 
 folklore that a living incarnation of Dattatreya resided not far away in the  Sripada family, but he thought the original god, the amalgamation of Brahma,  Visnu, and Siva, deserved a home near the agrahara. “All three will be here and  people belonging to any of them can worship together.” When it was pointed  out that Dattatreya is not a Vedic god he broke into his one-tooth grin, “Ah,  yes, but Visnu is in the garhapatya, Siva in the daksinagni, and Brahma in the  ahavaniya,” knowing full well that the local folk knew nothing of these terms  and had never seen his agni-hotra room. A  donor was located and in 1987  the little Dattatreya shrine was founded with mantras and homa into a newly  rope-churned fire. Baballa also wished to acquire land in order to plant aus picious trees, the marri, medi, ravi, and vepa, in particular, so that folk in the  region could come and worship them and thereby acquire boons. 
 
@@ -187,7 +187,7 @@ sinagni beside his chest, the garha-patya cooking fire by his right thigh, each 
 
 Brahma-medha, punar-dahana, and lost-aciti are rarely performed rituals  beyond the expertise of local apara Brahmans who supervise the last rites of  laukika Brahmans and non-Brahmans. Even if they knew or had access to the  texts, however, it is considered risky to call them into service because of their  unclean status. For Baballa, an apara Brahman of good reputation, Akondi  Suryanarayana, was brought from Amalapuram to conduct the normal rituals  from cremation through the twelfth day. On the thirteenth day, however, the  bone collection (asthi-samcayana), special re-cremation (punar-dahana), and  layout of a losta-citi constructed of blocks of mud bricks (istaka) were in the  hands of Chirravuri Ramam, Baballa’s longtime student and spiritual “son,”  with Duvvuri Yajulu and Bulusu Cayanulu assisting from the Pitr-medha  Sutras. Most of these kriya and mantras, being unfamiliar ones, were directed 
 
-68 vedic voices 
+[[68]]
 
 by reading the text, but from time to time well-known mantras would surface  and allow the officiating troupe to relax into customary rhythms. Ashes with  fragments of bones and teeth had been collected a day after cremation and now  a portion was ground on two natural stones found at the cremation ground,  mixed with ghee, and reburned in order to obliterate all traces of soma. 
 
@@ -219,7 +219,7 @@ structed by Baballa he is daily reminded of his grandfather’s life. Prasad rel
 
 Figure  3.3. Bhamidipati Yajnesvara Prasad, Baballa’s grandson, with Laksmi  and daughters Rekha, Madhuri, and Kalyani, Sriramapuram 2005.
 
-70 vedic voices 
+[[70]]
 
 Baballa and Sundari understood the needs of ahitagni who came to the  area for sabha, marriages, and other events, so for more than twenty years  from the 1970s to 1990s they went to Mukkamalla for forty days in Sravana  and Bhadrapada, taking food cooked in Sundari’s kitchen for guests who could  not eat in non-ahitagni houses. And it was Prasad who revealed what Baballa  had said of the scholar from America in those early visits in the 1980s: “He is  one of us,” said Baballa, “and has more interest in Vedic tradition than people  here. For some samsara reason he was destined to be born elsewhere. But he  belongs to our country, our region, our place. To disseminate our tradition he  was born in that faraway country.” 
 

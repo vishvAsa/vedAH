@@ -17,7 +17,7 @@ The French also settled along the Coromandal coast, their equivalent of the  Eas
 
 tive textile and diamond exports. A visit in the 1980s seeking some lingering  expertise in the making of wine and bread disclosed that the old customs bor der between India and “France” was still evident, but only a walled cemetery,  the village toilet, spoke of a former Gallic presence.
 
-18 vedic voices 
+[[18]]
 
 By 1736, English East India Company ships eliminated French traders from  the Coromandal coast, although Pondicherry, Karikal, and Yanam remained  French territory until 1945. The English East India Company had won the  day, and from the remainder of the eighteenth century until formation of the  Republic of India in 1947 the Godavari Delta was in the Madras Presidency  (established in 1653)28 where it had been situated in 1768. By 1800, all access  to roads and property in the Presidency was governed by the Company.29 
 

@@ -25,7 +25,7 @@ The next construction (KV’s third rectangle on Plan 6.1) is the havir-dhana,  
 
 ied for action. (KV has placed it twice on Plan 6.1.) Four holes (uparava) are 
 
-212 vedic voices 
+[[212]]
 
 excavated as sounding chambers beneath it. A curious moment occurs: the  adhvaryu and sacrificer are on hands and knees, their right arms deep in these  holes to touch fingers and test the correct depth. Earth from the holes serves  as a small mound in the southeast corner, the khara, holding soma containers,  eleven camasa (including one for the sacrificer) and twenty graha cups. The  table is now set. 
 
@@ -53,7 +53,7 @@ cally beaten out of the agrahara as the stalks are bundled in white cloth and  l
 
 The camasa wooden cups have been crafted by a carpenter, each with  distinctive shape or handle for the sacrificer and ten priests identified as  cupbearers (camasin). Like the soma-lata creepers themselves these cups are  believed to swell from the potent juice that is quaffed by the gods, Indra,  Agni, Vayu, the Asvin pair, and others. These swollen cups also serve the 
 
-214 vedic voices 
+[[214]]
 
 ancestors, the pitr, Fathers, who arrive for their share.33 At a certain moment  in all the drinking of the remains of offerings to the deities (sacrificer and  priests are actually receiving their ucchista, leftovers), the mysterious god dess Ida, a personification of sacrificial remnants, is toasted as the eleven  camasin clink their cups together. The undiluted juice of coastal Andhra tiga is bitter. No one reports, even after the third pressing, hallucinogenic or  stimulant effects. The age of poetic inspiration from drinking soma is recol lected but not repeated. 
 
@@ -93,6 +93,6 @@ Duvvuri Yajulu was apathetic toward all of this, volunteering that he  never onc
 
 At the close of agni-stoma, yokes, both real and symbolic, are removed from  the bullocks, soma carts, soma-pressing materials, wife (her yoktra), sacrificer  (his mekhala) and all ropes, cords, and hides are thrown in the river along with  all implements and containers that have been touched by soma. The gods,  priests, and sacrificer have consumed soma together and no trace may remain.  Although the wife does not drink soma her funeral will nevertheless require, 
 
-218 vedic voices 
+[[218]]
 
 as discussed in the final segment of this chapter, that her bones and teeth  be re-cremated because she has absorbed the sacred substance by eating her  husband’s leftover food. The sacrificer and wife step into the river, now full of  the abandoned architecture of agni-stoma, and repeatedly pour pots of water  over each other until the unnetr priest leads them out. The sacrifice and its  protective diksa are concluded, they are born anew with new names (Soma-yaji  and Somi-devamma), and are now free to resume agni-hotra and entertain  thoughts of any advanced soma rite. 

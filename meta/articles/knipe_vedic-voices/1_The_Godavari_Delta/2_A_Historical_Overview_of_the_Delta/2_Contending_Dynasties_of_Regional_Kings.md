@@ -9,7 +9,7 @@ pourri of kingdoms controlling villages and extracting revenue not only in  Tami
 
 Saka hegemony was ended with the rise of the Gupta empire. Some six  centuries after the accession of Candragupta Maurya, another Candragupta,  again at Pataliputra, founded a new imperial dynasty that came to be labeled  in the north as India’s classical age, a period that produced enduring works  in Sanskrit such as the poetry and dramas of Kalidasa and the Kama Sutra  of Vatsyayana. The years of Candragupta’s rule were 320–35. His son,  Samudragupta (r. 350–75), and great-grandson, Kumaragupta (r. 415–55), the  fourth successive emperor, extended the dynasty. Samudragupta exercised  the asva-medha to lay claim to universal sovereignty, presumably after the 
 
-10 vedic voices 
+[[10]]
 
 initial agni-stoma rituals with soma drinking. His extraordinary rampage  down the east coast across Kalinga and on south through Pistapura and  Vengi on the Coromandal coast, ended with Kancipuram in Tamil Nadu. That  thousand-mile campaign, a show of force against more than a dozen kings  and their armies and subjects, must have required more than one stalwart  royal mount. 
 
@@ -37,4 +37,4 @@ Periods of interfaith civility alternated with intense deadly conflicts with  ot
 
 man, coupled with his personal experience of Visnu, led him to generate a  Vedanta of “qualified non-dualism” (Visistadvaita) and his teachings spread  throughout the Deccan via new religious centers like those of Sankara four  centuries before him.
 
-12 vedic voices 
+[[12]]

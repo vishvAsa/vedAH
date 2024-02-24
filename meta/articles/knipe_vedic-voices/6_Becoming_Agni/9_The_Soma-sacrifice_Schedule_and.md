@@ -31,7 +31,7 @@ and paka-yajna, the last simply being a category of “cooked” food such as ri
 
 After the paradigmatic agni-stoma it is perhaps the agni-cayana, known  locally simply as cayana, that carries the most weight in coastal Andhra. Its  variations, extending as long as forty days in the paundarika, will now be  addressed.
 
-222 vedic voices 
+[[222]]
 
 6.10 Variations of Agni-cayana,  
 
@@ -59,7 +59,7 @@ Construction demands a yardstick, supplied by a length of bamboo the  height of 
 
 Plan 6.2 Ground plan of a syena-citi, flying eagle altar for agni-cayana, drawn by  Dendukuri Agnihotra Somayaji’s grandson, Vijayawada 2005.
 
-224 vedic voices 
+[[224]]
 
 runaway tortoise two other reptiles are involved, a frog and a snake. A gold  coin and a small gold human image (hiranya-purusa) are foundational, as are  a naturally perforated stone, a divot of darbha grass, and a lotus leaf, all con sidered as “bricks” for the altar. 
 
@@ -111,7 +111,7 @@ Attributed to the sage Aruna, the aruna-ketuka is one of a group of altar  patte
 
 Charles Malamoud has noted that rites for these special kinds of fire altars  are found in a segment of the Taittiriya Brahmana (10.1–10; 11.1–11; 12.1–9) with  one exception, the aruna-ketuka, saved for the opening lines of the Aranyaka. 
 
-228 vedic voices 
+[[228]]
 
 His suggestion is that the fashioning of water bricks was such an enigma, a  paradox, that its proper locus for study and transmission was the forest.52 
 
@@ -143,7 +143,7 @@ Thus the ancient program. Today’s vaja-peya is less spectacular, the  wooden-w
 
 ing as sura has become milk. Nevertheless, it is an authentic soma and pasu sacrifice (without cow or ram) with all the mantras and kriya and as many as  thirty-two goats in a recent one. Lanka supervised several, including two in his  home village of Nedunuru in 1975 and 1979. A charming photo of the former 
 
-230 vedic voices 
+[[230]]
 
 vaja-peya shows him in a wooden-wheeled ratha surmounted by a parasol.  Mitranarayana was brahman singing the chant of the horses in the first one,  udgatr in the other, and Bulusu Kamesvara also took priestly roles. Dendukuri  Agnihotra performed vaja-peya, as his older brother, Candrasekhar, had done  previously. Dendukuri Agnihotra commenced on Telugu New Year’s Day,  Ugadi, March 20, 1996, only three months after he performed his gigantic  sarvato-mukha. 
 
@@ -165,7 +165,7 @@ Erotic display is not omitted. Behind a screen on the maha-vedi a man  “from M
 
 Long ago Renducintala Yajulu performed a maha-vrata in Gungalakurru,  on the canal just south of Nedunuru, employing a vesya (Telugu: prostitute) and  a Brahman bachelor in lieu of a brahmacarin for the sexual act, and Dendukuri  Agnihotra has more recently added the rite to his impressive resume. Duvvuri  Yajulu, performer of a paundarika in 1969, knew that the maha-vrata, with  requisite prostitute, was to be performed on the next-to-last day. “A couple was  available in Guntur,” he said, Guntur being “Magadha,” far away where things  are done improperly, “but I  did not seek them. No one would watch them  perform, so who could verify that ‘it’ was actually done! So with darbha grass  we made a male and a female doll (bomma) and threw them both up on the  platform out of sight!” On another occasion he suggested that “it” might have 
 
-232 vedic voices 
+[[232]]
 
 entered the ritual to remind the sacrificer and wife, celibate for forty days in a  paundarika, how “it” is done! 
 
@@ -231,7 +231,7 @@ Funeral Rites
 
 In the Harappan civilization of the third and second millennia bce, successive  funeral traditions included burial in the ground, then cremation, and then urn  burials of the ashes from cremation. So too the Rg Veda included hymns for 
 
-238 vedic voices 
+[[238]]
 
 ritual burials as well as cremations. Ultimately, however, Agni prevailed for  normative funerals. Henceforth it was Agni Kravyad, eater of flesh, who was  invoked rather than Bhumi, the gracious and mothering earth goddess who  still today safeguards the departed in many non-Brahman communities. 
 
@@ -259,7 +259,7 @@ Apart from all these details in the full array of rituals, there are spe cial su
 
 Chapter 3 noted the deaths of numerous ahitagni and patni, and some  funeral procedures for Baballa, Cayanulu, and Surya were detailed. Three  significant features were mentioned there and these require further elabora tion. First is the fact that an ahitagni, alone among all Hindus, does not die  until the beginning of the special funeral Taittiriyins know as brahma-medha.  A  second matter pertains to a soma sacrificer, and therefore drinker, who  must receive punar-dahana, a re-cremation of pulverized bones and teeth in 
 
-240 vedic voices 
+[[240]]
 
 order to eliminate all traces of the sacred substance, and this rule extends to  his co-sacrificer wife. And third, an ahitagni who has performed any type of  agni-cayana fire-altar building is entitled to the rite of losta-citi (or losta-cayana),  construction of an altar of mud or sod bricks on the spot of the cremation pyre.  Perhaps the best way to illustrate these different funerary procedures is to  relate events in a single agrahara. 
 
@@ -285,7 +285,7 @@ Women are sometimes gatherers of charred bone and tooth fragments a  day or two 
 
 After brahma-medha and re-cremation the procedures for Baballa and  Cayanulu differed only slightly in mantra and kriya. As performers of two  different versions of agni-cayana both were entitled to losta-citi, the stacking  of small sod or earth (losta) blocks in layers to commemorate their fire-altar  building. The blocks are called bricks (istaka) even though unfired, and at  times small stones may suffice. Baballa had performed aruna-ketuka with  water bricks while Cayanulu (as his honorary name reveals) had done cayana in a more conventional style nine years later. After thorough sweeping and  washing, the spot of cremation became the site of the memorial citi, one that  in both cases soon crumbled and disappeared in the rainy season. Ashes to  ashes, dust to dust.
 
-242 vedic voices 
+[[242]]
 
 With the losses of Baballa and Cayanulu, Sundari Somidevamma and  Subbalaksmi Somidevamma were left as white-covered widows confined to  their houses. Duvvuri Yajul’s wife Surya Somidevamma, on the other hand,  died suddenly nine years before him and her last rites had to meet three  requirements not faced by the other somi-devamma. First, because Surya’s  death left Yajulu alive the musi-vayanam ritual had to be performed for the  auspicious wife who dies first. A  brahma-muttaiduva Brahman funerary  priestess was brought from Amalapuram to locate Surya’s spirit and send it to  Gauri-loka, the heaven of goddess Gauri. Ten flower-adorned women attended  this female-directed ritual by the canal close to Sriramapuram and each  received Surya’s blessing in the form of prasada to take home. This is the ritual  that was done for Cayanulu’s first wife, Rama Suryakanta, when she died of  typhoid fever in 1945. Second, their ritual utensils, excepting implements for  re-cremation, were burned on Surya’s pyre with embers from their agni-hotra fires. The Duvvuri hearths then were permanently cold when Yajulu returned  home. And third, the punar-dahana re-burning was necessary for Surya, just  as it was for Baballa and Cayanulu. 
 
@@ -313,7 +313,7 @@ Ancestors are everywhere. It is not only the rsi sages who hover within the  riv
 
 Everyone remembers that a person has three debts (rna) in life: to the rsi sages, the gods, and the ancestors, paid respectively by reciting Veda, per forming sacrifices, and raising children. As constant reminders, Samavedam,  whose grandfather performed agni-stoma, always wore two silver rings with  ruby stones on his right forefinger, known in Telugu as tarjanilu, also the name  of the two rings, each engraved with ancestors’ names in deva-nagari letters.
 
-244 vedic voices 
+[[244]]
 
 Despite the ubiquity and neediness of ancestors, there is decided ambiva lence about an individual’s fate after death, as is true for the Vedic-Hindu tra dition in general. Contradictions can be controversial even in in the course of  a ritual and some have already been mentioned. For example, wives who die  before their husbands and receive the female-directed musi-vayanam ritual  are dispatched on the tenth day to Gauri-loka, realm of the goddess Gauri.  Two days later, however, male-directed rituals promote them into pitr-hood  via their husbands’ or their own parental ancestors, designating an alto gether different celestial company. And always contentious is the question  of ista-purta, merited results gained from the performance of sacrifices and  other deeds.70 
 
