@@ -2,5 +2,4 @@
 title = "०३ आप इद्वा"
 
 +++
-आप॒ इद्वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः।  
-आपो॒ विश्व॑स्य भेष॒जीस्तास्ते॑ कृण्वन्तु भेष॒जम् ॥
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/137/06_Apa_idvA.md"  newLevelForH1="5" includeTitle="false"> </div>  
