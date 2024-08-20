@@ -23,6 +23,16 @@ this verse and the next, and a little later vs. 27, are specified as
 the hymn, which is *triṣṭubh*.
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+
+Faithful rohiNI, rohita's consort,
+Of good hue, mighty and fiery,
+by her may we win booty of all kinds
+by her may we victors in all battles.
+</details>
+
+
 <details><summary>Griffith</summary>
 
 Golden, refulgent, lofty is the Lady, Rohini, Rohita's devoted Consort. Through her may we win various spoil and booty, through her be conquerors in every battle.
