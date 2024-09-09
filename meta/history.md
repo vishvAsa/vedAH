@@ -22,6 +22,9 @@ Evolution and corruption in veda-mantra-s is clearly acknowledged in the purANa-
 ## Evolution and some corruption
 In fact, with regards to the multiplicity of shAkhA-s and samhita-s, an **evolution and corruption** is clearly acknowledged. These accounts also situate this “proliferation of the vaidika canon” (massive growth of brāhmaṇa/kalpasūtra corpus) alongside the splitting of a single purāṇa into many as well as the proliferation of various smṛtis
 
+पुनः शाखासु दृश्यमाना वर्णव्यत्यासाः पौरुषेया इति -
+
+
 > लिङ्गपुराणे 
 > एको वेदश् चतुष्पादस् त्रेतास्व् इह विधीयते । संक्षयाद् आयुषश् चैव व्यस्यते द्वापरेषु सः ॥ १,३९.५७ ॥  
 > ऋषिपुत्रैः पुनर्भेदा भिद्यन्ते दृष्टिविभ्रमैः । मन्त्र-ब्राह्मण-विन्यासैः स्वर-वर्ण-विपर्ययैः ॥ १,३९.५८ ॥  
@@ -42,6 +45,11 @@ In fact, with regards to the multiplicity of shAkhA-s and samhita-s, an **evolut
 > एकम् आध्वर्यवं पूर्वम् आसीद् द्वैधं तु तत् पुनः  । सामान्य-विपरीतार्थैः कृतं शास्त्राकुलं त्व् इदम्  ॥ १४४.१५ ॥  
 > आध्वर्यवं च प्रस्थानैर् बहुधा व्याकुलीकृतम्  । तथैवाथर्वणां साम्नां विकल्पैः स्वस्य संक्षयैः  ॥ १४४.१६ ॥ 
 > व्याकुलो द्वापरेष्व् अर्थः क्रियते भिन्न-दर्शनैः  । द्वापरे संनिवृत्ते ते वेदा नश्यन्ति वै कलौ  ॥ १४४.१७ ॥
+
+
+समान-शाखायाम् अपि भेदा दृश्यन्ते।  
+तैत्तिरीयशाखायां द्राविडान्ध्रपाठयोर् दृश्यत एव भेदः।  
+स हि भट्टभास्करेणापि व्याख्यातः।
 
 ## Related material
 - See RV shakala saMhitA history notes elsewhere.
