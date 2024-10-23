@@ -12,6 +12,8 @@ unicode_script = "devanagari"
 - Fragmentary Gopatha Brahmana (extant and published), no accents. Mundaka Upanishad 
 
 ## पैप्पलाद-शाखा
+> The kashmirian manuscripts of raghuvIrra are lacunose relative to the more pristine kali~Ngan manuscripts. - MT
+
 > Followers are currently found in parts of Orissa and adjacent areas of Bihar and West Bengal and recite the Samhita in ekasruti (monotone syllable). Epigraphic and literary evidence shows that they once thrived in Karnataka, Kerala, Maharashtra, and parts of Gujarat, East Bengal and in Tamil Nadu as well.  
 > Source: The Vedas: Literature of Ancient India 
 
