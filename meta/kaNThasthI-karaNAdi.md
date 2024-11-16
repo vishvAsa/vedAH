@@ -36,5 +36,5 @@ Paksha 2
 So the story is that all the eka-santa-grAhis would memorize on day 1. They would recite on day 2 and the dvi-santa-grAhis would memorize it. Etc.  
 However, people generally rely on books for the "self study" part.
 
-So, cumulatively 10x anUchchAraNa, 150 + 45 + 15 = 160x self-study.
+So, cumulatively 10x anUchchAraNa, 150 + 75 + 15 = 240x self-study.
 
