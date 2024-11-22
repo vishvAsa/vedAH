@@ -22,7 +22,7 @@ Source: [TW](https://threadreaderapp.com/thread/1782402290227331264.html)
 
 It would not be correct to say that the concept of Devaninda does not exist in the Vedas and did not exist before 8th century AD. It certainly did.
 
-In the Vedas, there is a frequent reference to देवपीयक/देवपीयू. ​ This compound is a synonym of देवनिन्दक and comprises देवः+ पीयक(reviler)​= reviler of the Gods. It means exactly the same as Devaninda.
+In the Vedas, there is a frequent reference to देवपीयक/देवपीयू.  This compound is a synonym of देवनिन्दक and comprises देवः+ पीयक(reviler)= reviler of the Gods. It means exactly the same as Devaninda.
 
 This word is frequently mentioned in Vedic literature from Atharvaveda onwards. Attached are references from Monier Williams Sanskrit dictionary and Alexander Lubotsky's Indo Aryan lexicon for the meaning of the word. The Vedas are regarded by practicing Hindus as divine knowledge emanating from Brahma and considered very ancient. Even an uncompromising Western skeptic like Michael Witzel dates Atharvaveda to 1200 BC. Therefore, its antiquity is not in question.
 
