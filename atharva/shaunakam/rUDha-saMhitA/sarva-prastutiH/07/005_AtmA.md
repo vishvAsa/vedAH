@@ -71,7 +71,8 @@ A glorification of sacrifice
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ########### Pāda-label
@@ -79,7 +80,8 @@ popular;; repeated line
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line
-########### Morph
+_________
+**Morph**  
 ayajanta ← √yaj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
