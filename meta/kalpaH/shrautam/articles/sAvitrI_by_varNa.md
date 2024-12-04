@@ -16,7 +16,7 @@ devasya savitur vayaM vAjayantaH purandhyA | - MT
 
 OTOH, bodhāyana śeṣasūtra prescribes "tat saviturvareņyam" for v1s, "āsatyena rajasā" for v2s and "yuñjate mana" for v3s. All these are there in taittiriya. It's quite possible v2s and v3s abandoned their sāvitrī early on.
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
 <details open><summary><h5>आ सत्येन रजसा ...{Loading}...</h5></summary>
 
 

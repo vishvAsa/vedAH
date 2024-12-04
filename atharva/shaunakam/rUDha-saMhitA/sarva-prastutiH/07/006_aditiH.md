@@ -107,7 +107,7 @@ what is future.
 तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीꣳ+++(=उरुगमनां)+++  
 सु॒शर्मा॑ण॒म् अदि॑तिꣳ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 <details open><summary><h5>महीम् ऊ षु ...{Loading}...</h5></summary>
 
 म॒हीम् ऊ॒ षु मा॒तरꣳ॑ सुव्र॒ताना॑म्  
@@ -177,7 +177,7 @@ ing, well protecting.
 
 टिप्पणी:   २−(महीम्) महतीम् (उ) अवधारणे (सु) सुष्ठु। सत्कारेण (मातरम्) मातृसमानहिताम् (सुव्रतानाम्) शोभनकर्मवताम् (ऋतस्य) सत्यधर्मस्य (पत्नीम्) पालयित्रीम् (अवसे) रक्षणाय (हवामहे) आह्वयामः (तुविक्षत्राम्) बहुबलां बहुधनाम् (अजरन्तीम्) अजराम् (उरूचीम्) अ० ३।३।१। बहुविस्तारगताम् (सुशर्म्माणम्) उत्तमगृहयुक्ताम्। बहुसुखवतीम् (अदितिम्) अ० २।२८।४। अदीनां पृथिवीम्-निघ० १।१। (सुप्रणीतिम्) सुष्ठु प्रकृष्टनीतियुक्ताम् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md"></div>
 </details>
 </div>
 
