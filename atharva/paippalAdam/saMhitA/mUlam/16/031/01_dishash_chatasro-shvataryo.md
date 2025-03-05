@@ -1,0 +1,9 @@
++++
+title = "०१ दिशश् चतस्रो ऽश्वतर्यो"
+
++++
+<details><summary>मूलम् (GR)</summary>
+
+दिशश् चतस्रो ऽश्वतर्यो देवरथस्य पुरोडाशाः +++(Bhatt. catasrośvataryo)+++  
+शफा अन्तरिक्षम् उद्धिः ॥ +++(Bhatt. udbhiḥ)+++
+</details>
