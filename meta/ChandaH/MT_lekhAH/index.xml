@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;मानसतरङ्गिणीकृल्-लेखाः on वेदे विश्वासटिप्पन्यः</title>
+    <link>https://vishvAsa.github.io/vedAH/meta/ChandaH/MT_lekhAH/</link>
+    <description>Recent content in &#43;मानसतरङ्गिणीकृल्-लेखाः on वेदे विश्वासटिप्पन्यः</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Dec 2004 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vishvAsa.github.io/vedAH/meta/ChandaH/MT_lekhAH/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zipf’s law</title>
+      <link>https://vishvAsa.github.io/vedAH/meta/ChandaH/MT_lekhAH/2004-12-23_zipfs-law/</link>
+      <pubDate>Thu, 23 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/vedAH/meta/ChandaH/MT_lekhAH/2004-12-23_zipfs-law/</guid>
+      <description>&lt;p&gt;Source: &lt;a href=&#34;https://manasataramgini.wordpress.com/2004/12/23/zipfs-law/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Some recent discussions on scripts and languages reminded me of Zipf’s law. It is a version of the power law that states that the probability of encountering the nth most frequent word in a language is: p(n)=n^(-s) (where s is little more than 1). Thus the probability of find the nth most frequent word is approximately proportional to 1/n. For command-line users it is of interest to note that the Zipf’s law distributions are also seen in the probability with which the unix command ranked nth in usage is used. To the best of my knowledge nobody has performed a frequency analysis of the Vedic texts and studied the patterns of word and phrase occurrence in them. I am a little lazy to write the programs to perform this analysis, but it would definitely be of some interest for comparative studies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>avestan meters</title>
+      <link>https://vishvAsa.github.io/vedAH/meta/ChandaH/MT_lekhAH/2004-09-27_avestan-meters/</link>
+      <pubDate>Mon, 27 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/vedAH/meta/ChandaH/MT_lekhAH/2004-09-27_avestan-meters/</guid>
+      <description>&lt;p&gt;Source: &lt;a href=&#34;https://manasataramgini.wordpress.com/2004/09/27/avestan-meters/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Avestan [saMhita pATha]&lt;/p&gt;&#xA;&lt;p&gt;ýazata pouru-hvarenanghô ýazata pouru- baêshazô : cithra vô buyâresh&#xA;masânå.&lt;/p&gt;&#xA;&lt;p&gt;O gods of abundant divine luster, O gods of abundant medicines; let your&#xA;excellence become manifest!’&lt;/p&gt;&#xA;&lt;p&gt;meter in vedic terminology: pipIlikamadhyA uShnik [Avestan uShnik&#xA;variant]&lt;/p&gt;&#xA;&lt;p&gt;[pada pATha]&lt;/p&gt;&#xA;&lt;p&gt;ýazata pouru-huvarenanghô / ýazata pouru- baêshazô / : cithra vô buya&#xA;aresh masânå.&lt;/p&gt;&#xA;&lt;p&gt;1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 9 10&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Divergence in the constraining motifs of the gAyatri: kANvas and others</title>
+      <link>https://vishvAsa.github.io/vedAH/meta/ChandaH/MT_lekhAH/2004-09-26_divergence-in-the-constraining-motifs-of-the-gayat/</link>
+      <pubDate>Sun, 26 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/vedAH/meta/ChandaH/MT_lekhAH/2004-09-26_divergence-in-the-constraining-motifs-of-the-gayat/</guid>
+      <description>&lt;p&gt;Source: &lt;a href=&#34;https://manasataramgini.wordpress.com/2004/09/26/divergence-in-the-constraining-motifs-of-the-gayatri-kanvas-and-others/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The vedic gAyatrI meter is constructed as per the following rules:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;It shall ideally have 24 syllables in two hemistiches&lt;/li&gt;&#xA;&lt;li&gt;hemistich 1 shall have 16 syllables and hemistich 2 shall have 8 syllables.&lt;/li&gt;&#xA;&lt;li&gt;Thus there shall be 3 pAdas each of 8 syllables divded into 4 syllable units on which the further rules shall act.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The following are defined as light or short syllables denoted by &lt;strong&gt;U&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;a; i; u; R^i&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
