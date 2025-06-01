@@ -20,6 +20,8 @@ It is not anyone's position that all the veda-s were "seen" by the sages simulta
 Evolution and corruption in veda-mantra-s is clearly acknowledged in the purANa-s. In early stages, there was clear inter-shAkhA rivalry. 
 
 ## Evolution and some corruption
+(साम्प्रदायिकेभ्यो ऽपशब्दप्रयोगस्य क्षमां याचे। किञ्च "एको हि दोषो गुणसन्निपाते" इति भावेन प्राशस्त्यम् अविस्मृत्यैव तथोक्तम्।)
+
 In fact, with regards to the multiplicity of shAkhA-s and samhita-s, an **evolution and corruption** is clearly acknowledged. These accounts also situate this “proliferation of the vaidika canon” (massive growth of brāhmaṇa/kalpasūtra corpus) alongside the splitting of a single purāṇa into many as well as the proliferation of various smṛtis
 
 पुनः शाखासु दृश्यमाना वर्णव्यत्यासाः पौरुषेया इति -
@@ -50,6 +52,8 @@ In fact, with regards to the multiplicity of shAkhA-s and samhita-s, an **evolut
 समान-शाखायाम् अपि भेदा दृश्यन्ते।  
 तैत्तिरीयशाखायां द्राविडान्ध्रपाठयोर् दृश्यत एव भेदः।  
 स हि भट्टभास्करेणापि व्याख्यातः।
+
+एवं शाखासु पाठ-भेद-कलनम् [अन्यत्र](/vedAH/meta/shAkhA/pATha-bhedAH) दृश्यम्। 
 
 ## Related material
 - See RV shakala saMhitA history notes elsewhere.
