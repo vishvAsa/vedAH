@@ -10,4 +10,7 @@ The AV practitioners wanted exclusivity perhaps, and posited simpler rituals for
 
 Since trayi folks had first mover advantage, the threat of ritual simplification from AV camp was countered with simplified vidhana, grihya and prayogas purely based on trayi (YV schools predominantly).
 
+## Exterior influence
+
+In general the parsimonious explanation is the floating mass of mantras that AV, YV, mantrapATha of grihya sutras draw from and pAThabhedas are natural evolutions. Anuvaka of YV having that mantra. Extrapolating this to "AV composed it first; AV practitioners were the ones responsible for YV adaptations; ergo they're responsible for shaping the adhvaryava tradition" requires unwarranted leaps of faith and not supported by data.
 
