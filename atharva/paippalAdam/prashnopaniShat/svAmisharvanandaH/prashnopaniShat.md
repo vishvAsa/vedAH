@@ -40,7 +40,7 @@ IN this book Devanāgarī characters are transliterated according to the scheme 
 **PEACE INVOCATION**
 
 **ॐ भद्रं कर्णेभिः शृणुयाम देवाः भद्रं पश्येमाक्षभिर्यजत्राः।  
-स्थिरैरङ्गैस्तुष्टुवाꣳ सस्तनूभिर् व्यशेम देवहितं यदायुः॥  
+स्थिरैरङ्गैस्तुष्टुवाँ सस्तनूभिर् व्यशेम देवहितं यदायुः॥  
 स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः।  
 स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्ततिर् दधातु॥**
 
@@ -291,7 +291,7 @@ parts, hold this body and support it.' But they were not disposed to believe his
 
  \[NOTES—*1. I alone dividing myself etc.*—Here it refers to the five kinds of vitai breath, viz., Prāṇa, Apāna, Samāna, Udāna, and Vyāna which are supposed to function in maintaining the body. But the powers which the sensory and motor organs manifest by their functioning are only expressions of the one vital energy that pervades the whole body, and which again is a part of the universal energy. There is only one Prāṇa that acts through the body and Nature. This truth has been allegorically described here as well as in the subsequent sections.\]
 
-**सोऽभिमानादूर्ध्वमुत्क्रमत इव; तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते तस्मिꣳश्चप्रतिष्ठमाने सर्व एव प्रातिष्ठन्ते। तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते, तस्मिꣳश्च प्रतिष्ठमाने सर्वा एव प्रातिष्टन्त, एवं वाङ्मनश्चक्षुःश्रोत्रं च ते प्रीताः प्राणं स्तुन्वन्ति॥४॥**
+**सोऽभिमानादूर्ध्वमुत्क्रमत इव; तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते तस्मिँश्चप्रतिष्ठमाने सर्व एव प्रातिष्ठन्ते। तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते, तस्मिँश्च प्रतिष्ठमाने सर्वा एव प्रातिष्टन्त, एवं वाङ्मनश्चक्षुःश्रोत्रं च ते प्रीताः प्राणं स्तुन्वन्ति॥४॥**
 
  **सः** he (Prāṇa) **अभिमानात्** from indignation **ऊर्ध्वम्** upward **उत्क्रमते** was going out **इव** as if ; **तस्मिन्** when he i.e. the chief Prāṇa) **उत्क्रामति** when gone out, **अथ** thereupon **इतरे** others **सर्वे एव** all **प्राणाः** Prāṇas (senses and organs) **उत्क्रामन्ते** get out; **तस्मिन्** when he (te the chief Prāṇa) **च** and **प्रतिष्ठमाने** when being established **सर्वे** all **एव** verily **प्रातिष्ठन्ते** are established, **तत् यथा**as**मधुकरराजानम्** the king of the bees (queen-bee) **उत्क्रामन्तम्** in
 
@@ -321,9 +321,9 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
  Here Prāṇa is spoken of as the ruling force ofNature, nay, as Nature herself.\]
 
 **अरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितम्।  
-ऋचो यजूꣳषि सामानि यज्ञः क्षत्रं ब्रह्म च॥६॥**
+ऋचो यजूँषि सामानि यज्ञः क्षत्रं ब्रह्म च॥६॥**
 
-** रथनाभौ** in the nave of a wheel **अराः** spokes **इव** as**प्राणे** in Prāṇa **सर्वम्** all **प्रतिष्ठितम्** are established. **ऋचः**the Ṛks (Veda) **यजूꣳषि** Yajus (Veda) **सामानि** Sāmas(Veda) **यज्ञः** Sacrifice **क्षत्रम्** Kṣatriyas **ब्रह्म** Brāhmaṇas **च**and (**तस्मिन्** **प्रतिष्ठितम्** are established in that),
+** रथनाभौ** in the nave of a wheel **अराः** spokes **इव** as**प्राणे** in Prāṇa **सर्वम्** all **प्रतिष्ठितम्** are established. **ऋचः**the Ṛks (Veda) **यजूँषि** Yajus (Veda) **सामानि** Sāmas(Veda) **यज्ञः** Sacrifice **क्षत्रम्** Kṣatriyas **ब्रह्म** Brāhmaṇas **च**and (**तस्मिन्** **प्रतिष्ठितम्** are established in that),
 
   As spokes in the nave of the wheel, all**¹**are fixed in Prāṇa-Ṛks, Yajus, Sāmas, sacrifice, Kṣatriyas and Brāhmaṇas.
 
