@@ -6,19 +6,17 @@ title = "Agarv Ala vish Ala H"
 
 Rigvedi Brahmin communities.
 
-### Tamil Nadu: 
+### Tamil Nadu
 
 The Aiyar Brahmins of Tamil Nadu recite the Samhita, Padapatha, Kramapatha, Jatapatha and Ghanapatha of the Rigveda Samhita [STAAL 1961:24-25]. 
 
-### Kerala:
+### Kerala
 
 Nambudiris: According to the most comprehensive studies undertaken, approximately 35% of the Nambudiris are Rigvedins, 50% are Yajurvedins and just about 1/8% are Samavedins. The rest are excluded from Vedic study [STAAL 1961:35-36]. The peculiarities of Rigveda recitations of Nambudiris are discussed by STAAL [1961] in detail, and are beyond the scope of the present article. They do not recite the ghanapatha, and the Samhita, Pada and Krama recitions are collectively termed as Trisandham. Unique to this Brahmin community is the recitation of the vkrti called ‘rathapATha’, which is somewhat different from the standard ratha illustrated in the ‘aSTavikRti’ in printed additions such as those of Satavlekar [ibid 47]. 
 
 The other significant feature of Nambudiri Rigvedins is that they recite not only the Samhita, but also their Brahmana, Aranyaka and the Upanishads with Vedic accents. Secondly. they are not necessary followers of the Asvalayana Sutra. They might also belong to the Shankhayana Sakha (which they call ‘Kausitaki’) [STAAL 1961:53]. 
 
 **Maharashtra:** Maharashtra has numerous communities of Brahmins following the Rigveda as their svashakha. 
-
-
 
 1. Saraswat Brahmins [KARVE 1968:22] – Epigraphic records show that this community of Brahmins has been occupying the western coastal strip between Malwan (in Gujarat) to Managalore (in Karnataka) from at least the time of the Kadamba dynasty, i.e., the 12<sup>th</sup> century AD. Currently however, these Brahmins are found as far south as Cochin (in Kerala) and Mumbai and even in Chennai. The Saraswat Brahmins are known for their particular dietary trait – they eat fish, whereas all the Dravida Brahmins in their vicinity are vegetarians. They are the southernmost group of people speaking an Indo-Aryan dialect, and worship Lord Shiva as Mangesh, and the mother goddess in her various auspicious forms. The Saraswat Brahmins allow the marriage or a man with his mother’s brother’s daughter. They speak a language which is often distinguished from Marathi as a distinct language (and not a dialect of Marathi) by linguists. The Saraswat Brahmins are also called Gaud Saraswats or Shenvis. Per their own traditions, they hail from the banks of the Sarasvati River in north India, from where they were brought by Parshuram for settlement in and around Goa.
 2. Karhade Brahmins [KARVE 1968:22-23] – They are a small community of coastal Maharashtrian, and live to the immediate north of the Saraswats, in the districts of Satara, Kolaba and Ratnagiri. The community apparently originated in the Deccan plateau, from where they migrated en masse towards the town of Karhad on the western edge of the plateau. Historical records indicate that they have been present in that area from at least the 12<sup>th</sup> century CE, and that they held important revenue offices from the 10<sup>th</sup> to the 13<sup>th</sup> century CE. The Karhade Brahmins are strict vegetarians, and they worship the mother goddess. They permit the marriage of a man to his sister’s daughter and to his father’s sister’s daughter. According to tradition, these Brahmins were created by Parshuram from a camel’s bone [ibid, 135].
@@ -38,20 +36,17 @@ Ghanapatha of Rigveda: Manuscripts of the same are reported to exist/have existe
 
 Jatapatha: Short manuscripts containing the Jatapatha of a few selected verses of the Rigveda exist in certain manuscript collections [AITHAL 1991:188].
 
-
 ### Oral Traditions
 
 Three types of Rigvedic recitation exist in India: Maharashtrian, Nambudiri and Tamil. The Maharashtrian Rigvedins belong to the Shakala Shakha and the Ashvalayana Sutra [Ref. 7, pg. 21].
-
 
 ### Geographical Distribution
 
 The epigraphy dealing with the northern Ashvalayanas is found to the east and the north: 1. At Barrackpur (West Bengal) during the Sena dynasty; 2. Around Jodhpur, Rajasthan, 8<sup>th</sup> cent. C.E.; 3. In Mandhata, Malva (Madhya Pradesh), 12<sup>th</sup> cent. C.E.; 4. In the Tirunelveli region, Tamilnad, 16<sup>th</sup> and 17<sup>th</sup> cent. C.E.; 5. In the Godavari district, Andhra Pradesh, 15<sup>th</sup> cent. C.E.; 6. At Kanchipuram, Tamil Nadu, 17<sup>th</sup> cent. C.E.; 7. At Tanjavur, Tamil Nadu, during Pallava rule; 8. In the North Arcot district, Tamil Nadu, 14<sup>th</sup> cent. C.E. [Ref. 7, pg. 22]
 
-
 ### Traditional Commentaries of the Sakala Samhita
 
-#### Skandaswamin:  
+#### Skandaswamin:
 
 The date of Skandaswamin can be deduced from the colophon verses in Hariswamin’s commentary on the Madhyandina Satpatha Brahmana. According to a verse in the colophons of the commentary, Hariswamin was the ‘dharmaadhyaksha’ of Emperor Vikramaditya, the ruler of Avanti. Hariswamin also states that he was the pupil of Skandaswamin, a commentator of the Veda. The date on which the commentary on the Satapatha Brahmana was written by Hariswamin is also mentioned in another verse, which is interpreted by SARUP [1937] as “This commentary was written when 3700 and another 40 years of the Kali Age had passed away” [p. 399]. Since the Kali Era commenced in 3102 BCE according to tradition, we arrive 638 CE as the year in which the commentary was composed. This leads to the difficulty that no king by the name Vikramaditya is known to have ruled at Avanti in that year. SARUP therefore amends the text to read ‘3600 and another 40 years’ leading to 538 CE as the date of the composition. Thereafter, he equates Yasodharman, the ruler of Malva, with Vikramaditya, and concludes that Yasodharman was the patron of Hariswamin. If we accept SARUP’s emendation, Skandaswamin becomes a senior contemporary of Hariswamin, and should have lived around the beginning of the sixth century C.E.
 
@@ -67,12 +62,11 @@ Madhvacharya (13<sup>th</sup> cent. C.E.) the famous founder of the Dvaita Vedan
 
 #### Sayanacharya
 
-#### Ravana: 
+#### Ravana
 
 Edward Hall was perhaps the first scholar to mention Ravana’s commentary on Rgveda[^3]. He stated that he had met several Pandits in Gwalior and Ajmer who were not only acquainted with Ravana’s commentary, but also claimed that it extended over the entire Samhitas of Rgveda and Yajurveda. HALL also noted that the existence of Ravana’s commentary on the Rgveda is indicated in Mallaari’s Grahalaaghava. Dayanand Sarasvati (d. 1883 CE), the founder of Arya Samaj, too mentions Ravana as a commentator of the Vedas, in his own Rgvedaadibhaashyabhumikaa. Bhagavad DATTA mentions the existence of a manuscript of Ravana’s Padapaatha on Rgveda Samhita in the Lalchand Library of D. A. V. University in Lahore before 1947. Nothing is known about its current existence.[^4] The Padapaatha does differ from the prevelant Padapaatha of Sakalya on the Rgveda Samhita.
 
 Citations from Ravana’s commentary are found in the Daivajna Pandit Surya’s commentary titled Paramaathaprabha on the Bhagavad Gita[^5]. These have been and edited with a Hindi translation by GUPTA [1967][^6]. The following table lists the commented mantras and their location in the commentary on the Bhagavad Gita.
-
 
 <table>
 <tr>
@@ -189,7 +183,6 @@ Citations from Ravana’s commentary are found in the Daivajna Pandit Surya’s 
 </tr>
 </table>
 
-
 On his Gita commentary on verse 11.33, Daivajna Pandit also notes that whereas Sayana’s commentary on the Vedas was primarily Adhidaivika (pertaining to deities and the rites associated with them), Ravana’s own commentary had a distinct *aadhyaatmika* (spiritual) bent. The summary below is based on this edition. Nothing much can be said about the date of Ravana, except that he must have obviously preceded Daivanja Pandit Surya, who himself wrote his commentary on the Lilavati in the year 1538.[^7] 
 
 Ravana seems to be a follower of Shankaracharya’s Advaita Vedanta. In his commentary, he quotes Rgveda, Yajurveda, Upanishads, Nirukta, Ashtadhyayi, Agama texts, Hathayoga texts etc. The editor compares and contrasts Ravana’s interpretations with those of these mantras in other Vedic texts (such as the Krsnayajurveda Samhitas and Brahmanas, Kalpasutras, Upanishads) and in later commentaries of Sayana, Skandasvamin etc. Whereas Madhavabhatta uses Brahmana texts quite profusely, Ravana does not seem to derive much from them [page 34]. While Venkatamadhava relies greatly on Pauranic and Akhyana interpretations of mantras, Ravana steers clear of this approach and draws more on Advaita Vedanta [page 38]. Sayana differes a lot from Ravana in interpreting Rgveda 10.129.1.2, but on other mantras, there are strong similarities. It appears that one of the writers is borrowing from the other, but on this basis alone, it is difficult to determine if Sayana preceded Ravana or vice-versa. In some cases (for instance on mantra 10.107.1), Ravana attributes a non-conventional meaning to Sanskrit roots (*dhatus*). Often, he also resolves the words of mantras in a manner different from that depicted in Sakalhya’s padapaatha. 
@@ -200,7 +193,7 @@ Mudgala
 
 Nitimanjari of Dyaa Dviveda: An autocommentary on the Nitimanjari too was composed by Dviveda and two manuscripts on the same exist in Calcutta [HARAPRASAD SHASTRI 1923: 249-251].
 
-### Modern Translations of the Sakala Samhita: 
+### Modern Translations of the Sakala Samhita
 
 The list below is obviously partial, and excludes linguistic, philological, anthropological and other secondary studies on the Rigveda. I have tried to include only those works which are intentional translations of (parts) the text.
 
@@ -296,17 +289,13 @@ Commentaries on the Purusha Sukta
 
 1. Varadaraja
 
-
 ### Indices of Rigveda
-
 
 #### Sarvanukramani
 
 The work is ascribed generally to Katyayana although in some manuscripts (Eg. # 225 in Ref. 1, Pg. 273), it is ascribed to ‘Vararuchi, the disciple of Katyayana’ whereas a few manuscripts even attribute it to Asvalayana. In some manuscripts (#228, ibid, Pg. 275), additional verses with Vedic accents are also found. Does this indicate that the Sarvanukramani verses were originally accented? 
 
 Commentaries [AITHAL 1991:225-235]: 
-
-
 
 1. Vedarthadipika of Shadagurusishya
 2. Dipaprabha of Narayana Namputiri of Akkittam family at Vennanadu in Perumpally near Trippunithura. The author was the son of Deva and AryA and is assigned to 16<sup>th</sup> cent. C.E. [ref. 6]
@@ -320,18 +309,16 @@ Commentaries [AITHAL 1991:225-235]:
 10. Bhashya of Vasudeva of Kerala –Manuscripts of this work exist at Baroda and in private collections in Kerala.
 11. Commentary by Ganeshabhatta Dokhale.[^33]
 
-
 12. Commentary by Jagannatha.[^34]
-
 
 13. Kannada Vrtti of Bhairava Bhattopadhyaya, the son of Devanna
 14. Tika in Kannada by Appaaji-bhatta
 
-#### Devatanukramani: 
+#### Devatanukramani
 
 Whilst the Brhaddevata of Shaunaka is famous as the Devata index of the Rgveda Samhita, it is apparently a recast of an older Devatanukramani. The Devatanukramani is said to be lost, although AITHAL [1991:188, 310] mentions the existence of a manuscript titled ‘Devatanukramani’ at Trivandrum. Due to its relative geographical isolation, Kerala has produced several unique manuscripts of works which got lost in other parts of India, and this manuscript might represent the original Devata index of the Rigveda, or atleast an older version of the Brhaddevata.
 
-#### Anuvakanukramani: 
+#### Anuvakanukramani
 
 It is index of the first words (‘pratikas’) of all the 85 Anuvakas (sections) of the Sakalya Samhita of Rigveda. It comprises of 40 verses and towards the end, it states that the Rigveda has 1017 hymns, 10580 verses 153,826 words and 432,000 syllables. Numerous printed editions exist, the best being the one appended to Pundit Satavalekar’s edition of Rigveda
 
@@ -345,14 +332,12 @@ Chhando’anukramani
 
 Varganukramani – An index of vargas of the Sakala Samhita. An incomplete manuscript exists at Travancore University [AITHAL 1991:211].
 
-#### Arshanukramani:
+#### Arshanukramani
 A metrical text comprising of 300 verses divided into ten chapters of 30, 5, 10, 5, 32, 8, 4, 47, 48 and 103 verses corresponding to the 10 Mandalas of the Samhita respectively. Shadaguru-Sishya quotes the text 16 times in his Vedartha-dipika. There is a parallel text called the ‘Rsyanukrama’. The Arshanumrakamani was first published in his edition of the Brihaddevata by Rajendralal Mitra, from Calcutta in 1893. The same edition has been reprinted by Sharma with a Hindi commentary [Ref. 8]
 
 Akhyatanukramani of Madhava, son of Venkatarya
 
-### General Works on Rigveda Shakalya Samhita:
-
-
+### General Works on Rigveda Shakalya Samhita
 
 1. Nitimanjari of Dya Dviveda: His father’s name was Lakshmidhara, grandfather’s name was Atri and great-grandfather was Mukund. He composed the Nitimanjari in 200 verses in 8 sections (Ashtakas) with an autocommentary called Vedarthaprakasha. The work rubricates the mantras of Rigveda into parables. According to tradition, Dya Dviveda was so proficient in the Vedas that he could recite them in 11 days.
 2. Maharudravidhana of Achala Dviveda: He was one of the 3 sons of Vatsaraja, grandson of Govinda, great grandson of Lakshimadhara and great-great grandson of Ananta. He resided at Anandapura in Gujarat, and lived around 15<sup>th</sup>-16<sup>th</sup> cent. C.E. since the colophon of another of his works (Nirnayadipika) gives the date of 1518-1519 C.E.  He lived at Vrddhapura and belonged to the Mahoda subsection of Nagara Brahmins [ref. 3, pg. 203]. No information is available about this work as such.
@@ -361,8 +346,6 @@ Akhyatanukramani of Madhava, son of Venkatarya
 **Rigveda Pratisakhya:** This work is also known by several other names like Parshada sutra, Rkpratisakhya, Rgveda Pratisakhya Parshada and Saunakiya Pratisakhya. The Rkpratisakhya deal with the Saisiriya Sakha of Sakala Charana of Rigveda but it is equally applicable to both the Sakala and the Bashkala Sakhas. It deals with the Chhanda, the Samhita and the Pada related to the RV text.
 
 Commentaries [AITHAL 203-209]
-
-
 
 4. Bhasya of Kumara Vishnumitracharya, son of Devamitracharya
 5. Parsadavrtti: An anonymous work, older than Uvatta’s Vrtti [AITHAL 1991:204] existing in manuscript.
@@ -379,7 +362,7 @@ Works on the Kramapatha of Rigveda
 
 1. Upalekha Sutras: This text comprises of 136 sutras divided into 8 vargas. Saunaka, Bharadvaja and Katyayana are alternately said to be the authors of this text. An excellent edition with a  commentary has been published by Abhyankar [Ref. 9]
 
-### Aitareya Brahmana:
+### Aitareya Brahmana
 
 The Brahmana comprises of 40 chapters which are grouped in 8 groups (=pachika) of 5 chapters each.
 
@@ -399,12 +382,9 @@ The first edition of the Aitareya Brahmana, together with an English translation
 
 Bahvrchabrahmana: A Bahvrchabrahmana Parisishta is quoted by Devan?n?a[^36].
 
-
 ### Aitareya Aranyaka
 
 #### Commentaries
-
-
 
 1. Mokshaprada of Shadagurushishya [ref. 5]
 2. The Vedartha Prakasha of Sayanacharya
@@ -422,8 +402,6 @@ A new critical edition is being prepared by MUNISVARADEVA [1990: 24-30]
 #### Aitareya Upanisad (Comprising Aranyakas 2-3 of the Aitreya Aranyaka).
 
 Also called Atmashatakopanishad because it is often divided into 6 khandas in traditional commentaries.
-
-
 
 1. Shankaracharya: Only the commentary on Aranyaka 3.4-6 is normally printed. A Manuscript at Calcutta however covers the entire Aranyaka 3 [HARAPRASAD SHASTRI 1923: 267] and the entire commentary has actually been printed.
 2. Shadagurushishya: He has written a commentary called ‘Mokshaprada’ on the entire Aitareya Aranyaka. The commentary has been published only partially.
@@ -471,16 +449,12 @@ The Sutra was first published by Ramanarayan Vidyaratna from Calcutta in the yea
 
 Commentaries
 
-
-
 1. Vyakhya of Devatraata alias Varaahadeva: Manuscript containing this commentary on the third chapter of the Srautasutra exists in Calcutta, whereas another manuscript containing the commentary on the first three chapters exists in Bikaner [HARAPRASAD SHASTRI 1923: 326-327].
 2. Siddhantin Bhashya, published by Mangaladev Shastri.
 3. Abhudayaprada of Shadagurushishya: Manuscript in the Trivandrum Oriental Manuscripts Library
 4. Prayogavrtti by Taalavrntanivasin, who followed Devatraata.[^37]
 
-
 5. Samgrahadipika of Tippu Bhatta, son of Rama Bhatta: Manuscript exists at Calcutta in the Calcutta Sanskrit College[^38] as well as in the Asiatic Society of Bengal collections.
-
 
 6. Bhashya by Tryambaka, son of Krishna Bhatta: Manuscripts containing this commentary on the third chapter of the Srautasutra exists in Calcutta [HARAPRASAD SHASTRI 1923: 309]. Its extent is 350 slokas.
 7. Bhashya by Narayana
@@ -494,9 +468,7 @@ Commentaries
 15. Commentary by Yallabhattasuta
 16. Paddhati by Vishnugudha covering the last six chapters of the sutra[^39].
 
-### Gryha Texts:
-
-
+### Gryha Texts
 
 1. **Ashvalayana Grhya Sutra**: The text makes a distinction between the Rishis of the mantras of the Rigveda and the Acharyas or the Sages who compiled the Brahmana texts. Amongst the latter, it counts the following in its ‘tarpana vidhi’: Kahola, Kausitaka, Mahakausitaka, Paingya, Mahapaingya, Sujayna, Shankhayana, Aitreya, Mahaitereya, Shakala, Bashkala and Ashvalayana. The sutra has a Parisishta which comprises of 3 or 4 chapters in some manuscripts, or 5 chapters in anushtubh verses in another manuscript[^40].
 Commentaries:
@@ -523,26 +495,20 @@ Asvalayana Grhyakarika by Raghunatha Diksita
 
 Asvalayana Grhyakarikapaddhati by Challari Narayana
 
-### Asvalayana Grhyaparisishta: 
-
-
+### Asvalayana Grhyaparisishta
 
 2. Saunaka Karika: A manuscript exists at Calcutta (Ref. 1, Pg. 412, No. 424) and deals with various domestic rites like Upanayana, Chaula, Upakarma etc. The work may also be called Saunakiyam.
 3. Bahvrchagryhakarika: Ascribed to Sakala. The extant manuscript (Ref. 1, Pg. 416, No. 425) seems to be a late redaction of an older work by Sakala Acharya.
 4. Saunakiyam: Several versions of this text are available, some of which are mentioned above. 
 5. Rigvidhana of Saunaka
 
-### Laksana Granthas:
+### Laksana Granthas
 
 The purpose of these texts is to preserve the exact text of Rigveda, free from all corruptions by way of oral transmissions. There are literally 100’s of such texts, most of which are quite modern. Some are however ancient. A detailed discussion of these texts is beyond the scope of this work since it has already been done by Pt. Aithal (Ref. 2)
-
-
 
 1. 
 Jatapatala: The work is ascribed to Hayagriva and describes the vikritis of Rigvedic text.. The work has a commentary called ‘Dipika’ by Dayasankara, son of Dharanidhara Vyavaharuka. There are several other versions of the Jatapatala as well, including one alternately called the Vikrtivalli and attributed to Vyadi. This latter work has 19 verses and has a commentary on it by Anantacharya [AITHAL 1991:320-321]. Another version of Vyadi’s text has 11 verses, divided into two patalas of 6 and 5 verses respectively.
 The following commentaries exist on Jataapatala:[^42]
-
-
 
 1. Vikrtikaumudi by Gangadharacharya
 2. Commentary by Dayaashankar
@@ -550,51 +516,36 @@ The following commentaries exist on Jataapatala:[^42]
 4. Jataadyashtavikrti by Madhusudana
 5. Commentary by Sivaraama
 
-
-
 1. 
 Ashtavikriti Laksana: A versified work that describes the 8 Vikritis of Rigveda’s Sakala Saisiriya Samhita. The work is the composition of Sage Vyadi
-
 
 2. 
 Saisiriya Siksa – This is a work of 175 verses, largely identical with the Saunakiya Siksa. Certain verses are repeated and many verses are also found in the metrical Paniniya Siksa and in Yajnavalkyaisiksa.
 
-
 3. 
 Upalekhasutra of Bharadvaja: The text deals with the Kramapatha of Rgveda. It has two commentaries – one titled Upalekhapanjika by Bharadvaja, and the second titled Upalekhavrtti attributed to Saunaka.
 
-### References:
-
-
+### References
 
 1. Mahamahopadhaya Haraprasad Shastri; A descriptive catalog of Sanskrit manuscripts in the Government collection under the care of the Asiatic Society of Bengal, Vol. II--Vedic Manuscripts; Asiatic Society of Bengal, Calcutta; 1923
 2. K. Parameswara Aithal; Veda Laksana (Vedic Ancillary Literature), A Descriptive Bibliography; Franz Steiner Verlag; Stuttgart; 1991
 3. P. H. Joshi; *Contribution of Gujarat to the Dharmashastra Literature*; in Gautam Patel et al (Ed.); Contribution of Gujarat to Sanskrit Literature (Dr. M. I. Prajapati Felicitation Volume); Dr. M. I. Prajapati Sastipurti Sanman Samiti; Patan (Gujarat); 1998
 
-
-
 4. 
 Trivandrum Sanskrit Series No. 149, 167, 176
-
 
 5. Trivandrum Sanskrit Series No. 221
 6. S. Venkitsubramonia; The Contribution of Kerala to Sanskrit Shastras; International Sanskrit Conference (1972), vol. 1. part 1; pg. 16-24
 
-
-
 7. 
 Howard, Wayne; Veda Recitation in Varanasi; Motilal Banarsidass; Delhi; 1986
-
 
 8. 
 Sharma, Umesh Chandra; Arshanumkramani
 
-
 9. 
 Abhyankar, Kashinatha Vasudeva; Upalekha Sutra
 **Kashikar, C. G.** A Comparative Study of Udgitha’s Bhashya on the Rgveda. pp. 150-155 in **Vishva Bandhu** (editor). 1950. Siddha-Bharati or a Rosary of Indology – Presenting 108 original Papers on Indological subjects in honour of the 60<sup>th</sup> Birthday of Dr. Siddheshwar Varma (Part I). Vishveshvaranand Indological Series – 1. V. V. R. Institute Press. Hoshiarpur.
-
-
 
 BHARATIYA, Bhavanilal. 1974. Arya-Samaj ke Veda-Sevaka Vidvan. Ramalal Kapoor Trust: Sonepat
 
@@ -618,7 +569,7 @@ Gupta, Sudhirkumar. 1967. Ravanabhashyam. Bharati Mandir Anusamdhana Shala: Jaip
 
 ## Shankhayana Shakhas of Rigveda
 
-### Brahmin Communities:
+### Brahmin Communities
 
 Nambudiris: According to the most comprehensive studies undertaken, approximately 35% of the Nambudiris are Rigvedins, 50% are Yajurvedins and just about 1/8% are Samavedins. The rest are excluded from Vedic study [STAAL 1961:35-36]. The peculiarities of Rigveda recitations of Nambudiris are discussed by STAAL [1961:40-54] in detail, and are beyond the scope of the present article. They do not recite the ghanapatha, and the Samhita, Pada and Krama recitions are collectively termed as Trisandham. Unique to this Brahmin community is the recitation of the vkrti called ‘rathapATha’, which is somewhat different from the standard ratha illustrated in the ‘aSTavikRti’ in printed additions such as those of Satavlekar [ibid 47]. 
 
@@ -636,114 +587,77 @@ Samkhayana Sakhas of Rigveda
 
 Samhita manuscripts
 
-
-
 1. No. 120 (Ref. 1) in the Collection of the Royal Asiatic Society of Calcutta: This manuscript of Rigveda comprises of 12 different batches of leaves. The 12 batches are of different hand and cover different parts of the Rigveda. At least one scribe/owner is a Gujarati, leading us to presume that some of the batches might belong to the Samkhayana Sakha. This is also clear from the contents of the manuscripts. For instance, batch VIII, which comprises of Rigveda 7.1.1 - 7.2.23 (Ashtaka-Adhyaya-Varga), has 5 additional vargas after varga 18 as an integral portion of the Samhita. Vargas 19-21 are the Khila 17 of Max Mueller’s Rigveda edition while the vargas 22 and 23 are Khilas 19 and 20 respectively of Max Mueller’s edition. Then, in batch IX, which comprises of Rigveda 7.2.25-7.5.2, there are the same 3 vargas in the second Adhyaya compared to Mueller’s edition. In bundle VII, which comprises of Rigveda 7.6.24 to the end of the 8th Ashtaka, the text is the same as the Max Mueller’s edition till Rigveda Ashtaka 8, Adhyaya 2. At the end of the 3rd Adhyaya, there is added as Khila  the Khila 22 of Mueller’s 2nd edition. The 4th Adhyaya agrees with the vulgate till varga 25, after which the manuscript breaks off. The text then commences from the end of the 28th varga of the 8th Adhyaya, which does not agree with the 28th Varga of the 8th Adhyaya of the vulgate. The text is considerably different after the 28th varga of Adhyaya 8 (the last Adhyaya of the Samhita). The Sakala has 49 vargas in the last Adhyaya but this manuscript has 64. The distribution of vargas 29 onwards is as below:
 
 Varga 29: Starts with ‘Gobhirjushtee dhanena..” not found in Mueller’s or Satavalekara’s editiom
 
-
 Varga 30 is Sukta 167 of varga 25 of vulgate
-
 
 Varga 31 is Sukta 168 of varga 26
 
-
 Varga 32 is Sukta 169 of varga 27
-
 
 Varga 33 is Sukta 170 of varga 28
 
-
 Varga 34 is Sukta 171 of varga 29
-
 
 Varga 35 is Sukta 172 of varga 30
 
-
 Varga 36 is Sukta 173 of varga 31
-
 
 Varga 37 is Sukta 174 of varga 32
 
-
 Varga 38 is Sukta 175 of varga 33
-
 
 Varga 39 is Sukta 176 of varga 34
 
-
 Varga 40 is Sukta 177 of varga 35
-
 
 Varga 41 is Sukta 178 of varga 36
 
-
 Varga 42 is Sukta 179 of varga 27
-
 
 Varga 43 is Suktas 180 and 181 of vargas 38 and 39 respectively of vulgate
 
-
 Varga 44 is Sukta 182 of varga 40
-
 
 Varga 45 is Sukta 183 of varga 41
 
-
 Varga 46 is Sukta 184 of varga 42
-
 
 Varga 47 is Khila 34 of Satavaleka’s Rigveda (Khila 30 of Mueller’s Rigveda)
 
-
 Varga 48 is Sukta 185 of varga 43
-
 
 Varga 49 is Sukta 186 of varga 44
 
-
 Varga 50 is Sukta 187 of varga 45
-
 
 Varga 51 is Sukta 188 of varga 46
 
-
 Varga 52 is Sukta 189 of varga 47
-
 
 Varga 53 is Sukta 190 of varga 48
 
-
 Varga 54 is Sukta 191 of varga 49
-
 
 The manuscript has 10 more vargas, none of which occurs in the Vulgate (Sakala) Rigveda
 
-
 Varga 55 is Khila 32 of Max Mueller’s edition 
-
 
 Varga 56 is verses 5-7 of Khila 36 of Satavaleka’s edition (or 5.2 in the Kashmir Khila samhita)
 
-
 Varga 57 is verses 1-4 (?) of Khila 5.3 of Kashmir Khila Samhita 
-
 
 Varga 58 is verses 5-7 (?) of Khila 5.3 of Kashmir Khila Samhita
 
-
 Varga 59 is verses 1-5 (?) of Khila 5.4 of Kashmir Khila Samhita
 
-
 Varga 60 is verses 6-8 (?) of Khila 5.4 of Kashmir Khila Samhita
-
 
 Varga 61 is verses 9-11 (?) of Khila 5.4 of Kashmir Khila Samhita
 
 At this point, the manuscript ends and the colophon states : “Hereby ends the 64th Adhyaya.” signifying the end of the Samhita.
-
-
 
 1. No. 140 (Ref. 1) in the Collection of the Royal Asiatic Society of Calcutta: This composite manuscript consists of 15 batches of leaves belonging to different ages. Batch no. 12 comprises of complete Ashtaka 6 (Mandala 8, Sukta 12 to Mandala 9, Sukta 43). The author of the catalog states- “The MS. is unique, in that it seems to belong to a recension of Rgveda, different from that published by Max Mueller. For instance, in VI.4 (Ashtaka 6, Adhyaya 4), there is one sukta more in Max Mueller’s edition than in the present MS.” We might note that Ashtaka 6, Adhaya 4 corresponds to Mandala 8, Suktas 46 to 67 of the Vulgate. This section includes the Valkhilya mantras as Suktas 49 to 59 of the Vulgate Rigveda Samhita. The extant manuscripts of the Asvalayana and the Samkhayana samhitas are not very different from the Vulgate (Sakala) Sakha and so we can safely surmise that it belongs to the Baskala Sakha. In fact, the description of the Baskala Rigveda Samhita in Satavalekara’s edition (Ref. 2, Pg. 72 of the Prastava/Introduction) clearly shows that this portion of the Baskala Samhita was totally different from the vulgate in the arrangement of Mantras. 
 2. Manuscript of Samkhayana Praisha Adhyaya at Calcutta (Ref. 1, Pg. 240, entry no. 171): According to the catalog, the text comprises of 72 mantras of which 68 start with the words ‘hota yaksata...’. Hence, this Praishadhyaya is quite different from that of the Kashmir Khila Samhita.
@@ -751,18 +665,13 @@ At this point, the manuscript ends and the colophon states : “Hereby ends the 
 
 a. In the 8th Ashtaka, the numbering of the Vargas differs considerably from that of the Vulgate owing to insertion of several Khilas as an integral part of the text. Khila 22 of the Max Mueller’s edition (‘Avidhva...’) forms 29th Varga of the 3rd Adhyaya
 
-
 b. Khilas 25 (1-13 verses only) and 27 of Max Mueller’s edition are included in their normal place as an integral part of the Samhita text. Due to these additions, the number of vargas has become 56 instead of 49 in the vulgate. 
-
 
 c. The 56th Varga comprises of the last Sukta of the Vulgate plus the mantra ‘Tachhanyora Vrinimahey...” which is said to be the last verse of the Baskhala Sakha. 
 
-
 d. Vargas 57-60 are comprised of the first 14 verses of the Samjnana Sukta (since the last or the 15<sup>th</sup> verse was included in the previous Varga)
 
-
 e. The Samhita ends with 3 Vargas of the Mahanamni group. Thus, the 8th Adhyaya of the 8th Ashtaka has 63 vargas in all.
-
 
 Sarvanukramani
 
@@ -784,7 +693,6 @@ Commentaries
 
 The Aranyaka was first published by Shridhar Shastri Pathak from Poona in the year 1922. Earlier, Friedlander had published only books I-II from Berlin in 1900. 
 
-
 ### Kausitaki Aranyaka
 
 This text is still unpublished.
@@ -801,17 +709,13 @@ Most manuscripts designate the text not as Kausitaki Upanishad, but as Kausitaki
 
 Following are the major translations and commentaries on the Kausitaki Upanishad -
 
-
-
 1. Anandagiri: Tika
 2. Vidyaranya: A work titled Sarvopanishaarthaanubhutiprakasha, attributed to Vidyaranya, contains an analysis on the major Upanishads in twenty chapters. In this work, chapters 8-9 deal with chapters 3 and 4 of the Upanishad (Pratardana Vidya and Ajatasatru Vidya respectively). 
 3. Sayanacharya: He wrote a metrical paraphrase of this text, along with 11 other principal Upanishads, in his work titled ‘Anubhuutiprakaasha’.
 4. Dipika of Shankarananda: The text was first published by E. B. Cowell with a translation of the Upanishad proper[^45]. 
 
-
 5. Rangaramanuja
 6. Prakashika of Rangaramanujadasa: Manuscript exists at the library of erstwhile Maharaja of Jammu and Kashmir in Jammu[^46].
-
 
 7. Rangacharya
 8. Vasudeva Yati: Bhashya
@@ -828,44 +732,32 @@ Following are the major translations and commentaries on the Kausitaki Upanishad
 
 **Kausitaki Samhita Upanishad: **In the Shankhayana Aranyanka, the Kausitaki Upanishad in four chapters is followed by the Samhita Upanishad. This work also has a commentary on it by Shankarananda[^47].
 
-
 ### Shankhayana Shrauta Sutra
 
 #### Commentaries
 
-
-
 1. Bhashya of Varadasutta Anartiya: The author hailed from Anarta, which is modern North Gujarat [ref. 4, pg. 84]. We have used the solitary published version of the Bhashya by HILLEBRANDT [1885-1899, reprinted in 1981]. The Bhashya quotes, amongst extant works, some lost texts like Vaijavapa (under sutra 3.18.19) and some text of the Chhagaleya school of Maitrayaniya Yajurveda (under sutra 6.1.17)
 2. Bhashya of Govinda – exists only on chapters XVII-XVIII in Hillebrandt’s edition. Govind had six Gurus namely Raama, Hariraama, Halaayudha, Devamaata, Madhusuudana and Vinaayaka.[^48]
 
-
 3. Manuscripts of a Paddhati by Narayana, son of Pashupati, exist in Jammu and other places[^49].
-
 
 4. Dayaashankar, son of Dharanidhara, grandson of Gangadhara, wrote the Shankhayanasrautasutra-prayogaratnaakara in the year 1767[^50].
 
-
 5. Kraturatnamaalaa Paddhati by Vishnu, son of Sripati. Manuscript exists at Alwar[^51].
 
-### Shankhayana Grhya Sutra:
+### Shankhayana Grhya Sutra
 
 #### Commentaries
-
-
 
 1. Acala Dviveda wrote a ShankhayanAhnika on the Grhyasutra. He was one of the 3 soms of Vatsaraja, grandson of Govinda, great grandson of Lakshimadhara and great-great grandson of Ananta. He resided at Anandapura in Gujarat, and lived around 15<sup>th</sup>-16<sup>th</sup> cent. C.E. since the colophon of another of his works (Nirnayadipika), gives the date of 1518-1519 C.E.  He lived at Vrddhapura and belonged to the Mahoda subsection of Nagara Brahmins [ref. 5, pg. 203]
 2. Grhyadipaka (or Grhyapradipabhashya)[^52] and Paddhati of Narayana (16<sup>th</sup> cent. C.E.): He was the son of Krishnaji Dvivedi, and grandson of Shripati. He was a Nagar Brahmin of PATalpur in Gujarat [ref. 5, pg. 204-205]
 
-
 3. Paddhati of Vishnukavi [ref. 5, pg. 206]: This Paddhati was named Kraturatnamala. Vishukavi was the son of Dvivedi Shripati, and he calls himself a resicdent of Anarta (Gujarat) in the colophons of his work. According to some scholars, he was a contemporary of Uvata (11<sup>th</sup> cent. C.E.), the great commentator on the Madhyandina Samhita of Yajurveda.
 4. Grhyasamgraha by Vasudeva, son of IijaTa exists in Jammu[^53].
 
-
 5. Grhyasutraprayogadipa by Dayaashankara, son of Dharanidhara: Manuscript exists in Jammu[^54].
 
-
 6. Athardarpana by Raghunatha: Exists in manuscript[^55].
-
 
 7. Grhyasutrapaddhati by Ramachandra
 8. The text with a Gujarati translation was published from Junagarh by M R Ghoda in 1942.[^56]
@@ -874,16 +766,12 @@ Following are the major translations and commentaries on the Kausitaki Upanishad
 
 #### Commentaries on the text
 
-
-
 1. Bhashya of Bhavatrata (~650 C.E.): He is the famous author of Bhashyas on texts of Jaiminiya Shakha of the Samaveda, like the Brahman, Aranyaka, Srauta Sutra and the Grhya Sutra. T. R. Chintamani has published this text [ref. 3]
 2. 
 
 A Samkhyayanatantra[^57] exists in manuscript in various libraries and it is reasonable to surmise that this work has nothing to do with the Rgvedic Sakha.
 
-#### References:
-
-
+#### References
 
 1. Mahamahopadhaya Haraprasad Shastri; A descriptive catalog of Sanskrit manuscripts in the Government collection under the care of the Asiatic Society of Bengal, Vol. II--Vedic Manuscripts; Asiatic Society of Bengal, Calcutta; 1923
 2. Cecil Bendall; Catalog of Sanskrit Manuscripts in the British Museum; London; 1902
@@ -895,7 +783,6 @@ A Samkhyayanatantra[^57] exists in manuscript in various libraries and it is rea
 **AITHAL K. Parameswara**. 1991. Veda Laksana (Vedic Ancillary Literature), A Descriptive Bibliography. Franz Steiner Verlag: Stuttgart
 
 **Hillebrandt, Alfred**. 1885-99. Sankhayana Srauta Sutra together with the commentary of Varadattasuta Anarttiya and Govinda. Published in 4 volumes, Vol. I containing the sutra text and II-IV containing the commentaries, by the Asiatic Society of Bengal (Calcutta). Reprinted in two volumes (Vol. I containing the sutra text and II containing the Bhashyas) in 1981 by Meharchand Lachhmandas Publications: New Delhi. I have used the latter edition.
-
 
 ## Bashkala Sakhas of Rigveda
 
@@ -919,8 +806,6 @@ Gargya Narayana states that the Ashvalayana Shrautasutra deals with the Sakala a
 
 References:
 
-
-
 1. Mahamahopadhaya Haraprasad Shastri; A descriptive catalog of Sanskrit manuscripts in the Government collection under the care of the Asiatic Society of Bengal, Vol. II--Vedic Manuscripts; Asiatic Society of Bengal, Calcutta; 1923
 2. Veda Lakshana; 
 
@@ -928,13 +813,11 @@ References:
 
 STAAL, J. F. 1961. Nambudiri Veda Recitation. Mouten & Co.: ‘S-Gravehage
 
-
 ## Asvalayana Sakhas of the Rigveda
 
 Ashvalayana Samhita
 
 Ashvalayana Mantrasamhita
-
 
 ### Asvalayana Brahmana
 
@@ -944,7 +827,7 @@ In the collection of the Royal Asiatic Society of Bengal at Calcutta (SHASTRI 19
 
 The Ashvalayana Shrautasutra refers to the views of ‘Aitareyins’ two times, which makes it appear that the sutra does not belong exclusively to that recension of the Rigveda to which the Aitareya Brahmana is attached, or it may mean that the sutra belongs to a recension different from the one to which this Brahmana text is attached. Sutra 1.3.12 reads [RANADE 1981:8] – “Between the two (main) havis-offerings the followers of the Aitareya recension utter the expression ‘visnum (avaha)’ in a low voice (both in the Purnamasa and Darsa isti).” At sutras 3.6.3 and 10.1.13, the Aitareya school is quoted again.
 
-### Asvalayana Srauta Sutra:
+### Asvalayana Srauta Sutra
 
 Devasvamin, the oldest commentator of the Asvalayana Srautrasutra, states that Saunaka authored the Srautasutra whereas Asvalayana was the author of the Grhyasutra. Gargya Narayana states that the ASS deals with the Sakala and the Bashkala Samhitas of RV, together with the Aitareya Brahmana, the Valakhilya Hymns, the Nivids, Praishas, Kuntapa hymns, Mahanamni verses and the Purorucs. 
 
@@ -976,12 +859,9 @@ Taulvali: 2.6.17, 5.6.24
 
 Section 12 of the text seems to be a later addition, or conflated by insertions. 
 
-
 ### Asvalayana Grhya Sutra
 
 This text has numerous commentaries [JOG 1974]
-
-
 
 1. Agnisharman: An author of this name is quoted by Jayantasvamin in his Vimalodayamala on the Sutra (see below). The nature his work is unkown.
 2. Vrttikara: The views of a Vrttikara on the Asvalayana Grhya Sutras are often quoted and contrasted with those of others (like Jayanatasvamin) by the Kumarila Karikas (see below) and Narayana (see below). The identity of this author is unknown, but he seems to have lived in great antiquity. 
@@ -1017,8 +897,6 @@ SHASTRI, Mahamahopadhaya Haraprasad. 1923. *A descriptive catalog of Sanskrit ma
 ### Manuscripts
 
 1. Manuscript of the Suparana Adhyaya: In the Kashmir Khila Samhita, the Suparna Adhyaya comprises of the whole of Adhyaya 1 of 11 Suktas (79 mantras in all). However, a manuscript of the Suparana Adhyaya having an extent of 214 slokas (i.e. 214 x 32 syllables) exists in the collection of the Royal Asiatic Society of Bengal (Ref. 1, Pg. 240, entry 172). Unfortunately, this manuscript has not been utilized in preparing the various editions of the Rigveda Khilas.
-
-
 
 1. 
 Mahamahopadhaya Haraprasad Shastri; A descriptive catalog of Sanskrit manuscripts in the Government collection under the care of the Asiatic Society of Bengal, Vol. II--Vedic Manuscripts; Asiatic Society of Bengal, Calcutta; 1923
@@ -1111,17 +989,12 @@ Khila 37 of S is absent in M
 
 References:
 
-
-
 1. Max Mueller (Ed.); Rigveda Samhita together with the Commentary of Sayanacharya; The Chowkhamba Sanskrit Series, Work No. 99, Vol. IV; Varanasi; 1966
 2. 
 
-
 ## Madhyandina Shakha
 
-
 Brahmin Communities
-
 
 Samhita
 
@@ -1149,7 +1022,7 @@ Laksana Texts
 
 Other Ancillary Texts
 
-### Brahmin Communities: 
+### Brahmin Communities
 
 The Madhyandina Sukla-Yajurveda Sakha is the predominant Sakha of any of the four Vedas, across the length and breadth of northern India. Communities are, or were found till a century back, in Punjab, Uttar Pradesh, Bihar, Assam, Bengal, Madhya Pradesh, Gujarat, Maharashtra and also in Sindh and in Nepal. The Sukla Yajurveda as such is not as popular as the Krsna Yajurveda south of the Vindhya mountains, and most Sukla Yajurvedins in peninsular India adhere to the Kanva Sakha of Sukla Yajurveda. The Madhyandinas are found today, however, as far as south as Mysore city [STAAL 1961:19]. 
 
@@ -1159,14 +1032,13 @@ The Madhyandina Sukla-Yajurveda Sakha is the predominant Sakha of any of the fou
 
 **Maharashtra:** The Maharashtrian Madhyandina Brahmins along the banks of Godavari, in northern eastern and eastern Maharashtra and a little beyond up to the Krishna river, are the southernmost community of Brahmins following the Madhyandina Shakha of Sukla Yajurveda. They are strict vegetarians, and have a strong presence in and around Nashik. Unlike many other castes of Maharashtrian Brahmins, they avoid all sagotra marriages on the mother’s side, and also do not permit any kin-marriages. According to KARVE [1968:25], this indicates that the community had migrated from somewhere further north in India, and not necessarily from Gujarat [op. cit., 137]. The Madhyandina Brahmins in eastern Maharashtra often worship devi Renuka of Mahurgad. They are considered a section of the Maharashtrian Deshastha Brahmins. They often act as priests to the Sudras, a practice that is traditionally shunned by other Maharashtrian Brahmins castes.
 
-
-### Samhita: 
+### Samhita
 
 Also called Vajasaneyi Samhita, it comprises of 40 chapters of unequal length. It is a widespread belief amongst north Indian Vaidiks that the Madhyandina Samhita represents the original Vajasneyi Samhita. For instance. Mimamsaka points out [ref. 5; pg, 10-11] that in a manuscript of an anonymous work titled “Madhyandina Shakhavishaya” that is preserved at Chennai, it is mentioned that the Madhyandina Shakha is the chief recension among the 15 recensions of Sukla Yajurveda. In the Holaribhashya on the Sarvanukrama sutras of Katyayana on the Shukla Yajurveda too it is stated that the Madhyandina Samhita represents the Ur-text of Shukla Yajurveda. Commenting on Sutra 1.3 of the Pratijnasutra-Parishishta, Anantadeva also quotes Vasishtha to the effect that the Madhyandina Samhita is ‘Sarvasadharani’ i.e., it is of a general nature and applicable to all the schools of Shukla Yajurveda. To demonstrate the Ur nature of the Madhyandina Samhita, the followers of Arya Samaj typically adduce an additional proof based on the internal testimony of the Yajurveda Samhita. They point out that Madhyandina Samhita 9.14 reads “Esha vo’ami raja” wherein the word ‘ami’ is a general pronoun that can be substituted with the name of any ruler. In contrast, in place of the pronoun ‘ami’, the Kanva Samhita 11.1 specifically mentions the rulers of Kuru-Panchala, Taittiriya Samhita 1.8.90 mentions Bharata, where Kathaka Samhita 15.7 and Maitrayani Samhita 2.6.94 mention the people as the ruler. This is taken as an indication of the fact that while the other Samhitas substituted the word ‘ami’ with specific names depending on their provenance, the Madhyandina Samhita preserved the original text.
 
 The first edition of the Madhyandina Samhita was published by Albrecht Weber in the year 1852 from London/Berlin.
 
-### Padapatha: 
+### Padapatha
 
 Mimamsaka [1971] has published an authoritative edition of the Madhyandina Samhita Padapatha after collating manuscripts from various parts of India. The edition has a very useful general essay on the characteristics of the Padapatha of various Vedic Samhitas prefixed to it. 
 
@@ -1180,24 +1052,21 @@ Version 2: It is identical to the first version, except that for a few differenc
 
 Version 3 and 4 largely follow version 1 but differ from the same and amongst each other in minor respects. Version 3 is represented by the edition of the Samhita and Padapatha published from Mumbai (by the ‘Tattvavivechaka Press’). Mimamsaka suspects that the fourth version might represent a subdivision of the Madhyandinas [p. 49]
 
-### Kramapatha: 
+### Kramapatha
 
 The Samhita text forms the basis of the Pada text. The Pada text forms the basis of the Krama text while the Krama text forms the basis of all the remaining Vikriti texts. The Krama of Yajurveda was published on the basis of a solitary manuscript provided by Pt. Madan Mohan Vyasa to Pt. Mimamsaka (ref. 5; pg. 16). Unfortunately, the published volume covers only chaps. 1-20 of the Samhita and so far I have not yet seen the Krama of the remaining chapters. Mimamsaka points out that the Krama of the Samhita is of 2 or more varieties owing to the fact that the Padapatha on which it is based itself is of several types. The manuscript of the first 20 chapters was copied in Shaka 1792 whereas that of chapters 21-40 was copied in Shaka 1724. 
 
 The kramapatha of the entire text has also been written by Pandit Virasen Vedashrami of Gurukul Kangri, and it still lies in manuscript[^58].
 
-### Other Vikriti Pathas of Madhyandina Samhita: 
+### Other Vikriti Pathas of Madhyandina Samhita
 
 The Samhita text forms the basis of the Pada text. The Pada text forms the basis of the Krama text while the Krama text forms the basis of all the remaining Vikriti texts. Kramapatha manuscripts are found all over India [AITHAL 1991:524-525]. Pandit Virasena Vedashrami has written down various Vikrti Pathas (Jata, Ghana etc.) for chapters 31-40 of the Samhita, but this work is still in manuscript[^59].
-
 
 ### Oral Traditions and Geographical Distribution
 
 According to information provided by V. Raghavan and W. Howard, Madhyandinas are found at Varanasi, Ambala, Jallandhar, Indore, Ujjain, Nagpur, Nashik, Jammu. Historically, they have remained confined to Northern India. In fact, the Madhyandinas are often said to have the maximum number of followers of any Vedic school alive, and can recite not only the Samhita, Pada and Ghana pathas but also the other vikritis [Ref. 7. pg. 119]. Accentuation of the Madhyandina recension of the Vajasneyi Samhita is in no way connected with the accentuation of the text [Ref. 4, pg. 163].
 
-### Commentaries on Madhyandina Samhita:
-
-
+### Commentaries on Madhyandina Samhita
 
 1. Mantra Bhasya of Uvata: According to the colophons of this work, Uvata hailed from Anandapura in Gujarat, but wrote his commentary while living in Avanti during the reign of Raja Bhoja (996-1051 C.E.). According to some, Uvata and Kaiyata were brothers of the Kashmirian scholar Mammata, and were therefore Kashmiri Pandits. However, this view is untenable because the colophons clearly state that he was the son of Vajrata, who was from Gujarat [ref. 2, pg. 21]. At the commencement of his commentary, Uvata lists the exegetical principles (*vyakhya dharmas*) that he will employ. The commentary is brief and precise.
 2. Vedadipa of Mahidhara
@@ -1209,27 +1078,21 @@ According to information provided by V. Raghavan and W. Howard, Madhyandinas are
 8. Anandabhashya (published only chaps 31-40 in Sarasvati Sushama magazine) [ref. 6; pg. gha]
 9. Bhashya of Maharshi Dayanand Sarasvati: A massive commentary on the Samhita was commenced by the Swami in Vikrami Samvat 1934, and was completed in five years[^60]. Like his commentary on Rgveda Samhita, the Sanskrit text is directly authored by the Swami, and the Hindi translation is done by two collaborators Pandit Bhimasena Sharma and Pandit Jwaladutta Sharma. The commentary was published in four volumes by the Vaidik Yantraalaya of Ajmer. The translation is not in a very polished language, and is often at variance with the Sanskrit text. Therefore, the Arsha Sahitya Prachar Trust retranslated the Sanskrit portion into Hindi and republished the entire work in four attractive volumes. Another notable edition of this work was published by Ramalal Kapoor Trust (Sonepat, Haryana). This edition extends only to the first 15 adhyaayas of the Samhita, and contains a very extensive annotation or super-commentary by Pandit Brahmadatta Jijnasu. An attempt has been made in the Sonepat edition to justify grammatical objections raised against Swamiji’s commentary by other Sanskrit scholars. For the first two chapters, the Jijnasu has also attempted to explain each mantra in a three-fold manner (adhidaivika, aadhyaatima and adhibhautika). 
 
-
 10. M R Jambunathan published a Tamil translation of all the mantra portion of the Taittiriya Sakha, and also of the entire Sukla Yajurveda from Bombay in 1938, through the J. Book Depot. The work is titled ‘Yajurvedam’.[^61]
 
-
 11. Pandit Chamupati wrote an English translation of the first ten chapters of the Samhita from Arya Samaj perspective. This translation was published in several installments in the monthly periodical named ‘Vedic Magazine’, and was also eventually published in book form[^62].
-
 
 12. Shridhar Shastri Pathak: He published a Marathi text and translation of the Madhyandina Samhita through the Manohar Grantha Mala, Poona, in 1942
 13. Swami Bhumanand: He was originally a Catholic priest in south India, but converted to the Arya Samaj sect of Hinduism. He wrote an English commentary on Madhyandina Samhita 1.1-16 titled ‘The Divine Book of work and Worship’, which was published from Ajmer by the Arya Sahitya Mandala in 1937. Subsequently, he also published an English translation and commentary on the entire Samhita[^63].
 
-
 14. Devichand (1880-1965) translated Dayanand Sarasvati’s commentary of Yajurveda into English. The translation does not include Swami Dayanand’s word-meanings, extensive comments on mantras or their import and is basically a bare-bones translation of the Samhita based on the Swami’s massive commentary. This translation is widely available in numerous printed editions today.
 15. Pandit Jaidev Sharma (1892-1961): He is the first scholar to have translated all the four Vedas into Hindi (or, as a matter of fact, into any Indian language). The translations were written between May 1925 and 1936, and comprise 7 volumes for Rgveda, 4 for Atharvaveda and 2 each for Yajurveda and Samaveda. Sharma closely follows the views of Swami Dayanand Sarasvati in his own translations. His translations have been reprinted numerous times[^64] and are prefaced by an elaborate and erudite note on the respective Veda. 
-
 
 16. Vivarana of Pt. Brahmadatta Jijnasu (1892-1964), a Sarasvata Brahmin of Pathak gotra, was born in Jallandhar district of Punjab. He was a renowned scholar of Paninian grammar. His supercommentary on the first 15 chapters of the Bhasya of Maharshi Dayanand Sarasvati is discussed above. Apparently, the supercommentary extended over the entire Yajurveda, but so far the remainder has not been published.
 17. Damodar Satavalekara
 18. Commentary on chapter III by Swami Gangesvaranand Sarasvati [ref. 2, pg. 139]. In this commentary, Swamiji reads the story of Lord Krishna in the mantras.
 19. Hindi translation by Shriram Sharma
 20. Swami Vidyanand Videha wrote a Hindi commentary on the first 14 chapters of Madhyandina Samhita in 14 volumes[^65].
-
 
 21. Ashuram Arya[^66] translated the Madhyandina Yajurveda Samhita into Urdu. The translation, comprising the first four chapters of the text alone, was published by Arya Prakashan from Chandigarh in 1984. I have no information if any subsequent volumes were published.
 
@@ -1253,8 +1116,6 @@ The first edition of the Satapatha Brahmana was published from Albrecht Weber fr
 
 **Commentaries of Isavasya Upanishad**
 
-
-
 1. Bhartrprapanca (Bhedabheda Vedanta): Was probably on Madhyandina recension of Yajurveda. No longer extant. Extensive quotations are found in the Bhasyas of Sri Samkaracharya, Sri Suresvacharya, Anandagiri and Anandapurna Muni
 2. Samkaracarya (Advaita Vedanta): This is on Kanva recension of Yajurveda
 3. Uvata (Vaidik commentary): This is a part of the commentary on the entire Yajurveda (Madhyandina recension)
@@ -1272,15 +1133,11 @@ The first edition of the Satapatha Brahmana was published from Albrecht Weber fr
 15. Dayanand Saraswati: Vaidik commentary. Part of the commentary on the entire Yajurveda (Madhyanadina Sakha) Samhita
 16. Pandit Gurudatta Vidyarthi: He published a lucid translation cum commentary on this text following Arya Samaj’s principles in June 1888. The work was published by the Virajanand Press of Lahore[^69]. A Hindi translation of this commentary by Pandit Atmaram Amritsari, was also published later by Anglo-Sanskrit Yantraalaya.
 
-
 17. Gangaprasad Upadhyaya (1881-1968) published a lucid commentary of Isavasya Upanishad in 1940[^70].
-
 
 18. Damodara Satavalekara: Vaidik commentary. In Hindi
 
-### Brhadaranyaka Upanisad (Madhyandina) 
-
-
+### Brhadaranyaka Upanisad (Madhyandina)
 
 1. Bhartrprapancha
 2. Disciples of Bhartraprapancha: In his Varttika, Suresvara refers to interpretations of # 1 by disciples of Bhartrprapanca
@@ -1293,8 +1150,6 @@ The first edition of the Satapatha Brahmana was published from Albrecht Weber fr
 
 ### Commentaries of Isavasya Upanishad
 
-
-
 1. Bhartrprapanca (Bhedabheda Vedanta: Was probably on Madhyandina recension of Yajurveda. 
 2. Uvata (Vaidik commentary): This is a part of the commentary on the entire Yajurveda (Madhyandina recension)
 3. Mahidhara: Vaidik commentary. This is a part of the commentary on the entire Yajurveda (Madhyandina Sakha) Samhita.
@@ -1302,24 +1157,18 @@ The first edition of the Satapatha Brahmana was published from Albrecht Weber fr
 5. Pandit Jaideva Sharma, who also authored a Hindi translation of all the four Vedas, authored a Hindu translation of this Upanishad.
 6. Damodara Satavalekara: Vaidik commentary. In Hindi
 
-
 ### Sarvanukrama sutras of Katyayana
 
 Commentatorial tradition:
 
-
-
 1. Bhasya of Holira
 2. 
-
 
 ### Vajasneyi Pratisakhya Sutras of Katyayana
 
 It is the eighth Parisishta of Katyayana. VARMA [1984:184] points to the fact that the Vajasneya Pratisakhya mentions the Madhyandina (8.45) and Kanva (1.149) separately, indicating that the Pratisakhya as such belongs to a recension different from these two. Varma also opines that the text is not the composition of the grammarian Katyayana, and is instead pre-Paninean.
 
 Commentary
-
-
 
 1. Matrmoda or Matrmodaka commentary of Uvata: The commentary is large in extent, and starts with the exegetical principles that Uvata will follow in his work. The work is interspersed with discussions on grammar, phonetics and specifically mentions those aphorisms that are not very relevant to the context, and those that describe rules that are exceptional.
 2. Padarthaprakasa of Ananta Bhatta, son of Nagadeva Bhatta and Bhagirathi
@@ -1328,12 +1177,9 @@ Commentary
 5. Vaidikaabharana of Gopalamishra. Manuscript in Government Oriental Library, Madras[^72].
 Jatapatala ascribed to Anantacharya, son of Nagadeva
 
-
 ### Katyayana Srauta Sutra
 
 Commentaries
-
-
 
 1. Bhartyajna’s Bhashya: He is said [ref.3, pg. 97] to have** **been a ‘Nagara Brahmin’ and is mentioned in Skanda Purana (Naagara Khanda 113-117). According to these 4 chapters, he belonged to the Samkrtya Gotra and was the son of Nimi. His other name was Prabhavadatta. He was believed to have supernatural powers and earned the name ‘Bhartryajna’. He was the leader of the Nagara Brahmins and re-established 64 families of Nagara Brahmins in Chamatkarapura (modern Vadanagara) [ref. 2, pg. 85]. From the list of his works also, he appears to have been a Shukla Yajurvediya Brahmana of Madhyanandina Shakha (which is prevelant in Gujarat, the home of Naagara brahmins). Since he is quoted in the ‘Trikandamandana’ and Karka’s commentary on the same text, he has to be prior to 1150 A.D. Bhartryajna is mentioned by Medhatithi (9th Cent. C.E.) in his commentary on the Manusmrti [ref. 3, pg. 309]. An incomplete manuscript of this commentary, covering only the first chapter of the Srauta Sutra exists in Baroda.
 2. Acharya Pitribhuti: He calls himself a resident of Anarta (Gujarat) in the colophons. He is quoted by Karka. [ref. 4, pg. 206]
@@ -1360,21 +1206,14 @@ Pratijna Sutra of Katyayana
 
 Comentaries
 
-
-
 1. Bhasya of Ananta Yajnika
 
-
 #### Commentaries on Katyayana Grhya Sutra
-
-
 
 20. Bhartyajna’s Bhashya: 
 21. Katyayana Smartta Mantrartha Dipika of Anantacarya, the sone of Nagadeva (Ref. 1)
 
-### Commentaries on Paraskara Grhya Sutra: 
-
-
+### Commentaries on Paraskara Grhya Sutra
 
 1. Paraskaragrhyaprakaasa by Vedamishra
 2. Paraskara Mantra Bhasya by Murari Misra (Ref. 1, Pg. 697, no. 844). This work comments on the Mantras cited in the Grhyasutra, relying on the Bhashya on Grhya ritual of Vedamishra, who was Murari’s father.
@@ -1391,23 +1230,17 @@ Comentaries
 13. Commentary by Vaagiisvaradatta
 14. Paraskaragrhyakarika by Renukacharya[^74]
 
-
 15. Smaarttollaasa: This is a treatise on Grhya rites based on the precepts of Katyayana. The work is attributed to Shivaprasada Pathaka who resided in Pushkaravalli or Yevanda-vallipura. A manuscript exists in Calcutta [HARAPRASAD SHASTRI 1923: 940-941].
 16. Paraskaragrhyapaddhati by Vasudeva Diksita: Manuscript at Alwar[^75].
 
-
 17. Paraskaragrhyasutrapaddhati by Kaamadeva, the work being also called Karmapradiipika
-
 
 ### Sulva Sutras of Katyayana
 
 Commentaries
 
-
-
 18. Karka Upadhyaya
 19. Sulbavaarttikatika by Ramachandra Vajapeyin, son of Suryadasa[^76]. Manuscript exists in Jammu in the collection of the erstwhile Maharaja of Jammu and Kashmir.
-
 
 20. Bhasya of Gangadhara Pathaka, the son of Ramachandra Pathaka: His father was a great scholar of Dharmashastra, Vedas and Vedic sacrifices. His brother’s name was Yajnika Narayana. Gangadhara was a Nagar Brahmin and a resident of Cambay in Gujarat, and he left the Bhashya incomplete. The work was completed by his son Ramakrishna, who lived at Varanasi. According to the colophons of his work ‘PravAskrtya’, it was completed in 1606-1607 C.E., which gives us an idea of the date of the author. Only two manuscripts of the work are known- one at Darbhanga (in Bihar) and the other at Calcutta [ref. 4, pg. 210]. Gangadhara wrote 
 21. Vivarana by Mahidhara: He is the same as the commentator on the Madhyandina samhita and bases his work on the earlier Bhasya of Karka and Vrtti of Rama
@@ -1416,14 +1249,10 @@ A Marathi translation of Manava, Katyayana, Apastamba and Baudhayana Sulvasutras
 
 ### Parisistas
 
-
-
 22. Yajurvidhana - Yajurvidhana – This texts exists in two recensions: The longer (or Brhad) version in 7 chapters, and the laghu (or shorter) version in 5 chapters. It has been published in the Siksa Samgraha [Benares Sanskrit Series vol. 10, 1889]. It has a commentary called Yajurmanjari by kAlanAtha vAghare, which has been published by WARE [1943]. The version in five chapters is attributed to Yajnvalkya in the colophons [HARAPRASAD SHASTRI 1923: 736-737]. 
 23. Charanavyuha: 
 
 Commentaries
-
-
 
 1. Mahidasa Bhasya
 2. Padyavrtti- anonymous
@@ -1450,11 +1279,8 @@ g. Commentary by Niilaasura, son of Samkarshana. Commentary exists at Alwar[^78]
 
 Commentaries:
 
-
-
 1. Bhasya of Karka
 2. Bhashya by Kesvacharya exists in manuscript.[^79]
-
 
 3. Bhasya of Yajnikadeva, the son of Prajapati Yajnika
 
@@ -1462,18 +1288,13 @@ Commentaries:
 
 Commentaries:
 
-
-
 4. Bhasya of Karka
 
 7. Muladhaya of Katyayana
 
 Commentaries:
 
-
-
 5. Vivarana of Gopala (Ref. 1, Pg. 812, no. 1000). He was the Guru of Ganapati and Nrsimha, and is quoted by Sayanacharya. He appears to be an Advaitin Samnyasin, as his complete name Gopala Paramahamsa Parivrajakacharya indicates. In another of his work titled Baudhayana Yajnaprayaschitta Vivarana, Gopala quotes Bhavaswamin.[^80]
-
 
 6. Vivarana of Vaidyanatha Payagundi
 
@@ -1481,28 +1302,21 @@ Commentaries:
 
 Commentaries
 
-
-
 7. Bhasya of Changa Chintamani
 8. Bhasya of Agnihotri Harihara Misra
 9. Snanasutrabhashyavyaakhyaa by Harihara
 10. Snanasutrapaddati by Harijiivana Mishra: Manuscripts at Oxford and Bikaner.[^81]
 
-
 11. Vyakhya by Chandesvara Thakkur
 12. Bhasya by Gangadhara Yajnika
 13. Vivarana of Karka[^82]
 
-
 14. Commentary by Gopinatha, son of Madhava. Manuscript at Alwar[^83].
-
 
 15. Subcommentary by Krshnanaatha on Gopinatha’s work
 16. Commentary by Mahadeva Dvivedin. Manuscript at Alwar[^84].
 
-
 17. Snanavidhipaddhati by Yajnikadeva. Manuscript at Alwar[^85].
-
 
 1. Anuvaka Samkhya Sutra or Anuvakadhyaya: It is the 4<sup>th</sup> of the 18 Parisisthas of Katyayana and is an index (anukramani) if the Rishis, Devatas, Chhandas of the mantras of the Madhyandina Samhita.
 2. Pratijnasutra Parisishta – this is the third of the 18 appendices attributed to Katyayana, and is a supplement to the Vajasneyi Pratisakhya. The text is divided into three Kandikas – Svara Prakriya, Uccharana-vidhi and Anusvara-visarga-svara-vikara, containing 10, 8 and 5 sutras respectively. However, the division of the sutras and their number in each kandika varies in different manuscripts. The text has a Bhashya on it by Anantadeva Yajnika, a Vrtti by Kesavacharya, a bhashya called Pradipa of Gauridatta, a bhashya by Madhusudabna, a Tippana of Vardhamana-Misra, a Vrtti called Jyotsna by Ramasarman and a bhashya by Mahidhara. Printed editions include those by Yugal Kishore MISRA [1989] with the Jyotsna of Ramasarman, and of Jagdish Lal SHASTRI [1971] containing the commentaries of Uvata and Mahidhara.
@@ -1513,8 +1327,6 @@ Commentaries
 
 ### Other Ancillary Tests of Madhyandina Sakha
 
-
-
 1. **Katyayana Siksa** [AITHAL 1991:259-260] – This text is different from the famous Yajnavalkya Siksa. It comprises of 13 verses dealing with the accentuation of the detached words (pada-s) and also of the words in the Samhita text. Most of the rules in this text are a metrical exposition of those mentioned in the Vajasneyi Pratisakhya. The text along with its commentary by Jayanta Swami are published in the ‘Siksa Samgraha’ collection from Varanasi [Benares Sanskrit Series, vol. 10, 1889]. Another version of the Katyayana Siksha comprising of 11 verses also exists in manuscript [AITHAL 1991:261].
 2. **Bhashika Sutras:** A work by Sage Katyayana dealing with the accentuation of Brahmana texts, and the Satapatha Brahmana in particular. It has a commentary on it by Anantacharya, also called Anantadeva Bhatta who followed Kanva Yajurveda and lived at Varanasi around 1626 C.E. He was the son of Bhagirathi and Nagadeva [AITHAL 1991:73, 463-466]. Another commentary by Mahasvamin also exists. The critical text, with both the commentaries have been published by CHAUBEY [1975]. The Bhashika sutra extends over 3 kandikas, comprising 22, 22, 29 sutras respectively according this edition.
 3. **ParibhashAnka Sutra** [AITHAL 1991:411] – A short text of 9 sutras attributed to Sage Madhyandina. Sometimes accompanied by a commentary and a summary in 6 verses, both of whom are authored by Kesavarama Daivayajna. The Sutras together with the commentary and the 6 summary verses constitute the ‘Kesavi Siksa’.
@@ -1523,10 +1335,7 @@ Commentaries
 6. **Yajnavalkya Siksa:** Also known as Vajasneyi Siksa, the work is almost a running commentary on the Sukla-Yajupratisakhya of Katyayana. Numerous printed editions of the text area available, and it has been published with a Hindi translation cum commentary by Vidyadhara PANDEYA [1978] from Varanasi. Uvata and Mahidhara have written commentaries on this text.
 7. **Vasishthi Siksa:** There are several texts belonging to the Vajasneyi Samhita bearing this name. The most common version differentiates between verses (Rks) and prose sentences (Yajus proper) from each other in each chapter of the Samhita. The total verses are said to be 1467 while there are 2833 Yajus, bringing the total to 4300. Due to this reason, the colophons name the text as ‘Rgyajusor vibhaga’. The Siksa follows the Katyayaniya Vajasneyi Pratisakhya very closely. The text is included in the ‘Siksa Samgraha’ collection published from Varanasi.
 
-
 ### References
-
-
 
 1. Mahamahopadhaya Haraprasad Shastri; A descriptive catalog of Sanskrit manuscripts in the Government collection under the care of the Asiatic Society of Bengal, Vol. II--Vedic Manuscripts; Asiatic Society of Bengal, Calcutta; 1923
 2. Gautam Patel et al (Ed.); Contribution of Gujarat to Sanskrit Literature (Dr. M. I. Prajapati Felicitation Volume); Dr. M. I. Prajapati Sastipurti Sanman Samiti; Patan (Gujarat); 1998
@@ -1560,7 +1369,6 @@ Commentaries
 **VARMA, Satyakam**. 1984. Vedic Studies. Bharatiya Prakashan: New Delhi
 
 **WARE Anna Sastri**. 1943. Suklayajurvidhana-sutra. Nirnaya Sagar Press: Bombay
-
 
 ## Kanva Sakha of Sukla Yajurveda
 
@@ -1596,12 +1404,10 @@ AITHAL [1991] lists numerous Lakshana texts on the Kanva Sakha but I will restri
 
 Indices of Kanva Samhita
 
-
-
 1. Sarvanukramani or the Kanvanukramani – Exists in manuscript [AITHAL 1991:257]. Its relationship with the Madhyandina Sarvanukramani of Katyayana is unclear.
 2. 
 
-### Kanva Shatpatha Brahman:
+### Kanva Shatpatha Brahman
 
 The first seven Kandas of the Kanva version of the Vajasneya Brahmana was published by Wilhelm Caland. However, because of inadequate manuscript material, he had to resort to the better preserved text of the Madhyandina Shatapatha Brahmana and had to amend the text at several places. Caland printed only the first seven Kandas because it is here that the text of the two versions differs considerably. For the remaining portions, he was content with listing the main differences. 
 
@@ -1610,7 +1416,6 @@ Starting recently, a critical edition of the Kanva text is being printed anew by
 In the Kanva sakha, the Samhita commences with the Darshapurnamasa rite but the Brahmana deals with the adhana at the beginning. Consequently, the order of the first and the second kandas in the Kanva is inverse of that in the Madhyandina Shatapatha Brahmana. The text as such is divided into 17 Kandas, 104 adhyayas, 435 Brahmanas and 6806 Kandikas. Note that unlike the Madhyandina version, there is no division into Prapathakas.
 
 Comparison of the contents of Madhyandina and Kanva Shatapatha Brahmanas
-
 
 <table>
 <tr>
@@ -1775,22 +1580,17 @@ Comparison of the contents of Madhyandina and Kanva Shatapatha Brahmanas
 </tr>
 </table>
 
-
 The division of the text into Kandikas is more rational in the Kanva version, and the division into Adhyayas less erratic.
 
 Swaminathan [1994:xviii] has suggested that only the first 9 Kandas of the Madhyandina Shatapatha (= first 11 Kandas of Kanva Shatapatha) were transmitted orally with great fidelity because the rituals contained in the remaining portion of the texts were not performed with great frequency.
 
-#### Commentaries:
-
-
+#### Commentaries
 
 1. Sayanacharya’s Commentary: Traditionally, it extends only upto the first 20 chapters of the text. Like his other commmentaries on Vedic texts, this one too is encyclopedic, and very well planned and systematic. Sayana quotes the Katyayana Srauta Sutras and the relevant portions of the Shatapatha Brahman as he comments on the mantras of the Samhita. He goes beyond the texts of the Kanva Shakha and quotes the Apastamba and Baudhayana texts as well as the Taittiriya Samhita/ Brahmana/ Aranyaka to impart more clarity to the ritual formula being explained. A drawback of Sayana's commentary, although it demonstrates his sound knowledge of Vedic accentuation, prosody etc., is that he restricts himself only to the ritualistic meaning of the mantra as established by tradition, even when the natural meaning of the mantra is not ritualistic. A few years ago, ‘Sayana’s’ commentary on the last 20 chapters of the Kanva Samhita was also published [ref. 3]. The commentary was published on the basis of a solitary palm-leaf manuscript in the Oriya script preserved in the collection established by ancestors of  Pandit Mahesvaracharya  in the village named ‘Athagarha’ in the district of Ganjam in Orissa.
 2. Anandabodha: He was a native of Andhra Pradesh, and his commentary shows the influence of the Orissan version of the Kanva Samhita. Anandabodha begins the commentary of each verse by listing the Devata, meter and the Seer. He does not restrict himself to the ritualistic meaning of the mantras like Sayana, but tries to extract the deeper, spiritual meanings wherever possible. At times, he even hints at the . His commentary, called the Bhasyasangraha, extends over all the 40 chapters of the Samhita. Apparently, the author was also called Anandabhatta Chaturvedin.
 3. Anantacharya: His commentary covers only the final 20 chapters of the Samhita.
 
 #### Commentaries on Kanva Brhadaranyaka Upanishad
-
-
 
 1. Samkaracarya (Advaita): This and all others subsequently are on the Kanva version of the text
 2. Suresvaracharya: A voluminous commentary in approximately 12,000 verses. It is a Varttika
@@ -1805,8 +1605,6 @@ Swaminathan [1994:xviii] has suggested that only the first 9 Kandas of the Madhy
 
 ### Commentaries of Isavasya Upanishad** ** (Kanva Sakha)
 
-
-
 11. Samkaracarya (Advaita Vedanta): This is on Kanva recension of Yajurveda
 12. Kuranarayana (Visistadvaita Vedanta)
 13. Madhvacarya (Dvaita Vedanta)
@@ -1820,15 +1618,13 @@ Swaminathan [1994:xviii] has suggested that only the first 9 Kandas of the Madhy
 21. Upanisadbrahmayogin (Paramadvaita Vedanta): Manuscript at Central Library, Baroda
 22. Damodara Satavalekara: Vaidik commentary. In Hindi
 
-### Katyayana Srauta Sutra:
+### Katyayana Srauta Sutra
 
-### Kanva Gryha Sutra:
+### Kanva Gryha Sutra
 
-### Kanva Smriti:
+### Kanva Smriti
 
-### References:
-
-
+### References
 
 4. B. R. Sharma; Kanva Samhita with the Padapatha and the commentaries of Sayanacarya and Anandabodha (2 vols.); Vaidika Samsodhana Mandala; Pune; 1988
 5. K. Parameswara Aithal; Veda Laksana (Vedic Ancillary Literature), A Descriptive Bibliography; Franz Steiner Verlag; Stuttgart; 1991
@@ -1844,13 +1640,13 @@ STAAL, J. F. 1961. Nambudiri Veda Recitation. Mouten & Co.: ‘S-Gravehage
 
 ## OTHER SHAKHAS OF SUKLA YAJURVEDA
 
-### Baijavapa Grhyasutras:
+### Baijavapa Grhyasutras
 
 Fragments exist in the collection of Caland [WITZEL 1990:xxxiii]
 
 **Galava Shakha: **KRISHNAMUTY [1984] cites a text called ‘Galava Satapatha’ in his biography on Sage Yajnavalkya (pp. 1, 53, 55 etc.). From these meager quotations, it is impossible to say whether this Galava Satapatha is a Brahmana text at all or not. It might be merely a traditional biography of Sage Yajnavalkya.
 
-### Jabala Shakha:
+### Jabala Shakha
 
 The Sukla Yajurvedin Deshastha Brahmins have an endogamous subcaste named Jabala, who were presumably the followers of the Jabala Sakha of this Veda [KARVE 1968:136].
 
@@ -1874,7 +1670,7 @@ WITZEL Michael. 1990. Kliene Schriften: Willem Caland. Franz Steiner Verlag: Stu
 
 ## Taittiriya Sakha of Krshna Yajurveda
 
-### Brahmin Communities:
+### Brahmin Communities
 
 Nambudiris: According to the most comprehensive studies undertaken, approximately 35% of the Nambudiris are Rigvedins, 50% are Yajurvedins and just about 1/8% are Samavedins. The rest are excluded from Vedic study [STAAL 1961:35-36]. All Nambudiri Yajurvedins are Taittiriyas. About 90% of them follow the Baudhayana Kalpa, while the remainder follow the Vadhula sutras.
 
@@ -1888,19 +1684,15 @@ Some manuscripts of Charanavyuha give the names of the five divisions of  Kandik
 
 Colophons of some manuscripts of the Taittiriya Samhita and Taittiriya Brahman call the text as Apastamba Samhita and Apastamba Brahman respectively, but it merely denotes that these manuscripts belonged to Taittiriya Brahmins who belonged to the Apastamba Charana.
 
-
 #### Commentaries in the Taittiriya Samhita
-
-
 
 1. Bhatta Bhaskara
 2. Sayana: This was the first Vedic text on which Sayanacharya presumably commented, because he himself belonged to the Baudhayana sutra of the Taittiriya Shakha. Sayana's commentary on this text possesses the well features of his commentaries on the other Vedic texts as well. In commenting on each verse or passage, he reproduces the relevant portions of the Kalpasutra and the Brahmana. Since all the details pertaining to the verse might not be found in the 
 3. M R Jambunathan published a Tamil translation of all the mantra portion of the Taittiriya Sakha, and also of the entire Sukla Yajurveda from Bombay in 1938, through the J. Book Depot. The work is titled ‘Yajurvedam’.[^88]
 
-
 4. Kandas 1 and 2 of the Tattiriya Samhita have been translated into Marathi by V V Bhude and published by the CASS (Centre for Advanced Sanskrit Studies) at Poona University in 1987. 
 
-### Rudradhyaya:
+### Rudradhyaya
 
 This is the most common section of the Yajurveda and is said to be present in all the 101 Sakhas of the Yajurveda according to the phalasruti in Sayanbhashya on the same[^89]. Literally dozens of commentaries of this text in different versions are extant. Here, we shall ennumerate only the commentaries of the Taittiriya Rudradhyaya. For commentaries of the Rudradhyaya of other Sakhas, refer to the relevant sections.
 
@@ -1910,11 +1702,9 @@ This is the most common section of the Yajurveda and is said to be present in al
 
 3. Ahovala
 
-#### Chamaka Prasna:
+#### Chamaka Prasna
 
 Commentaries
-
-
 
 1. Bhatta Bhaskara
 2. Bhashya of Somanatha on the Namaka Chamaka Prashna (13<sup>th</sup> cent. C.E.): He hailed from Andhra Pradesh [ref. 4]
@@ -1942,7 +1732,6 @@ Kanda VI.1-6 = prashnas 34-39
 Kanda VII.1-5 = prashnas 40-44
 
 The shaakhaa portion of the recited text consists of 39 prashnas, most of which are called by specific names by the Nambudiris. The table below is adapated from STAAL [p. 56] and gives the correspondence between the Nambudiri shaakhaa text, the printed versions of TB/TA/TU, the division as indicated by the Kandanukramani of the Atreyi shaakhaa, and the divisions as indicated in the Baudhayana Grhyasutra.
-
 
 <table>
 <tr>
@@ -2227,24 +2016,20 @@ The shaakhaa portion of the recited text consists of 39 prashnas, most of which 
 </tr>
 </table>
 
-
 STAAL [page 37] further notes –
 
 “The relation between sakha 34 and 25 is uncertain (TA 4.1-42 is the mantra section of the Pravargya, the position of which is floating). The mantras of the Pitrmedha are placed inbetweenTB 3.4 and 5, in the same order as Atreyi (Kieth assigned to the Pitrmedha a loose place in the tradition) The Narayana Up is placed before the TU. It should be noted, that nowhere does the Namudiri sakha follow the order as given by Baudhayana whilst differing from the order of Atreyi and/or of the present day edition.”
 
-#### Taittiriya Brahmana: 
+#### Taittiriya Brahmana
 The Brahmana comprises of 3 kandas, which are divided into 8, 8 and 12 adhyayas respectively. The Brahmana is also sometimes divided into 8 ashtakas, in the style of Rigveda. These adhyayas are further divided into anuvakas or sections, which contain sentences on a particular topic. There are a total of 17480 sentences in the Brahmana. The first kanda of the text deals with the Agnyadhana, Gavamayana, Vajapeya, Soma, Nakshatreshti and Rajasuya. The 2<sup>nd</sup> kanda deals with Agnihotra, Upahomas, Sautramani, Vaisysava and others. The last kanda gives some additional details on the Nakshatreshti, the Ashvamedha and some parables like that of Bharadvaja, together with the Purushamedha Yajna.
 
 The first edition of the text was published in 3 volumes by Rajendralal Mitra in the years 1855-1870 from Calcutta.
-
 
 ### Taittiriya Aranyaka
 
 The first edition of the Taittiriya Aranyaka was published from Calcutta by Rajendralal Mitra in the year 1871.
 
 #### Taittiriya Upanisad
-
-
 
 1. Bhasya of Sri Samkaracharya
 2. Varttika of Sri Suresvaracharya (on # 1)
@@ -2258,16 +2043,12 @@ The first edition of the Taittiriya Aranyaka was published from Calcutta by Raje
 10. Commentary by Damodara Sastri
 11. Hindi translation by Pt. Satavalekara
 
-
 #### Mahanarayana Upanishad
-
-
 
 1. Bhatta Bhaskara
 2. Sayanacharya
 3. Bhasya of Kesava, a disciple of Sri Madhvacharya: It follows the Andhrapatha of the text.
 4. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
-
 
 ### Indices on the Taittiriya Samhita, Brahmana, Arayanaka, and Upanishad
 
@@ -2281,7 +2062,6 @@ The Atreyi Samhita differs from the vulgate Sarasvati paatha in the following re
 
 4. Taittiriya Samhitanukramani – this is the title of a manuscript at Mysore, listed by AITHAL [1991:359]. No further information is available.
 
-
 ### Siksha and Lakshana Texts
 
 **Kalanirnaya Siksa [**AITHAL 1991:262-264] – This treatise of 27 verses deals with the time measurement of letters, accents and stops. The work is quoted in the Tribhashya ratna commentary on Taittiriya Pratisakhya 18.1, in the commentary on Vyasa Siksa of SuryanarayanavadhAnin and in the commentary on the Siddhanta Siksa. It has a commentary named Dipika, authored by Muktisvara or Muktisvaracharya. Both the Siksa and the commentary are still unpublished although manuscripts are listed in several catalogues.
@@ -2290,13 +2070,11 @@ The Atreyi Samhita differs from the vulgate Sarasvati paatha in the following re
 
 **Sambhu Siksa**: This is a work of about 50 verses and explains the names of the various kandas and anuvakas of the Taittiriya Samhita. It classifies the letters of the alphabet and deals with accent, quantity, hiatus, doubling of consonants etc. It is evidently an old text, being quoted the Tribhashya Ratna on  Taittiriya Pratisakhya 1.1, 21.15 and in Vaidikabharana on Taittiriya Pratisakhya I.40 [AITHAL 1991:572]. The work is still in manuscript.
 
-#### Taittiriya Pratisakhya: 
+#### Taittiriya Pratisakhya
 
 According to VARMA [1984:191], the text is pre-Paninean.
 
 Commentaries on Taittiriya Pratisakhya:
-
-
 
 1. Atreya Bhashya: Mentioned at the beginning of the Tribhashya Ratna. A defective manuscript of the work might exist at Adyar [ref. 3, pg. 124]
 2. Tribhashya Ratna or Paratisakhya-vivarana of Somayarya – This is the most popular commentary on the Paratisakhya, and has been published by K. RANGACHARYA [1906] and WHITNEY [1871].
@@ -2316,15 +2094,13 @@ The text does not have the general characteristics of a Siksa text. Rather, its 
 
 Taittiriya Siksa – this is the title of a manuscript listed by AITHAL [1991:359]. No further information is available. 
 
-### Kalpasutras and Related Texts:
+### Kalpasutras and Related Texts
 
 #### Baudhayana Sakha
 
 ##### Baudhayana Srauta Sutra
 
 Commentaries
-
-
 
 1. Devasvamin’s Bhasya from the Adhana to the Agnishtoma portion of the Srauta Sutra
 2. Bhavasvamin’s Bhasya on the entire Srauta Sutra
@@ -2355,15 +2131,11 @@ A critical edition of the text, together with all its appendices/supplements, is
 
 #### Baudhayana Yajnaprayaschitta Sutras
 
-
-
 6. Naksatra sutra Bhasya of Balabhadra: Extends only on the sutras pertaining to the Naksatra sacrifices
 7. Bhasya of Bhavasvaim
 8. Bhasya of Gopala: A fragmentary commentary on the text exists in Calcutta [HARAPRASAD SHASTRI 1923: 504].
 
 #### Baudhayana Sulva Sutra
-
-
 
 9. Mimamsa by Vyankatesvara Diksita
 10. Dipika by Dvarakanatha, the son of Tika Bhatta. This was published by G. Thibaut in The Pandit, vols. IX-X, (1874-1876).
@@ -2371,7 +2143,7 @@ A critical edition of the text, together with all its appendices/supplements, is
 
 A Marathi translation of Manava, Katyayana, Apastamba and Baudhayana Sulvasutras was published in 1978 from Mumbai by R. P. Kulkarni [KASHIKAR 1996: 4].
 
-### Apastamba Sakha:
+### Apastamba Sakha
 
 **Apastamba Kalpa:** The Apastamba Kalpa is extremely well preserved comprises of 32 sections called Kalpas. The first 24 Prasnas form the Srauta portion, Prasnas 25-27 form the Gryha section, Prasnas 28-29 form the Dharma Sutra portion, Prasna 30 forms the Sulva portion and the last two viz. Prasnas 31-32 comprise the Pitramedha sutras.
 
@@ -2391,11 +2163,8 @@ The whole Kalpsutra of Apastamba comprises of 30 sections called Prasnas.
 
 Commentaries
 
-
-
 12. Vrtti of Rudradatta
 13. Bhasya of Kapardisvamin: A manuscript containing the Paribhasha chapter only exists at Calcutta, though the first two leaves are missing. Likewise, another manuscript containing his commentary on the Naksatreshti also exists in the same city. Another manuscript gives his bhashya on the Saamaanyasutra. [HARAPRASAD SHASTRI 1923: 484-485]. The section of his commentary on Darshapurnmasa section of the sutra is also reported.[^91] In addition, various Paddhatis and other ritual manual based on the lost work of Kapardiswamin also exist in manuscript, such as the Apta-Vajapeya Prayoga based on Kapardiswamin’s bhashya existing in Calcutta [p. 578]. The portion of his commentary on the Agnichayana section may exist in south India[^92].
-
 
 14. Commentary by Raamaandaara
 15. Bhasya of Dhurttasvamin
@@ -2405,22 +2174,17 @@ Commentaries
 19. Apastamba Prayoga Darpana by Narayana Yajvan.
 20. Commentary by Somanatha: Manuscript exists in south India[^93].
 
-
 21. Commentary by Gopala Paramahamsa Parivraajakaacharya: He was the Guru of Ganapati and Nrsimha, and is quoted by Sayanacharya. 
 22. Apastambasrautasutra-karika by Vasudeva Diksita covering Pasuyaga, darshapurnamasa, Adhana, Somayaga, Chaturmasya, Chayana etc., exists in manuscript in southern India[^94].
 
-
 23. Apastambasrautasutra-prayoga by Vasudeva Diksita covering Sautramani, Caturmasya, Vajapeya etc., exist in manuscript in southern India[^95].
-
 
 24. Prayogavrtti by Taalavrntavasin
 25. Commentary by Raamaagnija
 26. Commentary by Kaundappaacharya
 27. Pandit Bhimasena Sharma published a Hindi translation and commentary of the Apastamba Yajna Paribhasha sutras in May 1888 issue of his magazine ‘Arya-siddhanta’[^96].
 
-
 28. Yajnikasarvasva of Abohala Suri, extending up to the darshapurnamasa section only: Manuscript in collection in south India[^97].
-
 
 29. German translation by W. Caland
 30. English translation
@@ -2431,16 +2195,12 @@ The Apastamba Srauta Sutra was first published by Richard Garbe from Calcutta in
 
 Commentaries and translations
 
-
-
 31. Bhashya of Kapardiswamin: A text called Kapardikarika exists, which purports to summarize the lost commentary of Kapardiswamin on the Grhyasutra. Portions of the commentary apparently still exist in manuscript though. For instance, his Bhashya on the Aparasutra of Apastamba Grhya apparently exists in south India[^98].
-
 
 32. Bhashya of Guhadevasvamin
 33. Anaakulaa of Haradatta Mishra
 34. Bhashya of Sudarshanacharya
 35. Vivarana of Karka: He is the same person who is credited with commentaries on numerous texts of Sukla Yajurveda[^99].
-
 
 36. Tatparya Vivarana of Gopinatha Mauni
 37. Prayogavrtti by Taalavrntanivasin
@@ -2453,11 +2213,9 @@ Commentary:
 
 The most notable commentary on Apastamba Dharmasutra is the ‘Ujjvala’ by Hardatta (16th Cent. C.E.)
 
-#### Apastamba Sulba Sutra:
+#### Apastamba Sulba Sutra
 
 Commentary
-
-
 
 39. Kapardisvamin
 40. Sutraksarartha Vibodhini by Karavinda Swamin: A very extensive commentary on the sutra.
@@ -2488,42 +2246,31 @@ Bharadvaja Pitrmedha Sutra
 
 Commentaries
 
-
-
 43. Bhasya of Maunabhatta: A commentary is extant at Calcutta (Ref. 1, Pg. 463, no. 495)
 44. Anonymous Vyakhya: A commentary is extant at Calcutta (Ref. 1, Pg. 464, no. 496)
 45. 
 
 Bharadvaja Paribhasha Sutra
 
-
 ### Hiranyakesin Sakha
-
 
 According to Jaidev Sharma [Samvat 2019:25], a ‘Hiranyakeshin Mantrasamhita’ comprising of a small collection of ritualistic mantras, is still extant.
 
-
 ####### Hiranyakesin Kalpa
-
 
 The Hiranyakesin Kalpa is a full fledged Kalpasutra: Srautasutra comprises Prasnas 1-18 and 21-24, Grhyasutra comprises Prasnas 19-20, Sulbasutra is Prasna 25, Dharmasutra is Prasnas 26-27 and the Pitrmedhasutras are Prasnas 28-29
 
 There has been considerable discussion on the correct name of the text: Satyasadha or Hiranyakesin. NAVATHE [1990] has shown that the correct name of the Sutrakara is ‘Satyasadha’ while ‘Hiranyakesin’ is his distinctive epithet, indicative of the fact that he had light or reddish hair. Hence, Satyasadha Sutra and Hiranyakesin sutra are not two different texts and the name ‘Hiranyakesin’ became more popular because of the exclusiveness of the epithet.
 
-
 #### Hiranyakesin Srauta Sutra
 
 The entire text has been published in 10 volumes by the Anandasrama-Samskrta Granthavali by Pt. Kasinatha Sastri Agashe et al from 1907-1932 with various commentaries as follows:
-
-
 
 10. Commentary of Mahadeva on Prasnas 1-6, 11-18 and 21-29. This work is called Prayoga Vaijayanti.
 11. Commentary of Matrdatta on Prasnas 19-20
 12. Commentary of Gopinatha Bhatta on Prasna 7-10. This commentary is called Jyotsna.
 
 Other commentaries that exist on the text are
-
-
 
 1. Ujjvalaa by Mahaadeva Diksita
 2. Prayogaratna by Mahadeva Somayaajin
@@ -2534,7 +2281,7 @@ For this critical edition, Navathe is utilizing manuscripts from regions further
 
 In his Catalogue of Sanskrit MSS from Gujarat, vol. I, p. 38, Buhler mentions a ‘Hiranyakesisakhiya Brahmana’. WEBER [1878: 92, fn. 95] opines that if at all this is a different work, it would not deviate much from the Apastamba Sakha version of Taittiriya Brahmana since the Kalpasutras of the two Sakhas are so similar.
 
-#### Hiranyakesiya Grhyasutra: 
+#### Hiranyakesiya Grhyasutra
 
 Commentaries \
 1. Matrdatta
@@ -2544,15 +2291,13 @@ Commentaries \
 Commentaries \
 1. Ujjvalaa by Mahaadeva
 
-### Ancillary Texts:
+### Ancillary Texts
 
 Yajurvidhana of Taittirya Sakha: This work consists of 9 chapters, and presumably still exists in manuscript.
 
 [^104]
 
 ### References
-
-
 
 1. Mahamahopadhaya Haraprasad Shastri; A descriptive catalogue of Sanskrit manuscripts in the Government collection under the care of the Asiatic Society of Bengal, Vol. II--Vedic Manuscripts; Asiatic Society of Bengal, Calcutta; 1923
 2. H. P. Malladevaru; Bodhayana Grhyasutram of Bodhayana Maharsi; University of Mysore Oriental Research Institute Series No. 141; Oriental Research Institute; Mysore; 1983
@@ -2591,14 +2336,11 @@ It is unclear if the Charaka Samhita has yet been found, as Sharma’s cryptic s
 
 References:
 
-
-
 1. B. R. Sharma; Kanva Samhita with the Padapatha and the commentaries of Sayanacarya and Anandabodha (2 vols.); Vaidika Samsodhana Mandala; Pune; 1988
 
 **KARVE, Irawati Karmarkar**. 1968. Hindu Society – An Interpretation. Deshmukh Prakashan: Poona
 
 **SHARMA, Bellikoth Ramakrishna**. 1996. Text Editing and Text-Critical Study. In Some Aspects of Vedic Studies, ed. by Samiran Chandra Chakrabarti, School of Vedic Studies – Rabindra Bharati University: Calcutta; pp. 55-78
-
 
 ## Kapishthala Katha Shakha of Yajurveda
 
@@ -2606,20 +2348,17 @@ Kapishthala Samhita
 
 There is only one edition of the Samhita, published by Raghu Vira from Lahore (now in Pakistan) in 1932. 
 
-### Geographical Distribution and Oral Traditions: 
+### Geographical Distribution and Oral Traditions
 
 In Buddhasvamin’s Brihatkathashlokasamgraha, a text dated to 500 C.E., the following verse is encountered [Ref. 2, pg. 55]- “In Avanti there is a settlement if Brahmanas, called Kapishthala. Its boundary is inlaid with sacrificial altars and it abounds in wheat and herds of cows”. (Canto 4, Verse 83)
 
 Katha Kapisthala Grhya Sutra:  A solitary manuscript of this text exists in the Saraswati Bhawan library of Sanskrit University, Varanasi. The manuscript was copied about 125 years ago and has several lacuna in the middle [ref. 1, pg. 23]
 
-### References:
-
-
+### References
 
 1. Vedavani 33.5; Ramalal Kapoor Trust; Bahalagarh, Haryana; 1981
 2. Poddar, Ram Prakash  and Sinha, Neelima (Ed. and Transl.); Budhasvamin’s Brhatkatha Slokasangraha; Tara Printing Works;  Varanasi; 1986
 3. 
-
 
 ## Kathaka Sakhas of the Krsna Yajurveda
 
@@ -2711,12 +2450,9 @@ Handlist of Sanskrit Manuscripts in the Sanskrit Manuscript Library; Research an
 
 **Commentaries on Kathaka Samhita**: None exist and none are known to have existed.
 
-
 ### Commentaries on the Kathaka Rudradhyaya
 
 The Kathaka Rudradhyaya apparently comprised of 6 anuvakas and comentaries on this text are often titled ‘Shadamgasatarudriya Bhasyam”. Following manuscripts might be listed
-
-
 
 1. Commentary by Haridatta Misra: Manuscript at Calcutta (Ref. 1, Pg. 428, no. 445). The manuscript is in Sharada script and has an extent of 500 shlokas. 
 2. Commentary by Satrrughna: However, although the manuscript is from Kashmir (Ref. 1, Pg. 427, no. 444), it differs from the one above and also from the texts of the Taittiriya and Vajasneyi recensions. It is actually unclear which one belongs to the Kathaka Sakha. Also, it appears that Satrughna wrote a commentary on the entire text of his Sakha, which is not extant now.
@@ -2724,8 +2460,6 @@ The Kathaka Rudradhyaya apparently comprised of 6 anuvakas and comentaries on th
 ### Upanishads
 
 #### Commentators of the Katha Upanisad
-
-
 
 1. Bhartrprapanca (Bhedabheda)
 2. Samkaracarya (Advaita)
@@ -2769,8 +2503,6 @@ Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 
 Laksana Texts –
 
-
-
 1. Laugaksi Siksa – It still exists in manuscript [AITHAL 1991:505]
 2. 
 
@@ -2782,18 +2514,15 @@ Laksana Texts –
 
 ### References
 
-
-
 1. Mahamahopadhaya Haraprasad Shastri; A descriptive catalogue of Sanskrit manuscripts in the Government collection under the care of the Asiatic Society of Bengal, Vol. II--Vedic Manuscripts; Asiatic Society of Bengal, Calcutta; 1923
-
 
 ## Maitrayaniya Sakhas of Krshna Yajurveda
 
-### Area of Prevelance:
+### Area of Prevelance
 
 The Maitrayaniya Samhita is currently prevalent in interior Maharashtra in areas around Nagpur, and in the regions around Nashik, particularly in Bhadgaon. Followers of this shakha invariably followed the Manava Sutra at Bhadgaon, while elsewhere they followed either the Manava Sutra or the Varaha Sutra. The Charaka Brahmins of Nagpur-Aurangabad region adopted the Maitrayaniya Samhita after their own Samhita was lost [ref. 2]. Famous Maitrayaniyas include Sabara [Chinnaswami Shastri 1937] and Bhartrhari.
 
-### Historical Perspectives:
+### Historical Perspectives
 
 Discussing the history of the Manava Maitrayani school, Kashikar [1990] states that :
 
@@ -2808,7 +2537,6 @@ The damage done to the Matrayaniya recension as a whole is quite obvious. The Ma
 Pg. 107 In selecting only the mantra portions for the Padapatha, the Gujarat tradition followed the Sukla Yajurveda tradition in which the mantras form an independent collection. The Maharashtra tradition followed the Krsna Yajurveda Taittiriya tradition in which the Samhita consisting of both the mantras and the brahmana is provided with a Padapatha. Both the Padapathas are defective; the Gujarat Padapatha may be said to be less defective.
 
 Baglan= Gujarat + Northern Maharashtra
-
 
 ### Samhita and Padapatha
 
@@ -2830,14 +2558,10 @@ It is a part of the Varaha Parisishtas and enumerates the prosodic meters of the
 
 **Maitrayaniya Upanishad**: Also called Maitrayaniya Aranyaka or Brhadaranyaka of Maitrayaniya Sakha. A manuscript of an almost identical text at Lahore is titled ‘Charaka Aranyaka’.
 
-
-
 1. Aloka of Vijnana Bhiksu
 2. Dipika of Ramatirtha
 
 ### Svetasvatara Upanishad
-
-
 
 1. Commentary ascribed to Sri Samkaracharya: considered spurious by many scholars
 2. Aloka of Vijnana Bhiksu
@@ -2845,7 +2569,7 @@ It is a part of the Varaha Parisishtas and enumerates the prosodic meters of the
 
 ### Chhagaleya Upanishad
 
-### Manava SrautaSutra: 
+### Manava SrautaSutra
 
 Friedrich Knauer published a portion of the text in 5 parts from St. Petersburg (Russia) in 1901-1903. J. M. van Gelder published the sixth part comprising the Agnichayana in 1921. Subsequently, Gelder completed the work and published the entire text along with an English translation, plus a few Parisistas from Delhi in 1961.
 
@@ -2858,7 +2582,6 @@ First, Gelder divides her text into 11 parts which are further divided into Adhy
 Second, part 8 of Gelder’s edition comprising the ‘anugrahika’ is not an integral part of the Manavasrauta Sutra, but rather a Parisista of the Srautasutra.
 
 Third, Kashikar has concluded that the Srauta tradition of the Manavas diverged at some point of time into two streams- the Gujarat tradition which is older, and the Maharashtra tradition (in districts adjacent to Gujarat) which is younger. He proposes the following sequence of the various portions of the Srautasutra
-
 
 <table>
 <tr>
@@ -3143,9 +2866,7 @@ Third, Kashikar has concluded that the Srauta tradition of the Manavas diverged 
 </tr>
 </table>
 
-
 Kashikar has also suggested that the earlier view that Apastamba was indebted to Manava is flawed and a closer examination of the texts rather suggests the reverse.
-
 
 ### Manava Grhyasutra
 
@@ -3169,7 +2890,7 @@ Add note on Vinayaka rituals in the Grhyasutra.
 
 A Hindi translation cum commentary on this text was published by Pandit Bhimasena Sharma, the principal disciple of Swami Dayanand Sarasvati (founder of Arya Samaj) in Vikrami Samvat 1861. The work was printed by Vedaprakash Yantraalaya located in Etawah district of Uttar Pradesh.
 
-#### Manavagrahyasutra Parisishtas:
+#### Manavagrahyasutra Parisishtas
 
 Muulajaatasanti: A manuscript noticed by Buhler.[^105]
 
@@ -3179,20 +2900,17 @@ Rudrajapa: Name of a Parisishta of the Manavagrhyasutra.[^107]
 
 Sraaddhakalpa[^108]
 
-
 ### Varaha Srautasutra
 
 An edition of this text was published by Raghuvira and Caland in 1933. They themselves termed this edition as provisional. Fortunately, an improved edition has been recently published by Kashikar [
 
-### Dharmasutras:
+### Dharmasutras
 
 Harita Dharmasutra: A manuscript of this valuable work exists in the collection of Caland [ref. 1, pg. xxxiii]
 
 ### Manava Sulva Sutra
 
 Commentaries
-
-
 
 1. Commentary by Sivadasa, the son of Narada. This is the earliest commentary on the text and its extent in shlokas is 1000. A manuscript exists in the collection of the Royal Asiatic Society of Bengal [HARAPRASAD SHASTRI 1923: 460-461]. The introductory verses state that the commentary was composed in Varanasi, and that the author compared his text with the Sulbasutra of Baudhayana, in order to point out the differences between the two. Sivadasa also claims that the author of the Sulvasutra was none other than Manu who composed the famous Manusmriti. He calls his Sakha as ‘Manu-Maitri’ Sakha.
 
@@ -3202,15 +2920,11 @@ Parisishtas
 
 The Varahas have 22 Parisistas. Of these, the Chaturhotrka, Gonamika and Chhando’anukramani were published by Raghuvira. While a Frenchman Pierre Rolland (1940-74) published studies (in French) on the Vrstotsarga, Rahasya and Bhutotpatti. He also wrote a study (unpublished) on another Parisishta called the Grhyapurusha, which, according to PARPOLA [1976], casts an important light on ancient Indian architecture.
 
-
 ### Miscellaneous
 
 1. Charaka-Adhvaryakrdvatsah: A non identifiable text in Caland’s collection [ref.1, pg xxxiii]
 
-
 ### References
-
-
 
 1. Michael Witzel; Kliene Schriften: Willem Caland; Franz Steiner Verlag; Stuttgart; 1990
 2. B. R. Sharma; Kanva Samhita with the Padapatha and the commentaries of Sayanacarya and Anandabodha (2 vols.); Vaidika Samsodhana Mandala; Pune; 1988
@@ -3244,11 +2958,8 @@ SHASTRI, Ramakrishna Harshaji. 1926. Manavagrhyasutra of the Maitrayaniya Sakha 
 
 ## Other Shakhas of Krishna Yajurveda
 
-
-
 1. **_Varatantaviya_**: This is named after Rishi Varatantu, who is named by Panini on Ashtadhyayi 4.3.102. In his Raghuvansha, Kalidasa describes Varatantu as a ‘mantrakrita’ (5.4) and as a contemporary of King Raghu (5.1-20)
 2. 
-
 
 ## Kauthuma Sakha of Samaveda
 
@@ -3274,45 +2985,36 @@ The Brahmanas of Samaveda are not recited.
 
 6. West Bengal: A Kauthuma Vedapathashala was recently opened in the state
 
-### Samhita:
+### Samhita
 
 The Samaveda Samhita is of two types- the Archika samhita containing the mantras, and the Gaana comprising of the melodies. 
 
 Samavediya Archika Samhita: The Kauthuma Samhita of the Samaveda comprises of 1875 mantras of which 1800 are found in the published Rigveda Samhita. According to Damodara Satavalekar, the remaining verses are to be found in manuscripts of the Shankhayana Shakha of the Rigveda. The verses of Samaveda are divided into two books: The Purvarchika and the Uttarachika. The verses are accented, and contrary to the notations in the manuscripts of the other Vedas, the accents in the Kauthuma Samaveda are marked by inserting numbers and a few letters above the text of the mantras. The Purvarchika comprises of mantras address to Agni, Indra and Soma. These verses form the backbone of the Gramageyagana songbook. The Gramageyagana comprises of 1 or more melody to which each verse of the Purvarchika, taken in order, is set.
 
-### Padapatha of Kauthuma Samhita:
+### Padapatha of Kauthuma Samhita
 
 The Padapatha is traditionally attributed to Sage Gargya.
 
-### Commentaries on the Kauthuma Samhita: 
-
-
+### Commentaries on the Kauthuma Samhita
 
 1. Bharat Swamin
 2. Sayanacharya
 3. Ravana (?):WEBER [1878: 66, fn. 61] notes that Rost, in *Indische Studien*, Vol. IX, p. 176, hints at the existence of a Ravanabhashya on the Samaveda in Malabar.
 4. Ralph Griffith[^109] published an English translation of the Samaveda Samhita, titled ‘The Hymns of the Samaveda’ in two parts from Varanasi in 1963. Subsequent editions of the work were published in 1907, 1926, and finally the 4<sup>th</sup> edition in 1963 was published by Chowkhamba Orientalia.
 
-
 5. Pandit Tulasiram Swami (d. 1915) wrote a massive commentary from a devotional perspective on the entire Samaveda Samhita. This work was published in two volumes by Swami Press located in Meerut. Initially, the commentary was published in monthly fascicules, the first of which appeared on 24<sup>th</sup> May 1898[^110].
-
 
 6. Pandit Chamupati: He wrote his commentary titled ‘*Jivan-jyoti’* on Agneya Parvan of the Samhita and *Soma-sarovar* on the Pavamana Parvan. These works are written from a devotional perspective[^111].
 
-
 7. M R Jambunathan published a Tamil translation of the Samaveda Samhita from Bombay in 1935, through the J. Book Depot. The work is titled ‘Samavedam’.[^112] The translation is accompanied with notes and an appendix, and has an introduction on Samavedic literature.
-
 
 8. Pandit Jaidev Sharma (1892-1961): He is the first scholar to have translated all the four Vedas into Hindi (or, as a matter of fact, into any Indian language). The translations were written between May 1925 and 1936, and comprise 7 volumes for Rgveda, 4 for Atharvaveda and 2 each for Yajurveda and Samaveda. Sharma closely follows the views of Swami Dayanand Sarasvati in his own translations. His translations have been reprinted numerous times and are prefaced by an elaborate and erudite note on the respective Veda.
 9. Pandit Damodara Satavalekar: A Hindi and Marathi translation of the text was published by the Swadhyaya Mandala, Pardi (Gujarat).
 10. Dandisvamin[^113]: He edited the Samaveda Samhita with Sayanacharya’s commentary and a Bengali translation. The work was published by Shri Samkaracarya Vidyabhavan at Tarakeshwar in 1965.
 
-
 11. Pandit Ramavatar Sharma Tirtha-Chatushtaya (d. 1971) and Pandit Vaidyanath: They jointly wrote a commentary on the entire Samhita, following Swami Dayanand Sarasvati’s methodology at the behest of the Sarvadeshik Arya Pratinidhi Sabha which is the apex organization of the Arya Samaj. The commentary was written and completed in Lahore before India was partitioned, but it was printed several years later under the name Pandit Vaidyanath[^114].
 
-
 12. Virendra Shastri published a Hindu translation of the entire text through Adarsh Sahitya Mandal (Varanasi) in 1950.[^115]
-
 
 13. Swami Bhagavadacharya published the Sama-Samskarabhashya from the Sri Ramananda Sahitya Mandira in Alwar in two volumes that were published in 1948 and 1957 respectively.
 14. Devichand (1880-1965): He wrote a simple translation of Samaveda in English which is highly popular and is available in numerous printed editions. The translations follows the tenets of Arya Samaj. The work was first published in 1963.
@@ -3320,15 +3022,11 @@ The Padapatha is traditionally attributed to Sage Gargya.
 16. Swami Gangesvaranada Saraswati: The commentary is written from an *adhyatmic* perspective and reads the story of Lord Krishna in the mantras [ref. 5, pg. 139]
 17. Pandit Vishvanath Vidyalankar, a former Professor of Vedic Studies at Arya Samaj’s Gurukul Kangri (close to Haridwar) wrote a commentary on the entire Samaveda Samhita, which still exists in manuscript[^116].
 
-
 18. Pandit Dharmadeva Vidyamartanda published an English translation of the entire Samhita. The translation is written from a devotional perspective and was first printed in 1967. At least one reprint by Sarvadeshik Arya Pratinidhi Sabha has since appeared that I am aware of. The work has a brief English introduction that summarizes the Arya Samaj viewpoint on the divinity and interpretation of Vedas, and also citations from texts of other religions (such as the Adi Granth of Sikhism) that declare the divine origin of the four Vedas. In addition to this work, he also published poetical translations of select mantras of Samaveda[^117].
-
 
 19. Sri Ram Sharma Acharya wrote a bare-bones translation of Samaveda Samhita, together with the original, unaccented text.
 20. Pandit Virendra Shastri wrote a lucid Hindi commentary on the Samaveda from an Arya Samaj perspective. This work was published in two volumes as a special supplement to the magazine Vedavani (Vikrami Samvat 2007). It was reprinted subsequently in one volume in Vikrami Samvat 2020 by the Adarsh Sahitya Mandal of Rae Bareli (Uttar Pradesh)[^118].
 ### Anukramanis of Kauthuma Samhita
-
-
 
 1. Upanidana Sutra [Ref. 2, pg. 155]: This work, authored by Katyayana (or to Saunaka in a few manuscripts), is an index of meters of the verses of Samaveda. It comprises of two divisions called ‘Patalas’, which are respectively further divided into 5 and 3 chapters. Chapters 1 - 3 are general in nature, 4-5 are the index of meters of the Purvarchika, chapter 6 of the Aranya Kanda, chapter 7 of the Uttarakanda whereas the last chapter deals with the colors and the devatas of the various meters and also the sources of the work in a mere 4 verses. An edition of the work was published by Mangal Deva Shastri from Benares in 1931 [Ref. 9]
 2. Sarvanukramani: There exists no ancient Sarvanukramani of the Samaveda, and this lacunae was filled by the Rsi-Devata-Chhanda Anukramani of Sivarama, the son of Visrama. Manuscripts of this work exist at Alwar and Baroda [AITHAL 1991:244]
@@ -3339,7 +3037,6 @@ The Padapatha is traditionally attributed to Sage Gargya.
 
 **Brahmanas: **Tradition is unanimous that the Kauthuma Shakha has 8 Brahmana texts. The Samhitapanishad, Devatadhyaya and the Samavidhana appear to be common to all three recensions.
 
-
 ### Tandya Mahabrahmana
 
 The first printed edition of the text was brought out by Ananda Chandra Vedantavagisha from Calcutta in 1869-1874.
@@ -3348,7 +3045,7 @@ Commentaries:
 
 1. Bhashya by Jayantasvamin, son of Harisvamin.
 
-### Chhandogya Mantra Brahmana -
+### Chhandogya Mantra Brahmana
 
 The Chhandogya Brahmana is a work of ten divisions called ‘Prapathakas’ and comprises of two parts –
 
@@ -3357,8 +3054,6 @@ Prapathakas 1-2 form the Mantra Brahmana or the Mantra Parvan and contain mantra
 Prapathakas 3-10 constitute the famous Chhandogya Upanishad.
 
 The various early printed editions of the Mantra Brahmana are as follows:
-
-
 
 1. SAMASRAMI Satyavrata. 1872. Serampore. The text contained in this edition is imperfect, being based on faulty manuscripts. A Bengali translation and an original commentary in Sanskrit is included
 2. SAMASRAMI Satyavrata. 1890. Calcutta. The editor revised his first edition with the assistance of more manuscripts that gave a more correct text. He has also revised his Sanskrit commentary to correspond to the new readings.
@@ -3370,8 +3065,6 @@ Thereafter, the text was published with the commentary of Sayanacharya by Bellik
 Commentatorial Tradition: 
 
 Two traditional commentaries exist on the Mantrabrahmana.
-
-
 
 1. Gunavishnu: He was a native of Bengal, and lived before the 12<sup>th</sup> century AD, since he has been quoted by Raghunandana and others from that period. BHATTACHARYA [1958] has published this commentary and I refer to his description of the same [p. xxiv]– “In an introductory verse, Gunavishnu has modestly described himself as faltering in the correct explanation of the words and their meanings. He has however explained in his commentary many items of etymological interest, and cleared up various points of syntactical obscurities by referring to the Nighantu and the Nirukta and by quoting the rules of Mimansa. He has quoted passages from a number of works including the Brahmana, the Upanishad, the Gryhasutra and the Dharmasutra. In determining the application of mantras in different rites, Gun has always quoted the Gobhilagrhyasutra in support. He has therefore followed the Kauthuma Sakha of the Samaveda prevelant in Bengal. In grammatical discussions, he has cited the sutras of Panini throughout, and has sometimes quoted the Kasikha and the Rgveda Pratisakhya as well. Gun was well conversant with the characteristic traditions of the different Vedic schools, as otherwise he could not have boldly adopted the Mantra-readings, which are, as he himself pointed out, opposed to the Rgvedic texts.”
 2. Sayanacharya: The commentary, like his other Vedic commentaries, is titled the ‘Vedarthaprakasha’ and was apparently authored after he had already completed his commentaries on the Samhitas of the Rigveda, Yajurveda and the Samaveda. Sayana often borrows from Gunavishnu’s commentary, without mentioning his name. He supplements his comments with liberal quotations from the Khadira Grhyasutra (which was prevalent instead of the Gobhila Grhyasutra in South India) together with Rudraskanda’s commentary on the same. Often, his readings of the Mantrabrahmana are superior to those adopted by Gunavishnu [BHATTACHARYA 1958:xxvi]
@@ -3404,10 +3097,7 @@ The Devanagari text with a Bengali translation was published by Madhavadasa Samk
 
 #### Upanishads
 
-
 ##### Commentators of Chhandogya Upanishad
-
-
 
 1. Vakyakara Brahmanandin: A brief comment, called the ‘Vakya’. The work is considered lost but extensive quotations from it are encountered in the works of Advaitins and Vishishtadvaitins. I have collected these.
 2. Bhasyakara Dramidacarya: A commentary on # 1 above. Large and small extracts from the Bhashya are encountered in works like Vedarthasamgraha and Shri Bhashya of Shri Ramanujacharya, subcommentaries thereon by Sudarshana Suri, Rudraskanda’s vrtti on Drahyayana Kalpa; Parashara Bhattar’s commentary on the Sri Vishnu Sahasranama and so on. I have collected these.
@@ -3455,13 +3145,9 @@ The Devanagari text with a Bengali translation was published by Madhavadasa Samk
 
 Commentaries
 
-
-
 1. Vyakhya of Varadaraja, son of Vamanacharya
 
 **2. Pushpa Sutra**: This work has the following commentaries on it [AITHAL 1991:451-454] –
-
-
 
 1. Phulla-pota of Ganesh Pandita (in manuscript)
 2. Bhashya of Ajatasatru – printed several times
@@ -3486,10 +3172,7 @@ Commentaries:
 
 Commentaries:
 
-
-
 1. Audgaatrasaarasamgraha Bhashya of Rudraskandaswamin[^123]. No further information is available on this work.
-
 
 2. Dipa by Dhanvin
 3. 
@@ -3508,32 +3191,25 @@ Commentaries:
 
 ### Grhya Sutras of Kauthuma Samaveda
 
-
 #### Gobhila Grhya Sutra
 
 Commentaries:
 
-
-
 1. A commentary by Sayanacharya is reported in a manuscript catalog for the Awadh region.[^124]
-
 
 2. Bhasya by Bhatta Narayana, the son of Mahaabala
 3. Krtyachintamani of Shivaram Shukla: This is a voluminous digest on Dharmashastra based on the Gobhila Grhyasutra. Shivaram was a Modha Brahmin, and his father’s name was Vishrama. He composed a separate Paddhati on the Grhyasutra called the ‘Subodhinipaddhati’ [ref. 8, pg. 205]
 4. Gobhilagrhyapaddhati of Vishnu Agnihotrin: Manuscript exists in Jammu in the collection of the erstwhile Maharaja of Jammu and Kashmir[^125].
 Drahyayana Grhyasutra (also known as Khadira Grhyasutra):
 
-
-
 1. Commentary by Rudraskanda
 2. Subodhini by Srinivasa
 3. Karika by Balagnihotri
 4. Prayoga by Vinataanandana
 
-
 #### Kauthuma Grhya Sutra
 
-### Gautama Dharma Sutra:
+### Gautama Dharma Sutra
 
 Commentaries
 
@@ -3541,7 +3217,7 @@ Commentaries
 
 **Drahyayana Dharma Sutra:** A manuscript of this rare work exists in Caland’s collection [ref. 4, pg. xxx1]
 
-### Gautama Pitrmedha Sutra:
+### Gautama Pitrmedha Sutra
 
 A commentary on this text by Ananta Yajvan Kaviiyasaataabhatta, son of Krishna Bhattacharya, exists in manuscript in Berlin[^126].
 
@@ -3551,17 +3227,12 @@ A commentary on this text by Ananta Yajvan Kaviiyasaataabhatta, son of Krishna B
 
 Commentaries:
 
-
-
 1. Parisishta Prakasa Tika of Narayana, son of Shona. On this work there are three subcommentaries: Saaramanjari by Srinatha (son of Srichakra), by Hariraama and by Harihara.[^127]
-
 
 2. Bhasya of Āshāditya Misra
 3. Vivrtti by Sivarama, son of Sukla Visrama [ref. 8. pg. 205]: Shivaram was a Modha Brahmin and composed numerous other works on the texts of the Kauthuma shakha of Samaveda.
 
-### Lakshana Granthas:
-
-
+### Lakshana Granthas
 
 1. Riktantra: This text is also called the Rktantra Vyakarana or the Chhandoga Vyakarana. It is a Pratisakhya of Samaveda, in five prapathakas, and is alternately ascribed to Audavraji and Sakatayana. There exists no commentary on the first prapathaka, whereas the remaining prapathakas have a commentary called. An edition of the Rktantra has been published by Suryakanta [Ref. 10]. 
 2. Laghu Rktantra: An abridged, versified version of the Rktantra  called the Laghu Rktrantra also exists. 
@@ -3622,10 +3293,7 @@ Uttarahitvakyasutra: Manuscript exists at Alwar[^142].
 
 Viseshabhutaparisishta: Manuscript exists at Alwar[^143].
 
-
 ### References
-
-
 
 1. Mahamahopadhyaya Haraparasad Shastri; A descriptive catalogue of Sanskrit manuscripts in the Government collection under the care of the Asiatic Society of Bengal, Vol. II--Vedic Manuscripts; Asiatic Society of Bengal, Calcutta; 1923
 2. K. Parameswara Aithal; Veda Laksana (Vedic Ancillary Literature), A Descriptive Bibliography; Franz Steiner Verlag; Stuttgart; 1991
@@ -3671,7 +3339,7 @@ Communities of Ranayaniya Samavedins:
 
 2. Rajasthan: Of the 12 Gotras of the Dahima Brahmins of Rajasthan, the following adhere to the Ranayani Sakha of Samaveda, together with the Gobhila Sutra – Vatsa, Kautsa, Kasyapa, Sandilya [ASOPA 1988:23-29]. These Samavedin Brahmins worship Lord Vishnu and tie their top knot of hair to the left side of their heads.
 
-### Khadira Grhyasutra: 
+### Khadira Grhyasutra
 
 Pattabhiramarya published the text with an original commentary called the Sutraarthabodhini from Madras in 1955[^144]. The publisher is P Ramadoss.
 
@@ -3682,7 +3350,6 @@ ASOPA, Jai Narayan. 1988. The Brahmanas, Dadhichi and Dahimas. Shri Dadhimati Sa
 HOWARD, Wayne. 1977. Samavedic Chant. Yale University Press: New Haven/London
 
 Sharma, Bellikoth Ramachandra; Vedic Heritage of India (a brief survey); Rashtriya Sanskrit Vidyapeetha; Tirupati Series No. 55; Tirupati; 1991
-
 
 ## Jaiminiya Samaveda Sakha
 
@@ -3698,23 +3365,17 @@ Nambudiris: According to the most comprehensive studies undertaken, approximatel
 
 Since the Kerala Jaiminiya tradition is on the verge of extinction, a news item on a recent attempt to revive it is worth quoting in detail –
 
-
 Hindu News  Headlines for May 30, 2002  
-
 
 VHP helps scholars of a Sanskrit chanting legacy start new school
 
-
 2002-05-30 Published by Hinduism Today Gathered by Staff Reporter 
-
 
 TRIVANDRUM,MAY 30: The ancient Jaiminiya Sama Vedic tradition, a Sanskrit chanting system practiced in the South Indian state of Kerala long ago, is on the verge of extinction. There are only a few scholars alive today who are qualified to teach the recitation of the Vedas in this obscure method, and they reside only in certain parts of Kerala and at Thiruvaiyuru in Tamil Nadu's Tanjavur district. Of these experts there are said to be only five who can chant in this system perfectly without error, and they are all in their late seventies. These five masters are the teachers at a new Veda Vidya Peetham, a school established by the Vishwa Hindu Parishad to pass on Vedic knowledge to children in the Panjal village of Kerala's Thrissur district.Classes at the new school are taught in the oral tradition, as they have been from ancient times. According to the school secretary, their aim is to creat the "atmosphere of the age-old gurukul tradition," and no corporal punishment is used. On the school grounds are a main building, library and residential accommodations for students. At present, less than ten children attend. Commenting on the new peetham, his Holiness, Sankaracharya of Kanchi Kamakodipeetham, Jagat Guru Jayendra Saraswathi said, "I am proud of Kerala for two things: One, it is the land of Adi Sankara. The other is that it is the home of the rare Jaiminiya Sama Veda tradition, still preserved today for our country."
 
 Tamil Jaiminiyas: They hail from the Thanjavur/Tiruchirapalli region, and call themselves Talavakaras – another name for the same Sakha [HOWARD 1977: 163]. A PaaThashaala was established a few decades ago at Srirangam for teaching the Jaiminiya Samaveda [Parpola 1973:6]. Raghavan [1957 and 1962] has given a traditional list of the villages of Talavakara Brahmins around Srirangam. Parpola opines [1973:23] that the Tamil and Kerala Jaiminiya traditions have existed in mutual isolation for at least the last thousand years. He suggests that in Tamil Nadu, the nucleus of the Jaminiyas has been the Chola country, with the great temple centers of Srirangam, Thanjavur and Chidambarah. The communities in Tirunalveli (known to have lived their at least since the 16<sup>th</sup> century CE from epigraphic evidence) and Palghat represent emigrations from this nucleus area.
 
 Shivalli Kannadiga Jaiminiyas: The Shivalli Brahmins of the South Kanara district are Vaishnavites, and followers of Madhvacharya (Dvaita Vedanta) and give Jaiminiya as their Sakha. The famous Hastamalakacharya, a direct disciple of Sri Shankaracharya, belonged to this community, which was converted to Dvaita Vedanta by Madhvacharya himself, per tradition. No information is available about survival of Samaveda amongst Shivalli Brahmins. The Maharnava, a commentary on the Charanavyuha, states that the Jaiminiyas reside in Karnataka. However, the Jaiminiyas have not been attested outside Kerala and Tamil Nadu as of yet [Parpola 1973:23]. Parpola however refers to a statement by E. R. Sreekrishna Sarma that the Jaiminiyas reside also in Mysore, but this has not been verified so far.
-
-
 
 ### Archika Samhita
 
@@ -3729,8 +3390,6 @@ No padapaatha of the Samhita is available. A work named Stobhapadam is available
 Samans of the Jaiminiya Samhita
 
 The Jaiminiya chants can be subdivided into 3 variations according to Staal [1961]: 
-
-
 
 1. The Nambudiri chants, 
 2. Thanjavur/Thiruchi districts in Tamil Nadu
@@ -3748,15 +3407,15 @@ Parpola also unearthed a manuscript of a text called Uhaprastava, which provides
 
 The Tamil Jaiminiya Uttaragana tradition is fragmentary and although complete manuscripts exists, the oral tradition comprises of a selection of a few samans [Parpola 1973:22].
 
-### Brahmanas: 
+### Brahmanas
 
 Three Brahmanas from the Jaiminiya Samaveda Sakha are known – Jaiminiya Brahmana, Jaiminiya Upanishad Brahmana and Jaiminiya Arsheya Brahmana.
 
-### Jaiminiya Brahmana: 
+### Jaiminiya Brahmana
 
 In 1879, Burnell noted that the manuscripts of this text described it as the Talavakara Brahmana although the followers of this Sakha termed is as the Jaiminiya Brahmana. Burnell also noted that the famous Kena Upanishad formed the last but one book of this Brahmana [Parpola 1973:7]. Burnell also noticed the great similarity between the quotations from the now lost ‘Satyayana Brahmana’ occurring in the Sayanabhashya of Rigveda and some passages in the Jaiminiya Brahman. However, he refrained from concluding an identity between the Satyayana Brahmana and the Jaiminiya Brahmana because the followers of the latter believed firmly that the two Sakhas were different. The JB is related to the Tandya Brahmana on one hand and to the Satapatha Brahmana on the other. Complete translation of the text is yet to appear, although Ranade is said to be preparing one, to be published by the IGNCA (Delhi). The portion 1.1-65, dealing with the Agnihotra/Pranagnihotra, has been translated by Bodewitz in 1973. Subsequently, Bodewitz also published the remaining portion of the first adhyaya of the Brahmana, dealing with the Jyotishtoma ritual. By and large, the manuscript material available for the text is replete with defects. Witzel informs that the oral tradition of the Brahmana, presumable more accurate and defect free compared to the written textual tradition, was alive as late as the 1960’s when the last known Nambudiri reciter died before he could be recorded.
 
-### Jaiminiya Upanishad Brahmana: 
+### Jaiminiya Upanishad Brahmana
 
 This text is also known as the Talavakara Aranyaka and is the only extant Aranyaka of Samaveda. In the introduction to his commentary on the Kena Upanishad, Shankaracharya states that the Upanishad forms the beginning of the 9<sup>th</sup> chapter of Brahmana of that Sakha. In the extant manuscripts, the Kena Upanishad forms the 10<sup>th</sup> Anuvaka of the Upanishad Brahmana section, which occurs in the 4<sup>th</sup> Adhyaya of the Jaiminiya Brahmana proper. The JUB is then followed by the Jaiminiya Arsheya Brahmana. The text was first published by Hanns Oertel in 1884 and a Devanagari transcript of the same was published by Rama Deva from Lahore in 1921. The latter edition has a good introduction on the literature of Samaveda by Bhagavad Datta. B. R. Sharma brought out an improved edition, utilizing some more manuscript material in 1967, omitting Anuvakas 4.18-27 (the Kena Upanishad) and also the two further anuvakas dealing with pranas and the savitiri. The Kena Upanishad is preceded by the Satyayani Gayatri Upanisad which ends at 4.17. Actually, the Satyayani Gayatri Upanishad also seems to be a later addition because the 3<sup>rd</sup> adhayaya of the JUB ends with the Vamsa whereas there is another Vamsa at 4.16-17. 
 
@@ -3765,8 +3424,6 @@ This text is also known as the Talavakara Aranyaka and is the only extant Aranya
 A commentary on this text by Jayanta is extant, and occurs at the end of Bhavatrata’s Srautrasutra-Vrtti printed in 1966 [Parpola 1973:7]
 
 ### Kena Upanisad
-
-
 
 1. Bhavatrata (unkown): Portion of a commentary on the entire Talavakara Aranyaka- manuscript preserved at the Vishvesvaranand Vedic Research Institute at Hoshiarpur, India
 2. Samkaracarya (Advaita): Wrote two commentaries- the more extensive ‘Padabhasya’ and the shorter ‘Vakyabhasya’.
@@ -3779,13 +3436,11 @@ A commentary on this text by Jayanta is extant, and occurs at the end of Bhavatr
 9. Upanisadbrahmayogin (Paramadvaita): Manuscript preserved at Central Library at Baroda
 10. Damodara Satavalekara
 
-### Jaiminiya Srauta Sutra:
+### Jaiminiya Srauta Sutra
 
 For a long time, only the first portion of the text (covering Agnishtoma) was known, as published by Gaastra in 1906. In 1966, Premnidhi Sastri published the commentary (Vrtti) of Bhavatrata (called Bhavatratiyam) on JSS, on the basis of a solitary manuscript. Unfotunately, the sutra text was not recoverable from the Vrtti since Bhavatrata quoted only the initial and last words of the Sutras. Fortunately, in 1966, Parpola detected a manuscript containing the Sutra text of all the three portions – Agnishtoma, Kalpa and Parisesha/Paryaya, at Thanjavur. The Paryayaadhyaaya also includes a ‘Pratihaara’ sutra of Abhisrenya. Hitherto, the manuscript had been mis-identified in the catalog as the ‘Masaka Kalpa’. The first 10 folios of the manuscript were missing, but the Sutras of the missing portion could nevertheless be retrieved from the Prayogavrtti of Candrasekhara Bhattarya, which was preserved in the same codex [Parpola 1973:15]. 
 
 Commentatorial Tradition:
-
-
 
 1. Bhavatratiyam or the Vrtti of Bhavatrata: Parpola is preparing a critical edition of the entire JSS together with the commentary of Bhavatrata as several new manuscripts of the Bhavatratiyam have been unearthed by him. The Vrtti is a very learned commentary. Bhavatrata’s commentary on the Kausitaki Grhyasutra has also been published. In addition, he wrote commentaries on the Jaiminiya Grhyasutra, on Taittiriya Aranyaka and Jaiminiya Aranyaka. His father Matrdatta, composed a commentary on the Hiranyakesin Grhyasutra. Legends and traditions concerning Bhavatrata are still remembered by Nambudiri Brahmins living where the Vrttikara lived 13 centuries ago [Parpola 1973:15]
 2. Prayogavrtti by Candrasekhara Bhattaraya – see above
@@ -3795,7 +3450,6 @@ Commentatorial Tradition:
 6. Anonymous prayogas like Adhanagnishtomasamani, Agnishtomasama and Atiratrasama
 7. Srutaadhaanakriyaakarma. Parpola [1973:16] has listed a few other works as well, pertaining to the Jaiminiya Srauta tradition.
 
-
 ### Jaiminiya Grhyasutra
 
 The text was first published with the Subodhini commentary of Srinivasa Adhvarin by Kasturi Rangacarya in 1898 from Madras [Parpola 1973:12-13]. Subsequently, Caland published the Grhyasutra with the same commentary together with an introduction in Dutch in 1905. This edition was reprinted in 1922 from Lahore with an English translation and the earlier introduction also translated into English. 
@@ -3803,8 +3457,6 @@ The text was first published with the Subodhini commentary of Srinivasa Adhvarin
 Parpola has studied the chronological relationship between all the Grhyasutras of Samaveda (Jaiminiya, Khadira and Gobhila) and has concluded that the JGS is the oldest [Parpola 1968:70].
 
 The following Bhashyas and Prayogas etc. exist on the JGS:
-
-
 
 1. Vrtti of Bhavatrata: Still in manuscript. An edition with a translation is under preparation by Asko Parpola. The edition is proposed to come out in the Kalamulashastra series of the IGNCA Publications Division (New Delhi) sometime in future.
 2. Subodhini of Srinivasa Adhvarin
@@ -3815,11 +3467,11 @@ The following Bhashyas and Prayogas etc. exist on the JGS:
 7. Manuscripts exist of the following works [Parpola 1973:14] -Jaiminigrhyasutrakarika by Balagnihotrin; Jaiminigrhya Karika of Vinataananda, the work is also called Vainateyakarika; Jaiminiygrhyaprayoga and Prayogasara by the same author- it is uncertain if the three works are different or if they are same.
 8. At the MGOML, numerous other works exist like the Jaiminiyagrhyamantravrtti, Jaiminiyagrhyaprayogaratnamala and so on.
 
-### Satyayana-Sutra:
+### Satyayana-Sutra
 
 In manuscripts, the text is also named as ‘Satyayana-proktani prayaschittani’; Satyayana-proktani grhyaprayaschittani’ and Satyayaniproktasarvaarishtasanti’. According to Caland [1920], the text is very old as it is referred to in the (un-published) Drahyayana Gryhaparisista. In fact, the text is very similar to portions of the Bharadvaja Grhyasutra, as noted by Caland.
 
-### References:
+### References
 
 Parpola, Asko; 1968; The Srautasutras of Latyayana……..
 
@@ -3833,34 +3485,24 @@ Staal, Frits; 1961; Nambudiri Veda Recitation
 
 ## Other Info + Recensions of Samaveda
 
-
-
 1. Gautama Shakha: Dikshitar informs that there are heresy reports that followers of the Gautama Shakha still exist although they are very rare [ref. 1, pg. 4].
 2. Shardula Shakha: Dikshitar reports that according to oral traditions, followers of the Shardula Shakha existed as recent as the 17<sup>th</sup> Cent. C.E. [ref. 1, pg. 5]
 3. Bhallavi Shakha: A Bhallaveya Matsya rajaputrah is mentioned in Samavedic Srauta text Anupada Sutra[^145] 6.5. This leads WEBER [1878:95, fn. 98] to suggest that this school of Samaveda was prevalent in North India. According to Dikshitar, manuscripts of the Bhallavi Brahman are still said to exist in North India [ref. 1, pg. 207]
-
 
 4. Shatyayana Shakha: According to Dikshitar, manuscripts of the Bhallavi Brahman are still said to exist in North India [ref. 1, pg. 207]. A recent work [ref. 2] refers to ‘Shatyayan Brahmana’ as one of the sources for some of its stories. 
 
 Thus, the story of Shakti and Vasistha is supposedly based on ‘Rgveda 7.32.26, Tandya Brahmana, Saranukramani Vedartha Deepika and Shatyayana Brahman’ [Ref. 2, pp. 149-150]. No address is given for the last three works. The story of Travrushna Tryarun and his royal priest Vrusharishi is likewise said to be derived from ‘Rgveda 5.2.9, Brhaddevata 5.14-23, Tandya Mahabrahman and Shatyayan Brahmana 13.3.12’.
 
-
 I have requested a follower of the Swami to examine his manuscript collection to determine if such a text did exist with him. I am awaiting the response. 
-
 
 WEBER [1878:95] follows a particular version of the Caranavyuha to speculate that it is positively a school of Krshna Yajurveda, because of a ‘peculiar connection (itself still obscure) which we find elsewhere also between the schools of the Black Yajus.
 
-
 Oppert mentions two manuscripts of the Shatyayana Brahmana but upon enquiry they could not be discovered.[^146]
-
-
 
 5. Rauruki Shakha: According to the Divyavadana, Roruka was the capital of the Sauvira country during the reign of Rudrayana, a contemporary of Bimbisara of Magadha (582-554 BCE) which was destroyed by a catastrophe.
 6. Naigeya Shakha – This text is represented by an Anukramani, which is variously called as Naigeya Parisishta, Naigeyarcika, Naigeyarshadevata etc. A manuscript of a Naigeya Sutra attributed to Gobhila is also reported by AITHAL [1991:390] but no information on its contents is available. 
 
 References:
-
-
 
 1. M. Ramanatha Dikshitar; Samasarasarwaswam; Ramayana Printing Works; Madras; 1972
 2. MALHARA, Sundarlal B. (Transl.) 1982. Vedas a Way of Life from Yadnya (Sacrifice) to Yoga (Union) by His Holiness Swami Shree Gangeshwaranand Udaseen. Matoshri Rampyaribai Sarda Satkarya Nidhi: Nasik
@@ -3868,7 +3510,6 @@ References:
 WEBER, Albrecht. Indische Studien, vol. XIII, pp. 441-442.
 
 _______. 1878. The History of Indian Literature (translated from the second German edition of 1875 by Theodor Zachariae and John Mann). Kegan Paul, Trench, Trubner & Co. Ltd. :London (reprinted in 1961 as Chowkhamba Sanskrit Series Studies Volume VIII, Varanasi).
-
 
 ### General Information on Samaveda
 
@@ -3932,10 +3573,9 @@ The Buddhist text Divyavadana enumerates 1065 sakhas of Samaveda as under:
 
 Varieties of Sama Chanting:
 
-#### Teachers of Samaveda: 
+#### Teachers of Samaveda
 
 The Samavidhana Brahman lists the following 13 as the foremost teachers of the Samaveda: Ranayani, Satyamugri. Durvasa, Bhaguri. Gaurudni, Gaulgulavi, Aupamanyava, DaraAla, Gargi Savarni, Varshganya, Kuthumi, Shalihotra, Jaimini
-
 
 ### Impurity of Samaveda
 
@@ -3947,23 +3587,18 @@ References:
 
 Sharma, Bellikoth Ramachandra; Vedic Heritage of India (a brief survey); Rashtriya Sanskrit Vidyapeetha; Tirupati Series No. 55; Tirupati; 1991
 
-
 ## Saunaka Sakha of the Atharvaveda
 
 The name ‘Saunakin’ as that of a Sakha is seen in Kausika Sutra 85.8, Vaitana Sutra 43.25 states that a person who seeks to know witchcraft should perform a Saunaka Sacrifice. In Atharvaveda Parisishta 24.10, the followers of this Sakha are referred to as ‘Saunakeyah’.
 
 BLOOMFIELD [1890:xxxv] notes that the name is found in several corrupt variants outside such as ‘kunakhin’, ‘kaunakhin’ which may be explained in two ways –
 
-
-
 1. The phenomes ‘sh’ and ‘ka’ are seen to be interchangeable in India (e.g. Sharkota, and Karkotaka)
 2. The name ‘kunakhin’, which means ‘sick-fingers’, is perhaps used with a malicious or a sinister intent, since this meaning is reminiscent of the evil sorcerers etc., who were often demonized as lepers with deformed up fingers.
-
 
 ### Sage Saunaka in Hindu Tradition
 
 Saunaka is remembered as a Sage in Atharvaveda Parisishta 20.1; 23.3; 24.13; 26.1; 26.31; 54.1; 65.6; 71. Saunaka is mentioned along with Sage Devadarshi in Panini’s Ganapatha. In addition, Saunaka is mentioned in the Ashtadhyayi sutra 4.3.103.
-
 
 ### Samhita of Shaunaka Atharvaveda
 
@@ -3971,19 +3606,16 @@ According the edition of Damodar Satavalekar, there are 5977 mantras in the text
 
 The first edition of the Saunaka Samhita was published by Rudolf Roth and D. Whitney from Berlin in 1855. This edition did not have the accents marked on the text.
 
-### Krama and Jata Pathas: 
+### Krama and Jata Pathas
 
 Incomplete manuscripts of these Pathas exist in various libraries [Aithal 1991:64-65]. Professor Madhav Deshpande of the University of Michigan (at Ann Arbor) kindly informed me via an email on 03 December 2001, that he is preparing a critical edition of the following -
-
-
 
 1. Kramapatha of the 20<sup>th</sup> Kanda of the Samhita
 2. Jatapatha of the 15<sup>th</sup> and 17<sup>th</sup> Kandas 
 
 He has utilized 6 manuscripts available at Pune for preparing this edition. 
 
-Since the 20<sup>th</sup> kanda of this Samhita is almost wholly borrowed from the Rigveda Samhita, and the oral tradition of the Krama recital of the latter is still alive, it is worthwhile investigating the relationship between the kramapathas of the Rigveda and the 20<sup>th</sup> Kanda of the Shaunakiya Atharvaveda Samhita. Professor Deshpande informs me that while the kramapatha of the Atharvaveda Samhita is clearly based on the Rigveda Kramapatha, it has been integrated quite well into the tradition of Atharvaveda. Dr. Deshpande notes that the “G`alitas in the Kramapatha for the 20th Kanda show several examples where the Rks occurring in other Kandas are  treated as Galitas in the 20th Kanda. This is one of the main indications of the integration of the 20th Kanda with the rest of the AV Samhita". It is hoped that this edition is published soon.`
-
+Since the 20<sup>th</sup> kanda of this Samhita is almost wholly borrowed from the Rigveda Samhita, and the oral tradition of the Krama recital of the latter is still alive, it is worthwhile investigating the relationship between the kramapathas of the Rigveda and the 20<sup>th</sup> Kanda of the Shaunakiya Atharvaveda Samhita. Professor Deshpande informs me that while the kramapatha of the Atharvaveda Samhita is clearly based on the Rigveda Kramapatha, it has been integrated quite well into the tradition of Atharvaveda. Dr. Deshpande notes that the “G`alitas in the Kramapatha for the 20th Kanda show several examples where the Rks occurring in other Kandas are treated as Galitas in the 20th Kanda. This is one of the main indications of the integration of the 20th Kanda with the rest of the AV Samhita". It is hoped that this edition is published soon.`
 
 ### Oral Traditions/Geographical Distribution
 
@@ -3999,28 +3631,21 @@ Uttar Pradesh
 
 Punjab
 
-
 ### Commentaries on the Saunaka Samhita
-
-
 
 1. Sayanacharya
 2. Commentary on the Saunakiya Pratyangira Kalpa: The Suktas 17-19 and 40 of Kanda 4; Suktas 14 and 31 of Kanda 5; Sukta 65 of Kanda 7 and Sukta 5 of Kanda 8 comprise Krtyanirharana Suktagana of the Saunaka Samhita. A lucid commentary by Vasudeva called ‘Balabodhavivekini’ exists in manuscript (Ref. 1, Pg. 1096, no.1384)
 3. Manuscripts of an Atharvana Bhashya by Bhatta Bhaskara exist in various libraries like the Sringeri Matha collection. However, it is unclear of the commentary is on the Samhita (very unlikely) or on some other Atharvavedic text.
 4. Persian Translation: According to some Muslim chronicles, the Atharvaveda was translated into Persian during the reign of Emperor Akbar. Badayūni remarks – “In this year a learned Brahman Shaikh Bhāwan, a converted Mussalman had come from Dakhin. His Majesty (Akbar the great) gave me the order to translated the Atharvana. Several of the religious precepts of this book resemble the laws of Islam. During the translation I found many difficult passages which even Shaikh Bhāwan could not interpret. I reported this to His Majesty, who ordered Shaikh Faizi and then Haji Ibrahim, to translate it. The latter, though willing, did not write anything. Among the precepts of the Atharvana there is one precept which says that no man will be saved unless he reads a certain passage. This passage contains many times ‘L’ and resemble very much ‘Lillāh’, ‘Illillāh’. Besides, I found that a Hindu under certain circumstances may eat cow flesh and also that Hindus bury their dead and do not burn them. With such passages the Shaikh used to defeat other Brahmans in argument and he had in fact led them to embrace Islam.” The Ain-I-Akbari of Faizi adds that the translation was entrusted to Hahi Ibrahim Sirhind and that the work was completed. However, no copy of this Persian translation exists today[^149].  
 
-
 5. William Jones translated some hymns of the Samhita into English [PURI 1994:60].
 6. Ralph Griffith published a popular English translation in two volumes from Varanasi in 1895-96. Due to its convenient format, the work has been reprinted several times.
 7. Hindi translation of Mahatma Tulasi Ram (d. 1915) of Amritsar – follows the Arya Samaj school of interpretation. This is probably the first translation of the Atharvaveda in any modern Indian language. Tulasi Ram was the principle disciple of Pandit Bhimasena Sharma, who in turn was the principle disciple of Swami Dayanand Sarasvati, the founder of Arya Samaj. 
 8. Hindi translation by Kshemakaranadasa Trivedi – follows the Arya Samaj school of interpretation. Trivedi was born on 3<sup>rd</sup> November 1848 in Aligarh district of Uttar Pradesh. He learnt Sanskrit from Swami Dayanand Sarasvati for some time, and promised him to write a commentary on Vedic texts. His commentary on the Atharvaveda was published in several parts between 1912 and 1921 and was subsequently reprinted by at least two other organizations. Trivedi also published an alphabetical word Index to the Atharvaveda Samhita in Vikrami Samvat 1978 from Narayana Yantraalaya located in Allahabad[^150]. The significance of this commentary lies in the fact that hitherto no complete translation or commentary existed on the Atharvaveda Samhita, the Bhashya of Sayanacharya also being fragmentary.
 
-
 9. Pandit Rajaram Shastri: He was a Sanskrit Professor at DAV college in Lahore and published a commentary on Atharvaveda Samhita from Lahore in Vikrami Samvat 1986. The work gives the accented text of the Samhita, the Seer, meter etc., of each mantra, word meanings and numerous annotations[^151]. The work largely follows the interpretations of Sayanacharya and western Indologists, even though he was closely associated with Arya Samaj and its institutions for a greater part of his life.
 
-
 10. M R Jambunathan published a Tamil translation of the Saunakiya Samhita from Bombay in 1940, through the J. Book Depot. The work is titled ‘Atharvavedam’.[^152] The translation is accompanied with notes and an appendix, and has an introduction on Atharvavedic literature.
-
 
 11. Devichand (1880-1965) commenced an English translation of Atharvaveda Samhita from an Arya Samaj perspective, but did not live to complete it. Nevertheless, this work is extremely popular and is available easily in numerous printed editions.
 12. Hindi translation of Swami Brahmamuni Parivrajakacharya – it extends only to the first 3 books.
@@ -4028,9 +3653,7 @@ Punjab
 14. Pandit Jaidev Sharma (1892-1961): He is the first scholar to have translated all the four Vedas into Hindi (or, as a matter of fact, into any Indian language). The translations were written between May 1925 and 1936, and comprise 7 volumes for Rgveda, 4 for Atharvaveda and 2 each for Yajurveda and Samaveda. Sharma closely follows the views of Swami Dayanand Sarasvati in his own translations. His translations have been reprinted numerous times and are prefaced by an elaborate and erudite note on the respective Veda.
 15. Siddheshwar Sastri Chitrav[^153]: He published a Marathi translation of the text through the Shri Amriteshwar Devasthan, Poona, in 1972. The work has a general introduction dealing with the Atharvaveda, and prefatory notes at the beginning of each Kanda.
 
-
 16. Pandit Buddhadev Vidyalankar Vidyamartanda (d. 1964) wrote a commentary on the first four books of Atharvaveda Samhita from an Arya Samaj perspective[^154]. 
-
 
 17. Commentaries on Kanda 9, 10, 13 and on Kuntapa hymns by Swami Gangesvarananda Saraswati: This commentary reads the story of Lord Krishna in the mantras [Patel 1998:139]
 18. Commentary and Hindi translation by Professor Vishvanath Vidyamartanda. The commentary was started in the reverse order of the text, i.e., starting with book XX and then proceeding backwards. It has been published in 8 volumes by the Ramalal Kapoor Trust. The commentator is a follower of the Arya Samaj.
@@ -4048,9 +3671,7 @@ Commentaries on Selections from Saunakiya Samhita:
 
 Balabodhavivekini Vyakhya by Vasudeva, son of Dviveda: An explanation of the collection of hymns in the Samhita that are directed against witchcraft exists in manuscript [HARAPRASAD SHASTRI 1923: 1096-1098]. 
 
-
 ### Anukaramanis
-
 
 #### Sarvanukramani
 
@@ -4084,8 +3705,6 @@ Hukan Chand Patyal; PhD Thesis; University of Pune; 1969. Text and English trans
 
 #### Mundaka Upanisad
 
-
-
 1. Samkaracarya (Advaita)
 2. Bhaskara Bhatta: Manuscripts mentioned by Oppert. It is clear which Bhatta Bhaskara this is since several scholars of this name are known in Hindu history
 3. Anubhutisvarupacarya: A sub-commentary on # 1 above
@@ -4103,14 +3722,11 @@ Hukan Chand Patyal; PhD Thesis; University of Pune; 1969. Text and English trans
 15. Upanisadabrahmayogin (Paramadvaita): Manuscript at Central Library at Baroda
 16. Pandit Gurudatta Vidyaarthi wrote an English translation of the text following the principles of Arya Samaj in the late 19<sup>th</sup> century. This work was translated into Hindi by Pandit Atmaram Amritsari in Vikrami Samvat 1948[^164].
 
-
 17. Damodara Satavalekara
 18. Patrick Olivelle
 19. Valerie Roebuck
 
 #### Mandukya Upanishad
-
-
 
 1. Karikas if Gaudapadacharya
 2. Bhasya of Sri Samkaracharya on the Upanishad and the Karikas
@@ -4125,13 +3741,11 @@ Hukan Chand Patyal; PhD Thesis; University of Pune; 1969. Text and English trans
 11. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 12. Bhashya by Appayadikshita (d. 1901) written from an Anubhavadvaitavedanta perspective.
 13. Pandit Gurudatta Vidyarthi wrote an English translation and commentary of the text[^165]. 
-#### Atharvana Upanishads:
+#### Atharvana Upanishads
 
 In addition to the above Upanishads which have a definite link with the Atharvaveda tradition, a collection of 52 Upanishadic texts has also been circulation under the name of ‘Atharvana Upanishads’. This collection includes the texts listed above, and in addition one also finds well-known Upanishads belonging to the other Vedas. In their Atharvavedic version, these well-known Upanishads may show slight textual differences from their respective vulgate versions and could have a different name altogether. Thus, the Kathaka Upanishad is often named as ‘Atharvavalli Upanishad’[^166], and the Nrsimhataani Upanishad as ‘Atharva Tapani Upanishad’[^167] in some manuscript colophons.
 
 ### Kalpasutras
-
-
 
 1. Vaitana Sutra
 2. Kausika Sutra
@@ -4169,15 +3783,13 @@ Bahulkar is also preparing a critical edition of this text, which utilizes 9 man
 
 The Sutra is often referred to as Saunakiya Sutra. The first edition of the Vaitana Sutra was published by Richard Garbe from London in 1878. 
 
-### Atharvaveda Parisishta:
+### Atharvaveda Parisishta
 
 1. Atharva Vidhana Parisishta: A short work of 20 verses printed in the ‘Siksa Samgraha’ collection published from Benares [Aithal 1991:64]. It lists the works related to Atharvaveda and prescribes various hymns and verses for obtaining specific gains, in the manner of Rigvidhana.
 
 2. Asuri Kalpa: A text of this name of tantric nature is considered a part of the Mahapurana. A manuscript of this work exists in Alwar[^168].
 
-### Laksana Granthas:
-
-
+### Laksana Granthas
 
 1. Saunakiya Chaturadhyayika: Also called the Atharva Kautsa Vyakarana. According to VARMA [1984:191], this text is pre-Paninean. It has several traditional commentaries
 
@@ -4189,7 +3801,7 @@ a. Commentary of Krsnadasa: A manuscript at the Vaidik Samsodhana Mandala of Pun
 5. Pacapatalika
 6. Manduki Siksa
 
-### Miscellaneous Texts:
+### Miscellaneous Texts
 
 Atharvanatarpana
 
@@ -4219,7 +3831,6 @@ Bhaskararaya; Tricchabhaskara;
 
 **VARMA, Satyakam**. 1984. Vedic Studies. Bharatiya Prakashan: New Delhi
 
-
 ## Paipplada Sakha of Atharvaveda
 
 The name of the Sakha itself suggests that it follows the tradition of Rishi Pippalada, who is a celebrated Sage in numerous Hindu texts. In various lists and texts, the name is also alternately given as paippalAdaka, PaippalAdi, pippalAda, paippala, pippala, paippalayAna etc.
@@ -4231,7 +3842,6 @@ The Pippaladi Shantigana (Atharvaveda Parisishta 34.20) commences with the very 
 Paippalada Brahmin Communities
 
 In the Brahmayajna in southern India, when the opening lines of all the four Vedas are recited, the mantra ‘zaM no devIr abhiSTaya…’ represents the Atharvaveda. This mantra is in fact the opening mantra of the Paippalada Samhita of the Atharvaveda.
-
 
 ### Paippalada Samhita
 
@@ -4245,10 +3855,9 @@ A critical edition and translation of kandas 13-14 was completed as his PhD thes
 
 Overall, it is believed that the Paippalada Samhita text is closer to the Ur-Atharvaveda than the Saunakiya text. NARANG [1981] has compared about 64 readings in the first 10 hymns in the AVZ and their corresponding versions in AVP (K and O) and concludes that in 29 cases, AVP appears better, in 9 instances, AVZ text is better. In 8 instances, both the versions seem to have altered the original text, while no decision can be made in 21 instances. Thus, overall, the Paippalada text appears to be better and older in comparison to the Saunaka text.
 
-### Paippalada Samhita Jatapatha:
+### Paippalada Samhita Jatapatha
 
 A fragment of the Jata Patha of the Samhita exists in libraries of western India [Aithal 1991: 65]
-
 
 ### Paippalada Brahmana
 
@@ -4263,8 +3872,6 @@ In the Anukramani prefixed to his commentary on the 8<sup>th</sup> Ashtaka of th
 Rishi Pippalada is the celebrated sage and teacher in this text, which consists of his replies to 6 disciples, who approach him with questions on various aspects of Hindu spirituality. As pointed out by BLOOMFIELD [1890:xxxiii], the colophons of a manuscript of the Upanishad at Berlin designates it as a text of this Sakha (‘iti pippalAdAtharvaNe sAkhAyAM praznopaniShat samAptA’). 
 
 **Commentaries on Prashna Upanishad **[Raghavan et al]
-
-
 
 1. Bhasya of Sri Samkaracharya
 2. Tika of Anandjnana: This is merely a subcommentary on # 1 above
@@ -4304,14 +3911,12 @@ Rishi Pippalada is the celebrated sage and teacher in this text, which consists 
 36. English translation by Ekanath Eswaran
 37. English translation by Patrick Olivelle
 
-### Miscellaneous:
-
-
+### Miscellaneous
 
 1. Paippalada Atharvanasutra: Fragments of this unidentified work exist in Caland’s collection [Caland 1990:xxxiii]
 2. Pippalada Sraaddhakalpa: Quoted by Hemaadri in Pariseshkhanda
 
-### References:
+### References
 
 **AITHAL, K. Parameswara**; 1991; Veda Laksana (Vedic Ancillary Literature), A Descriptive Bibliography; Franz Steiner Verlag; Stuttgart
 
@@ -4346,17 +3951,14 @@ References:
 **BLOOMFIELD, Maurice**. 1890. The Kausika-Sutra of the Atharva-Veda, with Extracts from the Commentaries of Darila and Kesava. Journal of the American Oriental Society, Vol. XIV.
 
 ## Other shAkhAs of AV
-### Staudayana Shakha of the Atharvaveda 
+### Staudayana Shakha of the Atharvaveda
 
 The name occurs in Atharvaveda Parisishta 23.3
-
 
 ## Vedic Samhitas and Brahmanas
 A popular, brief introduction
 
-### Contents:
-
-
+### Contents
 
 1. The  Meaning and Importance of ‘Veda’
 2. Veda and Classical Hinduism
@@ -4402,7 +4004,6 @@ A popular, brief introduction
 
 ### 1. Meaning and Importance of  ‘Veda’
 
-
 The word Veda is often derived from 5 roots these days:
 
 1. *Vid jnaane*: To know 
@@ -4411,17 +4012,9 @@ The word Veda is often derived from 5 roots these days:
 4. *Vid  vichaarane*: To consider 
 5. *Vid chetanaakhyaananiveseshu*: To feel, to tell, to dwell 
 
- 
-
-
 To these roots is added the suffix ‘*ghaw*’ according to Ashtadhyayi 3.3.19, the celebrated text of Sanskrit grammar of Panini. Accordingly, the word Veda means ‘the means by which, or in which all persons know, acquire mastery in, deliberate over the various lores or live or subsist upon them.’
 
-
- 
-
-
 Traditionally, the Vedic literature as such signifies a vast body of sacred and esoteric knowledge concerning eternal spiritual truths revealed to sages (Rishis) during intense meditation. They have been accorded the position of revealed scriptures and are revered in Hindu religious tradition. Over the millennia the Vedas have been handed over generation to generation by oral tradition and hence the name “**shruti**” or “that which is heard”. According to tradition they are un-authored (apaurusheya) and eternal.
-
 
 The Vedic literature is also called by several other names –
 
@@ -4431,215 +4024,111 @@ The Vedic literature is also called by several other names –
 
 Theoretically, the Vedic corpus is held in deep reverence in the Hindu society. It constitutes the most authoritative genre of Hindu scriptures. Any other Hindu scripture must agree with the Vedas in order to be considered an authority. Schools of philosophy which reject the authority of the Vedas are considered ‘*Naastika*’ or heretical, while schools which accept Vedic authority, even if nominally, are considered ‘*Aastika*’ or orthodox, from a Hindu perspective.
 
-
 While most Hindus never see Vedic texts in their lifetime, the term ‘Veda’ is used as a synonym for authoritativeness in religious matters. The Vedas are considered full of all kinds of knowledge, and an infallible guide for man in his quest for the four goals – *Dharma*, *Artha* (material welfare), *Kama* (pleasure and happiness) and *Moksha* (Salvation). In sacred Hindu literature, they are considered the very manifestation of God, and the ultimate source of all wisdom and of all Dharma.
-
 
 Hindu priests were exhorted to study them regularly, recite their sentences, practice their sacraments and memorize their words. In practice however, this has been restricted to a dwindling minority of the Brahmin caste, despite recent attempts to revive Vedic study, ritual and recitation in the traditional manner. On the other hand, the Vedic texts are now widely available in print, and this has lead to a greater dissemination of their knowledge amongst Hindu masses, then say, a century back. Even here however, the popularization largely concerns the spiritual treatises called the Upanishads – the texts par excellence of Hindu spirituality. In fact, for several centuries now, the word ‘Veda’ has been used by Hindu Acharyas to indicate the Upanishadic texts in particular.
 
+### 2. Extent and Classification of the Vedic Literature
 
-### 2. Extent and Classification of the Vedic Literature:
-
-
-*** ***
-
+******
 
 The Vedas are four in number – Rigveda, Yajurveda, Samaveda and Atharvaveda. 
 
-
 The traditional perception of the four Vedas may be illustrated with the following verses of Brahmanda Purana -
-
 
 *In his (Daksha's) elaborate sacrifice, all the devas had arrived and were present. So also the various ancillaries of the sacrifice. Vashatkara was there in an embodied form. 2.3.1.22*
 
-
 *The Samans and thousands of Yajusha mantras were there in an embodied form. The Rigveda embellished with the Kramapatha also appeared there. 2.3.1.23*
-
 
 *Yajurveda, endowed with chhandas brilliant with Omkara as its mouth was stationed there along with the Suktas (hymns), the Brahmanas and Mantras intermingled with the arthas (objects, purposes) of the Yajna. 2.3.1.24*
 
-
 *Samaveda endowed with the relevant meters and with all the Mantra melodies at their head was present along with Visvavasu and all the other Gandharvas. 2.3.1.25*
-
 
 *The Brahmaveda was present there accompanied with terrible rites. Due to the accompaniment of the Pratyangiras (hymns that nullify the effect of deprecatory verses), it appeared as if it had two bodies and two heads. 2.3.1.26*
 
-
-* *
-
+**
 
 According to tradition, each Veda can be divided into two parts – Mantras and Brahmanas. A collection of Mantras is typically called a Samhita. Currently, and often in ancient Hindu tradition as well, it is often the Samhita portion alone which is referred to as the Veda. For instance, the word ‘Rigveda’ would typically mean the Rigveda Samhita. 
 
-
 The Brahmanas have their own names and are more like theological treatises of the Vedas. The end portions of many Brahmanas have an esoteric content, called the ‘Aranyakas’. Embedded in these Aranyakas, or at their very end, are deeply spiritual treatises called the ‘Upanishads’. For several centuries now, Upanishads are the mainstay of Hindu spiritual traditions, and are held in the highest esteem.
-
-
- 
-
 
 In the case of the Rigveda, Samaveda and the Atharvaveda, there is a clear-cut separation of the Mantra collection from the Brahmana portions. In contrast, the Yajurveda is of two types: Shukla (or white) Yajurveda and Krishna (or black) Yajurveda. In the former, the Mantra and Brahmana collections occur separate from each other. In the latter, the Mantra and the Brahmana portions are intermixed. Thus, the Taittiriya ‘Samhita’ belonging to the Krishna Yajurveda has Mantras interspersed with Brahmana portions. Even the Taittiriya ‘Brahmana’ has both Mantras and Brahmana passages mixed with each other.
 
-
- 
-
-
 Coming to the Brahmana texts, there is often no clear-cut distinction between the Brahmanas proper and the Aranyakas, or between the Aranyakas and the Upanishads. The Brahmana text proper often merges into the Aranyakas and many old Upanishads are actually embedded in the Aranyakas.
-
-
- 
-
 
 There are a few exceptions even to the above generalizations on the internal distinctions in the Vedic texts.
 
-
- 
-
-
 #### What are Mantras?
 
-
-
 The mantras are basically hymns sung to the Gods - the devotional outpourings of the souls of poets. The Samhitas of the four Vedas are complied for the smooth performance of Vedic sacrifices &lt;sentence a bit odd>. Four types of priests are needed to perform a Vedic sacrifice: 
-
-
- 
-
-
 
 1. The ***Hotr* **priest who sings hymns to Gods inviting them to preside over the sacrifice, 
 2. The ***Udgaataa*** priest who sings sweet hymns in musical tones for the entertainment of the Gods, 
 3. The ***Adhvaryu*** priest who performs the sacrifice according to strict ritualistic code and makes the offering to the Gods and a 
 4. The ***Brahma*** priest well versed in all the Vedas who supervises the sacrifice. 
 
- 
-
-
 The four Samhitas are said to have been compiled to fulfill the needs of these four main priests: Rk-Samhita for the Hotr, Sama-Samhita for the Udgaataa, Yajurveda Samhita for the Adhvaryu and the Atharvaveda Samhita for the Brahma priest. Initially however, there was no special connection of the Brahma priest with the Atharvaveda, as this Veda was and is not so closely integrated with Vedic ritual as the other three Vedas are. 
 
-
-** **
-
+****
 
 Mantras are basically of 3 major types, when classified according to their mechanical form: Rks, Yajus and Samans. Rks are versified mantras. Yajus are prose mantras whereas Samans are melodies set on Rk. 
-
-
- 
 
 1.  The Rigveda is so called because it is comprised of Rks. 
 2. The Yajurveda is so called because it is composed predominantly of prose mantras (yajus) although it has hundreds of Rks as well. However, even the Riks in Yajurveda are recited as if they were prose passages.
 3. The Samaveda Samhita is composed of melodies called Samans, and also the underlying Rks which are set to these melodies. 
 4. The Atharvaveda is comprised of Riks (5/6) as well as Yajus (1/6). Some adept Vedic scholars can set even the mantras of Atharvaveda to melodies.
 
-In many ways, the Samhita of the Rigveda constitutes the basis of other Samhitas. Not only is it the most ancient Vedic text, it also contributes hundreds of verses to the other Samhitas. Thus, if we consider Samhitas of Rigveda (Sakala), Yajurveda (Madhyandina), Samaveda (Kauthuma) and Atharvaveda (Saunaka), we find that the following number of mantras are repeated:
-
+In many ways, the Samhita of the Rigveda constitutes the basis of other Samhitas. Not only is it the most ancient Vedic text, it also contributes hundreds of verses to theother Samhitas. Thus, if we consider Samhitas of Rigveda (Sakala), Yajurveda (Madhyandina), Samaveda (Kauthuma) and Atharvaveda (Saunaka), we find that the following number of mantras are repeated:
 
 RV mantras repeated in RV = 140
 
-
 YV mantras repeated in YV = 120
-
 
 SV mantras repeated in SV = 2
 
-
 AV mantras repeated in AV = 230
-
 
 RV mantras repeated in SV = 1800
 
-
 RV mantras repeated in YV = 581
-
 
 RV mantras repeated in AV = 1260
 
-
 YV mantras repeated in SV = 1
-
 
 YV mantras repeated in AV = 81
 
-
 SV mantras repeated in AV = 1
-
 
 Theoretically, the Mantras have a higher authority than the Brahmanas.
 
-
-#### What are the Brahmanas:-
-
-
+#### What are the Brahmanas
 
 Commenting on Taittiriya Samhita 1.2.1, Bhatta Bhaskara defines ‘Brahmanas’ as texts which expound the Vedic mantras and Yajnas. In chapter 2 of his Kavyamimansa, Rajasekhar defines the Brahmanas as texts which are characterized by statements of eulogy, censure, exposition and (ritual) application (of mantras). The word is used distinctively to denote certain texts for the first time in Taittiriya Samhita 3.7.1.1
 
-
 Many scholars, modern and ancient, have tried to define the Brahmanas by stating their characteristics. The reality however is that there is no sharp difference in the characteristics of the Mantra and the Brahmana portions of the Vedas. The only thing that we may state safely is this – Mantras are those portions of the Vedas that are designated as such traditionally. And the rest is Brahmana.
-
 
 Unlike the mantras, which are mostly in verse, the Brahmanas are predominantly prose. The Brahmanas contain formulas for rituals, rules and regulations for rites and sacrifices and also outline other religious duties. The formulas and rules for conducting extremely complex rituals are explained to the minutest detail. And every ritual is performed for a specific purpose for which a specific effect/benefit is expected. It was felt that there was nothing that could not be achieved by sacrifices – the sun could be stopped from rising and Indra, the chief of gods, could be deposed from his throne. The duties of men professing different occupations, the eternity of the Veda, popular customs, cosmogony, historical details, praise of ancient heroes are some other subjects dealt with in the Brahmanas.
 
-
- 
-
-
 The symbolic and spiritual aspects of the sacrificial religion are meditated upon in the Aranyakas while philosophical issues are discussed in the Upanishads. A detailed discussion of Aranyakas and Upanishads is beyond the scope of this webpage.
-
-
- 
-
 
 Attached to the Vedas are several genres of auxiliary texts – the Pratisakhyas, Anukramanis, Siksas, Kalpasutras, Parisishtas etc. A discussion of these texts is beyond the scope of the present webpage.
 
-
- 
-
-
 #### **_3. Vedic Shakhas and their Geographical Distribution_**
-
-
- 
-
 
 The Vedic literature that has come down to our times is attached to various traditional schools of recitation and ritual called the ‘*shakhas*’. All the four Vedas have more than one shakha extant. In the past, the number of shakhas studied was many times more. 
 
-
- 
-
-
 According to the Mahabhasya of Patanjali, there were 21 shakhas of Rigveda, 9 of Atharvaveda, 101 of Yajurveda (86 of Krishna Yajurveda and 15 of Shukla Yajurveda, according to later authorities) and a 1000 varieties of chanting of Samaveda. Maybe, the number 1000 for the Samaveda merely refers to ‘numerous’. Nevertheless, although only 20 or so Shakhas of the Vedas are extant now, we do possess names of most of the lost Shakhas of the Rigveda, Yajurveda and Atharvaveda. Fragments of many of the lost shakhas are also available as quotations in ancient works. For the Samaveda, we do not have more than 40 names extant. 
-
-
- 
-
 
 Two different Vedic shakhas might share one or more texts amongst themselves. Conversely, the distinction between two shakhas of the same Veda might result from the use of a different Samhita text, and/or a different Brahmana text, and/or different Kalpasutra text and so on. For e.g., the Baudhayana and the Apastamba shakhas use the same Taittiriya Brahmana, Taittiriya Samhita and Taittiriya Aranyaka but follow different Kalpasutras. On the other hand, the Shankhayana and the Kaushitaka shakhas use the same Samhita and Shrauta Sutra but their Brahmanas have slightly different readings and their Grhyasutras are quite different. 
 
-
- 
-
-
 A group or a community of people who study a particular shakha in its entirety (Samhita + Brahmana + Aranyaka + Kalpasutra + any additional texts) and perform its ritual constitute a ‘*charana*’. For instance, Brahmins who study the Taittiriya Samhita/Brahmana/Aranyaka together with the Kalpasutra of Apastamba say - “I follow the Apastamba charana’.
-
-
- 
-
 
 In certain cases, we have instances of ‘mixed shakhas’. For instance, the followers of Shakala shakha have adopted the Kalpasutra of Ashvalayana. The Ashvalayana shakha, which had the now well-known Ashvalayana Sutra, has in turn lost oral traditions of its Samhita. Likewise, the Kaushitakins of Kerala often use the Samhita of Shakalas. 
 
-
- 
-
-
 The various shakhas of the Vedas were, at one time, spread throughout South Asia. Their geographical location has not been constant down the ages, as communities of Brahmins professing a particular shakha migrated from one part of India to the other, or adopted another shakha when it became impossible for them to sustain the tradition of their own shakhas. 
 
-
- 
-
-
 It is quite certain however, that the tradition of recitation of the Vedic texts originated in north India, and this region was the area where almost all the shakhas originally arose. From various sources, we can determine the following geographical distribution of Vedic Shakhas at various intervals of times, and their present state of survival :-
-
-
- 
 
 1. ***Shakala RV***: Thrives in Maharashtra, Karnataka, Kerala, Orissa, and Tamil Nadu and to some extent in Uttar Pradesh. Might have existed in Punjab. Nambudiris of Kerala recite even the Brahmana and Aranyaka with accents. Accented manuscripts of Brahmana and Aranyaka are available to this day.
 2. ***Shankhayana Rigveda***: Gujarat and parts of Rajasthan and Maharashtra. Oral tradition extinct, only manuscripts of Samhita are extant. Ritual lives in a very fragmentary condition
@@ -4670,26 +4159,11 @@ It is quite certain however, that the tradition of recitation of the Vedic texts
 27. ***Bhallavi SV***: Said to have been prevalent in Karnataka and parts of North India
 28. ***Other Shakhas of YV***: A text called ‘Yajurvedavriksha’ gives the geographical distribution of more than 100 Shakhas of Yajurveda. This description is being left out for brevity.
 
- 
-
-
 ### 4. Extant Vedic Texts
-
 
 The Vedic texts were traditionally transmitted orally (or at least predominantly without the aid of manuscripts, which might have been used sparingly as memory aids). This was essential because the texts were ‘accented’, or in other words the different words or letters therein were recited according to different pitch/tones. Very elaborate mnemonic devices were developed to preserve the texts with great fidelity, and harsh divine vengeance and evil repercussions were promised to those who deformed or mutilated the text in any manner. As a result, several Vedic texts were indeed transmitted over several millennia with utmost fidelity, together with accent. The texts that are used for aiding the memorization and recitation of the Vedas with utmost fidelity, are called ‘Lakshana Granthas’. These texts include Padapathas, Ghanapathas, Kramapatha and other Vikrtis or modifications of the root text, phonetic treatises like Sikshas and Pratisakhyas and so on.
 
-
- 
-
-
 In some cases however, the accents were lost with time and the texts had to be recited without the Vedic accents. For instance, the Brahmanas of the Samaveda lost their accents even as early as the time of Kumarila Bhatta (7<sup>th</sup> century C.E.). Similarly, the Paippalada Samhita is recited by its followers today without the Vedic accents (i.e., in *ekasruti*). In the case of the Madhyandina Samhita, the oral intonations are not related to the accent of the written text. The table below lists only the texts that exist (in print or manuscript) OR are rumored to exist in manuscript. The various cells describe whether the printed editions or manuscripts are available or not, and whether the oral traditions are extant or not. The symbol ‘X’ indicates that no information is available.
-
-
- 
-
-
- 
-
 
 <table>
 <tr>
@@ -4700,7 +4174,6 @@ In some cases however, the accents were lost with time and the texts had to be r
 <strong>_Samhita_</strong>
 <p>
 
- 
 </td>
 <td>
 <strong>_Brahmana_</strong>
@@ -4716,7 +4189,6 @@ In some cases however, the accents were lost with time and the texts had to be r
 <td>
 <h6>
 <strong>Shakala RV</strong></h6>
-
 
 </td>
 <td>
@@ -5057,63 +4529,35 @@ Mundaka Upanishad (?) published.
 </tr>
 </table>
 
-
-
- 
-
-
 It must be emphasized that the Vedic literature was several times its current extent, and most Vedic texts are lost. The extant literature however is a good and a comprehensive representative of the overall corpus.
 
-
-### 5. Veda Lakshana – The Oral Preservation of Vedic Texts:
-
+### 5. Veda Lakshana – The Oral Preservation of Vedic Texts
 
 ### 6. Contents of Samhitas and Brahmanas: A Brief Survey
 
-
- 
-
-
-#### 1. The Rigveda Samhita 
-
-
+#### 1. The Rigveda Samhita
 
 This is the oldest Vedic text, as also the largest. It comprises of 10552 mantras in 1028 hymns (=Suktas). The hymns are divided amongst 10 books called the ‘mandalas’. Mandala 9 has 114 hymns address to Soma. Mandalas 1 and 10 are considered later additions, for most part. 
 
-
 The Rigveda Samhita is often also divided into 8 parts called ‘Ashtakas’ which are further divided into 8 chapters each. Thus, there are 64 chapters according to this classification, which is later than the Mandala scheme.
-
 
 On the whole, the Rigveda mostly consists of hymns to be sung to the various gods as manifestations of the One Divinity. Varuna, Mitra, Surya, Savitr, Vishnu, Pusan, the Ashvin twins, Agni, Soma, Yama, Parjanya, Indra, Maruts, Rudra, Vishvakarman, Prajapati, MAtarishvan, Ushas, Aditi are some of the Gods encountered in the Rg Veda. Varuna - the god of the sky, Indra - the god of war &lt;that is rather limited description!> and Agni - the god of fire, are more popular than Vishnu and Rudra (Shiva). Surya, Savitr and Pusan all refer to the solar deity and the Gayatri mantra is addressed to Savitr. Ushas and Aditi are goddesses. Almost a quarter of hymns each are addressed to Agni and to Indra. Mandala X has several hymns pertaining to more popular topics, to spiritual topics, cosmogony and other miscellaneous matter. 
 
-
 The hymns are altogether attributed to 407 Rishis, or Sages, of which 21 are women Sages ( = Rishika). The Sages belong, in general, to 10 families, each of which has a special hymn (=Apri Sukta) associated with them. Mandalas 2-8 are family mandalas since each of these mandalas contains hymns predominantly from 1 major family of Vedic seers. These families subsequently gave rise to most of the Brahmin communities of the Hindu society. Mandala 2 is associated with Grtsamadas, Mandala 3 is associated with Vishvamitra and his lineage, 4 with Vamadeva and related Rishis, 5 with Atris, 6 with Bharadvajas, 7 with Vasisthas. Mandala 8 has numerous hymns by Kanvas while Mandala 9 has several hymns by Kashyapa Rishis.
-
 
 The mantras are composed in 7 major and dozens of minor prosodic meters.
 
-
- 
-
-
 #### 2. Yajurveda Samhitas
-
 
 As stated earlier, the Yajurveda has two main divisions – Shukla Yajurveda and Krishna Yajurveda. In the former, the mantra and Brahmana portions are collected in separate texts, whereas in the later, the two portions are found interspersed. 
 
-
 The extant Shukla Yajurveda Samhitas are Madhyandina and Kanva.
-
 
 The extant Krishna Yajurveda Samhitas are Kathaka, Maitrayaniya, Taittiriya (also called ‘Apastambi’ Samhita), Kapishthala (fragmentary) and possibly Charaka.
 
-
 Of the extant Yajurveda Samhitas, the two major ones currently are the Madhyandina and the Taittiriya. 
 
-
 The great sage Yajnavalkya is said to have collected and edited the Ur-Shukla Yajurveda Samhita, called the Vajasneyi Samhita. The Madhyandina Samhita comprises of 1975 kandikas or 3988 mantras (the prose kandikas are split up into several mantras) arranged into 40 chapters according to the order of performance of Vedic sacrifices. All but the last chapter (which is called the Ishavasya Upanishad) are employed in the Vedic ritual. The Yajurveda is largely prose, with about 700 verse mantras, most of which are directly borrowed from the Rigveda. The Yajurveda therefore is a liturgical text, but also contains sacrificial formulas to serve the purpose of ceremonial religion (yaju is derived from the root “yag” – to sacrifice). Coming to the Madhyandina Samhita specifically,
-
-
 
 1. Chapters 1-2 deal with Darsapurnamasa rites, 
 2. Chapter 3 with sacrifices performed in the morning and the evenings, sacrifices performed every four months at the start of the three seasons
@@ -5128,49 +4572,28 @@ The great sage Yajnavalkya is said to have collected and edited the Ur-Shukla Ya
 
 Very popular in South India, the Taittiriya Samhita deals with detailed descriptions of sacrifices like Agnishtoma, Jyotishtoma, Vajapeya, Rajasuya, etc It is divided into 7 kandas which are further divided into 5-8 Prapathakas each. The Taittiriya Brahmana, the Taittiriya Aranyaka and the Taittiriya Upanishad are associated with this Samhita. In the Yajur Veda, Vishnu becomes more important. Shiva is also mentioned. Prajapati, the creator of the world, is identified with Vishvakarman. Brahman comes to signify the creative principle of the world. In general, the contents of this Samhita parallel the Shukla Yajurveda Samhitas although exotic and special rites like the Purushamedha are absent here.
 
-
- 
-
-
-#### 3. The Samaveda Samhitas and Melodies: 
-
-
+#### 3. The Samaveda Samhitas and Melodies
 
 It is purely a liturgical collection that comprises of 1875 Rks, of which all but 75 Rks are traceable to the published Shakalya Samhita of the Rigveda. The rest are all said to occur in the Shankhayana Samhita of the Rigveda. All these verses are set to melodies, called the Samans. The origins of Indian classical music lies in the Sama Veda. 
 
-
 The Samhita is divided into two broad divisions- *Purvarchika*, on which the *Gramageya* and the *Aranyaka* samans are set, and the *Uttararchika*, on which the *Uha* and the *Uhya* chants are set. The ganas (=samans) of Gramageya and Aranyageya form the basic collection called the Prakritigana or the archetypes of ganas, to which the Uttaragana based on the Uttararchika is adapted. The marked difference between the melodies of Purvarchika and Uttararchika is that the former is constituted on a single verse basis while the latter on units of three verses. The Uttaragana is divided into two sections known as the Uha and the Uhya or Rahasya: the first is adapted to the Gramageya while the second to Aranyageya. Thus the Uttaragana closely follows the Purvagana in its structure, divisions and notations including the melodic notes. While Purvagana forms part of the Swadhyaya or daily recitations, like the Samhitas, which are considered to be apaurusheya, meaning thereby that they were not composed by the Rishis but revealed to them by Brahma, whereas the Uttaragana was believed to have been composed by the acharyas for liturgical purposes by adapting them to the Purvagana. Hence, they are called Uhaganas, adapted melodies. The Uha and Uhya ganas of Uttararchika are divided into seven divisions namely Dasharatra, Samvatsara, Ekaha, Ahina, Sattra, Kshudra and Prayaschitta, clearly indicating the class of sacrifices at which they are generally executed.
-
 
 The Ranayaniya Samhita is not published yet but appears to be materially identical to the Kauthuma Sahmita, although its Samans are quite different. 
 
-
 The root text of the Jaiminiyas, on which their melodies are based, is the Jaiminiya Archika Samhita. This text runs parellel to the Kauthuma Samhita of Samaveda, available in easily accessible editions. The Samhita has approximately 1650 mantras and its Saman tradition is quite different from the main Kauthuma tradition.  The Jaiminiya chants can be subdivided into 3 variations: 
 
-
-1.      The Nambudiri chants, 
+1. The Nambudiri chants, 
 
 1. Thanjavur/Thiruchi districts in Tamil Nadu
 2. Tirunalveli district and the area close to Palaghat (Kerala) in Tamil    Nadu
 
- 
-
-
- 
-
-
-#### 4. Atharvaveda Samhita: 
-
-
+#### 4. Atharvaveda Samhita
 
 It is often said that the Atharva Angirasa was originally not given the status of a Veda, but seems to have been later elevated to the position. The main theme of the Atharva Veda is cure for diseases, rites for prolonging life and fulfillment of one’s desires, statecraft, penances, magic, charms, spells and sorcery. While the Gods of the Rg Veda are approached with love, the Gods of the Atharva Veda are approached with cringing fear and favor is curried to ward off their wrath. Homage is paid to them to abstain from doing harm. Sophisticated literary style and high metaphysical ideas mark this Veda. The two extant Samhitas of Atharvaveda are Shaunakiya and Paippalada. 
 
-
 The former has 5977 mantras arranged in 20 books called ‘kandas’ while the latter has approximately 7950 mantras arranged in as many kandas. 
 
-
 This Veda offers a better insight into the actual culture and life of the Vedic society, because of its significant ‘popular’ content – hymns connected with wedding, agriculture, battle, medicine, domestic ceremonies, coronation and so on. Significantly, dozens of hymns are also devoted to Hindu spirituality, and are often at par with the Upanishads.
-
 
 The Atharvaveda has numerous names –
 
@@ -5179,16 +4602,9 @@ The Atharvaveda has numerous names –
 3. *Kshatraveda* – because it has several hymns dealing with war, rites of coronation and so on.
 4. *Brahmaveda *– because it has several hymns dealing with spirituality
 
- 
-
-
-#### 5. Aitareya Brahmana of Rigveda:
-
-
+#### 5. Aitareya Brahmana of Rigveda
 
 This Brahmana is common to the Shakala and Ashvalayana shakhas of Rigveda. It comprises of 8 groups (called ‘Panchikas’) of 5 chapters each. Hence, the text comprises of 40 chapters. Of these, the first 30 are presumably the composition of Rishi Mahidasa Aitareya, whereas the last 10 chapters were added by Rishi Shaunaka. The main contents of this text are as follows –
-
-
 
 1. Chapters 1-13 deal with the duties of the Hotr priest in the Agnishtoma sacrifice
 2. Chapter 14 deals with the meaning of the word ‘Agnishtoma’ and sundry matters
@@ -5199,50 +4615,21 @@ This Brahmana is common to the Shakala and Ashvalayana shakhas of Rigveda. It co
 7. Chapters 26-30 deal with the duties of the Gravastuta, Subrahmanya and 6 other minor priests involved in the Soma sacrifices
 8. Chapters 31-40 deal with the sacrifices performed by the Kshatriyas (e.g. Vajapeya and Rajasuya) and the mutual relationships of Brahmanas and Kshatriyas.
 
- 
-
-
-#### 6. Shankhayana Brahmana of Rigveda:
-
-
+#### 6. Shankhayana Brahmana of Rigveda
 
 This Brahmana text comprises of 30 chapters and is still studied in Gujarat and parts of Maharashtra. Its contents run parallel to the Aitareya Brahmanam but its arrangement is more systematic.
 
-
- 
-
-
-#### 7. Kausitaki Brahmana of Rigveda:
-
-
+#### 7. Kausitaki Brahmana of Rigveda
 
 This text differs from the Shankhayana Brahmana only in a few words and syllables here and there. The other difference is that in this Brahmana, even the sentences are enumerated. It is prevalent only in Kerala, where it is recited orally. Portions of the text are recited with accents.
 
-
- 
-
-
-#### 8. Kanva and Madhyandina Shatapatha Brahmanas of the Shukla Yajurveda:
-
-
+#### 8. Kanva and Madhyandina Shatapatha Brahmanas of the Shukla Yajurveda
 
 The Madhyandina Shatapatha Brahmana (SBM) is divided into 14 Kandas containing 100 adhyayas, 68 prapathakas, 436 Brahmanas and 7179 Kandikas
 
-
 The Kanva (SBK) text is divided into 17 Kandas, 104 adhyayas, 435 Brahmanas and 6806 Kandikas. Note that unlike the Madhyandina version, there is no division into Prapathakas.
 
-
- 
-
-
 The following table lists the contents of their respective sections –
-
-
- 
-
-
- 
-
 
 <table>
 <tr>
@@ -5467,37 +4854,16 @@ The following table lists the contents of their respective sections –
 </tr>
 </table>
 
-
-
- 
-
-
 The Shatapatha Brahmana is perhaps the most important Brahmana text from the perspective of Vedic studies.
 
-
- 
-
-
-#### 9. Taittiriya Brahmana of Krishna Yajurveda: 
+#### 9. Taittiriya Brahmana of Krishna Yajurveda
 The Brahmana comprises of 3 kandas, which are divided into 8, 8 and 12 adhyayas respectively. The Brahmana is also sometimes divided into 8 ashtakas, in the style of Rigveda. These adhyayas are further divided into anuvakas or sections, which contain sentences on a particular topic. There are a total of 17480 sentences in the Brahmana. The first kanda of the text deals with the Agnyadhana, Gavamayana, Vajapeya, Soma, Nakshatreshti and Rajasuya. The 2<sup>nd</sup> kanda deals with Agnihotra, Upahomas, Sautramani, Vaisysava and others. The last kanda gives some additional details on the Nakshatreshti, the Ashvamedha and some parables like that of Bharadvaja, together with the Purushamedha Yajna.
 
-
- 
-
-
-#### 10. Vadhula Brahmana or the Anvakhyana Brahmana of Krishna Yajurveda:
-
-
+#### 10. Vadhula Brahmana or the Anvakhyana Brahmana of Krishna Yajurveda
 
 It is an anu-brahmana or a minor Brahmana like work, embedded in the Vadhula Shrautasutra. The work has not been published so far and is in manuscript.
 
-
- 
-
-
-#### 11. Panchavimsa Brahmana of Samaveda:
-
-
+#### 11. Panchavimsa Brahmana of Samaveda
 
 This text derives its name from the fact that it has 25 chapters called Prapathakas, which are further subdivided into 347 sections called ‘khandas’. It is also called the ‘Tandya Mahabrahmana’ and is the principal Brahmana text of the Kauthuma and the Ranayaniya schools. This Brahmana deals with the employment of various Samans in different Vedic rituals, discusses Soma sacrifices in detail, and narrates legends about various Sages to whom different Samans were revealed. The contents of the Brahmana are as follows –
 
@@ -5510,52 +4876,23 @@ This text derives its name from the fact that it has 25 chapters called Prapatha
 7. Prapathaka XX – XXII: Ahina rites
 8. Prapathaka XXIII – XXV : Longer rites i.e., the Sattras
 
- 
-
-
-#### 12. Shadavimsa Brahmana of Samaveda:
-
-
+#### 12. Shadavimsa Brahmana of Samaveda
 
 As the name suggests, it is an appendix to the Panchavimsa Brahmana, forming its 26<sup>th</sup> chapter as it were. The text deals with the Subrahmanya litanies and with one-day abhichara (sorcery) rites. This is a short text comprising 5 sections.
 
-
- 
-
-
-#### 13. Samavidhana Brahmana of Samaveda: 
-
-
+#### 13. Samavidhana Brahmana of Samaveda
 
 This text comprises of 3 prapathakas. It deals with the recitation of Samans with a view of obtaining specific fruit/results. It is paralleled in the Rigveda tradition by a text called Shaunakiya Rigvidhana, and in the Yajurveda tradition by Katyayaniya Yajurvidhana.
 
-
- 
-
-
-#### 14. Arsheya Brahmana of Samaveda:
-
-
+#### 14. Arsheya Brahmana of Samaveda
 
 The text is merely a kind of an Arshanukramani, or an index of Sages connected with the Gramageya and Aranya Samans. A particular Saman might have more than one Rishi or Sage associated with it, and these might be different from the Sage linked to the underlying Rk on which the Saman is sung. It is divided into 3 Prapathakas.
 
-
- 
-
-
-#### 15. Devatadhyaya Brahmana:
-
-
+#### 15. Devatadhyaya Brahmana
 
 It lays down the criterion for deciding the deity of the Samaganas.
 
-
- 
-
-
-#### 16. Chhandogya Brahmana -
-
-
+#### 16. Chhandogya Brahmana
 
 The Chhandogya Brahmana is a work of ten divisions called ‘Prapathakas’ and comprises of two parts – 
 
@@ -5564,66 +4901,29 @@ The Chhandogya Brahmana is a work of ten divisions called ‘Prapathakas’ and 
 
 Coming to the Mantra Brahmana, each of the two Prapathakas is further subdivided into eight khandas, or sections. The entire text has 268 mantras, including the 11 additional formulae noted in the most ancient extant commentary by Gunavishnu. These mantras are pre-supposed by the Grhyasutras of Khadira and Gobhila, which prescribe them for various Grhya rites. In fact, the order of the mantras on the Mantra Brahmana parallels the corresponding rites in the Grhyasutras, in the same order. It is as if the Grhyasutras and the Mantra Brahmana complement each other.
 
-
 A discussion of the Chhandogya Upanishad is beyond the scope of the present webpage.
 
-
- 
-
-
-#### 17. Samhitopanishad Brahmana:
-
-
+#### 17. Samhitopanishad Brahmana
 
 This text deals with the ‘secret’ aspect of the Samhitas. The collections of verses are grouped together for various purposes. It emphasizes the responsibilities of the great tradition of the Samaveda and the correct doctrine reflected therein, through the chosen line of disciples. It also discusses the fee that ought to be given to one’s religious teachers.
 
-
- 
-
-
-#### 18. Vamsa Brahmana:
-
-
+#### 18. Vamsa Brahmana
 
 This is a very short Brahmana, containing lists of ancient Samavedic teachers.
 
-
- 
-
-
-#### 19. Jaiminiya Brahmana:
-
-
+#### 19. Jaiminiya Brahmana
 
 After the Shatapatha Brahmana, this is perhaps the second most important Brahmanas because it is a fairly long text and because it is a storehouse of several Vedic legends and stories. The text is divided into three main divisions called the ‘kandas’. The main ritual sections of the text are – Agnihotra (1.1-1.65), Agnishtoma (1.65-1.364); Gavaayamaana (2.1-80); Ekaahas (2.81-234) or one day Soma sacrifices; Ahinas or sacrifices lasting upto 12 days (2.235-333); Sattras or longer sacrifices (2.334-370); Gavaayamaana (2.371-442), Dvadashaaha (kanda 3). The last kanda has very interesting geographical and historical information. The text as printed has several unclear words. Although it runs parallel to the Tandya Mahabrahmana, it is more detailed in its treatment than the latter. The other two Brahmanas of the Jaiminiya shakha are the Jaiminiya Arsheya Brahmana and the Jaiminiya Upanishad Brahmana.
 
-
- 
-
-
-#### 20. Jaiminiya Arsheya Brahmana:
-
-
+#### 20. Jaiminiya Arsheya Brahmana
 
 Its contents are similar to the Arsheya Brahmana of the Kauthuma shakha, but the specific names of the two texts differ a lot. This text names only 1 Sage per Saman, while the Kauthuma Arsheya Brahmana often lists more than one Sage.
 
-
- 
-
-
-#### 21. Gopatha Brahmana: 
-
-
+#### 21. Gopatha Brahmana
 
 This is the only extant Brahmana of the Atharvaveda. It is divided into two major parts – Purvabhaaga and Uttarabhaaga. These in turn are altogether divided into 11 sections called ‘Prapathakas’. The Purvabhaga of the Gopatha Brahman exhibits more originality of content in that it glorifies the Athavan and its priests. In contrast, the Uttarabhaga follows the other Brahmanas in its content, although it introduces legends related to other Atharvan teachers. Embedded in the Gopatha Brahmana are Upanishad texts like the Pranava Upanishad. According to the Atharvana Charanavyuha, the text originally had 100 Prapathakas and was therefore much larger in extent.  Significantly, Gopatha Brahmana 1.1.29 quotes Vyasa to the effect that he who knows the Atharvaveda knows all.
 
-
- 
-
-
-#### 22. Aitareya Aranyaka:
-
-
+#### 22. Aitareya Aranyaka
 
 It comprises of 5 Aranyakas further divided into 18 chapters. The first three Aranyakas are ascribed to Mahidasa Aitareya, the 4<sup>th</sup> is merely a collection of Mahanamni verses, and the fifth Aranyaka is attributed to Ashvalayana (or sometimes, to Rishi Shaunaka). 
 
@@ -5633,88 +4933,39 @@ It comprises of 5 Aranyakas further divided into 18 chapters. The first three Ar
 4. Aranyaka IV is merely a collection of Mahanamni verses.
 5. Aranyaka V is like a Sutra text, and deals mainly with the Nishkevalya shastra that is recited during the afternoon ceremony portion of the Mahavrata rite.
 
- 
-
-
-#### 23. Shankhayana Aranyaka:
-
-
+#### 23. Shankhayana Aranyaka
 
 The text is divided into 15 chapters, and its contents are similar to the Aitareya Aranyaka. The famous Kaushitaki Upanishad is embedded in this text as sections III-VI.1-4. The first two chapters resemble Brahmanas, and the last chapter is often considered a later addition.
 
-
- 
-
-
-#### 24. Taittiriya Aranyaka: 
-
-
+#### 24. Taittiriya Aranyaka
 
 This work comprises of 10 Prapathakas. The first two are called ‘Kathakam’ because they are said to have been borrowed from the Kathaka shakha of Yajurveda.
 
-
 Prapathaka 5 deals with the Pravargya rite.
-
 
 Prapathakas 7-9 are the famous Taittiriya Upanishad.
 
-
 Prapathaka 10 is the Mahanarayana Upanishad, or the Yajnika Upanishad. This Prapathaka is often considered an appendix because its extent and contents are unsettled and vary from region to region. It is a compilation of Upanishadic matter together with miscellaneous mantras for recitation at various occasions and for various purposes.
 
-
- 
-
-
-#### 25. Brihadaranyaka of Shukla Yajurveda:
-
-
+#### 25. Brihadaranyaka of Shukla Yajurveda
 
 This text forms the 17<sup>th</sup> book of the Kanva Shatapatha Brahmana, and the 14<sup>th</sup> book of the Madhyandina Shatapatha Brahmana. The initial 2 Prapathakas in the Madhyandina version deal with the Pravargya rite, and the last 6 constitute the Brhadaranyaka Upanishad, whose details are beyond the scope of this webpage. In the Kanva version, the Pravargya portions are present separately as kanda XVI.
 
-
- 
-
-
-#### 26. Maitrayaniya Aranyaka:
-
-
+#### 26. Maitrayaniya Aranyaka
 
 Since this text is identical with the Maitrayaniya Upanishad in 7 Prapathakas, its discussion is beyond the scope of the present webpage.
 
-
- 
-
-
-#### 27. Katha Aranyaka:
-
-
+#### 27. Katha Aranyaka
 
 It comprises of 3 Prapathakas, of which II and III largely deal with the Pravargya rite.
 
-
- 
-
-
-#### 28. Jaiminiya Upanishad Brahmana: 
-
-
+#### 28. Jaiminiya Upanishad Brahmana
 
 This text is also known as the Talavakara Aranyaka and is the only extant Aranyaka of Samaveda. In the introduction to his commentary on the Kena Upanishad, Shankaracharya states that the Upanishad forms the beginning of the 9<sup>th</sup> chapter of Brahmana of that Sakha. In the extant manuscripts, the Kena Upanishad forms the 10<sup>th</sup> Anuvaka of the Upanishad Brahmana section, which occurs in the 4<sup>th</sup> Adhyaya of the Jaiminiya Brahmana proper. The JUB is then followed by the Jaiminiya Arsheya Brahmana. This Aranyaka deals with the esoteric meanings of various Samans, and also deals with concepts that are later found in Tantric Hinduism. It also gives spiritual interpretations of several Rigvedic mantras.
 
-
- 
-
-
-### F. Age of the Samhitas and the Brahmanas:
-
-
- 
-
+### F. Age of the Samhitas and the Brahmanas
 
 It is difficult to date the various Samhitas and Brahmanas of the Veda very precisely because of the following reasons –
-
-
- 
 
 1. First, they are primarily liturgical, ritualistic and spiritual texts. Hence, any information on the material aspects of the culture that they belonged to, would be incidental. 
 2. Second, they were composed and transmitted by very elitist classes of Brahmin priests and therefore are not representative of the culture and civilizations of the periods to which they belong. This makes it difficult to correlate them with archaeological data.
@@ -5725,32 +4976,15 @@ It is difficult to date the various Samhitas and Brahmanas of the Veda very prec
 7. Seven, the extant Vedic texts are a fraction of the original literature and it is known that at least some of the lost texts showed different linguistic features. Therefore, any conclusions drawn on the basis of linguistic studies could only be provisional. 
 8. And last, the script of the IVC still remains un-deciphered. Most of the earlier failures of attempts (more than 50) were probably due to the unjustified assumption that the script represented a ‘proto-Dravidian’ language.
 
- 
-
-
 The whole issue has become extremely vitiated because of heavy politicization, and because the earlier chronologies proposed for these texts were often inspired by white supremacist views and Christian missionary biases. 
-
-
- 
-
 
 The conventional views, first proposed in the 19<sup>th</sup> century by Western Indologists, who were often (but not always) constrained by Biblical biases (“the world was created in 4004 BCE”) or influenced by the ‘*white man’s burden*’ mindset, were that the Rigveda was composed around 1200 BCE. The Rigveda was then said to have been followed chronologically by all the other Vedic texts. The emerging studies of Comparative Linguistics and Philology, and the myth of the Aryan Invasion Theory were made to lend further credence to these views. 
 
-
- 
-
-
 With the discovery of a pre 1500 BCE civilization in the Indus basin (and subsequently in Gujarat and as far east as the Ganges and as far south as the Godavari river) it was assumed that this newly found civilization was non-Vedic. The composers of the Vedas were then said to have destroyed the Indus Valley Civilization (IVC) with the help of horses and chariots and iron weapons (later on) and pushed the original inhabitants of the IVC area into peninsular India. This is called the ***Aryan Invasion Theory (AIT)***. 
-
 
 The theory further states that the Vedic people (called Aryans) were fair and tall like Nordic Europeans, in contrast to the inhabitants of the IVC area, who were presumably short and dark. The verses of Rigveda were twisted to see massacres of these dark ‘Dasyus’ perpetrated by the invading white Aryans, as a result of which the Dasyus then fled to south. The Aryans were said to have invaded in several massive waves, so much so that they came to dominate modern Pakistan, northern India and Afghanistan completely in a few centuries, and obliterated all the traces of a non-Aryan past. The descendants of the Dasyus, who were supposedly pushed to South India, were equated with modern Dravidian speakers and even certain words said to be ‘borrowed’ from Dravidian languages were found in the Rigveda, despite the fact that the earliest literature in any Dravidian language (Tamil to be specific) post-dates Rigveda by atleast 1200 years. The AIT was also initially promoted by certain influential archaeologists like Mortimer Wheeler. No primary evidence was really adduced to support the AIT. The theory was rather based on the fact that the Vedic language was determined to belong to the same family as Greek, Latin etc. This langauge family was called the Indo European family or the IE family. Secondly, several arguments of silence were used. For instance, the AIT’ers pointed out that the unearthed motifs of the IVC culture do not show the horse or the spoke wheeled chariot at all whereas these play an important role in the Vedas and also in other IE cultures. Conversely, the supposed absence of mention of items like tigers and rice which were indeed attested at IVC sites in the Rigveda was taken as another proof that the Aryans had nothing to do with the IVC. Certain other curious arguments were also cited. For instance, the AIT’ers pointed that the word for the elephant in the RV was ‘Mrgahastin’ (or ‘the animal with a hand’), indicating that the Aryans found this creature novel after they entered South Asia from Central Asia. Such arguments actually fall flat when it is pointed out that the ‘snake’ is often referred to as ‘toothed rope’ in the Vedas.
 
-
- 
-
-
 Dissenting voices were indeed by Indian scholars raised right from the start, but the AIT was accepted as the correct view by Western and several Indians till recently. In fact, it is still **the** view stated as a fact in works on World History and other related fields due to academic inertia. 
-
 
 Opponents to the AIT were often termed as ‘Hindu chauvinists’, ‘Indian Nationalists’ and so on (and these terms are still used by proponents of the new Avatar of the AIT which is the AMT- see below). In recent decades however, opposition to the AIT has mounted considerably and no respective Indologist will publicly uphold the AIT in its crass form any longer. The following were the objections of the opponents:
 
@@ -5773,23 +5007,11 @@ Opponents to the AIT were often termed as ‘Hindu chauvinists’, ‘Indian Nat
 17.  All the Indian traditions (Hindu, Jain, Buddhist, Atheist) clearly pre-suppose several millennia of development of their philosophical, religious, theological systems. This runs counter to the idea that the Aryans entered India around 1500 BCE and came to dominate only in the course of subsequent centuries.
 18. Cattle breeds in the middle show an ingression of Indian breeds genetically. In murals etc., we see that the Indian humped cattle started appearing in the Middle East around the middle of the 2<sup>nd</sup> millennium BCE. This is around the same time that the Aryans moved into India from Central Asia. So did the cattle move out of India while men moved into India, at the same time?
 
- 
-
-
 The results of the objections such as those listed above have lead the proponents of the AIT to reformulate their views in several views. Some Indologists in the West (who are predominantly philologists and linguists) have tried to adduce reasons why the invading Aryans have not left behind any material traces. Thus, they have redefined certain terms in the Vedas to mean something different from their earlier definitions. For instance, The Rigvedic word ‘*pur*’ which was earlier taken to mean a city or a fortress is now said to denote mud dwellings with palisades and so on. The word ‘*grama*’ which earlier denoted ‘village’ or a settlement in general is now taken to mean a ‘cart-wagon’ (like that of gypsies). In other words, it is postulated that since the Vedic Aryans were a gypsy like community, they could hardly be expected to leave any material trace!
-
-
- 
-
 
 Most Indologists, having abandoned the idea of large-scale invasions are now proposing other models. For instance, some subscribe to the ‘elite dominance’ model according to which a small number of Indo-Aryan (IA) speakers entered the IVC area to dominate the collapsing IVC and soon came to dominate the natives with the help of horses and chariots (termed as ‘Vedic Tanks.’). These invasions are being re-christened as ‘migrations’ and ‘acculturation’. Some others are proposing a continuous process of interaction of IVC inhabitants with IA speakers of Afghanistan and Bactria accompanied by small-scale migrations (but large scale transfer of language). Needless to say, at this stage, all these models that are being proposed to explain the lack of evidence of invasions are often really invasions described in a euphemistic way, or are completely chaotic and unsatisfactory. 
 
-
 However, the proponents of this Aryan Migration Theory (AMT) have advanced sophisticated arguments based on linguistics to emphasize that at least the horse, the chariot and the language of Vedic Aryans was imported from Central Asia in the late 2<sup>nd</sup> millennium BCE. They highlight the fact that in the language tree, Vedic Sanskrit appears a rather late language. They emphasize the supposed cultural dichotomy between IVC (no horse, no chariot, bath, bricks) and the Aryan culture (horse and chariots are important, no public bath, no bricks). They have tried to explain away the astronomical evidence as misinterpretations of Vedic passages and have made (totally unsuccessful) attempts to see a Dravidian language in IVC seal inscriptions. Moreover, they see a ‘Dravidian’ or an ‘Austro-Asiatic’ or even a ‘Language X’ substratum in Rigveda as a proof that when the Aryans came to North India, it already had speakers of proto-Dravidian, para-Munda or of hypothetical languages like the language X. They also suggest that the so-called horse bones unearthed in the IVC area and also in peninsular area actually came from poorly documented excavations. Therefore, they cannot be stratified, and therefore dated perfectly. In other words, they stick to the old paradigm that horse was indeed brought from outside by the Aryans into South Asia. AIT/AMT proponents also seek to malign opponents by branding them as ‘dangerous people’, ‘chauvinists’, ‘Hindutva fanatics’, ‘theologians’ and so on.
-
-
- 
-
 
 To counter these views, the AIT opponents point out that -
 
@@ -5805,1334 +5027,679 @@ To counter these views, the AIT opponents point out that -
 10. Ten, the AIT/AMT opponents refer to the fact that the horse in the Rigveda has 34 ribs (and is therefore of a South East Asian/South Asian variety now mostly extinct) and is therefore not the Central Asian horse which has 36 ribs. The argument is that had the Aryans brought their horse from Central Asia, it would have had 36 ribs and not 34. 
 11.  Eleven, AIT opponents point to the fact that certain linguistic peculiarities in modern Indo-Aryan languages of North India are not deductible either from Vedic Sanskrit or from Dravidian/Austro Asiatic. So is the case with numerous aspects of Hindu religion. All this suggests that the Vedas themselves represent the religious beliefs of only a section of the ancestors of modern Hindus. Consequently, it is inaccurate to represent Vedic Aryans as a ‘group’ that displaced IVC people. It is possible rather that inhabitants of different parts of the IVC area, peninsular India and the Gangetic plains were resident in their respective areas for along time and with time, their beliefs fused even further to lead to the formation of the magnificent construct that Hinduism is. 
 
- 
-
-
 Opponents of AIT often tend to point to the Eurocentric or Marxist (within India) biases of the up-holders of AIT/AMT, a charge that is resisted by (some of) them stoutly. A great drawback of the OIT theories is that similar to AIT/AMT, it is not attested archaeologically. In its defense, it must be said however that the theory is rather new and therefore archaeologists will take several years to correlate their data with the suggestions of the OIT’ers, whereas the AIT/AMT has had a head start of 150 years to influence the mute findings of the archaeologists.
-
-
- 
-
 
 It would not be out of place to mention that most recent attempts aimed at the decipherment of the IVC script presume a language related to Sanskrit. All attempts to date have, however, been a failure.
 
-
- 
-
-
 The above was but a brief resume of a few conflicting viewpoints. As things stand, majority of Indologists (Linguists, historians, archaeologists) in India reject the AIT or even the AMT and almost all the archaeologists in the West and an increasing number of specialists from other fields are also rejecting these theories. Some linguists are now proposing that there is no way of determining the IE homeland and so the matter is best left ignored. They also agree that the old paradigms of the spread of the centum and satem groups of IE languages are no longer valid because of the discovery of a centum language recently right in the foothills of Himalayas. In other words, the current state of linguistic data is such that it cannot be used as the primary evidence to support AIT/AMT but rather only as secondary evidence. And as for the primary, alternate, non-linguistic evidence for AIT/AMT - it is not yet forthcoming.
-
-
- 
-
 
 Within India, the matter has become highly politicized. Marxist historians (who have monopolized government institutions and grants in India since 1960’s), politically active or fundamentalist Muslims, Christian missionaries/evangelists, Dravidian Nationalists (and also members of the oppressed lower castes, who are often incited by the aforementioned categories) and many other lay Indians of all religious and political persuasions still defend the AIT or the AMT. In contrast, although a majority of academicians in India have rejected the AIT (and some even the AMT), the anti-AIT view is often associated with Hindutva politics (although there does not appear to be a real cause and effect relationship between them). While proponents of the Hindutva viewpoint would naturally favor OIT today, historically the case has been quite the opposite. In fact, it has been and is still in the interest of Marxists and of the fundamentalist sections of the Indian minorities (as well as the Dravidian Nationalists) to uphold the paradigms foisted on Indians by their erstwhile colonial masters. 
 
-
 Therefore, what we need is a dispassionate look at the multifaceted evidence and also completely de-link the issue of the exact relationship between Aryans and IVC from the question of Indian Nationalism. What happened 35 centuries ago (or a earlier) is hardly of relevance to the question “Who is an Indian” because national identities and borders have been fluctuating all over the world down the ages.
 
-
- 
-
-
-### G. Methods of Interpreting the Vedic texts:
-
-
- 
-
+### G. Methods of Interpreting the Vedic texts
 
 Numerous methods have been used in ancient and modern times to interpret Vedic texts. A resume of the same is given below. Note that since the Vedic literature itself is heterogeneous, there isn’t a single method that is best suited for interpreting the entire Vedic literature. For instance, if the hymn in question is merely a praise of an act of charity, it is futile to impart a spiritual meaning to it. So also, if the hymn reflects a spiritual method, it is inaccurate to force a ‘nomadic culture’ meaning into it just to satisfy the requirements of AIT. There is no sharp boundary between these different methods of interpretation, all the more because many of these are indispensable even for the other methods of interpretation. For instance, no one can ignore Vedic grammar while translation Vedic hymns. The various methods of interpretation of Vedic texts are as follows -
 
-
- 
-
 1.  **_Yajnika School_**: This is a ritualistic interpretation of the Vedas and is exemplified to a great extent in the Brahmana texts themselves. In certain cases, it is seen that the ritual employment of a mantra has no relationship to its actual meaning. Rather, the mantra seems to have been rubricated into the ritual merely on account of the presence of a word or two that have a phonemic similarity to a word that would correctly describe an object or an act connected with the ritual. It must be noted however that the employment of the Vedic Samhitas in rituals has actually contributed to their preservation down the ages. Moreover, the details of the ritual acts in the Brahmanas often give some measure of the cultural background and the material aspects of ancient India. Last, the Samhitas of Yajurveda and Samaveda are in reality liturgically arranged for aid in ritual performances. After the Samhitas and the Brahmanas, we have another vast corpus of literature called the Kalpasutra, which describes the minutiae of Vedic rituals in a systematic and a comprehensive manner. The Kalpasutras are considered in a separate section. Most of the extant commentaries of the Vedas follow this technique although they draw elements from other modes of interpretation as well.
-
- 
 
 2. **_Nairukta School:_** This is the etymological method of interpretation of words or phrases occurring in the Vedic mantras and its origins can be traced to the Brahmana text themselves. The text par excellence of this mode of interpretation is the Nirukta of Yaska, which itself is a commentary on a collection (called Nighantu) of difficult words occurring in the Vedas. The Nirukta of Yaska was apparently preceded by a dozen works belonging to this genre as he quotes them profusely. Nirukta is considered one of the 6 Vedangas of the Veda along with grammar, astronomy, phonetics, ritual and prosody.
 
- 
-
-
- 
-
 3. **_Dharmashastric School:_** In his Nirukta, Yaska quotes the opinion of some who derive legal instructions from certain verses of the Rigveda. For instance, in Nirukta 3.3, he observes that some interpret Rigveda 3.31.1 to mean that daughters can also inherit the property of their father whereas some state that only sons are eligible for inheritance.
-
- 
 
 4. **_Naidana School:_** Nothing much is known about this school of interpretation although a text called the Nidana Sutra by Patanjali exists. From the citations of their views in the Nirukta of Yaska, it appears that they were closely allied to the Aitihasika school of interpretation with the caveat that they paid more attention to the original context of or the cause for the composition of Vedic hymns.
 
- 
-
-
- 
-
 5. **_Mimamsaka School_**: The followers of this school believe that all the Vedic texts should be treated as a harmonious whole, that the correct import of the hymns can be understood if we consider the context, the relationship of various sentences and of words in those sentences; if we consider parallel passages in various texts; and if we interpret passages after determining their central import. Unfortunately, the method is mostly restricted to the interpretation of Brahmanas, Aranyakas and the Upanishads, as exemplified in the Purva and Uttara Mimansa Sutras (and also numerous commentaries on them). The Vedas are considered eternal, uncreated Word, free of any references to temporal events and free of defects associated with human compositions. 
-
- 
 
 6.  **_Aitihasika School:_** The followers of this school of interpretation hold that each and every mantra or hymn is related to an Itihasa i.e., a traditional account of ancient events, and accordingly they interpret the concerned hymn or verses in conjunction with that Itihasa.  For instance, Yaska narrates an Itihasa connected with the Nadi Sukta (Rigveda III.33) wherein Sage Visvamitra is said to have addressed the rivers with the concerned mantras whereupon they allowed him to cross over. The Brahmana texts contain numerous such Itihasas and the now-lost Shatyayani Brahman is often quoted by the commentators of Rigveda for these Itihasas.
 
- 
-
-
- 
-
 7. **_Parivrajaka School:_** This school seeks to highlight the spiritual import of mantras. While several hymns of the Vedic Samhitas indeed convey spiritual ideas very directly, followers of this school of thought hold that even the other hymns can be explained in a spiritualistic manner. Examples of this method of interpretation are the commentary on the first 40 hymns by Shri Madhvacharya (13<sup>th</sup> cent. C.E.) and the commentary of Atmananda on the Asya Vamasya Sukta (Rigveda I.164). Kapali Shastri has written a spiritual commentary on the entire first Ashtaka of the Rigveda while Swami Brahmamuni has written a spiritual commentary on the entire Kauthuma Samaveda Samhita. This is not to say that this mode of interpretation is modern. Rather, the Brahmanas, Aranyakas and the Upanishads themselves expound numerous verses in the spiritual mode. In his Nirukta, Yaska cites the views of several followers of this method of interpretation, as does Sayana in his commentaries on various Vedic texts.
-
- 
 
 8.  **_Vaiyyakarana School:_** This is a general method of interpretation by the application of the rules of grammar to Vedic mantras. It is taken into account by all the other schools while commenting on the mantras. The Padapathas of the Vedic Samhitas is the earliest such commentary on these texts. These Padapathas seek to analyze the compound words occurring in the mantras according to certain rules of grammar. The Padapatha of Rigveda Samhita is by Shakalya, on Samaveda Samhita is by Gargya, and on the Taittiriya Samhita is by Atreya. The Padapathas on the Shaunakiya Atharvaveda Samhita, Maitrayani Samhita, Rigvediya Shankhayana Samhita, Rigvediya Ashvalayana Samhita, Shukla Yajurvediya Kanva Samhita and the Madhyandina Samhita also exist but are anonymous. Later grammarians however often reject a few analysis contained in the Padapatha as being opposed to the rules of grammar.
 
- 
-
-
- 
-
 9. **_Arya Samaj School of Interpretation:_** This was found by Swami Dayanand Sarasvati (1824-1883) and is exemplified by his commentary on the Madhyandina Yajurveda Samhita and approximately 7.5 mandalas of the Rigveda Samhita. After him, various scholars of the Arya Samaj have written numerous commentaries on the 4 major Vedic Samhitas in English, Hindi, Marathi and other Indian languages. These commentaries conform to the ideals regarding the Vedas propagated by the Arya Samaj: First, the Vedas are held to preach pure monotheism and therefore Agni, Indra etc., are held to be merely names of the one God. Second, the Vedas are said to encompass the Samhitas only, not the Brahmanas. Third, the Vedas are said to be the eternal word of God revealed at the beginning of creation, and as such, they are devoid completely of historical accounts or proper names. Fourth, since the Vedas are divine knowledge, they contain all the branches of knowledge (even modern ones like telegraphy, aeronautics and so on) in the root form. Fifth, all the modern commentaries on the Vedas are held to be spurious. Only the works composed by sages from Brahma to Jaimini (including the Brahmanas, Aranyakas, Sutras and so on) are held to reliable commentaries on the Vedas. Even these are to be rejected in so far as they are in conflict with the intent of the Samhitas. Sixth, even amongst the Samhitas, only the following 4 were revealed by God- Shakalya, Madhyandina, Shaunaka and Kauthuma. All the other Samhitas are composed by men and are like glosses on these 5 Samhitas. Seventh, the method of Yaska and Vyakarana are to be relied upon heavily to interpret the Vedas and the later Hindu texts like Puranas etc., must be rejected completely. There are several other principles followed by this school of interpretation (in one of his own works, Swami Dayanand himself lists 16 such principles).
-
- 
 
 10. **_Shri Aurobindo’s School of Interpretation: _**This is a modern version of the ancient Parivrajaka school of interpretation and is discussed in numerous works of Sri Aurobindo like ‘The Secret of the Veda’ and of his followers like Kapali Shastri and David Frawley. Herein, the various gods in the Samhitas are said to represent different states of consciousness on the spiritual journey of men.
 
- 
-
-
- 
-
 11. **_Pauranic School:_** This is not really a school of interpretation, and refers to a few partial commentaries on the Vedic Samhitas that seek to discover the biographies of Hindu deities like Sri Rama and Sri Krishna in the hymns. This method is similar to the Aitihasika school, with the big difference that here that the ‘Itihasa’ does not pertain to the Seer of the hymn.
-
- 
 
 12.  **_Indological Method_**: This method is adopted currently by virtually all Vedic Scholars outside India and also by numerous scholars within India. It is has the greatest internal diversity and we have lumped various methods of interpretation of the Vedas only for the sake of convenience. Several members of this school take the Rigveda to be an Indo-European text that must be interpreted with the help of parallel traditions in the other branches of the Indo-European language family. Linguistics and Philology are relied upon heavily. Some Indologists like Ludwig suggested wholesale emendations in the traditionally handed texts, whereas others, like Max Mueller, strongly advocated the accuracy of the traditionally handed text. Scholars like Oldenberg completely rejected the traditional commentaries like those of Sayana, while others like Pischel emphasized that the Vedas are Indian texts and ought to be interpreted keeping in mind Indian paradigms as reflected in the traditional commentaries. Indologists of course take into account the Vedic Vyakarana, Nirukta and the Brahmanas and Kalpasutras into account, but are often also seen to reject their testimony on various grounds, some of which are highly conjectural. For instance, the AIT was taken as gospel truth in the past and accordingly a lot of hymns were interpreted as if they represented battles between tall, fair, long nosed Aryans and black, short native Indians. The most remarkable contributions of these scholars have been the creation of massive concordances, indices and scholarly exegetical notes on the Vedic texts (besides publishing critical editions of the same), correlation of ideas mentioned in the Vedic texts with parallel ideas in other literary traditions, analysis of the internal chronology of these texts and composition of exhaustive commentaries and translations in various languages. At times however, some of this work appears to be mere conjecture dressed up in jargon of the field, and too divorced from what the Vedic tradition has to say about itself. Nevertheless, an intensive study of both modern as well as old exegetical traditions is a must for comprehending the Vedic texts.
 
- 
-
-
 Polytheism, monotheism, monism have all been read into the Vedic hymns. Max Muller even coined the term “henotheism”, as the transitional stage between polytheism and monotheism in the hymns. It is the opinion of modern scholarship that the Vedic hymns reveal the gradual progress of philosophical thought i.e., from polytheism to monotheism to monism. This major flaw in interpretation is not surprising when it is understood that such an opinion springs from viewing Indian philosophy through a Western philosophical looking glass.
-
-
- 
-
 
 The fundamental difference between Western philosophy and Indian philosophy, especially the scriptures, is that while Western philosophy tries to uncover the real with the use of the intellect, Indian philosophy is basically an attempt to logically reconcile the world of experience with the spiritual experience of the sages. The sages – Yajnavalkya, the Buddha, Mahaveera – had experienced reality – unlike Western philosophers they’re not speculating, analyzing with the help of reason what reality may be – they know what it is. They have experienced it and using analogies they try to describe it. Indian scholarship is more interested in seeking the ‘fruit’ of Vedic studies, whereas the Western scholarship concerned primarily with the ‘roots’ of the Vedic texts and words.
 
-
- 
-
-
 The scriptures are not to be interpreted as progress in philosophical thought. What’s claimed as polytheism and monotheism is but the identification of the various manifestations of the One Supreme Being. Unity in the Divine is what the Vedic Sages have proclaimed as the highest teaching and numerous verses supporting this are spread across each Veda, from the first mantra portion to the last Upanishad portion: “the One real which the wise declare as many”; “Purusha is all this, all that was and all that will be”; “the real essence of the Gods is one”; “The same real is worshipped as Uktha in the Rg, Agni in the Yajus and Mahavrta in the Saman”; “the indescribable is the ground of all names and forms, the support of all the creation”; “He is immanent in all this creation and yet he transcends it”.
-
-
- 
-
 
 Likewise the different parts of the Veda – Mantras, Brahmanas, Aranyakas and the Upanishads – too don’t signify the progress of philosophical thought. The Veda is a whole package towards spiritual liberation. One cannot directly start with the Upanishads, which teach the highest truth. One must first develop the physical, mental and moral maturity to be eligible to learn such truth. The Mantras, Brahmanas and parts of the Aranyakas serve such a purpose. The four parts of each Veda can also be mapped to the four stages of life (ashrama) of the twice born (dvija). As a student (brahmachArin) one is to chant the hymns and live a life of control and virtue. As a householder (grhasta) one is to observe the injunctions laid forth in the brAhmanas. In the forest dweller stage (vAnaprastha) one is to meditate upon the spiritual truths behind the rituals as explained in the Aranyakas and practice austerity. With the mental and moral maturity developed during the three previous stages one can finally take up the life of a wandering mendicant (samnyAsin) and study the highest truth taught in the Upanishads. Such is the orthodox Indian view.
 
-
- 
-
-
-### H. An Anthology:
-
-
- 
-
+### H. An Anthology
 
 The literature being surveyed in this section is indeed vast- about 8 times the length of the Bible. Therefore, we can only incorporate a small fraction of passages for the reader. The translations have been adapted from various published popular and scholarly works.
 
-
- 
-
-
 ###### A. From Rigveda Samhita
-
-
- 
-
 
 **1. Hymn to Agni RV 1.1.1-9**
 
-
 I praise Agni, put at the head of the sacrifice, God, priest, Hotr, distributing great riches. ||1||
-
 
 Agni is fit to be praised by former and also by present seers; he shall bring the gods here.||2||
 
-
 Through Agni one expects to gain day by day, wealth, indeed prosperity, which is honorable, most abundant in heroes. ||3||
-
 
 Agni, the ritualistic sacrificial worship which you are pervading everywhere, assuredly goes to the gods. ||4||
 
-
 Agni, Hotr, wise, truthful, having most wonderful fame, God, may he come with the gods. ||5||
-
 
 Indeed O Agni! When you intend to bestow good fortune to the worshipper, that Angiras is surely your truth. ||6||
 
-
 Daily, O Agni! The lighter of darkness, we approach you with prayer, bearing obeisance. ||7||
-
 
 We come to you, who are ruler of sacrificial rites, guardian of cosmic law, bright, growing in your home. ||8||
 
-
 Agni, be easily accessible to us, like father to son, accompany us for good fortune. ||9||
-
-
- 
-
 
 **2. Hymn to Indra (Rigveda VIII.45.1-3)**
 
-
 Let those who come here light the fore and spread the grass in unbroken line, who have Indra, ever young, for a friend. ||1||
-
 
 Large the fuel, great is the chant, and high is the sacrificial pole of those who have Indra, ever young, for a friend. ||2||
 
-
 Irresistible in war, the hero drives the foe with warriors, who have Indra, ever young, for a friend. ||3||
-
-
- 
-
 
 **3. Jnana Sukta (Rigveda X.71.1-11)**
 
-
 When, Lord of our Prayer! The First of the sacred Speech, and the Foremost,
-
 
 The sages uttered, giving the Un-named a name.
 
-
 Which was their best, and their most stainless, 
-
 
 Then they, with love, revealed the Divine secret in their souls. ||1||
 
-
- 
-
-
 When the sages formed the Speech with their mind,
-
 
 Straining it, as they strain flour with the sieve,
 
-
 Therein have friends discovered the bonds of friendship,
-
 
 Whose holy beauty lies hidden in that Speech. ||2||
 
-
- 
-
-
 With worship they followed the steps of the Speech,
-
 
 And found it installed in the hearts of sages.
 
-
 They acquired it and gave it at many places,
-
 
 And seven singers intone it together. ||3||
 
-
- 
-
-
 There is the man who sees but has not seen the Speech!
-
 
 There is the man who hears but has not heard her!
 
-
 But to another, Lady Speech reveals her lovely form,
-
 
 Like a loving wife, finely robed, to her husband. ||4||
 
-
- 
-
-
 There is a man who, they say, is firm and secure in friendship,
-
 
 None should urge him to contests.
 
-
 But he wanders, with an illusion that is barren,
-
 
 And the speech he hears bears no fruit or flower! ||5||
 
-
- 
-
-
 For one deserting a friend who knows the truth,
-
 
 There is no grace even in the holy Speech.
 
-
 What he hears, he hears amiss,
-
 
 Aye, to be sure, he does not know the path of righteousness! ||6||
 
-
- 
-
-
 Friends who are well endowed with sight and hearing,
-
 
 Are unequal in the quickness of their mind.
 
-
 Some look like pools that reach to the mouth or the armpit,
-
 
 And some like lakes on which a man can bathe. ||7||
 
-
- 
-
-
 When, with the mental impulse shaped by the Spirit,
-
 
 Friends who know the Speech perform rituals together,
 
-
 Some are left back with much they still need to know,
-
 
 While others move onward, regarded as adepts. ||8||
 
-
- 
-
-
 Those, who go neither backward nor forward,
-
 
 Are no men of knowledge!
 
-
 Nor performs of the sacred rites, they, the inept ones, 
-
 
 sinfully seize the Speech,
 
-
 And spread it out as weavers weave the thread. ||9||
-
-
- 
-
 
 All a delighted when a friend comes,
 
-
 Crowned with fame, a victor in the Assembly.
-
 
 He wards off their sins, wins for them nurture,
 
-
 And is always prepared for the tribulations of life. ||10||
-
-
- 
-
 
 One is strong with the power of the verses,
 
-
 The second sings the song in the Sakvari measure.
-
 
 The third, an adept, speaks of the knowledge of the Spirit,
 
-
 And the last lays down the rules of the sacred rites. ||11||
-
-
- 
-
 
 **4. Purusha Sukta (Rigveda X.90.1-16)**
 
-
 Purusha is 1000 headed, 1000 eyed, 1000 footed;
-
 
 And, pervading the earth on all sides
 
-
 He exists beyond the 10 directions. ||1||
-
 
 (Purusha = Immanent, Creator God)
 
-
- 
-
-
 Purusha indeed is all this,
-
 
 What has been and what will be,
 
-
 And the Lord of immortality
-
 
 Transcending by mortal nurture. ||2||
 
-
- 
-
-
 Such is his magnificence, but
-
 
 Purusha is greater than this;
 
-
 All beings are a fourth of him,
-
 
 Three fourths- his immortality-lie in heaven. ||3||
 
-
- 
-
-
 Three-fourths of Purusha ascended,
-
 
 The fourth part was here again and again,
 
-
 And, diversified in form, it moved
-
 
 To the animate and the inanimate world. ||4||
 
-
- 
-
-
 From him was Viraj born, and
-
 
 From Viraj was born Purusha;
 
-
 And, as soon as born, he spread over
-
 
 The earth from behind and front. ||5||
 
-
- 
-
-
 When with Purusha as offering
-
 
 The Devas performed a sacrifice,
 
-
 Spring was the molten butter, summer
-
 
 The fuel, and autumn the oblation. ||6||
 
-
- 
-
-
 On the grass they besprinkled him,
-
 
 The Sacrifice Purusha, the first born,
 
-
 With Him the gods sacrificed,
-
 
 And those Sadhyas and the Rishis. ||7||
 
-
- 
-
-
 From that sacrifice, fully offered,
-
 
 Was gathered the mixed milk and butter. 
 
-
 And animals ruled by Vayu arose
-
 
 The sylvan and the domestic. ||8||
 
-
- 
-
-
 From that sacrifice, fully offered,
-
 
 The Rik and the Saman were born,
 
-
 The Chhandas was born of that,
-
 
 And from that was the Yajus born. ||9||
 
-
- 
-
-
 From that were born horses, and the
-
 
 Animals with two rows of teeth;
 
-
 Yea, kine were born of that, and
-
 
 Of that were born the goat and the sheep. ||10||
 
-
- 
-
-
 When they divided the Purusha, 
-
 
 Into how many parts did they arrange him?
 
-
 What was his mouth? What were his two arms?
-
 
 What are his thighs and feet called? ||11||
 
-
- 
-
-
 The brAhmana (priest) was his mouth, 
-
 
 If his two arms were made the rAjanya (kshatriya - warrior),
 
-
 His two thighs the vaishya (merchant and agriculturist),
-
 
 From his feet the shudra (laborer class) was born. ||12||
 
-
- 
-
-
 From his mind was born the moon, and
-
 
 From his eye the sun. From his mouth
 
-
 Were Indra and Agni born,
-
 
 And Vayu was born from his breath. ||13||
 
-
- 
-
-
 From his navel came the mid-air,
-
 
 From his head the sky was fashioned,
 
-
 From his feet the earth, and from his ear,
-
 
 The quarters. Thus they formed the worlds. ||14||
 
-
- 
-
-
 Seven were the sticks of the enclosure
-
 
 Thrice seven the logs of wood prepared,
 
-
 When the gods, performing the rite,
-
 
 Bound, as their victim, Purusha. ||15||
 
-
- 
-
-
 With sacrifices the gods worshipped the Sacrifice,
-
 
 Those were the earliest holy ordinances.
 
-
 The mighty Ones attained the height of heaven
-
 
 Where the ancient Devas, the Sadhyas, abide. ||16||
 
-
- 
-
-
 **5. The Nasadiya Hymn (Rigveda X.129-1-7)**
-
-
- 
-
 
 Neither Being nor nor-Being existed then;
 
-
 There was no sky, nor the heaven, which is beyond.
-
 
 What covered? Where was it and in whose shelter?
 
-
 Was the water the deep abyss in which it lay? ||1||
-
-
- 
-
 
 There was no death, hence neither was anything immortal;
 
-
 There was no distinction between night and day.
-
 
 By its inherent force the One breathed windless;
 
-
 Nothing other than that existed. ||2||
-
-
- 
-
 
 Darkness there was,
 
-
 In the beginning all this was a sea without light;
-
 
 That which, becoming, by the void was covered,
 
-
 That One by the force of heat came into being. ||3||
-
-
- 
-
 
 Desire entered the One in the beginning,
 
-
 It was the earliest seed, the product of thought.
-
 
 The Sages searching in their hearts with wisdom
 
-
 Found the bond of Being in non-Being.
-
 
 Their ray extended light across the darkness;
 
-
 But was the One below or was it above?
-
 
 Creative force and fertile power was there;
 
-
 Below was energy and will, above. ||4-5||
-
-
- 
-
 
 Who knows for certain? Who shall declare it here?
 
-
 When was it born and when came the creation?
-
 
 The Gods came later,
 
-
 Who then knows when it arose? ||6||
-
-
- 
-
 
 None know when creation has arisen;
 
-
 Whether he made it or did not make it,
-
 
 He who surveys it in the highest heaven,
 
-
 Only He knows, or maybe even he knows not! ||7||
-
-
- 
-
 
 **6. Samjnana Sukta (Rigveda X.191.2-4)**
 
-
- 
-
-
 Walk together in harmony, speak in harmony
-
 
 Let your minds be of one accord,
 
-
 As the gods of old, being of one mind,
-
 
 Accepted the share of sacrifice
 
-
 (so may you share your belongings). ||2||
-
-
- 
-
 
 May your counsel be common, your assembly united,
 
-
 Common the mind, and the thoughts of these- united.
-
 
 A common purpose do I lay before you,
 
-
 And worship with your common oblation. ||3||
-
-
- 
-
 
 Let your aims be common,
 
-
 And your hearts of one accord,
-
 
 And all of you be of one mind,
 
-
 As you may live well together. ||4||
-
-
- 
-
 
 #### B. From Atharvaveda Samhita  (Shaunaka Shakha)
 
-
- 
-
-
 **1. Abhaya Sukta (freedom from fear)- XIX.15.1-6**
-
-
- 
-
 
 Free us Indra, from the fear of all that we are afraid of,
 
-
 May Thou, with thy saving power,
-
 
 Turn away the hater and the enemy. ||1||
 
-
- 
-
-
 We beseech Indra, the bounteous Giver,
-
 
 We will be prosperous on men and cattle.
 
-
 Let not the evil powers approach us;
-
 
 Turn the hostiles who surround us, away. ||2||
 
-
- 
-
-
 Adorable Indra, our Savior,
-
 
 The slayer of Vritra, fulfiller of our highest ambitions;
 
-
 May he be our protector from yonder,
-
 
 From the middle, from behind and from the front. ||3||
 
-
- 
-
-
 Lead us to a free world, Wise One!
-
 
 Where lie the divine luster, sunlight and security.
 
-
 Valiant are Thy arms of Thee, the Almighty,
-
 
 And we seek shelter in them. ||4||
 
-
- 
-
-
 May the mid regions free us from all fear,
-
 
 And both the Heaven and Earth make us secure.
 
-
 Let there be for us, no fear from the west,
-
 
 No fear from the east, no fear from the north and no fear from the south. ||5||
 
-
- 
-
-
 Let there be no fear from friend, no fear from foe,
-
 
 No fear from the known, no fear from that which lies before us unkown.
 
-
 Let there be no fear for us from night, no fear from day,
-
 
 May all the directions be my friends! ||6||
 
-
- 
-
-
 **2. Sabha Sukta VII.12.1-4**
-
-
- 
-
 
 May the Assembly and the Council
 
-
 the two daughters of Prajapati, be in concord and protect me!
-
 
 May every one I meet guide me;
 
-
 Fathers, may I speak finely in the meetings. ||1||
-
-
- 
-
 
 I know thy name, O Assembly,
 
-
 “The Desired of Men” is the name thoy hast;
-
 
 May all those who are thy members
 
-
 Agree with me in my opinion. ||2||
-
-
- 
-
 
 Let us receive the brilliance 
 
-
 And the wisdom of those seated here together;
-
 
 And among those people assembled here
 
-
 Make me the illustrious, Indra! ||3||
-
-
- 
-
 
 Whether your thoughts are turned away
 
-
 Or are bound fast here and here,
-
 
 I turn those thoughts of yours around,
 
-
 In me may your thoughts delight. ||4||
-
-
- 
-
 
 #### C. Paippalada Atharvaveda Samhita
 
-
- 
-
-
 **1. Brahmasukta (AVP VIII.8.1-12)**
-
 
 “(It is) The Supreme Being (Who) first spread out the mighty powers collected in Him
 
-
 (It is) The Supreme Being (Who) first spread out the heavenly lights everywhere
-
 
 Verily, The Supreme Being was born as first Lord of all that exists
 
-
 Who, then is fit to be this Supreme Being’s rival” ||1||
-
-
- 
-
 
 “These Heaven and Earth are Supreme Being,
 
-
 The seven currents are The Supreme Being
-
 
 All the Adityas are Supreme Being
 
-
 (Verily) All the divine beings contemplate upon the Supreme Being.” ||2||
 
-
-** **
-
+****
 
 **“**The Brahmanas speak of (the glories of) the Supreme Being (during the day)
 
-
 (But) The Supreme Being verily is present (also) in the night.
-
 
 From The Supreme Being is born the {light} (of the Sun that brightens the day),
 
-
 By the Supreme Being does fire shine with great splendour (at night). ||3||
-
-
- 
-
 
 “The Supreme Being abides in food producing plants
 
-
 And it is He who causes the rains (which give life to these plants) to descend.
-
 
 (Indeed) The Supreme Being  is inner animating Soul of all this
 
-
 As long as the sun shines bright. “ ||4||
-
-
- 
-
 
 “ The Supreme Being is the priest who recites the chants during the ritual,
 
-
 The Supreme Being is (also) the ritual 
-
 
 As well as the chants being recited with great precision.
 
-
 From the Supreme Being arises the priest who pours the oblation into the fire
-
 
 {Within} the Supreme Being {is present} the oblation.”  ||5||
 
-
- 
-
-
 “The Supreme Being is the fire altar, brimming with clarified butter,
-
 
 The Supreme Being are the bulls possessing the beneficent seed,
 
-
 The Supreme Being are the cows, that yield the oblation going into the ritual fire,
-
 
 The Supreme Being is he who, seated in the divine chariot, attains the well performed magnificent ritual.”  ||6||
 
-
- 
-
-
 “By the (will of the) Supreme Being the inert (thing) moves (and thus becomes dynamic)
-
 
 By the (will of the) Supreme Being does the body unite (with life).
 
-
 By the (will of) Supreme Being does the outward breath return to the man with great trembling.” ||7||
-
-
- 
-
 
 “From the Supreme Being arise the Holy Seers
 
-
 From the Supreme Being (arise) these Kshatriyas
-
 
 From the very same Supreme Being are born the Brahmanas
 
-
 From the Supreme Being (arise) the {food producing third caste (vaishyas). }”
-
 
 “{The Supreme Being are indeed these Shudras serving the Kshatriyas,
 
-
 The Supreme Being are all they who perceive.}  
-
 
 The Supreme Being are all these benevolent officials
 
-
 {The Supreme Being are all these members of the assembly.}” ||8-9||
-
-
- 
-
 
 “The Supreme Being are the fishermen, 
 
-
 The Supreme Being are the servants, 
-
 
 The Supreme Being indeed are these gamblers. 
 
-
 Man as well as woman originate from the Supreme Being
-
 
 Women are God and so are men.”  ||10||
 
-
- 
-
-
 “ The Supreme Being is in the highlands, the Supreme Being is in the lowlands, (indeed) the Supreme Being envelops from all directions. 
-
 
 Trees, mountains and in shrubs or creepers,
 
-
 (Verily) The Supreme Being abides in these all.
-
 
 The Earth and the Heavens
 
-
 The Supreme Being abides in both” ||11||
-
-
- 
-
-
- 
-
 
 #### D. Madhyandina Yajurveda Samhita
 
-
- 
-
-
 I take refuge in the Rik, the word;
-
 
 I take refuge in the Yaju, the mind;
 
-
 I take refuge in the Saman; the breath;
-
 
 I take refuge in sight and hearing.
 
-
 Energy of speech with strength and my in-breath and outbreath! 36.1
-
-
-
-
 
 Whatever defect I have of eye, of heart, of mind,
 
-
 Or whatever excess there is,
-
 
 May Brihaspati remedy it.
 
-
 Gracious to us be the Lord of the Universe! 36.2
-
-
- 
-
 
 Indra is King over all;
 
-
 May there be grace on the biped, grace on the quadruped. 36.8
-
-
- 
-
 
 May the wind blow us health,
 
-
 And the sun shine cheer on us,
-
 
 And may the clouds with loud thunder
 
-
 Rain their grace on us. 36.10
-
-
- 
-
 
 The peace in the sky, the peace in the mid-air,
 
-
 The peace on the earth, the peace in waters,
-
 
 The peace in plants, the peace in forest trees,
 
-
 The peace in All Devas, the peace in Brahman,
-
 
 The peace in all things,
 
-
 The peace in peace-
-
 
 May that peace come to me! 36.17
 
-
- 
-
-
 Strong One! Make me strong!
-
 
 May all beings look on me with the eye of friend!
 
-
 May I look on all beings with the eye of friend!
-
 
 May we look on one another with the eye of friend! 36.18
 
-
- 
-
-
 That eye of the sky, divinely placed, rising bright before us-
-
 
 May we see for a hundred autums!
 
-
 And may we live for a hundred autums,
-
 
 And may we hear for a hundred autums,
 
-
 May we hold our heads high for a hundred autums,
-
 
 Yea, even more than a hundred autums. 36.24
 
-
- 
-
-
 #### E. Taittiriya Samhita
-
-
- 
-
 
 “Yonder sun was in this world. The gods seizing it on all sides with the Prishtha (lauds) made it go to the world of heaven. They seized it with Para (Samans) from below. And with Divakirtya (Saman), they placed it in the world of heaven. With Para (Saman), they seized it from above, and with the Prishtha (lauds), they descended from heaven. Yonder sun, indeed, in this world of heaven is seized on all sides by the Para (Samans).” 7.3.10
 
-
- 
-
-
 #### F. Kathaka Samhita
-
-
- 
-
 
 “Apah (waters) certainly were such in which everything was dissolved. He, Prajapati, assuming an air like form moved to and fro on a lotus leaf. He did not find a resting place. He saw his net or nest of waters. He arranged this Agni in the midst of water. It became this earth. Then he took its seat. This earth is Agnih”. 22.9
 
-
- 
-
-
 #### G. From the Aitareya Brahmana
-
 
 “Some ask- ‘If a man establishes the sacrificial fire and then dies while touring abroad, then how does one do his Agnihotra. To this, we reply that it is to be performed by offering the oblation of the milk of a cow which has been suckled by a calf that is not its own. This is because the milk of such a cow is akin in nature to the Agnihotra of such a dead man. Alternately, perform the Agnihotra with the milk of any cow. Others state the relatives of the dead man should keep the alters of that man fired up without offering sacrificial oblations till the bones of the dead man have been collected after cremation of his corpse. And if the corpse is not traceable, then twigs from 360 ‘flame of the forest’ trees should be cut and fashioned into a human figure. This should then be cremated with full ceremony and at that time, the fires from the altar established by the dead man should be extinguished by a transfer to his funeral pyre. The likeness of the corpse should be created in this manner- 150 twigs for the torso, 140 for the twigs for the two thighs. 50 for the legs and the rest should be placed above its head. Thus ends the procedure for the atonement performed for a man who establishes a sacrificial fire in the altar but dies while touring abroad.” XXXII.1-2
 
-
- 
-
-
 #### I. Tandya Brahmana
-
-
- 
-
 
 “Prajapati certainly was alone before this Universe. The word certainly was his only possession. Therefore, the word was the second. He desired: ‘Let me emit this very word, it will pervade this whole (space). He emitted the word and it pervaded the whole (space). It rose upwards and spread, as a continuous (well joined) stream of water.” 20.14.2
 
-
- 
-
-
 #### J. Shankhayana Aranyaka
-
 
 Chapter XIII: Thereafter, when the body is made fit for a state of desirelessness, he should be bent over the offering to Brahman. In this way, he will drive repeated deaths away. “The Soul is to be envisioned, to be heard, to be thought of and to be meditated upon.” “Him (the Soul) they aspire to know by reciting the Vedas, by practicing the rigors of studentship (including celibacy), by asceticism, by faith, by ritual sacrifices and by fasting” says Sage Mandukeya. “Therefore, he who knows this should, becoming tranquil, restrained (in senses), still in meditation, enduring of the opposites and immersed in faith, perceive the Soul in his own soul,” thus says Sage Madavya. That Purusha, who lives in the midst of life forces, and is a repository of consciousness, is incomprehensible and ought to be distinguished (form the animate and inanimate creation) as ‘Not this, Not this’ this.” “This Soul alone is the Kshatriya, it is the Brahminhood, it is all the divine beings, the Vedas, all the worlds, it is all beings, indeed it is all! This Soul is that is designated by ‘Tat tvam asi’ (That Thou are). This Soul is to be comprehended in ‘I am Brahman’. This Brahman (the Supreme Soul), without any predecessor, without any superior, without another equivalent, immanent in all, without an exterior (i.e. all pervading), is this Soul- the Brahman (the Supreme Being), the entity that experiences everything in the Universe- such is the doctrine”- says Sage Yajnavalkya. 
 
-
 Chapter XIV: The best of the Riks, the best of the Yaju mantras, pinnacle of the Saman chants, the crown of the head of the Atharvans- he who studies not the Veda is indeed called ignorant. He (as if) cleaving is head himself, becomes a corpse.” (And) he is but a (lifeless) pillar that bears a burden, who recites the Veda without knowing the meaning of his chants. (But) he who knows the meaning along wins prosperity. He rises to Heaven, shaking off his sin through Spiritual Knowledge.”
-
-
- 
-
 
 #### K. From the Taittiriya Aranyaka
 
-
- 
-
-
 1. “He by Whom all this Universe is pervaded- the earth and the mid region, the heaven and the quarters and the sub-quarters, that Purusha is fivefold and is constituted of 5 elements. He who has attained the Supreme Knowledge through Samnyasa (renunciation) is indeed this Purusha. He is all that is perceptible in the present, was perceptible in the past and will be perceptible in the future. Though apparently human, His true nature is that which is settled by the Vedas and what is attained by his new birth is in right knowledge. He is firmly established in the richness of knowledge imparted by His teacher, as also in his faith and in Truth. He has become the self resplendent. Being such a one, He remains beyond/separate the darkness of ignorance. O Aruni! Having become one possessed of knowledge by realizing Him, the Supreme, through Samnyasa, and with your mind fixed in your heart, do not again fall a prey to death. Because Samnyasa is this the supreme means of spiritual realization, therefore wise men declare that to be above all the means of salvation.”  X.79.16
-
 
 “O Supreme Being! You are the bestower of the wealth of supreme saving knowledge to us. You have become this entire Universe. You unite with the individual soul as the Sutratman (the inner pervading Soul of all individual souls). You pervade the entire Universe. You impart luster to fire. You impart heat and light to the sun. You impart the treasure of light to the moon. You are taken in the Upayama vessel as Soma Juice for oblation. We worship Thee, the Supreme, who are such for manifestation of light.” X.79.17
 
-
- 
-
-
 **2. Narayana Sukta (Prapathaka X, Anuvaka 13)**
-
 
 “This universe is the Eternal Being (Narayana), the imperishable, the supreme, the goal, multi-headed and multi-eyed (i.e.,omnipresent and omniscient), the resplendent, the source of delight for the whole universe. This universe is the Supreme Being (Purusha) alone; hence it subsists on That, the Eternal which transcends it (in every way), -the omnipresent Absolute which destroys all sins. The protector of the universe, the Lord of all Souls (or Lord over Self), the perpetual, the auspicious, the indestructible, the Goal of all creation, the Supreme object worthy of being known, the Soul of all beings, the Refuge unfailing (is He).  The Lord Narayana is the Supreme Absolute; Narayana is the Supreme Reality; Narayana is the Supreme Light; Narayana is the Supreme Self; Narayana is the Supreme Meditator; Narayana is the Supreme Meditation.  Whatever all this universe is, -seen or heard of, -pervading all this from inside and outside alike, stands supreme the Eternal Divine Being (Narayana). He is the Limitless, Imperishable, Omniscient, residing in the ocean of he heart, the Cause of the happiness of the universe, the Supreme end of all striving, (manifesting Himself) in the ether of the heart which is comparable to an inverted bud of the lotus flower.  Below the Adams apple, at a distance of a span, and above the navel (i.e., the heart which is the relative seat of the manifestation of Pure Consciousness in the human being), effulges the Great Abode of the universe, as if adorned with garlands of flames. Surrounded on all sides by nerve-currents (or arteries), suspends the lotus-bud of the heart in an inverted position. It is in a subtle space (a narrow aperture, the Sushumna-Nadi), and therein is to be found the Substratum of all things. In that space within the heart resides the Great Flaming Fire, undecaying, all-knowing, with tongues spread out in all directions, with faces turned everywhere, consuming food presented before it, and assimilating it unto itself. His rays, spreading all around, side ways as well as above and below, warm up the whole body from head to foot. In the center of That (Flame) abides the Tongue of Fire as the topmost of all subtle things. (Note: Due to the attachments and entanglements of the Jiva in worldly enjoyment and suffering, the Consciousness is enshrouded in potential as well as expressed objectivity, and hence it appears like a tiny streak of flame within the dark clouds of ignorance. But when the Jiva rises above worldliness the Consciousness is realized as he Infinite.) Brilliant like a streak of lightning set in the midst of the blue rain-bearing clouds, slender like the awn of a paddy grain, yellow (like gold) in colour, in subtlety comparable to the minute atom, (this Tongue of Fire) grows splendid. In the Middle of That Flame, the Supreme Self dwells. This (Self) is Brahma (the Creator), Siva (the Destroyer), Hari (the Protector), Indra (the Ruler), the Imperishable, the Absolute, the Autonomous Being. Prostrations again and again to the Omni-Formed Being, the Truth, the Law, the Supreme Absolute, the Purusha of blue-decked yellow hue, the Centralised-Force, Power, the All-Seeing One. Prostrations again and again to the Omni-Formed Being, the Truth, the Law, the Supreme Absolute, the Purusha of blue-decked yellow hue, the Centralised-Force, Power, the All-Seeing One.  We commune ourselves with Narayana, and meditate on Vasudeva, may that Vishnu direct us (to the Great Goal). 
 
-
 Om. May there be Peace, Peace, Peace!”
-
-
- 
-
 
 #### L. Maitrayani Aranyaka
 
-
 “They said: ‘Revered one, you are the teacher, you are the teacher. What has been said has been duly fixed in mind by us. Now answer a further question. Fore, air, sun, time, whatever it is, breath, food, Brahma, Rudra, Vishnu- some meditate upon one, some meditate upon another. Tell us- which one is the best for us?’ Then he replied to them: “All these are merely the manifest/frontal forms of Brahman, the Immmortal, the Formless. To whichever form each man is devoted here, in the realm of that deity does that man rejoices. For it has been said- ‘Verily, this whole is Brahman. Verily, these, which are its manifest forms that one meditates on, worships and discards. For by meditation upon these forms, one moves into higher and higher realms. And when all things perish, he attains unity with the Purusha!” IV.5-6
-
 
 ### Family Values in the Veda
 
@@ -7141,7 +5708,6 @@ Om. May there be Peace, Peace, Peace!”
 As vigorous Sindhu won himself imperial lordship of the streams so be the imperial queen, when you have come within your husband’s home. AVS 14.1.43
 
 ### The Purpose of Our Lives
-
 
 #### Vedic Concept of Life
 
@@ -7171,7 +5737,6 @@ O Rudra! Do not kill our men, do not kill our cows, do not kill our horses. RV 1
 
 I proclaim to the wise man not to kill a cow which is sinless, the mother of the Rudras, the daughter of the Vasus, sister of the Adityas and the navel of immortality. RV 8.101.15
 
-
 #### Charity and Friendship
 
 O Pusan! Urge even him to give, who does not want to give. Melt even the mind of the miser so that he gives. RV 6.53.3
@@ -7182,9 +5747,9 @@ May I see all people with the eye of a friend.
 
 May we all see each other with the eyes of a friend. MYV 36.18
 
-### Political Concepts in the Veda 
+### Political Concepts in the Veda
 
-#### Vedas and Nationhood:
+#### Vedas and Nationhood
 
 May Varuna, Vayu and Agni provide us a great Nation fit for living. AVS 3.8.1
 
@@ -7200,7 +5765,6 @@ I have taken birth in this Nation, may the Lord make me glorious and prosperous 
 
 #### Vedas on Universal Brotherhood of Mankind
 
-
 ##### Religious Tolerance
 
 May this Earth, bearing people speaking varied languages, and performing diverse rites, as one dwelling place, pour, like a constant cow that never refuses o be milked, a thousand streams of treasure, to enrich me. AVS 12.1.45
@@ -7209,49 +5773,33 @@ May this Earth, bearing people speaking varied languages, and performing diverse
 
 The entire Universe has become a Nest. MYV 32.8
 
-##### References:
+##### References
 
 A. General References on Vedic Hermeneutics
-
-
 
 1. CHAUBEY, B. B. 1997. Vedic Concepts. Katyayan Vedic Sahitya Prakashan: Hoshiarpur (Punjab). pp. viii + 80
 2. KHOSLA, Inder Dev. 1993. Chips from a Vedic Workshop. D. A. V. College Managing Committee: New Delhi
 3. 
 
- 
-
-
 **|| OM Shantih Shantih Shantih OM ||**
-
 
 **************
 
-
 **********
-
 
 *******
 
-
 *****
 
-
-
 ## The Upanishads: An Alphabetical List
-
 
 The Upanishads are the best known, and the most authoritative texts of Hindu spirituality. They form the core of Vedanta, a school of philosophy now generally taken as a synonymn for Hindu philosophy and spirituality.[^169] Generally, the Upanishads are taken to mean the 10 odd texts, which have been commented upon by by notable Vedantins like Sri Sankaracarya and Sri Madvacharya[^170]. However, Hindu tradition recognizes more than 200 texts as Upanishads. Collectively, these texts deal with a wide variety if topics – spirituality, devotion, yoga, asceticism, sectarian worship and meditation, esoteric meanings of rituals and even magical charms[^171].
 
 This paper lists, in an alphabetical order, the names of all texts designated as ‘Upanishads’, ‘Brahmana-Upanishad’ and ‘Upanishad-Brahmana’ by the Hindu tradition. Under each name, the following additional information will be provided –
 
-
-
 1. Alternate names of the text[^172]
 
-
 2. Major recensions of the text[^173]
-
 
 3. Some good printed editions of the text.
 4. Relationship with Vedic literature, if any.
@@ -7259,8 +5807,6 @@ This paper lists, in an alphabetical order, the names of all texts designated as
 6. A brief survey of contents, except when the text under consideration is well known, or too large and heterogenous.
 
 The following important pieces of information have been omitted in this paper. –
-
-
 
 1. An exhaustive list of translations and commentaries on the text
 2. Chronological information
@@ -7275,14 +5821,13 @@ Some scholarly readers might consider my selection of individual ‘Upanishadic�
 
 It is reasonable to assume that several Upanishads have also been lost over the last three millennia, much like the bulk of Vedic literature. Occassionally, one encounters quotations from these lost Upanishads in later literature. Appendix I lists these lost Upanishads, along with with references to later texts that cite them[^187].
 
-
 #### Achamana Upanishad
 
 Manuscript exists at Adyar [SCHRADER 1908:ii]
 
 ### Advaita Upanishad
 
-### Advayataaraka Upanishad:
+### Advayataaraka Upanishad
 
 1. Bhashya of Appayadiksita
 
@@ -7291,8 +5836,6 @@ Manuscript exists at Adyar [SCHRADER 1908:ii]
 ### Aitareya Upanisad (Comprising Aranyakas 2-3 of the Aitreya Aranyaka).
 
 Also called Atmashatakopanishad because it is often divided into 6 khandas in traditional commentaries.
-
-
 
 1. Shankaracharya: Only the commentary on Aranyaka 3.4-6 is normally printed. Manuscripts at Calcutta, RAS (#217) however cover the entire Aranyaka 2-3 and the entire commentary has actually been printed.
 2. Shadagurushishya: He has written a commentary called ‘Mokshaprada’ on the entire Aitareya Aranyaka. The commentary has been published only partially.
@@ -7337,11 +5880,11 @@ Also called Atmashatakopanishad because it is often divided into 6 khandas in tr
 41. Patrick Olivelle: Text and English translation, with notes on and a mention of the relevant Indological publications on various passages of the Upanishad.
 42. Valerie Roebuck.
 
-### Aksamalikopanishad:
+### Aksamalikopanishad
 
 1. Bhashya of Appayadikshita at Adyar [SCHRADER 1908:123] exists in a manuscript at Adhyar.
 
-### Aksyupanishad:
+### Aksyupanishad
 
 The text has two northern and 1 southern versions. Of the northern version, there are two tyoes – a shorter one called the Netropanishad, and a longer one titled the Asyupanishad. In the version that is prevalent in southern India, there are two parts. The first part is called the ‘Cakushmati vidyaa’ and is practically identical with the entire text of the northern version. The second part is a brahmavidyaa of the seven Yogabhumikas, and is absent in the northern version. This brahmavidyaa comprises of 38 or 39 shlokas.
 
@@ -7354,8 +5897,6 @@ The Upanishad as such does not admit that Allah is the deity of another religion
 Attempts to integrate this spurious text with the Vedic tradition are seen in the existence of even a jaTaapaaTha manuscript, with accents [SCHRADER 1908:68]. 
 
 **Amrtabindu: **See also Amrtanaada Upanishad below.
-
-
 
 1. Dipika of Narayana Bhatta, son of Ratnakara Bhatta (1275-1350 CE)
 2. Dipika of Sankarananda
@@ -7372,12 +5913,9 @@ The northern version has the dipika of Narayana on it. The Southern version has 
 
 There is a separate text titled Amtrabindu Upanishad as well, which is also called the Brahmabindu Upanishad at times.
 
-
-
 1. Dipika of Samkarananda 
 2. Vyaakhya of Narayana [Thangaswami 1980:6]. Published in the Ananda Asrama Series
 3. Vivarana of Upanishad Brahmendra
-
 
 ### Annapurnopanishad
 
@@ -7387,13 +5925,9 @@ There is a separate text titled Amtrabindu Upanishad as well, which is also call
 
 ### Aranya Upanishad
 
-
-
 1. Dipika of Narayana Bhatta (aka Narayana Ashrama), son of Ratnakara Bhatta
 
 ### Aruneya Upanishad
-
-
 
 1. Dipika of Shankarananda
 2. Bhashya by Sankarananda
@@ -7407,14 +5941,10 @@ There is a separate text titled Amtrabindu Upanishad as well, which is also call
 
 1. Persian translation by Dara Shikoh
 
-
-
 1. English translation by Bhandarkar
 2. 
 
 ### Aruni Upanishad
-
-
 
 1. Dipika of Sankarananda (1275-1350 CE)
 2. Dipika of Narayana Bhatta – it appears that this commentary was written after the author had read the Dipika of Shankaranand [Thangaswami 1980:7].
@@ -7431,8 +5961,6 @@ The northern recension is also known by the following titles – Atharvasirsham,
 
 The southern recension has the Dipika of Shankarananda and the bhashya of Appayadiksita on it.
 
-
-
 1. Bhashya of Shankaracharya. Spurious work, commentary available at the Adyar Library [Thangaswami 1980:6].
 2. Bhasya of Rangaramanuja Muni
 3. Dipika of Narayana Bhatta (1275-1350 CE), son of Ratnakara Bhatta, disciple of Ramendra Sarasvati 
@@ -7442,13 +5970,10 @@ The southern recension has the Dipika of Shankarananda and the bhashya of Appaya
 
 The former has the dipika by Narayana on it, and colophons of manuscripts indicate that it belongs to the Saunakiya Sakha of the Atharvaveda. The latter has the Dipika of Sankarananda on it, and may belong to the Paippalada Sakha. The southern recension also has the bhashya of Appayadiksita (d. 1901) on it. Sometimes, this text is also called the Atharvashiropanishad in manuscripts belong to both the recensions. The Atharvashiras is a separate Upanishad however.
 
-
-
 1. Bhashya of Shankaracharya: Referred to by Narayana Bhatta, but a spurious work [Thangaswami 1980:5]
 2. Dipika of Narayana Bhatta (1275-1350 CE), son of Ratnakara Bhatta and disciple of Ramendra Sarasvati. This is on the Northern recension.
 3. Dipika of Sankarananda (1275-1350 CE): This is on the southern recension of the text.
 4. Vivarana of Upanishad Brahmendra, published by the Adyar Library
-
 
 ### Atharva Sirsha Upanishad
 
@@ -7458,19 +5983,15 @@ The former has the dipika by Narayana on it, and colophons of manuscripts indica
 
 **Atma Upanishad: **This text has two versions. The northern version is completely in prose and has a dipika on it by Narayana. These have been published by Anandasrama, Poona. The Southern version adds 29 shlokas to the prose text, and has been commented upon by Appayadiksita and by Sankarananda.
 
-
-
 1. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 2. Dipika of Sankarananda (1275-1350 CE)
 3. Bhashya of Appayadiksita
 
 **Atmabodhopanishad**: The text exists in two versions. The Northern version is entirely in prose and has a dipika by Narayana (son of Ratnakara Bhatta and pupil of Ramendra Sarasvati) on it, that has been published by Colonel Jacob. The southern version adds 30 shlokas to the former text [SCHRADER 1908:141]
 
-
 ### Atmapuja Upanishad
 
 Manuscript exists at Adyar [SCHRADER 1908:ii]
-
 
 ### Avadhuta Upanishad: Several different texts bear this name [SCHRADER 1908:137-9].
 
@@ -7504,8 +6025,6 @@ Manuscript at Adyar [SCHRADER 1908:iii].
 
 ### Bhavana Upanishad
 
-
-
 1. Bhasya of Bhaskararaya
 2. Bhaskararaya’s ‘prayogavidhi’ [SCHRADER 1908:iii]. 
 3. Bhashya by Appayyadiksita
@@ -7515,8 +6034,6 @@ Manuscript at Adyar [SCHRADER 1908:iii].
 ### Bilvopanishad
 
 **Brahma Upanishad: **It exists in two recensions – the Northern and the Southern. The latter emits the first section of the former.
-
-
 
 1. Commentary by Damodara Sastri
 2. Dipika of Narayana Bhatta, son of Ratnakara Bhatta and pupil of Ramendra Sarasvati on the northern recension
@@ -7531,20 +6048,16 @@ Nothern recension, that has a dipika by Narayana on it.
 
 Southern recension, that has a dipika by Sankarananda, and a Bhashya by Appayyadiksita on it.
 
-### Brahmajijnasa Upanishad:
+### Brahmajijnasa Upanishad
 
-Manuscript atAdyar [SCHRADER 1908:iii]. 
+Manuscript at Adyar [SCHRADER 1908:iii]. 
 
 **Brahmavidya: **Exists in two recensions – the northern and the Southern version. The later omits the forst verse of the northern recension, but adds 97 of its own.
-
-
 
 1. Dipika of Narayana Bhatta, son of Ratnakara Bhatta on the northern recension.
 2. Bhashya of Appayyadiksita, in manuscript at Adyar [SCHRADER 1908:231], on the southern recension.
 
 ### Brhadaranyaka Upanisad
-
-
 
 1. Bhartrprapanca (Bhedabheda): This was on the Madhyandina version of the text
 2. Disciples of Bhartrprapanca: In his Varttika, Suresvara refers to interpretations of # 1 by disciples of Bhartrprapanca
@@ -7584,19 +6097,13 @@ Manuscript atAdyar [SCHRADER 1908:iii].
 
 **Chaturveda Upanishad**: It is an abbreviated version of the Mahopanishad, with some additions from the Atharvasiras.
 
-
-### Chhagaleya Upanishad:
+### Chhagaleya Upanishad
 It belongs to the Chhagaleya sub-recension of the Maitrayani Sakha of Krshna Yajurveda.
-
-
 
 1. Translation into Persian by Dara Shikoh
 2. Paul Duessen’s German rendering of Dara Shikoh’s translation
 
-
 ### Chhandogya Upanishad
-
-
 
 1. Vakyakara Brahmanandin: A brief comment, called the ‘Vakya’. The work is considered lost but extensive quotations from it are encountered in the works of Advaitins and Vishishtadvaitins. I have collected these.
 2. Bhasyakara Dramidacarya: A commentary on # 1 above. Large and small extracts from the Bhashya are encountered in works like Vedarthasamgraha and Shri Bhashya of Shri Ramanujacharya, subcommentaries thereon by Sudarshana Suri, Rudraskanda’s vrtti on Drahyayana Kalpa; Parashara Bhattar’s commentary on the Sri Vishnu Sahasranama and so on. I have collected these.
@@ -7633,14 +6140,11 @@ It belongs to the Chhagaleya sub-recension of the Maitrayani Sakha of Krshna Yaj
 33. Vidushekhara Bhattacharya: Vyakhya on the Upanishad
 34. Pandit Aryamuni: He wrote a commentary on all the ten major Upanishads from an Arya Samaj perspective, with a view to controvert Advaitic interpretations[^189]. 
 
-
 35. Damodara Satavalekara: Commentary in Hindi, cited in the catalog of the Swadhyaya Mandala, but never encountered 
 36. Pundit Shivashankara Kavyatirtha: A very scholarly Hindi-Sanskrit metrical commentary that employs the Vedangas profusely. Written from the Arya Samaj perspective. The work was first published by the Paropakarini Sabha of Ajmer and has been reprinted several times.
 37. Pandit Rajaram Shastri: He wrote a commentary on eleven Upanishads[^190].
 
-
 38. Mahatma Narayana Swami: He wrote a simple but insightful Hindi commentary on the ten major Upanishads from an Arya Samaj perspective[^191].
-
 
 39. Swami Nikhilananda: English translation with extensive notes, based on the Bhashya of Shri Shankaracharya
 40. Sarvapalli Radhakrishnan: English translation with notes from various traditional commentaries
@@ -7657,8 +6161,6 @@ It belongs to the Chhagaleya sub-recension of the Maitrayani Sakha of Krshna Yaj
 3. Maheshvara[^192]
 
 **Chulika Upanishad: **The southern recension of this Upanishad is called the Mantrika Upanishad. In some manuscripts, the Chulika Upanishad, in combination with the Yogasikha Upanishad is termed as the Mantrika Upanishad or the Mantra Upanishad.[^193]
-
-
 
 1. Bhasya of Rangaramanuja Muni
 2. Dipika of Narayana Bhatta, son of Ratnakara Bhatta 
@@ -7681,23 +6183,17 @@ It belongs to the Chhagaleya sub-recension of the Maitrayani Sakha of Krshna Yaj
 
 **Dhyanabindu: **The text exists in two recensions – the shorter Northern Recension, and a 7 times longer Southern Recension.
 
-
-
 1. Dipika of Narayana Bhatta, son of Ratnakara Bhatta on the Northern Recension.
 2. The Bhashya of Appayyadiksita on the Southern Recension, existing in manuscript at Adyar [SCHRADER 1908: 203].
 
-### Dvayopanishad: 
+### Dvayopanishad
 
 **Ganapati Atharvatapini Upanishad: **In north India, it is popularly known as the Ganeshaatharvasisrsam or as Sriganapatyatharvasirsam. It is recited with Vedic accents by Maharashtrian Brahmins. Other names of the same text are Ganesha Upanishad and Vighnesvara Upanishad. Sometimes, it is divided into two parts – the Ganeshapurvatapini Upanishad (also called Varadapurvatapini) and the Ganesha Uttaratapini (also called the Varada Uttaratapini). 
-
-
 
 1. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 2. Bhashya by Appayyadiksita – manuscript exists at Adyar [SCHRADER 1908:170].
 
-### Garbha Upanishad: 
-
-
+### Garbha Upanishad
 
 1. Dipika of Shankarananda
 2. Bhasya of Rangaramanuja Muni
@@ -7713,16 +6209,13 @@ The Northern Recension, of which there are two versions again. The short version
 
 The Southern Recension is longer than even the text published by Weber. A commentary on this Recension by Appayyadiksita exists in manuscript at Adyar [SCHRADER 1908:174-175].
 
-
-### Gayatri Upanishad: 
+### Gayatri Upanishad
 
 It is the first half of the first Upanishad of the Tripuraataapiniyaupanishad I [SCHRADER 1908:99]. Other versions also exist.
 
 **Gayatrirahasya Upanishad:** This is virtually identical with a version of the Gayatri Upanishad. No further information is available.
 
 **Gopala Tapani Upanishad: **Has an Uttaratapini and a Purvatapini.
-
-
 
 1. Commentary by Visvesvara
 2. Dipika by Narayana
@@ -7732,24 +6225,18 @@ It is the first half of the first Upanishad of the Tripuraataapiniyaupanishad I 
 6. Anonymous Vivrtti, manuscript at Adyar [SCHRADER 1908: 178-179].
 7. Commentary by Prabodha Yati[^195].
 
-
 8. Bhashya by Appayyadiksita, manuscript at Adyar [SCHRADER 1908: 178-180].
 
-### Gopichandana Upanishad: 
-
-
+### Gopichandana Upanishad
 
 1. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 
-
-### Guhyakali Upanishad:
+### Guhyakali Upanishad
 This Upanishad purports to be an esoteric portion of the Mahaakaala Samhita. It teaches the Viraat-dhyana in which parts of the Universe are meditated upon as different parts of the body of the Great Devi. The splendour and majesty of the latter is described in beautiful poeti terms, although the bulk of the text consists of slightly modified quotations from older metrical Upanishads, particularly the Svetasvatara. Interestingly, the opening verses state that the principal Sakhas of Atharvaveda, in serial order, are Vaaratantavi, Maunjaayani, Taarnabaindavi, Saunaki, Paippaladika and Saumantavi, and that the Upanishad belongs to all the six of them. 
 
 **GuhyashoDhaanyaasa Upanishad: **It purports to be the esoteric portion of the Shodhopanishad. According to the colophons of the manuscripts containing this text, it belongs to the SaubhaagyakaaNDa of the Atharvaveda.
 
 **Hamsa Upanishad**: The text has two recensions – the northern recension with the dipika of Narayana and the bhashya of Appayadiksita, and the southern version, with the bhashya of Shankarananda.
-
-
 
 1. Dipika of Shankarananda
 2. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
@@ -7760,8 +6247,6 @@ This Upanishad purports to be an esoteric portion of the Mahaakaala Samhita. It 
 **Herambopanishad:** SCHRADER [1908:304] notes that this text is encountered only in conjunction with the Ganeshatapini Upanishad. The text gives an etymology for the name ‘Heramba’, which is a synonym for Lord Ganesha.  Thereafter, Paramesvara teaches the esoteric Heramba-tattva to Parvati. According to this teaching, Sri Ganesha is the god of gods, or the Supreme God. The text is composed in Indravajraa (Upajaati) meter.
 
 ### Isavasya Upanishad
-
-
 
 1. Bhartrprapanca (Bhedabheda Vedanta): Was probably on Madhyandina recension of Yajurveda. No longer extant. Hiriyanna interprets a statement in Anandagiri’s gloss on Suresvara’s Brihadaranyaka Upanishad Varttika to mean that Bhartrprapanca also wrote a commentary on this Upanishad.
 2. Samkaracarya (Advaita Vedanta): This is on Kanva recension of Yajurveda
@@ -7818,8 +6303,6 @@ This Upanishad purports to be an esoteric portion of the Mahaakaala Samhita. It 
 
 **Jabala Upanishad: **It is also alternately called the Laghujaabaala Upanishad, or the Yajnavalkya Upanishad.
 
-
-
 1. Dipika by Samkarananda, the disciple of Acharya Anandatma
 2. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 3. Bhashya by Appayyadiksita, manuscript at Adyar [SCHRADER 1908: 184].
@@ -7832,11 +6315,9 @@ This Upanishad purports to be an esoteric portion of the Mahaakaala Samhita. It 
 
 The second text has two versions, the northern with the Dipika of Narayana[^197], and southern, with the Bhashya of Appayadiksita – manuscript at Adyar [SCHRADER 1908: 138].
 
-
 ### Kaalikopanishad
 
 A shorter recension of the text, titled Syaamopanishad [SCHRADER 1908:68] also exists. According to a manuscript in the devanagari script [ibid:88], the Upanishad belongs to the saubhaagyakaaNDa of the Atharvaveda.
-
 
 ### Kaalimedhaadikshita Upanishad
 
@@ -7848,13 +6329,11 @@ Manuscript at Adyar [SCHRADER 1908:ii]. It discusses the marvelous transformatio
 
 **Kaamakalopanishad: **See Tripuropanishad.
 
-### KaamaraajakIlitoddhara-Upanishad: 
+### KaamaraajakIlitoddhara-Upanishad
 
 Manuscript at Adyar [SCHRADER 1908:ii]. It is a tantric text that discusses how one can enjoy sexual pleasure completely, which itself is considered a way to salvation [ibid, 155].
 
 **Katha Upanisad: **This text is also called the Kathaka Upanishad, Kathakamantra Upanishad and especially in southern India, also as the Kathavalli Upanishad. 
-
-
 
 7. Bhartrprapanca (Bhedabheda)
 8. Samkaracarya (Advaita)
@@ -7901,10 +6380,7 @@ The text is also included in manuscripts containing the collection of 52 Atharva
 
 **Katha Siksa Upanishad: **Published from the first time recently. It is a part of the Kathaka Aranyaka.
 
-
 ### Kathasruti Upanishad
-
-
 
 53. Bhashya of Appaya Dikshit
 54. Vivarana of Upanishad Brahmayogin
@@ -7913,11 +6389,8 @@ Kaulopanishad: Manuscript, with a commentary by Bhaskararaya exists at Adyar [SC
 
 **Katyayana Upanishad**: Manuscript at Adyar [SCHRADER 1908:ii]. It deals with the Urdhvapundra – what materials are used for it, how to apply it on the forehead, and the merit of bearing it on the forehead.
 
-
-### Kaivalya Upanishad:
+### Kaivalya Upanishad
 North Indian manuscripts begin with the Santimantra ‘bhadraM karNebhiH…’ whereas South Indian manuscripts begin with the Santimantra ‘saha naavavatu…’
-
-
 
 1. Aloka of Vijnana Bhiksu
 2. Upanishad-Sarartha Prakasa of Shankarananda 
@@ -7929,23 +6402,17 @@ North Indian manuscripts begin with the Santimantra ‘bhadraM karNebhiH…’ w
 
 ### Kanthasruti
 
-
-
 8. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 
-### Kaulopanishad:
+### Kaulopanishad
 
 1. Bhashya of Bhaskararaya: Manuscript in Adyar [SCHRADER 1908:167].
 
-
 ### Kaushitaki Upanishad
-
-
 
 55. Anandagiri: Tika
 56. Sayanacharya: Bhashya
 57. Dipika of Shankarananda: The text was first published by E. B. Cowell with a translation of the Upanishad proper[^198]. 
-
 
 58. Rangaramanuja
 59. Rangaramanujadasa
@@ -7964,8 +6431,6 @@ North Indian manuscripts begin with the Santimantra ‘bhadraM karNebhiH…’ w
 
 **Kena Upanisad: **The text is known by the following alternative names – Talavakaropanishad, Talavakaarabrahmanopanishad, Brahmanopanishad, Keneshitopanishad. 
 
-
-
 1. Bhavatrata (unkown): Portion of a commentary on the entire Talavakara Aranyaka- manuscript preserved at the Vishvesvaranand Vedic Research Institute at Hoshiarpur, India
 2. Samkaracarya (Advaita): Wrote two commentaries- the more extensive ‘Padabhasya’ and the shorter ‘Vakyabhasya’.
 3. Anandagiri: Sub-commentaries on # 2 above
@@ -7977,7 +6442,6 @@ North Indian manuscripts begin with the Santimantra ‘bhadraM karNebhiH…’ w
 9. Nigudhartha Prakasika by Damodara Sastri
 10. Krishnalilashukamuni authored a ‘Shankarahridayangama’ commentary following Shankaracharya’s commentary on the text.[^200]
 
-
 11. Upanisadbrahmayogin (Paramadvaita): Manuscript preserved at Central Library at Baroda
 12. Bhashya of Appayadikshita (d. 1901) written from an Anubhavadvaitavedanta perspective – exists in manuscript at Adyar [SCHRADER 1908: 165-166]. 
 13. Satya Deva: Kenopanisad-Darpana published by the Vishveshvaranand Institute of Vedic Studies, Hoshiarpur, in 1952
@@ -7986,8 +6450,6 @@ North Indian manuscripts begin with the Santimantra ‘bhadraM karNebhiH…’ w
 **Khilasamhitopanishadrahasya-parivraajakopanishad: **This is the same as Parivraajaka Upanishad.
 
 ### Krshna Uttaratapani Upanishad
-
-
 
 15. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 
@@ -7999,12 +6461,10 @@ The southern version adds a second section in prose to the northern version. It 
 
 ### Kshurika
 
-
-
 16. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 17. Bhashya by Appayyadiksita – manuscript exists at Adyar [SCHRADER 1908: 169].
 
-### Kundikopanishad:
+### Kundikopanishad
 
 1. Bhashya of Appayadiksita, manuscript exists at Adyar [SCHRADER 1908: 163].
 
@@ -8016,12 +6476,10 @@ The southern version adds a second section in prose to the northern version. It 
 
 **Maha Upanishad: **The text exists in numerous recensions, the shorter one belonging to the northern India [SCHRADER 1908:96]. 
 
-
-
 18. Dipika of Shankarananda
 19. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 
-### Mahaavaakya Vivarana Upanishad:
+### Mahaavaakya Vivarana Upanishad
 
 Manuscript at Adyar [SCHRADER 1908:ii, 246] with a commentary by Appayyadiksita.
 
@@ -8029,9 +6487,7 @@ Manuscript at Adyar [SCHRADER 1908:ii, 246] with a commentary by Appayyadiksita.
 
 **Mahaachakraavaranopanishad**: This is same as Tripuraataapinyupanishad.
 
-### Mahanarayana Upanishad: 
-
-
+### Mahanarayana Upanishad
 
 20. Bhatta Bhaskara: It follows the Andhra recension.
 21. Sayanacharya, following the Andhra recension.
@@ -8041,15 +6497,12 @@ Manuscript at Adyar [SCHRADER 1908:ii, 246] with a commentary by Appayyadiksita.
 25. Commentary by Rangaramanujamuni, along Visishtadvaita lines. This is on the Dravida text.
 26. Vivarana by Purushottamaanandatirtha, disciple of Sivaramaanandatirtha. It is composed of verses, with a prose sentence here and there. The work has been published from a solitary manuscript in the Adyar library.[^201] The author himself states towards the end, in verses 543 ff., that he has merely abridged the elaborte commentary of Sayanacharya and that he has followed the DravidapaaTha of the text.
 
-
 27. English translation by Swami Vimalananda
 28. English translation by P. Lal
 29. Hindi translation by Sri Ram Sharma Acharya
 30. French translation by Varenne
 
-### Mandukya Upanishad: 
-
-
+### Mandukya Upanishad
 
 31. Karikas if Gaudapadacharya
 32. Bhasya of Sri Samkaracharya on the Upanishad and the Karikas
@@ -8064,7 +6517,6 @@ Manuscript at Adyar [SCHRADER 1908:ii, 246] with a commentary by Appayyadiksita.
 41. Commentary by Brahmaanda Sarasvati
 42. Commentary by Raaghavendra: This is a commentary on Madhvacharya’s commentary on the Upanishad and is called Mandukya Upanishad Bhashyasamgraha. He also wrote an independent commentary on the Upanishad.[^202]
 
-
 43. Commentary by Mathuraanaatha on Shankaracharya’s commentary on the text.
 44. Bhashya by Appayadikshita (d. 1901) written from an Anubhavadvaitavedanta perspective.
 45. Pandit Gurudatta Vidyarthi: 
@@ -8072,8 +6524,6 @@ Manuscript at Adyar [SCHRADER 1908:ii, 246] with a commentary by Appayyadiksita.
 **Maitrayaniya Upanishad**: Also called Maitrayaniya Aranyaka or Brhadaranyaka of Maitrayaniya Sakha. Other names are Maitrayaniya Brahmanopanishad, Maitrayanopanishad, Maitryupanishad and so on. In some manuscripts, it occurs as a part of the Maitrayaniya Samhita[^203]. It exists in two versions –
 
 The northern recension comprising of seven prapathakas, with the dipika by Ramatirtha on it, and the southern recension comprising prapathakas 1-6.8 of the northern recension. There is another southern recension containing only the first four prapathakas of the northern recension, and this has the bhashya of Appayyadiksita on it.
-
-
 
 46. Bhashya of Sri Samkaracharya
 47. Aloka of Vijnana Bhiksu
@@ -8096,17 +6546,15 @@ Text 2: This is a Vedantic text, itself existing in two recensions. The Northern
 
 **Mantrikopanishad**: This is the southern recension of the Chulikopanishad. It has a commentary on it by Appayyadiksita [SCHRADER 1908: 242-243].
 
-### Mathaamnyaaya Upanishad:
+### Mathaamnyaaya Upanishad
 
-### Mudgala Upanishad: 
+### Mudgala Upanishad
 
 It has the commentary of Appayyadiksita on it.
 
 **Muktika Upanishad: **It has the Bhashya of Appayyadiksita on it.
 
 ### Mundaka Upanisad
-
-
 
 54. Samkaracarya (Advaita)
 55. Bhaskara Bhatta: Manuscripts mentioned by Oppert. It is clear which Bhatta Bhaskara this is since several scholars of this name are known in Hindu history
@@ -8136,8 +6584,6 @@ It has the commentary of Appayyadiksita on it.
 
 **Nadabindu: **There are two recensions of the text – A shorter Northern Recension containing 20 shlokas, and a Southern Recension that adds another 36 shlokas to the former.
 
-
-
 75. Dipika of Narayana Bhatta, son of Ratnakara Bhatta, on the Northern Recension.
 76. Bhashya of Appayadiksita on the Southern Recension, existing in manuscript at Adyar [SCHRADER 1908:203]
 
@@ -8151,15 +6597,11 @@ These Upanishad texts are also termed as Aksikopanishad.
 
 **Nilarudra: **Although considered a ‘late’, ‘sectarian, Shaivite’ text, it is actually an integral portion of the Paippalada Samhita of Atharvaveda – itself the second oldest Hindu scripture.
 
-
-
 77. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 
 **Niralamba Upanishad: **The Upanishad consists of questions such as ‘Who is Brahman’, ‘Who is Paramatman’ and so on.** **There are two recensions of this text – the Northern and the Southern. The Northern recensions itself exists in two versions – a shorter and a longer version. The former is published in Indische Studien, vol.XVII by Weber. The longer version is three times longer than the shorter one because the answers to the questions therein are much more complete, and are embellished with quotations from other texts. According to SCHRADER [1908 1908:207], this longer version rather looks like a commentary on the core text. It is the southern recension that is typically printed in collections of 108 Upanishads, and has a commentary on it (in manuscript) by Appayyadiksita. 
 
 There is even a ‘middle’ recension of the text, that is midway between the Northern and the Southern Recension.
-
-
 
 78. Commentary of Sayanacharya (Ref. 1, Pg. 1394, no. 1765)
 
@@ -8169,16 +6611,12 @@ There is even a ‘middle’ recension of the text, that is midway between the N
 
 ### Nrsimhapurva Tapiniya Upanishad
 
-
-
 79. Commentary by Sri Samkaracharya (considered spurious)
 80. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 81. Dipika of Sankarananda
 82. Commentary by Purushottama
 
 ### Nrsimhottara Tapaniya Upanishad
-
-
 
 83. Commentary ascribed to Gaudapadacharya (considered spurious)
 84. Commentary of Samkaracharya (considered spurious)
@@ -8190,20 +6628,15 @@ There is even a ‘middle’ recension of the text, that is midway between the N
 
 **Paingala Upanishad: **There are two distinct recensions of this work. The shorter recension is merely the first third of the fourth chapter of the longer recension.
 
-
-
 70. Bhashya of Appayyadiksita on the longer version.
 71. Dipika of Upanishad Brahmayogin on the longer version.
 
 **Panchabrahmopanishad:** A manuscript of a bhashya by Appayyadiksita exists at Adyar [SCHRADER 1908:214].
 
-
-### Parabrahma Upanishad:
+### Parabrahma Upanishad
 There are two distinct texts that bear the same name. One lists the various denominations of Brahman and is a prose text. The other has a commentary on it by Appayyadiksita, existing in manuscript [SCHRADER 1908:214-215].
 
 ### Paramahamsa Upanishad
-
-
 
 1. Dipika of Samkarananda, the disciple of Acharya Anandatman
 2. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
@@ -8219,16 +6652,11 @@ There are two distinct texts that bear the same name. One lists the various deno
 
 ### Pinda
 
-
-
 4. Dipika of Narayana Bhatta, son of Ratnakara Bhatta. Maniscript in Jammu in the collection of the erstwhile Maharaja of Jammu and Kashmir[^204].
 ### Pranagnihotra
 
-
-
 5. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 6. Bhashya by Appayyadiksita.
-
 
 ### Pranava Upanishad
 Two distinct texts go by this name. The first is identical with the northern recension of the Brahmavidyopanishad. The second version is identical with Gopatha Brahmana I.1.16-30
@@ -8236,8 +6664,6 @@ Two distinct texts go by this name. The first is identical with the northern rec
 1. Translation into Persian by Dara Shikoh
 
 ### Prasna Upanishad
-
-
 
 7. Bhasya of Sri Samkaracharya
 8. Tika of Anandjnana: This is merely a subcommentary on # 1 above
@@ -8279,20 +6705,15 @@ Two distinct texts go by this name. The first is identical with the northern rec
 
 ### Rama Purvatapaniya Upanishad
 
-
-
 44. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 45. Commentary called ‘Anandanidhi’ or ‘Ramakasika’of Anandavana, the disciple of Raghava and son of Krishna
 46. Tika by Visvesvara: Manuscript exists at Adyar [SCHRADER 1908:64].
 47. Bhashya by Appayaadiksita [SCHRADER 1908:262].
 48. Padavibhushana by Janakinathabhakta[^205]. Manuscript in Jammu in the library of the erstwhile Maharaja of Jammu and Kashmir.
 
-
 49. Commentary by Nagesvara: Manuscript in GOL, Madras[^206].
 
-
 50. Commentary by Rama Yati: Manuscript in GOL, Madras[^207].
-
 
 51. Commentary by Laala Pandita: Manuscript in Jammu in the library of the erstwhile Maharaja of Jammu and Kashmir[^208].
 
@@ -8302,24 +6723,16 @@ Two distinct texts go by this name. The first is identical with the northern rec
 
 2. Padavibhushaa of Janakinathabhakta[^209]: Manuscript in Jammu in the library of the erstwhile Maharaja of Jammu and Kashmir.
 
-
-
 52. Commentary by Nagesvara: Manuscript in GOL, Madras[^210].
-
 
 53. Commentary by Mudgala Suri: Manuscript in GOL, Madras[^211].
 
-
 54. Commentary by Rama Yati: Manuscript in GOL, Madras[^212].
-
 
 55. Commentary by Laala Pandita: Manuscript in Jammu in the library of the erstwhile Maharaja of Jammu and Kashmir[^213].
 
-
 56. Ramachandrajyotsna by Suresvaraashrama[^214].
 ### Rama Upanishad
-
-
 
 57. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 
@@ -8331,7 +6744,7 @@ The Southern Recension: This is a longer version, consisting of 5 chapters of wh
 
 **Rgveda-Jabala Upanishad:** Manuscript at Adyar [SCHRADER 1908:ii]. The text is identical to the Bhasmajaabaalopanishad, with the first section excluded in the former excluded in the latter.
 
-### Rudra Upanishad:
+### Rudra Upanishad
 
 The Upanishad advocates the necessity of devotion to Lord Shiva, without which even a Brahmin becomes a Chandala. It enjoins the wearing of sacred ashes, the shivalinga, and plaits of hair.
 
@@ -8363,11 +6776,9 @@ Sammkhaayana Upanishad:
 
 Several texts in the Shankhayana Aranyaka.
 
-
-### Saarirakopanishad: 
+### Saarirakopanishad
 
 1. Bhashya of Appayadiksita [SCHRADER 1908:278].
-
 
 ### Saatyaaniyopanishad
 
@@ -8376,7 +6787,6 @@ Several texts in the Shankhayana Aranyaka.
 2. Hindi translation by Sri Ram Sharma Acharya
 
 3. English translation by Patrick Olivelle
-
 
 ### Sadananda Upanishad
 
@@ -8398,11 +6808,8 @@ Version II The first adhyaya corresponds to the first two sections of the Kantha
 
 **Sarabha Upanishad**: Exists in a northern and a southern recension. Often called Paippalada Upanishad in manuscripts from North India.
 
-
-
 1. 
 Bhashya by Appayadiksita
-
 
 2. 
 Hindi translation by Sri Ram Sharma Acharya
@@ -8422,7 +6829,6 @@ Version II is a distinct text, and exists in two recensions – The shorter and 
 
 1. Bhashya of Appayadiksita
 
-
 ### Saunaka Upanishad
 
 1. Translation into Persian by Dara Shikoh
@@ -8432,8 +6838,6 @@ Version II is a distinct text, and exists in two recensions – The shorter and 
 1. Bhashya by Appayadiksita
 
 ### Shatachakra Upanishad
-
-
 
 1. Dipika of Narayana Bhatta, son of Ratnakara Bhatta
 
@@ -8449,7 +6853,7 @@ Version II is a distinct text, and exists in two recensions – The shorter and 
 
 Manuscript at Adyar [SCHRADER 1908:iv].
 
-### Sitopanishad: 
+### Sitopanishad
 
 1. Bhashya by Appayadiksita
 
@@ -8463,7 +6867,7 @@ Manuscript at Adyar [SCHRADER 1908:iv, 279-280]. This text is a compendium of th
 
 Manuscript at Adyar [SCHRADER 1908:iv].
 
-### Skandopanishad:
+### Skandopanishad
 
 1. Bhashya of Appayadiksita
 
@@ -8476,8 +6880,6 @@ Manuscript at Adyar [SCHRADER 1908:iv]. It advocates that Lord Krishna is Puruso
 ### Srividyamnaya Upanishad
 
 Manuscript at Adyar [SCHRADER 1908:iv, 285]. It is a tantric text divided into 2 major sections – purvatapini and uttaratapini, which are further divided into 3 khandas each. The Upanishad is in the form of a teaching of Yajnavalkya to his disciple Saamasravas. The contents of the 6 khandas are as follows – 
-
-
 
 1. Pranava, maNidvIpa, sricakra
 2. Creation
@@ -8512,7 +6914,6 @@ Manuscript at Adyar [SCHRADER 1908:iv, 284-5]. The text is in the form of a teac
 
 **Suvarnadharmopanishad:** This is the 11<sup>th</sup> anuvaka of the third prapathaka of the Taittiriya Aranyaka [SCHRADER 1908:297]. 
 
-
 ### Svarupa Upanishad
 
 Manuscript exists at Adyar [SCHRADER 1908:iv]. The text is available in versions that have 25-28 shlokas. Its central theme is ‘I am Brahman’. Some manuscripts also call the text as Brahmanuchintanika, and as Sarvaopanishadsara, and ascribe it to Sri Shankaracharya.
@@ -8524,8 +6925,6 @@ Manuscript exists at Adyar [SCHRADER 1908:iv]. The text is available in versions
 Manuscript at Adyar [SCHRADER 1908:iv]. It is an urdhvapundra vidhi.
 
 ### Svetasvatara Upanishad
-
-
 
 1. Commentary ascribed to Sri Samkaracharya: considered spurious by many scholars
 2. Prakasika by Vidyaranya (Ref. 2, Pg. 70)
@@ -8542,8 +6941,6 @@ Manuscript at Adyar [SCHRADER 1908:iv]. It is an urdhvapundra vidhi.
 **Syaamopanishad**: The text is practically identical to the first 1/3 of the Kaalikopanishad.
 
 **Taittiriya Upanisad: **The Atharvana version of the text lacks the first valli, as well as the section following ‘suvarNajyotiH ya evaM veda ityupanishat’. 
-
-
 
 1. Vrtti of Kaundinya: According to Taittiriya Kandanukramani and the Grhyasutras of Apastamba, Baudhayana and Hiranykeshi, Kundin or Kaundinya wrote a Vritti on the Taittiriya texts. The nature of this vritti is not made clear, although a ‘Kaundinya Kalpa’ is mentioned in the Tantravarttika of Kumarila Bhatta. Therefore, there is insufficient evidence to conclude that Kaundinya indeed wrote a commentary on the Taittiriya Upanishad. The Siksha text of Kaundinya on the Taittiriya Shakha however survives and has been printed.
 2. Bhashya of Guhadeva: The explanation of Guhadeva on a mantra occurring in the Taittiriya Aranyaka is quoted  in a commentary on Nirukta. Since the Vedantin Shri Ramanujacharya recalls Guhadeva as his ideological predecessor in his work ‘Vedarthasangraha’, it is often surmised that Guhadeva must have authored a commentary on the Taittiriya Upanishad. However, the evidence is clearly insufficient to warrant such a conclusion.
@@ -8618,8 +7015,6 @@ Manuscript at Adyar [SCHRADER 1908:iv]. It is an urdhvapundra vidhi.
 
 **Tejobindu: **There are two recensions of the text -
 
-
-
 1. The Northern Recension with the Dipika of Narayana Bhatta, son of Ratnakara Bhatta. This is a very short text of 14 verses only.
 2. The Southern Recension which is much longer than the Northern Recension. This text adds 448 slokas to the Northern Recension. The first 36 slokas transfer the subject of Yoga to a more ideal plan, followed by a discourse of Lord Siva to Kumaara (Chapter II of 42 verses) on Akhandaikarsachintmatrasvarupa. The third chapter, of 74 slokas deals with Atmanubhava, and the fourth chapter, consisting if 81 slokas, deals with Jivanmukta. The fifth is an explanation to Nidaagha by Rbhu on Atmaanaatmaviveka in 105 verses. The sixth chapter, consisting of 110 verses is another Advaitic discourse by Rbhu and the text finally concludes with a warning that the great Shaiva/Shaankariya teaching should not be repeated to an unworthy person. This longer version has a commentary on it by Appayaadiksita, that exists in manuscript at Adyar [SCHRADER 1908: 187-188].
 
@@ -8641,20 +7036,17 @@ Tripuraatapinyupanishad: This text is commonly known as Sundaritapinyupanishad a
 
 **Turiiyatiita Upanishad or Turiiyatiitaavdhuta Upanishad:** A manuscript of a Bhashya by Appayyadiksita exists at Adyar [SCHRADER 1908: 185].
 
-
 ### Urdhvapundra Upanishad
 
 Manuscript at Adyar [SCHRADER 1908:ii].
 
 **Uttarajaabaalopanishad**: The same text is also known as Bhasmajaabaalopanishad.
 
-### Uttaranarayana Upanishad: 
+### Uttaranarayana Upanishad
 
 This is actually anuvakas 13 and 38 of the Andhra recension of the 10<sup>th</sup> prapathaka of the Taittiriya Aranyaka [SCRADER 1908:148].
 
 **Vajrasuchika Upanishad**: Often attributed to Sri Samkaracharya, but really speaking, based on an older work of Asvaghosha- a Buddhist scholar. 
-
-
 
 1. A subodhini tika ascribed to Shankaracharya also exists in manuscript at Adyar [SCHRADER 1908:77, 97].
 2. A commentary by Asvaghosha, written from a Buddhist perspective, also exists in manuscript [ibid: 112]
@@ -8663,29 +7055,23 @@ This is actually anuvakas 13 and 38 of the Andhra recension of the 10<sup>th</su
 
 The text exists in three recensions. 
 
-
-
 1. 
 The Northern recension[^217] is titled ‘Sri Shankaracharya’s Vajasuchyupanishad-subodhini’ in manuscript colophons and has three parts. The first part defines who is a Brahmin. The second part discusses the nature of moksa while the last part explains the Mahavakya. 
 
-
 2. 
 The Southern recension is practically identical to the first part of the northern recension. It has a commentary by Appayadiksita. 
-
 
 3. 
 The Vajrasuci by Asvaghosha is actually a Buddhist commentary on the text by Asvaghosha. It cites numerous texts from Sruti and Smrti.
 **Vanadurga Upanishad**: It is a lengthy text containing the mantras, meditations, eulogies (staves), prayer-rituals connected primarily with the Vindyavasini Durga. Included also are a Vishnu Puja, a Rudra Gayatri, a Garuda mantra and also the accented text of Allopanishad [SCHRADER 1908:272-273].
 
-### Varaaha Upanishad: 
+### Varaaha Upanishad
 
 Two versions of this text exist [SCHRADER 1908:271-2]. The first version has the commentary of Appayadiksita on it. The second version is the teaching of Varaaha avatara of Lord Vishnu to Sage Sanatkumara on the Urdhvapundravidhi. 
 
-### Vastusutra Upanishad:
+### Vastusutra Upanishad
 
 ### Vasudeva Upanishad
-
-
 
 1. Dipika of Narayana Bhatta, son of Ratnakara Bhatta. Ed. by Colonel Jacob in the collection titled ‘Eleven Upanishads’.
 2. Bhashya by Appayadiksita.
@@ -8702,7 +7088,6 @@ Yajnopavita Upanishad: It is a Vishnava text.
 
 **Yajnavalkyopanishad:** This text exists in two versions. One is identical with the Jaabaalopnaishad. The second corresponds to sections 4-6 of Jaabaalopanishad, but adds 24 shlokas. This version has a bhashya by Appayyadiksita on it.
 
-
 ### Yogachudamani Upanishad
 
 This has the bhashya of Appayyadiksita on it.
@@ -8713,22 +7098,16 @@ This has the bhashya of Appayyadiksita on it.
 
 **Yogasikha: **This text has two versions: 
 
-
-
 1. The shorter Northern version, with the dipika of Narayana Bhatta, son of Ratnakara Bhatta.
 2. The longer Southern version comprising of 6 chapters containing 392 shlokas. The northern version is merely the first chapter of the southern version [SCHRADER 1908: 260-261]. This version has the bhashya of Appayyadiksita on it.
 
-### Yogatattva: **The text exists in two versions** -
-
-
+### Yogatattva
+**The text exists in two versions** -
 
 1. The shorter version, that has a dipika of Narayana Bhatta, son of Ratnakara Bhatta
 2. The longer version, which begins with the first two verses of the shorter version, ads 127 new verses and then concludes with the complete smaller text omitting only the penultimate verse of the same [SCRADER 1908:259]. This version has a Bhashya of Appayyadiksita on it and appears to be confined to South India.
 
-
 ### References
-
-
 
 1. **Shastri, Mahamahopadhaya Haraprasad**; 1923; A descriptive catalogue of Sanskrit manuscripts in the Government collection under the care of the Asiatic Society of Bengal, Vol. II--Vedic Manuscripts; Asiatic Society of Bengal, Calcutta
 2. **Oppert, Gustav**; 1885; Lists of Sanskrit Manuscripts in Private Libraries of South India; Vol. 1; Govt. Press; Madras; Gustav Oppert; Lists of Sanskrit Manuscripts in Private Libraries of South India; Vol. 2; Govt. Press; Madras
@@ -8745,7 +7124,6 @@ SCHERMAN, L. 1887. Philosophische Hymnen aus der Rig-und Atharvaveda-Sanhita. St
 SCHRADER, F. Otto. 1908. A Descriptive Catalogue of the Sanskrit Manuscripts in the Adyar Library (Theosophical Society), Vol. I (Upanisads). Oriental Publishing Co., Ltd.: Mylapore and Georgetown
 
 WINTERNITZ, Maurice. 1962. A History of Indian Literature, Vol. I, Part I, (Introduction and Veda). Third Edition. Translated from the Original German Edition (1907) by S. Ketkar. University of Calcutta: Calcutta
-
 
 <!-- Footnotes themselves at the bottom. -->
 ### Notes
