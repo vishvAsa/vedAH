@@ -60,3 +60,6 @@ unicode_script = "devanagari"
 > Taittiriya samhita in ashvamedha mantras has this: In the long list of svAhAkAras, it has R^igbhyassvAhA, yajurbhyassvAhA, sAmebhyassvAhA and angirobhyassvAhA.  
 > Taittiriya brAhmaNa 3.12.8.2 has this passage: It enumerates R^iks, yajushes, sAmans and continues with atharvAngirasas, itihAsa puraNas and the vidyas of sarpa and deva janas.  
 > Taittiriya Upanishad of yajurveda in brahmAnandavalli (8.3.1) on manomaya kosha has yajur as the head, R^iks and sAmans as the wings and atharvAngirasa as the tail. This establishes taittiriya upanishad is aware of all the 4 veda.  
+
+## parallel shrauta
+> The AV practitioners are associated with the role of the Brahman but in reality have their own parallel śrauta tradition. - MT
