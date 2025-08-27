@@ -34,4 +34,3 @@ MuzhTagh Ata, near Tajikistan
 ## आक्रमणस्मृतिः
 > prajā́ dakṣiṇā́ 'bhi-jáyantīr yanti (MS 4.7.9)  
 > "their descendants go southward, conquering."
-
