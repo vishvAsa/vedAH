@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>वेदे विश्वासटिप्पन्यः  | 02 Language, Syntax and Recursiveness</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.143.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/" rel="alternate" type="application/rss+xml" title="वेदे विश्वासटिप्पन्यः" />
+    <link href="/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/" rel="feed" type="application/rss+xml" title="वेदे विश्वासटिप्पन्यः" />
+
+    <meta property="og:url" content="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/">
+  <meta property="og:site_name" content="वेदे विश्वासटिप्पन्यः">
+  <meta property="og:title" content="02 Language, Syntax and Recursiveness">
+  <meta property="og:description" content="When I use the term ‘language’, what I have in mind is languages such as English or Sanskrit, modern or classical, world languages or tribal languages. Languages change and evolve over time. They are born and they die. They belong to or originate in a specific community though they may be adopted by others and become widespread. But language is a system in which everything hangs together, où tout se tient as de Saussure put it.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="meta">
+
+  <meta itemprop="name" content="02 Language, Syntax and Recursiveness">
+  <meta itemprop="description" content="When I use the term ‘language’, what I have in mind is languages such as English or Sanskrit, modern or classical, world languages or tribal languages. Languages change and evolve over time. They are born and they die. They belong to or originate in a specific community though they may be adopted by others and become widespread. But language is a system in which everything hangs together, où tout se tient as de Saussure put it.">
+  <meta itemprop="wordCount" content="1967">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="02 Language, Syntax and Recursiveness">
+  <meta name="twitter:description" content="When I use the term ‘language’, what I have in mind is languages such as English or Sanskrit, modern or classical, world languages or tribal languages. Languages change and evolve over time. They are born and they die. They belong to or originate in a specific community though they may be adopted by others and become widespread. But language is a system in which everything hangs together, où tout se tient as de Saussure put it.">
+<script type="text/javascript">
+    
+    let baseURL = "https:\/\/vishvAsa.github.io\/vedAH\/";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022build_img\u0022:\u0022https:\/\/github.com\/vishvAsa\/vedAH\/actions\/workflows\/build.yml\/badge.svg\u0022,\u0022build_url\u0022:\u0022https:\/\/github.com\/vishvAsa\/vedAH\/actions\/workflows\/build.yml\u0022,\u0022contactlink\u0022:\u0022https:\/\/github.com\/vishvAsa\/vedAH\/issues\/new\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vishvAsa\/vedAH\/edit\/content\/\u0022}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022,\u0022unicode_script\u0022:\u0022devanagari\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022title\u0022:\u0022ऋग्वेदः\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022यजुर्वेदः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022सामवेदः\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022संस्कारः\u0022,\u0022url\u0022:\u0022..\/devaH\/\u0022},{\u0022title\u0022:\u0022आगमः\u0022,\u0022url\u0022:\u0022..\/AgamaH\/\u0022},{\u0022title\u0022:\u0022आगमः शैवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_shaivaH\/\u0022},{\u0022title\u0022:\u0022आगमः वैष्णवः\u0022,\u0022url\u0022:\u0022..\/AgamaH_vaiShNavaH\/\u0022},{\u0022title\u0022:\u0022रामानुजीयम्\u0022,\u0022url\u0022:\u0022..\/rAmAnujIyam\/\u0022},{\u0022title\u0022:\u0022माध्वम्\u0022,\u0022url\u0022:\u0022..\/mAdhvam\/\u0022},{\u0022title\u0022:\u0022आगमः ब्राह्मः\u0022,\u0022url\u0022:\u0022..\/AgamaH_brAhmaH\/\u0022},{\u0022title\u0022:\u0022कल्पान्तरम्\u0022,\u0022url\u0022:\u0022..\/kalpAntaram\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022वेदाः - ऋक्\u0022,\u0022url\u0022:\u0022..\/vedAH_Rk\/\u0022},{\u0022title\u0022:\u0022वेदाः - यजुः\u0022,\u0022url\u0022:\u0022..\/vedAH_yajuH\/\u0022},{\u0022title\u0022:\u0022वेदाः - साम\u0022,\u0022url\u0022:\u0022..\/vedAH_sAma\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\/\u0022},{\u0022title\u0022:\u0022पुराणम् वैष्णवम्\u0022,\u0022url\u0022:\u0022..\/purANam_vaiShNavam\/\u0022},{\u0022title\u0022:\u0022महाभारतम्\u0022,\u0022url\u0022:\u0022..\/mahAbhAratam\/\u0022},{\u0022title\u0022:\u0022रामायणम्\u0022,\u0022url\u0022:\u0022..\/rAmAyaNam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022},{\u0022title\u0022:\u0022भाषान्तरम्\u0022,\u0022url\u0022:\u0022..\/bhAShAntaram\/\u0022},{\u0022title\u0022:\u0022English Lit\u0022,\u0022url\u0022:\u0022..\/english\/\u0022},{\u0022title\u0022:\u0022Book pub\u0022,\u0022url\u0022:\u0022..\/book-pub\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022..\/\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vishvAsa.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022भागाः\u0022}}");
+    
+    var pageRelUrlTree = {};
+</script>
+
+    
+    <script type="text/javascript">
+  let pageVars = {};
+  pageVars.pageUrlMinusBasePath = "\/vedAH\/meta\/articles\/staal\/discovering_vedas\/3_ANALYSING_THE_VEDAS\/11_Mantras\/02_Language_Syntax_and_Recursiveness\/".replace(basePath, "/");
+  pageVars.pageParams = {};
+  pageVars.pageSource = "meta\/articles\/staal\/discovering_vedas\/3_ANALYSING_THE_VEDAS\/11_Mantras\/02_Language_Syntax_and_Recursiveness.md";
+  console.log(pageVars.pageSource);
+  var pageDefaults;
+  for (let possiblePageDefaults of pageDefaultsList) {
+    if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+      pageDefaults = possiblePageDefaults.values
+    }
+  }
+    
+</script>
+
+
+    <script src="/vedAH/webpack_dist/uiLib-bundle.js"></script>
+
+
+
+
+
+
+
+    <link rel="stylesheet" href="/vedAH/webpack_dist/uiLib.css">
+<link rel="stylesheet" href="/vedAH/css/uiLibPrint.css" media="print" >
+<link rel="stylesheet" href="/vedAH/css/fonts.css" >
+<link rel="stylesheet" href="/vedAH/css/@fortawesome/fontawesome-free/css/solid.min.css">
+
+<link rel="stylesheet" href="/vedAH/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/" />
+<link rel="alternate" hreflang="sa-Deva" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=devanagari" />
+
+<link rel="alternate" hreflang="sa-Knda" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=kannada" />
+<link rel="alternate" hreflang="sa-Mlym" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=malayalam" />
+<link rel="alternate" hreflang="sa-Telu" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=telugu" />
+<link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=tamil_superscripted" />
+<link rel="alternate" hreflang="sa-Taml" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=tamil" />
+<link rel="alternate" hreflang="sa-Gran" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=grantha" />
+
+<link rel="alternate" hreflang="sa-Gujr" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=gujarati" />
+<link rel="alternate" hreflang="sa-Guru" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=gurmukhi" />
+<link rel="alternate" hreflang="sa-Shar" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=sharada" />
+<link rel="alternate" hreflang="sa-Dogr" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=dogra" />
+<link rel="alternate" hreflang="sa-Phag" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=phags_pa" />
+<link rel="alternate" hreflang="sa-Tibt" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=tibetan" />
+<link rel="alternate" hreflang="sa-Sidd" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=siddham" />
+<link rel="alternate" hreflang="sa-Newa" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=newa" />
+<link rel="alternate" hreflang="sa-Modi" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=modi" />
+<link rel="alternate" hreflang="sa-Tirh" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=tirhuta_maithili" />
+<link rel="alternate" hreflang="sa-Gong" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=gondi_gujala" />
+<link rel="alternate" hreflang="sa-Gonm" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=gondi_masaram" />
+
+
+<link rel="alternate" hreflang="sa-Orya" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=oriya" />
+<link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=assamese" />
+<link rel="alternate" hreflang="sa-Beng" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=bengali" />
+<link rel="alternate" hreflang="sa-Mtei" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=manipuri" />
+<link rel="alternate" hreflang="sa-Sinh" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=sinhala" />
+<link rel="alternate" hreflang="sa-Limb" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=limbu" />
+<link rel="alternate" hreflang="sa-Lepc" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=lepcha" />
+
+
+<link rel="alternate" hreflang="sa-Cyrl" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=cyrillic" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iso" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=iso" />
+<link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=iast" />
+<link rel="alternate" hreflang="sa-Aran" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=urdu" />
+<link rel="alternate" hreflang="sa-Avst" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=avestan" />
+
+<link rel="alternate" hreflang="sa-Brah" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=brahmi" />
+<link rel="alternate" hreflang="sa-Khar" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=kharoshthi" />
+<link rel="alternate" hreflang="sa-Zanb" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=zanbazar_square" />
+<link rel="alternate" hreflang="sa-Bhks" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=bhaiksuki" />
+
+<link rel="alternate" hreflang="sa-Bali" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=balinese" />
+<link rel="alternate" hreflang="sa-Java" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=javanese" />
+<link rel="alternate" hreflang="sa-Laoo" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=lao" />
+<link rel="alternate" hreflang="sa-Laoo-t-sa-Laoo-m0-Laopali" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=lao_pali" />
+<link rel="alternate" hreflang="sa-Mymr" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=burmese" />
+<link rel="alternate" hreflang="sa-Mymr-t-sa-Mymr-m0-Mon" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=mon" />
+<link rel="alternate" hreflang="sa-Cham" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=cham" />
+<link rel="alternate" hreflang="sa-Khmr" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=khmer" />
+<link rel="alternate" hreflang="sa-Thai" href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/?transliteration_target=thai" />
+
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow noPrint">
+    <nav role="navigation" class="col">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/" class="btn col border">
+            <i class="fas fa-gopuram ">वेदे विश्वासटिप्पन्यः <br/> 02 Language, Syntax and Recursiveness</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <button class="btn btn-light"  href="#transliterationDropdown" data-toggle="collapse">
+            ✍
+          </button>
+          <select id="transliterationDropdown" size="1" class="collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          <div>
+          <button class="btn btn-outline-secondary btn-sm"  href="#transliterationDropdownAlt" data-toggle="collapse">
+          (✍)
+          </button>
+          <select id="transliterationDropdownAlt" size="1"  style="font-size:12px" class="bg-light-yellow collapse" onchange="module_uiLib.default.content.updateTransliteration()">
+            <optgroup label="🌍">
+              <option value="iso">āISO</option>
+              <option value="iso_vedic">āi-āu</option>
+              <option value="cyrillic">пу</option>
+              <option value="urdu">نس</option>
+              <option value="??">🌍??</option>
+            </optgroup>
+            <optgroup label="🛕🧭S">
+              <option value="kannada">ಅ</option>
+              <option value="malayalam">അ</option>
+              <option value="telugu">క</option>
+              <option value="tamil_superscripted">க²</option>
+              <option value="tamil_extended">க</option>
+              <option value="grantha">𑌅</option>
+            </optgroup>
+            <optgroup label="🛕🧭N">
+              <option value="devanagari" selected="">स</option>
+              <option value="gujarati">અ</option>
+              <option value="gurmukhi">ਅ</option>
+            </optgroup>
+            <optgroup label="🛕🧭E">
+              <option value="oriya">ଅ</option>
+              <option value="assamese">অস</option>
+              <option value="bengali">অ</option>
+            </optgroup>
+            <optgroup label="🛕🏺📜">
+              <option value="sharada">𑆑𑇀𑆰</option>
+              <option value="brahmi">𑀅</option>
+            </optgroup>
+            <optgroup label="🛕🌋">
+              <option value="balinese">ᬩᬮᬶ</option>
+            </optgroup>
+          </select>
+          </div>
+          <div class="row col d-flex  dropdown">
+            <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              A±
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(2)">A+</a>
+            <a class="btn btn-secondary btn-sm" onclick="module_uiLib.changeTextSize(-2)">A-</a>
+            </div>
+          </div>
+          <button class="btn btn-light btn-sm"  href="#commentStyleDropdown" data-toggle="collapse">
+            🗨
+          </button>
+          <select id="commentStyleDropdown" class="collapse" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamsAndGo({'expandDetails': '.*'})">↕️️</a></div>
+          <div id="printStyleDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-light btn-sm dropdown-toggle"  href="#printStyleDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          🖨
+          </button>
+            <div class="dropdown-menu col" aria-labelledby="printStyleDropdown">
+              <div class="row justify-content-center">
+                <p>Cols:</p>
+                <input type="number" min="1" max="10" value="2" step="1" id="tbColumns" style="width: 3ch;"  accesskey="c"/>
+              </div>
+              <div class="row justify-content-center">
+                <p>A±:</p> <input type="text" id="tbBodyFontSize" value="0.4cm" style="width: 6ch;"  accesskey="f"></input>
+              </div>
+              <div class="row justify-content-center">
+                <p>Incl:</p> <input checked type="checkbox" id="tbIncludeStyle" value="on"></input>
+                <button id="btnPrintStyle" onclick="module_uiLib.default.content.updatePrintStyle()">🖨
+                </button>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div id="audioDiv" class="row col d-flex  dropdown">
+          <button class="btn btn-secondary-outline btn-sm dropdown-toggle" type="button" id="audioDropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            🎧
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a id="speakerButton" class="btn btn-outline-secondary btn-sm" onclick="module_uiLib.default.content.handleSpeakToggle()">⏯</a>
+          <button id="speakerPauseButton" class="btn btn-outline-secondary btn-sm">⏸</button>
+            <div id="audioOptionsDiv" class="row justify-content-center" >
+              <div>
+                <p class="lead">Vol</p>
+                <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+                <span id="volume-label" class="ms-2">1</span>
+              </div>
+              <div class="mx-5">
+                <p class="lead">Rate</p>
+                <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+                <span id="rate-label" class="ms-2">1</span>
+              </div>
+              <div>
+                <p class="lead">Pitch</p>
+                <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+                <span id="pitch-label" class="ms-2">1</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="https://vishvAsa.github.io/vedAH/search"  class="btn btn-light btn-sm">🥽🔦</a>
+        <div class="row col  d-flex justify-content-center">
+          <div><a id="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a id="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border noPrint " id="sidebar">
+          <div id="fastSearch">
+              <datalist id="pageDataList"></datalist>
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
+          </div>
+          <details open  class="bg-light-gray" >
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
+            Menu
+              </summary>
+              <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
+              </ul>
+          </details>
+      </aside>
+      <main class="col p-3" role="main" data-pagefind-body>
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="02 Language, Syntax and Recursiveness">02 Language, Syntax and Recursiveness</h1>
+    
+    <a id="editLink" class="btn btn-primary noPrint"  href="https://github.com/vishvAsa/vedAH/edit/content/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border noPrint ">
+    <details id="toc_header">
+        <summary>What's in this page?</summary>
+      <div id="toc_body" class="p-0">
+        
+        <ul id="toc_ul" class="list p-0">
+        </ul>
+      </div>
+    </details>
+    <div id="progressBarDiv" class="row d-flex justify-content-center">
+      🐎💪<progress id="progressLoading" value="0" max="100"> 32% </progress>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>When I use the term ‘language’, what I have in mind is languages such as English or Sanskrit, modern or classical, world languages or tribal languages. Languages change and evolve over time. They are born and they die. They belong to or originate in a specific community though they may be adopted by others and become widespread. But language is a system in which everything hangs together, <em>où tout se tient</em> as de Saussure put it.</p>
+<p>The scientific study of language or linguistics distinguishes three domains: Phonology, Syntax and Semantics. Phonology deals with the sounds of language. It is typically concerned with such differences as Śākalya studied when he made his distinction between Saṃhitā and Padapāṭha in Chapter 4. It is dependent on structures of the mouth and the inner and outer ear, which restrict the sounds of human language and distinguish it from the chirping of birds or the mowing of cows which are also systems of sound that are used for communication but are not language.</p>
+<p>Syntax deals with the structure of sentences. It distinguishes statements from questions or commands, actives from passives, future and past tenses, singular and plural and many other modes and categories. It may or may not be restricted by word order.</p>
+<p>Semantics deals with meaning, that is, the world to which language refers, which it denotes or connotes, addresses, hears, sees, smells, remembers, listens to, imagines or depicts. Language does this by means of words but not only words. Semantics is closely connected with syntax because we understand not only words but also sentences. Which is primary—word meaning or sentence meaning—is a favourite topic of discussion among Indian linguists and philosophers of language. Words are, obviously, more manageable than sentences. They constitute a finite set and can be listed in a dictionary or encyclopaedia, in alphabetical or another order. Sentences are infinite in number.</p>
+<p>How can sentences be infinite in number and how can infinite numbers of things be learned or interiorated? First, we have to know what infinity means. It means indefinitely large. An example is the set of integers: 1, 2, 3, 4, 5,…. It is infinitely large not because we arrive, at a certain moment, at an integer written with a special symbol that stands for ‘infinite’. It means: whenever ‘1’, belongs to it, the next number ‘2’ also belongs to it; and if ‘2’ belongs to it, ‘3’ does too. The set of integers is infinite because for each of its members, the next member is also a member and there is no end to that …. As it happens, ‘2’ is the same as ‘1 + 1,’ ‘3’ is the same as ‘2 + 1’, etc. We are able to express it neatly with the help of a little algebra: the set of integers has infinitely many members, because for any number <em>n</em>, it also has the next number: <em>n</em> + 1. That process can be repeated as often as we like and the number of natural numbers is therefore indefinitely large. There is no upper limit.</p>
+<p>Returning to language we have seen that the number of words is finite but the number of sentences is infinitely large. This is due to a property of syntax called <em>recursiveness</em>. It means that also in language a structure may be repeated indefinitely often without there being an upper limit. An example from English is ‘<em>He said A</em>’, where ‘<em>A</em>’ is a sentence. That structure is repeated in <em>He said that he said A</em>; and once more in <em>He said that he said that he said A.</em> And so on. The reader may object that such sentences do not actually occur in English. It is true, but some English sentences cannot be analysed without presupposing that such structures underlie them, e.g., <em>Betty told me that Kumar, when asked about his opinion, immediately said that he had said A already.</em> When such sentences get longer they become increasingly unintelligible, but their underlying recursive structure remains the same. In other cases, the intelligibility or unintelligibility continues unabated, as in teacher’s lineages (<em>guruparamparā</em>) such as: ‘Pautimāṣya from Gaupavana, Gaupavana from Kauśika, Kauśika from Kauṇḍinya, Kauṇḍinya from Śaṇḍilya, Śaṇḍilya from Kauśika and Gautama, Gautama from Āgniveśya’ etc. in the Bṛhad-Āraṇyaka Upaniṣad.</p>
+<p>Do we actually find very long sentences in natural languages? I am not a writer so I cannot construct a good example but the reader who is familiar with any of the following may look at Sanskrit compounds, a page of the Kādambarī, Navya-Nyāya, Proust or Thomas Mann. Take the longest compound or sentence you can find. Assume that the longest sentence you can find occurs in Proust. Call it P. I can <em>always</em> construct a longer one. Here it is: ‘Proust wrote <em>P</em>.’ This can be repeated ad libitum, and there is no upper bound.</p>
+<p>How can things that are infinite in number be learned? By learning general principles that generate infinity. Recursiveness is one of these. It may be represented by an inverted tree. I shall start with a finite example, a simple syntactic structure that occurs in natural languages, perhaps in all languages (an empirical matter): the distinction between subject and predicate. It is <em>not</em> recursive.</p>
+<p>Take the example: ‘Yājñavalkya taught Maitreyī’ or ‘Y taught M’. In English syntax, ‘Y’ is the subject and ‘taught M’ is the predicate. The predicate, therefore, consists of two parts: a verb and an object. Not all sentences in all languages have that simple structure. But a surprisingly large number can be reduced to such structures, using an astonishing proliferation of rules. So let us put those rules aside and concentrate on the basic structure of the sentence which is a <em>hierarchical</em> structure because it consists of two levels: subject and predicate, and, within predicate, verb and object:</p>
+<figure class="">
+
+    <a href="images/000044.png" target="_blank" rel="noopener">
+        <img src="images/000044.png" alt="image" title="">
+    </a>
+
+    
+
+</figure>
+<p>Linguists have proceeded to unearth much more abstract structures; but for our purposes it is enough, and we are going to generalize in other directions. The above structure shows a relation between some syntactic categories, which can also be expressed by simply stating: a sentence <em>consists</em> of a subject and a predicate; and: a predicate <em>consists</em> of a verb and an object. It does not necessarily have anything to do with word order, though the order of the figure is that of the example ‘Y taught M’. What the linguist does, he <em>generates</em> the sentence. It may be done by adding substitution rules that refer to a dictionary together with a list of names and that may be expressed by dots, as follows:</p>
+<figure class="">
+
+    <a href="images/000005.png" target="_blank" rel="noopener">
+        <img src="images/000005.png" alt="image" title="">
+    </a>
+
+    
+
+</figure>
+<p>This picture shows that a sentence, the <em>linear</em> structure <em>Yājñavalkya taught Maitrey</em>ī, has an underlying two-dimensional <em>non-linear</em> structure (perhaps other systems use more dimensions, but I don’t know them). That non-linear structure, or some structures like it, have been referred to as deep structure. It has a mysterious ring about it, but teaches us that the analysis of sentences shows that there are underlying, invisible structures that have to be postulated in order to explain the sentences that are produced and that we can hear.</p>
+<p>How do we know that the above structure is the correct one? By analysing thousands of sentences. It makes no sense, for example, to analyse as follows:</p>
+<figure class="">
+
+    <a href="images/000013.png" target="_blank" rel="noopener">
+        <img src="images/000013.png" alt="image" title="">
+    </a>
+
+    
+
+</figure>
+<p>One reason is that there are many sentences in which the predicate consists only of a verb which is intransitive, e.g., <em>Yājñavalkya sits</em>. They share many properties with the sentences which have transitive verbs and objects leading to the postulation of a separate category called ‘Predicate’.</p>
+<p>Systems like these were introduced by Noam Chomsky half a century ago. They attracted large numbers of researchers, but became increasingly complex. In 1995, Chomsky replaced them by a simpler but much more abstract system called <em>The Minimalist Program</em>. Since then, developments in linguistics have become even more explosive.</p>
+<p>Our problems are different. We are interested in infinite recursive structures. Take the sentence: ‘He said <em>A</em>”.’ I shall not analyse it into Subject (‘He’) and Predicate (‘said A’) but cut it up differently, illustrating thereby what we call <em>quoting</em>. Quoting is recursive, we can continue to do it: ‘He said, “He said <em>A</em>”.’ I can go on but let me introduce a little variation: ‘A retorted, according to B, that C had said <em>X</em>.’ It is still abstract and stilted, so ‘We might think of the Professor who claimed that Proust had written <em>Vanity Fair</em>’. That is better although Proust himself is miles ahead: ‘And so I could not help reciting to myself, when I saw them, not indeed the lines of Racine that had come into my head at the Princesses de Guermantes’s while M. de Vaugoubert stood watching young embassy secretaries greet M. de Charlus, but other lines of Racine …’ and on it goes without losing the attention of the attentive reader or syntactician.</p>
+<p>Let me be a little more systematic and distinguish <em>right-recursive</em> and <em>left-recursive</em>. An English example of the first is: ‘Remarkable is the rapidity of the motion of the wing of the hummingbird.’ The noun phrase to which something is added is always on the right:</p>
+<blockquote>
+<p>the rapidity of the hummingbird,</p></blockquote>
+<blockquote>
+<p>the rapidity of the wing of the hummingbird,</p></blockquote>
+<blockquote>
+<p>the rapidity of the motion of the wing of the</p></blockquote>
+<blockquote>
+<p>hummingbird, etc.(?)</p></blockquote>
+<p>We are lucky in that English possesses a similar structure which goes the other way and is therefore called <em>left-recursive</em> because the noun phrase is always on the left:</p>
+<blockquote>
+<p>the hummingbird’s rapidity</p></blockquote>
+<blockquote>
+<p>the hummingbird’s wing’s rapidity</p></blockquote>
+<blockquote>
+<p>the hummingbird’s wing’s motion’s rapidity, etc. (?)</p></blockquote>
+<p>Psychologists are interested in these recursions. I have taken the last six phrases from an article by George Miller on psycholinguistics that is almost half a century old. It illustrates the distinction Chomsky introduced between <em>competence</em> and <em>performance</em>. The rules of grammar depict a speaker’s competence. The six phrases are examples of performance. But I have put a (?) at the end of some of them. How far can the reader go? Asking Harvard undergraduates, Miller arrived at the conclusion that the third and sixth illustrate their limit.</p>
+<p>The reader will now have an inkling of what mantras and Vedic rites can be like. Our next question is different: how can these different structures be learnt?</p>
+<p>Through the interplay of empirical information and innate knowledge. Learning a language takes place for a only a small part by explicit instruction of a mother, father or teacher. It is mainly picked up by babies, from a very early age, by being immersed in a language community in which people, including playmates, visitors, salesmen, brothers, sisters, fathers, mothers, teachers or anyone or anything within hearing of the child, including the TV, uses the language. This picking up of language occurs within a few years and is similar to the way scientists learn about the world. They construe a succession of theories, each the result of earlier theories and new data. Children are quick to change their theories when they make a wrong generalization, for example, in English: from <em>trees</em>, <em>dogs</em> and <em>books</em> to *<em>mans</em> and *<em>womans</em> (the asterisk denotes ungrammaticality) until they notice or are told that they should say <em>men</em> and <em>women</em>.</p>
+<p>Many ‘deep structures’ are innate. The deeper they are, the more abstract they look to us. What is not innate is the association of fragments of speech with events, occurrences or objects in the outside world. Those are picked up by the child by not only listening but by seeing and using other mental capacities such as association, generalization, combinations of various kinds and, of course, memory.</p>
+<p>Mantras are similar in some respects. They incorporate recursive structures. They may be long and there are many of them. In Tantrism it is said that seventy million of them exist in superior worlds. But mantras are not learnt in the way language is picked up as we shall see at the end of this chapter.</p>
+
+  </div>
+</article>
+
+
+        
+
+        
+
+
+
+    <aside class="card border noPrint" id="section-tree-item-meta_articles_staal_discovering_vedas_3_ANALYSING_THE_VEDAS_11_Mantras_02_Language_Syntax_and_Recursiveness_md">
+        <div class="card-title bg-light-gray border d-flex justify-content-between">
+            <a href="https://vishvAsa.github.io/vedAH/meta/articles/staal/discovering_vedas/3_ANALYSING_THE_VEDAS/11_Mantras/02_Language_Syntax_and_Recursiveness/">02 Language, Syntax and Recursiveness </a>
+            <a data-toggle="collapse" href="#section-tree-item-body-meta_articles_staal_discovering_vedas_3_ANALYSING_THE_VEDAS_11_Mantras_02_Language_Syntax_and_Recursiveness_md" role="button" aria-expanded="false" aria-controls="section-tree-item-body-meta_articles_staal_discovering_vedas_3_ANALYSING_THE_VEDAS_11_Mantras_02_Language_Syntax_and_Recursiveness_md" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+        </div>
+        <nav id="section-tree-item-body-meta_articles_staal_discovering_vedas_3_ANALYSING_THE_VEDAS_11_Mantras_02_Language_Syntax_and_Recursiveness_md" class="card-body p-0 collapse">
+            
+            <li>draft: false</li>
+            
+            <li>iscjklanguage: false</li>
+            
+            <li>title: 02 Language, Syntax and Recursiveness</li>
+            
+        </nav>
+    </aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1 noPrint" role="contentinfo">
+  
+
+  <div id="div_foot_nav_bar" class="row">
+    <a href="https://vishvAsa.github.io/vedAH/search"  class="btn btn-light btn-sm">🥽🔦</a>
+    <div class="row col  d-flex justify-content-center">
+      <div><a id="previousPageFoot" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+      <div ><a id="nextPageFoot" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+    </div>
+      <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+      </ul>
+  </div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vishvAsa/vedAH/issues/new" >
+      ✉️Contact
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      
+      <a href="https://github.com/vishvAsa/vedAH/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/vedAH/actions/workflows/build.yml/badge.svg"> Built </a> on 2025 Aug 29 10:15:16 UTC. (<a href="http://google.com/search?q=10%3a15%3a16%20UTC to IST">IST</a>)
+    </div>
+  </div>
+</footer>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33H08JSLQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-33H08JSLQR');
+</script>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_uiLib.onDocumentReadyTasks();
+  </script>
+  
+</html>
