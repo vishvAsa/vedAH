@@ -10,6 +10,12 @@ title = "Geo-memories"
 > 
 > - MT
 
+<details><summary>Objection</summary>
+
+And danu as a river is not mentioned either.
+</details>
+
+
 ## Inner Asia Mountain Corridor
 > फ॒ल्गु॒नी॒-पू॒र्ण॒-मा॒से दी᳚ख्षेरन् ।  
 मुख॒व्ँ वा ए॒तत् ,[28] सव्ँवथ्स॒रस्य॒ यत् फ॑ल्गुनीपूर्णमा॒सः ।  
@@ -31,6 +37,17 @@ MuzhTagh Ata, near Tajikistan
 > 
 > - M Witzel
 
+<details><summary>Objections</summary>
+
+Mujavant is found only from eighth mandala of RV where we find the arya lands of nwfp etc being mentioned. Not found in earlier books. It is no real memory of tajikistan. Rather it talks about arya expansion there
+</details>
+
+
 ## आक्रमणस्मृतिः
 > prajā́ dakṣiṇā́ 'bhi-jáyantīr yanti (MS 4.7.9)  
 > "their descendants go southward, conquering."
+
+<details><summary>Objections</summary>
+
+Descendants going south - could refer to arya movement into central and  southern India. Rather than from northern cold lands
+</details>
