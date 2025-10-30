@@ -28,6 +28,26 @@ There is no need to change the end-conclusions (eternal existence of Veda or pre
 
 Throughout history, different teachers came up with different arguments to explain or defend the exact same point of belief. Your obstinate refusal to even hear out someone coming up with a different explanation for the same belief doesn’t make you pious. It just makes you an agent of ossification. 
 
+### Revelation times
+Source: [TW](https://x.com/GhorAngirasa/status/1982985093783437387)
+
+However, Veda being anādi/apaurușeya (for you & other Vedāntīs) does not mean that the seeing of the Veda by a Rși is also anādi. 
+
+By way of analogy:
+
+Deva’s rūpas (including rūpas of its avatāras) are all anādi 
+
+But when an avatāra itself takes birth on earth, there is a time for it. 
+
+Likewise. 
+
+3. There are express references to order of sūktas in the Veda itself: “Viśvāmitra saw these sūktas, Vāmadeva ran off with them; Viśvāmitra *then* saw new ones in place of those he had lost”—Aitareya
+
+Commentaries on Veda also testify to the seeing of the Śruti at a particular point in time: “When Sudās replaced his purohita Viśvāmitra with Vasișțha, Viśvāmitra *then* saw this sūkta to beat the dullness that had been caused in him by Vasișțha’s son Śakti”. From the genealogical records of the Purāņas, we know that Sudās was a king of Uttara Pañcala and therefore the above ‘seeing’ also happened in real time after a certain incident. 
+
+There is nothing wrong in holding that different parts of the Śruti were seen at different points in time. In fact, to disagree would render certain, rather plain statements in the Śruti useless. Of course, you have the option of proclaiming all those stories “arthavāda” but that is just a view and not everyone is obliged to agree with it.
+
+
 ## deva-s not narcissistic
 And no, the fact of it being the देव-s' revelation does not make the देव-s narcissistic.
    Why so? For reasons twofold:
@@ -53,3 +73,17 @@ If Īśvara is omniscient & omnipresent, then one should have no problem believi
 
 All I am saying is that the whole set of combinations of words, their dialect variants (ļ -> D in RV->YV), etc all exist in Ishvara (whether nitya or simply purAtana). He causes the appropriate words to be received by a specific RSi as per the RSi’s freewill, capability, inborn knack for words, etc. There is nothing to contradict freewill here.
 
+## Proving
+Source: [TW](https://x.com/GhorAngirasa/status/1983423905650938189)
+
+1. Firstly, the old preoccupation with “proving”, born of insecurity, has to be abandoned. Theological claims can be shown to be internally cogent in their larger framework; they cannot be “proven” like evidence-based claims. No matter how good the arguments are, it remains that claims such as apaurușeyatva cannot be “proven” in the strict sense of the term. No, “Veda’s authors are not rememebred” is not a credible argument, let alone “proof” for apaurușeyatva, as the Śaivāgama correctly points out. 
+
+Once this need to “prove” is set aside, efforts can be freed up for building meaningful theological meta-narratives, allied closely to the praxis that should validate these narratives and the theological claims underpinning those narratives. 
+
+2. This leads us to the importance of distinguishing between theological and non-theological claims. “Veda is unauthored and co-eternal with Īśvara” or “Veda is authored by Īśvara and predates creation” are theological claims. 
+
+“Veda was revealed at different points in time” or “Veda makes references to historical figures” are not theological claims but non-theological claims meant to be evaluated through evidence and inference. Non-theological claims do not affect theological claims and vice-versa. 
+
+The inability to distinguish these leads to fantastic (and characteristically needless) apologia for traditional positions—all this achieves is the erosion of confidence in the merit and excellence of traditional scholarship. 
+
+3. Once theological claims are properly distinguished from non-theological ones, the art of building the bigger picture—the metanarrative that stitches together the positions on both types of claims in a single framework—comes to the foray. There can be multiple attempts at this from multiple vantage points. While thinking outside the box cannot be taught, a good student of tradition should keep an open mind and study as wide a body of texts as possible and keep himself inspired. For me, the profound Śaiva theology on mantras offers an excellent supply of raw material to inspire a robust theology on issues such as the status of Śruti. The Paurāņika accounts of the evolution of the Vaidika canon are extremely helpful as well.
