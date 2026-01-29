@@ -1,17 +1,7 @@
 +++
-title = "अध्ययन-कण्ठस्थी-कराणादि"
+title = "कण्ठस्थी-करणम्"
 +++
-
-## अध्ययनम्
-उच्चारणानूच्चारणक्रमेणैव शब्द-राशि-ग्रहणम् अध्ययनम् उच्यते। 
-
-
-अध्ययन-काले केचिद् बालाः स्वापं यन्ति। तत्र मोहितः -
-
-> अल्पाध्यापनं (१५ निमिषेभ्यः एकवारं, पुनः ५ निमिषेभ्यः विरामः, पुनरेवम्) मध्ये मध्ये रुचिकरविषयानां चर्चनम्, तदेव… एवम् एव मासेभ्यः कर्त्तव्यम्..
-
-## कण्ठस्थी-करणम्
-### विजयोक्ता प्रक्रिया 
+## विजयोक्ता प्रक्रिया 
 
 Standard way of teaching in the top vedic schools is as follows:
 
@@ -42,4 +32,3 @@ So the story is that all the eka-santa-grAhis would memorize on day 1. They woul
 However, people generally rely on books for the "self study" part.
 
 So, cumulatively 10x anUchchAraNa, 150 + 75 + 15 = 240x self-study.
-
