@@ -13,7 +13,7 @@ title = "परीक्षा"
 ## काञ्ची-मठ-परीक्षा
 > one smArta Rigveda ghanapathi who learnt from AM Jeeyar. He said that he passed Kanchi but wouldn't be able to pass Sringeri. Many Andhra vedAdhyayins I know personally have said the same. - vijay
 
-
+> I asked one SV from Kanchipuram about many Kanchi SVs giving KM parIkShA. He just replied in one word - match fixing. - विजयः
 
 ## काञ्ची-वेद-रक्षा-निधि-परीक्षा
 Source: [TW](https://vrnt.org/show_results.php?vedam=Krishnayajur%20Vedam&part=Kramam)
