@@ -6,7 +6,7 @@ title = "History"
 The veda-s are said to be eternal in a certain sense.
 
 ### Eternity
-- ब्रह्मसूत्रेषु शाङ्करभाष्यमप्यत्र रुचिकरम् - अत एव च नित्यत्वम् ॥ २९ ॥ भाष्यम्॥ स्वतन्त्रस्य कर्तुर् अस्मरणाद् इति स्थिते वेदस्य नित्यत्वे देवादिव्यक्ति-प्रभवाभ्युपगमेन तस्य विरोधम् आशङ्क्य ‘अतः प्रभवात्’ इति परिहृत्य इदानीं तदेव वेदनित्यत्वं स्थितं द्रढयति — अत एव च नित्यत्वमिति । अत एव नियताकृतेर् देवादेर् जगतो **वेद-शब्द-प्रभवत्वात् वेद-शब्द-नित्यत्वम् अपि प्रत्येतव्यम्** । तथा च मन्त्रवर्णः — ‘यज्ञेन वाचः पदवीयम् आयन् तामन् वविन्दन्न् ऋषिषु प्रविष्टाम्’ (ऋ. सं. १० । ७ । ३) इति स्थितामेव वाचम् अनुविन्नां दर्शयति । वेदव्यासश् चैवम् एव स्मरति — ‘युगान्ते ऽन्तर्हितान् वेदान् सेतिहासान् महर्षयः । लेभिरे तपसा पूर्वम् अनुज्ञाताः स्वयंभुवा’ इति ॥ २९ ॥
+\- ब्रह्मसूत्रेषु शाङ्करभाष्यमप्यत्र रुचिकरम् - अत एव च नित्यत्वम् ॥ २९ ॥ भाष्यम्॥ स्वतन्त्रस्य कर्तुर् अस्मरणाद् इति स्थिते वेदस्य नित्यत्वे देवादिव्यक्ति-प्रभवाभ्युपगमेन तस्य विरोधम् आशङ्क्य ‘अतः प्रभवात्’ इति परिहृत्य इदानीं तदेव वेदनित्यत्वं स्थितं द्रढयति — अत एव च नित्यत्वमिति । अत एव नियताकृतेर् देवादेर् जगतो **वेद-शब्द-प्रभवत्वात् वेद-शब्द-नित्यत्वम् अपि प्रत्येतव्यम्** । तथा च मन्त्रवर्णः — ‘यज्ञेन वाचः पदवीयम् आयन् तामन् वविन्दन्न् ऋषिषु प्रविष्टाम्’ (ऋ. सं. १० । ७ । ३) इति स्थितामेव वाचम् अनुविन्नां दर्शयति । वेदव्यासश् चैवम् एव स्मरति — ‘युगान्ते ऽन्तर्हितान् वेदान् सेतिहासान् महर्षयः । लेभिरे तपसा पूर्वम् अनुज्ञाताः स्वयंभुवा’ इति ॥ २९ ॥
 - “अनादिनिधना विद्या (‘ह्येषा’ इति पाठभेदात्) वाग् उत्सृष्टा स्वयम्भुवा । आदौ वेदमयी दिव्या यतस् सर्वाः प्रसूतयः ॥” (महाभारते १२.२३२.२४ / १२.२३१.५६ – पाठक्रमभेदात्) Platonist Ideal plane इव।
 - [Here](https://www.youtube.com/watch?v=_jXb5yebZ5s) is a beautiful explanation by shatAvadhAnI gaNesha on this regard.
 
@@ -54,6 +54,11 @@ In fact, with regards to the multiplicity of shAkhA-s and samhita-s, an **evolut
 स हि भट्टभास्करेणापि व्याख्यातः।
 
 एवं शाखासु पाठ-भेद-कलनम् [अन्यत्र](/vedAH/meta/shAkhA/pATha-bhedAH) दृश्यम्। 
+
+## Correction
+The siddhAnta is that all vaidika mantras had a common origin, and were later split into multiple shAkhA-s. So, a mantra (like agnimILe, or "yo brahmA") was "seen" only once. If two pATha-s emerge of the same mantra, they can't both have been the original. Some drift must be accepted. This is accepted by purANa-s (citations above). That being the case, one should judge what the original might have been without partiality.
+
+Eg. even in the additional verses of puruSha sUkta of taittirIya shAkha, the svara-s are inferior (judged by grammar) to those seen in vAjasaneya. Hence, I use the latter.
 
 ## Related material
 - See RV shakala saMhitA history notes elsewhere.
