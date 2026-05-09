@@ -1,6 +1,42 @@
 +++
-title = "BrAhmaNa continuity"
+title = "BrAhmaNas"
 +++
+
+## yajurvedi origin
+That the Yajurvedīs were first to “see” the Brāhmaṇa genre of texts appears to be hinted in these Ślokas of the Brahmāṇḍapurāṇa (2.3.1.22-26), where, at Brahmā’s yajña to beget offspring, the Vedas attend as guests. The Brāhmaṇa texts are here personified as either a limb or accompaniment of the Yajurveda alone.
+
+मूर्त्तिमंतिच सामानि  
+यजूंषि च सहस्रशः।  
+ऋग्वेदश् चाभवत्तत्र  
+यश्च क्रमविभूषितः॥  
+यजुर्वेदश् च वृत्ताढ्य  
+ओंकारवदनोज्ज्वलः।
+स्थितो यज्ञार्थसंपृक्तः  
+सूक्त-ब्राह्मण-मंत्रवान्॥
+सामवेदश्च वृत्ताढ्यः  
+सर्वगेयपुरः सरः।
+विश्वावस्वादिभिः सार्द्धं 
+
+## Style
+
+
+The Brāhmaṇa texts are remarkably important because they expand our idea of what a scripture can be. That scripture should be versified text which addresses no reader in particular is an artificial limitation we superimpose on it.
+
+There is no doubt that most passages in the Brāhmaṇas read like prosaic recordings of minutes from the deliberations & reflections of the Brahmavādīs/Ṛṣiputras or observations of what someone did or didn’t do.
+
+That such texts too can constitute Śruti which had existed from before this world (or existed eternally) but manifested in historical time, in real-life contexts, through mortal instruments is a unique idea.
+
+
+Source: [TW](https://x.com/GhorAngirasa/status/1807842379011182709)
+
+Inasmuch the entire Veda can be divided into Mantra & Brāhmaṇa, the prosaic Brāhmaṇa (which includes substantial portions of Āraṇyakas & Upaniṣads) is unique in being a Mūlaśāstra (primary scripture) that breaks through the fourth wall & directly addresses the reader.
+
+Almost every other Mūlaśāstra consists of either versified mantras which do not “seek out the reader” (like the Saṁhitā portions of the Veda) or most other versified texts (Itihāsa, Purāṇa, Āgama, etc) which are mostly dialogues or narrations by a speaker to a contemporary, identified audience).
+
+In intentionally breaking through the 4th wall & addressing a reader living 3000 years into the future, that makes the Brāhmaṇa stand out.
+
+## Continuity
+
 
 Source: [TW](https://twitter.com/GhorAngirasa/status/1789916114614427705)
 
