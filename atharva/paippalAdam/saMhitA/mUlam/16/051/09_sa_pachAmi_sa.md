@@ -1,0 +1,10 @@
++++
+title = "०९ स पचामि स"
+
++++
+<details><summary>मूलम् (GR)</summary>
+
+स पचामि स यजामि स यजते ऽस्य ।  
+शं म इष्टम् अस्तु शुनं शान्तं +++(Bhatt. śvamaya iṣṭam; the emend. is also Bhatt.'s)+++  
+शिवं कृतं तस्मान् मा यवम् ॥
+</details>
