@@ -25,7 +25,7 @@ yAjJNavalkya derides charaka-s in many places. Eg:
 ## अथर्ववेदे
 Some AV shAkhAs are quite antagonistic to other AV shAkhAs - jajala and other shAkhAs criticized by shaunaka/ paippAlada
 
-- "The AV practitioners are associated with the role of the Brahman but in reality have their own parallel śrauta tradition." - ([MT](https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai%E1%B9%A3%E1%B9%87avam-a-view-from-the-numerology-of-vedic-texts/))
+> "The AV practitioners are associated with the role of the Brahman but in reality have their own parallel śrauta tradition." - ([MT](https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai%E1%B9%A3%E1%B9%87avam-a-view-from-the-numerology-of-vedic-texts/))
 
 ## सामवेदे
 SV pa~ncaviMsha brAhmaNa - luSakapi cursing kaushitakas to go into oblivion
