@@ -47,6 +47,32 @@ Commentaries on Veda also testify to the seeing of the Śruti at a particular po
 
 There is nothing wrong in holding that different parts of the Śruti were seen at different points in time. In fact, to disagree would render certain, rather plain statements in the Śruti useless. Of course, you have the option of proclaiming all those stories “arthavāda” but that is just a view and not everyone is obliged to agree with it.
 
+## Landing platform
+Source: [TW](https://x.com/GhorAngirasa/status/1877186036037726342)
+
+Eternal or “pre-cosmic/creation”—I myself believe in the 2nd position. But that aside, all combinations of syllables, words & sentences exist in Īśvara in a latent, subtle sound form, and they must, since Īśvara is omniscient of all things from all times. 
+
+What makes the particular combinations of syllables, words and sentences, which make up the Veda, special is the fact that Īśvara has given these combinations a potency, has made them capable of effecting changes in this world & has made them capable of bearing several layers of meanings. He then selects competent, exalted souls and gives them sound-bodies made of these various hierarchical levels of combinations. He appoints them to perform certain functions in line with the abilities their subtle bodies allow.
+
+At some point of time in history, a particular mantra-soul having a particular sound-body (say, a mantra referring to Sudās’ victory) manifests in the buddhi and manas of a Rși and comes out of his mouth in the form of audible sound (which is a grosser layer to the subtle sound body that the mantra-soul already has). 
+
+This manifesting takes place when the Rși witnesses Sudās’ victory and is inspired by what he sees—his inspiration and verbal proclivity leading him to “discover” the mantra or more accurately his buddhi/manas becomes a “landing spot” for that particular mantra-soul. 
+
+But that particular subtle sound-body of that mantra-soul, consisting of the verse referring to Sudās’ victory, has existed for a long time—way before Sudās’ 100th ancestor was born, way before the universe itself. 
+
+That should lead us to infer that the verse has another meaning to it, that is beyond historical events. 
+
+But Īśvara, knowing everything, graces such that the people with the right names, at the right locations, in the right circumstances and at the right times, will go on to discover the literal meaning of the verse as a result of their own life experiences and individual characteristics (the ability to versify, etc). 
+
+Even the Rși may not have appreciated the layers of meanings in that mantra at that time. But due to his puņya, he is blessed to become a “landing platform” for the mantra-soul and sees the literal meaning of the mantra unfold for him.
+
+## Creative input
+Source: [TW](https://x.com/GhorAngirasa/status/2084653728070787239)
+
+I don’t think the question relating to the interaction between the historical and theological realities of the Veda’s composition (human contributions vs divine origin/without origin) has been resolved. It remains open for those of us who are capable to further hone existing theological models to more robustly account for facts. 
+
+So many people here—rather uncreatively—take it for granted that the Veda’s being apauruṣeya or iśvarakṛta means that human authorship/creative input in the sense that we are familiar with could not have transpired. But why? Who said these are contradictory or mutually exclusive?
+
 
 ## deva-s not narcissistic
 And no, the fact of it being the देव-s' revelation does not make the देव-s narcissistic.
