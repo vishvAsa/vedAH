@@ -282,4 +282,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/16054/928/upanas/3-man
 
 ॥ इति तृतीयखण्डभाष्यार्थः ॥
 
-[Load More](javaऽcriptःvoid(0))

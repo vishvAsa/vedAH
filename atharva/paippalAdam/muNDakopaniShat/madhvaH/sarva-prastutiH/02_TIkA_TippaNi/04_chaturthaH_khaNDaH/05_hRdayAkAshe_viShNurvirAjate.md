@@ -17,4 +17,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/16060/928/upanas/3-man
 तद्ध्यानस्थानमाह- दिव्य इति ॥ दिव्ये द्योतमाने ब्रह्मणः पुरे देहे तत्र हि व्योम्नि आकाशे एष आत्मा सम्प्रतिष्ठितः ॥ ९ ॥  
   
 
-[Load More](javaऽcriptःvoid(0))
