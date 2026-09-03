@@ -193,3 +193,31 @@ Mīmāṃsā — nitya, apauruṣeya. No author, hence no defect.
 
 Advaita — anitya, apauruṣeya. Valid because the word-order is repeated beginninglessly. 
 • • •
+
+
+## shankara & nityatva
+Shankaracharya's Brahma Sūtra Bhāṣya (1.3.28) holds that śabda is nitya, eternal. The later Vedānta Paribhāṣā states that the Veda is not eternal. The two claims appear opposed. They are not — they operate at different levels of description, as this thread sets out. 🧵 
+
+The problem addressed in the Devatādhikaraṇa: if the word-referent relation is eternal, how is this sustained when Vedic words denote deities (Indra, Rudra) who are described as born and dying like humans? Does the referent's impermanence undermine the word's eternity? 
+
+Shankaracharya's resolution distinguishes the individual (vyakti) from the universal or form (ākṛti). "Indra" does not denote a mortal being but a standing office, comparable to "commander-in-chief" (senāpati). Occupants change; the office persists. 
+
+A further question follows: what precisely is eternal about a word? Two positions are considered — Sphoṭavāda, which posits a distinct, partless sphoṭa manifested by sound, and Varṇavāda, which holds that the phonemes themselves are eternal. 
+
+Shankaracharya adopts Upavarṣa's Varṇavāda. The same phoneme is recognized in each utterance ("so'yaṁ gakāraḥ") through pratyabhijñā, a recognition not overturned by any stronger pramāṇa. This obviates the need to posit an additional, unobserved entity. 
+
+Sūtras 1.3.29–30 extend this account to the Veda as a whole, which recurs in identical sequence at each cosmic cycle (kalpa). This is termed pravāha-nityatva, eternity as an unbroken recurring stream, distinct from kūṭastha-nityatva, a single static entity. 
+
+### Dharmarāja Adhvarīndra's Vedānta Paribhāṣā
+Centuries later, Dharmarāja Adhvarīndra's Vedānta Paribhāṣā states: "vedo na nityaḥ, utpattimattvāt" — the Veda is not eternal, as it has an origin, arising at creation and dissolving at pralaya, in the manner of ākāśa and the other elements. 
+
+The Paribhāṣā simultaneously denies that phonemes are momentary. It affirms that the Veda recited by one person is identical to that recited by another ("ya eva vedo devadattenādhītaḥ, sa eva mayāpi"), invoking the same pratyabhijñā reasoning Shankaracharya employs. 
+
+The apparent tension resolves once the discussion is separated into distinct levels. Shankaracharya's bhāṣya addresses the level of the eternal phoneme-type. The Paribhāṣā's denial of eternity concerns the Veda as a structured whole across cosmic time. 
+
+#### pauruṣeyatva
+A further difficulty arises: if the Veda originates (utpattimat) each cycle, does it become pauruṣeya, authored by Īśvara, undermining the apauruṣeyatva the Mīmāṃsaka position requires? The Paribhāṣā addresses this by redefining pauruṣeyatva. 
+
+Pauruṣeyatva is defined not as mere utterance by a person, nor as origination dependent on a person, but as utterance not modeled on a prior utterance of the same kind. Īśvara reproduces the Veda each cycle in the exact prior sequence, hence it remains apauruṣeya. 
+
+The Paribhāṣā's "the Veda is not eternal" and Shankaracharya's "nitya śabda" are accordingly not competing positions but a single doctrine, articulated at two levels of granularity across several centuries of scholastic refinement. 
