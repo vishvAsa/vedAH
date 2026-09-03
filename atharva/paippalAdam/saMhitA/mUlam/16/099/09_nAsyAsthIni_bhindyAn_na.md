@@ -1,0 +1,11 @@
++++
+title = "०९ नास्यास्थीनि भिन्द्यान् न"
+
++++
+<details><summary>मूलम् (GR)</summary>
+
+नास्यास्थीनि भिन्द्यान् +++(Bhatt. bhindyāṃ)+++  
+न मज्ज्ञो निर् धयेत् । +++(Bhatt. majño nirdaye)+++  
+सर्वाणि समादाय-  
+-इदंइदं प्र वेशयेत् ॥ +++(Bhatt. samādāyevim idaṃ pra veśaye)+++
+</details>

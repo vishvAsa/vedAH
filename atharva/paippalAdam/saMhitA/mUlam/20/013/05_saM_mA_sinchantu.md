@@ -1,0 +1,8 @@
++++
+title = "०५ सं मा सिञ्चन्तु"
+
++++
+<details><summary>मूलम् (GR)</summary>
+
++++(PSK 20.12.5; PS 6.18.1 is repeated)+++सं मा सिञ्चन्तु मरुत इत्य् एका ॥
+</details>
