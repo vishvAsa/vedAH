@@ -1,0 +1,9 @@
++++
+title = "०२ तपोजा अमूरो दक्षिणतः"
+
++++
+<details><summary>मूलम् (GR)</summary>
+
+तपोजा अमूरो दक्षिणतः पवसे नभस्वान् । +++(Bhatt. asuro; amūro see Griffiths 2009, 34)+++  
+नमस् ते विद्म ते नामधेयं मा नो हिंसीः ॥ +++(refrain written in K)+++
+</details>

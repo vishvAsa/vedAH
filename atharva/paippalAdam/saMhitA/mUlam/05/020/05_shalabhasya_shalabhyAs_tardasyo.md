@@ -1,0 +1,11 @@
++++
+title = "०५ शलभस्य शलभ्यास् तर्दस्यो"
+
++++
+<details><summary>मूलम् (GR)</summary>
+
+शलभस्य शलभ्यास्  
+तर्दस्यो पतत्रिणः । +++(read perhaps tardasyotpatatriṇaḥ following Bhatt.)+++  
+अग्नेर् वातस्य ध्राज्या-  
+-अपि नह्याम आस्यम् ॥
+</details>
