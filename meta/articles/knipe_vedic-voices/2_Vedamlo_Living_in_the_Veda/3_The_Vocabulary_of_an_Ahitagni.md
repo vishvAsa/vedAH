@@ -105,7 +105,7 @@ an Andhra tradition with routine agni-cayana continuing today. Frequently it is 
 
 Vedamlo, “Living in the Veda” 47 
 
-Beyond the customary cayana and the vaja-peya are two ambitious soma rites, one favorite being the forty-day paundarika fire-altar layering, a sacrifice  that includes, among other components, the maha-vrata with a pretend cou pling of a brahmacarin and a prostitute. The other grandiose soma sacrifice is  the sarvato-mukha with four altars facing all compass points, requiring four  times the number of rtvij, an astonishing seventy-two priests in all. As will be  observed in the biographies, it also has been performed by a living Godavari  delta pandit. 
+Beyond the customary cayana and the vaja-peya are two ambitious soma rites, one favorite being the forty-day paundarika fire-altar layering, a sacrifice  that includes, among other components, the maha-vrata with a pretend coupling of a brahmacarin and a prostitute. The other grandiose soma sacrifice is  the sarvato-mukha with four altars facing all compass points, requiring four  times the number of rtvij, an astonishing seventy-two priests in all. As will be  observed in the biographies, it also has been performed by a living Godavari  delta pandit. 
 
 All of these rituals require considerable advance preparation, study of the  texts; teaching the wife her mantras and positions on the maha-vedi, the field  of sacrifice; procuring the priestly helpers, the basic four in particular—hotr,  adhvaryu, udgatr, and brahman; erecting structures on the maha-vedi; assign 
 
