@@ -3,8 +3,9 @@ title = "सर्व-प्रस्तुतिः"
 +++
 
 
-## प्रथमः प्रश्नः — उत्तरपृष्ठम्
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_I01/devanagari)  
+## प्रथमः प्रश्नः
+
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_I01)  
 <details open><summary>मूलम्</summary>
 
 मन्त्रोक्तस्यार्थस्य विस्तरानुवादीदं ब्राह्मणमारभ्यते । ऋषिप्रश्नप्रतिवाचनाख्यायिका तु विद्यास्तुतये । एवं संवत्सरब्रह्मचर्यसंवासादितपोयुक्तैर्ग्राह्या, पिप्पलादवत्सर्वज्ञकल्पैराचार्यैः वक्तव्या च, न येन केनचिदिति विद्यां स्तौति । ब्रह्मचर्यादिसाधनसूचनाच्च तत्कर्तव्यता स्यात् —
@@ -21,13 +22,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - विस्तरेति ।</summary>
 
-विस्तरेति ।
-
-मन्त्रे हि द्वे विद्ये वेदितव्ये परा चिवापरा चेत्युक्त्वा तत्रापरर्ग्वेदाद्यभिधेयेत्युक्तम् । सा च विद्या कर्मरूपोपासनारूपा च । तत्र द्वितीया द्वितीयतृतीयप्रश्नाभ्यां विव्रीयते । आद्या कर्मकाण्डे विवृतेति नेह विव्रीयते । उभयोः फलं तु ततो वैराग्यार्थं प्रथमप्रश्ने स्पष्टीक्रियते । परविद्या चाथ परा यया तदक्षरमधिगम्यत इत्युपक्रम्य कृत्स्नेन मुण्डकेन प्रतिपादिता । तत्रापि यथा सुदीप्तादित्यादिमन्त्रद्वयोक्तार्थस्य विस्तरार्थं चतुर्थः प्रश्नः । प्रणवो धनुरित्यत्रोक्तप्रणवोपासनविवरणार्थं पञ्चमः प्रश्नः । एतस्माज्जायते प्राण इत्यादिना शेषेण मुण्डकेनोक्तस्यार्थस्य स्पष्टीकरणार्थः षष्ठः प्रश्न इतीदं ब्राह्मणं तद्विस्तरानुवादीत्यर्थः । अत एव विषयप्रयोजनादिकं तत्रैवोक्तमिति नेह पुनरुच्यत इति बोध्यम् ।
+मन्त्रे हि द्वे विद्ये वेदितव्ये परा चैवापरा चेत्युक्त्वा तत्रापरर्ग्वेदाद्यभिधेयेत्युक्तम् । सा च विद्या कर्मरूपोपासनारूपा च । तत्र द्वितीया द्वितीयतृतीयप्रश्नाभ्यां विव्रीयते । आद्या कर्मकाण्डे विवृतेति नेह विव्रीयते । उभयोः फलं तु ततो वैराग्यार्थं प्रथमप्रश्ने स्पष्टीक्रियते । परविद्या चाथ परा यया तदक्षरमधिगम्यत इत्युपक्रम्य कृत्स्नेन मुण्डकेन प्रतिपादिता । तत्रापि यथा सुदीप्तादित्यादिमन्त्रद्वयोक्तार्थस्य विस्तरार्थं चतुर्थः प्रश्नः । प्रणवो धनुरित्यत्रोक्तप्रणवोपासनविवरणार्थं पञ्चमः प्रश्नः । एतस्माज्जायते प्राण इत्यादिना शेषेण मुण्डकेनोक्तस्यार्थस्य स्पष्टीकरणार्थः षष्ठः प्रश्न इतीदं ब्राह्मणं तद्विस्तरानुवादीत्यर्थः । अत एव विषयप्रयोजनादिकं तत्रैवोक्तमिति नेह पुनरुच्यत इति बोध्यम् ।
 
 </details>
 
-<details><summary>टीका - ब्रह्मचर्यादिसाधनेति ।</summary>
+<details><summary>टीका - ब्रह्म­च­र्या­दि­सा­ध­नेति ।</summary>
 
 आख्यायिकाया ब्रह्मचर्यतपआदिसाधनविधानं पुराकल्पस्वरूपेण प्रयोजनान्तरं चास्तीत्याह –
 
@@ -35,9 +34,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-## प्रथमः प्रश्नः पूर्वपृष्ठम् उत्तरपृष्ठम्
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V01_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V01_B01)  
 <details open><summary>मूलम्</summary>
 
 सुकेशा च भारद्वाजः शैब्यश्च सत्यकामः सौर्यायणी च गार्ग्यः कौसल्यश्चाश्वलायनो भार्गवो वैदर्भिः कबन्धी कात्यायनस्ते हैते ब्रह्मपरा ब्रह्मनिष्ठाः परं ब्रह्मान्वेषमाणा एष ह वै तत्सर्वं वक्ष्यतीति ते ह समित्पाणयो भगवन्तं पिप्पलादमुपसन्नाः ॥ १ ॥
@@ -45,9 +42,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - सौर्यायणीति ।</summary>
+<details><summary>टीका - सौर्यायणीति</summary>
 
-सौर्यायणीति ।
+।
 
 सौर्यायणिरिति वक्तव्ये दैर्घ्यं छान्दसमित्यर्थः ।
 
@@ -55,13 +52,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - युवप्रत्यय इति ।</summary>
 
-युवप्रत्यय इति ।
-
 कत्य(त)स्य युवापत्ये विवक्षिते फक्प्रत्यये तस्याऽऽयन्नादेशे च कात्यायन इति सिध्यतीत्यर्थः ।
 
 </details>
 
-<details><summary>टीका - अपरं ब्रह्मेति ।</summary>
+<details><summary>टीका - अपरं ब्रह्मे</summary>
 
 ब्रह्मपराणां पुनर्ब्रह्मान्वेषणमयुक्तमित्यत आह –
 
@@ -72,8 +67,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - किं तदिति ।</summary>
-
-किं तदिति ।
 
 तस्य कोऽतिशय इत्यर्थः ।
 
@@ -87,26 +80,23 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - तत्प्राप्त्यर्थमिति ।</summary>
+<details><summary>टीका - तत्प्रा­प्त्यर्थं</summary>
 
 परब्रह्मान्वेषमाणानां कोऽतिशय इत्यत आह –
 
 तत्प्राप्त्यर्थमिति ।
 
-तत्प्राप्त्यर्थे तदधिगमाय तदन्वेषणं कुर्वन्तो यथाकामं यतिष्याम इत्येवमभिप्रायेणेत्यन्वयः ।
+तत्प्राप्त्यर्थं तदधिगमाय तदन्वेषणं कुर्वन्तो यथाकामं यतिष्याम इत्येवमभिप्रायेणेत्यन्वयः ।
 
 </details>
 
 <details><summary>टीका - समिदिति ।</summary>
 
-समिदिति ।
-
 समिद्ग्रहणं यथायोग्यं दन्तकाष्ठाद्युपहारोपलक्षणार्थम् ॥ १ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V02_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V02_B01)  
 <details open><summary>मूलम्</summary>
 
 तान्ह स ऋषिरुवाच भूय एव तपसा ब्रह्मचर्येण श्रद्धया संवत्सरं संवत्स्यथ यथाकामं प्रश्नान्पृच्छत यदि विज्ञास्यामः सर्वं ह वो वक्ष्याम इति ॥ २ ॥
@@ -132,8 +122,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V03_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V03_B01)  
 <details open><summary>मूलम्</summary>
 
 अथ कबन्धी कात्यायन उपेत्य पप्रच्छ भगवन्कुतो ह वा इमाः प्रजाः प्रजायन्त इति ॥ ३ ॥
@@ -151,8 +140,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V04_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V04_B01)  
 <details open><summary>मूलम्</summary>
 
 तस्मै स होवाच प्रजाकामो वै प्रजापतिः स तपोऽतप्यत स तपस्तप्त्वा स मिथुनमुत्पादयते रयिं च प्राणं चेत्येतौ मे बहुधा प्रजाः करिष्यत इति ॥ ४ ॥
@@ -172,15 +160,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - यथोक्तकारीति ।</summary>
 
-यथोक्तकारीति ।
-
 ज्ञानकर्मसमुच्चयकारीत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - तद्भावभावित इति ।</summary>
-
-तद्भावभावित इति ।
 
 प्रजापतिरहं सर्वात्मेत्युपासनकालीनप्रजापतिभावनायुक्त इत्यर्थः । पूर्वकल्पीयतद्भावभावित एतत्कल्पादौ हिरण्यगर्भात्मना निर्वृतः प्रजापतिः सन्पश्चात्प्रजाकामः संस्तपो जन्मान्तरभावितं ज्ञानं श्रुतिप्रकाशितार्थविषयमतप्यतान्वालोचयच्चिन्तादिना तत्संस्कारमुद्बोध्य ज्ञानमुत्पादितवानित्यन्वयः ।
 
@@ -204,7 +188,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्राणं चेति ।</summary>
 
-एवं प्राणशब्देनापि ।“अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः । प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्॥”(भ. गी. १५। १४)इति स्मृतेरग्नेः प्राणसम्बन्धादग्निर्भोक्ता लक्ष्यत इत्याह –
+एवं प्राणशब्देनापि । “अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः । प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्॥”(भ. गी. १५। १४) इति स्मृतेरग्नेः प्राणसम्बन्धादग्निर्भोक्ता लक्ष्यत इत्याह –
 
 प्राणं चेति ।
 
@@ -218,7 +202,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - सूर्यचन्द्रमसाविति॥ ४ ॥</summary>
+<details><summary>टीका - सूर्य­च­न्द्र­म­सा­विति॥ ४ ॥</summary>
 
 उद्यन्तं वावाऽऽदित्यमग्निरनुसमारोहतीति श्रुतेः सूर्याग्न्योरेकत्वमभिप्रेत्याग्निं सूर्यपदेनाऽऽह –
 
@@ -226,8 +210,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V05_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V05_B01)  
 <details open><summary>मूलम्</summary>
 
 आदित्यो ह वै प्राणो रयिरेव चन्द्रमा रयिर्वा एतत्सर्वं यन्मूर्तं चामूर्तं च तस्मान्मूर्तिरेव रयिः ॥ ५ ॥
@@ -263,7 +246,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - कथमिति ।</summary>
 
-कथमिति ।
+
 
 </details>
 
@@ -285,8 +268,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V06_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V06_B01)  
 <details open><summary>मूलम्</summary>
 
 अथादित्य उदयन्यत्प्राचीं दिशं प्रविशति तेन प्राच्यान्प्राणान्रश्मिषु संनिधत्ते । यद्दक्षिणां यत्प्रतीचीं यदुदीचीं यदधो यदूर्ध्वं यदन्तरा दिशो यत्सर्वं, प्रकाशयति तेन, सर्वान्प्राणान्रश्मिषु संनिधत्ते ॥ ६ ॥
@@ -304,9 +286,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - स्वप्रकाशेनेति ।</summary>
+<details><summary>टीका - स्वप्रकाशेने</summary>
 
-स्वप्रकाशेनेति ।
+ति ।
 
 स्वकीयप्रकाशेन स्वप्रभयेत्यर्थः ।
 
@@ -314,15 +296,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अन्तर्भूतानिति ।</summary>
 
-अन्तर्भूतानिति ।
-
 यद्यपि प्राणस्यात्तृत्वमुक्तं तथाऽपि रयिर्वा एतत्सर्वमित्यत्रामूर्तस्य प्राणस्यापि गुणभावविवक्षयाऽन्नत्वमुक्तमिति तथोक्तम् ।
 
 </details>
 
-<details><summary>टीका - स्वात्माभावभासरूपेष्विति ।</summary>
-
-स्वात्माभावभासरूपेष्विति ।
+<details><summary>टीका - स्वात्मा­व­भा­स­रू­पे­ष्विति ।</summary>
 
 स्वात्मप्रभारूपेषु रश्मिष्वित्यर्थः ।
 
@@ -330,14 +308,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - व्याप्तत्वादिति ।</summary>
 
-व्याप्तत्वादिति ।
-
 सम्बद्धत्वादित्यर्थः ॥ ६ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V07_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V07_B01)  
 <details open><summary>मूलम्</summary>
 
 स एष वैश्वानरो विश्वरूपः प्राणोऽग्निरुदयते । तदेतदृचाभ्युक्तम् ॥ ७ ॥
@@ -355,22 +330,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - वैश्वानर इति ।</summary>
 
-वैश्वानर इति ।
-
 नरा जीवा विश्वे च ते नराश्च विश्वानराः स एव वैश्वानरः सर्वजीवात्मक इत्यर्थः । विश्वरूपः सर्वप्रपञ्चात्मक इति भेदः ।
 
 </details>
 
 <details><summary>टीका - उक्तं वस्त्विति ।</summary>
 
-उक्तं वस्त्विति ।
-
 आदित्यस्योक्तं माहात्म्यमित्यर्थः ॥ ७ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V08_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V08_B01)  
 <details open><summary>मूलम्</summary>
 
 विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपन्तम् ।
@@ -379,7 +349,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - स्वात्मानमित्यादिना ॥ ८ ॥</summary>
+<details><summary>टीका - स्वात्मा­न­मि­त्या­दिना ॥ ८ ॥</summary>
 
 विश्वरूपमित्यादिद्वितीयान्तानां सहस्ररश्मिरित्यादिप्रथमान्तानां सामानाधिकरण्येनान्वयायोगादध्याहारं कृत्वा वाक्यभेदेन व्याचष्टे –
 
@@ -387,8 +357,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V09_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V09_B01)  
 <details open><summary>मूलम्</summary>
 
 संवत्सरो वै प्रजापतिस्तस्यायने दक्षिणं चोत्तरं च । तद्ये ह वै तदिष्टापूर्ते कृतमित्युपासते ते चान्द्रमसमेव लोकमभिजयन्ते । त एव पुनरावर्तन्ते तस्मादेत ऋषयः प्रजाकामा दक्षिणं प्रतिपद्यन्ते । एष ह वै रयिर्यः पितृयाणः ॥ ९ ॥
@@ -396,7 +365,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - यश्चासाविति ।</summary>
+<details><summary>टीका - यश्चासौ</summary>
 
 स मिथुनमुत्पादयत इत्युपक्रान्तं मिथुनमुपसंहरति –
 
@@ -424,7 +393,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - तन्निर्वर्त्यत्वादिति ।</summary>
+<details><summary>टीका - तन्नि­र्व­र्त्य­त्वा­दिति ।</summary>
 
 स च प्रजापतिः प्रजापत्यात्मकमिथुननिर्वर्त्यत्वादित्याह –
 
@@ -476,9 +445,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - इष्टं चेति ।</summary>
+<details><summary>टीका - इष्टं चे</summary>
 
-इष्टं चेति ।
+ति ।
 
 अग्निहोत्रं तपः सत्यं वेदानां चानुपालनम् । आतिथ्यं वैश्वदेवश्च इष्टमित्यभिधीयते ॥ वापीकूपतडागादि देवतायतनानि च । अन्नप्रदानमारामः पूर्तमित्यभिधीयते ॥ इति तयोर्भेदः ।
 
@@ -496,7 +465,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - कृतरूपत्वादिति ।</summary>
 
-कृतरूपेष्ट्यादिजन्यत्वाच्चन्द्रस्यापि कृतत्वेनानित्यत्वात्पुनरावृत्तिरित्याह –
+कृतरूपेष्टादिजन्यत्वाच्चन्द्रस्यापि कृतत्वेनानित्यत्वात्पुनरावृत्तिरित्याह –
 
 कृतरूपत्वादिति ।
 
@@ -510,8 +479,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V10_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V10_B01)  
 <details open><summary>मूलम्</summary>
 
 अथोत्तरेण तपसा ब्रह्मचर्येण श्रद्धया विद्ययात्मानमन्विष्यादित्यमभिजयन्ते । एतद्वै प्राणानामायतनमेतदमृतमभयमेतत्परायणमेतस्मान्न पुनरावर्तन्त इत्येष निरोधः । तदेष श्लोकः ॥ १० ॥
@@ -521,15 +489,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अथेति ।</summary>
 
-अथेति ।
-
 मार्गान्तरारम्भार्थोऽथशब्दः ।
 
 </details>
 
-<details><summary>टीका - प्रजापत्यात्मविषयेति ।</summary>
-
-प्रजापत्यात्मविषयेति ।
+<details><summary>टीका - प्रजा­प­त्या­त्म­वि­ष­येति ।</summary>
 
 तत्तादात्म्यविषययेत्यर्थः । आदित्यमभिजयन्त इति पूर्वमन्वयार्थमुक्तमिदानीं व्याख्यानार्थमिति द्रष्टव्यम् ।
 
@@ -537,23 +501,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - सामान्यमिति ।</summary>
 
-सामान्यमिति ।
-
 समष्टिरूपमित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - विद्यावतामिति ।</summary>
 
-विद्यावतामिति ।
-
 कर्मानधिकारिणामत एव केवलोपासनवतामित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - कर्मिणां च ज्ञानवतामिति ।</summary>
-
-कर्मिणां च ज्ञानवतामिति ।
 
 समुच्चयवतामित्यर्थः ।
 
@@ -571,7 +529,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - तत्कथमिति ।</summary>
 
-यद्वा तस्यायने इत्यारभ्येत्येष निरोध इत्यन्तं श्रुतिवाक्यमयनयो रयिप्राणत्वप्रतिपादनपरतया व्याख्येयम् । तथा हि । संवत्सरस्य रयिप्राणमिथुननिर्वर्त्यत्वे रयिप्राणरूपत्वं च वक्तव्यं तत्कथमिति पृच्छति –
+यद्वा तस्यायने इत्यारभ्येत्येष निरोध इत्यन्तं श्रुतिवाक्यमयनयो रयिप्राणरुपत्वप्रतिपादनपरतया व्याख्येयम् । तथा हि । संवत्सरस्य रयिप्राणमिथुननिर्वर्त्यत्वे रयिप्राणरूपत्वं च वक्तव्यं तत्कथमिति पृच्छति –
 
 तत्कथमिति ।
 
@@ -579,7 +537,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - तस्येति ।</summary>
 
-तदवयवयोरयनयोस्तद्रूपत्वं वक्तुं तयोः प्रथमं प्रसिद्धमाह –
+तदवयवयोरयनयोस्तद्रूपत्वं वक्तुं तयोः प्रथमं प्रसिध्दिमाह –
 
 तस्येति ।
 
@@ -611,8 +569,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - लोकमिति ।</summary>
 
-लोकमिति ।
-
 सोमरूपं शरीरमित्यर्थः ।
 
 </details>
@@ -627,7 +583,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - यस्मादिति ।</summary>
 
-रयिरूपचन्द्रस्य दक्षिणायनद्वारा प्राप्यत्वात्तस्यायनस्य तदन्तर्भाव इति वक्तुं तस्य कर्मभिः प्राप्यत्वमाह –
+रयिरूपचन्द्रस्य दक्षिणायनद्वारा प्राप्यत्वात्तस्यायनस्य तदन्तर्भाव इति वक्तुं तस्य कर्मिभिः प्राप्यत्वमाह –
 
 यस्मादिति ।
 
@@ -642,8 +598,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - पितृयाणोपलक्षित इति ।</summary>
-
-पितृयाणोपलक्षित इति ।
 
 तत्प्राप्य इत्यर्थः । ततश्च तद्विशेषणस्यायनस्यापि रयित्वमित्यर्थः ।
 
@@ -671,14 +625,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अस्मिन्नर्थ इति ।</summary>
 
-अस्मिन्नर्थ इति ।
-
 संवत्सरस्वरूप इत्यर्थः ॥ १० ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V11_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V11_B01)  
 <details open><summary>मूलम्</summary>
 
 पञ्चपादं पितरं द्वादशाकृतिं दिव आहुः परे अर्धे पुरीषिणम् ।
@@ -689,15 +640,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - इयं कल्पनेति ।</summary>
 
-इयं कल्पनेति ।
-
 पञ्चधा कर्मसाध्यचन्द्रवैलक्षण्यकल्पनेत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - जनयितृत्वादिति ।</summary>
-
-जनयितृत्वादिति ।
 
 संवत्सरात्मककालस्य सर्वजनकत्वादित्यर्थः ।
 
@@ -713,23 +660,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अवयविकरणमिति ।</summary>
 
-अवयविकरणमिति ।
-
 अवयवित्वेन करणमित्यर्थः । पक्षद्वयेऽप्येक एवार्थः ।
 
 </details>
 
 <details><summary>टीका - द्युलोकादिति ।</summary>
 
-द्युलोकादिति ।
-
 आकाशरूपादन्तरिक्षलोकादित्यर्थः । अन्यथा स्वर्गलोकात्परस्य चतुर्थत्वेन तृतीयस्यामित्यनन्वयापत्तेः ।
 
 </details>
 
 <details><summary>टीका - उदकवन्तमिति ।</summary>
-
-उदकवन्तमिति ।
 
 आदित्याज्जायते वृष्टिरिति स्मृतेरित्यर्थः । अन्य इत्यस्य पूर्वार्धगतेनाऽऽहुरित्यनेन संबन्धः । उ इति तुशब्दसमानार्थो निपातः । परे तु तमेव विचक्षणमाहुरित्यन्वयः ।
 
@@ -755,8 +696,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V12_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V12_B01)  
 <details open><summary>मूलम्</summary>
 
 मासो वै प्रजापतिस्तस्य कृष्णपक्ष एव रयिः शुक्लः प्राणस्तस्मादेत ऋषयः शुक्ल इष्टं कुर्वन्तीतर इतरस्मिन् ॥ १२ ॥
@@ -772,9 +712,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - स एवेति ।</summary>
+<details><summary>टीका - स एवे</summary>
 
-संवत्सरस्यापि मासाहोरात्ररूपव्यतिरेकेणौषध्यादिजनकत्वाभावात्तस्य मासाद्यात्मकत्वमाह –
+संवत्सरस्यापि मासाहोरात्ररूपव्यतिरेकेणौषधव्यादिजनकत्वाभावात्तस्य मासाद्यात्मकत्वमाह –
 
 स एवेति ।
 
@@ -782,15 +722,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - यथोक्तेति ।</summary>
 
-यथोक्तेति ।
-
 संवत्सररूपो रयिप्राणमिथुनात्मक इत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - यस्मादिति ।</summary>
 
-शुक्लकृष्णयोरुभयोरपि दर्शपूर्णमासादिकर्मानुष्ठानदर्शनात्तस्मादेत ऋषय इत्यादि वाक्यमनुपपन्नमित्याशङ्क्य शुक्लस्य प्राणात्मत्वज्ञानस्तुतिपरतया व्याचष्टे –
+शुक्लकृष्णयोरुभयोरपि दर्शपूर्णमासादिकर्मानुष्ठानदर्शनात्तस्मादेत ऋषय इत्यादि वाक्यमनुपपन्नमित्याशङ्क्य शुक्लस्य प्राणात्मकत्वज्ञानस्तुतिपरतया व्याचष्टे –
 
 यस्मादिति ।
 
@@ -816,8 +754,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V13_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V13_B01)  
 <details open><summary>मूलम्</summary>
 
 अहोरात्रो वै प्रजापतिस्तस्याहरेव प्राणो रात्रिरेव रयिः प्राणं वा एते प्रस्कन्दन्ति ये दिवा रत्या संयुज्यन्ते ब्रह्मचर्यमेव तद्यद्रात्रौ रत्या संयुज्यन्ते ॥ १३ ॥
@@ -826,8 +763,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - रयिः पूर्ववदिति ।</summary>
-
-रयिः पूर्ववदिति ।
 
 रयिरन्नं चन्द्रमा इत्यर्थः ।
 
@@ -843,14 +778,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्रकृतमिति ।</summary>
 
-प्रकृतमिति ।
-
 कुतो ह वा इमाः प्रजाः प्रजायन्त इति पृष्टमित्यर्थः । पूर्वोक्तं सर्वमेतदुपयोगितयोक्तं न तु साक्षात्प्रकृतमिति भावः ॥ १३ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V14_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V14_B01)  
 <details open><summary>मूलम्</summary>
 
 अन्नं वै प्रजापतिस्ततो ह वै तद्रेतस्तस्मादिमाः प्रजाः प्रजायन्त इति ॥ १४ ॥
@@ -858,9 +790,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - एवं क्रमेणेति ।</summary>
+<details><summary>टीका - एवं क्रमेणे</summary>
 
-एवं क्रमेणेति ।
+ति ।
 
 रयिप्राणसंवत्सरादिक्रमेण परिणम्य व्रीह्याद्यात्मना व्यवस्थितः सन्नन्नं वै प्रजापतिरन्नात्मको जातः प्रजापतिरित्यन्वयः ।
 
@@ -868,15 +800,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - कथमिति ।</summary>
 
-कथमिति ।
-
 अन्नरूपत्वेऽपि तस्य कथं प्रजाजनकत्वमित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - तत इति ।</summary>
-
-तत इति ।
 
 भक्षितादन्नादित्यर्थः ।
 
@@ -884,14 +812,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - रेत इति ।</summary>
 
-रेत इति ।
-
 शोणितस्याप्युपलक्षणं तुल्यत्वादिति ॥ १४ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V15_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V15_B01)  
 <details open><summary>मूलम्</summary>
 
 तद्ये ह वै तत्प्रजापतिव्रतं चरन्ति ते मिथुनमुत्पादयन्ते । तेषामेवैष ब्रह्मलोको येषां
@@ -918,12 +843,12 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C01_V16_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/1/AP/?u=PR_C01_V16_B01)  
 <details open><summary>मूलम्</summary>
 
 तेषामसौ विरजो ब्रह्मलोको न येषु जिह्ममनृतं न माया चेति ॥ १६ ॥
 यस्तु पुनरादित्योपलक्षित उत्तरायणः प्राणात्मभावो विरजः शुद्धो न चन्द्रब्रह्मलोकवद्रजस्वलो वृद्धिक्षयादियुक्तः असौ तेषाम् , केषामिति, उच्यते — यथा गृहस्थानामनेकविरुद्धसंव्यवहारप्रयोजनवत्त्वात् जिह्मं कौटिल्यं वक्रभावोऽवश्यम्भावि तथा न येषु जिह्मम् , यथा च गृहस्थानां क्रीडादिनिमित्तमनृतमवर्जनीयं तथा न येषु तत् तथा माया गृहस्थानामिव न येषु विद्यते । माया नाम बहिरन्यथात्मानं प्रकाश्यान्यथैव कार्यं करोति, सा माया मिथ्याचाररूपा । मायेत्येवमादयो दोषा येष्वेकाकिषु ब्रह्मचारिवानप्रस्थभिक्षुषु निमित्ताभावान्न विद्यन्ते, तत्साधनानुरूप्येणैव तेषामसौ विरजो ब्रह्मलोक इत्येषा ज्ञानयुक्तकर्मवतां गतिः । पूर्वोक्तस्तु ब्रह्मलोकः केवलकर्मिणां चन्द्रलक्षण इति ॥
+इति प्रथमप्रश्नभाष्यम् ॥
 
 </details>
 
@@ -937,15 +862,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - उत्तरायण इति ।</summary>
 
-उत्तरायण इति ।
-
 तेन प्राप्य इत्यर्थः । प्राणात्मभावोऽपरब्रह्मतयाऽवस्थानमित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - असौ केषां तेषामिति ।</summary>
-
-असौ केषां तेषामिति ।
 
 तेषामसौ विरज इत्यत्र तेषामित्यनेन केषां निर्देश इति प्रश्नार्थः ।
 
@@ -977,9 +898,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
+## द्वितीयः प्रश्नः
 
-## द्वितीयः प्रश्नः पूर्वपृष्ठम् उत्तरपृष्ठम्
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C02_V01_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/2/AP/?u=PR_C02_V01_B01)  
 <details open><summary>मूलम्</summary>
 
 अथ हैनं भार्गवो वैदर्भिः पप्रच्छ भगवन्कत्येव देवाः प्रजां विधारयन्ते कतर एतत्प्रकाशयन्ते कः पुनरेषां वरिष्ठ इति ॥ १ ॥
@@ -997,9 +918,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अवधारयितव्यमिति ।</summary>
 
-अवधारयितव्यमिति ।
-
-अत्ता विश्वस्य सत्पतिरित्यत्तृत्वस्यैषोऽग्निस्तपतीत्यारभ्यारा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितम् । प्रजापतिश्चरसि गर्भे त्वमेव प्रतिजायस इत्यादिना च प्रजापतित्वस्योत्तरत्र वक्ष्यमाणत्वादित्यर्थः । इदमुपलक्षणं पूर्वं गतिश्रवणेन विरक्तस्यापि चित्तैकाग्र्यं विना वक्ष्यमाणात्मज्ञानासिद्धेस्तदर्थे मन्दानां फलविशेषार्थं च प्राणोपासनार्थं प्रश्नद्वयारम्भः । तत्रापि श्रेष्ठत्वात्तृत्वप्रजापतित्वादिगुणनिर्धारणार्थं द्वितीयः प्रश्नः । तदुत्पत्त्यादिनिर्धारणपूर्वकं तदुपासनविधानार्थं तृतीयः प्रश्नः इत्यपि द्रष्टव्यम् ।
+अत्ता विश्वस्य सत्पतिरित्यत्तृत्वस्यैषोऽग्निस्तपतीत्यारभ्यारा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितम् । प्रजापतिश्चरसि गर्भे त्वमेव प्रतिजायस इत्यादिना च प्रजापतित्वस्योत्तरत्र वक्ष्यमाणत्वादित्यर्थः । इदमुपलक्षणं पूर्वं गतिश्रवणेन विरक्तस्यापि चित्तैकाग्र्यं विना वक्ष्यमाणात्मज्ञानासिद्धेस्तदर्थं मन्दानां फलविशेषार्थं च प्राणोपासनार्थं प्रश्नद्वयारम्भः । तत्रापि श्रेष्ठत्वात्तृत्वप्रजापतित्वादिगुणनिर्धारणार्थं द्वितीयः प्रश्नः । तदुत्पत्त्यादिनिर्धारणपूर्वकं तदुपासनविधानार्थं तृतीयः प्रश्नः इत्यपि द्रष्टव्यम् ।
 
 </details>
 
@@ -1013,16 +932,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - स्वमाहात्म्यख्यापनमिति ।</summary>
-
-स्वमाहात्म्यख्यापनमिति ।
+<details><summary>टीका - स्वमा­हा­त्म्य­ख्या­प­न­मिति ।</summary>
 
 अवकाशदानादिकमाकाशादीनां माहात्म्यं तस्य ख्यापनं तस्य लोकान्प्रति प्रकटनं तत्प्रकाशयन्ते कुर्वन्तीत्यर्थः । पाकं पचतीतिवत् । अवकाशदानादिकं स्वस्वकार्यं सर्वलोकप्रकटनं यथा तथा कतरे कुर्वन्तीत्यर्थः ॥ १ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C02_V02_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/2/AP/?u=PR_C02_V02_B01)  
 <details open><summary>मूलम्</summary>
 
 तस्मै स होवाच । आकाशो ह वा एष देवो वायुरग्निरापः पृथिवी वाङ्मनश्चक्षुः श्रोत्रं च । ते प्रकाश्याभिवदन्ति वयमेतद्बाणमवष्टभ्य विधारयामः ॥ २ ॥
@@ -1032,9 +948,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - एष देव इति ।</summary>
 
-एष देव इति ।
-
-वक्ष्यमाणाभिवदनादिव्यवहारसिद्ध्यर्थं चेतनत्वं सम्भावयितुं देव इति विशेषणम्“अभिमानिव्यपदेशस्तु विशेषानुगतिभ्याम्”(ब्र.सू. २।१।५)इति न्यायेनाऽऽकाशाद्यभिमानिदेवताग्रहणार्थम् । तच्च विशेषणं वाय्वादिष्वपि सर्वत्र सम्बध्यते ।
+वक्ष्यमाणाभिवदनादिव्यवहारसिद्ध्यर्थं चेतनत्वं सम्भावयितुं देव इति विशेषणम् “अभिमानिव्यपदेशस्तु विशेषानुगतिभ्याम्”(ब्र.सू. २।१।५) इति न्यायेनाऽऽकाशाद्यभिमानिदेवताग्रहणार्थम् । तच्च विशेषणं वाय्वादिष्वपि सर्वत्र सम्बध्यते ।
 
 </details>
 
@@ -1050,22 +964,19 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - माहात्म्यमिति ।</summary>
 
-माहात्म्यमिति ।
-
 आकाशादीनामवकाशदानादिरूपं शरीरधारणैकदेशात्मकं प्रकाश्यं स्वकार्यं प्रकाश्य सर्वलोकप्रकटं यथा तथा कृत्वाऽभिवदन्ति, अभितः सर्वतः कृत्स्नं शरीरधारणं प्रत्येकं वयमेव कुर्म इति वदन्तीत्यर्थः ।
 
 </details>
 
-<details><summary>टीका - बाणमिति ।</summary>
+<details><summary>टीका - बाणं</summary>
 
 बाणमिति ।
 
-बवयोरभेदद्वाति कुत्सितं गन्धं वहतीति वा, विनाशं गच्छतीति वा देशाद्देशान्तरं गच्छतीति वा बणं बणमेव बाणं कार्यकरणसंघातं शरीरमित्यर्थः ॥ २ ॥
+वबयोरभेदद्वाति कुत्सितं गन्धं वहतीति वा, विनाशं गच्छतीति वा देशाद्देशान्तरं गच्छतीति वा बणं बणमेव बाणं कार्यकरणसंघातं शरीरमित्यर्थः ॥ २ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C02_V03_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/2/AP/?u=PR_C02_V03_B01)  
 <details open><summary>मूलम्</summary>
 
 तान्वरिष्ठः प्राण उवाच मा मोहमापद्यथाहमेवैतत्पञ्चधात्मानं प्रविभज्यैतद्बाणमवष्टभ्य विधारयामीति तेऽश्रद्दधाना बभूवुः ॥ ३ ॥
@@ -1075,14 +986,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - कथमेतदिति ।</summary>
 
-कथमेतदिति ।
-
-एतदहमैवैतदित्याद्युक्तम् । एवं यथाभूतं कथमित्यर्थः ॥ ३ ॥
+एतदहमेवैतदित्याद्युक्तम् । एवं यथाभूतं कथमित्यर्थः ॥ ३ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C02_V04_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/2/AP/?u=PR_C02_V04_B01)  
 <details open><summary>मूलम्</summary>
 
 सोऽभिमानादूर्ध्वमुत्क्रामत इव तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते तस्मिꣳश्च प्रतिष्ठमाने सर्व एव प्रातिष्ठन्ते । तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते तस्मिꣳश्च प्रतिष्ठमाने सर्वा एव प्रातिष्ठन्त एवं वाङ्मनश्चक्षुः श्रोत्रं च ते प्रीताः प्राणं स्तुन्वन्ति ॥ ४ ॥
@@ -1090,9 +998,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - उत्क्रान्तवानिवेति ।</summary>
+<details><summary>टीका - उत्क्रा­न्त­वा­निवे</summary>
 
-उत्क्रान्तवानिवेति ।
+ति ।
 
 अत्यन्तोत्क्रान्त्यभावादिवशब्दः ।
 
@@ -1100,22 +1008,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - निरपेक्ष इति ।</summary>
 
-निरपेक्ष इति ।
-
 स्वयमेवेत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - दृष्टान्तेनेति ।</summary>
 
-दृष्टान्तेनेति ।
-
 तद्यथेति वक्ष्यमाणेनेत्यर्थः ॥ ४ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C02_V05_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/2/AP/?u=PR_C02_V05_B01)  
 <details open><summary>मूलम्</summary>
 
 एषोऽग्निस्तपत्येष सूर्य एष पर्जन्यो मघवानेष वायुः ।
@@ -1124,9 +1027,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - सूर्यः सन्निति ।</summary>
+<details><summary>टीका - सूर्यः सन्</summary>
 
-सूर्यः सन्निति ।
+निति ।
 
 तपतीत्यनुषङ्गः सन्तापयतीत्यर्थः ।
 
@@ -1134,14 +1037,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - आवहप्रवहादीति ।</summary>
 
-आवहप्रवहादीति ।
-
 आवहादयः सप्त वायुगुणास्तथाभूतः सन्मेघाञ्ज्योतिश्चक्रादींश्च वहतीति शेषः । एष देवः पृथिवी सन्सर्वस्य जगतो धारयिता रयिश्चन्द्रः सन्सर्वं पुष्णातीत्यर्थः ॥ ५ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C02_V06_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/2/AP/?u=PR_C02_V06_B01)  
 <details open><summary>मूलम्</summary>
 
 अरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितम् ।
@@ -1152,15 +1052,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - श्रद्धादीति ।</summary>
 
-श्रद्धादीति ।
-
 प्राणाच्छ्रद्धां खं वायुर्ज्योतिराप इत्यादिना वक्ष्यमाणषोडशकलात्मक इत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - ब्रह्म चेति ।</summary>
-
-ब्रह्म चेति ।
 
 ब्राह्मणजातिरित्यर्थः ।
 
@@ -1176,8 +1072,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C02_V07_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/2/AP/?u=PR_C02_V07_B01)  
 <details open><summary>मूलम्</summary>
 
 प्रजापतिश्चरसि गर्भे त्वमेव प्रतिजायसे ।
@@ -1186,15 +1081,15 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - किञ्चेति ।</summary>
+<details><summary>टीका - किञ्चे</summary>
 
-किञ्चेति ।
+ति ।
 
 यः प्रजापतिर्विराट्सोऽपि त्वमेवेत्यन्वयः । पितुर्गर्भे रेतोरूपेण मातुर्गर्भे पुत्ररूपेण यश्चरति पश्चात्तयोरेव प्रतिरूपः सन्सदृशः सन्यः प्रजायते स त्वमेव प्रजायस इत्यन्वयः ।
 
 </details>
 
-<details><summary>टीका - प्रतिरूपः सन्निति ।</summary>
+<details><summary>टीका - प्रतिरूपः सन्</summary>
 
 प्रतिशब्दार्थ उक्तः –
 
@@ -1202,7 +1097,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - प्रजापतित्वादेवेति ।</summary>
+<details><summary>टीका - प्रजा­प­ति­त्वा­देवे</summary>
 
 ननु प्राणस्य पुत्ररूपत्वमेवोक्तं न तु पितृमातृरूपत्वं तत्कस्मादत आह –
 
@@ -1230,19 +1125,16 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C02_V08_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/2/AP/?u=PR_C02_V08_B01)  
 <details open><summary>मूलम्</summary>
 
 देवानामसि वह्नितमः पितॄणां प्रथमा स्वधा ।
 ऋषीणां चरितं सत्यमथर्वाङ्गिरसामसि ॥ ८ ॥
-किञ्च, देवानाम् इन्द्रादीनाम् असि भवसि त्वं वह्नितमः हविषां प्रापयितृतमः । पितॄणां नान्दीमुखे श्राद्धे या पितृभ्यो दीयते स्वधा अन्नं सा देवप्रदानमपेक्ष्य प्रथमा भवति । तस्या अपि पितृभ्यः प्रापयिता त्वमेवेत्यर्थः । किञ्च, ऋषीणां चक्षुरादीनां प्राणानाम् अथर्वाङ्गिरसाम् अङ्गिरसभूतानामथर्वणाम् — ‘तेषामेव प्राणो वाथर्वा’ ( ? ) इति श्रुतेः — चरितं चेष्टितं सत्यम् अवितथं देहधारणाद्युपकारलक्षणं त्वमेवासि ॥
+किञ्च, देवानाम् इन्द्रादीनाम् असि भवसि त्वं वह्नितमः हविषां प्रापयितृतमः । पितॄणां नान्दीमुखे श्राद्धे या पितृभ्यो दीयते स्वधा अन्नं सा देवप्रदानमपेक्ष्य प्रथमा भवति । तस्या अपि पितृभ्यः प्रापयिता त्वमेवेत्यर्थः । किञ्च, ऋषीणां चक्षुरादीनां प्राणानाम् अथर्वाङ्गिरसाम् अङ्गिरसभूतानामथर्वणाम् — ‘तेषामेव प्राणो वाथर्वा’(?) इति श्रुतेः — चरितं चेष्टितं सत्यम् अवितथं देहधारणाद्युपकारलक्षणं त्वमेवासि ॥
 
 </details>
 
 <details><summary>टीका - हविषां प्रापयितृतम इति ।</summary>
-
-हविषां प्रापयितृतम इति ।
 
 वह्निशब्दो वहनाद्वह्निरिति यौगिक इत्यर्थः ।
 
@@ -1250,22 +1142,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्रथमा भवतीति ।</summary>
 
-प्रथमा भवतीति ।
-
-यज्ञादिदैवे कर्मणि प्रथमं नान्दीमुखश्राद्धस्यावश्यकर्तव्यत्वात्सा प्रथमेत्यर्थः । ऋष गताविति धातोर्ज्ञानार्थत्वादृषिशब्दस्य ज्ञानजनकचक्षुराद्यर्थत्वमित्यर्थः ।
+यज्ञादिदैवकर्मणि प्रथमं नान्दीमुखश्राद्धस्यावश्यकर्तव्यत्वात्सा प्रथमेत्यर्थः । ऋष गताविति धातोर्ज्ञानार्थत्वादृषिशब्दस्य ज्ञानजनकचक्षुराद्यर्थत्वमित्यर्थः ।
 
 </details>
 
-<details><summary>टीका - अङ्गीरसभूतानामिति ।</summary>
+<details><summary>टीका - अङ्गी­र­स­भू­ता­ना­मिति ।</summary>
 
-अङ्गीरसभूतानामिति ।
-
-प्राणाभावेऽङ्गानां शोषदर्शनात्तेषामङ्गिरसत्वमित्यर्थः । मुख्यप्राणस्याथर्वत्त्वं श्रुत्याऽभिहितं यद्यपि चक्षुरादीनामपि तदंशत्वादथर्वशब्दार्थत्वमिति भावः ॥ ८ ॥
+प्राणाभावेऽङ्गानां शोषदर्शनात्तेषामङ्गिरसत्वमित्यर्थः । मुख्यप्राणस्याथर्वत्त्वं श्रुत्याऽभिहितं यद्यपि तथाऽपि चक्षुरादीनामपि तदंशत्वादथर्वशब्दार्थत्वमिति भावः ॥ ८ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C02_V09_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/2/AP/?u=PR_C02_V09_B01)  
 <details open><summary>मूलम्</summary>
 
 इन्द्रस्त्वं प्राण तेजसा रुद्रोऽसि परिरक्षिता ।
@@ -1284,16 +1171,24 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - सौम्येनेति ।</summary>
+<details><summary>टीका - सौम्येने</summary>
 
-सौम्येनेति ।
+ति ।
 
 विष्ण्वादिरूपेणेत्यर्थः ॥ ९ ॥
 
 </details>
 
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/2/AP/?u=PR_C02_V10_B01)  
+<details open><summary>मूलम्</summary>
 
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C02_V11_B01/devanagari)  
+यदा त्वमभिवर्षसि अथेमाः प्राण ते प्रजाः ।
+आनन्दरूपास्तिष्ठन्ति कामायान्नं भविष्यतीति ॥ १० ॥
+यदा पर्जन्यो भूत्वा अभिवर्षसि त्वम् , अथ तदा अन्नं प्राप्य इमाः प्रजाः प्राणते प्राणचेष्टां कुर्वन्तीत्यर्थः । अथवा, हे प्राण, ते तव इमाः प्रजाः स्वात्मभूतास्त्वदन्नसंवर्धितास्त्वदभिवर्षणदर्शनमात्रेण च आनन्दरूपाः सुखं प्राप्ता इव सत्यः तिष्ठन्ति । कामाय इच्छातः अन्नं भविष्यति इत्येवमभिप्रायः ॥
+
+</details>
+
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/2/AP/?u=PR_C02_V11_B01)  
 <details open><summary>मूलम्</summary>
 
 व्रात्यस्त्वं प्राणैकर्षिरत्ता विश्वस्य सत्पतिः ।
@@ -1304,13 +1199,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - असंस्कृत इति ।</summary>
 
-असंस्कृत इति ।
-
 संस्कारहीनो व्रात्य इति स्मृतेरित्यर्थः ।
 
 </details>
 
-<details><summary>टीका - स्वभावत एवेति ।</summary>
+<details><summary>टीका - स्वभावत एवे</summary>
 
 अनेन स्वतःशुद्धत्वं विवक्षितमित्याह –
 
@@ -1320,21 +1213,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - मातरिश्वेति ।</summary>
 
-मातरिश्वेति ।
-
 मातरिश्व न इत्यत्र नलोपश्छान्दस इत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - वायोस्त्वमिति ।</summary>
 
-वायोस्त्वमिति ।
-
 पितेत्यनुषङ्गः ।
 
 </details>
 
-<details><summary>टीका - अतश्चेति ।</summary>
+<details><summary>टीका - अतश्चे</summary>
 
 अस्मिन्व्याख्याने वायुमात्रपितृत्वादस्मदादिसर्वपितृत्वमनुक्तं स्यादत आह –
 
@@ -1344,8 +1233,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C02_V12_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/2/AP/?u=PR_C02_V12_B01)  
 <details open><summary>मूलम्</summary>
 
 या ते तनूर्वाचि प्रतिष्ठिता या श्रोत्रे या च चक्षुषि ।
@@ -1356,35 +1244,31 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - वाचि प्रतिष्ठितेति ।</summary>
 
-वाचि प्रतिष्ठितेति ।
-
 वाच्यमानरूपा तनूः प्रतिष्ठिता । श्रोत्रे व्यानरूपा । चक्षुषि प्राणरूपा । मनसि समानरूपा । स प्राणस्तच्चक्षुः स व्यानस्तच्छ्रोत्रं सोऽपानः सा वाक्स समानस्तन्मन इति श्रुतेरित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - उत्क्रमणेनेति ।</summary>
 
-उत्क्रमणेनेति ।
-
 प्राणोत्क्रमणे सत्यपानाद्यात्मिका वागादिरूपा तनूरशिवा कार्यायोग्या स्यादित्यर्थः ॥ १२ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C02_V13_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/2/AP/?u=PR_C02_V13_B01)  
 <details open><summary>मूलम्</summary>
 
 प्राणस्येदं वशे सर्वं त्रिदिवे यत्प्रतिष्ठितम् ।
 मातेव पुत्रान्रक्षस्व श्रीश्च प्रज्ञां च विधेहि न इति ॥ १३ ॥
 किं बहुना । अस्मिंल्लोके प्राणस्यैव वशे सर्वमिदं यत्किञ्चिदुपभोगजातं त्रिदिवे तृतीयस्यां दिवि च यत् प्रतिष्ठितं देवाद्युपभोगलक्षणं तस्यापि प्राण एव ईशिता रक्षिता । अतो मातेव पुत्रान् अस्मान् रक्षस्व पालयस्व । त्वन्निमित्ता हि ब्राह्म्यः क्षात्त्र्यश्च श्रियः ताः त्वं श्रीश्च श्रियश्च प्रज्ञां च त्वत्स्थितिनिमित्तां विधेहि नः विधत्स्वेत्यर्थः । इत्येवं सर्वात्मतया वागादिभिः प्राणैः स्तुत्या गमितमहिमा प्राणः प्रजापतिरेवेत्यवधृतम् ॥
+इति द्वितीयप्रश्नभाष्यम् ॥
 
 </details>
 
-<details><summary>टीका - ब्राह्म्य इति ।</summary>
+<details><summary>टीका - ब्राह्म्यः</summary>
 
 ब्राह्म्य इति ।
 
-ऋगादिमन्त्ररूपा ब्रह्म्यः श्रियः । ऋचः सामानि यजूंषि । सा हि श्रीरमृता सतामिति श्रुतेः । क्षात्र्यः प्रसिद्धा धनाद्यैश्वर्यरूपाः ।
+ऋगादिमन्त्ररूपा ब्राह्म्यः श्रियः । ऋचः सामानि यजूंषि । सा हि श्रीरमृता सतामिति श्रुतेः । क्षात्र्यः प्रसिद्धा धनाद्यैश्वर्यरूपाः ।
 
 </details>
 
@@ -1398,9 +1282,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
+## तृतीयः प्रश्नः
 
-## तृतीयः प्रश्नः पूर्वपृष्ठम् उत्तरपृष्ठम्
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C03_V01_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/3/AP/?u=PR_C03_V01_B01)  
 <details open><summary>मूलम्</summary>
 
 अथ हैनं कौसल्यश्चाश्वलायनः पप्रच्छ भगवन्कुत एष प्राणो जायते कथमायात्यस्मिञ्छरीर आत्मानं वा प्रविभज्य कथं प्रातिष्ठते केनोत्क्रमते कथं बाह्यमभिधत्ते कथमध्यात्ममिति ॥ १ ॥
@@ -1420,8 +1304,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्राणैरिति ।</summary>
 
-प्राणैरिति ।
-
 यैर्वागादिप्राणैराकाशादिभिश्च प्राणस्य तत्त्वमुपलब्धं तैरित्यर्थः ।
 
 </details>
@@ -1438,22 +1320,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - शरीरग्रहणमिति ।</summary>
 
-शरीरग्रहणमिति ।
-
 शरीरप्रवेश इत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - प्रातिष्ठत इति ।</summary>
 
-प्रातिष्ठत इति ।
-
 आङ्प्रश्लेषाद्दीर्घत्वम् ॥ १ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C03_V02_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/3/AP/?u=PR_C03_V02_B01)  
 <details open><summary>मूलम्</summary>
 
 तस्मै स होवाचातिप्रश्नान्पृच्छसि ब्रह्मिष्ठोऽसीति तस्मात्तेऽहं ब्रवीमि ॥ २ ॥
@@ -1463,40 +1340,35 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - विषमेति ।</summary>
 
-विषमेति ।
-
 विषमं दुर्घटं यथा तथा प्रश्नार्ह इत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - अतिप्रश्नानिति ।</summary>
 
-अतिप्रश्नानिति ।
-
 त्वदन्येषां प्रश्नानतिक्रान्तानन्यदीयप्रश्नागोचरान्सूक्ष्मप्रश्नान्प्रष्टव्यार्थानित्यर्थः ।
 
 </details>
 
-<details><summary>टीका - अतिशयेनेति ।</summary>
+<details><summary>टीका - अतिशयेने</summary>
 
-अतिशयेनेति ।
+ति ।
 
 अपरब्रह्मापेक्षयाऽतिशयितमुख्यब्रह्मविदसि त्वमिति प्रोत्साहार्थं स्तौतीति भावः ॥ २ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C03_V03_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/3/AP/?u=PR_C03_V03_B01)  
 <details open><summary>मूलम्</summary>
 
 आत्मन एष प्राणो जायते । यथैषा पुरुषे च्छायैतस्मिन्नेतदाततं मनोकृतेनायात्यस्मिञ्छरीरे ॥ ३ ॥
-आत्मनः परस्मात्पुरुषादक्षरात्सत्यात् एषः उक्तः प्राणः जायते । कथमित्यत्र दृष्टान्तः । यथा लोके एषा पुरुषे शिरःपाण्यादिलक्षणे निमित्ते च्छाया नैमित्तिकी जायते, तद्वत् एतस्मिन् ब्रह्मण्येतत्प्राणाख्यं छायास्थानीयमनृतरूपं तत्त्वं सत्ये पुरुषे आततं समर्पितमित्येतत् । छायेव देहे मनोकृतेन मनःकृतेन मनःसङ्कल्पेच्छादिनिष्पन्नकर्मनिमित्तेनेत्येतत् । वक्ष्यति हि पुण्येन पुण्यमित्यादि । ‘तदेव सक्तः सह कर्मणैति’ (बृ. उ. ४ । ४ । ६) इति श्रुत्यन्तरात् । आयाति आगच्छत्यस्मिञ्शरीरे ॥
+आत्मनः परस्मात्पुरुषादक्षरात्सत्यात् एषः उक्तः प्राणः जायते । कथमित्यत्र दृष्टान्तः । यथा लोके एषा पुरुषे शिरःपाण्यादिलक्षणे निमित्ते च्छाया नैमित्तिकी जायते, तद्वत् एतस्मिन् ब्रह्मण्येतत्प्राणाख्यं छायास्थानीयमनृतरूपं तत्त्वं सत्ये पुरुषे आततं समर्पितमित्येतत् । छायेव देहे मनोकृतेन मनःकृतेन मनःसङ्कल्पेच्छादिनिष्पन्नकर्मनिमित्तेनेत्येतत् । वक्ष्यति हि पुण्येन पुण्यमित्यादि । ‘तदेव सक्तः सह कर्मणैति’(बृ. उ. ४ । ४ । ६) इति श्रुत्यन्तरात् । आयाति आगच्छत्यस्मिञ्शरीरे ॥
 
 </details>
 
 <details><summary>टीका - परस्मादिति ।</summary>
 
-“दिव्यो ह्यमूर्तः पुरुषः, अक्षरात्परतः परः” (मु. उ. २ । १ । २)“एतस्माज्जायते प्राणः”(मु. उ. २ । १ । ३)इति मन्त्रावत्र संवादयितुं तद्गतविशेषणान्याह –
+“दिव्यो ह्यमूर्तः पुरुषः, अक्षरात्परतः परः”(मु. उ. २ । १ । २) “एतस्माज्जायते प्राणः”(मु. उ. २ । १ । ३) इति मन्त्रावत्र संवादयितुं तद्गतविशेषणान्याह –
 
 परस्मादिति ।
 
@@ -1504,23 +1376,19 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अत्र दृष्टान्त इति ।</summary>
 
-अत्र दृष्टान्त इति ।
-
 तस्यानृतत्वार्थं दृष्टान्त उच्यत इत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - छायेति ।</summary>
 
-छायेति ।
-
 प्रतिबिम्बादिरूपेत्यर्थः ।
 
 </details>
 
-<details><summary>टीका - एतस्मिन्निति ।</summary>
+<details><summary>टीका - एतस्मिन्</summary>
 
-एतस्मिन्निति ।
+निति ।
 
 प्रकृते जनक आत्मनि ब्रह्मणीत्यर्थः ।
 
@@ -1538,14 +1406,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - तदेव सक्त इति ।</summary>
 
-तदेव सक्त इति ।
-
-अस्य कर्मणो मनो यस्मिन्फले निषक्तं संसक्त आसक्तः संस्तदेव फलं कर्मणा सहैतीति श्रुतौ च शरीरग्रहणं कर्मसाध्यमुक्तमित्यर्थः ॥ ३ ॥
+अस्य कर्मिणो मनो यस्मिन्फले निषक्तं संसक्त आसक्तः संस्तदेव फलं कर्मणा सहैतीति श्रुतौ च शरीरग्रहणं कर्मसाध्यमुक्तमित्यर्थः ॥ ३ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C03_V04_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/3/AP/?u=PR_C03_V04_B01)  
 <details open><summary>मूलम्</summary>
 
 यथा सम्राडेवाधिकृतान्विनियुङ्क्त एतान्ग्रामानेतान्ग्रामानधितिष्ठस्वेत्येवमेवैष प्राण इतरान्प्राणान्पृथक्पृथगेव संनिधत्ते ॥ ४ ॥
@@ -1563,16 +1428,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - इतरानिति ।</summary>
 
-इतरानिति ।
-
 इतरांश्चक्षुरादीन्यथास्थानमक्ष्यादिगोलकस्थाने सन्निधत्ते सन्निधापयति । आत्मभेदान्मुख्यप्राणस्य वृत्तिभेदान्प्राणापानादीन्पाय्वादिषु नियुङ्क्त इति । अत्र श्रुत्या नेत्रादीनां चक्षुरादिस्थानानां स्पष्टत्वात्तानि नोक्तानीति द्रष्टव्यम् ॥ ४ ॥
 
 यः कुर्वंस्तिष्ठति तं सन्निधत्ते विनियुङ्क्त इत्यर्थः ।
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C03_V05_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/3/AP/?u=PR_C03_V05_B01)  
 <details open><summary>मूलम्</summary>
 
 पायूपस्थेऽपानं चक्षुःश्रोत्रे मुखनासिकाभ्यां प्राणः स्वयं प्रातिष्ठते मध्ये तु समानः । एष ह्येतद्धुतमन्नं समं नयति तस्मादेताः सप्तार्चिषो भवन्ति ॥ ५ ॥
@@ -1581,8 +1443,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - मध्य इति ।</summary>
-
-मध्य इति ।
 
 प्राणापानयोर्मध्ये या नाभिस्तस्यां समानः प्रतितिष्ठतीत्यन्वयः ।
 
@@ -1598,9 +1458,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - आत्माग्नाविति ।</summary>
 
-आत्माग्नाविति ।
-
-अत्मनि शरीरेऽग्निर्जाठराग्निस्तस्मिन्नित्यर्थः ।
+आत्मनि शरीरेऽग्निर्जाठराग्निस्तस्मिन्नित्यर्थः ।
 
 </details>
 
@@ -1614,14 +1472,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्राप्तादिति ।</summary>
 
-प्राप्तादिति ।
-
-अग्नेरौदर्याद्धेतोः प्राप्तपरिपाकादन्नरसादन्ननाडीद्वारा देहं प्राप्तं नाडीस्थानं हृदयं प्राप्तादन्नरसादिति शेषः । दर्शनद्वयं श्रवणद्वयं प्राणद्वयं मुखं चैकं रसनमिति सप्तार्चिषः । जाठराग्निपाकजन्यान्नरसबलेन दर्शनादीनां प्रवृत्तेस्तेषु तदर्चिष्ट्वारोप इत्यर्थः ॥ ५ ॥
+अग्नेरौदर्याद्धेतोः प्राप्तपरिपाकादन्नरसादन्ननाडीद्वारा देहं प्राप्तं नाडीस्थानं हृदयं प्राप्तादन्नरसादिति शेषः । दर्शनद्वयं श्रवणद्वयं घ्राणद्वयं मुखं चैकं रसनमिति सप्तार्चिषः । जाठराग्निपाकजन्यान्नरसबलेन दर्शनादीनां प्रवृत्तेस्तेषु तदर्चिष्ट्वारोप इत्यर्थः ॥ ५ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C03_V06_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/3/AP/?u=PR_C03_V06_B01)  
 <details open><summary>मूलम्</summary>
 
 हृदि ह्येष आत्मा । अत्रैतदेकशतं नाडीनां तासां शतं शतमेकैकस्या द्वासप्ततिर्द्वासप्ततिः प्रतिशाखानाडीसहस्राणि भवन्त्यासु व्यानश्चरति ॥ ६ ॥
@@ -1635,7 +1490,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 हृदीत्यादिना ।
 
-हृदयस्य लिङ्गात्मस्थानत्वोक्तेः प्रयोजनं तु केचिद्योगिनो नाभिकन्दस्य नाड्युत्पत्तिस्थानत्वं वदन्ति तन्निराकरणं, तत्रैव लिङ्गात्मनः सञ्चरणार्था नाड्यः । नाडीभिः प्रत्यवसृप्येत्यादिश्रुतेः । ततश्च लिङ्गात्मनो हृदयस्थानत्वे तत्सञ्चारमार्गभूतनाडीनामपि तदेवोत्पत्तिस्थानमन्यथा प्रदेशान्तरस्थनाडीनां तन्मार्गत्वायोगाद्वासप्ततिसहस्राणि हृदयात्पुरीततमभिप्रतिष्ठन्त इति श्रुतेश्चेति ।
+हृदयस्य लिङ्गात्मस्थानत्वोक्तेः । प्रयोजनं तु केचिद्योगिनो नाभिकन्दस्य नाड्युत्पत्तिस्थानत्वं वदन्ति तन्निराकरणं, तत्रैव लिङ्गात्मनः सञ्चरणार्था नाड्यः । नाडीभिः प्रत्यवसृप्येत्यादिश्रुतेः । ततश्च लिङ्गात्मनो हृदयस्थानत्वे तत्सञ्चारमार्गभूतनाडीनामपि तदेवोत्पत्तिस्थानमन्यथा प्रदेशान्तरस्थनाडीनां तन्मार्गत्वायोगाद्वासप्ततिसहस्राणि हृदयात्पुरीततमभिप्रतिष्ठन्त इति श्रुतेश्चेति ।
 
 </details>
 
@@ -1653,7 +1508,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 अत्रेति ।
 
-नाडीनां शरीरविधारकत्वेन प्रसिद्धत्वं वक्तुमेतदिति विशेषणम् । तस्य स्पष्टत्वाद्भाष्ये न व्याख्यातम् ।
+नाडीनां शरीरविधारकत्वेन प्रसिद्धत्वं वक्तुमेतदिति विशेषम् । तस्य स्पष्टत्वाद्भाष्ये न व्याख्यातम् ।
 
 </details>
 
@@ -1685,8 +1540,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्रतिशाखेति ।</summary>
 
-प्रतिशाखेति ।
-
 प्रतिशाखाभ्यो निर्गता अल्पशाखाः प्रतिशाखाः ।
 
 </details>
@@ -1701,15 +1554,15 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - अस्त्विति ।</summary>
+<details><summary>टीका - आस्त्विति ।</summary>
 
 एवं नाडीरुक्त्वा व्यानस्य तत्स्थानत्वमाह –
 
-अस्त्विति ।
+आस्त्विति ।
 
 </details>
 
-<details><summary>टीका - आदित्यादिवेति ।</summary>
+<details><summary>टीका - आदित्यादिवे</summary>
 
 सूक्ष्मासु नाडीषु विद्यमानस्य व्यानस्य कथं व्यापकत्वमित्याशङ्क्य नाडीनां सर्वदेहव्याप्तेस्तत्स्थस्यापि व्यानस्य तद्वारा व्याप्तिरित्याह –
 
@@ -1729,22 +1582,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्राणेति ।</summary>
 
-प्राणेति ।
-
 उच्छ्वासनिश्वासयोः प्राणापानवृत्त्योरभावे व्यानवृत्तिरुद्भवतीत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - वीर्यवदिति ।</summary>
 
-वीर्यवदिति ।
-
 अथ यः प्राणापानयोः सन्धिः स व्यान इत्युक्त्वा यानि वीर्यवन्ति कर्मणि बलवता पुरुषेण साध्यानि धनुरायमनादीनि तान्यप्राणन्ननपानन्करोतीति श्रुत्यन्तरोक्तेरित्यर्थः ॥ ६ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C03_V07_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/3/AP/?u=PR_C03_V07_B01)  
 <details open><summary>मूलम्</summary>
 
 अथैकयोर्ध्व उदानः पुण्येन पुण्यं लोकं नयति पापेन पापमुभाभ्यामेव मनुष्यलोकम्
@@ -1761,16 +1609,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - उभाभ्यां समप्रधानाभ्यामिति ।</summary>
-
-उभाभ्यां समप्रधानाभ्यामिति ।
+<details><summary>टीका - उभाभ्यां सम­प्र­धा­ना­भ्या­मिति ।</summary>
 
 अनेन पुण्याधिक्ये देवलोकं पापाधिक्ये नरकलोकं नयतीति पूर्वं व्याख्यातं भवति ॥ ७ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C03_V08_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/3/AP/?u=PR_C03_V08_B01)  
 <details open><summary>मूलम्</summary>
 
 आदित्यो ह वै बाह्यः प्राण उदयत्येष ह्येनं चाक्षुषं प्राणमनुगृह्णानः । पृथिव्यां या देवता सैषा पुरुषस्यापानमवष्टभ्यान्तरा यदाकाशः स समानो वायुर्व्यानः ॥ ८ ॥
@@ -1788,8 +1633,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - या देवता प्रसिद्धेति ।</summary>
 
-या देवता प्रसिद्धेति ।
-
 अग्निदेवता पृथिव्येव यस्याऽऽयतनमग्निर्लोक इति श्रुतेरग्निसम्बद्धावगमादित्यर्थः ।
 
 </details>
@@ -1806,15 +1649,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अनुग्रहमिति ।</summary>
 
-अनुग्रहमिति ।
-
 शरीरधारणलक्षणमित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - अन्यथेति ।</summary>
-
-अन्यथेति ।
 
 पृथिवीदेवताया विधारणाकरणे गुरुत्वादपानेनाध आकर्षणाच्च सावकाशे भूम्यादिपतनप्रतिबन्धकाभावस्थले पतेदित्यर्थः ।
 
@@ -1838,21 +1677,19 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - मञ्चस्थवदिति ।</summary>
 
-मञ्चस्थवदिति ।
-
 मञ्चाः क्रोशन्तीत्यत्र मञ्चशब्देन मञ्चस्था यथा लक्ष्यन्ते तथाऽऽकाशशब्देन तत्स्थो वायुर्लक्ष्यत इत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - स समान इति ।</summary>
 
-स समान इति ।
+
 
 </details>
 
 <details><summary>टीका - समानमनुगृह्णान इति ।</summary>
 
-सामानाढिकर्ण्यमनुग्राह्यानुग्राहकयोरभेदोपचारादित्याह –
+सामानाधिकरण्यमनुग्राह्यानुग्राहकयोरभेदोपचारादित्याह –
 
 समानमनुगृह्णान इति ।
 
@@ -1868,7 +1705,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - सामान्येनेति ॥ ८ ॥</summary>
+<details><summary>टीका - सामान्येने</summary>
 
 वायुर्व्यान इत्यत्र त्वन्तराकाशस्थत्वं विशेषरहितं वायुसामान्येन समुच्चीयत इति न पूर्वाभेद इत्याह –
 
@@ -1876,8 +1713,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C03_V09_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/3/AP/?u=PR_C03_V09_B01)  
 <details open><summary>मूलम्</summary>
 
 तेजो ह वाव उदानस्तस्मादुपशान्ततेजाः पुनर्भवमिन्द्रियैर्मनसि सम्पद्यमानैः ॥ ९ ॥
@@ -1915,8 +1751,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - स्वाभाविकमिति ।</summary>
 
-स्वाभाविकमिति ।
-
 जाठराग्निकृतं हस्तादिना स्वशरीरस्पर्शे सत्युष्णत्वेनोपलभ्यमानं तेज इत्यर्थः । भवत्युत्पद्यत इति भवः शरीरमित्यर्थः ।
 
 </details>
@@ -1929,9 +1763,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - सहेति ।</summary>
+<details><summary>टीका - सह</summary>
 
-इन्द्रियोपाधिवशादियाह –
+इन्द्रियोपाधिवशादित्याह –
 
 सहेति ।
 
@@ -1939,8 +1773,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C03_V10_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/3/AP/?u=PR_C03_V10_B01)  
 <details open><summary>मूलम्</summary>
 
 यच्चित्तस्तेनैष प्राणमायाति प्राणस्तेजसा युक्तः । सहात्मना यथासङ्कल्पितं लोकं नयति ॥ १० ॥
@@ -1950,15 +1783,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - मरणेति ।</summary>
 
-उक्तशरीरान्तरप्राप्तिमेवोत्क्रान्तिक्रमप्रदर्शनेन सपष्टीकर्तुं यच्चित्त इत्यादि वाक्यं तदपेक्षिताध्याहारं कुर्वन्व्याचष्टे –
+उक्तशरीरान्तरप्राप्तिमेवोत्क्रान्तिक्रमप्रदर्शनेन स्पष्टीकर्तुं यच्चित्त इत्यादि वाक्यं तदपेक्षिताध्याहारं कुर्वन्व्याचष्टे –
 
 मरणेति ।
 
 </details>
 
 <details><summary>टीका - यच्चित्त इति ।</summary>
-
-यच्चित्त इति ।
 
 यदेव देवतिर्यगादिशरीरं सम्यगिति चित्ते यस्य स यच्चित्त इत्यर्थः ।
 
@@ -1976,7 +1807,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - स एवमिति ।</summary>
 
-एवम्भूतो भोक्तोदानसंयुक्तः प्राणः कं नयतीत्यपेक्षायां तमेव भोक्तारं नयतीति वदन्वाक्यार्थमाह –
+एवम्भूतो भोक्त्रुदानसंयुक्तः प्राणः कं नयतीत्यपेक्षायां तमेव भोक्तारं नयतीति वदन्वाक्यार्थमाह –
 
 स एवमिति ।
 
@@ -1984,16 +1815,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - यथासङ्कल्पितमिति ।</summary>
-
-यथासङ्कल्पितमिति ।
+<details><summary>टीका - यथा­स­ङ्क­ल्पि­त­मिति ।</summary>
 
 कर्मज्ञानादिसाधनानुष्ठानदशायां सङ्कल्पितं मरणकाले वासनारूपेण पुनरभिव्यक्तं लोकं देवादिशरीरमित्यर्थः ॥ १० ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C03_V11_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/3/AP/?u=PR_C03_V11_B01)  
 <details open><summary>मूलम्</summary>
 
 य एवंविद्वान्प्राणं वेद न हास्य प्रजा हीयतेऽमृतो भवति तदेष श्लोकः ॥ ११ ॥
@@ -2007,7 +1835,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 यः कश्चिदिति ।
 
-उत्पत्त्यादिभिर्यथोक्तविशेषणैर्विशिष्टम् । आत्मनः प्राणो जायते, मनःकृताभ्यां धर्माधर्माभ्यां शरीरं गृह्णाति । अात्मानं च पञ्चधा विभज्य पायूपस्थयोरपानं स्वस्वरूपं प्राणं चक्षुःश्रोत्रियोः, नाभौ समानम्, नाडीसमूहे व्यानम्, उदानं च सुषुम्नायां स्थापयति । उदानेनोत्क्रामति, बाह्यैः प्राणापानव्यानसमानोदानानुग्राहकैरादित्यपृथिवीदेवताकाशवायुतेजोरूपैरधिदैवमादित्यादिकमादित्यादिकृतानुग्रहैरध्यात्मं चक्षुर्वाक्श्रोत्रमनस्त्वक्चक्षुरादिग्राह्यमधिभूतं च धारयति । स एवोदानवृत्त्या भोक्त्रा च युक्तो भोक्तारं लोकान्तरं नयति । स एव च वरिष्ठः प्रजापतिरत्ता चेत्येवं प्राणं वेदेत्यर्थः ।
+उत्पत्त्यादिभिर्यथोक्तविशेषणैर्विशिष्टम् । आत्मनः प्राणो जायते, मनःकृताभ्यां धर्माधर्माभ्यां शरीरं गृह्णाति । आत्मानं च पञ्चधा विभज्य पायूपस्थयोरपानं स्वस्वरूपं प्राणं चक्षुःश्रोत्रियोः, नाभौ समानम्, नाडीसमूहे व्यानम्, उदानं च सुषुम्नायां स्थापयति । उदानेनोत्क्रामति, बाह्यैः प्राणापानव्यानसमानोदानानुग्राहकैरादित्यपृथिवीदेवताकाशवायुतेजोरूपैरधिदैवमादित्यादिकमादित्यादिकृतानुग्रहैरध्यात्मं चक्षुर्वाक्श्रोत्रमनस्त्वक्चक्षुरादिग्राह्यमधिभूतं च धारयति । स एवोदानवृत्त्या भोक्त्रा च युक्तो भोक्तारं लोकान्तरं नयति । स एव च वरिष्ठः प्रजापतिरत्ता चेत्येवं प्राणं वेदेत्यर्थः ।
 
 </details>
 
@@ -2029,27 +1857,25 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C03_V12_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/3/AP/?u=PR_C03_V12_B01)  
 <details open><summary>मूलम्</summary>
 
 उत्पत्तिमायतिं स्थानं विभुत्वं चैव पञ्चधा ।
 अध्यात्मं चैव प्राणस्य विज्ञायामृतमश्नुते विज्ञायामृतमश्नुत इति ॥ १२ ॥
 उत्पत्तिं परमात्मनः प्राणस्य आयतिम् आगमनं मनोकृतेनास्मिञ्शरीरे स्थानं स्थितिं च पायूपस्थादिस्थानेषु विभुत्वं च स्वाम्यमेव सम्राडिव प्राणवृत्तिभेदानां पञ्चधा स्थापनम् । बाह्यमादित्यादिरूपेणाध्यात्मं चैव चक्षुराद्याकारेणावस्थानं विज्ञाय एवं प्राणम् अमृतमश्नुते इति । विज्ञायामृतमश्नुत इति द्विर्वचनं प्रश्नार्थपरिसमाप्त्यर्थम् ॥
+इति तृतीयप्रश्नभाष्यम् ॥
 
 </details>
 
 <details><summary>टीका - आयतिमिति ।</summary>
 
-आयतिमिति ।
-
 आयातिमित्यर्थः । ह्रस्वत्वं छान्दसम् ॥ १२ ॥
 
 </details>
 
+## चतुर्थः प्रश्नः
 
-## चतुर्थः प्रश्नः पूर्वपृष्ठम् उत्तरपृष्ठम्
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C04_V01_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/4/AP/?u=PR_C04_V01_B01)  
 <details open><summary>मूलम्</summary>
 
 अथ हैनं सौर्यायणी गार्ग्यः पप्रच्छ भगवन्नेतस्मिन्पुरुषे कानि स्वपन्ति कान्यस्मिञ्जाग्रति कतर एष देवः स्वप्नान्पश्यति कस्यैतत्सुखं भवति कस्मिन्नु सर्वे सम्प्रतिष्ठिता भवन्तीति ॥ १ ॥
@@ -2075,8 +1901,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - संसारमिति ।</summary>
 
-संसारमिति ।
-
 अतो न तन्मुख्यममृतत्वमित्यर्थः ।
 
 </details>
@@ -2091,9 +1915,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - साध्यसाधनलक्षणमिति ।</summary>
-
-साध्यसाधनलक्षणमिति ।
+<details><summary>टीका - साध्य­सा­ध­न­ल­क्ष­ण­मिति ।</summary>
 
 साध्यसाधनसम्बन्धेन लक्ष्यतेऽभिव्यजत उत्पद्यत इति तथा । यद्वाऽपरब्रह्मणः प्राणस्य साध्यसाधनोभयात्मकत्वाद्वा तथा । तस्मादनित्यमित्यतोऽपि संसारत्वमित्यर्थः ।
 
@@ -2107,9 +1929,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - अतीन्द्रियविषयमिति ।</summary>
-
-अतीन्द्रियविषयमिति ।
+<details><summary>टीका - अती­न्द्रि­य­वि­ष­य­मिति ।</summary>
 
 इन्द्रियविषयत्वमतिक्रान्तमित्यव्याकृतमकार्यमित्यर्थः ।
 
@@ -2153,15 +1973,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - सत्यमिति ।</summary>
 
-सत्यमिति ।
-
 कालत्रयेऽप्येकरूपमित्यर्थः ।
 
 </details>
 
-<details><summary>टीका - परविद्यागम्यमिति ।</summary>
+<details><summary>टीका - पर­वि­द्या­ग­म्य­मिति ।</summary>
 
-तत्र“अथ परा यया तदक्षरमधिगम्यते”(मु. उ. १ । १ । ५)इत्यादि वाक्यं मानमाह –
+तत्र “अथ परा यया तदक्षरमधिगम्यते”(मु. उ. १ । १ । ५) इत्यादि वाक्यं मानमाह –
 
 परविद्यागम्यमिति ।
 
@@ -2187,13 +2005,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्रश्नत्रयमिति ।</summary>
 
-प्रश्नत्रयमिति ।
-
 यद्यपि पञ्चमः प्रश्नोऽपरविद्याविषय एव प्रणवोपासनविषयत्वात्तथाऽपि तस्य क्रममुक्तिफलत्वेन निर्विशेषात्मन्येव सविशेषब्रह्मप्राप्तिद्वारा पर्यवसनात्सोऽपि परविषय एवेति भावः ।
 
 </details>
 
-<details><summary>टीका - तत्रेति ।</summary>
+<details><summary>टीका - तत्रे</summary>
 
 एवं सामान्येन प्रश्नत्रयस्यापि सम्बन्धमुक्त्वा चतुर्थप्रश्नस्य प्रातिस्विकसम्बन्धमाह –
 
@@ -2205,23 +2021,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - उक्तमिति ।</summary>
 
-उक्तमिति ।
-
 यथा सुदीप्तात्पावकाद्विस्फुलिङ्गाः सहस्रशः प्रभवन्ते सरूपास्तथाऽक्षराद्विविधाः सोम्य भावाः प्रजायन्ते तत्र चैवापियन्तीति मन्त्रेणेत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - एतद्विवक्षयेति ।</summary>
 
-एतद्विवक्षयेति ।
-
-मन्त्रोक्तार्थविस्तारानुवादित्वादस्य ब्राह्मणस्येति भावः । अत्राक्षरस्वरूपस्यैव विवक्षितत्वात्तन्निर्णयार्थं कानि स्वपन्तीत्यादिप्रश्नो जागरितादिना धर्मिविशेषनिर्धारणार्थः, अन्यथा तेषामात्मधर्मत्वशङ्कायां तन्निर्विशेषत्वनिर्णयासिद्धेः । भावानां स्वरूपविभागादिविवक्षा तु ताः पुनः पुनरुदयतः प्रचरन्तीति दृष्टान्तबलाद्यत्रैकीभावस्ततो विभागेन निर्गमनमित्यक्षर एकीभूतानां पृथिव्यादिकार्यकरणानामक्षराद्विभागप्रतीतेस्तावन्मात्रेण भाष्य उक्तेति द्रष्टव्यम् । तत्राऽऽद्यप्रश्नेन जागरितस्य धर्मी पृष्टः । स्वप्ने यस्य व्यापारोपरमे जागरितं नास्ति स तस्य धर्म इति निश्चेतुं शक्यत्वात् । द्वितीयेनावस्थात्रयेऽपि शरीररक्षणं कस्य धर्म इति पृष्टम् । जाग्रतोऽनुपरतव्यापारस्य प्राणस्य देहरक्षकत्वोपपत्तेः । तृतीयेन स्वप्नस्य धर्मी पृष्टः । चतुर्थेन सुषुप्तिधर्मी, सुखमहमस्वाप्समिति सुप्तोत्थितस्य परामर्शे सुखस्य सुषुप्तिसम्बन्धावगमात् । पञ्चमप्रश्नेनावस्थात्रयविनिर्मुक्तमवस्थात्रयपर्यवसानभूमिरूपं तुरीयमक्षरं पृष्टमिति विवेकः ।
+मन्त्रोक्तार्थविस्तारानुवादित्वादस्य ब्राह्मणस्येति भावः । अत्राक्षरस्वरूपस्यैव विवक्षितत्वात्तन्निर्णयार्थं कानि स्वपन्तीत्यादिप्रश्नो जागरितादिनां धर्मिविशेषनिर्धारणार्थः, अन्यथा तेषामात्मधर्मत्वशङ्कायां तन्निर्विशेषत्वनिर्णयासिद्धेः । भावानां स्वरूपविभागादिविवक्षा तु ताः पुनः पुनरुदयतः प्रचरन्तीति दृष्टान्तबलाद्यत्रैकीभावस्ततो विभागेन निर्गमनमित्यक्षर एकीभूतानां पृथिव्यादिकार्यकरणानामक्षराद्विभागप्रतीतेस्तावन्मात्रेण भाष्य उक्तेति द्रष्टव्यम् । तत्राऽऽद्यप्रश्नेन जागरितस्य धर्मी पृष्टः । स्वप्ने यस्य व्यापारोपरमे जागरितं नास्ति स तस्य धर्म इति निश्चेतुं शक्यत्वात् । द्वितीयेनावस्थात्रयेऽपि शरीररक्षणं कस्य धर्म इति पृष्टम् । जाग्रतोऽनुपरतव्यापारस्य प्राणस्य देहरक्षकत्वोपपत्तेः । तृतीयेन स्वप्नस्य धर्मी पृष्टः । चतुर्थेन सुषुप्तिधर्मी, सुखमहमस्वाप्समिति सुप्तोत्थितस्य परामर्शे सुखस्य सुषुप्तिसम्बन्धावगमात् । पञ्चमप्रश्नेनावस्थात्रयविनिर्मुक्तमवस्थात्रयपर्यवसानभूमिरूपं तुरीयमक्षरं पृष्टमिति विवेकः ।
 
 </details>
 
 <details><summary>टीका - कार्येति ।</summary>
-
-कार्येति ।
 
 कार्यं शरीरं प्राणो वा, करणानि मनआदीनि ।
 
@@ -2239,15 +2049,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्रसन्नमिति ।</summary>
 
-प्रसन्नमिति ।
-
 विषयसम्पर्ककालुष्यराहित्यम् ।
 
 </details>
 
 <details><summary>टीका - निरायासेति ।</summary>
-
-निरायासेति ।
 
 निरायासेन विक्षेपाभावमात्रेण लक्ष्यतेऽभिव्यज्यते निर्वातस्थापितदीपालोकवदनाबाधं विनाशरहितं सत्यमात्मस्वरूपमित्यर्थः ।
 
@@ -2255,13 +2061,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - एतदिति ।</summary>
 
-एतदिति ।
-
 सुषुप्ते प्रकाशमानं सुखमहमस्वाप्समितिपरामर्शमूलभूतमित्यर्थः ।
 
 </details>
 
-<details><summary>टीका - तस्मिन्काल इति ।</summary>
+<details><summary>टीका - तस्मिन्काले</summary>
 
 तस्मिन्काल इति ।
 
@@ -2271,33 +2075,27 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - सम्यगेकीभूता इति ।</summary>
 
-सम्यगेकीभूता इति ।
-
 तदात्मभावप्राप्त्या विलयं गता इत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - मधुनि रसवदिति ।</summary>
 
-मधुनि रसवदिति ।
-
 यथा नानापुष्परसा मधुन्येकी भवन्ति तद्वदित्यर्थः ।
 
 </details>
 
-<details><summary>टीका - विवेकानर्हा इति ।</summary>
+<details><summary>टीका - विवेकानर्हाः</summary>
 
 विवेकाभावमात्रेण दृष्टान्तावुक्तौ, तत्र सर्वात्मना लयाभावादित्याह –
 
 विवेकानर्हा इति ।
 
-पूर्वं विवेकानर्हाः सन्तः पञ्चात्सम्प्रतिष्ठिता इत्यर्थः । न चानेनापि प्रश्नेनाविद्यावासनाभिरविविक्तः सौषुप्त एव पृष्ट इति शङ्क्यम् । पर आत्मन्यक्षरे सम्प्रतिष्ठानादेष हि द्रष्टेत्याद्यज्ञानप्रतिबिम्बितस्य भोक्तुरपि सम्प्रतिष्ठाया अभिधास्यमानत्वादच्छायमित्यज्ञानाभावोक्तेश्च तुरीयमेव पृष्टमिति भावः । ननु कार्यकारणव्यतिरिक्ते सम्प्रतिष्ठानाधिकरणे सामान्येन कस्मिंश्चिदवगते कस्मिन्सम्प्रतिष्ठिता इति विशेषप्रश्नो घटते । न च तस्यावगतिरस्ति । न च सम्प्रतिष्ठानस्य साधिकरणत्वेन सामान्येनाधिकरणावगतिरस्तीति वाच्यम् । तत्तदुपादानानामेवाचेतनानां तदधिकरणत्वेन तदतिरिक्तस्य चेतनस्यासिद्धिरिति शङ्कते ।
+पूर्वं विवेकानर्हाः सन्तः पञ्चात्सम्प्रतिष्ठिता इत्यर्थः । न चानेनापि प्रश्नेनाविद्यावासनाभिरविविक्तः सौषुप्त एव पृष्ट इति शङ्क्यम् । पर आत्मन्यक्षरे सम्प्रतिष्ठन्त इति वक्ष्यमाणत्वात्सुषुप्ते चाज्ञान एव सम्प्रतिष्ठानादेष हि द्रष्टेत्याद्यज्ञानप्रतिबिम्बितस्य भोक्तुरपि सम्प्रतिष्ठाया अभिधास्यमानत्वादच्छायमित्यज्ञानाभावोक्तेश्च तुरीयमेव पृष्टमिति भावः । ननु कार्यकारणव्यतिरिक्ते सम्प्रतिष्ठानाधिकरणे सामान्येन कस्मिंश्चिदवगते कस्मिन्सम्प्रतिष्ठिता इति विशेषप्रश्नो घटते । न च तस्यावगतिरस्ति । न च सम्प्रतिष्ठानस्य साधिकरणत्वेन सामान्येनाधिकरणावगतिरस्तीति वाच्यम् । तत्तदुपादानानामेवाचेतनानां तदधिकरणत्वेन तदतिरिक्तस्य चेतनस्यासिद्धिरिति शङ्कते ।
 
 </details>
 
 <details><summary>टीका - नन्विति ।</summary>
-
-नन्विति ।
 
 दात्रं नाम सस्यादिलवणार्थः शस्त्रविशेषः ।
 
@@ -2305,15 +2103,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - स्वात्मनीति ।</summary>
 
-स्वात्मनीति ।
-
 सोपादान इत्यर्थः ।
 
 </details>
 
-<details><summary>टीका - सुषुप्तपुरुषाणां करणानामिति ।</summary>
-
-सुषुप्तपुरुषाणां करणानामिति ।
+<details><summary>टीका - सुषु­प्त­पु­रु­षाणां करणानामिति ।</summary>
 
 सुषुप्तपुरुषाणां यानि करणानि तेषामित्यर्थः । एष हि द्रष्टेत्यादिना पुरुषाणामप्येकीभावस्य वक्ष्यमाणत्वाद्वा पुरुषाणामित्युक्तम् । अस्मिन्पक्षे करणानां चेति चकारो द्रष्टव्यः । प्रष्टुः शङ्कायाः कुतः प्राप्तिरित्यन्वयः ।
 
@@ -2331,8 +2125,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - आशङ्कानुरूप इति ।</summary>
 
-आशङ्कानुरूप इति ।
-
 मनसि विद्यमानाशङ्कानुरूपो वाचिकः प्रश्न इत्यर्थः ।
 
 </details>
@@ -2347,8 +2139,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C04_V02_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/4/AP/?u=PR_C04_V02_B01)  
 <details open><summary>मूलम्</summary>
 
 तस्मै स होवाच यथा गार्ग्य मरीचयोऽर्कस्यास्तं गच्छतः सर्वा एतस्मिंस्तेजोमण्डल एकीभवन्ति ताः पुनः पुनरुदयतः प्रचरन्त्येवं ह वै तत्सर्वं परे देवे मनस्येकीभवति । तेन तर्ह्येष पुरुषो न शृणोति न पश्यति न जिघ्रति न रसयते न स्पृशते नाभिवदते नादत्ते नानन्दयते न विसृजते नेयायते स्वपितीत्याचक्षते ॥ २ ॥
@@ -2376,16 +2167,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - नेयायत ।</summary>
-
-नेयायत ।
+<details><summary>टीका - नेयायत इति ।</summary>
 
 इणो गत्यर्थस्य यङन्तस्य रूपमेतन्न गच्छतीत्यर्थः ॥ २ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C04_V03_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/4/AP/?u=PR_C04_V03_B01)  
 <details open><summary>मूलम्</summary>
 
 प्राणाग्नय एवैतस्मिन्पुरे जाग्रति । गार्हपत्यो ह वा एषोऽपानो व्यानोऽन्वाहार्यपचनो यद्गार्हपत्यात्प्रणीयते प्रणयनादाहवनीयः प्राणः ॥ ३ ॥
@@ -2419,7 +2207,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्रणयनो गार्हपत्य इति ।</summary>
 
-प्रणायनादिति पदं गार्हपत्यविशेषणमित्याह –
+प्रणयनादिति पदं गार्हपत्यविशेषणमित्याह –
 
 प्रणयनो गार्हपत्य इति ।
 
@@ -2441,12 +2229,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 व्यानस्त्विति ।
 
-छान्दोग्ये गायत्रीविद्यायां तस्य वा एतस्य हृदयस्य पञ्च देवसुषय इत्युपक्रभ्याथ योऽस्य दक्षिणः सुषिः स व्यानस्तच्छ्रोत्रमित्यनेन व्यानस्य दक्षिणसुषितो निर्गमनमुक्तमित्यस्यानाहार्यपचनसादृश्यं दक्षिणदिक्सम्बन्धित्वं व्यानस्येति व्यानोऽन्वाहार्यपचन इत्यर्थः ॥ ३ ॥
+छान्दोग्ये गायत्रीविद्यायां तस्य वा एतस्य हृदयस्य पञ्च देवसुषय इत्युपक्रम्याथ योऽस्य दक्षिणः सुषिः स व्यानस्तच्छ्रोत्रमित्यनेन व्यानस्य दक्षिणसुषितो निर्गमनमुक्तमित्यस्यानाहार्यपचनसादृश्यं दक्षिणदिक्सम्बन्धित्वं व्यानस्येति व्यानोऽन्वाहार्यपचन इत्यर्थः ॥ ३ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C04_V04_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/4/AP/?u=PR_C04_V04_B01)  
 <details open><summary>मूलम्</summary>
 
 यदुच्छ्वासनिःश्वासावेतावाहुती समं नयतीति स समानः । मनो ह वाव यजमान इष्टफलमेवोदानः स एनं यजमानमहरहर्ब्रह्म गमयति ॥ ४ ॥
@@ -2454,9 +2241,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - अत्र चेति ।</summary>
+<details><summary>टीका - अत्र चे</summary>
 
-अत्र चेति ।
+ति ।
 
 अग्निहोत्रस्य होता होमस्य कर्ता, ऋत्विगुच्यते उत्तरवाक्येनेति शेषः ।
 
@@ -2468,13 +2255,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 यद्यस्मादिति ।
 
-उच्छ्वासनिश्वासावित्यनन्तरमाहुती इति पदं भाष्येऽध्याहृत्यैतावुच्छ्वादनिश्वादावाहुती आहवनीयाधिकरणाग्निहोत्राहुतीव द्वित्वसाम्यादेवेत्येकोऽन्वयः । अनन्तरं भाष्ये तुशब्दश्चार्थे । श्रुतिगत इतिशब्दस्तस्मादित्यर्थे । यस्मादेतावाहुती यस्माच्चैतौ समं नयति शरीरस्थितिभावाय साम्येन नयति प्रवर्तयति यो वायुर्यथाऽग्निहोत्रे होमकर्ताऽऽहुतिद्वयमाहवनीयं प्रति समं नयति प्रापयति तद्वत्तस्मादाहुत्योर्नेतृत्वात्स वायुर्होतेति यच्छब्दहोतृशब्दाध्याहारेण द्वितीयोऽन्वयः । कोऽसौ वायुरिति तद्विशेषप्रश्ने स होता वायुः स समान इति तृतीयोऽन्वय इति विभागः ।
+उच्छ्वासनिश्वासावित्यनन्तरमाहुती इति पदं भाष्येऽध्याहृत्यैतावुच्छ्वासनिःश्वासावाहुती आहवनीयाधिकरणाग्निहोत्राहुतीव द्वित्वसाम्यादेवेत्येकोऽन्वयः । अनन्तरं भाष्ये तुशब्दश्चार्थे । श्रुतिगत इतिशब्दस्तस्मादित्यर्थे । यस्मादेतावाहुती यस्माच्चैतौ समं नयति शरीरस्थितिभावाय साम्येन नयति प्रवर्तयति यो वायुर्यथाऽग्निहोत्रे होमकर्ताऽऽहुतिद्वयमाहवनीयं प्रति समं नयति प्रापयति तद्वत्तस्मादाहुत्योर्नेतृत्वात्स वायुर्होतेति यच्छब्दहोतृशब्दाध्याहारेण द्वितीयोऽन्वयः । कोऽसौ वायुरिति तद्विशेषप्रश्ने स होता वायुः स समान इति तृतीयोऽन्वय इति विभागः ।
 
 </details>
 
-<details><summary>टीका - अग्निस्थानीयोऽपीति ।</summary>
+<details><summary>टीका - अग्नि­स्था­नी­योऽ­पीति ।</summary>
 
-ननु प्राणाग्नय इत्यत्र सर्वेषां प्राणानामग्नित्वोक्तेः कथमिह समानस्य हेतृत्वमुच्यत इत्याशङ्क्योक्तम् –
+ननु प्राणाग्नय इत्यत्र सर्वेषां प्राणानामग्नित्वोक्तेः कथमिह समानस्य होतृत्वमुच्यत इत्याशङ्क्योक्तम् –
 
 अग्निस्थानीयोऽपीति ।
 
@@ -2484,13 +2271,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - होता चेति ।</summary>
 
-होता चेति ।
-
 चकारोऽवधारणे, होतैवेत्यर्थः । आहुतिनेतृत्वाद्धोतृत्वे स्थितेऽग्नित्वोक्तिश्छत्रिन्यायेनाग्न्यनग्निसमुदाये लाक्षणिकीत्यर्थः ।
 
 </details>
 
-<details><summary>टीका - अतश्चेति ।</summary>
+<details><summary>टीका - अतश्चे</summary>
 
 अवस्थात्रयवर्तिनामुच्छ्वासनिश्वासप्राणानां चाग्निहोत्रावयवत्वसम्पादानस्य नोपासनं प्रयोजनं निर्विशेषात्मप्रकरणत्वात्तद्विध्यदर्शनाच्च, किं त्विन्द्रियाण्युपरमन्ते प्राणा जाग्रतीत्येवं त्वम्पदार्थशोधनरूपस्य ज्ञानस्य स्तुतिरेवेत्याह –
 
@@ -2500,15 +2285,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - सर्वदेति ।</summary>
 
-सर्वदेति ।
-
 वाजसनेयके हि वाक्चितः प्राणश्चितश्चक्षुश्चित इत्यादिना सर्वप्राणव्यापारेषु प्रत्येकमग्निचितत्वदृष्टिं विधायैवन्दृष्टिमतः सर्वाणि भूतान्तस्य स्वापकालेऽपि चयनं कुर्वन्तीति सा दृष्टिः स्तुता तद्वदिहापीत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - अत्र हीति ।</summary>
-
-अत्र हीति ।
 
 अत्र मनो यजमानः कल्प्यत इति व्यवहितान्वयः ।
 
@@ -2526,15 +2307,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - जाग्रत्स्विति ।</summary>
 
-जाग्रत्स्विति ।
-
 अत्र स्वप्नकाले विषयान्करणानि चोपसंहृत्य मनो जागर्ति, प्राधान्येन स्वव्यापारं कुर्वद्वर्तते । अग्निहोत्रफलं स्वर्गं जिगमिषुर्यजमान इव सुषुप्तिकाले स्वर्गरूपब्रह्म जिगमिषु च मन इत्यन्वयः । भाष्ये यजमान इत्यनन्तरमिवशब्दो द्रष्टव्यः । हवावशब्देन तत्प्रसिद्धमित्युक्तम् ।
 
 </details>
 
 <details><summary>टीका - इष्टेति ।</summary>
-
-इष्टेति ।
 
 उदाननिमित्तकमरणान्तरं यागादिफलप्राप्तेस्तस्य तन्निमित्तत्वात्कारणे कार्योपचारादुदान इष्टफलत्वेन कल्प्यत इत्यर्थः । न केवलं मरणद्वारा यागफलप्रापकत्वमुदानस्य किं त्वेतस्यैवाऽऽनन्दस्यान्यानि भूतानि मात्रामुपजीवन्तीति श्रुतेः सर्वयागफलानामपि ब्रह्मात्मकत्वात्तद्ब्रह्मप्रापकत्वादपि ।
 
@@ -2550,30 +2327,27 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - स्वर्गमिवेति ।</summary>
 
-स्वर्गमिवेति ।
-
 स्वर्गमेवेत्यर्थः । स्वर्गयागफलात्मकस्वरूपमेव ब्रह्माक्षरं गमयतीत्यर्थः । यद्यप्यहरहर्ब्रह्मप्राप्तिर्न यागसाध्या यागरहितानामपि तत्प्राप्तेस्तथाऽपि ब्रह्मण एव सर्वयागफलत्वेन तत्प्रापकस्योदानस्येष्टफलप्रापकत्वमस्तीति भावः । न चोदानस्य कथं तत्प्रापकत्वमिति शङ्क्यम् । तस्य सुषुम्नानाडीचारित्वेन स मनस्तन्नाडीं प्रवेशयंस्तद्गतं ब्रह्म प्रापयतीत्युपपत्तेः ॥ ४ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C04_V05_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/4/AP/?u=PR_C04_V05_B01)  
 <details open><summary>मूलम्</summary>
 
 अत्रैष देवः स्वप्ने महिमानमनुभवति । यद्दृष्टं दृष्टमनुपश्यति श्रुतं श्रुतमेवार्थमनुशृणोति देशदिगन्तरैश्च प्रत्यनुभूतं पुनः पुनः प्रत्यनुभवति दृष्टं चादृष्टं च श्रुतं चाश्रुतं चानुभूतं चाननुभूतं च सच्चासच्च सर्वं पश्यति सर्वः पश्यति ॥ ५ ॥
-एवं विदुषः श्रोत्राद्युपरमकालादारभ्य यावत्सुप्तोत्थितो भवति तावत्सर्वयागफलानुभव एव, नाविदुषामिवानर्थायेति विद्वत्ता स्तूयते । न हि विदुष एव श्रोत्रादीनि स्वपन्ति, प्राणाग्नयो वा जाग्रति । जाग्रत्स्वप्नयोर्मनः स्वातन्त्र्यमनुभवदहरहः सुषुप्तं वा प्रतिपद्यते । समानं हि सर्वप्राणिनां पर्यायेण जाग्रत्स्वप्नसुषुप्तगमनम् ; अतो विद्वत्तास्तुतिरेवेयमुपपद्यते । यत्पृष्टं कतर एष देवः स्वप्नान्पश्यतीति ; तदाह — अत्र उपरतेषु श्रोत्रादिषु देहरक्षायै जाग्रत्सु प्राणादिवायुषु प्राक्सुषुप्तिप्रतिपत्तेः एतस्मिन्नन्तराल एषः देवः अर्करश्मिवत्स्वात्मनि संहृतश्रोत्रादिकरणः स्वप्ने महिमानं विभूतिं विषयविषयिलक्षणमनेकात्मभावगमनम् अनुभवति प्रतिपद्यते । ननु महिमानुभवने करणं मनोऽनुभवितुः ; तत्कथं स्वातन्त्र्येणानुभवतीत्युच्यते ? स्वतन्त्र हि क्षेत्रज्ञः । नैष दोषः । क्षेत्रज्ञस्य स्वातन्त्र्यस्य मनउपाधिकृतत्वात् । न हि क्षेत्रज्ञः परमार्थतः स्वतः स्वपिति जागर्ति वा । मनउपाधिकृतमेव तस्य जागरणं स्वप्नश्च । उक्तं वाजसनेयके ‘सधीः स्वप्नो भूत्वा’ (बृ. मा. ४ । ३ । ७) ‘ध्यायतीव लेलायतीव’ (बृ. उ. ४ । ३ । ७) इत्यादि । तस्मान्मनसो विभूत्यनुभवे स्वातन्त्र्यवचनं न्याय्यमेव । मनउपाधिसहितत्वे स्वप्नकाले क्षेत्रज्ञस्य स्वयञ्ज्योतिष्ट्वं बाध्येत इति केचित् । तन्न । श्रुत्यर्थापरिज्ञानकृता भ्रान्तिस्तेषाम् । यस्मात्स्वयञ्ज्योतिष्ट्वादिव्यवहारोऽप्यामोक्षान्तः सर्वोऽप्यविद्याविषय एव मनआद्युपाधिजनितः ; ‘यत्र वा अन्यदिव स्यात्तत्रान्योऽन्यत्पश्येन्मात्रासंसर्गस्त्वस्य भवति’ (बृ. उ. ४ । ३ । ३१), (बृ. मा. ४ । ५ । १४) ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्’ (बृ. उ. ४ । ५ । १५) इत्यादिश्रुतिभ्यः । अतो मन्दब्रह्मविदामेवेयमाशङ्का, न त्वेकात्मविदाम् । नन्वेवं सति ‘अत्रायं पुरुषः स्वयञ्ज्योतिः’ (बृ. उ. ४ । ३ । १४) इति विशेषणमनर्थकं भवति । अत्रोच्यते । अत्यल्पमिदमुच्यते ‘य एषोऽन्तर्हृदय आकाशस्तस्मिञ्शेते’ (बृ. उ. २ । १ । १७) इति अन्तर्हृदयपरिच्छेदकरणे सुतरां स्वयञ्ज्योतिष्ट्वं बाध्येत । सत्यमेवम् ; अयं दोषो यद्यपि स्यात्स्वप्ने केवलतया स्वयञ्ज्योतिष्ट्वेनार्धं तावदपनीतं भारस्येति चेत् , न ; तत्रापि ‘पुरीतति नाडीषु शेते’ इति श्रुतेः पुरीतन्नाडीसम्बन्धादत्रापि पुरुषस्य स्वयञ्ज्योतिष्ट्वेनार्धभारापनयाभिप्रायो मृषैव । कथं तर्हि ‘अत्रायं पुरुषः स्वयञ्ज्योतिः’ (बृ. उ. ४ । ३ । १४) इति ? अन्यशाखात्वादनपेक्षा सा श्रुतिरिति चेत् , न ; अर्थैकत्वस्येष्टत्वात् । एको ह्यात्मा सर्ववेदान्तानामर्थो विजिज्ञापयिषितो बुभुत्सितश्च । तस्माद्युक्ता स्वप्न आत्मनः स्वयञ्ज्योतिष्ट्वोपपत्तिर्वक्तुम् , श्रुतेर्यथार्थतत्त्वप्रकाशकत्वात् । एवं तर्हि शृणु श्रुत्यर्थं हित्वा सर्वमभिमानम् ; न ह्यभिमानेन वर्षशतेनापि श्रुत्यर्थो ज्ञातुं शक्यते सर्वैः पण्डितंमन्यैः । यथा हृदयाकाशे पुरीतति नाडीषु च स्वपतस्तत्सम्बन्धाभावात्ततो विविच्य दर्शयितुं शक्यत इति आत्मनः स्वयञ्ज्योतिष्ट्वं न बाध्यते । एवं मनस्यविद्याकामकर्मनिमित्तोद्भूतवासनावति कर्मनिमित्ता वासना अविद्यया अन्यद्वस्त्वन्तरमिव पश्यतः सर्वकार्यकरणेभ्यः प्रविविक्तस्य द्रष्टुर्वासनाभ्यो दृश्यरूपाभ्योऽन्यत्वेन स्वयञ्ज्योतिष्ट्वं सुदर्पितेनापि तार्किकेण केन वारयितुं शक्यते ? तस्मात्साधूक्तं मनसि प्रलीनेषु करणेष्वप्रलीने च मनसि मनोमयः स्वप्नान्पश्यतीति । कथं महिमानमनुभवतीति उच्यते । यन्मित्रं पुत्रादि वा पूर्वं दृष्टं तद्वासनावासितः पुत्रमित्रादिवासनासमुद्भूतं पुत्रं मित्रमिव वा अविद्यया पश्यतीत्येवं मन्यते । शृणोति तथा श्रुतमर्थं तद्वासनयानु शृणोतीव । देशदिगन्तरैश्च देशान्तरैर्दिगन्तरैश्च प्रत्यनुभूतं पुनः पुनस्तत्प्रत्यनुभवतीव अविद्यया । तथा दृष्टं चास्मिञ्जन्मन्यदृष्टं च जन्मान्तरदृष्टमित्यर्थः । अत्यन्तादृष्टे वासनानुपपत्तेः । एवं श्रुतं चाश्रुतं चानुभूतं चास्मिञ्जन्मनि केवलेन मनसा अननुभूतं च मनसैव जन्मान्तरेऽनुभूतमित्यर्थः । सच्च परमार्थोदकादि । असच्च मरीच्युदकादि । किं बहुना, उक्तानुक्तं सर्वं पश्यति सर्वः पश्यति सर्वमनोवासनोपाधिः सन्नेवं सर्वकरणात्मा मनोदेवः स्वप्नान्पश्यति ॥
+एवं विदुषः श्रोत्राद्युपरमकालादारभ्य यावत्सुप्तोत्थितो भवति तावत्सर्वयागफलानुभव एव, नाविदुषामिवानर्थायेति विद्वत्ता स्तूयते । न हि विदुष एव श्रोत्रादीनि स्वपन्ति, प्राणाग्नयो वा जाग्रति । जाग्रत्स्वप्नयोर्मनः स्वातन्त्र्यमनुभवदहरहः सुषुप्तं वा प्रतिपद्यते । समानं हि सर्वप्राणिनां पर्यायेण जाग्रत्स्वप्नसुषुप्तगमनम् ; अतो विद्वत्तास्तुतिरेवेयमुपपद्यते । यत्पृष्टं कतर एष देवः स्वप्नान्पश्यतीति ; तदाह — अत्र उपरतेषु श्रोत्रादिषु देहरक्षायै जाग्रत्सु प्राणादिवायुषु प्राक्सुषुप्तिप्रतिपत्तेः एतस्मिन्नन्तराल एषः देवः अर्करश्मिवत्स्वात्मनि संहृतश्रोत्रादिकरणः स्वप्ने महिमानं विभूतिं विषयविषयिलक्षणमनेकात्मभावगमनम् अनुभवति प्रतिपद्यते । ननु महिमानुभवने करणं मनोऽनुभवितुः ; तत्कथं स्वातन्त्र्येणानुभवतीत्युच्यते ? स्वतन्त्र हि क्षेत्रज्ञः । नैष दोषः । क्षेत्रज्ञस्य स्वातन्त्र्यस्य मनउपाधिकृतत्वात् । न हि क्षेत्रज्ञः परमार्थतः स्वतः स्वपिति जागर्ति वा । मनउपाधिकृतमेव तस्य जागरणं स्वप्नश्च । उक्तं वाजसनेयके ‘सधीः स्वप्नो भूत्वा’(बृ. मा. ४ । ३ । ७) ‘ध्यायतीव लेलायतीव’(बृ. उ. ४ । ३ । ७) इत्यादि । तस्मान्मनसो विभूत्यनुभवे स्वातन्त्र्यवचनं न्याय्यमेव । मनउपाधिसहितत्वे स्वप्नकाले क्षेत्रज्ञस्य स्वयञ्ज्योतिष्ट्वं बाध्येत इति केचित् । तन्न । श्रुत्यर्थापरिज्ञानकृता भ्रान्तिस्तेषाम् । यस्मात्स्वयञ्ज्योतिष्ट्वादिव्यवहारोऽप्यामोक्षान्तः सर्वोऽप्यविद्याविषय एव मनआद्युपाधिजनितः ; ‘यत्र वा अन्यदिव स्यात्तत्रान्योऽन्यत्पश्येन्मात्रासंसर्गस्त्वस्य भवति’(बृ. उ. ४ । ३ । ३१) , ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्’(बृ. उ. ४ । ५ । १५) इत्यादिश्रुतिभ्यः । अतो मन्दब्रह्मविदामेवेयमाशङ्का, न त्वेकात्मविदाम् । नन्वेवं सति ‘अत्रायं पुरुषः स्वयञ्ज्योतिः’(बृ. उ. ४ । ३ । १४) इति विशेषणमनर्थकं भवति । अत्रोच्यते । अत्यल्पमिदमुच्यते ‘य एषोऽन्तर्हृदय आकाशस्तस्मिञ्शेते’(बृ. उ. २ । १ । १७) इति अन्तर्हृदयपरिच्छेदकरणे सुतरां स्वयञ्ज्योतिष्ट्वं बाध्येत । सत्यमेवम् ; अयं दोषो यद्यपि स्यात्स्वप्ने केवलतया स्वयञ्ज्योतिष्ट्वेनार्धं तावदपनीतं भारस्येति चेत् , न ; तत्रापि ‘पुरीतति नाडीषु शेते’ इति श्रुतेः पुरीतन्नाडीसम्बन्धादत्रापि पुरुषस्य स्वयञ्ज्योतिष्ट्वेनार्धभारापनयाभिप्रायो मृषैव । कथं तर्हि ‘अत्रायं पुरुषः स्वयञ्ज्योतिः’ इति ? अन्यशाखात्वादनपेक्षा सा श्रुतिरिति चेत् , न ; अर्थैकत्वस्येष्टत्वात् । एको ह्यात्मा सर्ववेदान्तानामर्थो विजिज्ञापयिषितो बुभुत्सितश्च । तस्माद्युक्ता स्वप्न आत्मनः स्वयञ्ज्योतिष्ट्वोपपत्तिर्वक्तुम् , श्रुतेर्यथार्थतत्त्वप्रकाशकत्वात् । एवं तर्हि शृणु श्रुत्यर्थं हित्वा सर्वमभिमानम् ; न ह्यभिमानेन वर्षशतेनापि श्रुत्यर्थो ज्ञातुं शक्यते सर्वैः पण्डितंमन्यैः । यथा हृदयाकाशे पुरीतति नाडीषु च स्वपतस्तत्सम्बन्धाभावात्ततो विविच्य दर्शयितुं शक्यत इति आत्मनः स्वयञ्ज्योतिष्ट्वं न बाध्यते । एवं मनस्यविद्याकामकर्मनिमित्तोद्भूतवासनावति कर्मनिमित्ता वासना अविद्यया अन्यद्वस्त्वन्तरमिव पश्यतः सर्वकार्यकरणेभ्यः प्रविविक्तस्य द्रष्टुर्वासनाभ्यो दृश्यरूपाभ्योऽन्यत्वेन स्वयञ्ज्योतिष्ट्वं सुदर्पितेनापि तार्किकेण केन वारयितुं शक्यते ? तस्मात्साधूक्तं मनसि प्रलीनेषु करणेष्वप्रलीने च मनसि मनोमयः स्वप्नान्पश्यतीति । कथं महिमानमनुभवतीति उच्यते । यन्मित्रं पुत्रादि वा पूर्वं दृष्टं तद्वासनावासितः पुत्रमित्रादिवासनासमुद्भूतं पुत्रं मित्रमिव वा अविद्यया पश्यतीत्येवं मन्यते । शृणोति तथा श्रुतमर्थं तद्वासनयानु शृणोतीव । देशदिगन्तरैश्च देशान्तरैर्दिगन्तरैश्च प्रत्यनुभूतं पुनः पुनस्तत्प्रत्यनुभवतीव अविद्यया । तथा दृष्टं चास्मिञ्जन्मन्यदृष्टं च जन्मान्तरदृष्टमित्यर्थः । अत्यन्तादृष्टे वासनानुपपत्तेः । एवं श्रुतं चाश्रुतं चानुभूतं चास्मिञ्जन्मनि केवलेन मनसा अननुभूतं च मनसैव जन्मान्तरेऽनुभूतमित्यर्थः । सच्च परमार्थोदकादि । असच्च मरीच्युदकादि । किं बहुना, उक्तानुक्तं सर्वं पश्यति सर्वः पश्यति सर्वमनोवासनोपाधिः सन्नेवं सर्वकरणात्मा मनोदेवः स्वप्नान्पश्यति ॥
 
 </details>
 
 <details><summary>टीका - एवं विदुष इति ।</summary>
 
-ननु गार्हपत्यो वा एषोऽपान इत्यारभ्य मनो ह वाव यजामान इत्यन्तेन ग्रन्थेन विद्वानकर्मी न भवतीति स्तूयत इत्युक्तमस्त्वेवं तत्राग्निहोत्रादिकर्मप्रतीतेरुदानस्य यागफलस्थानीयत्वोक्तेस्तु न तत्फलत्वं तत्र कर्माप्रतीतेरत आह  –
+ननु गार्हपत्यो वा एषोऽपान इत्यारभ्य मनो ह वाव यजामान इत्यन्तेन ग्रन्थेन विद्वानकर्मी न भवतीति स्तूयत इत्युक्तमस्त्वेवं तत्राग्निहोत्रादिकर्मप्रतीतेरुदानस्य यागफलस्थानीयत्वोक्तेस्तु न तत्फलत्वं तत्र कर्माप्रतीतेरत आह –
 
 एवं विदुष इति ।
 
 </details>
 
-<details><summary>टीका - विद्वत्तेति ।</summary>
+<details><summary>टीका - विद्वत्ता</summary>
 
 विद्वत्तेति ।
 
@@ -2589,17 +2363,15 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - विद्वत्तास्तुतिरेवेति ।</summary>
-
-विद्वत्तास्तुतिरेवेति ।
+<details><summary>टीका - विद्व­त्ता­स्तु­ति­रे­वेति ।</summary>
 
 श्रोत्रादिकं परे देवे मनस्येकी भवति प्राणाग्नयो जाग्रतीत्यत्र पदार्थविवेकरूपं ज्ञानं विवक्षितं तज्ज्ञानं गार्हपत्यो वा एषोऽपान इत्यादिना स्यूयत उक्तप्रकारेणेत्यर्थः ।
 
 </details>
 
-<details><summary>टीका - उपरतेष्वित्यादिनाऽन्तराल इत्यन्तेन ।</summary>
+<details><summary>टीका - उप­र­ते­ष्वि­त्या­दि­नाऽ­न्त­राल इत्यन्तेन ।</summary>
 
-तृतीयप्रश्नोत्तरत्वेन कतर एष इत्यादि सर्वः पश्यन्तीत्यन्तं व्याचष्टे  –
+तृतीयप्रश्नोत्तरत्वेन कतर एष इत्यादि सर्वः पश्यन्तीत्यन्तं व्याचष्टे यदिति। कतर इति। अत्रेति श्रौतं गृहीत्वा व्याचष्टे –
 
 उपरतेष्वित्यादिनाऽन्तराल इत्यन्तेन ।
 
@@ -2607,15 +2379,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अनेकेति ।</summary>
 
-अनेकेति ।
-
 विषयविषयाद्यनेकभावगमनमित्यर्थः । इदं च महत्वव्याख्यानम् ।
 
 </details>
 
 <details><summary>टीका - नन्विति ।</summary>
 
-स्वप्नद्रष्टुर्जीवस्य स्वातन्त्र्ये वक्तव्ये देवशब्दितमनसस्तदुक्तिः स्वप्नो मनोधर्मो नाऽऽत्मधर्म आत्मनि तु तदारोपमात्रं लोकस्येति ख्यापनार्थेति शङ्कापरिहाराभ्यामाह –
+स्वप्नद्रष्टुर्जीवस्य स्वातन्त्र्ये वक्तव्ये देवशब्दितमनसस्तदुक्तिः स्वप्नो मनोधर्मो नाऽऽत्मधर्मम् आत्मनि तु तदारोपमात्रं लोकस्येति ख्यापनार्थेति शङ्कापरिहाराभ्यामाह –
 
 नन्विति ।
 
@@ -2623,23 +2393,19 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - मनउपाधिकृतमिति ।</summary>
 
-मनउपाधिकृतमिति ।
-
-बाह्येन्द्रिययुक्तमनउपाधिकृतं जागरणं केवलमनउपाधिकृतः स्वप्न इत्यर्थः । स्वप्नस्य धीशब्दवाच्यमनःपरिणामत्वात् । स्वप्नो भूत्वेतिश्रुतौ सामानाधिकरण्यनिर्देश इति द्रष्टव्यम् । नन्वियं श्रुतिर्विभूत्यनुभवेन मनःस्वातन्त्र्यं वक्तुं न शक्नोति श्रुत्यन्तरविरोधापत्तेः । अतोऽत्र देवशब्देन क्षेत्रज्ञ एवोच्यते । तस्यैव स्वतः स्वातन्त्र्यमिति शङ्कते ।
+बाह्येन्द्रिययुक्तमनउपाधिकृतं जागरणं केवलमनउपाधिकृतः स्वप्न इत्यर्थः । स्वप्नस्य धीशब्दवाच्यमनःपरिणामत्वात् । स्वप्नो भूत्वेति श्रुतौ सामानाधिकरण्यनिर्देश इति द्रष्टव्यम् । नन्वियं श्रुतिर्विभूत्यनुभवेन मनःस्वातन्त्र्यं वक्तुं न शक्नोति श्रुत्यन्तरविरोधापत्तेः । अतोऽत्र देवशब्देन क्षेत्रज्ञ एवोच्यते । तस्यैव स्वतः स्वातन्त्र्यमिति शङ्कते ।
 
 </details>
 
 <details><summary>टीका - मन इति ।</summary>
 
-मन इति ।
+
 
 </details>
 
-<details><summary>टीका - स्वयञ्ज्योतिष्ट्वमिति ।</summary>
+<details><summary>टीका - स्वय­ञ्ज्यो­ति­ष्ट्व­मिति ।</summary>
 
-स्वयञ्ज्योतिष्ट्वमिति ।
-
-स्वयञ्ज्योतिष्ट्वबोधकश्रुतिरित्यर्थः । अन्यथा द्वितीयसत्वेऽपि दीपादीनामिव वास्तवस्य तस्य बाधाभावादित्यत्र किं मनसः सत्त्वे ज्योतिरन्तरस्य मनसो विद्यमानत्वादात्मनः स्वयंज्योतिष्ट्वबोधनं न शक्यमिति श्रुतेः कार्यस्य बोधनस्य बाधोऽभिप्रत उत तद्बोधनरूपकार्यसिध्यर्थं मनसोऽभावोऽपि विवक्षितः श्रुतौ । ततश्च तत्सत्त्वे श्रुत्यर्थबाध इति वा । नाऽऽद्यः ।
+स्वयञ्ज्योतिष्ट्वबोधकश्रुतिरित्यर्थः । अन्यथा द्वितीयसत्वेऽपि दीपादीनामिव वास्तवस्य तस्य बाधाभावादित्यत्र किं मनसः सत्त्वे ज्योतिरन्तरस्य मनसो विद्यमानत्वादात्मनः स्वयंज्योतिष्ट्वबोधनं न शक्यमिति श्रुतेः कार्यस्य बोधनस्य बाधोऽभिप्रेत उत तद्बोधनरूपकार्यसिध्यर्थं मनसोऽभावोऽपि विवक्षितः श्रुतौ । ततश्च तत्सत्त्वे श्रुत्यर्थबाध इति वा । नाऽऽद्यः ।
 
 </details>
 
@@ -2653,7 +2419,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - श्रुत्यर्थेति ।</summary>
 
-न द्वितीयः, तदानीं मनसोऽभावस्तु श्रुत्यर्थ एव न भवतीत्याह –
+न द्वितीयः, तदानीं मनसोऽभावस्तु श्रुत्यर्थम् एव न भवतीत्याह –
 
 श्रुत्यर्थेति ।
 
@@ -2699,7 +2465,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 नन्विति ।
 
-किं विशेषणबलान्मनसोऽभावः सिषाधयिषित उत विशेषणस्य गतिमात्रं पृच्छ्यते । नाऽऽद्यः ।
+किं विशेषणबलान्मनसोऽभावः सिषाधयिषितः उत विशेषणस्य गतिमात्रं पृच्छ्यते । नाऽऽद्यः ।
 
 </details>
 
@@ -2709,13 +2475,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 अत्रोच्यत इति ।
 
-परिच्छेदोऽधिकोन्नत इति तरपः प्रयोगः ।
+परिच्छेदोऽधिकोऽत्रेति तरपः प्रयोगः ।
 
 </details>
 
-<details><summary>टीका - स्वयंज्योतिष्ट्वमिति ।</summary>
-
-स्वयंज्योतिष्ट्वमिति ।
+<details><summary>टीका - स्वयं­ज्यो­ति­ष्ट्व­मिति ।</summary>
 
 तद्बोधनमित्यर्थः ।
 
@@ -2733,15 +2497,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - केवलतयेति ।</summary>
 
-केवलतयेति ।
-
 मनसोऽभावेनेत्यर्थः ।
 
 </details>
 
-<details><summary>टीका - भारस्येति ।</summary>
+<details><summary>टीका - भारस्येति</summary>
 
-भारस्येति ।
+।
 
 प्रतिबन्धकस्येत्यर्थः । शेषबोधनं तु सुषुप्ते भविष्यतीत्यभिप्रायः । एवं तर्हि सुषुप्ते सर्वस्याप्यभावमाश्रित्य सम्यग्बोधनं विवक्षणीयं न च तत्सम्भवति ।
 
@@ -2758,8 +2520,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - तत्रापीति ।</summary>
-
-तत्रापीति ।
 
 स्वप्नेऽपीत्यर्थः ।
 
@@ -2781,7 +2541,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - नार्थैकत्वस्येति ।</summary>
+<details><summary>टीका - नार्थै­क­त्व­स्येति ।</summary>
 
 सर्ववेदान्तप्रत्ययन्यायेनाथर्वश्रुत्यविरोधेनैकवाक्यतया श्रुत्यर्थस्य वर्णनीयत्वात्तदविरोधोऽपि वक्तव्य इति पूर्ववाद्याह –
 
@@ -2789,7 +2549,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - श्रुतेर्यथार्थेति ।</summary>
+<details><summary>टीका - श्रुते­र्य­था­र्थेति ।</summary>
 
 तर्हि काण्वश्रुतिरर्थाभावात्त्यज्यतामत आह –
 
@@ -2817,8 +2577,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - मनसीति ।</summary>
 
-मनसीति ।
-
 सत्यपीति शेषः ।
 
 </details>
@@ -2833,9 +2591,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - स्वयंज्योतिष्ट्वमिति ।</summary>
-
-स्वयंज्योतिष्ट्वमिति ।
+<details><summary>टीका - स्वयं­ज्यो­ति­ष्ट्व­मिति ।</summary>
 
 सिद्धमिति शेषः । अतः काण्वश्रुतौ स्वप्ने मनसोऽभावविवक्षाकारणाभावेन तद्विरोधाभावादत्र देवशब्देन परे देवे मनस्येकीभवतीत्युक्तम् ।
 
@@ -2865,7 +2621,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - यदिति ।</summary>
+<details><summary>टीका - यन्मित्रं</summary>
 
 यदिति ।
 
@@ -2874,8 +2630,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - तथेति ।</summary>
-
-तथेति ।
 
 अत्रापि योऽर्थः श्रुतस्तमेव श्रुतमर्थमित्यध्याहारेणैव श्रुतिर्योज्या । देशो नदीतीरादिः । दिक्प्राच्यादिरिति भावः । प्रत्यनुभूतं प्रतिवारमनुभूतं पुनः पुनरनेकदिनेष्वनेकस्वप्नेष्वनुभवतीत्यर्थः ।
 
@@ -2889,9 +2643,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - केवलेनेति ।</summary>
+<details><summary>टीका - केवलेने</summary>
 
-अनुभुतं चेत्यस्य प्रत्यनुभूतमित्यनेन पुनरुक्तिमाशङ्क्याऽऽह –
+अनुभूतं चेत्यस्य प्रत्यनुभूतमित्यनेन पुनरुक्तिमाशङ्क्याऽऽह –
 
 केवलेनेति ।
 
@@ -2907,8 +2661,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C04_V06_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/4/AP/?u=PR_C04_V06_B01)  
 <details open><summary>मूलम्</summary>
 
 स यदा तेजसाभिभूतो भवति । अत्रैष देवः स्वप्नान्न पश्यत्यथैतदस्मिञ्शरीरे एतत्सुखं भवति ॥ ६ ॥
@@ -2924,9 +2677,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - पित्ताख्येनेति ।</summary>
+<details><summary>टीका - पित्ताख्येने</summary>
 
-पित्ताख्येनेति ।
+ति ।
 
 इदमुपलक्षणं चिद्रूपेण ब्रह्मण चेत्यपि द्रष्टव्यम् । तन्मनः प्राणमेवोपश्रयत इति श्रुत्यन्तरेण प्राणशब्दिते ब्रह्मणि तस्य लयाभिधानात् ।
 
@@ -2934,23 +2687,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - तिरस्कृतेति ।</summary>
 
-तिरस्कृतेति ।
-
 वासनाभिव्यक्तौ द्वारं स्वप्नभोगप्रदं कर्म यत्तत्तिरस्कृतं तत्रोपरतं भवति तेजःशब्दितब्रह्मचैतन्यसम्बन्धादित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - रश्मय इति ।</summary>
 
-रश्मय इति ।
-
 वासना इत्यर्थः ।
 
 </details>
 
-<details><summary>टीका - अविशेषविज्ञानेति ।</summary>
-
-अविशेषविज्ञानेति ।
+<details><summary>टीका - अवि­शे­ष­वि­ज्ञा­नेति ।</summary>
 
 सामान्यचैतन्यरूपेणेत्यर्थः । चेतनाशब्दितसामान्यवृत्तिरूपेण वा ।
 
@@ -2958,7 +2705,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - तदेति ।</summary>
 
-अनेन सुषुप्त उक्त इत्याह –
+अनेन सुषुप्तमुक्तमित्याह –
 
 तदेति ।
 
@@ -2974,8 +2721,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C04_V07_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/4/AP/?u=PR_C04_V07_B01)  
 <details open><summary>मूलम्</summary>
 
 स यथा सोम्य वयांसि वासोवृक्षं सम्प्रतिष्ठन्त एवं ह वै तत्सर्वं पर आत्मनि सम्प्रतिष्ठते ॥ ७ ॥
@@ -2993,22 +2739,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अन्यथेति ।</summary>
 
-अन्यथेति ।
-
 पूर्वमन्यथा विभाव्यमानमित्यर्थः ।
 
 </details>
 
-<details><summary>टीका - मात्रानुप्रवेशेनेति ।</summary>
-
-मात्रानुप्रवेशेनेति ।
+<details><summary>टीका - मात्रा­नु­प्र­वे­शे­नेति ।</summary>
 
 मात्राणां विवेकतोऽक्षरेऽनुप्रवेशेनेत्यर्थः ॥ ७ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C04_V08_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/4/AP/?u=PR_C04_V08_B01)  
 <details open><summary>मूलम्</summary>
 
 पृथिवी च पृथिवीमात्रा चापश्चापोमात्रा च तेजश्च तेजोमात्रा च वायुश्च वायुमात्रा चाकाशश्चाकाशमात्रा च चक्षुश्च द्रष्टव्यं च श्रोत्रं च श्रोतव्यं च घ्राणं च घ्रातव्यं च रसश्च रसयितव्यं च त्वक्च स्पर्शयितव्यं च वाक्च वक्तव्यं च हस्तौ चादातव्यं चोपस्थश्चानन्दयितव्यं च पायुश्च विसर्जयितव्यं च पादौ च गन्तव्यं च मनश्च मन्तव्यं च बुद्धिश्च बोद्धव्यं चाहङ्कारश्चाहङ्कर्तव्यं च चित्तं च चेतयितव्यं च तेजश्च विद्योतयितव्यं च प्राणश्च विधारयितव्यं च ॥ ८ ॥
@@ -3016,7 +2757,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - स्थूलानि चेति ।</summary>
+<details><summary>टीका - स्थूलानि चे</summary>
 
 आपोमात्रा इत्यत्र विभक्त्यलोपश्छान्दसः ।
 
@@ -3027,8 +2768,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - प्रकाशविशिष्टा या त्वगिति ।</summary>
-
-प्रकाशविशिष्टा या त्वगिति ।
 
 त्वगाश्रयं चर्म तत्प्रकाशनिर्भास्यं च तदेवेत्यर्थः ।
 
@@ -3042,8 +2781,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C04_V09_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/4/AP/?u=PR_C04_V09_B01)  
 <details open><summary>मूलम्</summary>
 
 एष हि द्रष्टा स्प्रष्टा श्रोता घ्राता रसयिता मन्ता बोद्धा कर्ता विज्ञानात्मा पुरुषः । स परेऽक्षर आत्मनि सम्प्रतिष्ठते ॥ ९ ॥
@@ -3061,13 +2799,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - द्रष्टेति ।</summary>
 
-द्रष्टेति ।
-
 उपाधिकृतमपि द्रष्टृत्वादिकमुपाधिव्यतिरिक्तेऽनुपहित आत्मन्यारोपितं स्फटिके लौहित्यवदस्तीत्युपाधिभिन्नोऽप्यात्मा द्रष्टेत्यादिनोक्तः ।
 
 </details>
 
-<details><summary>टीका - विज्ञानमिति ।</summary>
+<details><summary>टीका - विज्ञानं</summary>
 
 विज्ञानात्मेत्यत्र द्रष्टेत्यादाविव कर्तृवाचकतृचोऽभावाद्विज्ञानं यज्ञं तनुत इत्यादाविव बुद्धेरभिधाने पौनरुक्त्यमाशङ्क्याऽऽह –
 
@@ -3077,13 +2813,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - करणभूतमिति ।</summary>
 
-करणभूतमिति ।
-
 विज्ञानमय इत्यादावित्यर्थः ।
 
 </details>
 
-<details><summary>टीका - स चेति ॥ ९ ॥</summary>
+<details><summary>टीका - स चे</summary>
 
 एष हीति हिशब्दश्चशब्दार्थकः स च सम्प्रतिष्ठित इति क्रियनुकर्षणार्थ इति वदन्द्रष्टुरात्मनः पृथिव्यादिवत्स्वरूपेणाक्षरे लयो न सम्भवतीत्याशङ्क्योपाधिलय उपहितरूपाभावमेवास्य लय इत्याह –
 
@@ -3091,8 +2825,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C04_V10_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/4/AP/?u=PR_C04_V10_B01)  
 <details open><summary>मूलम्</summary>
 
 परमेवाक्षरं प्रतिपद्यते स यो ह वै तदच्छायमशरीरमलोहितं शुभ्रमक्षरं वेदयते यस्तु सोम्य । स सर्वज्ञः सर्वो भवति तदेष श्लोकः ॥ १० ॥
@@ -3128,7 +2861,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - सत्यमित्यादिना ।</summary>
+<details><summary>टीका - सत्यं</summary>
 
 अत्राक्षरमित्यनेनाक्षरं पुरुषं वेद सत्यं स बाह्याभ्यन्तरो ह्यजोऽप्राणो ह्यमनाः शुभ्र इति मन्त्रोक्तानि सर्वाणि विशेषणान्यात्मोपलक्षणान्यात्मोपलक्षणार्थं सङ्गृहीतानीत्याह –
 
@@ -3154,27 +2887,27 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C04_V11_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/4/AP/?u=PR_C04_V11_B01)  
 <details open><summary>मूलम्</summary>
 
 विज्ञानात्मा सह देवैश्च सर्वैः प्राणा भूतानि सम्प्रतिष्ठन्ति यत्र ।
 तदक्षरं वेदयते यस्तु सोम्य स सर्वज्ञः सर्वमेवाविवेशेति ॥ ११ ॥
 विज्ञानात्मा, सह देवैश्च अग्न्यादिभिः प्राणाः चक्षुरादयः भूतानि पृथिव्यादीनि सम्प्रतिष्ठन्ति प्रविशन्ति यत्र यस्मिन्नक्षरे, तत् अक्षरं वेदयते यस्तु हे सोम्य प्रियदर्शन, स सर्वज्ञः सर्वमेव आविवेश आविशतीत्यर्थः ॥
+इति चतुर्थप्रश्नभाष्यम् ॥
 
 </details>
 
 <details><summary>टीका - अग्न्यादिभिरिति ।</summary>
 
-अग्न्यादिभिरिति ।
-
 ततश्च चक्षुश्च द्रष्टव्यं चेत्यत्रापि चक्षुरादिभिर्देवा अप्युपलक्षिताः इति व्याख्यातम् ॥ ११ ॥
+
+इत्यानन्दज्ञानविरचितप्रश्नोपनिषद्भाष्यटीकायां चतुर्थः प्रश्नः ॥ ४ ॥
 
 </details>
 
+## पञ्चमः प्रश्नः
 
-## पञ्चमः प्रश्नः पूर्वपृष्ठम् उत्तरपृष्ठम्
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C05_V01_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/5/AP/?u=PR_C05_V01_B01)  
 <details open><summary>मूलम्</summary>
 
 अथ हैनं शैब्यः सत्यकामः पप्रच्छ । स यो ह वै तद्भगवन्मनुष्येषु प्रायणान्तमोङ्कारमभिध्यायीत कतमं वाव स तेन लोकं जयतीति ॥ १ ॥
@@ -3184,7 +2917,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अथ हैनमिति ।</summary>
 
-एवं चतुर्थप्रश्नेनोत्तमाधिकारिणः पदार्थशोधनपूर्वकवाक्यार्थज्ञानेनाक्षरप्राप्तिमुक्त्वाऽत्रानधिकारिणो मन्दवैराग्यवत ओमित्येवं ध्यायत आत्मानं प्रणवो धनुदित्यादिमन्त्रसूचितं ब्रह्मलोकप्राप्तिद्वारा क्रमेणाक्षरप्राप्त्यर्थमोङ्कारोपासनं वक्तुं पञ्चमप्रश्नमवतारयति –
+एवं चतुर्थप्रश्नेनोत्तमाधिकारिणः पदार्थशोधनपूर्वकवाक्यार्थज्ञानेनाक्षरप्राप्तिमुक्त्वाऽत्रानधिकारिणो मन्दवैराग्यवत ओमित्येवं ध्यायत आत्मानं प्रणवो धनुरित्यादिमन्त्रसूचितं ब्रह्मलोकप्राप्तिद्वारा क्रमेणाक्षरप्राप्त्यर्थमोङ्कारोपासनं वक्तुं पञ्चमप्रश्नमवतारयति –
 
 अथ हैनमिति ।
 
@@ -3192,23 +2925,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - इदानीमिति ।</summary>
 
-इदानीमिति ।
-
 गार्ग्यप्रश्ननिर्णयानन्तरमित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - परेति ।</summary>
 
-परेति ।
-
 अपरब्रह्मलोकप्राप्तिक्रमेण परब्रह्मलोकप्राप्तिसाधनत्वेनेत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - तदद्भुतमिवेति ।</summary>
-
-तदद्भुतमिवेति ।
 
 तदिति क्रियाविशेषणं तादृशमभिध्यानमिति, तेन विशेषणेनाद्भुतत्वं दुष्करत्वं भातीत्यर्थः ।
 
@@ -3220,7 +2947,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 बाह्येति ।
 
-भक्त्याऽऽदरेणोपचारेणेवाऽऽवेशित आरोपितो ब्रह्मभावो यस्मिन्नोङ्कारे तस्मिन्समाहितचित्त इत्यन्वयः । अनेन धारणोक्ता ।
+भक्त्याऽऽदरेणोपचारेणैवाऽऽवेशित आरोपितो ब्रह्मभावो यस्मिन्नोङ्कारे तस्मिन्समाहितचित्तः इत्यन्वयः । अनेन धारणोक्ता ।
 
 </details>
 
@@ -3260,8 +2987,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C05_V02_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/5/AP/?u=PR_C05_V02_B01)  
 <details open><summary>मूलम्</summary>
 
 तस्मै स होवाच । एतद्वै सत्यकाम परं चापरं च ब्रह्म यदोङ्कारः । तस्माद्विद्वानेतेनैवायतनेनैकतरमन्वेति ॥ २ ॥
@@ -3295,7 +3021,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - ओङ्कारप्रतीकत्वादिति ।</summary>
+<details><summary>टीका - ओङ्का­र­प्र­ती­क­त्वा­दिति ।</summary>
 
 तयोर्भेदात्कथमैक्यमित्याशङ्क्योपचारादित्याह –
 
@@ -3314,8 +3040,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - शब्दादीति ।</summary>
-
-शब्दादीति ।
 
 शब्दादिभिः साक्षाद्बोधनानर्हमित्यर्थः । आदिशब्देनानुमानादि गृह्यते ।
 
@@ -3351,8 +3075,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्रसीदतीति ।</summary>
 
-प्रसीदतीति ।
-
 तदुपासनेन चित्तस्य नैर्मल्ये सति निर्विशेषं स्वयमेव प्रकाशत इत्यर्थः ।
 
 </details>
@@ -3369,15 +3091,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - तथाऽपरं चेति ।</summary>
 
-तथाऽपरं चेति ।
-
 प्रसीदतीत्यन्वयः ।
 
 </details>
 
 <details><summary>टीका - तस्मादिति ।</summary>
-
-तस्मादिति ।
 
 प्रतीकत्वादित्यर्थः ।
 
@@ -3385,9 +3103,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - तस्मादेवं विद्वानिति ।</summary>
 
-तस्मादेवं विद्वानिति ।
-
-ब्रह्मत्वाद्ब्रह्मत्वार्हमिति विद्वानित्यर्थः । एतेनैवेत्यनन्तरमायतेनालम्बनेनेति पदद्वयं प्रमादतो गलितमिति द्रष्टव्यम् ।
+ब्रह्मत्वाद्ब्रह्मत्वार्हमिति विद्वानित्यर्थः । एतेनैवेत्यनन्तरमायतनेनाऽऽलम्बनेनेति पदद्वयं प्रमादतो गलितमिति द्रष्टव्यम् ।
 
 </details>
 
@@ -3401,7 +3117,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - नेदिष्ठमिति ।</summary>
+<details><summary>टीका - नेदिष्ठं</summary>
 
 अभिध्यानस्याऽऽयतनत्वाभावादितीतरोपासनावदस्याप्युपासनत्वात्परप्रापकत्वं न सम्भवतीत्यत आह –
 
@@ -3411,8 +3127,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C05_V03_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/5/AP/?u=PR_C05_V03_B01)  
 <details open><summary>मूलम्</summary>
 
 स यद्येकमात्रमभिध्यायीत स तेनैव संवेदितस्तूर्णमेव जगत्यामभिसम्पद्यते । तमृचो मनुष्यलोकमुपनयन्ते स तत्र तपसा ब्रह्मचर्येण श्रद्धया सम्पन्नो महिमानमनुभवति ॥ ३ ॥
@@ -3432,8 +3147,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - सकलेति ।</summary>
 
-सकलेति ।
-
 अकारादिमात्रात्रयात्मक ओङ्कारः स चोपासितव्य इति न जानाति किं त्वकारमात्रमुपासितव्यं जानातीत्यर्थः । तथाऽप्येकदेशज्ञानवैगुण्यतया दुर्गतिं न गच्छति किं तर्ह्योङ्काराभिध्यानप्रभावात्तदेकदेशध्यानप्रभावाद्विशिष्टामेव गतिं गच्छतीत्यन्वयः ।
 
 </details>
@@ -3450,23 +3163,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - एकमात्रमिति ।</summary>
 
-एकमात्रमिति ।
-
-एकमात्रात्मजमोङ्कारमकारमित्यर्थः । एकमात्राविशिष्टेत्यत्राप्येकमात्रात्वविशिष्टेत्यर्थः ।
+एकमात्रात्मकमोङ्कारमकारमित्यर्थः । एकमात्राविशिष्टेत्यत्राप्येकमात्रात्वविशिष्टेत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - ओङ्कारेति ।</summary>
-
-ओङ्कारेति ।
 
 तदवयवेत्यर्थः । एकमात्राप्रधानप्रधानीभूतमात्राद्वयं कृत्स्नमोङ्कारमिति केचिद्व्याचक्षते । दीपिकायां वाचस्पत्ये चाकारमात्रमित्येवं व्याख्यातम् ।
 
 </details>
 
 <details><summary>टीका - सम्भोधित इति ।</summary>
-
-सम्भोधित इति ।
 
 तन्मात्राध्यानेन तन्मात्रासाक्षात्कारवानित्यर्थः ।
 
@@ -3510,15 +3217,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - ऋग्वेदरूपा हीति ।</summary>
 
-ऋग्वेदरूपा हीति ।
-
 पृथिव्यकारः स ऋग्वेद इति श्रुतेरकारस्य तद्रूपत्वमित्यर्थः । अभिध्याताऽकाररूपा मात्रा ऋग्वेदरूपेत्यन्वयः ।
 
 </details>
 
 <details><summary>टीका - तेनेति ।</summary>
-
-तेनेति ।
 
 येनर्ग्वेदरूपत्वं तस्य तेनर्चो मनुष्यलोकमुपनयन्त इत्यर्थः ।
 
@@ -3526,22 +3229,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - वीतश्रद्ध इति ।</summary>
 
-वीतश्रद्ध इति ।
-
 श्रद्धाविरहितः सन्नित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - योगभ्रष्ट इति ।</summary>
 
-योगभ्रष्ट इति ।
-
 एकदेशज्ञानविकल इत्यर्थः । अनेन न हि कल्याणकृत्कश्चिदिति गीतावाक्यसंवादः सूचितः ॥ ३ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C05_V04_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/5/AP/?u=PR_C05_V04_B01)  
 <details open><summary>मूलम्</summary>
 
 अथ यदि द्विमात्रेण मनसि सम्पद्यते सोऽन्तरिक्षं यजुर्भिरुन्नीयते सोमलोकम् । स सोमलोके विभूतिमनुभूय पुनरावर्तते ॥ ४ ॥
@@ -3550,8 +3248,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - द्विमात्रेण विशिष्टमिति ।</summary>
-
-द्विमात्रेण विशिष्टमिति ।
 
 द्वितीयमात्रत्वेन विशिष्टमोङ्कारं तद्गतमुकारमित्यर्थः । न तु मात्राद्वयमकारस्य पूर्वमेवोक्तत्वादत एव द्वितीयमात्रारूपमिति वक्ष्यति । श्रुतौ तृतीया द्वितीयार्थे, ओङ्कारमभिध्यायीतेत्युपक्रमादिति भावः । अत्राभिध्यानं तादात्म्याभिमानपर्यन्तमिति वक्तुं मनसि सम्पद्यत इति वाक्यं तत्र साक्षान्मनःसम्पत्तेः ।
 
@@ -3567,8 +3263,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C05_V05_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/5/AP/?u=PR_C05_V05_B01)  
 <details open><summary>मूलम्</summary>
 
 यः पुनरेतं त्रिमात्रेणोमित्येतेनैवाक्षरेण परं पुरुषमभिध्यायीत स तेजसि सूर्ये सम्पन्नः । यथा पादोदरस्त्वचा विनिर्मुच्यत एवं ह वै स पाप्मना विनिर्मुक्तः स सामभिरुन्नीयते ब्रह्मलोकं स एतस्माज्जीवघनात्परात्परं पुरिशयं पुरुषमीक्षते । तदेतौ श्लोकौ भवतः ॥ ५ ॥
@@ -3584,9 +3279,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - विज्ञानविशिष्टेनेति ।</summary>
-
-विज्ञानविशिष्टेनेति ।
+<details><summary>टीका - विज्ञा­न­वि­शि­ष्टे­नेति ।</summary>
 
 विज्ञानविषयीकृतेनेत्यर्थः । मात्रात्रयात्मकज्ञानेनेति यावत् । पूर्ववदत्रापि त्रिमात्रेणेत्यत्र तृतीया मात्रा मकार उच्यत इति भ्रमं वारयितुमोमित्येतेनैवाक्षरेणेत्युक्तम् ।
 
@@ -3612,15 +3305,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अभेदेति ।</summary>
 
-अभेदेति ।
-
 प्रतीकत्वे ह्यधिष्ठानाध्यस्यमानस्योस्तादात्म्यारोपादभेदश्रवणमुपपद्यते करणत्वे तु न तदुपपद्यत इत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - अनेकश इति ।</summary>
-
-अनेकश इति ।
 
 ओङ्कारमभिध्यायीत स यद्येकमात्रमभिध्यायीतेति द्विवारं श्रुतेत्यर्थः । अन्यथेत्यस्य बाध्येतेत्यनेनान्वयः ।
 
@@ -3644,9 +3333,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्रकृतेति ।</summary>
 
-प्रकृतेति ।
-
-प्रक्रमानुरोधादित्यर्थः । किञ्च द्वितीयाद्वयमुक्ता भेदश्रुतिः । एतेनैवाऽऽयतनेनैकतरमन्वेति ।
+प्रक्रमानुरोधादित्यर्थः । किञ्च द्वितीयाद्वयमुक्ताभेदश्रुतिः । एतेनैवाऽऽयतनेनैकतरमन्वेति ।
 
 </details>
 
@@ -3660,8 +3347,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - तृतीयमात्रारूप इति ।</summary>
 
-तृतीयमात्रारूप इति ।
-
 यद्यपि मात्रात्रयध्यानान्मात्रात्रयरूपित्वमेव तस्य तथाऽपि तृतीयमात्राया एवेहासाधारण्यात्तत्प्राधान्येन निर्देश इति बोध्यम् । तृतीयमात्ररूप इति सप्तम्यन्तपाठे तत्सूर्यविशेषणं मकारस्याऽऽदित्यात्मकत्वादिति ।
 
 </details>
@@ -3674,7 +3359,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - लिङ्गरूपेणेति ।</summary>
+<details><summary>टीका - लिङ्गरूपेणे</summary>
 
 लिङ्गरूपेणेति ।
 
@@ -3683,8 +3368,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - तस्मिन्हीति ।</summary>
-
-तस्मिन्हीति ।
 
 समष्टिलिङ्गात्मनि हिरण्यगर्भे व्यष्टिलिङ्गाभिमानिनः सर्वे जीवा गोत्वसामान्ये खण्डमुण्डादय इव संहता इत्यर्थः ।
 
@@ -3700,8 +3383,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C05_V06_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/5/AP/?u=PR_C05_V06_B01)  
 <details open><summary>मूलम्</summary>
 
 तिस्रो मात्रा मृत्युमत्यः प्रयुक्ता अन्योन्यसक्ता अनविप्रयुक्ताः ।
@@ -3720,13 +3402,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - मृत्युगोचर इति ।</summary>
 
-मृत्युगोचर इति ।
-
 प्रत्येकं ब्रह्मदृष्टिं च विना तदुपासकानां मृत्य्वनतिक्रमादित्यर्थः ।
 
 </details>
 
-<details><summary>टीका - किञ्चेति ।</summary>
+<details><summary>टीका - किञ्चे</summary>
 
 ब्रह्मदृष्ट्या संश्लिष्टत्वेन च सम्भूय च प्रयुक्ताश्चेन्नायं दोष इत्याह –
 
@@ -3736,15 +3416,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - जाग्रदिति ।</summary>
 
-जाग्रदिति ।
-
 जाग्रत्पुरुषो वैश्वानराभिन्नो विश्वस्तस्थानं स्थूलशरीरं जागरितं च । स्वप्नपुरुषस्तु हिरण्यगर्भाभिन्नस्तैजसस्तत्स्थानं लिङ्गशरीरं स्वप्नश्च । सुषुप्तावीश्वरात्मा प्राज्ञस्तत्स्थानमव्याकृतं सुषुप्तिश्च । तेषामकारादितादात्म्येन यदभिध्यानं तल्लक्षणासु योगक्रियासु प्रयुक्तास्वन्योन्यसक्ता अनविप्रयुक्तास्तिस्रो मात्राः प्रयुक्ताश्चेन्न कम्पत इत्यन्वयः । अनेन सर्वात्मके परब्रह्मणीश्वर ओङ्काराभेदेन ध्यानमुक्तम् ।
 
 </details>
 
 <details><summary>टीका - यथोक्तेति ।</summary>
-
-यथोक्तेति ।
 
 तिस्रो मात्रा इति श्लोकोक्तविभाग इत्यर्थः ।
 
@@ -3752,19 +3428,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - कुतो वेति ।</summary>
 
-कुतो वेति ।
-
 चलनं विक्षेपः स्वस्य सर्वात्मत्वेन स्वव्यतिरिक्ताभावाच्चलनं न सम्भवतीति कुतो हेतोः कस्मिन्वा विषये चलेदित्यर्थः ॥ ६ ॥
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C05_V07_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/5/AP/?u=PR_C05_V07_B01)  
 <details open><summary>मूलम्</summary>
 
 ऋग्भिरेतं यजुर्भिरन्तरिक्षं सामभिर्यत्तत्कवयो वेदयन्ते ।
 तमोङ्कारेणैवायतनेनान्वेति विद्वान्यत्तच्छान्तमजरममृतमभयं परं चेति ॥ ७ ॥
 सर्वार्थसङ्ग्रहार्थो द्वितीयो मन्त्रः — ऋग्भिः एतं लोकं मनुष्योपलक्षितम् । यजुर्भिः अन्तरिक्षं सोमाधिष्ठितम् । सामभिः यत् तद्ब्रह्मलोक इति तृतीयं कवयः मेधाविनो विद्यावन्त एव नाविद्वांसः वेदयन्ते । तं त्रिविधं लोकमोङ्कारेण साधनेनापरब्रह्मलक्षणम् अन्वेति अनुगच्छति विद्वान् । तेनैवोङ्कारेण यत्तत्परं ब्रह्माक्षरं सत्यं पुरुषाख्यं शान्तं विमुक्तजाग्रत्स्वप्नसुषुप्तादिविशेषं सर्वप्रपञ्चविवर्जितम् , अत एव अजरं जरावर्जितम् अमृतं मृत्युवर्जितमत एव । यस्माज्जरादिविक्रियारहितमतः अभयम् । यस्मादेवाभयं तस्मात् परं निरतिशयम् । तदप्योङ्कारेणैवायतनेन गमनसाधनेनान्वेतीत्यर्थः । इतिशब्दो वाक्यपरिसमाप्त्यर्थः ॥
+इति पञ्चमप्रश्नभाष्यम् ॥
 
 </details>
 
@@ -3774,23 +3448,23 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 तेनैवेति ।
 
-येनापरमन्वेति तेनैव परमप्यन्वेतीत्येवकारार्थ इत्यर्थः । तदप्योङ्कारेणेत्यायतनविशेषणार्थं पुनरोङ्कारग्र्हणमिति न पुनरुक्तिरिति बोध्यम् ॥ ७ ॥
+येनापरमन्वेति तेनैव परमप्यन्वेतीत्येवकारार्थम् इत्यर्थः । तदप्योङ्कारेणेत्यायतनविशेषणार्थं पुनरोङ्कारग्र्हणमिति न पुनरुक्तिरिति बोध्यम् ॥ ७ ॥
 
 </details>
 
+## षष्ठः प्रश्नः
 
-## षष्ठः प्रश्नः पूर्वपृष्ठम् उत्तरपृष्ठम्
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C06_V01_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/6/AP/?u=PR_C06_V01_B01)  
 <details open><summary>मूलम्</summary>
 
 अथ हैनं सुकेशा भारद्वाजः पप्रच्छ । भगवन्हिरण्यनाभः कौसल्यो राजपुत्रो मामुपेत्यैतं प्रश्नमपृच्छत षोडशकलं भारद्वाज पुरुषं वेत्थ । तमहं कुमारमब्रवं नाहमिमं वेद यद्यहमिममवेदिषं कथं ते नावक्ष्यमिति, समूलो वा एष परिशुष्यति योऽनृतमभिवदति तस्मान्नार्हाम्यनृतं वक्तुम् । स तूष्णीं रथमारुह्य प्रवव्राज । तं त्वा पृच्छामि क्वासौ पुरुष इति ॥ १ ॥
-अथ ह एनं सुकेशा भारद्वाजः पप्रच्छ समस्तं जगत्कार्यकारणलक्षणं सह विज्ञानात्मना परस्मिन्नक्षरे सुषुप्तिकाले सम्प्रतिष्ठत इत्युक्तम् । तत्सामर्थ्यात्प्रलयेऽपि तस्मिन्नेवाक्षरे सम्प्रतिष्ठते जगत्तत एवोत्पद्यत इति च सिद्धं भवति । न ह्यकारणे कार्यस्य सम्प्रतिष्ठानमुपपद्यते । उक्तं च ‘आत्मन एष प्राणो जायते’ (प्र. उ. ३ । ३) इति । जगतश्च यन्मूलं तत्परिज्ञानात्परं श्रेय इति सर्वोपनिषदां निश्चितोऽर्थः । अनन्तरं चोक्तम् ‘स सर्वज्ञः सर्वो भवति’ (प्र. उ. ४ । १०) इति । वक्तव्यं च क्व तर्हि तदक्षरं सत्यं पुरुषाख्यं विज्ञेयमिति ; तदर्थोऽयं प्रश्न आरभ्यते । वृत्तान्वाख्यानं च विज्ञानस्य दुर्लभत्वज्ञापनेन तल्लब्ध्यर्थं मुमुक्षूणां यत्नविशेषोपादानार्थम् । हे भगवन् , हिरण्यनाभः नामतः कोसलायां भवः कौसल्यः राजपुत्रः जातितः क्षत्रियः माम् उपेत्य उपगम्य एतम् उच्यमानं प्रश्नम् अपृच्छत । षोडशकलं षोडशसङ्‍ख्याकाः कला अवयवा इवात्मन्यविद्याध्यारोपितरूपा यस्मिन्पुरुषे, सोऽयं षोडशकलः ; तं षोडशकलं हे भारद्वाज, पुरुषं वेत्थ त्वं विजानासि । तम् अहं राजपुत्रं कुमारं पृष्टवन्तम् अब्रवम् उक्तवानस्मि — नाहमिमं वेद यं त्वं पृच्छसीति । एवमुक्तवत्यपि मय्यज्ञानमसम्भावयन्तं तमज्ञाने कारणमवादिषम् — यदि कथञ्चित् अहम् इमं त्वया पृष्टं पुरुषम् अवेदिषं विदितवानस्मि, कथम् अत्यन्तशिष्यगुणवतेऽर्थिने ते तुभ्यं न अवक्ष्यं नोक्तवानस्मि न ब्रूयामित्यर्थः । भूयोऽप्यप्रत्ययमेवालक्ष्य प्रत्याययितुमब्रवम् — समूलः सह मूलेन वै एषः अन्यथा सन्तमात्मानमन्यथा कुर्वन् यः अनृतम् अयथाभूतार्थम् अभिवदति, स परिशुष्यति शोषमुपैति इहलोकपरलोकाभ्यां विच्छिद्यते विनश्यति । यत एवं जाने तस्मात् न अर्हामि अहम् अनृतं वक्तुं मूढवत् । स राजपुत्रः एवं प्रत्यायितः तूष्णीं व्रीडितः रथम् आरुह्य प्रवव्राज प्रगतवान् यथागतमेव । अतो न्यायत उपसन्नाय योग्याय जानता विद्या वक्तव्यैव ; अनृतं च न वक्तव्यं सर्वास्वप्यवस्थास्वित्येतत्सिद्धं भवति । तं पुरुषं त्वा त्वां पृच्छामि मम हृदि विज्ञेयत्वेन शल्यमिव स्थितम् , क्व असौ वर्तते विज्ञेयः पुरुष इति ॥
+अथ ह एनं सुकेशा भारद्वाजः पप्रच्छ समस्तं जगत्कार्यकारणलक्षणं सह विज्ञानात्मना परस्मिन्नक्षरे सुषुप्तिकाले सम्प्रतिष्ठत इत्युक्तम् । तत्सामर्थ्यात्प्रलयेऽपि तस्मिन्नेवाक्षरे सम्प्रतिष्ठते जगत्तत एवोत्पद्यत इति च सिद्धं भवति । न ह्यकारणे कार्यस्य सम्प्रतिष्ठानमुपपद्यते । उक्तं च ‘आत्मन एष प्राणो जायते’(प्र. उ. ३ । ३) इति । जगतश्च यन्मूलं तत्परिज्ञानात्परं श्रेय इति सर्वोपनिषदां निश्चितोऽर्थः । अनन्तरं चोक्तम् ‘स सर्वज्ञः सर्वो भवति’(प्र. उ. ४ । १०) इति । वक्तव्यं च क्व तर्हि तदक्षरं सत्यं पुरुषाख्यं विज्ञेयमिति ; तदर्थोऽयं प्रश्न आरभ्यते । वृत्तान्वाख्यानं च विज्ञानस्य दुर्लभत्वज्ञापनेन तल्लब्ध्यर्थं मुमुक्षूणां यत्नविशेषोपादानार्थम् । हे भगवन् , हिरण्यनाभः नामतः कोसलायां भवः कौसल्यः राजपुत्रः जातितः क्षत्रियः माम् उपेत्य उपगम्य एतम् उच्यमानं प्रश्नम् अपृच्छत । षोडशकलं षोडशसङ्‍ख्याकाः कला अवयवा इवात्मन्यविद्याध्यारोपितरूपा यस्मिन्पुरुषे, सोऽयं षोडशकलः ; तं षोडशकलं हे भारद्वाज, पुरुषं वेत्थ त्वं विजानासि । तम् अहं राजपुत्रं कुमारं पृष्टवन्तम् अब्रवम् उक्तवानस्मि — नाहमिमं वेद यं त्वं पृच्छसीति । एवमुक्तवत्यपि मय्यज्ञानमसम्भावयन्तं तमज्ञाने कारणमवादिषम् — यदि कथञ्चित् अहम् इमं त्वया पृष्टं पुरुषम् अवेदिषं विदितवानस्मि, कथम् अत्यन्तशिष्यगुणवतेऽर्थिने ते तुभ्यं न अवक्ष्यं नोक्तवानस्मि न ब्रूयामित्यर्थः । भूयोऽप्यप्रत्ययमेवालक्ष्य प्रत्याययितुमब्रवम् — समूलः सह मूलेन वै एषः अन्यथा सन्तमात्मानमन्यथा कुर्वन् यः अनृतम् अयथाभूतार्थम् अभिवदति, स परिशुष्यति शोषमुपैति इहलोकपरलोकाभ्यां विच्छिद्यते विनश्यति । यत एवं जाने तस्मात् न अर्हामि अहम् अनृतं वक्तुं मूढवत् । स राजपुत्रः एवं प्रत्यायितः तूष्णीं व्रीडितः रथम् आरुह्य प्रवव्राज प्रगतवान् यथागतमेव । अतो न्यायत उपसन्नाय योग्याय जानता विद्या वक्तव्यैव ; अनृतं च न वक्तव्यं सर्वास्वप्यवस्थास्वित्येतत्सिद्धं भवति । तं पुरुषं त्वा त्वां पृच्छामि मम हृदि विज्ञेयत्वेन शल्यमिव स्थितम् , क्व असौ वर्तते विज्ञेयः पुरुष इति ॥
 
 </details>
 
 <details><summary>टीका - अथ हैनमिति ।</summary>
 
-गताः कालाः पञ्चदश प्रतिष्ठाः कर्मणि विज्ञानमयश्चेति मन्त्रे कर्मभिः सह षोडशकालानां परस्मिंल्लयमुक्त्वा यथा नद्यः स्यन्दमाना इति मन्त्रेण दृष्टान्तोक्तिद्वारा परप्राप्तिरुक्ता तन्मन्त्रयोर्विस्तराभिधानार्थं षष्ठं प्रश्नमारभते –
+गताः कालाः पञ्चदश प्रतिष्ठाः कर्मणि विज्ञानमयश्चेति मन्त्रे कर्मभिः सह षोडशकलानां परस्मिंल्लयमुक्त्वा यथा नद्यः स्यन्दमाना इति मन्त्रेण दृष्टान्तोक्तिद्वारा परप्राप्तिरुक्ता तन्मन्त्रयोर्विस्तराभिधानार्थं षष्ठं प्रश्नमारभते –
 
 अथ हैनमिति ।
 
@@ -3806,7 +3480,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - सामर्थ्यादिति ।</summary>
 
-अक्षरस्य कारणत्वसिद्ध्यर्थे प्रलयेऽपि तस्मिन्नेव लयमाह –
+अक्षरस्य कारणत्वसिद्ध्यर्थं प्रलयेऽपि तस्मिन्नेव लयमाह –
 
 सामर्थ्यादिति ।
 
@@ -3848,15 +3522,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - तदर्थोऽयमिति ।</summary>
 
-तदर्थोऽयमिति ।
-
 तस्य शरीरान्तस्थत्वोक्तिद्वारा तस्य प्रत्यगात्मत्वज्ञानार्थमित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - प्रश्नमिति ।</summary>
-
-प्रश्नमिति ।
 
 प्रष्टव्यमित्यर्थः ।
 
@@ -3864,23 +3534,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अज्ञाने कारणमिति ।</summary>
 
-अज्ञाने कारणमिति ।
-
 अज्ञानसम्भावनायां कारणमित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - अप्रत्ययमिति ।</summary>
 
-अप्रत्ययमिति ।
-
 अविश्वासमित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - अन्यथा सन्तमिति ।</summary>
-
-अन्यथा सन्तमिति ।
 
 ज्ञानिनं सन्तमन्यथा कुर्वन्नज्ञानिनं कुर्वन्नारोपयन्नित्यर्थः ।
 
@@ -3894,7 +3558,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - अनृतं चेति ।</summary>
+<details><summary>टीका - अनृतं चे</summary>
 
 समूलो वा इत्यनेन सूचितमाह –
 
@@ -3902,7 +3566,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - विज्ञेयत्वेनेति ।</summary>
+<details><summary>टीका - विज्ञेयत्वेने</summary>
 
 स्वरूपेण शल्यत्वाभावादाह –
 
@@ -3912,18 +3576,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C06_V02_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/6/AP/?u=PR_C06_V02_B01)  
 <details open><summary>मूलम्</summary>
 
 तस्मै स होवाचेहैवान्तःशरीरे सोम्य स पुरुषो यस्मिन्नेताः षोडश कलाः प्रभवन्तीति ॥ २ ॥
-तस्मै स होवाच । इहैव अन्तःशरीरे हृदयपुण्डरीकाकाशमध्ये हे सोम्य स पुरुषः, न देशान्तरे विज्ञेयः । यस्मिन् एताः उच्यमानाः षोडश कलाः प्राणाद्याः प्रभवन्ति उत्पद्यन्त इति षोडशभिः कलाभिरुपाधिभूताभिः सकल इव निष्कलः पुरुषो लक्ष्यतेऽविद्ययेति ; तदुपाधिकलाध्यारोपापनयनेन विद्यया स पुरुषः केवलो दर्शयितव्य इति कलानां तत्प्रभवत्वमुच्यते प्राणादीनाम् । अत्यन्तनिर्विशेषे ह्यद्वये विशुद्धे तत्त्वे न शक्योऽध्यारोपमन्तरेण प्रतिपाद्यप्रतिपादनादिव्यवहारः कर्तुमिति कलानां प्रभवस्थित्यप्यया आरोप्यन्तेऽविद्याविषयाः । चैतन्याव्यतिरेकेणैव हि कला जायमानास्तिष्ठन्त्यः प्रलीयमानाश्च सर्वदा लक्ष्यन्ते । अत एव भ्रान्ताः केचित् — अग्निसंयोगाद्धृतमिव घटाद्याकारेण चैतन्यमेव प्रतिक्षणं जायते नश्यतीति । तन्निरोधे शून्यमेव सर्वमिति अपरे । घटादिविषयं चैतन्यं चेतयिदुर्नित्यस्यात्मनोऽनित्यं जायते विनश्यतीत्यपरे । चैतन्यं भूतधर्म इति लौकायतिकाः । अनपायोपजनधर्मकचैतन्यमात्मैव नामरूपाद्युपाधिधर्मैः प्रत्यवभासते ‘सत्यं ज्ञानमनन्तं ब्रह्म’ (तै. उ. २ । १ । १) ‘प्रज्ञानं ब्रह्म’ (ऐ. उ. ३ । १ । ३) ‘विज्ञानमानन्दं ब्रह्म’ (बृ. उ. ३ । ९ । २८) ‘विज्ञानघन एव’ (बृ. उ. २ । ४ । १२) इत्यादिश्रुतिभ्यः । स्वरूपव्यभिचारिषु पदार्थेषु चैतन्यस्याव्यभिचाराद्यथा यथा यो यः पदार्थो ज्ञायते, तथा तथा ज्ञायमानत्वादेव तस्य तस्य चैतन्यस्याव्यभिचारित्वम् । वस्तुतत्त्वं भवति किञ्चित् , न ज्ञायत इति चानुपपन्नम् ; रूपं च दृश्यते, न चास्ति चक्षुरिति यथा । व्यभिचरति तु ज्ञेयम् ; न ज्ञानं व्यभिचरति कदाचिदपि ज्ञेयम् , ज्ञेयाभावेऽपि ज्ञेयान्तरे भावाज्ज्ञानस्य । न हि ज्ञानेऽसति ज्ञेयं नाम भवति कस्यचित् ; सुषुप्तेऽदर्शनात् — ज्ञानस्यापि सुषुप्तेऽभावाज्ज्ञेयवज्ज्ञानस्वरूपस्य व्यभिचार इति चेत् , न ; ज्ञेयावभासकस्य ज्ञानस्यालोकवज्ज्ञेयाभिव्यक्त्यर्थत्वात्स्वव्यङ्ग्याभावे आलोकाभावानुपपत्तिवत् अप्रतीतेषु वस्तुषु सुषुप्ते विज्ञानाभावानुपपत्तेः । न ह्यन्धकारे चक्षुषो रूपानुपलब्धौ चक्षुषोऽभावः शक्यः कल्पयितुमवैनाशिकेन । वैनाशिको ज्ञेयाभावे ज्ञानाभावं कल्पयत्येवेति चेत् , येन तदभावं कल्पयेत्तस्याभावः केन कल्प्यत इति वक्तव्यं वैनाशिकेन ; तदभावस्यापि ज्ञेयत्वाज्ज्ञानाभावे तदनुपपत्तेः । ज्ञानस्य ज्ञेयाव्यतिरिक्तत्वाज्ज्ञेयाभावे ज्ञानाभाव इति चेत् , न ; अभावस्यापि ज्ञेयत्वाभ्युपगमात् — अभावोऽपि ज्ञेयोऽभ्युपगम्यते वैनाशिकैर्नित्यश्च । तदव्यतिरिक्तं चेज्ज्ञानं नित्यं कल्पितं स्यात् । तदभावस्य च ज्ञानात्मकत्वादभावत्वं च वाङ्मात्रमेव ; न परमार्थतोऽभावत्वमनित्यत्वं च ज्ञानस्य । न च नित्यस्य ज्ञानस्याभावनाममात्राध्यारोपे किञ्चिन्नश्छिन्नम् । अथाभावो ज्ञेयोऽपि सन् ज्ञानव्यतिरिक्त इति चेत् , न तर्हि ज्ञेयाभावो ज्ञानाभावः । ज्ञेयं ज्ञानव्यतिरिक्तम् ; न तु ज्ञानं ज्ञेयव्यतिरिक्तमिति चेत् , न ; शब्दमात्रत्वाद्विशेषानुपपत्तेः । ज्ञेयज्ञानयोरेकत्वं चेदभ्युपगम्यते, ज्ञेयं ज्ञानव्यातिरिक्तम् , न ज्ञेयव्यतिरिक्तं ज्ञानम् इति तु शब्दमात्रमेव तत् — वह्निरग्निव्यतिरिक्तः, अग्निर्न वह्निव्यतिरिक्त इति यद्वत् — अभ्युपगम्यम् । ज्ञेयव्यतिरेके तु ज्ञानस्य ज्ञेयाभावे ज्ञानाभावानुपपत्तिः सिद्धा । ज्ञेयाभावेऽदर्शनादभावो ज्ञानस्येति चेत् , न ; सुषुप्ते ज्ञप्त्यभ्युपगमात् — वैनाशिकैरभ्युपगम्यते हि सुषुप्तेऽपि विज्ञानास्तित्वम् । तत्रापि ज्ञेयत्वमभ्युपगम्यते ज्ञानस्य स्वेनैवेति चेत् , न ; भेदस्य सिद्धत्वात् — सिद्धं ह्यभावविज्ञेयविषयस्य ज्ञानस्याभावज्ञेयव्यतिरेकाज्ज्ञेयज्ञानयोरन्यत्वम् । न हि तत्सिद्धं मृतमिवोज्जीवयितुं पुनरन्यथा कर्तुं शक्यते वैनाशिकशतैरपि । ज्ञानस्य स्वाज्ञेयत्वे तदप्यन्येन तदप्यन्येनेति त्वत्पक्षेऽतिप्रसङ्ग इति चेत् , न ; तद्विभागोपपत्तेः सर्वस्य — यदा हि सर्वं ज्ञेयं कस्यचित् , तदा तद्व्यतिरिक्तं ज्ञानं ज्ञानमेवेति द्वितीयो विभाग एवाभ्युपगम्यतेऽवैनाशिकैः । न तृतीयस्तद्विषय इत्यनवस्थानुपपत्तिः । ज्ञानस्य स्वेनैवाविज्ञेयत्वे सर्वज्ञत्वहानिरिति चेत् , सोऽपि दोषस्तस्यैवास्तु ; किं तन्निबर्हणेनास्माकम् ? अनवस्थादोषश्च ज्ञानस्य ज्ञेयत्वाभ्युपगमात् — अवश्यं च वैनाशिकानां ज्ञानं ज्ञेयम् । स्वात्मना चाविज्ञेयत्वेनानवस्था अनिवार्या । समान एवायं दोष इति चेत् , न ; ज्ञानस्यैकत्वोपपत्तेः — सर्वदेशकालपुरुषाद्यवस्थास्वेकमेव ज्ञानं नामरूपाद्यनेकोपाधिभेदात् सवित्रादिजलादिप्रतिबिम्बवदनेकधावभासत इति । नासौ दोषः । तथा चेहेदमुच्यते । ननु श्रुतेरिहैवान्तःशरीरे परिच्छिन्नः कुण्डबदरवत्पुरुष इति, न ; प्राणादिकलाकारणत्वात् — न हि शरीरमात्रपरिच्छिन्नः प्राणश्रद्धादीनां कलानां कारणत्वं प्रतिपत्तुं शक्नुयात् । कलाकार्यत्वाच्च शरीरस्य — न हि पुरुषकार्याणां कलानां कार्यं सच्छरीरं कारणकारणं स्वस्य पुरुषं कुण्डबदरमिवाभ्यन्तरीकुर्यात् । बीजवृक्षादिवत्स्यादिति चेत् — यथा बीजकार्यं वृक्षस्तत्कार्यं च फलं स्वकारणकारणं बीजमभ्यन्तरीकरोत्याम्रादि, तद्वत्पुरुषमभ्यन्तरीकुर्याच्छरीरं स्वकारणकारणमपीति चेत् , न ; अन्यत्वात्सावयवत्वाच्च — दृष्टान्ते कारणाद्बीजाद्वृक्षफलसंवृत्तान्यन्यान्येव बीजानि ; दार्ष्टान्तिके तु स्वकारणकारणभूतः स एव पुरुषः शरीरेऽभ्यन्तरीकृतः श्रूयते । बीजवृक्षादीनां सावयवत्वाच्च स्यादाधाराधेयत्वम् ; निरवयवश्च पुरुषः, सावयवाश्च कलाः शरीरं च । एतेनाकाशस्यापि शरीराधारत्वमनुपपन्नम् ; किमुताकाशकारणस्य पुरुषस्य ? तस्मादसमानो दृष्टान्तः । किं दृष्टान्तेन ? वचनात्स्यादिति चेत् , न ; वचनस्याकारकत्वात् — न हि वचनं वस्तुनोऽन्यथाकरणे व्याप्रियते ; किं तर्हि, यथाभूतार्थावद्योतने । तस्मादन्तःशरीर इत्येतद्वचनम् ‘अण्डस्यान्तर्व्योम’ इतिवद्द्रष्टव्यम् । उपलब्धिनिमित्तत्वाच्च — दर्शनश्रवणमननविज्ञानादिलिङ्गैरन्तःशरीरे परिच्छिन्न इव ह्युपलभ्यते पुरुष उपलभ्यते चात्र । अत उच्यते — अन्तःशरीरे सोम्य स पुरुष इति । न पुनराकाशकारणभूतः सन्कुण्डबदरवच्छरीरपरिच्छिन्न इति मनसापीच्छति वक्तुं मूढोऽपि ; किमुत प्रमाणभूता श्रुतिः ॥
+तस्मै स होवाच । इहैव अन्तःशरीरे हृदयपुण्डरीकाकाशमध्ये हे सोम्य स पुरुषः, न देशान्तरे विज्ञेयः । यस्मिन् एताः उच्यमानाः षोडश कलाः प्राणाद्याः प्रभवन्ति उत्पद्यन्त इति षोडशभिः कलाभिरुपाधिभूताभिः सकल इव निष्कलः पुरुषो लक्ष्यतेऽविद्ययेति ; तदुपाधिकलाध्यारोपापनयनेन विद्यया स पुरुषः केवलो दर्शयितव्य इति कलानां तत्प्रभवत्वमुच्यते प्राणादीनाम् । अत्यन्तनिर्विशेषे ह्यद्वये विशुद्धे तत्त्वे न शक्योऽध्यारोपमन्तरेण प्रतिपाद्यप्रतिपादनादिव्यवहारः कर्तुमिति कलानां प्रभवस्थित्यप्यया आरोप्यन्तेऽविद्याविषयाः । चैतन्याव्यतिरेकेणैव हि कला जायमानास्तिष्ठन्त्यः प्रलीयमानाश्च सर्वदा लक्ष्यन्ते । अत एव भ्रान्ताः केचित् — अग्निसंयोगाद्धृतमिव घटाद्याकारेण चैतन्यमेव प्रतिक्षणं जायते नश्यतीति । तन्निरोधे शून्यमेव सर्वमिति अपरे । घटादिविषयं चैतन्यं चेतयिदुर्नित्यस्यात्मनोऽनित्यं जायते विनश्यतीत्यपरे । चैतन्यं भूतधर्म इति लौकायतिकाः । अनपायोपजनधर्मकचैतन्यमात्मैव नामरूपाद्युपाधिधर्मैः प्रत्यवभासते ‘सत्यं ज्ञानमनन्तं ब्रह्म’(तै. उ. २ । १ । १) ‘प्रज्ञानं ब्रह्म’(ऐ. उ. ३ । १ । ३) ‘विज्ञानमानन्दं ब्रह्म’(बृ. उ. ३ । ९ । २८) ‘विज्ञानघन एव’(बृ. उ. २ । ४ । १२) इत्यादिश्रुतिभ्यः । स्वरूपव्यभिचारिषु पदार्थेषु चैतन्यस्याव्यभिचाराद्यथा यथा यो यः पदार्थो ज्ञायते, तथा तथा ज्ञायमानत्वादेव तस्य तस्य चैतन्यस्याव्यभिचारित्वम् । वस्तुतत्त्वं भवति किञ्चित् , न ज्ञायत इति चानुपपन्नम् ; रूपं च दृश्यते, न चास्ति चक्षुरिति यथा । व्यभिचरति तु ज्ञेयम् ; न ज्ञानं व्यभिचरति कदाचिदपि ज्ञेयम् , ज्ञेयाभावेऽपि ज्ञेयान्तरे भावाज्ज्ञानस्य । न हि ज्ञानेऽसति ज्ञेयं नाम भवति कस्यचित् ; सुषुप्तेऽदर्शनात् — ज्ञानस्यापि सुषुप्तेऽभावाज्ज्ञेयवज्ज्ञानस्वरूपस्य व्यभिचार इति चेत् , न ; ज्ञेयावभासकस्य ज्ञानस्यालोकवज्ज्ञेयाभिव्यक्त्यर्थत्वात्स्वव्यङ्ग्याभावे आलोकाभावानुपपत्तिवत् अप्रतीतेषु वस्तुषु सुषुप्ते विज्ञानाभावानुपपत्तेः । न ह्यन्धकारे चक्षुषो रूपानुपलब्धौ चक्षुषोऽभावः शक्यः कल्पयितुमवैनाशिकेन । वैनाशिको ज्ञेयाभावे ज्ञानाभावं कल्पयत्येवेति चेत् , येन तदभावं कल्पयेत्तस्याभावः केन कल्प्यत इति वक्तव्यं वैनाशिकेन ; तदभावस्यापि ज्ञेयत्वाज्ज्ञानाभावे तदनुपपत्तेः । ज्ञानस्य ज्ञेयाव्यतिरिक्तत्वाज्ज्ञेयाभावे ज्ञानाभाव इति चेत् , न ; अभावस्यापि ज्ञेयत्वाभ्युपगमात् — अभावोऽपि ज्ञेयोऽभ्युपगम्यते वैनाशिकैर्नित्यश्च । तदव्यतिरिक्तं चेज्ज्ञानं नित्यं कल्पितं स्यात् । तदभावस्य च ज्ञानात्मकत्वादभावत्वं च वाङ्मात्रमेव ; न परमार्थतोऽभावत्वमनित्यत्वं च ज्ञानस्य । न च नित्यस्य ज्ञानस्याभावनाममात्राध्यारोपे किञ्चिन्नश्छिन्नम् । अथाभावो ज्ञेयोऽपि सन् ज्ञानव्यतिरिक्त इति चेत् , न तर्हि ज्ञेयाभावो ज्ञानाभावः । ज्ञेयं ज्ञानव्यतिरिक्तम् ; न तु ज्ञानं ज्ञेयव्यतिरिक्तमिति चेत् , न ; शब्दमात्रत्वाद्विशेषानुपपत्तेः । ज्ञेयज्ञानयोरेकत्वं चेदभ्युपगम्यते, ज्ञेयं ज्ञानव्यातिरिक्तम् , न ज्ञेयव्यतिरिक्तं ज्ञानम् इति तु शब्दमात्रमेव तत् — वह्निरग्निव्यतिरिक्तः, अग्निर्न वह्निव्यतिरिक्त इति यद्वत् — अभ्युपगम्यम् । ज्ञेयव्यतिरेके तु ज्ञानस्य ज्ञेयाभावे ज्ञानाभावानुपपत्तिः सिद्धा । ज्ञेयाभावेऽदर्शनादभावो ज्ञानस्येति चेत् , न ; सुषुप्ते ज्ञप्त्यभ्युपगमात् — वैनाशिकैरभ्युपगम्यते हि सुषुप्तेऽपि विज्ञानास्तित्वम् । तत्रापि ज्ञेयत्वमभ्युपगम्यते ज्ञानस्य स्वेनैवेति चेत् , न ; भेदस्य सिद्धत्वात् — सिद्धं ह्यभावविज्ञेयविषयस्य ज्ञानस्याभावज्ञेयव्यतिरेकाज्ज्ञेयज्ञानयोरन्यत्वम् । न हि तत्सिद्धं मृतमिवोज्जीवयितुं पुनरन्यथा कर्तुं शक्यते वैनाशिकशतैरपि । ज्ञानस्य स्वाज्ञेयत्वे तदप्यन्येन तदप्यन्येनेति त्वत्पक्षेऽतिप्रसङ्ग इति चेत् , न ; तद्विभागोपपत्तेः सर्वस्य — यदा हि सर्वं ज्ञेयं कस्यचित् , तदा तद्व्यतिरिक्तं ज्ञानं ज्ञानमेवेति द्वितीयो विभाग एवाभ्युपगम्यतेऽवैनाशिकैः । न तृतीयस्तद्विषय इत्यनवस्थानुपपत्तिः । ज्ञानस्य स्वेनैवाविज्ञेयत्वे सर्वज्ञत्वहानिरिति चेत् , सोऽपि दोषस्तस्यैवास्तु ; किं तन्निबर्हणेनास्माकम् ? अनवस्थादोषश्च ज्ञानस्य ज्ञेयत्वाभ्युपगमात् — अवश्यं च वैनाशिकानां ज्ञानं ज्ञेयम् । स्वात्मना चाविज्ञेयत्वेनानवस्था अनिवार्या । समान एवायं दोष इति चेत् , न ; ज्ञानस्यैकत्वोपपत्तेः — सर्वदेशकालपुरुषाद्यवस्थास्वेकमेव ज्ञानं नामरूपाद्यनेकोपाधिभेदात् सवित्रादिजलादिप्रतिबिम्बवदनेकधावभासत इति । नासौ दोषः । तथा चेहेदमुच्यते । ननु श्रुतेरिहैवान्तःशरीरे परिच्छिन्नः कुण्डबदरवत्पुरुष इति, न ; प्राणादिकलाकारणत्वात् — न हि शरीरमात्रपरिच्छिन्नः प्राणश्रद्धादीनां कलानां कारणत्वं प्रतिपत्तुं शक्नुयात् । कलाकार्यत्वाच्च शरीरस्य — न हि पुरुषकार्याणां कलानां कार्यं सच्छरीरं कारणकारणं स्वस्य पुरुषं कुण्डबदरमिवाभ्यन्तरीकुर्यात् । बीजवृक्षादिवत्स्यादिति चेत् — यथा बीजकार्यं वृक्षस्तत्कार्यं च फलं स्वकारणकारणं बीजमभ्यन्तरीकरोत्याम्रादि, तद्वत्पुरुषमभ्यन्तरीकुर्याच्छरीरं स्वकारणकारणमपीति चेत् , न ; अन्यत्वात्सावयवत्वाच्च — दृष्टान्ते कारणाद्बीजाद्वृक्षफलसंवृत्तान्यन्यान्येव बीजानि ; दार्ष्टान्तिके तु स्वकारणकारणभूतः स एव पुरुषः शरीरेऽभ्यन्तरीकृतः श्रूयते । बीजवृक्षादीनां सावयवत्वाच्च स्यादाधाराधेयत्वम् ; निरवयवश्च पुरुषः, सावयवाश्च कलाः शरीरं च । एतेनाकाशस्यापि शरीराधारत्वमनुपपन्नम् ; किमुताकाशकारणस्य पुरुषस्य ? तस्मादसमानो दृष्टान्तः । किं दृष्टान्तेन ? वचनात्स्यादिति चेत् , न ; वचनस्याकारकत्वात् — न हि वचनं वस्तुनोऽन्यथाकरणे व्याप्रियते ; किं तर्हि, यथाभूतार्थावद्योतने । तस्मादन्तःशरीर इत्येतद्वचनम् ‘अण्डस्यान्तर्व्योम’ इतिवद्द्रष्टव्यम् । उपलब्धिनिमित्तत्वाच्च — दर्शनश्रवणमननविज्ञानादिलिङ्गैरन्तःशरीरे परिच्छिन्न इव ह्युपलभ्यते पुरुष उपलभ्यते चात्र । अत उच्यते — अन्तःशरीरे सोम्य स पुरुष इति । न पुनराकाशकारणभूतः सन्कुण्डबदरवच्छरीरपरिच्छिन्न इति मनसापीच्छति वक्तुं मूढोऽपि ; किमुत प्रमाणभूता श्रुतिः ॥
 
 </details>
 
 <details><summary>टीका - षोडशकलाभिरिति ।</summary>
 
-पुरुषस्य षोडशकलत्वं न साक्षात्सावयवत्वेन किन्तु कलाजनकत्वे तदुपाधिमत्त्वादिति वक्तुं यस्मिन्नेता इति वाक्यमिति तत्तात्पर्यमाह –
+पुरुषस्य षोडशकलत्वं न साक्षात्सावयवत्वेन किन्तु कलाजनकत्वेन तदुपाधिमत्त्वादिति वक्तुं यस्मिन्नेता इति वाक्यमिति तत्तात्पर्यमाह –
 
 षोडशकलाभिरिति ।
 
@@ -3947,8 +3610,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अविद्याविषया इति ।</summary>
 
-अविद्याविषया इति ।
-
 अविद्याधीना इत्यर्थः ।
 
 </details>
@@ -3961,7 +3622,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - अत एवेति ।</summary>
+<details><summary>टीका - अत एवे</summary>
 
 चैतन्याव्यतिरेकेण लक्ष्यमाणत्वं हेतुं विज्ञानवादिभ्रान्त्या दृढीकरोति –
 
@@ -3987,7 +3648,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - भूतधर्म इति ।</summary>
+<details><summary>टीका - भूतधर्म</summary>
 
 भूतधर्म इति ।
 
@@ -4005,15 +3666,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्रत्यवभासत इति ।</summary>
 
-प्रत्यवभासत इति ।
-
 नानात्वेन कार्यत्वेन चेति शेषः ।
 
 </details>
 
 <details><summary>टीका - सत्यं ज्ञानमिति ।</summary>
-
-सत्यं ज्ञानमिति ।
 
 तथा च श्रुतिविरोधात्ते पक्षा हेया इत्यर्थः ।
 
@@ -4045,9 +3702,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - रूपं चेति ।</summary>
+<details><summary>टीका - रूपं चे</summary>
 
-अनुपपत्तिमेव दृष्टान्तेति स्फुटी करोति –
+अनुपपत्तिमेव दृष्टान्तेति स्फुटीकरोति –
 
 रूपं चेति ।
 
@@ -4074,8 +3731,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - भावादिति ।</summary>
-
-भावादिति ।
 
 स्वरूपेणेत्यर्थः ।
 
@@ -4123,17 +3778,17 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - कल्पयत्येवेति ।</summary>
+<details><summary>टीका - कल्पयत्येवेति</summary>
 
-कल्पयत्येवेति ।
+।
 
 उक्तव्यभिचारस्थलाभावेन व्यभिचाराभावादित्यर्थः ।
 
 </details>
 
-<details><summary>टीका - येनेति ।</summary>
+<details><summary>टीका - येन</summary>
 
-एवमपि ज्ञानाभावकल्पकस्य ज्ञेयाभावस्य ज्ञानमङ्गीक्रियते न वा ।आद्ये न ज्ञानाभावसिद्धिस्तस्यैवाभावज्ञानस्य सत्त्वादित्याह –
+एवमपि ज्ञानाभावकल्पकस्य ज्ञेयाभावस्य ज्ञानमङ्गीक्रियते न वा । आद्ये न ज्ञानाभावसिद्धिस्तस्यैवाभावज्ञानस्य सत्त्वादित्याह –
 
 येनेति ।
 
@@ -4159,17 +3814,59 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - न सुषुप्त इति ।</summary>
+<details><summary>टीका - नाभावस्येति।</summary>
 
-वैनाशिकमतेऽप्यभावस्य ज्ञेयत्वाभ्युपगमाद्बुद्धिबोध्यं त्रयादन्यत्संस्कृतं क्षणिकं च तदिति प्रतिसङ्ख्याऽप्रतिसङ्ख्या निरोधाकाशरूपत्रयव्यतिरिक्तस्यैव क्षणिकत्वेन निरोधशब्दितस्याभावस्य नित्यत्वाङ्गीकारेण तदविज्ञानसन्ततेर्नित्यत्वाङ्गीकारेण त्वया तदाऽपि तदभावो वक्तुं न शक्यत इत्याह –
+वैनाशिकमतेऽप्यभावस्य ज्ञेयत्वाभ्युपगमाद्बुद्धिबोध्यं त्रयादन्यत्संस्कृतं क्षणिकं च तदिति प्रतिसङ्ख्याऽप्रतिसङ्ख्या निरोधाकाशरूपत्रयव्यतिरिक्तस्यैव क्षणिकत्वेन निरोधशब्दितस्याभावस्य नित्यत्वाङ्गीकारेण तदविज्ञानसन्ततेर्नित्यत्वाङ्गीकारेण तदभिन्नस्य ज्ञानस्यापि सुषुप्ते सत्वं नित्यत्वं च प्राप्तमित्याह –
+
+नाभावस्येति।
+
+ज्ञानस्याभावाभिन्नत्वेनाभावत्वमेव स्यान्न तु भावत्वेन सत्त्वं नित्यत्वं च स्यादित्याशङ्क्याभावस्यापि ज्ञानाभिन्नत्वेऽभावत्वमेव न स्यादित्य्याह -
+
+तदभावस्येति ।
+
+अनित्यत्वं च ज्ञानस्येति वाङ्मात्रमेव स्यादित्यनुषङ्गः । वाङ्मात्रेणाप्यभावस्याभावत्वेन ज्ञानानित्यत्वेन चास्मत्सिद्धान्तसिद्धिरित्याशङ्क्य नाममात्रेण तेन वास्तवनित्यत्वादिविरोधाभावान्नास्माकं क्षतिरित्याह -
+
+न चेति । अभावनामेति ।
+
+अनित्यनामेत्यपि द्रष्टव्यम् । एतद्दोषपरिहारार्थं ज्ञेयस्यापि सतोऽभावस्य ज्ञानाभेदो नाङ्क्रीयत इति शङ्कते -
+
+अथेति ।
+
+तर्हि ज्ञेयाभिन्नत्वेन हेतुना सुषुप्ते ज्ञानाभावो न सिध्यति घटाद्यभावेन तज्ज्ञानाभावसिद्धावप्यभावज्ञानाभावसिद्धेस्तस्याभिन्नत्वाभावादित्याह -
+
+न तर्हीति ।
+
+यद्वाऽभावस्य ज्ञेयस्य ज्ञानाद्भेदे भावस्यापि तथात्वं स्याद्विशेषहेत्वभावात्तथाच न ज्ञेयाभावाज्ज्ञानाभावसिद्धिरित्याह -
+
+न तर्हीति ।
+
+ननु ज्ञेयस्य ज्ञानव्यतिरिक्तमङ्गीक्रियते तथाचाभावस्य ज्ञानव्यतिरिक्तत्वादभावत्वादिकं सिध्यति । ज्ञानस्य तु न ज्ञेयव्यतिरिक्तवम् । तथा च ज्ञेयाभावे ज्ञानाभावसिद्धिरिति निरुद्धगतिकः शङ्कते -
+
+ज्ञेयमिति ।
+
+ज्ञानस्य ज्ञेयाव्यतिरेके ज्ञेयस्यापि तदव्यतिरेकावश्यंभावादन्यथोभयोरत्यन्तभेद एव स्याद्भेदाभेदयोर्विरोधानुपपत्तेरिति दूषयति -
+
+न शब्दमात्रत्वादिति ।
+
+इदमुपलक्षणम् । ज्ञानस्याभावाव्यतिरेकेण नित्यत्वादिकं च स्यादेवेत्यपि द्रष्टव्यम् । यद्येतद्दोषपरिहाराय तस्यापि भेद एवाङ्गीक्रियते तर्हि न सुषुप्तौ ज्ञानाभावसिद्धिरित्युपसंहरति -
+
+ज्ञेयव्यतिरेके त्विति ।
+
+सुषुप्ते ज्ञानस्यादर्शनादेवाभाव इत्याद्ये द्वितीयं शङ्कते -
+
+ज्ञेयाभाव इति ।
+
+</details>
+
+<details><summary>टीका - न ; सुषुप्ते</summary>
+
+आलयविज्ञानसन्ततेर्नित्यत्वाङ्गीकारेण त्वया तदाऽपि तदभावो वक्तुं न शक्यत इत्याह –
 
 न सुषुप्त इति ।
 
 </details>
 
 <details><summary>टीका - अस्तित्वमिति ।</summary>
-
-अस्तित्वमिति ।
 
 तथा च ज्ञानस्यादर्शनमसिद्धं सुषुप्तेऽपि तदङ्गीकारादित्यर्थः ।
 
@@ -4225,13 +3922,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 यदा हीति ।
 
-यस्मिन्पक्षे ज्ञेयं सर्वं स्वव्यतिरिक्तस्य कस्यचिज्ज्ञानस्य ज्ञेयमित्यङ्गी क्रियत इति ज्ञेयपदावृत्त्या स्वव्यतिरिक्तस्येतिपदाध्याहारेण च यदा हीति वाक्यं योज्यम् । अवैनाशिकैरिति च्छेदः ।
+यस्मिन्पक्षे ज्ञेयं सर्वं स्वव्यतिरिक्तस्य कस्यचिज्ज्ञानस्य ज्ञेयमित्यङ्गीक्रियत इति ज्ञेयपदावृत्त्या स्वव्यतिरिक्तस्येतिपदाध्याहारेण च यदा हीति वाक्यं योज्यम् । अवैनाशिकैरिति च्छेदः ।
 
 </details>
 
 <details><summary>टीका - तद्विषय इति ।</summary>
-
-तद्विषय इति ।
 
 ज्ञानविषयकज्ञानात्मक इत्यर्थः ।
 
@@ -4283,7 +3978,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - समान एवेति ।</summary>
 
-ज्ञानस्याज्ञेयत्वे तद्व्यवहारासिद्धर्ज्ञानान्तरज्ञेयत्वे चानवस्था तवापि स्यादिति शङ्कते –
+ज्ञानस्याज्ञेयत्वे तद्व्यवहारासिद्धिर्ज्ञानान्तरज्ञेयत्वे चानवस्था तवापि स्यादिति शङ्कते –
 
 समान एवेति ।
 
@@ -4341,7 +4036,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - बीजवृक्षादिवदिति ।</summary>
+<details><summary>टीका - बीज­वृ­क्षा­दि­व­दिति ।</summary>
 
 बीजकार्यस्य वृक्षस्य कार्यं फलं स्वकारणवृक्षकारणं बीजमभ्यन्तरीकरोतीति दृष्टमिति नायोग्यत्वमिति शङ्कते –
 
@@ -4359,7 +4054,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - नेति ।</summary>
 
-दृष्टाने बीजव्यक्तिभेदादविरोधेऽपीह पुरुषव्यक्त्यैक्यात्कारणत्वाभ्यन्तरीभावयोर्विरोध इत्याह –
+दृष्टान्ते बीजव्यक्तिभेदादविरोधेऽपीह पुरुषव्यक्त्यैक्यात्कारणत्वाभ्यन्तरीभावयोर्विरोध इत्याह –
 
 नेति ।
 
@@ -4383,8 +4078,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - श्रूयत इति ।</summary>
 
-श्रूयत इति ।
-
 यस्मिन्नेताः षोडश कला इति यच्छब्दोक्तस्यैव पुरुषस्यान्तःशरीरे सोम्य स पुरुष इति तच्छब्देनाभिधानादित्यर्थः ।
 
 </details>
@@ -4397,9 +4090,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - निरवयवश्चेति ।</summary>
+<details><summary>टीका - निरवयवश्चे</summary>
 
-निरवयवश्चेति ।
+ति ।
 
 तथा चैकदेशेन कलादिरूपेण परिणाम एकदेशेन तत्रावस्थानं बीजवन्न सम्भवतीत्यर्थः ।
 
@@ -4447,15 +4140,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - तस्मादिति ।</summary>
 
-तर्ह्यन्तःशरीर इति श्रुतेः कथमुपपत्तिरित्याशङ्क्य पुरुषस्य शरीरोपादानत्वेन तदनुस्यूतस्य तदन्तर्गतवत्प्रतीतेस्तदभिप्रयेयं श्रुतिरिति सदृष्टान्तमाह –
+तर्ह्यन्तःशरीर इति श्रुतेः कथमुपपत्तिरित्याशङ्क्य पुरुषस्य शरीरोपादानत्वेन तदनुस्यूतस्य तदन्तर्गतवत्प्रतीतेस्तदभिप्रायेयं श्रुतिरिति सदृष्टान्तमाह –
 
 तस्मादिति ।
 
 </details>
 
 <details><summary>टीका - अण्डेति ।</summary>
-
-अण्डेति ।
 
 अण्डकारणस्य व्योम्नो यथा तदनुस्यूतत्वेन तदन्तर्गतत्वप्रतीतिस्तद्वदित्यर्थः ।
 
@@ -4477,16 +4168,15 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C06_V03_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/6/AP/?u=PR_C06_V03_B01)  
 <details open><summary>मूलम्</summary>
 
 स ईक्षाञ्चक्रे कस्मिन्नहमुत्क्रान्त उत्क्रान्तो भविष्यामि कस्मिन्वा प्रतिष्ठिते प्रतिष्ठास्यामीति ॥ ३ ॥
-यस्मिन्नेताः षोडश कलाः प्रभवन्तीत्युक्तः पुरुषविशेषणार्थः कलानां प्रभवः, स चान्यार्थोऽपि श्रुतः केन क्रमेण स्यादित्यत इदमुच्यते । चेतनपूर्विका च सृष्टिरित्येवमर्थं च । स पुरुषः षोडशकलः पृष्टो यो भारद्वाजेन सः ईक्षाञ्चक्रे ईक्षणं दर्शनं चक्रे — कृतवानित्यर्थः — सृष्टिफलक्रमादिविषयम् । कथमिति, उच्यते — कस्मिन् कर्तृविशेषे देहादुत्क्रान्ते उत्क्रान्तो भविष्यामि अहमेव ; कस्मिन्वा शरीरे प्रतिष्ठिते अहं प्रतिष्ठास्यामि प्रतिष्ठितः स्यामित्यर्थः । नन्वात्मा अकर्ता प्रधानं कर्तृ ; अतः पुरुषार्थं प्रयोजनमुररीकृत्य प्रधानं प्रवर्तते महदाद्याकारेण ; तत्रेदमनुपपन्नं पुरुषस्य स्वातन्त्र्येणेक्षापूर्वकं कर्तृत्ववचनम् , सत्त्वादिगुणसाम्ये प्रधाने प्रमाणोपपन्ने सृष्टिकर्तरि सति ईश्वरेच्छानुवर्तिषु वा परमाणुषु सत्सु आत्मनोऽप्येकत्वेन कर्तृत्वे साधनाभावादात्मन आत्मन्यनर्थकर्तृत्वानुपपत्तेश्च । न हि चेतनावान्बुद्धिपूर्वकारी आत्मनः अनर्थं कुर्यात् तस्मात्पुरुषार्थेन प्रयोजनेनेक्षापूर्वकमिव नियतक्रमेण प्रवर्तमानेऽचेतनेऽपि प्रधाने चेतनवदुपचारोऽयं स ईक्षाञ्चक्रे इत्यादिः ; यथा राज्ञः सर्वार्थकारिणि भृत्ये राजेति, तद्वत् । न ; आत्मनो भोक्तृत्ववत्कर्तृत्वोपपत्तेः — यथा साङ्‍ख्यस्य चिन्मात्रस्यापरिणामिनोऽप्यात्मनो भोक्तृत्वम् , तद्वद्वेदवादिनामीक्षापूर्वकं जगत्कर्तृत्वमुपपन्नं श्रुतिप्रामाण्यात् । तत्त्वान्तरपरिणामादात्मनोऽनित्यत्वाशुद्धत्वानेकत्वनिमित्तं चिन्मात्रस्वरूपविक्रियातः पुरुषस्य स्वात्मन्येव भोक्तृत्वे चिन्मात्रस्वरूपविक्रिया न दोषाय । भवतां पुनर्वेदवादिनां सृष्टिकर्तृत्वे तत्त्वान्तरपरिणाम एवेत्यात्मनोऽनित्यत्वादिसर्वदोषप्रसङ्ग इति चेत् , न ; एकस्याप्यात्मनोऽविद्याविषयनामरूपोपाध्यनुपाधिकृतविशेषाभ्युपगमात् । अविद्याकृतनामरूपोपाधिनिमित्तो हि विशेषोऽभ्युपगम्यते आत्मनो बन्धमोक्षादिशास्त्रकृतसंव्यवहाराय । परमार्थतोऽनुपाधिकृतं च तत्त्वमेकमेवाद्वितीयमुपादेयं सर्वतार्किकबुद्ध्यनवगम्यं ह्यजमभयं शिवमिष्यते । न तत्र कर्तृत्वं भोक्तृत्वं वा क्रियाकारकफलं वास्ति, अद्वैतत्वात्सर्वभावानाम् । साङ्‍ख्यास्त्वविद्याध्यारोपितमेव पुरुषे कर्तृत्वं क्रियाकारकं फलं चेति कल्पयित्वा आगमबाह्यत्वात्पुनस्ततस्त्रस्यन्तः परमार्थत एव भोक्तृत्वं पुरुषस्येच्छन्ति । तत्त्वान्तरं च प्रधानं पुरुषाद्बाह्यं परमार्थवस्तुभूतमेव कल्पयन्तोऽन्यतार्किककृतबुद्धिविषयाः सन्तो विहन्यन्ते । तथेतरेतार्किकाः साङ्ख्यैः ; इत्येवं परस्परविरुद्धार्थकल्पनात आमिषार्थिन इव प्राणिनोऽन्योन्यविरुध्यमानार्थदर्शित्वात्परमार्थतत्त्वाद्दूरमेवापकृष्यन्ते । अतस्तन्मतमनादृत्य वेदान्तार्थतत्त्वमेकत्वदर्शनं प्रत्यादरवन्तो मुमुक्षवः स्युरिति तार्किकमतदोषप्रदर्शनं किञ्चिदुच्यतेऽस्माभिः ; न तु तार्किकवत्तात्पर्येण । तथैतदत्रोक्तम् — विवदत्स्वेव निक्षिप्य विरोधोद्भवकारणम् । तैः संरक्षितसद्बुद्धिः सुखं निर्वाति वेदवित् ॥ किञ्च, भोक्तृत्वकर्तृत्वयोर्विक्रिययोर्विशेषानुपपत्तिः । का नामासौ कर्तृत्वाज्जात्यन्तरभूता भोक्तृत्वविशिष्टा विक्रिया, यतो भोक्तैव पुरुषः कल्प्यते न कर्ता ; प्रधानं तु कर्त्रेव न भोक्तृ इति । ननु उक्तं पुरुषश्चिन्मात्र एव ; स च स्वात्मस्थो विक्रियते भुञ्जानः, न तत्त्वान्तरपरिणामेन । प्रधानं तु तत्त्वान्तरपरिणामेन विक्रियते ; अतो नैकमशुद्धमचेतनं चेत्यादिधर्मवत् । तद्विपरीतः पुरुषः । नासौ विशेषः, वाङ्मात्रत्वात् । प्राग्भोगोत्पत्तेः केवलचिन्मात्रस्य पुरुषस्य भोक्तृत्वं नाम विशेषो भोगोत्पत्तिकाले चेत् जायते, निवृत्ते च भोगे पुनस्तद्विशेषादपेतश्चिन्मात्र एव भवतीति चेत् ; महदाद्याकारेण च परिणम्य प्रधानं ततोऽपेत्य पुनः प्रधानस्वरूपेण व्यवतिष्ठत इति अस्यां कल्पनायां न कश्चिद्विशेष इति वाङ्मात्रेण प्रधानपुरुषयोर्विशिष्टविक्रिया कल्प्यते । अथ भोगकालेऽपि चिन्मात्र एव प्राग्वत्पुरुष इति चेत् , न तर्हि परमार्थतो भोगः पुरुषस्य । अथ भोगकाले चिन्मात्रस्य विक्रिया परमार्थैव, तेन भोगः पुरुषस्येति चेत् , न ; प्रधानस्यापि भोगकाले विक्रियावत्त्वाद्भोक्तृकत्वप्रसङ्गः । चिन्मात्रस्यैव विक्रिया भोक्तृत्वमिति चेत् , औष्ण्याद्यसाधारणधर्मवतामग्न्यादीनामभोक्तृत्वे हेत्वनुपपत्तिः । प्रधानपुरुषयोर्द्वयोर्युगपद्भोक्तृत्वमिति चेत् , न ; प्रधानस्य पारार्थ्यानुपपत्तेः — न हि भोक्त्रोर्द्वयोरितरेतरगुणप्रधानभाव उपपद्यते प्रकाशयोरिवेतरेतरप्रकाशने । भोगधर्मवति सत्त्वाङ्गिनि चेतसि पुरुषस्य चैतन्यप्रतिबिम्बोदयादविक्रियस्य पुरुषस्य भोक्तृत्वमिति चेत् , न ; पुरुषस्य विशेषाभावे भोक्तृत्वकल्पनानर्थक्यात् । भोगरूपश्चेदनर्थः पुरुषस्य नास्मि सदा निर्विशेषत्वात्पुरुषस्य, कस्यापनयनार्थं मोक्षसाधनं शास्त्रं प्रणीयते ? अविद्याध्यारोपितानर्थापनयनाय शास्त्रप्रणयनमिति चेत् , परमार्थतः पुरुषो भोक्तैव, न कर्ता ; प्रधानं कर्त्रेव न भोक्तृ परमार्थसद्वस्त्वन्तरं पुरुषाच्च इतीयं कल्पना आगमबाह्या व्यर्थानिर्हेतुका च इति नादर्तव्या मुमुक्षुभिः । एकत्वेऽपि शास्त्रप्रणयनाद्यानर्थक्यमिति चेत् , न ; अभावात् — सत्सु हि शास्त्रप्रणेत्रादिषु तत्फलार्थिषु च शास्त्रस्य प्रणयनमर्थवदनर्थकं वेति विकल्पना स्यात् । न ह्यात्मैकत्वे शास्त्रप्रणेत्रादयस्ततो भिन्नाः सन्ति ; तदभावे एवं विकल्पनैवानुपपन्ना । अभ्युपगते आत्मैकत्वे प्रमाणार्थश्चाभ्युपगतो भवता यदात्मैकत्वमभ्युपगच्छता । तदभ्युपगमे च विकल्पानुपपत्तिमाह शास्त्रम् ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्’ (बृ. उ. ४ । ५ । १४) इत्यादि ; शास्त्रप्रणयनाद्युपपत्तिं चाह अन्यत्र परमार्थवस्तुस्वरूपादविद्याविषये ‘यत्र हि द्वैतमिव भवति’ (बृ. उ. ४ । ५ । १४) इत्यादि विस्तरतो वाजसनेयके । अत्र च विभक्ते विद्याविद्ये परापरे इत्यादावेव शास्त्रस्य । अतो न तार्किकवादभटप्रवेशो वेदान्तराजप्रमाणबाहुगुप्ते इहात्मैकत्वविषये इति । एतेनाविद्याकृतनामरूपाद्युपाधिकृतानेकशक्तिसाधनकृतभेदवत्त्वाद्ब्रह्मणः सृष्ट्यादिकर्तृत्वे साधनाद्यभावो दोषः प्रत्युक्तो वेदितव्यः, परैरुक्त आत्मानर्थकर्तृत्वादिदोषश्च । यस्तु दृष्टान्तो राज्ञः सर्वार्थकारिणि कर्तरि भृत्ये उपचारो राजा कर्तेति, सोऽत्रानुपपन्नः ; ‘स ईक्षाञ्चक्रे’ इति श्रुतेर्मुख्यार्थबाधनात्प्रमाणभूतायाः । तत्र हि गौणी कल्पना शब्दस्य, यत्र मुख्यार्थो न सम्भवति । इह त्वचेतनस्य मुक्तबद्धपुरुषविशेषापेक्षया कर्तृकर्मदेशकालनिमित्तापेक्षया च बन्धमोक्षादिफलार्था नियता पुरुषं प्रति प्रवृत्तिर्नोपपद्यते ; यथोक्तसर्वज्ञेश्वरकर्तृत्वपक्षे तु उपपन्ना  ॥
+यस्मिन्नेताः षोडश कलाः प्रभवन्तीत्युक्तः पुरुषविशेषणार्थः कलानां प्रभवः, स चान्यार्थोऽपि श्रुतः केन क्रमेण स्यादित्यत इदमुच्यते । चेतनपूर्विका च सृष्टिरित्येवमर्थं च । स पुरुषः षोडशकलः पृष्टो यो भारद्वाजेन सः ईक्षाञ्चक्रे ईक्षणं दर्शनं चक्रे — कृतवानित्यर्थः — सृष्टिफलक्रमादिविषयम् । कथमिति, उच्यते — कस्मिन् कर्तृविशेषे देहादुत्क्रान्ते उत्क्रान्तो भविष्यामि अहमेव ; कस्मिन्वा शरीरे प्रतिष्ठिते अहं प्रतिष्ठास्यामि प्रतिष्ठितः स्यामित्यर्थः । नन्वात्मा अकर्ता प्रधानं कर्तृ ; अतः पुरुषार्थं प्रयोजनमुररीकृत्य प्रधानं प्रवर्तते महदाद्याकारेण ; तत्रेदमनुपपन्नं पुरुषस्य स्वातन्त्र्येणेक्षापूर्वकं कर्तृत्ववचनम् , सत्त्वादिगुणसाम्ये प्रधाने प्रमाणोपपन्ने सृष्टिकर्तरि सति ईश्वरेच्छानुवर्तिषु वा परमाणुषु सत्सु आत्मनोऽप्येकत्वेन कर्तृत्वे साधनाभावादात्मन आत्मन्यनर्थकर्तृत्वानुपपत्तेश्च । न हि चेतनावान्बुद्धिपूर्वकारी आत्मनः अनर्थं कुर्यात् तस्मात्पुरुषार्थेन प्रयोजनेनेक्षापूर्वकमिव नियतक्रमेण प्रवर्तमानेऽचेतनेऽपि प्रधाने चेतनवदुपचारोऽयं स ईक्षाञ्चक्रे इत्यादिः ; यथा राज्ञः सर्वार्थकारिणि भृत्ये राजेति, तद्वत् । न ; आत्मनो भोक्तृत्ववत्कर्तृत्वोपपत्तेः — यथा साङ्‍ख्यस्य चिन्मात्रस्यापरिणामिनोऽप्यात्मनो भोक्तृत्वम् , तद्वद्वेदवादिनामीक्षापूर्वकं जगत्कर्तृत्वमुपपन्नं श्रुतिप्रामाण्यात् । तत्त्वान्तरपरिणामादात्मनोऽनित्यत्वाशुद्धत्वानेकत्वनिमित्तं चिन्मात्रस्वरूपविक्रियातः पुरुषस्य स्वात्मन्येव भोक्तृत्वे चिन्मात्रस्वरूपविक्रिया न दोषाय । भवतां पुनर्वेदवादिनां सृष्टिकर्तृत्वे तत्त्वान्तरपरिणाम एवेत्यात्मनोऽनित्यत्वादिसर्वदोषप्रसङ्ग इति चेत् , न ; एकस्याप्यात्मनोऽविद्याविषयनामरूपोपाध्यनुपाधिकृतविशेषाभ्युपगमात् । अविद्याकृतनामरूपोपाधिनिमित्तो हि विशेषोऽभ्युपगम्यते आत्मनो बन्धमोक्षादिशास्त्रकृतसंव्यवहाराय । परमार्थतोऽनुपाधिकृतं च तत्त्वमेकमेवाद्वितीयमुपादेयं सर्वतार्किकबुद्ध्यनवगम्यं ह्यजमभयं शिवमिष्यते । न तत्र कर्तृत्वं भोक्तृत्वं वा क्रियाकारकफलं वास्ति, अद्वैतत्वात्सर्वभावानाम् । साङ्‍ख्यास्त्वविद्याध्यारोपितमेव पुरुषे कर्तृत्वं क्रियाकारकं फलं चेति कल्पयित्वा आगमबाह्यत्वात्पुनस्ततस्त्रस्यन्तः परमार्थत एव भोक्तृत्वं पुरुषस्येच्छन्ति । तत्त्वान्तरं च प्रधानं पुरुषाद्बाह्यं परमार्थवस्तुभूतमेव कल्पयन्तोऽन्यतार्किककृतबुद्धिविषयाः सन्तो विहन्यन्ते । तथेतरेतार्किकाः साङ्ख्यैः ; इत्येवं परस्परविरुद्धार्थकल्पनात आमिषार्थिन इव प्राणिनोऽन्योन्यविरुध्यमानार्थदर्शित्वात्परमार्थतत्त्वाद्दूरमेवापकृष्यन्ते । अतस्तन्मतमनादृत्य वेदान्तार्थतत्त्वमेकत्वदर्शनं प्रत्यादरवन्तो मुमुक्षवः स्युरिति तार्किकमतदोषप्रदर्शनं किञ्चिदुच्यतेऽस्माभिः ; न तु तार्किकवत्तात्पर्येण । तथैतदत्रोक्तम् — विवदत्स्वेव निक्षिप्य विरोधोद्भवकारणम् । तैः संरक्षितसद्बुद्धिः सुखं निर्वाति वेदवित् ॥ किञ्च, भोक्तृत्वकर्तृत्वयोर्विक्रिययोर्विशेषानुपपत्तिः । का नामासौ कर्तृत्वाज्जात्यन्तरभूता भोक्तृत्वविशिष्टा विक्रिया, यतो भोक्तैव पुरुषः कल्प्यते न कर्ता ; प्रधानं तु कर्त्रेव न भोक्तृ इति । ननु उक्तं पुरुषश्चिन्मात्र एव ; स च स्वात्मस्थो विक्रियते भुञ्जानः, न तत्त्वान्तरपरिणामेन । प्रधानं तु तत्त्वान्तरपरिणामेन विक्रियते ; अतो नैकमशुद्धमचेतनं चेत्यादिधर्मवत् । तद्विपरीतः पुरुषः । नासौ विशेषः, वाङ्मात्रत्वात् । प्राग्भोगोत्पत्तेः केवलचिन्मात्रस्य पुरुषस्य भोक्तृत्वं नाम विशेषो भोगोत्पत्तिकाले चेत् जायते, निवृत्ते च भोगे पुनस्तद्विशेषादपेतश्चिन्मात्र एव भवतीति चेत् ; महदाद्याकारेण च परिणम्य प्रधानं ततोऽपेत्य पुनः प्रधानस्वरूपेण व्यवतिष्ठत इति अस्यां कल्पनायां न कश्चिद्विशेष इति वाङ्मात्रेण प्रधानपुरुषयोर्विशिष्टविक्रिया कल्प्यते । अथ भोगकालेऽपि चिन्मात्र एव प्राग्वत्पुरुष इति चेत् , न तर्हि परमार्थतो भोगः पुरुषस्य । अथ भोगकाले चिन्मात्रस्य विक्रिया परमार्थैव, तेन भोगः पुरुषस्येति चेत् , न ; प्रधानस्यापि भोगकाले विक्रियावत्त्वाद्भोक्तृकत्वप्रसङ्गः । चिन्मात्रस्यैव विक्रिया भोक्तृत्वमिति चेत् , औष्ण्याद्यसाधारणधर्मवतामग्न्यादीनामभोक्तृत्वे हेत्वनुपपत्तिः । प्रधानपुरुषयोर्द्वयोर्युगपद्भोक्तृत्वमिति चेत् , न ; प्रधानस्य पारार्थ्यानुपपत्तेः — न हि भोक्त्रोर्द्वयोरितरेतरगुणप्रधानभाव उपपद्यते प्रकाशयोरिवेतरेतरप्रकाशने । भोगधर्मवति सत्त्वाङ्गिनि चेतसि पुरुषस्य चैतन्यप्रतिबिम्बोदयादविक्रियस्य पुरुषस्य भोक्तृत्वमिति चेत् , न ; पुरुषस्य विशेषाभावे भोक्तृत्वकल्पनानर्थक्यात् । भोगरूपश्चेदनर्थः पुरुषस्य नास्मि सदा निर्विशेषत्वात्पुरुषस्य, कस्यापनयनार्थं मोक्षसाधनं शास्त्रं प्रणीयते ? अविद्याध्यारोपितानर्थापनयनाय शास्त्रप्रणयनमिति चेत् , परमार्थतः पुरुषो भोक्तैव, न कर्ता ; प्रधानं कर्त्रेव न भोक्तृ परमार्थसद्वस्त्वन्तरं पुरुषाच्च इतीयं कल्पना आगमबाह्या व्यर्थानिर्हेतुका च इति नादर्तव्या मुमुक्षुभिः । एकत्वेऽपि शास्त्रप्रणयनाद्यानर्थक्यमिति चेत् , न ; अभावात् — सत्सु हि शास्त्रप्रणेत्रादिषु तत्फलार्थिषु च शास्त्रस्य प्रणयनमर्थवदनर्थकं वेति विकल्पना स्यात् । न ह्यात्मैकत्वे शास्त्रप्रणेत्रादयस्ततो भिन्नाः सन्ति ; तदभावे एवं विकल्पनैवानुपपन्ना । अभ्युपगते आत्मैकत्वे प्रमाणार्थश्चाभ्युपगतो भवता यदात्मैकत्वमभ्युपगच्छता । तदभ्युपगमे च विकल्पानुपपत्तिमाह शास्त्रम् ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्’(बृ. उ. ४ । ५ । १४) इत्यादि ; शास्त्रप्रणयनाद्युपपत्तिं चाह अन्यत्र परमार्थवस्तुस्वरूपादविद्याविषये ‘यत्र हि द्वैतमिव भवति’(बृ. उ. ४ । ५ । १४) इत्यादि विस्तरतो वाजसनेयके । अत्र च विभक्ते विद्याविद्ये परापरे इत्यादावेव शास्त्रस्य । अतो न तार्किकवादभटप्रवेशो वेदान्तराजप्रमाणबाहुगुप्ते इहात्मैकत्वविषये इति । एतेनाविद्याकृतनामरूपाद्युपाधिकृतानेकशक्तिसाधनकृतभेदवत्त्वाद्ब्रह्मणः सृष्ट्यादिकर्तृत्वे साधनाद्यभावो दोषः प्रत्युक्तो वेदितव्यः, परैरुक्त आत्मानर्थकर्तृत्वादिदोषश्च । यस्तु दृष्टान्तो राज्ञः सर्वार्थकारिणि कर्तरि भृत्ये उपचारो राजा कर्तेति, सोऽत्रानुपपन्नः ; ‘स ईक्षाञ्चक्रे’ इति श्रुतेर्मुख्यार्थबाधनात्प्रमाणभूतायाः । तत्र हि गौणी कल्पना शब्दस्य, यत्र मुख्यार्थो न सम्भवति । इह त्वचेतनस्य मुक्तबद्धपुरुषविशेषापेक्षया कर्तृकर्मदेशकालनिमित्तापेक्षया च बन्धमोक्षादिफलार्था नियता पुरुषं प्रति प्रवृत्तिर्नोपपद्यते ; यथोक्तसर्वज्ञेश्वरकर्तृत्वपक्षे तु उपपन्ना ॥
 
 </details>
 
-<details><summary>टीका - यस्मिन्निति ।</summary>
+<details><summary>टीका - यस्मिन्नेताः</summary>
 
 ननु यस्मिन्नेताः षोडश कलाः प्रभवन्तीत्यनेनाध्यारोपस्योक्तत्वात्स ईक्षामित्यादिना पुनः सृष्टिकथनमधिकमित्यत आह –
 
@@ -4495,8 +4185,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - अत इति ।</summary>
-
-अत इति ।
 
 क्रमप्रतिपत्त्यर्थं स ईक्षामित्याद्युच्यत इत्यर्थः । तत्प्रतिपत्तिश्च कलोत्पत्तिप्रतिपत्तिसौकर्यार्थं विपर्ययेण तु क्रमोऽत उपपद्यते चेति न्यायेन कार्यस्य स्वस्वकारणक्रमेणापवादसौकर्यार्थं चेत्यर्थः ।
 
@@ -4511,8 +4199,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - सृष्टीति ।</summary>
-
-सृष्टीति ।
 
 सृष्टिः प्राणादेः सृष्टिः, तस्या उत्क्रान्त्यादि फलं, क्रमः प्राणाच्छ्रद्धामित्याद्युक्तानन्तर्यम् । आदिशब्देन लोकेषु नाम चेत्याधाराधेयविशेषो गृह्यते ।
 
@@ -4547,8 +4233,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - कर्त्रिति ।</summary>
-
-कर्त्रिति ।
 
 क्रियाशक्तिमदतः प्रवर्तत इत्यन्वयः ।
 
@@ -4594,8 +4278,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - पुरुषार्थेनेति ।</summary>
 
-पुरुषार्थेनेति ।
-
 पुरुषस्य भोगापवर्गार्थेनेत्यर्थः । मुख्य ईक्षितरि विद्यमानेन नियतक्रमेण प्रवर्तमानत्वेन गुणेन योगादैक्षतेति गौणः प्रयोगो माणवके पैङ्गल्यगुणयोगेनाग्निशब्दप्रयोगवदित्यर्थः ।
 
 </details>
@@ -4609,8 +4291,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - तद्वदिति ।</summary>
-
-तद्वदिति ।
 
 पुरुषस्य भोगापवर्गकारिणि प्रधाने पुरुषशब्द औपचारिक इत्यर्थः ।
 
@@ -4626,9 +4306,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - श्रुतिप्रामाण्यादिति ।</summary>
-
-श्रुतिप्रामाण्यादिति ।
+<details><summary>टीका - श्रुति­प्रा­मा­ण्या­दिति ।</summary>
 
 श्रुत्युक्तजगत्कर्तृत्वमविकारिणोऽपि कथञ्चिन्निर्वाह्यमित्यर्थः ।
 
@@ -4656,8 +4334,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - नामरूपेति ।</summary>
 
-नामरूपेति ।
-
 अनभिव्यक्तनामरूपेत्यर्थः । बन्धमोक्षादीत्यादिशब्देन तत्साधनमुच्यते । मोक्षस्यापि बन्धप्रतियोगित्वेन सोपाधिकत्वमुक्तम् ।
 
 </details>
@@ -4670,33 +4346,23 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - तत्रेति ।</summary>
+<details><summary>टीका - न तत्रेति ।</summary>
 
 एवम्भूतस्याऽऽत्मनो न स्रष्ट्रुत्वमित्याह –
 
-तत्रेति ।
+न तत्रेति ।
 
 </details>
 
 <details><summary>टीका - कल्पयित्वेति ।</summary>
 
-कल्पयित्वेति ।
-
 कल्पयितुं प्रवृत्ता इत्यर्थः । पुरुषस्य निर्विशेषत्वेन तस्मिन्वस्तुतः कर्तृत्वाद्ययोगात्तदारोपितमेवेति कल्पयितुं प्रवृत्ता अपि सर्वविरोधनिरासकागमप्रमाणैकशरणत्वाभावात्प्रत्यक्षादिविरोधापत्त्याऽऽरोपितत्वाङ्गीकाराच्च त्रस्यन्तः सर्वे परमार्थत एवेच्छन्ति । तत्राप्यचेतनस्य भोक्तृत्वायोगात्तन्मात्रमात्मनोऽङ्गीकुर्वन्ति । कर्तृत्वादिकं तु प्रधानस्याङ्गीकुर्वन्तीत्यर्थः ।
-
-</details>
-
-<details><summary>टीका - इत्येवमिति ।</summary>
-
-तर्हि कस्य तार्किकस्य मतं ग्राह्यमित्याशङ्क्य न कस्यापीत्याह –
-
-इत्येवमिति ।
 
 </details>
 
 <details><summary>टीका - अन्येति ।</summary>
 
-तर्हि तस्य को दोष इत्याशङ्क्य भोक्तृत्वाङ्गीकारे तथैव तस्यैव कर्तृत्वमपि स्यादित्यन्यैः शिक्षिताः सन्तः स्वमतात्प्रच्यवन्त इत्याह –
+(तर्हि तस्य को दोष इत्याशङ्क्य भोक्तृत्वाङ्गीकारे तथैव तस्यैव कर्तृत्वमपि स्यादित्यन्यैः शिक्षिताः सन्तः स्वमतात्प्रच्यवन्त इत्याह –
 
 अन्येति ।
 
@@ -4714,6 +4380,14 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
+<details><summary>टीका - इत्येवमिति ।</summary>
+
+तर्हि कस्य तार्किकस्य मतं ग्राह्यमित्याशङ्क्य न कस्यापीत्याह –
+
+इत्येवमिति ।
+
+</details>
+
 <details><summary>टीका - अत इति ।</summary>
 
 परस्परमेव तैर्दूषितत्वात्तव तद्वदेव द्वेषादिमत्त्वप्रसङ्गाच्चेत्यत आह –
@@ -4722,17 +4396,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - विरोधोद्भवकारणमिति ।</summary>
-
-विरोधोद्भवकारणमिति ।
+<details><summary>टीका - विरो­धो­द्भ­व­का­र­ण­मिति ।</summary>
 
 पारमार्थिकतया भेददर्शनमित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - संरक्षितेति ।</summary>
-
-संरक्षितेति ।
 
 भेददर्शनस्य परस्परोक्तदोषग्रस्तत्वादद्वैतमेव निर्दुष्टमिति निश्चितबुद्धिः सन्निर्वाति सर्वविकल्पेभ्यः उपशान्तो भवतीत्यर्थः ।
 
@@ -4764,15 +4434,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - स्वात्मस्थी विक्रियत इति ।</summary>
 
-स्वात्मस्थी विक्रियत इति ।
-
 चिद्रूपेण विक्रियत इत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - तत्त्वन्तरेति ।</summary>
-
-तत्त्वन्तरेति ।
 
 अनेकत्वाशुद्ध्यादियुक्तस्वविलक्षणमहदादिरूपेणेत्यर्थः । पुरुषस्य चिद्रूपेणैव परिणामान्न रूपान्तरापत्तिरशुद्ध्यादिकं वा । प्रधानस्य त्वाकारान्तरेण परिणामात्पूर्वरूपत्यागादशुद्ध्यादिकं स्यादित्यर्थः । किञ्चिद्रूपेण परिणाम आगन्तुको वा न वा । आद्य आगन्तुकविशेषवत्त्वेनानित्यत्वाद्यापत्त्या प्रधानादविशेषः ।
 
@@ -4796,13 +4462,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अस्यां कल्पनायामिति ।</summary>
 
-अस्यां कल्पनायामिति ।
-
 चिद्रूपेण तत्त्वान्तररूपेण विक्रियाकल्पनायामपि विचार्यमाणेऽर्थतो न कश्चिदपि विशेषो लभ्यत इति तयोर्विशिष्टविक्रियेति वाङ्मात्रेणैव कल्प्यत उच्यत इत्यर्थः ।
 
 </details>
 
-<details><summary>टीका - अथेति ।</summary>
+<details><summary>टीका - अथे</summary>
 
 द्वितीयं शङ्कते –
 
@@ -4811,8 +4475,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - चिन्मात्र एवेति ।</summary>
-
-चिन्मात्र एवेति ।
 
 न त्वागन्तुकं रूपान्तरमित्यर्थः ।
 
@@ -4842,7 +4504,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - चिन्मात्रस्यैवेति ।</summary>
+<details><summary>टीका - चिन्मात्रस्यैव</summary>
 
 द्वितीयं शङ्कते –
 
@@ -4886,8 +4548,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - सत्त्वाङ्गिनीति ।</summary>
 
-सत्त्वाङ्गिनीति ।
-
 सत्वगुणोऽङ्गी प्रधानं यस्य तस्मिंश्चेतसीत्यर्थः ।
 
 </details>
@@ -4910,15 +4570,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अविद्येति ।</summary>
 
-आद्ये स विशेषः सत्यो वाऽसत्यो वेति विकल्प्य सत्यविशेषवत्त्वे पुरुषस्य विकारित्वं स्यादिति मनसि सन्निधायास्याऽऽरोपितविशेषवत्त्वमस्तीत्याद शङ्कते –
+आद्ये स विशेषः सत्यो वाऽसत्यो वेति विकल्प्य सत्यविशेषवत्त्वे पुरुषस्य विकारित्वं स्यादिति मनसि सन्निधायास्याऽऽरोपितविशेषवत्त्वमस्तीत्याद्यं शङ्कते –
 
 अविद्येति ।
 
 </details>
 
 <details><summary>टीका - अनर्थेति ।</summary>
-
-अनर्थेति ।
 
 भोगरूपेत्यर्थः । तर्हि भोक्तृत्वविशेषवत्कर्तृत्वादिविशेषस्य प्रधानादेश्चाऽऽरोपत्वमेवाङ्गीकर्तुं युक्तं नार्धवैशसमस्मदुक्तरीत्या बन्धमोक्षव्यवहारसिध्युपपत्तेः ।
 
@@ -4966,13 +4624,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 न ह्यात्मैकत्व इति ।
 
-निश्चित इति शेषः । तदभावे शास्त्रप्रणेत्राद्यभाव इयं कल्पनैवार्हवदनर्थकं चेति विकल्पनैवानुपपन्नेत्यर्थः । नैवानुपपन्नेति पाठे तु तदभाव इत्यनेनैकत्वनिश्चयाभावोऽभिधीयते ।
+निश्चित इति शेषः । तदभावे शास्त्रप्रणेत्राद्यभाव एवं विकल्पनैवार्थवदनर्थकं वेति विकल्पनैवानुपपन्नेत्यर्थः । नैवानुपपन्नेति पाठे तु तदभाव इत्यनेनैकत्वनिश्चयाभावोऽभिधीयते ।
 
 </details>
 
 <details><summary>टीका - अभ्युपगत इति ।</summary>
 
-तदानीं निरसनीयबन्धादिसत्वादियं कल्पना बन्धनिवृत्त्यर्थं शास्त्रप्रणयनकल्पना नानुपपन्नेति योज्यम् । किञ्च अात्मैकत्वनिश्चये जाते तन्निश्चयजनकत्वेन शास्त्रार्थवत्त्वस्य स्वानुभवसिद्धत्वात्तेनेयं शङ्का कर्तुमपि न शक्येत्याह –
+तदानीं निरसनीयबन्धादिसत्वादियं कल्पना बन्धनिवृत्त्यर्थं शास्त्रप्रणयनकल्पना नानुपपन्नेति योज्यम् । किञ्च आत्मैकत्वनिश्चये जाते तन्निश्चयजनकत्वेन शास्त्रार्थवत्त्वस्य स्वानुभवसिद्धत्वात्तेनेयं शङ्का कर्तुमपि न शक्येत्याह –
 
 अभ्युपगत इति ।
 
@@ -4980,13 +4638,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - प्रमाणार्थ इति ।</summary>
 
-प्रमाणार्थ इति ।
-
 प्रमाणस्य शास्त्रस्यार्थः प्रयोजनमित्यर्थः ।
 
 </details>
 
-<details><summary>टीका - तदभ्युपगमे चेति ।</summary>
+<details><summary>टीका - तदभ्युपगमे चे</summary>
 
 एकत्वनिश्चयवन्तं प्रति शास्त्रानर्थक्यकल्पनाभावः श्रुत्याऽप्युक्त इत्याह –
 
@@ -4996,7 +4652,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - शास्त्रप्रणयनेति ।</summary>
+<details><summary>टीका - शास्त्र­प्र­ण­य­नेति ।</summary>
 
 एकत्वनिश्चयाभावदशायां तु निरसनीयारोपितबन्धसत्त्वान्नाऽऽनर्थक्यं तदपि श्रुत्योक्तमित्याह –
 
@@ -5006,7 +4662,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - अन्यत्रेति ।</summary>
+<details><summary>टीका - अन्यत्रे</summary>
 
 श्रुतिगतं यत्रपदं व्याचष्टे –
 
@@ -5014,7 +4670,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - अत्र चेति ।</summary>
+<details><summary>टीका - अत्र चे</summary>
 
 अथर्वणीयमन्त्रोपनिषदि द्वे विद्ये वेदितव्ये इत्युपक्रम्यापरविद्या ऋग्वेदादिरूपा परा त्वदृश्यत्वादिगुणकप्रत्यस्तमितसर्वद्वैतवस्तुविषयेत्युक्त्या विद्याविद्ययोर्विषयभेदः शास्त्रस्याऽऽदावेव सूचित इत्याह –
 
@@ -5032,9 +4688,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - राजप्रमाणेति ।</summary>
 
-राजप्रमाणेति ।
-
-प्रमाणराजेत्यर्थः । राजदन्तादित्वात्परनिपातः । वेदान्तप्रमाणमेव राजेव राजा तद्बाहवस्तदुक्तन्यायास्तैर्गुप्त आत्मैकत्वमेव विषय इव देश इव देशो रक्षणीयत्वात्स तार्किकभटैर्योधैर्न प्रवेश्य इत्यन्वयः ।
+प्रमाणराजेत्यर्थः । राजदन्तादित्वात्परनिपातः । वेदान्तप्रमाणमेव राजेव राजा तद्बाहवस्तदुक्तन्यायास्तैर्गुप्त आत्मैकत्वमेव विषय इव देश इव देशो रक्षणीयत्वात्स तार्किकचाटभटैर्योधैर्न प्रवेश्य इत्यन्वयः ।
 
 </details>
 
@@ -5050,8 +4704,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - आत्मेति ।</summary>
 
-आत्मेति ।
-
 आत्मनो योऽनर्थः संसारस्तत्कर्तृत्वमित्यर्थः । आदिशब्देनाऽऽप्तकामत्वेन प्रयोजनापेक्षानुपपत्तिः सङ्गृहीता । कल्पनया स्वव्यतिरिक्तस्य जीवस्य सत्त्वात्तस्य संसारो नाऽऽत्मनः । तदीयकर्मफलदानार्थं चाऽऽप्तकामस्यापि सृष्ट्यादिप्रवृत्तिः सम्भवति । सर्वव्यवहारस्यापि स्वप्नतुल्यत्वाद्वा स्वप्न इव सर्वमप्युपपद्यत इति सूत्रभाष्यादावेव परिहृत इत्यर्थः ।
 
 </details>
@@ -5064,7 +4716,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - तत्र हि गौणीति ।</summary>
+<details><summary>टीका - तत्र हि गौणी</summary>
 
 यजमानः प्रस्तर इत्यादावुपचारो दृष्ट इत्याशङ्क्याऽऽह –
 
@@ -5090,8 +4742,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C06_V04_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/6/AP/?u=PR_C06_V04_B01)  
 <details open><summary>मूलम्</summary>
 
 स प्राणमसृजत प्राणाच्छ्रद्धा खं वायुर्ज्योतिरापः पृथिवीन्द्रियं मनः । अन्नमन्नाद्वीर्यं तपो मन्त्राः कर्म लोका लोकेषु च नाम च ॥ ४ ॥
@@ -5117,9 +4768,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - हिरण्यगर्भाख्यमिति ।</summary>
-
-हिरण्यगर्भाख्यमिति ।
+<details><summary>टीका - हिर­ण्य­ग­र्भा­ख्य­मिति ।</summary>
 
 हिरण्यगर्भ इत्याख्या येनोपाधिनाऽऽत्मनो भवति तं बुद्ध्यभिन्नं सर्वप्राणं समष्टिप्राणमित्यर्थः । यथाश्रुते कस्मिन्नहमुत्क्रान्त इत्यादिनाऽऽत्मन उत्क्रान्त्याद्युपाधिसृष्टेः प्रस्तुतत्वाद्धिरण्यगर्भस्य जीवस्यातथात्वादुपक्रमविरोधापत्तेः । हिरण्यगर्भाख्यमित्युक्तिस्त्वात्मनो हिरण्यगर्भादिसंसारिभावोऽप्येतदुपाधिक इति सूचयितुमिति बोध्यम् ।
 
@@ -5135,9 +4784,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - अन्तरात्मानमिति ।</summary>
 
-अन्तरात्मानमिति ।
-
-सर्वस्थूलशरीरान्तरत्वादात्मबुद्धिगोचरत्वाच्चान्तरात्मा स इत्यर्थः । तत इत्यानन्तर्यार्थेयं पञ्चमी । एवमुत्तरत्रापि । न च भूतकार्यत्वात्प्राणस्य कथं ततः पूर्वकालीनत्वमिति वाच्यम् । सत्यम् । सूक्ष्मभूतसृष्ट्यन्तरं प्राणमसृजतेति कल्पनीयत्वात् । न चैतदन्तरं भूतसृष्ट्युक्तिविरोधशङ्का । तस्याः पञ्चीकृतस्थालभूतविषयत्वोपपत्तेः । अत एव भोगसाधनाधिष्ठानानीत्युक्तम् । सूक्ष्माणां तथात्वायोगात् । न चैवमपि स्थूलभूतसृष्ट्यनन्तरमिन्द्रियमनःसृष्ट्युक्तिविरोधः । भूतारब्धदेहाधिष्ठितानामेव तेषां कार्यक्षमत्वेन तेषां तदनन्तरत्वोक्तिरिति भावः ।
+सर्वस्थूलशरीरान्तरत्वादात्मबुद्धिगोचरत्वाच्चान्तरात्मा स इत्यर्थः । तत इत्यानन्तर्यार्थेयं पञ्चमी । एवमुत्तरत्रापि । न च भूतकार्यत्वात्प्राणस्य कथं ततः पूर्वकालीनत्वमिति वाच्यम् । सत्यम् । सूक्ष्मभूतसृष्ट्यन्तरं प्राणमसृजतेति कल्पनीयत्वात् । न चैतदन्तरं भूतसृष्ट्युक्तिविरोधशङ्का । तस्याः पञ्चीकृतस्थूलभूतविषयत्वोपपत्तेः । अत एव भोगसाधनाधिष्ठानानीत्युक्तम् । सूक्ष्माणां तथात्वायोगात् । न चैवमपि स्थूलभूतसृष्ट्यनन्तरमिन्द्रियमनःसृष्ट्युक्तिविरोधः । भूतारब्धदेहाधिष्ठितानामेव तेषां कार्यक्षमत्वेन तेषां तदनन्तरत्वोक्तिरिति भावः ।
 
 </details>
 
@@ -5153,15 +4800,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - वायुमिति ।</summary>
 
-वायुमिति ।
-
 श्रुतौ वायुरित्यादिप्रथमा द्वितीयार्थाः । प्राणमसृजतेति द्वितीययोपक्रमात् ।
 
 </details>
 
-<details><summary>टीका - तैरेवेति ।</summary>
+<details><summary>टीका - तैरेवे</summary>
 
-तैरेवेति ।
+ति ।
 
 अपञ्चीकृतावस्थायामित्यर्थः ।
 
@@ -5169,15 +4814,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - तस्य चेश्वरमिति ।</summary>
 
-तस्य चेश्वरमिति ।
-
 नियामकमित्यर्थः ।
 
 </details>
 
-<details><summary>टीका - सङ्कीर्यमाणानामिति ।</summary>
-
-सङ्कीर्यमाणानामिति ।
+<details><summary>टीका - सङ्की­र्य­मा­णा­ना­मिति ।</summary>
 
 अविशुद्धसत्त्वतया पापाचरणेन तैः पापैः सङ्कीर्यमाणानां सङ्करपरिहाराय चित्तशुद्धिसाधनं तपोऽसृजतेत्यर्थः ।
 
@@ -5185,17 +4826,13 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - फलमिति ।</summary>
 
-फलमिति ।
-
 लोक्यते भुज्यत इति लोकः फलमित्यर्थः ।
 
 </details>
 
 <details><summary>टीका - नाम चेति ।</summary>
 
-नाम चेति ।
-
-ब्राह्मणादिनाम्नोक्तव्यवहारासङ्करार्थमित्यर्थः । नन्वीश्वरसृष्टत्वोक्त्या कलानां सत्यत्वमङ्गीकर्तव्यम् । आरोपे शुक्तिरजतादौ सृष्टत्वव्यवहारभावादित्याशङ्क्याङ्कुल्यवष्टम्भनेत्रमर्दनादिना प्रयत्नेन सृष्टस्य द्विचन्द्रमशकमक्षिकादेरारोपत्वदर्शनात् ।
+ब्राह्मणादिनाम्नोक्तव्यवहारासङ्करार्थमित्यर्थः । नन्वीश्वरसृष्टत्वोक्त्या कलानां सत्यत्वमङ्गीकर्तव्यम् । आरोपे शुक्तिरजतादौ सृष्टत्वव्यवहारभावादित्याशङ्क्याङ्गुल्यवष्टम्भनेत्रमर्दनादिना प्रयत्नेन सृष्टस्य द्विचन्द्रमशकमक्षिकादेरारोपत्वदर्शनात् ।
 
 </details>
 
@@ -5209,7 +4846,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - पुनस्तस्मिन्नेवेति ॥ ४ ॥</summary>
+<details><summary>टीका - पुन­स्त­स्मि­न्नेवे</summary>
 
 एवमात्मप्रतिपत्त्यर्थमप्यारोपमुक्त्वा तदपवादमवतारयति –
 
@@ -5217,8 +4854,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C06_V05_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/6/AP/?u=PR_C06_V05_B01)  
 <details open><summary>मूलम्</summary>
 
 स यथेमा नद्यः स्यन्दमानाः समुद्रायणाः समुद्रं प्राप्यास्तं गच्छन्ति भिद्येते तासां नामरूपे समुद्र इत्येवं प्रोच्यते । एवमेवास्य परिद्रष्टुरिमाः षोडश कलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्ति भिद्येते चासां नामरूपे पुरुष इत्येवं प्रोच्यते स एषोऽकलोऽमृतो भवति तदेष श्लोकः ॥ ५ ॥
@@ -5234,7 +4870,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - नामरूपतिरस्कारमिति ।</summary>
+<details><summary>टीका - नाम­रू­प­ति­र­स्का­र­मिति ।</summary>
 
 अस्तशब्देन नाशो नाभिधीयते भेदकोपाधिनामरूपयोर्नाशेऽपि स्वरूपस्य समुद्रात्मना विद्यमानत्वादित्याह –
 
@@ -5245,8 +4881,6 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 </details>
 
 <details><summary>टीका - तद्वस्त्विति ।</summary>
-
-तद्वस्त्विति ।
 
 नामरूपनाशानन्तरं परिशिष्टमुदकलक्षणं वस्तु समुद्र इत्येवोच्यत इत्यन्वयः । पुरुषस्येति कर्मणि षष्ठी । पुरुषं स्वात्मरूपम् । परितः सर्वं स्वरूपत्वेन पश्यत इत्यर्थः ।
 
@@ -5268,19 +4902,19 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-<details><summary>टीका - नदीनामिवेति ।</summary>
+<details><summary>टीका - नदीनामिवे</summary>
 
-नदीनामिवेति ।
+ति ।
 
 इवशब्दस्तथाशब्दार्थे । यथा नदीनां समुद्रोऽयनं तथा पुरुषोऽयनमित्यन्वयः ।
 
 </details>
 
-<details><summary>टीका - भिद्यते इति ।</summary>
+<details><summary>टीका - भिद्येते इति ।</summary>
 
 अस्तगमनस्वरूपमाह –
 
-भिद्यते इति ।
+भिद्येते इति ।
 
 नामरूपभेद एवास्तगमनमिहेत्यर्थः ।
 
@@ -5288,13 +4922,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - यथास्वमिति ।</summary>
 
-यथास्वमिति ।
-
 यस्य यत्स्वरूपं प्राणाद्यात्मकं तदपि भिद्यत इत्यन्वयः ।
 
 </details>
 
-<details><summary>टीका - भेदे चेति ।</summary>
+<details><summary>टीका - भेदे चे</summary>
 
 पुरुष इत्येवं प्रोच्यत इत्यस्यार्थमाह –
 
@@ -5304,13 +4936,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - यदनष्टमिति ।</summary>
 
-यदनष्टमिति ।
-
 कलानां हि रूपमारोप्याधिष्ठानोभयात्मकं सत्यानृतमिथुनरूपं, तत्राऽऽरोप्यस्य नामरूपात्मकस्य भेदेऽधिष्ठानात्मकं रूपं पुरुषात्मनोच्यत इत्यर्थः । यथा समुद्रस्वरूपभूतं जलं मेघैराकृष्याभिवृष्टं गङ्गादिनामरूपोपाधिना समुद्राद्भिन्नमिव व्यवह्रियमाणं तदुपाधिविगमे समुद्रस्वरूपमेव प्रतिपद्यत एवमविद्याकृतनामरूपोपाधिवशादात्मनो भिन्नमिव स्थितं सर्वं जगद्विद्ययाऽविद्याकृतनामरूपविगमे ब्रह्ममात्रतयाऽवशिष्यत इत्यर्थः ।
 
 </details>
 
-<details><summary>टीका - य एवं विद्वानित्यादिना ॥ ५ ॥</summary>
+<details><summary>टीका - य एवं विद्वा­नि­त्या­दिना ॥ ५ ॥</summary>
 
 एवं प्राणादिकलोपाधिक आत्मन उत्क्रमणादिशब्दितमरणादिव्यवहार इत्युक्तेः प्रयोजनं प्राणादिनिवृत्तावुत्क्रमणादिसर्वसंसारधर्मरहितात्मस्वरूपावस्थानरूपं दर्शयितुं स एष इति वाक्यं व्याचष्टे –
 
@@ -5318,8 +4948,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C06_V06_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/6/AP/?u=PR_C06_V06_B01)  
 <details open><summary>मूलम्</summary>
 
 अरा इव रथनाभौ कला यस्मिन्प्रतिष्ठिताः ।
@@ -5330,15 +4959,11 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 <details><summary>टीका - परिवारा इति ।</summary>
 
-परिवारा इति ।
-
 नाभेः परितो नाभौ नेम्यां च प्रोतास्तिर्यक्काष्ठविशेषा इत्यर्थः ।
 
 </details>
 
-<details><summary>टीका - यथाप्रवेशिता इति ।</summary>
-
-यथाप्रवेशिता इति ।
+<details><summary>टीका - यथाप्रवेशिता: इति ।</summary>
 
 यथावत्सम्यक्प्रवेशिता इत्यर्थः ।
 
@@ -5352,8 +4977,7 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C06_V07_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/6/AP/?u=PR_C06_V07_B01)  
 <details open><summary>मूलम्</summary>
 
 तान्होवाचैतावदेवाहमेतत्परं ब्रह्म वेद नातः परमस्तीति ॥ ७ ॥
@@ -5369,27 +4993,22 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 
 </details>
 
-
-## षष्ठः प्रश्नः पूर्वपृष्ठम् —
-Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/PR_C06_V08_B01/devanagari)  
+Source: [TW](https://advaitasharada.sringeri.net/split/prashna-bhashya/6/AP/?u=PR_C06_V08_B01)  
 <details open><summary>मूलम्</summary>
 
 ते तमर्चयन्तस्त्वं हि नः पिता योऽस्माकमविद्यायाः परं पारं तारयसीति । नमः परमऋषिभ्यो नमः परमऋषिभ्यः ॥ ८ ॥
 ततः ते शिष्या गुरुणानुशिष्टाः तं गुरुं कृतार्थाः सन्तो विद्यानिष्क्रयमन्यदपश्यन्तः किं कृतवन्त इत्युच्यते — अर्चयन्तः पूजयन्तः पादयोः पुष्पाञ्जलिप्रकिरणेन प्रणिपातेन च शिरसा । किमूचुरित्याह — त्वं हि नः अस्माकं पिता ब्रह्मशरीरस्य विद्यया जनयितृत्वान्नित्यस्याजरामरणस्याभयस्य । यः त्वमेव अस्माकम् अविद्यायाः विपरीतज्ञानाज्जन्मजरामरणरोगदुःखादिग्राहादपारादविद्यामहोदधेर्विद्याप्लवेन परम् अपुनरावृत्तिलक्षणं मोक्षाख्यं महोदधेरिव पारं तारयसि अस्मानित्यतः पितृत्वं तवास्मान्प्रत्युपपन्नमितरस्मात् । इतरोऽपि हि पिता शरीरमात्रं जनयति, तथापि स पूज्यतमो लोके ; किमु वक्तव्यमात्यन्तिकाभयदातुरित्यभिप्रायः । नमः परमऋषिभ्यः ब्रह्मविद्यासम्प्रदायकर्तृभ्यः । नमः परमऋषिभ्य इति द्विर्वचनमादरार्थम् ॥
+इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ प्रश्नोपनिषद्भाष्यं सम्पूर्णम् ॥
 
 </details>
 
 <details><summary>टीका - प्रकिरणेनेति ।</summary>
-
-प्रकिरणेनेति ।
 
 प्रक्षेपेणेत्यर्थः ।
 
 </details>
 
 <details><summary>टीका - अतः पितृत्वं तवेति ।</summary>
-
-अतः पितृत्वं तवेति ।
 
 “जनकश्चोपनेता च यश्च विद्यां प्रयच्छति । अन्नदाता भयत्राता पञ्चैते पितरः स्मृताः” ॥ इति स्मृतेरित्यर्थः ।
 
@@ -5402,5 +5021,9 @@ Source: [TW](https://advaitasharada.sringeri.net/display/splitWindow/Prashna/AP/
 इतरस्मादिति ।
 
 पितृत्वादेव किं पूज्यतरत्वं परिचार्यत्वं स्वामित्वं किमु वक्तव्यमित्यर्थः । अत एव वाजसनेयके मां चापि सह दास्यायेतीत्युक्तमिति भावः ॥ ८ ॥
+
+इत्यानन्दज्ञानविरचितप्रश्नोपनिषद्भाष्यटीकायां षष्ठः प्रश्नः ॥ ६ ॥
+
+इति श्रीमत्परमहंसपरिव्राजकाचार्यश्रीमदानन्दज्ञानविरचिताऽऽथर्वणप्रश्नोपनिषद्भाष्यटीका समाप्ता ॥
 
 </details>
