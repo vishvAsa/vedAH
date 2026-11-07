@@ -1,0 +1,11 @@
++++
+title = "१०१ पयो मे क्लोम"
+
++++
+<details><summary>मूलम् (GR)</summary>
+
++++(in place of PS (Orissa) 20.54.10 PSK has the following (b = PS 2.76.1b))+++पयो मे क्लोम कर्णेषु  
+पयो मे वीरुधो दधन् ।  
+पयो मे सृष्टा देवेषु  
+पयो मे दधत् ॥
+</details>

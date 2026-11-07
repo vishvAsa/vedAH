@@ -1,0 +1,11 @@
++++
+title = "०६ मा मे जारीन्"
+
++++
+<details><summary>मूलम् (GR)</summary>
+
+मा मे जारीन् निहितो भाग एष  
+मानुषन्मानुषद् गुप्तो अस्तु । +++(emend. Griffiths- mānuṣānmānuṣād ‘from each and every man’)+++  
+वैवस्वते नि दधे शेवधिम् एतं  
+तस्मा उत् सृजतु मह्यम् एव ॥
+</details>
