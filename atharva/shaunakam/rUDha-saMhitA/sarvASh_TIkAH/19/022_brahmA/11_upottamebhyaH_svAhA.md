@@ -1,0 +1,51 @@
++++
+title = "११ उपोत्तमेभ्यः स्वाहा"
+
++++
+
+<details><summary>Whitney</summary>
+
+### Translation
+11. To the next to the last ones, hail!
+
+### Notes
+</details>
+
+<details><summary>Griffith</summary>
+
+To the penultimates, Hail.
+</details>
+
+<details><summary>पदपाठः</summary>
+
+उ॒प॒ऽउ॒त्त॒मेभ्यः॑। स्वाहा॑। २२.११। 
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मन्त्रोक्ताः
+- अङ्गिराः
+- दैवी जगती
+- ब्रह्मा सूक्त
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+महाशान्ति के लिये उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (उपोत्तमेभ्यः) श्रेष्ठों के समीपवर्ती [ब्रह्मचारी आदि पुरुषों] के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥११॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  स्पष्ट है ॥११॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ११−(उपोत्तमेभ्यः) श्रेष्ठानां समीपवर्तिभ्यो ब्रह्मचार्यादिभ्यः ॥
+</details>
+
