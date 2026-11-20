@@ -1,6 +1,5 @@
 +++
 title = "०१ तेन भूतेन"
-
 +++
 
 <details><summary>Whitney</summary>
@@ -43,6 +42,11 @@ Let this man be again bedewed with this presented sacrifice. And comfort with th
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहस्थ के धर्म का उपदेश।
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+तेनेति ॥ यदिदं मया हूयते तेन भूतेन प्राप्तेन वा हविषा अयं जनः आप्यायतां पुनः वीप्सालोपोत्र द्रष्टव्यः पुनः पुनः । किञ्चअस्मै मह्यं यां जायां आवाक्षुः आवहन् दत्तवन्तः तां रसेन आज्यादिना अभिवर्धतां अभिवर्धयत्वयं जनः ॥
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>

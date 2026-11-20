@@ -1,6 +1,5 @@
 +++
 title = "०२ यासां राजा"
-
 +++
 
 <details><summary>Whitney</summary>
@@ -40,6 +39,11 @@ They in the midst whereof King Varuna moveth, viewing men's righteous and unrigh
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सूक्ष्म तन्मात्राओं का विचार।
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+तृतीयः- यासां राजेति ॥ । स्षष्टोऽर्थः ।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
