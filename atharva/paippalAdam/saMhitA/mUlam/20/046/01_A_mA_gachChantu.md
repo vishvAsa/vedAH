@@ -1,0 +1,8 @@
++++
+title = "०१ आ मा गच्छन्तु"
+
++++
+<details><summary>मूलम् (GR)</summary>
+
++++(PSK 20.44.1a; see Kajihara 2011, 44, 47)+++आ मा गच्छन्तु ब्रह्मचारिणः स्वाहा ॥
+</details>
