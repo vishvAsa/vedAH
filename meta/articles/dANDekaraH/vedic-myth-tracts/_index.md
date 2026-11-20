@@ -1,7 +1,6 @@
 +++
 title = "+Vedic myth tracts"
 unicode_script = "devanagari"
-
 +++
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -54,14 +53,14 @@ To such of my pupils as do not regret having been my pupils
 
 ## CONTENTS
 
-- New Light on the Vedic God, Savitṛ — 1–27
-- Asura Varuṇa — 28–67
-- Viṣṇu in the Veda — 68–90
-- Pūṣan, the Pastoral God of the Veda — 91–117
-- Yama in the Veda — 118–140
-- Vṛtrahā Indra — 141–198
-- Rudra in the Veda — 199–277
-- Some Aspects of the Agni-Mythology in the Veda — 278–311
+- [New Light on the Vedic God, Savitṛ — 1–27](/devaH/AryaH/hindukaH/savitA/meta/articles/dANDekaraH/) *(moved to `devaH`)*
+- [Asura Varuṇa — 28–67](/devaH/AryaH/hindukaH/varuNaH/meta/articles/dANDekaraH/) *(moved to `devaH`)*
+- [Viṣṇu in the Veda — 68–90](/devaH/AryaH/hindukaH/viShNuH/meta/articles/dANDekaraH/) *(moved to `devaH`)*
+- [Pūṣan, the Pastoral God of the Veda — 91–117](/devaH/AryaH/hindukaH/pUShA/meta/articles/dANDekaraH/) *(moved to `devaH`)*
+- [Yama in the Veda — 118–140](/devaH/AryaH/hindukaH/yamaH/meta/articles/dANDekaraH/) *(moved to `devaH`)*
+- [Vṛtrahā Indra — 141–198](/devaH/AryaH/hindukaH/indraH/meta/articles/dANDekaraH/) *(moved to `devaH`)*
+- [Rudra in the Veda — 199–277](/devaH/AryaH/hindukaH/rudraH/meta/articles/dANDekaraH/) *(moved to `devaH`)*
+- [Some Aspects of the Agni-Mythology in the Veda — 278–311](/devaH/AryaH/hindukaH/agniH/meta/articles/dANDekaraH/) *(moved to `devaH`)*
 - A Vedic God and a Vedic Seer, Vedic God : Varuṇa — 312–331
 - A Vedic God and a Vedic Seer, Vedic Seer : Vasiṣṭha — 332–350
 - Appendix : Indo-Europeanism and Vedic Mythology — 351–365
