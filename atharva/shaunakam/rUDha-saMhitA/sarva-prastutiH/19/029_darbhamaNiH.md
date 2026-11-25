@@ -37,8 +37,8 @@ A charm for the destruction of enemies, continued from 28
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/01_nixa_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निक्ष॑ दर्भ स॒पत्ना॑न्मे॒ निक्ष॑ मे पृतनाय॒तः।  
-निक्ष॑ मे॒ सर्वा॑न्दु॒र्हार्दो॒ निक्ष॑ मे द्विष॒तो म॑णे ॥
+नि᳓क्ष दर्भ सप᳓त्नान्मे नि᳓क्ष मे पृतनायतः᳓।  
+नि᳓क्ष मे स᳓र्वान्दुर्हा᳓र्दो नि᳓क्ष मे द्विषतो᳓ मणे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/029_darbhamaNiH/01_nixa_darbha.md">
@@ -101,8 +101,8 @@ Pierce thou my rivals, Darbha, pierce the men who fain would fight with me. Pier
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/02_tRnddhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तृ॒न्द्धि द॑र्भ स॒पत्ना॑न्मे तृ॒न्द्धि मे॑ पृतनाय॒तः।  
-तृ॒न्द्धि मे॒ सर्वा॑न्दु॒र्हार्दो॑ तृ॒न्द्धि मे॑ द्विष॒तो म॑णे ॥
+तृन्द्धि᳓ दर्भ सप᳓त्नान्मे तृन्द्धि᳓ मे पृतनायतः᳓।  
+तृन्द्धि᳓ मे स᳓र्वान्दुर्हा᳓र्दो तृन्द्धि᳓ मे द्विषतो᳓ मणे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/029_darbhamaNiH/02_tRnddhi_darbha.md">
@@ -162,8 +162,8 @@ Split thou my rivals, Darbha, etc. (as in 1, with 'split' for 'pierce' throughou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/03_runddhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रु॒न्द्धि द॑र्भ स॒पत्ना॑न्मे रु॒न्द्धि मे॑ पृतनाय॒तः।  
-रु॒न्द्धि मे॒ सर्वा॑न्दु॒र्हार्दो॑ रु॒न्द्धि मे॑ द्विष॒तो म॑णे ॥
+रुन्द्धि᳓ दर्भ सप᳓त्नान्मे रुन्द्धि᳓ मे पृतनायतः᳓।  
+रुन्द्धि᳓ मे स᳓र्वान्दुर्हा᳓र्दो रुन्द्धि᳓ मे द्विषतो᳓ मणे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/029_darbhamaNiH/03_runddhi_darbha.md">
@@ -232,8 +232,8 @@ Check thou, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/04_mRNa_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मृ॒ण द॑र्भ स॒पत्ना॑न्मे मृ॒ण मे॑ पृतनाय॒तः।  
-मृ॒ण मे॒ सर्वा॑न्दु॒र्हार्दो॑ मृ॒ण मे॑ द्विष॒तो म॑णे ॥
+मृण᳓ दर्भ सप᳓त्नान्मे मृण᳓ मे पृतनायतः᳓।  
+मृण᳓ मे स᳓र्वान्दुर्हा᳓र्दो मृण᳓ मे द्विषतो᳓ मणे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/029_darbhamaNiH/04_mRNa_darbha.md">
@@ -292,8 +292,8 @@ Crush thou, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/05_mantha_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मन्थ॑ दर्भ स॒पत्ना॑न्मे॒ मन्थ॑ मे पृतनाय॒तः।  
-मन्थ॑ मे॒ सर्वा॑न्दु॒र्हार्दो॒ मन्थ॑ मे द्विष॒तो म॑णे ॥
+म᳓न्थ दर्भ सप᳓त्नान्मे म᳓न्थ मे पृतनायतः᳓।  
+म᳓न्थ मे स᳓र्वान्दुर्हा᳓र्दो म᳓न्थ मे द्विषतो᳓ मणे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/029_darbhamaNiH/05_mantha_darbha.md">
@@ -354,8 +354,8 @@ Shake thou, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/06_piNDDhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि॒ण्ड्ढि द॑र्भ स॒पत्ना॑न्मे पि॒ण्ड्ढि मे॑ पृतनाय॒तः।  
-पि॒ण्ड्ढि मे॒ सर्वा॑न्दु॒र्हार्दो॑ पि॒ण्ड्ढि मे॑ द्विष॒तो म॑णे ॥
+पिण्ड्ढि᳓ दर्भ सप᳓त्नान्मे पिण्ड्ढि᳓ मे पृतनायतः᳓।  
+पिण्ड्ढि᳓ मे स᳓र्वान्दुर्हा᳓र्दो पिण्ड्ढि᳓ मे द्विषतो᳓ मणे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/029_darbhamaNiH/06_piNDDhi_darbha.md">
@@ -415,8 +415,8 @@ Bruise thou, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/07_oSha_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ओष॑ दर्भ स॒पत्ना॑न्मे॒ ओष॑ मे पृतनाय॒तः।  
-ओष॑ मे॒ सर्वा॑न्दु॒र्हार्दो॒ ओष॑ मे द्विष॒तो म॑णे ॥
+ओ᳓ष दर्भ सप᳓त्नान्मे ओ᳓ष मे पृतनायतः᳓।  
+ओ᳓ष मे स᳓र्वान्दुर्हा᳓र्दो ओ᳓ष मे द्विषतो᳓ मणे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/029_darbhamaNiH/07_oSha_darbha.md">
@@ -476,8 +476,8 @@ Burn thou, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/08_daha_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दह॑ दर्भ स॒पत्ना॑न्मे॒ दह॑ मे पृतनाय॒तः।  
-दह॑ मे॒ सर्वा॑न्दु॒र्हार्दो॒ दह॑ मे द्विष॒तो म॑णे ॥
+द᳓ह दर्भ सप᳓त्नान्मे द᳓ह मे पृतनायतः᳓।  
+द᳓ह मे स᳓र्वान्दुर्हा᳓र्दो द᳓ह मे द्विषतो᳓ मणे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/029_darbhamaNiH/08_daha_darbha.md">
@@ -537,8 +537,8 @@ Consume, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/029_darbhamaNiH/09_jahi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज॒हि द॑र्भ स॒पत्ना॑न्मे ज॒हि मे॑ पृतनाय॒तः।  
-ज॒हि मे॒ सर्वा॑न्दु॒र्हार्दो॑ ज॒हि मे॑ द्विष॒तो म॑णे ॥
+जहि᳓ दर्भ सप᳓त्नान्मे जहि᳓ मे पृतनायतः᳓।  
+जहि᳓ मे स᳓र्वान्दुर्हा᳓र्दो जहि᳓ मे द्विषतो᳓ मणे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/029_darbhamaNiH/09_jahi_darbha.md">

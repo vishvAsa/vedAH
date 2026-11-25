@@ -37,8 +37,8 @@ To Affliction
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/026_pApmanAshanam/01_ava_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अव॑ मा पाप्मन्त्सृज व॒शी सन्मृ॑डयासि नः।  
-आ मा॑ भ॒द्रस्य॑ लो॒के पाप्म॑न्धे॒ह्यवि॑ह्रुतम् ॥
+अ᳓व मा पाप्मन्त्सृज वशी᳓ स᳓न्मृडयासि नः।  
+आ᳓ मा भद्र᳓स्य लोके᳓ पा᳓प्मन्धेह्य᳓विह्रुतम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/01_ava_mA.md">
@@ -103,8 +103,8 @@ Let me go free, O Misery: do thou, the mighty, pity us. Set me uninjured in the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/026_pApmanAshanam/02_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नः॑ पाप्म॒न्न जहा॑सि॒ तमु॑ त्वा जहिमो व॒यम्।  
-प॒थामनु॑ व्या॒वर्त॑ने॒ऽन्यं पा॒प्मानु॑ पद्यताम् ॥
+यो᳓ नः पाप्मन्न᳓ ज᳓हासि त᳓मु त्वा जहिमो वय᳓म्।  
+पथा᳓म᳓नु व्याव᳓र्तनेऽन्यं᳓ पाप्मा᳓नु पद्यताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/02_yo_naH.md">
@@ -168,8 +168,8 @@ From thee, from thee who fliest not from us, O Misery, we fly. Then at the turni
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/026_pApmanAshanam/03_anyatrAsmannyuchyatu_sahasrAxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्यत्रा॒स्मन्न्यु᳡च्यतु सहस्रा॒क्षो अम॑र्त्यः।  
-यं द्वेषा॑म॒ तमृ॑च्छतु॒ यमु॑ द्वि॒ष्मस्तमिज्ज॑हि ॥
+अन्य᳓त्रास्म᳓न्न्यु᳙च्यतु सहस्राक्षो᳓ अ᳓मर्त्यः।  
+यं᳓ द्वे᳓षाम त᳓मृच्छतु य᳓मु द्विष्म᳓स्त᳓मि᳓ज्जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/03_anyatrAsmannyuchyatu_sahasrAxo.md">

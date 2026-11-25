@@ -37,8 +37,8 @@ A charm to banish fiends and troubles
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/023_duHsvapnanAshanam/01_dauShvapnyaM_daurjIvityam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दौष्व॑प्न्यं॒ दौर्जी॑वित्यं॒ रक्षो॑ अ॒भ्व॑मरा॒य्यः॑।  
-दु॒र्णाम्नीः॒ सर्वा॑ दु॒र्वाच॒स्ता अ॒स्मन्ना॑शयामसि ॥
+दौ᳓ष्वप्न्यं दौ᳓र्जीवित्यं र᳓क्षो अभ्व᳙मराय्यः᳙।  
+दुर्णा᳓म्नीः स᳓र्वा दुर्वा᳓चस्ता᳓ अस्म᳓न्नाशयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/023_duHsvapnanAshanam/01_dauShvapnyaM_daurjIvityam.md">

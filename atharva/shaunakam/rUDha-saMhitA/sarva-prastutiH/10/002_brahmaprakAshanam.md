@@ -37,8 +37,8 @@ Purusha, Primeval Man or humanity personified
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/01_kena_pArShNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-केन॒ पार्ष्णी॒ आभृ॑ते॒ पूरु॑षस्य॒ केन॑ मां॒सं संभृ॑तं॒ केन॑ गु॒ल्फौ।  
-केना॒ङ्गुलीः॒ पेश॑नीः॒ केन॒ खानि॒ केनो॑च्छ्ल॒ङ्खौ म॑ध्य॒तः कः प्र॑ति॒ष्ठाम् ॥
+के᳓न पा᳓र्ष्णी आ᳓भृते पू᳓रुषस्य के᳓न मांसं᳓ सं᳓भृतं के᳓न गुल्फौ᳓।  
+के᳓नाङ्गु᳓लीः पे᳓शनीः के᳓न खा᳓नि के᳓नोच्छ्लङ्खौ᳓ मध्यतः᳓ कः᳓ प्रतिष्ठा᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/01_kena_pArShNI.md">
@@ -105,8 +105,8 @@ Who framed the heels of Purusha? Who fashioned the flesh of him? Who formed and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/02_kasmAnnu_gulphAvadharAvakRNvannaShThIvantAvutta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कस्मा॒न्नु गु॒ल्फावध॑रावकृण्वन्नष्ठी॒वन्ता॒वुत्त॑रौ॒ पूरु॑षस्य।  
-जङ्घे॑ नि॒रृत्य॒ न्य᳡दधुः॒ क्व᳡ स्वि॒ज्जानु॑नोः स॒न्धी क उ॒ तच्चि॑केत ॥
+क᳓स्मान्नु᳓ गुल्फा᳓व᳓धरावकृण्वन्नष्ठीव᳓न्तावु᳓त्तरौ पू᳓रुषस्य।  
+ज᳓ङ्घे निरृ᳓त्य न्य᳙दधुः क्व᳙ स्विज्जा᳓नुनोः सन्धी᳓ क᳓ उ त᳓च्चिकेत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/02_kasmAnnu_gulphAvadharAvakRNvannaShThIvantAvutta.md">
@@ -176,8 +176,8 @@ Whence did they make the ankles that are under, and the knee- bones of Purusha a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/03_chatuShTayaM_yujyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-चतु॑ष्टयं युज्यते॒ संहि॑तान्तं॒ जानु॑भ्यामू॒र्ध्वं शि॑थि॒रं कब॑न्धम्।  
-श्रोणी॒ यदू॒रू क उ॒ तज्ज॑जान॒ याभ्यां॒ कुसि॑न्धं॒ सुदृ॑ढं ब॒भूव॑ ॥
+च᳓तुष्टयं युज्यते सं᳓हितान्तं जा᳓नुभ्यामूर्ध्वं᳓ शिथिरं᳓ क᳓बन्धम्।  
+श्रो᳓णी य᳓दूरू᳓ क᳓ उ त᳓ज्जजान या᳓भ्यां कु᳓सिन्धं सु᳓दृढं बभू᳓व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/03_chatuShTayaM_yujyate.md">
@@ -240,8 +240,8 @@ A fourfold frame is fixt with ends connected, and up above the knees a yielding 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/04_kati_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कति॑ दे॒वाः क॑त॒मे त आ॑स॒न्य उरो॑ ग्री॒वाश्चि॒क्युः पूरु॑षस्य।  
-कति॒ स्तनौ॒ व्य᳡दधुः॒ कः क॑फो॒डौ कति॑ स्क॒न्धान्कति॑ पृ॒ष्टीर॑चिन्वन् ॥
+क᳓ति देवाः᳓ कतमे᳓ त᳓ आसन्य᳓ उ᳓रो ग्रीवा᳓श्चिक्युः᳓ पू᳓रुषस्य।  
+क᳓ति स्त᳓नौ व्य᳙दधुः कः᳓ कफोडौ᳓ क᳓ति स्कन्धा᳓न्क᳓ति पृष्टी᳓रचिन्वन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/04_kati_devAH.md">
@@ -314,8 +314,8 @@ Who and how many were those Gods who fastened the chest of Purusha and neck toge
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/05_ko_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-को अ॑स्य बा॒हू सम॑भरद्वी॒र्यं᳡ करवा॒दिति॑।  
-अंसौ॒ को अ॑स्य॒ तद्दे॒वः कुसि॑न्धे॒ अध्या द॑धौ ॥
+को᳓ अस्य बाहू᳓ स᳓मभरद्वीर्यं᳙ करवादि᳓ति।  
+अं᳓सौ को᳓ अस्य त᳓द्देवः᳓ कु᳓सिन्धे अ᳓ध्या᳓ दधौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/05_ko_asya.md">
@@ -377,8 +377,8 @@ Who put together both his arms and said, Let him show manly strength? Who and wh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/06_kaH_sapta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कः स॒प्त खानि॒ वि त॑तर्द शी॒र्षणि॒ कर्णा॑वि॒मौ नासि॑के॒ चक्ष॑णी॒ मुख॑म्।  
-येषां॑ पुरु॒त्रा वि॑ज॒यस्य॑ म॒ह्मनि॒ चतु॑ष्पादो द्वि॒पदो॑ यन्ति॒ याम॑म् ॥
+कः᳓ सप्त᳓ खा᳓नि वि᳓ ततर्द शीर्ष᳓णि क᳓र्णाविमौ᳓ ना᳓सिके च᳓क्षणी मु᳓खम्।  
+ये᳓षां पुरुत्रा᳓ विजय᳓स्य मह्म᳓नि च᳓तुष्पादो द्विप᳓दो यन्ति या᳓मम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/06_kaH_sapta.md">
@@ -442,8 +442,8 @@ Who pierced the seven openings in the head? Who made these ears, these nostrils,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/07_hanvorhi_jihvAmadadhAtpurUchImadhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हन्वो॒र्हि जि॒ह्वामद॑धात्पुरू॒चीमधा॑ म॒हीमधि॑ शिश्राय॒ वाच॑म्।  
-स आ व॑रीवर्ति॒ भुव॑नेष्व॒न्तर॒पो वसा॑नः॒ क उ॒ तच्चि॑केत ॥
+ह᳓न्वोर्हि᳓ जिह्वा᳓म᳓दधात्पुरूची᳓म᳓धा मही᳓म᳓धि शिश्राय वा᳓चम्।  
+स᳓ आ᳓ वरीवर्ति भु᳓वनेष्वन्त᳓रपो᳓ व᳓सानः क᳓ उ त᳓च्चिकेत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/07_hanvorhi_jihvAmadadhAtpurUchImadhA.md">
@@ -508,8 +508,8 @@ He set within the jaws the tongue that reaches far, and thereon placed Speech th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/08_mastiShkamasya_yatamo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒स्तिष्क॑मस्य यत॒मो ल॒लाटं॑ क॒काटि॑कां प्रथ॒मो यः क॒पाल॑म्।  
-चि॒त्वा चित्यं॒ हन्वोः॒ पूरु॑षस्य॒ दिवं॑ रुरोह कत॒मः स दे॒वः ॥
+मस्ति᳓ष्कमस्य यतमो᳓ लला᳓टं कका᳓टिकां प्रथमो᳓ यः᳓ कपा᳓लम्।  
+चित्वा᳓ चि᳓त्यं ह᳓न्वोः पू᳓रुषस्य दि᳓वं रुरोह कतमः᳓ स᳓ देवः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/08_mastiShkamasya_yatamo.md">
@@ -573,8 +573,8 @@ Who was he, first, of all the Gods who fashioned his skull and brain and occiput
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/09_priyApriyANi_bahulA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रि॑याप्रि॒याणि॑ बहु॒ला स्वप्नं॑ संबाधत॒न्द्र्यः᳡।  
-आ॑न॒न्दानु॒ग्रो नन्दां॑श्च॒ कस्मा॑द्वहति॒ पूरु॑षः ॥
+प्रि᳙याप्रिया᳓णि बहुला᳓ स्व᳓प्नं संबाधतन्द्र्यः᳙।  
+आ᳙नन्दा᳓नुग्रो᳓ न᳓न्दांश्च क᳓स्माद्वहति पू᳓रुषः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/09_priyApriyANi_bahulA.md">
@@ -636,8 +636,8 @@ Whence bringeth mighty Purusha both pleasant and unpleasant things, Of varied so
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/10_ArtiravartirnirRtiH_kuto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आर्ति॒रव॑र्ति॒र्निरृ॑तिः॒ कुतो॒ नु पुरु॒षेऽम॑तिः।  
-राद्धिः॒ समृ॑द्धि॒रव्यृ॑द्धिर्म॒तिरुदि॑तयः॒ कुतः॑ ॥
+आ᳓र्तिर᳓वर्तिर्नि᳓रृतिः कु᳓तो नु᳓ पु᳓रुषे᳓ऽमतिः।  
+रा᳓द्धिः स᳓मृद्धिर᳓व्यृद्धिर्मति᳓रु᳓दितयः कु᳓तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/10_ArtiravartirnirRtiH_kuto.md">
@@ -701,8 +701,8 @@ Whence is there found in Purusha want, evil, suffering, dis- tress? Whence come 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/11_ko_asminnApo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-को अ॑स्मि॒न्नापो॒ व्य᳡दधात्विषू॒वृतः॑ पुरू॒वृतः॑ सिन्धु॒सृत्या॑य जा॒ताः।  
-ती॒व्रा अ॑रु॒णा लोहि॑नीस्ताम्रधू॒म्रा ऊ॒र्ध्वा अवा॑चीः॒ पुरु॑षे ति॒रश्चीः॑ ॥
+को᳓ अस्मिन्ना᳓पो व्य᳙दधात्विषूवृ᳓तः पुरूवृ᳓तः सिन्धुसृ᳓त्याय जाताः᳓।  
+तीव्रा᳓ अरुणा᳓ लो᳓हिनीस्ताम्रधूम्रा᳓ ऊर्ध्वा᳓ अ᳓वाचीः पु᳓रुषे तिर᳓श्चीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/11_ko_asminnApo.md">
@@ -766,8 +766,8 @@ Who stored in him floods turned in all directions, moving diverse and formed to 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/12_ko_asminrUpamadadhAtko.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-को अ॑स्मिन्रू॒पम॑दधा॒त्को म॒ह्मानं॑ च॒ नाम॑ च।  
-गा॒तुं को अ॑स्मि॒न्कः के॒तुं कश्च॒रित्रा॑णि॒ पूरु॑षे ॥
+को᳓ अस्मिन्रूप᳓मदधात्को᳓ मह्मा᳓नं च ना᳓म च।  
+गातुं᳓ को᳓ अस्मिन्कः᳓ केतुं᳓ क᳓श्चरि᳓त्राणि पू᳓रुषे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/12_ko_asminrUpamadadhAtko.md">
@@ -829,8 +829,8 @@ Who gave him visible form and shape? Who gave him magni- tude and name? Who gave
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/13_ko_asminprANamavayatko.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-को अ॑स्मिन्प्रा॒णम॑वय॒त्को अ॑पा॒नं व्या॒नमु॑।  
-स॑मा॒नम॑स्मि॒न्को दे॒वोऽधि॑ शिश्राय॒ पूरु॑षे ॥
+को᳓ अस्मिन्प्राण᳓मवयत्को᳓ अपानं᳓ व्यान᳓मु।  
+स᳙मान᳓मस्मिन्को᳓ देवो᳓ऽधि शिश्राय पू᳓रुषे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/13_ko_asminprANamavayatko.md">
@@ -891,8 +891,8 @@ Who wove the vital air in him, who filled him with the down- ward breath? What G
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/14_ko_asminyajnamadadhAdeko.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-को अ॑स्मिन्य॒ज्ञम॑दधा॒देको॑ दे॒वोऽधि॒ पूरु॑षे।  
-को अ॑स्मिन्त्स॒त्यं कोऽनृ॑तं॒ कुतो॑ मृ॒त्युः कुतो॒ऽमृत॑म् ॥
+को᳓ अस्मिन्यज्ञ᳓मदधादे᳓को देवो᳓ऽधि पू᳓रुषे।  
+को᳓ अस्मिन्त्सत्यं᳓ को᳓ऽनृतं कु᳓तो मृत्युः᳓ कु᳓तोऽमृ᳓तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/14_ko_asminyajnamadadhAdeko.md">
@@ -954,8 +954,8 @@ What God, what only Deity placed sacrifice in Purusha? Who gave him truth and fa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/15_ko_asmai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-को अ॑स्मै॒ वासः॒ पर्य॑दधा॒त्को अ॒स्यायु॑रकल्पयत्।  
-बलं॒ को अ॑स्मै॒ प्राय॑च्छ॒त्को अ॑स्याकल्पयज्ज॒वम् ॥
+को᳓ अस्मै वा᳓सः प᳓र्यदधात्को᳓ अस्या᳓युरकल्पयत्।  
+ब᳓लं को᳓ अस्मै प्रा᳓यच्छत्को᳓ अस्याकल्पयज्जव᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/15_ko_asmai.md">
@@ -1017,8 +1017,8 @@ Who wrapped a garment round him? Who arranged the life he hath to live? Who gran
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/16_kenApo_anvatanuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-केनापो॒ अन्व॑तनुत॒ केना॑हरकरोद्रु॒चे।  
-उ॒षसं॒ केनान्वै॑न्द्ध॒ केन॑ सायंभ॒वं द॑दे ॥
+के᳓ना᳓पो अ᳓न्वतनुत के᳓नाहरकरोद्रुचे᳓।  
+उष᳓सं के᳓ना᳓न्वैन्द्ध के᳓न सायंभवं᳓ ददे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/16_kenApo_anvatanuta.md">
@@ -1081,8 +1081,8 @@ Through whom did he spread waters out, through whom did he make Day to shine? Th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/17_ko_asminreto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-को अ॑स्मि॒न्रेतो॒ न्य᳡दधा॒त्तन्तु॒रा ता॑यता॒मिति॑।  
-मे॒धां को अ॑स्मि॒न्नध्यौ॑ह॒त्को बा॒णं को नृतो॑ दधौ ॥
+को᳓ अस्मिन्रे᳓तो न्य᳙दधात्त᳓न्तुरा᳓ तायतामि᳓ति।  
+मेधां᳓ को᳓ अस्मिन्न᳓ध्यौहत्को᳓ बाणं᳓ को᳓ नृ᳓तो दधौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/17_ko_asminreto.md">
@@ -1144,8 +1144,8 @@ Who set the seed in him and said, Still be the thread of life spun out? Who gave
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/18_kenemAM_bhUmimaurNotkena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-केने॒मां भूमि॑मौर्णो॒त्केन॒ पर्य॑भव॒द्दिव॑म्।  
-केना॒भि म॒ह्ना पर्व॑ता॒न्केन॒ कर्मा॑णि॒ पुरु॑षः ॥
+के᳓नेमां᳓ भू᳓मिमौर्णोत्के᳓न प᳓र्यभवद्दि᳓वम्।  
+के᳓नाभि᳓ मह्ना᳓ प᳓र्वतान्के᳓न क᳓र्माणि पु᳓रुषः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/18_kenemAM_bhUmimaurNotkena.md">
@@ -1207,8 +1207,8 @@ Through whom did he bedeck the earth, through whom did he encompass heaven? Whos
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/19_kena_parjanyamanveti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-केन॑ प॒र्जन्य॒मन्वे॑ति॒ केन॒ सोमं॑ विचक्ष॒णम्।  
-केन॑ य॒ज्ञं च॑ श्र॒द्धां च॒ केना॑स्मि॒न्निहि॑तं॒ मनः॑ ॥
+के᳓न पर्ज᳓न्यम᳓न्वेति के᳓न सो᳓मं विचक्षण᳓म्।  
+के᳓न यज्ञं᳓ च श्रद्धां᳓ च के᳓नास्मिन्नि᳓हितं म᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/19_kena_parjanyamanveti.md">
@@ -1271,8 +1271,8 @@ Through whom seeks he Parjanya out, and Soma of the piercing sight? Through whom
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/20_kena_shrotriyamApnoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-केन॒ श्रोत्रि॑यमाप्नोति॒ केने॒मं प॑रमे॒ष्ठिन॑म्।  
-केने॒मम॒ग्निं पूरु॑षः॒ केन॑ संवत्स॒रं म॑मे ॥
+के᳓न श्रो᳓त्रियमाप्नोति के᳓नेमं᳓ परमेष्ठि᳓नम्।  
+के᳓नेम᳓मग्निं᳓ पू᳓रुषः के᳓न संवत्सरं᳓ ममे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/20_kena_shrotriyamApnoti.md">
@@ -1334,8 +1334,8 @@ What leads him to the learned priest? What leads him to this Lord Supreme? How d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/21_brahma_shrotriyamApnoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॒ श्रोत्रि॑यमाप्नोति॒ ब्रह्मे॒मं प॑रमेष्ठिनम्।  
-ब्रह्मे॒मम॒ग्निं पूरु॑षो॒ ब्रह्म॑ संवत्स॒रं म॑मे ॥
+ब्र᳓ह्म श्रो᳓त्रियमाप्नोति ब्र᳓ह्मेमं᳓ परमेष्ठिनम्।  
+ब्र᳓ह्मेम᳓मग्निं᳓ पू᳓रुषो ब्र᳓ह्म संवत्सरं᳓ ममे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/21_brahma_shrotriyamApnoti.md">
@@ -1401,8 +1401,8 @@ He, Brahma gains the learned priest, he Brahma, gains this Lord Supreme. As Brah
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/22_kena_devA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-केन॑ दे॒वाँ अनु॑ क्षियति॒ केन॒ दैव॑जनीर्विशः।  
-केने॒दम॒न्यन्नक्ष॑त्रं॒ केन॒ सत्क्ष॒त्रमु॑च्यते ॥
+के᳓न देवाँ᳓ अ᳓नु क्षियति के᳓न दै᳓वजनीर्विशः।  
+के᳓नेद᳓मन्य᳓न्न᳓क्षत्रं के᳓न स᳓त्क्षत्र᳓मुच्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/22_kena_devA.N.md">
@@ -1469,8 +1469,8 @@ Through whom doth he abide with Gods? Through whom with the Celestial Tribes? Wh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/23_brahma_devA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑ दे॒वाँ अनु॑ क्षियति॒ ब्रह्म॒ दैव॑जनी॒र्विशः॑।  
-ब्रह्मे॒दम॒न्यन्नक्ष॑त्रं॒ ब्रह्म॒ सत्क्ष॒त्रमु॑च्यते ॥
+ब्र᳓ह्म देवाँ᳓ अ᳓नु क्षियति ब्र᳓ह्म दै᳓वजनीर्वि᳓शः।  
+ब्र᳓ह्मेद᳓मन्य᳓न्न᳓क्षत्रं ब्र᳓ह्म स᳓त्क्षत्र᳓मुच्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/23_brahma_devA.N.md">
@@ -1532,8 +1532,8 @@ Brahma inhabits with the Gods, Brahma among the Heavenly Tribes. Brahma this oth
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/24_keneyaM_bhUmirvihitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-केने॒यं भूमि॒र्विहि॑ता॒ केन॒ द्यौरुत्त॑रा हि॒ता।  
-केने॒दमू॒र्ध्वं ति॒र्यक्चा॒न्तरि॑क्षं॒ व्यचो॑ हि॒तम् ॥
+के᳓नेयं᳓ भू᳓मिर्वि᳓हिता के᳓न द्यौ᳓रु᳓त्तरा हिता᳓।  
+के᳓नेद᳓मूर्ध्वं᳓ तिर्य᳓क्चान्त᳓रिक्षं व्य᳓चो हित᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/24_keneyaM_bhUmirvihitA.md">
@@ -1594,8 +1594,8 @@ By whom was this our earth disposed? By whom was heaven placed over it? By whom 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/25_brahmaNA_bhUmirvihitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑णा॒ भूमि॒र्विहि॑ता॒ ब्रह्म॒ द्यौरुत्त॑रा हि॒ता।  
-ब्रह्मे॒दमू॒र्ध्वं ति॒र्यक्चा॒न्तरि॑क्षं॒ व्यचो॑ हि॒तम् ॥
+ब्र᳓ह्मणा भू᳓मिर्वि᳓हिता ब्र᳓ह्म द्यौ᳓रु᳓त्तरा हिता᳓।  
+ब्र᳓ह्मेद᳓मूर्ध्वं᳓ तिर्य᳓क्चान्त᳓रिक्षं व्य᳓चो हित᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/25_brahmaNA_bhUmirvihitA.md">
@@ -1659,8 +1659,8 @@ By Brahma was this earth disposed: Brahma is sky arranged above. Brahma is this 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/26_mUrdhAnamasya_saMsIvyAtharvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मू॒र्धान॑मस्य सं॒सीव्याथ॑र्वा॒ हृद॑यं च॒ यत्।  
-म॒स्तिष्का॑दू॒र्ध्वः प्रैर॑य॒त्पव॑मा॒नोऽधि॑ शीर्ष॒तः ॥
+मूर्धा᳓नमस्य संसी᳓व्या᳓थर्वा हृ᳓दयं च य᳓त्।  
+मस्ति᳓ष्कादूर्ध्वः᳓ प्रै᳓रयत्प᳓वमानो᳓ऽधि शीर्षतः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/26_mUrdhAnamasya_saMsIvyAtharvA.md">
@@ -1724,8 +1724,8 @@ Together, with his needle hath Atharvan sewn his head and heart. And Pavamana ho
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/27_tadvA_atharvaNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तद्वा अथ॑र्वणः॒ शिरो॑ देवको॒शः समु॑ब्जितः।  
-तत्प्रा॒णो अ॒भि र॑क्षति॒ शिरो॒ अन्न॒मथो॒ मनः॑ ॥
+त᳓द्वा᳓ अ᳓थर्वणः शि᳓रो देवकोशः᳓ स᳓मुब्जितः।  
+त᳓त्प्राणो᳓ अभि᳓ रक्षति शि᳓रो अ᳓न्नम᳓थो म᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/27_tadvA_atharvaNaH.md">
@@ -1788,8 +1788,8 @@ That is indeed Atharvan's head, the well-closed casket of the Gods. Spirit and F
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/28_Urdhvo_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊ॒र्ध्वो नु सृ॒ष्टा३॒॑स्ति॒र्यङ्नु सृ॒ष्टा३स्सर्वा॒ दिशः॒ पुरु॑ष॒ आ ब॑भू॒वाँ३।  
-पुरं॒ यो ब्रह्म॑णो॒ वेद॒ यस्याः॒ पुरु॑ष उ॒च्यते॑ ॥
+ऊर्ध्वो᳓ नु᳓ सृष्टा᳙स्तिर्य᳓ङ्नु᳓ सृष्टा᳓३स्स᳓र्वा दि᳓शः पु᳓रुष आ᳓ बभूवाँ᳓३।  
+पु᳓रं यो᳓ ब्र᳓ह्मणो वे᳓द य᳓स्याः पु᳓रुष उच्य᳓ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/28_Urdhvo_nu.md">
@@ -1862,8 +1862,8 @@ Stationed on high, Purusha hath pervaded all regions spread aloft and stretched 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/29_yo_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो वै तां ब्रह्म॑णो॒ वेदा॒मृते॒नावृ॑तां॒ पुर॑म्।  
-तस्मै॒ ब्रह्म॑ च ब्रा॒ह्माश्च॒ चक्षुः॑ प्रा॒णं प्र॒जां द॑दुः ॥
+यो᳓ वै᳓ तां᳓ ब्र᳓ह्मणो वे᳓दामृ᳓तेना᳓वृतां पु᳓रम्।  
+त᳓स्मै ब्र᳓ह्म च ब्राह्मा᳓श्च च᳓क्षुः प्राणं᳓ प्रजां᳓ ददुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/29_yo_vai.md">
@@ -1929,8 +1929,8 @@ Yea, knows that fort of Brahma girt about with immortality, Brahma and Brahmas h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/30_na_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न वै तं चक्षु॑र्जहाति॒ न प्रा॒णो ज॒रसः॑ पु॒रा।  
-पुरं॒ यो ब्रह्म॑णो॒ वेद॒ यस्याः॒ पुरु॑ष उ॒च्यते॑ ॥
+न᳓ वै᳓ तं᳓ च᳓क्षुर्जहाति न᳓ प्राणो᳓ जर᳓सः पुरा᳓।  
+पु᳓रं यो᳓ ब्र᳓ह्मणो वे᳓द य᳓स्याः पु᳓रुष उच्य᳓ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/30_na_vai.md">
@@ -1993,8 +1993,8 @@ Sight leaves him not, breath quits not him before life's natural decay, Who know
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/31_aShTAchakrA_navadvArA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ष्टाच॑क्रा॒ नव॑द्वारा दे॒वानां॒ पूर॑यो॒ध्या।  
-तस्यां॑ हिर॒ण्ययः॒ कोशः॑ स्व॒र्गो ज्योति॒षावृ॑तः ॥
+अष्टा᳓चक्रा न᳓वद्वारा देवा᳓नां पू᳓रयोध्या᳓।  
+त᳓स्यां हिरण्य᳓यः को᳓शः स्वर्गो᳓ ज्यो᳓तिषा᳓वृतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/31_aShTAchakrA_navadvArA.md">
@@ -2058,8 +2058,8 @@ The fort of Gods, impregnable, with circles eight and portals nine, Contains a g
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/32_tasminhiraNyaye_koshe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्मि॑न्हिर॒ण्यये॒ कोशे॒ त्र्य॑रे॒ त्रिप्र॑तिष्ठिते।  
-तस्मि॒न्यद्य॒क्षमा॑त्म॒न्वत्तद्वै ब्र॑ह्म॒विदो॑ विदुः ॥
+त᳓स्मिन्हिरण्य᳓ये को᳓शे त्र्य᳙रे त्रि᳓प्रतिष्ठिते।  
+त᳓स्मिन्य᳓द्यक्ष᳓मात्मन्व᳓त्त᳓द्वै᳓ ब्रह्मवि᳓दो विदुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/32_tasminhiraNyaye_koshe.md">
@@ -2122,8 +2122,8 @@ Men deep in lore of Brahma know that Animated Being which Dwells in the golden t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/002_brahmaprakAshanam/33_prabhrAjamAnAM_hariNIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒भ्राज॑मानां॒ हरि॑णीं॒ यश॑सा सं॒परी॑वृताम्।  
-पुरं॑ हिर॒ण्ययीं॒ ब्रह्मा वि॑वे॒शाप॑राजिताम् ॥
+प्रभ्रा᳓जमानां ह᳓रिणीं य᳓शसा संप᳓रीवृताम्।  
+पु᳓रं हिरण्य᳓यीं ब्र᳓ह्मा᳓ विवेशा᳓पराजिताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/002_brahmaprakAshanam/33_prabhrAjamAnAM_hariNIm.md">

@@ -37,8 +37,8 @@ A prayer for prosperity and the birth of a son
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/048_rAkA/01_rAkAmahaM_suhavA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रा॒काम॒हं सु॒हवा॑ सुष्टु॒ती हु॑वे शृ॒णोतु॑ नः सु॒भगा॒ बोध॑तु॒ त्मना॑।  
-सीव्य॒त्वपः॑ सू॒च्याच्छि॑द्यमानया॒ ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्य॑म् ॥
+राका᳓महं᳓ सुह᳓वा सुष्टुती᳓ हुवे शृणो᳓तु नः सुभ᳓गा बो᳓धतु त्म᳓ना।  
+सी᳓व्यत्व᳓पः सूच्या᳓च्छिद्यमानया द᳓दातु वीरं᳓ शत᳓दायमुक्थ्य᳙म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/048_rAkA/01_rAkAmahaM_suhavA.md">
@@ -104,8 +104,8 @@ I call on Raka with hair laud and reverent cry: may she, auspicious, hear us and
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/048_rAkA/02_yAste_rAke.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यास्ते॑ राके सुम॒तयः॑ सु॒पेश॑सो॒ याभि॒र्ददा॑सि दा॒शुषे॒ वसू॑नि।  
-ताभि॑र्नो अ॒द्य सु॒मना॑ उ॒पाग॑हि सहस्रापो॒षं सु॑भगे॒ ररा॑णा ॥
+या᳓स्ते राके सुमत᳓यः सुपे᳓शसो या᳓भिर्द᳓दासि दाशु᳓षे व᳓सूनि।  
+ता᳓भिर्नो अद्य᳓ सुम᳓ना उपा᳓गहि सहस्रापोषं᳓ सुभगे र᳓राणा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/048_rAkA/02_yAste_rAke.md">

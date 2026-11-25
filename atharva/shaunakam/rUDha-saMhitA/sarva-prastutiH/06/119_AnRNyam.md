@@ -33,8 +33,8 @@ Translated: Ludwig, p. 442; Griffith, i. 310.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/119_AnRNyam/01_yadadIvyannRNamahaM_kRNomyadAsyannagna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यददी॑व्यन्नृ॒णम॒हं कृ॒णोम्यदा॑स्यन्नग्न उ॒त सं॑गृ॒णामि॑।  
-वै॑श्वान॒रो नो॑ अधि॒पा वसि॑ष्ठ॒ उदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
+य᳓द᳓दीव्यन्नृण᳓महं᳓ कृणो᳓म्य᳓दास्यन्नग्न उत᳓ संगृणा᳓मि।  
+वै᳙श्वानरो᳓ नो अधिपा᳓ व᳓सिष्ठ उ᳓दि᳓न्नयाति सुकृत᳓स्य लोक᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/119_AnRNyam/01_yadadIvyannRNamahaM_kRNomyadAsyannagna.md">
@@ -101,8 +101,8 @@ The debt which I incur, not gaming, Agni! and, not intending to repay, acknowled
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/119_AnRNyam/02_vaishvAnarAya_prati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॑श्वान॒राय॒ प्रति॑ वेदयामि॒ यद्यृ॒णं सं॑ग॒रो दे॒वता॑सु।  
-स ए॒तान्पाशा॑न्वि॒चृतं॑ वेद॒ सर्वा॒नथ॑ प॒क्वेन॑ स॒ह सं भ॑वेम ॥
+वै᳙श्वानरा᳓य प्र᳓ति वेदयामि य᳓द्यृणं᳓ संगरो᳓ देव᳓तासु।  
+स᳓ एता᳓न्पा᳓शान्विचृ᳓तं वेद स᳓र्वान᳓थ पक्वे᳓न सह᳓ सं᳓ भवेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/119_AnRNyam/02_vaishvAnarAya_prati.md">
@@ -171,8 +171,8 @@ I cause Vaisvanara to know, confessing the debt whose payment to the Gods is pro
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/119_AnRNyam/03_vaishvAnaraH_pavitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॑श्वान॒रः प॑वि॒ता मा॑ पुनातु॒ यत्सं॑ग॒रम॑भि॒धावा॑म्या॒शाम्।  
-अना॑जान॒न्मन॑सा॒ याच॑मानो॒ यत्तत्रैनो॒ अप॒ तत्सु॑वामि ॥
+वै᳙श्वानरः᳓ पविता᳓ मा पुनातु य᳓त्संगर᳓मभिधा᳓वाम्याशा᳓म्।  
+अ᳓नाजानन्म᳓नसा या᳓चमानो य᳓त्त᳓त्रै᳓नो अ᳓प त᳓त्सुवामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/119_AnRNyam/03_vaishvAnaraH_pavitA.md">

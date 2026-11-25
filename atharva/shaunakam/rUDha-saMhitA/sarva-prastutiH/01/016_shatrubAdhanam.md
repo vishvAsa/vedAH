@@ -37,8 +37,8 @@ A prayer and charm against demons
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/01_ye-mAvAsyAM3.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये ऽमा॑वा॒स्यां॑३ रात्रि॑मु॒दस्थु॑र्व्रा॒जम॒त्त्रिणः॑।  
-अ॒ग्निस्तु॒रीयो॑ यातु॒हा सो अ॒स्मभ्य॒मधि॑ ब्रवत् ॥
+ये᳓ ऽमावास्यां᳙ रा᳓त्रिमुद᳓स्थुर्व्राज᳓मत्त्रि᳓णः।  
+अग्नि᳓स्तुरी᳓यो यातुहा᳓ सो᳓ अस्म᳓भ्यम᳓धि ब्रवत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/01_ye-mAvAsyAM3.md">
@@ -110,8 +110,8 @@ May potent Agni who destroys the demons bless and shelter us. From greedy fiends
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/02_sIsAyAdhyAha_varuNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सीसा॒याध्या॑ह॒ वरु॑णः॒ सीसा॑या॒ग्निरुपा॑वति।  
-सीसं॑ म॒ इन्द्रः॒ प्राय॑च्छ॒त्तद॒ङ्ग या॑तु॒चात॑नम् ॥
+सी᳓साया᳓ध्याह व᳓रुणः सी᳓सायाग्नि᳓रु᳓पावति।  
+सी᳓सं म इ᳓न्द्रः प्रा᳓यच्छत्त᳓दङ्ग᳓ यातुचा᳓तनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/02_sIsAyAdhyAha_varuNaH.md">
@@ -176,8 +176,8 @@ Varuna's benison hath blessed the lead, and Agni strengthens it. Indra hath give
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/03_idaM_viShkandham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं विष्क॑न्धं सहत इ॒दं बा॑धते अ॒त्त्रिणः॑।  
-अ॒नेन॒ विश्वा॑ ससहे॒ या जा॒तानि॑ पिशा॒च्याः ॥
+इदं᳓ वि᳓ष्कन्धं सहत इदं᳓ बाधते अत्त्रि᳓णः।  
+अने᳓न वि᳓श्वा ससहे या᳓ जाता᳓नि पिशाच्याः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/03_idaM_viShkandham.md">
@@ -246,8 +246,8 @@ This overcomes Vishkandha, -this drives the voracious fiends away: By means of t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/04_yadi_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ नो॒ गां हंसि॒ यद्यश्वं॒ यदि॒ पूरु॑षम्।  
-तं त्वा॒ सीसे॑न विध्यामो॒ यथा॒ नो ऽसो॒ अवी॑रहा ॥
+य᳓दि नो गां᳓ हं᳓सि य᳓द्य᳓श्वं य᳓दि पू᳓रुषम्।  
+तं᳓ त्वा सी᳓सेन विध्यामो य᳓था नो᳓ ऽसो अ᳓वीरहा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/04_yadi_no.md">

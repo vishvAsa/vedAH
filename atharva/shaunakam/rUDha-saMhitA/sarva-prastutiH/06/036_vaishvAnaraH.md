@@ -37,9 +37,9 @@ In praise of Agni Vaisvanara
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तावा॑नं वैश्वान॒रम्  
-ऋ॒तस्य॒ ज्योति॑ष॒स् पति॑म्।  
-अज॑स्रं **घ॒र्मम् ई॑महे** ॥१॥  
+ऋता᳓वानं वैश्वानर᳓म्  
+ऋत᳓स्य ज्यो᳓तिषस् प᳓तिम्।  
+अ᳓जस्रं **घर्म᳓म् ईमहे** ॥१॥  
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
@@ -112,8 +112,8 @@ The immortal cauldron we seek.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/02_sa_vishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स विश्वा॒ प्रति॑ चाक्लृप ऋ॒तूंरुत्सृ॑जते व॒शी।  
-य॒ज्ञस्य॒ वय॑ उत्ति॒रन् ॥
+स᳓ वि᳓श्वा प्र᳓ति चाक्लृप ऋतूं᳓रु᳓त्सृजते वशी᳓।  
+यज्ञ᳓स्य व᳓य उत्तिर᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/02_sa_vishvA.md">
@@ -184,8 +184,8 @@ He hath directed all things; he sends forth the Seasons in his might, furthering
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/03_agniH_pareShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निः परे॑षु॒ धाम॑सु॒ कामो॑ भू॒तस्य॒ भव्य॑स्य।  
-स॒म्राडेको॒ वि रा॑जति ॥
+अग्निः᳓ प᳓रेषु धा᳓मसु का᳓मो भूत᳓स्य भ᳓व्यस्य।  
+सम्रा᳓डे᳓को वि᳓ राजति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/03_agniH_pareShu.md">

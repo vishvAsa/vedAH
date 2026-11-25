@@ -33,8 +33,8 @@ A prayer to Aditi for help and protection
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/01_aditirdyauraditirantarixamaditirmAtA_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अदि॑ति॒र्द्यौरदि॑तिर॒न्तरि॑क्ष॒मदि॑तिर्मा॒ता स पि॒ता स पु॒त्रः।  
-विश्वे॑ दे॒वा अदि॑ति॒र्पञ्च॒ जना॒ अदि॑तिर्जा॒तमदि॑ति॒र्जनि॑त्वम् ॥
+अ᳓दितिर्द्यौ᳓र᳓दितिरन्त᳓रिक्षम᳓दितिर्माता᳓ स᳓ पिता᳓ स᳓ पुत्रः᳓।  
+वि᳓श्वे देवा᳓ अ᳓दितिर्प᳓ञ्च ज᳓ना अ᳓दितिर्जात᳓म᳓दितिर्ज᳓नित्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/006_aditiH/01_aditirdyauraditirantarixamaditirmAtA_sa.md">
@@ -102,18 +102,18 @@ what is future.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/02_mahImU_Shu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒हीम् ऊ॒ षु मा॒तरँ॑ सुव्र॒ताना॑म्  
-ऋ॒तस्य॒ पत्नी॒म् अव॑से **हवामहे** ।  
-तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीँ+++(=उरुगमनां)+++  
-सु॒शर्मा॑ण॒म् अदि॑तिँ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥
+मही᳓म् ऊ षु᳓ मात᳓रँ सुव्रता᳓नाम्  
+ऋत᳓स्य प᳓त्नीम् अ᳓वसे **हवामहे** ।  
+तुवि+++(=प्रवृद्ध)+++-क्षत्त्रा᳓म् अज᳓रन्तीम् उरूचीँ᳓+++(=उरुगमनां)+++  
+सुश᳓र्माणम् अ᳓दितिँ+++(=अखण्डनीयां)+++ सुप्र᳓णीतिम् ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 <details open><summary><h5>महीम् ऊ षु ...{Loading}...</h5></summary>
 
-म॒हीम् ऊ॒ षु मा॒तरँ॑ सुव्र॒ताना॑म्  
-ऋ॒तस्य॒ पत्नी॒म् अव॑से **हुवेम** ।  
-तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीँ+++(=उरुगमनां)+++ 
-सु॒शर्मा॑ण॒म् अदि॑तिँ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥ 
+मही᳓म् ऊ षु᳓ मात᳓रँ सुव्रता᳓नाम्  
+ऋत᳓स्य प᳓त्नीम् अ᳓वसे **हुवेम** ।  
+तुवि+++(=प्रवृद्ध)+++-क्षत्त्रा᳓म् अज᳓रन्तीम् उरूचीँ᳓+++(=उरुगमनां)+++ 
+सुश᳓र्माणम् अ᳓दितिँ+++(=अखण्डनीयां)+++ सुप्र᳓णीतिम् ॥ 
 </details>
 </div>
 </details>
@@ -186,10 +186,10 @@ ing, well protecting.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
-सु॒त्रामा॑णम्+++(=सुत्राणं)+++ पृथि॒वीन् द्याम् अ॑ने॒हसँ॑+++(=अपापाम्)+++  
-सु॒शर्मा॑ण॒म् अदि॑तिँ सु॒प्रणी॑तिम् ।  
-दैवी॒न् **नावँ॑** स्व्-अरि॒त्राम्+++(=सुनौदण्डां)+++ अना॑गसो॒  
-अस्र॑वन्ती॒म् **आ रु॑हेमा** स्व॒स्तये᳚ ॥
+सुत्रा᳓माणम्+++(=सुत्राणं)+++ पृथिवी᳓न् द्या᳓म् अनेह᳓सँ+++(=अपापाम्)+++  
+सुश᳓र्माणम् अ᳓दितिँ सुप्र᳓णीतिम् ।  
+दै᳓वीन् **ना᳓वँ** स्व्-अरित्रा᳓म्+++(=सुनौदण्डां)+++ अ᳓नागसो  
+अ᳓स्रवन्तीम् **आ᳓ रुहेमा** स्वस्त᳓ये ॥
 
 </details>
 </div>
@@ -280,8 +280,8 @@ Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protect
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/04_vAjasya_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वाज॑स्य॒ नु प्र॑स॒वे मा॒तरं॑ म॒हीमदि॑तिं॒ नाम॒ वच॑सा करामहे।  
-यस्या॑ उ॒पस्थ॑ उ॒र्व१॒॑न्तरि॑क्षं॒ सा नः॒ शर्म॑ त्रि॒वरू॑थं॒ नि य॑च्छात् ॥
+वा᳓जस्य नु᳓ प्रसवे᳓ मात᳓रं मही᳓म᳓दितिं ना᳓म व᳓चसा करामहे।  
+य᳓स्या उप᳓स्थ उर्व᳙न्त᳓रिक्षं सा᳓ नः श᳓र्म त्रिव᳓रूथं नि᳓ यच्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/006_aditiH/04_vAjasya_nu.md">

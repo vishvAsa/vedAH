@@ -37,8 +37,8 @@ A lover's sleep-charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/01_sahasrashRngo_vRShabho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒हस्र॑शृङ्गो वृष॒भो यः स॑मु॒द्रादु॒दाच॑रत्।  
-तेना॑ सह॒स्ये॑ना व॒यं नि जना॑न्त्स्वापयामसि ॥
+सह᳓स्रशृङ्गो वृषभो᳓ यः᳓ समुद्रा᳓दुदा᳓चरत्।  
+ते᳓ना सहस्ये᳙ना वयं᳓ नि᳓ ज᳓नान्त्स्वापयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/01_sahasrashRngo_vRShabho.md">
@@ -102,8 +102,8 @@ The Bull who hath a thousand horns, who rises up from out the sea, By him the st
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/02_na_bhUmim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न भूमिं॒ वातो॒ अति॑ वाति॒ नाति॑ पश्यति॒ कश्च॒न।  
-स्त्रिय॑श्च॒ सर्वाः॑ स्वा॒पय॒ शुन॒श्चेन्द्र॑सखा॒ चर॑न् ॥
+न᳓ भू᳓मिं वा᳓तो अ᳓ति वाति ना᳓ति पश्यति क᳓श्चन᳓।  
+स्त्रि᳓यश्च स᳓र्वाः स्वाप᳓य शु᳓नश्चे᳓न्द्रसखा च᳓रन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/02_na_bhUmim.md">
@@ -170,8 +170,8 @@ Over the surface of the earth there breathes no wind, there looks. no eye. Lull 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रो॑ष्ठेश॒यास्त॑ल्पेश॒या नारी॒र्या व॑ह्य॒शीव॑रीः।  
-स्त्रियो॒ याः पुण्य॑गन्धय॒स्ताः सर्वाः॑ स्वापयामसि ॥
+प्रो᳙ष्ठेशया᳓स्तल्पेशया᳓ ना᳓रीर्या᳓ वह्यशी᳓वरीः।  
+स्त्रि᳓यो याः᳓ पु᳓ण्यगन्धयस्ताः᳓ स᳓र्वाः स्वापयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
@@ -239,8 +239,8 @@ The woman sleeping in the court, lying without, or stretched on beds, The matron
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/04_ejadejadajagrabhaM_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एज॑देजदजग्रभं॒ चक्षुः॑ प्रा॒णम॑जग्रभम्।  
-अङ्गा॑न्यजग्रभं॒ सर्वा॒ रात्री॑णामतिशर्व॒रे ॥
+ए᳓जदेजदजग्रभं च᳓क्षुः प्राण᳓मजग्रभम्।  
+अ᳓ङ्गान्यजग्रभं स᳓र्वा रा᳓त्रीणामतिशर्वरे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/04_ejadejadajagrabhaM_chaxuH.md">
@@ -302,8 +302,8 @@ Each moving thing have I secured, have held and held the eye and breath. Each li
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/05_ya_Aste.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य आस्ते॒ यश्चर॑ति॒ यश्च॒ तिष्ठ॑न्वि॒पश्य॑ति।  
-तेषां॒ सं द॑ध्मो॒ अक्षी॑णि॒ यथे॒दं ह॒र्म्यं तथा॑ ॥
+य᳓ आ᳓स्ते य᳓श्च᳓रति य᳓श्च ति᳓ष्ठन्विप᳓श्यति।  
+ते᳓षां सं᳓ दध्मो अ᳓क्षीणि य᳓थेदं᳓ हर्म्यं᳓ त᳓था ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/05_ya_Aste.md">
@@ -375,8 +375,8 @@ The man who sits, the man who walks, whoever stands and clearly sees Of these we
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/06_svaptu_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्वप्तु॑ मा॒ता स्वप्तु॑ पि॒ता स्वप्तु॒ श्वा स्वप्तु॑ वि॒श्पतिः॑।  
-स्वप॑न्त्वस्यै ज्ञा॒तयः॒ स्वप्त्व॒यम॒भितो॒ जनः॑ ॥
+स्व᳓प्तु माता᳓ स्व᳓प्तु पिता᳓ स्व᳓प्तु श्वा᳓ स्व᳓प्तु विश्प᳓तिः।  
+स्व᳓पन्त्वस्यै ज्ञात᳓यः स्व᳓प्त्वय᳓मभि᳓तो ज᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/06_svaptu_mAtA.md">
@@ -444,8 +444,8 @@ Sleep mother, let the father sleep, sleep dog, and master of the home. Let all h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्वप्न॑ स्वप्नाभि॒कर॑णेन॒ सर्वं॒ नि ष्वा॑पया॒ जन॑म्।  
-ओ॑त्सू॒र्यम॒न्यान्त्स्वा॒पया॑व्यु॒षं जा॑गृताद॒हमिन्द्र॑ इ॒वारि॑ष्टो॒ अक्षि॑तः ॥
+स्व᳓प्न स्वप्नाभिक᳓रणेन स᳓र्वं नि᳓ ष्वापया ज᳓नम्।  
+ओ᳙त्सूर्य᳓मन्या᳓न्त्स्वाप᳓याव्युषं᳓ जागृतादह᳓मि᳓न्द्र इवा᳓रिष्टो अ᳓क्षितः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">

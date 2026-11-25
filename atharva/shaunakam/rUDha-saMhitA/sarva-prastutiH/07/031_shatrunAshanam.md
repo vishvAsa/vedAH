@@ -37,8 +37,8 @@ A prayer for the overthrow of enemies
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॒तिभि॑र्बहु॒लाभि॑र्नो अ॒द्य या॑वच्छ्रे॒ष्ठाभि॑र्मघवन्छूर जिन्व।  
-यो नो॒ द्वेष्ट्यध॑रः॒ सस्प॑दीष्ट॒ यमु॑ द्वि॒ष्मस्तमु॑ प्रा॒णो ज॑हातु ॥
+इ᳓न्द्रोति᳓भिर्बहुला᳓भिर्नो अद्य᳓ यावच्छ्रेष्ठा᳓भिर्मघवन्छूर जिन्व।  
+यो᳓ नो द्वे᳓ष्ट्य᳓धरः स᳓स्पदीष्ट य᳓मु द्विष्म᳓स्त᳓मु प्राणो᳓ जहातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">

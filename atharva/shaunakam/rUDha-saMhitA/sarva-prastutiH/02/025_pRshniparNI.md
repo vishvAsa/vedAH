@@ -37,8 +37,8 @@ A charm against fiends who cause abortion
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/01_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॑ दे॒वी पृ॑श्निप॒र्ण्यशं॒ निरृ॑त्या अकः।  
-उ॒ग्रा हि क॑ण्व॒जम्भ॑नी॒ ताम॑भक्षि॒ सह॑स्वतीम् ॥
+शं᳓ नो देवी᳓ पृश्निपर्ण्य᳓शं नि᳓रृत्या अकः।  
+उग्रा᳓ हि᳓ कण्वज᳓म्भनी ता᳓मभक्षि स᳓हस्वतीम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/01_shaM_no.md">
@@ -119,8 +119,8 @@ The Goddess Prisniparni hath blest us, and troubled Nirriti. Fierce crusher of t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सह॑माने॒यं प्र॑थ॒मा पृ॑श्निप॒र्ण्य॑जायत।  
-तया॒हं दु॒र्णाम्नां॒ शिरो॑ वृ॒श्चामि॑ श॒कुने॑रिव ॥
+स᳓हमानेयं᳓ प्रथमा᳓ पृश्निपर्ण्य᳙जायत।  
+त᳓याहं᳓ दुर्णा᳓म्नां शि᳓रो वृश्चा᳓मि शकु᳓नेरिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
@@ -190,8 +190,8 @@ Victorious in the olden time this Prisniparni was brought forth: With her I clea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒राय॑मसृ॒क्पावा॑नं॒ यश्च॑ स्फा॒तिं जिही॑र्षति।  
-ग॑र्भा॒दं कण्वं॑ नाशय॒ पृश्नि॑पर्णि॒ सह॑स्व च ॥
+अरा᳓यमसृक्पा᳓वानं य᳓श्च स्फातिं᳓ जि᳓हीर्षति।  
+ग᳙र्भादं᳓ क᳓ण्वं नाशय पृ᳓श्निपर्णि स᳓हस्व च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
@@ -255,8 +255,8 @@ One or two of our mss. (W.I.), and several of SPP's, read in **b**
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/04_girimenA.N_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गि॒रिमे॑नाँ॒ आ वे॑शय॒ कण्वा॑ञ्जीवित॒योप॑नान्।  
-तांस्त्वं दे॑वि॒ पृश्नि॑पर्ण्य॒ग्निरि॑वानु॒दह॑न्निहि ॥
+गिरि᳓मेनाँ आ᳓ वेशय क᳓ण्वाञ्जीवितयो᳓पनान्।  
+तां᳓स्त्वं᳓ देवि पृ᳓श्निपर्ण्यग्नि᳓रिवानुद᳓हन्निहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/04_girimenA.N_A.md">
@@ -322,8 +322,8 @@ The hateful fiend who drinks the blood, and him who take away the growth, The Ka
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/05_parAcha_enAnpra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परा॑च एना॒न्प्र णु॑द॒ कण्वा॑ञ्जीवित॒योप॑नान्।  
-तमां॑सि॒ यत्र॒ गछ॑न्ति॒ तत्क्र॒व्यादो॑ अजीगमम् ॥
+प᳓राच एनान्प्र᳓ णुद क᳓ण्वाञ्जीवितयो᳓पनान्।  
+त᳓मांसि य᳓त्र ग᳓छन्ति त᳓त्क्रव्या᳓दो अजीगमम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/05_parAcha_enAnpra.md">

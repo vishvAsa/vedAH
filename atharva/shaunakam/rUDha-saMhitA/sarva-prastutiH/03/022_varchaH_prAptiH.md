@@ -37,8 +37,8 @@ The taming and training of an elephant for a king to ride on
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/01_hastivarchasaM_prathatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ह॑स्तिवर्च॒सं प्र॑थतां बृ॒हद्यशो॒ अदि॑त्या॒ यत्त॒न्वः॑ संब॒भूव॑।  
-तत्स॑र्वे॒ सम॑दु॒र्मह्य॑मे॒तद्विश्वे॑ दे॒वा अदि॑तिः स॒जोषाः॑ ॥
+ह᳙स्तिवर्चसं᳓ प्रथतां बृह᳓द्य᳓शो अ᳓दित्या य᳓त्तन्वः᳙ संबभू᳓व।  
+त᳓त्सर्वे स᳓मदुर्म᳓ह्यमेत᳓द्वि᳓श्वे देवा᳓ अ᳓दितिः सजो᳓षाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/022_varchaH_prAptiH/01_hastivarchasaM_prathatAm.md">
@@ -114,8 +114,8 @@ Famed be the Elephant's strength, the lofty glory, which out of Aditi's body too
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/02_mitrashcha_varuNashchendro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मि॒त्रश्च॒ वरु॑ण॒श्चेन्द्रो॑ रु॒द्रश्च॑ चेततुः।  
-दे॒वासो॑ वि॒श्वधा॑यस॒स्ते मा॑ञ्जन्तु॒ वर्च॑सा ॥
+मित्र᳓श्च व᳓रुणश्चे᳓न्द्रो रुद्र᳓श्च चेततुः।  
+देवा᳓सो विश्व᳓धायसस्ते᳓ माञ्जन्तु व᳓र्चसा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/022_varchaH_prAptiH/02_mitrashcha_varuNashchendro.md">
@@ -184,8 +184,8 @@ On this have Mitra, Varuna, Indra, and Rudra fixed their thought. May those all-
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/03_yena_hastI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ ह॒स्ती वर्च॑सा संब॒भूव॒ येन॒ राजा॑ मनु॒ष्ये॑ष्व॒प्स्व१॒॑न्तः।  
-येन॑ दे॒वा दे॒वता॒मग्र॒ आय॒न्तेन॒ माम॒द्य वर्च॒साग्ने॑ वर्च॒स्विनं॑ कृणु ॥
+ये᳓न हस्ती᳓ व᳓र्चसा संबभू᳓व ये᳓न रा᳓जा मनुष्ये᳙ष्वप्स्व᳙न्तः᳓।  
+ये᳓न देवा᳓ देव᳓ताम᳓ग्र आ᳓यन्ते᳓न मा᳓मद्य᳓ व᳓र्चसा᳓ग्ने वर्चस्वि᳓नं कृणु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/022_varchaH_prAptiH/03_yena_hastI.md">
@@ -259,9 +259,9 @@ The strength wherewith the Elephant was dowered, that decks a King among the men
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/04_yatte_varcho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्ते॒ वर्चो॑ जातवेदो बृ॒हद्भव॒त्याहु॑तेः।  
-याव॒त्सूर्य॑स्य॒ वर्च॑ आसु॒रस्य॑ च ह॒स्तिनः॑।  
-ताव॑न्मे अ॒श्विना॒ वर्च॒ आ ध॑त्तां॒ पुष्क॑रस्रजा ॥
+य᳓त्ते व᳓र्चो जातवेदो बृह᳓द्भ᳓वत्या᳓हुतेः।  
+या᳓वत्सू᳓र्यस्य व᳓र्च आसुर᳓स्य च हस्ति᳓नः।  
+ता᳓वन्मे अश्वि᳓ना व᳓र्च आ᳓ धत्तां पु᳓ष्करस्रजा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/022_varchaH_prAptiH/04_yatte_varcho.md">
@@ -332,8 +332,8 @@ The lofty strength which sacrifice brings, Jatavedas! unto thee, What strength t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/05_yAvachchatasraH_pradishashchaxuryAvatsamashnute.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याव॒च्चत॑स्रः प्र॒दिश॒श्चक्षु॒र्याव॑त्समश्नु॒ते।  
-ताव॑त्स॒मैत्वि॑न्द्रि॒यं मयि॒ तद्ध॑स्तिवर्च॒सम् ॥
+या᳓वच्च᳓तस्रः प्रदि᳓शश्च᳓क्षुर्या᳓वत्समश्नुते᳓।  
+ता᳓वत्समै᳓त्विन्द्रियं᳓ म᳓यि त᳓द्धस्तिवर्चस᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/022_varchaH_prAptiH/05_yAvachchatasraH_pradishashchaxuryAvatsamashnute.md">
@@ -395,8 +395,8 @@ Far as the heaven's four regions spread, far as the eye's most distant ken. So w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/06_hastI_mRgANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ह॒स्ती मृ॒गाणां॑ सु॒षदा॑मति॒ष्ठावा॑न्ब॒भूव॒ हि।  
-तस्य॒ भगे॑न॒ वर्च॑सा॒भि षि॑ञ्चामि॒ माम॒हम् ॥
+हस्ती᳓ मृगा᳓णां सुष᳓दामतिष्ठा᳓वान्बभू᳓व हि᳓।  
+त᳓स्य भ᳓गेन व᳓र्चसाभि᳓ षिञ्चामि मा᳓मह᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/022_varchaH_prAptiH/06_hastI_mRgANAm.md">

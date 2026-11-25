@@ -37,8 +37,8 @@ A prayer for protection, guidance, and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/026_sharmaprAptiH/01_Are3-sAvasmadastu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒रे॑३ ऽसा॑व॒स्मद॑स्तु हे॒तिर्दे॑वासो असत्।  
-आ॒रे अश्मा॒ यमस्य॑थ ॥
+आरे᳙ ऽसा᳓वस्म᳓दस्तु हेति᳓र्देवासो असत्।  
+आरे᳓ अ᳓श्मा य᳓म᳓स्यथ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/026_sharmaprAptiH/01_Are3-sAvasmadastu.md">
@@ -105,8 +105,8 @@ Let that Destructive Weapon be far distant from us, O ye Gods; far be the Stone 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/026_sharmaprAptiH/02_sakhAsAvasmabhyamastu_rAtiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सखा॒साव॒स्मभ्य॑मस्तु रा॒तिः सखेन्द्रो॒ भगः॑।  
-स॑वि॒ता चि॒त्ररा॑धाः ॥
+स᳓खासा᳓वस्म᳓भ्यमस्तु रातिः᳓ स᳓खे᳓न्द्रो भ᳓गः।  
+स᳙विता᳓ चित्र᳓राधाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/026_sharmaprAptiH/02_sakhAsAvasmabhyamastu_rAtiH.md">
@@ -180,8 +180,8 @@ Our friend be that Celestial Grace, Indra and Bhaga be our friends, and Savitar 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/026_sharmaprAptiH/03_yUyaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यू॒यं नः॑ प्रवतो नपा॒न्मरु॑तः॒ सूर्य॑त्वचसः।  
-शर्म॑ यच्छाथ स॒प्रथः॑ ॥
+यूयं᳓ नः प्रवतो नपान्म᳓रुतः सू᳓र्यत्वचसः।  
+श᳓र्म यच्छाथ सप्र᳓थः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/026_sharmaprAptiH/03_yUyaM_naH.md">
@@ -245,7 +245,7 @@ Thou, Offspring of the waterflood, ye Maruts, with your sun- bright skins, give 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/026_sharmaprAptiH/04_suShUdata_mRData.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॑षू॒दत॑ मृ॒डत॑ मृ॒डया॑ नस्त॒नूभ्यो॑ मय॑स्तो॒केभ्य॑स्कृ॒धि ॥
+सु᳙षूद᳓त मृड᳓त मृड᳓या नस्तनू᳓भ्यो म᳓यस्तोके᳓भ्यस्कृधि᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/026_sharmaprAptiH/04_suShUdata_mRData.md">

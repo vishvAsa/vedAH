@@ -37,8 +37,8 @@ A prayer for protection
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑नाधृ॒ष्यो जा॒तवे॑दा॒ अम॑र्त्यो वि॒राड॑ग्ने क्षत्र॒भृद्दी॑दिही॒ह।  
-विश्वा॒ अमी॑वाः प्रमु॒ञ्चन्मानु॑षीभिः शि॒वाभि॑र॒द्य परि॑ पाहि नो॒ गय॑म् ॥
+अ᳙नाधृष्यो᳓ जात᳓वेदा अ᳓मर्त्यो विरा᳓डग्ने क्षत्रभृ᳓द्दीदिहीह᳓।  
+वि᳓श्वा अ᳓मीवाः प्रमुञ्च᳓न्मा᳓नुषीभिः शिवा᳓भिरद्य᳓ प᳓रि पाहि नो ग᳓यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
@@ -113,8 +113,8 @@ Holder of sway, shine here refulgent, Agni! invincible immortal Jatavedas. With 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑ क्ष॒त्रम॒भि वा॒ममोजोऽजा॑यथा वृषभ चर्षणी॒नाम्।  
-अपा॑नुदो॒ जन॑ममित्रा॒यन्त॑मु॒रुं दे॒वेभ्यो॑ अकृणोरु लो॒कम् ॥
+इ᳓न्द्र क्षत्र᳓मभि᳓ वाम᳓मो᳓जो᳓ऽजायथा वृषभ चर्षणीना᳓म्।  
+अ᳓पानुदो ज᳓नममित्राय᳓न्तमुरुं᳓ देवे᳓भ्यो अकृणोरु लोक᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
@@ -187,8 +187,8 @@ Thou, Indra, lord and leader of the people, wast born for lovely strength and hi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/03_mRgo_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मृ॒गो न॑ भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः प॑रा॒वत॒ आ ज॑गम्या॒त्पर॑स्याः।  
-सृ॒कं सं॒शाय॑ प॒विमि॑न्द्र ति॒ग्मं वि शत्रू॑न्ताढि॒ वि मृधो॑ नुदस्व ॥
+मृगो᳓ न भीमः᳓ कुचरो᳓ गिरिष्ठाः᳓ पराव᳓त आ᳓ जगम्यात्प᳓रस्याः।  
+सृकं᳓ संशा᳓य पवि᳓मिन्द्र तिग्मं᳓ वि᳓ श᳓त्रून्ताढि वि᳓ मृ᳓धो नुदस्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/084_xatrabhRdagniH/03_mRgo_na.md">

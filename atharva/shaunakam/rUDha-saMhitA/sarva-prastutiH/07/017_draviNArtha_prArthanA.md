@@ -34,8 +34,8 @@ A prayer for wealth and children
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/01_dhAtA_dadhAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धा॒ता द॑धातु नो र॒यिमीशा॑नो॒ जग॑त॒स्पतिः॑।  
-स नः॑ पू॒र्णेन॑ यच्छतु ॥
+धाता᳓ दधातु नो रयि᳓मी᳓शानो ज᳓गतस्प᳓तिः।  
+स᳓ नः पूर्णे᳓न यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/01_dhAtA_dadhAtu.md">
@@ -99,8 +99,8 @@ May the Ordainer give us wealth, Lord, ruler of the world of life: with full han
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/02_dhAtA_dadhAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धा॒ता द॑धातु दा॒शुषे॒ प्राचीं॑ जी॒वातु॒मक्षि॑ताम्।  
-व॒यं दे॒वस्य॑ धीमहि सुम॒तिं वि॒श्वरा॑धसः ॥
+धाता᳓ दधातु दाशु᳓षे प्रा᳓चीं जीवा᳓तुम᳓क्षिताम्।  
+वयं᳓ देव᳓स्य धीमहि सुमतिं᳓ विश्व᳓राधसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/02_dhAtA_dadhAtu.md">
@@ -169,8 +169,8 @@ May Dhatar grant the worshipper henceforth imperishable life. May we obtain the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/03_dhAtA_vishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धा॒ता विश्वा॒ वार्या॑ दधातु प्र॒जाका॑माय दा॒शुषे॑ दुरो॒णे।  
-तस्मै॑ दे॒वा अ॒मृतं॒ सं व्य॑यन्तु॒ विश्वे॑ दे॒वा अदि॑तिः स॒जोषाः॑ ॥
+धाता᳓ वि᳓श्वा वा᳓र्या दधातु प्रजा᳓कामाय दाशु᳓षे दुरोणे᳓।  
+त᳓स्मै देवा᳓ अमृ᳓तं सं᳓ व्ययन्तु वि᳓श्वे देवा᳓ अ᳓दितिः सजो᳓षाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/03_dhAtA_vishvA.md">
@@ -239,8 +239,8 @@ To him may Dhatar grant all kinds of blessings who, craving children, serves him
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धा॒ता रा॒तिः स॑वि॒तेदं जु॑षन्तां प्र॒जाप॑तिर्नि॒धिप॑तिर्नो अ॒ग्निः।  
-त्वष्टा॒ विष्णुः॑ प्र॒जया॑ संररा॒णो यज॑मानाय॒ द्रवि॑णं दधातु ॥
+धाता᳓ रातिः᳓ सविते᳓दं᳓ जुषन्तां प्रजा᳓पतिर्निधि᳓पतिर्नो अग्निः᳓।  
+त्व᳓ष्टा वि᳓ष्णुः प्रज᳓या संरराणो᳓ य᳓जमानाय द्र᳓विणं दधातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">

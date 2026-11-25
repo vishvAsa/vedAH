@@ -37,8 +37,8 @@ A benediction on a newly cut water channel
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/01_yadadaH_samprayatIrahAvanadatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॒दः सं॑प्रय॒तीरहा॒वन॑दता ह॒ते।  
-तस्मा॒दा न॒द्यो॒३॒॑ नाम॑ स्थ॒ ता वो॒ नामा॑नि सिन्धवः ॥
+य᳓ददः᳓ संप्रयती᳓र᳓हाव᳓नदता हते᳓।  
+त᳓स्मादा᳓ नद्यो᳙ ना᳓म स्थ ता᳓ वो ना᳓मानि सिन्धवः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/013_ApaH/01_yadadaH_samprayatIrahAvanadatA.md">
@@ -107,8 +107,8 @@ As ye, when Ahi had been slain, flowed forth together with a roar, So are ye cal
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/02_yatpreShitA_varuNenAchChIbham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्प्रेषि॑ता॒ वरु॑णे॒नाच्छीभं॑ स॒मव॑ल्गत।  
-तदा॑प्नो॒दिन्द्रो॑ वो य॒तीस्तस्मा॒दापो॒ अनु॑ ष्ठन ॥
+य᳓त्प्रे᳓षिता व᳓रुणेना᳓च्छी᳓भं सम᳓वल्गत।  
+त᳓दाप्नोदि᳓न्द्रो वो यती᳓स्त᳓स्मादा᳓पो अ᳓नु ष्ठन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/013_ApaH/02_yatpreShitA_varuNenAchChIbham.md">
@@ -175,8 +175,8 @@ As driven forth by Varuna ye swiftly urged your rolling waves, There Indra reach
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/03_apakAmaM_syandamAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑पका॒मं स्यन्द॑माना॒ अवी॑वरत वो॒ हि क॑म्।  
-इन्द्रो॑ वः॒ शक्ति॑भिर्देवी॒स्तस्मा॒द्वार्नाम॑ वो हि॒तम् ॥
+अ᳙पकामं᳓ स्य᳓न्दमाना अ᳓वीवरत वो हि᳓ कम्।  
+इ᳓न्द्रो वः श᳓क्तिभिर्देवीस्त᳓स्माद्वा᳓र्ना᳓म वो हित᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/013_ApaH/03_apakAmaM_syandamAnA.md">
@@ -242,8 +242,8 @@ Indra restrained you with his might. Goddesses, as ye glided on Not in accordanc
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/04_eko_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एको॑ वो दे॒वोऽप्य॑तिष्ठ॒त्स्यन्द॑माना यथाव॒शम्।  
-उदा॑निषुर्म॒हीरिति॒ तस्मा॑दुद॒कमु॑च्यते ॥
+ए᳓को वो देवो᳓ऽप्यतिष्ठत्स्य᳓न्दमाना यथावश᳓म्।  
+उ᳓दानिषुर्मही᳓रि᳓ति त᳓स्मादुदक᳓मुच्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/013_ApaH/04_eko_vo.md">
@@ -319,8 +319,8 @@ One only God set foot on you flowing according to your will, The mighty ones bre
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/05_Apo_bhadrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॑ भ॒द्रा घृ॒तमिदाप॑ आसन्न॒ग्नीषोमौ॑ बिभ्र॒त्याप॒ इत्ताः।  
-ती॒व्रो रसो॑ मधु॒पृचा॑मरंग॒म आ मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा गमेत् ॥
+आ᳓पो भद्रा᳓ घृत᳓मि᳓दा᳓प आसन्नग्नी᳓षो᳓मौ बिभ्रत्या᳓प इ᳓त्ताः᳓।  
+तीव्रो᳓ र᳓सो मधुपृ᳓चामरंगम᳓ आ᳓ मा प्राणे᳓न सह᳓ व᳓र्चसा गमेत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/013_ApaH/05_Apo_bhadrA.md">
@@ -398,8 +398,8 @@ water to be had in view.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/06_AditpashyAmyuta_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आदित्प॑श्याम्यु॒त वा॑ शृणो॒म्या मा॒ घोषो॑ गच्छति॒ वाङ्मा॑साम्।  
-मन्ये॑ भेजा॒नो अ॒मृत॑स्य॒ तर्हि॒ हिर॑ण्यवर्णा॒ अतृ॑पं य॒दा वः॑ ॥
+आ᳓दि᳓त्पश्याम्युत᳓ वा शृणोम्या᳓ मा घो᳓षो गच्छति वा᳓ङ्मासाम्।  
+म᳓न्ये भेजानो᳓ अमृ᳓तस्य त᳓र्हि हि᳓रण्यवर्णा अ᳓तृपं यदा᳓ वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/013_ApaH/06_AditpashyAmyuta_vA.md">
@@ -469,8 +469,8 @@ edition *amṛ́tastha* is a misprint for *-sya.*⌋
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/013_ApaH/07_idaM_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं व॑ आपो॒ हृद॑यम॒यं व॒त्स ऋ॑तावरीः।  
-इ॒हेत्थमेत॑ शक्वरी॒र्यत्रे॒दं वे॒शया॑मि वः ॥
+इदं᳓ व आपो हृ᳓दयमयं᳓ वत्स᳓ ऋतावरीः।  
+इहे᳓त्थ᳓मे᳓त शक्वरीर्य᳓त्रेदं᳓ वेश᳓यामि वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/013_ApaH/07_idaM_va.md">

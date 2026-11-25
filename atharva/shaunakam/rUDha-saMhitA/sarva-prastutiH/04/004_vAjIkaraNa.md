@@ -37,8 +37,8 @@ A charm to restore virile power
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/01_ya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य त्वा॑ गन्ध॒र्वो अख॑न॒द्वरु॑णाय मृ॒तभ्र॑जे।  
-तां त्वा॑ व॒यं ख॑नाम॒स्योष॑धिं शेप॒हर्ष॑णीम् ॥
+य᳓ त्वा गन्धर्वो᳓ अ᳓खनद्व᳓रुणाय मृत᳓भ्रजे।  
+तां᳓ त्वा वयं᳓ खनामस्यो᳓षधिं शेपह᳓र्षणीम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/01_ya_tvA.md">
@@ -109,8 +109,8 @@ We dig thee from the earth, the Plant which strengthens and exalts the nerves, T
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/02_uduShA_udu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदु॒षा उदु॒ सूर्य॒ उदि॒दं मा॑म॒कं वचः॑।  
-उदे॑जतु प्र॒जाप॑ति॒र्वृषा॒ शुष्मे॑ण वा॒जिना॑ ॥
+उ᳓दुषा᳓ उ᳓दु सू᳓र्य उ᳓दिदं᳓ मामकं᳓ व᳓चः।  
+उ᳓देजतु प्रजा᳓पतिर्वृ᳓षा शु᳓ष्मेण वाजि᳓ना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/02_uduShA_udu.md">
@@ -181,8 +181,8 @@ Let Ushas and let Surya rise, let this the speech I utter rise. Let the strong m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/03_yathA_sma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ स्म ते वि॒रोह॑तो॒ऽभित॑प्तमि॒वान॑ति।  
-तत॑स्ते॒ शुष्म॑वत्तरमि॒यं कृ॑णो॒त्वोष॑धिः ॥
+य᳓था स्म ते विरो᳓हतोऽभि᳓तप्तमिवा᳓नति।  
+त᳓तस्ते शु᳓ष्मवत्तरमियं᳓ कृणोत्वो᳓षधिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/03_yathA_sma.md">
@@ -255,8 +255,8 @@ Sicut tui surgentis (membrum virile) tanquam inflammatum palpitat, hoc illud tui
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/04_uchChuShmauShadhInAM_sAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उच्छुष्मौष॑धीनां॒ सार॑ ऋष॒भाणा॑म्।  
-सं पुं॒सामि॑न्द्र॒ वृष्ण्य॑म॒स्मिन्धे॑हि तनूवशिन् ॥
+उ᳓च्छु᳓ष्मौ᳓षधीनां सा᳓र ऋषभा᳓णाम्।  
+सं᳓ पुंसा᳓मिन्द्र वृ᳓ष्ण्यमस्मि᳓न्धेहि तनूवशिन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/04_uchChuShmauShadhInAM_sAra.md">
@@ -328,8 +328,8 @@ Sursum (estote) herbarum vires, taurorum vigor. Tu, Indra, corporis potens, viro
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/05_apAM_rasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पां रसः॑ प्रथम॒जोऽथो॒ वन॒स्पती॑नाम्।  
-उ॒त सोम॑स्य॒ भ्राता॑स्यु॒तार्शम॑सि॒ वृष्ण्य॑म् ॥
+अपां᳓ र᳓सः प्रथमजो᳓ऽथो व᳓नस्प᳓तीनाम्।  
+उत᳓ सो᳓मस्य भ्रा᳓तास्युता᳓र्श᳓मसि वृ᳓ष्ण्यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/05_apAM_rasaH.md">
@@ -395,8 +395,8 @@ Ros aquarum primigenitus atque arborum, Somae etiam frater es, vatum sacrorum ma
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/06_adyAgne_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒द्याग्ने॑ अ॒द्य स॑वितर॒द्य दे॑वि सरस्वति।  
-अ॒द्यास्य ब्र॑ह्मणस्पते॒ धनु॑रि॒वा ता॑नया॒ पसः॑ ॥
+अद्या᳓ग्ने अद्य᳓ सवितरद्य᳓ देवि सरस्वति।  
+अद्या᳓स्य᳓ ब्रह्मणस्पते ध᳓नुरिवा᳓ तानया प᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/06_adyAgne_adya.md">
@@ -492,8 +492,8 @@ Hodie, Agnis! hodie Savitar! hodie dea Sarasvatis! hodie Brahmanaspatis! hujus f
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/07_AhaM_tanomi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आहं त॑नोमि ते॒ पसो॒ अधि॒ ज्यामि॑व॒ धन्व॑नि।  
-क्रम॒स्वर्श॑ इव रो॒हित॒मन॑वग्लायता॒ सदा॑ ॥
+आ᳓हं᳓ तनोमि ते प᳓सो अ᳓धि ज्या᳓मिव ध᳓न्वनि।  
+क्र᳓मस्व᳓र्श इव रोहि᳓तम᳓नवग्लायता स᳓दा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/07_AhaM_tanomi.md">
@@ -550,8 +550,8 @@ Velut nervum in arcu ego tuum fascinum extendo. Aggredere (mulierem) semper inde
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/08_ashvasyAshvatarasyAjasya_petvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अश्व॑स्याश्वत॒रस्या॒जस्य॒ पेत्व॑स्य च।  
-अथ॑ ऋष॒भस्य॒ ये वाजा॒स्तान॒स्मिन्धे॑हि तनूवशिन् ॥
+अ᳓श्वस्याश्वतर᳓स्याज᳓स्य पे᳓त्वस्य च।  
+अ᳓थ ऋषभ᳓स्य ये᳓ वा᳓जास्ता᳓नस्मि᳓न्धेहि तनूवशिन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/08_ashvasyAshvatarasyAjasya_petvasya.md">

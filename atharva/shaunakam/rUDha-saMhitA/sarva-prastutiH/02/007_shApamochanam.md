@@ -37,8 +37,8 @@ A counter-charm against imprecation and malignity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/01_aghadviShTA_devajAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒घद्वि॑ष्टा दे॒वजा॑ता वी॒रुच्छ॑पथ॒योप॑नी।  
-आपो॒ मल॑मिव॒ प्राणै॑क्षी॒त्सर्वा॒न्मच्छ॒पथाँ॒ अधि॑ ॥
+अघ᳓द्विष्टा देव᳓जाता वीरु᳓च्छपथयो᳓पनी।  
+आ᳓पो म᳓लमिव प्रा᳓णैक्षीत्स᳓र्वान्म᳓च्छप᳓थाँ अ᳓धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/01_aghadviShTA_devajAtA.md">
@@ -106,8 +106,8 @@ Hated by sinners, sprung from Gods, this Plant that turns the curse away Hath wa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/02_yashcha_sApatnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यश्च॑ साप॒त्नः श॒पथो॑ जा॒म्याः श॒पथ॑श्च॒ यः।  
-ब्र॒ह्मा यन्म॑न्यु॒तः शपा॒त्सर्वं॒ तन्नो॑ अधस्प॒दम् ॥
+य᳓श्च सापत्नः᳓ शप᳓थो जाम्याः᳓ शप᳓थश्च यः᳓।  
+ब्रह्मा᳓ य᳓न्मन्युतः᳓ श᳓पात्स᳓र्वं त᳓न्नो अधस्पद᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/02_yashcha_sApatnaH.md">
@@ -171,8 +171,8 @@ All curses of a rival, each curse of a female relative, Curse uttered by an augr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/03_divo_mUlamavatatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वो मूल॒मव॑ततं पृथि॒व्या अध्युत्त॑तम्।  
-तेन॑ स॒हस्र॑काण्डेन॒ परि॑ णः पाहि वि॒श्वतः॑ ॥
+दिवो᳓ मू᳓लम᳓वततं पृथिव्या᳓ अ᳓ध्यु᳓त्ततम्।  
+ते᳓न सह᳓स्रकाण्डेन प᳓रि णः पाहि विश्व᳓तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/03_divo_mUlamavatatam.md">
@@ -235,8 +235,8 @@ Spread on the surface of the earth, downward from heaven thy root depends: With 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/04_pari_mAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॒ मां परि॑ मे प्र॒जां परि॑ णः पाहि॒ यद्धन॑म्।  
-अरा॑तिर्नो॒ मा ता॑री॒न्मा न॑स्तारि॒शुर॒भिमा॑तयः ॥
+प᳓रि मां᳓ प᳓रि मे प्रजां᳓ प᳓रि णः पाहि य᳓द्ध᳓नम्।  
+अ᳓रातिर्नो मा᳓ तारीन्मा᳓ नस्तारिशु᳓रभि᳓मातयः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/04_pari_mAm.md">
@@ -306,8 +306,8 @@ Guard on all sides this woman, guard my children, us, and all our wealth! Let no
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/05_shaptArametu_shapatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒प्तार॑मेतु श॒पथो॒ यः सु॒हार्त्तेन॑ नः स॒ह।  
-चक्षु॑र्मन्त्रस्य दु॒र्हार्दः॑ पृ॒ष्टीरपि॑ शृणीमसि ॥
+शप्ता᳓रमेतु शप᳓थो यः᳓ सुहा᳓र्त्ते᳓न नः सह᳓।  
+च᳓क्षुर्मन्त्रस्य दुर्हा᳓र्दः पृष्टी᳓र᳓पि शृणीमसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/05_shaptArametu_shapatho.md">

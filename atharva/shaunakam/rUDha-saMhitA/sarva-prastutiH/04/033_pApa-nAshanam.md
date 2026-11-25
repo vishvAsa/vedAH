@@ -37,8 +37,8 @@ A prayer to Agni for protection and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/01_apa_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अप॑ नः॒ शोशु॑चद॒घमग्ने॑ शुशु॒ग्ध्या र॒यिम्।  
-अप॑ नः॒ शोशु॑चद॒घम् ॥
+अ᳓प नः शो᳓शुचदघ᳓म᳓ग्ने शुशुग्ध्या᳓ रयि᳓म्।  
+अ᳓प नः शो᳓शुचदघ᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/01_apa_naH.md">
@@ -103,8 +103,8 @@ Chasing our pain with splendid light, O Agni, shine thou wealth on us. His lustr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॑क्षेत्रि॒या सु॑गातु॒या व॑सू॒या च॑ यजामहे।  
-अप॑ नः॒ शोशु॑चद॒घम् ॥
+सु᳙क्षेत्रिया᳓ सुगातुया᳓ वसूया᳓ च यजामहे।  
+अ᳓प नः शो᳓शुचदघ᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
@@ -164,8 +164,8 @@ For goodly fields, for pleasant homes, for wealth we sacrifice to thee. His lust
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/03_pra_yadbhandiShTha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र यद्भन्दि॑ष्ठ एषां॒ प्रास्माका॑सश्च सू॒रयः॑।  
-अप॑ नः॒ शोशु॑चद॒घम् ॥
+प्र᳓ य᳓द्भ᳓न्दिष्ठ एषां प्रा᳓स्मा᳓कासश्च सूर᳓यः।  
+अ᳓प नः शो᳓शुचदघ᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/03_pra_yadbhandiShTha.md">
@@ -225,8 +225,8 @@ Best praiser of all these be he, and foremost be our noble chiefs. His lustre fl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/04_pra_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र यत्ते॑ अग्ने सू॒रयो॒ जाये॑महि॒ प्र ते॑ व॒यम्।  
-अप॑ नः॒ शोशु॑चद॒घम् ॥
+प्र᳓ य᳓त्ते अग्ने सूर᳓यो जा᳓येमहि प्र᳓ ते वय᳓म्।  
+अ᳓प नः शो᳓शुचदघ᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/04_pra_yatte.md">
@@ -286,8 +286,8 @@ So that thy worshipper and we, thine, Agni! in our sons may live. His lustre fla
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/05_pra_yadagneH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र यद॒ग्नेः सह॑स्वतो वि॒श्वतो॒ यन्ति॑ भा॒नवः॑।  
-अप॑ नः॒ शोशु॑चद॒घम् ॥
+प्र᳓ य᳓दग्नेः᳓ स᳓हस्वतो विश्व᳓तो य᳓न्ति भान᳓वः।  
+अ᳓प नः शो᳓शुचदघ᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/05_pra_yadagneH.md">
@@ -357,8 +357,8 @@ As ever conquering Agni's beams of splendour go to every side, His lustre flash 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/06_tvaM_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं हि वि॑श्वतोमुख वि॒श्वतः॑ परि॒भूर॑सि।  
-अप॑ नः॒ शोशु॑चद॒घम् ॥
+त्वं᳓ हि᳓ विश्वतोमुख विश्व᳓तः परिभू᳓रसि।  
+अ᳓प नः शो᳓शुचदघ᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/06_tvaM_hi.md">
@@ -418,8 +418,8 @@ To every side thy face is turned, thou art triumphant everywhere. His lustre fla
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/07_dviSho_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्विषो॑ नो विश्वतोमु॒खाति॑ ना॒वेव॑ पारय।  
-अप॑ नः॒ शोशु॑चद॒घम् ॥
+द्वि᳓षो नो विश्वतोमुखा᳓ति नावे᳓व पारय।  
+अ᳓प नः शो᳓शुचदघ᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/07_dviSho_no.md">
@@ -479,8 +479,8 @@ O thou whose face looks every way, bear off our foes as in a ship. His lustre fl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/08_sa_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स नः॒ सिन्धु॑मिव ना॒वाति॑ पर्षा स्व॒स्तये॑।  
-अप॑ नः॒ शोशु॑चद॒घम् ॥
+स᳓ नः सि᳓न्धुमिव नावा᳓ति पर्षा स्वस्त᳓ये।  
+अ᳓प नः शो᳓शुचदघ᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/08_sa_naH.md">

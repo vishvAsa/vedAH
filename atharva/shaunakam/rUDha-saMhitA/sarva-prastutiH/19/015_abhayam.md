@@ -37,8 +37,8 @@ A prayer for peace and security
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/01_yata_indra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत॑ इन्द्र॒ भया॑महे॒ ततो॑ नो॒ अभ॑यं कृधि।  
-मघ॑वञ्छ॒ग्धि तव॒ त्वं न॑ ऊ॒तिभि॒र्वि द्विषो॒ वि मृधो॑ जहि ॥
+य᳓त इन्द्र भ᳓यामहे त᳓तो नो अ᳓भयं कृधि।  
+म᳓घवञ्छग्धि᳓ त᳓व त्वं᳓ न ऊति᳓भिर्वि᳓ द्वि᳓षो वि᳓ मृ᳓धो जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/01_yata_indra.md">
@@ -110,8 +110,8 @@ Indra, give us security from that whereof we are afraid. Help us, O Maghavan, le
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/02_indraM_vayamanUrAdham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रं॑ व॒यम॑नूरा॒धं ह॑वाम॒हेऽनु॑ राध्यास्म द्वि॒पदा॒ चतु॑ष्पदा।  
-मा नः॒ सेना॒ अर॑रुषी॒रुप॑ गु॒र्विषू॑चीरिन्द्र द्रु॒हो वि ना॑शय ॥
+इ᳓न्द्रं वय᳓मनूराधं᳓ हवामहे᳓ऽनु राध्यास्म द्विप᳓दा च᳓तुष्पदा।  
+मा᳓ नः से᳓ना अ᳓ररुषीरु᳓प गुर्वि᳓षूचीरिन्द्र द्रुहो᳓ वि᳓ नाशय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/02_indraM_vayamanUrAdham.md">
@@ -179,8 +179,8 @@ We call on Indra, on the liberal giver: we will be prosperous in men and cattle.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/03_indrastrAtota_vRtrahA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्त्रा॒तोत वृ॑त्र॒हा प॑र॒स्फानो॒ वरे॑ण्यः।  
-स र॑क्षि॒ता च॑रम॒तः स म॑ध्य॒तः स प॒श्चात्स पु॒रस्ता॑न्नो अस्तु ॥
+इ᳓न्द्रस्त्रातो᳓त᳓ वृत्रहा᳓ परस्फा᳓नो व᳓रेण्यः।  
+स᳓ रक्षिता᳓ चरमतः᳓ स᳓ मध्यतः᳓ स᳓ पश्चा᳓त्स᳓ पुर᳓स्तान्नो अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/03_indrastrAtota_vRtrahA.md">
@@ -251,8 +251,8 @@ Best, making household wealth increase. Indra our saviour, kills the foe. May he
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/04_uruM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒रुं नो॑ लो॒कमनु॑ नेषि वि॒द्वान्त्स्व१॒॑र्यज्ज्योति॒रभ॑यं स्व॒स्ति।  
-उ॒ग्रा त॑ इन्द्र॒ स्थवि॑रस्य बा॒हू उप॑ क्षयेम शर॒णा बृ॒हन्ता॑ ॥
+उरुं᳓ नो लोक᳓म᳓नु नेषि विद्वा᳓न्त्स्व᳙र्य᳓ज्ज्यो᳓तिर᳓भयं स्वस्ति᳓।  
+उग्रा᳓ त इन्द्र स्थ᳓विरस्य बाहू᳓ उ᳓प क्षयेम शरणा᳓ बृह᳓न्ता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/04_uruM_no.md">
@@ -321,8 +321,8 @@ Lead us to ample room. O thou who knowest, to happiness security, and sunlight. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/05_abhayaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अभ॑यं नः करत्य॒न्तरि॑क्ष॒मभ॑यं॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे।  
-अभ॑यं प॒श्चादभ॑यं पु॒रस्ता॑दुत्त॒राद॑ध॒रादभ॑यं नो अस्तु ॥
+अ᳓भयं नः करत्यन्त᳓रिक्षम᳓भयं द्या᳓वापृथिवी᳓ उभे᳓ इमे᳓।  
+अ᳓भयं पश्चा᳓द᳓भयं पुर᳓स्तादुत्तरा᳓दधरा᳓द᳓भयं नो अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/05_abhayaM_naH.md">
@@ -387,8 +387,8 @@ May air's mid-region give us peace and safety, safety may both these, Heaven and
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/06_abhayaM_mitrAdabhayamamitrAdabhayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अभ॑यं मि॒त्रादभ॑यम॒मित्रा॒दभ॑यं ज्ञा॒तादभ॑यं पु॒रो यः।  
-अभ॑यं॒ नक्त॒मभ॑यं दिवा नः॒ सर्वा॒ आशा॒ मम॑ मि॒त्रं भ॑वन्तु ॥
+अ᳓भयं मित्रा᳓द᳓भयममि᳓त्राद᳓भयं ज्ञाता᳓द᳓भयं पुरो᳓ यः᳓।  
+अ᳓भयं न᳓क्तम᳓भयं दिवा नः स᳓र्वा आ᳓शा म᳓म मित्रं᳓ भवन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/06_abhayaM_mitrAdabhayamamitrAdabhayam.md">

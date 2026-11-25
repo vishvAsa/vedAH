@@ -37,8 +37,8 @@ A prayer for security and peace on all sides
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/01_agniM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निं ते वसु॑वन्तमृच्छन्तु।  
-ये मा॑ऽघा॒यवः॒ प्राच्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+अग्निं᳓ ते᳓ व᳓सुवन्तमृच्छन्तु।  
+ये᳓ माऽघाय᳓वः प्रा᳓च्या दिशो᳙ऽभिदा᳓सात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/01_agniM_te.md">
@@ -107,8 +107,8 @@ Let those who vex me from the eastern region, sinners, praise Agni followed by t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/02_vAyuM_tentarixavantamRchChantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒युं ते॒३॒॑न्तरि॑क्षवन्तमृच्छन्तु।  
-ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+वायुं᳓ ते᳙न्त᳓रिक्षवन्तमृच्छन्तु।  
+ये᳓ माघाय᳓व एत᳓स्या दिशो᳙ऽभिदा᳓सात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/02_vAyuM_tentarixavantamRchChantu.md">
@@ -168,8 +168,8 @@ Let those who vex me from this quarter, sinners, praise Vayu compassed by the Ai
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/03_somaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमं॒ ते रु॒द्रव॑न्तमृच्छन्तु।  
-ये मा॑ऽघा॒यवो॒ दक्षि॑णाया दि॒शो᳡ऽभि॒दासा॑त् ॥
+सो᳓मं ते᳓ रुद्र᳓वन्तमृच्छन्तु।  
+ये᳓ माऽघाय᳓वो द᳓क्षिणाया दिशो᳙ऽभिदा᳓सात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/03_somaM_te.md">
@@ -229,8 +229,8 @@ Let those who vex me from the southern quarter, sinners, sing praise to Soma wit
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/04_varuNaM_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वरु॑णं॒ त आ॑दि॒त्यव॑न्तमृच्छन्तु।  
-ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+व᳓रुणं त᳓ आदित्य᳓वन्तमृच्छन्तु।  
+ये᳓ माऽघाय᳓व एत᳓स्या दिशो᳙ऽभिदा᳓सात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/04_varuNaM_ta.md">
@@ -291,8 +291,8 @@ Let those who vex me from this quarter, sinners, praise Varuna connected with Ad
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/05_sUryaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्यं॒ ते द्यावा॑पृथि॒वीव॑न्तमृच्छन्तु।  
-ये मा॑ऽघा॒यव॑ प्र॒तीच्याः॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+सू᳓र्यं ते᳓ द्या᳓वापृथिवी᳓वन्तमृच्छन्तु।  
+ये᳓ माऽघाय᳓व प्रती᳓च्याः दिशो᳙ऽभिदा᳓सात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/05_sUryaM_te.md">
@@ -353,8 +353,8 @@ Let those who vex me from the western quarter, sinners, praise Surya linked with
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/06_apasta_oShadhImatIrRchChantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पस्त ओष॑धीमतीरृच्छन्तु।  
-ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+अप᳓स्त᳓ ओ᳓षधीमतीरृच्छन्तु।  
+ये᳓ माऽघाय᳓व एत᳓स्या दिशो᳙ऽभिदा᳓सात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/06_apasta_oShadhImatIrRchChantu.md">
@@ -414,8 +414,8 @@ Let those who vex me from this quarter, sinners give praise to plants' associate
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/07_vishvakarmANaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒श्वक॑र्माणं॒ ते स॑प्तऋ॒षिव॑न्तमृच्छन्तु।  
-ये मा॑ऽघा॒यव॒ उदी॑च्या दि॒शो᳡ऽभि॒दासा॑त् ॥
+विश्व᳓कर्माणं ते᳓ सप्तऋषि᳓वन्तमृच्छन्तु।  
+ये᳓ माऽघाय᳓व उ᳓दीच्या दिशो᳙ऽभिदा᳓सात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/07_vishvakarmANaM_te.md">
@@ -477,8 +477,8 @@ Let those who from the north side vex me, sinners, praise Visvakarman with the S
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/08_indraM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रं॒ ते म॒रुत्व॑न्तमृच्छन्तु।  
-ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+इ᳓न्द्रं ते᳓ मरु᳓त्वन्तमृच्छन्तु।  
+ये᳓ माऽघाय᳓व एत᳓स्या दिशो᳙ऽभिदा᳓सात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/08_indraM_te.md">
@@ -538,8 +538,8 @@ Let those who vex me from this quarter, sinners, praise Indra with the Marut hos
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/09_prajApatiM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाप॑तिं॒ ते प्र॒जन॑नवन्तमृच्छन्तु।  
-ये मा॑ऽघा॒यवो॑ ध्रु॒वाया॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+प्रजा᳓पतिं ते᳓ प्रज᳓ननवन्तमृच्छन्तु।  
+ये᳓ माऽघाय᳓वो ध्रुवा᳓या दिशो᳙ऽभिदा᳓सात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/09_prajApatiM_te.md">
@@ -599,8 +599,8 @@ Let those who vex me from the nadir, sinners, extol Prajapati of genial power.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/10_bRhaspatiM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृह॒स्पतिं॒ ते वि॒श्वदे॑ववन्तमृच्छन्तु।  
-ये मा॑ऽघा॒यव॑ ऊ॒र्ध्वाया॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+बृ᳓हस्प᳓तिं ते᳓ विश्व᳓देववन्तमृच्छन्तु।  
+ये᳓ माऽघाय᳓व ऊर्ध्वा᳓या दिशो᳙ऽभिदा᳓सात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/10_bRhaspatiM_te.md">

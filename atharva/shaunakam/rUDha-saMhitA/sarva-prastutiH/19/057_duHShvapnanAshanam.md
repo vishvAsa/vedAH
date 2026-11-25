@@ -38,8 +38,8 @@ A charm against evil dreams
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/01_yathA_kalAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति।  
-ए॒वा दुः॒ष्वप्न्यं॒ सर्व॒मप्रि॑ये॒ सं न॑यामसि ॥
+य᳓था कलां᳓ य᳓था शफं᳓ य᳓थर्णं᳓ संन᳓यन्ति।  
+एवा᳓ दुःष्व᳓प्न्यं स᳓र्वम᳓प्रिये सं᳓ नयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/01_yathA_kalAm.md">
@@ -104,8 +104,8 @@ As men discharge the utmost debt, collect the eighth and sixteenth part, So to t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं राजा॑नो अगुः॒ समृ॒णान्य॑गुः॒ सं कु॒ष्ठा अ॑गुः॒ सं क॒ला अ॑गुः।  
-सम॒स्मासु॒ यद्दुः॒ष्वप्न्यं॒ निर्द्वि॑ष॒ते दुः॒ष्वप्न्यं॑ सुवाम ॥
+सं᳓ रा᳓जानो अगुः स᳓मृणा᳓न्यगुः सं᳓ कुष्ठा᳓ अगुः सं᳓ कला᳓ अगुः।  
+स᳓मस्मा᳓सु य᳓द्दुःष्व᳓प्न्यं नि᳓र्द्विषते᳓ दुःष्व᳓प्न्यं सुवाम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
@@ -181,9 +181,9 @@ Princes came together, debts came together, Kushthas came to- gether, Sixteenths
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/03_devAnAM_patnInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-देवा॑नां पत्नीनां गर्भ॒ यम॑स्य कर॒ यो भ॒द्रः स्व॑प्न।  
-स मम॒ यः पा॒पस्तद्द्वि॑ष॒ते प्र हि॑ण्मः।  
-मा तृ॒ष्टाना॑मसि कृष्णशकु॒नेर्मुख॑म् ॥
+दे᳓वानां पत्नीनां गर्भ य᳓मस्य कर यो᳓ भद्रः᳓ स्वप्न।  
+स᳓ म᳓म यः᳓ पाप᳓स्त᳓द्द्विषते᳓ प्र᳓ हिण्मः।  
+मा᳓ तृष्टा᳓नामसि कृष्णशकुने᳓र्मु᳓खम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/03_devAnAM_patnInAm.md">
@@ -262,8 +262,8 @@ Child of Gods' Consorts, minister of Yama is the good Dream: that which is my tr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/04_taM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स त्वं स्व॒प्नाश्व॑ इव का॒यमश्व॑ इव नीना॒हम्।  
-अ॑नास्मा॒कं दे॑वपी॒युं पिया॑रुं वप॒ यद॒स्मासु॑ दुः॒ष्वप्न्यं॒ यद्गोषु॒ यच्च॑ नो गृ॒हे ॥
+तं᳓ त्वा स्वप्न त᳓था सं᳓ विद्म स᳓ त्वं᳓ स्वप्ना᳓श्व इव काय᳓म᳓श्व इव नीनाह᳓म्।  
+अ᳙नास्माकं᳓ देवपीयुं᳓ पि᳓यारुं वप य᳓दस्मा᳓सु दुःष्व᳓प्न्यं य᳓द्गो᳓षु य᳓च्च नो गृहे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/04_taM_tvA.md">
@@ -354,9 +354,9 @@ Thou whose name is Rough art the mouth of the Black Bird. As such we know thee, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/05_anAsmAkastaddevapIyuH_piyArurniShkamiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑नास्मा॒कस्तद्दे॑वपी॒युः पिया॑रुर्नि॒ष्कमि॑व॒ प्रति॑ मुञ्चताम्।  
-नवा॑र॒त्नीनप॑मया अ॒स्माकं॒ ततः॒ परि॑।  
-दुः॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते निर्द॑यामसि ॥
+अ᳙नास्माक᳓स्त᳓द्देवपीयुः᳓ पि᳓यारुर्निष्क᳓मिव प्र᳓ति मुञ्चताम्।  
+न᳓वारत्नी᳓न᳓पमया अस्मा᳓कं त᳓तः प᳓रि।  
+दुःष्व᳓प्न्यं स᳓र्वं द्विषते᳓ नि᳓र्दयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/05_anAsmAkastaddevapIyuH_piyArurniShkamiva.md">

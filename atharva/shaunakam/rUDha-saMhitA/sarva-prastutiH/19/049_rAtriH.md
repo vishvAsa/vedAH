@@ -37,8 +37,8 @@ A hymn of Praise and prayer to Night
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/01_iShirA_yoShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॑षि॒रा योषा॑ युव॒तिर्दमू॑ना॒ रात्री॑ दे॒वस्य॑ सवि॒तुर्भग॑स्य।  
-अ॑श्वक्ष॒भा सु॒हवा॒ संभृ॑तश्री॒रा प॑प्रौ॒ द्यावा॑पृथि॒वी म॑हि॒त्वा ॥
+इ᳙षिरा᳓ यो᳓षा युवति᳓र्द᳓मूना रा᳓त्री देव᳓स्य सवितु᳓र्भ᳓गस्य।  
+अ᳙श्वक्षभा᳓ सुह᳓वा सं᳓भृतश्रीरा᳓ पप्रौ द्या᳓वापृथिवी᳓ महित्वा᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/01_iShirA_yoShA.md">
@@ -111,8 +111,8 @@ Friend of the home, the strong and youthful maiden, Night, dear to Savitar the G
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/02_ati_vishvAnyaruhadgambhIro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अति॒ विश्वा॑न्यरुहद्गम्भी॒रो वर्षि॑ष्ठमरुहन्त॒ श्रवि॑ष्ठाः।  
-उ॑श॒ती रात्र्यनु॒ सा भ॑द्रा॒भि ति॑ष्ठते मि॒त्र इ॑व स्व॒धाभिः॑ ॥
+अ᳓ति वि᳓श्वान्यरुहद्गम्भीरो᳓ व᳓र्षिष्ठमरुहन्त श्र᳓विष्ठाः।  
+उ᳙शती᳓ रा᳓त्र्य᳓नु सा᳓ भद्राभि᳓ तिष्ठते मित्र᳓ इव स्वधा᳓भिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/02_ati_vishvAnyaruhadgambhIro.md">
@@ -240,8 +240,8 @@ Over all depths hath she gone up, and mounted, most mighty One, the sky's exalte
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/03_varye_vande.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वर्ये॒ वन्दे॒ सुभ॑गे॒ सुजा॑त॒ आज॑ग॒न्रात्रि॑ सु॒मना॑ इ॒ह स्या॑म्।  
-अ॒स्मांस्त्रा॑यस्व॒ नर्या॑णि जा॒ता अथो॒ यानि॒ गव्या॑नि पु॒ष्ठ्या ॥
+व᳓र्ये व᳓न्दे सु᳓भगे सु᳓जात आ᳓जगन्रा᳓त्रि सुम᳓ना इह᳓ स्याम्।  
+अस्मां᳓स्त्रायस्व न᳓र्याणि जाता᳓ अ᳓थो या᳓नि ग᳓व्यानि पुष्ठ्या᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/03_varye_vande.md">
@@ -326,8 +326,8 @@ Excellent, high-born, blissful, meet for worship, Night, thou hast come: stay he
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सिं॒हस्य॒ रात्र्यु॑श॒ती पीं॒षस्य॑ व्या॒घ्रस्य॑ द्वी॒पिनो॒ वर्च॒ आ द॑दे।  
-अश्व॑स्य ब्र॒ध्नं पुरु॑षस्य मा॒युं पु॒रु रू॒पाणि॑ कृणुषे विभा॒ती ॥
+सिंह᳓स्य रा᳓त्र्युशती᳓ पींष᳓स्य व्याघ्र᳓स्य द्वीपि᳓नो व᳓र्च आ᳓ ददे।  
+अ᳓श्वस्य ब्रध्नं᳓ पु᳓रुषस्य मायुं᳓ पुरु᳓ रूपा᳓णि कृणुषे विभाती᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
@@ -404,8 +404,8 @@ With eager haste hath Night assumed the vigour of leopard,. tiger, or of tawny l
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/05_shivAM_rAtrimanusUryam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि॒वां रात्रि॑मनु॒सूर्यं॑ च हि॒मस्य॑ मा॒ता सु॒हवा॑ नो अस्तु।  
-अ॒स्य स्तोम॑स्य सुभगे॒ नि बो॑ध॒ येन॑ त्वा॒ वन्दे॒ विश्वा॑सु दि॒क्षु ॥
+शिवां᳓ रा᳓त्रिमनुसू᳓र्यं च हिम᳓स्य माता᳓ सुह᳓वा नो अस्तु।  
+अस्य᳓ स्तो᳓मस्य सुभगे नि᳓ बोध ये᳓न त्वा व᳓न्दे वि᳓श्वासु दिक्षु᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/05_shivAM_rAtrimanusUryam.md">
@@ -481,8 +481,8 @@ Kind through the Night be absence of the sunshine: Mother of Frost, may she be s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/06_stomasya_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्तोम॑स्य नो विभावरि॒ रात्रि॒ राजे॑व जोषसे।  
-असा॑म॒ सर्व॑वीरा॒ भवा॑म॒ सर्व॑वेदसो व्यु॒च्छन्ती॒रनू॒षसः॑ ॥
+स्तो᳓मस्य नो विभावरि रा᳓त्रि रा᳓जेव जोषसे।  
+अ᳓साम स᳓र्ववीरा भ᳓वाम स᳓र्ववेदसो व्युच्छ᳓न्तीर᳓नूष᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/06_stomasya_no.md">
@@ -547,8 +547,8 @@ Even as a King, O splendid Night, thou takest pleasure in our hymn. May we throu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/07_shamyA_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शम्या॑ ह॒ नाम॑ दधि॒षे मम॒ दिप्स॑न्ति॒ ये धना॑।  
-रात्री॒हि तान॑सुत॒पा य स्ते॒नो न वि॒द्यते॒ यत्पुन॒र्न वि॒द्यते॑ ॥
+श᳓म्या ह ना᳓म दधिषे᳓ म᳓म दि᳓प्सन्ति ये᳓ ध᳓ना।  
+रा᳓त्रीहि᳓ ता᳓नसुतपा᳓ य᳓ स्तेनो᳓ न᳓ विद्य᳓ते य᳓त्पु᳓नर्न᳓ विद्य᳓ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/07_shamyA_ha.md">
@@ -632,8 +632,8 @@ Yes, Ramya is the name thou hast assumed. The men who fain. would spoil. My weal
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/08_bhadrAsi_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॒द्रासि॑ रात्रि चम॒सो न वि॒ष्टो विष्व॒ङ्गोरू॑पं युव॒तिर्बि॑भर्षि।  
-चक्षु॑ष्मती मे उश॒ती वपूं॑षि॒ प्रति॒ त्वं दि॒व्या न क्षा॑ममुक्थाः ॥
+भद्रा᳓सि रात्रि चमसो᳓ न᳓ विष्टो᳓ वि᳓ष्वङ्गो᳓रूपं युवति᳓र्बिभर्षि।  
+च᳓क्षुष्मती मे उशती᳓ व᳓पूंषि प्र᳓ति त्वं᳓ दिव्या᳓ न᳓ क्षाममुक्थाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/08_bhadrAsi_rAtri.md">
@@ -726,8 +726,8 @@ Thou like a well-wrought cup, O Night, art lovely: thou, a. young maid, art form
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/09_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒द्य स्ते॒न आय॑त्यघा॒युर्मर्त्यो॑ रि॒पुः।  
-रात्री॒ तस्य॑ प्र॒तीत्य॒ प्र ग्री॒वाः प्र शिरो॑ हनत् ॥
+यो᳓ अद्य᳓ स्तेन᳓ आ᳓यत्यघायु᳓र्म᳓र्त्यो रिपुः᳓।  
+रा᳓त्री त᳓स्य प्रती᳓त्य प्र᳓ ग्रीवाः᳓ प्र᳓ शि᳓रो हनत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/09_yo_adya.md">
@@ -798,9 +798,9 @@ Whatever robber comes to-day, mischievous mortal enemy. Let Night go forth, enco
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/10_pra_pAdau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र पा॑दौ॒ न यथाय॑ति॒ प्र हस्तौ॒ न यथाशि॑षत्।  
-यो म॑लि॒म्लुरु॒पाय॑ति॒ स संपि॑ष्टो॒ अपा॑यति।  
-अपा॑यति॒ स्वपा॑यति॒ शुष्के॑ स्था॒णावपा॑यति ॥
+प्र᳓ पादौ न᳓ य᳓था᳓यति प्र᳓ ह᳓स्तौ न᳓ य᳓था᳓शिषत्।  
+यो᳓ मलिम्लु᳓रुपा᳓यति स᳓ सं᳓पिष्टो अ᳓पायति।  
+अ᳓पायति स्व᳓पायति शु᳓ष्के स्थाणा᳓व᳓पायति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/10_pra_pAdau.md">

@@ -37,8 +37,8 @@ A hymn to all waters
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/002_ApaH/01_shaM_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं त॒ आपो॑ हैमव॒तीः शमु॑ ते सन्तू॒त्स्याः᳡।  
-शं ते॑ सनिष्य॒दा आपः॒ शमु॑ ते सन्तु व॒र्ष्याः᳡ ॥
+शं᳓ त आ᳓पो हैमवतीः᳓ श᳓मु ते सन्तूत्स्याः᳙।  
+शं᳓ ते सनिष्यदा᳓ आ᳓पः श᳓मु ते सन्तु वर्ष्याः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/002_ApaH/01_shaM_ta.md">
@@ -104,8 +104,8 @@ Blest be the Streams from hills of snow, sweet be spring Waters unto thee. Sweet
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/002_ApaH/02_shaM_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं त॒ आपो॑ धन्व॒न्याः॒᳡३॒॑ शं ते॑ सन्त्वनू॒प्याः॑।  
-शं ते॑ खनि॒त्रिमा॒ आपः॒ शं याः कु॒म्भेभि॒राभृ॑ताः ॥
+शं᳓ त आ᳓पो धन्वन्याः᳙ शं᳓ ते सन्त्वनूप्याः᳙।  
+शं᳓ ते खनित्रि᳓मा आ᳓पः शं᳓ याः᳓ कुम्भे᳓भिरा᳓भृताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/002_ApaH/02_shaM_ta.md">
@@ -170,8 +170,8 @@ Sweet unto thee be Waters of the waste and Waters of the pool. Sweet be the Wate
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/002_ApaH/03_anabhrayaH_khanamAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑न॒भ्रयः॒ खन॑माना॒ विप्रा॑ गम्भी॒रे अ॒पसः॑।  
-भि॒षग्भ्यो॑ भि॒षक्त॑रा॒ आपो॒ अच्छा॑ वदामसि ॥
+अ᳙नभ्र᳓यः ख᳓नमाना वि᳓प्रा गम्भीरे᳓ अप᳓सः।  
+भिष᳓ग्भ्यो भिष᳓क्तरा आ᳓पो अ᳓च्छा वदामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/002_ApaH/03_anabhrayaH_khanamAnA.md">
@@ -239,8 +239,8 @@ To those who delve without a tool to dig, the wise, the deeply moved, To Waters 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/002_ApaH/04_apAmaha_divyAnAmapAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पामह॑ दि॒व्या᳡ना॑म॒पां स्रो॑त॒स्या᳡नाम्।  
-अ॒पामह॑ प्र॒णेज॒नेऽश्वा॑ भवथ वा॒जिनः॑ ॥
+अपा᳓म᳓ह दिव्या᳙नामपां᳓ स्रोतस्या᳙नाम्।  
+अपा᳓म᳓ह प्रणे᳓जने᳓ऽश्वा भवथ वाजि᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/002_ApaH/04_apAmaha_divyAnAmapAm.md">
@@ -306,8 +306,8 @@ Bathed in the Waters verily divine, in water of the streams, Bathed in the Water
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/002_ApaH/05_tA_apaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ता अ॒पः शि॒वा अ॒पोऽय॑क्ष्मं॒कर॑णीर॒पः।  
-यथै॒व तृ॑प्यते॒ मय॒स्तास्त॒ आ द॑त्त भेष॒जीः ॥
+ता᳓ अपः᳓ शिवा᳓ अपो᳓ऽयक्ष्मंक᳓रणीरपः᳓।  
+य᳓थैव᳓ तृप्यते म᳓यस्ता᳓स्त आ᳓ दत्त भेषजीः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/002_ApaH/05_tA_apaH.md">

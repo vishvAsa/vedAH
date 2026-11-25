@@ -37,8 +37,8 @@ In honour of fire in all shapes, to appease Agni of the funeral pile and to quen
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/01_ye_agnayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये अ॒ग्नयो॑ अ॒प्स्व१॒॑न्तर्ये वृ॒त्रे ये पुरु॑षे॒ ये अश्म॑सु।  
-य आ॑वि॒वेशौष॑धी॒र्यो वन॒स्पतीं॒स्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
+ये᳓ अग्न᳓यो अप्स्व᳙न्त᳓र्ये᳓ वृत्रे᳓ ये᳓ पु᳓रुषे ये᳓ अ᳓श्मसु।  
+य᳓ आविवे᳓शौ᳓षधीर्यो᳓ व᳓नस्प᳓तींस्ते᳓भ्यो अग्नि᳓भ्यो हुत᳓मस्त्वेत᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/01_ye_agnayo.md">
@@ -117,8 +117,8 @@ All Fires that are in water and in Vritra, all those that man and stones contain
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/02_yaH_some.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः सोमे॑ अ॒न्तर्यो गोष्व॒न्तर्य आवि॑ष्टो॒ वयः॑सु॒ यो मृ॒गेषु॑।  
-य आ॑वि॒वेश॑ द्वि॒पदो॒ यश्चतु॑ष्पद॒स्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
+यः᳓ सो᳓मे अन्त᳓र्यो᳓ गो᳓ष्वन्त᳓र्य᳓ आ᳓विष्टो व᳓यःसु यो᳓ मृगे᳓षु।  
+य᳓ आविवे᳓श द्विप᳓दो य᳓श्च᳓तुष्पदस्ते᳓भ्यो अग्नि᳓भ्यो हुत᳓मस्त्वेत᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/02_yaH_some.md">
@@ -188,8 +188,8 @@ That which abides in Soma and in cattle, that which lies deep in birds and sylva
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/03_ya_indreNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य इन्द्रे॑ण स॒रथं॒ याति॑ दे॒वो वै॑श्वान॒र उ॒त वि॑श्वदा॒व्यः॑।  
-यं जोह॑वीमि॒ पृत॑नासु सास॒हिं तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
+य᳓ इ᳓न्द्रेण सर᳓थं या᳓ति देवो᳓ वैश्वानर᳓ उत᳓ विश्वदाव्यः᳙।  
+यं᳓ जो᳓हवीमि पृ᳓तनासु सासहिं᳓ ते᳓भ्यो अग्नि᳓भ्यो हुत᳓मस्त्वेत᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/03_ya_indreNa.md">
@@ -259,8 +259,8 @@ The Fire that rideth by the side of Indra, the God Vaisvanara,. yea all-consumin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/04_yo_devo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो दे॒वो वि॒श्वाद्यमु॒ काम॑मा॒हुर्यं दा॒तारं॑ प्रतिगृ॒ह्णन्त॑मा॒हुः।  
-यो धीरः॑ श॒क्रः प॑रि॒भूरदा॑भ्य॒स्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
+यो᳓ देवो᳓ विश्वा᳓द्य᳓मु का᳓ममाहु᳓र्यं᳓ दाता᳓रं प्रतिगृह्ण᳓न्तमाहुः᳓।  
+यो᳓ धी᳓रः शक्रः᳓ परिभू᳓र᳓दाभ्यस्ते᳓भ्यो अग्नि᳓भ्यो हुत᳓मस्त्वेत᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/04_yo_devo.md">
@@ -329,8 +329,8 @@ The all-devouring God whom men call Kama, he whom they call the Giver and Receiv
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/05_yaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं त्वा॒ होता॑रं॒ मन॑सा॒भि सं॑वि॒दुस्त्रयो॑दश भौव॒नाः पञ्च॑ मान॒वाः।  
-व॑र्चो॒धसे॑ य॒शसे॑ सू॒नृता॑वते॒ तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
+यं᳓ त्वा हो᳓तारं म᳓नसाभि᳓ संविदु᳓स्त्र᳓योदश भौवनाः᳓ प᳓ञ्च मानवाः᳓।  
+व᳙र्चोध᳓से यश᳓से सूनृ᳓तावते ते᳓भ्यो अग्नि᳓भ्यो हुत᳓मस्त्वेत᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/05_yaM_tvA.md">
@@ -400,8 +400,8 @@ To thee, strength-giver, glorious, rich in pleasant strains, whom. in their mind
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/06_uxAnnAya_vashAnnAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒क्षान्ना॑य व॒शान्ना॑य॒ सोम॑पृष्ठाय वे॒धसे॑।  
-वै॑श्वान॒रज्ये॑ष्ठेभ्य॒स्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
+उक्षा᳓न्नाय वशा᳓न्नाय सो᳓मपृष्ठाय वेध᳓से।  
+वै᳙श्वानर᳓ज्येष्ठेभ्यस्ते᳓भ्यो अग्नि᳓भ्यो हुत᳓मस्त्वेत᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/06_uxAnnAya_vashAnnAya.md">
@@ -467,8 +467,8 @@ To him who feeds on ox and cow, sage, bearing Soma on his back, To all Vaisvanar
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/07_divaM_pRthivImanvantarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दिवं॑ पृथि॒वीमन्व॒न्तरि॑क्षं॒ ये वि॒द्युत॑मनुसं॒चर॑न्ति।  
-ये दि॒क्ष्व॑१न्तर्ये वाते॑ अ॒न्तस्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
+दि᳓वं पृथिवी᳓म᳓न्वन्त᳓रिक्षं ये᳓ विद्यु᳓तमनुसंच᳓रन्ति।  
+ये᳓ दिक्ष्व᳙न्त᳓र्ये᳓ वा᳓ते अन्त᳓स्ते᳓भ्यो अग्नि᳓भ्यो हुत᳓मस्त्वेत᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/07_divaM_pRthivImanvantarixam.md">
@@ -540,8 +540,8 @@ All fiery flames that follow after lightning, flashing o'er earth, through firma
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/08_hiraNyapANiM_savitAramindram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हिर॑ण्यपाणिं सवि॒तार॒मिन्द्रं॒ बृह॒स्पतिं॒ वरु॑णं मि॒त्रम॒ग्निम्।  
-विश्वा॑न्दे॒वानङ्गि॑रसो हवामह इ॒मं क्र॒व्यादं॑ शमयन्त्व॒ग्निम् ॥
+हि᳓रण्यपाणिं सविता᳓रमि᳓न्द्रं बृ᳓हस्प᳓तिं व᳓रुणं मित्र᳓मग्नि᳓म्।  
+वि᳓श्वान्देवा᳓न᳓ङ्गिरसो हवामह इमं᳓ क्रव्या᳓दं शमयन्त्वग्नि᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/08_hiraNyapANiM_savitAramindram.md">
@@ -607,8 +607,8 @@ The golden-handed Savitar and Indra, Brihaspati, Varuna, Mitra, and Agni, The An
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/09_shAnto_agniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शा॒न्तो अ॒ग्निः क्र॒व्याच्छा॒न्तः पु॑रुष॒रेष॑णः।  
-अथो॒ यो वि॑श्वदा॒व्य॑१स्तं क्र॒व्याद॑मशीशमम् ॥
+शान्तो᳓ अग्निः᳓ क्रव्या᳓च्छान्तः᳓ पुरुषरे᳓षणः।  
+अ᳓थो यो᳓ विश्वदाव्य᳙स्तं᳓ क्रव्या᳓दमशीशमम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/09_shAnto_agniH.md">
@@ -671,8 +671,8 @@ Flesh-eating Agni is appeased, appeased is he who hurteth men. Now him who burne
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/10_ye_parvatAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये पर्व॑ताः॒ सोम॑पृष्ठा॒ आप॑ उत्तान॒शीव॑रीः।  
-वातः॑ प॒र्जन्य॒ आद॒ग्निस्ते क्र॒व्याद॑मशीशमन् ॥
+ये᳓ प᳓र्वताः सो᳓मपृष्ठा आ᳓प उत्तानशी᳓वरीः।  
+वा᳓तः पर्ज᳓न्य आ᳓दग्नि᳓स्ते᳓ क्रव्या᳓दमशीशमन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/10_ye_parvatAH.md">

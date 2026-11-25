@@ -41,7 +41,7 @@ A glorification of the Sun as the only Deity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/01_sa_eti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स ए॑ति सवि॒ता स्व᳡र्दि॒वस्पृ॒ष्ठे᳡व॒चाक॑शत् ॥
+स᳓ एति सविता᳓ स्व᳙र्दिव᳓स्पृष्ठे᳙वचा᳓कशत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/004_adhyAtmam/01_sa_eti.md">
@@ -100,7 +100,7 @@ Down looking, on the ridge of sky Savitar goes to highest heaven.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/02_rashmibhirnabha_AbhRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-र॒श्मिभि॒र्नभ॒ आभृ॑तं महे॒न्द्र ए॒त्यावृ॑तः ॥
+रश्मि᳓भिर्न᳓भ आ᳓भृतं महेन्द्र᳓ एत्या᳓वृतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/004_adhyAtmam/02_rashmibhirnabha_AbhRtam.md">
@@ -159,7 +159,7 @@ To misty cloud filled with his rays Mahendra goes encompassed round.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/03_sa_dhAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स धा॒ता स वि॑ध॒र्ता स वा॒युर्नभ॒ उच्छ्रि॑तम् ॥
+स᳓ धाता᳓ स᳓ विधर्ता᳓ स᳓ वायु᳓र्न᳓भ उ᳓च्छ्रितम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/004_adhyAtmam/03_sa_dhAtA.md">
@@ -219,7 +219,7 @@ Creator and Ordainer, he is Vayu, he is lifted cloud.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/04_soryamA_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सो᳡र्य॒मा स वरु॑णः॒ स रु॒द्रः स म॑हादे॒वः ॥
+सो᳙र्यमा᳓ स᳓ व᳓रुणः स᳓ रुद्रः᳓ स᳓ महादेवः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/004_adhyAtmam/04_soryamA_sa.md">
@@ -277,7 +277,7 @@ Rudra, and Mahadeva, he is Aryaman and Varuna.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/05_so_agniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सो अ॒ग्निः स उ॒ सूर्यः॒ स उ॑ ए॒व म॑हाय॒मः ॥
+सो᳓ अग्निः᳓ स᳓ उ सू᳓र्यः स᳓ उ एव᳓ महायमः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/004_adhyAtmam/05_so_agniH.md">
@@ -337,7 +337,7 @@ Agni is he, and Siirya, he is verily Mahayama.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/06_taM_vatsA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तं व॒त्सा उप॑ तिष्ठ॒न्त्येक॒शीर्षा॑णो यु॒ता दश॑ ॥
+तं᳓ वत्सा᳓ उ᳓प तिष्ठन्त्ये᳓कशी᳓र्षाणो युता᳓ द᳓श ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/004_adhyAtmam/06_taM_vatsA.md">
@@ -400,7 +400,7 @@ Calves, joined, stand close beside him, ten in number, with one single head.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/07_pashchAtprAncha_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒श्चात्प्राञ्च॒ आ त॑न्वन्ति॒ यदु॒देति॒ वि भा॑सति ॥
+पश्चा᳓त्प्रा᳓ञ्च आ᳓ तन्वन्ति य᳓दुदे᳓ति वि᳓ भासति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/004_adhyAtmam/07_pashchAtprAncha_A.md">
@@ -459,7 +459,7 @@ From west to east they bend their way: when he mounts up he shines afar.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/08_tasyaiSha_mAruto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्यै॒ष मारु॑तो ग॒णः स ए॑ति शि॒क्याकृ॑तः ॥
+त᳓स्यैष᳓ मा᳓रुतो गणः᳓ स᳓ एति शिक्या᳓कृतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/004_adhyAtmam/08_tasyaiSha_mAruto.md">
@@ -520,7 +520,7 @@ His are these banded Maruts: they move gathered close like porters' thongs.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/09_rashmibhirnabha_AbhRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-र॒श्मिभि॒र्नभ॒ आभृ॑तं महे॒न्द्र ए॒त्यावृ॑तः ॥
+रश्मि᳓भिर्न᳓भ आ᳓भृतं महेन्द्र᳓ एत्या᳓वृतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/004_adhyAtmam/09_rashmibhirnabha_AbhRtam.md">
@@ -580,7 +580,7 @@ To misty cloud filled with his rays Mahendra goes encompassed round,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/10_tasyeme_nava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्ये॒मे नव॒ कोशा॑ विष्ट॒म्भा न॑व॒धा हि॒ताः ॥
+त᳓स्येमे᳓ न᳓व को᳓शा विष्टम्भा᳓ नवधा᳓ हिताः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/004_adhyAtmam/10_tasyeme_nava.md">
@@ -639,7 +639,7 @@ His are the nine supports, the casks set in nine several places here.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/11_sa_prajAbhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स प्र॒जाभ्यो॒ वि प॑श्यति॒ यच्च॑ प्रा॒णति॒ यच्च॒ न ॥
+स᳓ प्रजा᳓भ्यो वि᳓ पश्यति य᳓च्च प्राण᳓ति य᳓च्च न᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/004_adhyAtmam/11_sa_prajAbhyo.md">
@@ -699,7 +699,7 @@ He keeppeth watch o'er creatures, all that breatheth and that breatheth not.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/12_tamidaM_nigatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तमि॒दं निग॑तं॒ सहः॒ स ए॒ष एक॑ एक॒वृदेक॑ ए॒व ॥
+त᳓मिदं᳓ नि᳓गतं स᳓हः स᳓ एष᳓ ए᳓क एकवृ᳓दे᳓क एव᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/004_adhyAtmam/12_tamidaM_nigatam.md">
@@ -760,7 +760,7 @@ This conquering might hath entered him, He is the sole the simple One, the One a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/13_ete_asmindevA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒ते अ॑स्मिन्दे॒वा ए॑क॒वृतो॑ भवन्ति ॥
+एते᳓ अस्मिन्देवा᳓ एकवृ᳓तो भवन्ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/004_adhyAtmam/13_ete_asmindevA.md">

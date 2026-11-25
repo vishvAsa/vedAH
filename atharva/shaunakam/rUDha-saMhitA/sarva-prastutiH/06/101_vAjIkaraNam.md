@@ -33,8 +33,8 @@ Translated: Griffith, i. 474.—Cf. iv. 4; vi. 72.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/101_vAjIkaraNam/01_A_vRShAyasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ वृ॑षायस्व श्वसिहि॒ वर्ध॑स्व प्र॒थय॑स्व च।  
-य॑था॒ङ्गं व॑र्धतां॒ शेप॒स्तेन॑ यो॒षित॒मिज्ज॑हि ॥
+आ᳓ वृषायस्व श्वसिहि व᳓र्धस्व प्रथ᳓यस्व च।  
+य᳙थाङ्गं᳓ वर्धतां शे᳓पस्ते᳓न योषि᳓तमि᳓ज्जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/101_vAjIkaraNam/01_A_vRShAyasva.md">
@@ -99,8 +99,8 @@ Taurum age, palpita, incresce et teipsum extende: per totum membrum increscat pe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/101_vAjIkaraNam/02_yena_kRSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ कृ॒षं वा॒जय॑न्ति॒ येन॑ हि॒न्वन्त्यातु॑रम्।  
-तेना॒स्य ब्र॑ह्मणस्पते॒ धनु॑रि॒वा ता॑नया॒ पसः॑ ॥
+ये᳓न कृषं᳓ वाज᳓यन्ति ये᳓न हिन्व᳓न्त्या᳓तुरम्।  
+ते᳓नास्य᳓ ब्रह्मणस्पते ध᳓नुरिवा᳓ तानया प᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/101_vAjIkaraNam/02_yena_kRSham.md">
@@ -169,8 +169,8 @@ Quo debilem stimulant, quo aegrum excitant (homines), hoc, O Brahmanaspatis, huj
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/101_vAjIkaraNam/03_AhaM_tanomi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आहं त॑नोमि ते॒ पसो॒ अधि॒ ज्यामि॑व॒ धन्व॑नि।  
-क्रम॑स्वर्श॑ इव रो॒हित॒मन॑वग्लायता॒ सदा॑ ॥
+आ᳓हं᳓ तनोमि ते प᳓सो अ᳓धि ज्या᳓मिव ध᳓न्वनि।  
+क्र᳓मस्व᳓र्श इव रोहि᳓तम᳓नवग्लायता स᳓दा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/101_vAjIkaraNam/03_AhaM_tanomi.md">

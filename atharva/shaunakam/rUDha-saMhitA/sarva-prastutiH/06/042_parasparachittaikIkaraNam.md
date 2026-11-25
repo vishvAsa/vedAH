@@ -37,8 +37,8 @@ A charm to reconcile estranged friends
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/01_ava_jyAmiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अव॒ ज्यामि॑व॒ धन्व॑नो म॒न्युं त॑नोमि ते हृ॒दः।  
-यथा॒ संम॑नसौ भू॒त्वा सखा॑याविव॒ सचा॑वहै ॥
+अ᳓व ज्या᳓मिव ध᳓न्वनो मन्युं᳓ तनोमि ते हृदः᳓।  
+य᳓था सं᳓मनसौ भूत्वा᳓ स᳓खायाविव स᳓चावहै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042_parasparachittaikIkaraNam/01_ava_jyAmiva.md">
@@ -106,8 +106,8 @@ I loose the anger from thy heart as 'twere the bowstring from a bow, That we, on
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/02_sakhAyAviva_sachAvahA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सखा॑याविव सचावहा॒ अव॑ म॒न्युं त॑नोमि ते।  
-अ॒धस्ते॒ अश्म॑नो म॒न्युमुपा॑स्यामसि॒ यो गु॒रुः ॥
+स᳓खायाविव सचावहा अ᳓व मन्युं᳓ तनोमि ते।  
+अध᳓स्ते अ᳓श्मनो मन्यु᳓मु᳓पास्यामसि यो᳓ गुरुः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042_parasparachittaikIkaraNam/02_sakhAyAviva_sachAvahA.md">
@@ -171,8 +171,8 @@ Together let us walk as friends: thy wrathful feeling I remove. Beneath a heavy 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/03_abhi_tiShThAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि ति॑ष्ठामि ते म॒न्युं पार्ष्ण्या॒ प्रप॑देन च।  
-यथा॑व॒शो न वादि॑षो॒ मम॑ चित्तमु॒पाय॑सि ॥
+अभि᳓ तिष्ठामि ते मन्युं᳓ पा᳓र्ष्ण्या प्र᳓पदेन च।  
+य᳓थावशो᳓ न᳓ वा᳓दिषो म᳓म चित्तमुपा᳓यसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042_parasparachittaikIkaraNam/03_abhi_tiShThAmi.md">

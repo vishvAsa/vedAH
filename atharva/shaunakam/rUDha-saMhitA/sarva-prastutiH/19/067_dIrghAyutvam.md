@@ -37,7 +37,7 @@ A prayer for long life
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पश्ये॑म श॒रदः॑ श॒तम् ॥
+प᳓श्येम शर᳓दः शत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
@@ -95,7 +95,7 @@ A hundred autumns may we see.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जीवे॑म श॒रदः॑ श॒तम् ॥
+जी᳓वेम शर᳓दः शत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
@@ -153,7 +153,7 @@ A hundred autumns may we live.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बुध्ये॑म श॒रदः॑ श॒तम् ॥
+बु᳓ध्येम शर᳓दः शत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
@@ -211,7 +211,7 @@ A hundred autumns may we know.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रोहे॑म श॒रदः॑ श॒तम् ॥
+रो᳓हेम शर᳓दः शत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
@@ -269,7 +269,7 @@ A hundred autumns may we grow.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पूषे॑म श॒रदः॑ श॒तम् ॥
+पू᳓षेम शर᳓दः शत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
@@ -327,7 +327,7 @@ A hundred autumns may we thrive.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भवे॑म श॒रदः॑ श॒तम् ॥
+भ᳓वेम शर᳓दः शत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
@@ -385,7 +385,7 @@ A hundred autumns may we be.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भूये॑म श॒रदः॑ श॒तम् ॥
+भू᳓येम शर᳓दः शत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
@@ -443,7 +443,7 @@ A hundred autumns may we bide.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भूय॑सीः श॒रदः॑ श॒तात् ॥
+भू᳓यसीः शर᳓दः शता᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">

@@ -37,7 +37,7 @@ To Savitar, or Yama invested with Savitar's attributes
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/022_jyotiH/01_ayaM_sahasramA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं स॒हस्र॒मा नो॑ दृ॒शे क॑वी॒नां म॒तिर्ज्योति॒र्विध॑र्मणि ॥
+अयं᳓ सह᳓स्रमा᳓ नो दृशे᳓ कवीनां᳓ मति᳓र्ज्यो᳓तिर्वि᳓धर्मणि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/022_jyotiH/01_ayaM_sahasramA.md">
@@ -103,8 +103,8 @@ Unto a thousand sages he hath given sight: thought, light is he in ranging all.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/022_jyotiH/02_bradhnaH_samIchIruShasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्र॒ध्नः स॒मीची॑रु॒षसः॒ समै॑रयन्।  
-अ॑रे॒पसः॒ सचे॑तसः॒ स्वस॑रे मन्यु॒मत्त॑माश्चि॒ते गोः ॥
+ब्रध्नः᳓ समी᳓चीरुष᳓सः स᳓मैरयन्।  
+अ᳙रेप᳓सः स᳓चेतसः स्व᳓सरे मन्युम᳓त्तमाश्चिते᳓ गोः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/022_jyotiH/02_bradhnaH_samIchIruShasaH.md">

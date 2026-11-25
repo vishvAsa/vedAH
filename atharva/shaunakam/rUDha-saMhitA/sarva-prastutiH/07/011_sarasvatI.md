@@ -38,8 +38,8 @@ A prayer to protect corn from lightning and drought
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/011_sarasvatI/01_yaste_pRthu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॑ पृ॒थु स्त॑नयि॒त्नुर्य ऋ॒ष्वो दैवः॑ के॒तुर्विश्व॑मा॒भूष॑ती॒दम्।  
-मा नो॑ वधीर्वि॒द्युता॑ देव स॒स्यं मोत व॑धी र॒श्मिभिः॒ सूर्य॑स्य ॥
+य᳓स्ते पृथु᳓ स्तनयित्नु᳓र्य᳓ ऋष्वो᳓ दै᳓वः केतु᳓र्वि᳓श्वमाभू᳓षतीद᳓म्।  
+मा᳓ नो वधीर्विद्यु᳓ता देव सस्यं᳓ मो᳓त᳓ वधी रश्मि᳓भिः सू᳓र्यस्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/011_sarasvatI/01_yaste_pRthu.md">

@@ -42,8 +42,8 @@ A charm to restore a sick man to health
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/01_yA_babhravo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या ब॒भ्रवो॒ याश्च॑ शु॒क्रा रोहि॑णीरु॒त पृश्न॑यः।  
-असि॑क्नीः कृ॒ष्णा ओष॑धीः॒ सर्वा॑ अ॒च्छाव॑दामसि ॥
+या᳓ बभ्र᳓वो या᳓श्च शुक्रा᳓ रो᳓हिणीरुत᳓ पृ᳓श्नयः।  
+अ᳓सिक्नीः कृष्णा᳓ ओ᳓षधीः स᳓र्वा अच्छा᳓वदामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/01_yA_babhravo.md">
@@ -104,8 +104,8 @@ The tawny-coloured, and the pale, the variegated and the red, The dusky-tinted, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/02_trAyantAmimaM_puruSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्राय॑न्तामि॒मं पुरु॑षं॒ यक्ष्मा॑द्दे॒वेषि॑ता॒दधि॑।  
-यासां॒ द्यौष्पि॒ता पृ॑थि॒वी मा॒ता स॑मु॒द्रो मूलं॑ वी॒रुधां॑ ब॒भूव॑ ॥
+त्रा᳓यन्तामिमं᳓ पु᳓रुषं य᳓क्ष्माद्देवे᳓षिताद᳓धि।  
+या᳓सां द्यौ᳓ष्पिता᳓ पृथिवी᳓ माता᳓ समुद्रो᳓ मू᳓लं वीरु᳓धां बभू᳓व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/02_trAyantAmimaM_puruSham.md">
@@ -169,8 +169,8 @@ This man let them deliver from Consumption which the Gods have sent. The father 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/03_Apo_agram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ अग्रं॑ दि॒व्या ओष॑धयः।  
-तास्ते॒ यक्ष्म॑मेन॒स्य१॒॑मङ्गा॑दङ्गादनीनशन् ॥
+आ᳓पो अ᳓ग्रं दिव्या᳓ ओ᳓षधयः।  
+ता᳓स्ते य᳓क्ष्ममेनस्य᳙म᳓ङ्गादङ्गादनीनशन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/03_Apo_agram.md">
@@ -234,8 +234,8 @@ The Waters are the best, and heavenly Plants. From every limb of thine have they
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/04_prastRNatI_stambinIrekashungAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॑स्तृण॒ती स्त॒म्बिनी॒रेक॑शुङ्गाः प्रतन्व॒तीरोष॑धी॒रा व॑दामि।  
-अं॑शु॒मतीः॑ का॒ण्डिनी॒र्या विशा॑खा॒ ह्वया॑मि ते वी॒रुधो॑ वैश्वदे॒वीरु॒ग्राः पु॑रुष॒जीव॑नीः ॥
+प्र᳙स्तृणती᳓ स्तम्बि᳓नीरे᳓कशुङ्गाः प्रतन्वती᳓रो᳓षधीरा᳓ वदामि।  
+अं᳙शुम᳓तीः काण्डि᳓नीर्या᳓ वि᳓शाखा ह्व᳓यामि ते वीरु᳓धो वैश्वदेवी᳓रुग्राः᳓ पुरुषजी᳓वनीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/04_prastRNatI_stambinIrekashungAH.md">
@@ -299,8 +299,8 @@ I speak to Healing Herbs spreading, and bushy, to creepers, and to those whose s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/05_yadvaH_sahaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्वः॒ सहः॑ सहमाना वी॒र्यं१॒॑ यच्च॑ वो॒ बल॑म्।  
-तेने॒मम॒स्माद्यक्ष्मा॒त्पुरु॑षं मुञ्चतौषधी॒रथो॑ कृणोमि भेष॒जम् ॥
+य᳓द्वः स᳓हः सहमाना वीर्यं᳙ य᳓च्च वो ब᳓लम्।  
+ते᳓नेम᳓मस्मा᳓द्य᳓क्ष्मात्पु᳓रुषं मुञ्चतौषधीर᳓थो कृणोमि भेषज᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/05_yadvaH_sahaH.md">
@@ -362,8 +362,8 @@ The conquering strength, the power and might which ye, victo- rious Plants, poss
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/06_jIvalAM_naghAriShAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जी॑व॒लां न॑घारि॒षां जी॑व॒न्तीमोष॑धीम॒हम्।  
-अ॑रुन्ध॒तीमु॒न्नय॑न्तीं पु॒ष्पां मधु॑मतीमि॒ह हु॑वे॒ऽस्मा अ॑रि॒ष्टता॑तये ॥
+जी᳙वलां᳓ नघारिषां᳓ जीवन्ती᳓मो᳓षधीमह᳓म्।  
+अ᳙रुन्धती᳓मुन्न᳓यन्तीं पुष्पां᳓ म᳓धुमतीमिह᳓ हुवेऽस्मा᳓ अरिष्ट᳓तातये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/06_jIvalAM_naghAriShAm.md">
@@ -431,8 +431,8 @@ The living Plant that giveth life, that driveth malady away, Arundhatr, the resc
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/07_ihA_yantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒हा य॑न्तु॒ प्रचे॑तसो मे॒दिनी॒र्वच॑सो॒ मम॑।  
-यथे॒मं पा॒रया॑मसि॒ पुरु॑षं दुरि॒तादधि॑ ॥
+इहा᳓ यन्तु प्र᳓चेतसो मेदि᳓नीर्व᳓चसो म᳓म।  
+य᳓थेमं᳓ पार᳓यामसि पु᳓रुषं दुरिता᳓द᳓धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/07_ihA_yantu.md">
@@ -494,8 +494,8 @@ Hitherward let the sapient come, the friendly sharers o f my speech. That we may
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/08_agnerghAso_apAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नेर्घा॒सो अ॒पां गर्भो॒ या रोह॑न्ति॒ पुन॑र्णवाः।  
-ध्रु॒वाः स॒हस्र॑ना॒म्नीर्भे॑ष॒जीः स॒न्त्वाभृ॑ताः ॥
+अग्ने᳓र्घासो᳓ अपां᳓ ग᳓र्भो या᳓ रो᳓हन्ति पु᳓नर्णवाः।  
+ध्रुवाः᳓ सह᳓स्रनाम्नी᳓र्भेषजीः᳓ सन्त्वा᳓भृताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/08_agnerghAso_apAm.md">
@@ -555,8 +555,8 @@ Germ of the Waters, Agni's food, Plants ever growing fresh and new, Sure, healin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/09_avakolbA_udakAtmAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒वको॑ल्बा उ॒दका॑त्मान॒ ओष॑धयः।  
-व्यृ᳡षन्तु दुरि॒तं ती॑क्ष्णशृ॒ङ्ग्यः᳡ ॥
+अव᳓कोल्बा उद᳓कात्मान ओ᳓षधयः।  
+व्यृ᳙षन्तु दुरितं᳓ तीक्ष्णशृङ्ग्यः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/09_avakolbA_udakAtmAna.md">
@@ -617,8 +617,8 @@ Let Plants whose soul is water, girt with Avakas, piercing with their sharp horn
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/10_unmunchantIrvivaruNA_ugrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑न्मु॒ञ्चन्ती॑र्विवरु॒णा उ॒ग्रा या वि॑ष॒दूष॑णीः।  
-अथो॑ बलास॒नाश॑नीः कृत्या॒दूष॑णीश्च॒ यास्ता इ॒हा य॒न्त्वोष॑धीः ॥
+उ᳙न्मुञ्च᳓न्तीर्विवरुणा᳓ उग्रा᳓ या᳓ विषदू᳓षणीः।  
+अ᳓थो बलासना᳓शनीः कृत्यादू᳓षणीश्च या᳓स्ता᳓ इहा᳓ यन्त्वो᳓षधीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/10_unmunchantIrvivaruNA_ugrA.md">
@@ -683,8 +683,8 @@ Strong, antidotes of poison, those releasers, free from Varuna, And those that d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/11_apakrItAH_sahIyasIrvIrudho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपक्री॒ताः सही॑यसीर्वी॒रुधो॒ या अ॒भिष्टु॑ताः।  
-त्राय॑न्ताम॒स्मिन्ग्रामे॒ गामश्वं॒ पुरु॑षं प॒शुम् ॥
+अ᳓प᳓क्रीताः᳓ स᳓हीयसीर्वीरु᳓धो या᳓ अभि᳓ष्टुताः।  
+त्रा᳓यन्तामस्मि᳓न्ग्रा᳓मे गा᳓म᳓श्वं पु᳓रुषं पशु᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/11_apakrItAH_sahIyasIrvIrudho.md">
@@ -746,8 +746,8 @@ Let purchased Plants of mightier power, Plants that are praised for excellence. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/12_madhumanmUlaM_madhumadagramAsAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मधु॑म॒न्मूलं॒ मधु॑म॒दग्र॑मासां॒ मधु॑म॒न्मध्यं॑ वी॒रुधां॑ बभूव।  
-मधु॑मत्प॒र्णं मधु॑म॒त्पुष्प॑मासां॒ मधोः॒ सम्भ॑क्ता अ॒मृत॑स्य भ॒क्षो घृ॒तमन्नं॑ दुह्रतां॒ गोपु॑रोगवम् ॥
+म᳓धुमन्मू᳓लं म᳓धुमद᳓ग्रमासां म᳓धुमन्म᳓ध्यं वीरु᳓धां बभूव।  
+म᳓धुमत्पर्णं᳓ म᳓धुमत्पु᳓ष्पमासां म᳓धोः स᳓म्भक्ता अमृ᳓तस्य भक्षो᳓ घृत᳓म᳓न्नं दुह्रतां गो᳓पुरोगवम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/12_madhumanmUlaM_madhumadagramAsAm.md">
@@ -813,8 +813,8 @@ Sweet is their root, sweet are these Plants' top branches, sweet also is their i
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/13_yAvatIH_kiyatIshchemAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याव॑तीः॒ किय॑तीश्चे॒माः पृ॑थि॒व्यामध्योष॑धीः।  
-ता मा॑ सहस्रप॒र्ण्यो᳡ मृ॒त्योर्मु॑ञ्च॒न्त्वंह॑सः ॥
+या᳓वतीः कि᳓यतीश्चेमाः᳓ पृथिव्या᳓म᳓ध्यो᳓षधीः।  
+ता᳓ मा सहस्रपर्ण्यो᳙ मृत्यो᳓र्मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/13_yAvatIH_kiyatIshchemAH.md">
@@ -877,8 +877,8 @@ These Plants that grow upon the earth, whate'er their number and their size, Let
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/14_vaiyAghro_maNirvIrudhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वैया॑घ्रो म॒णिर्वी॒रुधां॒ त्राय॑माणोऽभिशस्ति॒पाः।  
-अमी॑वाः॒ सर्वा॒ रक्षां॒स्यप॑ ह॒न्त्वधि॑ दू॒रम॒स्मत् ॥
+वै᳓याघ्रो मणि᳓र्वीरु᳓धां त्रा᳓यमाणोऽभिशस्तिपाः᳓।  
+अ᳓मीवाः स᳓र्वा र᳓क्षांस्य᳓प हन्त्व᳓धि दूर᳓मस्म᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/14_vaiyAghro_maNirvIrudhAm.md">
@@ -941,8 +941,8 @@ May the Plants' Tiger-amulet, protective, guardian from the curse, Beat off the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/15_siMhasyeva_stanathoH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सिंह॑स्येव स्त॒नथोः॒ सं वि॑जन्ते॒ऽग्नेरि॑व विजन्ते॒ आभृ॑ताभ्यः।  
-गवां॒ यक्ष्मः॒ पुरु॑षाणां वी॒रुद्भि॒रति॑नुत्तो ना॒व्या᳡ एतु स्रो॒त्याः ॥
+सिं᳓हस्येव स्तन᳓थोः सं᳓ विजन्तेऽग्ने᳓रिव विजन्ते आ᳓भृताभ्यः।  
+ग᳓वां य᳓क्ष्मः पु᳓रुषाणां वीरु᳓द्भिर᳓तिनुत्तो नाव्या᳙ एतु स्रोत्याः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/15_siMhasyeva_stanathoH.md">
@@ -1007,8 +1007,8 @@ Before the gathered Plants they fly and scatter, as though a lion's roar or fire
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/16_mumuchAnA_oShadhayo-gnervaishvAnarAdadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॑मुचा॒ना ओष॑धयो॒ऽग्नेर्वै॑श्वान॒रादधि॑।  
-भूमिं॑ सन्तन्व॒तीरि॑त॒ यासां॒ राजा॒ वन॒स्पतिः॑ ॥
+मु᳙मुचाना᳓ ओ᳓षधयोऽग्ने᳓र्वैश्वानरा᳓द᳓धि।  
+भू᳓मिं सन्तन्वती᳓रित या᳓सां रा᳓जा व᳓नस्प᳓तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/16_mumuchAnA_oShadhayo-gnervaishvAnarAdadhi.md">
@@ -1069,8 +1069,8 @@ Emancipated from the sway of Agni, of Vaisvanara, go, covering the earth, ye Pla
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/17_yA_rohantyAngirasIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या रोह॑न्त्याङ्गिर॒सीः पर्व॑तेषु स॒मेषु॑ च।  
-ता नः॒ पय॑स्वतीः शि॒वा ओष॑धीः सन्तु॒ शं हृ॒दे ॥
+या᳓ रो᳓हन्त्याङ्गिरसीः᳓ प᳓र्वतेषु समे᳓षु च।  
+ता᳓ नः प᳓यस्वतीः शिवा᳓ ओ᳓षधीः सन्तु शं᳓ हृदे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/17_yA_rohantyAngirasIH.md">
@@ -1133,8 +1133,8 @@ May these be pleasant to our heart, auspicious, rich in store of milk, These Pla
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/18_yAshchAhaM_veda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याश्चा॒हं वेद॑ वी॒रुधो॒ याश्च॒ पश्या॑मि॒ चक्षु॑षा।  
-अज्ञा॑ता जानी॒मश्च॒ या यासु॑ वि॒द्म च॒ संभृ॑तम् ॥
+या᳓श्चाहं᳓ वे᳓द वीरु᳓धो या᳓श्च प᳓श्यामि च᳓क्षुषा।  
+अ᳓ज्ञाता जानीम᳓श्च या᳓ या᳓सु विद्म᳓ च सं᳓भृतम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/18_yAshchAhaM_veda.md">
@@ -1199,8 +1199,8 @@ The Plants I know myself, the plants that with mine eye I look upon, Plants yet 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/19_sarvAH_samagrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्वाः॑ सम॒ग्रा ओष॑धी॒र्बोध॑न्तु॒ वच॑सो॒ मम॑।  
-यथे॒मं पा॒रया॑मसि॒ पुरु॑षं दुरि॒तादधि॑ ॥
+स᳓र्वाः समग्रा᳓ ओ᳓षधीर्बो᳓धन्तु व᳓चसो म᳓म।  
+य᳓थेमं᳓ पार᳓यामसि पु᳓रुषं दुरिता᳓द᳓धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/19_sarvAH_samagrA.md">
@@ -1262,8 +1262,8 @@ Let all the congregated Plants attend and mark mine utterance, That we may rescu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/20_ashvattho_darbho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑श्व॒त्थो द॒र्भो वी॒रुधां॒ सोमो॒ राजा॒मृतं॑ ह॒विः।  
-व्री॒हिर्यव॑श्च भेष॒जौ दि॒व॒स्पु॒त्रावम॑र्त्यौ ॥
+अ᳙श्वत्थो᳓ दर्भो᳓ वीरु᳓धां सो᳓मो रा᳓जामृ᳓तं हविः᳓।  
+व्रीहि᳓र्य᳓वश्च भेषजौ᳓ दिवस्पुत्रा᳓व᳓मर्त्यौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/20_ashvattho_darbho.md">
@@ -1324,8 +1324,8 @@ Asvattha, Darbha, King of Plants, is Soma, deathless sacrifice Barley and Rice a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/21_ujjihIdhve_stanayatyabhikrandatyoShadhIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उज्जि॑हीध्वे स्त॒नय॑त्यभि॒क्रन्द॑त्योषधीः।  
-य॒दा वः॑ पृश्निमातरः प॒र्जन्यो॒ रेत॒साव॑ति ॥
+उ᳓ज्जिहीध्वे स्तन᳓यत्यभिक्र᳓न्दत्योषधीः।  
+यदा᳓ वः पृश्निमातरः पर्ज᳓न्यो रे᳓तसा᳓वति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/21_ujjihIdhve_stanayatyabhikrandatyoShadhIH.md">
@@ -1389,8 +1389,8 @@ Lift yourselves up, ye Healing Plants, loud is the thunder's crash and roar. Whe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/22_tasyAmRtasyemaM_balam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्या॒मृत॑स्ये॒मं बलं॒ पुरु॑षं पाययामसि।  
-अथो॑ कृणोमि भेष॒जं यथास॑च्छ॒तहा॑यनः ॥
+त᳓स्यामृ᳓तस्येमं᳓ ब᳓लं पु᳓रुषं पाययामसि।  
+अ᳓थो कृणोमि भेषजं᳓ य᳓था᳓सच्छत᳓हायनः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/22_tasyAmRtasyemaM_balam.md">
@@ -1452,8 +1452,8 @@ We give the essence of that stream of nectar of this man to drink: So I prepare 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/23_varAho_veda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व॑रा॒हो वे॑द वी॒रुधं॑ नकु॒लो वे॑द भेष॒जीम्।  
-स॒र्पा ग॑न्ध॒र्वा या वि॒दुस्ता अ॒स्मा अव॑से हुवे ॥
+व᳙राहो᳓ वेद वीरु᳓धं नकुलो᳓ वेद भेषजी᳓म्।  
+सर्पा᳓ गन्धर्वा᳓ या᳓ विदु᳓स्ता᳓ अस्मा᳓ अ᳓वसे हुवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/23_varAho_veda.md">
@@ -1517,9 +1517,9 @@ Well doth the wild boar know a Plant, the mungoose knows the Healing Herb. I cal
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/24_yAH_suparNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याः सु॑प॒र्णा आ॑ङ्गिर॒सीर्दि॒व्या या र॒घटो॑ वि॒दुः।  
-वयां॑सि हं॒सा या वि॒दुर्याश्च॒ सर्वे॑ पत॒त्त्रिणः॑।  
-मृ॒गा या वि॒दुरोष॑धी॒स्ता अ॒स्मा अव॑से हुवे ॥
+याः᳓ सुपर्णा᳓ आङ्गिरसी᳓र्दिव्या᳓ या᳓ रघ᳓टो विदुः᳓।  
+व᳓यांसि हंसा᳓ या᳓ विदु᳓र्या᳓श्च स᳓र्वे पतत्त्रि᳓णः।  
+मृगा᳓ या᳓ विदु᳓रो᳓षधीस्ता᳓ अस्मा᳓ अ᳓वसे हुवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/24_yAH_suparNA.md">
@@ -1589,8 +1589,8 @@ Plants of Angirases which hawks, celestial Plants which eagles. know; Plants kno
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/25_yAvatInAmoShadhInAM_gAvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याव॑तीना॒मोष॑धीनां॒ गावः॑ प्रा॒श्नन्त्य॒घ्न्या याव॑तीनामजा॒वयः॑।  
-ताव॑ती॒स्तुभ्य॒मोष॑धीः॒ शर्म॒ यच्छ॒न्त्वाभृ॑ताः ॥
+या᳓वतीनामो᳓षधीनां गा᳓वः प्राश्न᳓न्त्यघ्न्या᳓ या᳓वतीनामजाव᳓यः।  
+ता᳓वतीस्तु᳓भ्यमो᳓षधीः श᳓र्म य᳓च्छन्त्वा᳓भृताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/25_yAvatInAmoShadhInAM_gAvaH.md">
@@ -1653,8 +1653,8 @@ The multitude of herbs whereon the Cows whom none may slaughter feed, all that a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/26_yAvatIShu_manuShyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याव॑तीषु मनु॒ष्या᳡ भेष॒जं भि॒षजो॑ वि॒दुः।  
-ताव॑तीर्वि॒श्वभे॑षजी॒रा भ॑रामि॒ त्वाम॒भि ॥
+या᳓वतीषु मनुष्या᳙ भेषजं᳓ भिष᳓जो विदुः᳓।  
+ता᳓वतीर्विश्व᳓भेषजीरा᳓ भरामि त्वा᳓मभि᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/26_yAvatIShu_manuShyA.md">
@@ -1715,8 +1715,8 @@ Hitherward unto thee I bring the Plants that cure all maladies, All Plants where
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/27_puShpavatIH_prasUmatIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुष्प॑वतीः प्र॒सूम॑तीः फ॒लिनी॑रफ॒ला उ॒त।  
-सं॑मा॒तर॑ इव दुह्राम॒स्मा अ॑रि॒ष्टता॑तये ॥
+पु᳓ष्पवतीः प्रसू᳓मतीः फलि᳓नीरफला᳓ उत᳓।  
+सं᳙मात᳓र इव दुह्रामस्मा᳓ अरिष्ट᳓तातये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/27_puShpavatIH_prasUmatIH.md">
@@ -1779,8 +1779,8 @@ Let Plants with flower and Plants with bud, the fruitful and the fruitless, all,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/28_uttvAhArShaM_panchashalAdatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्त्वा॑हार्षं॒ पञ्च॑शला॒दथो॒ दश॑शलादु॒त।  
-अथो॒ यम॑स्य॒ पड्वी॑शा॒द्विश्व॑स्माद्देवकिल्बि॒षात् ॥
+उ᳓त्त्वाहार्षं प᳓ञ्चशलाद᳓थो द᳓शशलादुत᳓।  
+अ᳓थो य᳓मस्य प᳓ड्वीशाद्वि᳓श्वस्माद्देवकिल्बिषा᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/28_uttvAhArShaM_panchashalAdatho.md">

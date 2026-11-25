@@ -37,8 +37,10 @@ A prayer for riches
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/024_savitA/01_yanna_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यन्न॒ इन्द्रो॒ अख॑न॒द्यद॒ग्निर्विश्वे॑ दे॒वा म॒रुतो॒ यत्स्व॒र्काः।  
-तद॒स्मभ्यं॑ सवि॒ता स॒त्यध॑र्मा प्र॒जाप॑ति॒रनु॑मति॒र्नि य॑च्छात् ॥
+य᳓न्न इ᳓न्द्रो अ᳓खनद् य᳓द् दग्नि᳓र्  
+वि᳓श्वे देवा᳓ मरु᳓तो य᳓त् स्वर्काः᳓।  
+त᳓द् अस्म᳓भ्यं सविता᳓ सत्य᳓-धर्मा  
+प्रजा᳓पतिर् अ᳓नुमतिर्नि᳓ यच्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/024_savitA/01_yanna_indro.md">

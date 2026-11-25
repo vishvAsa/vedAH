@@ -37,8 +37,8 @@ A charm for offspring and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/046_sinIvAlI/01_sinIvAli_pRthuShTuke.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सिनी॑वालि॒ पृथु॑ष्टुके॒ या दे॒वाना॒मसि॒ स्वसा॑।  
-जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि दिदिड्ढि नः ॥
+सि᳓नीवालि पृ᳓थुष्टुके या᳓ देवा᳓नाम᳓सि स्व᳓सा।  
+जुष᳓स्व हव्य᳓मा᳓हुतं प्रजां᳓ देवि दिदिड्ढि नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/046_sinIvAlI/01_sinIvAli_pRthuShTuke.md">
@@ -107,8 +107,8 @@ O broad-tressed Sinivali, thou who art the sister of the Gods, Accept the offere
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/046_sinIvAlI/02_yA_subAhuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या सु॑बा॒हुः स्व॑ङ्गु॒रिः सु॒षूमा॑ बहु॒सूव॑री।  
-तस्यै॑ वि॒श्पत्न्यै॑ ह॒विः सि॑नीवा॒ल्यै जु॑होतन ॥
+या᳓ सुबाहुः᳓ स्वङ्गुरिः᳓ सुषू᳓मा बहुसू᳓वरी।  
+त᳓स्यै विश्प᳓त्न्यै हविः᳓ सिनीवाल्यै᳓ जुहोतन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/046_sinIvAlI/02_yA_subAhuH.md">
@@ -171,8 +171,10 @@ Present the sacrifice to her, to Sinivali, Queen of men, Beauti- ful-fingered, l
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/046_sinIvAlI/03_yA_vishpatnIndramasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या वि॒श्पत्नीन्द्र॒मसि॑ प्र॒तीची॑ स॒हस्र॑स्तुकाभि॒यन्ती॑ दे॒वी।  
-विष्णोः॑ पत्नि॒ तुभ्यं॑ रा॒ता ह॒वींषि॒ पतिं॑ देवि॒ राध॑से चोदयस्व ॥
+या᳓ विश्प᳓त्नी᳓न्द्रम् अ᳓सि प्रती᳓ची+++(नाम - इन्द्रसमा)+++  
+सह᳓स्र-स्तुका+++(=केशपाश)+++  ऽभिय᳓न्ती देवी᳓ ।  
+वि᳓ष्णोः पत्नि तु᳓भ्यं राता᳓ हवीं᳓षि  
+प᳓तिं देवि रा᳓धसे चोदयस्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/046_sinIvAlI/03_yA_vishpatnIndramasi.md">

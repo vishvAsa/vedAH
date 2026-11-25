@@ -33,8 +33,8 @@ A hymn to Sleep
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/056_duHShvapnanAshanam/01_yamasya_lokAdadhyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒मस्य॑ लो॒कादध्या ब॑भूविथ॒ प्रम॑दा॒ मर्त्या॒न्प्र यु॑नक्षि॒ धीरः॑।  
-ए॑का॒किना॑ स॒रथं॑ यासि वि॒द्वान्त्स्वप्नं॒ मिमा॑नो॒ असु॑रस्य॒ योनौ॑ ॥
+यम᳓स्य लोका᳓द᳓ध्या᳓ बभूविथ प्र᳓मदा म᳓र्त्यान्प्र᳓ युनक्षि धी᳓रः।  
+ए᳙काकि᳓ना सर᳓थं यासि विद्वा᳓न्त्स्व᳓प्नं मि᳓मानो अ᳓सुरस्य यो᳓नौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/056_duHShvapnanAshanam/01_yamasya_lokAdadhyA.md">
@@ -115,8 +115,8 @@ Thou art come hither from the world of Yama: thou, resolute, affectest men with 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/056_duHShvapnanAshanam/02_bandhastvAgre_vishvachayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब॒न्धस्त्वाग्रे॑ वि॒श्वच॑या अपश्यत्पु॒रा रात्र्या॒ जनि॑तो॒रेके॒ अह्नि॑।  
-ततः॑ स्वप्ने॒दमध्या ब॑भूविथ भि॒षग्भ्यो॑ रू॒पम॑प॒गूह॑मानः ॥
+बन्ध᳓स्त्वा᳓ग्रे विश्व᳓चया अपश्यत्पुरा᳓ रा᳓त्र्या ज᳓नितोरे᳓के अ᳓ह्नि।  
+त᳓तः स्वप्नेद᳓म᳓ध्या᳓ बभूविथ भिष᳓ग्भ्यो रूप᳓मपगू᳓हमानः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/056_duHShvapnanAshanam/02_bandhastvAgre_vishvachayA.md">
@@ -205,8 +205,8 @@ At first the all-containing, depth beheld thee, ere Night was born, when only Da
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/056_duHShvapnanAshanam/03_bRhadgAvAsurebhyo-dhi_devAnupAvartata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृ॑ह॒द्गावासु॑रे॒भ्योऽधि॑ दे॒वानुपा॑वर्तत महि॒मान॑मि॒च्छन्।  
-तस्मै॒ स्वप्ना॑य दधु॒राधि॑पत्यं त्रयस्त्रिं॒शासः॒ स्व᳡रानशा॒नाः ॥
+बृ᳙हद्गा᳓वा᳓सुरेभ्यो᳓ऽधि देवा᳓नु᳓पावर्तत महिमा᳓नमिच्छ᳓न्।  
+त᳓स्मै स्व᳓प्नाय दधुरा᳓धिपत्यं त्रयस्त्रिंशा᳓सः स्व᳙रानशानाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/056_duHShvapnanAshanam/03_bRhadgAvAsurebhyo-dhi_devAnupAvartata.md">
@@ -279,8 +279,8 @@ Come from the Asuras in lofty, glory, he hath approached the Gods in search of g
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/056_duHShvapnanAshanam/04_naitAM_viduH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नैतां वि॑दुः पि॒तरो॒ नोत दे॒वा येषां॒ जल्पि॒श्चर॑त्यन्त॒रेदम्।  
-त्रि॒ते स्वप्न॑मदधुरा॒प्त्ये नर॑ आदि॒त्यासो॒ वरु॑णे॒नानु॑शिष्टाः ॥
+नै᳓तां᳓ विदुः पित᳓रो नो᳓त᳓ देवा᳓ ये᳓षां ज᳓ल्पिश्च᳓रत्यन्तरे᳓द᳓म्।  
+त्रिते᳓ स्व᳓प्नमदधुराप्त्ये᳓ न᳓र आदित्या᳓सो व᳓रुणेना᳓नुशिष्टाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/056_duHShvapnanAshanam/04_naitAM_viduH.md">
@@ -360,8 +360,8 @@ Of him nor Fathers nor the Gods have knowledge, the Gods whose gentle talk is st
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/056_duHShvapnanAshanam/05_yasya_krUramabhajanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॑ क्रू॒रमभ॑जन्त दु॒ष्कृतो॒ऽस्वप्ने॑न सु॒कृतः॒ पुण्य॒मायुः॑।  
-स्व᳡र्मदसि पर॒मेण॑ ब॒न्धुना॑ त॒प्यमा॑नस्य॒ मन॒सोऽधि॑ जज्ञिषे ॥
+य᳓स्य क्रूर᳓म᳓भजन्त दुष्कृ᳓तोऽस्व᳓प्नेन सुकृ᳓तः पु᳓ण्यमा᳓युः।  
+स्व᳙र्मदसि परमे᳓ण बन्धु᳓ना तप्य᳓मानस्य म᳓नसो᳓ऽधि जज्ञिषे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/056_duHShvapnanAshanam/05_yasya_krUramabhajanta.md">
@@ -444,8 +444,8 @@ Thou whose severity hath reached ill-doers, and whose reward the good have gaine
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/056_duHShvapnanAshanam/06_vidma_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्म ते॒ सर्वाः॑ परि॒जाः पु॒रस्ता॑द्वि॒द्म स्व॑प्न॒यो अ॑धि॒पा इ॒हा ते॑।  
-य॑श॒स्विनो॑ नो॒ यश॑से॒ह पा॑ह्या॒राद्द्वि॒षेभि॒रप॑ याहि दू॒रम् ॥
+विद्म᳓ ते स᳓र्वाः परिजाः᳓ पुर᳓स्ताद्विद्म᳓ स्वप्नयो᳓ अधिपा᳓ इहा᳓ ते।  
+य᳙शस्वि᳓नो नो य᳓शसेह᳓ पाह्यारा᳓द्द्विषे᳓भिर᳓प याहि दूर᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/056_duHShvapnanAshanam/06_vidma_te.md">

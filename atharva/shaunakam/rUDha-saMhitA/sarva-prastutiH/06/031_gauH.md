@@ -37,8 +37,8 @@ To Surya the Sun-God
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/031_gauH/01_AyaM_gauH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः।  
-पि॒तरं॑ च प्र॒यन्त्स्वः॑ ॥
+आ᳓यं᳓ गौः᳓ पृ᳓श्निरक्रमीद᳓सदन्मात᳓रं पुरः᳓।  
+पित᳓रं च प्रय᳓न्त्स्वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/031_gauH/01_AyaM_gauH.md">
@@ -104,8 +104,8 @@ This spotted Bull hath come and sat before his mother in the east. Advancing to 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/031_gauH/02_antashcharati_rochanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तश्च॑रति रोच॒ना अ॒स्य प्रा॒णाद॑पान॒तः।  
-व्य᳡ख्यन्महि॒षः स्वः᳡ ॥
+अन्त᳓श्चरति रोचना᳓ अस्य᳓ प्राणा᳓दपानतः᳓।  
+व्य᳙ख्यन्महिषः᳓ स्वः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/031_gauH/02_antashcharati_rochanA.md">
@@ -181,8 +181,8 @@ As expiration from his breath his radiance penetrates within. The Bull shines ou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/031_gauH/03_triMshaddhAmA_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रिं॒शद्धामा॒ वि रा॑जति॒ वाक्प॑त॒ङ्गो अ॑शि॒श्रिय॑त्।  
-प्रति॒ वस्तो॒रह॒र्द्युभिः॑ ॥
+त्रिंश᳓द्धा᳓मा वि᳓ राजति वा᳓क्पतङ्गो᳓ अशिश्रि᳓यत्।  
+प्र᳓ति व᳓स्तोर᳓हर्द्यु᳓भिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/031_gauH/03_triMshaddhAmA_vi.md">

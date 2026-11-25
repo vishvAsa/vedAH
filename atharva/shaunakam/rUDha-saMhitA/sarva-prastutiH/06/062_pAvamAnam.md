@@ -37,8 +37,8 @@ A prayer for purification and riches
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/01_vaishvAnaro_rashmibhirnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॑श्वान॒रो र॒श्मिभि॑र्नः पुनातु॒ वातः॑ प्रा॒णेने॑षि॒रो नभो॑भिः।  
-द्यावा॑पृथि॒वी पय॑सा॒ पय॑स्वती ऋ॒ताव॑री यज्ञिये नः पुनीताम् ॥
+वै᳙श्वानरो᳓ रश्मि᳓भिर्नः पुनातु वा᳓तः प्राणे᳓नेषिरो᳓ न᳓भोभिः।  
+द्या᳓वापृथिवी᳓ प᳓यसा प᳓यस्वती ऋता᳓वरी यज्ञिये नः पुनीताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/062_pAvamAnam/01_vaishvAnaro_rashmibhirnaH.md">
@@ -103,8 +103,8 @@ Cleanse us Vaisvanara with rays of splendour! With breath and clouds let quicken
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/02_vaishvAnarIM_sUnRtAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॑श्वान॒रीं सू॒नृता॒मा र॑भध्वं॒ यस्या॒ आशा॑स्त॒न्वो᳡ वी॒तपृ॑ष्ठाः।  
-तया॑ गृ॒णन्तः॑ सध॒मादे॑षु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+वै᳙श्वानरीं᳓ सूनृ᳓तामा᳓ रभध्वं य᳓स्या आ᳓शास्तन्वो᳙ वीत᳓पृष्ठाः।  
+त᳓या गृण᳓न्तः सधमा᳓देषु वयं᳓ स्याम प᳓तयो रयीणा᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/062_pAvamAnam/02_vaishvAnarIM_sUnRtAmA.md">
@@ -177,8 +177,8 @@ Lay hold on Sunrita whose forms and regions have fair smooth backs, her who is a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/03_vaishvAnarIM_varchasa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॑श्वान॒रीं वर्च॑स॒ आ र॑भध्वं शु॒द्धा भव॑न्तः॒ शुच॑यः पाव॒काः।  
-इ॒हेड॑या सध॒मादं॒ मद॑न्तो॒ ज्योक्प॑श्येम॒ सूर्य॑मु॒च्चर॑न्तम् ॥
+वै᳙श्वानरीं᳓ व᳓र्चस आ᳓ रभध्वं शुद्धा᳓ भ᳓वन्तः शु᳓चयः पावकाः᳓।  
+इहे᳓डया सधमा᳓दं म᳓दन्तो ज्यो᳓क्पश्येम सू᳓र्यमुच्च᳓रन्तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/062_pAvamAnam/03_vaishvAnarIM_varchasa.md">

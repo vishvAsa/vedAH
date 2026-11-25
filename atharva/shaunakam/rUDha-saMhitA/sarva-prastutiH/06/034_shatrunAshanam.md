@@ -37,8 +37,8 @@ To Agni for protection from enemies
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्राग्नये॒ वाच॑मीरय वृष॒भाय॑ क्षिती॒नाम्।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+प्रा᳓ग्न᳓ये वा᳓चमीरय वृषभा᳓य क्षितीना᳓म्।  
+स᳓ नः पर्षद᳓ति द्वि᳓षः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
@@ -98,8 +98,8 @@ Send forth thy voice to Agni, to the manly hero of our homes, So may he bear us 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/02_yo_raxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो रक्षां॑सि नि॒जूर्व॑त्य॒ग्निस्ति॒ग्मेन॑ शो॒चिषा॑।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+यो᳓ र᳓क्षांसि निजू᳓र्वत्यग्नि᳓स्तिग्मे᳓न शोचि᳓षा।  
+स᳓ नः पर्षद᳓ति द्वि᳓षः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/02_yo_raxAMsi.md">
@@ -160,8 +160,8 @@ That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/03_yaH_parasyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः पर॑स्याः परा॒वत॑स्ति॒रो धन्वा॑ति॒रोच॑ते।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+यः᳓ प᳓रस्याः पराव᳓तस्तिरो᳓ ध᳓न्वातिरो᳓चते।  
+स᳓ नः पर्षद᳓ति द्वि᳓षः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/03_yaH_parasyAH.md">
@@ -222,8 +222,8 @@ He who from distance far remote shineth across the tracts of land, May he transp
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो विश्वा॒भि वि॒पश्य॑ति॒ भुव॑ना॒ सं च॒ पश्य॑ति।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+यो᳓ वि᳓श्वाभि᳓ विप᳓श्यति भु᳓वना सं᳓ च प᳓श्यति।  
+स᳓ नः पर्षद᳓ति द्वि᳓षः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
@@ -284,8 +284,8 @@ He who beholds all creatures, who observes them with a careful eye, May he trans
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/05_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒स्य पा॒रे रज॑सः शु॒क्रो अ॒ग्निरजा॑यत।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+यो᳓ अस्य᳓ पारे᳓ र᳓जसः शुक्रो᳓ अग्नि᳓र᳓जायत।  
+स᳓ नः पर्षद᳓ति द्वि᳓षः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/05_yo_asya.md">

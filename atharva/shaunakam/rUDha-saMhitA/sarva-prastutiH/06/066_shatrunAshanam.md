@@ -37,8 +37,8 @@ A charm for the destruction and plunder of enemies
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्ह॑स्तः॒ शत्रु॑रभि॒दास॑न्नस्तु॒ ये सेना॑भि॒र्युध॑मा॒यन्त्य॒स्मान्।  
-सम॑र्पयेन्द्र मह॒ता व॒धेन॒ द्रात्वे॑षामघहा॒रो विवि॑द्धः ॥
+नि᳓र्हस्तः श᳓त्रुरभिदा᳓सन्नस्तु ये᳓ से᳓नाभिर्यु᳓धमाय᳓न्त्यस्मा᳓न्।  
+स᳓मर्पयेन्द्र महता᳓ वधे᳓न द्रा᳓त्वेषामघहारो᳓ वि᳓विद्धः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
@@ -101,8 +101,8 @@ Handless be every foeman who assaileth, they who with missiles come to fight aga
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto-syanto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॑तन्वा॒ना आ॒यच्छ॒न्तोऽस्य॑न्तो॒ ये च॒ धाव॑थ।  
-निर्ह॑स्ताः शत्रवः स्थ॒नेन्द्रो॑ वो॒ऽद्य परा॑शरीत् ॥
+आ᳙तन्वाना᳓ आय᳓च्छन्तो᳓ऽस्यन्तो ये᳓ च धा᳓वथ।  
+नि᳓र्हस्ताः शत्रवः स्थने᳓न्द्रो वोऽद्य᳓ प᳓राशरीत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto-syanto.md">
@@ -176,8 +176,8 @@ Ye who run hither bending bows, brandishing swords and cast- ing darts. Handless
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/03_nirhastAH_santu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्ह॑स्ताः सन्तु॒ शत्र॒वोऽङ्गै॑षां म्लापयामसि।  
-अथै॑षामिन्द्र॒ वेदां॑सि शत॒शो वि भ॑जामहै ॥
+नि᳓र्हस्ताः सन्तु श᳓त्रवो᳓ऽङ्गैषां म्लापयामसि।  
+अ᳓थैषामिन्द्र वे᳓दांसि शतशो᳓ वि᳓ भजामहै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/066_shatrunAshanam/03_nirhastAH_santu.md">

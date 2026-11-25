@@ -37,8 +37,8 @@ A prayer to Indra for riches
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/01_yasyedamA_rajo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ये॒दमा रजो॒ युज॑स्तु॒जे जना॒ वनं॒ स्वः॑᳡।  
-इन्द्र॑स्य॒ रन्त्यं॑ बृ॒हत् ॥
+य᳓स्येद᳓मा᳓ र᳓जो यु᳓जस्तुजे᳓ ज᳓ना व᳓नं स्वः᳙।  
+इ᳓न्द्रस्य र᳓न्त्यं बृह᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/033_indrastavaH/01_yasyedamA_rajo.md">
@@ -109,8 +109,8 @@ He who controls this air and men who aid his strength, and wood, and heaven, the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/02_nAdhRSha_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नाधृ॑ष॒ आ द॑धृषते धृषा॒णो धृ॑षि॒तः शवः॑।  
-पु॒रा यथा॑ व्य॒थिः श्रव॒ इन्द्र॑स्य॒ नाधृ॑षे॒ शवः॑ ॥
+ना᳓धृष आ᳓ दधृषते धृषाणो᳓ धृषितः᳓ श᳓वः।  
+पुरा᳓ य᳓था व्यथिः᳓ श्र᳓व इ᳓न्द्रस्य ना᳓धृषे श᳓वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/033_indrastavaH/02_nAdhRSha_A.md">
@@ -180,8 +180,8 @@ The bold whose overpowering might the boldest never hath defied,-- As erst still
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/03_sa_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स नो॑ ददातु॒ तां र॒यिमु॒रुं पि॒शङ्ग॑संदृशम्।  
-इन्द्रः॒ पति॑स्तु॒विष्ट॑मो॒ जने॒ष्वा ॥
+स᳓ नो ददातु तां᳓ रयि᳓मुरुं᳓ पिश᳓ङ्गसंदृशम्।  
+इ᳓न्द्रः प᳓तिस्तुवि᳓ष्टमो ज᳓नेष्वा᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/033_indrastavaH/03_sa_no.md">

@@ -33,8 +33,8 @@ Translated: Ludwig, p. 510; Zimmer, p. 385; Griffith, i.302; Bloomfield, 8, 513.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/105_kAsashamanam/01_yathA_mano.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ मनो॑ मनस्के॒तैः प॑रा॒पत॑त्याशु॒मत्।  
-ए॒वा त्वं का॑से॒ प्र प॑त॒ मन॒सोऽनु॑ प्रवा॒य्य᳡म् ॥
+य᳓था म᳓नो मनस्केतैः᳓ पराप᳓तत्याशुम᳓त्।  
+एवा᳓ त्वं᳓ कासे प्र᳓ पत म᳓नसो᳓ऽनु प्रवाय्य᳙म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/105_kAsashamanam/01_yathA_mano.md">
@@ -115,8 +115,8 @@ Rapidly as the fancy flies forth with conceptions of the mind. So following the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/105_kAsashamanam/02_yathA_bANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ बाणः॒ सुसं॑शितः परा॒पत॑त्याशु॒मत्।  
-ए॒वा त्वं का॑से॒ प्र प॑त पृथि॒व्या अनु॑ सं॒वत॑म् ॥
+य᳓था बा᳓णः सु᳓संशितः पराप᳓तत्याशुम᳓त्।  
+एवा᳓ त्वं᳓ कासे प्र᳓ पत पृथिव्या᳓ अ᳓नु संव᳓तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/105_kAsashamanam/02_yathA_bANaH.md">
@@ -173,8 +173,8 @@ Rapidly as an arrow flies away with keenly-sharpened point, So swiftly flee away
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/105_kAsashamanam/03_yathA_sUryasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ सूर्य॑स्य र॒श्मयः॑ परा॒पत॑न्त्याशु॒मत्।  
-ए॒वा त्वं का॑से॒ प्र प॑त समु॒द्रस्यानु॑ विक्ष॒रम् ॥
+य᳓था सू᳓र्यस्य रश्म᳓यः पराप᳓तन्त्याशुम᳓त्।  
+एवा᳓ त्वं᳓ कासे प्र᳓ पत समुद्र᳓स्या᳓नु विक्षर᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/105_kAsashamanam/03_yathA_sUryasya.md">

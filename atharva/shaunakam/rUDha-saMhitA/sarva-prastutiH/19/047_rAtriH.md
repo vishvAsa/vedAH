@@ -37,8 +37,8 @@ A hymn to Night for protection from fiends, robbers, snakes and wolves
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/01_A_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ रा॑त्रि॒ पार्थि॑वं॒ रजः॑ पि॒तुर॑प्रायि॒ धाम॑भिः।  
-दि॒वः सदां॑सि बृह॒ती वि ति॑ष्ठस॒ आ त्वे॒षं व॑र्तते॒ तमः॑ ॥
+आ᳓ रात्रि पा᳓र्थिवं र᳓जः पितु᳓रप्रायि धा᳓मभिः।  
+दिवः᳓ स᳓दांसि बृहती᳓ वि᳓ तिष्ठस आ᳓ त्वेषं᳓ वर्तते त᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/047_rAtriH/01_A_rAtri.md">
@@ -108,8 +108,8 @@ Night! the terrestrial realm hath been filled with the Father's power and might.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/02_na_yasyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न यस्याः॑ पा॒रं ददृ॑शे॒ न योयु॑व॒द्विश्व॑म॒स्यां नि वि॑शते॒ यदेज॑ति।  
-अरि॑ष्टासस्त उर्वि तमस्वति॒ रात्रि॑ पा॒रम॑शीमहि॒ भद्रे॑ पा॒रम॑शीमहि ॥
+न᳓ य᳓स्याः पारं᳓ द᳓दृशे न᳓ यो᳓युवद्वि᳓श्वमस्यां᳓ नि᳓ विशते य᳓दे᳓जति।  
+अ᳓रिष्टासस्त उर्वि तमस्वति रा᳓त्रि पार᳓मशीमहि भ᳓द्रे पार᳓मशीमहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/047_rAtriH/02_na_yasyAH.md">
@@ -179,8 +179,8 @@ Each moving thing finds rest in her whose yonder boundary is not seen, nor that 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/03_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये ते॑ रात्रि नृ॒चक्ष॑सो द्र॒ष्टारो॑ नव॒तिर्नव॑।  
-अ॑शी॒तिः सन्त्य॒ष्टा उ॒तो ते॑ स॒प्त स॑प्त॒तिः ॥
+ये᳓ ते रात्रि नृच᳓क्षसो द्रष्टा᳓रो नवति᳓र्न᳓व।  
+अ᳙शीतिः᳓ स᳓न्त्यष्टा᳓ उतो᳓ ते सप्त᳓ सप्ततिः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/047_rAtriH/03_ye_te.md">
@@ -256,8 +256,8 @@ Thy ninety-nine examiners, O Night, who look upon mankind, Eighty-and-eight in n
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/04_ShaShTishcha_ShaTcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ष॒ष्टिश्च॒ षट्च॑ रेवति पञ्चा॒शत्पञ्च॑ सुम्नयि।  
-च॒त्वार॑श्चत्वारिं॒शच्च॒ त्रय॑स्त्रिं॒शच्च॑ वाजिनि ॥
+षष्टि᳓श्च ष᳓ट्च रेवति पञ्चाश᳓त्प᳓ञ्च सुम्नयि।  
+चत्वा᳓रश्चत्वारिंश᳓च्च त्र᳓यस्त्रिंश᳓च्च वाजिनि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/047_rAtriH/04_ShaShTishcha_ShaTcha.md">
@@ -318,8 +318,8 @@ Sixty-and-six, O opulent, fifty-and-five, O happy One, Forty-and-four and thirty
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/05_dvau_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्वौ च॑ ते विंश॒तिश्च॑ ते॒ रात्र्येका॑दशाव॒माः।  
-तेभि॑र्नो अ॒द्य पा॒युभि॒र्नु पा॑हि दुहितर्दिवः ॥
+द्वौ᳓ च ते विंशति᳓श्च ते रा᳓त्र्ये᳓कादशावमाः᳓।  
+ते᳓भिर्नो अद्य᳓ पायु᳓भिर्नु᳓ पाहि दुहितर्दिवः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/047_rAtriH/05_dvau_cha.md">
@@ -387,8 +387,8 @@ Twenty-and-two hast thou, O Night, eleven, yea, and fewer still. With these prot
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/06_raxA_mAkirno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रक्षा॒ माकि॑र्नो अ॒घशं॑स ईशत॒ मा नो॑ दुः॒शंस॑ ईशत।  
-मा नो॑ अ॒द्य गवां॑ स्ते॒नो मावी॑नां॒ वृक॑ ईशत ॥
+र᳓क्षा मा᳓किर्नो अघ᳓शंस ईशत मा᳓ नो दुःशं᳓स ईशत।  
+मा᳓ नो अद्य᳓ ग᳓वां स्तेनो᳓ मा᳓वीनां वृ᳓क ईशत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/047_rAtriH/06_raxA_mAkirno.md">
@@ -499,9 +499,9 @@ Let not a fiends or spiteful man, let no ill-wisher master us. Let not the robbe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/07_mAshvAnAM_bhadre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-माश्वा॑नां भद्रे॒ तस्क॑रो॒ मा नृ॒णां या॑तुधा॒न्यः᳡।  
-प॑र॒मेभिः॑ प॒थिभिः॑ स्ते॒नो धा॑वतु॒ तस्क॑रः।  
-परे॑ण द॒त्वती॒ रज्जुः॒ परे॑णाघा॒युर॑र्षतु ॥
+मा᳓श्वानां भद्रे त᳓स्करो मा᳓ नृणां᳓ यातुधान्यः᳙।  
+प᳙रमे᳓भिः पथि᳓भिः स्तेनो᳓ धावतु त᳓स्करः।  
+प᳓रेण दत्व᳓ती र᳓ज्जुः प᳓रेणाघायु᳓रर्षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/047_rAtriH/07_mAshvAnAM_bhadre.md">
@@ -560,8 +560,8 @@ Let not the thief, O Blessed, seize our horses, nor she-fiends our men. Let thie
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/08_adha_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अध॑ रात्रि तृ॒ष्टधू॑ममशी॒र्षाण॒महिं॑ कृणु।  
-हनू॒ वृक॑स्य ज॒म्भया॑स्ते॒नं द्रु॑प॒दे ज॑हि ॥
+अ᳓ध रात्रि तृष्ट᳓धूममशीर्षा᳓णम᳓हिं कृणु।  
+ह᳓नू वृ᳓कस्य जम्भ᳓यास्तेनं᳓ द्रुपदे᳓ जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/047_rAtriH/08_adha_rAtri.md">
@@ -659,8 +659,8 @@ Far from us let Rope with Fangs, far from us let the wicked flee. Do thou make b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/09_tvayi_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वयि॑ रात्रि वसामसि स्वपि॒ष्याम॑सि जागृ॒हि।  
-गोभ्यो॑ नः॒ शर्म॑ य॒च्छाश्वे॑भ्यः॒ पुरु॑षेभ्यः ॥
+त्व᳓यि रात्रि वसामसि स्वपिष्या᳓मसि जागृहि᳓।  
+गो᳓भ्यो नः श᳓र्म यच्छा᳓श्वेभ्यः पु᳓रुषेभ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/047_rAtriH/09_tvayi_rAtri.md">

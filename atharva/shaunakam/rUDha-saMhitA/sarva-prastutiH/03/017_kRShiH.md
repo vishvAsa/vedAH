@@ -33,8 +33,8 @@ A farmer's song and prayer to speed the plough
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/01_sIrA_yunjanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सीरा॑ युञ्जन्ति क॒वयो॑ यु॒गा वि त॑न्वते॒ पृथ॑क्।  
-धीरा॑ दे॒वेषु॑ सुम्न॒यौ ॥
+सी᳓रा युञ्जन्ति कव᳓यो युगा᳓ वि᳓ तन्वते पृ᳓थक्।  
+धी᳓रा देवे᳓षु सुम्नयौ᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/01_sIrA_yunjanti.md">
@@ -106,8 +106,8 @@ Wise and devoted to the Gods the skilful men bind plough-ropes fast, And lay the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/02_yunakta_sIrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यु॒नक्त॒ सीरा॒ वि यु॒गा त॑नोत कृ॒ते योनौ॑ वपते॒ह बीज॑म्।  
-वि॒राजः॒ श्नुष्टिः॒ सभ॑रा असन्नो॒ नेदी॑य॒ इत्सृ॒ण्यः॑ प॒क्वमा य॑वन् ॥
+युन᳓क्त सी᳓रा वि᳓ युगा᳓ तनोत कृते᳓ यो᳓नौ वपतेह᳓ बी᳓जम्।  
+विरा᳓जः श्नु᳓ष्टिः स᳓भरा असन्नो ने᳓दीय इ᳓त्सृण्यः᳙ पक्व᳓मा᳓ यवन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/02_yunakta_sIrA.md">
@@ -195,8 +195,8 @@ Lay on the yokes and fasten well the traces: formed is the furrow, sow the seed 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/03_lAngalaM_pavIravatsushImam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-लाङ्ग॑लं पवी॒रव॑त्सु॒शीमं॑ सोम॒सत्स॑रु।  
-उदिद्व॑पतु॒ गामविं॑ प्र॒स्थाव॑द्रथ॒वाह॑नं॒ पीब॑रीं च प्रफ॒र्व्य॑म् ॥
+ला᳓ङ्गलं पवीर᳓वत्सुशी᳓मं सोमस᳓त्सरु।  
+उ᳓दि᳓द्वपतु गा᳓म᳓विं प्रस्था᳓वद्रथवा᳓हनं पी᳓बरीं च प्रफर्व्य᳙म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/03_lAngalaM_pavIravatsushImam.md">
@@ -297,8 +297,8 @@ The keen-shared plough that bringeth bliss, furnished with traces and with stilt
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/04_indraH_sItAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रः॒ सीतां॒ नि गृ॑ह्णातु॒ तां पू॒षाभि र॑क्षतु।  
-सा नः॒ पय॑स्वती दुहा॒मुत्त॑रामुत्तरां॒ समा॑म् ॥
+इ᳓न्द्रः सी᳓तां नि᳓ गृह्णातु तां᳓ पूषा᳓भि᳓ रक्षतु।  
+सा᳓ नः प᳓यस्वती दुहामु᳓त्तरामुत्तरां स᳓माम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/04_indraH_sItAm.md">
@@ -361,8 +361,8 @@ May Indra press the furrow down, may Pushan guard and cherish her. May she, well
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/05_shunaM_suphAlA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शु॒नं सु॑फा॒ला वि तु॑दन्तु॒ भूमिं॑ शु॒नं की॒नाशा॒ अनु॑ यन्तु वा॒हान्।  
-शुना॑सीरा ह॒विषा॒ तोश॑माना सुपिप्प॒ला ओष॑धीः कर्तम॒स्मै ॥
+शुनं᳓ सुफाला᳓ वि᳓ तुदन्तु भू᳓मिं शुनं᳓ कीना᳓शा अ᳓नु यन्तु वाहा᳓न्।  
+शु᳓नासीरा हवि᳓षा तो᳓शमाना सुपिप्पला᳓ ओ᳓षधीः कर्तमस्मै᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/05_shunaM_suphAlA.md">
@@ -438,8 +438,8 @@ Happily let the shares turn up the ploughland, the ploughers happily follow the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/06_shunaM_vAhAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शु॒नं वा॒हाः शु॒नं नरः॑ शु॒नं कृ॑षतु॒ लाङ्ग॑लम्।  
-शु॒नं व॑र॒त्रा ब॑ध्यन्तां शु॒नमष्ट्रा॒मुदि॑ङ्गय ॥
+शुनं᳓ वाहाः᳓ शुनं᳓ न᳓रः शुनं᳓ कृषतु ला᳓ङ्गलम्।  
+शुनं᳓ वरत्रा᳓ बध्यन्तां शुन᳓म᳓ष्ट्रामु᳓दिङ्गय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/06_shunaM_vAhAH.md">
@@ -508,8 +508,8 @@ Happily work our steers and men! May the plough furrow happily, Happily be the t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/07_shunAsIreha_sma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शुना॑सीरे॒ह स्म॑ मे जुषेथाम्।  
-यद्दि॒वि च॒क्रथुः॒ पय॒स्तेनेमामुप॑ सिञ्चतम् ॥
+शु᳓नासीरेह᳓ स्म मे जुषेथाम्।  
+य᳓द्दिवि᳓ चक्र᳓थुः प᳓यस्ते᳓ने᳓मा᳓मु᳓प सिञ्चतम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/07_shunAsIreha_sma.md">
@@ -577,8 +577,8 @@ Suna and Sira, welcome ye this laud, and with the milk that ye have made in heav
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/08_sIte_vandAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सीते॒ वन्दा॑महे त्वा॒र्वाची॑ सुभगे भव।  
-यथा॑ नः सु॒मना॒ असो॒ यथा॑ नः सुफ॒ला भुवः॑ ॥
+सी᳓ते व᳓न्दामहे त्वार्वा᳓ची सुभगे भव।  
+य᳓था नः सुम᳓ना अ᳓सो य᳓था नः सुफला᳓ भु᳓वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/08_sIte_vandAmahe.md">
@@ -644,8 +644,8 @@ Auspicious Sita, come thou near: we venerate and worship thee. That thou mayst b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/09_ghRtena_sItA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-घृ॒तेन॒ सीता॒ मधु॑ना॒ सम॑क्ता॒ विश्वै॑र्दे॒वैरनु॑मता म॒रुद्भिः॑।  
-सा नः॑ सीते॒ पय॑सा॒भ्याव॑वृ॒त्स्वोर्ज॑स्वती घृ॒तव॒त्पिन्व॑माना ॥
+घृते᳓न सी᳓ता म᳓धुना स᳓मक्ता वि᳓श्वैर्देवै᳓र᳓नुमता मरु᳓द्भिः।  
+सा᳓ नः सीते प᳓यसाभ्या᳓ववृत्स्वो᳓र्जस्वती घृत᳓वत्पि᳓न्वमाना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/09_ghRtena_sItA.md">

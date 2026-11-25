@@ -37,8 +37,8 @@ A charm to strengthen hair and promote its growth
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/021_keshavardhanI_auShadhiH/01_imA_yAstisraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मा यास्ति॒स्रः पृ॑थि॒वीस्तासां॑ ह॒ भूमि॑रुत्त॒मा।  
-तासा॒मधि॑ त्व॒चो अ॒हं भे॑ष॒जं समु॑ जग्रभम् ॥
+इमा᳓ या᳓स्तिस्रः᳓ पृथिवी᳓स्ता᳓सां ह भू᳓मिरुत्तमा᳓।  
+ता᳓साम᳓धि त्वचो᳓ अहं᳓ भेषजं᳓ स᳓मु जग्रभम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/021_keshavardhanI_auShadhiH/01_imA_yAstisraH.md">
@@ -100,8 +100,8 @@ Of all the three terrestrial realms the ground is verily the best. I from the sk
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/021_keshavardhanI_auShadhiH/02_shreShThamasi_bheShajAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्रेष्ठ॑मसि भेष॒जानां॒ वसि॑ष्ठं॒ वीरु॑धानाम्।  
-सोमो॒ भग॑ इव॒ यामे॑षु दे॒वेषु॒ वरु॑णो॒ यथा॑ ॥
+श्रे᳓ष्ठमसि भेषजा᳓नां व᳓सिष्ठं वी᳓रुधानाम्।  
+सो᳓मो भ᳓ग इव या᳓मेषु देवे᳓षु व᳓रुणो य᳓था ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/021_keshavardhanI_auShadhiH/02_shreShThamasi_bheShajAnAm.md">
@@ -166,8 +166,8 @@ Thou art the best of medicines, most excellent of Plants art thou, As Soma 'mid 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/021_keshavardhanI_auShadhiH/03_revatIranAdhRShaH_siShAsavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रेव॑ती॒रना॑धृषः सिषा॒सवः॑ सिषासथ।  
-उ॒त स्थ के॑श॒दृंह॑णी॒रथो॑ ह केश॒वर्ध॑नीः ॥
+रे᳓वतीर᳓नाधृषः सिषास᳓वः सिषासथ।  
+उत᳓ स्थ᳓ केशदृं᳓हणीर᳓थो ह केशव᳓र्धनीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/021_keshavardhanI_auShadhiH/03_revatIranAdhRShaH_siShAsavaH.md">

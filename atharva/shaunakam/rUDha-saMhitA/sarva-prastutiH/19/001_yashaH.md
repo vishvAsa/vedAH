@@ -37,8 +37,8 @@ An accompaniment to the offering of a Mixt Oblation
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/001_yashaH/01_saMsaM_sravantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-संसं॑ स्रवन्तु न॒द्यः१॒॑ सं वाताः॒ सं प॑त॒त्रिणः॑।  
-य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्ये᳡ण ह॒विषा॑ जुहोमि ॥
+सं᳓सं स्रवन्तु नद्यः᳙ सं᳓ वा᳓ताः सं᳓ पतत्रि᳓णः।  
+यज्ञ᳓मिमं᳓ वर्धयता गिरः संस्राव्ये᳙ण हवि᳓षा जुहोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/001_yashaH/01_saMsaM_sravantu.md">
@@ -105,8 +105,8 @@ Let the streams flow together, let the winds and birds assembled come. Strengthe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/001_yashaH/02_imaM_homA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मं हो॑मा य॒ज्ञम॑वते॒मं सं॑स्रावणा उ॒त।  
-य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्ये᳡ण ह॒विषा॑ जुहोमि ॥
+इमं᳓ होमा यज्ञ᳓मवतेमं᳓ संस्रावणा उत᳓।  
+यज्ञ᳓मिमं᳓ वर्धयता गिरः संस्राव्ये᳙ण हवि᳓षा जुहोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/001_yashaH/02_imaM_homA.md">
@@ -171,8 +171,8 @@ O Burnt Oblations, aid, and ye, Blent Offerings, this my sacrifice. Strengthen t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/001_yashaH/03_rUpaMrUpaM_vayovayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रू॒पंरू॑पं॒ वयो॑वयः सं॒रभ्यै॑नं॒ परि॑ ष्वजे।  
-य॒ज्ञमि॒मं चत॑स्रः प्र॒दिशो॑ वर्धयन्तु संस्रा॒व्ये᳡ण ह॒विषा॑ जुहोमि ॥
+रूपं᳓रूपं व᳓योवयः संर᳓भ्यैनं प᳓रि ष्वजे।  
+यज्ञ᳓मिमं᳓ च᳓तस्रः प्रदि᳓शो वर्धयन्तु संस्राव्ये᳙ण हवि᳓षा जुहोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/001_yashaH/03_rUpaMrUpaM_vayovayaH.md">

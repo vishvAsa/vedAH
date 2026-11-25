@@ -37,8 +37,8 @@ A charm to avert evil spirits of misfortune and to secure prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/01_nirlaxmyaM_lalAmyaM1.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्ल॒क्ष्म्यं॑ लला॒म्यं॑१ निररा॑तिं सुवामसि।  
-अथ॒ या भ॒द्रा तानि॑ नः प्र॒जाया॒ अरा॑तिं नयामसि ॥
+नि᳓र्लक्ष्म्यं᳙ ललाम्यं᳙ नि᳓र᳓रातिं सुवामसि।  
+अ᳓थ या᳓ भद्रा᳓ ता᳓नि नः प्रजा᳓या अ᳓रातिं नयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/01_nirlaxmyaM_lalAmyaM1.md">
@@ -109,8 +109,8 @@ We drive away the Spotted Hag, Misfortune, and Malignity: All blessings to our c
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/02_niraraNiM_savitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निरर॑णिं सवि॒ता सा॑विषक्प॒दोर्निर्हस्त॑यो॒र्वरु॑णो मि॒त्रो अ॑र्य॒मा।  
-निर॒स्मभ्य॒मनु॑मती॒ ररा॑णा॒ प्रेमां दे॒वा अ॑साविषुः॒ सौभ॑गाय ॥
+नि᳓र᳓रणिं सविता᳓ साविषक्पदो᳓र्नि᳓र्ह᳓स्तयोर्व᳓रुणो मित्रो᳓ अर्यमा᳓।  
+नि᳓रस्म᳓भ्यम᳓नुमती र᳓राणा प्रे᳓मां᳓ देवा᳓ असाविषुः सौ᳓भगाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/02_niraraNiM_savitA.md">
@@ -183,8 +183,8 @@ Let Savitar, Mitra, Varuna, and Aryaman drive away Stinginess from both the hand
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/03_yatta_Atmani.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्त॑ आ॒त्मनि॑ त॒न्वां॑ घो॒रमस्ति॒ यद्वा॒ केशे॑षु प्रति॒चक्ष॑णे वा।  
-सर्वं॒ तद्वा॒चाप॑ हन्मो व॒यं दे॒वस्त्वा॑ सवि॒ता सू॑दयतु ॥
+य᳓त्त आत्म᳓नि तन्वां᳙ घोर᳓म᳓स्ति य᳓द्वा के᳓शेषु प्रतिच᳓क्षणे वा।  
+स᳓र्वं त᳓द्वाचा᳓प हन्मो वयं᳓ देव᳓स्त्वा सविता᳓ सूदयतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/03_yatta_Atmani.md">
@@ -250,8 +250,8 @@ Each fearful sign upon thy body, in thyself, each inauspicious mark seen in thy 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/04_rishyapadIM_vRShadatIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रिश्य॑पदीं॒ वृष॑दतीं गोषे॒धां वि॑ध॒मामु॒त।  
-वि॑ली॒ढ्यं॑ लला॒म्यं१॒॑ ता अ॒स्मन्ना॑शयामसि ॥
+रि᳓श्यपदीं वृ᳓षदतीं गोषेधां᳓ विधमा᳓मुत᳓।  
+वि᳙लीढ्यं᳙ ललाम्यं᳙ ता᳓ अस्म᳓न्नाशयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/04_rishyapadIM_vRShadatIm.md">

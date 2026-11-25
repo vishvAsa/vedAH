@@ -37,8 +37,8 @@ A charm to secure the supremacy of a dethroned King
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/01_abhIvartena_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑भीव॒र्तेन॑ म॒णिना॒ येनेन्द्रो॑ अभिवावृ॒धे।  
-तेना॒स्मान्ब्र॑ह्मणस्पते॒ ऽभि रा॒ष्ट्राय॑ वर्धय ॥
+अ᳙भीवर्ते᳓न मणि᳓ना ये᳓ने᳓न्द्रो अभिवावृधे᳓।  
+ते᳓नास्मा᳓न्ब्रह्मणस्पते ऽभि᳓ राष्ट्रा᳓य वर्धय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/01_abhIvartena_maNinA.md">
@@ -105,8 +105,8 @@ With that victorious Amulet which strengthened Indra's power- and might Do thou,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/02_abhivRtya_sapatnAnabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑भि॒वृत्य॑ स॒पत्ना॑न॒भि या नो॒ अरा॑तयः।  
-अ॒भि पृ॑त॒न्यन्तं॑ तिष्ठा॒भि यो नो॑ दुर॒स्यति॑ ॥
+अ᳙भिवृ᳓त्य सप᳓त्नानभि᳓ या᳓ नो अ᳓रातयः।  
+अभि᳓ पृतन्य᳓न्तं तिष्ठाभि᳓ यो᳓ नो दुरस्य᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/02_abhivRtya_sapatnAnabhi.md">
@@ -169,8 +169,8 @@ Subduing those who rival us, subduing all malignities, Withstand the man who men
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/03_abhi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि त्वा॑ दे॒वः स॑वि॒ताभि सोमो॑ अवीवृधत्।  
-अ॒भि त्वा॒ विश्वा॑ भू॒तान्य॑भीव॒र्तो यथास॑सि ॥
+अभि᳓ त्वा देवः᳓ सविता᳓भि᳓ सो᳓मो अवीवृधत्।  
+अभि᳓ त्वा वि᳓श्वा भूता᳓न्यभीवर्तो᳓ य᳓था᳓ससि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/03_abhi_tvA.md">
@@ -235,8 +235,8 @@ Soma and Savitar the God have strengthened and exalted thee: All elements have a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/04_abhIvarto_abhibhavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑भीव॒र्तो अ॑भिभ॒वः स॑पत्न॒क्षय॑णो म॒णिः।  
-रा॒ष्ट्राय॒ मह्यं॑ बध्यतां स॒पत्ने॑भ्यः परा॒भुवे॑ ॥
+अ᳙भीवर्तो᳓ अभिभवः᳓ सपत्नक्ष᳓यणो मणिः᳓।  
+राष्ट्रा᳓य म᳓ह्यं बध्यतां सप᳓त्नेभ्यः पराभु᳓वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/04_abhIvarto_abhibhavaH.md">
@@ -300,8 +300,8 @@ Slayer of rivals, vanquisher, may that victorious Amulet Be bound on me for rega
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/05_udasau_sUryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उद॒सौ सूर्यो॑ अगा॒दुदि॒दं मा॑म॒कं वचः॑।  
-यथा॒हं श॑त्रु॒हो ऽसा॑न्यसप॒त्नः स॑पत्न॒हा ॥
+उ᳓दसौ᳓ सू᳓र्यो अगादु᳓दिदं᳓ मामकं᳓ व᳓चः।  
+य᳓थाहं᳓ शत्रुहो᳓ ऽसान्यसपत्नः᳓ सपत्नहा᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/05_udasau_sUryo.md">
@@ -364,8 +364,8 @@ Yon Sun hath mounted up on high, and this my word hath mounted up That I may smi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/06_sapatnaxayaNo_vRShAbhirAShTro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑पत्न॒क्षय॑णो॒ वृषा॒भिरा॑ष्ट्रो विषास॒हिः।  
-यथा॒हमे॒षां वी॒राणां॑ वि॒राजा॑नि॒ जन॑स्य च ॥
+स᳙पत्नक्ष᳓यणो वृ᳓षाभि᳓राष्ट्रो विषासहिः᳓।  
+य᳓थाह᳓मेषां᳓ वीरा᳓णां विरा᳓जानि ज᳓नस्य च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/06_sapatnaxayaNo_vRShAbhirAShTro.md">

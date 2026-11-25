@@ -37,8 +37,8 @@ The same
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/086_trAtA_indraH/01_trAtAramindramavitAramindraM_havehave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रा॒तार॒मिन्द्र॑मवि॒तार॒मिन्द्रं॒ हवे॑हवे सु॒हवं॒ शूर॒मिन्द्र॑म्।  
-हु॒वे नु॑ श॒क्रं पु॑रुहू॒तमिन्द्रं॑ स्व॒स्ति न॒ इन्द्रो॑ म॒घवा॑न्कृणोतु ॥
+त्राता᳓रमि᳓न्द्रमविता᳓रमि᳓न्द्रं ह᳓वेहवे सुह᳓वं शू᳓रमि᳓न्द्रम्।  
+हुवे᳓ नु शक्रं᳓ पुरुहूत᳓मि᳓न्द्रं स्वस्ति᳓ न इ᳓न्द्रो मघ᳓वान्कृणोतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/086_trAtA_indraH/01_trAtAramindramavitAramindraM_havehave.md">

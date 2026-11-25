@@ -33,8 +33,8 @@ Translated: Ludwig, p. 434; Henry, 40, 113; Griffith, i. 377.—Henry gives an e
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/099_vedI/01_pari_stRNIhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ स्तृणीहि॒ परि॑ धेहि॒ वेदिं॒ मा जा॒मिं मो॑षीरमु॒या शया॑नाम्।  
-हो॑तृ॒षद॑नं॒ हरि॑तं हिर॒ण्ययं॑ नि॒ष्का ए॒ते यज॑मानस्य लो॒के ॥
+प᳓रि स्तृणीहि प᳓रि धेहि वे᳓दिं मा᳓ जामिं᳓ मोषीरमुया᳓ श᳓यानाम्।  
+हो᳙तृष᳓दनं ह᳓रितं हिरण्य᳓यं निष्का᳓ एते᳓ य᳓जमानस्य लोके᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/099_vedI/01_pari_stRNIhi.md">

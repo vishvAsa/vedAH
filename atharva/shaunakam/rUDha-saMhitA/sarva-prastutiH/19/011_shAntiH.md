@@ -37,8 +37,8 @@ A continuation of Hymn 10
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/01_shaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नः॑ स॒त्यस्य॒ पत॑यो भवन्तु॒ शं नो॒ अर्व॑न्तः॒ शमु॑ सन्तु॒ गावः॑।  
-शं न॑ ऋ॒भवः॑ सु॒कृतः॑ सु॒हस्ताः॒ शं नो॑ भवन्तु पि॒तरो॒ हवे॑षु ॥
+शं᳓ नः सत्य᳓स्य प᳓तयो भवन्तु शं᳓ नो अ᳓र्वन्तः श᳓मु सन्तु गा᳓वः।  
+शं᳓ न ऋभ᳓वः सुकृ᳓तः सुह᳓स्ताः शं᳓ नो भवन्तु पित᳓रो ह᳓वेषु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/011_shAntiH/01_shaM_naH.md">
@@ -103,8 +103,8 @@ May the great Lords of Truth protect and aid us: blest to us be our horses and o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/02_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॑ दे॒वा वि॒श्वदे॑वा भवन्तु॒ शं सर॑स्वती स॒ह धी॒भिर॑स्तु।  
-शम॑भि॒षाचः॒ शमु॑ राति॒षाचः॒ शं नो॑ दि॒व्याः पार्थि॑वाः॒ शं नो॒ अप्याः॑ ॥
+शं᳓ नो देवा᳓ विश्व᳓देवा भवन्तु शं᳓ स᳓रस्वती सह᳓ धीभि᳓रस्तु।  
+श᳓मभिषा᳓चः श᳓मु रातिषा᳓चः शं᳓ नो दिव्याः᳓ पा᳓र्थिवाः शं᳓ नो अ᳓प्याः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/011_shAntiH/02_shaM_no.md">
@@ -171,8 +171,8 @@ Kind to us be the Gods and Visve Devas, Sarasvati with Holy Thoughts be gracious
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/03_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॑ अ॒ज एक॑पाद्दे॒वो अ॑स्तु॒ शमहि॑र्बु॒ध्न्यः१॒॑ शं स॑मु॒द्रः।  
-शं नो॑ अ॒पां नपा॑त्पे॒रुर॑स्तु॒ शं नः॒ पृष्णि॑र्भवतु दे॒वगो॑पा ॥
+शं᳓ नो अज᳓ ए᳓कपाद्देवो᳓ अस्तु श᳓म᳓हिर्बुध्न्यः᳙ शं᳓ समुद्रः᳓।  
+शं᳓ नो अपां᳓ न᳓पात्पेरु᳓रस्तु शं᳓ नः पृ᳓ष्णिर्भवतु देव᳓गोपा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/011_shAntiH/03_shaM_no.md">
@@ -241,8 +241,8 @@ May Aja-Ekapad the God be gracious, gracious the Dragon of the Deep, and Ocean. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/04_AdityA_rudrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॑दि॒त्या रु॒द्रा वस॑वो जुषन्तामि॒दं ब्रह्म॑ क्रि॒यमा॑णं॒ नवी॑यः।  
-शृ॒ण्वन्तु॑ नो दि॒व्याः पार्थि॑वासो॒ गोजा॑ता उ॒त ये य॒ज्ञिया॑सः ॥
+आ᳙दित्या᳓ रुद्रा᳓ व᳓सवो जुषन्तामिदं᳓ ब्र᳓ह्म क्रिय᳓माणं न᳓वीयः।  
+शृण्व᳓न्तु नो दिव्याः᳓ पा᳓र्थिवासो गो᳓जाता उत᳓ ये᳓ यज्ञि᳓यासः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/011_shAntiH/04_AdityA_rudrA.md">
@@ -305,8 +305,8 @@ So may the Rudras, Vasus, and Adityas accept the new hymn we now are making. May
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/05_ye_devAnAmRtvijo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये दे॒वाना॑मृ॒त्विजो॑ य॒ज्ञिया॑सो॒ मनो॒र्यज॑त्रा अ॒मृता॑ ऋत॒ज्ञाः।  
-ते नो॑ रासन्तामुरुगा॒यम॒द्य यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+ये᳓ देवा᳓नामृत्वि᳓जो यज्ञि᳓यासो म᳓नोर्य᳓जत्रा अमृ᳓ता ऋतज्ञाः᳓।  
+ते᳓ नो रासन्तामुरुगाय᳓मद्य᳓ यूयं᳓ पात स्वस्ति᳓भिः स᳓दा नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/011_shAntiH/05_ye_devAnAmRtvijo.md">
@@ -371,8 +371,8 @@ Priests of the Gods, worthy of sacrifices, immortal, knowing Law, whom man must 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/06_tadastu_mitrAvaruNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तद॑स्तु मित्रावरुणा॒ तद॑ग्ने॒ शं योर॒स्मभ्य॑मि॒दम॑स्तु श॒स्तम्।  
-अ॑शी॒महि॑ गा॒धमु॒त प्र॑ति॒ष्ठां नमो॑ दि॒वे बृ॑ह॒ते साद॑नाय ॥
+त᳓दस्तु मित्रावरुणा त᳓दग्ने शं᳓ यो᳓रस्म᳓भ्यमिद᳓मस्तु शस्त᳓म्।  
+अ᳙शीम᳓हि गाध᳓मुत᳓ प्रतिष्ठां᳓ न᳓मो दिवे᳓ बृहते᳓ सा᳓दनाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/011_shAntiH/06_tadastu_mitrAvaruNA.md">

@@ -37,8 +37,8 @@ A charm to make a poisonous plant innocuous
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/01_vAridamvArayAtai_varaNAvatyAmadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वारि॒दम्वा॑रयातै वर॒णाव॑त्या॒मधि॑।  
-तत्रा॒मृत॒स्यासि॑क्तं॒ तेना॑ ते वारये वि॒षम् ॥
+वा᳓रिद᳓म्वारयातै वरणा᳓वत्याम᳓धि।  
+त᳓त्रामृ᳓तस्या᳓सिक्तं ते᳓ना ते वारये विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/01_vAridamvArayAtai_varaNAvatyAmadhi.md">
@@ -106,8 +106,8 @@ So may this water guard us on the bank of Varanavati. Therein hath Amrit been in
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/02_arasaM_prAchyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑र॒सं प्रा॒च्यं॑ वि॒षम॑र॒सं यदु॑दी॒च्य॑म्।  
-अथे॒दम॑धरा॒च्यं॑ कर॒म्भेण॒ वि क॑ल्पते ॥
+अ᳙रसं᳓ प्राच्यं᳙ विष᳓मरसं᳓ य᳓दुदीच्य᳙म्।  
+अ᳓थेद᳓मधराच्यं᳙ करम्भे᳓ण वि᳓ कल्पते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/02_arasaM_prAchyam.md">
@@ -172,8 +172,8 @@ Weak is the poison of the East, weak is the poison of the North, So too this poi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/03_karambhaM_kRtvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क॑र॒म्भं कृ॒त्वा ति॒र्यं॑ पीबस्पा॒कमु॑दार॒थिम्।  
-क्षु॒धा किल॑ त्वा दुष्टनो जक्षि॒वान्त्स न रू॑रुपः ॥
+क᳙रम्भं᳓ कृत्वा᳓ तिर्यं᳙ पीबस्पाक᳓मुदारथि᳓म्।  
+क्षुधा᳓ कि᳓ल त्वा दुष्टनो जक्षिवा᳓न्त्स᳓ न᳓ रूरुपः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/03_karambhaM_kRtvA.md">
@@ -270,8 +270,8 @@ When he hath made of thee a cake, broad, steaming, swelling up with fat, And eve
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/04_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि ते॒ मदं॑ मदावति श॒रमि॑व पातयामसि।  
-प्र त्वा॑ च॒रुमि॑व॒ येष॑न्तं॒ वच॑सा स्थापयामसि ॥
+वि᳓ ते म᳓दं मदावति शर᳓मिव पातयामसि।  
+प्र᳓ त्वा चरु᳓मिव ये᳓षन्तं व᳓चसा स्थापयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/04_vi_te.md">
@@ -341,8 +341,8 @@ Intoxicater! like a shaft we make thy spirit fly away, Like a pot boiling on the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/05_pari_grAmamivAchitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॒ ग्राम॑मि॒वाचि॑तं॒ वच॑सा स्थापयामसि।  
-तिष्ठा॑ वृ॒क्ष इ॑व॒ स्थाम्न्यभ्रि॑खाते॒ न रू॑रुपः ॥
+प᳓रि ग्रा᳓ममिवा᳓चितं व᳓चसा स्थापयामसि।  
+ति᳓ष्ठा वृक्ष᳓ इव स्था᳓म्न्य᳓भ्रिखाते न᳓ रूरुपः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/05_pari_grAmamivAchitam.md">
@@ -409,8 +409,8 @@ We set around thee with the spell as 'twere a gathered arma- ment. Stay quiet li
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/06_pavastaistvA_paryakrINandUrshebhirajinairuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒वस्तै॑स्त्वा॒ पर्य॑क्रीणन्दू॒र्शेभि॑र॒जिनै॑रु॒त।  
-प्र॒क्रीर॑सि॒ त्वमो॑ष॒धेऽभ्रि॑खाते॒ न रू॑रुपः ॥
+पव᳓स्तैस्त्वा प᳓र्यक्रीणन्दूर्शे᳓भिरजि᳓नैरुत᳓।  
+प्रक्री᳓रसि त्व᳓मोषधे᳓ऽभ्रिखाते न᳓ रूरुपः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/06_pavastaistvA_paryakrINandUrshebhirajinairuta.md">
@@ -475,8 +475,8 @@ For coverings men have bartered thee, for skins of deer and woven cloths. Thou a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/07_anAptA_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अना॑प्ता॒ ये वः॑ प्रथ॒मा यानि॒ कर्मा॑णि चक्रि॒रे।  
-वी॒रान्नो॒ अत्र॒ मा द॑भ॒न्तद्व॑ ए॒तत्पु॒रो द॑धे ॥
+अ᳓नाप्ता ये᳓ वः प्रथमा᳓ या᳓नि क᳓र्माणि चक्रिरे᳓।  
+वीरा᳓न्नो अ᳓त्र मा᳓ दभन्त᳓द्व एत᳓त्पुरो᳓ दधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/07_anAptA_ye.md">

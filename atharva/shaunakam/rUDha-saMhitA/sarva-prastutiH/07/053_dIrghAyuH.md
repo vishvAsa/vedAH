@@ -37,8 +37,8 @@ A charm to recover a sick man at the point of death
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/01_amutrabhUyAdadhi_yadyamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑मुत्र॒भूया॒दधि॒ यद्य॒मस्य॒ बृह॑स्पतेर॒भिश॑स्ते॒रमु॑ञ्चः।  
-प्रत्यौ॑हताम॒श्विना॑ मृ॒त्युम॒स्मद्दे॒वाना॑मग्ने भि॒षजा॒ शची॑भिः ॥
+अ᳙मुत्रभू᳓याद᳓धि य᳓द्यम᳓स्य बृ᳓हस्पतेरभि᳓शस्तेर᳓मुञ्चः।  
+प्र᳓त्यौहतामश्वि᳓ना मृत्यु᳓मस्म᳓द्देवा᳓नामग्ने भिष᳓जा श᳓चीभिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/053_dIrghAyuH/01_amutrabhUyAdadhi_yadyamasya.md">
@@ -118,8 +118,8 @@ As thou, Brihaspati, from the curse hast saved us, from dwel- ling yonder in the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/02_saM_krAmatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं क्रा॑मतं॒ मा ज॑हीतं॒ शरी॑रं प्राणापा॒नौ ते॑ स॒युजा॑वि॒ह स्ता॑म्।  
-श॒तं जी॑व श॒रदो॒ वर्ध॑मानो॒ऽग्निष्टे॑ गो॒पा अ॑धि॒पा वसि॑ष्ठः ॥
+सं᳓ क्रामतं मा᳓ जहीतं श᳓रीरं प्राणापानौ᳓ ते सयु᳓जाविह᳓ स्ताम्।  
+शतं᳓ जीव शर᳓दो व᳓र्धमानोऽग्नि᳓ष्टे गोपा᳓ अधिपा᳓ व᳓सिष्ठः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/053_dIrghAyuH/02_saM_krAmatam.md">
@@ -185,8 +185,8 @@ Move both together; do not leave the body. Let both the breathings stay for thee
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/03_Ayuryatte_atihitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयु॒र्यत्ते॒ अति॑हितं परा॒चैर॑पा॒नः प्रा॒णः पुन॒रा तावि॑ताम्।  
-अ॒ग्निष्टदाहा॒र्निरृ॑तेरु॒पस्था॒त्तदा॒त्मनि॒ पुन॒रा वे॑शयामि ते ॥
+आ᳓युर्य᳓त्ते अ᳓तिहितं पराचै᳓रपानः᳓ प्राणः᳓ पु᳓नरा᳓ ता᳓विताम्।  
+अग्नि᳓ष्ट᳓दा᳓हार्नि᳓रृतेरुप᳓स्थात्त᳓दात्म᳓नि पु᳓नरा᳓ वेशयामि ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/053_dIrghAyuH/03_Ayuryatte_atihitam.md">
@@ -252,8 +252,8 @@ Return, thy life now vanished into distance! Return, the breath thou drawest and
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/04_memaM_prANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मेमं प्रा॒णो हा॑सी॒न्मो अ॑पा॒नो᳡व॒हाय॒ परा॑ गात्।  
-स॑प्त॒र्षिभ्य॑ एनं॒ परि॑ ददामि॒ ते ए॑नं स्व॒स्ति ज॒रसे॑ वहन्तु ॥
+मे᳓मं᳓ प्राणो᳓ हासीन्मो᳓ अपानो᳙वहा᳓य प᳓रा गात्।  
+स᳙प्तर्षि᳓भ्य एनं प᳓रि ददामि ते᳓ एनं स्वस्ति᳓ जर᳓से वहन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/053_dIrghAyuH/04_memaM_prANo.md">
@@ -328,8 +328,8 @@ Let not the vital breath he draws forsake him, let not his expiration part and l
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/05_pra_viShatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र वि॑षतं प्राणापानावन॒ड्वाहा॑विव व्र॒जम्।  
-अ॒यं ज॑रि॒म्णः शे॑व॒धिररि॑ष्ट इ॒ह व॑र्धताम् ॥
+प्र᳓ विषतं प्राणापानावनड्वा᳓हाविव व्रज᳓म्।  
+अयं᳓ जरिम्णः᳓ शेवधि᳓र᳓रिष्ट इह᳓ वर्धताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/053_dIrghAyuH/05_pra_viShatam.md">
@@ -391,8 +391,8 @@ Enter him, both ye breaths, like two draught-oxen entering their stall. Let him,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/06_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ ते॑ प्रा॒णं सु॑वामसि॒ परा॒ यक्ष्मं॑ सुवामि ते।  
-आयु॑र्नो वि॒श्वतो॑ दधद॒यम॒ग्निर्वरे॑ण्यः ॥
+आ᳓ ते प्राणं᳓ सुवामसि प᳓रा य᳓क्ष्मं सुवामि ते।  
+आ᳓युर्नो विश्व᳓तो दधदय᳓मग्नि᳓र्व᳓रेण्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/053_dIrghAyuH/06_A_te.md">
@@ -456,8 +456,8 @@ I send thee back thy vital breath; I drive Consumption far from thee, May Agni h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/07_udvayaM_tamasaspari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उद्व॒यं तम॑स॒स्परि॒ रोह॑न्तो॒ नाक॑मुत्त॒मम्।  
-दे॒वं दे॑व॒त्रा सूर्य॒मग॑न्म॒ ज्योति॑रुत्त॒मम् ॥
+उ᳓द्वयं᳓ त᳓मसस्प᳓रि रो᳓हन्तो ना᳓कमुत्तम᳓म्।  
+देवं᳓ देवत्रा᳓ सू᳓र्यम᳓गन्म ज्यो᳓तिरुत्तम᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/053_dIrghAyuH/07_udvayaM_tamasaspari.md">

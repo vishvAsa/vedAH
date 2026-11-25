@@ -33,8 +33,8 @@ A hymn to Kama or Desire
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/01_kAmastadagre_samavartata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-काम॒स्तदग्रे॒ सम॑वर्तत॒ मन॑सो॒ रेतः॑ प्रथ॒मं यदासी॑त्।  
-स का॑म॒ कामे॑न बृह॒ता सयो॑नी रा॒यस्पोषं॒ यज॑मानाय धेहि ॥
+का᳓मस्त᳓द᳓ग्रे स᳓मवर्तत म᳓नसो रे᳓तः प्रथमं᳓ य᳓दा᳓सीत्।  
+स᳓ काम का᳓मेन बृहता᳓ स᳓योनी राय᳓स्पो᳓षं य᳓जमानाय धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/01_kAmastadagre_samavartata.md">
@@ -103,8 +103,8 @@ Thereafter rose Desire in the beginning, Desire the primal seed and germ of Spir
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/02_tvaM_kAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं का॑म॒ सह॑सासि॒ प्रति॑ष्ठितो वि॒भुर्वि॒भावा॑ सख॒ आ स॑खीय॒ते।  
-त्वमु॒ग्रः पृत॑नासु सास॒हिः सह॒ ओजो॒ यज॑मानाय धेहि ॥
+त्वं᳓ काम स᳓हसासि प्र᳓तिष्ठितो विभु᳓र्विभा᳓वा सख आ᳓ सखीयते᳓।  
+त्व᳓मुग्रः᳓ पृ᳓तनासु सासहिः᳓ स᳓ह ओ᳓जो य᳓जमानाय धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/02_tvaM_kAma.md">
@@ -180,8 +180,8 @@ Thou, Kama, art victorious, famous, potent, splendid, a friend. to him who seeks
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/03_dUrAchchakamAnAya_pratipANAyAxaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दू॒राच्च॑कमा॒नाय॑ प्रतिपा॒णायाक्ष॑ये।  
-आस्मा॑ अशृण्व॒न्नाशाः॒ कामे॑नाजनय॒न्त्स्वः᳡ ॥
+दूरा᳓च्चकमाना᳓य प्रतिपाणा᳓या᳓क्षये।  
+आ᳓स्मा अशृण्वन्ना᳓शाः का᳓मेनाजनयन्त्स्वः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/03_dUrAchchakamAnAya_pratipANAyAxaye.md">
@@ -262,8 +262,8 @@ They heard his prayers, and they begot, by Kama, heavenly- light for him. Who fr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/04_kAmena_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कामे॑न मा॒ काम॒ आग॒न्हृद॑या॒द्धृद॑यं॒ परि॑।  
-यद॒मीषा॑म॒दो मन॒स्तदैतूप॑ मामि॒ह ॥
+का᳓मेन मा का᳓म आ᳓गन्हृ᳓दयाद्धृ᳓दयं प᳓रि।  
+य᳓दमी᳓षामदो᳓ म᳓नस्त᳓दै᳓तू᳓प मामिह᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/04_kAmena_mA.md">
@@ -329,8 +329,8 @@ O Kama, with whatever wish we make this offering to thee, May it be all fulfille
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/05_yatkAma_kAmayamAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्का॑म का॒मय॑माना इ॒दं कृ॒ण्मसि॑ ते ह॒विः।  
-तन्नः॒ सर्वं॒ समृ॑ध्यता॒मथै॒तस्य॑ ह॒विषो॑ वीहि॒ स्वाहा॑ ॥
+य᳓त्काम काम᳓यमाना इदं᳓ कृण्म᳓सि ते हविः᳓।  
+त᳓न्नः स᳓र्वं स᳓मृध्यताम᳓थैत᳓स्य हवि᳓षो वीहि स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/05_yatkAma_kAmayamAnA.md">

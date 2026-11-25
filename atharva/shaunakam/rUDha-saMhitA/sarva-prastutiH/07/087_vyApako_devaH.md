@@ -37,8 +37,8 @@ A prayer to Rudra as Agni
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/087_vyApako_devaH/01_yo_agnau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒ग्नौ रु॒द्रो यो अ॒प्स्व१॒॑न्तर्य ओष॑धीर्वी॒रुध॑ आवि॒वेश॑।  
-य इ॒मा विश्वा॒ भुव॑नानि चा॒क्लृ॒पे तस्मै॑ रु॒द्राय॒ नमो॑ अस्त्व॒ग्नये॑ ॥
+यो᳓ अग्नौ᳓ रुद्रो᳓ यो᳓ अप्स्व᳙न्त᳓र्य᳓ ओ᳓षधीर्वीरु᳓ध आविवे᳓श।  
+य᳓ इमा᳓ वि᳓श्वा भु᳓वनानि चाक्लृपे᳓ त᳓स्मै रुद्रा᳓य न᳓मो अस्त्वग्न᳓ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/087_vyApako_devaH/01_yo_agnau.md">

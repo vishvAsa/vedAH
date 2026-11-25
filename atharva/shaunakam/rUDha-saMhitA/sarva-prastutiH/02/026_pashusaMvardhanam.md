@@ -37,8 +37,8 @@ A benediction on homeward coming cattle
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/01_eha_yantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒ह य॑न्तु प॒शवो॒ ये प॑रे॒युर्वा॒युर्येषां॑ सहचा॒रं जु॒जोष॑।  
-त्वष्टा॒ येषां॑ रूपधेयानि॒ वेदा॒स्मिन्तान्गो॒ष्ठे स॑वि॒ता नि य॑च्छतु ॥
+एह᳓ यन्तु पश᳓वो ये᳓ परेयु᳓र्वायु᳓र्ये᳓षां सहचारं᳓ जुजो᳓ष।  
+त्व᳓ष्टा ये᳓षां रूपधेयानि वे᳓दास्मि᳓न्ता᳓न्गोष्ठे᳓ सविता᳓ नि᳓ यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/026_pashusaMvardhanam/01_eha_yantu.md">
@@ -103,8 +103,8 @@ Let them come home, the cattle that have wandered, whom Vayu hath delighted to a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/02_imaM_goShTham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मं गो॒ष्ठं प॒शवः॒ सं स्र॑वन्तु॒ बृह॒स्पति॒रा न॑यतु प्रजा॒नन्।  
-सि॑नीवा॒ली न॑य॒त्वाग्र॑मेषामाज॒ग्मुषो॑ अनुमते॒ नि य॑च्छ ॥
+इमं᳓ गोष्ठं᳓ पश᳓वः सं᳓ स्रवन्तु बृ᳓हस्प᳓तिरा᳓ नयतु प्रजान᳓न्।  
+सि᳙नीवाली᳓ नयत्वा᳓ग्रमेषामाजग्मु᳓षो अनुमते नि᳓ यच्छ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/026_pashusaMvardhanam/02_imaM_goShTham.md">
@@ -172,8 +172,8 @@ Let the beasts stream together to this cow-pen. Brihaspati who knoweth lead them
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/03_saM_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं सं स्र॑वन्तु प॒शवः॒ समश्वाः॒ समु॒ पूरु॑षाः।  
-सं धा॒न्य॑स्य॒ या स्फा॒तिः सं॑स्रा॒व्ये॑ण ह॒विषा॑ जुहोमि ॥
+सं᳓ सं᳓ स्रवन्तु पश᳓वः स᳓म᳓श्वाः स᳓मु पू᳓रुषाः।  
+सं᳓ धान्य᳙स्य या᳓ स्फातिः᳓ संस्राव्ये᳙ण हवि᳓षा जुहोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/026_pashusaMvardhanam/03_saM_sam.md">
@@ -240,8 +240,8 @@ Together stream the cattle! stream together horses and the men! Hitherward press
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/04_saM_sinchAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं सि॑ञ्चामि॒ गवां॑ क्षी॒रं समाज्ये॑न॒ बलं॒ रस॑म्।  
-संसि॑क्ता अ॒स्माकं॑ वी॒रा ध्रु॒वा गावो॒ मयि॒ गोप॑तौ ॥
+सं᳓ सिञ्चामि ग᳓वां क्षीरं᳓ स᳓मा᳓ज्येन ब᳓लं र᳓सम्।  
+सं᳓सिक्ता अस्मा᳓कं वीरा᳓ ध्रुवा᳓ गा᳓वो म᳓यि गो᳓पतौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/026_pashusaMvardhanam/04_saM_sinchAmi.md">
@@ -310,8 +310,8 @@ I pour together milk of kine, with butter blending strength and juice. Well spri
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/05_A_harAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ ह॑रामि॒ गवां॑ क्षी॒रमाहा॑र्षं धा॒न्यं१॒॑ रस॑म्।  
-आहृ॑ता अ॒स्माकं॑ वी॒रा आ पत्नी॑रि॒दमस्त॑कम् ॥
+आ᳓ हरामि ग᳓वां क्षीर᳓मा᳓हार्षं धान्यं᳙ र᳓सम्।  
+आ᳓हृता अस्मा᳓कं वीरा᳓ आ᳓ प᳓त्नीरिद᳓म᳓स्तकम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/026_pashusaMvardhanam/05_A_harAmi.md">

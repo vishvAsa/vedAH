@@ -32,8 +32,10 @@ Translated: Henry, 2, 48; Griffith, i. 328.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/003_AtmA/01_ayA_viShThA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒या वि॒ष्ठा ज॒नय॒न्कर्व॑राणि॒ स हि घृणि॑रु॒रुर्वरा॑य गा॒तुः।  
-स प्र॒त्युदै॑द्ध॒रुणं॒ मध्वो॒ अग्रं॒ स्वया॑ त॒न्वा᳡ त॒न्व᳡मैरयत ॥
+अया᳓ विष्ठा᳓ जन᳓यन् क᳓र्वराणि  
+स᳓ हि᳓ घृ᳓णिर् उरु᳓र् व᳓राय गातुः᳓।  
+स᳓ प्रत्यु᳓दैद् धरु᳓णं म᳓ध्वो अ᳓ग्रं  
+स्व᳓या तन्वा᳙ तन्व᳙म् ऐरयत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/003_AtmA/01_ayA_viShThA.md">

@@ -37,8 +37,8 @@ A charm for the acquisition of superhuman powers of sight
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/01_A_pashyati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ प॑श्यति॒ प्रति॑ पश्यति॒ परा॑ पश्यति॒ पश्य॑ति।  
-दिव॑म॒न्तरि॑क्ष॒माद्भूमिं॒ सर्वं॒ तद्दे॑वि पश्यति ॥
+आ᳓ पश्यति प्र᳓ति पश्यति प᳓रा पश्यति प᳓श्यति।  
+दि᳓वमन्त᳓रिक्षमा᳓द्भू᳓मिं स᳓र्वं त᳓द्देवि पश्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/01_A_pashyati.md">
@@ -106,8 +106,8 @@ It sees in front, it sees behind, it sees afar away, it sees The sky, the firmam
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/02_tisro_divastisraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ति॒स्रो दिव॑स्ति॒स्रः पृ॑थि॒वीः षट्चे॒माः प्र॒दिशः॒ पृथ॑क्।  
-त्वया॒हं सर्वा॑ भू॒तानि॒ पश्या॑नि देव्योषधे ॥
+तिस्रो᳓ दि᳓वस्तिस्रः᳓ पृथिवीः᳓ ष᳓ट्चेमाः᳓ प्रदि᳓शः पृ᳓थक्।  
+त्व᳓याहं᳓ स᳓र्वा भूता᳓नि प᳓श्यानि देव्योषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/02_tisro_divastisraH.md">
@@ -172,8 +172,8 @@ Through thee, O godlike Plant, may I behold all creatures that exist, Three seve
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/03_divyasya_suparNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒व्यस्य॑ सुप॒र्णस्य॒ तस्य॑ हासि क॒नीनि॑का।  
-सा भूमि॒मा रु॑रोहिथ व॒ह्यं श्रा॒न्ता व॒धूरि॑व ॥
+दिव्य᳓स्य सुपर्ण᳓स्य त᳓स्य हासि कनी᳓निका।  
+सा᳓ भू᳓मिमा᳓ रुरोहिथ वह्यं᳓ श्रान्ता᳓ वधू᳓रिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/03_divyasya_suparNasya.md">
@@ -236,8 +236,8 @@ The pupil, verily, art thou of that celestial Engle's eye. On earth hast thou al
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/04_tAM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तां मे॑ सहस्रा॒क्षो दे॒वो दक्षि॑णे॒ हस्त॒ आ द॑धत्।  
-तया॒हं सर्वं॑ पश्यामि॒ यश्च॑ शू॒द्र उ॒तार्यः॑ ॥
+तां᳓ मे सहस्राक्षो᳓ देवो᳓ द᳓क्षिणे ह᳓स्त आ᳓ दधत्।  
+त᳓याहं᳓ स᳓र्वं पश्यामि य᳓श्च शूद्र᳓ उता᳓र्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/04_tAM_me.md">
@@ -301,8 +301,8 @@ The God who hath a thousand eyes give me this Plant in my right hand! I look on 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/05_AviShkRNuShva_rUpANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒विष्कृ॑णुष्व रू॒पाणि॒ मात्मान॒मप॑ गूहथाः।  
-अथो॑ सहस्रचक्षो॒ त्वं प्रति॑ पश्याः किमी॒दिनः॑ ॥
+आवि᳓ष्कृणुष्व रूपा᳓णि मा᳓त्मा᳓नम᳓प गूहथाः।  
+अ᳓थो सहस्रचक्षो त्वं᳓ प्र᳓ति पश्याः किमीदि᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/05_AviShkRNuShva_rUpANi.md">
@@ -366,8 +366,8 @@ Make manifest the forms of things; hide not their essences from sight. And, thou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/06_darshaya_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द॒र्शय॑ मा यातु॒धाना॑न्द॒र्शय॑ यातुधा॒न्यः॑।  
-पि॑शा॒चान्त्सर्वा॑न्दर्श॒येति॒ त्वा र॑भ ओषधे ॥
+दर्श᳓य मा यातुधा᳓नान्दर्श᳓य यातुधान्यः᳙।  
+पि᳙शाचा᳓न्त्स᳓र्वान्दर्शये᳓ति त्वा᳓ रभ ओषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/06_darshaya_mA.md">
@@ -429,8 +429,8 @@ Make me see Yatudhanas, make thou Yatudhanis visible. Make me see all Pisachas W
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/07_kashyapasya_chaxurasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क॒श्यप॑स्य॒ चक्षु॑रसि शु॒न्याश्च॑ चतुर॒क्ष्याः।  
-वी॒ध्रे सूर्य॑मिव॒ सर्प॑न्तं॒ मा पि॑शा॒चं ति॒रस्क॑रः ॥
+कश्य᳓पस्य च᳓क्षुरसि शुन्या᳓श्च चतुरक्ष्याः᳓।  
+वीध्रे᳓ सू᳓र्यमिव स᳓र्पन्तं मा᳓ पिशाचं᳓ तिर᳓स्करः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/07_kashyapasya_chaxurasi.md">
@@ -506,8 +506,8 @@ Thou art the sight of Kasyapa and of the hound who hath four eyes. Make the Pisa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/08_udagrabhaM_paripANAdyAtudhAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उद॑ग्रभं परि॒पाणा॑द्यातु॒धानं॑ किमी॒दिन॑म्।  
-तेना॒हं सर्वं॑ पश्याम्यु॒त शू॒द्रमु॒तार्य॑म् ॥
+उ᳓दग्रभं परिपा᳓णाद्यातुधा᳓नं किमीदि᳓नम्।  
+ते᳓नाहं᳓ स᳓र्वं पश्याम्युत᳓ शूद्र᳓मुता᳓र्यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/08_udagrabhaM_paripANAdyAtudhAnam.md">
@@ -571,8 +571,8 @@ Kimidin, Yatudhana from their hiding-places have I dragged. I look on every one 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/09_yo_antarixeNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒न्तरि॑क्षेण॒ पत॑ति॒ दिवं॒ यश्चा॑ति॒सर्प॑ति।  
-भूमिं॒ यो मन्य॑ते ना॒थं तं पि॑शा॒चं प्र द॑र्शय ॥
+यो᳓ अन्त᳓रिक्षेण प᳓तति दि᳓वं य᳓श्चातिस᳓र्पति।  
+भू᳓मिं यो᳓ म᳓न्यते नाथं᳓ तं᳓ पिशाचं᳓ प्र᳓ दर्शय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/09_yo_antarixeNa.md">

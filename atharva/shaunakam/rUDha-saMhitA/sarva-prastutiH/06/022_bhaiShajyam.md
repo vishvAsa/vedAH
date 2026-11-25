@@ -37,8 +37,8 @@ To the Maruts or Storm-Gods
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/022_bhaiShajyam/01_kRShNaM_niyAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत्प॑तन्ति।  
-त आव॑वृत्र॒न्त्सद॑नादृ॒तस्यादिद्घृ॒तेन॑ पृथि॒वीं व्यू॑दुः ॥
+कृष्णं᳓ निया᳓नं ह᳓रयः सुपर्णा᳓ अपो᳓ व᳓साना दि᳓वमु᳓त्पतन्ति।  
+त᳓ आ᳓ववृत्रन्त्स᳓दनादृत᳓स्या᳓दि᳓द्घृते᳓न पृथिवीं᳓ व्यूदुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/01_kRShNaM_niyAnam.md">
@@ -107,8 +107,8 @@ Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/022_bhaiShajyam/02_payasvatIH_kRNuthApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पय॑स्वतीः कृणुथा॒प ओष॑धीः शि॒वा यदेज॑था मरुतो रुक्मवक्षसः।  
-ऊर्जं॑ च॒ तत्र॑ सुम॒तिं च॑ पिन्वत॒ यत्रा॑ नरो मरुतः सि॒ञ्चथा॒ मधु॑ ॥
+प᳓यस्वतीः कृणुथाप᳓ ओ᳓षधीः शिवा᳓ य᳓दे᳓जथा मरुतो रुक्मवक्षसः।  
+ऊ᳓र्जं च त᳓त्र सुमतिं᳓ च पिन्वत य᳓त्रा नरो मरुतः सिञ्च᳓था म᳓धु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/02_payasvatIH_kRNuthApa.md">
@@ -174,8 +174,8 @@ Ye make floods rich in milk, make plants propitious, what time ye stir, O golden
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/022_bhaiShajyam/03_udapruto_marutastA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑द॒प्रुतो॑ म॒रुत॒स्ताँ इ॑यर्त वृ॒ष्टिर्या विश्वा॑ नि॒वत॑स्पृ॒णाति॑।  
-एजा॑ति॒ ग्लहा॑ क॒न्ये॑व तु॒न्नैरुं॑ तुन्दा॒ना पत्ये॑व जा॒या ॥
+उ᳙दप्रु᳓तो मरु᳓तस्ताँ᳓ इयर्त वृष्टि᳓र्या᳓ वि᳓श्वा निव᳓तस्पृणा᳓ति।  
+ए᳓जाति ग्ल᳓हा कन्ये᳙व तुन्नै᳓रुं तुन्दाना᳓ प᳓त्येव जाया᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/03_udapruto_marutastA.N.md">

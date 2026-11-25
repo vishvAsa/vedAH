@@ -37,8 +37,8 @@ A charm to remove a woman's sterility, and to assure the birth of boys
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/01_yena_vehadbabhUvitha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ वे॒हद्ब॒भूवि॑थ ना॒शया॑मसि॒ तत्त्वत्।  
-इ॒दं तद॒न्यत्र॒ त्वदप॑ दू॒रे नि द॑ध्मसि ॥
+ये᳓न वेह᳓द्बभू᳓विथ नाश᳓यामसि त᳓त्त्व᳓त्।  
+इदं᳓ त᳓दन्य᳓त्र त्व᳓द᳓प दूरे᳓ नि᳓ दध्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/01_yena_vehadbabhUvitha.md">
@@ -101,8 +101,8 @@ From thee we banish and expel the cause of thy sterility. This in another place 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/02_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ ते॒ योनिं॒ गर्भ॑ एतु॒ पुमा॒न्बाण॑ इवेषु॒धिम्।  
-आ वी॒रोऽत्र॑ जायतां पु॒त्रस्ते॒ दश॑मास्यः ॥
+आ᳓ ते यो᳓निं ग᳓र्भ एतु पु᳓मान्बा᳓ण इवेषुधि᳓म्।  
+आ᳓ वीरो᳓ऽत्र जायतां पुत्र᳓स्ते द᳓शमास्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/02_A_te.md">
@@ -168,8 +168,8 @@ As arrow to the quiver, so let a male embryo enter thee. Then from thy side be b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/03_pumAMsaM_putram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुमां॑सं पु॒त्रं ज॑नय॒ तं पुमा॒ननु॑ जायताम्।  
-भवा॑सि पु॒त्राणां॑ मा॒ता जा॒तानां॑ ज॒नया॑श्च॒ यान् ॥
+पु᳓मांसं पुत्रं᳓ जनय तं᳓ पु᳓मान᳓नु जायताम्।  
+भ᳓वासि पुत्रा᳓णां माता᳓ जाता᳓नां जन᳓याश्च या᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/03_pumAMsaM_putram.md">
@@ -238,8 +238,8 @@ Bring forth a male, bring forth a son. Another male shall follow him. The mother
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/04_yAni_bhadrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यानि॑ भ॒द्राणि॒ बीजा॑न्यृष॒भा ज॒नय॑न्ति च।  
-तैस्त्वं पु॒त्रं वि॑न्दस्व॒ सा प्र॒सूर्धेनु॑का भव ॥
+या᳓नि भद्रा᳓णि बी᳓जान्यृषभा᳓ जन᳓यन्ति च।  
+तै᳓स्त्वं᳓ पुत्रं᳓ विन्दस्व सा᳓ प्रसू᳓र्धे᳓नुका भव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/04_yAni_bhadrANi.md">
@@ -310,8 +310,8 @@ With that auspicious general flow wherewith steers propagate their kind, Do thou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/05_kRNomi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॒णोमि॑ ते प्राजाप॒त्यमा योनिं॒ गर्भ॑ एतु ते।  
-वि॒न्दस्व॒ त्वं पु॒त्रं ना॑रि॒ यस्तुभ्यं॒ शमस॒च्छमु॒ तस्मै॒ त्वं भव॑ ॥
+कृणो᳓मि ते प्राजापत्य᳓मा᳓ यो᳓निं ग᳓र्भ एतु ते।  
+विन्द᳓स्व त्वं᳓ पुत्रं᳓ नारि य᳓स्तु᳓भ्यं श᳓म᳓सच्छ᳓मु त᳓स्मै त्वं᳓ भ᳓व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/05_kRNomi_te.md">
@@ -379,8 +379,8 @@ I give thee power to bear a child: within, thee pass the germ of life! Obtain a 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/06_yAsAM_dyauShpitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यासां॒ द्यौष्पि॒ता पृ॑थि॒वी मा॒ता स॑मु॒द्रो मूलं॑ वी॒रुधां॑ ब॒भूव॑।  
-तास्त्वा॑ पुत्र॒विद्या॑य॒ दैवीः॒ प्राव॒न्त्वोष॑धयः ॥
+या᳓सां द्यौ᳓ष्पिता᳓ पृथिवी᳓ माता᳓ समुद्रो᳓ मू᳓लं वीरु᳓धां बभू᳓व।  
+ता᳓स्त्वा पुत्रवि᳓द्याय दै᳓वीः प्रा᳓वन्त्वो᳓षधयः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/06_yAsAM_dyauShpitA.md">

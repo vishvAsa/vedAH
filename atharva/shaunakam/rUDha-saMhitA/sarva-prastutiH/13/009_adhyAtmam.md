@@ -24,7 +24,7 @@ title = "००९ अध्यात्मम्"
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/01_uruH_pRthuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒रुः पृ॒थुः सु॒भूर्भुव॒ इति॒ त्वोपा॑स्महे व॒यम् ॥
+उरुः᳓ पृथुः᳓ सुभू᳓र्भु᳓व इ᳓ति त्वो᳓पास्महे वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/01_uruH_pRthuH.md">
@@ -88,7 +88,7 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/02_pratho_varo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रथो॒ वरो॒ व्यचो॑ लो॒क इति॒ त्वोपा॑स्महे व॒यम् ॥
+प्र᳓थो व᳓रो व्य᳓चो लोक᳓ इ᳓ति त्वो᳓पास्महे वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/02_pratho_varo.md">
@@ -146,7 +146,7 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भव॑द्वसुरि॒दद्व॑सुः सं॒यद्व॑सुरा॒यद्व॑सु॒रिति॒ त्वोपा॑स्महे व॒यम् ॥
+भ᳓वद्वसुरिद᳓द्वसुः संय᳓द्वसुराय᳓द्वसुरि᳓ति त्वो᳓पास्महे वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
@@ -214,7 +214,7 @@ possessive.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/04_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥
+न᳓मस्ते अस्तु पश्यत प᳓श्य मा पश्यत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/04_namaste_astu.md">
@@ -272,7 +272,7 @@ possessive.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/05_annAdyena_yashasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥
+अन्ना᳓द्येन य᳓शसा ते᳓जसा ब्राह्मणवर्चसे᳓न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/05_annAdyena_yashasA.md">

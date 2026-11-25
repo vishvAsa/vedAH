@@ -37,8 +37,8 @@ In praise of Heaven and Earth
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/01_idaM_janAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं ज॒नासो॑ वि॒दथ॑ म॒हद्ब्रह्म॑ वदिष्यति।  
-न तत्पृ॑थि॒व्यां नो॑ दि॒वि येन॑ प्रा॒णन्ति॑ वी॒रुधः॑ ॥
+इदं᳓ जना᳓सो विद᳓थ मह᳓द्ब्र᳓ह्म वदिष्यति।  
+न᳓ त᳓त्पृथिव्यां᳓ नो दिवि᳓ ये᳓न प्राण᳓न्ति वीरु᳓धः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/01_idaM_janAso.md">
@@ -107,8 +107,8 @@ Ye people, hear and mark this well: he will pronounce a mighty prayer: That whic
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/02_antarixa_AsAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तरि॑क्ष आसां॒ स्थाम॑ श्रान्त॒सदा॑मिव।  
-आ॒स्थान॑म॒स्य भू॒तस्य॑ वि॒दुष्टद्वे॒धसो॒ न वा॑ ॥
+अन्त᳓रिक्ष आसां स्था᳓म श्रान्तस᳓दामिव।  
+आस्था᳓नमस्य᳓ भूत᳓स्य विदु᳓ष्ट᳓द्वेध᳓सो न᳓ वा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/02_antarixa_AsAm.md">
@@ -180,8 +180,8 @@ Their station, as of those who rest when weary, is in midmost air: The base wher
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/03_yadrodasI_rejamAne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्रोद॑सी॒ रेज॑माने॒ भूमि॑श्च नि॒रत॑क्षतम्।  
-आ॒र्द्रं तद॒द्य स॑र्व॒दा स॑मु॒द्रस्ये॑व स्रो॒त्याः ॥
+य᳓द्रो᳓दसी रे᳓जमाने भू᳓मिश्च निर᳓तक्षतम्।  
+आर्द्रं᳓ त᳓दद्य᳓ सर्वदा᳓ समुद्र᳓स्येव स्रोत्याः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/03_yadrodasI_rejamAne.md">
@@ -249,8 +249,8 @@ What the two trembling hemispheres and ground produced and fashioned forth. This
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/04_vishvamanyAmabhIvAra_tadanyasyAmadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्व॑म॒न्याम॑भी॒वार॒ तद॒न्यस्या॒मधि॑ श्रि॒तम्।  
-दि॒वे च॑ वि॒श्ववे॑दसे पृथि॒व्यै चा॑करं॒ नमः॑ ॥
+वि᳓श्वमन्या᳓मभीवा᳓र त᳓दन्य᳓स्याम᳓धि श्रित᳓म्।  
+दिवे᳓ च विश्व᳓वेदसे पृथिव्यै᳓ चाकरं न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/04_vishvamanyAmabhIvAra_tadanyasyAmadhi.md">

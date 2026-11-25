@@ -37,8 +37,8 @@ The same
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/01_ayaM_darbho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं द॒र्भो विम॑न्युकः॒ स्वाय॒ चार॑णाय च।  
-म॒न्योर्वि॑मन्युकस्या॒यं म॑न्यु॒शम॑न उच्यते ॥
+अयं᳓ दर्भो᳓ वि᳓मन्युकः स्वा᳓य चा᳓रणाय च।  
+मन्यो᳓र्विमन्युकस्यायं᳓ मन्युश᳓मन उच्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/043_manyushamanam/01_ayaM_darbho.md">
@@ -102,8 +102,8 @@ For stranger and for friend alike this Darbha-grass removeth wrath. Soother of A
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/02_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं यो भूरि॑मूलः समु॒द्रम॑व॒तिष्ठ॑ति।  
-द॒र्भः पृ॑थि॒व्या उत्थि॑तो मन्यु॒शम॑न उच्यते ॥
+अयं᳓ यो᳓ भू᳓रिमूलः समुद्र᳓मवति᳓ष्ठति।  
+दर्भः᳓ पृथिव्या᳓ उ᳓त्थितो मन्युश᳓मन उच्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/043_manyushamanam/02_ayaM_yo.md">
@@ -167,8 +167,8 @@ This Plant that hath abundant roots spreads to the place where waters meet. Soot
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/03_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि ते॑ हन॒व्यां᳡ श॒रणिं॒ वि ते॒ मुख्यां॑ नयामसि।  
-यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+वि᳓ ते हनव्यां᳙ शर᳓णिं वि᳓ ते मु᳓ख्यां नयामसि।  
+य᳓थावशो᳓ न᳓ वा᳓दिषो म᳓म चित्त᳓मुपा᳓यसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/043_manyushamanam/03_vi_te.md">

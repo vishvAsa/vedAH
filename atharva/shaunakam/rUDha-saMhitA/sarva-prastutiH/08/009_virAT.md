@@ -38,8 +38,8 @@ An enunciation of cosmogonical, ritual, and metrical doctrine
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/01_kutastau_jAtau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कुत॒स्तौ जा॒तौ क॑त॒मः सो अर्धः॒ कस्मा॑ल्लो॒कात्क॑त॒मस्याः॑ पृथि॒व्याः।  
-व॒त्सौ वि॒राजः॑ सलि॒लादुदै॑तां॒ तौ त्वा॑ पृच्छामि कत॒रेण॑ दु॒ग्धा ॥
+कु᳓तस्तौ᳓ जातौ᳓ कतमः᳓ सो᳓ अ᳓र्धः क᳓स्माल्लोका᳓त्कतम᳓स्याः पृथिव्याः᳓।  
+वत्सौ᳓ विरा᳓जः सलिला᳓दु᳓दैतां तौ᳓ त्वा पृच्छामि कतरे᳓ण दुग्धा᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/01_kutastau_jAtau.md">
@@ -103,8 +103,8 @@ Whence were these two produced? which was that region?' From what world, from wh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/02_yo_akrandayatsalilam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अक्र॑न्दयत्सलि॒लं म॑हि॒त्वा योनिं॑ कृ॒त्वा त्रि॒भुजं॒ शया॑नः।  
-व॒त्सः का॑म॒दुघो॑ वि॒राजः॒ स गुहा॑ चक्रे त॒न्वः᳡ परा॒चैः ॥
+यो᳓ अ᳓क्रन्दयत्सलिलं᳓ महित्वा᳓ यो᳓निं कृत्वा᳓ त्रिभु᳓जं श᳓यानः।  
+वत्सः᳓ कामदु᳓घो विरा᳓जः स᳓ गु᳓हा चक्रे तन्वः᳙ पराचैः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/02_yo_akrandayatsalilam.md">
@@ -167,8 +167,8 @@ He who prepared a threefold home, and lying there made the water bellow through 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/03_yAni_trINi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यानि॒ त्रीणि॑ बृ॒हन्ति॒ येषां॑ चतु॒र्थं वि॑यु॒नक्ति॒ वाच॑म्।  
-ब्र॒ह्मैन॑द्विद्या॒त्तप॑सा विप॒श्चिद्यस्मि॒न्नेकं॑ यु॒ज्यते॒ यस्मि॒न्नेक॑म् ॥
+या᳓नि त्री᳓णि बृह᳓न्ति ये᳓षां चतुर्थं᳓ वियुन᳓क्ति वा᳓चम्।  
+ब्रह्मै᳓नद्विद्यात्त᳓पसा विपश्चि᳓द्य᳓स्मिन्ने᳓कं युज्य᳓ते य᳓स्मिन्ने᳓कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/03_yAni_trINi.md">
@@ -233,8 +233,8 @@ Which are the three, the mighty three, whereof the fourth divides the voice, Thi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/04_bRhataH_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृ॑ह॒तः परि॒ सामा॑नि ष॒ष्ठात्पञ्चाधि॒ निर्मि॑ता।  
-बृ॒हद्बृ॑ह॒त्या निर्मि॑तं॒ कुतोऽधि॑ बृह॒ती मि॒ता ॥
+बृ᳙हतः᳓ प᳓रि सा᳓मानि षष्ठा᳓त्प᳓ञ्चा᳓धि नि᳓र्मिता।  
+बृह᳓द्बृहत्या᳓ नि᳓र्मितं कु᳓तो᳓ऽधि बृहती᳓ मिता᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/04_bRhataH_pari.md">
@@ -295,8 +295,8 @@ Out of the Brihat as the sixth five Salmons have been fashioned forth: From Brih
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/05_bRhatI_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृ॑ह॒ती परि॒ मात्रा॑या मा॒तुर्मात्राधि॒ निर्मि॑ता।  
-मा॒या ह॑ जज्ञे मा॒याया॑ मा॒याया॒ मात॑ली॒ परि॑ ॥
+बृ᳙हती᳓ प᳓रि मा᳓त्राया मातु᳓र्मा᳓त्रा᳓धि नि᳓र्मिता।  
+माया᳓ ह जज्ञे माया᳓या माया᳓या मा᳓तली प᳓रि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/05_bRhatI_pari.md">
@@ -366,8 +366,8 @@ On measure Brihati is based, and measure on the measurer: From magic might came 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/06_vaishvAnarasya_pratimopari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॑श्वान॒रस्य॑ प्रति॒मोपरि॒ द्यौर्याव॒द्रोद॑सी विबबा॒धे अ॒ग्निः।  
-ततः॑ ष॒ष्ठादामुतो॑ यन्ति॒ स्तोमा॒ उदि॒तो य॑न्त्य॒भि ष॒ष्ठमह्नः॑ ॥
+वै᳙श्वानर᳓स्य प्रतिमो᳓प᳓रि द्यौ᳓र्या᳓वद्रो᳓दसी विबबाधे᳓ अग्निः᳓।  
+त᳓तः षष्ठा᳓दा᳓मु᳓तो यन्ति स्तो᳓मा उ᳓दितो᳓ यन्त्यभि᳓ षष्ठ᳓म᳓ह्नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/06_vaishvAnarasya_pratimopari.md">
@@ -431,8 +431,8 @@ Vaisvanara's image is the sky above us, so far as Agni forced both spheres asund
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/07_ShaTtvA_pRchChAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-षट्त्वा॑ पृच्छाम॒ ऋष॑यः कश्यपे॒मे त्वं हि यु॒क्तं यु॑यु॒क्षे योग्यं॑ च।  
-वि॒राज॑माहु॒र्ब्रह्म॑णः पि॒तरं॒ तां नो॒ वि धे॑हि यति॒धा सखि॑भ्यः ॥
+ष᳓ट्त्वा पृच्छाम ऋ᳓षयः कश्यपेमे᳓ त्वं᳓ हि᳓ युक्तं᳓ युयुक्षे᳓ यो᳓ग्यं च।  
+विरा᳓जमाहुर्ब्र᳓ह्मणः पित᳓रं तां᳓ नो वि᳓ धेहि यतिधा᳓ स᳓खिभ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/07_ShaTtvA_pRchChAma.md">
@@ -495,8 +495,8 @@ We, Kagyapa! six present Rishis, ask thee--for thou hast prov- ed things tried a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/08_yAM_prachyutAmanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां प्रच्यु॑ता॒मनु॑ य॒ज्ञाः प्र॒च्यव॑न्त उप॒तिष्ठ॑न्त उप॒तिष्ठ॑मानाम्।  
-यस्या॑ व्र॒ते प्र॑स॒वे य॒क्षमेज॑ति॒ सा वि॒राडृ॑षयः पर॒मे व्यो॑मन् ॥
+यां᳓ प्र᳓च्युताम᳓नु यज्ञाः᳓ प्रच्य᳓वन्त उपति᳓ष्ठन्त उपति᳓ष्ठमानाम्।  
+य᳓स्या व्रते᳓ प्रसवे᳓ यक्ष᳓मे᳓जति सा᳓ विरा᳓डृषयः परमे᳓ व्योमन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/08_yAM_prachyutAmanu.md">
@@ -558,8 +558,8 @@ She whom, advancing, sacrifices follow, and when she takes her station stand bes
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/09_aprANaiti_prANena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑प्रा॒णैति॑ प्रा॒णेन॑ प्राण॒तीनां॑ वि॒राट् स्व॒राज॑म॒भ्य᳡ति प॒श्चात्।  
-विश्वं॑ मृ॒शन्ती॑म॒भिरू॑पां वि॒राजं॒ पश्य॑न्ति॒ त्वे न॒ त्वे प॑श्यन्त्येनाम् ॥
+अ᳙प्राणै᳓ति प्राणे᳓न प्राणती᳓नां विरा᳓ट् स्वरा᳓जमभ्य᳙ति पश्चा᳓त्।  
+वि᳓श्वं मृश᳓न्तीमभि᳓रूपां विरा᳓जं प᳓श्यन्ति त्वे᳓ न त्वे᳓ पश्यन्त्येनाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/09_aprANaiti_prANena.md">
@@ -627,8 +627,8 @@ Breathless, she moves by breath of living creatures, Svaraj pre- cedes, Viraj co
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/10_ko_virAjo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-को वि॒राजो॑ मिथुन॒त्वं प्र वे॑द॒ क ऋ॒तून्क उ॒ कल्प॑मस्याः।  
-क्रमा॒न्को अ॑स्याः कति॒धा विदु॑ग्धा॒न्को अ॑स्या॒ धाम॑ कति॒धा व्यु᳡ष्टीः ॥
+को᳓ विरा᳓जो मिथुनत्वं᳓ प्र᳓ वेद क᳓ ऋतू᳓न्क᳓ उ क᳓ल्पमस्याः।  
+क्र᳓मान्को᳓ अस्याः कतिधा᳓ वि᳓दुग्धान्को᳓ अस्या धा᳓म कतिधा᳓ व्यु᳙ष्टीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/10_ko_virAjo.md">
@@ -694,8 +694,8 @@ Who hath perceived Viraj's duplication, perceived her seasons and her rule and p
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/11_iyameva_sA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒यमे॒व सा या प्र॑थ॒मा व्यौच्छ॑दा॒स्वित॑रासु चरति॒ प्रवि॑ष्टा।  
-म॒हान्तो॑ अस्यां महि॒मानो॑ अ॒न्तर्व॒धूर्जि॑गाय नव॒गज्जनि॑त्री ॥
+इय᳓मेव᳓ सा᳓ या᳓ प्रथमा᳓ व्यौ᳓च्छदास्वि᳓तरासु चरति प्र᳓विष्टा।  
+महा᳓न्तो अस्यां महिमा᳓नो अन्त᳓र्वधू᳓र्जिगाय नवग᳓ज्ज᳓नित्री ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/11_iyameva_sA.md">
@@ -760,8 +760,8 @@ She here who first of all sent forth her lustre moves onward resting on these lo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/12_ChandaHpaxe_uShasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-छन्दः॑पक्षे उ॒षसा॒ पेपि॑शाने समा॒नं योनि॒मनु॒ सं च॑रेते।  
-सूर्य॑पत्नी॒ सं च॑रतः प्रजान॒ती के॑तु॒मती॑ अ॒जरे॒ भूरि॑रेतसा ॥
+छ᳓न्दःपक्षे उष᳓सा पे᳓पिशाने समानं᳓ यो᳓निम᳓नु सं᳓ चरेते।  
+सू᳓र्यपत्नी सं᳓ चरतः प्रजानती᳓ केतुम᳓ती अज᳓रे भू᳓रिरेतसा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/12_ChandaHpaxe_uShasA.md">
@@ -835,8 +835,8 @@ Both Dawns on wings of song, with rich adornment, move on together to their comm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/13_Rtasya_panthAmanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तस्य॒ पन्था॒मनु॑ ति॒स्र आगु॒स्त्रयो॑ घ॒र्मा अनु॒ रेत॒ आगुः॑।  
-प्र॒जामेका॒ जिन्व॒त्यूर्ज॒मेका॑ रा॒ष्ट्रमेका॑ रक्षति देवयू॒नाम् ॥
+ऋत᳓स्य प᳓न्थाम᳓नु तिस्र᳓ आ᳓गुस्त्र᳓यो घर्मा᳓ अ᳓नु रे᳓त आ᳓गुः।  
+प्रजा᳓मे᳓का जि᳓न्वत्यू᳓र्जमे᳓का राष्ट्र᳓मे᳓का रक्षति देवयूना᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/13_Rtasya_panthAmanu.md">
@@ -901,8 +901,8 @@ The three have passed along the path of Order--three warm libations have regarde
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/14_agnIShomAvadadhuryA_turIyAsIdyajnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नीषोमा॑वदधु॒र्या तु॒रीयासी॑द्य॒ज्ञस्य॑ प॒क्षावृष॑यः क॒ल्पय॑न्तः।  
-गा॑य॒त्रीं त्रि॒ष्टुभं॒ जग॑तीमनु॒ष्टुभं॑ बृहद॒र्कीं यज॑मानाय॒ स्व᳡रा॒भर॑न्तीम् ॥
+अग्नी᳓षो᳓मावदधुर्या᳓ तुरी᳓या᳓सीद्यज्ञ᳓स्य पक्षा᳓वृ᳓षयः कल्प᳓यन्तः।  
+गा᳙यत्रीं᳓ त्रिष्टु᳓भं ज᳓गतीमनुष्टु᳓भं बृहदर्कीं᳓ य᳓जमानाय स्व᳙राभ᳓रन्तीम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/14_agnIShomAvadadhuryA_turIyAsIdyajnasya.md">
@@ -976,8 +976,8 @@ She who was fourth was made by Agni, Soma, and Rishis as. they formed both halve
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/15_pancha_vyuShTIranu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पञ्च॒ व्यु᳡ष्टी॒रनु॒ पञ्च॒ दोहा॒ गां पञ्च॑नाम्नीमृ॒तवोऽनु॒ पञ्च॑।  
-पञ्च॒ दिशः॑ पञ्चद॒शेन॒ क्लृप्तास्ता एक॑मूर्ध्नीर॒भि लो॒कमेक॑म् ॥
+प᳓ञ्च व्यु᳙ष्टीर᳓नु प᳓ञ्च दो᳓हा गां᳓ प᳓ञ्चनाम्नीमृत᳓वो᳓ऽनु प᳓ञ्च।  
+प᳓ञ्च दि᳓शः पञ्चदशे᳓न क्लृ᳓प्ता᳓स्ता᳓ ए᳓कमूर्ध्नीरभि᳓ लोक᳓मे᳓कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/15_pancha_vyuShTIranu.md">
@@ -1043,8 +1043,8 @@ Five milkings answer to the fivefold dawning, five seasons to the cow who bears 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/16_ShaDjAtA_bhUtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-षड्जाता भू॒ता प्र॑थम॒जर्तस्य॒ षडु॒ सामा॑नि षड॒हं व॑हन्ति।  
-ष॑ड्यो॒गं सीर॒मनु॒ साम॑साम॒ षडा॑हु॒र्द्यावा॑पृथि॒वीः षडु॒र्वीः ॥
+ष᳓ड्जा᳓ता᳓ भूता᳓ प्रथमज᳓र्त᳓स्य ष᳓डु सा᳓मानि षडहं᳓ वहन्ति।  
+ष᳙ड्योगं᳓ सी᳓रम᳓नु सा᳓मसाम ष᳓डाहुर्द्या᳓वापृथिवीः᳓ ष᳓डुर्वीः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/16_ShaDjAtA_bhUtA.md">
@@ -1110,8 +1110,8 @@ Six Elements arose, first-born of Order: the six-day time is carried by six Sama
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/17_ShaDAhuH_shItAnShaDu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-षडा॑हुः शी॒तान्षडु॑ मा॒स उ॒ष्णानृ॒तुं नो॒ ब्रूत॑ यत॒मोऽति॑रिक्तः।  
-स॒प्त सु॑प॒र्णाः क॒वयो॒ नि षे॑दुः स॒प्त च्छन्दां॒स्यनु॑ स॒प्त दी॒क्षाः ॥
+ष᳓डाहुः शीता᳓न्ष᳓डु मास᳓ उष्णा᳓नृतुं᳓ नो ब्रू᳓त यतमो᳓ऽतिरिक्तः।  
+सप्त᳓ सुपर्णाः᳓ कव᳓यो नि᳓ षेदुः सप्त᳓ च्छ᳓न्दांस्य᳓नु सप्त᳓ दीक्षाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/17_ShaDAhuH_shItAnShaDu.md">
@@ -1179,8 +1179,8 @@ They call the cold months six, and six the hot ones. Which, tell us, of the seas
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/18_sapta_homAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प्त होमाः॑ स॒मिधो॑ ह स॒प्त मधू॑नि स॒प्तर्तवो॑ ह स॒प्त।  
-स॒प्ताज्या॑नि॒ परि॑ भू॒तमा॑य॒न्ताः स॑प्तगृ॒ध्रा इति॑ शुश्रुमा व॒यम् ॥
+सप्त᳓ हो᳓माः समि᳓धो ह सप्त᳓ म᳓धूनि सप्त᳓र्त᳓वो ह सप्त᳓।  
+सप्ता᳓ज्यानि प᳓रि भूत᳓मायन्ताः᳓ सप्तगृध्रा᳓ इ᳓ति शुश्रुमा वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/18_sapta_homAH.md">
@@ -1249,8 +1249,8 @@ Seven are the Homas, seven the logs for burning, seven are the streams of mead, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/19_sapta_ChandAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प्त छन्दां॑सि चतुरुत्त॒राण्य॒न्यो अ॒न्यस्मि॒न्नध्यार्पि॑तानि।  
-क॒थं स्तोमाः॒ प्रति॑ तिष्ठन्ति॒ तेषु॒ तानि॒ स्तोमे॑षु क॒थमार्पि॑तानि ॥
+सप्त᳓ छ᳓न्दांसि चतुरुत्तरा᳓ण्यन्यो᳓ अन्य᳓स्मिन्न᳓ध्या᳓र्पितानि।  
+कथं᳓ स्तो᳓माः प्र᳓ति तिष्ठन्ति ते᳓षु ता᳓नि स्तो᳓मेषु कथ᳓मा᳓र्पितानि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/19_sapta_ChandAMsi.md">
@@ -1316,8 +1316,8 @@ Seven metres, by four syllables increasing, each of the seven founded upon anoth
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/20_kathaM_gAyatrI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क॒थं गा॑य॒त्री त्रि॒वृतं॒ व्या᳡प क॒थं त्रि॒ष्टुप्प॑ञ्चद॒शेन॑ कल्पते।  
-त्र॑यस्त्रिं॒शेन॒ जग॑ती क॒थम॑नु॒ष्टुप्क॒थमे॑कविं॒शः ॥
+कथं᳓ गायत्री᳓ त्रिवृ᳓तं व्या᳙प कथं᳓ त्रिष्टु᳓प्पञ्चदशे᳓न कल्पते।  
+त्र᳙यस्त्रिंशे᳓न ज᳓गती कथ᳓मनुष्टु᳓प्कथ᳓मेकविंशः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/20_kathaM_gAyatrI.md">
@@ -1380,8 +1380,8 @@ How hath the Gayatri filled out three triads? On the fifteen how is the Trishtup
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/21_aShTa_jAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ष्ट जा॒ता भू॒ता प्र॑थम॒जर्तस्या॒ष्टेन्द्र॒र्त्विजो॒ दैव्या॒ ये।  
-अ॒ष्टयो॑नि॒रदि॑तिर॒ष्टपु॑त्राष्ट॒मीं रात्रि॑म॒भि ह॒व्यमे॑ति ॥
+अष्ट᳓ जाता᳓ भूता᳓ प्रथमज᳓र्त᳓स्याष्टे᳓न्द्रर्त्वि᳓जो दै᳓व्या ये᳓।  
+अष्ट᳓योनिर᳓दितिरष्ट᳓पुत्राष्टमीं᳓ रा᳓त्रिमभि᳓ हव्य᳓मेति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/21_aShTa_jAtA.md">
@@ -1447,8 +1447,8 @@ Eight Elements sprang up, first born of Order: the Priests divine are eight in n
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/22_itthaM_shreyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒त्थं श्रेयो॒ मन्य॑माने॒दमाग॑मं यु॒ष्माकं॑ स॒ख्ये अ॒हम॑स्मि॒ शेवा॑।  
-स॑मा॒नज॑न्मा॒ क्रतु॑रस्ति॒ वः शि॒वः स वः॒ सर्वाः॒ सं च॑रति प्रजा॒नन् ॥
+इत्थं᳓ श्रे᳓यो म᳓न्यमानेद᳓मा᳓गमं युष्मा᳓कं सख्ये᳓ अह᳓मस्मि शे᳓वा।  
+स᳙मान᳓जन्मा क्र᳓तुरस्ति वः᳓ शिवः᳓ स᳓ वः स᳓र्वाः सं᳓ चरति प्रजान᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/22_itthaM_shreyo.md">
@@ -1513,8 +1513,8 @@ So planning bliss for you have I come hither to win your friendship: kind am I, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/23_aShTendrasya_ShaDyamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ष्टेन्द्र॑स्य॒ षड्य॒मस्य॒ ऋषी॑णां स॒प्त स॑प्त॒धा।  
-अ॒पो म॑नु॒ष्या॒३॒॑नोष॑धी॒स्ताँ उ॒ पञ्चानु॑ सेचिरे ॥
+अष्टे᳓न्द्रस्य ष᳓ड्यम᳓स्य ऋ᳓षीणां सप्त᳓ सप्तधा᳓।  
+अपो᳓ मनुष्या᳙नो᳓षधीस्ताँ᳓ उ प᳓ञ्चा᳓नु सेचिरे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/23_aShTendrasya_ShaDyamasya.md">
@@ -1577,8 +1577,8 @@ To Indra eight, to Yama six, seven to the Rishis, seven to each: The number five
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/24_kevalIndrAya_duduhe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-केव॒लीन्द्रा॑य दुदु॒हे हि गृ॒ष्टिर्वशं॑ पी॒यूषं॑ प्रथ॒मं दुहा॑ना।  
-अथा॑तर्पयच्च॒तुर॑श्चतु॒र्धा दे॒वान्म॑नु॒ष्याँ॒३॒॑ असु॑रानु॒त ऋषी॑न् ॥
+के᳓वली᳓न्द्राय दुदुहे᳓ हि᳓ गृष्टि᳓र्व᳓शं पीयू᳓षं प्रथमं᳓ दु᳓हाना।  
+अ᳓थातर्पयच्चतु᳓रश्चतुर्धा᳓ देवा᳓न्मनुष्याँ᳙ अ᳓सुरानुत᳓ ऋ᳓षीन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/24_kevalIndrAya_duduhe.md">
@@ -1641,8 +1641,8 @@ The Heifer, all his own, poured forth for Indra control and milk at her first ti
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/25_ko_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-को नु गौः क ए॑कऋ॒षिः किमु॒ धाम॒ का आ॒शिषः॑।  
-य॒क्षं पृ॑थि॒व्यामे॑क॒वृदे॑क॒र्तुः क॑त॒मो नु सः ॥
+को᳓ नु᳓ गौः᳓ क᳓ एकऋषिः᳓ कि᳓मु धा᳓म का᳓ आशि᳓षः।  
+यक्षं᳓ पृथिव्या᳓मेकवृ᳓देकर्तुः᳓ कतमो᳓ नु᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/25_ko_nu.md">
@@ -1708,8 +1708,8 @@ Who is the Cow? Who is the Single Rishi? What is the law, what are the benedicti
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/009_virAT/26_eko_gaureka.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒को गौरेक॑ एकऋ॒षिरेकं॒ धामै॑क॒धाशिषः॑।  
-य॒क्षं पृ॑थि॒व्यामे॑क॒वृदे॑क॒र्तुर्नाति॑ रिच्यते ॥
+एको᳓ गौ᳓रे᳓क एकऋषि᳓रे᳓कं धा᳓मैकधा᳓शि᳓षः।  
+यक्षं᳓ पृथिव्या᳓मेकवृ᳓देकर्तु᳓र्ना᳓ति रिच्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/009_virAT/26_eko_gaureka.md">

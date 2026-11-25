@@ -33,8 +33,8 @@ Translated: Ludwig, p. 442; Zimmer, p. 182 (3 vss.); Griffith, i. 311.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/01_viShANA_pAshAnvi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒षाणा॒ पाशा॒न्वि ष्याध्य॒स्मद्य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये।  
-दु॒ष्वप्न्यं॑ दुरि॒तं निःष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम् ॥
+विषा᳓णा पा᳓शान्वि᳓ ष्या᳓ध्यस्म᳓द्य᳓ उत्तमा᳓ अधमा᳓ वारुणा᳓ ये᳓।  
+दुष्व᳓प्न्यं दुरितं᳓ निः᳓ष्वास्म᳓द᳓थ गच्छेम सुकृत᳓स्य लोक᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/01_viShANA_pAshAnvi.md">
@@ -111,8 +111,8 @@ Spreading them out, untie the snares that hold us, Varuna's bonds, the upper and
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/02_yaddAruNi_badhyase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्दारु॑णि ब॒ध्यसे॒ यच्च॒ रज्ज्वां॒ यद्भूम्यां॑ ब॒ध्यसे॒ यच्च॑ वा॒चा।  
-अ॒यं तस्मा॒द्गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
+य᳓द्दा᳓रुणि बध्य᳓से य᳓च्च र᳓ज्ज्वां य᳓द्भू᳓म्यां बध्य᳓से य᳓च्च वाचा᳓।  
+अयं᳓ त᳓स्माद्गा᳓र्हपत्यो नो अग्नि᳓रु᳓दि᳓न्नयाति सुकृत᳓स्य लोक᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/02_yaddAruNi_badhyase.md">
@@ -177,8 +177,8 @@ If thou art bound with cord or tied to timber, fixt in the earth, or by a word i
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/03_udagAtAM_bhagavatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के।  
-प्रेहामृत॑स्य यच्छतां॒ प्रैतु॑ बद्धक॒मोच॑नम् ॥
+उ᳓दगातां भ᳓गवती विचृ᳓तौ ना᳓म ता᳓रके।  
+प्रे᳓हा᳓मृ᳓तस्य यच्छतां प्रै᳓तु बद्धकमो᳓चनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/03_udagAtAM_bhagavatI.md">
@@ -243,8 +243,8 @@ The two auspicious stars whose name is called Releasers have gone up. Send Amrit
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/04_vi_jihIShva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि जि॑हीष्व लो॒कं कृ॑णु ब॒न्धान्मु॑ञ्चासि॒ बद्ध॑कम्।  
-योन्या॑ इव॒ प्रच्यु॑तो॒ गर्भः॑ प॒थः सर्वाँ॒ अनु॑ क्षिय ॥
+वि᳓ जिहीष्व लोकं᳓ कृणु बन्धा᳓न्मुञ्चासि ब᳓द्धकम्।  
+यो᳓न्या इव प्र᳓च्युतो ग᳓र्भः पथः᳓ स᳓र्वाँ अ᳓नु क्षिय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/04_vi_jihIShva.md">

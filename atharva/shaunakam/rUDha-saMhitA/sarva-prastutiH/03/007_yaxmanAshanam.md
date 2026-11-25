@@ -37,8 +37,8 @@ A charm with an amulet of buck horn to drive away hereditary disease
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/01_hariNasya_raghuShyado-dhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ह॑रि॒णस्य॑ रघु॒ष्यदोऽधि॑ शी॒र्षणि॑ भेष॒जम्।  
-स क्षे॑त्रि॒यं वि॒षाण॑या विषू॒चीन॑मनीनशत् ॥
+ह᳙रिण᳓स्य रघुष्य᳓दो᳓ऽधि शीर्ष᳓णि भेषज᳓म्।  
+स᳓ क्षेत्रियं᳓ विषा᳓णया विषूची᳓नमनीनशत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/01_hariNasya_raghuShyado-dhi.md">
@@ -108,8 +108,8 @@ The fleet-foot Roebuck wears upon his head a healing remedy. Innate disease he d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/02_anu_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अनु॑ त्वा हरि॒णो वृषा॑ प॒द्भिश्च॒तुर्भि॑रक्रमीत्।  
-विषा॑णे॒ वि ष्य॑ गुष्पि॒तं यद॑स्य क्षेत्रि॒यं हृ॒दि ॥
+अ᳓नु त्वा हरिणो᳓ वृ᳓षा पद्भि᳓श्चतु᳓र्भिरक्रमीत्।  
+वि᳓षाणे वि᳓ ष्य गुष्पितं᳓ य᳓दस्य क्षेत्रियं᳓ हृदि᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/02_anu_tvA.md">
@@ -182,8 +182,8 @@ With his four feet the vigorous Buck hath bounded in pursuit of thee. Unbind the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/03_ado_yadavarochate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒दो यद॑व॒रोच॑ते॒ चतु॑ष्पक्षमिव छ॒दिः।  
-तेना॑ ते॒ सर्वं॑ क्षेत्रि॒यमङ्गे॑भ्यो नाशयामसि ॥
+अदो᳓ य᳓दवरो᳓चते च᳓तुष्पक्षमिव छदिः᳓।  
+ते᳓ना ते स᳓र्वं क्षेत्रिय᳓म᳓ङ्गेभ्यो नाशयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/03_ado_yadavarochate.md">
@@ -255,8 +255,8 @@ That which shines younder, like a roof resting on four walls, down on us,-- Ther
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/04_amU_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मू ये दि॒वि सु॒भगे॑ वि॒चृतौ॒ नाम॒ तार॑के।  
-वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम् ॥
+अमू᳓ ये᳓ दिवि᳓ सुभ᳓गे विचृ᳓तौ ना᳓म ता᳓रके।  
+वि᳓ क्षेत्रिय᳓स्य मुञ्चतामधमं᳓ पा᳓शमुत्तम᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/04_amU_ye.md">
@@ -323,8 +323,8 @@ May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/05_Apa_idvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आप॒ इद्वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः।  
-आपो॒ विश्व॑स्य भेष॒जीस्तास्त्वा॑ मुञ्चन्तु क्षेत्रि॒यात् ॥
+आ᳓प इ᳓द्वा᳓ उ भेषजी᳓रा᳓पो अमीवचा᳓तनीः।  
+आ᳓पो वि᳓श्वस्य भेषजी᳓स्ता᳓स्त्वा मुञ्चन्तु क्षेत्रिया᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/05_Apa_idvA.md">
@@ -387,8 +387,8 @@ Water, indeed, hath power to heal, Water drives malady away. May water--for it h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/06_yadAsuteH_kriyamANAyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदा॑सु॒तेः क्रि॒यमा॑णायाः क्षेत्रि॒यं त्वा॑ व्यान॒शे।  
-वेदा॒हं तस्य॑ भेष॒जं क्षे॑त्रि॒यं ना॑शयामि॒ त्वत् ॥
+य᳓दासुतेः᳓ क्रिय᳓माणायाः क्षेत्रियं᳓ त्वा व्यानशे᳓।  
+वे᳓दाहं᳓ त᳓स्य भेषजं᳓ क्षेत्रियं᳓ नाशयामि त्व᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/06_yadAsuteH_kriyamANAyAH.md">
@@ -453,8 +453,8 @@ Hath some prepared decoction brought inveterate disease on thee, I know the balm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/07_apavAse_naxatrANAmapavAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑पवा॒से नक्ष॑त्राणामपवा॒स उ॒षसा॑मु॒त।  
-अपा॒स्मत्सर्वं॑ दुर्भू॒तमप॑ क्षेत्रि॒यमु॑च्छतु ॥
+अ᳙पवासे᳓ न᳓क्षत्राणामपवास᳓ उष᳓सामुत᳓।  
+अ᳓पास्म᳓त्स᳓र्वं दुर्भूत᳓म᳓प क्षेत्रिय᳓मुच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/07_apavAse_naxatrANAmapavAsa.md">

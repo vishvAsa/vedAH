@@ -37,8 +37,8 @@ A prayer for riches and general prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/01_ayaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं ते॒ योनि॑रृ॒त्वियो॒ यतो॑ जा॒तो अरो॑चथाः।  
-तं जा॒नन्न॑ग्न॒ आ रो॒हाथा॑ नो वर्धया र॒यिम् ॥
+अयं᳓ ते यो᳓निरृत्वि᳓यो य᳓तो जातो᳓ अ᳓रोचथाः।  
+तं᳓ जान᳓न्नग्न आ᳓ रोहा᳓था नो वर्धया रयि᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/020_rayisaMvardhanam/01_ayaM_te.md">
@@ -108,8 +108,8 @@ This is thine ordered place of birth whence sprung to life thou shinest forth. K
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/02_agne_achChA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ अच्छा॑ वदे॒ह नः॑ प्र॒त्यङ्नः॑ सु॒मना॑ भव।  
-प्र णो॑ यच्छ विशां पते धन॒दा अ॑सि न॒स्त्वम् ॥
+अ᳓ग्ने अ᳓च्छा वदेह᳓ नः प्रत्य᳓ङ्नः सुम᳓ना भव।  
+प्र᳓ णो यच्छ विशां पते धनदा᳓ असि नस्त्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/020_rayisaMvardhanam/02_agne_achChA.md">
@@ -176,8 +176,8 @@ Turn hither, Agni, speak to us, come to us with a friendly mind. Enrich us, Sovr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/03_pra_No.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र णो॑ यच्छत्वर्य॒मा प्र भगः॒ प्र बृह॒स्पतिः॑।  
-प्र दे॒वीः प्रोत सू॒नृता॑ र॒यिं दे॒वी द॑धातु मे ॥
+प्र᳓ णो यच्छत्वर्यमा᳓ प्र᳓ भ᳓गः प्र᳓ बृ᳓हस्प᳓तिः।  
+प्र᳓ देवीः᳓ प्रो᳓त᳓ सूनृ᳓ता रयिं᳓ देवी᳓ दधातु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/020_rayisaMvardhanam/03_pra_No.md">
@@ -244,8 +244,8 @@ Let Aryaman vouchsafe us, wealth, and Bhaga, and Brihaspati, The Goddesses grant
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/04_somaM_rAjAnamavase-gnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमं॒ राजा॑न॒मव॑से॒ऽग्निं गी॒र्भिर्ह॑वामहे।  
-आ॑दि॒त्यं विष्णुं॒ सूर्यं॑ ब्र॒ह्माणं॑ च॒ बृह॒स्पति॑म् ॥
+सो᳓मं रा᳓जानम᳓वसेऽग्निं᳓ गीर्भि᳓र्हवामहे।  
+आ᳙दित्यं᳓ वि᳓ष्णुं सू᳓र्यं ब्रह्मा᳓णं च बृ᳓हस्प᳓तिम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/020_rayisaMvardhanam/04_somaM_rAjAnamavase-gnim.md">
@@ -311,8 +311,8 @@ We call King Soma to our aid, and Agni with our songs and. hymn, The Adityas, Vi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/05_tvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं नो॑ अग्ने अ॒ग्निभि॒र्ब्रह्म॑ य॒ज्ञं व॑र्धय।  
-त्वं नो॑ देव॒ दात॑वे र॒यिं दाना॑य चोदय ॥
+त्वं᳓ नो अग्ने अग्नि᳓भिर्ब्र᳓ह्म यज्ञं᳓ वर्धय।  
+त्वं᳓ नो देव दा᳓तवे रयिं᳓ दा᳓नाय चोदय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/020_rayisaMvardhanam/05_tvaM_no.md">
@@ -379,8 +379,8 @@ Do thou, O Agni, with thy fires strengthen our prayer and. sacrifice. Incite tho
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/06_indravAyU_ubhAviha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॑न्द्रवा॒यू उ॒भावि॒ह सु॒हवे॒ह ह॑वामहे।  
-यथा॑ नः॒ सर्व॒ इज्जनः॒ संग॑त्यां सु॒मना॑ अस॒द्दान॑कामश्च नो॒ भुव॑त् ॥
+इ᳙न्द्रवायू᳓ उभा᳓विह᳓ सुह᳓वेह᳓ हवामहे।  
+य᳓था नः स᳓र्व इ᳓ज्ज᳓नः सं᳓गत्यां सुम᳓ना असद्दा᳓नकामश्च नो भु᳓वत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/020_rayisaMvardhanam/06_indravAyU_ubhAviha.md">
@@ -450,8 +450,8 @@ Both Indra here and Vayu we invoke with an auspicious call, That in assembly all
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/07_aryamaNaM_bRhaspatimindram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑र्य॒मणं॒ बृह॒स्पति॒मिन्द्रं॒ दाना॑य चोदय।  
-वातं॒ विष्णुं॒ सर॑स्वतीं सवि॒तारं॑ च वा॒जिन॑म् ॥
+अ᳙र्यम᳓णं बृ᳓हस्प᳓तिमि᳓न्द्रं दा᳓नाय चोदय।  
+वा᳓तं वि᳓ष्णुं स᳓रस्वतीं सविता᳓रं च वाजि᳓नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/020_rayisaMvardhanam/07_aryamaNaM_bRhaspatimindram.md">
@@ -515,8 +515,8 @@ Urge Aryaman to send us gifts, and Indra, and Brihaspati, Vata, Vishnu, Sarasvat
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/08_vAjasya_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वाज॑स्य॒ नु प्र॑स॒वे सं ब॑भूविमे॒मा च॒ विश्वा॒ भुव॑नानि अ॒न्तः।  
-उ॒तादि॑त्सन्तं दापयतु प्रजा॒नन्र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑च्छ ॥
+वा᳓जस्य नु᳓ प्रसवे᳓ सं᳓ बभूविमेमा᳓ च वि᳓श्वा भु᳓वनानि अन्तः᳓।  
+उता᳓दित्सन्तं दापयतु प्रजान᳓न्रयिं᳓ च नः स᳓र्ववीरं नि᳓ यच्छ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/020_rayisaMvardhanam/08_vAjasya_nu.md">
@@ -597,8 +597,8 @@ Now have we reached the ordering of power, and all these worlds of life are held
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/09_duhrAM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दु॒ह्रां मे॒ पञ्च॑ प्र॒दिशो॑ दु॒ह्रामु॒र्वीर्य॑थाब॒लम्।  
-प्रापे॑यं॒ सर्वा॒ आकू॑ती॒र्मन॑सा॒ हृद॑येन च ॥
+दुह्रां᳓ मे प᳓ञ्च प्रदि᳓शो दुह्रा᳓मुर्वी᳓र्यथाबल᳓म्।  
+प्रा᳓पेयं स᳓र्वा आ᳓कूतीर्म᳓नसा हृ᳓दयेन च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/020_rayisaMvardhanam/09_duhrAM_me.md">
@@ -663,8 +663,8 @@ May heaven's five spacious regions pour their milk for me with all their might. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/020_rayisaMvardhanam/10_gosaniM_vAchamudeyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गो॒सनिं॒ वाच॑मुदेयं॒ वर्च॑सा मा॒भ्युदि॑हि।  
-आ रु॑न्धां स॒र्वतो॑ वा॒युस्त्वष्टा॒ पोषं॑ दधातु मे ॥
+गोस᳓निं वा᳓चमुदेयं व᳓र्चसा माभ्यु᳓दिहि।  
+आ᳓ रुन्धां सर्व᳓तो वायु᳓स्त्व᳓ष्टा पो᳓षं दधातु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/020_rayisaMvardhanam/10_gosaniM_vAchamudeyam.md">

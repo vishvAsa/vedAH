@@ -37,8 +37,8 @@ A prayer for protection and general prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/01_AshAnAmAshApAlebhyashchaturbhyo_amRtebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आशा॑नामाशापा॒लेभ्य॑श्च॒तुर्भ्यो॑ अ॒मृते॑भ्यः।  
-इ॒दं भू॒तस्याध्य॑क्षेभ्यो वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
+आ᳓शानामाशापाले᳓भ्यश्चतु᳓र्भ्यो अमृ᳓तेभ्यः।  
+इदं᳓ भूत᳓स्या᳓ध्यक्षेभ्यो विधे᳓म हवि᳓षा वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/01_AshAnAmAshApAlebhyashchaturbhyo_amRtebhyaH.md">
@@ -103,8 +103,8 @@ Here will we serve with sacrifice the great Controllers of the world, The four i
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/02_ya_AshAnAmAshApAlAshchatvAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य आशा॑नामाशापा॒लाश्च॒त्वार॒ स्थन॑ देवाः।  
-ते नो॒ निरृ॑त्याः॒ पाशे॑भ्यो मु॒ञ्चतांह॑सोअंहसः ॥
+य᳓ आ᳓शानामाशापाला᳓श्चत्वा᳓र स्थ᳓न देवाः।  
+ते᳓ नो नि᳓रृत्याः पा᳓शेभ्यो मुञ्च᳓तां᳓हसोअंहसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/02_ya_AshAnAmAshApAlAshchatvAra.md">
@@ -168,8 +168,8 @@ Ye, Guardians of the regions, Gods who keep the quarters of the heavens, Rescue 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/03_asrAmastvA_haviShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अस्रा॑मस्त्वा ह॒विषा॑ यजा॒म्यश्लो॑णस्त्वा घृ॒तेन॑ जुहोमि।  
-य आशा॑नामाशापा॒लस्तु॒रीयो॑ दे॒वः स नः॑ सुभू॒तमे॒ह व॑क्षत् ॥
+अ᳓स्रामस्त्वा हवि᳓षा यजाम्य᳓श्लोणस्त्वा घृते᳓न जुहोमि।  
+य᳓ आ᳓शानामाशापाल᳓स्तुरी᳓यो देवः᳓ स᳓ नः सुभूत᳓मेह᳓ वक्षत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/03_asrAmastvA_haviShA.md">
@@ -239,8 +239,8 @@ I, free from stiffness, serve thee with oblation, not lame I sacri- fice with oi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/04_svasti_mAtra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्व॒स्ति मा॒त्र उ॒त पि॒त्रे नो॑ अस्तु स्व॒स्ति गोभ्यो॒ जग॑ते॒ पुरु॑षेभ्यः।  
-विश्व॑म्सुभू॒तम्सु॑वि॒दत्रं॑ नो अस्तु॒ ज्योगे॒व दृ॑शेम॒ सूर्य॑म् ॥
+स्वस्ति᳓ मात्र᳓ उत᳓ पित्रे᳓ नो अस्तु स्वस्ति᳓ गो᳓भ्यो ज᳓गते पु᳓रुषेभ्यः।  
+वि᳓श्वम्सुभूत᳓म्सुविद᳓त्रं नो अस्तु ज्यो᳓गेव᳓ दृशेम सू᳓र्यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/04_svasti_mAtra.md">

@@ -37,8 +37,8 @@ A charm accompanying investiture with an amulet that ensures safety and victory
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/01_prajApatiShTvA_badhnAtprathamamastRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाप॑तिष्ट्वा बध्नात्प्रथ॒ममस्तृ॑तं वी॒र्या᳡य॒ कम्।  
-तत्ते॑ बध्ना॒म्यायु॑षे॒ वर्च॑स॒ ओज॑से च॒ बला॑य॒ चास्तृ॑तस्त्वा॒भि र॑क्षतु ॥
+प्रजा᳓पतिष्ट्वा बध्नात्प्रथम᳓म᳓स्तृतं वीर्या᳙य क᳓म्।  
+त᳓त्ते बध्नाम्या᳓युषे व᳓र्चस ओ᳓जसे च ब᳓लाय चा᳓स्तृतस्त्वाभि᳓ रक्षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/01_prajApatiShTvA_badhnAtprathamamastRtam.md">
@@ -112,8 +112,8 @@ For manly strength Prajapati bound thee on first, invincible. This for long life
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/02_UrdhvastiShThatu_raxannapramAdamastRtemam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊ॒र्ध्वस्ति॑ष्ठतु॒ रक्ष॒न्नप्र॑माद॒मस्तृ॑ते॒मं मा त्वा॑ दभन्प॒णयो॑ यातु॒धानाः॑।  
-इन्द्र॑ इव॒ दस्यू॒नव॑ धूनुष्व पृतन्य॒तः सर्वा॒ञ्छत्रू॒न्वि ष॑ह॒स्वास्तृ॑तस्त्वा॒भि र॑क्षतु ॥
+ऊर्ध्व᳓स्तिष्ठतु र᳓क्षन्न᳓प्रमादम᳓स्तृतेमं᳓ मा᳓ त्वा दभन्पण᳓यो यातुधा᳓नाः।  
+इ᳓न्द्र इव द᳓स्यून᳓व धूनुष्व पृतन्यतः᳓ स᳓र्वाञ्छ᳓त्रून्वि᳓ षहस्वा᳓स्तृतस्त्वाभि᳓ रक्षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/02_UrdhvastiShThatu_raxannapramAdamastRtemam.md">
@@ -189,8 +189,8 @@ Erect, invincible, be this man's watchful keeper: let not the Panis or the sorce
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/03_shataM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तं च॑ न प्र॒हर॑न्तो नि॒घ्नन्तो॒ न त॑स्ति॒रे।  
-तस्मि॒न्निन्द्रः॒ पर्य॑दत्त॒ चक्षुः॑ प्रा॒णमथो॒ बल॒मस्तृ॑तस्त्वा॒भि र॑क्षतु ॥
+शतं᳓ च न प्रह᳓रन्तो निघ्न᳓न्तो न᳓ तस्तिरे᳓।  
+त᳓स्मिन्नि᳓न्द्रः प᳓र्यदत्त च᳓क्षुः प्राण᳓म᳓थो ब᳓लम᳓स्तृतस्त्वाभि᳓ रक्षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/03_shataM_cha.md">
@@ -270,8 +270,8 @@ Indra hath lent the power of sight, and vital breath and strength to this. Whom 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/04_indrasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य त्वा॒ वर्म॑णा॒ परि॑ धापयामो॒ यो दे॒वाना॑मधिरा॒जो ब॒भूव॑।  
-पुन॑स्त्वा दे॒वाः प्र ण॑यन्तु॒ सर्वेऽस्तृ॑तस्त्वा॒भि र॑क्षतु ॥
+इ᳓न्द्रस्य त्वा व᳓र्मणा प᳓रि धापयामो यो᳓ देवा᳓नामधिराजो᳓ बभू᳓व।  
+पु᳓नस्त्वा देवाः᳓ प्र᳓ णयन्तु स᳓र्वे᳓ऽस्तृतस्त्वाभि᳓ रक्षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/04_indrasya_tvA.md">
@@ -335,8 +335,8 @@ Around thy limbs I place the mail of Indra who hath become the Gods' imperial So
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/05_asminmaNAvekashataM_vIryANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्मिन्म॒णावेक॑शतं वी॒र्या᳡णि स॒हस्रं॑ प्रा॒णा अ॑स्मि॒न्नस्तृ॑ते।  
-व्या॒घ्रः शत्रू॑न॒भि ति॑ष्ठ॒ सर्वा॒न्यस्त्वा॑ पृतन्या॒दध॑रः॒ सो अ॒स्त्वस्तृ॑तस्त्वा॒भि र॑क्षतु ॥
+अस्मि᳓न्मणा᳓वे᳓कशतं वीर्या᳙णि सह᳓स्रं प्राणा᳓ अस्मिन्न᳓स्तृते।  
+व्याघ्रः᳓ श᳓त्रूनभि᳓ तिष्ठ स᳓र्वान्य᳓स्त्वा पृतन्याद᳓धरः सो᳓ अस्त्व᳓स्तृतस्त्वाभि᳓ रक्षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/05_asminmaNAvekashataM_vIryANi.md">
@@ -402,8 +402,8 @@ One and a hundred manly powers, a thousand lives hath this Amulet, unconquered e
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/06_ghRtAdullupto_madhumAnpayasvAntsahasraprANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-घृ॒तादुल्लु॑प्तो॒ मधु॑मा॒न्पय॑स्वान्त्स॒हस्र॑प्राणः श॒तयो॑निर्वयो॒धाः।  
-श॒म्भूश्च॑ मयो॒भूश्चोर्ज॑स्वांश्च॒ पय॑स्वां॒श्चास्तृ॑तस्त्वा॒भि र॑क्षतु ॥
+घृता᳓दु᳓ल्लुप्तो म᳓धुमान्प᳓यस्वान्त्सह᳓स्रप्राणः शत᳓योनिर्वयोधाः᳓।  
+शम्भू᳓श्च मयोभू᳓श्चो᳓र्जस्वांश्च प᳓यस्वांश्चा᳓स्तृतस्त्वाभि᳓ रक्षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/06_ghRtAdullupto_madhumAnpayasvAntsahasraprANaH.md">
@@ -483,8 +483,8 @@ Drawn forth from butter, rich in milk and sweetness, hundred- lived, thousand-ho
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/07_yathA_tvamuttaro-so.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ त्वमु॑त्त॒रोऽसो॑ असप॒त्नः स॑पत्न॒हा।  
-स॑जा॒ताना॑मसद्व॒शी तथा॑ त्वा सवि॒ता क॑र॒दस्तृ॑तस्त्वा॒भि र॑क्षतु ॥
+य᳓था त्व᳓मुत्तरो᳓ऽसो असपत्नः᳓ सपत्नहा᳓।  
+स᳙जाता᳓नामसद्वशी᳓ त᳓था त्वा सविता᳓ करद᳓स्तृतस्त्वाभि᳓ रक्षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/07_yathA_tvamuttaro-so.md">

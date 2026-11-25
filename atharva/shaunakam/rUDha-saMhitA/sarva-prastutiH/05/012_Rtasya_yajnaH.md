@@ -33,8 +33,8 @@ An Apri or propitiatory hymn
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/01_samiddho_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-समि॑द्धो अ॒द्य मनु॑षो दुरो॒णे दे॒वो दे॒वान्य॑जसि जातवेदः।  
-आ च॒ वह॑ मित्रमहश्चिकि॒त्वान्त्वं दू॒तः क॒विर॑सि॒ प्रचे॑ताः ॥
+स᳓मिद्धो अद्य᳓ म᳓नुषो दुरोणे᳓ देवो᳓ देवा᳓न्यजसि जातवेदः।  
+आ᳓ च व᳓ह मित्रमहश्चिकित्वा᳓न्त्वं᳓ दूतः᳓ कवि᳓रसि प्र᳓चेताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/012_Rtasya_yajnaH/01_samiddho_adya.md">
@@ -98,8 +98,8 @@ Thou in the house of man this day enkindled worshippest Gods as God, O Jatavedas
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/02_tanUnapAtpatha_Rtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तनू॑नपात्प॒थ ऋ॒तस्य॒ याना॒न्मध्वा॑ सम॒ञ्जन्त्स्व॑दया सुजिह्व।  
-मन्मा॑नि धी॒भिरु॒त य॒ज्ञमृ॒न्धन्दे॑व॒त्रा च॑ कृणुह्यध्व॒रं नः॑ ॥
+त᳓नूनपात्पथ᳓ ऋत᳓स्य या᳓नान्म᳓ध्वा समञ्ज᳓न्त्स्वदया सुजिह्व।  
+म᳓न्मानि धीभि᳓रुत᳓ यज्ञ᳓मृन्ध᳓न्देवत्रा᳓ च कृणुह्यध्वरं᳓ नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/012_Rtasya_yajnaH/02_tanUnapAtpatha_Rtasya.md">
@@ -167,8 +167,8 @@ Tanunapat, fair-tongued! with sweet meath balming the baths and ways of Order, m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/03_AjuhvAna_IDyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒जुह्वा॑न॒ ईड्यो॒ वन्द्य॒श्चा या॑ह्यग्ने॒ वसु॑भिः स॒जोषाः॑।  
-त्वं दे॒वाना॑मसि यह्व॒ होता॒ स ए॑नान्यक्षीषि॒तो यजी॑यान् ॥
+आजु᳓ह्वान ई᳓ड्यो व᳓न्द्यश्चा᳓ याह्यग्ने व᳓सुभिः सजो᳓षाः।  
+त्वं᳓ देवा᳓नामसि यह्व हो᳓ता स᳓ एनान्यक्षीषितो᳓ य᳓जीयान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/012_Rtasya_yajnaH/03_AjuhvAna_IDyo.md">
@@ -235,8 +235,8 @@ Invoked, deserving prayer and adoration, O Agni, come accor dant with the Vasus.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/04_prAchInaM_barhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॒चीनं॑ ब॒र्हिः प्र॒दिशा॑ पृथि॒व्या वस्तो॑र॒स्या वृ॑ज्यते॒ अग्रे॒ अह्ना॑म्।  
-व्यु॑ प्रथते वित॒रं वरी॑यो दे॒वेभ्यो॒ अदि॑तये स्यो॒नम् ॥
+प्राची᳓नं बर्हिः᳓ प्रदि᳓शा पृथिव्या᳓ व᳓स्तोरस्या᳓ वृज्यते अ᳓ग्रे अ᳓ह्नाम्।  
+व्यु᳙ प्रथते वितरं᳓ व᳓रीयो देवे᳓भ्यो अ᳓दितये स्योन᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/012_Rtasya_yajnaH/04_prAchInaM_barhiH.md">
@@ -301,8 +301,8 @@ By rule the Sacred Grass is scattered eastward, a robe to clothe this earth when
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/05_vyachasvatIrurviyA_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्यच॑स्वतीरुर्वि॒या वि श्र॑यन्तां॒ पति॑भ्यो॒ न जन॑यः॒ शुम्भ॑मानाः।  
-देवी॑र्द्वारो बृह॒तीर्वि॑श्वमिन्वा दे॒वेभ्यो॑ भवत सुप्राय॒णाः ॥
+व्य᳓चस्वतीरुर्विया᳓ वि᳓ श्रयन्तां प᳓तिभ्यो न᳓ ज᳓नयः शु᳓म्भमानाः।  
+दे᳓वीर्द्वारो बृहती᳓र्विश्वमिन्वा देवे᳓भ्यो भवत सुप्रायणाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/012_Rtasya_yajnaH/05_vyachasvatIrurviyA_vi.md">
@@ -366,8 +366,8 @@ Let the expansive Doors be widely opened, like wives who deck their beauty for t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/06_A_suShvayantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ सु॒ष्वय॑न्ती यज॒ते उ॒पाके॑ उ॒षासा॒नक्ता॑ सदतां॒ नि योनौ॑।  
-दि॒व्ये योष॑णे बृह॒ती सु॑रु॒क्मे अधि॒ श्रियं॑ शुक्र॒पिशं॒ दधा॑ने ॥
+आ᳓ सुष्व᳓यन्ती यजते᳓ उपा᳓के उषा᳓सान᳓क्ता सदतां नि᳓ यो᳓नौ।  
+दिव्ये᳓ यो᳓षणे बृहती᳓ सुरुक्मे᳓ अ᳓धि श्रि᳓यं शुक्रपि᳓शं द᳓धाने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/012_Rtasya_yajnaH/06_A_suShvayantI.md">
@@ -432,8 +432,8 @@ Pouring sweet dews let holy Night and Morning, each close to each, be seated at 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/07_daivyA_hotArA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दैव्या॒ होता॑रा प्रथ॒मा सु॒वाचा॒ मिमा॑ना य॒ज्ञं मनु॑षो॒ यज॑ध्यै।  
-प्र॑चो॒दय॑न्ता वि॒दथे॑षु का॒रू प्रा॒चीनं॒ ज्योतिः॑ प्र॒दिशा॑ दि॒शन्ता॑ ॥
+दै᳓व्या हो᳓तारा प्रथमा᳓ सुवा᳓चा मि᳓माना यज्ञं᳓ म᳓नुषो य᳓जध्यै।  
+प्र᳙चोद᳓यन्ता विद᳓थेषु कारू᳓ प्राची᳓नं ज्यो᳓तिः प्रदि᳓शा दिश᳓न्ता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/012_Rtasya_yajnaH/07_daivyA_hotArA.md">
@@ -497,8 +497,8 @@ Come the first two celestial sweet-voiced Hotars, arranging sacrifice for man to
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/08_A_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ नो॑ य॒ज्ञं भार॑ती॒ तूय॑मे॒त्विडा॑ मनु॒ष्वदि॒ह चे॒तय॑न्ती।  
-ति॒स्रो दे॒वीर्ब॒र्हिरेदं स्यो॒नं सर॑स्वतीः॒ स्वप॑सः सदन्ताम् ॥
+आ᳓ नो यज्ञं᳓ भा᳓रती तू᳓यमेत्वि᳓डा मनुष्व᳓दिह᳓ चेत᳓यन्ती।  
+तिस्रो᳓ देवी᳓र्बर्हि᳓रे᳓दं᳓ स्योनं᳓ स᳓रस्वतीः स्व᳓पसः सदन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/012_Rtasya_yajnaH/08_A_no.md">
@@ -569,8 +569,8 @@ Let Bharati come quickly to our worship and Ila showing like a human being. So l
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/09_ya_ime.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य इ॒मे द्यावा॑पृथि॒वी जनि॑त्री रू॒पैरपिं॑श॒द्भुव॑नानि॒ विश्वा॑।  
-तम॒द्य हो॑तरिषि॒तो यजी॑यान्दे॒वं त्वष्टा॑रमि॒ह य॑क्षि वि॒द्वान् ॥
+य᳓ इमे᳓ द्या᳓वापृथिवी᳓ ज᳓नित्री रूपै᳓र᳓पिंशद्भु᳓वनानि वि᳓श्वा।  
+त᳓मद्य᳓ होतरिषितो᳓ य᳓जीयान्देवं᳓ त्व᳓ष्टारमिह᳓ यक्षि विद्वा᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/012_Rtasya_yajnaH/09_ya_ime.md">
@@ -633,8 +633,8 @@ Hotar more skilled in sacrifice, bring hither with speed to-day God Tvashar, tho
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/10_upAvasRja_tmanyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒पाव॑सृज॒ त्मन्या॑ सम॒ञ्जन्दे॒वानां॒ पाथ॑ ऋतु॒था ह॒वींषि॑।  
-वन॒स्पतिः॑ शमि॒ता दे॒वो अ॒ग्निः स्वद॑न्तु ह॒व्यं मधु॑ना घृ॒तेन॑ ॥
+उपा᳓वसृज त्म᳓न्या समञ्ज᳓न्देवा᳓नां पा᳓थ ऋतुथा᳓ हवीं᳓षि।  
+व᳓नस्प᳓तिः शमिता᳓ देवो᳓ अग्निः᳓ स्व᳓दन्तु हव्यं᳓ म᳓धुना घृते᳓न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/012_Rtasya_yajnaH/10_upAvasRja_tmanyA.md">
@@ -700,8 +700,8 @@ Bring thou to our oblations which thou balmest the companies of Gods in ordered 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/11_sadyo_jAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒द्यो जा॒तो व्य॑मिमीत य॒ज्ञम॒ग्निर्दे॒वाना॑मभवत्पुरो॒गाः।  
-अ॒स्य होतुः॑ प्र॒शिष्यृ॒तस्य॑ वा॒चि स्वाहा॑कृतं ह॒विर॑दन्तु दे॒वाः ॥
+सद्यो᳓ जातो᳓ व्यमिमीत यज्ञ᳓मग्नि᳓र्देवा᳓नामभवत्पुरोगाः᳓।  
+अस्य᳓ हो᳓तुः प्रशि᳓ष्यृत᳓स्य वाचि᳓ स्वा᳓हाकृतं हवि᳓रदन्तु देवाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/012_Rtasya_yajnaH/11_sadyo_jAto.md">

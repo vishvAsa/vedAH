@@ -40,8 +40,8 @@ Imprecations on demons
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/01_indrAsomA_tapatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रा॑सोमा॒ तप॑तं॒ रक्ष॑ उ॒ब्जतं॒ न्य᳡र्पयतं वृषणा तमो॒वृधः॑।  
-परा॑ शृणीतम॒चितो॒ न्यो᳡षतं ह॒तं नु॒देथां॒ नि शि॑शीतम॒त्त्रिणः॑ ॥
+इ᳓न्द्रासोमा त᳓पतं र᳓क्ष उब्ज᳓तं न्य᳙र्पयतं वृषणा तमोवृ᳓धः।  
+प᳓रा शृणीतमचि᳓तो न्यो᳙षतं हतं᳓ नुदे᳓थां नि᳓ शिशीतमत्त्रि᳓णः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/01_indrAsomA_tapatam.md">
@@ -105,8 +105,8 @@ Indra and Soma, burn, destroy the demon foe! Send downward, O ye Bulls, those wh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/02_indrAsomA_samaghashaMsamabhyagham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रा॑सोमा॒ सम॒घशं॑सम॒भ्य१॒॑घं तपु॑र्ययस्तु च॒रुर॑ग्नि॒माँ इ॑व।  
-ब्र॑ह्म॒द्विषे॑ क्र॒व्यादे॑ घो॒रच॑क्षसे॒ द्वेषो॑ धत्तमनवा॒यं कि॑मीदिने ॥
+इ᳓न्द्रासोमा स᳓मघ᳓शंसमभ्य᳙घं᳓ त᳓पुर्ययस्तु चरु᳓रग्निमाँ᳓ इव।  
+ब्र᳙ह्मद्वि᳓षे क्रव्या᳓दे घोर᳓चक्षसे द्वे᳓षो धत्तमनवायं᳓ किमीदिने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/02_indrAsomA_samaghashaMsamabhyagham.md">
@@ -174,8 +174,8 @@ Let sin, Indra and Soma! round the wicked boil, like as a cald- ron set amid the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/03_indrAsomA_duShkRto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रा॑सोमा दु॒ष्कृतो॑ व॒व्रे अ॒न्तर॑नारम्भ॒णे तम॑सि॒ प्र वि॑ध्यतम्।  
-यतो॒ नैषां॒ पुन॒रेक॑श्च॒नोदय॒त्तद्वा॑मस्तु॒ सह॑से मन्यु॒मच्छवः॑ ॥
+इ᳓न्द्रासोमा दुष्कृ᳓तो वव्रे᳓ अन्त᳓रनारम्भणे᳓ त᳓मसि प्र᳓ विध्यतम्।  
+य᳓तो नै᳓षां पु᳓नरे᳓कश्चनो᳓द᳓यत्त᳓द्वामस्तु स᳓हसे मन्युम᳓च्छ᳓वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/03_indrAsomA_duShkRto.md">
@@ -238,8 +238,8 @@ Indra and Soma, plunge the wicked in the depth, yea, cast them into darkness tha
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/04_indrAsomA_vartayatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रा॑सोमा व॒र्तय॑तं दि॒वो व॒धं सं पृ॑थि॒व्या अ॒घशं॑साय॒ तर्ह॑णम्।  
-उत्त॑क्षतं स्व॒र्यं१॒॑ पर्व॑तेभ्यो॒ येन॒ रक्षो॑ वावृधा॒नं नि॒जूर्व॑थः ॥
+इ᳓न्द्रासोमा वर्त᳓यतं दिवो᳓ वधं᳓ सं᳓ पृथिव्या᳓ अघ᳓शंसाय त᳓र्हणम्।  
+उ᳓त्तक्षतं स्वर्यं᳙ प᳓र्वतेभ्यो ये᳓न र᳓क्षो वावृधानं᳓ निजू᳓र्वथः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/04_indrAsomA_vartayatam.md">
@@ -303,8 +303,8 @@ Indra and Soma, hurl your deadly crushing bolt down on the wicked fiend from hea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/05_indrAsomA_vartayatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रा॑सोमा व॒र्तय॑तं दि॒वस्पर्य॑ग्नित॒प्तेभि॑र्यु॒वमश्म॑हन्मभिः।  
-तपु॑र्वधेभिर॒जरे॑भिर॒त्त्रिणो॒ नि पर्शा॑ने विध्यतं॒ यन्तु॑ निस्व॒रम् ॥
+इ᳓न्द्रासोमा वर्त᳓यतं दिव᳓स्प᳓र्यग्नितप्ते᳓भिर्युव᳓म᳓श्महन्मभिः।  
+त᳓पुर्वधेभिरज᳓रेभिरत्त्रि᳓णो नि᳓ प᳓र्शाने विध्यतं य᳓न्तु निस्वर᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/05_indrAsomA_vartayatam.md">
@@ -368,8 +368,8 @@ Indra and Soma, cast ye downward from the sky your deadly bolts of stone burning
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/06_indrAsomA_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रा॑सोमा॒ परि॑ वां भूतु वि॒श्वत॑ इ॒यं म॒तिः क॒क्ष्याश्वे॑व वाजिना।  
-यां वां॒ होत्रां॑ परिहि॒नोमि॑ मे॒धये॒मा ब्रह्मा॑णि नृ॒पती॑ इव जिन्वतम् ॥
+इ᳓न्द्रासोमा प᳓रि वां भूतु विश्व᳓त इयं᳓ मतिः᳓ कक्ष्या᳓श्वेव वाजिना।  
+यां᳓ वां हो᳓त्रां परिहिनो᳓मि मेध᳓येमा᳓ ब्र᳓ह्माणि नृप᳓ती इव जिन्वतम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/06_indrAsomA_pari.md">
@@ -445,8 +445,8 @@ Indra and Soma, let this hymn control you both, even as the girth encompasses tw
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/07_prati_smarethAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रति॑ स्मरेथां तु॒जय॑द्भि॒रेवै॑र्ह॒तं द्रु॒हो र॒क्षसो॑ भङ्गु॒राव॑तः।  
-इन्द्रा॑सोमा दु॒ष्कृते॒ मा सु॒गं भू॒द्यो मा॑ क॒दा चि॑दभि॒दास॑ति द्रु॒हुः ॥
+प्र᳓ति स्मरेथां तुज᳓यद्भिरे᳓वैर्हतं᳓ द्रुहो᳓ रक्ष᳓सो भङ्गुरा᳓वतः।  
+इ᳓न्द्रासोमा दुष्कृ᳓ते मा᳓ सुगं᳓ भूद्यो᳓ मा कदा᳓ चिदभिदा᳓सति द्रुहुः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/07_prati_smarethAm.md">
@@ -500,8 +500,8 @@ In your impetuous manner think ye both thereon: destroy those evil spirits, kill
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/08_yo_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो मा॒ पाके॑न॒ मन॑सा॒ चर॑न्तमभि॒चष्टे॒ अनृ॑तेभि॒र्वचो॑भिः।  
-आप॑ इव काशिना॒ संगृभीता॒ अस॑न्न॒स्त्वास॑त इन्द्र व॒क्ता ॥
+यो᳓ मा पा᳓केन म᳓नसा च᳓रन्तमभिच᳓ष्टे अ᳓नृतेभिर्व᳓चोभिः।  
+आ᳓प इव काशिना सं᳓गृ᳓भी᳓ता अ᳓सन्नस्त्वा᳓सत इन्द्र वक्ता᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/08_yo_mA.md">
@@ -553,8 +553,8 @@ Whoso accuses me with words of falsehood when I pursue my way with guileless spi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/09_ye_pAkashaMsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये पा॑कशं॒सं वि॒हर॑न्त॒ एवै॒र्ये वा॑ भ॒द्रं दू॒षय॑न्ति स्व॒धाभिः॑।  
-अह॑ये वा॒ तान्प्र॒ददा॑तु॒ सोम॒ आ वा॑ दधातु॒ निरृ॑तेरु॒पस्थे॑ ॥
+ये᳓ पाकशंसं᳓ विह᳓रन्त ए᳓वैर्ये᳓ वा भद्रं᳓ दूष᳓यन्ति स्वधा᳓भिः।  
+अ᳓हये वा ता᳓न्प्रद᳓दातु सो᳓म आ᳓ वा दधातु नि᳓रृतेरुप᳓स्थे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/09_ye_pAkashaMsam.md">
@@ -619,8 +619,8 @@ Those who destroy, as is their wont, the simple, and with their evil natures har
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/10_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नो॒ रसं॒ दिप्स॑ति पि॒त्वो अ॑ग्ने॒ अश्वा॑नां॒ गवां॒ यस्त॒नूना॑म्।  
-रि॒पु स्ते॒न स्ते॑य॒कृद्द॒भ्रमे॑तु॒ नि ष ही॑यतां त॒न्वा॒३॒॑ तना॑ च ॥
+यो᳓ नो र᳓सं दि᳓प्सति पित्वो᳓ अग्ने अ᳓श्वानां ग᳓वां य᳓स्तनू᳓नाम्।  
+रिपु᳓ स्तेन᳓ स्तेयकृ᳓द्दभ्र᳓मेतु नि᳓ ष᳓ हीयतां तन्वा᳙ त᳓ना च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/10_yo_no.md">
@@ -693,8 +693,8 @@ O Agni, whosoever seeks to injure the essence of our food, kine, steeds, or bodi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/11_paraH_so.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒रः सो अ॑स्तु त॒न्वा॒३॒॑ तना॑ च ति॒स्रः पृ॑थि॒वीर॒धो अ॑स्तु॒ विश्वाः॑।  
-प्रति॑ शुष्यतु॒ यशो॑ अस्य देवा॒ यो मा॒ दिवा॒ दिप्स॑ति॒ यश्च॒ नक्त॑म् ॥
+परः᳓ सो᳓ अस्तु तन्वा᳙ त᳓ना च तिस्रः᳓ पृथिवी᳓रधो᳓ अस्तु वि᳓श्वाः।  
+प्र᳓ति शुष्यतु य᳓शो अस्य देवा यो᳓ मा दि᳓वा दि᳓प्सति य᳓श्च न᳓क्तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/11_paraH_so.md">
@@ -756,8 +756,8 @@ May he be swept away, himself and children; may all the three earths press him d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/12_suvijnAnaM_chikituShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॑विज्ञा॒नं चि॑कि॒तुषे॒ जना॑य॒ सच्चास॑च्च॒ वच॑सी पस्पृधाते।  
-तस्यो॒र्यत्स॒त्यं य॑त॒रदृजी॑य॒स्तदित्सोमो॑ऽवति॒ हन्त्यास॑त् ॥
+सु᳙विज्ञानं᳓ चिकितु᳓षे ज᳓नाय स᳓च्चा᳓सच्च व᳓चसी पस्पृधाते।  
+त᳓स्योर्य᳓त्सत्यं᳓ यतर᳓दृ᳓जीयस्त᳓दि᳓त्सो᳓मोऽवति ह᳓न्त्या᳓सत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/12_suvijnAnaM_chikituShe.md">
@@ -819,8 +819,8 @@ The prudent finds it easy to distinguish the true and false: their words oppose 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/13_na_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न वा उ॒ सोमो॑ वृजि॒नं हि॑नोति॒ न क्ष॒त्रियं॑ मिथु॒या धा॒रय॑न्तम्।  
-हन्ति॒ रक्षो॒ हन्त्यास॒द्वद॑न्तमु॒भाविन्द्र॑स्य॒ प्रसि॑तौ शयाते ॥
+न᳓ वा᳓ उ सो᳓मो वृजिनं᳓ हिनोति न᳓ क्षत्रि᳓यं मिथुया᳓ धार᳓यन्तम्।  
+ह᳓न्ति र᳓क्षो ह᳓न्त्या᳓सद्व᳓दन्तमुभा᳓वि᳓न्द्रस्य प्र᳓सितौ शयाते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/13_na_vA.md">
@@ -881,8 +881,8 @@ Never doth Soma aid and guide the wicked or him who falsely claims the Warrior's
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/14_yadi_vAhamanRtadevo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ वा॒हमनृ॑तदेवो॒ अस्मि॒ मोघं॑ वा दे॒वाँ अ॑प्यू॒हे अ॑ग्ने।  
-किम॒स्मभ्यं॑ जातवेदो हृणीषे द्रोघ॒वाच॑स्ते निरृ॒थं स॑चन्ताम् ॥
+य᳓दि वाह᳓म᳓नृतदेवो अ᳓स्मि मो᳓घं वा देवाँ᳓ अप्यूहे᳓ अग्ने।  
+कि᳓मस्म᳓भ्यं जातवेदो हृणीषे द्रोघवा᳓चस्ते निरृथं᳓ सचन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/14_yadi_vAhamanRtadevo.md">
@@ -947,8 +947,8 @@ As if I worshipped deities of falsehood, or thought vain thoughts about the Gods
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/15_adyA_murIya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒द्या मु॑रीय॒ यदि॑ यातु॒धानो॒ अस्मि॒ यदि॒ वायु॑स्त॒तप॒ पूरु॑षस्य।  
-अधा॒ स वी॒रैर्द॒शभि॒र्वि यू॑या॒ यो मा॒ मोघं॒ यातु॑धा॒नेत्याह॑ ॥
+अद्या᳓ मुरीय य᳓दि यातुधा᳓नो अ᳓स्मि य᳓दि वा᳓युस्तत᳓प पू᳓रुषस्य।  
+अ᳓धा स᳓ वीरै᳓र्दश᳓भिर्वि᳓ यूया यो᳓ मा मो᳓घं या᳓तुधाने᳓त्या᳓ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/15_adyA_murIya.md">
@@ -1013,8 +1013,8 @@ So may I die this day if I have harassed any man's life, or if I be a demon. Yea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/16_yo_mAyAtum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो माया॑तुं॒ यातु॑धाने॒त्याह॒ यो वा॑ र॒क्षाः शुचि॑र॒स्मीत्याह॑।  
-इन्द्र॒स्तं ह॑न्तु मह॒ता व॒धेन॒ विश्व॑स्य ज॒न्तोर॑ध॒मस्प॑दीष्ट ॥
+यो᳓ मा᳓यातुं या᳓तुधानेत्या᳓ह यो᳓ वा रक्षाः᳓ शु᳓चिरस्मी᳓त्या᳓ह।  
+इ᳓न्द्रस्तं᳓ हन्तु महता᳓ वधे᳓न वि᳓श्वस्य जन्तो᳓रधम᳓स्पदीष्ट ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/16_yo_mAyAtum.md">
@@ -1079,8 +1079,8 @@ May Indra slay him with a mighty weapon, and let the vilest of all creatures per
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/17_pra_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र या जिगा॑ति ख॒र्गले॑व॒ नक्त॒मप॑ द्रु॒हुस्त॒न्वं१॒॑ गूह॑माना।  
-व॒व्रम॑न॒न्तमव॒ सा प॑दीष्ट॒ ग्रावा॑णो घ्नन्तु र॒क्षस॑ उप॒ब्दैः ॥
+प्र᳓ या᳓ जि᳓गाति खर्ग᳓लेव न᳓क्तम᳓प द्रुहु᳓स्तन्वं᳙ गू᳓हमाना।  
+वव्र᳓मनन्त᳓म᳓व सा᳓ पदीष्ट ग्रा᳓वाणो घ्नन्तु रक्ष᳓स उपब्दैः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/17_pra_yA.md">
@@ -1144,8 +1144,8 @@ She too who wanders like an owl at night-time, hiding her body in her guile and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/18_vi_tiShThadhvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि ति॑ष्ठध्वं मरुतो वि॒क्ष्वि॒३॒॑च्छत॑ गृभा॒यत॑ र॒क्षसः॒ सं पि॑नष्टन्।  
-वयो॒ ये भू॒त्वा प॒तय॑न्ति न॒क्तभि॒र्ये वा॒ रिपो॑ दधि॒रे दे॒वे अ॑ध्व॒रे ॥
+वि᳓ तिष्ठध्वं मरुतो विक्ष्वि᳙च्छ᳓त गृभाय᳓त रक्ष᳓सः सं᳓ पिनष्टन्।  
+व᳓यो ये᳓ भूत्वा᳓ पत᳓यन्ति नक्त᳓भिर्ये᳓ वा रि᳓पो दधिरे᳓ देवे᳓ अध्वरे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/18_vi_tiShThadhvam.md">
@@ -1212,8 +1212,8 @@ Spread out, ye Maruts, search among the people: seize ye and grind the Rakshasas
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/19_pra_vartaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र व॑र्तय दि॒वोऽश्मा॑नमिन्द्र॒ सोम॑शितं मघव॒न्त्सं शि॑शाधि।  
-प्रा॒क्तो अ॑पा॒क्तो अ॑ध॒रादु॑द॒क्तो॒३॒॑भि ज॑हि र॒क्षसः॒ पर्व॑तेन ॥
+प्र᳓ वर्तय दिवो᳓ऽश्मानमिन्द्र सो᳓मशितं मघवन्त्सं᳓ शिशाधि।  
+प्राक्तो᳓ अपाक्तो᳓ अधरा᳓दुदक्तो᳙भि᳓ जहि रक्ष᳓सः प᳓र्वतेन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/19_pra_vartaya.md">
@@ -1279,8 +1279,8 @@ Hurl down from heaven thy bolt of stone, O Indra: sharpen it, Maghavan, made kee
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/20_eta_u.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒त उ॒ त्ये प॑तयन्ति॒ श्वया॑तव॒ इन्द्रं॑ दिप्सन्ति दि॒प्सवोऽदा॑भ्यम्।  
-शिशी॑ते श॒क्रः पिशु॑नेभ्यो व॒धं नू॒नं सृ॑जद॒शनिं॑ यातु॒मद्भ्यः॑ ॥
+एत᳓ उ त्ये᳓ पतयन्ति श्व᳓यातव इ᳓न्द्रं दिप्सन्ति दिप्स᳓वो᳓ऽदाभ्यम्।  
+शि᳓शीते शक्रः᳓ पि᳓शुनेभ्यो वधं᳓ नूनं᳓ सृजदश᳓निं यातुम᳓द्भ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/20_eta_u.md">
@@ -1347,8 +1347,8 @@ They fly, the demon dogs, and, bent on mischief, fain would they harm indomitabl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/21_indro_yAtUnAmabhavatparAsharo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ यातू॒नाम॑भवत्पराश॒रो ह॑वि॒र्मथी॑नाम॒भ्या॒३॒॑विवा॑सताम्।  
-अ॒भीदु॑ श॒क्रः प॑र॒शुर्यथा॒ वनं॒ पात्रे॑व भि॒न्दन्त्स॒त ए॑तु र॒क्षसः॑ ॥
+इ᳓न्द्रो यातूना᳓मभवत्पराशरो᳓ हविर्म᳓थीनामभ्या᳙वि᳓वासताम्।  
+अभी᳓दु शक्रः᳓ परशु᳓र्य᳓था व᳓नं पा᳓त्रेव भिन्द᳓न्त्सत᳓ एतु रक्ष᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/21_indro_yAtUnAmabhavatparAsharo.md">
@@ -1419,8 +1419,8 @@ Indra hath ever been the fiends' destroyer who spoil oblations of the Gods' invo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/22_ulUkayAtuM_shushulUkayAtum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उलू॑कयातुं शुशु॒लूक॑यातुं ज॒हि श्वया॑तुमु॒त कोक॑यातुम्।  
-सु॑प॒र्णया॑तुमु॒त गृध्र॑यातुं दृ॒षदे॑व॒ प्र मृ॑ण॒ रक्ष॑ इन्द्र ॥
+उ᳓लूकयातुं शुशुलू᳓कयातुं जहि᳓ श्व᳓यातुमुत᳓ को᳓कयातुम्।  
+सु᳙पर्ण᳓यातुमुत᳓ गृ᳓ध्रयातुं दृष᳓देव प्र᳓ मृण र᳓क्ष इन्द्र ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/22_ulUkayAtuM_shushulUkayAtum.md">
@@ -1485,8 +1485,8 @@ Destroy the fiend shaped like an owl or owlet, destroy him in. the form of dog o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/23_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॒ रक्षो॑ अ॒भि न॑ड्यातु॒माव॒दपो॑च्छन्तु मिथु॒ना ये कि॑मी॒दिनः॑।  
-पृ॑थि॒वी नः॒ पार्थि॑वात्पा॒त्वंह॑सो॒ऽन्तरि॑क्षं दि॒व्यात्पा॑त्व॒स्मान् ॥
+मा᳓ नो र᳓क्षो अभि᳓ नड्यातुमा᳓वद᳓पोच्छन्तु मिथुना᳓ ये᳓ किमीदि᳓नः।  
+पृ᳙थिवी᳓ नः पा᳓र्थिवात्पात्वं᳓हसोऽन्त᳓रिक्षं दिव्या᳓त्पात्वस्मा᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/23_mA_no.md">
@@ -1551,8 +1551,8 @@ Let not the fiend of witchcraft-workers reach us: may Dawn. drive off the couple
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/24_indra_jahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑ ज॒हि पुमां॑सं यातु॒धान॑मु॒त स्त्रियं॑ मा॒यया॒ शाश॑दानाम्।  
-विग्री॑वासो॒ मूर॑देवा ऋदन्तु॒ मा ते दृ॑श॒न्त्सूर्य॑मु॒च्चर॑न्तम् ॥
+इ᳓न्द्र जहि᳓ पु᳓मांसं यातुधा᳓नमुत᳓ स्त्रि᳓यं माय᳓या शा᳓शदानाम्।  
+वि᳓ग्रीवासो मू᳓रदेवा ऋदन्तु मा᳓ ते᳓ दृशन्त्सू᳓र्यमुच्च᳓रन्तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/24_indra_jahi.md">
@@ -1616,8 +1616,8 @@ Indra destroy the demon, male and female, joying and triumph- ing in arts of mag
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/004_shatrudamanam/25_prati_chaxva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रति॑ चक्ष्व॒ वि च॒क्ष्वेन्द्र॑श्च सोम जागृतम्।  
-रक्षो॑भ्यो व॒धम॑स्यतम॒शनिं॑ यातु॒मद्भ्यः॑ ॥
+प्र᳓ति चक्ष्व वि᳓ चक्ष्वे᳓न्द्रश्च सोम जागृतम्।  
+र᳓क्षोभ्यो वध᳓मस्यतमश᳓निं यातुम᳓द्भ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/004_shatrudamanam/25_prati_chaxva.md">

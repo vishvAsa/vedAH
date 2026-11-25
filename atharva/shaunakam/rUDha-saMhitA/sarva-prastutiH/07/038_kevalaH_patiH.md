@@ -37,8 +37,8 @@ A maiden's love-charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं ख॑नामि भेष॒जं मां॑प॒श्यम॑भिरोरु॒दम्।  
-प॑राय॒तो नि॒वर्त॑नमाय॒तः प्र॑ति॒नन्द॑नम् ॥
+इदं᳓ खनामि भेषजं᳓ मांपश्य᳓मभिरोरुद᳓म्।  
+प᳙रायतो᳓ निव᳓र्तनमायतः᳓ प्रतिन᳓न्दनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
@@ -132,8 +132,8 @@ I dig this Healing Herb that makes my lover look on me and weep; That bids the p
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/02_yenA_nichakra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येना॑ निच॒क्र आ॑सु॒रीन्द्रं॑ दे॒वेभ्य॒स्परि॑।  
-तेना॒ नि कु॑र्वे॒ त्वाम॒हं यथा॒ तेऽसा॑नि॒ सुप्रि॑या ॥
+ये᳓ना निचक्र᳓ आसुरी᳓न्द्रं देवे᳓भ्यस्प᳓रि।  
+ते᳓ना नि᳓ कुर्वे त्वा᳓महं᳓ य᳓था ते᳓ऽसानि सु᳓प्रिया ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/02_yenA_nichakra.md">
@@ -197,8 +197,8 @@ This Herb wherewith the Asuri drew Indra downward from the Gods, With this same 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒तीची॒ सोम॑मसि प्र॒तीच्यु॒त सूर्य॑म्।  
-प्र॒तीची॒ विश्वा॑न्दे॒वान्तां त्वा॒च्छाव॑दामसि ॥
+प्रती᳓ची सो᳓ममसि प्रती᳓च्युत᳓ सू᳓र्यम्।  
+प्रती᳓ची वि᳓श्वान्देवा᳓न्तां᳓ त्वाच्छा᳓वदामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
@@ -265,8 +265,8 @@ Thou art the peer of Soma, yea, thou art the equal of the Sun, The peer of all t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हं व॑दामि॒ नेत्त्वं स॒भाया॒मह॒ त्वं वद॑।  
-ममेदस॒स्त्वं केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न ॥
+अहं᳓ वदामि ने᳓त्त्वं᳓ सभा᳓याम᳓ह त्वं᳓ व᳓द।  
+म᳓मे᳓द᳓सस्त्वं᳓ के᳓वलो ना᳓न्या᳓सां कीर्त᳓याश्चन᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
@@ -334,8 +334,8 @@ I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/05_yadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॒ वासि॑ तिरोज॒नं यदि॑ वा न॒द्य᳡स्तिरः।  
-इ॒यं ह॒ मह्यं॒ त्वामोष॑धिर्ब॒द्ध्वेव॒ न्यान॑यत् ॥
+य᳓दि वा᳓सि तिरोजनं᳓ य᳓दि वा नद्य᳙स्तिरः।  
+इयं᳓ ह म᳓ह्यं त्वा᳓मो᳓षधिर्बद्ध्वे᳓व न्या᳓नयत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/05_yadi_vAsi.md">

@@ -37,8 +37,8 @@ Benediction on a King at his inauguration
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/01_asminvasu_vasavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्मिन्वसु॒ वस॑वो धारय॒न्त्विन्द्रः॑ पू॒षा वरु॑णो मि॒त्रो अ॒ग्निः।  
-इ॒ममा॑दि॒त्या उ॒त विश्वे॑ च दे॒वा उत्त॑रस्मि॒ञ्ज्योति॑षि धारयन्तु ॥
+अस्मि᳓न्व᳓सु व᳓सवो धारयन्त्वि᳓न्द्रः पूषा᳓ व᳓रुणो मित्रो᳓ अग्निः᳓।  
+इम᳓मादित्या᳓ उत᳓ वि᳓श्वे च देवा᳓ उ᳓त्तरस्मिञ्ज्यो᳓तिषि धारयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/01_asminvasu_vasavo.md">
@@ -102,8 +102,8 @@ May Indra, Pushan, Varuria, Mitra, Agni, benignant Gods, maintain this man in ri
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/02_asya_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्य दे॑वाः प्र॒दिशि॒ ज्योति॑रस्तु॒ सूर्यो॑ अ॒ग्निरु॒त वा॒ हिर॑ण्यम्।  
-स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
+अस्य᳓ देवाः प्रदि᳓शि ज्यो᳓तिरस्तु सू᳓र्यो अग्नि᳓रुत᳓ वा हि᳓रण्यम्।  
+सप᳓त्ना अस्म᳓द᳓धरे भवन्तूत्तमं᳓ ना᳓कम᳓धि रोहयेम᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/02_asya_devAH.md">
@@ -170,8 +170,8 @@ May light, O Gods, be under his dominion, Agni, the Sun, all; that is bright and
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/03_yenendrAya_samabharaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येनेन्द्रा॑य स॒मभ॑रः॒ पयां॑स्युत्त॒मेन॒ ब्रह्म॑णा जातवेदः।  
-तेन॒ त्वम॑ग्न इ॒ह व॑र्धये॒मं स॑जा॒तानां॒ श्रैष्ठ्य॒ आ धे॑ह्येनम् ॥
+ये᳓ने᳓न्द्राय सम᳓भरः प᳓यांस्युत्तमे᳓न ब्र᳓ह्मणा जातवेदः।  
+ते᳓न त्व᳓मग्न इह᳓ वर्धयेमं᳓ सजाता᳓नां श्रै᳓ष्ठ्य आ᳓ धेह्येनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/03_yenendrAya_samabharaH.md">
@@ -239,8 +239,8 @@ Through that most mighty prayer, O Jatavedas, wherewith thou. broughtest milk to
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/04_aiShAM_yajnamuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऐषां॑ य॒ज्ञमु॒त वर्चो॑ ददे॒ऽहं रा॒यस्पोष॑मु॒त चि॒त्तान्य॑ग्ने।  
-स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
+ऐ᳓षां यज्ञ᳓मुत᳓ व᳓र्चो ददेऽहं᳓ राय᳓स्पो᳓षमुत᳓ चित्ता᳓न्यग्ने।  
+सप᳓त्ना अस्म᳓द᳓धरे भवन्तूत्तमं᳓ ना᳓कम᳓धि रोहयेम᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/04_aiShAM_yajnamuta.md">

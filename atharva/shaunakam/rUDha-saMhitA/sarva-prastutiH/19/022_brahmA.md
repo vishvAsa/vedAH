@@ -37,7 +37,7 @@ A prose hymn of homage to various portions of the Atharva-veda, to the Rishis, a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/01_AngirasAnAmAdyaiH_panchAnuvAkaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॑ङ्गिर॒साना॑मा॒द्यैः पञ्चा॑नुवा॒कैः स्वाहा॑ ॥
+आ᳙ङ्गिरसा᳓नामाद्यैः᳓ प᳓ञ्चानुवाकैः᳓ स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/01_AngirasAnAmAdyaiH_panchAnuvAkaiH.md">
@@ -99,7 +99,7 @@ With the first five chapters of the Angirases, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/02_ShaShThAya_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ष॒ष्ठाय॒ स्वाहा॑ ॥
+षष्ठा᳓य स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/02_ShaShThAya_svAhA.md">
@@ -157,7 +157,7 @@ To the sixth, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/03_saptamAShTamAbhyAM_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑प्तमाष्ट॒माभ्यां॒ स्वाहा॑ ॥
+स᳙प्तमाष्टमा᳓भ्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/03_saptamAShTamAbhyAM_svAhA.md">
@@ -215,7 +215,7 @@ To the seventh and eight, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/04_nIlanakhebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नी॑लन॒खेभ्यः॒ स्वाहा॑ ॥
+नी᳙लनखे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/04_nIlanakhebhyaH_svAhA.md">
@@ -273,7 +273,7 @@ The black-clawed ones, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/05_haritebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ह॑रि॒तेभ्यः॒ स्वाहा॑ ॥
+ह᳙रिते᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/05_haritebhyaH_svAhA.md">
@@ -334,7 +334,7 @@ To the golden-hued ones, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/06_xudrebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्षु॒द्रेभ्यः॒ स्वाहा॑ ॥
+क्षुद्रे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/06_xudrebhyaH_svAhA.md">
@@ -392,7 +392,7 @@ To the small ones, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/07_paryAyikebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॑र्यायि॒केभ्यः॒ स्वाहा॑ ॥
+प᳙र्यायिके᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/07_paryAyikebhyaH_svAhA.md">
@@ -450,7 +450,7 @@ To those composed in strophes, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/08_prathamebhyaH_shankhebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॑थ॒मेभ्यः॑ श॒ङ्खेभ्यः॒ स्वाहा॑ ॥
+प्र᳙थमे᳓भ्यः शङ्खे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/08_prathamebhyaH_shankhebhyaH.md">
@@ -508,7 +508,7 @@ To the first shells, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/09_dvitIyebhyaH_shankhebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्वि॒तीये॑भ्यः श॒ङ्खेभ्यः॒ स्वाहा॑ ॥
+द्विती᳓येभ्यः शङ्खे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/09_dvitIyebhyaH_shankhebhyaH.md">
@@ -566,7 +566,7 @@ To the second shells, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/10_tRtIyebhyaH_shankhebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तृ॒तीये॑भ्यः श॒ङ्खेभ्यः॒ स्वाहा॑ ॥
+तृती᳓येभ्यः शङ्खे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/10_tRtIyebhyaH_shankhebhyaH.md">
@@ -630,7 +630,7 @@ To the third shells, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/11_upottamebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑पोत्त॒मेभ्यः॒ स्वाहा॑ ॥
+उ᳙पोत्तमे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/11_upottamebhyaH_svAhA.md">
@@ -688,7 +688,7 @@ To the penultimates, Hail.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/12_uttamebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑त्त॒मेभ्यः॒ स्वाहा॑ ॥
+उ᳙त्तमे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/12_uttamebhyaH_svAhA.md">
@@ -746,7 +746,7 @@ To the last ones, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/13_uttarebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑त्त॒रेभ्यः॒ स्वाहा॑ ॥
+उ᳙त्तरे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/13_uttarebhyaH_svAhA.md">
@@ -806,7 +806,7 @@ To the latter ones, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/14_RShibhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒षिभ्यः॒ स्वाहा॑ ॥
+ऋषि᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/14_RShibhyaH_svAhA.md">
@@ -868,7 +868,7 @@ To the Rishis, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/15_shikhibhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि॒खिभ्यः॒ स्वाहा॑ ॥
+शिखि᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/15_shikhibhyaH_svAhA.md">
@@ -927,7 +927,7 @@ To those with hair in tufts, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/16_gaNebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ग॒णेभ्यः॒ स्वाहा॑ ॥
+गणे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/16_gaNebhyaH_svAhA.md">
@@ -985,7 +985,7 @@ To the Ganas, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/17_mahAgaNebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॑हाग॒णेभ्यः॒ स्वाहा॑ ॥
+म᳙हागणे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/17_mahAgaNebhyaH_svAhA.md">
@@ -1043,7 +1043,7 @@ To the great Ganas, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/18_sarvebhyo-ngirobhyo_vidagaNebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्वे॒भ्योऽङ्गि॑रोभ्यो विदग॒णेभ्यः॒ स्वाहा॑ ॥
+स᳓र्वेभ्यो᳓ऽङ्गिरोभ्यो विदगणे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/18_sarvebhyo-ngirobhyo_vidagaNebhyaH.md">
@@ -1104,7 +1104,7 @@ To all the Vidagana Angirases, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/19_pRthaksahasrAbhyAM_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॑थक्स॒ह॒स्राभ्यां॒ स्वाहा॑ ॥
+पृ᳙थक्सहस्रा᳓भ्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/19_pRthaksahasrAbhyAM_svAhA.md">
@@ -1162,7 +1162,7 @@ To those two with separate thousands, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/20_brahmaNe_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्र॒ह्मणे॒ स्वाहा॑ ॥
+ब्रह्म᳓णे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/20_brahmaNe_svAhA.md">
@@ -1243,8 +1243,8 @@ To Brahma, Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/022_brahmA/21_brahmajyeShThA_sambhRtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑ज्येष्ठा॒ सम्भृ॑ता वी॒र्या᳡णि॒ ब्रह्माग्रे॒ ज्येष्ठं॒ दिव॒मा त॑तान।  
-भू॒तानां॑ ब्र॒ह्मा प्र॑थ॒मोत ज॑ज्ञे॒ तेना॑र्हति॒ ब्रह्म॑णा॒ स्पर्धि॑तुं॒ कः ॥
+ब्र᳓ह्मज्येष्ठा स᳓म्भृता वीर्या᳙णि ब्र᳓ह्मा᳓ग्रे ज्ये᳓ष्ठं दि᳓वमा᳓ ततान।  
+भूता᳓नां ब्रह्मा᳓ प्रथमो᳓त᳓ जज्ञे ते᳓नार्हति ब्र᳓ह्मणा स्प᳓र्धितुं कः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/21_brahmajyeShThA_sambhRtA.md">

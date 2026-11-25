@@ -40,8 +40,8 @@ A prayer to all Divinities and Sanctities for deliverance from distress
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/01_agniM_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निं ब्रू॑मो॒ वन॒स्पती॒नोष॑धीरु॒त वी॒रुधः॑।  
-इन्द्रं॒ बृह॒स्पतिं॒ सूर्यं॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+अग्निं᳓ ब्रूमो व᳓नस्प᳓तीनो᳓षधीरुत᳓ वीरु᳓धः।  
+इ᳓न्द्रं बृ᳓हस्प᳓तिं सू᳓र्यं ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/01_agniM_brUmo.md">
@@ -103,8 +103,8 @@ We call on Agni, on the trees lords of the forest, herbs and. plants, Indra, Sur
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/02_brUmo_rAjAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रू॒मो राजा॑नं॒ वरु॑णं मि॒त्रं विष्णु॒मथो॒ भग॑म्।  
-अंशं॒ विव॑स्वन्तं ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+ब्रूमो᳓ रा᳓जानं व᳓रुणं मित्रं᳓ वि᳓ष्णुम᳓थो भ᳓गम्।  
+अं᳓शं वि᳓वस्वन्तं ब्रूमस्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/02_brUmo_rAjAnam.md">
@@ -164,8 +164,8 @@ We call on Vishnu, Bhaga, on Mitra and Varuna the King, Ansa Vivasvan we address
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/03_brUmo_devam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रू॒मो दे॒वं स॑वि॒तारं॑ धा॒तार॑मु॒त पू॒षण॑म्।  
-त्वष्टा॑रमग्रि॒यं ब्रू॑म॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+ब्रूमो᳓ देवं᳓ सविता᳓रं धाता᳓रमुत᳓ पूष᳓णम्।  
+त्व᳓ष्टारमग्रियं᳓ ब्रूमस्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/03_brUmo_devam.md">
@@ -227,8 +227,8 @@ We call on Savitar the God, on Pushan the establisher, Tvashtar the foremost we 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/04_gandharvApsaraso_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ग॑न्धर्वाप्स॒रसो॑ ब्रूमो अ॒श्विना॒ ब्रह्म॑ण॒स्पति॑म्।  
-अ॑र्य॒मा नाम॒ यो दे॒वस्ते॑ नो मुञ्च॒न्त्वंह॑सः ॥
+ग᳙न्धर्वाप्सर᳓सो ब्रूमो अश्वि᳓ना ब्र᳓ह्मणस्प᳓तिम्।  
+अ᳙र्यमा᳓ ना᳓म यो᳓ देव᳓स्ते नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/04_gandharvApsaraso_brUmo.md">
@@ -289,8 +289,8 @@ Gandharvas and Apsarases; the Asvins, Brahmanaspati, Aryaman, God, by name we ca
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/05_ahorAtre_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑होरा॒त्रे इ॒दं ब्रू॑मः सूर्याचन्द्र॒मसा॑वु॒भा।  
-विश्वा॑नादि॒त्यान्ब्रू॑म॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+अ᳙होरात्रे᳓ इदं᳓ ब्रूमः सूर्याचन्द्रम᳓सावुभा᳓।  
+वि᳓श्वानादित्या᳓न्ब्रूमस्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/05_ahorAtre_idam.md">
@@ -352,8 +352,8 @@ This word of ours to Day and Night, and to the Sun and Moon we speak, All the Ad
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/06_vAtaM_brUmaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वातं॑ ब्रूमः प॒र्जन्य॑म॒न्तरि॑क्ष॒मथो॒ दिशः॑।  
-आशा॑श्च॒ सर्वा॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+वा᳓तं ब्रूमः पर्ज᳓न्यमन्त᳓रिक्षम᳓थो दि᳓शः।  
+आ᳓शाश्च स᳓र्वा ब्रूमस्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/06_vAtaM_brUmaH.md">
@@ -413,8 +413,8 @@ Vata, Parjanya we address, the Quarters, and the Firmament, And all the Regions 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/07_munchantu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॒ञ्चन्तु॑ मा शप॒थ्या᳡दहोरा॒त्रे अथो॑ उ॒षाः।  
-सोमो॑ मा दे॒वो मु॑ञ्चतु॒ यमा॒हुश्च॒न्द्रमा॒ इति॑ ॥
+मुञ्च᳓न्तु मा शपथ्या᳙दहोरात्रे᳓ अ᳓थो उषाः᳓।  
+सो᳓मो मा देवो᳓ मुञ्चतु य᳓माहु᳓श्चन्द्र᳓मा इ᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/07_munchantu_mA.md">
@@ -476,8 +476,8 @@ From all that brings a curse may Day and Night and Dawn deliver me, May Soma fre
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/08_pArthivA_divyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पार्थि॑वा दि॒व्याः प॒शव॑ आर॒ण्या उ॒त ये मृ॒गाः।  
-श॒कुन्ता॑न्प॒क्षिणो॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+पा᳓र्थिवा दिव्याः᳓ पश᳓व आरण्या᳓ उत᳓ ये᳓ मृगाः᳓।  
+शकु᳓न्तान्पक्षि᳓णो ब्रूमस्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/08_pArthivA_divyAH.md">
@@ -541,8 +541,8 @@ All creatures both of heaven and earth, wild beasts and sylvan animals, And wing
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/09_bhavAsharvAvidaM_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॑वाश॒र्वावि॒दं ब्रू॑मो रु॒द्रं प॑शु॒पति॑श्च॒ यः।  
-इषू॒र्या ए॑षां संवि॒द्म ता नः॑ सन्तु॒ सदा॑ शि॒वाः ॥
+भ᳙वाशर्वा᳓विदं᳓ ब्रूमो रुद्रं᳓ पशुप᳓तिश्च यः᳓।  
+इ᳓षूर्या᳓ एषां संविद्म᳓ ता᳓ नः सन्तु स᳓दा शिवाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/09_bhavAsharvAvidaM_brUmo.md">
@@ -606,8 +606,8 @@ Bhava and Sarva we address, and Rudra who is Lord of Beasts, Their arrows which 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/10_divaM_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दिवं॑ ब्रूमो॒ नक्ष॑त्राणि॒ भूमिं॑ य॒क्षाणि॒ पर्व॑तान्।  
-स॑मु॒द्रा न॒द्यो᳡ वेश॒न्तास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+दि᳓वं ब्रूमो न᳓क्षत्राणि भू᳓मिं यक्षा᳓णि प᳓र्वतान्।  
+स᳙मुद्रा᳓ नद्यो᳙ वेशन्ता᳓स्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/10_divaM_brUmo.md">
@@ -671,8 +671,8 @@ We speak to Constellations, Heaven, to Earth, to Genii, and to Hills, To Seas, t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/11_saptarShInvA_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सप्त॒र्षीन्वा इ॒दं ब्रू॑मो॒ऽपो दे॒वीः प्र॒जाप॑तिम्।  
-पि॒तॄन्य॒मश्रे॑ष्ठान्ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+स᳓प्तर्षी᳓न्वा᳓ इदं᳓ ब्रूमोऽपो᳓ देवीः᳓ प्रजा᳓पतिम्।  
+पितॄ᳓न्यम᳓श्रेष्ठान्ब्रूमस्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/11_saptarShInvA_idam.md">
@@ -735,8 +735,8 @@ Or the Seven Rishis we address, Waters divine, Prajapati, Fathers with Yama at t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/12_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये दे॒वा दि॑वि॒षदो॑ अन्तरिक्ष॒सद॑श्च॒ ये।  
-पृ॑थि॒व्यां श॒क्रा ये श्रि॒तास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+ये᳓ देवा᳓ दिविष᳓दो अन्तरिक्षस᳓दश्च ये᳓।  
+पृ᳙थिव्यां᳓ शक्रा᳓ ये᳓ श्रिता᳓स्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/12_ye_devA.md">
@@ -798,8 +798,8 @@ Gods whose abode is in the heaven and those who dwell in middle air, And Mighty 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/13_AdityA_rudrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॑दि॒त्या रु॒द्रा वस॑वो दि॒वि दे॒वा अथ॑र्वाणः।  
-अङ्गि॑रसो मनी॒षिण॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+आ᳙दित्या᳓ रुद्रा᳓ व᳓सवो दिवि᳓ देवा᳓ अ᳓थर्वाणः।  
+अ᳓ङ्गिरसो मनीषि᳓णस्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/13_AdityA_rudrA.md">
@@ -861,8 +861,8 @@ Adityas, Rudra, Vasus, Gods aloft in heaven, Atharvan's sons, The sages, sons of
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/14_yajnaM_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒ज्ञं ब्रू॑मो॒ यज॑मान॒मृचः॒ सामा॑नि भेष॒जा।  
-यजूं॑षि॒ होत्रा॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+यज्ञं᳓ ब्रूमो य᳓जमानमृ᳓चः सा᳓मानि भेषजा᳓।  
+य᳓जूंषि हो᳓त्रा ब्रूमस्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/14_yajnaM_brUmo.md">
@@ -926,8 +926,8 @@ To sacrifice, to worshipper, hymns, songs, and healing charms, we speak, To prie
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/15_pancha_rAjyAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पञ्च॑ रा॒ज्यानि॑ वी॒रुधां॒ सोम॑श्रेष्ठानि ब्रूमः।  
-द॒र्भो भ॒ङ्गो यवः॒ सह॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+प᳓ञ्च राज्या᳓नि वीरु᳓धां सो᳓मश्रेष्ठानि ब्रूमः।  
+दर्भो᳓ भङ्गो᳓ य᳓वः स᳓हस्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/15_pancha_rAjyAni.md">
@@ -992,8 +992,8 @@ To the five kingdoms of the plants which Soma rules as Lord we speak. Darbha, he
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/16_arAyAnbrUmo_raxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒राया॑न्ब्रूमो॒ रक्षां॑सि स॒र्पान्पु॑ण्यज॒नान्पि॒तॄन्।  
-मृ॒त्यूनेक॑शतं ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+अरा᳓यान्ब्रूमो र᳓क्षांसि सर्पा᳓न्पुण्यजना᳓न्पितॄ᳓न्।  
+मृत्यू᳓ने᳓कशतं ब्रूमस्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/16_arAyAnbrUmo_raxAMsi.md">
@@ -1059,8 +1059,8 @@ To demons and fierce fiends we speak, to Holy Genii, Fathers,. Snakes, And to th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/17_RtUnbrUma_RtupatInArtavAnuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तून्ब्रू॑म ऋतु॒पती॑नार्त॒वानु॒त हा॑य॒नान्।  
-समाः॑ संवत्स॒रान्मासां॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+ऋतू᳓न्ब्रूम ऋतुप᳓तीनार्तवा᳓नुत᳓ हायना᳓न्।  
+स᳓माः संवत्सरा᳓न्मा᳓सांस्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/17_RtUnbrUma_RtupatInArtavAnuta.md">
@@ -1126,8 +1126,8 @@ We speak to Seasons, Season-Lords, to years and sections of the year, To Months,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/18_eta_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एत॑ देवा दक्षिण॒तः प॒श्चात्प्राञ्च॑ उ॒देत॑।  
-पु॒रस्ता॑दुत्त॒राच्छ॒क्रा विश्वे॑ दे॒वाः स॒मेत्य॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+ए᳓त देवा दक्षिणतः᳓ पश्चा᳓त्प्रा᳓ञ्च उदे᳓त।  
+पुर᳓स्तादुत्तरा᳓च्छक्रा᳓ वि᳓श्वे देवाः᳓ समे᳓त्य ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/18_eta_devA.md">
@@ -1189,8 +1189,8 @@ Come hither from the south, ye Gods, rise and come forward from the west. Gather
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/19_vishvAndevAnidaM_brUmaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्वा॑न्दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑।  
-विश्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+वि᳓श्वान्देवा᳓निदं᳓ ब्रूमः सत्य᳓संधानृतावृ᳓धः।  
+वि᳓श्वाभिः प᳓त्नीभिः सह᳓ ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/19_vishvAndevAnidaM_brUmaH.md">
@@ -1251,8 +1251,8 @@ This we address to all the Gods, faithful, maintainers of the Right, With all th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/20_sarvAndevAnidaM_brUmaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्वा॑न्दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑।  
-सर्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+स᳓र्वान्देवा᳓निदं᳓ ब्रूमः सत्य᳓संधानृतावृ᳓धः।  
+स᳓र्वाभिः प᳓त्नीभिः सह᳓ ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/20_sarvAndevAnidaM_brUmaH.md">
@@ -1316,8 +1316,8 @@ We speak to the collected Gods, faithful, maintainers of the Right. Present with
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/21_bhUtaM_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भू॒तं ब्रू॑मो भूत॒पतिं॑ भू॒ताना॑मु॒त यो व॒शी।  
-भू॒तानि॒ सर्वा॑ सं॒गत्य॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+भूतं᳓ ब्रूमो भूतप᳓तिं भूता᳓नामुत᳓ यो᳓ वशी᳓।  
+भूता᳓नि स᳓र्वा संग᳓त्य ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/21_bhUtaM_brUmo.md">
@@ -1381,8 +1381,8 @@ The spirit, yea, the spirits' Lord, ruler of spirits, we address. Together let a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/22_yA_devIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या दे॒वीः पञ्च॑ प्र॒दिशो॒ ये दे॒वा द्वाद॑श॒र्तवः॑।  
-सं॑वत्स॒रस्य॒ ये दंष्ट्रा॒स्ते नः॑ सन्तु॒ सदा॑ शि॒वाः ॥
+या᳓ देवीः᳓ प᳓ञ्च प्रदि᳓शो ये᳓ देवा᳓ द्वा᳓दशर्त᳓वः।  
+सं᳙वत्सर᳓स्य ये᳓ दं᳓ष्ट्रास्ते᳓ नः सन्तु स᳓दा शिवाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/22_yA_devIH.md">
@@ -1446,8 +1446,8 @@ The five Sky regions, Goddesses, and the twelve Seasons which are Gods. The teet
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/23_yanmAtalI_rathakrItamamRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यन्मात॑ली रथक्री॒तम॒मृतं॒ वेद॑ भेष॒जम्।  
-तदिन्द्रो॑ अ॒प्सु प्रावे॑शय॒त्तदा॑पो दत्त भेष॒जम् ॥
+य᳓न्मा᳓तली रथक्रीत᳓ममृ᳓तं वे᳓द भेषज᳓म्।  
+त᳓दि᳓न्द्रो अप्सु᳓ प्रा᳓वेशयत्त᳓दापो दत्त भेषज᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/23_yanmAtalI_rathakrItamamRtam.md">

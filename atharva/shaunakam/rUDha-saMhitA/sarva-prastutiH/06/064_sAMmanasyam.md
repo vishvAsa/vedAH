@@ -37,8 +37,8 @@ To promote unanimity in an assembly
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/01_saM_jAnIdhvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं जा॑नीध्वं॒ सं पृ॑च्यध्वं॒ सं वो॒ मनां॑सि जानताम्।  
-दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते ॥
+सं᳓ जानीध्वं सं᳓ पृच्यध्वं सं᳓ वो म᳓नांसि जानताम्।  
+देवा᳓ भागं᳓ य᳓था पू᳓र्वे संजानाना᳓ उपा᳓सते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/064_sAMmanasyam/01_saM_jAnIdhvam.md">
@@ -103,8 +103,8 @@ Agree and be united: let your minds be all of one accord, Even as the Gods of an
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/02_samAno_mantraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑मा॒नो मन्त्रः॒ समि॑तिः समा॒नी स॑मा॒नं व्र॒तं स॒ह चि॒त्तमे॑षाम्।  
-स॑मा॒नेन॑ वो ह॒विषा॑ जुहोमि समा॒नं चेतो॑ अभि॒संवि॑शध्वम् ॥
+स᳙मानो᳓ म᳓न्त्रः स᳓मितिः समानी᳓ समानं᳓ व्रतं᳓ सह᳓ चित्त᳓मेषाम्।  
+स᳙माने᳓न वो हवि᳓षा जुहोमि समानं᳓ चे᳓तो अभिसं᳓विशध्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/064_sAMmanasyam/02_samAno_mantraH.md">
@@ -174,8 +174,8 @@ The rede is common, common the assembly, common the law, so be their thoughts un
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/03_samAnI_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑मा॒नी व॒ आकू॑तिः समा॒ना हृद॑यानि वः।  
-स॑मा॒नम॑स्तु वो॒ मनो॒ यथा॑ वः॒ सुस॒हास॑ति ॥
+स᳙मानी᳓ व आ᳓कूतिः समाना᳓ हृ᳓दयानि वः।  
+स᳙मान᳓मस्तु वो म᳓नो य᳓था वः सु᳓सहा᳓सति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/064_sAMmanasyam/03_samAnI_va.md">

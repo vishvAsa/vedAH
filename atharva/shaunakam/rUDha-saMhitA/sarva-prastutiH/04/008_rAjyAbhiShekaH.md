@@ -38,8 +38,8 @@ A benediction at the consecration of a King
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/01_bhUto_bhUteShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भू॒तो भू॒तेषु॒ पय॒ आ द॑धाति॒ स भू॒ताना॒मधि॑पतिर्बभूव।  
-तस्य॑ मृ॒त्युश्च॑रति राज॒सूयं॒ स राजा॒ रा॒ज्यमनु॑ मन्यतामि॒दम् ॥
+भूतो᳓ भूते᳓षु प᳓य आ᳓ दधाति स᳓ भूता᳓नाम᳓धिपतिर्बभूव।  
+त᳓स्य मृत्यु᳓श्चरति राजसू᳓यं स᳓ रा᳓जा राज्य᳓म᳓नु मन्यतामिद᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/01_bhUto_bhUteShu.md">
@@ -114,8 +114,8 @@ The Being lays the sap of life in beings: he hath become the sovran Lord of crea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/02_abhi_prehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि प्रेहि॒ माप॑ वेन उ॒ग्रश्चे॒त्ता स॑पत्न॒हा।  
-आ ति॑ष्ठ मित्रवर्धन॒ तुभ्यं॑ दे॒वा अधि॑ ब्रुवन् ॥
+अभि᳓ प्रे᳓हि मा᳓प वेन उग्र᳓श्चेत्ता᳓ सपत्नहा᳓।  
+आ᳓ तिष्ठ मित्रवर्धन तु᳓भ्यं देवा᳓ अ᳓धि ब्रुवन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/02_abhi_prehi.md">
@@ -188,8 +188,8 @@ Come forward, turn not back in scorn, strong guardian, slayer of the foes. Appro
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/03_AtiShThantaM_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒तिष्ठ॑न्तं॒ परि॒ विश्वे॑ अभूषं॒ छ्रियं॒ वसा॑नश्चरति॒ स्वरो॑चिः।  
-म॒हत्तद्वृष्णो॒ असु॑रस्य॒ नामा वि॒श्वरू॑पो अ॒मृता॑नि तस्थौ ॥
+आति᳓ष्ठन्तं प᳓रि वि᳓श्वे अभूषं छ्रि᳓यं व᳓सानश्चरति स्व᳓रोचिः।  
+मह᳓त्त᳓द्वृ᳓ष्णो अ᳓सुरस्य ना᳓मा᳓ विश्व᳓रूपो अमृ᳓तानि तस्थौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/03_AtiShThantaM_pari.md">
@@ -263,8 +263,8 @@ All waited on him as he came to meet them. He self-resplendent moves endued with
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/04_vyAghro_adhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्या॒घ्रो अधि॒ वैया॑घ्रे॒ वि क्र॑मस्व॒ दिशो॑ म॒हीः।  
-विश॑स्त्वा॒ सर्वा॑ वाञ्छ॒न्त्वापो॑ दि॒व्याः पय॑स्वतीः ॥
+व्याघ्रो᳓ अ᳓धि वै᳓याघ्रे वि᳓ क्रमस्व दि᳓शो महीः᳓।  
+वि᳓शस्त्वा स᳓र्वा वाञ्छन्त्वा᳓पो दिव्याः᳓ प᳓यस्वतीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/04_vyAghro_adhi.md">
@@ -331,8 +331,8 @@ Stride forth to heaven's broad regions, thou, a tiger on a tiger's skin. Let all
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/05_yA_Apo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या आपो॑ दि॒व्याः पय॑सा॒ मद॑न्त्य॒न्तरि॑क्ष उ॒त वा॑ पृथि॒व्याम्।  
-तासां॑ त्वा॒ सर्वा॑साम॒पाम॒भि षि॑ञ्चामि॒ वर्च॑सा ॥
+या᳓ आ᳓पो दिव्याः᳓ प᳓यसा म᳓दन्त्यन्त᳓रिक्ष उत᳓ वा पृथिव्या᳓म्।  
+ता᳓सां त्वा स᳓र्वासामपा᳓मभि᳓ षिञ्चामि व᳓र्चसा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/05_yA_Apo.md">
@@ -415,8 +415,8 @@ Heaven's waters joyous in their milk, the waters of middle air, and those that e
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/06_abhi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि त्वा॒ वर्च॑सासिच॒न्नापो॑ दि॒व्याः पय॑स्वतीः।  
-यथासो॑ मित्र॒वर्ध॑न॒स्तथा॑ त्वा सवि॒ता क॑रत् ॥
+अभि᳓ त्वा व᳓र्चसासिचन्ना᳓पो दिव्याः᳓ प᳓यस्वतीः।  
+य᳓था᳓सो मित्रव᳓र्धनस्त᳓था त्वा सविता᳓ करत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/06_abhi_tvA.md">
@@ -484,8 +484,8 @@ The heavenly waters rich in milk have sprinkled thee with power and might. To be
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/07_enA_vyAghram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒ना व्या॒घ्रं प॑रिषस्वजा॒नाः सिं॒हं हि॑न्वन्ति मह॒ते सौभ॑गाय।  
-स॑मु॒द्रं न॑ सु॒भुव॑स्तस्थि॒वांसं॑ मर्मृ॒ज्यन्ते॑ द्वी॒पिन॑म॒प्स्व१॒॑न्तः ॥
+एना᳓ व्याघ्रं᳓ परिषस्वजानाः᳓ सिंहं᳓ हिन्वन्ति महते᳓ सौ᳓भगाय।  
+स᳙मुद्रं᳓ न सुभु᳓वस्तस्थिवां᳓सं मर्मृज्य᳓न्ते द्वीपि᳓नमप्स्व᳙न्तः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/07_enA_vyAghram.md">

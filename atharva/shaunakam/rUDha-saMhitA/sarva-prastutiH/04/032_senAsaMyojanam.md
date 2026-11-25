@@ -37,8 +37,8 @@ A hymn to Manyu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/01_yaste_manyo-vidhadvajra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॑ म॒न्योऽवि॑धद्वज्र सायक॒ सह॒ ओजः॑ पुष्यति॒ विश्व॑मानु॒षक्।  
-सा॒ह्याम॒ दास॒मार्यं॒ त्वया॑ यु॒जा व॒यं सह॑स्कृतेन॒ सह॑सा॒ सह॑स्वता ॥
+य᳓स्ते मन्यो᳓ऽविधद्वज्र सायक स᳓ह ओ᳓जः पुष्यति वि᳓श्वमानुष᳓क्।  
+साह्या᳓म दा᳓समा᳓र्यं त्व᳓या युजा᳓ वयं᳓ स᳓हस्कृतेन स᳓हसा स᳓हस्वता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/01_yaste_manyo-vidhadvajra.md">
@@ -110,8 +110,8 @@ He who hath reverenced thee, Manyu, destructive bolt! breeds. for himself forthw
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/02_manyurindro_manyurevAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒न्युरिन्द्रो॑ म॒न्युरे॒वास॑ दे॒वो म॒न्युर्होता॒ वरु॑णो जा॒तवे॑दाः।  
-म॒न्युर्विश॑ ईडते॒ मानु॑षी॒र्याः पा॒हि नो॑ मन्यो॒ तप॑सा स॒जोषाः॑ ॥
+मन्यु᳓रि᳓न्द्रो मन्यु᳓रेवा᳓स देवो᳓ मन्यु᳓र्हो᳓ता व᳓रुणो जात᳓वेदाः।  
+मन्यु᳓र्वि᳓श ईडते मा᳓नुषीर्याः᳓ पाहि᳓ नो मन्यो त᳓पसा सजो᳓षाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/02_manyurindro_manyurevAsa.md">
@@ -181,8 +181,8 @@ Manyu was Indra, yea, the God was Manyu; Manyu was Hotar Varuna, Jatavedas. The 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/03_abhIhi_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भीहि॑ मन्यो त॒वस॒स्तवी॑या॒न्तप॑सा यु॒जा वि ज॑हि॒ शत्रू॑न्।  
-अ॑मित्र॒हा वृ॑त्र॒हा द॑स्यु॒हा च॒ विश्वा॒ वसू॒न्या भ॑रा॒ त्वं नः॑ ॥
+अभी᳓हि मन्यो तव᳓सस्त᳓वीयान्त᳓पसा युजा᳓ वि᳓ जहि श᳓त्रून्।  
+अ᳙मित्रहा᳓ वृत्रहा᳓ दस्युहा᳓ च वि᳓श्वा व᳓सून्या᳓ भरा त्वं᳓ नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/03_abhIhi_manyo.md">
@@ -247,8 +247,8 @@ Come hither, Manyu, mightier than the mighty: smite, with thy fervour, for ally,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/04_tvaM_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं हि म॑न्यो अ॒भिभू॑त्योजाः स्वयं॒भूर्भामो॑ अभिमातिषा॒हः।  
-वि॒श्वच॑र्षणिः॒ सहु॑रिः॒ सही॑यान॒स्मास्वोजः॒ पृत॑नासु धेहि ॥
+त्वं᳓ हि᳓ मन्यो अभि᳓भूत्योजाः स्वयंभू᳓र्भा᳓मो अभिमातिषाहः᳓।  
+विश्व᳓चर्षणिः स᳓हुरिः स᳓हीयानस्मा᳓स्वो᳓जः पृ᳓तनासु धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/04_tvaM_hi.md">
@@ -312,8 +312,8 @@ For thou art, Manyu, of surpassing vigour, fierce, queller of the foe, and self-
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/05_abhAgaH_sannapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑भा॒गः सन्नप॒ परे॑तो अस्मि॒ तव॒ क्रत्वा॑ तवि॒षस्य॑ प्रचेतः।  
-तं त्वा॑ मन्यो अक्र॒तुर्जि॑हीडा॒हं स्वा त॒नूर्ब॑ल॒दावा॑ न॒ एहि॑ ॥
+अ᳙भागः᳓ स᳓न्न᳓प प᳓रेतो अस्मि त᳓व क्र᳓त्वा तविष᳓स्य प्रचेतः।  
+तं᳓ त्वा मन्यो अक्रतु᳓र्जिहीडाहं᳓ स्वा᳓ तनू᳓र्बलदा᳓वा न ए᳓हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/05_abhAgaH_sannapa.md">
@@ -384,8 +384,8 @@ I have departed still without a portion, wise God! according to thy will, the mi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/06_ayaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं ते॑ अ॒स्म्युप॑ न॒ एह्य॒र्वाङ्प्र॑तीची॒नः स॑हुरे विश्वदावन्।  
-मन्यो॑ वज्रिन्न॒भि न॒ आ व॑वृत्स्व॒ हना॑व॒ दस्यूं॑रु॒त बो॑ध्या॒पेः ॥
+अयं᳓ ते अस्म्यु᳓प न ए᳓ह्यर्वा᳓ङ्प्रतीचीनः᳓ सहुरे विश्वदावन्।  
+म᳓न्यो वज्रिन्नभि᳓ न आ᳓ ववृत्स्व ह᳓नाव द᳓स्यूंरुत᳓ बोध्यापेः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/06_ayaM_te.md">
@@ -453,8 +453,8 @@ Come hither, I am all thine own: advancing, turn thou to me, victorious, all-bes
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/07_abhi_prehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि प्रेहि॑ दक्षिण॒तो भ॑वा॒ नोऽधा॑ वृ॒त्राणि॑ जङ्घनाव॒ भूरि॑।  
-जु॒होमि॑ ते ध॒रुणं॒ मध्वो॒ अग्र॑मु॒भावु॑पां॒शु प्र॑थ॒मा पि॑बाव ॥
+अभि᳓ प्रे᳓हि दक्षिणतो᳓ भवा नो᳓ऽधा वृत्रा᳓णि जङ्घनाव भू᳓रि।  
+जुहो᳓मि ते धरु᳓णं म᳓ध्वो अ᳓ग्रमुभा᳓वुपांशु᳓ प्रथमा᳓ पिबाव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/07_abhi_prehi.md">

@@ -37,8 +37,8 @@ A prayer for delivery from sin and sickness
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/042_pApamochanam/01_somArudrA_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमा॑रुद्रा॒ वि वृ॑हतं विषूची॒ममी॑वा॒ या नो॒ गय॑मावि॒वेश॑।  
-बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत् ॥
+सो᳓मारुद्रा वि᳓ वृहतं विषूचीम᳓मीवा या᳓ नो ग᳓यमाविवे᳓श।  
+बा᳓धेथां दूरं᳓ नि᳓रृतिं पराचैः᳓ कृतं᳓ चिदे᳓नः प्र᳓ मुमुक्तमस्म᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/042_pApamochanam/01_somArudrA_vi.md">
@@ -108,8 +108,8 @@ Scatter and drive away, Soma and Rudra, the sickness that hath come within our d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/042_pApamochanam/02_somArudrA_yuvametAnyasmadvishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमा॑रुद्रा यु॒वमे॒तान्य॒स्मद्विश्वा॑ त॒नूषु॑ भेष॒जानि॑ धत्तम्।  
-अव॑ स्यतं मु॒ञ्चतं॒ यन्नो॒ अस॑त्त॒नूषु॑ ब॒द्धं कृ॒तमेनो॑ अ॒स्मत् ॥
+सो᳓मारुद्रा युव᳓मेता᳓न्यस्म᳓द्वि᳓श्वा तनू᳓षु भेषजा᳓नि धत्तम्।  
+अ᳓व स्यतं मुञ्च᳓तं य᳓न्नो अ᳓सत्तनू᳓षु बद्धं᳓ कृत᳓मे᳓नो अस्म᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/042_pApamochanam/02_somArudrA_yuvametAnyasmadvishvA.md">

@@ -33,8 +33,8 @@ Translated: Ludwig, p. 498; Henry, 40, 115; Griffith, i. 378.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒र्याव॑र्ते दुः॒ष्वप्न्या॑त्पा॒पात्स्वप्न्या॒दभू॑त्याः।  
-ब्रह्मा॒हमन्त॑रं कृण्वे॒ परा॒ स्वप्न॑मुखाः॒ शुचः॑ ॥
+पर्या᳓वर्ते दुःष्व᳓प्न्यात्पापा᳓त्स्व᳓प्न्याद᳓भूत्याः।  
+ब्र᳓ह्माह᳓म᳓न्तरं कृण्वे प᳓रा स्व᳓प्नमुखाः शु᳓चः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">

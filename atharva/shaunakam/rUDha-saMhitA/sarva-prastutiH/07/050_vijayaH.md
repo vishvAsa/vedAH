@@ -33,8 +33,8 @@ A gambler's prayer for success in gaming
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/01_yathA_vRxam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ वृ॒क्षं अ॒शनि॑र्वि॒श्वाहा॒ हन्त्य॑प्र॒ति।  
-ए॒वाहम॒द्य कि॑त॒वान॒क्षैर्ब॑ध्यासमप्र॒ति ॥
+य᳓था वृक्षं᳓ अश᳓निर्विश्वा᳓हा ह᳓न्त्यप्रति᳓।  
+एवा᳓ह᳓मद्य᳓ कितवा᳓नक्षै᳓र्बध्यासमप्रति᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/050_vijayaH/01_yathA_vRxam.md">
@@ -97,8 +97,8 @@ As evermore the lightning flash strikes, irresistible, the tree, So, irresistibl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/02_turANAmaturANAM_vishAmavarjuShINAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तु॒राणा॒मतु॑राणां वि॒शामव॑र्जुषीणाम्।  
-स॒मैतु॑ वि॒श्वतो॒ भगो॑ अन्तर्ह॒स्तं कृ॒तं मम॑ ॥
+तुरा᳓णाम᳓तुराणां विशा᳓म᳓वर्जुषीणाम्।  
+समै᳓तु विश्व᳓तो भ᳓गो अन्तर्हस्तं᳓ कृतं᳓ म᳓म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/050_vijayaH/02_turANAmaturANAM_vishAmavarjuShINAm.md">
@@ -165,8 +165,8 @@ From every side, from hale and sick, impotent to defend them- selves, May all th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/03_IDe_agnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ईडे॑ अ॒ग्निं स्वाव॑सुं॒ नमो॑भिरि॒ह प्र॑स॒क्तो वि च॑यत्कृ॒तं नः॑।  
-रथै॑रिव॒ प्र भ॑रे वा॒जय॑द्भिः प्रदक्षि॒णं म॒रुतां॒ स्तोम॑मृध्याम् ॥
+ई᳓डे अग्निं᳓ स्वा᳓वसुं न᳓मोभिरिह᳓ प्रसक्तो᳓ वि᳓ चयत्कृतं᳓ नः।  
+र᳓थैरिव प्र᳓ भरे वाज᳓यद्भिः प्रदक्षिणं᳓ मरु᳓तां स्तो᳓ममृध्याम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/050_vijayaH/03_IDe_agnim.md">
@@ -238,8 +238,8 @@ I pray to Agni, him who guards his treasure: here, won by homage, may he pile ou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/04_vayaM_jayema.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व॒यं ज॑येम॒ त्वया॑ यु॒जा वृत॑म॒स्माक॒मंश॒मुद॑वा॒ भरे॑भरे।  
-अ॒स्मभ्य॑मिन्द्र॒ वरी॑यः सु॒गं कृ॑धि॒ प्र शत्रू॑णां मघव॒न्वृष्ण्या॑ रुज ॥
+वयं᳓ जयेम त्व᳓या युजा᳓ वृ᳓तमस्मा᳓कमं᳓शमु᳓दवा भ᳓रेभरे।  
+अस्म᳓भ्यमिन्द्र व᳓रीयः सुगं᳓ कृधि प्र᳓ श᳓त्रूणां मघवन्वृ᳓ष्ण्या रुज ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/050_vijayaH/04_vayaM_jayema.md">
@@ -304,8 +304,8 @@ With thee to aid us may we win the treasure: do thou assist our side in every ba
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/05_ajaiShaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अजै॑षं त्वा॒ संलि॑खित॒मजै॑षमु॒त सं॒रुध॑म्।  
-अविं॒ वृको॒ यथा॒ मथ॑दे॒वा म॑थ्नामि ते कृ॒तम् ॥
+अ᳓जैषं त्वा सं᳓लिखितम᳓जैषमुत᳓ संरु᳓धम्।  
+अ᳓विं वृ᳓को य᳓था म᳓थदेवा᳓ मथ्नामि ते कृत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/050_vijayaH/05_ajaiShaM_tvA.md">
@@ -377,8 +377,8 @@ I have completely cleaned thee out, won from thee what thou keptest back. As a w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/06_uta_prahAmatidIvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒त प्र॒हामति॑दीवा जयति कृ॒तमि॑व श्व॒घ्नी वि चि॑नोति का॒ले।  
-यो दे॒वका॑मो॒ न धनं॑ रु॒णद्धि॒ समित्तं रा॒यः सृ॑जति स्व॒धाभिः॑ ॥
+उत᳓ प्रहा᳓म᳓तिदीवा जयति कृत᳓मिव श्वघ्नी᳓ वि᳓ चिनोति काले᳓।  
+यो᳓ देव᳓कामो न᳓ ध᳓नं रुण᳓द्धि स᳓मि᳓त्तं᳓ रायः᳓ सृजति स्वधा᳓भिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/050_vijayaH/06_uta_prahAmatidIvA.md">
@@ -450,8 +450,8 @@ Yea, by superior play one gains advantage: in time he piles his spoil as doth a 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/07_gobhiShTaremAmatiM_durevAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गोभि॑ष्टरे॒माम॑तिं दु॒रेवां॒ यवे॑न वा॒ क्षुधं॑ पुरुहूत॒ विश्वे॑।  
-व॒यं राज॑सु प्रथ॒मा धना॒न्यरि॑ष्टासो वृज॒नीभि॑र्जयेम ॥
+गो᳓भिष्टरेमा᳓मतिं दुरे᳓वां य᳓वेन वा क्षु᳓धं पुरुहूत वि᳓श्वे।  
+वयं᳓ रा᳓जसु प्रथमा᳓ ध᳓नान्य᳓रिष्टासो वृजनी᳓भिर्जयेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/050_vijayaH/07_gobhiShTaremAmatiM_durevAm.md">
@@ -520,8 +520,8 @@ May we all, much-invoked! repel with cattle want that brings sin, hunger with st
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/08_kRtaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॒तं मे॒ दक्षि॑णे॒ हस्ते॑ ज॒यो मे॑ स॒व्य आहि॑तः।  
-गो॒जिद्भू॑यासमश्व॒जिद्ध॑नंज॒यो हि॑रण्य॒जित् ॥
+कृतं᳓ मे द᳓क्षिणे ह᳓स्ते जयो᳓ मे सव्य᳓ आ᳓हितः।  
+गोजि᳓द्भूयासमश्वजि᳓द्धनंजयो᳓ हिरण्यजि᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/050_vijayaH/08_kRtaM_me.md">
@@ -583,8 +583,8 @@ My right hand holds my winnings fast, and in my left is victory. I would that I 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/050_vijayaH/09_axAH_phalavatIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अक्षाः॒ फल॑वतीं॒ द्युवं॑ द॒त्त गां क्षी॒रिणी॑मिव।  
-सं मा॑ कृ॒तस्य॒ धार॑या॒ धनुः॒ स्नाव्ने॑व नह्यत ॥
+अ᳓क्षाः फ᳓लवतीं द्यु᳓वं दत्त᳓ गां᳓ क्षीरि᳓णीमिव।  
+सं᳓ मा कृत᳓स्य धा᳓रया ध᳓नुः स्ना᳓व्नेव नह्यत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/050_vijayaH/09_axAH_phalavatIm.md">

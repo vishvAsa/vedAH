@@ -29,8 +29,8 @@ The whole hymn is found in TB. (in ii. 4. 48-9), with mā for nas in c as the on
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/01_yaddevA_devaheDanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्दे॑वा देव॒हेड॑नं॒ देवा॑सश्चकृमा व॒यम्।  
-आदि॑त्या॒स्तस्मा॑न्नो यू॒यमृ॒तस्य॒र्तेन॑ मुञ्चत ॥
+य᳓द्देवा देवहे᳓डनं दे᳓वासश्चकृमा वय᳓म्।  
+आ᳓दित्यास्त᳓स्मान्नो यूय᳓मृत᳓स्यर्ते᳓न मुञ्चत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/01_yaddevA_devaheDanam.md">
@@ -105,8 +105,8 @@ Whatever God-provoking wrong we priests have done, O Deities. Therefrom do ye de
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तस्य॒र्तेना॑दित्या॒ यज॑त्रा मु॒ञ्चते॒ह नः॑।  
-य॒ज्ञं यद्य॑ज्ञवाहसः शिक्षन्तो॒ नोप॑शेकि॒म ॥
+ऋत᳓स्यर्ते᳓नादित्या य᳓जत्रा मुञ्च᳓तेह᳓ नः।  
+यज्ञं᳓ य᳓द्यज्ञवाहसः शिक्षन्तो नो᳓पशेकिम᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
@@ -176,8 +176,8 @@ Here set us free, O holy ones, Adityas, by the right of Law. When striving, brin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/03_medasvatA_yajamAnAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मेद॑स्वता॒ यज॑मानाः स्रु॒चाज्या॑नि॒ जुह्व॑तः।  
-अ॑का॒मा वि॑श्वे वो देवाः॒ शिक्ष॑न्तो॒ नोप॑ शेकिम ॥
+मे᳓दस्वता य᳓जमानाः स्रुचा᳓ज्यानि जु᳓ह्वतः।  
+अ᳙कामा᳓ विश्वे वो देवाः शि᳓क्षन्तो नो᳓प शेकिम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/03_medasvatA_yajamAnAH.md">

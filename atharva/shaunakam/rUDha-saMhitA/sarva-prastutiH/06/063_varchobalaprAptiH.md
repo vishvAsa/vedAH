@@ -37,8 +37,8 @@ The symbolical liberation of a sacrificial victim
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/01_yatte_devI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्ते॑ दे॒वी निरृ॑तिराब॒बन्ध॒ दाम॑ ग्री॒वास्व॑विमो॒क्यं यत्।  
-तत्ते॒ वि ष्या॒म्यायु॑षे॒ वर्च॑से॒ बला॑यादोम॒दमन्न॑मद्धि॒ प्रसू॑तः ॥
+य᳓त्ते देवी᳓ नि᳓रृतिराबब᳓न्ध दा᳓म ग्रीवा᳓स्वविमोक्यं᳓ य᳓त्।  
+त᳓त्ते वि᳓ ष्याम्या᳓युषे व᳓र्चसे ब᳓लायादोमद᳓म᳓न्नमद्धि प्र᳓सूतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/063_varchobalaprAptiH/01_yatte_devI.md">
@@ -114,8 +114,8 @@ That collar round thy neck, not to be loosened, which Nirriti the Goddess bound 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/02_namo-stu_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नमो॑ऽस्तु ते निरृते तिग्मतेजोऽय॒स्मया॒न्वि चृ॑ता बन्धपा॒शान्।  
-य॒मो मह्यं॒ पुन॒रित्त्वां द॑दाति॒ तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥
+न᳓मोऽस्तु ते निरृते तिग्मतेजोऽयस्म᳓यान्वि᳓ चृता बन्धपाशा᳓न्।  
+यमो᳓ म᳓ह्यं पु᳓नरि᳓त्त्वां᳓ ददाति त᳓स्मै यमा᳓य न᳓मो अस्तु मृत्य᳓वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/063_varchobalaprAptiH/02_namo-stu_te.md">
@@ -184,8 +184,8 @@ To thee, sharp-pointed Nirriti, be homage! Loose thou the binding fetters wrough
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/03_ayasmaye_drupade.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑य॒स्मये॑ द्रुप॒दे बे॑धिष इ॒हाभिहि॑तो मृ॒त्युभि॒र्ये स॒हस्र॑म्।  
-य॒मेन॒ त्वं पि॒तृभिः॑ संविदा॒न उ॑त्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
+अ᳙यस्म᳓ये द्रुपदे᳓ बेधिष इहा᳓भि᳓हितो मृत्यु᳓भिर्ये᳓ सह᳓स्रम्।  
+यमे᳓न त्वं᳓ पितृ᳓भिः संविदान᳓ उत्तमं᳓ ना᳓कम᳓धि रोहयेम᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/063_varchobalaprAptiH/03_ayasmaye_drupade.md">
@@ -255,8 +255,8 @@ Compassed by death which comes in thousand manners, here art thou fastened to th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/04_saMsamidyuvase_vRShannagne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-संस॒मिद्यु॑वसे वृष॒न्नग्ने॒ विश्वा॑न्य॒र्य आ।  
-इ॒डस्प॒दे समि॑ध्यसे॒ स नो॒ वसू॒न्या भ॑र ॥
+सं᳓समि᳓द्युवसे वृषन्न᳓ग्ने वि᳓श्वान्यर्य᳓ आ᳓।  
+इड᳓स्पदे᳓ स᳓मिध्यसे स᳓ नो व᳓सून्या᳓ भर ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/063_varchobalaprAptiH/04_saMsamidyuvase_vRShannagne.md">

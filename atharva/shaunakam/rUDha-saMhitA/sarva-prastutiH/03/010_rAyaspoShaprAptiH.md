@@ -38,8 +38,8 @@ A new year prayer
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/01_prathamA_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॑थ॒मा ह॒ व्यु॑वास॒ सा धे॒नुर॑भवद्य॒मे।  
-सा नः॒ पय॑स्वती दुहा॒मुत्त॑रामुत्तरां॒ समा॑म् ॥
+प्र᳙थमा᳓ ह व्यु᳙वास सा᳓ धेनु᳓रभवद्यमे᳓।  
+सा᳓ नः प᳓यस्वती दुहामु᳓त्तरामुत्तरां स᳓माम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/01_prathamA_ha.md">
@@ -110,8 +110,8 @@ The First hath dawned. With Yama may it be a cow to pour forth milk. May she be 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/02_yAM_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां दे॒वाः प्र॑ति॒नन्द॑न्ति॒ रात्रिं॑ धे॒नुमु॑पाय॒तीम्।  
-सं॑वत्स॒रस्य॒ या पत्नी॒ सा नो॑ अस्तु सुमङ्ग॒ली ॥
+यां᳓ देवाः᳓ प्रतिन᳓न्दन्ति रा᳓त्रिं धेनु᳓मुपायती᳓म्।  
+सं᳙वत्सर᳓स्य या᳓ प᳓त्नी सा᳓ नो अस्तु सुमङ्गली᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/02_yAM_devAH.md">
@@ -178,8 +178,8 @@ May she whom Gods accept with joy, Night who approacheth. as a cow, She who is C
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/03_saMvatsarasya_pratimAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं॑वत्स॒रस्य॑ प्रति॒मां यां त्वा॑ रात्र्यु॒पास्म॑हे।  
-सा न॒ आयु॑ष्मतीं प्र॒जां रा॒यस्पोषे॑ण॒ सं सृ॑ज ॥
+सं᳙वत्सर᳓स्य प्रतिमां᳓ यां᳓ त्वा रात्र्युपा᳓स्महे।  
+सा᳓ न आ᳓युष्मतीं प्रजां᳓ राय᳓स्पो᳓षेण सं᳓ सृज ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/03_saMvatsarasya_pratimAm.md">
@@ -247,8 +247,8 @@ Thou whom with reverence we approach, O Night, as model of the Year, Vouchsafe. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/04_iyameva_sA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒यमे॒व सा या प्र॑थ॒मा व्यौच्छ॑दा॒स्वित॑रासु चरति॒ प्रवि॑ष्टा।  
-म॒हान्तो॑ अस्यां महि॒मानो॑ अ॒न्तर्व॒धूर्जि॑गाय नव॒गज्जनि॑त्री ॥
+इय᳓मेव᳓ सा᳓ या᳓ प्रथमा᳓ व्यौ᳓च्छदास्वि᳓तरासु चरति प्र᳓विष्टा।  
+महा᳓न्तो अस्यां महिमा᳓नो अन्त᳓र्वधू᳓र्जिगाय नवग᳓ज्ज᳓नित्री ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/04_iyameva_sA.md">
@@ -331,8 +331,8 @@ This same is she whose light first dawned upon us: she moves established in the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/05_vAnaspatyA_grAvANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॑नस्प॒त्या ग्रावा॑णो॒ घोष॑मक्रत ह॒विष्कृ॒ण्वन्तः॑ परिवत्स॒रीण॑म्।  
-एका॑ष्टके सुप्र॒जसः॑ सु॒वीरा॑ व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+वा᳙नस्पत्या᳓ ग्रा᳓वाणो घो᳓षमक्रत हवि᳓ष्कृण्व᳓न्तः परिवत्सरी᳓णम्।  
+ए᳓काष्टके सुप्रज᳓सः सुवी᳓रा वयं᳓ स्याम प᳓तयो रयीणा᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/05_vAnaspatyA_grAvANo.md">
@@ -411,8 +411,8 @@ Loud was the wooden pass-gear's ring and rattle, as it made annual oblation read
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/06_iDAyAspadaM_ghRtavatsarIsRpam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इडा॑यास्प॒दं घृ॒तव॑त्सरीसृ॒पं जात॑वेदः॒ प्रति॑ ह॒व्या गृ॑भाय।  
-ये ग्रा॒म्याः प॒शवो॑ वि॒श्वरू॑पा॒स्तेषां॑ सप्ता॒नां मयि॒ रन्ति॑रस्तु ॥
+इ᳓डायास्पदं᳓ घृत᳓वत्सरीसृपं᳓ जा᳓तवेदः प्र᳓ति हव्या᳓ गृभाय।  
+ये᳓ ग्राम्याः᳓ पश᳓वो विश्व᳓रूपास्ते᳓षां सप्तानां᳓ म᳓यि र᳓न्तिरस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/06_iDAyAspadaM_ghRtavatsarIsRpam.md">
@@ -488,9 +488,9 @@ The shrine of Ila flows with oil and fatness: accept, O Jatavedas, our oblations
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/07_A_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ मा॑ पु॒ष्टे च॒ पोषे॑ च॒ रात्रि॑ दे॒वानां॑ सुम॒तौ स्या॑म।  
-पू॒र्णा द॑र्वे॒ परा॑ पत॒ सुपू॑र्णा॒ पुन॒रा प॑त।  
-सर्वा॑न्य॒ज्ञान्त्सं॑भुञ्ज॒तीष॒मूर्जं॑ न॒ आ भ॑र ॥
+आ᳓ मा पुष्टे᳓ च पो᳓षे च रा᳓त्रि देवा᳓नां सुमतौ᳓ स्याम।  
+पूर्णा᳓ दर्वे प᳓रा पत सु᳓पूर्णा पु᳓नरा᳓ पत।  
+स᳓र्वान्यज्ञा᳓न्त्संभुञ्जती᳓षमू᳓र्जं न आ᳓ भर ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/07_A_mA.md">
@@ -577,8 +577,8 @@ Come thou to nourish me and make me prosper. Night! may the favour of the Gods a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/08_AyamagantsaMvatsaraH_patirekAShTake.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयम॑गन्त्संवत्स॒रः पति॑रेकाष्टके॒ तव॑।  
-सा न॒ आयु॑ष्मतीं प्र॒जां रा॒यस्पोषे॑ण॒ सं सृ॑ज ॥
+आ᳓य᳓मगन्त्संवत्सरः᳓ प᳓तिरेकाष्टके त᳓व।  
+सा᳓ न आ᳓युष्मतीं प्रजां᳓ राय᳓स्पो᳓षेण सं᳓ सृज ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/08_AyamagantsaMvatsaraH_patirekAShTake.md">
@@ -642,8 +642,8 @@ This Year hath come to us, thy lord and consort, O Ekashtaka. Vouchsafe us child
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/09_RtUnyaja_RtupatInArtavAnuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तून्य॑ज ऋतु॒पती॑नार्त॒वानु॒त हा॑य॒नान्।  
-समाः॑ संवत्स॒रान्मासा॑न्भू॒तस्य॒ पत॑ये यजे ॥
+ऋतू᳓न्यज ऋतुप᳓तीनार्तवा᳓नुत᳓ हायना᳓न्।  
+स᳓माः संवत्सरा᳓न्मा᳓सान्भूत᳓स्य प᳓तये यजे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/09_RtUnyaja_RtupatInArtavAnuta.md">
@@ -712,8 +712,8 @@ The Seasons, and the Seasons' Lords I worship, annual parts and groups. Half yea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/10_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तुभ्य॑ष्ट्वार्त॒वेभ्यो॑ मा॒द्भ्यः सं॑वत्स॒रेभ्यः॑।  
-धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥
+ऋतु᳓भ्यष्ट्वार्तवे᳓भ्यो माद्भ्यः᳓ संवत्सरे᳓भ्यः।  
+धात्रे᳓ विधात्रे᳓ समृ᳓धे भूत᳓स्य प᳓तये यजे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/10_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
@@ -785,8 +785,8 @@ I offer to the Seasons, to their several groups, to Months, to Years. Dhatar, Vi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/11_iDayA_juhvato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इड॑या॒ जुह्व॑तो व॒यं दे॒वान्घृ॒तव॑ता यजे।  
-गृ॒हानलु॑भ्यतो व॒यं सं॑ विशे॒मोप॒ गोम॑तः ॥
+इ᳓डया जु᳓ह्वतो वयं᳓ देवा᳓न्घृत᳓वता यजे।  
+गृहा᳓न᳓लुभ्यतो वयं᳓ सं विशेमो᳓प गो᳓मतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/11_iDayA_juhvato.md">
@@ -854,8 +854,8 @@ With fatness and libation we sacrifice and adore the Gods. Wealthy in kine may w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/12_ekAShTakA_tapasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॑काष्ट॒का तप॑सा त॒प्यमा॑ना ज॒जान॒ गर्भं॑ महि॒मान॒मिन्द्र॑म्।  
-तेन॑ दे॒वा व्य॑षहन्त॒ शत्रू॑न्ह॒न्ता दस्यू॑नामभव॒च्छची॒पतिः॑ ॥
+ए᳙काष्टका᳓ त᳓पसा तप्य᳓माना जजा᳓न ग᳓र्भं महिमा᳓नमि᳓न्द्रम्।  
+ते᳓न देवा᳓ व्यषहन्त श᳓त्रून्हन्ता᳓ द᳓स्यूनामभवच्छ᳓चीप᳓तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/12_ekAShTakA_tapasA.md">
@@ -931,8 +931,8 @@ Ekashtaka, burning with zealous fervour, brought forth her babe the great and gl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/13_indraputre_somaputre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑पुत्रे॒ सोम॑पुत्रे दुहि॒तासि॑ प्र॒जाप॑तेः।  
-कामा॑न॒स्माकं॑ पूरय॒ प्रति॑ गृह्णाहि नो ह॒विः ॥
+इ᳓न्द्रपुत्रे सो᳓मपुत्रे दुहिता᳓सि प्रजा᳓पतेः।  
+का᳓मानस्मा᳓कं पूरय प्र᳓ति गृह्णाहि नो हविः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/13_indraputre_somaputre.md">

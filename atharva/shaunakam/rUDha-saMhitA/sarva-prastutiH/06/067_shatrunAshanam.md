@@ -37,8 +37,8 @@ A charm for the destruction and plunder of enemies
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/01_pari_vartmAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॒ वर्त्मा॑नि स॒र्वत॒ इन्द्रः॑ पू॒षा च॑ सस्रतुः।  
-मुह्य॑न्त्व॒द्यामूः सेना॑ अमित्राणां परस्त॒राम् ॥
+प᳓रि व᳓र्त्मानि सर्व᳓त इ᳓न्द्रः पूषा᳓ च सस्रतुः।  
+मु᳓ह्यन्त्वद्या᳓मूः᳓ से᳓ना अमित्राणां परस्तरा᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/01_pari_vartmAni.md">
@@ -100,8 +100,8 @@ Indra and Pushan have gone forth along the ways on every side. To-day those host
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मू॒ढा अ॒मित्रा॑श्चरताशी॒र्षाण॑ इ॒वाह॑यः।  
-तेषां॑ वो अ॒ग्निमू॑ढाना॒मिन्द्रो॑ हन्तु॒ वरं॑वरम् ॥
+मूढा᳓ अमि᳓त्राश्चरताशीर्षा᳓ण इवा᳓हयः।  
+ते᳓षां वो अग्नि᳓मूढानामि᳓न्द्रो हन्तु व᳓रंवरम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
@@ -171,8 +171,8 @@ Ye foes, come hitherward dismayed like serpents when their heads are gone. Let I
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/03_aiShu_nahya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऐषु॑ नह्य॒ वृषा॒जिनं॑ हरि॒णस्या॒ भियं॑ कृधि।  
-परा॑ङ॒मित्र॒ एष॑त्व॒र्वाची॒ गौरुपे॑षतु ॥
+ऐ᳓षु नह्य वृ᳓षाजि᳓नं हरिण᳓स्या भि᳓यं कृधि।  
+प᳓राङमि᳓त्र ए᳓षत्वर्वा᳓ची गौ᳓रु᳓पेषतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/03_aiShu_nahya.md">

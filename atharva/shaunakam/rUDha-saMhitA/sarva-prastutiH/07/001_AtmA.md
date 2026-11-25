@@ -37,8 +37,8 @@ Glorification of the power of prayer and to Agni
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/001_AtmA/01_dhItI_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धी॒ती वा॒ ये अन॑यन्वा॒चो अग्रं॒ मन॑सा वा॒ येऽव॑दन्नृ॒तानि॑।  
-तृ॒तीये॑न॒ ब्रह्म॑णा वावृधा॒नास्तु॒रीये॑णामन्वत॒ नाम॑ धे॒नोः ॥
+धीती᳓ वा ये᳓ अ᳓नयन्वाचो᳓ अ᳓ग्रं म᳓नसा वा ये᳓ऽवदन्नृता᳓नि।  
+तृती᳓येन ब्र᳓ह्मणा वावृधाना᳓स्तुरी᳓येणामन्वत ना᳓म धेनोः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/001_AtmA/01_dhItI_vA.md">
@@ -111,8 +111,8 @@ They who by thought have guided all that Speech hath best, or they who with thei
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/001_AtmA/02_sa_veda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वे॑द पु॒त्रः पि॒तरं॒ स मा॒तरं॒ स सू॒नुर्भु॑व॒त्स भु॑व॒त्पुन॑र्मघः।  
-स द्यामौ॑र्णोद॒न्तरि॑क्षं॒ स्वः१॒॑ स इ॒दं विश्व॑मभव॒त्स आभ॑वत् ॥
+स᳓ वेद पुत्रः᳓ पित᳓रं स᳓ मात᳓रं स᳓ सूनु᳓र्भुवत्स᳓ भुवत्पु᳓नर्मघः।  
+स᳓ द्या᳓मौर्णोदन्त᳓रिक्षं स्वः᳙ स᳓ इदं᳓ वि᳓श्वमभवत्स᳓ आ᳓भवत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/001_AtmA/02_sa_veda.md">

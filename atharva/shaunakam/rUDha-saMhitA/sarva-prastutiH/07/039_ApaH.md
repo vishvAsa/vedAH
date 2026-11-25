@@ -37,8 +37,8 @@ A sacrificial charm for rain and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/039_ApaH/01_divyaM_suparNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒व्यं सु॑प॒र्णं प॑य॒सं बृ॒हन्त॑म॒पां गर्भं॑ वृष॒भमोष॑धीनाम्।  
-अ॑भीप॒तो वृ॒ष्ट्या त॒र्पय॑न्त॒मा नो॑ गो॒ष्ठे र॑यि॒ष्ठां स्था॑पयाति ॥
+दिव्यं᳓ सुपर्णं᳓ पयसं᳓ बृह᳓न्तमपां᳓ ग᳓र्भं वृषभ᳓मो᳓षधीनाम्।  
+अ᳙भीपतो᳓ वृष्ट्या᳓ तर्प᳓यन्तमा᳓ नो गोष्ठे᳓ रयिष्ठां᳓ स्थापयाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/039_ApaH/01_divyaM_suparNam.md">

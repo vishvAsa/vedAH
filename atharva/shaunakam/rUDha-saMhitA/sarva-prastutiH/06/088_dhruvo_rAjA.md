@@ -37,8 +37,8 @@ A benediction addressed to a newly elected King
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/01_dhruvA_dyaurdhruvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ध्रु॒वा द्यौर्ध्रु॒वा पृ॑थि॒वी ध्रु॒वं विश्व॑मि॒दं जग॑त्।  
-ध्रु॒वासः॒ पर्व॑ता इ॒मे ध्रु॒वो राजा॑ वि॒शाम॒यम् ॥
+ध्रुवा᳓ द्यौ᳓र्ध्रुवा᳓ पृथिवी᳓ ध्रुवं᳓ वि᳓श्वमिदं᳓ ज᳓गत्।  
+ध्रुवा᳓सः प᳓र्वता इमे᳓ ध्रुवो᳓ रा᳓जा विशा᳓मय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/088_dhruvo_rAjA/01_dhruvA_dyaurdhruvA.md">
@@ -102,8 +102,8 @@ Firm is the sky, firm is the earth, and firm is all this living world; Firm are 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/02_dhruvaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ध्रु॒वं ते॒ राजा॒ वरु॑णो ध्रु॒वम्दे॒वो बृह॒स्पतिः॑।  
-ध्रु॒वं त॒ इन्द्र॒श्चाग्निश्च॑ रा॒ष्ट्रं धा॑रयतां ध्रु॒वम् ॥
+ध्रुवं᳓ ते रा᳓जा व᳓रुणो ध्रुव᳓म्देवो᳓ बृ᳓हस्प᳓तिः।  
+ध्रुवं᳓ त इ᳓न्द्रश्चा᳓ग्नि᳓श्च राष्ट्रं᳓ धारयतां ध्रुव᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/088_dhruvo_rAjA/02_dhruvaM_te.md">
@@ -164,8 +164,8 @@ Stedfast may Varuna the King, stedfast the God Brihaspati, Stedfast may Indra st
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/03_dhruvo-chyutaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ध्रु॒वोऽच्यु॑तः॒ प्र मृ॑णीहि॒ शत्रू॑न्छत्रूय॒तोऽध॑रान्पादयस्व।  
-सर्वा॒ दिशः॒ संम॑नसः स॒ध्रीची॑र्ध्रु॒वाय॑ ते॒ समि॑तिः कल्पतामि॒ह ॥
+ध्रुवो᳓ऽच्युतः प्र᳓ मृणीहि श᳓त्रून्छत्रूयतो᳓ऽधरान्पादयस्व।  
+स᳓र्वा दि᳓शः सं᳓मनसः सध्री᳓चीर्ध्रुवा᳓य ते स᳓मितिः कल्पतामिह᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/088_dhruvo_rAjA/03_dhruvo-chyutaH_pra.md">

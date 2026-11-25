@@ -12,21 +12,26 @@ unicode_script = "devanagari"
 ## ऋचां विश्वासप्रस्तुतौ 
 - काश्चन ऋचो ऽनेकासु संहितासु वर्तन्ते। तथा सति, एजत्रैव तत्प्रस्तुतिस् स्याल् लिखिता। अन्यत्र तावत् पुनरुपयोग एव include-द्वारा।
   - प्रस्तुतेर् मूलपाठ-स्थान-चिताव् अयं क्रमो ऽनुसरणीयः- शकलसंहिता >  कौथुमसंहिता  > शौनकरूढसंहिता > एकाग्निकाण्डम्।
-- उदाहरणार्थम्, anRxarA_RjavaH इति ऋक्।
-  - एकाग्निकाण्डे yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/02_anRxarA_Rjavassantu.md इत्यत्र,  Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md इत्यत्रापि च वर्तते। 
-  - तत्रैव +ऋक्संहितायाम् प्रस्तोतव्या विश्वासलेखा। 
-  - तत्र स्थापयित्व एकाग्निकाण्डे एवं लिखेत् 
-  ```
-  <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md">
-<details open><summary><h2>२३ अनृक्षरा ऋजवः ...{Loading}...</h2></summary>
+- उदाहरणार्थम्, `anRxarA_RjavaH` इति ऋक्।
+  - एकाग्निकाण्डे सा `sarva-prastutiH/1_01b.md` सूत्रपाठादिषु च प्रयुक्ता; `vedAH_Rk` कोषे `shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md` इत्यत्र च वर्तते। 
+  - तत्रैव ऋक्संहितायाम् प्रस्तोतव्या विश्वासलेखा, हरदत्तटीकादिकम् अपि `shAkalam/saMhitA/sarvASh_TIkAH/...` इत्यत्रैव संमेलनीयम्; एकाग्निकाण्डे पृथक् `vishvAsa-prastutiH`/`sarvASh_TIkAH`-सञ्चिकाद्वयं न स्थापनीयम्। 
+  - तत्र स्थापयित्वा एकाग्निकाण्डपृष्ठेषु (यथा `sarva-prastutiH/1_01b.md` इत्यत्र) साक्षाद् एवं लिखेत् - 
+  ```html
+  <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md">
+<details open><summary><h2>०२ अनृक्षरा ऋजवस्सन्तु ...{Loading}...</h2></summary>
 
-अ॒नृ॒क्ष॒रा+++(=कंटकशर्करादिरहिताः)+++ ऋ॒जव॑स् सन्तु॒ पन्था॒  
-येभि॒स् सखा॑यो॒ यन्ति॑ नो वरे॒यम्+++(=वरणीयं [कन्यायाः पित्रादिकं प्रति])+++ ।  
-सम् अ॑र्य॒मा सं भगो॑ नो+++(=आवाम्, अस्मदो द्वयोश्च इति बहुवचनम्)+++ निनीया॒त्  
-सञ् जा॑स्प॒त्यँ+++(=जायापतिभावः)+++ सु॒यम॑म् अस्तु देवाः ।+++(र५)+++  
+अनृक्षरा᳓+++(=कंटकशर्करादिरहिताः)+++ ऋज᳓वस् सन्तु प᳓न्था  
+ये᳓भिस् स᳓खायो य᳓न्ति नो वरेय᳓म्+++(=वरणीयं [कन्यायाः पित्रादिकं प्रति])+++ ।  
+स᳓म् अर्यमा᳓ सं᳓ भ᳓गो नो+++(=आवाम्, अस्मदो द्वयोश्च इति बहुवचनम्)+++ निनीयात्  
+स᳓ञ् जास्पत्यँ᳓+++(=जायापतिभावः)+++ सुय᳓मम् अस्तु देवाः ।+++(र५)+++
 
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/085/23_anRxarA_RjavaH.md">
+<details><summary><h3>०२ अनृक्षरा ऋजवस्सन्तु ...{Loading}...</h3></summary>
+...
+</details>
+</div>
   ```
-  (आदौ /vedAH/ इति योजितम् अवधेयम्)।
+  (आदौ `/vedAH_Rk/` इति योजितम् अवधेयम्)।
 - एवम् प्रत्येकस्या ऋचो योजनात् पूर्वं संहितान्तरे विश्वासप्रस्तुतिर् इति पथि वर्तते वेति परीक्षणीयम्। Atom इत्यस्मिन् Ctrl+Shift+N इति नुदित्वा ऽञ्च्लाक्षरैर् आदिमाक्षरेषु टङ्कितेषु ("anRx" इति यथा ऽत्र) टङ्किते सरलं ज्ञायते ।

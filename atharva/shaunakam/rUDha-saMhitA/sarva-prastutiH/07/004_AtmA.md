@@ -38,8 +38,8 @@ To Vāyu God of the Wind
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/004_AtmA/01_ekayA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एक॑या च द॒शभि॑श्च सुहुते॒ द्वाभ्या॑मि॒ष्टये॑ विंश॒त्या च॑।  
-ति॒सृभि॑श्च॒ वह॑से त्रिं॒शता॑ च वि॒युग्भि॑र्वाय इ॒ह ता वि मु॑ञ्च ॥
+ए᳓कया च दश᳓भिश्च सुहुते द्वा᳓भ्यामिष्ट᳓ये विंशत्या᳓ च।  
+तिसृ᳓भिश्च व᳓हसे त्रिंश᳓ता च वियु᳓ग्भिर्वाय इह᳓ ता᳓ वि᳓ मुञ्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/004_AtmA/01_ekayA_cha.md">

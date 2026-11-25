@@ -34,8 +34,8 @@ A prayer for vengeance on a malicious rival worshipper
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/01_dyAvApRthivI_urva1ntarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्यावा॑पृथि॒वी उ॒र्व॑१न्तरि॑क्षं॒ क्षेत्र॑स्य॒ पत्न्यु॑रुगा॒योऽद्भु॑तः।  
-उ॑ता॒न्तरि॑क्षमु॒रु वात॑गोपं॒ त इ॒ह त॑प्यन्तां॒ मयि॑ त॒प्यमा॑ने ॥
+द्या᳓वापृथिवी᳓ उर्व᳙न्त᳓रिक्षं क्षे᳓त्रस्य प᳓त्न्युरुगायो᳓ऽद्भुतः।  
+उ᳙तान्त᳓रिक्षमुरु᳓ वा᳓तगोपं त᳓ इह᳓ तप्यन्तां म᳓यि तप्य᳓माने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/01_dyAvApRthivI_urva1ntarixam.md">
@@ -108,8 +108,8 @@ The spacious Firmament, and Earth and Heaven, the Field's Queen, and the wonderf
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/02_idaM_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं दे॑वाः शृणुत॒ ये य॒ज्ञिया॒ स्थ भ॒रद्वा॑जो॒ मह्य॑मु॒क्थानि॑ शंसति।  
-पाशे॒ स ब॒द्धो दु॑रि॒ते नि यु॑ज्यतां॒ यो अ॒स्माकं॒ मन॑ इ॒दं हि॒नस्ति॑ ॥
+इदं᳓ देवाः शृणुत ये᳓ यज्ञि᳓या स्थ᳓ भर᳓द्वाजो म᳓ह्यमुक्था᳓नि शंसति।  
+पा᳓शे स᳓ बद्धो᳓ दुरिते᳓ नि᳓ युज्यतां यो᳓ अस्मा᳓कं म᳓न इदं᳓ हिन᳓स्ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/02_idaM_devAH.md">
@@ -178,8 +178,8 @@ Listen to this, ye Gods who merit worship. Hymns here are sung for me by Bharadv
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/03_idamindra_shRNuhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दमि॑न्द्र शृणुहि सोमप॒ यत्त्वा॑ हृ॒दा शोच॑ता॒ जोह॑वीमि।  
-वृ॒श्चामि॒ तं कुलि॑शेनेव वृ॒क्षं यो अ॒स्माकं॒ मन॑ इ॒दं हि॒नस्ति॑ ॥
+इद᳓मिन्द्र शृणुहि सोमप य᳓त्त्वा हृदा᳓ शो᳓चता जो᳓हवीमि।  
+वृश्चा᳓मि तं᳓ कु᳓लिशेनेव वृक्षं᳓ यो᳓ अस्मा᳓कं म᳓न इदं᳓ हिन᳓स्ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/03_idamindra_shRNuhi.md">
@@ -244,8 +244,8 @@ Hear this my call, O Indra, Soma-drinker, as with a burning heart I oft invoke t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/04_ashItibhistisRbhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑शी॒तिभि॑स्ति॒सृभिः॑ साम॒गेभि॑रादि॒त्येभि॒र्वसु॑भि॒रङ्गि॑रोभिः।  
-इ॑ष्टापू॒र्तम॑वतु नः पितॄ॒णामामुं द॑दे॒ हर॑सा॒ दैव्ये॑न ॥
+अ᳙शीति᳓भिस्तिसृ᳓भिः सामगे᳓भिरादित्ये᳓भिर्व᳓सुभिर᳓ङ्गिरोभिः।  
+इ᳙ष्टापूर्त᳓मवतु नः पितॄणा᳓मा᳓मुं᳓ ददे ह᳓रसा दै᳓व्येन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/04_ashItibhistisRbhiH.md">
@@ -313,8 +313,8 @@ Together with thrice-eighty Sama-singers, Angirases, and Vasus, and Adityas, May
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/05_dyAvApRthivI_anu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्यावा॑पृथिवी॒ अनु॒ मा दी॑धीथां॒ विश्वे॑ देवासो॒ अनु॒ मा र॑भध्वम्।  
-अङ्गि॑रसः॒ पित॑रः॒ सोम्या॑सः पा॒पमार्छ॑त्वपका॒मस्य॑ क॒र्ता ॥
+द्या᳓वापृथिवी अ᳓नु मा᳓ दीधीथां वि᳓श्वे देवासो अ᳓नु मा᳓ रभध्वम्।  
+अ᳓ङ्गिरसः पि᳓तरः सो᳓म्यासः पाप᳓मा᳓र्छत्वपकाम᳓स्य कर्ता᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/05_dyAvApRthivI_anu.md">
@@ -380,8 +380,8 @@ O Heaven and Earth, regard me with your favour, and, all ye Gods, stand on my si
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/06_atIva_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अती॑व॒ यो म॑रुतो॒ मन्य॑ते नो॒ ब्रह्म॑ वा॒ यो निन्दि॑षत्क्रि॒यमा॑णम्।  
-तपूं॑षि॒ तस्मै॑ वृजि॒नानि॑ सन्तु ब्रह्म॒द्विषं॒ द्यौर॑भि॒संत॑पाति ॥
+अ᳓तीव यो᳓ मरुतो म᳓न्यते नो ब्र᳓ह्म वा यो᳓ नि᳓न्दिषत्क्रिय᳓माणम्।  
+त᳓पूंषि त᳓स्मै वृजिना᳓नि सन्तु ब्रह्मद्वि᳓षं द्यौ᳓रभिसं᳓तपाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/06_atIva_yo.md">
@@ -448,8 +448,8 @@ Whoever either scorns us, O ye Maruts, or blames devotion which we now are payin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/07_sapta_prANAnaShTau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प्त प्रा॒णान॒ष्टौ म॒न्यस्तांस्ते॑ वृश्चामि॒ ब्रह्म॑णा।  
-अया॑ य॒मस्य॒ साद॑नम॒ग्निदू॑तो॒ अरं॑कृतः ॥
+सप्त᳓ प्राणा᳓नष्टौ᳓ मन्य᳓स्तां᳓स्ते वृश्चामि ब्र᳓ह्मणा।  
+अ᳓या यम᳓स्य सा᳓दनमग्नि᳓दूतो अ᳓रंकृतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/07_sapta_prANAnaShTau.md">
@@ -525,8 +525,8 @@ Thy sevenfold vital breath, thine eight marrows I rend away with prayer. With Ag
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/08_A_dadhAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ द॑धामि ते प॒दं समि॑द्धे जा॒तवे॑दसि।  
-अ॒ग्निः शरी॑रं वेवे॒ष्ट्वसुं॒ वागपि॑ गच्छतु ॥
+आ᳓ दधामि ते पदं᳓ स᳓मिद्धे जात᳓वेदसि।  
+अग्निः᳓ श᳓रीरं वेवेष्ट्व᳓सुं वा᳓ग᳓पि गच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/08_A_dadhAmi.md">

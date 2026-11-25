@@ -37,8 +37,8 @@ A charm against fever
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/020_yaxmanAshanam/01_agnerivAsya_dahata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नेरि॒वास्य॒ दह॑त एति शु॒ष्मिण॑ उ॒तेव॑ म॒त्तो वि॒लप॒न्नपा॑यति।  
-अ॒न्यम॒स्मदि॑च्छतु॒ कं चि॑दव्र॒तस्तपु॑र्वधाय॒ नमो॑ अस्तु त॒क्मने॑ ॥
+अग्ने᳓रिवा᳓स्य द᳓हत एति शुष्मि᳓ण उते᳓व मत्तो᳓ विल᳓पन्न᳓पायति।  
+अन्य᳓मस्म᳓दिच्छतु कं᳓ चिदव्रत᳓स्त᳓पुर्वधाय न᳓मो अस्तु तक्म᳓ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/020_yaxmanAshanam/01_agnerivAsya_dahata.md">
@@ -109,8 +109,8 @@ He goes away as 'twere from this fierce burning fire, inebriated and lamenting h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/020_yaxmanAshanam/02_namo_rudrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नमो॑ रु॒द्राय॒ नमो॑ अस्तु त॒क्मने॒ नमो॒ राज्ञे॒ वरु॑णाय॒ त्विषी॑मते।  
-नमो॑ दि॒वे नमः॑ पृथि॒व्यै नम॒ ओष॑धीभ्यः ॥
+न᳓मो रुद्रा᳓य न᳓मो अस्तु तक्म᳓ने न᳓मो रा᳓ज्ञे व᳓रुणाय त्वि᳓षीमते।  
+न᳓मो दिवे᳓ न᳓मः पृथिव्यै᳓ न᳓म ओ᳓षधीभ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/020_yaxmanAshanam/02_namo_rudrAya.md">
@@ -172,8 +172,8 @@ To Rudra and to Fever be our worship paid: worship be paid to Varuna the splendi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/020_yaxmanAshanam/03_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं यो अ॑भिशोचयि॒ष्णुर्विश्वा॑ रू॒पाणि॒ हरि॑ता कृ॒णोषि॑।  
-तस्मै॑ तेऽरु॒णाय॑ ब॒भ्रवे॒ नमः॑ कृणोमि॒ वन्या॑य त॒क्मने॑ ॥
+अयं᳓ यो᳓ अभिशोचयिष्णु᳓र्वि᳓श्वा रूपा᳓णि ह᳓रिता कृणो᳓षि।  
+त᳓स्मै तेऽरुणा᳓य बभ्र᳓वे न᳓मः कृणोमि व᳓न्याय तक्म᳓ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/020_yaxmanAshanam/03_ayaM_yo.md">

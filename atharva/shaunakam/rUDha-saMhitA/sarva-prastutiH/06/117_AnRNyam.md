@@ -33,8 +33,8 @@ Translated: Ludwig, p. 444; Griffith, i. 309.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑प॒मित्य॒मप्र॑तीत्तं॒ यदस्मि॑ य॒मस्य॒ येन॑ ब॒लिना॒ चरा॑मि।  
-इ॒दं तद॑ग्ने अनृ॒णो भ॑वामि॒ त्वं पाशा॑न्वि॒चृतं॑ वेत्थ॒ सर्वा॑न् ॥
+अ᳙पमि᳓त्यम᳓प्रतीत्तं य᳓द᳓स्मि यम᳓स्य ये᳓न बलि᳓ना च᳓रामि।  
+इदं᳓ त᳓दग्ने अनृणो᳓ भवामि त्वं᳓ पा᳓शान्विचृ᳓तं वेत्थ स᳓र्वान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
@@ -120,8 +120,8 @@ That which I eat, a debt which still is owing, the tribute due to Yama, which su
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/02_ihaiva_santaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒हैव सन्तः॒ प्रति॑ दद्म एनज्जी॒वा जी॒वेभ्यो॒ नि ह॑राम एनत्।  
-अ॑प॒मित्य॑ धा॒न्य१॒॑ यज्ज॒घसा॒हमि॒दं तद॑ग्ने अनृ॒णो भ॑वामि ॥
+इहै᳓व᳓ स᳓न्तः प्र᳓ति दद्म एनज्जीवा᳓ जीवे᳓भ्यो नि᳓ हराम एनत्।  
+अ᳙पमि᳓त्य धान्य᳙ य᳓ज्जघ᳓साह᳓मिदं᳓ त᳓दग्ने अनृणो᳓ भवामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/117_AnRNyam/02_ihaiva_santaH.md">
@@ -190,8 +190,8 @@ Still dwelling here we give again this present; we send it forth, the living fro
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑नृ॒णा अ॒स्मिन्न॑नृ॒णाः पर॑स्मिन्तृ॒तीये॑ लो॒के अ॑नृ॒णाः स्या॑म।  
-ये दे॑व॒यानाः॑ पितृ॒याणा॑श्च लो॒काः सर्वा॑न्प॒थो अ॑नृ॒णा आ क्षि॑येम ॥
+अ᳙नृणा᳓ अस्मि᳓न्ननृणाः᳓ प᳓रस्मिन्तृती᳓ये लोके᳓ अनृणाः᳓ स्याम।  
+ये᳓ देवया᳓नाः पितृया᳓णाश्च लोकाः᳓ स᳓र्वान्पथो᳓ अनृणा᳓ आ᳓ क्षियेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">

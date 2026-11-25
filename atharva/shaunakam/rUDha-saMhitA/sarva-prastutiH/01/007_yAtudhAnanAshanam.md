@@ -37,8 +37,8 @@ To Indra and Agni, for the detection and destruction of evil spirits
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/01_stuvAnamagna_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्तु॑वा॒नम॑ग्न॒ आ व॑ह यातु॒धानं॑ किमी॒दिन॑म्।  
-त्वं हि दे॑व वन्दि॒तो ह॒न्ता दस्यो॑र्ब॒भूवि॑थ ॥
+स्तु᳙वान᳓मग्न आ᳓ वह यातुधा᳓नं किमीदि᳓नम्।  
+त्वं᳓ हि᳓ देव वन्दितो᳓ हन्ता᳓ द᳓स्योर्बभू᳓विथ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/01_stuvAnamagna_A.md">
@@ -108,8 +108,8 @@ Bring the Kimidin hither, bring the Yatudhana self-declared For Agni, God, thou,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/02_Ajyasya_parameShThinjAtavedastanUvashin.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आज्य॑स्य परमेष्ठि॒ञ्जात॑वेद॒स्तनू॑वशिन्।  
-अग्ने॑ तौ॒लस्य॒ प्राशा॑न यातु॒धाना॒न्वि ला॑पय ॥
+आ᳓ज्यस्य परमेष्ठिञ्जा᳓तवेदस्त᳓नूवशिन्।  
+अ᳓ग्ने तौल᳓स्य प्रा᳓शान यातुधा᳓नान्वि᳓ लापय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/02_Ajyasya_parameShThinjAtavedastanUvashin.md">
@@ -182,8 +182,8 @@ O Jatavedas, Lord Supreme, controller of our bodies, taste The butter, Agni, tas
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/03_vi_lapantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि ल॑पन्तु यातु॒धाना॑ अ॒त्त्रिणो॒ ये कि॑मी॒दिनः॑।  
-अथे॒दम॑ग्ने नो ह॒विरिन्द्र॑श्च॒ प्रति॑ हर्यतम् ॥
+वि᳓ लपन्तु यातुधा᳓ना अत्त्रि᳓णो ये᳓ किमीदि᳓नः।  
+अ᳓थेद᳓मग्ने नो हवि᳓रि᳓न्द्रश्च प्र᳓ति हर्यतम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/03_vi_lapantu.md">
@@ -247,8 +247,8 @@ Let Yatudhanas mourn, let all greedy Kimidins weep and wail: And, Agni, Indra, m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/04_agniH_pUrva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निः पूर्व॒ आ र॑भतां॒ प्रेन्द्रो॑ नुदतु बाहु॒मान्।  
-ब्रवी॑तु॒ सर्वो॑ यातु॒मान॒यम॒स्मीत्येत्य॑ ॥
+अग्निः᳓ पू᳓र्व आ᳓ रभतां प्रे᳓न्द्रो नुदतु बाहुमा᳓न्।  
+ब्र᳓वीतु स᳓र्वो यातुमा᳓नय᳓मस्मी᳓त्ये᳓त्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/04_agniH_pUrva.md">
@@ -312,8 +312,8 @@ May Agni seize upon them first, may strong-armed Indra drive them forth: Let eve
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/05_pashyAma_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पश्या॑म ते वी॒र्यं॑ जातवेदः॒ प्र णो॑ ब्रूहि यातु॒धाना॑न्नृचक्षः।  
-त्वया॒ सर्वे॒ परि॑तप्ताः पु॒रस्ता॒त्त आ य॑न्तु प्रब्रुवा॒णा उपे॒दम् ॥
+प᳓श्याम ते वीर्यं᳙ जातवेदः प्र᳓ णो ब्रूहि यातुधा᳓नान्नृचक्षः।  
+त्व᳓या स᳓र्वे प᳓रितप्ताः पुर᳓स्तात्त᳓ आ᳓ यन्तु प्रब्रुवाणा᳓ उ᳓पेद᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/05_pashyAma_te.md">
@@ -378,8 +378,8 @@ Let us behold thy strength, O Jatavedas. Viewer of men, tell us the Yatudhanas. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/06_A_rabhasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ र॑भस्व जातवेदो॒ ऽस्माकार्था॑य जज्ञिषे।  
-दू॒तो नो॑ अग्ने भू॒त्वा या॑तु॒धाना॒न्वि ला॑पय ॥
+आ᳓ रभस्व जातवेदो ऽस्मा᳓का᳓र्थाय जज्ञिषे।  
+दूतो᳓ नो अग्ने भूत्वा᳓ यातुधा᳓नान्वि᳓ लापय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/06_A_rabhasva.md">
@@ -444,8 +444,8 @@ O Jatavedas, seize, on them: for our advantage art thou born: Agni, be thou our 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/07_tvamagne_yAtudhAnAnupabaddhA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वम॑ग्ने यातु॒धाना॒नुप॑बद्धाँ इ॒हा व॑ह।  
-अथै॑षा॒मिन्द्रो॒ वज्रे॒णापि॑ शी॒र्षाणि॑ वृश्चतु ॥
+त्व᳓मग्ने यातुधा᳓नानु᳓पबद्धाँ इहा᳓ वह।  
+अ᳓थैषामि᳓न्द्रो व᳓ज्रेणा᳓पि शीर्षा᳓णि वृश्चतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/07_tvamagne_yAtudhAnAnupabaddhA.N.md">

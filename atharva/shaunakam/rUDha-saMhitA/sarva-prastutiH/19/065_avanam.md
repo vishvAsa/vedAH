@@ -37,8 +37,8 @@ A hymn to Agni identified with the Sun
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/065_avanam/01_hariH_suparNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हरिः॑ सुप॒र्णो दिव॒मारु॑हो॒ऽर्चिषा॒ ये त्वा॒ दिप्स॑न्ति॒ दिव॑मु॒त्पत॑न्तम्।  
-अव॒ तां ज॑हि॒ हर॑सा जातवे॒दोऽबि॑भ्यदु॒ग्रोऽर्चिषा॒ दिव॒मा रो॑ह सूर्य ॥
+ह᳓रिः सुपर्णो᳓ दि᳓वमा᳓रुहोऽर्चि᳓षा ये᳓ त्वा दि᳓प्सन्ति दि᳓वमुत्प᳓तन्तम्।  
+अ᳓व तां᳓ जहि ह᳓रसा जातवेदो᳓ऽबिभ्यदुग्रो᳓ऽर्चि᳓षा दि᳓वमा᳓ रोह सूर्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/065_avanam/01_hariH_suparNo.md">

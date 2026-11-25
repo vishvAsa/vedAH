@@ -37,7 +37,7 @@ A sacrificial formula
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/051_AtmA/01_ayuto-hamayuto_ma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अयु॑तो॒ऽहमयु॑तो म आ॒त्मायु॑तं मे॒ चक्षु॒रयु॑तं मे॒ श्रोत्र॑मयु॑तो मे प्रा॒णोऽयु॑तो मेऽपा॒नोऽयु॑तो मे व्या॒नोऽयु॑तो॒ऽहं सर्वः॑ ॥
+अ᳓युतोऽह᳓म᳓युतो म आत्मा᳓युतं मे च᳓क्षुर᳓युतं मे श्रो᳓त्रम᳓युतो मे प्राणो᳓ऽयुतो मेऽपानो᳓ऽयुतो मे व्यानो᳓ऽयुतोऽहं᳓ स᳓र्वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/051_AtmA/01_ayuto-hamayuto_ma.md">
@@ -102,7 +102,7 @@ Undisturbed am I, undisturbed is my soul, undisturbed mine eye, undisturbed mine
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/051_AtmA/02_devasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वेऽश्विनो॑र्बा॒हुभ्यां॑ पू॒ष्णो हस्ता॑भ्यां॒ प्रसू॑त॒ आ र॑भे ॥
+देव᳓स्य त्वा सवितुः᳓ प्रसवे᳓ऽश्वि᳓नोर्बाहु᳓भ्यां पूष्णो᳓ ह᳓स्ताभ्यां प्र᳓सूत आ᳓ रभे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/051_AtmA/02_devasya_tvA.md">

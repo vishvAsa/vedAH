@@ -37,8 +37,8 @@ A benediction addressed to a newly elected King
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/087_rAjnaH_saMvaraNam/01_A_tvAhArShamantarabhUrdhruvastiShThAvichAchalat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ त्वा॑हार्षम॒न्तर॑भूर्ध्रु॒वस्ति॒ष्ठावि॑चाचलत्।  
-विश॑स्त्वा॒ सर्वा॑ वाञ्छन्तु॒ मा त्वद्रा॒ष्ट्रमधि॑ भ्रशत् ॥
+आ᳓ त्वाहार्षमन्त᳓रभूर्ध्रुव᳓स्तिष्ठा᳓विचाचलत्।  
+वि᳓शस्त्वा स᳓र्वा वाञ्छन्तु मा᳓ त्व᳓द्राष्ट्र᳓म᳓धि भ्रशत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/087_rAjnaH_saMvaraNam/01_A_tvAhArShamantarabhUrdhruvastiShThAvichAchalat.md">
@@ -108,8 +108,8 @@ Here art thou: I have chosen thee. Stand stedfast and immov- able. Let all the c
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/087_rAjnaH_saMvaraNam/02_ihaivaidhi_mApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒हैवैधि॒ माप॑ च्योष्ठाः॒ पर्व॑त इ॒वावि॑चाचलत्।  
-इन्द्र॑ इवे॒ह ध्रु॒वस्ति॑ष्ठे॒ह रा॒ष्ट्रमु॑ धारय ॥
+इहै᳓वै᳓धि मा᳓प च्योष्ठाः प᳓र्वत इवा᳓विचाचलत्।  
+इ᳓न्द्र इवेह᳓ ध्रुव᳓स्तिष्ठेह᳓ राष्ट्र᳓मु धारय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/087_rAjnaH_saMvaraNam/02_ihaivaidhi_mApa.md">
@@ -180,8 +180,8 @@ Be even here: fall not away: be like a mountain unremoved. Stand stedfast here l
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/087_rAjnaH_saMvaraNam/03_indra_etamadIdharad.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑ ए॒तम॑दीधरद् ध्रु॒वं ध्रु॒वेण॑ ह॒विषा॑।  
-तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥
+इ᳓न्द्र एत᳓मदीधरद् ध्रुवं᳓ ध्रुवे᳓ण हवि᳓षा।  
+त᳓स्मै सो᳓मो अ᳓धि ब्रवदयं᳓ च ब्र᳓ह्मणस्प᳓तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/087_rAjnaH_saMvaraNam/03_indra_etamadIdharad.md">

@@ -37,8 +37,8 @@ A benediction on a new-born Kshatriya child
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/076_AyuShyam/01_ya_enam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य ए॑नं परि॒षीद॑न्ति समा॒दध॑ति॒ चक्ष॑से।  
-सं॒प्रेद्धो॑ अ॒ग्निर्जि॒ह्वाभि॒रुदे॑तु॒ हृद॑या॒दधि॑ ॥
+य᳓ एनं परिषी᳓दन्ति समाद᳓धति च᳓क्षसे।  
+संप्रे᳓द्धो अग्नि᳓र्जिह्वा᳓भिरु᳓देतु हृ᳓दयाद᳓धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/076_AyuShyam/01_ya_enam.md">
@@ -103,8 +103,8 @@ Those who are sitting round this babe prepare him to be looked upon. Let Agni th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/076_AyuShyam/02_agneH_sAntapanasyAhamAyuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नेः सां॑तप॒नस्या॒हमायु॑षे प॒दमा र॑भे।  
-अ॑द्धा॒तिर्यस्य॒ पश्य॑ति धू॒ममु॒द्यन्त॑मास्य॒तः ॥
+अग्नेः᳓ सांतपन᳓स्याह᳓मा᳓युषे पद᳓मा᳓ रभे।  
+अ᳙द्धाति᳓र्य᳓स्य प᳓श्यति धूम᳓मुद्य᳓न्तमास्यतः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/076_AyuShyam/02_agneH_sAntapanasyAhamAyuShe.md">
@@ -168,8 +168,8 @@ For length of life I use the name of Agni the Consuming God, Whose smoke the sag
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/076_AyuShyam/03_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॑स्य स॒मिधं॒ वेद॑ क्ष॒त्रिये॑ण स॒माहि॑ताम्।  
-नाभि॑ह्वा॒रे प॒दं नि द॑धाति॒ स मृ॒त्यवे॑ ॥
+यो᳓ अस्य समि᳓धं वे᳓द क्षत्रि᳓येण समा᳓हिताम्।  
+ना᳓भिह्वारे᳓ पदं᳓ नि᳓ दधाति स᳓ मृत्य᳓वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/076_AyuShyam/03_yo_asya.md">
@@ -232,8 +232,8 @@ The man who knows his fuel laid in order by the Kshatriya Sets not his foot upon
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/076_AyuShyam/04_nainaM_ghnanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नैनं॑ घ्नन्ति पर्या॒यिणो॒ न स॒न्नाँ अव॑ गछति।  
-अ॒ग्नेर्यः क्ष॒त्रियो॑ वि॒द्वान्नाम॑ गृ॒ह्णात्यायु॑षे ॥
+नै᳓नं घ्नन्ति पर्यायि᳓णो न᳓ सन्नाँ᳓ अ᳓व गछति।  
+अग्ने᳓र्यः᳓ क्षत्रि᳓यो विद्वा᳓न्ना᳓म गृह्णा᳓त्या᳓युषे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/076_AyuShyam/04_nainaM_ghnanti.md">

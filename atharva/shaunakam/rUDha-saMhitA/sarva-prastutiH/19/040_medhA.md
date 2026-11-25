@@ -37,8 +37,8 @@ A prayer for pardon of error in sacrifice, and for wisdom, strength, and life
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/01_yanme_Chidram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यन्मे॑ छि॒द्रं मन॑सो॒ यच्च॑ वा॒चः सर॑स्वती मन्यु॒मन्तं॑ ज॒गाम॑।  
-विश्वै॒स्तद्दे॒वैः स॒ह सं॑विदा॒नः सं द॑धातु॒ बृह॒स्पतिः॑ ॥
+य᳓न्मे छिद्रं᳓ म᳓नसो य᳓च्च वाचः᳓ स᳓रस्वती मन्युम᳓न्तं जगा᳓म।  
+वि᳓श्वैस्त᳓द्देवैः᳓ सह᳓ संविदानः᳓ सं᳓ दधातु बृ᳓हस्प᳓तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/01_yanme_Chidram.md">
@@ -111,8 +111,8 @@ For each defect of mine in voice and spirit I have approached One vehement and a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/02_mA_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा न॑ आपो मे॒धां मा ब्रह्म॒ प्र म॑थिष्टन।  
-सु॑ष्य॒दा यू॒यं स्य॑न्दध्व॒मुप॑हूतो॒ऽहं सु॒मेधा॑ वर्च॒स्वी ॥
+मा᳓ न आपो मेधां᳓ मा᳓ ब्र᳓ह्म प्र᳓ मथिष्टन।  
+सु᳙ष्यदा᳓ यूयं᳓ स्यन्दध्वमु᳓पहूतोऽहं᳓ सुमे᳓धा वर्चस्वी᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/02_mA_na.md">
@@ -190,8 +190,8 @@ Disturb ye not our intellect, O Waters, nor the power of prayer_ Glide on your w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/03_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॑ मे॒धां मा नो॑ दी॒क्षां मा नो॑ हिंसिष्टं॒ यत्तपः॑।  
-शि॒वा नः॒ शं स॒न्त्वायु॑षे शि॒वा भ॑वन्तु मा॒तरः॑ ॥
+मा᳓ नो मेधां᳓ मा᳓ नो दीक्षां᳓ मा᳓ नो हिंसिष्टं य᳓त्त᳓पः।  
+शिवा᳓ नः शं᳓ सन्त्वा᳓युषे शिवा᳓ भवन्तु मात᳓रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/03_mA_no.md">
@@ -268,8 +268,8 @@ Mar not our consecrating rite, our intellect, or fervent zeal. Gracious to us fo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/04_yA_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या नः॒ पीप॑रद॒श्विना॒ ज्योति॑ष्मती॒ तम॑स्ति॒रः।  
-ताम॒स्मे रा॑सता॒मिष॑म् ॥
+या᳓ नः पी᳓परदश्वि᳓ना ज्यो᳓तिष्मती त᳓मस्तिरः᳓।  
+ता᳓मस्मे᳓ रासतामि᳓षम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/04_yA_naH.md">

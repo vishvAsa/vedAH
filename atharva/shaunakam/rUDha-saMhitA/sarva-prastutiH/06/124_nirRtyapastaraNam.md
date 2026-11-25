@@ -33,8 +33,8 @@ Translated: Ludwig, p. 498; Griffith, i. 314.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/01_divo_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वो नु मां बृ॑ह॒तो अ॒न्तरि॑क्षाद॒पां स्तो॒को अ॒भ्य᳡पप्त॒द्रसे॑न।  
-समि॑न्द्रि॒येण॒ पय॑सा॒हम॑ग्ने॒ छन्दो॑भिर्य॒ज्ञैः सु॒कृतां॑ कृ॒तेन॑ ॥
+दिवो᳓ नु᳓ मां᳓ बृहतो᳓ अन्त᳓रिक्षादपां᳓ स्तोको᳓ अभ्य᳙पप्तद्र᳓सेन।  
+स᳓मिन्द्रिये᳓ण प᳓यसाह᳓मग्ने छ᳓न्दोभिर्यज्ञैः᳓ सुकृ᳓तां कृते᳓न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/124_nirRtyapastaraNam/01_divo_nu.md">
@@ -104,8 +104,8 @@ From the high firmament, yea, out of heaven a water-drop with dew on me hath fal
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/02_yadi_vRxAdabhyapaptatpalam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ वृ॒क्षाद॒भ्यप॑प्त॒त्पलं॒ तद्यद्य॒न्तरि॑क्षा॒त्स उ॑ वा॒युरे॒व।  
-यत्रास्पृ॑क्षत्त॒न्वो॒३॒॑ यच्च॒ वास॑स॒ आपो॑ नुदन्तु॒ निरृ॑तिं परा॒चैः ॥
+य᳓दि वृक्षा᳓दभ्य᳓पप्तत्प᳓लं त᳓द्य᳓द्यन्त᳓रिक्षात्स᳓ उ वायु᳓रेव᳓।  
+य᳓त्रा᳓स्पृक्षत्तन्वो᳙ य᳓च्च वा᳓सस आ᳓पो नुदन्तु नि᳓रृतिं पराचैः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/124_nirRtyapastaraNam/02_yadi_vRxAdabhyapaptatpalam.md">
@@ -173,8 +173,8 @@ If from a tree that fruit hath fallen downward if, aught from air that is vayu. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/03_abhyanjanaM_surabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भ्यञ्ज॑नं सुर॒भि सा समृ॑द्धि॒र्हिर॑ण्यं॒ वर्च॒स्तदु॑ पू॒त्रिम॑मे॒व।  
-सर्वा॑ प॒वित्रा॒ वित॒ताध्य॒स्मत्तन्मा ता॑री॒न्निरृ॑ति॒र्मो अरा॑तिः ॥
+अभ्य᳓ञ्जनं सुरभि᳓ सा᳓ स᳓मृद्धिर्हि᳓रण्यं व᳓र्चस्त᳓दु पूत्रि᳓ममेव᳓।  
+स᳓र्वा पवि᳓त्रा वि᳓तता᳓ध्यस्म᳓त्त᳓न्मा᳓ तारीन्नि᳓रृतिर्मो᳓ अ᳓रातिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/124_nirRtyapastaraNam/03_abhyanjanaM_surabhi.md">

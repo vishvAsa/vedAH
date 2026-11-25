@@ -37,8 +37,8 @@ A charm against leprosy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/01_naktanjAtAsi_oShadhe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न॑क्तंजा॒तासि॑ ओषधे॒ रामे॒ कृष्णे॒ असि॑क्नि च।  
-इ॒दं र॑जनि रजय कि॒लासं॑ पलि॒तं च॒ यत् ॥
+न᳙क्तंजाता᳓सि ओषधे रा᳓मे कृ᳓ष्णे अ᳓सिक्नि च।  
+इदं᳓ रजनि रजय किला᳓सं पलितं᳓ च य᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/01_naktanjAtAsi_oShadhe.md">
@@ -109,8 +109,8 @@ O Plant, thou sprangest up at night, dusky, dark-coloured, black in hue! So, Raj
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कि॒लासं॑ च पलि॒तं च॒ निरि॒तो ना॑शया॒ पृष॑त्।  
-आ त्वा॒ स्वो वि॑शतां॒ वर्णः॒ परा॑ शु॒क्लानि॑ पातय ॥
+किला᳓सं च पलितं᳓ च नि᳓रितो᳓ नाशया पृ᳓षत्।  
+आ᳓ त्वा स्वो᳓ विशतां व᳓र्णः प᳓रा शुक्ला᳓नि पातय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
@@ -175,8 +175,8 @@ Expel the leprosy, remove from him the spots and ashy hue: Let thine own colour 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/03_asitaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-असि॑तं ते प्र॒लय॑नमा॒स्थान॒मसि॑तं॒ तव॑।  
-असि॑क्न्यस्योषधे॒ निरि॒तो ना॑शया॒ पृष॑त् ॥
+अ᳓सितं ते प्रल᳓यनमास्था᳓नम᳓सितं त᳓व।  
+अ᳓सिक्न्यस्योषधे नि᳓रितो᳓ नाशया पृ᳓षत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/03_asitaM_te.md">
@@ -239,8 +239,8 @@ Dark is the place of thy repose, dark is the place thou dwellest in: Dusky and d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑स्थि॒जस्य॑ कि॒लास॑स्य तनू॒जस्य॑ च॒ यत्त्व॒चि।  
-दूष्या॑ कृ॒तस्य॒ ब्रह्म॑णा॒ लक्ष्म॑ श्वे॒तम॑नीनशम् ॥
+अ᳙स्थिज᳓स्य किला᳓सस्य तनूज᳓स्य च य᳓त्त्वचि᳓।  
+दू᳓ष्या कृत᳓स्य ब्र᳓ह्मणा ल᳓क्ष्म श्वेत᳓मनीनशम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">

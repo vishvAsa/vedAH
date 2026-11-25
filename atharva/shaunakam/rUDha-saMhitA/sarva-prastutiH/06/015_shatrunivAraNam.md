@@ -37,8 +37,8 @@ A charm for power and preeminence
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/01_uttamo_asyoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑त्त॒मो अ॒स्योष॑धीनां॒ तव॑ वृ॒क्षा उ॑प॒स्तयः॑।  
-उ॑प॒स्तिर॑स्तु॒ सो॒३॒॑स्माकं॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥
+उ᳙त्तमो᳓ अस्यो᳓षधीनां त᳓व वृक्षा᳓ उपस्त᳓यः।  
+उ᳙पस्ति᳓रस्तु सो᳙स्मा᳓कं यो᳓ अस्माँ᳓ अभिदा᳓सति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/015_shatrunivAraNam/01_uttamo_asyoShadhInAm.md">
@@ -103,8 +103,8 @@ Most excellent of all the plants art thou: thy vassals are the trees. Let him be
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/02_sabandhushchAsabandhushcha_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्माँ अ॑भि॒दास॑ति।  
-तेषां॒ सा वृ॒क्षाणा॑मिवा॒हं भू॑यासमुत्त॒मः ॥
+स᳓बन्धुश्चा᳓सबन्धुश्च यो᳓ अस्माँ᳓ अभिदा᳓सति।  
+ते᳓षां सा᳓ वृक्षा᳓णामिवाहं᳓ भूयासमुत्तमः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/015_shatrunivAraNam/02_sabandhushchAsabandhushcha_yo.md">
@@ -167,8 +167,8 @@ Whoever seeks to injure us, with kinsmen or no kin to aid, May I be uppermost of
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/03_yathA_soma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ सोम॒ ओष॑धीनामुत्त॒मो ह॒विषां॑ कृ॒तः।  
-त॒लाशा॑ वृ॒क्षाना॑मिवा॒हं भू॑यासमुत्त॒मः ॥
+य᳓था सो᳓म ओ᳓षधीनामुत्तमो᳓ हवि᳓षां कृतः᳓।  
+तला᳓शा वृक्षा᳓नामिवाहं᳓ भूयासमुत्तमः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/015_shatrunivAraNam/03_yathA_soma.md">

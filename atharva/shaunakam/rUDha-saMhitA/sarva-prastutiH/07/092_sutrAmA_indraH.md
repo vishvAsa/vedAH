@@ -33,8 +33,8 @@ Translated: Henry, 38, 108; Griffith, i. 374.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/092_sutrAmA_indraH/01_sa_sutrAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स सु॒त्रामा॒ स्ववाँ॒ इन्द्रो॑ अ॒स्मदा॒राच्चि॒द्द्वेषः॑ सनु॒तर्यु॑योतु।  
-तस्य॑ व॒यं सु॑म॒तौ य॒ज्ञिय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥
+स᳓ सुत्रा᳓मा स्व᳓वाँ इ᳓न्द्रो अस्म᳓दारा᳓च्चिद्द्वे᳓षः सनुत᳓र्युयोतु।  
+त᳓स्य वयं᳓ सुमतौ᳓ यज्ञि᳓यस्या᳓पि भद्रे᳓ सौमनसे᳓ स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/092_sutrAmA_indraH/01_sa_sutrAmA.md">

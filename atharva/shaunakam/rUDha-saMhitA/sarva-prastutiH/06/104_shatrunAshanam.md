@@ -33,8 +33,8 @@ Translated: Ludwig, p. 518; Griffith, i. 302.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/01_AdAnena_sandAnenAmitrAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒दाने॑न सं॒दाने॑ना॒मित्रा॒ना द्या॑मसि।  
-अ॑पा॒ना ये चै॑षां प्रा॒णा असु॒नासू॒न्त्सम॑च्छिदन् ॥
+आदा᳓नेन संदा᳓नेनामि᳓त्राना᳓ द्यामसि।  
+अ᳙पाना᳓ ये᳓ चैषां प्राणा᳓ अ᳓सुना᳓सून्त्स᳓मच्छिदन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/104_shatrunAshanam/01_AdAnena_sandAnenAmitrAnA.md">
@@ -99,8 +99,8 @@ We bind our foemen with a bond that binds them close and holds them fast. Their 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दमा॒दान॑मकरं॒ तप॒सेन्द्रे॑ण॒ संशि॑तम्।  
-अ॒मित्रा॒ येऽत्र॑ नः॒ सन्ति॒ तान॑ग्न॒ आ द्या॒ त्वम् ॥
+इद᳓मादा᳓नमकरं त᳓पसे᳓न्द्रेण सं᳓शितम्।  
+अमि᳓त्रा ये᳓ऽत्र नः स᳓न्ति ता᳓नग्न आ᳓ द्या त्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
@@ -162,8 +162,8 @@ This bond, made keen by Indra, I have formed with heat of holy zeal. Securely bi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/03_ainAndyatAmindrAgnI_somo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऐना॑न्द्यतामिन्द्रा॒ग्नी सोमो॒ राजा॑ च मे॒दिनौ॑।  
-इन्द्रो॑ म॒रुत्वा॑ना॒दान॑म॒मित्रे॑भ्यः कृणोतु नः ॥
+ऐ᳓नान्द्यतामिन्द्राग्नी᳓ सो᳓मो रा᳓जा च मेदि᳓नौ।  
+इ᳓न्द्रो मरु᳓त्वानादा᳓नममि᳓त्रेभ्यः कृणोतु नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/104_shatrunAshanam/03_ainAndyatAmindrAgnI_somo.md">

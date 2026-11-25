@@ -33,8 +33,8 @@ Translated: Weber, xvii. 297; Griffith, i. 122; Bloomfield, 145, 359.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एकै॑कयै॒षा सृष्ट्या॒ सं ब॑भूव॒ यत्र॒ गा असृ॑जन्त भूत॒कृतो॑ वि॒श्वरू॑पाः।  
-यत्र॑ वि॒जाय॑ते य॒मिन्य॑प॒र्तुः सा प॒शून्क्षि॑णाति रिफ॒ती रुश॑ती ॥
+ए᳓कैकयैषा᳓ सृ᳓ष्ट्या सं᳓ बभूव य᳓त्र गा᳓ अ᳓सृजन्त भूतकृ᳓तो विश्व᳓रूपाः।  
+य᳓त्र विजा᳓यते यमि᳓न्यपर्तुः᳓ सा᳓ पशू᳓न्क्षिणाति रिफती᳓ रु᳓शती ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
@@ -113,8 +113,8 @@ for *sṛ́ṣṭyā*, not *sṛṣṭvā*.⌋
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/02_eShA_pashUntsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒षा प॒शून्त्सं क्षि॑णाति क्र॒व्याद्भू॒त्वा व्यद्व॑री।  
-उ॒तैनां॑ ब्र॒ह्मणे॑ दद्या॒त्तथा॑ स्यो॒ना शि॒वा स्या॑त् ॥
+एषा᳓ पशू᳓न्त्सं᳓ क्षिणाति क्रव्या᳓द्भूत्वा᳓ व्य᳓द्वरी।  
+उतै᳓नां ब्रह्म᳓णे दद्यात्त᳓था स्योना᳓ शिवा᳓ स्यात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/02_eShA_pashUntsam.md">
@@ -189,8 +189,8 @@ where W. corrects the text to *vyadvará:* accent of masc. and fem.,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/03_shivA_bhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि॒वा भ॑व॒ पुरु॑षेभ्यो॒ गोभ्यो॒ अश्वे॑भ्यः शि॒वा।  
-शि॒वास्मै सर्व॑स्मै॒ क्षेत्रा॑य शि॒वा न॑ इ॒हैधि॑ ॥
+शिवा᳓ भव पु᳓रुषेभ्यो गो᳓भ्यो अ᳓श्वेभ्यः शिवा᳓।  
+शिवा᳓स्मै᳓ स᳓र्वस्मै क्षे᳓त्राय शिवा᳓ न इहै᳓धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/03_shivA_bhava.md">
@@ -254,8 +254,8 @@ propitious to all this field (*kṣétra*); be propitious to us here.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/04_iha_puShTiriha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒ह पुष्टि॑रि॒ह रस॑ इ॒ह स॑हस्र॒सात॑मा भव।  
-प॒शून्य॑मिनि पोषय ॥
+इह᳓ पु᳓ष्टिरिह᳓ र᳓स इह᳓ सहस्रसा᳓तमा भव।  
+पशू᳓न्यमिनि पोषय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/04_iha_puShTiriha.md">
@@ -321,8 +321,8 @@ very seldom used by our Anukr. as name of a whole verse ⌊8 + 12: 8⌋.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्वः१॒॑ स्वायाः॑।  
-तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त्पुरु॑षान्प॒शूंश्च॑ ॥
+य᳓त्रा सुहा᳓र्दः सुकृ᳓तो म᳓दन्ति विहा᳓य रो᳓गं तन्वः᳙ स्वा᳓याः।  
+तं᳓ लोकं᳓ यमि᳓न्यभिसं᳓बभूव सा᳓ नो मा᳓ हिंसीत्पु᳓रुषान्पशूं᳓श्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
@@ -387,8 +387,8 @@ TA.). Some of SPP's mss. write in **b** *tanvā̀s*, protracting the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/06_yatrA_suhArdAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्रा॑ सु॒हार्दां॑ सु॒कृता॑मग्निहोत्र॒हुतां॒ यत्र॑ लो॒कः।  
-तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त्पुरु॑षान्प॒शूंश्च॑ ॥
+य᳓त्रा सुहा᳓र्दां सुकृ᳓तामग्निहोत्रहु᳓तां य᳓त्र लोकः᳓।  
+तं᳓ लोकं᳓ यमि᳓न्यभिसं᳓बभूव सा᳓ नो मा᳓ हिंसीत्पु᳓रुषान्पशूं᳓श्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/06_yatrA_suhArdAm.md">

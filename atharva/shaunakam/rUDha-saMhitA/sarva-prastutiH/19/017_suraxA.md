@@ -37,8 +37,8 @@ A prayer for protection from dangers in all directions
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/01_agnirmA_pAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निर्मा॑ पातु॒ वसु॑भिः पु॒रस्ता॒त्तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाह॑ ॥
+अग्नि᳓र्मा पातु व᳓सुभिः पुर᳓स्तात्त᳓स्मिन्क्रमे त᳓स्मिञ्छ्रये तां᳓ पु᳓रं प्रै᳓मि।  
+स᳓ मा रक्षतु स᳓ मा गोपायतु त᳓स्मा आत्मा᳓नं प᳓रि ददे स्वा᳓ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/01_agnirmA_pAtu.md">
@@ -105,8 +105,8 @@ Agni from eastward guard me with the Vasus! To him I go, in him I rest: this for
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/02_vAyurmAntarixeNaitasyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒युर्मा॒न्तरि॑क्षेणै॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+वायु᳓र्मान्त᳓रिक्षेणैत᳓स्या दिशः᳓ पातु त᳓स्मिन्क्रमे त᳓स्मिञ्छ्रये तां᳓ पु᳓रं प्रै᳓मि।  
+स᳓ मा रक्षतु स᳓ मा गोपायतु त᳓स्मा आत्मा᳓नं प᳓रि ददे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/02_vAyurmAntarixeNaitasyA_dishaH.md">
@@ -166,8 +166,8 @@ Vayu with Air protect me from this region. To him I go, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/03_somo_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमो॑ मा रु॒द्रैर्दक्षि॑णाया दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+सो᳓मो मा रुद्रै᳓र्द᳓क्षिणाया दिशः᳓ पातु त᳓स्मिन्क्रमे त᳓स्मिञ्छ्रये तां᳓ पु᳓रं प्रै᳓मि।  
+स᳓ मा रक्षतु स᳓ मा गोपायतु त᳓स्मा आत्मा᳓नं प᳓रि ददे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/03_somo_mA.md">
@@ -227,8 +227,8 @@ May Soma from the south, with Rudras, guard me. To him, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/04_varuNo_mAdityairetasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वरु॑णो मादि॒त्यैरे॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+व᳓रुणो मादित्यै᳓रेत᳓स्या दिशः᳓ पातु त᳓स्मिन्क्रमे त᳓स्मिञ्छ्रये तां᳓ पु᳓रं प्रै᳓मि।  
+स᳓ मा रक्षतु स᳓ मा गोपायतु त᳓स्मा आत्मा᳓नं प᳓रि ददे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/04_varuNo_mAdityairetasyA.md">
@@ -290,8 +290,8 @@ Varuna with Adityas guard me from this region! To him etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/05_sUryo_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्यो॑ मा॒ द्यावा॑पृथि॒वीभ्यां॑ प्र॒तीच्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+सू᳓र्यो मा द्या᳓वापृथिवी᳓भ्यां प्रती᳓च्या दिशः᳓ पातु त᳓स्मिन्क्रमे त᳓स्मिञ्छ्रये तां᳓ पु᳓रं प्रै᳓मि।  
+स᳓ मा रक्षतु स᳓ मा गोपायतु त᳓स्मा आत्मा᳓नं प᳓रि ददे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/05_sUryo_mA.md">
@@ -351,8 +351,8 @@ Surya with Earth and Heaven from the western region guard me well. To him, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/06_Apo_mauShadhImatIretasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ मौष॑धीमतीरे॒तस्या॑ दि॒शः पा॑न्तु॒ तासु॑ क्रमे॒ तासु॑ श्रये॒ तां पुरं॒ प्रैमि॑।  
-ता मा॑ रक्षन्तु॒ ता मा॑ गोपायन्तु॒ ताभ्य॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+आ᳓पो मौ᳓षधीमतीरेत᳓स्या दिशः᳓ पान्तु ता᳓सु क्रमे ता᳓सु श्रये तां᳓ पु᳓रं प्रै᳓मि।  
+ता᳓ मा रक्षन्तु ता᳓ मा गोपायन्तु ता᳓भ्य आत्मा᳓नं प᳓रि ददे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/06_Apo_mauShadhImatIretasyA.md">
@@ -412,8 +412,8 @@ May Waters joined with Plants protect me from this region. To them I go, in them
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/07_vishvakarmA_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒श्वक॑र्मा मा सप्तऋ॒षिभि॒रुदी॑च्या दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+विश्व᳓कर्मा मा सप्तऋषि᳓भिरु᳓दीच्या दिशः᳓ पातु त᳓स्मिन्क्रमे त᳓स्मिञ्छ्रये तां᳓ पु᳓रं प्रै᳓मि।  
+स᳓ मा रक्षतु स᳓ मा गोपायतु त᳓स्मा आत्मा᳓नं प᳓रि ददे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/07_vishvakarmA_mA.md">
@@ -473,8 +473,8 @@ May Visvakarman with the Seven Rishis be my protector from the northern region. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/08_indro_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ मा म॒रुत्वा॑ने॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॑ प्रैमि।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+इ᳓न्द्रो मा मरु᳓त्वानेत᳓स्या दिशः᳓ पातु त᳓स्मिन्क्रमे त᳓स्मिञ्छ्रये तां᳓ पु᳓रं प्रैमि।  
+स᳓ मा रक्षतु स᳓ मा गोपायतु त᳓स्मा आत्मा᳓नं प᳓रि ददे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/08_indro_mA.md">
@@ -538,8 +538,8 @@ May Indra, Marut-girt, protect me from this region. To him, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/09_prajApatirmA_prajananavAntsaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाप॑तिर्मा प्र॒जन॑नवान्त्स॒ह प्र॑ति॒ष्ठाया॑ ध्रु॒वाया॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+प्रजा᳓पतिर्मा प्रज᳓ननवान्त्सह᳓ प्रतिष्ठा᳓या ध्रुवा᳓या दिशः᳓ पातु त᳓स्मिन्क्रमे त᳓स्मिञ्छ्रये तां᳓ पु᳓रं प्रै᳓मि।  
+स᳓ मा रक्षतु स᳓ मा गोपायतु त᳓स्मा आत्मा᳓नं प᳓रि ददे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/09_prajApatirmA_prajananavAntsaha.md">
@@ -610,8 +610,8 @@ Prajapati, of generative power, with the Pratishlha save me from the nadir! To h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/10_bRhaspatirmA_vishvairdevairUrdhvAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृह॒स्पति॑र्मा॒ विश्वै॑र्दे॒वैरू॒र्ध्वाया॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+बृ᳓हस्प᳓तिर्मा वि᳓श्वैर्देवै᳓रूर्ध्वा᳓या दिशः᳓ पातु त᳓स्मिन्क्रमे त᳓स्मिञ्छ्रये तां᳓ पु᳓रं प्रै᳓मि।  
+स᳓ मा रक्षतु स᳓ मा गोपायतु त᳓स्मा आत्मा᳓नं प᳓रि ददे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/10_bRhaspatirmA_vishvairdevairUrdhvAyA.md">

@@ -42,10 +42,10 @@ A glorification of Rohita. with a malediction on the man who wrongs a Brahman
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/01_ya_ime.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य इ॒मे द्यावा॑पृथि॒वी ज॒जान॒ यो द्रापिं॑ कृ॒त्वा भुव॑नानि॒ वस्ते॑।  
-यस्मि॑न्क्षि॒यन्ति॑ प्र॒दिशः॒ षडु॒र्वीर्याः प॑त॒ङ्गो अनु॑ वि॒चाक॑शीति।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+य᳓ इमे᳓ द्या᳓वापृथिवी᳓ जजा᳓न यो᳓ द्रा᳓पिं कृत्वा᳓ भु᳓वनानि व᳓स्ते।  
+य᳓स्मिन्क्षिय᳓न्ति प्रदि᳓शः ष᳓डुर्वी᳓र्याः᳓ पतङ्गो᳓ अ᳓नु विचा᳓कशीति।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/01_ya_ime.md">
@@ -128,9 +128,9 @@ He who engendered these, the earth and heaven, who made the worlds the mantle th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/02_yasmAdvAtA_RtuthA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्मा॒द्वाता॑ ऋतु॒था पव॑न्ते॒ यस्मा॑त्समु॒द्रा अधि॑ वि॒क्षर॑न्ति।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+य᳓स्माद्वा᳓ता ऋतुथा᳓ प᳓वन्ते य᳓स्मात्समुद्रा᳓ अ᳓धि विक्ष᳓रन्ति।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/02_yasmAdvAtA_RtuthA.md">
@@ -194,9 +194,9 @@ He from whom winds blow pure in ordered season, from whom the seas flow forth in
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/03_yo_mArayati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो मा॒रय॑ति प्रा॒णय॑ति॒ यस्मा॑त्प्रा॒णन्ति॒ भुव॑नानि॒ विश्वा॑।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+यो᳓ मार᳓यति प्राण᳓यति य᳓स्मात्प्राण᳓न्ति भु᳓वनानि वि᳓श्वा।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/03_yo_mArayati.md">
@@ -258,9 +258,9 @@ He who takes life away, he who bestows it; from whom comes breath to every livin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/04_yaH_prANena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः प्राणे॑न॒ द्यावा॑पृथि॒वी त॒र्पय॑त्यपा॒नेन॑ समु॒द्रस्य॑ ज॒ठरं॒ यः पिप॑र्ति।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+यः᳓ प्रा᳓णेन द्या᳓वापृथिवी᳓ तर्प᳓यत्यपाने᳓न समुद्र᳓स्य जठ᳓रं यः᳓ पि᳓पर्ति।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/04_yaH_prANena.md">
@@ -323,10 +323,10 @@ Who with the breath he draws sates earth and heaven, with expiration fills the o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/05_yasminvirATparameShThI_prajApatiragnirvaishvAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्मि॑न्वि॒राट्प॑रमे॒ष्ठी प्र॒जाप॑तिर॒ग्निर्वै॑श्वान॒रः स॒ह प॒ङ्क्त्या श्रि॒तः।  
-यः पर॑स्य प्रा॒णं प॑र॒मस्य॒ तेज॑ आद॒दे।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+य᳓स्मिन्विरा᳓ट्परमेष्ठी᳓ प्रजा᳓पतिरग्नि᳓र्वैश्वानरः᳓ सह᳓ पङ्क्त्या᳓ श्रितः᳓।  
+यः᳓ प᳓रस्य प्राणं᳓ परम᳓स्य ते᳓ज आददे᳓।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/05_yasminvirATparameShThI_prajApatiragnirvaishvAna.md">
@@ -394,10 +394,10 @@ In whom Viraj, Prajapati, Parameshthin, Agni Vaisvanara abide with Pankti, He wh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/06_yasminShaDurvIH_pancha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्मि॒न्षडु॒र्वीः पञ्च॒ दिशो॒ अधि॑श्रि॒ताश्चत॑स्र॒ आपो॑ य॒ज्ञस्य॒ त्रयो॒ऽक्षराः॑।  
-यो अ॑न्त॒रा रोद॑सी क्रु॒द्धश्चक्षु॒षैक्ष॑त।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+य᳓स्मिन्ष᳓डुर्वीः᳓ प᳓ञ्च दि᳓शो अ᳓धिश्रिता᳓श्च᳓तस्र आ᳓पो यज्ञ᳓स्य त्र᳓योऽक्ष᳓राः।  
+यो᳓ अन्तरा᳓ रो᳓दसी क्रुद्ध᳓श्च᳓क्षुषै᳓क्षत।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/06_yasminShaDurvIH_pancha.md">
@@ -469,10 +469,10 @@ On whom rest six expenses and five regions, four waters, and three syllables of 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/07_yo_annAdo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॑न्ना॒दो अन्न॑पतिर्ब॒भूव॒ ब्रह्म॑ण॒स्पति॑रु॒त यः।  
-भू॒तो भ॑वि॒ष्यद्भुव॑नस्य॒ यस्पतिः॑।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+यो᳓ अन्नादो᳓ अ᳓न्नपतिर्बभू᳓व ब्र᳓ह्मणस्प᳓तिरुत᳓ यः᳓।  
+भूतो᳓ भविष्य᳓द्भु᳓वनस्य य᳓स्प᳓तिः।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/07_yo_annAdo.md">
@@ -546,9 +546,9 @@ He who, consuming food, became its master, the Lord of Prayer, the Regent of Dev
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/08_ahorAtrairvimitaM_triMshadangam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑होरा॒त्रैर्विमि॑तं त्रिं॒शद॑ङ्गं त्रयोद॒शं मासं॒ यो नि॒र्मिमी॑ते।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+अ᳙होरात्रै᳓र्वि᳓मितं त्रिंश᳓दङ्गं त्रयोदशं᳓ मा᳓सं यो᳓ निर्मि᳓मीते।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/08_ahorAtrairvimitaM_triMshadangam.md">
@@ -611,10 +611,10 @@ He who metes out the thirteenth month, constructed with days and nights, contain
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/09_kRShNaM_niyAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत्प॑तन्ति।  
-त आव॑वृत्र॒न्त्सद॑नादृ॒तस्य॑।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+कृष्णं᳓ निया᳓नं ह᳓रयः सुपर्णा᳓ अपो᳓ व᳓साना दि᳓वमु᳓त्पतन्ति।  
+त᳓ आ᳓ववृत्रन्त्स᳓दनादृत᳓स्य।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/09_kRShNaM_niyAnam.md">
@@ -681,10 +681,10 @@ Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/10_yatte_chandram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्ते॑ च॒न्द्रं क॑श्यप रोच॒नाव॒द्यत्सं॑हि॒तं पु॑ष्क॒लं चि॒त्रभा॑नु॒।  
-यस्मि॒न्त्सूर्या॒ आर्पि॑ताः स॒प्त सा॒कम्।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+य᳓त्ते चन्द्रं᳓ कश्यप रोचना᳓वद्य᳓त्संहितं᳓ पुष्कलं᳓ चित्र᳓भानु।  
+य᳓स्मिन्त्सू᳓र्या आ᳓र्पिताः सप्त᳓ साक᳓म्।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/10_yatte_chandram.md">
@@ -759,10 +759,10 @@ What silver. Kasyapa, thou hast refulgent, what brightly-shining lotus-flower co
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/11_bRhadenamanu_vaste.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृ॒हदे॑न॒मनु॑ वस्ते पु॒रस्ता॑द्रथन्त॒रं प्रति॑ गृह्णाति प॒श्चात्।  
-ज्योति॒र्वसा॑ने॒ सद॒मप्र॑मादम्।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+बृह᳓देनम᳓नु वस्ते पुर᳓स्ताद्रथन्तरं᳓ प्र᳓ति गृह्णाति पश्चा᳓त्।  
+ज्यो᳓तिर्व᳓साने स᳓दम᳓प्रमादम्।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/11_bRhadenamanu_vaste.md">
@@ -825,10 +825,10 @@ In front the Brihat-Saman is his mantle, and from behind Rathantara enfolds him,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/12_bRhadanyataH_paxa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृ॒हद॒न्यतः॑ प॒क्ष आसी॑द्रथन्त॒रम॒न्यतः॒ सब॑ले स॒ध्रीची॑।  
-यद्रोहि॑त॒मज॑नयन्त दे॒वाः।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+बृह᳓दन्य᳓तः पक्ष᳓ आ᳓सीद्रथन्तर᳓मन्य᳓तः स᳓बले सध्री᳓ची।  
+य᳓द्रो᳓हितम᳓जनयन्त देवाः᳓।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/12_bRhadanyataH_paxa.md">
@@ -896,10 +896,10 @@ One of his wings was Brihat, and the other Rathantarr., vigorous with one same p
 
 +++([Generality](/devaH/meta/generality/) of Gods इति स्मारयति।)+++
 
-स वरु॑णः सा॒यम् अ॒ग्निर् भ॑वति॒, स मि॒त्रो भ॑वति प्रा॒तर् उ॒द्यन्।  
-स स॑वि॒ता भू॒त्वा ऽन्तरि॑क्षेण याति॒, स इन्द्रो॑ भू॒त्वा त॑पति मध्य॒तो दिव॑म्।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तद् आगो॒ - य ए॒वं +++(मन्त्रस्य)+++ वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑+++(=हिनस्ति)+++।  
-उद्-वे॑पय रोहित॒! प्र क्षि॑णीहि, ब्रह्म॒ज्यस्य॒+++(=ब्रह्महिंसकस्य)+++ प्रति॑ मुञ्च पाशान् ।।१३।।
+स᳓ व᳓रुणः साय᳓म् अग्नि᳓र् भवति, स᳓ मित्रो᳓ भवति प्रात᳓र् उद्य᳓न्।  
+स᳓ सविता᳓ भूत्वा᳓ ऽन्त᳓रिक्षेण याति, स᳓ इ᳓न्द्रो भूत्वा᳓ तपति मध्यतो᳓ दि᳓वम्।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓द् आ᳓गो - य᳓ एवं᳓ +++(मन्त्रस्य)+++ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति+++(=हिनस्ति)+++।  
+उ᳓द्-वेपय रोहित! प्र᳓ क्षिणीहि, ब्र᳓ह्मज्य᳓स्य+++(=ब्रह्महिंसकस्य)+++ प्र᳓ति मुञ्च पा᳓शान् ।।१३।।
 
 </details>
 </div>
@@ -967,10 +967,10 @@ At evening he is Varuna and Agni, ascending in the morning he is Mitra. As Savit
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/14_sahasrAhNyaM_viyatAvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑हस्रा॒ह्ण्यं विय॑तावस्य प॒क्षौ हरे॑र्हं॒सस्य॒ पत॑तः स्व॒र्गम्।  
-स दे॒वान्त्सर्वा॒नुर॑स्युप॒दद्य॑ सं॒पश्य॑न्याति॒ भुव॑नानि॒ विश्वा॑।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+स᳙हस्राह्ण्यं᳓ वि᳓यतावस्य पक्षौ᳓ ह᳓रेर्हंस᳓स्य प᳓ततः स्वर्ग᳓म्।  
+स᳓ देवा᳓न्त्स᳓र्वानु᳓रस्युपद᳓द्य संप᳓श्यन्याति भु᳓वनानि वि᳓श्वा।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/14_sahasrAhNyaM_viyatAvasya.md">
@@ -1037,10 +1037,10 @@ This gold-hued Harisa's wings, soaring to heaven spread o'er a thousand days' co
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/15_ayaM_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं स दे॒वो अ॒प्स्वन्तः स॒हस्र॑मूलः पुरु॒शाको॒ अत्त्रिः॑।  
-य इ॒दं विश्वं॒ भुव॑नं॒ जजा॑न।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+अयं᳓ स᳓ देवो᳓ अप्स्व᳓न्तः᳓ सह᳓स्रमूलः पुरुशा᳓को अ᳓त्त्रिः।  
+य᳓ इदं᳓ वि᳓श्वं भु᳓वनं ज᳓जान।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/15_ayaM_sa.md">
@@ -1108,10 +1108,10 @@ This is the God who dwells-within the waters, the thousand- rooted, many-powered
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/16_shukraM_vahanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शु॒क्रं व॑हन्ति॒ हर॑यो रघु॒ष्यदो॑ दे॒वं दि॒वि वर्च॑सा॒ भ्राज॑मानम्।  
-यस्यो॒र्ध्वा दिवं॑ त॒न्व१॒॑स्तप॑न्त्य॒र्वाङ्सु॒वर्णैः॑ पट॒रैर्वि भाति॑।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+शुक्रं᳓ वहन्ति ह᳓रयो रघुष्य᳓दो देवं᳓ दिवि᳓ व᳓र्चसा भ्रा᳓जमानम्।  
+य᳓स्योर्ध्वा᳓ दि᳓वं तन्व᳙स्त᳓पन्त्यर्वा᳓ङ्सुव᳓र्णैः पटरै᳓र्वि᳓ भा᳓ति।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/16_shukraM_vahanti.md">
@@ -1180,10 +1180,10 @@ With flying feet his tawny coursers carry the bright God through, the sky, aglow
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/17_yenAdityAnharitaH_saMvahanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येना॑दि॒त्यान्ह॒रितः॑ सं॒वह॑न्ति॒ येन॑ य॒ज्ञेन॑ ब॒हवो॒ यन्ति॑ प्रजा॒नन्तः॑।  
-यदेकं॒ ज्योति॑र्बहु॒धा वि॒भाति॑।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+ये᳓नादित्या᳓न्हरि᳓तः संव᳓हन्ति ये᳓न यज्ञे᳓न बह᳓वो य᳓न्ति प्रजान᳓न्तः।  
+य᳓दे᳓कं ज्यो᳓तिर्बहुधा᳓ विभा᳓ति।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/17_yenAdityAnharitaH_saMvahanti.md">
@@ -1260,10 +1260,10 @@ He beside whom his bay steeds bear the Adityas, by whom as sacrifice go many kno
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/18_sapta_yunjanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प्त यु॑ञ्जन्ति॒ रथ॒मेक॑चक्र॒मेको॒ अश्वो॑ वहति स॒प्तना॑मा।  
-त्रि॒नाभि॑ च॒क्रम॒जर॑मन॒र्वं यत्रे॒मा विश्वा॒ भुव॒नाधि॑ त॒स्थुः।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+सप्त᳓ युञ्जन्ति र᳓थमे᳓कचक्रमे᳓को अ᳓श्वो वहति सप्त᳓नामा।  
+त्रिना᳓भि चक्र᳓मज᳓रमनर्वं᳓ य᳓त्रेमा᳓ वि᳓श्वा भु᳓वना᳓धि तस्थुः᳓।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/18_sapta_yunjanti.md">
@@ -1328,10 +1328,10 @@ This seven make the one-wheeled chariot ready: bearing seven names the single co
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/19_aShTadhA_yukto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑ष्ट॒धा यु॒क्तो वह॑ति॒ वह्नि॑रु॒ग्रः पि॒ता दे॒वानां॑ जनि॒ता म॑ती॒नाम्।  
-ऋ॒तस्य॒ तन्तुं॒ मन॑सा मि॒मानः॒ सर्वा॒ दिशः॑ पवते मात॒रिश्वा॑।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+अ᳙ष्टधा᳓ युक्तो᳓ व᳓हति व᳓ह्निरुग्रः᳓ पिता᳓ देवा᳓नां जनिता᳓ मतीना᳓म्।  
+ऋत᳓स्य त᳓न्तुं म᳓नसा मिमा᳓नः स᳓र्वा दि᳓शः पवते मातरि᳓श्वा।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/19_aShTadhA_yukto.md">
@@ -1403,9 +1403,9 @@ Eight times attached the potent Courser draws it, Sire of the Gods, father of hy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/20_samyanchaM_tantum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒म्यञ्चं॒ तन्तुं॑ प्र॒दिशोऽनु॒ सर्वा॑ अ॒न्तर्गा॑य॒त्र्याम॒मृत॑स्य॒ गर्भे॑।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+सम्य᳓ञ्चं त᳓न्तुं प्रदि᳓शो᳓ऽनु स᳓र्वा अन्त᳓र्गायत्र्या᳓ममृ᳓तस्य ग᳓र्भे।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/20_samyanchaM_tantum.md">
@@ -1470,10 +1470,10 @@ The thread that goes through all celestial quarters within the Gayatri, womb of 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/21_nimruchastisro_vyuSho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नि॒म्रुच॑स्ति॒स्रो व्युषो॑ ह ति॒स्रस्त्रीणि॒ रजां॑सि॒ दिवो॑ अ॒ङ्ग ति॒स्रः।  
-वि॒द्मा ते॑ अग्ने त्रे॒धा ज॒नित्रं॑ त्रे॒धा दे॒वानां॒ जनि॑मानि वि॒द्म।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+निम्रु᳓चस्तिस्रो᳓ व्यु᳓षो ह तिस्र᳓स्त्री᳓णि र᳓जांसि दि᳓वो अङ्ग᳓ तिस्रः᳓।  
+विद्मा᳓ ते अग्ने त्रेधा᳓ जनि᳓त्रं त्रेधा᳓ देवा᳓नां ज᳓निमानि विद्म᳓।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/21_nimruchastisro_vyuSho.md">
@@ -1538,9 +1538,9 @@ There are the settings, three the upward risings, three are the- spaces, yea, an
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/22_vi_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि य और्णो॑त्पृथि॒वीं जाय॑मान॒ आ स॑मु॒द्रमद॑धाद॒न्तरि॑क्षे।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+वि᳓ य᳓ औ᳓र्णोत्पृथिवीं᳓ जा᳓यमान आ᳓ समुद्र᳓म᳓दधादन्त᳓रिक्षे।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/22_vi_ya.md">
@@ -1602,10 +1602,10 @@ He who, as soon as born, laid broad earth open, and set the ocean in the air's m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/23_tvamagne_kratubhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वम॑ग्ने॒ क्रतु॑भिः के॒तुभि॑र्हि॒तो॒३॒॑र्कः समि॑द्ध॒ उद॑रोचथा दि॒वि।  
-किम॒भ्या᳡र्चन्म॒रुतः॒ पृश्नि॑मातरो॒ यद्रोहि॑त॒मज॑नयन्त दे॒वाः।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+त्व᳓मग्ने क्र᳓तुभिः केतु᳓भिर्हितो᳙र्कः᳓ स᳓मिद्ध उ᳓दरोचथा दिवि᳓।  
+कि᳓मभ्या᳙र्चन्मरु᳓तः पृ᳓श्निमातरो य᳓द्रो᳓हितम᳓जनयन्त देवाः᳓।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/23_tvamagne_kratubhiH.md">
@@ -1673,10 +1673,10 @@ Thou, Agni, kind with lights and mental powers, hast up in heaven shone as the S
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/24_ya_AtmadA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य आ॑त्म॒दा ब॑ल॒दा यस्य॒ विश्व॑ उ॒पास॑ते प्र॒शिषं॒ यस्य॑ दे॒वाः।  
-यो॒३॒॑स्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पदः।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+य᳓ आत्मदा᳓ बलदा᳓ य᳓स्य वि᳓श्व उपा᳓सते प्रशि᳓षं य᳓स्य देवाः᳓।  
+यो᳙स्ये᳓शे द्विप᳓दो य᳓श्च᳓तुष्पदः।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/24_ya_AtmadA.md">
@@ -1743,10 +1743,10 @@ Giver of breath, giver of strength and vigour, he whose com- mandment all the Go
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/25_ekapAddvipado_bhUyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एक॑पा॒द्द्विप॑दो॒ भूयो॒ वि च॑क्रमे॒ द्विपा॒त्त्रिपा॑दम॒भ्ये᳡ति प॒श्चात्।  
-चतु॑ष्पाच्चक्रे॒ द्विप॑दामभिस्व॒रे सं॒पश्य॑न्प॒ङ्क्तिमु॑प॒तिष्ठ॑मानः।  
-तस्य॑ दे॒वस्य॑ क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑।  
-उद्वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न् ॥
+ए᳓कपाद्द्वि᳓पदो भू᳓यो वि᳓ चक्रमे द्वि᳓पात्त्रि᳓पादमभ्ये᳙ति पश्चा᳓त्।  
+च᳓तुष्पाच्चक्रे द्वि᳓पदामभिस्वरे᳓ संप᳓श्यन्पङ्क्ति᳓मुपति᳓ष्ठमानः।  
+त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
+उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/25_ekapAddvipado_bhUyo.md">
@@ -1816,8 +1816,8 @@ The single-footed hath outstepped the biped, the biped overtakes the triple-foot
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/26_kRShNAyAH_putro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॒ष्णायाः॑ पु॒त्रो अर्जु॑नो॒ रात्र्या॑ व॒त्सो᳡जा॑यत।  
-स ह॒ द्यामधि॑ रोहति॒ रुहो॑ रुरोह॒ रोहि॑तः ॥
+कृष्णा᳓याः पुत्रो᳓ अ᳓र्जुनो रा᳓त्र्या वत्सो᳙जायत।  
+स᳓ ह द्या᳓म᳓धि रोहति रु᳓हो रुरोह रो᳓हितः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/003_adhyAtmam/26_kRShNAyAH_putro.md">

@@ -37,8 +37,8 @@ A protective charm addressed to the panacea called A Jangida
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/01_jAngiDo-si_jangiDo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जा॑ङ्गि॒डो᳡ऽसि॑ जङ्गि॒डो रक्षि॑तासि जङ्गि॒डः।  
-द्वि॒पाच्चतु॑ष्पाद॒स्माकं॒ सर्वं॑ रक्षतु जङ्गि॒डः ॥
+जा᳙ङ्गिडो᳙ऽसि जङ्गिडो᳓ र᳓क्षितासि जङ्गिडः᳓।  
+द्विपा᳓च्च᳓तुष्पादस्मा᳓कं स᳓र्वं रक्षतु जङ्गिडः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/01_jAngiDo-si_jangiDo.md">
@@ -112,8 +112,8 @@ Jangida, thou art Angiras: thou art a guardian, Jangida. Let Jangida, keep safel
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/02_yA_gRtsyastripanchAshIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या गृत्स्य॑स्त्रिपञ्चा॒शीः श॒तं कृ॑त्या॒कृत॑श्च॒ ये।  
-सर्वा॑न्विनक्तु॒ तेज॑सोऽर॒सान् ज॑ङ्गि॒डस्क॑रत् ॥
+या᳓ गृ᳓त्स्यस्त्रिपञ्चाशीः᳓ शतं᳓ कृत्याकृ᳓तश्च ये᳓।  
+स᳓र्वान्विनक्तु ते᳓जसोऽरसा᳓न् जङ्गिड᳓स्करत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/02_yA_gRtsyastripanchAshIH.md">
@@ -226,8 +226,8 @@ Dice-witcheries, the fifty-threes, the hundred witchcraft-practi- sers, All thes
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/03_arasaM_kRtrimam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑र॒सं कृ॒त्रिमं॑ ना॒दम॑रसाः स॒प्त विस्र॑सः।  
-अपे॒तो ज॑ङ्गि॒डाम॑ति॒मिषु॒मस्ते॑व शातय ॥
+अ᳙रसं᳓ कृत्रि᳓मं नाद᳓मरसाः सप्त᳓ वि᳓स्रसः।  
+अ᳓पेतो᳓ जङ्गिडा᳓मतिमि᳓षुम᳓स्तेव शातय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/03_arasaM_kRtrimam.md">
@@ -302,8 +302,8 @@ Baffle the loud factitious howl, make impotent the seven decays. As when an arch
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/04_kRtyAdUShaNa_evAyamatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॑त्या॒दूष॑ण ए॒वायमथो॑ अराति॒दूष॑णः।  
-अथो॒ सह॑स्वाञ्जङ्गि॒डः प्र ण॒ आयूं॑षि तारिषत् ॥
+कृ᳙त्यादू᳓षण एवा᳓य᳓म᳓थो अरातिदू᳓षणः।  
+अ᳓थो स᳓हस्वाञ्जङ्गिडः᳓ प्र᳓ ण आ᳓यूंषि तारिषत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/04_kRtyAdUShaNa_evAyamatho.md">
@@ -368,8 +368,8 @@ This counteracts the sorceress, this banishes malignity: Then may victorious Jan
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/05_sa_jangiDasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स ज॑ङ्गि॒डस्य॑ महि॒मा परि॑ णः पातु वि॒श्वतः॑।  
-विष्क॑न्धं॒ येन॑ सा॒सह॒ संस्क॑न्ध॒मोज॒ ओज॑सा ॥
+स᳓ जङ्गिड᳓स्य महिमा᳓ प᳓रि णः पातु विश्व᳓तः।  
+वि᳓ष्कन्धं ये᳓न सास᳓ह सं᳓स्कन्धमो᳓ज ओ᳓जसा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/05_sa_jangiDasya.md">
@@ -441,8 +441,8 @@ Let Jangida's protecting might encompass us on every side. Wherewith he quells V
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/06_triShTvA_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रिष्ट्वा॑ दे॒वा अ॑जनय॒न्निष्ठि॑तं॒ भूम्या॒मधि॑।  
-तमु॒ त्वाङ्गि॑रा॒ इति॑ ब्राह्म॒णाः पू॒र्व्या वि॑दुः ॥
+त्रि᳓ष्ट्वा देवा᳓ अजनयन्नि᳓ष्ठितं भू᳓म्याम᳓धि।  
+त᳓मु त्वा᳓ङ्गिरा इ᳓ति ब्राह्मणाः᳓ पूर्व्या᳓ विदुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/06_triShTvA_devA.md">
@@ -507,8 +507,8 @@ Three times the Gods engendered thee fixt on the surface of the earth; The Brahm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/07_na_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न त्वा॒ पूर्वा॒ ओष॑धयो॒ न त्वा॑ तरन्ति॒ या नवाः॑।  
-विबा॑ध उ॒ग्रो ज॑ङ्गि॒डः प॑रि॒पाणः॑ सुम॒ङ्गलः॑ ॥
+न᳓ त्वा पू᳓र्वा ओ᳓षधयो न᳓ त्वा तरन्ति या᳓ न᳓वाः।  
+वि᳓बाध उग्रो᳓ जङ्गिडः᳓ परिपा᳓णः सुमङ्ग᳓लः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/07_na_tvA.md">
@@ -572,8 +572,8 @@ The ancient plants surpass thee not, nor any herbs of recent days. A potent char
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/08_athopadAna_bhagavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अथो॑पदान भगवो॒ जाङ्गि॒डामि॑तवीर्य।  
-पु॒रा त॑ उ॒ग्रा ग्र॑सत॒ उपेन्द्रो॑ वी॒र्यं᳡ ददौ ॥
+अ᳓थोपदान भगवो जा᳓ङ्गिडा᳓मितवीर्य।  
+पुरा᳓ त उग्रा᳓ ग्रसत उ᳓पे᳓न्द्रो वीर्यं᳙ ददौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/08_athopadAna_bhagavo.md">
@@ -651,8 +651,8 @@ Then when thou sprangest into life, Jangida of un-measured strength, Indra, O mi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/09_ugra_itte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒ग्र इत्ते॑ वनस्पत॒ इन्द्र॑ ओ॒ज्मान॒मा द॑धौ।  
-अमी॑वाः॒ सर्वा॑श्चा॒तयं॑ ज॒हि रक्षां॑स्योषधे ॥
+उग्र᳓ इ᳓त्ते वनस्पत इ᳓न्द्र ओज्मा᳓नमा᳓ दधौ।  
+अ᳓मीवाः स᳓र्वाश्चात᳓यं जहि᳓ र᳓क्षांस्योषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/09_ugra_itte.md">
@@ -717,8 +717,8 @@ To thee in truth, O Forest Tree, Indra the mighty One gave strength. Driving awa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/10_AsharIkaM_visharIkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आश॑रीकं॒ विश॑रीकं ब॒लासं॑ पृष्ट्याम॒यम्।  
-त॒क्मानं॑ वि॒श्वशा॑रदमर॒सान् ज॑ङ्गि॒डस्क॑रत् ॥
+आ᳓शरीकं वि᳓शरीकं बला᳓सं पृष्ट्यामय᳓म्।  
+तक्मा᳓नं विश्व᳓शारदमरसा᳓न् जङ्गिड᳓स्करत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/10_AsharIkaM_visharIkam.md">

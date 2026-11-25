@@ -33,8 +33,8 @@ Translated: Ludwig, p. 509; Zimmer, p. 389; Griffith, i. 305; Bloomfield, 21, 51
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि॑प्प॒ली क्षि॑प्तभेष॒ज्यु॒३॒॑ताति॑विद्धभेष॒जी।  
-तां दे॒वाः सम॑कल्पयन्नि॒यं जीवि॑त॒वा अल॑म् ॥
+पि᳙प्पली᳓ क्षिप्तभेषज्यु᳙ता᳓तिविद्धभेषजी᳓।  
+तां᳓ देवाः᳓ स᳓मकल्पयन्नियं᳓ जी᳓वितवा᳓ अ᳓लम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
@@ -107,8 +107,8 @@ The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि॑प्प॒ल्यः१॒॑ सम॑वदन्ताय॒तीर्जन॑ना॒दधि॑।  
-यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥
+पि᳙प्पल्यः᳙ स᳓मवदन्तायती᳓र्ज᳓ननाद᳓धि।  
+यं᳓ जीव᳓मश्न᳓वामहै न᳓ स᳓ रिष्याति पू᳓रुषः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
@@ -179,8 +179,8 @@ When from their origin they came, the Berries spake among themselves: The man wh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-असु॑रास्त्वा॒ न्य᳡खनन्दे॒वास्त्वोद॑वप॒न्पुनः॑।  
-वा॒तीकृ॑तस्य भेष॒जीमथो॑ क्षि॒प्तस्य॑ भेष॒जीम् ॥
+अ᳓सुरास्त्वा न्य᳙खनन्देवा᳓स्त्वो᳓दवपन्पु᳓नः।  
+वाती᳓कृतस्य भेषजी᳓म᳓थो क्षिप्त᳓स्य भेषजी᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">

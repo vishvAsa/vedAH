@@ -33,8 +33,8 @@ Translated: Henry, 46, 125; Griffith, i. 384.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/118_varmadhAraNam/01_marmANi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मर्मा॑णि ते॒ वर्म॑णा छादयामि॒ सोम॑स्त्वा॒ राजा॒मृते॒नानु॑ वस्ताम्।  
-उ॒रोर्वरी॑यो॒ वरु॑णस्ते कृणोतु॒ जय॑न्तं॒ त्वानु॑ दे॒वा म॑दन्तु ॥
+म᳓र्माणि ते व᳓र्मणा छादयामि सो᳓मस्त्वा रा᳓जामृ᳓तेना᳓नु वस्ताम्।  
+उरो᳓र्व᳓रीयो व᳓रुणस्ते कृणोतु ज᳓यन्तं त्वा᳓नु देवा᳓ मदन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/118_varmadhAraNam/01_marmANi_te.md">

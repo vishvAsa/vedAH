@@ -37,8 +37,8 @@ A charm against snakes
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/01_dadirhi_mahyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द॒दिर्हि मह्यं॒ वरु॑णो दि॒वः क॒विर्वचो॑भिरु॒ग्रैर्नि रि॑णामि ते वि॒षम्।  
-खा॒तमखा॑तमु॒त स॒क्तम॑ग्रभ॒मिरे॑व॒ धन्व॒न्नि ज॑जास ते वि॒षम् ॥
+ददि᳓र्हि᳓ म᳓ह्यं व᳓रुणो दिवः᳓ कवि᳓र्व᳓चोभिरुग्रै᳓र्नि᳓ रिणामि ते विष᳓म्।  
+खात᳓म᳓खातमुत᳓ सक्त᳓मग्रभमि᳓रेव ध᳓न्वन्नि᳓ जजास ते विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/013_sarpaviShanAshanam/01_dadirhi_mahyam.md">
@@ -102,8 +102,8 @@ Varuna, Sage of heaven, hath given me the gift: with spells of mighty power I dr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/02_yatte_apodakam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्ते॒ अपो॑दकं वि॒षं तत्त॑ ए॒तास्व॑ग्रभम्।  
-गृ॒ह्णामि॑ ते मध्य॒ममु॑त्त॒मं रस॑मु॒ताव॒मं भि॒यसा॑ नेश॒दादु॑ ते ॥
+य᳓त्ते अ᳓पोदकं विषं᳓ त᳓त्त एता᳓स्वग्रभम्।  
+गृह्णा᳓मि ते मध्यम᳓मुत्तमं᳓ र᳓समुता᳓वमं᳓ भिय᳓सा नेशदा᳓दु ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/013_sarpaviShanAshanam/02_yatte_apodakam.md">
@@ -169,8 +169,8 @@ All the non-fluid portion of thy venom, I receive in these. I take thy middlemos
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/03_vRShA_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वृषा॑ मे॒ रवो॒ नभ॑सा॒ न त॑न्य॒तुरु॒ग्रेण॑ ते॒ वच॑सा बाध॒ आदु॑ ते।  
-अ॒हं तम॑स्य॒ नृभि॑रग्रभं॒ रसं॒ तम॑स इव॒ ज्योति॒रुदे॑तु॒ सूर्यः॑ ॥
+वृ᳓षा मे र᳓वो न᳓भसा न᳓ तन्यतु᳓रुग्रे᳓ण ते व᳓चसा बाध आ᳓दु ते।  
+अहं᳓ त᳓मस्य नृ᳓भिरग्रभं र᳓सं त᳓मस इव ज्यो᳓तिरु᳓देतु सू᳓र्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/013_sarpaviShanAshanam/03_vRShA_me.md">
@@ -238,8 +238,8 @@ Strong is my cry like thunder with the rainy cloud: with power- ful incantation 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/04_chaxuShA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-चक्षु॑षा ते॒ चक्षु॑र्हन्मि वि॒षेण॑ हन्मि ते वि॒षम्।  
-अहे॑ म्रि॒यस्व॒ मा जी॑वीः प्र॒त्यग॒भ्ये॑तु त्वा वि॒षम् ॥
+च᳓क्षुषा ते च᳓क्षुर्हन्मि विषे᳓ण हन्मि ते विष᳓म्।  
+अ᳓हे म्रिय᳓स्व मा᳓ जीवीः प्रत्य᳓गभ्ये᳙तु त्वा विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/013_sarpaviShanAshanam/04_chaxuShA_te.md">
@@ -311,8 +311,8 @@ I with this eye destroy thine eye, and with this poison conquer thine. Live not,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/05_kairAta_pRshna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कैरा॑त॒ पृश्न॒ उप॑तृण्य॒ बभ्र॒ आ मे॑ शृणु॒तासि॑ता॒ अली॑काः।  
-मा मे॒ सख्युः॑ स्ता॒मान॒मपि॑ ष्ठाताश्रा॒वय॑न्तो॒ नि वि॒षे र॑मध्वम् ॥
+कै᳓रात पृ᳓श्न उ᳓पतृण्य ब᳓भ्र आ᳓ मे शृणुता᳓सिता अ᳓लीकाः।  
+मा᳓ मे स᳓ख्युः स्तामा᳓नम᳓पि ष्ठाताश्राव᳓यन्तो नि᳓ विषे᳓ रमध्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/013_sarpaviShanAshanam/05_kairAta_pRshna.md">
@@ -390,8 +390,8 @@ Listen to me, Black Snakes and hateful creatures, Lurker-in- Grass, Karait, and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/06_asitasya_taimAtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑सि॒तस्य॑ तैमा॒तस्य॑ ब॒भ्रोरपो॑दकस्य च।  
-सा॑त्रासा॒हस्या॒हं म॒न्योरव॒ ज्यामि॑व॒ धन्व॑नो॒ वि मु॑ञ्चामि॒ रथाँ॑ इव ॥
+अ᳙सित᳓स्य तैमात᳓स्य बभ्रो᳓र᳓पोदकस्य च।  
+सा᳙त्रासाह᳓स्याहं᳓ मन्यो᳓र᳓व ज्या᳓मिव ध᳓न्वनो वि᳓ मुञ्चामि र᳓थाँ इव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/013_sarpaviShanAshanam/06_asitasya_taimAtasya.md">
@@ -463,8 +463,8 @@ Even as the cord that strings the bow, I slacken, as it were, the cars. Of the A
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/07_AligI_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आलि॑गी च॒ विलि॑गी च पि॒ता च॑ म॒ता च॑।  
-वि॒द्म वः॑ स॒र्वतो॒ बन्ध्वर॑साः॒ किं क॑रिष्यथ ॥
+आ᳓लिगी च वि᳓लिगी च पिता᳓ च मता᳓ च।  
+विद्म᳓ वः सर्व᳓तो ब᳓न्ध्व᳓रसाः किं᳓ करिष्यथ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/013_sarpaviShanAshanam/07_AligI_cha.md">
@@ -529,8 +529,8 @@ And Aligi and Viligi, their father and the mother too,-- What will ye do? Your v
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/08_urugUlAyA_duhitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑रु॒गूला॑या दुहि॒ता जा॒ता दा॒स्यसि॑क्न्या।  
-प्र॒तङ्कं॑ द॒द्रुषी॑णां॒ सर्वा॑सामर॒सं वि॒षम् ॥
+उ᳙रुगू᳓लाया दुहिता᳓ जाता᳓ दास्य᳓सिक्न्या।  
+प्रत᳓ङ्कं दद्रु᳓षीणां स᳓र्वासामरसं᳓ विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/013_sarpaviShanAshanam/08_urugUlAyA_duhitA.md">
@@ -602,8 +602,8 @@ Daughter of Urugula, she-fiend whom the black, skinned mother bare-- All female 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/09_karNA_shvAvittadabravIdgireravacharantikA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क॒र्णा श्वा॒वित्तद॑ब्रवीद्गि॒रेर॑वचरन्ति॒का।  
-याः काश्चे॒माः ख॑नि॒त्रिमा॒स्तासा॑मर॒सत॑मं वि॒षम् ॥
+कर्णा᳓ श्वावि᳓त्त᳓दब्रवीद्गिरे᳓रवचरन्तिका᳓।  
+याः᳓ का᳓श्चेमाः᳓ खनित्रि᳓मास्ता᳓सामरस᳓तमं विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/013_sarpaviShanAshanam/09_karNA_shvAvittadabravIdgireravacharantikA.md">
@@ -668,8 +668,8 @@ Dwelling beside the mountain's slope, the quick-eared porcupine exclaimed: Of al
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/10_tAbuvaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ता॒बुवं॒ न ता॒बुवं॒ न घेत्त्वम॑सि ता॒बुव॑म्।  
-ता॒बुवे॑नार॒सं वि॒षम् ॥
+ताबु᳓वं न᳓ ताबु᳓वं न᳓ घे᳓त्त्व᳓मसि ताबु᳓वम्।  
+ताबु᳓वेनारसं᳓ विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/013_sarpaviShanAshanam/10_tAbuvaM_na.md">
@@ -732,8 +732,8 @@ Tabuva or not Tabuva, thou verily art not Tabuva: poison is killed by Tabuva. Ta
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/013_sarpaviShanAshanam/11_tastuvaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त॒स्तुवं॒ न त॒स्तुवं॒ न घेत्त्वम॑सि त॒स्तुव॑म्।  
-त॒स्तुवे॑नार॒सं वि॒षम् ॥
+तस्तु᳓वं न᳓ तस्तु᳓वं न᳓ घे᳓त्त्व᳓मसि तस्तु᳓वम्।  
+तस्तु᳓वेनारसं᳓ विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/013_sarpaviShanAshanam/11_tastuvaM_na.md">

@@ -37,8 +37,8 @@ A benediction on a cattle pen
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/01_saM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं वो॑ गो॒ष्ठेन॑ सु॒षदा॒ सं र॒य्या सं सुभू॑त्या।  
-अह॑र्जातस्य॒ यन्नाम॒ तेना॑ वः॒ सं सृ॑जामसि ॥
+सं᳓ वो गोष्ठे᳓न सुष᳓दा सं᳓ रय्या᳓ सं᳓ सु᳓भूत्या।  
+अ᳓हर्जातस्य य᳓न्ना᳓म ते᳓ना वः सं᳓ सृजामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/01_saM_vo.md">
@@ -105,8 +105,8 @@ A Pen wherein to dwell at ease, abundance and prosperity, Whate'er is called the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/02_saM_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं वः॑ सृजत्वर्य॒मा सं पू॒षा सं बृह॒स्पतिः॑।  
-समिन्द्रो॒ यो ध॑नंज॒यो मयि॑ पुष्यत॒ यद्वसु॑ ॥
+सं᳓ वः सृजत्वर्यमा᳓ सं᳓ पूषा᳓ सं᳓ बृ᳓हस्प᳓तिः।  
+स᳓मि᳓न्द्रो यो᳓ धनंजयो᳓ म᳓यि पुष्यत य᳓द्व᳓सु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/02_saM_vaH.md">
@@ -179,8 +179,8 @@ May Aryaman pour gifts on you, and Pushan, land Brihaspati, And Indra, winner of
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/03_sanjagmAnA_abibhyuShIrasmingoShThe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं॑जग्मा॒ना अबि॑भ्युषीर॒स्मिन्गो॒ष्ठे क॑री॒षिणीः॑।  
-बिभ्र॑तीः सो॒म्यं मध्व॑नमी॒वा उ॒पेत॑न ॥
+सं᳙जग्माना᳓ अ᳓बिभ्युषीरस्मि᳓न्गोष्ठे᳓ करीषि᳓णीः।  
+बि᳓भ्रतीः सोम्यं᳓ म᳓ध्वनमीवा᳓ उपे᳓तन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/03_sanjagmAnA_abibhyuShIrasmingoShThe.md">
@@ -251,8 +251,8 @@ Moving together, free from fear, with plenteous droppings in this pen, Bearing s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/04_ihaiva_gAva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒हैव गा॑व॒ एत॑ने॒हो शके॑व पुष्यत।  
-इ॒हैवोत प्र जा॑यध्वं॒ मयि॑ सं॒ज्ञान॑मस्तु वः ॥
+इहै᳓व᳓ गाव ए᳓तनेहो᳓ श᳓केव पुष्यत।  
+इहै᳓वो᳓त᳓ प्र᳓ जायध्वं म᳓यि संज्ञा᳓नमस्तु वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/04_ihaiva_gAva.md">
@@ -324,8 +324,8 @@ Come hither, to this place, O Cows: here thrive as though ye were manured. Even 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/05_shivo_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि॒वो वो॑ गो॒ष्ठो भ॑वतु शारि॒शाके॑व पुष्यत।  
-इ॒हैवोत प्र जा॑यध्वं॒ मया॑ वः॒ सं सृ॑जामसि ॥
+शिवो᳓ वो गोष्ठो᳓ भवतु शारिशा᳓केव पुष्यत।  
+इहै᳓वो᳓त᳓ प्र᳓ जायध्वं म᳓या वः सं᳓ सृजामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/05_shivo_vo.md">
@@ -401,8 +401,8 @@ Auspicious be this stall to you. Prosper like cultivated rice. Even here increas
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/06_mayA_gAvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मया॑ गावो॒ गोप॑तिना सचध्वम॒यं वो॑ गो॒ष्ठ इ॒ह पो॑षयि॒ष्णुः।  
-रा॒यस्पोषे॑ण बहु॒ला भव॑न्तीर्जी॒वा जीव॑न्ती॒रुप॑ वः सदेम ॥
+म᳓या गावो गो᳓पतिना सचध्वमयं᳓ वो गोष्ठ᳓ इह᳓ पोषयिष्णुः᳓।  
+राय᳓स्पो᳓षेण बहुला᳓ भ᳓वन्तीर्जीवा᳓ जी᳓वन्तीरु᳓प वः सदेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/06_mayA_gAvo.md">

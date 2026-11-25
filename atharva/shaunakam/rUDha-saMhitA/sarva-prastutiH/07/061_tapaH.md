@@ -37,8 +37,8 @@ A prayer for sacred knowledge and its fruits
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/061_tapaH/01_yadagne_tapasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॑ग्ने॒ तप॑सा॒ तप॑ उपत॒प्याम॑हे॒ तपः॑।  
-प्रि॒याः श्रु॒तस्य॑ भूया॒स्मायु॑ष्मन्तः सुमे॒धसः॑ ॥
+य᳓दग्ने त᳓पसा त᳓प उपतप्या᳓महे त᳓पः।  
+प्रियाः᳓ श्रुत᳓स्य भूयास्मा᳓युष्मन्तः सुमेध᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/061_tapaH/01_yadagne_tapasA.md">
@@ -104,8 +104,8 @@ Since, Agni, with our fervent zeal we undergo austerity, May we be dear to Sacre
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/061_tapaH/02_agne_tapastapyAmaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ तप॑स्तप्यामह॒ उप॑ तप्यामहे॒ तपः॑।  
-श्रु॒तानि॑ शृ॒ण्वन्तो॑ व॒यमायु॑ष्मन्तः सुमे॒धसः॑ ॥
+अ᳓ग्ने त᳓पस्तप्यामह उ᳓प तप्यामहे त᳓पः।  
+श्रुता᳓नि शृण्व᳓न्तो वय᳓मा᳓युष्मन्तः सुमेध᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/061_tapaH/02_agne_tapastapyAmaha.md">

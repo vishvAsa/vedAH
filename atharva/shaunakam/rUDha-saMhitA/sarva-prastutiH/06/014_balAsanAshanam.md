@@ -37,8 +37,8 @@ A charm against consumption
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/014_balAsanAshanam/01_asthisraMsaM_parusraMsamAsthitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑स्थिस्रं॒सं प॑रुस्रं॒समास्थि॑तं हृदयाम॒यम्।  
-ब॒लासं॒ सर्वं॑ नाशयाङ्गे॒ष्ठा यश्च॒ पर्व॑सु ॥
+अ᳙स्थिस्रंसं᳓ परुस्रंस᳓मा᳓स्थितं हृदयामय᳓म्।  
+बला᳓सं स᳓र्वं नाशयाङ्गेष्ठा᳓ य᳓श्च प᳓र्वसु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/014_balAsanAshanam/01_asthisraMsaM_parusraMsamAsthitam.md">
@@ -113,8 +113,8 @@ Remove thou all Decline that lurks within the members and the joints, The firmly
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/014_balAsanAshanam/02_nirbalAsaM_balAsinaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्ब॒लासं॑ बला॒सिनः॑ क्षि॒णोमि॑ मुष्क॒रं य॑था।  
-छि॒नद्म्य॑स्य॒ बन्ध॑नं॒ मूल॑मुर्वा॒र्वा इ॑व ॥
+नि᳓र्बला᳓सं बलासि᳓नः क्षिणो᳓मि मुष्करं᳓ यथा।  
+छिन᳓द्म्यस्य ब᳓न्धनं मू᳓लमुर्वार्वा᳓ इव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/014_balAsanAshanam/02_nirbalAsaM_balAsinaH.md">
@@ -183,8 +183,8 @@ From the consumptive man I pluck Decline as 'twere a severed part. I cut the bon
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/014_balAsanAshanam/03_nirbalAsetaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्बला॑से॒तः प्र प॑ताशु॒ङ्गः शि॑शु॒को य॑था।  
-अथो॒ इट॑ इव हाय॒नोऽप॑ द्रा॒ह्यवी॑रहा ॥
+नि᳓र्ब᳓लासेतः᳓ प्र᳓ पताशुङ्गः᳓ शिशुको᳓ यथा।  
+अ᳓थो इ᳓ट इव हायनो᳓ऽप द्राह्य᳓वीरहा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/014_balAsanAshanam/03_nirbalAsetaH_pra.md">

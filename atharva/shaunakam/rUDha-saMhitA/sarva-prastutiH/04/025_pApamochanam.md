@@ -37,8 +37,8 @@ A hymn of prayer and praise to Vayu and Savitar
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/01_vAyoH_saviturvidathAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒योः स॑वि॒तुर्वि॒दथा॑नि मन्महे॒ यावा॑त्म॒न्वद्वि॒शथो॒ यौ च॒ रक्ष॑थः।  
-यौ विश्व॑स्य परि॒भू ब॑भू॒वथु॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+वायोः᳓ सवितु᳓र्विद᳓थानि मन्महे या᳓वात्मन्व᳓द्विश᳓थो यौ᳓ च र᳓क्षथः।  
+यौ᳓ वि᳓श्वस्य परिभू᳓ बभूव᳓थुस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/01_vAyoH_saviturvidathAni.md">
@@ -108,8 +108,8 @@ I think on Vayu's and Savitar's holy rites, ye twain who penetrate and guard the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/02_yayoH_sankhyAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ययोः॒ संख्या॑ता॒ वरि॑मा॒ पार्थि॑वानि॒ याभ्यां॒ रजो॑ युपि॒तम॒न्तरि॑क्षे।  
-ययोः॑ प्रा॒यं नान्वा॑नशे॒ कश्च॒न तौ नो॑ मुञ्चत॒मंह॑सः ॥
+य᳓योः सं᳓ख्याता व᳓रिमा पा᳓र्थिवानि या᳓भ्यां र᳓जो युपित᳓मन्त᳓रिक्षे।  
+य᳓योः प्रायं᳓ ना᳓न्वानशे क᳓श्चन᳓ तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/02_yayoH_sankhyAtA.md">
@@ -177,8 +177,8 @@ Ye who have counted up the earth's expanses, and in the sky smoothed out the air
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/03_tava_vrate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तव॑ व्र॒ते नि वि॑शन्ते॒ जना॑स॒स्त्वय्युदि॑ते॒ प्रेर॑ते चित्रभानो।  
-यु॒वं वा॑यो सवि॒ता च॒ भुव॑नानि रक्षथ॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+त᳓व व्रते᳓ नि᳓ विशन्ते ज᳓नासस्त्व᳓य्यु᳓दिते प्रे᳓रते चित्रभानो।  
+युवं᳓ वायो सविता᳓ च भु᳓वनानि रक्षथस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/03_tava_vrate.md">
@@ -242,8 +242,8 @@ Beauteously bright! men rest in thy dominion when thou hast risen up and hastene
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/04_apeto_vAyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपे॒तो वा॑यो सवि॒ता च॑ दुष्कृ॒तमप॒ रक्षां॑सि॒ शिमि॑दां च सेधतम्।  
-सं ह्यू॒३॒॑र्जया॑ सृ॒जथः॒ सं बले॑न॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+अ᳓पेतो᳓ वायो सविता᳓ च दुष्कृत᳓म᳓प र᳓क्षांसि शि᳓मिदां च सेधतम्।  
+सं᳓ ह्यू᳙र्ज᳓या सृज᳓थः सं᳓ ब᳓लेन तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/04_apeto_vAyo.md">
@@ -310,8 +310,8 @@ Hence, Vayu, Savitar drive evil action, chase Simida away, drive off the demons.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/05_rayiM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-र॒यिं मे॒ पोषं॑ सवि॒तोत वा॒युस्त॒नू दक्ष॒मा सु॑वतां सु॒शेव॑म्।  
-अ॑य॒क्ष्मता॑तिं॒ मह॑ इ॒ह ध॑त्तं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+रयिं᳓ मे पो᳓षं सवितो᳓त᳓ वायु᳓स्तनू᳓ द᳓क्षमा᳓ सुवतां सुशे᳓वम्।  
+अ᳙यक्ष्म᳓तातिं म᳓ह इह᳓ धत्तं तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/05_rayiM_me.md">
@@ -377,8 +377,8 @@ Of their own selves let Savitar and Vayu send favourable strength and wealth and
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/06_pra_sumatim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र सु॑म॒तिं स॑वितर्वाय ऊ॒तये॒ मह॑स्वन्तं मत्स॒रं मा॑दयाथः।  
-अ॒र्वाग्वा॒मस्य॑ प्र॒वतो॒ नि य॑च्छतं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+प्र᳓ सुमतिं᳓ सवितर्वाय ऊत᳓ये म᳓हस्वन्तं मत्सरं᳓ मादयाथः।  
+अर्वा᳓ग्वाम᳓स्य प्रव᳓तो नि᳓ यच्छतं तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/06_pra_sumatim.md">
@@ -447,8 +447,8 @@ Ye, Savitar and Vayu, to assist us, enjoy the hymn and the delightful cheerer. C
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/07_upa_shreShThA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒प श्रेष्ठा॑ न आ॒शिषो॑ दे॒वयो॒र्धाम॑न्नस्थिरन्।  
-स्तौमि॑ दे॒वं स॑वि॒तारं॑ च वा॒युं तौ नो॑ मुञ्चत॒मंह॑सः ॥
+उप᳓ श्रे᳓ष्ठा न आशि᳓षो देव᳓योर्धा᳓मन्नस्थिरन्।  
+स्तौ᳓मि देवं᳓ सविता᳓रं च वायुं᳓ तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/07_upa_shreShThA.md">

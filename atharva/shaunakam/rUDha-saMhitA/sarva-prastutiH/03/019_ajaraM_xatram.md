@@ -37,8 +37,8 @@ A glorification of the office of a king's household priest
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/01_saMshitaM_ma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-संशि॑तं म इ॒दं ब्रह्म॒ संशि॑तं वी॒र्यं१॒॑ बल॑म्।  
-संशि॑तं क्ष॒त्रम॒जर॑मस्तु जि॒ष्णुर्येषा॑मस्मि पु॒रोहि॑तः ॥
+सं᳓शितं म इदं᳓ ब्र᳓ह्म सं᳓शितं वीर्यं᳙ ब᳓लम्।  
+सं᳓शितं क्षत्र᳓मज᳓रमस्तु जिष्णु᳓र्ये᳓षामस्मि पुरो᳓हितः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/01_saMshitaM_ma.md">
@@ -112,8 +112,8 @@ Quickened is this my priest rank, quickened is manly strength and force, Quicken
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/02_samahameShAM_rAShTram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सम॒हमे॒षां रा॒ष्ट्रं स्या॑मि॒ समोजो॑ वी॒र्यं१॒॑ बल॑म्।  
-वृ॒श्चामि॒ शत्रू॑णां बा॒हून॒नेन॑ ह॒विषा॒हम् ॥
+स᳓मह᳓मेषां᳓ राष्ट्रं᳓ स्यामि स᳓मो᳓जो वीर्यं᳙ ब᳓लम्।  
+वृश्चा᳓मि श᳓त्रूणां बाहू᳓नने᳓न हवि᳓षाह᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/02_samahameShAM_rAShTram.md">
@@ -179,8 +179,8 @@ I quicken these men's princely sway, the might, the manly strength and force; I 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/03_nIchaiH_padyantAmadhare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नी॒चैः प॑द्यन्ता॒मध॑रे भवन्तु॒ ये नः॑ सू॒रिं म॒घवा॑नं पृत॒न्यान्।  
-क्षि॒णामि॒ ब्रह्म॑णा॒मित्रा॒नुन्न॑यामि॒ स्वान॒हम् ॥
+नीचैः᳓ पद्यन्ताम᳓धरे भवन्तु ये᳓ नः सूरिं᳓ मघ᳓वानं पृतन्या᳓न्।  
+क्षिणा᳓मि ब्र᳓ह्मणामि᳓त्रानु᳓न्नयामि स्वा᳓नह᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/03_nIchaiH_padyantAmadhare.md">
@@ -247,8 +247,8 @@ Down fall the men, low let them lie, who fight against our mighty prince, I ruin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/04_tIxNIyAMsaH_parashoragnestIxNatarA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तीक्ष्णी॑यांसः पर॒शोर॒ग्नेस्ती॒क्ष्णत॑रा उ॒त।  
-इन्द्र॑स्य॒ वज्रा॒त्तीक्ष्णी॑यांसो॒ येषा॒मस्मि॑ पु॒रोहि॑तः ॥
+ती᳓क्ष्णीयांसः परशो᳓रग्ने᳓स्तीक्ष्ण᳓तरा उत᳓।  
+इ᳓न्द्रस्य व᳓ज्रात्ती᳓क्ष्णीयांसो ये᳓षाम᳓स्मि पुरो᳓हितः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/04_tIxNIyAMsaH_parashoragnestIxNatarA.md">
@@ -311,8 +311,8 @@ Keener than is the axe's edge, keener than Agni's self are they, Keener than Ind
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/05_eShAmahamAyudhA_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒षाम॒हमायु॑धा॒ सं स्या॑म्ये॒षां रा॒ष्ट्रं सु॒वीरं॑ वर्धयामि।  
-ए॒षां क्ष॒त्रम॒जर॑मस्तु जि॒ष्ण्वे॒३॒॑षां चि॒त्तं विश्वे॑ऽवन्तु दे॒वाः ॥
+एषा᳓मह᳓मा᳓युधा सं᳓ स्याम्येषां᳓ राष्ट्रं᳓ सुवी᳓रं वर्धयामि।  
+एषां᳓ क्षत्र᳓मज᳓रमस्तु जिष्ण्वे᳙षां᳓ चित्तं᳓ वि᳓श्वेऽवन्तु देवाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/05_eShAmahamAyudhA_sam.md">
@@ -383,9 +383,9 @@ The weapons of these men I whet and sharpen, with valiant heroes I increase thei
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/06_uddharShantAM_maghavanvAjinAnyudvIrANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उद्ध॑र्षन्तां मघव॒न्वाजि॑ना॒न्युद्वी॒राणां॒ जय॑तामेतु॒ घोषः॑।  
-पृथ॒ग्घोषा॑ उलु॒लयः॑ केतु॒मन्त॒ उदी॑रताम्।  
-दे॒वा इन्द्र॑ज्येष्ठा म॒रुतो॑ यन्तु॒ सेन॑या ॥
+उ᳓द्धर्षन्तां मघवन्वा᳓जिनान्यु᳓द्वीरा᳓णां ज᳓यतामेतु घो᳓षः।  
+पृ᳓थग्घो᳓षा उलुल᳓यः केतुम᳓न्त उ᳓दीरताम्।  
+देवा᳓ इ᳓न्द्रज्येष्ठा मरु᳓तो यन्तु से᳓नया ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/06_uddharShantAM_maghavanvAjinAnyudvIrANAm.md">
@@ -463,8 +463,8 @@ ketumantu udīratām;* with **e** and **f** as in our text.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/07_pretA_jayatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रेता॒ जय॑ता नर उ॒ग्रा वः॑ सन्तु बा॒हवः॑।  
-ती॒क्ष्णेष॑वोऽब॒लध॑न्वनो हतो॒ग्रायु॑धा अब॒लानु॒ग्रबा॑हवः ॥
+प्रे᳓ता ज᳓यता नर उग्रा᳓ वः सन्तु बाह᳓वः।  
+तीक्ष्णे᳓षवोऽबल᳓धन्वनो हतोग्रा᳓युधा अबला᳓नुग्र᳓बाहवः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/07_pretA_jayatA.md">
@@ -531,8 +531,8 @@ Advance and be victorious, men I Exceeding mighty be your arms! Smite with sharp
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/08_avasRShTA_parA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अव॑सृष्टा॒ परा॑ पत॒ शर॑व्ये॒ ब्रह्म॑संशिते।  
-जया॒मित्रा॒न्प्र प॑द्यस्व ज॒ह्ये॑षां॒ वरं॑वरं॒ मामीषां॑ मोचि॒ कश्च॒न ॥
+अ᳓वसृष्टा प᳓रा पत श᳓रव्ये ब्र᳓ह्मसंशिते।  
+ज᳓यामि᳓त्रान्प्र᳓ पद्यस्व जह्ये᳙षां व᳓रंवरं मा᳓मी᳓षां मोचि क᳓श्चन᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/08_avasRShTA_parA.md">

@@ -37,7 +37,7 @@ A prayer to Heaven and Earth for protection and assistance
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/01_dive_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दिवे॒ स्वाहा॑ ॥१॥
+दि᳓वे स्वा᳓हा ॥१॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/01_dive_svAhA.md">
@@ -83,7 +83,7 @@ All hail to Heaven!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/02_pRthivyai_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॒थि॒व्यै स्वाहा॑ ॥२॥
+पृथिव्यै᳓ स्वा᳓हा ॥२॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/02_pRthivyai_svAhA.md">
@@ -129,7 +129,7 @@ All hail to Earth!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/03_antarixAya_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तरि॑क्षाय॒ स्वाहा॑ ॥
+अन्त᳓रिक्षाय स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/03_antarixAya_svAhA.md">
@@ -175,7 +175,7 @@ All hail to Air!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/04_antarixAya_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तरि॑क्षाय॒ स्वाहा॑ ॥
+अन्त᳓रिक्षाय स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/04_antarixAya_svAhA.md">
@@ -221,7 +221,7 @@ All hail to Air!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/05_dive_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वे स्वाहा॑ ॥
+दिवे᳓ स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/05_dive_svAhA.md">
@@ -267,7 +267,7 @@ All hail to Heaven!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/06_pRthivyai_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॒थि॒व्यै स्वाहा॑ ॥
+पृथिव्यै᳓ स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/06_pRthivyai_svAhA.md">
@@ -314,8 +314,8 @@ All hail to Eartht!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/07_sUryo_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्यो॑ मे॒ चक्षु॒र्वातः॑ प्रा॒णो॒३॒॑न्तरि॑क्षमा॒त्मा पृ॑थि॒वी शरी॑रम्।  
-अ॒स्तृ॒तो नामा॒हम॒यम॑स्मि॒ स आ॒त्मानं॒ नि द॑धे॒ द्यावा॑पृथि॒वीभ्यां॑ गोपी॒थाय॑ ॥
+सू᳓र्यो मे च᳓क्षुर्वा᳓तः प्राणो᳙न्त᳓रिक्षमात्मा᳓ पृथिवी᳓ श᳓रीरम्।  
+अस्तृतो᳓ ना᳓माह᳓मय᳓मस्मि स᳓ आत्मा᳓नं नि᳓ दधे द्या᳓वापृथिवी᳓भ्यां गोपीथा᳓य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/07_sUryo_me.md">
@@ -376,9 +376,9 @@ N/A
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/08_udAyurudbalamutkRtamutkRtyAmunmanIShAmudindriya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदायु॒रुद्बल॒मुत्कृ॒तमुत्कृ॒त्यामुन्म॑नी॒षामुदि॑न्द्रि॒यम्।  
-आयु॑ष्कृ॒दायु॑ष्पत्नी॒ स्वधा॑वन्तौ गो॒पा मे॑ स्तं गोपा॒यतं॑ मा।  
-आ॒त्म॒सदौ॑ मे स्तं॒ मा मा॑ हिंसिष्टम् ॥
+उ᳓दा᳓युरु᳓द्ब᳓लमु᳓त्कृत᳓मु᳓त्कृत्या᳓मु᳓न्मनीषा᳓मु᳓दिन्द्रिय᳓म्।  
+आ᳓युष्कृदा᳓युष्पत्नी स्व᳓धावन्तौ गोपा᳓ मे स्तं गोपाय᳓तं मा।  
+आत्मस᳓दौ मे स्तं मा᳓ मा हिंसिष्टम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/08_udAyurudbalamutkRtamutkRtyAmunmanIShAmudindriya.md">

@@ -37,8 +37,8 @@ A prayer for riches
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/005_jagato_rAjA/01_indro_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॒ राजा॒ जग॑तश्चर्षणी॒नामधि॑ क्षमि॒ विषु॑रूपं॒ यद॑स्ति।  
-ततो॑ ददाति दा॒शुषे॒ वसू॑नि॒ चोद॒द्राध॒ उप॑स्तुतश्चिद॒र्वाक् ॥
+इ᳓न्द्रो रा᳓जा ज᳓गतश्चर्षणीना᳓म᳓धि क्षमि वि᳓षुरूपं य᳓दस्ति।  
+त᳓तो ददाति दाशु᳓षे व᳓सूनि चो᳓दद्रा᳓ध उ᳓पस्तुतश्चिदर्वा᳓क् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/005_jagato_rAjA/01_indro_rAjA.md">

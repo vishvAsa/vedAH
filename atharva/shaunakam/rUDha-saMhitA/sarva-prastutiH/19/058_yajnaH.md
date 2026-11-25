@@ -37,8 +37,8 @@ A prayer for prosperity, accompanying a sacrifice
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/01_ghRtasya_jUtiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-घृ॒तस्य॑ जू॒तिः सम॑ना सदे॑वा संवत्स॒रं ह॒विषा॑ व॒र्धय॑न्ती।  
-श्रोत्रं॒ चक्षुः॑ प्रा॒णोऽच्छि॑न्नो नो अ॒स्त्वच्छि॑न्ना व॒यमायु॑षो॒ वर्च॑सः ॥
+घृत᳓स्य जूतिः᳓ स᳓मना᳓ स᳓देवा संवत्सरं᳓ हवि᳓षा वर्ध᳓यन्ती।  
+श्रो᳓त्रं च᳓क्षुः प्राणो᳓ऽच्छिन्नो नो अस्त्व᳓च्छिन्ना वय᳓मा᳓युषो व᳓र्चसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/058_yajnaH/01_ghRtasya_jUtiH.md">
@@ -114,8 +114,8 @@ Still equal be the flow of butter ever causing the Year to prosper with oblation
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/02_upAsmAnprANo_hvayatAmupa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उपा॒स्मान्प्रा॒णो ह्व॑यता॒मुप॑ प्रा॒णं ह॑वामहे।  
-वर्चो॑ जग्राह पृथि॒व्य१॒॑न्तरि॑क्षं॒ वर्चः॒ सोमो॒ बृह॒स्पति॑र्विध॒त्ता ॥
+उ᳓पास्मा᳓न्प्राणो᳓ ह्वयतामु᳓प प्राणं᳓ हवामहे।  
+व᳓र्चो जग्राह पृथिव्य᳙न्त᳓रिक्षं व᳓र्चः सो᳓मो बृ᳓हस्प᳓तिर्विधत्ता᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/058_yajnaH/02_upAsmAnprANo_hvayatAmupa.md">
@@ -189,8 +189,8 @@ Let lively breath invite us: we call vital breath to visit us. Earth and air's m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/03_varchaso_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वर्च॑सो द्यावापृथि॒वी सं॒ग्रह॑णी बभू॒वथु॒र्वर्चो॑ गृहीत्वा पृथि॒वीमनु॒ सं च॑रेम।  
-य॒शसं॒ गावो॒ गोप॑ति॒मुप॑ तिष्ठन्त्याय॒तीर्यशो॑ गृही॒त्वा पृ॑थि॒वीमनु॒ सं च॑रेम ॥
+व᳓र्चसो द्यावापृथिवी᳓ संग्र᳓हणी बभूव᳓थुर्व᳓र्चो गृहीत्वा पृथिवी᳓म᳓नु सं᳓ चरेम।  
+यश᳓सं गा᳓वो गो᳓पतिमु᳓प तिष्ठन्त्यायती᳓र्य᳓शो गृहीत्वा᳓ पृथिवी᳓म᳓नु सं᳓ चरेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/058_yajnaH/03_varchaso_dyAvApRthivI.md">
@@ -273,8 +273,8 @@ The earth and heaven have come to be two gatherers up of vigo- rous might. So le
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/04_vrajaM_kRNudhvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्र॒जं कृ॑णुध्वं॒ स हि वो॑ नृ॒पाणो॒ वर्मा॑ सीव्यध्वं बहु॒ला पृ॒थूनि॑।  
-पुरः॑ कृणुध्व॒माय॑सी॒रधृ॑ष्टा॒ मा वः॑ सुस्रोच्चम॒सो दृं॑हता॒ तम् ॥
+व्रजं᳓ कृणुध्वं स᳓ हि᳓ वो नृपा᳓णो व᳓र्मा सीव्यध्वं बहुला᳓ पृथू᳓नि।  
+पु᳓रः कृणुध्वमा᳓यसीर᳓धृष्टा मा᳓ वः सुस्रोच्चमसो᳓ दृंहता त᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/058_yajnaH/04_vrajaM_kRNudhvam.md">
@@ -348,8 +348,8 @@ Prepare the cow-stall, for there drink your heroes: stitch ye the coats of armou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/05_yajnasya_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒ज्ञस्य॒ चक्षुः॒ प्रभृ॑ति॒र्मुखं॑ च वा॒चा श्रोत्रे॑ण॒ मन॑सा जुहोमि।  
-इ॒मं य॒ज्ञं वित॑तं वि॒श्वक॑र्म॒णा दे॒वा य॑न्तु सुमन॒स्यमा॑नाः ॥
+यज्ञ᳓स्य च᳓क्षुः प्र᳓भृतिर्मु᳓खं च वाचा᳓ श्रो᳓त्रेण म᳓नसा जुहोमि।  
+इमं᳓ यज्ञं᳓ वि᳓ततं विश्व᳓कर्मणा᳓ देवा᳓ यन्तु सुमनस्य᳓मानाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/058_yajnaH/05_yajnasya_chaxuH.md">
@@ -413,8 +413,8 @@ The eye of sacrifice, source and beginning with voice, car, spirit unto him I of
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/06_ye_devAnAmRtvijo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये दे॒वाना॑मृ॒त्विजो॒ ये च॑ य॒ज्ञिया॒ येभ्यो॑ ह॒व्यं क्रि॒यते॑ भाग॒धेय॑म्।  
-इ॒मं य॒ज्ञं स॒ह पत्नी॑भि॒रेत्य॒ याव॑न्तो दे॒वास्त॑वि॒षा मा॑दयन्ताम् ॥
+ये᳓ देवा᳓नामृत्वि᳓जो ये᳓ च यज्ञि᳓या ये᳓भ्यो हव्यं᳓ क्रिय᳓ते भागधे᳓यम्।  
+इमं᳓ यज्ञं᳓ सह᳓ प᳓त्नीभिरे᳓त्य या᳓वन्तो देवा᳓स्तविषा᳓ मादयन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/058_yajnaH/06_ye_devAnAmRtvijo.md">

@@ -37,8 +37,8 @@ A charm to ensure victory in battle
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/085_ariShTanemiH/01_tyamU_Shu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्यमू॒ षु वा॒जिनं॑ दे॒वजू॑तं॒ सहो॑वानं तरु॒तारं॒ रथा॑नाम्।  
-अरि॑ष्टनेमिं पृतना॒जिमा॒शुं स्व॒स्तये॒ तार्क्ष्य॑मि॒हा हु॑वेम ॥
+त्य᳓मू षु᳓ वाजि᳓नं देव᳓जूतं स᳓होवानं तरुता᳓रं र᳓थानाम्।  
+अ᳓रिष्टनेमिं पृतनाजि᳓माशुं᳓ स्वस्त᳓ये ता᳓र्क्ष्यमिहा᳓ हुवेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/085_ariShTanemiH/01_tyamU_Shu.md">

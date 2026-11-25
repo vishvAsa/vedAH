@@ -37,8 +37,8 @@ A charm to be used at venesection
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/01_amUryA_yanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मूर्या यन्ति॑ यो॒षितो॑ हि॒रा लोहि॑तवाससः।  
-अ॒भ्रात॑र इव जा॒मय॒स्तिष्ठ॑न्तु ह॒तव॑र्चसः ॥
+अमू᳓र्या᳓ य᳓न्ति योषि᳓तो हिरा᳓ लो᳓हितवाससः।  
+अभ्रा᳓तर इव जाम᳓यस्ति᳓ष्ठन्तु हत᳓वर्चसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/01_amUryA_yanti.md">
@@ -105,8 +105,8 @@ Those maidens there, the veins, who run their course in robes of ruddy hue, Must
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/02_tiShThAvare_tiShTha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तिष्ठा॑वरे॒ तिष्ठ॑ पर उ॒त त्वं ति॑ष्ठ मध्यमे।  
-क॑निष्ठि॒का च॒ तिष्ठ॑ति तिष्ठा॒दिद्ध॒मनि॑र्म॒ही ॥
+ति᳓ष्ठावरे ति᳓ष्ठ पर उत᳓ त्वं᳓ तिष्ठ मध्यमे।  
+क᳙निष्ठिका᳓ च ति᳓ष्ठति तिष्ठादि᳓द्धम᳓निर्मही᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/02_tiShThAvare_tiShTha.md">
@@ -168,8 +168,8 @@ Stay still, thou upper vein, stay still, thou lower, stay, thou midmost one, The
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/03_shatasya_dhamanInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तस्य॑ ध॒मनी॑नां स॒हस्र॑स्य हि॒राणा॑म्।  
-अस्थु॒रिन्म॑ध्य॒मा इ॒माः सा॒कमन्ता॑ अरंसत ॥
+शत᳓स्य धम᳓नीनां सह᳓स्रस्य हिरा᳓णाम्।  
+अ᳓स्थुरि᳓न्मध्यमा᳓ इमाः᳓ साक᳓म᳓न्ता अरंसत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/03_shatasya_dhamanInAm.md">
@@ -232,8 +232,8 @@ Among a thousand vessels charged with blood, among a thousand veins, Even these 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/04_pari_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ वः॒ सिक॑तावती ध॒नूर्बृ॑ह॒त्य॑क्रमीत्।  
-तिष्ठ॑ते॒लय॑ता॒ सु क॑म् ॥
+प᳓रि वः सि᳓कतावती धनू᳓र्बृहत्य᳙क्रमीत्।  
+ति᳓ष्ठतेल᳓यता सु᳓ कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/04_pari_vaH.md">

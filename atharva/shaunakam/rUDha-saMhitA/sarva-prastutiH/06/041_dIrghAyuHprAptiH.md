@@ -37,8 +37,8 @@ A prayer for protection, long life, and various blessings
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मन॑से॒ चेत॑से धि॒य आकू॑तय उ॒त चित्त॑ये।  
-म॒त्यै श्रु॒ताय॒ चक्ष॑से वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
+म᳓नसे चे᳓तसे धिय᳓ आ᳓कूतय उत᳓ चि᳓त्तये।  
+मत्यै᳓ श्रुता᳓य च᳓क्षसे विधे᳓म हवि᳓षा वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
@@ -101,8 +101,8 @@ For mind, for intellect, for thought, for purpose, for intelligence,. For sense,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑पा॒नाय॑ व्या॒नाय॑ प्रा॒णाय॒ भूरि॑धायसे।  
-सर॑स्वत्या उरु॒व्यचे॑ वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
+अ᳙पाना᳓य व्याना᳓य प्राणा᳓य भू᳓रिधायसे।  
+स᳓रस्वत्या उरुव्य᳓चे विधे᳓म हवि᳓षा वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
@@ -163,8 +163,8 @@ For expiration, vital air, and breath that amply nourishes, Let us with sacrific
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/03_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॑ हासिषु॒रृष॑यो॒ दैव्या॒ ये त॑नू॒पा ये न॑स्त॒न्व᳡स्तनू॒जाः।  
-अम॑र्त्या॒ मर्त्यां॑ अ॒भि नः॑ सचध्व॒मायु॑र्धत्त प्रत॒रं जी॒वसे॑ नः ॥
+मा᳓ नो हासिषुरृ᳓षयो दै᳓व्या ये᳓ तनूपा᳓ ये᳓ नस्तन्व᳙स्तनूजाः᳓।  
+अ᳓मर्त्या म᳓र्त्यां अभि᳓ नः सचध्वमा᳓युर्धत्त प्रतरं᳓ जीव᳓से नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/041_dIrghAyuHprAptiH/03_mA_no.md">

@@ -37,8 +37,8 @@ A protective charm accompanying investiture with an amulet of Darbha grass
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/01_yatte_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्ते॑ दर्भ ज॒रामृ॑त्युः श॒तं वर्म॑सु॒ वर्म॑ ते।  
-तेने॒मं व॒र्मिणं॑ कृ॒त्वा स॒पत्नां॑ ज॒हि वी॒र्यैः᳡ ॥
+य᳓त्ते दर्भ जरा᳓मृत्युः शतं᳓ व᳓र्मसु व᳓र्म ते।  
+ते᳓नेमं᳓ वर्मि᳓णं कृत्वा᳓ सप᳓त्नां जहि᳓ वीर्यैः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/01_yatte_darbha.md">
@@ -106,8 +106,8 @@ Darbha, with that good shield of thine, of hundred guards tilt death in eld, Arm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/02_shataM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तं ते॑ दर्भ॒ वर्मा॑णि स॒हस्रं॑ वी॒र्या᳡णि ते।  
-तम॒स्मै विश्वे॒ त्वां दे॑वा ज॒रसे॒ भर्त॒वा अ॑दुः ॥
+शतं᳓ ते दर्भ व᳓र्माणि सह᳓स्रं वीर्या᳙णि ते।  
+त᳓मस्मै᳓ वि᳓श्वे त्वां᳓ देवा जर᳓से भ᳓र्तवा᳓ अदुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/02_shataM_te.md">
@@ -173,8 +173,8 @@ Darbha, thou hast a hundred shields, thou hast a thousand. manly powers. All God
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/03_tvAmAhurdevavarma_tvAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वामा॑हुर्देव॒वर्म॒ त्वां द॑र्भ॒ ब्रह्म॑ण॒स्पति॑म्।  
-त्वामिन्द्र॑स्याहु॒र्वर्म॒ त्वं रा॒ष्ट्राणि॑ रक्षसि ॥
+त्वा᳓माहुर्देवव᳓र्म त्वां᳓ दर्भ ब्र᳓ह्मणस्प᳓तिम्।  
+त्वा᳓मि᳓न्द्रस्याहुर्व᳓र्म त्वं᳓ राष्ट्रा᳓णि रक्षसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/03_tvAmAhurdevavarma_tvAm.md">
@@ -237,8 +237,8 @@ They call thee, 'Darbha, shield of Gods, they call the Brahmanas- pati. They cal
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/04_sapatnaxayaNaM_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑पत्न॒क्षय॑णं दर्भ द्विष॒तस्तप॑नं हृ॒दः।  
-म॒णिं क्ष॒त्रस्य॒ वर्ध॑नं तनू॒पानं॑ कृणोमि ते ॥
+स᳙पत्नक्ष᳓यणं दर्भ द्विषत᳓स्त᳓पनं हृदः᳓।  
+मणिं᳓ क्षत्र᳓स्य व᳓र्धनं तनूपा᳓नं कृणोमि ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/04_sapatnaxayaNaM_darbha.md">
@@ -306,8 +306,8 @@ Darbha, destroyer of the foe, vexing the hearts of enemies, An Amulet that stren
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/05_yatsamudro_abhyakrandatparjanyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्स॑मु॒द्रो अ॒भ्यक्र॑न्दत्प॒र्जन्यो॑ वि॒द्युता॑ स॒ह।  
-ततो॑ हिर॒ण्ययो॑ बि॒न्दुस्ततो॑ द॒र्भो अ॑जायत ॥
+य᳓त्समुद्रो᳓ अभ्य᳓क्रन्दत्पर्ज᳓न्यो विद्यु᳓ता सह᳓।  
+त᳓तो हिरण्य᳓यो बिन्दु᳓स्त᳓तो दर्भो᳓ अजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/05_yatsamudro_abhyakrandatparjanyo.md">

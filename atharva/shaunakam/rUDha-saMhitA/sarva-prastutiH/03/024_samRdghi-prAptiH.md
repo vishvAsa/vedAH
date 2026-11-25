@@ -37,8 +37,8 @@ A song of harvest
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/01_payasvatIroShadhayaH_payasvanmAmakam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पय॑स्वती॒रोष॑धयः॒ पय॑स्वन्माम॒कं वचः॑।  
-अथो॒ पय॑स्वतीना॒मा भ॑रे॒ऽहं स॑हस्र॒शः ॥
+प᳓यस्वतीरो᳓षधयः प᳓यस्वन्मामकं᳓ व᳓चः।  
+अ᳓थो प᳓यस्वतीनामा᳓ भरेऽहं᳓ सहस्रशः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/01_payasvatIroShadhayaH_payasvanmAmakam.md">
@@ -103,8 +103,8 @@ The plants of earth are rich in milk, and rich in milk is this my word, So from 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/02_vedAhaM_payasvantam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वेदा॒हं पय॑स्वन्तं च॒कार॑ धा॒न्यं॑ ब॒हु।  
-सं॒भृत्वा॒ नाम॒ यो दे॒वस्तं व॒यं ह॑वामहे॒ योयो॒ अय॑ज्वनो गृ॒हे ॥
+वे᳓दाहं᳓ प᳓यस्वन्तं चका᳓र धान्यं᳙ बहु᳓।  
+संभृ᳓त्वा ना᳓म यो᳓ देव᳓स्तं᳓ वयं᳓ हवामहे यो᳓यो अ᳓यज्वनो गृहे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/02_vedAhaM_payasvantam.md">
@@ -171,8 +171,8 @@ Him who is rich in milk I know. Abundant hath he made our corn. The God whose na
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/03_imA_yAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मा याः पञ्च॑ प्र॒दिशो॑ मान॒वीः पञ्च॑ कृ॒ष्टयः॑।  
-वृ॒ष्टे शापं॑ न॒दीरि॑वे॒ह स्फा॒तिं स॒माव॑हान् ॥
+इमा᳓ याः᳓ प᳓ञ्च प्रदि᳓शो मानवीः᳓ प᳓ञ्च कृष्ट᳓यः।  
+वृष्टे᳓ शा᳓पं नदी᳓रिवेह᳓ स्फातिं᳓ समा᳓वहान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/03_imA_yAH.md">
@@ -238,8 +238,8 @@ All the five regions of the heavens, all the five races of man- kind, As after r
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/04_udutsaM_shatadhAram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदुत्सं॑ श॒तधा॑रं स॒हस्र॑धार॒मक्षि॑तम्।  
-ए॒वास्माके॒दं धा॒न्यं॑ स॒हस्र॑धार॒मक्षि॑तम् ॥
+उ᳓दु᳓त्सं शत᳓धारं सह᳓स्रधारम᳓क्षितम्।  
+एवा᳓स्मा᳓केदं᳓ धान्यं᳙ सह᳓स्रधारम᳓क्षितम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/04_udutsaM_shatadhAram.md">
@@ -309,8 +309,8 @@ Open the well with hundred streams, exhaustless, with a thousand streams. So cau
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/05_shatahasta_samAhara.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शत॑हस्त स॒माह॑र॒ सह॑स्रहस्त॒ सं कि॑र।  
-कृ॒तस्य॑ का॒र्य॑स्य चे॒ह स्फा॒तिं स॒माव॑ह ॥
+श᳓तहस्त समा᳓हर स᳓हस्रहस्त सं᳓ किर।  
+कृत᳓स्य कार्य᳙स्य चेह᳓ स्फातिं᳓ समा᳓वह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/05_shatahasta_samAhara.md">
@@ -376,8 +376,8 @@ O Hundred-handed, gather up. O Thousand-handed, pour thou forth. Bring hither in
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/06_tisro_mAtrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ति॒स्रो मात्रा॑ गन्ध॒र्वाणां॒ चत॑स्रो गृ॒हप॑त्न्याः।  
-तासां॒ या स्फा॒ति॒मत्त॑मा॒ तया॑ त्वा॒भि मृ॑शामसि ॥
+तिस्रो᳓ मा᳓त्रा गन्धर्वा᳓णां च᳓तस्रो गृह᳓पत्न्याः।  
+ता᳓सां या᳓ स्फातिम᳓त्तमा त᳓या त्वाभि᳓ मृशामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/06_tisro_mAtrA.md">
@@ -444,8 +444,8 @@ Three sheaves are the Gandharvas' claim, the lady of the house hath four. We tou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/07_upohashcha_samUhashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑पो॒हश्च॑ समू॒हश्च॑ क्ष॒त्तारौ॑ ते प्रजापते।  
-तावि॒हा व॑हतां स्फा॒तिं ब॒हुं भू॒मान॒मक्षि॑तम् ॥
+उ᳙पोह᳓श्च समूह᳓श्च क्षत्ता᳓रौ ते प्रजापते।  
+ता᳓विहा᳓ वहतां स्फातिं᳓ बहुं᳓ भूमा᳓नम᳓क्षितम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/07_upohashcha_samUhashcha.md">

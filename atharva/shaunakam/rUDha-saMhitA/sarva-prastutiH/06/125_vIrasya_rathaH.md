@@ -33,8 +33,8 @@ Translated: by the RV. translators; and, as AV. hymn, by Ludwig again, p. 459; G
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/125_vIrasya_rathaH/01_vanaspate_vIDvango.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वन॑स्पते वी॒ड्व᳡ङ्गो॒ हि भू॒या अ॒स्मत्स॑खा प्र॒तर॑णः सु॒वीरः॑।  
-गोभिः॒ संन॑द्धो असि वी॒डय॑स्वास्था॒ता ते॑ जयतु॒ जेत्वा॑नि ॥
+व᳓नस्पते वीड्व᳙ङ्गो हि᳓ भूया᳓ अस्म᳓त्सखा प्रत᳓रणः सुवी᳓रः।  
+गो᳓भिः सं᳓नद्धो असि वीड᳓यस्वास्थाता᳓ ते जयतु जे᳓त्वानि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/125_vIrasya_rathaH/01_vanaspate_vIDvango.md">
@@ -91,8 +91,8 @@ Mayst thou, O Tree, be firm indeed in body, our friend that furthers us, a goodl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/125_vIrasya_rathaH/02_divaspRthivyAH_paryoja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वस्पृ॑थि॒व्याः पर्योज॒ उद्भृ॑तं॒ वन॒स्पति॑भ्यः॒ पर्याभृ॑तं॒ सहः॑।  
-अ॒पामो॒ज्मानं॒ परि॒ गोभि॒रावृ॑तमिन्द्रस्य॒ वज्रं॑ हविषा॒ रथं॑ यज ॥
+दिव᳓स्पृथिव्याः᳓ प᳓र्यो᳓ज उ᳓द्भृतं व᳓नस्प᳓तिभ्यः प᳓र्या᳓भृतं स᳓हः।  
+अपा᳓मोज्मा᳓नं प᳓रि गो᳓भिरा᳓वृतमिन्द्रस्य व᳓ज्रं हविषा र᳓थं यज ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/125_vIrasya_rathaH/02_divaspRthivyAH_paryoja.md">
@@ -163,8 +163,8 @@ Its mighty strength was borrowed from the heaven and earth: its conquering force
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/125_vIrasya_rathaH/03_indrasyaujo_marutAmanIkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॒स्यौजो॑ म॒रुता॒मनी॑कं मि॒त्रस्य॒ गर्भो॒ वरु॑णस्य॒ नाभिः॑।  
-स इ॒मां नो॑ ह॒व्यदा॑तिं जुषा॒णो देव॑ रथ॒ प्रति॑ ह॒व्या गृ॑भाय ॥
+इ᳓न्द्रस्यौ᳓जो मरु᳓ताम᳓नीकं मित्र᳓स्य ग᳓र्भो व᳓रुणस्य ना᳓भिः।  
+स᳓ इमां᳓ नो हव्य᳓दातिं जुषाणो᳓ दे᳓व रथ प्र᳓ति हव्या᳓ गृभाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/125_vIrasya_rathaH/03_indrasyaujo_marutAmanIkam.md">

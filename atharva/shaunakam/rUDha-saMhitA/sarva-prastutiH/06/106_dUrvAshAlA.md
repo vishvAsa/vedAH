@@ -33,8 +33,8 @@ Translated: Ludwig, Der Rigveda, iv. 422; Grill, 63, 170; Bloomfield, AJP. xi. 3
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/106_dUrvAshAlA/01_Ayane_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आय॑ने ते प॒राय॑णे॒ दूर्वा॑ रोहन्तु पु॒ष्पिणीः॑।  
-उत्सो॑ वा॒ तत्र॒ जाय॑तां ह्र॒दो वा॑ पु॒ण्डरी॑कवान् ॥
+आ᳓यने ते परा᳓यणे दू᳓र्वा रोहन्तु पुष्पि᳓णीः।  
+उ᳓त्सो वा त᳓त्र जा᳓यतां ह्रदो᳓ वा पुण्ड᳓रीकवान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/01_Ayane_te.md">
@@ -101,8 +101,8 @@ Let flowery Durva grass grow up about thine exit and approach. There let a sprin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/106_dUrvAshAlA/02_apAmidaM_nyayanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पामि॒दं न्यय॑नं समु॒द्रस्य॑ नि॒वेश॑नम्।  
-मध्ये॑ ह्र॒दस्य॑ नो गृ॒हाः प॑रा॒चीना॒ मुखा॑ कृधि ॥
+अपा᳓मिदं᳓ न्य᳓यनं समुद्र᳓स्य निवे᳓शनम्।  
+म᳓ध्ये ह्रद᳓स्य नो गृहाः᳓ पराची᳓ना मु᳓खा कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/02_apAmidaM_nyayanam.md">
@@ -167,8 +167,8 @@ This is the place where waters meet, here is the gathering of the flood. Our hom
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/106_dUrvAshAlA/03_himasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॒मस्य॑ त्वा ज॒रायु॑णा॒ शाले॒ परि॑ व्ययामसि।  
-शी॒तह्र॑दा॒ हि नो॒ भुवो॒ऽग्निष्कृ॑णोतु भेष॒जम् ॥
+हिम᳓स्य त्वा जरा᳓युणा शा᳓ले प᳓रि व्ययामसि।  
+शीत᳓ह्रदा हि᳓ नो भु᳓वोऽग्नि᳓ष्कृणोतु भेषज᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/03_himasya_tvA.md">

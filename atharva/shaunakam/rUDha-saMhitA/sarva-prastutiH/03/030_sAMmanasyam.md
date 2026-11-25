@@ -33,8 +33,8 @@ On the means to obtain immunity from taxation in the next world
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/01_sahRdayaM_sAmmanasyamavidveSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सहृ॑दयं सांमन॒स्यमवि॑द्वेषं कृणोमि वः।  
-अ॒न्यो अ॒न्यम॒भि ह॑र्यत व॒त्सं जा॒तमि॑वा॒घ्न्या ॥
+स᳓हृदयं सांमनस्य᳓म᳓विद्वेषं कृणोमि वः।  
+अन्यो᳓ अन्य᳓मभि᳓ हर्यत वत्सं᳓ जात᳓मिवाघ्न्या᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/01_sahRdayaM_sAmmanasyamavidveSham.md">
@@ -98,8 +98,8 @@ Freedom from hate I bring to you, concord and unanimity. Love one another as the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अनु॑व्रतः पि॒तुः पु॒त्रो मा॒त्रा भ॑वतु॒ संम॑नाः।  
-जा॒या पत्ये॒ मधु॑मतीं॒ वाचं॑ वदतु शन्ति॒वाम् ॥
+अ᳓नुव्रतः पितुः᳓ पुत्रो᳓ मात्रा᳓ भवतु सं᳓मनाः।  
+जाया᳓ प᳓त्ये म᳓धुमतीं वा᳓चं वदतु शन्तिवा᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
@@ -165,8 +165,8 @@ One-minded with his mother let the son be loyal to his sire. Let the wife, calm 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/03_mA_bhrAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा भ्राता॒ भ्रात॑रं द्विक्ष॒न्मा स्वसा॑रमु॒त स्वसा॑।  
-स॒म्यञ्चः॒ सव्र॑ता भू॒त्वा वाचं॑ वदत भ॒द्रया॑ ॥
+मा᳓ भ्रा᳓ता भ्रा᳓तरं द्विक्षन्मा᳓ स्व᳓सारमुत᳓ स्व᳓सा।  
+सम्य᳓ञ्चः स᳓व्रता भूत्वा᳓ वा᳓चं वदत भद्र᳓या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/03_mA_bhrAtA.md">
@@ -229,8 +229,8 @@ No brother hate his brother, no sister to sister be unkind. Unanimous, with one 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/04_yena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ दे॒वा न वि॒यन्ति॒ नो च॑ विद्वि॒षते॑ मि॒थः।  
-तत्कृ॑ण्मो॒ ब्रह्म॑ वो गृ॒हे सं॒ज्ञानं॒ पुरु॑षेभ्यः ॥
+ये᳓न देवा᳓ न᳓ विय᳓न्ति नो᳓ च विद्विष᳓ते मिथः᳓।  
+त᳓त्कृण्मो ब्र᳓ह्म वो गृहे᳓ संज्ञा᳓नं पु᳓रुषेभ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/04_yena_devA.md">
@@ -294,8 +294,8 @@ That spell through which Gods sever not, nor ever bear each other hate, That spe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज्याय॑स्वन्तश्चि॒त्तिनो॒ मा वि यौ॑ष्ट संरा॒धय॑न्तः॒ सधु॑रा॒श्चर॑न्तः।  
-अ॒न्यो अ॒न्यस्मै॑ व॒ल्गु वद॑न्त॒ एत॑ सध्री॒चीना॑न्वः॒ संम॑नसस्कृणोमि ॥
+ज्या᳓यस्वन्तश्चित्ति᳓नो मा᳓ वि᳓ यौष्ट संराध᳓यन्तः स᳓धुराश्च᳓रन्तः।  
+अन्यो᳓ अन्य᳓स्मै वल्गु᳓ व᳓दन्त ए᳓त सध्रीची᳓नान्वः सं᳓मनसस्कृणोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
@@ -370,8 +370,8 @@ Intelligent, submissive, rest united, friendly and kind, bearing the yoke togeth
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/06_samAnI_prapA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑मा॒नी प्र॒पा स॒ह वो॑ऽन्नभा॒गः स॑मा॒ने योक्त्रे॑ स॒ह वो॑ युनज्मि।  
-स॒म्यञ्चो॒ऽग्निं स॑पर्यता॒रा नाभि॑मिवा॒भितः॑ ॥
+स᳙मानी᳓ प्रपा᳓ सह᳓ वोऽन्नभागः᳓ समाने᳓ यो᳓क्त्रे सह᳓ वो युनज्मि।  
+सम्य᳓ञ्चोऽग्निं᳓ सपर्यतारा᳓ ना᳓भिमिवाभि᳓तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/06_samAnI_prapA.md">
@@ -437,8 +437,8 @@ Let what you drink, your share of food be common together, with one common bond 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/07_sadhrIchInAnvaH_sammanasaskRNomyekashnuShTIntsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑ध्री॒चीना॑न्वः॒ संम॑नसस्कृणो॒म्येक॑श्नुष्टीन्त्सं॒वन॑नेन॒ सर्वा॑न्।  
-दे॒वा इ॑वा॒मृतं॒ रक्ष॑माणाः सा॒यंप्रा॑तः सौमन॒सो वो॑ अस्तु ॥
+स᳙ध्रीची᳓नान्वः सं᳓मनसस्कृणोम्ये᳓कश्नुष्टीन्त्संव᳓ननेन स᳓र्वान्।  
+देवा᳓ इवामृ᳓तं र᳓क्षमाणाः सायं᳓प्रातः सौमनसो᳓ वो अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/07_sadhrIchInAnvaH_sammanasaskRNomyekashnuShTIntsa.md">

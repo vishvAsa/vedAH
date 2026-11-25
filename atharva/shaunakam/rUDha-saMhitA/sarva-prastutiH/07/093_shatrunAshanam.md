@@ -33,8 +33,8 @@ Translated: Henry, 38, 108; Griffith, i. 374.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/093_shatrunAshanam/01_indreNa_manyunA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रे॑ण म॒न्युना॑ व॒यम॒भि ष्या॑म पृतन्य॒तः।  
-घ्नन्तो॑ वृ॒त्राण्य॑प्र॒ति ॥
+इ᳓न्द्रेण मन्यु᳓ना वय᳓मभि᳓ ष्याम पृतन्यतः᳓।  
+घ्न᳓न्तो वृत्रा᳓ण्यप्रति᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/093_shatrunAshanam/01_indreNa_manyunA.md">

@@ -37,8 +37,8 @@ A hymn recommending the protection of various Gods
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/01_mitraH_pRthivyodakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मि॒त्रः पृ॑थि॒व्योद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
-तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
+मित्रः᳓ पृथिव्यो᳓दक्रामत्तां᳓ पु᳓रं प्र᳓ णयामि वः।  
+ता᳓मा᳓ विशत तां᳓ प्र᳓ विशत सा᳓ वः श᳓र्म च व᳓र्म च यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/01_mitraH_pRthivyodakrAmattAm.md">
@@ -100,8 +100,8 @@ Mitra arose with Earth. To that fort I lead you: enter it, occupy it. Let it giv
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/02_vAyurantarixeNodakrAmattAM_puram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒युर॒न्तरि॑क्षे॒णोद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
-तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
+वायु᳓रन्त᳓रिक्षेणो᳓दक्रामत्तां᳓ पु᳓रं प्र᳓ णयामि वः।  
+ता᳓मा᳓ विशत तां᳓ प्र᳓ विशत सा᳓ वः श᳓र्म च व᳓र्म च यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/02_vAyurantarixeNodakrAmattAM_puram.md">
@@ -160,8 +160,8 @@ Vayu arose with Air. To that fort, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/03_sUryo_divodakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्यो॑ दि॒वोद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
-तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
+सू᳓र्यो दिवो᳓दक्रामत्तां᳓ पु᳓रं प्र᳓ णयामि वः।  
+ता᳓मा᳓ विशत तां᳓ प्र᳓ विशत सा᳓ वः श᳓र्म च व᳓र्म च यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/03_sUryo_divodakrAmattAm.md">
@@ -220,8 +220,8 @@ Surya arose with Heaven. To that fort, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/04_chandramA_naxatrairudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-च॒न्द्रमा॒ नक्ष॑त्रै॒रुद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
-तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
+चन्द्र᳓मा न᳓क्षत्रैरु᳓दक्रामत्तां᳓ पु᳓रं प्र᳓ णयामि वः।  
+ता᳓मा᳓ विशत तां᳓ प्र᳓ विशत सा᳓ वः श᳓र्म च व᳓र्म च यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/04_chandramA_naxatrairudakrAmattAm.md">
@@ -280,8 +280,8 @@ Chandramas arose with the Constellation. To that fort, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/05_soma_oShadhIbhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोम॒ ओष॑धीभि॒रुद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
-तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
+सो᳓म ओ᳓षधीभिरु᳓दक्रामत्तां᳓ पु᳓रं प्र᳓ णयामि वः।  
+ता᳓मा᳓ विशत तां᳓ प्र᳓ विशत सा᳓ वः श᳓र्म च व᳓र्म च यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/05_soma_oShadhIbhirudakrAmattAm.md">
@@ -340,8 +340,8 @@ Sacrifice arose with Priestly Fees. To that fort, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/06_yajno_daxiNAbhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒ज्ञो दक्षि॑णाभि॒रुद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
-तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
+यज्ञो᳓ द᳓क्षिणाभिरु᳓दक्रामत्तां᳓ पु᳓रं प्र᳓ णयामि वः।  
+ता᳓मा᳓ विशत तां᳓ प्र᳓ विशत सा᳓ वः श᳓र्म च व᳓र्म च यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/06_yajno_daxiNAbhirudakrAmattAm.md">
@@ -401,8 +401,8 @@ Ocean arose with the Rivers. To that fort, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/07_samudro_nadIbhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑मु॒द्रो न॒दीभि॒रुद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
-तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
+स᳙मुद्रो᳓ नदी᳓भिरु᳓दक्रामत्तां᳓ पु᳓रं प्र᳓ णयामि वः।  
+ता᳓मा᳓ विशत तां᳓ प्र᳓ विशत सा᳓ वः श᳓र्म च व᳓र्म च यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/07_samudro_nadIbhirudakrAmattAm.md">
@@ -461,8 +461,8 @@ Brahma arose with the Brahmacharis. To that fort, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/08_brahma_brahmachAribhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑ ब्रह्मचा॒रिभि॒रुद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
-तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
+ब्र᳓ह्म ब्रह्मचारि᳓भिरु᳓दक्रामत्तां᳓ पु᳓रं प्र᳓ णयामि वः।  
+ता᳓मा᳓ विशत तां᳓ प्र᳓ विशत सा᳓ वः श᳓र्म च व᳓र्म च यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/08_brahma_brahmachAribhirudakrAmattAm.md">
@@ -523,8 +523,8 @@ Indra arose with Might. To that fort, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/09_indro_vIryeNodakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ वी॒र्ये॒३॒॑णोद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
-तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
+इ᳓न्द्रो वीर्ये᳙णो᳓दक्रामत्तां᳓ पु᳓रं प्र᳓ णयामि वः।  
+ता᳓मा᳓ विशत तां᳓ प्र᳓ विशत सा᳓ वः श᳓र्म च व᳓र्म च यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/09_indro_vIryeNodakrAmattAm.md">
@@ -583,8 +583,8 @@ The Gods arose with Immortality. To that fort, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/10_devA_amRtenodakrAmaMstAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वा अ॒मृते॒नोद॑क्रामं॒स्तां पुरं॒ प्र ण॑यामि वः।  
-तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
+देवा᳓ अमृ᳓तेनो᳓दक्रामंस्तां᳓ पु᳓रं प्र᳓ णयामि वः।  
+ता᳓मा᳓ विशत तां᳓ प्र᳓ विशत सा᳓ वः श᳓र्म च व᳓र्म च यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/10_devA_amRtenodakrAmaMstAm.md">
@@ -644,8 +644,8 @@ Prajapati arose with Creatures. To that fort I lead you: enter it, occupy it giv
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/11_prajApatiH_prajAbhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाप॑तिः प्र॒जाभि॒रुद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
-तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
+प्रजा᳓पतिः प्रजा᳓भिरु᳓दक्रामत्तां᳓ पु᳓रं प्र᳓ णयामि वः।  
+ता᳓मा᳓ विशत तां᳓ प्र᳓ विशत सा᳓ वः श᳓र्म च व᳓र्म च यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/11_prajApatiH_prajAbhirudakrAmattAm.md">

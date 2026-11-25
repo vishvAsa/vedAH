@@ -33,8 +33,8 @@ Translated: Henry, 41, 116; Griffith, i. 379.—Cf. above, v. 11, introduction.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/104_gauH/01_kaH_pRshnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कः पृश्निं॑ धे॒नुं वरु॑णेन द॒त्तामथ॑र्वणे सु॒दुघां॒ नित्य॑वत्साम्।  
-बृह॒स्पति॑ना स॒ख्यं᳡ जुषा॒णो य॑थाव॒शं त॒न्वः᳡ कल्पयाति ॥
+कः᳓ पृ᳓श्निं धेनुं᳓ व᳓रुणेन दत्ता᳓म᳓थर्वणे सुदु᳓घां नि᳓त्यवत्साम्।  
+बृ᳓हस्प᳓तिना सख्यं᳙ जुषाणो᳓ यथावशं᳓ तन्वः᳙ कल्पयाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/104_gauH/01_kaH_pRshnim.md">

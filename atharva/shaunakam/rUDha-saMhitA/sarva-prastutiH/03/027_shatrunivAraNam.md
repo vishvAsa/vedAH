@@ -38,9 +38,9 @@ A charm consigning an enemy to the serpents for punishment
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/01_prAchI_digagniradhipatirasito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्राची॒ दिग॒ग्निरधि॑पतिरसि॒तो र॑क्षि॒तादि॒त्या इष॑वः।  
-तेभ्यो॒ नमोऽधि॑पतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
-यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+प्रा᳓ची दि᳓गग्नि᳓र᳓धिपतिरसितो᳓ रक्षिता᳓दित्या᳓ इ᳓षवः।  
+ते᳓भ्यो न᳓मो᳓ऽधिपतिभ्यो न᳓मो रक्षितृ᳓भ्यो न᳓म इ᳓षुभ्यो न᳓म एभ्यो अस्तु।  
+यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/01_prAchI_digagniradhipatirasito.md">
@@ -121,9 +121,9 @@ Worship to these the regents, these the warders, and to the arrows, yea, to thes
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/02_daxiNA_digindro-dhipatistirashchirAjI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दक्षि॑णा॒ दिगिन्द्रो॑ऽधिपति॒स्तिर॑श्चिराजी रक्षि॒ता पि॒तर॒ इष॑वः।  
-तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
-यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+द᳓क्षिणा दि᳓गि᳓न्द्रोऽधिपतिस्ति᳓रश्चिराजी रक्षिता᳓ पित᳓र इ᳓षवः।  
+ते᳓भ्यो न᳓मोऽधिपतिभ्यो न᳓मो रक्षितृ᳓भ्यो न᳓म इ᳓षुभ्यो न᳓म एभ्यो अस्तु।  
+यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/02_daxiNA_digindro-dhipatistirashchirAjI.md">
@@ -187,9 +187,9 @@ Worship to these the regents, these the warders, and to the arrows, yea, to thes
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/03_pratIchI_digvaruNo-dhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒तीची॒ दिग्वरु॒णोऽधि॑पतिः॒ पृदा॑कू रक्षि॒तान्न॒मिष॑वः।  
-तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
-यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+प्रती᳓ची दि᳓ग्व᳓रुणो᳓ऽधिपतिः पृ᳓दाकू रक्षिता᳓न्नमि᳓षवः।  
+ते᳓भ्यो न᳓मोऽधिपतिभ्यो न᳓मो रक्षितृ᳓भ्यो न᳓म इ᳓षुभ्यो न᳓म एभ्यो अस्तु।  
+यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/03_pratIchI_digvaruNo-dhipatiH.md">
@@ -253,9 +253,9 @@ Worship, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/04_udIchI_diksomo-dhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदी॑ची॒ दिक्सोमोऽधि॑पतिः स्व॒जो र॑क्षि॒ताशनि॒रिष॑वः।  
-तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
-यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+उ᳓दीची दि᳓क्सो᳓मो᳓ऽधिपतिः स्वजो᳓ रक्षिता᳓श᳓निरि᳓षवः।  
+ते᳓भ्यो न᳓मोऽधिपतिभ्यो न᳓मो रक्षितृ᳓भ्यो न᳓म इ᳓षुभ्यो न᳓म एभ्यो अस्तु।  
+यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/04_udIchI_diksomo-dhipatiH.md">
@@ -323,9 +323,9 @@ Worship, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/05_dhruvA_digviShNuradhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ध्रु॒वा दिग्विष्णु॒रधि॑पतिः क॒ल्माष॑ग्रीवो रक्षि॒ता वी॒रुध॒ इष॑वः।  
-तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
-यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+ध्रुवा᳓ दि᳓ग्वि᳓ष्णुर᳓धिपतिः कल्मा᳓षग्रीवो रक्षिता᳓ वीरु᳓ध इ᳓षवः।  
+ते᳓भ्यो न᳓मोऽधिपतिभ्यो न᳓मो रक्षितृ᳓भ्यो न᳓म इ᳓षुभ्यो न᳓म एभ्यो अस्तु।  
+यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/05_dhruvA_digviShNuradhipatiH.md">
@@ -392,9 +392,9 @@ Worship, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/06_UrdhvA_digbRhaspatiradhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊ॒र्ध्वा दिग्बृह॒स्पति॒रधि॑पतिः श्वि॒त्रो र॑क्षि॒ता व॒र्षमिष॑वः।  
-तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
-यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+ऊर्ध्वा᳓ दि᳓ग्बृ᳓हस्प᳓तिर᳓धिपतिः श्वित्रो᳓ रक्षिता᳓ वर्ष᳓मि᳓षवः।  
+ते᳓भ्यो न᳓मोऽधिपतिभ्यो न᳓मो रक्षितृ᳓भ्यो न᳓म इ᳓षुभ्यो न᳓म एभ्यो अस्तु।  
+यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/06_UrdhvA_digbRhaspatiradhipatiH.md">

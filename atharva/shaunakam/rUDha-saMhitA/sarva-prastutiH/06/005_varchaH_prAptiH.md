@@ -37,8 +37,8 @@ A prayer to Agni and Indra for the well being of a princely patron
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/01_udenamuttaraM_nayAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदे॑नमुत्त॒रं न॒याग्ने॑ घृ॒तेना॑हुत।  
-समे॑नं॒ वर्च॑सा सृज प्र॒जया॑ च ब॒हुं कृ॑धि ॥
+उ᳓देनमुत्तरं᳓ नया᳓ग्ने घृते᳓नाहुत।  
+स᳓मेनं व᳓र्चसा सृज प्रज᳓या च बहुं᳓ कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/005_varchaH_prAptiH/01_udenamuttaraM_nayAgne.md">
@@ -107,8 +107,8 @@ Agni, adored with sacred oil, lift up this man to high estate. Endow him with fu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/02_indremaM_prataram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रे॒मं प्र॑त॒रं कृ॑धि सजा॒ताना॑मसद्व॒शी।  
-रा॒यस्पोषे॑ण॒ सं सृ॑ज जी॒वात॑वे ज॒रसे॑ नय ॥
+इ᳓न्द्रेमं᳓ प्रतरं᳓ कृधि सजाता᳓नामसद्वशी᳓।  
+राय᳓स्पो᳓षेण सं᳓ सृज जीवा᳓तवे जर᳓से नय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/005_varchaH_prAptiH/02_indremaM_prataram.md">
@@ -176,8 +176,8 @@ Advance him, Indra! Let him be ruler of all akin to him. Grant him sufficiency o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/03_yasya_kRNmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे तम॑ग्ने वर्धया॒ त्वम्।  
-तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥
+य᳓स्य कृण्मो᳓ हवि᳓र्गृहे᳓ त᳓मग्ने वर्धया त्व᳓म्।  
+त᳓स्मै सो᳓मो अ᳓धि ब्रवदयं᳓ च ब्र᳓ह्मणस्प᳓तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/005_varchaH_prAptiH/03_yasya_kRNmo.md">

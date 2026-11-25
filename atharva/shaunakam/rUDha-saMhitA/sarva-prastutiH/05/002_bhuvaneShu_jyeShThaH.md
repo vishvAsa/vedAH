@@ -37,8 +37,8 @@ A glorification of Indra
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/01_tadidAsa_bhuvaneShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तदिदा॑स॒ भुव॑नेषु॒ ज्येष्ठं॒ यतो॑ य॒ज्ञ उ॒ग्रस्त्वे॒षनृ॑म्णः।  
-स॒द्यो ज॑ज्ञा॒नो नि रि॑णाति॒ शत्रू॒ननु॒ यदे॑नं॒ मद॑न्ति॒ विश्व॒ ऊमाः॑ ॥
+त᳓दि᳓दास भु᳓वनेषु ज्ये᳓ष्ठं य᳓तो यज्ञ᳓ उग्र᳓स्त्वेष᳓नृम्णः।  
+सद्यो᳓ जज्ञानो᳓ नि᳓ रिणाति श᳓त्रून᳓नु य᳓देनं म᳓दन्ति वि᳓श्व ऊ᳓माः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/01_tadidAsa_bhuvaneShu.md">
@@ -102,8 +102,8 @@ In all the worlds That was the best and highest whence sprang the Mighty One of 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/02_vAvRdhAnaH_shavasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒वृ॒धा॒नः शव॑सा॒ भूर्यो॑जाः॒ शत्रु॑र्दा॒साय॑ भि॒यसं॑ दधाति।  
-अव्य॑नच्च व्य॒नच्च॒ सस्नि॒ सं ते॑ नवन्त॒ प्रभृ॑ता॒ मदे॑षु ॥
+वावृधानः᳓ श᳓वसा भू᳓र्योजाः श᳓त्रुर्दासा᳓य भिय᳓सं दधाति।  
+अ᳓व्यनच्च व्यन᳓च्च स᳓स्नि सं᳓ ते नवन्त प्र᳓भृता म᳓देषु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/02_vAvRdhAnaH_shavasA.md">
@@ -169,8 +169,8 @@ Grown mighty in his strength, with ample vigour, he as a foe strikes fear into t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/03_tve_kratumapi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वे क्रतु॒मपि॑ पृञ्चन्ति॒ भूरि॒ द्विर्यदे॒ते त्रिर्भ॑व॒न्त्यूमाः॑।  
-स्वा॒दोः स्वादी॑यः स्वा॒दुना॑ सृजा॒ सम॒दः सु मधु॒ मधु॑ना॒भि यो॑धीः ॥
+त्वे᳓ क्र᳓तुम᳓पि पृञ्चन्ति भू᳓रि द्वि᳓र्य᳓देते᳓ त्रि᳓र्भवन्त्यू᳓माः।  
+स्वादोः᳓ स्वा᳓दीयः स्वादु᳓ना सृजा स᳓मदः᳓ सु᳓ म᳓धु म᳓धुनाभि᳓ योधीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/03_tve_kratumapi.md">
@@ -236,8 +236,8 @@ All concentrate on thee their mental vigour what time these, twice or thrice, ar
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/04_yadi_chinnu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ चि॒न्नु त्वा॒ धना॒ जय॑न्तं॒ रणे॑रणे अनु॒मद॑न्ति विप्राः।  
-ओजी॑यः शुष्मिन्त्स्थि॒रमा त॑नुष्व॒ मा त्वा॑ दभन्दु॒रेवा॑सः क॒शोकाः॑ ॥
+य᳓दि चिन्नु᳓ त्वा ध᳓ना ज᳓यन्तं र᳓णेरणे अनुम᳓दन्ति विप्राः।  
+ओ᳓जीयः शुष्मिन्त्स्थिर᳓मा᳓ तनुष्व मा᳓ त्वा दभन्दुरे᳓वासः कशो᳓काः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/04_yadi_chinnu.md">
@@ -302,8 +302,8 @@ If verily in every war the sages joy and exult in thee who win- nest treasures, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/05_tvayA_vayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वया॑ व॒यं शा॑शद्महे॒ रणे॑षु प्र॒पश्य॑न्तो यु॒धेन्या॑नि॒ भूरि॑।  
-चो॒दया॑मि त॒ आयु॑धा॒ वचो॑भिः॒ सं ते॑ शिशामि॒ ब्रह्म॑णा॒ वयां॑सि ॥
+त्व᳓या वयं᳓ शाशद्महे र᳓णेषु प्रप᳓श्यन्तो युधे᳓न्यानि भू᳓रि।  
+चोद᳓यामि त आ᳓युधा व᳓चोभिः सं᳓ ते शिशामि ब्र᳓ह्मणा व᳓यांसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/05_tvayA_vayam.md">
@@ -366,8 +366,8 @@ Proudly we put our trust in thee in battles, when we behold great wealth the pri
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/06_ni_taddadhiShe-vare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नि तद्द॑धि॒षेऽव॑रे॒ परे॑ च॒ यस्मि॒न्नावि॒थाव॑सा दुरो॒णे।  
-आ स्था॑पयत मा॒तरं॑ जिग॒त्नुमत॑ इन्वत॒ कर्व॑राणि॒ भूरि॑ ॥
+नि᳓ त᳓द्दधिषे᳓ऽवरे प᳓रे च य᳓स्मिन्ना᳓विथा᳓वसा दुरोणे᳓।  
+आ᳓ स्थापयत मात᳓रं जिगत्नु᳓म᳓त इन्वत क᳓र्वराणि भू᳓रि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/06_ni_taddadhiShe-vare.md">
@@ -433,8 +433,8 @@ Thou in that house, the highest or the lowest, which thy protec- tion guards, be
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/07_stuShva_varShmanpuruvartmAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्तु॒ष्व व॑र्ष्मन्पुरु॒वर्त्मा॑नं॒ समृभ्वा॑णमि॒नत॑ममा॒प्तमा॒प्त्याना॑म्।  
-आ द॑र्शति॒ शव॑सा॒ भूर्यो॑जाः॒ प्र स॑क्षति प्रति॒मानं॑ पृथि॒व्याः ॥
+स्तुष्व᳓ वर्ष्मन्पुरुव᳓र्त्मानं स᳓मृ᳓भ्वाणमिन᳓तममाप्त᳓माप्त्या᳓नाम्।  
+आ᳓ दर्शति श᳓वसा भू᳓र्योजाः प्र᳓ सक्षति प्रतिमा᳓नं पृथिव्याः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/07_stuShva_varShmanpuruvartmAnam.md">
@@ -502,8 +502,8 @@ Praise in the height Him who hath many pathways, courageous, strongest, Aptya of
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/08_imA_brahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मा ब्रह्म॑ बृ॒हद्दि॑वः कृणव॒दिन्द्रा॑य शू॒षम॑ग्रि॒यः स्व॒र्षाः।  
-म॒हो गो॒त्रस्य॑ क्षयति स्व॒राजा॒ तुर॑श्चि॒द्विश्व॑मर्णव॒त्तप॑स्वान् ॥
+इमा᳓ ब्र᳓ह्म बृह᳓द्दिवः कृणवदि᳓न्द्राय शूष᳓मग्रियः᳓ स्वर्षाः᳓।  
+महो᳓ गोत्र᳓स्य क्षयति स्वरा᳓जा तु᳓रश्चिद्वि᳓श्वमर्णवत्त᳓पस्वान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/08_imA_brahma.md">
@@ -570,8 +570,8 @@ Brihaddiva, the foremost of light-winners, hath made these holy prayers, this st
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/09_evA_mahAnbRhaddivo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒वा म॒हान्बृ॒हद्दि॑वो॒ अथ॒र्वावो॑च॒त्स्वां त॒न्व१॒॑मिन्द्र॑मे॒व।  
-स्वसा॑रौ मात॒रिभ्व॑री अरि॒प्रे हि॒न्वन्ति॑ चैने॒ शव॑सा व॒र्धय॑न्ति च ॥
+एवा᳓ महा᳓न्बृह᳓द्दिवो अ᳓थर्वा᳓वोचत्स्वां᳓ तन्व᳙मि᳓न्द्रमेव᳓।  
+स्व᳓सारौ मातरि᳓भ्वरी अरिप्रे᳓ हिन्व᳓न्ति चैने श᳓वसा वर्ध᳓यन्ति च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/09_evA_mahAnbRhaddivo.md">

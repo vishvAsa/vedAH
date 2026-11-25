@@ -33,8 +33,8 @@ A prayer to Agni for protection
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-समा॑स्त्वाग्न ऋ॒तवो॑ वर्धयन्तु संवत्स॒रा ऋष॑यो॒ यानि॑ स॒त्या।  
-सं दि॒व्येन॑ दीदिहि रोच॒नेन॒ विश्वा॒ आ भा॑हि प्र॒दिश॒श्चत॑स्रः ॥
+स᳓मास्त्वाग्न ऋत᳓वो वर्धयन्तु संवत्सरा᳓ ऋ᳓षयो या᳓नि सत्या᳓।  
+सं᳓ दिव्ये᳓न दीदिहि रोचने᳓न वि᳓श्वा आ᳓ भाहि प्रदि᳓शश्च᳓तस्रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
@@ -102,8 +102,8 @@ Half-years and seasons strengthen thee, O Agni, the years, and all the Verities,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं चे॒ध्यस्वा॑ग्ने॒ प्र च॑ वर्धये॒ममुच्च॑ तिष्ठ मह॒ते सौभ॑गाय।  
-मा ते॑ रिषन्नुपस॒त्तारो॑ अग्ने ब्र॒ह्माण॑स्ते य॒शसः॑ सन्तु॒ मान्ये ॥
+सं᳓ चेध्य᳓स्वाग्ने प्र᳓ च वर्धयेम᳓मु᳓च्च तिष्ठ महते᳓ सौ᳓भगाय।  
+मा᳓ ते रिषन्नुपसत्ता᳓रो अग्ने ब्रह्मा᳓णस्ते यश᳓सः सन्तु मा᳓न्ये᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
@@ -167,8 +167,8 @@ Kindle thee, Agni, and make this man prosper: rise up erect for high and happy f
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वाम॑ग्ने वृणते ब्राह्म॒णा इ॒मे शि॒वो अ॑ग्ने सं॒वर॑णे भवा नः।  
-स॑पत्न॒हाग्ने॑ अभिमाति॒जिद्भ॑व॒ स्वे गये॑ जागृ॒ह्यप्र॑युछन् ॥
+त्वा᳓मग्ने वृणते ब्राह्मणा᳓ इमे᳓ शिवो᳓ अग्ने संव᳓रणे भवा नः।  
+स᳙पत्नहा᳓ग्ने अभिमातिजि᳓द्भव स्वे᳓ ग᳓ये जागृह्य᳓प्रयुछन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
@@ -238,8 +238,8 @@ These Brahmans have elected thee, O Agni: be thou propitious in our sacred chamb
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्ष॒त्रेणा॑ग्ने॒ स्वेन॒ सं र॑भस्व मि॒त्रेणा॑ग्ने मित्र॒धा य॑तस्व।  
-स॑जा॒तानां॑ मध्यमे॒ष्ठा राज्ञा॑मग्ने वि॒हव्यो॑ दीदिही॒ह ॥
+क्षत्रे᳓णाग्ने स्वे᳓न सं᳓ रभस्व मित्रे᳓णाग्ने मित्रधा᳓ यतस्व।  
+स᳙जाता᳓नां मध्यमेष्ठा᳓ रा᳓ज्ञामग्ने विह᳓व्यो दीदिहीह᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
@@ -311,8 +311,8 @@ Seize, Agni, on thy power and firmly hold it: contend thou with the Friend by wa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/05_ati_niho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अति॒ निहो॒ अति॒ सृधो ऽत्यचि॑त्ती॒रति॒ द्विषः॑।  
-विश्वा॒ ह्य॑ग्ने दुरि॒ता तर॒ त्वमथा॒स्मभ्यं॑ स॒हवी॑रं र॒यिं दाः॑ ॥
+अ᳓ति नि᳓हो अ᳓ति सृ᳓धो᳓ ऽत्य᳓चित्तीर᳓ति द्वि᳓षः।  
+वि᳓श्वा ह्य᳙ग्ने दुरिता᳓ त᳓र त्व᳓म᳓थास्म᳓भ्यं सह᳓वीरं रयिं᳓ दाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/05_ati_niho.md">

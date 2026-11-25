@@ -37,8 +37,8 @@ Praise of Vishnu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/01_viShNornu_kam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णो॒र्नु कं॒ प्रा वो॑चं वी॒र्या᳡णि॒ यः पार्थि॑वानि विम॒मे रजां॑सि।  
-यो अस्क॑भाय॒दुत्त॑रं स॒धस्थं॑ विचक्रमा॒णस्त्रे॒धोरु॑गा॒यः ॥
+वि᳓ष्णोर्नु᳓ कं प्रा᳓ वोचं वीर्या᳙णि यः᳓ पा᳓र्थिवानि विममे᳓ र᳓जांसि।  
+यो᳓ अ᳓स्कभायदु᳓त्तरं सध᳓स्थं विचक्रमाण᳓स्त्रेधो᳓रुगायः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/01_viShNornu_kam.md">
@@ -104,8 +104,8 @@ I will declare the mighty deeds of Vishnu, of him who measured out the earthly r
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/02_pra_tadviShNu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र तद्विष्णु॑ स्तवते वी॒र्या᳡णि मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः।  
-प॑रा॒वत॒ आ ज॑गम्या॒त्पर॑स्याः ॥
+प्र᳓ त᳓द्वि᳓ष्णु स्तवते वीर्या᳙णि मृगो᳓ न᳓ भीमः᳓ कुचरो᳓ गिरिष्ठाः᳓।  
+प᳙राव᳓त आ᳓ जगम्यात्प᳓रस्याः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/02_pra_tadviShNu.md">
@@ -185,9 +185,9 @@ Loud boast doth Vishnu make of this achievement, like some wild beast, dread, pr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/03_yasyoruShu_triShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यन्ति॒ भुव॑नानि॒ विश्वा॑।  
-उ॒रु वि॑ष्णो॒ वि क्र॑मस्वो॒रु क्षया॑य नस्कृधि।  
-घृ॒तं घृ॑तयोने पिब॒ प्रप्र॑ य॒ज्ञप॑तिं तिर ॥
+य᳓स्योरु᳓षु त्रिषु᳓ विक्र᳓मणेष्वधिक्षिय᳓न्ति भु᳓वनानि वि᳓श्वा।  
+उरु᳓ विष्णो वि᳓ क्रमस्वोरु᳓ क्ष᳓याय नस्कृधि।  
+घृतं᳓ घृतयोने पिब प्र᳓प्र यज्ञ᳓पतिं तिर ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/03_yasyoruShu_triShu.md">
@@ -262,8 +262,8 @@ Thou within whose three wide-extended paces all worlds and creatures have their 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/04_idaM_viShNurvi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं विष्णु॒र्वि च॑क्रमे त्रे॒धा नि द॑धे प॒दा।  
-समू॑ढमस्य पांसु॒रे ॥
+इदं᳓ वि᳓ष्णुर्वि᳓ चक्रमे त्रेधा᳓ नि᳓ दधे पदा᳓।  
+स᳓मूढमस्य पांसुरे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/04_idaM_viShNurvi.md">
@@ -332,8 +332,8 @@ Through all this world strode Vishnu: thrice his foot he planted, and the whole 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/05_trINi_padA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रीणि॑ प॒दा वि च॑क्रमे॒ विष्णु॑र्गो॒पा अदा॑भ्यः।  
-इ॒तो धर्मा॑णि धा॒रय॑न् ॥
+त्री᳓णि पदा᳓ वि᳓ चक्रमे वि᳓ष्णुर्गोपा᳓ अ᳓दाभ्यः।  
+इतो᳓ ध᳓र्माणि धार᳓यन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/05_trINi_padA.md">
@@ -397,8 +397,8 @@ Vishnu the guardian, he whom none deceiveth, made three steps, thenceforth. Esta
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/06_viShNoH_karmANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णोः॒ कर्मा॑णि पश्यत॒ यतो॑ व्र॒तानि॑ पस्प॒शे।  
-इन्द्र॑स्य॒ युज्यः॒ सखा॑ ॥
+वि᳓ष्णोः क᳓र्माणि पश्यत य᳓तो व्रता᳓नि पस्पशे᳓।  
+इ᳓न्द्रस्य यु᳓ज्यः स᳓खा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/06_viShNoH_karmANi.md">
@@ -483,8 +483,8 @@ Look ye on Vishnu's works, whereby the friend of Indra, close- allied, Hath let 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/07_tadviShNoH_paramam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तद्विष्णोः॑ पर॒मं प॒दं सदा॑ पश्यन्ति सू॒रयः॑।  
-दि॒वी᳡व॒ चक्षु॒रात॑तम् ॥
+त᳓द्वि᳓ष्णोः परमं᳓ पदं᳓ स᳓दा पश्यन्ति सूर᳓यः।  
+दिवी᳙व च᳓क्षुरा᳓ततम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/07_tadviShNoH_paramam.md">
@@ -549,8 +549,8 @@ The princes evermore behold that loftiest place where Vishnu is, Like an extende
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/08_divo_viShNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वो वि॑ष्ण उ॒त वा॑ पृ॑थि॒व्या म॒हो वि॑ष्ण उ॒रोर॒न्तरि॑क्षात्।  
-हस्तौ॑ पृणस्व ब॒हुभि॑र्वस॒व्यैरा॒प्रय॑च्छ॒ दक्षि॑णा॒दोत स॒व्यात् ॥
+दिवो᳓ विष्ण उत᳓ वा पृ᳙थिव्या᳓ महो᳓ विष्ण उरो᳓रन्त᳓रिक्षात्।  
+ह᳓स्तौ पृणस्व बहु᳓भिर्वसव्यै᳓राप्र᳓यच्छ द᳓क्षिणादो᳓त᳓ सव्या᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/08_divo_viShNa.md">

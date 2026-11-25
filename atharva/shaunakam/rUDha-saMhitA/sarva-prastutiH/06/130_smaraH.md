@@ -33,8 +33,8 @@ Translated: Weber, Ind. Stud. v. 244; Ludwig, p. 515; Grill, 58, 174; Griffith, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-र॑थ॒जितां॑ राथजिते॒यीना॑मप्स॒रसा॑म॒यं स्म॒रः।  
-देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+र᳙थजि᳓तां राथजितेयी᳓नामप्सर᳓सामयं᳓ स्मरः᳓।  
+दे᳓वाः प्र᳓ हिणुत स्मर᳓मसौ᳓ मा᳓म᳓नु शोचतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayam.md">
@@ -105,8 +105,8 @@ This is the Apsarases' love-spell, the conquering, resistless ones'. Send the sp
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/02_asau_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒सौ मे॑ स्मरता॒दिति॑ प्रि॒यो मे॑ स्मरता॒दिति॑।  
-देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+असौ᳓ मे स्मरतादि᳓ति प्रियो᳓ मे स्मरतादि᳓ति।  
+दे᳓वाः प्र᳓ हिणुत स्मर᳓मसौ᳓ मा᳓म᳓नु शोचतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/02_asau_me.md">
@@ -173,8 +173,8 @@ I pray, may he remember me, think of me, loving and beloved. Send forth the spel
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/03_yathA_mama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ मम॒ स्मरा॑द॒सौ नामुष्या॒हं क॒दा च॒न।  
-देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+य᳓था म᳓म स्म᳓रादसौ᳓ ना᳓मु᳓ष्याहं᳓ कदा᳓ चन᳓।  
+दे᳓वाः प्र᳓ हिणुत स्मर᳓मसौ᳓ मा᳓म᳓नु शोचतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/03_yathA_mama.md">
@@ -236,8 +236,8 @@ That he may think of me, that I may never, never think of him,. Send forth the s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/04_unmAdayata_maruta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उन्मा॑दयत मरुत॒ उद॑न्तरिक्ष मादय।  
-अग्न॒ उन्मा॑दया॒ त्वम॒सौ मामनु॑ शोचतु ॥
+उ᳓न्मादयत मरुत उ᳓दन्तरिक्ष मादय।  
+अ᳓ग्न उ᳓न्मादया त्व᳓मसौ᳓ मा᳓म᳓नु शोचतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/04_unmAdayata_maruta.md">

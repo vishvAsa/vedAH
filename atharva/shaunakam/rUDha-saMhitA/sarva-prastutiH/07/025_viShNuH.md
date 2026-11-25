@@ -37,8 +37,8 @@ Praise of Vishnu and Varuna
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/025_viShNuH/01_yayorojasA_skabhitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ययो॒रोज॑सा स्कभि॒ता रजां॑सि॒ यौ वी॒र्यै᳡र्वी॒रत॑मा॒ शवि॑ष्ठा।  
-यौ पत्ये॑ते॒ अप्र॑तीतौ॒ सहो॑भि॒र्विष्णु॑मग॒न्वरु॑णं पू॒र्वहू॑तिः ॥
+य᳓योरो᳓जसा स्कभिता᳓ र᳓जांसि यौ᳓ वीर्यै᳙र्वीर᳓तमा श᳓विष्ठा।  
+यौ᳓ प᳓त्येते अ᳓प्रतीतौ स᳓होभिर्वि᳓ष्णुमगन्व᳓रुणं पूर्व᳓हूतिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/025_viShNuH/01_yayorojasA_skabhitA.md">
@@ -106,8 +106,8 @@ The early morning prayer hath come to Vishnu and Varuna, Lords through might, wh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/025_viShNuH/02_yasyedaM_pradishi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ये॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते॒ प्र चान॑ति॒ वि च॒ चष्टे॒ शची॑भिः।  
-पु॒रा दे॒वस्य॒ धर्म॑णा॒ सहो॑भि॒र्विष्णु॑मग॒न्वरु॑णं पू॒र्वहू॑तिः ॥
+य᳓स्येदं᳓ प्रदि᳓शि य᳓द्विरो᳓चते प्र᳓ चा᳓नति वि᳓ च च᳓ष्टे श᳓चीभिः।  
+पुरा᳓ देव᳓स्य ध᳓र्मणा स᳓होभिर्वि᳓ष्णुमगन्व᳓रुणं पूर्व᳓हूतिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/025_viShNuH/02_yasyedaM_pradishi.md">

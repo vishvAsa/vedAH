@@ -33,8 +33,8 @@ A charm to remove disease
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/044_roganAshanam/01_asthAddyaurasthAtpRthivyasthAdvishvamidaM_jagat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अस्था॒द्द्यौरस्था॑त्पृथि॒व्यस्था॒द्विश्व॑मि॒दं जग॑त्।  
-अस्थु॑र्वृ॒क्षा ऊ॒र्ध्वस्व॑प्ना॒स्तिष्ठा॒द्रोगो॑ अ॒यं तव॑ ॥
+अ᳓स्थाद्द्यौ᳓र᳓स्थात्पृथिव्य᳓स्थाद्वि᳓श्वमिदं᳓ ज᳓गत्।  
+अ᳓स्थुर्वृक्षा᳓ ऊर्ध्व᳓स्वप्नास्ति᳓ष्ठाद्रो᳓गो अयं᳓ त᳓व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/044_roganAshanam/01_asthAddyaurasthAtpRthivyasthAdvishvamidaM_jagat.md">
@@ -97,8 +97,8 @@ Firm stood the heaven, firm stood the earth, firm stood this universal world. Fi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/044_roganAshanam/02_shataM_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तं या भे॑ष॒जानि॑ ते स॒हस्रं॒ संग॑तानि च।  
-श्रेष्ठ॑मास्रावभेष॒जं वसि॑ष्ठं रोग॒नाश॑नम् ॥
+शतं᳓ या᳓ भेषजा᳓नि ते सह᳓स्रं सं᳓गतानि च।  
+श्रे᳓ष्ठमास्रावभेषजं᳓ व᳓सिष्ठं रोगना᳓शनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/044_roganAshanam/02_shataM_yA.md">
@@ -166,8 +166,8 @@ Of all thy hundred remedies, a thousand remedies combined. This is the surest cu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/044_roganAshanam/03_rudrasya_mUtramasyamRtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रु॒द्रस्य॒ मूत्र॑मस्य॒मृत॑स्य॒ नाभिः॑।  
-वि॑षाण॒का नाम॒ वा अ॑सि पितॄ॒णां मूला॒दुत्थि॑ता वातीकृत॒नाश॑नी ॥
+रुद्र᳓स्य मू᳓त्रमस्यमृ᳓तस्य ना᳓भिः।  
+वि᳙षाणका᳓ ना᳓म वा᳓ असि पितॄणां᳓ मू᳓लादु᳓त्थिता वातीकृतना᳓शनी ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/044_roganAshanam/03_rudrasya_mUtramasyamRtasya.md">

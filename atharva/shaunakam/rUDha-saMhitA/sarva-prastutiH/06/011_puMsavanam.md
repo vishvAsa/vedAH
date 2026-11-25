@@ -37,8 +37,8 @@ An epithalamian charm to ensure the birth of a boy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/01_samImashvattha_ArUDhastatra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-समीम॑श्व॒त्थ आरू॑ढ॒स्तत्र॑ पुं॒सुव॑नं कृ॒तम्।  
-तद्वै पु॒त्रस्य॒ वेद॑नं॒ तत्स्त्री॒ष्वा भ॑रामसि ॥
+स᳓मी᳓मश्वत्थ᳓ आ᳓रूढस्त᳓त्र पुंसु᳓वनं कृत᳓म्।  
+त᳓द्वै᳓ पुत्र᳓स्य वे᳓दनं त᳓त्स्त्रीष्वा᳓ भरामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/011_puMsavanam/01_samImashvattha_ArUDhastatra.md">
@@ -108,8 +108,8 @@ Asvattha on the Sami-tree. There a male birth is certified. There is the finding
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/02_puMsi_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुं॒सि वै रेतो॑ भवति॒ तत्स्त्रि॒यामनु॑ षिच्यते।  
-तद्वै पु॒त्रस्य॒ वेद॑नं॒ तत्प्र॒जाप॑तिरब्रवीत् ॥
+पुंसि᳓ वै᳓ रे᳓तो भवति त᳓त्स्त्रिया᳓म᳓नु षिच्यते।  
+त᳓द्वै᳓ पुत्र᳓स्य वे᳓दनं त᳓त्प्रजा᳓पतिरब्रवीत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/011_puMsavanam/02_puMsi_vai.md">
@@ -173,8 +173,8 @@ The father sows the genial seed, the woman tends and fosters it. This is the fin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/03_prajApatiranumatiH_sinIvAlyachIklRpat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाप॑ति॒रनु॑मतिः सिनीवा॒ल्य॑चीक्लृपत्।  
-स्त्रैषू॑यम॒न्यत्र॒ दध॒त्पुमां॑समु दधदि॒ह ॥
+प्रजा᳓पतिर᳓नुमतिः सिनीवाल्य᳙चीक्लृपत्।  
+स्त्रै᳓षूयमन्य᳓त्र द᳓धत्पु᳓मांसमु दधदिह᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/011_puMsavanam/03_prajApatiranumatiH_sinIvAlyachIklRpat.md">

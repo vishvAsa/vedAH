@@ -73,7 +73,7 @@ On the duty of giving cows to Brahmans, and the sin and danger of withholding th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/01_shrameNa_tapasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्रमे॑ण॒ तप॑सा सृ॒ष्टा ब्रह्म॑णा वि॒त्तर्ते श्रि॒ता ॥
+श्र᳓मेण त᳓पसा सृष्टा᳓ ब्र᳓ह्मणा वित्त᳓र्ते᳓ श्रिता᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/01_shrameNa_tapasA.md">
@@ -142,7 +142,7 @@ Created by toil and holy fervour, found by devotion, resting in right;
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/02_satyenAvRtA_shriyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒त्येनावृ॑ता श्रि॒या प्रावृ॑ता॒ यश॑सा॒ परी॑वृता ॥
+सत्ये᳓ना᳓वृता श्रिया᳓ प्रा᳓वृता य᳓शसा प᳓रीवृता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/02_satyenAvRtA_shriyA.md">
@@ -203,7 +203,7 @@ Invested with truth, surrounded with honour, compassed about with glory;
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/03_svadhayA_parihitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्व॒धया॒ परि॑हिता श्र॒द्धया॒ पर्यू॑ढा दी॒क्षया॑ गु॒प्ता य॒ज्ञे प्रति॑ष्ठिता लो॒को नि॒धन॑म् ॥
+स्वध᳓या प᳓रिहिता श्रद्ध᳓या प᳓र्यूढा दीक्ष᳓या गुप्ता᳓ यज्ञे᳓ प्र᳓तिष्ठिता लोको᳓ निध᳓नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/03_svadhayA_parihitA.md">
@@ -266,7 +266,7 @@ Girt round with inherent power, fortified with faith, protected, by consecration
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/04_brahma_padavAyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑ पदवा॒यं ब्रा॑ह्म॒णोऽधि॑पतिः ॥
+ब्र᳓ह्म पदवायं᳓ ब्राह्मणो᳓ऽधिपतिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/04_brahma_padavAyam.md">
@@ -326,7 +326,7 @@ Brahma her guide, the Brahman her lord and ruler;
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/05_tAmAdadAnasya_brahmagavIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तामा॒ददा॑नस्य ब्रह्मग॒वीं जि॑न॒तो ब्रा॑ह्म॒णं क्ष॒त्रिय॑स्य ॥
+ता᳓माद᳓दानस्य ब्रह्मगवीं᳓ जिनतो᳓ ब्राह्मणं᳓ क्षत्रि᳓यस्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/05_tAmAdadAnasya_brahmagavIm.md">
@@ -385,7 +385,7 @@ Of the Kshatriya who taketh to himself this Brahman's cow and oppresseth the Bra
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/06_apa_krAmati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अप॑ क्रामति सू॒नृता॑ वी॒र्यं१॒॑ पुण्या॑ ल॒क्ष्मीः ॥
+अ᳓प क्रामति सूनृ᳓ता वीर्यं᳙ पु᳓ण्या लक्ष्मीः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/06_apa_krAmati.md">
@@ -454,7 +454,7 @@ The glory, the heroism, and the favouring fortune depart.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/07_ojashcha_tejashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ओज॑श्च॒ तेज॑श्च॒ सह॑श्च॒ बलं॑ च॒ वाक्चे॑न्द्रि॒यं च॒ श्रीश्च॒ धर्म॑श्च ॥
+ओ᳓जश्च ते᳓जश्च स᳓हश्च ब᳓लं च वा᳓क्चेन्द्रियं᳓ च श्री᳓श्च ध᳓र्मश्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/07_ojashcha_tejashcha.md">
@@ -513,7 +513,7 @@ The energy and vigour, the power and might the speech and mental strength, the g
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/08_brahma_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑ च क्ष॒त्रं च॑ रा॒ष्ट्रं च॒ विश॑श्च॒ त्विषि॑श्च॒ यश॑श्च॒ वर्च॑श्च॒ द्रवि॑णं च ॥
+ब्र᳓ह्म च क्षत्रं᳓ च राष्ट्रं᳓ च वि᳓शश्च त्वि᳓षिश्च य᳓शश्च व᳓र्चश्च द्र᳓विणं च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/08_brahma_cha.md">
@@ -573,7 +573,7 @@ Devotion and princely sway, kingship and people, brilliance and honour, and sple
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/09_Ayushcha_rUpam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयु॑श्च रू॒पं च॒ नाम॑ च की॒र्तिश्च॑ प्रा॒णश्चा॑पा॒नश्च॒ चक्षु॑श्च॒ श्रोत्रं॑ च ॥
+आ᳓युश्च रूपं᳓ च ना᳓म च कीर्ति᳓श्च प्राण᳓श्चापान᳓श्च च᳓क्षुश्च श्रो᳓त्रं च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/09_Ayushcha_rUpam.md">
@@ -632,7 +632,7 @@ Long life and goodly form, and name and fame, inbreathing and expiration, and si
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/10_payashcha_rasashchAnnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पय॑श्च॒ रस॒श्चान्नं॑ चा॒न्नाद्यं॑ च॒र्तं च॑ स॒त्यं चे॒ष्टं च॑ पू॒र्तं च॑ प्र॒जा च॑ प॒शव॑श्च ॥
+प᳓यश्च र᳓सश्चा᳓न्नं चान्ना᳓द्यं चर्तं᳓ च सत्यं᳓ चेष्टं᳓ च पूर्तं᳓ च प्रजा᳓ च पश᳓वश्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/10_payashcha_rasashchAnnam.md">
@@ -692,7 +692,7 @@ Milk and flavour, and food and nourishment, and right and truth, and action and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/11_tAni_sarvANyapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तानि॒ सर्वा॒ण्यप॑ क्रामन्ति ब्रह्मग॒वीमा॒ददा॑नस्य जिन॒तो ब्रा॑ह्म॒णं क्ष॒त्रिय॑स्य ॥
+ता᳓नि स᳓र्वाण्य᳓प क्रामन्ति ब्रह्मगवी᳓माद᳓दानस्य जिनतो᳓ ब्राह्मणं᳓ क्षत्रि᳓यस्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/11_tAni_sarvANyapa.md">
@@ -787,7 +787,7 @@ All these blessings of a Kshatriya depart from him when he oppresseth the Brahma
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/12_saiShA_bhImA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सैषा भी॒मा ब्र॑ह्मग॒व्य१॒॑घवि॑षा सा॒क्षात्कृ॒त्या कूल्ब॑ज॒मावृ॑ता ॥
+सै᳓षा᳓ भीमा᳓ ब्रह्मगव्य᳙घ᳓विषा साक्षा᳓त्कृत्या᳓ कू᳓ल्बजमा᳓वृता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/12_saiShA_bhImA.md">
@@ -848,7 +848,7 @@ Terrible is she this Brahman's cow, and fearfully venomous, visibly witchcraft.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/13_sarvANyasyAM_ghorANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्वा॑ण्यस्यां घो॒राणि॒ सर्वे॑ च मृ॒त्यवः॑ ॥
+स᳓र्वाण्यस्यां घोरा᳓णि स᳓र्वे च मृत्य᳓वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/13_sarvANyasyAM_ghorANi.md">
@@ -906,7 +906,7 @@ In her are all horrors and all death.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/14_sarvANyasyAM_krUrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्वा॑ण्यस्यां क्रू॒राणि॒ सर्वे॑ पुरुषव॒धाः ॥
+स᳓र्वाण्यस्यां क्रूरा᳓णि स᳓र्वे पुरुषवधाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/14_sarvANyasyAM_krUrANi.md">
@@ -964,7 +964,7 @@ In her are all dreadful, deeds, all slaughters of mankind.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/15_sA_brahmajyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सा ब्र॑ह्म॒ज्यं दे॑वपी॒युं ब्र॑ह्मग॒व्या᳡दी॒यमा॑ना मृ॒त्योः पड्वी॑ष॒ आ द्य॑ति ॥
+सा᳓ ब्रह्मज्यं᳓ देवपीयुं᳓ ब्रह्मगव्या᳙दीय᳓माना मृत्योः᳓ प᳓ड्वीष आ᳓ द्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/15_sA_brahmajyam.md">
@@ -1027,7 +1027,7 @@ This, the Brahman's cow, being appropriated, holdeth bound in the fetter of Deat
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/16_meniH_shatavadhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मे॒निः श॒तव॑धा॒ हि सा ब्र॑ह्म॒ज्यस्य॒ क्षिति॒र्हि सा ॥
+मेनिः᳓ शत᳓वधा हि᳓ सा᳓ ब्रह्मज्य᳓स्य क्षि᳓तिर्हि᳓ सा᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/16_meniH_shatavadhA.md">
@@ -1086,7 +1086,7 @@ A hundred-killing bolt is she: she slays the Brahman's injurer.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/17_tasmAdvai_brAhmaNAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्मा॒द्वै ब्रा॑ह्म॒णानां॒ गौर्दु॑रा॒धर्षा॑ विजान॒ता ॥
+त᳓स्माद्वै᳓ ब्राह्मणा᳓नां गौ᳓र्दुराध᳓र्षा विजानता᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/17_tasmAdvai_brAhmaNAnAm.md">
@@ -1145,7 +1145,7 @@ Therefore the Brahmans' cow is held inviolable by the wise.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/18_vajro_dhAvantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वज्रो॒ धाव॑न्ती वैश्वान॒र उद्वी॑ता ॥
+व᳓ज्रो धा᳓वन्ती वैश्वानर᳓ उ᳓द्वीता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/18_vajro_dhAvantI.md">
@@ -1204,7 +1204,7 @@ Running she is a thunderbolt, when driven away she is Vaisva- nara;
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/19_hetiH_shaphAnutkhidantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हे॒तिः श॒फानु॑त्खि॒दन्ती॑ महादे॒वो॒३॒॑पेक्ष॑माणा ॥
+हेतिः᳓ शफा᳓नुत्खिद᳓न्ती महादेवो᳙पे᳓क्षमाणा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/19_hetiH_shaphAnutkhidantI.md">
@@ -1263,7 +1263,7 @@ An arrow when she draweth up her hooves, and Mahadeva when she looketh around;
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/20_xurapavirIxamANA_vAshyamAnAbhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्षु॒रप॑वि॒रीक्ष॑माणा॒ वाश्य॑माना॒भि स्फू॒र्जति ॥
+क्षुर᳓पविरी᳓क्षमाणा वा᳓श्यमानाभि᳓ स्फूर्ज᳓ति᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/20_xurapavirIxamANA_vAshyamAnAbhi.md">
@@ -1325,7 +1325,7 @@ Sharp as a razor when she beholdeth, she thundereth when she belloweth.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/21_mRtyurhinkRNvatyugro_devaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मृ॒त्युर्हि॑ङ्कृण्व॒त्यु१॒॑ग्रो दे॒वः पुच्छं॑ प॒र्यस्य॑न्ती ॥
+मृत्यु᳓र्हिङ्कृण्वत्यु᳙ग्रो᳓ देवः᳓ पु᳓च्छं पर्य᳓स्यन्ती ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/21_mRtyurhinkRNvatyugro_devaH.md">
@@ -1386,7 +1386,7 @@ Death is she when she loweth, and a fierce God when she whis- keth her tail;
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/22_sarvajyAniH_karNau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑र्वज्या॒निः कर्णौ॑ वरीव॒र्जय॑न्ती राजय॒क्ष्मो मेह॑न्ती ॥
+स᳙र्वज्यानिः᳓ क᳓र्णौ वरीवर्ज᳓यन्ती राजयक्ष्मो᳓ मे᳓हन्ती ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/22_sarvajyAniH_karNau.md">
@@ -1447,7 +1447,7 @@ Utter destruction when she moveth her ears this way and that, Consumption when s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/23_menirduhyamAnA_shIrShaktirdugdhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मे॒निर्दु॒ह्यमा॑ना शीर्ष॒क्तिर्दु॒ग्धा ॥
+मेनि᳓र्दुह्य᳓माना शीर्षक्ति᳓र्दुग्धा᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/23_menirduhyamAnA_shIrShaktirdugdhA.md">
@@ -1505,7 +1505,7 @@ A missile when milking, pain in the head when milked;
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/24_sedirupatiShThantI_mithoyodhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-से॒दिरु॑प॒तिष्ठ॑न्ती मिथोयो॒धः परा॑मृष्टा ॥
+सेदि᳓रुपति᳓ष्ठन्ती मिथोयोधः᳓ प᳓रामृष्टा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/24_sedirupatiShThantI_mithoyodhaH.md">
@@ -1564,7 +1564,7 @@ The taking away of strength when she approacheth, a hand-to- hand fighter when r
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/25_sharavyA_mukhe-pinahyamAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॑र॒व्या॒३॒॑ मुखे॑ऽपिन॒ह्यमा॑न॒ ऋति॑र्ह॒न्यमा॑ना ॥
+श᳙रव्या᳙ मु᳓खेऽपिनह्य᳓मान ऋ᳓तिर्हन्य᳓माना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/25_sharavyA_mukhe-pinahyamAna.md">
@@ -1630,7 +1630,7 @@ Wounding like an arrow when she is fastened by her mouth, contention when she is
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/26_aghaviShA_nipatantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒घवि॑षा नि॒पत॑न्ती॒ तमो॒ निप॑तिता ॥
+अघ᳓विषा निप᳓तन्ती त᳓मो नि᳓पतिता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/26_aghaviShA_nipatantI.md">
@@ -1688,7 +1688,7 @@ Fearfully venomous when falling, darkness when she hath fallen down.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/27_anugachChantI_prANAnupa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑नु॒गच्छ॑न्ती प्रा॒णानुप॑ दासयति ब्रह्मग॒वी ब्र॑ह्म॒ज्यस्य॑ ॥
+अ᳙नुग᳓च्छन्ती प्राणा᳓नु᳓प दासयति ब्रह्मगवी᳓ ब्रह्मज्य᳓स्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/27_anugachChantI_prANAnupa.md">
@@ -1751,7 +1751,7 @@ Following him, the Brahman's cow extinguisheth the vital breath of the injurer o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/28_vairaM_vikRtyamAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वैरं॑ विकृ॒त्यमा॑ना॒ पौत्रा॑द्यं विभा॒ज्यमा॑ना ॥
+वै᳓रं विकृत्य᳓माना पौ᳓त्राद्यं विभाज्य᳓माना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/28_vairaM_vikRtyamAnA.md">
@@ -1814,7 +1814,7 @@ Hostility when being cut to pieces, woe to children when the portions are distri
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/29_devahetirhriyamANA_vyRddhirhRtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॑वहे॒तिर्ह्रि॒यमा॑णा॒ व्यृ᳡द्धिर्हृ॒ता ॥
+दे᳙वहेति᳓र्ह्रिय᳓माणा व्यृ᳙द्धिर्हृता᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/29_devahetirhriyamANA_vyRddhirhRtA.md">
@@ -1878,7 +1878,7 @@ A destructive missile of Gods when she is being seized, misfortune when carried 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/30_pApmAdhidhIyamAnA_pAruShyamavadhIyamAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पा॒प्माधि॑धी॒यमा॑ना॒ पारु॑ष्यमवधी॒यमा॑ना ॥
+पाप्मा᳓धिधीय᳓माना पा᳓रुष्यमवधीय᳓माना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/30_pApmAdhidhIyamAnA_pAruShyamavadhIyamAnA.md">
@@ -1936,7 +1936,7 @@ Misery while being additionally acquired, contumely and abuse while being put in
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/31_viShaM_prayasyantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒षं प्र॒यस्य॑न्ती त॒क्मा प्रय॑स्ता ॥
+विषं᳓ प्रय᳓स्यन्ती तक्मा᳓ प्र᳓यस्ता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/31_viShaM_prayasyantI.md">
@@ -1997,7 +1997,7 @@ Poison when in agitation, fever when seasoned with condi- ments;
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/32_aghaM_pachyamAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒घं प॒च्यमा॑ना दुः॒ष्वप्न्यं॑ प॒क्वा ॥
+अघं᳓ पच्य᳓माना दुःष्व᳓प्न्यं पक्वा᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/32_aghaM_pachyamAnA.md">
@@ -2056,7 +2056,7 @@ Sin while she is cooking, evil dream when she is cooked;
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/33_mUlabarhaNI_paryAkriyamANA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मू॑ल॒बर्ह॑णी पर्याक्रि॒यमा॑णा॒ क्षितिः॑ प॒र्याकृ॑ता ॥
+मू᳙लब᳓र्हणी पर्याक्रिय᳓माणा क्षि᳓तिः पर्या᳓कृता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/33_mUlabarhaNI_paryAkriyamANA.md">
@@ -2118,7 +2118,7 @@ Uprooting when she is being turned round, destruction when she hath been turned 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/34_asanjnA_gandhena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-असं॑ज्ञा ग॒न्धेन॒ शुगु॑द्ध्रि॒यमा॑णाशीवि॒ष उद्धृ॑ता ॥
+अ᳓संज्ञा गन्धे᳓न शु᳓गुद्ध्रिय᳓माणाशीविष᳓ उ᳓द्धृता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/34_asanjnA_gandhena.md">
@@ -2180,7 +2180,7 @@ Discord by her smell, grief when she is being eviscerated: ser- pent with poison
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/35_abhUtirupahriyamANA_parAbhUtirupahRtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अभू॑तिरुपह्रि॒यमा॑णा॒ परा॑भूति॒रुप॑हृता ॥
+अ᳓भूतिरुपह्रिय᳓माणा प᳓राभूतिरु᳓पहृता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/35_abhUtirupahriyamANA_parAbhUtirupahRtA.md">
@@ -2241,7 +2241,7 @@ Loss of power while sacrificially presented, humiliation when she hath been offe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/36_sharvaH_kruddhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒र्वः क्रु॒द्धः पि॒श्यमा॑ना॒ शिमि॑दा पिशि॒ता ॥
+शर्वः᳓ क्रुद्धः᳓ पिश्य᳓माना शि᳓मिदा पिशिता᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/36_sharvaH_kruddhaH.md">
@@ -2299,7 +2299,7 @@ Wrathful Sarva while being carved. Simida when cut up:
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/37_avartirashyamAnA_nirRtirashitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अव॑र्तिर॒श्यमा॑ना॒ निरृ॑तिरशि॒ता ॥
+अ᳓वर्तिरश्य᳓माना नि᳓रृतिरशिता᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/37_avartirashyamAnA_nirRtirashitA.md">
@@ -2357,7 +2357,7 @@ Poverty while she is being eaten. Destruction when eaten.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/38_ashitA_lokAchChinatti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑शि॒ता लो॒काच्छि॑नत्ति ब्रह्मग॒वी ब्र॑ह्म॒ज्यम॒स्माच्चा॒मुष्मा॑च्च ॥
+अ᳙शिता᳓ लोका᳓च्छिनत्ति ब्रह्मगवी᳓ ब्रह्मज्य᳓मस्मा᳓च्चामु᳓ष्माच्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/38_ashitA_lokAchChinatti.md">
@@ -2426,7 +2426,7 @@ The Brahman's cow when eaten cuts off the injurer of Brahmans both from this wor
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/39_tasyA_Ahananam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्या॑ आ॒हन॑नं कृ॒त्या मे॒निरा॒शस॑नं वल॒ग ऊब॑ध्यम् ॥
+त᳓स्या आह᳓ननं कृत्या᳓ मेनि᳓राश᳓सनं वलग᳓ ऊ᳓बध्यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/39_tasyA_Ahananam.md">
@@ -2487,7 +2487,7 @@ Her slaughter is the sin of witchcraft, her cutting-up is a thunder- bolt, her u
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/40_asvagatA_parihNutA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑स्व॒गता॒ परि॑ह्णुता ॥
+अ᳙स्वग᳓ता प᳓रिह्णुता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/40_asvagatA_parihNutA.md">
@@ -2547,7 +2547,7 @@ Homelessness is she when denied her rights.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/41_agniH_kravyAdbhUtvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निः क्र॒व्याद्भू॒त्वा ब्र॑ह्मग॒वी ब्र॑ह्म॒ज्यं प्र॒विश्या॑त्ति ॥
+अग्निः᳓ क्रव्या᳓द्भूत्वा᳓ ब्रह्मगवी᳓ ब्रह्मज्यं᳓ प्रवि᳓श्यात्ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/41_agniH_kravyAdbhUtvA.md">
@@ -2606,7 +2606,7 @@ Having become Flesh-eating Agni the Brahman's cow entereth into and devoureth th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/42_sarvAsyAngA_parvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्वा॒स्याङ्गा॒ पर्वा॒ मूला॑नि वृश्चति ॥
+स᳓र्वास्या᳓ङ्गा प᳓र्वा मू᳓लानि वृश्चति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/42_sarvAsyAngA_parvA.md">
@@ -2664,7 +2664,7 @@ She sunders all his members, joints, and roots.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/43_Chinattyasya_pitRbandhu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-छि॒नत्त्य॑स्य पितृब॒न्धु परा॑ भावयति मातृब॒न्धु ॥
+छिन᳓त्त्यस्य पितृबन्धु᳓ प᳓रा भावयति मातृबन्धु᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/43_Chinattyasya_pitRbandhu.md">
@@ -2723,7 +2723,7 @@ She cuts off relationship on the father's side and destroys mater- nal kinship.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/44_vivAhAM_jnAtIntsarvAnapi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॑वा॒हां ज्ञा॒तीन्त्सर्वा॒नपि॑ क्षापयति ब्रह्मग॒वी ब्र॑ह्म॒ज्यस्य॑ क्ष॒त्रिये॒णापु॑नर्दीयमाना ॥
+वि᳙वाहां᳓ ज्ञाती᳓न्त्स᳓र्वान᳓पि क्षापयति ब्रह्मगवी᳓ ब्रह्मज्य᳓स्य क्षत्रि᳓येणा᳓पुनर्दीयमाना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/44_vivAhAM_jnAtIntsarvAnapi.md">
@@ -2785,7 +2785,7 @@ The Brahman's cow, not restored by a Kshatriya, ruins the marriages and all the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/45_avAstumenamasvagamaprajasaM_karotyaparAparaNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑वा॒स्तुमे॑न॒मस्व॑ग॒मप्र॑जसं करोत्यपरापर॒णो भ॑वति क्षी॒यते॑ ॥
+अ᳙वास्तु᳓मेनम᳓स्वगम᳓प्रजसं करोत्यपरापरणो᳓ भवति क्षीय᳓ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/45_avAstumenamasvagamaprajasaM_karotyaparAparaNo.md">
@@ -2847,7 +2847,7 @@ She makes him houseless, homeless, childless: he is extinguished without posteri
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/46_ya_evam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य ए॒वं वि॒दुषो॑ ब्राह्म॒णस्य॑ क्ष॒त्रियो॒ गामा॑द॒त्ते ॥
+य᳓ एवं᳓ विदु᳓षो ब्राह्मण᳓स्य क्षत्रि᳓यो गा᳓मादत्ते᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/46_ya_evam.md">
@@ -2909,7 +2909,7 @@ So shall it be with the Kshatriya who takes to himself the cow of the Braman who
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/47_xipraM_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्षि॒प्रं वै तस्या॒हन॑ने॒ गृध्राः॑ कुर्वत ऐल॒बम् ॥
+क्षिप्रं᳓ वै᳓ त᳓स्याह᳓नने गृ᳓ध्राः कुर्वत ऐलब᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/47_xipraM_vai.md">
@@ -2972,7 +2972,7 @@ Quickly, when he is smitten down by death, the clamorous vul- tures cry:
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/48_xipraM_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्षि॒प्रं वै तस्या॒दह॑नं॒ परि॑ नृत्यन्ति के॒शिनी॑राघ्ना॒नाः पा॒णिनोर॑सि कुर्वा॒णाः पा॒पमै॑ल॒बम् ॥
+क्षिप्रं᳓ वै᳓ त᳓स्याद᳓हनं प᳓रि नृत्यन्ति केशि᳓नीराघ्नानाः᳓ पाणि᳓नो᳓रसि कुर्वाणाः᳓ पाप᳓मैलब᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/48_xipraM_vai.md">
@@ -3040,7 +3040,7 @@ Quickly around his funeral fire dance women with dishevelled locks, Striking the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/49_xipraM_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्षि॒प्रं वै तस्य॒ वास्तु॑षु॒ वृकाः॑ कुर्वत ऐल॒बम् ॥
+क्षिप्रं᳓ वै᳓ त᳓स्य वा᳓स्तुषु वृ᳓काः कुर्वत ऐलब᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/49_xipraM_vai.md">
@@ -3099,7 +3099,7 @@ Quickly the wolves are howling in the habitation where he lived:
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/50_xipraM_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्षि॒प्रं वै तस्य॑ पृच्छन्ति॒ यत्तदासी॑३दि॒दं नु ता३दिति॑ ॥
+क्षिप्रं᳓ वै᳓ त᳓स्य पृच्छन्ति य᳓त्त᳓दा᳓सी३दिदं᳓ नु᳓ ता᳓३दि᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/50_xipraM_vai.md">
@@ -3163,7 +3163,7 @@ Quickly they ask about him, What is this? What thing hath happened here?
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/51_ChindhyA_chChindhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-छि॒न्ध्या च्छि॑न्धि॒ प्र च्छि॒न्ध्यपि॑ क्षापय क्षा॒पय॑ ॥
+छिन्ध्या᳓ च्छिन्धि प्र᳓ च्छिन्ध्य᳓पि क्षापय क्षाप᳓य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/51_ChindhyA_chChindhi.md">
@@ -3221,7 +3221,7 @@ Rend, rend to pieces, rend away, destroy, destroy him utterly.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/52_AdadAnamAngirasi_brahmajyamupa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒ददा॑नमाङ्गिरसि ब्रह्म॒ज्यमुप॑ दासय ॥
+आद᳓दानमाङ्गिरसि ब्रह्मज्य᳓मु᳓प दासय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/52_AdadAnamAngirasi_brahmajyamupa.md">
@@ -3281,7 +3281,7 @@ Destroy Angirasi! the wretch who robs and wrongs the Brah- mans, born.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/53_vaishvadevI_hyuchyase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॑श्वदे॒वी ह्यु१॒॑च्यसे॑ कृ॒त्या कूल्ब॑ज॒मावृ॑ता ॥
+वै᳙श्वदेवी᳓ ह्यु᳙च्य᳓से कृत्या᳓ कू᳓ल्बजमा᳓वृता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/53_vaishvadevI_hyuchyase.md">
@@ -3341,7 +3341,7 @@ Of evil womb, thou witchcraft hid, for Vaisvadevi is thy name,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/54_oShantI_samoShantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ओष॑न्ती स॒मोष॑न्ती॒ ब्रह्म॑णो॒ वज्रः॑ ॥
+ओ᳓षन्ती समो᳓षन्ती ब्र᳓ह्मणो व᳓ज्रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/54_oShantI_samoShantI.md">
@@ -3399,7 +3399,7 @@ Consuming, burning all things up, the thunderbolt of spell and charm.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/55_xurapavirmRtyurbhUtvA_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्षु॒रप॑विर्मृ॒त्युर्भू॒त्वा वि धा॑व॒ त्वम् ॥
+क्षुर᳓पविर्मृत्यु᳓र्भूत्वा᳓ वि᳓ धाव त्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/55_xurapavirmRtyurbhUtvA_vi.md">
@@ -3460,7 +3460,7 @@ Go thou, becoming Mrityu sharp as razor's edge pursue thy course:
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/56_A_datse.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ द॑त्से जिन॒तां वर्च॑ इ॒ष्टं पू॒र्तं चा॒शिषः॑ ॥
+आ᳓ दत्से जिनतां᳓ व᳓र्च इष्टं᳓ पूर्तं᳓ चाशि᳓षः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/56_A_datse.md">
@@ -3522,7 +3522,7 @@ Thou bearest off the tyrants' strength, their store of merit, and their prayers.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/57_AdAya_jItam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒दाय॑ जी॒तं जी॒ताय॑ लो॒के३॒॑मुष्मि॒न्प्र य॑च्छसि ॥
+आदा᳓य जीतं᳓ जीता᳓य लोके᳙मु᳓ष्मिन्प्र᳓ यच्छसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/57_AdAya_jItam.md">
@@ -3581,7 +3581,7 @@ Bearing off wrong, thou givest in that world to him who hath been wronged.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/58_aghnye_padavIrbhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अघ्न्ये॑ पद॒वीर्भ॑व ब्राह्म॒णस्या॒भिश॑स्त्या ॥
+अ᳓घ्न्ये पदवी᳓र्भव ब्राह्मण᳓स्याभि᳓शस्त्या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/58_aghnye_padavIrbhava.md">
@@ -3642,7 +3642,7 @@ O Cow, become a tracker through the curse the Brahman hath pronounced,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/59_meniH_sharavyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मे॒निः श॑र॒व्या᳡ भवा॒घाद॒घवि॑षा भव ॥
+मेनिः᳓ शरव्या᳙ भवाघा᳓दघ᳓विषा भव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/59_meniH_sharavyA.md">
@@ -3701,7 +3701,7 @@ Become a bolt, an arrow through his sin, be terribly venomous.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/60_aghnye_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अघ्न्ये॒ प्र शिरो॑ जहि ब्रह्म॒ज्यस्य॑ कृ॒ताग॑सो देवपी॒योर॑रा॒धसः॑ ॥
+अ᳓घ्न्ये प्र᳓ शि᳓रो जहि ब्रह्मज्य᳓स्य कृता᳓गसो देवपीयो᳓रराध᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/60_aghnye_pra.md">
@@ -3761,7 +3761,7 @@ O Cow, break thou the head of him who wrongs the Brahmans, criminal, niggard, bl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/61_tvayA_pramUrNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वया॒ प्रमू॑र्णं मृदि॒तम॒ग्निर्द॑हतु दु॒श्चित॑म् ॥
+त्व᳓या प्र᳓मूर्णं मृदित᳓मग्नि᳓र्दहतु दुश्चि᳓तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/61_tvayA_pramUrNam.md">
@@ -3827,7 +3827,7 @@ Let Agni burn the spiteful wretch when crushed to death and slain by thee.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/62_vRshcha_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वृ॒श्च प्र वृ॑श्च॒ सं वृ॑श्च॒ दह॒ प्र द॑ह॒ सं द॑ह ॥
+वृश्च᳓ प्र᳓ वृश्च सं᳓ वृश्च द᳓ह प्र᳓ दह सं᳓ दह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/62_vRshcha_pra.md">
@@ -3885,7 +3885,7 @@ Rend, rend to bits, rend through and through, scorch and con- sume and burn to d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/63_brahmajyaM_devyaghnya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्र॑ह्म॒ज्यं दे॑व्यघ्न्य॒ आ मूला॑दनु॒संद॑ह ॥
+ब्र᳙ह्मज्यं᳓ देव्यघ्न्य आ᳓ मू᳓लादनुसं᳓दह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/63_brahmajyaM_devyaghnya.md">
@@ -3946,7 +3946,7 @@ Consume thou, even from the root, the Brahmans' tyrant, god- like Cow!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/64_yathAyAdyamasAdanAtpApalokAnparAvataH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथाया॑द्यमसाद॒नात्पा॑पलो॒कान्प॑रा॒वतः॑ ॥
+य᳓था᳓याद्यमसादना᳓त्पापलोका᳓न्पराव᳓तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/64_yathAyAdyamasAdanAtpApalokAnparAvataH.md">
@@ -4004,7 +4004,7 @@ That he may go from Yama's home afar into the worlds of sin. its
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/65_evA_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒वा त्वं दे॑व्यघ्न्ये ब्रह्म॒ज्यस्य॑ कृ॒ताग॑सो देवपी॒योर॑रा॒धसः॑ ॥
+एवा᳓ त्वं᳓ देव्यघ्न्ये ब्रह्मज्य᳓स्य कृता᳓गसो देवपीयो᳓रराध᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/65_evA_tvam.md">
@@ -4063,7 +4063,7 @@ So, Goddess Cow, do thou from him, the Brahmans' tyrant, criminal, niggard, blas
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/66_vajreNa_shataparvaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वज्रे॑ण श॒तप॑र्वणा ती॒क्ष्णेन॑ क्षु॒रभृ॑ष्टिना ॥
+व᳓ज्रेण शत᳓पर्वणा तीक्ष्णे᳓न क्षुर᳓भृष्टिना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/66_vajreNa_shataparvaNA.md">
@@ -4121,7 +4121,7 @@ With hundred-knotted thunderbolt, sharpened and edged with razor-blades,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/67_pra_skandhAnpra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र स्क॒न्धान्प्र शिरो॑ जहि ॥
+प्र᳓ स्कन्धा᳓न्प्र᳓ शि᳓रो जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/67_pra_skandhAnpra.md">
@@ -4179,7 +4179,7 @@ Strike off the shoulders and the head.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/68_lomAnyasya_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-लोमा॑न्यस्य॒ सं छि॑न्धि॒ त्वच॑मस्य॒ वि वे॑ष्टय ॥
+लो᳓मान्यस्य सं᳓ छिन्धि त्व᳓चमस्य वि᳓ वेष्टय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/68_lomAnyasya_sam.md">
@@ -4238,7 +4238,7 @@ Snatch thou the hair from off his head, and from his body strip the skin:
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/69_mAMsAnyasya_shAtaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मां॒सान्य॑स्य शातय॒ स्नावा॑न्यस्य॒ सं वृ॑ह ॥
+मांसा᳓न्यस्य शातय स्ना᳓वान्यस्य सं᳓ वृह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/69_mAMsAnyasya_shAtaya.md">
@@ -4296,7 +4296,7 @@ Tear out his sinews, cause his flesh to fall in pieces from his frame.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/70_asthInyasya_pIDaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अस्थी॑न्यस्य पीडय म॒ज्जान॑मस्य॒ निर्ज॑हि ॥
+अ᳓स्थीन्यस्य पीडय मज्जा᳓नमस्य नि᳓र्जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/70_asthInyasya_pIDaya.md">
@@ -4354,7 +4354,7 @@ Crush thou his bones together, strike and beat the marrow out of him.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/71_sarvAsyAngA_parvANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्वा॒स्याङ्गा॒ पर्वा॑णि॒ वि श्र॑थय ॥
+स᳓र्वास्या᳓ङ्गा प᳓र्वाणि वि᳓ श्रथय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/71_sarvAsyAngA_parvANi.md">
@@ -4412,7 +4412,7 @@ Dislocate all his limbs and joints.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/72_agnirenaM_kravyAtpRthivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निरे॑नं क्र॒व्यात्पृ॑थि॒व्या नु॑दता॒मुदो॑षतु वा॒युर॒न्तरि॑क्षान्मह॒तो व॑रि॒म्णः ॥
+अग्नि᳓रेनं क्रव्या᳓त्पृथिव्या᳓ नुदतामु᳓दोषतु वायु᳓रन्त᳓रिक्षान्महतो᳓ वरिम्णः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/72_agnirenaM_kravyAtpRthivyA.md">
@@ -4472,7 +4472,7 @@ From earth let the Carnivorous Agni drive him, let Vayu burn. him from mid-air's
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/005_brahmagavI/73_sUrya_enam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्य॑ एनं दि॒वः प्र णु॑दतां॒ न्यो᳡षतु ॥
+सू᳓र्य एनं दिवः᳓ प्र᳓ णुदतां न्यो᳙षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/73_sUrya_enam.md">

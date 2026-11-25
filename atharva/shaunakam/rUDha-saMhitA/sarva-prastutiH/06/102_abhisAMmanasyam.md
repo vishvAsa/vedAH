@@ -33,8 +33,8 @@ Translated: Weber, Ind. Stud. 243; Grill, 54, 169; Griffith, i. 301; Bloomfield,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒यं वा॒हो अ॑श्विना स॒मैति॒ सं च॒ वर्त॑ते।  
-ए॒वा माम॒भि ते॒ मनः॑ स॒मैतु॒ सं च॑ वर्तताम् ॥
+य᳓थायं᳓ वाहो᳓ अश्विना समै᳓ति सं᳓ च व᳓र्तते।  
+एवा᳓ मा᳓मभि᳓ ते म᳓नः समै᳓तु सं᳓ च वर्तताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
@@ -98,8 +98,8 @@ Even as this ox, O Asvins, steps and turns together with his mate, So let thy fa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आहं खि॑दामि ते॒ मनो॑ राजा॒श्वः पृ॒ष्ट्यामि॑व।  
-रे॒ष्मच्छि॑न्नं॒ यथा॒ तृणं॒ मयि॑ ते वेष्टतां॒ मनः॑ ॥
+आ᳓हं᳓ खिदामि ते म᳓नो राजाश्वः᳓ पृष्ट्या᳓मिव।  
+रेष्म᳓च्छिन्नं य᳓था तृ᳓णं म᳓यि ते वेष्टतां म᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
@@ -170,8 +170,8 @@ I, as the shaft-horse draws the mare beside him, draw thee to myself. Like grass
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आञ्ज॑नस्य म॒दुघ॑स्य॒ कुष्ठ॑स्य॒ नल॑दस्य च।  
-तु॒रो भग॑स्य॒ हस्ता॑भ्यामनु॒रोध॑न॒मुद्भ॑रे ॥
+आ᳓ञ्जनस्य मदु᳓घस्य कु᳓ष्ठस्य न᳓लदस्य च।  
+तुरो᳓ भ᳓गस्य ह᳓स्ताभ्यामनुरो᳓धनमु᳓द्भरे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">

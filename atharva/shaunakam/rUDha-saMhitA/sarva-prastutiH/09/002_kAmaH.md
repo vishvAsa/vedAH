@@ -39,8 +39,8 @@ A glorification of Kama as God of desire of all that is good
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/01_sapatnahanamRShabhaM_ghRtena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सपत्न॒हन॑मृष॒भं घृ॒तेन॒ कामं॑ शिक्षामि ह॒विषाज्ये॑न।  
-नी॒चैः स॒पत्ना॒न्मम॑ पादय॒ त्वम॒भिष्टु॑तो मह॒ता वी॒र्ये᳡ण ॥
+स᳓प᳓त्नह᳓नमृषभं᳓ घृते᳓न का᳓मं शिक्षामि हवि᳓षा᳓ज्येन।  
+नीचैः᳓ सप᳓त्नान्म᳓म पादय त्व᳓मभि᳓ष्टुतो महता᳓ वीर्ये᳙ण ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/01_sapatnahanamRShabhaM_ghRtena.md">
@@ -103,8 +103,8 @@ Kama the Bull, slayer of foes, I worship with molten butter, sacrifice, oblation
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/02_yanme_manaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यन्मे॒ मन॑सो॒ न प्रि॒यं न चक्षु॑षो॒ यन्मे॒ बभ॑स्ति॒ नाभि॒नन्द॑ति।  
-तद्दुः॒ष्वप्न्यं॒ प्रति॑ मुञ्चामि स॒पत्ने॒ कामं॑ स्तु॒त्वोद॒हं भि॑देयम् ॥
+य᳓न्मे म᳓नसो न᳓ प्रियं᳓ न᳓ च᳓क्षुषो य᳓न्मे ब᳓भस्ति ना᳓भिन᳓न्दति।  
+त᳓द्दुःष्व᳓प्न्यं प्र᳓ति मुञ्चामि सप᳓त्ने का᳓मं स्तुत्वो᳓दहं᳓ भिदेयम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/02_yanme_manaso.md">
@@ -175,8 +175,8 @@ That which is hateful to mine eye and spirit, that harasses and robs me of enjoy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/03_duHShvapnyaM_kAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दुः॒ष्वप्न्यं॑ काम दुरि॒तं च॑ कमाप्र॒जस्ता॑मस्व॒गता॒मव॑र्तिम्।  
-उ॒ग्र ईशा॑नः॒ प्रति॑ मुञ्च॒ तस्मि॒न्यो अ॒स्मभ्य॑मंहूर॒णा चिकि॑त्सात् ॥
+दुःष्व᳓प्न्यं काम दुरितं᳓ च कमाप्रज᳓स्तामस्वग᳓ताम᳓वर्तिम्।  
+उग्र᳓ ई᳓शानः प्र᳓ति मुञ्च त᳓स्मिन्यो᳓ अस्म᳓भ्यमंहूरणा᳓ चि᳓कित्सात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/03_duHShvapnyaM_kAma.md">
@@ -238,8 +238,8 @@ Kama, do thou, a mighty Lord and Ruler, let loose ill dream, misfortune, want of
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/04_nudasva_kAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नु॒दस्व॑ काम॒ प्र णु॑दस्व का॒माव॑र्तिं यन्तु॒ मम॒ ये स॒पत्नाः॑।  
-तेषां॑ नु॒त्ताना॑मध॒मा तमां॒स्यग्ने॒ वास्तू॑नि॒ निर्द॑ह॒ त्वम् ॥
+नुद᳓स्व काम प्र᳓ णुदस्व कामा᳓वर्तिं यन्तु म᳓म ये᳓ सप᳓त्नाः।  
+ते᳓षां नुत्ता᳓नामधमा᳓ त᳓मांस्य᳓ग्ने वा᳓स्तूनि नि᳓र्दह त्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/04_nudasva_kAma.md">
@@ -305,8 +305,8 @@ Drive them away, drive them afar, O Kama; indigence fall on those who are my foe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/05_sA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सा ते॑ काम दुहि॒ता धे॒नुरु॑च्यते॒ यामा॒हुर्वाचं॑ क॒वयो॑ वि॒राज॑म्।  
-तया॑ स॒पत्ना॒न्परि॑ वृङ्ग्धि॒ ये मम॒ पर्ये॑नान्प्रा॒णः प॒शवो॒ जीव॑नं वृणक्तु ॥
+सा᳓ ते काम दुहिता᳓ धेनु᳓रुच्यते या᳓माहु᳓र्वा᳓चं कव᳓यो विरा᳓जम्।  
+त᳓या सप᳓त्नान्प᳓रि वृङ्ग्धि ये᳓ म᳓म प᳓र्येनान्प्राणः᳓ पश᳓वो जी᳓वनं वृणक्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/05_sA_te.md">
@@ -370,8 +370,8 @@ She, Kama! she is called the Cow, thy daughter, she who is named Vak and Viraj b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/06_kAmasyendrasya_varuNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-काम॒स्येन्द्र॑स्य॒ वरु॑णस्य॒ राज्ञो॒ विष्णो॒र्बले॑न सवि॒तुः स॒वेन॑।  
-अ॒ग्नेर्हो॒त्रेण॒ प्र णु॑दे स॒पत्ना॑ञ्छ॒म्बीव॒ नाव॑मुद॒केषु॒ धीरः॑ ॥
+का᳓मस्ये᳓न्द्रस्य व᳓रुणस्य रा᳓ज्ञो वि᳓ष्णोर्ब᳓लेन सवितुः᳓ सवे᳓न।  
+अग्ने᳓र्होत्रे᳓ण प्र᳓ णुदे सप᳓त्नाञ्छम्बी᳓व ना᳓वमुदके᳓षु धी᳓रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/06_kAmasyendrasya_varuNasya.md">
@@ -435,8 +435,8 @@ By Kama's might, King Varuna's and Indra's, by Vishnu's strength, and Savitar's 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/07_adhyaxo_vAjI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अध्य॑क्षो वा॒जी मम॒ काम॑ उ॒ग्रः कृ॒णोतु॒ मह्य॑मसप॒त्नमे॒व।  
-विश्वे॑ दे॒वा मम॑ ना॒थं भ॑वन्तु॒ सर्वे॑ दे॒वा हव॒मा य॑न्तु म इ॒मम् ॥
+अ᳓ध्यक्षो वाजी᳓ म᳓म का᳓म उग्रः᳓ कृणो᳓तु म᳓ह्यमसपत्न᳓मेव᳓।  
+वि᳓श्वे देवा᳓ म᳓म नाथं᳓ भवन्तु स᳓र्वे देवा᳓ ह᳓वमा᳓ यन्तु म इम᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/07_adhyaxo_vAjI.md">
@@ -507,8 +507,8 @@ May Kama, mighty one, my potent warder, give me full free- dom from mine adversa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/08_idamAjyaM_ghRtavajjuShANAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दमाज्यं॑ घृ॒तव॑ज्जुषा॒णाः काम॑ज्येष्ठा इ॒ह मा॑दयध्वम्।  
-कृ॒ण्वन्तो॒ मह्य॑मसप॒त्नमे॒व ॥
+इद᳓मा᳓ज्यं घृत᳓वज्जुषाणाः᳓ का᳓मज्येष्ठा इह᳓ मादयध्वम्।  
+कृण्व᳓न्तो म᳓ह्यमसपत्न᳓मेव᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/08_idamAjyaM_ghRtavajjuShANAH.md">
@@ -571,8 +571,8 @@ Accepting this oblation rich with fatness, be joyful here, ye Gods whose chief i
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/09_indrAgnI_kAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॑न्द्रा॒ग्नी का॑म स॒रथं॒ हि भू॒त्वा नी॒चैः स॒पत्ना॒न्मम॑ पादयाथः।  
-तेषां॑ प॒न्नाना॑मध॒मा तमां॒स्यग्ने॒ वास्तू॑न्यनु॒निर्द॑ह॒ त्वम् ॥
+इ᳙न्द्राग्नी᳓ काम सर᳓थं हि᳓ भूत्वा᳓ नीचैः᳓ सप᳓त्नान्म᳓म पादयाथः।  
+ते᳓षां पन्ना᳓नामधमा᳓ त᳓मांस्य᳓ग्ने वा᳓स्तून्यनुनि᳓र्दह त्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/09_indrAgnI_kAma.md">
@@ -638,8 +638,8 @@ Ye, Indra, Agni, Kama! come together and cast mine adver- saries down beneath me
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/10_jahi_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज॒हि त्वं का॑म॒ मम॒ ये स॒पत्ना॑ अ॒न्धा तमां॒स्यव॑ पादयैनान्।  
-निरि॑न्द्रिया अर॒साः स॑न्तु॒ सर्वे॒ मा ते जी॑विषुः कत॒मच्च॒नाहः॑ ॥
+जहि᳓ त्वं᳓ काम म᳓म ये᳓ सप᳓त्ना अन्धा᳓ त᳓मांस्य᳓व पादयैनान्।  
+नि᳓रिन्द्रिया अरसाः᳓ सन्तु स᳓र्वे मा᳓ ते᳓ जीविषुः कतम᳓च्चना᳓हः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/10_jahi_tvam.md">
@@ -703,8 +703,8 @@ Slay those who are mine enemies, O Kama: headlong to depth of blinding darkness 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/11_avadhItkAmo_mama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अव॑धी॒त्कामो॒ मम॒ ये स॒पत्ना॑ उ॒रुं लो॒कम॑कर॒न्मह्य॑मेध॒तुम्।  
-मह्यं॑ नमन्तां प्र॒दिश॒श्चत॑स्रो॒ मह्यं॒ षडु॒र्वीर्घृ॒तमा व॑हन्तु ॥
+अ᳓वधीत्का᳓मो म᳓म ये᳓ सप᳓त्ना उरुं᳓ लोक᳓मकरन्म᳓ह्यमेधतु᳓म्।  
+म᳓ह्यं नमन्तां प्रदि᳓शश्च᳓तस्रो म᳓ह्यं ष᳓डुर्वी᳓र्घृत᳓मा᳓ वहन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/11_avadhItkAmo_mama.md">
@@ -768,8 +768,8 @@ Kama hath slain those who were mine opponents, and given me ample room to grow a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/12_tedharAnchaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ते᳡ध॒राञ्चः॒ प्र प्ल॑वन्तां छि॒न्ना नौरि॑व॒ बन्ध॑नात्।  
-न साय॑कप्रणुत्तानां॒ पुन॑रस्ति नि॒वर्त॑नम् ॥
+ते᳙धरा᳓ञ्चः प्र᳓ प्लवन्तां छिन्ना᳓ नौ᳓रिव ब᳓न्धनात्।  
+न᳓ सा᳓यकप्रणुत्तानां पु᳓नरस्ति निव᳓र्तनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/12_tedharAnchaH_pra.md">
@@ -831,8 +831,8 @@ Let them drift downward like a boat torn from the rope that held it fast. There 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/13_agniryava_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निर्यव॒ इन्द्रो॒ यवः॒ सोमो॒ यवः॑।  
-य॑व॒यावा॑नो दे॒वा य॑वयन्त्वेनम् ॥
+अग्नि᳓र्य᳓व इ᳓न्द्रो य᳓वः सो᳓मो य᳓वः।  
+य᳙वया᳓वानो देवा᳓ यवयन्त्वेनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/13_agniryava_indro.md">
@@ -899,8 +899,8 @@ Agni averts, Indra averts, and Soma: may the averting Gods avert this foeman.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/14_asarvavIrashcharatu_praNutto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अस॑र्ववीरश्चरतु॒ प्रणु॑त्तो॒ द्वेष्यो॑ मि॒त्राणां॑ परिव॒र्ग्यः१॒॑ स्वाना॑म्।  
-उ॒त पृ॑थि॒व्यामव॑ स्यन्ति वि॒द्युत॑ उ॒ग्रो वो॑ दे॒वः प्र मृ॑णत्स॒पत्ना॑न् ॥
+अ᳓सर्ववीरश्चरतु प्र᳓णुत्तो द्वे᳓ष्यो मित्रा᳓णां परिवर्ग्यः᳙ स्वा᳓नाम्।  
+उत᳓ पृथिव्या᳓म᳓व स्यन्ति विद्यु᳓त उग्रो᳓ वो देवः᳓ प्र᳓ मृणत्सप᳓त्नान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/14_asarvavIrashcharatu_praNutto.md">
@@ -967,8 +967,8 @@ To be avoided by his friends, detested, repelled, with few men round him, let hi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/15_chyutA_cheyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-च्यु॒ता चे॒यं बृ॑ह॒त्यच्यु॑ता च वि॒द्युद्बि॑भर्ति स्तनयि॒त्नूंश्च॒ सर्वा॑न्।  
-उ॒द्यन्ना॑दि॒त्यो द्रवि॑णेन॒ तेज॑सा नी॒चैः स॒पत्ना॑न्नुदतां मे॒ सह॑स्वान् ॥
+च्युता᳓ चेयं᳓ बृहत्य᳓च्युता च विद्यु᳓द्बिभर्ति स्तनयित्नूं᳓श्च स᳓र्वान्।  
+उद्य᳓न्नादित्यो᳓ द्र᳓विणेन ते᳓जसा नीचैः᳓ सप᳓त्नान्नुदतां मे स᳓हस्वान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/15_chyutA_cheyam.md">
@@ -1033,8 +1033,8 @@ This potent lightning nourishes things shaken, and things un- shaken yet, and al
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/16_yatte_kAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्ते॑ काम॒ शर्म॑ त्रि॒वरू॑थमु॒द्भु ब्रह्म॒ वर्म॒ वित॑तमनतिव्या॒ध्यं᳡ कृ॒तम्।  
-तेन॑ स॒पत्ना॒न्परि॑ वृङ्ग्धि॒ ये मम॒ पर्ये॑नान्प्रा॒णः प॒शवो॒ जीव॑नं वृणक्तु ॥
+य᳓त्ते काम श᳓र्म त्रिव᳓रूथमुद्भु᳓ ब्र᳓ह्म व᳓र्म वि᳓ततमनतिव्याध्यं᳙ कृत᳓म्।  
+ते᳓न सप᳓त्नान्प᳓रि वृङ्ग्धि ये᳓ म᳓म प᳓र्येनान्प्राणः᳓ पश᳓वो जी᳓वनं वृणक्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/16_yatte_kAma.md">
@@ -1101,8 +1101,8 @@ Thy firm and triply-barred protection, Kama! thy spell, made weapon-proof extend
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/17_yena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ दे॒वा असु॑रा॒न्प्राणु॑दन्त॒ येनेन्द्रो॒ दस्यू॑नध॒मं तमो॑ नि॒नाय॑।  
-तेन॒ त्वं का॑म॒ मम॒ ये स॒पत्ना॒स्तान॒स्माल्लो॒कात्प्र णु॑दस्व दू॒रम् ॥
+ये᳓न देवा᳓ अ᳓सुरान्प्रा᳓णुदन्त ये᳓ने᳓न्द्रो द᳓स्यूनधमं᳓ त᳓मो निना᳓य।  
+ते᳓न त्वं᳓ काम म᳓म ये᳓ सप᳓त्नास्ता᳓नस्मा᳓ल्लोका᳓त्प्र᳓ णुदस्व दूर᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/17_yena_devA.md">
@@ -1159,8 +1159,8 @@ Far from the world wherein we live, O Kama, drive thou my foemen with that selfs
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/18_yathA_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ दे॒वा असु॑रा॒न्प्राणु॑दन्त॒ यथेन्द्रो॒ दस्यू॑नध॒मं तमो॑ बबा॒धे।  
-तथा॒ त्वं का॑म॒ मम॒ ये स॒पत्ना॒स्तान॒स्माल्लो॒कात्प्र णु॑दस्व दू॒रम् ॥
+य᳓था देवा᳓ अ᳓सुरान्प्रा᳓णुदन्त य᳓थे᳓न्द्रो द᳓स्यूनधमं᳓ त᳓मो बबाधे᳓।  
+त᳓था त्वं᳓ काम म᳓म ये᳓ सप᳓त्नास्ता᳓नस्मा᳓ल्लोका᳓त्प्र᳓ णुदस्व दूर᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/18_yathA_devA.md">
@@ -1223,8 +1223,8 @@ As Gods repelled the Asuras, and Indra down to the lowest darkness drove the dem
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/19_kAmo_jajne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कामो॑ जज्ञे प्रथ॒मो नैनं॑ दे॒वा आ॑पुः पि॒तरो॒ न मर्त्याः॑।  
-तत॒स्त्वम॑सि॒ ज्याया॑न्वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत्कृ॑णोमि ॥
+का᳓मो जज्ञे प्रथमो᳓ नै᳓नं देवा᳓ आपुः पित᳓रो न᳓ म᳓र्त्याः।  
+त᳓तस्त्व᳓मसि ज्या᳓यान्विश्व᳓हा महां᳓स्त᳓स्मै ते काम न᳓म इ᳓त्कृणोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/19_kAmo_jajne.md">
@@ -1288,8 +1288,8 @@ First before all sprang Kama into being. Gods, Fathers, mortal men have never ma
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/20_yAvatI_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याव॑ती॒ द्यावा॑पृथि॒वी व॑रि॒म्णा याव॒दापः॑ सिष्य॒दुर्याव॑द॒ग्निः।  
-तत॒स्त्वम॑सि॒ ज्याया॑न्वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत्कृ॑णोमि ॥
+या᳓वती द्या᳓वापृथिवी᳓ वरिम्णा᳓ या᳓वदा᳓पः सिष्यदु᳓र्या᳓वदग्निः᳓।  
+त᳓तस्त्व᳓मसि ज्या᳓यान्विश्व᳓हा महां᳓स्त᳓स्मै ते काम न᳓म इ᳓त्कृणोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/20_yAvatI_dyAvApRthivI.md">
@@ -1352,8 +1352,8 @@ Wide as the space which heaven and earth encompass, far as the flow of waters, f
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/21_yAvatIrdishaH_pradisho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याव॑ती॒र्दिशः॑ प्र॒दिशो॒ विषू॑ची॒र्याव॑ती॒राशा॑ अभि॒चक्ष॑णा दि॒वः।  
-तत॒स्त्वम॑सि॒ ज्याया॑न्वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत्कृ॑णोमि ॥
+या᳓वतीर्दि᳓शः प्रदि᳓शो वि᳓षूचीर्या᳓वतीरा᳓शा अभिच᳓क्षणा दिवः᳓।  
+त᳓तस्त्व᳓मसि ज्या᳓यान्विश्व᳓हा महां᳓स्त᳓स्मै ते काम न᳓म इ᳓त्कृणोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/21_yAvatIrdishaH_pradisho.md">
@@ -1415,8 +1415,8 @@ Vast as the quarters of the sky and regions that lie between them spread in all 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/22_yAvatIrbhRngA_jatvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याव॑ती॒र्भृङ्गा॑ ज॒त्वः᳡ कु॒रूर॑वो॒ याव॑ती॒र्वघा॑ वृक्षस॒र्प्यो᳡ बभू॒वुः।  
-तत॒स्त्वम॑सि॒ ज्याया॑न्वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत्कृ॑णोमि ॥
+या᳓वतीर्भृ᳓ङ्गा जत्वः᳙ कुरू᳓रवो या᳓वतीर्व᳓घा वृक्षसर्प्यो᳙ बभूवुः᳓।  
+त᳓तस्त्व᳓मसि ज्या᳓यान्विश्व᳓हा महां᳓स्त᳓स्मै ते काम न᳓म इ᳓त्कृणोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/22_yAvatIrbhRngA_jatvaH.md">
@@ -1479,8 +1479,8 @@ Many as are the bees, and bats, and reptiles, and female serpents of the trees, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/23_jyAyAnnimiShatosi_tiShThato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज्याया॑न्निमि॒षतो᳡सि॒ तिष्ठ॑तो॒ ज्याया॑न्त्समु॒द्राद॑सि काम मन्यो।  
-तत॒स्त्वम॑सि॒ ज्याया॑न्वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत्कृ॑णोमि ॥
+ज्या᳓यान्निमिष᳓तो᳙सि ति᳓ष्ठतो ज्या᳓यान्त्समुद्रा᳓दसि काम मन्यो।  
+त᳓तस्त्व᳓मसि ज्या᳓यान्विश्व᳓हा महां᳓स्त᳓स्मै ते काम न᳓म इ᳓त्कृणोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/23_jyAyAnnimiShatosi_tiShThato.md">
@@ -1540,8 +1540,8 @@ Stronger art thou than aught that stands or twinkles, stronger art thou than oce
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/24_na_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न वै वात॑श्च॒न काम॑माप्नोति॒ नाग्निः सूर्यो॒ नोत च॒न्द्रमाः॑।  
-तत॒स्त्वम॑सि॒ ज्याया॑न्वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत्कृ॑णोमि ॥
+न᳓ वै᳓ वा᳓तश्चन᳓ का᳓ममाप्नोति ना᳓ग्निः᳓ सू᳓र्यो नो᳓त᳓ चन्द्र᳓माः।  
+त᳓तस्त्व᳓मसि ज्या᳓यान्विश्व᳓हा महां᳓स्त᳓स्मै ते काम न᳓म इ᳓त्कृणोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/24_na_vai.md">
@@ -1606,8 +1606,8 @@ Not even Vata is the peer of Kama, not Agni, Chandramas the Moon, nor Surya. Str
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/25_yAste_shivAstanvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यास्ते॑ शि॒वास्त॒न्वः᳡ काम भ॒द्रा याभिः॑ स॒त्यं भव॑ति॒ यद्वृ॑णी॒षे।  
-ताभि॒ष्ट्वम॒स्माँ अ॑भि॒संवि॑शस्वा॒न्यत्र॑ पा॒पीरप॑ वेशया॒ धियः॑ ॥
+या᳓स्ते शिवा᳓स्तन्वः᳙ काम भद्रा᳓ या᳓भिः सत्यं᳓ भ᳓वति य᳓द्वृणीषे᳓।  
+ता᳓भिष्ट्व᳓मस्माँ᳓ अभिसं᳓विशस्वान्य᳓त्र पापी᳓र᳓प वेशया धि᳓यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/002_kAmaH/25_yAste_shivAstanvaH.md">

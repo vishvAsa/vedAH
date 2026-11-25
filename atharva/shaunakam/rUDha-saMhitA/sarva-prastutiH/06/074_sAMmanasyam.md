@@ -38,8 +38,8 @@ A King's charm to secure the fidelity of his people
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/01_saM_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं वः॑ पृच्यन्तां त॒न्वः१॒॑ सं मनां॑सि॒ समु॑ व्र॒ता।  
-सं वो॒ऽयं ब्रह्म॑ण॒स्पति॒र्भगः॒ सं वो॑ अजीगमत् ॥
+सं᳓ वः पृच्यन्तां तन्वः᳙ सं᳓ म᳓नांसि स᳓मु व्रता᳓।  
+सं᳓ वोऽयं᳓ ब्र᳓ह्मणस्प᳓तिर्भ᳓गः सं᳓ वो अजीगमत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/074_sAMmanasyam/01_saM_vaH.md">
@@ -102,8 +102,8 @@ Close gathered be your bodies: be your minds and vows in. unison! Here present B
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/02_sanjnapanaM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं॒ज्ञप॑नं वो॒ मन॒सोऽथो॑ संज्ञप॑नं हृ॒दः।  
-अथो॒ भग॑स्य॒ यच्छ्रा॒न्तं तेन॒ संज्ञ॑पयामि वः ॥
+संज्ञ᳓पनं वो म᳓नसो᳓ऽथो सं᳓ज्ञ᳓पनं हृदः᳓।  
+अ᳓थो भ᳓गस्य य᳓च्छ्रान्तं᳓ ते᳓न सं᳓ज्ञपयामि वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/074_sAMmanasyam/02_sanjnapanaM_vo.md">
@@ -178,8 +178,8 @@ Let there be union of your minds, let there be union of your hearts: All that is
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/03_yathAdityA_vasubhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑दि॒त्या वसु॑भिः सम्बभू॒वुर्म॒रुद्भि॑रु॒ग्रा अहृ॑णीयमानाः।  
-ए॒वा त्रि॑णाम॒न्नहृ॑णीयमान इ॒माञ्जना॒न्त्संम॑नसस्कृधी॒ह ॥
+य᳓थादित्या᳓ व᳓सुभिः सम्बभूवु᳓र्मरु᳓द्भिरुग्रा᳓ अ᳓हृणीयमानाः।  
+एवा᳓ त्रिणामन्न᳓हृणीयमान इमा᳓ञ्ज᳓नान्त्सं᳓मनसस्कृधीह᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/074_sAMmanasyam/03_yathAdityA_vasubhiH.md">

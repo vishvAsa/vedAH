@@ -37,8 +37,8 @@ A benediction on a newly elected King
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/01_yena_devam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ दे॒वं स॑वि॒तारं॒ परि॑ दे॒वा अधा॑रयन्।  
-तेने॒मं ब्र॑ह्मणस्पते॒ परि॑ रा॒ष्ट्राय॑ धत्तन ॥
+ये᳓न देवं᳓ सविता᳓रं प᳓रि देवा᳓ अ᳓धारयन्।  
+ते᳓नेमं᳓ ब्रह्मणस्पते प᳓रि राष्ट्रा᳓य धत्तन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/01_yena_devam.md">
@@ -106,8 +106,8 @@ Do ye, O Brahmanaspati, invest for the royal sway this man. With that wherewith 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/02_parImamindramAyuShe_mahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परी॒ममिन्द्र॒मायु॑षे म॒हे क्ष॒त्राय॑ धत्तन।  
-यथै॑नं ज॒रसे॒ नयां ज्योक्क्ष॒त्रेऽधि॑ जागरत् ॥
+प᳓रीम᳓मि᳓न्द्रमा᳓युषे महे᳓ क्षत्रा᳓य धत्तन।  
+य᳓थैनं जर᳓से न᳓यां᳓ ज्यो᳓क्क्षत्रे᳓ऽधि जागरत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/02_parImamindramAyuShe_mahe.md">
@@ -184,8 +184,8 @@ Invest this Indra for long life, invest him for great princely power, That I may
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/03_parImaM_somamAyuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परी॒मं सोम॒मायु॑षे म॒हे श्रोत्रा॑य धत्तन।  
-यथै॑नं ज॒रसे॑ न॒यां ज्योक्श्रोत्रेऽधि॑ जागरत्॥
+प᳓रीमं᳓ सो᳓ममा᳓युषे महे᳓ श्रो᳓त्राय धत्तन।  
+य᳓थैनं जर᳓से नयां᳓ ज्यो᳓क्श्रो᳓त्रे᳓ऽधि जागरत्॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/03_parImaM_somamAyuShe.md">
@@ -252,8 +252,8 @@ Invest this Soma for long life, invest him for great hearing power. That I may l
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/04_pari_dhatta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ धत्त ध॒त्त नो॒ वर्च॑से॒मं ज॒रामृ॑त्युं कृणुत दी॒र्घमायुः॑।  
-बृह॒स्पतिः॒ प्राय॑च्छ॒द्वास॑ ए॒तत्सोमा॑य॒ राज्ञे॒ परि॑धात॒वा उ॑ ॥
+प᳓रि धत्त धत्त᳓ नो व᳓र्चसेमं᳓ जरा᳓मृत्युं कृणुत दीर्घ᳓मा᳓युः।  
+बृ᳓हस्प᳓तिः प्रा᳓यच्छद्वा᳓स एत᳓त्सो᳓माय रा᳓ज्ञे प᳓रिधातवा᳓ उ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/04_pari_dhatta.md">
@@ -320,8 +320,8 @@ For us, surround him, cover him with splendour, give him long life, and death wh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/05_jarAM_su.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज॒रां सु ग॑च्छ॒ परि॑ धत्स्व॒ वासो॒ भवा॑ गृष्टी॒नाम॑भिशस्ति॒पा उ॑।  
-श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒ची रा॒यश्च॒ पोष॑मुप॒संव्य॑यस्व ॥
+जरां᳓ सु᳓ गच्छ प᳓रि धत्स्व वा᳓सो भ᳓वा गृष्टीना᳓मभिशस्तिपा᳓ उ।  
+शतं᳓ च जी᳓व शर᳓दः पुरूची᳓ राय᳓श्च पो᳓षमुपसं᳓व्ययस्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/05_jarAM_su.md">
@@ -398,8 +398,8 @@ Advance to good old age: endue the mantle. Be thou our heifers' guard from impre
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/06_parIdaM_vAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परी॒दं वासो॑ अधिथाः स्व॒स्तयेऽभू॑र्वापी॒नाम॑भिशस्ति॒पा उ॑।  
-श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒चीर्वसू॑नि॒ चारु॒र्वि भ॑जासि॒ जीव॑न् ॥
+प᳓रीदं᳓ वा᳓सो अधिथाः स्वस्त᳓ये᳓ऽभूर्वापीना᳓मभिशस्तिपा᳓ उ।  
+शतं᳓ च जी᳓व शर᳓दः पुरूची᳓र्व᳓सूनि चा᳓रुर्वि᳓ भजासि जी᳓वन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/06_parIdaM_vAso.md">
@@ -482,8 +482,8 @@ Thou for weal hast clothed thee in this garment: thou hast become our cows' sure
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/07_yogeyoge_tavastaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-योगे॑योगे त॒वस्त॑रं॒ वाजे॑वाजे हवामहे।  
-सखा॑य॒ इन्द्र॑मू॒तये॑ ॥
+यो᳓गेयोगे तव᳓स्तरं वा᳓जेवाजे हवामहे।  
+स᳓खाय इ᳓न्द्रमूत᳓ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/07_yogeyoge_tavastaram.md">
@@ -547,8 +547,8 @@ In every need, in every fray we call, as friends, to succour us, Indra the might
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/08_hiraNyavarNo_ajaraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हिर॑ण्यवर्णो अ॒जरः॑ सु॒वीरो॑ ज॒रामृ॑त्युः प्र॒जया॒ सं वि॑शस्व।  
-तद॒ग्निरा॑ह॒ तदु॒ सोम॑ आह॒ बृह॒स्पतिः॑ सवि॒ता तदिन्द्रः॑ ॥
+हि᳓रण्यवर्णो अज᳓रः सुवी᳓रो जरा᳓मृत्युः प्रज᳓या सं᳓ विशस्व।  
+त᳓दग्नि᳓राह त᳓दु सो᳓म आह बृ᳓हस्प᳓तिः सविता᳓ त᳓दि᳓न्द्रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/08_hiraNyavarNo_ajaraH.md">

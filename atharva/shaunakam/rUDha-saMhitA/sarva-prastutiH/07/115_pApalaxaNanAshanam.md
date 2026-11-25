@@ -29,8 +29,8 @@ The first two verses are found also in Pāipp. xx. It is used by Kāuś. (18. 16
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/01_pra_patetaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र प॑ते॒तः पा॑पि लक्ष्मि॒ नश्ये॒तः प्रामुतः॑ पत।  
-अ॑य॒स्मये॑ना॒ङ्केन॑ द्विष॒ते त्वा स॑जामसि ॥
+प्र᳓ पतेतः᳓ पापि लक्ष्मि न᳓श्येतः᳓ प्रा᳓मु᳓तः पत।  
+अ᳙यस्म᳓येनाङ्के᳓न द्विषते᳓ त्वा᳓ सजामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/01_pra_patetaH.md">
@@ -96,8 +96,8 @@ Hence. Evil Fortune! fly away, vanish from this place and from that. We fix thee
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/02_yA_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या मा॑ ल॒क्ष्मीः प॑तया॒लूरजु॑ष्टाभिच॒स्कन्द॒ वन्द॑नेव वृ॒क्षम्।  
-अ॒न्यत्रा॒स्मत्स॑वित॒स्तामि॒तो धा॒ हिर॑ण्यहस्तो॒ वसु॑ नो॒ ररा॑णः ॥
+या᳓ मा लक्ष्मीः᳓ पतयालू᳓र᳓जुष्टाभिचस्क᳓न्द व᳓न्दनेव वृक्ष᳓म्।  
+अन्य᳓त्रास्म᳓त्सवितस्ता᳓मितो᳓ धा हि᳓रण्यहस्तो व᳓सु नो र᳓राणः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/02_yA_mA.md">
@@ -167,8 +167,8 @@ Granting us riches, Savitar! golden-banded, send thou away from us to other regi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एक॑शतं ल॒क्ष्म्यो॒३॒॑ मर्त्य॑स्य सा॒कं त॒न्वा᳡ ज॒नुषोऽधि॑ जा॒ताः।  
-तासां॒ पापि॑ष्ठा॒ निरि॒तः प्र हि॑ण्मः शि॒वा अ॒स्मभ्यं॑ जातवेदो॒ नि य॑च्छ ॥
+ए᳓कशतं लक्ष्म्यो᳙ म᳓र्त्यस्य साकं᳓ तन्वा᳙ जनु᳓षो᳓ऽधि जाताः᳓।  
+ता᳓सां पा᳓पिष्ठा नि᳓रितः᳓ प्र᳓ हिण्मः शिवा᳓ अस्म᳓भ्यं जातवेदो नि᳓ यच्छ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo.md">
@@ -231,8 +231,8 @@ One and a hundred Fortunes all together are at his birth born with a mortal's bo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/04_etA_enA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒ता ए॑ना॒ व्याक॑रं खि॒ले गा विष्ठि॑ता इव।  
-रम॑न्तां॒ पुण्या॑ ल॒क्ष्मीर्याः पा॒पीस्ता अ॑नीनशम् ॥
+एता᳓ एना व्या᳓करं खिले᳓ गा᳓ वि᳓ष्ठिता इव।  
+र᳓मन्तां पु᳓ण्या लक्ष्मी᳓र्याः᳓ पापी᳓स्ता᳓ अनीनशम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/04_etA_enA.md">

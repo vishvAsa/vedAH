@@ -33,8 +33,8 @@ Translated: Muir, v. 429 (vss. 1-4); Ludwig, p. 456; Henry, 42, 118; Griffith, i
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/01_idamugrAya_babhrave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दमु॒ग्राय॑ ब॒भ्रवे॒ नमो॒ यो अ॒क्षेषु॑ तनूव॒शी।  
-घृ॒तेन॒ कलिं॑ शिक्षामि॒ स नो॑ मृडाती॒दृशे॑ ॥
+इद᳓मुग्रा᳓य बभ्र᳓वे न᳓मो यो᳓ अक्षे᳓षु तनूवशी᳓।  
+घृते᳓न क᳓लिं शिक्षामि स᳓ नो मृडातीदृ᳓शे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/01_idamugrAya_babhrave.md">
@@ -101,8 +101,8 @@ My homage to the strong, the brown, the sovran lord among the dice! Butter on Ka
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/02_ghRtamapsarAbhyo_vaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-घृ॒तम॑प्स॒राभ्यो॑ वह॒ त्वम॑ग्ने पां॒सून॒क्षेभ्यः॒ सिक॑ता अ॒पश्च॑।  
-य॑थाभा॒गं ह॒व्यदा॑तिं जुषा॒णा मद॑न्ति दे॒वा उ॒भया॑नि ह॒व्या ॥
+घृत᳓मप्सरा᳓भ्यो वह त्व᳓मग्ने पांसू᳓नक्षे᳓भ्यः सि᳓कता अप᳓श्च।  
+य᳙थाभागं᳓ हव्य᳓दातिं जुषाणा᳓ म᳓दन्ति देवा᳓ उभ᳓यानि हव्या᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/02_ghRtamapsarAbhyo_vaha.md">
@@ -172,8 +172,8 @@ Bear butter to the Apsarases, O Agni, and to the Dice bear dust and sand and wat
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/03_apsarasaH_sadhamAdam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑प्स॒रसः॑ सध॒मादं॑ मदन्ति हवि॒र्धान॑मन्त॒रा सूर्यं॑ च।  
-ता मे॒ हस्तौ॒ सं सृ॑जन्तु घृ॒तेन॑ स॒पत्नं॑ मे कित॒वं र॑न्धयन्तु ॥
+अ᳙प्सर᳓सः सधमा᳓दं मदन्ति हविर्धा᳓नमन्तरा᳓ सू᳓र्यं च।  
+ता᳓ मे ह᳓स्तौ सं᳓ सृजन्तु घृते᳓न सप᳓त्नं मे कितवं᳓ रन्धयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/03_apsarasaH_sadhamAdam.md">
@@ -239,8 +239,8 @@ The Apsarases take pleasure in the banquet between the Sun and. the libation-hol
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/04_AdinavaM_pratidIvne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॑दिन॒वं प्र॑ति॒दीव्ने॑ घृ॒तेना॒स्माँ अ॒भि क्ष॑र।  
-वृ॒क्षमि॑वा॒शन्या॑ जहि॒ यो अ॒स्मान्प्र॑ति॒दीव्य॑ति ॥
+आ᳙दिनवं᳓ प्रतिदी᳓व्ने घृते᳓नास्माँ᳓ अभि᳓ क्षर।  
+वृक्ष᳓मिवाश᳓न्या जहि यो᳓ अस्मा᳓न्प्रतिदी᳓व्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/04_AdinavaM_pratidIvne.md">
@@ -309,8 +309,8 @@ Evil be mine opponent's luck! Sprinkle thou butter over us. Strike, as a tree wi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/05_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नो॑ द्यु॒वे धन॑मि॒दं च॒कार॒ यो अ॒क्षाणां॒ ग्लह॑नं॒ शेष॑णं च।  
-स नो॑ दे॒वो ह॒विरि॒दं जु॑षा॒णो ग॑न्ध॒र्वेभिः॑ सध॒मादं॑ मदेम ॥
+यो᳓ नो द्युवे᳓ ध᳓नमिदं᳓ चका᳓र यो᳓ अक्षा᳓णां ग्ल᳓हनं शे᳓षणं च।  
+स᳓ नो देवो᳓ हवि᳓रिदं᳓ जुषाणो᳓ गन्धर्वे᳓भिः सधमा᳓दं मदेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/05_yo_no.md">
@@ -376,8 +376,8 @@ The God who found for us this wealth for gambling, to cast the dice and count th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/06_saMvasava_iti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-संव॑सव॒ इति॑ वो नाम॒धेय॑मुग्रंप॒श्या रा॑ष्ट्र॒भृतो॒ ह्य१॒॑क्षाः।  
-तेभ्यो॑ व इन्दवो ह॒विषा॑ विधेम व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+सं᳓वसव इ᳓ति वो नामधे᳓यमुग्रंपश्या᳓ राष्ट्रभृ᳓तो ह्य᳙क्षाः᳓।  
+ते᳓भ्यो व इन्दवो हवि᳓षा विधेम वयं᳓ स्याम प᳓तयो रयीणा᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/06_saMvasava_iti.md">
@@ -453,8 +453,8 @@ Fellow-inhabitants, such is your title, for Dice with looks of power support dom
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/07_devAnyannAthito_huve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वान्यन्ना॑थि॒तो हु॒वे ब्र॑ह्म॒चर्यं॒ यदू॑षि॒म।  
-अ॒क्षान्यद्ब॒भ्रूना॒लभे॒ ते नो॑ मृडन्त्वी॒दृशे॑ ॥
+देवा᳓न्य᳓न्नाथितो᳓ हुवे᳓ ब्रह्मच᳓र्यं य᳓दूषिम᳓।  
+अक्षा᳓न्य᳓द्बभ्रू᳓नाल᳓भे ते᳓ नो मृडन्त्वीदृ᳓शे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/07_devAnyannAthito_huve.md">

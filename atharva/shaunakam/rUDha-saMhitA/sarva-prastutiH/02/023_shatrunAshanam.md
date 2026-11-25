@@ -20,7 +20,7 @@ It appears that hymns 20-23 were omitted--JBH
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/01_Apo_yadvastapastena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ यद्व॒स्तप॒स्तेन॒ तं प्र॑ति तपत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+आ᳓पो य᳓द्वस्त᳓पस्ते᳓न तं᳓ प्रति तपत यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/01_Apo_yadvastapastena.md">
@@ -78,7 +78,7 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/02_Apo_yadvasharastena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ यद्व॒स्हर॒स्तेन॒ तं प्र॑ति हरत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+आ᳓पो य᳓द्वस्ह᳓रस्ते᳓न तं᳓ प्रति हरत यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/02_Apo_yadvasharastena.md">
@@ -121,7 +121,7 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/03_Apo_yadvo-rchistena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ यद्वो॒ऽर्चिस्तेन॒ तं प्र॑त्यर्चत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+आ᳓पो य᳓द्वोऽर्चि᳓स्ते᳓न तं᳓ प्रत्यर्चत यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/03_Apo_yadvo-rchistena.md">
@@ -164,7 +164,7 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/04_Apo_yadvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ यद्वः॑ शो॒चिस्तेन॒ तं प्र॑ति शोचत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+आ᳓पो य᳓द्वः शोचि᳓स्ते᳓न तं᳓ प्रति शोचत यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/04_Apo_yadvaH.md">
@@ -207,7 +207,7 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/05_Apo_yadvastejastena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ यद्व॒स्तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणुत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+आ᳓पो य᳓द्वस्ते᳓जस्ते᳓न त᳓मतेज᳓सं कृणुत यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/05_Apo_yadvastejastena.md">

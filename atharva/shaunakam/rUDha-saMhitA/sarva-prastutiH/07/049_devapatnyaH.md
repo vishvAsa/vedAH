@@ -37,8 +37,8 @@ A prayer for children and booty
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/049_devapatnyaH/01_devAnAM_patnIrushatIravantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वानां॒ पत्नी॑रुश॒तीर॑वन्तु नः॒ प्राव॑न्तु नस्तु॒जये॒ वाज॑सातये।  
-याः पार्थि॑वासो॒ या अ॒पामपि॑ व्र॒ते ता नो॑ देवीः सु॒हवाः॒ शर्म॑ यच्छन्तु ॥
+देवा᳓नां प᳓त्नीरुशती᳓रवन्तु नः प्रा᳓वन्तु नस्तुज᳓ये वा᳓जसातये।  
+याः᳓ पा᳓र्थिवासो या᳓ अपा᳓म᳓पि व्रते᳓ ता᳓ नो देवीः सुह᳓वाः श᳓र्म यच्छन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/049_devapatnyaH/01_devAnAM_patnIrushatIravantu.md">
@@ -105,8 +105,14 @@ May the Gods' Consorts aid us of their own free will, help us to offspring and t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/049_devapatnyaH/02_uta_gnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒त ग्ना व्य॑न्तु दे॒वप॑त्नीरिन्द्रा॒ण्य१॒॑ग्नाय्य॒श्विनी॒ राट्।  
-आ रोद॑सी वरुणा॒नी शृ॑णोतु॒ व्यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम् ॥
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/046/08_uta_gnA.md">
+
+उत᳓ ग्ना᳓+++(=देव्यः)+++ व्यन्तु+++(वियन्तु तैत्तिरीये)+++ देव᳓पत्नीर्  
+इन्द्राणी᳓ · अग्ना᳓यी अश्वि᳓नी रा᳓ट् ।  
+आ᳓ रो᳓दसी+++(=लोकौ, मरुत्पत्न्यौ)+++ वरुणानी᳓ शृणोतु  
+व्य᳓न्तु+++(वियन्तु तैत्तिरीये)+++ देवी᳓र् य᳓ ऋतु᳓र् ज᳓नीनाम् ॥
+
+</div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/049_devapatnyaH/02_uta_gnA.md">

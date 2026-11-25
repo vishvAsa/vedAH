@@ -33,8 +33,8 @@ A jealous wife's incantation against a rival
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/01_imAM_khanAmyoShadhim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मां ख॑ना॒म्योष॑धिं वी॒रुधां॒ बल॑वत्तमाम्।  
-यया॑ स॒पत्नीं॒ बाध॑ते॒ यया॑ संवि॒न्दते॒ पति॑म् ॥
+इमां᳓ खनाम्यो᳓षधिं वीरु᳓धां ब᳓लवत्तमाम्।  
+य᳓या सप᳓त्नीं बा᳓धते य᳓या संविन्द᳓ते प᳓तिम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/018_vanaspatiH/01_imAM_khanAmyoShadhim.md">
@@ -100,8 +100,8 @@ From out the earth I dig this Plant, and herb of most effectual power, Wherewith
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/02_uttAnaparNe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्ता॑नपर्णे॒ सुभ॑गे॒ देव॑जूते॒ सह॑स्वति।  
-स॒पत्नीं॑ मे॒ परा॑ णुद॒ पतिं॑ मे॒ केव॑लं कृधि ॥
+उ᳓त्तानपर्णे सु᳓भगे दे᳓वजूते स᳓हस्वति।  
+सप᳓त्नीं मे प᳓रा णुद प᳓तिं मे के᳓वलं कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/018_vanaspatiH/02_uttAnaparNe_subhage.md">
@@ -166,8 +166,8 @@ Auspicious, with expanded leaves, sent by the Gods, victorious Plant, Drive thou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/03_nahi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न॒हि ते॒ नाम॑ ज॒ग्राह॒ नो अ॒स्मिन्र॑मसे॒ पतौ॑।  
-परा॑मे॒व प॑रा॒वतं॑ स॒पत्नीं॑ गमयामसि ॥
+नहि᳓ ते ना᳓म जग्रा᳓ह नो᳓ अस्मि᳓न्रमसे प᳓तौ।  
+प᳓रामेव᳓ पराव᳓तं सप᳓त्नीं गमयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/018_vanaspatiH/03_nahi_te.md">
@@ -242,8 +242,8 @@ Indeed he hath not named her name: thou with this husband dalliest not, Far into
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/04_uttarAhamuttara_uttareduttarAbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्त॑रा॒हमु॑त्तर॒ उत्त॒रेदुत्त॑राभ्यः।  
-अ॒धः स॒पत्नी॒ या ममाध॑रा॒ साध॑राभ्यः ॥
+उ᳓त्तराह᳓मुत्तर उ᳓त्तरे᳓दु᳓त्तराभ्यः।  
+अधः᳓ सप᳓त्नी या᳓ म᳓मा᳓धरा सा᳓धराभ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/018_vanaspatiH/04_uttarAhamuttara_uttareduttarAbhyaH.md">
@@ -311,8 +311,8 @@ Stronger am I, O stronger one, yea, mightier than the mightier; Beneath me be my
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/05_ahamasmi_sahamAnAtho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हम॑स्मि॒ सह॑मा॒नाथो॒ त्वम॑सि सास॒हिः।  
-उ॒भे सह॑स्वती भू॒त्वा स॒पत्नीं॑ मे सहावहै ॥
+अह᳓मस्मि स᳓हमाना᳓थो त्व᳓मसि सासहिः᳓।  
+उभे᳓ स᳓हस्वती भूत्वा᳓ सप᳓त्नीं मे सहावहै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/018_vanaspatiH/05_ahamasmi_sahamAnAtho.md">
@@ -374,8 +374,8 @@ I am the conqueror, and thou, thou also art victorious: As victory attends us bo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/06_abhi_te-dhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि ते॑ऽधां॒ सह॑माना॒मुप॑ तेऽधां॒ सही॑यसीम्।  
-मामनु॒ प्र ते॒ मनो॑ व॒त्सं गौरि॑व धावतु प॒था वारि॑व धावतु ॥
+अभि᳓ तेऽधां स᳓हमानामु᳓प तेऽधां स᳓हीयसीम्।  
+मा᳓म᳓नु प्र᳓ ते म᳓नो वत्सं᳓ गौ᳓रिव धावतु पथा᳓ वा᳓रिव धावतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/018_vanaspatiH/06_abhi_te-dhAm.md">

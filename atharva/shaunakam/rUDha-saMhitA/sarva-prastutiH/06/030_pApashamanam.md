@@ -37,8 +37,8 @@ A charm to promote the growth of hair
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/01_devA_imam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वा इ॒मं मधु॑ना॒ संयु॑तं॒ यवं॒ सर॑स्वत्या॒मधि॑ म॒णाव॑चर्कृषुः।  
-इन्द्र॑ आसी॒त्सीर॑पतिः श॒तक्र॑तुः की॒नाशा॑ आसन्म॒रुतः॑ सु॒दान॑वः ॥
+देवा᳓ इमं᳓ म᳓धुना सं᳓युतं य᳓वं स᳓रस्वत्याम᳓धि मणा᳓वचर्कृषुः।  
+इ᳓न्द्र आसीत्सी᳓रपतिः शत᳓क्रतुः कीना᳓शा आसन्मरु᳓तः सुदा᳓नवः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/030_pApashamanam/01_devA_imam.md">
@@ -110,8 +110,8 @@ Over a magic stone, beside Sarasvati, the Gods Ploughed in this barley that was 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/02_yaste_mado-vakesho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॒ मदो॑ऽवके॒शो वि॑के॒शो येना॑भि॒हस्यं॒ पुरु॑षं कृ॒णोषि॑।  
-आ॒रात्त्वद॒न्या वना॑नि वृक्षि॒ त्वं श॑मि श॒तव॑ल्शा॒ वि रो॑ह ॥
+य᳓स्ते म᳓दोऽवकेशो᳓ विकेशो᳓ ये᳓नाभिह᳓स्यं पु᳓रुषं कृणो᳓षि।  
+आरा᳓त्त्व᳓दन्या᳓ व᳓नानि वृक्षि त्वं᳓ शमि शत᳓वल्शा वि᳓ रोह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/030_pApashamanam/02_yaste_mado-vakesho.md">
@@ -188,8 +188,8 @@ Thy joy in hair that falleth or is scattered, wherewith thou sub- jectest a man 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/03_bRhatpalAshe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृह॑त्पलाशे॒ सुभ॑गे॒ वर्ष॑वृद्ध॒ ऋता॑वरि।  
-मा॒तेव॑ पु॒त्रेभ्यो॑ मृड॒ केशे॑भ्यः शमि ॥
+बृ᳓हत्पलाशे सु᳓भगे व᳓र्षवृद्ध ऋ᳓तावरि।  
+माते᳓व पुत्रे᳓भ्यो मृड के᳓शेभ्यः शमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/030_pApashamanam/03_bRhatpalAshe_subhage.md">

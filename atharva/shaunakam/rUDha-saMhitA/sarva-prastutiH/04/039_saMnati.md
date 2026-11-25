@@ -37,8 +37,8 @@ A prayer to various deities for health, wealth, and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/01_pRthivyAmagnaye_samanamantsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॑थि॒व्याम॒ग्नये॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
-यथा॑ पृथि॒व्याम॒ग्नये॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+पृ᳙थिव्या᳓मग्न᳓ये स᳓मनमन्त्स᳓ आर्ध्नोत्।  
+य᳓था पृथिव्या᳓मग्न᳓ये सम᳓नमन्नेवा᳓ म᳓ह्यं संन᳓मः सं᳓ नमन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/01_pRthivyAmagnaye_samanamantsa.md">
@@ -107,9 +107,9 @@ Agni no earth kath had mine homage. May he bless me. As I have bowed me down to 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/02_pRthivI_dhenustasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॑थि॒वी धे॒नुस्तस्या॑ अ॒ग्निर्व॒त्सः।  
-सा मे॒ऽग्निना॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्।  
-आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+पृ᳙थिवी᳓ धेनु᳓स्त᳓स्या अग्नि᳓र्वत्सः᳓।  
+सा᳓ मेऽग्नि᳓ना वत्से᳓ने᳓षमू᳓र्जं का᳓मं दुहाम्।  
+आ᳓युः प्रथमं᳓ प्रजां᳓ पो᳓षं रयिं᳓ स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/02_pRthivI_dhenustasyA.md">
@@ -174,8 +174,8 @@ Earth is the Cow, her calf is Agni. May she with her calf Agni yield me food, st
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/03_antarixe_vAyave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तरि॑क्षे वा॒यवे॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
-यथा॒न्तरि॑क्षे वा॒यवे॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+अन्त᳓रिक्षे वाय᳓वे स᳓मनमन्त्स᳓ आर्ध्नोत्।  
+य᳓थान्त᳓रिक्षे वाय᳓वे सम᳓नमन्नेवा᳓ म᳓ह्यं संन᳓मः सं᳓ नमन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/03_antarixe_vAyave.md">
@@ -237,9 +237,9 @@ Vayu in air hath had mine homage. May he bless me. As I have bowed me down to Va
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/04_antarixaM_dhenustasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तरि॑क्षं धे॒नुस्तस्या॑ वायुर्व॒त्सः।  
-सा मे॑ वा॒युना॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्।  
-आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+अन्त᳓रिक्षं धेनु᳓स्त᳓स्या वायुर्वत्सः᳓।  
+सा᳓ मे वायु᳓ना वत्से᳓ने᳓षमू᳓र्जं का᳓मं दुहाम्।  
+आ᳓युः प्रथमं᳓ प्रजां᳓ पो᳓षं रयिं᳓ स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/04_antarixaM_dhenustasyA.md">
@@ -302,8 +302,8 @@ Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, stre
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/05_divyAdityAya_samanamantsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒व्या॑दि॒त्याय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
-यथा॑ दि॒व्या॑दि॒त्याय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+दिव्या᳙दित्या᳓य स᳓मनमन्त्स᳓ आर्ध्नोत्।  
+य᳓था दिव्या᳙दित्या᳓य सम᳓नमन्नेवा᳓ म᳓ह्यं संन᳓मः सं᳓ नमन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/05_divyAdityAya_samanamantsa.md">
@@ -365,9 +365,9 @@ The Sun in heaven hath had my homage. May he bless me. As I have bowed me down u
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/06_dyaurdhenustasyA_Adityo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्यौर्धे॒नुस्तस्या॑ आदि॒त्यो व॒त्सः।  
-सा म॑ आदि॒त्येन॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्।  
-आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+द्यौ᳓र्धेनु᳓स्त᳓स्या आदित्यो᳓ वत्सः᳓।  
+सा᳓ म आदित्ये᳓न वत्से᳓ने᳓षमू᳓र्जं का᳓मं दुहाम्।  
+आ᳓युः प्रथमं᳓ प्रजां᳓ पो᳓षं रयिं᳓ स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/06_dyaurdhenustasyA_Adityo.md">
@@ -429,8 +429,8 @@ Heaven is the Cow, her calf Aditya. May she yield with her calf the Sun food, st
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/07_dixu_chandrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒क्षु च॒न्द्राय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
-यथा॑ दि॒क्षु च॒न्द्राय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+दिक्षु᳓ चन्द्रा᳓य स᳓मनमन्त्स᳓ आर्ध्नोत्।  
+य᳓था दिक्षु᳓ चन्द्रा᳓य सम᳓नमन्नेवा᳓ म᳓ह्यं संन᳓मः सं᳓ नमन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/07_dixu_chandrAya.md">
@@ -494,9 +494,9 @@ To Chandra in the quarters have I bowed me. May he bless me. As unto Chandra in 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/08_disho_dhenavastAsAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दिशो॑ धे॒नव॒स्तासां॑ च॒न्द्रो व॒त्सः।  
-ता मे॑ च॒न्द्रेण॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहा॒म्।  
-आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+दि᳓शो धेन᳓वस्ता᳓सां चन्द्रो᳓ वत्सः᳓।  
+ता᳓ मे चन्द्रे᳓ण वत्से᳓ने᳓षमू᳓र्जं का᳓मं दुहाम्।  
+आ᳓युः प्रथमं᳓ प्रजां᳓ पो᳓षं रयिं᳓ स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/08_disho_dhenavastAsAm.md">
@@ -560,8 +560,8 @@ The quarters are the Cows, their calf is Chandra. May they yield with their calf
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/09_agnAvagnishcharati_praviShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नाव॒ग्निश्च॑रति॒ प्रवि॑ष्ट॒ ऋषी॑णां पु॒त्रो अ॑भिशस्ति॒पा उ॑।  
-न॑मस्का॒रेण॒ नम॑सा ते जुहोमि॒ मा दे॒वानां॑ मिथु॒या क॑र्म भा॒गम् ॥
+अग्ना᳓वग्नि᳓श्चरति प्र᳓विष्ट ऋ᳓षीणां पुत्रो᳓ अभिशस्तिपा᳓ उ।  
+न᳙मस्कारे᳓ण न᳓मसा ते जुहोमि मा᳓ देवा᳓नां मिथुया᳓ कर्म भाग᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/09_agnAvagnishcharati_praviShTa.md">
@@ -645,8 +645,8 @@ Agni moves having entered into Agni, the Rishis' son, who guards from imprecatio
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/10_hRdA_pUtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हृ॒दा पू॒तं मन॑सा जातवेदो॒ विश्वा॑नि देव व॒युना॑नि वि॒द्वान्।  
-स॒प्तास्या॑नि॒ तव॑ जातवेद॒स्तेभ्यो॑ जुहोमि॒ स जु॑षस्व ह॒व्यम् ॥
+हृदा᳓ पूतं᳓ म᳓नसा जातवेदो वि᳓श्वानि देव वयु᳓नानि विद्वा᳓न्।  
+सप्ता᳓स्यानि त᳓व जातवेदस्ते᳓भ्यो जुहोमि स᳓ जुषस्व हव्य᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/10_hRdA_pUtam.md">

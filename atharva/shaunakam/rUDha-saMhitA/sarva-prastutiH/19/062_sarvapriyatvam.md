@@ -37,8 +37,8 @@ A prayer for the love of Gods and men
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/062_sarvapriyatvam/01_priyaM_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रि॒यं मा॑ कृणु दे॒वेषु॑ प्रि॒यं राज॑सु मा कृणु।  
-प्रि॒यं सर्व॑स्य॒ पश्य॑त उ॒त शू॒द्र उ॒तार्ये॑ ॥
+प्रियं᳓ मा कृणु देवे᳓षु प्रियं᳓ रा᳓जसु मा कृणु।  
+प्रियं᳓ स᳓र्वस्य प᳓श्यत उत᳓ शूद्र᳓ उता᳓र्ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/062_sarvapriyatvam/01_priyaM_mA.md">

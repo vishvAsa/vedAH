@@ -37,8 +37,8 @@ A prayer, accompanying sacrifice, for the attainment of a wish
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यामाहु॑तिं प्रथ॒मामथ॑र्वा॒ या जा॒ता या ह॒व्यमकृ॑णोज्जा॒तवे॑दाः।  
-तां त॑ ए॒तां प्र॑थ॒मो जो॑हवीमि॒ ताभि॑ष्टु॒प्तो व॑हतु ह॒व्यम॒ग्निर॒ग्नये॒ स्वाहा॑ ॥
+या᳓मा᳓हुतिं प्रथमा᳓म᳓थर्वा या᳓ जाता᳓ या᳓ हव्य᳓म᳓कृणोज्जात᳓वेदाः।  
+तां᳓ त एतां᳓ प्रथमो᳓ जोहवीमि ता᳓भिष्टुप्तो᳓ वहतु हव्य᳓मग्नि᳓रग्न᳓ये स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
@@ -118,8 +118,8 @@ The first oblation that Atharvan oared, earliest sacrifice paid by Jatavedas, Ev
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/02_AkUtiM_devIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आकू॑तिं दे॒वीं सु॒भगां॑ पु॒रो द॑धे चि॒त्तस्य॑ मा॒ता सु॒हवा॑ नो अस्तु।  
-यामा॒शामेमि॒ केव॑ली॒ सा मे॑ अस्तु वि॒देय॑मेनां॒ मन॑सि॒ प्रवि॑ष्टाम् ॥
+आ᳓कूतिं देवीं᳓ सुभ᳓गां पुरो᳓ दधे चित्त᳓स्य माता᳓ सुह᳓वा नो अस्तु।  
+या᳓माशा᳓मे᳓मि के᳓वली सा᳓ मे अस्तु विदे᳓यमेनां म᳓नसि प्र᳓विष्टाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/02_AkUtiM_devIm.md">
@@ -191,8 +191,8 @@ In front I set Intention, blessed Goddess. Mother of thought, may she be prompt 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/03_AkUtyA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आकू॑त्या नो बृहस्पत॒ आकू॑त्या न॒ उपा ग॑हि।  
-अथो॒ भग॑स्य नो धे॒ह्यथो॑ नः सु॒हवो॑ भव ॥
+आ᳓कूत्या नो बृहस्पत आ᳓कूत्या न उ᳓पा᳓ गहि।  
+अ᳓थो भ᳓गस्य नो धेह्य᳓थो नः सुह᳓वो भव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/03_AkUtyA_no.md">
@@ -255,8 +255,8 @@ With Purpose, O Prajapati, with Purpose come thou near to us. Bestow on us a sha
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृह॒स्पति॑र्म॒ आकू॑तिमाङ्गिर॒सः प्रति॑ जानातु॒ वाच॑मे॒ताम्।  
-यस्य॑ दे॒वा दे॒वताः॑ संबभू॒वुः स सु॒प्रणी॑ताः॒ कामो॒ अन्वे॑त्व॒स्मान् ॥
+बृ᳓हस्प᳓तिर्म आ᳓कूतिमाङ्गिरसः᳓ प्र᳓ति जानातु वा᳓चमेता᳓म्।  
+य᳓स्य देवा᳓ देव᳓ताः संबभूवुः᳓ स᳓ सुप्र᳓णीताः का᳓मो अ᳓न्वेत्वस्मा᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">

@@ -37,8 +37,8 @@ A prayer for general protection and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/055_saumanasyam/01_ye_panthAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये पन्था॑नो ब॒हवो॑ देव॒याना॑ अन्त॒रा द्यावा॑पृथि॒वी सं॒चर॑न्ति।  
-तेषा॒मज्या॑निं यत॒मो वहा॑ति॒ तस्मै॑ मा देवाः॒ परि॑ धत्ते॒ह सर्वे॑ ॥
+ये᳓ प᳓न्थानो बह᳓वो देवया᳓ना अन्तरा᳓ द्या᳓वापृथिवी᳓ संच᳓रन्ति।  
+ते᳓षाम᳓ज्यानिं यतमो᳓ व᳓हाति त᳓स्मै मा देवाः प᳓रि धत्तेह᳓ स᳓र्वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/055_saumanasyam/01_ye_panthAno.md">
@@ -107,8 +107,8 @@ Of all the many God-frequented pathways that traverse realms between the earth a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/055_saumanasyam/02_grIShmo_hemantaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ग्री॒ष्मो हे॑म॒न्तः शिशि॑रो वस॒न्तः श॒रद्व॒र्षाः स्वि॒ते नो॑ दधात।  
-आ नो॒ गोषु॒ भज॒ता प्र॒जायां॑ निवा॒त इद्वः॑ शर॒णे स्या॑म ॥
+ग्रीष्मो᳓ हेमन्तः᳓ शि᳓शिरो वसन्तः᳓ शर᳓द्वर्षाः᳓ स्विते᳓ नो दधात।  
+आ᳓ नो गो᳓षु भ᳓जता᳓ प्रजा᳓यां निवात᳓ इ᳓द्वः शरणे᳓ स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/055_saumanasyam/02_grIShmo_hemantaH.md">
@@ -174,8 +174,8 @@ Maintain us in well-being Summer, Winter Dew-time and Spring, Autumn, and Rainy 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/055_saumanasyam/03_idAvatsarAya_parivatsarAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॑दावत्स॒राय॑ परिवत्स॒राय॑ संवत्स॒राय॑ कृणुता बृ॒हन्नमः॑।  
-तेषां॑ व॒यं सु॑म॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥
+इ᳙दावत्सरा᳓य परिवत्सरा᳓य संवत्सरा᳓य कृणुता बृह᳓न्न᳓मः।  
+ते᳓षां वयं᳓ सुमतौ᳓ यज्ञि᳓यानाम᳓पि भद्रे᳓ सौमनसे᳓ स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/055_saumanasyam/03_idAvatsarAya_parivatsarAya.md">

@@ -37,8 +37,8 @@ A benediction on a newly elected king
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॒द्रमि॒च्छन्त॒ ऋष॑यः स्व॒र्विद॒स्तपो॑ दी॒क्षामु॑प॒निषे॑दु॒रग्रे॑।  
-ततो॑ रा॒ष्ट्रं बल॒मोज॑श्च जा॒तं तद॑स्मै दे॒वा उ॑प॒संन॑मन्तु ॥
+भद्र᳓मिच्छ᳓न्त ऋ᳓षयः स्वर्वि᳓दस्त᳓पो दीक्षा᳓मुपनि᳓षेदुर᳓ग्रे।  
+त᳓तो राष्ट्रं᳓ ब᳓लमो᳓जश्च जातं᳓ त᳓दस्मै देवा᳓ उपसं᳓नमन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">

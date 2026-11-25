@@ -37,8 +37,8 @@ Formulas to be used at the three daily libations
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/01_shyeno-si_gAyatrachChandA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्ये॒नो᳡ऽसि॑ गाय॒त्रच्छ॑न्दा॒ अनु॒ त्वा र॑भे।  
-स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
+श्येनो᳙ऽसि गायत्र᳓च्छन्दा अ᳓नु त्वा᳓ रभे।  
+स्वस्ति᳓ मा सं᳓ वहास्य᳓ यज्ञ᳓स्योदृ᳓चि स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/048_svastivAchanam/01_shyeno-si_gAyatrachChandA.md">
@@ -105,8 +105,8 @@ Thou art the Hawk, Gayatri's lord: I hold thee fast. Happily bear me to the goal
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/02_Rbhurasi_jagachChandA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒भुर॑सि॒ जग॑च्छन्दा॒ अनु॒ त्वा र॑भे।  
-स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
+ऋभु᳓रसि ज᳓गच्छन्दा अ᳓नु त्वा᳓ रभे।  
+स्वस्ति᳓ मा सं᳓ वहास्य᳓ यज्ञ᳓स्योदृ᳓चि स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/048_svastivAchanam/02_Rbhurasi_jagachChandA.md">
@@ -171,8 +171,8 @@ Thou art the Ribhu, lord of Jagati: I hold thee fast. Happily bear me to the goa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/03_vRShAsi_triShTupChandA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वृषा॑सि त्रि॒ष्टुप्छ॑न्दा॒ अनु॒ त्वा र॑भे।  
-स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
+वृ᳓षासि त्रिष्टु᳓प्छन्दा अ᳓नु त्वा᳓ रभे।  
+स्वस्ति᳓ मा सं᳓ वहास्य᳓ यज्ञ᳓स्योदृ᳓चि स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/048_svastivAchanam/03_vRShAsi_triShTupChandA.md">

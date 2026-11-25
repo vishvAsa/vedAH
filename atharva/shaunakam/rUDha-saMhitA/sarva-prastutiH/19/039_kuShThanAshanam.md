@@ -37,8 +37,8 @@ A protective charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऐतु॑ दे॒वस्त्रा॑यमाणः॒ कुष्ठो॑ हि॒मव॑त॒स्परि॑।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡  ॥
+ऐ᳓तु देव᳓स्त्रायमाणः कु᳓ष्ठो हिम᳓वतस्प᳓रि।  
+तक्मा᳓नं स᳓र्वं नाशय स᳓र्वाश्च यातुधान्यः᳙  ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
@@ -103,9 +103,9 @@ Let Kushtha from the Hill of Snow come, a divine deliverer. Banish thou all Cons
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/02_trINi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रीणि॑ ते कुष्ठ॒ नामा॑नि नद्यमा॒रो न॒द्यारि॑षः।  
-नद्या॒यं पुरु॑सो रिषत्।  
-यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥
+त्री᳓णि ते कुष्ठ ना᳓मानि नद्यमारो᳓ नद्या᳓रिषः।  
+न᳓द्यायं᳓ पु᳓रुसो रिषत्।  
+य᳓स्मै परिब्र᳓वीमि त्वा सायं᳓प्रातर᳓थो दि᳓वा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/02_trINi_te.md">
@@ -205,9 +205,9 @@ Kushtha, three several names hast thou, Naghamara, Nagharisha: let not mishap be
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जी॑व॒ला नाम॑ ते मा॒ता जी॑व॒न्तो नाम॑ ते पि॒ता।  
-नद्या॒यं पुरु॑षो रिषत्।  
-यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥
+जी᳙वला᳓ ना᳓म ते माता᳓ जीवन्तो᳓ ना᳓म ते पिता᳓।  
+न᳓द्यायं᳓ पु᳓रुषो रिषत्।  
+य᳓स्मै परिब्र᳓वीमि त्वा सायं᳓प्रातर᳓थो दि᳓वा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
@@ -272,9 +272,9 @@ Jivala is thy mother's name, thy father's name is Jivala; let not mishap, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑त्त॒मो अ॒स्योष॑धीनामन॒ड्वाञ्जग॑तामिव व्या॒घ्रः श्वप॑दामिव।  
-नद्या॒यं पुरु॑षो रिषत्।  
-यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॑ दिवा ॥
+उ᳙त्तमो᳓ अस्यो᳓षधीनामनड्वा᳓ञ्ज᳓गतामिव व्याघ्रः᳓ श्व᳓पदामिव।  
+न᳓द्यायं᳓ पु᳓रुषो रिषत्।  
+य᳓स्मै परिब्र᳓वीमि त्वा सायं᳓प्रातर᳓थो दिवा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
@@ -339,10 +339,10 @@ Thou art the best amid the plants, even as the ox is best of tame, the tiger of 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रिः शाम्बु॑भ्यो॒ अङ्गि॑रेभ्य॒स्त्रिरा॑दि॒त्येभ्य॒स्परि॑।  
-त्रिर्जा॒तो वि॒श्वदे॑वेभ्यः।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
+त्रिः᳓ शा᳓म्बुभ्यो अ᳓ङ्गिरेभ्यस्त्रि᳓रादित्ये᳓भ्यस्प᳓रि।  
+त्रि᳓र्जातो᳓ विश्व᳓देवेभ्यः।  
+स᳓ कु᳓ष्ठो विश्व᳓भेषजः साकं᳓ सो᳓मेन तिष्ठति।  
+तक्मा᳓नं स᳓र्वं नाशय स᳓र्वाश्च यातुधान्यः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
@@ -419,10 +419,10 @@ Born thrice from the Adityas, thrice from Bhrigus, thrice from Angiras' sons, bo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
+अ᳙श्वत्थो᳓ देवस᳓दनस्तृती᳓यस्यामितो᳓ दिवि᳓।  
+त᳓त्रामृ᳓तस्य च᳓क्षणं त᳓तः कु᳓ष्ठो अजायत।  
+स᳓ कु᳓ष्ठो विश्व᳓भेषजः साकं᳓ सो᳓मेन तिष्ठति।  
+तक्मा᳓नं स᳓र्वं नाशय स᳓र्वाश्च यातुधान्यः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
@@ -494,10 +494,10 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods: There i
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
+हि᳙रण्य᳓यी नौ᳓रचरद्धि᳓रण्यबन्धना दिवि᳓।  
+त᳓त्रामृ᳓तस्य च᳓क्षणं त᳓तः कु᳓ष्ठो अजायत।  
+स᳓ कु᳓ष्ठो विश्व᳓भेषजः साकं᳓ सो᳓मेन तिष्ठति।  
+तक्मा᳓नं स᳓र्वं नाशय स᳓र्वाश्च यातुधान्यः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
@@ -561,10 +561,10 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold: T
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॒ नाव॑प्र॒भ्रंश॑नं॒ यत्र॑ हि॒मव॑तः॒ शिरः॑।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत।  
-स कु॑ष्ठो वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
+य᳓त्र ना᳓वप्रभ्रं᳓शनं य᳓त्र हिम᳓वतः शि᳓रः।  
+त᳓त्रामृ᳓तस्य च᳓क्षणं त᳓तः कु᳓ष्ठो अजायत।  
+स᳓ कुष्ठो विश्व᳓भेषजः साकं᳓ सो᳓मेन तिष्ठति।  
+तक्मा᳓नं स᳓र्वं नाशय स᳓र्वाश्च यातुधान्यः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanam.md">
@@ -647,8 +647,8 @@ Where is the Sinking of the Ship, the summit of the Hill of Snow, There is embod
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/09_yaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं त्वा॒ वेद॒ पूर्व॒ इक्ष्वा॑को॒ यं वा॑ त्वा कुष्ठ का॒म्यः᳡।  
-यं वा॒ वसो॒ यमात्स्य॒स्तेना॑सि वि॒श्वभे॑षजः ॥
+यं᳓ त्वा वे᳓द पू᳓र्व इ᳓क्ष्वाको यं᳓ वा त्वा कुष्ठ काम्यः᳙।  
+यं᳓ वा व᳓सो य᳓मा᳓त्स्यस्ते᳓नासि विश्व᳓भेषजः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/09_yaM_tvA.md">
@@ -720,8 +720,8 @@ Thou whom Ikshvaku's ancestor, whom he who well-loved Kushtha, knew, Whom Vayasa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शी॑र्षलो॒कं तृती॑यकं सद॒न्दिर्यश्च॑ हाय॒नः।  
-त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुव ॥
+शी᳙र्षलोकं᳓ तृ᳓तीयकं सदन्दि᳓र्य᳓श्च हायनः᳓।  
+तक्मा᳓नं विश्वधावीर्याधरा᳓ञ्चं प᳓रा सुव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakam.md">

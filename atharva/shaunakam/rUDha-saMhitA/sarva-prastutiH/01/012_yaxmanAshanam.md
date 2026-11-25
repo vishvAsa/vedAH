@@ -33,8 +33,8 @@ A prayer to Lightning, against fever, headache, and cough
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/01_jarAyujaH_prathama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज॑रायु॒जः प्र॑थ॒म उ॒स्रियो॒ वृषा॑ वातभ्र॒जा स्त॒नय॑न्नेति वृ॒ष्ट्या।  
-स नो॑ मृडाति त॒न्व॑ ऋजु॒गो रु॒जन्य एक॒मोज॑स्त्रे॒धा वि॑चक्र॒मे ॥
+ज᳙रायुजः᳓ प्रथम᳓ उस्रि᳓यो वृ᳓षा वातभ्रजा᳓ स्तन᳓यन्नेति वृष्ट्या᳓।  
+स᳓ नो मृडाति तन्व᳙ ऋजुगो᳓ रुज᳓न्य᳓ ए᳓कमो᳓जस्त्रेधा᳓ विचक्रमे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/01_jarAyujaH_prathama.md">
@@ -115,8 +115,8 @@ Born from the womb, brought forth from wind and from the cloud, the first red bu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/02_angeange_shochiShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अङ्गेअ॑ङ्गे शो॒चिषा॑ शिश्रिया॒णं न॑म॒स्यन्त॑स्त्वा ह॒विषा॑ विधेम।  
-अ॒ङ्कान्त्स॑म॒ङ्कान्ह॒विषा॑ विधेम॒ यो अग्र॑भी॒त्पर्वा॑स्या॒ ग्रभी॑ता ॥
+अ᳓ङ्गे᳓अङ्गे शोचि᳓षा शिश्रियाणं᳓ नमस्य᳓न्तस्त्वा हवि᳓षा विधेम।  
+अङ्का᳓न्त्समङ्का᳓न्हवि᳓षा विधेम यो᳓ अ᳓ग्रभीत्प᳓र्वास्या ग्र᳓भीता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/02_angeange_shochiShA.md">
@@ -188,8 +188,8 @@ Bending to thee who clingest to each limb with heat, fain would we worship thee 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/03_muncha_shIrShaktyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॒ञ्च शी॑र्ष॒क्त्या उ॒त का॒स ए॑नं॒ परु॑ष्परुरावि॒वेशा॒ यो अ॑स्य।  
-यो अ॑भ्र॒जा वा॑त॒जा यश्च॒ शुष्मो॒ वन॒स्पती॑न्त्सचतां॒ पर्व॑तांश्च ॥
+मुञ्च᳓ शीर्षक्त्या᳓ उत᳓ कास᳓ एनं प᳓रुष्परुराविवे᳓शा यो᳓ अस्य।  
+यो᳓ अभ्रजा᳓ वातजा᳓ य᳓श्च शु᳓ष्मो व᳓नस्प᳓तीन्त्सचतां प᳓र्वतांश्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/03_muncha_shIrShaktyA.md">
@@ -257,8 +257,8 @@ Do thou release this man from headache, free him from cough which has entered in
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/04_shaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं मे॒ पर॑स्मै॒ गात्रा॑य॒ शम॒स्त्वव॑राय मे।  
-शं मे॑ च॒तुर्भ्यो॒ अङ्गे॑भ्यः॒ शम॑स्तु त॒न्वे॑३ मम॑ ॥
+शं᳓ मे प᳓रस्मै गा᳓त्राय श᳓मस्त्व᳓वराय मे।  
+शं᳓ मे चतु᳓र्भ्यो अ᳓ङ्गेभ्यः श᳓मस्तु तन्वे᳙ म᳓म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/04_shaM_me.md">

@@ -37,9 +37,9 @@ A hymn, accompanying libations, for wealth and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/071_vedamAtA/01_stutA_mayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्तु॒ता मया॑ वर॒दा वे॑दमा॒ता प्र चो॑दयन्तां पावमा॒नी द्वि॒जाना॑म्।  
-आयुः॑ प्रा॒णं प्र॒जां प॒शुं की॒र्तिं द्रवि॑णं ब्रह्मवर्च॒सम्।  
-मह्यं॑ द॒त्त्वा व्र॑जत ब्रह्मलो॒कम् ॥
+स्तुता᳓ म᳓या वरदा᳓ वेदमाता᳓ प्र᳓ चोदयन्तां पावमानी᳓ द्विजा᳓नाम्।  
+आ᳓युः प्राणं᳓ प्रजां᳓ पशुं᳓ कीर्तिं᳓ द्र᳓विणं ब्रह्मवर्चस᳓म्।  
+म᳓ह्यं दत्त्वा᳓ व्रजत ब्रह्मलोक᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/071_vedamAtA/01_stutA_mayA.md">

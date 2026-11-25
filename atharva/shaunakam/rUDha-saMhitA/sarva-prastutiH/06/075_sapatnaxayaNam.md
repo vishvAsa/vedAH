@@ -37,8 +37,8 @@ A charm to effect the removal of an enemy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर॒मुं नु॑द॒ ओक॑सः स॒पत्नो॒ यः पृ॑त॒न्यति॑।  
-नै॑र्बा॒ध्ये᳡न ह॒विषेन्द्र॑ एनं॒ परा॑शरीत् ॥
+नि᳓रमुं᳓ नुद ओ᳓कसः सप᳓त्नो यः᳓ पृतन्य᳓ति।  
+नै᳙र्बाध्ये᳙न हवि᳓षे᳓न्द्र एनं प᳓राशरीत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
@@ -102,8 +102,8 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/02_paramAM_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॑र॒मां तं प॑रा॒वत॒मिन्द्रो॑ नुदतु वृत्र॒हा।  
-यतो॒ न पुन॒राय॑ति शश्व॒तीभ्यः॒ समा॑भ्यः ॥
+प᳙रमां᳓ तं᳓ पराव᳓तमि᳓न्द्रो नुदतु वृत्रहा᳓।  
+य᳓तो न᳓ पु᳓नरा᳓यति शश्वती᳓भ्यः स᳓माभ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/075_sapatnaxayaNam/02_paramAM_tam.md">
@@ -166,9 +166,9 @@ Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/03_etu_tisraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एतु॑ ति॒स्रः प॑रा॒वत॒ एतु॒ पञ्च॒ जनाँ॒ अति॑।  
-एतु॑ ति॒स्रोऽति॑ रोच॒ना यतो॒ न पुन॒राय॑ति।  
-श॑श्व॒तीभ्यः॒ समा॑भ्यो॒ याव॒त्सूर्यो॒ अस॑द्दि॒वि ॥
+ए᳓तु तिस्रः᳓ पराव᳓त ए᳓तु प᳓ञ्च ज᳓नाँ अ᳓ति।  
+ए᳓तु तिस्रो᳓ऽति रोचना᳓ य᳓तो न᳓ पु᳓नरा᳓यति।  
+श᳙श्वती᳓भ्यः स᳓माभ्यो या᳓वत्सू᳓र्यो अ᳓सद्दिवि᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/075_sapatnaxayaNam/03_etu_tisraH.md">

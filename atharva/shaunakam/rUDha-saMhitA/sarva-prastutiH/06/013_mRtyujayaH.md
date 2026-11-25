@@ -37,8 +37,8 @@ Homage to death
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/01_namo_devavadhebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नमो॑ देवव॒धेभ्यो॒ नमो॑ राजव॒धेभ्यः॑।  
-अथो॒ ये विश्या॑नां व॒धास्तेभ्यो॑ मृत्यो॒ नमो॑ऽस्तु ते ॥
+न᳓मो देववधे᳓भ्यो न᳓मो राजवधे᳓भ्यः।  
+अ᳓थो ये᳓ वि᳓श्यानां वधा᳓स्ते᳓भ्यो मृत्यो न᳓मोऽस्तु ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/013_mRtyujayaH/01_namo_devavadhebhyo.md">
@@ -100,8 +100,8 @@ Worship to weapons of the Gods! worship to weapons of the Kings! Then worship to
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/02_namaste_adhivAkAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते अधिवा॒काय॑ परावा॒काय॑ ते॒ नमः॑।  
-सु॑म॒त्यै मृ॑त्यो ते॒ नमो॑ दुर्म॒त्यै त॑ इ॒दं नमः॑ ॥
+न᳓मस्ते अधिवाका᳓य परावाका᳓य ते न᳓मः।  
+सु᳙मत्यै᳓ मृत्यो ते न᳓मो दुर्मत्यै᳓ त इदं᳓ न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/013_mRtyujayaH/02_namaste_adhivAkAya.md">
@@ -163,8 +163,8 @@ Let worship be to thy defence and to thine accusation paid. Death! be this worsh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/03_namaste_yAtudhAnebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते यातु॒धाने॑भ्यो॒ नम॑स्ते भेष॒जेभ्यः॑।  
-नम॑स्ते मृत्यो॒ मूले॑भ्यो ब्राह्म॒णेभ्य॑ इ॒दं नमः॑ ॥
+न᳓मस्ते यातुधा᳓नेभ्यो न᳓मस्ते भेषजे᳓भ्यः।  
+न᳓मस्ते मृत्यो मू᳓लेभ्यो ब्राह्मणे᳓भ्य इदं᳓ न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/013_mRtyujayaH/03_namaste_yAtudhAnebhyo.md">

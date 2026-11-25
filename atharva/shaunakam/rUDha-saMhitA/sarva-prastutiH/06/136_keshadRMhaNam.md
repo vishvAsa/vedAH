@@ -33,8 +33,8 @@ Translated: Zimmer, p. 68; Grill, 50, 176; Griffith, i. 321; Bloomfield, 31, 536
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/01_devI_devyAmadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वी दे॒व्यामधि॑ जा॒ता पृ॑थि॒व्याम॑स्योषधे।  
-तां त्वा॑ नितत्नि॒ केशे॑भ्यो॒ दृंह॑णाय खनामसि ॥
+देवी᳓ देव्या᳓म᳓धि जाता᳓ पृथिव्या᳓मस्योषधे।  
+तां᳓ त्वा नितत्नि के᳓शेभ्यो दृं᳓हणाय खनामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/136_keshadRMhaNam/01_devI_devyAmadhi.md">
@@ -97,7 +97,7 @@ Born from the bosom of wide Earth the Goddess, godlike Plant, art thou: So we, N
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/02_dRMha_pratnAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दृंह॑ प्र॒त्नान् ज॒नयाजा॑तान् जा॒तानु॒ वर्षी॑यसस्कृधि ॥
+दृं᳓ह प्रत्ना᳓न् जन᳓या᳓जातान् जाता᳓नु व᳓र्षीयसस्कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/136_keshadRMhaNam/02_dRMha_pratnAn.md">
@@ -159,8 +159,8 @@ Make the old firm, make new hair spring, lengthen what has already grown.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/03_yaste_kesho-vapadyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॒ केशो॑ऽव॒पद्य॑ते॒ समू॑लो॒ यश्च॑ वृ॒श्चते॑।  
-इ॒दं तं वि॒श्वभे॑षज्या॒भि षि॑ञ्चामि वी॒रुधा॑ ॥
+य᳓स्ते के᳓शोऽवप᳓द्यते स᳓मूलो य᳓श्च वृश्च᳓ते।  
+इदं᳓ तं᳓ विश्व᳓भेषज्याभि᳓ षिञ्चामि वीरु᳓धा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/136_keshadRMhaNam/03_yaste_kesho-vapadyate.md">

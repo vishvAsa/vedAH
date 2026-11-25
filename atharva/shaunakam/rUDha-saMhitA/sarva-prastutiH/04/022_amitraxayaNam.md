@@ -37,8 +37,8 @@ A benediction on a newly consecrated king
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/01_imamindra_vardhaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒ममि॑न्द्र वर्धय क्ष॒त्रियं॑ म इ॒मं वि॒शामे॑कवृ॒षं कृ॑णु॒ त्वम्।  
-निर॒मित्रा॑नक्ष्णुह्यस्य॒ सर्वां॒स्तान्र॑न्धयास्मा अहमुत्त॒रेषु॑ ॥
+इम᳓मिन्द्र वर्धय क्षत्रि᳓यं म इमं᳓ विशा᳓मेकवृषं᳓ कृणु त्व᳓म्।  
+नि᳓रमि᳓त्रानक्ष्णुह्यस्य स᳓र्वांस्ता᳓न्रन्धयास्मा अहमुत्तरे᳓षु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/01_imamindra_vardhaya.md">
@@ -107,8 +107,8 @@ Exalt and strengthen this my Prince, O Indra, Make him sole lord and leader of t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/02_emaM_bhaja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एमं भ॑ज॒ ग्रामे॒ अश्वे॑षु॒ गोषु॒ निष्टं भ॑ज॒ यो अ॒मित्रो॑ अ॒स्य।  
-वर्ष्म॑ क्ष॒त्राणा॑म॒यम॑स्तु॒ राजेन्द्र॒ शत्रुं॑ रन्धय॒ सर्व॑म॒स्मै ॥
+ए᳓मं᳓ भज ग्रा᳓मे अ᳓श्वेषु गो᳓षु नि᳓ष्टं᳓ भज यो᳓ अमि᳓त्रो अस्य᳓।  
+व᳓र्ष्म क्षत्रा᳓णामय᳓मस्तु रा᳓जे᳓न्द्र श᳓त्रुं रन्धय स᳓र्वमस्मै᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/02_emaM_bhaja.md">
@@ -180,8 +180,8 @@ Give him a share in village, kine, and horses, and leave his enemy without a por
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/03_ayamastu_dhanapatirdhanAnAmayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यम॑स्तु॒ धन॑पति॒र्धना॑नाम॒यं वि॒शां वि॒श्पति॑रस्तु॒ राजा॑।  
-अ॒स्मिन्नि॑न्द्र॒ महि॒ वर्चां॑सि धेह्यव॒र्चसं॑ कृणुहि॒ शत्रु॑मस्य ॥
+अय᳓मस्तु ध᳓नपतिर्ध᳓नानामयं᳓ विशां᳓ विश्प᳓तिरस्तु रा᳓जा।  
+अस्मि᳓न्निन्द्र म᳓हि व᳓र्चांसि धेह्यवर्च᳓सं कृणुहि श᳓त्रुमस्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/03_ayamastu_dhanapatirdhanAnAmayam.md">
@@ -246,8 +246,8 @@ Let him be treasure-lord of goodly treasures, let him as King be master of the p
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/04_asmai_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्मै द्या॑वापृथिवी॒ भूरि॑ वा॒मं दु॑हाथां घर्म॒दुघे॑ इ॒व धे॒नू।  
-अ॒यं राजा॑ प्रि॒य इन्द्र॑स्य भूयात्प्रि॒यो गवा॒मोष॑धीनां पशू॒नाम् ॥
+अस्मै᳓ द्यावापृथिवी भू᳓रि वामं᳓ दुहाथां घर्मदु᳓घे इव᳓ धेनू᳓।  
+अयं᳓ रा᳓जा प्रिय᳓ इ᳓न्द्रस्य भूयात्प्रियो᳓ ग᳓वामो᳓षधीनां पशूना᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/04_asmai_dyAvApRthivI.md">
@@ -317,8 +317,8 @@ Like milch-kine yielding milk for warm libations, pour, Heaven and Earth! on him
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/05_yunajmi_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यु॒नज्मि॑ त उत्त॒राव॑न्त॒मिन्द्रं॒ येन॒ जय॑न्ति॒ न प॑रा॒जय॑न्ते।  
-यस्त्वा॒ कर॑देकवृ॒षं जना॑नामु॒त राज्ञा॑मुत्त॒मं मा॑न॒वाना॑म् ॥
+युन᳓ज्मि त उत्तरा᳓वन्तमि᳓न्द्रं ये᳓न ज᳓यन्ति न᳓ पराज᳓यन्ते।  
+य᳓स्त्वा क᳓रदेकवृषं᳓ ज᳓नानामुत᳓ रा᳓ज्ञामुत्तमं᳓ मानवा᳓नाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/05_yunajmi_ta.md">
@@ -383,8 +383,8 @@ I join in league with thee victorious Indra, with whom men conquer and are ne'er
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/06_uttarastvamadhare_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्त॑र॒स्त्वमध॑रे ते स॒पत्ना॒ ये के च॑ राज॒न्प्रति॑शत्रवस्ते।  
-ए॑कवृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा भ॑रा॒ भोज॑नानि ॥
+उ᳓त्तरस्त्व᳓म᳓धरे ते सप᳓त्ना ये᳓ के᳓ च राजन्प्र᳓तिशत्रवस्ते।  
+ए᳙कवृष᳓ इ᳓न्द्रसखा जिगीवां᳓ छत्रूयता᳓मा᳓ भरा भो᳓जनानि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/06_uttarastvamadhare_te.md">
@@ -451,8 +451,8 @@ Supreme art thou, beneath thee are thy rivals, and all, O King, who were thine a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/07_siMhapratIko_visho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सिं॒हप्र॑तीको॒ विशो॑ अद्धि॒ सर्वा॑ व्या॒घ्रप्र॑ती॒कोऽव॑ बाधस्व॒ शत्रू॑न्।  
-ए॑कवृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा खि॑दा॒ भोज॑नानि ॥
+सिंह᳓प्रतीको वि᳓शो अद्धि स᳓र्वा व्याघ्र᳓प्रतीको᳓ऽव बाधस्व श᳓त्रून्।  
+ए᳙कवृष᳓ इ᳓न्द्रसखा जिगीवां᳓ छत्रूयता᳓मा᳓ खिदा भो᳓जनानि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/07_siMhapratIko_visho.md">

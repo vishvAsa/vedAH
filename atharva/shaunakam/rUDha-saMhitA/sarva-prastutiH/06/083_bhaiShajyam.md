@@ -33,8 +33,8 @@ A charm against sores and pustules (apachitas)
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/01_apachitaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अप॑चितः॒ प्र प॑तत सुप॒र्णो व॑स॒तेरि॑व।  
-सूर्यः॑ कृ॒णोतु॑ भेष॒जं च॒न्द्रमा॒ वोऽपो॑च्छतु ॥
+अ᳓पचितः प्र᳓ पतत सुपर्णो᳓ वसते᳓रिव।  
+सू᳓र्यः कृणो᳓तु भेषजं᳓ चन्द्र᳓मा वो᳓ऽपोच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/01_apachitaH_pra.md">
@@ -104,8 +104,8 @@ Hence, Sores and Pustules, fly away even as the eagle from his home. Let Surya b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/02_enyekA_shyenyekA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एन्येका॒ श्येन्येका॑ कृ॒ष्णैका॒ रोहि॑णी॒ द्वे।  
-सर्वा॑सा॒मग्र॑भं॒ नामावी॑रघ्नी॒रपे॑तन ॥
+ए᳓न्ये᳓का श्ये᳓न्ये᳓का कृष्णै᳓का रो᳓हिणी द्वे᳓।  
+स᳓र्वासाम᳓ग्रभं ना᳓मा᳓वीरघ्नीर᳓पेतन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/02_enyekA_shyenyekA.md">
@@ -166,8 +166,8 @@ One bright with variegated tints, one white, one black, a couple red:-- The'name
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/03_asUtikA_rAmAyaNyapachitpra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒सूति॑का रामाय॒ण्य᳡प॒चित्प्र प॑तिष्यति।  
-ग्लौरि॒तः प्र प॑तिष्यति॒ स ग॑लु॒न्तो न॑शिष्यति ॥
+असू᳓तिका रामायण्य᳙पचि᳓त्प्र᳓ पतिष्यति।  
+ग्लौ᳓रितः᳓ प्र᳓ पतिष्यति स᳓ गलुन्तो᳓ नशिष्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/03_asUtikA_rAmAyaNyapachitpra.md">
@@ -235,7 +235,7 @@ Hence, childless, shall the Pustule flee, grand-daughter of the dusky one. The B
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/04_vIhi_svAmAhutim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वी॒हि स्वामाहु॑तिं जुषा॒णो मन॑सा॒ स्वाहा॒ मन॑सा॒ यदि॒दं जु॒होमि॑ ॥
+वीहि᳓ स्वा᳓मा᳓हुतिं जुषाणो᳓ म᳓नसा स्वा᳓हा म᳓नसा य᳓दिदं᳓ जुहो᳓मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/04_vIhi_svAmAhutim.md">

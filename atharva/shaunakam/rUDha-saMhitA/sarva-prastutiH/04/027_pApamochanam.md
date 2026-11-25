@@ -37,8 +37,8 @@ A hymn to the Maruts
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/01_marutAM_manve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒रुतां॑ मन्वे॒ अधि॑ मे ब्रुवन्तु॒ प्रेमं वाजं॒ वाज॑साते अवन्तु।  
-आ॒शूनि॑व सु॒यमा॑नह्व ऊ॒तये॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+मरु᳓तां मन्वे अ᳓धि मे ब्रुवन्तु प्रे᳓मं᳓ वा᳓जं वा᳓जसाते अवन्तु।  
+आशू᳓निव सुय᳓मानह्व ऊत᳓ये ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/01_marutAM_manve.md">
@@ -107,8 +107,8 @@ I think upon the Maruts: may they bless me, may they assist me to this wealth in
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/02_utsamaxitaM_vyachanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्स॒मक्षि॑तं॒ व्यच॑न्ति॒ ये सदा॒ य आ॑सि॒ञ्चन्ति॒ रस॒मोष॑धीषु।  
-पु॒रो द॑धे म॒रुतः॒ पृश्नि॑मातॄं॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+उ᳓त्सम᳓क्षितं व्य᳓चन्ति ये᳓ स᳓दा य᳓ आसिञ्च᳓न्ति र᳓समो᳓षधीषु।  
+पुरो᳓ दधे मरु᳓तः पृ᳓श्निमातॄंस्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/02_utsamaxitaM_vyachanti.md">
@@ -172,8 +172,8 @@ Those who surround the never-failing fountain for ever, and bedew the plants wit
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/03_payo_dhenUnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पयो॑ धेनू॒नां रस॒मोष॑धीनां ज॒वमर्व॑तां कवयो॒ य इन्व॑थ।  
-श॒ग्मा भ॑वन्तु म॒रुतो॑ नः स्यो॒नास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+प᳓यो धेनूनां᳓ र᳓समो᳓षधीनां जव᳓म᳓र्वतां कवयो य᳓ इ᳓न्वथ।  
+शग्मा᳓ भवन्तु मरु᳓तो नः स्योना᳓स्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/03_payo_dhenUnAm.md">
@@ -239,8 +239,8 @@ Bards, who invigorate the milk of milch-kine, the sap of growing plants, the spe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/04_apaH_samudrAddivamudvahanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पः स॑मु॒द्राद्दिव॒मुद्व॑हन्ति दि॒वस्पृ॑थि॒वीम॒भि ये सृ॒जन्ति॑।  
-ये अ॒द्भिरीशा॑ना म॒रुत॑श्चरन्ति॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+अपः᳓ समुद्रा᳓द्दि᳓वमु᳓द्वहन्ति दिव᳓स्पृथिवी᳓मभि᳓ ये᳓ सृज᳓न्ति।  
+ये᳓ अद्भि᳓री᳓शाना मरु᳓तश्चरन्ति ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/04_apaH_samudrAddivamudvahanti.md">
@@ -304,8 +304,8 @@ They who raised water from the sea to heaven and send it from the sky to earth i
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/05_ye_kIlAlena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये की॒लाले॑न त॒र्पय॑न्ति॒ ये घृ॒तेन॒ ये वा॒ वयो॒ मेद॑सा संसृ॒जन्ति॑।  
-ये अ॒द्भिरीशा॑ना म॒रुतो॑ व॒र्षय॑न्ति॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+ये᳓ कीला᳓लेन तर्प᳓यन्ति ये᳓ घृते᳓न ये᳓ वा व᳓यो मे᳓दसा संसृज᳓न्ति।  
+ये᳓ अद्भि᳓री᳓शाना मरु᳓तो वर्ष᳓यन्ति ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/05_ye_kIlAlena.md">
@@ -369,8 +369,8 @@ They who delight in nectar and in fatness, they who bestow upon us health and vi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/06_yadIdidaM_maruto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदीदि॒दं म॑रुतो॒ मारु॑तेन॒ यदि॑ देवा॒ दैव्ये॑ने॒दृगार॑।  
-यू॒यमी॑शिध्वे वसव॒स्तस्य॒ निष्कृ॑ते॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+य᳓दी᳓दिदं᳓ मरुतो मा᳓रुतेन य᳓दि देवा दै᳓व्येनेदृ᳓गा᳓र।  
+यूय᳓मीशिध्वे वसवस्त᳓स्य नि᳓ष्कृतेस्ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/06_yadIdidaM_maruto.md">
@@ -442,8 +442,8 @@ Whether with stormy might the Maruts established this All, or Gods with their ce
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/07_tigmamanIkaM_viditam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ति॒ग्ममनी॑कं विदि॒तं सह॑स्व॒न्मारु॑तं॒ शर्धः॒ पृत॑नासू॒ग्रम्।  
-स्तौमि॑ म॒रुतो॑ नाथि॒तो जो॑हवीमि॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+तिग्म᳓म᳓नीकं विदितं᳓ स᳓हस्वन्मा᳓रुतं श᳓र्धः पृ᳓तनासूग्र᳓म्।  
+स्तौ᳓मि मरु᳓तो नाथितो᳓ जोहवीमि ते᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/07_tigmamanIkaM_viditam.md">

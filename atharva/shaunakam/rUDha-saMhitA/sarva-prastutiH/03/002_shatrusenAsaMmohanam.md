@@ -37,8 +37,8 @@ A rifaccimento or recension of I
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/01_agnirno_dUtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निर्नो॑ दू॒तः प्र॒त्येतु॑ वि॒द्वान्प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्।  
-स चि॒त्तानि॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥
+अग्नि᳓र्नो दूतः᳓ प्रत्ये᳓तु विद्वा᳓न्प्रतिद᳓हन्नभि᳓शस्तिम᳓रातिम्।  
+स᳓ चित्ता᳓नि मोहयतु प᳓रेषां नि᳓र्हस्तांश्च कृणवज्जात᳓वेदाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/01_agnirno_dUtaH.md">
@@ -103,8 +103,8 @@ May Agni, he who knows, our envoy, meet them, burning against ill-will and impre
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/02_ayamagniramUmuhadyAni_chittAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यम॒ग्निर॑मूमुह॒द्यानि॑ चि॒त्तानि॑ वो हृ॒दि।  
-वि वो॑ धम॒त्वोक॑सः॒ प्र वो॑ धमतु स॒र्वतः॑ ॥
+अय᳓मग्नि᳓रमूमुहद्या᳓नि चित्ता᳓नि वो हृदि᳓।  
+वि᳓ वो धमत्वो᳓कसः प्र᳓ वो धमतु सर्व᳓तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/02_ayamagniramUmuhadyAni_chittAni.md">
@@ -168,8 +168,8 @@ This Agni hath bewildered all the senses that were in your hearts: Now let him b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/03_indra_chittAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑ चि॒त्तानि॑ मो॒हय॑न्न॒र्वाङाकू॑त्या चर।  
-अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान्विषू॑चो॒ वि ना॑शय ॥
+इ᳓न्द्र चित्ता᳓नि मोह᳓यन्नर्वा᳓ङा᳓कूत्या चर।  
+अग्ने᳓र्वा᳓तस्य ध्रा᳓ज्या ता᳓न्वि᳓षूचो वि᳓ नाशय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/03_indra_chittAni.md">
@@ -236,8 +236,8 @@ Dazing their senses, Indra, come hitherward with the wish and will. With Agni's,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/04_vyAkUtaya_eShAmitAtho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्या॑कूतय एषामि॒ताथो॑ चि॒त्तानि॑ मुह्यत।  
-अथो॒ यद॒द्यैषां॑ हृ॒दि तदे॑षां॒ परि॒ निर्ज॑हि ॥
+व्या᳙कूतय एषामिता᳓थो चित्ता᳓नि मुह्यत।  
+अ᳓थो य᳓दद्यै᳓षां हृदि᳓ त᳓देषां प᳓रि नि᳓र्जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/04_vyAkUtaya_eShAmitAtho.md">
@@ -303,8 +303,8 @@ Vanish, ye hopes and plans of theirs, be ye confounded, all their thoughts! What
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/05_amIShAM_chittAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मीषां॑ चि॒त्तानि॑ प्रतिमो॒हय॑न्ती गृहा॒णाङ्गा॑न्यप्वे॒ परे॑हि।  
-अ॒भि प्रेहि॒ निर्द॑ह हृ॒त्सु शोकै॒र्ग्राह्या॒मित्रां॒स्तम॑सा विध्य॒ शत्रू॑न् ॥
+अमी᳓षां चित्ता᳓नि प्रतिमोह᳓यन्ती गृहाणा᳓ङ्गान्यप्वे प᳓रेहि।  
+अभि᳓ प्रे᳓हि नि᳓र्दह हृत्सु᳓ शो᳓कैर्ग्रा᳓ह्यामि᳓त्रांस्त᳓मसा विध्य श᳓त्रून् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/05_amIShAM_chittAni.md">
@@ -381,8 +381,8 @@ Bewildering the senses of our foemen, seize on their bodies and depart, O Apva! 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/06_asau_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒सौ या सेना॑ मरुतः॒ परे॑षाम॒स्मानैत्य॒भ्योज॑सा॒ स्पर्ध॑माना।  
-तां वि॑ध्यत॒ तम॒साप॑व्रतेन॒ यथै॑षाम॒न्यो अ॒न्यं न जा॒नात् ॥
+असौ᳓ या᳓ से᳓ना मरुतः प᳓रेषामस्मा᳓नै᳓त्यभ्यो᳓जसा स्प᳓र्धमाना।  
+तां᳓ विध्यत त᳓मसा᳓पव्रतेन य᳓थैषामन्यो᳓ अन्यं᳓ न᳓ जाना᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/06_asau_yA.md">

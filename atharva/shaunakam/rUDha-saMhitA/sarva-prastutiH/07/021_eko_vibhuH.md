@@ -37,8 +37,8 @@ A funeral stanza
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/021_eko_vibhuH/01_sameta_vishve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒मेत॒ विश्वे॒ वच॑सा॒ पतिं॑ दि॒व एको॑ वि॒भूरति॑थि॒र्जना॑नाम्।  
-स पू॒र्व्यो नूत॑नमा॒विवा॑स॒त्तं व॑र्त॒निरनु॑ वावृत॒ एक॒मित्पु॒रु ॥
+समे᳓त वि᳓श्वे व᳓चसा प᳓तिं दिव᳓ ए᳓को विभू᳓र᳓तिथिर्ज᳓नानाम्।  
+स᳓ पूर्व्यो᳓ नू᳓तनमावि᳓वासत्तं᳓ वर्तनि᳓र᳓नु वावृत ए᳓कमि᳓त्पुरु᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/021_eko_vibhuH/01_sameta_vishve.md">

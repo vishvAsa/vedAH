@@ -37,8 +37,8 @@ A charm to cure scrofulous pustules and scrofula
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ सु॒स्रसः॑ सु॒स्रसो॒ अस॑तीभ्यो॒ अस॑त्तराः।  
-सेहो॑रर॒सत॑रा लव॒णाद्विक्ले॑दीयसीः ॥
+आ᳓ सुस्र᳓सः सुस्र᳓सो अ᳓सतीभ्यो अ᳓सत्तराः।  
+से᳓होररस᳓तरा लवणा᳓द्वि᳓क्लेदीयसीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
@@ -113,8 +113,8 @@ Rapidly dropping, quick to drop, more evil than the evil ones, More sapless than
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या ग्रैव्या॑ अप॒चितोऽथो॒ या उ॑पप॒क्ष्याः᳡।  
-वि॒जाम्नि॒ या अ॑प॒चितः॑ स्वयं॒स्रसः॑ ॥
+या᳓ ग्रै᳓व्या अपचि᳓तो᳓ऽथो या᳓ उपपक्ष्याः᳙।  
+विजा᳓म्नि या᳓ अपचि᳓तः स्वयंस्र᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
@@ -179,8 +179,8 @@ Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः कीक॑साः प्रशृ॒णाति॑ तली॒द्य᳡मव॒तिष्ठ॑ति।  
-निर्हा॒स्तं सर्वं॑ जा॒यान्यं यः कश्च॑ क॒कुदि॑ श्रि॒तः ॥
+यः᳓ की᳓कसाः प्रशृणा᳓ति तलीद्य᳙मवति᳓ष्ठति।  
+नि᳓र्हास्तं᳓ स᳓र्वं जाया᳓न्यं᳓ यः᳓ क᳓श्च ककु᳓दि श्रितः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
@@ -265,8 +265,8 @@ I have expelled and banished all Scrofula harboured in the head, And that which 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒क्षी जा॒यान्यः॑ पतति॒ स आ वि॑शति॒ पूरु॑षम्।  
-तदक्षि॑तस्य भेष॒जमु॒भयोः॒ सुक्ष॑तस्य च ॥
+पक्षी᳓ जाया᳓न्यः पतति स᳓ आ᳓ विशति पू᳓रुषम्।  
+त᳓द᳓क्षितस्य भेषज᳓मुभ᳓योः सु᳓क्षतस्य च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
@@ -346,8 +346,8 @@ Scrofula flies borne on by wings: it penerates and holds the man. Here is the cu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्म वै ते॑ जायान्य॒ जानं॒ यतो॑ जायान्य॒ जाय॑से।  
-क॒थं ह॒ तत्र॒ त्वं ह॑नो॒ यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे ॥
+विद्म᳓ वै᳓ ते जायान्य जा᳓नं य᳓तो जायान्य जा᳓यसे।  
+कथं᳓ ह त᳓त्र त्वं᳓ हनो य᳓स्य कृण्मो᳓ हवि᳓र्गृहे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
@@ -416,8 +416,8 @@ We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धृ॒षत्पि॑ब क॒लशे॒ सोम॑मिन्द्र वृत्र॒हा शू॑र सम॒रे वसू॑नाम्।  
-माध्य॑न्दिने॒ सव॑न॒ आ वृ॑षस्व रयि॒ष्ठानो॑ र॒यिम॒स्मासु॑ धेहि ॥
+धृष᳓त्पिब कल᳓शे सो᳓ममिन्द्र वृत्रहा᳓ शूर समरे᳓ व᳓सूनाम्।  
+मा᳓ध्यन्दिने स᳓वन आ᳓ वृषस्व रयिष्ठा᳓नो रयि᳓मस्मा᳓सु धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">

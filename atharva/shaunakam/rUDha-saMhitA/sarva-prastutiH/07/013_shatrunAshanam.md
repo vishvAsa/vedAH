@@ -37,8 +37,8 @@ A charm to win superiority over foes and rivals
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/013_shatrunAshanam/01_yathA_sUryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ सूर्यो॒ नक्ष॑त्राणामु॒द्यंस्तेजां॑स्याद॒दे।  
-ए॒वा स्त्री॒णां च॑ पुं॒सां च॑ द्विष॒तां वर्च॒ आ द॑दे ॥
+य᳓था सू᳓र्यो न᳓क्षत्राणामुद्यं᳓स्ते᳓जांस्याददे᳓।  
+एवा᳓ स्त्रीणां᳓ च पुंसां᳓ च द्विषतां᳓ व᳓र्च आ᳓ ददे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/013_shatrunAshanam/01_yathA_sUryo.md">
@@ -99,8 +99,8 @@ As the Sun, rising, taketh to himself the brightness of the stars,. So I assume 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/013_shatrunAshanam/02_yAvanto_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याव॑न्तो मा स॒पत्ना॑नामा॒यन्तं॑ प्रति॒पश्य॑थ।  
-उ॒द्यन्त्सूर्य॑ इव सु॒प्तानां॑ द्विष॒तां वर्च॒ आ द॑दे ॥
+या᳓वन्तो मा सप᳓त्नानामाय᳓न्तं प्रतिप᳓श्यथ।  
+उद्य᳓न्त्सू᳓र्य इव सुप्ता᳓नां द्विषतां᳓ व᳓र्च आ᳓ ददे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/013_shatrunAshanam/02_yAvanto_mA.md">

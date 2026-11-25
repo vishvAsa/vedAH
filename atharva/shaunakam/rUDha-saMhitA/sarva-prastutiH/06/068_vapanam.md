@@ -37,8 +37,8 @@ A charm to accompany the shaving of the beard
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयम॑गन्त्सवि॒ता क्षु॒रेणो॒ष्णेन॑ वाय उद॒केनेहि॑।  
-आ॑दि॒त्या रु॒द्रा वस॑व उन्दन्तु॒ सचे॑तसः॒ सोम॑स्य॒ राज्ञो॑ वपत॒ प्रचे॑तसः ॥
+आ᳓य᳓मगन्त्सविता᳓ क्षुरे᳓णोष्णे᳓न वाय उदके᳓ने᳓हि।  
+आ᳙दित्या᳓ रुद्रा᳓ व᳓सव उन्दन्तु स᳓चेतसः सो᳓मस्य रा᳓ज्ञो वपत प्र᳓चेतसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
@@ -108,8 +108,8 @@ Savitar hath come hither with the razor: come thou, O Vayu, with the heated wate
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/02_aditiH_shmashru.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अदि॑तिः॒ श्मश्रु॑ वप॒त्वाप॑ उन्दन्तु॒ वर्च॑सा।  
-चिकि॑त्सतु प्र॒जाप॑तिर्दीर्घायु॒त्वाय॒ चक्ष॑से ॥
+अ᳓दितिः श्म᳓श्रु वपत्वा᳓प उन्दन्तु व᳓र्चसा।  
+चि᳓कित्सतु प्रजा᳓पतिर्दीर्घायुत्वा᳓य च᳓क्षसे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/02_aditiH_shmashru.md">
@@ -174,8 +174,8 @@ Let Aditi shave the beard, and let the Waters bathe it with their strength: Praj
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येनाव॑पत्सवि॒ता क्षु॒रेण॒ सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान्।  
-तेन॑ ब्रह्माणो वपते॒दम॒स्य गोमा॒नश्व॑वान॒यम॑स्तु प्र॒जावा॑न् ॥
+ये᳓ना᳓वपत्सविता᳓ क्षुरे᳓ण सो᳓मस्य रा᳓ज्ञो व᳓रुणस्य विद्वा᳓न्।  
+ते᳓न ब्रह्माणो वपतेद᳓मस्य᳓ गो᳓मान᳓श्ववानय᳓मस्तु प्रजा᳓वान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">

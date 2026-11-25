@@ -37,8 +37,8 @@ To the waters, for the prosperity of cattle
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/01_ambayo_yantyadhvabhirjAmayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒म्बयो॑ य॒न्त्यध्व॑भिर्जा॒मयो॑ अध्वरीय॒ताम्।  
-पृ॑ञ्च॒तीर्मधु॑ना॒ पयः॑ ॥
+अम्ब᳓यो यन्त्य᳓ध्वभिर्जाम᳓यो अध्वरीयता᳓म्।  
+पृ᳙ञ्चती᳓र्म᳓धुना प᳓यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/01_ambayo_yantyadhvabhirjAmayo.md">
@@ -98,8 +98,8 @@ Along their paths the Mothers go, sisters of priestly ministrants, Blending thei
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/02_amUryA_upa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मूर्या उप॒ सूर्ये॒ याभि॑र्वा॒ सूर्यः॑ स॒ह।  
-ता नो॑ हिन्वन्त्वध्व॒रम् ॥
+अमू᳓र्या᳓ उ᳓प सू᳓र्ये या᳓भिर्वा सू᳓र्यः सह᳓।  
+ता᳓ नो हिन्वन्त्वध्वर᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/02_amUryA_upa.md">
@@ -160,8 +160,8 @@ May yonder Waters near the Sun, or those wherewith the Sun is joined, Send forth
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/03_apo_devIrupa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पो दे॒वीरुप॑ ह्वये॒ यत्र॒ गावः॒ पिब॑न्ति नः।  
-सिन्धु॑भ्यः॒ कर्त्वं॑ ह॒विः ॥
+अपो᳓ देवी᳓रु᳓प ह्वये य᳓त्र गा᳓वः पि᳓बन्ति नः।  
+सि᳓न्धुभ्यः क᳓र्त्वं हविः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/03_apo_devIrupa.md">
@@ -222,8 +222,8 @@ I call the Waters, Goddesses, hitherward where our cattle drink: The streams mus
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/04_apsva1ntaramRtamapsu_bheShajam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒प्स्व॑१न्तर॒मृत॑म॒प्सु भे॑ष॒जम्।  
-अ॒पामु॒त प्रश॑स्तिभि॒रश्वा॒ भव॑थ वा॒जिनो॒ गावो॑ भवथ वा॒जिनीः॑ ॥
+अप्स्व᳙न्त᳓रमृ᳓तमप्सु᳓ भेषज᳓म्।  
+अपा᳓मुत᳓ प्र᳓शस्तिभिर᳓श्वा भ᳓वथ वाजि᳓नो गा᳓वो भवथ वाजि᳓नीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/04_apsva1ntaramRtamapsu_bheShajam.md">

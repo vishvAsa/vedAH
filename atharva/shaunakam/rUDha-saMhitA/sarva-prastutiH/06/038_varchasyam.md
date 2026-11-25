@@ -37,8 +37,8 @@ A prayer for surpassing strength and energy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/01_siMhe_vyAghra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सिं॒हे व्या॒घ्र उ॒त या पृदा॑कौ॒ त्विषि॑र॒ग्नौ ब्रा॑ह्म॒णे सूर्ये॒ या।  
-इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
+सिंहे᳓ व्याघ्र᳓ उत᳓ या᳓ पृ᳓दाकौ त्वि᳓षिरग्नौ᳓ ब्राह्मणे᳓ सू᳓र्ये या᳓।  
+इ᳓न्द्रं या᳓ देवी᳓ सुभ᳓गा जजा᳓न सा᳓ न ऐ᳓तु व᳓र्चसा संविदाना᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/01_siMhe_vyAghra.md">
@@ -101,8 +101,8 @@ What energy the lion hath, the tiger, adder, and burning fire, Brahman, or Surya
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/02_yA_hastini.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या ह॒स्तिनि॑ द्वी॒पिनि॒ या हिर॑ण्ये॒ त्विषि॑र॒प्सु गोषु॒ या पुरु॑षेषु।  
-इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
+या᳓ हस्ति᳓नि द्वीपि᳓नि या᳓ हि᳓रण्ये त्वि᳓षिरप्सु᳓ गो᳓षु या᳓ पु᳓रुषेषु।  
+इ᳓न्द्रं या᳓ देवी᳓ सुभ᳓गा जजा᳓न सा᳓ न ऐ᳓तु व᳓र्चसा संविदाना᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/02_yA_hastini.md">
@@ -151,8 +151,8 @@ All energy of elephant and panther, all energy of gold, men, kine, and waters, A
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/03_rathe_axeShvRShabhasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रथे॑ अ॒क्षेष्वृ॑ष॒भस्य॒ वाजे॒ वाते॑ प॒र्जन्ये॒ वरु॑णस्य॒ शुष्मे॑।  
-इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
+र᳓थे अक्षे᳓ष्वृषभ᳓स्य वा᳓जे वा᳓ते पर्ज᳓न्ये व᳓रुणस्य शु᳓ष्मे।  
+इ᳓न्द्रं या᳓ देवी᳓ सुभ᳓गा जजा᳓न सा᳓ न ऐ᳓तु व᳓र्चसा संविदाना᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/03_rathe_axeShvRShabhasya.md">
@@ -203,8 +203,8 @@ Might in car, axles, in the strong bull's courage, in Varuna's breath, in Vata, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/04_rAjanye_dundubhAvAyatAyAmashvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रा॑ज॒न्ये᳡ दुन्दु॒भावाय॑ताया॒मश्व॑स्य॒ वाजे॒ पुरु॑षस्य मा॒यौ।  
-इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
+रा᳙जन्ये᳙ दुन्दुभा᳓वा᳓यतायाम᳓श्वस्य वा᳓जे पु᳓रुषस्य मायौ᳓।  
+इ᳓न्द्रं या᳓ देवी᳓ सुभ᳓गा जजा᳓न सा᳓ न ऐ᳓तु व᳓र्चसा संविदाना᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/04_rAjanye_dundubhAvAyatAyAmashvasya.md">

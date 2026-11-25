@@ -37,7 +37,7 @@ A prayer to Agni for aid against an enemy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/01_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ यत्ते॒ तप॒स्तेन॒ तं प्रति॑ तप॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+अ᳓ग्ने य᳓त्ते त᳓पस्ते᳓न तं᳓ प्र᳓ति तप यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/01_agne_yatte.md">
@@ -98,7 +98,7 @@ Burn thou, O Agni, with that heat of thine against the man who hates us, whom we
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/02_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ यत्ते॒ हर॒स्तेन॒ तं प्रति॑ हर॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+अ᳓ग्ने य᳓त्ते ह᳓रस्ते᳓न तं᳓ प्र᳓ति हर यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/02_agne_yatte.md">
@@ -160,7 +160,7 @@ Flame thou, O Agni, with that flame of thine against the man who hates us, whom 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ यत्ते॒ऽर्चिस्तेन॒ तं प्रत्य॑र्च॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+अ᳓ग्ने य᳓त्तेऽर्चि᳓स्ते᳓न तं᳓ प्र᳓त्यर्च यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
@@ -219,7 +219,7 @@ Shine out, O Agni, with that sheen of thine against the man who hates us, whom w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/04_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ यत्ते॑ शो॒चिस्तेन॒ तं प्रति॑ शोच॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+अ᳓ग्ने य᳓त्ते शोचि᳓स्ते᳓न तं᳓ प्र᳓ति शोच यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/04_agne_yatte.md">
@@ -278,7 +278,7 @@ Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/05_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ यत्ते॒ तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणु॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+अ᳓ग्ने य᳓त्ते ते᳓जस्ते᳓न त᳓मतेज᳓सं कृणु यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/05_agne_yatte.md">

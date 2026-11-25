@@ -33,8 +33,8 @@ Translated: Henry, 41, 115; Griffith, i. 378.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न॑म॒स्कृत्य॒ द्यावा॑पृथि॒वीभ्या॑म॒न्तरि॑क्षाय मृ॒त्यवे॑।  
-मे॒क्षाम्यू॒र्ध्वस्तिष्ठ॒न्मा मा॑ हिंसिषुरीश्व॒राः ॥
+न᳙मस्कृ᳓त्य द्या᳓वापृथिवी᳓भ्यामन्त᳓रिक्षाय मृत्य᳓वे।  
+मेक्षा᳓म्यूर्ध्व᳓स्ति᳓ष्ठन्मा᳓ मा हिंसिषुरीश्वराः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">

@@ -41,8 +41,8 @@ A medical charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/016_axirogabhaiShajam/01_Abayo_anAbayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आब॑यो॒ अना॑बयो॒ रस॑स्त उ॒ग्र आ॑बयो।  
-आ ते॑ कर॒म्भम॑द्मसि ॥
+आ᳓बयो अ᳓नाबयो र᳓सस्त उग्र᳓ आबयो।  
+आ᳓ ते करम्भ᳓मद्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/016_axirogabhaiShajam/01_Abayo_anAbayo.md">
@@ -109,8 +109,8 @@ O Abayu, non-Abayu, dire is thy juice, O Abayu; we eat the gruel made of thee.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/016_axirogabhaiShajam/02_vihahlo_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒हह्लो॒ नाम॑ ते पि॒ता म॒दाव॑ती॒ नाम॑ ते मा॒ता।  
-स हि॑न॒ त्वम॑सि॒ यस्त्वमा॒त्मान॒माव॑यः ॥
+विह᳓ह्लो ना᳓म ते पिता᳓ मदा᳓वती ना᳓म ते माता᳓।  
+स᳓ हिन त्व᳓मसि य᳓स्त्व᳓मात्मा᳓नमा᳓वयः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/016_axirogabhaiShajam/02_vihahlo_nAma.md">
@@ -182,8 +182,8 @@ Vihalha is thy father's name, thy mother's is Madavati. Yea, verily thou art not
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/016_axirogabhaiShajam/03_tauvilike-velayAvAyamailaba_ailayIt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तौवि॑लि॒केऽवे॑ल॒यावा॒यमै॑ल॒ब ऐ॑लयीत्।  
-ब॒भ्रुश्च॑ ब॒भ्रुक॑र्ण॒श्चापे॑हि॒ निरा॑ल ॥
+तौ᳓विलिके᳓ऽवेलया᳓वाय᳓मैलब᳓ ऐलयीत्।  
+बभ्रु᳓श्च बभ्रु᳓कर्णश्चा᳓पेहि नि᳓राल ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/016_axirogabhaiShajam/03_tauvilike-velayAvAyamailaba_ailayIt.md">
@@ -253,8 +253,8 @@ Go thou to rest, Tauvilika! This noisy cry hath sunk to rest. Go hence, depart, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/016_axirogabhaiShajam/04_alasAlAsi_pUrvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑ल॒साला॑सि॒ पूर्वा॑ सि॒लाञ्जा॑ला॒स्युत्त॑रा।  
-नी॑लागल॒साला॑ ॥
+अ᳙लसा᳓लासि पू᳓र्वा सिला᳓ञ्जालास्यु᳓त्तरा।  
+नी᳙लागलसा᳓ला ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/016_axirogabhaiShajam/04_alasAlAsi_pUrvA.md">

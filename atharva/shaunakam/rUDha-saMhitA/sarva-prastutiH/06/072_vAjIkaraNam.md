@@ -37,8 +37,8 @@ A charm to restore or increase virile power
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/01_yathAsitaH_prathayate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑सि॒तः प्र॒थय॑ते॒ वशाँ॒ अनु॒ वपूं॑षि कृ॒ण्वन्नसु॑रस्य मा॒यया॑।  
-ए॒वा ते॒ शेपः॒ सह॑सा॒यम॒र्कोऽङ्गे॒नाङ्गं॒ संस॑मकं कृणोतु ॥
+य᳓थासितः᳓ प्रथ᳓यते व᳓शाँ अ᳓नु व᳓पूंषि कृण्व᳓न्न᳓सुरस्य माय᳓या।  
+एवा᳓ ते शे᳓पः स᳓हसाय᳓मर्को᳓ऽङ्गेना᳓ङ्गं सं᳓समकं कृणोतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/072_vAjIkaraNam/01_yathAsitaH_prathayate.md">
@@ -106,8 +106,8 @@ Sicut anguis niger ad voluntatem se extendit, Asurarum arte magica formas novas 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/02_yathA_pasastAyAdaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ पस॑स्तायाद॒रं वाते॑न स्थूल॒भं कृ॒तम्।  
-याव॑त्पर॒स्वतः॒ पस॒स्ताव॑त्ते वर्धतां॒ पसः॑ ॥
+य᳓था प᳓सस्तायादरं᳓ वा᳓तेन स्थूलभं᳓ कृत᳓म्।  
+या᳓वत्परस्व᳓तः प᳓सस्ता᳓वत्ते वर्धतां प᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/072_vAjIkaraNam/02_yathA_pasastAyAdaram.md">
@@ -172,8 +172,8 @@ Velut penis (tayadarus quem ventus permagnum fecit, quantus. est onagri penis, t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/03_yAvadangInaM_pArasvatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याव॑द॒ङ्गीनं॒ पार॑स्वतं॒ हास्ति॑नं॒ गार्द॑भं च॒ यत्।  
-याव॒दश्व॑स्य वा॒जिन॒स्ताव॑त्ते वर्धतां॒ पसः॑ ॥
+या᳓वदङ्गी᳓नं पा᳓रस्वतं हा᳓स्तिनं गा᳓र्दभं च य᳓त्।  
+या᳓वद᳓श्वस्य वाजि᳓नस्ता᳓वत्ते वर्धतां प᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/072_vAjIkaraNam/03_yAvadangInaM_pArasvatam.md">

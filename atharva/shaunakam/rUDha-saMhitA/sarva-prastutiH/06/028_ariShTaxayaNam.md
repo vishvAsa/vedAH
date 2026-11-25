@@ -37,8 +37,8 @@ A charm to avert misfortune foreshown by the coming of a dove
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒चा क॒पोतं॑ नुदत प्र॒णोद॒मिषं॒ मद॑न्तः॒ परि॒ गां न॑यामः।  
-सं॑लो॒भय॑न्तो दुरि॒ता प॒दानि॑ हि॒त्वा न॒ ऊर्जं॒ प्र प॑दा॒त्पथि॑ष्ठः ॥
+ऋचा᳓ कपो᳓तं नुदत प्रणो᳓दमि᳓षं म᳓दन्तः प᳓रि गां᳓ नयामः।  
+सं᳙लोभ᳓यन्तो दुरिता᳓ पदा᳓नि हित्वा᳓ न ऊ᳓र्जं प्र᳓ पदात्प᳓थिष्ठः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
@@ -107,8 +107,8 @@ Drive forth the Dove, chase it with holy verses: rejoicing bring we hither food 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परी॒मे॒३॒॑ग्निम॑र्षत॒ परी॒मे गाम॑नेषत।  
-दे॒वेष्व॑क्रत॒ श्रवः॒ क इ॒माँ आ द॑धर्षति ॥
+प᳓रीमे᳙ग्नि᳓मर्षत प᳓रीमे᳓ गा᳓मनेषत।  
+देवे᳓ष्वक्रत श्र᳓वः क᳓ इमाँ᳓ आ᳓ दधर्षति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
@@ -175,8 +175,8 @@ These men have strengthened Agni's might, these men have brought the kine to us.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः प्र॑थ॒मः प्र॒वत॑मास॒साद॑ ब॒हुभ्यः॒ पन्था॑मनुपस्पशा॒नः।  
-यो॒३॒॑स्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पद॒स्तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥
+यः᳓ प्रथमः᳓ प्रव᳓तमाससा᳓द बहु᳓भ्यः प᳓न्थामनुपस्पशानः᳓।  
+यो᳙स्ये᳓शे द्विप᳓दो य᳓श्च᳓तुष्पदस्त᳓स्मै यमा᳓य न᳓मो अस्तु मृत्य᳓वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">

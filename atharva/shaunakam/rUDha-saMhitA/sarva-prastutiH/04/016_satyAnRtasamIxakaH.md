@@ -39,8 +39,8 @@ On the omnipresence and omniscience of Varuna
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/01_bRhanneShAmadhiShThAtA_antikAdiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृ॒हन्नेषामधिष्ठा॒ता अ॑न्ति॒कादि॑व पश्यति।  
-यस्ता॒यन्मन्य॑ते॒ चर॒न्त्सर्वं॑ दे॒वा इ॒दं वि॑दुः ॥
+बृह᳓न्ने᳓षा᳓म᳓धि᳓ष्ठाता᳓ अन्तिका᳓दिव पश्यति।  
+य᳓स्ताय᳓न्म᳓न्यते च᳓रन्त्स᳓र्वं देवा᳓ इदं᳓ विदुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/01_bRhanneShAmadhiShThAtA_antikAdiva.md">
@@ -117,8 +117,8 @@ The mighty Ruler of these worlds beholds as though from close at hand, The man w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/02_yastiShThati_charati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्तिष्ठ॑ति॒ चर॑ति॒ यश्च॑ वञ्चति॒ यो नि॒लायं॒ चर॑ति॒ यः प्र॒तङ्क॑म्।  
-द्वौ सं॑नि॒षद्य॒ यन्म॒न्त्रये॑ते॒ राजा॒ तद्वे॑द॒ वरु॑णस्तृ॒तीयः॑ ॥
+य᳓स्ति᳓ष्ठति च᳓रति य᳓श्च वञ्चति यो᳓ निला᳓यं च᳓रति यः᳓ प्रत᳓ङ्कम्।  
+द्वौ᳓ संनिष᳓द्य य᳓न्मन्त्र᳓येते रा᳓जा त᳓द्वेद व᳓रुणस्तृती᳓यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/02_yastiShThati_charati.md">
@@ -194,8 +194,8 @@ If a man stands or walks or moves in secret, goes to his lying- down or his upri
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/03_uteyaM_bhUmirvaruNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒तेयं भूमि॒र्वरु॑णस्य॒ राज्ञ॑ उ॒तासौ द्यौर्बृ॑ह॒ती दूरेअन्ता।  
-उ॒तो स॑मु॒द्रौ वरु॑णस्य कु॒क्षी उ॒तास्मिन्नल्प॑ उद॒के निली॑नः ॥
+उते᳓यं᳓ भू᳓मिर्व᳓रुणस्य रा᳓ज्ञ उता᳓सौ᳓ द्यौ᳓र्बृहती᳓ दू᳓रे᳓अ᳓न्ता᳓।  
+उतो᳓ समुद्रौ᳓ व᳓रुणस्य कुक्षी᳓ उता᳓स्मि᳓न्न᳓ल्प उदके᳓ नि᳓लीनः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/03_uteyaM_bhUmirvaruNasya.md">
@@ -261,8 +261,8 @@ This earth, too, is King Varuna's possession, and the high heaven whose ends are
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/04_uta_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒त यो द्याम॑ति॒सर्पा॑त्प॒रस्ता॒न्न स मु॑च्यातै॒ वरु॑णस्य॒ राज्ञः॑।  
-दि॒व स्पशः॒ प्र च॑रन्ती॒दम॑स्य सहस्रा॒क्षा अति॑ पश्यन्ति॒ भूमि॑म् ॥
+उत᳓ यो᳓ द्या᳓मतिस᳓र्पात्पर᳓स्तान्न᳓ स᳓ मुच्यातै व᳓रुणस्य रा᳓ज्ञः।  
+दिव᳓ स्प᳓शः प्र᳓ चरन्तीद᳓मस्य सहस्राक्षा᳓ अ᳓ति पश्यन्ति भू᳓मिम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/04_uta_yo.md">
@@ -328,8 +328,8 @@ If one should flee afar beyond the heaven, King Varuna would still be round abou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/05_sarvaM_tadrAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्वं॒ तद्राजा॒ वरु॑णो॒ वि च॑ष्टे॒ यद॑न्त॒रा रोद॑सी॒ यत्प॒रस्ता॑त्।  
-संख्या॑ता अस्य नि॒मिषो॒ जना॑नाम॒क्षानि॑व श्व॒घ्नी नि मि॑नोति॒ तानि॑ ॥
+स᳓र्वं त᳓द्रा᳓जा व᳓रुणो वि᳓ चष्टे य᳓दन्तरा᳓ रो᳓दसी य᳓त्पर᳓स्तात्।  
+सं᳓ख्याता अस्य निमि᳓षो ज᳓नानामक्षा᳓निव श्वघ्नी᳓ नि᳓ मिनोति ता᳓नि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/05_sarvaM_tadrAjA.md">
@@ -401,8 +401,8 @@ All this the royal Varuna beholdeth, all between heaven and earth and all beyond
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/06_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये ते॒ पाशा॑ वरुण स॒प्तस॑प्त त्रे॒धा तिष्ठ॑न्ति॒ विषि॑ता॒ रुष॑न्तः।  
-छि॒नन्तु॒ सर्वे॒ अनृ॑तं॒ वद॑न्तं॒ यः स॑त्यवा॒द्यति॒ तं सृ॑जन्तु ॥
+ये᳓ ते पा᳓शा वरुण सप्त᳓सप्त त्रेधा᳓ ति᳓ष्ठन्ति वि᳓षिता रु᳓षन्तः।  
+छिन᳓न्तु स᳓र्वे अ᳓नृतं व᳓दन्तं यः᳓ सत्यवाद्य᳓ति तं᳓ सृजन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/06_ye_te.md">
@@ -476,8 +476,8 @@ Those fatal snares of thine which stand extended, threefold, O Varuna, seven by 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/07_shatena_pAshairabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तेन॒ पाशै॑र॒भि धे॑हि वरुणैनं॒ मा ते॑ मोच्यनृत॒वाङ्नृ॑चक्षः।  
-आस्तां॑ जा॒ल्म उ॒दरं॑ श्रंसयि॒त्वा कोश॑ इवाब॒न्धः प॑रिकृ॒त्यमा॑नः ॥
+शते᳓न पा᳓शैरभि᳓ धेहि वरुणैनं मा᳓ ते मोच्यनृतवा᳓ङ्नृचक्षः।  
+आ᳓स्तां जाल्म᳓ उद᳓रं श्रंसयित्वा᳓ को᳓श इवाबन्धः᳓ परिकृत्य᳓मानः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/07_shatena_pAshairabhi.md">
@@ -554,8 +554,8 @@ Varuna, snare him with a hundred nooses! Man's watcher! let not him who lies esc
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः स॑मा॒म्यो॒३॒॑ वरु॑णो॒ यो व्या॒म्यो॒३॒॑ यः सं॑दे॒श्यो॒३॒॑ वरु॑णो॒ यो वि॑दे॒श्यः।  
-यो दै॒वो वरु॑णो॒ यश्च॒ मानु॑षः ॥
+यः᳓ समाम्यो᳙ व᳓रुणो यो᳓ व्याम्यो᳙ यः᳓ संदेश्यो᳙ व᳓रुणो यो᳓ विदेश्यः᳓।  
+यो᳓ दैवो᳓ व᳓रुणो य᳓श्च मा᳓नुषः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo.md">
@@ -630,8 +630,8 @@ Varuna sends, and drives away, diseases: Varuna is both native and a stranger, V
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/09_taistvA_sarvairabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तैस्त्वा॒ सर्वै॑र॒भि ष्या॑मि॒ पाशै॑रसावामुष्यायणामुष्याः पुत्र।  
-तानु॑ ते॒ सर्वा॑ननु॒संदि॑शामि ॥
+तै᳓स्त्वा स᳓र्वैरभि᳓ ष्यामि पा᳓शैरसावामुष्यायणामुष्याः पुत्र।  
+ता᳓नु ते स᳓र्वाननुसं᳓दिशामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/09_taistvA_sarvairabhi.md">

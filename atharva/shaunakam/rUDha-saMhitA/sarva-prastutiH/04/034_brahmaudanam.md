@@ -36,8 +36,8 @@ Glorification of the Vishtari sacrifice
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/01_brahmAsya_shIrSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्मा॑स्य शी॒र्षं बृ॒हद॑स्य पृ॒ष्ठं वा॑मदे॒व्यमु॒दर॑मोद॒नस्य॑।  
-छन्दां॑सि प॒क्षौ मुख॑मस्य स॒त्यं वि॑ष्टा॒री जा॒तस्तप॑सोऽधि य॒ज्ञः ॥
+ब्र᳓ह्मास्य शीर्षं᳓ बृह᳓दस्य पृष्ठं᳓ वामदेव्य᳓मुद᳓रमोदन᳓स्य।  
+छ᳓न्दांसि पक्षौ᳓ मु᳓खमस्य सत्यं᳓ विष्टारी᳓ जात᳓स्त᳓पसोऽधि यज्ञः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/01_brahmAsya_shIrSham.md">
@@ -104,8 +104,8 @@ The head of this is prayer, its back the Brihat, Odanas's belly is the Vamadevya
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/02_anasthAH_pUtAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑न॒स्थाः पू॒ताः पव॑नेन शु॒द्धाः शुच॑यः॒ शुचि॒मपि॑ यन्ति लो॒कम्।  
-नैषां॑ शि॒श्नं प्र द॑हति जा॒तवे॑दाः स्व॒र्गे लो॒के ब॒हु स्त्रैण॑मेषाम् ॥
+अ᳙नस्थाः᳓ पूताः᳓ प᳓वनेन शुद्धाः᳓ शु᳓चयः शु᳓चिम᳓पि यन्ति लोक᳓म्।  
+नै᳓षां शिश्नं᳓ प्र᳓ दहति जात᳓वेदाः स्वर्गे᳓ लोके᳓ बहु᳓ स्त्रै᳓णमेषाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/02_anasthAH_pUtAH.md">
@@ -175,8 +175,8 @@ Boneless, cleansed, purified by him who cleanseth, they go res- plendent to the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/03_viShTAriNamodanaM_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॑ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॒नव॑र्तिः सचते क॒दा च॒न।  
-आस्ते॑ य॒म उप॑ याति दे॒वान्त्सं ग॑न्ध॒र्वैर्म॑दते सो॒म्येभिः॑ ॥
+वि᳙ष्टारि᳓णमोदनं᳓ ये᳓ प᳓चन्ति नै᳓नान᳓वर्तिः सचते कदा᳓ चन᳓।  
+आ᳓स्ते यम᳓ उ᳓प याति देवा᳓न्त्सं᳓ गन्धर्वै᳓र्मदते सोम्ये᳓भिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/03_viShTAriNamodanaM_ye.md">
@@ -243,8 +243,8 @@ Never doth want or evil fortune visit those who prepare oblation called Vishtari
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/04_viShTAriNamodanaM_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॑ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॑न्य॒मः परि॑ मुष्णाति॒ रेतः॑।  
-र॒थी ह॑ भू॒त्वा र॑थ॒यान॑ ईयते प॒क्षी ह॑ भू॒त्वाति॒ दिवः॒ समे॑ति ॥
+वि᳙ष्टारि᳓णमोदनं᳓ ये᳓ प᳓चन्ति नै᳓नान्यमः᳓ प᳓रि मुष्णाति रे᳓तः।  
+रथी᳓ ह भूत्वा᳓ रथया᳓न ईयते पक्षी᳓ ह भूत्वा᳓ति दि᳓वः स᳓मेति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/04_viShTAriNamodanaM_ye.md">
@@ -307,9 +307,9 @@ Yama robs not of generative vigour the men who dress oblation called Vishtari. B
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/05_eSha_yajnAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒ष य॒ज्ञानां॒ वित॑तो॒ वहि॑ष्ठो विष्टा॒रिणं॑ प॒क्त्वा दिव॒मा वि॑वेश।  
-आ॒ण्डीकं॒ कुमु॑दं॒ सं त॑नोति॒ बिसं॑ शा॒लूकं॒ शफ॑को मुला॒ली।  
-ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
+एष᳓ यज्ञा᳓नां वि᳓ततो व᳓हिष्ठो विष्टारि᳓णं पक्त्वा᳓ दि᳓वमा᳓ विवेश।  
+आण्डी᳓कं कु᳓मुदं सं᳓ तनोति बि᳓सं शालू᳓कं श᳓फको मुलाली᳓।  
+एता᳓स्त्वा धा᳓रा उ᳓प यन्तु स᳓र्वाः स्वर्गे᳓ लोके᳓ म᳓धुमत्पि᳓न्वमाना उ᳓प त्वा तिष्ठन्तु पुष्करि᳓णीः स᳓मन्ताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/05_eSha_yajnAnAm.md">
@@ -401,8 +401,8 @@ Strongest is this, performed, of sacrifices: he hath reached heaven who hath pre
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/06_ghRtahradA_madhukUlAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-घृ॒तह्र॑दा॒ मधु॑कूलाः॒ सुरो॑दकाः क्षी॒रेण॑ पू॒र्णा उ॑द॒केन॑ द॒ध्ना।  
-ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
+घृत᳓ह्रदा म᳓धुकूलाः सु᳓रोदकाः क्षीरे᳓ण पूर्णा᳓ उदके᳓न दध्ना᳓।  
+एता᳓स्त्वा धा᳓रा उ᳓प यन्तु स᳓र्वाः स्वर्गे᳓ लोके᳓ म᳓धुमत्पि᳓न्वमाना उ᳓प त्वा तिष्ठन्तु पुष्करि᳓णीः स᳓मन्ताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/06_ghRtahradA_madhukUlAH.md">
@@ -472,8 +472,8 @@ Full lakes of butter with their banks of honey, flowing with wine, and milk and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/07_chaturaH_kumbhAMshchaturdhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-च॒तुरः॑ कु॒म्भांश्च॑तु॒र्धा द॑दामि क्षी॒रेण॑ पू॒र्णाँ उ॑द॒केन॑ द॒ध्ना।  
-ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
+चतु᳓रः कुम्भां᳓श्चतुर्धा᳓ ददामि क्षीरे᳓ण पूर्णाँ᳓ उदके᳓न दध्ना᳓।  
+एता᳓स्त्वा धा᳓रा उ᳓प यन्तु स᳓र्वाः स्वर्गे᳓ लोके᳓ म᳓धुमत्पि᳓न्वमाना उ᳓प त्वा तिष्ठन्तु पुष्करि᳓णीः स᳓मन्ताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/07_chaturaH_kumbhAMshchaturdhA.md">
@@ -539,8 +539,8 @@ I give four pitchers, in four several places, filled to the brim with milk and c
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/08_imamodanaM_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒ममो॑द॒नं नि द॑धे ब्राह्म॒णेषु॑ विष्टा॒रिणं॑ लोक॒जितं॑ स्व॒र्गम्।  
-स मे॒ मा क्षे॑ष्ट स्व॒धया॒ पिन्व॑मानो वि॒श्वरू॑पा धे॒नुः का॑म॒दुघा॑ मे अस्तु ॥
+इम᳓मोदनं᳓ नि᳓ दधे ब्राह्मणे᳓षु विष्टारि᳓णं लोकजि᳓तं स्वर्ग᳓म्।  
+स᳓ मे मा᳓ क्षेष्ट स्वध᳓या पि᳓न्वमानो विश्व᳓रूपा धेनुः᳓ कामदु᳓घा मे अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/08_imamodanaM_ni.md">

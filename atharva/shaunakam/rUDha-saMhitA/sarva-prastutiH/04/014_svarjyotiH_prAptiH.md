@@ -33,8 +33,8 @@ Accompanying the sacrifice of a he-goat
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/01_ajo_hyagnerajaniShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒जो ह्य१॒॑ग्नेरज॑निष्ट॒ शोका॒त्सो अ॑पश्यज्जनि॒तार॒मग्रे॑।  
-तेन॑ दे॒वा दे॒वता॒मग्र॑ आय॒न्तेन॒ रोहा॑न्रुरुहु॒र्मेध्या॑सः ॥
+अजो᳓ ह्य᳙ग्ने᳓र᳓जनिष्ट शो᳓कात्सो᳓ अपश्यज्जनिता᳓रम᳓ग्रे।  
+ते᳓न देवा᳓ देव᳓ताम᳓ग्र आयन्ते᳓न रो᳓हान्रुरुहुर्मे᳓ध्यासः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/01_ajo_hyagnerajaniShTa.md">
@@ -112,8 +112,8 @@ The Goat was verily produced from Agni. Through sorrow he beheld, at first, his 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/02_kramadhvamagninA_nAkamukhyAnhasteShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्रम॑ध्वम॒ग्निना॒ नाक॒मुख्या॒न्हस्ते॑षु॒ बिभ्र॑तः।  
-दि॒वस्पृ॒ष्ठं स्व॑र्ग॒त्वा मि॒श्रा दे॒वेभि॑राध्वम् ॥
+क्र᳓मध्वमग्नि᳓ना ना᳓कमु᳓ख्यान्ह᳓स्तेषु बि᳓भ्रतः।  
+दिव᳓स्पृष्ठं᳓ स्वर्गत्वा᳓ मिश्रा᳓ देवे᳓भिराध्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/02_kramadhvamagninA_nAkamukhyAnhasteShu.md">
@@ -182,8 +182,8 @@ Bearing in hands seethed viands, go with Agni to the cope of heaven. Reaching th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/03_pRShThAtpRthivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॒ष्ठात्पृ॑थि॒व्या अ॒हम॒न्तरि॑क्ष॒मारु॑हम॒न्तरि॑क्षा॒द्दिव॒मारु॑हम्।  
-दि॒वो नाक॑स्य पृ॒ष्ठात्स्व॑१र्ज्योति॑रगाम॒हम् ॥
+पृष्ठा᳓त्पृथिव्या᳓ अह᳓मन्त᳓रिक्षमा᳓रुहमन्त᳓रिक्षाद्दि᳓वमा᳓रुहम्।  
+दिवो᳓ ना᳓कस्य पृष्ठा᳓त्स्व᳙र्ज्यो᳓तिरगामह᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/03_pRShThAtpRthivyA.md">
@@ -251,8 +251,8 @@ From earth's high ridge to middle air I mounted, and from mid- air ascended up t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/04_svaryanto_nApexanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्व१॒॑र्यन्तो॒ नापे॑क्षन्त॒ आ द्यां रो॑हन्ति॒ रोद॑सी।  
-य॒ज्ञं ये वि॒श्वतो॑धारं॒ सुवि॑द्वांसो वितेनि॒रे ॥
+स्व᳙र्य᳓न्तो ना᳓पेक्षन्त आ᳓ द्यां᳓ रोहन्ति रो᳓दसी।  
+यज्ञं᳓ ये᳓ विश्व᳓तोधारं सु᳓विद्वांसो वितेनिरे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/04_svaryanto_nApexanta.md">
@@ -317,8 +317,8 @@ Mounting the sky they look not round; they rise to heaven through both the world
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/05_agne_prehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ प्रेहि॑ प्रथ॒मो दे॒वता॑नां॒ चक्षु॑र्दे॒वाना॑मु॒त मानु॑षाणाम्।  
-इय॑क्षमाणा॒ भृगु॑भिः स॒जोषाः॒ स्व॑र्यन्तु॒ यज॑मानाः स्व॒स्ति ॥
+अ᳓ग्ने प्रे᳓हि प्रथमो᳓ देव᳓तानां च᳓क्षुर्देवा᳓नामुत᳓ मा᳓नुषाणाम्।  
+इ᳓यक्षमाणा भृ᳓गुभिः सजो᳓षाः स्व᳙र्यन्तु य᳓जमानाः स्वस्ति᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/05_agne_prehi.md">
@@ -385,8 +385,8 @@ First among all the deities, come forward, thou who art eye of Gods and men, O A
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/06_ajamanajmi_payasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒जम॑नज्मि॒ पय॑सा घृ॒तेन॑ दि॒व्यं सु॑प॒र्णं प॑य॒सं बृ॒हन्त॑म्।  
-तेन॑ गेष्म सुकृ॒तस्य॑ लो॒कं स्व॑रा॒रोह॑न्तो अ॒भि नाक॑मुत्त॒मम् ॥
+अज᳓मनज्मि प᳓यसा घृते᳓न दिव्यं᳓ सुपर्णं᳓ पयसं᳓ बृह᳓न्तम्।  
+ते᳓न गेष्म सुकृत᳓स्य लोकं᳓ स्वरारो᳓हन्तो अभि᳓ ना᳓कमुत्तम᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/06_ajamanajmi_payasA.md">
@@ -461,8 +461,8 @@ With milk and butter I anoint the mighty, celestial Goat, strong- winged, and fu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/07_panchaudanaM_panchabhirangulibhirdarvyoddhara.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पञ्चौ॑दनं प॒ञ्चभि॑र॒ङ्गुलि॑भि॒र्दर्व्योद्ध॑र पञ्च॒धैतमो॑द॒नम्।  
-प्राच्यां॑ दि॒शि शिरो॑ अ॒जस्य॑ धेहि॒ दक्षि॑णायां दि॒शि दक्षि॑णं धेहि पा॒र्श्वम् ॥
+प᳓ञ्चौदनं पञ्च᳓भिरङ्गु᳓लिभिर्द᳓र्व्यो᳓द्धर पञ्चधै᳓त᳓मोदन᳓म्।  
+प्रा᳓च्यां दिशि᳓ शि᳓रो अज᳓स्य धेहि द᳓क्षिणायां दिशि᳓ द᳓क्षिणं धेहि पार्श्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/07_panchaudanaM_panchabhirangulibhirdarvyoddhara.md">
@@ -534,8 +534,8 @@ Set the Goat's head toward the eastern region, and turn his right side to the so
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/08_pratIchyAM_dishi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒तीच्यां॑ दि॒शि भ॒सद॑मस्य धे॒ह्युत्त॑रस्यां दि॒श्युत्त॑रं धेहि पा॒र्श्वम्।  
-ऊ॒र्ध्वायां॑ दि॒श्य१॒॑जस्यानू॑कं धेहि दि॒शि ध्रु॒वायां॑ धेहि पाज॒स्य॑म॒न्तरि॑क्षे मध्य॒तो मध्य॑मस्य ॥
+प्रती᳓च्यां दिशि᳓ भस᳓दमस्य धेह्यु᳓त्तरस्यां दिश्यु᳓त्तरं धेहि पार्श्व᳓म्।  
+ऊर्ध्वा᳓यां दिश्य᳙ज᳓स्या᳓नूकं धेहि दिशि᳓ ध्रुवा᳓यां धेहि पाजस्य᳙मन्त᳓रिक्षे मध्यतो᳓ म᳓ध्यमस्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/08_pratIchyAM_dishi.md">
@@ -604,8 +604,8 @@ Set the Goat's backbone upmost in the zenith, and lay his belly downward in the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/09_shRtamajaM_shRtayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शृ॒तम॒जं शृ॒तया॒ प्रोर्णु॑हि त्व॒चा सर्वै॒रङ्गैः॒ संभृ॑तं वि॒श्वरू॑पम्।  
-स उत्ति॑ष्ठे॒तो अ॑भि॒ नाक॑मुत्त॒मं प॒द्भिश्च॒तुर्भिः॒ प्रति॑ तिष्ठ दि॒क्षु ॥
+शृत᳓मजं᳓ शृत᳓या प्रो᳓र्णुहि त्वचा᳓ स᳓र्वैर᳓ङ्गैः सं᳓भृतं विश्व᳓रूपम्।  
+स᳓ उ᳓त्तिष्ठेतो᳓ अभि ना᳓कमुत्तमं᳓ पद्भि᳓श्चतु᳓र्भिः प्र᳓ति तिष्ठ दिक्षु᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/09_shRtamajaM_shRtayA.md">

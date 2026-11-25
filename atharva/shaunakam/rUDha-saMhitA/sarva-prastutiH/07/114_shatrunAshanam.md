@@ -33,8 +33,8 @@ Translated: Weber, Ind. Stud. v. 265; Henry, 45, 123; Griffith, i. 383.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/114_shatrunAshanam/01_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ ते॑ ददे व॒क्षणा॑भ्य॒ आ ते॒ऽहं हृद॑याद्ददे।  
-आ ते॒ मुख॑स्य॒ सङ्का॑शा॒त्सर्वं॑ ते॒ वर्च॒ आ द॑दे ॥
+आ᳓ ते ददे वक्ष᳓णाभ्य आ᳓ तेऽहं᳓ हृ᳓दयाद्ददे।  
+आ᳓ ते मु᳓खस्य स᳓ङ्काशात्स᳓र्वं ते व᳓र्च आ᳓ ददे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/114_shatrunAshanam/01_A_te.md">
@@ -99,8 +99,8 @@ I have extracted from thy sides, I have extracted from thy heart, I have extract
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/114_shatrunAshanam/02_preto_yantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रेतो य॑न्तु॒ व्या᳡ध्यः॒ प्रानु॒ध्याः प्रो अश॑स्तयः।  
-अ॒ग्नी र॑क्ष॒स्विनी॑र्हन्तु॒ सोमो॑ हन्तु दुरस्य॒तीः ॥
+प्रे᳓तो᳓ यन्तु व्या᳙ध्यः प्रा᳓नुध्याः᳓ प्रो᳓ अ᳓शस्तयः।  
+अग्नी᳓ रक्षस्वि᳓नीर्हन्तु सो᳓मो हन्तु दुरस्यतीः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/114_shatrunAshanam/02_preto_yantu.md">

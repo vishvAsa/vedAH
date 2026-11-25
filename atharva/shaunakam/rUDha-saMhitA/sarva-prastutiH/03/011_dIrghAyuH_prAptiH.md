@@ -37,8 +37,8 @@ A charm for the recovery of a dangerously sick man
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/01_munchAmi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॒ञ्चामि॑ त्वा ह॒विषा॒ जीव॑नाय॒ कम॑ज्ञातय॒क्ष्मादु॒त रा॑जय॒क्ष्मात्।  
-ग्राहि॑र्ज॒ग्राह॒ यद्ये॒तदे॑नं॒ तस्या॑ इन्द्राग्नी॒ प्र मु॑मुक्तमेनम् ॥
+मुञ्चा᳓मि त्वा हवि᳓षा जी᳓वनाय क᳓मज्ञातयक्ष्मा᳓दुत᳓ राजयक्ष्मा᳓त्।  
+ग्रा᳓हिर्जग्रा᳓ह य᳓द्येत᳓देनं त᳓स्या इन्द्राग्नी प्र᳓ मुमुक्तमेनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/01_munchAmi_tvA.md">
@@ -104,8 +104,8 @@ For life I set thee free by this oblation both from unmarked'. decline and from 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/02_yadi_xitAyuryadi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ क्षि॒तायु॒र्यदि॑ वा॒ परे॑तो॒ यदि॑ मृ॒त्योर॑न्ति॒कं नी॑त ए॒व।  
-तमा ह॑रामि॒ निरृ॑तेरु॒पस्था॒दस्पा॑र्षमेनं श॒तशा॑रदाय ॥
+य᳓दि क्षिता᳓युर्य᳓दि वा प᳓रेतो य᳓दि मृत्यो᳓रन्तिकं᳓ नीत एव᳓।  
+त᳓मा᳓ हरामि नि᳓रृतेरुप᳓स्थाद᳓स्पार्षमेनं शत᳓शारदाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/02_yadi_xitAyuryadi.md">
@@ -174,8 +174,8 @@ Be his days ended, be he now departed, be he brought very near to death already,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/03_sahasrAxeNa_shatavIryeNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑हस्रा॒क्षेण॑ श॒तवी॑र्येण श॒तायु॑षा ह॒विषाहा॑र्षमेनम्।  
-इन्द्रो॒ यथै॑नं श॒रदो॒ नया॒त्यति॒ विश्व॑स्य दुरि॒तस्य॑ पा॒रम् ॥
+स᳙हस्राक्षे᳓ण शत᳓वीर्येण शता᳓युषा हवि᳓षा᳓हार्षमेनम्।  
+इ᳓न्द्रो य᳓थैनं शर᳓दो न᳓यात्य᳓ति वि᳓श्वस्य दुरित᳓स्य पार᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/03_sahasrAxeNa_shatavIryeNa.md">
@@ -239,8 +239,8 @@ With sacrifice thousand-eyed and hundred-powered, bringing a hundred lives, have
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/04_shataM_jIva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तं जी॑व श॒रदो॒ वर्ध॑मानः श॒तं हे॑म॒न्तान्छ॒तमु॑ वस॒न्तान्।  
-श॒तं त॒ इन्द्रो॑ अ॒ग्निः स॑वि॒ता बृह॒स्पतिः॑ श॒तायु॑षा ह॒विषाहा॑र्षमेनम् ॥
+शतं᳓ जीव शर᳓दो व᳓र्धमानः शतं᳓ हेमन्ता᳓न्छत᳓मु वसन्ता᳓न्।  
+शतं᳓ त इ᳓न्द्रो अग्निः᳓ सविता᳓ बृ᳓हस्प᳓तिः शता᳓युषा हवि᳓षा᳓हार्षमेनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/04_shataM_jIva.md">
@@ -307,8 +307,8 @@ Live, waxing in thy strength a hundred autumns, live through a hundred springs, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/05_pra_vishatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र वि॑शतं प्राणापानावन॒ड्वाहा॑विव व्र॒जम्।  
-व्य॒न्ये य॑न्तु मृ॒त्यवो॒ याना॒हुरित॑रान्छ॒तम् ॥
+प्र᳓ विशतं प्राणापानावनड्वा᳓हाविव व्रज᳓म्।  
+व्यन्ये᳓ यन्तु मृत्य᳓वो या᳓नाहु᳓रि᳓तरान्छत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/05_pra_vishatam.md">
@@ -381,8 +381,8 @@ Breath, Respiration, come to him, as two car-oxen to their stall! Let all the ot
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/06_ihaiva_stam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒हैव स्तं॑ प्राणापानौ॒ माप॑ गातमि॒तो यु॒वम्।  
-शरी॑रम॒स्याङ्गा॑नि ज॒रसे॑ वहतं॒ पुनः॑ ॥
+इहै᳓व᳓ स्तं प्राणापानौ मा᳓प गातमितो᳓ युव᳓म्।  
+श᳓रीरमस्या᳓ङ्गानि जर᳓से वहतं पु᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/06_ihaiva_stam.md">
@@ -445,8 +445,8 @@ Breath, Respiration, stay ye here. Go ye not hence away from him, Bring, so that
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/07_jarAyai_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज॒रायै॑ त्वा॒ परि॑ ददामि ज॒रायै॒ नि धु॑वामि त्वा।  
-ज॒रा त्वा॑ भ॒द्रा ने॑ष्ट॒ व्य॒न्ये य॑न्तु मृ॒त्यवो॒ याना॒हुरित॑रान्छ॒तम् ॥
+जरा᳓यै त्वा प᳓रि ददामि जरा᳓यै नि᳓ धुवामि त्वा।  
+जरा᳓ त्वा भद्रा᳓ नेष्ट व्यन्ये᳓ यन्तु मृत्य᳓वो या᳓नाहु᳓रि᳓तरान्छत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/07_jarAyai_tvA.md">
@@ -509,9 +509,9 @@ I give thee over to old age, make thee the subject of old age. Let kindly old ag
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/08_abhi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि त्वा॑ जरि॒माहि॑त॒ गामु॒क्षण॑मिव॒ रज्ज्वा॑।  
-यस्त्वा॑ मृ॒त्युर॒भ्यध॑त्त॒ जाय॑मानं सुपा॒शया॑।  
-तं ते॑ स॒त्यस्य॒ हस्ता॑भ्या॒मुद॑मुञ्च॒द्बृह॒स्पतिः॑ ॥
+अभि᳓ त्वा जरिमा᳓हित गा᳓मुक्ष᳓णमिव र᳓ज्ज्वा।  
+य᳓स्त्वा मृत्यु᳓रभ्य᳓धत्त जा᳓यमानं सुपाश᳓या।  
+तं᳓ ते सत्य᳓स्य ह᳓स्ताभ्यामु᳓दमुञ्चद्बृ᳓हस्प᳓तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/08_abhi_tvA.md">

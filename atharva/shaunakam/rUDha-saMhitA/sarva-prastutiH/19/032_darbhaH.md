@@ -37,8 +37,8 @@ A charm, with an amulet of Darbha grass, to subdue enemies and win the affection
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/01_shatakANDo_dushchyavanaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तका॑ण्डो दुश्च्यव॒नः स॒हस्र॑पर्ण उत्ति॒रः।  
-द॒र्भो य उ॒ग्र ओष॑धि॒स्तं ते॑ बध्ना॒म्यायु॑षे ॥
+शत᳓काण्डो दुश्च्यवनः᳓ सह᳓स्रपर्ण उत्तिरः᳓।  
+दर्भो᳓ य᳓ उग्र᳓ ओ᳓षधिस्तं᳓ ते बध्नाम्या᳓युषे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/032_darbhaH/01_shatakANDo_dushchyavanaH.md">
@@ -109,8 +109,8 @@ For lengthened life I bind on thee the Darbha grass, the mighty plant. Excellent
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/02_nAsya_keshAnpra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नास्य॒ केशा॒न्प्र व॑पन्ति॒ नोर॑सि ताड॒मा घ्न॑ते।  
-यस्मा॑ अच्छिन्नप॒र्णेन॑ द॒र्भेन॒ शर्म॒ यच्छ॑ति ॥
+ना᳓स्य के᳓शान्प्र᳓ वपन्ति नो᳓रसि ताडमा᳓ घ्नते।  
+य᳓स्मा अच्छिन्नपर्णे᳓न दर्भे᳓न श᳓र्म य᳓च्छति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/032_darbhaH/02_nAsya_keshAnpra.md">
@@ -180,8 +180,8 @@ They cut not off his hair, they strike blow upon the breast for' him. To whom on
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/03_divi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वि ते॒ तूल॑मोषधे पृथिव्यामसि॒ निष्ठि॑तः।  
-त्वया॑ स॒हस्र॑काण्डे॒नायुः॒ प्र व॑र्धयामहे ॥
+दिवि᳓ ते तू᳓लमोषधे पृथिव्यामसि नि᳓ष्ठितः।  
+त्व᳓या सह᳓स्रकाण्डेना᳓युः प्र᳓ वर्धयामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/032_darbhaH/03_divi_te.md">
@@ -246,8 +246,8 @@ O Plant, thy root is in the sky, and thou art stationed on the earth: With thee 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/04_tisro_divo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ति॒स्रो दि॒वो अत्य॑तृणत्ति॒स्र इ॑माः पृथि॒वीरु॒त।  
-त्वया॒हं दु॒र्हार्दो॑ जि॒ह्वां नि तृ॑णद्मि॒ वचां॑सि ॥
+तिस्रो᳓ दिवो᳓ अ᳓त्यतृणत्तिस्र᳓ इमाः पृथिवी᳓रुत᳓।  
+त्व᳓याहं᳓ दुर्हा᳓र्दो जिह्वां᳓ नि᳓ तृणद्मि व᳓चांसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/032_darbhaH/04_tisro_divo.md">
@@ -321,8 +321,8 @@ Through all three skies the plant hath pierced, and the three regions of the ear
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/05_tvamasi_sahamAno-hamasmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वम॑सि॒ सह॑मानो॒ऽहम॑स्मि॒ सह॑स्वान्।  
-उ॒भौ सह॑स्वन्तौ भू॒त्वा स॒पत्ना॑न्सहिषीमहि ॥
+त्व᳓मसि स᳓हमानोऽह᳓मस्मि स᳓हस्वान्।  
+उभौ᳓ स᳓हस्वन्तौ भूत्वा᳓ सप᳓त्नान्सहिषीमहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/032_darbhaH/05_tvamasi_sahamAno-hamasmi.md">
@@ -387,8 +387,8 @@ Thou art victorious in thy might I am endowed with conquering strength: Possesse
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/06_sahasva_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सह॑स्व नो अ॒भिमा॑तिं॒ सह॑स्व पृतनाय॒तः।  
-सह॑स्व॒ सर्वा॑न्दु॒र्हार्दः॑ सु॒हार्दो॑ मे ब॒हून्कृ॑धि ॥
+स᳓हस्व नो अभि᳓मातिं स᳓हस्व पृतनायतः᳓।  
+स᳓हस्व स᳓र्वान्दुर्हा᳓र्दः सुहा᳓र्दो मे बहू᳓न्कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/032_darbhaH/06_sahasva_no.md">
@@ -451,8 +451,8 @@ Subdue our foeman, overcome the men who fain would fight: with us. Conquer all e
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/07_darbheNa_devajAtena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द॒र्भेण॑ दे॒वजा॑तेन दि॒वि ष्ट॒म्भेन॒ शश्व॒दित्।  
-तेना॒हं शश्व॑तो॒ जनाँ॒ अस॑नं॒ सन॑वानि च ॥
+दर्भे᳓ण देव᳓जातेन दिवि᳓ ष्टम्भे᳓न श᳓श्वदि᳓त्।  
+ते᳓नाहं᳓ श᳓श्वतो ज᳓नाँ अ᳓सनं स᳓नवानि च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/032_darbhaH/07_darbheNa_devajAtena.md">
@@ -526,8 +526,8 @@ With Darbha that hath sprung from Gods, stationed in heaven, full many a time. W
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/08_priyaM_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रि॒यं मा॑ दर्भ कृणु ब्रह्मराज॒न्या᳡भ्यां शू॒द्राय॒ चार्या॑य च।  
-यस्मै॑ च का॒मया॑महे॒ सर्व॑स्मै च वि॒पश्य॑ते ॥
+प्रियं᳓ मा दर्भ कृणु ब्रह्मराजन्या᳙भ्यां शूद्रा᳓य चा᳓र्याय च।  
+य᳓स्मै च काम᳓यामहे स᳓र्वस्मै च विप᳓श्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/032_darbhaH/08_priyaM_mA.md">
@@ -600,8 +600,8 @@ Do thou, O Darbha, make me dear to Brahman and Rajanya, dear to Sudra, and to Ar
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/09_yo_jAyamAnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो जाय॑मानः पृथि॒वीमदृं॑ह॒द्यो अस्त॑भ्नाद॒न्तरि॑क्षं॒ दिवं॑ च।  
-यं बि॑भ्रतं न॒नु पा॒प्मा वि॑वेद॒ स नो॒ऽयं द॒र्भो वरु॑णो दि॒वा कः॑ ॥
+यो᳓ जा᳓यमानः पृथिवी᳓म᳓दृंहद्यो᳓ अ᳓स्तभ्नादन्त᳓रिक्षं दि᳓वं च।  
+यं᳓ बिभ्रतं ननु᳓ पाप्मा᳓ विवेद स᳓ नोऽयं᳓ दर्भो᳓ व᳓रुणो दिवा᳓ कः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/032_darbhaH/09_yo_jAyamAnaH.md">
@@ -678,8 +678,8 @@ He who first born fixed earth in her position, he who established heaven and air
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/032_darbhaH/10_sapatnahA_shatakANDaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑पत्न॒हा श॒तका॑ण्डः॒ सह॑स्वा॒नोष॑धीनां प्रथ॒मः सं ब॑भूव।  
-स नो॒ऽयं द॒र्भः परि॑ पातु वि॒श्वत॒स्तेन॑ साक्षीय॒ पृत॑नाः पृतन्य॒तः ॥
+स᳙पत्नहा᳓ शत᳓काण्डः स᳓हस्वानो᳓षधीनां प्रथमः᳓ सं᳓ बभूव।  
+स᳓ नोऽयं᳓ दर्भः᳓ प᳓रि पातु विश्व᳓तस्ते᳓न साक्षीय पृ᳓तनाः पृतन्यतः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/032_darbhaH/10_sapatnahA_shatakANDaH.md">

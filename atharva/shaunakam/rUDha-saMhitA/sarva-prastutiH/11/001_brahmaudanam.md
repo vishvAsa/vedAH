@@ -38,8 +38,8 @@ An accompaniment to the preparation and presentation of a Brahmaudana
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/01_agne_jAyasvAditirnAthiteyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ जाय॒स्वादि॑तिर्नाथि॒तेयं ब्र॑ह्मौद॒नं प॑चति पु॒त्रका॑मा।  
-स॑प्तऋ॒षयो॑ भूत॒कृत॒स्ते त्वा॑ मन्थन्तु प्र॒जया॑ स॒हेह॑ ॥
+अ᳓ग्ने जा᳓यस्वा᳓दितिर्नाथिते᳓यं᳓ ब्रह्मौदनं᳓ पचति पुत्र᳓कामा।  
+स᳙प्तऋष᳓यो भूतकृ᳓तस्ते᳓ त्वा मन्थन्तु प्रज᳓या सहे᳓ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/01_agne_jAyasvAditirnAthiteyam.md">
@@ -108,8 +108,8 @@ Agni, spring forth! Here Aditi, afflicted, cooks a Brahmaudana, yearning for chi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/02_kRNuta_dhUmam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॑णु॒त धू॒मं वृ॑षणः सखा॒योऽद्रो॑घाविता॒ वाच॒मच्छ॑।  
-अ॒यम॒ग्निः पृ॑तना॒षाट् सु॒वीरो॒ येन॑ दे॒वा अस॑हन्त॒ दस्यू॑न् ॥
+कृ᳙णुत᳓ धूमं᳓ वृषणः सखायो᳓ऽद्रोघाविता वा᳓चम᳓च्छ।  
+अय᳓मग्निः᳓ पृतनाषा᳓ट् सुवी᳓रो ये᳓न देवा᳓ अ᳓सहन्त द᳓स्यून् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/02_kRNuta_dhUmam.md">
@@ -187,8 +187,8 @@ Raise, as I bid, the smoke, my strong companions, lovers of free- dom from decei
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/03_agne-janiShThA_mahate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्नेऽज॑निष्ठा मह॒ते वी॒र्या᳡य ब्रह्मौद॒नाय॒ पक्त॑वे जातवेदः।  
-स॑प्तऋ॒षयो॑ भूत॒कृत॒स्ते त्वा॑जीजनन्न॒स्यै र॒यिं सर्व॑वीरं॒ नि य॑च्छ ॥
+अ᳓ग्ने᳓ऽजनिष्ठा महते᳓ वीर्या᳙य ब्रह्मौदना᳓य प᳓क्तवे जातवेदः।  
+स᳙प्तऋष᳓यो भूतकृ᳓तस्ते᳓ त्वाजीजनन्नस्यै᳓ रयिं᳓ स᳓र्ववीरं नि᳓ यच्छ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/03_agne-janiShThA_mahate.md">
@@ -252,8 +252,8 @@ Thou, Agni, wart produced for mighty valour, to cook Brahmau- dana, O Jatavedas.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/04_samiddho_agne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-समि॑द्धो अग्ने स॒मिधा॒ समि॑ध्यस्व वि॒द्वान्दे॒वान्य॒ज्ञियाँ॒ एह व॑क्षः।  
-तेभ्यो॑ ह॒विः श्र॒पयं॑ जातवेद उत्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
+स᳓मिद्धो अग्ने समि᳓धा स᳓मिध्यस्व विद्वा᳓न्देवा᳓न्यज्ञि᳓याँ ए᳓ह᳓ वक्षः।  
+ते᳓भ्यो हविः᳓ श्रप᳓यं जातवेद उत्तमं᳓ ना᳓कम᳓धि रोहयेम᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/04_samiddho_agne.md">
@@ -317,8 +317,8 @@ Burn up, O Agni, kindled with the fuel. Knowing the Gods who merit worship, brin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/05_tredhA_bhAgo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रे॒धा भा॒गो निहि॑तो॒ यः पु॒रा वो॑ दे॒वानां॑ पितॄ॒णां मर्त्या॑नाम्।  
-अंशा॑ञ्जानीध्वं॒ वि भ॑जामि॒ तान्वो॒ यो दे॒वानां॒ स इ॒मां पा॑रयाति ॥
+त्रेधा᳓ भागो᳓ नि᳓हितो यः᳓ पुरा᳓ वो देवा᳓नां पितॄणां᳓ म᳓र्त्यानाम्।  
+अं᳓शाञ्जानीध्वं वि᳓ भजामि ता᳓न्वो यो᳓ देवा᳓नां स᳓ इमां᳓ पारयाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/05_tredhA_bhAgo.md">
@@ -384,8 +384,8 @@ Your portion from of old is triply parted, portion of Gods, of Fathers, and of m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/06_agne_sahasvAnabhibhUrabhIdasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ सह॑स्वानभि॒भूर॒भीद॑सि॒ नीचो॒ न्यु᳡ब्ज द्विष॒तः स॒पत्ना॑न्।  
-इ॒यं मात्रा॑ मी॒यमा॑ना मि॒ता च॑ सजा॒तांस्ते॑ बलि॒हृतः॑ कृणोतु ॥
+अ᳓ग्ने स᳓हस्वानभिभू᳓रभी᳓दसि नी᳓चो न्यु᳙ब्ज द्विषतः᳓ सप᳓त्नान्।  
+इयं᳓ मा᳓त्रा मीय᳓माना मिता᳓ च सजातां᳓स्ते बलिहृ᳓तः कृणोतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/06_agne_sahasvAnabhibhUrabhIdasi.md">
@@ -450,8 +450,8 @@ Strong art thou, Agni, conquering, all-surpassing. Crush down our foemen, ruin t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/07_sAkaM_sajAtaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सा॒कं स॑जा॒तैः पय॑सा स॒हैध्युदु॑ब्जैनां मह॒ते वी॒र्या᳡य।  
-ऊ॒र्ध्वो नाक॒स्याधि॑ रोह वि॒ष्टपं॑ स्व॒र्गो लो॒क इति॒ यं वद॑न्ति ॥
+साकं᳓ सजातैः᳓ प᳓यसा सहै᳓ध्यु᳓दुब्जैनां महते᳓ वीर्या᳙य।  
+ऊर्ध्वो᳓ ना᳓कस्या᳓धि रोह विष्ट᳓पं स्वर्गो᳓ लोक᳓ इ᳓ति यं᳓ व᳓दन्ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/07_sAkaM_sajAtaiH.md">
@@ -516,8 +516,8 @@ Increase with kinsmen and with all abundance: to mighty strength and power lift 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/08_iyaM_mahI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒यं म॒ही प्रति॑ गृह्णातु॒ चर्म॑ पृथि॒वी दे॒वी सु॑मन॒स्यमा॑ना।  
-अथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम् ॥
+इयं᳓ मही᳓ प्र᳓ति गृह्णातु च᳓र्म पृथिवी᳓ देवी᳓ सुमनस्य᳓माना।  
+अ᳓थ गच्छेम सुकृत᳓स्य लोक᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/08_iyaM_mahI.md">
@@ -581,8 +581,8 @@ May this great Earth receive the skin, this Goddess Prithivi, showing us her lov
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/09_etau_grAvANau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तौ ग्रावा॑णौ स॒युजा॑ युङ्ग्धि॒ चर्म॑णि॒ निर्भि॑न्ध्यं॒शून्यज॑मानाय सा॒धु।  
-अ॒व॒घ्न॒ती नि ज॑हि॒ य इ॒मां पृ॑त॒न्यव॑ ऊ॒र्ध्वं प्र॒जामु॑द्भर॒न्त्युदू॑ह ॥
+एतौ᳓ ग्रा᳓वाणौ सयु᳓जा युङ्ग्धि च᳓र्मणि नि᳓र्भिन्ध्यंशू᳓न्य᳓जमानाय साधु᳓।  
+अवघ्नती᳓ नि᳓ जहि य᳓ इमां᳓ पृतन्य᳓व ऊर्ध्वं᳓ प्रजा᳓मुद्भरन्त्यु᳓दूह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/09_etau_grAvANau.md">
@@ -653,8 +653,8 @@ Fix on the skin these two joined press-stones, duly rending the fibres for the s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/10_gRhANa_grAvANau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गृ॑हा॒ण ग्रावा॑णौ स॒कृतौ॑ वीर॒ हस्त॒ आ ते॑ दे॒वा य॒ज्ञिया॑ य॒ज्ञम॑गुः।  
-त्रयो॒ वरा॑ यत॒मांस्त्वं वृ॑णी॒षे तास्ते॒ समृ॑द्धीरि॒ह रा॑धयामि ॥
+गृ᳙हाण᳓ ग्रा᳓वाणौ सकृ᳓तौ वीर ह᳓स्त आ᳓ ते देवा᳓ यज्ञि᳓या यज्ञ᳓मगुः।  
+त्र᳓यो व᳓रा यतमां᳓स्त्वं᳓ वृणीषे᳓ ता᳓स्ते स᳓मृद्धीरिह᳓ राधयामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/10_gRhANa_grAvANau.md">
@@ -722,8 +722,8 @@ Grasp with thy hand, O man, the well-formed press-stones: the holy Gods have com
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/11_iyaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒यं ते॑ धी॒तिरि॒दमु॑ ते ज॒नित्रं॑ गृ॒ह्णातु॒ त्वामदि॑तिः॒ शूर॑पुत्रा।  
-परा॑ पुनीहि॒ य इ॒मां पृ॑त॒न्यवो॒ऽस्यै र॒यिं सर्व॑वीरं॒ नि य॑च्छ ॥
+इयं᳓ ते धीति᳓रिद᳓मु ते जनि᳓त्रं गृह्णा᳓तु त्वा᳓म᳓दितिः शू᳓रपुत्रा।  
+प᳓रा पुनीहि य᳓ इमां᳓ पृतन्य᳓वोऽस्यै᳓ रयिं᳓ स᳓र्ववीरं नि᳓ यच्छ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/11_iyaM_te.md">
@@ -789,8 +789,8 @@ Here thy devotion is, here is thy birthplace. Aditi, Mother of brave sons, accep
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/12_upashvase_druvaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑पश्व॒से द्रु॒वये॑ सीदता यू॒यं वि वि॑च्यध्वं यज्ञियास॒स्तुषैः॑।  
-श्रि॒या स॑मा॒नानति॒ सर्वा॑न्त्स्यामाधस्प॒दं द्वि॑ष॒तस्पा॑दयामि ॥
+उ᳙पश्वसे᳓ द्रुव᳓ये सीदता यूयं᳓ वि᳓ विच्यध्वं यज्ञियासस्तु᳓षैः।  
+श्रिया᳓ समाना᳓न᳓ति स᳓र्वान्त्स्यामाधस्पदं᳓ द्विषत᳓स्पादयामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/12_upashvase_druvaye.md">
@@ -860,8 +860,8 @@ Rest in the roaring frame of wood: be parted from husk and chaff, ye Sacrificial
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/13_parehi_nAri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परे॑हि नारि॒ पुन॒रेहि॑ क्षि॒प्रम॒पां त्वा॑ गो॒ष्ठोऽध्य॑रुक्ष॒द्भरा॑य।  
-तासां॑ गृह्णीताद्यत॒मा य॒ज्ञिया॒ अस॑न्वि॒भाज्य॑ धी॒रीत॑रा जहीतात् ॥
+प᳓रेहि नारि पु᳓नरे᳓हि क्षिप्र᳓मपां᳓ त्वा गोष्ठो᳓ऽध्यरुक्षद्भ᳓राय।  
+ता᳓सां गृह्णीताद्यतमा᳓ यज्ञि᳓या अ᳓सन्विभा᳓ज्य धीरी᳓तरा जहीतात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/13_parehi_nAri.md">
@@ -928,8 +928,8 @@ Go, Dame, and quickly come again: the waters, enclosed, have mounted thee that t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/14_emA_aguryoShitaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एमा अ॑गुर्यो॒षितः॒ शुम्भ॑माना॒ उत्ति॑ष्ठ नारि त॒वसं॑ रभस्व।  
-सु॒पत्नी॒ पत्या॑ प्र॒जया॑ प्र॒जाव॒त्या त्वा॑गन्य॒ज्ञः प्रति॑ कु॒म्भं गृ॑भाय ॥
+ए᳓मा᳓ अगुर्योषि᳓तः शु᳓म्भमाना उ᳓त्तिष्ठ नारि तव᳓सं रभस्व।  
+सुप᳓त्नी प᳓त्या प्रज᳓या प्रजा᳓वत्या᳓ त्वागन्यज्ञः᳓ प्र᳓ति कुम्भं᳓ गृभाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/14_emA_aguryoShitaH.md">
@@ -1002,8 +1002,8 @@ Hither these Dames have come in radiant beauty. Arise and seize= upon thy streng
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/15_Urjo_bhAgo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊ॒र्जो भा॒गो निहि॑तो॒ यः पु॒रा व॒ ऋषि॑प्रशिष्टा॒प आ भ॑रै॒ताः।  
-अ॒यं य॒ज्ञो गा॑तु॒विन्ना॑थ॒वित्प्र॑जा॒विदु॒ग्रः प॑शु॒विद्वी॑र॒विद्वो॑ अस्तु ॥
+ऊर्जो᳓ भागो᳓ नि᳓हितो यः᳓ पुरा᳓ व ऋ᳓षिप्रशिष्टाप᳓ आ᳓ भरैताः᳓।  
+अयं᳓ यज्ञो᳓ गातुवि᳓न्नाथवि᳓त्प्रजावि᳓दुग्रः᳓ पशुवि᳓द्वीरवि᳓द्वो अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/15_Urjo_bhAgo.md">
@@ -1071,8 +1071,8 @@ Instructed by the Rishis, bring those waters, the share of strength which was of
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/16_agne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॑ च॒रुर्य॒ज्ञिय॒स्त्वाध्य॑रुक्ष॒च्छुचि॒स्तपि॑ष्ठ॒स्तप॑सा तपैनम्।  
-आ॑र्षे॒या दै॒वा अ॑भिसं॒गत्य॑ भा॒गमिमं तपि॑ष्ठा ऋ॒तुभि॑स्तपन्तु ॥
+अ᳓ग्ने चरु᳓र्यज्ञि᳓यस्त्वा᳓ध्यरुक्षच्छु᳓चिस्त᳓पिष्ठस्त᳓पसा तपैनम्।  
+आ᳙र्षेया᳓ दैवा᳓ अभिसंग᳓त्य भाग᳓मि᳓मं᳓ त᳓पिष्ठा ऋतु᳓भिस्तपन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/16_agne.md">
@@ -1139,8 +1139,8 @@ Agni, on thee the sacrificial caldron hath mounted: shining,. fiercely flaming, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/17_shuddhAH_pUtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शु॒द्धाः पू॒ता यो॒षितो॑ य॒ज्ञिया॑ इ॒मा आप॑श्च॒रुमव॑ सर्पन्तु शु॒भ्राः।  
-अदुः॑ प्र॒जां ब॑हु॒लान्प॒शून्नः॑ प॒क्तौद॒नस्य॑ सु॒कृता॑मेतु लो॒कम् ॥
+शुद्धाः᳓ पूता᳓ योषि᳓तो यज्ञि᳓या इमा᳓ आ᳓पश्चरु᳓म᳓व सर्पन्तु शुभ्राः᳓।  
+अ᳓दुः प्रजां᳓ बहुला᳓न्पशू᳓न्नः पक्तौ᳓दन᳓स्य सुकृ᳓तामेतु लोक᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/17_shuddhAH_pUtA.md">
@@ -1216,8 +1216,8 @@ Purified, bright, and holy, let these Women, these lucid waters glide into the c
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/18_brahmaNA_shuddhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑णा शु॒द्धा उ॒त पू॒ता घृ॒तेन॒ सोम॑स्यां॒शव॑स्तण्डु॒ला य॒ज्ञिया॑ इ॒मे।  
-अ॒पः प्र वि॑शत॒ प्रति॑ गृह्णातु वश्च॒रुरि॒मं प॒क्त्वा सु॒कृता॑मेत लो॒कम् ॥
+ब्र᳓ह्मणा शुद्धा᳓ उत᳓ पूता᳓ घृते᳓न सो᳓मस्यांश᳓वस्तण्डुला᳓ यज्ञि᳓या इमे᳓।  
+अपः᳓ प्र᳓ विशत प्र᳓ति गृह्णातु वश्चरु᳓रिमं᳓ पक्त्वा᳓ सुकृ᳓तामेत लोक᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/18_brahmaNA_shuddhA.md">
@@ -1285,8 +1285,8 @@ Ye, Sacrificial Rice and Soma Fibres, cleansed and made pure by prayer and molte
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/19_uruH_prathasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒रुः प्र॑थस्व मह॒ता म॑हि॒म्ना स॒हस्र॑पृष्ठः सुकृ॒तस्य॑ लो॒के।  
-पि॑ताम॒हाः पि॒तरः॑ प्र॒जोप॒जाऽहं प॒क्ता प॑ञ्चद॒शस्ते॑ अस्मि ॥
+उरुः᳓ प्रथस्व महता᳓ महिम्ना᳓ सह᳓स्रपृष्ठः सुकृत᳓स्य लोके᳓।  
+पि᳙तामहाः᳓ पित᳓रः प्रजो᳓पजा᳓ऽहं᳓ पक्ता᳓ पञ्चदश᳓स्ते अस्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/19_uruH_prathasva.md">
@@ -1355,8 +1355,8 @@ Expand thyself abroad in all thy greatness, with thousand Prish- thas, in the wo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/20_sahasrapRShThaH_shatadhAro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒हस्र॑पृष्ठः श॒तधा॑रो॒ अक्षि॑तो ब्रह्मौद॒नो दे॑व॒यानः॑ स्व॒र्गः।  
-अ॒मूंस्त॒ आ द॑धामि प्र॒जया॑ रेषयैनान्बलिहा॒राय॑ मृडता॒न्मह्य॑मे॒व ॥
+सह᳓स्रपृष्ठः शत᳓धारो अ᳓क्षितो ब्रह्मौदनो᳓ देवया᳓नः स्वर्गः᳓।  
+अमूं᳓स्त आ᳓ दधामि प्रज᳓या रेषयैनान्बलिहारा᳓य मृडतान्म᳓ह्यमेव᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/20_sahasrapRShThaH_shatadhAro.md">
@@ -1431,8 +1431,8 @@ With thousand streams and Prishthas, undecaying, Brahmaudana is celestial, God-r
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/21_udehi_vedim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒देहि॒ वेदिं॑ प्र॒जया॑ वर्धयैनां नु॒दस्व॒ रक्षः॑ प्रत॒रं धे॑ह्येनाम्।  
-श्रि॒या स॑मा॒नानति॒ सर्वा॑न्त्स्यामाधस्प॒दं द्वि॑ष॒तस्पा॑दयामि ॥
+उदे᳓हि वे᳓दिं प्रज᳓या वर्धयैनां नुद᳓स्व र᳓क्षः प्रतरं᳓ धेह्येनाम्।  
+श्रिया᳓ समाना᳓न᳓ति स᳓र्वान्त्स्यामाधस्पदं᳓ द्विषत᳓स्पादयामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/21_udehi_vedim.md">
@@ -1499,8 +1499,8 @@ Rise to the altar: bless this dame with offspring. Promote this woman; drive awa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/22_abhyAvartasva_pashubhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भ्याव॑र्तस्व प॒शुभिः॑ स॒हैनां॑ प्र॒त्यङे॑नां दे॒वता॑भिः स॒हैधि॑।  
-मा त्वा॒ प्राप॑च्छ॒पथो॒ माभि॑चा॒रः स्वे क्षेत्रे॑ अनमी॒वा वि रा॑ज ॥
+अभ्या᳓वर्तस्व पशु᳓भिः सहै᳓नां प्रत्य᳓ङेनां देव᳓ताभिः सहै᳓धि।  
+मा᳓ त्वा प्रा᳓पच्छप᳓थो मा᳓भिचारः᳓ स्वे᳓ क्षे᳓त्रे अनमीवा᳓ वि᳓ राज ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/22_abhyAvartasva_pashubhiH.md">
@@ -1571,8 +1571,8 @@ Approach this woman here with store of cattle: together with the deities come to
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/23_Rtena_taShTA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तेन॑ त॒ष्टा मन॑सा हि॒तैषा ब्र॑ह्मौद॒नस्य॒ विहि॑ता॒ वेदि॒रग्रे॑।  
-अं॑स॒द्रीं शु॒द्धामुप॑ धेहि नारि॒ तत्रौ॑द॒नं सा॑दय दै॒वाना॑म् ॥
+ऋते᳓न तष्टा᳓ म᳓नसा हितै᳓षा᳓ ब्रह्मौदन᳓स्य वि᳓हिता वे᳓दिर᳓ग्रे।  
+अं᳙सद्रीं᳓ शुद्धा᳓मु᳓प धेहि नारि त᳓त्रौदनं᳓ सादय दैवा᳓नाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/23_Rtena_taShTA.md">
@@ -1645,8 +1645,8 @@ Fashioned at first by Right, set by the spirit, this altar of Brahmau- dana was 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/24_aditerhastAM_sruchametAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अदि॑ते॒र्हस्तां॒ स्रुच॑मे॒तां द्वि॒तीयां॑ सप्तऋ॒षयो॑ भूत॒कृतो॒ यामकृ॑ण्वन्।  
-सा गात्रा॑णि वि॒दुष्यो॑द॒नस्य॒ दर्वि॒र्वेद्या॒मध्ये॑नं चिनोतु ॥
+अ᳓दितेर्ह᳓स्तां स्रु᳓चमेतां᳓ द्विती᳓यां सप्तऋष᳓यो भूतकृ᳓तो या᳓म᳓कृण्वन्।  
+सा᳓ गा᳓त्राणि विदु᳓ष्योदन᳓स्य द᳓र्विर्वे᳓द्याम᳓ध्येनं चिनोतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/24_aditerhastAM_sruchametAm.md">
@@ -1710,8 +1710,8 @@ This second hand of Aditi, this ladle which the Seven Rishis, world-creators, fa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/25_shRtaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शृ॒तं त्वा॑ ह॒व्यमुप॑ सीदन्तु दै॒वा निः॒सृप्या॒ग्नेः पुन॑रेना॒न्प्र सी॑द।  
-सोमे॑न पू॒तो ज॒ठरे॑ सीद ब्र॒ह्मणा॑मार्षे॒यास्ते॒ मा रि॑षन्प्राशि॒तारः॑ ॥
+शृतं᳓ त्वा हव्य᳓मु᳓प सीदन्तु दैवा᳓ निःसृ᳓प्याग्नेः᳓ पु᳓नरेनान्प्र᳓ सीद।  
+सो᳓मेन पूतो᳓ जठ᳓रे सीद ब्रह्म᳓णामार्षेया᳓स्ते मा᳓ रिषन्प्राशिता᳓रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/25_shRtaM_tvA.md">
@@ -1779,8 +1779,8 @@ Let the dressed offering and divine Ones serve thee: creep from. the fire again,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/26_soma_rAjantsanjnAnamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोम॑ राजन्त्सं॒ज्ञान॒मा व॑पैभ्यः॒ सुब्रा॑ह्मणा यत॒मे त्वो॑प॒सीदा॑न्।  
-ऋषी॑नार्षे॒यांस्तप॒सोऽधि॑ जा॒तान्ब्र॑ह्मौद॒ने सु॒हवा॑ जोहवीमि ॥
+सो᳓म राजन्त्संज्ञा᳓नमा᳓ वपैभ्यः सु᳓ब्राह्मणा यतमे᳓ त्वोपसी᳓दान्।  
+ऋ᳓षीनार्षेयां᳓स्त᳓पसो᳓ऽधि जाता᳓न्ब्रह्मौदने᳓ सुह᳓वा जोहवीमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/26_soma_rAjantsanjnAnamA.md">
@@ -1848,8 +1848,8 @@ Give understanding unto these, King Soma! all the good Brah mans who attend and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/27_shuddhAH_pUtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शु॒द्धाः पू॒ता यो॒षितो॑ य॒ज्ञिया॑ इ॒मा ब्र॒ह्मणां॒ हस्ते॑षु प्रपृ॒थक् सा॑दयामि।  
-यत्का॑म इ॒दम॑भिषि॒ञ्चामि॑ वो॒ऽहमिन्द्रो॑ म॒रुत्वा॒न्त्स द॑दादि॒दं मे॑ ॥
+शुद्धाः᳓ पूता᳓ योषि᳓तो यज्ञि᳓या इमा᳓ ब्रह्म᳓णां ह᳓स्तेषु प्रपृथ᳓क् सादयामि।  
+य᳓त्काम इद᳓मभिषिञ्चा᳓मि वोऽह᳓मि᳓न्द्रो मरु᳓त्वान्त्स᳓ ददादिदं᳓ मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/27_shuddhAH_pUtA.md">
@@ -1916,8 +1916,8 @@ Here I set singly in the hands of Brahmans these cleansed and. purifie d and hol
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/28_idaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं मे॒ ज्योति॑र॒मृतं॒ हिर॑ण्यं प॒क्वं क्षेत्रा॑त्काम॒दुघा॑ म ए॒षा।  
-इ॒दं धनं॒ नि द॑धे ब्राह्म॒णेषु॑ कृ॒ण्वे पन्थां॑ पि॒तृषु॒ यः स्व॒र्गः ॥
+इदं᳓ मे ज्यो᳓तिरमृ᳓तं हि᳓रण्यं पक्वं᳓ क्षे᳓त्रात्कामदु᳓घा म एषा᳓।  
+इदं᳓ ध᳓नं नि᳓ दधे ब्राह्मणे᳓षु कृण्वे᳓ प᳓न्थां पितृ᳓षु यः᳓ स्वर्गः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/28_idaM_me.md">
@@ -1990,8 +1990,8 @@ Here is my gold, a light immortal: ripened grain from the field this Cow of Plen
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/29_agnau_tuShAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नौ तुषा॒ना व॑प जा॒तवे॑दसि प॒रः क॒म्बूकाँ॒ अप॑ मृड्ढि दू॒रम्।  
-ए॒तं शु॑श्रुम गृहरा॒जस्य॑ भा॒गमथो॑ विद्म॒ निरृ॑तेर्भाग॒धेय॑म् ॥
+अग्नौ᳓ तु᳓षाना᳓ वप जात᳓वेदसि परः᳓ कम्बू᳓काँ अ᳓प मृड्ढि दूर᳓म्।  
+एतं᳓ शुश्रुम गृहराज᳓स्य भाग᳓म᳓थो विद्म नि᳓रृतेर्भागधे᳓यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/29_agnau_tuShAnA.md">
@@ -2056,8 +2056,8 @@ Lay thou the chaff in Agni Jatavedas: remove the husks and drive them to a dista
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/30_shrAmyataH_pachato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्राम्य॑तः॒ पच॑तो विद्धि सुन्व॒तः पन्थां॑ स्व॒र्गमधि॑ रोहयैनम्।  
-येन॒ रोहा॒त्पर॑मा॒पद्य॒ यद्वय॑ उत्त॒मं नाकं॑ पर॒मं व्यो᳡म ॥
+श्रा᳓म्यतः प᳓चतो विद्धि सुन्वतः᳓ प᳓न्थां स्वर्ग᳓म᳓धि रोहयैनम्।  
+ये᳓न रो᳓हात्प᳓रमाप᳓द्य य᳓द्व᳓य उत्तमं᳓ ना᳓कं परमं᳓ व्यो᳙म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/30_shrAmyataH_pachato.md">
@@ -2124,8 +2124,8 @@ Mark him who toils and cooks and pours oblation: make this man climb the path th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/31_babhreradhvaryo_mukhametadvi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब॒भ्रेर॑ध्वर्यो॒ मुख॑मे॒तद्वि मृ॒ड्ढ्याज्या॑य लो॒कं कृ॑णुहि प्रवि॒द्वान्।  
-घृ॒तेन॒ गात्रानु॒ सर्वा॒ वि मृ॑ड्ढि कृ॒ण्वे पन्थां॑ पि॒तृषु॒ यः स्व॒र्गः ॥
+बभ्रे᳓रध्वर्यो मु᳓खमेत᳓द्वि᳓ मृड्ढ्या᳓ज्याय लोकं᳓ कृणुहि प्रविद्वा᳓न्।  
+घृते᳓न गा᳓त्रा᳓नु स᳓र्वा वि᳓ मृड्ढि कृण्वे᳓ प᳓न्थां पितृ᳓षु यः᳓ स्वर्गः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/31_babhreradhvaryo_mukhametadvi.md">
@@ -2196,8 +2196,8 @@ Adhvaryu, cleanse that face of the Supporter. Make room, well knowing, for the m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/32_babhre_raxaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बभ्रे॒ रक्षः॑ स॒मद॒मा व॑पै॒भ्योऽब्रा॑ह्मणा यत॒मे त्वो॑प॒सीदा॑न्।  
-पु॑री॒षिणः॒ प्रथ॑मानाः पु॒रस्ता॑दार्षे॒यास्ते॒ मा रि॑षन्प्राशि॒तारः॑ ॥
+ब᳓भ्रे र᳓क्षः सम᳓दमा᳓ वपैभ्यो᳓ऽब्राह्मणा यतमे᳓ त्वोपसी᳓दान्।  
+पु᳙रीषि᳓णः प्र᳓थमानाः पुर᳓स्तादार्षेया᳓स्ते मा᳓ रिषन्प्राशिता᳓रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/32_babhre_raxaH.md">
@@ -2265,8 +2265,8 @@ Supporter, send to those men fiends and battle, to all non-Brah- mans who attend
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/33_ArSheyeShu_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॑र्षे॒येषु॒ नि द॑ध ओदन त्वा॒ नाना॑र्षेयाणा॒मप्य॒स्त्यत्र॑।  
-अ॒ग्निर्मे॑ गो॒प्ता म॒रुत॑श्च॒ सर्वे॒ विश्वे॑ दे॒वा अ॒भि र॑क्षन्तु प॒क्वम् ॥
+आ᳙र्षेये᳓षु नि᳓ दध ओदन त्वा ना᳓नार्षेयाणाम᳓प्यस्त्य᳓त्र।  
+अग्नि᳓र्मे गोप्ता᳓ मरु᳓तश्च स᳓र्वे वि᳓श्वे देवा᳓ अभि᳓ रक्षन्तु पक्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/33_ArSheyeShu_ni.md">
@@ -2335,8 +2335,8 @@ I set thee, Odana, with Rishis' children: naught here belongs to men not sprung 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/34_yajnaM_duhAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒ज्ञं दुहा॑नं॒ सद॒मित्प्रपी॑नं॒ पुमां॑सं धे॒नुं सद॑नं रयी॒णाम्।  
-प्र॑जामृत॒त्वमु॒त दी॒र्घमायू॑ रा॒यश्च॒ पोषै॒रुप॑ त्वा सदेम ॥
+यज्ञं᳓ दु᳓हानं स᳓दमि᳓त्प्र᳓पीनं पु᳓मांसं धेनुं᳓ स᳓दनं रयीणा᳓म्।  
+प्र᳙जामृतत्व᳓मुत᳓ दीर्घ᳓मा᳓यू राय᳓श्च पो᳓षैरु᳓प त्वा सदेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/34_yajnaM_duhAnam.md">
@@ -2407,8 +2407,8 @@ May we adore thee, Sacrifice that yieldeth an everlasting son, cow, home of trea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/35_vRShabhosi_svarga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वृ॑ष॒भो᳡सि॑ स्व॒र्ग ऋषी॑नार्षे॒यान्ग॑च्छ।  
-सु॒कृतां॑ लो॒के सी॑द॒ तत्र॑ नौ संस्कृ॒तम् ॥
+वृ᳙षभो᳙सि स्वर्ग᳓ ऋ᳓षीनार्षेया᳓न्गच्छ।  
+सुकृ᳓तां लोके᳓ सीद त᳓त्र नौ संस्कृत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/35_vRShabhosi_svarga.md">
@@ -2475,8 +2475,8 @@ Thou art a Bull that mounts to heaven: to Rishis and their off- spring go. Rest 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/36_samAchinuShvAnusamprayAhyagne_pathaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒माचि॑नुष्वानुस॒म्प्रया॒ह्यग्ने॑ प॒थः क॑ल्पय देव॒याना॑न्।  
-ए॒तैः सु॑कृ॒तैरनु॑ गच्छेम य॒ज्ञं नाके॒ तिष्ठ॑न्त॒मधि॑ स॒प्तर॑श्मौ ॥
+समा᳓चिनुष्वानुसम्प्र᳓याह्य᳓ग्ने पथः᳓ कल्पय देवया᳓नान्।  
+एतैः᳓ सुकृतै᳓र᳓नु गच्छेम यज्ञं᳓ ना᳓के ति᳓ष्ठन्तम᳓धि सप्त᳓रश्मौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/36_samAchinuShvAnusamprayAhyagne_pathaH.md">
@@ -2548,8 +2548,8 @@ Level the ways: go thitherward, O Agni. Make ready thou the Godward-leading path
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/001_brahmaudanam/37_yena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ दे॒वा ज्योति॑षा॒ द्यामु॒दाय॑न्ब्रह्मौद॒नं प॒क्त्वा सु॑कृ॒तस्य॑ लो॒कम्।  
-तेन॑ गेष्म सुकृ॒तस्य॑ लो॒कं स्व᳡रा॒रोह॑न्तो अ॒भि नाक॑मुत्त॒मम् ॥
+ये᳓न देवा᳓ ज्यो᳓तिषा द्या᳓मुदा᳓यन्ब्रह्मौदनं᳓ पक्त्वा᳓ सुकृत᳓स्य लोक᳓म्।  
+ते᳓न गेष्म सुकृत᳓स्य लोकं᳓ स्व᳙रारो᳓हन्तो अभि᳓ ना᳓कमुत्तम᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/001_brahmaudanam/37_yena_devA.md">

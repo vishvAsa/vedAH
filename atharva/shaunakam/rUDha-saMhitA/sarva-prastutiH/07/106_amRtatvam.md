@@ -33,8 +33,8 @@ Translated: Henry, 41, 117; Griffith, i. 379.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/106_amRtatvam/01_yadasmRti_chakRma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदस्मृ॑ति चकृ॒म किं चि॑दग्न उपारि॒म चर॑णे जातवेदः।  
-ततः॑ पाहि॒ त्वं नः॑ प्रचेतः शु॒भे सखि॑भ्यो अमृत॒त्वम॑स्तु नः ॥
+य᳓द᳓स्मृति चकृम᳓ किं᳓ चिदग्न उपारिम᳓ च᳓रणे जातवेदः।  
+त᳓तः पाहि त्वं᳓ नः प्रचेतः शुभे᳓ स᳓खिभ्यो अमृतत्व᳓मस्तु नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/106_amRtatvam/01_yadasmRti_chakRma.md">

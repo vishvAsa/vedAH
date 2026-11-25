@@ -33,8 +33,8 @@ Translated: Griffith, i. 299.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/01_indro_jayAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ जयाति॒ न परा॑ जयाता अधिरा॒जो राज॑सु राजयातै।  
-च॒र्कृत्य॒ ईड्यो॒ वन्द्य॑श्चोप॒सद्यो॑ नमस्यो᳡ भवे॒ह ॥
+इ᳓न्द्रो जयाति न᳓ प᳓रा जयाता अधिराजो᳓ रा᳓जसु राजयातै।  
+चर्कृ᳓त्य ई᳓ड्यो व᳓न्द्यश्चोपस᳓द्यो नमस्यो᳙ भवेह᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/098_ajaraM_xatram/01_indro_jayAti.md">
@@ -102,8 +102,8 @@ Indra be victor, never to be vanquished, to reign among the Kings as sovran rule
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/02_tvamindrAdhirAjaH_shravasyustvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वमि॑न्द्राधिरा॒जः श्र॑व॒स्युस्त्वं भू॑र॒भिभू॑ति॒र्जना॑नाम्।  
-त्वं दैवी॑र्विश इ॒मा वि रा॒जायु॑ष्मत्क्ष॒त्रम॒जरं॑ ते अस्तु ॥
+त्व᳓मिन्द्राधिराजः᳓ श्रवस्यु᳓स्त्वं᳓ भूरभि᳓भूतिर्ज᳓नानाम्।  
+त्वं᳓ दै᳓वीर्विश इमा᳓ वि᳓ राजा᳓युष्मत्क्षत्र᳓मज᳓रं ते अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/098_ajaraM_xatram/02_tvamindrAdhirAjaH_shravasyustvam.md">
@@ -173,8 +173,8 @@ Thou fain for glory, an imperial ruler, hast won dominion over men, O Indra, Of 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/03_prAchyA_dishastvamindrAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्राच्या॑ दि॒शस्त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्या दि॒शो वृ॑त्रहञ्छत्रु॒हो᳡सि॑।  
-यत्र॒ यन्ति॑ स्रो॒त्यास्तज्जि॒तं ते॑ दक्षिण॒तो वृ॑ष॒भ ए॑षि॒ हव्यः॑ ॥
+प्रा᳓च्या दिश᳓स्त्व᳓मिन्द्रासि रा᳓जोतो᳓दीच्या दिशो᳓ वृत्रहञ्छत्रुहो᳙सि।  
+य᳓त्र य᳓न्ति स्रोत्या᳓स्त᳓ज्जितं᳓ ते दक्षिणतो᳓ वृषभ᳓ एषि ह᳓व्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/098_ajaraM_xatram/03_prAchyA_dishastvamindrAsi.md">

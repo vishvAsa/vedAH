@@ -33,8 +33,8 @@ Translated: Ludwig, p. 514; Griffith, i. 296; Bloomfield, 138, 508.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/01_saM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं वो॒ मनां॑सि॒ सं व्र॒ता समाकू॑तीर्नमामसि।  
-अ॒मी ये विव्र॑ता॒ स्थन॒ तान्वः॒ सं न॑मयामसि ॥
+सं᳓ वो म᳓नांसि सं᳓ व्रता᳓ स᳓मा᳓कूतीर्नमामसि।  
+अमी᳓ ये᳓ वि᳓व्रता स्थ᳓न ता᳓न्वः सं᳓ नमयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/094_sAMmanasyam/01_saM_vo.md">
@@ -96,8 +96,8 @@ We bend your minds in union, bend in harmony your hopes and plans: You there, wh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/02_ahaM_gRbhNAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हं गृ॑भ्णामि॒ मन॑सा॒ मनां॑सि॒ मम॑ चि॒त्तमनु॑ चि॒त्तेभि॒रेत॑।  
-मम॒ वशे॑षु॒ हृद॑यानि वः कृणोमि॒ मम॑ या॒तमनु॑वर्त्मान॒ एत॑ ॥
+अहं᳓ गृभ्णामि म᳓नसा म᳓नांसि म᳓म चित्त᳓म᳓नु चित्ते᳓भिरे᳓त।  
+म᳓म व᳓शेषु हृ᳓दयानि वः कृणोमि म᳓म यात᳓म᳓नुवर्त्मान ए᳓त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/094_sAMmanasyam/02_ahaM_gRbhNAmi.md">
@@ -161,8 +161,8 @@ I with my spirit make your spirits captive: these with their thoughts follow my 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/03_ote_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती।  
-ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒र्ध्यास्मे॒दं स॑रस्वति ॥
+ओ᳓ते मे द्या᳓वापृथिवी᳓ ओ᳓ता देवी᳓ स᳓रस्वती।  
+ओ᳓तौ म इ᳓न्द्रश्चाग्नि᳓श्चर्ध्या᳓स्मेदं᳓ सरस्वति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/094_sAMmanasyam/03_ote_me.md">

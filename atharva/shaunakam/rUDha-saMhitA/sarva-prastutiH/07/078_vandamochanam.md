@@ -37,8 +37,8 @@ A charm for a prince's prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/078_vandamochanam/01_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि ते॑ मुञ्चामि रश॒नां वि योक्त्रं॒ वि नि॒योज॑नम्।  
-इ॒हैव त्वमज॑स्र एध्यग्ने ॥
+वि᳓ ते मुञ्चामि रशनां᳓ वि᳓ यो᳓क्त्रं वि᳓ नियो᳓जनम्।  
+इहै᳓व᳓ त्व᳓म᳓जस्र एध्यग्ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/078_vandamochanam/01_vi_te.md">
@@ -107,8 +107,8 @@ I free thee from the cord, I loose the bond, I loose the fastening. Even here, p
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/078_vandamochanam/02_asmai_xatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्मै क्ष॒त्राणि॑ धा॒रय॑न्तमग्ने यु॒नज्मि॑ त्वा॒ ब्रह्म॑णा॒ दैव्ये॑न।  
-दी॑दि॒ह्य१॒॑स्मभ्यं॒ द्रवि॑णे॒ह भ॒द्रं प्रेमं वो॑चो हवि॒र्दां दे॒वता॑सु ॥
+अस्मै᳓ क्षत्रा᳓णि धार᳓यन्तमग्ने युन᳓ज्मि त्वा ब्र᳓ह्मणा दै᳓व्येन।  
+दी᳙दिह्य᳙स्म᳓भ्यं द्र᳓विणेह᳓ भद्रं᳓ प्रे᳓मं᳓ वोचो हविर्दां᳓ देव᳓तासु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/078_vandamochanam/02_asmai_xatrANi.md">

@@ -37,8 +37,8 @@ A prayer for prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/019_prajAH/01_prajApatirjanayati_prajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाप॑तिर्जनयति प्र॒जा इ॒मा धा॒ता द॑धातु सुमन॒स्यमा॑नः।  
-सं॑जाना॒नाः संम॑नसः॒ सयो॑नयो॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ॥
+प्रजा᳓पतिर्जनयति प्रजा᳓ इमा᳓ धाता᳓ दधातु सुमनस्य᳓मानः।  
+सं᳙जानानाः᳓ सं᳓मनसः स᳓योनयो म᳓यि पुष्टं᳓ पुष्टप᳓तिर्दधातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/019_prajAH/01_prajApatirjanayati_prajA.md">

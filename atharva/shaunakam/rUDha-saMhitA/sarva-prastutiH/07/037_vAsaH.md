@@ -37,8 +37,8 @@ A nuptial charm to be spoken by the bride
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/037_vAsaH/01_abhi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि त्वा॒ मनु॑जातेन॒ दधा॑मि॒ मम॒ वास॑सा।  
-यथाऽसो॒ मम॒ केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न ॥
+अभि᳓ त्वा म᳓नुजातेन द᳓धामि म᳓म वा᳓ससा।  
+य᳓था᳓ऽसो म᳓म के᳓वलो ना᳓न्या᳓सां कीर्त᳓याश्चन᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/037_vAsaH/01_abhi_tvA.md">

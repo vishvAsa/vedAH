@@ -37,8 +37,8 @@ A charm to be used when a young ox is first yoked
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/025_ashvaH/01_ashrAntasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अश्रा॑न्तस्य त्वा॒ मन॑सा यु॒नज्मि॑ प्रथ॒मस्य॑ च।  
-उत्कू॑लमुद्व॒हो भ॑वो॒दुह्य॒ प्रति॑ धावतात् ॥
+अ᳓श्रान्तस्य त्वा म᳓नसा युन᳓ज्मि प्रथम᳓स्य च।  
+उ᳓त्कूलमुद्वहो᳓ भवोदु᳓ह्य प्र᳓ति धावतात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/025_ashvaH/01_ashrAntasya_tvA.md">

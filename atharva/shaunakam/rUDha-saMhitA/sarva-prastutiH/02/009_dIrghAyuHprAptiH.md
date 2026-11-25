@@ -37,8 +37,8 @@ A charm to cure dangerous disease
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/01_dashavRxa_munchemam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दश॑वृक्ष मु॒ञ्चेमं रक्ष॑सो॒ ग्राह्या॒ अधि॒ यैनं॑ ज॒ग्राह॒ पर्व॑सु।  
-अथो॑ एनं वनस्पते जी॒वानां॑ लो॒कमुन्न॑य ॥
+द᳓शवृक्ष मुञ्चे᳓मं᳓ र᳓क्षसो ग्रा᳓ह्या अ᳓धि यै᳓नं जग्रा᳓ह प᳓र्वसु।  
+अ᳓थो एनं वनस्पते जीवा᳓नां लोक᳓मु᳓न्नय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/01_dashavRxa_munchemam.md">
@@ -105,8 +105,8 @@ Free this man, Dasavriksha! from the demon, from Grahi who hath seized his joint
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/02_AgAdudagAdayaM_jIvAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आगा॒दुद॑गाद॒यं जी॒वानां॒ व्रात॒मप्य॑गात्।  
-अभू॑दु पु॒त्राणां॑ पि॒ता नृ॒णां च॒ भग॑वत्तमः ॥
+आ᳓गादु᳓दगादयं᳓ जीवा᳓नां व्रा᳓तम᳓प्यगात्।  
+अ᳓भूदु पुत्रा᳓णां पिता᳓ नृणां᳓ च भ᳓गवत्तमः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/02_AgAdudagAdayaM_jIvAnAm.md">
@@ -169,8 +169,8 @@ He hath arisen and come once more, rejoined the band of those who live. May he b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/03_adhItIradhyagAdayamadhi_jIvapurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अधी॑ती॒रध्य॑गाद॒यमधि॑ जीवपु॒रा अ॑गन्।  
-श॒तं ह्य॑स्य भि॒षजः॑ स॒हस्र॑मु॒त वी॒रुधः॑ ॥
+अ᳓धीतीर᳓ध्यगादय᳓म᳓धि जीवपुरा᳓ अगन्।  
+शतं᳓ ह्यस्य भिष᳓जः सह᳓स्रमुत᳓ वीरु᳓धः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/03_adhItIradhyagAdayamadhi_jIvapurA.md">
@@ -239,8 +239,8 @@ He hath returned to consciousness, rejoined the living's firm abodes, For hundre
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/04_devAste_chItimavidanbrahmANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वास्ते॑ ची॒तिम॑विदन्ब्र॒ह्माण॑ उ॒त वी॒रुधः॑।  
-ची॒तिं ते॒ विश्वे॑ दे॒वा अवि॑द॒न्भूम्या॒मधि॑ ॥
+देवा᳓स्ते चीति᳓मविदन्ब्रह्मा᳓ण उत᳓ वीरु᳓धः।  
+चीतिं᳓ ते वि᳓श्वे देवा᳓ अ᳓विदन्भू᳓म्याम᳓धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/04_devAste_chItimavidanbrahmANa.md">
@@ -307,8 +307,8 @@ The Gods, the Brahman-priests, and plants observed the way to gather thee: All d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/05_yashchakAra_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यश्च॒कार॒ स निष्क॑र॒त्स ए॒व सुभि॑षक्तमः।  
-स ए॒व तुभ्यं॑ भेष॒जानि॑ कृ॒णव॑द्भि॒षजा॒ शुचिः॑ ॥
+य᳓श्चका᳓र स᳓ नि᳓ष्करत्स᳓ एव᳓ सु᳓भिषक्तमः।  
+स᳓ एव᳓ तु᳓भ्यं भेषजा᳓नि कृण᳓वद्भिष᳓जा शु᳓चिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/05_yashchakAra_sa.md">

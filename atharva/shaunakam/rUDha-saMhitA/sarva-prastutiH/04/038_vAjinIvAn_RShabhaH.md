@@ -37,8 +37,8 @@ A charm for success in gambling
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/01_udbhindatIM_sanjayantImapsarAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑द्भिन्द॒तीं सं॒जय॑न्तीमप्स॒रां सा॑धुदे॒विनी॑म्।  
-ग्लहे॑ कृ॒तानि॑ कृण्वा॒नाम॑प्स॒रां तामि॒ह हु॑वे ॥
+उ᳙द्भिन्दतीं᳓ संज᳓यन्तीमप्सरां᳓ साधुदेवि᳓नीम्।  
+ग्ल᳓हे कृता᳓नि कृण्वाना᳓मप्सरां᳓ ता᳓मिह᳓ हुवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/01_udbhindatIM_sanjayantImapsarAm.md">
@@ -108,8 +108,8 @@ Hither I call the Apsaras, victorious, who plays with skill, Her who comes freel
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/02_vichinvatImAkirantImapsarAM_sAdhudevinIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॑चिन्व॒तीमा॑कि॒रन्ती॑मप्स॒रां सा॑धुदे॒विनी॑म्।  
-ग्लहे॑ कृ॒तानि॑ गृह्णा॒नाम॑प्स॒रां तामि॒ह हु॑वे ॥
+वि᳙चिन्वती᳓माकिर᳓न्तीमप्सरां᳓ साधुदेवि᳓नीम्।  
+ग्ल᳓हे कृता᳓नि गृह्णाना᳓मप्सरां᳓ ता᳓मिह᳓ हुवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/02_vichinvatImAkirantImapsarAM_sAdhudevinIm.md">
@@ -172,9 +172,9 @@ Hither I call that Apsaras who scatters and who gathers up. The Apsaras who play
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/03_yAyaiH_parinRtyatyAdadAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यायैः॑ परि॒नृत्य॑त्या॒ददा॑ना कृ॒तं ग्लहा॑त्।  
-सा नः॑ कृ॒तानि॑ सीष॒ती प्र॒हामा॑प्नोतु मा॒यया॑।  
-सा नः॒ पय॑स्व॒त्यैतु॒ मा नो॑ जैषुरि॒दं धन॑म् ॥
+या᳓यैः परिनृ᳓त्यत्याद᳓दाना कृतं᳓ ग्ल᳓हात्।  
+सा᳓ नः कृता᳓नि सीषती᳓ प्रहा᳓माप्नोतु माय᳓या।  
+सा᳓ नः प᳓यस्वत्यै᳓तु मा᳓ नो जैषुरिदं᳓ ध᳓नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/03_yAyaiH_parinRtyatyAdadAnA.md">
@@ -254,8 +254,8 @@ Dancing around us with the dice, winning the wager by her play. May she obtain t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/04_yA_axeShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या अ॒क्षेषु॑ प्र॒मोद॑न्ते॒ शुचं॒ क्रोधं॑ च॒ बिभ्र॑ती।  
-आ॑न॒न्दिनीं॑ प्रमो॒दिनी॑मप्स॒रां तामि॒ह हु॑वे ॥
+या᳓ अक्षे᳓षु प्रमो᳓दन्ते शु᳓चं क्रो᳓धं च बि᳓भ्रती।  
+आ᳙नन्दि᳓नीं प्रमोदि᳓नीमप्सरां᳓ ता᳓मिह᳓ हुवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/04_yA_axeShu.md">
@@ -323,9 +323,9 @@ Hither I call that Apsaras, the joyous, the delightful one-- Those nymphs who re
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/05_sUryasya_rashmInanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्य॑स्य र॒श्मीननु॒ याः स॒ञ्चर॑न्ति॒ मरी॑चीर्वा॒ या अ॑नुस॒ञ्चर॑न्ति।  
-यासा॑मृष॒भो दू॑र॒तो वा॒जिनी॑वान्त्स॒द्यः सर्वा॑न्लो॒कान्प॒र्येति॒ रक्ष॑न्।  
-स न॒ ऐतु॒ होम॑मि॒मं जु॑षाणो॑३ऽन्तरि॑क्षेण स॒ह वा॒जिनी॑वान् ॥
+सू᳓र्यस्य रश्मी᳓न᳓नु याः᳓ सञ्च᳓रन्ति म᳓रीचीर्वा या᳓ अनुसञ्च᳓रन्ति।  
+या᳓सामृषभो᳓ दूरतो᳓ वाजि᳓नीवान्त्सद्यः᳓ स᳓र्वान्लोका᳓न्पर्ये᳓ति र᳓क्षन्।  
+स᳓ न ऐ᳓तु हो᳓ममिमं᳓ जुषाणो᳙ऽन्त᳓रिक्षेण सह᳓ वाजि᳓नीवान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/05_sUryasya_rashmInanu.md">
@@ -407,8 +407,8 @@ Who follow in their course the rays of Surya, or as a particle of light attend h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/06_antarixeNa_saha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तरि॑क्षेण स॒ह वा॑जिनीवन्क॒र्कीं व॒त्सामि॒ह र॑क्ष वाजिन्।  
-इ॒मे ते॑ स्तो॒का ब॑हु॒ला एह्य॒र्वाङि॒यं ते॑ क॒र्कीह ते॒ मनो॑ऽस्तु ॥
+अन्त᳓रिक्षेण सह᳓ वाजिनीवन्कर्कीं᳓ वत्सा᳓मिह᳓ रक्ष वाजिन्।  
+इमे᳓ ते स्तोका᳓ बहुला᳓ ए᳓ह्यर्वा᳓ङियं᳓ ते कर्की᳓ह᳓ ते म᳓नोऽस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/06_antarixeNa_saha.md">
@@ -478,9 +478,9 @@ Together with the Air, O rich in treasure, guard here the white cow and the calf
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/07_antarixeNa_saha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तरि॑क्षेण स॒ह वा॑जिनीवन्क॒र्कीं व॒त्सामि॒ह र॑क्ष वाजिन्।  
-अ॒यं घा॒सो अ॒यं व्र॒ज इ॒ह व॒त्सां नि ब॑ध्नीमः।  
-य॑थाना॒म व॑ ईश्महे॒ स्वाहा॑ ॥
+अन्त᳓रिक्षेण सह᳓ वाजिनीवन्कर्कीं᳓ वत्सा᳓मिह᳓ रक्ष वाजिन्।  
+अयं᳓ घासो᳓ अयं᳓ व्रज᳓ इह᳓ वत्सां᳓ नि᳓ बध्नीमः।  
+य᳙थानाम᳓ व ईश्महे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/07_antarixeNa_saha.md">

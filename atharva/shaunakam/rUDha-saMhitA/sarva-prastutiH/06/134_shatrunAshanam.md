@@ -33,8 +33,8 @@ Translated: Ludwig, p. 448; Griffith, i. 320.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं वज्र॑स्तर्पयतामृ॒तस्या॑वास्य रा॒ष्ट्रमप॑ हन्तु जीवि॒तम्।  
-शृ॒णातु॑ ग्री॒वाः प्र शृ॑णातू॒ष्णिहा॑ वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥
+अयं᳓ व᳓ज्रस्तर्पयतामृत᳓स्यावास्य राष्ट्र᳓म᳓प हन्तु जीवित᳓म्।  
+शृणा᳓तु ग्रीवाः᳓ प्र᳓ शृणातूष्णि᳓हा वृत्र᳓स्येव श᳓चीप᳓तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
@@ -108,8 +108,8 @@ This Thunderbolt shall take its fill of Order, scare life away and overthrow the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/02_adharo-dhara_uttarebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अध॑रोऽधर॒ उत्त॑रेभ्यो गू॒ढः पृ॑थि॒व्या मोत्सृ॑पत्।  
-वज्रे॒णाव॑हतः शयाम् ॥
+अ᳓धरोऽधर उ᳓त्तरेभ्यो गूढः᳓ पृथिव्या᳓ मो᳓त्सृपत्।  
+व᳓ज्रेणा᳓वहतः शयाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134_shatrunAshanam/02_adharo-dhara_uttarebhyo.md">
@@ -171,8 +171,8 @@ Down, down beneath the conquerors, let him not rise, concealed in earth, but lie
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/03_yo_jinAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो जि॒नाति॒ तमन्वि॑च्छ॒ यो जि॒नाति॒ तमिज्ज॑हि।  
-जि॑न॒तो व॑ज्र॒ त्वं सी॒मन्त॑म॒न्वञ्च॒मनु॑ पातय ॥
+यो᳓ जिना᳓ति त᳓म᳓न्विच्छ यो᳓ जिना᳓ति त᳓मि᳓ज्जहि।  
+जि᳙नतो᳓ वज्र त्वं᳓ सीम᳓न्तमन्व᳓ञ्चम᳓नु पातय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134_shatrunAshanam/03_yo_jinAti.md">

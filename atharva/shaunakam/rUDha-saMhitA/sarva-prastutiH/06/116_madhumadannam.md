@@ -33,8 +33,8 @@ Translated: Ludwig, p. 443; Griffith, i. 309.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/01_yadyAmaM_chakrurnikhananto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्या॒मं च॒क्रुर्नि॒खन॑न्तो॒ अग्रे॒ कार्षी॑वणा अन्न॒विदो॒ न वि॒द्यया॑।  
-वै॑वस्व॒ते राज॑नि॒ तज्जु॑हो॒म्यथ॑ य॒ज्ञियं॒ मधु॑मदस्तु॒ नोऽन्न॑म् ॥
+य᳓द्यामं᳓ चक्रु᳓र्निख᳓नन्तो अ᳓ग्रे का᳓र्षीवणा अन्नवि᳓दो न᳓ विद्य᳓या।  
+वै᳙वस्वते᳓ रा᳓जनि त᳓ज्जुहोम्य᳓थ यज्ञि᳓यं म᳓धुमदस्तु नो᳓ऽन्नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/116_madhumadannam/01_yadyAmaM_chakrurnikhananto.md">
@@ -104,8 +104,8 @@ The wealth which husbandmen aforetime, digging, like men who find their food wit
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/02_vaivasvataH_kRNavadbhAgadheyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॑वस्व॒तः कृ॑णवद्भाग॒धेयं॒ मधु॑भागो॒ मधु॑ना॒ सं सृ॑जाति।  
-मा॒तुर्यदेन॑ इषि॒तं न॒ आग॒न्यद्वा॑ पि॒ताऽप॑राद्धो जिही॒डे ॥
+वै᳙वस्वतः᳓ कृणवद्भागधे᳓यं म᳓धुभागो म᳓धुना सं᳓ सृजाति।  
+मातु᳓र्य᳓दे᳓न इषितं᳓ न आ᳓गन्य᳓द्वा पिता᳓ऽपराद्धो जिहीडे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/116_madhumadannam/02_vaivasvataH_kRNavadbhAgadheyam.md">
@@ -171,8 +171,8 @@ May he, Vaivasvata, prepare our portion; May he whose share is mead with mead be
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/03_yadIdaM_mAturyadi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदी॒दं मा॒तुर्यदि॑ पि॒तुर्नः॒ परि॒ भ्रातुः॑ पु॒त्राच्चेत॑स॒ एन॒ आग॑न्।  
-याव॑न्तो अ॒स्मान्पि॒तरः॒ सच॑न्ते॒ तेषां॒ सर्वे॑षां शि॒वो अ॑स्तु म॒न्युः ॥
+य᳓दीदं᳓ मातु᳓र्य᳓दि पितु᳓र्नः प᳓रि भ्रा᳓तुः पुत्रा᳓च्चे᳓तस ए᳓न आ᳓गन्।  
+या᳓वन्तो अस्मा᳓न्पित᳓रः स᳓चन्ते ते᳓षां स᳓र्वेषां शिवो᳓ अस्तु मन्युः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/116_madhumadannam/03_yadIdaM_mAturyadi.md">

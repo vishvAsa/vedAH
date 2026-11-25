@@ -33,8 +33,8 @@ Translated: Zimmer, p. 321; Grill, 49, 176; Griffith, i. 323; Bloomfield, 110, 5
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/140_sumangalau_dantau/01_yau_vyAghrAvavarUDhau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यौ व्या॒घ्रावव॑रूढौ॒ जिघ॑त्सतः पि॒तरं॑ मा॒तरं॑ च।  
-तौ दन्तौ॑ ब्रह्मणस्पते शि॒वौ कृ॑णु जातवेदः ॥
+यौ᳓ व्याघ्रा᳓व᳓वरूढौ जि᳓घत्सतः पित᳓रं मात᳓रं च।  
+तौ᳓ द᳓न्तौ ब्रह्मणस्पते शिवौ᳓ कृणु जातवेदः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/140_sumangalau_dantau/01_yau_vyAghrAvavarUDhau.md">
@@ -97,8 +97,8 @@ Two tigers have grown up who long to eat the mother and the sire: Soothe, Brahma
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/140_sumangalau_dantau/02_vrIhimattaM_yavamattamatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्री॒हिम॑त्तं॒ यव॑मत्त॒मथो॒ माष॒मथो॒ तिल॑म्।  
-ए॒ष वां॑ भा॒गो निहि॑तो रत्न॒धेया॑य दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥
+व्रीहि᳓मत्तं य᳓वमत्तम᳓थो मा᳓षम᳓थो ति᳓लम्।  
+एष᳓ वां भागो᳓ नि᳓हितो रत्नधे᳓याय दन्तौ मा᳓ हिंसिष्टं पित᳓रं मात᳓रं च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/140_sumangalau_dantau/02_vrIhimattaM_yavamattamatho.md">
@@ -164,8 +164,8 @@ Let rice and barley be your food, eat also beans and sesamum. This is the share 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/140_sumangalau_dantau/03_upahUtau_sayujau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑हूतौ स॒युजौ॑ स्यो॒नौ दन्तौ॑ सुम॒ङ्गलौ॑।  
-अ॒न्यत्र॑ वां घो॒रं त॒न्वः१॒॑ परै॑तु दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥
+उ᳓पहूतौ सयु᳓जौ स्योनौ᳓ द᳓न्तौ सुमङ्ग᳓लौ।  
+अन्य᳓त्र वां घोरं᳓ तन्वः᳙ प᳓रैतु दन्तौ मा᳓ हिंसिष्टं पित᳓रं मात᳓रं च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/140_sumangalau_dantau/03_upahUtau_sayujau.md">

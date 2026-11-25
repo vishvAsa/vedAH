@@ -37,8 +37,8 @@ In praise of Indra
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/01_indrAya_somamRtvijaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रा॑य॒ सोम॑मृत्विजः सु॒नोता च॑ धावत।  
-स्तो॒तुर्यो वचः॑ शृ॒णव॒द्धवं॑ च मे ॥
+इ᳓न्द्राय सो᳓ममृत्विजः सुनो᳓ता᳓ च धावत।  
+स्तोतु᳓र्यो᳓ व᳓चः शृण᳓वद्ध᳓वं च मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/002_Atmagopanam/01_indrAya_somamRtvijaH.md">
@@ -105,8 +105,8 @@ For Indra, ministering priests! run ye and press the Soma juice, That he may hea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/02_A_yam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ यं वि॒शन्तीन्द॑वो॒ वयो॒ न वृ॒क्षमन्ध॑सः।  
-विर॑प्शि॒न्वि मृधो॑ जहि रक्ष॒स्विनीः॑ ॥
+आ᳓ यं᳓ विश᳓न्ती᳓न्दवो व᳓यो न᳓ वृक्ष᳓म᳓न्धसः।  
+वि᳓रप्शिन्वि᳓ मृ᳓धो जहि रक्षस्वि᳓नीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/002_Atmagopanam/02_A_yam.md">
@@ -168,8 +168,8 @@ Thou into whom the drops find way as sap pours life into a tree, Drive off in th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/03_sunotA_somapAvne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॒नोता॑ सोम॒पाव्ने॒ सोम॒मिन्द्रा॑य व॒ज्रिणे॑।  
-युवा॒ जेतेशा॑नः॒ स पु॑रुष्टु॒तः ॥
+सुनो᳓ता सोमपा᳓व्ने सो᳓ममि᳓न्द्राय वज्रि᳓णे।  
+यु᳓वा जे᳓ते᳓शानः स᳓ पुरुष्टुतः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/002_Atmagopanam/03_sunotA_somapAvne.md">

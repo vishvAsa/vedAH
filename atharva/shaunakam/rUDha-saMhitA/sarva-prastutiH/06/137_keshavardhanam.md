@@ -33,8 +33,8 @@ Translated: Ludwig, p. 512; Zimmer, p. 68; Grill, 50, 176; Griffith, i. 321; Blo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/01_yAM_jamadagnirakhanadduhitre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां ज॒मद॑ग्नि॒रख॑नद्दुहि॒त्रे के॑श॒वर्ध॑नीम्।  
-तां वी॒तह॑व्य॒ आभ॑र॒दसि॑तस्य गृ॒हेभ्यः॑ ॥
+यां᳓ जम᳓दग्निर᳓खनद्दुहित्रे᳓ केशव᳓र्धनीम्।  
+तां᳓ वीत᳓हव्य आ᳓भरद᳓सितस्य गृहे᳓भ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/137_keshavardhanam/01_yAM_jamadagnirakhanadduhitre.md">
@@ -97,8 +97,8 @@ The Plant which Jamadagni dug to make his daughter's locks. grow long, This same
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/02_abhIshunA_meyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भीशु॑ना॒ मेया॑ आसन्व्या॒मेना॑नु॒मेयाः॑।  
-केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥
+अभी᳓शुना मे᳓या आसन्व्यामे᳓नानुमे᳓याः।  
+के᳓शा नडा᳓ इव वर्धन्तां शीर्ष्ण᳓स्ते असिताः᳓ प᳓रि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/137_keshavardhanam/02_abhIshunA_meyA.md">
@@ -164,8 +164,8 @@ They might be measured with a rein, meted with both extended arms. Let the black
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/03_dRMha_mUlamAgram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दृंह॒ मूल॒माग्रं॑ यच्छ॒ वि मध्यं॑ यामयौषधे।  
-केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥
+दृं᳓ह मू᳓लमा᳓ग्रं यच्छ वि᳓ म᳓ध्यं यामयौषधे।  
+के᳓शा नडा᳓ इव वर्धन्तां शीर्ष्ण᳓स्ते असिताः᳓ प᳓रि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/137_keshavardhanam/03_dRMha_mUlamAgram.md">

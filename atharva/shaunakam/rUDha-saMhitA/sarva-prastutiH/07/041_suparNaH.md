@@ -37,8 +37,8 @@ A prayer for prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/041_suparNaH/01_ati_dhanvAnyatyapastatarda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अति॒ धन्वा॒न्यत्य॒पस्त॑तर्द श्ये॒नो नृ॒चक्षा॑ अवसानद॒र्शः।  
-तर॒न्विश्वा॒न्यव॑रा॒ रजां॒सीन्द्रे॑ण॒ सख्या॑ शि॒व आ ज॑गम्यात् ॥
+अ᳓ति ध᳓न्वान्य᳓त्यप᳓स्ततर्द श्येनो᳓ नृच᳓क्षा अवसानदर्शः᳓।  
+त᳓रन्वि᳓श्वान्य᳓वरा र᳓जांसी᳓न्द्रेण स᳓ख्या शिव᳓ आ᳓ जगम्यात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/041_suparNaH/01_ati_dhanvAnyatyapastatarda.md">
@@ -102,8 +102,8 @@ Observing men, and viewing home, the Falcon hath cleft his swift way over wastes
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/041_suparNaH/02_shyeno_nRchaxA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्ये॒नो नृ॒चक्षा॑ दि॒व्यः सु॑प॒र्णः स॒हस्र॑पाच्छ॒तयो॑निर्वयो॒धाः।  
-स नो॒ नि य॑च्छा॒द्वसु॒ यत्परा॑भृतम॒स्माक॑मस्तु पि॒तृषु॑ स्व॒धाव॑त् ॥
+श्येनो᳓ नृच᳓क्षा दिव्यः᳓ सुपर्णः᳓ सह᳓स्रपाच्छत᳓योनिर्वयोधाः᳓।  
+स᳓ नो नि᳓ यच्छाद्व᳓सु य᳓त्प᳓राभृतमस्मा᳓कमस्तु पितृ᳓षु स्वधा᳓वत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/041_suparNaH/02_shyeno_nRchaxA.md">

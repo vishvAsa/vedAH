@@ -37,8 +37,8 @@ A man's love-charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/01_uttudastvottudatu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑त्तु॒दस्त्वोत्तु॑दतु॒ मा धृ॑थाः॒ शय॑ने॒ स्वे।  
-इषुः॒ काम॑स्य॒ या भी॒मा तया॑ विध्यामि त्वा हृ॒दि ॥
+उ᳙त्तुद᳓स्त्वो᳓त्तुदतु मा᳓ धृथाः श᳓यने स्वे᳓।  
+इ᳓षुः का᳓मस्य या᳓ भीमा᳓ त᳓या विध्यामि त्वा हृदि᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/01_uttudastvottudatu_mA.md">
@@ -91,8 +91,8 @@ Let the Impeller goad thee on. Rest not in peace upon thy bed. Terrible is the s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/02_AdhIparNAM_kAmashalyAmiShum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒धीप॑र्णां॒ काम॑शल्या॒मिषुं॑ संक॒ल्पकु॑ल्मलाम्।  
-तां सुसं॑नतां कृ॒त्वा कामो॑ विध्यतु त्वा हृ॒दि ॥
+आधी᳓पर्णां का᳓मशल्यामि᳓षुं संकल्प᳓कुल्मलाम्।  
+तां᳓ सु᳓संनतां कृत्वा᳓ का᳓मो विध्यतु त्वा हृदि᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/02_AdhIparNAM_kAmashalyAmiShum.md">
@@ -158,8 +158,8 @@ That arrow winged with longing thought, its stem Desire, its neck, Resolve, Let 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/03_yA_plIhAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या प्ली॒हानं॑ शो॒षय॑ति॒ काम॒स्येषुः॒ सुसं॑नता।  
-प्रा॒चीन॑पक्षा॒ व्यो॑षा॒ तया॑ विध्यामि त्वा हृ॒दि ॥
+या᳓ प्लीहा᳓नं शोष᳓यति का᳓मस्ये᳓षुः सु᳓संनता।  
+प्राची᳓नपक्षा व्यो᳙षा त᳓या विध्यामि त्वा हृदि᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/03_yA_plIhAnam.md">
@@ -224,8 +224,8 @@ The shaft of Kama, pointed well, that withers and consumes the spleen. With hast
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/04_shuchA_viddhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शु॒चा वि॒द्धा व्यो॑षया॒ शुष्का॑स्या॒भि स॑र्प मा।  
-मृ॒दुर्निम॑न्युः॒ केव॑ली प्रियवा॒दिन्यनु॑व्रता ॥
+शुचा᳓ विद्धा᳓ व्योषया शु᳓ष्कास्याभि᳓ सर्प मा।  
+मृदु᳓र्नि᳓मन्युः के᳓वली प्रियवादि᳓न्य᳓नुव्रता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/04_shuchA_viddhA.md">
@@ -291,8 +291,8 @@ Pierced through with fiercely-burning heat, steal to me with thy parching lips, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/05_AjAmi_tvAjanyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आजा॑मि॒ त्वाज॑न्या॒ परि॑ मा॒तुरथो॑ पि॒तुः।  
-यथा॒ मम॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+आ᳓जामि त्वा᳓जन्या प᳓रि मातु᳓र᳓थो पितुः᳓।  
+य᳓था म᳓म क्र᳓ताव᳓सो म᳓म चित्त᳓मुपा᳓यसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/05_AjAmi_tvAjanyA.md">
@@ -355,8 +355,8 @@ Away Lfrom mother and from sire I drive thee hither with a whip, That thou mayst
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/06_vyasyai_mitrAvaruNau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्य॑स्यै मित्रावरुणौ हृ॒दश्चि॒त्तान्य॑स्यतम्।  
-अथै॑नामक्र॒तुं कृ॒त्वा ममै॒व कृ॑णुतं॒ वशे॑ ॥
+व्य᳙स्यै मित्रावरुणौ हृद᳓श्चित्ता᳓न्यस्यतम्।  
+अ᳓थैनामक्रतुं᳓ कृत्वा᳓ म᳓मैव᳓ कृणुतं व᳓शे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/06_vyasyai_mitrAvaruNau.md">

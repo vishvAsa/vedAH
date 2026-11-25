@@ -37,8 +37,8 @@ A hymn to the New Moon
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/01_yatte_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्ते॑ दे॒वा अकृ॑ण्वन्भाग॒धेय॒ममा॑वास्ये सं॒वस॑न्तो महि॒त्वा।  
-तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म् ॥
+य᳓त्ते देवा᳓ अ᳓कृण्वन्भागधे᳓यम᳓मावास्ये संव᳓सन्तो महित्वा᳓।  
+ते᳓ना नो यज्ञं᳓ पिपृहि विश्ववारे रयिं᳓ नो धेहि सुभगे सुवी᳓रम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/01_yatte_devA.md">
@@ -106,8 +106,8 @@ Night of the New-born Moon, whatever fortune the Gods who dwell with greatness h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हमे॒वास्म्य॑मावा॒स्या॒३॒॑ मामा व॑सन्ति सु॒कृतो॒ मयी॒मे।  
-मयि॑ दे॒वा उ॒भये॑ सा॒ध्याश्चेन्द्र॑ज्येष्ठाः॒ सम॑गच्छन्त॒ सर्वे॑ ॥
+अह᳓मेवा᳓स्म्यमावास्या᳙ मा᳓मा᳓ वसन्ति सुकृ᳓तो म᳓यीमे᳓।  
+म᳓यि देवा᳓ उभ᳓ये साध्या᳓श्चे᳓न्द्रज्येष्ठाः स᳓मगच्छन्त स᳓र्वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
@@ -172,8 +172,8 @@ I am the New Moon's Night, the good and pious are my in- habitants, these dwell 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आग॒न्रात्री॑ स॒ङ्गम॑नी॒ वसू॑ना॒मूर्जं॑ पु॒ष्टं वस्वा॑वे॒शय॑न्ती।  
-अ॑मावा॒स्या᳡यै ह॒विषा॑ विधे॒मोर्जं॒ दुहा॑ना॒ पय॑सा न॒ आग॑न् ॥
+आ᳓गन्रा᳓त्री सङ्ग᳓मनी व᳓सूनामू᳓र्जं पुष्टं᳓ व᳓स्वावेश᳓यन्ती।  
+अ᳙मावास्या᳙यै हवि᳓षा विधेमो᳓र्जं दु᳓हाना प᳓यसा न आ᳓गन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
@@ -245,8 +245,8 @@ The Night hath come, the gatherer of treasures, bestowing strength, prosperity, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/04_amAvAsye_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अमा॑वास्ये॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान।  
-यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+अ᳓मावास्ये न᳓ त्व᳓देता᳓न्यन्यो᳓ वि᳓श्वा रूपा᳓णि परिभू᳓र्जजान।  
+य᳓त्कामास्ते जुहुम᳓स्त᳓न्नो अस्तु वयं᳓ स्याम प᳓तयो रयीणा᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/04_amAvAsye_na.md">

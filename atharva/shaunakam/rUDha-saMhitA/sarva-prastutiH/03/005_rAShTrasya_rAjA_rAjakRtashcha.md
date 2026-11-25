@@ -37,8 +37,8 @@ A King's address to an amulet which is to strengthen his authority
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/01_AyamaganparNamaNirbalI_balena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयम॑गन्पर्णम॒णिर्ब॒ली बले॑न प्रमृ॒णन्त्स॒पत्ना॑न्।  
-ओजो॑ दे॒वानां॒ पय॒ ओष॑धीनां॒ वर्च॑सा मा जिन्व॒त्वप्र॑यावन् ॥
+आ᳓य᳓मगन्पर्णमणि᳓र्बली᳓ ब᳓लेन प्रमृण᳓न्त्सप᳓त्नान्।  
+ओ᳓जो देवा᳓नां प᳓य ओ᳓षधीनां व᳓र्चसा मा जिन्वत्व᳓प्रयावन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/01_AyamaganparNamaNirbalI_balena.md">
@@ -109,8 +109,8 @@ This Parna-Amulet hath come, strong and destroying with its strength my rivals. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/02_mayi_xatram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मयि॑ क्ष॒त्रं प॑र्णमणे॒ मयि॑ धारयताद्र॒यिम्।  
-अ॒हं रा॒ष्ट्रस्या॑भीव॒र्गे नि॒जो भू॑यासमुत्त॒मः ॥
+म᳓यि क्षत्रं᳓ पर्णमणे म᳓यि धारयताद्रयि᳓म्।  
+अहं᳓ राष्ट्र᳓स्याभीवर्गे᳓ निजो᳓ भूयासमुत्तमः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/02_mayi_xatram.md">
@@ -178,8 +178,8 @@ O Parna-Amulet, in me set firmly might and opulence. Within the compass of my ru
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/03_yaM_nidadhurvanaspatau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं नि॑द॒धुर्वन॒स्पतौ॒ गुह्यं॑ दे॒वाः प्रि॒यं म॒णिम्।  
-तम॒स्मभ्यं॑ स॒हायु॑षा दे॒वा द॑दतु॒ भर्त॑वे ॥
+यं᳓ निदधु᳓र्व᳓नस्प᳓तौ गु᳓ह्यं देवाः᳓ प्रियं᳓ मणि᳓म्।  
+त᳓मस्म᳓भ्यं सहा᳓युषा देवा᳓ ददतु भ᳓र्तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/03_yaM_nidadhurvanaspatau.md">
@@ -242,8 +242,8 @@ That dear mysterious Amulet which Gods have set within the tree, May the Gods gr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/04_somasya_parNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोम॑स्य प॒र्णः सह॑ उ॒ग्रमाग॒न्निन्द्रे॑ण द॒त्तो वरु॑णेन शि॒ष्टः।  
-तं प्रि॑यासं ब॒हु रोच॑मानो दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥
+सो᳓मस्य पर्णः᳓ स᳓ह उग्र᳓मा᳓गन्नि᳓न्द्रेण दत्तो᳓ व᳓रुणेन शिष्टः᳓।  
+तं᳓ प्रियासं बहु᳓ रो᳓चमानो दीर्घायुत्वा᳓य शत᳓शारदाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/04_somasya_parNaH.md">
@@ -314,8 +314,8 @@ As Indra's gift, by Varuna instructed, Parna hath come, the mighty strength of S
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/05_A_mAruxatparNamaNirmahyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ मा॑रुक्षत्पर्णम॒णिर्म॒ह्या अ॑रिष्ट॒तात॑ये।  
-यथा॒हमु॑त्त॒रोऽसा॑न्यर्य॒म्ण उ॒त सं॒विदः॑ ॥
+आ᳓ मारुक्षत्पर्णमणि᳓र्मह्या᳓ अरिष्टता᳓तये।  
+य᳓थाह᳓मुत्तरो᳓ऽसान्यर्यम्ण᳓ उत᳓ संवि᳓दः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/05_A_mAruxatparNamaNirmahyA.md">
@@ -383,8 +383,8 @@ The Parna-Charm hath come to me for great security from ill. That I may be exalt
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/06_ye_dhIvAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये धीवा॑नो रथका॒राः क॒र्मारा॒ ये म॑नी॒षिणः॑।  
-उ॑प॒स्तीन्प॑र्ण॒ मह्यं॑ त्वं॒ सर्वा॑न्कृण्व॒भितो॒ जना॑न् ॥
+ये᳓ धी᳓वानो रथकाराः᳓ कर्मा᳓रा ये᳓ मनीषि᳓णः।  
+उ᳙पस्ती᳓न्पर्ण म᳓ह्यं त्वं स᳓र्वान्कृण्वभि᳓तो ज᳓नान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/06_ye_dhIvAno.md">
@@ -450,8 +450,8 @@ Sagacious builders of the car, cleaver and skilful artisans,-- Make all the men 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/07_ye_rAjAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये राजा॑नो राज॒कृतः॑ सू॒ता ग्रा॑म॒ण्य॑श्च॒ ये।  
-उ॑प॒स्तीन्प॑र्ण॒ मह्यं॒ त्वं सर्वा॑न्कृण्व॒भितो॒ जना॑न् ॥
+ये᳓ रा᳓जानो राजकृ᳓तः सूता᳓ ग्रामण्य᳙श्च ये᳓।  
+उ᳙पस्ती᳓न्पर्ण म᳓ह्यं त्वं᳓ स᳓र्वान्कृण्वभि᳓तो ज᳓नान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/07_ye_rAjAno.md">
@@ -524,8 +524,8 @@ The kings and makers of the kings, troop-leaders, masters of the horse, Make all
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/08_parNo-si_tanUpAnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒र्णोऽसि॑ तनू॒पानः॒ सयो॑निर्वी॒रो वी॒रेण॒ मया॑।  
-सं॑वत्स॒रस्य॒ तेज॑सा॒ तेन॑ बध्नामि त्वा मणे ॥
+पर्णो᳓ऽसि तनूपा᳓नः स᳓योनिर्वीरो᳓ वीरे᳓ण म᳓या।  
+सं᳙वत्सर᳓स्य ते᳓जसा ते᳓न बध्नामि त्वा मणे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/08_parNo-si_tanUpAnaH.md">

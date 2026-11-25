@@ -33,8 +33,8 @@ A protective charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/01_na_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न तं यक्ष्मा॒ अरु॑न्धते॒ नैनं॑ श॒पथो॑ अश्नुते।  
-यं भे॑ष॒जस्य॑ गुल्गु॒लोः सु॑र॒भिर्ग॒न्धो अ॑श्नु॒ते ॥
+न᳓ तं᳓ य᳓क्ष्मा अ᳓रुन्धते नै᳓नं शप᳓थो अश्नुते।  
+यं᳓ भेषज᳓स्य गुल्गुलोः᳓ सुरभि᳓र्गन्धो᳓ अश्नुते᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/038_yaxamanAshanam/01_na_tam.md">
@@ -106,8 +106,8 @@ Never Consumption, never curse touches the man, Arundhati! Whom the delicious od
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/02_viShvanchastasmAdyaxmA_mRgA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्व॑ञ्च॒स्तस्मा॒द्यक्ष्मा॑ मृ॒गा अश्वा॑ इवेरते।  
-यद्गु॑ल्गु॒लु सै॑न्ध॒वं यद्वाप्यसि॑ समु॒द्रिय॑म् ॥
+वि᳓ष्वञ्चस्त᳓स्माद्य᳓क्ष्मा मृगा᳓ अ᳓श्वा इवेरते।  
+य᳓द्गुल्गुलु᳓ सैन्धवं᳓ य᳓द्वा᳓प्य᳓सि समुद्रि᳓यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/038_yaxamanAshanam/02_viShvanchastasmAdyaxmA_mRgA.md">
@@ -202,7 +202,7 @@ Consumptions flee apart from it as from a wild beast fly the deer. If thou, O Bd
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/03_ubhayoragrabhaM_nAmAsmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒भयो॑रग्रभं॒ नामा॒स्मा अ॑रि॒ष्टता॑तये ॥
+उभ᳓योरग्रभं ना᳓मास्मा᳓ अरिष्ट᳓तातये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/038_yaxamanAshanam/03_ubhayoragrabhaM_nAmAsmA.md">

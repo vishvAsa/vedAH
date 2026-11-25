@@ -37,7 +37,7 @@ A prayer for general protection
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/01_prANApAnau_mRtyormA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्राणा॑पानौ मृ॒त्योर्मा॑ पातं॒ स्वाहा॑ ॥
+प्रा᳓णापानौ मृत्यो᳓र्मा पातं स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/01_prANApAnau_mRtyormA.md">
@@ -105,7 +105,7 @@ Guard me from death, Inhaling and Exhaling! All bliss to you!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/02_dyAvApRthivI_upashrutyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्यावा॑पृथिवी॒ उप॑श्रुत्या मा पातं॒ स्वाहा॑ ॥
+द्या᳓वापृथिवी उ᳓पश्रुत्या मा पातं स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/02_dyAvApRthivI_upashrutyA.md">
@@ -172,7 +172,7 @@ you!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/03_sUrya_chaxuShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्य॒ चक्षु॑षा मा पाहि॒ स्वाहा॑ ॥
+सू᳓र्य च᳓क्षुषा मा पाहि स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/03_sUrya_chaxuShA.md">
@@ -233,7 +233,7 @@ thee!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/04_agne_vaishvAnara.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॑ वैश्वानर॒ विश्वै॑र्मा दे॒वैः पा॑हि॒ स्वाहा॑ ॥
+अ᳓ग्ने वैश्वानर वि᳓श्वैर्मा देवैः᳓ पाहि स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/04_agne_vaishvAnara.md">
@@ -295,7 +295,7 @@ Agni Vaisvānara, with all Gods preserve me! All hail to thee!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/05_vishvambhara_vishvena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्व॑म्भर॒ विश्वे॑न मा॒ भर॑सा पाहि॒ स्वाहा॑ ॥
+वि᳓श्वम्भर वि᳓श्वेन मा भ᳓रसा पाहि स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/05_vishvambhara_vishvena.md">

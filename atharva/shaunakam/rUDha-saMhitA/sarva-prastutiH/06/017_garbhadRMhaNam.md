@@ -37,8 +37,8 @@ A charm to ensure conception
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/017_garbhadRMhaNam/01_yatheyaM_pRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथे॒यं पृ॑थि॒वी म॒ही भू॒तानां॒ गर्भ॑माद॒धे।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+य᳓थेयं᳓ पृथिवी᳓ मही᳓ भूता᳓नां ग᳓र्भमादधे᳓।  
+एवा᳓ ते ध्रियतां ग᳓र्भो अ᳓नु सू᳓तुं स᳓वितवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/017_garbhadRMhaNam/01_yatheyaM_pRthivI.md">
@@ -103,8 +103,8 @@ Even as this mighty Earth conceived the germ of all the things that be, So may t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/017_garbhadRMhaNam/02_yatheyaM_pRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथे॒यं पृ॑थि॒वी म॒ही दा॒धारे॒मान्वन॒स्पती॑न्।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+य᳓थेयं᳓ पृथिवी᳓ मही᳓ दाधा᳓रेमा᳓न्व᳓नस्प᳓तीन्।  
+एवा᳓ ते ध्रियतां ग᳓र्भो अ᳓नु सू᳓तुं स᳓वितवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/017_garbhadRMhaNam/02_yatheyaM_pRthivI.md">
@@ -154,8 +154,8 @@ Even as this mighty Earth hath borne and bears the stately forest trees, So may 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/017_garbhadRMhaNam/03_yatheyaM_pRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ पर्व॑तान्गि॒रीन्।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+य᳓थेयं᳓ पृथिवी᳓ मही᳓ दाधा᳓र प᳓र्वतान्गिरी᳓न्।  
+एवा᳓ ते ध्रियतां ग᳓र्भो अ᳓नु सू᳓तुं स᳓वितवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/017_garbhadRMhaNam/03_yatheyaM_pRthivI.md">
@@ -203,8 +203,8 @@ Even as this mighty Earth hath borne and bears the mountains and the hills, So m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/017_garbhadRMhaNam/04_yatheyaM_pRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ विष्ठि॑तं॒ जग॑त्।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+य᳓थेयं᳓ पृथिवी᳓ मही᳓ दाधा᳓र वि᳓ष्ठितं ज᳓गत्।  
+एवा᳓ ते ध्रियतां ग᳓र्भो अ᳓नु सू᳓तुं स᳓वितवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/017_garbhadRMhaNam/04_yatheyaM_pRthivI.md">

@@ -37,8 +37,8 @@ A charm against evil dreams
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/046_duHShvapnanAshanam/01_yo_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो न जी॒वोऽसि॒ न मृ॒तो दे॒वाना॑ममृतग॒र्भो᳡ऽसि॑ स्वप्न।  
-व॑रुणा॒नी ते॑ मा॒ता य॒मः पि॒ताररु॒र्नामा॑सि ॥
+यो᳓ न᳓ जीवो᳓ऽसि न᳓ मृतो᳓ देवा᳓नाममृतगर्भो᳙ऽसि स्वप्न।  
+व᳙रुणानी᳓ ते माता᳓ यमः᳓ पिता᳓र᳓रुर्ना᳓मासि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/046_duHShvapnanAshanam/01_yo_na.md">
@@ -108,9 +108,9 @@ Thou, neither quick nor dead, O Sleep, art fraught with Amrit of the Gods. Thy n
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/046_duHShvapnanAshanam/02_vidma_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्म ते॑ स्वप्न ज॒नित्रं॑ देवजामी॒नां पु॒त्रो᳡ऽसि॑ य॒मस्य॒ कर॑णः।  
-अन्त॑कोऽसि मृ॒त्युर॑सि॒।  
-तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स नः॑ स्वप्न दुः॒ष्वप्न्या॑त्पाहि ॥
+विद्म᳓ ते स्वप्न जनि᳓त्रं देवजामीनां᳓ पुत्रो᳙ऽसि यम᳓स्य क᳓रणः।  
+अ᳓न्तकोऽसि मृत्यु᳓रसि।  
+तं᳓ त्वा स्वप्न त᳓था सं᳓ विद्म स᳓ नः स्वप्न दुःष्व᳓प्न्यात्पाहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/046_duHShvapnanAshanam/02_vidma_te.md">
@@ -175,8 +175,8 @@ We know thy birth, O Sleep, thou art son of the sisters of the Gods; the ministe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/046_duHShvapnanAshanam/03_yathA_kalAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति।  
-ए॒वा दुः॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते सं न॑यामसि ॥
+य᳓था कलां᳓ य᳓था शफं᳓ य᳓थर्णं᳓ संन᳓यन्ति।  
+एवा᳓ दुःष्व᳓प्न्यं स᳓र्वं द्विषते᳓ सं᳓ नयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/046_duHShvapnanAshanam/03_yathA_kalAm.md">

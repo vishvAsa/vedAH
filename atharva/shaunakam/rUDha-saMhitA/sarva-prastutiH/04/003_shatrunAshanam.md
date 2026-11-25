@@ -37,8 +37,8 @@ A Charm against tigers, wolves, thieves and other noxious creatures
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/01_uditastrayo_akramanvyAghraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदि॒तस्त्रयो॑ अक्रमन्व्या॒घ्रः पुरु॑षो॒ वृकः॑।  
-हिरु॒ग्घि यन्ति॒ सिन्ध॑वो॒ हिरु॑ग्दे॒वो वन॒स्पति॒र्हिरु॑ङ्नमन्तु॒ शत्र॑वः ॥
+उ᳓दित᳓स्त्र᳓यो अक्रमन्व्याघ्रः᳓ पु᳓रुषो वृ᳓कः।  
+हि᳓रुग्घि᳓ य᳓न्ति सि᳓न्धवो हि᳓रुग्देवो᳓ व᳓नस्प᳓तिर्हि᳓रुङ्नमन्तु श᳓त्रवः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/01_uditastrayo_akramanvyAghraH.md">
@@ -109,8 +109,8 @@ down let our foemen bend and bow.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/02_pareNaitu_pathA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परे॑णैतु प॒था वृकः॑ पर॒मेणो॒त तस्क॑रः।  
-परे॑ण द॒त्वती॒ रज्जुः॒ परे॑णाघा॒युर॑र्षतु ॥
+प᳓रेणैतु पथा᳓ वृ᳓कः परमे᳓णोत᳓ त᳓स्करः।  
+प᳓रेण दत्व᳓ती र᳓ज्जुः प᳓रेणाघायु᳓रर्षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/02_pareNaitu_pathA.md">
@@ -178,8 +178,8 @@ man!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/03_axyau_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒क्ष्यौ॑ च ते॒ मुखं॑ च ते॒ व्याघ्र॑ जम्भयामसि।  
-आत्सर्वा॑न्विंश॒तिं न॒खान् ॥
+अक्ष्यौ᳙ च ते मु᳓खं च ते व्या᳓घ्र जम्भयामसि।  
+आ᳓त्स᳓र्वान्विंशतिं᳓ नखा᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/03_axyau_cha.md">
@@ -249,8 +249,8 @@ jaws and all the twenty claws we break.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/04_vyAghraM_datvatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्या॒घ्रं द॒त्वतां॑ व॒यं प्र॑थ॒मं ज॑म्भयामसि।  
-आदु॑ ष्टे॒नमथो॒ अहिं॑ यातु॒धान॒मथो॒ वृक॑म् ॥
+व्याघ्रं᳓ दत्व᳓तां वयं᳓ प्रथमं᳓ जम्भयामसि।  
+आ᳓दु ष्टेन᳓म᳓थो अ᳓हिं यातुधा᳓नम᳓थो वृ᳓कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/04_vyAghraM_datvatAm.md">
@@ -315,8 +315,8 @@ wolf.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/05_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒द्य स्ते॒न आय॑ति॒ स संपि॑ष्टो॒ अपा॑यति।  
-प॒थाम॑पध्वं॒सेनै॒त्विन्द्रो॒ वज्रे॑ण हन्तु॒ तम् ॥
+यो᳓ अद्य᳓ स्तेन᳓ आ᳓यति स᳓ सं᳓पिष्टो अ᳓पायति।  
+पथा᳓मपध्वंसे᳓नैत्वि᳓न्द्रो व᳓ज्रेण हन्तु त᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/05_yo_adya.md">
@@ -382,8 +382,8 @@ bolt.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/06_mUrNA_mRgasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मू॒र्णा मृ॒गस्य॒ दन्ता॒ अपि॑शीर्णा उ पृ॒ष्टयः॑।  
-नि॒म्रुक्ते॑ गो॒धा भ॑वतु नी॒चाय॑च्छश॒युर्मृ॒गः ॥
+मूर्णा᳓ मृग᳓स्य द᳓न्ता अ᳓पिशीर्णा उ पृष्ट᳓यः।  
+निम्रु᳓क्ते गोधा᳓ भवतु नीचा᳓यच्छशयु᳓र्मृगः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/06_mUrNA_mRgasya.md">
@@ -462,8 +462,8 @@ pursues the hare!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/07_yatsaMyamo_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्सं॒यमो॒ न वि य॑मो॒ वि य॑मो॒ यन्न सं॒यमः॑।  
-इ॑न्द्र॒जाः सो॑म॒जा आ॑थर्व॒णम॑सि व्याघ्र॒जम्भ॑नम् ॥
+य᳓त्संय᳓मो न᳓ वि᳓ यमो वि᳓ यमो य᳓न्न᳓ संय᳓मः।  
+इ᳙न्द्रजाः᳓ सोमजा᳓ आथर्वण᳓मसि व्याघ्रज᳓म्भनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/07_yatsaMyamo_na.md">

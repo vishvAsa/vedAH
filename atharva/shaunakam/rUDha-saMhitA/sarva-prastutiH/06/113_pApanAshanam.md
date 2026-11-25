@@ -29,8 +29,8 @@ In Pāipp. ⌊i.⌋ is found only the first half-verse, much corrupted. It is em
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/01_trite_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रि॒ते दे॒वा अ॑मृजतै॒तदेन॑स्त्रि॒त ए॑नन्मनु॒ष्ये᳡षु ममृजे।  
-ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥
+त्रिते᳓ देवा᳓ अमृजतैत᳓दे᳓नस्त्रित᳓ एनन्मनुष्ये᳙षु ममृजे।  
+त᳓तो य᳓दि त्वा ग्रा᳓हिरानशे᳓ तां᳓ ते देवा᳓ ब्र᳓ह्मणा नाशयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/113_pApanAshanam/01_trite_devA.md">
@@ -104,8 +104,8 @@ This sin the Gods wiped off and laid on Trita, and Trita wiped it off on human b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/02_marIchIrdhUmAnpra_vishAnu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मरी॑चीर्धू॒मान्प्र वि॒शानु॑ पाप्मन्नुदा॒रान्ग॑च्छो॒त वा॑ नीहा॒रान्।  
-न॒दीनां॒ फेनाँ॒ अनु॒ तान्वि न॑श्य भ्रूण॒घ्नि पू॑षन्दुरि॒तानि॑ मृक्ष्व ॥
+म᳓रीचीर्धूमा᳓न्प्र᳓ विशा᳓नु पाप्मन्नुदारा᳓न्गच्छोत᳓ वा नीहारा᳓न्।  
+नदी᳓नां फे᳓नाँ अ᳓नु ता᳓न्वि᳓ नश्य भ्रूणघ्नि᳓ पूषन्दुरिता᳓नि मृक्ष्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/113_pApanAshanam/02_marIchIrdhUmAnpra_vishAnu.md">
@@ -171,8 +171,8 @@ Enter the particles of light and vapours, go to the rising fogs or mists, O Evil
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/03_dvAdashadhA_nihitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्वा॑दश॒धा निहि॑तं त्रि॒तस्याप॑मृष्टं मनुष्यैन॒सानि॑।  
-ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥
+द्वा᳙दशधा᳓ नि᳓हितं त्रित᳓स्या᳓पमृष्टं मनुष्यैनसा᳓नि।  
+त᳓तो य᳓दि त्वा ग्रा᳓हिरानशे᳓ तां᳓ ते देवा᳓ ब्र᳓ह्मणा नाशयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/113_pApanAshanam/03_dvAdashadhA_nihitam.md">

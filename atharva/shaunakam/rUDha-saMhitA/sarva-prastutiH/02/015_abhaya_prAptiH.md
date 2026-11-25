@@ -33,8 +33,8 @@ Translated: Weber, xiii. 179; Griffith, i. 59.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/01_yathA_dyaushcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ द्यौश्च॑ पृथि॒वी च॒ न बि॑भी॒तो न रिष्य॑तः।  
-ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+य᳓था द्यौ᳓श्च पृथिवी᳓ च न᳓ बिभीतो᳓ न᳓ रि᳓ष्यतः।  
+एवा᳓ मे प्राण मा᳓ बिभेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/01_yathA_dyaushcha.md">
@@ -96,8 +96,8 @@ riṣaḥ.*⌋
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/02_yathAhashcha_rAtrI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथाह॑श्च॒ रात्री॑ च॒ न बि॑भी॒तो न रिष्य॑तः।  
-ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+य᳓था᳓हश्च रा᳓त्री च न᳓ बिभीतो᳓ न᳓ रि᳓ष्यतः।  
+एवा᳓ मे प्राण मा᳓ बिभेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/02_yathAhashcha_rAtrI.md">
@@ -158,8 +158,8 @@ sentences, correspondent but with elements in part different.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/03_yathA_sUryashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ सूर्य॑श्च च॒न्द्रश्च॒ न बि॑भी॒तो न रिष्य॑तः।  
-ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+य᳓था सू᳓र्यश्च चन्द्र᳓श्च न᳓ बिभीतो᳓ न᳓ रि᳓ष्यतः।  
+एवा᳓ मे प्राण मा᳓ बिभेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/03_yathA_sUryashcha.md">
@@ -218,8 +218,8 @@ sentences, correspondent but with elements in part different.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/04_yathA_brahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ ब्रह्म॑ च क्ष॒त्रं च॒ न बि॑भी॒तो न रिष्य॑तः।  
-ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+य᳓था ब्र᳓ह्म च क्षत्रं᳓ च न᳓ बिभीतो᳓ न᳓ रि᳓ष्यतः।  
+एवा᳓ मे प्राण मा᳓ बिभेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/04_yathA_brahma.md">
@@ -282,8 +282,8 @@ translated.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/05_yathA_satyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ स॒त्यं चानृ॑तं च॒ न बि॑भी॒तो न रिष्य॑तः।  
-ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+य᳓था सत्यं᳓ चा᳓नृतं च न᳓ बिभीतो᳓ न᳓ रि᳓ष्यतः।  
+एवा᳓ मे प्राण मा᳓ बिभेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/05_yathA_satyam.md">
@@ -342,8 +342,8 @@ translated.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/06_yathA_bhUtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ भू॒तं च॒ भव्यं॑ च॒ न बि॑भी॒तो न रिष्य॑तः।  
-ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+य᳓था भूतं᳓ च भ᳓व्यं च न᳓ बिभीतो᳓ न᳓ रि᳓ष्यतः।  
+एवा᳓ मे प्राण मा᳓ बिभेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/06_yathA_bhUtam.md">

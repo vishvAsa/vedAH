@@ -37,8 +37,8 @@ A curative and protective charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/01_AyuSho-si_prataraNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयु॑षोऽसि प्र॒तर॑णं॒ विप्रं॑ भेष॒जमु॑च्यसे।  
-तदा॑ञ्जन॒ त्वं श॑न्ताते॒ शमापो॒ अभ॑यं कृतम् ॥
+आ᳓युषोऽसि प्रत᳓रणं वि᳓प्रं भेषज᳓मुच्यसे।  
+त᳓दाञ्जन त्वं᳓ शन्ताते श᳓मा᳓पो अ᳓भयं कृतम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/044_bhaiShajyam/01_AyuSho-si_prataraNam.md">
@@ -113,8 +113,8 @@ Thou art the lengthening of life, thy name is Universal Cure: Then, Ointment! se
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/02_yo_harimA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो ह॑रि॒मा जा॒यान्यो॑ऽङ्गभे॒दो वि॒सल्प॑कः।  
-सर्वं॑ ते॒ यक्ष्म॒मङ्गे॑भ्यो ब॒हिर्निर्ह॒न्त्वाञ्ज॑नम् ॥
+यो᳓ हरिमा᳓ जाया᳓न्योऽङ्गभेदो᳓ विस᳓ल्पकः।  
+स᳓र्वं ते य᳓क्ष्मम᳓ङ्गेभ्यो बहि᳓र्नि᳓र्हन्त्वा᳓ञ्जनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/044_bhaiShajyam/02_yo_harimA.md">
@@ -184,8 +184,8 @@ The yellow hue, the feverish heat, the shooting pain that rends II the limbs, Al
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/03_AnjanaM_pRthivyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आञ्ज॑नं पृथि॒व्यां जा॒तं भ॒द्रं पु॑रुष॒जीव॑नम्।  
-कृ॒णोत्वप्र॑मायुकं॒ रथ॑जूति॒मना॑गसम् ॥
+आ᳓ञ्जनं पृथिव्यां᳓ जातं᳓ भद्रं᳓ पुरुषजी᳓वनम्।  
+कृणो᳓त्व᳓प्रमायुकं र᳓थजूतिम᳓नागसम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/044_bhaiShajyam/03_AnjanaM_pRthivyAm.md">
@@ -247,8 +247,8 @@ Let the Salve born upon the earth, benignant, giving life to man. Make the swift
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/04_prANa_prANam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्राण॑ प्रा॒णं त्रा॑यस्वासो॒ अस॑वे मृड।  
-निरृ॑ते॒ निरृ॑त्या नः॒ पाशे॑भ्यो मुञ्च ॥
+प्रा᳓ण प्राणं᳓ त्रायस्वासो अ᳓सवे मृड।  
+नि᳓रृते नि᳓रृत्या नः पा᳓शेभ्यो मुञ्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/044_bhaiShajyam/04_prANa_prANam.md">
@@ -319,8 +319,8 @@ Preserve our breath, O Vital Breath, have mercy on our life, O Life. From snares
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/05_sindhorgarbho-si_vidyutAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सिन्धो॒र्गर्भो॑ऽसि वि॒द्युतां॑ पुष्प॑म्।  
-वा॑तः प्रा॒णः सूर्य॒श्चक्षु॑र्दि॒वस्पयः॑ ॥
+सि᳓न्धोर्ग᳓र्भोऽसि विद्यु᳓तां पु᳓ष्पम्।  
+वा᳙तः प्राणः᳓ सू᳓र्यश्च᳓क्षुर्दिव᳓स्प᳓यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/044_bhaiShajyam/05_sindhorgarbho-si_vidyutAm.md">
@@ -389,8 +389,8 @@ Thou art the babe of Sindhu, thou art lightnings' flower, wind, breath, and Sun:
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/06_devAnjana_traikakudam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-देवा॑ञ्जन॒ त्रैक॑कुदं॒ परि॑ मा पाहि वि॒श्वतः॑।  
-न त्वा॑ तर॒न्त्योष॑धयो॒ बाह्याः॑ पर्व॒तीया॑ उ॒त ॥
+दे᳓वाञ्जन त्रै᳓ककुदं प᳓रि मा पाहि विश्व᳓तः।  
+न᳓ त्वा तरन्त्यो᳓षधयो बा᳓ह्याः पर्वती᳓या उत᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/044_bhaiShajyam/06_devAnjana_traikakudam.md">
@@ -463,8 +463,8 @@ Gods' Ointment from the Three Peaked Hill, preserve thou me on every side. No pl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/07_vIdaM_madhyamavAsRpadraxohAmIvachAtanaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वी॒३॒॑दं मध्य॒मवा॑सृपद्रक्षो॒हामी॑व॒चात॑नः।  
-अमी॑वाः॒ सर्वा॑श्चा॒तय॑न्ना॒शय॑दभि॒भा इ॒तः ॥
+वी᳙दं᳓ म᳓ध्यम᳓वासृपद्रक्षोहा᳓मीवचा᳓तनः।  
+अ᳓मीवाः स᳓र्वाश्चात᳓यन्नाश᳓यदभिभा᳓ इतः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/044_bhaiShajyam/07_vIdaM_madhyamavAsRpadraxohAmIvachAtanaH.md">
@@ -544,8 +544,8 @@ Now hath it gently crept within, fiend-slaying, chasing malady. And driving all 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/08_bahvidaM_rAjanvaruNAnRtamAha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब॒ह्वि॒३॒॑दं रा॑जन्वरु॒णानृ॑तमाह॒ पूरु॑षः।  
-तस्मा॑त्सहस्रवीर्य मु॒ञ्च नः॒ पर्यंह॑सः ॥
+बह्वि᳙दं᳓ राजन्वरुणा᳓नृतमाह पू᳓रुषः।  
+त᳓स्मात्सहस्रवीर्य मुञ्च᳓ नः प᳓र्यं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/044_bhaiShajyam/08_bahvidaM_rAjanvaruNAnRtamAha.md">
@@ -611,8 +611,8 @@ Full many a falsehood, O thou King Varuna, man hath uttered here: Do thou who ha
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/09_yadApo_aghnyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदा॑पो अ॒घ्न्या इति॒ वरु॒णेति॒ यदू॑चि॒म।  
-तस्मा॑त्सहस्रवीर्य मु॒ञ्च नः॒ पर्यंह॑सः ॥
+य᳓दापो अघ्न्या᳓ इ᳓ति व᳓रुणे᳓ति य᳓दूचिम᳓।  
+त᳓स्मात्सहस्रवीर्य मुञ्च᳓ नः प᳓र्यं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/044_bhaiShajyam/09_yadApo_aghnyA.md">
@@ -679,8 +679,8 @@ If we have cried, O Waters! Cows! if we have cried, O Varuna! For this endowed w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/044_bhaiShajyam/10_mitrashcha_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मि॒त्रश्च॑ त्वा॒ वरु॑णश्चानु॒प्रेय॑तुराञ्जन।  
-तौ त्वा॑नु॒गत्य॑ दू॒रं भो॒गाय॒ पुन॒रोह॑तुः ॥
+मित्र᳓श्च त्वा व᳓रुणश्चानुप्रे᳓यतुराञ्जन।  
+तौ᳓ त्वानुग᳓त्य दूरं᳓ भोगा᳓य पु᳓नरो᳓हतुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/044_bhaiShajyam/10_mitrashcha_tvA.md">

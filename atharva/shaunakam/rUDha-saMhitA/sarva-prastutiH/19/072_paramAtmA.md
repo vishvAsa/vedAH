@@ -37,8 +37,8 @@ A sacrificial formula
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्मा॒त्कोशा॑दु॒दभ॑राम॒ वेदं॒ तस्मि॑न्न॒न्तरव॑ दध्म एनम्।  
-कृ॒तमि॒ष्टं ब्रह्म॑णो वी॒र्ये᳡ण॒ तेन॑ मा देवा॒स्तप॑सावते॒ह ॥
+य᳓स्मात्को᳓शादुद᳓भराम वे᳓दं त᳓स्मिन्नन्त᳓र᳓व दध्म एनम्।  
+कृत᳓मिष्टं᳓ ब्र᳓ह्मणो वीर्ये᳙ण ते᳓न मा देवास्त᳓पसावतेह᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">

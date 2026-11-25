@@ -33,8 +33,8 @@ A charm to make a poisoned arrow harmless
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/01_brAhmaNo_jajne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रा॑ह्म॒णो ज॑ज्ञे प्रथ॒मो दश॑शीर्षो॒ दशा॑स्यः।  
-स सोमं॑ प्रथ॒मः प॑पौ॒ स च॑कारार॒सं वि॒षम् ॥
+ब्रा᳙ह्मणो᳓ जज्ञे प्रथमो᳓ द᳓शशीर्षो द᳓शास्यः।  
+स᳓ सो᳓मं प्रथमः᳓ पपौ स᳓ चकारारसं᳓ विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/006_viShaghnam/01_brAhmaNo_jajne.md">
@@ -99,8 +99,8 @@ The Brahman first was brought to life ten-headed and with faces ten. First drink
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/02_yAvatI_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याव॑ती॒ द्यावा॑पृथि॒वी व॑रि॒म्णा याव॑त्स॒प्त सिन्ध॑वो वितष्ठि॒रे।  
-वाचं॑ वि॒षस्य॒ दूष॑णीं॒ तामि॒तो निर॑वादिषम् ॥
+या᳓वती द्या᳓वापृथिवी᳓ वरिम्णा᳓ या᳓वत्सप्त᳓ सि᳓न्धवो वितष्ठिरे᳓।  
+वा᳓चं विष᳓स्य दू᳓षणीं ता᳓मितो᳓ नि᳓रवादिषम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/006_viShaghnam/02_yAvatI_dyAvApRthivI.md">
@@ -171,8 +171,8 @@ Far as the heavens and earth are spread in compass, far as the Seven Rivers are 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/03_suparNastvA_garutmAnviSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॑प॒र्णस्त्वा॑ ग॒रुत्मा॒न्विष॑ प्रथ॒ममा॑वयत्।  
-नामी॑मदो॒ नारू॑रुप उ॒तास्मा॑ अभवः पि॒तुः ॥
+सु᳙पर्ण᳓स्त्वा गरु᳓त्मान्वि᳓ष प्रथम᳓मावयत्।  
+ना᳓मीमदो ना᳓रूरुप उता᳓स्मा अभवः पितुः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/006_viShaghnam/03_suparNastvA_garutmAnviSha.md">
@@ -244,8 +244,8 @@ The strong-winged Bird Garutman first of all, O Poison fed on thee: Thou didst n
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/04_yasta_AsyatpanchAngurirvakrAchchidadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्त॒ आस्य॒त्पञ्चा॑ङ्गुरिर्व॒क्राच्चि॒दधि॒ धन्व॑नः।  
-अ॑पस्क॒म्भस्य॑ श॒ल्यान्निर॑वोचम॒हं वि॒षम् ॥
+य᳓स्त आ᳓स्यत्प᳓ञ्चाङ्गुरिर्वक्रा᳓च्चिद᳓धि ध᳓न्वनः।  
+अ᳙पस्कम्भ᳓स्य शल्या᳓न्नि᳓रवोचमहं᳓ विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/006_viShaghnam/04_yasta_AsyatpanchAngurirvakrAchchidadhi.md">
@@ -318,8 +318,8 @@ Whoever with five fingers hath discharged thee from the crooked bow, I from the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/05_shalyAdviShaM_niravocham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒ल्याद्वि॒षं निर॑वोचं॒ प्राञ्ज॑नादु॒त प॑र्ण॒धेः।  
-अ॑पा॒ष्ठाच्छृङ्गा॒त्कुल्म॑ला॒न्निर॑वोचम॒हं वि॒षम् ॥
+शल्या᳓द्विषं᳓ नि᳓रवोचं प्रा᳓ञ्जनादुत᳓ पर्णधेः᳓।  
+अ᳙पाष्ठा᳓च्छृ᳓ङ्गात्कु᳓ल्मलान्नि᳓रवोचमहं᳓ विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/006_viShaghnam/05_shalyAdviShaM_niravocham.md">
@@ -385,8 +385,8 @@ The poison have I charmed away from shaft, cement, and feather- ed end; Yea, fro
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/06_arasasta_iSho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑र॒सस्त॑ इषो श॒ल्योऽथो॑ ते अर॒सं वि॒षम्।  
-उ॒तार॒सस्य॑ वृ॒क्षस्य॒ धनु॑ष्टे अरसार॒सम् ॥
+अ᳙रस᳓स्त इषो शल्यो᳓ऽथो ते अरसं᳓ विष᳓म्।  
+उता᳓रस᳓स्य वृक्ष᳓स्य ध᳓नुष्टे अरसारस᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/006_viShaghnam/06_arasasta_iSho.md">
@@ -448,8 +448,8 @@ Feeble, O Arrow, is thy shaft, thy poison, too, hath lost its strength. Made of 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/07_ye_apIShanye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये अपी॑ष॒न्ये अदि॑ह॒न्य आस्य॒न्ये अ॒वासृ॑जन्।  
-सर्वे॑ ते॒ वध्र॑यः कृ॒ता वध्रि॑र्विषगि॒रिः कृ॒तः ॥
+ये᳓ अ᳓पीषन्ये᳓ अ᳓दिहन्य᳓ आ᳓स्यन्ये᳓ अवा᳓सृजन्।  
+स᳓र्वे ते व᳓ध्रयः कृता᳓ व᳓ध्रिर्विषगिरिः᳓ कृतः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/006_viShaghnam/07_ye_apIShanye.md">
@@ -515,8 +515,8 @@ The men who brayed it, smeared it on, they who discharged it, sent it forth, All
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/08_vadhrayaste_khanitAro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वध्र॑यस्ते खनि॒तारो॒ वध्रि॒स्त्वम॑स्योषधे।  
-वध्रिः॒ स पर्व॑तो गि॒रिर्यतो॑ जा॒तमि॒दं वि॒षम् ॥
+व᳓ध्रयस्ते खनिता᳓रो व᳓ध्रिस्त्व᳓मस्योषधे।  
+व᳓ध्रिः स᳓ प᳓र्वतो गिरि᳓र्य᳓तो जात᳓मिदं᳓ विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/006_viShaghnam/08_vadhrayaste_khanitAro.md">

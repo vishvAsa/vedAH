@@ -44,7 +44,7 @@ A glorification of the typically bull and cow
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/01_prajApatishcha_parameShThI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाप॑तिश्च परमे॒ष्ठी च॒ शृङ्गे॒ इन्द्रः॒ शिरो॑ अ॒ग्निर्ल॒लाटं॑ य॒मः कृका॑टम् ॥
+प्रजा᳓पतिश्च परमेष्ठी᳓ च शृ᳓ङ्गे इ᳓न्द्रः शि᳓रो अग्नि᳓र्लला᳓टं यमः᳓ कृ᳓काटम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/01_prajApatishcha_parameShThI.md">
@@ -106,7 +106,7 @@ Prajapati and Parameshthin are the two horns, Indra is the head, Agni the forehe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/02_somo_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमो॒ राजा॑ म॒स्तिष्को॒ द्यौरु॑त्तरह॒नुः पृ॑थि॒व्य᳡धरह॒नुः ॥
+सो᳓मो रा᳓जा मस्ति᳓ष्को द्यौ᳓रुत्तरहनुः᳓ पृथिव्य᳙धरहनुः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/02_somo_rAjA.md">
@@ -167,7 +167,7 @@ King Soma is the brain, Sky is the upper jaw, Earth is the lower jaw.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/03_vidyujjihvA_maruto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्युज्जि॒ह्वा म॒रुतो॒ दन्ता॑ रे॒वती॑र्ग्री॒वाः कृत्ति॑का स्क॒न्धा घ॒र्मो वहः॑ ॥
+विद्यु᳓ज्जिह्वा᳓ मरु᳓तो द᳓न्ता रेव᳓तीर्ग्रीवाः᳓ कृ᳓त्तिका स्कन्धा᳓ घर्मो᳓ व᳓हः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/03_vidyujjihvA_maruto.md">
@@ -236,7 +236,7 @@ Lightning is the tongue, the Maruts are the teeth, Revati is the neck, the Kritt
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/04_vishvaM_vAyuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्वं॑ वा॒युः स्व॒र्गो लो॒कः कृ॑ष्ण॒द्रं वि॒धर॑णी निवे॒ष्यः ॥
+वि᳓श्वं वायुः᳓ स्वर्गो᳓ लोकः᳓ कृष्णद्रं᳓ विध᳓रणी निवेष्यः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/04_vishvaM_vAyuH.md">
@@ -301,7 +301,7 @@ His universe is Vayu, Svarga is his world, Krishpadram is the tendons and Verteb
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/05_shyenaH_kroDontarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्ये॒नः क्रो॒डो॒३॒॑न्तरि॑क्षं पाज॒स्यं१॒॑ बृह॒स्पतिः॑ क॒कुद्बृ॑ह॒तीः कीक॑साः ॥
+श्येनः᳓ क्रोडो᳙न्त᳓रिक्षं पाजस्यं᳙ बृ᳓हस्प᳓तिः ककु᳓द्बृहतीः᳓ की᳓कसाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/05_shyenaH_kroDontarixam.md">
@@ -364,7 +364,7 @@ The Syena ceremony is the breast, Air is the region of the belly,. Brihaspati is
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/06_devAnAM_patnIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वानां॒ पत्नीः॑ पृ॒ष्टय॑ उप॒सदः॒ पर्श॑वः ॥
+देवा᳓नां प᳓त्नीः पृष्ट᳓य उपस᳓दः प᳓र्शवः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/06_devAnAM_patnIH.md">
@@ -424,7 +424,7 @@ The consorts of the Gods are the ribs, the attendants are ribs.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/07_mitrashcha_varuNashchAMsau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मि॒त्रश्च॒ वरु॑ण॒श्चांसौ॒ त्वष्टा॑ चार्य॒मा च॑ दो॒षणी॑ महादे॒वो बा॒हू ॥
+मित्र᳓श्च व᳓रुणश्चां᳓सौ त्व᳓ष्टा चार्यमा᳓ च दोष᳓णी महादेवो᳓ बाहू᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/07_mitrashcha_varuNashchAMsau.md">
@@ -485,7 +485,7 @@ Mitra and Varuna are the shoulder-blades. Tvashtar and Arya- man the fore-arms, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/08_indrANI_bhasadvAyuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॑न्द्रा॒णी भ॒सद्वा॒युः पुच्छं॒ पव॑मानो॒ बालाः॑ ॥
+इ᳙न्द्राणी᳓ भस᳓द्वायुः᳓ पु᳓च्छं प᳓वमानो बा᳓लाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/08_indrANI_bhasadvAyuH.md">
@@ -547,7 +547,7 @@ Indrani is the hinder parts, Vayu the tail, Pavamana the hair.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/09_brahma_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑ च क्ष॒त्रं च॒ श्रोणी॒ बल॑मू॒रू ॥
+ब्र᳓ह्म च क्षत्रं᳓ च श्रो᳓णी ब᳓लमूरू᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/09_brahma_cha.md">
@@ -606,7 +606,7 @@ Priestly rank and princely power are the hips, and strength is. the thigh.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/10_dhAtA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धा॒ता च॑ सवि॒ता चा॑ष्ठी॒वन्तौ॒ जङ्घा॑ गन्ध॒र्वा अ॑प्स॒रसः॒ कुष्ठि॑का॒ अदि॑तिः श॒फा ॥
+धाता᳓ च सविता᳓ चाष्ठीव᳓न्तौ ज᳓ङ्घा गन्धर्वा᳓ अप्सर᳓सः कु᳓ष्ठिका अ᳓दितिः शफा᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/10_dhAtA_cha.md">
@@ -668,7 +668,7 @@ Dhatar and Savitar are the two knee-bones, the Gandharvas are the legs the Apsar
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/11_cheto_hRdayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-चेतो॒ हृद॑यं॒ यकृ॑न्मे॒धा व्र॒तं पु॑री॒तत् ॥
+चे᳓तो हृ᳓दयं य᳓कृन्मेधा᳓ व्रतं᳓ पुरीत᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/11_cheto_hRdayam.md">
@@ -729,7 +729,7 @@ Thought is the heart, intelligence is the liver, law the pericar- dium.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/12_xutkuxirirA_vaniShThuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्षुत्कु॒क्षिरिरा॑ वनि॒ष्ठुः पर्व॑ताः प्ला॒शयः॑ ॥
+क्षु᳓त्कुक्षि᳓रि᳓रा वनिष्ठुः᳓ प᳓र्वताः प्लाश᳓यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/12_xutkuxirirA_vaniShThuH.md">
@@ -790,7 +790,7 @@ Hunger is the belly, refreshing drink is the rectum, mountains. are the inward p
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/13_krodho_vRkkau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्रोधो॑ वृ॒क्कौ म॒न्युरा॒ण्डौ प्र॒जा शेपः॑ ॥
+क्रो᳓धो वृक्कौ᳓ मन्यु᳓राण्डौ᳓ प्रजा᳓ शे᳓पः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/13_krodho_vRkkau.md">
@@ -849,7 +849,7 @@ Wrath is the kidneys, anger the testes, offspring the generative organ.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/14_nadI_sUtrI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न॒दी सू॒त्री व॒र्षस्य॒ पत॑य॒ स्तना॑ स्तनयि॒त्नुरूधः॑ ॥
+नदी᳓ सूत्री᳓ वर्ष᳓स्य प᳓तय स्त᳓ना स्तनयित्नु᳓रू᳓धः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/14_nadI_sUtrI.md">
@@ -910,7 +910,7 @@ The river is the womb, the Lords of the Rain are the breasts,. the thunder is th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/15_vishvavyachAshcharmauShadhayo_lomAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒श्वव्य॑चा॒श्चर्मौष॑धयो॒ लोमा॑नि॒ नक्ष॑त्राणि रू॒पम् ॥
+विश्व᳓व्यचाश्च᳓र्मौ᳓षधयो लो᳓मानि न᳓क्षत्राणि रूप᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/15_vishvavyachAshcharmauShadhayo_lomAni.md">
@@ -970,7 +970,7 @@ The All-embracing (Aditi) is the hide, the herbs are her hair,. and the Lunar Ma
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/16_devajanA_gudA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॑वज॒ना गुदा॑ मनु॒ष्या᳡ आ॒न्त्राण्य॒त्रा उ॒दर॑म् ॥
+दे᳙वजना᳓ गु᳓दा मनुष्या᳙ आन्त्रा᳓ण्यत्रा᳓ उद᳓रम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/16_devajanA_gudA.md">
@@ -1032,7 +1032,7 @@ The hosts of Gods are her entrails, man are her bowels, and demons her abdomen.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/17_raxAMsi_lohitamitarajanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रक्षां॑सि॒ लोहि॑तमितरज॒ना ऊब॑ध्यम् ॥
+र᳓क्षांसि लो᳓हितमितरजना᳓ ऊ᳓बध्यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/17_raxAMsi_lohitamitarajanA.md">
@@ -1091,7 +1091,7 @@ Rakshasas are the blood, the Other Folk are the contents of the Stomach.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/18_abhraM_pIbo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भ्रं पीबो॑ म॒ज्जा नि॒धन॑म् ॥
+अभ्रं᳓ पी᳓बो मज्जा᳓ निध᳓नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/18_abhraM_pIbo.md">
@@ -1151,7 +1151,7 @@ The rain-cloud is her fat, her resting-place her marrow.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/19_agnirAsIna_utthito-shvinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निरासी॑न॒ उत्थि॑तो॒ऽश्विना॑ ॥
+अग्नि᳓रा᳓सीन उ᳓त्थितोऽश्वि᳓ना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/19_agnirAsIna_utthito-shvinA.md">
@@ -1211,7 +1211,7 @@ Sitting he is Agni, when he hath stood up he is the Asvins.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/20_indraH_prA~NtiShThandaxiNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रः॒ प्राङ्तिष्ठ॑न्दक्षि॒णा तिष्ठ॑न्य॒मः ॥
+इ᳓न्द्रः प्रा᳓ङ्ति᳓ष्ठन्दक्षिणा᳓ ति᳓ष्ठन्यमः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/20_indraH_prA~NtiShThandaxiNA.md">
@@ -1269,7 +1269,7 @@ Standing east-wards he is Indra, standing southwards, Yama.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/21_pratya~NtiShThandhAtoda~NtiShThantsavitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒त्यङ्तिष्ठ॑न्धा॒तोद॒ङ्तिष्ठ॑न्त्सवि॒ता ॥
+प्रत्य᳓ङ्ति᳓ष्ठन्धातो᳓दङ्ति᳓ष्ठन्त्सविता᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/21_pratya~NtiShThandhAtoda~NtiShThantsavitA.md">
@@ -1329,7 +1329,7 @@ Standing westwards he is Dhatar, standing northwards Savitar.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/22_tRNAni_prAptaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तृणा॑नि॒ प्राप्तः॒ सोमो॒ राजा॑ ॥
+तृ᳓णानि प्रा᳓प्तः सो᳓मो रा᳓जा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/22_tRNAni_prAptaH.md">
@@ -1389,7 +1389,7 @@ When he hath got his grass he is King Soma.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/23_mitra_IxamANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मि॒त्र ईक्ष॑माण॒ आवृ॑त्त आन॒न्दः ॥
+मित्र᳓ ई᳓क्षमाण आ᳓वृत्त आनन्दः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/23_mitra_IxamANa.md">
@@ -1450,7 +1450,7 @@ He is Mitra when he looks about him, and when he hath turned round he is joy.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/24_yujyamAno_vaishvadevo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यु॒ज्यमा॑नो वैश्वदे॒वो यु॒क्तः प्र॒जाप॑ति॒र्विमु॑क्तः॒ सर्व॑म् ॥
+युज्य᳓मानो वैश्वदेवो᳓ युक्तः᳓ प्रजा᳓पतिर्वि᳓मुक्तः स᳓र्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/24_yujyamAno_vaishvadevo.md">
@@ -1510,7 +1510,7 @@ When he is yoking he belongs to the All-Gods, when yoked he is Prajapati, when u
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/25_etadvai_vishvarUpam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तद्वै वि॒श्वरू॑पं॒ सर्व॑रूपं गोरू॒पम् ॥
+एत᳓द्वै᳓ विश्व᳓रूपं स᳓र्वरूपं गोरूप᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/25_etadvai_vishvarUpam.md">
@@ -1570,7 +1570,7 @@ This verily is omniform, wearing all forms, bovine-formed.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/26_upainaM_vishvarUpAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उपै॑नं वि॒श्वरू॑पाः॒ सर्व॑रूपाः प॒शव॑स्तिष्ठन्ति॒ य ए॒वं वेद॑ ॥
+उ᳓पैनं विश्व᳓रूपाः स᳓र्वरूपाः पश᳓वस्तिष्ठन्ति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/26_upainaM_vishvarUpAH.md">

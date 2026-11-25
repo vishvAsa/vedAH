@@ -33,8 +33,8 @@ Translated: Griffith, i. 297.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/01_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत ॥
+अ᳙श्वत्थो᳓ देवस᳓दनस्तृती᳓यस्यामितो᳓ दिवि᳓।  
+त᳓त्रामृ᳓तस्य च᳓क्षणं देवाः᳓ कु᳓ष्ठमवन्वत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/095_kuShThauShadhiH/01_ashvattho_devasadanastRtIyasyAmito.md">
@@ -94,8 +94,8 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/02_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
-तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥
+हि᳙रण्य᳓यी नौ᳓रचरद्धि᳓रण्यबन्धना दिवि᳓।  
+त᳓त्रामृ᳓तस्य पु᳓ष्पं देवाः᳓ कु᳓ष्ठमवन्वत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/095_kuShThauShadhiH/02_hiraNyayI_nauracharaddhiraNyabandhanA.md">
@@ -160,8 +160,8 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold. T
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/03_garbho_asyoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गर्भो॑ अ॒स्योष॑धीनां॒ गर्भो॑ हि॒मव॑तामु॒त।  
-गर्भो॒ विश्व॑स्य भू॒तस्ये॒मं मे॑ अग॒दं कृ॑धि ॥
+ग᳓र्भो अस्यो᳓षधीनां ग᳓र्भो हिम᳓वतामुत᳓।  
+ग᳓र्भो वि᳓श्वस्य भूत᳓स्येमं᳓ मे अगदं᳓ कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/095_kuShThauShadhiH/03_garbho_asyoShadhInAm.md">

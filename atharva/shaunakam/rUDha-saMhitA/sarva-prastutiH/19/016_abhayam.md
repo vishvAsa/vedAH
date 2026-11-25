@@ -37,8 +37,8 @@ A prayer for security from danger
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/016_abhayam/01_asapatnaM_purastAtpashchAnno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑सप॒त्नं पु॒रस्ता॑त्प॒श्चान्नो॒ अभ॑यं कृतम्।  
-स॑वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॑ शची॒पतिः॑ ॥
+अ᳙सपत्नं᳓ पुर᳓स्तात्पश्चा᳓न्नो अ᳓भयं कृतम्।  
+स᳙विता᳓ मा दक्षिणत᳓ उत्तरा᳓न्मा शचीप᳓तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/016_abhayam/01_asapatnaM_purastAtpashchAnno.md">
@@ -109,9 +109,9 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/016_abhayam/02_divo_mAdityA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वो मा॑दि॒त्या र॑क्षन्तु॒ भूम्या॑ रक्षन्त्व॒ग्नयः॑।  
-इ॑न्द्रा॒ग्नी र॑क्षतां मा पु॒रस्ता॑द॒श्विना॑व॒भितः॒ शर्म॑ यच्छताम्।  
-ति॑र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥
+दिवो᳓ मादित्या᳓ रक्षन्तु भू᳓म्या रक्षन्त्वग्न᳓यः।  
+इ᳙न्द्राग्नी᳓ रक्षतां मा पुर᳓स्तादश्वि᳓नावभि᳓तः श᳓र्म यच्छताम्।  
+ति᳙रश्ची᳓नघ्न्या᳓ रक्षतु जात᳓वेदा भूतकृ᳓तो मे सर्व᳓तः सन्तु व᳓र्म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/016_abhayam/02_divo_mAdityA.md">

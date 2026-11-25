@@ -33,8 +33,8 @@ A charm against the magic arts of fiends
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शेर॑भक॒ शेर॑भ॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+शे᳓रभक शे᳓रभ पु᳓नर्वो यन्तु यात᳓वः पु᳓नर्हेतिः᳓ किमीदिनः।  
+य᳓स्य स्थ᳓ त᳓मत्त यो᳓ वः प्रा᳓हैत्त᳓मत्त स्वा᳓ मांसा᳓न्यत्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
@@ -106,8 +106,8 @@ O Serabhaka, Serabha, back fall your arts of witchery! Back, Kimidins! let your 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शेवृ॑धक॒ शेवृ॑ध॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+शे᳓वृधक शे᳓वृध पु᳓नर्वो यन्तु यात᳓वः पु᳓नर्हेतिः᳓ किमीदिनः।  
+य᳓स्य स्थ᳓ त᳓मत्त यो᳓ वः प्रा᳓हैत्त᳓मत्त स्वा᳓ मांसा᳓न्यत्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
@@ -166,8 +166,8 @@ Srvridhaka, O Sevridha, back fall your arts of witchery! Back, Kimidins! let you
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म्रोकानु॑म्रोक॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+म्रो᳓का᳓नुम्रोक पु᳓नर्वो यन्तु यात᳓वः पु᳓नर्हेतिः᳓ किमीदिनः।  
+य᳓स्य स्थ᳓ त᳓मत्त यो᳓ वः प्रा᳓हैत्त᳓मत्त स्वा᳓ मांसा᳓न्यत्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
@@ -226,8 +226,8 @@ O Mroka, Anumroka, back return your arts of witchery! Back, Kimidins! let your w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्पानु॑सर्प॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+स᳓र्पा᳓नुसर्प पु᳓नर्वो यन्तु यात᳓वः पु᳓नर्हेतिः᳓ किमीदिनः।  
+य᳓स्य स्थ᳓ त᳓मत्त यो᳓ वः प्रा᳓हैत्त᳓मत्त स्वा᳓ मांसा᳓न्यत्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
@@ -286,8 +286,8 @@ O Sarpa, Anusarpa, back return your arts of witchery! Back, 'i Kimidins! let you
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जूर्णि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+जू᳓र्णि पु᳓नर्वो यन्तु यात᳓वः पु᳓नर्हेतिः᳓ किमीदिनीः।  
+य᳓स्य स्थ᳓ त᳓मत्त यो᳓ वः प्रा᳓हैत्त᳓मत्त स्वा᳓ मांसा᳓न्यत्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
@@ -347,8 +347,8 @@ Back fall your witcheries, Jurni! back your weapon, ye Kimidinis, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/06_upabde_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑ब्दे॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+उ᳓पब्दे पु᳓नर्वो यन्तु यात᳓वः पु᳓नर्हेतिः᳓ किमीदिनीः।  
+य᳓स्य स्थ᳓ त᳓मत्त यो᳓ वः प्रा᳓हैत्त᳓मत्त स्वा᳓ मांसा᳓न्यत्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/06_upabde_punarvo.md">
@@ -407,8 +407,8 @@ Back fall your spells, Upabdi! back your weapon, ye Kimidinis, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/07_arjuni_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अर्जु॑नि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+अ᳓र्जुनि पु᳓नर्वो यन्तु यात᳓वः पु᳓नर्हेतिः᳓ किमीदिनीः।  
+य᳓स्य स्थ᳓ त᳓मत्त यो᳓ वः प्रा᳓हैत्त᳓मत्त स्वा᳓ मांसा᳓न्यत्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/07_arjuni_punarvo.md">
@@ -467,8 +467,8 @@ Back fall your witchcrafts, Arjuni! your weapon, ye Kimidinis, etc,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/08_bharUji_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भरू॑जि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+भ᳓रूजि पु᳓नर्वो यन्तु यात᳓वः पु᳓नर्हेतिः᳓ किमीदिनीः।  
+य᳓स्य स्थ᳓ त᳓मत्त यो᳓ वः प्रा᳓हैत्त᳓मत्त स्वा᳓ मांसा᳓न्यत्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/08_bharUji_punarvo.md">

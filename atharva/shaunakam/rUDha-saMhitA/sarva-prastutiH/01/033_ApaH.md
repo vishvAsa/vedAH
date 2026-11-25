@@ -37,10 +37,10 @@ To the Waters, for health and happiness
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 
-हिर॑ण्य-वर्णा॒श् शुच॑यः पाव॒काः  
-प्रच॑क्रमुर् ‌हि॒त्वा ऽव॒द्यम् आपः॑ ।  
-श॒तं प॒वित्रा॒ वित॑ता॒ ह्य् आ॑सु॒ +++(अप्सु)+++  
-ताभि॑ष् ट्वा दे॒वस् स॑वि॒ता पु॑नातु ।+++(र५)+++ 
+हि᳓रण्य-वर्णाश् शु᳓चयः पावकाः᳓  
+प्र᳓चक्रमुर् ‌हित्वा᳓ ऽवद्य᳓म् आ᳓पः ।  
+शतं᳓ पवि᳓त्रा वि᳓तता ह्य् आ᳙सु +++(अप्सु)+++  
+ता᳓भिष् ट्वा देव᳓स् सविता᳓ पुनातु ।+++(र५)+++ 
 
 
 </details>
@@ -109,8 +109,10 @@ May they, the golden-hued, the bright, the splendid, they wherein Savitar was bo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यासां॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑ सत्यानृ॒ते अ॑व॒पश्य॒ञ्जना॑नाम्।  
-या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥
+या᳓साँ रा᳓जा व᳓रुणो **या᳓ति** म᳓द्ध्ये  
+सत्यानृते᳓ **अवप᳓श्यञ्** ज᳓नानाम् ।  
+या᳓ अग्निं᳓ ग᳓र्भं **दधिरे᳓** सुव᳓र्णास्  
+ता᳓स् त आ᳓पश् शँ᳓ स्योना᳓ **भवन्तु** ।+++(५)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/033_ApaH/02_yAsAM_rAjA.md">
@@ -189,8 +191,8 @@ They in the midst whereof King Varuna moveth, viewing men's righteous and unrigh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/03_yAsAM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यासां॑ दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒क्षं या अ॒न्तरि॑क्षे बहु॒धा भ॑वन्ति।  
-या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥
+या᳓सां देवा᳓ दिवि᳓ कृण्व᳓न्ति भक्षं᳓ या᳓ अन्त᳓रिक्षे बहुधा᳓ भवन्ति।  
+या᳓ अग्निं᳓ ग᳓र्भं दधिरे᳓ सुव᳓र्णास्ता᳓ न आ᳓पः शं᳓ स्योना᳓ भवन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/033_ApaH/03_yAsAM_devA.md">
@@ -255,8 +257,8 @@ Whom the Gods make their beverage in heaven, they who wax manifold in air's mid-
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/04_shivena_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि॒वेन॑ मा॒ चक्षु॑षा पश्यतापः शि॒वया॑ त॒न्वोप॑ स्पृशत॒ त्वचं॑ मे।  
-घृ॑त॒श्चुतः॒ शुच॑यो॒ याः पा॑व॒कास्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥
+शिवे᳓न मा च᳓क्षुषा पश्यतापः शिव᳓या तन्वो᳓प स्पृशत त्व᳓चं मे।  
+घृ᳙तश्चु᳓तः शु᳓चयो याः᳓ पावका᳓स्ता᳓ न आ᳓पः शं᳓ स्योना᳓ भवन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/033_ApaH/04_shivena_mA.md">

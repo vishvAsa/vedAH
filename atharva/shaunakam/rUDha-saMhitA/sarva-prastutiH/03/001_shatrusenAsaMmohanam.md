@@ -37,8 +37,8 @@ A prayer or charm for the defeat and destruction of enemies in battle
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUnpratyetu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निर्नः॒ शत्रू॒न्प्रत्ये॑तु वि॒द्वान्प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्।  
-स सेनां॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥
+अग्नि᳓र्नः श᳓त्रून्प्र᳓त्येतु विद्वा᳓न्प्रतिद᳓हन्नभि᳓शस्तिम᳓रातिम्।  
+स᳓ से᳓नां मोहयतु प᳓रेषां नि᳓र्हस्तांश्च कृणवज्जात᳓वेदाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUnpratyetu.md">
@@ -104,8 +104,8 @@ Let the wise Agni go against our foemen, burning against ill-will and imprecatio
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यू॒यमु॒ग्रा म॑रुत ई॒दृशे॑ स्था॒भि प्रेत॑ मृ॒णत॒ सह॑ध्वम्।  
-अमी॑मृण॒न्वस॑वो नाथि॒ता इ॒मे अ॒ग्निर्ह्ये॑षां दू॒तः प्र॒त्येतु॑ वि॒द्वान् ॥
+यूय᳓मुग्रा᳓ मरुत ईदृ᳓शे स्थाभि᳓ प्रे᳓त मृण᳓त स᳓हध्वम्।  
+अ᳓मीमृणन्व᳓सवो नाथिता᳓ इमे᳓ अग्नि᳓र्ह्येषां दूतः᳓ प्रत्ये᳓तु विद्वा᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
@@ -187,8 +187,8 @@ Mighty are ye for such a deed, O Maruts. Go forward, overcome them and destroy t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAnChatrUyatImabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑मित्रसे॒नां म॑घवन्न॒स्मान्छ॑त्रूय॒तीम॒भि।  
-यु॒वं तानि॑न्द्र वृत्रहन्न॒ग्निश्च॑ दहतं॒ प्रति॑ ॥
+अ᳙मित्रसेनां᳓ मघवन्नस्मा᳓न्छत्रूयती᳓मभि᳓।  
+युवं᳓ ता᳓निन्द्र वृत्रहन्नग्नि᳓श्च दहतं प्र᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAnChatrUyatImabhi.md">
@@ -255,8 +255,8 @@ O Maghavan, O Indra, thou who slayest fiends, and, Agni, thou, Burn, both of you
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रसू॑त इन्द्र प्र॒वता॒ हरि॑भ्यां॒ प्र ते॒ वज्रः॑ प्रमृ॒णन्ने॑तु॒ शत्रू॑न्।  
-ज॒हि प्र॒तीचो॑ अ॒नूचः॒ परा॑चो॒ विष्व॑क्स॒त्यं कृ॑णुहि चि॒त्तमे॑षाम् ॥
+प्र᳓सूत इन्द्र प्रव᳓ता ह᳓रिभ्यां प्र᳓ ते व᳓ज्रः प्रमृण᳓न्नेतु श᳓त्रून्।  
+जहि᳓ प्रती᳓चो अनू᳓चः प᳓राचो वि᳓ष्वक्सत्यं᳓ कृणुहि चित्त᳓मेषाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
@@ -331,8 +331,8 @@ Shot down the slope, with thy two tawny coursers, forth go thy bolt, destroying 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/05_indra_senAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॒ सेनां॑ मोहया॒मित्रा॑णाम्।  
-अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान्विषू॑चो॒ वि ना॑शय ॥
+इ᳓न्द्र से᳓नां मोहयामि᳓त्राणाम्।  
+अग्ने᳓र्वा᳓तस्य ध्रा᳓ज्या ता᳓न्वि᳓षूचो वि᳓ नाशय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/05_indra_senAm.md">
@@ -397,8 +397,8 @@ Indra, bewilder thou the foemen's army. With Agni's, Vata's furious rush drive t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/06_indraH_senAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रः॒ सेनां॑ मोहयतु म॒रुतो॑ घ्न॒न्त्वोज॑सा।  
-चक्षूं॑ष्य॒ग्निरा द॑त्तां॒ पुन॑रेतु॒ परा॑जिता ॥
+इ᳓न्द्रः से᳓नां मोहयतु मरु᳓तो घ्नन्त्वो᳓जसा।  
+च᳓क्षूंष्यग्नि᳓रा᳓ दत्तां पु᳓नरेतु प᳓राजिता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/06_indraH_senAm.md">

@@ -37,8 +37,8 @@ A prayer to Pushan for protection and the recovery of lost property
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/01_prapathe_pathAmajaniShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रप॑थे प॒थाम॑जनिष्ट पू॒षा प्रप॑थे दि॒वः प्रप॑थे पृथि॒व्याः।  
-उ॒भे अ॒भि प्रि॒यत॑मे स॒धस्थे॒ आ च॒ परा॑ च चरति प्रजा॒नन् ॥
+प्र᳓पथे पथा᳓मजनिष्ट पूषा᳓ प्र᳓पथे दिवः᳓ प्र᳓पथे पृथिव्याः᳓।  
+उभे᳓ अभि᳓ प्रिय᳓तमे सध᳓स्थे आ᳓ च प᳓रा च चरति प्रजान᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/01_prapathe_pathAmajaniShTa.md">
@@ -101,8 +101,8 @@ Pushan was born to move on distant pathways, on roads remote from earth, remote 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/02_pUShemA_AshA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पू॒षेमा आशा॒ अनु॑ वेद॒ सर्वाः॒ सो अ॒स्माँ अभ॑यतमेन नेषत्।  
-स्व॑स्ति॒दा आघृ॑णिः॒ सर्व॑वी॒रोऽप्र॑युच्छन्पु॒र ए॑तु प्रजा॒नन् ॥
+पूषे᳓मा᳓ आ᳓शा अ᳓नु वेद स᳓र्वाः सो᳓ अस्माँ᳓ अ᳓भयतमेन नेषत्।  
+स्व᳙स्तिदा᳓ आ᳓घृणिः स᳓र्ववीरो᳓ऽप्रयुच्छन्पुर᳓ एतु प्रजान᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/02_pUShemA_AshA.md">
@@ -166,8 +166,8 @@ Pushan knows all these realms: may he conduct us by ways that are most free from
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/03_pUShantava_vrate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पूष॒न्तव॑ व्र॒ते व॒यं न रि॑ष्येम क॒दा च॒न।  
-स्तो॒तार॑स्त इ॒ह स्म॑सि ॥
+पू᳓षन्त᳓व व्रते᳓ वयं᳓ न᳓ रिष्येम कदा᳓ चन᳓।  
+स्तोता᳓रस्त इह᳓ स्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/03_pUShantava_vrate.md">
@@ -231,8 +231,8 @@ We are thy praisers here, O Pushan: never let us be injured under thy protection
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/04_pari_pUShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ पू॒षा प॒रस्ता॒द्धस्तं॑ दधातु॒ दक्षि॑णम्।  
-पुन॑र्नो न॒ष्टमाज॑तु॒ सं न॒ष्टेन॑ गमेमहि ॥
+प᳓रि पूषा᳓ पर᳓स्ताद्ध᳓स्तं दधातु द᳓क्षिणम्।  
+पु᳓नर्नो नष्ट᳓मा᳓जतु सं᳓ नष्टे᳓न गमेमहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/04_pari_pUShA.md">

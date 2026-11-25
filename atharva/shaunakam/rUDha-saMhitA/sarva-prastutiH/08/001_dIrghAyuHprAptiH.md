@@ -33,8 +33,8 @@ A charm to recover a dying man
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/01_antakAya_mRtyave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अन्त॑काय मृ॒त्यवे॒ नमः॑ प्रा॒णा अ॑पा॒ना इ॒ह ते॑ रमन्ताम्।  
-इ॒हायम॑स्तु॒ पुरु॑षः स॒हासु॑ना॒ सूर्य॑स्य भा॒गे अ॒मृत॑स्य लो॒के ॥
+अ᳓न्तकाय मृत्य᳓वे न᳓मः प्राणा᳓ अपाना᳓ इह᳓ ते रमन्ताम्।  
+इहा᳓य᳓मस्तु पु᳓रुषः सहा᳓सुना सू᳓र्यस्य भागे᳓ अमृ᳓तस्य लोके᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/01_antakAya_mRtyave.md">
@@ -96,8 +96,8 @@ Homage to Death the Ender! May thy breathings, inward and outward, still remain 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/02_udenaM_bhago.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदे॑नं॒ भगो॑ अग्रभी॒दुदे॑नं॒ सोमो॑ अंशु॒मान्।  
-उदे॑नं म॒रुतो॑ दे॒वा उदि॑न्द्रा॒ग्नी स्व॒स्तये॑ ॥
+उ᳓देनं भ᳓गो अग्रभीदु᳓देनं सो᳓मो अंशुमा᳓न्।  
+उ᳓देनं मरु᳓तो देवा᳓ उ᳓दिन्द्राग्नी᳓ स्वस्त᳓ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/02_udenaM_bhago.md">
@@ -160,8 +160,8 @@ Bhaga hath lifted up this man, and Soma with his filaments, Indra and Agni, and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/03_iha_te-suriha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒ह तेऽसु॑रि॒ह प्रा॒ण इ॒हायु॑रि॒ह ते॒ मनः॑।  
-उत्त्वा॒ निरृ॑त्याः॒ पाशे॑भ्यो॒ दैव्या॑ व॒चा भ॑रामसि ॥
+इह᳓ ते᳓ऽसुरिह᳓ प्राण᳓ इहा᳓युरिह᳓ ते म᳓नः।  
+उ᳓त्त्वा नि᳓रृत्याः पा᳓शेभ्यो दै᳓व्या वचा᳓ भरामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/03_iha_te-suriha.md">
@@ -221,8 +221,8 @@ Here is thy spirit, here thy breath, here is thy life, here is thy soul: By a ce
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/04_utkrAmAtaH_puruSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्क्रा॒मातः॑ पुरुष॒ माव॑ पत्था मृ॒त्योः पड्वी॑षमवमु॒ञ्चमा॑नः।  
-मा च्छि॑त्था अ॒स्माल्लो॒काद॒ग्नेः सूर्य॑स्य सं॒दृशः॑ ॥
+उ᳓त्क्रामा᳓तः पुरुष मा᳓व पत्था मृत्योः᳓ प᳓ड्वीषमवमुञ्च᳓मानः।  
+मा᳓ च्छित्था अस्मा᳓ल्लोका᳓दग्नेः᳓ सू᳓र्यस्य संदृ᳓शः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/04_utkrAmAtaH_puruSha.md">
@@ -285,8 +285,8 @@ Up from this place, O man, rise! sink not downward, casting away the bonds of De
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/05_tubhyaM_vAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तुभ्यं॒ वातः॑ पवतां मात॒रिश्वा॒ तुभ्यं॑ वर्षन्त्व॒मृता॒न्यापः॑।  
-सूर्य॑स्ते त॒न्वे॒३॒॑ शं त॑पाति॒ त्वां मृ॒त्युर्द॑यतां॒ मा प्र मे॑ष्ठाः ॥
+तु᳓भ्यं वा᳓तः पवतां मातरि᳓श्वा तु᳓भ्यं वर्षन्त्वमृ᳓तान्या᳓पः।  
+सू᳓र्यस्ते तन्वे᳙ शं᳓ तपाति त्वां᳓ मृत्यु᳓र्दयतां मा᳓ प्र᳓ मेष्ठाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/05_tubhyaM_vAtaH.md">
@@ -349,8 +349,8 @@ Purely for thee breathe Wind and Matarisvan, and let the Waters rain on thee the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/06_udyAnaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒द्यानं॑ ते पुरुष॒ नाव॒यानं॑ जी॒वातुं॑ ते॒ दक्ष॑तातिं कृणोमि।  
-आ हि रोहे॒मम॒मृतं॑ सु॒खं रथ॒मथ॒ जिर्वि॑र्वि॒दथ॒मा व॑दासि ॥
+उद्या᳓नं ते पुरुष ना᳓वया᳓नं जीवा᳓तुं ते द᳓क्षतातिं कृणोमि।  
+आ᳓ हि᳓ रो᳓हेम᳓ममृ᳓तं सुखं᳓ र᳓थम᳓थ जि᳓र्विर्विद᳓थमा᳓ वदासि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/06_udyAnaM_te.md">
@@ -418,8 +418,8 @@ Upward must be thy way, O man, not downward: with life and mental vigour I endow
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/07_mA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा ते॒ मन॒स्तत्र॑ गा॒न्मा ति॒रो भू॒न्मा जी॒वेभ्यः॒ प्र म॑दो॒ मानु॑ गाः पि॒तॄन्।  
-विश्वे॑ दे॒वा अ॒भि र॑क्षन्तु त्वे॒ह ॥
+मा᳓ ते म᳓नस्त᳓त्र गान्मा᳓ तिरो᳓ भून्मा᳓ जीवे᳓भ्यः प्र᳓ मदो मा᳓नु गाः पितॄ᳓न्।  
+वि᳓श्वे देवा᳓ अभि᳓ रक्षन्तु त्वेह᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/07_mA_te.md">
@@ -480,8 +480,8 @@ Let not thy soul go thither, nor be lost to us: slight not the living, go not wh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/08_mA_gatAnAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा ग॒ताना॒मा दी॑धीथा॒ ये नय॑न्ति परा॒वत॑म्।  
-आ रो॑ह॒ तम॑सो॒ ज्योति॒रेह्या ते॒ हस्तौ॑ रभामहे ॥
+मा᳓ गता᳓नामा᳓ दीधीथा ये᳓ न᳓यन्ति पराव᳓तम्।  
+आ᳓ रोह त᳓मसो ज्यो᳓तिरे᳓ह्या᳓ ते ह᳓स्तौ रभामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/08_mA_gatAnAmA.md">
@@ -546,8 +546,8 @@ Yearn not for the departed ones, for those who lead men far away. Rise up from d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/09_shyAmashcha_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्या॒मश्च॑ त्वा॒ मा श॒बल॑श्च॒ प्रेषि॑तौ य॒मस्य॒ यौ प॑थि॒रक्षी॒ श्वानौ॑।  
-अ॒र्वाङेहि॒ मा वि दी॑ध्यो॒ मात्र॑ तिष्ठः॒ परा॑ङ्मनाः ॥
+श्याम᳓श्च त्वा मा᳓ शब᳓लश्च प्रे᳓षितौ यम᳓स्य यौ᳓ पथिर᳓क्षी श्वा᳓नौ।  
+अर्वा᳓ङे᳓हि मा᳓ वि᳓ दीध्यो मा᳓त्र तिष्ठः प᳓राङ्मनाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/09_shyAmashcha_tvA.md">
@@ -610,8 +610,8 @@ Let not the black dog and the brindled seize thee, two warders of the way sent f
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/10_maitaM_panthAmanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मैतं पन्था॒मनु॑ गा भी॒म ए॒ष येन॒ पूर्वं॒ नेयथ॒ तं ब्र॑वीमि।  
-तम॑ ए॒तत्पु॑रुष॒ मा प्र प॑त्था भ॒यं प॒रस्ता॒दभ॑यं ते अ॒र्वाक् ॥
+मै᳓तं᳓ प᳓न्थाम᳓नु गा भीम᳓ एष᳓ ये᳓न पू᳓र्वं ने᳓य᳓थ तं᳓ ब्रवीमि।  
+त᳓म एत᳓त्पुरुष मा᳓ प्र᳓ पत्था भयं᳓ पर᳓स्ताद᳓भयं ते अर्वा᳓क् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/10_maitaM_panthAmanu.md">
@@ -675,8 +675,8 @@ Forbear to tread this path, for it is awful: that path I speak of which thou has
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/11_raxantu_tvAgnayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रक्ष॑न्तु त्वा॒ग्नयो॒ ये अ॒प्स्व१॒॑न्ता रक्ष॑तु त्वा मनु॒ष्या॒३॒॑ यमि॒न्धते॑।  
-वै॑श्वान॒रो र॑क्षतु जा॒तवे॑दा दि॒व्यस्त्वा॒ मा प्र धा॑ग्वि॒द्युता॑ स॒ह ॥
+र᳓क्षन्तु त्वाग्न᳓यो ये᳓ अप्स्व᳙न्ता᳓ र᳓क्षतु त्वा मनुष्या᳙ य᳓मिन्ध᳓ते।  
+वै᳙श्वानरो᳓ रक्षतु जात᳓वेदा दिव्य᳓स्त्वा मा᳓ प्र᳓ धाग्विद्यु᳓ता सह᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/11_raxantu_tvAgnayo.md">
@@ -740,9 +740,9 @@ Thy guardians be the Fires within the Waters, thy guardian be the Fire which men
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/12_mA_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा त्वा॑ क्र॒व्याद॒भि मं॑स्ता॒रात्संक॑सुकाच्चर॒।  
-रक्ष॑तु त्वा॒ द्यौ रक्ष॑तु पृ॑थि॒वी सूर्य॑श्च त्वा॒ रक्ष॑तां च॒न्द्रमा॑श्च।  
-अ॒न्तरि॑क्षं रक्षतु देवहे॒त्याः ॥
+मा᳓ त्वा क्रव्या᳓दभि᳓ मंस्तारा᳓त्सं᳓कसुकाच्चर।  
+र᳓क्षतु त्वा द्यौ᳓ र᳓क्षतु᳓ पृथिवी᳓ सू᳓र्यश्च त्वा र᳓क्षतां चन्द्र᳓माश्च।  
+अन्त᳓रिक्षं रक्षतु देवहेत्याः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/12_mA_tvA.md">
@@ -810,8 +810,8 @@ Let not the Flesh-Consumer plot against thee: depart thou far away from the Dest
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/13_bodhashcha_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बो॒धश्च॑ त्वा प्रतीबो॒धश्च॑ रक्षतामस्व॒प्नश्च॑ त्वानवद्रा॒णश्च॑ रक्षताम्।  
-गो॑पा॒यंश्च॑ त्वा॒ जागृ॑विश्च रक्षताम् ॥
+बोध᳓श्च त्वा प्रतीबोध᳓श्च रक्षतामस्वप्न᳓श्च त्वानवद्राण᳓श्च रक्षताम्।  
+गो᳙पायं᳓श्च त्वा जा᳓गृविश्च रक्षताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/13_bodhashcha_tvA.md">
@@ -879,7 +879,7 @@ May Vigilance and Watchfulness protect thee, Sleepless and Slumberless keep guar
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/14_te_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ते त्वा॑ रक्षन्तु॒ ते त्वा॑ गोपायन्तु॒ तेभ्यो॒ नम॒स्तेभ्यः॒ स्वाहा॑ ॥
+ते᳓ त्वा रक्षन्तु ते᳓ त्वा गोपायन्तु ते᳓भ्यो न᳓मस्ते᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/14_te_tvA.md">
@@ -939,8 +939,8 @@ Let these be thy preservers, these thy keepers. All hail to these, to these be l
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/15_jIvebhyastvA_samude.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जी॒वेभ्य॑स्त्वा स॒मुदे॑ वा॒युरिन्द्रो॑ धा॒ता द॑धातु सवि॒ता त्राय॑माणः।  
-मा त्वा॑ प्रा॒णो बलं॑ हासी॒दसुं॒ तेऽनु॑ ह्वयामसि ॥
+जीवे᳓भ्यस्त्वा समु᳓दे वायु᳓रि᳓न्द्रो धाता᳓ दधातु सविता᳓ त्रा᳓यमाणः।  
+मा᳓ त्वा प्राणो᳓ ब᳓लं हासीद᳓सुं ते᳓ऽनु ह्वयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/15_jIvebhyastvA_samude.md">
@@ -1010,8 +1010,8 @@ May saving Savitar, Vayu, Indra, Dhatar restore thee to com- munion with the liv
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/16_mA_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा त्वा॑ ज॒म्भः संह॑नु॒र्मा तमो॑ विद॒न्मा जि॒ह्वा ब॒र्हिः प्र॑म॒युः क॒था स्याः॑।  
-उत्त्वा॑दि॒त्या वस॑वो भर॒न्तूदि॑न्द्रा॒ग्नी स्व॒स्तये॑ ॥
+मा᳓ त्वा जम्भः᳓ सं᳓हनुर्मा᳓ त᳓मो विदन्मा᳓ जिह्वा᳓ बर्हिः᳓ प्रमयुः᳓ कथा᳓ स्याः।  
+उ᳓त्त्वादित्या᳓ व᳓सवो भरन्तू᳓दिन्द्राग्नी᳓ स्वस्त᳓ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/16_mA_tvA.md">
@@ -1081,8 +1081,8 @@ Let not the fiend with snapping jaws, nor darkness find thee: tongue, holy grass
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/17_uttvA_dyaurutpRthivyutprajApatiragrabhIt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्त्वा॒ द्यौरुत्पृ॑थि॒व्युत्प्र॒जाप॑तिरग्रभीत्।  
-उत्त्वा॑ मृ॒त्योरोष॑धयः॒ सोम॑राज्ञीरपीपरन् ॥
+उ᳓त्त्वा द्यौ᳓रु᳓त्पृथिव्यु᳓त्प्रजा᳓पतिरग्रभीत्।  
+उ᳓त्त्वा मृत्यो᳓रो᳓षधयः सो᳓मराज्ञीरपीपरन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/17_uttvA_dyaurutpRthivyutprajApatiragrabhIt.md">
@@ -1143,8 +1143,8 @@ The Sky hath raised thee, and the Earth, Prajapati hath raised thee up. The Plan
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/18_ayaM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं दे॑वा इ॒हैवास्त्व॒यं मामुत्र॑ गादि॒तः।  
-इ॒मं स॒हस्र॑वीर्येण मृ॒त्योरुत्पा॑रयामसि ॥
+अयं᳓ देवा इहै᳓वा᳓स्त्वयं᳓ मा᳓मु᳓त्र गादितः᳓।  
+इमं᳓ सह᳓स्रवीर्येण मृत्यो᳓रु᳓त्पारयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/18_ayaM_devA.md">
@@ -1204,8 +1204,8 @@ Here let this man, O Gods, remain: let him not go to yonder world. We rescue him
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/19_uttvA_mRtyorapIparam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्त्वा॑ मृ॒त्योर॑पीपरं॒ सं ध॑मन्तु वयो॒धसः॑।  
-मा त्वा॑ व्यस्तके॒श्यो॒३॒॑ मा त्वा॑घ॒रुदो॑ रुदन् ॥
+उ᳓त्त्वा मृत्यो᳓रपीपरं सं᳓ धमन्तु वयोध᳓सः।  
+मा᳓ त्वा व्यस्तकेश्यो᳙ मा᳓ त्वाघरु᳓दो रुदन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/19_uttvA_mRtyorapIparam.md">
@@ -1272,8 +1272,8 @@ I have delivered thee from Death. Strength-givers smelt and fashion thee! Let no
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/20_AhArShamavidaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आहा॑र्ष॒मवि॑दं त्वा॒ पुन॒रागाः॒ पुन॑र्णवः।  
-सर्वा॑ङ्ग॒ सर्वं॑ ते॒ चक्षुः॒ सर्व॒मायु॑श्च तेऽविदम् ॥
+आ᳓हार्षम᳓विदं त्वा पु᳓नरा᳓गाः पु᳓नर्णवः।  
+स᳓र्वाङ्ग स᳓र्वं ते च᳓क्षुः स᳓र्वमा᳓युश्च तेऽविदम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/20_AhArShamavidaM_tvA.md">
@@ -1337,8 +1337,8 @@ I have attained and captured thee: thou hast returned restored to youth. Perfect
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/21_vyavAtte_jyotirabhUdapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्य᳡वात्ते॒ ज्योति॑रभू॒दप॒ त्वत्तमो॑ अक्रमीत्।  
-अप॒ त्वन्मृ॒त्युं निरृ॑ति॒मप॒ यक्ष्मं॒ नि द॑ध्मसि ॥
+व्य᳙वात्ते ज्यो᳓तिरभूद᳓प त्व᳓त्त᳓मो अक्रमीत्।  
+अ᳓प त्व᳓न्मृत्युं᳓ नि᳓रृतिम᳓प य᳓क्ष्मं नि᳓ दध्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/001_dIrghAyuHprAptiH/21_vyavAtte_jyotirabhUdapa.md">

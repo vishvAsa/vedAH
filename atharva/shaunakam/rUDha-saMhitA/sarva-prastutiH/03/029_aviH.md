@@ -33,8 +33,8 @@ On the means to obtain immunity from taxation in the next world
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/01_yadrAjAno_vibhajanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्राजा॑नो वि॒भज॑न्त इष्टापू॒र्तस्य॑ षोड॒शं य॒मस्या॒मी स॑भा॒सदः॑।  
-अवि॒स्तस्मा॒त्प्र मु॑ञ्चति द॒त्तः शि॑ति॒पात्स्व॒धा ॥
+य᳓द्रा᳓जानो विभ᳓जन्त इष्टापूर्त᳓स्य षोडशं᳓ यम᳓स्यामी᳓ सभास᳓दः।  
+अ᳓विस्त᳓स्मात्प्र᳓ मुञ्चति दत्तः᳓ शितिपा᳓त्स्वधा᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/01_yadrAjAno_vibhajanta.md">
@@ -107,8 +107,8 @@ When yonder kings who sit beside Yama divide among them- selves the sixteenth pa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/02_sarvAnkAmAnpUrayatyAbhavanprabhavanbhavan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्वा॒न्कामा॑न्पूरयत्या॒भव॑न्प्र॒भव॒न्भव॑न्।  
-आ॑कूति॒प्रोऽवि॑र्द॒त्तः शि॑ति॒पान्नोप॑ दस्यति ॥
+स᳓र्वान्का᳓मान्पूरयत्याभ᳓वन्प्रभ᳓वन्भ᳓वन्।  
+आ᳙कूतिप्रो᳓ऽविर्दत्तः᳓ शितिपा᳓न्नो᳓प दस्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/02_sarvAnkAmAnpUrayatyAbhavanprabhavanbhavan.md">
@@ -173,8 +173,8 @@ He satisfies each hope and want, prevailing, present and pre- pared. The wish-fu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/03_yo_dadAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो ददा॑ति शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
-स नाक॑म॒भ्यारो॑हति॒ यत्र॑ शु॒ल्को न क्रि॒यते॑ अब॒लेन॒ बली॑यसे ॥
+यो᳓ द᳓दाति शितिपा᳓दम᳓विं लोके᳓न सं᳓मितम्।  
+स᳓ ना᳓कमभ्या᳓रोहति य᳓त्र शुल्को᳓ न᳓ क्रिय᳓ते अबले᳓न ब᳓लीयसे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/03_yo_dadAti.md">
@@ -237,8 +237,8 @@ He who bestows a white-hooved ram, adequate to the place he holds. Ascends to th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/04_panchApUpaM_shitipAdamavim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पञ्चा॑पूपं शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
-प्र॑दा॒तोप॑ जीवति पितॄ॒णां लो॒केऽक्षि॑तम् ॥
+प᳓ञ्चापूपं शितिपा᳓दम᳓विं लोके᳓न सं᳓मितम्।  
+प्र᳙दातो᳓प जीवति पितॄणां᳓ लोके᳓ऽक्षितम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/04_panchApUpaM_shitipAdamavim.md">
@@ -302,8 +302,8 @@ He who bestows a white-hooved ram, adequate to the place he holds. Offered with 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/05_panchApUpaM_shitipAdamavim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पञ्चा॑पूपं शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
-प्र॑दा॒तोप॑ जीवति सूर्यामा॒सयो॒रक्षि॑तम् ॥
+प᳓ञ्चापूपं शितिपा᳓दम᳓विं लोके᳓न सं᳓मितम्।  
+प्र᳙दातो᳓प जीवति सूर्यामास᳓योर᳓क्षितम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/05_panchApUpaM_shitipAdamavim.md">
@@ -366,8 +366,8 @@ He who bestows a white-hooved ram, adequate to the place he holds, Offered with 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/06_ireva_nopa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इरे॑व॒ नोप॑ दस्यति समु॒द्र इ॑व॒ पयो॑ म॒हत्।  
-दे॒वौ स॑वा॒सिना॑विव शिति॒पान्नोप॑ दस्यति ॥
+इ᳓रेव नो᳓प दस्यति समुद्र᳓ इव प᳓यो मह᳓त्।  
+देवौ᳓ सवासि᳓नाविव शितिपा᳓न्नो᳓प दस्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/06_ireva_nopa.md">
@@ -435,9 +435,9 @@ Like a refreshing draught, like sea, the mighty flood, he faileth not. Like the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/07_ka_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क इ॒दं कस्मा॑ अदा॒त्कामः॒ कामा॑यादात्।  
-कामो॑ दा॒ता कामः॑ प्रतिग्रही॒ता कामः॑ समु॒द्रमा वि॑वेश।  
-कामे॑न त्वा॒ प्रति॑ गृह्णामि॒ कामै॒तत्ते॑ ॥
+क᳓ इदं᳓ क᳓स्मा अदात्का᳓मः का᳓मायादात्।  
+का᳓मो दाता᳓ का᳓मः प्रतिग्रहीता᳓ का᳓मः समुद्र᳓मा᳓ विवेश।  
+का᳓मेन त्वा प्र᳓ति गृह्णामि का᳓मैत᳓त्ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/07_ka_idam.md">
@@ -521,8 +521,8 @@ Whose gift was this, and given to whom? Kama to Kama gave the gift. Kama is give
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/08_bhUmiShTvA_prati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भूमि॑ष्ट्वा॒ प्रति॑ गृह्णात्व॒न्तरि॑क्षमि॒दं म॒हत्।  
-माहं प्रा॒णेन॒ मात्मना॒ मा प्र॒जया॑ प्रति॒गृह्य॒ वि रा॑धिषि ॥
+भू᳓मिष्ट्वा प्र᳓ति गृह्णात्वन्त᳓रिक्षमिदं᳓ मह᳓त्।  
+मा᳓हं᳓ प्राणे᳓न मा᳓त्म᳓ना मा᳓ प्रज᳓या प्रतिगृ᳓ह्य वि᳓ राधिषि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/08_bhUmiShTvA_prati.md">

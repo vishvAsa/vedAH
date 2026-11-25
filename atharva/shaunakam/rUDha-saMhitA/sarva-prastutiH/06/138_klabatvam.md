@@ -33,8 +33,8 @@ Translated: Weber, Ind. Stud. v. 246; Ludwig, p. 470; Geldner, Ved. Stud. i. 131
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/01_tvaM_vIrudhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं वी॒रुधां॒ श्रेष्ठ॑तमाभिश्रु॒तास्यो॑षधे।  
-इ॒मं मे॑ अ॒द्य पुरु॑षं क्ली॒बमो॑प॒शिनं॑ कृधि ॥
+त्वं᳓ वीरु᳓धां श्रे᳓ष्ठतमाभिश्रुता᳓स्योषधे।  
+इमं᳓ मे अद्य᳓ पु᳓रुषं क्लीब᳓मोपशि᳓नं कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/01_tvaM_vIrudhAm.md">
@@ -98,8 +98,8 @@ O Plant, thy fame is spread abroad as best of all the herbs that grow. Unman for
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/02_klIbaM_kRdhyopashinamatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्ली॒बं कृ॑ध्योप॒शिन॒मथो॑ कुरी॒रिणं॑ कृधि।  
-अथा॒स्येन्द्रो॒ ग्राव॑भ्यामु॒भे भि॑नत्त्वा॒ण्ड्यौ᳡ ॥
+क्लीबं᳓ कृध्योपशि᳓नम᳓थो कुरीरि᳓णं कृधि।  
+अ᳓थास्ये᳓न्द्रो ग्रा᳓वभ्यामुभे᳓ भिनत्त्वाण्ड्यौ᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/02_klIbaM_kRdhyopashinamatho.md">
@@ -166,8 +166,8 @@ Make him a eunuch with a horn, set thou the crest upon his- head. Let Indra with
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/03_klIba_klIbam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्लीब॑ क्ली॒बं त्वा॑करं॒ वध्रे॒ वध्रिं॑ त्वाकर॒मर॑सार॒सं त्वा॑करम्।  
-कु॒रीर॑मस्य शी॒र्षणि॒ कुम्बं॑ चाधि॒निद॑ध्मसि ॥
+क्ली᳓ब क्लीबं᳓ त्वाकरं व᳓ध्रे व᳓ध्रिं त्वाकरम᳓रसारसं᳓ त्वाकरम्।  
+कुरी᳓रमस्य शीर्ष᳓णि कु᳓म्बं चाधिनि᳓दध्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/03_klIba_klIbam.md">
@@ -234,8 +234,8 @@ I have unmanned thee, eunuch! yea, impotent! made thee- impotent, and robbed the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/04_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये ते॑ ना॒ड्यौ᳡ दे॒वकृ॑ते॒ ययो॒स्तिष्ठ॑ति॒ वृष्ण्य॑म्।  
-ते ते॑ भिनद्मि॒ शम्य॑या॒मुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥
+ये᳓ ते नाड्यौ᳙ देव᳓कृते य᳓योस्ति᳓ष्ठति वृ᳓ष्ण्यम्।  
+ते᳓ ते भिनद्मि श᳓म्ययामु᳓ष्या अ᳓धि मुष्क᳓योः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/04_ye_te.md">
@@ -299,8 +299,8 @@ Duas tuas venas, a Diis factas, in quibus stat vigor virilis, paxillo ligneo in 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/05_yathA_naDam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ न॒डं क॒शिपु॑ने॒ स्त्रियो॑ भि॒न्दन्त्यश्म॑ना।  
-ए॒वा भि॑नद्मि ते॒ शेपो॒ऽमुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥
+य᳓था नडं᳓ कशि᳓पुने स्त्रि᳓यो भिन्द᳓न्त्य᳓श्मना।  
+एवा᳓ भिनद्मि ते शे᳓पोऽमु᳓ष्या अ᳓धि मुष्क᳓योः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/05_yathA_naDam.md">

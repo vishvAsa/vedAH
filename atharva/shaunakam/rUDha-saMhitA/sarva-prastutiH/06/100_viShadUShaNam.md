@@ -33,8 +33,8 @@ Translated: Ludwig, p. 511; Griffith, i. 300; Bloomfield, 27, 511.—See also Be
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/01_devA_aduH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वा अ॑दुः॒ सूर्यो॒ द्यौर॑दात्पृथि॒व्य᳡दात्।  
-ति॒स्रः सर॑स्वतिरदुः॒ सचि॑त्ता विष॒दूष॑णम् ॥
+देवा᳓ अदुः सू᳓र्यो द्यौ᳓रदात्पृथिव्य᳙दात्।  
+तिस्रः᳓ स᳓रस्वतिरदुः स᳓चित्ता विषदू᳓षणम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/01_devA_aduH.md">
@@ -98,8 +98,8 @@ The Gods and Surya gave the gift, the Earth and Heaven best- owed the boon. The 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/02_yadvo_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्वो॑ दे॒वा उ॑पजीका॒ आसि॑ञ्च॒न्धन्व॑न्युद॒कम्।  
-तेन॑ दे॒वप्र॑सूतेने॒दं दू॑षयता वि॒षम् ॥
+य᳓द्वो देवा᳓ उपजीका आ᳓सिञ्चन्ध᳓न्वन्युदक᳓म्।  
+ते᳓न देव᳓प्रसूतेनेदं᳓ दूषयता विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/02_yadvo_devA.md">
@@ -167,8 +167,8 @@ That water, Upajikas! which Gods poured for you on thirsty land, With that same 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-असु॑राणां दुहि॒तासि॒ सा दे॒वाना॑मसि॒ स्वसा॑।  
-दि॒वस्पृ॑थि॒व्याः संभू॑ता॒ सा च॑कर्थार॒सं वि॒षम् ॥
+अ᳓सुराणां दुहिता᳓सि सा᳓ देवा᳓नामसि स्व᳓सा।  
+दिव᳓स्पृथिव्याः᳓ सं᳓भूता सा᳓ चकर्थारसं᳓ विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">

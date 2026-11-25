@@ -33,8 +33,8 @@ Translated: Griffith, i. 303.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/01_vishvajittrAyamANAyai_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्व॑जित्त्रायमा॒णायै॑ मा॒ परि॑ देहि।  
-त्राय॑माणे द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+वि᳓श्वजित्त्रायमाणा᳓यै मा प᳓रि देहि।  
+त्रा᳓यमाणे द्विपा᳓च्च स᳓र्वं नो र᳓क्ष च᳓तुष्पाद्य᳓च्च नः स्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/01_vishvajittrAyamANAyai_mA.md">
@@ -98,8 +98,8 @@ Entrust me, Visvajit, to Trayamana. Guard, Trayamana, all our men, guard all our
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/02_trAyamANe_vishvajite.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्राय॑माणे विश्व॒जिते॑ मा॒ परि॑ देहि।  
-विश्व॑जिद्द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+त्रा᳓यमाणे विश्वजि᳓ते मा प᳓रि देहि।  
+वि᳓श्वजिद्द्विपा᳓च्च स᳓र्वं नो र᳓क्ष च᳓तुष्पाद्य᳓च्च नः स्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/02_trAyamANe_vishvajite.md">
@@ -161,8 +161,8 @@ To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/03_vishvajitkalyANyai_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्व॑जित्कल्या॒ण्यै᳡ मा॒ परि॑ देहि।  
-कल्या॑णि द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+वि᳓श्वजित्कल्याण्यै᳙ मा प᳓रि देहि।  
+क᳓ल्याणि द्विपा᳓च्च स᳓र्वं नो र᳓क्ष च᳓तुष्पाद्य᳓च्च नः स्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/03_vishvajitkalyANyai_mA.md">
@@ -223,8 +223,8 @@ To Visvajit entrust me, O Kalyani. Guard, O Kalyani, all our men, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/04_kalyANi_sarvavide.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कल्या॑णि सर्व॒विदे॑ मा॒ परि॑ देहि।  
-सर्व॑विद्द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+क᳓ल्याणि सर्ववि᳓दे मा प᳓रि देहि।  
+स᳓र्वविद्द्विपा᳓च्च स᳓र्वं नो र᳓क्ष च᳓तुष्पाद्य᳓च्च नः स्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/04_kalyANi_sarvavide.md">

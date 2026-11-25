@@ -36,7 +36,7 @@ On the preparation and use of holy water, with, a prayer for purification and fr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/01_atisRShTo_apAMvRShabho-tisRShTA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अति॑सृष्टो अ॒पांवृ॑ष॒भोऽति॑सृष्टा अ॒ग्नयो॑ दि॒व्याः ॥
+अ᳓तिसृष्टो अपां᳓वृषभो᳓ऽतिसृष्टा अग्न᳓यो दिव्याः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/01_atisRShTo_apAMvRShabho-tisRShTA.md">
@@ -99,7 +99,7 @@ The Bull of the Waters hath been let go; the heavenly fires have been let go.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/02_rujanparirujanmRNanpramRNan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रु॒जन्प॑रिरु॒जन्मृ॒णन्प्र॑मृ॒णन् ॥
+रुज᳓न्परिरुज᳓न्मृण᳓न्प्रमृण᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/02_rujanparirujanmRNanpramRNan.md">
@@ -157,7 +157,7 @@ Breaking, breaking down, crushing, crushing to pieces,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/03_mroko_manohAkhano.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म्रो॒को म॑नो॒हाख॒नो नि॑र्दा॒ह आ॑त्म॒दूषि॑स्तनू॒दूषिः॑ ॥
+म्रोको᳓ मनोहा᳓खनो᳓ निर्दाह᳓ आत्मदू᳓षिस्तनूदू᳓षिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/03_mroko_manohAkhano.md">
@@ -223,7 +223,7 @@ Mroka, mind-destroying, rooting up, consuming, ruiner of the soul, ruiner of the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/04_idaM_tamatisRjAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं तमति॑सृजामि॒ तं माभ्यव॑निक्षि ॥
+इदं᳓ त᳓म᳓तिसृजामि तं᳓ मा᳓भ्य᳓वनिक्षि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/04_idaM_tamatisRjAmi.md">
@@ -281,7 +281,7 @@ Here I let him go: thou washest me clean of him.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/05_tenatamabhyatisRjAmo_yosmAndveShTi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तेन॒तम॒भ्यति॑सृजामो॒ यो॒३॒॑स्मान्द्वे॑ष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+ते᳓नत᳓मभ्य᳓तिसृजामो यो᳙स्मा᳓न्द्वेष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/05_tenatamabhyatisRjAmo_yosmAndveShTi.md">
@@ -349,7 +349,7 @@ With this we let him loose who hates us and whom we hate.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/06_apAmagramasisamudraM_vo-bhyavasRjAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पामग्र॑मसिसमु॒द्रं वो॒ऽभ्यव॑सृजामि ॥
+अपा᳓म᳓ग्रमसिसमुद्रं᳓ वोऽभ्य᳓वसृजामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/06_apAmagramasisamudraM_vo-bhyavasRjAmi.md">
@@ -409,7 +409,7 @@ Thou art in front of the waters. I let loose your sea.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/07_yopsvagnirati_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो॒३॒॑प्स्व१॒॑ग्निरति॒ तं सृ॑जामि म्रो॒कं ख॒निं त॑नू॒दूषि॑म् ॥
+यो᳙प्स्व᳙ग्नि᳓र᳓ति तं᳓ सृजामि म्रोकं᳓ खनिं᳓ तनूदू᳓षिम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/07_yopsvagnirati_tam.md">
@@ -471,7 +471,7 @@ I let loose the Agni who is within the waters, Mroka the up- rooter, the destroy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/08_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो व॑ आपो॒ऽग्निरा॑वि॒वेश॒ स ए॒ष यद्वो॑ घो॒रं तदे॒तत् ॥
+यो᳓ व आपोऽग्नि᳓राविवे᳓श स᳓ एष᳓ य᳓द्वो घोरं᳓ त᳓देत᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/08_yo_va.md">
@@ -530,7 +530,7 @@ Your Agni who entered into the waters, even he here is that very dread of yours.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/09_indrasya_vaindriyeNAbhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य वइन्द्रि॒येणा॒भि षि॑ञ्चेत् ॥
+इ᳓न्द्रस्य वइन्द्रिये᳓णाभि᳓ षिञ्चेत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/09_indrasya_vaindriyeNAbhi.md">
@@ -588,7 +588,7 @@ May he anoint you with Indra's own mighty power!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/10_ariprA_Apoapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑रि॒प्रा आपो॒अप॑ रि॒प्रम॒स्मत् ॥
+अ᳙रिप्रा᳓ आ᳓पोअ᳓प रिप्र᳓मस्म᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/10_ariprA_Apoapa.md">
@@ -647,7 +647,7 @@ May stainless waters cleanse us from defilement.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/11_prAsmadenovahantu_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रास्मदेनो॑वहन्तु॒ प्र दुः॒ष्वप्न्यं॑ वहन्तु ॥
+प्रा᳓स्म᳓दे᳓नोवहन्तु प्र᳓ दुःष्व᳓प्न्यं वहन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/11_prAsmadenovahantu_pra.md">
@@ -707,7 +707,7 @@ May they carry sin away from us, may they carry away from us the evil dream.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/12_shivena_mAchaxuShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि॒वेन॑ मा॒चक्षु॑षा पश्यतापः शि॒वया॑ त॒न्वोप॑ स्पृशत॒ त्वचं॑ मे ॥
+शिवे᳓न माच᳓क्षुषा पश्यतापः शिव᳓या तन्वो᳓प स्पृशत त्व᳓चं मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/12_shivena_mAchaxuShA.md">
@@ -767,7 +767,7 @@ Look on me with a friendly eye, O, Waters, and touch my skin with your auspiciou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/13_shivAnagnInapsuShado_havAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि॒वान॒ग्नीन॑प्सु॒षदो॑ हवामहे॒ मयि॑ क्ष॒त्रं वर्च॒ आ ध॑त्त दे॒वीः ॥
+शिवा᳓नग्नी᳓नप्सुष᳓दो हवामहे म᳓यि क्षत्रं᳓ व᳓र्च आ᳓ धत्त देवीः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/13_shivAnagnInapsuShado_havAmahe.md">

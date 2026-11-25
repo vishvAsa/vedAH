@@ -33,8 +33,8 @@ Translated: Weber, Omina und Portenta (1858), p. 363; Zimmer, p. 353; Griffith, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॑क॒धूमं॒ नक्ष॑त्राणि॒ यद्राजा॑न॒मकु॑र्वत।  
-भ॑द्रा॒हम॑स्मै॒ प्राय॑च्छन्नि॒दं रा॒ष्ट्रमसा॒दिति॑ ॥
+श᳙कधू᳓मं न᳓क्षत्राणि य᳓द्रा᳓जानम᳓कुर्वत।  
+भ᳙द्राह᳓मस्मै प्रा᳓यच्छन्निदं᳓ राष्ट्र᳓म᳓सादि᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
@@ -112,8 +112,8 @@ What time the heavenly bodies chose the Weather Prophet as their King, They brou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/02_bhadrAhaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॑द्रा॒हं नो॑ म॒ध्यन्दि॑ने भद्रा॒हं सा॒यम॑स्तु नः।  
-भ॑द्रा॒हं नो॒ अह्नां॑ प्रा॒ता रात्री॑ भद्रा॒हम॑स्तु नः ॥
+भ᳙द्राहं᳓ नो मध्य᳓न्दिने भद्राहं᳓ साय᳓मस्तु नः।  
+भ᳙द्राहं᳓ नो अ᳓ह्नां प्राता᳓ रा᳓त्री भद्राह᳓मस्तु नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/02_bhadrAhaM_no.md">
@@ -178,8 +178,8 @@ May we have weather fair at noon, May we have weather fair at eve, Fair weather 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑होरा॒त्राभ्यां॒ नक्ष॑त्रेभ्यः सूर्याचन्द्र॒मसा॑भ्याम्।  
-भ॑द्रा॒हम॒स्मभ्यं॑ राज॒ञ्छक॑धूम॒ त्वं कृ॑धि ॥
+अ᳙होरात्रा᳓भ्यां न᳓क्षत्रेभ्यः सूर्याचन्द्रम᳓साभ्याम्।  
+भ᳙द्राह᳓मस्म᳓भ्यं राजञ्छ᳓कधूम त्वं᳓ कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
@@ -243,8 +243,8 @@ Fair weather to the day and night, and to the stars and sun and moon. Give favou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/04_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नो॑ भद्रा॒हमक॑रः सा॒यं नक्त॑मथो॒ दिवा॑।  
-तस्मै॑ ते नक्षत्रराज॒ शक॑धूम॒ सदा॒ नमः॑ ॥
+यो᳓ नो भद्राह᳓म᳓करः सायं᳓ न᳓क्तमथो दि᳓वा।  
+त᳓स्मै ते नक्षत्रराज श᳓कधूम स᳓दा न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/04_yo_no.md">

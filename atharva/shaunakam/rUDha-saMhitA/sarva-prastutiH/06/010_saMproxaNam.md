@@ -37,7 +37,7 @@ A thanksgiving for life, hearing, and sight
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॑थि॒व्यै श्रोत्रा॑य॒ वन॒स्पति॑भ्यो॒ऽग्नयेऽधि॑पतये॒ स्वाहा॑ ॥
+पृ᳙थिव्यै᳓ श्रो᳓त्राय व᳓नस्प᳓तिभ्योऽग्न᳓ये᳓ऽधिपतये स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">
@@ -97,7 +97,7 @@ All hail for hearing to the Earth, to Trees, to Agni, sovran Lord!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/02_prANAyAntarixAya_vayobhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॒णाया॒न्तरि॑क्षाय॒ वयो॑भ्यो वा॒यवेऽधि॑पतये॒ स्वाहा॑ ॥
+प्राणा᳓यान्त᳓रिक्षाय व᳓योभ्यो वाय᳓वे᳓ऽधिपतये स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/010_saMproxaNam/02_prANAyAntarixAya_vayobhyo.md">
@@ -158,7 +158,7 @@ All hail for breath to Air, for power to life to Vayu, sovran Lord!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/03_dive_chaxuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वे चक्षु॑षे॒ नक्ष॑त्रेभ्यः॒ सूर्या॒याधि॑पतये॒ स्वाहा॑ ॥
+दिवे᳓ च᳓क्षुषे न᳓क्षत्रेभ्यः सू᳓र्याया᳓धिपतये स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/010_saMproxaNam/03_dive_chaxuShe.md">

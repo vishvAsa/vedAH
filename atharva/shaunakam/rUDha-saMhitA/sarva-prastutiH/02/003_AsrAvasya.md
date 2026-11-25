@@ -38,8 +38,8 @@ A water-cure charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/01_ado_yadavadhAvatyavatkamadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒दो यद॑व॒धाव॑त्यव॒त्कमधि॒ पर्व॑तात्।  
-तत्ते॑ कृणोमि भेष॒जं सुभे॑षजं॒ यथास॑सि ॥
+अदो᳓ य᳓दवधा᳓वत्यवत्क᳓म᳓धि प᳓र्वतात्।  
+त᳓त्ते कृणोमि भेषजं᳓ सु᳓भेषजं य᳓था᳓ससि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/01_ado_yadavadhAvatyavatkamadhi.md">
@@ -107,8 +107,8 @@ That little spring of water which is running downward from the hill I turn to he
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/02_AdangA_kuvidangA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आद॒ङ्गा कु॒विद॒ङ्गा श॒तं या भे॑ष॒जानि॑ ते।  
-तेषा॑मसि॒ त्वमु॑त्त॒मम॑नास्रा॒वमरो॑गणम् ॥
+आ᳓दङ्गा᳓ कुवि᳓दङ्गा᳓ शतं᳓ या᳓ भेषजा᳓नि ते।  
+ते᳓षामसि त्व᳓मुत्तम᳓मनास्राव᳓म᳓रोगणम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/02_AdangA_kuvidangA.md">
@@ -177,8 +177,8 @@ Hither and onward! Well! Come on! Among thy hundred remedies Most excellent of a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/03_nIchaiH_khanantyasurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नी॒चैः ख॑न॒न्त्यसु॑रा अरु॒स्राण॑मि॒दं म॒हत्।  
-तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत् ॥
+नीचैः᳓ खनन्त्य᳓सुरा अरुस्रा᳓णमिदं᳓ मह᳓त्।  
+त᳓दास्राव᳓स्य भेषजं᳓ त᳓दु रो᳓गमनीनशत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/03_nIchaiH_khanantyasurA.md">
@@ -248,8 +248,8 @@ The Asuras bury deep in earth this mighty thing that healeth wounds. This is the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/04_upajIkA_udbharanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑प॒जीका॒ उद्भ॑रन्ति समु॒द्रादधि॑ भेष॒जम्।  
-तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मशीशमत् ॥
+उ᳙पजी᳓का उ᳓द्भरन्ति समुद्रा᳓द᳓धि भेषज᳓म्।  
+त᳓दास्राव᳓स्य भेषजं᳓ त᳓दु रो᳓गमशीशमत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/04_upajIkA_udbharanti.md">
@@ -321,8 +321,8 @@ The emmets from the water-flood produce this healing medicine: This is the cure 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/05_arusrANamidaM_mahatpRthivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑रु॒स्राण॑मि॒दं म॒हत्पृ॑थि॒व्या अध्युद्भृ॑तम्।  
-तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत् ॥
+अ᳙रुस्रा᳓णमिदं᳓ मह᳓त्पृथिव्या᳓ अ᳓ध्यु᳓द्भृतम्।  
+त᳓दास्राव᳓स्य भेषजं᳓ त᳓दु रो᳓गमनीनशत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/05_arusrANamidaM_mahatpRthivyA.md">
@@ -384,8 +384,8 @@ Mighty is this wound-healing balm: from out the earth was it produced. This is t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/06_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॑ भवन्त्वा॒प ओष॑धयः शि॒वाः।  
-इन्द्र॑स्य॒ वज्रो॒ अप॑ हन्तु र॒क्षस॑ आ॒राद्विसृ॑ष्टा॒ इष॑वः पतन्तु र॒क्षसा॑म् ॥
+शं᳓ नो भवन्त्वाप᳓ ओ᳓षधयः शिवाः᳓।  
+इ᳓न्द्रस्य व᳓ज्रो अ᳓प हन्तु रक्ष᳓स आरा᳓द्वि᳓सृष्टा इ᳓षवः पतन्तु रक्ष᳓साम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/06_shaM_no.md">

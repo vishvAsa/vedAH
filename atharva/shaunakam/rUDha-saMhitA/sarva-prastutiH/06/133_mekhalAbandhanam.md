@@ -33,8 +33,8 @@ Translated: Ludwig, p. 432; Griffith, i. 319.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/133_mekhalAbandhanam/01_ya_imAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य इ॒मां दे॒वो मेख॑लामाब॒बन्ध॒ यः सं॑न॒नाह॒ य उ॑ नो यु॒योज॑।  
-यस्य॑ दे॒वस्य॑ प्र॒शिषा॒ चरा॑मः॒ स पा॒रमि॑च्छा॒त्स उ॑ नो॒ वि मु॑ञ्चात् ॥
+य᳓ इमां᳓ देवो᳓ मे᳓खलामाबब᳓न्ध यः᳓ संनना᳓ह य᳓ उ नो युयो᳓ज।  
+य᳓स्य देव᳓स्य प्रशि᳓षा च᳓रामः स᳓ पार᳓मिच्छात्स᳓ उ नो वि᳓ मुञ्चात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/133_mekhalAbandhanam/01_ya_imAm.md">
@@ -101,8 +101,8 @@ By the direction of that God we journey, he will seek means to save and he will 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/133_mekhalAbandhanam/02_AhutAsyabhihuta_RShINAmasyAyudham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आहु॑तास्य॒भिहु॑त॒ ऋषी॑णाम॒स्यायु॑धम्।  
-पूर्वा॑ व्र॒तस्य॑ प्राश्न॒ती वी॑र॒घ्नी भ॑व मेखले ॥
+आ᳓हुतास्यभि᳓हुत ऋ᳓षीणामस्या᳓युधम्।  
+पू᳓र्वा व्रत᳓स्य प्राश्नती᳓ वीरघ्नी᳓ भव मेखले ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/133_mekhalAbandhanam/02_AhutAsyabhihuta_RShINAmasyAyudham.md">
@@ -168,8 +168,8 @@ Thou, weapon of the Rishis, art adored and served with sacrifice. First tasting 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/133_mekhalAbandhanam/03_mRtyorahaM_brahmachArI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मृ॒त्योर॒हं ब्र॑ह्मचा॒री यदस्मि॑ नि॒र्याच॑न्भू॒तात्पुरु॑षं य॒माय॑।  
-तम॒हं ब्रह्म॑णा॒ तप॑सा॒ श्रमे॑णा॒नयै॑नं॒ मेख॑लया सिनामि ॥
+मृत्यो᳓रहं᳓ ब्रह्मचारी᳓ य᳓द᳓स्मि निर्या᳓चन्भूता᳓त्पु᳓रुषं यमा᳓य।  
+त᳓महं᳓ ब्र᳓ह्मणा त᳓पसा श्र᳓मेणान᳓यैनं मे᳓खलया सिनामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/133_mekhalAbandhanam/03_mRtyorahaM_brahmachArI.md">
@@ -235,8 +235,8 @@ As I am now Death's Brahmachari claiming out of the living world a man for Yama,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/133_mekhalAbandhanam/04_shraddhAyA_duhitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्र॒द्धाया॑ दुहि॒ता तप॒सोऽधि॑ जा॒ता स्वसा॒ ऋषी॑णां भूत॒कृतां॑ ब॒भूव॑।  
-सा नो॑ मेखले म॒तिमा धे॑हि मे॒धामथो॑ नो धेहि॒ तप॑ इन्द्रि॒यं च॑ ॥
+श्रद्धा᳓या दुहिता᳓ त᳓पसो᳓ऽधि जाता᳓ स्व᳓सा ऋ᳓षीणां भूतकृ᳓तां बभू᳓व।  
+सा᳓ नो मेखले मति᳓मा᳓ धेहि मेधा᳓म᳓थो नो धेहि त᳓प इन्द्रियं᳓ च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/133_mekhalAbandhanam/04_shraddhAyA_duhitA.md">
@@ -302,8 +302,8 @@ She hath become, Faith's daughter, sprung from Fervour, the sister of the world-
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/133_mekhalAbandhanam/05_yAM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां त्वा॒ पूर्वे॑ भूत॒कृत॒ ऋष॑यः परिबेधि॒रे।  
-सा त्वं परि॑ ष्वजस्व॒ मां दी॑र्घायु॒त्वाय॑ मेखले ॥
+यां᳓ त्वा पू᳓र्वे भूतकृ᳓त ऋ᳓षयः परिबेधिरे᳓।  
+सा᳓ त्वं᳓ प᳓रि ष्वजस्व मां᳓ दीर्घायुत्वा᳓य मेखले ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/133_mekhalAbandhanam/05_yAM_tvA.md">

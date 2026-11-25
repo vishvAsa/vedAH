@@ -37,8 +37,8 @@ A prayer for the prosperity of an institutor of sacrifice
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/01_saM_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं सं स्र॑वन्तु॒ सिन्ध॑वः॒ सं वाताः॒ सं प॑त॒त्रिणः॑।  
-इ॒मं य॒ज्ञं प्र॒दिवो॑ मे जुषन्तां संस्रा॒व्ये॑ण ह॒विषा॑ जुहोमि ॥
+सं᳓ सं᳓ स्रवन्तु सि᳓न्धवः सं᳓ वा᳓ताः सं᳓ पतत्रि᳓णः।  
+इमं᳓ यज्ञं᳓ प्रदि᳓वो मे जुषन्तां संस्राव्ये᳙ण हवि᳓षा जुहोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/01_saM_sam.md">
@@ -110,8 +110,8 @@ Let the streams, flow together, let the winds and birds assembled come. Let this
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/02_ihaiva_havamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒हैव हव॒मा या॑त म इ॒ह सं॑स्रावणा उ॒तेमं व॑र्धयता गिरः।  
-इ॒हैतु॒ सर्वो॒ यः प॒शुर॒स्मिन्ति॑ष्ठतु॒ या र॒यिः ॥
+इहै᳓व᳓ ह᳓वमा᳓ यात म इह᳓ संस्रावणा उते᳓मं᳓ वर्धयता गिरः।  
+इहै᳓तु स᳓र्वो यः᳓ पशु᳓रस्मि᳓न्तिष्ठतु या᳓ रयिः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/02_ihaiva_havamA.md">
@@ -176,8 +176,8 @@ Come to my call, Blent Offerings, come ye very nigh. And, singers, do ye strengt
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/03_ye_nadInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये न॒दीनां॑ सं॒स्रव॒न्त्युत्सा॑सः॒ सद॒मक्षि॑ताः।  
-तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥
+ये᳓ नदी᳓नां संस्र᳓वन्त्यु᳓त्सासः स᳓दम᳓क्षिताः।  
+ते᳓भिर्मे स᳓र्वैः संस्रावै᳓र्ध᳓नं सं᳓ स्रावयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/03_ye_nadInAm.md">
@@ -239,8 +239,8 @@ All river founts that blend their streams for ever inexhaustible-- With all thes
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/04_ye_sarpiShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये स॒र्पिषः॑ सं॒स्रव॑न्ति क्षी॒रस्य॑ चोद॒कस्य॑ च।  
-तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥
+ये᳓ सर्पि᳓षः संस्र᳓वन्ति क्षीर᳓स्य चोदक᳓स्य च।  
+ते᳓भिर्मे स᳓र्वैः संस्रावै᳓र्ध᳓नं सं᳓ स्रावयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/04_ye_sarpiShaH.md">

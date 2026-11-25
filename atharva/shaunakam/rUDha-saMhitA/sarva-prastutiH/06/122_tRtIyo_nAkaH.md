@@ -33,8 +33,8 @@ Translated: Ludwig, p. 432; Griffith, i. 312.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/01_etaM_bhAgam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तं भा॒गं परि॑ ददामि वि॒द्वान्विश्व॑कर्मन्प्रथम॒जा ऋ॒तस्य॑।  
-अ॒स्माभि॑र्द॒त्तं ज॒रसः॑ प॒रस्ता॒दच्छि॑न्नं॒ तन्तु॒मनु॒ सं त॑रेम ॥
+एतं᳓ भागं᳓ प᳓रि ददामि विद्वा᳓न्वि᳓श्वकर्मन्प्रथमजा᳓ ऋत᳓स्य।  
+अस्मा᳓भिर्दत्तं᳓ जर᳓सः पर᳓स्ताद᳓च्छिन्नं त᳓न्तुम᳓नु सं᳓ तरेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/01_etaM_bhAgam.md">
@@ -106,8 +106,8 @@ This portion I who understand deliver to Visvakarman first-born son of Order. So
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/02_tataM_tantumanveke.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त॒तं तन्तु॒मन्वेके॑ तरन्ति॒ येषां॑ द॒त्तं पित्र्य॒माय॑नेन।  
-अ॑ब॒न्ध्वेके॒ दद॑तः प्र॒यच्छ॑न्तो॒ दातुं॒ चेच्छिक्षा॒न्त्स स्व॒र्ग ए॒व ॥
+ततं᳓ त᳓न्तुम᳓न्वे᳓के तरन्ति ये᳓षां दत्तं᳓ पि᳓त्र्यमा᳓यनेन।  
+अ᳙बन्ध्वे᳓के द᳓दतः प्रय᳓च्छन्तो दा᳓तुं चे᳓च्छि᳓क्षान्त्स᳓ स्वर्ग᳓ एव᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/02_tataM_tantumanveke.md">
@@ -183,8 +183,8 @@ This long-drawn thread some follow who have offered in order- ed course oblation
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/03_anvArabhethAmanusaMrabhethAmetaM_lokam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्वार॑भेथामनु॒संर॑भेथामे॒तं लो॒कं श्र॒द्दधा॑नाः सचन्ते।  
-यद्वां॑ प॒क्वं परि॑विष्टम॒ग्नौ तस्य॒ गुप्त॑ये दम्पती॒ सं श्र॑येथाम् ॥
+अन्वा᳓रभेथामनुसं᳓रभेथामेतं᳓ लोकं᳓ श्रद्द᳓धानाः सचन्ते।  
+य᳓द्वां पक्वं᳓ प᳓रिविष्टमग्नौ᳓ त᳓स्य गु᳓प्तये दम्पती सं᳓ श्रयेथाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/03_anvArabhethAmanusaMrabhethAmetaM_lokam.md">
@@ -258,8 +258,8 @@ beginning, as xii. 3. 7. It is too irregular to be called a simple
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/04_yajnaM_yantam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒ज्ञं यन्तं॒ मन॑सा बृ॒हन्त॑म॒न्वारो॑हामि॒ तप॑सा॒ सयो॑निः।  
-उप॑हूता अग्ने ज॒रसः॑ प॒रस्ता॑त्तृ॒तीये॒ नाके॑ सध॒मादं॑ मदेम ॥
+यज्ञं᳓ य᳓न्तं म᳓नसा बृह᳓न्तमन्वा᳓रोहामि त᳓पसा स᳓योनिः।  
+उ᳓पहूता अग्ने जर᳓सः पर᳓स्तात्तृती᳓ये ना᳓के सधमा᳓दं मदेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/04_yajnaM_yantam.md">
@@ -327,8 +327,8 @@ Dwelling with zeal I mount in spirit after the lofty sacrifice as it departeth. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/05_shuddhAH_pUtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शु॒द्धाः पू॒ता यो॒षितो॑ य॒ज्ञिया॑ इ॒मा ब्र॒ह्मणां॒ हस्ते॑षु प्रपृ॒थक्सा॑दयामि।  
-यत्का॑म इ॒दं अ॑भिषि॒ञ्चामि॑ वो॒ऽहमिन्द्रो॑ म॒रुत्वा॒न्त्स द॑दातु॒ तन्मे॑ ॥
+शुद्धाः᳓ पूता᳓ योषि᳓तो यज्ञि᳓या इमा᳓ ब्रह्म᳓णां ह᳓स्तेषु प्रपृथ᳓क्सादयामि।  
+य᳓त्काम इदं᳓ अभिषिञ्चा᳓मि वोऽह᳓मि᳓न्द्रो मरु᳓त्वान्त्स᳓ ददातु त᳓न्मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/05_shuddhAH_pUtA.md">

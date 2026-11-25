@@ -33,8 +33,8 @@ A hymn to Manyu or Wrath
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/01_tvayA_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वया॑ मन्यो स॒रथ॑मारु॒जन्तो॒ हर्ष॑माणा हृषि॒तासो॑ मरुत्वन्।  
-ति॒ग्मेष॑व॒ आयु॑धा सं॒शिशा॑ना॒ उप॒ प्र य॑न्तु॒ नरो॑ अ॒ग्निरू॑पाः ॥
+त्व᳓या मन्यो सर᳓थमारुज᳓न्तो ह᳓र्षमाणा हृषिता᳓सो मरुत्वन्।  
+तिग्मे᳓षव आ᳓युधा संशि᳓शाना उ᳓प प्र᳓ यन्तु न᳓रो अग्नि᳓रूपाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/01_tvayA_manyo.md">
@@ -105,8 +105,8 @@ Borne on with thee, O Manyu girt by Maruts, let our brave men, impetuous, bursti
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/02_agniriva_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निरि॑व मन्यो त्विषि॒तः स॑हस्व सेना॒नीर्नः॑ सहुरे हू॒त ए॑धि।  
-ह॒त्वाय॒ शत्रू॒न्वि भ॑जस्व॒ वेद॒ ओजो॒ मिमा॑नो॒ वि मृधो॑ नुदस्व ॥
+अग्नि᳓रिव मन्यो त्विषितः᳓ सहस्व सेनानी᳓र्नः सहुरे हूत᳓ एधि।  
+हत्वा᳓य श᳓त्रून्वि᳓ भजस्व वे᳓द ओ᳓जो मि᳓मानो वि᳓ मृ᳓धो नुदस्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/02_agniriva_manyo.md">
@@ -173,8 +173,8 @@ Flashing like fire, be thou, O conquering Manyu, invoked, O victor, as our army'
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/03_sahasva_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सह॑स्व मन्यो अ॒भिमा॑तिम॒स्मै रु॒जन्मृ॒णन्प्र॑मृ॒णन्प्रेहि॒ शत्रू॑न्।  
-उ॒ग्रं ते॒ पाजो॑ न॒न्वा रु॑रुध्रे व॒शी वशं॑ नयासा एकज॒ त्वम् ॥
+स᳓हस्व मन्यो अभि᳓मातिमस्मै᳓ रुज᳓न्मृण᳓न्प्रमृण᳓न्प्रे᳓हि श᳓त्रून्।  
+उग्रं᳓ ते पा᳓जो नन्वा᳓ रुरुध्रे वशी᳓ व᳓शं नयासा एकज त्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/03_sahasva_manyo.md">
@@ -246,8 +246,8 @@ O Manyu, overcome those who assail us. On! breaking, slaying, crushing down the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/04_eko_bahUnAmasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एको॑ बहू॒नाम॑सि मन्य ईडि॒ता विशं॑विशं यु॒द्धाय॒ सं शि॑शाधि।  
-अकृ॑त्तरु॒क्त्वया॑ यु॒जा व॒यं द्यु॒मन्तं॒ घोषं॑ विज॒याय॑ कृण्मसि ॥
+ए᳓को बहूना᳓मसि मन्य ईडिता᳓ वि᳓शंविशं युद्धा᳓य सं᳓ शिशाधि।  
+अ᳓कृत्तरुक्त्व᳓या युजा᳓ वयं᳓ द्युम᳓न्तं घो᳓षं विजया᳓य कृण्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/04_eko_bahUnAmasi.md">
@@ -317,8 +317,8 @@ Alone of many thou art worshipped, Manyu: sharpen the spirit of each clan for co
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/05_vijeShakRdindra_ivAnavabravosmAkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॑जेष॒कृदिन्द्र॑ इवानवब्र॒वो३॒॑स्माकं॑ मन्यो अधि॒पा भ॑वे॒ह।  
-प्रि॒यं ते॒ नाम॑ सहुरे गृणीमसि वि॒द्मा तमुत्सं॒ यत॑ आब॒भूथ॑ ॥
+वि᳙जेषकृ᳓दि᳓न्द्र इवानवब्रवो᳙स्मा᳓कं मन्यो अधिपा᳓ भवेह᳓।  
+प्रियं᳓ ते ना᳓म सहुरे गृणीमसि विद्मा᳓ त᳓मु᳓त्सं य᳓त आबभू᳓थ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/05_vijeShakRdindra_ivAnavabravosmAkam.md">
@@ -382,8 +382,8 @@ Unyielding, bringing victory like Indra, O Manyu be thou here our sovran ruler. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/06_AbhUtyA_sahajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आभू॑त्या सह॒जा व॑ज्र सायक॒ सहो॑ बिभर्षि सहभूत॒ उत्त॑रम्।  
-क्रत्वा॑ नो मन्यो स॒ह मे॒द्ये॑धि महाध॒नस्य॑ पुरुहूत सं॒सृजि॑ ॥
+आ᳓भूत्या सहजा᳓ वज्र सायक स᳓हो बिभर्षि सहभूत उ᳓त्तरम्।  
+क्र᳓त्वा नो मन्यो सह᳓ मेद्ये᳙धि महाधन᳓स्य पुरुहूत संसृ᳓जि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/06_AbhUtyA_sahajA.md">
@@ -449,8 +449,8 @@ Twin-borne with power, destructive bolt of thunder the highest conquering might 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/07_saMsRShTaM_dhanamubhayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-संसृ॑ष्टं॒ धन॑मु॒भयं॑ स॒माकृ॑तम॒स्मभ्यं॑ धत्तां॒ वरु॑णश्च म॒न्युः।  
-भियो॒ दधा॑ना॒ हृद॑येषु॒ शत्र॑वः॒ परा॑जितासो॒ अप॒ नि ल॑यन्ताम् ॥
+सं᳓सृष्टं ध᳓नमुभ᳓यं समा᳓कृतमस्म᳓भ्यं धत्तां व᳓रुणश्च मन्युः᳓।  
+भि᳓यो द᳓धाना हृ᳓दयेषु श᳓त्रवः प᳓राजितासो अ᳓प नि᳓ लयन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/07_saMsRShTaM_dhanamubhayam.md">

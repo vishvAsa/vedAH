@@ -37,8 +37,8 @@ A prayer for purification
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/01_punantu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पु॒नन्तु॑ मा देवज॒नाः पु॒नन्तु॒ मन॑वो धि॒या।  
-पु॒नन्तु॒ विश्वा॑ भू॒तानि॒ पव॑मानः पुनातु मा ॥
+पुन᳓न्तु मा देवजनाः᳓ पुन᳓न्तु म᳓नवो धिया᳓।  
+पुन᳓न्तु वि᳓श्वा भूता᳓नि प᳓वमानः पुनातु मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/019_pAvamAnam/01_punantu_mA.md">
@@ -109,8 +109,8 @@ Let the Gods purify me, let men purify me with a prayer. Cleanse me all creature
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/02_pavamAnaH_punAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पव॑मानः पुनातु मा॒ क्रत्वे॒ दक्षा॑य जी॒वसे॑।  
-अथो॑ अरि॒ष्टता॑तये ॥
+प᳓वमानः पुनातु मा क्र᳓त्वे द᳓क्षाय जीव᳓से।  
+अ᳓थो अरिष्ट᳓तातये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/019_pAvamAnam/02_pavamAnaH_punAtu.md">
@@ -174,8 +174,8 @@ May Pavamana make me pure for wisdom and for power and life, and unassailed secu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/03_ubhAbhyAM_deva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒भाभ्यां॑ देव सवितः प॒वित्रे॑ण स॒वेन॑ च।  
-अ॒स्मान्पु॑नीहि॒ चक्ष॑से ॥
+उभा᳓भ्यां देव सवितः पवि᳓त्रेण सवे᳓न च।  
+अस्मा᳓न्पुनीहि च᳓क्षसे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/019_pAvamAnam/03_ubhAbhyAM_deva.md">

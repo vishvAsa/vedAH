@@ -37,8 +37,8 @@ A prayer for the overthrow of enemies
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यम॒ग्निः सत्प॑तिर्वृ॒द्धवृ॑ष्णो र॒थीव॑ प॒त्तीन॑जयत्पु॒रोहि॑तः।  
-नाभा॑ पृथि॒व्यां निहि॑तो॒ दवि॑द्युतदधस्प॒दं कृ॑णुतां॒ ये पृ॑त॒न्यवः॑ ॥
+अय᳓मग्निः᳓ स᳓त्पतिर्वृद्ध᳓वृष्णो रथी᳓व पत्ती᳓नजयत्पुरो᳓हितः।  
+ना᳓भा पृथिव्यां᳓ नि᳓हितो द᳓विद्युतदधस्पदं᳓ कृणुतां ये᳓ पृतन्य᳓वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">

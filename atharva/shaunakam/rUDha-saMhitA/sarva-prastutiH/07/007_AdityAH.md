@@ -37,8 +37,8 @@ Praise of the Adityas
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दितेः॑ पु॒त्राणा॒मदि॑तेरकारिष॒मव॑ दे॒वानां॑ बृह॒ताम॑न॒र्मणा॑म्।  
-तेषां॒ हि धाम॑ गभि॒षक्स॑मु॒द्रियं॒ नैना॒न्नम॑सा प॒रो अ॑स्ति॒ कश्च॒न ॥
+दि᳓तेः पुत्रा᳓णाम᳓दितेरकारिषम᳓व देवा᳓नां बृहता᳓मनर्म᳓णाम्।  
+ते᳓षां हि᳓ धा᳓म गभिष᳓क्समुद्रि᳓यं नै᳓नान्न᳓मसा परो᳓ अस्ति क᳓श्चन᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">

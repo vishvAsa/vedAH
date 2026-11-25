@@ -37,8 +37,8 @@ A charm to secure a husband for a marriageable girl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/01_A_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ नो॑ अग्ने सुम॒तिं सं॑भ॒लो ग॑मेदि॒मां कु॑मा॒रीं स॒ह नो॒ भगे॑न।  
-जु॒ष्टा व॒रेषु॒ सम॑नेषु व॒ल्गुरो॒षं पत्या॒ सौभ॑गमस्त्व॒स्यै ॥
+आ᳓ नो अग्ने सुमतिं᳓ संभलो᳓ गमेदिमां᳓ कुमारीं᳓ सह᳓ नो भ᳓गेन।  
+जुष्टा᳓ वरे᳓षु स᳓मनेषु वल्गु᳓रोषं᳓ प᳓त्या सौ᳓भगमस्त्वस्यै᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/01_A_no.md">
@@ -110,8 +110,8 @@ To please us may the suitor come, O Agni, seeking this maid and bringing us good
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोम॑जुष्टं॒ ब्रह्म॑जुष्टमर्य॒म्णा संभृ॑तं॒ भग॑म्।  
-धा॒तुर्दे॒वस्य॑ स॒त्येन॑ कृ॒णोमि॑ पति॒वेद॑नम् ॥
+सो᳓मजुष्टं ब्र᳓ह्मजुष्टमर्यम्णा᳓ सं᳓भृतं भ᳓गम्।  
+धातु᳓र्देव᳓स्य सत्ये᳓न कृणो᳓मि पतिवे᳓दनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
@@ -184,8 +184,8 @@ As bliss beloved by Soma, dear to Prayer, and stored by Arya- man, With the God 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/03_iyamagne_nArI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒यम॑ग्ने॒ नारी॒ पतिं॑ विदेष्ट॒ सोमो॒ हि राजा॑ सु॒भगां॑ कृ॒णोति॑।  
-सुवा॑ना पु॒त्रान्महि॑षी भवाति ग॒त्वा पतिं॑ सु॒भगा॒ वि रा॑जतु ॥
+इय᳓मग्ने ना᳓री प᳓तिं विदेष्ट सो᳓मो हि᳓ रा᳓जा सुभ᳓गां कृणो᳓ति।  
+सु᳓वाना पुत्रा᳓न्म᳓हिषी भवाति गत्वा᳓ प᳓तिं सुभ᳓गा वि᳓ राजतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/03_iyamagne_nArI.md">
@@ -258,8 +258,8 @@ O Agni, may this woman find a husband. Then verily King Soma makes her happy. Ma
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ख॒रो म॑घवं॒श्चारु॑रे॒ष प्रि॒यो मृ॒गाणां॑ सु॒षदा॑ ब॒भूव॑।  
-ए॒वा भग॑स्य जु॒ष्टेयम॑स्तु॒ नारी॒ संप्रि॑या॒ पत्यावि॑राधयन्ती ॥
+य᳓थाखरो᳓ मघवंश्चा᳓रुरेष᳓ प्रियो᳓ मृगा᳓णां सुष᳓दा बभू᳓व।  
+एवा᳓ भ᳓गस्य जुष्टे᳓य᳓मस्तु ना᳓री सं᳓प्रिया प᳓त्या᳓विराधयन्ती ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
@@ -341,8 +341,8 @@ As this lair, Maghavan! that is fair to look on was dear to wild things as a ple
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/05_bhagasya_nAvamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भग॑स्य॒ नाव॒मा रो॑ह पू॒र्णामनु॑पदस्वतीम्।  
-तयो॑प॒प्रता॑रय॒ यो व॒रः प्र॑तिका॒म्यः॑ ॥
+भ᳓गस्य ना᳓वमा᳓ रोह पूर्णा᳓म᳓नुपदस्वतीम्।  
+त᳓योपप्र᳓तारय यो᳓ वरः᳓ प्रतिकाम्यः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/05_bhagasya_nAvamA.md">
@@ -407,8 +407,8 @@ Mount up, embark on Bhaga's ship, the full, the inexhaustible, Thereon bring hit
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/06_A_krandaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ क्र॑न्दय धनपते व॒रमाम॑नसं कृणु।  
-सर्वं॑ प्रदक्षि॒णं कृ॑णु॒ यो व॒रः प्र॑तिका॒म्यः॑ ॥
+आ᳓ क्रन्दय धनपते वर᳓मा᳓मनसं कृणु।  
+स᳓र्वं प्रदक्षिणं᳓ कृणु यो᳓ वरः᳓ प्रतिकाम्यः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/06_A_krandaya.md">
@@ -473,8 +473,8 @@ Call out to him, O Lord of Wealth! Make thou the lover well- inclined. Set each 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/07_idaM_hiraNyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं हिर॑ण्यं॒ गुल्गु॑ल्व॒यमौ॒क्षो अ॑थो॒ भगः॑।  
-ए॒ते पति॑भ्य॒स्त्वाम॑दुः प्रतिका॒माय॒ वेत्त॑वे ॥
+इदं᳓ हि᳓रण्यं गु᳓ल्गुल्वय᳓मौक्षो᳓ अथो भ᳓गः।  
+एते᳓ प᳓तिभ्यस्त्वा᳓मदुः प्रतिकामा᳓य वे᳓त्तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/07_idaM_hiraNyam.md">
@@ -550,8 +550,8 @@ Here is the Bdellium and the gold, the Auksha and the bliss are here: These brin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/08_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ ते॑ नयतु सवि॒ता न॑यतु॒ पति॒र्यः प्र॑तिका॒म्यः॑।  
-त्वम॑स्यै धेहि ओषधे ॥
+आ᳓ ते नयतु सविता᳓ नयतु प᳓तिर्यः᳓ प्रतिकाम्यः᳙।  
+त्व᳓मस्यै धेहि ओषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/08_A_te.md">

@@ -33,8 +33,8 @@ Translated: Griffith, i. 317.—The association of this hymn with 139 seems to i
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/129_bhagaprAptiH/01_bhagena_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भगे॑न मा शांश॒पेन॑ सा॒कमिन्द्रे॑ण मे॒दिना॑।  
-कृ॒णोमि॑ भ॒गिनं॒ माप॑ द्रा॒न्त्वरा॑तयः ॥
+भ᳓गेन मा शांशपे᳓न साक᳓मि᳓न्द्रेण मेदि᳓ना।  
+कृणो᳓मि भगि᳓नं मा᳓प द्रान्त्व᳓रातयः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/129_bhagaprAptiH/01_bhagena_mA.md">
@@ -103,8 +103,8 @@ With fortune of the Sisu tree--with Indra as my friend to aid I give myself a ha
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/129_bhagaprAptiH/02_yena_vRxA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ वृ॒क्षाँ अ॒भ्यभ॑वो॒ भगे॑न॒ वर्च॑सा स॒ह।  
-तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः ॥
+ये᳓न वृक्षाँ᳓ अभ्य᳓भवो भ᳓गेन व᳓र्चसा सह᳓।  
+ते᳓न मा भगि᳓नं कृण्व᳓प द्रान्त्व᳓रातयः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/129_bhagaprAptiH/02_yena_vRxA.N.md">
@@ -166,8 +166,8 @@ That splendour and felicity wherewith thou hast excelled the trees Give me there
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/129_bhagaprAptiH/03_yo_andho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒न्धो यः पु॑नःस॒रो भगो॑ वृ॒क्षेष्वाहि॑तः।  
-तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः ॥
+यो᳓ अन्धो᳓ यः᳓ पुनःसरो᳓ भ᳓गो वृक्षे᳓ष्वा᳓हितः।  
+ते᳓न मा भगि᳓नं कृण्व᳓प द्रान्त्व᳓रातयः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/129_bhagaprAptiH/03_yo_andho.md">

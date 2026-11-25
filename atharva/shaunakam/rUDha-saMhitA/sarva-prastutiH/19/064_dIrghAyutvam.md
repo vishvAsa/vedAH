@@ -37,8 +37,8 @@ A prayer to Agni for children, long life, and various blessings
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/01_agne_samidhamAhArSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॑ स॒मिध॒माहा॑र्षं बृह॒ते जा॒तवे॑दसे।  
-स मे॑ श्र॒द्धां च॑ मे॒धां च॑ जा॒तवे॑दाः॒ प्र य॑च्छतु ॥
+अ᳓ग्ने समि᳓धमा᳓हार्षं बृहते᳓ जात᳓वेदसे।  
+स᳓ मे श्रद्धां᳓ च मेधां᳓ च जात᳓वेदाः प्र᳓ यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/01_agne_samidhamAhArSham.md">
@@ -112,8 +112,8 @@ For lofty Jatavedas I have brought the fuel hither first. May he who knoweth all
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/02_idhmena_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒ध्मेन॑ त्वा जातवेदः स॒मिधा॑ वर्धयामसि।  
-तथा॒ त्वम॒स्मान्व॑र्धय प्र॒जया॑ च॒ धने॑न च ॥
+इध्मे᳓न त्वा जातवेदः समि᳓धा वर्धयामसि।  
+त᳓था त्व᳓मस्मा᳓न्वर्धय प्रज᳓या च ध᳓नेन च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/02_idhmena_tvA.md">
@@ -176,8 +176,8 @@ With fuel and with flaming wood we, Jatavedas, strengthen thee; So do thou stren
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/03_yadagne_yAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॑ग्ने॒ यानि॒ कानि॑ चि॒दा ते॒ दारू॑णि द॒ध्मसि॑।  
-सर्वं॒ तद॑स्तु मे शि॒वं तज्जु॑षस्व यविष्ठ्य ॥
+य᳓दग्ने या᳓नि का᳓नि चिदा᳓ ते दा᳓रूणि दध्म᳓सि।  
+स᳓र्वं त᳓दस्तु मे शिवं᳓ त᳓ज्जुषस्व यविष्ठ्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/03_yadagne_yAni.md">
@@ -248,8 +248,8 @@ Whatever even be the logs which, Agni, we lay down for thee, propitious be it al
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/04_etAste_agne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तास्ते॑ अग्ने स॒मिध॒स्त्वमि॒द्धः स॒मिद्भ॑व।  
-आयु॑र॒स्मासु॑ धेह्यमृत॒त्वमा॑चा॒र्या᳡य ॥
+एता᳓स्ते अग्ने समि᳓धस्त्व᳓मिद्धः᳓ समि᳓द्भव।  
+आ᳓युरस्मा᳓सु धेह्यमृतत्व᳓माचार्या᳙य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/04_etAste_agne.md">

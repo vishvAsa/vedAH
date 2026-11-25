@@ -37,8 +37,8 @@ A youth's Investiture ceremony (godanam)
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/01_AyurdA_agne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॑यु॒र्दा अ॑ग्ने ज॒रसं॑ वृणा॒नो घृ॒तप्र॑तीको घृ॒तपृ॑ष्ठो अग्ने।  
-घृ॒तं पी॒त्वा मधु॒ चारु॒ गव्यं॑ पि॒तेव॑ पु॒त्रान॒भि र॑क्षतादि॒मम् ॥
+आ᳙युर्दा᳓ अग्ने जर᳓सं वृणानो᳓ घृत᳓प्रतीको घृत᳓पृष्ठो अग्ने।  
+घृतं᳓ पीत्वा᳓ म᳓धु चा᳓रु ग᳓व्यं पिते᳓व पुत्रा᳓नभि᳓ रक्षतादिम᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/01_AyurdA_agne.md">
@@ -125,8 +125,8 @@ Strength-giver, winning lengthened life, O Agni, with face and back shining with
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/02_pari_dhatta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ धत्त ध॒त्त नो॒ वर्च॑से॒मं ज॒रामृ॑त्युं कृणुत दी॒र्घमायुः॑।  
-बृह॒स्पतिः॒ प्राय॑छ॒द्वास॑ ए॒तत्सोमा॑य॒ राज्ञे॒ परि॑धात॒वा उ॑ ॥
+प᳓रि धत्त धत्त᳓ नो व᳓र्चसेमं᳓ जरा᳓मृत्युं कृणुत दीर्घ᳓मा᳓युः।  
+बृ᳓हस्प᳓तिः प्रा᳓यछद्वा᳓स एत᳓त्सो᳓माय रा᳓ज्ञे प᳓रिधातवा᳓ उ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/02_pari_dhatta.md">
@@ -197,8 +197,8 @@ For us surround him, cover him with splendour, give him long life, and death whe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/03_parIdaM_vAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परी॒दं वासो॑ अधिथाः स्व॒स्तयेऽभू॑र्गृष्टी॒नाम॑भिशस्ति॒पा उ॑।  
-श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒ची रा॒यश्च॒ पोष॑मुप॒संव्य॑यस्व ॥
+प᳓रीदं᳓ वा᳓सो अधिथाः स्वस्त᳓ये᳓ऽभूर्गृष्टीना᳓मभिशस्तिपा᳓ उ।  
+शतं᳓ च जी᳓व शर᳓दः पुरूची᳓ राय᳓श्च पो᳓षमुपसं᳓व्ययस्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/03_parIdaM_vAso.md">
@@ -277,8 +277,8 @@ Thou for our w eal hast clothed thee in the mantle: thou hast become our heifers
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/04_ehyashmAnamA_tiShThAshmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एह्यश्मा॑न॒मा ति॒ष्ठाश्मा॑ भवतु ते त॒नूः।  
-कृ॒ण्वन्तु॒ विश्वे॑ दे॒वा आयु॑ष्टे श॒रदः॑ श॒तम् ॥
+ए᳓ह्य᳓श्मानमा᳓ तिष्ठा᳓श्मा भवतु ते तनूः᳓।  
+कृण्व᳓न्तु वि᳓श्वे देवा᳓ आ᳓युष्टे शर᳓दः शत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/04_ehyashmAnamA_tiShThAshmA.md">
@@ -345,8 +345,8 @@ Come hither, stand upon the stone: thy body shall become a stone. The Universal 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/05_yasya_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॑ ते॒ वासः॑ प्रथमवा॒स्यं॑१ हरा॑म॒स्तं त्वा॒ विश्वे॑ऽवन्तु दे॒वाः।  
-तं त्वा॒ भ्रात॑रः सु॒वृधा॒ वर्ध॑मान॒मनु॑ जायन्तां ब॒हवः॒ सुजा॑तम् ॥
+य᳓स्य ते वा᳓सः प्रथमवास्यं᳙ ह᳓रामस्तं᳓ त्वा वि᳓श्वेऽवन्तु देवाः᳓।  
+तं᳓ त्वा भ्रा᳓तरः सुवृ᳓धा व᳓र्धमानम᳓नु जायन्तां बह᳓वः सु᳓जातम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/05_yasya_te.md">

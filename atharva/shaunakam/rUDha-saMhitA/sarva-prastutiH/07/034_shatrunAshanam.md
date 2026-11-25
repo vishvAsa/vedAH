@@ -37,8 +37,8 @@ A prayer for freedom from sin and the overthrow of enemies
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/034_shatrunAshanam/01_agne_jAtAnpra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॑ जा॒तान्प्र णु॑दा मे स॒पत्ना॒न्प्रत्यजा॑ताञ्जातवेदो नुदस्व।  
-अ॑धस्प॒दं कृ॑णुष्व॒ ये पृ॑त॒न्यवोऽना॑गस॒स्ते व॒यमदि॑तये स्याम ॥
+अ᳓ग्ने जाता᳓न्प्र᳓ णुदा मे सप᳓त्नान्प्र᳓त्य᳓जाताञ्जातवेदो नुदस्व।  
+अ᳙धस्पदं᳓ कृणुष्व ये᳓ पृतन्य᳓वो᳓ऽनागसस्ते᳓ वय᳓म᳓दितये स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/034_shatrunAshanam/01_agne_jAtAnpra.md">

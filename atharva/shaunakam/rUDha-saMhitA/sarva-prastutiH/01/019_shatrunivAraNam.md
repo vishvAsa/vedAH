@@ -38,8 +38,8 @@ A prayer for protection from arrows and for the punishment of enemies
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/01_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॑ विदन्विव्या॒धिनो॒ मो अ॑भिव्या॒धिनो॑ विदन्।  
-आ॒राच्छ॑र॒व्या॑ अ॒स्मद्विषू॑चीरिन्द्र पातय ॥
+मा᳓ नो विदन्विव्याधि᳓नो मो᳓ अभिव्याधि᳓नो विदन्।  
+आरा᳓च्छरव्या᳙ अस्म᳓द्वि᳓षूचीरिन्द्र पातय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/019_shatrunivAraNam/01_mA_no.md">
@@ -101,8 +101,8 @@ Let not the piercers find us, nor let those who wound discover us. O Indra, make
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/02_viShvancho_asmachCharavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्व॑ञ्चो अ॒स्मच्छर॑वः पतन्तु॒ ये अ॒स्ता ये चा॒स्याः॑।  
-दै॑वीर्मनुष्येसषवो॒ ममा॑मित्रा॒न्वि वि॑ध्यत ॥
+वि᳓ष्वञ्चो अस्म᳓च्छ᳓रवः पतन्तु ये᳓ अस्ता᳓ ये᳓ चास्याः᳙।  
+दै᳙वीर्मनुष्येसषवो म᳓मामित्रान्वि᳓ विध्यत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/019_shatrunivAraNam/02_viShvancho_asmachCharavaH.md">
@@ -166,8 +166,8 @@ Turned from us let the arrows fall, those shot and those that will be shot. Shaf
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/03_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नः॒ स्वो यो अर॑णः सजा॒त उ॒त निष्ट्यो॒ यो अ॒स्माँ अ॑भि॒दास॑ति।  
-रु॒द्रः श॑र॒व्य॑यै॒तान्ममा॒मित्रा॒न्वि वि॑ध्यतु ॥
+यो᳓ नः स्वो᳓ यो᳓ अ᳓रणः सजात᳓ उत᳓ नि᳓ष्ट्यो यो᳓ अस्माँ᳓ अभिदा᳓सति।  
+रुद्रः᳓ शरव्य᳙यैता᳓न्म᳓मामि᳓त्रान्वि᳓ विध्यतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/019_shatrunivAraNam/03_yo_naH.md">
@@ -237,8 +237,8 @@ Whoever treateth us as foes, be he our own or strange to us, a kinsman or a fore
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/04_yaH_sapatno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः स॒पत्नो॒ यो ऽस॑पत्नो॒ यश्च॑ द्वि॒षन्छपा॑ति नः।  
-दे॒वास्तं सर्वे॑ धूर्वन्तु॒ ब्रह्म॒ वर्म॒ ममान्त॑रम् ॥
+यः᳓ सप᳓त्नो यो᳓ ऽसपत्नो य᳓श्च द्विष᳓न्छ᳓पाति नः।  
+देवा᳓स्तं᳓ स᳓र्वे धूर्वन्तु ब्र᳓ह्म व᳓र्म म᳓मा᳓न्तरम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/019_shatrunivAraNam/04_yaH_sapatno.md">

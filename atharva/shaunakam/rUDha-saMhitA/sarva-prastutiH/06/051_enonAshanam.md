@@ -37,8 +37,8 @@ A prayer for purification and forgiveness of sins
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/051_enonAshanam/01_vAyoH_pUtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒योः पू॒तः प॒वित्रे॑ण प्र॒त्यङ्सोमो॒ अति॑ द्रु॒तः।  
-इन्द्र॑स्य॒ युजः॒ सखा॑ ॥
+वायोः᳓ पूतः᳓ पवि᳓त्रेण प्रत्य᳓ङ्सो᳓मो अ᳓ति द्रुतः᳓।  
+इ᳓न्द्रस्य यु᳓जः स᳓खा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/051_enonAshanam/01_vAyoH_pUtaH.md">
@@ -121,8 +121,10 @@ Cleansed by the filter of the Wind comes Soma past all our enemies, meet friend 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/051_enonAshanam/02_Apo_asmAnmAtaraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॑ अ॒स्मान्मा॒तरः॑ सूदयन्तु घृ॒तेन॑ नो घृत॒प्वः᳡ पुनन्तु।  
-विश्वं॒ हि रि॒प्रं प्र॒वह॑न्ति दे॒वीरुदिदा॑भ्यः॒ शुचि॒रा पू॒त ए॑मि ॥
+आ᳓पो अस्मा᳓न् मात᳓रश् शुन्धन्तु।+++(र४)+++  
+घृते᳓न नो घृत-पु᳓वᳶ+++(→घृतपावकाः)+++ पुनन्तु ।
+वि᳓श्वं हि᳓ रिप्रं᳓ प्रव᳓हन्ति देवी᳓र्  
+उ᳓द् इ᳓द् आभ्यः शु᳓चिर् आ᳓ पूत᳓ एमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/051_enonAshanam/02_Apo_asmAnmAtaraH.md">
@@ -192,8 +194,8 @@ May the maternal Waters make us ready: cleanse us with fat- ness they who cleans
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/051_enonAshanam/03_yatkiM_chedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३॒॑श्चर॑न्ति।  
-अचि॑त्त्या॒ चेत्तव॒ धर्मं॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥
+य᳓त्किं᳓ चेदं᳓ वरुण दै᳓व्ये ज᳓नेऽभिद्रोहं᳓ मनुष्या᳙श्च᳓रन्ति।  
+अ᳓चित्त्या चे᳓त्त᳓व ध᳓र्मं युयोपिम᳓ मा᳓ नस्त᳓स्मादे᳓नसो देव रीरिषः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/051_enonAshanam/03_yatkiM_chedam.md">

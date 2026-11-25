@@ -37,8 +37,8 @@ A young man's love-charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒यं वी॒रुन्मधु॑जाता॒ मधु॑ना त्वा खनामसि।  
-मधो॒रधि॒ प्रजा॑तासि॒ सा नो॒ मधु॑मतस्कृधि ॥
+इयं᳓ वीरु᳓न्म᳓धुजाता म᳓धुना त्वा खनामसि।  
+म᳓धोर᳓धि प्र᳓जातासि सा᳓ नो म᳓धुमतस्कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
@@ -101,8 +101,8 @@ From honey sprang this Plant to life; with honey now we dig thee up. Make us as 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/02_jihvAyA_agre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जि॒ह्वाया॒ अग्रे॒ मधु॑ मे जिह्वामू॒ले म॒धूल॑कम्।  
-ममेदह॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+जिह्वा᳓या अ᳓ग्रे म᳓धु मे जिह्वामूले᳓ मधू᳓लकम्।  
+म᳓मे᳓द᳓ह क्र᳓ताव᳓सो म᳓म चित्त᳓मुपा᳓यसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/02_jihvAyA_agre.md">
@@ -171,8 +171,8 @@ My tongue hath honey at the tip, and sweetest honey at the root: Thou yieldest t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/03_madhumanme_nikramaNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मधु॑मन्मे नि॒क्रम॑णं॒ मधु॑मन्मे प॒राय॑णम्।  
-वा॒चा व॑दामि॒ मधु॑मद्भू॒यासं॒ मधु॑संदृशः ॥
+म᳓धुमन्मे निक्र᳓मणं म᳓धुमन्मे परा᳓यणम्।  
+वाचा᳓ वदामि म᳓धुमद्भूया᳓सं म᳓धुसंदृशः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/03_madhumanme_nikramaNam.md">
@@ -237,8 +237,8 @@ My coming in is honey-sweet and honey-sweet, my going forth: My voice and words 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मधो॑रस्मि॒ मधु॑तरो म॒दुघा॒न्मधु॑मत्तरः।  
-मामित्किल॒ त्वं वनाः॒ शाखां॒ मधु॑मतीमिव ॥
+म᳓धोरस्मि म᳓धुतरो मदु᳓घान्म᳓धुमत्तरः।  
+मा᳓मि᳓त्कि᳓ल त्वं᳓ व᳓नाः शा᳓खां म᳓धुमतीमिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
@@ -307,8 +307,8 @@ Sweeter am I than honey, yet more full of sweets than licorice: So mayst thou lo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/05_pari_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ त्वा परित॒त्नुने॒क्षुणा॑गा॒मवि॑द्विषे।  
-यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+प᳓रि त्वा परितत्नु᳓नेक्षु᳓णागाम᳓विद्विषे।  
+य᳓था मां᳓ कामि᳓न्य᳓सो य᳓था म᳓न्ना᳓पगा अ᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/05_pari_tvA.md">

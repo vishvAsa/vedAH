@@ -37,8 +37,8 @@ A prayer for prosperity and greatness
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/061_vishvasraShTA/01_mahyamApo_madhumaderayantAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मह्य॒मापो॒ मधु॑म॒देर॑यन्तां॒ मह्यं॒ सूरो॑ अभर॒ज्ज्योति॑षे॒ कम्।  
-मह्यं॑ दे॒वा उ॒त विश्वे॑ तपो॒जा मह्यं॑ दे॒वः स॑वि॒ता व्यचो॑ धात् ॥
+म᳓ह्यमा᳓पो म᳓धुमदे᳓रयन्तां म᳓ह्यं सू᳓रो अभरज्ज्यो᳓तिषे क᳓म्।  
+म᳓ह्यं देवा᳓ उत᳓ वि᳓श्वे तपोजा᳓ म᳓ह्यं देवः᳓ सविता᳓ व्य᳓चो धात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/061_vishvasraShTA/01_mahyamApo_madhumaderayantAm.md">
@@ -104,8 +104,8 @@ The Waters send me what is sweet and pleasant, Sura bring all I need for light a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/061_vishvasraShTA/02_ahaM_vivecha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हं वि॑वेच पृथि॒वीमु॒त द्याम॒हमृ॒तूंर॑जनयं स॒प्त सा॒कम्।  
-अ॒हं स॒त्यमनृ॑तं॒ यद्वदा॑म्य॒हं दैवीं॒ परि॒ वाचं॒ विश॑श्च ॥
+अहं᳓ विवेच पृथिवी᳓मुत᳓ द्या᳓मह᳓मृतूं᳓रजनयं सप्त᳓ साक᳓म्।  
+अहं᳓ सत्य᳓म᳓नृतं य᳓द्व᳓दाम्यहं᳓ दै᳓वीं प᳓रि वा᳓चं वि᳓शश्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/061_vishvasraShTA/02_ahaM_vivecha.md">
@@ -177,8 +177,8 @@ I set the heaven and the earth asunder, I brought all seven sea- sons into being
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/061_vishvasraShTA/03_ahaM_jajAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हं ज॑जान पृथि॒वीमु॒त द्याम॒हमृ॒तूंर॑जनयं स॒प्त सिन्धू॑न्।  
-अ॒हं स॒त्यमनृ॑तं॒ यद्वदा॑मि॒ यो अ॑ग्नीषो॒मावजु॑षे॒ सखा॑या ॥
+अहं᳓ जजान पृथिवी᳓मुत᳓ द्या᳓मह᳓मृतूं᳓रजनयं सप्त᳓ सि᳓न्धून्।  
+अहं᳓ सत्य᳓म᳓नृतं य᳓द्व᳓दामि यो᳓ अग्नीषोमा᳓व᳓जुषे स᳓खाया ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/061_vishvasraShTA/03_ahaM_jajAna.md">

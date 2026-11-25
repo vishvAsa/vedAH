@@ -37,8 +37,8 @@ A prayer to Vak
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/066_brahma/01_yadyantarixe_yadi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्य॒न्तरि॑क्षे॒ यदि॒ वात॒ आस॒ यदि॑ वृ॒क्षेषु॒ यदि॒ वोल॑पेषु।  
-यदश्र॑वन्प॒शव॑ उ॒द्यमा॑नं॒ तद्ब्राह्म॒णं पुन॑र॒स्मानु॒पैतु॑ ॥
+य᳓द्यन्त᳓रिक्षे य᳓दि वा᳓त आ᳓स य᳓दि वृक्षे᳓षु य᳓दि वो᳓लपेषु।  
+य᳓द᳓श्रवन्पश᳓व उद्य᳓मानं त᳓द्ब्रा᳓ह्मणं᳓ पु᳓नरस्मा᳓नुपै᳓तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/066_brahma/01_yadyantarixe_yadi.md">

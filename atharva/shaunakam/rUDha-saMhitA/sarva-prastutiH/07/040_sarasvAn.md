@@ -37,8 +37,8 @@ A prayer for prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/040_sarasvAn/01_yasya_vratam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॑ व्र॒तं प॒शवो॒ यन्ति॒ सर्वे॒ यस्य॑ व्र॒त उ॑पतिष्ठन्त॒ आपः॑।  
-यस्य॑ व्र॒ते पु॑ष्ट॒पति॒र्निवि॑ष्ट॒स्तं सर॑स्वन्त॒मव॑से हवामहे ॥
+य᳓स्य व्रतं᳓ पश᳓वो य᳓न्ति स᳓र्वे य᳓स्य व्रत᳓ उपतिष्ठन्त आ᳓पः।  
+य᳓स्य व्रते᳓ पुष्टप᳓तिर्नि᳓विष्टस्तं᳓ स᳓रस्वन्तम᳓वसे हवामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/040_sarasvAn/01_yasya_vratam.md">
@@ -105,8 +105,8 @@ We call Sarasvan, under whose protection all cattle wander, to preserve and aid 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/040_sarasvAn/02_A_pratyancham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ प्र॒त्यञ्चं॑ दा॒शुषे॑ दा॒श्वंसं॒ सर॑स्वन्तं पुष्ट॒पतिं॑ रयि॒ष्ठाम्।  
-रा॒यस्पोषं॑ श्रव॒स्युं वसा॑ना इ॒ह हु॑वेम सद॑नं रयी॒णाम् ॥
+आ᳓ प्रत्य᳓ञ्चं दाशु᳓षे दाश्वं᳓सं स᳓रस्वन्तं पुष्टप᳓तिं रयिष्ठा᳓म्।  
+राय᳓स्पो᳓षं श्रवस्युं᳓ व᳓साना इह᳓ हुवे᳓म᳓ स᳓दनं रयीणा᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/040_sarasvAn/02_A_pratyancham.md">

@@ -37,8 +37,8 @@ A prayer for a boy's long and happy life
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/01_tubhyameva_jarimanvardhatAmayammemamanye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तुभ्य॑मे॒व ज॑रिमन्वर्धताम॒यम्मेमम॒न्ये मृ॒त्यवो॑ हिंसिषुः श॒तं ये।  
-मा॒तेव॑ पु॒त्रं प्रम॑ना उ॒पस्थे॑ मि॒त्र ए॑नं मि॒त्रिया॑त्पा॒त्वंह॑सः ॥
+तु᳓भ्यमेव᳓ जरिमन्वर्धतामय᳓म्मे᳓म᳓मन्ये᳓ मृत्य᳓वो हिंसिषुः शतं᳓ ये᳓।  
+माते᳓व पुत्रं᳓ प्र᳓मना उप᳓स्थे मित्र᳓ एनं मित्रि᳓यात्पात्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/01_tubhyameva_jarimanvardhatAmayammemamanye.md">
@@ -112,8 +112,8 @@ This Child, Old Age! shall grow to meet thee only: none of the hundred other dea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/02_mitra_enam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मि॒त्र ए॑नं॒ वरु॑णो वा रि॒शादा॑ ज॒रामृ॑त्युं कृणुतां संविदा॒नौ।  
-तद॒ग्निर्होता॑ व॒युना॑नि वि॒द्वान्विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति ॥
+मित्र᳓ एनं व᳓रुणो वा रिशा᳓दा जरा᳓मृत्युं कृणुतां संविदानौ᳓।  
+त᳓दग्नि᳓र्हो᳓ता वयु᳓नानि विद्वा᳓न्वि᳓श्वा देवा᳓नां ज᳓निमा विवक्ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/02_mitra_enam.md">
@@ -183,8 +183,8 @@ Mitra or Varuna the foe-destroyer, accordant, grant him death in course of natur
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/03_tvamIshiShe_pashUnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वमी॑शिषे पशू॒नां पार्थि॑वानां॒ ये जा॒ता उ॒त वा॒ ये ज॒नित्राः॑।  
-मेमं प्रा॒णो हा॑सीन्मो अपा॒नो मेमं मि॒त्रा व॑धिषु॒र्मो अ॒मित्राः॑ ॥
+त्व᳓मीशिषे पशूनां᳓ पा᳓र्थिवानां ये᳓ जाता᳓ उत᳓ वा ये᳓ जनि᳓त्राः।  
+मे᳓मं᳓ प्राणो᳓ हासीन्मो अपानो᳓ मे᳓मं᳓ मित्रा᳓ वधिषुर्मो᳓ अमि᳓त्राः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/03_tvamIshiShe_pashUnAm.md">
@@ -251,8 +251,8 @@ Thou art the Lord of all terrestrial cattle, of cattle born and to be born herea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/04_dyauShTvA_pitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्यौष्ट्वा॑ पि॒ता पृ॑थि॒वी मा॒ता ज॒रामृ॑त्युं कृणुतां संविदा॒ने।  
-यथा॒ जीवा॒ अदि॑तेरु॒पस्थे॑ प्राणापा॒नाभ्यां॑ गुपि॒तः श॒तं हिमाः॑ ॥
+द्यौ᳓ष्ट्वा पिता᳓ पृथिवी᳓ माता᳓ जरा᳓मृत्युं कृणुतां संविदाने᳓।  
+य᳓था जी᳓वा अ᳓दितेरुप᳓स्थे प्राणापाना᳓भ्यां गुपितः᳓ शतं᳓ हि᳓माः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/04_dyauShTvA_pitA.md">
@@ -321,8 +321,8 @@ Let Heaven thy father and let Earth thy mother, accordant, give thee death in co
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मम॒ग्न आयु॑षे॒ वर्च॑से नय प्रि॒यं रेतो॑ वरुण मित्र राजन्।  
-मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा ज॒रद॑ष्टि॒र्यथास॑त् ॥
+इम᳓मग्न᳓ आ᳓युषे व᳓र्चसे नय प्रियं᳓ रे᳓तो वरुण मित्र राजन्।  
+माते᳓वास्मा अदिते श᳓र्म यच्छ वि᳓श्वे देवा जर᳓दष्टिर्य᳓था᳓सत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">

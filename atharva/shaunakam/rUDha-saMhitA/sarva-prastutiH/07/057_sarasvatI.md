@@ -37,8 +37,8 @@ A charm for some physical disorder
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/057_sarasvatI/01_yadAshasA_vadato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदा॒शसा॒ वद॑तो मे विचुक्षु॒भे यद्याच॑मानस्य॒ चर॑तो॒ जनाँ॒ अनु॑।  
-यदा॒त्मनि॑ त॒न्वो᳡ मे॒ विरि॑ष्टं॒ सर॑स्वती॒ तदा पृ॑णद्घृ॒तेन॑ ॥
+य᳓दाश᳓सा व᳓दतो मे विचुक्षुभे᳓ य᳓द्या᳓चमानस्य च᳓रतो ज᳓नाँ अ᳓नु।  
+य᳓दात्म᳓नि तन्वो᳙ मे वि᳓रिष्टं स᳓रस्वती त᳓दा᳓ पृणद्घृते᳓न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/057_sarasvatI/01_yadAshasA_vadato.md">
@@ -107,8 +107,8 @@ Whatever trouble hath disturbed and shaken me--I speak with hope, I move, implor
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/057_sarasvatI/02_sapta_xaranti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प्त क्ष॑रन्ति॒ शिश॑वे म॒रुत्व॑ते पि॒त्रे पु॒त्रासो॒ अप्य॑वीवृतन्नृ॒तानि॑।  
-उ॒भे इद॑स्यो॒भे अ॑स्य राजत उ॒भे य॑तेते उ॒भे अ॑स्य पुष्यतः ॥
+सप्त᳓ क्षरन्ति शि᳓शवे मरु᳓त्वते पित्रे᳓ पुत्रा᳓सो अ᳓प्यवीवृतन्नृता᳓नि।  
+उभे᳓ इ᳓दस्योभे᳓ अस्य राजत उभे᳓ यतेते उभे᳓ अस्य पुष्यतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/057_sarasvatI/02_sapta_xaranti.md">

@@ -37,8 +37,8 @@ A charm to bring the cattle home
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/01_asthAd_dyaurasthAtpRthivyasthAdvishvamidam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अस्था॒द् द्यौरस्था॑त्पृथि॒व्यस्था॒द्विश्व॑मि॒दं जग॑त्।  
-आ॒स्थाने॒ पर्व॑ता अस्थु॒ स्थाम्न्यश्वाँ॑ अतिष्ठिपम् ॥
+अ᳓स्थाद् द्यौ᳓र᳓स्थात्पृथिव्य᳓स्थाद्वि᳓श्वमिदं᳓ ज᳓गत्।  
+आस्था᳓ने प᳓र्वता अस्थु स्था᳓म्न्य᳓श्वाँ अतिष्ठिपम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/077_pratiShThApanam/01_asthAd_dyaurasthAtpRthivyasthAdvishvamidam.md">
@@ -106,8 +106,8 @@ Firm stands the heaven, firm stands the earth, firm stands this universal world,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/02_ya_udAnaT.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य उ॒दान॑ट् प॒राय॑णं॒ य उ॒दान॒ण्न्याय॑नम्।  
-आ॒वर्त॑नं नि॒वर्त॑नं॒ यो गो॒पा अपि॒ तं हु॑वे ॥
+य᳓ उदा᳓नट् परा᳓यणं य᳓ उदा᳓नण्न्या᳓यनम्।  
+आव᳓र्तनं निव᳓र्तनं यो᳓ गोपा᳓ अ᳓पि तं᳓ हुवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/077_pratiShThApanam/02_ya_udAnaT.md">
@@ -172,8 +172,8 @@ I call the Herdsman, him who knows the way to drive the cattle forth, Who knows 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/03_jAtavedo_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जात॑वेदो॒ नि व॑र्तय श॒तं ते॑ सन्त्वा॒वृतः॑।  
-स॒हस्रं॑ त उपा॒वृत॒स्ताभि॑र्नः॒ पुन॒रा कृ॑धि ॥
+जा᳓तवेदो नि᳓ वर्तय शतं᳓ ते सन्त्वावृ᳓तः।  
+सह᳓स्रं त उपावृ᳓तस्ता᳓भिर्नः पु᳓नरा᳓ कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/077_pratiShThApanam/03_jAtavedo_ni.md">

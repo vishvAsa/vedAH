@@ -37,8 +37,8 @@ A protective and benedictive charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/01_sahasrArghaH_shatakANDaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑हस्रा॒र्घः श॒तका॑ण्डः॒ पय॑स्वान॒पाम॒ग्निर्वी॒रुधां॑ राज॒सूय॑म्।  
-स नो॒ऽयं द॒र्भः परि॑ पातु वि॒श्वतो॑ दे॒वो म॒णिरायु॑षा॒ सं सृ॑जाति नः ॥
+स᳙हस्रार्घः᳓ शत᳓काण्डः प᳓यस्वानपा᳓मग्नि᳓र्वीरु᳓धां राजसू᳓यम्।  
+स᳓ नोऽयं᳓ दर्भः᳓ प᳓रि पातु विश्व᳓तो देवो᳓ मणि᳓रा᳓युषा सं᳓ सृजाति नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/01_sahasrArghaH_shatakANDaH.md">
@@ -106,8 +106,8 @@ Hundred stemmed, succulent, and worth a thousand, the Royal Rite of plants, the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/02_ghRtAdullupto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-घृ॒तादुल्लु॑प्तो॒ मधु॑मा॒न्पय॑स्वान्भूमिदृं॒होऽच्यु॑तश्च्यावयि॒ष्णुः।  
-नु॒दन्त्स॒पत्ना॒नध॑रांश्च कृ॒ण्वन्दर्भा रो॑ह मह॒तामि॑न्द्रि॒येण॑ ॥
+घृता᳓दु᳓ल्लुप्तो म᳓धुमान्प᳓यस्वान्भूमिदृंहो᳓ऽच्युतश्च्यावयिष्णुः᳓।  
+नुद᳓न्त्सप᳓त्नान᳓धरांश्च कृण्व᳓न्द᳓र्भा᳓ रोह महता᳓मिन्द्रिये᳓ण ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/02_ghRtAdullupto.md">
@@ -178,8 +178,8 @@ Drawn forth from butter, juicy, sweetly-flavoured, firm as the earth, unshaken, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/03_tvaM_bhUmimatyeShyojasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं भू॑मि॒मत्ये॒ष्योज॑सा॒ त्वं वेद्यां॑ सीदसि॒ चारु॑रध्व॒रे।  
-त्वां प॒वित्र॒मृष॑योऽभरन्त॒ त्वं पु॑नीहि दुरि॒तान्य॒स्मत् ॥
+त्वं᳓ भूमिम᳓त्येष्यो᳓जसा त्वं᳓ वे᳓द्यां सीदसि चा᳓रुरध्वरे᳓।  
+त्वां᳓ पवि᳓त्रमृ᳓षयोऽभरन्त त्वं᳓ पुनीहि दुरिता᳓न्यस्म᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/03_tvaM_bhUmimatyeShyojasA.md">
@@ -253,8 +253,8 @@ Thou movest o'er the earth with vigour: lovely in sacrifice thou sittest on the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/04_tIxNo_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ती॒क्ष्णो राजा॑ विषास॒ही र॑क्षो॒हा वि॒श्वच॑र्षणिः।  
-ओजो॑ दे॒वानां॒ बल॑मु॒ग्रमे॒तत्तं ते॑ बध्नामि ज॒रसे॑ स्व॒स्तये॑ ॥
+तीक्ष्णो᳓ रा᳓जा विषासही᳓ रक्षोहा᳓ विश्व᳓चर्षणिः।  
+ओ᳓जो देवा᳓नां ब᳓लमुग्र᳓मेत᳓त्तं᳓ ते बध्नामि जर᳓से स्वस्त᳓ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/04_tIxNo_rAjA.md">
@@ -316,8 +316,8 @@ A stern and all-victorious king, foe-queller, dear to every man-- That energy of
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/05_darbheNa_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द॒र्भेण॒ त्वं कृ॑णवद्वी॒र्या᳡णि द॒र्भं बिभ्र॑दा॒त्मना॒ मा व्य॑थिष्ठाः।  
-अ॑ति॒ष्ठाय॒ वर्च॒साधा॒न्यान्त्सूर्य॑ इ॒वा भा॑हि प्र॒दिश॒श्चत॑स्रः ॥
+दर्भे᳓ण त्वं᳓ कृणवद्वीर्या᳙णि दर्भं᳓ बि᳓भ्रदात्म᳓ना मा᳓ व्यथिष्ठाः।  
+अ᳙तिष्ठा᳓य व᳓र्चसा᳓धान्या᳓न्त्सू᳓र्य इवा᳓ भाहि प्रदि᳓शश्च᳓तस्रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/05_darbheNa_tvam.md">

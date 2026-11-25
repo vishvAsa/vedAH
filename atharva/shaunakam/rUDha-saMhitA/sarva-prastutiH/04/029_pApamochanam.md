@@ -37,8 +37,10 @@ A hymn to Mitra-Varuna
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/01_manve_vAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒न्वे वां॑ मित्रावरुणावृतावृधौ॒ सचे॑तसौ॒ द्रुह्व॑णो॒ यौ नु॒देथे॑।  
-प्र स॒त्यावा॑न॒मव॑थो॒ भरे॑षु॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+मन्वे᳓ वां मित्रावरुणावृतावृधौ  
+स᳓चेतसौ द्रु᳓ह्वणो यौ᳓ नुदे᳓थे।  
+प्र᳓ सत्या᳓वानम् अ᳓वथो भ᳓रेषु  
+तौ᳓ नो मुञ्चतम् अं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/01_manve_vAm.md">
@@ -116,8 +118,10 @@ You twain, O Mitra, Varuna, I honour, Lawstrengtheners, wise, who drive away opp
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/02_sachetasau_druhvaNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सचे॑तसौ॒ द्रुह्व॑णो॒ यौ नु॒देथे॒ प्र स॒त्यावा॑न॒मव॑थो॒ भरे॑षु।  
-यौ गच्छ॑थो नृ॒चक्ष॑सौ ब॒भ्रुणा॑ सु॒तं तौ नो॑ मुञ्चत॒मंह॑सः ॥
+स᳓चेतसौ द्रु᳓ह्वणो यौ᳓ नुदे᳓थे  
+प्र᳓ सत्या᳓वानम् अ᳓वथो भ᳓रेषु।  
+यौ᳓ ग᳓च्छथो नृच᳓क्षसौ बभ्रु᳓णा सुतं᳓  
+तौ᳓ नो मुञ्चतम् अं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/02_sachetasau_druhvaNo.md">
@@ -185,8 +189,10 @@ Ye the wise Gods who drive away oppressors, ye who protect the truthful in his b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/03_yAvangirasamavatho_yAvagastim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यावङ्गि॑रस॒मव॑थो॒ याव॒गस्तिं॒ मित्रा॑वरुणा ज॒मद॑ग्नि॒मत्त्रि॑म्।  
-यौ क॒श्यप॒मव॑थो॒ यौ वसि॑ष्ठं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+या᳓व् अ᳓ङ्गिरसम् अ᳓वथो या᳓व् अग᳓स्तिं  
+मि᳓त्रावरुणा जम᳓दग्निम् अ᳓त्त्रिम्।  
+यौ᳓ कश्य᳓पम् अ᳓वथो यौ᳓ व᳓सिष्ठं  
+तौ᳓ नो मुञ्चतम् अं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/03_yAvangirasamavatho_yAvagastim.md">
@@ -249,8 +255,10 @@ Mitra and Varuna who help Agasti, Atri, and Angiras, and Jamadagni, Ye who help 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/04_yau_shyAvAshvamavatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यौ श्या॒वाश्व॒मव॑थो वध्र्य॒श्वं मित्रा॑वरुणा पुरुमी॒ढमत्त्रि॑म्।  
-यौ वि॑म॒दमव॑थः स॒प्तव॑ध्रिं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+यौ᳓ श्यावा᳓श्वम् अ᳓वथो वध्र्यश्वं᳓  
+मि᳓त्रावरुणा पुरुमीढ᳓म् अ᳓त्त्रिम्।  
+यौ᳓ विमद᳓म् अ᳓वथः सप्त᳓-वध्रिं  
+तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/04_yau_shyAvAshvamavatho.md">
@@ -312,8 +320,10 @@ Mitra and Varuna, who help Syavasva, Atri, and Purumilha, and Vadhryasva, Ye who
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/05_yau_bharadvAjamavatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यौ भ॒रद्वा॑ज॒मव॑थो॒ यौ गवि॑ष्ठिरं वि॒श्वामि॑त्रं वरुण मित्र॒ कुत्स॑म्।  
-यौ क॒क्षीव॑न्त॒मव॑थः॒ प्रोत कण्वं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+यौ᳓ भर᳓द्वाजम् अ᳓वथो यौ᳓ ग᳓विष्ठिरं  
+विश्वा᳓मित्रं वरुण मित्र कु᳓त्सम्।  
+यौ᳓ कक्षी᳓वन्तम् अ᳓वथः प्रो᳓त᳓  
+क᳓ण्वं तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/05_yau_bharadvAjamavatho.md">
@@ -375,8 +385,10 @@ Ye, Varuna, Mitra, who give aid to Kutsa, Gavishthira, Bharadvaja, Visvamitra, W
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/06_yau_medhAtithimavatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यौ मेधा॑तिथि॒मव॑थो॒ यौ त्रि॒शोकं॒ मित्रा॑वरुणावु॒शनां॑ का॒व्यं यौ।  
-यौ गोत॑म॒मव॑थः॒ प्रोत मुद्ग॑लं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+यौ᳓ मे᳓धातिथिम् अ᳓वथो यौ᳓ त्रिशो᳓कं  
+मि᳓त्रावरुणाव् उश᳓नां काव्यं᳓ यौ᳓।  
+यौ᳓ गो᳓तमम् अ᳓वथः प्रो᳓त᳓ मु᳓द्गलं  
+तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/06_yau_medhAtithimavatho.md">
@@ -440,8 +452,10 @@ Ye, Mitra, Varuna, who help Trisoka, Medhatithi, and Usana son of Kavi, Ye, Gota
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/07_yayo_rathaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ययो॒ रथः॑ स॒त्यव॑र्त्म॒र्जुर॑श्मिर्मिथु॒या चर॑न्तमभि॒याति॑ दू॒षय॑न्।  
-स्तौमि॑ मि॒त्रावरु॑णौ नाथि॒तो जो॑हवीमि तौ नो मुञ्चत॒मंह॑सः ॥
+य᳓यो र᳓थः सत्य᳓वर्त्मर्जु᳓र् अश्मिर्  
+मिथुया᳓ च᳓रन्तम् अभिया᳓ति दूष᳓यन्।  
+स्तौ᳓मि मित्रा᳓व᳓रुणौ नाथितो᳓ जोहवीमि  
+तौ नो मुञ्चतम् अं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/07_yayo_rathaH.md">

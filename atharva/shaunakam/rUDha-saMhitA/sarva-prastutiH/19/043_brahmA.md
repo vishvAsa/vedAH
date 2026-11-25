@@ -37,9 +37,9 @@ In praise of Brahma, Prayer, or Devotion
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/01_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-अ॒ग्निर्मा॒ तत्र॑ नयत्व॒ग्निर्मे॒धा द॑धातु मे।  
-अ॒ग्नये॒ स्वाहा॑ ॥
+य᳓त्र ब्रह्मवि᳓दो या᳓न्ति दीक्ष᳓या त᳓पसा सह᳓।  
+अग्नि᳓र्मा त᳓त्र नयत्वग्नि᳓र्मेधा᳓ दधातु मे।  
+अग्न᳓ये स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/01_yatra_brahmavido.md">
@@ -106,9 +106,9 @@ Whither men versed in Brahma go, with fervour and the cleans- ing rite, Thither 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/02_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-वा॒युर्मा॒ तत्र॑ नयतु वा॒युः प्र॒णान्द॑धातु मे।  
-वा॒यवे॒ स्वाहा॑ ॥
+य᳓त्र ब्रह्मवि᳓दो या᳓न्ति दीक्ष᳓या त᳓पसा सह᳓।  
+वायु᳓र्मा त᳓त्र नयतु वायुः᳓ प्रणा᳓न्दधातु मे।  
+वाय᳓वे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/02_yatra_brahmavido.md">
@@ -169,9 +169,9 @@ Whither etc. Thither let Vayu lead me, let Vayu vouchsafe me vital breath. All h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/03_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-सूर्यो॑ मा॒ तत्र॑ नयतु॒ चक्षुः॒ सूर्यो॑ दधातु मे।  
-सूर्या॑य॒ स्वाहा॑ ॥
+य᳓त्र ब्रह्मवि᳓दो या᳓न्ति दीक्ष᳓या त᳓पसा सह᳓।  
+सू᳓र्यो मा त᳓त्र नयतु च᳓क्षुः सू᳓र्यो दधातु मे।  
+सू᳓र्याय स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/03_yatra_brahmavido.md">
@@ -232,9 +232,9 @@ Whither, etc. Thither let Surya lead me, let Surya vouchsafe me power of sight. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/04_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-च॒न्द्रो मा॒ तत्र॑ नयतु॒ मन॑श्च॒न्द्रो द॑धातु मे।  
-च॒न्द्राय॒ स्वाहा॑ ॥
+य᳓त्र ब्रह्मवि᳓दो या᳓न्ति दीक्ष᳓या त᳓पसा सह᳓।  
+चन्द्रो᳓ मा त᳓त्र नयतु म᳓नश्चन्द्रो᳓ दधातु मे।  
+चन्द्रा᳓य स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/04_yatra_brahmavido.md">
@@ -295,9 +295,9 @@ Whither, etc. Thither let Chandra lead me, let Chandra vouchsafe me intellect. A
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/05_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-सोमो॑ मा॒ तत्र॑ नयतु॒ पयः॒ सोमो॑ दधातु मे।  
-सोमा॑य॒ स्वाहा॑ ॥
+य᳓त्र ब्रह्मवि᳓दो या᳓न्ति दीक्ष᳓या त᳓पसा सह᳓।  
+सो᳓मो मा त᳓त्र नयतु प᳓यः सो᳓मो दधातु मे।  
+सो᳓माय स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/05_yatra_brahmavido.md">
@@ -360,9 +360,9 @@ Whither, etc. Thither let Soma lead me, let Soma vouchsafe me vital sap. All hai
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/06_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॑ ब्रह्म॒विदो॑ यान्ति दी॒क्षया॒ तप॑सा स॒ह।  
-इन्द्रो॑ मा॒ तत्र॑ नयतु॒ बल॒मिन्द्रो॑ दधातु मे।  
-इन्द्रा॑य॒ स्वाहा॑ ॥
+य᳓त्र ब्रह्मवि᳓दो यान्ति दीक्ष᳓या त᳓पसा सह᳓।  
+इ᳓न्द्रो मा त᳓त्र नयतु ब᳓लमि᳓न्द्रो दधातु मे।  
+इ᳓न्द्राय स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/06_yatra_brahmavido.md">
@@ -423,9 +423,9 @@ Whither, etc. Thither let Indra lead me, let Indra bestow upon me power. All hai
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/07_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-आपो॑ मा॒ तत्र॑ नयत्व॒मृतं॒ मोप॑ तिष्ठतु।  
-अ॒द्भ्यः स्वाहा॑ ॥
+य᳓त्र ब्रह्मवि᳓दो या᳓न्ति दीक्ष᳓या त᳓पसा सह᳓।  
+आ᳓पो मा त᳓त्र नयत्वमृ᳓तं मो᳓प तिष्ठतु।  
+अद्भ्यः᳓ स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/07_yatra_brahmavido.md">
@@ -493,9 +493,9 @@ Whither, etc. Thither, let Waters lead me, let the Waters give me deathless life
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/08_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-ब्र॒ह्मा मा॒ तत्र॑ नयतु ब्र॒ह्मा ब्रह्म॑ दधातु मे।  
-ब्र॒ह्मणे॒ स्वाहा॑ ॥
+य᳓त्र ब्रह्मवि᳓दो या᳓न्ति दीक्ष᳓या त᳓पसा सह᳓।  
+ब्रह्मा᳓ मा त᳓त्र नयतु ब्रह्मा᳓ ब्र᳓ह्म दधातु मे।  
+ब्रह्म᳓णे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/08_yatra_brahmavido.md">

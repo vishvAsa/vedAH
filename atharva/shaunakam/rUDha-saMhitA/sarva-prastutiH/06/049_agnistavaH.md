@@ -37,8 +37,8 @@ In praise of Agni
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/049_agnistavaH/01_nahi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न॒हि ते॑ अग्ने त॒न्वः॑᳡ क्रू॒रमा॒नंश॒ मर्त्यः॑।  
-क॒पिर्ब॑भस्ति॒ तेज॑नं॒ स्वं ज॒रायु॒ गौरि॑व ॥
+नहि᳓ ते अग्ने तन्वः᳙ क्रूर᳓मानं᳓श म᳓र्त्यः।  
+कपि᳓र्बभस्ति ते᳓जनं स्वं᳓ जरा᳓यु गौ᳓रिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/049_agnistavaH/01_nahi_te.md">
@@ -104,8 +104,8 @@ O Agni, in thy body man hath never found a wounded part. The Ape devours the arr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/049_agnistavaH/02_meSha_iva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मे॒ष इ॑व॒ वै सं च॒ वि चो॒र्व᳡च्यसे॒ यदु॑त्तर॒द्रावुप॑रश्च॒ खाद॑तः।  
-शी॒र्ष्णा शिरोऽप्स॒साप्सो॑ अ॒र्दय॑न्नं॒शून्ब॑भस्ति॒ हरि॑तेभिरा॒सभिः॑ ॥
+मेष᳓ इव वै᳓ सं᳓ च वि᳓ चोर्व᳙च्यसे य᳓दुत्तरद्रा᳓वु᳓परश्च खा᳓दतः।  
+शीर्ष्णा᳓ शि᳓रो᳓ऽप्ससा᳓प्सो अर्द᳓यन्नंशू᳓न्बभस्ति ह᳓रितेभिरास᳓भिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/049_agnistavaH/02_meSha_iva.md">
@@ -183,8 +183,8 @@ Thou like a fleece contractest and expandest thee what time the upper stone and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/049_agnistavaH/03_suparNA_vAchamakratopa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॑प॒र्णा वाच॑मक्र॒तोप॒ द्यव्या॑ख॒रे कृष्णा॑ इषि॒रा अ॑नर्तिषुः।  
-नि यन्नि॒यन्ति॒ उप॑रस्य॒ निष्कृ॑तिं पु॒रू रेतो॑ दधिरे सूर्यश्रितः ॥
+सु᳙पर्णा᳓ वा᳓चमक्रतो᳓प द्य᳓व्याखरे᳓ कृ᳓ष्णा इषिरा᳓ अनर्तिषुः।  
+नि᳓ य᳓न्निय᳓न्ति उ᳓परस्य नि᳓ष्कृतिं पुरू᳓ रे᳓तो दधिरे सूर्यश्रितः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/049_agnistavaH/03_suparNA_vAchamakratopa.md">

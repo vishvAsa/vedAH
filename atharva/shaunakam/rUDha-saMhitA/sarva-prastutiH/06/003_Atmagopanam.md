@@ -37,8 +37,8 @@ A prayer to various deities for protection and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/01_pAtaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पा॒तं न॑ इन्द्रापूष॒णादि॑तिः पान्तु म॒रुतः॑।  
-अपां॑ नपात्सिन्धवः स॒प्त पा॑तन॒ पातु॑ नो॒ विष्णु॑रु॒त द्यौः ॥
+पातं᳓ न इन्द्रापूषणा᳓दितिः पान्तु मरु᳓तः।  
+अ᳓पां नपात्सिन्धवः सप्त᳓ पातन पा᳓तु नो वि᳓ष्णुरुत᳓ द्यौः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/003_Atmagopanam/01_pAtaM_na.md">
@@ -101,8 +101,8 @@ Guard us the Maruts! Guard us well, O Indra, Piishan, Aditi. Guard us, O Waters'
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/02_pAtAM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पा॒तां नो॒ द्यावा॑पृथि॒वी अ॒भिष्ट॑ये॒ पातु॒ ग्रावा॒ पातु॒ सोमो॑ नो॒ अंह॑सः।  
-पातु॑ नो दे॒वी सु॒भगा॒ सर॑स्वती॒ पात्व॒ग्निः शि॒वा ये अ॑स्य पा॒यवः॑ ॥
+पातां᳓ नो द्या᳓वापृथिवी᳓ अभि᳓ष्टये पा᳓तु ग्रा᳓वा पा᳓तु सो᳓मो नो अं᳓हसः।  
+पा᳓तु नो देवी᳓ सुभ᳓गा स᳓रस्वती पा᳓त्वग्निः᳓ शिवा᳓ ये᳓ अस्य पाय᳓वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/003_Atmagopanam/02_pAtAM_no.md">
@@ -173,8 +173,8 @@ May Heaven and Earth take care of us for victory, may Pressing- Stone and Soma s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/03_pAtAM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पा॒तां नो॑ दे॒वाश्विना॑ शु॒भस्पती॑ उ॒षासा॒नक्तो॒त न॑ उरुष्यताम्।  
-अपां॑ नपा॒दभि॑ह्रुती॒ गय॑स्य चि॒द्देव॑ त्वष्टर्व॒र्धय॑ स॒र्वता॑तये ॥
+पातां᳓ नो देवा᳓श्वि᳓ना शुभ᳓स्प᳓ती उषा᳓सान᳓क्तोत᳓ न उरुष्यताम्।  
+अ᳓पां नपाद᳓भिह्रुती ग᳓यस्य चिद्दे᳓व त्वष्टर्वर्ध᳓य सर्व᳓तातये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/003_Atmagopanam/03_pAtAM_no.md">

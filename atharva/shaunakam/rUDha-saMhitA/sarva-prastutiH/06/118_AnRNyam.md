@@ -33,8 +33,8 @@ Translated: Ludwig, p. 455; Griffith, i. 310.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्धस्ता॑भ्यां चकृ॒म किल्बि॑षाण्य॒क्षाणां॑ ग॒त्नुमु॑प॒लिप्स॑मानाः।  
-उ॑ग्रंप॒श्ये उ॑ग्र॒जितौ॒ तद॒द्याप्स॒रसा॒वनु॑ दत्तामृ॒णं नः॑ ॥
+य᳓द्ध᳓स्ताभ्यां चकृम᳓ कि᳓ल्बिषाण्यक्षा᳓णां गत्नु᳓मुपलि᳓प्समानाः।  
+उ᳙ग्रंपश्ये᳓ उग्रजि᳓तौ त᳓दद्या᳓प्सर᳓साव᳓नु दत्तामृणं᳓ नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
@@ -114,8 +114,8 @@ If we have sinned with both our hands, desiring to take the host of dice for our
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/02_ugrampashye_rAShTrabhRtkilbiShANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उग्रं॑पश्ये॒ राष्ट्र॑भृ॒त्किल्बि॑षाणि॒ यद॒क्षवृ॑त्त॒मनु॑ दत्तं न ए॒तत्।  
-ऋ॒णान्नो॒ नर्णमेर्त्स॑मानो य॒मस्य॑ लो॒के अधि॑रज्जु॒राय॑त् ॥
+उ᳓ग्रंपश्ये रा᳓ष्ट्रभृत्कि᳓ल्बिषाणि य᳓दक्ष᳓वृत्तम᳓नु दत्तं न एत᳓त्।  
+ऋणा᳓न्नो न᳓र्ण᳓मे᳓र्त्समानो यम᳓स्य लोके᳓ अ᳓धिरज्जुरा᳓यत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/118_AnRNyam/02_ugrampashye_rAShTrabhRtkilbiShANi.md">
@@ -196,8 +196,8 @@ Stern viewers of their sins who rule the people, forgive us what hash happened a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/03_yasmA_RNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्मा॑ ऋ॒णं यस्य॑ जा॒यामु॒पैमि॒ यं याच॑मानो अ॒भ्यैमि॑ देवाः।  
-ते वाचं॑ वादिषु॒र्मोत्त॑रां॒ मद्देव॑पत्नी॒ अप्स॑रसा॒वधी॑तम् ॥
+य᳓स्मा ऋणं᳓ य᳓स्य जाया᳓मुपै᳓मि यं᳓ या᳓चमानो अभ्यै᳓मि देवाः।  
+ते᳓ वा᳓चं वादिषुर्मो᳓त्तरां म᳓द्दे᳓वपत्नी अ᳓प्सरसाव᳓धीतम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/118_AnRNyam/03_yasmA_RNam.md">

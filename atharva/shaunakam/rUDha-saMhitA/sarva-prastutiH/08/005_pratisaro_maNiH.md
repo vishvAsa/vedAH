@@ -36,8 +36,8 @@ A charm accompanying investiture with an amulet
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/01_ayaM_pratisaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं प्र॑तिस॒रो म॒णिर्वी॒रो वी॒राय॑ बध्यते।  
-वी॒र्य᳡वान्त्सपत्न॒हा शूर॑वीरः परि॒पाणः॑ सुम॒ङ्गलः॑ ॥
+अयं᳓ प्रतिसरो᳓ मणि᳓र्वीरो᳓ वीरा᳓य बध्यते।  
+वीर्य᳙वान्त्सपत्नहा᳓ शू᳓रवीरः परिपा᳓णः सुमङ्ग᳓लः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/01_ayaM_pratisaro.md">
@@ -101,8 +101,8 @@ Upon the strong is bound the strong, this magic cord, this Amu- let, Potent, foe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/02_ayaM_maNiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं म॒णिः स॑पत्न॒हा सु॒वीरः॒ सह॑स्वान्वा॒जी सह॑मान उ॒ग्रः।  
-प्र॒त्यक्कृ॒त्या दू॒षय॑न्नेति वी॒रः ॥
+अयं᳓ मणिः᳓ सपत्नहा᳓ सुवी᳓रः स᳓हस्वान्वाजी᳓ स᳓हमान उग्रः᳓।  
+प्रत्य᳓क्कृत्या᳓ दूष᳓यन्नेति वीरः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/02_ayaM_maNiH.md">
@@ -164,8 +164,8 @@ This Charm, foe-slayer, served by many heroes, strong, power- ful, victorious, a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/03_anenendro_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒नेनेन्द्रो॑ म॒णिना॑ वृ॒त्रम॑हन्न॒नेनासु॑रा॒न्परा॑भावयन्मनी॒षी।  
-अ॒नेना॑जय॒द्द्यावा॑पृथि॒वी उ॒भे इ॒मे अ॒नेना॑जयत्प्र॒दिश॒श्चत॑स्रः ॥
+अने᳓ने᳓न्द्रो मणि᳓ना वृत्र᳓महन्नने᳓ना᳓सुरान्प᳓राभावयन्मनीषी᳓।  
+अने᳓नाजयद्द्या᳓वापृथिवी᳓ उभे᳓ इमे᳓ अने᳓नाजयत्प्रदि᳓शश्च᳓तस्रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/03_anenendro_maNinA.md">
@@ -227,8 +227,8 @@ With this same Amulet wise Indra routed the Asuras, with this he slaughtered Vri
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/04_ayaM_srAktyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं स्रा॒क्त्यो म॒णिः प्र॑तीव॒र्तः प्र॑तिस॒रः।  
-ओज॑स्वान्विमृ॒धो व॒शी सो अ॒स्मान्पा॑तु स॒र्वतः॑ ॥
+अयं᳓ स्राक्त्यो᳓ मणिः᳓ प्रतीवर्तः᳓ प्रतिसरः᳓।  
+ओ᳓जस्वान्विमृधो᳓ वशी᳓ सो᳓ अस्मा᳓न्पातु सर्व᳓तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/04_ayaM_srAktyo.md">
@@ -290,8 +290,8 @@ May this encircling magic cord, this Amulet of Sraktya wood, Mighty, subduing en
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/05_tadagnirAha_tadu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तद॒ग्निरा॑ह॒ तदु॒ सोम॑ आह॒ बृह॒स्पतिः॑ सवि॒ता तदिन्द्रः॑।  
-ते मे॑ दे॒वाः पु॒रोहि॑ताः प्र॒तीचीः॑ कृ॒त्याः प्र॑तिस॒रैर॑जन्तु ॥
+त᳓दग्नि᳓राह त᳓दु सो᳓म आह बृ᳓हस्प᳓तिः सविता᳓ त᳓दि᳓न्द्रः।  
+ते᳓ मे देवाः᳓ पुरो᳓हिताः प्रती᳓चीः कृत्याः᳓ प्रतिसरै᳓रजन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/05_tadagnirAha_tadu.md">
@@ -356,8 +356,8 @@ This Agni hath declared, Soma declared it, Brihaspati, and Savitar, and Indra. S
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/06_antardadhe_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तर्द॑धे॒ द्यावा॑पृथि॒वी उ॒ताह॑रु॒त सूर्य॑म्।  
-ते मे॑ दे॒वाः पु॒रोहि॑ताः प्र॒तीचीः॑ कृ॒त्याः प्र॑तिस॒रैर॑जन्तु ॥
+अन्त᳓र्दधे द्या᳓वापृथिवी᳓ उता᳓हरुत᳓ सू᳓र्यम्।  
+ते᳓ मे देवाः᳓ पुरो᳓हिताः प्रती᳓चीः कृत्याः᳓ प्रतिसरै᳓रजन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/06_antardadhe_dyAvApRthivI.md">
@@ -421,8 +421,8 @@ I have obscured the heaven and earth, yea, and the daylight and the sun. So may 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/07_ye_srAktyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये स्रा॒क्त्यं म॒णिं जना॒ वर्मा॑णि कृ॒ण्वते॑।  
-सूर्य॑ इव॒ दिव॑मा॒रुह्य॒ वि कृ॒त्या बा॑धते व॒शी ॥
+ये᳓ स्राक्त्यं᳓ मणिं᳓ ज᳓ना व᳓र्माणि कृण्व᳓ते।  
+सू᳓र्य इव दि᳓वमारु᳓ह्य वि᳓ कृत्या᳓ बाधते वशी᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/07_ye_srAktyam.md">
@@ -483,8 +483,8 @@ Whoever for his armour takes an amulet of the Sraktya tree, Like the Sun risen u
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/08_srAktyena_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्रा॒क्त्येन॑ म॒णिना॒ ऋषि॑णेव मनी॒षिणा॑।  
-अजै॑षं॒ सर्वाः॒ पृत॑ना॒ वि मृधो॑ हन्मि र॒क्षसः॑ ॥
+स्राक्त्ये᳓न मणि᳓ना ऋ᳓षिणेव मनीषि᳓णा।  
+अ᳓जैषं स᳓र्वाः पृ᳓तना वि᳓ मृ᳓धो हन्मि रक्ष᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/08_srAktyena_maNinA.md">
@@ -544,8 +544,8 @@ With Amulet of Sraktya wood, as with a thoughtful Rishi's aid, In every fight ha
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/09_yAH_kRtyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याः कृ॒त्या आ॑ङ्गिर॒सीर्याः कृ॒त्या आ॑सु॒रीर्याः कृ॒त्याः स्व॒यंकृ॑ता॒ या उ॑ चा॒न्येभि॒राभृ॑ताः।  
-उ॒भयी॒स्ताः परा॑ यन्तु परा॒वतो॑ नव॒तिं ना॒व्या३॒॑ अति॑ ॥
+याः᳓ कृत्या᳓ आङ्गिरसी᳓र्याः᳓ कृत्या᳓ आसुरी᳓र्याः᳓ कृत्याः᳓ स्वयं᳓कृता या᳓ उ चान्ये᳓भिरा᳓भृताः।  
+उभ᳓यीस्ताः᳓ प᳓रा यन्तु पराव᳓तो नवतिं᳓ नाव्या᳙ अ᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/09_yAH_kRtyA.md">
@@ -614,8 +614,8 @@ All witchcraft of Angirases,"all witchcraft wrought by Asuras, All witchcraft se
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/10_asmai_maNim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्मै म॒णिं वर्म॑ बध्नन्तु दे॒वा इन्द्रो॒ विष्णुः॑ सवि॒ता रु॒द्रो अ॒ग्निः।  
-प्र॒जाप॑तिः परमे॒ष्ठी वि॒राड्वै॑श्वान॒र ऋष॑यश्च॒ सर्वे॑ ॥
+अस्मै᳓ मणिं᳓ व᳓र्म बध्नन्तु देवा᳓ इ᳓न्द्रो वि᳓ष्णुः सविता᳓ रुद्रो᳓ अग्निः᳓।  
+प्रजा᳓पतिः परमेष्ठी᳓ विरा᳓ड्वैश्वानर᳓ ऋ᳓षयश्च स᳓र्वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/10_asmai_maNim.md">
@@ -677,8 +677,8 @@ May the Gods bind the Charm on him for armour, Indra, and Vishnu, Savitar Rudra,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/11_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्त॒मो अ॒स्योष॑धीनामन॒ड्वाञ्जग॑तामिव व्या॒घ्रः श्वप॑दामिव।  
-यमैच्छा॒मावि॑दाम॒ तं प्र॑ति॒स्पाश॑न॒मन्ति॑तम् ॥
+उ᳓त्तमो᳓ अस्यो᳓षधीनामनड्वा᳓ञ्ज᳓गतामिव व्याघ्रः᳓ श्व᳓पदामिव।  
+य᳓मै᳓च्छामा᳓विदाम तं᳓ प्रतिस्पा᳓शनम᳓न्तितम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/11_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
@@ -755,8 +755,8 @@ Thou art the chief of all the plants, even as a bull among the beasts. A tiger o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/12_sa_idvyAghro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स इद्व्या॒घ्रो भ॑व॒त्यथो॑ सिं॒हो अथो॒ वृषा॑।  
-अथो॑ सपत्न॒कर्श॑नो॒ यो बिभ॑र्ती॒मं म॒णिम् ॥
+स᳓ इ᳓द्व्याघ्रो᳓ भवत्य᳓थो सिंहो᳓ अ᳓थो वृ᳓षा।  
+अ᳓थो सपत्नक᳓र्शनो यो᳓ बि᳓भर्तीमं᳓ मणि᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/12_sa_idvyAghro.md">
@@ -821,8 +821,8 @@ A tiger verily is he, he is a lion, and a bull, Subduer of his foes is he, the m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/13_nainaM_ghnantyapsaraso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नैनं॑ घ्नन्त्यप्स॒रसो॒ न ग॑न्ध॒र्वा न मर्त्याः॑।  
-सर्वा॒ दिशो॒ वि रा॑जति॒ यो बिभ॑र्ती॒मं म॒णिम् ॥
+नै᳓नं घ्नन्त्यप्सर᳓सो न᳓ गन्धर्वा᳓ न᳓ म᳓र्त्याः।  
+स᳓र्वा दि᳓शो वि᳓ राजति यो᳓ बि᳓भर्तीमं᳓ मणि᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/13_nainaM_ghnantyapsaraso.md">
@@ -882,9 +882,9 @@ No mortal beings slay him, no Gandharvas, no Apsarases; O'er all the regions he 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/14_kashyapastvAmasRjata_kashyapastvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क॒श्यप॒स्त्वाम॑सृजत क॒श्यप॑स्त्वा॒ समै॑रयत्।  
-अबि॑भ॒स्त्वेन्द्रो॒ मानु॑षे॒ बिभ्र॑त्संश्रेषि॒णे᳡ज॑यत्।  
-म॒णिं स॒हस्र॑वीर्यं॒ वर्म॑ दे॒वा अ॑कृण्वत ॥
+कश्य᳓पस्त्वा᳓मसृजत कश्य᳓पस्त्वा स᳓मैरयत्।  
+अ᳓बिभस्त्वे᳓न्द्रो मा᳓नुषे बि᳓भ्रत्संश्रेषिणे᳙जयत्।  
+मणिं᳓ सह᳓स्रवीर्यं व᳓र्म देवा᳓ अकृण्वत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/14_kashyapastvAmasRjata_kashyapastvA.md">
@@ -954,8 +954,8 @@ Kasyapa formed and fashioned thee, Kasyapa raised and sent thee forth. Indra wor
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/15_yastvA_kRtyAbhiryastvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्त्वा॑ कृ॒त्याभि॒र्यस्त्वा॑ दी॒क्षाभि॑र्य॒ज्ञैर्यस्त्वा॒ जिघां॑सति।  
-प्र॒त्यक्त्वमि॑न्द्र॒ तं ज॑हि॒ वज्रे॑ण श॒तप॑र्वणा ॥
+य᳓स्त्वा कृत्या᳓भिर्य᳓स्त्वा दीक्षा᳓भिर्यज्ञै᳓र्य᳓स्त्वा जि᳓घांसति।  
+प्रत्य᳓क्त्व᳓मिन्द्र तं᳓ जहि व᳓ज्रेण शत᳓पर्वणा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/15_yastvA_kRtyAbhiryastvA.md">
@@ -1017,8 +1017,8 @@ Whoever would destroy thee with Diksha-rites, sacrifices, spells, Meet him and s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/16_ayamidvai_pratIvarta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यमिद्वै प्र॑तीव॒र्त ओज॑स्वान्संज॒यो म॒णिः।  
-प्र॒जां धनं॑ च रक्षतु परि॒पाणः॑ सुम॒ङ्गलः॑ ॥
+अय᳓मि᳓द्वै᳓ प्रतीवर्त᳓ ओ᳓जस्वान्संजयो᳓ मणिः᳓।  
+प्रजां᳓ ध᳓नं च रक्षतु परिपा᳓णः सुमङ्ग᳓लः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/16_ayamidvai_pratIvarta.md">
@@ -1080,8 +1080,8 @@ Verily let this Amulet, circular, potent, conquering, Happy and fortunate defenc
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/17_asapatnaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑सप॒त्नं नो॑ अध॒राद॑सप॒त्नं न॑ उत्त॒रात्।  
-इन्द्रा॑सप॒त्नं नः॑ प॒श्चाज्ज्योतिः॑ शूर पु॒रस्कृ॑धि ॥
+अ᳙सपत्नं᳓ नो अधरा᳓दसपत्नं᳓ न उत्तरा᳓त्।  
+इ᳓न्द्रासपत्नं᳓ नः पश्चा᳓ज्ज्यो᳓तिः शूर पुर᳓स्कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/17_asapatnaM_no.md">
@@ -1144,8 +1144,8 @@ Brave Indra, set before us light, peace and security from below, Peace and secur
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/18_varma_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वर्म॑ मे॒ द्यावा॑पृथि॒वी वर्माह॒र्वर्म॒ सूर्यः॑।  
-वर्म॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒ वर्म॑ धा॒ता द॑धातु मे ॥
+व᳓र्म मे द्या᳓वापृथिवी᳓ व᳓र्मा᳓हर्व᳓र्म सू᳓र्यः।  
+व᳓र्म म इ᳓न्द्रश्चाग्नि᳓श्च व᳓र्म धाता᳓ दधातु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/18_varma_me.md">
@@ -1215,8 +1215,8 @@ My coat of mail is Heaven and Earth, my coat of mail is Day and Sun: A coat of m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/19_aindrAgnaM_varma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऐ॑न्द्रा॒ग्नं वर्म॑ बहु॒लं यदु॒ग्रं विश्वे॑ दे॒वा नाति॒विध्य॑न्ति॒ सर्वे॑।  
-तन्मे॑ त॒न्वं᳡ त्रायतां स॒र्वतो॑ बृ॒हदायु॑ष्माञ्ज॒रद॑ष्टि॒र्यथासा॑नि ॥
+ऐ᳙न्द्राग्नं᳓ व᳓र्म बहुलं᳓ य᳓दुग्रं᳓ वि᳓श्वे देवा᳓ ना᳓तिवि᳓ध्यन्ति स᳓र्वे।  
+त᳓न्मे तन्वं᳙ त्रायतां सर्व᳓तो बृह᳓दा᳓युष्माञ्जर᳓दष्टिर्य᳓था᳓सानि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/19_aindrAgnaM_varma.md">
@@ -1280,8 +1280,8 @@ Not all the Gods may pierce, all leagued together, the vast strong shield which 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/20_A_mAruxaddevamaNirmahyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ मा॑रुक्षद्देवम॒णिर्म॒ह्या अ॑रि॒ष्टता॑तये।  
-इ॒मं मे॒थिम॑भि॒संवि॑शध्वं तनू॒पानं॑ त्रि॒वरू॑थ॒मोज॑से ॥
+आ᳓ मारुक्षद्देवमणि᳓र्मह्या᳓ अरिष्ट᳓तातये।  
+इमं᳓ मेथि᳓मभिसं᳓विशध्वं तनूपा᳓नं त्रिव᳓रूथमो᳓जसे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/20_A_mAruxaddevamaNirmahyA.md">
@@ -1351,8 +1351,8 @@ Let the Gods' Charm be bound on me to keep me safe from every ill. Come ye and e
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/21_asminnindro_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्मिन्निन्द्रो॒ नि द॑धातु नृ॒म्णमि॒मं दे॑वासो अभि॒संवि॑शध्वम्।  
-दी॑र्घायु॒त्वाय॑ श॒तशा॑रदा॒यायु॑ष्माञ्ज॒रद॑ष्टि॒र्यथास॑त् ॥
+अस्मि᳓न्नि᳓न्द्रो नि᳓ दधातु नृम्ण᳓मिमं᳓ देवासो अभिसं᳓विशध्वम्।  
+दी᳙र्घायुत्वा᳓य शत᳓शारदाया᳓युष्माञ्जर᳓दष्टिर्य᳓था᳓सत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/21_asminnindro_ni.md">
@@ -1414,10 +1414,10 @@ In this let Indra lay a store of valour: approach ye Gods, and enter it together
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/005_pratisaro_maNiH/22_svastidA_vishAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्व॑स्ति॒दा वि॒शां पति॑र्वृत्र॒हा वि॑मृ॒धो व॒शी।  
-इन्द्रो॑ बध्नातु ते म॒णिं जि॑गी॒वाँ अप॑राजितः।  
-सो॑म॒पा अ॑भयङ्क॒रो वृषा॑।  
-स त्वा॑ रक्षतु स॒र्वतो॒ दिवा॒ नक्तं॑ च वि॒श्वतः॑ ॥
+स्व᳙स्तिदा᳓ विशां᳓ प᳓तिर्वृत्रहा᳓ विमृधो᳓ वशी᳓।  
+इ᳓न्द्रो बध्नातु ते मणिं᳓ जिगीवाँ᳓ अ᳓पराजितः।  
+सो᳙मपा᳓ अभयङ्करो᳓ वृ᳓षा।  
+स᳓ त्वा रक्षतु सर्व᳓तो दि᳓वा न᳓क्तं च विश्व᳓तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/005_pratisaro_maNiH/22_svastidA_vishAm.md">

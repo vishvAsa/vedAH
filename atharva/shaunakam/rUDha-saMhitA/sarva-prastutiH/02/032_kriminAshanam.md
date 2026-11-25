@@ -40,8 +40,8 @@ A charm against worms or bots in cows
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/032_kriminAshanam/01_udyannAdityaH_krimInhantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒द्यन्ना॑दि॒त्यः क्रिमी॑न्हन्तु नि॒म्रोच॑न्हन्तु र॒श्मिभिः॑।  
-ये अ॒न्तः क्रिम॑यो॒ गवि॑ ॥
+उद्य᳓न्नादित्यः᳓ क्रि᳓मीन्हन्तु निम्रो᳓चन्हन्तु रश्मि᳓भिः।  
+ये᳓ अन्तः᳓ क्रि᳓मयो ग᳓वि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/032_kriminAshanam/01_udyannAdityaH_krimInhantu.md">
@@ -109,8 +109,8 @@ Uprising let the Sun destroy, and when he sinketh, with his beams. The Worms tha
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/032_kriminAshanam/02_vishvarUpaM_chaturaxam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒श्वरू॑पं चतुर॒क्षं क्रिमिं॑ सा॒रङ्ग॒मर्जु॑नम्।  
-शृ॒णाम्य॑स्य पृ॒ष्टीरपि॑ वृश्चामि॒ यच्छिरः॑ ॥
+विश्व᳓रूपं चतुरक्षं᳓ क्रि᳓मिं सार᳓ङ्गम᳓र्जुनम्।  
+शृणा᳓म्यस्य पृष्टी᳓र᳓पि वृश्चामि य᳓च्छि᳓रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/032_kriminAshanam/02_vishvarUpaM_chaturaxam.md">
@@ -174,8 +174,8 @@ The four-eyed worm, of every shape, the variegated, and the white I break and cr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/032_kriminAshanam/03_atrivadvaH_krimayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑त्रि॒वद्वः॑ क्रिमयो हन्मि कण्व॒वज्ज॑मदग्नि॒वत्।  
-अ॒गस्त्य॑स्य॒ ब्रह्म॑णा॒ सं पि॑नष्म्य॒हं क्रिमी॑न् ॥
+अ᳙त्रिव᳓द्वः क्रिमयो हन्मि कण्वव᳓ज्जमदग्निव᳓त्।  
+अग᳓स्त्यस्य ब्र᳓ह्मणा सं᳓ पिनष्म्यहं᳓ क्रि᳓मीन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/032_kriminAshanam/03_atrivadvaH_krimayo.md">
@@ -242,8 +242,8 @@ Like Atri I destroy you, Worms! in Kanva's, Jamadagni's way: I bray and bruise t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/032_kriminAshanam/04_hato_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ह॒तो राजा॒ क्रिमी॑णामु॒तैषां॑ स्थ॒पति॑र्ह॒तः।  
-ह॒तो ह॒तमा॑ता॒ क्रिमि॑र्ह॒तभ्रा॑ता ह॒तस्व॑सा ॥
+हतो᳓ रा᳓जा क्रि᳓मीणामुतै᳓षां स्थप᳓तिर्हतः᳓।  
+हतो᳓ हत᳓माता क्रि᳓मिर्हत᳓भ्राता हत᳓स्वसा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/032_kriminAshanam/04_hato_rAjA.md">
@@ -309,8 +309,8 @@ Slain is the sovran of these Worms, yea, their controlling lord is slain: Slain 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/032_kriminAshanam/05_hatAso_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ह॒तासो॑ अस्य वे॒शसो॑ ह॒तासः॒ परि॑वेशसः।  
-अथो॒ ये क्षु॑ल्ल॒का इ॑व॒ सर्वे॒ ते क्रिम॑यो ह॒ताः ॥
+हता᳓सो अस्य वेश᳓सो हता᳓सः प᳓रिवेशसः।  
+अ᳓थो ये᳓ क्षुल्लका᳓ इव स᳓र्वे ते᳓ क्रि᳓मयो हताः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/032_kriminAshanam/05_hatAso_asya.md">
@@ -380,8 +380,8 @@ Slain are his ministers, and slain his followers and retinue: Yes, those that se
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/032_kriminAshanam/06_pra_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र ते॑ शृणामि॒ शृङ्गे॒ याभ्यां॑ वितुदा॒यसि॑।  
-भि॒नद्मि॑ ते कु॒षुम्भं॒ यस्ते॑ विष॒धानः॑ ॥
+प्र᳓ ते शृणामि शृ᳓ङ्गे या᳓भ्यां वितुदाय᳓सि।  
+भिन᳓द्मि ते कुषु᳓म्भं य᳓स्ते विषधा᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/032_kriminAshanam/06_pra_te.md">

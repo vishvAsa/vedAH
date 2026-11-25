@@ -37,8 +37,8 @@ An imprecation
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/059_shApa-mochanam/01_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नः॑ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्।  
-वृ॒क्ष इ॑व वि॒द्युता॑ ह॒त आ मूला॒दनु॑ शुष्यतु ॥
+यो᳓ नः शपाद᳓शपतः श᳓पतो य᳓श्च नः श᳓पात्।  
+वृक्ष᳓ इव विद्यु᳓ता हत᳓ आ᳓ मू᳓लाद᳓नु शुष्यतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/059_shApa-mochanam/01_yo_naH.md">

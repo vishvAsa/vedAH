@@ -37,8 +37,8 @@ A prayer for recovery and preservation of health and security
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/053_sarvato_raxaNam/01_dyaushcha_ma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्यौश्च॑ म इ॒दं पृ॑थि॒वी च॒ प्रचे॑तसौ शु॒क्रो बृ॒हन्दक्षि॑णया पिपर्तु।  
-अनु॑ स्व॒धा चि॑कितां॒ सोमो॑ अ॒ग्निर्वा॒युर्नः॑ पातु सवि॒ता भग॑श्च ॥
+द्यौ᳓श्च म इदं᳓ पृथिवी᳓ च प्र᳓चेतसौ शुक्रो᳓ बृह᳓न्द᳓क्षिणया पिपर्तु।  
+अ᳓नु स्वधा᳓ चिकितां सो᳓मो अग्नि᳓र्वायु᳓र्नः पातु सविता᳓ भ᳓गश्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/053_sarvato_raxaNam/01_dyaushcha_ma.md">
@@ -110,8 +110,8 @@ May Heaven and Earth, wise pair, may lofty Sukra grant me this thing by reason o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/053_sarvato_raxaNam/02_punaH_prANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुनः॑ प्रा॒णः पुन॑रा॒त्मा न॒ ऐतु॒ पुन॒श्चक्षुः॒ पुन॒रसु॑र्न॒ ऐतु॑।  
-वै॑श्वान॒रो नो॒ अद॑ब्धस्तनू॒पा अ॒न्तस्ति॑ष्ठाति दुरि॒तानि॒ विश्वा॑ ॥
+पु᳓नः प्राणः᳓ पु᳓नरात्मा᳓ न ऐ᳓तु पु᳓नश्च᳓क्षुः पु᳓नर᳓सुर्न ऐ᳓तु।  
+वै᳙श्वानरो᳓ नो अ᳓दब्धस्तनूपा᳓ अन्त᳓स्तिष्ठाति दुरिता᳓नि वि᳓श्वा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/053_sarvato_raxaNam/02_punaH_prANaH.md">
@@ -181,8 +181,8 @@ Again return to us our breath and spirit, again come back to us our life and vis
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/053_sarvato_raxaNam/03_saM_varchasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं वर्च॑सा॒ पय॑सा॒ सं त॒नूभि॒रग॑न्महि॒ मन॑सा॒ सं शि॒वेन॑।  
-त्वष्टा॑ नो॒ अत्र॒ वरी॑यः कृणो॒त्वनु॑ नो मार्ष्टु त॒न्वो॒३॒॑ यद्विरि॑ष्टम् ॥
+सं᳓ व᳓र्चसा प᳓यसा सं᳓ तनू᳓भिर᳓गन्महि म᳓नसा सं᳓ शिवे᳓न।  
+त्व᳓ष्टा नो अ᳓त्र व᳓रीयः कृणोत्व᳓नु नो मार्ष्टु तन्वो᳙ य᳓द्वि᳓रिष्टम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/053_sarvato_raxaNam/03_saM_varchasA.md">

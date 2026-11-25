@@ -37,8 +37,8 @@ A prayer for long life, children, and riches
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/033_dIrghAyuH/01_saM_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं मा॑ सिञ्चन्तु म॒रुतः॒ सं पू॑ष॒ सं बृह॒स्पतिः॑।  
-सं मा॒यम॒ग्निः सि॑ञ्चतु प्र॒जया॑ च॒ धने॑न च दी॒र्घमायुः॑ कृणोतु मे ॥
+सं᳓ मा सिञ्चन्तु मरु᳓तः सं᳓ पूष सं᳓ बृ᳓हस्प᳓तिः।  
+सं᳓ माय᳓मग्निः᳓ सिञ्चतु प्रज᳓या च ध᳓नेन च दीर्घ᳓मा᳓युः कृणोतु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/033_dIrghAyuH/01_saM_mA.md">

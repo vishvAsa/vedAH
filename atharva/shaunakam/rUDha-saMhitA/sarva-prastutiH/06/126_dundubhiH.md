@@ -33,8 +33,8 @@ Translated: by the RV. translators; and Griffith, 1.315—See also Bergaigne-Hen
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/126_dundubhiH/01_upa_shvAsaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑ श्वासय पृथि॒वीमु॒त द्यां पु॑रु॒त्रा ते॑ वन्वतां॒ विष्ठि॑तं॒ जग॑त्।  
-स दु॑न्दुभे स॒जूरिन्द्रे॑ण दे॒वैर्दू॒राद्दवी॑यो॒ अप॑ सेध॒ शत्रू॑न् ॥
+उ᳓प श्वासय पृथिवी᳓मुत᳓ द्यां᳓ पुरुत्रा᳓ ते वन्वतां वि᳓ष्ठितं ज᳓गत्।  
+स᳓ दुन्दुभे सजू᳓रि᳓न्द्रेण देवै᳓र्दूरा᳓द्द᳓वीयो अ᳓प सेध श᳓त्रून् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/126_dundubhiH/01_upa_shvAsaya.md">
@@ -100,8 +100,8 @@ Send forth thy voice aloud through earth and heaven, and let the world in all it
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/126_dundubhiH/02_A_krandaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ क्र॑न्दय॒ बल॒मोजो॑ न॒ आ धा॑ अ॒भि ष्टन दुरि॒ता बाध॑मानः।  
-अप॑ सेध दुन्दुभे दु॒च्छुना॑मि॒त इन्द्र॑स्य मु॒ष्टिर॑सि वी॒डय॑स्व ॥
+आ᳓ क्रन्दय ब᳓लमो᳓जो न आ᳓ धा अभि᳓ ष्ट᳓न᳓ दु᳓रिता᳓ बा᳓धमानः।  
+अ᳓प सेध दुन्दुभे दुच्छु᳓नामित᳓ इ᳓न्द्रस्य मुष्टि᳓रसि वीड᳓यस्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/126_dundubhiH/02_A_krandaya.md">
@@ -165,8 +165,8 @@ Thunder out strength and fill us full of vigour, yea, thunder forth and drive aw
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/126_dundubhiH/03_prAmUM_jayAbhIme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रामूं ज॑या॒भी॒३॒॑मे ज॑यन्तु केतु॒मद्दु॑न्दु॒भिर्वा॑वदीतु।  
-समश्व॑पर्णाः पतन्तु नो॒ नरो॒ऽस्माक॑मिन्द्र र॒थिनो॑ जयन्तु ॥
+प्रा᳓मूं᳓ जयाभी᳙मे᳓ जयन्तु केतुम᳓द्दुन्दुभि᳓र्वावदीतु।  
+स᳓म᳓श्वपर्णाः पतन्तु नो न᳓रोऽस्मा᳓कमिन्द्र रथि᳓नो जयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/126_dundubhiH/03_prAmUM_jayAbhIme.md">

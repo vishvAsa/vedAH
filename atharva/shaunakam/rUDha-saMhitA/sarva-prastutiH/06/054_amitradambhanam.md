@@ -37,8 +37,8 @@ A benediction on a newly elected King
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/01_idaM_tadyuja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं तद्यु॒ज उत्त॑र॒मिन्द्रं॑ शुम्भा॒म्यष्ट॑ये।  
-अ॒स्य क्ष॒त्रं श्रियं॑ म॒हीं वृ॒ष्टिरि॑व वर्धया॒ तृण॑म् ॥
+इदं᳓ त᳓द्युज᳓ उ᳓त्तरमि᳓न्द्रं शुम्भाम्य᳓ष्टये।  
+अस्य᳓ क्षत्रं᳓ श्रि᳓यं महीं᳓ वृष्टि᳓रिव वर्धया तृ᳓णम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/054_amitradambhanam/01_idaM_tadyuja.md">
@@ -116,8 +116,8 @@ Win the love of Indra that his friend may reach yet higher state. Increase, as r
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/02_asmai_xatramagnIShomAvasmai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्मै क्ष॒त्रम॑ग्नीषोमाव॒स्मै धा॑रयतं र॒यिम्।  
-इ॒मं रा॒ष्ट्रस्या॑भीव॒र्गे कृ॑णु॒तं यु॒ज उत्त॑रम् ॥
+अस्मै᳓ क्षत्र᳓मग्नीषोमावस्मै᳓ धारयतं रयि᳓म्।  
+इमं᳓ राष्ट्र᳓स्याभीवर्गे᳓ कृणुतं᳓ युज᳓ उ᳓त्तरम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/054_amitradambhanam/02_asmai_xatramagnIShomAvasmai.md">
@@ -183,8 +183,8 @@ Confirm the princely power in him, Agni and Soma! grant him wealth. In all the c
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/03_sabandhushchAsabandhushcha_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्माँ अ॑भि॒दास॑ति।  
-सर्वं॒ तं र॑न्धयासि मे॒ यज॑मानाय सुन्व॒ते ॥
+स᳓बन्धुश्चा᳓सबन्धुश्च यो᳓ अस्माँ᳓ अभिदा᳓सति।  
+स᳓र्वं तं᳓ रन्धयासि मे य᳓जमानाय सुन्वते᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/054_amitradambhanam/03_sabandhushchAsabandhushcha_yo.md">

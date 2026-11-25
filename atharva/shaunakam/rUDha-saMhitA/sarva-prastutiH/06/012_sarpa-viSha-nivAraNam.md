@@ -37,8 +37,8 @@ A charm against venomous serpents
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/01_pari_dyAmiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॒ द्यामि॑व॒ सूर्योऽही॑नां॒ जनि॑मागमम्।  
-रात्री॒ जग॑दिवा॒न्यद्धं॒सात्तेना॑ ते वारये वि॒षम् ॥
+प᳓रि द्या᳓मिव सू᳓र्यो᳓ऽहीनां ज᳓निमागमम्।  
+रा᳓त्री ज᳓गदिवान्य᳓द्धंसा᳓त्ते᳓ना ते वारये विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/01_pari_dyAmiva.md">
@@ -107,8 +107,8 @@ I, As the Sun goes round the heaven, have travelled round the Serpents' race. I 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्ब्र॒ह्मभि॒र्यदृषि॑भि॒र्यद्दे॒वैर्वि॑दि॒तं पु॒रा।  
-यद्भू॒तं भव्य॑मास॒न्वत्तेना॑ ते वारये वि॒षम् ॥
+य᳓द्ब्रह्म᳓भिर्य᳓दृ᳓षिभिर्य᳓द्देवै᳓र्विदितं᳓ पुरा᳓।  
+य᳓द्भूतं᳓ भ᳓व्यमासन्व᳓त्ते᳓ना ते वारये विष᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
@@ -172,8 +172,8 @@ With this, discovered in the days of old by Brahmans, Rishis, Gods, With this I 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मध्वा॑ पृञ्चे न॒द्यः१॒॑ पर्व॑ता गि॒रयो॒ मधु॑।  
-मधु॒ परु॑ष्णी॒ शीपा॑ला॒ शमा॒स्ने अ॑स्तु॒ शं हृ॒दे ॥
+म᳓ध्वा पृञ्चे नद्यः᳙ प᳓र्वता गिर᳓यो म᳓धु।  
+म᳓धु प᳓रुष्णी शी᳓पाला श᳓मास्ने᳓ अस्तु शं᳓ हृदे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">

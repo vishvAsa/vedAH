@@ -54,7 +54,7 @@ A glorification of the Odana or oblation of boiled rice
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/01_tasyaudanasya_bRhaspatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्यौ॑द॒नस्य॒ बृह॒स्पतिः॒ शिरो॒ ब्रह्म॒ मुख॑म् ॥
+त᳓स्यौदन᳓स्य बृ᳓हस्प᳓तिः शि᳓रो ब्र᳓ह्म मु᳓खम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/01_tasyaudanasya_bRhaspatiH.md">
@@ -115,7 +115,7 @@ Of that Odana Brihaspati is the head, Brahma the mouth.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/02_dyAvApRthivI_shrotre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्यावा॑पृथि॒वी श्रो॒त्रे सू॑र्याचन्द्र॒मसा॒वक्षि॑णी सप्तऋ॒षयः॑ प्राणापा॒नाः ॥
+द्या᳓वापृथिवी᳓ श्रोत्रे᳓ सूर्याचन्द्रम᳓साव᳓क्षिणी सप्तऋष᳓यः प्राणापानाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/02_dyAvApRthivI_shrotre.md">
@@ -174,7 +174,7 @@ Heaven and Earth are the ears, the Sun and Moon are the eyes, the seven Rishis a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/03_chaxurmusalaM_kAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-चक्षु॒र्मुस॑लं॒ काम॑ उ॒लूख॑लम् ॥
+च᳓क्षुर्मु᳓सलं का᳓म उलू᳓खलम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/03_chaxurmusalaM_kAma.md">
@@ -232,7 +232,7 @@ Vision is the pestle, Desire the mortar.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/04_ditiH_shUrpamaditiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दितिः॒ शूर्प॒मदि॑तिः शूर्पग्रा॒ही वातोऽपा॑विनक् ॥
+दि᳓तिः शू᳓र्पम᳓दितिः शूर्पग्राही᳓ वा᳓तो᳓ऽपाविनक् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/04_ditiH_shUrpamaditiH.md">
@@ -291,7 +291,7 @@ Diti is the winnowing basket, Aditi is she who holds it, Vata is the sifter.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/05_ashvAH_kaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अश्वाः॒ कणा॒ गाव॑स्तण्डु॒ला म॒शका॒स्तुषाः॑ ॥
+अ᳓श्वाः क᳓णा गा᳓वस्तण्डुला᳓ मश᳓कास्तु᳓षाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/05_ashvAH_kaNA.md">
@@ -350,7 +350,7 @@ Horses are the grains, oxen the winnowed ricegrains, gnats the husks.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/06_kabru_phalIkaraNAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कब्रु॑ फली॒कर॑णाः॒ शरो॒ऽभ्रम् ॥
+क᳓ब्रु फलीक᳓रणाः श᳓रोऽभ्र᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/06_kabru_phalIkaraNAH.md">
@@ -412,7 +412,7 @@ Kabru is the husked grain, the rain cloud is the reed.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/07_shyAmamayo-sya_mAMsAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्या॒ममयो॑ऽस्य मां॒सानि॒ लोहि॑तमस्य॒ लोहि॑तम् ॥
+श्याम᳓म᳓योऽस्य मांसा᳓नि लो᳓हितमस्य लो᳓हितम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/07_shyAmamayo-sya_mAMsAni.md">
@@ -471,7 +471,7 @@ Grey iron is its flesh, copper its blood.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/08_trapu_bhasma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रपु॒ भस्म॒ हरि॑तं॒ वर्णः॒ पुष्क॑रमस्य ग॒न्धः ॥
+त्र᳓पु भ᳓स्म ह᳓रितं व᳓र्णः पु᳓ष्करमस्य गन्धः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/08_trapu_bhasma.md">
@@ -533,7 +533,7 @@ Tin is its ashes, gold its colour, the blue lotus flower its scent.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/09_khalaH_pAtram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-खलः॒ पात्रं॒ स्फ्यावंसा॑वी॒षे अ॑नू॒क्ये᳡ ॥
+ख᳓लः पा᳓त्रं स्फ्या᳓वं᳓सावीषे᳓ अनूक्ये᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/09_khalaH_pAtram.md">
@@ -595,7 +595,7 @@ The threshing-floor is its dish, the wooden swords its shoulders, the car-shafts
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/10_AntrANi_jatravo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒न्त्राणि॑ ज॒त्रवो॒ गुदा॑ वर॒त्राः ॥
+आन्त्रा᳓णि जत्र᳓वो गु᳓दा वरत्राः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/10_AntrANi_jatravo.md">
@@ -650,7 +650,7 @@ Collar-bones are its entrails, straps its intestines.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/11_iyameva_pRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒यमे॒व पृ॑थि॒वी कु॒म्भी भ॑वति॒ राध्य॑मानस्यौद॒नस्य॒ द्यौर॑पि॒धान॑म् ॥
+इय᳓मेव᳓ पृथिवी᳓ कुम्भी᳓ भवति रा᳓ध्यमानस्यौदन᳓स्य द्यौ᳓रपिधा᳓नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/11_iyameva_pRthivI.md">
@@ -705,7 +705,7 @@ This earth, verily becomes the jar, and heaven the cover of the Odana as it is c
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/12_sItAH_parshavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सीताः॒ पर्श॑वः॒ सिक॑ता॒ ऊब॑ध्यम् ॥
+सी᳓ताः प᳓र्शवः सि᳓कता ऊ᳓बध्यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/12_sItAH_parshavaH.md">
@@ -760,7 +760,7 @@ Furrows are its ribs, sandy soils the undigested contents of its stomach.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/13_RtaM_hastAvanejanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तं ह॑स्ताव॒नेज॑नं कु॒ल्यो᳡प॒सेच॑नम् ॥
+ऋतं᳓ हस्तावने᳓जनं कुल्यो᳙पसे᳓चनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/13_RtaM_hastAvanejanam.md">
@@ -815,7 +815,7 @@ Law is its water for the hands and family custom its aspersion.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/14_RchA_kumbhyadhihitArtvijyena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒चा कु॒म्भ्यधि॑हि॒तार्त्वि॑ज्येन॒ प्रेषि॑ता ॥
+ऋचा᳓ कुम्भ्य᳓धिहिता᳓र्त्विज्येन प्रे᳓षिता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/14_RchA_kumbhyadhihitArtvijyena.md">
@@ -870,7 +870,7 @@ The jar covered with the Rich has been solemnly directed by the priestly office.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/15_brahmaNA_parigRhItA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑णा॒ परि॑गृहीता॒ साम्ना॒ पर्यू॑ढा ॥
+ब्र᳓ह्मणा प᳓रिगृहीता सा᳓म्ना प᳓र्यूढा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/15_brahmaNA_parigRhItA.md">
@@ -925,7 +925,7 @@ Received by the Brahman, it has been carried round.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/16_bRhadAyavanaM_rathantaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृ॒हदा॒यव॑नं रथन्त॒रं दर्विः॑ ॥
+बृह᳓दाय᳓वनं रथन्तरं᳓ द᳓र्विः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/16_bRhadAyavanaM_rathantaram.md">
@@ -980,7 +980,7 @@ The Brihat is, the stirring-spoon, the Rathantara the ladle.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/17_RtavaH_paktAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तवः॑ प॒क्तार॑ आर्त॒वाः समि॑न्धते ॥
+ऋत᳓वः पक्ता᳓र आर्तवाः᳓ स᳓मिन्धते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/17_RtavaH_paktAra.md">
@@ -1038,7 +1038,7 @@ The Seasons are the dressers, the Groups of Seasons kindle the fire.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/18_charuM_panchabilamukham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-च॒रुं पञ्च॑बिलमु॒खं घ॒र्मो॒३॒॑भीन्धे॑ ॥
+चरुं᳓ प᳓ञ्चबिलमुखं᳓ घर्मो᳙भी᳓न्धे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/18_charuM_panchabilamukham.md">
@@ -1097,7 +1097,7 @@ The caldron flames round the oblation (charu) whose mouth consists of five openi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/19_odanena_yajnavachaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ओ॑द॒नेन॑ यज्ञव॒चः सर्वे॑ लो॒काः स॑मा॒प्याः᳡ ॥
+ओ᳙दने᳓न यज्ञवचः᳓ स᳓र्वे लोकाः᳓ समाप्याः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/19_odanena_yajnavachaH.md">
@@ -1160,7 +1160,7 @@ The sacrificial word, all worlds are to be won with Odana.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/20_yasmintsamudro_dyaurbhUmistrayo-varaparam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्मि॑न्त्समु॒द्रो द्यौर्भूमि॒स्त्रयो॑ऽवरप॒रं श्रि॒ताः ॥
+य᳓स्मिन्त्समुद्रो᳓ द्यौ᳓र्भू᳓मिस्त्र᳓योऽवरपरं᳓ श्रिताः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/20_yasmintsamudro_dyaurbhUmistrayo-varaparam.md">
@@ -1219,7 +1219,7 @@ Whereon in order rest the three, the ocean, and the heaven, and earth.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/21_yasya_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॑ दे॒वा अक॑ल्प॒न्तोच्छि॑ष्टे॒ षड॑शी॒तयः॑ ॥
+य᳓स्य देवा᳓ अ᳓कल्पन्तो᳓च्छिष्टे ष᳓डशीत᳓यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/21_yasya_devA.md">
@@ -1279,7 +1279,7 @@ Within the residue whereof the Gods arranged six eightieth parts--
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/22_taM_tvaudanasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तं त्वौ॑द॒नस्य॑ पृच्छामि॒ यो अ॑स्य महि॒मा म॒हान् ॥
+तं᳓ त्वौदन᳓स्य पृच्छामि यो᳓ अस्य महिमा᳓ महा᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/22_taM_tvaudanasya.md">
@@ -1337,7 +1337,7 @@ I ask thee, of this Odana what is the mighty magnitude.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/23_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स य ओ॑द॒नस्य॑ महि॒मानं॑ वि॒द्यात् ॥
+स᳓ य᳓ ओदन᳓स्य महिमा᳓नं विद्या᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/23_sa_ya.md">
@@ -1395,7 +1395,7 @@ He who may know the magnitude of the Odana.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/24_nAlpa_iti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नाल्प॒ इति॑ ब्रूया॒न्नानु॑पसेच॒न इति॒ नेदं च॒ किं चेति॑ ॥
+ना᳓ल्प इ᳓ति ब्रूयान्ना᳓नुपसेचन᳓ इ᳓ति ने᳓दं᳓ च किं᳓ चे᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/24_nAlpa_iti.md">
@@ -1456,7 +1456,7 @@ Would say, Not small, nor devoid of moistening sauce; not this, nor any- thing w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/25_yAvaddAtAbhimanasyeta_tannAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याव॑द्दा॒ताभि॑मन॒स्येत॒ तन्नाति॑ वदेत् ॥
+या᳓वद्दाता᳓भिमनस्ये᳓त त᳓न्ना᳓ति वदेत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/25_yAvaddAtAbhimanasyeta_tannAti.md">
@@ -1515,7 +1515,7 @@ He would not declare it to be greater than the giver imagines it to be.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/26_brahmavAdino_vadanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्र॑ह्मवा॒दिनो॑ वदन्ति॒ परा॑ञ्चमोद॒नं प्राशीः३ प्र॒त्यञ्चा३मिति॑ ॥
+ब्र᳙ह्मवादि᳓नो वदन्ति प᳓राञ्चमोदनं᳓ प्रा᳓शीः᳓३ प्रत्य᳓ञ्चा᳓३मि᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/26_brahmavAdino_vadanti.md">
@@ -1592,7 +1592,7 @@ The theologians say, Thou hast eaten the averted Odana and the Odana turned hith
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/27_tvamodanaM_prAshI3stvAmodanA3.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वमो॑द॒नं प्राशी३स्त्वामो॑द॒ना३ इति॑ ॥
+त्व᳓मोदनं᳓ प्रा᳓शी᳓३स्त्वा᳓मोदना᳓३ इ᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/27_tvamodanaM_prAshI3stvAmodanA3.md">
@@ -1653,7 +1653,7 @@ Thou hast eaten the Odana and the Odana will eat thee.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/28_parAnchaM_chainam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परा॑ञ्चं चैनं॒ प्राशीः॑ प्रा॒णास्त्वा॑ हास्य॒न्तीत्ये॑नमाह ॥
+प᳓राञ्चं चैनं प्रा᳓शीः प्राणा᳓स्त्वा हास्यन्ती᳓त्येनमाह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/28_parAnchaM_chainam.md">
@@ -1712,7 +1712,7 @@ Thou hast eaten this averted; thy inward breath will leave thee; so he said to t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/29_pratyanchaM_chainam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒त्यञ्चं॑ चैनं॒ प्राशी॑रपा॒नास्त्वा॑ हास्य॒न्तीत्ये॑नमाह ॥
+प्रत्य᳓ञ्चं चैनं प्रा᳓शीरपाना᳓स्त्वा हास्यन्ती᳓त्येनमाह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/29_pratyanchaM_chainam.md">
@@ -1771,7 +1771,7 @@ Thou hast eaten this turned hitherward; thy downward breath will leave thee; so 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/30_naivAhamodanaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नैवाहमो॑द॒नं न मामो॑द॒नः ॥
+नै᳓वा᳓ह᳓मोदनं᳓ न᳓ मा᳓मोदनः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/30_naivAhamodanaM_na.md">
@@ -1829,7 +1829,7 @@ I indeed have not eaten the Odana, nor has the Odana eaten me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/31_odana_evaudanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ओ॑द॒न ए॒वौद॒नं प्राशी॑त् ॥
+ओ᳙दन᳓ एवौ᳓दनं᳓ प्रा᳓शीत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/31_odana_evaudanam.md">
@@ -1961,13 +1961,13 @@ The Odana has just eaten the Odana. 2
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/32_tatashchainamanyena_shIrShNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्येन॑ शी॒र्ष्णा प्राशी॒र्येन॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-ज्ये॑ष्ठ॒तस्ते॑ प्र॒जा म॑रिष्य॒तीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-बृ॑ह॒स्पति॑ना शी॒र्ष्णा।  
-तेनै॑नं॒ प्राशि॑षं॒ तेनै॑नमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्ये᳓न शीर्ष्णा᳓ प्रा᳓शीर्ये᳓न चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+ज्ये᳙ष्ठत᳓स्ते प्रजा᳓ मरिष्यती᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+बृ᳙हस्प᳓तिना शीर्ष्णा᳓।  
+ते᳓नैनं प्रा᳓शिषं ते᳓नैनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/32_tatashchainamanyena_shIrShNA.md">
@@ -2038,13 +2038,13 @@ And thence he said to this one, Thou hast eaten this with a different head from 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/33_tatashchainamanyAbhyAM_shrotrAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्याभ्यां॒ श्रोत्रा॑भ्यां॒ प्राशी॒र्याभ्यां॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-ब॑धि॒रो भ॑विष्य॒सीत्ये॑नमाह।  
-तं वा॑ अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-द्यावा॑पृथि॒वीभ्यां॒ श्रोत्रा॑भ्याम्।  
-ताभ्या॑मेनं॒ प्राशि॑षं॒ ताभ्या॑मेनमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्या᳓भ्यां श्रो᳓त्राभ्यां प्रा᳓शीर्या᳓भ्यां चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+ब᳙धिरो᳓ भविष्यसी᳓त्येनमाह।  
+तं᳓ वा अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+द्या᳓वापृथिवी᳓भ्यां श्रो᳓त्राभ्याम्।  
+ता᳓भ्यामेनं प्रा᳓शिषं ता᳓भ्यामेनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/33_tatashchainamanyAbhyAM_shrotrAbhyAm.md">
@@ -2112,13 +2112,13 @@ And thence he said to him, Thou hast eaten this with other ears than those with 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/34_tatashchainamanyAbhyAmaxIbhyAM_prAshIryAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्याभ्या॑म॒क्षीभ्यां॒ प्राशी॒र्याभ्यां॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-अ॒न्धो भ॑विष्य॒सीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-सू॑र्याचन्द्रम॒साभ्या॑म॒क्षीभ्या॑म्।  
-ताभ्या॑मेनं॒ प्राशि॑षं॒ ताभ्या॑मेनमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्या᳓भ्यामक्षी᳓भ्यां प्रा᳓शीर्या᳓भ्यां चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+अन्धो᳓ भविष्यसी᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+सू᳙र्याचन्द्रमसा᳓भ्यामक्षी᳓भ्याम्।  
+ता᳓भ्यामेनं प्रा᳓शिषं ता᳓भ्यामेनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/34_tatashchainamanyAbhyAmaxIbhyAM_prAshIryAbhyAm.md">
@@ -2189,13 +2189,13 @@ And thence he said to him. Thou hast eaten this with other eyes . . . thou wilt 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/35_tatashchainamanyena_mukhena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्येन॒ मुखे॑न॒ प्राशी॒र्येन॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-मु॑ख॒तस्ते॑ प्र॒जा म॑रिष्य॒तीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-ब्रह्म॑णा॒ मुखे॑न।  
-तेनै॑नं॒ प्राशि॑षं॒ तेनै॑नमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्ये᳓न मु᳓खेन प्रा᳓शीर्ये᳓न चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+मु᳙खत᳓स्ते प्रजा᳓ मरिष्यती᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+ब्र᳓ह्मणा मु᳓खेन।  
+ते᳓नैनं प्रा᳓शिषं ते᳓नैनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/35_tatashchainamanyena_mukhena.md">
@@ -2263,13 +2263,13 @@ And thence, etc. . . with other month. Thy offspring will die, reckoning from th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/36_tatashchainamanyayA_jihvayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्यया॑ जि॒ह्वया॒ प्राशी॒र्यया॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-जि॒ह्वा ते॑ मरिष्य॒तीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-अ॒ग्नेर्जि॒ह्वया॑।  
-तयै॑नं॒ प्राशि॑षं॒ तयै॑नमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्य᳓या जिह्व᳓या प्रा᳓शीर्य᳓या चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+जिह्वा᳓ ते मरिष्यती᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+अग्ने᳓र्जिह्व᳓या।  
+त᳓यैनं प्रा᳓शिषं त᳓यैनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/36_tatashchainamanyayA_jihvayA.md">
@@ -2336,13 +2336,13 @@ And thence, etc. . . . with other tongue . . . Thy tongue will die . . . With th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/37_tatashchainamanyairdantaiH_prAshIryaishchaitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्यैर्दन्तैः॒ प्राशी॒र्यैश्चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-दन्ता॑स्ते शत्स्य॒न्तीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-ऋ॒तुभि॒र्दन्तैः॑।  
-तै॑रेनं॒ प्राशि॑षं तैरेनमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्यै᳓र्द᳓न्तैः प्रा᳓शीर्यै᳓श्चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+द᳓न्तास्ते शत्स्यन्ती᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+ऋतु᳓भिर्द᳓न्तैः।  
+तै᳙रेनं प्रा᳓शिषं तैरेनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/37_tatashchainamanyairdantaiH_prAshIryaishchaitam.md">
@@ -2410,13 +2410,13 @@ And thence, etc. . . With other teeth . . . Thy teeth will fall out . . . With t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/38_tatashchainamanyaiH_prANApAnaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्यैः प्रा॑णापा॒नैः प्राशी॒र्यैश्चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-प्रा॑णापा॒नास्त्वा॑ हास्य॒न्तीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-स॑प्तऋ॒षिभिः॑ प्राणापा॒नैः।  
-तै॑रेनं॒ प्राशि॑षं तैरेनमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्यैः᳓ प्राणापानैः᳓ प्रा᳓शीर्यै᳓श्चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+प्रा᳙णापाना᳓स्त्वा हास्यन्ती᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+स᳙प्तऋषि᳓भिः प्राणापानैः᳓।  
+तै᳙रेनं प्रा᳓शिषं तैरेनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/38_tatashchainamanyaiH_prANApAnaiH.md">
@@ -2486,13 +2486,13 @@ And thence, etc. . . . with other vital airs. . . . Thy vital airs will leave th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/39_tatashchainamanyena_vyachasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्येन॒ व्यच॑सा॒ प्राशी॒र्येन॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-रा॑जय॒क्ष्मस्त्वा॑ हनिष्य॒तीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-अ॒न्तरि॑क्षेण॒ व्यच॑सा।  
-तेनै॑नं॒ प्राशि॑षं॒ तेनै॑नमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्ये᳓न व्य᳓चसा प्रा᳓शीर्ये᳓न चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+रा᳙जयक्ष्म᳓स्त्वा हनिष्यती᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+अन्त᳓रिक्षेण व्य᳓चसा।  
+ते᳓नैनं प्रा᳓शिषं ते᳓नैनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/39_tatashchainamanyena_vyachasA.md">
@@ -2561,13 +2561,13 @@ And thence, etc. . . . with other expanse . . . Consumption will destroy thee . 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/40_tatashchainamanyena_pRShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्येन॑ पृ॒ष्ठेन॒ प्राशी॒र्येन॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-वि॒द्युत्त्वा॑ हनिष्य॒तीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-दि॒वा पृ॒ष्ठेन॑।  
-तेनै॑नं॒ प्राशि॑षं॒ तेनै॑नमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्ये᳓न पृष्ठे᳓न प्रा᳓शीर्ये᳓न चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+विद्यु᳓त्त्वा हनिष्यती᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+दिवा᳓ पृष्ठे᳓न।  
+ते᳓नैनं प्रा᳓शिषं ते᳓नैनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/40_tatashchainamanyena_pRShThena.md">
@@ -2634,13 +2634,13 @@ And thence, etc. . . . with other back. . . . Lightning will slay thee. . . With
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/41_tatashchainamanyenorasA_prAshIryena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्येनोर॑सा॒ प्राशी॒र्येन॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-कृ॒ष्या न रा॑त्स्य॒सीत्ये॑नमाह।  
-तं वा॑ अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-पृ॑थि॒व्योर॑सा।  
-तेनै॑नं॒ प्राशि॑षं॒ तेनै॑नमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्ये᳓नो᳓रसा प्रा᳓शीर्ये᳓न चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+कृष्या᳓ न᳓ रात्स्यसी᳓त्येनमाह।  
+तं᳓ वा अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+पृ᳙थिव्यो᳓रसा।  
+ते᳓नैनं प्रा᳓शिषं ते᳓नैनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/41_tatashchainamanyenorasA_prAshIryena.md">
@@ -2708,13 +2708,13 @@ And thence, etc. . . . with other breast . . . Thou wilt fail in agriculture. . 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/42_tatashchainamanyenodareNa_prAshIryena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्येनो॒दरे॑ण॒ प्राशी॒र्येन॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-उ॑दरदा॒रस्त्वा॑ हनिष्य॒तीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-स॒त्येनो॒दरे॑ण।  
-तेनै॑नं॒ प्राशि॑षं॒ तेनै॑नमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्ये᳓नोद᳓रेण प्रा᳓शीर्ये᳓न चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+उ᳙दरदार᳓स्त्वा हनिष्यती᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+सत्ये᳓नोद᳓रेण।  
+ते᳓नैनं प्रा᳓शिषं ते᳓नैनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/42_tatashchainamanyenodareNa_prAshIryena.md">
@@ -2783,13 +2783,13 @@ And thence, etc. . . . with other belly . . . colic will destroy thee . . . With
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/43_tatashchainamanyena_vastinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्येन॑ व॒स्तिना॒ प्राशी॒र्येन॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-अ॒प्सु म॑रिष्य॒सीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-स॑मु॒द्रेण॑ व॒स्तिना॑।  
-तेनै॑नं॒ प्राशि॑षं॒ तेनै॑नमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्ये᳓न वस्ति᳓ना प्रा᳓शीर्ये᳓न चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+अप्सु᳓ मरिष्यसी᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+स᳙मुद्रे᳓ण वस्ति᳓ना।  
+ते᳓नैनं प्रा᳓शिषं ते᳓नैनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/43_tatashchainamanyena_vastinA.md">
@@ -2856,13 +2856,13 @@ And thence, etc. . . . with other abdomen . . . Thou wilt die in the water . . .
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/44_tatashchainamanyAbhyAmUrubhyAM_prAshIryAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्याभ्या॑मू॒रुभ्यां॒ प्राशी॒र्याभ्यां॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-ऊ॒रू ते॑ मरिष्यत॒ इत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-मि॒त्राव॑रुणयोरू॒रुभ्या॑म्।  
-ताभ्या॑मेनं॒ प्राशि॑षं॒ ताभ्या॑मेनमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑।
+त᳓तश्चैनमन्या᳓भ्यामूरु᳓भ्यां प्रा᳓शीर्या᳓भ्यां चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+ऊरू᳓ ते मरिष्यत इ᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+मित्रा᳓वरुणयोरूरु᳓भ्याम्।  
+ता᳓भ्यामेनं प्रा᳓शिषं ता᳓भ्यामेनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द।
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/44_tatashchainamanyAbhyAmUrubhyAM_prAshIryAbhyAm.md">
@@ -2929,13 +2929,13 @@ And thence, etc. . . . with other thighs . . . Thy thigh will perish . . . With 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/45_tatashchainamanyAbhyAmaShThIvadbhyAM_prAshIryAb.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्याभ्या॑मष्ठी॒वद्भ्यां॒ प्राशी॒र्याभ्यां॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-स्रा॒मो भ॑विष्य॒सीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-त्वष्टु॑रष्ठी॒वद्भ्या॑म्।  
-ताभ्या॑मेनं॒ प्राशि॑षं॒ ताभ्या॑मेनमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्या᳓भ्यामष्ठीव᳓द्भ्यां प्रा᳓शीर्या᳓भ्यां चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+स्रामो᳓ भविष्यसी᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+त्व᳓ष्टुरष्ठीव᳓द्भ्याम्।  
+ता᳓भ्यामेनं प्रा᳓शिषं ता᳓भ्यामेनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/45_tatashchainamanyAbhyAmaShThIvadbhyAM_prAshIryAb.md">
@@ -3003,13 +3003,13 @@ And thence, etc. . . . with other knees . . . Thou wilt become a sick man . . . 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/46_tatashchainamanyAbhyAM_pAdAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्याभ्यां॒ पादा॑भ्यां॒ प्राशी॒र्याभ्यां॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-ब॑हुचा॒री भ॑विष्य॒सीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-अ॒श्विनोः॒ पादा॑भ्याम्।  
-ताभ्या॑मेनं॒ प्राशि॑षं॒ ताभ्या॑मेनमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्या᳓भ्यां पा᳓दाभ्यां प्रा᳓शीर्या᳓भ्यां चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+ब᳙हुचारी᳓ भविष्यसी᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+अश्वि᳓नोः पा᳓दाभ्याम्।  
+ता᳓भ्यामेनं प्रा᳓शिषं ता᳓भ्यामेनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/46_tatashchainamanyAbhyAM_pAdAbhyAm.md">
@@ -3077,13 +3077,13 @@ And thence, etc. . . . with other feet . . . Thou wilt become a wanderer . . . W
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/47_tatashchainamanyAbhyAM_prapadAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्याभ्यां॒ प्रप॑दाभ्यां॒ प्राशी॒र्याभ्यां॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-स॒र्पस्त्वा॑ हनिष्य॒तीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-स॑वि॒तुः प्रप॑दाभ्याम्।  
-ताभ्या॑मेनं॒ प्राशि॑षं॒ ताभ्या॑मेनमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्या᳓भ्यां प्र᳓पदाभ्यां प्रा᳓शीर्या᳓भ्यां चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+सर्प᳓स्त्वा हनिष्यती᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+स᳙वितुः᳓ प्र᳓पदाभ्याम्।  
+ता᳓भ्यामेनं प्रा᳓शिषं ता᳓भ्यामेनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/47_tatashchainamanyAbhyAM_prapadAbhyAm.md">
@@ -3152,13 +3152,13 @@ And thence, etc. . . with other fore-parts of the feet . . . A serpent will kill
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/48_tatashchainamanyAbhyAM_hastAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्याभ्यां॒ हस्ता॑भ्यां॒ प्राशी॒र्याभ्यां॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-ब्रा॑ह्म॒णं ह॑निष्य॒सीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-ऋ॒तस्य॒ हस्ता॑भ्याम् ।  
-ताभ्या॑मेनं॒ प्राशि॑षं॒ ताभ्या॑मेनमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्या᳓भ्यां ह᳓स्ताभ्यां प्रा᳓शीर्या᳓भ्यां चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+ब्रा᳙ह्मणं᳓ हनिष्यसी᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+ऋत᳓स्य ह᳓स्ताभ्याम् ।  
+ता᳓भ्यामेनं प्रा᳓शिषं ता᳓भ्यामेनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/48_tatashchainamanyAbhyAM_hastAbhyAm.md">
@@ -3226,13 +3226,13 @@ And thence, etc. . . . with other hands . . . The Brahmana (divine power) will k
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/49_tatashchainamanyayA_pratiShThayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑श्चैनम॒न्यया॑ प्रति॒ष्ठया॒ प्राशी॒र्यया॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न्।  
-अ॑प्रतिष्ठा॒नो᳡नायत॒नो म॑रिष्य॒सीत्ये॑नमाह।  
-तं वा अ॒हं ना॒र्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म्।  
-स॒त्ये प्र॑ति॒ष्ठाय॑।  
-तयै॑नं॒ प्राशि॑षं॒ तयै॑नमजीगमम्।  
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः।  
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥
+त᳓तश्चैनमन्य᳓या प्रतिष्ठ᳓या प्रा᳓शीर्य᳓या चैतं᳓ पू᳓र्व ऋ᳓षयः प्रा᳓श्नन्।  
+अ᳙प्रतिष्ठानो᳙नायतनो᳓ मरिष्यसी᳓त्येनमाह।  
+तं᳓ वा᳓ अहं᳓ नार्वा᳓ञ्चं न᳓ प᳓राञ्चं न᳓ प्रत्य᳓ञ्चम्।  
+सत्ये᳓ प्रतिष्ठा᳓य।  
+त᳓यैनं प्रा᳓शिषं त᳓यैनमजीगमम्।  
+एष᳓ वा᳓ ओदनः᳓ स᳓र्वाङ्गः स᳓र्वपरुः स᳓र्वतनूः।  
+स᳓र्वाङ्ग एव᳓ स᳓र्वपरुः स᳓र्वतनूः सं᳓ भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/49_tatashchainamanyayA_pratiShThayA.md">
@@ -3310,7 +3310,7 @@ And thence, etc. . . . with other basis . . . Without standing-ground and restin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/50_etadvai_bradhnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तद्वै ब्र॒ध्नस्य॑ वि॒ष्टपं॒ यदो॑द॒नः ॥
+एत᳓द्वै᳓ ब्रध्न᳓स्य विष्ट᳓पं य᳓दोदनः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/50_etadvai_bradhnasya.md">
@@ -3371,7 +3371,7 @@ The comm. explains *bradhna* as *sūryamaṇḍalamadhyavartī ”śvaraḥ*, an
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/51_bradhnaloko_bhavati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्र॒ध्नलो॑को भवति ब्र॒ध्नस्य॑ वि॒ष्टपि॑ श्रयते॒ य ए॒वं वेद॑ ॥
+ब्रध्न᳓लोको भवति ब्रध्न᳓स्य विष्ट᳓पि श्रयते य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/51_bradhnaloko_bhavati.md">
@@ -3430,7 +3430,7 @@ to the summit of the ruddy one, who knoweth thus.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/52_etasmAdvA_odanAttrayastriMshatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तस्मा॒द्वा ओ॑द॒नात्त्रय॑स्त्रिंशतं लो॒कान्निर॑मिमीत प्र॒जाप॑तिः ॥
+एत᳓स्माद्वा᳓ ओदना᳓त्त्र᳓यस्त्रिंशतं लोका᳓न्नि᳓रमिमीत प्रजा᳓पतिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/52_etasmAdvA_odanAttrayastriMshatam.md">
@@ -3489,7 +3489,7 @@ worlds.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/53_teShAM_prajnAnAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तेषां॑ प्र॒ज्ञाना॑य य॒ज्ञम॑सृजत ॥
+ते᳓षां प्रज्ञा᳓नाय यज्ञ᳓मसृजत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/53_teShAM_prajnAnAya.md">
@@ -3548,7 +3548,7 @@ sacrifice.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/54_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स य ए॒वं वि॒दुष॑ उपद्र॒ष्टा भव॑ति प्रा॒णं रु॑णद्धि ॥
+स᳓ य᳓ एवं᳓ विदु᳓ष उपद्रष्टा᳓ भ᳓वति प्राणं᳓ रुणद्धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/54_sa_ya.md">
@@ -3611,7 +3611,7 @@ them; ours makes the necessary emendation to *bhávati*. We might expect
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/55_na_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न च॑ प्रा॒णं रु॒णद्धि॑ सर्वज्या॒निं जी॑यते ॥
+न᳓ च प्राणं᳓ रुण᳓द्धि सर्वज्यानिं᳓ जीयते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/55_na_cha.md">
@@ -3673,7 +3673,7 @@ The comm. explains *sarvajyāním* by *prajāpśvādirūpasya sarvasyā
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/003_odanaH/56_na_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न च॑ सर्वज्या॒निं जी॒यते॑ पु॒रैनं॑ ज॒रसः॑ प्रा॒णो ज॑हाति ॥
+न᳓ च सर्वज्यानिं᳓ जीय᳓ते पुरै᳓नं जर᳓सः प्राणो᳓ जहाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/003_odanaH/56_na_cha.md">

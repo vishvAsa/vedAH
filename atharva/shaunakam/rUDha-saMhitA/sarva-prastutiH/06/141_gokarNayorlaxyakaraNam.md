@@ -33,8 +33,8 @@ Translated: Ludwig, p. 469; Zimmer, p. 234; Griffith, i. 324.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarattvaShTA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒युरे॑नाः स॒माक॑र॒त्त्वष्टा॒ पोषा॑य ध्रियताम्।  
-इन्द्र॑ आभ्यो॒ अधि॑ ब्रवद्रु॒द्रो भू॒म्ने चि॑कित्सतु ॥
+वायु᳓रेनाः समा᳓करत्त्व᳓ष्टा पो᳓षाय ध्रियताम्।  
+इ᳓न्द्र आभ्यो अ᳓धि ब्रवद्रुद्रो᳓ भूम्ने᳓ चिकित्सतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarattvaShTA.md">
@@ -100,8 +100,8 @@ Vayu collected these: to find their sustenance be Tvashtar's care: May Indra ble
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-लोहि॑तेन॒ स्वधि॑तिना मिथु॒नं कर्ण॑योः कृधि।  
-अक॑र्तामश्विना॒ लक्ष्म॒ तद॑स्तु प्र॒जया॑ ब॒हु ॥
+लो᳓हितेन स्व᳓धितिना मिथुनं᳓ क᳓र्णयोः कृधि।  
+अ᳓कर्तामश्विना ल᳓क्ष्म त᳓दस्तु प्रज᳓या बहु᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
@@ -169,8 +169,8 @@ Take thou the iron axe and make a pair by marks upon their ears. This sign the A
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ च॒क्रुर्दे॑वासु॒रा यथा॑ मनु॒ष्या᳡ उ॒त।  
-ए॒वा स॑हस्रपो॒षाय॑ कृणु॒तं लक्ष्मा॑श्विना ॥
+य᳓था चक्रु᳓र्देवासुरा᳓ य᳓था मनुष्या᳙ उत᳓।  
+एवा᳓ सहस्रपोषा᳓य कृणुतं᳓ ल᳓क्ष्माश्विना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">

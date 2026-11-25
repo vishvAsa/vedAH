@@ -24,7 +24,7 @@ title = "००७ अध्यात्मम्"
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/01_sa_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वा अह्नो॑ऽजायत॒ तस्मा॒दह॑रजायत ॥
+स᳓ वा᳓ अ᳓ह्नोऽजायत त᳓स्माद᳓हरजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/01_sa_vA.md">
@@ -85,7 +85,7 @@ syllables.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/02_sa_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वै रात्र्या॑ अजायत॒ तस्मा॒द्रात्रि॑रजायत ॥
+स᳓ वै᳓ रा᳓त्र्या अजायत त᳓स्माद्रा᳓त्रिरजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/02_sa_vai.md">
@@ -143,7 +143,7 @@ syllables.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/03_sa_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वा अ॒न्तरि॑क्षादजायत॒ तस्मा॑द॒न्तरि॑क्षमजायत ॥
+स᳓ वा᳓ अन्त᳓रिक्षादजायत त᳓स्मादन्त᳓रिक्षमजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/03_sa_vA.md">
@@ -204,7 +204,7 @@ make a *gāyatrī*.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/04_sa_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वै वा॒योर॑जायत॒ तस्मा॑द्वा॒युर॑जायत ॥
+स᳓ वै᳓ वायो᳓रजायत त᳓स्माद्वायु᳓रजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/04_sa_vai.md">
@@ -262,7 +262,7 @@ make a *gāyatrī*.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/05_sa_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वै दि॒वो᳡जा॑यत॒ तस्मा॒द्द्यौरधि॑ अजायत ॥
+स᳓ वै᳓ दिवो᳙जायत त᳓स्माद्द्यौ᳓र᳓धि अजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/05_sa_vai.md">
@@ -321,7 +321,7 @@ Here again the Anukr. requires us to read *divò ‘j-*.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/06_sa_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वै दि॒ग्भ्यो᳡जा॑यत॒ तस्मा॒द्दिशो᳡जायन्त ॥
+स᳓ वै᳓ दिग्भ्यो᳙जायत त᳓स्माद्दि᳓शो᳙जायन्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/06_sa_vai.md">
@@ -380,7 +380,7 @@ Here we are to make both elisions, in **a** and **b**.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/07_sa_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वै भूमे॑रजायत॒ तस्मा॒द्भूमि॑रजायत ॥
+स᳓ वै᳓ भू᳓मेरजायत त᳓स्माद्भू᳓मिरजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/07_sa_vai.md">
@@ -439,7 +439,7 @@ Nearly all our mss. (all save Bp.D.R.) accent *bhūmés* and *bhūmís*.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/08_sa_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वा अ॒ग्नेर॑जायत॒ तस्मा॑द॒ग्निर॑जायत ॥
+स᳓ वा᳓ अग्ने᳓रजायत त᳓स्मादग्नि᳓रजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/08_sa_vA.md">
@@ -497,7 +497,7 @@ Nearly all our mss. (all save Bp.D.R.) accent *bhūmés* and *bhūmís*.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/09_sa_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वा अ॒द्भ्यो᳡जा॑यत॒ तस्मा॒दापो॑ऽजायन्त ॥
+स᳓ वा᳓ अद्भ्यो᳙जायत त᳓स्मादा᳓पोऽजायन्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/09_sa_vA.md">
@@ -559,7 +559,7 @@ emended to *-uṣṇihāu*).
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/10_sa_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वा ऋ॒ग्भ्यो᳡जा॑यत॒ तस्मा॒दृचो॑ऽजायन्त ॥
+स᳓ वा᳓ ऋग्भ्यो᳙जायत त᳓स्मादृ᳓चोऽजायन्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/10_sa_vA.md">
@@ -619,7 +619,7 @@ As to the meter, see the note to the preceding verse.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/11_sa_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वै य॒ज्ञाद॑जायत॒ तस्मा॑द्य॒ज्ञो᳡जा॑यत ॥
+स᳓ वै᳓ यज्ञा᳓दजायत त᳓स्माद्यज्ञो᳙जायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/11_sa_vai.md">
@@ -678,7 +678,7 @@ The Anukr., as above, forces the elision *yajñò ‘j-*.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/12_sa_yajnastasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स य॒ज्ञस्तस्य॑ य॒ज्ञः स य॒ज्ञस्य॒ शिर॑स्कृ॒तम् ॥
+स᳓ यज्ञ᳓स्त᳓स्य यज्ञः᳓ स᳓ यज्ञ᳓स्य शि᳓रस्कृत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/12_sa_yajnastasya.md">
@@ -737,7 +737,7 @@ of the sacrifice.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/13_sa_stanayati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स स्त॑नयति॒ स वि द्यो॑तते॒ स उ॒ अश्मा॑नमस्यति ॥
+स᳓ स्तनयति स᳓ वि᳓ द्योतते स᳓ उ अ᳓श्मानमस्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/13_sa_stanayati.md">
@@ -797,7 +797,7 @@ Prāt. iii. 36.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/14_pApAya_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पा॒पाय॑ वा भ॒द्राय॑ वा॒ पुरु॑षा॒यासु॑राय वा ॥
+पापा᳓य वा भद्रा᳓य वा पु᳓रुषाया᳓सुराय वा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/14_pApAya_vA.md">
@@ -857,7 +857,7 @@ Asura.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/15_yadvA_kRNoShyoShadhIryadvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्वा॑ कृ॒णोष्योष॑धी॒र्यद्वा॑ वर्षसि भ॒द्रया॒ यद्वा॑ ज॒न्यमवी॑वृधः ॥
+य᳓द्वा कृणो᳓ष्यो᳓षधीर्य᳓द्वा वर्षसि भद्र᳓या य᳓द्वा जन्य᳓म᳓वीवृधः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/15_yadvA_kRNoShyoShadhIryadvA.md">
@@ -922,7 +922,7 @@ latter he also emends to *áv-*.⌋
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/16_tAvAMste_maghavanmahimopo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तावां॑स्ते मघवन्महि॒मोपो॑ ते त॒न्वः᳡ श॒तम् ॥
+ता᳓वांस्ते मघवन्महिमो᳓पो ते तन्वः᳙ शत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/16_tAvAMste_maghavanmahimopo.md">
@@ -983,7 +983,7 @@ required by the Anukr. ⌊It reads naturally as 9 + 8.⌋
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/17_upo_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उपो॑ ते॒ बध्वे॒ बद्धा॑नि॒ यदि॒ वासि॒ न्य᳡र्बुदम् ॥
+उ᳓पो ते ब᳓ध्वे ब᳓द्धानि य᳓दि वा᳓सि न्य᳙र्बुदम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/17_upo_te.md">

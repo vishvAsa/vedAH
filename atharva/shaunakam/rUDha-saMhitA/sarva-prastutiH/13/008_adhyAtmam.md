@@ -24,7 +24,7 @@ title = "००८ अध्यात्मम्"
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/01_bhUyAnindro_namurAdbhUyAnindrAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भूया॒निन्द्रो॑ नमु॒राद्भूया॑निन्द्रासि मृ॒त्युभ्यः॑ ॥
+भू᳓यानि᳓न्द्रो नमुरा᳓द्भू᳓यानिन्द्रासि मृत्यु᳓भ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/008_adhyAtmam/01_bhUyAnindro_namurAdbhUyAnindrAsi.md">
@@ -92,7 +92,7 @@ here a similar identification.⌋
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/02_bhUyAnarAtyAH_shachyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भूया॒नरा॑त्याः॒ शच्याः॒ पति॒स्त्वमि॑न्द्रासि वि॒भूः प्र॒भूरिति॒ त्वोपा॑स्महे व॒यम् ॥
+भू᳓यान᳓रात्याः श᳓च्याः प᳓तिस्त्व᳓मिन्द्रासि विभूः᳓ प्रभू᳓रि᳓ति त्वो᳓पास्महे वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/008_adhyAtmam/02_bhUyAnarAtyAH_shachyAH.md">
@@ -154,7 +154,7 @@ defined by the Anukr.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/03_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥
+न᳓मस्ते अस्तु पश्यत प᳓श्य मा पश्यत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/008_adhyAtmam/03_namaste_astu.md">
@@ -216,7 +216,7 @@ combination *te astu*.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/04_annAdyena_yashasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥
+अन्ना᳓द्येन य᳓शसा ते᳓जसा ब्राह्मणवर्चसे᳓न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/008_adhyAtmam/04_annAdyena_yashasA.md">
@@ -275,7 +275,7 @@ Brahman-splendor;
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/05_ambho_amo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अम्भो॒ अमो॒ महः॒ सह॒ इति॒ त्वोपा॑स्महे व॒यम् ॥
+अ᳓म्भो अ᳓मो म᳓हः स᳓ह इ᳓ति त्वो᳓पास्महे वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/008_adhyAtmam/05_ambho_amo.md">
@@ -339,7 +339,7 @@ same curtailed way until vs. 54, which is filled out to the end.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/06_ambho_aruNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अम्भो॑ अरु॒णं र॑ज॒तं रजः॒ सह॒ इति॒ त्वोपा॑स्महे व॒यम् ॥
+अ᳓म्भो अरुणं᳓ रजतं᳓ र᳓जः स᳓ह इ᳓ति त्वो᳓पास्महे वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/008_adhyAtmam/06_ambho_aruNam.md">

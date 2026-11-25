@@ -37,8 +37,8 @@ A prayer for protection from death and misfortune
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/01_apa_nyadhuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अप॒ न्यधुः॒ पौरु॑षेयं व॒धं यमि॑न्द्रा॒ग्नी धा॒ता स॑वि॒ता बृह॒स्पतिः॑।  
-सोमो॑ राजा॒ वरु॑णो अ॒श्विना॑ य॒मः पू॒षास्मान्परि॑ पातु मृ॒त्योः ॥
+अ᳓प न्य᳓धुः पौ᳓रुषेयं वधं᳓ य᳓मिन्द्राग्नी᳓ धाता᳓ सविता᳓ बृ᳓हस्प᳓तिः।  
+सो᳓मो राजा व᳓रुणो अश्वि᳓ना यमः᳓ पूषा᳓स्मा᳓न्प᳓रि पातु मृत्योः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/020_suraxA/01_apa_nyadhuH.md">
@@ -115,8 +115,8 @@ May Soma, Varuna the King, both Asvins, Yama and Pushan guard us well from Mrity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/02_yAni_chakAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यानि॑ च॒कार॒ भुव॑नस्य॒ यस्पतिः॑ प्र॒जाप॑तिर्मात॒रिश्वा॑ प्र॒जाभ्यः॑।  
-प्र॒दिशो॒ यानि॑ वस॒ते दिश॑श्च॒ तानि॑ मे॒ वर्मा॑णि बहु॒लानि॑ सन्तु ॥
+या᳓नि चका᳓र भु᳓वनस्य य᳓स्प᳓तिः प्रजा᳓पतिर्मातरि᳓श्वा प्रजा᳓भ्यः।  
+प्रदि᳓शो या᳓नि वसते᳓ दि᳓शश्च ता᳓नि मे व᳓र्माणि बहुला᳓नि सन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/020_suraxA/02_yAni_chakAra.md">
@@ -185,8 +185,8 @@ All that the World's Lord made, all that for creatures Prajapati and Matarisvan 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/03_yatte_tanUShvanahyanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्ते त॒नूष्वन॑ह्यन्त दे॒वा द्युरा॑जयो दे॒हिनः॑।  
-इन्द्रो॒ यच्च॒क्रे वर्म॒ तद॒स्मान्पा॑तु वि॒श्वतः॑ ॥
+य᳓त्ते᳓ तनू᳓ष्व᳓नह्यन्त देवा᳓ द्यु᳓राजयो देहि᳓नः।  
+इ᳓न्द्रो य᳓च्चक्रे᳓ व᳓र्म त᳓दस्मा᳓न्पातु विश्व᳓तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/020_suraxA/03_yatte_tanUShvanahyanta.md">
@@ -265,8 +265,8 @@ That which the Gods bound on them when they battled for their royal sway. What I
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/04_varma_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वर्म॑ मे॒ द्यावा॑पृथि॒वी वर्माह॒र्वर्म॒ सूर्यः॑।  
-वर्म॑ मे॒ विश्वे॑ दे॒वाः क्र॒न्मा मा॒ प्राप॑त्प्रतीचि॒का ॥
+व᳓र्म मे द्या᳓वापृथिवी᳓ व᳓र्मा᳓हर्व᳓र्म सू᳓र्यः।  
+व᳓र्म मे वि᳓श्वे देवाः᳓ क्रन्मा᳓ मा प्रा᳓पत्प्रतीचिका᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/020_suraxA/04_varma_me.md">

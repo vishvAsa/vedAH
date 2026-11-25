@@ -37,8 +37,8 @@ A charm to be used when the eyes are anointed
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/030_anjanam/01_svAktaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्वाक्तं॑ मे॒ द्यावा॑पृथि॒वी स्वाक्तं॑ मि॒त्रो अ॑कर॒यम्।  
-स्वाक्तं॑ मे॒ ब्रह्म॑ण॒स्पतिः॒ स्वाक्तं॑ सवि॒ता क॑रत् ॥
+स्वा᳓क्तं मे द्या᳓वापृथिवी᳓ स्वा᳓क्तं मित्रो᳓ अकरय᳓म्।  
+स्वा᳓क्तं मे ब्र᳓ह्मणस्प᳓तिः स्वा᳓क्तं सविता᳓ करत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/030_anjanam/01_svAktaM_me.md">

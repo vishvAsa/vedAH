@@ -37,8 +37,8 @@ A charm to ensure general prosperity, accompanying self-investiture with an amul
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/01_audumbareNa_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-औदु॑म्बरेण म॒णिना॒ पुष्टि॑कामाय वे॒धसा॑।  
-प॑शू॒णां सर्वे॑षां स्फा॒तिं गो॒ष्ठे मे॑ सवि॒ता क॑रत् ॥
+औ᳓दुम्बरेण मणि᳓ना पु᳓ष्टिकामाय वेध᳓सा।  
+प᳙शूणां᳓ स᳓र्वेषां स्फातिं᳓ गोष्ठे᳓ मे सविता᳓ करत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/01_audumbareNa_maNinA.md">
@@ -103,8 +103,8 @@ Savitar make all cattle grow and prosper in my stable with. Amulet of Udumbara, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/02_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नो॑ अ॒ग्निर्गार्ह॑पत्यः पशू॒नाम॑धि॒पा अस॑त्।  
-औदु॑म्बरो॒ वृषा॑ म॒णिः सं मा॑ सृजतु पु॒ष्ट्या ॥
+यो᳓ नो अग्नि᳓र्गा᳓र्हपत्यः पशूना᳓मधिपा᳓ अ᳓सत्।  
+औ᳓दुम्बरो वृ᳓षा मणिः᳓ सं᳓ मा सृजतु पुष्ट्या᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/02_yo_no.md">
@@ -173,8 +173,8 @@ May he who was our Household Fire, the ruler of our cattle, strong. Amulet of Ud
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/03_karIShiNIM_phalavatIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क॑री॒षिणीं॒ फल॑वतीं स्व॒धामिरां॑ च नो गृ॒हे।  
-औदु॑म्बरस्य॒ तेज॑सा धा॒ता पु॒ष्टिं द॑धातु मे ॥
+क᳙रीषि᳓णीं फ᳓लवतीं स्वधा᳓मि᳓रां च नो गृहे᳓।  
+औ᳓दुम्बरस्य ते᳓जसा धाता᳓ पुष्टिं᳓ दधातु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/03_karIShiNIM_phalavatIm.md">
@@ -238,8 +238,8 @@ By power of the Udumbara Charm may Dhatar give me plenty, rich. In the kine's dr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/04_yaddvipAchcha_chatuShpAchcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्द्वि॒पाच्च॒ चतु॑ष्पाच्च॒ यान्यन्ना॑नि॒ ये रसाः॑।  
-गृ॒ह्णे॒३॒॑हं त्वे॑षां भू॒मानं॒ बिभ्र॒दौदु॑म्बरं म॒णिम् ॥
+य᳓द्द्विपा᳓च्च च᳓तुष्पाच्च या᳓न्य᳓न्नानि ये᳓ र᳓साः।  
+गृह्णे᳙हं᳓ त्वेषां भूमा᳓नं बि᳓भ्रदौ᳓दुम्बरं मणि᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/04_yaddvipAchcha_chatuShpAchcha.md">
@@ -306,8 +306,8 @@ I win great plenty, while I wear the Amulet of Udumbara. Of quadrupeds and biped
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/05_puShTiM_pashUnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पु॒ष्टिं प॑शू॒नां परि॑ जग्रभा॒हं चतु॑ष्पदां द्वि॒पदां॒ यच्च॑ धा॒न्य᳡म्।  
-पयः॑ पशू॒नां रस॒मोष॑धीनां॒ बृह॒स्पतिः॑ सवि॒ता मे॒ नि य॑च्छात् ॥
+पुष्टिं᳓ पशूनां᳓ प᳓रि जग्रभाहं᳓ च᳓तुष्पदां द्विप᳓दां य᳓च्च धान्य᳙म्।  
+प᳓यः पशूनां᳓ र᳓समो᳓षधीनां बृ᳓हस्प᳓तिः सविता᳓ मे नि᳓ यच्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/05_puShTiM_pashUnAm.md">
@@ -369,8 +369,8 @@ I have obtained abundant wealth of cattle, bipeds and quad- rupeds, and corn in 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/06_ahaM_pashUnAmadhipA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हं प॑शू॒नाम॑धि॒पा असा॑नि॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु।  
-मह्य॒मौदु॑म्बरो म॒णिर्द्रवि॑णानि॒ नि य॑च्छतु ॥
+अहं᳓ पशूना᳓मधिपा᳓ अ᳓सानि म᳓यि पुष्टं᳓ पुष्टप᳓तिर्दधातु।  
+म᳓ह्यमौ᳓दुम्बरो मणि᳓र्द्र᳓विणानि नि᳓ यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/06_ahaM_pashUnAmadhipA.md">
@@ -434,8 +434,8 @@ Fain would I be the lord of herds of cattle: may he who rules o'er riches send m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/07_upa_maudumbaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॒ मौदु॑म्बरो म॒णिः प्र॒जया॑ च॒ धने॑न च।  
-इन्द्रे॑ण जिन्वि॒तो म॒णिरा मा॑गन्त्स॒ह वर्च॑सा ॥
+उ᳓प मौ᳓दुम्बरो मणिः᳓ प्रज᳓या च ध᳓नेन च।  
+इ᳓न्द्रेण जिन्वितो᳓ मणि᳓रा᳓ मागन्त्सह᳓ व᳓र्चसा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/07_upa_maudumbaro.md">
@@ -500,8 +500,8 @@ To me with wealth and children come the Amulet of Udumbara. With splendour come 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/08_devo_maNiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वो म॒णिः स॑पत्न॒हा ध॑न॒सा धन॑सातये।  
-प॒शोरन्न॑स्य भू॒मानं॒ गवां॑ स्फा॒तिं नि य॑च्छतु ॥
+देवो᳓ मणिः᳓ सपत्नहा᳓ धनसा᳓ ध᳓नसातये।  
+पशो᳓र᳓न्नस्य भूमा᳓नं ग᳓वां स्फातिं᳓ नि᳓ यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/08_devo_maNiH.md">
@@ -566,8 +566,8 @@ Divine, foe-quelling Amulet, wealth-winner for the gain of wealth-- May it give 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/09_yathAgre_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथाग्रे॒ त्वं व॑नस्पते पु॒ष्ठ्या स॒ह ज॑ज्ञि॒षे।  
-ए॒वा धन॑स्य मे स्फा॒तिमा द॑धातु॒ सर॑स्वती ॥
+य᳓था᳓ग्रे त्वं᳓ वनस्पते पुष्ठ्या᳓ सह᳓ जज्ञिषे᳓।  
+एवा᳓ ध᳓नस्य मे स्फाति᳓मा᳓ दधातु स᳓रस्वती ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/09_yathAgre_tvam.md">
@@ -630,8 +630,8 @@ As thou, O Forest Tree, wast born with increase when thy life began, So let Sara
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/10_A_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ मे॒ धनं॒ सर॑स्वती॒ पय॑स्फातिं च धा॒न्य॑म्।  
-सि॑नीवा॒ल्युपा व॑हाद॒यं चौदु॑म्बरो म॒णिः ॥
+आ᳓ मे ध᳓नं स᳓रस्वती प᳓यस्फातिं च धान्य᳙म्।  
+सि᳙नीवाल्यु᳓पा᳓ वहादयं᳓ चौ᳓दुम्बरो मणिः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/10_A_me.md">
@@ -706,8 +706,8 @@ Sarasvati vouchsafe me wealth, household prosperity, and corn! Let Sinivali brin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/11_tvaM_maNInAmadhipA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं म॑णी॒नाम॑धि॒पा वृषा॑सि॒ त्वयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्जजान।  
-त्वयी॒मे वाजा॒ द्रवि॑णानि॒ सर्वौदु॑म्बरः॒ स त्वम॒स्मत्स॑हस्वा॒रादा॒रादरा॑ति॒मम॑तिं॒ क्षुधं॑ च ॥
+त्वं᳓ मणीना᳓मधिपा᳓ वृ᳓षासि त्व᳓यि पुष्टं᳓ पुष्टप᳓तिर्जजान।  
+त्व᳓यीमे᳓ वा᳓जा द्र᳓विणानि स᳓र्वौ᳓दुम्बरः स᳓ त्व᳓मस्म᳓त्सहस्वारा᳓दारा᳓द᳓रातिम᳓मतिं क्षु᳓धं च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/11_tvaM_maNInAmadhipA.md">
@@ -780,8 +780,8 @@ The Lord of amulets art thou, most mighty: in thee wealth's ruler hath engendere
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/12_grAmaNIrasi_grAmaNIrutthAyAbhiShikto-bhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ग्रा॑म॒णीर॑सि ग्राम॒णीरु॒त्थाया॒भिषि॑क्तो॒ऽभि मा॑ सिञ्च॒ वर्च॑सा।  
-तेजो॑ऽसि॒ तेजो॒ मयि॑ धार॒याधि॑ र॒यिर॑सि र॒यिं मे॑ धेहि ॥
+ग्रा᳙मणी᳓रसि ग्रामणी᳓रुत्था᳓याभि᳓षिक्तोऽभि᳓ मा सिञ्च व᳓र्चसा।  
+ते᳓जोऽसि ते᳓जो म᳓यि धारया᳓धि रयि᳓रसि रयिं᳓ मे धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/12_grAmaNIrasi_grAmaNIrutthAyAbhiShikto-bhi.md">
@@ -860,8 +860,8 @@ Vigour art thou, in me do thou plant vigour: riches art thou, so do thou grant m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/13_puShTirasi_puShTyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पु॒ष्टिर॑सि पु॒ष्ट्या मा॒ सम॑ङ्ग्धि गृहमे॒धी गृ॒हप॑तिं मा कृणु।  
-औदु॑म्बरः॒ स त्वम॒स्मासु॑ धेहि र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑च्छ रा॒यस्पोषा॑य॒ प्रति॑ मुञ्चे अ॒हं त्वाम् ॥
+पुष्टि᳓रसि पुष्ट्या᳓ मा स᳓मङ्ग्धि गृहमेधी᳓ गृह᳓पतिं मा कृणु।  
+औ᳓दुम्बरः स᳓ त्व᳓मस्मा᳓सु धेहि रयिं᳓ च नः स᳓र्ववीरं नि᳓ यच्छ राय᳓स्पो᳓षाय प्र᳓ति मुञ्चे अहं᳓ त्वा᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/13_puShTirasi_puShTyA.md">
@@ -932,8 +932,8 @@ Amulet of Udumbara, enrich us: vouchsafe us wealth with all good men about us. I
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/14_ayamaudumbaro_maNirvIro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यमौदु॑म्बरो म॒णिर्वी॒रो वी॒राय॑ बध्यते।  
-स नः॑ स॒निं मधु॑मतीं कृणोतु र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑च्छात् ॥
+अय᳓मौ᳓दुम्बरो मणि᳓र्वीरो᳓ वीरा᳓य बध्यते।  
+स᳓ नः सनिं᳓ म᳓धुमतीं कृणोतु रयिं᳓ च नः स᳓र्ववीरं नि᳓ यच्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/14_ayamaudumbaro_maNirvIro.md">

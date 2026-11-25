@@ -33,8 +33,8 @@ In praise of Savitar
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/001_amRtapradAtA/01_doSho_gAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दो॒षो गा॑य बृ॒हद्गा॑य द्यु॒मद्धे॑ह्याथ॑र्वण।  
-स्तु॒हि दे॒वं स॑वि॒तार॑म् ॥
+दोषो᳓ गाय बृह᳓द्गाय द्युम᳓द्धेह्या᳓थर्वण।  
+स्तुहि᳓ देवं᳓ सविता᳓रम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/001_amRtapradAtA/01_doSho_gAya.md">
@@ -108,8 +108,8 @@ Sing, Atharvana, at eve, sing loudly, bring a splendid present: hymn God Savitar
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/001_amRtapradAtA/02_tamu_ShTuhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तमु॑ ष्टुहि॒ यो अ॒न्तः सिन्धौ॑ सू॒नुः स॒त्यस्य॒ युवा॑न॒म्।  
-अद्रो॑घवाचं सु॒शेव॑म् ॥
+त᳓मु ष्टुहि यो᳓ अन्तः᳓ सि᳓न्धौ सूनुः᳓ सत्य᳓स्य यु᳓वानम्।  
+अ᳓द्रोघवाचं सुशे᳓वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/001_amRtapradAtA/02_tamu_ShTuhi.md">
@@ -180,8 +180,8 @@ Yea, praise him whose home is in the river, Son of Truth, the youthful, gracious
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/001_amRtapradAtA/03_sa_ghA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स घा॑ नो दे॒वः स॑वि॒ता सा॑विषद॒मृता॑नि॒ भूरि॑।  
-उ॒भे सु॑ष्टु॒ती सु॒गात॑वे ॥
+स᳓ घा नो देवः᳓ सविता᳓ साविषदमृ᳓तानि भू᳓रि।  
+उभे᳓ सुष्टुती᳓ सुगा᳓तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/001_amRtapradAtA/03_sa_ghA.md">

@@ -37,8 +37,8 @@ Absolution and benediction
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/01_xetriyAttvA_nirRtyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्षे॑त्रि॒यात्त्वा॒ निरृ॑त्या जामिशं॒साद्द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
+क्षे᳙त्रिया᳓त्त्वा नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
+अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/01_xetriyAttvA_nirRtyA.md">
@@ -103,9 +103,9 @@ From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/02_shaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं ते॑ अ॒ग्निः स॒हाद्भिर॑स्तु॒ शं सोमः॑ स॒हौष॑धीभिः।  
-ए॒वाहं त्वां क्षे॑त्रि॒यान्निरृ॑त्या जामिशं॒साद्द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
+शं᳓ ते अग्निः᳓ सहा᳓द्भि᳓रस्तु शं᳓ सो᳓मः सहौ᳓षधीभिः।  
+एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
+अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/02_shaM_te.md">
@@ -189,9 +189,9 @@ Gracious to thee be Agni with the Waters, let Soma with the Plants be kind and b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/03_shaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं ते॒ वातो॑ अ॒न्तरि॑क्षे॒ वयो॑ धा॒च्छं ते॑ भ॒वन्तु॑ प्र॒दिश॒श्चत॑स्रः।  
-ए॒वाहं त्वां क्षे॑त्रि॒यान्निरृ॑त्या जामिशं॒साद्द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
+शं᳓ ते वा᳓तो अन्त᳓रिक्षे व᳓यो धाच्छं᳓ ते भव᳓न्तु प्रदि᳓शश्च᳓तस्रः।  
+एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
+अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/03_shaM_te.md">
@@ -257,9 +257,9 @@ May kind Wind strengthen thee in air's mid-region, to thee may heaven's four qua
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/04_imA_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मा या दे॒वीः प्र॒दिश॒श्चत॑स्रो॒ वात॑पत्नीर॒भि सूर्यो॑ वि॒चष्टे॑।  
-ए॒वाहं त्वां क्षे॑त्रि॒यान्निरृ॑त्या जामिशं॒साद्द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
+इमा᳓ या᳓ देवीः᳓ प्रदि᳓शश्च᳓तस्रो वा᳓तपत्नीरभि᳓ सू᳓र्यो विच᳓ष्टे।  
+एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
+अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/04_imA_yA.md">
@@ -324,9 +324,9 @@ These Goddesses, four regions of the heavens, on whom the Sun looks kindly, wive
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तासु॑ त्वा॒न्तर्ज॒रस्या द॒धामि॒ प्र यक्ष्म॑ एतु॒ निरृ॑तिः परा॒चैः।  
-ए॒वाहं त्वां क्षे॑त्रि॒यान्निरृ॑त्या जामिशं॒साद्द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
+ता᳓सु त्वान्त᳓र्जर᳓स्या᳓ दधा᳓मि प्र᳓ य᳓क्ष्म एतु नि᳓रृतिः पराचैः᳓।  
+एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
+अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
@@ -389,9 +389,9 @@ For long life, in the midst of these I set thee. Away pass Nirriti, away Consump
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/06_amukthA_yaxmAdduritAdavadyAddruhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अमु॑क्था॒ यक्ष्मा॑द्दुरि॒ताद॑व॒द्याद्द्रु॒हः पाशा॒द्ग्राह्या॒श्चोद॑मुक्थाः।  
-ए॒वाहं त्वां क्षे॑त्रि॒यान्निरृ॑त्या जामिशं॒साद्द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
+अ᳓मुक्था य᳓क्ष्माद्दुरिता᳓दवद्या᳓द्द्रुहः᳓ पा᳓शाद्ग्रा᳓ह्याश्चो᳓दमुक्थाः।  
+एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
+अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/06_amukthA_yaxmAdduritAdavadyAddruhaH.md">
@@ -459,9 +459,9 @@ Thou hast been freed from Phthisis and from trouble, from shame, and from the sn
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अहा॒ अरा॑ति॒मवि॑दः स्यो॒नमप्य॑भूर्भ॒द्रे सु॑कृ॒तस्य॑ लो॒के।  
-ए॒वाहं त्वां क्षे॑त्रि॒यान्निरृ॑त्या जामिशं॒साद्द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
+अ᳓हा अ᳓रातिम᳓विदः स्योन᳓म᳓प्यभूर्भद्रे᳓ सुकृत᳓स्य लोके᳓।  
+एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
+अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
@@ -528,9 +528,9 @@ Joy hast thou found, and left ill-will behind thee: thou hast attained the happy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्य॑मृ॒तं तम॑सो॒ ग्राह्या॒ अधि॑ दे॒वा मु॒ञ्चन्तो॑ असृज॒न्निरेण॑सः।  
-ए॒वाहं त्वां क्षे॑त्रि॒यान्निरृ॑त्या जामिशं॒साद्द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
+सू᳓र्यमृतं᳓ त᳓मसो ग्रा᳓ह्या अ᳓धि देवा᳓ मुञ्च᳓न्तो असृजन्नि᳓रे᳓णसः।  
+एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
+अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">

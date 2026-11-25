@@ -37,8 +37,8 @@ A charm against witchcraft
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/01_suparNastvAnvavindatsUkarastvAkhanannasA_dipsau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॑प॒र्णस्त्वान्व॑विन्दत्सूक॒रस्त्वा॑खनन्न॒सा।  
-दिप्सौ॑षधे॒ त्वं दिप्स॑न्त॒मव॑ कृत्या॒कृतं॑ जहि ॥
+सु᳙पर्ण᳓स्त्वा᳓न्वविन्दत्सूकर᳓स्त्वाखनन्नसा᳓।  
+दि᳓प्सौषधे त्वं᳓ दि᳓प्सन्तम᳓व कृत्याकृ᳓तं जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/01_suparNastvAnvavindatsUkarastvAkhanannasA_dipsau.md">
@@ -101,8 +101,8 @@ An eagle found thee: with his snout a wild boar dug thee from the earth. Harm th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/02_ava_jahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अव॑ जहि यातु॒धाना॒नव॑ कृत्या॒कृतं॑ जहि।  
-अथो॒ यो अ॒स्मान्दिप्स॑ति॒ तमु॒ त्वं ज॑ह्योषधे ॥
+अ᳓व जहि यातुधा᳓नान᳓व कृत्याकृ᳓तं जहि।  
+अ᳓थो यो᳓ अस्मा᳓न्दि᳓प्सति त᳓मु त्वं᳓ जह्योषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/02_ava_jahi.md">
@@ -163,8 +163,8 @@ Beat thou the Yatudhanas back, drive thou away the sorcerer; And chase afar, O P
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/03_rishyasyeva_parIshAsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रि॑श्यस्येव परीशा॒सं प॑रि॒कृत्य॒ परि॑ त्व॒चः।  
-कृ॒त्यां कृ॑त्या॒कृते॑ देवा नि॒ष्कमि॑व॒ प्रति॑ मुञ्चत ॥
+रि᳙श्यस्येव परीशासं᳓ परिकृ᳓त्य प᳓रि त्वचः᳓।  
+कृत्यां᳓ कृत्याकृ᳓ते देवा निष्क᳓मिव प्र᳓ति मुञ्चत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/03_rishyasyeva_parIshAsam.md">
@@ -232,8 +232,8 @@ As 'twere a strip cut round from skin of a white-footed an- telope, Bind, like a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/04_punaH_kRtyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुनः॑ कृ॒त्यां कृ॑त्या॒कृते॑ हस्त॒गृह्य॒ परा॑ णय।  
-स॑म॒क्षम॑स्मा॒ आ धे॑हि॒ यथा॑ कृत्या॒कृतं॒ हन॑त् ॥
+पु᳓नः कृत्यां᳓ कृत्याकृ᳓ते हस्तगृ᳓ह्य प᳓रा णय।  
+स᳙मक्ष᳓मस्मा आ᳓ धेहि य᳓था कृत्याकृ᳓तं ह᳓नत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/04_punaH_kRtyAm.md">
@@ -296,8 +296,8 @@ Take thou his sorcery by the hand, and to the sorcerer lead it back. Lay it befo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/05_kRtyAH_santu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॒त्याः स॑न्तु कृत्या॒कृते॑ श॒पथः॑ शपथीय॒ते।  
-सु॒खो रथ॑ इव वर्ततां कृ॒त्या कृ॑त्या॒कृतं॒ पुनः॑ ॥
+कृत्याः᳓ सन्तु कृत्याकृ᳓ते शप᳓थः शपथीयते᳓।  
+सुखो᳓ र᳓थ इव वर्ततां कृत्या᳓ कृत्याकृ᳓तं पु᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/05_kRtyAH_santu.md">
@@ -358,8 +358,8 @@ Back on the wizard fall his craft, upon the curser light his curse! Let witchcra
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/06_yadi_strI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॒ स्त्री यदि॑ वा॒ पुमा॑न्कृ॒त्यां च॒कार॑ पा॒प्मने॑।  
-तामु॒ तस्मै॑ नयाम॒स्यश्व॑मिवाश्वाभि॒धान्या॑ ॥
+य᳓दि स्त्री᳓ य᳓दि वा पु᳓मान्कृत्यां᳓ चका᳓र पाप्म᳓ने।  
+ता᳓मु त᳓स्मै नयामस्य᳓श्वमिवाश्वाभिधा᳓न्या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/06_yadi_strI.md">
@@ -421,8 +421,8 @@ Whoso, for other's harm hath dealt-woman or man-in magic arts, To him we lead th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/07_yadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॒ वासि॑ दे॒वकृ॑ता॒ यदि॑ वा॒ पुरु॑षैः कृ॒ता।  
-तां त्वा॒ पुन॑र्णयाम॒सीन्द्रे॑ण स॒युजा॑ व॒यम् ॥
+य᳓दि वा᳓सि देव᳓कृता य᳓दि वा पु᳓रुषैः कृता᳓।  
+तां᳓ त्वा पु᳓नर्णयामसी᳓न्द्रेण सयु᳓जा वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/07_yadi_vAsi.md">
@@ -486,8 +486,8 @@ Now whether thou hast been prepared by Gods or been pre- pared by men, We, with 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/08_agne_pRtanAShATpRtanAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॑ पृतनाषा॒ट्पृत॑नाः सहस्व।  
-पुनः॑ कृ॒त्यां कृ॑त्या॒कृते॑ प्रति॒हर॑णेन हरामसि ॥
+अ᳓ग्ने पृतनाषाट्पृ᳓तनाः सहस्व।  
+पु᳓नः कृत्यां᳓ कृत्याकृ᳓ते प्रतिह᳓रणेन हरामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/08_agne_pRtanAShATpRtanAH.md">
@@ -551,8 +551,8 @@ Agni, victorious in fight, subdue the armies of our foes! Back on the sorcerer w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/09_kRtavyadhani_vidya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृत॑व्यधनि॒ विद्य॒ तं यश्च॒कार॒ तमिज्ज॑हि।  
-न त्वामच॑क्रुषे व॒यं व॒धाय॒ सं शि॑शीमहि ॥
+कृ᳓तव्यधनि वि᳓द्य तं᳓ य᳓श्चका᳓र त᳓मि᳓ज्जहि।  
+न᳓ त्वा᳓म᳓चक्रुषे वयं᳓ वधा᳓य सं᳓ शिशीमहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/09_kRtavyadhani_vidya.md">
@@ -617,8 +617,8 @@ Thou who hast piercing weapons, pierce him who hath wrought it; conquer him. We 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/10_putra_iva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पु॒त्र इ॑व पि॒तरं॑ गच्छ स्व॒ज इ॑वा॒भिष्ठि॑तो दश।  
-ब॒न्धमि॑वावक्रा॒मी ग॑च्छ॒ कृत्ये॑ कृत्या॒कृतं॒ पुनः॑ ॥
+पुत्र᳓ इव पित᳓रं गच्छ स्वज᳓ इवाभि᳓ष्ठितो दश।  
+बन्ध᳓मिवावक्रामी᳓ गच्छ कृ᳓त्ये कृत्याकृ᳓तं पु᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/10_putra_iva.md">
@@ -684,8 +684,8 @@ Go as a son goes to his sire: bite as a trampled viper bites. As one who flies f
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/11_udeNIva_vAraNyabhiskandham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदे॒णीव॑ वार॒ण्य॑भि॒स्कन्धं॑ मृ॒गीव॑।  
-कृ॒त्या क॒र्तार॑मृच्छतु ॥
+उ᳓देणी᳓व वारण्य᳙भिस्क᳓न्धं मृगी᳓व।  
+कृत्या᳓ कर्ता᳓रमृच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/11_udeNIva_vAraNyabhiskandham.md">
@@ -848,8 +848,8 @@ Even as the timid antelope or hind from her assailant flees, So swiftly let the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/12_iShvA_RjIyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इष्वा॒ ऋजी॑यः पततु॒ द्यावा॑पृथिवी॒ तं प्रति॑।  
-सा तं मृ॒गमि॑व गृह्णातु कृ॒त्या कृ॑त्या॒कृतं॒ पुनः॑ ॥
+इ᳓ष्वा ऋ᳓जीयः पततु द्या᳓वापृथिवी तं᳓ प्र᳓ति।  
+सा᳓ तं᳓ मृग᳓मिव गृह्णातु कृत्या᳓ कृत्याकृ᳓तं पु᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/12_iShvA_RjIyaH.md">
@@ -906,8 +906,8 @@ Straighter than any arrow let it fly against him, Heaven and Earth. So let that 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/13_agnirivaitu_pratikUlamanukUlamivodakam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निरि॑वैतु प्रति॒कूल॑मनु॒कूल॑मिवोद॒कम्।  
-सु॒खो रथ॑ इव वर्ततां कृ॒त्या कृ॑त्या॒कृतं॒ पुनः॑ ॥
+अग्नि᳓रिवैतु प्रतिकू᳓लमनुकू᳓लमिवोदक᳓म्।  
+सुखो᳓ र᳓थ इव वर्ततां कृत्या᳓ कृत्याकृ᳓तं पु᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/13_agnirivaitu_pratikUlamanukUlamivodakam.md">

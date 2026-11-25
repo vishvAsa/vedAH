@@ -33,8 +33,8 @@ Translated: Ludwig, p. 517; Henry, 38, 109; Griffith, i. 375.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/01_udasya_shyAvau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उद॑स्य श्या॒वौ वि॑थु॒रौ गृध्रौ॒ द्यामि॑व पेततुः।  
-उ॑च्छोचनप्रशोच॒नाव॒स्योच्छोच॑नौ हृ॒दः ॥
+उ᳓दस्य श्यावौ᳓ विथुरौ᳓ गृ᳓ध्रौ द्या᳓मिव पेततुः।  
+उ᳙च्छोचनप्रशोचना᳓वस्यो᳓च्छो᳓चनौ हृदः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/095_shatrunAshanam/01_udasya_shyAvau.md">
@@ -102,8 +102,8 @@ To heaven, as 'twere, have soared this man's two vultures, staggering, dusky hue
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/02_ahamenAvudatiShThipaM_gAvau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हमे॑ना॒वुद॑तिष्ठिपं॒ गावौ॑ श्रान्त॒सदा॑विव।  
-कु॑र्कु॒रावि॑व॒ कूज॑न्तावु॒दव॑न्तौ॒ वृका॑विव ॥
+अह᳓मेनावु᳓दतिष्ठिपं गा᳓वौ श्रान्तस᳓दाविव।  
+कु᳙र्कुरा᳓विव कू᳓जन्तावुद᳓वन्तौ वृ᳓काविव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/095_shatrunAshanam/02_ahamenAvudatiShThipaM_gAvau.md">
@@ -166,8 +166,8 @@ I verily have stirred them up like oxen resting after toil. Like two loud-snarli
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/03_Atodinau_nitodinAvatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॑तो॒दिनौ॑ नितो॒दिना॒वथो॑ संतो॒दिना॑वु॒त।  
-अपि॑ नह्याम्यस्य॒ मेढ्रं॒ य इ॒तः स्त्री पुमा॑ञ्ज॒भार॑ ॥
+आ᳙तोदि᳓नौ नितोदि᳓नाव᳓थो संतोदि᳓नावुत᳓।  
+अ᳓पि नह्याम्यस्य मे᳓ढ्रं य᳓ इतः᳓ स्त्री᳓ पु᳓माञ्जभा᳓र ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/095_shatrunAshanam/03_Atodinau_nitodinAvatho.md">

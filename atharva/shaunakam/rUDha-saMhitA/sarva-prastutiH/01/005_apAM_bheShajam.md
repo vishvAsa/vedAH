@@ -37,8 +37,8 @@ To the waters, for strength and power
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/005_apAM_bheShajam/01_Apo_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन।  
-म॒हे रणा॑य॒ चक्ष॑से ॥
+आ᳓पो हि᳓ ष्ठा᳓ मयोभु᳓वस्ता᳓ न ऊर्जे᳓ दधातन।  
+महे᳓ र᳓णाय च᳓क्षसे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/005_apAM_bheShajam/01_Apo_hi.md">
@@ -98,8 +98,8 @@ Ye, Waters, truly bring us bliss: so help ye us to strength and power That we ma
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/005_apAM_bheShajam/02_yo_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑।  
-उ॑श॒तीरि॑व मा॒तरः॑ ॥
+यो᳓ वः शिव᳓तमो र᳓सस्त᳓स्य भाजयतेह᳓ नः।  
+उ᳙शती᳓रिव मात᳓रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/005_apAM_bheShajam/02_yo_vaH.md">
@@ -159,8 +159,8 @@ Here grant to us a share of dew, that most auspicious dew of yours, Like mothers
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/005_apAM_bheShajam/03_tasmA_aram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ।  
-आपो॑ ज॒नय॑था च नः ॥
+त᳓स्मा अ᳓रं गमाम वो य᳓स्य क्ष᳓याय जि᳓न्वथ।  
+आ᳓पो जन᳓यथा च नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/005_apAM_bheShajam/03_tasmA_aram.md">
@@ -227,8 +227,8 @@ For you we fain would go to him to whose abode ye send us forth, And, Waters, gi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/005_apAM_bheShajam/04_IshAnA_vAryANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ईशा॑ना॒ वार्या॑णां॒ क्षय॑न्तीश्चर्षणी॒नाम्।  
-अ॒पो या॑चामि भेष॒जम् ॥
+ई᳓शाना वा᳓र्याणां क्ष᳓यन्तीश्चर्षणीना᳓म्।  
+अपो᳓ याचामि भेषज᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/005_apAM_bheShajam/04_IshAnA_vAryANAm.md">

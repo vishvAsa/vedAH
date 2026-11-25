@@ -33,8 +33,8 @@ A dialogue between Atharvan and Varuna
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/01_kathaM_mahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क॒थं म॒हे असु॑रायाब्रवीरि॒ह क॒थं पि॒त्रे हर॑ये त्वे॒षनृ॑म्णः।  
-पृश्निं॑ वरुण॒ दक्षि॑णां ददा॒वान्पुन॑र्मघ॒ त्वं मन॑साचिकित्सीः ॥
+कथं᳓ महे᳓ अ᳓सुरायाब्रवीरिह᳓ कथं᳓ पित्रे᳓ ह᳓रये त्वेष᳓नृम्णः।  
+पृ᳓श्निं वरुण द᳓क्षिणां ददावा᳓न्पु᳓नर्मघ त्वं᳓ म᳓नसाचिकित्सीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/011_saMpatkarma/01_kathaM_mahe.md">
@@ -108,8 +108,8 @@ How, terrible in might, hast thou here spoken to the great God, how to the gold-
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/02_na_kAmena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न कामे॑न॒ पुन॑र्मघो भवामि॒ सं च॑क्षे॒ कं पृश्नि॑मे॒तामुपा॑जे।  
-केन॒ नु त्वम॑थर्व॒न्काव्ये॑न॒ केन॑ जा॒तेना॑सि जा॒तवे॑दाः ॥
+न᳓ का᳓मेन पु᳓नर्मघो भवामि सं᳓ चक्षे कं᳓ पृ᳓श्निमेता᳓मु᳓पाजे।  
+के᳓न नु᳓ त्व᳓मथर्वन्का᳓व्येन के᳓न जाते᳓नासि जात᳓वेदाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/011_saMpatkarma/02_na_kAmena.md">
@@ -180,8 +180,8 @@ Not through desire do I revoke my present: I bring this brind- led cow to contem
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/03_satyamahaM_gabhIraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒त्यम॒हं ग॑भी॒रः काव्ये॑न स॒त्यं जा॒तेना॑स्मि जा॒तवे॑दाः।  
-न मे॑ दा॒सो नार्यो॑ महि॒त्वा व्र॒तं मी॑माय॒ यद॒हं ध॑रि॒ष्ये ॥
+सत्य᳓महं᳓ गभीरः᳓ का᳓व्येन सत्यं᳓ जाते᳓नास्मि जात᳓वेदाः।  
+न᳓ मे दासो᳓ ना᳓र्यो महित्वा᳓ व्रतं᳓ मीमाय य᳓दहं᳓ धरिष्ये᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/011_saMpatkarma/03_satyamahaM_gabhIraH.md">
@@ -251,8 +251,8 @@ Truly I am profound in wisdom, truly I know by nature all existing creatures. No
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/04_na_tvadanyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न त्वद॒न्यः क॒वित॑रो॒ न मे॒धया॒ धीर॑तरो वरुण स्वधावन्।  
-त्वं ता विश्वा॒ भुव॑नानि वेत्थ॒ स चि॒न्नु त्वज्जनो॑ मा॒यी बि॑भाय ॥
+न᳓ त्व᳓दन्यः᳓ कवि᳓तरो न᳓ मेध᳓या धी᳓रतरो वरुण स्वधावन्।  
+त्वं᳓ ता᳓ वि᳓श्वा भु᳓वनानि वेत्थ स᳓ चिन्नु᳓ त्व᳓ज्ज᳓नो मायी᳓ बिभाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/011_saMpatkarma/04_na_tvadanyaH.md">
@@ -316,8 +316,8 @@ None, self-dependent Varuna! existeth wiser than thou or sager by his wisdom. Th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/05_tvaM_hyanga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं ह्य१॒॑ङ्ग व॑रुण स्वधाव॒न्विश्वा॒ वेत्थ॒ जनि॑मा सुप्रणीते।  
-किं रज॑स ए॒ना प॒रो अ॒न्यद॑स्त्ये॒ना किं परे॒णाव॑रममुर ॥
+त्वं᳓ ह्य᳙ङ्ग᳓ वरुण स्वधावन्वि᳓श्वा वे᳓त्थ ज᳓निमा सुप्रणीते।  
+किं᳓ र᳓जस एना᳓ परो᳓ अन्य᳓दस्त्येना᳓ किं᳓ प᳓रेणा᳓वरममुर ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/011_saMpatkarma/05_tvaM_hyanga.md">
@@ -389,8 +389,8 @@ O self-dependent Varuna, wise director, thou knowest verily all generations. Wha
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/06_ekaM_rajasa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एकं॒ रज॑स ए॒ना प॒रो अ॒न्यदस्त्ये॒ना प॒र एके॑न दु॒र्णशं॑ चिद॒र्वाक्।  
-तत्ते॑ वि॒द्वान्व॑रुण॒ प्र ब्र॑वीम्य॒धोव॑चसः प॒णयो॑ भवन्तु नी॒चैर्दा॒सा उप॑ सर्पन्तु॒ भूमि॑म् ॥
+ए᳓कं र᳓जस एना᳓ परो᳓ अन्य᳓द᳓स्त्येना᳓ पर᳓ ए᳓केन दुर्ण᳓शं चिदर्वा᳓क्।  
+त᳓त्ते विद्वा᳓न्वरुण प्र᳓ ब्रवीम्यधो᳓वचसः पण᳓यो भवन्तु नीचै᳓र्दासा᳓ उ᳓प सर्पन्तु भू᳓मिम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/011_saMpatkarma/06_ekaM_rajasa.md">
@@ -475,8 +475,8 @@ One thing there is beyond this air, and something beyond that one, most hard to 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/07_tvaM_hyanga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं ह्य१॒॑ङ्ग व॑रुण॒ ब्रवी॑षि॒ पुन॑र्मघेष्वव॒द्यानि॒ भूरि॑।  
-मो षु प॒णीँर॑भ्ये॒३॒॑ताव॑तो भू॒न्मा त्वा॑ वोचन्नरा॒धसं॒ जना॑सः ॥
+त्वं᳓ ह्य᳙ङ्ग᳓ वरुण ब्र᳓वीषि पु᳓नर्मघेष्ववद्या᳓नि भू᳓रि।  
+मो᳓ षु᳓ पणीँ᳓रभ्ये᳙ता᳓वतो भून्मा᳓ त्वा वोचन्नराध᳓सं ज᳓नासः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/011_saMpatkarma/07_tvaM_hyanga.md">
@@ -539,8 +539,8 @@ Many reproaches, Varuna, dost thou utter against the misers. who revoke their pr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/08_mA_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा मा॑ वोचन्नरा॒धसं॒ जना॑सः॒ पुन॑स्ते॒ पृश्निं॑ जरितर्ददामि।  
-स्तो॒त्रं मे॒ विश्व॒मा या॑हि॒ शची॑भिर॒न्तर्विश्वा॑सु॒ मानु॑षीषु दि॒क्षु ॥
+मा᳓ मा वोचन्नराध᳓सं ज᳓नासः पु᳓नस्ते पृ᳓श्निं जरितर्ददामि।  
+स्तोत्रं᳓ मे वि᳓श्वमा᳓ याहि श᳓चीभिरन्त᳓र्वि᳓श्वासु मा᳓नुषीषु दिक्षु᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/011_saMpatkarma/08_mA_mA.md">
@@ -605,8 +605,8 @@ Let not men call me an illiberal giver. I give thee back the brindled cow, O sin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/09_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ ते॑ स्तो॒त्राण्युद्य॑तानि यन्त्व॒न्तर्विश्वा॑सु॒ मानु॑षीषु दि॒क्षु।  
-दे॒हि नु मे॒ यन्मे॒ अद॑त्तो॒ असि॒ युज्यो॑ मे स॒प्तप॑दः॒ सखा॑सि ॥
+आ᳓ ते स्तोत्रा᳓ण्यु᳓द्यतानि यन्त्वन्त᳓र्वि᳓श्वासु मा᳓नुषीषु दिक्षु᳓।  
+देहि᳓ नु᳓ मे य᳓न्मे अ᳓दत्तो अ᳓सि यु᳓ज्यो मे सप्त᳓पदः स᳓खासि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/011_saMpatkarma/09_A_te.md">
@@ -675,8 +675,8 @@ Let hymns of praise ascend to thee, uplifted in every place of human habitation.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/10_samA_nau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒मा नौ॒ बन्धु॑र्वरुण स॒मा जा वेदा॒हं तद्यन्ना॑वे॒षा स॒मा जा।  
-ददा॑मि॒ तद्यत्ते॒ अद॑त्तो॒ अस्मि॒ युज्य॑स्ते स॒प्तप॑दः॒ सखा॑स्मि ॥
+समा᳓ नौ ब᳓न्धुर्वरुण समा᳓ जा᳓ वे᳓दाहं᳓ त᳓द्य᳓न्नावेषा᳓ समा᳓ जा᳓।  
+द᳓दामि त᳓द्य᳓त्ते अ᳓दत्तो अ᳓स्मि यु᳓ज्यस्ते सप्त᳓पदः स᳓खास्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/011_saMpatkarma/10_samA_nau.md">
@@ -754,9 +754,9 @@ One origin, Varuna! one bond unites us I know the nature of that common kinship.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/11_devo_devAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वो दे॒वाय॑ गृण॒ते व॑यो॒धा विप्रो॒ विप्रा॑य स्तुव॒ते सु॑मे॒धाः।  
-अजी॑जनो॒ हि व॑रुण स्वधाव॒न्नथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुम्।  
-तस्मा॑ उ॒ राधः॑ कृणुहि सुप्रश॒स्तं सखा॑ नो असि पर॒मं च॒ बन्धुः॑ ॥
+देवो᳓ देवा᳓य गृणते᳓ वयोधा᳓ वि᳓प्रो वि᳓प्राय स्तुवते᳓ सुमेधाः᳓।  
+अ᳓जीजनो हि᳓ वरुण स्वधावन्न᳓थर्वाणं पित᳓रं देव᳓बन्धुम्।  
+त᳓स्मा उ रा᳓धः कृणुहि सुप्रशस्तं᳓ स᳓खा नो असि परमं᳓ च ब᳓न्धुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/011_saMpatkarma/11_devo_devAya.md">

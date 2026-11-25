@@ -37,8 +37,8 @@ A benediction on a King at his consecration
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/01_vishve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्वे॑ देवा॒ वस॑वो॒ रक्ष॑ते॒ममु॒तादि॒त्या जा॑गृ॒त यू॒यम॒स्मिन्।  
-मेमं सना॑भिरु॒त वान्यना॑भि॒र्मेमं प्राप॒त्पौरु॑षेयो व॒धो यः ॥
+वि᳓श्वे देवा व᳓सवो र᳓क्षतेम᳓मुता᳓दित्या᳓ जागृत᳓ यूय᳓मस्मि᳓न्।  
+मे᳓मं᳓ स᳓नाभिरुत᳓ वा᳓न्य᳓नाभिर्मे᳓मं᳓ प्रा᳓पत्पौ᳓रुषेयो वधो᳓ यः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/01_vishve_devA.md">
@@ -102,8 +102,8 @@ Guard and protect this man, all Gods and Vasus. Over him keep- ye watch and ward
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/02_ye_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये वो॑ देवाः पि॒तरो॒ ये च॑ पु॒त्राः सचे॑तसो मे शृणुते॒दमु॒क्तम्।  
-सर्वे॑भ्यो वः॒ परि॑ ददाम्ये॒तं स्व॒स्त्ये॑नं ज॒रसे॑ वहाथ ॥
+ये᳓ वो देवाः पित᳓रो ये᳓ च पुत्राः᳓ स᳓चेतसो मे शृणुतेद᳓मुक्त᳓म्।  
+स᳓र्वेभ्यो वः प᳓रि ददाम्येतं᳓ स्वस्त्ये᳙नं जर᳓से वहाथ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/02_ye_vo.md">
@@ -165,8 +165,8 @@ Listen, one-minded, to the word I, utter, the sons, O Gods, among you, and the f
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/03_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये दे॑वा दि॒वि ष्ठ ये पृ॑थि॒व्यां ये अ॒न्तरि॑क्ष॒ ओष॑धीषु प॒शुष्व॒प्स्व१॒॑न्तः।  
-ते कृ॑णुत ज॒रस॒मायु॑र॒स्मै श॒तम॒न्यान्परि॑ वृणक्तु मृ॒त्यून् ॥
+ये᳓ देवा दिवि᳓ ष्ठ᳓ ये᳓ पृथिव्यां᳓ ये᳓ अन्त᳓रिक्ष ओ᳓षधीषु पशु᳓ष्वप्स्व᳙न्तः᳓।  
+ते᳓ कृणुत जर᳓समा᳓युरस्मै᳓ शत᳓मन्या᳓न्प᳓रि वृणक्तु मृत्यू᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/03_ye_devA.md">
@@ -235,8 +235,8 @@ All Gods who dwell on earth or in the heavens, in air, within. the plants, the b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/04_yeShAM_prayAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येषां॑ प्रया॒जा उ॒त वा॑नुया॒जा हु॒तभा॑गा अहु॒ताद॑श्च दे॒वाः।  
-येषां॑ वः॒ पञ्च॑ प्र॒दिशो॒ विभ॑क्ता॒स्तान्वो॑ अ॒स्मै स॑त्र॒सदः॑ कृणोमि ॥
+ये᳓षां प्रयाजा᳓ उत᳓ वानुयाजा᳓ हुत᳓भागा अहुता᳓दश्च देवाः᳓।  
+ये᳓षां वः प᳓ञ्च प्रदि᳓शो वि᳓भक्तास्ता᳓न्वो अस्मै᳓ सत्रस᳓दः कृणोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/04_yeShAM_prayAjA.md">

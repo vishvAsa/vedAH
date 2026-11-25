@@ -38,8 +38,8 @@ Purusha, Primeval Man or humanity personified
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/01_ayaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं मे॑ वर॒णो म॒णिः स॑पत्न॒क्षय॑णो॒ वृषा॑।  
-ते॒ना र॑भस्व॒ त्वं शत्रू॒न्प्र मृ॑णीहि दुरस्य॒तः ॥
+अयं᳓ मे वरणो᳓ मणिः᳓ सपत्नक्ष᳓यणो वृ᳓षा।  
+तेना᳓ रभस्व त्वं᳓ श᳓त्रून्प्र᳓ मृणीहि दुरस्यतः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/01_ayaM_me.md">
@@ -105,8 +105,8 @@ Here is my charm the Varana, slayer of rivals, strong in act. With this grasp th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/02_praiNAnChRNIhi_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रैणा॑ञ्छृणीहि॒ प्र मृ॒णा र॑भस्व म॒णिस्ते॑ अस्तु पुरए॒ता पु॒रस्ता॑त्।  
-अवा॑रयन्त वर॒णेन॑ दे॒वा अ॑भ्याचा॒रमसु॑राणां॒ श्वः श्वः॑ ॥
+प्रै᳓णाञ्छृणीहि प्र᳓ मृणा᳓ रभस्व मणि᳓स्ते अस्तु पुरएता᳓ पुर᳓स्तात्।  
+अ᳓वारयन्त वरणे᳓न देवा᳓ अभ्याचार᳓म᳓सुराणां श्वः᳓ श्वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/02_praiNAnChRNIhi_pra.md">
@@ -170,8 +170,8 @@ Break them in pieces; grasp them and destroy them. This Amu- let shall go before
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/03_ayaM_maNirvaraNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं म॒णिर्व॑र॒णो वि॒श्वभे॑षजः सहस्रा॒क्षो हरि॑तो हिर॒ण्ययः॑।  
-स ते॒ शत्रू॒नध॑रान्पादयाति॒ पूर्व॒स्तान्द॑भ्नुहि॒ ये त्वा॑ द्वि॒षन्ति॑ ॥
+अयं᳓ मणि᳓र्वरणो᳓ विश्व᳓भेषजः सहस्राक्षो᳓ ह᳓रितो हिरण्य᳓यः।  
+स᳓ ते श᳓त्रून᳓धरान्पादयाति पू᳓र्वस्ता᳓न्दभ्नुहि ये᳓ त्वा द्विष᳓न्ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/03_ayaM_maNirvaraNo.md">
@@ -234,8 +234,8 @@ This charm, this Varana healeth all diseases, bright with a thou- sand eyes and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/04_ayaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं ते॑ कृ॒त्यां वित॑तां॒ पौरु॑षेयाद॒यं भ॒यात्।  
-अ॒यं त्वा॒ सर्व॑स्मात्पा॒पाद्व॑र॒णो वा॑रयिष्यते ॥
+अयं᳓ ते कृत्यां᳓ वि᳓ततां पौ᳓रुषेयादयं᳓ भया᳓त्।  
+अयं᳓ त्वा स᳓र्वस्मात्पापा᳓द्वरणो᳓ वारयिष्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/04_ayaM_te.md">
@@ -298,8 +298,8 @@ This will stay witchcraft wrought for thee, will guard thee from the fear of man
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/05_varaNo_vArayAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व॑र॒णो वा॑रयाता अ॒यं दे॒वो वन॒स्पतिः॑।  
-यक्ष्मो॒ यो अ॒स्मिन्नावि॑ष्ट॒स्तमु॑ दे॒वा अ॑वीवरन् ॥
+व᳙रणो᳓ वारयाता अयं᳓ देवो᳓ व᳓नस्प᳓तिः।  
+य᳓क्ष्मो यो᳓ अस्मि᳓न्ना᳓विष्टस्त᳓मु देवा᳓ अवीवरन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/05_varaNo_vArayAtA.md">
@@ -363,8 +363,8 @@ Guard against ill of varied kind is Varana this heavenly Plant. The Gods have st
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/06_svapnaM_suptvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्वप्नं॑ सु॒प्त्वा यदि॒ पश्या॑सि पा॒पं मृ॒गः सृ॒तिं यति॒ धावा॒दजु॑ष्टाम्।  
-प॑रिक्ष॒वाच्छ॒कुनेः॑ पापवा॒दाद॒यं म॒णिर्व॑र॒णो वा॑रयिष्यते ॥
+स्व᳓प्नं सुप्त्वा᳓ य᳓दि प᳓श्यासि पापं᳓ मृगः᳓ सृतिं᳓ य᳓ति धा᳓वाद᳓जुष्टाम्।  
+प᳙रिक्षवा᳓च्छकु᳓नेः पापवादा᳓दयं᳓ मणि᳓र्वरणो᳓ वारयिष्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/06_svapnaM_suptvA.md">
@@ -431,8 +431,8 @@ If in thy sleep thou see an evil vision, oft as the beast repeats his loathed ap
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/07_arAtyAstvA_nirRtyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अरा॑त्यास्त्वा॒ निरृ॑त्या अभिचा॒रादथो॑ भ॒यात्।  
-मृ॒त्योरोजी॑यसो व॒धाद्व॑र॒णो वा॑रयिष्यते ॥
+अ᳓रात्यास्त्वा नि᳓रृत्या अभिचारा᳓द᳓थो भया᳓त्।  
+मृत्यो᳓रो᳓जीयसो वधा᳓द्वरणो᳓ वारयिष्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/07_arAtyAstvA_nirRtyA.md">
@@ -493,8 +493,8 @@ From Mischief, from Malignity, from incantation, from alarm, From death, from st
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/08_yanme_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यन्मे॑ मा॒ता यन्मे॑ पि॒ता भ्रात॑रो॒ यच्च॑ मे॒ स्वा यदेन॑श्चकृ॒मा व॒यम्।  
-ततो॑ नो वारयिष्यते॒ऽयं दे॒वो वन॒स्पतिः॑ ॥
+य᳓न्मे माता᳓ य᳓न्मे पिता᳓ भ्रा᳓तरो य᳓च्च मे स्वा᳓ य᳓दे᳓नश्चकृमा᳓ वय᳓म्।  
+त᳓तो नो वारयिष्यतेऽयं᳓ देवो᳓ व᳓नस्प᳓तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/08_yanme_mAtA.md">
@@ -556,8 +556,8 @@ Each sinful act that we have done,--my mother, father, and my friends,-- From al
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/09_varaNena_pravyathitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व॑र॒णेन॒ प्रव्य॑थिता॒ भ्रातृ॑व्या मे॒ सब॑न्धवः।  
-अ॒सूर्तं॒ रजो॒ अप्य॑गु॒स्ते य॑न्त्वध॒मं तमः॑ ॥
+व᳙रणे᳓न प्र᳓व्यथिता भ्रा᳓तृव्या मे स᳓बन्धवः।  
+असू᳓र्तं र᳓जो अ᳓प्यगुस्ते᳓ यन्त्वधमं᳓ त᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/09_varaNena_pravyathitA.md">
@@ -619,8 +619,8 @@ Affrighted by the Varana let my rivals near akin to me Pass to the region void o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/10_ariShTo-hamariShTagurAyuShmAntsarvapUruShaH_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अरि॑ष्टो॒ऽहमरि॑ष्टगु॒रायु॑ष्मा॒न्त्सर्व॑पूरुषः।  
-तं मायं व॑र॒णो म॒णिः परि॑ पातु दि॒शोदि॑शः ॥
+अ᳓रिष्टोऽह᳓म᳓रिष्टगुरा᳓युष्मान्त्स᳓र्वपूरुषः।  
+तं᳓ मा᳓यं᳓ वरणो᳓ मणिः᳓ प᳓रि पातु दिशो᳓दिशः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/10_ariShTo-hamariShTagurAyuShmAntsarvapUruShaH_tam.md">
@@ -683,8 +683,8 @@ Safe are my cattle, safe am I, long-lived with all my men around. This Varana, m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/11_ayaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं मे॑ वर॒ण उर॑सि॒ राजा॑ दे॒वो वन॒स्पतिः॑।  
-स मे॒ शत्रू॒न्वि बा॑धता॒मिन्द्रो॒ दस्यू॑नि॒वासु॑रान् ॥
+अयं᳓ मे वरण᳓ उ᳓रसि रा᳓जा देवो᳓ व᳓नस्प᳓तिः।  
+स᳓ मे श᳓त्रून्वि᳓ बाधतामि᳓न्द्रो द᳓स्यूनिवा᳓सुरान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/11_ayaM_me.md">
@@ -747,8 +747,8 @@ This Varana is on my breast, the sovran, the celestial Plant. Let it afflict my 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/12_imaM_bibharmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मं बि॑भर्मि वर॒णमायु॑ष्माञ्छ॒तशा॑रदः।  
-स मे॑ रा॒ष्ट्रं च॑ क्ष॒त्रं च॑ प॒शूनोज॑श्च मे दधत् ॥
+इमं᳓ बिभर्मि वरण᳓मा᳓युष्माञ्छत᳓शारदः।  
+स᳓ मे राष्ट्रं᳓ च क्षत्रं᳓ च पशू᳓नो᳓जश्च मे दधत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/12_imaM_bibharmi.md">
@@ -810,8 +810,8 @@ Through hundred autumn seasons, long to live, I wear this Varana. May it bestow 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/13_yathA_vAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ वातो॒ वन॒स्पती॑न्वृ॒क्षान्भ॒नक्त्योज॑सा।  
-ए॒वा स॒पत्ना॑न्मे भङ्ग्धि॒ पूर्वा॑ञ्जा॒ताँ उ॒ताप॑रान्वर॒णस्त्वा॒भि र॑क्षतु ॥
+य᳓था वा᳓तो व᳓नस्प᳓तीन्वृक्षा᳓न्भन᳓क्त्यो᳓जसा।  
+एवा᳓ सप᳓त्नान्मे भङ्ग्धि पू᳓र्वाञ्जाताँ᳓ उता᳓परान्वरण᳓स्त्वाभि᳓ रक्षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/13_yathA_vAto.md">
@@ -874,8 +874,8 @@ As with its might the wind breaks down the trees, the sovrans of the wood, So br
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/14_yathA_vAtashchAgnishcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ वात॑श्चा॒ग्निश्च॑ वृ॒क्षान्प्सा॒तो वन॒स्पती॑न्।  
-ए॒वा स॒पत्ना॑न्मे प्साहि॒ पूर्वा॑ञ्जा॒ताँ उ॒ताप॑रान्वर॒णस्त्वा॒भि र॑क्षतु ॥
+य᳓था वा᳓तश्चाग्नि᳓श्च वृक्षा᳓न्प्सातो᳓ व᳓नस्प᳓तीन्।  
+एवा᳓ सप᳓त्नान्मे प्साहि पू᳓र्वाञ्जाताँ᳓ उता᳓परान्वरण᳓स्त्वाभि᳓ रक्षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/14_yathA_vAtashchAgnishcha.md">
@@ -938,9 +938,9 @@ As Agni and the wind devour the trees, the sovrans of the wood, Even so devour m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/15_yathA_vAtena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ वाते॑न॒ प्रक्षी॑णा वृ॒क्षाः शेरे॒ न्य᳡र्पिताः।  
-ए॒वा स॒पत्नां॒स्त्वं मम॒ प्र क्षि॑णीहि॒ न्य᳡र्पय।  
-पूर्वा॑ञ्जा॒ताँ उ॒ताप॑रान्वर॒णस्त्वा॒भि र॑क्षतु ॥
+य᳓था वा᳓तेन प्र᳓क्षीणा वृक्षाः᳓ शे᳓रे न्य᳙र्पिताः।  
+एवा᳓ सप᳓त्नांस्त्वं᳓ म᳓म प्र᳓ क्षिणीहि न्य᳙र्पय।  
+पू᳓र्वाञ्जाताँ᳓ उता᳓परान्वरण᳓स्त्वाभि᳓ रक्षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/15_yathA_vAtena.md">
@@ -1003,8 +1003,8 @@ As, shattered by the tempest, trees lie withering ruined on the ground. Thus ove
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/16_tAMstvaM_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तांस्त्वं प्र च्छि॑न्द्धि वरण पु॒रा दि॒ष्टात्पु॒रायु॑षः।  
-य ए॑नं प॒शुषु॒ दिप्स॑न्ति॒ ये चा॑स्य राष्ट्रदि॒प्सवः॑ ॥
+तां᳓स्त्वं᳓ प्र᳓ च्छिन्द्धि वरण पुरा᳓ दिष्टा᳓त्पुरा᳓युषः।  
+य᳓ एनं पशु᳓षु दि᳓प्सन्ति ये᳓ चास्य राष्ट्रदिप्स᳓वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/16_tAMstvaM_pra.md">
@@ -1068,9 +1068,9 @@ Cut them in pieces, Varana! before their destined term of life, Those who would 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/17_yathA_sUryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ सूर्यो॑ अति॒भाति॒ यथा॑स्मि॒न्तेज॒ आहि॑तम्।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु।  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥
+य᳓था सू᳓र्यो अतिभा᳓ति य᳓थास्मिन्ते᳓ज आ᳓हितम्।  
+एवा᳓ मे वरणो᳓ मणिः᳓ कीर्तिं᳓ भू᳓तिं नि᳓ यच्छतु।  
+ते᳓जसा मा स᳓मुक्षतु य᳓शसा स᳓मनक्तु मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/17_yathA_sUryo.md">
@@ -1136,9 +1136,9 @@ As Surya shines with brightest sheen, as splendour hath been stored in him, So m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/18_yathA_yashashchandramasyAditye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ यश॑श्च॒न्द्रम॑स्यादि॒त्ये च॑ नृ॒चक्ष॑सि।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु।  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥
+य᳓था य᳓शश्चन्द्र᳓मस्यादित्ये᳓ च नृच᳓क्षसि।  
+एवा᳓ मे वरणो᳓ मणिः᳓ कीर्तिं᳓ भू᳓तिं नि᳓ यच्छतु।  
+ते᳓जसा मा स᳓मुक्षतु य᳓शसा स᳓मनक्तु मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/18_yathA_yashashchandramasyAditye.md">
@@ -1201,9 +1201,9 @@ As glory dwelleth in the Moon and in the Sun who vieweth men, So may the Charm, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/19_yathA_yashaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ यशः॑ पृथि॒व्यां यथा॒स्मिञ्जा॒तवे॑दसि।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु।  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥
+य᳓था य᳓शः पृथिव्यां᳓ य᳓थास्मि᳓ञ्जात᳓वेदसि।  
+एवा᳓ मे वरणो᳓ मणिः᳓ कीर्तिं᳓ भू᳓तिं नि᳓ यच्छतु।  
+ते᳓जसा मा स᳓मुक्षतु य᳓शसा स᳓मनक्तु मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/19_yathA_yashaH.md">
@@ -1264,9 +1264,9 @@ As glory dwelleth in the Earth, and in this Jatavedas here, So may the Charm etc
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/20_yathA_yashaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ यशः॑ क॒न्या᳡यां॒ यथा॒स्मिन्त्संभृ॑ते॒ रथे॑।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु।  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥
+य᳓था य᳓शः कन्या᳙यां य᳓थास्मि᳓न्त्सं᳓भृते र᳓थे।  
+एवा᳓ मे वरणो᳓ मणिः᳓ कीर्तिं᳓ भू᳓तिं नि᳓ यच्छतु।  
+ते᳓जसा मा स᳓मुक्षतु य᳓शसा स᳓मनक्तु मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/20_yathA_yashaH.md">
@@ -1327,9 +1327,9 @@ As glory dwelleth in a maid, and in this well-constructed car, So may the Charm,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/21_yathA_yashaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ यशः॑ सोमपी॒थे म॑धुप॒र्के यथा॒ यशः॑।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु।  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥
+य᳓था य᳓शः सोमपीथे᳓ मधुपर्के᳓ य᳓था य᳓शः।  
+एवा᳓ मे वरणो᳓ मणिः᳓ कीर्तिं᳓ भू᳓तिं नि᳓ यच्छतु।  
+ते᳓जसा मा स᳓मुक्षतु य᳓शसा स᳓मनक्तु मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/21_yathA_yashaH.md">
@@ -1390,9 +1390,9 @@ As glory dwelleth in the draught of Soma and the honeyed. drink, So may the Char
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/22_yathA_yasho-gnihotre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ यशो॑ऽग्निहो॒त्रे व॑षट्का॒रे यथा॒ यशः॑।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु।  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥
+य᳓था य᳓शोऽग्निहोत्रे᳓ वषट्कारे᳓ य᳓था य᳓शः।  
+एवा᳓ मे वरणो᳓ मणिः᳓ कीर्तिं᳓ भू᳓तिं नि᳓ यच्छतु।  
+ते᳓जसा मा स᳓मुक्षतु य᳓शसा स᳓मनक्तु मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/22_yathA_yasho-gnihotre.md">
@@ -1455,9 +1455,9 @@ As glory dwells in sacrifice to Agni, and the hallowing word, So may the Charm, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/23_yathA_yasho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ यशो॒ यज॑माने॒ यथा॒स्मिन्य॒ज्ञ आहि॑तम्।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु।  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥
+य᳓था य᳓शो य᳓जमाने य᳓थास्मि᳓न्यज्ञ᳓ आ᳓हितम्।  
+एवा᳓ मे वरणो᳓ मणिः᳓ कीर्तिं᳓ भू᳓तिं नि᳓ यच्छतु।  
+ते᳓जसा मा स᳓मुक्षतु य᳓शसा स᳓मनक्तु मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/23_yathA_yasho.md">
@@ -1519,9 +1519,9 @@ As glory is bestowed upon the patron and this sacrifice, So may the Charm, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/24_yathA_yashaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ यशः॑ प्र॒जाप॑तौ॒ यथा॒स्मिन्प॑रमे॒ष्ठिनि॑।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु।  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥
+य᳓था य᳓शः प्रजा᳓पतौ य᳓थास्मि᳓न्परमेष्ठि᳓नि।  
+एवा᳓ मे वरणो᳓ मणिः᳓ कीर्तिं᳓ भू᳓तिं नि᳓ यच्छतु।  
+ते᳓जसा मा स᳓मुक्षतु य᳓शसा स᳓मनक्तु मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/24_yathA_yashaH.md">
@@ -1583,9 +1583,9 @@ As glory dwelleth in the Lord of Life and in this God Supreme,. So may the Charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/003_sapatnatxayaNo_varaNamaNiH/25_yathA_deveShvamRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ दे॒वेष्व॒मृतं॒ यथै॑षु स॒त्यमाहि॑तम्।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु।  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥
+य᳓था देवे᳓ष्वमृ᳓तं य᳓थैषु सत्य᳓मा᳓हितम्।  
+एवा᳓ मे वरणो᳓ मणिः᳓ कीर्तिं᳓ भू᳓तिं नि᳓ यच्छतु।  
+ते᳓जसा मा स᳓मुक्षतु य᳓शसा स᳓मनक्तु मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/003_sapatnatxayaNo_varaNamaNiH/25_yathA_deveShvamRtam.md">

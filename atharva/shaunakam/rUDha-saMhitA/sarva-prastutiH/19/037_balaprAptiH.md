@@ -37,8 +37,8 @@ A charm to secure long life and dominion to a prince
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/01_idaM_varcho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं वर्चो॑ अ॒ग्निना॑ द॒त्तमाग॒न्भर्गो॒ यशः॒ सह॒ ओजो॒ वयो॒ बल॑म्।  
-त्रय॑स्त्रिंश॒द्यानि॑ च वी॒र्या᳡णि॒ तान्य॒ग्निः प्र द॑दातु मे ॥
+इदं᳓ व᳓र्चो अग्नि᳓ना दत्त᳓मा᳓गन्भ᳓र्गो य᳓शः स᳓ह ओ᳓जो व᳓यो ब᳓लम्।  
+त्र᳓यस्त्रिंशद्या᳓नि च वीर्या᳙णि ता᳓न्यग्निः᳓ प्र᳓ ददातु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/01_idaM_varcho.md">
@@ -106,8 +106,8 @@ To me hath come this word given by Agni, fame, force and might, and strength, an
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/02_varcha_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वर्च॒ आ धे॑हि मे त॒न्वां३॒॑ सह॒ ओजो॒ वयो॒ बल॑म्।  
-इ॑न्द्रि॒याय॑ त्वा॒ कर्म॑णे वी॒र्या᳡य॒ प्रति॑ गृह्णामि श॒तशा॑रदाय ॥
+व᳓र्च आ᳓ धेहि मे तन्वां᳙ स᳓ह ओ᳓जो व᳓यो ब᳓लम्।  
+इ᳙न्द्रिया᳓य त्वा क᳓र्मणे वीर्या᳙य प्र᳓ति गृह्णामि शत᳓शारदाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/02_varcha_A.md">
@@ -180,8 +180,8 @@ For mighty strength, for action, I receive thee, for manly power, to last a hund
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/03_Urje_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊ॒र्जे त्वा॒ बला॑य॒ त्वौज॑से॒ सह॑से त्वा।  
-अ॑भि॒भूया॑य त्वा राष्ट्र॒भृत्या॑य॒ पर्यू॑हामि श॒तशा॑रदाय ॥
+ऊर्जे᳓ त्वा ब᳓लाय त्वौ᳓जसे स᳓हसे त्वा।  
+अ᳙भिभू᳓याय त्वा राष्ट्रभृ᳓त्याय प᳓र्यूहामि शत᳓शारदाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/03_Urje_tvA.md">
@@ -249,8 +249,8 @@ For conquering strength and energy and vigour I fasten thee for chieftainship, f
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तुभ्य॑ष्ट्वार्त॒वेभ्यो॑ मा॒द्भ्यः सं॑वत्स॒रेभ्यः॑।  
-धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥
+ऋतु᳓भ्यष्ट्वार्तवे᳓भ्यो माद्भ्यः᳓ संवत्सरे᳓भ्यः।  
+धात्रे᳓ विधात्रे᳓ समृ᳓धे भूत᳓स्य प᳓तये यजे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">

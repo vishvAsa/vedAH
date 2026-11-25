@@ -36,16 +36,13 @@ A glorification of sacrifice
 ## ०१ यज्ञेन यज्ञमयजन्त
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/01_yajnena_yajnamayajanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/16_yajnena_yajnamayajanta.md">
-<details open><summary><h8>१६ यज्ञेन यज्ञमयजन्त ...{Loading}...</h8></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/16_yajnena_yajnamayajanta.md">
 
++++(सर्वहुद्-)+++यज्ञे᳓न यज्ञ᳓म् **अयजन्त** देवाः᳓ ।  
+ता᳓नि ध᳓र्माणि प्रथमा᳓न्य् **आसन्** ।  
++++(य एवं विदुः)+++ ते᳓ ह ना᳓कं +++(यज्ञैः)+++ **महिमा᳓नः**+++(=पूजयन्तः)+++ **सचन्त**+++(=प्राप्नुवन्ति, तैत्तिरीये - "सचन्ते" )+++,,  
+य᳓त्र पू᳓र्वे +++(नानापात्रेषु पश्चात्)+++ साध्याः᳓ **स᳓न्ति** देवाः᳓ । १८
 
-+++(सर्वहुद्)+++य॒ज्ञेन॑ य॒ज्ञम् अ॑यजन्त दे॒वाः ।  
-तानि॒ धर्मा॑णि प्रथ॒मान्य् आ॑सन् ।  
-ते ह॒ नाकं॑ +++(यज्ञैः)+++ +++(य एवं विदुः)+++ महि॒मानः॑+++(=पूजयन्तः)+++ सचन्त+++(=प्राप्नुवन्ति, तैत्तिरीये - "सचन्ते" )+++,,  
-यत्र॒ पूर्वे॑ +++(नानापात्रेषु पश्चात्)+++ सा॒ध्याः सन्ति॑ दे॒वाः । १८
-
-</details>
 </div>
 </details>
 </div>
@@ -389,8 +386,8 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/02_yajno_babhUva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒ज्ञो ब॑भूव॒ स आ ब॑भूव॒ स प्र ज॑ज्ञे॒ स उ॑ वावृधे॒ पुनः॑।  
-स दे॒वाना॒मधि॑पतिर्बभूव॒ सो अ॒स्मासु॒ द्रवि॑ण॒मा द॑धातु ॥
+यज्ञो᳓ बभूव स᳓ आ᳓ बभूव स᳓ प्र᳓ जज्ञे स᳓ उ वावृधे पु᳓नः।  
+स᳓ देवा᳓नाम᳓धिपतिर्बभूव सो᳓ अस्मा᳓सु द्र᳓विणमा᳓ दधातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/02_yajno_babhUva.md">
@@ -458,8 +455,8 @@ Sacrifice was, was manifest among us: it sprang to life and then in time grew st
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/03_yaddevA_devAnhaviShA-yajantAmartyAnmanasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्दे॒वा दे॒वान्ह॒विषा॑ऽयज॒न्ताम॑र्त्या॒न्मन॒सा म॑र्त्येन।  
-मदे॑म॒ तत्र॑ पर॒मे व्यो᳡म॒न्पश्ये॑म॒ तदुदि॑तौ॒ सूर्य॑स्य ॥
+य᳓द्देवा᳓ देवा᳓न्हवि᳓षाऽयजन्ता᳓मर्त्यान्म᳓नसा᳓ मर्त्येन।  
+म᳓देम त᳓त्र परमे᳓ व्यो᳙मन्प᳓श्येम त᳓दु᳓दितौ सू᳓र्यस्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/03_yaddevA_devAnhaviShA-yajantAmartyAnmanasA.md">
@@ -521,8 +518,8 @@ Where the Gods worshipped Gods with their oblation, worship- ped immortals with 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/04_yatpuruSheNa_haviShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्पुरु॑षेण ह॒विषा॑ य॒ज्ञं दे॒वा अत॑न्वत।  
-अ॑स्ति॒ नु तस्मा॒दोजी॑यो॒ यद्वि॒हव्ये॑नेजि॒रे ॥
+य᳓त्पु᳓रुषेण हवि᳓षा यज्ञं᳓ देवा᳓ अ᳓तन्वत।  
+अ᳙स्ति नु᳓ त᳓स्मादो᳓जीयो य᳓द्विह᳓व्येनेजिरे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/04_yatpuruSheNa_haviShA.md">
@@ -592,8 +589,8 @@ With their oblation, Purusha, the Gods performed a sacrifice. A sacrifice more p
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/05_mugdhA_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॒ग्धा दे॒वा उ॒त शुनाऽय॑जन्तो॒त गोरङ्गैः॑ पुरु॒धाऽय॑जन्त।  
-य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॒स्तमि॒हेह ब्र॑वः ॥
+मुग्धा᳓ देवा᳓ उत᳓ शु᳓ना᳓ऽयजन्तोत᳓ गो᳓र᳓ङ्गैः पुरुधा᳓ऽयजन्त।  
+य᳓ इमं᳓ यज्ञं᳓ म᳓नसा चिके᳓त प्र᳓ णो वोचस्त᳓मिहे᳓ह᳓ ब्रवः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/05_mugdhA_devA.md">

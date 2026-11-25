@@ -37,8 +37,8 @@ In praise of Agni
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/01_abhyarchata_suShTutim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भ्य᳡र्चत सुष्टु॒तिं गव्य॑मा॒जिम॒स्मासु॑ भ॒द्रा द्रवि॑णानि धत्त।  
-इ॒मं य॒ज्ञं न॑यत दे॒वता॑ नो घृ॒तस्य॒ धारा॒ मधु॑मत्पवन्ताम् ॥
+अभ्य᳙र्चत सुष्टुतिं᳓ ग᳓व्यमाजि᳓मस्मा᳓सु भद्रा᳓ द्र᳓विणानि धत्त।  
+इमं᳓ यज्ञं᳓ नयत देव᳓ता नो घृत᳓स्य धा᳓रा म᳓धुमत्पवन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/01_abhyarchata_suShTutim.md">
@@ -103,8 +103,8 @@ Sing with fair laud the combat for the cattle. Bestow upon us excellent possessi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/02_mayyagre_agnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मय्यग्रे॑ अ॒ग्निं गृ॑ह्णामि स॒ह क्ष॒त्रेण॒ वर्च॑सा॒ बले॑न।  
-मयि॑ प्र॒जां मय्यायु॑र्दधामि॒ स्वाहा॒ मय्य॒ग्निम् ॥
+म᳓य्य᳓ग्रे अग्निं᳓ गृह्णामि सह᳓ क्षत्रे᳓ण व᳓र्चसा ब᳓लेन।  
+म᳓यि प्रजां᳓ म᳓य्या᳓युर्दधामि स्वा᳓हा म᳓य्यग्नि᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/02_mayyagre_agnim.md">
@@ -172,8 +172,8 @@ Agni I first appropriate with power, with splendour, and with might. I give myse
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/03_ihaivAgne_adhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒हैवाग्ने॒ अधि॑ धारया र॒यिं मा त्वा॒ नि क्र॒न्पूर्व॑चित्ता निका॒रिणः॑।  
-क्ष॒त्रेणा॑ग्ने सु॒यम॑मस्तु॒ तुभ्य॑मुपस॒त्ता व॑र्धतां ते॒ अनि॑ष्टृतः ॥
+इहै᳓वा᳓ग्ने अ᳓धि धारया रयिं᳓ मा᳓ त्वा नि᳓ क्रन्पू᳓र्वचित्ता निकारि᳓णः।  
+क्षत्रे᳓णाग्ने सुय᳓ममस्तु तु᳓भ्यमुपसत्ता᳓ वर्धतां ते अ᳓निष्टृतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/03_ihaivAgne_adhi.md">
@@ -251,8 +251,8 @@ Even here do thou, O Agni, stablish wealth: let not oppressors injure thee by th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अन्व॒ग्निरु॒षसा॒मग्र॑मख्य॒दन्वहा॑नि प्रथ॒मो जा॒तवे॑दाः।  
-अनु॒ सूर्य॑ उ॒षसो॒ अनु॑ र॒श्मीननु॒ द्यावा॑पृथि॒वी आ वि॑वेश ॥
+अ᳓न्वग्नि᳓रुष᳓साम᳓ग्रमख्यद᳓न्व᳓हानि प्रथमो᳓ जात᳓वेदाः।  
+अ᳓नु सू᳓र्य उष᳓सो अ᳓नु रश्मी᳓न᳓नु द्या᳓वापृथिवी᳓ आ᳓ विवेश ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
@@ -321,8 +321,8 @@ Agni hath looked upon the spring of Morning, looked on the days, the earliest Ja
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/05_pratyagniruShasAmagramakhyatprati_ahAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रत्य॒ग्निरु॒षसा॒मग्र॑मख्य॒त्प्रति॒ अहा॑नि प्रथ॒मो जा॒तवे॑दाः।  
-प्रति॒ सूर्य॑स्य पुरु॒धा च॑ र॒श्मीन्प्रति॒ द्यावा॑पृथि॒वी आ त॑तान ॥
+प्र᳓त्यग्नि᳓रुष᳓साम᳓ग्रमख्यत्प्र᳓ति अ᳓हानि प्रथमो᳓ जात᳓वेदाः।  
+प्र᳓ति सू᳓र्यस्य पुरुधा᳓ च रश्मी᳓न्प्र᳓ति द्या᳓वापृथिवी᳓ आ᳓ ततान ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/05_pratyagniruShasAmagramakhyatprati_ahAni.md">
@@ -388,8 +388,8 @@ Agni hath looked upon the spring of Mornings, looked on the days, the earliest J
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/06_ghRtaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-घृ॒तं ते॑ अग्ने दि॒व्ये स॒धस्थे॑ घृ॒तेन॒ त्वां मनु॑र॒द्या समि॑न्धे।  
-घृ॒तं ते॑ दे॒वीर्न॒प्त्य१॒॑ आ व॑हन्तु घृ॒तं तुभ्यं॑ दुह्रतां॒ गावो॑ अग्ने ॥
+घृतं᳓ ते अग्ने दिव्ये᳓ सध᳓स्थे घृते᳓न त्वां᳓ म᳓नुरद्या᳓ स᳓मिन्धे।  
+घृतं᳓ ते देवी᳓र्नप्त्य᳙ आ᳓ वहन्तु घृतं᳓ तु᳓भ्यं दुह्रतां गा᳓वो अग्ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/06_ghRtaM_te.md">

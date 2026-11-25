@@ -37,8 +37,8 @@ A hymn to the Full Moon
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/080_pUrNimA/01_pUrNA_pashchAduta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॒दुन्म॑ध्यतः पौ॑र्णमा॒सी जि॑गाय।  
-तस्यां॑ दे॒वैः सं॒वस॑न्तो महि॒त्वा नाक॑स्य पृ॒ष्ठे समि॒षा म॑देम ॥
+पूर्णा᳓ पश्चा᳓दुत᳓ पूर्णा᳓ पुर᳓स्तादु᳓न्मध्य᳓तः᳓ पौर्णमासी᳓ जिगाय।  
+त᳓स्यां देवैः᳓ संव᳓सन्तो महित्वा᳓ ना᳓कस्य पृष्ठे᳓ स᳓मिषा᳓ मदेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/080_pUrNimA/01_pUrNA_pashchAduta.md">
@@ -104,8 +104,8 @@ Full in the front, full rearward, from the middle the Full Moon's Night hath con
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/080_pUrNimA/02_vRShabhaM_vAjinam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वृ॑ष॒भं वा॒जिनं॑ व॒यं पौ॑र्णमा॒सं य॑जामहे।  
-स नो॑ ददा॒त्वक्षि॑तां र॒यिमनु॑पदस्वतीम् ॥
+वृ᳙षभं᳓ वाजि᳓नं वयं᳓ पौर्णमासं᳓ यजामहे।  
+स᳓ नो ददात्व᳓क्षितां रयि᳓म᳓नुपदस्वतीम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/080_pUrNimA/02_vRShabhaM_vAjinam.md">
@@ -169,8 +169,8 @@ To him, the Full Moon's mighty Bull, we pay our solemn sacri- fice. May he besto
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/080_pUrNimA/03_prajApate_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान।  
-यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+प्र᳓जापते न᳓ त्व᳓देता᳓न्यन्यो᳓ वि᳓श्वा रूपा᳓णि परिभू᳓र्जजान।  
+य᳓त्कामास्ते जुहुम᳓स्त᳓न्नो अस्तु वयं᳓ स्याम प᳓तयो रयीणा᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/080_pUrNimA/03_prajApate_na.md">
@@ -249,8 +249,8 @@ No one but thou, Prajapati, none beside thee, pervading, gave to all these forms
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/080_pUrNimA/04_paurNamAsI_prathamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पौ॑र्णमा॒सी प्र॑थ॒मा य॒ज्ञिया॑सी॒दह्नां॒ रात्री॑णामतिशर्व॒रेषु॑।  
-ये त्वां य॒ज्ञैर्य॑ज्ञिये अ॒र्धय॑न्त्य॒मी ते॒ नाके॑ सु॒कृतः॒ प्रवि॑ष्टाः ॥
+पौ᳙र्णमासी᳓ प्रथमा᳓ यज्ञि᳓यासीद᳓ह्नां रा᳓त्रीणामतिशर्वरे᳓षु।  
+ये᳓ त्वां᳓ यज्ञै᳓र्यज्ञिये अर्ध᳓यन्त्यमी᳓ ते ना᳓के सुकृ᳓तः प्र᳓विष्टाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/080_pUrNimA/04_paurNamAsI_prathamA.md">

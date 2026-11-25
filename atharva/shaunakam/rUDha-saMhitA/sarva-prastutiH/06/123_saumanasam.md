@@ -34,8 +34,8 @@ Translated: Muir, v. 293 (vss. 2,4,5); Ludwig, p. 302; Griffith, i. 313.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/01_etaM_sadhasthAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तं स॑धस्थाः॒ परि॑ वो ददामि॒ यं शे॑व॒धिमा॒वहा॑ज्जा॒तवे॑दाः।  
-अ॑न्वाग॒न्ता यज॑मानः स्व॒स्ति तं स्म॑ जानीत पर॒मे व्यो᳡मन् ॥
+एतं᳓ सधस्थाः प᳓रि वो ददामि यं᳓ शेवधि᳓माव᳓हाज्जात᳓वेदाः।  
+अ᳙न्वागन्ता᳓ य᳓जमानः स्वस्ति᳓ तं᳓ स्म जानीत परमे᳓ व्यो᳙मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/01_etaM_sadhasthAH.md">
@@ -101,8 +101,8 @@ Ye who are present, unto you I offer this treasure brought to us by Jatavedas Ha
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/02_jAnIta_smainam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जा॑नी॒त स्मै॑नं पर॒मे व्यो᳡म॒न्देवाः॒ सध॑स्था वि॒द लो॒कमत्र॑।  
-अ॑न्वाग॒न्ता यज॑मानः स्व॒स्ती᳡ष्टा॑पू॒र्तं स्म॑ कृणुता॒विर॑स्मै ॥
+जा᳙नीत᳓ स्मैनं परमे᳓ व्यो᳙मन्दे᳓वाः स᳓धस्था विद᳓ लोक᳓म᳓त्र।  
+अ᳙न्वागन्ता᳓ य᳓जमानः स्वस्ती᳙ष्टापूर्तं᳓ स्म कृणुतावि᳓रस्मै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/02_jAnIta_smainam.md">
@@ -171,8 +171,8 @@ Do ye acknowledge him in highest heaven: ye know the world here present in assem
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/03_devAH_pitaraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-देवाः॒ पित॑रः॒ पित॑रो॒ देवाः॑।  
-यो अस्मि॒ सो अ॑स्मि ॥
+दे᳓वाः पि᳓तरः पि᳓तरो दे᳓वाः।  
+यो᳓ अ᳓स्मि सो᳓ अस्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/03_devAH_pitaraH.md">
@@ -234,8 +234,8 @@ Gods are the Fathers, and the Fathers Gods. I am the very man I am.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/04_sa_pachAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स प॑चामि॒ स द॑दामि।  
-स य॑जे॒ स द॒त्तान्मा यू॑षम् ॥
+स᳓ पचामि स᳓ ददामि।  
+स᳓ यजे स᳓ दत्ता᳓न्मा᳓ यूषम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/04_sa_pachAmi.md">
@@ -301,8 +301,8 @@ I cook, I give, I offer up oblation. From what I gave let me not be disparted.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/05_nAke_rAjanprati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नाके॑ राज॒न्प्रति॑ तिष्ठ॒ तत्रै॒तत्प्रति॑ तिष्ठतु।  
-वि॒द्धि पू॒र्तस्य॑ नो राज॒न्त्स दे॑व सु॒मना॑ भव ॥
+ना᳓के राजन्प्र᳓ति तिष्ठ त᳓त्रैत᳓त्प्र᳓ति तिष्ठतु।  
+विद्धि᳓ पूर्त᳓स्य नो राजन्त्स᳓ देव सुम᳓ना भव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/05_nAke_rAjanprati.md">

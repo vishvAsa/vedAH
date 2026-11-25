@@ -37,8 +37,8 @@ A charm to ensure general protection and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/01_nava_prANAnnavabhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नव॑ प्रा॒णान्न॒वभिः॒ सं मि॑मीते दीर्घायु॒त्वाय॑ श॒तशा॑रदाय।  
-हरि॑ते॒ त्रीणि॑ रज॒ते त्रीण्यय॑सि॒ त्रीणि॒ तप॒सावि॑ष्ठितानि ॥
+न᳓व प्राणा᳓न्नव᳓भिः सं᳓ मिमीते दीर्घायुत्वा᳓य शत᳓शारदाय।  
+ह᳓रिते त्री᳓णि रजते᳓ त्री᳓ण्य᳓यसि त्री᳓णि त᳓पसा᳓विष्ठितानि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/01_nava_prANAnnavabhiH.md">
@@ -105,8 +105,8 @@ For lengthened life, to last through hundred autumns, they equalize with nine th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/02_agniH_sUryashchandramA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निः सूर्य॑श्च॒न्द्रमा॒ भूमि॒रापो॒ द्यौर॒न्तरि॑क्षं प्र॒दिशो॒ दिश॑श्च।  
-आ॑र्त॒वा ऋ॒तुभिः॑ संविदा॒ना अ॒नेन॑ मा त्रि॒वृता॑ पारयन्तु ॥
+अग्निः᳓ सू᳓र्यश्चन्द्र᳓मा भू᳓मिरा᳓पो द्यौ᳓रन्त᳓रिक्षं प्रदि᳓शो दि᳓शश्च।  
+आ᳙र्तवा᳓ ऋतु᳓भिः संविदाना᳓ अने᳓न मा त्रिवृ᳓ता पारयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/02_agniH_sUryashchandramA.md">
@@ -170,8 +170,8 @@ May Agni, Sun, and Moon, and Earth, and Waters, Sky, Air, the Quarters and the P
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/03_trayaH_poShastrivRti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रयः॒ पोष॑स्त्रि॒वृति॑ श्रयन्ताम॒नक्तु॑ पू॒षा पय॑सा घृ॒तेन॑।  
-अन्न॑स्य भू॒मा पुरु॑षस्य भू॒मा भू॒मा प॑शू॒नां त॑ इ॒ह श्र॑यन्ताम् ॥
+त्र᳓यः पो᳓षस्त्रिवृ᳓ति श्रयन्तामन᳓क्तु पूषा᳓ प᳓यसा घृते᳓न।  
+अ᳓न्नस्य भूमा᳓ पु᳓रुषस्य भूमा᳓ भूमा᳓ पशूनां᳓ त इह᳓ श्रयन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/03_trayaH_poShastrivRti.md">
@@ -234,8 +234,8 @@ In three-threaded Charm rest triple fulness! Let Pushan cover it with milk and b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/04_imamAdityA_vasunA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒ममा॑दित्या॒ वसु॑ना॒ समु॑क्षते॒मम॑ग्ने वर्धय वावृधा॒नः।  
-इ॒ममि॑न्द्र॒ सं सृ॑ज वी॒र्ये॑णा॒स्मिन्त्रि॒वृच्छ्र॑यतां पोषयि॒ष्णु ॥
+इम᳓मादित्या व᳓सुना स᳓मुक्षतेम᳓मग्ने वर्धय वावृधानः᳓।  
+इम᳓मिन्द्र सं᳓ सृज वीर्ये᳙णास्मि᳓न्त्रिवृ᳓च्छ्रयतां पोषयिष्णु᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/04_imamAdityA_vasunA.md">
@@ -301,8 +301,8 @@ Enrich this charm, Adityas, with your treasure; magnify this, when magnified, O 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/05_bhUmiShTvA_pAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भूमि॑ष्ट्वा पातु॒ हरि॑तेन विश्व॒भृद॒ग्निः पि॑प॒र्त्वय॑सा स॒जोषाः॑।  
-वी॒रुद्भि॑ष्टे॒ अर्जु॑नं संविदा॒नं दक्षं॑ दधातु सुमन॒स्यमा॑नम् ॥
+भू᳓मिष्ट्वा पातु ह᳓रितेन विश्वभृ᳓दग्निः᳓ पिपर्त्व᳓यसा सजो᳓षाः।  
+वीरु᳓द्भिष्टे अ᳓र्जुनं संविदानं᳓ द᳓क्षं दधातु सुमनस्य᳓मानम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/05_bhUmiShTvA_pAtu.md">
@@ -366,8 +366,8 @@ With gold let Earth protect thee, and with iron, accordant, all- sustaining Agni
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/06_tredhA_jAtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रे॒धा जा॒तं जन्म॑ने॒दं हिर॑ण्यम॒ग्नेरेकं॑ प्रि॒यत॑मं बभूव॒ सोम॒स्यैकं॑ हिंसि॒तस्य॒ परा॑पतत्।  
-अ॒पामेकं॑ वे॒धसां॒ रेत॑ आहु॒स्तत्ते॒ हिर॑ण्यं त्रि॒वृद॒स्त्वायु॑षे ॥
+त्रेधा᳓ जातं᳓ ज᳓न्मनेदं᳓ हि᳓रण्यमग्ने᳓रे᳓कं प्रिय᳓तमं बभूव सो᳓मस्यै᳓कं हिंसित᳓स्य प᳓रापतत्।  
+अपा᳓मे᳓कं वेध᳓सां रे᳓त आहुस्त᳓त्ते हि᳓रण्यं त्रिवृ᳓दस्त्वा᳓युषे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/06_tredhA_jAtam.md">
@@ -439,8 +439,8 @@ This gold, born threefold at its first production, grew the one thing that Agni 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/07_tryAyuShaM_jamadagneH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्र्या॑यु॒षं ज॒मद॑ग्नेः क॒श्यप॑स्य त्र्यायु॒षम्।  
-त्रे॒धामृत॑स्य॒ चक्ष॑णं॒ त्रीण्यायूं॑षि तेऽकरम् ॥
+त्र्या᳙युषं᳓ जम᳓दग्नेः कश्य᳓पस्य त्र्यायुष᳓म्।  
+त्रेधा᳓मृ᳓तस्य च᳓क्षणं त्री᳓ण्या᳓यूंषि तेऽकरम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/07_tryAyuShaM_jamadagneH.md">
@@ -507,8 +507,8 @@ Three lives of Jamadagni, thrice the vital force of Kasyapa, Three sights of imm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/08_trayaH_suparNAstrivRtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रयः॑ सुप॒र्णास्त्रि॒वृता॒ यदाय॑न्नेकाक्ष॒रम॑भिसं॒भूय॑ श॒क्राः।  
-प्रत्यौ॑हन्मृ॒त्युम॒मृते॑न सा॒कम॑न्त॒र्दधा॑ना दुरि॒तानि॒ विश्वा॑ ॥
+त्र᳓यः सुपर्णा᳓स्त्रिवृ᳓ता य᳓दा᳓यन्नेकाक्षर᳓मभिसंभू᳓य शक्राः᳓।  
+प्र᳓त्यौहन्मृत्यु᳓ममृ᳓तेन साक᳓मन्तर्द᳓धाना दुरिता᳓नि वि᳓श्वा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/08_trayaH_suparNAstrivRtA.md">
@@ -573,8 +573,8 @@ When with the three-stringed charm came three strong eagles, sharing the Sacred 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/09_divastvA_pAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वस्त्वा॑ पातु॒ हरि॑तं॒ मध्या॑त्त्वा पा॒त्वर्जु॑नम्।  
-भूम्या॑ अय॒स्मयं॑ पातु॒ प्रागा॑द्देवपु॒रा अ॒यम् ॥
+दिव᳓स्त्वा पातु ह᳓रितं म᳓ध्यात्त्वा पात्व᳓र्जुनम्।  
+भू᳓म्या अयस्म᳓यं पातु प्रा᳓गाद्देवपुरा᳓ अय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/09_divastvA_pAtu.md">
@@ -637,8 +637,8 @@ The golden guard thee from the sky, the silvern guard thee from the air, The iro
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/10_imAstisro_devapurAstAstvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मास्ति॒स्रो दे॑वपु॒रास्तास्त्वा॑ रक्षन्तु स॒र्वतः॑।  
-तास्त्वं बिभ्र॑द्वर्च॒स्व्युत्त॑रो द्विष॒तां भ॑व ॥
+इमा᳓स्तिस्रो᳓ देवपुरा᳓स्ता᳓स्त्वा रक्षन्तु सर्व᳓तः।  
+ता᳓स्त्वं᳓ बि᳓भ्रद्वर्चस्व्यु᳓त्तरो द्विषतां᳓ भव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/10_imAstisro_devapurAstAstvA.md">
@@ -701,8 +701,8 @@ May these three castles of the Gods keep thee secure on every side. Endowed with
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/11_puraM_devAnAmamRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुरं॑ दे॒वाना॑म॒मृतं॒ हिर॑ण्यं॒ य आ॑बे॒धे प्र॑थ॒मो दे॒वो अग्रे॑।  
-तस्मै॒ नमो॒ दश॒ प्राचीः॑ कृणो॒म्यनु॑ मन्यतां त्रि॒वृदा॒बधे॑ मे ॥
+पु᳓रं देवा᳓नाममृ᳓तं हि᳓रण्यं य᳓ आबेधे᳓ प्रथमो᳓ देवो᳓ अ᳓ग्रे।  
+त᳓स्मै न᳓मो द᳓श प्रा᳓चीः कृणोम्य᳓नु मन्यतां त्रिवृ᳓दाब᳓धे मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/11_puraM_devAnAmamRtam.md">
@@ -767,8 +767,8 @@ The God who first bound on in the beginning the deities' im- mortal golden castl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/12_A_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ त्वा॑ चृतत्वर्य॒मा पू॒षा बृह॒स्पतिः॑।  
-अह॑र्जातस्य॒ यन्नाम॒ तेन॒ त्वाति॑ चृतामसि ॥
+आ᳓ त्वा चृतत्वर्यमा᳓ पूषा᳓ बृ᳓हस्प᳓तिः।  
+अ᳓हर्जातस्य य᳓न्ना᳓म ते᳓न त्वा᳓ति चृतामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/12_A_tvA.md">
@@ -832,8 +832,8 @@ Aryaman be thy binder-on, and Pushan and Brihaspati: Whatever name the brood of 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/13_RtubhiShTvArtavairAyuShe_varchase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तुभि॑ष्ट्वार्त॒वैरायु॑षे॒ वर्च॑से त्वा।  
-सं॑वत्स॒रस्य॒ तेज॑सा॒ तेन॒ संह॑नु कृण्मसि ॥
+ऋतु᳓भिष्ट्वार्तवै᳓रा᳓युषे व᳓र्चसे त्वा।  
+सं᳙वत्सर᳓स्य ते᳓जसा ते᳓न सं᳓हनु कृण्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/13_RtubhiShTvArtavairAyuShe_varchase.md">
@@ -910,8 +910,8 @@ With Seasons and with Lengths of Time, for vigour and exten- ded life, With all 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/14_ghRtAdulluptaM_madhunA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-घृ॒तादुल्लु॑प्तं॒ मधु॑ना॒ सम॑क्तं भूमिदृं॒हमच्यु॑तं पारयि॒ष्णु।  
-भि॒न्दन्त्स॒पत्ना॒नध॑रांश्च कृ॒ण्वदा मा॑ रोह मह॒ते सौभ॑गाय ॥
+घृता᳓दु᳓ल्लुप्तं म᳓धुना स᳓मक्तं भूमिदृंह᳓म᳓च्युतं पारयिष्णु᳓।  
+भिन्द᳓न्त्सप᳓त्नान᳓धरांश्च कृण्व᳓दा᳓ मा रोह महते᳓ सौ᳓भगाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/14_ghRtAdulluptaM_madhunA.md">

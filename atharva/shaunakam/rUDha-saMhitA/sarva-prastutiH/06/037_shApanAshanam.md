@@ -37,8 +37,8 @@ A charm to divert Imprecation personified
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/037_shApanAshanam/01_upa_prAgAtsahasrAxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॒ प्रागा॑त्सहस्रा॒क्षो यु॒क्त्वा श॒पथो॒ रथ॑म्।  
-श॒प्तार॑मन्वि॒च्छन्मम॒ वृक॑ इ॒वावि॑मतो गृ॒हम् ॥
+उ᳓प प्रा᳓गात्सहस्राक्षो᳓ युक्त्वा᳓ शप᳓थो र᳓थम्।  
+शप्ता᳓रमन्विच्छ᳓न्म᳓म वृ᳓क इवा᳓विमतो गृह᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/037_shApanAshanam/01_upa_prAgAtsahasrAxo.md">
@@ -103,8 +103,8 @@ Hitherward, having yoked his steeds, came Imprecation, thousand-eyed, Seeking my
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/037_shApanAshanam/02_pari_No.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ णो वृङ्ग्धि शपथ ह्र॒दम॒ग्निरि॑वा॒ दह॑न्।  
-श॒प्तार॒मत्र॑ नो जहि दि॒वो वृ॒क्षमि॑वा॒शनिः॑ ॥
+प᳓रि णो वृङ्ग्धि शपथ ह्रद᳓मग्नि᳓रिवा द᳓हन्।  
+शप्ता᳓रम᳓त्र नो जहि दिवो᳓ वृक्ष᳓मिवाश᳓निः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/037_shApanAshanam/02_pari_No.md">
@@ -169,8 +169,8 @@ Avoid us, Imprecation! as consuming fire avoids the lake. Smite thou the man who
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/037_shApanAshanam/03_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नः॒ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्।  
-शुने॒ पेष्ट्र॑मि॒वाव॑क्षामं॒ तं प्रत्य॑स्यामि मृ॒त्यवे॑ ॥
+यो᳓ नः श᳓पाद᳓शपतः श᳓पतो य᳓श्च नः श᳓पात्।  
+शु᳓ने पे᳓ष्ट्रमिवा᳓वक्षामं तं᳓ प्र᳓त्यस्यामि मृत्य᳓वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/037_shApanAshanam/03_yo_naH.md">

@@ -37,8 +37,8 @@ A hymn to Agni for protection and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto-shvAyeva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रात्रिं॑रात्रि॒मप्र॑यातं॒ भर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒सम॒स्मै।  
-रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥
+रा᳓त्रिंरात्रिम᳓प्रयातं भ᳓रन्तो᳓ऽश्वायेव ति᳓ष्ठते घास᳓मस्मै᳓।  
+राय᳓स्पो᳓षेण स᳓मिषा᳓ म᳓दन्तो मा᳓ ते अग्ने प्र᳓तिवेशा रिषाम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto-shvAyeva.md">
@@ -160,8 +160,8 @@ Bringing, as 'twere, with care unceasing fodder night after night to feed this s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/02_yA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या ते॒ वसो॒र्वात॒ इषुः॒ सा त॑ ए॒षा तया॑ नो मृड।  
-रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥
+या᳓ ते व᳓सोर्वा᳓त इ᳓षुः सा᳓ त एषा᳓ त᳓या नो मृड।  
+राय᳓स्पो᳓षेण स᳓मिषा᳓ म᳓दन्तो मा᳓ ते अग्ने प्र᳓तिवेशा रिषाम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/02_yA_te.md">
@@ -218,8 +218,8 @@ Here is thine own desire for wealth: through this be gracious unto us. Joying in
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सा॒यंसा॑यं गृ॒हप॑तिर्नो अ॒ग्निः प्रा॒तःप्रा॑तः सौमन॒सस्य॑ दा॒ता।  
-वसो॑र्वसोर्वसु॒दान॑ एधि व॒यं त्वेन्धा॑नास्त॒न्वं᳡ पुषेम ॥
+सायं᳓सायं गृह᳓पतिर्नो अग्निः᳓ प्रातः᳓प्रातः सौमनस᳓स्य दाता᳓।  
+व᳓सोर्वसोर्वसुदा᳓न एधि वयं᳓ त्वे᳓न्धानास्तन्वं᳙ पुषेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
@@ -285,8 +285,8 @@ Each eve that comes our household's Lord is Agni, showing his. loving-kindness e
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॒तःप्रा॑तर्गृ॒हप॑तिर्नो अ॒ग्निः सा॒यंसा॑यं सौमन॒सस्य॑ दा॒ता।  
-वसो॑र्वसोर्वसु॒दान॑ ए॒धीन्धा॑नास्त्वा श॒तंहि॑मा ऋधेम ॥
+प्रातः᳓प्रातर्गृह᳓पतिर्नो अग्निः᳓ सायं᳓सायं सौमनस᳓स्य दाता᳓।  
+व᳓सोर्वसोर्वसुदा᳓न एधी᳓न्धानास्त्वा शतं᳓हिमा ऋधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
@@ -350,9 +350,9 @@ Each morn that comes our household's Lord is Agni, showing. his loving-kindness 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अप॑श्चा द॒ग्धान्न॑स्य भूयासम्।  
-अ॑न्ना॒दाया॑न्नपतये रु॒द्राय॒ नमो॑ अ॒ग्नये॑।  
-स॒भ्यः स॒भां मे॑ पाहि॒ ये च॑ स॒भ्याः स॑भा॒सदः॑ ॥
+अ᳓पश्चा दग्धा᳓न्नस्य भूयासम्।  
+अ᳙न्नादा᳓यान्नपतये रुद्रा᳓य न᳓मो अग्न᳓ये।  
+सभ्यः᳓ सभां᳓ मे पाहि ये᳓ च सभ्याः᳓ सभास᳓दः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
@@ -445,8 +445,8 @@ Never may I come short of food to feed me. Glory to Agni, Rudra, the consumer an
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/06_tvamindrA_puruhUta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वमि॑न्द्रा पुरुहूत॒ विश्व॒मायु॒र्व्य᳡श्नवत्।  
-अह॑रहर्ब॒लिमित्ते॒ हर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒सम॑ग्ने ॥
+त्व᳓मिन्द्रा पुरुहूत वि᳓श्वमा᳓युर्व्य᳙श्नवत्।  
+अ᳓हरहर्बलि᳓मि᳓त्ते ह᳓रन्तो᳓ऽश्वायेव ति᳓ष्ठते घास᳓मग्ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/06_tvamindrA_puruhUta.md">

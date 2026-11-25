@@ -37,8 +37,8 @@ Magnification of Agni and prayer for his protection
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसः॒ पाञ्च॑जन्यस्य बहु॒धा यमि॒न्धते॑।  
-विशो॑विशः प्रविशि॒वांस॑मीमहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+अग्ने᳓र्मन्वे प्रथम᳓स्य प्र᳓चेतसः पा᳓ञ्चजन्यस्य बहुधा᳓ य᳓मिन्ध᳓ते।  
+वि᳓शोविशः प्रविशिवां᳓समीमहे स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
@@ -111,8 +111,8 @@ I fix my heart on wise and ancient Agni, the Five Tribes' Lord, in many a place 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/02_yathA_havyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ ह॒व्यं वह॑सि जातवेदो॒ यथा॑ य॒ज्ञं क॒ल्पय॑सि प्रजा॒नन्।  
-ए॒वा दे॒वेभ्यः॑ सुम॒तिं न॒ आ व॑ह॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+य᳓था हव्यं᳓ व᳓हसि जातवेदो य᳓था यज्ञं᳓ कल्प᳓यसि प्रजान᳓न्।  
+एवा᳓ देवे᳓भ्यः सुमतिं᳓ न आ᳓ वह स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/02_yathA_havyam.md">
@@ -175,8 +175,8 @@ As thou conveyest offerings, Jatavedas! and fashionest the sacri- fice with know
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याम॑न्याम॒न्नुप॑युक्तं॒ वहि॑ष्ठं॒ कर्म॑ङ्कर्म॒न्नाभ॑गम॒ग्निमी॑डे।  
-र॑क्षो॒हणं॑ यज्ञ॒वृधं॑ घृ॒ताहु॑तं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+या᳓मन्यामन्नु᳓पयुक्तं व᳓हिष्ठं क᳓र्मङ्कर्मन्ना᳓भगमग्नि᳓मीडे।  
+र᳙क्षोह᳓णं यज्ञवृ᳓धं घृता᳓हुतं स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
@@ -247,8 +247,8 @@ I pray to Agni in each act successful, employed in every sacrifice, the stronges
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/04_sujAtaM_jAtavedasamagnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सुजा॑तं जा॒तवे॑दसम॒ग्निं वै॑श्वान॒रं वि॒भुम्।  
-ह॑व्य॒वाहं॑ हवामहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+सु᳓जातं जात᳓वेदसमग्निं᳓ वैश्वानरं᳓ विभु᳓म्।  
+ह᳙व्यवा᳓हं हवामहे स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/04_sujAtaM_jAtavedasamagnim.md">
@@ -311,8 +311,8 @@ We invoke the oblation-bearer, well-born Agni Jatavedas, Him, Vaisvanara, almigh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/05_yena_RShayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॒ ऋष॑यो ब॒लमद्यो॑तयन्यु॒जा येनासु॑राणा॒मयु॑वन्त मा॒याः।  
-येना॒ग्निना॑ प॒णीनिन्द्रो॑ जि॒गाय॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+ये᳓न ऋ᳓षयो बल᳓म᳓द्योतयन्युजा᳓ ये᳓ना᳓सुराणाम᳓युवन्त मायाः᳓।  
+ये᳓नाग्नि᳓ना पणी᳓नि᳓न्द्रो जिगा᳓य स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/05_yena_RShayo.md">
@@ -377,8 +377,8 @@ With whom as friend the Rishis gave their power new splendour, with whom they ke
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/06_yena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ दे॒वा अ॒मृत॑म॒न्ववि॑न्द॒न्येनौष॑धी॒र्मधु॑मती॒रकृ॑ण्वन्।  
-येन॑ दे॒वाः स्व१॒॑राभ॑र॒न्त्स नो॑ मुञ्च॒त्वंह॑सः ॥
+ये᳓न देवा᳓ अमृ᳓तमन्व᳓विन्दन्ये᳓नौ᳓षधीर्म᳓धुमतीर᳓कृण्वन्।  
+ये᳓न देवाः᳓ स्व᳙रा᳓भरन्त्स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/06_yena_devA.md">
@@ -441,8 +441,8 @@ Through whom the Gods discovered life eternal, through whom they stored the plan
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ये॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते॒ यज्जा॒तं ज॑नित॒व्यं॑ च॒ केव॑लम्।  
-स्तौम्य॒ग्निं ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+य᳓स्येदं᳓ प्रदि᳓शि य᳓द्विरो᳓चते य᳓ज्जातं᳓ जनितव्यं᳙ च के᳓वलम्।  
+स्तौ᳓म्यग्निं᳓ नाथितो᳓ जोहवीमि स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">

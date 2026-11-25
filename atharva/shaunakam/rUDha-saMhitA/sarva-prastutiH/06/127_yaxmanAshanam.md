@@ -33,8 +33,8 @@ Translated: Zimmer, p. 386 (with comment on the diseases); Griffith, i. 315; Blo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/01_vidradhasya_balAsasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॑द्र॒धस्य॑ ब॒लास॑स्य॒ लोहि॑तस्य वनस्पते।  
-वि॒सल्प॑कस्योषधे॒ मोच्छि॑षः पिशि॒तं च॒न ॥
+वि᳙द्रध᳓स्य बला᳓सस्य लो᳓हितस्य वनस्पते।  
+विस᳓ल्पकस्योषधे मो᳓च्छिषः पिशितं᳓ चन᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/127_yaxmanAshanam/01_vidradhasya_balAsasya.md">
@@ -108,8 +108,8 @@ Of abscess, of decline, of inflammation of the eyes. O Plant, Of penetrating pai
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/02_yau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यौ ते॑ बलास॒ तिष्ठ॑तः॒ कक्षे॑ मु॒ष्कावप॑श्रितौ।  
-वेदा॒हं तस्य॑ भेष॒जं ची॒पुद्रु॑रभि॒चक्ष॑णम् ॥
+यौ᳓ ते बलास ति᳓ष्ठतः क᳓क्षे मुष्का᳓व᳓पश्रितौ।  
+वे᳓दाहं᳓ त᳓स्य भेषजं᳓ चीपु᳓द्रुरभिच᳓क्षणम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/127_yaxmanAshanam/02_yau_te.md">
@@ -177,9 +177,9 @@ Those nerves of thine, Consumption! which stand closely hidden in thy groin I kn
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/03_yo_angyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अङ्ग्यो॒ यः कर्ण्यो॒ यो अ॒क्ष्योर्वि॒सल्प॑कः।  
-वि वृ॑हामो वि॒सल्प॑कं विद्र॒धं हृ॑दयाम॒यम्।  
-परा॒ तमज्ञा॑तं॒ यक्ष्म॑मध॒राञ्चं॑ सुवामसि ॥
+यो᳓ अ᳓ङ्ग्यो यः᳓ क᳓र्ण्यो यो᳓ अक्ष्यो᳓र्विस᳓ल्पकः।  
+वि᳓ वृहामो विस᳓ल्पकं विद्रधं᳓ हृदयामय᳓म्।  
+प᳓रा त᳓म᳓ज्ञातं य᳓क्ष्ममधरा᳓ञ्चं सुवामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/127_yaxmanAshanam/03_yo_angyo.md">

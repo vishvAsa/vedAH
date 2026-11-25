@@ -37,8 +37,8 @@ A prayer for the same
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/01_shaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं न॑ इन्द्रा॒ग्नी भ॑वता॒मवो॑भिः॒ शं न॑ इन्द्रा॒वरु॑णा रा॒तह॑व्या।  
-शमि॑न्द्रा॒सोमा॑ सुवि॒ताय॒ शं योः शं न॒ इन्द्रा॑पू॒षणा॒ वाज॑सातौ ॥
+शं᳓ न इन्द्राग्नी᳓ भवताम᳓वोभिः शं᳓ न इन्द्राव᳓रुणा रात᳓हव्या।  
+श᳓मिन्द्रासो᳓मा सुविता᳓य शं᳓ योः᳓ शं᳓ न इ᳓न्द्रापूष᳓णा वा᳓जसातौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/010_shAntiH/01_shaM_na.md">
@@ -104,8 +104,8 @@ Befriend us with their aids Indra and Agni, Indra and Varuna who receive oblatio
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/02_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॒ भगः॒ शमु॑ नः॒ शंसो॑ अस्तु॒ शं नः॒ पुर॑न्धिः॒ शमु॑ सन्तु॒ रायः॑।  
-शं नः॑ स॒त्यस्य॑ सु॒यम॑स्य॒ शंसः॒ शं नो॑ अर्य॒मा पु॑रुजा॒तो अ॑स्तु ॥
+शं᳓ नो भ᳓गः श᳓मु नः शं᳓सो अस्तु शं᳓ नः पु᳓रन्धिः श᳓मु सन्तु रा᳓यः।  
+शं᳓ नः सत्य᳓स्य सुय᳓मस्य शं᳓सः शं᳓ नो अर्यमा᳓ पुरुजातो᳓ अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/010_shAntiH/02_shaM_no.md">
@@ -169,8 +169,8 @@ Auspicious friends to us be Bhaga. Sansa, auspicious be Pur- andhi and all Riche
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/03_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॑ धा॒ता शमु॑ ध॒र्ता नो॑ अस्तु॒ शं न॑ उरू॒ची भ॑वतु स्व॒धाभिः॑।  
-शं रोद॑सी बृह॒ती शं नो॒ अद्रिः॒ शं नो॑ दे॒वानां॑ सु॒हवा॑नि सन्तु ॥
+शं᳓ नो धाता᳓ श᳓मु धर्ता᳓ नो अस्तु शं᳓ न उरूची᳓ भवतु स्वधा᳓भिः।  
+शं᳓ रो᳓दसी बृहती᳓ शं᳓ नो अ᳓द्रिः शं᳓ नो देवा᳓नां सुह᳓वानि सन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/010_shAntiH/03_shaM_no.md">
@@ -236,8 +236,8 @@ Kind unto us be Maker and Sustainer and the far-reaching One with godlike nature
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/04_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॑ अ॒ग्निर्ज्योति॑रनीको अस्तु॒ शं नो॑ मि॒त्रावरु॑णाव॒श्विना॒ शम्।  
-शं नः॑ सु॒कृतां॑ सुकृ॒तानि॑ सन्तु॒ शं न॑ इषि॒रो अ॒भि वा॑तु॒ वातः॑ ॥
+शं᳓ नो अग्नि᳓र्ज्यो᳓तिरनीको अस्तु शं᳓ नो मित्रा᳓व᳓रुणावश्वि᳓ना श᳓म्।  
+शं᳓ नः सुकृ᳓तां सुकृता᳓नि सन्तु शं᳓ न इषिरो᳓ अभि᳓ वातु वा᳓तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/010_shAntiH/04_shaM_no.md">
@@ -299,8 +299,8 @@ Favour us Agni with his face of splendour, and Varuna and' Mitra and the Asvins.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/05_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॒ द्यावा॑पृथि॒वी पू॒र्वहू॑तौ॒ शम॒न्तरि॑क्षं दृ॒शये॑ नो अस्तु।  
-शं न॒ ओष॑धीर्व॒निनो॑ भवन्तु॒ शं नो॒ रज॑स॒स्पति॑रस्तु जि॒ष्णुः ॥
+शं᳓ नो द्या᳓वापृथिवी᳓ पूर्व᳓हूतौ श᳓मन्त᳓रिक्षं दृश᳓ये नो अस्तु।  
+शं᳓ न ओ᳓षधीर्वनि᳓नो भवन्तु शं᳓ नो र᳓जसस्प᳓तिरस्तु जिष्णुः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/010_shAntiH/05_shaM_no.md">
@@ -362,8 +362,8 @@ Early invoked may Heaven and Earth be friendly, and Air's mid-region good for us
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/06_shaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं न॒ इन्द्रो॒ वसु॑भिर्दे॒वो अ॑स्तु॒ शमा॑दि॒त्येभि॒र्वरु॑णः सु॒शंसः॑।  
-शं नो॑ रु॒द्रो रु॒द्रेभि॒र्जला॑षः॒ शं न॒स्त्वष्टा॒ ग्नाभि॑रि॒ह शृ॑णोतु ॥
+शं᳓ न इ᳓न्द्रो व᳓सुभिर्देवो᳓ अस्तु श᳓मादित्ये᳓भिर्व᳓रुणः सुशं᳓सः।  
+शं᳓ नो रुद्रो᳓ रुद्रे᳓भिर्ज᳓लाषः शं᳓ नस्त्व᳓ष्टा ग्ना᳓भिरिह᳓ शृणोतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/010_shAntiH/06_shaM_na.md">
@@ -429,8 +429,8 @@ Be the God Indra with the Vasus friendly, and with Adityas Varuna who blesseth. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/07_shaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नः॒ सोमो॑ भवतु॒ ब्रह्म॒ शं नः॒ शं नो॒ ग्रावा॑णः॒ शमु॑ सन्तु य॒ज्ञाः।  
-शं नः॒ स्वरू॑णां मि॒तयो॑ भवन्तु॒ शं नः॑ प्र॒स्वः१॒॑ शम्व॑स्तु॒ वेदिः॑ ॥
+शं᳓ नः सो᳓मो भवतु ब्र᳓ह्म शं᳓ नः शं᳓ नो ग्रा᳓वाणः श᳓मु सन्तु यज्ञाः᳓।  
+शं᳓ नः स्व᳓रूणां मित᳓यो भवन्तु शं᳓ नः प्रस्वः᳙ श᳓म्वस्तु वे᳓दिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/010_shAntiH/07_shaM_naH.md">
@@ -495,8 +495,8 @@ Kind unto us be Soma and Devotions, kind be the sacrifice and Stones for pressin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/08_shaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नः॒ सूर्य॑ उरु॒चक्षा॒ उदे॑तु॒ शं नो॑ भवन्तु प्र॒दिश॒श्चत॑स्रः।  
-शं नः॒ पर्व॑ता ध्रु॒वयो॑ भवन्तु॒ शं नः॒ सिन्ध॑वः॒ शमु॑ स॒न्त्वापः॑ ॥
+शं᳓ नः सू᳓र्य उरुच᳓क्षा उ᳓देतु शं᳓ नो भवन्तु प्रदि᳓शश्च᳓तस्रः।  
+शं᳓ नः प᳓र्वता ध्रुव᳓यो भवन्तु शं᳓ नः सि᳓न्धवः श᳓मु सन्त्वा᳓पः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/010_shAntiH/08_shaM_naH.md">
@@ -559,8 +559,8 @@ May the far-seeing Sun rise up to bless us: be the four quarters- of the heaven 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/09_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॒ अदि॑तिर्भवतु व्र॒तेभिः॒ शं नो॑ भवन्तु म॒रुतः॑ स्व॒र्काः।  
-शं नो॒ विष्णुः॒ शमु॑ पू॒षा नो॑ अस्तु॒ शं नो॑ भ॒वित्रं॒ शम्व॑स्तु वा॒युः ॥
+शं᳓ नो अ᳓दितिर्भवतु व्रते᳓भिः शं᳓ नो भवन्तु मरु᳓तः स्वर्काः᳓।  
+शं᳓ नो वि᳓ष्णुः श᳓मु पूषा᳓ नो अस्तु शं᳓ नो भवि᳓त्रं श᳓म्वस्तु वायुः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/010_shAntiH/09_shaM_no.md">
@@ -623,8 +623,8 @@ May Aditi through holy works be gracious, and may the Maruts,_ loud in song, be 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/010_shAntiH/10_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॑ दे॒वः स॑वि॒ता त्राय॑माणः॒ शं नो॑ भवन्तू॒षसो॑ विभा॒तीः।  
-शं नः॑ प॒र्जन्यो॑ भवतु प्र॒जाभ्यः॒ शं नः॒ क्षेत्र॑स्य॒ पति॑रस्तु श॒म्भुः ॥
+शं᳓ नो देवः᳓ सविता᳓ त्रा᳓यमाणः शं᳓ नो भवन्तूष᳓सो विभातीः᳓।  
+शं᳓ नः पर्ज᳓न्यो भवतु प्रजा᳓भ्यः शं᳓ नः क्षे᳓त्रस्य प᳓तिरस्तु शम्भुः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/010_shAntiH/10_shaM_no.md">

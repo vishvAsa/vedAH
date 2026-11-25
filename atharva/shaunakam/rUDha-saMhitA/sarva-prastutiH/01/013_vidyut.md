@@ -37,8 +37,8 @@ A prayer to Lightning, for happiness
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/01_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते अस्तु वि॒द्युते॒ नम॑स्ते स्तनयि॒त्नवे॑।  
-नम॑स्ते अ॒स्त्वश्म॑ने॒ येना॑ दू॒डाशे॒ अस्य॑सि ॥
+न᳓मस्ते अस्तु विद्यु᳓ते न᳓मस्ते स्तनयित्न᳓वे।  
+न᳓मस्ते अस्त्व᳓श्मने ये᳓ना दूडा᳓शे अ᳓स्यसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/01_namaste_astu.md">
@@ -107,8 +107,8 @@ Homage to thee, the Lightning's flash, homage to thee, the Thunder's roar! Homag
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/02_namaste_pravato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते प्रवतो नपा॒द्यत॒स्तपः॑ स॒मूह॑सि।  
-मृ॒डया॑ नस्त॒नूभ्यो॒ मय॑स्तो॒केभ्य॑स्कृधि ॥
+न᳓मस्ते प्रवतो नपाद्य᳓तस्त᳓पः समू᳓हसि।  
+मृड᳓या नस्तनू᳓भ्यो म᳓यस्तोके᳓भ्यस्कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/02_namaste_pravato.md">
@@ -175,8 +175,8 @@ Homage to thee, Child of the Flood whence thou collectest fer- vent heat! Be gra
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/03_pravato_napAnnama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रव॑तो नपा॒न्नम॑ ए॒वास्तु॒ तुभ्यं॒ नम॑स्ते हे॒तये॒ तपु॑षे च कृण्मः।  
-वि॒द्म ते॒ धाम॑ पर॒मं गुहा॒ यत्स॑मु॒द्रे अ॒न्तर्निहि॑तासि॒ नाभिः॑ ॥
+प्र᳓वतो नपान्न᳓म एवा᳓स्तु तु᳓भ्यं न᳓मस्ते हेत᳓ये त᳓पुषे च कृण्मः।  
+विद्म᳓ ते धा᳓म परमं᳓ गु᳓हा य᳓त्समुद्रे᳓ अन्त᳓र्नि᳓हितासि ना᳓भिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/03_pravato_napAnnama.md">
@@ -242,8 +242,8 @@ Yea, homage be to thee, O Offspring of the Flood! Homage we pay to thee, the dar
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/04_yAM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां त्वा॑ दे॒वा असृ॑जन्त॒ विश्व॒ इषुं॑ कृण्वा॒ना अस॑नाय धृ॒ष्णुम्।  
-सा नो॑ मृड वि॒दथे॑ गृणा॒ना तस्यै॑ ते॒ नमो॑ अस्तु देवि ॥
+यां᳓ त्वा देवा᳓ अ᳓सृजन्त वि᳓श्व इ᳓षुं कृण्वाना᳓ अ᳓सनाय धृष्णु᳓म्।  
+सा᳓ नो मृड विद᳓थे गृणाना᳓ त᳓स्यै ते न᳓मो अस्तु देवि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/04_yAM_tvA.md">

@@ -37,8 +37,8 @@ A prayer for deliverance from affliction
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॑तना॒जितं॒ सह॑मानम॒ग्निमु॒क्थ्यैर्ह॑वामहे पर॒मात्स॒धस्था॑त्।  
-स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॒ क्षाम॑द्दे॒वोऽति॑ दुरि॒तान्य॒ग्निः ॥
+पृ᳙तनाजि᳓तं स᳓हमानमग्नि᳓मुक्थ्यै᳓र्हवामहे परमा᳓त्सध᳓स्थात्।  
+स᳓ नः पर्षद᳓ति दुर्गा᳓णि वि᳓श्वा क्षा᳓मद्देवो᳓ऽति दुरिता᳓न्यग्निः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">

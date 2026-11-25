@@ -38,8 +38,8 @@ Skambha, the Pillar or Fulcrum of all existence
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/01_kasminnange_tapo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कस्मि॒न्नङ्गे॒ तपो॑ अ॒स्याधि॑ तिष्ठति॒ कस्मि॒न्नङ्ग॑ ऋ॒तम॒स्याध्याहि॑तम्।  
-क्व᳡ व्र॒तं क्व᳡ श्र॒द्धास्य॑ तिष्ठति॒ कस्मि॒न्नङ्गे॑ स॒त्यम॑स्य॒ प्रति॑ष्ठितम् ॥
+क᳓स्मिन्न᳓ङ्गे त᳓पो अस्या᳓धि तिष्ठति क᳓स्मिन्न᳓ङ्ग ऋत᳓मस्या᳓ध्या᳓हितम्।  
+क्व᳙ व्रतं᳓ क्व᳙ श्रद्धा᳓स्य तिष्ठति क᳓स्मिन्न᳓ङ्गे सत्य᳓मस्य प्र᳓तिष्ठितम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/01_kasminnange_tapo.md">
@@ -126,8 +126,8 @@ Which of his members is the seat of Fervour: Which is the base of Ceremonial Ord
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/02_kasmAdangAddIpyate_agnirasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कस्मा॒दङ्गा॑द्दीप्यते अ॒ग्निर॑स्य॒ कस्मा॒दङ्गा॑त्पवते मात॒रिश्वा॑।  
-कस्मा॒दङ्गा॒द्वि मि॑मी॒तेऽधि॑ च॒न्द्रमा॑ म॒ह स्क॒म्भस्य॒ मिमा॑नो॒ अङ्ग॑म् ॥
+क᳓स्माद᳓ङ्गाद्दीप्यते अग्नि᳓रस्य क᳓स्माद᳓ङ्गात्पवते मातरि᳓श्वा।  
+क᳓स्माद᳓ङ्गाद्वि᳓ मिमीते᳓ऽधि चन्द्र᳓मा मह᳓ स्कम्भ᳓स्य मि᳓मानो अ᳓ङ्गम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/02_kasmAdangAddIpyate_agnirasya.md">
@@ -184,8 +184,8 @@ Out of which member glows the light of Agni? Form which proceeds the breath of M
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/03_kasminnange_tiShThati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कस्मि॒न्नङ्गे॑ तिष्ठति॒ भूमि॑रस्य॒ कस्मि॒न्नङ्गे॑ तिष्ठत्य॒न्तरि॑क्षम्।  
-कस्मि॒न्नङ्गे॑ तिष्ठ॒त्याहि॑ता॒ द्यौः कस्मि॒न्नङ्गे॑ तिष्ठ॒त्युत्त॑रं दि॒वः ॥
+क᳓स्मिन्न᳓ङ्गे तिष्ठति भू᳓मिरस्य क᳓स्मिन्न᳓ङ्गे तिष्ठत्यन्त᳓रिक्षम्।  
+क᳓स्मिन्न᳓ङ्गे तिष्ठत्या᳓हिता द्यौः᳓ क᳓स्मिन्न᳓ङ्गे तिष्ठत्यु᳓त्तरं दिवः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/03_kasminnange_tiShThati.md">
@@ -250,8 +250,8 @@ Which of his members is the earth's upholder? Which gives the middle air a base 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/04_kva_prepsandIpyata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्व१॒॑ प्रेप्स॑न्दीप्यत ऊ॒र्ध्वो अ॒ग्निः क्व१॒॑ प्रेप्स॑न्पवते मात॒रिश्वा॑।  
-यत्र॒ प्रेप्स॑न्तीरभि॒यन्त्या॒वृतः॑ स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+क्व᳙ प्रे᳓प्सन्दीप्यत ऊर्ध्वो᳓ अग्निः᳓ क्व᳙ प्रे᳓प्सन्पवते मातरि᳓श्वा।  
+य᳓त्र प्रे᳓प्सन्तीरभिय᳓न्त्यावृ᳓तः स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/04_kva_prepsandIpyata.md">
@@ -314,8 +314,8 @@ Whitherward yearning blazeth Agni upward? Whitherward yearning bloweth Matarisva
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/05_kvArdhamAsAH_kva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्वा᳡र्धमा॒साः क्व᳡ यन्ति॒ मासाः॑ संवत्स॒रेण॑ स॒ह सं॑विदा॒नाः।  
-यत्र॒ यन्त्यृ॒तवो॒ यत्रा॑र्त॒वाः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+क्वा᳙र्धमासाः᳓ क्व᳙ यन्ति मा᳓साः संवत्सरे᳓ण सह᳓ संविदानाः᳓।  
+य᳓त्र य᳓न्त्यृत᳓वो य᳓त्रार्तवाः᳓ स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/05_kvArdhamAsAH_kva.md">
@@ -377,8 +377,8 @@ Whitheward go the half-months, and, accordant with the full year, the months in 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/06_kva_prepsantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्व१॒॑ प्रेप्स॑न्ती युव॒ती विरू॑पे अहोरा॒त्रे द्र॑वतः संविदा॒ने।  
-यत्र॒ प्रेप्स॑न्तीरभि॒यन्त्यापः॑ स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+क्व᳙ प्रे᳓प्सन्ती युवती᳓ वि᳓रूपे अहोरात्रे᳓ द्रवतः संविदाने᳓।  
+य᳓त्र प्रे᳓प्सन्तीरभिय᳓न्त्या᳓पः स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/06_kva_prepsantI.md">
@@ -441,8 +441,8 @@ Whitherward yearning speed the two young Damsels, accordant, Day and Night, of d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/07_yasmintstabdhvA_prajApatirlokAntsarvA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्मि॑न्त्स्त॒ब्ध्वा प्र॒जाप॑तिर्लो॒कान्त्सर्वाँ॒ अधा॑रयत्।  
-स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+य᳓स्मिन्त्स्तब्ध्वा᳓ प्रजा᳓पतिर्लोका᳓न्त्स᳓र्वाँ अ᳓धारयत्।  
+स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/07_yasmintstabdhvA_prajApatirlokAntsarvA.N.md">
@@ -505,8 +505,8 @@ Who out of many, tell me, is that Skambha, On whom Prajapati set up and firmly s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/08_yatparamamavamaM_yachcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्प॑र॒मम॑व॒मं यच्च॑ मध्य॒मं प्र॒जाप॑तिः ससृ॒जे वि॒श्वरू॑पम्।  
-किय॑ता स्क॒म्भः प्र वि॑वेश॒ तत्र॒ यन्न प्रावि॑श॒त्किय॒त्तद्ब॑भूव ॥
+य᳓त्परम᳓मवमं᳓ य᳓च्च मध्यमं᳓ प्रजा᳓पतिः ससृजे᳓ विश्व᳓रूपम्।  
+कि᳓यता स्कम्भः᳓ प्र᳓ विवेश त᳓त्र य᳓न्न᳓ प्रा᳓विशत्कि᳓यत्त᳓द्बभूव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/08_yatparamamavamaM_yachcha.md">
@@ -569,8 +569,8 @@ That universe which Prajapati created, wearing all forms,, the highest, midmost,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/09_kiyatA_skambhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-किय॑ता स्क॒म्भः प्र वि॑वेश भू॒तं किय॑द्भवि॒ष्यद॒न्वाश॑येऽस्य।  
-एकं॒ यदङ्ग॒मकृ॑णोत्सहस्र॒धा किय॑ता स्क॒म्भः प्र वि॑वेश॒ तत्र॑ ॥
+कि᳓यता स्कम्भः᳓ प्र᳓ विवेश भूतं᳓ कि᳓यद्भविष्य᳓दन्वा᳓शयेऽस्य।  
+ए᳓कं य᳓द᳓ङ्गम᳓कृणोत्सहस्रधा᳓ कि᳓यता स्कम्भः᳓ प्र᳓ विवेश त᳓त्र ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/09_kiyatA_skambhaH.md">
@@ -632,8 +632,8 @@ How far within the past hath Skambha entered? How much of him hath reached into 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/10_yatra_lokAMshcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॑ लो॒कांश्च॒ कोशां॒श्चापो॒ ब्रह्म॒ जना॑ वि॒दुः।  
-अस॑च्च॒ यत्र॒ सच्चा॒न्त स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+य᳓त्र लोकां᳓श्च को᳓शांश्चा᳓पो ब्र᳓ह्म ज᳓ना विदुः᳓।  
+अ᳓सच्च य᳓त्र स᳓च्चान्त᳓ स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/10_yatra_lokAMshcha.md">
@@ -696,8 +696,8 @@ Who out of many, tell me, is that Skambha in whom men recognize the Waters, Brah
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/11_yatra_tapaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॒ तपः॑ परा॒क्रम्य॑ व्र॒तं धा॒रय॒त्युत्त॑रम्।  
-ऋ॒तं च॒ यत्र॑ श्र॒द्धा चापो॒ ब्रह्म॑ स॒माहि॑ताः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+य᳓त्र त᳓पः पराक्र᳓म्य व्रतं᳓ धार᳓यत्यु᳓त्तरम्।  
+ऋतं᳓ च य᳓त्र श्रद्धा᳓ चा᳓पो ब्र᳓ह्म समा᳓हिताः स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/11_yatra_tapaH.md">
@@ -761,8 +761,8 @@ Declare that. Skambha, who is he of many, In whom, exerting every power, Fervour
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/12_yasminbhUmirantarixaM_dyauryasminnadhyAhitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्मि॒न्भूमि॑र॒न्तरि॑क्षं॒ द्यौर्यस्मि॒न्नध्याहि॑ता।  
-यत्रा॒ग्निश्च॒न्द्रमाः॒ सूर्यो॒ वात॑स्तिष्ठ॒न्त्यार्पि॑ताः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+य᳓स्मिन्भू᳓मिरन्त᳓रिक्षं द्यौ᳓र्य᳓स्मिन्न᳓ध्या᳓हिता।  
+य᳓त्राग्नि᳓श्चन्द्र᳓माः सू᳓र्यो वा᳓तस्तिष्ठन्त्या᳓र्पिताः स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/12_yasminbhUmirantarixaM_dyauryasminnadhyAhitA.md">
@@ -824,8 +824,8 @@ Who out of many, tell me, is that Skambha On whom as their foundation earth and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/13_yasya_trayastriMshaddevA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ त्रय॑स्त्रिंशद्दे॒वा अङ्गे॒ सर्वे॑ स॒माहि॑ताः।  
-स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+य᳓स्य त्र᳓यस्त्रिंशद्देवा᳓ अ᳓ङ्गे स᳓र्वे समा᳓हिताः।  
+स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/13_yasya_trayastriMshaddevA.md">
@@ -886,8 +886,8 @@ Who out of many, tell me, is that Skambha He in whose body are contained all thr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/14_yatra_RShayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॒ ऋष॑यः प्रथम॒जा ऋचः॒ साम॒ यजु॑र्म॒ही।  
-ए॑क॒र्षिर्यस्मि॒न्नार्पि॑तः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+य᳓त्र ऋ᳓षयः प्रथमजा᳓ ऋ᳓चः सा᳓म य᳓जुर्मही᳓।  
+ए᳙कर्षि᳓र्य᳓स्मिन्ना᳓र्पितः स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/14_yatra_RShayaH.md">
@@ -952,8 +952,8 @@ Who out of many, tell me, is that Skambha. In whom the Sages earliest born, the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/15_yatrAmRtaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्रा॒मृतं॑ च मृ॒त्युश्च॒ पुरु॒षेऽधि॑ स॒माहि॑ते।  
-स॑मु॒द्रो यस्य॑ ना॒ड्यः१॒॑ पुरु॒षेऽधि॑ स॒माहि॑ताः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+य᳓त्रामृ᳓तं च मृत्यु᳓श्च पु᳓रुषे᳓ऽधि समा᳓हिते।  
+स᳙मुद्रो᳓ य᳓स्य नाड्यः᳙ पु᳓रुषे᳓ऽधि समा᳓हिताः स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/15_yatrAmRtaM_cha.md">
@@ -1016,8 +1016,8 @@ Who out of many, tell me, is the Skambha. Who comprehendeth, for mankind, both i
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/16_yasya_chatasraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ चत॑स्रः प्र॒दिशो॑ ना॒ड्य१॒॑स्तिष्ठ॑न्ति प्रथ॒माः।  
-य॒ज्ञो यत्र॒ परा॑क्रान्तः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+य᳓स्य च᳓तस्रः प्रदि᳓शो नाड्य᳙स्ति᳓ष्ठन्ति प्रथमाः᳓।  
+यज्ञो᳓ य᳓त्र प᳓राक्रान्तः स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/16_yasya_chatasraH.md">
@@ -1083,9 +1083,9 @@ Who out of many, tell me, is that Skambha, He whose chief arteries stand there, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/17_ye_puruShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये पुरु॑षे॒ ब्रह्म॑ वि॒दुस्ते वि॑दुः परमे॒ष्ठिन॑म्।  
-यो वेद॑ परमे॒ष्ठिनं॒ यश्च॒ वेद॑ प्र॒जाप॑तिम्।  
-ज्ये॒ष्ठं ये ब्राह्म॑णं वि॒दुस्ते॑ स्क॒म्भम॑नु॒संवि॑दुः ॥
+ये᳓ पु᳓रुषे ब्र᳓ह्म विदु᳓स्ते᳓ विदुः परमेष्ठि᳓नम्।  
+यो᳓ वे᳓द परमेष्ठि᳓नं य᳓श्च वे᳓द प्रजा᳓पतिम्।  
+ज्येष्ठं᳓ ये᳓ ब्रा᳓ह्मणं विदु᳓स्ते स्कम्भ᳓मनुसं᳓विदुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/17_ye_puruShe.md">
@@ -1150,8 +1150,8 @@ They who in Purusha understand Brahma know Him who is. Supreme. He who knows Him
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/18_yasya_shiro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ शिरो॑ वैश्वान॒रश्चक्षु॒रङ्गि॑र॒सोऽभ॑वन्।  
-अङ्गा॑नि॒ यस्य॑ या॒तवः॑ स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+य᳓स्य शि᳓रो वैश्वानर᳓श्च᳓क्षुर᳓ङ्गिरसो᳓ऽभवन्।  
+अ᳓ङ्गानि य᳓स्य यात᳓वः स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/18_yasya_shiro.md">
@@ -1212,8 +1212,8 @@ Who out of many, tell me, is that Skambha Of whom Vaisvanara became the head, th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/19_yasya_brahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ ब्रह्म॒ मुख॑मा॒हुर्जि॒ह्वां म॑धुक॒शामु॒त।  
-वि॒राज॒मूधो॒ यस्या॒हुः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+य᳓स्य ब्र᳓ह्म मु᳓खमाहु᳓र्जिह्वां᳓ मधुकशा᳓मुत᳓।  
+विरा᳓जमू᳓धो य᳓स्याहुः᳓ स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/19_yasya_brahma.md">
@@ -1274,8 +1274,8 @@ Who out of many, tell me, is that Skambha Whose mouth they say is Holy Lore, his
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/20_yasmAdRcho_apAtaxanyajuryasmAdapAkaShan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्मा॒दृचो॑ अ॒पात॑क्ष॒न्यजु॒र्यस्मा॑द॒पाक॑षन्।  
-सामा॑नि॒ यस्य॒ लोमा॑न्यथर्वाङ्गि॒रसो॒ मुखं॑ स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+य᳓स्मादृ᳓चो अपा᳓तक्षन्य᳓जुर्य᳓स्मादपा᳓कषन्।  
+सा᳓मानि य᳓स्य लो᳓मान्यथर्वाङ्गिर᳓सो मु᳓खं स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/20_yasmAdRcho_apAtaxanyajuryasmAdapAkaShan.md">
@@ -1338,8 +1338,8 @@ Who out of many, tell me, is that Skambha From whom they hewed the lichas off, f
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/21_asachChAkhAM_pratiShThantIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-असच्छा॒खां प्र॒तिष्ठ॑न्तीं पर॒ममि॑व॒ जना॑ विदुः।  
-उ॒तो सन्म॑न्य॒न्तेऽव॑रे॒ ये ते॒ शाखा॑मु॒पास॑ते ॥
+अ᳓स᳓च्छाखां᳓ प्रति᳓ष्ठन्तीं परम᳓मिव ज᳓ना विदुः।  
+उतो᳓ स᳓न्मन्यन्ते᳓ऽवरे ये᳓ ते शा᳓खामुपा᳓सते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/21_asachChAkhAM_pratiShThantIm.md">
@@ -1405,8 +1405,8 @@ Men count as 'twere a thing supreme nonentity's conspicuous branch; And lower ma
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/22_yatrAdityAshcha_rudrAshcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्रा॑दि॒त्याश्च॑ रु॒द्राश्च॒ वस॑वश्च स॒माहिताः॑।  
-भू॒तं च॒ यत्र॒ भव्यं॑ च॒ सर्वे॑ लो॒काः प्रति॑ष्ठिताः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+य᳓त्रादित्या᳓श्च रुद्रा᳓श्च व᳓सवश्च समा᳓हि᳓ताः।  
+भूतं᳓ च य᳓त्र भ᳓व्यं च स᳓र्वे लोकाः᳓ प्र᳓तिष्ठिताः स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/22_yatrAdityAshcha_rudrAshcha.md">
@@ -1467,8 +1467,8 @@ Who out of many, tell me, is that Skambha In whom Adityas dwell, in whom Rudras 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/23_yasya_trayastriMshaddevA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ त्रय॑स्त्रिंशद्दे॒वा नि॒धिं रक्ष॑न्ति सर्व॒दा।  
-नि॒धिं तम॒द्य को वे॑द॒ यं दे॑वा अभि॒रक्ष॑थ ॥
+य᳓स्य त्र᳓यस्त्रिंशद्देवा᳓ निधिं᳓ र᳓क्षन्ति सर्वदा᳓।  
+निधिं᳓ त᳓मद्य᳓ को᳓ वेद यं᳓ देवा अभिर᳓क्षथ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/23_yasya_trayastriMshaddevA.md">
@@ -1528,8 +1528,8 @@ Whose secret treasure evermore the three-and thirty Gods protect? Who knoweth no
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/24_yatra_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॑ दे॒वा ब्र॑ह्म॒विदो॒ ब्रह्म॑ ज्ये॒ष्ठमु॒पास॑ते।  
-यो वै तान्वि॒द्यात्प्र॒त्यक्षं॒ स ब्र॒ह्मा वेदि॑ता स्यात् ॥
+य᳓त्र देवा᳓ ब्रह्मवि᳓दो ब्र᳓ह्म ज्येष्ठ᳓मुपा᳓सते।  
+यो᳓ वै᳓ ता᳓न्विद्या᳓त्प्रत्य᳓क्षं स᳓ ब्रह्मा᳓ वे᳓दिता स्यात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/24_yatra_devA.md">
@@ -1594,8 +1594,8 @@ Where the Gods, versed in Sacred Lore, worship the loftiest Power Divine The pri
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/25_bRhanto_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृ॒हन्तो॒ नाम॒ ते दे॒वा येऽस॑तः॒ परि॑ जज्ञि॒रे।  
-एकं॒ तदङ्गं॑ स्क॒म्भस्यास॑दाहुः प॒रो जनाः॑ ॥
+बृह᳓न्तो ना᳓म ते᳓ देवा᳓ ये᳓ऽसतः प᳓रि जज्ञिरे᳓।  
+ए᳓कं त᳓द᳓ङ्गं स्कम्भ᳓स्या᳓सदाहुः परो᳓ ज᳓नाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/25_bRhanto_nAma.md">
@@ -1661,8 +1661,8 @@ Great, verily, are those Gods who sprang from non-existence into life. Further, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/26_yatra_skambhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॑ स्क॒म्भः प्र॑ज॒नय॑न्पुरा॒णं व्यव॑र्तयत्।  
-एकं॒ तदङ्गं॑ स्क॒म्भस्य॑ पुरा॒णम॑नु॒संवि॑दुः ॥
+य᳓त्र स्कम्भः᳓ प्रजन᳓यन्पुराणं᳓ व्य᳓वर्तयत्।  
+ए᳓कं त᳓द᳓ङ्गं स्कम्भ᳓स्य पुराण᳓मनुसं᳓विदुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/26_yatra_skambhaH.md">
@@ -1726,8 +1726,8 @@ Where Skambha generating gave the Ancient World its shape and form, They recogni
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/27_yasya_trayastriMshaddevA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ त्रय॑स्त्रिंशद्दे॒वा अङ्गे॒ गात्रा॑ विभेजि॒रे।  
-तान्वै त्रय॑स्त्रिंशद्दे॒वानेके॑ ब्रह्म॒विदो॑ विदुः ॥
+य᳓स्य त्र᳓यस्त्रिंशद्देवा᳓ अ᳓ङ्गे गा᳓त्रा विभेजिरे᳓।  
+ता᳓न्वै᳓ त्र᳓यस्त्रिंशद्देवा᳓ने᳓के ब्रह्मवि᳓दो विदुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/27_yasya_trayastriMshaddevA.md">
@@ -1790,8 +1790,8 @@ The three-and-thirty Gods within his body were disposed as limbs: Some, deeply v
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/28_hiraNyagarbhaM_paramamanatyudyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॑रण्यग॒र्भं प॑र॒मम॑नत्यु॒द्यं जना॑ विदुः।  
-स्क॒म्भस्तदग्रे॒ प्रासि॑ञ्च॒द्धिर॑ण्यं लो॒के अ॑न्त॒रा ॥
+हि᳙रण्यगर्भं᳓ परम᳓मनत्युद्यं᳓ ज᳓ना विदुः।  
+स्कम्भ᳓स्त᳓द᳓ग्रे प्रा᳓सिञ्चद्धि᳓रण्यं लोके᳓ अन्तरा᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/28_hiraNyagarbhaM_paramamanatyudyam.md">
@@ -1853,8 +1853,8 @@ Men know Hiranyagarbha as supreme and inexpressible: In the beginning, in the mi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/29_skambhe_lokAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्क॒म्भे लो॒काः स्क॒म्भे तपः॑ स्क॒म्भेऽध्यृ॒तमाहि॑तम्।  
-स्कम्भं॒ त्वा वे॑द प्र॒त्यक्ष॒मिन्द्रे॒ सर्वं॑ स॒माहि॑तम् ॥
+स्कम्भे᳓ लोकाः᳓ स्कम्भे᳓ त᳓पः स्कम्भे᳓ऽध्यृत᳓मा᳓हितम्।  
+स्क᳓म्भं त्वा᳓ वेद प्रत्य᳓क्षमि᳓न्द्रे स᳓र्वं समा᳓हितम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/29_skambhe_lokAH.md">
@@ -1919,8 +1919,8 @@ On Skambha Fervour rests, the worlds and Holy Law repose on him. Skambha, I clea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/30_indre_lokA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रे॑ लो॒का इन्द्रे॒ तप॒ इन्द्रे॑ऽध्यृ॒तमाहि॑तम्।  
-इन्द्रं॒ त्वा वे॑द प्र॒त्यक्षं॑ स्क॒म्भे सर्वं॒ प्रति॑ष्ठितम् ॥
+इ᳓न्द्रे लोका᳓ इ᳓न्द्रे त᳓प इ᳓न्द्रेऽध्यृत᳓मा᳓हितम्।  
+इ᳓न्द्रं त्वा᳓ वेद प्रत्य᳓क्षं स्कम्भे᳓ स᳓र्वं प्र᳓तिष्ठितम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/30_indre_lokA.md">
@@ -1984,8 +1984,8 @@ On Indra Fervour rests, on him the worlds and Holy Law recline. Indra, I clearly
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/31_nAma_nAmnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नाम॒ नाम्ना॑ जोहवीति पु॒रा सूर्या॑त्पु॒रोषसः॑।  
-यद॒जः प्र॑थ॒मं सं॑ब॒भूव॒ स ह॒ तत्स्व॒राज्य॑मियाय॒ यस्मा॒न्नान्यत्पर॒मस्ति॑ भू॒तम् ॥
+ना᳓म ना᳓म्ना जोहवीति पुरा᳓ सू᳓र्यात्पुरो᳓ष᳓सः।  
+य᳓दजः᳓ प्रथमं᳓ संबभू᳓व स᳓ ह त᳓त्स्वरा᳓ज्यमियाय य᳓स्मान्ना᳓न्य᳓त्प᳓रम᳓स्ति भूत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/31_nAma_nAmnA.md">
@@ -2051,8 +2051,8 @@ Ere sun and dawn man calls and calls one Deity by the other's name. When the Unb
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/32_yasya_bhUmiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ भूमिः॑ प्र॒मान्तरि॑क्षमु॒तोदर॑म्।  
-दिवं॒ यश्च॒क्रे मू॒र्धानं॒ तस्मै॑ ज्ये॒ष्ठाय॒ ब्रह्म॑णे॒ नमः॑ ॥
+य᳓स्य भू᳓मिः प्रमा᳓न्त᳓रिक्षमुतो᳓द᳓रम्।  
+दि᳓वं य᳓श्चक्रे᳓ मूर्धा᳓नं त᳓स्मै ज्येष्ठा᳓य ब्र᳓ह्मणे न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/32_yasya_bhUmiH.md">
@@ -2120,8 +2120,8 @@ Be reverence paid to him, that highest Brahma, whose base is Earth, his belly Ai
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/33_yasya_sUryashchaxushchandramAshcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ सूर्य॒श्चक्षु॑श्च॒न्द्रमा॑श्च॒ पुन॑र्णवः।  
-अ॒ग्निं यश्च॒क्र आ॒स्यं१॒॑ तस्मै॑ ज्ये॒ष्ठाय॒ ब्रह्म॑णे॒ नमः॑ ॥
+य᳓स्य सू᳓र्यश्च᳓क्षुश्चन्द्र᳓माश्च पु᳓नर्णवः।  
+अग्निं᳓ य᳓श्चक्र᳓ आस्यं᳙ त᳓स्मै ज्येष्ठा᳓य ब्र᳓ह्मणे न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/33_yasya_sUryashchaxushchandramAshcha.md">
@@ -2184,8 +2184,8 @@ Homage to highest Brahma, him whose eye is Surya and the Moon who groweth young 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/34_yasya_vAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ वातः॑ प्राणापा॒नौ चक्षु॒रङ्गि॑र॒सोऽभ॑वन्।  
-दिशो॒ यश्च॒क्रे प्र॒ज्ञानी॒स्तस्मै॑ ज्ये॒ष्ठाय॒ ब्रह्म॑णे॒ नमः॑ ॥
+य᳓स्य वा᳓तः प्राणापानौ᳓ च᳓क्षुर᳓ङ्गिरसो᳓ऽभवन्।  
+दि᳓शो य᳓श्चक्रे᳓ प्रज्ञा᳓नीस्त᳓स्मै ज्येष्ठा᳓य ब्र᳓ह्मणे न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/34_yasya_vAtaH.md">
@@ -2248,8 +2248,8 @@ Homage to highest Brahma, him whose two life-breathings were the Wind, The Angir
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/35_skambho_dAdhAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्क॒म्भो दा॑धार॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे स्क॒म्भो दा॑धारो॒र्व१॒॑न्तरि॑क्षम्।  
-स्क॒म्भो दा॑धार प्र॒दिशः॒ षडु॒र्वीः स्क॒म्भ इ॒दं विश्वं॒ भुव॑न॒मा वि॑वेश ॥
+स्कम्भो᳓ दाधार द्या᳓वापृथिवी᳓ उभे᳓ इमे᳓ स्कम्भो᳓ दाधारोर्व᳙न्त᳓रिक्षम्।  
+स्कम्भो᳓ दाधार प्रदि᳓शः ष᳓डुर्वीः᳓ स्कम्भ᳓ इदं᳓ वि᳓श्वं भु᳓वनमा᳓ विवेश ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/35_skambho_dAdhAra.md">
@@ -2316,8 +2316,8 @@ Skambha set fast these two, the earth and heaven, Skambha maintained the ample a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/36_yaH_shramAttapaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः श्रमा॒त्तप॑सो जा॒तो लो॒कान्त्सर्वा॑न्त्समान॒शे।  
-सोमं॒ यश्च॒क्रे केव॑लं॒ तस्मै॑ ज्ये॒ष्ठाय॒ ब्रह्म॑णे॒ नमः॑ ॥
+यः᳓ श्र᳓मात्त᳓पसो जातो᳓ लोका᳓न्त्स᳓र्वान्त्समानशे᳓।  
+सो᳓मं य᳓श्चक्रे᳓ के᳓वलं त᳓स्मै ज्येष्ठा᳓य ब्र᳓ह्मणे न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/36_yaH_shramAttapaso.md">
@@ -2378,8 +2378,8 @@ Homage to highest Brahma, him who, sprung from Fervour and from toil, Filled all
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/37_kathaM_vAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क॒थं वातो॒ नेल॑यति क॒थं न र॑मते॒ मनः॑।  
-किमापः॑ स॒त्यं प्रेप्स॑न्ती॒र्नेल॑यन्ति क॒दा च॒न ॥
+कथं᳓ वा᳓तो ने᳓लयति कथं᳓ न᳓ रमते म᳓नः।  
+कि᳓मा᳓पः सत्यं᳓ प्रे᳓प्सन्तीर्ने᳓लयन्ति कदा᳓ चन᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/37_kathaM_vAto.md">
@@ -2442,8 +2442,8 @@ Why doth the Wind move ceaselessly? Why doth the spirit take no rest? Why do the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/38_mahadyaxaM_bhuvanasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒हद्य॒क्षं भुव॑नस्य॒ मध्ये॒ तप॑सि क्रा॒न्तं स॑लि॒लस्य॑ पृ॒ष्ठे।  
-तस्मि॑न्छ्रयन्ते॒ य उ॒ के च॑ दे॒वा वृ॒क्षस्य॒ स्कन्धः॑ प॒रित॑ इव॒ शाखाः॑ ॥
+मह᳓द्यक्षं᳓ भु᳓वनस्य म᳓ध्ये त᳓पसि क्रान्तं᳓ सलिल᳓स्य पृष्ठे᳓।  
+त᳓स्मिन्छ्रयन्ते य᳓ उ के᳓ च देवा᳓ वृक्ष᳓स्य स्क᳓न्धः परि᳓त इव शा᳓खाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/38_mahadyaxaM_bhuvanasya.md">
@@ -2515,8 +2515,8 @@ Absorbed in Fervour, is the mighty Being, in the world's centre, on the waters' 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/39_yasmai_hastAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्मै॒ हस्ता॑भ्यां॒ पादा॑भ्यां वा॒चा श्रोत्रे॑ण॒ चक्षु॑षा।  
-यस्मै॑ दे॒वाः सदा॑ ब॒लिं प्र॒यच्छ॑न्ति॒ विमि॒तेऽमि॑तं स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+य᳓स्मै ह᳓स्ताभ्यां पा᳓दाभ्यां वाचा᳓ श्रो᳓त्रेण च᳓क्षुषा।  
+य᳓स्मै देवाः᳓ स᳓दा बलिं᳓ प्रय᳓च्छन्ति वि᳓मिते᳓ऽमितं स्कम्भं᳓ तं᳓ ब्रूहि कतमः᳓ स्विदेव᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/39_yasmai_hastAbhyAm.md">
@@ -2583,8 +2583,8 @@ Who out of many, tell me, is that Skambha. To whom the Deities with hands, with 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/40_apa_tasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अप॒ तस्य॑ ह॒तं तमो॒ व्यावृ॑त्तः॒ स पा॒प्मना॑।  
-सर्वा॑णि॒ तस्मि॒ञ्ज्योतीं॑षि॒ यानि॒ त्रीणि॑ प्र॒जाप॑तौ ॥
+अ᳓प त᳓स्य हतं᳓ त᳓मो व्या᳓वृत्तः स᳓ पाप्म᳓ना।  
+स᳓र्वाणि त᳓स्मिञ्ज्यो᳓तींषि या᳓नि त्री᳓णि प्रजा᳓पतौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/40_apa_tasya.md">
@@ -2644,8 +2644,8 @@ Darkness is chased away from him: he is exempt from all dist- ress. In him are a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/41_yo_vetasam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो वे॑त॒सं हि॑र॒ण्ययं॑ तिष्ठन्तं सलि॒ले वेद॑।  
-स वै गुह्यः॑ प्र॒जाप॑तिः ॥
+यो᳓ वेतसं᳓ हिरण्य᳓यं तिष्ठन्तं सलिले᳓ वे᳓द।  
+स᳓ वै᳓ गु᳓ह्यः प्रजा᳓पतिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/41_yo_vetasam.md">
@@ -2718,8 +2718,8 @@ He verily who knows the Reed of Gold that stands amid the flood, is the mysterio
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/42_tantrameke_yuvatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त॒न्त्रमेके॑ युव॒ती विरू॑पे अभ्या॒क्रामं॑ वयतः॒ षण्म॑यूखम्।  
-प्रान्या तन्तूं॑स्ति॒रते॑ ध॒त्ते अ॒न्या नाप॑ वृञ्जाते॒ न ग॑मातो॒ अन्त॑म् ॥
+तन्त्र᳓मे᳓के युवती᳓ वि᳓रूपे अभ्याक्रा᳓मं वयतः ष᳓ण्मयूखम्।  
+प्रा᳓न्या᳓ त᳓न्तूंस्तिर᳓ते धत्ते᳓ अन्या᳓ ना᳓प वृञ्जाते न᳓ गमातो अ᳓न्तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/42_tantrameke_yuvatI.md">
@@ -2790,8 +2790,8 @@ Singly the two young Maids of different colours approach the six-pegged warp in 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/43_tayorahaM_parinRtyantyoriva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तयो॑र॒हं प॑रि॒नृत्य॑न्त्योरिव॒ न वि जा॑नामि यत॒रा प॒रस्ता॑त्।  
-पुमा॑नेनद्वय॒त्युद्गृ॑णत्ति॒ पुमा॑नेन॒द्वि ज॑भा॒राधि॒ नाके॑ ॥
+त᳓योरहं᳓ परिनृ᳓त्यन्त्योरिव न᳓ वि᳓ जानामि यतरा᳓ पर᳓स्तात्।  
+पु᳓मानेनद्वयत्यु᳓द्गृणत्ति पु᳓मानेनद्वि᳓ जभारा᳓धि ना᳓के ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/43_tayorahaM_parinRtyantyoriva.md">
@@ -2860,7 +2860,7 @@ Of these two, dancing round as 'twere, I cannot distinguish whether ranks before
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/007_sarvAdhAravarNanam/44_ime_mayUkhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मे म॒यूखा॒ उप॑ तस्तभु॒र्दिवं॒ सामा॑नि चक्रु॒स्तस॑राणि॒ वात॑वे ॥
+इमे᳓ मयू᳓खा उ᳓प तस्तभुर्दि᳓वं सा᳓मानि चक्रुस्त᳓सराणि वा᳓तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/007_sarvAdhAravarNanam/44_ime_mayUkhA.md">

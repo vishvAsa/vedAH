@@ -37,8 +37,8 @@ A charm against snakes
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/01_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॑ देवा॒ अहि॑र्वधी॒त्सतो॑कान्त्स॒हपू॑रुषान्।  
-संय॑तं॒ न वि ष्प॑र॒द्व्यात्तं॒ न सं य॑म॒न्नमो॑ देवज॒नेभ्यः॑।
+मा᳓ नो देवा अ᳓हिर्वधीत्स᳓तोकान्त्सह᳓पूरुषान्।  
+सं᳓यतं न᳓ वि᳓ ष्परद्व्या᳓त्तं न᳓ सं᳓ यमन्न᳓मो देवजने᳓भ्यः।
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/056_sarpebhyo_raxaNam/01_mA_no.md">
@@ -105,8 +105,8 @@ Let not the serpent slay us, O Gods, with our children and our folk. Let it not 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/02_namo-stvasitAya_namastirashchirAjaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नमो॑ऽस्त्वसि॒ताय॒ नम॒स्तिर॑श्चिराजये।  
-स्व॒जाय॑ ब॒भ्रवे॒ नमो॒ नमो॑ देवज॒नेभ्यः॑ ॥
+न᳓मोऽस्त्वसिता᳓य न᳓मस्ति᳓रश्चिराजये।  
+स्वजा᳓य बभ्र᳓वे न᳓मो न᳓मो देवजने᳓भ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/056_sarpebhyo_raxaNam/02_namo-stvasitAya_namastirashchirAjaye.md">
@@ -169,8 +169,8 @@ Be worship paid unto the black, worship to that with stripes across! To the brow
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/03_saM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं ते॑ हन्मि द॒ता द॒तः समु॑ ते॒ हन्वा॒ हनू॑।  
-सं ते॑ जि॒ह्वया॑ जि॒ह्वां सम्वा॒स्नाह॑ आ॒स्य᳡म् ॥
+सं᳓ ते हन्मि दता᳓ दतः᳓ स᳓मु ते ह᳓न्वा ह᳓नू।  
+सं᳓ ते जिह्व᳓या जिह्वां᳓ स᳓म्वास्ना᳓ह आस्य᳙म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/056_sarpebhyo_raxaNam/03_saM_te.md">

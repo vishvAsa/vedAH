@@ -38,8 +38,8 @@ A benediction on a sick man
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/01_pArthivasya_rase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पार्थि॑वस्य॒ रसे॑ देवा॒ भग॑स्य त॒न्वो॑३ बले॑।  
-आ॑यु॒ष्य॑म॒स्मा अ॒ग्निः सूर्यो॒ वर्च॒ आ धा॒द्बृह॒स्पतिः॑ ॥
+पा᳓र्थिवस्य र᳓से देवा भ᳓गस्य तन्वो᳙ ब᳓ले।  
+आ᳙युष्य᳙मस्मा᳓ अग्निः᳓ सू᳓र्यो व᳓र्च आ᳓ धाद्बृ᳓हस्प᳓तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/01_pArthivasya_rase.md">
@@ -109,8 +109,8 @@ Gods, give him all that earth hath best with bodily strength and happy fate. Agn
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/02_Ayurasmai_dhehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयु॑र॒स्मै धे॑हि जातवेदः प्र॒जां त्व॑ष्टरधि॒निधे॑ह्य॒स्मै।  
-रा॒यस्पोषं॑ सवित॒रा सु॑वा॒स्मै श॒तं जी॒वाति॑ श॒रद॒स्तवा॒यम् ॥
+आ᳓युरस्मै᳓ धेहि जातवेदः प्रजां᳓ त्वष्टरधिनि᳓धेह्यस्मै᳓।  
+राय᳓स्पो᳓षं सवितरा᳓ सुवास्मै᳓ शतं᳓ जीवा᳓ति शर᳓दस्त᳓वाय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/02_Ayurasmai_dhehi.md">
@@ -175,8 +175,8 @@ Bestow thou life on him, O Jatavedas. Store him with future progeny, O Tvashtar.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/03_AshIrNa_Urjamuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒शीर्ण॒ ऊर्ज॑मु॒त सौ॑प्रजा॒स्त्वं दक्षं॑ धत्तं॒ द्रवि॑णं॒ सचे॑तसौ।  
-जयं॒ क्षेत्रा॑णि॒ सह॑सा॒यमि॑न्द्र कृण्वा॒नो अ॒न्यानध॑रान्त्स॒पत्ना॑न् ॥
+आशी᳓र्ण ऊ᳓र्जमुत᳓ सौप्रजास्त्वं᳓ द᳓क्षं धत्तं द्र᳓विणं स᳓चेतसौ।  
+ज᳓यं क्षे᳓त्राणि स᳓हसाय᳓मिन्द्र कृण्वानो᳓ अन्या᳓न᳓धरान्त्सप᳓त्नान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/03_AshIrNa_Urjamuta.md">
@@ -257,8 +257,8 @@ May this our prayer bring strength and goodly offspring. Give, both of you one-m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/04_indreNa_datto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रे॑ण द॒त्तो वरु॑णेन शि॒ष्टो म॒रुद्भि॑रु॒ग्रः प्रहि॑तो नो॒ आग॑न्।  
-ए॒ष वां॑ द्यावापृथिवी उ॒पस्थे॒ मा क्षु॑ध॒न्मा तृ॑षत् ॥
+इ᳓न्द्रेण दत्तो᳓ व᳓रुणेन शिष्टो᳓ मरु᳓द्भिरुग्रः᳓ प्र᳓हितो नो आ᳓गन्।  
+एष᳓ वां द्यावापृथिवी उप᳓स्थे मा᳓ क्षुधन्मा᳓ तृषत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/04_indreNa_datto.md">
@@ -325,8 +325,8 @@ As Indra's gift, by Varuna instructed the fierce one came to us sent by the Maru
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/05_UrjamasmA_UrjasvatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊर्ज॑मस्मा ऊर्जस्वती धत्तं॒ पयो॑ अस्मै पयस्वती धत्तम्।  
-ऊर्ज॑म॒स्मै द्याव॑पृथि॒वी अ॑धातां॒ विश्वे॑ दे॒वा म॒रुत॒ ऊर्ज॒मापः॑ ॥
+ऊ᳓र्जमस्मा ऊर्जस्वती धत्तं प᳓यो अस्मै पयस्वती धत्तम्।  
+ऊ᳓र्जमस्मै᳓ द्या᳓वपृथिवी᳓ अधातां वि᳓श्वे देवा᳓ मरु᳓त ऊ᳓र्जमा᳓पः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/05_UrjamasmA_UrjasvatI.md">
@@ -398,8 +398,8 @@ Ye twain endowed with vigour, grant him vigour. Ye who are rich in milk, give mi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/06_shivAbhiShTe_hRdayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि॒वाभि॑ष्टे॒ हृद॑यं तर्पयाम्यनमी॒वो मो॑दिषीष्ठाः सु॒वर्चाः॑।  
-स॑वा॒सिनौ॑ पिबतां म॒न्थमे॒तम॒श्विनो॑ रू॒पं प॑रि॒धाय॑ मा॒याम् ॥
+शिवा᳓भिष्टे हृ᳓दयं तर्पयाम्यनमीवो᳓ मोदिषीष्ठाः सुव᳓र्चाः।  
+स᳙वासि᳓नौ पिबतां मन्थ᳓मेत᳓मश्वि᳓नो रूपं᳓ परिधा᳓य माया᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/06_shivAbhiShTe_hRdayam.md">
@@ -468,8 +468,8 @@ With health-bestowing drops thine heart I comfort: all-bright again, and undisea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/07_indra_etAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑ ए॒तां स॑सृजे वि॒द्धो अग्र॑ ऊ॒र्जां स्व॒धाम॒जरां॒ सा त॑ ए॒षा।  
-तया॒ त्वं जी॑व श॒रदः॑ सु॒वर्चा॒ मा त॒ आ सु॒स्रोद्भि॒षज॑स्ते अक्रन् ॥
+इ᳓न्द्र एतां᳓ ससृजे विद्धो᳓ अ᳓ग्र ऊर्जां᳓ स्वधा᳓मज᳓रां सा᳓ त एषा᳓।  
+त᳓या त्वं᳓ जीव शर᳓दः सुव᳓र्चा मा᳓ त आ᳓ सुस्रो᳓द्भिष᳓जस्ते अक्रन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/07_indra_etAm.md">

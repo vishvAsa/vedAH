@@ -37,8 +37,8 @@ A prayer for seasonable rain and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/01_ayaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं नो॒ नभ॑स॒स्पतिः॑ सं॒स्फानो॑ अ॒भि र॑क्षतु।  
-अस॑मातिं गृ॒हेषु॑ नः ॥
+अयं᳓ नो न᳓भसस्प᳓तिः संस्फा᳓नो अभि᳓ रक्षतु।  
+अ᳓समातिं गृहे᳓षु नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/079_UrjaHprAptiH/01_ayaM_no.md">
@@ -110,8 +110,8 @@ May this our Lord of Cloudy Sky, bedewed with liquid drops preserve unequalled r
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/02_tvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं नो॒ नभ॑सस्पत॒ ऊर्जं॑ गृ॒हेषु॑ धारय।  
-आ पु॒ष्टमे॒त्वा वसु॑ ॥
+त्वं᳓ नो न᳓भसस्पत ऊ᳓र्जं गृहे᳓षु धारय।  
+आ᳓ पुष्ट᳓मेत्वा᳓ व᳓सु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/079_UrjaHprAptiH/02_tvaM_no.md">
@@ -174,8 +174,8 @@ Lord of the Cloudy Sky, bestow vigour and strength on our abodes. Let wealth and
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/03_deva_saMsphAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-देव॑ सं॒स्फान॑ सहस्रापो॒षस्ये॑शिषे।  
-तस्य॑ नो रास्व॒ तस्य॑ नो धेहि॒ तस्य॑ ते भक्ति॒वांसः॑ स्याम ॥
+दे᳓व संस्फा᳓न सहस्रापोष᳓स्येशिषे।  
+त᳓स्य नो रास्व त᳓स्य नो धेहि त᳓स्य ते भक्तिवां᳓सः स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/079_UrjaHprAptiH/03_deva_saMsphAna.md">

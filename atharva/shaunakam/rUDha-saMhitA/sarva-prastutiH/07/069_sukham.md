@@ -37,8 +37,8 @@ A prayer for prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/069_sukham/01_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॒ वातो॑ वातु॒ शं न॑स्तपतु॒ सूर्यः॑।  
-अहा॑नि॒ शं भ॑वन्तु नः॒ शं रात्री॒ प्रति॑ धीयतां शमु॒षा नो॒ व्यु॑च्छतु ॥
+शं᳓ नो वा᳓तो वातु शं᳓ नस्तपतु सू᳓र्यः।  
+अ᳓हानि शं᳓ भवन्तु नः शं᳓ रा᳓त्री प्र᳓ति धीयतां शमुषा᳓ नो व्यु᳙च्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/069_sukham/01_shaM_no.md">

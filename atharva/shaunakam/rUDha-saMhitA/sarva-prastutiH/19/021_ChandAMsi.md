@@ -37,7 +37,7 @@ A single line giving the names of the chief Vedic metres
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गा॑य॒त्र्यु१॒॑ष्णिग॑नु॒ष्टुब्बृ॑ह॒ती प॒ङ्क्तिस्त्रि॒ष्टुब्जग॑त्यै ॥
+गा᳙यत्र्यु᳙ष्णि᳓गनुष्टु᳓ब्बृहती᳓ पङ्क्ति᳓स्त्रिष्टु᳓ब्ज᳓गत्यै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">

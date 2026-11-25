@@ -37,8 +37,8 @@ A charm against noxious reptiles and insects
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/01_utsUryo_diva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्सूर्यो॑ दि॒व ए॑ति पु॒रो रक्षां॑सि नि॒जूर्व॑न्।  
-आ॑दि॒त्यः पर्व॑तेभ्यो वि॒श्वदृ॑ष्टो अदृष्ट॒हा ॥
+उ᳓त्सू᳓र्यो दिव᳓ एति पुरो᳓ र᳓क्षांसि निजू᳓र्वन्।  
+आ᳙दित्यः᳓ प᳓र्वतेभ्यो विश्व᳓दृष्टो अदृष्टहा᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/052_bhaiShajyam/01_utsUryo_diva.md">
@@ -105,8 +105,8 @@ Slaying the Rakshasas, the Sun mounts upward in the front of heaven, Aditya, fro
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/02_ni_gAvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नि गावो॑ गो॒ष्ठे अ॑सद॒न्नि मृ॒गासो॑ अविक्षत।  
-न्यू॒३॒॑र्मयो॑ न॒दीनं॒ न्य१॒॑दृष्टा॑ अलिप्सत ॥
+नि᳓ गा᳓वो गोष्ठे᳓ असदन्नि᳓ मृगा᳓सो अविक्षत।  
+न्यू᳙र्म᳓यो नदी᳓नं न्य᳙दृ᳓ष्टा अलिप्सत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/052_bhaiShajyam/02_ni_gAvo.md">
@@ -170,8 +170,8 @@ The kine had settled in their pen, wild animals sought their lairs The wavelets 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/03_AyurdadaM_vipashchitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॑यु॒र्ददं॑ विप॒श्चितं॑ श्रु॒तां कण्व॑स्य वी॒रुध॑म्।  
-आभा॑रिषं वि॒श्वभे॑षजीम॒स्यादृष्टा॒न्नि श॑मयत् ॥
+आ᳙युर्द᳓दं विपश्चि᳓तं श्रुतां᳓ क᳓ण्वस्य वीरु᳓धम्।  
+आ᳓भारिषं विश्व᳓भेषजीमस्या᳓दृ᳓ष्टान्नि᳓ शमयत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/052_bhaiShajyam/03_AyurdadaM_vipashchitam.md">

@@ -37,8 +37,8 @@ A charm to accompany the symbolical loosing of sacrificial victims
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/01_yasyAsta_Asani.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्या॑स्त आ॒सनि॑ घो॒रे जु॒होम्ये॒षां ब॒द्धाना॑मव॒सर्ज॑नाय॒ कम्।  
-भूमि॒रिति॑ त्वाभि॒प्रम॑न्वते॒ जना॒ निरृ॑ति॒रिति॑ त्वा॒हं परि॑ वेद स॒र्वतः॑ ॥
+य᳓स्यास्त आस᳓नि घोरे᳓ जुहो᳓म्येषां᳓ बद्धा᳓नामवस᳓र्जनाय क᳓म्।  
+भू᳓मिरि᳓ति त्वाभिप्र᳓मन्वते ज᳓ना नि᳓रृतिरि᳓ति त्वाहं᳓ प᳓रि वेद सर्व᳓तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/084_nirRtimochanam/01_yasyAsta_Asani.md">
@@ -116,8 +116,8 @@ Thou in whose dread mouth I present oblation, that these bound victims may obtai
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/02_bhUte_haviShmatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भूते॑ ह॒विष्म॑ती भवै॒ष ते॑ भा॒गो यो अ॒स्मासु॑।  
-मु॒ञ्चेमान॒मूनेन॑सः॒ स्वाहा॑ ॥
+भू᳓ते हवि᳓ष्मती भवैष᳓ ते भागो᳓ यो᳓ अस्मा᳓सु।  
+मुञ्चे᳓मा᳓नमू᳓ने᳓नसः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/084_nirRtimochanam/02_bhUte_haviShmatI.md">
@@ -179,8 +179,8 @@ Be thou enriched, O Welfare, with oblations, here among us is thine allotted por
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/03_evo_ShvasmannirRte-nehA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒वो ष्व१॒॑स्मन्नि॑रृतेऽने॒हा त्वम॑य॒स्मया॒न्वि चृ॑ता बन्धपा॒शान्।  
-य॒मो मह्यं॒ पुन॒रित्त्वां द॑दाति॒ तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥
+एवो᳓ ष्व᳙स्म᳓न्निरृतेऽनेहा᳓ त्व᳓मयस्म᳓यान्वि᳓ चृता बन्धपाशा᳓न्।  
+यमो᳓ म᳓ह्यं पु᳓नरि᳓त्त्वां᳓ ददाति त᳓स्मै यमा᳓य न᳓मो अस्तु मृत्य᳓वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/084_nirRtimochanam/03_evo_ShvasmannirRte-nehA.md">
@@ -244,8 +244,8 @@ Do thou, Destruction, thus, without a rival, release us from the iron bonds that
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/04_ayasmaye_drupade.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑य॒स्मये॑ द्रुप॒दे बे॑धिष इ॒हाभिहि॑तो मृ॒त्युभि॒र्ये स॒हस्र॑म्।  
-य॒मेन॒ त्वं पि॒तृभिः॑ संविदा॒न उ॑त्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
+अ᳙यस्म᳓ये द्रुपदे᳓ बेधिष इहा᳓भि᳓हितो मृत्यु᳓भिर्ये᳓ सह᳓स्रम्।  
+यमे᳓न त्वं᳓ पितृ᳓भिः संविदान᳓ उत्तमं᳓ ना᳓कम᳓धि रोहयेम᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/084_nirRtimochanam/04_ayasmaye_drupade.md">

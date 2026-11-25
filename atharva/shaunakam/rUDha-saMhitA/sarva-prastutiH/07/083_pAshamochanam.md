@@ -37,8 +37,8 @@ A prayer for deliverance from sin and other evils
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/01_apsu_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒प्सु ते॑ राजन्वरुण गृ॒हो हि॑र॒ण्ययो॑ मि॒थः।  
-ततो॑ धृ॒तव्र॑तो॒ राजा॒ सर्वा॒ धामा॑नि मुञ्चतु ॥
+अप्सु᳓ ते राजन्वरुण गृहो᳓ हिरण्य᳓यो मिथः᳓।  
+त᳓तो धृत᳓व्रतो रा᳓जा स᳓र्वा धा᳓मानि मुञ्चतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/083_pAshamochanam/01_apsu_te.md">
@@ -114,8 +114,8 @@ Stablished amid the waters is, King Varuna, thy golden home. Thence let the Sovr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/02_dhAmnodhAmno_rAjannito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण मुञ्च नः।  
-यदापो॑ अ॒घ्न्या इति॒ वरु॒णेति॒ यदू॑चि॒म ततो॑ वरुण मुञ्च नः ॥
+धा᳓म्नोधाम्नो राजन्नितो᳓ वरुण मुञ्च नः।  
+य᳓दा᳓पो अघ्न्या᳓ इ᳓ति व᳓रुणे᳓ति य᳓दूचिम᳓ त᳓तो वरुण मुञ्च नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/083_pAshamochanam/02_dhAmnodhAmno_rAjannito.md">
@@ -200,19 +200,19 @@ From whatever oath by the waters, by the kine, by Varuna, we have sworn, From th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/03_uduttamaM_varuNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मद्  
-अवा॑ध॒मं वि म॑ध्य॒मं श्र॑थाय ।  
-अधा॑ व॒यम् आ॑दित्य व्र॒ते तवा  
-+ऽना॑गसो॒ अदि॑तये स्याम ॥३॥  
+उ᳓दुत्तमं᳓ वरुण पा᳓शमस्म᳓द्  
+अ᳓वाधमं᳓ वि᳓ मध्यमं᳓ श्रथाय ।  
+अ᳓धा वय᳓म् आदित्य व्रते᳓ त᳓वा᳓  
++ऽनागसो अ᳓दितये स्याम ॥३॥  
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/15_uduttamaM_varuNa.md">
-<details open><summary><h5>१५ उदुत्तमं वरुण ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/15_uduttamaM_varuNa.md">
+<details open><summary><h2>१५ उदुत्तमं वरुण ...{Loading}...</h2></summary>
 
 
-उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मद्  
-अवा॑ध॒मं वि म॑ध्य॒मं श्र॑थाय ।   
-अथा॑ व॒यम् आ॑दित्य व्र॒ते तवा  
-+ऽना॑गसो॒ अदि॑तये स्याम ॥३॥  
+उ᳓द् उत्तमं᳓ वरुण पा᳓शम् अस्म᳓द्  
+अ᳓वाधमं᳓ वि᳓ मध्यमं᳓ श्रथाय  
+अ᳓था वय᳓म् आदितिय व्रते᳓ त᳓व  
+अ᳓नागसो अ᳓दितये सियाम  
 
 </details>
 </div>
@@ -283,8 +283,8 @@ Loosen the bonds, O Varuna, that hold us, loosen the bond. above, between, and u
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/04_prAsmatpAshAnvaruNa_muncha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रास्मत्पाशा॑न्वरुण मुञ्च॒ सर्वा॒न्य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये।  
-दुः॒ष्वप्न्यं॑ दुरि॒तं निः ष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम् ॥
+प्रा᳓स्म᳓त्पा᳓शान्वरुण मुञ्च स᳓र्वान्य᳓ उत्तमा᳓ अधमा᳓ वारुणा᳓ ये᳓।  
+दुःष्व᳓प्न्यं दुरितं᳓ निः᳓ ष्वास्म᳓द᳓थ गच्छेम सुकृत᳓स्य लोक᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/083_pAshamochanam/04_prAsmatpAshAnvaruNa_muncha.md">

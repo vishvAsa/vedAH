@@ -33,8 +33,8 @@ Translated: Ludwig, p. 518; Griffith, i. 301.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/103_shatrunAshanam/01_sandAnaM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं॒दानं॑ वो॒ बृह॒स्पतिः॑ सं॒दानं॑ सवि॒ता क॑रत्।  
-सं॒दानं॑ मि॒त्रो अ॑र्य॒मा सं॒दानं॒ भगो॑ अ॒श्विना॑ ॥
+संदा᳓नं वो बृ᳓हस्प᳓तिः संदा᳓नं सविता᳓ करत्।  
+संदा᳓नं मित्रो᳓ अर्यमा᳓ संदा᳓नं भ᳓गो अश्वि᳓ना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/103_shatrunAshanam/01_sandAnaM_vo.md">
@@ -96,8 +96,8 @@ Brihaspati and Savitar prepare a rope to bind you fast! Let Bhaga, Mitra, Aryama
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं प॑र॒मान्त्सम॑व॒मानथो॒ सं द्या॑मि मध्य॒मान्।  
-इन्द्र॒स्तान्पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम् ॥
+सं᳓ परमा᳓न्त्स᳓मवमा᳓न᳓थो सं᳓ द्यामि मध्यमा᳓न्।  
+इ᳓न्द्रस्ता᳓न्प᳓र्यहार्दा᳓म्ना ता᳓नग्ने सं᳓ द्या त्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
@@ -161,8 +161,8 @@ I bind together all of them, the first, the last, the middlemost. Indra hath gir
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/103_shatrunAshanam/03_amI_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मी ये युध॑मा॒यन्ति॑ के॒तून्कृ॒त्वानी॑क॒शः।  
-इन्द्र॒स्तान्पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम् ॥
+अमी᳓ ये᳓ यु᳓धमाय᳓न्ति केतू᳓न्कृत्वा᳓नीकशः᳓।  
+इ᳓न्द्रस्ता᳓न्प᳓र्यहार्दा᳓म्ना ता᳓नग्ने सं᳓ द्या त्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/103_shatrunAshanam/03_amI_ye.md">

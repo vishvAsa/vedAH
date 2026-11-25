@@ -37,8 +37,8 @@ A prayer for aid and victory in battle
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/01_indrasya_bAhU.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य बा॒हू स्थवि॑रौ॒ वृषा॑णौ चि॒त्रा इ॒मा वृ॑ष॒भौ पा॑रयि॒ष्णू।  
-तौ यो॑क्षे प्रथ॒मो योग॒ आग॑ते॒ याभ्यां॑ जि॒तमसु॑राणां॒ स्व१॒॑र्यत् ॥
+इ᳓न्द्रस्य बाहू᳓ स्थ᳓विरौ वृ᳓षाणौ चित्रा᳓ इमा᳓ वृषभौ᳓ पारयिष्णू᳓।  
+तौ᳓ योक्षे प्रथमो᳓ यो᳓ग आ᳓गते या᳓भ्यां जित᳓म᳓सुराणां स्व᳙र्य᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/01_indrasya_bAhU.md">
@@ -122,8 +122,8 @@ These the two sturdy, manly arms of Indra, these that are won- drous, mighty, an
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/02_AshuH_shishAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒शुः शिशा॑नो वृष॒भो न भी॒मो घ॑नाघ॒नः क्षोभ॑णश्चर्षनीनाम्।  
-सं॒क्रन्द॑नोऽनिमि॒ष ए॑कवी॒रः श॒तं सेना॑ अजयत्सा॒कमिन्द्रः॑ ॥
+आशुः᳓ शि᳓शानो वृषभो᳓ न᳓ भीमो᳓ घनाघनः᳓ क्षो᳓भणश्चर्षनीनाम्।  
+संक्र᳓न्दनोऽनिमिष᳓ एकवीरः᳓ शतं᳓ से᳓ना अजयत्साक᳓मि᳓न्द्रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/02_AshuH_shishAno.md">
@@ -189,8 +189,8 @@ Swift, like a dread bull sharpening his weapons, rapidly striking, stirring up t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/03_sankrandanenAnimiSheNa_jiShNunA-yodhyena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं॒क्रन्द॑नेनानिमि॒षेण॑ जि॒ष्णुना॑ऽयो॒ध्येन॑ दुश्च्यव॒नेन॑ धृ॒ष्णुना॑।  
-तदिन्द्रे॑ण जयत॒ तत्स॑हध्वं॒ युधो॑ नर॒ इषु॑हस्तेन॒ वृष्णा॑ ॥
+संक्र᳓न्दनेनानिमिषे᳓ण जिष्णु᳓नाऽयोध्ये᳓न दुश्च्यवने᳓न धृष्णु᳓ना।  
+त᳓दि᳓न्द्रेण जयत त᳓त्सहध्वं यु᳓धो नर इ᳓षुहस्तेन वृ᳓ष्णा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/03_sankrandanenAnimiSheNa_jiShNunA-yodhyena.md">
@@ -256,8 +256,8 @@ With him loud-roaring, ever watchful, victor bold, hard to over- throw, whom non
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/04_sa_iShuhastaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स इषु॑हस्तैः॒ स नि॑ष॒ङ्गिभि॑र्व॒शी संस्र॑ष्टा॒ स युध॒ इन्द्रो॑ ग॒णेन॑।  
-सं॑सृष्ट॒जित्सो॑म॒पा बा॑हुश॒र्ध्यु१॒॑ग्रध॑न्वा॒ प्रति॑हिताभि॒रस्ता॑ ॥
+स᳓ इ᳓षुहस्तैः स᳓ निषङ्गि᳓भिर्वशी᳓ सं᳓स्रष्टा स᳓ यु᳓ध इ᳓न्द्रो गणे᳓न।  
+सं᳙सृष्टजि᳓त्सोमपा᳓ बाहुशर्ध्यु᳙ग्र᳓धन्वा प्र᳓तिहिताभिर᳓स्ता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/04_sa_iShuhastaiH.md">
@@ -330,8 +330,8 @@ He rules with those who carry shafts and quivers, Indra who with his hand brings
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/05_balavijnAyaH_sthaviraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब॑लविज्ञा॒यः स्थवि॑रः॒ प्रवी॑रः॒ सह॑स्वान्वा॒जी सह॑मान उ॒ग्रः।  
-अ॒भिवी॑रो अ॒भिष॑त्वा सहो॒जिज्जैत्र॑मिन्द्र॒ रथ॒मा ति॑ष्ठ गो॒विद॑म् ॥
+ब᳙लविज्ञायः᳓ स्थ᳓विरः प्र᳓वीरः स᳓हस्वान्वाजी᳓ स᳓हमान उग्रः᳓।  
+अभि᳓वीरो अभि᳓षत्वा सहोजि᳓ज्जै᳓त्रमिन्द्र र᳓थमा᳓ तिष्ठ गोवि᳓दम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/05_balavijnAyaH_sthaviraH.md">
@@ -409,8 +409,8 @@ Conspicuous by thy strength, firm, foremost fighter, mighty and fierce, victorio
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/06_imaM_vIramanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मं वी॒रमनु॑ हर्षध्वमु॒ग्रमिन्द्रं॑ सखायो॒ अनु॒ सं र॑भध्वम्।  
-ग्रा॑म॒जितं॑ गो॒जितं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा ॥
+इमं᳓ वीर᳓म᳓नु हर्षध्वमुग्र᳓मि᳓न्द्रं सखायो अ᳓नु सं᳓ रभध्वम्।  
+ग्रा᳙मजि᳓तं गोजि᳓तं व᳓ज्रबाहुं ज᳓यन्तम᳓ज्म प्रमृण᳓न्तमो᳓जसा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/06_imaM_vIramanu.md">
@@ -478,8 +478,8 @@ Troop-vanquisher, kine-winner, armed with thunder, who quells an army and with m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/07_abhi_gotrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि गो॒त्राणि॒ सह॑सा॒ गाह॑मानोऽदा॒य उ॒ग्रः श॒तम॑न्यु॒रिन्द्रः॑।  
-दु॑श्च्यव॒नः पृ॑तना॒षाड॑यो॒ध्यो॒३॒॑ऽस्माकं॒ सेना॑ अवतु॒ प्र यु॒त्सु ॥
+अभि᳓ गोत्रा᳓णि स᳓हसा गा᳓हमानोऽदाय᳓ उग्रः᳓ शत᳓मन्युरि᳓न्द्रः।  
+दु᳙श्च्यवनः᳓ पृतनाषा᳓डयोध्यो᳙ऽस्मा᳓कं से᳓ना अवतु प्र᳓ युत्सु᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/07_abhi_gotrANi.md">
@@ -553,8 +553,8 @@ Piercing the cow-stalls with surpassing vigour, Indra the pitiless hero, wild wi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/08_bRhaspate_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृह॑स्पते॒ परि॑ दीया॒ रथे॑न रक्षो॒हामित्राँ॑ अप॒बाध॑मानः।  
-प्र॑भ॒ञ्जञ्छत्रू॑न्प्रमृ॒णन्न॒मित्रा॑न॒स्माक॑मेध्यवि॒ता त॒नूना॑म् ॥
+बृ᳓हस्पते प᳓रि दीया र᳓थेन रक्षोहा᳓मि᳓त्राँ अपबा᳓धमानः।  
+प्र᳙भञ्ज᳓ञ्छ᳓त्रून्प्रमृण᳓न्नमि᳓त्रानस्मा᳓कमेध्यविता᳓ तनू᳓नाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/08_bRhaspate_pari.md">
@@ -622,8 +622,8 @@ Brihaspati, fly with thy chariot hither, slayer of demons, driving. off our foem
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/09_indra_eShAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑ एषां ने॒ता बृह॒स्पति॒र्दक्षि॑णा य॒ज्ञः पु॒र ए॑तु॒ सोमः॑।  
-दे॑वसे॒नाना॑मभिभञ्जती॒नां जय॑न्तीनां म॒रुतो॑ यन्तु॒ मध्ये॑ ॥
+इ᳓न्द्र एषां नेता᳓ बृ᳓हस्प᳓तिर्द᳓क्षिणा यज्ञः᳓ पुर᳓ एतु सो᳓मः।  
+दे᳙वसेना᳓नामभिभञ्जतीनां᳓ ज᳓यन्तीनां मरु᳓तो यन्तु म᳓ध्ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/09_indra_eShAm.md">
@@ -693,8 +693,8 @@ Indra guide these! Brihaspati, the Guerdon, and Soma, and the Sacrifice precede 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/10_indrasya_vRShNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य॒ वृष्णो॒ वरु॑णस्य॒ राज्ञ॑ आदि॒त्यानां॑ म॒रुतां॒ शर्ध॑ उ॒ग्रम्।  
-म॒हाम॑नसां भुवनच्य॒वानां॒ घोषो॑ दे॒वानां॒ जय॑ता॒मुद॑स्थात् ॥
+इ᳓न्द्रस्य वृ᳓ष्णो व᳓रुणस्य रा᳓ज्ञ आदित्या᳓नां मरु᳓तां श᳓र्ध उग्र᳓म्।  
+महा᳓मनसां भुवनच्यवा᳓नां घो᳓षो देवा᳓नां ज᳓यतामु᳓दस्थात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/10_indrasya_vRShNo.md">
@@ -756,8 +756,8 @@ Ours be the potent host of mighty Indra, King Varuna, and Maruts and Adityas. Up
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/11_asmAkamindraH_samRteShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्माक॒मिन्द्रः॒ समृ॑तेषु ध्व॒जेष्व॒स्माकं॒ या इष॑व॒स्ता ज॑यन्तु।  
-अ॒स्माकं॑ वी॒रा उत्त॑रे भवन्त्व॒स्मान्दे॑वासोऽवता॒ हवे॑षु ॥
+अस्मा᳓कमि᳓न्द्रः स᳓मृतेषु ध्वजे᳓ष्वस्मा᳓कं या᳓ इ᳓षवस्ता᳓ जयन्तु।  
+अस्मा᳓कं वीरा᳓ उ᳓त्तरे भवन्त्वस्मा᳓न्देवासोऽवता ह᳓वेषु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/11_asmAkamindraH_samRteShu.md">

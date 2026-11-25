@@ -33,8 +33,8 @@ Translated: Henry, 43, 121; Griffith, i. 381.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/01_agna_indrashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्न॒ इन्द्र॑श्च दा॒शुषे॑ ह॒तो वृ॒त्राण्य॑प्र॒ति।  
-उ॒भा हि वृ॑त्र॒हन्त॑मा ॥
+अ᳓ग्न इ᳓न्द्रश्च दाशु᳓षे हतो᳓ वृत्रा᳓ण्यप्रति᳓।  
+उभा᳓ हि᳓ वृत्रह᳓न्तमा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/110_shatrunAshanam/01_agna_indrashcha.md">
@@ -103,8 +103,8 @@ Resistless, Agni, Indra, smite his foemen for the worshipper, For best foe-slaye
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/02_yAbhyAmajayantsvaragra_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याभ्या॒मज॑य॒न्त्स्व१॒॑रग्र॑ ए॒व यावा॑त॒स्थतु॒र्भुव॑नानि॒ विश्वा॑।  
-प्र च॑र्ष॒णी वृष॑णा॒ वज्र॑बाहू अ॒ग्निमिन्द्रं॑ वृत्र॒हणा॑ हुवे॒ऽहम् ॥
+या᳓भ्याम᳓जयन्त्स्व᳙र᳓ग्र एव᳓ या᳓वातस्थ᳓तुर्भु᳓वनानि वि᳓श्वा।  
+प्र᳓ चर्षणी᳓ वृ᳓षणा व᳓ज्रबाहू अग्नि᳓मि᳓न्द्रं वृत्रह᳓णा हुवेऽह᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/110_shatrunAshanam/02_yAbhyAmajayantsvaragra_eva.md">
@@ -178,8 +178,8 @@ Agni I call, and Indra, foe-destroyers, swift moving, heroes, Gods who wield the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/03_upa_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑ त्वा दे॒वो अ॑ग्रभीच्चम॒सेन॒ बृह॒स्पतिः॑।  
-इन्द्र॑ गी॒र्भिर्न॒ आ वि॑श॒ यज॑मानाय सुन्व॒ते ॥
+उ᳓प त्वा देवो᳓ अग्रभीच्चमसे᳓न बृ᳓हस्प᳓तिः।  
+इ᳓न्द्र गीर्भि᳓र्न आ᳓ विश य᳓जमानाय सुन्वते᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/110_shatrunAshanam/03_upa_tvA.md">

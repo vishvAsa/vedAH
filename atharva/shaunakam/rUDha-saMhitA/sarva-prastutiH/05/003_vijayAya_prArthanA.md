@@ -33,8 +33,8 @@ A prayer to Agni, Indra, and other deities for victory and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/01_mamAgne_varcho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ममा॑ग्ने॒ वर्चो॑ विह॒वेष्व॑स्तु व॒यं त्वेन्धा॑नास्त॒न्वं॑ पुषेम।  
-मह्यं॑ नमन्तां प्र॒दिश॒श्चत॑स्र॒स्त्वयाध्य॑क्षेण॒ पृत॑ना जयेम ॥
+म᳓माग्ने व᳓र्चो विहवे᳓ष्वस्तु वयं᳓ त्वे᳓न्धानास्तन्वं᳙ पुषेम।  
+म᳓ह्यं नमन्तां प्रदि᳓शश्च᳓तस्रस्त्व᳓या᳓ध्यक्षेण पृ᳓तना जयेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/01_mamAgne_varcho.md">
@@ -97,8 +97,8 @@ Let strength be mine while I invoke thee, Agni! enkindling thee may we support o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/02_agne_manyum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॑ म॒न्युं प्र॑तिनु॒दन्परे॑षां॒ त्वं नो॑ गो॒पाः परि॑ पाहि वि॒श्वतः॑।  
-अपा॑ञ्चो यन्तु नि॒वता॑ दुर॒स्यवो॒ऽमैषां॑ चि॒त्तं प्र॒बुधां॒ वि ने॑शत् ॥
+अ᳓ग्ने मन्युं᳓ प्रतिनुद᳓न्प᳓रेषां त्वं᳓ नो गोपाः᳓ प᳓रि पाहि विश्व᳓तः।  
+अ᳓पाञ्चो यन्तु निव᳓ता दुरस्य᳓वोऽमै᳓षां चित्तं᳓ प्रबु᳓धां वि᳓ नेशत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/02_agne_manyum.md">
@@ -167,8 +167,8 @@ Baffling the range of our opponents, Agni! guard us as our protector round about
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/03_mama_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मम॑ दे॒वा वि॑ह॒वे स॑न्तु॒ सर्व॒ इन्द्र॑वन्तो म॒रुतो॒ विष्णु॑र॒ग्निः।  
-ममा॒न्तरि॑क्षमु॒रुलो॑कमस्तु॒ मह्यं॒ वातः॑ पवतां॒ कामा॑या॒स्मै ॥
+म᳓म देवा᳓ विहवे᳓ सन्तु स᳓र्व इ᳓न्द्रवन्तो मरु᳓तो वि᳓ष्णुरग्निः᳓।  
+म᳓मान्त᳓रिक्षमुरु᳓लोकमस्तु म᳓ह्यं वा᳓तः पवतां का᳓मायास्मै᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/03_mama_devA.md">
@@ -232,8 +232,8 @@ May all the Gods be on my side in battle, the Maruts led by Indra, Vishnu, Agni.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/04_mahyaM_yajantAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मह्यं॑ यजन्तां॒ मम॒ यानी॒ष्टाकू॑तिः स॒त्या मन॑सो मे अस्तु।  
-एनो॒ मा नि गां॑ कत॒मच्च॑ना॒हं विश्वे॑ दे॒वा अ॒भि र॑क्षन्तु मे॒ह ॥
+म᳓ह्यं यजन्तां म᳓म या᳓नीष्टा᳓कूतिः सत्या᳓ म᳓नसो मे अस्तु।  
+ए᳓नो मा᳓ नि᳓ गां कतम᳓च्चनाहं᳓ वि᳓श्वे देवा᳓ अभि᳓ रक्षन्तु मेह᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/04_mahyaM_yajantAm.md">
@@ -297,8 +297,8 @@ For me let them present all mine oblations, and let my mind's intention be accom
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/05_mayi_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मयि॑ दे॒वा द्रवि॑ण॒मा य॑जन्तां॒ मय्या॒शीर॑स्तु॒ मयि॑ दे॒वहू॑तिः।  
-दै॒वा होता॑रः सनिषन्न ए॒तदरि॑ष्टाः स्याम त॒न्वा॑ सु॒वीराः॑ ॥
+म᳓यि देवा᳓ द्र᳓विणमा᳓ यजन्तां म᳓य्याशी᳓रस्तु म᳓यि देव᳓हूतिः।  
+दैवा᳓ हो᳓तारः सनिषन्न एत᳓द᳓रिष्टाः स्याम तन्वा᳙ सुवी᳓राः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/05_mayi_devA.md">
@@ -364,8 +364,8 @@ May the Gods grant me riches, may the blessing and invocation of the Gods assist
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/06_daivIH_ShaDurvIruru.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दैवीः॑ षडुर्वीरु॒रु नः॑ कृणोत॒ विश्वे॑ देवास इ॒ह मा॑दयध्वम्।  
-मा नो॑ विददभि॒भा मो अश॑स्ति॒र्मा नो॑ विदद्वृजि॒ना द्वेष्या॒ या ॥
+दै᳓वीः षडुर्वीरुरु᳓ नः कृणोत वि᳓श्वे देवास इह᳓ मादयध्वम्।  
+मा᳓ नो विददभिभा᳓ मो᳓ अ᳓शस्तिर्मा᳓ नो विदद्वृजिना᳓ द्वे᳓ष्या या᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/06_daivIH_ShaDurvIruru.md">
@@ -441,8 +441,8 @@ Ye six divine Expanses, give us freedom. Here, all ye Gods, acquit yourselves li
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/07_tisro_devIrmahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तिस्रो॑ देवी॒र्महि॑ नः॒ शर्म॑ यच्छत प्र॒जायै॑ नस्त॒न्वे॒३॒॑ यच्च॑ पु॒ष्टम्।  
-मा हा॑स्महि प्र॒जया॒ मा त॒नूभि॒र्मा र॑धाम द्विष॒ते सो॑म राजन् ॥
+ति᳓स्रो देवीर्म᳓हि नः श᳓र्म यच्छत प्रजा᳓यै नस्तन्वे᳙ य᳓च्च पुष्ट᳓म्।  
+मा᳓ हास्महि प्रज᳓या मा᳓ तनू᳓भिर्मा᳓ रधाम द्विषते᳓ सोम राजन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/07_tisro_devIrmahi.md">
@@ -511,8 +511,8 @@ Do ye three Goddesses give ample shelter and all success to us ourselves and chi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/08_uruvyachA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑रु॒व्यचा॑ नो महि॒षः शर्म॑ यच्छत्व॒स्मिन्हवे॑ पुरुहू॒तः पु॑रु॒क्षु।  
-स नः॑ प्र॒जायै॑ हर्यश्व मृ॒डेन्द्र॒ मा नो॑ रीरिषो॒ मा परा॑ दाः ॥
+उ᳙रुव्य᳓चा नो महिषः᳓ श᳓र्म यच्छत्वस्मि᳓न्ह᳓वे पुरुहूतः᳓ पुरुक्षु᳓।  
+स᳓ नः प्रजा᳓यै हर्यश्व मृडे᳓न्द्र मा᳓ नो रीरिषो मा᳓ प᳓रा दाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/08_uruvyachA_no.md">
@@ -579,8 +579,8 @@ Foodful and much-invoked, at this our calling may the far- reaching Bull grant u
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/09_dhAtA_vidhAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धा॒ता वि॑धा॒ता भुव॑नस्य॒ यस्पति॑र्दे॒वः स॑वि॒ताभि॑मातिषा॒हः।  
-आ॑दि॒त्या रु॒द्रा अ॒श्विनो॒भा दे॒वाः पा॑न्तु॒ यज॑मानं निरृ॒थात् ॥
+धाता᳓ विधाता᳓ भु᳓वनस्य य᳓स्प᳓तिर्देवः᳓ सविता᳓भिमातिषाहः᳓।  
+आ᳙दित्या᳓ रुद्रा᳓ अश्वि᳓नोभा᳓ देवाः᳓ पान्तु य᳓जमानं निरृथा᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/09_dhAtA_vidhAtA.md">
@@ -650,8 +650,8 @@ Lord of the world, Creator and Disposer, may the God Savitar who quells assailan
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/10_ye_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये नः॑ स॒पत्ना॒ अप॒ ते भ॑वन्त्विन्द्रा॒ग्निभ्या॒मव॑ बाधामह एनान्।  
-आ॑दि॒त्या रु॒द्रा उ॑परि॒स्पृशो॑ नो उ॒ग्रं चे॒त्तार॑मधिरा॒जम॑क्रत ॥
+ये᳓ नः सप᳓त्ना अ᳓प ते᳓ भवन्त्विन्द्राग्नि᳓भ्याम᳓व बाधामह एनान्।  
+आ᳙दित्या᳓ रुद्रा᳓ उपरिस्पृ᳓शो नो उग्रं᳓ चेत्ता᳓रमधिराज᳓मक्रत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/10_ye_naH.md">
@@ -723,8 +723,8 @@ Let those who are our foemen stay afar from us: with Indra and with Agni we will
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/11_arvAnchamindramamuto_havAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒र्वाञ्च॒मिन्द्र॑म॒मुतो॑ हवामहे॒ यो गो॒जिद्ध॑न॒जिद॑श्व॒जिद्यः।  
-इ॒मं नो॑ य॒ज्ञं वि॑ह॒वे शृ॑णोत्व॒स्माक॑मभूर्हर्यश्व मे॒दी ॥
+अर्वा᳓ञ्चमि᳓न्द्रममु᳓तो हवामहे यो᳓ गोजि᳓द्धनजि᳓दश्वजि᳓द्यः᳓।  
+इमं᳓ नो यज्ञं᳓ विहवे᳓ शृणोत्वस्मा᳓कमभूर्हर्यश्व मेदी᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/11_arvAnchamindramamuto_havAmahe.md">

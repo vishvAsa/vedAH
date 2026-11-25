@@ -37,8 +37,8 @@ A man's love-charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/01_yathedaM_bhUmyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथे॒दं भूम्या॒ अधि॒ तृणं॒ वातो॑ मथा॒यति॑।  
-ए॒वा म॑थ्नामि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+य᳓थेदं᳓ भू᳓म्या अ᳓धि तृ᳓णं वा᳓तो मथाय᳓ति।  
+एवा᳓ मथ्नामि ते म᳓नो य᳓था मां᳓ कामि᳓न्य᳓सो य᳓था म᳓न्ना᳓पगा अ᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/030_kAminImano_abhimukhIkaraNam/01_yathedaM_bhUmyA.md">
@@ -106,8 +106,8 @@ As the wind shake this Tuft of Grass hither and thither on the ground. So do I s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/02_saM_chennayAtho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं चेन्नया॑थो अश्विना का॒मिना॒ सं च॒ वक्ष॑थः।  
-सं वां॒ भगा॑सो अग्मत॒ सं चि॒त्तानि॒ समु॑ व्र॒ता ॥
+सं᳓ चे᳓न्न᳓याथो अश्विना कामि᳓ना सं᳓ च व᳓क्षथः।  
+सं᳓ वां भ᳓गासो अग्मत सं᳓ चित्ता᳓नि स᳓मु व्रता᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/030_kAminImano_abhimukhIkaraNam/02_saM_chennayAtho.md">
@@ -185,8 +185,8 @@ Ye, Asvins, lead together, ye unite and bring the loving pair. Now have the fort
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/03_yatsuparNA_vivaxavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्सु॑प॒र्णा वि॑व॒क्षवो॑ अनमी॒वा वि॑व॒क्षवः॑।  
-तत्र॑ मे गछता॒द्धवं॑ श॒ल्य इ॑व॒ कुल्म॑लं॒ यथा॑ ॥
+य᳓त्सुपर्णा᳓ विवक्ष᳓वो अनमीवा᳓ विवक्ष᳓वः।  
+त᳓त्र मे गछताद्ध᳓वं शल्य᳓ इव कु᳓ल्मलं य᳓था ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/030_kAminImano_abhimukhIkaraNam/03_yatsuparNA_vivaxavo.md">
@@ -255,8 +255,8 @@ When eagles, calling out aloud, are screaming in the joy of health, Then to my c
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/04_yadantaraM_tadbAhyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदन्त॑रं॒ तद्बाह्यं॒ यद्बाह्यं॒ तदन्त॑रम्।  
-क॒न्या॑नां वि॒श्वरू॑पाणां॒ मनो॑ गृभायौषधे ॥
+य᳓द᳓न्तरं त᳓द्बा᳓ह्यं य᳓द्बा᳓ह्यं त᳓द᳓न्तरम्।  
+कन्या᳙नां विश्व᳓रूपाणां म᳓नो गृभायौषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/030_kAminImano_abhimukhIkaraNam/04_yadantaraM_tadbAhyam.md">
@@ -321,8 +321,8 @@ Let what is inward turn outside, let what is outward be within: Seize and posses
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/05_eyamaganpatikAmA_janikAmo-hamAgamam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एयम॑ग॒न्पति॑कामा॒ जनि॑कामो॒ऽहमाग॑मम्।  
-अश्वः॒ कनि॑क्रद॒द्यथा॒ भगे॑ना॒हं स॒हाग॑मम् ॥
+ए᳓य᳓मगन्प᳓तिकामा ज᳓निकामोऽह᳓मा᳓गमम्।  
+अ᳓श्वः क᳓निक्रदद्य᳓था भ᳓गेनाहं᳓ सहा᳓गमम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/030_kAminImano_abhimukhIkaraNam/05_eyamaganpatikAmA_janikAmo-hamAgamam.md">

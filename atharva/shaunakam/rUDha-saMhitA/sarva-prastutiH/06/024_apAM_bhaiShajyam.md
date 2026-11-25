@@ -37,8 +37,8 @@ To the Rivers
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/024_apAM_bhaiShajyam/01_himavataH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॒मव॑तः॒ प्र स्र॑वन्ति॒ सिन्धौ॑ समह सङ्ग॒मः।  
-आपो॑ ह॒ मह्यं॒ तद्दे॒वीर्दद॑न्हृ॒द्द्योत॑भेष॒जम् ॥
+हिम᳓वतः प्र᳓ स्रवन्ति सि᳓न्धौ समह सङ्गमः᳓।  
+आ᳓पो ह म᳓ह्यं त᳓द्देवी᳓र्द᳓दन्हृद्द्यो᳓तभेषज᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/01_himavataH_pra.md">
@@ -104,8 +104,8 @@ Forth from the Hills of Snow they stream, and meet in Sindhu here or there. To m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/024_apAM_bhaiShajyam/02_yanme_axyorAdidyota.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यन्मे॑ अ॒क्ष्योरा॑दि॒द्योत॒ पार्ष्ण्योः॒ प्रप॑दोश्च॒ यत्।  
-आप॒स्तत्सर्वं॒ निष्क॑रन्भि॒षजां॒ सुभि॑षक्तमाः ॥
+य᳓न्मे अक्ष्यो᳓रादिद्यो᳓त पा᳓र्ष्ण्योः प्र᳓पदोश्च य᳓त्।  
+आ᳓पस्त᳓त्स᳓र्वं नि᳓ष्करन्भिष᳓जां सु᳓भिषक्तमाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/02_yanme_axyorAdidyota.md">
@@ -172,8 +172,8 @@ Whatever rupture I have had that injured eyes or heels or toes. All this the Wat
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सि॑न्धुपत्नीः॒ सिन्धु॑राज्ञीः॒ सर्वा॒ या न॒द्य१॒॑ स्थन॑।  
-द॒त्त न॒स्तस्य॑ भेष॒जं तेना॑ वो भुनजामहै ॥
+सि᳙न्धुपत्नीः सि᳓न्धुराज्ञीः स᳓र्वा या᳓ नद्य᳙ स्थ᳓न।  
+दत्त᳓ नस्त᳓स्य भेषजं᳓ ते᳓ना वो भुनजामहै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">

@@ -37,8 +37,8 @@ To Agni and Vishnu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/029_agnAviShNU/01_agnAviShNU_mahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ना॑विष्णू॒ महि॒ तद्वां॑ महि॒त्वं पा॒थो घृ॒तस्य॒ गुह्य॑स्य॒ नाम॑।  
-दमे॑दमे स॒प्त रत्ना॒ दधा॑नौ॒ प्रति॑ वां जि॒ह्वा घृ॒तमा च॑रण्यात् ॥
+अ᳓ग्नाविष्णू म᳓हि त᳓द्वां महित्वं᳓ पाथो᳓ घृत᳓स्य गु᳓ह्यस्य ना᳓म।  
+द᳓मेदमे सप्त᳓ र᳓त्ना द᳓धानौ प्र᳓ति वां जिह्वा᳓ घृत᳓मा᳓ चरण्यात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/029_agnAviShNU/01_agnAviShNU_mahi.md">
@@ -114,8 +114,8 @@ This is your glorious might, Agni and Vishnu! Ye drink the essence of the mystic
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/029_agnAviShNU/02_agnAviShNU_mahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यं वां॑ वी॒थो घृ॒तस्य॒ गुह्या॑ जुषा॒णौ।  
-दमे॑दमे सुष्टु॒त्या वा॑वृधा॒नौ प्रति॑ वां जि॒ह्वा घृ॒तमुच्च॑रण्यात् ॥
+अ᳓ग्नाविष्णू म᳓हि धा᳓म प्रियं᳓ वां वीथो᳓ घृत᳓स्य गु᳓ह्या जुषाणौ᳓।  
+द᳓मेदमे सुष्टुत्या᳓ वावृधानौ᳓ प्र᳓ति वां जिह्वा᳓ घृत᳓मु᳓च्चरण्यात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/029_agnAviShNU/02_agnAviShNU_mahi.md">

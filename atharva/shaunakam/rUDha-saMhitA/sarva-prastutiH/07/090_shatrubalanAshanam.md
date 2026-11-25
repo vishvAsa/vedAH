@@ -33,8 +33,8 @@ Translated: Henry, 37, 107; Griffith, i. 374 and 475.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/01_api_vRshcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपि॑ वृश्च पुराण॒वद्व्र॒तते॑रिव गुष्पि॒तम्।  
-ओजो॑ दा॒स्यस्य॑ दम्भय ॥
+अ᳓पि वृश्च पुराणव᳓द्व्रत᳓तेरिव गुष्पित᳓म्।  
+ओ᳓जो दास्य᳓स्य दम्भय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/090_shatrubalanAshanam/01_api_vRshcha.md">
@@ -105,8 +105,8 @@ Tear thou asunder, as of old, like tangles of a creeping plant. Demolish thou th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/02_vayaM_tadasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व॒यं तद॑स्य॒ सम्भृ॑तं॒ वस्विन्द्रे॑ण॒ वि भ॑जामहै।  
-म्ला॒पया॑मि भ्र॒जः शि॒भ्रं वरु॑णस्य व्र॒तेन॑ ते ॥
+वयं᳓ त᳓दस्य स᳓म्भृतं व᳓स्वि᳓न्द्रेण वि᳓ भजामहै।  
+म्लाप᳓यामि भ्रजः᳓ शिभ्रं᳓ व᳓रुणस्य व्रते᳓न ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/090_shatrubalanAshanam/02_vayaM_tadasya.md">
@@ -176,9 +176,9 @@ May we with Indra's help divide the gathered treasure of the foe. I, by the law 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/03_yathA_shepo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ शेपो॑ अ॒पाया॑तै स्त्री॒षु चास॒दना॑वयाः ।  
-अ॒व॒स्थस्य॑ क्न॒दीव॑तः शाङ्-कु॒रस्य॑ नितो॒दिनः॑ ।  
-यदात॑त॒मव॒ तत् त॑नु॒ यदुत्त॑तं॒ नि तत् त॑नु ॥३॥
+य᳓था शे᳓पो अपा᳓यातै स्त्रीषु᳓ चा᳓सद᳓नावयाः ।  
+अवस्थ᳓स्य क्नदी᳓वतः शाङ्-कुर᳓स्य नितोदि᳓नः ।  
+य᳓दा᳓ततम᳓व त᳓त् तनु य᳓दु᳓त्ततं नि᳓ त᳓त् तनु ॥३॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/090_shatrubalanAshanam/03_yathA_shepo.md">

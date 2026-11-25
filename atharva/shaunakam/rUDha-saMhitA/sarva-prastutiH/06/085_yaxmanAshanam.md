@@ -37,8 +37,8 @@ A charm against Consumption
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/085_yaxmanAshanam/01_varaNo_vArayAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व॑र॒णो वा॑रयाता अ॒यं दे॒वो वन॒स्पतिः॑।  
-यक्ष्मो॒ यो अ॒स्मिन्नावि॑ष्ट॒स्तमु॑ दे॒वा अ॑वीवरन् ॥
+व᳙रणो᳓ वारयाता अयं᳓ देवो᳓ व᳓नस्प᳓तिः।  
+य᳓क्ष्मो यो᳓ अस्मि᳓न्ना᳓विष्टस्त᳓मु देवा᳓ अवीवरन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/085_yaxmanAshanam/01_varaNo_vArayAtA.md">
@@ -101,8 +101,8 @@ Let Varana the heavenly tree here present keep disease away. The Gods have drive
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/085_yaxmanAshanam/02_indrasya_vachasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य॒ वच॑सा व॒यं मि॒त्रस्य॒ वरु॑णस्य च।  
-दे॒वानां॒ सर्वे॑षां वा॒चा यक्ष्मं॑ ते वारयामहे ॥
+इ᳓न्द्रस्य व᳓चसा वयं᳓ मित्र᳓स्य व᳓रुणस्य च।  
+देवा᳓नां स᳓र्वेषां वाचा᳓ य᳓क्ष्मं ते वारयामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/085_yaxmanAshanam/02_indrasya_vachasA.md">
@@ -162,8 +162,8 @@ We with the speech of Indra and of Mitra and of Varuna. We with the speech of al
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/085_yaxmanAshanam/03_yathA_vRtra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ वृ॒त्र इ॒मा आप॑स्त॒स्तम्भ॑ वि॒श्वधा॑ य॒तीः।  
-ए॒वा ते॑ अ॒ग्निना॒ यक्ष्मं॑ वैश्वान॒रेण॑ वारये ॥
+य᳓था वृत्र᳓ इमा᳓ आ᳓पस्तस्त᳓म्भ विश्व᳓धा यतीः᳓।  
+एवा᳓ ते अग्नि᳓ना य᳓क्ष्मं वैश्वानरे᳓ण वारये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/085_yaxmanAshanam/03_yathA_vRtra.md">

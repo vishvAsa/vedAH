@@ -33,8 +33,8 @@ A charm against dysentery
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/01_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॒ भूरि॑धायसम्।  
-वि॒द्मो ष्व॑स्य मा॒तरं॑ पृथि॒वीं भूरि॑वर्पसम् ॥
+विद्मा᳓ शर᳓स्य पित᳓रं पर्ज᳓न्यं भू᳓रिधायसम्।  
+विद्मो᳓ ष्वस्य मात᳓रं पृथिवीं᳓ भू᳓रिवर्पसम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/01_vidmA_sharasya.md">
@@ -96,8 +96,8 @@ We know the father of the shaft, Parjanya, liberal nourisher, Know well his moth
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/02_jyAke_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज्या॑के॒ परि॑ णो न॒माश्मा॑नं त॒न्वं कृधि।  
-वी॒डुर्वरी॒यो ऽरा॑ती॒रप॒ द्वेषां॒स्या कृ॑धि ॥
+ज्या᳙के प᳓रि णो नमा᳓श्मानं तन्वं᳓ कृ᳓धि᳓।  
+वीडु᳓र्व᳓रीयो᳓ ऽरातीर᳓प द्वे᳓षांस्या᳓ कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/02_jyAke_pari.md">
@@ -161,8 +161,8 @@ Do thou, O Bowstring, bend thyself around us: make my body stone. Firm in thy st
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/03_vRxaM_yadgAvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वृ॒क्षं यद्गावः॑ परिषस्वजा॒ना अ॑नुस्फु॒रं श॒रमर्च॑न्त्यृ॒भुम्।  
-शरु॑म॒स्मद्या॑वय दि॒द्युमि॑न्द्र ॥
+वृक्षं᳓ य᳓द्गा᳓वः परिषस्वजाना᳓ अनुस्फुरं᳓ शर᳓म᳓र्चन्त्यृभु᳓म्।  
+श᳓रुमस्म᳓द्यावय दिद्यु᳓मिन्द्र ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/03_vRxaM_yadgAvaH.md">
@@ -227,8 +227,8 @@ When, closely clinging round the wood, the bowstring sings triumph to the swift 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/04_yathA_dyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ द्यां च॑ पृथि॒वीं चा॒न्तस्तिष्ठ॑ति॒ तेज॑नम्।  
-ए॒वा रोगं॑ चास्रा॒वं चा॒न्तस्ति॑ष्ठतु॒ मुञ्ज॒ इत् ॥
+य᳓था द्यां᳓ च पृथिवीं᳓ चान्त᳓स्ति᳓ष्ठति ते᳓जनम्।  
+एवा᳓ रो᳓गं चास्रावं᳓ चान्त᳓स्तिष्ठतु मु᳓ञ्ज इ᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/04_yathA_dyAm.md">

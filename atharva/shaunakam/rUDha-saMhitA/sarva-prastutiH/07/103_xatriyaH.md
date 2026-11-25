@@ -33,8 +33,8 @@ Translated: Ludwig, p. 269; Henry, 41, 116; Griffith, i. 378.—Cf. Bloomfield, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/103_xatriyaH/01_ko_asyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-को अ॒स्या नो॑ द्रु॒हो᳡व॒द्यव॑त्या॒ उन्ने॑ष्यति क्ष॒त्रियो॒ वस्य॑ इ॒च्छन्।  
-को य॒ज्ञका॑मः॒ क उ॒ पूर्ति॑कामः॒ को दे॒वेषु॑ वनुते दी॒र्घमायुः॑ ॥
+को᳓ अस्या᳓ नो द्रुहो᳙वद्य᳓वत्या उ᳓न्नेष्यति क्षत्रि᳓यो व᳓स्य इच्छ᳓न्।  
+को᳓ यज्ञ᳓कामः क᳓ उ पू᳓र्तिकामः को᳓ देवे᳓षु वनुते दीर्घ᳓मा᳓युः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/103_xatriyaH/01_ko_asyA.md">

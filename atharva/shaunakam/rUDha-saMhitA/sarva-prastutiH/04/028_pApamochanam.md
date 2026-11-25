@@ -37,8 +37,8 @@ A hymn to Bhava and Sarva
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/01_bhavAsharvau_manve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भवा॑शर्वौ म॒न्वे वां॒ तस्य॑ वित्तं॒ ययो॑र्वामि॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+भ᳓वाशर्वौ मन्वे᳓ वां त᳓स्य वित्तं य᳓योर्वामिदं᳓ प्रदि᳓शि य᳓द्विरो᳓चते।  
+या᳓वस्ये᳓शाथे द्विप᳓दो यौ᳓ च᳓तुष्पदस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/01_bhavAsharvau_manve.md">
@@ -105,8 +105,8 @@ I Reverence you--mark this--Bhava and Sarva, ye under whose control is this that
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ययो॑रभ्य॒ध्व उ॒त यद्दू॒रे चि॒द्यौ वि॑दि॒तावि॑षु॒भृता॒मसि॑ष्ठौ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+य᳓योरभ्यध्व᳓ उत᳓ य᳓द्दूरे᳓ चिद्यौ᳓ विदिता᳓विषुभृ᳓ताम᳓सिष्ठौ।  
+या᳓वस्ये᳓शाथे द्विप᳓दो यौ᳓ च᳓तुष्पदस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
@@ -172,8 +172,8 @@ Lords of all near and even of what is distant, famed as the best and skilfullest
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑हस्रा॒क्षौ वृ॑त्र॒हणा॑ हुवे॒हं दू॒रेग॑व्यूती स्तु॒वन्ने॑म्यु॒ग्रौ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+स᳙हस्राक्षौ᳓ वृत्रह᳓णा हुवेहं᳓ दूरे᳓गव्यूती स्तुव᳓न्नेम्युग्रौ᳓।  
+या᳓वस्ये᳓शाथे द्विप᳓दो यौ᳓ च᳓तुष्पदस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
@@ -240,8 +240,8 @@ Thousand-eyed foe-destroyers, I invoke you, still praising you the strong, of wi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यावा॑रे॒भाथे॑ ब॒हु सा॒कमग्रे॒ प्र चेदस्रा॑ष्ट्रमभि॒भां जने॑षु।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+या᳓वारेभा᳓थे बहु᳓ साक᳓म᳓ग्रे प्र᳓ चे᳓द᳓स्राष्ट्रमभिभां᳓ ज᳓नेषु।  
+या᳓वस्ये᳓शाथे द्विप᳓दो यौ᳓ च᳓तुष्पदस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
@@ -307,8 +307,8 @@ Ye who of old wrought many a deed in concert, and showed among mankind unhappy o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ययो॑र्व॒धान्नाप॒पद्य॑ते॒ कश्च॒नान्तर्दे॒वेषू॒त मानु॑षेषु।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+य᳓योर्वधा᳓न्ना᳓पप᳓द्यते क᳓श्चना᳓न्त᳓र्देवे᳓षूत᳓ मा᳓नुषेषु।  
+या᳓वस्ये᳓शाथे द्विप᳓दो यौ᳓ च᳓तुष्पदस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
@@ -369,8 +369,8 @@ Ye from the stroke of whose destroying weapon not one among the Gods or men esca
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः कृ॑त्या॒कृन्मू॑ल॒कृद्या॑तु॒धानो॒ नि तस्मि॑न्धत्तं॒ वज्र॑मु॒ग्रौ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+यः᳓ कृत्याकृ᳓न्मूलकृ᳓द्यातुधा᳓नो नि᳓ त᳓स्मिन्धत्तं व᳓ज्रमुग्रौ᳓।  
+या᳓वस्ये᳓शाथे द्विप᳓दो यौ᳓ च᳓तुष्पदस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
@@ -437,8 +437,8 @@ Hurl your bolt, strong Gods, at the Yatudhana, him who makes ready roots and dea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/07_adhi_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अधि॑ नो ब्रूतं॒ पृत॑नासूग्रौ॒ सं वज्रे॑ण सृजतं॒ यः कि॑मी॒दी।  
-स्तौमि॑ भवाश॒र्वौ ना॑थि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+अ᳓धि नो ब्रूतं पृ᳓तनासूग्रौ सं᳓ व᳓ज्रेण सृजतं यः᳓ किमीदी᳓।  
+स्तौ᳓मि भवाशर्वौ᳓ नाथितो᳓ जोहवीमि तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/07_adhi_no.md">

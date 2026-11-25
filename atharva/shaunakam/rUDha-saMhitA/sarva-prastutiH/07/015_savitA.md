@@ -37,8 +37,8 @@ A charm to win divine favour and felicity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/015_savitA/01_tAM_savitaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तां स॑वितः स॒त्यस॑वां सुचि॒त्रामाहं वृ॑णे सुम॒तिं वि॒श्ववा॑राम्।  
-याम॑स्य॒ कण्वो॒ अदु॑ह॒त्प्रपी॑नां स॒हस्र॑धारां महि॒षो भगा॑य ॥
+तां᳓ सवितः सत्य᳓सवां सुचित्रा᳓मा᳓हं᳓ वृणे सुमतिं᳓ विश्व᳓वाराम्।  
+या᳓मस्य क᳓ण्वो अ᳓दुहत्प्र᳓पीनां सह᳓स्रधारां महिषो᳓ भ᳓गाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/015_savitA/01_tAM_savitaH.md">

@@ -34,8 +34,8 @@ Translated: Ludwig, p. 429; Henry, 39, 111; Griffith, i. 376.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/01_yadadya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॒द्य त्वा॑ प्रय॒ति य॒ज्ञे अ॒स्मिन्होत॑श्चिकित्व॒न्नवृ॑णीमही॒ह।  
-ध्रु॒वम॑यो ध्रु॒वमु॒ता श॑विष्ठैप्रवि॒द्वान्य॒ज्ञमुप॑ याहि॒ सोम॑म् ॥
+य᳓दद्य᳓ त्वा प्रयति᳓ यज्ञे᳓ अस्मि᳓न्हो᳓तश्चिकित्वन्न᳓वृणीमहीह᳓।  
+ध्रुव᳓मयो ध्रुव᳓मुता᳓ शविष्ठैप्रविद्वा᳓न्यज्ञ᳓मु᳓प याहि सो᳓मम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/01_yadadya_tvA.md">
@@ -112,8 +112,8 @@ As we have here elected thee, skilled Hotar! to-day as this our sacrifice procee
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/02_samindra_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-समि॑न्द्र नो॒ मन॑सा नेष॒ गोभिः॒ सं सू॒रिभि॑र्हरिव॒न्त्सं स्व॒स्त्या।  
-सं ब्रह्म॑णा दे॒वहि॑तं॒ यदस्ति॒ सं दे॒वानां॑ सुम॒तौ य॒ज्ञिया॑नाम् ॥
+स᳓मिन्द्र नो म᳓नसा नेष गो᳓भिः सं᳓ सूरि᳓भिर्हरिवन्त्सं᳓ स्वस्त्या᳓।  
+सं᳓ ब्र᳓ह्मणा देव᳓हितं य᳓द᳓स्ति सं᳓ देवा᳓नां सुमतौ᳓ यज्ञि᳓यानाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/02_samindra_no.md">
@@ -185,8 +185,8 @@ With kine connect us, and with spirit, Indra! Lord of Bay Steeds, with princes a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/03_yAnAvaha_ushato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यानाव॑ह उश॒तो दे॑व दे॒वांस्तान्प्रेर॑य॒ स्वे अ॑ग्ने स॒धस्थे॑।  
-ज॑क्षि॒वांसः॑ पपि॒वांसो॒ मधू॑न्य॒स्मै ध॑त्त वसवो॒ वसू॑नि ॥
+या᳓ना᳓वह उशतो᳓ देव देवां᳓स्ता᳓न्प्रे᳓रय स्वे᳓ अग्ने सध᳓स्थे।  
+ज᳙क्षिवां᳓सः पपिवां᳓सो म᳓धून्यस्मै᳓ धत्त वसवो व᳓सूनि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/03_yAnAvaha_ushato.md">
@@ -258,8 +258,8 @@ The willing Gods whom, God, thou hast brought hither, send thou to their own dwe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/04_sugA_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॒गा वो॑ देवाः॒ सद॑ना अकर्म॒ य आ॑ज॒ग्म सव॑ने मा जुषा॒णाः।  
-वह॑माना॒ भर॑माणाः॒ स्वा वसू॑नि॒ वसुं॑ घ॒र्मं दिव॒मा रो॑ह॒तानु॑ ॥
+सुगा᳓ वो देवाः स᳓दना अकर्म य᳓ आजग्म᳓ स᳓वने मा जुषाणाः᳓।  
+व᳓हमाना भ᳓रमाणाः स्वा᳓ व᳓सूनि व᳓सुं घर्मं᳓ दि᳓वमा᳓ रोहता᳓नु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/04_sugA_vo.md">
@@ -340,8 +340,8 @@ Gods, we have made your seats of easy access, who, pleased with me, have come to
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/05_yajna_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यज्ञ॑ य॒ज्ञं ग॑च्छ य॒ज्ञप॑तिं गच्छ।  
-स्वां योनिं॑ गच्छ॒ स्वाहा॑ ॥
+य᳓ज्ञ यज्ञं᳓ गच्छ यज्ञ᳓पतिं गच्छ।  
+स्वां᳓ यो᳓निं गच्छ स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/05_yajna_yajnam.md">
@@ -406,8 +406,8 @@ Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Sv
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/06_eSha_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒ष ते॑ य॒ज्ञो य॑ज्ञपते स॒हसू॑क्तवाकः।  
-सु॒वीर्यः॒ स्वाहा॑ ॥
+एष᳓ ते यज्ञो᳓ यज्ञपते सह᳓सूक्तवाकः।  
+सुवी᳓र्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/06_eSha_te.md">
@@ -475,8 +475,8 @@ This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught wit
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/07_vaShaDDhutebhyo_vaShaDahutebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वष॑ड्ढु॒तेभ्यो॒ वष॒डहु॑तेभ्यः।  
-देवा॑ गातुविदो गा॒तुं वि॒त्त्वा गा॒तुमि॑त ॥
+व᳓षड्ढुते᳓भ्यो व᳓षड᳓हुतेभ्यः।  
+दे᳓वा गातुविदो गातुं᳓ वित्त्वा᳓ गातु᳓मित ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/07_vaShaDDhutebhyo_vaShaDahutebhyaH.md">
@@ -539,8 +539,8 @@ Vashat to paid and yet unpaid oblations! Ye Gods who know the way, find and purs
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/08_manasaspata_imam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मन॑सस्पत इ॒मं नो॑ दि॒वि दे॒वेषु॑ य॒ज्ञम्।  
-स्वाहा॑ दि॒वि स्वाहा॑ पृथि॒व्यां स्वाहा॒न्तरि॑क्षे॒ स्वाहा॒ वाते॑ धां॒ स्वाहा॑ ॥
+म᳓नसस्पत इमं᳓ नो दिवि᳓ देवे᳓षु यज्ञ᳓म्।  
+स्वा᳓हा दिवि᳓ स्वा᳓हा पृथिव्यां᳓ स्वा᳓हान्त᳓रिक्षे स्वा᳓हा वा᳓ते धां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/08_manasaspata_imam.md">

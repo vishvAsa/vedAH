@@ -37,7 +37,7 @@ A charm against enemies, goblins, and other evil creatures
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ्रा॑तृव्य॒क्षय॑णमसि भ्रातृव्य॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+भ्रा᳙तृव्यक्ष᳓यणमसि भ्रातृव्यचा᳓तनं मे दाः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
@@ -103,7 +103,7 @@ Destruction of the foe art thou, give me the scaring of my foes. All hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑पत्न॒क्षय॑णमसि सपत्न॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+स᳙पत्नक्ष᳓यणमसि सपत्नचा᳓तनं मे दाः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
@@ -161,7 +161,7 @@ The rival's ruiner art thou, give me to drive my rivals off. All hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑राय॒क्षय॑णमस्यराय॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+अ᳙रायक्ष᳓यणमस्यरायचा᳓तनं मे दाः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
@@ -220,7 +220,7 @@ Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि॑शाच॒क्षय॑णमसि पिशाच॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+पि᳙शाचक्ष᳓यणमसि पिशाचचा᳓तनं मे दाः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
@@ -279,7 +279,7 @@ Pisa-chas' ruiner art thou, give me to drive Pisachas off. All hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑दान्वा॒क्षय॑णमसि सदान्वा॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+स᳙दान्वाक्ष᳓यणमसि सदान्वाचा᳓तनं मे दाः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">

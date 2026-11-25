@@ -47,8 +47,8 @@ A charm to overthrow a rival and gain strength, dignity, long life, children, an
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/01_indrasyauja_sthendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॒स्यौज॒ स्थेन्द्र॑स्य॒ सह॒ स्थेन्द्र॑स्य॒ बलं॒ स्थेन्द्र॑स्य वी॒र्यं१॒॑ स्थेन्द्र॑स्य नृ॒म्णं स्थ॑।  
-जि॒ष्णवे॒ योगा॑य ब्रह्मयो॒गैर्वो॑ युनज्मि ॥
+इ᳓न्द्रस्यौ᳓ज स्थे᳓न्द्रस्य स᳓ह स्थे᳓न्द्रस्य ब᳓लं स्थे᳓न्द्रस्य वीर्यं᳙ स्थे᳓न्द्रस्य नृम्णं᳓ स्थ।  
+जिष्ण᳓वे यो᳓गाय ब्रह्मयोगै᳓र्वो युनज्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/01_indrasyauja_sthendrasya.md">
@@ -140,8 +140,8 @@ Ye are the power of Indra, ye the force and strength of Indra, ye his hero might
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/02_indrasyauja_sthendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॒स्यौज॒ स्थेन्द्र॑स्य॒ सह॒ स्थेन्द्र॑स्य॒ बलं॒ स्थेन्द्र॑स्य वी॒र्यं१॒॑ स्थेन्द्र॑स्य नृ॒म्णं स्थ॑।  
-जि॒ष्णवे॒ योगा॑य क्षत्रयो॒गैर्वो॑ युनज्मि ॥
+इ᳓न्द्रस्यौ᳓ज स्थे᳓न्द्रस्य स᳓ह स्थे᳓न्द्रस्य ब᳓लं स्थे᳓न्द्रस्य वीर्यं᳙ स्थे᳓न्द्रस्य नृम्णं᳓ स्थ।  
+जिष्ण᳓वे यो᳓गाय क्षत्रयोगै᳓र्वो युनज्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/02_indrasyauja_sthendrasya.md">
@@ -204,8 +204,8 @@ often elsewhere, typify the Brahman and Kshatriya classes or castes.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/03_indrasyauja_sthendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॒स्यौज॒ स्थेन्द्र॑स्य॒ सह॒ स्थेन्द्र॑स्य॒ बलं॒ स्थेन्द्र॑स्य वी॒र्यं१॒॑ स्थेन्द्र॑स्य नृ॒म्णं स्थ॑।  
-जि॒ष्णवे॒ योगा॑येन्द्रयो॒गैर्वो॑ युनज्मि ॥
+इ᳓न्द्रस्यौ᳓ज स्थे᳓न्द्रस्य स᳓ह स्थे᳓न्द्रस्य ब᳓लं स्थे᳓न्द्रस्य वीर्यं᳙ स्थे᳓न्द्रस्य नृम्णं᳓ स्थ।  
+जिष्ण᳓वे यो᳓गायेन्द्रयोगै᳓र्वो युनज्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/03_indrasyauja_sthendrasya.md">
@@ -267,8 +267,8 @@ Ppp. reads in **c** *annayogāis*.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/04_indrasyauja_sthendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॒स्यौज॒ स्थेन्द्र॑स्य॒ सह॒ स्थेन्द्र॑स्य॒ बलं॒ स्थेन्द्र॑स्य वी॒र्यं१॒॑ स्थेन्द्र॑स्य नृ॒म्णं स्थ॑।  
-जि॒ष्णवे॒ योगा॑य सोमयो॒गैर्वो॑ युनज्मि ॥
+इ᳓न्द्रस्यौ᳓ज स्थे᳓न्द्रस्य स᳓ह स्थे᳓न्द्रस्य ब᳓लं स्थे᳓न्द्रस्य वीर्यं᳙ स्थे᳓न्द्रस्य नृम्णं᳓ स्थ।  
+जिष्ण᳓वे यो᳓गाय सोमयोगै᳓र्वो युनज्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/04_indrasyauja_sthendrasya.md">
@@ -330,8 +330,8 @@ Ppp. has this time *brahmayogāis*.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/05_indrasyauja_sthendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॒स्यौज॒ स्थेन्द्र॑स्य॒ सह॒ स्थेन्द्र॑स्य॒ बलं॒ स्थेन्द्र॑स्य वी॒र्यं१॒॑ स्थेन्द्र॑स्य नृ॒म्णं स्थ॑।  
-जि॒ष्णवे॒ योगा॑याप्सुयो॒गैर्वो॑ युनज्मि ॥
+इ᳓न्द्रस्यौ᳓ज स्थे᳓न्द्रस्य स᳓ह स्थे᳓न्द्रस्य ब᳓लं स्थे᳓न्द्रस्य वीर्यं᳙ स्थे᳓न्द्रस्य नृम्णं᳓ स्थ।  
+जिष्ण᳓वे यो᳓गायाप्सुयोगै᳓र्वो युनज्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/05_indrasyauja_sthendrasya.md">
@@ -393,8 +393,8 @@ Ppp. reads *apāṁ yogāis*.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/06_indrasyauja_sthendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॒स्यौज॒ स्थेन्द्र॑स्य॒ सह॒ स्थेन्द्र॑स्य॒ बलं॒ स्थेन्द्र॑स्य वी॒र्यं१॒॑ स्थेन्द्र॑स्य नृ॒म्णं स्थ॑।  
-जि॒ष्णवे॒ योगा॑य॒ विश्वा॑नि मा भू॒तान्युप॑ तिष्ठन्तु यु॒क्ता म॑ आप स्थ ॥
+इ᳓न्द्रस्यौ᳓ज स्थे᳓न्द्रस्य स᳓ह स्थे᳓न्द्रस्य ब᳓लं स्थे᳓न्द्रस्य वीर्यं᳙ स्थे᳓न्द्रस्य नृम्णं᳓ स्थ।  
+जिष्ण᳓वे यो᳓गाय वि᳓श्वानि मा भूता᳓न्यु᳓प तिष्ठन्तु युक्ता᳓ म आप स्थ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/06_indrasyauja_sthendrasya.md">
@@ -471,9 +471,9 @@ For the victorious enterprise let all creation stand by me. For me ye, Waters, a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/07_agnerbhAga_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नेर्भा॒ग स्थ॑।  
-अ॒पां शु॒क्रमा॑पो देवी॒र्वर्चो॑ अ॒स्मासु॑ धत्त।  
-प्र॒जाप॑तेर्वो॒ धाम्ना॒स्मै लो॒काय॑ सादये ॥
+अग्ने᳓र्भाग᳓ स्थ।  
+अपां᳓ शुक्र᳓मापो देवीर्व᳓र्चो अस्मा᳓सु धत्त।  
+प्रजा᳓पतेर्वो धा᳓म्नास्मै᳓ लोका᳓य सादये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/07_agnerbhAga_stha.md">
@@ -536,9 +536,9 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/08_indrasya_bhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य भा॒ग स्थ॑।  
-अ॒पां शु॒क्रमा॑पो देवी॒र्वर्चो॑ अ॒स्मासु॑ धत्त।  
-प्र॒जाप॑तेर्वो॒ धाम्ना॒स्मै लो॒काय॑ सादये ॥
+इ᳓न्द्रस्य भाग᳓ स्थ।  
+अपां᳓ शुक्र᳓मापो देवीर्व᳓र्चो अस्मा᳓सु धत्त।  
+प्रजा᳓पतेर्वो धा᳓म्नास्मै᳓ लोका᳓य सादये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/08_indrasya_bhAga.md">
@@ -599,9 +599,9 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/09_somasya_bhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोम॑स्य भा॒ग स्थ॑।  
-अ॒पां शु॒क्रमा॑पो देवी॒र्वर्चो॑ अ॒स्मासु॑ धत्त।  
-प्र॒जाप॑तेर्वो॒ धाम्ना॒स्मै लो॒काय॑ सादये ॥
+सो᳓मस्य भाग᳓ स्थ।  
+अपां᳓ शुक्र᳓मापो देवीर्व᳓र्चो अस्मा᳓सु धत्त।  
+प्रजा᳓पतेर्वो धा᳓म्नास्मै᳓ लोका᳓य सादये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/09_somasya_bhAga.md">
@@ -662,9 +662,9 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/10_varuNasya_bhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वरु॑णस्य भा॒ग स्थ॑।  
-अ॒पां शु॒क्रमा॑पो देवी॒र्वर्चो॑ अ॒स्मासु॑ धत्त।  
-प्र॒जाप॑तेर्वो॒ धाम्ना॒स्मै लो॒काय॑ सादये ॥
+व᳓रुणस्य भाग᳓ स्थ।  
+अपां᳓ शुक्र᳓मापो देवीर्व᳓र्चो अस्मा᳓सु धत्त।  
+प्रजा᳓पतेर्वो धा᳓म्नास्मै᳓ लोका᳓य सादये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/10_varuNasya_bhAga.md">
@@ -725,9 +725,9 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/11_mitrAvaruNayorbhAga_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मि॒त्रावरु॑णयोर्भा॒ग स्थ॑।  
-अ॒पां शु॒क्रमा॑पो देवी॒र्वर्चो॑ अ॒स्मासु॑ धत्त।  
-प्र॒जाप॑तेर्वो॒ धाम्ना॒स्मै लो॒काय॑ सादये ॥
+मित्रा᳓व᳓रुणयोर्भाग᳓ स्थ।  
+अपां᳓ शुक्र᳓मापो देवीर्व᳓र्चो अस्मा᳓सु धत्त।  
+प्रजा᳓पतेर्वो धा᳓म्नास्मै᳓ लोका᳓य सादये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/11_mitrAvaruNayorbhAga_stha.md">
@@ -788,9 +788,9 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/12_yamasya_bhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒मस्य॑ भा॒ग स्थ॑।  
-अ॒पां शु॒क्रमा॑पो देवी॒र्वर्चो॑ अ॒स्मासु॑ धत्त।  
-प्र॒जाप॑तेर्वो॒ धाम्ना॒स्मै लो॒काय॑ सादये ॥
+यम᳓स्य भाग᳓ स्थ।  
+अपां᳓ शुक्र᳓मापो देवीर्व᳓र्चो अस्मा᳓सु धत्त।  
+प्रजा᳓पतेर्वो धा᳓म्नास्मै᳓ लोका᳓य सादये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/12_yamasya_bhAga.md">
@@ -851,9 +851,9 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/13_pitRRNAM_bhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि॑तॄ॒णां भा॒ग स्थ॑।  
-अ॒पां शु॒क्रमा॑पो देवी॒र्वर्चो॑ अ॒स्मासु॑ धत्त।  
-प्र॒जाप॑तेर्वो॒ धाम्ना॒स्मै लो॒काय॑ सादये ॥
+पि᳙तॄणां᳓ भाग᳓ स्थ।  
+अपां᳓ शुक्र᳓मापो देवीर्व᳓र्चो अस्मा᳓सु धत्त।  
+प्रजा᳓पतेर्वो धा᳓म्नास्मै᳓ लोका᳓य सादये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/13_pitRRNAM_bhAga.md">
@@ -914,9 +914,9 @@ Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/14_devasya_saviturbhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वस्य॑ सवि॒तुर्भा॒ग स्थ॑।  
-अ॒पां शु॒क्रमा॑पो देवी॒र्वर्चो॑ अ॒स्मासु॑ धत्त।  
-प्र॒जाप॑तेर्वो॒ धाम्ना॒स्मै लो॒काय॑ सादये ॥
+देव᳓स्य सवितु᳓र्भाग᳓ स्थ।  
+अपां᳓ शुक्र᳓मापो देवीर्व᳓र्चो अस्मा᳓सु धत्त।  
+प्रजा᳓पतेर्वो धा᳓म्नास्मै᳓ लोका᳓य सादये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/14_devasya_saviturbhAga.md">
@@ -986,10 +986,10 @@ quotation of vs. 7 in Kāuś. 49. 25, see above, note to vs. 6.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/15_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो व॑ आपो॒ऽपां भा॒गो॒३॒॑प्स्व॒न्तर्य॑जु॒ष्यो᳡ देव॒यज॑नः।  
-इ॒दं तमति॑ सृजामि॒ तं माभ्यव॑निक्षि।  
-तेन॒ तम॒भ्यति॑सृजामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-तं व॑धेयं॒ तं स्तृ॑षीया॒नेन॒ ब्रह्म॑णा॒नेन॒ कर्म॑णा॒नया॑ मे॒न्या ॥
+यो᳓ व आपोऽपां᳓ भागो᳙प्स्वन्त᳓र्यजुष्यो᳙ देवय᳓जनः।  
+इदं᳓ त᳓म᳓ति सृजामि तं᳓ मा᳓भ्य᳓वनिक्षि।  
+ते᳓न त᳓मभ्य᳓तिसृजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+तं᳓ वधेयं तं᳓ स्तृषीयाने᳓न ब्र᳓ह्मणाने᳓न क᳓र्मणान᳓या मेन्या᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/15_yo_va.md">
@@ -1060,10 +1060,10 @@ Waters, your ceremonial share of Waters which the waters hold, which aids our sa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/16_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो व॑ आपो॒ऽपामू॒र्मिर॒प्स्व१॒॑न्तर्य॑जु॒ष्यो᳡ देव॒यज॑नः।  
-इ॒दं तमति॑ सृजामि॒ तं माभ्यव॑निक्षि।  
-तेन॒ तम॒भ्यति॑सृजामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-तं व॑धेयं॒ तं स्तृ॑षीया॒नेन॒ ब्रह्म॑णा॒नेन॒ कर्म॑णा॒नया॑ मे॒न्या ॥
+यो᳓ व आपोऽपा᳓मूर्मि᳓रप्स्व᳙न्त᳓र्यजुष्यो᳙ देवय᳓जनः।  
+इदं᳓ त᳓म᳓ति सृजामि तं᳓ मा᳓भ्य᳓वनिक्षि।  
+ते᳓न त᳓मभ्य᳓तिसृजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+तं᳓ वधेयं तं᳓ स्तृषीयाने᳓न ब्र᳓ह्मणाने᳓न क᳓र्मणान᳓या मेन्या᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/16_yo_va.md">
@@ -1128,10 +1128,10 @@ etc. etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/17_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो व॑ आपो॒ऽपां व॒त्सोऽप्स्व॒न्तर्य॑जु॒ष्यो᳡ देव॒यज॑नः।  
-इ॒दं तमति॑ सृजामि॒ तं माभ्यव॑निक्षि।  
-तेन॒ तम॒भ्यति॑सृजामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-तं व॑धेयं॒ तं स्तृ॑षीया॒नेन॒ ब्रह्म॑णा॒नेन॒ कर्म॑णा॒नया॑ मे॒न्या ॥
+यो᳓ व आपोऽपां᳓ वत्सो᳓ऽप्स्वन्त᳓र्यजुष्यो᳙ देवय᳓जनः।  
+इदं᳓ त᳓म᳓ति सृजामि तं᳓ मा᳓भ्य᳓वनिक्षि।  
+ते᳓न त᳓मभ्य᳓तिसृजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+तं᳓ वधेयं तं᳓ स्तृषीयाने᳓न ब्र᳓ह्मणाने᳓न क᳓र्मणान᳓या मेन्या᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/17_yo_va.md">
@@ -1196,10 +1196,10 @@ the waters, etc. etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/18_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो व॑ आपो॒ऽपां वृ॑ष॒भो॒३॒॑प्स्व॒न्तर्य॑जु॒ष्यो᳡ देव॒यज॑नः।  
-इ॒दं तमति॑ सृजामि॒ तं माभ्यव॑निक्षि।  
-तेन॒ तम॒भ्यति॑सृजामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-तं व॑धेयं॒ तं स्तृ॑षीया॒नेन॒ ब्रह्म॑णा॒नेन॒ कर्म॑णा॒नया॑ मे॒न्या ॥
+यो᳓ व आपोऽपां᳓ वृषभो᳙प्स्वन्त᳓र्यजुष्यो᳙ देवय᳓जनः।  
+इदं᳓ त᳓म᳓ति सृजामि तं᳓ मा᳓भ्य᳓वनिक्षि।  
+ते᳓न त᳓मभ्य᳓तिसृजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+तं᳓ वधेयं तं᳓ स्तृषीयाने᳓न ब्र᳓ह्मणाने᳓न क᳓र्मणान᳓या मेन्या᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/18_yo_va.md">
@@ -1261,10 +1261,10 @@ etc. etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/19_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो व॑ आपो॒ऽपां हि॑रण्यग॒र्भो॒३॒॑प्स्व॒न्तर्य॑जु॒ष्यो᳡ देव॒यज॑नः।  
-इ॒दं तमति॑ सृजामि॒ तं माभ्यव॑निक्षि।  
-तेन॒ तम॒भ्यति॑सृजामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-तं व॑धेयं॒ तं स्तृ॑षीया॒नेन॒ ब्रह्म॑णा॒नेन॒ कर्म॑णा॒नया॑ मे॒न्या ॥
+यो᳓ व आपोऽपां᳓ हिरण्यगर्भो᳙प्स्वन्त᳓र्यजुष्यो᳙ देवय᳓जनः।  
+इदं᳓ त᳓म᳓ति सृजामि तं᳓ मा᳓भ्य᳓वनिक्षि।  
+ते᳓न त᳓मभ्य᳓तिसृजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+तं᳓ वधेयं तं᳓ स्तृषीयाने᳓न ब्र᳓ह्मणाने᳓न क᳓र्मणान᳓या मेन्या᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/19_yo_va.md">
@@ -1328,10 +1328,10 @@ the waters, etc. etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/20_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो व॑ आपो॒ऽपामश्मा॒ पृश्नि॑र्दि॒व्यो॒३॒॑प्स्व॒न्तर्य॑जु॒ष्यो᳡ देव॒यज॑नः।  
-इ॒दं तमति॑ सृजामि॒ तं माभ्यव॑निक्षि।  
-तेन॒ तम॒भ्यति॑सृजामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-तं व॑धेयं॒ तं स्तृ॑षीया॒नेन॒ ब्रह्म॑णा॒नेन॒ कर्म॑णा॒नया॑ मे॒न्या ॥
+यो᳓ व आपोऽपा᳓म᳓श्मा पृ᳓श्निर्दिव्यो᳙प्स्वन्त᳓र्यजुष्यो᳙ देवय᳓जनः।  
+इदं᳓ त᳓म᳓ति सृजामि तं᳓ मा᳓भ्य᳓वनिक्षि।  
+ते᳓न त᳓मभ्य᳓तिसृजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+तं᳓ वधेयं तं᳓ स्तृषीयाने᳓न ब्र᳓ह्मणाने᳓न क᳓र्मणान᳓या मेन्या᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/20_yo_va.md">
@@ -1396,10 +1396,10 @@ within the waters, etc. etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/21_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो व॑ आपो॒ऽपाम॒ग्नयो॒ऽप्स्व१॒॑न्तर्य॑जु॒ष्यो॑ष्या᳡ देव॒यज॑नाः।  
-इ॒दं तानति॑ सृजामि॒ तं माभ्यव॑निक्षि।  
-तैस्तम॒भ्यति॑सृजामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-तं व॑धेयं॒ तं स्तृ॑षीया॒नेन॒ ब्रह्म॑णा॒नेन॒ कर्म॑णा॒नया॑ मे॒न्या ॥
+यो᳓ व आपोऽपा᳓मग्न᳓योऽप्स्व᳙न्त᳓र्यजुष्यो᳙ष्या᳙ देवय᳓जनाः।  
+इदं᳓ ता᳓न᳓ति सृजामि तं᳓ मा᳓भ्य᳓वनिक्षि।  
+तै᳓स्त᳓मभ्य᳓तिसृजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+तं᳓ वधेयं तं᳓ स्तृषीयाने᳓न ब्र᳓ह्मणाने᳓न क᳓र्मणान᳓या मेन्या᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/21_yo_va.md">
@@ -1473,8 +1473,8 @@ over *agnáyo*.⌋
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/22_yadarvAchInaM_traihAyaNAdanRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॑र्वा॒चीनं॑ त्रैहाय॒णादनृ॑तं॒ किं चो॑दि॒म।  
-आपो॑ मा॒ तस्मा॒त्सर्व॑स्माद्दुरि॒तात्पा॒न्त्वंह॑सः ॥
+य᳓दर्वाची᳓नं त्रैहायणा᳓द᳓नृतं किं᳓ चोदिम᳓।  
+आ᳓पो मा त᳓स्मात्स᳓र्वस्माद्दुरिता᳓त्पान्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/22_yadarvAchInaM_traihAyaNAdanRtam.md">
@@ -1546,8 +1546,8 @@ Whatever evil I have done within this last triennium, From all that woe and mise
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/23_samudraM_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑मु॒द्रं वः॒ प्र हि॑णोमि॒ स्वां योनि॒मपी॑तन।  
-अरि॑ष्टाः॒ सर्व॑हायसो॒ मा च॑ नः॒ किं च॒नाम॑मत् ॥
+स᳙मुद्रं᳓ वः प्र᳓ हिणोमि स्वां᳓ यो᳓निम᳓पीतन।  
+अ᳓रिष्टाः स᳓र्वहायसो मा᳓ च नः किं᳓ चना᳓ममत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/23_samudraM_vaH.md">
@@ -1619,8 +1619,8 @@ Onward I urge your gathered floods: enter your own abiding- place, Uninjured and
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/24_ariprA_Apo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑रि॒प्रा आपो॒ अप॑ रि॒प्रम॒स्मत्।  
-प्रास्मदेनो॑ दुरि॒तं सु॒प्रती॑काः॒ प्र दुः॒ष्वप्न्यं॒ प्र मलं॑ वहन्तु ॥
+अ᳙रिप्रा᳓ आ᳓पो अ᳓प रिप्र᳓मस्म᳓त्।  
+प्रा᳓स्म᳓दे᳓नो दुरितं᳓ सुप्र᳓तीकाः प्र᳓ दुःष्व᳓प्न्यं प्र᳓ म᳓लं वहन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/24_ariprA_Apo.md">
@@ -1691,9 +1691,9 @@ May the pure Waters cleanse us from defilement, Fair to behold remove our sin an
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/25_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णोः॒ क्रमो॑ऽसि सपत्न॒हा पृ॑थि॒वीसं॑शितो॒ऽग्निते॑जाः।  
-पृ॑थि॒वीमनु॒ वि क्र॑मे॒ऽहं पृ॑थि॒व्यास्तं निर्भ॑जामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-स मा जी॑वी॒त्तं प्रा॒णो ज॑हातु ॥
+वि᳓ष्णोः क्र᳓मोऽसि सपत्नहा᳓ पृथिवी᳓संशितोऽग्नि᳓तेजाः।  
+पृ᳙थिवी᳓म᳓नु वि᳓ क्रमेऽहं᳓ पृथिव्या᳓स्तं᳓ नि᳓र्भजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+स᳓ मा᳓ जीवीत्तं᳓ प्राणो᳓ जहातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/25_viShNoH_kramo-si.md">
@@ -1764,9 +1764,9 @@ Thou art the step of Vishnu, rival-slayer, sharpened by earth, aglow with fire o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/26_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णोः॒ क्रमो॑ऽसि सपत्न॒हान्तरि॑क्षसंशितो वा॒युते॑जाः।  
-अ॒न्तरि॑क्ष॒मनु॒ वि क्र॑मे॒ऽहं अ॒न्तरि॑क्षा॒त्तं निर्भ॑जामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-स मा जी॑वी॒त्तं प्रा॒णो ज॑हातु ॥
+वि᳓ष्णोः क्र᳓मोऽसि सपत्नहा᳓न्त᳓रिक्षसंशितो वायु᳓तेजाः।  
+अन्त᳓रिक्षम᳓नु वि᳓ क्रमेऽहं᳓ अन्त᳓रिक्षात्तं᳓ नि᳓र्भजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+स᳓ मा᳓ जीवीत्तं᳓ प्राणो᳓ जहातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/26_viShNoH_kramo-si.md">
@@ -1828,9 +1828,9 @@ Ours is superior place and ours is conquest: may I in all fights tread down spit
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/27_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णोः॒ क्रमो॑ऽसि सपत्न॒हा द्यौसं॑शितः॒ सूर्य॑तेजाः।  
-दिव॒मनु॒ वि क्र॑मे॒ऽहं दि॒वस्तं निर्भ॑जामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-स मा जिवी॒त्तं प्रा॒णो ज॑हातु ॥
+वि᳓ष्णोः क्र᳓मोऽसि सपत्नहा᳓ द्यौ᳓संशितः सू᳓र्यतेजाः।  
+दि᳓वम᳓नु वि᳓ क्रमेऽहं᳓ दिव᳓स्तं᳓ नि᳓र्भजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+स᳓ मा᳓ जि᳓वीत्तं᳓ प्राणो᳓ जहातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/27_viShNoH_kramo-si.md">
@@ -1895,9 +1895,9 @@ A single ms. (R.) reads *dyāúḥsaṁśitaḥ*.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/28_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णोः॒ क्रमो॑ऽसि सपत्न॒हा दिक्सं॑शितो॒ मन॑स्तेजाः।  
-दिशो॒ऽनु॒ वि क्र॑मे॒ऽहं दि॒ग्भ्यस्तं निर्भ॑जामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-स मा जी॑वी॒त्तं प्रा॒णो ज॑हातु ॥
+वि᳓ष्णोः क्र᳓मोऽसि सपत्नहा᳓ दि᳓क्संशितो म᳓नस्तेजाः।  
+दि᳓शोऽनु वि᳓ क्रमेऽहं᳓ दिग्भ्य᳓स्तं᳓ नि᳓र्भजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+स᳓ मा᳓ जीवीत्तं᳓ प्राणो᳓ जहातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/28_viShNoH_kramo-si.md">
@@ -1961,9 +1961,9 @@ disportion him who etc. etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/29_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णोः॒ क्रमो॑ऽसि सपत्न॒हाशा॑संशितो॒ वात॑तेजाः।  
-आशा॒ अनु॒ वि क्र॑मे॒ऽहमाशा॑भ्य॒स्तं निर्भ॑जामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-स मा जी॑वी॒त्तं प्रा॒णो ज॑हातु ॥
+वि᳓ष्णोः क्र᳓मोऽसि सपत्नहा᳓शासंशितो वा᳓ततेजाः।  
+आ᳓शा अ᳓नु वि᳓ क्रमेऽह᳓मा᳓शाभ्यस्तं᳓ नि᳓र्भजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+स᳓ मा᳓ जीवीत्तं᳓ प्राणो᳓ जहातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/29_viShNoH_kramo-si.md">
@@ -2027,9 +2027,9 @@ disportion him who etc. etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/30_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णोः॒ क्रमो॑ऽसि सपत्न॒हा ऋक्सं॑शितः॒ साम॑तेजाः।  
-ऋचोऽनु॒ वि क्र॑मे॒ऽहमृ॒ग्भ्यस्तं निर्भ॑जामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-स मा जी॑वी॒त्तं प्रा॒णो ज॑हातु ॥
+वि᳓ष्णोः क्र᳓मोऽसि सपत्नहा᳓ ऋ᳓क्संशितः सा᳓मतेजाः।  
+ऋ᳓चो᳓ऽनु वि᳓ क्रमेऽह᳓मृग्भ्य᳓स्तं᳓ नि᳓र्भजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+स᳓ मा᳓ जीवीत्तं᳓ प्राणो᳓ जहातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/30_viShNoH_kramo-si.md">
@@ -2094,9 +2094,9 @@ Some of the mss. (E.s.m.R.K.) read in **a** *-hā ṛks-*.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/31_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णोः॒ क्रमो॑ऽसि सपत्न॒हा य॒ज्ञसं॑शितो॒ ब्रह्म॑तेजाः।  
-य॒ज्ञमनु॒ वि क्र॑मे॒ऽहं य॒ज्ञात्तं निर्भ॑जामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-स मा जी॑वी॒त्तं प्रा॒णो ज॑हातु ॥
+वि᳓ष्णोः क्र᳓मोऽसि सपत्नहा᳓ यज्ञ᳓संशितो ब्र᳓ह्मतेजाः।  
+यज्ञ᳓म᳓नु वि᳓ क्रमेऽहं᳓ यज्ञा᳓त्तं᳓ नि᳓र्भजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+स᳓ मा᳓ जीवीत्तं᳓ प्राणो᳓ जहातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/31_viShNoH_kramo-si.md">
@@ -2160,9 +2160,9 @@ sacrifice we disportion him who etc. etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/32_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णोः॒ क्रमो॑ऽसि सपत्न॒हौष॑धीसंशितः॒ सोम॑तेजाः।  
-ओष॑धी॒रनु॒ वि क्र॑मे॒ऽहमोष॑धीभ्य॒स्तं निर्भ॑जामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-स मा जी॑वी॒त्तं प्रा॒णो ज॑हातु ॥
+वि᳓ष्णोः क्र᳓मोऽसि सपत्नहौ᳓षधीसंशितः सो᳓मतेजाः।  
+ओ᳓षधीर᳓नु वि᳓ क्रमेऽह᳓मो᳓षधीभ्यस्तं᳓ नि᳓र्भजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+स᳓ मा᳓ जीवीत्तं᳓ प्राणो᳓ जहातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/32_viShNoH_kramo-si.md">
@@ -2227,9 +2227,9 @@ Read in **b** *krame* (an accent-sign slipped out of place).
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/33_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णोः॒ क्रमो॑ऽसि सपत्न॒हाप्सुसं॑शितो॒ वरु॑णतेजाः।  
-अ॒पोऽनु॒ वि क्र॑मे॒ऽहम॒द्भ्यस्तं निर्भ॑जामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-स मा जी॑वी॒त्तं प्रा॒णो ज॑हातु ॥
+वि᳓ष्णोः क्र᳓मोऽसि सपत्नहा᳓प्सु᳓संशितो व᳓रुणतेजाः।  
+अपो᳓ऽनु वि᳓ क्रमेऽह᳓मद्भ्य᳓स्तं᳓ नि᳓र्भजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+स᳓ मा᳓ जीवीत्तं᳓ प्राणो᳓ जहातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/33_viShNoH_kramo-si.md">
@@ -2294,9 +2294,9 @@ Read *apó* at beginning of **b** (an accent-sign slipped out of place).
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/34_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णोः॒ क्रमो॑ऽसि सपत्न॒हा कृ॒षिसं॑शि॒तोऽन्न॑तेजाः।  
-कृ॒षिमनु॒ वि क्र॑मे॒ऽहं कृ॒ष्यास्तं निर्भ॑जामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-स मा जी॑वी॒त्तं प्रा॒णो ज॑हातु ॥
+वि᳓ष्णोः क्र᳓मोऽसि सपत्नहा᳓ कृषि᳓संशितो᳓ऽन्नतेजाः।  
+कृषि᳓म᳓नु वि᳓ क्रमेऽहं᳓ कृष्या᳓स्तं᳓ नि᳓र्भजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+स᳓ मा᳓ जीवीत्तं᳓ प्राणो᳓ जहातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/34_viShNoH_kramo-si.md">
@@ -2360,9 +2360,9 @@ him who etc. etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/35_viShNoH_kramo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णोः॒ क्रमो॑ऽसि सपत्न॒हा प्रा॒णसं॑शितः॒ पुरु॑षतेजाः।  
-प्रा॒णमनु॒ वि क्र॑मे॒ऽहं प्रा॒णात्तं निर्भ॑जामो॒ यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
-स मा जी॑वी॒त्तं प्रा॒णो ज॑हातु ॥
+वि᳓ष्णोः क्र᳓मोऽसि सपत्नहा᳓ प्राण᳓संशितः पु᳓रुषतेजाः।  
+प्राण᳓म᳓नु वि᳓ क्रमेऽहं᳓ प्राणा᳓त्तं᳓ नि᳓र्भजामो यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
+स᳓ मा᳓ जीवीत्तं᳓ प्राणो᳓ जहातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/35_viShNoH_kramo-si.md">
@@ -2427,8 +2427,8 @@ disportion him who etc. etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/36_jitamasmAkamudbhinnamasmAkamabhyaShThAM_vishvAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जि॒तम॒स्माक॒मुद्भि॑न्नम॒स्माक॑म॒भ्य᳡ष्ठां॒ विश्वाः॒ पृत॑ना॒ अरा॑तीः।  
-इ॒दम॒हमा॑मुष्याय॒णस्या॒मुष्याः॑ पु॒त्रस्य॒ वर्च॒स्तेजः॑ प्रा॒णमायु॒र्नि  वे॑ष्टयामी॒दमे॑नमध॒राञ्चं॑ पादयामि ॥
+जित᳓मस्मा᳓कमु᳓द्भिन्नमस्मा᳓कमभ्य᳙ष्ठां वि᳓श्वाः पृ᳓तना अ᳓रातीः।  
+इद᳓मह᳓मामुष्यायण᳓स्यामु᳓ष्याः पुत्र᳓स्य व᳓र्चस्ते᳓जः प्राण᳓मा᳓युर्नि᳓  वेष्टयामीद᳓मेनमधरा᳓ञ्चं पादयामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/36_jitamasmAkamudbhinnamasmAkamabhyaShThAM_vishvAH.md">
@@ -2503,8 +2503,8 @@ With this I here invest the power and splendour, the life of that man and his vi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/37_sUryasyAvRtamanvAvarte_daxiNAmanvAvRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्य॑स्या॒वृत॑म॒न्वाव॑र्ते॒ दक्षि॑णा॒मन्वा॒वृत॑म्।  
-सा मे॒ द्रवि॑णं यच्छतु॒ सा मे॑ ब्राह्मणवर्च॒सम् ॥
+सू᳓र्यस्यावृ᳓तमन्वा᳓वर्ते द᳓क्षिणाम᳓न्वावृ᳓तम्।  
+सा᳓ मे द्र᳓विणं यच्छतु सा᳓ मे ब्राह्मणवर्चस᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/37_sUryasyAvRtamanvAvarte_daxiNAmanvAvRtam.md">
@@ -2568,8 +2568,8 @@ I follow Surya's course in heaven, the course that takes him to the South. May t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/38_disho_jyotiShmatIrabhyAvarte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दिशो॒ ज्योति॑ष्मतीर॒भ्याव॑र्ते।  
-ता मे॒ द्रवि॑णं यच्छन्तु॒ ता मे॑ ब्राह्मणवर्च॒सम् ॥
+दि᳓शो ज्यो᳓तिष्मतीरभ्या᳓वर्ते।  
+ता᳓ मे द्र᳓विणं यच्छन्तु ता᳓ मे ब्राह्मणवर्चस᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/38_disho_jyotiShmatIrabhyAvarte.md">
@@ -2632,8 +2632,8 @@ I turn me to the regions bright with splendour. May they bestow upon me wealth a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/39_saptaRShInabhyAvarte_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑प्तऋ॒षीन॒भ्याव॑र्ते।  
-ते मे॒ द्रवि॑णं यच्छन्तु॒ ते मे॑ ब्राह्मणवर्च॒सम् ॥
+स᳙प्तऋषी᳓नभ्या᳓वर्ते।  
+ते᳓ मे द्र᳓विणं यच्छन्तु ते᳓ मे ब्राह्मणवर्चस᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/39_saptaRShInabhyAvarte_te.md">
@@ -2692,8 +2692,8 @@ I turn me to the Rishis Seven. May they, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/40_brahmAbhyAvarte_tanme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्मा॒भ्याव॑र्ते।  
-तन्मे॒ द्रवि॑णं यच्छन्तु॒ तन्मे॑ ब्राह्मणवर्च॒सम् ॥
+ब्र᳓ह्माभ्या᳓वर्ते।  
+त᳓न्मे द्र᳓विणं यच्छन्तु त᳓न्मे ब्राह्मणवर्चस᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/40_brahmAbhyAvarte_tanme.md">
@@ -2752,8 +2752,8 @@ I turn me unto Prayer. May that, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/41_brAhmaNA.N_abhyAvarte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्राह्म॒णाँ अ॒भ्याव॑र्ते।  
-ते मे॒ द्रवि॑णं यच्छन्तु॒ ते मे॑ ब्राह्मणवर्च॒सम् ॥
+ब्रा᳓ह्मणाँ᳓ अभ्या᳓वर्ते।  
+ते᳓ मे द्र᳓विणं यच्छन्तु ते᳓ मे ब्राह्मणवर्चस᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/41_brAhmaNA.N_abhyAvarte.md">
@@ -2814,8 +2814,8 @@ I turn me unto Brahmans. May they etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/42_yaM_vayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं व॒यं मृ॒गया॑महे॒ तं व॒धै स्तृ॑णवामहै।  
-व्यात्ते॑ परमे॒ष्ठिनो॒ ब्रह्म॒णापी॑पदाम॒ तम् ॥
+यं᳓ वयं᳓ मृग᳓यामहे तं᳓ वधै᳓ स्तृणवामहै।  
+व्या᳓त्ते परमेष्ठि᳓नो ब्र᳓ह्मणा᳓पीपदाम त᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/42_yaM_vayam.md">
@@ -2879,8 +2879,8 @@ We hunt that man, we beat him down and slay him with our murderous blows. We wit
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/43_vaishvAnarasya_daMShTrAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॑श्वान॒रस्य॒ दंष्ट्रा॑भ्यां हे॒तिस्तं सम॑धाद॒भि।  
-इ॒यं तं प्सा॒त्वाहु॑तिः स॒मिद्दे॒वी सही॑यसी ॥
+वै᳙श्वानर᳓स्य दं᳓ष्ट्राभ्यां हेति᳓स्तं᳓ स᳓मधादभि᳓।  
+इयं᳓ तं᳓ प्सात्वा᳓हुतिः समि᳓द्देवी᳓ स᳓हीयसी ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/43_vaishvAnarasya_daMShTrAbhyAm.md">
@@ -2941,8 +2941,8 @@ Let the shot missile catch him with Vaisvanara's two mighty fangs. This offering
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/44_rAjno_varuNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-राज्ञो॒ वरु॑णस्य ब॒न्धो᳡सि॑।  
-सो॒३॒॑मुमा॑मुष्याय॒णम॒मुष्याः॑ पु॒त्रमन्ने॑ प्रा॒णे ब॑धान ॥
+रा᳓ज्ञो व᳓रुणस्य बन्धो᳙सि।  
+सो᳙मु᳓मामुष्यायण᳓ममु᳓ष्याः पुत्र᳓म᳓न्ने प्राणे᳓ बधान ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/44_rAjno_varuNasya.md">
@@ -3007,8 +3007,8 @@ Thou art the bound of Varuna the King. Bind, such an one, the son of such a woma
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/45_yatte_annam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्ते॒ अन्नं॑ भुवस्पत आक्षि॒यति॑ पृथि॒वीमनु॑।  
-तस्य॑ न॒स्त्वं भु॑वस्पते सं॒प्रय॑च्छ प्रजापते ॥
+य᳓त्ते अ᳓न्नं भुवस्पत आक्षिय᳓ति पृथिवी᳓म᳓नु।  
+त᳓स्य नस्त्वं᳓ भुवस्पते संप्र᳓यच्छ प्रजापते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/45_yatte_annam.md">
@@ -3071,8 +3071,8 @@ All food of thine, O Lord of Life, that lies, upon the face of earth, Thereof be
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/46_apo_divyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पो दि॒व्या अ॑चायिषं॒ रसे॑न॒ सम॑पृक्ष्महि।  
-पय॑स्वानग्न॒ आग॑मं॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥
+अपो᳓ दिव्या᳓ अचायिषं र᳓सेन स᳓मपृक्ष्महि।  
+प᳓यस्वानग्न आ᳓गमं तं᳓ मा सं᳓ सृज व᳓र्चसा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/46_apo_divyA.md">
@@ -3132,8 +3132,8 @@ Celestial Waters have I sought: with juice have I besprinkled them. With milk, O
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/47_saM_mAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा।  
-वि॒द्युर्मे॑ अ॒स्य दे॒वा इन्द्रो॑ विद्यात्स॒ह ऋषि॑भिः ॥
+सं᳓ माग्ने व᳓र्चसा सृज सं᳓ प्रज᳓या स᳓मा᳓युषा।  
+विद्यु᳓र्मे अस्य᳓ देवा᳓ इ᳓न्द्रो विद्यात्सह᳓ ऋ᳓षिभिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/47_saM_mAgne.md">
@@ -3195,8 +3195,8 @@ Give me the boon of splendid strength; give, Agni! progeny and life. May the God
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/48_yadagne_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॑ग्ने अ॒द्य मि॑थु॒ना शपा॒तो॒ यद्वा॒चस्तृ॒ष्टं ज॒नय॑न्त रे॒भाः।  
-म॒न्योर्मन॑सः शर॒व्या॒३॒॑ जाय॑ते॒ या तया॑ विध्य॒ हृद॑ये यातु॒धाना॑न् ॥
+य᳓दग्ने अद्य᳓ मिथुना᳓ श᳓पातो य᳓द्वाच᳓स्तृष्टं᳓ जन᳓यन्त रेभाः᳓।  
+मन्यो᳓र्म᳓नसः शरव्या᳙ जा᳓यते या᳓ त᳓या विध्य हृ᳓दये यातुधा᳓नान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/48_yadagne_adya.md">
@@ -3257,8 +3257,8 @@ What curse soever couples launch against us, whatever bitter speech the chattere
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/49_parA_shRNIhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परा॑ शृणीहि॒ तप॑सा यातु॒धाना॒न्परा॑ग्ने॒ रक्षो॒ हर॑सा शृणीहि।  
-परा॑र्चिषा॒ मूर॑देवाञ्छृणीहि॒ परा॑सु॒तृपः॒ शोशु॑चतः शृणीहि ॥
+प᳓रा शृणीहि त᳓पसा यातुधा᳓नान्प᳓राग्ने र᳓क्षो ह᳓रसा शृणीहि।  
+प᳓रार्चिषा मू᳓रदेवाञ्छृणीहि प᳓रासुतृ᳓पः शो᳓शुचतः शृणीहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/49_parA_shRNIhi.md">
@@ -3331,8 +3331,8 @@ Destroy the Yatudhanas with thy fervour, consume the demons with thy wrath, O Ag
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/005_vijayaprAptiH/50_apAmasmai_vajram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पाम॑स्मै॒ वज्रं॒ प्र ह॑रामि॒ चतु॑र्भृष्टिं शीर्षभिद्याय वि॒द्वान्।  
-सो अ॒स्याङ्गा॑नि॒ प्र शृ॑णातु॒ सर्वा॒ तन्मे॑ दे॒वा अनु॑ जानन्तु॒ विश्वे॑ ॥
+अपा᳓मस्मै व᳓ज्रं प्र᳓ हरामि च᳓तुर्भृष्टिं शीर्षभिद्याय विद्वा᳓न्।  
+सो᳓ अस्या᳓ङ्गानि प्र᳓ शृणातु स᳓र्वा त᳓न्मे देवा᳓ अ᳓नु जानन्तु वि᳓श्वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/005_vijayaprAptiH/50_apAmasmai_vajram.md">

@@ -33,8 +33,8 @@ Translated: Ludwig, p. 517; Henry, 42, 118; Griffith, i. 380.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/108_shatrunAshanam/01_yo_nastAyaddipsati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो न॑स्ता॒यद्दिप्स॑ति॒ यो न॑ आ॒विः स्वो वि॒द्वानर॑णो वा नो अग्ने।  
-प्र॒तीच्ये॒त्वर॑णी द॒त्वती॒ तान्मैषा॑मग्ने॒ वास्तु॑ भू॒न्मो अप॑त्यम् ॥
+यो᳓ नस्ताय᳓द्दि᳓प्सति यो᳓ न आविः᳓ स्वो᳓ विद्वा᳓न᳓रणो वा नो अग्ने।  
+प्रती᳓च्येत्व᳓रणी दत्व᳓ती ता᳓न्मै᳓षामग्ने वा᳓स्तु भून्मो᳓ अ᳓पत्यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/108_shatrunAshanam/01_yo_nastAyaddipsati.md">
@@ -111,8 +111,8 @@ Whoso by stealth or openly would harm us, a friend who knows us, or a stranger, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/108_shatrunAshanam/02_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नः॑ सु॒प्ताञ्जाग्र॑तो वाभि॒दासा॒त्तिष्ठ॑तो वा॒ चर॑तो जातवेदः।  
-वै॑श्वान॒रेण॑ स॒युजा॑ स॒जोषा॒स्तान्प्र॒तीचो॒ निर्द॑ह जातवेदः ॥
+यो᳓ नः सुप्ता᳓ञ्जा᳓ग्रतो वाभिदा᳓सात्ति᳓ष्ठतो वा च᳓रतो जातवेदः।  
+वै᳙श्वानरे᳓ण सयु᳓जा सजो᳓षास्ता᳓न्प्रती᳓चो नि᳓र्दह जातवेदः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/108_shatrunAshanam/02_yo_naH.md">

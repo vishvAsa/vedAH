@@ -37,8 +37,8 @@ A prayer to Indra for protection
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/01_svastidA_vishAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्व॑स्ति॒दा वि॒शां पति॑र्वृत्र॒हा वि॑मृ॒धो व॒शी।  
-वृषेन्द्रः॑ पु॒र ए॑तु॒ नः सो॑म॒पा अ॑भयंक॒रः ॥
+स्व᳙स्तिदा᳓ विशां᳓ प᳓तिर्वृत्रहा᳓ विमृधो᳓ वशी᳓।  
+वृ᳓षे᳓न्द्रः पुर᳓ एतु नः᳓ सोमपा᳓ अभयंकरः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/01_svastidA_vishAm.md">
@@ -105,8 +105,8 @@ Lord of the clans, giver of bliss, fiend-slayer, mighty o'er the foe, May Indra,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/02_vi_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि न॒ इन्द्र॒ मृधो॑ जहि नी॒चा य॑च्छ पृतन्य॒तः।  
-अ॑ध॒मं ग॑मया॒ तमो॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥
+वि᳓ न इ᳓न्द्र मृ᳓धो जहि नीचा᳓ यच्छ पृतन्यतः᳓।  
+अ᳙धमं᳓ गमया त᳓मो यो᳓ अस्माँ᳓ अभिदा᳓सति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/02_vi_na.md">
@@ -170,8 +170,8 @@ Indra, subdue our enemies, lay low the men who fight with us: Down into nether d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/03_vi_raxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि रक्षो॒ वि मृधो॑ जहि॒ वि वृ॒त्रस्य॒ हनू॑ रुज।  
-वि म॒न्युमि॑न्द्र वृत्रहन्न॒मित्र॑स्याभि॒दास॑तः ॥
+वि᳓ र᳓क्षो वि᳓ मृ᳓धो जहि वि᳓ वृत्र᳓स्य ह᳓नू रुज।  
+वि᳓ मन्यु᳓मिन्द्र वृत्रहन्नमि᳓त्रस्याभिदा᳓सतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/03_vi_raxo.md">
@@ -234,8 +234,8 @@ O Indra, Vritra slayer, quell the wrath of the assailing foe.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/04_apendra_dviShato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपे॑न्द्र द्विष॒तो मनो॑ ऽप॒ जिज्या॑सतो व॒धम्।  
-वि म॒हच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम् ॥
+अ᳓पेन्द्र द्विषतो᳓ म᳓नो ऽप जि᳓ज्यासतो वध᳓म्।  
+वि᳓ मह᳓च्छ᳓र्म यच्छ व᳓रीयो यावया वध᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/04_apendra_dviShato.md">

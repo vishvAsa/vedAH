@@ -37,8 +37,8 @@ In praise of Agni
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/071_agniH/01_pari_tvAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ त्वाग्ने॒ पुरं॑ व॒यं विप्रं॑ सहस्य धीमहि।  
-धृ॒षद्व॑र्णं दि॒वेदि॑वे ह॒न्तारं॑ भङ्गु॒राव॑तः ॥
+प᳓रि त्वाग्ने पु᳓रं वयं᳓ वि᳓प्रं सहस्य धीमहि।  
+धृष᳓द्वर्णं दिवे᳓दिवे हन्ता᳓रं भङ्गुरा᳓वतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/071_agniH/01_pari_tvAgne.md">

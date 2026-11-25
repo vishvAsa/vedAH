@@ -37,8 +37,8 @@ A charm against all sorts of worms
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/01_indrasya_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य॒ या म॒ही दृ॒षत्क्रिमे॒र्विश्व॑स्य॒ तर्ह॑णी।  
-तया॑ पिनष्मि॒ सं क्रिमी॑न्दृ॒षदा॒ खल्वाँ॑ इव ॥
+इ᳓न्द्रस्य या᳓ मही᳓ दृष᳓त्क्रि᳓मेर्वि᳓श्वस्य त᳓र्हणी।  
+त᳓या पिनष्मि सं᳓ क्रि᳓मीन्दृष᳓दा ख᳓ल्वाँ इव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/01_indrasya_yA.md">
@@ -105,8 +105,8 @@ With Indra's mighty millstone, that which crushes worms of every sort, I bray an
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दृ॒ष्टम॒दृष्ट॑मतृह॒मथो॑ कु॒रूरु॑मतृहम्।  
-अ॒ल्गण्डू॒न्त्सर्वा॑न्छ॒लुना॒न्क्रिमी॒न्वच॑सा जम्भयामसि ॥
+दृष्ट᳓मदृ᳓ष्टमतृहम᳓थो कुरू᳓रुमतृहम्।  
+अल्ग᳓ण्डून्त्स᳓र्वान्छलु᳓नान्क्रि᳓मीन्व᳓चसा जम्भयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
@@ -181,8 +181,8 @@ The Seen and the Invisible, and the Kururu have I crushed: Alandus, and all Chha
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/03_algaNDUnhanmi_mahatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ल्गण्डू॑न्हन्मि मह॒ता व॒धेन॑ दू॒ना अदू॑ना अर॒सा अ॑भूवन्।  
-शि॒ष्टानशि॑ष्टा॒न्नि ति॑रामि वा॒चा यथा॒ क्रिमी॑णां॒ नकि॑रु॒च्छिषा॑तै ॥
+अल्ग᳓ण्डून्हन्मि महता᳓ वधे᳓न दूना᳓ अ᳓दूना अरसा᳓ अभूवन्।  
+शिष्टा᳓न᳓शिष्टान्नि᳓ तिरामि वाचा᳓ य᳓था क्रि᳓मीणां न᳓किरुच्छि᳓षातै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/03_algaNDUnhanmi_mahatA.md">
@@ -246,8 +246,8 @@ I kill Alandus with a mighty weapon: burnt or not burnt they now have lost their
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अन्वा॑न्त्र्यं॒ शीर्ष॒ण्य॑१मथो॒ पार्ष्टे॑यं॒ क्रिमी॑न्।  
-अ॑वस्क॒वं व्य॑ध्व॒रं क्रिमी॒न्वच॑सा जम्भयामसि ॥
+अ᳓न्वान्त्र्यं शी᳓र्षण्य᳙म᳓थो पा᳓र्ष्टेयं क्रि᳓मीन्।  
+अ᳙वस्कवं᳓ व्यध्वरं᳓ क्रि᳓मीन्व᳓चसा जम्भयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
@@ -323,8 +323,8 @@ The worm that lives within the ribs, within the bowels, in the head. Avaskava an
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/05_ye_krimayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये क्रिम॑यः॒ पर्व॑तेषु॒ वने॒ष्वोष॑धीषु प॒शुष्व॒प्स्व॑१न्तः।  
-ये अ॒स्माकं॑ त॒न्व॑माविवि॒शुः सर्वं॒ तद्ध॑न्मि॒ जनि॑म॒ क्रिमी॑णाम् ॥
+ये᳓ क्रि᳓मयः प᳓र्वतेषु व᳓नेष्वो᳓षधीषु पशु᳓ष्वप्स्व᳙न्तः᳓।  
+ये᳓ अस्मा᳓कं तन्व᳙माविविशुः᳓ स᳓र्वं त᳓द्धन्मि ज᳓निम क्रि᳓मीणाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/05_ye_krimayaH.md">

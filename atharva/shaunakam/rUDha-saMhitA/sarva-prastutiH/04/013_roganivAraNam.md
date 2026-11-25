@@ -37,8 +37,8 @@ A charm to restore a sick man to health
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/01_uta_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒त दे॑वा॒ अव॑हितं॒ देवा॒ उन्न॑यथा॒ पुनः॑।  
-उ॒ताग॑श्च॒क्रुषं॑ देवा॒ देवा॑ जी॒वय॑था॒ पुनः॑ ॥
+उत᳓ देवा अ᳓वहितं दे᳓वा उ᳓न्नयथा पु᳓नः।  
+उता᳓गश्चक्रु᳓षं देवा दे᳓वा जीव᳓यथा पु᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/01_uta_devA.md">
@@ -106,8 +106,8 @@ Gods, raise again the man whom ye, O Gods, have humbled and brought low. Ye Gods
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/02_dvAvimau_vAtau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्वावि॒मौ वातौ॑ वात॒ आ सिन्धो॒रा प॑रा॒वतः॑।  
-दक्षं॑ ते अ॒न्य आ॒वातु॒ व्य॒न्यो वा॑तु॒ यद्रपः॑ ॥
+द्वा᳓विमौ᳓ वा᳓तौ वात आ᳓ सि᳓न्धोरा᳓ पराव᳓तः।  
+द᳓क्षं ते अन्य᳓ आवा᳓तु व्यन्यो᳓ वातु य᳓द्र᳓पः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/02_dvAvimau_vAtau.md">
@@ -180,8 +180,8 @@ Here these two winds are blowing far as Sindhu from a distant land. May one brea
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/03_A_vAta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ वा॑त वाहि भेष॒जं वि वा॑त वाहि॒ यद्रपः॑।  
-त्वं हि वि॑श्वभेषज दे॒वानां॑ दू॒त ईय॑से ॥
+आ᳓ वात वाहि भेषजं᳓ वि᳓ वात वाहि य᳓द्र᳓पः।  
+त्वं᳓ हि᳓ विश्वभेषज देवा᳓नां दूत᳓ ई᳓यसे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/03_A_vAta.md">
@@ -248,8 +248,8 @@ Hither, O Wind, blow healing balm, blow every fault away, thou Wind! For thou wh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/04_trAyantAmimaM_devAstrAyantAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्राय॑न्तामि॒मं दे॒वास्त्राय॑न्तां म॒रुतां॑ ग॒णाः।  
-त्राय॑न्तां॒ विश्वा॑ भू॒तानि॒ यथा॒यम॑र॒पा अस॑त् ॥
+त्रा᳓यन्तामिमं᳓ देवा᳓स्त्रा᳓यन्तां मरु᳓तां गणाः᳓।  
+त्रा᳓यन्तां वि᳓श्वा भूता᳓नि य᳓थाय᳓मरपा᳓ अ᳓सत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/04_trAyantAmimaM_devAstrAyantAm.md">
@@ -314,8 +314,8 @@ May the Gods keep and save this man, the Maruts' host deliver him. All things th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/05_A_tvAgamam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ त्वा॑गमं॒ शंता॑तिभि॒रथो॑ अरि॒ष्टता॑तिभिः।  
-दक्षं॑ त उ॒ग्रमाभा॑रिषं॒ परा॒ यक्ष्मं॑ सुवामि ते ॥
+आ᳓ त्वागमं शं᳓तातिभिर᳓थो अरिष्ट᳓तातिभिः।  
+द᳓क्षं त उग्र᳓मा᳓भारिषं प᳓रा य᳓क्ष्मं सुवामि ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/05_A_tvAgamam.md">
@@ -382,8 +382,8 @@ I am come nigh to thee with balms to give thee rest and keep thee safe. I bring 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/06_ayaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं मे॒ हस्तो॒ भग॑वान॒यं मे॒ भग॑वत्तरः।  
-अ॒यं मे॑ वि॒श्वभे॑षजो॒ऽयं शि॒वाभि॑मर्शनः ॥
+अयं᳓ मे ह᳓स्तो भ᳓गवानयं᳓ मे भ᳓गवत्तरः।  
+अयं᳓ मे विश्व᳓भेषजोऽयं᳓ शिवा᳓भिमर्शनः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/06_ayaM_me.md">
@@ -445,8 +445,8 @@ Felicitous is this my hand, yet more felicitous is this. This hand contains all 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/07_hastAbhyAM_dashashAkhAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हस्ता॑भ्यां॒ दश॑शाखाभ्यां जि॒ह्वा वा॒चः पु॑रोग॒वी।  
-अ॑नामयि॒त्नुभ्यां॒ हस्ता॑भ्यां॒ ताभ्यां॑ त्वा॒भि मृ॑शामसि ॥
+ह᳓स्ताभ्यां द᳓शशाखाभ्यां जिह्वा᳓ वाचः᳓ पुरोगवी᳓।  
+अ᳙नामयित्नु᳓भ्यां ह᳓स्ताभ्यां ता᳓भ्यां त्वाभि᳓ मृशामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/07_hastAbhyAM_dashashAkhAbhyAm.md">

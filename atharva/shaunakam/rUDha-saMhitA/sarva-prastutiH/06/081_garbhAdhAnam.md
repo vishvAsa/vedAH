@@ -37,8 +37,8 @@ A charm to facilitate child-birth
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/01_yantAsi_yachChase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒न्तासि॒ यच्छ॑से॒ हस्ता॒वप॒ रक्षां॑सि सेधसि।  
-प्र॒जां धनं॑ च गृह्णा॒नः प॑रिह॒स्तो अ॑भूद॒यम् ॥
+यन्ता᳓सि य᳓च्छसे ह᳓स्ताव᳓प र᳓क्षांसि सेधसि।  
+प्रजां᳓ ध᳓नं च गृह्णानः᳓ परिहस्तो᳓ अभूदय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/081_garbhAdhAnam/01_yantAsi_yachChase.md">
@@ -101,8 +101,8 @@ Thou art a grasper, holding fast both hands: drivest fiends away. A holder both 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/02_parihasta_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑हस्त॒ वि धा॑रय॒ योनिं॒ गर्भा॑य॒ धात॑वे।  
-मर्या॑दे पु॒त्रमा धे॑हि॒ तं त्वमा ग॑मयागमे ॥
+प᳓रिहस्त वि᳓ धारय यो᳓निं ग᳓र्भाय धा᳓तवे।  
+म᳓र्यादे पुत्र᳓मा᳓ धेहि तं᳓ त्व᳓मा᳓ गमयागमे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/081_garbhAdhAnam/02_parihasta_vi.md">
@@ -169,8 +169,8 @@ Prepare accordantly, O Ring, the mother for the infant's birth. On the right way
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/03_yaM_parihastamabibharaditiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं प॑रिह॒स्तमबि॑भ॒रदि॑तिः पुत्रका॒म्या।  
-त्वष्टा॒ तम॑स्या॒ आ ब॑ध्ना॒द्यथा॑ पु॒त्रं जना॑दिति॑ ॥
+यं᳓ परिहस्त᳓म᳓बिभर᳓दितिः पुत्रकाम्या᳓।  
+त्व᳓ष्टा त᳓मस्या आ᳓ बध्नाद्य᳓था पुत्रं᳓ ज᳓नादि᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/081_garbhAdhAnam/03_yaM_parihastamabibharaditiH.md">

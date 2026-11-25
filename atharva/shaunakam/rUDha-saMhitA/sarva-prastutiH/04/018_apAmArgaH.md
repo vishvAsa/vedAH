@@ -37,8 +37,8 @@ A counter-charm against the incantations of enemies
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/01_samaM_jyotiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒मं ज्योतिः॒ सूर्ये॒णाह्ना॒ रात्री॑ स॒माव॑ती।  
-कृ॑णोमि स॒त्यमू॒तये॑ऽर॒साः स॑न्तु॒ कृत्व॑रीः ॥
+समं᳓ ज्यो᳓तिः सू᳓र्येणा᳓ह्ना रा᳓त्री समा᳓वती।  
+कृ᳙णोमि सत्य᳓मूत᳓येऽरसाः᳓ सन्तु कृ᳓त्वरीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/01_samaM_jyotiH.md">
@@ -111,8 +111,8 @@ The moonlight equalleth the sun, night is the rival of the day. I make effectual
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/02_yo_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो दे॑वाः कृ॒त्यां कृ॒त्वा हरा॒दवि॑दुषो गृ॒हम्।  
-व॒त्सो धा॒रुरि॑व मा॒तरं॒ तं प्र॒त्यगुप॑ पद्यताम् ॥
+यो᳓ देवाः कृत्यां᳓ कृत्वा᳓ ह᳓राद᳓विदुषो गृह᳓म्।  
+वत्सो᳓ धारु᳓रिव मात᳓रं तं᳓ प्रत्य᳓गु᳓प पद्यताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/02_yo_devAH.md">
@@ -176,8 +176,8 @@ Gods! if one make and bring a spell on some man's house who knows it not, Close 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/03_amA_kRtvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मा कृ॒त्वा पा॒प्मानं॒ यस्तेना॒न्यं जिघां॑सति।  
-अश्मा॑न॒स्तस्यां॑ द॒ग्धायां॑ बहु॒लाः फट्क॑रिक्रति ॥
+अमा᳓ कृत्वा᳓ पाप्मा᳓नं य᳓स्ते᳓नान्यं᳓ जि᳓घांसति।  
+अ᳓श्मानस्त᳓स्यां दग्धा᳓यां बहुलाः᳓ फ᳓ट्करिक्रति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/03_amA_kRtvA.md">
@@ -255,8 +255,8 @@ When one puts poison in a dish of unbaked clay to kill a man, It cracks when set
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/04_sahasradhAmanvishikhAnvigrIvAM_ChAyayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सह॑स्रधाम॒न्विशि॑खा॒न्विग्री॑वां छायया॒ त्वम्।  
-प्रति॑ स्म च॒क्रुषे॑ कृ॒त्यां प्रि॒यां प्रि॒याव॑ते हर ॥
+स᳓हस्रधामन्वि᳓शिखान्वि᳓ग्रीवां छायया त्व᳓म्।  
+प्र᳓ति स्म चक्रु᳓षे कृत्यां᳓ प्रियां᳓ प्रिया᳓वते हर ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/04_sahasradhAmanvishikhAnvigrIvAM_ChAyayA.md">
@@ -328,8 +328,8 @@ Endowed with thousand powers! adjure the bald and those with necks awry. Back to
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/05_anayAhamoShadhyA_sarvAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒नया॒हमोष॑ध्या॒ सर्वाः॑ कृ॒त्या अ॑दूदुषम्।  
-यां क्षेत्रे॑ च॒क्रुर्यां गोषु॒ यां वा॑ ते॒ पुरु॑षेषु ॥
+अन᳓याह᳓मो᳓षध्या स᳓र्वाः कृत्या᳓ अदूदुषम्।  
+यां᳓ क्षे᳓त्रे चक्रु᳓र्यां᳓ गो᳓षु यां᳓ वा ते पु᳓रुषेषु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/05_anayAhamoShadhyA_sarvAH.md">
@@ -394,8 +394,8 @@ I with this Plant have ruined all malignant powers of witchery. The spell which 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/06_yashchakAra_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यश्च॒कार॒ न श॒शाक॒ कर्तुं॑ श॒श्रे पाद॑म॒ङ्गुरि॑म्।  
-च॒कार॑ भ॒द्रम॒स्मभ्य॑मा॒त्मने॒ तप॑नं॒ तु सः ॥
+य᳓श्चका᳓र न᳓ शशा᳓क क᳓र्तुं शश्रे᳓ पा᳓दमङ्गु᳓रिम्।  
+चका᳓र भद्र᳓मस्म᳓भ्यमात्म᳓ने त᳓पनं तु᳓ सः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/06_yashchakAra_na.md">
@@ -472,8 +472,8 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. His a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/07_apAmArgo-pa_mArShTu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑पामा॒र्गोऽप॑ मार्ष्टु क्षेत्रि॒यं श॒पथ॑श्च॒ यः।  
-अपाह॑ यातुधा॒नीरप॒ सर्वा॑ अरा॒य्यः॑ ॥
+अ᳙पामार्गो᳓ऽप मार्ष्टु क्षेत्रियं᳓ शप᳓थश्च यः᳓।  
+अ᳓पा᳓ह यातुधानी᳓र᳓प स᳓र्वा अराय्यः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/07_apAmArgo-pa_mArShTu.md">
@@ -536,8 +536,8 @@ Let Apamarga sweep away chronic disease and every curse, Sweep sorceresses clean
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/08_apamRjya_yAtudhAnAnapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑प॒मृज्य॑ यातु॒धाना॒नप॒ सर्वा॑ अरा॒य्यः॑।  
-अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
+अ᳙पमृ᳓ज्य यातुधा᳓नान᳓प स᳓र्वा अराय्यः᳙।  
+अ᳓पामार्ग त्व᳓या वयं᳓ स᳓र्वं त᳓द᳓प मृज्महे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/08_apamRjya_yAtudhAnAnapa.md">

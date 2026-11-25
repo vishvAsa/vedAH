@@ -34,8 +34,8 @@ Translated: Weber, Ind. Stud. v. 250; Henry, 44, 122; Griffith, i. 382.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/113_shatrunAshanam/01_tRShTike_tRShTavandana.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तृष्टि॑के॒ तृष्ट॑वन्दन॒ उद॒मूं छि॑न्धि तृष्टिके।  
-यथा॑ कृ॒तद्वि॒ष्टासो॒ऽमुष्मै॑ शे॒प्याव॑ते ॥
+तृ᳓ष्टिके तृ᳓ष्टवन्दन उ᳓दमूं᳓ छिन्धि तृष्टिके।  
+य᳓था कृत᳓द्विष्टा᳓सोऽमु᳓ष्मै शेप्या᳓वते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/113_shatrunAshanam/01_tRShTike_tRShTavandana.md">
@@ -107,8 +107,8 @@ Rough Plant, thou rough rude parasite, cut thou that man, O Rough and Rude, That
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/113_shatrunAshanam/02_tRShTAsi_tRShTikA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तृ॒ष्टासि॑ तृष्टि॒का वि॒षा वि॑षात॒क्य᳡सि।  
-परि॑वृक्ता॒ यथास॑स्यृष॒भस्य॑ व॒शेव॑ ॥
+तृष्टा᳓सि तृष्टिका᳓ विषा᳓ विषातक्य᳙सि।  
+प᳓रिवृक्ता य᳓था᳓सस्यृषभ᳓स्य वशे᳓व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/113_shatrunAshanam/02_tRShTAsi_tRShTikA.md">

@@ -37,8 +37,8 @@ A prayer to fever, as a charm against his attacks
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/01_yadagnirApo_adahatpravishya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॒ग्निरापो॒ अद॑हत्प्र॒विश्य॒ यत्राकृ॑ण्वन्धर्म॒धृतो॒ नमां॑सि।  
-तत्र॑ त आहुः पर॒मं ज॒नित्रं॒ स नः॑ संवि॒द्वान्परि॑ वृङ्ग्धि तक्मन् ॥
+य᳓दग्नि᳓रा᳓पो अ᳓दहत्प्रवि᳓श्य य᳓त्रा᳓कृण्वन्धर्मधृ᳓तो न᳓मांसि।  
+त᳓त्र त आहुः परमं᳓ जनि᳓त्रं स᳓ नः संविद्वा᳓न्प᳓रि वृङ्ग्धि तक्मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/025_jvara-nAshanam/01_yadagnirApo_adahatpravishya.md">
@@ -107,8 +107,8 @@ When Agni blazed when he had pierced the Waters, whereat the Law-observers paid 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/02_yadyarchiryadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्य॒र्चिर्यदि॒ वासि॑ शो॒चिः श॑कल्ये॒षि यदि॑ वा ते ज॒नित्र॑म्।  
-ह्रूडु॒र्नामा॑सि हरितस्य देव॒ स नः॑ संवि॒द्वान्परि॑ वृङ्ग्धि तक्मन् ॥
+य᳓द्यर्चि᳓र्य᳓दि वा᳓सि शोचिः᳓ शकल्येषि᳓ य᳓दि वा ते जनि᳓त्रम्।  
+ह्रू᳓डुर्ना᳓मासि हरितस्य देव स᳓ नः संविद्वा᳓न्प᳓रि वृङ्ग्धि तक्मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/025_jvara-nAshanam/02_yadyarchiryadi_vAsi.md">
@@ -190,8 +190,8 @@ If thou be fiery glow, or inflammation, or if thy birthplace call for chips of f
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/03_yadi_shoko.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ शो॒को यदि॑ वाभिशो॒को यदि॑ वा॒ राज्ञो॒ वरु॑ण॒स्यासि॑ पु॒त्रः।  
-ह्रूडु॒र्नामा॑सि हरितस्य देव॒ स नः॑ संवि॒द्वान्परि॑ वृङ्ग्धि तक्मन् ॥
+य᳓दि शोको᳓ य᳓दि वाभिशोको᳓ य᳓दि वा रा᳓ज्ञो व᳓रुणस्या᳓सि पुत्रः᳓।  
+ह्रू᳓डुर्ना᳓मासि हरितस्य देव स᳓ नः संविद्वा᳓न्प᳓रि वृङ्ग्धि तक्मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/025_jvara-nAshanam/03_yadi_shoko.md">
@@ -253,8 +253,8 @@ Be thou distress, or agonizing torment, be thou the son King Varuna hath begotte
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/04_namaH_shItAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नमः॑ शी॒ताय॑ त॒क्मने॒ नमो॑ रू॒राय॑ शो॒चिषे॑ कृणोमि।  
-यो अ॑न्ये॒द्युरु॑भय॒द्युर॒भ्येति॒ तृती॑यकाय॒ नमो॑ अस्तु त॒क्मने॑ ॥
+न᳓मः शीता᳓य तक्म᳓ने न᳓मो रूरा᳓य शोचि᳓षे कृणोमि।  
+यो᳓ अन्येद्यु᳓रुभयद्यु᳓रभ्ये᳓ति तृ᳓तीयकाय न᳓मो अस्तु तक्म᳓ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/025_jvara-nAshanam/04_namaH_shItAya.md">

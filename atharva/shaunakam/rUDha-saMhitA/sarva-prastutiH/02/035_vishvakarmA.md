@@ -37,8 +37,8 @@ Expiation for an imperfectly performed sacrifice
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/01_ye_bhaxayanto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये भ॒क्षय॑न्तो॒ न वसू॑न्यानृ॒धुर्यान॒ग्नयो॑ अ॒न्वत॑प्यन्त॒ धिष्ण्याः॑।  
-या तेषा॑मव॒या दुरि॑ष्टिः॒ स्वि॑ष्टिं न॒स्तां कृ॑णवद्वि॒श्वक॑र्मा ॥
+ये᳓ भक्ष᳓यन्तो न᳓ व᳓सून्यानृधु᳓र्या᳓नग्न᳓यो अन्व᳓तप्यन्त धि᳓ष्ण्याः।  
+या᳓ ते᳓षामवया᳓ दु᳓रिष्टिः स्वि᳙ष्टिं नस्तां᳓ कृणवद्विश्व᳓कर्मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/01_ye_bhaxayanto.md">
@@ -121,8 +121,8 @@ We who enjoying it have grown no richer, for whom the sacred altar-fires have so
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/02_yajnapatimRShayaH_enasAhurnirbhaktam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒ज्ञप॑ति॒मृष॑यः॒ एन॑साहु॒र्निर्भ॑क्तं प्र॒जा अ॑नुत॒प्यमा॑नम्।  
-म॑थ॒व्या॑न्त्स्तो॒कानप॒ यान्र॒राध॒ सं न॒ष्टेभिः॑ सृजतु वि॒श्वक॑र्मा ॥
+यज्ञ᳓पतिमृ᳓षयः ए᳓नसाहुर्नि᳓र्भक्तं प्रजा᳓ अनुतप्य᳓मानम्।  
+म᳙थव्या᳙न्त्स्तोका᳓न᳓प या᳓न्ररा᳓ध सं᳓ नष्टे᳓भिः सृजतु विश्व᳓कर्मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/02_yajnapatimRShayaH_enasAhurnirbhaktam.md">
@@ -206,8 +206,8 @@ Rishis have called the sacrifice's patron amerced through sin, sorrowing for his
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/03_adAnyAntsomapAnmanyamAno_yajnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑दा॒न्यान्त्सो॑म॒पान्मन्य॑मानो य॒ज्ञस्य॑ वि॒द्वान्त्स॑म॒ये न धीरः॑।  
-यदेन॑श्चकृ॒वान्ब॒द्ध ए॒ष तं वि॑श्वकर्म॒न्प्र मु॑ञ्चा स्व॒स्तये॑ ॥
+अ᳙दान्या᳓न्त्सोमपा᳓न्म᳓न्यमानो यज्ञ᳓स्य विद्वा᳓न्त्समये᳓ न᳓ धी᳓रः।  
+य᳓दे᳓नश्चकृवा᳓न्बद्ध᳓ एष᳓ तं᳓ विश्वकर्मन्प्र᳓ मुञ्चा स्वस्त᳓ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/03_adAnyAntsomapAnmanyamAno_yajnasya.md">
@@ -282,8 +282,8 @@ Regarding niggard churls as Soma-drinkers, skilful in sacrifice, weak at the mee
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/04_ghorA_RShayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-घो॒रा ऋष॑यो॒ नमो॑ अस्त्वेभ्य॒श्चक्षु॒र्यदे॑षां॒ मन॑सश्च स॒त्यम्।  
-बृह॒स्पत॑ये महिष द्यु॒मन्नमो॒ विश्व॑कर्म॒न्नम॑स्ते पा॒ह्य१॒॑स्मान् ॥
+घोरा᳓ ऋ᳓षयो न᳓मो अस्त्वेभ्यश्च᳓क्षुर्य᳓देषां म᳓नसश्च सत्य᳓म्।  
+बृ᳓हस्प᳓तये महिष द्युम᳓न्न᳓मो वि᳓श्वकर्मन्न᳓मस्ते पाह्य᳙स्मा᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/04_ghorA_RShayo.md">
@@ -358,8 +358,8 @@ Awful are Rishis: unto them be homage, and to their eye and truthfulness of spir
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/05_yajnasya_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒ज्ञस्य॒ चक्षुः॒ प्रभृ॑ति॒र्मुखं॑ च वा॒चा श्रोत्रे॑ण॒ मन॑सा जुहोमि।  
-इ॒मं य॒ज्ञं वित॑तं वि॒श्वक॑र्म॒णा दे॒वा य॑न्तु सुमन॒स्यमा॑नाः ॥
+यज्ञ᳓स्य च᳓क्षुः प्र᳓भृतिर्मु᳓खं च वाचा᳓ श्रो᳓त्रेण म᳓नसा जुहोमि।  
+इमं᳓ यज्ञं᳓ वि᳓ततं विश्व᳓कर्मणा᳓ देवा᳓ यन्तु सुमनस्य᳓मानाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/05_yajnasya_chaxuH.md">

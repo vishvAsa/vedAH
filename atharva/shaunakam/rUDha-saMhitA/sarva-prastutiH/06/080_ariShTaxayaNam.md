@@ -33,8 +33,8 @@ A prayer for help and protection
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/080_ariShTaxayaNam/01_antarixeNa_patati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तरि॑क्षेण पतति॒ विश्वा॑ भू॒ताव॒चाक॑शत्।  
-शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम ॥
+अन्त᳓रिक्षेण पतति वि᳓श्वा भूता᳓वचा᳓कशत्।  
+शु᳓नो दिव्य᳓स्य य᳓न्म᳓हस्ते᳓ना ते हवि᳓षा विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/080_ariShTaxayaNam/01_antarixeNa_patati.md">
@@ -100,8 +100,8 @@ He flieth in the firmament observing all the things that be: We with this offeri
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/080_ariShTaxayaNam/02_ye_trayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये त्रयः॑ कालका॒ञ्जा दि॒वि दे॒वा इ॑व श्रि॒ताः।  
-तान्सर्वा॑नह्व ऊ॒तये॒ऽस्मा अ॑रि॒ष्टता॑तये ॥
+ये᳓ त्र᳓यः कालकाञ्जा᳓ दिवि᳓ देवा᳓ इव श्रिताः᳓।  
+ता᳓न्स᳓र्वानह्व ऊत᳓येऽस्मा᳓ अरिष्ट᳓तातये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/080_ariShTaxayaNam/02_ye_trayaH.md">
@@ -170,8 +170,8 @@ The three, the Kalakanjas, set aloft in heaven as they were Gods All these I cal
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/080_ariShTaxayaNam/03_apsu_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒प्सु ते॒ जन्म॑ दि॒वि ते॑ स॒धस्थं॑ समु॒द्रे अ॒न्तर्म॑हि॒मा ते॑ पृथि॒व्याम्।  
-शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम ॥
+अप्सु᳓ ते ज᳓न्म दिवि᳓ ते सध᳓स्थं समुद्रे᳓ अन्त᳓र्महिमा᳓ ते पृथिव्या᳓म्।  
+शु᳓नो दिव्य᳓स्य य᳓न्म᳓हस्ते᳓ना ते हवि᳓षा विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/080_ariShTaxayaNam/03_apsu_te.md">

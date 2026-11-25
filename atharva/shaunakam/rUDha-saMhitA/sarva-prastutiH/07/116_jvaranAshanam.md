@@ -33,8 +33,8 @@ Translated: Grohmann, Ind. Stud. ix. 386, 414; Zimmer, p. 381; Henry, 45, 124; G
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/116_jvaranAshanam/01_namo_rUrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नमो॑ रू॒राय॒ च्यव॑नाय॒ नोद॑नाय धृ॒ष्णवे॑।  
-नमः॑ शी॒ताय॑ पूर्वकाम॒कृत्व॑ने ॥
+न᳓मो रूरा᳓य च्य᳓वनाय नो᳓दनाय धृष्ण᳓वे।  
+न᳓मः शीता᳓य पूर्वकामकृ᳓त्वने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/116_jvaranAshanam/01_namo_rUrAya.md">
@@ -106,7 +106,7 @@ Homage to him the burning one, shaker, exciter, violent! Homage to him the cold 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/116_jvaranAshanam/02_yo_anyedyurubhayadyurabhyetImam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॑न्ये॒द्युरु॑भय॒द्युर॒भ्येती॒मं म॒ण्डूक॑म॒भ्ये᳡त्वव्र॒तः ॥
+यो᳓ अन्येद्यु᳓रुभयद्यु᳓रभ्ये᳓तीमं᳓ मण्डू᳓कमभ्ये᳙त्वव्रतः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/116_jvaranAshanam/02_yo_anyedyurubhayadyurabhyetImam.md">

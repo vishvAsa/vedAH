@@ -33,8 +33,8 @@ Translated: Henry, 39, iii; Griffith, i. 376.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/096_shatrunAshanam/01_asadangAvaH_sadane-paptadvasatim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अस॑द॒न्गावः॒ सद॒नेऽप॑प्तद्वस॒तिं वयः॑।  
-आ॒स्थाने॒ पर्व॑ता अस्थुः॒ स्थाम्नि॑ वृ॒क्काव॑तिष्ठिपम् ॥
+अ᳓सदन्गा᳓वः स᳓दने᳓ऽपप्तद्वसतिं᳓ व᳓यः।  
+आस्था᳓ने प᳓र्वता अस्थुः स्था᳓म्नि वृक्का᳓वतिष्ठिपम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/096_shatrunAshanam/01_asadangAvaH_sadane-paptadvasatim.md">

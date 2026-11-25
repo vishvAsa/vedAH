@@ -37,8 +37,8 @@ Praise of Atharvan
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/002_AtmA/01_atharvANaM_pitaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुं मा॒तुर्गर्भं॑ पि॒तुरसुं॒ युवा॑नम्।  
-य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॒स्तमि॒हेह ब्र॑वः ॥
+अ᳓थर्वाणं पित᳓रं देव᳓बन्धुं मातु᳓र्ग᳓र्भं पितु᳓र᳓सुं यु᳓वानम्।  
+य᳓ इमं᳓ यज्ञं᳓ म᳓नसा चिके᳓त प्र᳓ णो वोचस्त᳓मिहे᳓ह᳓ ब्रवः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/002_AtmA/01_atharvANaM_pitaram.md">

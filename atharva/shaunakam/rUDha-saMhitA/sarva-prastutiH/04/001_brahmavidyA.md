@@ -36,8 +36,8 @@ Cosmogonical and mystico-theological doctrine
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/01_brahma_jajnAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॒द्वि सी॑म॒तः सु॒रुचो॑ वे॒न आ॑वः।  
-स बु॒ध्न्या॑ उप॒मा अ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ वि वः॑ ॥
+ब्र᳓ह्म जज्ञानं᳓ प्रथमं᳓ पुर᳓स्ताद्वि᳓ सीमतः᳓ सुरु᳓चो वेन᳓ आवः।  
+स᳓ बुध्न्या᳙ उपमा᳓ अस्य विष्ठाः᳓ सत᳓श्च यो᳓निम᳓सतश्च वि᳓ वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/01_brahma_jajnAnam.md">
@@ -118,8 +118,8 @@ Eastward at first the prayer was generated: Vena disclosed bright flashes from t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/02_iyaM_pitryA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒यं पित्र्या॒ राष्ट्र्ये॒त्वग्रे॑ प्रथ॒माय॑ ज॒नुषे॑ भुवने॒ष्ठाः।  
-तस्मा॑ ए॒तं सु॒रुचं॑ ह्वा॒रम॑ह्यं घ॒र्मं श्री॑णन्तु प्रथ॒माय॑ धा॒स्यवे॑ ॥
+इयं᳓ पि᳓त्र्या रा᳓ष्ट्र्येत्व᳓ग्रे प्रथमा᳓य जनु᳓षे भुवनेष्ठाः᳓।  
+त᳓स्मा एतं᳓ सुरु᳓चं ह्वार᳓मह्यं घर्मं᳓ श्रीणन्तु प्रथमा᳓य धास्य᳓वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/02_iyaM_pitryA.md">
@@ -197,8 +197,8 @@ Let this Queen come in front, her Father's daughter, found in the worlds for ear
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/03_pra_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र यो ज॒ज्ञे वि॒द्वान॑स्य॒ बन्धु॒र्विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति।  
-ब्रह्म॒ ब्रह्म॑ण॒ उज्ज॑भार॒ मध्या॑न्नी॒चैरु॒च्चैः स्व॒धा अ॒भि प्र त॑स्थौ ॥
+प्र᳓ यो᳓ जज्ञे᳓ विद्वा᳓नस्य ब᳓न्धुर्वि᳓श्वा देवा᳓नां ज᳓निमा विवक्ति।  
+ब्र᳓ह्म ब्र᳓ह्मण उ᳓ज्जभार म᳓ध्यान्नीचै᳓रुच्चैः᳓ स्वधा᳓ अभि᳓ प्र᳓ तस्थौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/03_pra_yo.md">
@@ -272,8 +272,8 @@ He who was born as his all-knowing kinsman declareth all the deities' generation
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/04_sa_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स हि दि॒वः स पृ॑थि॒व्या ऋ॑त॒स्था म॒ही क्षेमं॒ रोद॑सी अस्कभायत्।  
-म॒हान्म॒ही अस्क॑भाय॒द्वि जा॒तो द्यां सद्म॒ पार्थि॑वं च॒ रजः॑ ॥
+स᳓ हि᳓ दिवः᳓ स᳓ पृथिव्या᳓ ऋतस्था᳓ मही᳓ क्षे᳓मं रो᳓दसी अस्कभायत्।  
+महा᳓न्मही᳓ अ᳓स्कभायद्वि᳓ जातो᳓ द्यां᳓ स᳓द्म पा᳓र्थिवं च र᳓जः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/04_sa_hi.md">
@@ -350,8 +350,8 @@ For he, true to the law of Earth and Heaven, established both the mighty worlds 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स बु॒ध्न्यादा॑ष्ट्र ज॒नुषो॒ऽभ्यग्रं॒ बृह॒स्पति॑र्दे॒वता॒ तस्य॑ स॒म्राट्।  
-अह॒र्यच्छु॒क्रं ज्योति॑षो॒ जनि॒ष्टाथ॑ द्यु॒मन्तो॒ वि व॑सन्तु॒ विप्राः॑ ॥
+स᳓ बुध्न्या᳓दाष्ट्र जनु᳓षोऽभ्य᳓ग्रं बृ᳓हस्प᳓तिर्देव᳓ता त᳓स्य सम्रा᳓ट्।  
+अ᳓हर्य᳓च्छुक्रं᳓ ज्यो᳓तिषो ज᳓निष्टा᳓थ द्युम᳓न्तो वि᳓ वसन्तु वि᳓प्राः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
@@ -429,8 +429,8 @@ He from the depth hath been reborn for ever, Brihaspati the world's sole Lord an
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/06_nUnaM_tadasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नू॒नं तद॑स्य का॒व्यो हि॑नोति म॒हो दे॒वस्य॑ पू॒र्व्यस्य॒ धाम॑।  
-ए॒ष ज॑ज्ञे ब॒हुभिः॑ सा॒कमि॒त्था पूर्वे॒ अर्धे॒ विषि॑ते स॒सन्नु ॥
+नूनं᳓ त᳓दस्य काव्यो᳓ हिनोति महो᳓ देव᳓स्य पूर्व्य᳓स्य धा᳓म।  
+एष᳓ जज्ञे बहु᳓भिः साक᳓मित्था᳓ पू᳓र्वे अ᳓र्धे वि᳓षिते सस᳓न्नु᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/06_nUnaM_tadasya.md">
@@ -501,8 +501,8 @@ The sage and poet verily advanceth the statute of that mighty God primeval. He w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/07_yo-tharvANaM_pitaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-योऽथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुं॒ बृह॒स्पतिं॒ नम॒साव॑ च॒ गच्छा॑त्।  
-त्वं विश्वे॑षां जनि॒ता यथासः॑ क॒विर्दे॒वो न दभा॑यत्स्व॒धावा॑न् ॥
+यो᳓ऽथर्वाणं पित᳓रं देव᳓बन्धुं बृ᳓हस्प᳓तिं न᳓मसा᳓व च ग᳓च्छात्।  
+त्वं᳓ वि᳓श्वेषां जनिता᳓ य᳓था᳓सः कवि᳓र्देवो᳓ न᳓ द᳓भायत्स्वधा᳓वान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/07_yo-tharvANaM_pitaram.md">

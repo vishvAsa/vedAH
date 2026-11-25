@@ -37,8 +37,8 @@ A prayer for wealth and birth of a son
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/047_kuhUH/01_kuhUM_devIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कु॒हूं दे॒वीं सु॒कृतं॑ विद्म॒नाप॑सम॒स्मिन्य॒ज्ञे सु॒हवा॑ जोहवीमि।  
-सा नो॑ र॒यिं वि॒श्ववा॑रं॒ नि य॑च्छा॒द्ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्य᳡म् ॥
+कुहूं᳓ देवीं᳓ सुकृ᳓तं विद्मना᳓पसमस्मि᳓न्यज्ञे᳓ सुह᳓वा जोहवीमि।  
+सा᳓ नो रयिं᳓ विश्व᳓वारं नि᳓ यच्छाद्द᳓दातु वीरं᳓ शत᳓दायमुक्थ्य᳙म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/047_kuhUH/01_kuhUM_devIm.md">
@@ -109,8 +109,8 @@ Oft in this sacrifice with favoured cry I call Kuhu, beneficent Goddess, skilled
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/047_kuhUH/02_kuhUrdevAnAmamRtasya_patnI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कु॒हूर्दे॒वाना॑म॒मृत॑स्य॒ पत्नी॒ हव्या॑ नो अस्य ह॒विषो॑ जुषेत।  
-शृ॑णोतु य॒ज्ञमु॑श॒ती नो॑ अ॒द्य रा॒यस्पोषं॑ चिकि॒तुषी॑ दधातु ॥
+कुहू᳓र्देवा᳓नाममृ᳓तस्य प᳓त्नी ह᳓व्या नो अस्य हवि᳓षो जुषेत।  
+शृ᳙णोतु यज्ञ᳓मुशती᳓ नो अद्य᳓ राय᳓स्पो᳓षं चिकितु᳓षी दधातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/047_kuhUH/02_kuhUrdevAnAmamRtasya_patnI.md">

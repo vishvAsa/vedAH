@@ -37,8 +37,8 @@ A charm for the destruction of vermin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/01_hataM_tardam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ह॒तं त॒र्दं स॑म॒ङ्कमा॒खुम॑श्विना छि॒न्तं शिरो॒ अपि॑ पृ॒ष्टीः शृ॑णीतम्।  
-यवा॒न्नेददा॒नपि॑ नह्यतं॒ मुख॒मथाभ॑यं कृणुतं धा॒न्या᳡य ॥
+हतं᳓ तर्दं᳓ समङ्क᳓माखु᳓मश्विना छिन्तं᳓ शि᳓रो अ᳓पि पृष्टीः᳓ शृणीतम्।  
+य᳓वान्ने᳓द᳓दान᳓पि नह्यतं मु᳓खम᳓था᳓भयं कृणुतं धान्या᳙य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/050_abhayayAchanA/01_hataM_tardam.md">
@@ -111,8 +111,8 @@ Destroy the rat, the mole, the boring beetle, cut off their heads and crush thei
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/02_tarda_hai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तर्द॒ है पत॑ङ्ग॒ है जभ्य॒ हा उप॑क्वस।  
-ब्र॒ह्मेवासं॑स्थितं ह॒विरन॑दन्त इ॒मान्यवा॒नहिं॑सन्तो अ॒पोदि॑त ॥
+त᳓र्द है᳓ प᳓तङ्ग है᳓ ज᳓भ्य हा᳓ उ᳓पक्वस।  
+ब्रह्मे᳓वा᳓संस्थितं हवि᳓र᳓नदन्त इमा᳓न्य᳓वान᳓हिंसन्तो अपो᳓दित ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/050_abhayayAchanA/02_tarda_hai.md">
@@ -179,8 +179,8 @@ Ho! boring beetle, ho! thou worm, ho! noxious grub and grasshopper! As a priest 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/03_tardApate_vaghApate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तर्दा॑पते॒ वघा॑पते॒ तृष्ट॑जम्भा॒ आ शृ॑णोत मे।  
-य आ॑र॒ण्या व्य᳡द्व॒रा ये के च॒ स्थ व्य᳡द्व॒रास्तान्त्सर्वा॑ञ्जम्भयामसि ॥
+त᳓र्दापते व᳓घापते तृ᳓ष्टजम्भा आ᳓ शृणोत मे।  
+य᳓ आरण्या᳓ व्य᳙द्वरा᳓ ये᳓ के᳓ च स्थ᳓ व्य᳙द्वरा᳓स्ता᳓न्त्स᳓र्वाञ्जम्भयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/050_abhayayAchanA/03_tardApate_vaghApate.md">

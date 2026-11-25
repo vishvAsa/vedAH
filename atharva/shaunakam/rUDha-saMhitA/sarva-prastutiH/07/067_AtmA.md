@@ -37,8 +37,8 @@ A priest's prayer to the Agnayo Dhishnyah
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/067_AtmA/01_punarmaitvindriyaM_punarAtmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुन॑र्मैत्विन्द्रि॒यं पुन॑रा॒त्मा द्रवि॑णं॒ ब्राह्म॑णं च।  
-पुन॑र॒ग्नयो॒ धिष्ण्या॑ यथास्था॒म क॑ल्पयन्तामि॒हैव ॥
+पु᳓नर्मैत्विन्द्रियं᳓ पु᳓नरात्मा᳓ द्र᳓विणं ब्रा᳓ह्मणं च।  
+पु᳓नरग्न᳓यो धि᳓ष्ण्या यथास्थाम᳓ कल्पयन्तामिहै᳓व᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/067_AtmA/01_punarmaitvindriyaM_punarAtmA.md">

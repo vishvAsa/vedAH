@@ -37,8 +37,8 @@ A charm to facilitate conception
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/01_parvatAddivo_yonerangAdangAtsamAbhRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पर्व॑ताद्दि॒वो योने॒रङ्गा॑दङ्गात्स॒माभृ॑तम्।  
-शेपो॒ गर्भ॑स्य रेतो॒धाः सरौ॑ प॒र्णमि॒वा द॑धत् ॥
+प᳓र्वताद्दिवो᳓ यो᳓नेर᳓ङ्गादङ्गात्समा᳓भृतम्।  
+शे᳓पो ग᳓र्भस्य रेतोधाः᳓ स᳓रौ पर्ण᳓मिवा᳓ दधत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/01_parvatAddivo_yonerangAdangAtsamAbhRtam.md">
@@ -108,8 +108,8 @@ Let the man, sower of the germ, lay, as a feather on a shaft. Limb drawn from li
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/02_yatheyaM_pRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथे॒यं पृ॑थि॒वी म॒ही भू॒तानां॒ गर्भ॑माद॒धे।  
-ए॒वा द॑धामि ते॒ गर्भं॒ तस्मै॒ त्वामव॑से हुवे ॥
+य᳓थेयं᳓ पृथिवी᳓ मही᳓ भूता᳓नां ग᳓र्भमादधे᳓।  
+एवा᳓ दधामि ते ग᳓र्भं त᳓स्मै त्वा᳓म᳓वसे हुवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/02_yatheyaM_pRthivI.md">
@@ -175,8 +175,8 @@ Even as this broad earth received the germ of all the things that be, Thus withi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/03_garbhaM_dhehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गर्भं॑ धेहि सिनीवालि॒ गर्भं॑ धेहि सरस्वति।  
-गर्भं॑ ते अ॒श्विनो॒भा ध॑त्तां॒ पुष्क॑रस्रजा ॥
+ग᳓र्भं धेहि सिनीवालि ग᳓र्भं धेहि सरस्वति।  
+ग᳓र्भं ते अश्वि᳓नोभा᳓ धत्तां पु᳓ष्करस्रजा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/03_garbhaM_dhehi.md">
@@ -242,8 +242,8 @@ O Sinivali, set the germ, set thou the germ, Sarasvati! In thee let both the Asv
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/04_garbhaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गर्भं॑ ते मि॒त्रावरु॑णौ॒ गर्भं॑ दे॒वो बृह॒स्पतिः॑।  
-गर्भं॑ त॒ इन्द्र॑श्चा॒ग्निश्च॒ गर्भं॑ धा॒ता द॑धातु ते ॥
+ग᳓र्भं ते मित्रा᳓व᳓रुणौ ग᳓र्भं देवो᳓ बृ᳓हस्प᳓तिः।  
+ग᳓र्भं त इ᳓न्द्रश्चाग्नि᳓श्च ग᳓र्भं धाता᳓ दधातु ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/04_garbhaM_te.md">
@@ -305,8 +305,8 @@ Let Mitra-Varuna and God Brihaspati lay the germ in thee. Indra and Agni lay the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/05_viShNuryoniM_kalpayatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णु॒र्योनिं॑ कल्पयतु॒ त्वष्टा॑ रू॒पाणि॑ पिंशतु।  
-आ सि॑ञ्चतु प्र॒जाप॑तिर्धा॒ता गर्भं॑ दधातु ते ॥
+वि᳓ष्णुर्यो᳓निं कल्पयतु त्व᳓ष्टा रूपा᳓णि पिंशतु।  
+आ᳓ सिञ्चतु प्रजा᳓पतिर्धाता᳓ ग᳓र्भं दधातु ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/05_viShNuryoniM_kalpayatu.md">
@@ -369,8 +369,8 @@ Let Vishnu form and mould the womb, let Tvashtar duly shape the forms, Prajapati
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/06_yadveda_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्वेद॒ राजा॒ वरु॑णो॒ यद्वा॑ दे॒वी सर॑स्वती।  
-यदिन्द्रो॑ वृत्र॒हा वेद॒ तद्ग॑र्भ॒कर॑णं पिब ॥
+य᳓द्वे᳓द रा᳓जा व᳓रुणो य᳓द्वा देवी᳓ स᳓रस्वती।  
+य᳓दि᳓न्द्रो वृत्रहा᳓ वे᳓द त᳓द्गर्भक᳓रणं पिब ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/06_yadveda_rAjA.md">
@@ -433,8 +433,8 @@ Drink thou the procreative draught well-known to Varuna the King, Known to divin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/07_garbho_asyoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गर्भो॑ अ॒स्योष॑धीनां॒ गर्भो॒ वन॒स्पती॑नाम्।  
-गर्भो॒ विश्व॑स्य भू॒तस्य॒ सो अ॑ग्ने॒ गर्भ॒मेह धाः॑ ॥
+ग᳓र्भो अस्यो᳓षधीनां ग᳓र्भो व᳓नस्प᳓तीनाम्।  
+ग᳓र्भो वि᳓श्वस्य भूत᳓स्य सो᳓ अग्ने ग᳓र्भमे᳓ह᳓ धाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/07_garbho_asyoShadhInAm.md">
@@ -501,8 +501,8 @@ Thou art the germ of plants and herbs, thou art the germ of forest trees, The ge
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/08_adhi_skanda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अधि॑ स्कन्द वी॒रय॑स्व॒ गर्भ॒मा धे॑हि॒ योन्या॑म्।  
-वृषा॑सि वृष्ण्यावन्प्र॒जायै॒ त्वा न॑यामसि ॥
+अ᳓धि स्कन्द वीर᳓यस्व ग᳓र्भमा᳓ धेहि यो᳓न्याम्।  
+वृ᳓षासि वृष्ण्यावन्प्रजा᳓यै त्वा᳓ नयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/08_adhi_skanda.md">
@@ -569,8 +569,8 @@ Rise up, put forth thy manly strength, and lay thy germ within the womb. A bull 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/09_vi_jihIShva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि जि॑हीष्व बार्हत्सामे॒ गर्भ॑स्ते॒ योनि॒मा श॑याम्।  
-अदु॑ष्टे दे॒वाः पु॒त्रं सो॑म॒पा उ॑भया॒विन॑म् ॥
+वि᳓ जिहीष्व बार्हत्सामे ग᳓र्भस्ते यो᳓निमा᳓ शयाम्।  
+अ᳓दुष्टे देवाः᳓ पुत्रं᳓ सोमपा᳓ उभयावि᳓नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/09_vi_jihIShva.md">
@@ -638,8 +638,8 @@ Prepare thee, Barhatsama, let the germ be laid within thy side. The Soma-drinkin
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/10_dhAtaH_shreShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धातः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
-पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
+धा᳓तः श्रे᳓ष्ठेन रूपे᳓णास्या᳓ ना᳓र्या गवीन्योः᳓।  
+पु᳓मांसं पुत्र᳓मा᳓ धेहि दशमे᳓ मासि᳓ सू᳓तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/10_dhAtaH_shreShThena.md">
@@ -710,8 +710,8 @@ O Dhatar, thou Disposer, lay within the body of this dame. A male germ with the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/11_tvaShTaH_shreShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वष्टः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
-पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
+त्व᳓ष्टः श्रे᳓ष्ठेन रूपे᳓णास्या᳓ ना᳓र्या गवीन्योः᳓।  
+पु᳓मांसं पुत्र᳓मा᳓ धेहि दशमे᳓ मासि᳓ सू᳓तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/11_tvaShTaH_shreShThena.md">
@@ -770,8 +770,8 @@ Tvashtar, celestial artist, lay within the body of this dame. A male germ with t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/12_savitaH_shreShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सवि॑तः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
-पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
+स᳓वितः श्रे᳓ष्ठेन रूपे᳓णास्या᳓ ना᳓र्या गवीन्योः᳓।  
+पु᳓मांसं पुत्र᳓मा᳓ धेहि दशमे᳓ मासि᳓ सू᳓तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/12_savitaH_shreShThena.md">
@@ -818,8 +818,8 @@ Savitar, vivifier, lay within the body of this dame A male germ with the noblest
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/13_prajApate_shreShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रजा॑पते॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
-पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
+प्र᳓जापते श्रे᳓ष्ठेन रूपे᳓णास्या᳓ ना᳓र्या गवीन्योः᳓।  
+पु᳓मांसं पुत्र᳓मा᳓ धेहि दशमे᳓ मासि᳓ सू᳓तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/13_prajApate_shreShThena.md">

@@ -37,8 +37,8 @@ A prayer to Agni for the destruction of evil spirits
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/01_upa_prAgAddevo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॒ प्रागा॑द्दे॒वो अ॒ग्नी र॑क्षो॒हामी॑व॒चात॑नः।  
-दह॒न्नप॑ द्वया॒विनो॑ यातु॒धाना॑न्किमी॒दिनः॑ ॥
+उ᳓प प्रा᳓गाद्देवो᳓ अग्नी᳓ रक्षोहा᳓मीवचा᳓तनः।  
+द᳓हन्न᳓प द्वयावि᳓नो यातुधा᳓नान्किमीदि᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/01_upa_prAgAddevo.md">
@@ -101,8 +101,8 @@ God Agni hath come forth to us, fiend-slayer, chaser of disease, Burning the Yat
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/02_prati_daha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रति॑ दह यातु॒धाना॒न्प्रति॑ देव किमी॒दिनः॑।  
-प्र॒तीचीः॑ कृष्णवर्तने॒ सं द॑ह यातुधा॒न्यः॑ ॥
+प्र᳓ति दह यातुधा᳓नान्प्र᳓ति देव किमीदि᳓नः।  
+प्रती᳓चीः कृष्णवर्तने सं᳓ दह यातुधान्यः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/02_prati_daha.md">
@@ -164,8 +164,8 @@ Consume the Yatudhanas, God! meet the Kimidins with thy flame: Burn up the Yatud
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/03_yA_shashApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या श॒शाप॒ शप॑नेन॒ याघं मूर॑माद॒धे।  
-या रस॑स्य॒ हर॑णाय जा॒तमा॑रे॒भे तो॒कम॑त्तु॒ सा ॥
+या᳓ शशा᳓प श᳓पनेन या᳓घं᳓ मू᳓रमादधे᳓।  
+या᳓ र᳓सस्य ह᳓रणाय जात᳓मारेभे᳓ तोक᳓मत्तु सा᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/03_yA_shashApa.md">
@@ -236,8 +236,8 @@ She who hath cursed us with a curse, or hath conceived a murderous sin; Or seize
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पु॒त्रम॑त्तु यातुधा॒नीः स्वसा॑रमु॒त न॒प्त्य॑म्।  
-अधा॑ मि॒थो वि॑के॒श्यो॑३ वि घ्न॑तां यातुधा॒न्यो॑३ वि तृ॑ह्यन्तामरा॒य्यः॑ ॥
+पुत्र᳓मत्तु यातुधानीः᳓ स्व᳓सारमुत᳓ नप्त्य᳙म्।  
+अ᳓धा मिथो᳓ विकेश्यो᳙ वि᳓ घ्नतां यातुधान्यो᳙ वि᳓ तृह्यन्तामराय्यः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">

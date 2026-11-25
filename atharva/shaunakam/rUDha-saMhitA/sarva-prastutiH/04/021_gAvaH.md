@@ -37,8 +37,8 @@ Glorification and benediction of cows
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/01_A_gAvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ गावो॑ अग्मन्नु॒त भ॒द्रम॑क्र॒न्त्सीद॑न्तु गो॒ष्ठे र॒णय॑न्त्व॒स्मे।  
-प्र॒जाव॑तीः पुरु॒रूपा॑ इ॒ह स्यु॒रिन्द्रा॑य पू॒र्वीरु॒षसो॒ दुहा॑नाः ॥
+आ᳓ गा᳓वो अग्मन्नुत᳓ भद्र᳓मक्रन्त्सी᳓दन्तु गोष्ठे᳓ रण᳓यन्त्वस्मे᳓।  
+प्रजा᳓वतीः पुरुरू᳓पा इह᳓ स्युरि᳓न्द्राय पूर्वी᳓रुष᳓सो दु᳓हानाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/01_A_gAvo.md">
@@ -104,8 +104,8 @@ The kine have come and brought good fortune: let them rest in the cow-pen and be
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/02_indro_yajvane.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॒ यज्व॑ने गृण॒ते च॒ शिक्ष॑त॒ उपेद्द॑दाति॒ न स्वं मु॑षायति।  
-भूयो॑भूयो र॒यिमिद॑स्य व॒र्धय॑न्नभि॒न्ने खि॒ल्ये नि द॑धाति देव॒युम् ॥
+इ᳓न्द्रो य᳓ज्वने गृणते᳓ च शि᳓क्षत उ᳓पे᳓द्ददाति न᳓ स्वं᳓ मुषायति।  
+भू᳓योभूयो रयि᳓मि᳓दस्य वर्ध᳓यन्नभिन्ने᳓ खिल्ये᳓ नि᳓ दधाति देवयु᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/02_indro_yajvane.md">
@@ -175,8 +175,8 @@ Indra aids him who offers sacrifice and praise: he takes not what is his, and gi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/03_na_tA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न ता न॑शन्ति॒ न द॑भाति॒ तस्क॑रो॒ नासा॑मामि॒त्रो व्य॒थिरा द॑धर्षति।  
-दे॒वांश्च॒ याभि॒र्यज॑ते॒ ददा॑ति च॒ ज्योगित्ताभिः॑ सचते॒ गोप॑तिः स॒ह ॥
+न᳓ ता᳓ नशन्ति न᳓ दभाति त᳓स्करो ना᳓सामामित्रो᳓ व्यथि᳓रा᳓ दधर्षति।  
+देवां᳓श्च या᳓भिर्य᳓जते द᳓दाति च ज्यो᳓गि᳓त्ता᳓भिः सचते गो᳓पतिः सह᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/03_na_tA.md">
@@ -252,8 +252,8 @@ These are ne'er lost, no robber ever injures them: no evil-minded foe attempts t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/04_na_tA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न ता अर्वा॑ रे॒णुक॑काटोऽश्नुते॒ न सं॑स्कृत॒त्रमुप॑ यन्ति॒ ता अ॒भि।  
-उ॑रुगा॒यमभ॑यं॒ तस्य॒ ता अनु॒ गावो॒ मर्त॑स्य॒ वि च॑रन्ति॒ यज्व॑नः ॥
+न᳓ ता᳓ अ᳓र्वा रेणु᳓ककाटोऽश्नुते न᳓ संस्कृतत्र᳓मु᳓प यन्ति ता᳓ अभि᳓।  
+उ᳙रुगाय᳓म᳓भयं त᳓स्य ता᳓ अ᳓नु गा᳓वो म᳓र्तस्य वि᳓ चरन्ति य᳓ज्वनः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/04_na_tA.md">
@@ -326,8 +326,8 @@ The charger with his dusty brow o'ertakes them not, and never to the shambles do
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/05_gAvo_bhago.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गावो॒ भगो॒ गाव॒ इन्द्रो॑ म इछा॒द्गावः॒ सोम॑स्य प्रथ॒मस्य॑ भ॒क्षः।  
-इ॒मा या गावः॒ स ज॑नास॒ इन्द्र॑ इ॒च्छामि॑ हृ॒दा मन॑सा चि॒दिन्द्र॑म् ॥
+गा᳓वो भ᳓गो गा᳓व इ᳓न्द्रो म इछाद्गा᳓वः सो᳓मस्य प्रथम᳓स्य भक्षः᳓।  
+इमा᳓ या᳓ गा᳓वः स᳓ जनास इ᳓न्द्र इच्छा᳓मि हृदा᳓ म᳓नसा चिदि᳓न्द्रम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/05_gAvo_bhago.md">
@@ -394,8 +394,8 @@ To me the Cows seem Bhaga, they seem Indra, they seem a portion of the first pou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/06_yUyaM_gAvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यू॒यं गा॑वो मेदयथा कृ॒शं चि॑दश्री॒रं चि॑त्कृणुथा सु॒प्रती॑कम्।  
-भ॒द्रं गृ॒हं कृ॑णुथ भद्रवाचो बृ॒हद्वो॒ वय॑ उच्यते स॒भासु॑ ॥
+यूयं᳓ गावो मेदयथा कृशं᳓ चिदश्रीरं᳓ चित्कृणुथा सुप्र᳓तीकम्।  
+भद्रं᳓ गृहं᳓ कृणुथ भद्रवाचो बृह᳓द्वो व᳓य उच्यते सभा᳓सु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/06_yUyaM_gAvo.md">
@@ -460,8 +460,8 @@ O Cows, ye fatten e'en the worn and wasted, and make the unlovely beautiful to l
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/07_prajAvatIH_sUyavase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाव॑तीः सू॒यव॑से रु॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः।  
-मा व॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु ॥
+प्रजा᳓वतीः सूय᳓वसे रुश᳓न्तीः शुद्धा᳓ अपः᳓ सुप्रपाणे᳓ पि᳓बन्तीः।  
+मा᳓ व स्तेन᳓ ईशत मा᳓घ᳓शंसः प᳓रि वो रुद्र᳓स्य हेति᳓र्वृणक्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/07_prajAvatIH_sUyavase.md">

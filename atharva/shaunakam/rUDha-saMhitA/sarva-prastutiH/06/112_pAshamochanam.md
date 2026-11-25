@@ -33,8 +33,8 @@ Translated: Ludwig, p. 469; Grill, 15, 171; Griffith, i. 306; Bloomfield, AJP. x
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/112_pAshamochanam/01_mA_jyeShTham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा ज्ये॒ष्ठं व॑धीद॒यम॑ग्न ए॒षां मू॑ल॒बर्ह॑णा॒त्परि॑ पाह्येनम्।  
-स ग्राह्याः॒ पाशा॒न्वि चृ॑त प्रजा॒नन्तुभ्यं॑ दे॒वा अनु॑ जानन्तु॒ विश्वे॑ ॥
+मा᳓ ज्येष्ठं᳓ वधीदय᳓मग्न एषां᳓ मूलब᳓र्हणात्प᳓रि पाह्येनम्।  
+स᳓ ग्रा᳓ह्याः पा᳓शान्वि᳓ चृत प्रजान᳓न्तु᳓भ्यं देवा᳓ अ᳓नु जानन्तु वि᳓श्वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/112_pAshamochanam/01_mA_jyeShTham.md">
@@ -101,8 +101,8 @@ Let not this one, O Agni, wound the highest of these: preserve thou him from utt
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/112_pAshamochanam/02_unmuncha_pAshAMstvamagna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उन्मु॑ञ्च॒ पाशां॒स्त्वम॑ग्न ए॒षां त्रय॑स्त्रि॒भिरुत्सि॑ता॒ येभि॒रास॑न्।  
-स ग्राह्याः॒ पाशा॒न्वि चृ॑त प्रजा॒नन्पि॑तापु॒त्रौ मा॒तरं॑ मुञ्च॒ सर्वा॑न् ॥
+उ᳓न्मुञ्च पा᳓शांस्त्व᳓मग्न एषां᳓ त्र᳓यस्त्रिभि᳓रु᳓त्सिता ये᳓भिरा᳓सन्।  
+स᳓ ग्रा᳓ह्याः पा᳓शान्वि᳓ चृत प्रजान᳓न्पितापुत्रौ᳓ मात᳓रं मुञ्च स᳓र्वान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/112_pAshamochanam/02_unmuncha_pAshAMstvamagna.md">
@@ -168,8 +168,8 @@ Rend thou the; bonds of these asunder, Agni! the, threefold noose whereby the th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/112_pAshamochanam/03_yebhiH_pAshaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येभिः॒ पाशैः॒ परि॑वित्तो॒ विब॒द्धोऽङ्गेअ॑ङ्ग॒ आर्पि॑त॒ उत्सि॑तश्च।  
-वि ते मु॑च्यन्तं वि॒मुचो॒ हि सन्ति॑ भ्रूण॒घ्नि पू॑षन्दुरि॒तानि॑ मृक्ष्व ॥
+ये᳓भिः पा᳓शैः प᳓रिवित्तो वि᳓बद्धो᳓ऽङ्गे᳓अङ्ग आ᳓र्पित उ᳓त्सितश्च।  
+वि᳓ ते᳓ मुच्यन्तं विमु᳓चो हि᳓ स᳓न्ति भ्रूणघ्नि᳓ पूषन्दुरिता᳓नि मृक्ष्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/112_pAshamochanam/03_yebhiH_pAshaiH.md">

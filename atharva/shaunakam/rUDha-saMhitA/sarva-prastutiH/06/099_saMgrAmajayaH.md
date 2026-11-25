@@ -33,8 +33,8 @@ Translated: Grill, 18, 168; Griffith, i. 299; Bloomfield, 123, 510.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि त्वे॑न्द्र॒ वरि॑मतः पु॒रा त्वां॑हूर॒णाद्धु॑वे।  
-ह्वया॑म्यु॒ग्रं चे॒त्तारं॑ पु॒रुणा॑मानमेक॒जम् ॥
+अभि᳓ त्वेन्द्र व᳓रिमतः पुरा᳓ त्वांहूरणा᳓द्धुवे।  
+ह्व᳓याम्युग्रं᳓ चेत्ता᳓रं पुरु᳓णामानमेकज᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
@@ -102,8 +102,8 @@ Indra, before affliction comes, I call thee from the wide expanse. The mighty gu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/02_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒द्य सेन्यो॑ व॒धो जिघां॑सन्न उ॒दीर॑ते।  
-इन्द्र॑स्य॒ तत्र॑ बा॒हू स॑म॒न्तं परि॑ दद्मः ॥
+यो᳓ अद्य᳓ से᳓न्यो वधो᳓ जि᳓घांसन्न उदी᳓रते।  
+इ᳓न्द्रस्य त᳓त्र बाहू᳓ समन्तं᳓ प᳓रि दद्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/099_saMgrAmajayaH/02_yo_adya.md">
@@ -172,8 +172,8 @@ Whatever deadly missile launched to-day flies forth to slaughter us. We take bot
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/03_pari_dadma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ दद्म॒ इन्द्र॑स्य बा॒हू स॑म॒न्तं त्रा॒तुस्त्राय॑तां नः।  
-देव॑ सवितः॒ सोम॑ राजन्सु॒मन॑सं मा कृणु स्व॒स्तये॑ ॥
+प᳓रि दद्म इ᳓न्द्रस्य बाहू᳓ समन्तं᳓ त्रातु᳓स्त्रा᳓यतां नः।  
+दे᳓व सवितः सो᳓म राजन्सुम᳓नसं मा कृणु स्वस्त᳓ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/099_saMgrAmajayaH/03_pari_dadma.md">

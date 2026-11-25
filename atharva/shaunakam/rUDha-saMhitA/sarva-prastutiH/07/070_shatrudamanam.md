@@ -37,8 +37,8 @@ A charm to frustrate an enemy's sacrifice
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/01_yatkiM_chAsau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्किं चा॒सौ मन॑सा॒ यच्च॑ वा॒चा य॒ज्ञैर्जु॒होति॑ ह॒विषा॒ यजु॑षा।  
-तन्मृ॒त्युना॒ निरृ॑तिः संविदा॒ना पु॒रा स॒त्यादाहु॑तिं हन्त्वस्य ॥
+य᳓त्किं᳓ चासौ᳓ म᳓नसा य᳓च्च वाचा᳓ यज्ञै᳓र्जुहो᳓ति हवि᳓षा य᳓जुषा।  
+त᳓न्मृत्यु᳓ना नि᳓रृतिः संविदाना᳓ पुरा᳓ सत्या᳓दा᳓हुतिं हन्त्वस्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/01_yatkiM_chAsau.md">
@@ -106,8 +106,8 @@ Whatever sacrifice that man performeth with voice, mind, sacred formula, oblatio
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/02_yAtudhAnA_nirRtirAdu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या॑तु॒धाना॒ निरृ॑ति॒रादु॒ रक्ष॒स्ते अ॑स्य घ्न॒न्त्वनृ॑तेन स॒त्यम्।  
-इन्द्रे॑षिता दे॒वा आज॑मस्य मथ्नन्तु॒ मा तत्सं पा॑दि॒ यद॒सौ जु॒होति॑ ॥
+या᳙तुधा᳓ना नि᳓रृतिरा᳓दु र᳓क्षस्ते᳓ अस्य घ्नन्त्व᳓नृतेन सत्य᳓म्।  
+इ᳓न्द्रेषिता देवा᳓ आ᳓जमस्य मथ्नन्तु मा᳓ त᳓त्सं᳓ पादि य᳓दसौ᳓ जुहो᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/02_yAtudhAnA_nirRtirAdu.md">
@@ -173,8 +173,8 @@ For him may sorcerers, Destruction, demons strike and prevent fulfilment through
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/03_ajirAdhirAjau_shyenau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑जिराधिरा॒जौ श्ये॒नौ सं॑पा॒तिना॑विव।  
-आज्यं॑ पृतन्य॒तो ह॑तां॒ यो नः॒ कश्चा॑भ्यघा॒यति॑ ॥
+अ᳙जिराधिराजौ᳓ श्येनौ᳓ संपाति᳓नाविव।  
+आ᳓ज्यं पृतन्यतो᳓ हतां यो᳓ नः क᳓श्चाभ्यघाय᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/03_ajirAdhirAjau_shyenau.md">
@@ -239,8 +239,8 @@ Let the two Sovrans, swift to come, like falcons swooping on their prey, Destroy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/04_apAnchau_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपा॑ञ्चौ त उ॒भौ बा॒हू अपि॑ नह्याम्या॒स्य᳡म्।  
-अ॒ग्नेर्दे॒वस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥
+अ᳓पाञ्चौ त उभौ᳓ बाहू᳓ अ᳓पि नह्याम्यास्य᳙म्।  
+अग्ने᳓र्देव᳓स्य मन्यु᳓ना ते᳓न तेऽवधिषं हविः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/04_apAnchau_ta.md">
@@ -304,8 +304,8 @@ I seize thine arms and draw them back, I bind a bandage on thy mouth. I with the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/05_api_nahyAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपि॑ नह्यामि ते बा॒हू अपि॑ नह्याम्या॒स्य᳡म्।  
-अ॒ग्नेर्घो॒रस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥
+अ᳓पि नह्यामि ते बाहू᳓ अ᳓पि नह्याम्यास्य᳙म्।  
+अग्ने᳓र्घोर᳓स्य मन्यु᳓ना ते᳓न तेऽवधिषं हविः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/05_api_nahyAmi.md">

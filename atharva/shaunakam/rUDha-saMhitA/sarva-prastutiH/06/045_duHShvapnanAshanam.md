@@ -37,8 +37,8 @@ A prayer for preservation from mental sin and evil promptings
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒रोऽपे॑हि मनस्पाप॒ किमश॑स्तानि शंससि।  
-परे॑हि॒ न त्वा॑ कामये वृ॒क्षां वना॑नि॒ सं च॑र गृ॒हेषु॒ गोषु॑ मे॒ मनः॑ ॥
+परो᳓ऽपेहि मनस्पाप कि᳓म᳓शस्तानि शंससि।  
+प᳓रेहि न᳓ त्वा कामये वृक्षां᳓ व᳓नानि सं᳓ चर गृहे᳓षु गो᳓षु मे म᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
@@ -105,8 +105,8 @@ Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑व॒शसा॑ निः॒शसा॒ यत्प॑रा॒शसो॑पारि॒म जाग्र॑तो॒ यत्स्व॒पन्तः॑।  
-अ॒ग्निर्विश्वा॒न्यप॑ दुष्कृ॒तान्यजु॑ष्टान्या॒रे अ॒स्मद्द॑धातु ॥
+अ᳙वश᳓सा निःश᳓सा य᳓त्पराश᳓सोपारिम᳓ जा᳓ग्रतो य᳓त्स्वप᳓न्तः।  
+अग्नि᳓र्वि᳓श्वान्य᳓प दुष्कृता᳓न्य᳓जुष्टान्यारे᳓ अस्म᳓द्दधातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
@@ -180,8 +180,8 @@ Whatever wrong we have committed, sleeping or waking, by ill-wish, dislike, or s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑न्द्र ब्रह्मणस्प॒तेऽपि॒ मृषा॒ चरा॑मसि।  
-प्रचे॑ता न आङ्गिर॒सो दु॑रि॒तात्पा॒त्वंह॑सः ॥
+य᳓दिन्द्र ब्रह्मणस्पते᳓ऽपि मृ᳓षा च᳓रामसि।  
+प्र᳓चेता न आङ्गिरसो᳓ दुरिता᳓त्पात्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">

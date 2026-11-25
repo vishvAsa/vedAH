@@ -37,8 +37,8 @@ A prayer to Agni for long life
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/032_dIrghAyuH/01_upa_priyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑ प्रि॒यं पनि॑प्नतं॒ युवा॑नमाहुती॒वृध॑म्।  
-अग॑न्म॒ बिभ्र॑तो॒ नमो॑ दी॒र्घमायुः॑ कृणोतु मे ॥
+उ᳓प प्रियं᳓ प᳓निप्नतं यु᳓वानमाहुतीवृ᳓धम्।  
+अ᳓गन्म बि᳓भ्रतो न᳓मो दीर्घ᳓मा᳓युः कृणोतु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/032_dIrghAyuH/01_upa_priyam.md">

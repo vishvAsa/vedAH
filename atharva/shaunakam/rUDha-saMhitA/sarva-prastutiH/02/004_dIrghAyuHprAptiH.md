@@ -37,8 +37,8 @@ A charm to ensure health and prosperity by wearing an amulet
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/01_dIrghAyutvAya_bRhate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दी॑र्घायु॒त्वाय॑ बृहते रणा॒यारि॑ष्यन्तो॒ दक्ष॑माणाः॒ सदै॒व।  
-म॒णिं वि॑ष्कन्ध॒दूष॑णं जङ्गि॒डं बि॑भृमो व॒यम् ॥
+दी᳙र्घायुत्वा᳓य बृहते रणाया᳓रिष्यन्तो द᳓क्षमाणाः स᳓दैव᳓।  
+मणिं᳓ विष्कन्धदू᳓षणं जङ्गिडं᳓ बिभृमो वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/01_dIrghAyutvAya_bRhate.md">
@@ -106,8 +106,8 @@ For length of life, for mighty joy, uninjured, ever showing strength. We wear Vi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/02_jangiDo_jambhAdvisharAdviShkandhAdabhishochanAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज॑ङ्गि॒डो ज॒म्भाद्वि॑श॒राद्विष्क॑न्धादभि॒शोच॑नात्।  
-म॒णिः स॒हस्र॑वीर्यः॒ परि॑ णः पातु वि॒श्वतः॑ ॥
+ज᳙ङ्गिडो᳓ जम्भा᳓द्विशरा᳓द्वि᳓ष्कन्धादभिशो᳓चनात्।  
+मणिः᳓ सह᳓स्रवीर्यः प᳓रि णः पातु विश्व᳓तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/02_jangiDo_jambhAdvisharAdviShkandhAdabhishochanAt.md">
@@ -175,8 +175,8 @@ Amulet of a thousand powers, Jangida save us, all around. From Jambha, and from 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/03_ayaM_viShkandham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं विष्क॑न्धं सहते॒ ऽयं बा॑ध॒ते अ॒त्त्रिणः॑।  
-अ॒यं नो॑ वि॒श्वभे॑षजो जङ्गि॒डः पा॒त्वंह॑सः ॥
+अयं᳓ वि᳓ष्कन्धं सहते ऽयं᳓ बाधते᳓ अत्त्रि᳓णः।  
+अयं᳓ नो विश्व᳓भेषजो जङ्गिडः᳓ पात्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/03_ayaM_viShkandham.md">
@@ -240,8 +240,8 @@ This overcomes Vishkandha, this chases the greedy fiends away: May this our pana
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/04_devairdattena_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वैर्द॒त्तेन॑ म॒णिना॑ जङ्गि॒डेन॑ मयो॒भुवा॑।  
-विष्क॑न्धं॒ सर्वा॒ रक्षां॑सि व्याया॒मे स॑हामहे ॥
+देवै᳓र्दत्ते᳓न मणि᳓ना जङ्गिडे᳓न मयोभु᳓वा।  
+वि᳓ष्कन्धं स᳓र्वा र᳓क्षांसि व्यायामे᳓ सहामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/04_devairdattena_maNinA.md">
@@ -303,8 +303,8 @@ With Jangida that brings delight, Amulet given by the Gods, We in the conflict o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/05_shaNashcha_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒णश्च॑ मा जङ्गि॒डश्च॒ विष्क॑न्धाद॒भि र॑क्षताम्।  
-अर॑ण्याद॒न्य आभृ॑तः कृ॒ष्या अ॒न्यो रसे॑भ्यः ॥
+शण᳓श्च मा जङ्गिड᳓श्च वि᳓ष्कन्धादभि᳓ रक्षताम्।  
+अ᳓रण्यादन्य᳓ आ᳓भृतः कृष्या᳓ अन्यो᳓ र᳓सेभ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/05_shaNashcha_mA.md">
@@ -369,8 +369,8 @@ May Cannabis and Jangida preserve me from Vishkandha,-- that Brought to us from 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/06_kRtyAdUShirayaM_maNiratho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॑त्या॒दूषि॑र॒यं म॒णिरथो॑ अराति॒दूषिः॑।  
-अथो॒ सह॑स्वान् जङ्गि॒डः प्र ण॒ आयुं॑षि तारिषत् ॥
+कृ᳙त्यादू᳓षिरयं᳓ मणि᳓र᳓थो अरातिदू᳓षिः।  
+अ᳓थो स᳓हस्वान् जङ्गिडः᳓ प्र᳓ ण आ᳓युंषि तारिषत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/06_kRtyAdUShirayaM_maNiratho.md">

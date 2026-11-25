@@ -37,8 +37,8 @@ To accompany the three daily libations
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/01_agniH_prAtaHsavane.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निः प्रा॑तःसव॒ने पा॑त्व॒स्मान्वै॑श्वान॒रो वि॑श्व॒कृद्वि॒श्वशं॑भूः।  
-स नः॑ पाव॒को द्रवि॑णे दधा॒त्वायु॑ष्मन्तः स॒हभ॑क्षाः स्याम ॥
+अग्निः᳓ प्रातःसवने᳓ पात्वस्मा᳓न्वैश्वानरो᳓ विश्वकृ᳓द्विश्व᳓शंभूः।  
+स᳓ नः पावको᳓ द्र᳓विणे दधात्वा᳓युष्मन्तः सह᳓भक्षाः स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/047_dIrghAyuH_prAptiH/01_agniH_prAtaHsavane.md">
@@ -106,8 +106,8 @@ Dear to all men, all-prosperer, all-creating, may Agni, guard us* at the morn's 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/02_vishve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्वे॑ दे॒वा म॒रुत॒ इन्द्रो॑ अ॒स्मान॒स्मिन्द्वि॒तीये॒ सव॑ने॒ न ज॑ह्युः।  
-आयु॑ष्मन्तः प्रि॒यमे॑षां॒ वद॑न्तो व॒यं दे॒वानां॑ सुम॒तौ स्या॑म ॥
+वि᳓श्वे देवा᳓ मरु᳓त इ᳓न्द्रो अस्मा᳓नस्मि᳓न्द्विती᳓ये स᳓वने न᳓ जह्युः।  
+आ᳓युष्मन्तः प्रिय᳓मेषां व᳓दन्तो वयं᳓ देवा᳓नां सुमतौ᳓ स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/047_dIrghAyuH_prAptiH/02_vishve_devA.md">
@@ -170,8 +170,8 @@ At this our second offering may Indra, Maruts, and Visve Devas never fail us. St
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/03_idaM_tRtIyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं तृ॒तीयं॒ सव॑नं कवी॒नामृ॒तेन॒ ये च॑म॒समैर॑यन्त।  
-ते सौ॑धन्व॒नाः स्व᳡रानशा॒नाः स्वि᳡ष्टिं नो अ॒भि वस्यो॑ नयन्तु ॥
+इदं᳓ तृती᳓यं स᳓वनं कवीना᳓मृते᳓न ये᳓ चमस᳓मै᳓रयन्त।  
+ते᳓ सौधन्वनाः᳓ स्व᳙रानशानाः᳓ स्वि᳙ष्टिं नो अभि᳓ व᳓स्यो नयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/047_dIrghAyuH_prAptiH/03_idaM_tRtIyam.md">

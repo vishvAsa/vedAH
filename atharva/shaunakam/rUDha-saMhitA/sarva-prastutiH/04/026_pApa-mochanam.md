@@ -37,8 +37,8 @@ A hymn to Heaven and Earth
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/01_manve_vAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒न्वे वां॑ द्यावापृथिवी सुभोजसौ॒ सचे॑तसौ॒ ये अप्र॑थेथा॒ममि॑ता॒ योज॑नानि।  
-प्र॑ति॒ष्ठे ह्यभ॑वतं॒ वसू॑नां॒ ते नो॑ मुञ्चत॒मंह॑सः ॥
+मन्वे᳓ वां द्यावापृथिवी सुभोजसौ स᳓चेतसौ ये᳓ अ᳓प्रथेथाम᳓मिता यो᳓जनानि।  
+प्र᳙तिष्ठे᳓ ह्य᳓भवतं व᳓सूनां ते᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/01_manve_vAm.md">
@@ -110,8 +110,8 @@ O Heaven and Earth, I think on you, wise, givers of abundant gifts, ye who throu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/02_pratiShThe_hyabhavatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॑ति॒ष्ठे ह्यभ॑वतं॒ वसू॑नां॒ प्रवृ॑द्धे देवी सुभगे उरूची।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+प्र᳙तिष्ठे᳓ ह्य᳓भवतं व᳓सूनां प्र᳓वृद्धे देवी सुभगे उरूची।  
+द्या᳓वापृथिवी भ᳓वतं मे स्योने᳓ ते᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/02_pratiShThe_hyabhavatam.md">
@@ -177,8 +177,8 @@ Yea, seats and homes are ye of goodly treasures, grown strong, divine, blessed, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/03_asantApe_sutapasau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑सन्ता॒पे सु॒तप॑सौ हुवे॒ऽहमु॒र्वी ग॑म्भी॒रे क॒विभि॑र्नम॒स्ये॑।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+अ᳙सन्तापे᳓ सुत᳓पसौ हुवेऽह᳓मुर्वी᳓ गम्भीरे᳓ कवि᳓भिर्नमस्ये᳙।  
+द्या᳓वापृथिवी भ᳓वतं मे स्योने᳓ ते᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/03_asantApe_sutapasau.md">
@@ -241,8 +241,8 @@ I call on you who warm and cause no sorrow, deep, spacious, meet to be adored by
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/04_ye_amRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये अ॒मृतं॑ बिभृ॒थो ये ह॒वींषि॒ ये स्रो॒त्या बि॑भृ॒थो ये म॑नु॒ष्या॑न्।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+ये᳓ अमृ᳓तं बिभृथो᳓ ये᳓ हवीं᳓षि ये᳓ स्रोत्या᳓ बिभृथो᳓ ये᳓ मनुष्या᳙न्।  
+द्या᳓वापृथिवी भ᳓वतं मे स्योने᳓ ते᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/04_ye_amRtam.md">
@@ -303,8 +303,8 @@ Ye who maintain Amrit and sacrifices, ye who support rivers and human beings, To
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/05_ye_usriyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये उ॒स्रिया॑ बिभृ॒थो ये वन॒स्पती॒न्ययो॑र्वां॒ विश्वा॒ भुव॑नान्य॒न्तः।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+ये᳓ उस्रि᳓या बिभृथो᳓ ये᳓ व᳓नस्प᳓तीन्य᳓योर्वां वि᳓श्वा भु᳓वनान्यन्तः᳓।  
+द्या᳓वापृथिवी भ᳓वतं मे स्योने᳓ ते᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/05_ye_usriyA.md">
@@ -367,8 +367,8 @@ Ye by whom cows and forest trees are cherished within whose range all creatures 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/06_ye_kIlAlena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये की॒लाले॑न त॒र्पय॑थो॒ ये घृ॒तेन॒ याभ्या॑मृ॒ते न किं च॒न श॑क्नु॒वन्ति॑।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+ये᳓ कीला᳓लेन तर्प᳓यथो ये᳓ घृते᳓न या᳓भ्यामृते᳓ न᳓ किं᳓ चन᳓ शक्नुव᳓न्ति।  
+द्या᳓वापृथिवी भ᳓वतं मे स्योने᳓ ते᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/06_ye_kIlAlena.md">
@@ -431,8 +431,8 @@ Ye who delight in nectar and in fatness, ye without whom men have no strength or
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/07_yanmedamabhishochati_yenayena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यन्मेदम॑भि॒शोच॑ति॒ येन॑येन वा कृ॒तं पौरु॑षेया॒न्न दैवा॑त्।  
-स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मंह॑सः ॥
+य᳓न्मे᳓द᳓मभिशो᳓चति ये᳓नयेन वा कृतं᳓ पौ᳓रुषेयान्न᳓ दै᳓वात्।  
+स्तौ᳓मि द्या᳓वापृथिवी᳓ नाथितो᳓ जोहवीमि ते᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/07_yanmedamabhishochati_yenayena.md">

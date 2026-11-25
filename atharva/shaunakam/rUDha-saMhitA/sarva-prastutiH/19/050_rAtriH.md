@@ -37,8 +37,8 @@ A hymn to Night for protection and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/01_adha_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अध॑ रात्रि तृ॒ष्टधू॑ममशी॒र्षाण॒महिं॑ कृणु।  
-अ॒क्षौ वृक॑स्य॒ निर्ज॑ह्या॒स्तेन॒ तं द्रु॑प॒दे ज॑हि ॥
+अ᳓ध रात्रि तृष्ट᳓धूममशीर्षा᳓णम᳓हिं कृणु।  
+अक्षौ᳓ वृ᳓कस्य नि᳓र्जह्यास्ते᳓न तं᳓ द्रुपदे᳓ जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/01_adha_rAtri.md">
@@ -116,8 +116,8 @@ Blind him and make him headless, Night! the serpent with the pungent breath. Str
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/02_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये ते॑ रात्र्यन॒ड्वाह॑स्ती॒क्ष्णशृ॑ङ्गाः स्वा॒शवः॑।  
-तेभि॑र्नो अ॒द्य पा॑र॒याति॑ दु॒र्गाणि॑ वि॒श्वहा॑ ॥
+ये᳓ ते रात्र्यनड्वा᳓हस्तीक्ष्ण᳓शृङ्गाः स्वाश᳓वः।  
+ते᳓भिर्नो अद्य᳓ पारया᳓ति दुर्गा᳓णि विश्व᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/02_ye_te.md">
@@ -214,8 +214,8 @@ Those oxen that are thine, O Night, with sharpened horns and rapid pace, With th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रात्रिं॑रात्रि॒मरि॑ष्यन्त॒स्तरे॑म त॒न्वा᳡ व॒यम्।  
-ग॑म्भी॒रमप्ल॑वा इव॒ न त॑रेयु॒ररा॑तयः ॥
+रा᳓त्रिंरात्रिम᳓रिष्यन्तस्त᳓रेम तन्वा᳙ वय᳓म्।  
+ग᳙म्भीर᳓म᳓प्लवा इव न᳓ तरेयुर᳓रातयः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
@@ -272,8 +272,8 @@ Uninjured in our bodies may we pass through each succeeding night, And let malig
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/04_yathA_shAmyAkaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ शा॒म्याकः॑ प्र॒पत॑न्नप॒वान्नानु॑वि॒द्यते॑।  
-ए॒वा रा॑त्रि॒ प्र पा॑तय॒ यो अ॒स्माँ अ॑भ्यघा॒यति॑ ॥
+य᳓था शाम्या᳓कः प्रप᳓तन्नपवा᳓न्ना᳓नुविद्य᳓ते।  
+एवा᳓ रात्रि प्र᳓ पातय यो᳓ अस्माँ᳓ अभ्यघाय᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/04_yathA_shAmyAkaH.md">
@@ -344,8 +344,8 @@ As millet hurried through the air before us is beheld no more. So cause the man 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/05_apa_stenam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अप॑ स्ते॒नं वासो॑ गोअ॒जमु॒त तस्क॑रम्।  
-अथो॒ यो अर्व॑तः॒ शिरो॑ऽभि॒धाय॒ निनी॑षति ॥
+अ᳓प स्तेनं᳓ वा᳓सो गोअज᳓मुत᳓ त᳓स्करम्।  
+अ᳓थो यो᳓ अ᳓र्वतः शि᳓रोऽभिधा᳓य नि᳓नीषति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/05_apa_stenam.md">
@@ -426,8 +426,8 @@ The thief hast thou kept far away, the robber driver of our kine. Even him who h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/06_yadadyA_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॒द्या रा॑त्रि सुभगे वि॒भज॒न्त्ययो॒ वसु॑।  
-यदे॒तद॒स्मान्भोज॑य॒ यथेद॒न्यानु॒पाय॑सि ॥
+य᳓दद्या᳓ रात्रि सुभगे विभ᳓जन्त्य᳓यो व᳓सु।  
+य᳓देत᳓दस्मा᳓न्भो᳓जय य᳓थे᳓दन्या᳓नुपा᳓यसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/06_yadadyA_rAtri.md">
@@ -504,8 +504,8 @@ If dealing treasure thou hast come to-day, O highly favoured Night. Cause thou u
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/07_uShase_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒षसे॑ नः॒ परि॑ देहि॒ सर्वा॑न्रात्र्यना॒गसः॑।  
-उ॒षा नो॒ अह्ने॒ आ भ॑जा॒दह॒स्तुभ्यं॑ विभावरि ॥
+उष᳓से नः प᳓रि देहि स᳓र्वान्रात्र्यनाग᳓सः।  
+उषा᳓ नो अ᳓ह्ने आ᳓ भजाद᳓हस्तु᳓भ्यं विभावरि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/07_uShase_naH.md">

@@ -37,8 +37,8 @@ A hymn of prayer and praise to Indra
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/01_indrasya_manmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य मन्महे॒ शश्व॒दिद॑स्य मन्महे वृत्र॒घ्न स्तोमा॒ उप॑ मे॒म आगुः॑।  
-यो दा॒शुषः॑ सु॒कृतो॒ हव॒मेति॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+इ᳓न्द्रस्य मन्महे श᳓श्वदि᳓दस्य मन्महे वृत्रघ्न᳓ स्तो᳓मा उ᳓प मेम᳓ आ᳓गुः।  
+यो᳓ दाशु᳓षः सुकृ᳓तो ह᳓वमे᳓ति स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/01_indrasya_manmahe.md">
@@ -106,8 +106,8 @@ I think of Indra, only him for ever, fiend-slayer, May these lauds of mine come 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/02_ya_ugrINAmugrabAhuryayuryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य उ॒ग्रीणा॑मु॒ग्रबा॑हुर्य॒युर्यो दा॑न॒वानां॒ बल॑मारु॒रोज॑।  
-येन॑ जि॒ताः सिन्ध॑वो॒ येन॒ गावः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+य᳓ उग्री᳓णामुग्र᳓बाहुर्ययु᳓र्यो᳓ दानवा᳓नां ब᳓लमारुरो᳓ज।  
+ये᳓न जिताः᳓ सि᳓न्धवो ये᳓न गा᳓वः स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/02_ya_ugrINAmugrabAhuryayuryo.md">
@@ -174,8 +174,8 @@ Who with strong arms o'ercame his strong opponents, who broke and crushed the po
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/03_yashcharShaNipro_vRShabhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यश्च॑र्षणि॒प्रो वृ॑ष॒भः स्व॒र्विद्यस्मै॒ ग्रावा॑णः प्र॒वद॑न्ति नृ॒म्णम्।  
-यस्या॑ध्व॒रः स॒प्तहो॑ता॒ मदि॑ष्ठः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+य᳓श्चर्षणिप्रो᳓ वृषभः᳓ स्वर्वि᳓द्य᳓स्मै ग्रा᳓वाणः प्रव᳓दन्ति नृम्ण᳓म्।  
+य᳓स्याध्वरः᳓ सप्त᳓होता म᳓दिष्ठः स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/03_yashcharShaNipro_vRShabhaH.md">
@@ -240,8 +240,8 @@ Ruler of men, finder of light, the hero: the pressing-stones declare his valour,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/04_yasya_vashAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॑ व॒शास॑ ऋष॒भास॑ उ॒क्षणो॒ यस्मै॑ मी॒यन्ते॒ स्वर॑वः स्व॒र्विदे॑।  
-यस्मै॑ शु॒क्रः पव॑ते॒ ब्रह्म॑शुम्भितः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+य᳓स्य वशा᳓स ऋषभा᳓स उक्ष᳓णो य᳓स्मै मीय᳓न्ते स्व᳓रवः स्वर्वि᳓दे।  
+य᳓स्मै शुक्रः᳓ प᳓वते ब्र᳓ह्मशुम्भितः स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/04_yasya_vashAsa.md">
@@ -306,8 +306,8 @@ The lord of barren cows and bulls and oxen, finder of light for whom the posts a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/05_yasya_juShTim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ जुष्टिं॑ सो॒मिनः॑ का॒मय॑न्ते॒ यं हव॑न्त॒ इषु॑मन्तं॒ गवि॑ष्टौ।  
-यस्मि॑न्न॒र्कः शि॑श्रि॒ये यस्मि॒न्नोजः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+य᳓स्य जु᳓ष्टिं सोमि᳓नः काम᳓यन्ते यं᳓ ह᳓वन्त इ᳓षुमन्तं ग᳓विष्टौ।  
+य᳓स्मिन्नर्कः᳓ शिश्रिये᳓ य᳓स्मिन्नो᳓जः स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/05_yasya_juShTim.md">
@@ -371,8 +371,8 @@ Whose favour those desire who offer Soma, whom, arrow-bearer, men invoke in batt
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/06_yaH_prathamaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः प्र॑थ॒मः क॑र्म॒कृत्या॑य ज॒ज्ञे यस्य॑ वी॒र्यं प्रथ॒मस्यानु॑बुद्धम्।  
-येनोद्य॑तो॒ वज्रो॒ऽभ्याय॒ताहिं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+यः᳓ प्रथमः᳓ कर्मकृ᳓त्याय जज्ञे᳓ य᳓स्य वीर्यं᳓ प्र᳓थम᳓स्या᳓नुबुद्धम्।  
+ये᳓नो᳓द्यतो व᳓ज्रोऽभ्या᳓यता᳓हिं स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/06_yaH_prathamaH.md">
@@ -442,8 +442,8 @@ Why was born, first, for active operation, whose valour as the first hath been a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/07_yaH_sangrAmAnnayati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः सं॑ग्रा॒मान्न॑यति॒ सं यु॒धे व॒शी यः पु॒ष्टानि॑ संसृ॒जति॑ द्व॒यानि॑।  
-स्तौमीन्द्रं॑ नाथि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+यः᳓ संग्रामा᳓न्नयति सं᳓ युधे᳓ वशी᳓ यः᳓ पुष्टा᳓नि संसृज᳓ति द्वया᳓नि।  
+स्तौ᳓मी᳓न्द्रं नाथितो᳓ जोहवीमि स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/07_yaH_sangrAmAnnayati.md">

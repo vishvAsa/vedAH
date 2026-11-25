@@ -37,8 +37,8 @@ In praise of Brahma, Prayer, or Devotion
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/01_brahma_hotA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॒ होता॒ ब्रह्म॑ य॒ज्ञा ब्रह्म॑णा॒ स्वर॑वो मि॒ताः।  
-अ॑ध्व॒र्युर्ब्रह्म॑णो जा॒तो ब्रह्म॑णो॒ऽन्तर्हि॑तं ह॒विः ॥
+ब्र᳓ह्म हो᳓ता ब्र᳓ह्म यज्ञा᳓ ब्र᳓ह्मणा स्व᳓रवो मिताः᳓।  
+अ᳙ध्वर्यु᳓र्ब्र᳓ह्मणो जातो᳓ ब्र᳓ह्मणोऽन्त᳓र्हितं हविः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/01_brahma_hotA.md">
@@ -123,9 +123,9 @@ Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/02_brahma_srucho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॒ स्रुचो॑ घृ॒तव॑ती॒र्ब्रह्म॑णा॒ वेदि॒रुद्धि॑ता।  
-ब्रह्म॑ य॒ज्ञस्य॒ तत्त्वं॑ च ऋ॒त्विजो॒ ये ह॑वि॒ष्कृतः॑।  
-श॑मि॒ताय॒ स्वाहा॑ ॥
+ब्र᳓ह्म स्रु᳓चो घृत᳓वतीर्ब्र᳓ह्मणा वे᳓दिरु᳓द्धिता।  
+ब्र᳓ह्म यज्ञ᳓स्य त᳓त्त्वं च ऋत्वि᳓जो ये᳓ हविष्कृ᳓तः।  
+श᳙मिता᳓य स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/02_brahma_srucho.md">
@@ -208,8 +208,10 @@ Brahma is fatness-dropping scoops: with Brahma was the altar reared. Brahma is w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/03_aMhomuche_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अं॑हो॒मुचे॒ प्र भ॑रे मनी॒षामा सु॒त्राव्णे॑ सुम॒तिमा॑वृणा॒नः।  
-इ॒ममि॑न्द्र॒ प्रति॑ ह॒व्यं गृ॒भाय॑ स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ॥
+अं᳙होमु᳓चे प्र᳓ **भरे** मनीषा᳓म्  
+आ᳓ सुत्रा᳓व्णे सुमति᳓म् आवृणानः᳓।  
+इम᳓म् इन्द्र प्र᳓ति हव्यं᳓ **गृभा᳓य**  
+सत्याः᳓ **सन्तु** य᳓जमानस्य का᳓माः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/03_aMhomuche_pra.md">
@@ -292,8 +294,8 @@ To him who frees from woe mine hymn I offer, to the Good Guardian, as I seek his
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अं॒हो॒मुचं॑ वृष॒भं य॒ज्ञिया॑नां वि॒राज॑न्तं प्रथ॒मम॑ध्व॒राण॑म्।  
-अ॒पां नपा॑तम॒श्विना॑ हुवे॒ धिय॑ इन्द्रि॒येण॑ त इन्द्रि॒यं द॑त्त॒मोजः॑ ॥
+अंहोमु᳓चं वृषभं᳓ यज्ञि᳓यानां विरा᳓जन्तं प्रथम᳓मध्वरा᳓णम्।  
+अपां᳓ न᳓पातमश्वि᳓ना हुवे धि᳓य इन्द्रिये᳓ण त इन्द्रियं᳓ दत्तमो᳓जः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">

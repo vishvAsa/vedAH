@@ -37,8 +37,8 @@ A prayer for the prosperity of a King and his kingdom
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/01_prAnyAntsapatnAntsahasA_sahasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रान्यान्त्स॒पत्ना॒न्त्सह॑सा॒ सह॑स्व॒ प्रत्यजा॑ताञ्जातवेदो नुदस्व।  
-इ॒दं रा॒ष्ट्रं पि॑पृहि॒ सौभ॑गाय॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥
+प्रा᳓न्या᳓न्त्सप᳓त्नान्त्स᳓हसा स᳓हस्व प्र᳓त्य᳓जाताञ्जातवेदो नुदस्व।  
+इदं᳓ राष्ट्रं᳓ पिपृहि सौ᳓भगाय वि᳓श्व एनम᳓नु मदन्तु देवाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/035_sapatnInAshanam/01_prAnyAntsapatnAntsahasA_sahasva.md">
@@ -106,8 +106,8 @@ Subdue with conquering might his other rivals, those yet unborn repel, O Jataved
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/02_imA_yAste.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मा यास्ते॑ श॒तं हि॒राः स॒हस्रं॑ ध॒मनी॑रु॒त।  
-तासां॑ ते॒ सर्वा॑साम॒हमश्म॑ना॒ बिल॒मप्य॑धाम् ॥
+इमा᳓ या᳓स्ते शतं᳓ हिराः᳓ सह᳓स्रं धम᳓नीरुत᳓।  
+ता᳓सां ते स᳓र्वासामह᳓म᳓श्मना बि᳓लम᳓प्यधाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/035_sapatnInAshanam/02_imA_yAste.md">
@@ -170,8 +170,8 @@ Hae quot tibi sunt venae atque arteriae harum omnium os tibi lapide occlusi.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/03_paraM_yoneravaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परं॒ योने॒रव॑रं ते कृणोमि॒ मा त्वा॑ प्र॒जाभि भू॒न्मोत सूनुः॑।  
-अ॒स्वं१॒॑ त्वाप्र॑जसं कृणो॒म्यश्मा॑नं ते अपि॒धानं॑ कृणोमि ॥
+प᳓रं यो᳓नेर᳓वरं ते कृणोमि मा᳓ त्वा प्रजा᳓भि᳓ भून्मो᳓त᳓ सू᳓नुः।  
+अस्वं᳙ त्वा᳓प्रजसं कृणोम्य᳓श्मानं ते अपिधा᳓नं कृणोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/035_sapatnInAshanam/03_paraM_yoneravaram.md">

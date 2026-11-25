@@ -33,8 +33,8 @@ Translated: Henry, 42, 117; Griffith, i. 379.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/107_saMtaraNam/01_ava_divastArayanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अव॑ दि॒वस्ता॑रयन्ति स॒प्त सूर्य॑स्य र॒श्मयः॑।  
-आपः॑ समु॒द्रिया॒ धारा॒स्तास्ते॑ श॒ल्यम॑सिस्रसन् ॥
+अ᳓व दिव᳓स्तारयन्ति सप्त᳓ सू᳓र्यस्य रश्म᳓यः।  
+आ᳓पः समुद्रि᳓या धा᳓रास्ता᳓स्ते शल्य᳓मसिस्रसन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/107_saMtaraNam/01_ava_divastArayanti.md">

@@ -37,8 +37,8 @@ Praise of the sacrificial utensils
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/028_svasti/01_vedaH_svastirdrughaNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वे॒दः स्व॒स्तिर्द्रु॑घ॒णः स्व॒स्तिः प॑र॒शुर्वेदिः॑ पर॒शुर्नः॑ स्व॒स्ति।  
-ह॑वि॒ष्कृतो॑ यज्ञिया य॒ज्ञका॑मास्ते दे॒वासो॑ य॒ज्ञमि॒मं जु॑षन्ताम् ॥
+वेदः᳓ स्वस्ति᳓र्द्रुघणः᳓ स्वस्तिः᳓ परशु᳓र्वे᳓दिः परशु᳓र्नः स्वस्ति᳓।  
+ह᳙विष्कृ᳓तो यज्ञिया यज्ञ᳓कामास्ते देवा᳓सो यज्ञ᳓मिमं᳓ जुषन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/028_svasti/01_vedaH_svastirdrughaNaH.md">

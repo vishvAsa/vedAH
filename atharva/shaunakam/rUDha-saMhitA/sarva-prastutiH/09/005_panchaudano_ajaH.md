@@ -40,8 +40,8 @@ A glorification of a sacrificial goat
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/01_A_nayaitamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ न॑यै॒तमा र॑भस्व सु॒कृतां॑ लो॒कमपि॑ गच्छतु प्रजा॒नन्।  
-ती॒र्त्वा तमां॑सि बहु॒धा म॒हान्त्य॒जो नाक॒मा क्र॑मतां तृ॒तीय॑म् ॥
+आ᳓ नयैत᳓मा᳓ रभस्व सुकृ᳓तां लोक᳓म᳓पि गच्छतु प्रजान᳓न्।  
+तीर्त्वा᳓ त᳓मांसि बहुधा᳓ महा᳓न्त्यजो᳓ ना᳓कमा᳓ क्रमतां तृती᳓यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/01_A_nayaitamA.md">
@@ -108,8 +108,8 @@ Seize him and bring him hither. Let him travel. foreknowing, to the regions of t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/02_indrAya_bhAgam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रा॑य भा॒गं परि॑ त्वा नयाम्य॒स्मिन्य॒ज्ञे यज॑मानाय सू॒रिम्।  
-ये नो॑ द्वि॒षन्त्यनु॒ तान्र॑भ॒स्वाना॑गसो॒ यज॑मानस्य वी॒राः ॥
+इ᳓न्द्राय भागं᳓ प᳓रि त्वा नयाम्यस्मि᳓न्यज्ञे᳓ य᳓जमानाय सूरि᳓म्।  
+ये᳓ नो द्विष᳓न्त्य᳓नु ता᳓न्रभस्वा᳓नागसो य᳓जमानस्य वीराः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/02_indrAya_bhAgam.md">
@@ -173,8 +173,8 @@ I bring thee hither as a share for Indra; prince, at this sacrifice,. for him wh
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/03_pra_pado-va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र प॒दोऽव॑ नेनिग्धि॒ दुश्च॑रितं॒ यच्च॒चार॑ शु॒द्धैः श॒फैरा क्र॑मतां प्रजा॒नन्।  
-ती॒र्त्वा तमां॑सि बहु॒धा वि॒पश्य॑न्न॒जो नाक॒मा क्र॑मतां तृ॒तीय॑म् ॥
+प्र᳓ पदो᳓ऽव नेनिग्धि दु᳓श्चरितं य᳓च्चचा᳓र शुद्धैः᳓ शफै᳓रा᳓ क्रमतां प्रजान᳓न्।  
+तीर्त्वा᳓ त᳓मांसि बहुधा᳓ विप᳓श्यन्नजो᳓ ना᳓कमा᳓ क्रमतां तृती᳓यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/03_pra_pado-va.md">
@@ -241,8 +241,8 @@ Wash from his feet all trace of evil-doing: foreknowing, with cleansed hooves le
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/04_anuChya_shyAmena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अनु॑छ्य श्या॒मेन॒ त्वच॑मे॒तां वि॑शस्तर्यथाप॒र्व१॒॑सिना॒ माभि मं॑स्थाः।  
-माभि द्रु॑हः परु॒शः क॑ल्पयैनं तृ॒तीये॒ नाके॒ अधि॒ वि श्र॑यैनम् ॥
+अ᳓नुछ्य श्यामे᳓न त्व᳓चमेतां᳓ विशस्तर्यथापर्व᳙सि᳓ना मा᳓भि᳓ मंस्थाः।  
+मा᳓भि᳓ द्रुहः परुशः᳓ कल्पयैनं तृती᳓ये ना᳓के अ᳓धि वि᳓ श्रयैनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/04_anuChya_shyAmena.md">
@@ -308,8 +308,8 @@ Cut up this skin with the grey knife, Dissector! dividing joint from joint, and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/05_RchA_kumbhImadhyagnau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒चा कु॒म्भीमध्य॒ग्नौ श्र॑या॒म्या सि॑ञ्चोद॒कमव॑ धेह्येनम्।  
-प॒र्याध॑त्ता॒ग्निना॑ शमितारः शृ॒तो ग॑च्छतु सु॒कृतां॒ यत्र॑ लो॒कः ॥
+ऋचा᳓ कुम्भी᳓म᳓ध्यग्नौ᳓ श्रयाम्या᳓ सिञ्चोदक᳓म᳓व धेह्येनम्।  
+पर्या᳓धत्ताग्नि᳓ना शमितारः शृतो᳓ गच्छतु सुकृ᳓तां य᳓त्र लोकः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/05_RchA_kumbhImadhyagnau.md">
@@ -374,8 +374,8 @@ With verse upon the fire I set the caldron: pour in the water; lay him down with
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/06_utkrAmAtaH_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्क्रा॒मातः॒ परि॑ चे॒दत॑प्तस्त॒प्ताच्च॒रोरधि॒ नाकं॑ तृ॒तीय॑म्।  
-अ॒ग्नेर॒ग्निरधि॒ सं ब॑भूविथ॒ ज्योति॑ष्मन्तम॒भि लो॒कं ज॑यै॒तम् ॥
+उ᳓त्क्रामा᳓तः प᳓रि चेद᳓तप्तस्तप्ता᳓च्चरो᳓र᳓धि ना᳓कं तृती᳓यम्।  
+अग्ने᳓रग्नि᳓र᳓धि सं᳓ बभूविथ ज्यो᳓तिष्मन्तमभि᳓ लोकं᳓ जयैत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/06_utkrAmAtaH_pari.md">
@@ -441,8 +441,8 @@ Hence come thou forth, vexed by no pain or torment. Mount to the third heaven fr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/07_ajo_agnirajamu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒जो अ॒ग्निर॒जमु॒ ज्योति॑राहुर॒जं जीव॑ता ब्र॒ह्मणे॒ देय॑माहुः।  
-अ॒जस्तमां॒स्यप॑ हन्ति दू॒रम॒स्मिंल्लो॒के श्र॒द्दधा॑नेन द॒त्तः ॥
+अजो᳓ अग्नि᳓रज᳓मु ज्यो᳓तिराहुरजं᳓ जी᳓वता ब्रह्म᳓णे दे᳓यमाहुः।  
+अज᳓स्त᳓मांस्य᳓प हन्ति दूर᳓मस्मिं᳓ल्लोके᳓ श्रद्द᳓धानेन दत्तः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/07_ajo_agnirajamu.md">
@@ -506,8 +506,8 @@ The Goat is Agni: light they call him, saying that living man must give him to t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/08_panchaudanaH_panchadhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पञ्चौ॑दनः पञ्च॒धा वि क्र॑मतामाक्रं॒स्यमा॑न॒स्त्रीणि॒ ज्योतीं॑षि।  
-ई॑जा॒नानां॑ सु॒कृतां॒ प्रेहि॒ मध्यं॑ तृ॒तीये॒ नाके॒ अधि॒ वि श्र॑यस्व ॥
+प᳓ञ्चौदनः पञ्चधा᳓ वि᳓ क्रमतामाक्रंस्य᳓मानस्त्री᳓णि ज्यो᳓तींषि।  
+ई᳙जाना᳓नां सुकृ᳓तां प्रे᳓हि म᳓ध्यं तृती᳓ये ना᳓के अ᳓धि वि᳓ श्रयस्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/08_panchaudanaH_panchadhA.md">
@@ -572,8 +572,8 @@ Let the Panchaudana Goat, about to visit the three lights, pass away in five div
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/09_ajA_roha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अजा रो॑ह सु॒कृतां॒ यत्र॑ लो॒कः श॑र॒भो न च॒त्तोऽति॑ दु॒र्गाण्ये॑षः।  
-पञ्चौ॑दनो ब्र॒ह्मणे॑ दी॒यमा॑नः॒ स दा॒तारं॒ तृप्त्या॑ तर्पयाति ॥
+अ᳓जा᳓ रोह सुकृ᳓तां य᳓त्र लोकः᳓ शरभो᳓ न᳓ चत्तो᳓ऽति दुर्गा᳓ण्येषः।  
+प᳓ञ्चौदनो ब्रह्म᳓णे दीय᳓मानः स᳓ दाता᳓रं तृ᳓प्त्या तर्पयाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/09_ajA_roha.md">
@@ -639,8 +639,8 @@ Rise to that world, O Goat, where dwell the righteous: pass, like a Sarabha veil
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/10_ajastrinAke_tridive.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒जस्त्रि॑ना॒के त्रि॑दि॒वे त्रि॑पृ॒ष्ठे नाक॑स्य पृ॒ष्ठे द॑दि॒वांसं॑ दधाति।  
-पञ्चौ॑दनो ब्र॒ह्मणे॑ दी॒यमा॑नो वि॒श्वरू॑पा धे॒नुः का॑म॒दुघा॒स्येका॑ ॥
+अज᳓स्त्रिनाके᳓ त्रिदिवे᳓ त्रिपृष्ठे᳓ ना᳓कस्य पृष्ठे᳓ ददिवां᳓सं दधाति।  
+प᳓ञ्चौदनो ब्रह्म᳓णे दीय᳓मानो विश्व᳓रूपा धेनुः᳓ कामदु᳓घास्ये᳓का ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/10_ajastrinAke_tridive.md">
@@ -706,8 +706,8 @@ The Goat Panchaudana, given to a Brahman, sets the bestower on the pitch of heav
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/11_etadvo_jyotiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तद्वो॒ ज्योतिः॑ पितरस्तृ॒तीयं॒ पञ्चौ॑दनं ब्र॒ह्मणे॒ऽजं द॑दाति।  
-अ॒जस्तमां॒स्यप॑ हन्ति दू॒रम॒स्मिंल्लो॒के श्र॒द्दधा॑नेन द॒त्तः ॥
+एत᳓द्वो ज्यो᳓तिः पितरस्तृती᳓यं प᳓ञ्चौदनं ब्रह्म᳓णेऽजं᳓ ददाति।  
+अज᳓स्त᳓मांस्य᳓प हन्ति दूर᳓मस्मिं᳓ल्लोके᳓ श्रद्द᳓धानेन दत्तः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/11_etadvo_jyotiH.md">
@@ -775,8 +775,8 @@ That is the third light that is yours, ye Fathers. He gives the Goat Panchaudana
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/12_IjAnAnAM_sukRtAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ई॑जा॒नानां॑ सु॒कृतां॑ लो॒कमीप्स॒न्पञ्चौ॑दनं ब्र॒ह्मणे॒ऽजं द॑दाति।  
-स व्या᳡प्तिम॒भि लो॒कं ज॑यै॒तं शि॒वो॒३॒॑ऽस्मभ्यं॒ प्रति॑गृहीतो अस्तु ॥
+ई᳙जाना᳓नां सुकृ᳓तां लोक᳓मी᳓प्सन्प᳓ञ्चौदनं ब्रह्म᳓णेऽजं᳓ ददाति।  
+स᳓ व्या᳙प्तिमभि᳓ लोकं᳓ जयैतं᳓ शिवो᳙ऽस्म᳓भ्यं प्र᳓तिगृहीतो अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/12_IjAnAnAM_sukRtAm.md">
@@ -840,8 +840,8 @@ Seeking the world of good men who have worshipped, he gives the Goat Panchaudana
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/13_ajo_hyagnerajaniShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒जो ह्य१॒॑ग्नेरज॑निष्ट॒ शोका॒द्विप्रो॒ विप्र॑स्य॒ सह॑सो विप॒श्चित्।  
-इ॒ष्टं पू॒र्तम॒भिपू॑र्तं॒ वष॑ट्कृतं॒ तद्दे॒वा ऋ॑तु॒शः क॑ल्पयन्तु ॥
+अजो᳓ ह्य᳙ग्ने᳓र᳓जनिष्ट शो᳓काद्वि᳓प्रो वि᳓प्रस्य स᳓हसो विपश्चि᳓त्।  
+इष्टं᳓ पूर्त᳓मभि᳓पूर्तं व᳓षट्कृतं त᳓द्देवा᳓ ऋतुशः᳓ कल्पयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/13_ajo_hyagnerajaniShTa.md">
@@ -910,8 +910,8 @@ Truly the Goat sprang from the glow of Agni, inspired as sage with all a sage's 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/14_amotaM_vAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑मो॒तं वासो॑ दद्या॒द्धिर॑ण्य॒मपि॒ दक्षि॑णाम्।  
-तथा॑ लो॒कान्त्समा॑प्नोति॒ ये दि॒व्या ये च॒ पार्थि॑वाः ॥
+अ᳙मोतं᳓ वा᳓सो दद्याद्धि᳓रण्यम᳓पि द᳓क्षिणाम्।  
+त᳓था लोका᳓न्त्स᳓माप्नोति ये᳓ दिव्या᳓ ये᳓ च पा᳓र्थिवाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/14_amotaM_vAso.md">
@@ -971,8 +971,8 @@ Home-woven raiment let him give, and gold as guerdon to the priests. So he obtai
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/15_etAstvAjopa_yantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तास्त्वा॒जोप॑ यन्तु॒ धाराः॑ सो॒म्या दे॒वीर्घृ॒तपृ॑ष्ठा मधु॒श्चुतः॑।  
-स्त॑भान पृ॑थि॒वीमु॒त द्यां नाक॑स्य पृ॒ष्ठेऽधि॑ स॒प्तर॑श्मौ ॥
+एता᳓स्त्वाजो᳓प यन्तु धा᳓राः सोम्या᳓ देवी᳓र्घृत᳓पृष्ठा मधुश्चु᳓तः।  
+स्त᳙भा᳓न᳓ पृथिवी᳓मुत᳓ द्यां᳓ ना᳓कस्य पृष्ठे᳓ऽधि सप्त᳓रश्मौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/15_etAstvAjopa_yantu.md">
@@ -1040,8 +1040,8 @@ Near to thee, Goat! approach these streams of Soma, divine, distilling meath, be
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/16_ajosyaja_svargosi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒जो॒३॒॑स्यज॑ स्व॒र्गो᳡सि॒ त्वया॑ लो॒कमङ्गि॑रसः॒ प्राजा॑नन्।  
-तं लो॒कं पुण्यं॒ प्र ज्ञे॑षम् ॥
+अजो᳙स्य᳓ज स्वर्गो᳙सि त्व᳓या लोक᳓म᳓ङ्गिरसः प्रा᳓जानन्।  
+तं᳓ लोकं᳓ पु᳓ण्यं प्र᳓ ज्ञेषम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/16_ajosyaja_svargosi.md">
@@ -1108,8 +1108,8 @@ Unborn art thou, O Goat: to heaven thou goest. Though thee Angirases knew that r
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/17_yenA_sahasram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येना॑ स॒हस्रं॒ वह॑सि॒ येना॑ग्ने सर्ववेद॒सम्।  
-तेने॒मं य॒ज्ञं नो॑ वह॒ स्व᳡र्दे॒वेषु॒ गन्त॑वे ॥
+ये᳓ना सह᳓स्रं व᳓हसि ये᳓नाग्ने सर्ववेदस᳓म्।  
+ते᳓नेमं᳓ यज्ञं᳓ नो वह स्व᳙र्देवे᳓षु ग᳓न्तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/17_yenA_sahasram.md">
@@ -1177,8 +1177,8 @@ Convey our sacrifice to heaven, that it may reach the Gods, with that Whereby th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/18_ajaH_pakvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒जः प॒क्वः स्व॒र्गे लो॒के द॑धाति॒ पञ्चौ॑दनो॒ निरृ॑तिं॒ बाध॑मानः।  
-तेन॑ लो॒कान्त्सूर्य॑वतो जयेम ॥
+अजः᳓ पक्वः᳓ स्वर्गे᳓ लोके᳓ दधाति प᳓ञ्चौदनो नि᳓रृतिं बा᳓धमानः।  
+ते᳓न लोका᳓न्त्सू᳓र्यवतो जयेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/18_ajaH_pakvaH.md">
@@ -1240,8 +1240,8 @@ The Goat Panchaudana, when cooked, transporteth, repelling Nirriti, to the world
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/19_yaM_brAhmaNe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं ब्रा॑ह्म॒णे नि॑द॒धे यं च॑ वि॒क्षु या वि॒प्रुष॑ ओद॒नाना॑म॒जस्य॑।  
-सर्वं॒ तद॑ग्ने सुकृ॒तस्य॑ लो॒के जा॑नी॒तान्नः॑ सं॒गम॑ने पथी॒नाम् ॥
+यं᳓ ब्राह्मणे᳓ निदधे᳓ यं᳓ च विक्षु᳓ या᳓ विप्रु᳓ष ओदना᳓नामज᳓स्य।  
+स᳓र्वं त᳓दग्ने सुकृत᳓स्य लोके᳓ जानीता᳓न्नः संग᳓मने पथीना᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/19_yaM_brAhmaNe.md">
@@ -1303,8 +1303,8 @@ The droppings of the Odanas attending the Goat which I have lodged with priest o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/20_ajo_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒जो वा इ॒दम॑ग्ने॒ व्य᳡क्रमत॒ तस्योर॑ इ॒यम॑भव॒द्द्यौः पृ॒ष्ठम्।  
-अ॒न्तरि॑क्षं॒ मध्यं॒ दिशः॑ पा॒र्श्वे स॑मु॒द्रौ कु॒क्षी ॥
+अजो᳓ वा᳓ इद᳓मग्ने व्य᳙क्रमत त᳓स्यो᳓र इय᳓मभवद्द्यौः᳓ पृष्ठ᳓म्।  
+अन्त᳓रिक्षं म᳓ध्यं दि᳓शः पार्श्वे᳓ समुद्रौ᳓ कुक्षी᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/20_ajo_vA.md">
@@ -1366,8 +1366,8 @@ This Unborn cleft apart in the beginning: his breast became the earth, his back 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/21_satyaM_chartam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒त्यं च॒र्तं च॒ चक्षु॑षी॒ विश्वं॑ स॒त्यं श्र॒द्धा प्रा॒णो वि॒राट्शिरः॑।  
-ए॒ष वा अप॑रिमितो य॒ज्ञो यद॒जः पञ्चौ॑दनः ॥
+सत्यं᳓ चर्तं᳓ च च᳓क्षुषी वि᳓श्वं सत्यं᳓ श्रद्धा᳓ प्राणो᳓ विरा᳓ट्शि᳓रः।  
+एष᳓ वा᳓ अ᳓परिमितो यज्ञो᳓ य᳓दजः᳓ प᳓ञ्चौदनः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/21_satyaM_chartam.md">
@@ -1437,8 +1437,8 @@ His eyes were Truth and Right. The whole together was Truth: Viraj his head and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/22_aparimitameva_yajnamApnotyaparimitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अप॑रिमितमे॒व य॒ज्ञमा॒प्नोत्यप॑रिमितं लो॒कमव॑ रुन्द्धे।  
-यो॒३॒॑जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥
+अ᳓परिमितमेव᳓ यज्ञ᳓माप्नो᳓त्य᳓परिमितं लोक᳓म᳓व रुन्द्धे।  
+यो᳙जं᳓ प᳓ञ्चौदनं द᳓क्षिणाज्योतिषं द᳓दाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/22_aparimitameva_yajnamApnotyaparimitam.md">
@@ -1500,8 +1500,8 @@ A boundless sacrifice he performs, he wins himself a boundless world: Who gives 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/23_nAsyAsthIni_bhindyAnna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नास्यास्थी॑नि भिन्द्या॒न्न म॒ज्ज्ञो निर्ध॑येत्।  
-सर्व॑मेनं समा॒दाये॒दमि॑दं॒ प्र वे॑शयेत् ॥
+ना᳓स्या᳓स्थीनि भिन्द्यान्न᳓ मज्ज्ञो᳓ नि᳓र्धयेत्।  
+स᳓र्वमेनं समादा᳓येद᳓मिदं प्र᳓ वेशयेत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/23_nAsyAsthIni_bhindyAnna.md">
@@ -1568,8 +1568,8 @@ Let him not break the victim's bones, let him not suck the marrow out. Let the m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/24_idamidamevAsya_rUpam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दमि॑दमे॒वास्य॑ रू॒पं भ॑वति॒ तेनै॑नं॒ सं ग॑मयति।  
-इषं॒ मह॒ ऊर्ज॑मस्मै दुहे॒ यो॒३॒॑जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥
+इद᳓मिदमेवा᳓स्य रूपं᳓ भवति ते᳓नैनं सं᳓ गमयति।  
+इ᳓षं म᳓ह ऊ᳓र्जमस्मै दुहे यो᳙जं᳓ प᳓ञ्चौदनं द᳓क्षिणाज्योतिषं द᳓दाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/24_idamidamevAsya_rUpam.md">
@@ -1638,8 +1638,8 @@ This, even this is his true form: the man uniteth him therewith. Food, greatness
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/25_pancha_rukmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पञ्च॑ रु॒क्मा पञ्च॒ नवा॑नि॒ वस्त्रा॒ पञ्चा॑स्मै धे॒नवः॑ काम॒दुघा॑ भवन्ति।  
-यो॒३॒॑जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥
+प᳓ञ्च रुक्मा᳓ प᳓ञ्च न᳓वानि व᳓स्त्रा प᳓ञ्चास्मै धेन᳓वः कामदु᳓घा भवन्ति।  
+यो᳙जं᳓ प᳓ञ्चौदनं द᳓क्षिणाज्योतिषं द᳓दाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/25_pancha_rukmA.md">
@@ -1704,8 +1704,8 @@ The five gold pieces, and the five new garments, and the five milch-kine yield h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/26_pancha_rukmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पञ्च॑ रु॒क्मा ज्योति॑रस्मै भवन्ति॒ वर्म॒ वासां॑सि त॒न्वे᳡ भवन्ति।  
-स्व॒र्गं लो॒कम॑श्नुते॒ यो॒३॒॑जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥
+प᳓ञ्च रुक्मा᳓ ज्यो᳓तिरस्मै भवन्ति व᳓र्म वा᳓सांसि तन्वे᳙ भवन्ति।  
+स्वर्गं᳓ लोक᳓मश्नुते यो᳙जं᳓ प᳓ञ्चौदनं द᳓क्षिणाज्योतिषं द᳓दाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/26_pancha_rukmA.md">
@@ -1769,8 +1769,8 @@ The five gold pieces, area light to light him, robes become armour to defend his
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/27_yA_pUrvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या पूर्वं॒ पतिं॑ वि॒त्त्वाऽथा॒न्यं वि॒न्दतेऽप॑रम्।  
-पञ्चौ॑दनं च॒ ताव॒जं ददा॑तो॒ न वि यो॑षतः ॥
+या᳓ पू᳓र्वं प᳓तिं वित्त्वा᳓ऽथान्यं᳓ विन्द᳓ते᳓ऽपरम्।  
+प᳓ञ्चौदनं च ता᳓वजं᳓ द᳓दातो न᳓ वि᳓ योषतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/27_yA_pUrvam.md">
@@ -1834,8 +1834,8 @@ When she who hath been wedded finds a second husband after- ward, The twain shal
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/28_samAnaloko_bhavati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑मा॒नलो॑को भवति पुन॒र्भुवाप॑रः॒ पतिः॑।  
-यो॒३॒॑जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥
+स᳙मान᳓लोको भवति पुनर्भु᳓वा᳓परः प᳓तिः।  
+यो᳙जं᳓ प᳓ञ्चौदनं द᳓क्षिणाज्योतिषं द᳓दाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/28_samAnaloko_bhavati.md">
@@ -1899,8 +1899,8 @@ One world with the re-wedded wife becomes the second hus- band's home. Who gives
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/29_anupUrvavatsAM_dhenumanaDvAhamupabarhaNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑नुपू॒र्वव॑त्सां धे॒नुम॑न॒ड्वाह॑मुप॒बर्ह॑णम्।  
-वासो॒ हिर॑ण्यं द॒त्त्वा ते य॑न्ति॒ दिव॑मुत्त॒माम् ॥
+अ᳙नुपूर्व᳓वत्सां धेनु᳓मनड्वा᳓हमुपब᳓र्हणम्।  
+वा᳓सो हि᳓रण्यं दत्त्वा᳓ ते᳓ यन्ति दि᳓वमुत्तमा᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/29_anupUrvavatsAM_dhenumanaDvAhamupabarhaNam.md">
@@ -1962,8 +1962,8 @@ They who have given a cow who drops a calf each season, or an ox, A coverlet, a 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/30_AtmAnaM_pitaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒त्मानं॑ पि॒तरं॑ पु॒त्रं पौत्रं॑ पिताम॒हम्।  
-जा॒यां जनि॑त्रीं मा॒तरं॒ ये प्रि॒यास्तानुप॑ ह्वये ॥
+आत्मा᳓नं पित᳓रं पुत्रं᳓ पौ᳓त्रं पितामह᳓म्।  
+जायां᳓ ज᳓नित्रीं मात᳓रं ये᳓ प्रिया᳓स्ता᳓नु᳓प ह्वये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/30_AtmAnaM_pitaram.md">
@@ -2025,10 +2025,10 @@ Himself, the father and the son, the grandson, and the father's sire, Mother, wi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/31_yo_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो वै नैदा॑घं॒ नाम॒र्तुं वेद॑।  
-ए॒ष वै नैदा॑घो॒ नाम॒र्तुर्यद॒जः पञ्चौ॑दनः।  
-निरे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रियं॑ दहति॒ भव॑त्या॒त्मना॑।  
-यो॒३॒॑जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥
+यो᳓ वै᳓ नै᳓दाघं ना᳓मर्तुं᳓ वे᳓द।  
+एष᳓ वै᳓ नै᳓दाघो ना᳓मर्तु᳓र्य᳓दजः᳓ प᳓ञ्चौदनः।  
+नि᳓रेवा᳓प्रियस्य भ्रा᳓तृव्यस्य श्रि᳓यं दहति भ᳓वत्यात्म᳓ना।  
+यो᳙जं᳓ प᳓ञ्चौदनं द᳓क्षिणाज्योतिषं द᳓दाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/31_yo_vai.md">
@@ -2100,10 +2100,10 @@ The man who knows the season named the Scorching--the Goat Pafichaudana is this 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/32_yo_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो वै कु॒र्वन्तं॒ नाम॒र्तुं वेद॑।  
-कु॑र्व॒तींकु॑र्वतीमे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रिय॒मा द॑त्ते।  
-ए॒ष वै कु॒र्वन्नाम॒र्तुर्यद॒जः पञ्चौ॑दनः।  
-निरे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रियं॑ दहति॒ भव॑त्या॒त्मना॒ यो॒३॒॑जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥
+यो᳓ वै᳓ कुर्व᳓न्तं ना᳓मर्तुं᳓ वे᳓द।  
+कु᳙र्वतीं᳓कुर्वतीमेवा᳓प्रियस्य भ्रा᳓तृव्यस्य श्रि᳓यमा᳓ दत्ते।  
+एष᳓ वै᳓ कुर्व᳓न्ना᳓मर्तु᳓र्य᳓दजः᳓ प᳓ञ्चौदनः।  
+नि᳓रेवा᳓प्रियस्य भ्रा᳓तृव्यस्य श्रि᳓यं दहति भ᳓वत्यात्म᳓ना यो᳙जं᳓ प᳓ञ्चौदनं द᳓क्षिणाज्योतिषं द᳓दाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/32_yo_vai.md">
@@ -2167,10 +2167,10 @@ The man who knows the season called the Working takes to himself the active fame
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/33_yo_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो वै सं॒यन्तं॒ नाम॒र्तुं वेद॑।  
-सं॑य॒तींसं॑यतीमे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रिय॒मा द॑त्ते।  
-ए॒ष वै सं॒यन्नाम॒र्तुर्यद॒जः पञ्चौ॑दनः।  
-निरे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रियं॑ दहति॒ भव॑त्या॒त्मना॒ यो॒३॒॑जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥
+यो᳓ वै᳓ संय᳓न्तं ना᳓मर्तुं᳓ वे᳓द।  
+सं᳙यतीं᳓संयतीमेवा᳓प्रियस्य भ्रा᳓तृव्यस्य श्रि᳓यमा᳓ दत्ते।  
+एष᳓ वै᳓ संय᳓न्ना᳓मर्तु᳓र्य᳓दजः᳓ प᳓ञ्चौदनः।  
+नि᳓रेवा᳓प्रियस्य भ्रा᳓तृव्यस्य श्रि᳓यं दहति भ᳓वत्यात्म᳓ना यो᳙जं᳓ प᳓ञ्चौदनं द᳓क्षिणाज्योतिषं द᳓दाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/33_yo_vai.md">
@@ -2233,10 +2233,10 @@ The man who knows the season called the Meeting takes to him- self the gathering
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/34_yo_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो वै पि॒न्वन्तं॒ नाम॒र्तुं वेद॑।  
-पि॑न्व॒तींपि॑न्वतीमे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रिय॒मा द॑त्ते।  
-ए॒ष वै पि॒न्वन्नाम॒र्तुर्यद॒जः पञ्चौ॑दनः।  
-निरे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रियं॑ दहति॒ भव॑त्या॒त्मना॒ यो॒३॒॑जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥
+यो᳓ वै᳓ पिन्व᳓न्तं ना᳓मर्तुं᳓ वे᳓द।  
+पि᳙न्वतीं᳓पिन्वतीमेवा᳓प्रियस्य भ्रा᳓तृव्यस्य श्रि᳓यमा᳓ दत्ते।  
+एष᳓ वै᳓ पिन्व᳓न्ना᳓मर्तु᳓र्य᳓दजः᳓ प᳓ञ्चौदनः।  
+नि᳓रेवा᳓प्रियस्य भ्रा᳓तृव्यस्य श्रि᳓यं दहति भ᳓वत्यात्म᳓ना यो᳙जं᳓ प᳓ञ्चौदनं द᳓क्षिणाज्योतिषं द᳓दाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/34_yo_vai.md">
@@ -2299,10 +2299,10 @@ The man who knows the called the Swelling takes to himself the swelling fame, hi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/35_yo_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो वा उ॒द्यन्तं॒ नाम॒र्तुं वेद॑।  
-उ॑द्यतीमु॑द्यतीमे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रिय॒मा द॑त्ते।  
-ए॒ष वा उ॒द्यन्नाम॒र्तुर्यद॒जः पञ्चौ॑दनः।  
-निरे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रियं॑ दहति॒ भव॑त्या॒त्मना॒ यो॒३॒॑जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥
+यो᳓ वा᳓ उद्य᳓न्तं ना᳓मर्तुं᳓ वे᳓द।  
+उ᳙द्य᳓ती᳓मुद्यतीमेवा᳓प्रियस्य भ्रा᳓तृव्यस्य श्रि᳓यमा᳓ दत्ते।  
+एष᳓ वा᳓ उद्य᳓न्ना᳓मर्तु᳓र्य᳓दजः᳓ प᳓ञ्चौदनः।  
+नि᳓रेवा᳓प्रियस्य भ्रा᳓तृव्यस्य श्रि᳓यं दहति भ᳓वत्यात्म᳓ना यो᳙जं᳓ प᳓ञ्चौदनं द᳓क्षिणाज्योतिषं द᳓दाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/35_yo_vA.md">
@@ -2374,11 +2374,11 @@ The man who knows the season called the Rising takes to him- self the rising fam
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/36_yo_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो वा अ॑भि॒भुवं॒ नाम॒र्तुं वेद॑।  
-अ॑भि॒भव॑न्तीमभिभवन्तीमे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रिय॒मा द॑त्ते।  
-ए॒ष वा अ॑भि॒भूर्नाम॒र्तुर्यद॒जः पञ्चौ॑दनः।  
-निरे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रियं॑ दहति॒ भव॑त्या॒त्मना॑।  
-यो॒३॒॑जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥
+यो᳓ वा᳓ अभिभु᳓वं ना᳓मर्तुं᳓ वे᳓द।  
+अ᳙भिभ᳓वन्तीमभिभवन्तीमेवा᳓प्रियस्य भ्रा᳓तृव्यस्य श्रि᳓यमा᳓ दत्ते।  
+एष᳓ वा᳓ अभिभू᳓र्ना᳓मर्तु᳓र्य᳓दजः᳓ प᳓ञ्चौदनः।  
+नि᳓रेवा᳓प्रियस्य भ्रा᳓तृव्यस्य श्रि᳓यं दहति भ᳓वत्यात्म᳓ना।  
+यो᳙जं᳓ प᳓ञ्चौदनं द᳓क्षिणाज्योतिषं द᳓दाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/36_yo_vA.md">
@@ -2445,8 +2445,8 @@ The man who knows the season called Surpassing takes to him- self the conquering
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/37_ajaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒जं च॒ पच॑त॒ पञ्च॑ चौद॒नान्।  
-सर्वा॒ दिशः॒ संम॑नसः स॒ध्रीचीः॒ सान्त॑र्देशाः॒ प्रति॑ गृ॒ह्णन्तु॑ त ए॒तम् ॥
+अजं᳓ च प᳓चत प᳓ञ्च चौदना᳓न्।  
+स᳓र्वा दि᳓शः सं᳓मनसः सध्री᳓चीः सा᳓न्तर्देशाः प्र᳓ति गृह्ण᳓न्तु त एत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/37_ajaM_cha.md">
@@ -2511,7 +2511,7 @@ He cooks the Goat and the five boiled rice messes. May the uni- ted Quarters, al
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/005_panchaudano_ajaH/38_tAste_raxantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तास्ते॑ रक्षन्तु॒ तव॒ तुभ्य॑मे॒तं ता॑भ्य॒ आज्यं॑ ह॒विरि॒दं जु॑होमि ॥
+ता᳓स्ते रक्षन्तु त᳓व तु᳓भ्यमेतं᳓ ताभ्य आ᳓ज्यं हवि᳓रिदं᳓ जुहोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/005_panchaudano_ajaH/38_tAste_raxantu.md">

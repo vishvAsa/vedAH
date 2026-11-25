@@ -33,8 +33,8 @@ Translated: Weber, Ind. Stud. v. 244; Grill, 58, 175; Griffith, i. 318; Bloomfie
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/01_ni_shIrShato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नि शी॑र्ष॒तो नि प॑त्त॒त आ॒ध्यो॒३॒॑ नि ति॑रामि ते।  
-देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+नि᳓ शीर्षतो᳓ नि᳓ पत्तत᳓ आध्यो᳙ नि᳓ तिरामि ते।  
+दे᳓वाः प्र᳓ हिणुत स्मर᳓मसौ᳓ मा᳓म᳓नु शोचतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/131_smaraH/01_ni_shIrShato.md">
@@ -96,8 +96,8 @@ Down upon thee, from head to foot, I draw the pangs of long- ing love. Send fort
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/02_anumate-nvidaM_manyasvAkUte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अनु॑मतेऽन्वि॒दं म॑न्य॒स्वाकू॑ते॒ समि॒दं नमः॑।  
-देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+अ᳓नुमतेऽन्विदं᳓ मन्यस्वा᳓कूते स᳓मिदं᳓ न᳓मः।  
+दे᳓वाः प्र᳓ हिणुत स्मर᳓मसौ᳓ मा᳓म᳓नु शोचतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/131_smaraH/02_anumate-nvidaM_manyasvAkUte.md">
@@ -163,8 +163,8 @@ Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/03_yaddhAvasi_triyojanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्धाव॑सि त्रियोज॒नं प॑ञ्चयोज॒नमाश्वि॑नम्।  
-तत॒स्त्वं पुन॒राय॑सि पु॒त्राणां॑ नो असः पि॒ता ॥
+य᳓द्धा᳓वसि त्रियोजनं᳓ पञ्चयोजन᳓मा᳓श्विनम्।  
+त᳓तस्त्वं᳓ पु᳓नरा᳓यसि पुत्रा᳓णां नो असः पिता᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/131_smaraH/03_yaddhAvasi_triyojanam.md">

@@ -37,8 +37,8 @@ A similar charm addressed to the same
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/01_indrasya_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य॒ नाम॑ गृ॒ह्णन्त॒ ऋष॑यो जङ्गि॒डं द॑दुः।  
-दे॒वा यं च॒क्रुर्भे॑ष॒जमग्रे॑ विष्कन्ध॒दूष॑णम् ॥
+इ᳓न्द्रस्य ना᳓म गृह्ण᳓न्त ऋ᳓षयो जङ्गिडं᳓ ददुः।  
+देवा᳓ यं᳓ चक्रु᳓र्भेषज᳓म᳓ग्रे विष्कन्धदू᳓षणम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/035_jangiDaH/01_indrasya_nAma.md">
@@ -107,8 +107,8 @@ While their lips uttered Indra's name the Rishis gave us Jangida.. Which in the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/02_sa_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स नो॑ रक्षतु जङ्गि॒डो ध॑नपा॒लो धने॑व।  
-दे॒वा यं च॒क्रुर्ब्रा॑ह्म॒णाः प॑रि॒पाण॑मराति॒हम् ॥
+स᳓ नो रक्षतु जङ्गिडो᳓ धनपालो᳓ ध᳓नेव।  
+देवा᳓ यं᳓ चक्रु᳓र्ब्राह्मणाः᳓ परिपा᳓णमरातिह᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/035_jangiDaH/02_sa_no.md">
@@ -171,8 +171,8 @@ So may this Jangida guard us, even as a treasurer guards wealth,. Even this whic
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/03_durhArdaH_sanghoram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दु॒र्हार्दः॒ संघो॑रं॒ चक्षुः॑ पाप॒कृत्वा॑न॒माग॑मम्।  
-तांस्त्वं स॑हस्रचक्षो प्रतीबो॒धेन॑ नाशय परि॒पाणो॑ऽसि जङ्गि॒डः ॥
+दुर्हा᳓र्दः सं᳓घोरं च᳓क्षुः पापकृ᳓त्वानमा᳓गमम्।  
+तां᳓स्त्वं᳓ सहस्रचक्षो प्रतीबोधे᳓न नाशय परिपा᳓णोऽसि जङ्गिडः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/035_jangiDaH/03_durhArdaH_sanghoram.md">
@@ -248,8 +248,8 @@ Hard-hearted men, the cruel eye, the sinner who hath come to- us, Destroy thou t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/04_pari_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ मा दि॒वः परि॑ मा पृथि॒व्याः पर्य॒न्तरि॑क्षा॒त्परि॑ मा वी॒रुद्भ्यः॑।  
-परि॑ मा भू॒तात्परि॑ मो॒त भव्या॑द्दि॒शोदि॑शो जङ्गि॒डः पा॑त्व॒स्मान् ॥
+प᳓रि मा दिवः᳓ प᳓रि मा पृथिव्याः᳓ प᳓र्यन्त᳓रिक्षात्प᳓रि मा वीरु᳓द्भ्यः।  
+प᳓रि मा भूता᳓त्प᳓रि मोत᳓ भ᳓व्याद्दिशो᳓दिशो जङ्गिडः᳓ पात्वस्मा᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/035_jangiDaH/04_pari_mA.md">
@@ -313,8 +313,8 @@ Guard me from earth and guard me from the heavens, guard me from middle air, fro
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/05_ya_RShNavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य ऋ॒ष्णवो॑ दे॒वकृ॑ता॒ य उ॒तो व॑वृ॒तेऽन्यः।  
-सर्वां॒स्तान्वि॒श्वभे॑षजोऽर॒सां ज॑ङ्गि॒डस्क॑रत् ॥
+य᳓ ऋष्ण᳓वो देव᳓कृता य᳓ उतो᳓ ववृते᳓ऽन्यः᳓।  
+स᳓र्वांस्ता᳓न्विश्व᳓भेषजोऽरसां᳓ जङ्गिड᳓स्करत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/035_jangiDaH/05_ya_RShNavo.md">

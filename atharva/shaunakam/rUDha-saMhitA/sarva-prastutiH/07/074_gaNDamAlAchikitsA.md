@@ -33,8 +33,8 @@ A charm to cure pustules, sores, or scrofulous swellings (apachitas)
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/01_apachitAM_lohinInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑प॒चितां॒ लोहि॑नीनां कृ॒ष्णा मा॒तेति॑ शुश्रुम।  
-मुने॑र्दे॒वस्य॒ मूले॑न॒ सर्वा॑ विध्यामि॒ ता अ॒हम् ॥
+अ᳙पचि᳓तां लो᳓हिनीनां कृष्णा᳓ माते᳓ति शुश्रुम।  
+मु᳓नेर्देव᳓स्य मू᳓लेन स᳓र्वा विध्यामि ता᳓ अह᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/01_apachitAM_lohinInAm.md">
@@ -100,8 +100,8 @@ Black is the mother, we have heard, from whom the red-hued Pustules sprang. With
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/02_vidhyAmyAsAM_prathamAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विध्या॑म्यासां प्रथ॒मां वि॑ध्याम्यु॒त म॑ध्य॒माम्।  
-इ॒दं ज॑घ॒न्या᳡मासा॒मा छि॑नद्मि॒ स्तुका॑मिव ॥
+वि᳓ध्याम्यासां प्रथमां᳓ विध्याम्युत᳓ मध्यमा᳓म्।  
+इदं᳓ जघन्या᳙मासामा᳓ छिनद्मि स्तु᳓कामिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/02_vidhyAmyAsAM_prathamAm.md">
@@ -166,8 +166,8 @@ I pierce the foremost one of these, I perforate the middlemost, And here I cut t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/03_tvAShTreNAhaM_vachasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वा॒ष्ट्रेणा॒हं वच॑सा॒ वि त॑ ई॒र्ष्याम॑मीमदम्।  
-अथो॒ यो म॒न्युष्टे॑ पते॒ तमु॑ ते शमयामसि ॥
+त्वाष्ट्रे᳓णाहं᳓ व᳓चसा वि᳓ त ईर्ष्या᳓ममीमदम्।  
+अ᳓थो यो᳓ मन्यु᳓ष्टे पते त᳓मु ते शमयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/03_tvAShTreNAhaM_vachasA.md">
@@ -229,8 +229,8 @@ With spell that Tvashtar sent to us I have dispelled thy jealousy. We mitigate a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/04_vratena_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्र॒तेन॒ त्वं व्र॑तपते॒ सम॑क्तो वि॒श्वाहा॑ सु॒मना॑ दीदिही॒ह।  
-तं त्वा॑ व॒यं जा॑तवेदः॒ समि॑द्धं प्र॒जाव॑न्त॒ उप॑ सदेम॒ सर्वे॑ ॥
+व्रते᳓न त्वं᳓ व्रतपते स᳓मक्तो विश्वा᳓हा सुम᳓ना दीदिहीह᳓।  
+तं᳓ त्वा वयं᳓ जातवेदः स᳓मिद्धं प्रजा᳓वन्त उ᳓प सदेम स᳓र्वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/04_vratena_tvam.md">

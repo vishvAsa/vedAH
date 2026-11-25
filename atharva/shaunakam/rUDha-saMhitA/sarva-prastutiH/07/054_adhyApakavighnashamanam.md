@@ -37,8 +37,8 @@ A charm to obtain knowledge of the Veda
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/054_adhyApakavighnashamanam/01_RchaM_sAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋचं॒ साम॑ यजामहे॒ याभ्यां॒ कर्मा॑णि कु॒र्वते॑।  
-ए॒ते सद॑सि राजतो य॒ज्ञं दे॒वेषु॑ यच्छतः ॥
+ऋ᳓चं सा᳓म यजामहे या᳓भ्यां क᳓र्माणि कुर्व᳓ते।  
+एते᳓ स᳓दसि राजतो यज्ञं᳓ देवे᳓षु यच्छतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/054_adhyApakavighnashamanam/01_RchaM_sAma.md">
@@ -126,8 +126,8 @@ We worship holy Verse and Song, by which they carry out their acts, Shining in o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/054_adhyApakavighnashamanam/02_RchaM_sAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋचं॒ साम॒ यदप्रा॑क्षं ह॒विरोजो॒ यजु॒र्बल॑म्।  
-ए॒ष मा॒ तस्मा॒न्मा हिं॑सी॒द्वेदः॑ पृ॒ष्टः श॑चीपते ॥
+ऋ᳓चं सा᳓म य᳓द᳓प्राक्षं हवि᳓रो᳓जो य᳓जुर्ब᳓लम्।  
+एष᳓ मा त᳓स्मान्मा᳓ हिंसीद्वे᳓दः पृष्टः᳓ शचीपते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/054_adhyApakavighnashamanam/02_RchaM_sAma.md">

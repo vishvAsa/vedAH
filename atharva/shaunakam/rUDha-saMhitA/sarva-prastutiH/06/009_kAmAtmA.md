@@ -37,8 +37,8 @@ A man's love-charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/009_kAmAtmA/01_vAnCha_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वाञ्छ॑ मे त॒न्वं१॒॑ पादौ॒ वाञ्छा॒क्ष्यौ॒३॒॑ वाञ्छ॑ स॒क्थ्यौ॑।  
-अ॒क्ष्यौ॑ वृष॒ण्यन्त्याः॒ केशा॒ मां ते॒ कामे॑न शुष्यन्तु ॥
+वा᳓ञ्छ मे तन्वं᳙ पा᳓दौ वा᳓ञ्छाक्ष्यौ᳙ वा᳓ञ्छ सक्थ्यौ᳙।  
+अक्ष्यौ᳙ वृषण्य᳓न्त्याः के᳓शा मां᳓ ते का᳓मेन शुष्यन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/009_kAmAtmA/01_vAnCha_me.md">
@@ -104,8 +104,8 @@ Desire my body, love my feet, love thou mine eyes, and love my legs. Let both th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/009_kAmAtmA/02_mama_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मम॒ त्वा दो॑षणि॒श्रिषं॑ कृ॒णोमि॑ हृदय॒श्रिष॑म्।  
-यथा॒ मम॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+म᳓म त्वा᳓ दोषणिश्रि᳓षं कृणो᳓मि हृदयश्रि᳓षम्।  
+य᳓था म᳓म क्र᳓ताव᳓सो म᳓म चित्त᳓मुपा᳓यसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/009_kAmAtmA/02_mama_tvA.md">
@@ -169,8 +169,8 @@ I make thee hang upon mine arm, I make thee lie upon my heart. Thou yieldest to 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/009_kAmAtmA/03_yAsAM_nAbhirArehaNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यासां॒ नाभि॑रा॒रेह॑णं हृ॒दि सं॒वन॑नं कृ॒तम्।  
-गावो॑ घृ॒तस्य॑ मा॒तरो॒ऽमूं सं वा॑नयन्तु मे ॥
+या᳓सां ना᳓भिरारे᳓हणं हृदि᳓ संव᳓ननं कृत᳓म्।  
+गा᳓वो घृत᳓स्य मात᳓रोऽमूं᳓ सं᳓ वानयन्तु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/009_kAmAtmA/03_yAsAM_nAbhirArehaNam.md">

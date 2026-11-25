@@ -37,8 +37,8 @@ A charm against an opponent in debate
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/01_nechChatruH_prAsham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नेच्छत्रुः॒ प्राशं॑ जयाति॒ सह॑मानाभि॒भूर॑सि।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+ने᳓च्छ᳓त्रुः प्रा᳓शं जयाति स᳓हमानाभिभू᳓रसि।  
+प्रा᳓शं प्र᳓तिप्राशो जह्यरसा᳓न्कृण्वोषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/01_nechChatruH_prAsham.md">
@@ -110,8 +110,8 @@ Let not the enemy win the cause! Strong and predominant art thou. Refute mine ad
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/02_suparNastvAnvavindatsUkarastvAkhanannasA_prAsha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॑प॒र्णस्त्वान्व॑विन्दत्सूक॒रस्त्वा॑खनन्न॒सा।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+सु᳙पर्ण᳓स्त्वा᳓न्वविन्दत्सूकर᳓स्त्वाखनन्नसा᳓।  
+प्रा᳓शं प्र᳓तिप्राशो जह्यरसा᳓न्कृण्वोषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/02_suparNastvAnvavindatsUkarastvAkhanannasA_prAsha.md">
@@ -175,8 +175,8 @@ The strong-winged bird discovered thee, the boar unearthed thee with his snout. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/03_indro_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ ह चक्रे त्वा बा॒हावसु॑रेभ्य॒ स्तरी॑तवे।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+इ᳓न्द्रो ह चक्रे त्वा बाहा᳓व᳓सुरेभ्य स्त᳓रीतवे।  
+प्रा᳓शं प्र᳓तिप्राशो जह्यरसा᳓न्कृण्वोषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/03_indro_ha.md">
@@ -240,8 +240,8 @@ Yea, Indra laid thee on his arm, to cast the Asuras to the ground. Refute mine a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/04_pATAmindro_vyAshnAdasurebhya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पा॒टामिन्द्रो॒ व्या॑श्ना॒दसु॑रेभ्य॒ स्तरी॑तवे।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+पाटा᳓मि᳓न्द्रो व्या᳙श्नाद᳓सुरेभ्य स्त᳓रीतवे।  
+प्रा᳓शं प्र᳓तिप्राशो जह्यरसा᳓न्कृण्वोषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/04_pATAmindro_vyAshnAdasurebhya.md">
@@ -316,8 +316,8 @@ Indra devoured the Pata plant that he might lay the Asuras low. Refute mine adve
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/05_tayAhaM_shatrUntsAxa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तया॒हं शत्रू॑न्त्साक्ष॒ इन्द्रः॑ सालावृ॒काँ इ॑व।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+त᳓याहं᳓ श᳓त्रून्त्साक्ष इ᳓न्द्रः सालावृकाँ᳓ इव।  
+प्रा᳓शं प्र᳓तिप्राशो जह्यरसा᳓न्कृण्वोषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/05_tayAhaM_shatrUntsAxa.md">
@@ -389,8 +389,8 @@ With this I overcome my foes as Indra overcame the wolves. Refute mine adversary
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/06_rudra_jalAShabheShaja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रुद्र॒ जला॑षभेषज॒ नील॑शिखण्ड॒ कर्म॑कृत्।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+रु᳓द्र ज᳓लाषभेषज नी᳓लशिखण्ड क᳓र्मकृत्।  
+प्रा᳓शं प्र᳓तिप्राशो जह्यरसा᳓न्कृण्वोषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/06_rudra_jalAShabheShaja.md">
@@ -456,8 +456,8 @@ O Rudra, Lord of Healing Balms, dark-crested, skilful in thy work!-- Refute mine
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/07_tasya_prAsham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्य॒ प्राशं॒ त्वं ज॑हि॒ यो न॑ इन्द्राभि॒दास॑ति।  
-अधि॑ नो ब्रूहि॒ शक्ति॑भिः प्रा॒शि मामुत्त॑रं कृधि ॥
+त᳓स्य प्रा᳓शं त्वं᳓ जहि यो᳓ न इन्द्राभिदा᳓सति।  
+अ᳓धि नो ब्रूहि श᳓क्तिभिः प्राशि᳓ मा᳓मु᳓त्तरं कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/07_tasya_prAsham.md">

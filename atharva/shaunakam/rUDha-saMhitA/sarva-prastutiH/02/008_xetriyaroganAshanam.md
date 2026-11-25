@@ -37,8 +37,8 @@ A charm against hereditary disease (kshetriya)
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/01_udagAtAM_bhagavatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के।  
-वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम् ॥
+उ᳓दगातां भ᳓गवती विचृ᳓तौ ना᳓म ता᳓रके।  
+वि᳓ क्षेत्रिय᳓स्य मुञ्चतामधमं᳓ पा᳓शमुत्तम᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/01_udagAtAM_bhagavatI.md">
@@ -118,8 +118,8 @@ Twin Stars of happy omen, named Releasers, have gone up. May they Loose, of inhe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/02_apeyaM_rAtryuchChatvapochChantvabhikRtvarIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपे॒यं रात्र्यु॑च्छ॒त्वपो॑च्छन्त्वभि॒कृत्व॑रीः।  
-वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
+अ᳓पेयं᳓ रा᳓त्र्युच्छत्व᳓पोच्छन्त्वभिकृ᳓त्वरीः।  
+वीरु᳓त्क्षेत्रियना᳓शन्य᳓प क्षेत्रिय᳓मुच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/02_apeyaM_rAtryuchChatvapochChantvabhikRtvarIH.md">
@@ -186,8 +186,8 @@ Vanish this Night, extinct in Dawn! Let those who weave their spells depart. So 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/03_babhrorarjunakANDasya_yavasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब॒भ्रोरर्जु॑नकाण्डस्य॒ यव॑स्य ते पला॒ल्या तिल॑स्य तिलपि॒ञ्ज्या।  
-वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
+बभ्रो᳓र᳓र्जुनकाण्डस्य य᳓वस्य ते पलाल्या᳓ ति᳓लस्य तिलपिञ्ज्या᳓।  
+वीरु᳓त्क्षेत्रियना᳓शन्य᳓प क्षेत्रिय᳓मुच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/03_babhrorarjunakANDasya_yavasya.md">
@@ -253,8 +253,8 @@ With straw of barley tawny-brown in colour with its silvery ears, with stalk and
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/04_namaste_lAngalebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते॒ लाङ्ग॑लेभ्यो॒ नम॑ ईषायु॒गेभ्यः॑।  
-वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
+न᳓मस्ते ला᳓ङ्गलेभ्यो न᳓म ईषायुगे᳓भ्यः।  
+वीरु᳓त्क्षेत्रियना᳓शन्य᳓प क्षेत्रिय᳓मुच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/04_namaste_lAngalebhyo.md">
@@ -320,8 +320,8 @@ Let homage to thy ploughs be paid, our homage to the pole and yokes. So let the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/05_namaH_sanisrasAxebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नमः॑ सनिस्रसा॒क्षेभ्यो॒ नमः॑ संदे॒श्ये॑भ्यः।  
-नमः॒ क्षेत्र॑स्य॒ पत॑ये वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
+न᳓मः सनिस्रसाक्षे᳓भ्यो न᳓मः संदेश्ये᳙भ्यः।  
+न᳓मः क्षे᳓त्रस्य प᳓तये वीरु᳓त्क्षेत्रियना᳓शन्य᳓प क्षेत्रिय᳓मुच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/05_namaH_sanisrasAxebhyo.md">

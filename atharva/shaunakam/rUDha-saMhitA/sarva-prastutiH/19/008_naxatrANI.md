@@ -29,8 +29,8 @@ The mss., and so SPP., have the incorrect accent prákalpayan in c; it is emende
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/01_yAni_naxatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यानि॒ नक्ष॑त्राणि दि॒व्य१॒॑न्तरि॑क्षे अ॒प्सु भूमौ॒ यानि॒ नगे॑षु दि॒क्षु।  
-प्र॑क॒ल्पयं॑श्च॒न्द्रमा॒ यान्येति॒ सर्वा॑णि॒ ममै॒तानि॑ शि॒वानि॑ सन्तु ॥
+या᳓नि न᳓क्षत्राणि दिव्य᳙न्त᳓रिक्षे अप्सु᳓ भू᳓मौ या᳓नि न᳓गेषु दिक्षु᳓।  
+प्र᳙कल्प᳓यंश्चन्द्र᳓मा या᳓न्ये᳓ति स᳓र्वाणि म᳓मैता᳓नि शिवा᳓नि सन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/01_yAni_naxatrANi.md">
@@ -94,8 +94,8 @@ Benign to me be all those Lunar Mansions to which the Moon as he moves on doth h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑ष्टाविं॒शानि॑ शि॒वानि॑ श॒ग्मानि॑ स॒ह योगं॑ भजन्तु मे।  
-योगं॒ प्र प॑द्ये॒ क्षेमं॑ च॒ क्षेमं॒ प्र प॑द्ये॒ योगं॑ च॒ नमो॑ऽहोरा॒त्राभ्या॑मस्तु ॥
+अ᳙ष्टाविंशा᳓नि शिवा᳓नि शग्मा᳓नि सह᳓ यो᳓गं भजन्तु मे।  
+यो᳓गं प्र᳓ पद्ये क्षे᳓मं च क्षे᳓मं प्र᳓ पद्ये यो᳓गं च न᳓मोऽहोरात्रा᳓भ्यामस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
@@ -168,8 +168,8 @@ Propitious, mighty, let the eight-and-twenty together deal me out my share of pr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/03_svastitaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्वस्ति॑तं मे सुप्रा॒तः सु॑सा॒यं सु॑दि॒वं सु॑मृ॒गं सु॑शकु॒नं मे॑ अस्तु।  
-सु॒हव॑मग्ने स्व॒स्त्य१॒॑म॒र्त्यं ग॒त्वा पुन॒राया॑भि॒नन्द॑न् ॥
+स्व᳓स्तितं मे सुप्रातः᳓ सुसायं᳓ सुदिवं᳓ सुमृगं᳓ सुशकुनं᳓ मे अस्तु।  
+सुह᳓वमग्ने स्वस्त्य᳙मर्त्यं᳓ गत्वा᳓ पु᳓नरा᳓याभिन᳓न्दन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/03_svastitaM_me.md">
@@ -247,8 +247,8 @@ Fair be my sunset, fair my morn and evening and day with. lucky chase and happy 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/04_anuhavaM_parihavam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑नुह॒वं प॑रिह॒वं प॑रिवा॒दं प॑रिक्ष॒वम्।  
-सर्वै॑र्मे रिक्तकु॒म्भान्परा॒ तान्त्सवि॑तः सुव ॥
+अ᳙नुहवं᳓ परिहवं᳓ परिवादं᳓ परिक्षव᳓म्।  
+स᳓र्वैर्मे रिक्तकुम्भा᳓न्प᳓रा ता᳓न्त्स᳓वितः सुव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/04_anuhavaM_parihavam.md">
@@ -354,8 +354,8 @@ Excitement and invoking cry, ill-omened sneezing and reproof, All sounds of empt
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/05_apapApaM_parixavam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अप॑पा॒पं प॑रिक्ष॒वं पुण्यं॑ भक्षी॒महि॒ क्षव॑म्।  
-शि॒वा ते॑ पाप॒ नासि॑कां॒ पुण्य॑गश्चा॒भि मे॑हताम् ॥
+अ᳓पपापं᳓ परिक्षवं᳓ पु᳓ण्यं भक्षीम᳓हि क्ष᳓वम्।  
+शिवा᳓ ते पाप ना᳓सिकां पु᳓ण्यगश्चाभि᳓ मेहताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/05_apapApaM_parixavam.md">
@@ -433,8 +433,8 @@ May we escape an evil sneeze, enjoy the sneeze of happy luck, And may our nostri
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/06_imA_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मा या ब्र॑ह्मणस्पते॒ विषु॑ची॒र्वात॒ ईर॑ते।  
-स॒ध्रीची॑रिन्द्र॒ ताः कृ॒त्वा मह्यं॑ शि॒वत॑मास्कृधि ॥
+इमा᳓ या᳓ ब्रह्मणस्पते वि᳓षुचीर्वा᳓त ई᳓रते।  
+सध्री᳓चीरिन्द्र ताः᳓ कृत्वा᳓ म᳓ह्यं शिव᳓तमास्कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/06_imA_yA.md">
@@ -508,7 +508,7 @@ These flames of Brahmanaspati borne to all quarters in the- wind, Turn them all 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/07_svasti_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्व॒स्ति नो॑ अ॒स्त्वभ॑यं नो अस्तु॒ नमो॑ऽहोर॒त्राभ्या॑मस्तु ॥
+स्वस्ति᳓ नो अस्त्व᳓भयं नो अस्तु न᳓मोऽहोरत्रा᳓भ्यामस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/07_svasti_no.md">

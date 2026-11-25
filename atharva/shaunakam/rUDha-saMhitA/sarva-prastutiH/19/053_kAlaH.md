@@ -37,8 +37,8 @@ A hymn to Kama or Time
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/01_kAlo_ashvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-का॒लो अश्वो॑ वहति स॒प्तर॑श्मिः सहस्रा॒क्षो अ॒जरो॒ भूरि॑रेताः।  
-तमा रो॑हन्ति क॒वयो॑ विप॒श्चित॒स्तस्य॑ च॒क्रा भुव॑नानि॒ विश्वा॑ ॥
+कालो᳓ अ᳓श्वो वहति सप्त᳓रश्मिः सहस्राक्षो᳓ अज᳓रो भू᳓रिरेताः।  
+त᳓मा᳓ रोहन्ति कव᳓यो विपश्चि᳓तस्त᳓स्य चक्रा᳓ भु᳓वनानि वि᳓श्वा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/01_kAlo_ashvo.md">
@@ -104,8 +104,8 @@ Prolific, thousand-eyed, and undecaying, a horse with seven reins Time bears us 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/02_sapta_chakrAnvahati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प्त च॒क्रान्व॑हति का॒ल ए॒ष स॒प्तास्य॒ नाभी॑र॒मृतं॒ न्वक्षः॑।  
-स इ॒मा विश्वा॒ भुव॑नान्यञ्जत्का॒लः स ई॑यते प्रथ॒मो नु दे॒वः ॥
+सप्त᳓ चक्रा᳓न्वहति काल᳓ एष᳓ सप्ता᳓स्य ना᳓भीरमृ᳓तं न्व᳓क्षः।  
+स᳓ इमा᳓ वि᳓श्वा भु᳓वनान्यञ्जत्कालः᳓ स᳓ ईयते प्रथमो᳓ नु᳓ देवः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/02_sapta_chakrAnvahati.md">
@@ -191,8 +191,8 @@ This Time hath seven rolling wheels and seven naves immorality is the chariot's 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/03_pUrNaH_kumbho-dhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पू॒र्णः कु॒म्भोऽधि॑ का॒ल आहि॑त॒स्तं वै पश्या॑मो बहु॒धा नु सन्तः॑।  
-स इ॒मा विश्वा॒ भुव॑नानि प्र॒त्यङ्का॒लं तमा॒हुः प॑र॒मे व्यो᳡मन् ॥
+पूर्णः᳓ कुम्भो᳓ऽधि काल᳓ आ᳓हितस्तं᳓ वै᳓ प᳓श्यामो बहुधा᳓ नु᳓ स᳓न्तः।  
+स᳓ इमा᳓ वि᳓श्वा भु᳓वनानि प्रत्य᳓ङ्कालं᳓ त᳓माहुः᳓ परमे᳓ व्यो᳙मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/03_pUrNaH_kumbho-dhi.md">
@@ -263,8 +263,8 @@ On Time is laid an overflowing beaker: this we behold in many a place appearing.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/04_sa_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स ए॒व सं भुव॑ना॒न्याभ॑र॒त्स ए॒व सं भुव॑नानि॒ पर्यै॑त्।  
-पि॒ता सन्न॑भवत्पु॒त्र ए॑षां॒ तस्मा॒द्वै नान्यत्पर॑मस्ति॒ तेजः॑ ॥
+स᳓ एव᳓ सं᳓ भु᳓वनान्या᳓भरत्स᳓ एव᳓ सं᳓ भु᳓वनानि प᳓र्यैत्।  
+पिता᳓ स᳓न्नभवत्पुत्र᳓ एषां त᳓स्माद्वै᳓ ना᳓न्य᳓त्प᳓रमस्ति ते᳓जः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/04_sa_eva.md">
@@ -333,8 +333,8 @@ He only made the worlds of life, he only gathered the worlds of living things to
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/05_kAlo-mUM_divamajanayatkAla.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-का॒लोऽमूं दिव॑मजनयत्का॒ल इ॒माः पृ॑थि॒वीरु॒त।  
-का॒ले ह॑ भू॒तं भव्यं॑ चेषि॒तं ह॒ वि ति॑ष्ठते ॥
+कालो᳓ऽमूं᳓ दि᳓वमजनयत्काल᳓ इमाः᳓ पृथिवी᳓रुत᳓।  
+काले᳓ ह भूतं᳓ भ᳓व्यं चेषितं᳓ ह वि᳓ तिष्ठते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/05_kAlo-mUM_divamajanayatkAla.md">
@@ -403,8 +403,8 @@ Kala created yonder heaven, and Kala made these realms of earth. By Kala, stirre
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/06_kAlo_bhUtimasRjata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-का॒लो भू॒तिम॑सृजत का॒ले तप॑ति॒ सूर्यः॑।  
-का॒ले ह॒ विश्वा॑ भू॒तानि॑ का॒ले चक्षु॒र्वि प॑श्यति ॥
+कालो᳓ भूति᳓मसृजत काले᳓ त᳓पति सू᳓र्यः।  
+काले᳓ ह वि᳓श्वा भूता᳓नि काले᳓ च᳓क्षुर्वि᳓ पश्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/06_kAlo_bhUtimasRjata.md">
@@ -467,8 +467,8 @@ Kala created land; the Sun in Kala hath his light and heat. In Kala rest all thi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/07_kAle_manaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-का॒ले मनः॑ का॒ले प्रा॒णः का॒ले नाम॑ स॒माहि॑तम्।  
-का॒लेन॒ सर्वा॑ नन्द॒न्त्याग॑तेन प्र॒जा इ॒माः ॥
+काले᳓ म᳓नः काले᳓ प्राणः᳓ काले᳓ ना᳓म समा᳓हितम्।  
+काले᳓न स᳓र्वा नन्दन्त्या᳓गतेन प्रजा᳓ इमाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/07_kAle_manaH.md">
@@ -531,8 +531,8 @@ In Kala mind, in Kala breath, in Kala name are fixt and joined. These living cre
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/08_kAle_tapaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-का॒ले तपः॑ का॒ले ज्येष्ठं॑ का॒ले ब्रह्म॑ स॒माहि॑तम्।  
-का॒लो ह॒ सर्व॑स्येश्व॒रो यः पि॒तासी॑त्प्र॒जाप॑तेः ॥
+काले᳓ त᳓पः काले᳓ ज्ये᳓ष्ठं काले᳓ ब्र᳓ह्म समा᳓हितम्।  
+कालो᳓ ह स᳓र्वस्येश्वरो᳓ यः᳓ पिता᳓सीत्प्रजा᳓पतेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/08_kAle_tapaH.md">
@@ -599,8 +599,8 @@ Kala embraces Holy Fire, the Highest, Brahma in himself. Yea, Kala, who was fath
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/09_teneShitaM_tena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तेने॑षि॒तं तेन॑ जा॒तं तदु॒ तस्मि॒न्प्रति॑ष्ठितम्।  
-का॒लो ह॒ ब्रह्म॑ भू॒त्वा बिभ॑र्ति परमे॒ष्ठिन॑म् ॥
+ते᳓नेषितं᳓ ते᳓न जातं᳓ त᳓दु त᳓स्मिन्प्र᳓तिष्ठितम्।  
+कालो᳓ ह ब्र᳓ह्म भूत्वा᳓ बि᳓भर्ति परमेष्ठि᳓नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/09_teneShitaM_tena.md">
@@ -662,8 +662,8 @@ He made, he stirred this universe to motion, and on him it rests. He, Kala, havi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/10_kAlaH_prajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-का॒लः प्र॒जा अ॑सृजत का॒लो अग्रे॑ प्र॒जाप॑तिम्।  
-स्व॑यं॒भूः क॒श्यपः॑ का॒लात्तपः॑ का॒लाद॑जायत ॥
+कालः᳓ प्रजा᳓ असृजत कालो᳓ अ᳓ग्रे प्रजा᳓पतिम्।  
+स्व᳙यंभूः᳓ कश्य᳓पः काला᳓त्त᳓पः काला᳓दजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/10_kAlaH_prajA.md">

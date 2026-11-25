@@ -37,8 +37,8 @@ A charm against witchcraft
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/01_yAM_kalpayanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां क॒ल्पय॑न्ति वह॒तौ व॒धूमि॑व वि॒श्वरू॑पां॒ हस्त॑कृतां चिकि॒त्सवः॑।  
-सारादे॒त्वप॑ नुदाम एनाम् ॥
+यां᳓ कल्प᳓यन्ति वहतौ᳓ वधू᳓मिव विश्व᳓रूपां ह᳓स्तकृतां चिकित्स᳓वः।  
+सा᳓रा᳓देत्व᳓प नुदाम एनाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/01_yAM_kalpayanti.md">
@@ -102,8 +102,8 @@ Afar let her depart: away we drive her whom, made with hands, all-beautiful, Ski
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/02_shIrShaNvatI_nasvatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शी॑र्ष॒ण्वती॑ न॒स्वती॑ क॒र्णिनी॑ कृत्या॒कृता॒ संभृ॑ता वि॒श्वरू॑पा।  
-सारादे॒त्वप॑ नुदाम एनाम् ॥
+शी᳙र्षण्व᳓ती नस्व᳓ती कर्णि᳓नी कृत्याकृ᳓ता सं᳓भृता विश्व᳓रूपा।  
+सा᳓रा᳓देत्व᳓प नुदाम एनाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/02_shIrShaNvatI_nasvatI.md">
@@ -168,8 +168,8 @@ Complete, with head and nose and ears, all-beauteous, wrought with magic skill A
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/03_shUdrakRtA_rAjakRtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शू॒द्रकृ॑ता॒ राज॑कृता॒ स्त्रीकृ॑ता ब्र॒ह्मभिः॑ कृ॒ता।  
-जा॒या पत्या॑ नु॒त्तेव॑ क॒र्तारं॒ बन्ध्वृ॑च्छतु ॥
+शूद्र᳓कृता रा᳓जकृता स्त्री᳓कृता ब्रह्म᳓भिः कृता᳓।  
+जाया᳓ प᳓त्या नुत्ते᳓व कर्ता᳓रं ब᳓न्ध्वृच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/03_shUdrakRtA_rAjakRtA.md">
@@ -235,8 +235,8 @@ Made by a Sidra or a Prince, by priests or women let her go. Back to her maker a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/04_anayAhamoShadhyA_sarvAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒नया॒हमोष॑ध्या॒ सर्वाः॑ कृ॒त्या अ॑दूदुषम्।  
-यां क्षेत्रे॑ च॒क्रुर्यां गोषु॒ यां वा॑ ते॒ पुरु॑षेषु ॥
+अन᳓याह᳓मो᳓षध्या स᳓र्वाः कृत्या᳓ अदूदुषम्।  
+यां᳓ क्षे᳓त्रे चक्रु᳓र्यां᳓ गो᳓षु यां᳓ वा ते पु᳓रुषेषु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/04_anayAhamoShadhyA_sarvAH.md">
@@ -298,8 +298,8 @@ I with this salutary herb have ruined all their magic arts, The spell which they
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/05_aghamastvaghakRte_shapathaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒घम॑स्त्वघ॒कृते॑ श॒पथः॑ शपथीय॒ते।  
-प्र॒त्यक्प्र॑ति॒प्रहि॑ण्मो॒ यथा॑ कृत्या॒कृतं॒ हन॑त् ॥
+अघ᳓मस्त्वघकृ᳓ते शप᳓थः शपथीयते᳓।  
+प्रत्य᳓क्प्रतिप्र᳓हिण्मो य᳓था कृत्याकृ᳓तं ह᳓नत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/05_aghamastvaghakRte_shapathaH.md">
@@ -365,8 +365,8 @@ Ill fall on him who doeth ill, on him who curseth fall the curse! We drive her b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/06_pratIchIna_Angiraso-dhyaxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॑ती॒चीन॑ आङ्गिर॒सोऽध्य॑क्षो नः पु॒रोहि॑तः।  
-प्र॒तीचीः॑ कृ॒त्या आ॒कृत्या॒मून्कृ॑त्या॒कृतो॑ जहि ॥
+प्र᳙तीची᳓न आङ्गिरसो᳓ऽध्यक्षो नः पुरो᳓हितः।  
+प्रती᳓चीः कृत्या᳓ आकृ᳓त्यामू᳓न्कृत्याकृ᳓तो जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/06_pratIchIna_Angiraso-dhyaxo.md">
@@ -429,8 +429,8 @@ Against her comes the Angirasa, the Priest whose eye is over us. Turn back all w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/07_yastvovAcha_parehIti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्त्वो॒वाच॒ परे॒हीति॑ प्रति॒कूल॑मुदा॒य्य᳡म्।  
-तं कृ॑त्येऽभि॒निव॑र्तस्व॒ मास्मानि॑च्छो अना॒गसः॑ ॥
+य᳓स्त्वोवा᳓च प᳓रेही᳓ति प्रतिकू᳓लमुदाय्य᳙म्।  
+तं᳓ कृत्येऽभिनि᳓वर्तस्व मा᳓स्मा᳓निच्छो अनाग᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/07_yastvovAcha_parehIti.md">
@@ -495,8 +495,8 @@ Whoever said to thee, Go forth against the foeman up the stream, To him, O Krity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/08_yaste_parUMShi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॒ परूं॑षि संद॒धौ रथ॑स्येव॒र्भुर्धि॒या।  
-तं ग॑च्छ॒ तत्र॒ तेऽय॑न॒मज्ञा॑तस्ते॒ऽयं जनः॑ ॥
+य᳓स्ते प᳓रूंषि संदधौ᳓ र᳓थस्येवर्भु᳓र्धिया᳓।  
+तं᳓ गच्छ त᳓त्र ते᳓ऽयनम᳓ज्ञातस्तेऽयं᳓ ज᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/08_yaste_parUMShi.md">
@@ -558,8 +558,8 @@ He who composed thy limbs with thought as a deft joiner builds a car, Go to him:
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/09_ye_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये त्वा॑ कृ॒त्वाले॑भि॒रे वि॑द्व॒ला अ॑भिचा॒रिणः॑।  
-शं॒भ्वी॒३॒॑दं कृ॑त्या॒दूष॑णं प्रतिव॒र्त्म पु॑नःस॒रं तेन॑ त्वा स्नपयामसि ॥
+ये᳓ त्वा कृत्वा᳓लेभिरे᳓ विद्वला᳓ अभिचारि᳓णः।  
+शंभ्वी᳙दं᳓ कृत्यादू᳓षणं प्रतिवर्त्म᳓ पुनःसरं᳓ ते᳓न त्वा स्नपयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/09_ye_tvA.md">
@@ -629,8 +629,8 @@ The cunning men, the sorcerers who fashioned thee and held thee fast,-- This cur
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/10_yaddurbhagAM_prasnapitAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्दु॒र्भगां॒ प्रस्न॑पितां मृ॒तव॑त्सामुपेयि॒म।  
-अपै॑तु॒ सर्वं॒ मत्पा॒पं द्रवि॑णं॒ मोप॑ तिष्ठतु ॥
+य᳓द्दुर्भ᳓गां प्र᳓स्नपितां मृत᳓वत्सामुपेयिम᳓।  
+अ᳓पैतु स᳓र्वं म᳓त्पापं᳓ द्र᳓विणं मो᳓प तिष्ठतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/10_yaddurbhagAM_prasnapitAm.md">
@@ -695,8 +695,8 @@ When we have found her ducked and drenched, a hapless cow whose calf hath died, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/11_yatte_pitRbhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्ते॑ पि॒तृभ्यो॒ दद॑तो य॒ज्ञे वा॒ नाम॑ जगृ॒हुः।  
-सं॑दे॒श्या॒३॒॑त्सर्व॑स्मात्पा॒पादि॒मा मु॑ञ्चन्तु॒ त्वौष॑धीः ॥
+य᳓त्ते पितृ᳓भ्यो द᳓दतो यज्ञे᳓ वा ना᳓म जगृहुः᳓।  
+सं᳙देश्या᳙त्स᳓र्वस्मात्पापा᳓दिमा᳓ मुञ्चन्तु त्वौ᳓षधीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/11_yatte_pitRbhyo.md">
@@ -760,8 +760,8 @@ If, as they gave thy parents aught, they named thee, or at sacri- fice, From all
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/12_devainasAtpitryAnnAmagrAhAtsandeshyAdabhiniShkR.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॑वैन॒सात्पित्र्या॑न्नामग्रा॒हात्सं॑दे॒श्या᳡दभि॒निष्कृ॑तात्।  
-मु॒ञ्चन्तु॑ त्वा वी॒रुधो॑ वीर्ये᳡ण॒ ब्रह्म॑णा ऋ॒ग्भिः पय॑स॒ ऋषी॑णाम् ॥
+दे᳙वैनसा᳓त्पि᳓त्र्यान्नामग्राहा᳓त्संदेश्या᳙दभिनि᳓ष्कृतात्।  
+मुञ्च᳓न्तु त्वा वीरु᳓धो वीर्ये᳙ण ब्र᳓ह्मणा ऋग्भिः᳓ प᳓यस ऋ᳓षीणाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/12_devainasAtpitryAnnAmagrAhAtsandeshyAdabhiniShkR.md">
@@ -830,8 +830,8 @@ From mention of thy name, from sin against the Fathers or the Gods, These herbs 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/13_yathA_vAtashchyAvayati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ वात॑श्च्या॒वय॑ति॒ भूम्या॑ रे॒णुम॒न्तरि॑क्षाच्चा॒भ्रम्।  
-ए॒वा मत्सर्वं॑ दुर्भू॒तं ब्रह्म॑नुत्त॒मपा॑यति ॥
+य᳓था वा᳓तश्च्याव᳓यति भू᳓म्या रेणु᳓मन्त᳓रिक्षाच्चाभ्र᳓म्।  
+एवा᳓ म᳓त्स᳓र्वं दुर्भूतं᳓ ब्र᳓ह्मनुत्तम᳓पायति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/13_yathA_vAtashchyAvayati.md">
@@ -892,8 +892,8 @@ As the wind stirs the dust from earth and drives the rain cloud from the sky, So
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/14_apa_krAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अप॑ क्राम॒ नान॑दती॒ विन॑द्धा गर्द॒भीव॑।  
-क॒र्तॄन्न॑क्षस्वे॒तो नु॒त्ता ब्रह्म॑णा वी॒र्या᳡वता ॥
+अ᳓प क्राम ना᳓नदती वि᳓नद्धा गर्दभी᳓व।  
+कर्तॄ᳓न्नक्षस्वेतो᳓ नुत्ता᳓ ब्र᳓ह्मणा वीर्या᳙वता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/14_apa_krAma.md">
@@ -955,8 +955,8 @@ Go with a resonant cry, depart, like a she-ass whose cords are loosed. Go to thy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/15_ayaM_panthAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं पन्थाः॑ कृ॒त्य॒ इति॑ त्वा नयामोऽभि॒प्रहि॑तां॒ प्रति॑ त्वा॒ प्र हि॑ण्मः।  
-तेना॒भि या॑हि भञ्ज॒त्यन॑स्वतीव वा॒हिनी॑ वि॒श्वरू॑पा कुरू॒टिनी॑ ॥
+अयं᳓ प᳓न्थाः कृत्य इ᳓ति त्वा नयामोऽभिप्र᳓हितां प्र᳓ति त्वा प्र᳓ हिण्मः।  
+ते᳓नाभि᳓ याहि भञ्जत्य᳓नस्वतीव वाहि᳓नी विश्व᳓रूपा कुरूटि᳓नी ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/15_ayaM_panthAH.md">
@@ -1028,8 +1028,8 @@ This, Kritya, is thy path, we say, and guide thee. We drive thee back who hast b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/16_parAkte_jyotirapatham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परा॑क्ते॒ ज्योति॒रप॑थं ते अ॒र्वाग॒न्यत्रा॒स्मदय॑ना कृणुष्व।  
-परे॑णेहि नव॒तिं ना॒व्या॒३॒॑ अति॑ दु॒र्गाः स्रो॒त्या मा क्ष॑णिष्ठाः॒ परे॑हि ॥
+प᳓राक्ते ज्यो᳓तिर᳓पथं ते अर्वा᳓गन्य᳓त्रास्म᳓द᳓यना कृणुष्व।  
+प᳓रेणेहि नवतिं᳓ नाव्या᳙ अ᳓ति दुर्गाः᳓ स्रोत्या᳓ मा᳓ क्षणिष्ठाः प᳓रेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/16_parAkte_jyotirapatham.md">
@@ -1095,8 +1095,8 @@ No path leads hitherward for thee to travel. Turn thee from us: far off, thy lig
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/17_vAta_iva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वात॑ इव वृ॒क्षान्नि मृ॑णीहि पा॒दय॒ मा गामश्वं॒ पुरु॑ष॒मुच्छि॑ष एषाम्।  
-क॒र्तॄन्नि॒वृत्ये॒तः कृ॑त्येऽप्रजा॒स्त्वाय॑ बोधय ॥
+वा᳓त इव वृक्षा᳓न्नि᳓ मृणीहि पाद᳓य मा᳓ गा᳓म᳓श्वं पु᳓रुषमु᳓च्छिष एषाम्।  
+कर्तॄ᳓न्निवृ᳓त्येतः᳓ कृत्येऽप्रजास्त्वा᳓य बोधय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/17_vAta_iva.md">
@@ -1161,8 +1161,8 @@ As wind the trees, so smite and overthrow them: leave not cow, horse, or man of 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/18_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां ते॑ ब॒र्हिषि॒ यां श्म॑शा॒ने क्षेत्रे॑ कृ॒त्यां व॑ल॒गं वा॑ निच॒ख्नुः।  
-अ॒ग्नौ वा॑ त्वा॒ गार्ह॑पत्येऽभिचे॒रुः पाकं॒ सन्तं॒ धीर॑तरा अना॒गस॑म् ॥
+यां᳓ ते बर्हि᳓षि यां᳓ श्मशाने᳓ क्षे᳓त्रे कृत्यां᳓ वलगं᳓ वा निचख्नुः᳓।  
+अग्नौ᳓ वा त्वा गा᳓र्हपत्येऽभिचेरुः᳓ पा᳓कं स᳓न्तं धी᳓रतरा अनाग᳓सम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/18_yAM_te.md">
@@ -1229,8 +1229,8 @@ The charm or secret power which they have buried for thee in sacred grass, field
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/19_upAhRtamanubuddhaM_nikhAtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒पाहृ॑त॒मनु॑बुद्धं॒ निखा॑तं॒ वैरं॑ त्सा॒र्यन्व॑विदाम॒ कर्त्र॑म्।  
-तदे॑तु॒ यत॒ आभृ॑तं॒ तत्राश्व॑ इव॒ वि व॑र्ततां॒ हन्तु॑ कृत्या॒कृतः॑ प्र॒जाम् ॥
+उपा᳓हृतम᳓नुबुद्धं नि᳓खातं वै᳓रं त्सार्य᳓न्वविदाम क᳓र्त्रम्।  
+त᳓देतु य᳓त आ᳓भृतं त᳓त्रा᳓श्व इव वि᳓ वर्ततां ह᳓न्तु कृत्याकृ᳓तः प्रजा᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/19_upAhRtamanubuddhaM_nikhAtam.md">
@@ -1295,8 +1295,8 @@ That tool of hatred, understood, made ready, stealthy and buried deep, have we d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/20_svAyasA_asayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्वा॑य॒सा अ॒सयः॑ सन्ति नो गृ॒हे वि॒द्मा ते॑ कृत्ये यति॒धा परूं॑षि।  
-उत्ति॑ष्ठै॒व परे॑ही॒तोऽज्ञा॑ते॒ किमि॒हेच्छ॑सि ॥
+स्वा᳙यसा᳓ अस᳓यः सन्ति नो गृहे᳓ विद्मा᳓ ते कृत्ये यतिधा᳓ प᳓रूंषि।  
+उ᳓त्तिष्ठैव᳓ प᳓रेहीतो᳓ऽज्ञाते कि᳓मिहे᳓च्छसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/20_svAyasA_asayaH.md">
@@ -1361,8 +1361,8 @@ Within our house are swords of goodly iron. Kritya, we know thy joints and all t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/21_grIvAste_kRtye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ग्री॒वास्ते॑ कृत्ये॒ पादौ॒ चापि॑ कर्त्स्यामि॒ निर्द्र॑व।  
-इ॑न्द्रा॒ग्नी अ॒स्मान्र॑क्षतां॒ यौ प्र॒जानां॑ प्र॒जाव॑ती ॥
+ग्रीवा᳓स्ते कृत्ये पा᳓दौ चा᳓पि कर्त्स्यामि नि᳓र्द्रव।  
+इ᳙न्द्राग्नी᳓ अस्मा᳓न्रक्षतां यौ᳓ प्रजा᳓नां प्रजा᳓वती ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/21_grIvAste_kRtye.md">
@@ -1428,7 +1428,7 @@ O Kritya, I will cut thy throat and hew thy feet off. Run, be- gone! Indra and A
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/22_somo_rAjAdhipA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमो॒ राजा॑धि॒पा मृ॑डि॒ता च॑ भू॒तस्य॑ नः॒ पत॑यो मृडयन्तु ॥
+सो᳓मो रा᳓जाधिपा᳓ मृडिता᳓ च भूत᳓स्य नः प᳓तयो मृडयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/22_somo_rAjAdhipA.md">
@@ -1489,8 +1489,8 @@ May Soma, gracious friend, imperial Sovran, and the world's Masters look on us w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/23_bhavAsharvAvasyatAM_pApakRte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॑वाश॒र्वाव॑स्यतां पाप॒कृते॑ कृत्या॒कृते॑।  
-दु॒ष्कृते॑ वि॒द्युतं॑ देवहे॒तिम् ॥
+भ᳙वाशर्वा᳓वस्यतां पापकृ᳓ते कृत्याकृ᳓ते।  
+दुष्कृ᳓ते विद्यु᳓तं देवहेति᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/23_bhavAsharvAvasyatAM_pApakRte.md">
@@ -1555,8 +1555,8 @@ Bhava and Sarva cast the flash of lightning, the weapon of the Gods, against the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/24_yadyeyatha_dvipadI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्ये॒यथ॑ द्वि॒पदी॒ चतु॑ष्पदी कृत्या॒कृता॒ संभृ॑ता वि॒श्वरू॑पा।  
-सेतो॒३॒॑ष्टाप॑दी भू॒त्वा पुनः॒ परे॑हि दुच्छुने ॥
+य᳓द्येय᳓थ द्विप᳓दी च᳓तुष्पदी कृत्याकृ᳓ता सं᳓भृता विश्व᳓रूपा।  
+से᳓तो᳙ष्टा᳓पदी भूत्वा᳓ पु᳓नः प᳓रेहि दुच्छुने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/24_yadyeyatha_dvipadI.md">
@@ -1619,8 +1619,8 @@ If thou hast come two-footed or four-footed, made by the sorcerer, wrought in pe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/25_abhyaktAktA_svarankRtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भ्य१॒॑क्ताक्ता॒ स्व॑रंकृता॒ सर्वं॒ भर॑न्ती दुरि॒तं परे॑हि।  
-जा॑नीहि कृत्ये क॒र्तारं॑ दुहि॒तेव॑ पि॒तरं॒ स्वम् ॥
+अभ्य᳙क्ता᳓क्ता स्व᳙रंकृता स᳓र्वं भ᳓रन्ती दुरितं᳓ प᳓रेहि।  
+जा᳙नीहि कृत्ये कर्ता᳓रं दुहिते᳓व पित᳓रं स्व᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/25_abhyaktAktA_svarankRtA.md">
@@ -1686,8 +1686,8 @@ Anointed, balmed, and well adorned, bearing all trouble with thee, go. Even as a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/26_parehi_kRtye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परे॑हि कृत्ये॒ मा ति॑ष्ठो वि॒द्धस्ये॑व प॒दं न॑य।  
-मृ॒गः स मृ॑ग॒युस्त्वं न त्वा॒ निक॑र्तुमर्हति ॥
+प᳓रेहि कृत्ये मा᳓ तिष्ठो विद्ध᳓स्येव पदं᳓ नय।  
+मृगः᳓ स᳓ मृगयु᳓स्त्वं᳓ न᳓ त्वा नि᳓कर्तुमर्हति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/26_parehi_kRtye.md">
@@ -1751,8 +1751,8 @@ Kritya, begone, stay not. Pursue as 'twere the wounded crea- ture's track. He is
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/27_uta_hanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒त ह॑न्ति पूर्वा॒सिनं॑ प्रत्या॒दायाप॑र॒ इष्वा॑।  
-उ॒त पूर्व॑स्य निघ्न॒तो नि ह॒न्त्यप॑रः॒ प्रति॑ ॥
+उत᳓ हन्ति पूर्वासि᳓नं प्रत्यादा᳓या᳓पर इ᳓ष्वा।  
+उत᳓ पू᳓र्वस्य निघ्नतो᳓ नि᳓ हन्त्य᳓परः प्र᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/27_uta_hanti.md">
@@ -1816,8 +1816,8 @@ He waits, and aiming with his shaft smites him who first would shoot at him, And
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/28_etaddhi_shRNu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तद्धि शृ॒णु मे॒ वचोऽथे॑हि॒ यत॑ ए॒यथ॑।  
-यस्त्वा॑ च॒कार॒ तं प्रति॑ ॥
+एत᳓द्धि᳓ शृणु᳓ मे व᳓चो᳓ऽथेहि य᳓त एय᳓थ।  
+य᳓स्त्वा चका᳓र तं᳓ प्र᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/28_etaddhi_shRNu.md">
@@ -1878,8 +1878,8 @@ Hearken to this my word; then go thither away whence thou hast come; to him who 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/29_anAgohatyA_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑नागोह॒त्या वै भी॒मा कृ॑त्ये॒ मा नो॒ गामश्वं॒ पुरु॑षं वधीः।  
-यत्र॑य॒त्रासि॒ निहि॑ता॒ तत॒स्त्वोत्था॑पयामसि प॒र्णाल्लघी॑यसी भव ॥
+अ᳙नागोहत्या᳓ वै᳓ भीमा᳓ कृत्ये मा᳓ नो गा᳓म᳓श्वं पु᳓रुषं वधीः।  
+य᳓त्रयत्रा᳓सि नि᳓हिता त᳓तस्त्वो᳓त्थापयामसि पर्णा᳓ल्ल᳓घीयसी भव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/29_anAgohatyA_vai.md">
@@ -1949,8 +1949,8 @@ The slaughter of an innocent, O Kritya, is an awful deed. Slay not cow, horse, o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/30_yadi_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॒ स्थ तम॒सावृ॑ता॒ जाले॑न॒भिहि॑ता इव।  
-सर्वाः॑ सं॒लुप्ये॒तः कृ॒त्याः पुनः॑ क॒र्त्रे प्र हि॑ण्मसि ॥
+य᳓दि स्थ᳓ त᳓मसा᳓वृता जा᳓लेनभि᳓हिता इव।  
+स᳓र्वाः संलु᳓प्येतः᳓ कृत्याः᳓ पु᳓नः कर्त्रे᳓ प्र᳓ हिण्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/30_yadi_stha.md">
@@ -2012,8 +2012,8 @@ If ye be girt about with clouds of darkness, bound as with a net. We rend and te
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/31_kRtyAkRto_valagino-bhiniShkAriNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॑त्या॒कृतो॑ वल॒गिनो॑ऽभिनिष्का॒रिणः॑ प्र॒जाम्।  
-मृ॑णी॒हि कृ॑त्ये॒ मोच्छि॑षो॒ऽमून्कृ॑त्या॒कृतो॑ जहि ॥
+कृ᳙त्याकृ᳓तो वलगि᳓नोऽभिनिष्कारि᳓णः प्रजा᳓म्।  
+मृ᳙णीहि᳓ कृत्ये मो᳓च्छिषोऽमू᳓न्कृत्याकृ᳓तो जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/31_kRtyAkRto_valagino-bhiniShkAriNaH.md">
@@ -2075,8 +2075,8 @@ The brood of wizard, sorcerer, the purposer of evil deed. Crush thou, O Kritya s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/001_kRtyAdUShaNam/32_yathA_sUryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ सूर्यो॑ मु॒च्यते॒ तम॑स॒स्परि॒ रात्रिं॒ जहा॑त्यु॒षस॑श्च के॒तून्।  
-ए॒वाहं सर्वं॑ दुर्भू॒तं कर्त्रं॑ कृत्या॒कृता॑ कृ॒तं ह॒स्तीव॒ रजो॑ दुरि॒तं ज॑हामि ॥
+य᳓था सू᳓र्यो मुच्य᳓ते त᳓मसस्प᳓रि रा᳓त्रिं ज᳓हात्युष᳓सश्च केतू᳓न्।  
+एवा᳓हं᳓ स᳓र्वं दुर्भूतं᳓ क᳓र्त्रं कृत्याकृ᳓ता कृतं᳓ हस्ती᳓व र᳓जो दुरितं᳓ जहामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/001_kRtyAdUShaNam/32_yathA_sUryo.md">

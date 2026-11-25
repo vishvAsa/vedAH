@@ -37,8 +37,8 @@ A charm to avert an evil omen
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/064_pApamochanam/01_idaM_yatkRShNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं यत्कृ॒ष्णः श॒कुनि॑रभिनि॒ष्पत॒न्नपी॑पतत्।  
-आपो॑ मा॒ तस्मा॒त्सर्व॑स्माद्दुरि॒तात्पा॒न्त्वंह॑सः ॥
+इदं᳓ य᳓त्कृष्णः᳓ शकु᳓निरभिनिष्प᳓तन्न᳓पीपतत्।  
+आ᳓पो मा त᳓स्मात्स᳓र्वस्माद्दुरिता᳓त्पान्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/064_pApamochanam/01_idaM_yatkRShNaH.md">
@@ -106,8 +106,8 @@ From all that woe and trouble may the Waters save and rescue me, Whate'er the Ra
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/064_pApamochanam/02_idaM_yatkRShNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं यत्कृ॒ष्णः श॒कुनि॑र॒वामृ॑क्षन्निरृते ते॒ मुखे॑न।  
-अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्यः॒ प्र मु॑ञ्चतु ॥
+इदं᳓ य᳓त्कृष्णः᳓ शकु᳓निरवा᳓मृक्षन्निरृते ते मु᳓खेन।  
+अग्नि᳓र्मा त᳓स्मादे᳓नसो गा᳓र्हपत्यः प्र᳓ मुञ्चतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/064_pApamochanam/02_idaM_yatkRShNaH.md">

@@ -33,8 +33,8 @@ Translated: Muir, i2 255; Griffith, i. 304.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/01_tvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं नो॑ मेधे प्रथ॒मा गोभि॒रश्वे॑भि॒रा ग॑हि।  
-त्वं सूर्य॑स्य र॒श्मिभि॒स्त्वं नो॑ असि य॒ज्ञिया॑ ॥
+त्वं᳓ नो मेधे प्रथमा᳓ गो᳓भिर᳓श्वेभिरा᳓ गहि।  
+त्वं᳓ सू᳓र्यस्य रश्मि᳓भिस्त्वं᳓ नो असि यज्ञि᳓या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/108_medhAvardhanam/01_tvaM_no.md">
@@ -98,8 +98,8 @@ Intelligence, come first to us with store of horses and of kine! Thou with the r
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/02_medhAmahaM_prathamAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मे॒धाम॒हं प्र॑थ॒मां ब्रह्म॑ण्वतीं॒ ब्रह्म॑जूता॒मृषि॑ष्टुताम्।  
-प्रपी॑तां ब्रह्मचा॒रिभि॑र्दे॒वाना॒मव॑से हुवे ॥
+मेधा᳓महं᳓ प्रथमां᳓ ब्र᳓ह्मण्वतीं ब्र᳓ह्मजूतामृ᳓षिष्टुताम्।  
+प्र᳓पीतां ब्रह्मचारि᳓भिर्देवा᳓नाम᳓वसे हुवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/108_medhAvardhanam/02_medhAmahaM_prathamAm.md">
@@ -172,8 +172,8 @@ The first, devout Intelligence, lauded by sages, sped by prayer, Drunk by Brahma
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/03_yAM_medhAmRbhavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां मे॒धामृ॒भवो॑ वि॒दुर्यां मे॒धामसु॑रा वि॒दुः।  
-ऋष॑यो भ॒द्रां मे॒धां यां वि॒दुस्तां मय्या वे॑शयामसि ॥
+यां᳓ मेधा᳓मृभ᳓वो विदु᳓र्यां᳓ मेधा᳓म᳓सुरा विदुः᳓।  
+ऋ᳓षयो भद्रां᳓ मेधां᳓ यां᳓ विदु᳓स्तां᳓ म᳓य्या᳓ वेशयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/108_medhAvardhanam/03_yAM_medhAmRbhavo.md">
@@ -235,8 +235,8 @@ That excellent Intelligence which Ribhus know, and Asuras, Intelligence which sa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/04_yAmRShayo_bhUtakRto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यामृष॑यो भूत॒कृतो॑ मे॒धां मे॑धा॒विनो॑ वि॒दुः।  
-तया॒ माम॒द्य मे॒धयाग्ने॑ मेधा॒विनं॑ कृणु ॥
+या᳓मृ᳓षयो भूतकृ᳓तो मेधां᳓ मेधावि᳓नो विदुः᳓।  
+त᳓या मा᳓मद्य᳓ मेध᳓या᳓ग्ने मेधावि᳓नं कृणु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/108_medhAvardhanam/04_yAmRShayo_bhUtakRto.md">
@@ -300,8 +300,8 @@ Do thou, O Agni, make me wise this day with that Intelligence. Which the creativ
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/05_medhAM_sAyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मे॒धां सा॒यं मे॒धां प्रा॒तर्मे॒धां म॒ध्यन्दि॑नं॒ परि॑।  
-मे॒धां सूर्य॑स्य र॒श्मिभि॒र्वच॒सा वे॑शयामहे ॥
+मेधां᳓ सायं᳓ मेधां᳓ प्रात᳓र्मेधां᳓ मध्य᳓न्दिनं प᳓रि।  
+मेधां᳓ सू᳓र्यस्य रश्मि᳓भिर्व᳓चसा᳓ वेशयामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/108_medhAvardhanam/05_medhAM_sAyam.md">

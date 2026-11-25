@@ -37,8 +37,8 @@ A prayer for prosperity and happiness
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/01_anvadya_no-numatiryajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अन्व॒द्य नोऽनु॑मतिर्य॒ज्ञं दे॒वेषु॑ मन्यताम्।  
-अ॒ग्निश्च॑ हव्य॒वाह॑नो॒ भव॑तां दा॒शुषे॒ मम॑ ॥
+अ᳓न्वद्य᳓ नो᳓ऽनुमतिर्यज्ञं᳓ देवे᳓षु मन्यताम्।  
+अग्नि᳓श्च हव्यवा᳓हनो भ᳓वतां दाशु᳓षे म᳓म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/01_anvadya_no-numatiryajnam.md">
@@ -113,8 +113,8 @@ Anumati approve to-day our sacrifice among the Gods! May Agni bear mine offering
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/02_anvidanumate_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अन्विद॑नुमते॒ त्वं मंस॑से॒ शं च॑ नस्कृधि।  
-जुषस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि ररास्व नः ॥
+अ᳓न्वि᳓दनुमते त्वं᳓ मं᳓ससे शं᳓ च नस्कृधि।  
+जु᳓ष᳓स्व हव्य᳓मा᳓हुतं प्रजां᳓ देवि ररास्व नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/02_anvidanumate_tvam.md">
@@ -183,8 +183,8 @@ Do thou, Anumati! approve, and grant us health and happiness. Accept the offered
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/03_anu_manyatAmanumanyamAnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अनु॑ मन्यतामनु॒मन्य॑मानः प्र॒जाव॑न्तं र॒यिमक्षी॑यमाणम्।  
-तस्य॑ व॒यं हेड॑सि॒ मापि॑ भूम सुमृडी॒के अ॑स्य सुम॒तौ स्या॑म ॥
+अ᳓नु मन्यतामनुम᳓न्यमानः प्रजा᳓वन्तं रयि᳓म᳓क्षीयमाणम्।  
+त᳓स्य वयं᳓ हे᳓डसि मा᳓पि भूम सुमृडीके᳓ अस्य सुमतौ᳓ स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/03_anu_manyatAmanumanyamAnaH.md">
@@ -253,8 +253,8 @@ May he approving in return accord us wealth inexhaustible with store of children
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/04_yatte_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्ते॒ नाम॑ सु॒हवं॑ सुप्रणी॒तेऽनु॑मते॒ अनु॑मतं सु॒दानु॑।  
-तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म् ॥
+य᳓त्ते ना᳓म सुह᳓वं सुप्रणीते᳓ऽनुमते अ᳓नुमतं सुदा᳓नु।  
+ते᳓ना नो यज्ञं᳓ पिपृहि विश्ववारे रयिं᳓ नो धेहि सुभगे सुवी᳓रम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/04_yatte_nAma.md">
@@ -319,8 +319,10 @@ Thy name is easy to invoke, good leader! approved, Anumati and rich in bounty. S
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/05_emaM_yajnamanumatirjagAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एमं य॒ज्ञमनु॑मतिर्जगाम सुक्षे॒त्रता॑यै सुवी॒रता॑यै॒ सुजा॑तम्।  
-भ॒द्रा ह्य᳡स्याः॒ प्रम॑तिर्ब॒भूव॒ सेमं य॒ज्ञम॑वतु दे॒वगो॑पा ॥
+ए᳓मं᳓ यज्ञ᳓म् अ᳓नुमतिर् **जगाम**  
+सुक्षेत्र᳓तायै सुवीर᳓तायै सु᳓जातम्।  
+भद्रा᳓ ह्य् अ᳙स्याः प्र᳓मतिर् **बभू᳓व**  
+से᳓मं᳓ यज्ञ᳓म् **अवतु** देव᳓-गोपा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/05_emaM_yajnamanumatirjagAma.md">
@@ -388,8 +390,8 @@ Anumati hath come to this our worship well-formed to give good lands and valiant
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/06_anumatiH_sarvamidam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अनु॑मतिः॒ सर्व॑मि॒दं ब॑भूव॒ यत्तिष्ठ॑ति॒ चर॑ति॒ यदु॑ च॒ विश्व॒मेज॑ति।  
-तस्या॑स्ते देवि सुम॒तौ स्या॒मानु॑मते॒ अनु॒ हि मंस॑से नः ॥
+अ᳓नुमतिः स᳓र्वमिदं᳓ बभूव य᳓त्ति᳓ष्ठति च᳓रति य᳓दु च वि᳓श्वमे᳓जति।  
+त᳓स्यास्ते देवि सुमतौ᳓ स्यामा᳓नुमते अ᳓नु हि᳓ मं᳓ससे नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/06_anumatiH_sarvamidam.md">

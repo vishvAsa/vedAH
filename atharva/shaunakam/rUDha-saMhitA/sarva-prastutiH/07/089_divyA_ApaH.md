@@ -37,8 +37,8 @@ A prayer for purification and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/089_divyA_ApaH/01_apo_divyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पो दि॒व्या अ॑चायिषं॒ रसे॑न॒ सम॑पृक्ष्महि।  
-पय॑स्वानग्न॒ आग॑मं॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥
+अपो᳓ दिव्या᳓ अचायिषं र᳓सेन स᳓मपृक्ष्महि।  
+प᳓यस्वानग्न आ᳓गमं तं᳓ मा सं᳓ सृज व᳓र्चसा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/089_divyA_ApaH/01_apo_divyA.md">
@@ -109,8 +109,8 @@ The heavenly Waters have I ranged: we have been sated with their dew. Here, Agni
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/089_divyA_ApaH/02_saM_mAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा।  
-वि॒द्युर्मे॑ अ॒स्य दे॒वा इन्द्रो॑ विद्यात्स॒ह ऋषि॑भिः ॥
+सं᳓ माग्ने व᳓र्चसा सृज सं᳓ प्रज᳓या स᳓मा᳓युषा।  
+विद्यु᳓र्मे अस्य᳓ देवा᳓ इ᳓न्द्रो विद्यात्सह᳓ ऋ᳓षिभिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/089_divyA_ApaH/02_saM_mAgne.md">
@@ -178,8 +178,8 @@ Endow me with the gift of strength, with children, and a length- ened life. May 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/089_divyA_ApaH/03_idamApaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दमा॑पः॒ प्र व॑हताव॒द्यं च॒ मलं॑ च॒ यत्।  
-यच्चा॑भिदु॒द्रोहानृ॑तं॒ यच्च॑ शे॒पे अ॒भीरु॑णम् ॥
+इद᳓मापः प्र᳓ वहतावद्यं᳓ च म᳓लं च य᳓त्।  
+य᳓च्चाभिदुद्रो᳓हा᳓नृतं य᳓च्च शेपे᳓ अभी᳓रुणम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/089_divyA_ApaH/03_idamApaH_pra.md">
@@ -252,8 +252,8 @@ Ye Waters, wash away this stain and whatsoever taint be here, Each sinful wrong 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/089_divyA_ApaH/04_edho-syedhiShIya_samidasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एधो॑ऽस्येधिषी॒य स॒मिद॑सि॒ समे॑धिषीय।  
-तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि ॥
+ए᳓धोऽस्येधिषीय᳓ समि᳓दसि स᳓मेधिषीय।  
+ते᳓जोऽसि ते᳓जो म᳓यि धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/089_divyA_ApaH/04_edho-syedhiShIya_samidasi.md">

@@ -37,8 +37,8 @@ A prayer for general protection and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/01_shAntA_dyauH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शा॒न्ता द्यौः शा॒न्ता पृ॑थि॒वी शा॒न्तमि॒दमु॒र्व१॒॑न्तरि॑क्षम्।  
-शा॒न्ता उ॑द॒न्वती॒रापः॑ शा॒न्ता नः॑ स॒न्त्वोष॑धीः ॥
+शान्ता᳓ द्यौः᳓ शान्ता᳓ पृथिवी᳓ शान्त᳓मिद᳓मुर्व᳙न्त᳓रिक्षम्।  
+शान्ता᳓ उदन्व᳓तीरा᳓पः शान्ता᳓ नः सन्त्वो᳓षधीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/01_shAntA_dyauH.md">
@@ -100,8 +100,8 @@ Gentle be heaven, gentle be earth, gentle this spacious, atmosphere. Gentle be w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/02_shAntAni_pUrvarUpANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शा॒न्तानि॑ पूर्वरू॒पाणि॑ शा॒न्तं नो॑ अस्तु कृताकृ॒तम्।  
-शा॒न्तं भू॒तं च॒ भव्यं॑ च॒ सर्व॑मे॒व शम॑स्तु नः ॥
+शान्ता᳓नि पूर्वरूपा᳓णि शान्तं᳓ नो अस्तु कृताकृत᳓म्।  
+शान्तं᳓ भूतं᳓ च भ᳓व्यं च स᳓र्वमेव᳓ श᳓मस्तु नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/02_shAntAni_pUrvarUpANi.md">
@@ -167,8 +167,8 @@ Gentle be signs of coming change, and that which is and is not. done! Gentle be 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/03_iyaM_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒यं या प॑रमे॒ष्ठिनी॒ वाग्दे॒वी ब्रह्म॑संशिता।  
-ययै॒व स॑सृ॒जे घो॒रं तयै॒व शान्ति॑रस्तु नः ॥
+इयं᳓ या᳓ परमेष्ठि᳓नी वा᳓ग्देवी᳓ ब्र᳓ह्मसंशिता।  
+य᳓यैव᳓ ससृजे᳓ घोरं᳓ त᳓यैव᳓ शा᳓न्तिरस्तु नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/03_iyaM_yA.md">
@@ -229,8 +229,8 @@ Quickened by Prayer, this Goddess Vak who standeth in the highest place, By whom
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/04_idaM_yatparameShThinam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं यत्प॑रमे॒ष्ठिनं॒ मनो॑ वां॒ ब्रह्म॑संशितम्।  
-येनै॒व स॑सृ॒जे घो॒रं तेनै॒व शान्ति॑रस्तु नः ॥
+इदं᳓ य᳓त्परमेष्ठि᳓नं म᳓नो वां ब्र᳓ह्मसंशितम्।  
+ये᳓नैव᳓ ससृजे᳓ घोरं᳓ ते᳓नैव᳓ शा᳓न्तिरस्तु नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/04_idaM_yatparameShThinam.md">
@@ -294,8 +294,8 @@ Or, made more keen by Prayer, this mind that standeth in the highest place, Wher
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/05_imAni_yAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मानि॒ यानि॒ पञ्चे॑न्द्रि॒याणि॒ मनः॑षष्ठानि मे हृ॒दि ब्रह्म॑णा॒ संशि॑तानि।  
-यैरे॒व स॑सृ॒जे घो॒रं तैरे॒व शान्ति॑रस्तु नः ॥
+इमा᳓नि या᳓नि प᳓ञ्चेन्द्रिया᳓णि म᳓नःषष्ठानि मे हृदि᳓ ब्र᳓ह्मणा सं᳓शितानि।  
+यै᳓रेव᳓ ससृजे᳓ घोरं᳓ तै᳓रेव᳓ शा᳓न्तिरस्तु नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/05_imAni_yAni.md">
@@ -360,8 +360,8 @@ These five sense-organs with the mind as sixth, sharpened by Prayer, abiding in 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/06_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॑ मि॒त्रः शं वरु॑णः॒ शं विष्णुः॒ शं प्र॒जाप॑तिः।  
-शं न॒ इन्द्रो॒ बृह॒स्पतिः॒ शं नो॑ भवत्वर्य॒मा ॥
+शं᳓ नो मित्रः᳓ शं᳓ व᳓रुणः शं᳓ वि᳓ष्णुः शं᳓ प्रजा᳓पतिः।  
+शं᳓ न इ᳓न्द्रो बृ᳓हस्प᳓तिः शं᳓ नो भवत्वर्यमा᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/06_shaM_no.md">
@@ -429,8 +429,8 @@ Favour us Mitra, Varuna, and Vishnu, and Prajapati! Gracious* to us be Indra and
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/07_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॑ मि॒त्रः शं वरु॑णः॒ शं वि॒वस्वा॒ञ्छमन्त॑कः।  
-उ॒त्पाताः॒ पार्थि॑वा॒न्तरि॑क्षाः॒ शं नो॑ दि॒विच॑रा॒ ग्रहाः॑ ॥
+शं᳓ नो मित्रः᳓ शं᳓ व᳓रुणः शं᳓ विव᳓स्वाञ्छ᳓म᳓न्तकः।  
+उत्पा᳓ताः पा᳓र्थिवान्त᳓रिक्षाः शं᳓ नो दिवि᳓चरा ग्र᳓हाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/07_shaM_no.md">
@@ -506,8 +506,8 @@ Favour us Mitra, Varuna, Vivasvan, and the Finisher, Portents on earth and in th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/08_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॒ भूमि॑र्वेप्यमा॒ना शमु॒ल्का निर्ह॑तं च॒ यत्।  
-शं गावो॒ लोहि॑तक्षीराः॒ शं भूमि॒रव॑ तीर्य॒तीः ॥
+शं᳓ नो भू᳓मिर्वेप्यमाना᳓ श᳓मुल्का᳓ नि᳓र्हतं च य᳓त्।  
+शं᳓ गा᳓वो लो᳓हितक्षीराः शं᳓ भू᳓मिर᳓व तीर्यतीः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/08_shaM_no.md">
@@ -589,8 +589,8 @@ Gracious to us be trembling earth, gracious the flaming meteor stroke! Gracious 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/09_naxatramulkAbhihataM_shamastu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नक्ष॑त्रमु॒ल्काभिह॑तं॒ शम॑स्तु नः॒ शं नो॑ऽभिचा॒राः शमु॑ सन्तु कृ॒त्याः।  
-शं नो॒ निखा॑ता व॒ल्गाः शमु॒ल्का दे॑शोपस॒र्गाः शमु॑ नो भवन्तु ॥
+न᳓क्षत्रमुल्का᳓भि᳓हतं श᳓मस्तु नः शं᳓ नोऽभिचाराः᳓ श᳓मु सन्तु कृत्याः᳓।  
+शं᳓ नो नि᳓खाता वल्गाः᳓ श᳓मुल्का᳓ देशोपसर्गाः᳓ श᳓मु नो भवन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/09_naxatramulkAbhihataM_shamastu.md">
@@ -667,8 +667,8 @@ Gracious be meteor-stricken constellation, gracious to us be magic spells and wi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/10_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॒ ग्रहा॑श्चान्द्रम॒साः शमा॑दि॒त्यश्च॑ राहु॒णा।  
-शं नो॑ मृ॒त्युर्धू॒मके॑तुः॒ शं रु॒द्रास्ति॒ग्मते॑जसः ॥
+शं᳓ नो ग्र᳓हाश्चान्द्रमसाः᳓ श᳓मादित्य᳓श्च राहुणा᳓।  
+शं᳓ नो मृत्यु᳓र्धूम᳓केतुः शं᳓ रुद्रा᳓स्तिग्म᳓तेजसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/10_shaM_no.md">
@@ -739,8 +739,8 @@ Kind be the Powers who seize the Moon, with Rahu be Adityas kind! Favour us Deat
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/11_shaM_rudrAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं रु॒द्राः शं वस॑वः॒ शमा॑दि॒त्याः शम॒ग्नयः॑।  
-शं नो॑ मह॒र्षयो॑ दे॒वाः शं दे॒वाः शं बृह॒स्पतिः॑ ॥
+शं᳓ रुद्राः᳓ शं᳓ व᳓सवः श᳓मादित्याः᳓ श᳓मग्न᳓यः।  
+शं᳓ नो महर्ष᳓यो देवाः᳓ शं᳓ देवाः᳓ शं᳓ बृ᳓हस्प᳓तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/11_shaM_rudrAH.md">
@@ -808,9 +808,9 @@ Rudras and Vasus favour us, Adityas, Agnis favour us! Favour us mighty Rishis, G
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/12_brahma_prajApatirdhAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑ प्र॒जाप॑तिर्धा॒ता लो॒का वेदाः॑ सप्तऋ॒षयो॒ऽग्नयः॑।  
-तैर्मे॑ कृ॒तं स्व॒स्त्यय॑न॒मिन्द्रो॑ मे॒ शर्म॑ यच्छतु ब्र॒ह्मा मे॒ शर्म॑ यच्छतु।  
-विश्वे॑ मे दे॒वाः शर्म॑ यच्छन्तु॒ सर्वे॑ मे दे॒वाः शर्म॑ यच्छन्तु ॥
+ब्र᳓ह्म प्रजा᳓पतिर्धाता᳓ लोका᳓ वे᳓दाः सप्तऋष᳓योऽग्न᳓यः।  
+तै᳓र्मे कृतं᳓ स्वस्त्य᳓यनमि᳓न्द्रो मे श᳓र्म यच्छतु ब्रह्मा᳓ मे श᳓र्म यच्छतु।  
+वि᳓श्वे मे देवाः᳓ श᳓र्म यच्छन्तु स᳓र्वे मे देवाः᳓ श᳓र्म यच्छन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/12_brahma_prajApatirdhAtA.md">
@@ -883,8 +883,8 @@ Brahma, Dhatar, Prajapati, Worlds, Vedas, Agnis, Rishis Seven. All these have bl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/13_yAni_kAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यानि॒ कानि॑ चिच्छा॒न्तानि॑ लो॒के स॑प्तऋ॒षयो॑ वि॒दुः।  
-सर्वा॑णि॒ शं भ॑वन्तु मे॒ शं मे॑ अ॒स्त्वभ॑यं मे अस्तु ॥
+या᳓नि का᳓नि चिच्छान्ता᳓नि लोके᳓ सप्तऋष᳓यो विदुः᳓।  
+स᳓र्वाणि शं᳓ भवन्तु मे शं᳓ मे अस्त्व᳓भयं मे अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/13_yAni_kAni.md">
@@ -947,8 +947,8 @@ May all the Gods protect me, may the Gods united shield me well. May all allevia
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/009_shAntiH/14_pRthivI_shAntirantarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॑थि॒वी शान्ति॑र॒न्तरि॑क्षं॒ शान्ति॒र्द्यौः शान्ति॒रापः॒ शान्ति॒रोष॑धयः॒ शान्ति॒र्वन॒स्पत॑यः॒ शान्ति॒र्विश्वे॑ मे दे॒वाः शान्तिः॒ सर्वे॑ मे देवाः॒ शान्तिः॒ शान्तिः॒ शान्तिः॒ शान्ति॑भिः।  
-ताभिः॒ शान्ति॑भिः॒ सर्व॒ शान्ति॑भिः॒ शम॑यामो॒ऽहं यदि॒ह घो॒रं यदि॒ह क्रू॒रं यदि॒ह पा॒पं तच्छा॒न्तं तच्छि॒वं सर्व॑मे॒व शम॑स्तु नः ॥
+पृ᳙थिवी᳓ शा᳓न्तिरन्त᳓रिक्षं शा᳓न्तिर्द्यौः᳓ शा᳓न्तिरा᳓पः शा᳓न्तिरो᳓षधयः शा᳓न्तिर्व᳓नस्प᳓तयः शा᳓न्तिर्वि᳓श्वे मे देवाः᳓ शा᳓न्तिः स᳓र्वे मे देवाः शा᳓न्तिः शा᳓न्तिः शा᳓न्तिः शा᳓न्तिभिः।  
+ता᳓भिः शा᳓न्तिभिः स᳓र्व शा᳓न्तिभिः श᳓मयामोऽहं᳓ य᳓दिह᳓ घोरं᳓ य᳓दिह᳓ क्रूरं᳓ य᳓दिह᳓ पापं᳓ त᳓च्छान्तं᳓ त᳓च्छिवं᳓ स᳓र्वमेव᳓ श᳓मस्तु नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/009_shAntiH/14_pRthivI_shAntirantarixam.md">

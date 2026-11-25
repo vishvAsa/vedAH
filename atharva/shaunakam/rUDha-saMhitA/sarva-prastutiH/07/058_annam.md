@@ -37,8 +37,8 @@ An invitation to Indra and Varuna
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/058_annam/01_indrAvaruNA_sutapAvimam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रा॑वरुणा सुतपावि॒मं सु॒तं सोमं॑ पिबतं॒ मद्यं॑ धृतव्रतौ।  
-यु॒वो रथो॑ अध्व॒रो दे॒ववी॑तये॒ प्रति॒ स्वस॑र॒मुप॑ यातु पी॒तये॑ ॥
+इ᳓न्द्रावरुणा सुतपाविमं᳓ सुतं᳓ सो᳓मं पिबतं म᳓द्यं धृतव्रतौ।  
+युवो᳓ र᳓थो अध्वरो᳓ देव᳓वीतये प्र᳓ति स्व᳓सरमु᳓प यातु पीत᳓ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/058_annam/01_indrAvaruNA_sutapAvimam.md">
@@ -110,8 +110,8 @@ True to laws, Indra Varuna, drinkers of the juice, quaff this pressed Soma which
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रा॑वरुणा मधुमत्तमस्य॒ वृष्णः॒ सोम॑स्य वृष॒णा वृ॑षेथाम्।  
-इ॒दं वा॒मन्धः॒ परि॑षिक्तमा॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयेथाम् ॥
+इ᳓न्द्रावरुणा मधुमत्तमस्य वृ᳓ष्णः सो᳓मस्य वृषणा᳓ वृषेथाम्।  
+इदं᳓ वाम᳓न्धः प᳓रिषिक्तमास᳓द्यास्मि᳓न्बर्हि᳓षि मादयेथाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/058_annam/02_indrAvaruNA_madhumattamasya.md">

@@ -33,8 +33,8 @@ Translated: Griffith, i. 321.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/01_yadashnAmi_balam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॒श्नामि॒ बलं॑ कुर्व इ॒त्थं वज्र॒मा द॑दे।  
-स्क॒न्धान॒मुष्य॑ शा॒तय॑न्वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥
+य᳓दश्ना᳓मि ब᳓लं कुर्व इत्थं᳓ व᳓ज्रमा᳓ ददे।  
+स्कन्धा᳓नमु᳓ष्य शात᳓यन्वृत्र᳓स्येव श᳓चीप᳓तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/135_balaprAptiH/01_yadashnAmi_balam.md">
@@ -98,8 +98,8 @@ Whate'er I eat I turn to strength, and thus I grasp the Thunder- bolt, Rending t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/02_yatpibAmi_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्पिबा॑मि॒ सं पि॑बामि समु॒द्र इ॑व संपि॒बः।  
-प्रा॒णान॒मुष्य॑ सं॒पाय॒ सं पि॑बामो अ॒मुं व॒यम् ॥
+य᳓त्पि᳓बामि सं᳓ पिबामि समुद्र᳓ इव संपिबः᳓।  
+प्राणा᳓नमु᳓ष्य संपा᳓य सं᳓ पिबामो अमुं᳓ वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/135_balaprAptiH/02_yatpibAmi_sam.md">
@@ -161,8 +161,8 @@ I drink together what I drink, even as the sea that swallows all. Drinking the l
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/03_yadgirAmi_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्गिरा॑मि॒ सं गिरा॑मि समु॒द्र इ॑व संगि॒रः।  
-प्रा॒णान॒मुष्य॑ सं॒गीर्य॒ सं गि॑रामो अ॒मुं व॒यम् ॥
+य᳓द्गि᳓रामि सं᳓ गि᳓रामि समुद्र᳓ इव संगिरः᳓।  
+प्राणा᳓नमु᳓ष्य संगी᳓र्य सं᳓ गिरामो अमुं᳓ वय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/135_balaprAptiH/03_yadgirAmi_sam.md">

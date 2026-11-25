@@ -33,8 +33,8 @@ Translated: Ludwig, p. 463; Zimmer, p. 237; Grill, 66, 177; Griffith, i. 324; Bl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/01_uchChrayasva_bahurbhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उच्छ्र॑यस्व ब॒हुर्भ॑व॒ स्वेन॒ मह॑सा यव।  
-मृ॑णी॒हि विश्वा॒ पात्रा॑णि॒ मा त्वा॑ दि॒व्याशनि॑र्वधीत् ॥
+उ᳓च्छ्रयस्व बहु᳓र्भव स्वे᳓न म᳓हसा यव।  
+मृ᳙णीहि᳓ वि᳓श्वा पा᳓त्राणि मा᳓ त्वा दिव्या᳓श᳓निर्वधीत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/142_annasamRddhiH/01_uchChrayasva_bahurbhava.md">
@@ -100,8 +100,8 @@ Spring high, O Barley, and become much through thine own magnificence: Burst all
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/02_AshRNvantaM_yavam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॑शृ॒ण्वन्तं॒ यवं॑ दे॒वं यत्र॑ त्वाच्छा॒वदा॑मसि।  
-तदुच्छ्र॑यस्व॒ द्यौरि॑व समु॒द्र इ॑वै॒ध्यक्षि॑तः ॥
+आ᳙शृण्व᳓न्तं य᳓वं देवं᳓ य᳓त्र त्वाच्छाव᳓दामसि।  
+त᳓दु᳓च्छ्रयस्व द्यौ᳓रिव समुद्र᳓ इवैध्य᳓क्षितः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/142_annasamRddhiH/02_AshRNvantaM_yavam.md">
@@ -162,8 +162,8 @@ As we invite and call to thee, Barley, a God who heareth us, Raise thyself up li
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/03_axitAsta_upasado-xitAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अक्षि॑तास्त उप॒सदोऽक्षि॑ताः सन्तु रा॒शयः॑।  
-पृ॒णन्तो॒ अक्षि॑ताः सन्त्व॒त्तारः॑ स॒न्त्वक्षि॑ताः ॥
+अ᳓क्षितास्त उपस᳓दो᳓ऽक्षिताः सन्तु राश᳓यः।  
+पृण᳓न्तो अ᳓क्षिताः सन्त्वत्ता᳓रः सन्त्व᳓क्षिताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/142_annasamRddhiH/03_axitAsta_upasado-xitAH.md">

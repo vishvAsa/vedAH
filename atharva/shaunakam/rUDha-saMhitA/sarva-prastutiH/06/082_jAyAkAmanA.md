@@ -37,8 +37,8 @@ A charm to win a bride
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/01_AgachChata_Agatasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒गच्छ॑त॒ आग॑तस्य॒ नाम॑ गृह्णाम्याय॒तः।  
-इन्द्र॑स्य वृत्र॒घ्नो व॑न्वे वास॒वस्य॑ श॒तक्र॑तोः ॥
+आग᳓च्छत आ᳓गतस्य ना᳓म गृह्णाम्यायतः᳓।  
+इ᳓न्द्रस्य वृत्रघ्नो᳓ वन्वे वासव᳓स्य शत᳓क्रतोः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/082_jAyAkAmanA/01_AgachChata_Agatasya.md">
@@ -106,8 +106,8 @@ I call the name of him who comes, hath come, and still draws- nigh to us. Foe-sl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/02_yena_sUryAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ सू॒र्यां सा॑वि॒त्रीम॒श्विनो॒हतुः॑ प॒था।  
-तेन॒ माम॑ब्रवी॒द्भगो॑ जा॒यामा व॑हता॒दिति॑ ॥
+ये᳓न सूर्यां᳓ सावित्री᳓मश्वि᳓नोह᳓तुः पथा᳓।  
+ते᳓न मा᳓मब्रवीद्भ᳓गो जाया᳓मा᳓ वहतादि᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/082_jAyAkAmanA/02_yena_sUryAm.md">
@@ -170,8 +170,8 @@ Thus Bhaga spake to me: Let him bring thee a consort by the path. Whereon the As
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/03_yaste-nkusho_vasudAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॑ऽङ्कु॒शो व॑सु॒दानो॑ बृ॒हन्नि॑न्द्र हिर॒ण्ययः॑।  
-तेना॑ जनीय॒ते जा॒यां मह्यं॑ धेहि शचीपते ॥
+य᳓स्तेऽङ्कुशो᳓ वसुदा᳓नो बृह᳓न्निन्द्र हिरण्य᳓यः।  
+ते᳓ना जनीयते᳓ जायां᳓ म᳓ह्यं धेहि शचीपते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/082_jAyAkAmanA/03_yaste-nkusho_vasudAno.md">

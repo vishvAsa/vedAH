@@ -37,8 +37,8 @@ A hymn to the New Moon
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/01_pUrvAparaM_charato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पू॑र्वाप॒रं च॑रतो मा॒ययै॒तौ शिशू॒ क्रीड॑न्तौ॒ परि॑ यातोऽर्ण॒वम्।  
-विश्वा॒न्यो भुव॑ना वि॒चष्ट॑ ऋ॒तूँर॒न्यो वि॒दध॑ज्जायसे॒ नवः॑ ॥
+पू᳙र्वापरं᳓ चरतो माय᳓यैतौ᳓ शि᳓शू क्री᳓डन्तौ प᳓रि यातोऽर्णव᳓म्।  
+वि᳓श्वान्यो᳓ भु᳓वना विच᳓ष्ट ऋतूँ᳓रन्यो᳓ विद᳓धज्जायसे न᳓वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/01_pUrvAparaM_charato.md">
@@ -116,8 +116,8 @@ Forward and backward by their wondrous power move these two youths, disporting, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/02_navonavo_bhavasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नवो॑नवो भवसि॒ जाय॑मा॒नोऽह्नां॑ के॒तुरु॒षसा॑मे॒ष्यग्र॑म्।  
-भा॒गं दे॒वेभ्यो॒ वि द॑धास्या॒यन्प्र च॑न्द्रमस्तिरसे दी॒र्घमायुः॑ ॥
+न᳓वोनवो भवसि जा᳓यमानो᳓ऽह्नां केतु᳓रुष᳓सामेष्य᳓ग्रम्।  
+भागं᳓ देवे᳓भ्यो वि᳓ दधास्याय᳓न्प्र᳓ चन्द्रमस्तिरसे दीर्घ᳓मा᳓युः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/02_navonavo_bhavasi.md">
@@ -184,8 +184,8 @@ Thou art re-born for ever new: thou marchest, ensign of days, in forefront of th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/03_somasyAMsho_yudhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोम॑स्यांशो युधां प॒तेऽनू॑नो॒ नाम॒ वा अ॑सि।  
-अनू॑नं दर्श मा कृधि प्र॒जया॑ च॒ धने॑न च ॥
+सो᳓मस्यांशो युधां पते᳓ऽनूनो ना᳓म वा᳓ असि।  
+अ᳓नूनं दर्श मा कृधि प्रज᳓या च ध᳓नेन च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/03_somasyAMsho_yudhAm.md">
@@ -254,8 +254,8 @@ O spray of Soma, Lord of Wars! all-perfect verily art thou. Make me all-perfect,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/04_darshosi_darshatosi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द॒र्शो᳡सि॑ दर्श॒तो᳡सि॒ सम॑ग्रोऽसि॒ सम॑न्तः।  
-सम॑ग्रः॒ सम॑न्तो भूयासं॒ गोभि॒रश्वैः॑ प्र॒जया॑ प॒शुभि॑र्गृ॒हैर्धने॑न ॥
+दर्शो᳙सि दर्शतो᳙सि स᳓मग्रोऽसि स᳓मन्तः।  
+स᳓मग्रः स᳓मन्तो भूयासं गो᳓भिर᳓श्वैः प्रज᳓या पशु᳓भिर्गृहै᳓र्ध᳓नेन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/04_darshosi_darshatosi.md">
@@ -318,8 +318,8 @@ Thou art the New Moon, fair to see, thou art complete in every part. May I be pe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/05_yo3-smAndveShTi_yam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो॑३ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तस्य॒ त्वं प्रा॒णेना प्या॑यस्व।  
-आ व॒यं प्या॑सिषीमहि॒ गोभि॒रश्वैः॑ प्र॒जया॑ प॒शुभि॑र्गृ॒हैर्धने॑न ॥
+यो᳙ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्त᳓स्य त्वं᳓ प्राणे᳓ना᳓ प्यायस्व।  
+आ᳓ वयं᳓ प्यासिषीमहि गो᳓भिर᳓श्वैः प्रज᳓या पशु᳓भिर्गृहै᳓र्ध᳓नेन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/05_yo3-smAndveShTi_yam.md">
@@ -388,8 +388,8 @@ Inflate thee with his vital breath who hathes us and whom we detest. May we grow
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/06_yaM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं दे॒वा अं॒शुमा॑प्या॒यय॑न्ति॒ यमक्षि॑त॒मक्षि॑ता भ॒क्षय॑न्ति।  
-तेना॒स्मानिन्द्रो॒ वरु॑णो॒ बृह॒स्पति॒रा प्या॑ययन्तु॒ भुव॑नस्य गो॒पाः ॥
+यं᳓ देवा᳓ अंशु᳓माप्याय᳓यन्ति य᳓म᳓क्षितम᳓क्षिता भक्ष᳓यन्ति।  
+ते᳓नास्मा᳓नि᳓न्द्रो व᳓रुणो बृ᳓हस्प᳓तिरा᳓ प्याययन्तु भु᳓वनस्य गोपाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/06_yaM_devA.md">

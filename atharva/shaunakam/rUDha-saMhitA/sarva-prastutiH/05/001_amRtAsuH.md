@@ -40,8 +40,8 @@ A glorification of Trita and Varuna
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/001_amRtAsuH/01_Rdha~Nmantro_yonim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋध॑ङ्मन्त्रो॒ योनिं॒ य आ॑ब॒भूव॒मृता॑सु॒र्वर्ध॑मानः सु॒जन्मा॑।  
-अद॑ब्धासु॒र्भ्राज॑मा॒नोऽहे॑व त्रि॒तो ध॒र्ता दा॑धार॒ त्रीणि॑ ॥
+ऋ᳓धङ्मन्त्रो यो᳓निं य᳓ आबभू᳓वमृ᳓तासुर्व᳓र्धमानः सुज᳓न्मा।  
+अ᳓दब्धासुर्भ्रा᳓जमानो᳓ऽहेव त्रितो᳓ धर्ता᳓ दाधार त्री᳓णि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/001_amRtAsuH/01_Rdha~Nmantro_yonim.md">
@@ -109,8 +109,8 @@ He who with special plans and deathless spirit, waxing, well- born, hath come un
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/001_amRtAsuH/02_A_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ यो धर्मा॑णि प्रथ॒मः स॒साद॒ ततो॒ वपूं॑षि कृणुषे पु॒रूणि॑।  
-धा॒स्युर्योनिं॑ प्रथ॒म आ वि॑वे॒शा यो वाच॒मनु॑दितां चि॒केत॑ ॥
+आ᳓ यो᳓ ध᳓र्माणि प्रथमः᳓ ससा᳓द त᳓तो व᳓पूंषि कृणुषे पुरू᳓णि।  
+धास्यु᳓र्यो᳓निं प्रथम᳓ आ᳓ विवेशा᳓ यो᳓ वा᳓चम᳓नुदितां चिके᳓त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/001_amRtAsuH/02_A_yo.md">
@@ -174,8 +174,8 @@ He who, the first, approached the holy statutes makes, after, many beauteous for
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/001_amRtAsuH/03_yaste_shokAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॒ शोका॑य त॒न्वं॑ रि॒रेच॒ क्षर॒द्धिर॑ण्यं॒ शुच॒योऽनु॒ स्वाः।  
-अत्रा॑ दधेते अ॒मृता॑नि॒ नामा॒स्मे वस्त्रा॑णि॒ विश॒ एर॑यन्ताम् ॥
+य᳓स्ते शो᳓काय तन्वं᳙ रिरे᳓च क्ष᳓रद्धि᳓रण्यं शु᳓चयो᳓ऽनु स्वाः᳓।  
+अ᳓त्रा दधेते अमृ᳓तानि ना᳓मास्मे᳓ व᳓स्त्राणि वि᳓श ए᳓रयन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/001_amRtAsuH/03_yaste_shokAya.md">
@@ -245,8 +245,8 @@ He who--the fluid gold, with radiant kinsmen--to fervent glow delivered up thy b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/001_amRtAsuH/04_pra_yadete.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र यदे॒ते प्र॑त॒रं पू॒र्व्यं गुः सदः॑सद आ॒तिष्ठ॑न्तो अजु॒र्यम्।  
-क॒विः शु॒षस्य॑ मा॒तरा॑ रिहा॒णे जा॒म्यै धुर्यं॒ पति॑मेरयेथाम् ॥
+प्र᳓ य᳓देते᳓ प्रतरं᳓ पूर्व्यं᳓ गुः᳓ स᳓दःसद आति᳓ष्ठन्तो अजुर्य᳓म्।  
+कविः᳓ शुष᳓स्य मात᳓रा रिहाणे᳓ जाम्यै᳓ धु᳓र्यं प᳓तिमेरयेथाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/001_amRtAsuH/04_pra_yadete.md">
@@ -310,8 +310,8 @@ As these have gone to their primeval station, each gaining an imperishable dwell
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/001_amRtAsuH/05_tadU_Shu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तदू॒ षु ते॑ म॒हत्पृ॑थुज्म॒न्नमः॑ क॒विः काव्ये॑ना कृणोमि।  
-यत्स॒म्यञ्चा॑वभि॒यन्ता॑व॒भि क्षामत्रा॑ म॒ही रोध॑चक्रे वावृ॒धेते॑ ॥
+त᳓दू षु᳓ ते मह᳓त्पृथुज्मन्न᳓मः कविः᳓ का᳓व्येना कृणोमि।  
+य᳓त्सम्य᳓ञ्चावभिय᳓न्तावभि᳓ क्षा᳓म᳓त्रा मही᳓ रो᳓धचक्रे वावृधे᳓ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/001_amRtAsuH/05_tadU_Shu.md">
@@ -380,8 +380,8 @@ By holy wisdom I a sage, Far-Strider! offer to thee this lofty adoration. This w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/001_amRtAsuH/06_sapta_maryAdAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प्त म॒र्यादाः॑ क॒वय॑स्ततक्षु॒स्तासा॒मिदेका॑म॒भ्यं॑हु॒रो गा॑त्।  
-आ॒योर्ह॑ स्क॒म्भ उ॑प॒मस्य॑ नी॒डे प॒थां वि॑स॒र्गे ध॒रुणे॑षु तस्थौ ॥
+सप्त᳓ मर्या᳓दाः कव᳓यस्ततक्षुस्ता᳓सामि᳓दे᳓कामभ्यं᳙हुरो᳓ गात्।  
+आयो᳓र्ह स्कम्भ᳓ उपम᳓स्य नीडे᳓ पथां᳓ विसर्गे᳓ धरु᳓णेषु तस्थौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/001_amRtAsuH/06_sapta_maryAdAH.md">
@@ -458,8 +458,8 @@ Seven are the pathways which the wise have fashioned: to one of these may come t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/001_amRtAsuH/07_utAmRtAsurvrata_emi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒तामृता॑सु॒र्व्रत॑ एमि कृ॒ण्वन्नसु॑रा॒त्मा त॒न्व१॒॑स्तत्सु॒मद्गुः॑।  
-उ॒त वा॑ श॒क्रो रत्नं॒ दधा॑त्यू॒र्जया॑ वा॒ यत्सच॑ते हवि॒र्दाः ॥
+उता᳓मृ᳓तासुर्व्र᳓त एमि कृण्व᳓न्न᳓सुरात्मा᳓ तन्व᳙स्त᳓त्सुम᳓द्गुः।  
+उत᳓ वा शक्रो᳓ र᳓त्नं द᳓धात्यूर्ज᳓या वा य᳓त्स᳓चते हविर्दाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/001_amRtAsuH/07_utAmRtAsurvrata_emi.md">
@@ -529,8 +529,8 @@ Working, I go my way with deathless spirit: life, spirit, bodies have gone gladl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/001_amRtAsuH/08_uta_putraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒त पु॒त्रः पि॒तरं॑ क्ष॒त्रमी॑डे ज्ये॒ष्ठं म॒र्याद॑मह्वयन्त्स्व॒स्तये॑।  
-दर्श॒न्नु ता व॑रुण॒ यास्ते॑ वि॒ष्ठा आ॒वर्व्र॑ततः कृणवो॒ वपूं॑षि ॥
+उत᳓ पुत्रः᳓ पित᳓रं क्षत्र᳓मीडे ज्येष्ठं᳓ मर्या᳓दमह्वयन्त्स्वस्त᳓ये।  
+द᳓र्शन्नु᳓ ता᳓ वरुण या᳓स्ते विष्ठा᳓ आव᳓र्व्रततः कृणवो व᳓पूंषि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/001_amRtAsuH/08_uta_putraH.md">
@@ -601,9 +601,9 @@ Yea, the son asks dominion of his father: this they declared the noblest path to
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/001_amRtAsuH/09_ardhamardhena_payasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒र्धम॒र्धेन॒ पय॑सा पृणक्ष्य॒र्धेन॑ शुष्म वर्धसे अमुर।  
-अविं॑ वृधाम श॒ग्मियं॒ सखा॑यं॒ वरु॑णं पु॒त्रमदि॑त्या इषि॒रम्।  
-क॑विश॒स्तान्य॑स्मै॒ वपूं॑ष्यवोचाम॒ रोद॑सी सत्य॒वाचा॑ ॥
+अर्ध᳓मर्धे᳓न प᳓यसा पृणक्ष्यर्धे᳓न शुष्म वर्धसे अमुर।  
+अ᳓विं वृधाम शग्मि᳓यं स᳓खायं व᳓रुणं पुत्र᳓म᳓दित्या इषिर᳓म्।  
+क᳙विशस्ता᳓न्यस्मै व᳓पूंष्यवोचाम रो᳓दसी सत्यवा᳓चा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/001_amRtAsuH/09_ardhamardhena_payasA.md">

@@ -36,7 +36,7 @@ Vratya
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/01_tasyavrAtyasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्य॒व्रात्य॑स्य ॥
+त᳓स्यव्रा᳓त्यस्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/01_tasyavrAtyasya.md">
@@ -94,7 +94,7 @@ Of that Vratya.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/02_yadasyadaxiNamaxyasau_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॑स्य॒दक्षि॑ण॒मक्ष्य॒सौ स आ॑दि॒त्यो यद॑स्य स॒व्यमक्ष्य॒सौ स च॒न्द्रमाः॑ ॥
+य᳓दस्यद᳓क्षिणम᳓क्ष्यसौ᳓ स᳓ आदित्यो᳓ य᳓दस्य सव्य᳓म᳓क्ष्यसौ᳓ स᳓ चन्द्र᳓माः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/02_yadasyadaxiNamaxyasau_sa.md">
@@ -153,7 +153,7 @@ The right eye is the Sun and the left eye is the Moon.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/03_yo-syadaxiNaH_karNo-yam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो᳡ऽस्य॒दक्षि॑णः॒ कर्णो॒ऽयं सो अ॒ग्निर्यो᳡ऽस्य॑ स॒व्यः कर्णो॒ऽयं स पव॑मानः ॥
+यो᳙ऽस्यद᳓क्षिणः क᳓र्णोऽयं᳓ सो᳓ अग्नि᳓र्यो᳙ऽस्य सव्यः᳓ क᳓र्णोऽयं᳓ स᳓ प᳓वमानः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/03_yo-syadaxiNaH_karNo-yam.md">
@@ -212,7 +212,7 @@ His right ear is Agni and his left ear is Pavamana.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/04_ahorAtrenAsike_ditishchAditishcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑होरा॒त्रेनासि॑के॒ दिति॒श्चादि॑तिश्च शीर्षकपा॒ले सं॑वत्स॒रः शिरः॑ ॥
+अ᳙होरात्रे᳓ना᳓सिके दि᳓तिश्चा᳓दितिश्च शीर्षकपाले᳓ संवत्सरः᳓ शि᳓रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/04_ahorAtrenAsike_ditishchAditishcha.md">
@@ -271,7 +271,7 @@ Day and Night are his nostrils. Diti and Aditi are his head and skull.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/05_ahnApratya~NvrAtyo_rAtryA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अह्ना॑प्र॒त्यङ्व्रात्यो॒ रात्र्या॒ प्राङ्नमो॒ व्रात्या॑य ॥
+अ᳓ह्नाप्रत्य᳓ङ्व्रा᳓त्यो रा᳓त्र्या प्रा᳓ङ्न᳓मो व्रा᳓त्याय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/05_ahnApratya~NvrAtyo_rAtryA.md">

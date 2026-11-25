@@ -37,8 +37,8 @@ A charm to ensure success in gambling
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/01_divyo_gandharvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒व्यो ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्यो॑ वि॒क्ष्वीड्यः॑।  
-तं त्वा॑ यौमि॒ ब्रह्म॑णा दिव्य देव॒ नम॑स्ते अस्तु दि॒वि ते॑ स॒धस्थ॑म् ॥
+दिव्यो᳓ गन्धर्वो᳓ भु᳓वनस्य य᳓स्प᳓तिरे᳓क एव᳓ नमस्यो᳙ विक्ष्वी᳓ड्यः।  
+तं᳓ त्वा यौमि ब्र᳓ह्मणा दिव्य देव न᳓मस्ते अस्तु दिवि᳓ ते सध᳓स्थम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/01_divyo_gandharvo.md">
@@ -104,8 +104,8 @@ Lord of the World, divine Gandharva, only he should be honoured in the Tribes an
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/02_divi_spRShTo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वि स्पृ॒ष्टो य॑ज॒तः सूर्य॑त्वगवया॒ता हर॑सो॒ दैव्य॑स्य।  
-मृ॒डाद्ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्यः॑ सु॒शेवाः॑ ॥
+दिवि᳓ स्पृष्टो᳓ यजतः᳓ सू᳓र्यत्वगवयाता᳓ ह᳓रसो दै᳓व्यस्य।  
+मृडा᳓द्गन्धर्वो᳓ भु᳓वनस्य य᳓स्प᳓तिरे᳓क एव᳓ नमस्यः᳙ सुशे᳓वाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/02_divi_spRShTo.md">
@@ -177,8 +177,8 @@ Sky-reaching, like the Sun in brightness, holy, he who averts from us the Gods' 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/03_anavadyAbhiH_samu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑नव॒द्याभिः॒ समु॑ जग्म आभिरप्स॒रास्वपि॑ गन्ध॒र्व आ॑सीत्।  
-स॑मु॒द्र आ॑सां॒ सद॑नं म आहु॒र्यतः॑ स॒द्य आ च॒ परा॑ च॒ यन्ति॑ ॥
+अ᳙नवद्या᳓भिः स᳓मु जग्म आभिरप्सरा᳓स्व᳓पि गन्धर्व᳓ आसीत्।  
+स᳙मुद्र᳓ आसां स᳓दनं म आहुर्य᳓तः सद्य᳓ आ᳓ च प᳓रा च य᳓न्ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/03_anavadyAbhiH_samu.md">
@@ -244,8 +244,8 @@ I came, I met these faultless, blameless beings: among the Apsarases was the Gan
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/04_abhriye_didyunnaxatriye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अभ्रि॑ये॒ दिद्यु॒न्नक्ष॑त्रिये॒ या वि॒श्वाव॑सुं गन्ध॒र्वं सच॑ध्वे।  
-ताभ्यो॑ वो देवी॒र्नम॒ इत्कृ॑णोमि ॥
+अ᳓भ्रिये दि᳓द्युन्न᳓क्षत्रिये या᳓ विश्वा᳓वसुं गन्धर्वं᳓ स᳓चध्वे।  
+ता᳓भ्यो वो देवीर्न᳓म इ᳓त्कृणोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/04_abhriye_didyunnaxatriye.md">
@@ -310,8 +310,8 @@ Thou, Cloudy! ye who follow the Gandharva Visva-vasu, ye, Starry! Lightning-Flas
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/05_yAH_klandAstamiShIchayo-xakAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याः क्ल॒न्दास्तमि॑षीचयो॒ऽक्षका॑मा मनो॒मुहः॑।  
-ताभ्यो॑ गन्ध॒र्वभ्यो॑ ऽप्स॒राभ्यो॑ऽकरं॒ नमः॑ ॥
+याः᳓ क्लन्दा᳓स्त᳓मिषीचयोऽक्ष᳓कामा मनोमु᳓हः।  
+ता᳓भ्यो गन्धर्व᳓भ्यो ऽप्सरा᳓भ्योऽकरं न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/05_yAH_klandAstamiShIchayo-xakAmA.md">

@@ -41,8 +41,8 @@ Prayer and praise to Bhava, Sarva and Rudra
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/01_bhavAsharvau_mRDatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भवा॑शर्वौ मृ॒डतं॒ माभि या॑तं॒ भूत॑पती॒ पशु॑पती॒ नमो॑ वाम्।  
-प्रति॑हिता॒माय॑तां॒ मा वि स्रा॑ष्टं॒ मा नो॑ हिंसिष्टं द्वि॒पदो॒ मा चतु॑ष्पदः ॥
+भ᳓वाशर्वौ मृड᳓तं मा᳓भि᳓ यातं भू᳓तपती प᳓शुपती न᳓मो वाम्।  
+प्र᳓तिहितामा᳓यतां मा᳓ वि᳓ स्राष्टं मा᳓ नो हिंसिष्टं द्विप᳓दो मा᳓ च᳓तुष्पदः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/01_bhavAsharvau_mRDatam.md">
@@ -106,8 +106,8 @@ Bhava and Sarva, spare us, be not hostile. Homage to you, twin Lords of beasts a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/02_shune_kroShTre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शुने॑ क्रो॒ष्ट्रे मा शरी॑राणि॒ कर्त॑म॒लिक्ल॑वेभ्यो॒ गृध्रे॑भ्यो॒ ये च॑ कृ॒ष्णा अ॑वि॒ष्यवः॑।  
-मक्षि॑कास्ते पशुपते॒ वयां॑सि ते विघ॒से मा वि॑दन्त ॥
+शु᳓ने क्रोष्ट्रे᳓ मा᳓ श᳓रीराणि क᳓र्तमलि᳓क्लवेभ्यो गृ᳓ध्रेभ्यो ये᳓ च कृष्णा᳓ अविष्य᳓वः।  
+म᳓क्षिकास्ते पशुपते व᳓यांसि ते विघसे᳓ मा᳓ विदन्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/02_shune_kroShTre.md">
@@ -179,8 +179,8 @@ Cast not our bodies to the dog or jackal, nor, Lord of Beasts! to carrion-kites 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/03_krandAya_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्रन्दा॑य ते प्रा॒णाय॒ याश्च॑ ते भव॒ रोप॑यः।  
-नम॑स्ते रुद्र कृण्मः सहस्रा॒क्षाया॑मर्त्य ॥
+क्र᳓न्दाय ते प्राणा᳓य या᳓श्च ते भव रो᳓पयः।  
+न᳓मस्ते रुद्र कृण्मः सहस्राक्षा᳓यामर्त्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/03_krandAya_te.md">
@@ -249,8 +249,8 @@ We offer homage to thy shout, Bhava! thy breath, thy racking pains: Homage, Immo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/04_purastAtte_namaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पु॒रस्ता॑त्ते॒ नमः॑ कृण्म उत्त॒राद॑ध॒रादु॒त।  
-अ॑भीव॒र्गाद्दि॒वस्पर्य॒न्तरि॑क्षाय ते॒ नमः॑ ॥
+पुर᳓स्तात्ते न᳓मः कृण्म उत्तरा᳓दधरा᳓दुत᳓।  
+अ᳙भीवर्गा᳓द्दिव᳓स्प᳓र्यन्त᳓रिक्षाय ते न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/04_purastAtte_namaH.md">
@@ -312,8 +312,8 @@ We offer reverence to thee from eastward, and from north and south, From all the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/05_mukhAya_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मुखा॑य ते पशुपते॒ यानि॒ चक्षूं॑षि ते भव।  
-त्व॒चे रू॒पाय॑ सं॒दृशे॑ प्रती॒चीना॑य ते॒ नमः॑ ॥
+मु᳓खाय ते पशुपते या᳓नि च᳓क्षूंषि ते भव।  
+त्वचे᳓ रूपा᳓य संदृ᳓शे प्रतीची᳓नाय ते न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/05_mukhAya_te.md">
@@ -375,8 +375,8 @@ Homage, O Bhava, Lord of Beasts, unto thy face and all thine eyes, To skin, and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/06_angebhyasta_udarAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अङ्गे॑भ्यस्त उ॒दरा॑य जि॒ह्वाया॑ आ॒स्या᳡य ते।  
-द॒द्भ्यो ग॒न्धाय॑ ते॒ नमः॑ ॥
+अ᳓ङ्गेभ्यस्त उद᳓राय जिह्वा᳓या आस्या᳙य ते।  
+दद्भ्यो᳓ गन्धा᳓य ते न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/06_angebhyasta_udarAya.md">
@@ -438,8 +438,8 @@ We offer homage to thy limbs, thy belly, and thy tongue, and mouth we offer homa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/07_astrA_nIlashikhaNDena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अस्त्रा॒ नील॑शिखण्डेन सहस्रा॒क्षेण॑ वा॒जिना॑।  
-रु॒द्रेणा॑र्धकघा॒तिना॒ तेन॒ मा सम॑रामहि ॥
+अ᳓स्त्रा नी᳓लशिखण्डेन सहस्राक्षे᳓ण वाजि᳓ना।  
+रुद्रे᳓णार्धकघाति᳓ना ते᳓न मा᳓ स᳓मरामहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/07_astrA_nIlashikhaNDena.md">
@@ -507,8 +507,8 @@ Never may we contend with him, the mighty archer, thousand- eyed. Rudra who wear
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/08_sa_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स नो॑ भ॒वः परि॑ वृणक्तु वि॒श्वत॒ आप॑ इवा॒ग्निः परि॑ वृणक्तु नो भ॒वः।  
-मा नो॒ऽभि मां॑स्त॒ नमो॑ अस्त्वस्मै ॥
+स᳓ नो भवः᳓ प᳓रि वृणक्तु विश्व᳓त आ᳓प इवाग्निः᳓ प᳓रि वृणक्तु नो भवः᳓।  
+मा᳓ नोऽभि᳓ मांस्त न᳓मो अस्त्वस्मै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/08_sa_no.md">
@@ -571,8 +571,8 @@ May he, may Bhava from all sides avoid us, avoid us even as fire avoids the wate
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/09_chaturnamo_aShTakRtvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-च॒तुर्नमो॑ अष्ट॒कृत्वो॑ भ॒वाय॒ दश॒ कृत्वः॑ पशुपते॒ नम॑स्ते।  
-तवे॒मे पञ्च॑ प॒शवो॒ विभ॑क्ता॒ गावो॒ अश्वाः॒ पुरु॑षा अजा॒वयः॑ ॥
+चतु᳓र्न᳓मो अष्टकृ᳓त्वो भवा᳓य द᳓श कृ᳓त्वः पशुपते न᳓मस्ते।  
+त᳓वेमे᳓ प᳓ञ्च पश᳓वो वि᳓भक्ता गा᳓वो अ᳓श्वाः पु᳓रुषा अजाव᳓यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/09_chaturnamo_aShTakRtvo.md">
@@ -637,8 +637,8 @@ Four times, eight times be homage paid to Bhava, yea, Lord of Beasts, ten times 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/10_tava_chatasraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तव॒ चत॑स्रः प्र॒दिश॒स्तव॒ द्यौस्तव॑ पृथि॒वी तवे॒दमु॑ग्रो॒र्व१॒॑न्तरि॑क्षम्।  
-तवे॒दं सर्व॑मात्म॒न्वद्यत्प्रा॒णत्पृ॑थि॒वीमनु॑ ॥
+त᳓व च᳓तस्रः प्रदि᳓शस्त᳓व द्यौ᳓स्त᳓व पृथिवी᳓ त᳓वेद᳓मुग्रोर्व᳙न्त᳓रिक्षम्।  
+त᳓वेदं᳓ स᳓र्वमात्मन्व᳓द्य᳓त्प्राण᳓त्पृथिवी᳓म᳓नु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/10_tava_chatasraH.md">
@@ -701,8 +701,8 @@ Thine the four regions, thine are earth and heaven, thine, Mighty One, this firm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/11_uruH_kosho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒रुः कोशो॑ वसु॒धान॒स्तवा॒यं यस्मि॑न्नि॒मा विश्वा॒ भुव॑नान्य॒न्तः।  
-स नो॑ मृड पशुपते॒ नम॑स्ते प॒रः क्रो॒ष्टारो॑ अभि॒भाः श्वानः॑ प॒रो य॑न्त्वघ॒रुदो॑ विके॒श्यः᳡ ॥
+उरुः᳓ को᳓शो वसुधा᳓नस्त᳓वायं᳓ य᳓स्मिन्निमा᳓ वि᳓श्वा भु᳓वनान्यन्तः᳓।  
+स᳓ नो मृड पशुपते न᳓मस्ते परः᳓ क्रोष्टा᳓रो अभिभाः᳓ श्वा᳓नः परो᳓ यन्त्वघरु᳓दो विकेश्यः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/11_uruH_kosho.md">
@@ -770,8 +770,8 @@ Thine is this ample wealth-containing storehouse that holds with- in it all thes
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/12_dhanurbibharShi_haritam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धनु॑र्बिभर्षि॒ हरि॑तं हिर॒ण्ययं॑ सहस्र॒घ्नि श॒तव॑धं शिखण्डिन्।  
-रु॒द्रस्येषु॑श्चरति देवहे॒तिस्तस्यै॒ नमो॑ यत॒मस्यां॑ दि॒शी॒३॒॑तः ॥
+ध᳓नुर्बिभर्षि ह᳓रितं हिरण्य᳓यं सहस्रघ्नि᳓ शत᳓वधं शिखण्डिन्।  
+रुद्र᳓स्ये᳓षुश्चरति देवहेति᳓स्त᳓स्यै न᳓मो यतम᳓स्यां दिशी᳙तः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/12_dhanurbibharShi_haritam.md">
@@ -836,8 +836,8 @@ A yellow bow of gold thou wieldest, slaying its hundred, tufted God! smiting its
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/13_yobhiyAto_nilayate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो॒३॒॑भिया॑तो नि॒लय॑ते॒ त्वां रु॑द्र नि॒चिकी॑र्षति।  
-प॒श्चाद॑नु॒प्रयु॑ङ्क्षे॒ तं वि॒द्धस्य॑ पद॒नीरि॑व ॥
+यो᳙भि᳓यातो निल᳓यते त्वां᳓ रुद्र निचि᳓कीर्षति।  
+पश्चा᳓दनुप्र᳓युङ्क्षे तं᳓ विद्ध᳓स्य पदनी᳓रिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/13_yobhiyAto_nilayate.md">
@@ -903,8 +903,8 @@ Thou, Rudra, followest close the foe who lies in wait to conquer thee. Even as a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/14_bhavArudrau_sayujA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॑वारु॒द्रौ स॒युजा॑ संविदा॒नावु॒भावु॒ग्रौ च॑रतो वी॒र्या᳡य।  
-ताभ्यां॒ नमो॑ यत॒मस्यां॑ दि॒शी॒३॒॑तः ॥
+भ᳙वारुद्रौ᳓ सयु᳓जा संविदाना᳓वुभा᳓वुग्रौ᳓ चरतो वीर्या᳙य।  
+ता᳓भ्यां न᳓मो यतम᳓स्यां दिशी᳙तः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/14_bhavArudrau_sayujA.md">
@@ -968,8 +968,8 @@ Accordant and allies, Bhava and Rudra, with mighty strength ye go to deeds of va
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/15_namaste-stvAyate_namo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्तेऽस्त्वाय॒ते नमो॑ अस्तु पराय॒ते।  
-नम॑स्ते रुद्र॒ तिष्ठ॑त॒ आसी॑नायो॒त ते॒ नमः॑ ॥
+न᳓मस्तेऽस्त्वायते᳓ न᳓मो अस्तु परायते᳓।  
+न᳓मस्ते रुद्र ति᳓ष्ठत आ᳓सीनायोत᳓ ते न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/15_namaste-stvAyate_namo.md">
@@ -1033,8 +1033,8 @@ Be homage, Rudra, unto thee approaching and departing hence! Homage to thee when
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/16_namaH_sAyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नमः॑ सा॒यं नमः॑ प्रा॒तर्नमो॒ रात्र्या॒ नमो॒ दिवा॑।  
-भ॒वाय॑ च श॒र्वाय॑ चो॒भाभ्या॑मकरं॒ नमः॑ ॥
+न᳓मः सायं᳓ न᳓मः प्रात᳓र्न᳓मो रा᳓त्र्या न᳓मो दि᳓वा।  
+भवा᳓य च शर्वा᳓य चोभा᳓भ्यामकरं न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/16_namaH_sAyam.md">
@@ -1094,8 +1094,8 @@ Homage at evening and at morn, homage at night, homage by day . To Bhava and to 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/17_sahasrAxamatipashyaM_purastAdrudramasyantam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑हस्रा॒क्षम॑तिप॒श्यं पु॒रस्ता॑द्रु॒द्रमस्य॑न्तं बहु॒धा वि॑प॒श्चित॑म्।  
-मोपा॑राम जि॒ह्वयेय॑मानम् ॥
+स᳙हस्राक्ष᳓मतिपश्यं᳓ पुर᳓स्ताद्रुद्र᳓म᳓स्यन्तं बहुधा᳓ विपश्चि᳓तम्।  
+मो᳓पाराम जिह्व᳓ये᳓यमानम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/17_sahasrAxamatipashyaM_purastAdrudramasyantam.md">
@@ -1162,8 +1162,8 @@ Let us not outrage with our tongue far-seeing Rudra, thousand- eyed, Inspired wi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/18_shyAvAshvaM_kRShNamasitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्या॒वाश्वं॑ कृ॒ष्णमसि॑तं मृ॒णन्तं॑ भी॒मं रथं॑ के॒शिनः॑ पा॒दय॑न्तम्।  
-पूर्वे॒ प्रती॑मो॒ नमो॑ अस्त्वस्मै ॥
+श्यावा᳓श्वं कृष्ण᳓म᳓सितं मृण᳓न्तं भीमं᳓ र᳓थं केशि᳓नः पाद᳓यन्तम्।  
+पू᳓र्वे प्र᳓तीमो न᳓मो अस्त्वस्मै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/18_shyAvAshvaM_kRShNamasitam.md">
@@ -1216,8 +1216,8 @@ Foremost we go to meet his car, the chariot of the long-haired God, Drawn by bro
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/19_mA_no-bhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॒ऽभि स्रा॑ म॒त्यं᳡ देवहे॒तिं मा नः॑ क्रुधः पशुपते॒ नम॑स्ते।  
-अ॒न्यत्रा॒स्मद्दि॒व्यां शाखां॒ वि धू॑नु ॥
+मा᳓ नोऽभि᳓ स्रा मत्यं᳙ देवहेतिं᳓ मा᳓ नः क्रुधः पशुपते न᳓मस्ते।  
+अन्य᳓त्रास्म᳓द्दिव्यां᳓ शा᳓खां वि᳓ धूनु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/19_mA_no-bhi.md">
@@ -1283,8 +1283,8 @@ Cast not thy club at us, thy heavenly weapon. Lord of Beasts, be not wroth with 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/20_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॑ हिंसी॒रधि॑ नो ब्रूहि॒ परि॑ णो वृङ्ग्धि॒ मा क्रु॑धः।  
-मा त्वया॒ सम॑रामहि ॥
+मा᳓ नो हिंसीर᳓धि नो ब्रूहि प᳓रि णो वृङ्ग्धि मा᳓ क्रुधः।  
+मा᳓ त्व᳓या स᳓मरामहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/20_mA_no.md">
@@ -1346,8 +1346,8 @@ Do us no harm, but comfort us: avoid thou us, and be not wroth. Never let us con
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/21_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॒ गोषु॒ पुरु॑षेषु॒ मा गृ॑धो नो अजा॒विषु॑।  
-अ॒न्यत्रो॑ग्र॒ वि व॑र्तय॒ पिया॑रूणां प्र॒जां ज॑हि ॥
+मा᳓ नो गो᳓षु पु᳓रुषेषु मा᳓ गृधो नो अजावि᳓षु।  
+अन्य᳓त्रोग्र वि᳓ वर्तय पि᳓यारूणां प्रजां᳓ जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/21_mA_no.md">
@@ -1411,8 +1411,8 @@ Covet not thou our kine or men, covet not thou our goats or sheep. Elsewhither, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/22_yasya_takmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॑ त॒क्मा कासि॑का हे॒तिरेक॒मश्व॑स्येव॒ वृष॑णः॒ क्रन्द॒ एति॑।  
-अ॑भिपू॒र्वं नि॒र्णय॑ते॒ नमो॑ अस्त्वस्मै ॥
+य᳓स्य तक्मा᳓ का᳓सिका हेति᳓रे᳓कम᳓श्वस्येव वृ᳓षणः क्र᳓न्द ए᳓ति।  
+अ᳙भिपूर्वं᳓ निर्ण᳓यते न᳓मो अस्त्वस्मै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/22_yasya_takmA.md">
@@ -1477,8 +1477,8 @@ Homage to him whose weapon, Cough or Fever, assails one like the neighing of a s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/23_yontarixe_tiShThati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो॒३॒॑न्तरि॑क्षे॒ तिष्ठ॑ति॒ विष्ट॑भि॒तोऽय॑ज्वनः प्रमृ॒णन्दे॑वपी॒यून्।  
-तस्मै॒ नमो॑ द॒शभिः॒ शक्व॑रीभिः ॥
+यो᳙न्त᳓रिक्षे ति᳓ष्ठति वि᳓ष्टभितो᳓ऽयज्वनः प्रमृण᳓न्देवपीयू᳓न्।  
+त᳓स्मै न᳓मो दश᳓भिः श᳓क्वरीभिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/23_yontarixe_tiShThati.md">
@@ -1542,8 +1542,8 @@ Homage be paid him with ten Sakvari verses who stands established in the air's m
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/24_tubhyamAraNyAH_pashavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तुभ्य॑मार॒ण्याः प॒शवो॑ मृ॒गा वने॑ हि॒ता हं॒साः सु॑प॒र्णाः श॑कु॒ना वयां॑सि।  
-तव॑ य॒क्षं प॑शुपते अ॒प्स्व१॒॑न्तस्तुभ्यं॑ क्षरन्ति दि॒व्या आपो॑ वृ॒धे ॥
+तु᳓भ्यमारण्याः᳓ पश᳓वो मृगा᳓ व᳓ने हिता᳓ हंसाः᳓ सुपर्णाः᳓ शकुना᳓ व᳓यांसि।  
+त᳓व यक्षं᳓ पशुपते अप्स्व᳙न्त᳓स्तु᳓भ्यं क्षरन्ति दिव्या᳓ आ᳓पो वृधे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/24_tubhyamAraNyAH_pashavo.md">
@@ -1612,8 +1612,8 @@ For thee were forest beasts and sylvan creatures placed in the wood, and small b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/25_shiMshumArA_ajagarAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शिं॒शु॒मारा॑ अजग॒राः पु॑री॒कया॑ ज॒षा मत्स्या॑ रज॒सा येभ्यो॒ अस्य॑सि।  
-न ते॑ दू॒रं न प॑रि॒ष्ठास्ति॑ ते भव स॒द्यः सर्वा॒न्परि॑ पश्यसि॒ भूमिं॒ पूर्व॑स्माद्धं॒स्युत्त॑रस्मिन्समु॒द्रे ॥
+शिंशुमा᳓रा अजगराः᳓ पुरीक᳓या जषा᳓ म᳓त्स्या रजसा᳓ ये᳓भ्यो अ᳓स्यसि।  
+न᳓ ते दूरं᳓ न᳓ परिष्ठा᳓स्ति ते भव सद्यः᳓ स᳓र्वान्प᳓रि पश्यसि भू᳓मिं पू᳓र्वस्माद्धंस्यु᳓त्तरस्मिन्समुद्रे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/25_shiMshumArA_ajagarAH.md">
@@ -1691,8 +1691,8 @@ Porpoises, serpents, strange aquatic monsters, fishes, and things unclean at whi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/26_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॑ रुद्र त॒क्मना॒ मा वि॒षेण॒ मा नः॒ सं स्रा॑ दि॒व्येना॒ग्निना॑।  
-अ॒न्यत्रा॒स्मद्वि॒द्युतं॑ पातयै॒ताम् ॥
+मा᳓ नो रुद्र तक्म᳓ना मा᳓ विषे᳓ण मा᳓ नः सं᳓ स्रा दिव्ये᳓नाग्नि᳓ना।  
+अन्य᳓त्रास्म᳓द्विद्यु᳓तं पातयैता᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/26_mA_no.md">
@@ -1754,8 +1754,8 @@ O'erwhelm us not with Fever or with poison, nor, Rudra! with the fire that comes
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/27_bhavo_divo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॒वो दि॒वो भ॒व ई॑शे पृथि॒व्या भ॒व आ प॑प्र उ॒र्व१॒॑न्तरि॑क्षम्।  
-तस्मै॒ नमो॑ यत॒मस्यां॑ दि॒शी॒३॒॑तः ॥
+भवो᳓ दिवो᳓ भव᳓ ईशे पृथिव्या᳓ भव᳓ आ᳓ पप्र उर्व᳙न्त᳓रिक्षम्।  
+त᳓स्मै न᳓मो यतम᳓स्यां दिशी᳙तः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/27_bhavo_divo.md">
@@ -1822,8 +1822,8 @@ Ruler of heaven and Lord of earth is Bhava: Bhava hath filled the spacious air's
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/28_bhava_rAjanyajamAnAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भव॑ राज॒न्यज॑मानाय मृड पशू॒नां हि प॑शु॒पति॑र्ब॒भूथ॑।  
-यः श्र॒द्दधा॑ति॒ सन्ति॑ दे॒वा इति॒ चतु॑ष्पदे द्वि॒पदे॑ऽस्य मृड ॥
+भ᳓व राजन्य᳓जमानाय मृड पशूनां᳓ हि᳓ पशुप᳓तिर्बभू᳓थ।  
+यः᳓ श्रद्द᳓धाति स᳓न्ति देवा᳓ इ᳓ति च᳓तुष्पदे द्विप᳓देऽस्य मृड ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/28_bhava_rAjanyajamAnAya.md">
@@ -1884,8 +1884,8 @@ King Bhava, favour him who offers worship, for thou art Pasupati, Lord of victim
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/29_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॑ म॒हान्त॑मु॒त मा नो॑ अर्भ॒कं मा नो॒ वह॑न्तमु॒त मा नो॑ वक्ष्य॒तः।  
-मा नो॑ हिंसीः पि॒तरं॑ मा॒तरं॑ च॒ स्वां त॒न्वं᳡ रुद्र॒ मा री॑रिषो नः ॥
+मा᳓ नो महा᳓न्तमुत᳓ मा᳓ नो अर्भकं᳓ मा᳓ नो व᳓हन्तमुत᳓ मा᳓ नो वक्ष्यतः᳓।  
+मा᳓ नो हिंसीः पित᳓रं मात᳓रं च स्वां᳓ तन्वं᳙ रुद्र मा᳓ रीरिषो नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/29_mA_no.md">
@@ -1952,8 +1952,8 @@ Harm thou among us neither great nor little, not one who bears us, not our futur
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/30_rudrasyailabakArebhyo-saMsUktagilebhyaH_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रु॒द्रस्यै॑लबका॒रेभ्यो॑ऽसंसूक्तगि॒लेभ्यः॑।  
-इ॒दं म॒हास्ये॑भ्यः॒ श्वभ्यो॑ अकरं॒ नमः॑ ॥
+रुद्र᳓स्यैलबकारे᳓भ्योऽसंसूक्तगिले᳓भ्यः।  
+इदं᳓ महा᳓स्येभ्यः श्व᳓भ्यो अकरं न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/30_rudrasyailabakArebhyo-saMsUktagilebhyaH_idam.md">
@@ -2018,9 +2018,9 @@ This lowly reverence have I paid to Rudra's dogs with mighty mouths, Hounds terr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/002_rudraH/31_namaste_ghoShiNIbhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते घो॒षिणी॑भ्यो॒ नम॑स्ते के॒शिनी॑भ्यः।  
-नमो॒ नम॑स्कृताभ्यो॒ नमः॑ संभुञ्ज॒तीभ्यः॑।  
-नम॑स्ते देव॒ सेना॑भ्यः स्व॒स्ति नो॒ अभ॑यं च नः ॥
+न᳓मस्ते घोषि᳓णीभ्यो न᳓मस्ते केशि᳓नीभ्यः।  
+न᳓मो न᳓मस्कृताभ्यो न᳓मः संभुञ्जती᳓भ्यः।  
+न᳓मस्ते देव से᳓नाभ्यः स्वस्ति᳓ नो अ᳓भयं च नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/002_rudraH/31_namaste_ghoShiNIbhyo.md">

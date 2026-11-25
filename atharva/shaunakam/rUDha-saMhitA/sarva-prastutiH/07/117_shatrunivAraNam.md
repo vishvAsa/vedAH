@@ -33,8 +33,8 @@ Translated: Henry, 46, 125; Griffith, i. 384.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/117_shatrunivAraNam/01_A_mandrairindra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ म॒न्द्रैरि॑न्द्र॒ हरि॑भिर्या॒हि म॒यूर॑रोमभिः।  
-मा त्वा॒ के चि॒द्वि य॑म॒न्विं न पा॒शिनो॑ऽति॒ धन्वे॑व॒ ताँ इ॑हि ॥
+आ᳓ मन्द्रै᳓रिन्द्र ह᳓रिभिर्याहि᳓ मयू᳓ररोमभिः।  
+मा᳓ त्वा के᳓ चिद्वि᳓ यमन्विं᳓ न᳓ पाशि᳓नोऽति ध᳓न्वेव ताँ᳓ इहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/117_shatrunivAraNam/01_A_mandrairindra.md">

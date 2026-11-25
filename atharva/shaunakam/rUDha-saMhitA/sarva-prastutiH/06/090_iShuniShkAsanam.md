@@ -33,8 +33,8 @@ Translated: Grill, 14, 168; Griffith, i. 294; Bloomfield, 11, 506.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/01_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां ते॑ रु॒द्र इषु॒मास्य॒दङ्गे॑भ्यो॒ हृद॑याय च।  
-इ॒दं ताम॒द्य त्वद्व॒यं विषू॑चीं॒ वि वृ॑हामसि ॥
+यां᳓ ते रुद्र᳓ इ᳓षुमा᳓स्यद᳓ङ्गेभ्यो हृ᳓दयाय च।  
+इदं᳓ ता᳓मद्य᳓ त्व᳓द्वयं᳓ वि᳓षूचीं वि᳓ वृहामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/090_iShuniShkAsanam/01_yAM_te.md">
@@ -97,8 +97,8 @@ The shaft that Rudra hath shot forth against thy members and thy heart, Here do 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/02_yAste_shatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यास्ते॑ श॒तं ध॒मन॒योऽङ्गा॒न्यनु॒ विष्ठि॑ताः।  
-तासां॑ ते॒ सर्वा॑सां व॒यं निर्वि॒षाणि॑ ह्वयामसि ॥
+या᳓स्ते शतं᳓ धम᳓नयो᳓ऽङ्गान्य᳓नु वि᳓ष्ठिताः।  
+ता᳓सां ते स᳓र्वासां वयं᳓ नि᳓र्विषा᳓णि ह्वयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/090_iShuniShkAsanam/02_yAste_shatam.md">
@@ -161,8 +161,8 @@ From all the hundred vessels spread throughout the members of thy frame. From al
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/03_namaste_rudrAsyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते रु॒द्रास्य॑ते॒ नमः॒ प्रति॑हितायै।  
-नमो॑ विसृ॒ज्यमा॑नायै॒ नमो॒ निप॑तितायै ॥
+न᳓मस्ते रुद्रा᳓स्यते न᳓मः प्र᳓तिहितायै।  
+न᳓मो विसृज्य᳓मानायै न᳓मो नि᳓पतितायै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/090_iShuniShkAsanam/03_namaste_rudrAsyate.md">

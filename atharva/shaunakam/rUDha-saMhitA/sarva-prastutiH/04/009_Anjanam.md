@@ -33,8 +33,8 @@ A charm addressed to a precious ointment for safety and wealth
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/01_ehi_jIvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एहि॑ जी॒वं त्राय॑माणं॒ पर्व॑तस्या॒स्यक्ष्य॑म्।  
-विश्वे॑भिर्दे॒वैर्द॒त्तं प॑रि॒धिर्जीव॑नाय॒ कम् ॥
+ए᳓हि जीवं᳓ त्रा᳓यमाणं प᳓र्वतस्यास्य᳓क्ष्यम्।  
+वि᳓श्वेभिर्देवै᳓र्दत्तं᳓ परिधि᳓र्जी᳓वनाय क᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/01_ehi_jIvam.md">
@@ -110,8 +110,8 @@ Approach! thou art the mountain's eye, the living thing that saveth us; A gift b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/02_paripANaM_puruShANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॑रि॒पाणं॒ पुरु॑षाणां परि॒पाणं॒ गवा॑मसि।  
-अश्वा॑ना॒मर्व॑तां परि॒पाणा॑य तस्थिषे ॥
+प᳙रिपा᳓णं पु᳓रुषाणां परिपा᳓णं ग᳓वामसि।  
+अ᳓श्वानाम᳓र्वतां परिपा᳓णाय तस्थिषे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/02_paripANaM_puruShANAm.md">
@@ -175,8 +175,8 @@ Thou art the safeguard of the men, thou art the safeguard of the kine, Thou stan
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/03_utAsi_paripANam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒तासि॑ परि॒पाणं॑ यातु॒जम्भ॑नमाञ्जन।  
-उ॒तामृत॑स्य॒ त्वं वे॒त्थाथो॑ असि जीव॒भोज॑न॒मथो॑ हरितभेष॒जम् ॥
+उता᳓सि परिपा᳓णं यातुज᳓म्भनमाञ्जन।  
+उता᳓मृ᳓तस्य त्वं᳓ वेत्था᳓थो असि जीवभो᳓जनम᳓थो हरितभेषज᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/03_utAsi_paripANam.md">
@@ -245,8 +245,8 @@ Thou, also, Salve! art a defence that rends and crushes sorcerers. Thou knowest,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्या॑ञ्जन प्र॒सर्प॒स्यङ्ग॑मङ्गं॒ परु॑ष्परुः।  
-ततो॒ यक्ष्मं॒ वि बा॑धस उ॒ग्रो म॑ध्यम॒शीरि॑व ॥
+य᳓स्याञ्जन प्रस᳓र्पस्य᳓ङ्गमङ्गं प᳓रुष्परुः।  
+त᳓तो य᳓क्ष्मं वि᳓ बाधस उग्रो᳓ मध्यमशी᳓रिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangam.md">
@@ -328,8 +328,8 @@ Whomso thou creepest over, Salve! member by member, joint by joint, From him, li
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/05_nainaM_prApnoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नैनं॒ प्राप्नो॑ति श॒पथो॒ न कृ॒त्या नाभि॒शोच॑नम्।  
-नैनं॒ विष्क॑न्धमश्नुते॒ यस्त्वा॒ बिभ॑र्त्याञ्जन ॥
+नै᳓नं प्रा᳓प्नोति शप᳓थो न᳓ कृत्या᳓ ना᳓भिशो᳓चनम्।  
+नै᳓नं वि᳓ष्कन्धमश्नुते य᳓स्त्वा बि᳓भर्त्याञ्जन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/05_nainaM_prApnoti.md">
@@ -392,8 +392,8 @@ No imprecation reaches him, no magic, no tormenting fiend, O Salve, Vishkandha s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/06_asanmantrAdduShvapnyAdduShkRtAchChamalAduta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑सन्म॒न्त्राद्दु॒ष्वप्न्या॑द्दुष्कृ॒ताच्छम॑लादु॒त।  
-दु॒र्हार्द॒श्चक्षु॑षो घो॒रात्तस्मा॑न्नः पाह्याञ्जन ॥
+अ᳙सन्मन्त्रा᳓द्दुष्व᳓प्न्याद्दुष्कृता᳓च्छ᳓मलादुत᳓।  
+दुर्हा᳓र्दश्च᳓क्षुषो घोरा᳓त्त᳓स्मान्नः पाह्याञ्जन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/06_asanmantrAdduShvapnyAdduShkRtAchChamalAduta.md">
@@ -458,8 +458,8 @@ From lying speech, from evil dream, from wicked act and sinfulness, From hostile
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं वि॒द्वाना॑ञ्जन स॒त्यं व॑क्ष्यामि॒ नानृ॑तम्।  
-स॒नेय॒मश्वं॒ गाम॒हमा॒त्मानं॒ तव॑ पूरुष ॥
+इदं᳓ विद्वा᳓नाञ्जन सत्यं᳓ वक्ष्यामि ना᳓नृतम्।  
+सने᳓यम᳓श्वं गा᳓मह᳓मात्मा᳓नं त᳓व पूरुष ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
@@ -533,8 +533,8 @@ I, knowing this, O Salve, will speak the very truth and not a lie: May I obtain 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/08_trayo_dAsA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रयो॑ दा॒सा आञ्ज॑नस्य त॒क्मा ब॒लास॒ आदहिः॑।  
-वर्षि॑ष्ठः॒ पर्व॑तानां त्रिक॒कुन्नाम॑ ते पि॒ता ॥
+त्र᳓यो दासा᳓ आ᳓ञ्जनस्य तक्मा᳓ बला᳓स आ᳓द᳓हिः।  
+व᳓र्षिष्ठः प᳓र्वतानां त्रिककु᳓न्ना᳓म ते पिता᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/08_trayo_dAsA.md">
@@ -599,8 +599,8 @@ Three are the slaves that serve the Salve, Fever, Consumption, and the Snake. Th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/09_yadAnjanaM_traikakudam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदाञ्ज॑नं त्रैककु॒दं जा॒तं हि॒मव॑त॒स्परि॑।  
-या॒तूंश्च॒ सर्वा॑ञ्ज॒म्भय॒त्सर्वा॑श्च यातुधा॒न्यः॑ ॥
+य᳓दा᳓ञ्जनं त्रैककुदं᳓ जातं᳓ हिम᳓वतस्प᳓रि।  
+यातूं᳓श्च स᳓र्वाञ्जम्भ᳓यत्स᳓र्वाश्च यातुधान्यः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/09_yadAnjanaM_traikakudam.md">
@@ -677,8 +677,8 @@ Sprung from the Snowy Mountain's side, this Ointment of the Three-peaked hill. C
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/10_yadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॒ वासि॑ त्रैककु॒दं यदि॑ यामु॒नमु॒च्यसे॑।  
-उ॒भे ते॑ भ॒द्रे नाम्नी॒ ताभ्यां॑ नः पाह्याञ्जन ॥
+य᳓दि वा᳓सि त्रैककुदं᳓ य᳓दि यामुन᳓मुच्य᳓से।  
+उभे᳓ ते भद्रे᳓ ना᳓म्नी ता᳓भ्यां नः पाह्याञ्जन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/10_yadi_vAsi.md">

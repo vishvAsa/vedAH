@@ -37,8 +37,8 @@ A charm for long life
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/070_pUrNAyuH/01_indra_jIva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॒ जीव॒ सूर्य॒ जीव॒ देवा॒ जीवा॑ जी॒व्यास॑म॒हम्।  
-सर्व॒मायु॑र्जीव्यासम् ॥
+इ᳓न्द्र जी᳓व सू᳓र्य जी᳓व दे᳓वा जी᳓वा जीव्या᳓समह᳓म्।  
+स᳓र्वमा᳓युर्जीव्यासम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/070_pUrNAyuH/01_indra_jIva.md">

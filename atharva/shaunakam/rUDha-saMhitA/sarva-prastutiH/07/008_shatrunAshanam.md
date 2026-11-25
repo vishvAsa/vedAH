@@ -37,8 +37,8 @@ Godspeed to a departing traveller
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/008_shatrunAshanam/01_bhadrAdadhi_shreyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॒द्रादधि॒ श्रेयः॒ प्रेहि॒ बृह॒स्पतिः॑ पुरए॒ता ते॑ अस्तु।  
-अथे॒मम॒स्या वर॒ आ पृ॑थि॒व्या आ॒रेश॑त्रुं कृणुहि॒ सर्व॑वीरम् ॥
+भद्रा᳓द᳓धि श्रे᳓यः प्रे᳓हि बृ᳓हस्प᳓तिः पुरएता᳓ ते अस्तु।  
+अ᳓थेम᳓मस्या᳓ व᳓र आ᳓ पृथिव्या᳓ आरे᳓शत्रुं कृणुहि स᳓र्ववीरम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/008_shatrunAshanam/01_bhadrAdadhi_shreyaH.md">

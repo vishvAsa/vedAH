@@ -33,8 +33,14 @@ Translated: Henry, 37, 108; Griffith, i. 374.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/091_sutrAmA_indraH/01_indraH_sutrAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रः॑ सु॒त्रामा॒ स्ववाँ॒ अवो॑भिः सुमृडी॒को भ॑वतु वि॒श्ववे॑दाः।  
-बाध॑तां॒ द्वेषो॒ अभ॑यं नः कृणोतु सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/12_indraH_sutrAmA.md">
+
+इ᳓न्द्रः सुत्रा᳓मा स्व᳓वाँ+++(=स्ववान्)+++ अ᳓वोभिः  
+सुमृळीको᳓ **भवतु** विश्व᳓वेदाः।  
+**बा᳓धतां** द्वे᳓षो, अ᳓भयं नः **कृणोतु**  
+सुवी᳓र्यस्य प᳓तयः **स्याम** ॥
+
+</div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/091_sutrAmA_indraH/01_indraH_sutrAmA.md">

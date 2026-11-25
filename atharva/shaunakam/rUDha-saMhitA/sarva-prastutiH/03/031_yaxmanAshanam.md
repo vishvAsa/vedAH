@@ -37,8 +37,8 @@ A charm for the recovery of one dangerously ill
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/01_vi_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि दे॒वा ज॒रसा॑वृत॒न्वि त्वम॑ग्ने॒ अरा॑त्या।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+वि᳓ देवा᳓ जर᳓सावृतन्वि᳓ त्व᳓मग्ने अ᳓रात्या।  
+व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/01_vi_devA.md">
@@ -106,8 +106,8 @@ May Gods release from failing strength, thou Agni, from malignity! I free from e
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्यार्त्या॒ पव॑मानो॒ वि श॒क्रः पा॑पकृ॒त्यया॑।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+व्या᳓र्त्या प᳓वमानो वि᳓ शक्रः᳓ पापकृत्य᳓या।  
+व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
@@ -169,8 +169,8 @@ May Pavamana free from harm, and Sakra from unrighteous deed. I free from every 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि ग्रा॒म्याः प॒शव॑ आर॒ण्यैर्व्याप॒स्तृष्ण॑यासरन्।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+वि᳓ ग्राम्याः᳓ पश᳓व आरण्यै᳓र्व्या᳓पस्तृ᳓ष्णयासरन्।  
+व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
@@ -237,8 +237,8 @@ Tame beasts have parted from wild beasts, water and thirst have gone apart I fre
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/04_vI_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वी॑३॒॑ मे द्यावा॑पृथि॒वी इ॒तो वि पन्था॑नो॒ दिशं॑दिशम्।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+वी᳙ मे᳓ द्या᳓वापृथिवी᳓ इतो᳓ वि᳓ प᳓न्थानो दि᳓शंदिशम्।  
+व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/04_vI_me.md">
@@ -305,8 +305,8 @@ Parted are heaven and earth, and paths turned to each quarter of the sky. I free
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वष्टा॑ दुहि॒त्रे व॑ह॒तुं यु॑न॒क्तीती॒दं विश्वं॒ भुव॑नं॒ वि या॑ति।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+त्व᳓ष्टा दुहित्रे᳓ वहतुं᳓ युनक्ती᳓तीदं᳓ वि᳓श्वं भु᳓वनं वि᳓ याति।  
+व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
@@ -379,8 +379,8 @@ Tvashtar prepares the bridal of his daughter; then all this world of life depart
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निः प्रा॒णान्त्सं द॑धाति च॒न्द्रः प्रा॒णेन॒ संहि॑तः।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+अग्निः᳓ प्राणा᳓न्त्सं᳓ दधाति चन्द्रः᳓ प्राणे᳓न सं᳓हितः।  
+व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
@@ -447,8 +447,8 @@ Agni combines the vital airs. The moon is closely joined with breath. I free. et
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/07_prANena_vishvatovIryam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॒णेन॑ वि॒श्वतो॑वीर्यं दे॒वाः सूर्यं॒ समै॑रयन्।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+प्राणे᳓न विश्व᳓तोवीर्यं देवाः᳓ सू᳓र्यं स᳓मैरयन्।  
+व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/07_prANena_vishvatovIryam.md">
@@ -510,8 +510,8 @@ The Gods have lifted up with breath the Sun whose might is everywhere. I free, e
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयु॑ष्मतामायु॒ष्कृतां॑ प्रा॒णेन॑ जीव॒ मा मृ॑थाः।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+आ᳓युष्मतामायुष्कृ᳓तां प्राणे᳓न जीव मा᳓ मृथाः।  
+व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
@@ -573,8 +573,8 @@ Die not. Live with the breath of those who make and who enjoy long life. I free,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॒णेन॑ प्राण॒तां प्राणे॒हैव भ॑व॒ मा मृ॑थाः।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+प्राणे᳓न प्राणतां᳓ प्रा᳓णेहै᳓व᳓ भव मा᳓ मृथाः।  
+व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
@@ -637,8 +637,8 @@ Die not. Stay here. Breathe with the breath of those who draw the vital air. I f
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदायु॑षा॒ समायु॒षोदोष॑धीनां॒ रसे॑न।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+उ᳓दा᳓युषा स᳓मा᳓युषो᳓दो᳓षधीनां र᳓सेन।  
+व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
@@ -704,8 +704,8 @@ Rise up with life, conjoined with life. Up, with the sap of growing plants! I fr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/11_A_parjanyasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ प॒र्जन्य॑स्य वृ॒ष्ट्योद॑स्थामा॒मृता॑ व॒यम्।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+आ᳓ पर्ज᳓न्यस्य वृष्ट्यो᳓दस्थामामृ᳓ता वय᳓म्।  
+व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/11_A_parjanyasya.md">

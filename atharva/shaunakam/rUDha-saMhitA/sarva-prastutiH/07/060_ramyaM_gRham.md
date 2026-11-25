@@ -33,8 +33,8 @@ A parting traveller's address to the houses of his village
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/01_UrjaM_bibhradvasuvaniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊर्जं॒ बिभ्र॑द्वसु॒वनिः॑ सुमे॒धा अघो॑रेण॒ चक्षु॑षा मि॒त्रिये॑ण।  
-गृ॒हानैमि॑ सु॒मना॒ वन्द॑मानो॒ रम॑ध्वं॒ मा बि॑भीत॒ मत् ॥
+ऊ᳓र्जं बि᳓भ्रद्वसुव᳓निः सुमेधा᳓ अ᳓घोरेण च᳓क्षुषा मित्रि᳓येण।  
+गृहा᳓नै᳓मि सुम᳓ना व᳓न्दमानो र᳓मध्वं मा᳓ बिभीत म᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/01_UrjaM_bibhradvasuvaniH.md">
@@ -104,8 +104,8 @@ I, prudent, bringing power, a treasure-winner, with amicable eye that strikes no
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/02_ime_gRhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मे गृ॒हा म॑यो॒भुव॒ ऊर्ज॑स्वन्तः॒ पय॑स्वन्तः।  
-पू॒र्णा वा॒मेन॒ तिष्ठ॑न्त॒स्ते नो॑ जानन्त्वाय॒तः ॥
+इमे᳓ गृहा᳓ मयोभु᳓व ऊ᳓र्जस्वन्तः प᳓यस्वन्तः।  
+पूर्णा᳓ वामे᳓न ति᳓ष्ठन्तस्ते᳓ नो जानन्त्वायतः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/02_ime_gRhA.md">
@@ -167,8 +167,8 @@ Let these delightful Houses that are rich in power and store of milk, Replete wi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/03_yeShAmadhyeti_pravasanyeShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येषा॑म॒ध्येति॑ प्र॒वस॒न्येषु॑ सौमन॒सो ब॒हुः।  
-गृ॒हानुप॑ ह्वयामहे॒ ते नो॑ जानन्त्वाय॒तः ॥
+ये᳓षामध्ये᳓ति प्रव᳓सन्ये᳓षु सौमनसो᳓ बहुः᳓।  
+गृहा᳓नु᳓प ह्वयामहे ते᳓ नो जानन्त्वायतः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/03_yeShAmadhyeti_pravasanyeShu.md">
@@ -236,8 +236,8 @@ These Houses we invoke, whereon the distant exile sets his thought, Wherein dwel
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/04_upahUtA_bhUridhanAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑हूता॒ भूरि॑धनाः॒ सखा॑यः स्वा॒दुसं॑मुदः।  
-अ॑क्षु॒ध्या अ॑तृ॒ष्या स्त॒ गृहा॒ मास्मद्बि॑भीतन ॥
+उ᳓पहूता भू᳓रिधनाः स᳓खायः स्वादु᳓संमुदः।  
+अ᳙क्षुध्या᳓ अतृष्या᳓ स्त गृ᳓हा मा᳓स्म᳓द्बिभीतन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/04_upahUtA_bhUridhanAH.md">
@@ -301,8 +301,8 @@ Thus greeted, ye of ample wealth, friends who enjoy delightful sweets. Be ever f
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/05_upahUtA_iha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑हूता इ॒ह गाव॒ उप॑हूता अजा॒वयः॑।  
-अथो॒ अन्न॑स्य की॒लाल॒ उप॑हूतो गृ॒हेषु॑ नः ॥
+उ᳓पहूता इह᳓ गा᳓व उ᳓पहूता अजाव᳓यः।  
+अ᳓थो अ᳓न्नस्य कीला᳓ल उ᳓पहूतो गृहे᳓षु नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/05_upahUtA_iha.md">
@@ -366,8 +366,8 @@ Kind greeting to the cattle here, kind greeting to the goats and sheep! Then, of
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/06_sUnRtAvantaH_subhagA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सू॒नृता॑वन्तः सु॒भगा॒ इरा॑वन्तो हसामु॒दाः।  
-अ॑तृ॒ष्या अ॑क्षु॒ध्या स्त॒ गृहा॒ मास्मद्बि॑भीतन ॥
+सूनृ᳓तावन्तः सुभ᳓गा इ᳓रावन्तो हसामुदाः᳓।  
+अ᳙तृष्या᳓ अक्षुध्या᳓ स्त गृ᳓हा मा᳓स्म᳓द्बिभीतन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/06_sUnRtAvantaH_subhagA.md">
@@ -433,8 +433,8 @@ Full of refreshment, full of charms, of laughter and felicity, Be ever free from
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/07_ihaiva_sta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒हैव॑ स्त॒ मानु॑ गात॒ विश्वा॑ रू॒पाणि॑ पुष्यत।  
-ऐष्या॑मि भ॒द्रेणा॑ स॒ह भूयां॑सो भवता॒ मया॑ ॥
+इहै᳓व स्त मा᳓नु गात वि᳓श्वा रूपा᳓णि पुष्यत।  
+ऐ᳓ष्यामि भद्रे᳓णा सह᳓ भू᳓यांसो भवता म᳓या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/07_ihaiva_sta.md">

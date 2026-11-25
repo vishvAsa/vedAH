@@ -37,8 +37,8 @@ A prayer for prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/016_savitA/01_bRhaspate_savitarvardhayainam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृह॑स्पते॒ सवि॑तर्व॒र्धयै॑नं ज्यो॒तयै॑नं मह॒ते सौभ॑गाय।  
-संशि॑तं चित्संत॒रं सं शि॑शाधि॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥
+बृ᳓हस्पते स᳓वितर्वर्ध᳓यैनं ज्योत᳓यैनं महते᳓ सौ᳓भगाय।  
+सं᳓शितं चित्संतरं᳓ सं᳓ शिशाधि वि᳓श्व एनम᳓नु मदन्तु देवाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/016_savitA/01_bRhaspate_savitarvardhayainam.md">

@@ -37,8 +37,8 @@ A merchant's prayer for success in his business
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/01_indramahaM_vaNijam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑म॒हं व॒णिजं॑ चोदयामि॒ स न॒ ऐतु॑ पुरए॒ता नो॑ अस्तु।  
-नु॒दन्नरा॑तिं परिप॒न्थिनं॑ मृ॒गं स ईशा॑नो धन॒दा अ॑स्तु॒ मह्य॑म् ॥
+इ᳓न्द्रमहं᳓ वणि᳓जं चोदयामि स᳓ न ऐ᳓तु पुरएता᳓ नो अस्तु।  
+नुद᳓न्न᳓रातिं परिपन्थि᳓नं मृगं᳓ स᳓ ई᳓शानो धनदा᳓ अस्तु म᳓ह्यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/01_indramahaM_vaNijam.md">
@@ -105,8 +105,8 @@ I stir and animate the merchant Indra; may he approach and be our guide and lead
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/02_ye_panthAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये पन्था॑नो ब॒हवो॑ देव॒याना॑ अन्त॒रा द्यावा॑पृथि॒वी सं॒चर॑न्ति।  
-ते मा॑ जुषन्तां॒ पय॑सा घृ॒तेन॒ यथा॑ क्री॒त्वा धन॑मा॒हरा॑णि ॥
+ये᳓ प᳓न्थानो बह᳓वो देवया᳓ना अन्तरा᳓ द्या᳓वापृथिवी᳓ संच᳓रन्ति।  
+ते᳓ मा जुषन्तां प᳓यसा घृते᳓न य᳓था क्रीत्वा᳓ ध᳓नमाह᳓राणि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/02_ye_panthAno.md">
@@ -177,8 +177,8 @@ The many paths which Gods are wont to travel, the paths which go between the ear
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/03_idhmenAgna_ichChamAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒ध्मेना॑ग्न इ॒च्छमा॑नो घृ॒तेन॑ जु॒होमि॑ ह॒व्यं तर॑से॒ बला॑य।  
-याव॒दीशे॒ ब्रह्म॑णा॒ वन्द॑मान इ॒मां धियं॑ शत॒सेया॑य दे॒वीम् ॥
+इध्मे᳓नाग्न इच्छ᳓मानो घृते᳓न जुहो᳓मि हव्यं᳓ त᳓रसे ब᳓लाय।  
+या᳓वदी᳓शे ब्र᳓ह्मणा व᳓न्दमान इमां᳓ धि᳓यं शतसे᳓याय देवी᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/03_idhmenAgna_ichChamAno.md">
@@ -248,9 +248,9 @@ With fuel. Agni! and with butter, longing, mine offering I present for strength 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/04_imAmagne_sharaNim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒माम॑ग्ने श॒रणिं॑ मीमृषो नो॒ यमध्वा॑न॒मगा॑म दू॒रम्।  
-शु॒नं नो॑ अस्तु प्रप॒णो वि॒क्रय॑श्च प्रतिप॒णः फ॒लिनं॑ मा कृणोतु।  
-इ॒दं ह॒व्यं सं॑विदा॒नौ जु॑षेथां शु॒नं नो॑ अस्तु चरि॒तमुत्थि॑तं च ॥
+इमा᳓मग्ने शर᳓णिं मीमृषो नो य᳓म᳓ध्वानम᳓गाम दूर᳓म्।  
+शुनं᳓ नो अस्तु प्रपणो᳓ विक्र᳓यश्च प्रतिपणः᳓ फलि᳓नं मा कृणोतु।  
+इदं᳓ हव्यं᳓ संविदानौ᳓ जुषेथां शुनं᳓ नो अस्तु चरित᳓मु᳓त्थितं च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/04_imAmagne_sharaNim.md">
@@ -340,8 +340,8 @@ Pardon this stubbornness of ours. O Agni, the distant pathway which our feet hav
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/05_yena_dhanena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॒ धने॑न प्रप॒णं चरा॑मि॒ धने॑न देवा॒ धन॑मि॒च्छमा॑नः।  
-तन्मे॒ भूयो॑ भवतु॒ मा कनी॒योऽग्ने॑ सात॒घ्नो दे॒वान्ह॒विषा॒ नि षे॑ध ॥
+ये᳓न ध᳓नेन प्रपणं᳓ च᳓रामि ध᳓नेन देवा ध᳓नमिच्छ᳓मानः।  
+त᳓न्मे भू᳓यो भवतु मा᳓ क᳓नीयो᳓ऽग्ने सातघ्नो᳓ देवा᳓न्हवि᳓षा नि᳓ षेध ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/05_yena_dhanena.md">
@@ -407,8 +407,8 @@ The wealth wherewith I carry on my traffic, seeking, ye Gods! wealth with the we
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/06_yena_dhanena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॒ धने॑न प्रप॒णं चरा॑मि॒ धने॑न देवा॒ धन॑मि॒च्छमा॑नः।  
-तस्मि॑न्म॒ इन्द्रो॒ रुचि॒मा द॑धातु प्र॒जाप॑तिः सवि॒ता सोमो॑ अ॒ग्निः ॥
+ये᳓न ध᳓नेन प्रपणं᳓ च᳓रामि ध᳓नेन देवा ध᳓नमिच्छ᳓मानः।  
+त᳓स्मिन्म इ᳓न्द्रो रु᳓चिमा᳓ दधातु प्रजा᳓पतिः सविता᳓ सो᳓मो अग्निः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/06_yena_dhanena.md">
@@ -478,8 +478,8 @@ The wealth wherewith I carry on my traffic, seeking, ye Gods! wealth with the we
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/07_upa_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑ त्वा॒ नम॑सा व॒यं होत॑र्वैश्वानर स्तु॒मः।  
-स नः॑ प्र॒जास्वा॒त्मसु॒ गोषु॑ प्रा॒णेषु॑ जागृहि ॥
+उ᳓प त्वा न᳓मसा वयं᳓ हो᳓तर्वैश्वानर स्तुमः᳓।  
+स᳓ नः प्रजा᳓स्वात्म᳓सु गो᳓षु प्राणे᳓षु जागृहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/07_upa_tvA.md">
@@ -545,8 +545,8 @@ With reverence we sign thy praise, O Hotar-priest Vaisvanara. Over our children 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/08_vishvAhA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒श्वाहा॑ ते॒ सद॒मिद्भ॑रे॒माश्वा॑येव॒ तिष्ठ॑ते जातवेदः।  
-रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥
+विश्वा᳓हा ते स᳓दमि᳓द्भरेमा᳓श्वायेव ति᳓ष्ठते जातवेदः।  
+राय᳓स्पो᳓षेण स᳓मिषा᳓ म᳓दन्तो मा᳓ ते अग्ने प्र᳓तिवेशा रिषाम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/08_vishvAhA_te.md">

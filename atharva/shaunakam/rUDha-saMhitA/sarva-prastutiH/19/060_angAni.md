@@ -37,8 +37,8 @@ A prayer for perfect bodily and mental health and vigour
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/060_angAni/01_vA~Nma_AsannasoH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वाङ्म॑ आ॒सन्न॒सोः प्रा॒णश्चक्षु॑र॒क्ष्णोः श्रोत्रं॒ कर्ण॑योः।  
-अप॑लिताः॒ केशा॒ अशो॑णा॒ दन्ता॑ ब॒हु बा॒ह्वोर्बल॑म् ॥
+वा᳓ङ्म आस᳓न्नसोः᳓ प्राण᳓श्च᳓क्षुरक्ष्णोः᳓ श्रो᳓त्रं क᳓र्णयोः।  
+अ᳓पलिताः के᳓शा अ᳓शोणा द᳓न्ता बहु᳓ बाह्वो᳓र्ब᳓लम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/060_angAni/01_vA~Nma_AsannasoH.md">
@@ -115,8 +115,8 @@ May I have voice in my mouth, breath in my nostrils, sight in mine eyes, hearing
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/060_angAni/02_Urvorojo_janghayorjavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊ॒र्वोरोजो॒ जङ्घ॑योर्ज॒वः पाद॑योः।  
-प्र॑ति॒ष्ठा अरि॑ष्टानि मे॒ सर्वा॒त्मानि॑भृष्टः ॥
+ऊर्वो᳓रो᳓जो ज᳓ङ्घयोर्जवः᳓ पा᳓दयोः।  
+प्र᳙तिष्ठा᳓ अ᳓रिष्टानि मे स᳓र्वात्मा᳓निभृष्टः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/060_angAni/02_Urvorojo_janghayorjavaH.md">

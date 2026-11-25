@@ -37,8 +37,8 @@ A charm against Gandharvas and Apsarases
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/01_tvayA_pUrvamatharvANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वया॒ पूर्व॒मथ॑र्वाणो ज॒घ्नू रक्षां॑स्योषधे।  
-त्वया॑ जघान क॒श्यप॒स्त्वया॒ कण्वो॑ अ॒गस्त्यः॑ ॥
+त्व᳓या पू᳓र्वम᳓थर्वाणो जघ्नू᳓ र᳓क्षांस्योषधे।  
+त्व᳓या जघान कश्य᳓पस्त्व᳓या क᳓ण्वो अग᳓स्त्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/01_tvayA_pUrvamatharvANo.md">
@@ -100,8 +100,8 @@ With thee, O Plant, in olden time Atharvans smote and slew the fiends. Kasyapa s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/02_tvayA_vayamapsaraso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वया॑ व॒यम॑प्स॒रसो॑ गन्ध॒र्वांश्चा॑तयामहे।  
-अज॑शृ॒ङ्ग्यज॒ रक्षः॒ सर्वा॑न् ग॒न्धेन॑ नाशय ॥
+त्व᳓या वय᳓मप्सर᳓सो गन्धर्वां᳓श्चातयामहे।  
+अ᳓जशृङ्ग्य᳓ज र᳓क्षः स᳓र्वान् गन्धे᳓न नाशय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/02_tvayA_vayamapsaraso.md">
@@ -167,9 +167,9 @@ With thee we scare and drive away Gandharvas and Apsarases. O Ajasringi, chase t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/03_nadIM_yantvapsaraso-pAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न॒दीं य॑न्त्वप्स॒रसो॒ऽपां ता॒रम॑वश्व॒सम्।  
-गु॑ल्गु॒लूः पीला॑ नल॒द्यौ॒३॒॑क्षग॑न्धिः प्रमन्द॒नी।  
-तत्परे॑ताप्सरसः॒ प्रति॑बुद्धा अभूतन ॥
+नदीं᳓ यन्त्वप्सर᳓सोऽपां᳓ तार᳓मवश्वस᳓म्।  
+गु᳙ल्गुलूः᳓ पी᳓ला नलद्यौ᳙क्ष᳓गन्धिः प्रमन्दनी᳓।  
+त᳓त्प᳓रेताप्सरसः प्र᳓तिबुद्धा अभूतन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/03_nadIM_yantvapsaraso-pAm.md">
@@ -259,8 +259,8 @@ Let the Apsarases, puffed away, go to the river, to the ford,-- Guggulu, Pila, N
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/04_yatrAshvatthA_nyagrodhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्रा॑श्व॒त्था न्य॒ग्रोधा॑ महावृ॒क्षाः शि॑ख॒ण्डिनः॑।  
-तत्परे॑ताप्सरसः॒ प्रति॑बुद्धा अभूतन ॥
+य᳓त्राश्वत्था᳓ न्यग्रो᳓धा महावृक्षाः᳓ शिखण्डि᳓नः।  
+त᳓त्प᳓रेताप्सरसः प्र᳓तिबुद्धा अभूतन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/04_yatrAshvatthA_nyagrodhA.md">
@@ -330,8 +330,8 @@ Where great trees are, Asvatthas and Nyagrodhas with their leafy crests, There w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/05_yatra_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॑ वः प्रे॒ङ्खा हरि॑ता॒ अर्जु॑ना उ॒त यत्रा॑घा॒टाः क॑र्क॒र्यः॑ सं॒वद॑न्ति।  
-तत्परे॑ताप्सरसः॒ प्रति॑बुद्धा अभूतन ॥
+य᳓त्र वः प्रेङ्खा᳓ ह᳓रिता अ᳓र्जुना उत᳓ य᳓त्राघाटाः᳓ कर्कर्यः᳙ संव᳓दन्ति।  
+त᳓त्प᳓रेताप्सरसः प्र᳓तिबुद्धा अभूतन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/05_yatra_vaH.md">
@@ -399,8 +399,8 @@ Hither hath come this one, the most effectual of herbs and plants.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/06_eyamagannoShadhInAM_vIrudhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एयम॑ग॒न्नोष॑धीनां वी॒रुधां॑ वी॒र्या॑वती।  
-अ॑जशृ॒ङ्ग्य॑राट॒की ती॑क्ष्णशृ॒ङ्गी व्यृ॑षतु ॥
+ए᳓य᳓मगन्नो᳓षधीनां वीरु᳓धां वीर्या᳙वती।  
+अ᳙जशृङ्ग्य᳙राटकी᳓ तीक्ष्णशृङ्गी᳓ व्यृषतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/06_eyamagannoShadhInAM_vIrudhAm.md">
@@ -465,8 +465,8 @@ Let Ajasringi penetrate, Ara4aki with sharpened horn.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/07_AnRtyataH_shikhaNDino.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒नृत्य॑तः शिख॒ण्डिनो॑ गन्ध॒र्वस्या॑प्सराप॒तेः।  
-भि॒नद्मि॑ मु॒ष्कावपि॑ यामि॒ शेपः॑ ॥
+आनृ᳓त्यतः शिखण्डि᳓नो गन्धर्व᳓स्याप्सरापतेः᳓।  
+भिन᳓द्मि मुष्का᳓व᳓पि यामि शे᳓पः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/07_AnRtyataH_shikhaNDino.md">
@@ -535,8 +535,8 @@ From the Gandharva, dancing near, the lord of the Apsarases, Wearing the tuft of
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/08_bhImA_indrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भी॒मा इन्द्र॑स्य हे॒तयः॑ श॒तं ऋ॒ष्टीर॑य॒स्मयीः॑।  
-ताभि॑र्हविर॒दान्ग॑न्ध॒र्वान॑वका॒दान्व्यृ॑षतु ॥
+भीमा᳓ इ᳓न्द्रस्य हेत᳓यः शतं᳓ ऋष्टी᳓रयस्म᳓यीः।  
+ता᳓भिर्हविरदा᳓न्गन्धर्वा᳓नवकादा᳓न्व्यृषतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/08_bhImA_indrasya.md">
@@ -606,8 +606,8 @@ With those dread hundred iron spears, the darts of Indra, let it pierce. The Bly
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/09_bhImA_indrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भी॒मा इन्द्र॑स्य हे॒तयः॑ श॒तं ऋ॒ष्टीर्हि॑र॒ण्ययीः॑।  
-ताभि॑र्हविर॒दान्ग॑न्ध॒र्वान॑वका॒दान्व्यृ॑षतु ॥
+भीमा᳓ इ᳓न्द्रस्य हेत᳓यः शतं᳓ ऋष्टी᳓र्हिरण्य᳓यीः।  
+ता᳓भिर्हविरदा᳓न्गन्धर्वा᳓नवकादा᳓न्व्यृषतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/09_bhImA_indrasya.md">
@@ -669,8 +669,8 @@ With those dread hundred golden spears, the darts of Indra, let it pierce. The B
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/10_avakAdAnabhishochAnapsu_jyotaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑वका॒दान॑भिशो॒चान॒प्सु ज्यो॑तय माम॒कान्।  
-पि॑शा॒चान्त्सर्वा॑नोषधे॒ प्र मृ॑णीहि॒ सह॑स्व च ॥
+अ᳙वकादा᳓नभिशोचा᳓नप्सु᳓ ज्योतय मामका᳓न्।  
+पि᳙शाचा᳓न्त्स᳓र्वानोषधे प्र᳓ मृणीहि स᳓हस्व च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/10_avakAdAnabhishochAnapsu_jyotaya.md">
@@ -748,8 +748,8 @@ O Plant, be thou victorious, crush the Pisachas, one and all, Blyxa-fed, shining
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/11_shvevaikaH_kapirivaikaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्वेवैकः॑ क॒पिरि॒वैकः॑ कुमा॒रः स॑र्वकेश॒कः।  
-प्रि॒यो दृ॒श इ॑व भू॒त्वा ग॑न्ध॒र्वः स॑चते॒ स्त्रिय॑स्तमि॒तो ना॑शयामसि॒ ब्रह्म॑णा वी॒र्या॑वता ॥
+श्वे᳓वै᳓कः कपि᳓रिवै᳓कः कुमारः᳓ सर्वकेशकः᳓।  
+प्रियो᳓ दृश᳓ इव भूत्वा᳓ गन्धर्वः᳓ सचते स्त्रि᳓यस्तमितो᳓ नाशयामसि ब्र᳓ह्मणा वीर्या᳙वता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/11_shvevaikaH_kapirivaikaH.md">
@@ -817,8 +817,8 @@ Youthful, completely decked with hair, one monkey-like, one like a dog,-- So the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/12_jAyA_idvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जा॒या इद्वो॑ अप्स॒रसो॒ गन्ध॑र्वाः॒ पत॑यो यू॒यम्।  
-अप॑ धावतामर्त्या॒ मर्त्या॒न्मा स॑चध्वम् ॥
+जाया᳓ इ᳓द्वो अप्सर᳓सो ग᳓न्धर्वाः प᳓तयो यूय᳓म्।  
+अ᳓प धावतामर्त्या म᳓र्त्यान्मा᳓ सचध्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/12_jAyA_idvo.md">

@@ -33,8 +33,8 @@ A charm to banish vermin and noxious creatures
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/01_niHsAlAM_dhRShNum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निः॑सा॒लां धृ॒ष्णुं धि॒षण॑मेकवा॒द्यां जि॑घ॒त्स्व॑म्।  
-सर्वा॒श्चण्ड॑स्य न॒प्त्यो॑ ना॒शया॑मः स॒दान्वाः॑ ॥
+निः᳙सालां᳓ धृष्णुं᳓ धिष᳓णमेकवाद्यां᳓ जिघत्स्व᳙म्।  
+स᳓र्वाश्च᳓ण्डस्य नप्त्यो᳙ नाश᳓यामः सदा᳓न्वाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/01_niHsAlAM_dhRShNum.md">
@@ -109,8 +109,8 @@ Forth from the hall the bold, the sharp, the greedy one, the single-voiced, Sada
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्वो॑ गो॒ष्ठाद॑जामसि॒ निरक्षा॒न्निरु॑पान॒शात्।  
-निर्वो॑ मगुन्द्या दुहितरो गृ॒हेभ्य॑श्चातयामहे ॥
+नि᳓र्वो गोष्ठा᳓दजामसि नि᳓र᳓क्षान्नि᳓रुपानशा᳓त्।  
+नि᳓र्वो मगुन्द्या दुहितरो गृहे᳓भ्यश्चातयामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
@@ -179,8 +179,8 @@ We drive you forth from cattle-shed, from axle, from within the wain, Ye daughte
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/03_asau_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒सौ यो अ॑ध॒राद्गृ॒हस्तत्र॑ सन्त्वरा॒य्यः॑।  
-तत्र॒ सेदि॒र्न्यु॑च्यतु॒ सर्वा॑श्च यातुधा॒न्यः॑ ॥
+असौ᳓ यो᳓ अधरा᳓द्गृह᳓स्त᳓त्र सन्त्वराय्यः᳙।  
+त᳓त्र से᳓दिर्न्यु᳙च्यतु स᳓र्वाश्च यातुधान्यः᳙ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/03_asau_yo.md">
@@ -249,8 +249,8 @@ Yonder let the Arayis dwell, there where that house is down below. Let utter ind
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भू॑त॒पति॒र्निर॑ज॒त्विन्द्र॑श्चे॒तः स॒दान्वाः॑।  
-गृ॒हस्य॑ बु॒ध्न आसी॑नास्ता॒ इन्द्रो॒ वज्रे॒णाधि॑ तिष्ठतु ॥
+भू᳙तप᳓तिर्नि᳓रजत्वि᳓न्द्रश्चेतः᳓ सदा᳓न्वाः।  
+गृह᳓स्य बुध्न᳓ आ᳓सीनास्ता इ᳓न्द्रो व᳓ज्रेणा᳓धि तिष्ठतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
@@ -324,8 +324,8 @@ May Bhutapati drive away, and Indra, the Sadanvas hence. Let Indra with his bolt
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/05_yadi_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॒ स्थ क्षे॑त्रि॒याणां॒ यदि॑ वा॒ पुरु॑षेषिताः।  
-यदि॒ स्थ दस्यु॑भ्यो जा॒ता नश्य॑ते॒तः स॒दान्वाः॑ ॥
+य᳓दि स्थ᳓ क्षेत्रिया᳓णां य᳓दि वा पु᳓रुषेषिताः।  
+य᳓दि स्थ᳓ द᳓स्युभ्यो जाता᳓ न᳓श्यतेतः᳓ सदा᳓न्वाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/05_yadi_stha.md">
@@ -391,8 +391,8 @@ Whether ye be of farm and field, or whether ye be sent by men, Or be ye sprung f
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॒ धामा॑न्यासामा॒शुर्गाष्ठा॑मिवासरन्।  
-अजै॑षं॒ सर्वा॑ना॒जीन्वो॒ नश्य॑ते॒तः स॒दान्वाः॑ ॥
+प᳓रि धा᳓मान्यासामाशु᳓र्गा᳓ष्ठामिवासरन्।  
+अ᳓जैषं स᳓र्वानाजी᳓न्वो न᳓श्यतेतः᳓ सदा᳓न्वाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">

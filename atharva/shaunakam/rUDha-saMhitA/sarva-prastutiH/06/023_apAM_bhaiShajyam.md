@@ -37,8 +37,8 @@ To the Waters
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒स्रुषी॒स्तद॒पसो॒ दिवा॒ नक्तं॑ च स॒स्रुषीः॑।  
-वरे॑ण्यक्रतुर॒हम॒पो दे॒वीरुप॑ ह्वये ॥
+सस्रु᳓षीस्त᳓दप᳓सो दि᳓वा न᳓क्तं च सस्रु᳓षीः।  
+व᳓रेण्यक्रतुरह᳓मपो᳓ देवी᳓रु᳓प ह्वये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
@@ -105,8 +105,8 @@ Here flow the restless ones, they flow unceasing through the day and night, Most
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ओता॒ आपः॑ कर्म॒ण्या॑ मु॒ञ्चन्त्वि॒तः प्रणी॑तये।  
-स॒द्यः कृ॑ण्व॒न्त्वेत॑वे ॥
+ओ᳓ता आ᳓पः कर्मण्या᳙ मुञ्च᳓न्त्वितः᳓ प्र᳓णीतये।  
+सद्यः᳓ कृण्वन्त्वे᳓तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
@@ -172,8 +172,8 @@ Let the deft Waters, summoned, give permission that we bear them off, And quickl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वस्य॑ सवि॒तुः स॒वे कर्म॑ कृण्वन्तु॒ मानु॑षाः।  
-शं नो॑ भवन्त्व॒प ओष॑धीः शि॒वाः ॥
+देव᳓स्य सवितुः᳓ सवे᳓ क᳓र्म कृण्वन्तु मा᳓नुषाः।  
+शं᳓ नो भवन्त्वप᳓ ओ᳓षधीः शिवाः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">

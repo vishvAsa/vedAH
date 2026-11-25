@@ -37,8 +37,8 @@ A curative and protective charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/01_RNAdRNamiva_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒णादृ॒णमि॑व॒ सं न॑यन् कृ॒त्यां कृ॑त्या॒कृतो॑ गृ॒हम्।  
-चक्षु॑र्मन्त्रस्य दु॒र्हार्दः॑ पृ॒ष्टीरपि॑ शृणाञ्जन ॥
+ऋणा᳓दृण᳓मिव सं᳓ नयन् कृत्यां᳓ कृत्याकृ᳓तो गृह᳓म्।  
+च᳓क्षुर्मन्त्रस्य दुर्हा᳓र्दः पृष्टी᳓र᳓पि शृणाञ्जन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/01_RNAdRNamiva_sam.md">
@@ -113,8 +113,8 @@ As debt from debt repay and send sorcery to the sorcerer's house. Split, Salve! 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/02_yadasmAsu_duHShvapnyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॒स्मासु॑ दुः॒ष्वप्न्यं॒ यद्गोषु॒ यच्च॑ नो गृ॒हे।  
-अना॑मग॒स्तं च॑ दु॒र्हार्दः॑ प्रि॒यः प्रति॑ मुञ्चताम् ॥
+य᳓दस्मा᳓सु दुःष्व᳓प्न्यं य᳓द्गो᳓षु य᳓च्च नो गृहे᳓।  
+अ᳓नामगस्तं᳓ च दुर्हा᳓र्दः प्रियः᳓ प्र᳓ति मुञ्चताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/02_yadasmAsu_duHShvapnyam.md">
@@ -244,8 +244,8 @@ Whatever evil dream we have, what'er befall our kine or home, Be this that is sa
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/03_apAmUrja_ojaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पामू॒र्ज ओज॑सो वावृधा॒नम॒ग्नेर्जा॒तमधि॑ जा॒तवे॑दसः।  
-चतु॑र्वीरं पर्व॒तीयं॒ यदाञ्ज॑नं॒ दिशः॑ प्रदिशः कर॒दिच्छि॒वास्ते॑ ॥
+अपा᳓मूर्ज᳓ ओ᳓जसो वावृधान᳓मग्ने᳓र्जात᳓म᳓धि जात᳓वेदसः।  
+च᳓तुर्वीरं पर्वती᳓यं य᳓दा᳓ञ्जनं दि᳓शः प्रदिशः करदि᳓च्छिवा᳓स्ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/03_apAmUrja_ojaso.md">
@@ -311,8 +311,8 @@ Increasing from the Waters' strength and vigour, sprung into life from Agni Jata
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/04_chaturvIraM_badhyata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-चतु॑र्वीरं बध्यत॒ आञ्ज॑नं ते॒ सर्वा॒ दिशो॒ अभ॑यास्ते भवन्तु।  
-ध्रु॒वस्ति॑ष्ठासि सवि॒तेव॒ चार्य॑ इ॒मा विशो॑ अ॒भि ह॑रन्तु ते ब॒लिम् ॥
+च᳓तुर्वीरं बध्यत आ᳓ञ्जनं ते स᳓र्वा दि᳓शो अ᳓भयास्ते भवन्तु।  
+ध्रुव᳓स्तिष्ठासि सविते᳓व चा᳓र्य इमा᳓ वि᳓शो अभि᳓ हरन्तु ते बलि᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/04_chaturvIraM_badhyata.md">
@@ -386,8 +386,8 @@ On thee is laid the Chaturvira Ointment: let all the regions give thee peace and
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/05_AxvaikaM_maNimekam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आक्ष्वैकं॑ म॒णिमेकं॑ कृणुष्व स्ना॒ह्येके॒ना पि॒बैक॑मेषाम्।  
-चतु॑र्वीरं नैरृ॒तेभ्य॑श्च॒तुर्भ्यो॒ ग्राह्या॑ ब॒न्धेभ्यः॒ परि॑ पात्व॒स्मान् ॥
+आ᳓क्ष्वै᳓कं मणि᳓मे᳓कं कृणुष्व स्नाह्ये᳓केना᳓ पिबै᳓कमेषाम्।  
+च᳓तुर्वीरं नैरृते᳓भ्यश्चतु᳓र्भ्यो ग्रा᳓ह्या बन्धे᳓भ्यः प᳓रि पात्वस्मा᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/05_AxvaikaM_maNimekam.md">
@@ -478,7 +478,7 @@ Make one thy salve, thine amulet another, drink one, and with another bathe thy 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/06_agnirmAgninAvatu_prANAyApAnAyAyuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निर्मा॒ग्निना॑वतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
+अग्नि᳓र्माग्नि᳓नावतु प्राणा᳓यापाना᳓या᳓युषे व᳓र्चस ओ᳓जसे᳓ ते᳓जसे स्वस्त᳓ये सुभूत᳓ये स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/06_agnirmAgninAvatu_prANAyApAnAyAyuShe.md">
@@ -556,7 +556,7 @@ May Agni protect me with fire for inspiration and expiration, for strength, for 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/07_indro_mendriyeNAvatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ मेन्द्रि॒येणा॑वतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
+इ᳓न्द्रो मेन्द्रिये᳓णावतु प्राणा᳓यापाना᳓या᳓युषे व᳓र्चस ओ᳓जसे᳓ ते᳓जसे स्वस्त᳓ये सुभूत᳓ये स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/07_indro_mendriyeNAvatu.md">
@@ -611,7 +611,7 @@ May Indra protect me with his Indra-power for inspiration, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/08_somo_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमो॑ मा॒ सौम्ये॑नावतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
+सो᳓मो मा सौ᳓म्येनावतु प्राणा᳓यापाना᳓या᳓युषे व᳓र्चस ओ᳓जसे᳓ ते᳓जसे स्वस्त᳓ये सुभूत᳓ये स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/08_somo_mA.md">
@@ -672,7 +672,7 @@ May Soma protect me with Soma-power, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/09_bhago_ma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भगो॑ म॒ भगे॑नावतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
+भ᳓गो म भ᳓गेनावतु प्राणा᳓यापाना᳓या᳓युषे व᳓र्चस ओ᳓जसे᳓ ते᳓जसे स्वस्त᳓ये सुभूत᳓ये स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/09_bhago_ma.md">
@@ -733,7 +733,7 @@ May Bhaga with good fortune protect me, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/10_maruto_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒रुतो॑ मा ग॒णैर॑वन्तु प्रा॒णाया॑पा॒नायु॑षे॒ वर्च॑स॒ ओज॑से॒ तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
+मरु᳓तो मा गणै᳓रवन्तु प्राणा᳓यापाना᳓युषे व᳓र्चस ओ᳓जसे ते᳓जसे स्वस्त᳓ये सुभूत᳓ये स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/10_maruto_mA.md">

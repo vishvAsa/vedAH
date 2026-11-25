@@ -38,8 +38,8 @@ A glorification of the typical sacrificial bull
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/01_sAhasrastveSha_RShabhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-साह॒स्रस्त्वे॒ष ऋ॑ष॒भः पय॑स्वा॒न्विश्वा॑ रू॒पाणि॑ व॒क्षणा॑सु॒ बिभ्र॑त्।  
-भ॒द्रं दा॒त्रे यज॑मानाय शिक्षन्बार्हस्प॒त्य उ॒स्रिय॒स्तन्तु॒माता॑न् ॥
+सा᳓हस्र᳓स्त्वेष᳓ ऋषभः᳓ प᳓यस्वान्वि᳓श्वा रूपा᳓णि वक्ष᳓णासु बि᳓भ्रत्।  
+भद्रं᳓ दात्रे᳓ य᳓जमानाय शिक्षन्बार्हस्पत्य᳓ उस्रि᳓यस्त᳓न्तुमा᳓तान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/01_sAhasrastveSha_RShabhaH.md">
@@ -102,8 +102,8 @@ The Bull, fierce, thousandfold, filled full of vigour, bearing within his flanks
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/02_apAM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पां यो अग्ने॑ प्रति॒मा ब॒भूव॑ प्र॒भूः सर्व॑स्मै पृथि॒वीव॑ दे॒वी।  
-पि॒ता व॒त्सानां॒ पति॑र॒घ्न्यानां॑ साह॒स्रे पोषे॒ अपि॑ नः कृणोतु ॥
+अपां᳓ यो᳓ अ᳓ग्ने प्रतिमा᳓ बभू᳓व प्रभूः᳓ स᳓र्वस्मै पृथिवी᳓व देवी᳓।  
+पिता᳓ वत्सा᳓नां प᳓तिरघ्न्या᳓नां साहस्रे᳓ पो᳓षे अ᳓पि नः कृणोतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/02_apAM_yo.md">
@@ -165,8 +165,8 @@ He who at first became the Waters' model, a match for everyone, like Earth the G
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/03_pumAnantarvAntsthaviraH_payasvAnvasoH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुमा॑न॒न्तर्वा॒न्त्स्थवि॑रः॒ पय॑स्वा॒न्वसोः॒ कब॑न्धमृष॒भो बि॑भर्ति।  
-तमिन्द्रा॑य प॒थिभि॑र्देव॒यानै॑र्हु॒तम॒ग्निर्व॑हतु जा॒तवे॑दाः ॥
+पु᳓मानन्त᳓र्वान्त्स्थ᳓विरः प᳓यस्वान्व᳓सोः क᳓बन्धमृषभो᳓ बिभर्ति।  
+त᳓मि᳓न्द्राय पथि᳓भिर्देवया᳓नैर्हुत᳓मग्नि᳓र्वहतु जात᳓वेदाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/03_pumAnantarvAntsthaviraH_payasvAnvasoH.md">
@@ -228,8 +228,8 @@ Masculine, pregnant, stedfast. full of vigour, the Bull sustains a trunk of good
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/04_pitA_vatsAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि॒ता व॒त्सानां॒ पति॑र॒घ्न्याना॒मथो॑ पि॒ता म॑ह॒तां गर्ग॑राणाम्।  
-व॒त्सो ज॒रायु॑ प्रति॒धुक्पी॒यूष॑ आ॒मिक्षा॑ घृ॒तं तद्व॑स्य॒ रेतः॑ ॥
+पिता᳓ वत्सा᳓नां प᳓तिरघ्न्या᳓नाम᳓थो पिता᳓ महतां᳓ ग᳓र्गराणाम्।  
+वत्सो᳓ जरा᳓यु प्रतिधु᳓क्पीयू᳓ष आमि᳓क्षा घृतं᳓ त᳓द्वस्य रे᳓तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/04_pitA_vatsAnAm.md">
@@ -294,8 +294,8 @@ The husband of the cows, the young calves' father, father is he of mighty water-
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/05_devAnAM_bhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वानां॑ भा॒ग उ॑पना॒ह ए॒षो॒३॒॑पां रस॒ ओष॑धीनां घृ॒तस्य॑।  
-सोम॑स्य भ॒क्षम॑वृणीत श॒क्रो बृ॒हन्नद्रि॑रभव॒द्यच्छरी॑रम् ॥
+देवा᳓नां भाग᳓ उपनाह᳓ एषो᳙पां᳓ र᳓स ओ᳓षधीनां घृत᳓स्य।  
+सो᳓मस्य भक्ष᳓मवृणीत शक्रो᳓ बृह᳓न्न᳓द्रिरभवद्य᳓च्छ᳓रीरम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/05_devAnAM_bhAga.md">
@@ -363,8 +363,8 @@ He is the Gods' allotted share and bundle, essence of waters, and of plants, and
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/06_somena_pUrNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमे॑न पू॒र्णं क॒लशं॑ बिभर्षि॒ त्वष्टा॑ रू॒पाणां॑ जनि॒ता प॑शू॒नाम्।  
-शि॒वास्ते॑ सन्तु प्रज॒न्व᳡ इ॒ह या इ॒मा न्य१॒॑स्मभ्यं॑ स्वधिते यच्छ॒ या अ॒मूः ॥
+सो᳓मेन पूर्णं᳓ कल᳓शं बिभर्षि त्व᳓ष्टा रूपा᳓णां जनिता᳓ पशूना᳓म्।  
+शिवा᳓स्ते सन्तु प्रजन्व᳙ इह᳓ या᳓ इमा᳓ न्य᳙स्म᳓भ्यं स्वधिते यच्छ या᳓ अमूः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/06_somena_pUrNam.md">
@@ -428,8 +428,8 @@ A beaker filled with Soma juice thou bearest. framer of forms, begetter of the c
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/07_AjyaM_bibharti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आज्यं॑ बिभर्ति घृ॒तम॑स्य॒ रेतः॑ साह॒स्रः पोष॒स्तमु॑ य॒ज्ञमा॑हुः।  
-इन्द्र॑स्य रू॒पमृ॑ष॒भो वसा॑नः॒ सो अ॒स्मान्दे॑वाः शि॒व ऐतु॑ द॒त्तः ॥
+आ᳓ज्यं बिभर्ति घृत᳓मस्य रे᳓तः साहस्रः᳓ पो᳓षस्त᳓मु यज्ञ᳓माहुः।  
+इ᳓न्द्रस्य रूप᳓मृषभो᳓ व᳓सानः सो᳓ अस्मा᳓न्देवाः शिव᳓ ऐ᳓तु दत्तः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/07_AjyaM_bibharti.md">
@@ -491,8 +491,8 @@ He bears oblation, and his seed is butter. Thousand-fold plenty; sacrifice they 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/08_indrasyaujo_varuNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॒स्यौजो॒ वरु॑णस्य बा॒हू अ॒श्विनो॒रंसौ॑ म॒रुता॑मि॒यं क॒कुत्।  
-बृह॒स्पतिं॒ संभृ॑तमे॒तमा॑हु॒र्ये धीरा॑सः क॒वयो॒ ये म॑नी॒षिणः॑ ॥
+इ᳓न्द्रस्यौ᳓जो व᳓रुणस्य बाहू᳓ अश्वि᳓नोरं᳓सौ मरु᳓तामियं᳓ ककु᳓त्।  
+बृ᳓हस्प᳓तिं सं᳓भृतमेत᳓माहुर्ये᳓ धी᳓रासः कव᳓यो ये᳓ मनीषि᳓णः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/08_indrasyaujo_varuNasya.md">
@@ -555,8 +555,8 @@ Both arms of Varuna, and Indra's vigour, the Maruts' hump is he, the Asvins' sho
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/09_daivIrvishaH_payasvAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दैवी॒र्विशः॒ पय॑स्वा॒ना त॑नोषि॒ त्वामिन्द्रं॒ त्वां सर॑स्वन्तमाहुः।  
-स॒हस्रं॒ स एक॑मुखा ददाति॒ यो ब्रा॑ह्म॒ण ऋ॑ष॒भमा॑जु॒होति॑ ॥
+दै᳓वीर्वि᳓शः प᳓यस्वाना᳓ तनोषि त्वा᳓मि᳓न्द्रं त्वां᳓ स᳓रस्वन्तमाहुः।  
+सह᳓स्रं स᳓ ए᳓कमुखा ददाति यो᳓ ब्राह्मण᳓ ऋषभ᳓माजुहो᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/09_daivIrvishaH_payasvAnA.md">
@@ -618,8 +618,8 @@ Thou, vigorous, reachest to the tribes of heaven. Thee they call Indra, thee the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/10_bRhaspatiH_savitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृह॒स्पतिः॑ सवि॒ता ते॒ वयो॑ दधौ॒ त्वष्टु॑र्वा॒योः पर्या॒त्मा त॒ आभृ॑तः।  
-अ॒न्तरि॑क्षे॒ मन॑सा त्वा जुहोमि ब॒र्हिष्टे॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
+बृ᳓हस्प᳓तिः सविता᳓ ते व᳓यो दधौ त्व᳓ष्टुर्वायोः᳓ प᳓र्यात्मा᳓ त आ᳓भृतः।  
+अन्त᳓रिक्षे म᳓नसा त्वा जुहोमि बर्हि᳓ष्टे द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/10_bRhaspatiH_savitA.md">
@@ -683,8 +683,8 @@ Brihaspati, Savitar gave thee vital vigour: thy breath was brought from Tvashtar
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/11_ya_indra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य इन्द्र॑ इव दे॒वेषु॒ गोष्वे॑ति वि॒वाव॑दत्।  
-तस्य॑ ऋष॒भस्याङ्गा॑नि ब्र॒ह्मा सं स्तौ॑तु भ॒द्रया॑ ॥
+य᳓ इ᳓न्द्र इव देवे᳓षु गो᳓ष्वेति विवा᳓वदत्।  
+त᳓स्य ऋषभ᳓स्या᳓ङ्गानि ब्रह्मा᳓ सं᳓ स्तौतु भद्र᳓या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/11_ya_indra.md">
@@ -750,8 +750,8 @@ Let the priest joyfully extol the limbs and members of the Bull Who moved and ro
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/12_pArshve_AstAmanumatyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पा॒र्श्वे आ॑स्ता॒मनु॑मत्या॒ भग॑स्यास्तामनू॒वृजौ॑।  
-अ॑ष्ठी॒वन्ता॑वब्रवीन्मि॒त्रो ममै॒तौ केव॑ला॒विति॑ ॥
+पार्श्वे᳓ आस्ताम᳓नुमत्या भ᳓गस्यास्तामनूवृ᳓जौ।  
+अ᳙ष्ठीव᳓न्तावब्रवीन्मित्रो᳓ म᳓मैतौ᳓ के᳓वलावि᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/12_pArshve_AstAmanumatyA.md">
@@ -814,8 +814,8 @@ The sides must be Anumati's, and both rib-pieces Bhaga's share, Of the knee-bone
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/13_bhasadAsIdAdityAnAM_shroNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॒सदा॑सीदादि॒त्यानां॒ श्रोणी॑ आस्तां॒ बृह॒स्पतेः॑।  
-पुच्छं॒ वात॑स्य दे॒वस्य॒ तेन॑ धूनो॒त्योष॑धीः ॥
+भस᳓दासीदादित्या᳓नां श्रो᳓णी आस्तां बृ᳓हस्प᳓तेः।  
+पु᳓च्छं वा᳓तस्य देव᳓स्य ते᳓न धूनोत्यो᳓षधीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/13_bhasadAsIdAdityAnAM_shroNI.md">
@@ -876,8 +876,8 @@ The Adityas claim the hinder parts, the loins must be Brihas- pati's. Vata, the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/14_gudA_AsantsinIvAlyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गुदा॑ आसन्त्सिनीवा॒ल्याः सू॒र्याया॒स्त्वच॑मब्रुवन्।  
-उ॑त्था॒तुर॑ब्रुवन्प॒द ऋ॑ष॒भं यदक॑ल्पयन् ॥
+गु᳓दा आसन्त्सिनीवाल्याः᳓ सूर्या᳓यास्त्व᳓चमब्रुवन्।  
+उ᳙त्थातु᳓रब्रुवन्पद᳓ ऋषभं᳓ य᳓द᳓कल्पयन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/14_gudA_AsantsinIvAlyAH.md">
@@ -934,8 +934,8 @@ To Surya they assigned the skin, to Sinivali inward parts. The Slaughterer hath 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/15_kroDa_AsIjjAmishaMsasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्रो॒ड आ॑सीज्जामिशं॒सस्य॒ सोम॑स्य॒ क॒लशो॑ धृ॒तः।  
-दे॒वाः सं॒गत्य॒ यत्सर्व॑ ऋष॒भं व्यक॑ल्पयन् ॥
+क्रोड᳓ आसीज्जामिशंस᳓स्य सो᳓मस्य कल᳓शो धृतः᳓।  
+देवाः᳓ संग᳓त्य य᳓त्स᳓र्व ऋषभं᳓ व्य᳓कल्पयन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/15_kroDa_AsIjjAmishaMsasya.md">
@@ -999,8 +999,8 @@ They made a jest of kindred's curse: a jar of Soma juice was set, What time the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/16_te_kuShThikAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ते कुष्ठि॑काः स॒रमा॑यै कु॒र्मेभ्यो॑ अदधुः श॒फान्।  
-ऊब॑ध्यमस्य की॒टेभ्यः॑ श्वव॒र्तेभ्यो॑ अधारयन् ॥
+ते᳓ कु᳓ष्ठिकाः सर᳓मायै कुर्मे᳓भ्यो अदधुः शफा᳓न्।  
+ऊ᳓बध्यमस्य कीटे᳓भ्यः श्ववर्ते᳓भ्यो अधारयन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/16_te_kuShThikAH.md">
@@ -1070,8 +1070,8 @@ They gave the hooves to tortoises, to Sarama scraps of the feet: His undigested 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/17_shRngAbhyAM_raxa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शृङ्गा॑भ्यां॒ रक्ष॑ ऋष॒त्यव॑र्तिं हन्ति॒ चक्षु॑षा।  
-शृ॒णोति॑ भ॒द्रं कर्णा॑भ्यां॒ गवां॒ यः पति॑र॒घ्न्यः ॥
+शृ᳓ङ्गाभ्यां र᳓क्ष ऋषत्य᳓वर्तिं हन्ति च᳓क्षुषा।  
+शृणो᳓ति भद्रं᳓ क᳓र्णाभ्यां ग᳓वां यः᳓ प᳓तिरघ्न्यः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/17_shRngAbhyAM_raxa.md">
@@ -1135,8 +1135,8 @@ That Bull, the husband of the kine, pierces the demons with his horns, Banishes 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/18_shatayAjaM_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॑त॒याजं॒ स य॑जते॒ नैनं॑ दुन्वन्त्य॒ग्नयः॑।  
-जिन्व॑न्ति॒ विश्वे॒ तं दे॒वा यो ब्रा॑ह्म॒ण ऋ॑ष॒भमा॑जु॒होति॑ ॥
+श᳙तया᳓जं स᳓ यजते नै᳓नं दुन्वन्त्यग्न᳓यः।  
+जि᳓न्वन्ति वि᳓श्वे तं᳓ देवा᳓ यो᳓ ब्राह्मण᳓ ऋषभ᳓माजुहो᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/18_shatayAjaM_sa.md">
@@ -1198,8 +1198,8 @@ With hundred sacrifices he worships: the fires consume him not: All Gods promote
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/19_brAhmaNebhya_RShabham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रा॑ह्म॒णेभ्य॑ ऋष॒भं द॒त्त्वा वरी॑यः कृणुते॒ मनः॑।  
-पुष्टिं॒ सो अ॒घ्न्यानां॒ स्वे गो॒ष्ठेऽव॑ पश्यते ॥
+ब्रा᳙ह्मणे᳓भ्य ऋषभं᳓ दत्त्वा᳓ व᳓रीयः कृणुते म᳓नः।  
+पु᳓ष्टिं सो᳓ अघ्न्या᳓नां स्वे᳓ गोष्ठे᳓ऽव पश्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/19_brAhmaNebhya_RShabham.md">
@@ -1267,8 +1267,8 @@ He who hath given away the Bull to Brahmans frees and cheers his soul. In his ow
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/20_gAvaH_santu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गावः॑ सन्तु प्र॒जाः स॒न्त्वथो॑ अस्तु तनूब॒लम्।  
-तत्सर्व॒मनु॑ मन्यन्तां दे॒वा ऋ॑षभदा॒यिने॑ ॥
+गा᳓वः सन्तु प्रजाः᳓ सन्त्व᳓थो अस्तु तनूबल᳓म्।  
+त᳓त्स᳓र्वम᳓नु मन्यन्तां देवा᳓ ऋषभदायि᳓ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/20_gAvaH_santu.md">
@@ -1329,8 +1329,8 @@ Let there be cattle, let there be bodily strength and progeny: All this may the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/21_ayaM_pipAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं पि॑पान॒ इन्द्र॒ इद्र॒यिं द॑धातु चेत॒नीम्।  
-अ॒यं धे॒नुं सु॒दुघां॒ नित्य॑वत्सां॒ वशं॑ दुहां विप॒श्चितं॑ प॒रो दि॒वः ॥
+अयं᳓ पिपान इ᳓न्द्र इ᳓द्रयिं᳓ दधातु चेतनी᳓म्।  
+अयं᳓ धेनुं᳓ सुदु᳓घां नि᳓त्यवत्सां व᳓शं दुहां विपश्चि᳓तं परो᳓ दिवः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/21_ayaM_pipAna.md">
@@ -1395,8 +1395,8 @@ Indra here verily hath rejoiced: let him bestow conspicuous wealth. May he draw 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/22_pishangarUpo_nabhaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि॒शङ्ग॑रूपो नभ॒सो व॑यो॒धा ऐ॒न्द्रः शुष्मो॑ वि॒श्वरू॑पो न॒ आग॑न्।  
-आयु॑र॒स्मभ्यं॒ दध॑त्प्र॒जां च॑ रा॒यश्च॒ पोषै॑र॒भि नः॑ सचताम् ॥
+पिश᳓ङ्गरूपो नभसो᳓ वयोधा᳓ ऐन्द्रः᳓ शु᳓ष्मो विश्व᳓रूपो न आ᳓गन्।  
+आ᳓युरस्म᳓भ्यं द᳓धत्प्रजां᳓ च राय᳓श्च पो᳓षैरभि᳓ नः सचताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/22_pishangarUpo_nabhaso.md">
@@ -1466,8 +1466,8 @@ With close connexion mingle with the cows in this our cattle- pen: Mingle, the B
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/23_upehopaparchanAsmingoShTha_upa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उपे॒होप॑पर्चना॒स्मिन्गो॒ष्ठ उप॑ पृञ्च नः।  
-उप॑ ऋष॒भस्य॒ यद्रेत॒ उपे॑न्द्र॒ तव॑ वी॒र्य᳡म् ॥
+उ᳓पेहो᳓पपर्चनास्मि᳓न्गोष्ठ᳓ उ᳓प पृञ्च नः।  
+उ᳓प ऋषभ᳓स्य य᳓द्रे᳓त उ᳓पेन्द्र त᳓व वीर्य᳙म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/23_upehopaparchanAsmingoShTha_upa.md">
@@ -1535,8 +1535,8 @@ Here we restore this Bull, your youthful leader: sporting with him, go, wander a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/24_etaM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तं वो॒ युवा॑नं॒ प्रति॑ दध्मो॒ अत्र॒ तेन॒ क्रीड॑न्तीश्चरत॒ वशाँ॒ अनु॑।  
-मा नो॑ हासिष्ट ज॒नुषा॑ सुभागा रा॒यश्च॒ पोषै॑र॒भि नः॑ सचध्वम् ॥
+एतं᳓ वो यु᳓वानं प्र᳓ति दध्मो अ᳓त्र ते᳓न क्री᳓डन्तीश्चरत व᳓शाँ अ᳓नु।  
+मा᳓ नो हासिष्ट जनु᳓षा सुभागा राय᳓श्च पो᳓षैरभि᳓ नः सचध्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/24_etaM_vo.md">

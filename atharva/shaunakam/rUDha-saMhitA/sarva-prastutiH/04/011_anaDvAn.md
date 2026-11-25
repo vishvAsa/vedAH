@@ -37,8 +37,8 @@ A glorification of the sacrificial gharma or milk caldron
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/01_anaDvAndAdhAra_pRthivImuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑न॒ड्वान्दा॑धार पृथि॒वीमु॒त द्याम॑न॒ड्वान्दा॑धारो॒र्व१॒॑न्तरि॑क्षम्।  
-अ॑न॒ड्वान्दा॑धार प्र॒दिशः॒ षडु॒र्वीर॑न॒ड्वान्विश्वं॒ भुव॑न॒मा वि॑वेश ॥
+अ᳙नड्वा᳓न्दाधार पृथिवी᳓मुत᳓ द्या᳓मनड्वा᳓न्दाधारोर्व᳙न्त᳓रिक्षम्।  
+अ᳙नड्वा᳓न्दाधार प्रदि᳓शः ष᳓डुर्वी᳓रनड्वा᳓न्वि᳓श्वं भु᳓वनमा᳓ विवेश ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/011_anaDvAn/01_anaDvAndAdhAra_pRthivImuta.md">
@@ -114,8 +114,8 @@ The Bull supports the wide-spread earth and heaven, the Bull supports the spacio
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/02_anaDvAnindraH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑न॒ड्वानिन्द्रः॒ स प॒शुभ्यो॒ वि च॑ष्टे त्र॒यां छ॒क्रो वि मि॑मीते॒ अध्व॑नः।  
-भू॒तं भ॑वि॒ष्यद्भुव॑ना॒ दुहा॑नः॒ सर्वा॑ दे॒वानां॑ चरति व्र॒तानि॑ ॥
+अ᳙नड्वा᳓नि᳓न्द्रः स᳓ पशु᳓भ्यो वि᳓ चष्टे त्रयां᳓ छक्रो᳓ वि᳓ मिमीते अ᳓ध्वनः।  
+भूतं᳓ भविष्य᳓द्भु᳓वना दु᳓हानः स᳓र्वा देवा᳓नां चरति व्रता᳓नि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/011_anaDvAn/02_anaDvAnindraH_sa.md">
@@ -187,8 +187,8 @@ The Bull is Indra o'er the beasts he watches. He, Sakra measures out three sever
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/03_indro_jAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ जा॒तो म॑नु॒ष्ये॑ष्व॒न्तर्घ॒र्मस्त॒प्तश्च॑रति॒ शोशु॑चानः।  
-सु॑प्र॒जाः सन्त्स उ॑दा॒रे न स॑र्ष॒द्यो नाश्नी॒याद॑न॒डुहो॑ विजा॒नन् ॥
+इ᳓न्द्रो जातो᳓ मनुष्ये᳙ष्वन्त᳓र्घर्म᳓स्तप्त᳓श्चरति शो᳓शुचानः।  
+सु᳙प्रजाः᳓ स᳓न्त्स᳓ उदारे᳓ न᳓ सर्षद्यो᳓ ना᳓श्नीया᳓दनडु᳓हो विजान᳓न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/011_anaDvAn/03_indro_jAto.md">
@@ -269,8 +269,8 @@ Being produced among mankind as Indra, the Caldron works heated and brightly glo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/04_anaDvAnduhe_sukRtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑न॒ड्वान्दु॑हे सुकृ॒तस्य॑ लो॒क एनं॑ प्याययति॒ पव॑मानः पु॒रस्ता॑त्।  
-प॒र्जन्यो॒ धारा॑ म॒रुत॒ ऊधो॑ अस्य य॒ज्ञः पयो॒ दक्षि॑णा॒ दोहो॑ अस्य ॥
+अ᳙नड्वा᳓न्दुहे सुकृत᳓स्य लोक᳓ ए᳓नं प्याययति प᳓वमानः पुर᳓स्तात्।  
+पर्ज᳓न्यो धा᳓रा मरु᳓त ऊ᳓धो अस्य यज्ञः᳓ प᳓यो द᳓क्षिणा दो᳓हो अस्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/011_anaDvAn/04_anaDvAnduhe_sukRtasya.md">
@@ -339,8 +339,8 @@ The Ox pours milk out in the world of virtue: in earliest time, he, Pavam5na, sw
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/05_yasya_neshe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॑ नेशे य॒ज्ञप॑ति॒र्न य॒ज्ञो नास्य॑ दातेशे॒ न प्र॑तिग्रही॒ता।  
-यो वि॑श्व॒जिद्वि॑श्व॒भृद्वि॒श्वक॑र्मा घ॒र्मं नो॑ ब्रूत यत॒मश्चतु॑ष्पात् ॥
+य᳓स्य नेशे यज्ञ᳓पतिर्न᳓ यज्ञो᳓ ना᳓स्य दातेशे न᳓ प्रतिग्रहीता᳓।  
+यो᳓ विश्वजि᳓द्विश्वभृ᳓द्विश्व᳓कर्मा घर्मं᳓ नो ब्रूत यतम᳓श्च᳓तुष्पात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/011_anaDvAn/05_yasya_neshe.md">
@@ -409,8 +409,8 @@ That which not sacrifice nor sacrificer, not giver nor receiver rules and govern
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/06_yena_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ दे॒वाः स्व॑रारुरु॒हुर्हि॒त्वा शरी॑रम॒मृत॑स्य॒ नाभि॑म्।  
-तेन॑ गेष्म सुकृ॒तस्य॑ लो॒कं घ॒र्मस्य॑ व्र॒तेन॒ तप॑सा यश॒स्यवः॑ ॥
+ये᳓न देवाः᳓ स्वरारुरुहु᳓र्हित्वा᳓ श᳓रीरममृ᳓तस्य ना᳓भिम्।  
+ते᳓न गेष्म सुकृत᳓स्य लोकं᳓ घर्म᳓स्य व्रते᳓न त᳓पसा यशस्य᳓वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/011_anaDvAn/06_yena_devAH.md">
@@ -483,9 +483,9 @@ May we, fame-seekers, reach the world of virtue by service of the Gharma and thr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/07_indro_rUpeNAgnirvahena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ रू॒पेणा॒ग्निर्वहे॑न प्र॒जाप॑तिः परमे॒ष्ठी वि॒राट्।  
-वि॒श्वान॑रे अक्रमत वैश्वान॒रे अ॑क्रमतान॒डुह्य॑क्रमत।  
-सोऽदृं॑हयत॒ सोऽधा॑रयत ॥
+इ᳓न्द्रो रूपे᳓णाग्नि᳓र्व᳓हेन प्रजा᳓पतिः परमेष्ठी᳓ विरा᳓ट्।  
+विश्वा᳓नरे अक्रमत वैश्वानरे᳓ अक्रमतानडु᳓ह्यक्रमत।  
+सो᳓ऽदृंहयत सो᳓ऽधारयत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/011_anaDvAn/07_indro_rUpeNAgnirvahena.md">
@@ -569,8 +569,8 @@ Prajapati, supreme and sovran ruler, Indra by form and by his shoulder Agni, Cam
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/08_madhyametadanaDuho_yatraiSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मध्य॑मे॒तद॑न॒डुहो॒ यत्रै॒ष वह॒ आहि॑तः।  
-ए॒ताव॑दस्य प्रा॒चीनं॒ यावा॑न्प्र॒त्यङ्स॒माहि॑तः ॥
+म᳓ध्यमेत᳓दनडु᳓हो य᳓त्रैष᳓ व᳓ह आ᳓हितः।  
+एता᳓वदस्य प्राची᳓नं या᳓वान्प्रत्य᳓ङ्समा᳓हितः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/011_anaDvAn/08_madhyametadanaDuho_yatraiSha.md">
@@ -640,8 +640,8 @@ The middle of the Bullock's neck, there where the shoulder-bar is placed, Extend
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/09_yo_vedAnaDuho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो वेदा॑न॒डुहो॒ दोहा॑न्स॒प्तानु॑पदस्वतः।  
-प्र॒जां च॑ लो॒कं चा॑प्नोति॒ तथा॑ सप्तऋ॒षयो॑ विदुः ॥
+यो᳓ वे᳓दानडु᳓हो दो᳓हान्सप्ता᳓नुपदस्वतः।  
+प्रजां᳓ च लोकं᳓ चाप्नोति त᳓था सप्तऋष᳓यो विदुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/011_anaDvAn/09_yo_vedAnaDuho.md">
@@ -710,8 +710,8 @@ He whosoever knows the seven exhaustless pourings of the Ox, Wins himself offspr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/10_padbhiH_sedimavakrAmannirAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒द्भिः से॒दिम॑व॒क्राम॒न्निरां॒ जङ्घा॑भिरुत्खि॒दन्।  
-श्रमे॑णान॒ड्वान्की॒लालं॑ की॒नाश॑श्चा॒भि ग॑छतः ॥
+पद्भिः᳓ सेदि᳓मवक्रा᳓मन्नि᳓रां ज᳓ङ्घाभिरुत्खिद᳓न्।  
+श्र᳓मेणानड्वा᳓न्कीला᳓लं कीना᳓शश्चाभि᳓ गछतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/011_anaDvAn/10_padbhiH_sedimavakrAmannirAm.md">
@@ -782,8 +782,8 @@ With feet subduing weariness, with legs extracting freshening draughts, Through 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/11_dvAdasha_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्वाद॑श॒ वा ए॒ता रात्री॒र्व्रत्या॑ आहुः प्र॒जाप॑तेः।  
-तत्रोप॒ ब्रह्म॒ यो वेद॒ तद्वा अ॑न॒डुहो॑ व्र॒तम् ॥
+द्वा᳓दश वा᳓ एता᳓ रा᳓त्रीर्व्र᳓त्या आहुः प्रजा᳓पतेः।  
+त᳓त्रो᳓प ब्र᳓ह्म यो᳓ वे᳓द त᳓द्वा᳓ अनडु᳓हो व्रत᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/011_anaDvAn/11_dvAdasha_vA.md">
@@ -853,8 +853,8 @@ Assigned are these twelve nights, they say, as holy to Prajapati: Whoever knows 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/12_duhe_sAyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दु॒हे सा॒यं दु॒हे प्रा॒तर्दु॒हे म॒ध्यंदि॑नं॒ परि॑।  
-दोहा॒ ये अ॑स्य सं॒यन्ति॒ तान्वि॒द्मानु॑पदस्वतः ॥
+दुहे᳓ सायं᳓ दुहे᳓ प्रात᳓र्दुहे᳓ मध्यं᳓दिनं प᳓रि।  
+दो᳓हा ये᳓ अस्य संय᳓न्ति ता᳓न्विद्मा᳓नुपदस्वतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/011_anaDvAn/12_duhe_sAyam.md">

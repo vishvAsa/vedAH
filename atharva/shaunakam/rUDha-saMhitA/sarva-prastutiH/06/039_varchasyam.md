@@ -38,8 +38,8 @@ A priest's prayer for power and glory
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/01_yasho_havirvardhatAmindrajUtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यशो॑ ह॒विर्व॑र्धता॒मिन्द्र॑जूतं स॒हस्र॑वीर्यं॒ सुभृ॑तं॒ सह॑स्कृतम्।  
-प्र॒सर्स्रा॑ण॒मनु॑ दी॒र्घाय॒ चक्ष॑से ह॒विष्म॑न्तं मा वर्धय ज्ये॒ष्ठता॑तये ॥
+य᳓शो हवि᳓र्वर्धतामि᳓न्द्रजूतं सह᳓स्रवीर्यं सु᳓भृतं स᳓हस्कृतम्।  
+प्रस᳓र्स्राणम᳓नु दीर्घा᳓य च᳓क्षसे हवि᳓ष्मन्तं मा वर्धय ज्येष्ठ᳓तातये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/039_varchasyam/01_yasho_havirvardhatAmindrajUtam.md">
@@ -114,8 +114,8 @@ Let sacrifice, like fame, thrive sped by Indra, inspired, well- ordered, with a 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/02_achChA_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अच्छा॑ न॒ इन्द्रं॑ य॒शसं॒ यशो॑भिर्यश॒स्विनं॑ नमसा॒ना वि॑धेम।  
-स नो॑ रास्व रा॒ष्ट्रमिन्द्र॑जूतं॒ तस्य॑ ते रा॒तौ य॒शसः॑ स्याम ॥
+अ᳓च्छा न इ᳓न्द्रं यश᳓सं य᳓शोभिर्यशस्वि᳓नं नमसाना᳓ विधेम।  
+स᳓ नो रास्व राष्ट्र᳓मि᳓न्द्रजूतं त᳓स्य ते रातौ᳓ यश᳓सः स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/039_varchasyam/02_achChA_na.md">
@@ -180,8 +180,8 @@ We will pay sacrifice and serve with worship our glorious Indra, famous for his 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/03_yashA_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत।  
-य॒शा विश्व॑स्य भू॒त्स्या॒हम॑स्मि य॒शस्त॑मः ॥
+यशा᳓ इ᳓न्द्रो यशा᳓ अग्नि᳓र्यशाः᳓ सो᳓मो अजायत।  
+यशा᳓ वि᳓श्वस्य भूत्स्याह᳓मस्मि यश᳓स्तमः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/039_varchasyam/03_yashA_indro.md">

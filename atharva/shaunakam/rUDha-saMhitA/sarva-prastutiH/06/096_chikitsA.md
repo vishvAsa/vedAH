@@ -33,8 +33,8 @@ Translated: Ludwig, p. 506; Grill, 38, 168; Griffith, i. 297; Bloomfield, 44, 50
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/096_chikitsA/01_yA_oShadhayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या ओष॑धयः॒ सोम॑राज्ञीर्ब॒ह्वीः श॒तवि॑चक्षणाः।  
-बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥
+या᳓ ओ᳓षधयः सो᳓मराज्ञीर्बह्वीः᳓ शत᳓विचक्षणाः।  
+बृ᳓हस्प᳓तिप्रसूतास्ता᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/096_chikitsA/01_yA_oShadhayaH.md">
@@ -102,8 +102,8 @@ The many plants of hundred shapes and forms that Soma rules as King, Commanded b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/096_chikitsA/02_munchantu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॒ञ्चन्तु॑ मा शप॒थ्या॒३॒॑दथो॑ वरु॒ण्या᳡दु॒त।  
-अथो॑ य॒मस्य॒ पड्वी॑शा॒द्विश्व॑स्माद्देवकिल्बि॒षात् ॥
+मुञ्च᳓न्तु मा शपथ्या᳙द᳓थो वरुण्या᳙दुत᳓।  
+अ᳓थो यम᳓स्य प᳓ड्वीशाद्वि᳓श्वस्माद्देवकिल्बिषा᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/096_chikitsA/02_munchantu_mA.md">
@@ -171,8 +171,8 @@ Let them release me from the curse and from the noose of Varupa, Free me from Ya
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/096_chikitsA/03_yachchaxuShA_manasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यच्चक्षु॑षा॒ मन॑सा॒ यच्च॑ वा॒चोपा॑रि॒म जाग्र॑तो॒ यत्स्व॒पन्तः॑।  
-सोम॒स्तानि॑ स्व॒धया॑ नः पुनातु ॥
+य᳓च्च᳓क्षुषा म᳓नसा य᳓च्च वाचो᳓पारिम᳓ जा᳓ग्रतो य᳓त्स्वप᳓न्तः।  
+सो᳓मस्ता᳓नि स्वध᳓या नः पुनातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/096_chikitsA/03_yachchaxuShA_manasA.md">

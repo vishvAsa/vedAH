@@ -33,8 +33,8 @@ Translated: Ludwig, p. 512; Zimmer, p. 393; Grill, 21, 170; Griffith, i. 306; Bl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/111_unmattatAmochanam/01_imaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मं मे॑ अग्ने॒ पुरु॑षं मुमुग्ध्य॒यं यो ब॒द्धः सुय॑तो॒ लाल॑पीति।  
-अतोऽधि॑ ते कृणवद्भाग॒धेयं॑ य॒दानु॑न्मदि॒तोऽस॑ति ॥
+इमं᳓ मे अग्ने पु᳓रुषं मुमुग्ध्ययं᳓ यो᳓ बद्धः᳓ सु᳓यतो ला᳓लपीति।  
+अ᳓तो᳓ऽधि ते कृणवद्भागधे᳓यं यदा᳓नुन्मदितो᳓ऽसति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/111_unmattatAmochanam/01_imaM_me.md">
@@ -100,8 +100,8 @@ Unbind and loose for me this man, O Agni, who bound and well restrained is chatt
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/111_unmattatAmochanam/02_agniShTe_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निष्टे॒ नि श॑मयतु॒ यदि॑ ते॒ मन॒ उद्यु॑तम्।  
-कृ॑णोमि वि॒द्वान्भे॑ष॒जं यथानु॑न्मदि॒तोऽस॑सि ॥
+अग्नि᳓ष्टे नि᳓ शमयतु य᳓दि ते म᳓न उ᳓द्युतम्।  
+कृ᳙णोमि विद्वा᳓न्भेषजं᳓ य᳓था᳓नुन्मदितो᳓ऽससि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/111_unmattatAmochanam/02_agniShTe_ni.md">
@@ -163,8 +163,8 @@ Let Agni gently soothe thy mind when fierce excitement troubles it. Well-skilled
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/111_unmattatAmochanam/03_devainasAdunmaditamunmattaM_raxasaspari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॑वैन॒सादुन्म॑दित॒मुन्म॑त्तं॒ रक्ष॑स॒स्परि॑।  
-कृ॑णोमि वि॒द्वान्भे॑ष॒जं य॒दानु॑न्मदि॒तोऽस॑ति ॥
+दे᳙वैनसा᳓दु᳓न्मदितमु᳓न्मत्तं र᳓क्षसस्प᳓रि।  
+कृ᳙णोमि विद्वा᳓न्भेषजं᳓ यदा᳓नुन्मदितो᳓ऽसति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/111_unmattatAmochanam/03_devainasAdunmaditamunmattaM_raxasaspari.md">
@@ -227,8 +227,8 @@ Insane through sin against the Gods, or maddened by a demon's power-- Well-skill
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/111_unmattatAmochanam/04_punastvA_durapsarasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुन॑स्त्वा दुरप्स॒रसः॒ पुन॒रिन्द्रः॒ पुन॒र्भगः॑।  
-पुन॑स्त्वा दु॒र्विश्वे॑ दे॒वा यथा॑नुन्मदि॒तोऽस॑सि ॥
+पु᳓नस्त्वा दुरप्सर᳓सः पु᳓नरि᳓न्द्रः पु᳓नर्भ᳓गः।  
+पु᳓नस्त्वा दुर्वि᳓श्वे देवा᳓ य᳓थानुन्मदितो᳓ऽससि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/111_unmattatAmochanam/04_punastvA_durapsarasaH.md">

@@ -33,8 +33,8 @@ A charm against jealousy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/045_IrShyAnivAraNam/01_janAdvishvajanInAtsindhutasparyAbhRtam_dUrAttvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जना॑द्विश्वज॒नीना॑त्सिन्धु॒तस्पर्याभृ॑तम्।  
-दू॒रात्त्वा॑ मन्य॒ उद्भृ॑तमी॒र्ष्याया॒ नाम॑ भेष॒जम् ॥
+ज᳓नाद्विश्वजनी᳓नात्सिन्धुत᳓स्प᳓र्या᳓भृतम्।  
+दूरा᳓त्त्वा मन्य उ᳓द्भृतमीर्ष्या᳓या ना᳓म भेषज᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/045_IrShyAnivAraNam/01_janAdvishvajanInAtsindhutasparyAbhRtam_dUrAttvA.md">
@@ -126,8 +126,8 @@ Brought hitherward from Sindhu, from a folk of every mingled race, Fetched from 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/045_IrShyAnivAraNam/02_agnerivAsya_dahato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नेरि॑वास्य॒ दह॑तो दा॒वस्य॒ दह॑तः॒ पृथ॑क्।  
-ए॒तामे॒तस्ये॒र्ष्यामु॒द्नाग्निमि॑व शमय ॥
+अग्ने᳓रिवास्य द᳓हतो दाव᳓स्य द᳓हतः पृ᳓थक्।  
+एता᳓मेत᳓स्येर्ष्या᳓मुद्ना᳓ग्नि᳓मिव शमय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/045_IrShyAnivAraNam/02_agnerivAsya_dahato.md">

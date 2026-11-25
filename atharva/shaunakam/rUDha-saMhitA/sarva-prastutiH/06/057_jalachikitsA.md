@@ -37,8 +37,8 @@ A charm for a wound or bruise
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/01_idamidvA_u.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दमिद्वा उ॑ भेष॒जमि॒दं रु॒द्रस्य॑ भेष॒जम्।  
-येनेषु॒मेक॑तेजनां श॒तश॑ल्यामप॒ब्रव॑त् ॥
+इद᳓मि᳓द्वा᳓ उ भेषज᳓मिदं᳓ रुद्र᳓स्य भेषज᳓म्।  
+ये᳓ने᳓षुमे᳓कतेजनां शत᳓शल्यामपब्र᳓वत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/057_jalachikitsA/01_idamidvA_u.md">
@@ -102,8 +102,8 @@ This is a medicine indeed, Rudra's own medicine is this, Wherewith he warns the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जा॑ला॒षेणा॒भि षि॑ञ्चत जाला॒षेणोप॑ सिञ्चत।  
-जा॑ला॒षमु॒ग्रं भे॑ष॒जं तेन॑ नो मृड जी॒वसे॑ ॥
+जा᳙लाषे᳓णाभि᳓ षिञ्चत जालाषे᳓णो᳓प सिञ्चत।  
+जा᳙लाष᳓मुग्रं᳓ भेषजं᳓ ते᳓न नो मृड जीव᳓से ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
@@ -168,8 +168,8 @@ Besprinkle it with anodyne, bedew it with relieving balm: Strong, soothing is th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/03_shaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं च॑ नो॒ मय॑श्च नो॒ मा च॑ नः॒ किं च॒नाम॑मत्।  
-क्ष॒मा रपो॒ विश्वं॑ नो अस्तु भेष॒जं सर्वं॑ नो अस्तु भेष॒जम् ॥
+शं᳓ च नो म᳓यश्च नो मा᳓ च नः किं᳓ चना᳓ममत्।  
+क्षमा᳓ र᳓पो वि᳓श्वं नो अस्तु भेषजं᳓ स᳓र्वं नो अस्तु भेषज᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/057_jalachikitsA/03_shaM_cha.md">

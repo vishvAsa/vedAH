@@ -38,8 +38,8 @@ To Agni Vaisvanara
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/01_vaishvAnaro_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॑श्वान॒रो न॑ ऊ॒तय॒ आ प्र या॑तु परा॒वतः॑।  
-अ॒ग्निर्नः॑ सुष्टु॒तीरुप॑ ॥
+वै᳙श्वानरो᳓ न ऊत᳓य आ᳓ प्र᳓ यातु पराव᳓तः।  
+अग्नि᳓र्नः सुष्टुती᳓रु᳓प ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/035_vaishvAnaraH/01_vaishvAnaro_na.md">
@@ -106,8 +106,8 @@ Forth from the distance far away Vaisvanara come to succour us! Agni approach ou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/02_vaishvAnaro_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॑श्वान॒रो न॒ आग॑मदि॒मं य॒ज्ञं स॒जूरुप॑।  
-अ॒ग्निरु॒क्थेष्वंह॑सु ॥
+वै᳙श्वानरो᳓ न आ᳓गमदिमं᳓ यज्ञं᳓ सजू᳓रु᳓प।  
+अग्नि᳓रुक्थे᳓ष्वं᳓हसु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/035_vaishvAnaraH/02_vaishvAnaro_na.md">
@@ -177,8 +177,8 @@ Vaisvanara with friendly thoughts hath come to this our sacrifice, Agni who save
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/03_vaishvAnaro-ngirasAM_stomamuktham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॑श्वान॒रोऽङ्गि॑रसां॒ स्तोम॑मु॒क्थं च॑ चाक्लृपत्।  
-एषु॑ द्यु॒म्नं स्व᳡र्यमत् ॥
+वै᳙श्वानरो᳓ऽङ्गिरसां स्तो᳓ममुक्थं᳓ च चाक्लृपत्।  
+ए᳓षु द्युम्नं᳓ स्व᳙र्यमत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/035_vaishvAnaraH/03_vaishvAnaro-ngirasAM_stomamuktham.md">

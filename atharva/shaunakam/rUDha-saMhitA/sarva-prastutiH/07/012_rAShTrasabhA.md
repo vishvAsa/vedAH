@@ -37,8 +37,8 @@ A prayer for influence at deliberative and religious meetings
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/01_sabhA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒भा च॑ मा॒ समि॑तिश्चावतां प्र॒जाप॑तेर्दुहि॒तरौ॑ संविदा॒ने।  
-येना॑ सं॒गच्छा॒ उप॑ मा॒ स शि॑क्षा॒च्चारु॑ वदानि पितरः॒ संग॑तेषु ॥
+सभा᳓ च मा स᳓मितिश्चावतां प्रजा᳓पतेर्दुहित᳓रौ संविदाने᳓।  
+ये᳓ना संग᳓च्छा उ᳓प मा स᳓ शिक्षाच्चा᳓रु वदानि पितरः सं᳓गतेषु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/01_sabhA_cha.md">
@@ -109,8 +109,8 @@ In concord may Prajapati's two daughters, Gathering and As- sembly, both protect
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/02_vidma_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्म ते॑ सभे॒ नाम॑ न॒रिष्टा॒ नाम॒ वा अ॑सि।  
-ये ते॒ के च॑ सभा॒सद॑स्ते मे सन्तु॒ सवा॑चसः ॥
+विद्म᳓ ते सभे ना᳓म नरि᳓ष्टा ना᳓म वा᳓ असि।  
+ये᳓ ते के᳓ च सभास᳓दस्ते मे सन्तु स᳓वाचसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/02_vidma_te.md">
@@ -175,8 +175,8 @@ We know thy name, O Conference: thy name is interchange of talk. Let all the com
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/03_eShAmahaM_samAsInAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒षाम॒हं स॒मासी॑नानां॒ वर्चो॑ वि॒ज्ञान॒मा द॑दे।  
-अ॒स्याः सर्व॑स्याः सं॒सदो॒ मामि॑न्द्र भ॒गिनं॑ कृणु ॥
+एषा᳓महं᳓ समा᳓सीनानां व᳓र्चो विज्ञा᳓नमा᳓ ददे।  
+अस्याः᳓ स᳓र्वस्याः संस᳓दो मा᳓मिन्द्र भगि᳓नं कृणु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/03_eShAmahaM_samAsInAnAm.md">
@@ -237,8 +237,8 @@ Of these men seated here I make the splendour and the lore mine own. Indra, make
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/04_yadvo_manaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्वो॒ मनः॒ परा॑गतं॒ यद्ब॒द्धमि॒ह वे॒ह वा॑।  
-तद्व॒ आ व॑र्तयामसि॒ मयि॑ वो रमतां॒ मनः॑ ॥
+य᳓द्वो म᳓नः प᳓रागतं य᳓द्बद्ध᳓मिह᳓ वेह᳓ वा।  
+त᳓द्व आ᳓ वर्तयामसि म᳓यि वो रमतां म᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/04_yadvo_manaH.md">

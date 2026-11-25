@@ -38,14 +38,14 @@ A glorification of vak or speech
 ## ०१ अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/01_ahaM_rudrebhirvasubhishcharAmyahamAdityairuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/01_ahaM_rudrebhirvasubhishcharAmyahamAdityairuta.md">
-<details open><summary><h5>०१ अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/01_ahaM_rudrebhirvasubhishcharAmyahamAdityairuta.md">
+<details open><summary><h2>०१ अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत ...{Loading}...</h2></summary>
 
 
-अ॒हं रु॒द्रेभि॒र् वसु॑भिश् चराम्य्  
-अ॒हम् आ॑दि॒त्यैर् उ॒त वि॒श्वदे॑वैः ।  
-अ॒हं मि॒त्रावरु॑णो॒भा+++(←"देवताद्वन्द्वे च।")+++ बि॑भर्म्य्  
-अ॒हम् इ॑न्द्रा॒ग्नी अ॒हम् अ॒श्विनो॒भा ॥ १॥
+अहं᳓ रुद्रे᳓भिर् व᳓सुभिश् **चराम्य्**  
+अह᳓म् आदित्यै᳓र् उत᳓ विश्व᳓देवैः ।  
+अहं᳓ मित्रा᳓व᳓रुणोभा᳓+++(←"देवताद्वन्द्वे च।")+++ **बिभर्म्य्**  
+अह᳓म् इन्द्राग्नी᳓ अह᳓म् अश्वि᳓नोभा᳓ ॥ १॥
 
 </details>
 </div>
@@ -110,14 +110,14 @@ I travel with the Rudras and the Vasus, with the Adityas and All-Gods I wander. 
 ## ०२ अहं राष्ट्री
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/02_ahaM_rAShTrI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/03_ahaM_rAShTrI.md">
-<details open><summary><h5>०३ अहं राष्ट्री ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/03_ahaM_rAShTrI.md">
+<details open><summary><h2>०३ अहं राष्ट्री ...{Loading}...</h2></summary>
 
 
-अ॒हं राष्ट्री॑+++(=राज्ञी)+++ सं॒गम॑नी॒ वसू॑नां  
-चिकि॒तुषी॑ +++(=ज्ञात्री)+++ प्रथ॒मा य॒ज्ञिया॑नाम् ।  
-तां मा॑ दे॒वा व्य॑दधुः पुरु॒त्रा +++(=बहुविधं)+++  
-भूरि॑स्थात्रां॒ भूर्या॑ वे॒शय॑न्तीम् ॥ ३॥
+अहं᳓ रा᳓ष्ट्री+++(=राज्ञी)+++ संग᳓मनी व᳓सूनां  
+चिकितु᳓षी +++(=ज्ञात्री)+++ प्रथमा᳓ यज्ञि᳓यानाम् ।  
+तां᳓ मा देवा᳓ व्य᳓दधुः पुरुत्रा᳓ +++(=बहुविधं)+++  
+भू᳓रिस्थात्रां भू᳓र्य् आ-वेश᳓यन्तीम् ॥ ३॥
 
 </details>
 </div>
@@ -183,14 +183,14 @@ I am the Queen, the gatherer-up of treasures, most thoughtful, first of those wh
 ## ०३ अहमेव स्वयमिदम्
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/03_ahameva_svayamidam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/05_ahameva_svayamidaM.md">
-<details open><summary><h5>०५ अहमेव स्वयमिदं ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/05_ahameva_svayamidaM.md">
+<details open><summary><h2>०५ अहमेव स्वयमिदं ...{Loading}...</h2></summary>
 
 
-अ॒हम् ए॒व स्व॒यम् इ॒दं व॑दामि॒  
-जुष्टं॑ दे॒वेभि॑र् उ॒त मानु॑षेभिः ।  
-यं का॒मये॒ तं-त॑म् उ॒ग्रं कृ॑णोमि॒  
-तं ब्र॒ह्माणं॒ तम् ऋषिं॒ तं सु॑मे॒धाम् ॥ ५॥
+अह᳓म् एव᳓ स्वय᳓म् इदं᳓ **वदामि**  
+**जु᳓ष्टं** देवे᳓भिर् उत᳓ मा᳓नुषेभिः ।  
+यं᳓ काम᳓ये तं᳓-तम् उग्रं᳓ **कृणोमि**  
+तं᳓ ब्रह्मा᳓णं त᳓म् ऋ᳓षिं तं᳓ सुमेधा᳓म् ॥ ५॥
 
 </details>
 </div>
@@ -255,14 +255,14 @@ I, verily, myself announce and utter the word that Gods, and men alike shall wel
 ## ०४ मया सोऽन्नमत्ति
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/04_mayA_so-nnamatti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/04_mayA_so.md">
-<details open><summary><h5>०४ मया सो ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/04_mayA_so.md">
+<details open><summary><h2>०४ मया सो ...{Loading}...</h2></summary>
 
 
-मया॒ सो अन्न॑म् अत्ति॒ यो वि॒पश्य॑ति॒  
-यः प्राणि॑ति॒ य ईं॑ शृ॒णोत्य् उ॒क्तम् ।  
-अ॒म॒न्तवो॒ मान् त उप॑क्षियन्ति +++(=उपवसन्ति)+++  
-श्रु॒धि श्रु॑त श्रद्धि॒वं ते॑ वदामि ॥ ४॥
+म᳓या सो᳓ अ᳓न्नम् **अत्ति** यो᳓ **विप᳓श्यति**  
+यः᳓ **प्रा᳓णिति** य᳓ ईं **शृणो᳓त्य्** उक्त᳓म् ।  
+**अमन्त᳓वो** मा᳓न् त᳓ **उ᳓पक्षियन्ति** +++(=उपवसन्ति)+++  
+**श्रुधि᳓** श्रुत श्रद्धिवं᳓ ते **वदामि** ॥ ४॥
 
 </details>
 </div>
@@ -339,14 +339,14 @@ Through me alone all eat the food that feeds them, each man who sees, breathes, 
 ## ०५ अहं रुद्राय
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/05_ahaM_rudrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/06_ahaM_rudrAya.md">
-<details open><summary><h5>०६ अहं रुद्राय ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/06_ahaM_rudrAya.md">
+<details open><summary><h2>०६ अहं रुद्राय ...{Loading}...</h2></summary>
 
 
-अ॒हं रु॒द्राय॒ धनु॒र् आत॑नोमि  
-ब्रह्म॒-द्विषे॒ शर॑वे॒ हन्त॒वा+++(6.1.200 इति स्वरः)+++ उ॑ ।  
-अ॒हं जना॑य स॒मदं॑ कृणोम्य्  
-अ॒हं द्यावा॑-पृथि॒वी आवि॑वेश ॥ ६॥
+अहं᳓ रुद्रा᳓य ध᳓नुर् **आ᳓तनोमि**  
+ब्रह्म-**द्वि᳓षे** श᳓रवे **ह᳓न्तवा᳓**+++(6.1.200 इति स्वरः)+++ उ ।  
+अहं᳓ ज᳓नाय सम᳓दं **कृणोम्य्**  
+अहं᳓ द्या᳓वा-पृथिवी᳓ **आ᳓विवेश** ॥ ६॥
 
 </details>
 </div>
@@ -411,15 +411,15 @@ I bend the bow for Rudra that his arrow may strike and slay the hater of devotio
 ## ०६ अहं सोममाहनसम्
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/06_ahaM_somamAhanasam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/02_ahaM_somamAhanasaM.md">
-<details open><summary><h5>०२ अहं सोममाहनसं ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/02_ahaM_somamAhanasaM.md">
+<details open><summary><h2>०२ अहं सोममाहनसं ...{Loading}...</h2></summary>
 
 
-अ॒हं **सोम॑म्** आह॒नसं॑ +++(=मर्दयित्वोत्पादितं)+++ **बिभर्म्य्**  
-अ॒हं त्वष्टा॑रम् उ॒त पू॒षणं॒ भग॑म् ।  
-अ॒हं **द॑धामि॒ द्रवि॑णं** ह॒विष्म॑ते  
-सुप्रा॒व्ये॒३॒॑+++(←अव् रक्षणतृप्त्यादौ)+++ यज॑मानाय +++(सोमं)+++ सुन्व॒ते ॥ २॥  
-+++(सु॒प्रा॒व्ये॑ - चतुर्थ्येकवचने यणि ‘उदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्य' इति सुपः स्वरितत्वम्।)+++
+अहं᳓ **सो᳓मम्** आहन᳓सं +++(=मर्दयित्वोत्पादितं)+++ **बिभर्म्य्**  
+अहं᳓ त्व᳓ष्टारम् उत᳓ पूष᳓णं भ᳓गम् ।  
+अहं᳓ **दधामि द्र᳓विणं** हवि᳓ष्मते  
+सुप्राव्ये᳙+++(←अव् रक्षणतृप्त्यादौ)+++ य᳓जमानाय +++(सोमं)+++ **सुन्वते᳓** ॥ २॥  
++++(सुप्राव्ये - चतुर्थ्येकवचने यणि ‘उदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्य' इति सुपः स्वरितत्वम्।)+++
 
 </details>
 </div>
@@ -489,14 +489,14 @@ I cherish and sustain high-swelling Soma, and Tvashtar I support, Pashan, and Bh
 ## ०७ अहं सुवे
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/07_ahaM_suve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/07_ahaM_suve.md">
-<details open><summary><h5>०७ अहं सुवे ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/07_ahaM_suve.md">
+<details open><summary><h2>०७ अहं सुवे ...{Loading}...</h2></summary>
 
 
-अ॒हं सु॑वे पि॒तर॑म् अस्य मू॒र्धन्  
-मम॒ योनि॑र् अ॒प्स्व् अ१॒॑न्तः स॑मु॒द्रे ।  
-ततो॒ विति॑ष्ठे॒ भुव॒नानु॒ विश्वो॒-  
-ऽतामूं द्यां व॒र्ष्मणो+++(=vertex)+++प॑स्पृशामि ॥ ७॥
+अहं᳓ **सुवे** पित᳓रम् अस्य मूर्ध᳓न्  
+म᳓म यो᳓निर् अप्स्व् अ᳙न्तः᳓ समुद्रे᳓ ।  
+त᳓तो **वि᳓तिष्ठे** भु᳓वना᳓नु वि᳓श्वो-  
+ऽता᳓मूं᳓ द्यां᳓ वर्ष्म᳓णा+++(=vertex)+++**+उ᳓पस्पृशामि** ॥ ७॥
 
 </details>
 </div>
@@ -563,14 +563,14 @@ On the world's summit I bring forth the Father: my home is in the waters, in the
 ## ०८ अहमेव वातइव
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/08_ahameva_vAtaiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/08_ahameva_vAta.md">
-<details open><summary><h5>०८ अहमेव वात ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/08_ahameva_vAta.md">
+<details open><summary><h2>०८ अहमेव वात ...{Loading}...</h2></summary>
 
 
-अ॒हम् ए॒व वात॑ऽइव॒ प्रवा॑म्य्  
-आ॒रभ॑माणा॒ भुव॑नानि॒ विश्वा॑ ।  
-प॒रो दि॒वा प॒र ए॒ना+++(=अनया)+++ पृ॑थि॒व्या  
-+ए॒ताव॑ती महि॒ना सम्ब॑भूव ॥ ८॥
+अह᳓म् एव᳓ वा᳓त ऽइव **प्र᳓वाम्य्**  
+**आर᳓भमाणा** भु᳓वनानि वि᳓श्वा ।  
+परो᳓ दिवा᳓ पर᳓ एना᳓+++(=अनया)+++ पृथिव्या᳓  
++एता᳓वती महिना᳓ **स᳓म्बभूव** ॥ ८॥
 
 </details>
 </div>

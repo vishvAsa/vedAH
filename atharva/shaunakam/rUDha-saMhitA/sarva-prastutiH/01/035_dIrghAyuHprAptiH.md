@@ -37,8 +37,8 @@ A charm to ensure long life and glory to the wearer of an amulet
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/01_yadAbadhnandAxAyaNA_hiraNyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदाब॑ध्नन्दाक्षाय॒णा हिर॑ण्यं श॒तानी॑काय सुमन॒स्यमा॑नाः।  
-तत्ते॑ बध्ना॒म्यायु॑षे॒ वर्च॑से॒ बला॑य दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥
+य᳓दा᳓बध्नन्दाक्षायणा᳓ हि᳓रण्यं शता᳓नीकाय सुमनस्य᳓मानाः।  
+त᳓त्ते बध्नाम्या᳓युषे व᳓र्चसे ब᳓लाय दीर्घायुत्वा᳓य शत᳓शारदाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/01_yadAbadhnandAxAyaNA_hiraNyam.md">
@@ -106,8 +106,8 @@ This Ornament of Gold which Daksha's children bound, with benevolent thoughts, o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/02_nainaM_raxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नैनं॒ रक्षां॑सि॒ न पि॑शा॒चाः स॑हन्ते दे॒वाना॒मोजः॑ प्रथम॒जं ह्ये॒३॒॑तत्।  
-यो बिभ॑र्ति दाक्षाय॒णं हिर॑ण्यं॒ स जी॒वेषु॑ कृणुते दी॒र्घमायुः॑ ॥
+नै᳓नं र᳓क्षांसि न᳓ पिशाचाः᳓ सहन्ते देवा᳓नामो᳓जः प्रथमजं᳓ ह्ये᳙त᳓त्।  
+यो᳓ बि᳓भर्ति दाक्षायणं᳓ हि᳓रण्यं स᳓ जीवे᳓षु कृणुते दीर्घ᳓मा᳓युः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/02_nainaM_raxAMsi.md">
@@ -174,8 +174,8 @@ This man no fiends may conquer, no Pisachas, for this is might of Gods, their pr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/03_apAM_tejo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पां तेजो॒ ज्योति॒रोजो॒ बलं॑ च॒ वन॒स्पती॑नामु॒त वी॒र्या॑णि।  
-इन्द्र॑ इवेन्द्रि॒याण्यधि॑ धारयामो अ॒स्मिन्तद्दक्ष॑माणो बिभर॒द्धिर॑ण्यम् ॥
+अपां᳓ ते᳓जो ज्यो᳓तिरो᳓जो ब᳓लं च व᳓नस्प᳓तीनामुत᳓ वीर्या᳙णि।  
+इ᳓न्द्र इवेन्द्रिया᳓ण्य᳓धि धारयामो अस्मि᳓न्त᳓द्द᳓क्षमाणो बिभरद्धि᳓रण्यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/03_apAM_tejo.md">
@@ -241,8 +241,8 @@ The light, the power, the lustre of the Waters, the strength of Trees, and all t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/04_samAnAM_mAsAmRtubhiShTvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-समा॑नां मा॒सामृ॒तुभि॑ष्ट्वा व॒यं सं॑वत्स॒रस्य॒ पय॑सा पिपर्मि।  
-इ॑न्द्रा॒ग्नी विश्वे॑ दे॒वास्ते ऽनु॑ मन्यन्ता॒महृ॑णीयमानाः ॥
+स᳓मानां मासा᳓मृतु᳓भिष्ट्वा वयं᳓ संवत्सर᳓स्य प᳓यसा पिपर्मि।  
+इ᳙न्द्राग्नी᳓ वि᳓श्वे देवा᳓स्ते᳓ ऽनु मन्यन्ताम᳓हृणीयमानाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/04_samAnAM_mAsAmRtubhiShTvA.md">

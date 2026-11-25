@@ -33,8 +33,8 @@ Translated: Grill, 14, 168; Griffith, i. 295; Bloomfield, 40, 507.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/01_imaM_yavamaShTAyogaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मं यव॑मष्टायो॒गैः ष॑ड्यो॒गेभि॑रचर्कृषुः।  
-तेना॑ ते त॒न्वो॒३॒॑ रपो॑ऽपा॒चीन॒मप॑ व्यये ॥
+इमं᳓ य᳓वमष्टायोगैः᳓ षड्योगे᳓भिरचर्कृषुः।  
+ते᳓ना ते तन्वो᳙ र᳓पोऽपाची᳓नम᳓प व्यये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/091_yaxmanAshanam/01_imaM_yavamaShTAyogaiH.md">
@@ -96,8 +96,8 @@ They made this barley ready with a team of eight, a team of six. With this I dri
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/02_nyagvAto_vAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न्य१॒॑ग्वातो॑ वाति॒ न्य᳡क्तपति॒ सूर्यः॑।  
-नी॒चीन॑म॒घ्न्या दु॑हे॒ न्य᳡ग्भवतु ते॒ रपः॑ ॥
+न्य᳙ग्वा᳓तो वाति न्य᳙क्तपति सू᳓र्यः।  
+नीची᳓नमघ्न्या᳓ दुहे न्य᳙ग्भवतु ते र᳓पः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/091_yaxmanAshanam/02_nyagvAto_vAti.md">
@@ -161,8 +161,14 @@ Vita breathes downward from above, and downward Surya sends his heat: Downward i
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/03_Apa_idvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आप॒ इद्वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः।  
-आपो॒ विश्व॑स्य भेष॒जीस्तास्ते॑ कृण्वन्तु भेष॒जम् ॥
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/137/06_Apa_idvA.md">
+
+आ᳓प इ᳓द् वा᳓ उ भेषजी᳓र्  
+आ᳓पो अमीव-चा᳓तनीः।  
+आ᳓पो वि᳓श्वस्य भेषजी᳓स्  
+ता᳓स्ते **कृण्वन्तु** भेषज᳓म् ॥
+
+</div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/091_yaxmanAshanam/03_Apa_idvA.md">

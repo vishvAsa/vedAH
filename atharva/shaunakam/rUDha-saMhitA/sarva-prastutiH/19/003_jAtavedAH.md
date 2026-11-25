@@ -37,8 +37,8 @@ A hymn to Agni for protection and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAdvanaspatibhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वस्पृ॑थि॒व्याः पर्य॒न्तरि॑क्षा॒द्वन॒स्पति॑भ्यो॒ अध्योष॑धीभ्यः।  
-यत्र॑यत्र॒ विभृ॑तो जा॒तवे॑दा॒स्तत॑ स्तु॒तो जु॒षमा॑णो न॒ एहि॑ ॥
+दिव᳓स्पृथिव्याः᳓ प᳓र्यन्त᳓रिक्षाद्व᳓नस्प᳓तिभ्यो अ᳓ध्यो᳓षधीभ्यः।  
+य᳓त्रयत्र वि᳓भृतो जात᳓वेदास्त᳓त स्तुतो᳓ जुष᳓माणो न ए᳓हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAdvanaspatibhyo.md">
@@ -114,8 +114,8 @@ Whithersoe'er, from sky, earth, air's mid-regions from plants ands herbs, from t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/02_yaste_apsu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॑ अ॒प्सु म॑हि॒मा यो वने॑षु॒ य ओष॑धीषु प॒शुष्व॒प्स्व१॒॑न्तः।  
-अग्ने॒ सर्वा॑स्त॒न्वः१॒॑ सं र॑भस्व॒ ताभि॑र्न॒ एहि॑ द्रविणो॒दा अज॑स्रः ॥
+य᳓स्ते अप्सु᳓ महिमा᳓ यो᳓ व᳓नेषु य᳓ ओ᳓षधीषु पशु᳓ष्वप्स्व᳙न्तः᳓।  
+अ᳓ग्ने स᳓र्वास्तन्वः᳙ सं᳓ रभस्व ता᳓भिर्न ए᳓हि द्रविणोदा᳓ अ᳓जस्रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/02_yaste_apsu.md">
@@ -187,8 +187,8 @@ All majesty of thine in floods, in forest, in plants, in cattle, in the depths o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/03_yaste_deveShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॑ दे॒वेषु॑ महि॒मा स्व॒र्गो या ते॑ त॒नूः पि॒तृष्वा॑वि॒वेश॑।  
-पुष्टि॒र्या ते॑ मनु॒ष्ये᳡षु पप्र॒थेऽग्ने॒ तया॑ र॒यिम॒स्मासु॑ धेहि ॥
+य᳓स्ते देवे᳓षु महिमा᳓ स्वर्गो᳓ या᳓ ते तनूः᳓ पितृ᳓ष्वाविवे᳓श।  
+पु᳓ष्टिर्या᳓ ते मनुष्ये᳙षु पप्रथे᳓ऽग्ने त᳓या रयि᳓मस्मा᳓सु धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/03_yaste_deveShu.md">
@@ -257,8 +257,8 @@ Thy majesty among the Gods in Svarga, thy body which hath past into the Fathers.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्रुत्क॑र्णाय क॒वये॒ वेद्या॑य॒ वचो॑भिर्वा॒कैरुप॑ यामि रा॒तिम्।  
-यतो॑ भ॒यमभ॑यं॒ तन्नो॑ अ॒स्त्वव॑ दे॒वानां॑ यज॒ हेडो॑ अग्ने ॥
+श्रु᳓त्कर्णाय कव᳓ये वे᳓द्याय व᳓चोभिर्वाकै᳓रु᳓प यामि राति᳓म्।  
+य᳓तो भय᳓म᳓भयं त᳓न्नो अस्त्व᳓व देवा᳓नां यज हे᳓डो अग्ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">

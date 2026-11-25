@@ -37,8 +37,8 @@ To Indra, Brihaspati, Soma and Agni, for the destruction of sorcerers
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAnnadI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं ह॒विर्या॑तु॒धाना॑न्न॒दी फेन॑मि॒वा व॑हत्।  
-य इ॒दं स्त्री पुमा॒नक॑रि॒ह स स्तु॑वतां॒ जनः॑ ॥
+इदं᳓ हवि᳓र्यातुधा᳓नान्नदी᳓ फे᳓नमिवा᳓ वहत्।  
+य᳓ इदं᳓ स्त्री᳓ पु᳓मान᳓करिह᳓ स᳓ स्तुवतां ज᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAnnadI.md">
@@ -101,8 +101,8 @@ This sacrifice shall bring the Yatudhanas as the flood brings foam: Here let the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं स्तु॑वा॒न आग॑मदि॒मं स्म॒ प्रति॑ हर्यत।  
-बृह॑स्पते॒ वशे॑ ल॒ब्ध्वाग्नी॑षोमा॒ वि वि॑ध्यतम् ॥
+अयं᳓ स्तुवान᳓ आ᳓गमदिमं᳓ स्म प्र᳓ति हर्यत।  
+बृ᳓हस्पते व᳓शे लब्ध्वा᳓ग्नीषोमा वि᳓ विध्यतम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
@@ -166,8 +166,8 @@ This one hath come confessing all: do ye receive him eagerly. Master him thou, B
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या॑तु॒धान॑स्य सोमप ज॒हि प्र॒जां नय॑स्व च।  
-नि स्तु॑वा॒नस्य॑ पातय॒ पर॒मक्ष्यु॒ताव॑रम् ॥
+या᳙तुधा᳓नस्य सोमप जहि᳓ प्रजां᳓ न᳓यस्व च।  
+नि᳓ स्तुवान᳓स्य पातय प᳓रम᳓क्ष्युता᳓वरम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
@@ -235,8 +235,8 @@ O Soma-drinker, strike and bring the Yatudhana's progeny: Make the confessing si
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्रै॑षामग्ने॒ जनि॑मानि॒ वेत्थ॒ गुहा॑ स॒ताम॒त्त्रिणां॑ जातवेदः।  
-तांस्त्वं ब्रह्म॑णा वावृधा॒नो ज॒ह्ये॑षां शत॒तर्ह॑मग्ने ॥
+य᳓त्रैषामग्ने ज᳓निमानि वे᳓त्थ गु᳓हा सता᳓मत्त्रि᳓णां जातवेदः।  
+तां᳓स्त्वं᳓ ब्र᳓ह्मणा वावृधानो᳓ जह्ये᳙षां शतत᳓र्हमग्ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">

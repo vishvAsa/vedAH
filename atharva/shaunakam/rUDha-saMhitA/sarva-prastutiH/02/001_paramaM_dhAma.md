@@ -37,8 +37,10 @@ Glorification of the prime cause of all things
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/01_venastatpashyatparamaM_guhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वे॒नस्तत्प॑श्यत्पर॒मं गुहा॒ यद्यत्र॒ विश्वं॒ भव॒त्येक॑रूपम्।  
-इ॒दं पृश्नि॑रदुह॒ज्जाय॑मानाः स्व॒र्विदो॑ अ॒भ्य॑नूषत॒ व्राः ॥
+वेन᳓स् त᳓त् **पश्यत्** परमं᳓ गु᳓हा य᳓द्  
+य᳓त्र वि᳓श्वं **भ᳓वत्य्** ए᳓क-रूपम्।  
+इदं᳓ पृ᳓श्निर् **अदुहज्** जा᳓यमानाः  
+स्वर्वि᳓दो +++(मरुतः)+++ **अभ्य᳙नूषत** व्राः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/01_venastatpashyatparamaM_guhA.md">
@@ -100,8 +102,8 @@ Vena beholds That Highest which lies hidden, wherein this All resumes one form a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/02_pra_tadvochedamRtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र तद्वो॑चेद॒मृत॑स्य वि॒द्वान् ग॑न्ध॒र्वो धाम॑ पर॒मं गुहा॒ यत्।  
-त्रीणि॑ प॒दानि॒ निहि॑ता॒ गुहा॑स्य॒ यस्तानि॒ वेद॒ स पि॒तुष्पि॒तास॑त् ॥
+प्र᳓ त᳓द्वोचेदमृ᳓तस्य विद्वा᳓न् गन्धर्वो᳓ धा᳓म परमं᳓ गु᳓हा य᳓त्।  
+त्री᳓णि पदा᳓नि नि᳓हिता गु᳓हास्य य᳓स्ता᳓नि वे᳓द स᳓ पितु᳓ष्पिता᳓सत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/02_pra_tadvochedamRtasya.md">
@@ -175,8 +177,8 @@ Knowing Eternity, may the Gandharva declare to us that highest secret station. T
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/03_sa_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स नः॑ पि॒ता ज॑नि॒ता स उ॒त बन्धु॒र्धामा॑नि वेद॒ भुव॑नानि॒ विश्वा॑।  
-यो दे॒वानां॑ नाम॒ध एक॑ ए॒व तं सं॑प्र॒श्नं भुव॑ना यन्ति॒ सर्वा॑ ॥
+स᳓ नः पिता᳓ जनिता᳓ स᳓ उत᳓ ब᳓न्धुर्धा᳓मानि वेद भु᳓वनानि वि᳓श्वा।  
+यो᳓ देवा᳓नां नामध᳓ ए᳓क एव᳓ तं᳓ संप्रश्नं᳓ भु᳓वना यन्ति स᳓र्वा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/03_sa_naH.md">
@@ -254,8 +256,8 @@ He is our kinsman, father, and begetter: he knows all beings and all Ordinances.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॒ द्यावा॑पृथि॒वी स॒द्य आ॑य॒मुपा॑तिष्ठे प्रथम॒जामृ॒तस्य॑।  
-वाच॑मिव व॒क्तरि॑ भुवने॒ष्ठा धा॒स्युरे॒ष न॒न्वे॑३षो अ॒ग्निः ॥
+प᳓रि द्या᳓वापृथिवी᳓ सद्य᳓ आयमु᳓पातिष्ठे प्रथमजा᳓मृत᳓स्य।  
+वा᳓चमिव वक्त᳓रि भुवनेष्ठा᳓ धास्यु᳓रेष᳓ नन्वे᳙षो᳓ अग्निः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
@@ -330,8 +332,8 @@ I have gone forth around the earth and heaven, I have approached the first-born 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/05_pari_vishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॒ विश्वा॒ भुव॑नान्यायमृ॒तस्य॒ तन्तुं॒ वित॑तं दृ॒शे कम्।  
-यत्र॑ दे॒वा अ॒मृत॑मानशा॒नाः स॑मा॒ने योना॒वध्यैर॑यन्त ॥
+प᳓रि वि᳓श्वा भु᳓वनान्यायमृत᳓स्य त᳓न्तुं वि᳓ततं दृशे᳓ क᳓म्।  
+य᳓त्र देवा᳓ अमृ᳓तमानशानाः᳓ समाने᳓ यो᳓नाव᳓ध्यै᳓रयन्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/05_pari_vishvA.md">

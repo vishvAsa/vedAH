@@ -37,8 +37,8 @@ A hymn after victory
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/014_abhayam/01_idamuchChreyo-vasAnamAgAM_shive.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दमु॒च्छ्रेयो॑ऽव॒सान॒मागां॑ शि॒वे मे॒ द्यावा॑पृथि॒वी अ॑भूताम्।  
-अ॑सप॒त्नाः प्र॒दिशो॑ मे भवन्तु॒ न वै त्वा॑ द्विष्मो॒ अभ॑यं नो अस्तु ॥
+इद᳓मुच्छ्रे᳓योऽवसा᳓नमा᳓गां शिवे᳓ मे द्या᳓वापृथिवी᳓ अभूताम्।  
+अ᳙सपत्नाः᳓ प्रदि᳓शो मे भवन्तु न᳓ वै᳓ त्वा द्विष्मो अ᳓भयं नो अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/014_abhayam/01_idamuchChreyo-vasAnamAgAM_shive.md">

@@ -37,8 +37,8 @@ A charm to be pronounced by bride and bridegroom
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/036_anjanam/01_axyau_nau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒क्ष्यौ᳡ नौ॒ मधु॑संकाशे॒ अनी॑कं नौ स॒मञ्ज॑नम्।  
-अ॒न्तः कृ॑णुष्व॒ मां हृ॒दि मन॒ इन्नौ॑ स॒हास॑ति ॥
+अक्ष्यौ᳙ नौ म᳓धुसंकाशे अ᳓नीकं नौ सम᳓ञ्जनम्।  
+अन्तः᳓ कृणुष्व मां᳓ हृदि᳓ म᳓न इ᳓न्नौ सहा᳓सति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/036_anjanam/01_axyau_nau.md">

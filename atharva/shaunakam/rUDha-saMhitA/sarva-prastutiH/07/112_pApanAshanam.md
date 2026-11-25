@@ -33,8 +33,8 @@ Translated: Henry, 44, 122; Griffith, i. 382.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/112_pApanAshanam/01_shumbhanI_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शुम्भ॑नी॒ द्यावा॑पृथि॒वी अन्ति॑सुम्ने॒ महि॑व्रते।  
-आपः॑ स॒प्त सु॑स्रुवुर्दे॒वीस्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥
+शु᳓म्भनी द्या᳓वापृथिवी᳓ अ᳓न्तिसुम्ने म᳓हिव्रते।  
+आ᳓पः सप्त᳓ सुस्रुवुर्देवी᳓स्ता᳓ नो मुञ्चन्त्वं᳓हसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/112_pApanAshanam/01_shumbhanI_dyAvApRthivI.md">
@@ -101,8 +101,8 @@ Radiant with light are Heaven and Earth, whose grace is nigh, whose sway is vast
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/112_pApanAshanam/02_munchantu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॒ञ्चन्तु॑ मा शप॒थ्या॒३॒॑दथो॑ वरु॒ण्या᳡दु॒त।  
-अथो॑ य॒मस्य॒ पड्वी॑शा॒द्विश्व॑स्माद्देवकिल्बि॒षात् ॥
+मुञ्च᳓न्तु मा शपथ्या᳙द᳓थो वरुण्या᳙दुत᳓।  
+अ᳓थो यम᳓स्य प᳓ड्वीशाद्वि᳓श्वस्माद्देवकिल्बिषा᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/112_pApanAshanam/02_munchantu_mA.md">

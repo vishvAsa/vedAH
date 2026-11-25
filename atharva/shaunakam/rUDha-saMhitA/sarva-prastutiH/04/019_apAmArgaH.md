@@ -37,8 +37,8 @@ A counter-charm and charm to secure general protection.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/01_uto_asyabandhukRduto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒तो अ॒स्यब॑न्धुकृदु॒तो अ॑सि॒ नु जा॑मि॒कृत्।  
-उ॒तो कृ॑त्या॒कृतः॑ प्र॒जां न॒डमि॒वा च्छि॑न्धि॒ वार्षि॑कम् ॥
+उतो᳓ अस्य᳓बन्धुकृदुतो᳓ असि नु᳓ जामिकृ᳓त्।  
+उतो᳓ कृत्याकृ᳓तः प्रजां᳓ नड᳓मिवा᳓ च्छिन्धि वा᳓र्षिकम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/019_apAmArgaH/01_uto_asyabandhukRduto.md">
@@ -109,8 +109,8 @@ Thou breakest ties of kith and kin, thou causest, too, relation- ship: So bruise
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/02_brAhmaNena_paryuktAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रा॑ह्म॒णेन॒ पर्यु॑क्तासि॒ कण्वे॑न नार्ष॒देन॑।  
-सेने॑वैषि॒ त्विषी॑मती॒ न तत्र॑ भ॒यम॑स्ति॒ यत्र॑ प्रा॒प्नोष्यो॑षधे ॥
+ब्रा᳙ह्मणे᳓न प᳓र्युक्तासि क᳓ण्वेन नार्षदे᳓न।  
+से᳓नेवैषि त्वि᳓षीमती न᳓ त᳓त्र भय᳓मस्ति य᳓त्र प्राप्नो᳓ष्योषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/019_apAmArgaH/02_brAhmaNena_paryuktAsi.md">
@@ -189,8 +189,8 @@ Thou hast been blessed with blessing by the Brahman, Kanva Narshada. Thou fliest
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/03_agrameShyoShadhInAM_jyotiShevAbhidIpayan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्र॑मे॒ष्योष॑धीनां॒ ज्योति॑षेवाभिदी॒पय॑न्।  
-उ॒त त्रा॒तासि॒ पाक॒स्याथो॑ ह॒न्तासि॑ र॒क्षसः॑ ॥
+अ᳓ग्रमेष्यो᳓षधीनां ज्यो᳓तिषेवाभिदीप᳓यन्।  
+उत᳓ त्राता᳓सि पा᳓कस्या᳓थो हन्ता᳓सि रक्ष᳓सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/019_apAmArgaH/03_agrameShyoShadhInAM_jyotiShevAbhidIpayan.md">
@@ -254,8 +254,8 @@ Illumining, as 'twere, with light, thou movest at the head of plants. The saviou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/04_yadado_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॒दो दे॒वा असु॑रां॒स्त्वयाग्रे॑ नि॒रकु॑र्वत।  
-तत॒स्त्वमध्यो॑षधेऽपामा॒र्गो अ॑जायथाः ॥
+य᳓ददो᳓ देवा᳓ अ᳓सुरांस्त्व᳓या᳓ग्रे निर᳓कुर्वत।  
+त᳓तस्त्व᳓म᳓ध्योषधेऽपामार्गो᳓ अजायथाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/019_apAmArgaH/04_yadado_devA.md">
@@ -318,8 +318,8 @@ As once when time began the Gods with thee expelled the Asuras, Even thence, O P
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/05_vibhindatI_shatashAkhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॑भिन्द॒ती श॒तशा॑खा विभि॒न्दन्नाम॑ ते पि॒ता।  
-प्र॒त्यग्वि भि॑न्धि॒ त्वं तं यो अ॒स्माँ अ॑भि॒दास॑ति ॥
+वि᳙भिन्दती᳓ शत᳓शाखा विभिन्द᳓न्ना᳓म ते पिता᳓।  
+प्रत्य᳓ग्वि᳓ भिन्धि त्वं᳓ तं᳓ यो᳓ अस्माँ᳓ अभिदा᳓सति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/019_apAmArgaH/05_vibhindatI_shatashAkhA.md">
@@ -383,8 +383,8 @@ Thy father's name was Cleaver. Thou with thousand branches cleavest all. Do thou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/06_asadbhUmyAH_samabhavattadyAmeti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अस॒द्भूम्याः॒ सम॑भव॒त्तद्यामे॑ति म॒हद्व्यचः॑।  
-तद्वै ततो॑ विधूपा॒यत्प्र॒त्यक्क॒र्तार॑मृच्छतु ॥
+अ᳓सद्भू᳓म्याः स᳓मभवत्त᳓द्या᳓मेति मह᳓द्व्य᳓चः।  
+त᳓द्वै᳓ त᳓तो विधूपाय᳓त्प्रत्य᳓क्कर्ता᳓रमृच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/019_apAmArgaH/06_asadbhUmyAH_samabhavattadyAmeti.md">
@@ -459,8 +459,8 @@ The evil sprang from earth; it mounts to heaven and spreads to vast extent. Reve
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/07_pratya~Nhi_sambabhUvitha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒त्यङ्हि सं॑ब॒भूवि॑थ प्रती॒चीन॑फल॒स्त्वम्।  
-सर्वा॒न्मच्छ॒पथाँ अधि॒ वरी॑यो यावया व॒धम् ॥
+प्रत्य᳓ङ्हि᳓ संबभू᳓विथ प्रतीची᳓नफलस्त्व᳓म्।  
+स᳓र्वान्म᳓च्छप᳓थाँ᳓ अ᳓धि व᳓रीयो यावया वध᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/019_apAmArgaH/07_pratya~Nhi_sambabhUvitha.md">
@@ -524,8 +524,8 @@ For thou hast grown reverted, and turned backward also is thy fruit. Remove all 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/019_apAmArgaH/08_shatena_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तेन॑ मा॒ परि॑ पाहि स॒हस्रे॑णा॒भि र॑क्ष मा।  
-इन्द्र॑स्ते वीरुधां पत उ॒ग्र ओ॒ज्मान॒मा द॑धत् ॥
+शते᳓न मा प᳓रि पाहि सह᳓स्रेणाभि᳓ रक्ष मा।  
+इ᳓न्द्रस्ते वीरुधां पत उग्र᳓ ओज्मा᳓नमा᳓ दधत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/019_apAmArgaH/08_shatena_mA.md">

@@ -37,8 +37,8 @@ Absolution of a sinner after intercession with Varuna
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/01_ayaM_devAnAmasuro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं दे॒वाना॒मसु॑रो॒ वि रा॑जति॒ वशा॒ हि स॒त्या वरु॑णस्य॒ राज्ञः॑।  
-तत॒स्परि॒ ब्रह्म॑णा॒ शाश॑दान उ॒ग्रस्य॑ म॒न्योरुदि॒मं न॑यामि ॥
+अयं᳓ देवा᳓नाम᳓सुरो वि᳓ राजति व᳓शा हि᳓ सत्या᳓ व᳓रुणस्य रा᳓ज्ञः।  
+त᳓तस्प᳓रि ब्र᳓ह्मणा शा᳓शदान उग्र᳓स्य मन्यो᳓रु᳓दिमं᳓ नयामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/01_ayaM_devAnAmasuro.md">
@@ -105,8 +105,8 @@ This Lord is the Gods' ruler; for the wishes of Varuna the King must be accompli
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/02_namaste_rAjanvaruNAstu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते राजन्वरुणास्तु म॒न्यवे॒ विश्वं॒ ह्यु॑ग्र निचि॒केषि॑ द्रु॒ग्धम्।  
-स॒हस्र॑म॒न्यान्प्र सु॑वामि सा॒कं श॒तं जी॑वाति श॒रद॒स्तवा॒यम् ॥
+न᳓मस्ते राजन्वरुणास्तु मन्य᳓वे वि᳓श्वं ह्यु᳙ग्र निचिके᳓षि द्रुग्ध᳓म्।  
+सह᳓स्रमन्या᳓न्प्र᳓ सुवामि साकं᳓ शतं᳓ जीवाति शर᳓दस्त᳓वाय᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/02_namaste_rAjanvaruNAstu.md">
@@ -174,8 +174,8 @@ Homage be paid, King Varuna, to thine anger; for thou, dread God, detectest ever
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/03_yaduvakthAnRtamjihvayA_vRjinam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदु॒वक्थानृ॑तम्जि॒ह्वया॑ वृजि॒नं ब॒हु।  
-राज्ञ॑स्त्वा स॒त्यध॑र्मणो मु॒ञ्चामि॒ वरु॑णाद॒हम् ॥
+य᳓दुव᳓क्था᳓नृतम्जिह्व᳓या वृजिनं᳓ बहु᳓।  
+रा᳓ज्ञस्त्वा सत्य᳓धर्मणो मुञ्चा᳓मि व᳓रुणादह᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/03_yaduvakthAnRtamjihvayA_vRjinam.md">
@@ -237,8 +237,8 @@ Whatever falsehood thou hast told, much evil spoken with the tongue, I liberate 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/04_munchAmi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॒ञ्चामि॑ त्वा वैश्वान॒राद॑र्ण॒वान्म॑ह॒तस्परि॑।  
-स॑जा॒तानु॑ग्रे॒हा व॑द॒ ब्रह्म॒ चाप॑ चिकीहि नः ॥
+मुञ्चा᳓मि त्वा वैश्वानरा᳓दर्णवा᳓न्महत᳓स्प᳓रि।  
+स᳙जाता᳓नुग्रेहा᳓ वद ब्र᳓ह्म चा᳓प चिकीहि नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/04_munchAmi_tvA.md">

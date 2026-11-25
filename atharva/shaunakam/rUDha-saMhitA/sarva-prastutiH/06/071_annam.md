@@ -37,8 +37,8 @@ A priest's benediction after meat
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/01_yadannamadmi_bahudhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदन्न॒मद्मि॑ बहु॒धा विरू॑पं॒ हिर॑ण्य॒मश्व॑मु॒त गाम॒जामवि॑म्।  
-यदे॒व किं च॑ प्रतिज॒ग्रहा॒हम॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
+य᳓द᳓न्नम᳓द्मि बहुधा᳓ वि᳓रूपं हि᳓रण्यम᳓श्वमुत᳓ गा᳓मजा᳓म᳓विम्।  
+य᳓देव᳓ किं᳓ च प्रतिजग्र᳓हाह᳓मग्नि᳓ष्ट᳓द्धो᳓ता सु᳓हुतं कृणोतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/01_yadannamadmi_bahudhA.md">
@@ -107,8 +107,8 @@ What food I eat of varied form and nature, food whether gold, or horse, sheep, g
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यन्मा॑ हु॒तमहु॑तमाज॒गाम॑ द॒त्तं पि॒तृभि॒रनु॑मतं मनु॒ष्यैः᳡।  
-यस्मा॑न्मे॒ मन॒ उदि॑व॒ रार॑जीत्य॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
+य᳓न्मा हुत᳓म᳓हुतमाजगा᳓म दत्तं᳓ पितृ᳓भिर᳓नुमतं मनुष्यैः᳙।  
+य᳓स्मान्मे म᳓न उ᳓दिव रा᳓रजीत्यग्नि᳓ष्ट᳓द्धो᳓ता सु᳓हुतं कृणोतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
@@ -177,8 +177,8 @@ Whatever, sacrificed or not, hath reached me, bestowed by men and sanctioned by 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/03_yadannamadmyanRtena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदन्न॒मद्म्यनृ॑तेन देवा दा॒स्यन्नदा॑स्यन्नु॒त सं॑गृ॒णामि॑।  
-वै॑श्वान॒रस्य॑ मह॒तो म॑हि॒म्ना शि॒वं मह्यं॒ मधु॑मद॒स्त्वन्न॑म् ॥
+य᳓द᳓न्नम᳓द्म्य᳓नृतेन देवा दास्य᳓न्न᳓दास्यन्नुत᳓ संगृणा᳓मि।  
+वै᳙श्वानर᳓स्य महतो᳓ महिम्ना᳓ शिवं᳓ म᳓ह्यं म᳓धुमदस्त्व᳓न्नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/03_yadannamadmyanRtena_devA.md">

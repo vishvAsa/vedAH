@@ -37,8 +37,8 @@ A prayer for long life prosperity and final happiness in heaven
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/061_pUrNAyuH/01_tanUstanvA_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त॒नूस्त॒न्वा᳡ मे सहे द॒तः सर्व॒मायु॑रशीय।  
-स्यो॒नं मे॑ सीद पु॒रुः पृ॑णस्व॒ पव॑मानः स्व॒र्गे ॥
+तनू᳓स्तन्वा᳙ मे सहे दतः᳓ स᳓र्वमा᳓युरशीय।  
+स्योनं᳓ मे सीद पुरुः᳓ पृणस्व प᳓वमानः स्वर्गे᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/061_pUrNAyuH/01_tanUstanvA_me.md">

@@ -37,8 +37,8 @@ A priest's prayer for power and glory
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒शसं॒ मेन्द्रो॑ म॒घवा॑न्कृणोतु य॒शसं॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे।  
-य॒शसं॑ मा दे॒वः स॑वि॒ता कृ॑णोतु प्रि॒यो दा॒तुर्दक्षि॑णाया इ॒ह स्या॑म् ॥
+यश᳓सं मे᳓न्द्रो मघ᳓वान्कृणोतु यश᳓सं द्या᳓वापृथिवी᳓ उभे᳓ इमे᳓।  
+यश᳓सं मा देवः᳓ सविता᳓ कृणोतु प्रियो᳓ दातु᳓र्द᳓क्षिणाया इह᳓ स्याम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
@@ -103,8 +103,8 @@ May Indra Maghavan give me name and glory. May Heaven and Earth, this couple, ma
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAnyathApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथेन्द्रो॒ द्यावा॑पृथि॒व्योर्यश॑स्वा॒न्यथाप॒ ओष॑धीषु॒ यश॑स्वतीः।  
-ए॒वा विश्वे॑षु दे॒वेषु॑ व॒यं सर्वे॑षु य॒शसः॑ स्याम ॥
+य᳓थे᳓न्द्रो द्या᳓वापृथिव्यो᳓र्य᳓शस्वान्य᳓था᳓प ओ᳓षधीषु य᳓शस्वतीः।  
+एवा᳓ वि᳓श्वेषु देवे᳓षु वयं᳓ स᳓र्वेषु यश᳓सः स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAnyathApa.md">
@@ -168,8 +168,8 @@ Indra from Heaven and Earth receiveth glory among the plants the Waters have the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/03_yashA_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत।  
-य॒शा विश्व॑स्य भू॒तस्या॒हम॑स्मि य॒शस्त॑मः ॥
+यशा᳓ इ᳓न्द्रो यशा᳓ अग्नि᳓र्यशाः᳓ सो᳓मो अजायत।  
+यशा᳓ वि᳓श्वस्य भूत᳓स्याह᳓मस्मि यश᳓स्तमः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/03_yashA_indro.md">

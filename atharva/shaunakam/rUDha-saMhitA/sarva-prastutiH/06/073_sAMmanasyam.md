@@ -37,8 +37,8 @@ A King's charm to conciliate his discontented kinsmen
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/01_eha_yAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एह या॑तु॒ वरु॑णः॒ सोमो॑ अ॒ग्निर्बृह॒स्पति॒र्वसु॑भि॒रेह या॑तु।  
-अ॒स्य श्रिय॑मुप॒संया॑त॒ सर्व॑ उ॒ग्रस्य॑ चे॒त्तुः संम॑नसः सजाताः ॥
+ए᳓ह᳓ यातु व᳓रुणः सो᳓मो अग्नि᳓र्बृ᳓हस्प᳓तिर्व᳓सुभिरे᳓ह᳓ यातु।  
+अस्य᳓ श्रि᳓यमुपसं᳓यात स᳓र्व उग्र᳓स्य चेत्तुः᳓ सं᳓मनसः सजाताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/073_sAMmanasyam/01_eha_yAtu.md">
@@ -104,8 +104,8 @@ Let Varuna come hither, Soma, Agni, Brihaspati come hither with the Vasus! Unani
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/02_yo_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो वः॒ शुष्मो॒ हृद॑येष्व॒न्तराकू॑ति॒र्या वो॒ मन॑सि॒ प्रवि॑ष्टा।  
-तान्त्सी॑वयामि ह॒विषा॑ घृ॒तेन॒ मयि॑ सजाता र॒मति॑र्वो अस्तु ॥
+यो᳓ वः शु᳓ष्मो हृ᳓दयेष्वन्त᳓रा᳓कूतिर्या᳓ वो म᳓नसि प्र᳓विष्टा।  
+ता᳓न्त्सीवयामि हवि᳓षा घृते᳓न म᳓यि सजाता रम᳓तिर्वो अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/073_sAMmanasyam/02_yo_vaH.md">
@@ -177,8 +177,8 @@ The inclination which your hearts have harboured, the purpose which hath occupie
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/03_ihaiva_sta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒हैव स्त॒ माप॑ या॒ताध्य॒स्मत्पू॒षा प॒रस्ता॒दप॑थं वः कृणोतु।  
-वास्तो॒ष्पति॒रनु॑ वो जोहवीतु॒ मयि॑ सजाता र॒मति॑र्वो अस्तु ॥
+इहै᳓व᳓ स्त मा᳓प याता᳓ध्यस्म᳓त्पूषा᳓ पर᳓स्ताद᳓पथं वः कृणोतु।  
+वा᳓स्तोष्प᳓तिर᳓नु वो जोहवीतु म᳓यि सजाता रम᳓तिर्वो अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/073_sAMmanasyam/03_ihaiva_sta.md">

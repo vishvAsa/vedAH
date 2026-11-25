@@ -33,8 +33,8 @@ Translated: Ludwig, p. 460; Griffith, i. 298; Bloomfield, 122, 510.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/01_abhibhUryajno_abhibhUragnirabhibhUH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑भि॒भूर्य॒ज्ञो अ॑भि॒भूर॒ग्निर॑भि॒भूः सोमो॑ अभि॒भूरिन्द्रः॑।  
-अ॒भ्य१॒॑हं वि॑श्वाः॒ पृत॑ना॒ यथासा॑न्ये॒वा वि॑धेमा॒ग्निहो॑त्रा इ॒दं ह॒विः ॥
+अ᳙भिभू᳓र्यज्ञो᳓ अभिभू᳓रग्नि᳓रभिभूः᳓ सो᳓मो अभिभू᳓रि᳓न्द्रः।  
+अभ्य᳙हं᳓ विश्वाः पृ᳓तना य᳓था᳓सान्येवा᳓ विधेमाग्नि᳓होत्रा इदं᳓ हविः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/097_abhibhUrvIraH/01_abhibhUryajno_abhibhUragnirabhibhUH.md">
@@ -97,8 +97,8 @@ The sacrifice is victor, Agni victor, victorious is Soma, Indra conquers: So wil
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/02_svadhAstu_mitrAvaruNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्व॒धास्तु॑ मित्रावरुणा विपश्चिता प्र॒जाव॑त्क्ष॒त्रं मधु॑ने॒ह पि॑न्वतम्।  
-बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत् ॥
+स्वधा᳓स्तु मित्रावरुणा विपश्चिता प्रजा᳓वत्क्षत्रं᳓ म᳓धुनेह᳓ पिन्वतम्।  
+बा᳓धेथां दूरं᳓ नि᳓रृतिं पराचैः᳓ कृतं᳓ चिदे᳓नः प्र᳓ मुमुक्तमस्म᳓त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/097_abhibhUrvIraH/02_svadhAstu_mitrAvaruNA.md">
@@ -168,8 +168,8 @@ omits it, prefixing instead *āré* to *bādhasva*. The comm. takes
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/03_imaM_vIramanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मं वी॒रमनु॑ हर्षध्वमु॒ग्रमिन्द्रं॑ सखायो॒ अनु॒ सं र॑भध्वम्।  
-ग्रा॑म॒जितं॑ गो॒जितं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा ॥
+इमं᳓ वीर᳓म᳓नु हर्षध्वमुग्र᳓मि᳓न्द्रं सखायो अ᳓नु सं᳓ रभध्वम्।  
+ग्रा᳙मजि᳓तं गोजि᳓तं व᳓ज्रबाहुं ज᳓यन्तम᳓ज्म प्रमृण᳓न्तमो᳓जसा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/097_abhibhUrvIraH/03_imaM_vIramanu.md">

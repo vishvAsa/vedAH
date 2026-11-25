@@ -37,8 +37,8 @@ A charm to remove pustules or scrofulous swellings (apachitas)
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/01_pancha_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पञ्च॑ च॒ याः प॑ञ्चा॒शच्च॑ सं॒यन्ति॒ मन्या॑ अ॒भि।  
-इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
+प᳓ञ्च च याः᳓ पञ्चाश᳓च्च संय᳓न्ति म᳓न्या अभि᳓।  
+इत᳓स्ताः᳓ स᳓र्वा नश्यन्तु वाका᳓ अपचि᳓तामिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/025_manyAvinAshanam/01_pancha_cha.md">
@@ -114,8 +114,8 @@ May all the five-and-fifty which meet round the tendons of the neck. Depart and 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/02_sapta_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प्त च॒ याः स॑प्त॒तिश्च॑ सं॒यन्ति॒ ग्रैव्या॑ अ॒भि।  
-इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
+सप्त᳓ च याः᳓ सप्तति᳓श्च संय᳓न्ति ग्रै᳓व्या अभि᳓।  
+इत᳓स्ताः᳓ स᳓र्वा नश्यन्तु वाका᳓ अपचि᳓तामिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/025_manyAvinAshanam/02_sapta_cha.md">
@@ -177,8 +177,8 @@ Those seventy-and-seven which meet round the upper vertebrae, Let them all vanis
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/03_nava_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नव॑ च॒ या न॑व॒तिश्च॑ सं॒यन्ति॒ स्कन्ध्या॑ अ॒भि।  
-इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
+न᳓व च या᳓ नवति᳓श्च संय᳓न्ति स्क᳓न्ध्या अभि᳓।  
+इत᳓स्ताः᳓ स᳓र्वा नश्यन्तु वाका᳓ अपचि᳓तामिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/025_manyAvinAshanam/03_nava_cha.md">

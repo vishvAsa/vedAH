@@ -33,8 +33,8 @@ Translated: as a RV. hymn, by Max Müller, Ancient Sanskrit Literature (1859), p
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/01_ya_AtmadA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य आ॑त्म॒दा ब॑ल॒दा यस्य॒ विश्व॑ उ॒पास॑ते प्र॒शिषं॒ यस्य॑ दे॒वाः।  
-यो३॒॑ऽस्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पदः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+य᳓ आत्मदा᳓ बलदा᳓ य᳓स्य वि᳓श्व उपा᳓सते प्रशि᳓षं य᳓स्य देवाः᳓।  
+यो᳙ऽस्ये᳓शे द्विप᳓दो य᳓श्च᳓तुष्पदः क᳓स्मै देवा᳓य हवि᳓षा विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/01_ya_AtmadA.md">
@@ -115,8 +115,8 @@ oblation?'⌋
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/02_yaH_prANato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः प्रा॑ण॒तो नि॑मिष॒तो म॑हि॒त्वैको॒ राजा॒ जग॑तो ब॒भूव॑।  
-यस्य॑ छा॒यामृतं॒ यस्य॑ मृ॒त्युः कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+यः᳓ प्राणतो᳓ निमिषतो᳓ महित्वै᳓को रा᳓जा ज᳓गतो बभू᳓व।  
+य᳓स्य छाया᳓मृ᳓तं य᳓स्य मृत्युः᳓ क᳓स्मै देवा᳓य हवि᳓षा विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/02_yaH_prANato.md">
@@ -184,8 +184,8 @@ control. The Anukr. passes without notice the deficiency in **b**.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/03_yaM_krandasI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं क्रन्द॑सी॒ अव॑तश्चस्कभा॒ने भि॒यसा॑ने॒ रोद॑सी॒ अह्व॑येथाम्।  
-यस्या॒सौ पन्था॒ रज॑सो वि॒मानः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+यं᳓ क्र᳓न्दसी अ᳓वतश्चस्कभाने᳓ भिय᳓साने रो᳓दसी अ᳓ह्वयेथाम्।  
+य᳓स्यासौ᳓ प᳓न्था र᳓जसो विमा᳓नः क᳓स्मै देवा᳓य हवि᳓षा विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/03_yaM_krandasI.md">
@@ -261,8 +261,8 @@ but calls it simply *dyulokasthaḥ*.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/04_yasya_dyaururvI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ द्यौरु॒र्वी पृ॑थि॒वी च॑ म॒ही यस्या॒द उ॒र्व॒न्तरि॑क्षम्।  
-यस्या॒सौ सूरो॒ वित॑तो महि॒त्वा कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+य᳓स्य द्यौ᳓रुर्वी᳓ पृथिवी᳓ च मही᳓ य᳓स्याद᳓ उर्वन्त᳓रिक्षम्।  
+य᳓स्यासौ᳓ सू᳓रो वि᳓ततो महित्वा᳓ क᳓स्मै देवा᳓य हवि᳓षा विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/04_yasya_dyaururvI.md">
@@ -337,8 +337,8 @@ irregularity of **b**.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/05_yasya_vishve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ विश्वे॑ हि॒मव॑न्तो महि॒त्वा स॑मु॒द्रे यस्य॑ र॒सामिदा॒हुः।  
-इ॒माश्च॑ प्र॒दिशो॒ यस्य॑ बा॒हू कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+य᳓स्य वि᳓श्वे हिम᳓वन्तो महित्वा᳓ समुद्रे᳓ य᳓स्य रसा᳓मि᳓दाहुः᳓।  
+इमा᳓श्च प्रदि᳓शो य᳓स्य बाहू᳓ क᳓स्मै देवा᳓य हवि᳓षा विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/05_yasya_vishve.md">
@@ -413,8 +413,8 @@ make harsh and difficult resolutions.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/06_Apo_agre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ अग्रे॒ विश्व॑माव॒न्गर्भं॒ दधा॑ना अ॒मृता॑ ऋत॒ज्ञाः।  
-यासु॑ दे॒वीष्वधि॑ दे॒व आसी॒त्कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+आ᳓पो अ᳓ग्रे वि᳓श्वमावन्ग᳓र्भं द᳓धाना अमृ᳓ता ऋतज्ञाः᳓।  
+या᳓सु देवी᳓ष्व᳓धि देव᳓ आ᳓सीत्क᳓स्मै देवा᳓य हवि᳓षा विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/06_Apo_agre.md">
@@ -493,8 +493,8 @@ of RV.⌋
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/07_hiraNyagarbhaH_samavartatAgre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॑रण्यग॒र्भः सम॑वर्त॒ताग्रे॑ भू॒तस्य॑ जा॒तः पति॒रेक॑ आसीत्।  
-स दा॑धार पृथि॒वीमु॒त द्यां कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+हि᳙रण्यगर्भः᳓ स᳓मवर्तता᳓ग्रे भूत᳓स्य जातः᳓ प᳓तिरे᳓क आसीत्।  
+स᳓ दाधार पृथिवी᳓मुत᳓ द्यां᳓ क᳓स्मै देवा᳓य हवि᳓षा विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/07_hiraNyagarbhaH_samavartatAgre.md">
@@ -568,8 +568,8 @@ syllable in **c**.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/08_Apo_vatsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॑ व॒त्सं ज॒नय॑न्ती॒र्गर्भ॒मग्रे॒ समै॑रयन्।  
-तस्यो॒त जाय॑मान॒स्योल्ब॑ आसीद्धिर॒ण्ययः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+आ᳓पो वत्सं᳓ जन᳓यन्तीर्ग᳓र्भम᳓ग्रे स᳓मैरयन्।  
+त᳓स्योत᳓ जा᳓यमानस्यो᳓ल्ब आसीद्धिरण्य᳓यः क᳓स्मै देवा᳓य हवि᳓षा विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/08_Apo_vatsam.md">

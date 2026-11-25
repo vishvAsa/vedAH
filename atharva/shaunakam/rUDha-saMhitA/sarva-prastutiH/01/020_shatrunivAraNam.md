@@ -37,8 +37,8 @@ A prayer to Soma, the Maruts, Mitra, and Varuna, for protection
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/01_adArasRdbhavatu_deva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अदा॑रसृद्भवतु देव सोमा॒स्मिन्य॒ज्ञे म॑रुतो मृ॒डता॑ नः।  
-मा नो॑ विददभि॒भा मो अश॑स्ति॒र्मा नो॑ विदद्वृजि॒ना द्वेष्या॒ या ॥
+अ᳓दारसृद्भवतु देव सोमास्मि᳓न्यज्ञे᳓ मरुतो मृड᳓ता नः।  
+मा᳓ नो विददभिभा᳓ मो᳓ अ᳓शस्तिर्मा᳓ नो विदद्वृजिना᳓ द्वे᳓ष्या या᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/01_adArasRdbhavatu_deva.md">
@@ -112,8 +112,8 @@ May it glide harmless by in this our sacrifice, O Soma, God! Maruts, be gracious
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/02_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒द्य सेन्यो॑ व॒धो ऽघा॒यूना॑मु॒दीर॑ते।  
-यु॒वं तं मि॑त्रावरुणाव॒स्मद्या॑वयतं॒ परि॑ ॥
+यो᳓ अद्य᳓ से᳓न्यो वधो᳓ ऽघायू᳓नामुदी᳓रते।  
+युवं᳓ तं᳓ मित्रावरुणावस्म᳓द्यावयतं प᳓रि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/02_yo_adya.md">
@@ -179,8 +179,8 @@ Mitra and Varuna, ye twain, turn carefully away from us The deadly dart that fli
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/03_itashcha_yadamutashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒तश्च॒ यद॒मुत॑श्च॒ यद्व॒धं व॑रुण यावय।  
-वि म॒हच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम् ॥
+इत᳓श्च य᳓दमु᳓तश्च य᳓द्वधं᳓ वरुण यावय।  
+वि᳓ मह᳓च्छ᳓र्म यच्छ व᳓रीयो यावया वध᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/03_itashcha_yadamutashcha.md">
@@ -247,8 +247,8 @@ Ward off from this side and from that, O Varuna, the deadly dart: Give us thy gr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/04_shAsa_itthA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शा॒स इ॒त्था म॒हाँ अ॑स्यमित्रसा॒हो अ॑स्तृ॒तः।  
-न यस्य॑ ह॒न्यते॒ सखा॒ न जी॒यते॑ क॒दा च॒न ॥
+शास᳓ इत्था᳓ महाँ᳓ अस्यमित्रसाहो᳓ अस्तृतः᳓।  
+न᳓ य᳓स्य हन्य᳓ते स᳓खा न᳓ जीय᳓ते कदा᳓ चन᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/04_shAsa_itthA.md">

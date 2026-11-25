@@ -37,8 +37,8 @@ A charm to avert misfortune foreshown by the coming of a dove and an owl
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/01_amUnhetiH_patatriNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मून्हे॒तिः प॑त॒त्रिणी॒ न्ये᳡तु॒ यदुलू॑को॒ वद॑ति मो॒घमे॒तत्।  
-यद्वा॑ क॒पोतः॑ प॒दम॒ग्नौ कृ॒णोति॑ ॥
+अमू᳓न्हेतिः᳓ पतत्रि᳓णी न्ये᳙तु य᳓दु᳓लूको व᳓दति मोघ᳓मेत᳓त्।  
+य᳓द्वा कपो᳓तः पद᳓मग्नौ᳓ कृणो᳓ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/029_ariShTaxayaNam/01_amUnhetiH_patatriNI.md">
@@ -103,8 +103,8 @@ On these men yonder fall the winged missile: the screeching of the Owl is ineffe
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/02_yau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यौ ते॑ दू॒तौ नि॑रृत इ॒दमे॒तोऽप्र॑हितौ॒ प्रहि॑तौ वा गृ॒हं नः॑।  
-क॑पोतोलू॒काभ्या॒मप॑दं॒ तद॑स्तु ॥
+यौ᳓ ते दूतौ᳓ निरृत इद᳓मेतो᳓ऽप्रहितौ प्र᳓हितौ वा गृहं᳓ नः।  
+क᳙पोतोलूका᳓भ्याम᳓पदं त᳓दस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/029_ariShTaxayaNam/02_yau_te.md">
@@ -166,9 +166,9 @@ Thine envoys who came hither, O Destruction, sent or not sent by thee unto our d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAtsuvIratAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑वैरह॒त्याये॒दमा प॑पत्यात्सुवी॒रता॑या इ॒दमा स॑सद्यात्।  
-परा॑ङे॒व परा॑ वद॒ परा॑ची॒मनु॑ सं॒वत॑म्।  
-यथा॑ य॒मस्य॑ त्वा गृ॒हेऽर॒सं प्र॑ति॒चाक॑शाना॒भूकं॑ प्रति॒चाक॑शान् ॥
+अ᳙वैरहत्या᳓येद᳓मा᳓ पपत्यात्सुवीर᳓ताया इद᳓मा᳓ ससद्यात्।  
+प᳓राङेव᳓ प᳓रा वद प᳓राचीम᳓नु संव᳓तम्।  
+य᳓था यम᳓स्य त्वा गृहे᳓ऽरसं᳓ प्रतिचा᳓कशानाभू᳓कं प्रतिचा᳓कशान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAtsuvIratAyA.md">

@@ -37,8 +37,8 @@ The hyperbolical glorification of the Vratya or Aryan Non-conformist
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/01_vrAtyaAsIdIyamAna_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-**व्रात्य॑** आसीत्।  
-ईय॑मान ए॒व स **प्र॒जाप॑तिं॒ समैरयत्**॥१॥  
+**व्रा᳓त्य** आसीत्।  
+ई᳓यमान एव᳓ स᳓ **प्रजा᳓पतिं स᳓मै᳓र᳓य᳓त्**॥१॥  
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/01_vrAtyaAsIdIyamAna_eva.md">
@@ -98,8 +98,8 @@ There was a roaming Vratya. He roused Prajapati to action.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/02_sa_prajApatiHsuvarNamAtmannapashyattatprAjanaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स प्र॒जाप॑तिः **सु॒वर्ण॑म्** आ॒त्मन्न् **अ॑पश्यत्**।  
-तत् **प्राज॑नयत्**॥२॥  
+स᳓ प्रजा᳓पतिः **सुव᳓र्णम्** आत्म᳓न्न् **अपश्यत्**।  
+त᳓त् **प्रा᳓जनयत्**॥२॥  
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/02_sa_prajApatiHsuvarNamAtmannapashyattatprAjanaya.md">
@@ -158,7 +158,7 @@ Prajapati beheld gold in himself and engendered it.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/03_tadekamabhavattallalAmamabhavattanmahadabhavatt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तदेक॑मभव॒त्तल्ल॒लाम॑मभव॒त्तन्म॒हद॑भव॒त्तज्ज्ये॒ष्ठम॑भव॒त्तद्ब्रह्मा॑भव॒त्तत्तपो॑ऽभव॒त्तत्स॒त्यम॑भव॒त्तेन॒ प्राजा॑यत ॥
+त᳓दे᳓कमभवत्त᳓ल्लला᳓ममभवत्त᳓न्मह᳓दभवत्त᳓ज्ज्येष्ठ᳓मभवत्त᳓द्ब्र᳓ह्माभवत्त᳓त्त᳓पोऽभवत्त᳓त्सत्य᳓मभवत्ते᳓न प्रा᳓जायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/03_tadekamabhavattallalAmamabhavattanmahadabhavatt.md">
@@ -221,7 +221,7 @@ That became unique, that became distinguished, that became great, that became ex
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/04_so-vardhata_samahAnabhavatsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सो᳡ऽव॑र्धत॒ सम॒हान॑भव॒त्स म॑हादे॒वो᳡ऽभ॑वत् ॥
+सो᳙ऽवर्धत स᳓महा᳓नभवत्स᳓ महादेवो᳙ऽभवत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/04_so-vardhata_samahAnabhavatsa.md">
@@ -281,7 +281,7 @@ He grew, he became great, he became Mahadeva.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/05_sa_devAnAmIshAmparyaitsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स दे॒वाना॑मी॒शांपर्यै॒त्स ईशा॑नोऽभवत् ॥
+स᳓ देवा᳓नामीशां᳓प᳓र्यैत्स᳓ ई᳓शानोऽभवत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/05_sa_devAnAmIshAmparyaitsa.md">
@@ -341,9 +341,9 @@ He gained the lordship of the Gods. He became Lord.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/06_sa_ekavrAtyo-bhavatsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स ए॑क-व्रा॒त्यो ऽभवत्।  
-स धनु॒र् आद॑त्त।  
-तद् ए॒वेन्द्र॑-ध॒नुः ॥६॥  
+स᳓ एक-व्रात्यो᳓ ऽभ᳓व᳓त्।  
+स᳓ ध᳓नुर् आ᳓दत्त।  
+त᳓द् एवे᳓न्द्र-धनुः᳓ ॥६॥  
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/06_sa_ekavrAtyo-bhavatsa.md">
@@ -404,7 +404,7 @@ He became Chief Vratya. He held a bow, even that Bow of Indra.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/07_nIlamasyodaraMlohitaM_pRShTham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नील॑मस्यो॒दरं॒लोहि॑तं पृ॒ष्ठम् ॥
+नी᳓लमस्योद᳓रंलो᳓हितं पृष्ठ᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/07_nIlamasyodaraMlohitaM_pRShTham.md">
@@ -464,7 +464,7 @@ His belly is dark-blue, his back is red.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/08_nIlenaivApriyaM_bhrAtRvyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नीले॑नै॒वाप्रि॑यं॒ भ्रातृ॑व्यं॒ प्रोर्णो॑ति॒ लोहि॑तेन द्वि॒षन्तं॑ विध्य॒तीति॑ब्रह्मवा॒दिनो॑ वदन्ति ॥
+नी᳓लेनैवा᳓प्रियं भ्रा᳓तृव्यं प्रो᳓र्णोति लो᳓हितेन द्विष᳓न्तं विध्यती᳓तिब्रह्मवादि᳓नो वदन्ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/08_nIlenaivApriyaM_bhrAtRvyam.md">

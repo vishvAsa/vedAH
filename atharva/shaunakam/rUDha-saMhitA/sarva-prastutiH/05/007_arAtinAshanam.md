@@ -37,8 +37,8 @@ A charm to deprecate Arati or Malignity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/01_A_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ नो॑ भर॒ मा परि॑ ष्ठा अराते॒ मा नो॑ रक्षी॒र्दक्षि॑णां नी॒यमा॑नाम्।  
-नमो॑ वी॒र्त्साया॒ अस॑मृद्धये॒ नमो॑ अ॒स्त्वरा॑तये ॥
+आ᳓ नो भर मा᳓ प᳓रि ष्ठा अराते मा᳓ नो रक्षीर्द᳓क्षिणां नीय᳓मानाम्।  
+न᳓मो वीर्त्सा᳓या अ᳓समृद्धये न᳓मो अस्त्व᳓रातये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/01_A_no.md">
@@ -101,8 +101,8 @@ Bring thou to us, bar not the way, Arati! Stay not the guerdon that is being bro
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/02_yamarAte_purodhatse.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यम॑राते पुरोध॒त्से पुरु॑षं परिरा॒पिण॑म्।  
-नम॑स्ते॒ तस्मै॑ कृण्मो॒ मा व॒निं व्य॑थयी॒र्मम॑ ॥
+य᳓मराते पुरोधत्से᳓ पु᳓रुषं परिरापि᳓णम्।  
+न᳓मस्ते त᳓स्मै कृण्मो मा᳓ वनिं᳓ व्यथयीर्म᳓म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/02_yamarAte_purodhatse.md">
@@ -164,8 +164,8 @@ The man whom thou preferrest, O Arati, he who prates to us-- This man of thine, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/03_pra_No.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र णो॑ व॒निर्दे॒वकृ॑ता॒ दिवा॒ नक्तं॑ च कल्पताम्।  
-अरा॑तिमनु॒प्रेमो॑ व॒यं नमो॑ अ॒स्त्वरा॑तये ॥
+प्र᳓ णो वनि᳓र्देव᳓कृता दि᳓वा न᳓क्तं च कल्पताम्।  
+अ᳓रातिमनुप्रे᳓मो वयं᳓ न᳓मो अस्त्व᳓रातये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/03_pra_No.md">
@@ -228,8 +228,8 @@ May our desire which Gods have roused fulfil itself by day and night. We seek to
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/04_sarasvatImanumatiM_bhagam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर॑स्वती॒मनु॑मतिं॒ भगं॒ यन्तो॑ हवामहे।  
-वाचं जु॒ष्टां मधु॑मतीमवादिषं दे॒वानां॑ दे॒वहू॑तिषु ॥
+स᳓रस्वतीम᳓नुमतिं भ᳓गं य᳓न्तो हवामहे।  
+वा᳓चं᳓ जुष्टां᳓ म᳓धुमतीमवादिषं देवा᳓नां देव᳓हूतिषु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/04_sarasvatImanumatiM_bhagam.md">
@@ -289,8 +289,8 @@ We, suppliant, call on Bhaga, on Sarasvati, Anumati, Pleasant words have I spoke
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/05_yaM_yAchAmyaham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं याचा॑म्य॒हं वा॒चा सर॑स्वत्या मनो॒युजा॑।  
-श्र॒द्धा तम॒द्य वि॑न्दतु द॒त्ता सोमे॑न ब॒भ्रुणा॑ ॥
+यं᳓ या᳓चाम्यहं᳓ वाचा᳓ स᳓रस्वत्या मनोयु᳓जा।  
+श्रद्धा᳓ त᳓मद्य᳓ विन्दतु दत्ता᳓ सो᳓मेन बभ्रु᳓णा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/05_yaM_yAchAmyaham.md">
@@ -352,8 +352,8 @@ The portion that I crave with speech intelligent and full of power, May faith, p
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/06_mA_vanim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा व॒निं मा वाचं॑ नो॒ वीर्त्सी॑रु॒भावि॑न्द्रा॒ग्नी आ भ॑रतां नो॒ वसू॑नि।  
-सर्वे॑ नो अ॒द्य दित्स॒न्तोऽरा॑तिं॒ प्रति॑ हर्यत ॥
+मा᳓ वनिं᳓ मा᳓ वा᳓चं नो वी᳓र्त्सीरुभा᳓विन्द्राग्नी᳓ आ᳓ भरतां नो व᳓सूनि।  
+स᳓र्वे नो अद्य᳓ दि᳓त्सन्तो᳓ऽरातिं प्र᳓ति हर्यत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/06_mA_vanim.md">
@@ -420,8 +420,8 @@ Do not thou make our words or wishes fruitless. Let the twain Indra Agni, bring 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/07_paro-pehyasamRddhe_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒रोऽपे॑ह्यसमृद्धे॒ वि ते॑ हे॒तिं न॑यामसि।  
-वेद॑ त्वा॒हं नि॒मीव॑न्तीं नितु॒दन्ती॑मराते ॥
+परो᳓ऽपेह्यसमृद्धे वि᳓ ते हेतिं᳓ नयामसि।  
+वे᳓द त्वाहं᳓ निमी᳓वन्तीं नितुद᳓न्तीमराते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/07_paro-pehyasamRddhe_vi.md">
@@ -482,8 +482,8 @@ Misfortune! go thou far away: we turn thy harmful dart aside. I know thee well, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/08_uta_nagnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒त न॒ग्ना बोभु॑वती स्वप्न॒या स॑चसे॒ जन॑म्।  
-अरा॑ते चि॒त्तं वीर्त्स॒न्त्याकू॑तिं॒ पुरु॑षस्य च ॥
+उत᳓ नग्ना᳓ बो᳓भुवती स्वप्नया᳓ सचसे ज᳓नम्।  
+अ᳓राते चित्तं᳓ वी᳓र्त्सन्त्या᳓कूतिं पु᳓रुषस्य च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/08_uta_nagnA.md">
@@ -548,8 +548,8 @@ Oft, coming as a naked girl thou hauntest people in their sleep, Baffling the th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/09_yA_mahatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या म॑ह॒ती म॒होन्मा॑ना॒ विश्वा॒ आशा॑ व्यान॒शे।  
-तस्यै॑ हिरण्यके॒श्यै निरृ॑त्या अकरं॒ नमः॑ ॥
+या᳓ महती᳓ महो᳓न्माना वि᳓श्वा आ᳓शा व्यानशे᳓।  
+त᳓स्यै हिरण्यकेश्यै᳓ नि᳓रृत्या अकरं न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/09_yA_mahatI.md">
@@ -609,8 +609,8 @@ To her the mighty vast in size, who penetrates all points of space, To her mine 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/10_hiraNyavarNA_subhagA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हिर॑ण्यवर्णा सु॒भगा॒ हिर॑ण्यकशिपुर्म॒ही।  
-तस्यै॒ हिर॑ण्यद्राप॒येऽरा॑त्या अकरं॒ नमः॑ ॥
+हि᳓रण्यवर्णा सुभ᳓गा हि᳓रण्यकशिपुर्मही᳓।  
+त᳓स्यै हि᳓रण्यद्रापये᳓ऽरात्या अकरं न᳓मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/10_hiraNyavarNA_subhagA.md">

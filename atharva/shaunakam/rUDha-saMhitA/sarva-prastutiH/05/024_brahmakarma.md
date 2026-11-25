@@ -37,9 +37,9 @@ A priest's prayer for protection and assistance
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/01_savitA_prasavAnAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॑वि॒ता प्र॑स॒वाना॒मधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां।  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+स᳙विता᳓ प्रसवा᳓नाम᳓धिपतिः स᳓ मावतु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓।  
+चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/01_savitA_prasavAnAmadhipatiH.md">
@@ -113,8 +113,8 @@ Savitar, Lord of furthering aids, protect me, in this my prayer, in this mine ac
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/02_agnirvanaspatInAmadhipatiH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निर्वन॒स्पती॑ना॒मधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+अग्नि᳓र्व᳓नस्प᳓तीनाम᳓धिपतिः स᳓ मावतु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/02_agnirvanaspatInAmadhipatiH_sa.md">
@@ -175,8 +175,8 @@ May Agni, Lord of forest trees, protect, me, in, etc.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/03_dyAvApRthivI_dAtRRNAmadhipatnI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्यावा॑पृथि॒वी दा॑तॄ॒णामधि॑पत्नी॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+द्या᳓वापृथिवी᳓ दातॄणा᳓म᳓धिपत्नी स᳓ मावतु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/03_dyAvApRthivI_dAtRRNAmadhipatnI.md">
@@ -241,8 +241,8 @@ May Heaven and Earth, the Queens of bounties, save me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/04_varuNo-pAmadhipatiH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वरु॑णो॒ऽपामधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+व᳓रुणोऽपा᳓म᳓धिपतिः स᳓ मावतु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/04_varuNo-pAmadhipatiH_sa.md">
@@ -303,8 +303,8 @@ May Varuna, the Lord of waters, save me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/05_mitrAvaruNau_vRShTyAdhipatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मि॒त्रावरु॑णौ वृ॒ष्ट्याधि॑पती॒ तौ मा॑वताम्।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+मित्रा᳓व᳓रुणौ वृष्ट्या᳓धिपती तौ᳓ मावताम्।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/05_mitrAvaruNau_vRShTyAdhipatI.md">
@@ -366,8 +366,8 @@ May Mitra-Varuna, Lords of rain, preserve me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/06_marutaH_parvatAnAmadhipatayaste.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒रुतः॒ पर्व॑ताना॒मधि॑पतय॒स्ते मा॑वन्तु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+मरु᳓तः प᳓र्वतानाम᳓धिपतयस्ते᳓ मावन्तु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/06_marutaH_parvatAnAmadhipatayaste.md">
@@ -428,8 +428,8 @@ Lords of the mountains, may the Maruts save me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/07_somo_vIrudhAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमो॑ वी॒रुधा॒मधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+सो᳓मो वीरु᳓धाम᳓धिपतिः स᳓ मावतु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/07_somo_vIrudhAmadhipatiH.md">
@@ -490,8 +490,8 @@ May, Soma, Lord of plants and herbs, protect me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/08_vAyurantarixasyAdhipatiH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒युर॒न्तरि॑क्ष॒स्याधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+वायु᳓रन्त᳓रिक्षस्या᳓धिपतिः स᳓ मावतु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/08_vAyurantarixasyAdhipatiH_sa.md">
@@ -551,8 +551,8 @@ May Vayu, Lord of middle air, protect me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/09_sUryashchaxuShAmadhipatiH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्य॒श्चक्षु॑षा॒मधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+सू᳓र्यश्च᳓क्षुषाम᳓धिपतिः स᳓ मावतु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/09_sUryashchaxuShAmadhipatiH_sa.md">
@@ -614,8 +614,8 @@ May Surya, sovran Lord of eyes, protect me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/10_chandramA_naxatrANAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-च॒न्द्रमा॒ नक्ष॑त्राणा॒मधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+चन्द्र᳓मा न᳓क्षत्राणाम᳓धिपतिः स᳓ मावतु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/10_chandramA_naxatrANAmadhipatiH.md">
@@ -676,8 +676,8 @@ May the Moon, Lord of constellations, save me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/11_indro_divo-dhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ दि॒वोऽधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+इ᳓न्द्रो दिवो᳓ऽधिपतिः स᳓ मावतु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/11_indro_divo-dhipatiH.md">
@@ -738,8 +738,8 @@ May Indra who is Lord of heaven protect me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/12_marutAM_pitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒रुतां॑ पि॒ता प॑शू॒नामधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+मरु᳓तां पिता᳓ पशूना᳓म᳓धिपतिः स᳓ मावतु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/12_marutAM_pitA.md">
@@ -801,8 +801,8 @@ The Maruts' father, Lord of cattle, save me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/13_mRtyuH_prajAnAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मृ॒त्युः प्र॒जाना॒मधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+मृत्युः᳓ प्रजा᳓नाम᳓धिपतिः स᳓ मावतु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/13_mRtyuH_prajAnAmadhipatiH.md">
@@ -863,8 +863,8 @@ May Mrityu, Lord of living creatures, save me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/14_yamaH_pitRRNAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒मः पि॑तॄ॒णामधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+यमः᳓ पितॄणा᳓म᳓धिपतिः स᳓ मावतु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/14_yamaH_pitRRNAmadhipatiH.md">
@@ -929,8 +929,8 @@ May Yama, Regent of the Fathers, save me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/15_pitaraH_pare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि॒तरः॒ परे॑ ते मावन्तु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+पित᳓रः प᳓रे ते मावन्तु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/15_pitaraH_pare.md">
@@ -989,8 +989,8 @@ May the Forefathers of old time protect me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/16_tatA_avare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त॒ता अव॑रे ते मावन्तु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+तता᳓ अ᳓वरे ते मावन्तु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/16_tatA_avare.md">
@@ -1049,8 +1049,8 @@ May Fathers of succeeding ages save me.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/17_tatastatAmahAste_mAvantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त॒तस्त॑ताम॒हास्ते॑ मावन्तु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+तत᳓स्ततामहा᳓स्ते मावन्तु।  
+अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/17_tatastatAmahAste_mAvantu.md">

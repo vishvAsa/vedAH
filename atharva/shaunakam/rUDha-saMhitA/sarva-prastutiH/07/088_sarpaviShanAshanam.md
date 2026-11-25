@@ -37,8 +37,8 @@ A charm to cure a snake-bite
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपे॒ह्यरि॑र॒स्यरि॒र्वा अ॑सि वि॒षे वि॒षम॑पृक्था वि॒षमिद्वा अ॑पृक्थाः।  
-अहि॑मे॒वाभ्यपे॑हि॒ तं ज॑हि ॥
+अ᳓पेह्य᳓रिरस्य᳓रिर्वा᳓ असि विषे᳓ विष᳓मपृक्था विष᳓मि᳓द्वा᳓ अपृक्थाः।  
+अ᳓हिमेवा᳓भ्य᳓पेहि तं᳓ जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">

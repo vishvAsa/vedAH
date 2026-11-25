@@ -37,8 +37,8 @@ A blessing on cows
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/075_aghnyAH/01_prajAvatIH_sUyavase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाव॑तीः सू॒यव॑से रु॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः।  
-मा व॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु ॥
+प्रजा᳓वतीः सूय᳓वसे रुश᳓न्तीः शुद्धा᳓ अपः᳓ सुप्रपाणे᳓ पि᳓बन्तीः।  
+मा᳓ व स्तेन᳓ ईशत मा᳓घ᳓शंसः प᳓रि वो रुद्र᳓स्य हेति᳓र्वृणक्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/075_aghnyAH/01_prajAvatIH_sUyavase.md">
@@ -101,9 +101,9 @@ Let not a thief or wicked man possess you: let not the dart of Rudra come anear 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/075_aghnyAH/02_padajnA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॑द॒ज्ञा स्थ॒ रम॑तयः॒ संहि॑ता वि॒श्वना॑म्नीः।  
-उप॑ मा देवीर्दे॒वेभि॒रेत॑।  
-इ॒मं गो॒ष्ठमि॒दं सदो॑ घृ॒तेना॒स्मान्त्समु॑क्षत ॥
+प᳙दज्ञा᳓ स्थ र᳓मतयः सं᳓हिता विश्व᳓नाम्नीः।  
+उ᳓प मा देवीर्देवे᳓भिरे᳓त।  
+इमं᳓ गोष्ठ᳓मिदं᳓ स᳓दो घृते᳓नास्मा᳓न्त्स᳓मुक्षत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/075_aghnyAH/02_padajnA_stha.md">

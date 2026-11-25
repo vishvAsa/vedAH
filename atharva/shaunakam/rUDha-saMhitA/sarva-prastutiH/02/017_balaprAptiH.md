@@ -37,7 +37,7 @@ A prayer to an amulet for health and strength
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/01_ojo-syojo_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ओजो॒ऽस्योजो॑ मे दाः॒ स्वाहा॑ ॥
+ओ᳓जोऽस्यो᳓जो मे दाः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/01_ojo-syojo_me.md">
@@ -101,7 +101,7 @@ Power art thou, give me power. All hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/02_saho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सहो॑ ऽसि॒ सहो॑ मे दाः॒ स्वाहा॑ ॥
+स᳓हो ऽसि स᳓हो मे दाः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/02_saho-si.md">
@@ -160,7 +160,7 @@ Might art thou, give me might. All hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/03_balamasi_balam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बल॑मसि॒ बलं॑ दाः॒ स्वाहा॑ ॥
+ब᳓लमसि ब᳓लं दाः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/03_balamasi_balam.md">
@@ -219,7 +219,7 @@ Strength art thou, give me strength. All hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयु॑र॒स्यायु॑र्मे दाः॒ स्वाहा॑ ॥
+आ᳓युरस्या᳓युर्मे दाः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
@@ -278,7 +278,7 @@ Life art thou, give me life. All hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/05_shrotramasi_shrotram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्रोत्र॑मसि॒ श्रोत्रं॑ मे दाः॒ स्वाहा॑ ॥
+श्रो᳓त्रमसि श्रो᳓त्रं मे दाः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/05_shrotramasi_shrotram.md">
@@ -338,7 +338,7 @@ Ear art thou, give me hearing! Hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-चक्षु॑रसि॒ चक्षु॑र्मे दाः॒ स्वाहा॑ ॥
+च᳓क्षुरसि च᳓क्षुर्मे दाः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
@@ -396,7 +396,7 @@ Eye art thou, give me eyes. All hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/07_paripANamasi_paripANam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॑रि॒पाण॑मसि परि॒पाणं॑ मे दाः॒ स्वाहा॑ ॥
+प᳙रिपा᳓णमसि परिपा᳓णं मे दाः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/07_paripANamasi_paripANam.md">

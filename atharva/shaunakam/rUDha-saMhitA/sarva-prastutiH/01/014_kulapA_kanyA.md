@@ -37,8 +37,8 @@ A woman's incantation against a rival
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भग॑मस्या॒ वर्च॒ आदि॒ष्यधि॑ वृ॒क्षादि॑व॒ स्रज॑म्।  
-म॒हाबु॑ध्न इव॒ पर्व॑तो॒ ज्योक्पि॒तृष्वा॑स्ताम् ॥
+भ᳓गमस्या व᳓र्च आ᳓दिष्य᳓धि वृक्षा᳓दिव स्र᳓जम्।  
+महा᳓बुध्न इव प᳓र्वतो ज्यो᳓क्पितृ᳓ष्वास्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
@@ -112,8 +112,8 @@ As from the tree a wreath, have I assumed her fortune and her fame: Among her ki
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/02_eShA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒षा ते॑ राजन्क॒न्या॑ व॒धूर्नि धू॑यतां यम।  
-सा मा॒तुर्ब॑ध्यतां गृ॒हे ऽथो॒ भ्रातु॒रथो॑ पि॒तुः ॥
+एषा᳓ ते राजन्कन्या᳙ वधू᳓र्नि᳓ धूयतां यम।  
+सा᳓ मातु᳓र्बध्यतां गृहे᳓ ऽथो भ्रा᳓तुर᳓थो पितुः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/02_eShA_te.md">
@@ -181,8 +181,8 @@ King Yama, let this maiden be surrendered as a wife to thee: Bound let her be me
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/03_eShA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒षा ते॑ कुल॒पा रा॑ज॒न्तामु॑ ते॒ परि॑ दद्मसि।  
-ज्योक्पि॒तृष्वा॑साता॒ आ शी॒र्ष्णः स॒मोप्या॑त् ॥
+एषा᳓ ते कुलपा᳓ राजन्ता᳓मु ते प᳓रि दद्मसि।  
+ज्यो᳓क्पितृ᳓ष्वासाता आ᳓ शीर्ष्णः᳓ समो᳓प्यात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/03_eShA_te.md">
@@ -256,11 +256,8 @@ Queen of thy race is she, O King: to thee do we deliver her. Long with her kinsf
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/04_asitasya_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-असि॑तस्य ते॒ ब्रह्म॑णा क॒श्यप॑स्य॒ गय॑स्य च।  
-अ॑न्तःको॒शमि॑व जा॒मयो ऽपि॑ नह्यामि ते॒ भग॑म्।  
-।  
-४।  
-।
+अ᳓सितस्य ते ब्र᳓ह्मणा कश्य᳓पस्य ग᳓यस्य च।  
+अ᳙न्तःकोश᳓मिव जाम᳓यो᳓ ऽपि नह्यामि ते भ᳓गम्।
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/04_asitasya_te.md">

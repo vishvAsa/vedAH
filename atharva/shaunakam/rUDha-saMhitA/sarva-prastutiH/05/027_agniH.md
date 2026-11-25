@@ -40,8 +40,8 @@ An Apri or Propitiatory hymn
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/01_UrdhvA_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊ॒र्ध्वा अ॑स्य स॒मिधो॑ भवन्त्यू॒र्ध्वा शु॒क्रा शो॒चींष्य॒ग्नेः।  
-द्यु॒मत्त॑मा सु॒प्रती॑कः॒ ससू॑नु॒स्तनू॒नपा॒दसु॑रो॒ भूरि॑पाणिः ॥
+ऊर्ध्वा᳓ अस्य समि᳓धो भवन्त्यूर्ध्वा᳓ शुक्रा᳓ शोचीं᳓ष्यग्नेः᳓।  
+द्युम᳓त्तमा सुप्र᳓तीकः स᳓सूनुस्त᳓नून᳓पाद᳓सुरो भू᳓रिपाणिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/01_UrdhvA_asya.md">
@@ -142,7 +142,7 @@ Uplifted be this sacrificer's fuel: lofty and brilliant be the flames of Agni! S
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/02_devo_deveShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वो दे॒वेषु॑ दे॒वः प॒थो अ॑नक्ति॒ मध्वा॑ घृ॒तेन॑ ॥
+देवो᳓ देवे᳓षु देवः᳓ पथो᳓ अनक्ति म᳓ध्वा घृते᳓न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/02_devo_deveShu.md">
@@ -197,7 +197,7 @@ God among Gods, the God bedews the paths with fatness and' with mead.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/03_madhvA_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मध्वा॑ य॒ज्ञं न॑क्षति प्रैणा॒नो नरा॒शंसो॑ अ॒ग्निः सु॒कृद्दे॒वः स॑वि॒ता वि॒श्ववा॑रः ॥
+म᳓ध्वा यज्ञं᳓ नक्षति प्रैणानो᳓ न᳓राशं᳓सो अग्निः᳓ सुकृ᳓द्देवः᳓ सविता᳓ विश्व᳓वारः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/03_madhvA_yajnam.md">
@@ -264,7 +264,7 @@ With store of mead to sacrifice comes Agni, comes Narasansa Agni, friendly-minde
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/04_achChAyameti_shavasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अच्छा॒यमे॑ति॒ शव॑सा घृ॒ता चि॒दीडा॑नो॒ वह्नि॒र्नम॑सा ॥
+अ᳓च्छाय᳓मेति श᳓वसा घृता᳓ चिदी᳓डानो व᳓ह्निर्न᳓मसा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/04_achChAyameti_shavasA.md">
@@ -459,7 +459,7 @@ Hither he comes with power and fatness also, the luminous,. implored with adorat
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/05_agniH_srucho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निः स्रुचो॑ अध्व॒रेषु॑ प्र॒यक्षु॒ स य॑क्षदस्य महि॒मान॑म॒ग्नेः ॥
+अग्निः᳓ स्रु᳓चो अध्वरे᳓षु प्रय᳓क्षु स᳓ यक्षदस्य महिमा᳓नमग्नेः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/05_agniH_srucho.md">
@@ -514,7 +514,7 @@ At holy rites and offerings Agni loveth the scoops: let this man worship Agni's 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/06_tarI_mandrAsu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त॒री म॒न्द्रासु॑ प्र॒यक्षु॒ वस॑व॒श्चाति॑ष्ठन्वसु॒धात॑रश्च ॥
+तरी᳓ मन्द्रा᳓सु प्रय᳓क्षु व᳓सवश्चा᳓तिष्ठन्वसुधा᳓तरश्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/06_tarI_mandrAsu.md">
@@ -569,7 +569,7 @@ He is the furtherer at glad oblations: there stood the Vasus and the treasure-gi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/07_dvAro_devIranvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्वारो॑ दे॒वीरन्व॑स्य॒ विश्वे॑ व्र॒तं र॑क्षन्ति वि॒श्वहा॑ ॥
+द्वा᳓रो देवी᳓र᳓न्वस्य वि᳓श्वे व्रतं᳓ रक्षन्ति विश्व᳓हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/07_dvAro_devIranvasya.md">
@@ -624,8 +624,8 @@ Ever the Doors divine, and all protect this worshipper's holy work.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/08_uruvyachasAgnerdhAmnA_patyamAne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑रु॒व्यच॑सा॒ग्नेर्धाम्ना॒ पत्य॑माने।  
-आ सु॒ष्वय॑न्ती यज॒ते उ॒पाके॑ उ॒षासा॒नक्तेमं य॒ज्ञम॑वतामध्व॒रं नः॑ ॥
+उ᳙रुव्य᳓चसाग्ने᳓र्धा᳓म्ना प᳓त्यमाने।  
+आ᳓ सुष्व᳓यन्ती यजते᳓ उपा᳓के उषा᳓सान᳓क्ते᳓मं᳓ यज्ञ᳓मवतामध्वरं᳓ नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/08_uruvyachasAgnerdhAmnA_patyamAne.md">
@@ -682,8 +682,8 @@ Far-reaching, ruling by the Law of Agni, May Dawn and Night, the holy, speeding 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/09_daivA_hotAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दैवा॒ होता॑र ऊ॒र्ध्वम॑ध्व॒रं नो॒ऽग्नेर्जि॒ह्वया॒भि गृ॑णत गृ॒णता॑ नः॒ स्वि॑ष्टये।  
-ति॒स्रो दे॒वीर्ब॒र्हिरेदं स॑दन्ता॒मिडा॒ सर॑स्वती म॒ही भार॑ती गृणा॒ना ॥
+दै᳓वा हो᳓तार ऊर्ध्व᳓मध्वरं᳓ नोऽग्ने᳓र्जिह्व᳓याभि᳓ गृणत गृण᳓ता नः स्वि᳙ष्टये।  
+तिस्रो᳓ देवी᳓र्बर्हि᳓रे᳓दं᳓ सदन्तामि᳓डा स᳓रस्वती मही᳓ भा᳓रती गृणाना᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/09_daivA_hotAra.md">
@@ -740,8 +740,8 @@ Celestial Hotars, with the tongues of Agni praise and extol our lofty ceremony, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/10_tannasturIpamadbhutaM_puruxu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तन्न॑स्तु॒रीप॒मद्भु॑तं पुरु॒क्षु।  
-देव॑ त्वष्टा रा॒यस्पो॑षं॒ वि ष्य॒ नाभि॑मस्य ॥
+त᳓न्नस्तुरी᳓पम᳓द्भुतं पुरुक्षु᳓।  
+दे᳓व त्वष्टा राय᳓स्पोषं वि᳓ ष्य ना᳓भिमस्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/10_tannasturIpamadbhutaM_puruxu.md">
@@ -811,8 +811,8 @@ Three Goddesses upon this grass, be seated, Ida, Sarasvati, Mahi, and Bharati ad
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/11_vanaspate-va_sRjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वन॑स्प॒तेऽव॑ सृजा॒ ररा॑णः।  
-त्मना॑ दे॒वेभ्यो॑ अ॒ग्निर्ह॒व्यं श॑मि॒ता स्व॑दयतु ॥
+व᳓नस्पते᳓ऽव सृजा र᳓राणः।  
+त्म᳓ना देवे᳓भ्यो अग्नि᳓र्हव्यं᳓ शमिता᳓ स्वदयतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/11_vanaspate-va_sRjA.md">
@@ -878,8 +878,8 @@ This our nutritious genial flow, God Tvashtar! and growth of wealth, pour down o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/12_agne_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॑ग्ने॒ स्वाहा॑ कृणुहि जातवेदः।  
-इन्द्रा॑य य॒ज्ञं विश्वे॑ दे॒वा ह॒विरि॒दं जु॑षन्ताम् ॥
+अ᳙ग्ने स्वा᳓हा कृणुहि जातवेदः।  
+इ᳓न्द्राय यज्ञं᳓ वि᳓श्वे देवा᳓ हवि᳓रिदं᳓ जुषन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/12_agne_svAhA.md">

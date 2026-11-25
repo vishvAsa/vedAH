@@ -37,8 +37,8 @@ A Rishi's morning prayer
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/01_prAtaragniM_prAtarindram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॒तर॒ग्निं प्रा॒तरिन्द्रं॑ हवामहे प्रा॒तर्मि॒त्रावरु॑णा प्रा॒तर॒श्विना॑।  
-प्रा॒तर्भगं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पतिं॑ प्रा॒तः सोम॑मु॒त रु॒द्रं ह॑वामहे ॥
+प्रात᳓रग्निं᳓ प्रात᳓रि᳓न्द्रं हवामहे प्रात᳓र्मित्रा᳓व᳓रुणा प्रात᳓रश्वि᳓ना।  
+प्रात᳓र्भ᳓गं पूष᳓णं ब्र᳓ह्मणस्प᳓तिं प्रातः᳓ सो᳓ममुत᳓ रुद्रं᳓ हवामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/01_prAtaragniM_prAtarindram.md">
@@ -100,8 +100,8 @@ Agni at dawn, and Indra we invoke at dawn, and Varuna and Mitra, and the Asvins 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/02_prAtarjitaM_bhagamugram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॑त॒र्जितं॒ भग॑मु॒ग्रं ह॑वामहे व॒यं पु॒त्रमदि॑ते॒र्यो वि॑ध॒र्ता।  
-आ॒ध्रश्चि॒द्यं मन्य॑मानस्तु॒रश्चि॒द्राजा॑ चि॒द्यं भगं॑ भ॒क्षीत्याह॑ ॥
+प्रा᳙तर्जि᳓तं भ᳓गमुग्रं᳓ हवामहे वयं᳓ पुत्र᳓म᳓दितेर्यो᳓ विधर्ता᳓।  
+आध्र᳓श्चिद्यं᳓ म᳓न्यमानस्तुर᳓श्चिद्रा᳓जा चिद्यं᳓ भ᳓गं भक्षी᳓त्या᳓ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/02_prAtarjitaM_bhagamugram.md">
@@ -168,8 +168,8 @@ We all strong Bhaga, conqueror in the morning, the son of Aditi, the great Dispo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/03_bhaga_praNetarbhaga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भग॒ प्रणे॑त॒र्भग॒ सत्य॑राधो॒ भगे॒मां धिय॒मुद॑वा॒ दद॑न्नः।  
-भग॒ प्र णो॑ जनय॒ गोभि॒रश्वै॒र्भग॒ प्र नृभि॑र्नृ॒वन्तः॑ स्याम ॥
+भ᳓ग प्र᳓णेतर्भ᳓ग स᳓त्यराधो भ᳓गेमां᳓ धि᳓यमु᳓दवा द᳓दन्नः।  
+भ᳓ग प्र᳓ णो जनय गो᳓भिर᳓श्वैर्भ᳓ग प्र᳓ नृ᳓भिर्नृव᳓न्तः स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/03_bhaga_praNetarbhaga.md">
@@ -233,8 +233,8 @@ Bhaga, our guide, Bhaga whose gifts are faithful, favour this hymn and give us w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/04_utedAnIM_bhagavantaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒तेदानीं॒ भग॑वन्तः स्यामो॒त प्र॑पि॒त्व उ॒त मध्ये॒ अह्ना॑म्।  
-उ॒तोदि॑तौ मघव॒न्त्सूर्य॑स्य व॒यं दे॒वानां॑ सुम॒तौ स्या॑म ॥
+उते᳓दा᳓नीं भ᳓गवन्तः स्यामोत᳓ प्रपित्व᳓ उत᳓ म᳓ध्ये अ᳓ह्नाम्।  
+उतो᳓दितौ मघवन्त्सू᳓र्यस्य वयं᳓ देवा᳓नां सुमतौ᳓ स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/04_utedAnIM_bhagavantaH.md">
@@ -300,8 +300,8 @@ So may felicity be ours at present, and when the Sun advances, and at noontide; 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/05_bhaga_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भग॑ ए॒व भग॑वाँ अस्तु दे॒वस्तेना॑ व॒यं भग॑वन्तः स्याम।  
-तं त्वा॑ भग॒ सर्व॒ इज्जो॑हवीमि॒ स नो॑ भग पुरए॒ता भ॑वे॒ह ॥
+भ᳓ग एव᳓ भ᳓गवाँ अस्तु देव᳓स्ते᳓ना वयं᳓ भ᳓गवन्तः स्याम।  
+तं᳓ त्वा भग स᳓र्व इ᳓ज्जोहवीमि स᳓ नो भग पुरएता᳓ भवेह᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/05_bhaga_eva.md">
@@ -366,8 +366,8 @@ May Bhaga verily be bliss-bestower, and through him, Gods! may happiness attend 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/06_samadhvarAyoShaso_namanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सम॑ध्व॒रायो॒षसो॑ नमन्त दधि॒क्रावे॑व॒ शुच॑ये प॒दाय॑।  
-अ॑र्वाची॒नं व॑सु॒विदं॒ भगं॑ मे॒ रथ॑मि॒वाश्वा॑ वा॒जिन॒ आ व॑हन्तु ॥
+स᳓मध्वरा᳓योष᳓सो नमन्त दधिक्रा᳓वेव शु᳓चये पदा᳓य।  
+अ᳙र्वाचीनं᳓ वसुवि᳓दं भ᳓गं मे र᳓थमिवा᳓श्वा वाजि᳓न आ᳓ वहन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/06_samadhvarAyoShaso_namanta.md">
@@ -434,8 +434,8 @@ To this our sacrifice may the Dawns incline them, and come to the pure place lik
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/07_ashvAvatIrgomatIrna_uShAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अश्वा॑वती॒र्गोम॑तीर्न उ॒षासो॑ वी॒रव॑तीः॒ सद॑मुच्छन्तु भ॒द्राः।  
-घृ॒तं दुहा॑ना वि॒श्वतः॒ प्रपी॑ता यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+अ᳓श्वावतीर्गो᳓मतीर्न उषा᳓सो वीर᳓वतीः स᳓दमुच्छन्तु भद्राः᳓।  
+घृतं᳓ दु᳓हाना विश्व᳓तः प्र᳓पीता यूयं᳓ पात स्वस्ति᳓भिः स᳓दा नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/07_ashvAvatIrgomatIrna_uShAso.md">

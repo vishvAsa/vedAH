@@ -33,8 +33,8 @@ Translated: Ludwig, p. 459; Griffith, i. 295; Bloomfield, 145, 507.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/01_vAtaraMhA_bhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वात॑रंहा भव वाजिन्यु॒ज्यमा॑न॒ इन्द्र॑स्य याहि प्रस॒वे मनो॑जवाः।  
-यु॒ञ्जन्तु॑ त्वा म॒रुतो॑ वि॒श्ववे॑दस॒ आ ते॒ त्वष्टा प॒त्सु ज॒वं द॑धातु ॥
+वा᳓तरंहा भव वाजिन्युज्य᳓मान इ᳓न्द्रस्य याहि प्रसवे᳓ म᳓नोजवाः।  
+युञ्ज᳓न्तु त्वा मरु᳓तो विश्व᳓वेदस आ᳓ ते त्व᳓ष्टा᳓ पत्सु᳓ जवं᳓ दधातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/092_vAjI/01_vAtaraMhA_bhava.md">
@@ -102,8 +102,8 @@ Be fleet as wind, Strong Steed, when thou art harnessed; go forth as swift as th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/02_javaste_arvannihito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज॒वस्ते॑ अर्व॒न्निहि॑तो॒ गुहा॒ यः श्ये॒ने वात॑ उ॒त योऽच॑र॒त्परी॑त्तः।  
-तेन॒ त्वं वा॑जि॒न्बल॑वा॒न्बले॑ना॒जिं ज॑य॒ सम॑ने पारयि॒ष्णुः ॥
+जव᳓स्ते अर्वन्नि᳓हितो गु᳓हा यः᳓ श्येने᳓ वा᳓त उत᳓ यो᳓ऽचरत्प᳓रीत्तः।  
+ते᳓न त्वं᳓ वाजिन्ब᳓लवान्ब᳓लेनाजिं᳓ जय स᳓मने पारयिष्णुः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/092_vAjI/02_javaste_arvannihito.md">
@@ -173,8 +173,8 @@ That speed, that lies concealed in thee, O Charger, speed granted to the hawk or
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/03_tanUShTe_vAjintanvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त॒नूष्टे॑ वाजिन्त॒न्वं१॒॑ नय॑न्ती वा॒मम॒स्मभ्यं॒ धाव॑तु॒ शर्म॒ तुभ्य॑म्।  
-अह्रु॑तो म॒हो ध॒रुणा॑य दे॒वो दि॒वी᳡व॒ ज्योतिः॒ स्वमा मि॑मीयात् ॥
+तनू᳓ष्टे वाजिन्तन्वं᳙ न᳓यन्ती वाम᳓मस्म᳓भ्यं धा᳓वतु श᳓र्म तु᳓भ्यम्।  
+अ᳓ह्रुतो महो᳓ धरु᳓णाय देवो᳓ दिवी᳙व ज्यो᳓तिः स्व᳓मा᳓ मिमीयात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/092_vAjI/03_tanUShTe_vAjintanvam.md">

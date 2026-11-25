@@ -37,8 +37,8 @@ A charm to banish jealousy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ई॒र्ष्याया॒ ध्राजिं॑ प्रथ॒मां प्र॑थ॒मस्या॑ उ॒ताप॑राम्।  
-अ॒ग्निं हृ॑द॒य्यं१॒॑ शोकं॒ तं ते॒ निर्वा॑पयामसि ॥
+ईर्ष्या᳓या ध्रा᳓जिं प्रथमां᳓ प्रथम᳓स्या उता᳓पराम्।  
+अग्निं᳓ हृदय्यं᳙ शो᳓कं तं᳓ ते नि᳓र्वापयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjim.md">
@@ -101,8 +101,8 @@ The first approach of Jealousy, and that which followeth the first, The pain, th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ भूमि॑र्मृ॒तम॑ना मृ॒तान्मृ॒तम॑नस्तरा।  
-यथो॒त म॒म्रुषो॒ मन॑ ए॒वेर्ष्योर्मृ॒तं मनः॑ ॥
+य᳓था भू᳓मिर्मृत᳓मना मृता᳓न्मृत᳓मनस्तरा।  
+य᳓थोत᳓ मम्रु᳓षो म᳓न एवे᳓र्ष्यो᳓र्मृतं᳓ म᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
@@ -165,8 +165,8 @@ Even as the earth is dead to sense, yea, more unconscious than the dead, Even as
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/03_ado_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒दो यत्ते॑ हृ॒दि श्रि॒तं म॑न॒स्कं प॑तयिष्णु॒कम्।  
-तत॑स्त ई॒र्ष्यां मु॑ञ्चामि॒ निरू॒ष्माणं॒ दृते॑रिव ॥
+अदो᳓ य᳓त्ते हृदि᳓ श्रितं᳓ मनस्कं᳓ पतयिष्णुक᳓म्।  
+त᳓तस्त ईर्ष्यां᳓ मुञ्चामि नि᳓रूष्मा᳓णं दृ᳓तेरिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/018_IrShyAvinAshanam/03_ado_yatte.md">

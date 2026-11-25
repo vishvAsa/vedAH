@@ -33,8 +33,8 @@ A prayer for rain
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/018_davRShTiH/01_pra_nabhasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र न॑भस्व पृथिवि भि॒न्द्धी॒३॒॑दं दि॒व्यं नभः॑।  
-उ॒द्नो दि॒व्यस्य॑ नो धात॒रीशा॑नो॒ वि ष्या॒ दृति॑म् ॥
+प्र᳓ नभस्व पृथिवि भिन्द्धी᳙दं᳓ दिव्यं᳓ न᳓भः।  
+उद्नो᳓ दिव्य᳓स्य नो धातरी᳓शानो वि᳓ ष्या दृ᳓तिम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/018_davRShTiH/01_pra_nabhasva.md">
@@ -113,8 +113,8 @@ Burst open, Prithvi, and cleave asunder this celestial cloud. Untie, O Dhatar--f
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/018_davRShTiH/02_na_ghraMstatApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न घ्रंस्त॑ताप॒ न हि॒मो ज॑घान॒ प्र न॑भतां पृथि॒वी जी॒रदा॑नुः।  
-आप॑श्चिदस्मै घृ॒तमित्क्ष॑रन्ति॒ यत्र॒ सोमः॒ सद॒मित्तत्र॑ भ॒द्रम् ॥
+न᳓ घ्रं᳓स्तताप न᳓ हिमो᳓ जघान प्र᳓ नभतां पृथिवी᳓ जीर᳓दानुः।  
+आ᳓पश्चिदस्मै घृत᳓मि᳓त्क्षरन्ति य᳓त्र सो᳓मः स᳓दमि᳓त्त᳓त्र भद्र᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/018_davRShTiH/02_na_ghraMstatApa.md">

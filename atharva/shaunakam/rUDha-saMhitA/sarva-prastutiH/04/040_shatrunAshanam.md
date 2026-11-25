@@ -38,8 +38,8 @@ A charm against rival worshippers
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/01_ye_purastAjjuhvati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये पु॒रस्ता॒ज्जुह्व॑ति जातवेदः॒ प्राच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-अ॒ग्निमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+ये᳓ पुर᳓स्ताज्जु᳓ह्वति जातवेदः प्रा᳓च्या दिशो᳓ऽभिदा᳓सन्त्यस्मा᳓न्।  
+अग्नि᳓मृत्वा᳓ ते᳓ प᳓राञ्चो व्यथन्तां प्रत्य᳓गेनान्प्रतिसरे᳓ण हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/01_ye_purastAjjuhvati.md">
@@ -108,8 +108,8 @@ O Jatavedas, eastward sacrificers, as foes assail us from the eastern quarter. M
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/02_ye_daxiNato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये द॑क्षिण॒तो जुह्व॑ति जातवेदो॒ दक्षि॑णाया दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-य॒ममृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥
+ये᳓ दक्षिणतो᳓ जु᳓ह्वति जातवेदो द᳓क्षिणाया दिशो᳓ऽभिदा᳓सन्त्यस्मा᳓न्।  
+यम᳓मृत्वा᳓ ते᳓ प᳓राञ्चो व्यथन्तां प्रत्य᳓गेनान् प्रतिसरे᳓ण हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/02_ye_daxiNato.md">
@@ -159,8 +159,8 @@ O Jatavedas, southward sacrificers as foes assail us from the southern quarter. 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/03_ye_pashchAjjuhvati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये प॒श्चाज्जुह्व॑ति जातवेदः प्र॒तीच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-वरु॑णमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+ये᳓ पश्चा᳓ज्जु᳓ह्वति जातवेदः प्रती᳓च्या दिशो᳓ऽभिदा᳓सन्त्यस्मा᳓न्।  
+व᳓रुणमृत्वा᳓ ते᳓ प᳓राञ्चो व्यथन्तां प्रत्य᳓गेनान्प्रतिसरे᳓ण हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/03_ye_pashchAjjuhvati.md">
@@ -209,8 +209,8 @@ O Jatavedas, westward sacrificers as foes assail us from the western quarter. Fo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/04_ya_uttarato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य उ॑त्तर॒तो जुह्व॑ति जातवेद॒ उदी॑च्या दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-सोम॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+य᳓ उत्तरतो᳓ जु᳓ह्वति जातवेद उ᳓दीच्या दिशो᳓ऽभिदा᳓सन्त्यस्मा᳓न्।  
+सो᳓ममृत्वा᳓ ते᳓ प᳓राञ्चो व्यथन्तां प्रत्य᳓गेनान्प्रतिसरे᳓ण हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/04_ya_uttarato.md">
@@ -255,8 +255,8 @@ Jatavedas, northward sacrificers as foes assail us from the northern quarter. Fo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/05_yedhastAjjuhvati_jAtavedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये॒३॒॑धस्ता॒ज्जुह्व॑ति जातवेदो ध्रु॒वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-भूमि॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+ये᳙ध᳓स्ताज्जु᳓ह्वति जातवेदो ध्रुवा᳓या दिशो᳓ऽभिदा᳓सन्त्यस्मा᳓न्।  
+भू᳓मिमृत्वा᳓ ते᳓ प᳓राञ्चो व्यथन्तां प्रत्य᳓गेनान्प्रतिसरे᳓ण हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/05_yedhastAjjuhvati_jAtavedo.md">
@@ -308,8 +308,8 @@ O Jatavedas, nether sacrificers, as foes assail us from the stead- fast quarter.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/06_ye-ntarixAjjuhvati_jAtavedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये॑३॒॑ऽन्तरि॑क्षा॒ज्जुह्व॑ति जातवेदो व्य॒ध्वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-वा॒युमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+ये᳙ऽन्त᳓रिक्षाज्जु᳓ह्वति जातवेदो व्यध्वा᳓या दिशो᳓ऽभिदा᳓सन्त्यस्मा᳓न्।  
+वायु᳓मृत्वा᳓ ते᳓ प᳓राञ्चो व्यथन्तां प्रत्य᳓गेनान्प्रतिसरे᳓ण हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/06_ye-ntarixAjjuhvati_jAtavedo.md">
@@ -360,8 +360,8 @@ Those who pay sacrifice, O Jatavedas, from air assail us from the midway quarter
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/07_ya_upariShTAjjuhvati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य उ॒परि॑ष्टा॒ज्जुह्व॑ति जातवेद ऊ॒र्ध्वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-सूर्य॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+य᳓ उप᳓रिष्टाज्जु᳓ह्वति जातवेद ऊर्ध्वा᳓या दिशो᳓ऽभिदा᳓सन्त्यस्मा᳓न्।  
+सू᳓र्यमृत्वा᳓ ते᳓ प᳓राञ्चो व्यथन्तां प्रत्य᳓गेनान्प्रतिसरे᳓ण हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/07_ya_upariShTAjjuhvati.md">
@@ -410,8 +410,8 @@ The sacrificers from above assail us, O Jatavedas, from the lofty quarter. For w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/08_ye_dishAmantardeshebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये दि॒शाम॑न्तर्दे॒शेभ्यो॒ जुह्व॑ति जातवेदः॒ सर्वा॑भ्यो दि॒ग्भ्योऽभि॒दास॑न्त्य॒स्मान्।  
-ब्रह्म॒र्त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+ये᳓ दिशा᳓मन्तर्देशे᳓भ्यो जु᳓ह्वति जातवेदः स᳓र्वाभ्यो दिग्भ्यो᳓ऽभिदा᳓सन्त्यस्मा᳓न्।  
+ब्र᳓ह्मर्त्वा᳓ ते᳓ प᳓राञ्चो व्यथन्तां प्रत्य᳓गेनान्प्रतिसरे᳓ण हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/08_ye_dishAmantardeshebhyo.md">

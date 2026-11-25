@@ -33,8 +33,8 @@ A charm against jaundice
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/01_anu_sUryamudayatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अनु॒ सूर्य॒मुद॑यतां हृद्द्यो॒तो ह॑रि॒मा च॑ ते।  
-गो रोहि॑तस्य॒ वर्णे॑न॒ तेन॑ त्वा॒ परि॑ दध्मसि ॥
+अ᳓नु सू᳓र्यमु᳓दयतां हृद्द्योतो᳓ हरिमा᳓ च ते।  
+गो᳓ रो᳓हितस्य व᳓र्णेन ते᳓न त्वा प᳓रि दध्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/01_anu_sUryamudayatAm.md">
@@ -106,8 +106,8 @@ As the Sun rises, let thy sore disease and yellowness depart. We compass and sur
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/02_pari_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ त्वा॒ रोहि॑तै॒र्वर्णै॑र्दीर्घायु॒त्वाय॑ दध्मसि।  
-यथा॒यम॑र॒पा अस॒दथो॒ अह॑रितो॒ भुव॑त् ॥
+प᳓रि त्वा रो᳓हितैर्व᳓र्णैर्दीर्घायुत्वा᳓य दध्मसि।  
+य᳓थाय᳓मरपा᳓ अ᳓सद᳓थो अ᳓हरितो भु᳓वत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/02_pari_tvA.md">
@@ -172,8 +172,8 @@ Ppp. has a different second half-verse: *yathā tvam arapā 'so atho
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/03_yA_rohiNIrdevatyA3.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या रोहि॑णीर्देव॒त्या॑३ गावो॒ या उ॒त रोहि॑णीः।  
-रू॒पंरू॑पं॒ वयो॑वय॒स्ताभि॑ष्ट्वा॒ परि॑ दध्मसि ॥
+या᳓ रो᳓हिणीर्देवत्या᳙ गा᳓वो या᳓ उत᳓ रो᳓हिणीः।  
+रूपं᳓रूपं व᳓योवयस्ता᳓भिष्ट्वा प᳓रि दध्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/03_yA_rohiNIrdevatyA3.md">
@@ -240,8 +240,8 @@ Rohiṇī, our Aldebaran. Ppp. reads *rohiṇīr devatyā*, and in **b**
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/04_sukeShu_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सुके॑षु ते हरि॒माणं॑ रोप॒णाका॑सु दध्मसि।  
-अथो॒ हारि॑द्रवेषु ते हरि॒माणं॒ नि द॑ध्मसि ॥
+सु᳓केषु ते हरिमा᳓णं रोपणा᳓कासु दध्मसि।  
+अ᳓थो हा᳓रिद्रवेषु ते हरिमा᳓णं नि᳓ दध्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/04_sukeShu_te.md">

@@ -37,8 +37,8 @@ A charm to obtain invisibility
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/01_amUH_pAre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मूः पा॒रे पृ॑दा॒क्व॑स्त्रिष॒प्ता निर्ज॑रायवः।  
-तासा॑म्ज॒रायु॑भिर्व॒यम॒क्ष्या॒३॒॑वपि॑ व्ययामस्यघा॒योः प॑रिप॒न्थिनः॑ ॥
+अमूः᳓ पारे᳓ पृदाक्व᳙स्त्रिषप्ता᳓ नि᳓र्जरायवः।  
+ता᳓साम्जरा᳓युभिर्वय᳓मक्ष्या᳙व᳓पि व्ययामस्यघायोः᳓ परिपन्थि᳓नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/01_amUH_pAre.md">
@@ -104,8 +104,8 @@ There on the bank those Vipers lie, thrice-seven, having cast their skins: Now w
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/02_viShUchyetu_kRntatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विषू॑च्येतु कृन्त॒ती पिना॑कमिव॒ बिभ्र॑ती।  
-विष्व॑क्पुन॒र्भुवा॒ मनो ऽस॑मृद्धा अघा॒यवः॑ ॥
+वि᳓षूच्येतु कृन्तती᳓ पि᳓नाकमिव बि᳓भ्रती।  
+वि᳓ष्वक्पुनर्भु᳓वा म᳓नो᳓ ऽसमृद्धा अघाय᳓वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/02_viShUchyetu_kRntatI.md">
@@ -174,8 +174,8 @@ Far let her go, cutting her way, brandishing, as it were, a club: Diverted be th
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/03_na_bahavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न ब॒हवः॒ सम॑शक॒न्नार्भ॒का अ॒भि दा॑धृषुः।  
-वे॒णोरद्गा॑ इवा॒भितो ऽस॑मृद्धा अघा॒यवः॑ ॥
+न᳓ बह᳓वः स᳓मशकन्ना᳓र्भका᳓ अभि᳓ दाधृषुः।  
+वेणो᳓र᳓द्गा इवाभि᳓तो᳓ ऽसमृद्धा अघाय᳓वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/03_na_bahavaH.md">
@@ -244,8 +244,8 @@ Not many have had power enough; the feeble ones have not prevailed, Like scatter
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/04_pretaM_pAdau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रेतं॑ पादौ॒ प्र स्फु॑रतं॒ वह॑तं पृण॒तो गृ॒हान्।  
-इ॑न्द्रा॒ण्ये॑तु प्रथ॒माजी॒तामु॑षिता पु॒रः ॥
+प्रे᳓तं पादौ प्र᳓ स्फुरतं व᳓हतं पृणतो᳓ गृहा᳓न्।  
+इ᳙न्द्राण्ये᳙तु प्रथमा᳓जीता᳓मुषिता पुरः᳓ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/04_pretaM_pAdau.md">

@@ -33,8 +33,8 @@ A Prayer to the Lunar Mansions and other Powers for protection and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/01_chitrANi_sAkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-चि॒त्राणि॑ सा॒कं दि॒वि रो॑च॒नानि॑ सरीसृ॒पाणि॒ भुव॑ने ज॒वानि॑।  
-तु॒र्मिशं॑ सुम॒तिमि॒च्छमा॑नो॒ अहा॑नि गी॒र्भिः स॑पर्यामि॒ नाक॑म् ॥
+चित्रा᳓णि साकं᳓ दिवि᳓ रोचना᳓नि सरीसृपा᳓णि भु᳓वने जवा᳓नि।  
+तुर्मि᳓शं सुमति᳓मिच्छ᳓मानो अ᳓हानि गीर्भिः᳓ सपर्यामि ना᳓कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/01_chitrANi_sAkam.md">
@@ -112,8 +112,8 @@ The brilliant lights shining in heaven together, which through the world glide o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॒हव॑मग्ने॒ कृत्ति॑का॒ रोहि॑णी॒ चास्तु॑ भ॒द्रं मृ॒गशि॑रः॒ शमा॒र्द्रा।  
-पुन॑र्वसू सू॒नृता॒ चारु॒ पुष्यो॑ भा॒नुरा॑श्ले॒षा अय॑नं म॒घा मे॑ ॥
+सुह᳓वमग्ने कृ᳓त्तिका रो᳓हिणी चा᳓स्तु भद्रं᳓ मृग᳓शिरः श᳓मार्द्रा᳓।  
+पु᳓नर्वसू सूनृ᳓ता चा᳓रु पु᳓ष्यो भानु᳓राश्लेषा᳓ अ᳓यनं मघा᳓ मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
@@ -187,8 +187,8 @@ Krittikas, Rohini be swift to hear me! Let Mrigasiras bless me, help me Ardra! P
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/03_puNyaM_pUrvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुण्यं॒ पूर्वा॒ फल्गु॑न्यौ॒ चात्र॒ हस्त॑श्चि॒त्रा शि॒वा स्वा॒ति सु॒खो मे॑ अस्तु।  
-राधे॑ वि॒शाखे॑ सु॒हवा॑नुरा॒धा ज्येष्ठा॑ सु॒नक्ष॑त्र॒मरि॑ष्ट॒ मूल॑म् ॥
+पु᳓ण्यं पू᳓र्वा फ᳓ल्गुन्यौ चा᳓त्र ह᳓स्तश्चित्रा᳓ शिवा᳓ स्वाति᳓ सुखो᳓ मे अस्तु।  
+रा᳓धे विशा᳓खे सुह᳓वानुराधा᳓ ज्ये᳓ष्ठा सुन᳓क्षत्रम᳓रिष्ट मू᳓लम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/03_puNyaM_pUrvA.md">
@@ -279,8 +279,8 @@ My bliss be Svati and benignant Chitra, my right First Phalgunis and present Has
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/04_annaM_pUrvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अन्नं॒ पूर्वा॑ रासतां मे अषा॒ढा ऊर्जं॑ दे॒व्युत्त॑रा॒ आ व॑हन्तु।  
-अ॑भि॒जिन्मे॑ रासतां॒ पुण्य॑मे॒व श्रव॑णः॒ श्रवि॑ष्ठाः कुर्वतां सुपु॒ष्टिम् ॥
+अ᳓न्नं पू᳓र्वा रासतां मे अषाढा᳓ ऊ᳓र्जं देव्यु᳓त्तरा आ᳓ वहन्तु।  
+अ᳙भिजि᳓न्मे रासतां पु᳓ण्यमेव᳓ श्र᳓वणः श्र᳓विष्ठाः कुर्वतां सुपुष्टि᳓म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/04_annaM_pUrvA.md">
@@ -402,8 +402,8 @@ Food shall be earlier Ashadhas grant me; let those that follow bring me strength
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/05_A_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ मे॑ म॒हच्छ॒तभि॑ष॒ग्वरी॑य॒ आ मे॑ द्व॒या प्रोष्ठ॑पदा सु॒शर्म॑।  
-आ रे॒वती॑ चाश्व॒युजौ॒ भगं॑ म॒ आ मे॑ र॒यिं भर॑ण्य॒ आ व॑हन्तु ॥
+आ᳓ मे मह᳓च्छत᳓भिषग्व᳓रीय आ᳓ मे द्वया᳓ प्रो᳓ष्ठपदा सुश᳓र्म।  
+आ᳓ रेव᳓ती चाश्वयु᳓जौ भ᳓गं म आ᳓ मे रयिं᳓ भ᳓रण्य आ᳓ वहन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/05_A_me.md">

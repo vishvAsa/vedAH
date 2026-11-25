@@ -37,8 +37,8 @@ A charm for the discomfiture and destruction of hostile priests
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/01_vaikankatenedhmena_devebhya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॑कङ्क॒तेने॒ध्मेन॑ दे॒वेभ्य॒ आज्यं॑ वह।  
-अग्ने॒ ताँ इ॒ह मा॑दय॒ सर्व॒ आ य॑न्तु मे॒ हव॑म् ॥
+वै᳙कङ्कते᳓नेध्मे᳓न देवे᳓भ्य आ᳓ज्यं वह।  
+अ᳓ग्ने ताँ᳓ इह᳓ मादय स᳓र्व आ᳓ यन्तु मे ह᳓वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/01_vaikankatenedhmena_devebhya.md">
@@ -101,9 +101,9 @@ With fuel of Vikankata bring molten butter to the Gods. O Agni, make them joyful
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/02_indrA_yAhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒न्द्रा या॑हि मे॒ हव॑मि॒दं क॑रिष्यामि॒ तच्छृ॑णु।  
-इ॒म ऐ॒न्द्रा अ॑तिस॒रा आकू॑तिं॒ सं न॑मन्तु मे।  
-तेभिः॑ शकेम वी॒र्यं१॒॑ जात॑वेद॒स्तनू॑वशिन् ॥
+इन्द्रा᳓ याहि मे ह᳓वमिदं᳓ करिष्यामि त᳓च्छृणु।  
+इम᳓ ऐन्द्रा᳓ अतिसरा᳓ आ᳓कूतिं सं᳓ नमन्तु मे।  
+ते᳓भिः शकेम वीर्यं᳙ जा᳓तवेदस्त᳓नूवशिन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/02_indrA_yAhi.md">
@@ -171,8 +171,8 @@ O Indra, come unto my call, This will I do. So hear it thou. Let these exertions
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/03_yadasAvamuto_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॒साव॒मुतो॑ देवा अदे॒वः संश्चिकी॑र्षति।  
-मा तस्या॒ग्निर्ह॒व्यं वा॑क्षी॒द्धवं॑ दे॒वा अ॑स्य॒ मोप॒ गुर्ममै॒व हव॒मेत॑न ॥
+य᳓दसा᳓वमु᳓तो देवा अदेवः᳓ सं᳓श्चि᳓कीर्षति।  
+मा᳓ त᳓स्याग्नि᳓र्हव्यं᳓ वाक्षीद्ध᳓वं देवा᳓ अस्य मो᳓प गु᳓र्म᳓मैव᳓ ह᳓वमे᳓तन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/03_yadasAvamuto_devA.md">
@@ -236,8 +236,8 @@ Whatever plot from yonder, O ye Gods, that godless man would frame, Let not the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/04_ati_dhAvatAtisarA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अति॑ धावतातिसरा॒ इन्द्र॑स्य॒ वच॑सा हत।  
-अविं॒ वृक॑ इव मथ्नीत॒ स वो॒ जीव॒न्मा मो॑चि प्रा॒णम॒स्यापि॑ नह्यत ॥
+अ᳓ति धावतातिसरा इ᳓न्द्रस्य व᳓चसा हत।  
+अ᳓विं वृ᳓क इव मथ्नीत स᳓ वो जी᳓वन्मा᳓ मोचि प्राण᳓मस्या᳓पि नह्यत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/04_ati_dhAvatAtisarA.md">
@@ -304,8 +304,8 @@ Run, ye Fxertions, farther on By Indra's order smite and slay. As a wolf worriet
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/05_yamamI_purodadhire.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यम॒मी पु॑रोदधि॒रे ब्र॒ह्माण॒मप॑भूतये।  
-इन्द्र॒ स ते॑ अधस्प॒दं तं प्रत्य॑स्यामि मृ॒त्यवे॑ ॥
+य᳓ममी᳓ पुरोदधिरे᳓ ब्रह्मा᳓णम᳓पभूतये।  
+इ᳓न्द्र स᳓ ते अधस्पदं᳓ तं᳓ प्र᳓त्यस्यामि मृत्य᳓वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/05_yamamI_purodadhire.md">
@@ -367,8 +367,8 @@ The Brahman whom those yonder have appointed priest, for injury, He, Indra! is b
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/06_yadi_preyurdevapurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ प्रे॒युर्दे॑वपु॒रा ब्रह्म॒ वर्मा॑णि चक्रि॒रे।  
-त॑नू॒पानं॑ परि॒पाणं॑ कृण्वा॒ना यदु॑पोचि॒रे सर्वं॒ तद॑र॒सं कृ॑धि ॥
+य᳓दि प्रेयु᳓र्देवपुरा᳓ ब्र᳓ह्म व᳓र्माणि चक्रिरे᳓।  
+त᳙नूपा᳓नं परिपा᳓णं कृण्वाना᳓ य᳓दुपोचिरे᳓ स᳓र्वं त᳓दरसं᳓ कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/06_yadi_preyurdevapurA.md">
@@ -438,8 +438,8 @@ If they have issued forth, strongholds of Gods, and made their shield of prayer,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/07_yAnasAvatisarAMshchakAra_kRNavachcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यान॒साव॑तिस॒रांश्च॒कार॑ कृ॒णव॑च्च॒ यान्।  
-त्वं तानि॑न्द्र वृत्रहन्प्र॒तीचः॒ पुन॒रा कृ॑धि॒ यथा॒मुं तृ॒णहा॒ञ्जन॑म् ॥
+या᳓नसा᳓वतिसरां᳓श्चका᳓र कृण᳓वच्च या᳓न्।  
+त्वं᳓ ता᳓निन्द्र वृत्रहन्प्रती᳓चः पु᳓नरा᳓ कृधि य᳓थामुं᳓ तृण᳓हाञ्ज᳓नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/07_yAnasAvatisarAMshchakAra_kRNavachcha.md">
@@ -501,8 +501,8 @@ Exertions which that man hath made, Exertions which he yet will make Turn them, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/08_yathendra_udvAchanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथेन्द्र॑ उ॒द्वाच॑नं ल॒ब्ध्वा च॒क्रे अ॑धस्प॒दम्।  
-कृ॒ण्वे॒३॒॑हमध॑रा॒न्तथा॒मूञ्छ॑श्व॒तीभ्यः॒ समा॑भ्यः ॥
+य᳓थे᳓न्द्र उद्वा᳓चनं लब्ध्वा᳓ चक्रे᳓ अधस्पद᳓म्।  
+कृण्वे᳙ह᳓म᳓धरान्त᳓थामू᳓ञ्छश्वती᳓भ्यः स᳓माभ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/08_yathendra_udvAchanam.md">
@@ -574,9 +574,9 @@ As Indra, having seized him, set his foot upon Udvachana, Even so for all the co
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/09_atrainAnindra_vRtrahannugro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अत्रै॑नानिन्द्र वृत्रहन्नु॒ग्रो मर्म॑णि विध्य।  
-अत्रै॒वैना॑न॒भि ति॒ष्ठेन्द्र॑ मे॒द्य१॒॑हं तव॑।  
-अनु॑ त्वे॒न्द्रा र॑भामहे॒ स्याम॑ सुम॒तौ तव॑ ॥
+अ᳓त्रैनानिन्द्र वृत्रहन्नुग्रो᳓ म᳓र्मणि विध्य।  
+अ᳓त्रैवै᳓नानभि᳓ तिष्ठे᳓न्द्र मेद्य᳙हं᳓ त᳓व।  
+अ᳓नु त्वेन्द्रा᳓ रभामहे स्या᳓म सुमतौ᳓ त᳓व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/09_atrainAnindra_vRtrahannugro.md">
