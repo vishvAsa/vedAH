@@ -1,20 +1,13 @@
 +++
 title = "०२ पुनःपत्नीमग्निरदादायुषा सह"
-
 +++
-पुनः॒पत्नी॑म॒ग्निर॑दा॒दायु॑षा स॒ह वर्च॑सा। दी॒र्घायु॑रस्या॒ यः पति॒र्जीवा॑तिश॒रदः॑ श॒तम् ॥
+पु᳓नःप᳓त्नीमग्नि᳓रदादा᳓युषा सह᳓ व᳓र्चसा। दीर्घा᳓युरस्या यः᳓ प᳓तिर्जी᳓वातिशर᳓दः शत᳓म् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/04_punaH_patnImagniradAdAyuShA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/39_punaH_patnImagniradAdAyuShA.md">
 <details open><summary><h2>०४ पुनः पत्नीमग्निरदादायुषा ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/39_punaH_patnImagniradAdAyuShA.md">
-<details open=""><summary><h4>३९ पुनः पत्नीमग्निरदादायुषा ...{Loading}...</h4></summary>
-
-पुनः॒ पत्नी॑म् अ॒ग्निर् अ॑दा॒द्  
-आयु॑षा स॒ह वर्च॑सा ।  
-दी॒र्घा॒युर् अ॑स्या॒ यः पति॒स्  
-स ए॑तु श॒रद॑श् श॒तम् ॥+++(र५)+++  
-
-</details>
-</div>
+पु᳓नः प᳓त्नीम् अग्नि᳓र् अदाद्  
+आ᳓युषा सह᳓ व᳓र्चसा ।  
+दीर्घायु᳓र् अस्या यः᳓ प᳓तिस्  
+स᳓ एतु शर᳓दश् शत᳓म् ॥+++(र५)+++
 </details>
 </div>
