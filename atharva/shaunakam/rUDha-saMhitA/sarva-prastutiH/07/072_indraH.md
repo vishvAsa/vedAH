@@ -8,15 +8,18 @@ title = "०७२ इन्द्रः"
 
 72 (75, 76). With an oblation to Indra.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 इन्द्रः।  
 १-३ अथर्वा। इन्द्रः। १ अनुष्टुप्, २-३ त्रिष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [1, 2. Atharvan.—dvyṛcam. āindrani. 1. anuṣṭubh; 2. triṣṭubh.—3. Atharvan.—āindram. trāiṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Here again, following our leading ms. and the sense, we combined into one what t
 #### Translations
 Translated: Henry, 27, 92; Griffith, i. 361.
 </details>
+
 <details><summary>Griffith</summary>
 
 An invitation to Indra
@@ -39,15 +43,6 @@ An invitation to Indra
 
 उ᳓त्तिष्ठता᳓व पश्यते᳓न्द्रस्य भाग᳓मृत्वि᳓यम्।  
 य᳓दि श्रातं᳓ जुहो᳓तन य᳓द्य᳓श्रातं मम᳓त्तन ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/072_indraH/01_uttiShThatAva_pashyatendrasya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उत्ति॑ष्ठ॒ताव॑ पश्य॒तेन्द्र॑स्य भा॒गमृ॒त्विय॑म्।  
-यदि॑ श्रा॒तं जु॒होत॑न॒ यद्यश्रा॑तं म॒मत्त॑न ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/01_uttiShThatAva_pashyatendrasya.md">
@@ -67,14 +62,23 @@ understood; he explains *mamáttana* ⌊cf. BR. v. 471⌋ as = *pacata* or
 water), or, alternatively, as *indraṁ stutibhir madayata;* those  
 addressed are the priests (*he ṛtvijaḥ*).
 </details>
+
 <details><summary>Griffith</summary>
 
 Rise up and look upon the share of Indra fixt by ritual use. Whether ye poured libation dressed or took delight in it un- cooked.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उत्ति॑ष्ठ॒ताव॑ पश्य॒तेन्द्र॑स्य भा॒गमृ॒त्विय॑म्।  
+यदि॑ श्रा॒तं जु॒होत॑न॒ यद्यश्रा॑तं म॒मत्त॑न ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। ति॒ष्ठ॒त॒। अव॑। प॒श्य॒त॒। इन्द्र॑स्य। भा॒गम्। ऋ॒त्विय॑म्। यदि॑। श्रा॒तम्। जु॒होत॑न। यदि॑। अश्रा॑तम्। म॒मत्त॑न। ७५.१। 
+उत्। ति॒ष्ठ॒त॒। अव॑। प॒श्य॒त॒। इन्द्र॑स्य। भा॒गम्। ऋ॒त्विय॑म्। यदि॑। श्रा॒तम्। जु॒होत॑न। यदि॑। अश्रा॑तम्। म॒मत्त॑न। ७५.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रः
@@ -82,18 +86,22 @@ Rise up and look upon the share of Indra fixt by ritual use. Whether ye poured l
 - अनुष्टुप्
 - इन्द्र सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पुरुषार्थ करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्यो !] (उत् तिष्ठत) खड़े हो जाओ, (इन्द्रस्य) बड़े ऐश्वर्यवाले मनुष्य के (ऋत्वियम्) सब काल में मिलनेवाले (भागम्) ऐश्वर्यसमूह को (अव पश्यत) खोजो। (यदि) जो (श्रातम्) वह परिपक्व [निश्चित] है, (जुहोतन) ग्रहण करो, (यदि) जो (अश्रातम्) अपरिपक्व [अनिश्चित] है, [उसे पक्का, निश्चित करके] (ममत्तन) तृप्त [भरपूर] करो ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य बड़े मनुष्यों के समान निश्चित ऐश्वर्य प्राप्त करें, और अनिश्चित कर्म को विवेकपूर्वक निश्चित करके समाप्त करें ॥१॥ मन्त्र १-३ कुछ भेद से ऋग्वेद में हैं−१०।१७९।१-३ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(उत्तिष्ठत) ऊर्ध्वं तिष्ठत। पौरुषं कुरुत (अवपश्यत) निरीक्षध्वम् (इन्द्रस्य) परमैश्वर्यवतो मनुष्यस्य, (भागम्) भग-अण् समूहे। ऐश्वर्यसमूहम् (ऋत्वियम्) अ० ३।२०।१। सर्वेषु ऋतुषु कालेषु भवम् (यदि) सम्भावनायाम् (श्रातम्) श्रीञ् पाके-क्त। अपस्पृधेथामानृचुः०। पा० ६।१।३६। इति श्राभावः। पक्वम्। निश्चितम् (जुहोतन) हु दानादानादनेषु। लोटि तस्य तनप्, जुहुत। गृह्णीत (यदि) (अश्रातम्) अपक्वम्। अनिश्चितम् (ममत्तन) मद तृप्तयोगे। लोटि शपः श्लु। मदयत। तर्पयत। समाधत्त ॥
@@ -107,15 +115,6 @@ Rise up and look upon the share of Indra fixt by ritual use. Whether ye poured l
 
 श्रातं᳓ हवि᳓रो᳓ ष्विन्द्र प्र᳓ याहि जगा᳓म सू᳓रो अ᳓ध्वनो वि᳓ म᳓ध्यम्।  
 प᳓रि त्वासते निधि᳓भिः स᳓खायः कुलपा᳓ न᳓ व्राजपत᳓ च᳓रन्तम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/072_indraH/02_shrAtaM_haviro.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-श्रा॒तं ह॒विरो ष्वि॑न्द्र॒ प्र या॑हि ज॒गाम॒ सूरो॒ अध्व॑नो॒ वि मध्य॑म्।  
-परि॑ त्वासते नि॒धिभिः॒ सखा॑यः कुल॒पा न व्रा॑जप॒त चर॑न्तम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/02_shrAtaM_haviro.md">
@@ -134,14 +133,23 @@ and accents ⌊cf. *Gram*. § 1267 a⌋ *vrājápatim* in **d**. The comm.
 explains *vimadhyam* as *vikalam madhyam, īṣadūnam madhyabhāgam;* he  
 calls the offering referred to the *dadhigharma* (as Vāit.).
 </details>
+
 <details><summary>Griffith</summary>
 
 Libation is prepared. Come to us, Indra: the Sun hath travelled over half his journey. Friends with their treasures sit around thee, waiting like heads of houses for their wandering chieftain.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+श्रा॒तं ह॒विरो ष्वि॑न्द्र॒ प्र या॑हि ज॒गाम॒ सूरो॒ अध्व॑नो॒ वि मध्य॑म्।  
+परि॑ त्वासते नि॒धिभिः॒ सखा॑यः कुल॒पा न व्रा॑जप॒त चर॑न्तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श्रा॒तम्। ह॒विः। ओ इति॑। सु। इ॒न्द्र॒। प्र। या॒हि॒। ज॒गाम॑। सूरः॑। अध्व॑नः। वि। मध्य॑म्। परि॑। त्वा॒। आ॒स॒ते॒। नि॒धिऽभिः॑। सखा॑यः। कु॒ल॒ऽपाः। न। व्रा॒ज॒ऽप॒तिम्। चर॑न्तम्। ७५.२। 
+श्रा॒तम्। ह॒विः। ओ इति॑। सु। इ॒न्द्र॒। प्र। या॒हि॒। ज॒गाम॑। सूरः॑। अध्व॑नः। वि। मध्य॑म्। परि॑। त्वा॒। आ॒स॒ते॒। नि॒धिऽभिः॑। सखा॑यः। कु॒ल॒ऽपाः। न। व्रा॒ज॒ऽप॒तिम्। चर॑न्तम्। ७५.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रः
@@ -149,18 +157,22 @@ Libation is prepared. Come to us, Indra: the Sun hath travelled over half his jo
 - त्रिष्टुप्
 - इन्द्र सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पुरुषार्थ करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इन्द्र) हे परम ऐश्वर्यवान् मनुष्य ! (श्रातम्) परिपक्व [निश्चित] (हविः) ग्राह्यकर्म को (ओ) अवश्य (सु) भले प्रकार से (प्र याहि) प्राप्त हो, [जैसे] (सूरः) सूर्य (अध्वनः) अपने मार्ग के (मध्यम्) मध्य भाग को (वि) विशेष करके (जगाम) प्राप्त हुआ है। (सखायः) सब मित्र (निधिभिः) अनेक निधियों के साथ (त्वा) तेरे (परि आसते) चारों ओर बैठते हैं, (न) जैसे (कुलपाः) कुलरक्षक लोग (चरन्तम्) चलते फिरते (व्राजपतिम्) घर के स्वामी को ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य दुपहर के सूर्य के समान तेजस्वी होकर अपने कर्तव्य को पूरा करें, पुरुषार्थी मनुष्य के ही अन्य सब लोग सहायक होते हैं ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(श्रातम्) म० १। पक्वम्। निश्चितम् (हविः) ग्राह्यं कर्म (ओ) अवश्यम् (सु) सुष्ठु (प्र याहि) प्राप्नुहि (जगाम) प्राप (सूरः) अ० ४।२।४। लोकप्रेरकः सूर्यः (अध्वनः) अ० १।४।१। मार्गस्य (वि) विशेषेण (मध्यम्) मध्याह्नकालम् (परि) व्याप्य (त्वा) इन्द्रम् (आसते) उपविशन्ति (निधिभिः) धनकोषैः (सखायः) सुहृदः (कुलपाः) वंशरक्षकाः (न) इव (व्राजपतिम्) व्रज गतौ-घञ्। गृहस्वामिनं प्रधानम् (चरन्तम्) गच्छन्तम्। उद्योगिनम् ॥
@@ -174,15 +186,6 @@ Libation is prepared. Come to us, Indra: the Sun hath travelled over half his jo
 
 श्रातं᳓ मन्य ऊ᳓धनि श्रात᳓मग्नौ᳓ सु᳓शृतं मन्ये त᳓दृतं᳓ न᳓वीयः।  
 मा᳓ध्यन्दिनस्य स᳓वनस्य दध्नः᳓ पि᳓बेन्द्र वज्रिन्पुरुकृ᳓ज्जुषाणः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/072_indraH/03_shrAtaM_manya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-श्रा॒तं म॑न्य॒ ऊध॑नि श्रा॒तम॒ग्नौ सुशृ॑तं मन्ये॒ तदृ॒तं नवी॑यः।  
-माध्य॑न्दिनस्य॒ सव॑नस्य द॒ध्नः पिबे॑न्द्र वज्रिन्पुरु॒कृज्जु॑षा॒णः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/03_shrAtaM_manya.md">
@@ -199,14 +202,23 @@ enjoying \[it\].
 RV. reads *súśrātam* in **b**, and *purukṛd* (vocative) in **d**. ⌊For  
 **a**, cf. Aufrecht's *Rigveda*² i. p. xvii, preface.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Dressed in the udder and on fire, I fancy; well dressed, I fancy, is this new oblation. Quaff thickened milk of noon's libation, Indra, well pleased, O Thunderer, famed for many an exploit!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+श्रा॒तं म॑न्य॒ ऊध॑नि श्रा॒तम॒ग्नौ सुशृ॑तं मन्ये॒ तदृ॒तं नवी॑यः।  
+माध्य॑न्दिनस्य॒ सव॑नस्य द॒ध्नः पिबे॑न्द्र वज्रिन्पुरु॒कृज्जु॑षा॒णः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श्रा॒तम्। म॒न्ये॒। ऊध॑नि। श्रा॒तम्। अ॒ग्नौ। सुऽशृ॑तम्। म॒न्ये॒। तत्। ऋ॒तम्। नवी॑यः। माध्यं॑दिनस्य। सव॑नस्य। द॒ध्नः। पिब॑। इ॒न्द्र॒। व॒ज्रि॒न्। पु॒रु॒ऽकृत्। जु॒षा॒णः। ७६.१। 
+श्रा॒तम्। म॒न्ये॒। ऊध॑नि। श्रा॒तम्। अ॒ग्नौ। सुऽशृ॑तम्। म॒न्ये॒। तत्। ऋ॒तम्। नवी॑यः। माध्यं॑दिनस्य। सव॑नस्य। द॒ध्नः। पिब॑। इ॒न्द्र॒। व॒ज्रि॒न्। पु॒रु॒ऽकृत्। जु॒षा॒णः। ७६.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रः
@@ -214,18 +226,22 @@ Dressed in the udder and on fire, I fancy; well dressed, I fancy, is this new ob
 - त्रिष्टुप्
 - इन्द्र सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पुरुषार्थ करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ऊधनि) [दूसरों को] चलाने वा सींचने में (श्रातम्) परिपक्वता [निश्चयपन], (अग्नौ) अग्नि अर्थात् पराक्रम में (श्रातम्) परिपक्वता (मन्ये) मैं मानता हूँ, [जो] (ऋतम्) सत्य धर्म है, (तत्) उसको (नवीयः) अधिक स्तुतियोग्य, (सुशृतम्) सुपरिपक्व [सुनिश्चित कर्म] (मन्ये) मैं मानता हूँ। (वज्रिन्) हे वज्रधारी ! (पुरुकृत) हे अनेक कर्म करनेवाले (इन्द्र) बड़े ऐश्वर्यवाले मनुष्य ! (जुषाणः) प्रसन्न होकर (माध्यन्दिनस्य) मध्य दिन के (सवनस्य) काल वा स्थान की (दध्नः) धारण शक्ति का (पिब) पान कर ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सत्य वैदिक धर्म में पूर्ण निष्ठा रखकर परोपकार और पराक्रम करके सूर्य के समान तेजस्वी हो ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(श्रातम्)-म० १। भावे-क्त। परिपचनम् सुनिश्चयम् (मन्ये) अहं जाने (ऊधनि) अ० ४।११।४। श्वेः सम्प्रसारणं च। उ० ४।१९३। वह प्रापणे-असुन्। यद्वा। उन्दी क्लेदने-असुन्, इति ऊधस्, पृषोदरादि रूपम्। छन्दस्यपि दृश्यते। पा० ७।१।७६। ऊधस् शब्दस्यापि अनङ् आदेशः। यद्वा। ऊधसोऽनङ्। पा० ५।४।१३१। समासे विधीयमानोऽनङ् छन्दसि केवलादपि। ऊधसि। वहने नयने। सेचने (श्रातम्) (अग्नौ) पराक्रमे (सुशृतम्) शृतं पाके। पा० ६।१।२७। श्रा पाके-क्त। परिपक्वम्। निश्चितम् (मन्ये) (तत्) (ऋतम्) यत्सत्यं धर्मः (नवीयः) णु स्तुतौ-अप्+ईयसुन्। स्तुत्यनरम् (माध्यन्दिनस्य) अन्तःपूर्वपदात् ठञ्। पा० ४।३।६०। मध्यो मध्यं दिनण् चास्मात्। इति वार्तिकम्। मध्य-दिनण्प्रत्ययः। मध्ये भवस्य। यद्वा। उत्सादिभ्योऽञ्। पा० ४।१।८६। मध्यन्दिन-अञ्। मध्यदिने भवस्य (सवनस्य) षू प्रेरणे-ल्युट्। सवनानि स्थानानि-निरु० ५।२५। कालस्य स्थानस्य (दध्नः) भाषायां धाञ्कृञ्सृजनि। वा० पा० ३।२।१७१। डुधाञ् धारणपोषणयोः-कि। यद्वा। सर्वधातुभ्य इन्। उ० ४।११८। दध धारणे-इन्। अस्थिदधि०। पा० ७।१।७५। इत्यनङ्। धारणस्य। आलम्बनस्य (पिब) पानं कुरु। स्वीकुरु (इन्द्र) परमैश्वर्यवन् पुरुष (वज्रिन्) वज्रधारक (पुरुकृत्) हे बहुकर्मन् (जुषाणः) प्रीयमाणः ॥

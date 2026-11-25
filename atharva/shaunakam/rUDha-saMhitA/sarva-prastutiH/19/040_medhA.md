@@ -8,15 +8,18 @@ title = "०४० मेधा"
 
 40. To various divinities: for various blessings.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 मेधा।  
 १-४ ब्रह्माः बृहस्पतिः, विश्वे देवाश्च। १ पराऽनुष्टुप् त्रिष्टुप्, २ पुरः ककुम्मत्युपरिष्टाद्बृहती, ३ बृहतीगर्भा, ४ त्रिपदाऽर्षी गायत्री।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—caturṛcam. bārhaspatyam uta vāiśvadevam. ānuṣṭubham: 1. parānuṣṭup triṣṭubh; 2. puraḥkakummaty upariṣṭādbṛhatī; 3. bṛhatīgarbhā; 4. 3-p. ārṣī gāyatrī.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Of this hymn only the first verse occurs in Pāipp. (in xix.). The comm. reports
 #### Translations
 Translated; Griffith, ii. 297.
 </details>
+
 <details><summary>Griffith</summary>
 
 A prayer for pardon of error in sacrifice, and for wisdom, strength, and life
@@ -39,15 +43,6 @@ A prayer for pardon of error in sacrifice, and for wisdom, strength, and life
 
 य᳓न्मे छिद्रं᳓ म᳓नसो य᳓च्च वाचः᳓ स᳓रस्वती मन्युम᳓न्तं जगा᳓म।  
 वि᳓श्वैस्त᳓द्देवैः᳓ सह᳓ संविदानः᳓ सं᳓ दधातु बृ᳓हस्प᳓तिः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/01_yanme_Chidram.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यन्मे॑ छि॒द्रं मन॑सो॒ यच्च॑ वा॒चः सर॑स्वती मन्यु॒मन्तं॑ ज॒गाम॑।  
-विश्वै॒स्तद्दे॒वैः स॒ह सं॑विदा॒नः सं द॑धातु॒ बृह॒स्पतिः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/01_yanme_Chidram.md">
@@ -73,14 +68,23 @@ verses in VS. (xxxvi. 2) and Āp. (xiv. 16. 1), but they cast no light on
 bṛ́haspátir me tád dadhātu;* and Āp., *yan me manasaś chidraṁ yad vāco  
 yac ca me hṛdaḥ: ayaṁ devo bṛhaspatiḥ saṁ tat siñcatu rādhasā*.
 </details>
+
 <details><summary>Griffith</summary>
 
 For each defect of mine in voice and spirit I have approached One vehement and ardent. With all the Deities, fully approving, Brihaspati supply the want!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यन्मे॑ छि॒द्रं मन॑सो॒ यच्च॑ वा॒चः सर॑स्वती मन्यु॒मन्तं॑ ज॒गाम॑।  
+विश्वै॒स्तद्दे॒वैः स॒ह सं॑विदा॒नः सं द॑धातु॒ बृह॒स्पतिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। मे॒। छि॒द्रम्। मन॑सः। यत्। च॒। वा॒चः। सर॑स्वती। म॒न्यु॒ऽमन्त॑म्। ज॒गाम॑। विश्वैः॑। तत्। दे॒वैः। स॒ह। स॒म्ऽवि॒दा॒नः। सम्। द॒धा॒तु॒। बृह॒स्पतिः॑। ४०.१। 
+यत्। मे॒। छि॒द्रम्। मन॑सः। यत्। च॒। वा॒चः। सर॑स्वती। म॒न्यु॒ऽमन्त॑म्। ज॒गाम॑। विश्वैः॑। तत्। दे॒वैः। स॒ह। स॒म्ऽवि॒दा॒नः। सम्। द॒धा॒तु॒। बृह॒स्पतिः॑। ४०.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - बृहस्पतिः, विश्वे देवाः
@@ -88,18 +92,22 @@ For each defect of mine in voice and spirit I have approached One vehement and a
 - परानुष्टुप्त्रिष्टुप्
 - मेधा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बुद्धि बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जो (मे) मेरे (मनसः) मन का (च) और (यत्) जो (वाचः) वाणी का (छिद्रम्) दोष है, [जिससे] (सरस्वती) सरस्वती [उत्तम वेदविद्या] (मन्युमन्तम्) क्रोधयुक्त [व्यवहार] को (जगाम) प्राप्त हुई है। (तत्) उस [दोष] को (विश्वैः) सब (देवैः सह) उत्तम गुणों के साथ (संविदानः) मिलता हुआ (बृहस्पतिः) बड़े आकाश आदि का पालक परमेश्वर (सं दधातु) सन्धियुक्त करे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जब मनुष्य मानसिक वा वाचिक दोष से विद्या देवी को क्रोधित कर देवे, वह परमात्मा की शरण लेकर अपनी न्यूनताएँ पूरी करे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   इस मन्त्र का मिलान करो-यजु०३६।२॥१−(यत्) (मे) मम (छिद्रम्) दोषम् (मनसः) हृदयस्य (यत्) (च) (वाचः) वाण्याः (सरस्वती) विज्ञानवती वेदविद्या (मन्युमन्तम्) क्रोधवन्तं व्यवहारम् (जगाम) प्राप (विश्वैः) सर्वैः (तत्) छिद्रम् (देवैः) उत्तमगुणैः (सह) (संविदानः) संगच्छमानः (सं दधातु) सन्धानं करोतु (बृहस्पतिः) बृहतामाकाशादीनां पालक ईश्वरः ॥
@@ -113,15 +121,6 @@ For each defect of mine in voice and spirit I have approached One vehement and a
 
 मा᳓ न आपो मेधां᳓ मा᳓ ब्र᳓ह्म प्र᳓ मथिष्टन।  
 सु᳙ष्यदा᳓ यूयं᳓ स्यन्दध्वमु᳓पहूतोऽहं᳓ सुमे᳓धा वर्चस्वी᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/02_mA_na.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मा न॑ आपो मे॒धां मा ब्रह्म॒ प्र म॑थिष्टन।  
-सु॑ष्य॒दा यू॒यं स्य॑न्दध्व॒मुप॑हूतो॒ऽहं सु॒मेधा॑ वर्च॒स्वी ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/02_mA_na.md">
@@ -152,14 +151,23 @@ wrongly *su॰médhā*); ⌊in the edition⌋ we ⌊should have⌋ rectified the
 accent ⌊so as to read⌋ *sumedhā́s*. \*⌊The Anukr. would scan as 6 + 8: 8  
 + 12; the Berlin text as 6 + 8: 12 + 8.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Disturb ye not our intellect, O Waters, nor the power of prayer_ Glide on your way, strength-giving, invocated: may I be vigor- ous and wise.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मा न॑ आपो मे॒धां मा ब्रह्म॒ प्र म॑थिष्टन।  
+सु॑ष्य॒दा यू॒यं स्य॑न्दध्व॒मुप॑हूतो॒ऽहं सु॒मेधा॑ वर्च॒स्वी ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मा। नः॒। आपः॑। मे॒धाम्। मा। ब्रह्म॑। प्र। म॒थि॒ष्ट॒न॒। सु॒ऽस्य॒दाः। यू॒यम्। स्य॒न्द॒ध्व॒म्। उप॑ऽहूतः। अ॒हम्। सु॒ऽमे॑धाः। व॒र्च॒स्वी। ४०.२। 
+मा। नः॒। आपः॑। मे॒धाम्। मा। ब्रह्म॑। प्र। म॒थि॒ष्ट॒न॒। सु॒ऽस्य॒दाः। यू॒यम्। स्य॒न्द॒ध्व॒म्। उप॑ऽहूतः। अ॒हम्। सु॒ऽमे॑धाः। व॒र्च॒स्वी। ४०.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - बृहस्पतिः, विश्वे देवाः
@@ -167,18 +175,22 @@ Disturb ye not our intellect, O Waters, nor the power of prayer_ Glide on your w
 - पुरःककुम्मत्युपरिष्टाद्बृहती
 - मेधा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बुद्धि बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (आपः) जल [के समान शान्तस्वरूप प्रजाओ] तुम (मा) न (नः) हमारी (मेधाम्) धारणावती बुद्धि को और (मा) न (ब्रह्म) वेदज्ञान को (प्र मथिष्टन) नष्ट करो। (सुष्यदाः) सहज में बहनेवाले (यूयम्) तुम (स्यन्दध्वम्) बहते जाओ। (उपहूतः) आवाहन किया हुआ (अहम्) मैं (सुमेधाः) सुन्दर बुद्धिवाला और (वर्चस्वी) बड़ा प्रतापी [हो जाऊँ] ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे प्रभूत जल बे रोक-टोक सहज में बहता चला जाता है, वैसे ही मनुष्य सब विघ्नों को हटाकर अपने सन्तान आदि को बुद्धिमान् और प्रतापी बनावें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(मा) निषेधे (नः) अस्माकम् (आपः) जलानीव शान्तस्वभावाः प्रजाः (मेधाम्) धारणावतीं बुद्धिम् (मा) निषेधे (ब्रह्म) वेदज्ञानम् (प्र मथिष्टन) मथे विलोडने-लोटि छान्दसं रूपम्। प्रमथत। प्रभ्रंशं कुरुत (सुष्यदाः) सु+स्यन्दू प्रस्रवणे-क, टाप्। सहजस्रवणशीलाः (यूयम्) (स्यन्दध्वम्) प्रवहत (उपहूतः) आहूतः (अहम्) (सुमेधाः) अ०५।११।१। सु+मेधा-असिच्। सुबुद्धियुक्तः (वर्चस्वी) प्रतापी, भूयासमिति शेषः ॥
@@ -192,15 +204,6 @@ Disturb ye not our intellect, O Waters, nor the power of prayer_ Glide on your w
 
 मा᳓ नो मेधां᳓ मा᳓ नो दीक्षां᳓ मा᳓ नो हिंसिष्टं य᳓त्त᳓पः।  
 शिवा᳓ नः शं᳓ सन्त्वा᳓युषे शिवा᳓ भवन्तु मात᳓रः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/03_mA_no.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मा नो॑ मे॒धां मा नो॑ दी॒क्षां मा नो॑ हिंसिष्टं॒ यत्तपः॑।  
-शि॒वा नः॒ शं स॒न्त्वायु॑षे शि॒वा भ॑वन्तु मा॒तरः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/03_mA_no.md">
@@ -230,14 +233,23 @@ all ⌊except perhaps W's L.⌋ have *śivā́ḥ* in **d**. There is no good
 reason why the Anukr. should call the verse *bṛhatīgarbhā*, since **c**  
 can be read as eight syllables in either form.
 </details>
+
 <details><summary>Griffith</summary>
 
 Mar not our consecrating rite, our intellect, or fervent zeal. Gracious to us for lengthened life, propitious let the Mothers be.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मा नो॑ मे॒धां मा नो॑ दी॒क्षां मा नो॑ हिंसिष्टं॒ यत्तपः॑।  
+शि॒वा नः॒ शं स॒न्त्वायु॑षे शि॒वा भ॑वन्तु मा॒तरः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मा। नः॒। मे॒धाम्। मा। नः॒। दी॒क्षाम्। मा। नः॒। हिं॒सि॒ष्ट॒म्। यत्। तपः॑। शि॒वाः। नः॒। शम्। स॒न्तु॒। आयु॑षे। शि॒वाः। भ॒व॒न्तु॒। मा॒तरः॑। ४०.३। 
+मा। नः॒। मे॒धाम्। मा। नः॒। दी॒क्षाम्। मा। नः॒। हिं॒सि॒ष्ट॒म्। यत्। तपः॑। शि॒वाः। नः॒। शम्। स॒न्तु॒। आयु॑षे। शि॒वाः। भ॒व॒न्तु॒। मा॒तरः॑। ४०.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - बृहस्पतिः, विश्वे देवाः
@@ -245,18 +257,22 @@ Mar not our consecrating rite, our intellect, or fervent zeal. Gracious to us fo
 - बृहत्यनुष्टुप्
 - मेधा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बुद्धि बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे माता-पिता ! म०४] तुम दोनों (न) न तो (नः) हमारी (मेधाम्) धारणावती बुद्धि को, (मा) न (नः) हमारी (दीक्षाम्) दीक्षा [नियम और व्रत की शिक्षा] को और (मा) न (नः) हमारा (यत्) जो कुछ (तपः) तप [ब्रह्मचर्यादि] है, [उसको] (हिंसिष्टम्) नष्ट करो। (नः) हमारे (आयुषे) जीवन के लिये [वे प्रजाएँ] (शिवाः) कल्याणकारिणी और (शम्) शान्तिदायिनी (सन्तु) होवें, और (शिवाः) कल्याणकारिणी (मातरः) माताओं [के समान] (भवन्तु) होवें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  माता-पिता ऐसा प्रयत्न करें कि उनके सन्तान बुद्धिमान्, धर्मात्मा और सर्वहितैषी होवें, जिससे उनसे सब लोग माता के समान प्रीति करें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   यह मन्त्र कुछ भेद से महर्षिदयानन्दकृत संस्कारविधि वानप्रस्थप्रकरण में व्याख्यात है ॥३−(मा) निषेधे (नः) अस्माकम् (मेधाम्) धारणावतीं बुद्धिम् (मा) (नः) (दीक्षाम्) नियमव्रतयोः शिक्षाम् (मा) (नः) (हिंसिष्टम्) नाशयतं युवाम् (यत्) (तपः) ब्रह्मचर्यादितपश्चरणम् (शिवाः) मङ्गलकारिण्यः प्रजाः (नः) अस्माकम् (शम्) शान्तिदायिन्यः (सन्तु) (आयुषे) जीवनाय (शिवाः) मङ्गलप्रदाः (भवन्तु) (मातरः) जननीवद्धितकारिण्यः ॥
@@ -270,15 +286,6 @@ Mar not our consecrating rite, our intellect, or fervent zeal. Gracious to us fo
 
 या᳓ नः पी᳓परदश्वि᳓ना ज्यो᳓तिष्मती त᳓मस्तिरः᳓।  
 ता᳓मस्मे᳓ रासतामि᳓षम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/04_yA_naH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-या नः॒ पीप॑रद॒श्विना॒ ज्योति॑ष्मती॒ तम॑स्ति॒रः।  
-ताम॒स्मे रा॑सता॒मिष॑म् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/04_yA_naH.md">
@@ -313,14 +320,23 @@ takes *mā pīparat* as *pāram mā gamayatu*, and **b** as its antithesis,
 supplying *karotu* to *tiras;* and he refers at the end to *yā* as read  
 *śākhāntare* (i.e., in RV.).
 </details>
+
 <details><summary>Griffith</summary>
 
 Vouchsafe to us, ye Asvins twain, such strength as, with atten- dant light, May through the darkness carry us.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+या नः॒ पीप॑रद॒श्विना॒ ज्योति॑ष्मती॒ तम॑स्ति॒रः।  
+ताम॒स्मे रा॑सता॒मिष॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-या। नः॒। पीप॑रत्। अ॒श्विना॑। ज्योति॑ष्मती। तमः॑। ति॒रः। ताम्। अ॒स्मे। रा॒स॒ता॒म्। इष॑म्। ४०.४। 
+या। नः॒। पीप॑रत्। अ॒श्विना॑। ज्योति॑ष्मती। तमः॑। ति॒रः। ताम्। अ॒स्मे। रा॒स॒ता॒म्। इष॑म्। ४०.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - बृहस्पतिः, विश्वे देवाः
@@ -328,18 +344,22 @@ Vouchsafe to us, ye Asvins twain, such strength as, with atten- dant light, May 
 - त्रिपदार्षी गायत्री
 - मेधा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बुद्धि बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (या) जो (ज्योतिष्मती) उत्तम ज्योतिवाली [अन्न-सामग्री] (तमः) अन्धकार का (तिरः) तिरस्कार करके (नः) हमें (पीपरत्) पूर्ण करे, (अश्विना) व्यवहारों में व्यापक दोनों [माता-पिता] (ताम्) उस (इषम्) अन्नसामग्री को (अस्मे) हमें (रासताम्) दिया करें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  माता-पिता सन्तानों को ऐसा विद्वान् और बलवान् बनावें कि जिससे उत्तम अन्न के भोगने से नेत्रों में कभी अन्धकार न छाए, किन्तु सदा ज्योति बनी रहे ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   यह मन्त्र कुछ भेद से ऋग्वेद में है-१।४६।६॥४−(या) इट्। अन्नसामग्री (नः) अस्मान् (पीपरत्) पूरयेत् (अश्विना) व्यवहारेषु व्यापकौ मातापितरौ (ज्योतिष्मती) प्रकाशवती (तमः) अन्धकारम् (तिरः) तिरस्कृत्य (ताम्) तादृशीम् (अस्मे) अस्मभ्यम् (रासताम्) प्रयच्छतां तौ (इषम्) इषम्, अन्ननाम-निघ०२।७। इष्यमानामन्नसामग्रीम् ॥

@@ -8,15 +8,18 @@ title = "०९४ सांमनस्यम्"
 
 94 (99). For India's help to unanimity.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 सांमनस्यम्।  
 १ अथर्वा। सोमः। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—sāumyam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -35,15 +38,6 @@ Translated: Henry, 38, 109; Griffith, i. 375.—Cf. Oldenberg, Rigveda i. p. 249
 
 ध्रुवं᳓ ध्रुवे᳓ण हवि᳓षा᳓व सो᳓मं नयामसि।  
 य᳓था न इ᳓न्द्रः के᳓वलीर्वि᳓शः सं᳓मनसस्क᳓रत् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/094_sAMmanasyam/01_dhruvaM_dhruveNa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ध्रु॒वं ध्रु॒वेण॑ ह॒विषाव॒ सोमं॑ नयामसि।  
-यथा॑ न॒ इन्द्रः॒ केव॑ली॒र्विशः॒ संम॑नस॒स्कर॑त् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/094_sAMmanasyam/01_dhruvaM_dhruveNa.md">
@@ -66,14 +60,23 @@ VS. is quite different: *dh. dh. mánasā vācā́ sómam áva nayāmi: áthā n
 índra íd víśo ‘sapatnā́ḥ sámanasas kárat*. \*⌊And hence *karat* for  
 *kárat* in **d**.—The vs. is also noted as occurring at K. xxxv. 7.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 We laid the constant Soma on with constant sacrificial gift, That Indra may make all the tribes unanimous and only ours.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ध्रु॒वं ध्रु॒वेण॑ ह॒विषाव॒ सोमं॑ नयामसि।  
+यथा॑ न॒ इन्द्रः॒ केव॑ली॒र्विशः॒ संम॑नस॒स्कर॑त् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ध्रु॒वम्। ध्रु॒वेण॑। ह॒विषा॑। अव॑। सोम॑म्। न॒या॒म॒सि॒। यथा॑। नः॒। इन्द्रः॑। केव॑लीः। विशः॑। सम्ऽम॑नसः। कर॑त्। ९९.१। 
+ध्रु॒वम्। ध्रु॒वेण॑। ह॒विषा॑। अव॑। सोम॑म्। न॒या॒म॒सि॒। यथा॑। नः॒। इन्द्रः॑। केव॑लीः। विशः॑। सम्ऽम॑नसः। कर॑त्। ९९.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सोमः
@@ -81,18 +84,22 @@ We laid the constant Soma on with constant sacrificial gift, That Indra may make
 - अनुष्टुप्
 - सांमनस्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा की स्तुति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ध्रुवम्) दृढ़ स्वभाव (सोमम्) ऐश्वर्यवान् राजा को (ध्रुवेण) दृढ़ (हविषा) आत्मदान वा भक्ति के साथ (अव नयामसि) हम स्वीकार करते हैं। (यथा) जिससे [वह] (इन्द्रः) प्रतापी राजा (नः) हमारे लिये (केवलीः) सेवास्वभाववाली (विशः) प्रजाओं को (संमनसः) एकमन (करत्) कर देवे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब मनुष्य विद्वान् राजा का अभिषेक करके प्रार्थना करें कि सब प्रजा को परस्पर मिलाकर प्रसन्न रक्खे ॥१॥ यह मन्त्र कुछ भेद से ऋग्वेद में है−१०।१७३।६। और यजु० ७।२५ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(ध्रुवम्) ध्रु स्थैर्ये-अच्। स्थिरम् (ध्रुवेण) दृढेन (हविषा) आत्मदानेन (सोमम्) षु ऐश्वर्ये-मन्। ऐश्वर्यवन्तम् (अत्र नयामसि) स्वीकुर्मः (यथा) येन प्रकारेण (नः) अस्मभ्यम् (इन्द्रः) प्रतापी (केवलीः) अ० ३।१८।२। केवल-ङीप्। सेवास्वभावाः। सेवनीयाः (विशः) प्रजाः (संमनसः) समानमनस्काः (करत्) कुर्यात् ॥

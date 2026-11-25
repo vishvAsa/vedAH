@@ -8,16 +8,19 @@ title = "०५७ दुःष्वप्ननाशनम्"
 
 57. Against evil-dreaming.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 दुःष्वप्ननाशनम्।  
 १-५ यमः। दुःष्वप्ननाशनम्। १ अनुष्टुप्, २-३ त्रिष्टुप् (त्र्यवसाना), ४ षट्पदा उष्णिग्बृहतीगर्भा  
 विराट् शक्वरी, ५ त्र्यवसाना पञ्चपदा परशाक्वरातिजगती।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Yama.—pañcatam. dāuṣvapnyam. trāiṣṭubham: 1. anuṣṭubh; 3 ⌊of Anukr.: = 3 and 4 a. (to mukham) of Berlin ed'n⌋. 3-av. 4-p. triṣṭubh; 4. ⌊of Anukr.: = 4 b to 5 b of Berlin ed'n, that is taṁ tvā svapna to gṛhe⌋. 6-p. uṣṇigbṛhatīgarbhā virāṭśakvarī; 5 ⌊of Anukr.: = 5 c to 6 of Berlin ed'n, that is anāsmākas tad to end of hymn⌋. 3-av. 5-p. paraśākvarā ’tijagatī.⌋
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -27,6 +30,7 @@ title = "०५७ दुःष्वप्ननाशनम्"
 #### Translations
 Translated: Ludwig, p. 468; Griffith, ii. 314.
 </details>
+
 <details><summary>Griffith</summary>
 
 A charm against evil dreams
@@ -40,15 +44,6 @@ A charm against evil dreams
 
 य᳓था कलां᳓ य᳓था शफं᳓ य᳓थर्णं᳓ संन᳓यन्ति।  
 एवा᳓ दुःष्व᳓प्न्यं स᳓र्वम᳓प्रिये सं᳓ नयामसि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/01_yathA_kalAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति।  
-ए॒वा दुः॒ष्वप्न्यं॒ सर्व॒मप्रि॑ये॒ सं न॑यामसि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/01_yathA_kalAm.md">
@@ -66,14 +61,23 @@ substituting *ápriye* in **d** for *dviṣaté*. *Apriye* comes near to the
 *āptyé* of RV. viii. 47. 17, with which both verses correspond: see note  
 to vi. 46. 3. The comm., in fact, reads *āptye*.
 </details>
+
 <details><summary>Griffith</summary>
 
 As men discharge the utmost debt, collect the eighth and sixteenth part, So to the foeman we transfer together all the evil dream.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति।  
+ए॒वा दुः॒ष्वप्न्यं॒ सर्व॒मप्रि॑ये॒ सं न॑यामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। क॒लाम्। यथा॑। श॒फम्। यथा॑। ऋ॒णम्। स॒म्ऽनय॑न्ति। ए॒व। दुः॒ऽस्वप्न्य॑म्। सर्व॑म्। अप्रि॑ये। सम्। न॒या॒म॒सि॒। ५७.१। 
+यथा॑। क॒लाम्। यथा॑। श॒फम्। यथा॑। ऋ॒णम्। स॒म्ऽनय॑न्ति। ए॒व। दुः॒ऽस्वप्न्य॑म्। सर्व॑म्। अप्रि॑ये। सम्। न॒या॒म॒सि॒। ५७.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दुःष्वप्ननाशनम्
@@ -81,18 +85,22 @@ As men discharge the utmost debt, collect the eighth and sixteenth part, So to t
 - अनुष्टुप्
 - दुःस्वप्नानाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बुरे स्वप्न दूर करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यथा) जैसे (कलाम्) सोलहवें अंश को और (यथा) जैसे (शफम्) आठवें अंश को और (यथा) जैसे (ऋणम्) [पूरे] ऋण को (संनयन्त) लोग चुकाते हैं। (एव) वैसे ही (सर्वम्) सब (दुःष्वप्न्यम्) नींद में उठे बुरे विचार को (अप्रिये) अप्रिय पुरुष पर (सम् नयामसि) हम छोड़ते हैं ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे मनुष्य ऋण को थोड़ा-थोड़ा करके वा सब एक साथ चुकाते हैं, वैसे ही मनुष्य कुस्वप्न आदि रोगों से निवृत्ति पावें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   यह मन्त्र कुछ भेद से आ चुका है-अ० ६।४६।३ और ऋग्वेद में भी है-८।४७।१७ ॥  १−(यथा) येन प्रकारेण (कलाम्) षोडशांशम् (यथा) (शफम्) गवादिपादचतुष्टयस्य द्विखुरत्वाद् एकस्य खुरस्याष्टमांशग्रहणम्। अष्टमांशम् (यथा) (ऋणम्) पुनर्देयत्वेन गृहीतं धनम् (संनयन्ति) सम्यग् गमयन्ति। प्रत्यर्पयन्ति (एव) एवम् (दुःष्वप्न्यम्) कुनिद्राभवं विचारम् (सर्वम्) (अप्रिये) अहिते। शत्रौ (संनयामसि) संनयामः। स्थापयामः ॥
@@ -106,15 +114,6 @@ As men discharge the utmost debt, collect the eighth and sixteenth part, So to t
 
 सं᳓ रा᳓जानो अगुः स᳓मृणा᳓न्यगुः सं᳓ कुष्ठा᳓ अगुः सं᳓ कला᳓ अगुः।  
 स᳓मस्मा᳓सु य᳓द्दुःष्व᳓प्न्यं नि᳓र्द्विषते᳓ दुःष्व᳓प्न्यं सुवाम ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सं राजा॑नो अगुः॒ समृ॒णान्य॑गुः॒ सं कु॒ष्ठा अ॑गुः॒ सं क॒ला अ॑गुः।  
-सम॒स्मासु॒ यद्दुः॒ष्वप्न्यं॒ निर्द्वि॑ष॒ते दुः॒ष्वप्न्यं॑ सुवाम ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
@@ -143,14 +142,23 @@ idea, and a wholly unacceptable one, of the general meaning of the
 verse. ⌊The verse is prose, no *triṣṭubh;* but may be stretched so as to  
 count as 43 syllables.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Princes came together, debts came together, Kushthas came to- gether, Sixteenths came together. The whole evil dream that hath visited us we send away as a bad dream to the man who hates us.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सं राजा॑नो अगुः॒ समृ॒णान्य॑गुः॒ सं कु॒ष्ठा अ॑गुः॒ सं क॒ला अ॑गुः।  
+सम॒स्मासु॒ यद्दुः॒ष्वप्न्यं॒ निर्द्वि॑ष॒ते दुः॒ष्वप्न्यं॑ सुवाम ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। राजा॑नः। अ॒गुः॒। सम्। ऋ॒णानि॑। अ॒गुः॒। सम्। कु॒ष्ठाः। अ॒गुः॒। सम्। क॒लाः। अ॒गुः॒। सम्। अ॒स्मासु॑। यत्। दुः॒ऽस्वप्न्य॑म्। निः। द्वि॒ष॒ते। दुः॒ऽस्वप्न्य॑म्। सु॒वा॒म॒। ५७.२। 
+सम्। राजा॑नः। अ॒गुः॒। सम्। ऋ॒णानि॑। अ॒गुः॒। सम्। कु॒ष्ठाः। अ॒गुः॒। सम्। क॒लाः। अ॒गुः॒। सम्। अ॒स्मासु॑। यत्। दुः॒ऽस्वप्न्य॑म्। निः। द्वि॒ष॒ते। दुः॒ऽस्वप्न्य॑म्। सु॒वा॒म॒। ५७.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दुःष्वप्ननाशनम्
@@ -158,18 +166,22 @@ Princes came together, debts came together, Kushthas came to- gether, Sixteenths
 - त्रिपदा त्रिष्टुप्
 - दुःस्वप्नानाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बुरे स्वप्न दूर करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (राजानः) राजा लोग (सम् अगुः) एकत्र हुए हैं, (ऋणानि) अनेक ऋण (सम् अगुः) एकत्र हुए हैं, (कुष्ठाः) कुष्ठ [कूट आदि औषध विशेष] (सम् अगुः) इकट्ठे हुए हैं, (कलाः) कलाएँ [समय के अंश] (सम् अगुः) एकत्र हुए हैं। (अस्मासु) हममें, (यत्) जो (दुःष्वप्न्यम्) दुष्ट स्वप्न (सम्=सम् अगात्) एकत्र हुआ है, (दुःष्वप्न्यम्) उस दुष्ट स्वप्न को (द्विषते) वैर करनेवाले के लिये (निः सुवाम) हम बाहर निकालें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  (कुष्ठ) अर्थात् कूट औषध के लिये देखो-अ० १९।३९। जैसे राजा लोग एकत्र होकर संसार के कष्ट दूर करते हैं, वैसे ही वैद्य लोग दुष्ट स्वप्न आदि रोगों का नाश करें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(राजानः) (सम् अगुः) इण् गतौ-लुङ्। संहता अभवन् (ऋणानि) (सम् अगुः) बहूनि अभवन् (कुष्ठाः) अ० १९।३९।१। रोगाणां निष्कर्षकाः। औषधविशेषाः (सम् अगुः) (कलाः) कालांशाः (सम् अगुः) (सम्) सम् अगात् (अस्मासु) (यत्) (दुःष्वप्न्यम्) दुष्टस्वप्नभावः (द्विषते) द्वेष्टे (दुःष्वप्न्यम्) दुष्टस्वप्नभावम् (निः सुवाम) बहिर्गमयाम ॥
@@ -184,16 +196,6 @@ Princes came together, debts came together, Kushthas came to- gether, Sixteenths
 दे᳓वानां पत्नीनां गर्भ य᳓मस्य कर यो᳓ भद्रः᳓ स्वप्न।  
 स᳓ म᳓म यः᳓ पाप᳓स्त᳓द्द्विषते᳓ प्र᳓ हिण्मः।  
 मा᳓ तृष्टा᳓नामसि कृष्णशकुने᳓र्मु᳓खम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/03_devAnAM_patnInAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-देवा॑नां पत्नीनां गर्भ॒ यम॑स्य कर॒ यो भ॒द्रः स्व॑प्न।  
-स मम॒ यः पा॒पस्तद्द्वि॑ष॒ते प्र हि॑ण्मः।  
-मा तृ॒ष्टाना॑मसि कृष्णशकु॒नेर्मुख॑म् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/03_devAnAM_patnInAm.md">
@@ -224,14 +226,24 @@ division is that of our first mss., and is preferable on the ground of
 the sense. ⌊The prose verse, according to the division of the Anukr.,  
 may be made to count (8 + 10: 13: 13?) as 44 syllables.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Child of Gods' Consorts, minister of Yama is the good Dream: that which is my trouble we drive away to the enemy.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+देवा॑नां पत्नीनां गर्भ॒ यम॑स्य कर॒ यो भ॒द्रः स्व॑प्न।  
+स मम॒ यः पा॒पस्तद्द्वि॑ष॒ते प्र हि॑ण्मः।  
+मा तृ॒ष्टाना॑मसि कृष्णशकु॒नेर्मुख॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-देवा॑नाम्। प॒त्नी॒ना॒म्। ग॒र्भ॒। यम॑स्य। क॒र॒। यः। भ॒द्रः। स्व॒प्न॒। सः। मम॑। यः। पा॒पः। तत्। द्वि॒ष॒ते। प्र। हि॒ण्मः॒। मा। तृ॒ष्टाना॑म्। अ॒सि॒। कृ॒ष्ण॒ऽश॒कु॒नः। मुख॑म्। ५७.३। 
+देवा॑नाम्। प॒त्नी॒ना॒म्। ग॒र्भ॒। यम॑स्य। क॒र॒। यः। भ॒द्रः। स्व॒प्न॒। सः। मम॑। यः। पा॒पः। तत्। द्वि॒ष॒ते। प्र। हि॒ण्मः॒। मा। तृ॒ष्टाना॑म्। अ॒सि॒। कृ॒ष्ण॒ऽश॒कु॒नः। मुख॑म्। ५७.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दुःष्वप्ननाशनम्
@@ -239,18 +251,22 @@ Child of Gods' Consorts, minister of Yama is the good Dream: that which is my tr
 - त्र्यवसाना चतुष्पदा त्रिष्टुप्
 - दुःस्वप्नानाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बुरे स्वप्न दूर करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवानाम्) हे विद्वानों की (पत्नीनाम्) पालन शक्तियों के (गर्भ) गर्भ ! [उदररूप पोषक] और (यमस्य) हे यम [मृत्यु] के (कर) हाथ ! (स्वप्न) हे स्वप्न ! (यः) जो तू (भद्रः) कल्याणकारी है, (सः) वह (मम) मेरा [होवे], (तत्) इसलिये (यः) जो तू (पापः) पापी [अनहित] है, [उसे] (द्विषते) वैरी के लिये (प्र हिण्मः) हम भेजते हैं। (तृष्टानाम्) क्रूरों के मध्य (कृष्णशकुनेः) काले पक्षी [कौवे आदि] का (मुखम्) मुख (मा असि) तू मत हो ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्वप्न दो प्रकार के हैं, एक शुभ विद्वानों के हितकारी और दूसरे अशुभ जो दुःखदायी हैं, विद्वान् लोग अपने शुभ विचारों के अनुरूप शुभ स्वप्न देखें और कुविचारों के कारण से कुस्वप्न देखकर शत्रु न बनें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(देवानाम्) विदुषाम् (पत्नीनाम्) पालनशक्तीनाम् (गर्भ) हे उदरवत् पोषक (यमस्य) मृत्योः (कर) हे हस्त इव हितकर (यः) यस्त्वम् (भद्रः) कल्याणकारी भवसि (स्वप्न) (सः) स त्वम् (मम) भवेः-इति शेषः (यः) त्वम् (पापः) अनिष्टकारी भवसि (तत्) तस्मात् (द्विषते) शत्रवे (प्र हिण्मः) हि गतौ, अन्तर्गतण्यर्थः। प्रेरयामः (तृष्टानाम्) ञितृषा पिपासायाम्-क्त। तृषितानां लोभिनां क्रूराणां मध्ये (मा असि) मा भव (कृष्णशकुनेः) कृष्णपक्षिणः। काकादेः (मुखम्) मुखमिव क्रूरम् ॥
@@ -264,15 +280,6 @@ Child of Gods' Consorts, minister of Yama is the good Dream: that which is my tr
 
 तं᳓ त्वा स्वप्न त᳓था सं᳓ विद्म स᳓ त्वं᳓ स्वप्ना᳓श्व इव काय᳓म᳓श्व इव नीनाह᳓म्।  
 अ᳙नास्माकं᳓ देवपीयुं᳓ पि᳓यारुं वप य᳓दस्मा᳓सु दुःष्व᳓प्न्यं य᳓द्गो᳓षु य᳓च्च नो गृहे᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/04_taM_tvA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स त्वं स्व॒प्नाश्व॑ इव का॒यमश्व॑ इव नीना॒हम्।  
-अ॑नास्मा॒कं दे॑वपी॒युं पिया॑रुं वप॒ यद॒स्मासु॑ दुः॒ष्वप्न्यं॒ यद्गोषु॒ यच्च॑ नो गृ॒हे ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/04_taM_tvA.md">
@@ -316,14 +323,23 @@ text, however, after *nīnāhám*. ⌊The Anukr. seems to intend to count the
 verse (*taṁ tvā* to *gṛhe*) as 9 + 9 + 7 + 13 (reading *vapa*): 8 + 8 =  
 54.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Thou whose name is Rough art the mouth of the Black Bird. As such we know thee, Dream, as such we know thee well. Like a horse art thou, O Dream. As they bind girth and surcingle on a horse, so bind the alien mischief-maker, the scorner of the Gods.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स त्वं स्व॒प्नाश्व॑ इव का॒यमश्व॑ इव नीना॒हम्।  
+अ॑नास्मा॒कं दे॑वपी॒युं पिया॑रुं वप॒ यद॒स्मासु॑ दुः॒ष्वप्न्यं॒ यद्गोषु॒ यच्च॑ नो गृ॒हे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तम्। त्वा॒। स्व॒प्न॒। तथा॑। सम्। वि॒द्म॒। सः। त्वम्। स्व॒प्न॒। अश्वः॑ऽइव। का॒यम्। अश्वः॑ऽइव। नी॒ना॒हम्। अ॒ना॒स्मा॒कम्। दे॒व॒ऽपी॒युम्। पिया॑रुम्। व॒प॒। यत्। अ॒स्मासु॑। दुः॒ऽस्वप्न्य॑म्। यत्। गोषु॑। यत्। च॒। नः॒। गृ॒हे। ५७.४। 
+तम्। त्वा॒। स्व॒प्न॒। तथा॑। सम्। वि॒द्म॒। सः। त्वम्। स्व॒प्न॒। अश्वः॑ऽइव। का॒यम्। अश्वः॑ऽइव। नी॒ना॒हम्। अ॒ना॒स्मा॒कम्। दे॒व॒ऽपी॒युम्। पिया॑रुम्। व॒प॒। यत्। अ॒स्मासु॑। दुः॒ऽस्वप्न्य॑म्। यत्। गोषु॑। यत्। च॒। नः॒। गृ॒हे। ५७.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दुःष्वप्ननाशनम्
@@ -331,18 +347,22 @@ Thou whose name is Rough art the mouth of the Black Bird. As such we know thee, 
 - षट्पदोष्णिग्बृहतीगर्भा विराट्शक्वरी
 - दुःस्वप्नानाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बुरे स्वप्न दूर करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (स्वप्न) हे स्वप्न ! (तं त्वा) उस तुझको (तथा) वैसा ही (सम्) पूरा-पूरा (विद्म) हम जानते हैं, (सः त्वम्) सो तू, (स्वप्न) हे स्वप्न ! (अश्वः इव) जैसे घोड़ा (कायम्) अपनी पेटी को, और (अश्वः इव) जैसे घोड़ा (नीनाहम्) अपनी बागडोर [को तोड़ डालता है, वैसे], (अनास्माकम्) हमारे न होनेवाले (देवपीयुम्) विद्वानों के सतानेवाले (पियारुम्) दुःखदायी को (वप) तोड़ डाल और (दुःष्वप्न्यम्) उस दुष्ट स्वप्न को [तोड़ दे], (यत्) जो (अस्मासु) हम में है, (यत्) जो (नः) हमारी (गोषु) गौओं में हैं, (च) और (यत्) जो (गृहे) घर में है ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे बलवान् घोड़ा अपनी पेटी और बागडोर को तोड़-ताड़ डालता है, वैसे ही मनुष्य शुभ विचारों द्वारा दुष्ट विचारों को नाश करें और सबको स्वस्थ रक्खें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(तम्) तादृशम् (त्वा) त्वाम् (स्वप्न) (तथा) तेन प्रकारेण (सम्) सम्पूर्णम् (विद्म) जानीमः (सः) (त्वम्) (स्वप्न) (अश्वः) (इव) यथा (कायम्) स्वशरीरसम्बधिनीं पार्श्वरज्जुम् पेटीम् (अश्वः) (इव) (नीनाहम्) नि+णह बन्धने-घञ्। रश्मिम्। मुखरज्जुम् (अनास्माकम्) युष्मदस्मदोरन्यतरस्यां खञ् च। पा० ४।३।१। अस्मद्-अण्। योऽस्माकं न भवति तम् (देवपीयुम्) अ० ४।३५।७। विदुषां हिंसकम् (पियारुम्) अ० ११।२।२१। पीयतिर्हिंसाकर्मा-निरु० ४।२५। अङ्गिमदिमन्दिभ्य आरन् उ० ३।१३४। अत्र बाहुलकात् पीयतेः-आरुप्रत्ययो ह्रस्वश्च। हिंसकम्। दुःखप्रदम् (वप) डुवप बीजसन्ताने छेदने च। छिन्धि (यत्) (अस्मासु) (दुःष्वप्न्यम्) दुष्टस्वप्नभावः (यत्) (गोषु) धेनुषु (यत्) (च) (नः) अस्माकम् (गृहे) निवासे ॥
@@ -357,16 +377,6 @@ Thou whose name is Rough art the mouth of the Black Bird. As such we know thee, 
 अ᳙नास्माक᳓स्त᳓द्देवपीयुः᳓ पि᳓यारुर्निष्क᳓मिव प्र᳓ति मुञ्चताम्।  
 न᳓वारत्नी᳓न᳓पमया अस्मा᳓कं त᳓तः प᳓रि।  
 दुःष्व᳓प्न्यं स᳓र्वं द्विषते᳓ नि᳓र्दयामसि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/05_anAsmAkastaddevapIyuH_piyArurniShkamiva.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॑नास्मा॒कस्तद्दे॑वपी॒युः पिया॑रुर्नि॒ष्कमि॑व॒ प्रति॑ मुञ्चताम्।  
-नवा॑र॒त्नीनप॑मया अ॒स्माकं॒ ततः॒ परि॑।  
-दुः॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते निर्द॑यामसि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/05_anAsmAkastaddevapIyuH_piyArurniShkamiva.md">
@@ -400,14 +410,24 @@ mss., after *pári*, as does SPP.⌋
 
 ⌊Prose.⌋ Instead of our _apamā́ya_, the mss., the comm., and SPP. read _ápamayā_ (p. _ápa॰mayāḥ_) how the comm. (or SPP.) would explain it does not appear, as he gives only the general sense of the expression; _asmākaṁ sambandhi duṣvapnyaṁ navāratniparyantam apasāraya_. He reads at the end _apriye saṁ nayāmasi_ (= 1 **d**).
 </details>
+
 <details><summary>Griffith</summary>
 
 The evil dream that threatens us, threatens our cattle or our home. That let the scorner of the Gods, the alien mischief-maker bind as a gold jewel round his neck.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑नास्मा॒कस्तद्दे॑वपी॒युः पिया॑रुर्नि॒ष्कमि॑व॒ प्रति॑ मुञ्चताम्।  
+नवा॑र॒त्नीनप॑मया अ॒स्माकं॒ ततः॒ परि॑।  
+दुः॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते निर्द॑यामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ना॒स्मा॒कः। तत्। दे॒व॒ऽपी॒युः। पिया॑रुः। नि॒ष्कम्ऽइ॑व। प्रति॑। मु॒ञ्च॒ता॒म्। नव॑। अ॒र॒त्नीन्। अप॑ऽमयाः। अ॒स्माक॑म्। ततः॑। परि॑। दुः॒ऽस्वप्न्य॑म्। सर्व॑म्। द्वि॒ष॒ते। निः। द॒या॒म॒सि॒। ५७.५। 
+अ॒ना॒स्मा॒कः। तत्। दे॒व॒ऽपी॒युः। पिया॑रुः। नि॒ष्कम्ऽइ॑व। प्रति॑। मु॒ञ्च॒ता॒म्। नव॑। अ॒र॒त्नीन्। अप॑ऽमयाः। अ॒स्माक॑म्। ततः॑। परि॑। दुः॒ऽस्वप्न्य॑म्। सर्व॑म्। द्वि॒ष॒ते। निः। द॒या॒म॒सि॒। ५७.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दुःष्वप्ननाशनम्
@@ -415,18 +435,22 @@ The evil dream that threatens us, threatens our cattle or our home. That let the
 - त्र्यवसाना पञ्चपदा पराशाक्वरातिजगती
 - दुःस्वप्नानाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बुरे स्वप्न दूर करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अनास्माकः) हमारा न होनेवाला, (देवपीयुः) विद्वानों का सतानेवाला, (पियारुः) दुःखदायी [शत्रु] (तत्) उस [दुष्ट स्वप्न] को (निष्कम् इव) सुवर्ण के समान (प्रति मुञ्चताम्) धारण करे। (अस्माकम्) हमारे (ततः) उस [स्थान] से [दुष्ट स्वप्न को] (नव) नौ (अरत्नीन्) हाथों पर (परि) अलग करके (अपमयाः) तू दूर ले जा। (सर्वम्) सब (दुःष्वप्न्यम्) दुष्ट स्वप्न को (द्विषते) वैरी के लिये (निः दयामसि) हम बाहर हाँकते हैं ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  धर्मात्मा लोग दुष्टों के समान कुविचारों को अपने में न आने देवें, किन्तु उत्तम विचारों को आत्मा में सदा धारण करते रहें ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(अनास्माकः) म० ४। योऽस्माकं न भवति सः (तत्) दुःष्वप्न्यम् (देवपीयुः) म० ४। विदुषां हिंसकः (पियारुः) म० ४। दुःखप्रदः (निष्कम्) सुवर्णम् (इव) यथा (प्रति मुञ्चताम्) धारयतु (नव) (अरत्नीन्) अ+ऋ गतौ-कत्नि, रत्निर्बद्धमुष्टिकरः स नास्ति यत्र। विस्तृतकनिष्ठाङ्गुलिमुष्टिकहस्तप्रमाणानि (अपमयाः) मय गतौ भ्वादिः, लेट् णिजर्थः। अपगमयेः (अस्माकम्) (ततः) तस्मात् स्थानात् (परि) पृथग्भावे (दुःष्वप्न्यम्) दुष्टस्वप्नभावम् (सर्वम्) (द्विषते) शत्रवे (निः दयामसि) दय दानगतिरक्षणहिंसादानेषु। अपगमयामः बहिष्कुर्मः ॥

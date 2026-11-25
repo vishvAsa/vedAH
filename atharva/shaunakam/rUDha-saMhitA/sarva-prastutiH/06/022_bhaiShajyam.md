@@ -8,15 +8,18 @@ title = "०२२ भैषज्यम्"
 
 22. To the Maruts.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 भैषज्यम्।  
 १-३ शन्तातिः। १ आदित्यरश्मिः, २-३ मरुतः। त्रिष्टुप्, २ चतुष्पदा भुरिग्जगती।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [śaṁtāti.—ādityaraśmidevatya[m]. mārutam. trāiṣṭubham: 2. 4-p. bhurigjagatī.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also in Pāipp. xix. Used by Kāuś. (30. 11) in a remedial rite against p
 #### Translations
 Translated: Ludwig, p. 463 ⌊vss. 1-2⌋; Florenz, 276 or 28; Griffith, i. 256.
 </details>
+
 <details><summary>Griffith</summary>
 
 To the Maruts or Storm-Gods
@@ -39,15 +43,6 @@ To the Maruts or Storm-Gods
 
 कृष्णं᳓ निया᳓नं ह᳓रयः सुपर्णा᳓ अपो᳓ व᳓साना दि᳓वमु᳓त्पतन्ति।  
 त᳓ आ᳓ववृत्रन्त्स᳓दनादृत᳓स्या᳓दि᳓द्घृते᳓न पृथिवीं᳓ व्यूदुः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/01_kRShNaM_niyAnam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत्प॑तन्ति।  
-त आव॑वृत्र॒न्त्सद॑नादृ॒तस्यादिद्घृ॒तेन॑ पृथि॒वीं व्यू॑दुः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/01_kRShNaM_niyAnam.md">
@@ -69,14 +64,23 @@ TS. has *ásitavarṇās* (for *kṛṣṇā́ṁ niyā́nam*) in **a**, *míhas
 pṛthivī́ ghṛtāír vy ùdyate*. Ppp. agrees with RV.MS. at the end of the  
 verse, and it combines, in its frequent way, *suparṇā ’po*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, enrobed in waters. They have come hither from the seat of Order, and inundated earth with streams of fatness.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत्प॑तन्ति।  
+त आव॑वृत्र॒न्त्सद॑नादृ॒तस्यादिद्घृ॒तेन॑ पृथि॒वीं व्यू॑दुः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कृ॒ष्णम्। नि॒ऽयान॑म्। हर॑यः। सु॒ऽप॒र्णाः। अ॒पः। वसा॑नाः। दिव॑म्। उत्। प॒त॒न्ति॒। ते। आ। अ॒व॒वृ॒त्र॒न्। सद॑नात्। ऋ॒तस्य॑। आत्। इत्। घृ॒तेन॑। पृ॒थि॒वीम्। वि। ऊ॒दुः॒। २२.१। 
+कृ॒ष्णम्। नि॒ऽयान॑म्। हर॑यः। सु॒ऽप॒र्णाः। अ॒पः। वसा॑नाः। दिव॑म्। उत्। प॒त॒न्ति॒। ते। आ। अ॒व॒वृ॒त्र॒न्। सद॑नात्। ऋ॒तस्य॑। आत्। इत्। घृ॒तेन॑। पृ॒थि॒वीम्। वि। ऊ॒दुः॒। २२.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आदित्यरश्मिः
@@ -84,18 +88,22 @@ Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, 
 - त्रिष्टुप्
 - भैषज्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि विद्या का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (हरयः) रस खींचनेवाली, (सुपर्णाः) अच्छा उड़नेवाली किरणें (अपः) जल को (वसानाः) ओढ़ कर (कृष्णम्) खींचनेवाले (नियानम्) नित्य गमनस्थान अन्तरिक्ष में होकर (दिवम्) प्रकाशमय सूर्यमण्डल को (उत् पतन्ति) चढ़ जाती हैं। (ते) वे (इत्) ही (आत्) फिर (ऋतस्य) जल के (सदनात्) घर [सूर्य] से (आ अववृत्रन्) लौट आती हैं, और उन्होंने (घृतेन) जल से (पृथिवीम्) पृथिवी को (वि) विविध प्रकार से (ऊदुः) सींच दिया है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे सूर्य की किरणें पवन द्वारा भूमि से जल को खींच कर और फिर बरसा कर उपकार करती हैं, वैसे ही मनुष्य विद्या प्राप्त करके संसार का उपकार करें ॥१॥   यह मन्त्र कुछ भेद से ऋग्वेद में है−म० १ सू० १६४। म० ४७ और निरु० ७।२४। में भी ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(कृष्णम्) आकर्षकम् (नियानम्) नित्यगमनस्थानम् अन्तरिक्षं प्रति। अत्यन्तसंयोगे द्वितीया (हरयः) रसं हरन्तः (सुपर्णाः) आदित्यरश्मयः−निरु० ७।२४। (अपः) जलानि (वसानाः) आच्छादयन्तः (दिवम्) प्रकाशमयं सूर्यमण्डलम् (उत्) उद्गत्य (पतन्ति) प्राप्नुवन्ति (ते) रश्मयः (आ अववृत्रन्) वृतेर्लुङि। द्युद्भ्यो लुङि। पा० १।३।९१। इति परस्मैपदम्, च्लेश्चङ् रुडागमश्च छान्दसः। आ वर्तन्ते। आगच्छन्ति (सदनात्) गृहात्। सूर्यमण्डलात् (ऋतस्य) उदकस्य−निघ० १।१२। (आत्) अनन्तरम् (इत्) एव (घृतेन) उदकेन। घृतमित्युदकनाम जिघर्तेः सिञ्चतिकर्मणः−निरु० ७।२४। (पृथिवीम्) भूमिम् (वि) विविधम् (ऊदुः) उन्दी क्लेदने, लिट्, उपधालोपश्च छान्दसः। उन्दांचक्रुः। सिक्तवन्तः ॥
@@ -109,15 +117,6 @@ Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, 
 
 प᳓यस्वतीः कृणुथाप᳓ ओ᳓षधीः शिवा᳓ य᳓दे᳓जथा मरुतो रुक्मवक्षसः।  
 ऊ᳓र्जं च त᳓त्र सुमतिं᳓ च पिन्वत य᳓त्रा नरो मरुतः सिञ्च᳓था म᳓धु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/02_payasvatIH_kRNuthApa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पय॑स्वतीः कृणुथा॒प ओष॑धीः शि॒वा यदेज॑था मरुतो रुक्मवक्षसः।  
-ऊर्जं॑ च॒ तत्र॑ सुम॒तिं च॑ पिन्वत॒ यत्रा॑ नरो मरुतः सि॒ञ्चथा॒ मधु॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/02_payasvatIH_kRNuthApa.md">
@@ -136,14 +135,23 @@ in TS. iii. 1. 11⁸; TS. reads *kṛṇuta* (as does also Ppp.), and it omits
 better). Ppp. further reads *yamās* for *śivās*, and *ejati* for *-thā*;  
 ⌊and *siñcatā* for *-thā*⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 Ye make floods rich in milk, make plants propitious, what time ye stir, O golden-breasted Maruts! Pour down your showers of vigorous strength and favour there where ye sprinkle mead, O Maruts, heroes!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पय॑स्वतीः कृणुथा॒प ओष॑धीः शि॒वा यदेज॑था मरुतो रुक्मवक्षसः।  
+ऊर्जं॑ च॒ तत्र॑ सुम॒तिं च॑ पिन्वत॒ यत्रा॑ नरो मरुतः सि॒ञ्चथा॒ मधु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पय॑स्वतीः। कृ॒णु॒थ॒। अ॒पः। ओष॑धीः। शि॒वाः। यत्। एज॑थ। म॒रु॒तः॒। रु॒क्म॒ऽव॒क्ष॒सः॒। ऊर्ज॑म्। च॒। तत्र॑। सु॒ऽम॒तिम्। च॒। पि॒न्व॒त॒। यत्र॑। न॒रः॒। म॒रु॒तः॒। सि॒ञ्चथ॑। मधु॑। २२.२। 
+पय॑स्वतीः। कृ॒णु॒थ॒। अ॒पः। ओष॑धीः। शि॒वाः। यत्। एज॑थ। म॒रु॒तः॒। रु॒क्म॒ऽव॒क्ष॒सः॒। ऊर्ज॑म्। च॒। तत्र॑। सु॒ऽम॒तिम्। च॒। पि॒न्व॒त॒। यत्र॑। न॒रः॒। म॒रु॒तः॒। सि॒ञ्चथ॑। मधु॑। २२.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुद्गणः
@@ -151,18 +159,22 @@ Ye make floods rich in milk, make plants propitious, what time ye stir, O golden
 - चतुष्पदा भुरिग्जगती
 - भैषज्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि विद्या का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (रुक्मवक्षसः) हे तेज [बिजुली] को हृदय में रखनेवाले (मरुतः) वायु के वेगो ! (यत्) जब (एजथ) तुम चलते हो, (अपः) जल और (ओषधीः) अन्न आदि ओषधियों को (पयस्वतीः) रसवाली और (शिवाः) कल्याणकारी (कृणुथ) तुम करते हो। (च) और (तत्र) वहाँ (ऊर्जम्) बल देनेवाला अन्न (च) और (सुमतिम्) उत्तम बुद्धि (पिन्वत) बरसाते हो, (यत्र) जहाँ पर (नरः) हे नायक (मरुतः) वायुगणो ! (मधु) जल (सिञ्चथ) सींचते हो ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस प्रकार वायु बिजुली से युक्त मेघ से मिलकर बरसा करता है और अन्न आदि पदार्थ उत्पन्न करता है, उसी प्रकार मनुष्यों को विद्या आदि उत्तम गुण प्राप्त करके आनन्दित होना चाहिये ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(पयस्वतीः) रसवतीः (कृणुथ) कुरुथ (अपः) जलानि (ओषधीः) अन्नादिपदार्थान् (शिवाः) सुखकरीः (यत्) यदा (एजथ) प्रचलथ (मरुतः) अ० १।२०।१। वायुगणाः (रुक्मवक्षसः) युजिरुचितिजां कुश्च। उ० १।१४६। इति रुच दीप्तावभिप्रीतौ च−मक्। पचिवचिभ्यां सुट् च। उ० ४।२२०। इति वच परिभाषणे−असुन्, सुट् च। रुक्मं विद्युद्रूपा दीप्तिर्वक्षसि मध्ये येषां ते (ऊर्जम्) बलकरमन्नम् (च) समुच्चये (तत्र) तस्मिन् देशे (सुमतिम्) शोभनां बुद्धिम् (च) (पिन्वत) पिवि सेचने लडर्थे लोट्। सिञ्चथ (यत्र) यस्मिन् स्थाने (नरः) अ० ३।१६।३। नेतारः (सिञ्चथ) वर्षयथ (मधु) जलम्−निघ० १।१२ ॥
@@ -176,15 +188,6 @@ Ye make floods rich in milk, make plants propitious, what time ye stir, O golden
 
 उ᳙दप्रु᳓तो मरु᳓तस्ताँ᳓ इयर्त वृष्टि᳓र्या᳓ वि᳓श्वा निव᳓तस्पृणा᳓ति।  
 ए᳓जाति ग्ल᳓हा कन्ये᳙व तुन्नै᳓रुं तुन्दाना᳓ प᳓त्येव जाया᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/03_udapruto_marutastA.N.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उ॑द॒प्रुतो॑ म॒रुत॒स्ताँ इ॑यर्त वृ॒ष्टिर्या विश्वा॑ नि॒वत॑स्पृ॒णाति॑।  
-एजा॑ति॒ ग्लहा॑ क॒न्ये॑व तु॒न्नैरुं॑ तुन्दा॒ना पत्ये॑व जा॒या ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/03_udapruto_marutastA.N.md">
@@ -231,14 +234,23 @@ suggests that the line **c-d** belongs to a gambling hymn, and that we
 are to read *glahas* and *ūrum*, a comparison being made between the  
 shaking of the dice-holder and the agitatio of a female at the *coitus*.
 </details>
+
 <details><summary>Griffith</summary>
 
 O Maruts, send ye down, streaming with water rain which, may, filling all the sloping valleys, Leap like a bold girl in a man's embraces, or like a matron tumbled by her husband.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॑द॒प्रुतो॑ म॒रुत॒स्ताँ इ॑यर्त वृ॒ष्टिर्या विश्वा॑ नि॒वत॑स्पृ॒णाति॑।  
+एजा॑ति॒ ग्लहा॑ क॒न्ये॑व तु॒न्नैरुं॑ तुन्दा॒ना पत्ये॑व जा॒या ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒द॒ऽप्रुतः॑। म॒रुतः॑। तान्। इ॒य॒र्त॒। वृ॒ष्टिः। या। विश्वाः॑। नि॒ऽवतः॑। पृ॒णाति॑। एजा॑ति। ग्लहा॑। क॒न्या᳡ऽइव। तु॒न्ना। एरु॑म्। तु॒न्दा॒ना। पत्या॑ऽइव। जा॒या। २२.३। 
+उ॒द॒ऽप्रुतः॑। म॒रुतः॑। तान्। इ॒य॒र्त॒। वृ॒ष्टिः। या। विश्वाः॑। नि॒ऽवतः॑। पृ॒णाति॑। एजा॑ति। ग्लहा॑। क॒न्या᳡ऽइव। तु॒न्ना। एरु॑म्। तु॒न्दा॒ना। पत्या॑ऽइव। जा॒या। २२.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुद्गणः
@@ -246,18 +258,22 @@ O Maruts, send ye down, streaming with water rain which, may, filling all the sl
 - त्रिष्टुप्
 - भैषज्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि विद्या का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उदप्रुत) हे जल के भेजनेवाले (मरुतः) वायुगणो ! (तान्=ताम्) उस [वृष्टि] को (इयर्त्त) तुम भेजो, (या) जो (वृष्टिः) बरसा (विश्वाः) सब (निवतः) नीचे स्थानों को (पृणाति) भर देती है। (ग्लहा) वह ग्रहण करने योग्य [वृष्टि] (एरुम्) गतिशीलसमुद्र को (एजाति=एजति) पहुँचती है, (इव) जैसे (तुन्ना) व्यथा में पड़ी (कन्या) कन्या [अपने माता पिता आदि को], और (इव) जैसे (तुन्दाना) दुःख पाती हुई (जाया) पत्नी (पत्या=पतिम्) अपने पति को [पहुँचती है] ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस प्रकार वायु द्वारा वृष्टिजल संसार का उपकार करता हुआ समुद्र में शान्ति पाता है, इसी प्रकार मनुष्य परस्पर उपकार करके उस परब्रह्म में सुख प्राप्ति करें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(उदप्रुतः) उदकस्योदः संज्ञायाम्। प० ६।३।५७। इति उदकस्य उदभावः। प्रुङ् गतौ−क्विप्। जलस्य प्रेरकाः (मरुतः) हे वायुगणाः (तान्) छान्दसो मकारस्य नकारः। ताम्। वृष्टिम् (इयर्त) ऋ गतौ−तप्तनप्तनथनाश्च। पा० ७।१।४५। इति लोटि तस्य तप्। अर्तिपिपर्त्योश्च पा० ७।४।७७। इति अभ्यासभ्य इत्वम्। इयृत। प्रेरयत (वृष्टिः) वर्षणम् (या) (विश्वाः) सर्वाः (निवतः) उपसर्गाच्छन्दसि धात्वर्थे। पा० ५।१।११८। इति गमेरर्थे वतिः। निम्नगतान् देशान् (पृणाति) पॄ पालनपूर्त्योः। पूरयति (एजाति) एजृ कम्पने−लडर्थे लेट्। एजति, गतिकर्मा−निघ० २।१४। गच्छति। प्राप्नोति (ग्लहा) अ० ४।३८।३। ग्रह उपादाने अप्, रस्य लः, टाप्। ग्राह्या वृष्टिः (कन्या) अ० १।१४।२। कमनीया। पुत्री (इव) यथा (तुन्ना) तुद व्यथने−क्तः। व्यथिता (एरुम्) मीपीभ्यां रुः। उ० ४।१०१। इति इण् गतौ−रु। गन्तारम्। समुद्रम् (तुन्दाना) तुद व्यथने−शानच्, नुम् गुणाभावश्च। व्यथ्यमाना (पत्या) सुपां सुलुक्०। पा० ७।१।३९। इति अम् विभक्तेः आ। पतिम् (इव) (जाया) अ० ३।४।३। भार्या ॥

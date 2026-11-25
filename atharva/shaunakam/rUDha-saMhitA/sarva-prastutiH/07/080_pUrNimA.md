@@ -8,15 +8,18 @@ title = "०८० पूर्णिमा"
 
 80 (85). To the night or goddess of full moon (pāurṇamāsī́).
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 पूर्णिमा।  
 १-४ अथर्वा।पौर्णमासी, ३ प्रजापतिः। त्रिष्टुप्, २ अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—caturṛcam. pāurṇamāsam: 3. prājāpatyā. trāiṣṭubham: 2. anuṣṭubh.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ The first and fourth verses are found also in Pāipp. i. The hymn is used in the
 #### Translations
 Translated: Henry, 32, 101; Griffith, i. 367. See also Zimmer, p. 365 (vss. 1-2).
 </details>
+
 <details><summary>Griffith</summary>
 
 A hymn to the Full Moon
@@ -39,15 +43,6 @@ A hymn to the Full Moon
 
 पूर्णा᳓ पश्चा᳓दुत᳓ पूर्णा᳓ पुर᳓स्तादु᳓न्मध्य᳓तः᳓ पौर्णमासी᳓ जिगाय।  
 त᳓स्यां देवैः᳓ संव᳓सन्तो महित्वा᳓ ना᳓कस्य पृष्ठे᳓ स᳓मिषा᳓ मदेम ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/080_pUrNimA/01_pUrNA_pashchAduta.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॒दुन्म॑ध्यतः पौ॑र्णमा॒सी जि॑गाय।  
-तस्यां॑ दे॒वैः सं॒वस॑न्तो महि॒त्वा नाक॑स्य पृ॒ष्ठे समि॒षा म॑देम ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/080_pUrNimA/01_pUrNA_pashchAduta.md">
@@ -66,14 +61,23 @@ The first half-verse is met with in TS. (iii. 5. 1¹) and TB. (iii. 1.
 ádhi saṁvásanta uttamé nā́ka ihá mādayantām*. Ppp., in **b**, puts  
 *pāurṇamāsi* before *madhyatas* ⌊and ends **b** with *uj jigāya*⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 Full in the front, full rearward, from the middle the Full Moon's Night hath conquered in the battle. In her: may we, dwelling with Gods and greatness, feast in the height of heaven, on strengthening viands.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॒दुन्म॑ध्यतः पौ॑र्णमा॒सी जि॑गाय।  
+तस्यां॑ दे॒वैः सं॒वस॑न्तो महि॒त्वा नाक॑स्य पृ॒ष्ठे समि॒षा म॑देम ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पू॒र्णा। प॒श्चात्। उ॒त। पू॒र्णा। पु॒रस्ता॑त्। उत्। म॒ध्य॒तः। पौ॒र्ण॒ऽमा॒सी। जि॒गा॒य॒। तस्या॑म्। दे॒वैः। स॒म्ऽवस॑न्तः। म॒हि॒ऽत्वा। नाक॑स्य। पृ॒ष्ठे। सम्। इ॒षा। म॒दे॒म॒। ८५.१। 
+पू॒र्णा। प॒श्चात्। उ॒त। पू॒र्णा। पु॒रस्ता॑त्। उत्। म॒ध्य॒तः। पौ॒र्ण॒ऽमा॒सी। जि॒गा॒य॒। तस्या॑म्। दे॒वैः। स॒म्ऽवस॑न्तः। म॒हि॒ऽत्वा। नाक॑स्य। पृ॒ष्ठे। सम्। इ॒षा। म॒दे॒म॒। ८५.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पौर्णमासी
@@ -81,18 +85,22 @@ Full in the front, full rearward, from the middle the Full Moon's Night hath con
 - त्रिष्टुप्
 - पूर्णिमा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर के गुणों का उपदेश
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पश्चात्) पीछे (पूर्णा) पूर्णा, (पुरस्तात्) पहिले (उत) और (मध्यतः) मध्य में (पूर्णा) पूर्ण (पौर्णमासी) पौर्णमासी [सम्पूर्ण परिमेय वा आकारवान् पदार्थों की आधारशक्ति, परमेश्वर] (उत् जिगाय) सब से उत्कृष्ट हुई है। (तस्याम्) उस [शक्ति] में (देवैः) उत्तम गुणों और (महित्वा) महिमा के साथ (संवसन्तः) निवास करते हुए हम (नाकस्य) सुख की (पृष्ठे) ऊँचाई पर [वा सिंचाई में] (इषा) पुरुषार्थ से (सम्) यथावत् (मदेम) आनन्द भोगें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर सृष्टि से पहिले और पीछे और मध्य में वर्तमान और सर्वोत्कृष्ट है, उसी के आश्रय से मनुष्य उत्तम गुणी होकर मोक्ष सुख प्राप्त करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(पूर्णा) समग्रा (पश्चात्) सृष्टेः पश्चात् (उत) अपि (पूर्णा) (पुरस्तात्) सृष्टेः प्राक् (उत्) उत्तमतया (मध्यतः) इतराभ्योऽपि दृश्यन्ते। पा० ५।३।१४। इति सप्तम्यर्थे तसिल्। मध्ये। सृष्टिकाले (पौर्णमासी) सर्वधातुभ्योऽसुन्। उ० ४।१८९। माङ् माने-असुन्। सास्मिन्पौर्णमासीति। पा० ४।२।२१। इति पूर्णमास-अण्। पूर्णाः सम्पूर्णा मासः परिच्छेद्याः पदार्था यस्मिन् स पौर्णमासः, स्त्रियां ङीप्। सम्पूर्णपरिच्छेद्यपदार्थाधारा शक्तिः परमेश्वरः (जिगाय) उत्कृष्टा बभूव (तस्याम्) पौर्णमास्याम् (देवैः) उत्तमगुणैः (संवसन्तः) सम्यग् निवसन्तः (महित्वा) अ० ४।२।२। महिम्ना (नाकस्य) सुखस्य (पृष्ठे) पृषु सेचने-थक्। उपरिभागे सेचने वा (सम्) सम्यक् (इषा) इष गतौ-क्विप्। उपायेन (मदेम) हृष्येम ॥
@@ -106,15 +114,6 @@ Full in the front, full rearward, from the middle the Full Moon's Night hath con
 
 वृ᳙षभं᳓ वाजि᳓नं वयं᳓ पौर्णमासं᳓ यजामहे।  
 स᳓ नो ददात्व᳓क्षितां रयि᳓म᳓नुपदस्वतीम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/080_pUrNimA/02_vRShabhaM_vAjinam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वृ॑ष॒भं वा॒जिनं॑ व॒यं पौ॑र्णमा॒सं य॑जामहे।  
-स नो॑ ददा॒त्वक्षि॑तां र॒यिमनु॑पदस्वतीम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/080_pUrNimA/02_vRShabhaM_vAjinam.md">
@@ -131,14 +130,23 @@ both of which read *ṛṣabhám* and *pūrṇámāsam;* their second half-verse
 reads thus: *sá no dohatāṁ suvī́ryaṁ rāyáspóṣaṁ sahasríṇam*. The comm.  
 reads *dadhātu* in **c**.
 </details>
+
 <details><summary>Griffith</summary>
 
 To him, the Full Moon's mighty Bull, we pay our solemn sacri- fice. May he bestow upon us wealth unwasting, inexhaustible.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वृ॑ष॒भं वा॒जिनं॑ व॒यं पौ॑र्णमा॒सं य॑जामहे।  
+स नो॑ ददा॒त्वक्षि॑तां र॒यिमनु॑पदस्वतीम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वृ॒ष॒भम्। वा॒जिन॑म्। व॒यम्। पौ॒र्ण॒ऽमा॒सम्। य॒जा॒म॒हे॒। सः। नः॒। द॒दा॒तु॒। अक्षि॑ताम्। र॒यिम्। अनु॑पऽदस्वतीम्। ८५.२। 
+वृ॒ष॒भम्। वा॒जिन॑म्। व॒यम्। पौ॒र्ण॒ऽमा॒सम्। य॒जा॒म॒हे॒। सः। नः॒। द॒दा॒तु॒। अक्षि॑ताम्। र॒यिम्। अनु॑पऽदस्वतीम्। ८५.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पौर्णमासी
@@ -146,18 +154,22 @@ To him, the Full Moon's mighty Bull, we pay our solemn sacri- fice. May he besto
 - अनुष्टुप्
 - पूर्णिमा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर के गुणों का उपदेश
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वयम्) हम लोग (वृषभम्) सर्वश्रेष्ठ, (वाजिनम्) महाबलवान् (पौर्णमासम्) पौर्णमास [सम्पूर्ण परिमेय पदार्थों के आधार परमेश्वर] को (यजामहे) पूजते हैं। (सः) वह (नः) हमें (अक्षिताम्) विना घटी हुई और (अनुपदस्वतीम्) बिना घटनेवाली (रयिम्) सम्पत्ति (ददातु) देवे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सर्वशक्तिमान् परमेश्वर की उपासना करके पुरुषार्थ के साथ ऐश्वर्यवान् होवें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(वृषभम्) अ० ४।५।१। सर्वश्रेष्ठम् (वाजिनम्) महाबलिनम् (वयम्) (पौर्णमासम्)-म० १। सम्पूर्णपरिमेयपदार्थाधारं परमेश्वरम् (यजामहे) पूजयामः (सः) पौर्णमासः (नः) अस्मभ्यम् (ददातु) (अक्षिताम्) अक्षीणाम् (रयिम्) सम्पत्तिम् (अनुपदस्वतीम्) उपभोगेऽपि क्षयरहिताम् ॥
@@ -171,15 +183,6 @@ To him, the Full Moon's mighty Bull, we pay our solemn sacri- fice. May he besto
 
 प्र᳓जापते न᳓ त्व᳓देता᳓न्यन्यो᳓ वि᳓श्वा रूपा᳓णि परिभू᳓र्जजान।  
 य᳓त्कामास्ते जुहुम᳓स्त᳓न्नो अस्तु वयं᳓ स्याम प᳓तयो रयीणा᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/080_pUrNimA/03_prajApate_na.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान।  
-यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/080_pUrNimA/03_prajApate_na.md">
@@ -211,14 +214,23 @@ accompanying an offering in the *agnihotra*. The comm. quotes it further
 from the Nakṣatra Kalpa (18), as used in a *mahāśānti* called  
 *mārudgaṇī*.
 </details>
+
 <details><summary>Griffith</summary>
 
 No one but thou, Prajapati, none beside thee, pervading, gave to all these forms their being. Grant us our hearts' desire when we invoke thee: may we have store of riches in possession.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान।  
+यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रजा॑ऽपते। न। त्वत्। ए॒तानि॑। अ॒न्यः। विश्वा॑। रू॒पाणि॑। प॒रि॒ऽभूः। ज॒जा॒न॒। यत्ऽका॑माः। ते॒। जु॒हु॒मः। तत्। नः॒। अ॒स्तु॒। व॒यम्। स्या॒म॒। पत॑यः। र॒यी॒णाम्। ८५.३। 
+प्रजा॑ऽपते। न। त्वत्। ए॒तानि॑। अ॒न्यः। विश्वा॑। रू॒पाणि॑। प॒रि॒ऽभूः। ज॒जा॒न॒। यत्ऽका॑माः। ते॒। जु॒हु॒मः। तत्। नः॒। अ॒स्तु॒। व॒यम्। स्या॒म॒। पत॑यः। र॒यी॒णाम्। ८५.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
@@ -226,18 +238,22 @@ No one but thou, Prajapati, none beside thee, pervading, gave to all these forms
 - त्रिष्टुप्
 - पूर्णिमा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर के गुणों का उपदेश
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (प्रजापते) हे प्रजापालक परमेश्वर ! (त्वत्) तुझ से (अन्यः) दूसरे किसी ने (परिभूः) व्यापक होकर (एतानि) इन (विश्वा) सब (रूपाणि) रूपवाले [आकारवाले] पदार्थों को (न) नहीं (जजान) उत्पन्न किया है। (यत्कामाः) जिस वस्तु की कामनावाले हम (ते) तेरा (जुहुमः) स्वीकार करते हैं, (तत्) वह (नः) हमारे लिये (अस्तु) होवे, (वयम्) हम (रयीणाम्) अनेक धनों के (पतयः) स्वामी (स्याम) बने रहें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  यह मन्त्र अ० ७।७९।४। में आ चुका है, (अमावास्ये) के स्थान पर यहाँ (प्रजापते) पद है, भावार्थ समान है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(प्रजापते) हे प्रजापालक। अन्यद्गतम्-अ० ७।७९।४ ॥
@@ -251,15 +267,6 @@ No one but thou, Prajapati, none beside thee, pervading, gave to all these forms
 
 पौ᳙र्णमासी᳓ प्रथमा᳓ यज्ञि᳓यासीद᳓ह्नां रा᳓त्रीणामतिशर्वरे᳓षु।  
 ये᳓ त्वां᳓ यज्ञै᳓र्यज्ञिये अर्ध᳓यन्त्यमी᳓ ते ना᳓के सुकृ᳓तः प्र᳓विष्टाः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/080_pUrNimA/04_paurNamAsI_prathamA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पौ॑र्णमा॒सी प्र॑थ॒मा य॒ज्ञिया॑सी॒दह्नां॒ रात्री॑णामतिशर्व॒रेषु॑।  
-ये त्वां य॒ज्ञैर्य॑ज्ञिये अ॒र्धय॑न्त्य॒मी ते॒ नाके॑ सु॒कृतः॒ प्रवि॑ष्टाः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/080_pUrNimA/04_paurNamAsI_prathamA.md">
@@ -283,14 +290,23 @@ atītya vartamāneṣu somādihaviṣṣu* or else *tṛtīyasavanavyāpiṣu ha
 thus akin in meaning with *atirātra;* and this is perhaps right. \*⌊I  
 find no note of P.M.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 First was the Full Moon meet for adoration among the days and in the nights' deep darkness. Into thy heaven, O Holy One, have entered those pious men who honour thee with worship.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पौ॑र्णमा॒सी प्र॑थ॒मा य॒ज्ञिया॑सी॒दह्नां॒ रात्री॑णामतिशर्व॒रेषु॑।  
+ये त्वां य॒ज्ञैर्य॑ज्ञिये अ॒र्धय॑न्त्य॒मी ते॒ नाके॑ सु॒कृतः॒ प्रवि॑ष्टाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पौ॒र्ण॒ऽमा॒सी। प्र॒थ॒मा। य॒ज्ञिया॑। आ॒सी॒त्। अह्ना॑म्। रात्री॑णाम्। अ॒ति॒ऽश॒र्व॒रेषु॑। ये। त्वाम्। य॒ज्ञैः। य॒ज्ञि॒ये॒। अ॒र्धय॑न्ति। अ॒मी इति॑। ते। नाके॑। सु॒ऽकृतः॑। प्रऽवि॑ष्टाः। ८५.४। 
+पौ॒र्ण॒ऽमा॒सी। प्र॒थ॒मा। य॒ज्ञिया॑। आ॒सी॒त्। अह्ना॑म्। रात्री॑णाम्। अ॒ति॒ऽश॒र्व॒रेषु॑। ये। त्वाम्। य॒ज्ञैः। य॒ज्ञि॒ये॒। अ॒र्धय॑न्ति। अ॒मी इति॑। ते। नाके॑। सु॒ऽकृतः॑। प्रऽवि॑ष्टाः। ८५.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पौर्णमासी
@@ -298,18 +314,22 @@ First was the Full Moon meet for adoration among the days and in the nights' dee
 - त्रिष्टुप्
 - पूर्णिमा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर के गुणों का उपदेश
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पौर्णमासी) पौर्णमासी [सम्पूर्ण परिमेय पदार्थों की आधार शक्ति] (अह्नाम्) दिनों के बीच और (रात्रीणाम्) रात्रियों के (अतिशर्वरेषु) अत्यन्त अन्धकारों में (प्रथमा) पहिली (यज्ञिया) पूजा योग्य (आसीत्) हुई है। (यज्ञिये) हे पूजायोग शक्ति ! (ये) जो (त्वाम्) तुझे (यज्ञैः) पूजनीय व्यवहारों से (अर्धयन्ति) पूजते हैं, (अमी) यह सब [आगे और पीछे होनेवाले] (सुकृतः) सुकर्मी लोग (नाके) आनन्द में (प्रविष्टाः) प्रविष्ट होते हैं ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो परमेश्वर सृष्टि और प्रलय से अनादि और अनन्त है, उसकी पूजा करके सब मनुष्य आनन्द पाते हैं ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(पौर्णमासी)-म० १। सम्पूर्णपरिमेयपदार्थाधारा शक्तिः (प्रथमा) आद्या (यज्ञिया) पूजार्हा (अह्नाम्) दिनानां मध्ये (रात्रीणाम्) (अतिशर्वरेषु) कॄगॄशॄवृञ्चतिभ्यः ष्वरच्। उ० २।१२१। शॄ हिंसायाम्−ष्वरच्। शर्वरं तमः। अत्यन्तान्धकारेषु (ये) मनुष्याः (त्वाम्) पौर्णमासीम् (यज्ञैः) पूजनीयैः कर्मभिः (यज्ञिये) पूजार्हे (अर्धयन्ति) ऋधु वृद्धौ-णिच्। वर्धयन्ति। अर्चन्ति (अमी) इदानीन्तनाः (ते) दूरस्थाः। भूते भविष्यति च भवाः (नाके) सुखे (सुकृतः) सुकर्माणः (प्रविष्टाः) स्थिता भवन्ति ॥

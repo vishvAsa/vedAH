@@ -8,15 +8,18 @@ title = "१०० दुःष्वप्ननाशनम्"
 
 100 (105). Against bad dreams.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 दुःष्वप्ननाशनम्।  
 १ यमः। दुःष्वप्ननाशनम्। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Yama.—duḥsvapnanāśanadevatyam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -35,15 +38,6 @@ Translated: Ludwig, p. 498; Henry, 40, 115; Griffith, i. 378.
 
 पर्या᳓वर्ते दुःष्व᳓प्न्यात्पापा᳓त्स्व᳓प्न्याद᳓भूत्याः।  
 ब्र᳓ह्माह᳓म᳓न्तरं कृण्वे प᳓रा स्व᳓प्नमुखाः शु᳓चः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प॒र्याव॑र्ते दुः॒ष्वप्न्या॑त्पा॒पात्स्वप्न्या॒दभू॑त्याः।  
-ब्रह्मा॒हमन्त॑रं कृण्वे॒ परा॒ स्वप्न॑मुखाः॒ शुचः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
@@ -65,14 +59,23 @@ have *párāḥ* in **d**. The comm. explains *svapnamukhās* by
 side"—to prevent the recurrence of nightmare. As to **c**, cf. i. 19. 4  
 and v. 8. 6.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 I turn away from evil dream, from dream of sin, from indigence. I make the prayer mine inmost friend. Hence! torturing. dreamy phantasies!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प॒र्याव॑र्ते दुः॒ष्वप्न्या॑त्पा॒पात्स्वप्न्या॒दभू॑त्याः।  
+ब्रह्मा॒हमन्त॑रं कृण्वे॒ परा॒ स्वप्न॑मुखाः॒ शुचः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प॒रि॒ऽआव॑र्ते। दुः॒ऽस्वप्न्या॑त्। पा॒पात्। स्वप्न्या॑त्। अभू॑त्याः। ब्रह्म॑। अ॒हम्। अन्त॑रम्। कृ॒ण्वे॒। परा॒। स्वप्न॑ऽमुखाः। शुचः॑। १०५.१। 
+प॒रि॒ऽआव॑र्ते। दुः॒ऽस्वप्न्या॑त्। पा॒पात्। स्वप्न्या॑त्। अभू॑त्याः। ब्रह्म॑। अ॒हम्। अन्त॑रम्। कृ॒ण्वे॒। परा॒। स्वप्न॑ऽमुखाः। शुचः॑। १०५.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दुःष्वप्ननाशनम्
@@ -80,18 +83,22 @@ I turn away from evil dream, from dream of sin, from indigence. I make the praye
 - अनुष्टुप्
 - दुःस्वप्न नाशन
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुविचार के हटाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (दुःष्वप्न्यात्) बुरी निद्रा में उठे हुए और (स्वप्न्यात्) स्वप्न में उठे हुए (पापात्) पाप से [प्राप्त] (अभूत्याः) अनैश्वर्यता [निर्धनता] से (पर्यावर्ते) मैं अलग हटता हूँ। (अहम्) मैं (ब्रह्म) ब्रह्म [ईश्वर] को [अपने] (अन्तरम्) भीतर, और (स्वप्नमुखाः) स्वप्न के कारण से होनेवाले (शुचः) शोकों को (परा) दूर (कृण्वे) करता हूँ ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमात्मा में लवलीन होकर मन को ऐसा वश में करे कि स्वप्न में भी कुवासनायें न उठें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(पर्यावर्ते) पृथग् भवामि (दुःष्वप्न्यात्) अ० ४।९।६। दुर् दुष्टेषु स्वप्नेषु भवात् (पापात्) अ० २।१२।५। पालकात् (स्वप्न्यात्) स्वप्नप्रभवात् (अभूत्याः) अनैश्वर्यत्वात्। निर्धनत्वात् (ब्रह्म) ईश्वरम् (अहम्) मनुष्यः (अन्तरम्) मध्ये। आत्मनि (कृण्वे) करोमि (परा) दूरे (स्वप्नमुखाः) स्वप्नप्रधानाः (शुचः) शोकान् ॥

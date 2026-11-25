@@ -8,15 +8,18 @@ title = "०४९ रात्रिः"
 
 49. Praise and prayer to night.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 रात्रिः।  
 १-१० गोपथः, भरद्वाजश्च। रात्रिः। अनुष्टुप्, १-५, ८ त्रिष्टुप्, ६ आस्तारपङ्क्तिः, ७ पथ्यापङ्क्तिः, १० त्र्यवसाना
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [As 47.*—daśakam. ānuṣṭubham: 1-5, 8. triṣṭubh; 6. āstārapan̄kti; 7. pathyāpan̄kti; 10. 3-av. 6-p. jagatī.] *⌊The Anukr. adds bharadvājaś ca (or bhārad-), apparently meaning that Gopatha and Bharadvāja were jointly the seers in the case of this hymn.⌋
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ This hymn and the following occur together also in Pāipp. xiv. Their viniyoga i
 #### Translations
 Translated: Ludwig, p. 466; Griffith, ii. 306.
 </details>
+
 <details><summary>Griffith</summary>
 
 A hymn of Praise and prayer to Night
@@ -39,15 +43,6 @@ A hymn of Praise and prayer to Night
 
 इ᳙षिरा᳓ यो᳓षा युवति᳓र्द᳓मूना रा᳓त्री देव᳓स्य सवितु᳓र्भ᳓गस्य।  
 अ᳙श्वक्षभा᳓ सुह᳓वा सं᳓भृतश्रीरा᳓ पप्रौ द्या᳓वापृथिवी᳓ महित्वा᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/01_iShirA_yoShA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इ॑षि॒रा योषा॑ युव॒तिर्दमू॑ना॒ रात्री॑ दे॒वस्य॑ सवि॒तुर्भग॑स्य।  
-अ॑श्वक्ष॒भा सु॒हवा॒ संभृ॑तश्री॒रा प॑प्रौ॒ द्यावा॑पृथि॒वी म॑हि॒त्वा ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/01_iShirA_yoShA.md">
@@ -73,14 +68,23 @@ vs. 4 **c**, *aśvakṣā* (= *aśvān kṣāyati* or *kṣapayati*) *bhā* (=
 divide falsely *sám॰bhṛtaśrīḥ* instead of *sámbhṛta॰śrīḥ;* SPP. follows  
 them. Ppp. reads *saṁbhṛtaḥśīr ā*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Friend of the home, the strong and youthful maiden, Night, dear to Savitar the God, and Bhaga, All-compassing, all-glorious, prompt to listen, hath with her greatness filled the earth and heaven.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॑षि॒रा योषा॑ युव॒तिर्दमू॑ना॒ रात्री॑ दे॒वस्य॑ सवि॒तुर्भग॑स्य।  
+अ॑श्वक्ष॒भा सु॒हवा॒ संभृ॑तश्री॒रा प॑प्रौ॒ द्यावा॑पृथि॒वी म॑हि॒त्वा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒षि॒रा। योषा॑। यु॒व॒तिः। दमू॑ना। रात्री॑। दे॒वस्य॑। स॒वि॒तुः। भग॑स्य। अ॒श्व॒ऽक्ष॒भा। सु॒ऽहवा॑। सम्ऽभृ॑तश्रीः। आ। प॒प्रौ॒। द्यावा॑पृथि॒वी इति॑। म॒हि॒ऽत्वा। ४९.१। 
+इ॒षि॒रा। योषा॑। यु॒व॒तिः। दमू॑ना। रात्री॑। दे॒वस्य॑। स॒वि॒तुः। भग॑स्य। अ॒श्व॒ऽक्ष॒भा। सु॒ऽहवा॑। सम्ऽभृ॑तश्रीः। आ। प॒प्रौ॒। द्यावा॑पृथि॒वी इति॑। म॒हि॒ऽत्वा। ४९.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रात्रिः
@@ -88,18 +92,22 @@ Friend of the home, the strong and youthful maiden, Night, dear to Savitar the G
 - त्रिष्टुप्
 - रात्रि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रात्रि में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इषिरा) फुरतीली, (योषा) सेवनीया (युवतिः) युवा [बलवती], (देवस्य) प्रकाशमान, (भगस्य) ऐश्वर्यवान् (सवितुः) प्रेरक सूर्य की (दमूनाः) वश में करनेवाली, (अश्वक्षमा) शीघ्र फैलनेवाली, (सुहवा) सहज में बुलाने योग्य, (संभृतश्रीः) सम्पूर्ण सम्पत्तिवाली (रात्रौ) रात्री ने (महित्वा) महिमा से (द्यावापृथिवी) आकाश और पृथिवी को (आ) सर्वथा (पप्रौ) भर दिया है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस समय विश्रामदात्री रात्री का बड़ा अन्धकार संसार में फैले, मनुष्य सावधानी से अपनी सम्पत्ति की रक्षा करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   मन्त्र के पदपाठ के (अश्व-क्षमा) को (अशु-अक्षमा) मानकर अर्थ किया गया है ॥  १−(इषिरा) इषिमदिमुदि०। उ० १।५१। इष गतौ-किरच्। शीघ्रगतिः (योषा) युष सेवने-अच्, टाप्। सेवनीया (युवतिः) तरुणी। बलवती (दमूनाः) अ० ७।१४।४। दमेरुनसि। उ० ४।२३५। दमु उपशमे-उनसि, वा दीर्घः। दमनशीला (रात्री) (देवस्य) प्रकाशमानस्य (सवितुः) प्रेरकस्य सूर्यस्य (भगस्य) ऐश्वर्यवतः (अश्वक्षमा) भृमृशीङ्०। उ० १।७। अशू व्याप्तौ-उ प्रत्ययः+कॄशृशलिकलि०। उ० ३।१२२। अक्षू व्याप्तौ-अमच्, टाप्। अशु आशु शीघ्रं अक्षमा व्यापनशीला (सुहवा) सुखेन ह्वातव्या (संभृतश्रीः) सम्पूर्णसम्पत्तिः (आ) समन्तात् (पप्रौ) प्रा पूरणे-लिट्। पूरितवती (द्यावापृथिवी) आकाशभूमी (महित्वा) महिम्ना ॥
@@ -113,15 +121,6 @@ Friend of the home, the strong and youthful maiden, Night, dear to Savitar the G
 
 अ᳓ति वि᳓श्वान्यरुहद्गम्भीरो᳓ व᳓र्षिष्ठमरुहन्त श्र᳓विष्ठाः।  
 उ᳙शती᳓ रा᳓त्र्य᳓नु सा᳓ भद्राभि᳓ तिष्ठते मित्र᳓ इव स्वधा᳓भिः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/02_ati_vishvAnyaruhadgambhIro.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अति॒ विश्वा॑न्यरुहद्गम्भी॒रो वर्षि॑ष्ठमरुहन्त॒ श्रवि॑ष्ठाः।  
-उ॑श॒ती रात्र्यनु॒ सा भ॑द्रा॒भि ति॑ष्ठते मि॒त्र इ॑व स्व॒धाभिः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/02_ati_vishvAnyaruhadgambhIro.md">
@@ -202,14 +201,23 @@ third, SPP's reading: *áti viśvāny aruhad gambhīró várṣiṣṭham aruhan
 śráviṣṭhāḥ: uśatī́ rā́try* (p. *rā́trī*) *ánu sā́ bhadrā́ ’bhi tiṣṭhate mitrá  
 iva svadhā́bhiḥ*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Over all depths hath she gone up, and mounted, most mighty One, the sky's exalted summit. Over me now the loving Night is spreading with her auspicious. Godlike ways like Mitra.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अति॒ विश्वा॑न्यरुहद्गम्भी॒रो वर्षि॑ष्ठमरुहन्त॒ श्रवि॑ष्ठाः।  
+उ॑श॒ती रात्र्यनु॒ सा भ॑द्रा॒भि ति॑ष्ठते मि॒त्र इ॑व स्व॒धाभिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अति॑। विश्वा॑नि। अ॒रु॒ह॒त्। ग॒म्भी॒रः। वर्षि॑ष्ठम्। अ॒रु॒ह॒न्त॒। श्रवि॑ष्ठाः। उ॒श॒ती। रात्री॑। अनु॑। सा। भ॒द्रा। अ॒भि। ति॒ष्ठ॒ते॒। मि॒त्रःऽइ॑व। स्व॒धाभिः॑। ४९.२। 
+अति॑। विश्वा॑नि। अ॒रु॒ह॒त्। ग॒म्भी॒रः। वर्षि॑ष्ठम्। अ॒रु॒ह॒न्त॒। श्रवि॑ष्ठाः। उ॒श॒ती। रात्री॑। अनु॑। सा। भ॒द्रा। अ॒भि। ति॒ष्ठ॒ते॒। मि॒त्रःऽइ॑व। स्व॒धाभिः॑। ४९.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रात्रिः
@@ -217,18 +225,22 @@ Over all depths hath she gone up, and mounted, most mighty One, the sky's exalte
 - त्रिष्टुप्
 - रात्रि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रात्रि में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (गम्भीरः) गम्भीर पुरुष (विश्वानि) सब [विघ्नों] को (अति) लाँघकर (अरुहत्) ऊँचा हुआ है, और (श्रविष्ठाः) अति बलवान् पुरुष (वर्षिष्ठम्) अति चौड़े स्थान पर (अरुहन्त) चढ़े हैं। (उशती) प्रीति करती हुई (भद्रा) कल्याणी (सा) वह (रात्री) रात्री (अनु) निरन्तर (मित्रः इव) मित्र के समान, (स्वधाभिः) अपनी धारणशक्तियों के साथ (अभि तिष्ठते) सब ओर ठहरती है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  शान्तस्वभाव बलवान् पुरुषों ने संसार में ऊँचे स्थान पाये हैं, इसी प्रकार जो मनुष्य रात्रि अर्थात् कठिनाई को मित्रसमान जानकर सावधान रहते हैं, वे सब प्रकार के पोषणों को प्राप्त होते हैं ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(अति) उल्लङ्घ्य (विश्वानि) सर्वाण्यनिष्टानि (अरुहत्) आरूढवान् (गम्भीरः) शान्तः (वर्षिष्ठम्) उरुत्तमं स्थानम् (अरुहन्त) आरूढवन्तः। (श्रविष्ठाः) अतिशयेन श्रवस्विनः। बलिष्ठाः (उशती) कामयमाना (रात्री) रात्रीरूपं काठिन्यम् (अनु) निरन्तरम् (सा) प्रसिद्धा (भद्रा) कल्याणी (अभि) सर्वतः (मित्रः) सुहृत् (इव) यथा (स्वधाभिः) स्वधारणशक्तिभिः ॥
@@ -242,15 +254,6 @@ Over all depths hath she gone up, and mounted, most mighty One, the sky's exalte
 
 व᳓र्ये व᳓न्दे सु᳓भगे सु᳓जात आ᳓जगन्रा᳓त्रि सुम᳓ना इह᳓ स्याम्।  
 अस्मां᳓स्त्रायस्व न᳓र्याणि जाता᳓ अ᳓थो या᳓नि ग᳓व्यानि पुष्ठ्या᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/03_varye_vande.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वर्ये॒ वन्दे॒ सुभ॑गे॒ सुजा॑त॒ आज॑ग॒न्रात्रि॑ सु॒मना॑ इ॒ह स्या॑म्।  
-अ॒स्मांस्त्रा॑यस्व॒ नर्या॑णि जा॒ता अथो॒ यानि॒ गव्या॑नि पु॒ष्ठ्या ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/03_varye_vande.md">
@@ -288,14 +291,23 @@ mss. (they vary only as to its accent), and with SPP.; our conjectural
 emendation *puṣṭā́* is supported only by the comm. ⌊text and  
 explanation⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 Excellent, high-born, blissful, meet for worship, Night, thou hast come: stay here with friendly spirit. Guard us, the food for men that we have gotten, and all pro- sperity that comes of cattle.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वर्ये॒ वन्दे॒ सुभ॑गे॒ सुजा॑त॒ आज॑ग॒न्रात्रि॑ सु॒मना॑ इ॒ह स्या॑म्।  
+अ॒स्मांस्त्रा॑यस्व॒ नर्या॑णि जा॒ता अथो॒ यानि॒ गव्या॑नि पु॒ष्ठ्या ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वर्ये॑। वन्दे॑। सुऽभ॑गे। सु॒ऽजा॑ते। आ। अ॒ज॒ग॒न्। रात्रि॑। सु॒ऽमनाः॑। इ॒ह। स्या॒म्। अ॒स्मान्। त्रा॒य॒स्व॒। नर्या॑णि। जा॒ता। अथो॒ इति॑। यानि॑। गव्या॑नि। पु॒ष्ट्या। ४९.३। 
+वर्ये॑। वन्दे॑। सुऽभ॑गे। सु॒ऽजा॑ते। आ। अ॒ज॒ग॒न्। रात्रि॑। सु॒ऽमनाः॑। इ॒ह। स्या॒म्। अ॒स्मान्। त्रा॒य॒स्व॒। नर्या॑णि। जा॒ता। अथो॒ इति॑। यानि॑। गव्या॑नि। पु॒ष्ट्या। ४९.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रात्रिः
@@ -303,18 +315,22 @@ Excellent, high-born, blissful, meet for worship, Night, thou hast come: stay he
 - त्रिष्टुप्
 - रात्रि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रात्रि में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वर्ये) हे चाहने योग्य ! (वन्दे) हे वन्दनायोग्य ! (सुभगे) हे बड़े ऐश्वर्यवाली ! (सुजाते) हे सुन्दर जन्मवाली ! (रात्रि) रात्रि (आ अजगन्) तू आयी है, मैं (इह) यहाँ (सुमनाः) प्रसन्नचित्त (स्याम्) रहूँ। (अस्मान्) हमारे लिये (नर्याणि) मनुष्यों की हितकारी (जाता) उत्पन्न वस्तुओं को (अथो) और भी [उनको], (यानि) जो (गव्यानि) गौ [आदि] की हितकारी वस्तु हैं, (पुष्ट्या) वृद्धि के साथ (त्रायस्व) रक्षा कर ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य रात्रि रूप कठिनाई में प्रसन्नचित्त रहकर अपना कर्तव्य करते रहें, वे उन्नति करके अपनी सम्पत्ति की रक्षा कर सकें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(वर्ये) हे वरणीये (वन्दे) वदि अभिवादनस्तुत्योः-घञ्। हे वन्दनीये (सुभगे) बह्वैश्वर्यवति (सुजाते) हे सुजन्मयुक्ते (आ अजगन्) गमेर्लङि मध्यमपुरुषे सिपि शपः श्लुः। मो नो धातोः। पा० ८।२।६४। इति नत्वम्। हल्ङ्याभ्यो दीर्घा०। पा० ६।१।६८। इति सिपो लोपः। आगच्छः। आगतासि (रात्रि) (सुमनाः) प्रसन्नचित्तः (इह) अत्र (स्याम्) अहं भवेयम् (अस्मान्) चतुर्थ्यर्थे द्वितीया। अस्मभ्यम् (त्रायस्व) पालय (नर्याणि) नरहितानि (जाता) उत्पन्नानि वस्तूनि (अथो) अपि च (यानि) वस्तूनि (गव्यानि) गवादिभ्यो हितानि (पुष्ट्या) वृद्ध्या ॥
@@ -328,15 +344,6 @@ Excellent, high-born, blissful, meet for worship, Night, thou hast come: stay he
 
 सिंह᳓स्य रा᳓त्र्युशती᳓ पींष᳓स्य व्याघ्र᳓स्य द्वीपि᳓नो व᳓र्च आ᳓ ददे।  
 अ᳓श्वस्य ब्रध्नं᳓ पु᳓रुषस्य मायुं᳓ पुरु᳓ रूपा᳓णि कृणुषे विभाती᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सिं॒हस्य॒ रात्र्यु॑श॒ती पीं॒षस्य॑ व्या॒घ्रस्य॑ द्वी॒पिनो॒ वर्च॒ आ द॑दे।  
-अश्व॑स्य ब्र॒ध्नं पुरु॑षस्य मा॒युं पु॒रु रू॒पाणि॑ कृणुषे विभा॒ती ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
@@ -366,14 +373,23 @@ combined; and TB. (ii. 7. 7¹) in the corresponding passage reads
 authorities read *vibhātī́ḥ* at the end.⌋ \*⌊Cf. *áśvabudhna*, RV. x. 8.  
 3; and Aufrecht on *áśvabudhya*, ZDMG. xxiv. 206.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 With eager haste hath Night assumed the vigour of leopard,. tiger, or of tawny lion, The horse's neighing and the wild-man's bellow, Thou takest many a form when thou appearest.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सिं॒हस्य॒ रात्र्यु॑श॒ती पीं॒षस्य॑ व्या॒घ्रस्य॑ द्वी॒पिनो॒ वर्च॒ आ द॑दे।  
+अश्व॑स्य ब्र॒ध्नं पुरु॑षस्य मा॒युं पु॒रु रू॒पाणि॑ कृणुषे विभा॒ती ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सिं॒हस्य॑। रात्री॑। उ॒श॒ती। पीं॒षस्य॑। व्या॒घ्रस्य॑। द्वी॒पिनः॑। वर्चः॑। आ। द॒दे॒। अश्व॑स्य। ब्र॒ध्नम्। पुरु॑षस्य। मा॒युम्। पु॒रु। रू॒पाणि॑। कृ॒णु॒षे॒। वि॒ऽभा॒ती। ४९.४। 
+सिं॒हस्य॑। रात्री॑। उ॒श॒ती। पीं॒षस्य॑। व्या॒घ्रस्य॑। द्वी॒पिनः॑। वर्चः॑। आ। द॒दे॒। अश्व॑स्य। ब्र॒ध्नम्। पुरु॑षस्य। मा॒युम्। पु॒रु। रू॒पाणि॑। कृ॒णु॒षे॒। वि॒ऽभा॒ती। ४९.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रात्रिः
@@ -381,18 +397,22 @@ With eager haste hath Night assumed the vigour of leopard,. tiger, or of tawny l
 - त्रिष्टुप्
 - रात्रि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रात्रि में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उशती) प्रीति करती हुई (रात्री) रात्री ने (सिंहस्य) सिंह की, (पींषस्य) चूरण करनेवाले [हाथी] की, (व्याघ्रस्य) बाघ की और (द्वीपिनः) चीते की (वर्चः) कान्ति को, (अश्वस्य) घोड़े के (ब्रध्नम्) मूल [वेग] को और (पुरुषस्य) पुरुष की (मायुम्) ललकार को (आ ददे) ग्रहण किया है, (विभाती) चमकती हुई तू (पुरु) बहुत से (रूपाणि) रूपों को (कृणुषे) बनाती है ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य रात्रिरूप कठिनाई में सिंह आदि के समान पराक्रमी होते हैं, वे ही कीर्तिमान् और तेजस्वी होते हैं ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(सिंहस्य) (रात्री) (उशती) कामयमाना (पींषस्य) पाघ्राघ्माधेट्दृशः शः। पा० ३।१।१३७। इति बाहुलकात् शप्रत्ययः। तस्य सार्वधातुकत्वाद् नुम्, छान्दसो दीर्घः। संचूर्णकस्य गजस्य (व्याघ्रस्य) हिंसकजीवविशेषस्य (द्वीपिनः) व्याघ्रभेदस्य (वर्चः) कान्तिम् (आददे) आहृतवती। प्राप्तवती (अश्वस्य) तुरङ्गस्य (ब्रध्नम्) मूलम्। वेगम् (पुरुषस्य) मनुष्यस्य (मायुम्) माङ् शब्दे-उण्, युक् च। शब्दम् (पुरु) पुरूणि (रूपाणि) (कृणुषे) करोषि (विभाती) वि+भा दीप्तौ-शतृ। विशेषेण भासमाना ॥
@@ -406,15 +426,6 @@ With eager haste hath Night assumed the vigour of leopard,. tiger, or of tawny l
 
 शिवां᳓ रा᳓त्रिमनुसू᳓र्यं च हिम᳓स्य माता᳓ सुह᳓वा नो अस्तु।  
 अस्य᳓ स्तो᳓मस्य सुभगे नि᳓ बोध ये᳓न त्वा व᳓न्दे वि᳓श्वासु दिक्षु᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/05_shivAM_rAtrimanusUryam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-शि॒वां रात्रि॑मनु॒सूर्यं॑ च हि॒मस्य॑ मा॒ता सु॒हवा॑ नो अस्तु।  
-अ॒स्य स्तोम॑स्य सुभगे॒ नि बो॑ध॒ येन॑ त्वा॒ वन्दे॒ विश्वा॑सु दि॒क्षु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/05_shivAM_rAtrimanusUryam.md">
@@ -443,14 +454,23 @@ In **b**, Ppp. has *yamasya*. In **c**, nearly all the mss. read *aśvá*
 word; SPP. has *asyá*, with us. In **d**, a few mss. have *vándye* or  
 *vádye*. Ppp. reads at the end *vikṣu*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Kind through the Night be absence of the sunshine: Mother of Frost, may she be swift to hear us. Take notice of the hymn, thou highly favoured, wherewith I worship thee in all the regions.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+शि॒वां रात्रि॑मनु॒सूर्यं॑ च हि॒मस्य॑ मा॒ता सु॒हवा॑ नो अस्तु।  
+अ॒स्य स्तोम॑स्य सुभगे॒ नि बो॑ध॒ येन॑ त्वा॒ वन्दे॒ विश्वा॑सु दि॒क्षु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शि॒वाम्। रात्रि॑म्। अ॒नु॒ऽसूर्य॑म्। च॒। हि॒मस्य॑। मा॒ता। सु॒हवा॑। नः॒। अ॒स्तु॒। अ॒स्य। स्तोम॑स्य। सु॒ऽभ॒गे॒। नि। बो॒ध॒। येन॑। त्वा॒। वन्दे॑। विश्वासु। दि॒क्षु। ४९.५। 
+शि॒वाम्। रात्रि॑म्। अ॒नु॒ऽसूर्य॑म्। च॒। हि॒मस्य॑। मा॒ता। सु॒हवा॑। नः॒। अ॒स्तु॒। अ॒स्य। स्तोम॑स्य। सु॒ऽभ॒गे॒। नि। बो॒ध॒। येन॑। त्वा॒। वन्दे॑। विश्वासु। दि॒क्षु। ४९.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रात्रिः
@@ -458,18 +478,22 @@ Kind through the Night be absence of the sunshine: Mother of Frost, may she be s
 - त्रिष्टुप्
 - रात्रि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रात्रि में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (च) और (हिमस्य) हिम [शीतलता] की (माता) माता [आप] (नः) हमारे लिये (सुहवा) सहज में बुलाने योग्य (अस्तु) होवें, (सुभगे) हे बड़े ऐश्वर्यवाली ! तू (अस्य) इस (स्तोमस्य) स्तोत्र का (नि बोध) ज्ञान कर, (येन) जिस [स्तोत्र] से (त्वाम्) तुझ (शिवाम्) कल्याणी (रात्रिम्) रात्रि को (अनुसूर्य्यम्) सूर्य के साथ-साथ (विश्वासु) सब (दिक्षु) दिशाओं में (वन्दे) में वन्दना करता हूँ ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य कठिनाई को पार करके अन्त में शान्ति और ऐश्वर्य को प्राप्त हों, वे उस कठिनाई को उन्नति का कारण समझकर उसका आदर करें ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(शिवाम्) कल्याणीम् (रात्रिम्) (अनुसूर्यम्) सूर्यमनुसृत्य (च) समुच्चये (हिमस्य) शीतलत्वस्य (माता) निर्मात्री भवतीति शेषः (सुहवा) सुखेन ह्वातव्या (नः) अस्मभ्यम् (अस्तु) (अस्य) क्रियमाणस्य (स्तोमस्य) स्तोत्रस्य (सुभगे) हे बह्वैश्वर्यवति (नि) नितराम् (बोध) ज्ञानं कुरु (येन) स्तोमेन (त्वा) त्वाम् (वन्दे) आदरेण नमामि (विश्वासु) सर्वासु (दिक्षु) ॥
@@ -483,15 +507,6 @@ Kind through the Night be absence of the sunshine: Mother of Frost, may she be s
 
 स्तो᳓मस्य नो विभावरि रा᳓त्रि रा᳓जेव जोषसे।  
 अ᳓साम स᳓र्ववीरा भ᳓वाम स᳓र्ववेदसो व्युच्छ᳓न्तीर᳓नूष᳓सः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/06_stomasya_no.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स्तोम॑स्य नो विभावरि॒ रात्रि॒ राजे॑व जोषसे।  
-असा॑म॒ सर्व॑वीरा॒ भवा॑म॒ सर्व॑वेदसो व्यु॒च्छन्ती॒रनू॒षसः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/06_stomasya_no.md">
@@ -509,14 +524,23 @@ had done. Ppp., in **b, c, d**, has, *joṣasī yathā nas sarvavīrā bh-*.
 The verse is very ill described by the Anukr.; it is a good *pan̄kti*  
 with one syllable wanting in **c**.
 </details>
+
 <details><summary>Griffith</summary>
 
 Even as a King, O splendid Night, thou takest pleasure in our hymn. May we through Mornings as they flush have all our good men, round us, and become possessors of all wealth.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्तोम॑स्य नो विभावरि॒ रात्रि॒ राजे॑व जोषसे।  
+असा॑म॒ सर्व॑वीरा॒ भवा॑म॒ सर्व॑वेदसो व्यु॒च्छन्ती॒रनू॒षसः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्तोम॑स्य। नः॒। वि॒भा॒व॒रि॒। रात्रि॑। राजा॑ऽइव। जो॒ष॒से॒। असा॑म। सर्व॑ऽवीराः। भवा॑म। सर्व॑ऽवेदसः। वि॒ऽउ॒च्छन्तीः॑। अनु। उषसः। ४९.६। 
+स्तोम॑स्य। नः॒। वि॒भा॒व॒रि॒। रात्रि॑। राजा॑ऽइव। जो॒ष॒से॒। असा॑म। सर्व॑ऽवीराः। भवा॑म। सर्व॑ऽवेदसः। वि॒ऽउ॒च्छन्तीः॑। अनु। उषसः। ४९.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रात्रिः
@@ -524,18 +548,22 @@ Even as a King, O splendid Night, thou takest pleasure in our hymn. May we throu
 - आस्तारपङ्क्तिः
 - रात्रि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रात्रि में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (विभावरि) हे चमकवाली (रात्रि) रात्रि ! (नः) हमारे (स्तोमस्य) स्तोत्र का (राजा इव) राजा के समान (जोषसे) तू सेवन करती रहे। (व्युच्छन्तीः) विविध प्रकार चमकती हुई (उषसः अनु) उषाओं के साथ-साथ हम (सर्ववीराः) सब वीरोंवाले (असाम) होवें, और (सर्ववेदसः) सब सम्पत्तिवाले (भवाम) होवें ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य ताराओंवाली रात्रि के सुन्दर उपयोग से स्तुतियोग्य कर्म करके सदा बड़े-बड़े वीर पुरुषोंवाले और बड़ी सम्पत्तिवाले होवें ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(स्तोमस्य) स्तोत्रस्य (नः) अस्माकम् (विभावरि) हे विशेषदीप्तियुक्ते (रात्रि) (राजा) (इव) यथा (जोषसे) लेटि अडागमः। सेवस्व (असाम) (सर्ववीराः) सर्ववीरोपेताः (भवाम) (सर्ववेदसः) बहुसम्पत्तियुक्ताः (व्युच्छन्तीः) विशेषेण भासमानाः (अनु) अनुलक्ष्य (उषसः) प्रभातवेलाः ॥
@@ -549,15 +577,6 @@ Even as a King, O splendid Night, thou takest pleasure in our hymn. May we throu
 
 श᳓म्या ह ना᳓म दधिषे᳓ म᳓म दि᳓प्सन्ति ये᳓ ध᳓ना।  
 रा᳓त्रीहि᳓ ता᳓नसुतपा᳓ य᳓ स्तेनो᳓ न᳓ विद्य᳓ते य᳓त्पु᳓नर्न᳓ विद्य᳓ते ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/07_shamyA_ha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-शम्या॑ ह॒ नाम॑ दधि॒षे मम॒ दिप्स॑न्ति॒ ये धना॑।  
-रात्री॒हि तान॑सुत॒पा य स्ते॒नो न वि॒द्यते॒ यत्पुन॒र्न वि॒द्यते॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/07_shamyA_ha.md">
@@ -594,14 +613,23 @@ sense alike call for our emendation. Ppp. has for both pādas only *ta
 steno anv avidyate*, ⌊which might (see above) be understood as *atas  
 steno* etc.⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 Yes, Ramya is the name thou hast assumed. The men who fain. would spoil. My wealth do thou annoy, O Night, that not one robber may appear, none may a second time appear.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+शम्या॑ ह॒ नाम॑ दधि॒षे मम॒ दिप्स॑न्ति॒ ये धना॑।  
+रात्री॒हि तान॑सुत॒पा य स्ते॒नो न वि॒द्यते॒ यत्पुन॒र्न वि॒द्यते॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शम्या॑। ह॒। नाम॑। द॒धि॒षे। मम॑। दिप्स॑न्ति। ये। धना॑। रात्रि॑। इ॒हि। तान्। अ॒सु॒ऽत॒पा। यः। स्ते॒नः। न। वि॒द्यते॑। यत्। पुनः॑। न। वि॒द्यते॑। ४९.७। 
+शम्या॑। ह॒। नाम॑। द॒धि॒षे। मम॑। दिप्स॑न्ति। ये। धना॑। रात्रि॑। इ॒हि। तान्। अ॒सु॒ऽत॒पा। यः। स्ते॒नः। न। वि॒द्यते॑। यत्। पुनः॑। न। वि॒द्यते॑। ४९.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रात्रिः
@@ -609,18 +637,22 @@ Yes, Ramya is the name thou hast assumed. The men who fain. would spoil. My weal
 - पथ्यापङ्क्तिः
 - रात्रि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रात्रि में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शम्या) शान्तिवाली, (नाम) यह नाम (ह) निश्चय करके (दधिषे) तू धारण करती है, (ये) जो [चोर] (मम) मेरे (धना) धनों को (दिप्सन्ति) हानि पहुँचाना चाहते हैं। (रात्रि) हे रात्रि ! (असुतपा) [उनके] प्राणों को तपानेवाली तू (तान्) उनको (इहि) पहुँच, (यत्) जिससे (यः स्तेनः) जो चोर है, (न विद्यते) वह न रहे, (पुनः) फिर (न विद्यते) वह न रहे ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो चोर डाकू आदि रात्रि में हानि करें, उनको लोग दण्ड देकर शान्ति स्थापित करें और चोरों को न रहने दें ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(शम्या) शमु उपशमे-यत्। शान्तियुक्ता (ह) निश्चयेन (नाम) नामधेयम् (दधिषे) दधातेर्लेडर्थे लिट्। धारयसि (दिप्सन्ति) दम्भु दम्भे-सन्। दम्भिन्तुं हिंसितुमिच्छन्ति (ये) चोराः (धना) धनानि (रात्रि) (इहि) प्राप्नुहि (तान्) चोरान् (असुतपा) असु+तप सन्तापे-कप्रत्ययो मूलविभुजादित्वात्, टाप्। असूनां प्राणानां सन्तापयित्री (यः) (स्तेनः) (न) निषेधे (विद्यते) स वर्तते (यत्) यस्मात् (पुनः) पश्चात् (न) निषेधे (विद्यते) ॥
@@ -634,15 +666,6 @@ Yes, Ramya is the name thou hast assumed. The men who fain. would spoil. My weal
 
 भद्रा᳓सि रात्रि चमसो᳓ न᳓ विष्टो᳓ वि᳓ष्वङ्गो᳓रूपं युवति᳓र्बिभर्षि।  
 च᳓क्षुष्मती मे उशती᳓ व᳓पूंषि प्र᳓ति त्वं᳓ दिव्या᳓ न᳓ क्षाममुक्थाः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/08_bhadrAsi_rAtri.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-भ॒द्रासि॑ रात्रि चम॒सो न वि॒ष्टो विष्व॒ङ्गोरू॑पं युव॒तिर्बि॑भर्षि।  
-चक्षु॑ष्मती मे उश॒ती वपूं॑षि॒ प्रति॒ त्वं दि॒व्या न क्षा॑ममुक्थाः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/08_bhadrAsi_rAtri.md">
@@ -688,14 +711,23 @@ attempt to put meaning into it very absurd; it might suggest *práti tváṁ
 divyā́ nákṣatrāṇy amukthāḥ*. Our text ought to accent *tā́rakā am-*, if  
 the reading is admitted.
 </details>
+
 <details><summary>Griffith</summary>
 
 Thou like a well-wrought cup, O Night, art lovely: thou, a. young maid, art formed in perfect beauty. Thou lovingly, for me with eyes to se: them, hast bound on thee heaven's stars as thine adornment.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+भ॒द्रासि॑ रात्रि चम॒सो न वि॒ष्टो विष्व॒ङ्गोरू॑पं युव॒तिर्बि॑भर्षि।  
+चक्षु॑ष्मती मे उश॒ती वपूं॑षि॒ प्रति॒ त्वं दि॒व्या न क्षा॑ममुक्थाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भ॒द्रा। अ॒सि॒। रा॒त्रि॒। च॒म॒सः। न। वि॒ष्टः। विष्व॑ङ्। गोऽरू॑पम्। यु॒व॒तिः॒। बि॒भ॒र्षि॒। चक्षु॑ष्मती। मे॒। उ॒श॒ती। वपूं॑षि। प्रति॑। त्वम्। दि॒व्या। न। क्षाम्। अ॒मु॒क्थाः॒। ४९.८। 
+भ॒द्रा। अ॒सि॒। रा॒त्रि॒। च॒म॒सः। न। वि॒ष्टः। विष्व॑ङ्। गोऽरू॑पम्। यु॒व॒तिः॒। बि॒भ॒र्षि॒। चक्षु॑ष्मती। मे॒। उ॒श॒ती। वपूं॑षि। प्रति॑। त्वम्। दि॒व्या। न। क्षाम्। अ॒मु॒क्थाः॒। ४९.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रात्रिः
@@ -703,18 +735,22 @@ Thou like a well-wrought cup, O Night, art lovely: thou, a. young maid, art form
 - त्रिष्टुप्
 - रात्रि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रात्रि में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (रात्रि) हे रात्रि ! तू (विष्टः) परोसे हुए (चमसः न) अन्नपान्न के समान (भद्रा) कल्याणी (असि) है, (युवतिः) युवती [बलवती] तू (विष्वङ्) सम्पूर्ण (गोरूपम्) गौ के स्वभाव को (बिभर्षि) धारण करती है। (चक्षुष्मती) नेत्रवाली, (उशती) प्रीति करती हुई (त्वम्) तूने (मे) मेरे लिये (दिव्या) आकाशवाले (वपूंषि न) शरीरों के समान (क्षाम्) पृथिवी को (प्रति अमुक्थाः) ग्रहण किया है ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे गौ दुग्ध आदि से उपकार करती है, वैसे ही रात्रि शीतलता आदि से अन्न आदि की वृद्धि करती है, और जैसे आकाश के तारों से रात्रि शोभायमान होती है, वैसे ही वृक्ष, पुष्प, आदि रात्रि की शीतलता वा ओस से हरे-भरे होकर पृथिवी को सुन्दर बनाते हैं ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(भद्रा) कल्याणी (असि) भवसि (रात्रि) (चमसः) अन्नपात्रम् (न) इव (विष्टः) परिविष्टः परिष्कृतः (विष्वङ्) विषु+अञ्चु गतिपूजनयोः-क्विन्। सम्पूर्णम् (गोरूपम्) धेनुसमानोपकारित्वम् (युवतिः) यौवनवती। बलवती त्वम् (बिभर्षि) धारयसि (चक्षुष्मती) दर्शनशक्तियुक्ता (मे) मह्यम् (उशती) कामयमाना (वपूंषि) शरीराणि (त्वम्) (दिव्या) दिवि आकाशे भवानि शरीराणि (न) इव (क्षाम्) क्षि निवासगत्योः-डप्रत्ययः, टाप्। पृथिवीम्-निघ० १।१। (प्रति अमुक्थाः) स्वीकृतवती, गृहीतवती ॥
@@ -728,15 +764,6 @@ Thou like a well-wrought cup, O Night, art lovely: thou, a. young maid, art form
 
 यो᳓ अद्य᳓ स्तेन᳓ आ᳓यत्यघायु᳓र्म᳓र्त्यो रिपुः᳓।  
 रा᳓त्री त᳓स्य प्रती᳓त्य प्र᳓ ग्रीवाः᳓ प्र᳓ शि᳓रो हनत् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/09_yo_adya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यो अ॒द्य स्ते॒न आय॑त्यघा॒युर्मर्त्यो॑ रि॒पुः।  
-रात्री॒ तस्य॑ प्र॒तीत्य॒ प्र ग्री॒वाः प्र शिरो॑ हनत् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/09_yo_adya.md">
@@ -760,14 +787,23 @@ end. Ppp. has *yu dya stenā yutv aghāyu mṛtyo ripuḥ;* and, in **d**,
 **b** recurs here as the second pāda of the comm's inserted line and  
 also as the fourth pāda of our vs. 10⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 Whatever robber comes to-day, mischievous mortal enemy. Let Night go forth, encounter him, and smite away his neck and head;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो अ॒द्य स्ते॒न आय॑त्यघा॒युर्मर्त्यो॑ रि॒पुः।  
+रात्री॒ तस्य॑ प्र॒तीत्य॒ प्र ग्री॒वाः प्र शिरो॑ हनत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। अ॒द्य। स्ते॒नः। आ॒ऽअय॑ति। अ॒घ॒ऽयुः। मर्त्यः॑। रि॒पुः। रात्री॑। तस्य॑। प्र॒ति॒ऽइत्‍य॑। प्र। ग्री॒वाः। प्र। शिरः॑। ह॒न॒त्। ४९.९। 
+यः। अ॒द्य। स्ते॒नः। आ॒ऽअय॑ति। अ॒घ॒ऽयुः। मर्त्यः॑। रि॒पुः। रात्री॑। तस्य॑। प्र॒ति॒ऽइत्‍य॑। प्र। ग्री॒वाः। प्र। शिरः॑। ह॒न॒त्। ४९.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रात्रिः
@@ -775,18 +811,22 @@ Whatever robber comes to-day, mischievous mortal enemy. Let Night go forth, enco
 - अनुष्टुप्
 - रात्रि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रात्रि में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अद्य) आज (यः) जो (अघायुः) पाप चीतनेवाला (रिपुः) वैरी, (स्तेनः) चोर (मर्त्यः) मनुष्य (आ-अयति) आवे। (रात्री) रात्रि (प्रतीत्य) प्रतीति करके (तस्य) उसके (ग्रीवाः) गले को (प्र) सर्वथा, और (शिरः) शिर को (प्र) सर्वथा (हनत्) तोड़ डाले ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  यदि रात्रि में चोर-डाकू आदि आकर लूट-खसोट मचावें, रक्षक गण उनको यथावत् दण्ड देकर प्रजा की रक्षा करें ॥९, १०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(यः) (अद्य) अस्मिन् दिने (स्तेनः) चोरः (आयति) आङ्+इण् गतौ-लेट्। आगच्छेत् (अघायुः) पापचिन्तकः (मर्त्यः) मनुष्यः (रिपुः) शत्रुः (रात्री) (तस्य) शत्रोः (प्रतीत्य) प्रतीतिं प्रत्यक्षज्ञानं प्राप्य (प्र) सर्वथा (ग्रीवाः) कन्धरावयवान् (प्र) सर्वथा (शिरः) मस्तकम् (हनत्) लेटि रूपम्। हन्यात्। नाशयेत् ॥
@@ -801,16 +841,6 @@ Whatever robber comes to-day, mischievous mortal enemy. Let Night go forth, enco
 प्र᳓ पादौ न᳓ य᳓था᳓यति प्र᳓ ह᳓स्तौ न᳓ य᳓था᳓शिषत्।  
 यो᳓ मलिम्लु᳓रुपा᳓यति स᳓ सं᳓पिष्टो अ᳓पायति।  
 अ᳓पायति स्व᳓पायति शु᳓ष्के स्थाणा᳓व᳓पायति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/10_pra_pAdau.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्र पा॑दौ॒ न यथाय॑ति॒ प्र हस्तौ॒ न यथाशि॑षत्।  
-यो म॑लि॒म्लुरु॒पाय॑ति॒ स संपि॑ष्टो॒ अपा॑यति।  
-अपा॑यति॒ स्वपा॑यति॒ शुष्के॑ स्था॒णावपा॑यति ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/10_pra_pAdau.md">
@@ -848,14 +878,24 @@ in **e** to *tṛṣṭadhūnam* in 50. 1 **a**; for **c, d**, it had *yo
 mulalaṁ sulapāyati sa saṁpiṣṭyo upāyati*. We had **d** above as iv. 3. 5  
 **b**; ⌊cf. the end of the note to vs. 9⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 His feet that he may walk no more, his hands that he may do no harm. The robber who comes hitherward goes crushed and mutilated hence, Goes hence, goes far away from us, goes hence and bears no spoil away.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र पा॑दौ॒ न यथाय॑ति॒ प्र हस्तौ॒ न यथाशि॑षत्।  
+यो म॑लि॒म्लुरु॒पाय॑ति॒ स संपि॑ष्टो॒ अपा॑यति।  
+अपा॑यति॒ स्वपा॑यति॒ शुष्के॑ स्था॒णावपा॑यति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र। पादौ॑। न। यथा॑। अय॑ति। प्र। हस्तौ॑। न। यथा॑। अशि॑षत्। यः। म॒लि॒म्लुः। उ॒प॒ऽअय॑ति। सः। सम्ऽपि॑ष्टः। अप॑। अ॒य॒ति॒। अप॑। अ॒य॒ति॒। सु॒ऽअपा॑यति। शुष्के॑। स्था॒णौ। अप॑। अ॒य॒ति॒। ४९.१०। 
+प्र। पादौ॑। न। यथा॑। अय॑ति। प्र। हस्तौ॑। न। यथा॑। अशि॑षत्। यः। म॒लि॒म्लुः। उ॒प॒ऽअय॑ति। सः। सम्ऽपि॑ष्टः। अप॑। अ॒य॒ति॒। अप॑। अ॒य॒ति॒। सु॒ऽअपा॑यति। शुष्के॑। स्था॒णौ। अप॑। अ॒य॒ति॒। ४९.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रात्रिः
@@ -863,18 +903,22 @@ His feet that he may walk no more, his hands that he may do no harm. The robber 
 - त्र्यवसाना षट्पदा जगती
 - रात्रि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रात्रि में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पादौ) [उसके] दोनों पैरों को (प्र) सर्वथा [तोड़ डाले-मन्त्र ९], (यथा) जिससे वह (न) न (अयति) चल सके, (हस्तौ) [उसके] दोनों हाथों को (प्र) सर्वथा [तोड़ डाले], (यथा) जिससे वह (न) न (अशिषत्) खा सके। (यः) जो (मलिम्लुः) मलिन आचरणवाला लुटेरा (उप-अयति) पास आवे, (सः) वह (संपिष्टः) पीस डाला गया (अप अयति) निकल जावे। (अप अयति) वह निकल जावे, (सु-अप-अयति) वह सर्वथा निकल जावे, (शुष्के) सूखे (स्थाणौ) स्थान में (अप अयति) निकल जावे ॥१०
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  यदि रात्रि में चोर-डाकू आदि आकर लूट-खसोट मचावें, रक्षक गण उनको यथावत् दण्ड देकर प्रजा की रक्षा करें ॥९, १०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(प्र) सर्वथा हनत्-म० ९ (पादौ) गमनसाधनभूतौ (न) निषेधे (यथा) येन प्रकारेण (अयति) गच्छेत् (प्र) प्रहनत् (हस्तौ) करौ (न) निषेधे (यथा) (अशिषत्) अश भोजने-लेट्, अडागमः। सिब्बहुलं लेटि। पा० ३।१।३४। इति सिप्, इडागमः। भोजनं कुर्यात् (यः) (मलिम्लुः) अ० ८।६।२। मलि+म्लुचु गतौ-डु प्रत्ययः। मलिं मलं पापं म्लोचति प्राप्नोतीति सः। मलिनाचारः (उप-अयति) आगच्छेत् (सः) (सं पिष्टः) सम्यक् चूर्णितः (अप-अयति) दूरे गच्छेत् (अप अयति) स दूरं गच्छेत् (सु-अप-अयति) स सर्वथा दूरे गच्छतु (शुष्के) शुष शोषणे-क्त। शुषः कः। पा० ८।२।५१। इति कत्वम्। प्राप्तशोषणे। नीरसे (स्थाणौ) स्थाने (अप अयति) दूरे गच्छतु ॥

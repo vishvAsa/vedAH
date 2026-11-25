@@ -8,15 +8,18 @@ title = "०७९ अमावास्या"
 
 79 (84). To Amāvāsyā (night or goddess of new moon).
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 अमावास्या।  
 १-४ अथर्वा। अमावास्या। त्रिष्टुप्, १ जगती।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—caturṛcam. amāvāsyādevatākam. trāiṣṭubham: 1. jagatī.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ The first verse is found in Pāipp. xx., the second and third in Pāipp. i. Used
 #### Translations
 Translated: Henry, 32, 100; Griffith, i. 367.
 </details>
+
 <details><summary>Griffith</summary>
 
 A hymn to the New Moon
@@ -39,15 +43,6 @@ A hymn to the New Moon
 
 य᳓त्ते देवा᳓ अ᳓कृण्वन्भागधे᳓यम᳓मावास्ये संव᳓सन्तो महित्वा᳓।  
 ते᳓ना नो यज्ञं᳓ पिपृहि विश्ववारे रयिं᳓ नो धेहि सुभगे सुवी᳓रम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/01_yatte_devA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यत्ते॑ दे॒वा अकृ॑ण्वन्भाग॒धेय॒ममा॑वास्ये सं॒वस॑न्तो महि॒त्वा।  
-तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/01_yatte_devA.md">
@@ -68,14 +63,23 @@ combines *devā ’kṛṇvan* in **a**, and has *saṁvadantas* in **b**, and
 *jagatī* character. ⌊We had the second half-verse above at 20. 4 **c,  
 d**.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Night of the New-born Moon, whatever fortune the Gods who dwell with greatness have assigned thee, Therewith fulfil our sacrifice, all-baunteous! Blessed One, grant us wealth with manly offspring.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्ते॑ दे॒वा अकृ॑ण्वन्भाग॒धेय॒ममा॑वास्ये सं॒वस॑न्तो महि॒त्वा।  
+तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। ते॒। दे॒वाः। अकृ॑ण्वन्। भा॒ग॒ऽधेय॑म्। अमा॑ऽवास्ये। स॒म्ऽवस॑न्तः। म॒हि॒ऽत्वा। तेन॑। नः॒। य॒ज्ञम्। पि॒पृ॒हि॒। वि॒श्व॒ऽवा॒रे॒। र॒यिम्। नः॒। धे॒हि॒। सु॒ऽभ॒गे॒। सु॒ऽवीर॑म्। ८४.१। 
+यत्। ते॒। दे॒वाः। अकृ॑ण्वन्। भा॒ग॒ऽधेय॑म्। अमा॑ऽवास्ये। स॒म्ऽवस॑न्तः। म॒हि॒ऽत्वा। तेन॑। नः॒। य॒ज्ञम्। पि॒पृ॒हि॒। वि॒श्व॒ऽवा॒रे॒। र॒यिम्। नः॒। धे॒हि॒। सु॒ऽभ॒गे॒। सु॒ऽवीर॑म्। ८४.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अमावस्या
@@ -83,18 +87,22 @@ Night of the New-born Moon, whatever fortune the Gods who dwell with greatness h
 - जगती
 - अमावस्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अमावास्ये) हे अमावास्या ! [सबके साथ बसी हुई शक्ति परमेश्वर !] (यत्) जिस कारण से (ते) तेरी (महित्वा) महिमा से (संवसन्तः) यथावत् बसते हुए (देवाः) विद्वानों ने (भागधेयम्) अपना सेवनीय काम (अकृण्वन्) किया है। (तेन) उसीसे, (विश्ववारे) हे सब से स्वीकार करने योग्य शक्ति ! (नः) हमारे (यज्ञम्) यज्ञ [पूजनीय व्यवहार] को (पिपृहि) पूरा कर, (सुभगे) हे बड़े ऐश्वर्यवाली ! (नः) हमें (सुवीरम्) बड़े वीरोंवाला (रयिम्) धन (धेहि) दान कर ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  इस मन्त्र में (अमावास्ये, संवसन्तः) पद [वस-रहना, ढाँकना] धातु से बने हैं। विद्वान् लोग सर्वान्तर्यामी, परमेश्वर में आश्रय लेकर सृष्टि के सब पदार्थों से उपकार करके सबको वीर, पुरुषार्थी और धनी बनावें ॥१॥ इस मन्त्र का उत्तरार्द्ध आ चुका-अ० ७।२०।४ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यत्) यस्मात्कारणात् (ते) तव (देवाः) विद्वांसः (अकृण्वन्) कृवि हिंसाकरणयोः-लङ्। अकुर्वन् (भागधेयम्) सेवनीयं व्यवहारम् (अमावास्ये) अमावस्यदन्यतरस्याम्। पा० ३।१।१२२। अमा+वस आच्छादने निवासे च-ण्यत्, टाप्। अमा सर्वैः सह वसति सा अमावास्या तत्सम्बुद्धौ। हे सर्वैः सह निवासशीले शक्ते परमात्मन् (संवसन्तः) वस-शतृ। सम्यग् निवसन्तः (महित्वा) अ० ४।२।२। महत्त्वेन। अन्यद्गतम्-अ० ७।२०।४ ॥
@@ -108,15 +116,6 @@ Night of the New-born Moon, whatever fortune the Gods who dwell with greatness h
 
 अह᳓मेवा᳓स्म्यमावास्या᳙ मा᳓मा᳓ वसन्ति सुकृ᳓तो म᳓यीमे᳓।  
 म᳓यि देवा᳓ उभ᳓ये साध्या᳓श्चे᳓न्द्रज्येष्ठाः स᳓मगच्छन्त स᳓र्वे ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒हमे॒वास्म्य॑मावा॒स्या॒३॒॑ मामा व॑सन्ति सु॒कृतो॒ मयी॒मे।  
-मयि॑ दे॒वा उ॒भये॑ सा॒ध्याश्चेन्द्र॑ज्येष्ठाः॒ सम॑गच्छन्त॒ सर्वे॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
@@ -134,14 +133,23 @@ The Petersburg Lexicon\* suggests the plausible emendation of *mā́m ā́* to
 as a play on *amāvāsyā̀*. For the *sādhyas*, see note to vii. 5. 1. The  
 Anukr. overlooks the irregularity of **a**. \*⌊vi. 832.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 I am the New Moon's Night, the good and pious are my in- habitants, these dwell within me. In me have Gods of both the spheres, and Sadhyas, with Indra as their chief, all met together.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒हमे॒वास्म्य॑मावा॒स्या॒३॒॑ मामा व॑सन्ति सु॒कृतो॒ मयी॒मे।  
+मयि॑ दे॒वा उ॒भये॑ सा॒ध्याश्चेन्द्र॑ज्येष्ठाः॒ सम॑गच्छन्त॒ सर्वे॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒हम्। ए॒व। अ॒स्मि॒। अ॒मा॒ऽवा॒स्या᳡। माम्। आ। व॒स॒न्ति॒। सु॒ऽकृ॒तः॑। मयि॑। इ॒मे। मयि॑। दे॒वाः। उ॒भये॑। सा॒ध्याः। च॒। इन्द्र॑ऽज्येष्ठाः। सम्। अ॒ग॒च्छ॒न्त॒। सर्वे॑। ८४.२। 
+अ॒हम्। ए॒व। अ॒स्मि॒। अ॒मा॒ऽवा॒स्या᳡। माम्। आ। व॒स॒न्ति॒। सु॒ऽकृ॒तः॑। मयि॑। इ॒मे। मयि॑। दे॒वाः। उ॒भये॑। सा॒ध्याः। च॒। इन्द्र॑ऽज्येष्ठाः। सम्। अ॒ग॒च्छ॒न्त॒। सर्वे॑। ८४.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अमावस्या
@@ -149,18 +157,22 @@ I am the New Moon's Night, the good and pious are my in- habitants, these dwell 
 - त्रिष्टुप्
 - अमावस्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अहम्) मैं (एव) ही (अमावास्या) अमावास्या [सबके साथ बसी हुई शक्ति] (अस्मि) हूँ, (मयि) मुझ में [वर्तमान होकर] (इमे) यह सब (सुकृतः) सुकर्मी लोग (माम्) लक्ष्मी में (आ वसन्ति) यथावत् वास करते हैं। (मयि) मुझ में (उभये) दोनों प्रकार के (सर्वे) सब (देवाः) दिव्य पदार्थ अर्थात् (साध्याः) साधने योग्य [स्थावर] (च) और (इन्द्रज्येष्ठाः) जीव को प्रधान रखनेवाले [जंगम] पदार्थ (सम्=समेत्य) मिलकर (आगच्छन्त) प्राप्त हुए हैं ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  इस मन्त्र में (अमावस्या, वसन्ति) पद [वस-रहना, ढाँकना] धातु से बने हैं। परमेश्वर सब मनुष्यों को उपदेश करता है कि वह अन्तर्यामी होकर समस्त, चर और अचर संसार को अपने वश में रखता है ॥२॥ यजुर्वेद अ० ४० म० १ में ऐसा वचन है। ई॒शा वा॒स्य॑मि॒दं सर्वं॒ यत् किञ्च॒ जग॑त्यां॒ जग॑त् ॥ (इदम् सर्वम्) यह सब, (यत् किंच) जो कुछ (जगत्याम्) सृष्टि में (जगत्) जगत् है, (ईशा) ईश्वर से (वास्यम्) वसा हुआ है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(अहम्) परमेश्वरः (एव) (अस्मि) (अमावास्या) म० १। सर्वैः सह निवासशीला शक्तिः (माम्) इन्दिरा लोकमाता मा-अमरः १।२९। लक्ष्मीम् (आ वसन्ति) उपान्वध्याङ्वसः। पा० १।४।४८। अधिकरणस्य कर्मता। समन्ताद् अवतिष्ठन्तं (सुकृतः) सुकर्माणः (मयि) (देवाः) दिव्यपदार्थाः (उभये) अ० ४।३१।६। द्विविधाः, चराचराः (साध्याः) अ० ७।५।१। साधनीयाः। स्थावराः (इन्द्रज्येष्ठाः) जीवप्रधानाः। जङ्गमाः (सम्) समेत्य (अगच्छन्त) प्राप्तवन्तः (सर्वे) समस्ताः ॥
@@ -174,15 +186,6 @@ I am the New Moon's Night, the good and pious are my in- habitants, these dwell 
 
 आ᳓गन्रा᳓त्री सङ्ग᳓मनी व᳓सूनामू᳓र्जं पुष्टं᳓ व᳓स्वावेश᳓यन्ती।  
 अ᳙मावास्या᳙यै हवि᳓षा विधेमो᳓र्जं दु᳓हाना प᳓यसा न आ᳓गन् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आग॒न्रात्री॑ स॒ङ्गम॑नी॒ वसू॑ना॒मूर्जं॑ पु॒ष्टं वस्वा॑वे॒शय॑न्ती।  
-अ॑मावा॒स्या᳡यै ह॒विषा॑ विधे॒मोर्जं॒ दुहा॑ना॒ पय॑सा न॒ आग॑न् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
@@ -207,14 +210,23 @@ vs. 4 to the following hymn; our division agrees with the sense, the
 Anukr., and other of the mss.; and SPP. accepts the same. ⌊The decad  
 ends here: cf. p. 389.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 The Night hath come, the gatherer of treasures, bestowing strength, prosperity, and riches. To New Moon's Night let us present oblation: pouring out strength, with milk hath she come hither.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आग॒न्रात्री॑ स॒ङ्गम॑नी॒ वसू॑ना॒मूर्जं॑ पु॒ष्टं वस्वा॑वे॒शय॑न्ती।  
+अ॑मावा॒स्या᳡यै ह॒विषा॑ विधे॒मोर्जं॒ दुहा॑ना॒ पय॑सा न॒ आग॑न् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। अ॒ग॒न्। रात्री॑। स॒म्ऽगम॑नी। वसू॑नाम्। ऊर्ज॑म्। पु॒ष्टम्। वसु॑। आ॒ऽवे॒शय॑न्ती। अ॒मा॒ऽवा॒स्या᳡यै। ह॒विषा॑। वि॒धे॒म॒। ऊर्ज॑म्। दुहा॑ना। पय॑सा। नः॒। आ। अ॒ग॒न्। ८४.३। 
+आ। अ॒ग॒न्। रात्री॑। स॒म्ऽगम॑नी। वसू॑नाम्। ऊर्ज॑म्। पु॒ष्टम्। वसु॑। आ॒ऽवे॒शय॑न्ती। अ॒मा॒ऽवा॒स्या᳡यै। ह॒विषा॑। वि॒धे॒म॒। ऊर्ज॑म्। दुहा॑ना। पय॑सा। नः॒। आ। अ॒ग॒न्। ८४.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अमावस्या
@@ -222,18 +234,22 @@ The Night hath come, the gatherer of treasures, bestowing strength, prosperity, 
 - त्रिष्टुप्
 - अमावस्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वसूनाम्) निवासस्थानों [लोकों] का (संगमनी) संयोग करनेवाली, (ऊर्जम्) पराक्रम और (पुष्टम्) पोषण और (वसु) धन (आवेशयन्ती) दान करती हुई (रात्री) सुख देनेवाली शक्ति (आ अगन्) आई है। (अमावास्यायै) उस अमावास्या [सबके साथ वास करनेवाली शक्ति, परमेश्वर] को (हविषा) आत्मदान [पूरण भक्ति] से (विधेम) हम पूजें, (ऊर्जम्) पराक्रम को (पयसा) ज्ञान के साथ (दुहाना) पूरण करती हुई वह (नः) हमें (आ अगन्) प्राप्त हुई है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  इस मन्त्र में (अमावास्यायै, वसूनाम्, वसु) पद [वस रहना] धातु से बने हैं। जो मनुष्य परमेश्वर के उत्पन्न किये पदार्थों से पुरुषार्थ और भक्ति के साथ उपकार लेते हैं, वे ही ऐश्वर्यवान् होते हैं ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(आ अगन्) अ० २।९।३। आगता (रात्री) अ० १।१६।१। रा दाने-त्रिप्, ङीप्। सुखदायी (संगमनी) संयोजयित्री (वसूनाम्) निवासस्थानानां लोकानाम् (ऊर्जम्) पराक्रमम् (पुष्टम्) पोषणम् (वसु) धनम् (आवेशयन्ती) प्रयच्छन्ती (अमावास्यायै)-म० १। सर्वैः सह निवासशीलायै (हविषा) आत्मदानेन (विधेम) परिचरेम (ऊर्जम्) (दुहाना) प्रपूरयन्ती (पयसा) पय गतौ-असुन्। ज्ञानेन (नः) अस्मान् (आ अगन्) ॥
@@ -249,15 +265,6 @@ The Night hath come, the gatherer of treasures, bestowing strength, prosperity, 
 य᳓त्कामास्ते जुहुम᳓स्त᳓न्नो अस्तु वयं᳓ स्याम प᳓तयो रयीणा᳓म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/04_amAvAsye_na.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अमा॑वास्ये॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान।  
-यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/04_amAvAsye_na.md">
 <details open><summary><h3>०४ अमावास्ये न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -271,14 +278,23 @@ lords of wealth.
 This is, with alteration of the first word only, a repetition in advance  
 of 80. 3. For the parallels etc., see under that verse.
 </details>
+
 <details><summary>Griffith</summary>
 
 Night of New Moon! ne'er hath been born another than thou embracing all these forms and natures, May we have what we longed for when we brought thee obla- tions: may we be the lords of riches.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अमा॑वास्ये॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान।  
+यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अमा॑ऽवास्ये। न। त्वत्। ए॒तानि॑। अ॒न्यः। विश्वा॑। रू॒पाणि॑। प॒रि॒ऽभूः। ज॒जा॒न॒। यत्ऽका॑माः। ते॒। जु॒हु॒मः। तत्। नः॒। अ॒स्तु॒। व॒यम्। स्या॒म॒। पत॑यः। र॒यी॒णाम्। ८४.४। 
+अमा॑ऽवास्ये। न। त्वत्। ए॒तानि॑। अ॒न्यः। विश्वा॑। रू॒पाणि॑। प॒रि॒ऽभूः। ज॒जा॒न॒। यत्ऽका॑माः। ते॒। जु॒हु॒मः। तत्। नः॒। अ॒स्तु॒। व॒यम्। स्या॒म॒। पत॑यः। र॒यी॒णाम्। ८४.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अमावस्या
@@ -286,18 +302,22 @@ Night of New Moon! ne'er hath been born another than thou embracing all these fo
 - त्रिष्टुप्
 - अमावस्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अमावास्ये) हे अमावास्या ! [सबके साथ निवास करनेवाली शक्ति, परमेश्वर !] (त्वत्) तुझ से (अन्यः) दूसरे किसी ने (परिभूः) व्यापक होकर (एतानि) इन (विश्वा) सब (रूपाणि) रूपवाले [आकारवाले] पदार्थों को (न) नहीं (जजान) उत्पन्न किया है। (यत्कामाः) जिस वस्तु की कामनावाले हम (ते) तेरा (जुहुमः) स्वीकार करते हैं, (तत्) वह (नः) हमारे लिये (अस्तु) होवे, (वयम्) हम (रयीणाम्) अनेक धनों के (पतयः) स्वामी (स्याम) बने रहें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर ही अनुपम, सर्वशक्तिमान् और सब सृष्टि का कर्ता है, उसी की शरण लेकर विद्या सुवर्ण आदि धन प्राप्त करके ऐश्वर्यवान् होवें ॥४॥ यह मन्त्र कुछ भेद से ऋग्वेद में है-म० १०।१२१।१०। और यजुर्वेद-अ० २३।६५ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(अमावास्ये)-म० १। सर्वैः सह निवासशीले (न) निषेधे (त्वत्) त्वत्तः (एतानि) दृश्यमानानि (अन्यः) भिन्नः (विश्वा) सर्वाणि (रूपाणि) मूर्तानि वस्तूनि (परिभूः) भू प्राप्तौ-क्विप्। व्यापकः (जजान) जन जनने-लिट्। उत्पादयामास (यत्कामाः) यद्वस्तु कामयमानाः (ते) तव (जुहुमः) हु दानादानयोः। स्वीकारं कुर्मः (तत्) कमनीयं वस्तु (नः) अस्मभ्यम् (अस्तु) (वयम्) (स्याम) भवेम (पतयः) स्वामिनः (रयीणाम्) धनानाम् ॥

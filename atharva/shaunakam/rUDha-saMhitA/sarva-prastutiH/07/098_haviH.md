@@ -8,15 +8,18 @@ title = "०९८ हविः"
 
 98 (103). With an oblation to India.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 हविः।  
 १ अथर्वा। इन्द्रः, विश्वे देवाः। विराट् त्रिष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—mantroktadāivatam. trāiṣṭubham: 1. virāj.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -35,15 +38,6 @@ Translated: Henry, 40, 112; Griffith, i. 377.
 
 सं᳓ बर्हि᳓रक्तं᳓ हवि᳓षा घृते᳓न स᳓मि᳓न्द्रेण व᳓सुना सं᳓ मरु᳓द्भिः।  
 सं᳓ देवै᳓र्विश्व᳓देवेभिरक्त᳓मि᳓न्द्रं गछतु हविः᳓ स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/098_haviH/01_saM_barhiraktam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सं ब॒र्हिर॒क्तं ह॒विषा॑ घृ॒तेन॒ समिन्द्रे॑ण॒ वसु॑ना॒ सं म॒रुद्भिः॑।  
-सं दे॒वैर्वि॒श्वदे॑वेभिर॒क्तमिन्द्रं॑ गछतु ह॒विः स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/098_haviH/01_saM_barhiraktam.md">
@@ -65,14 +59,23 @@ and, for **d**, *divyáṁ nábho gachatu yát svā́hā*. Ppp. also has (better
 its meter. The comm. reads *barhis* for *havis* in **d**. The verse  
 lacks three syllables in its second half.
 </details>
+
 <details><summary>Griffith</summary>
 
 Balmed is the Grass with butter and libation, with Indra. gracious Lord, and with the Maruts. Hail! let the sacrifice go forth anointed to Indra with the Gods and Visve Devas.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सं ब॒र्हिर॒क्तं ह॒विषा॑ घृ॒तेन॒ समिन्द्रे॑ण॒ वसु॑ना॒ सं म॒रुद्भिः॑।  
+सं दे॒वैर्वि॒श्वदे॑वेभिर॒क्तमिन्द्रं॑ गछतु ह॒विः स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। ब॒र्ह‍िः। अ॒क्तम्। ह॒विषा॑। घृ॒तेन॑। सम्। इन्द्रे॑ण। वसु॑ना। सम्। म॒रुत्ऽभिः॑। सम्। दे॒वैः। वि॒श्वऽदे॑वेभ‍िः। अ॒क्तम्। इन्द्र॑म्। ग॒च्छ॒तु॒। ह॒विः। स्वाहा॑। १०३.१। 
+सम्। ब॒र्ह‍िः। अ॒क्तम्। ह॒विषा॑। घृ॒तेन॑। सम्। इन्द्रे॑ण। वसु॑ना। सम्। म॒रुत्ऽभिः॑। सम्। दे॒वैः। वि॒श्वऽदे॑वेभ‍िः। अ॒क्तम्। इन्द्र॑म्। ग॒च्छ॒तु॒। ह॒विः। स्वाहा॑। १०३.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रः, विश्वे देवाः
@@ -80,18 +83,22 @@ Balmed is the Grass with butter and libation, with Indra. gracious Lord, and wit
 - विराट्त्रिष्टुप्
 - हवि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ग्राह्य पदार्थ पाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (हविषा) ग्रहण से और (घृतेन) सेचन से (सम्) ठीक-ठीक, (इन्द्रेण) ऐश्वर्य से और (वसुना) धन से (सम्) ठीक-ठीक, (मरुद्भिः) विद्वानों से (सम्) ठीक-ठीक, (अक्तम्) सुधारा गया (बर्हिः) वृद्धि कर्म, और (देवैः) प्रकाशमान (विश्वदेवेभिः) सब उत्तम गुणों से (सम्) ठीक-ठीक, (अक्तम्) संभाला गया (हविः) ग्राह्य पदार्थ (स्वाहा) सुन्दर वाणी [वेदवाणी] के साथ (इन्द्रम्) प्रतापी पुरुष को (गच्छतु) पहुँचे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य प्रयत्न के साथ विद्या और धन की रक्षा और वृद्धि करके ऐश्वर्यवान् होवें ॥१॥ यह मन्त्र कुछ भेद से यजुर्वेद में है−२।२२ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(सम्) सम्यक्। यथावत् (बर्हिः) अ० ५।२२।१। बृहि वृद्धौ दीप्तौ च-इसि। वृद्धिकर्म (अक्तम्) अञ्जू व्यक्तिम्रक्षणकान्तिगतिषु-क्त। सुधारितम् (हविषा) हु दानादानादनेषु-इसि ग्रहणेन (घृतेन) घृ सेचने-क्त। सेचनेन (इन्द्रेण) ऐश्वर्येण (वसुना) धनेन (मरुद्भिः) अ० १।२०।१। देवैः। विद्वद्भिः (देवैः) प्रकाशमानैः (विश्वदेवेभिः) सर्वदिव्यगुणैः (अक्तम्) शोधितम् (इन्द्रम्) प्रतापिनं जनम् (गच्छतु) प्राप्नोतु (हविः) ग्राह्यः पदार्थः (स्वाहा) सुवाण्या। वेदविद्यया ॥

@@ -8,15 +8,18 @@ title = "०१८ शत्रुनाशनम्"
 
 18. For relief from demons and foes.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
 १-५ चातनः। अग्निः। (द्वैपदम्) साम्नी बृहती।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Cātana (sapatnakṣayakāmaḥ).—āgneyam. dvāipadam; sāmnībārhatam.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ title = "०१८ शत्रुनाशनम्"
 #### Translations
 Translated: Weber, xiii. 180; Griffith, i. 61.
 </details>
+
 <details><summary>Griffith</summary>
 
 A charm against enemies, goblins, and other evil creatures
@@ -38,14 +42,6 @@ A charm against enemies, goblins, and other evil creatures
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भ्रा᳙तृव्यक्ष᳓यणमसि भ्रातृव्यचा᳓तनं मे दाः स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-भ्रा॑तृव्य॒क्षय॑णमसि भ्रातृव्य॒चात॑नं मे दाः॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
@@ -65,14 +61,22 @@ addressed to Agni, and agrees with Kāuś. in regard to the accompanying
 action, saying: *sapatnakṣayaṇīḥ samidha ādhāyā ’gnim prārthanīyam  
 aprārthayat.* ⌊Instead of "destroying" W. has interlined "destruction."⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Destruction of the foe art thou, give me the scaring of my foes. All hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+भ्रा॑तृव्य॒क्षय॑णमसि भ्रातृव्य॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भ्रा॒तृ॒व्य॒ऽक्षय॑णम्। अ॒सि॒। भ्रा॒तृ॒व्य॒ऽचात॑नम्। मे। दाः॒। स्वाहा॑। १८.१। 
+भ्रा॒तृ॒व्य॒ऽक्षय॑णम्। अ॒सि॒। भ्रा॒तृ॒व्य॒ऽचात॑नम्। मे। दाः॒। स्वाहा॑। १८.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -80,18 +84,22 @@ Destruction of the foe art thou, give me the scaring of my foes. All hail!
 - द्विपदा साम्नीबृहती
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं से रक्षा करनी चाहिये–इसका उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (भ्रातृव्यक्षयणम्) वैरियों की नाशनशक्ति (असि) तू है, (मे) मुझे (भ्रातृव्यचातनम्) वैरियों के मिटाने का बल (दाः) दे, (स्वाहा) यही सुन्दर आशीर्वाद हो ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  (भ्रातृव्य) वह छली पुरुष है, जो देखने में भ्राता के समान प्रीति और भीतर से दुष्ट आचरण करे। परमेश्वर वा राजा ऐसे दुराचारियों का नाश करता है, ऐसे ही मनुष्य मृगतृष्णारूप, इन्द्रियलोलुपता और अन्य आत्मिक दोषों का नाश करके सुख से रहे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १–भ्रातृव्यक्षयणम्। नप्तृनेष्टृत्वष्टृ० २।९६। इति भ्राजृ दीप्तौ, वा भृञ्–धारणपोषणयोः–तृन्। ततः। व्यन् सपत्ने। पा। ४।१।१४५। इति व्यन्। क्षि क्षये–ल्युट्। भ्रातृव्यो गुप्तशत्रुः, तस्य क्षयणं नाशनम्। भ्रातृव्यचातनम्। चातयतिर्नाशने–निरु० ६।३०। गुप्तशत्रुनाशनम्। स्वाहा। अ० २।१६।१। आशीर्वादोऽस्तु ॥
@@ -106,14 +114,6 @@ Destruction of the foe art thou, give me the scaring of my foes. All hail!
 स᳙पत्नक्ष᳓यणमसि सपत्नचा᳓तनं मे दाः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स॑पत्न॒क्षय॑णमसि सपत्न॒चात॑नं मे दाः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
 <details open><summary><h3>०२ सपत्नक्षयणमसि सपत्नचातनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -123,14 +123,22 @@ Destruction of the foe art thou, give me the scaring of my foes. All hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 The rival's ruiner art thou, give me to drive my rivals off. All hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑पत्न॒क्षय॑णमसि सपत्न॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒प॒त्न॒ऽक्षय॑णम्। अ॒सि॒। स॒प॒त्न॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.२। 
+स॒प॒त्न॒ऽक्षय॑णम्। अ॒सि॒। स॒प॒त्न॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -138,18 +146,22 @@ The rival's ruiner art thou, give me to drive my rivals off. All hail!
 - द्विपदा साम्नीबृहती
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं से रक्षा करनी चाहिये–इसका उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे ईश्वर !] तू (सपत्नक्षयणम्) प्रकट शत्रुओं की नाशशक्ति (असि) है, (मे) मुझे (सपत्नचातनम्) प्रकट शत्रुओं के मिटाने का बल (दाः) दे, (स्वाहा) यह सुन्दर आशीर्वाद हो ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे ईश्वर वा राजा प्रकट कुचालियों का नाश करता है, वैसे ही मनुष्य अपने प्रकट दोषों का नाश करके सुख भोगे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २–सपत्नक्षयणम्। सह+पत गतौ, ऐश्ये–न, सहस्य सः। एकार्थे पतन्ति यतन्ते ते सपत्नाः। तेषां प्रकटशत्रूणां क्षयणं नाशनम्। अन्यद् गतम् ॥
@@ -164,14 +176,6 @@ The rival's ruiner art thou, give me to drive my rivals off. All hail!
 अ᳙रायक्ष᳓यणमस्यरायचा᳓तनं मे दाः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॑राय॒क्षय॑णमस्यराय॒चात॑नं मे दाः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
 <details open><summary><h3>०३ अरायक्षयणमस्यरायचातनं मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -182,14 +186,22 @@ thou give me: hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑राय॒क्षय॑णमस्यराय॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒रा॒य॒ऽक्षय॑णम्। अ॒सि॒। अ॒रा॒य॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.३। 
+अ॒रा॒य॒ऽक्षय॑णम्। अ॒सि॒। अ॒रा॒य॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -197,18 +209,22 @@ Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 - द्विपदा साम्नीबृहती
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं से रक्षा करनी चाहिये–इसका उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे ईश्वर !] तू (अरायक्षयणम्) निर्धनता की नाशशक्ति (असि) है, (मे) मुझे (अरायचातनम्) निर्धनता मिटाने का बल (दाः) दे, (स्वाहा) यही सुन्दर आशीर्वाद हो ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  ईश्वर सर्वशक्तिमान् और महाधनी है, ऐसा विचारकर मनुष्य अपनी दुष्टता और दुर्मति से अथवा अन्य विघ्नों से उत्पन्न निर्धनता को उद्योग करके मिटावें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३–अरायक्षयणम्। रा+दाने–घञ्, युक् आगमः। नञ्तत्पुरुषः। अरायस्य निर्धनत्वस्य नाशनम् ॥
@@ -223,14 +239,6 @@ Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 पि᳙शाचक्ष᳓यणमसि पिशाचचा᳓तनं मे दाः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पि॑शाच॒क्षय॑णमसि पिशाच॒चात॑नं मे दाः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
 <details open><summary><h3>०४ पिशाचक्षयणमसि पिशाचचातनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -241,14 +249,22 @@ hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Pisa-chas' ruiner art thou, give me to drive Pisachas off. All hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पि॑शाच॒क्षय॑णमसि पिशाच॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पि॒शा॒च॒ऽक्षय॑णम्। अ॒सि॒। पि॒शा॒च॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.४। 
+पि॒शा॒च॒ऽक्षय॑णम्। अ॒सि॒। पि॒शा॒च॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -256,18 +272,22 @@ Pisa-chas' ruiner art thou, give me to drive Pisachas off. All hail!
 - द्विपदा साम्नीबृहती
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं से रक्षा करनी चाहिये–इसका उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे ईश्वर ! तू (पिशाचक्षयणम्) माँस खानेवालों की नाशशक्ति (असि) है, (मे) मुझे (पिशाचचातनम्) माँस खानेवालों के मिटाने का बल (दाः) दे। (स्वाहा) यह सुन्दर आशीर्वाद हो ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर की न्यायशक्ति का विचार करके मनुष्य कुविचार, कुशीलता और रोगादि दोषों को जो शरीर और आत्मा के हानिकारक हैं, मिटावें तथा हिंसक सिंह सर्प्पादि जीवों का भी नाश करें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४–पिशाचक्षयणम्। कर्मण्यण्। पा० ३।२।१। इति पिशित+अश भक्षणे–अण्। पृषोदरादीनि यथोपदिष्टम्। पा० ६।३।१०९। इति शितभागस्य लोपः अशभागस्य शाचादेशः। पिशितं मांसम् अश्नन्तीति पिशाचाः कुविचाराः, अथवा, शारीरिकरोगा हिंसकाः प्राणिनो वा, तेषां नाशनम् ॥
@@ -282,14 +302,6 @@ Pisa-chas' ruiner art thou, give me to drive Pisachas off. All hail!
 स᳙दान्वाक्ष᳓यणमसि सदान्वाचा᳓तनं मे दाः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स॑दान्वा॒क्षय॑णमसि सदान्वा॒चात॑नं मे दाः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">
 <details open><summary><h3>०५ सदान्वाक्षयणमसि सदान्वाचातनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -301,14 +313,22 @@ me: hail!
 ##### Notes
 Read in our edition *sadānvācā́t-*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Sadanvas' ruiner art thou, give me to drive Sadanvas off. All hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑दान्वा॒क्षय॑णमसि सदान्वा॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒दा॒न्वा॒ऽक्षय॑णम्। अ॒सि॒। स॒दा॒न्वा॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.५। 
+स॒दा॒न्वा॒ऽक्षय॑णम्। अ॒सि॒। स॒दा॒न्वा॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -316,18 +336,22 @@ Sadanvas' ruiner art thou, give me to drive Sadanvas off. All hail!
 - द्विपदा साम्नीबृहती
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं से रक्षा करनी चाहिये–इसका उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे ईश्वर !] तू (सदान्वाक्षयणम्) सदा चिल्लानेवाली वा दानवों के साथ रहनेवाली (निर्धनता वा दुर्भिक्षता) की नाशशक्ति (असि) है, (मे) मुझे (सदान्वाचातनम्) सदा चिल्लानेवाली वा दानवों के साथ रहनेवाली [निर्धनता वा दुर्भिक्षता] के मिटाने का बल (दाः) दे, (स्वाहा) यही सुन्दर आशीर्वाद हो ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  निर्धनता और दुर्भिक्षता [अकाल] आदि विपत्तियों के मारे सब प्राणी महादुःखी होकर आर्तध्वनि करते और चोर आदि उन्हें सताते हैं। परमेश्वर की दयालुता और पूर्णता पर ध्यान करके मनुष्य प्रयत्नपूर्वक प्रभूत धन और अन्न का संचय करके आनन्द से रहें ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५–सदान्वाक्षयणम्। अ० २।१४।१। सदानोनुवानां सर्वदा शब्दकारिकानां वा दानवै राक्षसैः सह वर्त्तमानानां दरिद्रतादिविपत्तीनां नाशनम् ॥

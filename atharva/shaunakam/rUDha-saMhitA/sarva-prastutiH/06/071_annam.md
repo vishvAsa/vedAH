@@ -8,15 +8,18 @@ title = "०७१ अन्नम्"
 
 71. Against harm from improper food.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 अन्नम्।  
 १-३ ब्रह्मा। अग्निः, ३ वैश्वानरः, देवाः। जगती, ३ त्रिष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—āgneyam: 3. vāiśvadevī. jāgatyam: 3. triṣṭubh.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also in Pāipp. ii. (in the verse-order i, 3, 2), and vs. i a second time 
 #### Translations
 Translated: Ludwig, p. 433; Grill, 66, 165; Griffith, i. 284; Bloomfield, 196, 494.—See also Bergaigne-Henry, Manuel, p. 152.
 </details>
+
 <details><summary>Griffith</summary>
 
 A priest's benediction after meat
@@ -39,15 +43,6 @@ A priest's benediction after meat
 
 य᳓द᳓न्नम᳓द्मि बहुधा᳓ वि᳓रूपं हि᳓रण्यम᳓श्वमुत᳓ गा᳓मजा᳓म᳓विम्।  
 य᳓देव᳓ किं᳓ च प्रतिजग्र᳓हाह᳓मग्नि᳓ष्ट᳓द्धो᳓ता सु᳓हुतं कृणोतु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/01_yadannamadmi_bahudhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यदन्न॒मद्मि॑ बहु॒धा विरू॑पं॒ हिर॑ण्य॒मश्व॑मु॒त गाम॒जामवि॑म्।  
-यदे॒व किं च॑ प्रतिज॒ग्रहा॒हम॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/01_yadannamadmi_bahudhA.md">
@@ -69,14 +64,23 @@ cákṣuṣy ā́go ásti;* in **c** it contracts *-jagráhā ’hám* into
 (unless it is a misprint) reads *jagrāha* in **c**. The last pāda is x.  
 9. 26 **d**. The first two vss. are mixed *jagatī* and *triṣṭubh*.
 </details>
+
 <details><summary>Griffith</summary>
 
 What food I eat of varied form and nature, food whether gold, or horse, sheep, goat, or bullock, Whatever gift I have received, may Agni the Hotar make it sacrifice well-offered.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदन्न॒मद्मि॑ बहु॒धा विरू॑पं॒ हिर॑ण्य॒मश्व॑मु॒त गाम॒जामवि॑म्।  
+यदे॒व किं च॑ प्रतिज॒ग्रहा॒हम॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। अन्न॑म्। अद्मि॑। ब॒हु॒ऽधा। विऽरू॑पम्। हिर॑ण्यम्। अश्व॑म्। उ॒त। गाम्। अ॒जाम्। अवि॑म्। यत्। ए॒व। किम्। च॒। प्र॒ति॒ऽज॒ग्रह॑। अ॒हम्। अ॒ग्निः। तत्। होता॑। सुऽहु॑तम्। कृ॒णो॒तु॒। ७१.१। 
+यत्। अन्न॑म्। अद्मि॑। ब॒हु॒ऽधा। विऽरू॑पम्। हिर॑ण्यम्। अश्व॑म्। उ॒त। गाम्। अ॒जाम्। अवि॑म्। यत्। ए॒व। किम्। च॒। प्र॒ति॒ऽज॒ग्रह॑। अ॒हम्। अ॒ग्निः। तत्। होता॑। सुऽहु॑तम्। कृ॒णो॒तु॒। ७१.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -84,18 +88,22 @@ What food I eat of varied form and nature, food whether gold, or horse, sheep, g
 - जगती
 - अन्न सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 दोषों के नाश का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (विरूपम्) अनेक रूपवाला (यत्) जो कुछ (अन्नम्) अन्न (बहुधा) प्रायः (अद्मि) मैं खाता हूँ, (उत) और (हिरण्यम्) सुवर्ण, (अश्वम्) घोड़ा, (गाम्) गौ, (अजाम्) बकरी, (अविम्) भेड़, और (यत् एव किम् च) जो कुछ भी (अहम्) मैंने (प्रतिजग्रह) ग्रहण किया है, (होता) दाता (अग्निः) सर्वव्यापक परमेश्वर (तत्) उसको (सुहुतम्) धार्मिक रीति से स्वीकार किया हुआ (कृणोतु) करे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य ज्ञानपूर्वक परमेश्वर को आत्मसमर्पण करते हैं, वे सुखी होते हैं ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यत्) (अन्नम्) भोजनम् (अद्मि) भक्षयामि (बहुधा) प्रायः (विरूपम्) विविधप्रकारम् (हिरण्यम्) सुवर्णम् (अश्वम्) तुरङ्गम् (गाम्) धेनुम् (अजाम्) छागीम् (अविम्) मेषम् (यत् एव किम् च) यत्किमपि द्रव्यजातम् (प्रतिजग्रह) ह्रस्वत्वं छान्दसम्। प्रतिजग्राह। प्राप (अहम्) उपासकः (अग्निः) सर्वव्यापकः परमेश्वरः (तत्) सर्वं पूर्वोक्तम् (होता) दाता (सुहुतम्) हु दानादनयोः−क्त। सुष्ठु धार्मिकरीत्या गृहीतम् (कृणोतु) करोतु ॥
@@ -109,15 +117,6 @@ What food I eat of varied form and nature, food whether gold, or horse, sheep, g
 
 य᳓न्मा हुत᳓म᳓हुतमाजगा᳓म दत्तं᳓ पितृ᳓भिर᳓नुमतं मनुष्यैः᳙।  
 य᳓स्मान्मे म᳓न उ᳓दिव रा᳓रजीत्यग्नि᳓ष्ट᳓द्धो᳓ता सु᳓हुतं कृणोतु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यन्मा॑ हु॒तमहु॑तमाज॒गाम॑ द॒त्तं पि॒तृभि॒रनु॑मतं मनु॒ष्यैः᳡।  
-यस्मा॑न्मे॒ मन॒ उदि॑व॒ रार॑जीत्य॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
@@ -139,14 +138,23 @@ Ppp. thus: (**b**) *yasmād anna manaso ’drārajīmi*, (**c**, a corruption
 of TA's **c** given under vs. 1 above) *yad devānāṁ cakṣuṣākaśīnā*,  
 (**d**) *’gniṣ* etc.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Whatever, sacrificed or not, hath reached me, bestowed by men and sanctioned by the Fathers, Whereby my heart seems to leap up, may Agni the Hotar make that sacrifice well-offered.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यन्मा॑ हु॒तमहु॑तमाज॒गाम॑ द॒त्तं पि॒तृभि॒रनु॑मतं मनु॒ष्यैः᳡।  
+यस्मा॑न्मे॒ मन॒ उदि॑व॒ रार॑जीत्य॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। मा॒। हु॒तम्। अहु॑तम्। आ॒ऽज॒गाम॑। द॒त्तम्। पि॒तृऽभिः॑। अनु॑ऽमतम्। म॒नु॒ष्यैः᳡। यस्मा॑त्। मे॒। मनः॑। उत्ऽइ॑व। रार॑जीति। अ॒ग्निः। तत्। होता॑। सुऽहु॑तम्। कृ॒णो॒तु॒। ७१.२। 
+यत्। मा॒। हु॒तम्। अहु॑तम्। आ॒ऽज॒गाम॑। द॒त्तम्। पि॒तृऽभिः॑। अनु॑ऽमतम्। म॒नु॒ष्यैः᳡। यस्मा॑त्। मे॒। मनः॑। उत्ऽइ॑व। रार॑जीति। अ॒ग्निः। तत्। होता॑। सुऽहु॑तम्। कृ॒णो॒तु॒। ७१.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -154,18 +162,22 @@ Whatever, sacrificed or not, hath reached me, bestowed by men and sanctioned by 
 - जगती
 - अन्न सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 दोषों के नाश का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (हुतम्) दिया हुआ [माता-पिता आदि से पाया हुआ], अथवा (अहुतम्) न दिया हुआ [स्वयं प्राप्त किया], (पितृभिः) दूसरे विद्वान् महाशयों करके (दत्तम्) दिया हुआ और (मनुष्यैः) मननशील पुरुषों करके (अनुमतम्) अङ्गीकार किया हुआ (यत्) जो कुछ द्रव्य (मा) मुझ को (आजगाम) प्राप्त हुआ है। (यस्मात्) जिसके कारण से (मे) मेरा (मनः) मन (उत् इव) उदय होता हुआ सा (रारजीति) अत्यन्त शोभित रहता है, (होता) दाता (अग्निः) सर्वव्यापक परमेश्वर (तत्) उसको (सुहुतम्) धार्मिक रीति से स्वीकार किया हुआ (कृणोतु) करे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को जो कुछ पदार्थ अन्य महाशयों से अथवा अपने पुरुषार्थ से मिले, उसे विचारपूर्वक धार्मिक रीति से व्यय करें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(यत्) द्रव्यम् (मा) माम् (हुतम्) दत्तं मातापित्रादिभिः (अहुतम्) अदत्तं स्वपौरुषेण प्राप्तम् (आजगाम) प्राप (दत्तम्) वितीर्णम् (पितृभिः) पालनशीलैर्महात्मभिः (अनुमतम्) अङ्गीकृतम् (मनुष्यैः) अ० ३।४।९। मननशीलैः पुरुषैः (यस्मात्) कारणात् (मे) मम (मनः) चित्तम् (उत् इव) उन्नतं यथा (रारजीति) राजृ दीप्तौ ऐश्वर्ये च, यङ्लुकि छान्दसमुपधाह्रस्वत्वम्। रारजीति। भृशं दीप्यते शोभते। अन्यद्गतम् ॥
@@ -179,15 +191,6 @@ Whatever, sacrificed or not, hath reached me, bestowed by men and sanctioned by 
 
 य᳓द᳓न्नम᳓द्म्य᳓नृतेन देवा दास्य᳓न्न᳓दास्यन्नुत᳓ संगृणा᳓मि।  
 वै᳙श्वानर᳓स्य महतो᳓ महिम्ना᳓ शिवं᳓ म᳓ह्यं म᳓धुमदस्त्व᳓न्नम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/03_yadannamadmyanRtena_devA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यदन्न॒मद्म्यनृ॑तेन देवा दा॒स्यन्नदा॑स्यन्नु॒त सं॑गृ॒णामि॑।  
-वै॑श्वान॒रस्य॑ मह॒तो म॑हि॒म्ना शि॒वं मह्यं॒ मधु॑मद॒स्त्वन्न॑म् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/03_yadannamadmyanRtena_devA.md">
@@ -208,14 +211,23 @@ The comm. renders *saṁgṛṇāmi* by *pratijānāmi*. The Daś. Kar. cites (t
 Kāuś. 57. 29: see the note to that rule) the three verses in full, but  
 substitutes for 3 **c, d** our 53. 2 **c, d**, *vāiśvānaro no ad-*, etc.
 </details>
+
 <details><summary>Griffith</summary>
 
 What food I eat unjustly, Gods! or, doubtful between bestow- ing and refusing, swallow, Through greatness of Vaisvanara the mighty may that same food be sweet to me and blessed!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदन्न॒मद्म्यनृ॑तेन देवा दा॒स्यन्नदा॑स्यन्नु॒त सं॑गृ॒णामि॑।  
+वै॑श्वान॒रस्य॑ मह॒तो म॑हि॒म्ना शि॒वं मह्यं॒ मधु॑मद॒स्त्वन्न॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। अन्न॑म्। अद्मि॑। अनृ॑तेन। दे॒वाः॒। दा॒स्यन्। अदा॑स्यन्। उ॒त। स॒म्ऽगृ॒णामि॑। वै॒श्वा॒न॒रस्य॑। म॒ह॒तः। म॒हि॒म्ना। शि॒वम्। मह्य॑म्। मधु॑ऽमत्। अ॒स्तु॒। अन्न॑म्। ७१.३। 
+यत्। अन्न॑म्। अद्मि॑। अनृ॑तेन। दे॒वाः॒। दा॒स्यन्। अदा॑स्यन्। उ॒त। स॒म्ऽगृ॒णामि॑। वै॒श्वा॒न॒रस्य॑। म॒ह॒तः। म॒हि॒म्ना। शि॒वम्। मह्य॑म्। मधु॑ऽमत्। अ॒स्तु॒। अन्न॑म्। ७१.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वे देवाः
@@ -223,18 +235,22 @@ What food I eat unjustly, Gods! or, doubtful between bestow- ing and refusing, s
 - त्रिष्टुप्
 - अन्न सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 दोषों के नाश का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवाः) हे विद्वान् पुरुषो ! (यत्) जो कुछ (अन्नम्) अन्न (अनृतेन) असत्य व्यवहार से (अद्मि) मैं खाता हूँ, (उत) और (दास्यन्) देना चाहता हुआ [अथवा] (अदास्यन्) न देना चाहता हुआ मैं [जो कुछ] (संगृणामि=संगिरामि) खा जाता हूँ। (महतः) पूजनीय (वैश्वानरस्य) सब नरों के हितकारी परमेश्वर की (महिम्ना) महिमा से (अन्नम्) वह अन्न (मह्यम्) मेरे लिये (शिवम्) सुखकारक और (मधुमत्) मीठे रसवाला (अस्तु) होवे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमेश्वर की महिमा जानकर दुष्ट कर्म छोड़ कर अपने कर्तव्य सत्यमार्ग पर चलकर आनन्द भोगें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(यत्) (अन्नम्) (अद्मि) भक्षयामि (अनृतेन) असत्यव्यवहारेण (देवाः) हे विद्वांसः (दास्यन्) लृटः सद्वा। पा० ३।३।१४। इति दास्यतेः−शतृ। दातुमिच्छन् (अदास्यन्) अदातुमिच्छन् (उत) अपि च (संगृणामि) गॄ निगरणे, छान्दसः श्ना। संगिरामि। भक्षयामि (वैश्वानरस्य) सर्वनरहितस्य परमेश्वरस्य (महतः) पूजनीयस्य (महिम्ना) प्रतापेन (शिवम्) सुखकरम् (मह्यम्) मदर्थम् (मधुमत्) माधुर्य्योपेतम् (अस्तु) भवतु (अन्नम्) भोजनम् ॥

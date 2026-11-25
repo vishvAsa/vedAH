@@ -8,20 +8,24 @@ title = "०५२ कामः"
 
 52. Of and to desire (kā́ma).
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 कामः।  
 १-५ ब्रह्माः कामः। त्रिष्टुप्, ३ चतुष्पदा उष्णिक्, ५ उपरिष्टाद्बृहती।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—pañcakam. mantroktakāmadāivatam. trāiṣṭubham. 3. 4-p. uṣṇih; 5. upariṣṭādbṛhatī.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
 The first half-verse is nearly identical with RV. x. 129. 4 a, b ⌊TB. ii. 4. 11; 8. 94; TA. i. 23. 1⌋, which differ only by adding ádhi at end of a; the word is missed in our verse both for sense and for meter. Our text omits* at beginning of c a sá (sá kāma) that is in both these respects superfluous; it is found, however, also in Ppp. The comm. explains kā́mena bṛhatā́ to mean mahatā deśakālavastuparicchedarahitena kāmayitrā parameśvareṇa. The last pāda is xviii. 1. 43 d. *⌊And so accents kā́ma.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 A hymn to Kama or Desire
@@ -35,15 +39,6 @@ A hymn to Kama or Desire
 
 का᳓मस्त᳓द᳓ग्रे स᳓मवर्तत म᳓नसो रे᳓तः प्रथमं᳓ य᳓दा᳓सीत्।  
 स᳓ काम का᳓मेन बृहता᳓ स᳓योनी राय᳓स्पो᳓षं य᳓जमानाय धेहि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/01_kAmastadagre_samavartata.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-काम॒स्तदग्रे॒ सम॑वर्तत॒ मन॑सो॒ रेतः॑ प्रथ॒मं यदासी॑त्।  
-स का॑म॒ कामे॑न बृह॒ता सयो॑नी रा॒यस्पोषं॒ यज॑मानाय धेहि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/01_kAmastadagre_samavartata.md">
@@ -65,14 +60,23 @@ The comm. explains *kā́mena bṛhatā́* to mean *mahatā
 deśakālavastuparicchedarahitena kāmayitrā parameśvareṇa*. The last pāda  
 is xviii. 1. 43 **d**. \*⌊And so accents *kā́ma*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Thereafter rose Desire in the beginning, Desire the primal seed and germ of Spirit. O Kama dwelling with the lofty Kama, give growth of riches to the sacrificer.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+काम॒स्तदग्रे॒ सम॑वर्तत॒ मन॑सो॒ रेतः॑ प्रथ॒मं यदासी॑त्।  
+स का॑म॒ कामे॑न बृह॒ता सयो॑नी रा॒यस्पोषं॒ यज॑मानाय धेहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कामः॑। तत्। अग्रे॑। सम्। अ॒व॒र्त॒त॒। मन॑सः। रेतः॑। प्र॒थ॒मम्। यत्। आसी॑त्। सः। का॒म॒। कामे॑न। बृ॒ह॒ता। सऽयो॑निः। रा॒यः। पोष॑म्। यज॑मानाय। धे॒हि॒। ५२.१। 
+कामः॑। तत्। अग्रे॑। सम्। अ॒व॒र्त॒त॒। मन॑सः। रेतः॑। प्र॒थ॒मम्। यत्। आसी॑त्। सः। का॒म॒। कामे॑न। बृ॒ह॒ता। सऽयो॑निः। रा॒यः। पोष॑म्। यज॑मानाय। धे॒हि॒। ५२.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - कामः
@@ -80,18 +84,22 @@ Thereafter rose Desire in the beginning, Desire the primal seed and germ of Spir
 - त्रिष्टुप्
 - काम सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 काम की प्रशंसा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तत्) फिर [प्रलय के पीछे] (अग्रे) पहिले ही पहिले (कामः) काम [इच्छा] (सम्) ठीक-ठीक (अवर्तत) वर्तमान हुआ, (यत्) जो (मनसः) मन का (प्रथमम्) पहिला (रेतः) बीज (आसीत्) था। (सः) सो तू, (काम) हे काम ! (बृहता) बड़े (कामेन) काम [कामना करनेवाले परमेश्वर] के साथ (सयोनिः) एकस्थानी होकर (रायः) धन की (पोषम्) वृद्धि (यजमानाय) यजमान [विद्वानों के सत्कार करनेवाले] को (धेहि) दान कर ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  प्रलय के पीछे प्राणियों के पूर्वजन्मों के कर्मफलों के अनुसार परमात्मा ने सृष्टि उत्पन्न करने की इच्छा की है, सो हे मनुष्यो ! तुम उत्तम कर्म करके अभीष्ट सुख प्राप्त करो ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−इस मन्त्र का पूर्वार्द्ध ऋग्वेद में है-१०।१२९।४। और चौथा पाद आ चुका है-अ० १८।१।४३ ॥ २−इस सूक्त का मिलान करो-अ० ९।२। और देखो यजुर्वेद ७।४८ ॥  १−(कामः) कमु कान्तौ-घञ्। अभिलाषः। इच्छा (तत्) ततः। प्रलयानन्तरम् (अग्रे) सृष्ट्यादौ (सम्) सम्यक् (अवर्तत) वर्तमानोऽभवत् (मनसः) चित्तस्य (रेतः) बीजम् (प्रथमम्) आद्यम्। पूर्वकल्पे प्राणिभिः कृतं पुण्यापुण्यात्मकं कर्म (यत्) कर्म (आसीत्) अभवत् (सः) स त्वम् (काम) हे काम (कामेन) कामयतेः-पचाद्यच्। कामयित्रा परमेश्वरेण सह (बृहता) महता (सयोनिः) समानगृहः। एकस्थानीयः (रायः) धनस्य (पोषम्) वृद्धिम् (यजमानाय) विदुषां सत्कर्त्रे (धेहि) देहि ॥
@@ -105,15 +113,6 @@ Thereafter rose Desire in the beginning, Desire the primal seed and germ of Spir
 
 त्वं᳓ काम स᳓हसासि प्र᳓तिष्ठितो विभु᳓र्विभा᳓वा सख आ᳓ सखीयते᳓।  
 त्व᳓मुग्रः᳓ पृ᳓तनासु सासहिः᳓ स᳓ह ओ᳓जो य᳓जमानाय धेहि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/02_tvaM_kAma.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-त्वं का॑म॒ सह॑सासि॒ प्रति॑ष्ठितो वि॒भुर्वि॒भावा॑ सख॒ आ स॑खीय॒ते।  
-त्वमु॒ग्रः पृत॑नासु सास॒हिः सह॒ ओजो॒ यज॑मानाय धेहि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/02_tvaM_kAma.md">
@@ -142,14 +141,23 @@ very strange; nor do I see how W. meant to take it. One is tempted to
 fall back on the RV. reading *suṣákhā;* the more so, inasmuch as⌋ Ppp.  
 presents the RV. reading *suṣakhā*. In **d**, Ppp. has *soho ’jo yaj-*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Thou, Kama, art victorious, famous, potent, splendid, a friend. to him who seeks thy friendship. Mighty and overpowering in battle, give strength and vigour to the sacrificer.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वं का॑म॒ सह॑सासि॒ प्रति॑ष्ठितो वि॒भुर्वि॒भावा॑ सख॒ आ स॑खीय॒ते।  
+त्वमु॒ग्रः पृत॑नासु सास॒हिः सह॒ ओजो॒ यज॑मानाय धेहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वम्। का॒म॒। सह॑सा। अ॒सि॒। प्रति॑ऽस्थितः। वि॒ऽभुः। वि॒भाऽवा॑। स॒खे॒। आ। स॒खी॒य॒ते। त्वम्। उ॒ग्रः। पृत॑नासु। स॒स॒हिः। सहः॑। ओजः॑। यज॑मानाय। धे॒हि॒। ५२.२। 
+त्वम्। का॒म॒। सह॑सा। अ॒सि॒। प्रति॑ऽस्थितः। वि॒ऽभुः। वि॒भाऽवा॑। स॒खे॒। आ। स॒खी॒य॒ते। त्वम्। उ॒ग्रः। पृत॑नासु। स॒स॒हिः। सहः॑। ओजः॑। यज॑मानाय। धे॒हि॒। ५२.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - कामः
@@ -157,18 +165,22 @@ Thou, Kama, art victorious, famous, potent, splendid, a friend. to him who seeks
 - त्रिष्टुप्
 - काम सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 काम की प्रशंसा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (काम) हे काम ! [आशा] (त्वम्) तू (सहसा) बल के साथ (प्रतिष्ठिताः) प्रतिष्ठायुक्त (असि) है, (आ) और, (सखे) हे मित्र ! (सखीयते) मित्र चाहनेवाले के लिये तू (विभुः) समर्थ और (विभावा) तेजस्वी है। (त्वम्) तू (पृतनासु) सङ्ग्रामों में (उग्रः) उग्र और (सासहिः) विजयी है, (सहः) बल और (ओजः) पराक्रम (यजमानाय) यजमान को (धेहि) दान कर ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य अपनी आशाओं में दृढ़ होते हैं, वे ही संसार में प्रतापी और विजयी होकर कीर्ति पाते हैं ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(त्वम्) (काम) हे इच्छे ! हे आशे ! (सहसा) बलेन (असि) (प्रतिष्ठितः) प्रतिष्ठायुक्तः (विभुः) समर्थः (विभावा) भातेः-क्वनिप्। विशेषेण दीप्यमानः। तेजस्वी (सखे) हे मित्र (आ) समुच्चये (सखीयते) सखि-क्यच्, शतृ। मित्रमिच्छते पुरुषाय (त्वम्) (उग्रः) प्रचण्डः (पृतनासु) संग्रामेषु (सासहिः) सहेर्यङन्तात्-किप्रत्ययः। विजयी (सहः) बलम् (ओजः) पराक्रमम् (यजमानाय) (धेहि) देहि ॥
@@ -182,15 +194,6 @@ Thou, Kama, art victorious, famous, potent, splendid, a friend. to him who seeks
 
 दूरा᳓च्चकमाना᳓य प्रतिपाणा᳓या᳓क्षये।  
 आ᳓स्मा अशृण्वन्ना᳓शाः का᳓मेनाजनयन्त्स्वः᳙ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/03_dUrAchchakamAnAya_pratipANAyAxaye.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-दू॒राच्च॑कमा॒नाय॑ प्रतिपा॒णायाक्ष॑ये।  
-आस्मा॑ अशृण्व॒न्नाशाः॒ कामे॑नाजनय॒न्त्स्वः᳡ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/03_dUrAchchakamAnAya_pratipANAyAxaye.md">
@@ -224,14 +227,23 @@ something of *pra-āp* in it!). Ppp. has in **b** *pratipāṇāyākṣe*, in
 implies in **b** *pravipāṇā́yā́ ’kṣaye*. The Anukr. apparently scans the  
 verse as 7 + 7: 7 + 7 = 28.
 </details>
+
 <details><summary>Griffith</summary>
 
 They heard his prayers, and they begot, by Kama, heavenly- light for him. Who from a distance longed for it, a dealer ready to exchange.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+दू॒राच्च॑कमा॒नाय॑ प्रतिपा॒णायाक्ष॑ये।  
+आस्मा॑ अशृण्व॒न्नाशाः॒ कामे॑नाजनय॒न्त्स्वः᳡ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दू॒रात्। च॒क॒मा॒नाय॑। प्र॒ति॒ऽपा॒नाय॑। अक्ष॑ये। आ। अ॒स्मै॒। अ॒शृ॒ण्व॒न्। आशाः॑। कामे॑न। अ॒ज॒न॒य॒न्। स्वः᳡। ५२.३। 
+दू॒रात्। च॒क॒मा॒नाय॑। प्र॒ति॒ऽपा॒नाय॑। अक्ष॑ये। आ। अ॒स्मै॒। अ॒शृ॒ण्व॒न्। आशाः॑। कामे॑न। अ॒ज॒न॒य॒न्। स्वः᳡। ५२.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - कामः
@@ -239,18 +251,22 @@ They heard his prayers, and they begot, by Kama, heavenly- light for him. Who fr
 - चतुष्पदोष्णिक्
 - काम सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 काम की प्रशंसा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अक्षये) निर्हानि [पूर्णता] के बीच (प्रतिपानाय) सब प्रकार रक्षा के लिये (दूरात्) दूर से [जन्म से पूर्व कर्म के संस्कार के कारण से] (चकमानाय) कामना कर चुकनेवाले (अस्मै) इस [पुरुष] को (आशाः) दिशाओं ने (कामेन) काम [आशा] के साथ (स्वः) सुख को (आ अशृण्वन्) अङ्गीकार किया है और (अजनयन्) उत्पन्न किया है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य पूर्व जन्म के संस्कारों के कारण जन्म से ही अक्षय सुख के लिये दृढ़ आशा और प्रयत्न करता हुआ प्रत्येक स्थान में आनन्द पाता है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(दूरात्) पूर्वजन्मफलसंस्कारात् (चकमानाय) कमतेर्लिटः कानच्। कामनां कृतवते पुरुषाय (प्रतिपानाय) सर्वतोरक्षणाय (अक्षये) क्षयराहित्ये। अहानौ। सम्पूर्णत्वे (आ अशृण्वन्) अङ्गीकृतवत्यः (अस्मै) पुरुषाय (आशाः) प्राच्यादयो दिशाः (कामेन) इच्छया (अजनयन्) उदपादयन् (स्वः) सुखम् ॥
@@ -264,15 +280,6 @@ They heard his prayers, and they begot, by Kama, heavenly- light for him. Who fr
 
 का᳓मेन मा का᳓म आ᳓गन्हृ᳓दयाद्धृ᳓दयं प᳓रि।  
 य᳓दमी᳓षामदो᳓ म᳓नस्त᳓दै᳓तू᳓प मामिह᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/04_kAmena_mA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-कामे॑न मा॒ काम॒ आग॒न्हृद॑या॒द्धृद॑यं॒ परि॑।  
-यद॒मीषा॑म॒दो मन॒स्तदैतूप॑ मामि॒ह ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/04_kAmena_mA.md">
@@ -291,14 +298,23 @@ deviating in **d** from the mss., which leave *upa* unaccented (p.
 *upa॰mā́m*); ⌊but SPP's R. has *úpa mā́m* and the comm. also takes *upa  
 mām* as two words⌋. Ppp. combines *kāmā ”gan* in **a**.
 </details>
+
 <details><summary>Griffith</summary>
 
 O Kama, with whatever wish we make this offering to thee, May it be all fulfilled to us. Then taste this sacrifice, All hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+कामे॑न मा॒ काम॒ आग॒न्हृद॑या॒द्धृद॑यं॒ परि॑।  
+यद॒मीषा॑म॒दो मन॒स्तदैतूप॑ मामि॒ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कामे॑न। मा॒। कामः॑। आ। अ॒ग॒न्। हृद॑यात्। हृद॑यम्। परि॑। यत्। अ॒मीषा॑म्। अ॒दः। मनः॑। तत्। आ। ए॒तु॒। उप॑। माम्। इ॒ह। ५२.४। 
+कामे॑न। मा॒। कामः॑। आ। अ॒ग॒न्। हृद॑यात्। हृद॑यम्। परि॑। यत्। अ॒मीषा॑म्। अ॒दः। मनः॑। तत्। आ। ए॒तु॒। उप॑। माम्। इ॒ह। ५२.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - कामः
@@ -306,18 +322,22 @@ O Kama, with whatever wish we make this offering to thee, May it be all fulfille
 - उपरिष्टाद्बृहती
 - काम सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 काम की प्रशंसा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (कामेन) काम [कर्मफल इच्छा] के साथ (कामः) काम [आशा] (हृदयात्) [एक] हृदय से (हृदयं परि) [दूसरे] हृदय में होकर (मा) मुझको (आ अगन्) प्राप्त हुआ है। (अमीषाम्) इन [विद्वानों] का (यत्) जो (अदः) वह (मनः) मनन है, (तत्) वह (माम्) मुझको (इह) यहाँ (उप) आदर से (आ एतु) प्राप्त होवे ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य विद्वानों से विद्याएँ प्राप्त करके दृढ़ आशाएँ करता हुआ उन्नति करता रहे ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(कामेन) कर्मफलेच्छया सह (मा) माम् (कामः) अभिलाषः (आ अगन्) गमेर्लुङि च्लेर्लुकि मकारस्य नकारः। आगतवान् (हृदयात्) एकस्य अन्तःकरणात् (हृदयम्) द्वितीयस्य अन्तःकरणम् (परि) प्रति (यत्) (अमीषाम्) विदुषाम् (अदः) तत् (मनः) मननम् (तत्) (आ एतु) प्राप्नोतु (उप) आदरेण (माम्) (इह) अत्र ॥
@@ -331,15 +351,6 @@ O Kama, with whatever wish we make this offering to thee, May it be all fulfille
 
 य᳓त्काम काम᳓यमाना इदं᳓ कृण्म᳓सि ते हविः᳓।  
 त᳓न्नः स᳓र्वं स᳓मृध्यताम᳓थैत᳓स्य हवि᳓षो वीहि स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/05_yatkAma_kAmayamAnA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यत्का॑म का॒मय॑माना इ॒दं कृ॒ण्मसि॑ ते ह॒विः।  
-तन्नः॒ सर्वं॒ समृ॑ध्यता॒मथै॒तस्य॑ ह॒विषो॑ वीहि॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/05_yatkAma_kAmayamAnA.md">
@@ -360,15 +371,24 @@ is made⌋ very strangely read *yát॰kāmaḥ*, though no *saṁhitā*-mss. ha
 *kāmaḥ;* ⌊with the support of the latter, as also of the comm. and of  
 Ppp., both ed's read *yát kāma*⌋. \*⌊See p. 897, ¶3.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 यत् का॑म का॒मय॑माना इ॒दं कृ॒ण्मसि॑ ते ह॒विः ।  
 तन्नः॒ सर्वं॒ समृ॑ध्यता॒मथै॒तस्य॑ ह॒विषो॑ वीहि॒ स्वाहा॑ ॥५॥
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्का॑म का॒मय॑माना इ॒दं कृ॒ण्मसि॑ ते ह॒विः।  
+तन्नः॒ सर्वं॒ समृ॑ध्यता॒मथै॒तस्य॑ ह॒विषो॑ वीहि॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। का॒म॒। का॒मय॑मानाः। इ॒दम्। कृ॒ण्मसि॑। ते॒। ह॒विः। तत्। नः॒। सर्व॑म्। सम्। ऋ॒ध्य॒ता॒म्। अथ॑। ए॒तस्य॑। ह॒विषः॑। वी॒हि॒। स्वाहा॑। ५२.५। 
+यत्। का॒म॒। का॒मय॑मानाः। इ॒दम्। कृ॒ण्मसि॑। ते॒। ह॒विः। तत्। नः॒। सर्व॑म्। सम्। ऋ॒ध्य॒ता॒म्। अथ॑। ए॒तस्य॑। ह॒विषः॑। वी॒हि॒। स्वाहा॑। ५२.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - कामः
@@ -376,18 +396,22 @@ Ppp., both ed's read *yát kāma*⌋. \*⌊See p. 897, ¶3.⌋
 - त्रिष्टुप्
 - काम सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 काम की प्रशंसा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (काम) हे काम ! [आशा] (यत्) जिस [फल] को (कामयमानाः) चाहते हुए हम (ते) तेरी (इदम्) यह (हविः) भक्ति (कृण्मसि) करते हैं। (तत्) वह (सर्वम्) सब (नः) हमारे लिये (सम्) सर्वथा (ऋध्यताम्) सिद्ध होवे, (अथ) इसलिये (स्वाहा) सुन्दर वाणी के साथ [वर्तमान] (एतस्य) इस (हविषः) भक्ति की (वीहि) प्राप्ति कर ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को दृढ़ भक्ति के साथ शुभ कामनाओं की सिद्धि के लिये पूरा प्रयत्न करना चाहिये ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(यत्) कर्मफलम् (काम) हे अभिलाष (कामयमानाः) इच्छन्तः (इदम्) क्रियमाणम् (कृण्मसि) कुर्मः (ते) तव (हविः) आत्मदानम्। भक्तिम् (तत्) (नः) अस्मभ्यम् (सर्वम्) (सम्) सम्यक् (ऋध्यताम्) सिध्यतु (अथ) तस्मात् (एतस्य) (हविषः) आत्मदानस्य (वीहि) प्राप्तिं कुरु (स्वाहा) सुवाण्या ॥

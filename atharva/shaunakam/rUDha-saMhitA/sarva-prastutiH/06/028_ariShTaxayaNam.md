@@ -8,15 +8,18 @@ title = "०२८ अरिष्टक्षयणम्"
 
 28. Against birds of ill omen etc.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 अरिष्टक्षयणम्।  
 १-३ भृगुः। यमः, निर्ऋतिः। १ त्रिष्टुप्, २ अनुष्टुप्, ३ जगती।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—yāmyam uta nāirṛtam. trāiṣṭubham: 2. anuṣṭubh; 3. jagatī.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ All the verses found also in Pāipp., but not together; 1. occurs after the prec
 #### Translations
 Translated: Florenz, 285 or 37; Griffith, i. 260.
 </details>
+
 <details><summary>Griffith</summary>
 
 A charm to avert misfortune foreshown by the coming of a dove
@@ -39,15 +43,6 @@ A charm to avert misfortune foreshown by the coming of a dove
 
 ऋचा᳓ कपो᳓तं नुदत प्रणो᳓दमि᳓षं म᳓दन्तः प᳓रि गां᳓ नयामः।  
 सं᳙लोभ᳓यन्तो दुरिता᳓ पदा᳓नि हित्वा᳓ न ऊ᳓र्जं प्र᳓ पदात्प᳓थिष्ठः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ऋ॒चा क॒पोतं॑ नुदत प्र॒णोद॒मिषं॒ मद॑न्तः॒ परि॒ गां न॑यामः।  
-सं॑लो॒भय॑न्तो दुरि॒ता प॒दानि॑ हि॒त्वा न॒ ऊर्जं॒ प्र प॑दा॒त्पथि॑ष्ठः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
@@ -69,14 +64,23 @@ duritā́ni víśvā*. In **d**, both RV. and Ppp. (also the comm.) end with
 ⌊the non-division and accent also point to *pátiṣṭhaḥ* as true reading⌋.  
 ⌊Ppp. has *hitvām* for *hitvā́ na*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Drive forth the Dove, chase it with holy verses: rejoicing bring we hither food and cattle, Obliterating traces of misfortune. Most fleet may it fly forth and leave us vigour.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋ॒चा क॒पोतं॑ नुदत प्र॒णोद॒मिषं॒ मद॑न्तः॒ परि॒ गां न॑यामः।  
+सं॑लो॒भय॑न्तो दुरि॒ता प॒दानि॑ हि॒त्वा न॒ ऊर्जं॒ प्र प॑दा॒त्पथि॑ष्ठः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋ॒चा। क॒पोत॑म्। नु॒द॒त॒। प्र॒ऽनोद॑म्। इष॑म्। मद॑न्तः। परि॑। गाम्। न॒या॒मः॒। स॒म्ऽलो॒भय॑न्तः। दुः॒ऽइ॒ता। प॒दानि॑। हि॒त्वा। नः॒। उर्ज॑म्। प्र। प॒दा॒त्। २८.१। 
+ऋ॒चा। क॒पोत॑म्। नु॒द॒त॒। प्र॒ऽनोद॑म्। इष॑म्। मद॑न्तः। परि॑। गाम्। न॒या॒मः॒। स॒म्ऽलो॒भय॑न्तः। दुः॒ऽइ॒ता। प॒दानि॑। हि॒त्वा। नः॒। उर्ज॑म्। प्र। प॒दा॒त्। २८.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - यमः, निर्ऋतिः
@@ -84,18 +88,22 @@ Drive forth the Dove, chase it with holy verses: rejoicing bring we hither food 
 - त्रिष्टुप्
 - अरिष्टक्षयण सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वान् के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे विद्वानो !] (ऋचा) स्तुति से (प्रणोदम्) आगे बढ़ानेवाले (कपोतम्) स्तुतियोग्य विद्वान् को (नुदत) आगे बढ़ाओ। (मदन्तः) हर्ष करते हुए और (दुरिता) दुर्गति के कारण (पदानि) चिह्नों को (संलोभयन्तः) मिटाते हुए हम लोग (इषम्) अन्न और (गाम्) विद्या को (परि) सब ओर (नयामः) पहुँचाते हैं। (पथिष्ठः) वह अति शीघ्रगामी विद्वान् (नः) हमें (ऊर्जम्) पराक्रम (हित्वा) देकर (प्र पदात्) आगे ठहरे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को योग्य है कि उद्योगी पुरुषार्थी विद्वान् पुरुष को अपना नेता बना कर उन्नति करें ॥१   यह मन्त्र कुछ भेद से ऋग्वेद में है−म० १०।१६५।५ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(ऋचा) ऋच स्तुतौ−क्विप्। स्तुत्या। वेदमन्त्रेण (कपोतम्) सू० २७। म० १। स्तुत्यं दूरदर्शिनं पुरुषम् (नुदत) प्रेरयत (प्रणोदम्) णुद प्रेरणे−विच्। प्रेरकं नायकम् (इषम्) अन्नम् (मदन्तः) हर्षन्तः (परि) सर्वतः (गाम्) विद्याम् (नयामः) प्रापयामः (संलोभयन्तः) लुभ विमोहने तुदा० शतृ। विमोहयन्तो नाशयन्तः (दुरिता) दुरितानि दुर्गतिनिमित्तानि (पदानि) चिह्नानि (हित्वा) डुधाञ् धारणपोषणयोः, दाने च, क्त्वा। धृत्वा। दत्वा (नः) अस्मभ्यम् (ऊर्जम्) पराक्रमम् (प्र) प्रकर्षेण (पदात्) पद स्थैर्ये गतौ च−लेट्। तिष्ठतु। गच्छतु (पथिष्ठः) पथितृ−इष्ठन्। तुरिष्ठेमेयस्सु। पा० ६।४।१५४। इति तृलोपः। अतिशयेन गन्ता। महापुरुषार्थी ॥
@@ -109,15 +117,6 @@ Drive forth the Dove, chase it with holy verses: rejoicing bring we hither food 
 
 प᳓रीमे᳙ग्नि᳓मर्षत प᳓रीमे᳓ गा᳓मनेषत।  
 देवे᳓ष्वक्रत श्र᳓वः क᳓ इमाँ᳓ आ᳓ दधर्षति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-परी॒मे॒३॒॑ग्निम॑र्षत॒ परी॒मे गाम॑नेषत।  
-दे॒वेष्व॑क्रत॒ श्रवः॒ क इ॒माँ आ द॑धर्षति ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
@@ -137,14 +136,23 @@ agnim aharṣata* (a false form). The *arṣata* of our text is plainly
 nothing but a corruption; and part of the mss. (including our P.M.W.I.)  
 have instead *ariṣata* ⌊or *arīṣata;* K. *riṣatu*⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 These men have strengthened Agni's might, these men have brought the kine to us. They have sung glory to the Gods. Who is the man that con- quers them?
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+परी॒मे॒३॒॑ग्निम॑र्षत॒ परी॒मे गाम॑नेषत।  
+दे॒वेष्व॑क्रत॒ श्रवः॒ क इ॒माँ आ द॑धर्षति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परि॑। इ॒मे। अ॒ग्निम्। अ॒र्ष॒त॒। परि॑। इ॒मे। गाम्। अ॒ने॒ष॒त॒। दे॒वेषु॑। अ॒क्र॒त॒। श्रवः॑। कः। इ॒मान्। आ। द॒ध॒र्ष॒ति॒। २८.२। 
+परि॑। इ॒मे। अ॒ग्निम्। अ॒र्ष॒त॒। परि॑। इ॒मे। गाम्। अ॒ने॒ष॒त॒। दे॒वेषु॑। अ॒क्र॒त॒। श्रवः॑। कः। इ॒मान्। आ। द॒ध॒र्ष॒ति॒। २८.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - यमः, निर्ऋतिः
@@ -152,18 +160,22 @@ These men have strengthened Agni's might, these men have brought the kine to us.
 - अनुष्टुप्
 - अरिष्टक्षयण सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वान् के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इमे) इन पुरुषों ने (अग्निम्) विद्वान् को (परि) सब ओर (अर्षत) प्राप्त किया है, (इमे) इन्होंने (गाम्) विद्या को (परि) सब ओर (अनेषत) पहुँचाया है। और (देवेषु) विद्वानों में (श्रवः) यश (अक्रत) किया है। (कः) कौन (इमान्) इन लोगों को (आ दधर्षति) जीत सकता है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य विद्वानों से विद्या पाकर कीर्ति पाते हैं, वे सदा विजयी होते हैं ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(परि) परितः। सर्वतः (इमे) विद्यार्थिनो मनुष्याः (अग्निम्) विद्वांसम् (अर्षत) ऋष गतौ। प्राप्तवन्तः (परि) (इमे) (गाम्) विद्याम् (अनेषत) णीञ् प्रापणे−लुङ्। प्रापितवन्तः (देवेषु) विद्वत्सु (अक्रत) कृतवन्तः (श्रवः) यशः (कः) शत्रुः (इमान्) समीपवर्तिनो वीरान् (आ) समन्तात् (दधर्षति) धृष अभिभवे, शपः श्लुः। जयति ॥
@@ -177,15 +189,6 @@ These men have strengthened Agni's might, these men have brought the kine to us.
 
 यः᳓ प्रथमः᳓ प्रव᳓तमाससा᳓द बहु᳓भ्यः प᳓न्थामनुपस्पशानः᳓।  
 यो᳙स्ये᳓शे द्विप᳓दो य᳓श्च᳓तुष्पदस्त᳓स्मै यमा᳓य न᳓मो अस्तु मृत्य᳓वे ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यः प्र॑थ॒मः प्र॒वत॑मास॒साद॑ ब॒हुभ्यः॒ पन्था॑मनुपस्पशा॒नः।  
-यो॒३॒॑स्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पद॒स्तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">
@@ -208,14 +211,23 @@ in **c** in putting *īśe* before *asya* (reading *īśay asya*). Our
 verse lacks two syllables of being a full *jagatī*. ⌊Pischel discusses  
 the verse, *Ved. Stud.* ii. 73: cf. 66.⌋ ⌊Ppp. has *pravatāsasāda*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Be reverence paid to him who, while exploring the path for many, first approached the river, Lord of this world of quadrupeds and bipeds; to him be rever- ence paid, to Death, to Yama!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यः प्र॑थ॒मः प्र॒वत॑मास॒साद॑ ब॒हुभ्यः॒ पन्था॑मनुपस्पशा॒नः।  
+यो॒३॒॑स्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पद॒स्तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। प्र॒थ॒मः। प्र॒ऽवत॑म्। आ॒ऽस॒साद॑। ब॒हुऽभ्यः॑। पन्था॑म्। अ॒नु॒ऽप॒स्प॒शा॒नः। यः। अ॒स्य। ईशे॑। द्वि॒ऽपदः॑। यः। चतुः॑ऽपदः। तस्मै॑। य॒माय॑। नमः॑। अ॒स्तु॒। मृ॒त्यवे॑। २८.३। 
+यः। प्र॒थ॒मः। प्र॒ऽवत॑म्। आ॒ऽस॒साद॑। ब॒हुऽभ्यः॑। पन्था॑म्। अ॒नु॒ऽप॒स्प॒शा॒नः। यः। अ॒स्य। ईशे॑। द्वि॒ऽपदः॑। यः। चतुः॑ऽपदः। तस्मै॑। य॒माय॑। नमः॑। अ॒स्तु॒। मृ॒त्यवे॑। २८.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - यमः, निर्ऋतिः
@@ -223,18 +235,22 @@ Be reverence paid to him who, while exploring the path for many, first approache
 - जगती
 - अरिष्टक्षयण सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वान् के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो (प्रथमः) गुणियों में पहिला पुरुष (बहुभ्यः) अनेकों के लिये (पन्थाम्) मार्ग (अनुपस्पशानः) खोजता हुआ (प्रवतम्) उत्तम पाने योग्य अधिकार पर (आससाद) आया है। और (यः) जो (अस्य) इस (द्विपदः) दो पाये समूह का (यः) और जो (चतुष्पदः) चौपाये समूह का (ईशे=ईष्टे) राजा है (तस्मै) उस (यमाय) न्यायकारी पुरुष को (मृत्यवे) मृत्यु नाश करने के लिये (नमः) नमस्कार (अस्तु) होवे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो सर्वश्रेष्ठ पुरुष संसार के उपकार के लिये सन्मार्ग दिखाकर सबकी रक्षा करता है, सब मनुष्य विपत्ति से बचने के लिये उस न्यायी वीर पुरुष का सत्कार करें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(यः) (प्रथमः) सर्वश्रेष्ठः (प्रवतम्) अ० ३।१।४। धात्वर्थे वतिः। प्रगमनीयमधिकारम् (आससाद) आजगाम। प्राप (बहुभ्यः) बहुप्राणिनां हिताय (पन्थाम्) नकारलोपः। पन्थानम्। सन्मार्गम् (अनुपस्पशानः) स्पश बाधनस्पर्शनयोः−शानच्, छन्दसि शपः श्लुः। अनुस्पृशन्। अन्विच्छन् (यः) (अस्य) (ईशे) तलोपः। ईष्टे। राजति (द्विपदः) पादद्वयोपेतस्य मनुष्यादेः (यः) (चतुष्पदः) गवादिप्राणिजातस्य, (तस्मै) तादृशाय (यमाय) न्यायकारिणे पुरुषाय (नमः) नमस्कारः (अस्तु) भवतु (मृत्यवे) अ० ५।३०।१२। अप्रयुज्यमानस्य धातोः कर्मणि चतुर्थी। मृत्युं नाशयितुम् ॥

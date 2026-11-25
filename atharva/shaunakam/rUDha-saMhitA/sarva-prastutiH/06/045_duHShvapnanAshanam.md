@@ -8,15 +8,18 @@ title = "०४५ दुःष्वप्ननाशनम्"
 
 45. In atonement of offenses.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 दुःष्वप्ननाशनम्।  
 १-३ अङ्गिराः प्रचेता, यमश्च। दुःष्वप्ननाशनम्। १ पथ्यापङ्क्तिः, २ भुरिक् त्रिष्टुप्, ३ अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [An̄giras (pracetās) Yamaś ca.—duḥsvapnanāśanadevatyam. 1. pathyāpan̄kti; 2. bhurik triṣṭubh; 3. anuṣṭubh.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also in Pāipp. xix. This hymn and the one next following are used togethe
 #### Translations
 Translated: Ludwig, p. 443; Florenz, 305 or 57; Griffith, i. 269; Bloomfield, 163, 483.
 </details>
+
 <details><summary>Griffith</summary>
 
 A prayer for preservation from mental sin and evil promptings
@@ -39,15 +43,6 @@ A prayer for preservation from mental sin and evil promptings
 
 परो᳓ऽपेहि मनस्पाप कि᳓म᳓शस्तानि शंससि।  
 प᳓रेहि न᳓ त्वा कामये वृक्षां᳓ व᳓नानि सं᳓ चर गृहे᳓षु गो᳓षु मे म᳓नः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प॒रोऽपे॑हि मनस्पाप॒ किमश॑स्तानि शंससि।  
-परे॑हि॒ न त्वा॑ कामये वृ॒क्षां वना॑नि॒ सं च॑र गृ॒हेषु॒ गोषु॑ मे॒ मनः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
@@ -67,14 +62,23 @@ the beginning of x. 164. 1), and omits **e**. The comm. regards *manas*
 and *pāpa* as two independent words in **a**, and reads *śaṅsati* in  
 **b**, and *vṛkṣavanāni* in **d**.
 </details>
+
 <details><summary>Griffith</summary>
 
 Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence away, I love thee not. Go to the forests and the trees. My heart is in our homes and cows.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प॒रोऽपे॑हि मनस्पाप॒ किमश॑स्तानि शंससि।  
+परे॑हि॒ न त्वा॑ कामये वृ॒क्षां वना॑नि॒ सं च॑र गृ॒हेषु॒ गोषु॑ मे॒ मनः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प॒रः। अप॑। इ॒हि॒। म॒नः॒ऽपा॒प॒। किम्। अश॑स्तानि। शं॒स॒सि॒। परा॑। इ॒हि॒। न। त्वा॒। का॒म॒ये॒। वृ॒क्षान्। वना॑नि। सम्। च॒र॒। गृ॒हेषु॑। गोषु॑। मे॒। मनः॑। ४५.१। 
+प॒रः। अप॑। इ॒हि॒। म॒नः॒ऽपा॒प॒। किम्। अश॑स्तानि। शं॒स॒सि॒। परा॑। इ॒हि॒। न। त्वा॒। का॒म॒ये॒। वृ॒क्षान्। वना॑नि। सम्। च॒र॒। गृ॒हेषु॑। गोषु॑। मे॒। मनः॑। ४५.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दुःष्वप्ननाशनम्
@@ -82,18 +86,22 @@ Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence 
 - पथ्यापङ्क्तिः
 - दुःष्वप्ननाशन
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मानसिक पाप के नाश का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मनस्पाप) हे मानसिक पाप ! (परः) दूर (अप इहि) हट जा (किम्) क्या (अशस्तानि) बुरी बातें (शंससि) तू बताता है। (परा इहि) दूर चला जा, (त्वा) तुझको (न कामये) मैं नहीं चाहता, (वृक्षान्) वृक्षों और (वनानि) वनों में (सम् चर) फिरता रह, (गृहेषु) घरों में और (गोषु) गौ आदि पशुओं में (मे) मेरा (मनः) मन है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वानों को योग्य है कि वनचर डाकू आदियों के समान दुष्कर्मों में अपना मन न लगावें, किन्तु सत्यव्यवहारी होकर परस्पर रक्षा करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(परः) परस्तात्। दूरदेशे (अपेहि) अपगच्छ (मनस्पाप) हे मनसि चेतसि वर्तमान पाप (किम्) निन्दायाम् (अशस्तानि) अशोभनानि कर्माणि (शंससि) कथयसि (परेहि) दूरे गच्छ (न) निषेधे (त्वा) त्वाम् (कामये) अभिलष्यामि (वृक्षान्) वृक्षवासिनः पुरुषान्−इत्यर्थः (वनानि) वनचरान् दस्य्वादीनिति यावत् (सं चर) सम्यक् प्राप्नुहि (गृहेषु) गृहावस्थितेषु जनेषु (गोषु) गवादिपशुषु, तेषां रक्षण इत्यर्थः (मे) मम (मनः) अन्तःकरणम् ॥
@@ -107,15 +115,6 @@ Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence 
 
 अ᳙वश᳓सा निःश᳓सा य᳓त्पराश᳓सोपारिम᳓ जा᳓ग्रतो य᳓त्स्वप᳓न्तः।  
 अग्नि᳓र्वि᳓श्वान्य᳓प दुष्कृता᳓न्य᳓जुष्टान्यारे᳓ अस्म᳓द्दधातु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॑व॒शसा॑ निः॒शसा॒ यत्प॑रा॒शसो॑पारि॒म जाग्र॑तो॒ यत्स्व॒पन्तः॑।  
-अ॒ग्निर्विश्वा॒न्यप॑ दुष्कृ॒तान्यजु॑ष्टान्या॒रे अ॒स्मद्द॑धातु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
@@ -142,14 +141,23 @@ unsupported.\* The comm. regards all the words as containing the root
 recurs at vi. 96. 3.⌋ \*⌊TB. has *yád āśásā niśásā yát parāśásā*,  
 blending RV. and AV. readings.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Whatever wrong we have committed, sleeping or waking, by ill-wish, dislike, or slander, All these offences, which deserve displeasure, may Agni take from us and keep them distant.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑व॒शसा॑ निः॒शसा॒ यत्प॑रा॒शसो॑पारि॒म जाग्र॑तो॒ यत्स्व॒पन्तः॑।  
+अ॒ग्निर्विश्वा॒न्यप॑ दुष्कृ॒तान्यजु॑ष्टान्या॒रे अ॒स्मद्द॑धातु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒व॒ऽशसा॑। निः॒ऽशसा॑। यत्। प॒रा॒ऽशसा॑। उ॒प॒ऽआ॒रि॒म। जाग्र॑तः। यत्। स्व॒पन्तः॑। अ॒ग्निः। विश्वा॑नि। अप॑। दुः॒ऽकृ॒तानि॑। अजु॑ष्टानि। आ॒रे। अ॒स्मत्। द॒धा॒तु॒। ४५.२। 
+अ॒व॒ऽशसा॑। निः॒ऽशसा॑। यत्। प॒रा॒ऽशसा॑। उ॒प॒ऽआ॒रि॒म। जाग्र॑तः। यत्। स्व॒पन्तः॑। अ॒ग्निः। विश्वा॑नि। अप॑। दुः॒ऽकृ॒तानि॑। अजु॑ष्टानि। आ॒रे। अ॒स्मत्। द॒धा॒तु॒। ४५.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दुःष्वप्ननाशनम्
@@ -157,18 +165,22 @@ Whatever wrong we have committed, sleeping or waking, by ill-wish, dislike, or s
 - भुरिक्त्रिष्टुप्
 - दुःष्वप्ननाशन
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मानसिक पाप के नाश का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जो पाप (अवशसा) विश्वासघात से (निःशसा) घृणा से, और (पराशसा) अपवाद से, अथवा (यत्) जो पाप (जाग्रतः) जागते हुए वा (स्वपन्तः) सोते हुए (उपारिम) हम ने किया है। (अग्निः) सर्वव्यापक परमेश्वर (विश्वानि) सब (अजुष्टानि) अप्रिय (दुष्कृतानि) दुष्कर्मों को (अस्मत्) हम से (आरे) दूर (अप दधातु) हटा रक्खे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सर्वशक्तिमान् न्यायकारी परमेश्वर का भय मानकर कभी कोई दुष्कर्म न करें ॥२॥   यह मन्त्र कुछ भेद से ऋग्वेद में है−१०।१६४।३ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(अवशसा) शसु हिंसायाम्−क्विप्। अवशसनेन। विश्वासघातेन (निःशसा) नितरां हिंसनेन। अतिघृणया (यत्) यत्किंचित् पापम् (पराशसा) पराङ्मुखहिंसनेन अपवादेन (उप−आरिम) ऋ गतौ−लिट्। वयःसमीपे प्राप्तवन्तः। कृतवन्तः (जाग्रतः) जागृ निद्राक्षये−शतृ। जागरदवस्थापन्नाः (स्वपन्तः) निद्रावस्थां प्राप्ताः (अग्निः) सर्वव्यापकः परमेश्वरः (विश्वानि) सर्वाणि (अप) अपकृत्य (दुष्कृतानि) दुष्कर्माणि (अजुष्टानि) अप्रियाणि (आरे) दूरे (अस्मत्) अस्मत्तः (दधातु) स्थापयतु ॥
@@ -182,15 +194,6 @@ Whatever wrong we have committed, sleeping or waking, by ill-wish, dislike, or s
 
 य᳓दिन्द्र ब्रह्मणस्पते᳓ऽपि मृ᳓षा च᳓रामसि।  
 प्र᳓चेता न आङ्गिरसो᳓ दुरिता᳓त्पात्वं᳓हसः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यदि॑न्द्र ब्रह्मणस्प॒तेऽपि॒ मृषा॒ चरा॑मसि।  
-प्रचे॑ता न आङ्गिर॒सो दु॑रि॒तात्पा॒त्वंह॑सः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">
@@ -210,14 +213,23 @@ It is probably only on account of the occurrence in it of the word
 *svapantas* (2 **b**) that this hymn is in our text put in connection  
 with the one that follows.
 </details>
+
 <details><summary>Griffith</summary>
 
 Indra and Brahmanaspati! whatever foolish deed we plan, May provident Angirasa preserve us from the sin and woe.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदि॑न्द्र ब्रह्मणस्प॒तेऽपि॒ मृषा॒ चरा॑मसि।  
+प्रचे॑ता न आङ्गिर॒सो दु॑रि॒तात्पा॒त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। इ॒न्द्र॒। ब्र॒ह्म॒णः॒। प॒ते॒। अपि॑। मृषा॑। चरा॑मसि। प्रऽचे॑ताः। नः॒। अ॒ङ्गि॒र॒सः॒। दुः॒ऽइ॒तात्। पा॒तु॒। अंह॑सः। ४५.३। 
+यत्। इ॒न्द्र॒। ब्र॒ह्म॒णः॒। प॒ते॒। अपि॑। मृषा॑। चरा॑मसि। प्रऽचे॑ताः। नः॒। अ॒ङ्गि॒र॒सः॒। दुः॒ऽइ॒तात्। पा॒तु॒। अंह॑सः। ४५.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दुःष्वप्ननाशनम्
@@ -225,18 +237,22 @@ Indra and Brahmanaspati! whatever foolish deed we plan, May provident Angirasa p
 - अनुष्टुप्
 - दुःष्वप्ननाशन
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मानसिक पाप के नाश का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ब्रह्मणस्पते) हे बड़े-बड़े लोकों के स्वामी (इन्द्र) सम्पूर्ण ऐश्वर्यवाले जगदीश्वर ! (यत् अपि) जो कुछ भी पाप (मृषा) असत्य व्यवहार से (चरामसि) हम करें। (आङ्गिरसः) ज्ञानियों का हितकारी (प्रचेताः) बड़ी बुद्धिवाला परमात्मा (नः) हमें (दुरितात्) दुर्गति और (अंहसः) पाप से (पातु) बचावे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य न्यायकारी परमात्मा का ध्यान रखते हैं, वे पापों से बचकर सुखी रहते हैं ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(यत् अपि) यत्किञ्चिदपि पापम् (इन्द्र) परमैश्वर्यवन् जगदीश्वर (ब्रह्मणस्पतेः) बृहतां लोकानां पालक (मृषा) असत्यव्यवहारेण (चरामसि) चरामः। वयं कुर्मः (प्रचेताः) प्रकृष्टज्ञानोपेतः परमेश्वरः (नः) अस्मान् (आङ्गिरसः) अङ्गिरस्−अण्। अङ्गिरोभ्यो ज्ञानिभ्यो हितः (दुरितात्) दुर्गतेः। कष्टात् (पातु) रक्षतु (अंहसः) पापात् ॥

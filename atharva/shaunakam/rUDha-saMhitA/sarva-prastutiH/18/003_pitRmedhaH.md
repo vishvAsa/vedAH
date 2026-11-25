@@ -8,19 +8,23 @@ title = "००३ पितृमेधः"
 
 3. ⌊Funeral verses.⌋
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 पितृमेधः।  
 १-७३ अथर्वा। यमः, ४४, ४६ मन्त्रोक्ताः, ५-६ अग्निः, ५० भूमिः, ५४ इन्दुः, ५६ आपः। त्रिष्टुप्, ४, ८, ११, २३ सतः पङ्क्ति, ५ त्रिपदा निचृद्गायत्री, ६, ५६, ६८, ७०, ७२ अनुष्टुप् (५६ आर्षी), १८ २५-२९, ४४, ४६ जगती, (१८ भुरिक्, २९ विराट्) ३० पञ्चपदा अतिजगती, ३१ विराट् शक्वरी, ३२-३५, ४७, ४९, ५२ भुरिक्, ३६ एकावसाना आसुरी अनुष्टुप्, ३७ अकावसाना आसुरी गायत्री, ३९ परा त्रिष्टुप् पङ्क्तिः, ५० प्रस्तारपङ्क्तिः, ५४ पुरोऽनुष्टुप्, ५८ विराट्, ६० त्र्यवसाना षट्-पदा जगती, ६४ भुरिक् पथ्यापङ्क्तिः, ६७ पथ्याबृहती, ६९, ७१ उपरिष्टाद् बृहती।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—saptatis tryadhikā, yamadevatyam mantroktabahudevatyaṁ ca (5, 6. āgneyyāu, 44, 46. mantroktadevatye; 50. bhāumī; 54. āindavī; 56. āpyā). trāiṣṭubham: 4, 8, 11, 23. sataḥpan̄kti; 5. 3-p. nicṛd gāyatrī; 6, 56, 68, 70, 72. anuṣṭubh; 18, 25-29, 44, 46. jagatī (18. bhurij; 29. virāj)*; 30. 5-p. atijagatī; 31. virāṭ śakvarī; 32-35, 47, 49, 52. bhurij; 36. 1-av. āsury anuṣṭubh; 37. 1-av. āsurī gāyatrī; 39. parātriṣṭup pan̄kti; 50. prastārapan̄kti; 54. puro ‘nuṣṭubh; 58. virāj; 60. 3-av. 6-p. jagatī; 64. bhurik pathyāpan̄kty ārṣī; 67. pathyā bṛhatī; 69, 71. upariṣṭādbṛhatī.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
 </details>
+
 <details><summary>Griffith</summary>
 
 A funeral hymn, taken partly from the Rigveda
@@ -34,15 +38,6 @@ A funeral hymn, taken partly from the Rigveda
 
 इयं᳓ ना᳓रीपतिलोकं᳓ वृणाना᳓ नि᳓ पद्यत उ᳓प त्वा मर्त्य प्रे᳓तम्।  
 ध᳓र्मंपुराण᳓मनुपाल᳓यन्ती त᳓स्यै प्रजां᳓ द्र᳓विणं चेह᳓ धेहि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/01_iyaM_nArIpatilokam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इ॒यं नारी॑पतिलो॒कं वृ॑णा॒ना नि प॑द्यत॒ उप॑ त्वा मर्त्य॒ प्रेत॑म्।  
-धर्मं॑पुरा॒णम॑नुपा॒लय॑न्ती॒ तस्यै॑ प्र॒जां द्रवि॑णं चे॒ह धे॑हि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/01_iyaM_nArIpatilokam.md">
@@ -70,14 +65,23 @@ even the majority of SPP's, have in **c** *-pādáyantī*, but SPP. rightly
 accepts *-pālá-*; ⌊c.f. the phonetic relation of *udumbara* and  
 *ulumbala*, above, 2. 13⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 Choosing her husband's world, O man, this woman lays herself down beside thy lifeless body. Preserving faithfully the ancient custom. Bestow upon here both wealth and offspring.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒यं नारी॑पतिलो॒कं वृ॑णा॒ना नि प॑द्यत॒ उप॑ त्वा मर्त्य॒ प्रेत॑म्।  
+धर्मं॑पुरा॒णम॑नुपा॒लय॑न्ती॒ तस्यै॑ प्र॒जां द्रवि॑णं चे॒ह धे॑हि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒यम्। नारी॑। प॒ति॒ऽलो॒कम्। वृ॒णा॒ना। नि। प॒द्य॒ते॒। उप॑। त्वा॒। म॒र्त्य॒। प्रऽइ॑तम्। धर्म॑म्। पु॒रा॒णम्। अ॒नु॒ऽपा॒लय॑न्ती। तस्यै॑। प्र॒ऽजाम्। द्रवि॑णम्। च॒। इ॒ह। धे॒हि॒। ३.१। 
+इ॒यम्। नारी॑। प॒ति॒ऽलो॒कम्। वृ॒णा॒ना। नि। प॒द्य॒ते॒। उप॑। त्वा॒। म॒र्त्य॒। प्रऽइ॑तम्। धर्म॑म्। पु॒रा॒णम्। अ॒नु॒ऽपा॒लय॑न्ती। तस्यै॑। प्र॒ऽजाम्। द्रवि॑णम्। च॒। इ॒ह। धे॒हि॒। ३.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -85,18 +89,22 @@ Choosing her husband's world, O man, this woman lays herself down beside thy lif
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 नियोगविधान का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मर्त्य) हे मनुष्य ! (इयम्) यह (नारी) नारी (पतिलोकम्) पति के लोक [गृहाश्रम के सुख] को (वृणाना)चाहती हुई और (पुराणम्) पुराने [सनातन] (धर्मम्) धर्म को (अनुपालयन्ती) निरन्तरपालती हुई (प्रेतम्) मरे हुए [पति] की (उप) स्तुति करती हुई (त्वा) तुझको (निपद्यते) प्राप्त होती है, (तस्यै) उस [स्त्री] को (प्रजाम्) सन्तान (च) और (द्रविणम्) बल (इह) यहाँ पर (धेहि) धारण कर ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  यदि विधवा स्त्री मृतपति के गुण गाती हुई सन्तान उत्पन्न करना चाहे, वह मृतस्त्रीक पुरुष के साथयथाविधि नियोग करके अपने कुल की वृद्धि के लिये सन्तान उत्पन्न करे। इसी प्रकारमृतस्त्रीक पुरुष अपने कुल को बढ़ती के लिये सन्तान उत्पन्न करने को विधवास्त्री से विधिवत् नियोग करे ॥१॥यह मन्त्र महर्षिदयानन्दकृत ऋग्वेदादिभाष्यभूमिका नियोगविषय में व्याख्यात है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(इयम्) दृश्यमाना विधवा (नारी)ऋतोऽञ्। पा० ४।४।४९। नराच्चेति वक्तव्यम्। इति तत्रैव वार्त्तिकं च। नृ, नर-अञ्।शार्ङ्गरवाद्यञोङीन्। पा० ४।१।७३। इति ङीन्। नुर्नरस्य वा धर्माचारोऽस्यां सा।स्त्री (पतिलोकम्) पतिगृहम्। गृहाश्रमसुखम् (वृणाना) वाञ्छन्ती (निपद्यते)प्राप्नोति (उप) पूजायाम्। उपगच्छन्ती। स्तुवाना (त्वा) त्वाम् मृतस्त्रीकम् (मर्त्य) हे मनुष्य (प्रेतम्) प्र+इण् गतौ-क्त। मृतं पतिम् (धर्मम्) धारणीयं नियमम् (पुराणम्) पुरा अग्रे नीयते। णीञ्-ड। सनातनम् (अनुपालयन्ती) निरन्तरं रक्षन्ती (तस्यै) विधवायै (प्रजाम्) सन्तानम् (द्रविणम्) बलम्-निघ० २।९ (च) (इह)गृहाश्रमे (धेहि) धारय ॥
@@ -110,15 +118,6 @@ Choosing her husband's world, O man, this woman lays herself down beside thy lif
 
 उ᳓दीर्ष्वनार्यभि᳓ जीवलोकं᳓ गता᳓सुमेत᳓मु᳓प शेष ए᳓हि।  
 ह᳙स्तग्राभ᳓स्य दधिषो᳓स्त᳓वेदं᳓प᳓त्युर्जनित्व᳓मभि᳓ सं᳓ बभूथ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/02_udIrShvanAryabhi_jIvalokam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उदी॑र्ष्वनार्य॒भि जी॑वलो॒कं ग॒तासु॑मे॒तमुप॑ शेष॒ एहि॑।  
-ह॑स्तग्रा॒भस्य॑ दधि॒षोस्तवे॒दंपत्यु॑र्जनि॒त्वम॒भि सं ब॑भूथ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/02_udIrShvanAryabhi_jIvalokam.md">
@@ -163,14 +162,23 @@ person or two different ones does not appear from the translation nor
 from the original of AGS.⌋ Vāit. (38. 3) uses the verse in the  
 *puruṣamedha*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Rise, come unto the world of life, O woman: come, he is lifeless by whose side thou liest. Wifehood with this thy husband was thy portion who took thy hand and wooed thee as a lover.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उदी॑र्ष्वनार्य॒भि जी॑वलो॒कं ग॒तासु॑मे॒तमुप॑ शेष॒ एहि॑।  
+ह॑स्तग्रा॒भस्य॑ दधि॒षोस्तवे॒दंपत्यु॑र्जनि॒त्वम॒भि सं ब॑भूथ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। ई॒र्ष्व॒। ना॒रि॒। अ॒भि। जी॒व॒ऽलो॒कम्। ग॒तऽअ॑सुम्। ए॒तम्। उप॑। शे॒षे॒। आ। इ॒हि॒। ह॒स्त॒ऽग्रा॒भस्य॑। द॒धि॒षोः। तव॑। इ॒दम्। पत्युः॑। ज॒नि॒ऽत्वम्। अ॒भि। सम्। ब॒भू॒थ॒। ३.२। 
+उत्। ई॒र्ष्व॒। ना॒रि॒। अ॒भि। जी॒व॒ऽलो॒कम्। ग॒तऽअ॑सुम्। ए॒तम्। उप॑। शे॒षे॒। आ। इ॒हि॒। ह॒स्त॒ऽग्रा॒भस्य॑। द॒धि॒षोः। तव॑। इ॒दम्। पत्युः॑। ज॒नि॒ऽत्वम्। अ॒भि। सम्। ब॒भू॒थ॒। ३.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -178,18 +186,22 @@ Rise, come unto the world of life, O woman: come, he is lifeless by whose side t
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 नियोगविधान का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (नारि) हे नारी ! (जीवलोकम् अभि) जीवते पुरुषों के समाज की ओर (उत) उठकर (ईर्ष्व) चल, (एतम्) इस (गतासुम्) गये प्राणवाले [मरे वा रोगी पति] को (उप) सराहती हुई (शेषे) तू पड़ीहै, (आ इहि) आ (दधिषोः) वीर्यदाता [नियुक्त पति] से (ते) अपने (हस्तग्राभस्य) [विवाह में] हाथ पकड़नेवाले (पत्युः) पति के (जनित्वम्) सन्तान को (इदम्) अब (अभि) सब प्रकार (सम्) यथावत् [शास्त्रानुसार] (बभूथ) तू प्राप्त हो ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विपत्ति काल मेंअर्थात् सन्तान न होने पर पति के बड़े रोगी होने वा मर जाने पर स्त्रीमृतस्त्रीक पुरुष से नियोग कर सन्तान उत्पन्न करके पति के वंश को चलावे। इसीप्रकार जिस पुरुष की स्त्री बड़ी रोगिनी हो वा मर गई हो, वह विधवा से नियोग करसन्तान उत्पन्न करके अपना वंश चलावे ॥२॥यह मन्त्र ऋग्वेद में है−१०।१८।८, वहाँपर (दधिषोः) के स्थान पर (दिधिषोः) पद है और ऋग्वेदपाठ ही महर्षिदयानन्दकृतऋग्वेदादिभाष्यभूमिका के और सत्यार्थप्रकाश चतुर्थ समुल्लास के नियोगविषयमें व्याख्यात है ॥मनुस्मृति अध्याय ९ श्लोक ५८ आदि में नियोगविषय का वर्णन है, यहाँ दो श्लोक लिखे जाते हैं−देवराद् वा सपिण्डाद् वा स्त्रिया सम्यङ्नियुक्तया। प्रजेप्सिताधिगन्तव्या सन्तानस्य परिक्षये ॥१॥ विधवायां नियोगार्थेनिर्वृत्ते तु यथाविधि। गुरुवच्च स्नुषावच्च वर्तेयातां परस्परम् ॥२॥मनुस्मृतिअध्याय ९ श्लोक ५९, ६२ ॥देवर [पति के छोटे वा बड़े भाई] से अथवा सपिण्ड से [पति की छह पीढ़ियों के भीतरवालेसे] यथाविधि [पति आदि बड़े लोगों द्वारा] नियुक्त की हुई स्त्री को सन्तान केसर्वथा नाश होने पर यथेष्ट सन्तान उत्पन्न करनी चाहिये ॥१॥ विधवा [आदि] मेंनियोग का प्रयोजन यथाविधि पूरा हो जाने पर दोनों [पुरुष और स्त्री] गुरु के समानऔर पुत्र वधू के समान आपस में बर्ताव करें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(उत्) उत्थाय (ईर्ष्व) गच्छ (नारि) म० १। हे स्त्रि (अभि) अभिलक्ष्य (जीवलोकम्) जीवितानां समाजम् (गतासुम्)विगतप्राणम्। मृतं रोगिणं वा (एतम्) दृश्यमानम् (उप) पूजायाम्। उपगच्छन्ती।स्तुवाना (शेषे) शीङ् स्वप्ने। भूमौ वर्तसे (एहि) आगच्छ (हस्तग्राभस्य) ग्रहउपादाने-कर्मण्यण्, हस्य भः। विवाहे गृहीतहस्तस्य (दधिषोः) दधातेर्द्वित्वमित्वंषुक् च। उ० ३।९७। इति दर्शनात्। कुर्भ्रश्च। उ० १।२२। दधातेः कु, इत्वंषुगागमश्च। दधिषुरेव दिधिषुः। नियुक्तायां स्त्रियां गर्भस्थापकात् पुरुषात् (तव) स्वकीयायाः (इदम्) इदानीम् (पत्युः) स्वामिनः (जनित्वम्) सन्तानम् (अभि)सर्वतः (सम्) सम्यक्। यथाविधि (बभूथ) भू सत्तायां प्राप्तौ च। छन्दसिलुङ्लङ्लिटः। पा० ३।४।६। लोडर्थे लिट्। बभूविथ। प्राप्नुहि ॥
@@ -203,15 +215,6 @@ Rise, come unto the world of life, O woman: come, he is lifeless by whose side t
 
 अ᳓पश्यं युवतिं᳓नीय᳓मानां जीवां᳓ मृते᳓भ्यः परिणीय᳓मानाम्।  
 अन्धे᳓न य᳓त्त᳓मसाप्रा᳓वृता᳓सीत्प्राक्तो᳓ अ᳓पाचीमनयं त᳓देनाम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/03_apashyaM_yuvatinnIyamAnAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अप॑श्यं युव॒तिंनी॒यमा॑नां जी॒वां मृ॒तेभ्यः॑ परिणी॒यमा॑नाम्।  
-अ॒न्धेन॒ यत्तम॑सा॒प्रावृ॒तासी॑त्प्रा॒क्तो अपा॑चीमनयं॒ तदे॑नाम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/03_apashyaM_yuvatinnIyamAnAm.md">
@@ -245,14 +248,23 @@ paraphrases pāda **d** by *enāṁ gām pūrvadeśāt śavasamīpād apān̄muk
 Pāda **a** can be made full only by the unacceptable resolution  
 *ápaśiam;* the TA. reading of the word would remove the difficulty.
 </details>
+
 <details><summary>Griffith</summary>
 
 I looked and saw the youthful dame escorted, the living to the dead: I saw them, bear her. When she with blinding darkness was enveloped, then did I turn her back and lead her homeward.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अप॑श्यं युव॒तिंनी॒यमा॑नां जी॒वां मृ॒तेभ्यः॑ परिणी॒यमा॑नाम्।  
+अ॒न्धेन॒ यत्तम॑सा॒प्रावृ॒तासी॑त्प्रा॒क्तो अपा॑चीमनयं॒ तदे॑नाम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अप॑श्यम्। यु॒व॒तिम्। नी॒यमा॑नाम्। जी॒वाम्। मृ॒तेभ्यः॑। प॒रि॒ऽनी॒यमा॑नाम्। अ॒न्धेन॑। यत्। तम॑सा। प्रावृ॑ता। आसी॑त्। प्रा॒क्तः। अपा॑चीम्। अ॒न॒य॒म्। तत्। ए॒ना॒म्। ३.३। 
+अप॑श्यम्। यु॒व॒तिम्। नी॒यमा॑नाम्। जी॒वाम्। मृ॒तेभ्यः॑। प॒रि॒ऽनी॒यमा॑नाम्। अ॒न्धेन॑। यत्। तम॑सा। प्रावृ॑ता। आसी॑त्। प्रा॒क्तः। अपा॑चीम्। अ॒न॒य॒म्। तत्। ए॒ना॒म्। ३.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -260,18 +272,22 @@ I looked and saw the youthful dame escorted, the living to the dead: I saw them,
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 नियोगविधान का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (जीवाम्) जीवती हुई [पुरुषार्थयुक्त] (युवतिम्) युवा स्त्री (नीयमानाम्) ले जायी गयी और (मृतेभ्यः)मरे हुओं से [मृतक वा महारोगियों से] (परिणीयमानाम्) पृथक् ले जायी गयी (अपश्यम्) मैंने देखी है। (यत्) क्योंकि वह (अन्धेन तमसा) गहरे अन्धकार से [सन्तान न होने के शोक से] (प्रावृता) ढकी हुई (आसीत्) थी, (तत्) इसी से (एनाम्) उस (अपाचीम्) अलग पड़ी हुई स्त्री को (प्राक्तः) सामने (अनयम्) मैंलाया हूँ ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  यदि स्त्री का पति मरगया हो वा महारोगी हो और स्त्री सन्तान के न होने से दुःखित हो, तो बुद्धिमान्लोग उस को धैर्य देकर नियोगविधि से सन्तान उत्पन्न कराके प्रसन्न करें॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(अपश्यम्) अहं दृष्टवानस्मि (युवतिम्) यौवनवतीं स्त्रियम् (नीयमानाम्)प्राप्यमाणाम् (जीवाम्) जीवन्तीम् प्राणवतीम् (मृतेभ्यः) गतप्राणपुरुषेभ्यःसकाशात् (परिणीयमानाम्) पृथक् प्राप्यमाणाम् (अन्धेन) गाढेन (यत्) यस्मात्कारणात् (तमसा) अन्धकारेण सन्तानाभावशोकेन (प्रावृता) अतिशयेन वेष्टिता (आसीत्) (प्राक्तः) आभिमुख्येन (अपाचीम्) अपीच्यमपचितमपगतमपिहितमन्तर्हितं वा-निरु०४।२५। अपगताम्। पृथग् गताम् (अनयम्) आनीतवानस्मि (तत्) तस्मात्कारणात् (एनाम्)युवतिम् ॥
@@ -285,15 +301,6 @@ I looked and saw the youthful dame escorted, the living to the dead: I saw them,
 
 प्र᳙जानत्य᳙घ्न्ये जीवलोकं᳓ देवा᳓नां प᳓न्थामनुसंच᳓रन्ती।  
 अयं᳓ तेगो᳓पतिस्तं᳓ जुषस्व स्वर्गं᳓ लोक᳓म᳓धि रोहयैनम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/04_prajAnatyaghnye_jIvalokam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्र॑जान॒त्य᳡घ्न्ये जीवलो॒कं दे॒वानां॒ पन्था॑मनुसं॒चर॑न्ती।  
-अ॒यं ते॒गोप॑ति॒स्तं जु॑षस्व स्व॒र्गं लो॒कमधि॑ रोहयैनम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/04_prajAnatyaghnye_jIvalokam.md">
@@ -319,14 +326,23 @@ schol. (note to 81. 33) employ it further at the kindling of the pile.
 The verse lacks only one syllable of being a regular *triṣṭubh* (11 +  
 11: 10 + 11 = 43).
 </details>
+
 <details><summary>Griffith</summary>
 
 Knowing the world of living beings, Aghnya! treading the path. of Gods which lies before thee, This is thy husband: joyfully receive him and let him mount into the world of Svarga.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॑जान॒त्य᳡घ्न्ये जीवलो॒कं दे॒वानां॒ पन्था॑मनुसं॒चर॑न्ती।  
+अ॒यं ते॒गोप॑ति॒स्तं जु॑षस्व स्व॒र्गं लो॒कमधि॑ रोहयैनम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒ऽजा॒न॒ती। अ॒घ्न्ये॒। जी॒व॒ऽलो॒कम्। दे॒वाना॑म्। पन्था॑म्। अ॒नु॒ऽसं॒चर॑न्ती। अ॒यम्। ते॒। गोऽप॑तिः। तम्। जु॒ष॒स्व॒। स्वः॒ऽगम्। लो॒कम्। अधि॑। रो॒ह॒य॒। ए॒न॒म्। ३.४। 
+प्र॒ऽजा॒न॒ती। अ॒घ्न्ये॒। जी॒व॒ऽलो॒कम्। दे॒वाना॑म्। पन्था॑म्। अ॒नु॒ऽसं॒चर॑न्ती। अ॒यम्। ते॒। गोऽप॑तिः। तम्। जु॒ष॒स्व॒। स्वः॒ऽगम्। लो॒कम्। अधि॑। रो॒ह॒य॒। ए॒न॒म्। ३.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सतः पङ्क्ति
@@ -334,18 +350,22 @@ Knowing the world of living beings, Aghnya! treading the path. of Gods which lie
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 नियोगविधान का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अघ्न्ये) हे निष्पापस्त्री ! तू (जीवलोकम्) जीवित मनुष्यों के समाज को (प्रजानती) अच्छे प्रकारजानती हुई और (देवानाम्) विद्वानों के (पन्थाम्) मार्ग पर (अनुसंचरन्ती) निरन्तरचलती हुई है। (अयम्) यह [नियुक्त पति] (ते) तेरी (गोपतिः) वाणी का रक्षक [वंशचलाने की बात निबाहनेवाला] है, (तम्) उसको (जुषस्व) सेवन कर (एनम्) इसको (स्वर्गम् लोकम्) स्वर्गलोक [सुख के समाज] में (अधि) अधिकारपूर्वक (रोहय)प्रकट कर ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  कुल की वृद्धि के मर्मको जाननेहारी धर्मशीला स्त्री नियुक्त पति से यथेष्ट कुलवर्धक सन्तान अपने लियेऔर उस पुरुष के लिये उत्पन्न करे और इस प्रकार वे दोनों अपने-अपने कुलों कोबढ़ाकर अपने वचन की रक्षा करें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(प्रजानती) प्रकर्षेण जानाना (अघ्न्ये) हेअहन्तव्ये। निष्पापे (जीवलोकम्) जीवितानां समाजम् (देवानाम्) विदुषाम् (पन्थाम्)पन्थानम् (अनुसंचरन्ती) निरन्तरं गच्छन्ती (अयम्) नियुक्तः पतिः। दधिषुः (ते) तव (गोपतिः) वाचो रक्षकः (जुषस्व) सेवस्व। प्रीणीहि (स्वर्गम्) सुखप्रापकम् (लोकम्)समाजम् (अधि) अधिकृत्य (रोहय) प्रादुर्भावय। प्रापय (एनम्) पुरुषम् ॥
@@ -359,15 +379,6 @@ Knowing the world of living beings, Aghnya! treading the path. of Gods which lie
 
 उ᳓प द्या᳓मु᳓पवेतस᳓म᳓वत्तरो नदी᳓नाम्।  
 अ᳓ग्ने पित्त᳓मपा᳓मसि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/05_upa_dyAmupavetasamavattaro.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उप॒ द्यामुप॑वेत॒समव॑त्तरो न॒दीना॑म्।  
-अग्ने॑ पि॒त्तम॒पाम॑सि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/05_upa_dyAmupavetasamavattaro.md">
@@ -403,14 +414,23 @@ verse the comm. makes *dyām* mean *avakām*, because this rises above the
 water without touching earth! The verse does not need to be scanned as  
 *nicṛt*.
 </details>
+
 <details><summary>Griffith</summary>
 
 The speed of rivers craving heaven and cane, thou, Agni, art the waters' gall.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॒ द्यामुप॑वेत॒समव॑त्तरो न॒दीना॑म्।  
+अग्ने॑ पि॒त्तम॒पाम॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑। द्याम्। उप॑। वे॒त॒सम्। अव॑त्ऽतरः। न॒दीना॑म्। अग्ने॑। पि॒त्तम्। अ॒पाम्। अ॒सि॒। ३.४। 
+उप॑। द्याम्। उप॑। वे॒त॒सम्। अव॑त्ऽतरः। न॒दीना॑म्। अग्ने॑। पि॒त्तम्। अ॒पाम्। अ॒सि॒। ३.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिपदा निचृत गायत्री
@@ -418,18 +438,22 @@ The speed of rivers craving heaven and cane, thou, Agni, art the waters' gall.
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 उन्नति करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे विद्वान्पुरुष ! (द्याम्) विद्याप्रकाश को (उप) पाकर और (नदीनाम्) स्तुतियों के (वेतसम्) विस्तार को (उप) आदर से (अवत्तरः) अधिक रक्षा करता हुआ तू (अपाम्)प्राणों का (पित्तम्) तेज (असि) है ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य विद्या प्राप्तकरके स्तुतियोग्य व्यवहारों की रक्षा करता हुआ सब प्राणियों का बल बढ़ावे ॥५॥इसमन्त्र का मिलान करो यजुर्वेद १७।६ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(उप) उपेत्य। प्राप्य (द्याम्)विद्याप्रकाशम् (उप) पूजायाम् (वेतसम्) वेञस्तुट् च। उ० ३।११८। वेञ्तन्तुसन्ताने-असच् तुट् च। विस्तारम् (अवत्तरः) अव रक्षणे-शतृ, तरप्। अतिशयेनअवन् रक्षन् (नदीनाम्) णद अव्यक्ते शब्दे भाषायां स्तुतौ च-अच्, ङीप्।नदतिरर्चतिकर्मा-निघ० ३।१४। ऋषिर्नदो भवति नदतेः स्तुतिकर्मणः-निरु० ५।२।स्तुतीनाम् (अग्ने) हे विद्वन् पुरुष (पित्तम्) अपि+देङ् पालने-क्त। अचउपसर्गात्तः। पा० ७।४।४७। इति तादेशः। अपिदीयते रक्ष्यते शरीरं येन तत्। तेजः (अपाम्) प्राणानाम् (असि) ॥
@@ -443,15 +467,6 @@ The speed of rivers craving heaven and cane, thou, Agni, art the waters' gall.
 
 यं᳓ त्व᳓मग्नेसम᳓दहस्त᳓मु नि᳓र्वापया पु᳓नः।  
 क्या᳓म्बूर᳓त्र रोहतु शाण्डदूर्वा᳓ व्य᳙ल्कशा॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/06_yaM_tvamagnesamadahastamu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यं त्वम॑ग्नेस॒मद॑ह॒स्तमु॒ निर्वा॑पया॒ पुनः॑।  
-क्याम्बू॒रत्र॑ रोहतु शाण्डदू॒र्वा व्य᳡ल्कशा॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/06_yaM_tvamagnesamadahastamu.md">
@@ -492,14 +507,23 @@ pretaśarīrarūpaṁ haviḥ) ivā ”pya jvalanaḥ pitṛpriyas (= śmaśān�
 of this passage, p. 65, says that it persists even to this day in  
 India.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Cool, Agni, and again refresh the spot which thou hast scorched and burnt. Here let the water-lily grow, and tender grass and leafy plant.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यं त्वम॑ग्नेस॒मद॑ह॒स्तमु॒ निर्वा॑पया॒ पुनः॑।  
+क्याम्बू॒रत्र॑ रोहतु शाण्डदू॒र्वा व्य᳡ल्कशा॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। त्वम्। अ॒ग्ने॒। स॒म्ऽअद॑हः। तम्। ऊं॒ इति॑। निः। वा॒प॒य॒। पुनः॑। क्याम्बूः॑। अत्र॑। रो॒ह॒तु॒। शा॒ण्ड॒ऽदू॒र्वा। विऽअ॑ल्कशा। ३.५। 
+यम्। त्वम्। अ॒ग्ने॒। स॒म्ऽअद॑हः। तम्। ऊं॒ इति॑। निः। वा॒प॒य॒। पुनः॑। क्याम्बूः॑। अत्र॑। रो॒ह॒तु॒। शा॒ण्ड॒ऽदू॒र्वा। विऽअ॑ल्कशा। ३.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अनुष्टुप्
@@ -507,18 +531,22 @@ Cool, Agni, and again refresh the spot which thou hast scorched and burnt. Here 
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 उन्नति करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे विद्वान्पुरुष ! (त्वम्) तूने (यम्) जिस [ब्रह्मचारी] को (समदहः) यथाविधि तपाया है [ब्रह्मचर्य तप कराया है] (तम् उ) उस को (पुनः) अवश्य (निः) निश्चय करके (वापय)बीज के समान फैला। (अत्र) यहाँ [संसार में] (क्याम्बूः) ज्ञान उपदेश करनेवाली, (शाण्डदूर्वा) दुःखनाश करनेवाली और (व्यल्कशा) विविध प्रकार शोभावाली [शक्ति] (रोहतु) प्रकट होवे ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  माता-पिता आचार्य आदिविद्वान् लोग ब्रह्मचर्य आदि तप करा के सन्तानों को ऐसी शिक्षा देवें कि जिससेवे शारीरिक, आत्मिक और सामाजिक उन्नति कर सकें ॥६॥यह मन्त्र कुछ भेद से ऋग्वेदमें है १०।१६।१३। और वही पाठ महर्षिदयानन्दकृत संस्कारविधि अन्त्येष्टिप्रकरण में उद्धृत है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(यम्) ब्रह्मचारिणम् (त्वम्) (अग्ने) हे विद्वन् (समदहः)समन्ताद् ब्रह्मचर्यादितपः कारितवानसि (तम्) ब्रह्मचारिणम् (उ) पादपूर्त्तौ (निः) निश्चयेन (वापय) डुवप बीजसन्ताने-णिच्। बीजवद् विस्तारय (पुनः) अवधारणे (क्याम्बूः) वातेर्डिच्च। उ० ४।१३४। कि कित वा ज्ञाने-इण्प्रत्ययः, डित्।णित्कशिपद्यर्त्तेः। उ० १।८५। अबि शब्दे ऊ प्रत्ययो णित्। ज्ञानस्य शब्दयित्रीज्ञापयित्री (अत्र) संसारे (रोहतु) प्रादुर्भवतु (शाण्डदूर्वा) शडि संघाते रोगेच-घञ्+दुर्व दूर्व हिंसायाम्-अच्, टाप्, दुःखस्य नाशयित्री (व्यल्कशा)कृदाधारार्चिकलिभ्यः कः। उ० ३।४०। वि+अल भूषणपर्याप्तिशक्तिवारणेषु-क प्रत्ययः शोमत्वर्थीयः। विविधशोभावती शक्तिः ॥
@@ -532,15 +560,6 @@ Cool, Agni, and again refresh the spot which thou hast scorched and burnt. Here 
 
 इदं᳓ तए᳓कं पर᳓ ऊ त ए᳓कं तृती᳓येन ज्यो᳓तिषा सं᳓ विशस्व।  
 संवे᳓शने तन्वा᳙चा᳓रुरेधि प्रियो᳓ देवा᳓नां परमे᳓ सध᳓स्थे ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/07_idaM_taekam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इ॒दं त॒एकं॑ प॒र ऊ॑ त॒ एकं॑ तृ॒तीये॑न॒ ज्योति॑षा॒ सं वि॑शस्व।  
-सं॒वेश॑ने त॒न्वा॒३॒॑चारु॑रेधि प्रि॒यो दे॒वानां॑ पर॒मे स॒धस्थे॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/07_idaM_taekam.md">
@@ -567,14 +586,23 @@ fires; but they are probably, in the original meaning of the verse,
 rather three regions of light, to the highest of which the deceased is  
 to be translated.
 </details>
+
 <details><summary>Griffith</summary>
 
 Here is one light for thee, another yonder: enter the third and be therewith united. Uniting with a body be thou lovely, dear to the Gods in their sublimest mansion.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒दं त॒एकं॑ प॒र ऊ॑ त॒ एकं॑ तृ॒तीये॑न॒ ज्योति॑षा॒ सं वि॑शस्व।  
+सं॒वेश॑ने त॒न्वा॒३॒॑चारु॑रेधि प्रि॒यो दे॒वानां॑ पर॒मे स॒धस्थे॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒दम्। ते॒। एक॑म्। प॒रः। ऊं॒ इति॑। ते॒। एक॑म्। तृ॒तीये॑न। ज्योति॑षा। सम्। वि॒श॒स्व॒। स॒म्ऽवेश॑ने। त॒न्वा॑। चारुः॑। ए॒धि॒। प्रि॒यः। दे॒वाना॑म्। प॒र॒मे। स॒धऽस्थे॑। ३.७। 
+इ॒दम्। ते॒। एक॑म्। प॒रः। ऊं॒ इति॑। ते॒। एक॑म्। तृ॒तीये॑न। ज्योति॑षा। सम्। वि॒श॒स्व॒। स॒म्ऽवेश॑ने। त॒न्वा॑। चारुः॑। ए॒धि॒। प्रि॒यः। दे॒वाना॑म्। प॒र॒मे। स॒धऽस्थे॑। ३.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -582,18 +610,22 @@ Here is one light for thee, another yonder: enter the third and be therewith uni
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 उन्नति करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे विद्वान् पुरुष !] (ते) तेरे लिये (इदम्) यह [कार्यरूप जगत्] (एकम्) एक [ज्योति तुल्य] है, (उ) और (परः) परे [आगे बढ़कर] (ते) तेरे लिये (एकम्) एक [कारणरूप जगत् ज्योति समान]है, (तृतीयेन) तीसरी (ज्योतिषा) ज्योति [प्रकाशस्वरूप परब्रह्म] के साथ (सम्)मिलकर (विशस्व) प्रवेश कर। (संवेशने) यथावत् प्रवेशविधि में (तन्वा) [अपनी]उपकार क्रिया से (चारुः) शोभायमान और (परमे) बड़े ऊँचे (सधस्थे) समाज में (देवानाम्) विद्वानों का (प्रियः) प्रिय (एधि) हो ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य स्थूल औरसूक्ष्म जगत् के तत्त्व को परमात्मा के ज्ञान के साथ जानकर विद्या द्वारा उपकारकरता हुआ विद्वानों में उच्च पद प्राप्त करे ॥७॥यह मन्त्र कुछ भेद से ऋग्वेद मेंहै−१०।५६।१। और सामवेद में पू० १।७।३ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(इदम्) दृश्यमानं कार्यरूपं जगत् (ते)तुभ्यम् (एकम्) ज्योतिर्वत् (परः) परस्तात्। अग्रे (उ) चार्थे (ते) तुभ्यम् (एकम्) कारणरूपं सूक्ष्मं जगत्, ज्योतिः समानम् (तृतीयेन) कार्यकारणरूपसंसारात्परेण (ज्योतिषा) प्रकाशस्वरूपेण परब्रह्मणा (सम्) संगत्य (विशस्व) प्रवेशं कुरु (संवेशने) सम्यक् प्रवेशविधाने (तन्वा) तन उपकारे, तनु विस्तारे-ऊ। उपकारक्रियया (चारुः) शोभनः (एधि) अस भुवि-लोट्। भव (प्रियः) प्रीतिकरः (देवानाम्) विदुषाम् (परमे) उत्कृष्टे (सधस्थे) समाजे ॥
@@ -607,15 +639,6 @@ Here is one light for thee, another yonder: enter the third and be therewith uni
 
 उ᳓त्तिष्ठप्रे᳓हि प्र᳓ द्रवौ᳓कः कृणुष्व सलिले᳓ सध᳓स्थे।  
 त᳓त्र त्वं᳓ पितृ᳓भिःसंविदानः᳓ सं᳓ सो᳓मेन म᳓दस्व सं᳓ स्वधा᳓भिः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/08_uttiShThaprehi_pra.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उत्ति॑ष्ठ॒प्रेहि॒ प्र द्र॒वौकः॑ कृणुष्व सलि॒ले स॒धस्थे॑।  
-तत्र॒ त्वं पि॒तृभिः॑संविदा॒नः सं सोमे॑न॒ मद॑स्व॒ सं स्व॒धाभिः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/08_uttiShThaprehi_pra.md">
@@ -642,14 +665,23 @@ of the corpse to carry it to the funeral pile, and later (80. 35), with
 1. 61 and 3. 9 and others, the lifting on to the cart and removing; and  
 yet later (82. 31) the gathering up and carrying away the bone-relics.
 </details>
+
 <details><summary>Griffith</summary>
 
 Rise up, advance, run forward: make thy dwelling in water that shall be thy place to rest in There dwelling in accordance with the Fathers delight thyself with Soma and libations.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उत्ति॑ष्ठ॒प्रेहि॒ प्र द्र॒वौकः॑ कृणुष्व सलि॒ले स॒धस्थे॑।  
+तत्र॒ त्वं पि॒तृभिः॑संविदा॒नः सं सोमे॑न॒ मद॑स्व॒ सं स्व॒धाभिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। ति॒ष्ठ॒। प्र। इ॒हि॒। प्र॒। द्र॒व॒। ओकः॑। कृ॒णु॒ष्व॒। स॒लि॒ले। स॒धऽस्थे॑। तत्र॑। त्वम्। प‍ि॒तृऽभिः॑। स॒म्ऽवि॒दा॒नः। सम्। सोमे॑न। मद॑स्व। सम्। स्व॒धाभिः॑। ३.८। 
+उत्। ति॒ष्ठ॒। प्र। इ॒हि॒। प्र॒। द्र॒व॒। ओकः॑। कृ॒णु॒ष्व॒। स॒लि॒ले। स॒धऽस्थे॑। तत्र॑। त्वम्। प‍ि॒तृऽभिः॑। स॒म्ऽवि॒दा॒नः। सम्। सोमे॑न। मद॑स्व। सम्। स्व॒धाभिः॑। ३.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सतः पङ्क्ति
@@ -657,18 +689,22 @@ Rise up, advance, run forward: make thy dwelling in water that shall be thy plac
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 उन्नति करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे विद्वान् !] (उत्तिष्ठ) उठ, (प्र इहि) आगे बढ़ (प्र द्रव) आगे को दौड़ और (सलिले) चलते हुए जगत्में (सधस्थे) समाज के बीच (ओकः) घर (कृणुष्व) बना। (तत्र) वहाँ (त्वम्) तू (पितृभिः) पितरों [पिता आदि रक्षक महात्माओं] के साथ (संविदानः) मिलता हुआ (सोमेन) ऐश्वर्य से (सम्) मिलकर और (स्वधाभिः) आत्मधारण शक्तियों से (सम्) मिलकर (मदस्व) आनन्द पा ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सदा पुरुषार्थकरके विद्वानों के सत्सङ्ग से प्रतिष्ठित होकर ऐश्वर्य प्राप्त करे औरआत्मावलम्बन करता हुआ सुखी रहे ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(उत्तिष्ठ) ऊर्ध्वं तिष्ठ (प्रेहि) अग्रगच्छ (प्र द्रव) अग्रे धाव (ओकः) गृहम् (कृणुष्व) कुरु (सलिले) षल गतौ-इलच्।संगते जगति यथा सायणः-ऋग्० १०।१२९।३। (सधस्थे) समाजे (तत्र) समाजे (त्वम्) (पितृभिः) रक्षकैर्महात्मभिः (संविदानः) संगच्छमानः (सम्) संगत्य (सोमेन)ऐश्वर्येण (मदस्व) तृप्तो भव (सम्) संगत्य (स्वधाभिः) स्वधारणशक्तिभिः।आत्मावलम्बनैः ॥
@@ -682,15 +718,6 @@ Rise up, advance, run forward: make thy dwelling in water that shall be thy plac
 
 प्र᳓ च्यवस्वतन्वं᳙ सं᳓ भरस्व मा᳓ ते गा᳓त्रा वि᳓ हायि मो᳓ श᳓रीरम्।  
 म᳓नोनि᳓विष्टमनुसं᳓विशस्व य᳓त्र भू᳓मेर्जुष᳓से त᳓त्र गच्छ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/09_pra_chyavasvatanvaM.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्र च्य॑वस्वत॒न्वं१॒॑ सं भ॑रस्व॒ मा ते॒ गात्रा॒ वि हा॑यि॒ मो शरी॑रम्।  
-मनो॒निवि॑ष्टमनु॒संवि॑शस्व॒ यत्र॒ भूमे॑र्जु॒षसे॒ तत्र॑ गच्छ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/09_pra_chyavasvatanvaM.md">
@@ -716,14 +743,23 @@ usually simply 'get up': it is added, "as many times as it is raised")
 with this one; and this verse is used again, with the preceding verse  
 (under which see) and others, in 80. 35 and 82. 31.
 </details>
+
 <details><summary>Griffith</summary>
 
 Prepare thy body: speed thou on thy journey: let not thy limbs,. thy frame be left behind thee. Follow to its repose thy resting spirit: go to whatever spot of earth thou lovest.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र च्य॑वस्वत॒न्वं१॒॑ सं भ॑रस्व॒ मा ते॒ गात्रा॒ वि हा॑यि॒ मो शरी॑रम्।  
+मनो॒निवि॑ष्टमनु॒संवि॑शस्व॒ यत्र॒ भूमे॑र्जु॒षसे॒ तत्र॑ गच्छ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र। च्य॒व॒स्व॒। त॒न्व॑म्। सम्। भ॒र॒स्व॒। मा। ते॒। गात्रा॑। वि। हा॒यि॒। मो इति॑। शरी॑रम्। मनः॑। निऽवि॑ष्टम्। अ॒नु॒ऽसंवि॑शस्व। यत्र॑। भूमेः॑। जु॒षसे॑। तत्र॑। ग॒च्छ॒। ३.९। 
+प्र। च्य॒व॒स्व॒। त॒न्व॑म्। सम्। भ॒र॒स्व॒। मा। ते॒। गात्रा॑। वि। हा॒यि॒। मो इति॑। शरी॑रम्। मनः॑। निऽवि॑ष्टम्। अ॒नु॒ऽसंवि॑शस्व। यत्र॑। भूमेः॑। जु॒षसे॑। तत्र॑। ग॒च्छ॒। ३.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -731,18 +767,22 @@ Prepare thy body: speed thou on thy journey: let not thy limbs,. thy frame be le
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 उन्नति करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे विद्वान् !] (तन्वम्) [अपने] शरीर को (प्र) आगे (च्यवस्व) चला और (सम्) मिलकर (भरस्व) पोषणकर, [जिस से] (मा) न तो (ते) तेरे (गात्रा) अङ्ग (मो) और न (शरीरम्) [तेरा] शरीर (वि) विचल होकर (हायि) छूटे। (निविष्टम्) जमे हुए (मनः) मन के (अनुसंविशस्व)पीछे-पीछे प्रवेश कर, और (यत्र) जहाँ (भूमेः) भूमि की (जुषसे) तू प्रीति करताहै, (तत्र) वहाँ (गच्छ) जा ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य अपने शरीर सेसदा उद्योग करके सबके पोषण में अपनी शरीररक्षा करे और दृढ़ संकल्पी होकर आगेबढ़ता हुआ दुष्टों से शिष्टों की रक्षा करे ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(प्र) प्रकर्षेण। अग्रे (च्यवस्व) च्यावय। गमय (तन्वम्) शरीरम् (सम्) संगत्य (भरस्व) पोषय (मा) निषेधे (ते) तव (गात्रा) ....... त्यक्तं भवेत् (मो) नैव (शरीरम्) (मनः) चित्तम् (निविष्टम्) अवस्थितम् (अनुसंविशस्व) अनुसृत्य प्रविष्टो भव (यत्र) स्थाने (भूमेः) पृथिव्याः (जुषसे) प्रीतिं करोषि (तत्र) स्थाने (गच्छ) ॥
@@ -756,15 +796,6 @@ Prepare thy body: speed thou on thy journey: let not thy limbs,. thy frame be le
 
 व᳓र्चसा मां᳓पित᳓रः सोम्या᳓सो अ᳓ञ्जन्तु देवा᳓ म᳓धुना घृते᳓न।  
 च᳓क्षुषे मा प्रतरं᳓तार᳓यन्तो जर᳓से मा जर᳓दष्टिं वर्धन्तु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/10_varchasA_mAmpitaraH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वर्च॑सा॒ मांपि॒तरः॑ सो॒म्यासो॒ अञ्ज॑न्तु दे॒वा मधु॑ना घृ॒तेन॑।  
-चक्षु॑षे मा प्रत॒रंता॒रय॑न्तो ज॒रसे॑ मा ज॒रद॑ष्टिं वर्धन्तु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/10_varchasA_mAmpitaraH.md">
@@ -799,14 +830,23 @@ goes with 86. 16 and forms a part of the *dhuvana* ceremony?—Cf. my note
 to vs. 17 below.—The non-lingualization of the first *n* gives the  
 strongest possible support for *dhuvanāni* as against *dhru-*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 With splendour may the Fathers, meet for Soma, with mead and. fatness may the Gods anoint me. Lead me on farther to extended vision, and prosper me through life of long duration.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वर्च॑सा॒ मांपि॒तरः॑ सो॒म्यासो॒ अञ्ज॑न्तु दे॒वा मधु॑ना घृ॒तेन॑।  
+चक्षु॑षे मा प्रत॒रंता॒रय॑न्तो ज॒रसे॑ मा ज॒रद॑ष्टिं वर्धन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वर्च॑सा। माम्। पि॒तरः॑। सो॒म्यासः॑। अञ्ज॑न्तु। दे॒वाः। मधु॑ना। घृ॒तेन॑। चक्षु॑षे। मा॒। प्र॒ऽत॒रम्। ता॒रय॑न्तः। ज॒रसे॑। मा॒। ज॒रत्ऽअ॑ष्टिम्। व॒र्ध॒न्तु॒। ३.१०। 
+वर्च॑सा। माम्। पि॒तरः॑। सो॒म्यासः॑। अञ्ज॑न्तु। दे॒वाः। मधु॑ना। घृ॒तेन॑। चक्षु॑षे। मा॒। प्र॒ऽत॒रम्। ता॒रय॑न्तः। ज॒रसे॑। मा॒। ज॒रत्ऽअ॑ष्टिम्। व॒र्ध॒न्तु॒। ३.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -814,18 +854,22 @@ With splendour may the Fathers, meet for Soma, with mead and. fatness may the Go
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सोम्यासः)ऐश्वर्यवाले, (देवाः) विद्वान्, (पितरः) पितर [रक्षक महात्मा] (माम्) मुझको (वर्चसा) तेज से, (मधुना) विज्ञान और (घृतेन) प्रकाश से (अञ्जन्तु) प्रसिद्धकरें। (चक्षुषे) सूक्ष्म दृष्टि के लिये (मा) मुझे (प्रतरम्) आगे को (तारयन्तः)पार करते हुए [वे लोग] (जरदष्टिम्) स्तुति के साथ प्रवृत्तिवाले (मा) मुझको (जरसे) स्तुति के लिये (वर्धन्तु) बढ़ावें ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् लोग ऐसीशिक्षाप्रणाली चलावें कि जिस से सब लोग बलवान्, विज्ञानवान्, तेजस्वी औरसूक्ष्मदर्शी होकर संसार में कीर्ति पावें ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(वर्चसा) तेजसा (माम्) (पितरः)रक्षका महात्मानः (सोम्यासः) ऐश्वर्यवन्तः (अञ्जन्तु)अञ्जूव्यक्तिम्रक्षणकान्तिगतिषु। व्यक्तीकुर्वन्तु। विख्यातं कुर्वन्तु (देवाः)विद्वांसः (मधुना) विज्ञानेन (घृतेन) प्रकाशेन (चक्षुषे) सूक्ष्मदर्शनाय (प्रतरम्) प्रकृष्टतरम्। अधिकतरम् (तारयन्तः) पारयन्तः (जरसे) जॄ स्तुतौ-असुन्।जरतिरर्चतिकर्मा-निघ० ३।१४। स्तुतये (मा) माम् (जरदष्टिम्) अ० २।२८।५। जॄस्तुतौ-अतृन्+अशू व्याप्तौ-क्तिन्। जरता स्तुत्या सह अष्टिः कार्यव्याप्तिर्यस्यतम् (वर्धन्तु) वर्धयन्तु उन्नयन्तु ॥
@@ -839,15 +883,6 @@ With splendour may the Fathers, meet for Soma, with mead and. fatness may the Go
 
 व᳓र्चसा मां᳓स᳓मनक्त्वग्नि᳓र्मेधां᳓ मे वि᳓ष्णुर्न्य᳙नक्त्वास᳓न्।  
 रयिं᳓ मे वि᳓श्वे नि᳓यच्छन्तु देवाः᳓ स्योना᳓ मा᳓पः प᳓वनैः पुनन्तु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/11_varchasA_mAMsamanaktvagnirmedhAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वर्च॑सा॒ मांसम॑नक्त्व॒ग्निर्मे॒धां मे॒ विष्णु॒र्न्य᳡नक्त्वा॒सन्।  
-र॒यिं मे॒ विश्वे॒ निय॑च्छन्तु दे॒वाः स्यो॒ना मापः॒ पव॑नैः पुनन्तु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/11_varchasA_mAMsamanaktvagnirmedhAm.md">
@@ -864,14 +899,23 @@ The verse is, with resolution of *mā́-am*, a regular *triṣṭubh*, and no
 *pan̄kti*. As to its ritual application, see under the preceding verse;  
 the comm. regards it as sharing with that verse.
 </details>
+
 <details><summary>Griffith</summary>
 
 May Agni balm me thoroughly with splendour; may Vishnu. touch my lips with understanding. May all the Deities vouchsafe me riches, and pleasant Waters purify and cleanse me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वर्च॑सा॒ मांसम॑नक्त्व॒ग्निर्मे॒धां मे॒ विष्णु॒र्न्य᳡नक्त्वा॒सन्।  
+र॒यिं मे॒ विश्वे॒ निय॑च्छन्तु दे॒वाः स्यो॒ना मापः॒ पव॑नैः पुनन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वर्च॑सा। माम्। सम्। अ॒न॒क्तु॒। अ॒ग्निः। मे॒धाम्। मे॒। विष्णुः॑। नि। अ॒न॒क्तु॒। आ॒सन्। र॒यिम्। मे॒। विश्वे॑। नि। य॒च्छ॒न्तु॒। दे॒वाः। स्यो॒नाः। मा॒। आपः॑। पव॑नैः। पु॒न॒न्तु॒। ३..११। 
+वर्च॑सा। माम्। सम्। अ॒न॒क्तु॒। अ॒ग्निः। मे॒धाम्। मे॒। विष्णुः॑। नि। अ॒न॒क्तु॒। आ॒सन्। र॒यिम्। मे॒। विश्वे॑। नि। य॒च्छ॒न्तु॒। दे॒वाः। स्यो॒नाः। मा॒। आपः॑। पव॑नैः। पु॒न॒न्तु॒। ३..११।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -879,18 +923,22 @@ May Agni balm me thoroughly with splendour; may Vishnu. touch my lips with under
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्निः) ज्ञानमयपरमेश्वर (वर्चसा) तेज के साथ (मा) मुझे (सम्) यथावत् (अनक्तु) विख्यात करे, (विष्णुः) विष्णु [सर्वव्यापक जगदीश्वर] (मे) मेरे (आसन्) मुख में (मेधाम्)बुद्धि को (नि) नियम से (अनक्तु) प्रसिद्ध करे। (विश्वे) सब (देवाः) उत्तम गुण (रयिम्) धन (मे) मुझको (नि) निरन्तर (यच्छन्तु) देवें, (स्योनाः) सुख देनेवाले (आपः) आप्त विद्वान् (मा) मुझे (पवनैः) शुद्ध व्यवहारों से (पुनन्तु) शुद्ध करें॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमात्मा कीआराधना से तेजस्वी होकर विद्या का प्रकाश करें और धर्म से धन प्राप्त करके आप्तविद्वानों द्वारा अपना आचरण शुद्ध रक्खें ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(वर्चसा) तेजसा (माम्) (सम्)सम्यक् (अनक्तु) विख्यातं करोतु (अग्निः) ज्ञानमयः परमेश्वरः (मेधाम्) प्रज्ञाम् (विष्णुः) सर्वव्यापकः परमात्मा (नि) नियमेन (अनक्तु) प्रसिद्धं करोतु (आसन्)आसनि। आस्ये। मुखे (मे) मह्यम् (विश्वे) सर्वे (नि) निरन्तरम् (यच्छन्तु) दाण्दाने। ददतु (देवाः) उत्तमगुणाः (स्योनाः) सुखप्रदाः (मा) माम् (आपः)सर्वविद्याव्यापिनो विपश्चितः-दयानन्दभाष्ये, यजु० ६।१७। आप्ता विद्वांसः (पवनैः) शुद्धव्यवहारैः (पुनन्तु) शोधयन्तु ॥
@@ -904,15 +952,6 @@ May Agni balm me thoroughly with splendour; may Vishnu. touch my lips with under
 
 मित्रा᳓व᳓रुणाप᳓रि मा᳓मधातामादित्या᳓ मा स्व᳓रवो वर्धयन्तु।  
 व᳓र्चो म इ᳓न्द्रो न्य᳙नक्तुह᳓स्तयोर्जर᳓दष्टिं मा सविता᳓ कृणोतु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/12_mitrAvaruNApari_mAmadhAtAmAdityA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मि॒त्रावरु॑णा॒परि॒ माम॑धातामादि॒त्या मा॒ स्वर॑वो वर्धयन्तु।  
-वर्चो॑ म॒ इन्द्रो॒ न्य᳡नक्तु॒हस्त॑योर्ज॒रद॑ष्टिं मा सवि॒ता कृ॑णोतु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/12_mitrAvaruNApari_mAmadhAtAmAdityA.md">
@@ -939,14 +978,23 @@ cremation ceremony (81. 46), and at the beginning of the
 *piṇḍapitṛyajña* (87. 3); the comm. notices only the latter of the two  
 uses.
 </details>
+
 <details><summary>Griffith</summary>
 
 Mitra and Varuna have stood about me. Adityas, Sacirifical Posts exalt me! May Indra balm my hands with strength and splendour. A long, long life may Savitar vouchsafe me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मि॒त्रावरु॑णा॒परि॒ माम॑धातामादि॒त्या मा॒ स्वर॑वो वर्धयन्तु।  
+वर्चो॑ म॒ इन्द्रो॒ न्य᳡नक्तु॒हस्त॑योर्ज॒रद॑ष्टिं मा सवि॒ता कृ॑णोतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मि॒त्रावरु॑णा। परि॑। माम्। अ॒धा॒ता॒म्। आ॒दि॒त्याः। मा॒। स्वर॑वः। व॒र्ध॒य॒न्तु॒। वर्चः॑। मे॒। इन्द्रः॑। नि। अ॒न॒क्तु॒। हस्त॑योः। ज॒रत्ऽअ॒ष्टिम्। मा॒। स॒वि॒ता। कृ॒णो॒तु॒। ३.१२। 
+मि॒त्रावरु॑णा। परि॑। माम्। अ॒धा॒ता॒म्। आ॒दि॒त्याः। मा॒। स्वर॑वः। व॒र्ध॒य॒न्तु॒। वर्चः॑। मे॒। इन्द्रः॑। नि। अ॒न॒क्तु॒। हस्त॑योः। ज॒रत्ऽअ॒ष्टिम्। मा॒। स॒वि॒ता। कृ॒णो॒तु॒। ३.१२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -954,18 +1002,22 @@ Mitra and Varuna have stood about me. Adityas, Sacirifical Posts exalt me! May I
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मित्रावरुणा) स्नेहीऔर श्रेष्ठ दोनों [माता-पिता] ने (माम्) मुझे (परि) सब ओर से (अधाताम्) पुष्टकिया है, (आदित्याः) पृथिवी के (स्वरवः) जयस्तम्भ (मा) मुझे (वर्धयन्तु)बढ़ावें। (इन्द्रः) बड़े ऐश्वर्यवाला जगदीश्वर (मे) मेरे (हस्तयोः) दोनों हाथोंके (वर्चः) बल को (नि) नियम से (अनक्तु) प्रसिद्ध करे, (सविता) सर्वप्रेरकपरमात्मा (मा) मुझे (जरदष्टिम्) स्तुति के साथ प्रवृत्तिवाला (कृणोतु) करे ॥१२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिन लोगों के माता-पिता आदि बड़े लोग श्रेष्ठ आदि सच्चे प्रेमी होते हैं, वे ही विजयी होकर संसारमें कीर्ति पाते हैं और परमात्मा के अनुग्रह से अपने भुजबल द्वारा श्रेष्ठ कामोंमें प्रवृत्ति करते हैं ॥१२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १२−(मित्रावरुणा) स्नेहिश्रेष्ठपुरुषौ मातापितरौ (परि) सर्वतः (माम्) विद्यार्थिनम् (अधाताम्) धृतवन्तौ। पोषितवन्तौ (आदित्याः)अदिति-ण्य। अदितिः पृथिवीनाम-निघ० १।१। अदितेः पृथिव्या एते (मा) माम् (स्वरवः)शॄस्वृस्निहि०। उ० १।१०। स्वृ शब्दोपतापयोः-उ प्रत्ययः। जयस्तम्भाः (वर्धयन्तु)उन्नयन्तु (वर्चः) शुक्रम्। बलम् (मे) मम (इन्द्रः) परमैश्वर्यवान् परमेश्वरः (नि) नियमेन (अनक्तु) प्रसिद्धं करोतु (हस्तयोः) करयोः (जरदष्टिम्) म० ११।स्तुत्या सह प्रवृत्तिमन्तम् (मा) माम् (सविता) सर्वप्रेरकः परमात्मा (कृणोतु)करोतु ॥
@@ -979,15 +1031,6 @@ Mitra and Varuna have stood about me. Adityas, Sacirifical Posts exalt me! May I
 
 यो᳓ ममा᳓रप्रथमो᳓ म᳓र्त्यानां यः᳓ प्रेया᳓य प्रथमो᳓ लोक᳓मेत᳓म्।  
 वै᳙वस्वतं᳓ संग᳓मनंज᳓नानां यमं᳓ रा᳓जानं हवि᳓षा सपर्यत ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/13_yo_mamAraprathamo.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यो म॒मार॑प्रथ॒मो मर्त्या॑नां॒ यः प्रे॒याय॑ प्रथ॒मो लो॒कमे॒तम्।  
-वै॑वस्व॒तं सं॒गम॑नं॒जना॑नां य॒मं राजा॑नं ह॒विषा॑ सपर्यत ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/13_yo_mamAraprathamo.md">
@@ -1006,14 +1049,23 @@ good *jagatī* pāda⌋ **d**. For its use by Kāuś., with 2. 49, see under
 the latter; ⌊and especially my note to i. 49⌋. ⌊The verse is discussed  
 by Hillebrandt, *Ved. Mythol.* i. 491.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Worship with sacrificial gift King Yama, Vivasvan's son who gathers men together, Yama who was the first to die of mortals, the first who travelled to the world before us.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो म॒मार॑प्रथ॒मो मर्त्या॑नां॒ यः प्रे॒याय॑ प्रथ॒मो लो॒कमे॒तम्।  
+वै॑वस्व॒तं सं॒गम॑नं॒जना॑नां य॒मं राजा॑नं ह॒विषा॑ सपर्यत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। म॒मार॑। प्र॒थ॒मः। मर्त्या॑नाम्। यः। प्र॒ऽई॒याय॑। प्र॒थ॒मः। लो॒कम्। ए॒तम्। वै॒व॒स्व॒तम्। स॒म्ऽगम॑नम्। जना॑नाम्। य॒मम्। राजा॑नम्। ह॒विषा॑। स॒प॒र्य॒त॒। ३.१३। 
+यः। म॒मार॑। प्र॒थ॒मः। मर्त्या॑नाम्। यः। प्र॒ऽई॒याय॑। प्र॒थ॒मः। लो॒कम्। ए॒तम्। वै॒व॒स्व॒तम्। स॒म्ऽगम॑नम्। जना॑नाम्। य॒मम्। राजा॑नम्। ह॒विषा॑। स॒प॒र्य॒त॒। ३.१३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -1021,18 +1073,22 @@ Worship with sacrificial gift King Yama, Vivasvan's son who gathers men together
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्यो !] (यः)जो [मनुष्य] (मर्त्यानाम्) मनुष्यों के बीच (प्रथमः) मुख्य होकर (ममार) मर गया, और (यः) जो (प्रथमः) मुख्य होकर (एतम् लोकम्) इस लोक में (प्रेयाय) आगे बढ़ा। (वैवस्वतम्) उस मनुष्यों के हितकारी, (जनानाम्) मनुष्यों के (संगमनम्) मेलकरानेवाले (यमम्) न्यायकारी (राजानम्) राजा को (हविषा) भक्ति के साथ (सपर्यत)तुम पूजो ॥१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य सबके हित केलिये आत्मसमर्पण करके उन्नति करता जावे, सब मनुष्य उसके साथ सदा प्रीति करें॥१३॥इस मन्त्र का उत्तरार्द्ध आ चुका है-अ० १८।१।४९ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १३−(यः) मनुष्यः (ममार)मरणं प्राप्तवान्। आत्मानं समर्पितवान् (प्रथमः) मुख्यः सन् (मर्त्यानाम्)मनुष्याणां मध्ये (यः) (प्रेयाय) अग्रे गतवान्। प्राप्तवान् (प्रथमः) मुख्यः (लोकम्) संसारम् (एतम्) (वैवस्वतम्) विवस्वन्तो मनुष्यनाम-निघ० २।३। तस्मैहितम्। पा० ५।१।५। इत्यण्। विवस्वद्भ्यो मनुष्येभ्यो हितम् (संगमनम्) संगमयितारम् (जनानाम्) मनुष्याणाम् (यमम्) न्यायकारिणं मनुष्यम् (राजानम्) शासकम् (हविषा)भक्तिदानेन (सपर्यत) पूजयत ॥
@@ -1046,15 +1102,6 @@ Worship with sacrificial gift King Yama, Vivasvan's son who gathers men together
 
 प᳓रा यात पितर आ᳓च यातायं᳓ वो यज्ञो᳓ म᳓धुना स᳓मक्तः।  
 दत्तो᳓ अस्म᳓भ्यं द्र᳓विणेह᳓ भद्रं᳓रयिं᳓ च नः स᳓र्ववीरं दधात ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/14_parA_yAta.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-परा॑ यात पितर॒ आच॑ याता॒यं वो॑ य॒ज्ञो मधु॑ना॒ सम॑क्तः।  
-द॒त्तो अ॒स्मभ्यं॒ द्रवि॑णे॒ह भ॒द्रंर॒यिं च॑ नः॒ सर्व॑वीरं दधात ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/14_parA_yAta.md">
@@ -1077,14 +1124,23 @@ glosses *dráviṇā* by *draviṇam;* ⌊cf. my *Noun-Inflection*, p. 331, ¶
 Fathers are to go to their own world, and then to return when invoked to  
 their own sacrifice; and this is probably the sense.
 </details>
+
 <details><summary>Griffith</summary>
 
 Depart, O Fathers, and again come hither; this sacrifice of yours is balmed with sweetness. Enrich us here with gift of great possessions; grant blessed wealth with ample store of heroes.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+परा॑ यात पितर॒ आच॑ याता॒यं वो॑ य॒ज्ञो मधु॑ना॒ सम॑क्तः।  
+द॒त्तो अ॒स्मभ्यं॒ द्रवि॑णे॒ह भ॒द्रंर॒यिं च॑ नः॒ सर्व॑वीरं दधात ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परा॑। या॒त॒। पि॒त॒रः॒। आ। च॒। या॒त॒। अ॒यम्। वः॒। य॒ज्ञः। मधु॑ना। सम्ऽअ॑क्तः। द॒त्तो इति॑। अ॒स्मभ्य॑म्। द्रवि॑णा। इ॒ह। भ॒द्रम्। र॒यिम्। च॒। नः॒। सर्व॑ऽवीरम्। द॒धा॒त॒। ३.१४। 
+परा॑। या॒त॒। पि॒त॒रः॒। आ। च॒। या॒त॒। अ॒यम्। वः॒। य॒ज्ञः। मधु॑ना। सम्ऽअ॑क्तः। द॒त्तो इति॑। अ॒स्मभ्य॑म्। द्रवि॑णा। इ॒ह। भ॒द्रम्। र॒यिम्। च॒। नः॒। सर्व॑ऽवीरम्। द॒धा॒त॒। ३.१४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -1092,18 +1148,22 @@ Depart, O Fathers, and again come hither; this sacrifice of yours is balmed with
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पितरः) हे पितरो ! [पिता आदि रक्षक महात्माओ] (परा) प्रधानता से (यात) चलो, (च) और (आ यात) आओ, (वः)तुम्हारा (अयम्) ह (यज्ञः) पूजनीय व्यवहार (मधुना) विज्ञान के साथ (समक्तः)सर्वथा ख्यात है। (अस्मभ्यम्) हमको (इह) यहाँ पर (द्रविणा) अनेक धन और (भद्रम्)कल्याण (दत्तो) अवश्य देओ, (च) और (नः) हमें (सर्ववीरम्) सब वीरों को रखनेवाला (रयिम्) धन (दधात) धारण करो ॥१४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् माता-पिता आदि महापुरुष सन्तान आदि गृहस्थों से मिलकर उन को उपदेश करें कि जिस से वे लोगअनेक धनों को प्राप्त होकर वीर पुरुषों का आदर करते रहें ॥१४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १४−(परा)प्राधान्येन (यात) गच्छत (पितरः) हे पित्रादिमहात्मानः (च) (आयात) आगच्छत (अयम्)उपस्थितः (वः) युष्माकम् (यज्ञः) पूजनीयव्यवहारः (मधुना) विज्ञानेन (समक्तः) अञ्जूव्यक्तिम्रक्षणकान्तिगतिषु-क्त। सम्यग् व्यक्तीकृतः (दत्तो) दत्त-उ। प्रयच्छतैव (अस्मभ्यम्) द्रविणा धनानि (इह) (भद्रम्) कल्याणम् (रयिम्) धनम् (च) (नः)अस्मभ्यम् (सर्ववीरम्) सर्ववीरैरुपेतम् (दधात) धारयत ॥
@@ -1119,15 +1179,6 @@ Depart, O Fathers, and again come hither; this sacrifice of yours is balmed with
 विश्वा᳓मित्रोऽयं᳓ जम᳓दग्निर᳓त्रिर᳓वन्तु नः कश्य᳓पो वाम᳓देवः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/15_kaNvaHkaxIvAnpurumIDho_agastyaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-कण्वः॑क॒क्षीवा॑न्पुरुमी॒ढो अ॒गस्त्यः॑ श्या॒वाश्वः॒ सोभ॑र्यर्च॒नानाः॑।  
-वि॒श्वामि॑त्रो॒ऽयं ज॒मद॑ग्नि॒रत्रि॒रव॑न्तु नः क॒श्यपो॑ वा॒मदे॑वः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/15_kaNvaHkaxIvAnpurumIDho_agastyaH.md">
 <details open><summary><h3>१५ कण्वःकक्षीवान्पुरुमीढो अगस्त्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1140,14 +1191,23 @@ Archanānas, Viśvāmitra, Jamadagni here, Atri, Kaśyapa, Vāmadeva, aid us.
 The comm. amuses himself with giving etymologies for all these names,  
 only passing over Agastya and Sobharī as "evident" (*prasiddha*).
 </details>
+
 <details><summary>Griffith</summary>
 
 Kanva, Kakshivan, Purumidha, Agastya, Syavasva Sobhari, and Archananas, This Visvamitra, Jamadagni, Atri, Kasyapa, Vamadeva be our helpers!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+कण्वः॑क॒क्षीवा॑न्पुरुमी॒ढो अ॒गस्त्यः॑ श्या॒वाश्वः॒ सोभ॑र्यर्च॒नानाः॑।  
+वि॒श्वामि॑त्रो॒ऽयं ज॒मद॑ग्नि॒रत्रि॒रव॑न्तु नः क॒श्यपो॑ वा॒मदे॑वः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कण्वः॑। क॒क्षीवा॑न्। पु॒रु॒ऽमी॒ढः। अ॒गस्त्यः॑। श्या॒वऽअ॑श्वः। सोभ॑री। अ॒र्च॒नानाः॑। वि॒श्वामि॑त्रः। अ॒यम्। ज॒मत्ऽअ॑ग्निः। अ॑त्रिः। अव॑न्तु। नः॒। क॒श्यपः॑। वा॒मऽदे॑वः। ३.१५। 
+कण्वः॑। क॒क्षीवा॑न्। पु॒रु॒ऽमी॒ढः। अ॒गस्त्यः॑। श्या॒वऽअ॑श्वः। सोभ॑री। अ॒र्च॒नानाः॑। वि॒श्वामि॑त्रः। अ॒यम्। ज॒मत्ऽअ॑ग्निः। अ॑त्रिः। अव॑न्तु। नः॒। क॒श्यपः॑। वा॒मऽदे॑वः। ३.१५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -1155,18 +1215,22 @@ Kanva, Kakshivan, Purumidha, Agastya, Syavasva Sobhari, and Archananas, This Vis
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अयम्) यह (कण्वः)बुद्धिमान्, (कक्षीवान्) शासन करनेवाला, (पुरुमीढः) बड़ा धनी, (अगस्त्यः) पापनाशक, (श्यावाश्वः) ज्ञान में व्याप्तिवाला (सोभरी) ऐश्वर्य धारण करनेवाला, (अर्चनानाः) पूजनीय जीवनवाला, (विश्वामित्रः) सबका मित्र, (जमदग्निः) [शिल्प औरयज्ञ आदि में] अग्नि प्रकाश करनेवाला, (अत्रिः) सदा प्राप्ति योग्य, (कश्यपः)सूक्ष्मदर्शी, (वामदेवः) उत्तम व्यवहारवाला, [ये सब गुणी पुरुष] (नः) हमारी (अवन्तु) रक्षा करें ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  कर्मवीर बुद्धिमान्पुरुष संसार की रक्षा करने में सदा तत्पर रहें ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १५−(कण्वः) अ० ६।५२।३। मेधावी (कक्षीवान्) अ० ४।२९।५। शासनशीलः (पुरुमीढः) अ० ४।२९।४। बहुधनः (अगस्त्यः) अ०४।७।१। आतोऽनुपसर्गे कः। पा० ३।२।३। अग+स्त्यै ष्ट्यै शब्दसंघातयोः-क प्रत्ययः।अगस्य पापस्य संहन्ता नाशकः (श्यावाश्वः) अ० ४।२९।४। श्यैङ् गतौ-व+अशूव्याप्तौ-क्वन्। श्यावे ज्ञाने अश्वो व्याप्तिर्यस्य सः (सोभरी) षुप्रसवैश्वर्ययोः-विच्+भर-इनि। सोः ऐश्वर्यस्य भरो भरणं धारणं यस्य सः (अर्चनानाः) अर्चन+अन प्राणने-असुन्। अर्चनमर्चनीयम् अनो जीवनं यस्य सः (विश्वामित्रः) सर्वेषां मित्रम् (अयम्) (जमदग्निः) अ० ४।२९।३। जमन्तःप्रज्वलन्तोऽग्नयो यज्ञे शिल्पसिद्धौ वा यस्य सः (अत्रिः) अ० १३।२।४। अतसातत्यगमने-त्रिप्। सदा प्रापणीयो विज्ञानवान् (अवन्तु) रक्षन्तु (नः) अस्मान् (कश्यपः) अ० २।३३।७। पश्यकः सूक्ष्मदर्शी (वामदेवः) वामः प्रशस्यो देवोव्यवहारकुशलः ॥
@@ -1180,15 +1244,6 @@ Kanva, Kakshivan, Purumidha, Agastya, Syavasva Sobhari, and Archananas, This Vis
 
 वि᳓श्वामित्रज᳓मदग्ने व᳓सिष्ठ भ᳓रद्वाज गो᳓तम वा᳓मदेव।  
 शर्दि᳓र्नोअ᳓त्रिरग्रभीन्न᳓मोभिः सु᳓संशासः पि᳓तरो मृड᳓ता नः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/16_vishvAmitrajamadagne_vasiShTha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-विश्वा॑मित्र॒जम॑दग्ने॒ वसि॑ष्ठ॒ भर॑द्वाज॒ गोत॑म॒ वाम॑देव।  
-श॒र्दिर्नो॒अत्रि॑रग्रभी॒न्नमो॑भिः॒ सुसं॑शासः॒ पित॑रो मृ॒डता॑ नः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/16_vishvAmitrajamadagne_vasiShTha.md">
@@ -1245,14 +1300,23 @@ opinion: whoso doubts it, let him attempt "with moderate haste" to
 repeat aloud three times the simple English sentence "she sells  
 sea-shells."⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Vasishtha, Jamadagni, Visvamitra, Gotama, Vamadeva, Bhara- dvaja! Atri hath won your favour with homage. Gracious to us be ye praiseworthy Fathers.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+विश्वा॑मित्र॒जम॑दग्ने॒ वसि॑ष्ठ॒ भर॑द्वाज॒ गोत॑म॒ वाम॑देव।  
+श॒र्दिर्नो॒अत्रि॑रग्रभी॒न्नमो॑भिः॒ सुसं॑शासः॒ पित॑रो मृ॒डता॑ नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-विश्वा॑मित्र। जम॑त्ऽअग्ने। वसि॑ष्ठ। भर॑त्ऽवाज। गोत॑म। वाम॑ऽदेव। श॒र्दिः॑। नः॒। अत्रिः॑। अ॒ग्र॒भी॒त्। नमः॑ऽभिः। सुऽसं॑शासः। पित॑रः। मृ॒डत॑। नः॒। ३.१६। 
+विश्वा॑मित्र। जम॑त्ऽअग्ने। वसि॑ष्ठ। भर॑त्ऽवाज। गोत॑म। वाम॑ऽदेव। श॒र्दिः॑। नः॒। अत्रिः॑। अ॒ग्र॒भी॒त्। नमः॑ऽभिः। सुऽसं॑शासः। पित॑रः। मृ॒डत॑। नः॒। ३.१६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -1260,18 +1324,22 @@ Vasishtha, Jamadagni, Visvamitra, Gotama, Vamadeva, Bhara- dvaja! Atri hath won 
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (विश्वामित्र) हे सबकेमित्र ! (जमदग्ने) हे अग्नि के प्रकाश करनेवाले ! [शिल्प और यज्ञ में] (वसिष्ठ)हे अत्यन्त श्रेष्ठ ! (भरद्वाज) हे विज्ञान बल के धारण करनेवाले ! (गोतम) हेअतिशय स्तुति करनेवाले वा विद्या की कामना करनेवाले ! (वामदेव) हे श्रेष्ठव्यवहारवाले ! [यह तुम सब] (सुसंशासः) उत्तम रीति से सर्वथा शासन करनेवाले (पितरः) पितरो ! [रक्षक महात्माओ] (नः) हमें (मृडत) सुखी करो, (शर्दिः) विजयी (अत्रिः) प्राप्तियोग्य ज्ञानी पुरुष ने (नमोभिः) अन्नों के साथ (नः) हमें (अग्रभीत्) ग्रहण किया है ॥१६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  शूर वीर ज्ञानीमहात्मा लोग ही अन्न आदि से वृद्धि करके सब जीवों को सुख पहुँचावें॥१६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १६−(विश्वामित्र) हे सर्वमित्र (जमदग्ने) हे अग्निप्रकाशक (वसिष्ठ)वसु-ईष्ठन्। हे अतिशयेन श्रेष्ठ (भरद्वाज) हे विज्ञानधारक (गोतम) अ० ४।२९।६।गो-तमप्। गौः स्तोतृनाम-निघ० ३।१६। अतिशयेन स्तोता। यद्वा गौर्वाङ्नाम-निघ०१।११। गो+तमु काङ्क्षायाम्-पचाद्यच्। हे विद्याभिलाषिन् (वामदेव) हेप्रशस्यव्यवहारकुशल (शर्दिः) सर्वधातुभ्य इन्। उ० ४।११८।शृधु शब्दकुत्सायाम्, उन्दने प्रसहने च-इन् धस्य दः। शर्धोबलम्-निघ० २।९। प्रसोढा। अभिभवा। विजेता (अत्रिः) म० १५। प्राप्तियोग्यो विद्वान् (अग्रभीत्) अग्रहीत्। गृहीतवान् (नमोभिः) अन्नैः (सुसंशासः) सु+सम्+शासु अनुशिष्टौ-विट्। सुष्ठु सम्यक् शासकाः (पितरः) (मृडत) सुखयत (नः) अस्मान् ॥
@@ -1285,15 +1353,6 @@ Vasishtha, Jamadagni, Visvamitra, Gotama, Vamadeva, Bhara- dvaja! Atri hath won 
 
 कस्ये᳓ मृजानाअ᳓ति यन्ति रिप्र᳓मा᳓युर्द᳓धानाः प्रतरं᳓ न᳓वीयः।  
 आप्या᳓यमानाः प्रज᳓याध᳓नेना᳓ध स्याम सुरभ᳓यो गृहे᳓षु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/17_kasye_mRjAnAati.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-क॒स्ये मृ॑जाना॒अति॑ यन्ति रि॒प्रमायु॒र्दधा॑नाः प्रत॒रं नवी॑यः।  
-आ॒प्याय॑मानाः प्र॒जया॒धने॒नाध॑ स्याम सुर॒भयो॑ गृ॒हेषु॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/17_kasye_mRjAnAati.md">
@@ -1342,14 +1401,23 @@ a good deal earlier than the *nidhāna!*—However that may be, it does
 seem as if our *kasyé* might well mean the same thing as the *kumbha* or  
 *kalaśa* of the ritual authorities.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 They, making for themselves a new existence, wash off defilement in the brazen vessel. May we be fragrant in our houses, ever increasing in our children and our riches.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+क॒स्ये मृ॑जाना॒अति॑ यन्ति रि॒प्रमायु॒र्दधा॑नाः प्रत॒रं नवी॑यः।  
+आ॒प्याय॑मानाः प्र॒जया॒धने॒नाध॑ स्याम सुर॒भयो॑ गृ॒हेषु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क॒स्यै। मृ॒जानाः॑। अति॑। य॒न्ति॒। रि॒प्रम्। आयुः॑। दधा॑ना ः। प्र॒ऽत॒रम्। नवी॑यः। आ॒ऽप्याय॑मानाः। प्र॒ऽजया॑। धने॑न। अध॑। स्या॒म॒। सु॒र॒भयः॑। गृ॒हेषु॑। ३.१७। 
+क॒स्यै। मृ॒जानाः॑। अति॑। य॒न्ति॒। रि॒प्रम्। आयुः॑। दधा॑नाः। प्र॒ऽत॒रम्। नवी॑यः। आ॒ऽप्याय॑मानाः। प्र॒ऽजया॑। धने॑न। अध॑। स्या॒म॒। सु॒र॒भयः॑। गृ॒हेषु॑। ३.१७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -1357,18 +1425,22 @@ They, making for themselves a new existence, wash off defilement in the brazen v
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (कस्ये) [अपने] शासनमें (मृजानाः) शुद्ध करते हुए, (प्रतरम्) अधिक श्रेष्ठ और (नवीयः) अधिक नवीन (आयुः) जीवन (दधानाः) धारण करते हुए लोग (रिप्रम्) पाप को (अति) उलाँघ कर (यन्ति) चलते हैं (अध) फिर (प्रजया) प्रजा [सन्तान आदि] से और (धनेन) धन से (आप्यायमानाः) बढ़ते हुए (गृहेषु) घरों में हम (सुरभयः) ऐश्वर्यवान् (स्याम)होवें ॥१७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को उचित हैकि शासक शुद्धाचारी निष्पाप महात्माओं के जीवन को विचार कर अपने को और अपनीप्रजा अर्थात् सन्तान और राज्य जनों को धनी और ऐश्वर्यवान् बनावें॥१७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १७−(कस्ये) अघ्न्यादयश्च। उ० ४।११२। कस गतिशासनयोः-यक्। ज्ञाने। शासने (मृजानाः) शोधकाः (अति) अतीत्य। उल्लङ्घ्य (यन्ति) गच्छन्ति (रिप्रम्)लीरीङोर्ह्रस्वः पुट् च तरौ श्लेषणकुत्सनयोः। उ०। ५।५५। रीङ् स्रवणे-र प्रत्ययःकुत्सने धातोर्ह्रस्वत्वं पुट् च प्रत्ययस्य। रपो रिप्रमिति पापनामनी भवतः-निरु०४।२१। पापं कष्टम् (आयुः) जीवनम् (दधानाः) धारयन्तः (प्रतरम्) अधिकश्रेष्ठम् (नवीयः) नव-ईयसुन्। नवीनतरम् (आप्यायमानाः) प्रवर्धमानाः (प्रजया)सन्तानराज्यजनरूपया (धनेन) (अध) अथ (स्याम) (सुरभयः) अ० १२।१।२३। षुरऐश्वर्यदीप्त्योः-अभिच्। ऐश्वर्यवन्तः (गृहेषु) निवासेषु ॥
@@ -1382,15 +1454,6 @@ They, making for themselves a new existence, wash off defilement in the brazen v
 
 अञ्ज᳓तेव्य᳙ञ्जते स᳓मञ्जते क्र᳓तुं रिहन्ति म᳓धुनाभ्य᳙ञ्जते।  
 सि᳓न्धोरुच्छ्वासे᳓पत᳓यन्तमुक्ष᳓णं हिरण्यपावाः᳓ पशु᳓मासु गृह्णते ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/18_anjatevyanjate_samanjate.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒ञ्जते॒व्य᳡ञ्जते॒ सम॑ञ्जते॒ क्रतुं॑ रिहन्ति॒ मधु॑ना॒भ्य᳡ञ्जते।  
-सिन्धो॑रुच्छ्वा॒सेप॒तय॑न्तमु॒क्षणं॑ हिरण्यपा॒वाः प॒शुमा॑सु गृह्णते ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/18_anjatevyanjate_samanjate.md">
@@ -1419,14 +1482,23 @@ character whatever, and by count it is *virāj* rather than *bhurij;* but
 perhaps the Anukr. (see note to the excerpts from Anukr.) does not mean  
 to call it *bhurij*.
 </details>
+
 <details><summary>Griffith</summary>
 
 They balm him, balm him over, balm him thoroughly, caress the mighty power and balm it with the mead, They seize the flying steer at the stream's breathing-place: cleansing with gold they grasp the animal herein.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ञ्जते॒व्य᳡ञ्जते॒ सम॑ञ्जते॒ क्रतुं॑ रिहन्ति॒ मधु॑ना॒भ्य᳡ञ्जते।  
+सिन्धो॑रुच्छ्वा॒सेप॒तय॑न्तमु॒क्षणं॑ हिरण्यपा॒वाः प॒शुमा॑सु गृह्णते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ञ्जते॑। वि। अ॒ञ्ज॒ते॒। सम्। अ॒ञ्ज॒ते॒। क्रतु॑म्। रि॒ह॒न्ति॒। मधु॑ना। अ॒भि। अ॒ञ्ज॒ते॒। सिन्धोः॑। उ॒त्ऽश्वा॒से। प॒तय॑न्तम्। उ॒क्षण॑म्। हि॒र॒ण्य॒ऽपा॒वाः। प॒शुम्। आ॒सु॒। गृ॒ह्ण॒ते॒। ३.१८। 
+अ॒ञ्जते॑। वि। अ॒ञ्ज॒ते॒। सम्। अ॒ञ्ज॒ते॒। क्रतु॑म्। रि॒ह॒न्ति॒। मधु॑ना। अ॒भि। अ॒ञ्ज॒ते॒। सिन्धोः॑। उ॒त्ऽश्वा॒से। प॒तय॑न्तम्। उ॒क्षण॑म्। हि॒र॒ण्य॒ऽपा॒वाः। प॒शुम्। आ॒सु॒। गृ॒ह्ण॒ते॒। ३.१८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - जगती
@@ -1434,18 +1506,22 @@ They balm him, balm him over, balm him thoroughly, caress the mighty power and b
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (हिरण्यपावाः) तेज [वासुवर्ण आदि धन] के रक्षक लोग (क्रतुम्) कर्म [वा बुद्धि] को (मधुना) विज्ञान केसाथ (अञ्जते) शुद्ध करते हैं, (वि अञ्जते) विख्यात करते हैं, (सम्) मिलकर (अञ्जते) प्राप्त करते हैं, (अभि अञ्जते) सब ओर फैलाते हैं और (रिहन्ति) सराहतेहैं। (सिन्धोः) समुद्र के (उच्छ्वासे) बढ़ाव में (पतयन्तम्) जाते हुए (उक्षणम्)वृद्धि करनेवाले (पशुम्) दृष्टिवाले प्राणी को (आसु) इन [प्रजाओं] के बीच (गृह्णते) गहते हैं [सहारा देते हैं] ॥१८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  प्रतापी, धनी, विज्ञानी, महात्मा पुरुष शुभ कर्मों और ज्ञानों को संसार में फैलावें और समुद्रवा आकाश आदि कठिन स्थानों में जानेवाले उद्योगी दृष्टिमान् पुरुषों को सब लोगोंके बीच सहाय करें ॥१८॥यह मन्त्र कुछ भेद से ऋग्वेद में है−९।८६।४३। और सामवेदमें है−पू० ६।७।११ तथा उ० ७।३।२१ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १८−(अञ्जते) अञ्जूव्यक्तिम्रक्षणकान्तिगतिषु। शोधयन्ति (व्यञ्जते) विख्यातं कुर्वन्ति (सम्)संगत्य (अञ्जते) गच्छन्ति। प्राप्नुवन्ति (क्रतुम्) कर्म-निघ० २।१।प्रज्ञाम्-निघ० ३।९ (रिहन्ति) अर्चन्ति-निघ० ३।१४। स्तुवन्ति (मधुना) विज्ञानेन (अभि) सर्वतः (अञ्जते) विस्तारयन्ति। प्रकटयन्ति (उच्छ्वासे) उद्गमे (पतयन्तम्)पत गतौ चुरादिरदन्तः-शतृ। गच्छन्तम् (उक्षणम्) उक्ष वृद्धौ-कनिन्। उक्षणउक्षतेर्वृद्धिकर्मणः-निरु० १२।९। वृद्धिकर्तारम् (हिरण्यपावाः) कॄगॄशॄदॄभ्यो वः।उ० १।१५५। हिरण्य+पा रक्षणे-व प्रत्ययः। हिरण्यस्य तेजसः सुवर्णादिधनस्य वारक्षकाः (पशुम्) अर्जिदृशिकम्यमि०। उ० १।२७। दृशिर् प्रेक्षणे-कु। पशुःपश्यतेः-निरु० ३।१६। द्रष्टारं जीवम् (आसु) दृश्यमानासु प्रजासु (गृह्णते)गृह्णन्ति ॥
@@ -1459,15 +1535,6 @@ They balm him, balm him over, balm him thoroughly, caress the mighty power and b
 
 य᳓द्वो मुद्रं᳓पितरः सोम्यं᳓ च ते᳓नो सचध्वं स्व᳓यशसो हि᳓ भूत᳓।  
 ते᳓ अर्वाणः कवय आ᳓ शृणोतसुविद᳓त्रा विद᳓थे हूय᳓मानाः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/19_yadvo_mudrampitaraH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यद्वो॑ मु॒द्रंपि॑तरः सो॒म्यं च॒ तेनो॑ सचध्वं॒ स्वय॑शसो॒ हि भू॒त।  
-ते अ॑र्वाणः कवय॒ आ शृ॑णोतसुवि॒दत्रा॑ वि॒दथे॑ हू॒यमा॑नाः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/19_yadvo_mudrampitaraH.md">
@@ -1498,14 +1565,23 @@ change *arvāṇas* in **c** to *arvāñcas*. The extra syllable in **b**
 suggests corruption; ⌊and so, perhaps, does the fact that in O.R. the  
 avasāna is before *bhūtám*, not after it⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 Fathers, be glorious in yourselves, and follow all that is glad in you and meet for Soma. Give ear and listen, swiftly-moving Sages, benevolent, invoked in our assembly.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्वो॑ मु॒द्रंपि॑तरः सो॒म्यं च॒ तेनो॑ सचध्वं॒ स्वय॑शसो॒ हि भू॒त।  
+ते अ॑र्वाणः कवय॒ आ शृ॑णोतसुवि॒दत्रा॑ वि॒दथे॑ हू॒यमा॑नाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। वः॒। मु॒द्रम्। पि॒त॒रः॒। सो॒म्यम्। च॒। ते॒नो॒ इति॑। स॒च॒ध्व॒म्। स्वऽय॑शसः। हि। भू॒त। ते। अ॒र्वा॒णः॒। क॒व॒यः॒। आ। शृ॒णो॒त॒। सु॒ऽवि॒द॒त्राः। वि॒दथे॑। हू॒यमा॑नाः। ३.१९। 
+यत्। वः॒। मु॒द्रम्। पि॒त॒रः॒। सो॒म्यम्। च॒। ते॒नो॒ इति॑। स॒च॒ध्व॒म्। स्वऽय॑शसः। हि। भू॒त। ते। अ॒र्वा॒णः॒। क॒व॒यः॒। आ। शृ॒णो॒त॒। सु॒ऽवि॒द॒त्राः। वि॒दथे॑। हू॒यमा॑नाः। ३.१९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -1513,18 +1589,22 @@ Fathers, be glorious in yourselves, and follow all that is glad in you and meet 
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पितरः) हे पितरो ! [रक्षक महात्माओ] (यत्) जो कुछ [कर्म] (वः) तुम्हारा (मुद्रम्) हर्षदायक (च) और (सोम्यम्) सोम्य [प्रियदर्शन उत्तम गुणयुक्त] है, (तेनो) उससे ही [हमें] (सचध्वम्) तुम सींचो [बढ़ाओ] और (हि) अवश्य (स्वयशसः) अपने आप यशवाले (भूत) होओ। (अर्वाणः) शीघ्रगामी, (कवयः) बुद्धिमान्, (सुविदत्राः) बड़े धनी और (विदथे)ज्ञानसमाज में (हूयमानाः) पुकारे गये (ते) वे तुम (आ) आकर (शृणोत) सुनो ॥१९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् महात्मा लोगअपने शान्तिदायक कर्मों से संसार की रक्षा करके यशस्वी होवें ॥१९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १९−(यत्) यत्किञ्चित् कर्म (वः) युष्माकम् (मुद्रम्) स्फायितञ्चिवञ्चि०। उ० २।१३। मुदहर्षे-रक्। हर्षकरम् (पितरः) हे रक्षकाः पित्रादयः (सोम्यम्) प्रियदर्शनम्।उत्तमगुणविशिष्टम् (च) (तेनो) तेन-उ। तेनैव कर्मणा (सचध्वम्) षच समवाये सेचने च।संगच्छध्वम्। सिञ्चत (स्वयशसः) आत्मयशस्विनः (हि) अवश्यम् (भूत) भवत (ते) तेयूयम् (अर्वाणः) ऋ गतौ-वनिप्। विज्ञानिनः। शीघ्रगामिनः (कवयः) मेधाविनः (आ)आगत्य (शृणोत) शृणुत (सुविदत्राः) बहुधनाः (विदथे) ज्ञानसमाजे (हूयमानाः) ॥
@@ -1540,15 +1620,6 @@ Fathers, be glorious in yourselves, and follow all that is glad in you and meet 
 द᳓क्षिणावन्तः सुकृ᳓तो य᳓उ स्था᳓स᳓द्यास्मि᳓न्बर्हि᳓षि मादयध्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/20_ye_atrayoangiraso.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ये अत्र॑यो॒अङ्गि॑रसो॒ नव॑ग्वा इ॒ष्टाव॑न्तो राति॒षाचो॒ दधा॑नाः।  
-दक्षि॑णावन्तः सु॒कृतो॒ यउ॒ स्थासद्या॒स्मिन्ब॒र्हिषि॑ मादयध्वम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/20_ye_atrayoangiraso.md">
 <details open><summary><h3>२० ये अत्रयोअङ्गिरसो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1562,14 +1633,23 @@ sacrificial fees, well-doing—do ye revel, sitting on this *barhís*.
 The meaning of some of these epithets is not altogether clear. No use is  
 made of the verse in the *sūtras*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Atris, Angirases, Navagvas, givers of liberal gifts, continual sacrificers, Devout and pious, granting guerdon freely, sit on this holy grass and be ye joyful.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये अत्र॑यो॒अङ्गि॑रसो॒ नव॑ग्वा इ॒ष्टाव॑न्तो राति॒षाचो॒ दधा॑नाः।  
+दक्षि॑णावन्तः सु॒कृतो॒ यउ॒ स्थासद्या॒स्मिन्ब॒र्हिषि॑ मादयध्वम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। अत्र॑यः। अङ्गि॑रसः। नव॑ऽग्वाः। इ॒ष्टऽव॑न्तः। रा॒ति॒ऽसाचः॑। दधा॑नाः। दक्षि॑णाऽवन्तः। सुऽकृतः॑। ये। ऊं॒ इति॑। स्थ। आ॒ऽसद्य॑। अ॒स्मिन्। ब॒र्हिषि॑। मा॒द॒य॒ध्व॒म्। ३.२०। 
+ये। अत्र॑यः। अङ्गि॑रसः। नव॑ऽग्वाः। इ॒ष्टऽव॑न्तः। रा॒ति॒ऽसाचः॑। दधा॑नाः। दक्षि॑णाऽवन्तः। सुऽकृतः॑। ये। ऊं॒ इति॑। स्थ। आ॒ऽसद्य॑। अ॒स्मिन्। ब॒र्हिषि॑। मा॒द॒य॒ध्व॒म्। ३.२०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -1577,18 +1657,22 @@ Atris, Angirases, Navagvas, givers of liberal gifts, continual sacrificers, Devo
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ये) जो तुम (अत्रयः)सदा प्राप्तियोग्य, (अङ्गिरसः) ज्ञानवान्, (नवग्वाः) स्तुतियोग्य चलनेवाले, (इष्टवन्तः) यज्ञ, तप, वेदाध्ययन आदि वाले, (रातिषाचः) दानों की वर्षा करनेवालेऔर (दधानाः) पोषण करनेवाले [हो]। (उ) और (ये) जो तुम (दक्षिणावन्तः) दक्षिणा [प्रतिष्ठा के दान] वाले (सुकृतः) सुकर्मी जन (स्थ) हो, वे तुम (अस्मिन्) इस (बर्हिषि) उत्तम आसन पर (आसद्य) बैठकर (मादयध्वम्) आनन्द करो ॥२०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो विद्वान् महर्षिविद्याप्रचारक धर्मात्मा और बहु प्रतिष्ठित होवें, गृहस्थ आदि लोग सत्कार करकेउनको प्रसन्न करें ॥२०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २०−(ये) यूयम् (अत्रयः) सदा प्राप्तव्याः (अङ्गिरसः) अगिगतौ-असि, इरुडागमः। ज्ञानिनः (नवग्वाः) अ० १४।१।५६। णु स्तुतौ-अप्+गम्लृ गतौ−ड्वप्रत्ययः। स्तोतव्यचरित्राः (इष्टवन्तः) अ० २।१२।३। यज्ञतपोवेदाध्ययनादिमन्तः (रातिषाचः) भजो ण्विः। पा० ३।२।६२। इति बाहुलकात् षच सेचने−ण्वि। धनानांवर्षयितारः (दधानाः) पोषणं कुर्वाणाः (दक्षिणावन्तः) प्रतिष्ठादानोपेताः (सुकृतः) सुकर्माणः (ये) (उ) चार्थे (स्थ) भवथ (आसद्य) उपविश्य (अस्मिन्) (बर्हिषि) उत्तमासने (मादयध्वम्) हृष्टा भवत ॥
@@ -1602,15 +1686,6 @@ Atris, Angirases, Navagvas, givers of liberal gifts, continual sacrificers, Devo
 
 अ᳓धा य᳓था नःपित᳓रः प᳓रासः प्रत्ना᳓सो अग्न ऋत᳓माशशानाः᳓।  
 शु᳓ची᳓दयन्दी᳓ध्यत उक्थशा᳓सःक्षा᳓मा भिन्द᳓न्तो अरुणी᳓र᳓प व्रन् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/21_adhA_yathA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अधा॒ यथा॑ नःपि॒तरः॒ परा॑सः प्र॒त्नासो॑ अग्न ऋ॒तमा॑शशा॒नाः।  
-शुचीद॑य॒न्दीध्य॑त उक्थ॒शासः॒क्षामा॑ भि॒न्दन्तो॑ अरु॒णीरप॑ व्रन् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/21_adhA_yathA.md">
@@ -1634,14 +1709,23 @@ from the Paṇis⌋.—\*⌊Whitney's ms. reads "they shone": this is probably
 an oversight and should be "shining"; his Bp., to be sure, but Bp.  
 alone, has *dī́dhyata*, not *-taḥ*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 As in the days of old our ancient Fathers, speeding the work of sacred worship, Agni! Sought pure light and devotion, singing praises, they cleft the ground and made red Dawns apparent.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अधा॒ यथा॑ नःपि॒तरः॒ परा॑सः प्र॒त्नासो॑ अग्न ऋ॒तमा॑शशा॒नाः।  
+शुचीद॑य॒न्दीध्य॑त उक्थ॒शासः॒क्षामा॑ भि॒न्दन्तो॑ अरु॒णीरप॑ व्रन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अध॑। यथा॑। नः॒। पि॒तरः॑। परा॑सः। प्र॒त्नासः॑। अ॒ग्ने॒। ऋ॒तम्। आ॒ऽश॒शा॒नाः। शुचि॑। इत्। अ॒य॒न्। दीध्य॑तः। उ॒क्थ॒ऽशसः॑। क्षाम॑। भि॒न्दन्तः॑। अ॒रु॒णीः। अप॑। व्र॒न्। ३.२१। 
+अध॑। यथा॑। नः॒। पि॒तरः॑। परा॑सः। प्र॒त्नासः॑। अ॒ग्ने॒। ऋ॒तम्। आ॒ऽश॒शा॒नाः। शुचि॑। इत्। अ॒य॒न्। दीध्य॑तः। उ॒क्थ॒ऽशसः॑। क्षाम॑। भि॒न्दन्तः॑। अ॒रु॒णीः। अप॑। व्र॒न्। ३.२१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -1649,18 +1733,22 @@ As in the days of old our ancient Fathers, speeding the work of sacred worship, 
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे विद्वान् ! (अध) फिर (यथा) जैसे (नः) हमारे (परासः) उत्तम (प्रत्नासः) प्राचीन (पितरः) पितर [रक्षक महात्मा] (ऋतम्) सत्य धर्म को (आशशानाः) अच्छे प्रकार सूक्ष्म करनेवाले [हुए हैं] [वैसे ही] (दीध्यतः) प्रकाशमान, (उक्थशासः) प्रशंसनीय कर्मों कीस्तुति करनेवालों ने (शुचि) पवित्र कर्म को (इत्) ही (अयन्) प्राप्त किया है, और (क्षाम) हानि को (भिन्दन्तः) तोड़ते हुए उन्होंने (अरुणीः) प्राप्तियोग्यक्रियाओं को वैसे ही (अपव्रन्) खोला है ॥२१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस प्रकार पहिलेविद्वान् लोग पिता आदि महात्माओं का अनुकरण करके विघ्नों को हटा कर उपकारी कामोंका प्रचार करते आये हैं, वैसे ही सब विद्वानों को करना चाहिये ॥२१॥मन्त्र २१-२३कुछ भेद से ऋग्वेद में हैं−४।२।१६-१८ और यह मन्त्र कुछ भेद से यजुर्वेद में भीहै−१९।६९ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २१−(अध) अथ। अनन्तरम् (यथा) येन प्रकारेण (नः) अस्माकम् (पितरः) (परासः) पराः। उत्कृष्टाः (प्रत्नासः) प्रत्नाः। प्राचीनाः (अग्ने) हे विद्वन् (ऋतम्) सत्यधर्मम् (आशशानाः) आङ्+शो तनूकरणे यद्वा शश प्लुतगतौ-कानच्।सूक्ष्मीकुर्वाणाः (शुचि) पवित्रं कर्म (इत्) एव (अयन्) इण् गतौ-लङ्।प्राप्तवन्तः (उक्थशासः) मन्त्रे श्वेतवहोक्थशस्पुरोडाशो ण्विन्। पा० ३।२।७१।उक्थ+शंसु स्तुतौ−ण्विन्, नकारलोपः, पदकाले ह्रस्वश्छान्दसः। उक्थ्यानांप्रशंसनीयकर्मणां शंसितारः स्तोतारः (क्षाम) सर्वधातुभ्यो मनिन्। उ० ४।१४५। क्षैक्षये-मनिन्। क्षयम्। हानिम् (भिन्दन्तः) छिन्दन्तः। विदारयन्तः (अरुणीः)अर्तेश्च। उ० ३।६०। ऋ गतौ-उनन् चित्, ङीप्। प्राप्तव्याः क्रियाः (अप व्रन्)वृणोतेर्लुङ्। मन्त्रे घसह्वरणशवृ०। मा० २।४।८०। इति च्लेर्लुक्। अपावृण्वन्।प्रकाशितवन्तः ॥
@@ -1674,15 +1762,6 @@ As in the days of old our ancient Fathers, speeding the work of sacred worship, 
 
 सुक᳓र्माणःसुरु᳓चो देवय᳓न्तो अ᳓यो न᳓ देवा᳓ ज᳓निमा ध᳓मन्तः।  
 शुच᳓न्तो अग्निं᳓वावृध᳓न्त इ᳓न्द्रमुर्वीं᳓ ग᳓व्यां परिष᳓दं नो अक्रन् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/22_sukarmANaHsurucho_devayanto.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सु॒कर्मा॑णःसु॒रुचो॑ देव॒यन्तो॒ अयो॒ न दे॒वा जनि॑मा॒ धम॑न्तः।  
-शु॒चन्तो॑ अ॒ग्निंवा॑वृ॒धन्त॒ इन्द्र॑मु॒र्वीं गव्यां॑ परि॒षदं॑ नो अक्रन् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/22_sukarmANaHsurucho_devayanto.md">
@@ -1703,14 +1782,23 @@ pariṣádanto agman;* its *pada*-text in **b** reads ⌊jánima like ours⌋.
 and the whole verse as a parallel to vs. 23, where the phrase *devā́nāṁ  
 jánimā* occurs in full.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Gods, doing holy acts, devout, resplendent, smelting like ore their human generation, Brightening Agni and exalting Indra, they came encompassing the stall of cattle.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सु॒कर्मा॑णःसु॒रुचो॑ देव॒यन्तो॒ अयो॒ न दे॒वा जनि॑मा॒ धम॑न्तः।  
+शु॒चन्तो॑ अ॒ग्निंवा॑वृ॒धन्त॒ इन्द्र॑मु॒र्वीं गव्यां॑ परि॒षदं॑ नो अक्रन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सु॒ऽकर्मा॑णः। सु॒ऽरुचः॑। दे॒व॒ऽयन्तः॑। अयः॑। न। दे॒वाः। जनि॑म। धम॑न्तः। शु॒चन्तः॑। अ॒ग्निम्। व॒वृ॒धन्तः॑। इन्द्र॑म्। उ॒र्वीम्। गव्या॑म्। प॒रि॒ऽसद॑म्। नः॒। अ॒क्र॒न्। ३.२२। 
+सु॒ऽकर्मा॑णः। सु॒ऽरुचः॑। दे॒व॒ऽयन्तः॑। अयः॑। न। दे॒वाः। जनि॑म। धम॑न्तः। शु॒चन्तः॑। अ॒ग्निम्। व॒वृ॒धन्तः॑। इन्द्र॑म्। उ॒र्वीम्। गव्या॑म्। प॒रि॒ऽसद॑म्। नः॒। अ॒क्र॒न्। ३.२२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -1718,18 +1806,22 @@ Gods, doing holy acts, devout, resplendent, smelting like ore their human genera
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सुकर्माणः) पुण्यकर्मकरनेवाले, (सुरुचः) बड़ी प्रीतिवाले, (देवयन्तः) उत्तम गुणों को चाहनेवाले, (अयःन) सुवर्ण के समान (जनिम) जन्म [जीवन] को (धमन्तः) [धमन रूप तप से] शुद्ध करतेहुए, (अग्निम्) अग्नि [शारीरिक और आत्मिक बल] को (शुचन्तः) प्रकाशित करते हुएऔर (इन्द्रम्) ऐश्वर्य को (वावृधन्तः) बढ़ाते हुए (देवाः) विद्वानों ने (नः)हमारे लिये (उर्वीम्) विस्तृत, (गव्याम्) वाणीमय (परिषदम्) परिषद [सभा] (अक्रन्)बनाई है ॥२२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  पवित्र वेदों के विचारसे पुण्यात्मा पुरुषों ने ब्रह्मचर्य आदि तप द्वारा संसार में हमारी उन्नति केअनेक मार्ग दिखाये हैं, उसी प्रकार हम लोग भी स्वाध्याय आदि से अपना जन्म उच्चबनावें ॥२२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २२−(सुकर्माणः) पुण्यकर्मकर्तारः (सुरुचः) बहुप्रीतयः (देवयन्तः)देवान् शुभगुणान् कामयमानाः (अयः) अयो हिरण्यनाम-निघ० १।२। सुवर्णम् (न) यथा (देवाः) विद्वांसः (जनिम) जन्म। जीवनम् (धमन्तः) ध्मा शब्दाग्निसंयोगयोः-शतृ।धमनेन शोधयन्तः। तपसा निर्मलीकृतवन्तः (शुचन्तः) दीपयन्तः (अग्निम्) तेजः।शारीरिकात्मिकबलमित्यर्थः (वावृधन्तः) वर्धयन्तः (इन्द्रम्) ऐश्वर्यम् (उर्वीम्)विस्तृताम् (गव्याम्) वाङ्मयाम्। विद्यायुक्ताम् (परिषदम्) सभाम् (नः) अस्मभ्यम् (अक्रन्) करोतेर्लुङ्। मन्त्रे घसह्वरणशवृ०। पा० २।४।८०। इति च्लेर्लुक्।अकार्षुः ॥
@@ -1743,15 +1835,6 @@ Gods, doing holy acts, devout, resplendent, smelting like ore their human genera
 
 आ᳓ यूथे᳓वक्षुम᳓ति पश्वो᳓ अख्यद्देवा᳓नां ज᳓निमा᳓न्त्युग्रः᳓।  
 म᳓र्तासश्चिदुर्व᳓शी᳓रकृप्रन्वृधे᳓ चिदर्य᳓ उ᳓परस्यायोः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/23_A_yUthevaxumati.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आ यू॒थेव॑क्षु॒मति॑ प॒श्वो अ॑ख्यद्दे॒वानां॒ जनि॒मान्त्यु॒ग्रः।  
-मर्ता॑सश्चिदु॒र्वशीर॑कृप्रन्वृ॒धे चि॑द॒र्य उप॑रस्या॒योः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/23_A_yUthevaxumati.md">
@@ -1797,14 +1880,23 @@ goddess Cloud, produces the celestial fire, so the fire-drills (called
 *urváśīs*) produce for mortals the terrestrial sacrificial fire (*úpara  
 āyú*).
 </details>
+
 <details><summary>Griffith</summary>
 
 Strong One! he marked them, and the gods before them, like herds of cattle in a foodful pasture. There man moaned forth their strong desires, to strengthen even the true; the nearest One, the living.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ यू॒थेव॑क्षु॒मति॑ प॒श्वो अ॑ख्यद्दे॒वानां॒ जनि॒मान्त्यु॒ग्रः।  
+मर्ता॑सश्चिदु॒र्वशीर॑कृप्रन्वृ॒धे चि॑द॒र्य उप॑रस्या॒योः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। यू॒थाऽइ॑व। क्षु॒ऽमति॑। प॒श्वः। अ॒ख्य॒त्। दे॒वाना॑म्। जनि॑म। अन्ति॑। उ॒ग्रः। मर्ता॑सः। चि॒त्। उ॒र्वशीः॑। अ॒कृ॒प्र॒न्। वृ॒धे। चि॒त्। अ॒र्यः। उप॑रस्य। आ॒योः। ३.२३। 
+आ। यू॒थाऽइ॑व। क्षु॒ऽमति॑। प॒श्वः। अ॒ख्य॒त्। दे॒वाना॑म्। जनि॑म। अन्ति॑। उ॒ग्रः। मर्ता॑सः। चि॒त्। उ॒र्वशीः॑। अ॒कृ॒प्र॒न्। वृ॒धे। चि॒त्। अ॒र्यः। उप॑रस्य। आ॒योः। ३.२३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सतः पङ्क्ति
@@ -1812,18 +1904,22 @@ Strong One! he marked them, and the gods before them, like herds of cattle in a 
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उग्रः) तेजस्वी पुरुषने (क्षुमति) अन्न [घास आदि] वाले स्थान में (पश्वः) पशुओं के (यूथा इव) यूथोंके समान (देवानाम्) विद्वानों के (जनिम) जन्म [जीवन] को (अन्ति) समीप से (आ) सबप्रकार (अख्यत्) देखा है। (मर्तासः) मनुष्यों ने (चित्) भी (उर्वशीः) बहुत फैलीहुई क्रियाओं को (अकृप्रन्) विचारा है, (चित्) जैसे (अर्यः) वैश्य (उपरस्य)समीपस्थ (आयोः) आयु की (वृधे) बढ़ती के लिये [विचारता है] ॥२३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  प्रतापी बुद्धिमान्पुरुष विद्वानों के आचरणों को इस प्रकार ध्यान से देखता है, जैसे ग्वाला चरतेहुए पशुओं को इधर-उधर जाने से रोक कर देखता रहता है। और जैसे वैश्य अपने आप कीउन्नति सोचता है, वैसे ही सब मनुष्य उत्तम विद्याओं और क्रियाओं का प्रचार करें॥२३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २३−(आ) समन्तात् (यूथा) यूथानि। समूहान् (क्षुमति) क्षु, अन्नम्-निघ० २।७।अन्नवति। तृणयुक्ते स्थाने (पश्वः) बहुवचनस्यैकवचनम्। पशोः। पशूनाम् (अख्यत्)चक्षिङ् दर्शने। अदर्शत् (देवानाम्) विदुषाम् (जनिम) जन्म। जीवनम् (अन्ति)अन्तिकम्। समीपे (उग्रः) तेजस्वी मनुष्यः, (मर्तासः) मनुष्याः (चित्) अपि (उर्वशीः) उरु+अशूङ् व्याप्तौ-क, गौरादित्वाद् ङीष्। उर्वशी पदनाम-निघ० ४।२। तथा५।५। बहुव्यापिकाः क्रियाः (अकृप्रन्) कृपू सामर्थ्ये कल्पने च-लुङि च्लेः अङ्आदेशः। बहुलं छन्दसि। पा० ७।१।८। इति रुडागमः। कल्पनया समर्थितवन्तः। विचारितवन्तः (वृधे) वर्धनाय (चित्) यथा (उपरस्य) उप+रमु क्रीडायाम्-ड। समीपस्थस्य (अर्यः)अर्यः स्वामिवैश्ययोः। पा० ३।१।१०३। ऋ गतौ-यत्। वैश्यः (आयोः) छन्दसीणः। उ० १।२।इण् गतौ-उण्। गतस्य। लब्धस्य। आयस्य ॥
@@ -1837,15 +1933,6 @@ Strong One! he marked them, and the gods before them, like herds of cattle in a 
 
 अ᳓कर्म तेस्व᳓पसो अभूम ऋत᳓मवस्रन्नुष᳓सो विभातीः᳓।  
 वि᳓श्वं त᳓द्भद्रं᳓ य᳓द᳓वन्ति देवा᳓बृह᳓द्वदेम विद᳓थे सुवी᳓राः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/24_akarma_tesvapaso.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अक॑र्म ते॒स्वप॑सो अभूम ऋ॒तम॑वस्रन्नु॒षसो॑ विभा॒तीः।  
-विश्वं॒ तद्भ॒द्रं यदव॑न्ति दे॒वाबृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/24_akarma_tesvapaso.md">
@@ -1865,14 +1952,23 @@ xxxiv. 58 **c, d**). Many of the mss., however, (including our Bs.O.K.)
 combine in **a-b** to *abhūma rtám*. The comm. has in **b** the strange  
 reading *avasvan* (voc.: = *avanavan* or *pālaka*).
 </details>
+
 <details><summary>Griffith</summary>
 
 We have worked for thee, we have toiled and laboured: bright Dawns have shed their light upon our worship. All that the Gods regard with love is blessed. Loud may we speak, with heroes, in assembly.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अक॑र्म ते॒स्वप॑सो अभूम ऋ॒तम॑वस्रन्नु॒षसो॑ विभा॒तीः।  
+विश्वं॒ तद्भ॒द्रं यदव॑न्ति दे॒वाबृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अक॑र्म। ते॒। सु॒ऽअप॑सः। अ॒भू॒म॒। ऋ॒तम्। अ॒व॒स्र॒न्। उ॒षसः॑। वि॒ऽभा॒तीः। विश्व॑म्। तत्। भ॒द्रम्। यत्। अव॑न्ति। दे॒वाः। बृ॒हत्। व॒दे॒म॒। वि॒दथे॑। सु॒ऽवीराः॑। ३.२४। 
+अक॑र्म। ते॒। सु॒ऽअप॑सः। अ॒भू॒म॒। ऋ॒तम्। अ॒व॒स्र॒न्। उ॒षसः॑। वि॒ऽभा॒तीः। विश्व॑म्। तत्। भ॒द्रम्। यत्। अव॑न्ति। दे॒वाः। बृ॒हत्। व॒दे॒म॒। वि॒दथे॑। सु॒ऽवीराः॑। ३.२४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -1880,18 +1976,22 @@ We have worked for thee, we have toiled and laboured: bright Dawns have shed the
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे विद्वान् !] (ते)तेरे लिये [उत्तम कर्म] (अकर्म) हम ने किये हैं, (स्वपसः) अच्छे कर्मवाले (अभूम)हम हुए हैं, (विभातीः) प्रकाश करती हुई (उषसः) प्रभातवेलाओं ने (ऋतम्) सत्यधर्म में (अवस्रन्) निवास किया है। (यत्) जो कुछ (भद्रम्) कल्याणकारक कर्म है, (तत्) उस (विश्वम्) सबकी (देवाः) विद्वान् लोग (अवन्ति) रक्षा करते हैं, (सुवीराः) अच्छे वीरोंवाले हम (विदथे) ज्ञानसमाज में (बृहत्) बढ़ती करनेवाला [वचन] (वदेम) बोलें ॥२४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे प्रभातवलाएँ अन्धकार नाश करके प्रकाश करती हैं, वैसे ही सत्य धर्म असत्य का नाश करकेप्रकाशमान होता है, विद्वान् लोग उस सत्य का ग्रहण करके और सभाओं में बैठकरसर्ववृद्धि का विचार करें ॥२४॥इस मन्त्र का पूर्वार्द्ध ऋग्वेद में है−४।२।१९ औरउत्तरार्द्ध ऋग्वेद−२।२३।१९ और यजुर्वेद−३४।५८ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २४−(अकर्म) मन्त्रे घसह्वर०।पा० २।४।८०। च्लेर्लुक्। वयं कृतवन्तः श्रेष्ठकर्माणि (ते) तुभ्यम् (स्वपसः) अपःकर्मनाम-निघ० २।१। धार्मिककर्माणः (अभूम) (ऋतम्) सत्यधर्मम् (अवस्रन्) वसनिवासे-लङ्, रुडागमः। निवसन्ति स्म (उषसः) प्रभातवेलाः (विभातीः) विभात्यः।प्रकाशमानाः (विश्वम्) सर्वम् (तत्) (भद्रम्) शुभं कर्म (यत्) (अवन्ति) रक्षन्ति (देवाः) विद्वांसः (बृहत्) वृद्धिकरं वचनम् (वदेम) ब्रूयाम (विदथे) ज्ञानसमाजे (सुवीराः) श्रेष्ठवीरैरुपेताः ॥
@@ -1905,15 +2005,6 @@ We have worked for thee, we have toiled and laboured: bright Dawns have shed the
 
 इ᳓न्द्रो मामरु᳓त्वान्प्रा᳓च्या दिशः᳓ पातु बाहुच्यु᳓ता पृथिवी᳓ द्या᳓मिवोप᳓रि।  
 लो᳙ककृ᳓तः पथिकृ᳓तो यजामहे ये᳓ देवा᳓नां हुत᳓भागा इह᳓ स्थ᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/25_indro_mAmarutvAnprAchyA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इन्द्रो॑ माम॒रुत्वा॒न्प्राच्या॑ दि॒शः पा॑तु बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
-लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/25_indro_mAmarutvAnprAchyA.md">
@@ -1966,14 +2057,23 @@ figure (*puruṣākṛti*) with the bones, cf. further Bāudhāyana's
 *Pitṛmedhasūtra*, i. 10, especially lines 5, 7, 10, 13 of p. 15, ed.  
 Caland.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 From eastward Indra, Lord or Maruts, guard me, as in her arms Earth guards the heaven above us! Those who give room, who made the paths, we worship, you, mid the Gods, who share the gifts we offer.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रो॑ माम॒रुत्वा॒न्प्राच्या॑ दि॒शः पा॑तु बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
+लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। मा॒। म॒रुत्वा॑न्। प्राच्याः॑। दि॒शः। पा॒तु॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्यामऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.२५। 
+इन्द्रः॑। मा॒। म॒रुत्वा॑न्। प्राच्याः॑। दि॒शः। पा॒तु॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्यामऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.२५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - जगती
@@ -1981,18 +2081,22 @@ From eastward Indra, Lord or Maruts, guard me, as in her arms Earth guards the h
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब दिशाओं में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मरुत्वान्) शूरों कास्वामी (इन्द्रः) परम ऐश्वर्यवान् जगदीश्वर (प्राच्याः) पूर्व वा सामनेवाली (दिशः) दिशा से (मा) मेरी (पातु) रक्षा करे (बाहुच्युता) भुजाओं से उत्साह दीगयी (पृथिवी) पृथिवी (इव) जैसे (द्याम् उपरि) सूर्य पर [सूर्य के आकर्षण, प्रकाशआदि के सहारे पर, प्राणियों की रक्षा करती है] (लोककृतः) समाजों के करनेवाले, (पथिकृतः) मार्गों के बनानेवाले [तुम लोगों] को (यजामहे) हम पूजते हैं (ये) जोतुम (देवानाम्) विद्वानों के बीच (हुतभागाः) भाग लेनेवाले (इह) यहाँ पर (स्थ) हो॥२५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमात्मा पूर्व आदि औरसामनेवाली आदि दिशाओं में शूरों को बल देकर रक्षा करता है, जैसे चतुर लोगों केउद्योग से पृथिवी सूर्य के आकर्षण और प्रकाश आदि द्वारा वृष्टि ताप आदि पाकरअन्न आदि उत्पन्न करके रक्षा करती है, सब मनुष्य हितैषी विद्वानों का आश्रय लेकरउस जगदीश्वर की भक्ति करें ॥२५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २५−(इन्द्रः) परमैश्वर्यवान् जगदीश्वरः (मा) माम् (मरुत्वान्) अ० १।२०।१। मरुतां शूराणां स्वामी (प्राच्याः) पूर्वायाः।अभिमुखीभूतायाः सकाशात् (पातु) रक्षतु (बाहुच्युता) च्यु सहने हसने च, अन्तर्गतणिजर्थः। बाहुभिर्भुजैश्च्याविता उत्साहिता (पृथिवी) (द्याम्) सूर्यम्।सूर्यस्याकर्षणप्रकाशादिकमित्यर्थः (इव) यथा (उपरि) उभसर्वतसोः कार्याधिगुपर्यादिषु त्रिषु०। वा० पा० २।३।२। इत्यनाम्रेडितान्तेऽपि उपरियोगेद्यामित्यस्य द्वितीया। आश्रित्येत्यर्थः (लोककृतः) लोकानां समाजानां कर्तॄन् (पथिकृतः) सन्मार्गाणां कर्तॄन् दर्शकान् (यजामहे) पूजयामहे (ये) पुरुषाः (देवानाम्) विदुषां मध्ये (हुतभागाः) हु दानादानादनेषु-क्त। हुता आत्ता गृहीताभागा यैस्ते (इह) संसारे (स्थ) भवथ ॥
@@ -2008,15 +2112,6 @@ From eastward Indra, Lord or Maruts, guard me, as in her arms Earth guards the h
 लो᳙ककृ᳓तः पथिकृ᳓तो यजामहे ये᳓ देवा᳓नां हुत᳓भागा इह᳓ स्थ᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/26_dhAtA_mAnirRtyA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-धा॒ता मा॒निरृ॑त्या॒ दक्षि॑णाया दि॒शः पा॑तु बाहु॒च्युता॑ पृथि॒वी द्यामि॑इवो॒परि॑।  
-लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/26_dhAtA_mAnirRtyA.md">
 <details open><summary><h3>२६ धाता मानिरृत्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2027,14 +2122,23 @@ arm-moved etc. etc.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Dhatar with Nirriti save me from southward, etc. (as in stanza 25).
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+धा॒ता मा॒निरृ॑त्या॒ दक्षि॑णाया दि॒शः पा॑तु बाहु॒च्युता॑ पृथि॒वी द्यामि॑इवो॒परि॑।  
+लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-धा॒ता। मा॒। निःऽऋ॑त्याः। दक्षि॑णायाः। दि॒शः। पा॒तु॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.२६। 
+धा॒ता। मा॒। निःऽऋ॑त्याः। दक्षि॑णायाः। दि॒शः। पा॒तु॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.२६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भुरिक् जगती
@@ -2042,18 +2146,22 @@ Dhatar with Nirriti save me from southward, etc. (as in stanza 25).
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब दिशाओं में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (धाता) धारण करनेवालापरमात्मा (दक्षिणायाः) दक्षिण वा दाहिनी (दिशः) दिशा की (निर्ऋत्याः) महाविपत्तिसे (मा) मेरी (पातु) रक्षा करे, (बाहुच्युता) भुजाओं से उत्साह दी गयी... [मन्त्र २५] ॥२६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र २५ के समान है॥२६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २६−(धाता) सर्वधारकः परमात्मा (निर्ऋत्याः) कृच्छ्रापत्तेः सकाशात् (दक्षिणायाः) दक्षिणस्याः। दक्षिणहस्तस्थायाः (दिशः) दिक्सम्बन्धिन्याः। अन्यत्पूर्ववत्-म० २५ ॥
@@ -2069,15 +2177,6 @@ Dhatar with Nirriti save me from southward, etc. (as in stanza 25).
 लो᳙ककृ᳓तः पथिकृ᳓तो यजामहे ये᳓ देवा᳓नां हुत᳓भागा इह᳓ स्थ᳓॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/27_aditirmAdityaiH_pratIchyA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अदि॑तिर्मादि॒त्यैः प्र॒तीच्या॑ दि॒शः पा॑तु बाहु॒च्युता॑ पृथि॒वीद्यामि॑वो॒परि॑।  
-लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/27_aditirmAdityaiH_pratIchyA.md">
 <details open><summary><h3>२७ अदितिर्मादित्यैः प्रतीच्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2088,14 +2187,23 @@ arm-moved etc. etc.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 From westward Aditi was Adityas save me! etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अदि॑तिर्मादि॒त्यैः प्र॒तीच्या॑ दि॒शः पा॑तु बाहु॒च्युता॑ पृथि॒वीद्यामि॑वो॒परि॑।  
+लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अदि॑तिः। मा॒। आ॒दि॒त्यैः। प्र॒तीच्याः॑। दि॒शः। पा॒तु॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्यामऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.२७। 
+अदि॑तिः। मा॒। आ॒दि॒त्यैः। प्र॒तीच्याः॑। दि॒शः। पा॒तु॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्यामऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.२७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - जगती
@@ -2103,18 +2211,22 @@ From westward Aditi was Adityas save me! etc.
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब दिशाओं में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अदितिः) अखण्डपरमात्मा (आदित्यैः) अखण्डव्रती ब्रह्मचारियों द्वारा (प्रतीच्याः) पश्चिम वापीछेवाली (दिशः) दिशा से (मा) मेरी (पातु) रक्षा करे, (बाहुच्युता) भुजाओं सेउत्साह दी गयी... [म० २५] ॥२७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र २५ के समान है॥२७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २७−(अदितिः) अखण्डपरमात्मा (आदित्यैः) अखण्डव्रतिब्रह्मचारिभिः (प्रतीच्याः)पश्चिमायाः। पश्चाद्भागस्थायाः (दिशः) दिक्सकाशात्। अन्यत् पूर्ववत्-म० २५ ॥
@@ -2130,15 +2242,6 @@ From westward Aditi was Adityas save me! etc.
 लो᳙ककृ᳓तः पथिकृ᳓तो यजामहे ये᳓ देवा᳓नां हुत᳓भागा इह᳓ स्थ᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/28_somo_mAvishvairdevairudIchyA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सोमो॑ मा॒विश्वै॑र्दे॒वैरुदी॑च्या दि॒शः पा॑तु बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
-लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/28_somo_mAvishvairdevairudIchyA.md">
 <details open><summary><h3>२८ सोमो माविश्वैर्देवैरुदीच्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2149,14 +2252,23 @@ arm-moved etc. etc.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 From westward with the All-Gods save me Soma! etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोमो॑ मा॒विश्वै॑र्दे॒वैरुदी॑च्या दि॒शः पा॑तु बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
+लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सोमः॑। मा॒। विश्वैः॑। दे॒वैः। उदी॑च्याः। दि॒शः। पा॒तु॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्यामऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.२८। 
+सोमः॑। मा॒। विश्वैः॑। दे॒वैः। उदी॑च्याः। दि॒शः। पा॒तु॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्यामऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.२८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भुरिक् जगती
@@ -2164,18 +2276,22 @@ From westward with the All-Gods save me Soma! etc.
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब दिशाओं में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सोमः) सर्वजनकपरमात्मा (विश्वैः) सब (देवैः) उत्तम गुणों के साथ (उदीच्याः) उत्तर वा बाईं ओरवाली (दिशः) दिशा से (मा) मेरी (पातु) रक्षा करे (बाहुच्युता) भुजाओं से उत्साहदी गयी... [मन्त्र २५] ॥२८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र २५ के समान है॥२८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २८−(सोमः) सर्वोत्पादकः परमेश्वरः (विश्वैः) सर्वैः (देवैः) उत्तमगुणैः (उदीच्याः) उत्तरायाः। वामभागस्थायाः। अन्यत्−पूर्ववत्-म० २५ ॥
@@ -2189,15 +2305,6 @@ From westward with the All-Gods save me Soma! etc.
 
 धर्ता᳓ ह त्वाधरु᳓णो धारयाता ऊर्ध्वं᳓ भानुं᳓ सविता᳓ द्या᳓मिवोप᳓रि।  
 लो᳙ककृ᳓तः पथिकृ᳓तोयजामहे ये᳓ देवा᳓नां हुत᳓भागा इह᳓ स्थ᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/29_dhartA_ha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ध॒र्ता ह॑ त्वाध॒रुणो॑ धारयाता ऊ॒र्ध्वं भा॒नुं स॑वि॒ता द्यामि॑वो॒परि॑।  
-लो॑क॒कृतः॑ पथि॒कृतो॑यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/29_dhartA_ha.md">
@@ -2229,14 +2336,23 @@ Steadier, steadying, steady thee \[in the steadfast region\], as aloft
 the light, the sky above.' Cf. my note, p. 847, ¶ 8.—†Cf. xix. 36. 6  
 **d**.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 May the strong firm Sustainer bear thee upright, as Savitar bears light above the heaven. Those who give room, who made the paths, we worship, you mid the Gods, whe share the gifts we offer.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ध॒र्ता ह॑ त्वाध॒रुणो॑ धारयाता ऊ॒र्ध्वं भा॒नुं स॑वि॒ता द्यामि॑वो॒परि॑।  
+लो॑क॒कृतः॑ पथि॒कृतो॑यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ध॒र्ता। ह॒। त्वा॒। ध॒रुणः॑। धा॒र॒या॒तै॒। ऊ॒र्ध्वम्। भा॒नुम्। स॒वि॒ता। द्याम्ऽइ॒व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.२९। 
+ध॒र्ता। ह॒। त्वा॒। ध॒रुणः॑। धा॒र॒या॒तै॒। ऊ॒र्ध्वम्। भा॒नुम्। स॒वि॒ता। द्याम्ऽइ॒व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.२९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विराट् जगती
@@ -2244,18 +2360,22 @@ May the strong firm Sustainer bear thee upright, as Savitar bears light above th
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब दिशाओं में रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (धर्ता) पोषण करनेवाला (धरुणः) स्थिर स्वभाववाला परमात्मा (ह) निश्चय करके (त्वा) तुझे (ऊर्ध्वम्) ऊँचा (धारयातै) रक्खे, (इव) जैसे (सविता) सर्वप्रेरक परमेश्वर (भानुम्) सूर्य को (द्याम् उपरि) आकाश पर [रखता है]। (लोककृतः) समाजों के करनेवाले, (पथिकृतः)मार्गों के बनानेवाले [तुम लोगों] को (यजामहे) हम पूजते हैं, (ये) जो तुम (देवानाम्) विद्वानों के बीच (हुतभागाः) भाग लेनेवाले (इह) यहाँ (स्थ) हो ॥२९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमात्मा सर्वपोषक, दृढ़ स्वभाववाले पुरुषार्थी जनों को उच्च स्थान देता है, जैसे वह अनेक लोकों केआकर्षक, पोषक सूर्य को आकाश में ऊँचा रखता है। सब मनुष्य सर्वहितैषी विद्वानोंका आश्रय लेकर उस जगदीश्वर की भक्ति करें ॥२९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २९−(धर्ता) पोषकः (ह) निश्चयेन (त्वा) (धरुणः) कॄवृदारिभ्य उनन्। उ० ३।५३। धृङ् अवस्थाने-उनन्। स्थिरस्वभावःपरमात्मा (धारयातै) लेटि रूपम्। धारयेत् (ऊर्ध्वम्) (भानुम्) सूर्यम् (सविता)सर्वप्रेरकः परमेश्वरः (द्याम्) आकाशम् (इव) यथा (उपरि) म० २५।आश्रित्येत्यर्थः। अन्यत् पूर्ववत् ॥
@@ -2269,15 +2389,6 @@ May the strong firm Sustainer bear thee upright, as Savitar bears light above th
 
 प्रा᳓च्यां त्वादिशि᳓ पुरा᳓ संवृ᳓तः स्वधा᳓यामा᳓ दधामि बाहुच्यु᳓ता पृथिवी᳓ द्या᳓मिवोप᳓रि।  
 लो᳙ककृ᳓तः पथिकृ᳓तो यजामहे ये᳓ देवा᳓नां हुत᳓भागा इह᳓ स्थ᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/30_prAchyAM_tvAdishi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्राच्यां॑ त्वादि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
-लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/30_prAchyAM_tvAdishi.md">
@@ -2301,14 +2412,23 @@ fixing the body in place on the funeral pile; but he adds in the next
 rule that Uparibabhrava prohibits it. The comm. takes no notice of any  
 such application.
 </details>
+
 <details><summary>Griffith</summary>
 
 Toward the eastward region I supply thee before thou goest homeward, with oblation, as in her arms, etc. (as in stanza 25).
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्राच्यां॑ त्वादि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
+लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्राच्या॑म्। त्वा॒। दि॒शि॒। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३०। 
+प्राच्या॑म्। त्वा॒। दि॒शि॒। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पञ्चपदा जगती
@@ -2316,18 +2436,22 @@ Toward the eastward region I supply thee before thou goest homeward, with oblati
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्वत्र परमेश्वर के धारण का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमेश्वर !] (प्राच्याम्) पूर्व वा सामनेवाली (दिशि) दिशा में (त्वा) तुझे (स्वधायाम्)आत्मधारण शक्ति के बीच (पुरा) पूर्ति के साथ (संवृतः) घिरा हुआ मैं (आ) सब ओर से (दधामि) मैं [मनुष्य अपने में] धारण करता हूँ, (बाहुच्युता) भुजाओं से उत्साह दीगयी (पृथिवी) पृथिवी (इव) जैसे (द्याम् उपरि) सूर्य पर [सूर्य के आकर्षण, प्रकाशआदि के सहारे पर], [अपने में तुझे धारण करती है]। (लोककृतः) समाजों के करनेवाले, (पथिकृतः) मार्गों के बनानेवाले, [तुम लोगों] को (यजामहे) हम पूजते हैं, (ये) जोतुम (देवानाम्) विद्वानों के बीच (हुतभागाः) भाग लेनेवाले (इह) यहाँ पर (स्थ) हो॥३०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सर्वथा परिपूर्णपरमेश्वर से पूर्व आदि और सामनेवाली आदि दिशाओं में मनुष्य अपने में आत्मशक्तिपाकर पुरुषार्थ करता है, जैसे पृथिवी सूर्य के आकर्षण आदि में रह कर परमेश्वर कीदी हुई आत्मशक्ति से उपकार करती है। सब मनुष्य हितैषी विद्वानों का आश्रय लेकरउस जगदीश्वर की भक्ति करें ॥३०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३०−(प्राच्याम्) पूर्वस्याम्। अभिमुखीभूतायाम् (दिशि) (पुरा) पॄ पालनपूरणयोः-क्विप्। उदोष्ठ्यपूर्वस्य। पा० ७।१।१०२।इत्युत्वम्। पूर्त्या (संवृतः) सम्यग् वेष्टितः (स्वधायाम्) आत्मधारणशक्तौ (आ)समन्तात् (दधामि) धारयामि। अन्यत् पूर्ववत्-म० २५ ॥
@@ -2343,15 +2467,6 @@ Toward the eastward region I supply thee before thou goest homeward, with oblati
 लो᳙ककृ᳓तः पथिकृ᳓तो यजामहे ये᳓ देवा᳓नां हुत᳓भागा इह᳓ स्थ᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/31_daxiNAyAM_tvAdishi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-दक्षि॑णायां त्वादि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
-लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/31_daxiNAyAM_tvAdishi.md">
 <details open><summary><h3>३१ दक्षिणायां त्वादिशि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2361,14 +2476,23 @@ Toward the eastward region I supply thee before thou goest homeward, with oblati
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Toward the southern region, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+दक्षि॑णायां त्वादि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
+लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दक्षि॑णायाम्। त्वा॒। दि॒शि। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइव॑। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३१। 
+दक्षि॑णायाम्। त्वा॒। दि॒शि। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइव॑। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विराट् शक्वरी
@@ -2376,18 +2500,22 @@ Toward the southern region, etc.
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्वत्र परमेश्वर के धारण का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (दक्षिणायाम्) दक्षिणवा दाहिनी (दिशि) दिशा में (त्वा) तुझे [मन्त्र ३०] ॥३१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र ३० के समान है॥३१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३१−(दक्षिणायाम्) दक्षिणहस्तस्थितायाम्। अन्यत् पूर्ववत् ॥
@@ -2403,15 +2531,6 @@ Toward the southern region, etc.
 लो᳙ककृ᳓तः पथिकृ᳓तो यजामहे ये᳓ देवा᳓नां हुत᳓भागा इह᳓ स्थ᳓॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/32_pratIchyAntvA_dishi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्र॒तीच्यां॑त्वा दि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वीद्यामि॑वो॒परि॑।  
-लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/32_pratIchyAntvA_dishi.md">
 <details open><summary><h3>३२ प्रतीच्यान्त्वा दिशि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2421,14 +2540,23 @@ Toward the southern region, etc.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Toward the western region, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒तीच्यां॑त्वा दि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वीद्यामि॑वो॒परि॑।  
+लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒तीच्या॑म्। त्वा॒। दि॒शि। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३२। 
+प्र॒तीच्या॑म्। त्वा॒। दि॒शि। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भुरिक् त्रिष्टुप्
@@ -2436,18 +2564,22 @@ Toward the western region, etc.
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्वत्र परमेश्वर के धारण का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (प्रतीच्याम्) पश्चिमवा पीछेवाली (दिशि) दिशा में (त्वा) तुझे [मन्त्र ३०] ॥३२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र ३० के समान है॥३२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३२−(प्रतीच्याम्) पश्चिमायाम्। पश्चाद्भागे वर्तमानायाम्। अन्यत् पूर्ववत् ॥
@@ -2463,15 +2595,6 @@ Toward the western region, etc.
 लो᳙ककृ᳓तः पथिकृ᳓तो यजामहे ये᳓ देवा᳓नां हुत᳓भागा इह᳓ स्थ᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/33_udIchyAM_tvAdishi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उदी॑च्यां त्वादि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
-लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/33_udIchyAM_tvAdishi.md">
 <details open><summary><h3>३३ उदीच्यां त्वादिशि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2481,14 +2604,23 @@ Toward the western region, etc.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Toward the northern region, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उदी॑च्यां त्वादि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
+लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उदी॑च्याम्। त्वा॒। दि॒शि। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३३। 
+उदी॑च्याम्। त्वा॒। दि॒शि। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भुरिक् त्रिष्टुप्
@@ -2496,18 +2628,22 @@ Toward the northern region, etc.
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्वत्र परमेश्वर के धारण का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उदीच्याम्) उत्तर वाबायीं (दिशि) दिशा में (त्वा) तुझे [मन्त्र ३०] ॥३३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र ३० के समान है॥३३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३३−(उदीच्याम्) उत्तरस्याम्। वामहस्तवर्तमानायाम्। अन्यत् पूर्ववत् ॥
@@ -2523,15 +2659,6 @@ Toward the northern region, etc.
 लो᳙ककृ᳓तः पथिकृ᳓तो यजामहे ये᳓ देवा᳓नां हुत᳓भागा इह᳓ स्थ᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/34_dhruvAyAM_tvAdishi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ध्रु॑वायां त्वादि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
-लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/34_dhruvAyAM_tvAdishi.md">
 <details open><summary><h3>३४ ध्रुवायां त्वादिशि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2541,14 +2668,23 @@ Toward the northern region, etc.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Toward the stedfast region, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ध्रु॑वायां त्वादि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
+लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ध्रु॒वाया॑म्। त्वा॒। दि॒शि। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३४। 
+ध्रु॒वाया॑म्। त्वा॒। दि॒शि। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भुरिक् त्रिष्टुप्
@@ -2556,18 +2692,22 @@ Toward the stedfast region, etc.
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्वत्र परमेश्वर के धारण का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ध्रुवायाम्) स्थिर वानीचेवाली (दिशि) दिशा में (त्वा) तुझे [मन्त्र ३०] ॥३४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र ३० के समान है॥३४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३४−(ध्रुवायाम्) स्थिरायाम्। अधो वर्त्तमानायाम्। अन्यत् पूर्ववत् ॥
@@ -2583,15 +2723,6 @@ Toward the stedfast region, etc.
 लो᳙ककृ᳓तः पथिकृ᳓तो यजामहे ये᳓ देवा᳓नां हुत᳓भागा इह᳓ स्थ᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/35_UrdhvAyAM_tvAdishi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ऊ॑र्ध्वायां त्वादि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
-लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/35_UrdhvAyAM_tvAdishi.md">
 <details open><summary><h3>३५ ऊर्ध्वायां त्वादिशि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2605,14 +2736,23 @@ These six verses, 30-35, have the same refrain of 35 syllables as vss.
 from 17 to 19 syllables; the definition of the Anukr. is approximately  
 accurate.
 </details>
+
 <details><summary>Griffith</summary>
 
 Toward the upmost region I supply thee, before thou goest homeward, with oblation, as in her arms Earth bears the heaven above us. Those who give room, who made the paths, we worship, you, mid the Gods, who share the gifts we offer.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऊ॑र्ध्वायां त्वादि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
+लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऊ॒र्ध्वाया॑म्। त्वा॒। दि॒श‍ि। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३५। 
+ऊ॒र्ध्वाया॑म्। त्वा॒। दि॒श‍ि। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भुरिक् त्रिष्टुप्
@@ -2620,18 +2760,22 @@ Toward the upmost region I supply thee, before thou goest homeward, with oblatio
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्वत्र परमेश्वर के धारण का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमेश्वर !] (ऊर्ध्वायाम्) ऊपरवाली (दिशि) दिशा में (त्वा) तुझे (स्वधायाम्) आत्मधारणशक्तिके बीच (पुरा) पूर्ति के साथ (संवृतः) घिरा हुआ मैं [मनुष्य] (आ) सब ओर से (दधामि) धारण करता हूँ, (बाहुच्युता) भुजाओं से उत्साह दी गयी (पृथिवी) पृथिवी (इव) जैसे (द्याम् उपरि) सूर्य पर [सूर्य के आकर्षण, प्रकाश आदि के सहारे पर, अपने में तुझे धारण करती है] (लोककृतः) समाजों के करनेवाले, (पथिकृतः) मार्गोंके बनानेवाले, [तुम लोगों] को (यजामहे) हम पूजते हैं, (ये) जो तुम (देवानाम्)विद्वानों के बीच (हुतभागाः) भाग लेनेवाले (इह) यहाँ पर (स्थ) हो ॥३५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र ३० के समान है॥३५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३५−(ऊर्ध्वायाम्) उपरि स्थितायाम्। अन्यत् पूर्ववत् ॥
@@ -2646,14 +2790,6 @@ Toward the upmost region I supply thee, before thou goest homeward, with oblatio
 धर्ता᳓सिधरु᳓णोऽसि वं᳓सगोऽसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/36_dhartAsidharuNo-si_vaMsago-si.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ध॒र्तासि॑ध॒रुणो॑ऽसि॒ वंस॑गोऽसि ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/36_dhartAsidharuNo-si_vaMsago-si.md">
 <details open><summary><h3>३६ धर्तासिधरुणोऽसि वंसगोऽसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2664,14 +2800,22 @@ Toward the upmost region I supply thee, before thou goest homeward, with oblatio
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Thou art the Bull, Supporter, and Upholder,
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ध॒र्तासि॑ध॒रुणो॑ऽसि॒ वंस॑गोऽसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ध॒र्ता। अ॒सि॒। ध॒रुणः॑। अ॒सि॒। वंस॑गः। अ॒सि॒। ३.३६। 
+ध॒र्ता। अ॒सि॒। ध॒रुणः॑। अ॒सि॒। वंस॑गः। अ॒सि॒। ३.३६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - एकवसाना आसुरी अनुष्टुप्
@@ -2679,18 +2823,22 @@ Thou art the Bull, Supporter, and Upholder,
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्वत्र परमेश्वर के धारण का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे ईश्वर !] (धर्ता)तू धारण करनेवाला (असि) है, (धरुणः) तू स्थिर स्वभाववाला (असि) है और (वंसगः) तूसेवनीय व्यवहारों का प्राप्त करानेवाला (असि) है ॥३६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को योग्य हैकि पूर्वोक्त प्रकार से परमात्मा को सब दिशाओं में व्यापक जानकर दृढ़ स्वभावहोवें और शुद्ध जल, वायु, अन्न आदि से शरीर के धातुरसों को पुष्ट करें। वहसर्वपोषक परमात्मा जल आदि स्थूल और सूक्ष्म पदार्थों से और ज्ञानियों के ज्ञानसे अधिक आगे है ॥३६, ३७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३६−(धर्ता) धारकःपरमेश्वरः (असि) (धरुणः) म० २९ स्थिरस्वभावः (असि) (वंसगः) वृतॄवदिवचि०। उ०३।६२। वन संभक्तौ-स प्रत्ययः+गमयतेर्डः। वंसानां सेवनीयानां व्यवहाराणां गमयिताप्रापयिता (असि) ॥
@@ -2703,14 +2851,6 @@ Thou art the Bull, Supporter, and Upholder,
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ᳙दपू᳓रसिमधुपू᳓रसि वातपू᳓रसि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/37_udapUrasimadhupUrasi_vAtapUrasi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उ॑द॒पूर॑सिमधु॒पूर॑सि वात॒पूर॑सि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/37_udapUrasimadhupUrasi_vAtapUrasi.md">
@@ -2739,14 +2879,22 @@ and that the AV. order and readings are secondary.
   
 [TABLE]
 </details>
+
 <details><summary>Griffith</summary>
 
 Who purifiest wind and mead and water.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॑द॒पूर॑सिमधु॒पूर॑सि वात॒पूर॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒द॒ऽपूः। अ॒सि॒। म॒धु॒ऽपूः। अ॒सि॒। वा॒त॒ऽपूः। अ॒सि॒। ३.३७। 
+उ॒द॒ऽपूः। अ॒सि॒। म॒धु॒ऽपूः। अ॒सि॒। वा॒त॒ऽपूः। अ॒सि॒। ३.३७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - एकवसाना आसुरी गायत्री
@@ -2754,18 +2902,22 @@ Who purifiest wind and mead and water.
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्वत्र परमेश्वर के धारण का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उदपूः) तू जल सेशोधनेवाला [वा जल से अग्रगामी] (असि) है, (वातपूः) तू वायु से पालनेवाला [वावायु से अग्रगामी] (असि) है, (मधुपूः) तू मधुर [स्वास्थ्यवर्धक] रस से पूर्णकरनेवाला [वा ज्ञान से अग्रगामी] (असि) है ॥३७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को योग्य हैकि पूर्वोक्त प्रकार से परमात्मा को सब दिशाओं में व्यापक जानकर दृढ़ स्वभावहोवें और शुद्ध जल, वायु, अन्न आदि से शरीर के धातुरसों को पुष्ट करें। वहसर्वपोषक परमात्मा जल आदि स्थूल और सूक्ष्म पदार्थों से और ज्ञानियों के ज्ञानसे अधिक आगे है ॥३६, ३७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३७−(उदपूः) उदक+पूञ शोधने-क्विप्, वा पुरअग्रगमने-क्विप्। जलेन शोधयिता जलादग्रगामी वा (असि) (मधुपूः) मधु+पॄ पालनपूरणयोः-क्विप्, वा पुर-क्विप्। मधुरस्य स्वास्थ्यवर्धकस्य रसस्य पूरयिता मधुनोज्ञानादग्रगामी वा (असि) (वातपूः) वात+पॄ-क्विप्, वा पुर-क्विप्। वातेन वायुनापालयिता वायोः सकाशादग्रगामी वा (असि) ॥
@@ -2779,15 +2931,6 @@ Who purifiest wind and mead and water.
 
 इत᳓श्चमामु᳓तश्चावतां यमे᳓ इव य᳓तमाने य᳓दैत᳓म्।  
 प्र᳓ वां भरन्मा᳓नुषा देवय᳓न्तआ᳓ सीदतां स्व᳓मु लोकं᳓ वि᳓दाने ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/38_itashchamAmutashchAvatAM_yame.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इ॒तश्च॑मा॒मुत॑श्चावतां य॒मे इ॑व॒ यत॑माने॒ यदै॒तम्।  
-प्र वां॑ भर॒न्मानु॑षा देव॒यन्त॒आ सी॑दतां॒ स्वमु॑ लो॒कं विदा॑ने ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/38_itashchamAmutashchAvatAM_yame.md">
@@ -2844,14 +2987,23 @@ lost: *itáś ca mā amútaś cāvatām mā* would be a perfect *triṣṭubh*
 pāda.⌋ Vāit. (15. 11) makes vss. 38 and 39 accompany in the *agniṣṭoma*  
 ceremony the driving up of the two *havirdhānas*.
 </details>
+
 <details><summary>Griffith</summary>
 
 From this side and from that let both assist me. As, speeding, ye have come like two twin sisters, Religious-hearted votaries brought you forward. Knowing your several places be ye seated.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒तश्च॑मा॒मुत॑श्चावतां य॒मे इ॑व॒ यत॑माने॒ यदै॒तम्।  
+प्र वां॑ भर॒न्मानु॑षा देव॒यन्त॒आ सी॑दतां॒ स्वमु॑ लो॒कं विदा॑ने ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒तः। च॒। मा॒। अ॒मुतः॑। च॒। अ॒व॒ता॒म्। य॒मे इ॒वेति॑ य॒मेऽइ॑व। यत॑माने॒ इति॑। यत्। ऐ॒तम्। प्र। वा॒म्। भ॒र॒न्। मानु॑षाः। दे॒व॒ऽयन्तः॑। आ। सी॒द॒ता॒म्। स्वम्। ऊं॒ इति॑। लो॒कम्। विदा॑ने॒ इति॑। ३.३८। 
+इ॒तः। च॒। मा॒। अ॒मुतः॑। च॒। अ॒व॒ता॒म्। य॒मे इ॒वेति॑ य॒मेऽइ॑व। यत॑माने॒ इति॑। यत्। ऐ॒तम्। प्र। वा॒म्। भ॒र॒न्। मानु॑षाः। दे॒व॒ऽयन्तः॑। आ। सी॒द॒ता॒म्। स्वम्। ऊं॒ इति॑। लो॒कम्। विदा॑ने॒ इति॑। ३.३८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -2859,18 +3011,22 @@ From this side and from that let both assist me. As, speeding, ye have come like
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्यों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे स्त्री-पुरुषो !आप दोनों] (इतः) यहाँ से [समीप में वा इस जन्म में] (च च) और (अमुतः) वहाँ से [दूर में वा परजन्म में] (मा) मुझे (अवताम्) बचावें, (यत्) क्योंकि (यमे इव) दोनियमवालों के समान (यतमाने) यत्न करते हुए तुम दोनों (ऐतम्) चले हो। (देवयन्तः)उत्तम गुण चाहनेवाले (मानुषाः) मननशील मनुष्यों ने (वाम्) तुम दोनों को (प्र)अच्छे प्रकार (भरन्) पाला है, (स्वम्) अपने (लोकम्) स्थान को (उ) अवश्य (विदाने)जानते हुए [आप दोनों] (आ) आकर (सीदताम्) बैठें ॥३८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब स्त्री-पुरुषजितेन्द्रिय होकर समीप और दूर में तथा लोक और परलोक में सुख के लिये यत्न करकेपरस्पर अपनी सत्ता को उच्च बनावें ॥३८॥यह मन्त्र कुछ भेद से ऋग्वेद में है−१०।१३।२ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३८−(इतः) अस्मात् स्थानाल्लोकाद् वा (च) (मा) माम् (अमुतः) तस्माद्दूरदेशात् परलोकाद् वा (च) (अवताम्) रक्षतां भवन्तौ (यमे) सुपां सुलुक्०। पा०७।१।३९। इति सुपः शे इत्यादेशः। यमौ। नियमवन्तौ (इव) यथा (यतमाने) सुपः शे।यतमानौ व्याप्रियमाणौ (यत्) यतः (ऐतम्) अगच्छतं युवाम् (प्र) प्रकर्षेण (वाम्)युवाम् (भरन्) अभरन्। पालितवन्तः (मानुषाः) मननशीलाः पुरुषाः (देवयन्तः)दिव्यगुणान् कामयमानाः (आ) आगत्य (सीदताम्) उपविशतां भवन्तौ (स्वम्) स्वकीयम् (उ) अवश्यम् (लोकम्) स्थानम् (विदाने) सुपः शे। विदाना। जानन्तौ ॥
@@ -2884,15 +3040,6 @@ From this side and from that let both assist me. As, speeding, ye have come like
 
 स्वा᳙सस्थे᳓भवतमि᳓न्दवे नो युजे᳓ वां ब्र᳓ह्म पूर्व्यं᳓ न᳓मोभिः।  
 वि᳓ श्लो᳓क एतिपथ्ये᳙व सूरिः᳓ शृण्व᳓न्तु वि᳓श्वे अमृ᳓तास एत᳓त् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/39_svAsasthebhavatamindave_no.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स्वा॑स॒स्थेभ॑वत॒मिन्द॑वे नो यु॒जे वां॒ ब्रह्म॑ पू॒र्व्यं नमो॑भिः।  
-वि श्लोक॑ एतिप॒थ्ये᳡व सू॒रिः शृ॒ण्वन्तु॒ विश्वे॑ अ॒मृता॑स ए॒तत् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/39_svAsasthebhavatamindave_no.md">
@@ -2928,14 +3075,23 @@ which reads for our **c** *ví ślókā yanti pathyè ’va sū́rāḥ*, and in
 translated above; the form might, of course, be 3d sing., like *duhé,  
 śáye*, etc. ⌊In **d**, *śṛṇváttu* is a misprint for *śṛṇvántu*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Sit near, sit very near beside our Soma: for you I fit the ancient prayer with homage. The praise-song, like a chieftain on his pathway, spreads far and wide. Let all Immortals hear it.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्वा॑स॒स्थेभ॑वत॒मिन्द॑वे नो यु॒जे वां॒ ब्रह्म॑ पू॒र्व्यं नमो॑भिः।  
+वि श्लोक॑ एतिप॒थ्ये᳡व सू॒रिः शृ॒ण्वन्तु॒ विश्वे॑ अ॒मृता॑स ए॒तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्वास॑स्थे॒ इति॑ सु॒ऽआस॑स्थे। भ॒व॒त॒म्। इन्द॑वे। नः॒। यु॒जे। वा॒म्। ब्रह्म॑। पू॒र्व्यम्। नमः॑ऽभिः। वि। श्लोक॑। ए॒ति॒। प॒थ्या॑ऽइव। सू॒रिः। शृ॒ण्वन्तु॑। विश्वे॑। अ॒मृता॑सः। ए॒तत्। ३.३९। 
+स्वास॑स्थे॒ इति॑ सु॒ऽआस॑स्थे। भ॒व॒त॒म्। इन्द॑वे। नः॒। यु॒जे। वा॒म्। ब्रह्म॑। पू॒र्व्यम्। नमः॑ऽभिः। वि। श्लोक॑। ए॒ति॒। प॒थ्या॑ऽइव। सू॒रिः। शृ॒ण्वन्तु॑। विश्वे॑। अ॒मृता॑सः। ए॒तत्। ३.३९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - परा त्रिष्टुप् पङ्क्ति
@@ -2943,18 +3099,22 @@ Sit near, sit very near beside our Soma: for you I fit the ancient prayer with h
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्यों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (नः) हमारे (इन्दवे)ऐश्वर्य के लिये (स्वासस्थे) अच्छे आसन पर बैठनेवाले (भवतम्) तुम दोनों होओ, (वाम्) तुम दोनों के लिये (पूर्व्यम्) पहिले [योगियों] करके प्रत्यक्ष किये (ब्रह्म) बड़े परमेश्वर का (नमोभिः) सत्कारों के साथ (युजे) मैं ध्यान करता हूँ। (श्लोकः) वेदवाणी में कुशल (सूरिः) विद्वान् (पथ्या इव) सुन्दर मार्ग के समान (वि) विविध प्रकार से (एति) चलता है, (विश्वे) सब (अमृतासः) अमर [पुरुषार्थी]लोग (एतत्) यह (शृण्वन्तु) सुनें ॥३९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब स्त्री-पुरुषपूर्वज योगियों के समान योगाभ्यास से आत्मशुद्धि करके परमात्मा को प्राप्तहोवें, और जैसे विद्वानों का बनाया मार्ग सब यात्रियों को सुखदायक होता है, वैसे ही वेदकुशल विद्वानों का विद्याप्रचार सबको आनन्द देता है ॥३९॥यह मन्त्रकुछ भेद से ऋग्वेद में है−१०।१३।१, २ तथा यजुर्वेद में−११।५ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३९−(स्वासस्थे)सु+आस उपवेशने-घञ्+तिष्ठतेः-क। सुपः शे। स्वासस्थौ। सुखासने तिष्ठन्तौ युवाम् (भवतम्) (इन्दवे) ऐश्वर्याय (नः) अस्माकम् (युजे) आत्मनि समादधे (वाम्)युवयोर्हिताय (ब्रह्म) बृहन्तं व्यापकं परमात्मानम् (पूर्व्यम्) पूर्वयोगिभिःप्रत्यक्षीकृतम् (नमोभिः) सत्कारैः (वि) विविधम् (श्लोकः) श्लोक-अर्शआद्यच्।श्लोको वाङ्नाम-निघ० १।११। वेदवाणीकुशलः (एति) गच्छति (पथ्या) पथे मार्गायहिता। सुगमा सृतिः (इव) यथा (शृण्वन्तु) आकर्णयन्तु (विश्वे) सर्वे (अमृतासः)अमराः। पुरुषार्थिनः। यशस्विनः पुरुषाः (एतत्) इदं वचनम् ॥
@@ -2968,15 +3128,6 @@ Sit near, sit very near beside our Soma: for you I fit the ancient prayer with h
 
 त्री᳓णि पदा᳓निरुपो᳓ अ᳓न्वरोहच्च᳓तुष्पदीम᳓न्वेतद्व्रते᳓न।  
 अक्ष᳓रेण प्र᳓ति मिमीतेअर्क᳓मृत᳓स्य ना᳓भावभि᳓ सं᳓ पुनाति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/40_trINi_padAnirupo.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-त्रीणि॑ प॒दानि॑रु॒पो अन्व॑रोह॒च्चतु॑ष्पदी॒मन्वे॑तद्व्र॒तेन॑।  
-अ॒क्षरे॑ण॒ प्रति॑ मिमीतेअ॒र्कमृ॒तस्य॒ नाभा॑व॒भि सं पु॑नाति ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/40_trINi_padAnirupo.md">
@@ -3016,14 +3167,23 @@ by the meter." Cf. also Henry, *Revue Critique*, 1894, no's 39-40, p.
 146.—See also SPP's full critical notes upon the verse, p. 160. It may  
 be added that W's O. gives *-padīmáṁnvāítád*, and his Op. *ánu: āitát*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Three paces hath the stake gone up, and followed her, the four- footed, with devout observance. He with the Syllable copies the praise-song; he thoroughly purifies at Order's centre.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्रीणि॑ प॒दानि॑रु॒पो अन्व॑रोह॒च्चतु॑ष्पदी॒मन्वे॑तद्व्र॒तेन॑।  
+अ॒क्षरे॑ण॒ प्रति॑ मिमीतेअ॒र्कमृ॒तस्य॒ नाभा॑व॒भि सं पु॑नाति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्रीणि॑। प॒दानि॑। रु॒पः। अनु॑। अ॒रो॒ह॒त्। चतुः॑ऽपदीम्। अनु॑। ए॒त॒त्। व्र॒तेन॑। अ॒क्षरे॑ण। प्रति॑। मि॒मी॒ते॒। अ॒र्कम्। ऋ॒तस्य॑। नाभौ॑। अ॒भि। सम्। पु॒ना॒ति॒। ३.४०। 
+त्रीणि॑। प॒दानि॑। रु॒पः। अनु॑। अ॒रो॒ह॒त्। चतुः॑ऽपदीम्। अनु॑। ए॒त॒त्। व्र॒तेन॑। अ॒क्षरे॑ण। प्रति॑। मि॒मी॒ते॒। अ॒र्कम्। ऋ॒तस्य॑। नाभौ॑। अ॒भि। सम्। पु॒ना॒ति॒। ३.४०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -3031,18 +3191,22 @@ Three paces hath the stake gone up, and followed her, the four- footed, with dev
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्यों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (रुपः) गतिमान् पुरुष (त्रीणि) तीनों [भूत, भविष्यत् और वर्तमान] (पदानि) पदों [अधिकारों] के (अनु)पीछे-पीछे (अरोहत्) प्रसिद्ध हुआ है, और (व्रतेन) व्रत [ब्रह्मचर्य आदि नियम] केसाथ (चतुष्पदीम्) चारों [धर्म, अर्थ, काम और मोक्ष] में अधिकारवाली वेदवाणी के (अनु) पीछे-पीछे (ऐतत्) चला है। वह (अक्षरेण) व्यापक वा अविनाशी [परमात्मा]के साथ (अर्कम्) पूजनीय विचार को (प्रति) प्रत्यक्ष (मिमीते) करता है, और (ऋतस्य) सत्य धर्म की (नाभौ) नाभि में [सबको] (अभि) सब ओर से (सम्) यथावत् (पुनाति) शुद्ध करता है ॥४०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  चलते-फिरते उद्योगीस्त्री-पुरुष भूत, भविष्यत् और वर्तमान का विचार करके वेदद्वारा धर्म, अर्थ, काम, मोक्ष को प्राप्त होवें और परमात्मा की आज्ञा का पालन करके सब मनुष्यों कोशुभ मार्ग पर चलावें ॥४०॥१−मन्त्र ४० और ४१ कुछ भेद से ऋग्वेद में हैं−१०।१३।३, ४ ॥२−संहिता के (ऐतत्) पद के स्थान पर पदपाठ में (एतत्) पद विचारणीय है॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४०−(त्रीणि) त्रिसंख्याकानि (पदानि) प्राप्तव्यानि भूतभविष्यद्वर्तमानवस्तूनि (रुपः) च्युवः किच्च। उ० ३।२४। रुङ् गतिरेषणयोः, रु शब्दे वा-पप्रत्ययः, कित्।गतिमान्। स्तोतव्यः पुरुषः (अनु) अनुसृत्य (अरोहत्) प्रादुरभवत् (चतुष्पदीम्)चतुर्वर्गे धर्मार्थकाममोक्षेषु पुरुषार्थेषु पदमधिकारो यस्यास्तां वेदवाणीम् (अनु) अनुसृत्य (ऐतत्) इण् गतौ-लङ्, तकारश्छान्दसः। ऐत्। प्राप्नोत् (व्रतेन)ब्रह्मचर्यादितपश्चरणेन (अक्षरेण) अ० ९।१०।२। अशू व्याप्तौ-सर। यद्वा नञ्+क्षरसंचलने-अच्। व्यापकेन विनाशरहितेन, इति प्रणवेन सह (प्रति) प्रत्यक्षम् (मिमीते) माङ् माने। करोति (अर्कम्) कृदाधारार्चिकलिभ्यः कः। उ० ३।४०। अर्चपूजायाम्-क, यद्वा, अर्च-घञ्, कुत्वम्। अर्को मन्त्रो भवति यदनेनार्चन्ति-निरु०५।४। पूजनीयं विचारम् (ऋतस्य) सत्यधर्मस्य (नाभौ) मध्यस्थाने (अभि) सर्वतः (सम्)सम्यक् (पुनाति) शोधयति सर्वान् ॥
@@ -3056,15 +3220,6 @@ Three paces hath the stake gone up, and followed her, the four- footed, with dev
 
 देवे᳓भ्यःक᳓मवृणीत मृत्युं᳓ प्रजा᳓यै कि᳓ममृ᳓तं ना᳓वृणीत।  
 बृ᳓हस्प᳓तिर्यज्ञ᳓मतनुतऋ᳓षिः प्रियां᳓ यम᳓स्तन्व᳙मा᳓ रिरेच ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/41_devebhyaHkamavRNIta_mRtyum.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-दे॒वेभ्यः॒कम॑वृणीत मृ॒त्युं प्र॒जायै॒ किम॒मृतं॒ नावृ॑णीत।  
-बृह॒स्पति॑र्य॒ज्ञम॑तनुत॒ऋषिः॑ प्रि॒यां य॒मस्त॒न्व१॒॑मा रि॑रेच ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/41_devebhyaHkamavRNIta_mRtyum.md">
@@ -3085,14 +3240,23 @@ rireca* by *samantād riktaṁ niḥsāram mṛtaṁ kṛtavān*. ⌊See Ludwig'
 discussion of the verse, *Ueber die kritik des RV.-textes*, Abh. der k.  
 böhmischen Gesellschaft der Wiss., 1889, no. 5, p. 46.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Chose he then, death for Gods to be their portion? Why chose he not for men a life eternal? Brihaspati span sacrifice, the Rishi; and Yama yielded up his own dear body.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॒वेभ्यः॒कम॑वृणीत मृ॒त्युं प्र॒जायै॒ किम॒मृतं॒ नावृ॑णीत।  
+बृह॒स्पति॑र्य॒ज्ञम॑तनुत॒ऋषिः॑ प्रि॒यां य॒मस्त॒न्व१॒॑मा रि॑रेच ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒वेभ्यः॑। कम्। अ॒वृ॒णी॒त॒। मृ॒त्युम्। प्र॒ऽजायै॑। किम्। अ॒मृत॑म्। न। अ॒वृ॒णी॒त॒। बृह॒स्पतिः॑। य॒ज्ञम्। अ॒त॒नु॒त॒। ऋषिः॑। प्रि॒याम्। य॒मः। त॒न्व॑म्। आ। रि॒रे॒च॒। ३.४१। 
+दे॒वेभ्यः॑। कम्। अ॒वृ॒णी॒त॒। मृ॒त्युम्। प्र॒ऽजायै॑। किम्। अ॒मृत॑म्। न। अ॒वृ॒णी॒त॒। बृह॒स्पतिः॑। य॒ज्ञम्। अ॒त॒नु॒त॒। ऋषिः॑। प्रि॒याम्। य॒मः। त॒न्व॑म्। आ। रि॒रे॒च॒। ३.४१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -3100,18 +3264,22 @@ Chose he then, death for Gods to be their portion? Why chose he not for men a li
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्यों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [जिसने] (देवेभ्यः)उत्तम गुणों के लिये (कम्) सुख से (मृत्युम्) मृत्यु [अहङ्कारत्याग] को (अवृणीत)अङ्गीकार किया है, उस ने (प्रजायै) प्रजा के लिये (किम्) क्या (अमृतम्) अमृत [अमरपन मोक्षपद] को (न) नहीं (अवृणीत) अङ्गीकार किया ? (बृहस्पतिः) उस बड़े-बड़ेव्यवहारों के रक्षक (ऋषिः) सन्मार्गदर्शक, (यमः) नियमवाले पुरुष ने (यज्ञम्)पूजनीय व्यवहार को (अतनुत) फैलाया है और (प्रियाम्) हित करनेवाली (तन्वम्) उपकारक्रिया को (आ) सब ओर से (रिरेच) संयुक्त किया है ॥४१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो स्त्री-पुरुषश्रेष्ठ गुणों की प्राप्ति के लिये अहङ्कार, अर्थात् आपा छोड़ आत्मदान करते हैं, वे ही संसार को मोक्षपद देते और पूजनीय व्यवहारों को फैलाकर अवश्य महान् उपकारकरते हैं ॥४१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४१−(देवेभ्यः) उत्तमगुणानां प्राप्तये (कम्) सुखेन (अवृणीत)अङ्गीकृतवान् (मृत्युम्) मरणम्। अहंकारत्यागम्। आत्मसमर्पणम् (प्रजायै)मनुष्यादिरूपायै (किम्) (अमृतम्) अमरणम्। मोक्षपदम् (न) निषेधे (अवृणीत)स्वीकृतवान् (बृहस्पतिः) बृहतां व्यवहाराणां रक्षकः (यज्ञम्) पूजनीयं व्यवहारम् (अतनुत) विस्तारितवान् (यमः) सन्मार्गदर्शकः (प्रियाम्) हितकरीम् (यमः)नियमवान्। जितेन्द्रियः पुरुषः (तन्वम्) उपकारक्रियाम् (आ) समन्तात् (रिरेच)रिचिर् विरेचने, रिच वियोजनसम्पर्चनयोः-लिट्। संयोजितवान् ॥
@@ -3125,15 +3293,6 @@ Chose he then, death for Gods to be their portion? Why chose he not for men a li
 
 त्व᳓मग्न ईडितो᳓जातवेदो᳓ऽवाड्ढव्या᳓नि सुरभी᳓णि कृत्वा᳓।  
 प्रा᳓दाः पितृ᳓भ्यः स्वध᳓या ते᳓अक्षन्नद्धि᳓ त्वं᳓ देव प्र᳓यता हवीं᳓षि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/42_tvamagna_IDitojAtavedo-vADDhavyAni.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-त्वम॑ग्न ईडि॒तोजा॑तवे॒दोऽवा॑ड्ढ॒व्यानि॑ सुर॒भीणि॑ कृ॒त्वा।  
-प्रादाः॑ पि॒तृभ्यः॑ स्व॒धया॒ तेअ॑क्षन्न॒द्धि त्वं दे॑व॒ प्रय॑ता ह॒वींषि॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/42_tvamagna_IDitojAtavedo-vADDhavyAni.md">
@@ -3162,14 +3321,23 @@ at the end of the *piṇḍapitṛyajña*. ⌊The forms *ávāṭ* and *akṣan*
 treated, *Gram.* §890 a and §833 a. As for the sandhi *ḍhḍh* of the  
 mss., see note to Prāt. i. 94.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Thou, Agni Jatavedas, when entreated, didst bear our offerings, having made them fragrant. And give them to the Fathers who consumed them with Svadha. Eat, thou God, the gifts we bring thee.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वम॑ग्न ईडि॒तोजा॑तवे॒दोऽवा॑ड्ढ॒व्यानि॑ सुर॒भीणि॑ कृ॒त्वा।  
+प्रादाः॑ पि॒तृभ्यः॑ स्व॒धया॒ तेअ॑क्षन्न॒द्धि त्वं दे॑व॒ प्रय॑ता ह॒वींषि॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वम्। अ॒ग्ने॒। ई॒डि॒तः। जा॒त॒ऽवे॒दः॒। अवा॑ट्। ह॒व्यानि॑। सु॒र॒भीणि॑। कृ॒त्वा। प्र। अ॒दाः॒। पि॒तृऽभ्यः॑। स्व॒धया॑। ते। अ॒क्ष॒न्। अ॒द्धि। त्वम्। दे॒व॒। प्रऽय॑ता। ह॒वींषि॑। ३.४२। 
+त्वम्। अ॒ग्ने॒। ई॒डि॒तः। जा॒त॒ऽवे॒दः॒। अवा॑ट्। ह॒व्यानि॑। सु॒र॒भीणि॑। कृ॒त्वा। प्र। अ॒दाः॒। पि॒तृऽभ्यः॑। स्व॒धया॑। ते। अ॒क्ष॒न्। अ॒द्धि। त्वम्। दे॒व॒। प्रऽय॑ता। ह॒वींषि॑। ३.४२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -3177,18 +3345,22 @@ Thou, Agni Jatavedas, when entreated, didst bear our offerings, having made them
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों और सन्तानों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (जातवेदः) हे बड़े धनी (अग्ने) विद्वान् ! (ईडितः) प्रशंसित (त्वम्) तूने (हव्यानि) ग्रहण करने योग्यपदार्थों को (सुरभीणि) ऐश्वर्ययुक्त (कृत्वा) करके (अवाट्) पहुँचाया है। (पितृभ्यः) पितरों [पिता आदि रक्षक महात्माओं] को (स्वधया) अपनी धारणशक्ति से (प्रयता) शुद्ध [वा प्रयत्न से सिद्ध किये] (हवींषि) ग्रहण करने योग्य भोजन (प्र) अच्छे प्रकार (अदाः) तूने दिये हैं, (ते) उन्होंने (अक्षन्) खाये हैं, (देव) हे विद्वान् ! (त्वम्) तू [भी] (अद्धि) खा ॥४२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  पुत्रादि सन्तान उत्तम-उत्तम पदार्थों से पितरों की सेवा करें और प्रयत्न से शुद्ध बनाये हुए भोजनउन्हें खिलावें और आप खावें, जिस से सब स्वस्थ रहकर आनन्द भोगें ॥४२॥यह मन्त्रकुछ भेद से ऋग्वेद में है−१०।१५।१२ और यजुर्वेद में−१९।६६ तथा उत्तरार्द्ध आगेहै-अ० १८।४।६५ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४२−(त्वम्) (अग्ने) हे विद्वन् (ईडितः) प्रशंसितः (जातवेदः)जातानि प्रसिद्धानि वेदांसि धनानि यस्य तत्सम्बुद्धौ (अवाट्) वहतेर्लुङ्, इडागमाभावे सिचो लोपे रूपसिद्धिः। अवाक्षीः। प्रापितवानसि (हव्यानि)ग्राह्यवस्तूनि (सुरभीणि) म० १७। ऐश्वर्ययुक्तानि (कृत्वा) विधाय (प्र)प्रकर्षेण (अदाः) ददातेर्लङ्। दत्तवानसि (पितृभ्यः) (स्वधया) स्वधारणशक्त्या (ते) पितरः (अक्षन्) घस्लृ अदने-लुङ्। भक्षितवन्तः (अद्धि) अद भक्षणे-लोट्।भक्षय (त्वम्) (देव) हे विद्वन् (प्रयता) यमु उपरमे-क्त, यद्वा यतीप्रयत्ने-अप्। शुद्धानि। प्रयत्नसाधितानि (हवींषि) ग्राह्यभोजनानि ॥
@@ -3202,15 +3374,6 @@ Thou, Agni Jatavedas, when entreated, didst bear our offerings, having made them
 
 आ᳓सीनासोअरुणी᳓नामुप᳓स्थे रयिं᳓ धत्त दाशु᳓षे म᳓र्त्याय।  
 पुत्रे᳓भ्यः पितरस्त᳓स्यव᳓स्वः प्र᳓ यच्छत त᳓ इहो᳓र्जं दधात ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/43_AsInAsoaruNInAmupasthe_rayim.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आसी॑नासोअरु॒णीना॑मु॒पस्थे॑ र॒यिं ध॑त्त दा॒शुषे॒ मर्त्या॑य।  
-पु॒त्रेभ्यः॑ पितर॒स्तस्य॒वस्वः॒ प्र य॑च्छत॒ त इ॒होर्जं॑ दधात ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/43_AsInAsoaruNInAmupasthe_rayim.md">
@@ -3227,14 +3390,23 @@ The verse is found, without variant, as RV. x. 15. 7 and VS. xix. 63.
 The comm. glosses *aruṇīnām* in **a** as *aruṇavarṇānām mātṝṇām*,  
 without further explanation. Kāuś. does not quote the verse.
 </details>
+
 <details><summary>Griffith</summary>
 
 Lapped in the bosom of the purple Mornings, give riches to the man who brings oblations. Grant to your sons a portion of that treasure, and, present, give them energy, O Fathers.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आसी॑नासोअरु॒णीना॑मु॒पस्थे॑ र॒यिं ध॑त्त दा॒शुषे॒ मर्त्या॑य।  
+पु॒त्रेभ्यः॑ पितर॒स्तस्य॒वस्वः॒ प्र य॑च्छत॒ त इ॒होर्जं॑ दधात ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आसी॑नासः। अ॒रु॒णीना॑म्। उ॒पऽस्थे॑। र॒यिम्। ध॒त्त॒। दा॒शुषे॑। मर्त्या॑य। पु॒त्रेभ्यः। पि॒त॒रः॒। तस्य॑। वस्वः॑। प्र। य॒च्छ॒त॒। ते। इ॒ह। ऊर्ज॑म्। द॒धा॒त॒। ३.४३। 
+आसी॑नासः। अ॒रु॒णीना॑म्। उ॒पऽस्थे॑। र॒यिम्। ध॒त्त॒। दा॒शुषे॑। मर्त्या॑य। पु॒त्रेभ्यः। पि॒त॒रः॒। तस्य॑। वस्वः॑। प्र। य॒च्छ॒त॒। ते। इ॒ह। ऊर्ज॑म्। द॒धा॒त॒। ३.४३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -3242,18 +3414,22 @@ Lapped in the bosom of the purple Mornings, give riches to the man who brings ob
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों और सन्तानों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पितरः) हे पितरो ! (अरुणीनाम्) पाने योग्य क्रियाओं [वा विद्याओं] की (उपस्थे) गोद में (आसीनासः)बैठे हुए तुम (दाशुषे) दाता (मर्त्याय) मनुष्य के लिये (रयिम्) धन (धत्त) धरो, (ते) वे तुम (इह) यहाँ पर (पुत्रेभ्यः) पुत्रों को (तस्य) उस (वस्वः) धन का (प्रयच्छत) दान करो, और (ऊर्जम्) पराक्रम (दधात) धारण करो ॥४३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वृद्ध पितर लोग उत्तमक्रियाओं और विद्याओं द्वारा धन का संग्रह कर के सुपात्र विद्या आदि देनेवालेपुरुष को धन का दान देवें और सन्तानों को यथायोग्य दाय भाग कर के पराक्रमीबनावें ॥४३॥यह मन्त्र कुछ भेद से ऋग्वेद में है−१०।१५।७। और यजुर्वेद १९।६३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४३−(आसीनासः) आसीनाः। उपविशन्तः (अरुणीनाम्) म० २१। प्राप्तव्यानां क्रियाणांविद्यानां वा (उपस्थे) उत्सङ्गे (रयिम्) धनम् (धत्त) धरत (दाशुषे) दात्रे (मर्त्याय) मनुष्याय (पुत्रेभ्यः) सन्तानेभ्यः (पितरः) (तस्य) (वस्वः) वसुनोधनस्य (प्र यच्छत) दानं कुरुत (ते) तादृशा यूयम् (इह) अस्मिंल्लोके (ऊर्जम्)पराक्रमम् (दधात) धरत ॥
@@ -3267,15 +3443,6 @@ Lapped in the bosom of the purple Mornings, give riches to the man who brings ob
 
 अ᳓ग्निष्वात्ताःपितर ए᳓ह᳓ गच्छत स᳓दःसदः सदत सुप्रणीतयः।  
 अत्तो᳓ हवीं᳓षि प्र᳓यतानि बर्हि᳓षिरयिं᳓ च नः स᳓र्ववीरं दधात ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/44_agniShvAttAHpitara_eha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अग्नि॑ष्वात्ताःपितर॒ एह ग॑च्छत॒ सदः॑सदः सदत सुप्रणीतयः।  
-अ॒त्तो ह॒वींषि॒ प्रय॑तानि ब॒र्हिषि॑र॒यिं च॑ नः॒ सर्व॑वीरं दधात ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/44_agniShvAttAHpitara_eha.md">
@@ -3297,14 +3464,23 @@ The verse is RV. x. 15. 11 through three pādas, RV. having for **d**:
 with 45 and 46 and other verses, see under 1. 51; for its use by Vāit.,  
 with 45 and other verses, see under 1. 44 and 51.
 </details>
+
 <details><summary>Griffith</summary>
 
 Fathers whom Agni's flames have tasted, come ye nigh: in per- fect order take ye each your proper place. Eat sacrificial food presented on the grass: grant riches with a multitude of hero sons.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्नि॑ष्वात्ताःपितर॒ एह ग॑च्छत॒ सदः॑सदः सदत सुप्रणीतयः।  
+अ॒त्तो ह॒वींषि॒ प्रय॑तानि ब॒र्हिषि॑र॒यिं च॑ नः॒ सर्व॑वीरं दधात ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्नि॑ऽस्वात्ताः। पि॒त॒रः॒। आ। इ॒ह। ग॒च्छ॒त॒। सदः॑ऽसदः। स॒द॒त॒। सु॒ऽप्र॒नी॒त॒यः॒। अ॒त्तो इति॑। ह॒वींषि॑। प्रऽय॑तानि। ब॒र्हिषि॑। र॒यिम्। च॒। नः॒। सर्व॑ऽवीरम्। द॒धा॒त॒। ३.४४। 
+अग्नि॑ऽस्वात्ताः। पि॒त॒रः॒। आ। इ॒ह। ग॒च्छ॒त॒। सदः॑ऽसदः। स॒द॒त॒। सु॒ऽप्र॒नी॒त॒यः॒। अ॒त्तो इति॑। ह॒वींषि॑। प्रऽय॑तानि। ब॒र्हिषि॑। र॒यिम्। च॒। नः॒। सर्व॑ऽवीरम्। द॒धा॒त॒। ३.४४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - जगती
@@ -3312,18 +3488,22 @@ Fathers whom Agni's flames have tasted, come ye nigh: in per- fect order take ye
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों और सन्तानों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्निष्वात्ताः) हेअग्निविद्या [वा शारीरिक और आत्मिक तेज] के ग्रहण करनेवाले (पितरः) पालनकरनेवाले पितरो ! (इह) यहाँ (आ गच्छत) आओ और (सुप्रणीतयः) अत्युत्तम नीतियोंवालेतुम (सदः-सदः) सभा-सभा में (सदत) बैठो। और (बर्हिषि) वृद्धिकारक व्यवहार के बीच (प्रयतानि) शुद्ध [वा प्रयत्न से शुद्ध किये] (हवींषि) खाने योग्य अन्नों को (अत्तो) अवश्य खाओ, (च) और (नः) हमारे लिये (सर्ववीरम्) सब वीर पुरुषों केप्राप्त कराने हारे (रयिम्) धन को (धत्त) धारण करो ॥४४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् लोग सभाओंमें उपदेश करके अग्नि अर्थात् सूर्य, बिजुली और अग्नि आदि विद्याओं द्वारामनुष्यों का शारीरिक तथा आत्मिक बल बढ़ावें और श्रद्धा से दिये हुए अन्न आदि कोग्रहण करके उन्हें पुरुषार्थी, श्रीमान् और वीर सेनापति बनावें ॥४४॥यह मन्त्रकुछ भेद से ऋग्वेद में है−१०।१५।११। और यजुर्वेद में−१९।५९ तथा महर्षिदयानन्दकृत ऋग्वेदादिभाष्यभूमिका पितृयज्ञविषय में व्याख्यात है॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४४−(अग्निष्वात्ताः) अग्नि+सु+आङ्+ददातेः-क्त। अग्निः सूर्यविद्युदग्निविद्याशारीरिकात्मिकतेजो वा आत्तं गृहीतं यैस्ते (पितरः) (इह) अस्मिन् काले (आ गच्छत) (सदः सदः) सदसि सदसि (सदत) सीदत। उपविशत (सुप्रणीतयः) अत्युत्तमनीतिमन्तः (अत्तो) अत्त-उ। भक्षयतैव (हवींषि) अदनीयानि भोजनानि (प्रयतानि) म० ४२।शुद्धानि। प्रयत्नेन साधितानि (बर्हिषि) वृद्धिकरे व्यवहारे (रयिम्) धनम् (च) (नः) अस्मभ्यम् (सर्ववीरम्) सर्वे वीराः प्राप्यन्ते यस्मात् तम् (दधात) धरत॥
@@ -3337,15 +3517,6 @@ Fathers whom Agni's flames have tasted, come ye nigh: in per- fect order take ye
 
 उ᳓पहूता नःपित᳓रः सोम्या᳓सो बर्हिष्ये᳙षु निधि᳓षु प्रिये᳓षु।  
 त᳓ आ᳓ गमन्तु त᳓ इह᳓श्रुवन्त्व᳓धि ब्रुवन्तु ते᳙ऽवन्त्वस्मा᳓न् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/45_upahUtA_naHpitaraH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उप॑हूता नःपि॒तरः॑ सो॒म्यासो॑ बर्हि॒ष्ये᳡षु नि॒धिषु॑ प्रि॒येषु॑।  
-त आ ग॑मन्तु॒ त इ॒हश्रु॑व॒न्त्वधि॑ ब्रुवन्तु॒ ते᳡ऽव॑न्त्व॒स्मान् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/45_upahUtA_naHpitaraH.md">
@@ -3365,14 +3536,23 @@ meter-disturbing *nas* in **a**. Other texts (VS. xix. 57; TS. ii. 6.
 Kāuś. and Vāit. is the same as that of vs. 44. The comm. glosses  
 *nidhíṣu* by *nidhīyamāneṣu haviḥṣu*.
 </details>
+
 <details><summary>Griffith</summary>
 
 May they, the Fathers who deserve the Soma, invited to their favourite oblations. Laid on the sacred grass, come nigh and listen. May they be gracious unto us and bless us.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑हूता नःपि॒तरः॑ सो॒म्यासो॑ बर्हि॒ष्ये᳡षु नि॒धिषु॑ प्रि॒येषु॑।  
+त आ ग॑मन्तु॒ त इ॒हश्रु॑व॒न्त्वधि॑ ब्रुवन्तु॒ ते᳡ऽव॑न्त्व॒स्मान् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑ऽहूताः। नः॒। पि॒तरः॑। सो॒म्यासः॑। ब॒र्हि॒ष्ये॑षु। नि॒ऽधिषु॑। प्रि॒येषु॑। ते। आ। ग॒म॒न्तु॒। ते। इ॒ह। श्रु॒व॒न्तु॒। ‍ अधि॑। ब्रु॒व॒न्तु॒। ते। अ॒व॒न्तु॒। अ॒स्मान्। ३.४५। 
+उप॑ऽहूताः। नः॒। पि॒तरः॑। सो॒म्यासः॑। ब॒र्हि॒ष्ये॑षु। नि॒ऽधिषु॑। प्रि॒येषु॑। ते। आ। ग॒म॒न्तु॒। ते। इ॒ह। श्रु॒व॒न्तु॒। ‍ अधि॑। ब्रु॒व॒न्तु॒। ते। अ॒व॒न्तु॒। अ॒स्मान्। ३.४५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -3380,18 +3560,22 @@ May they, the Fathers who deserve the Soma, invited to their favourite oblations
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों और सन्तानों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सोम्यासः) ऐश्वर्य केयोग्य [वा प्रियदर्शन] (पितरः) पितर लोग (नः) हमारे (बर्हिष्येषु) वृद्धियोग्य, (प्रियेषु) प्रिय (निधिषु) [रत्न सुवर्ण आदि के] कोशों के निमित्त (उपहूताः)बुलाये गये हैं। (ते) वे (आ गमन्तु) आवें, (ते) वे (इह) यहाँ (श्रुवन्तु) सुनें, (ते) वे (अधि) अधिकारपूर्वक (ब्रुवन्तु) उपदेश करें और (अस्मान्) हमारी (अवन्तु) रक्षा करें ॥४५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को योग्य हैकि विद्यावृद्ध और वयोवृद्ध विद्वानों का सत्कार करते रहें और उनसे उत्तम-उत्तमउपदेश प्राप्त करके महाधनी और यशस्वी होवें ॥४५॥यह मन्त्र कुछ भेद से ऋग्वेद मेंहै−१०।१५।५ तथा यजुर्वेद−१९।५७ और महर्षिदयानन्दकृत ऋग्वेदादिभाष्यभूमिकापितृयज्ञविषय में व्याख्यात है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४५−(उपहूताः) निमन्त्रिताः (नः) अस्माकम् (पितरः) पितृवत्पालकाः (सोम्यासः) सोम्याः। ऐश्वर्यार्हाः। प्रियदर्शनाः (बर्हिष्येषु) वृद्धियोग्येषु (निधिषु) निमित्ते सप्तमी।रत्नसुवर्णादिकोशनिमित्ते (प्रियेषु) प्रीतिविषयेषु (ते) पितरः (आ गमन्तु)आगच्छन्तु (ते) (इह) अस्मिन् यज्ञदेशे (श्रुवन्तु) विकरणस्य लुक्। शृण्वन्तु (अधि) अधिकृत्य (ब्रुवन्तु) उपदिशन्तु (ते) (अवन्तु) रक्षन्तु (अस्मान्)धार्मिकान् ॥
@@ -3405,15 +3589,6 @@ May they, the Fathers who deserve the Soma, invited to their favourite oblations
 
 ये᳓ नः पितुः᳓पित᳓रो ये᳓ पितामहा᳓ अनूजहिरे᳓ सोमपीथं᳓ व᳓सिष्ठाः।  
 ते᳓भिर्यमः᳓ संरराणो᳓हवीं᳓ष्युश᳓न्नुश᳓द्भिः प्रतिकाम᳓मत्तु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/46_ye_naH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ये नः॑ पि॒तुःपि॒तरो॒ ये पि॑ताम॒हा अ॑नूजहि॒रे सो॑मपी॒थं वसि॑ष्ठाः।  
-तेभि॑र्य॒मः सं॑ररा॒णोह॒वींष्यु॒शन्नु॒शद्भिः॑ प्रतिका॒मम॑त्तु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/46_ye_naH.md">
@@ -3452,14 +3627,23 @@ unsuitably reckoned by the Anukr. a jagatī, having only one real
 ⌊W's version of **c** accords with Geldner's at *Ved. Stud.* i. 170  
 note.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Our Father's Fathers and their sires before them who came, most noble, to the Soma banquet, With these let Yama, yearning with the yearning, rejoicing eat our offerings at his pleasure.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये नः॑ पि॒तुःपि॒तरो॒ ये पि॑ताम॒हा अ॑नूजहि॒रे सो॑मपी॒थं वसि॑ष्ठाः।  
+तेभि॑र्य॒मः सं॑ररा॒णोह॒वींष्यु॒शन्नु॒शद्भिः॑ प्रतिका॒मम॑त्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। नः॒। पि॒तुः। पि॒तरः॑। ये। पि॒ता॒म॒हाः। अ॒नु॒ऽज॒हि॒रे। सो॒म॒ऽपी॒थम्। वसि॑ष्ठाः। तेभिः॑। य॒मः। स॒म्ऽर॒रा॒णः। ह॒वींषि॑। उ॒शन्। उ॒शत्ऽभिः॑। प्र॒ति॒ऽका॒मम्। अ॒त्तु॒। ३.४६। 
+ये। नः॒। पि॒तुः। पि॒तरः॑। ये। पि॒ता॒म॒हाः। अ॒नु॒ऽज॒हि॒रे। सो॒म॒ऽपी॒थम्। वसि॑ष्ठाः। तेभिः॑। य॒मः। स॒म्ऽर॒रा॒णः। ह॒वींषि॑। उ॒शन्। उ॒शत्ऽभिः॑। प्र॒ति॒ऽका॒मम्। अ॒त्तु॒। ३.४६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - जगती
@@ -3467,18 +3651,22 @@ Our Father's Fathers and their sires before them who came, most noble, to the So
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों और सन्तानों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ये) जिन (नः) हमारे (पितुः) पिता के (पितरः) पालन करने हारे पिता आदि ने और (ये) जिन (पितामहाः)दादा आदि वयोवृद्धों ने (वसिष्ठाः) अत्यन्त श्रेष्ठ होकर (सोमपीथम्) ऐश्वर्य कीरक्षा को (अनुजहिरे) निरन्तर स्वीकार किया है। (संरराणः) अच्छे प्रकार दान करनेहारा, (उशन्) कामना करने हारा (यमः) संयमी सन्तान (तेभिः) उन (उशद्भिः) कामनाकरने हारों के साथ (हवींषि) देने-लेने योग्य भोजनों को (प्रतिकामम्) प्रत्येककामना में (अत्तु) खावे ॥४६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे पूर्वज वृद्धोंने धार्मिक आचरणों से ऐश्वर्यवान् होकर सन्तानों से प्रीति की है, वैसे ही सबसन्तान जितेन्द्रिय होकर उत्तम व्यवहारों से उनकी सेवा करते रहें ॥४६॥यह मन्त्रकुछ भेद से ऋग्वेद में है−१०।१५।८ और यजुर्वेद में १९।५१ और इसका पहिला पाद आचुका है-अ० १८।२।४९ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४६−(ये) (नः) अस्माकम् (पितुः) जनकस्य (पितरः) पितृवत्पालकाः (ये) (पितामहाः) जनकस्य पितृवद् वृद्धाः (अनु-जहिरे) हृञ्स्वीकारादिषु-लिट्। अनुजह्रिरे। निरन्तरं स्वीचक्रुः (सोमपीथम्)निशीथगोपीथावगथाः। उ० २।९। सोम+पा रक्षणे-थक्। ऐश्वर्यरक्षणम् (वसिष्ठाः)वसुतमाः। अतिशयेन श्रेष्ठाः सन्तः (तेभिः) तैः (यमः) न्यायी। संयमी सन्तानः (संरराणः) रा दाने-कानच्। सम्यक्सुखदाता (हवींषि) दातव्यग्राह्यभोजनानि (उशन्)कामयमानः (उशद्भिः) कामयमानैः (प्रतिकामम्) कामं कामं प्रति (अत्तु) भक्षयतु ॥
@@ -3492,15 +3680,6 @@ Our Father's Fathers and their sires before them who came, most noble, to the So
 
 ये᳓तातृषु᳓र्देवत्रा᳓ जे᳓हमाना होत्रावि᳓दः स्तो᳓मतष्टासो अर्कैः᳓।  
 आ᳓ग्ने याहिसह᳓स्रं देववन्दैः᳓ सत्यैः᳓ कवि᳓भिरृ᳓षिभिर्घर्मस᳓द्भिः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/47_yetAtRShurdevatrA_jehamAnA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-येता॑तृ॒षुर्दे॑व॒त्रा जेह॑माना होत्रा॒विदः॒ स्तोम॑तष्टासो अ॒र्कैः।  
-आग्ने॑ याहिस॒हस्रं॑ देवव॒न्दैः स॒त्यैः क॒विभि॒रृषि॑भिर्घर्म॒सद्भिः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/47_yetAtRShurdevatrA_jehamAnA.md">
@@ -3532,14 +3711,23 @@ xix. 22. 14 (cf. the *śiṣíbhyas* of many mss. in the next vs.!) and to
 those noted under xiv. 2. 59: other cases at xix. 22. 9, 10; 38. 1  
 **d**.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Come to us, Agni, with the gracious Fathers who dwell in glow- ing light, the very Sages, Who thirsted mid the Gods, who hasten hither, oblation-winners, theme of singers' praises.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+येता॑तृ॒षुर्दे॑व॒त्रा जेह॑माना होत्रा॒विदः॒ स्तोम॑तष्टासो अ॒र्कैः।  
+आग्ने॑ याहिस॒हस्रं॑ देवव॒न्दैः स॒त्यैः क॒विभि॒रृषि॑भिर्घर्म॒सद्भिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। त॒तृ॒षुः। दे॒व॒ऽत्रा। जेह॑मानाः। हो॒त्रा॒ऽविदः॑। स्तोम॑ऽतष्टासः। अ॒कैः। आ। अ॒ग्ने॒। या॒हि॒। स॒हस्र॑म्। दे॒व॒ऽव॒न्दैः। स॒त्यैः। क॒विऽभिः॑। ऋषि॑ऽभिः। घ॒र्म॒सत्ऽभेः॑। ३.४७। 
+ये। त॒तृ॒षुः। दे॒व॒ऽत्रा। जेह॑मानाः। हो॒त्रा॒ऽविदः॑। स्तोम॑ऽतष्टासः। अ॒कैः। आ। अ॒ग्ने॒। या॒हि॒। स॒हस्र॑म्। दे॒व॒ऽव॒न्दैः। स॒त्यैः। क॒विऽभिः॑। ऋषि॑ऽभिः। घ॒र्म॒सत्ऽभेः॑। ३.४७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भुरिक् त्रिष्टुप्
@@ -3547,18 +3735,22 @@ Come to us, Agni, with the gracious Fathers who dwell in glow- ing light, the ve
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों और सन्तानों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ये) जिन (जेहमानाः)प्रयत्न करते हुए, (होत्राविदः) वेदवाणी जाननेवाले, (स्तोमतष्टासः) स्तुतियोग्य कर्मों में ढाले हुए पुरुषों ने (अर्कैः) पूजनीय व्यवहारों से (देवत्रा)उत्तम गुणों की (ततृषुः) तृष्णा की है। (अग्ने) हे विद्वान् ! (सहस्रम्) सहस्रप्रकार से (देववन्दैः) विद्वानों से वन्दना किये गये, (सत्यैः) सत्य शीलवाले, (कविभिः) बुद्धिमान्, (घर्मसद्भिः) यज्ञ में बैठनेवाले (ऋषिभिः) उन ऋषियों केसाथ (आ याहि) तू आ ॥४७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो महात्मा लोग उत्तमविचारवाले सत्यशील प्रतिष्ठित वेदवेत्ता होवें, विद्वान् पुरुष उन से मिलकरसत्कारपूर्वक उन्नति का विचार करें ॥४७॥मन्त्र ४७, ४८ कुछ पदभेद और पादभेद सेऋग्वेद में है−१०।१५।९, १० ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४७−(ये) विद्वांसः (ततृषुः) ञितृषापिपासायाम्-लिट्। तृष्यन्ति स्म। उत्कण्ठितवन्तः (देवत्रा) देवमनुष्यपुरुष०। पा०५।४।५६। इति द्वितीयार्थे त्रा। देवान्। दिव्यगुणान् (जेहमानाः) जेहृप्रयत्ने-शानच्। प्रयतमानाः। व्याप्रियमाणाः (होत्राविदः) होत्रा वाङ्नाम-निघ०१।११। वेदवाग्ज्ञातारः (स्तोमतष्टासः) तक्षू तनूकरणे-क्त, असुगागमः। स्तोमैःस्तुतिकर्मभिस्तनूकृतः (अर्कैः) म० ४०। पूजनीयविचारैः (अग्ने) हे विद्वन् (आयाहि) आगच्छ (सहस्रम्) सहस्रप्रकारेण (देववन्दैः) विद्वद्भिर्वन्दना नमस्कारोयेषां तैः (सत्यैः) सत्यशीलैः (कविभिः) मेधाविभिः (ऋषिभिः) वेदार्थदर्शकैः (घर्मसद्भिः) घर्म यज्ञनाम-निघ० ३।१७। यज्ञे सदनशीलैः ॥
@@ -3572,15 +3764,6 @@ Come to us, Agni, with the gracious Fathers who dwell in glow- ing light, the ve
 
 ये᳓ सत्या᳓सोहविर᳓दो हविष्पा᳓ इ᳓न्द्रेण देवैः᳓ सर᳓थं तुरे᳓ण।  
 आ᳓ग्ने याहिसुविद᳓त्रेभिरर्वा᳓ङ्प᳓रैः पू᳓र्वैरृ᳓षिभिर्घर्मस᳓द्भिः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/48_ye_satyAsohavirado.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ये स॒त्यासो॑हवि॒रदो॑ हवि॒ष्पा इन्द्रे॑ण दे॒वैः स॒रथं॑ तु॒रेण॑।  
-आग्ने॑ याहिसुवि॒दत्रे॑भिर॒र्वाङ्परैः॒ पूर्वै॒रृषि॑भिर्घर्म॒सद्भिः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/48_ye_satyAsohavirado.md">
@@ -3603,14 +3786,23 @@ note marked with a \* under 47⌋. In **c** (see under vs. 47), MS. reads
 AV. RV.⌋. The verse is used in Kāuś. only with its predecessor, which  
 see.
 </details>
+
 <details><summary>Griffith</summary>
 
 Come, Agni, come with countless ancient Fathers, dwellers in light, primeval, God-adorers, Eaters and drinkers of oblation, truthful, who travel with the Deities and Indra.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये स॒त्यासो॑हवि॒रदो॑ हवि॒ष्पा इन्द्रे॑ण दे॒वैः स॒रथं॑ तु॒रेण॑।  
+आग्ने॑ याहिसुवि॒दत्रे॑भिर॒र्वाङ्परैः॒ पूर्वै॒रृषि॑भिर्घर्म॒सद्भिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। स॒त्यासः॑। ह॒विः॒ऽअदः॑। ह॒विः॒ऽपाः। इन्द्रे॑ण‍। दे॒वैः। स॒ऽरथ॑म्। तु॒रेण॑। आ। अ॒ग्रे॒। या॒हि॒। सु॒ऽवि॒दत्रे॑भिः। अ॒र्वाङ्। परैः॑। पूर्वैः॑। ऋषि॑ऽभिः। घ॒र्म॒सत्ऽभिः॑। ३.४८। 
+ये। स॒त्यासः॑। ह॒विः॒ऽअदः॑। ह॒विः॒ऽपाः। इन्द्रे॑ण‍। दे॒वैः। स॒ऽरथ॑म्। तु॒रेण॑। आ। अ॒ग्रे॒। या॒हि॒। सु॒ऽवि॒दत्रे॑भिः। अ॒र्वाङ्। परैः॑। पूर्वैः॑। ऋषि॑ऽभिः। घ॒र्म॒सत्ऽभिः॑। ३.४८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -3618,18 +3810,22 @@ Come, Agni, come with countless ancient Fathers, dwellers in light, primeval, Go
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों और सन्तानों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ये) जो (सत्यासः)सत्यशील, (हविरदः) ग्राह्य अन्न खानेवाले, (हविष्पाः) देने-लेने योग्य पदार्थोंके रक्षक पुरुष (देवैः) विजयी पुरुषों के सहित (तुरेण) वेगवान् (इन्द्रेण) बड़ेऐश्वर्यवाले जन के साथ (सरथम्) एकरथ में [चलते हैं]। (अग्ने) हे विद्वान् ! (सुविदत्रेभिः) बड़े धनी, (परैः) श्रेष्ठ (पूर्वैः) पूर्वज, (घर्मसद्भिः) यज्ञमें बैठनेवाले, (ऋषिभिः) उन ऋषियों के साथ (अर्वाङ्) सन्मुख होकर (आ याहि) तू आ॥४८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् लोग, प्रतापीपुरुष के सहायक, शूरवीरों के नायक पूजनीय महापुरुषों से मिलकर सदा उन्नति काउपाय सोचें ॥४८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४८−(सत्यासः) सत्याः। सत्यशीलाः (हविरदः) हविषां ग्राह्यान्नानांभक्षयितारः (हविष्पाः) हविषां दातव्यग्राह्यपदार्थानां रक्षकाः (इन्द्रेण)परमैश्वर्यवता पुरुषेण सह (देवैः) विजयिपुरुषैः सह (सरथम्) यथा तथा। समाने रथेवर्तमानाः (त्वरेण) त्वरमाणेन (अग्ने) हे विद्वन् (आयाहि) आगच्छ (सुविदत्रेभिः)बहुधनयुक्तैः (अर्वाङ्) अभिमुखः सन् (परैः) उत्कृष्टैः (पूर्वैः) पूर्वपुरुषैः।अन्यत् पूर्ववत्-म० ४७ ॥
@@ -3643,15 +3839,6 @@ Come, Agni, come with countless ancient Fathers, dwellers in light, primeval, Go
 
 उ᳓प सर्प मात᳓रंभू᳓मिमेता᳓मुरुव्य᳓चसं पृथिवीं᳓ सुशे᳓वाम्।  
 ऊ᳓र्णम्रदाः पृथिवी᳓ द᳓क्षिणावतएषा᳓ त्वा पातु प्र᳓पथे पुर᳓स्तात् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/49_upa_sarpa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उप॑ सर्प मा॒तरं॒भूमि॑मे॒तामु॑रु॒व्यच॑सं पृथि॒वीं सु॒शेवा॑म्।  
-ऊर्ण॑म्रदाः पृथि॒वी दक्षि॑णावतए॒षा त्वा॑ पातु॒ प्रप॑थे पु॒रस्ता॑त् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/49_upa_sarpa.md">
@@ -3677,14 +3864,23 @@ grows, of course, out of the equivalence in grammatical theory of *mr*
 and *mmr*. The verse (according to the comm., vss. 49-51) is used ⌊Kāuś.  
 86. 10⌋ with 2. 50 (see under that verse) in covering the bones.
 </details>
+
 <details><summary>Griffith</summary>
 
 Betake thee to the lap of Earth, our mother, of Earth far-spread- ing, very kind and gracious. May she, wool-soft unto the guerdon-giver, guard thee in front upon the distant pathway.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑ सर्प मा॒तरं॒भूमि॑मे॒तामु॑रु॒व्यच॑सं पृथि॒वीं सु॒शेवा॑म्।  
+ऊर्ण॑म्रदाः पृथि॒वी दक्षि॑णावतए॒षा त्वा॑ पातु॒ प्रप॑थे पु॒रस्ता॑त् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑। स॒र्प॒। मा॒तर॑म्। भूमि॑म्। ए॒ताम्। उ॒रु॒ऽव्यच॑सम्। पृ॒थि॒वीम्। सु॒ऽशेवा॑म्। ऊर्ण॑ऽम्रदाः। पृ॒थि॒वी। दक्षि॑णाऽवते। ए॒षा। त्वा॒। पा॒तु॒। प्रऽप॑थे। पु॒रस्ता॑त्। ३.४९। 
+उप॑। स॒र्प॒। मा॒तर॑म्। भूमि॑म्। ए॒ताम्। उ॒रु॒ऽव्यच॑सम्। पृ॒थि॒वीम्। सु॒ऽशेवा॑म्। ऊर्ण॑ऽम्रदाः। पृ॒थि॒वी। दक्षि॑णाऽवते। ए॒षा। त्वा॒। पा॒तु॒। प्रऽप॑थे। पु॒रस्ता॑त्। ३.४९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भुरिक् त्रिष्टुप्
@@ -3692,18 +3888,22 @@ Betake thee to the lap of Earth, our mother, of Earth far-spread- ing, very kind
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों और सन्तानों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मातरम्) माता [केसमान] (भूमिम्) आधारवाली (एताम्) इस (उरुव्यचसम्) बड़े फैलाववाली, (सुशेवाम्)बड़ी सुख देनेवाली (पृथिवीम्) पृथिवी को (उप) आदर से (सर्प) तू प्राप्त कर। (पृथिवी) पृथिवी (दक्षिणावते) दक्षिणा [प्रतिष्ठा] वाले पुरुष के लिये (ऊर्णम्रदाः) ऊन के समान मृदुल है, (एषा) यह [पृथिवी] (प्रपथे) बड़े मार्ग में (पुरस्तात्)सामने से (त्वा) तेरी (पातु) रक्षा करे ॥४९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो जिज्ञासु पुरुष इसपृथिवी को खोजते रहते हैं, वे प्रतिष्ठा के साथ सुख भोगते हुए आगे बढ़ते जातेहैं ॥४९॥मन्त्र ४९-५२ कुछ भेद से ऋग्वेद में हैं−१०।१८।१०-१३ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४९−(उप) पूजायाम् (सर्प) गच्छ। प्राप्नुहि (मातरम्) मातृतुल्याम् (भूमिम्) आधारभूताम् (एताम्)दृश्यमानाम् (उरुव्यचसम्) बहुव्याप्तिकाम् (पृथिवीम्) (सुशेवाम्) बहुसुखकरीम् (ऊर्णम्रदाः) गतिकारकोप०। उ० ४।२२७। ऊर्ण+म्रद क्षोदे-असि। ऊर्णवन्मृदुला (पृथिवी) भूमिः (दक्षिणावते) प्रतिष्ठायुक्ताय मनुष्याय (एषा) (त्वा) (पातु)रक्षतु (पुरस्तात्) अग्रतः ॥
@@ -3717,15 +3917,6 @@ Betake thee to the lap of Earth, our mother, of Earth far-spread- ing, very kind
 
 उ᳓च्छ्वञ्चस्वपृथिवि मा᳓ नि᳓ बाधथाः सूपायना᳓स्मै भव सूपसर्पणा᳓।  
 माता᳓ पुत्रं᳓ य᳓थासिचा᳓भ्ये᳙नं भूम ऊर्णुहि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/50_uchChvanchasvapRthivi_mA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उच्छ्व॑ञ्चस्वपृथिवि॒ मा नि बा॑धथाः सूपाय॒नास्मै॑ भव सूपसर्प॒णा।  
-मा॒ता पु॒त्रं यथा॑सि॒चाभ्ये᳡नं भूम ऊर्णुहि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/50_uchChvanchasvapRthivi_mA.md">
@@ -3752,14 +3943,23 @@ AV.\]. At RV. x. 142. 6, Ludwig renders *úc chv-* by 'gäne empor': cf.
 Eggeling's version of *ucchvan̄ka* and the context at śB. v. 4. 1⁹. In  
 neither RV. passage does Sāyaṇa seem convincing.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Heave thyself, Earth, nor press him downward heavily: afford him easy access pleasant to approach, Cover him as a mother wraps her skirt about her child, O Earth!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उच्छ्व॑ञ्चस्वपृथिवि॒ मा नि बा॑धथाः सूपाय॒नास्मै॑ भव सूपसर्प॒णा।  
+मा॒ता पु॒त्रं यथा॑सि॒चाभ्ये᳡नं भूम ऊर्णुहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। श्व॒ञ्च॒स्व॒। पृ॒थि॒व‍ि॒। मा। नि। वा॒ध॒थाः॒। सु॒ऽउ॒पा॒य॒ना। अ॒स्मै॒। भ॒व॒। सु॒ऽउ॒प॒स॒र्प॒णा। मा॒ता। पु॒त्रम्। यथा॑। सि॒चा। अ॒भि। ए॒न॒म्। भू॒मे॒। ऊ॒र्णु॒हि॒। ३.५०। 
+उत्। श्व॒ञ्च॒स्व॒। पृ॒थि॒व‍ि॒। मा। नि। वा॒ध॒थाः॒। सु॒ऽउ॒पा॒य॒ना। अ॒स्मै॒। भ॒व॒। सु॒ऽउ॒प॒स॒र्प॒णा। मा॒ता। पु॒त्रम्। यथा॑। सि॒चा। अ॒भि। ए॒न॒म्। भू॒मे॒। ऊ॒र्णु॒हि॒। ३.५०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रस्तार पङ्क्ति
@@ -3767,18 +3967,22 @@ Heave thyself, Earth, nor press him downward heavily: afford him easy access ple
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों और सन्तानों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पृथिवी) हे पृथिवी तू (उत् श्वञ्चस्व) फूलजा [फूल के समान खिल जा], (मानिबाधथाः) मत दबी जा, (अस्मै)इस [पुरुष] के लिये (सूपायना) अच्छे प्रकार पाने योग्य और (सूपसर्पणा) भलेप्रकार चलने योग्य (भव) हो। (यथा) जैसे (माता) माता (पुत्रम्) पुत्र को (सिचा)अपने आँचल से, [वैसे] (भूमे) हे भूमि ! (एनम्) इस [पुरुष] को [अपने रत्नों से] (अभि) सब ओर से (ऊर्णुहि) ढक ले ॥५०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य विज्ञानपूर्वक पृथिवी के पदार्थों और गुणों का प्रकाश करते हैं, वे अनेक रत्नों को पाकरऐसे सुखी होते हैं, जैसे माता से रक्षित बालक आनन्द पाता है ॥५०॥इस मन्त्र काउत्तरार्ध आ चुका है-अथ० १८।२।५० ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५०−(उच्छ्वञ्चस्व) श्वचि गतौ-लोट्। उदेहि।पुलकिता भव (पृथिवि) (मा नि बाधथाः) संपीडिता मा भूः (सूपायना) सु+उप+अयना।सुखेन प्राप्तव्या (अस्मै) (भव) (सूपसर्पणा) सु+उप+सर्पणा। सुखेन गन्तव्या (माता) जननी (पुत्रम्) सन्तानम् (यथा) (सिचा) चेलाञ्चलेन (अभि) सर्वतः (एनम्)जिज्ञासुम् (भूमे) हे पृथिवि (उर्णुहि) आच्छादय स्वरत्नैः ॥
@@ -3792,15 +3996,6 @@ Heave thyself, Earth, nor press him downward heavily: afford him easy access ple
 
 उ᳓च्छ्व᳓ञ्चमानापृथिवी᳓ सु᳓ तिष्ठतु सह᳓स्रं मि᳓त उ᳓प हि᳓ श्र᳓यन्ताम्।  
 ते᳓ गृहा᳓सोघृतश्चु᳓तः स्योना᳓ विश्वा᳓हास्मै शरणाः᳓ सन्त्व᳓त्र ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/51_uchChvanchamAnApRthivI_su.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उच्छ्वञ्च॑मानापृथि॒वी सु ति॑ष्ठतु स॒हस्रं॒ मित॒ उप॒ हि श्रय॑न्ताम्।  
-ते गृ॒हासो॑घृत॒श्चुतः॑ स्यो॒ना वि॒श्वाहा॑स्मै शर॒णाः स॒न्त्वत्र॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/51_uchChvanchamAnApRthivI_su.md">
@@ -3825,14 +4020,23 @@ víśvā*); iii. 54. 22⌋. The comm. reads in **b** *mithas*, but explains
 it as if *mitas* (*mīyamānā oṣadhayaḥ*). The Anukr. takes no notice of  
 the extra syllable in **a**.
 </details>
+
 <details><summary>Griffith</summary>
 
 Now let the heaving earth be free from motion: yea, let a thousand clods remain above him. Be they to him a home distilling fatness: here let them ever be his place of refuge.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उच्छ्वञ्च॑मानापृथि॒वी सु ति॑ष्ठतु स॒हस्रं॒ मित॒ उप॒ हि श्रय॑न्ताम्।  
+ते गृ॒हासो॑घृत॒श्चुतः॑ स्यो॒ना वि॒श्वाहा॑स्मै शर॒णाः स॒न्त्वत्र॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒त्ऽश्वञ्च॑माना। पृ॒थि॒वी। तु। ति॒ष्ठ॒तु॒। स॒हस्र॑म्। मितः॑। उप॑। हि। श्रय॑न्ताम्। ते। गृ॒हासः॑। घृ॒त॒ऽश्चुतः॑। स्यो॒नाः। वि॒श्वाहा॑। अ॒स्मै॒। श॒र॒णाः। स॒न्तु॒। अत्र॑। ३.५१। 
+उ॒त्ऽश्वञ्च॑माना। पृ॒थि॒वी। तु। ति॒ष्ठ॒तु॒। स॒हस्र॑म्। मितः॑। उप॑। हि। श्रय॑न्ताम्। ते। गृ॒हासः॑। घृ॒त॒ऽश्चुतः॑। स्यो॒नाः। वि॒श्वाहा॑। अ॒स्मै॒। श॒र॒णाः। स॒न्तु॒। अत्र॑। ३.५१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -3840,18 +4044,22 @@ Now let the heaving earth be free from motion: yea, let a thousand clods remain 
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों और सन्तानों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उच्छ्वञ्चमाना) फूलतीहुई (पृथिवी) पृथिवी (सु) अच्छे प्रकार (तिष्ठतु) ठहरी रहे, (सहस्रम्) सहस्रप्रकार से (मितः) फैले हुए स्थान [दुर्ग आदि] (हि) अवश्य (उप श्रयन्ताम्) आश्रयलेवें। (ते) यह (गृहासः) घर (घृतश्चुतः) घी से सींचनेवाले, (स्योनाः) सुख करनेहारे और (शरणाः) शरण देनेवाले (विश्वाहा) सब दिन (अत्र) यहाँ पर (अस्मै) इसपुरुष के लिये (सन्तु) होवें ॥५१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को योग्य हैकि पृथिवी को भले प्रकार उपकारी करके अच्छे-अच्छे दृढ़ सुखदायक स्थान बनावें॥५१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५१−(उच्छ्वञ्चमाना) म० ५०। पुलकितावयवा (पृथिवी) (सु) (तिष्ठतु) (सहस्रम्)सहस्रप्रकारेण (मितः) डुमिञ् प्रक्षेपणे-क्विप्, तुक्। प्रक्षिप्ता विस्तृतादुर्गादिनिवासाः (हि) निश्चयेन (उपश्रयन्ताम्) आश्रिता भवन्तु (ते) दृश्यमानाः (गृहासः) गृहाः (घृतश्चुतः) श्चुतिर् क्षरणे-क्विप्। घृतेन क्षारयितारः।सेक्तारः (स्योनाः) सुखकराः (विश्वाहा) सर्वाण्यहानि (अस्मै) पुरुषाय (शरणाः)शरण-अर्शआद्यच्। आश्रयभूताः (सन्तु) (अत्र) अस्मिंल्लोके ॥
@@ -3865,15 +4073,6 @@ Now let the heaving earth be free from motion: yea, let a thousand clods remain 
 
 उ᳓त्ते स्तभ्नामिपृथिवीं᳓ त्व᳓त्प᳓रीमं᳓ लोगं᳓ निद᳓धन्मो᳓ अहं᳓ रिषम्।  
 एतां᳓ स्थू᳓णां पित᳓रोधारयन्ति ते त᳓त्र यमः᳓ सा᳓दना ते कृणोतु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/52_utte_stabhnAmipRthivIm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उत्ते॑ स्तभ्नामिपृथि॒वीं त्वत्परी॒मं लो॒गं नि॒दध॒न्मो अ॒हं रि॑षम्।  
-ए॒तां स्थूणां॑ पि॒तरो॑धारयन्ति ते॒ तत्र॑ य॒मः साद॑ना ते कृणोतु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/52_utte_stabhnAmipRthivIm.md">
@@ -3904,14 +4103,23 @@ it (86. 8) in the ceremony of interment of the bones, with the direction
 *logān yathāparu*, doubtless '\[laying\] clods for each several joint';  
 the comm. does not notice this.
 </details>
+
 <details><summary>Griffith</summary>
 
 I stay the earth from thee, while over thee I place this piece of earth. May I be free from injury. The Fathers firmly fix this pillar here for thee; and there let Yama make thee an abiding-place.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उत्ते॑ स्तभ्नामिपृथि॒वीं त्वत्परी॒मं लो॒गं नि॒दध॒न्मो अ॒हं रि॑षम्।  
+ए॒तां स्थूणां॑ पि॒तरो॑धारयन्ति ते॒ तत्र॑ य॒मः साद॑ना ते कृणोतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। ते॒। स्त॒भ्ना॒मि॒। पृ॒थि॒वीम्। त्वत्। परि॑। इ॒मम्। लो॒गम्। नि॒ऽदध॑त्। मो इति॑। अ॒हम्। रि॒ष॒म्। ए॒ताम्। स्थूणा॑म्। पि॒तरः॑। धा॒र॒य॒न्ति॒। ते॒। तत्र॑। य॒मः। सद॑ना। ते॒। कृ॒णो॒तु॒। ३.५२। 
+उत्। ते॒। स्त॒भ्ना॒मि॒। पृ॒थि॒वीम्। त्वत्। परि॑। इ॒मम्। लो॒गम्। नि॒ऽदध॑त्। मो इति॑। अ॒हम्। रि॒ष॒म्। ए॒ताम्। स्थूणा॑म्। पि॒तरः॑। धा॒र॒य॒न्ति॒। ते॒। तत्र॑। य॒मः। सद॑ना। ते॒। कृ॒णो॒तु॒। ३.५२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भुरिक् त्रिष्टुप्
@@ -3919,18 +4127,22 @@ I stay the earth from thee, while over thee I place this piece of earth. May I b
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पितरों और सन्तानों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (ते)तेरे लिये (पृथिवीम्) पृथिवी को (उत्) उत्तमता से (स्तभ्नामि) मैं [गृहस्थ]थाँभता हूँ, (त्वत् परि) तेरे सब ओर (इमम्) इस (लोगम्) निवासस्थान को (निदधत्)दृढ़ जमाता हुआ (अहम्) मैं (मो रिषम्) कभी न दुःख पाऊँ। (एताम्) इस (स्थूणाम्)नीव [घर की मूल] को (पितरः) पितर [रक्षक महात्मा लोग] (ते) तेरे लिये (धारयन्ति)धरते हैं, (तत्र) उस [नीव] पर (यमः) संयमी [शिल्पी जन] (ते) तेरे लिये (सदना)घरों को (कृणोतु) बनावे ॥५२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब मनुष्य भूमि कोसुथरी सुडौल बनाकर बड़े लोगों के हाथों से नींव जमवा कर अच्छे-अच्छे शिल्पियोंसे दृढ़ स्थान बनवावें, जिससे रहनेवाले सदा सुखी रहें ॥५२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५२−(उत्) उत्तमतया (ते)तुभ्यम् (स्तभ्नामि) ष्टभि गतिप्रतिबन्धे−श्ना। धारयामि। स्थापयामि (पृथिवीम्)भूमिम् (त्वत् परि) तव परितः (इमम्) (लोगम्) लुज लुजि हिंसाबलादाननिकेतनेषु-घञ्।चजोः कु घिण्यतोः। पा० ७।२।५२। इति कुत्वं घिति प्रत्यये। निवासस्थानम् (निदधत्)दृढं धारयन् (अहम्) गृहस्थः (मो रिषम्) मैव हिंसितो भूवम् (एताम्) (स्थूणाम्)रास्नासास्नास्थूणावीणाः। उ० ३।१५। ष्ठा गतिनिवृत्तौ-न प्रत्ययः, आकारस्य ऊइत्यादेशः। तिष्ठति गृहं यस्यां ताम्। गृहमूलम् (पितरः) पालका महात्मानः (धारयन्ति) धरन्ति (ते) तुभ्यम् (तत्र) गृहमूले (यमः) संयमी। शिल्पी (सदना)गृहाणि (ते) तुभ्यम् (कृणोतु) करोतु ॥
@@ -3944,15 +4156,6 @@ I stay the earth from thee, while over thee I place this piece of earth. May I b
 
 इम᳓मग्ने चमसं᳓मा᳓ वि᳓ जिह्व᳓रः प्रियो᳓ देवा᳓नामुत᳓ सोम्या᳓नाम्।  
 अयं᳓ य᳓श्चमसो᳓देवपा᳓नस्त᳓स्मिन्देवा᳓ अमृ᳓ता मादयन्ताम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/53_imamagne_chamasammA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इ॒मम॑ग्ने चम॒संमा वि जि॒ह्वरः॑ प्रि॒यो दे॒वाना॑मु॒त सो॒म्याना॑म्।  
-अ॒यं यश्च॑म॒सोदे॑व॒पान॒स्तस्मि॑न्दे॒वा अ॒मृता॑ मादयन्ताम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/53_imamagne_chamasammA.md">
@@ -3973,14 +4176,23 @@ funeral pile, when the deceased's sacrificial implements are disposed
 about him to be burned with him. The irregularity of the verse (12 + 11:  
 10 + 11 = 44) is unnoticed by the Anukr.
 </details>
+
 <details><summary>Griffith</summary>
 
 Forbear, O Agni, to upset this chalice: the Gods and they who merit Soma love it. This cup, yea this which serves the Gods to drink from,--in this let the Immortals take their pleasure.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒मम॑ग्ने चम॒संमा वि जि॒ह्वरः॑ प्रि॒यो दे॒वाना॑मु॒त सो॒म्याना॑म्।  
+अ॒यं यश्च॑म॒सोदे॑व॒पान॒स्तस्मि॑न्दे॒वा अ॒मृता॑ मादयन्ताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒मम्। अ॒ग्ने॒। च॒म॒सम्। मा। वि। जि॒ह्व॒रः॒। प्रि॒यः। दे॒वाना॑म्। उ॒त। सो॒म्याना॑म्। अ॒यम्। यः। च॒म॒सः। दे॒व॒ऽपानः॑। तस्मि॑न्। दे॒वाः। अ॒मृताः॑। मा॒द॒य॒न्ता॒म्। ३.५३। 
+इ॒मम्। अ॒ग्ने॒। च॒म॒सम्। मा। वि। जि॒ह्व॒रः॒। प्रि॒यः। दे॒वाना॑म्। उ॒त। सो॒म्याना॑म्। अ॒यम्। यः। च॒म॒सः। दे॒व॒ऽपानः॑। तस्मि॑न्। दे॒वाः। अ॒मृताः॑। मा॒द॒य॒न्ता॒म्। ३.५३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -3988,18 +4200,22 @@ Forbear, O Agni, to upset this chalice: the Gods and they who merit Soma love it
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 घर की रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे विद्वान् ! (इमम्) इस (चमसम्) खाने योग्य अन्न को (वि) बिगाड़ कर (मा जिह्वरः) मत नष्ट कर, वह [अन्न] (देवानाम्) विद्वानों का (उत) और (सोम्यानाम्) ऐश्वर्यवालों का (प्रियः) प्रिय है। (अयम्) यह (यः) जो (चमसः) अन्न (देवपानः) इन्द्रियों कारक्षक है, (तस्मिन्) उस में (अमृताः) अमर [न मरे हुए पुरुषार्थी] (देवाः)व्यवहारकुशल लोग (मादयन्ताम्) [सबको] तृप्त करें ॥५३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य शुद्ध अन्न आदिपदार्थ के सेवन से विद्वान् और ऐश्वर्यवान् होकर शरीररक्षा करके सबको सुखीरक्खें ॥५३॥यह मन्त्र कुछ भेद से ऋग्वेद में है−१०।१६।८ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५३−(इमम्) उपस्थितम् (चमसम्) अत्यविचमि०। उ० ३।११७। चमु अदने-असच्। भक्षणीयं पदार्थम् (वि) विकृत्य (मा जिह्वरः) ह्वृ कौटिल्ये-णिचि चङि लुङि रूपम्। कुटिलं नष्टं मा कार्षीः (प्रियः) प्रीतिकरः (देवानाम्) विदुषाम् (उत) अपि च (सोम्यानाम्)ऐश्वर्ययोग्यानाम् (अयम्) (यः) (चमसः) भक्षणीयपदार्थः (देवपानः) पारक्षणे-ल्युट्। इन्द्रियरक्षणः (तस्मिन्) पदार्थे (देवाः) व्यवहारकुशलाः (अमृताः)अमराः। पुरुषार्थवन्तः (मादयन्ताम्) तर्पयन्तु सर्वान् ॥
@@ -4013,15 +4229,6 @@ Forbear, O Agni, to upset this chalice: the Gods and they who merit Soma love it
 
 अ᳓थर्वापूर्णं᳓ चमसं᳓ य᳓मिन्द्राया᳓बिभर्वाजि᳓नीवते।  
 त᳓स्मिन्कृणोति सुकृत᳓स्यभक्षं᳓ त᳓स्मिन्नि᳓न्दुः पवते विश्वदा᳓नी᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/54_atharvApUrNaM_chamasam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अथ॑र्वापू॒र्णं च॑म॒सं यमि॑न्द्रा॒याबि॑भर्वा॒जिनी॑वते।  
-तस्मि॑न्कृणोति सुकृ॒तस्य॑भ॒क्षं तस्मि॒न्निन्दुः॑ पवते विश्व॒दानीम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/54_atharvApUrNaM_chamasam.md">
@@ -4038,14 +4245,23 @@ The comm. supplies *yajñasya* to *sukṛtasya*, and, as subject of
 *kṛṇoti*, *ṛtvijāṁ gaṇaḥ*. ⌊The verse scans as 8 + 12: 11 + 11.⌋—⌊See my  
 note on Part VII., above, p. 848.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 The chalice brimming o'er which erst Atharvan offered to Indra, Lord of wealth and treasure, Indu therein sets draught of virtuous action, and ever purifies himself within it.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अथ॑र्वापू॒र्णं च॑म॒सं यमि॑न्द्रा॒याबि॑भर्वा॒जिनी॑वते।  
+तस्मि॑न्कृणोति सुकृ॒तस्य॑भ॒क्षं तस्मि॒न्निन्दुः॑ पवते विश्व॒दानीम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अथ॑र्वा। पू॒र्णम्। च॒म॒सम्। यम्। इन्द्रा॑य। अबि॑भः। वा॒जिनी॑ऽवते। तस्मि॑न्। कृ॒णो॒ति॒। सु॒ऽकृ॒तस्य॑। भ॒क्षम्। तस्मि॑न् इन्दुः॑। प॒व॒ते॒। वि॒श्व॒ऽदानी॑म्। ३.५४। 
+अथ॑र्वा। पू॒र्णम्। च॒म॒सम्। यम्। इन्द्रा॑य। अबि॑भः। वा॒जिनी॑ऽवते। तस्मि॑न्। कृ॒णो॒ति॒। सु॒ऽकृ॒तस्य॑। भ॒क्षम्। तस्मि॑न् इन्दुः॑। प॒व॒ते॒। वि॒श्व॒ऽदानी॑म्। ३.५४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पुरोऽनुष्टुप् त्रिष्टुप्
@@ -4053,18 +4269,22 @@ The chalice brimming o'er which erst Atharvan offered to Indra, Lord of wealth a
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 घर की रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अथर्वा) निश्चलपरमात्मा ने (यम्) जिसे (पूर्णम्) पूरे (चमसम्) अन्न को (वाजिनीवते) विज्ञानयुक्त क्रियावाले (इन्द्राय) बड़े ऐश्वर्यवान् पुरुष के लिये (अबिभः) भरा है। (तस्मिन्) उस [अन्न] में (इन्दुः) ऐश्वर्यवान् पुरुष (सुकृतस्य) सुकर्म का (भक्षम्) सेवन [वा भोग] (कृणोति) करता है, और (तस्मिन्) उसी [अन्न] में वह (विश्वदानीम्) समस्त दानों की क्रिया को (पवते) शुद्ध करता है ॥५४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर ने संसार कोअन्न आदि सुखदायक पदार्थों से भर दिया है, मनुष्य पुरुषार्थ से धर्म के साथउन्हें प्राप्त करके सबको सुख देवें ॥५४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५४−(अथर्वा) अ० ४।१।७।थर्वतिश्चरतिकर्मा-निरु० ११।१८। स्नामदिपद्यर्ति०। उ० ४।११३। अ+थर्व चरणे-वनिप्, वलोपः। निश्चलः परमेश्वर (पूर्णम्) पर्याप्तम् (चमसम्) म० ५३। भक्षणीयपदार्थम् (यम्) (इन्द्राय) परमैश्वर्यवते पुरुषाय (अबिभः) बिभर्त्तेर्लङि प्रथमैकवचनम्।भृतवान् (वाजिनीवते) विज्ञानवतीक्रियायुक्ताय (तस्मिन्) चमसे (कृणोति) करोति (सुकृतस्य) पुण्यकर्मणः। धर्मस्य (भक्षम्) वृतॄवदिवचि०। उ० ३।६२। भज सेवायाम्-सप्रत्ययः। सेवनम्। भोगम् (तस्मिन्) (इन्दुः) परमैश्वर्यवान् पुरुषः (पवते)शोधयति (विश्वदानीम्) अ० ७।७३।११। विश्वानि सर्वाणि दानानि यस्यां तां क्रियाम्॥
@@ -4078,15 +4298,6 @@ The chalice brimming o'er which erst Atharvan offered to Indra, Lord of wealth a
 
 य᳓त्ते कृष्णः᳓शकुन᳓ आतुतो᳓द पिपीलः᳓ सर्प᳓ उत᳓ वा श्वा᳓पदः।  
 अग्नि᳓ष्ट᳓द्विश्वा᳓दगदं᳓कृणोतु सो᳓मश्च यो᳓ ब्राह्मणाँ᳓ आविवे᳓श ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/55_yatte_kRShNaHshakuna.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यत्ते॑ कृ॒ष्णःश॑कु॒न आ॑तु॒तोद॑ पिपी॒लः स॒र्प उ॒त वा॒ श्वाप॑दः।  
-अ॒ग्निष्टद्वि॒श्वाद॑ग॒दंकृ॑णोतु॒ सोम॑श्च॒ यो ब्रा॑ह्म॒णाँ आ॑वि॒वेश॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/55_yatte_kRShNaHshakuna.md">
@@ -4127,14 +4338,23 @@ burned with fire; this is then probably the meaning of Kāuśika's
 direction *ity avadīpayati*. The verse appears again (83. 20) in  
 connection with the strewing and covering of the bone-relics.
 </details>
+
 <details><summary>Griffith</summary>
 
 What wound soe'er the dark bird hath inflicted, the emmet, or the serpent, or the jackal, May Agni who devoureth all things heal it, and Soma, who hath passed into the Brahmans.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्ते॑ कृ॒ष्णःश॑कु॒न आ॑तु॒तोद॑ पिपी॒लः स॒र्प उ॒त वा॒ श्वाप॑दः।  
+अ॒ग्निष्टद्वि॒श्वाद॑ग॒दंकृ॑णोतु॒ सोम॑श्च॒ यो ब्रा॑ह्म॒णाँ आ॑वि॒वेश॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। ते॒। कृ॒ष्णः। श॒कु॒नः। आ॒ऽतु॒तोद॑। पि॒पी॒लः। स॒र्पः। उ॒त। वा॒। श्वाप॑दः। अ॒ग्निः। तत्। वि॒श्व॒ऽअत्। अ॒ग॒दम्। कृ॒णो॒तु॒। सोमः॑। च॒। य। ब्रा॒ह्म॒णान्। आ॒ऽवि॒वेश॑। ३.५५। 
+यत्। ते॒। कृ॒ष्णः। श॒कु॒नः। आ॒ऽतु॒तोद॑। पि॒पी॒लः। स॒र्पः। उ॒त। वा॒। श्वाप॑दः। अ॒ग्निः। तत्। वि॒श्व॒ऽअत्। अ॒ग॒दम्। कृ॒णो॒तु॒। सोमः॑। च॒। य। ब्रा॒ह्म॒णान्। आ॒ऽवि॒वेश॑। ३.५५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -4142,18 +4362,22 @@ What wound soe'er the dark bird hath inflicted, the emmet, or the serpent, or th
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 घर की रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (यत्)जो कुछ (ते) तेरा [अङ्ग] (कृष्णः) काले (शकुनः) पक्षी [काक आदि], (पिपीलः)चीउँटा, (सर्पः) सर्प, (उत वा) अथवा (श्वापदः) कुत्ते समान पाँववाले, जङ्गली पशु [व्याघ्र शृगाल आदि] ने (आतुतोद) घायल कर दिया है, (तत्) उस [घायल अङ्ग] को (विश्वात्) सर्वरोगभक्षक (अग्निः) आग (अगदम्) नीरोग (कृणोतु) करे, (च) और (यः)जिस (सोमः) ऐश्वर्य [प्रभाव] ने (ब्राह्मणान्) बड़े विद्वानों में (आविवेश)प्रवेश किया है, [वह भी उसे नीरोग करे] ॥५५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  यदि विषैला पक्षी, पशु, सर्प, कीट आदि काट खावे, तो मनुष्य थोड़े विषैले के काटे को आग से सेक देंऔर बड़े विषैले के काटे को आग से जलावें तथा और विद्वान् वैद्यों से भी औषधकरावें, यह गृहस्थों को जानना चाहिये ॥५५॥यह मन्त्र ऋग्वेद में है−१०।१६।६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५५−(यत्) अङ्गम् (ते) तव (कृष्णः) कृष्णवर्णः (शकुनः) पक्षी काकादिः (आतुतोद)तुद व्यथने। सर्वतो व्यथितं व्याकुलं कृतवान् (पिपीलः) अपि+पील रोधने-अच्।विषदंष्ट्रः पिपीलकादिः (सर्पः) भुजङ्गः (उत वा) अथवा (श्वापदः) शुनः पादानीवपादानि यस्य सः। व्याघ्रशृगालादिहिंस्रपशुः (अग्निः) भौतिकोऽग्निः (तत्)व्यथितमङ्गम् (विश्वात्) सर्वरोगभक्षकः (अगदम्) नीरोगम् (कृणोतु) करोतु (सोमः)ऐश्वर्यम्। प्रभावः (यः) (ब्राह्मणान्) विदुषः पुरुषान् (आविवेश) सम्यक्प्रविष्टवान् ॥
@@ -4167,15 +4391,6 @@ What wound soe'er the dark bird hath inflicted, the emmet, or the serpent, or th
 
 प᳓यस्वतीरो᳓षधयः प᳓यस्वन्मामकं᳓ प᳓यः।  
 अपां᳓ प᳓यसो य᳓त्प᳓यस्ते᳓न मा सह᳓शुम्भतु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/56_payasvatIroShadhayaH_payasvanmAmakam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पय॑स्वती॒रोष॑धयः॒ पय॑स्वन्माम॒कं पयः॑।  
-अ॒पां पय॑सो॒ यत्पय॒स्तेन॑ मा स॒हशु॑म्भतु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/56_payasvatIroShadhayaH_payasvanmAmakam.md">
@@ -4205,14 +4420,23 @@ however, says instead that it accompanies a bath taken immediately after
 the cremation of the dead body. The comm. supplies Varuṇa, as god of the  
 waters, for subject of the concluding verb.
 </details>
+
 <details><summary>Griffith</summary>
 
 The plants of earth are rich in milk, and rich in milk is this my milk. With all the milky essence of the Waters let them make me clean.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पय॑स्वती॒रोष॑धयः॒ पय॑स्वन्माम॒कं पयः॑।  
+अ॒पां पय॑सो॒ यत्पय॒स्तेन॑ मा स॒हशु॑म्भतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पय॑स्वतीः। ओष॑धयः। पय॑स्वत्। मा॒म॒कम्। पयः॑। अ॒पाम्। पय॑सः। यत्। पयः॑। तेन॑। मा॒। स॒ह। शु॒म्भ॒तु॒। ३.५६। 
+पय॑स्वतीः। ओष॑धयः। पय॑स्वत्। मा॒म॒कम्। पयः॑। अ॒पाम्। पय॑सः। यत्। पयः॑। तेन॑। मा॒। स॒ह। शु॒म्भ॒तु॒। ३.५६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अनुष्टुप्
@@ -4220,18 +4444,22 @@ The plants of earth are rich in milk, and rich in milk is this my milk. With all
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 घर की रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ओषधयः) ओषधियाँ [अन्नसोमलता आदि] (पयस्वतीः) सारवाली [होवें], (मामकम्) मेरा (पयः) ज्ञान (पयस्वत्)सारवाला [होवे]। और (अपाम्) जलों के (पयसः) सार का (यत्) जो (पयः) सार है, (तेनसह) उसके साथ (मा) मुझे (शुम्भतु) वह [विद्वान्] शोभायमान करे ॥५६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब मनुष्य विचारपूर्वक सारयुक्त ओषधियों का सेवन शुद्ध उत्तम जल के साथ करके शरीर को पुष्ट करें॥५६॥यह मन्त्र कुछ भेद से ऋग्वेद में है−१०।१७।१४। इस मन्त्र के पूर्वार्द्ध कामिलान करो-अ० ३।२४।१ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५६−(पयस्वतीः) रपेरत एच्च। उ० ४।१९०। पा पाने-असुन् मतुप्, ङीप् धातोरीत्वम्। सारवत्यः (ओषधयः) अन्नसोमलतादयः (पयस्वत्) सारयुक्तम् (मामकम्) मदीयम् (पयः) पय गतौ-असुन्। ज्ञानम् (अपाम्) जलानाम् (पयसः) सारस्य (यत्) (पयः) सारः (तेन) पयसा (मा) माम् (सह) (शुम्भतु) शोभनं करोतु ॥
@@ -4245,15 +4473,6 @@ The plants of earth are rich in milk, and rich in milk is this my milk. With all
 
 इमा᳓ना᳓रीरविधवाः᳓ सुप᳓त्नीरा᳓ञ्जनेन सर्पि᳓षा सं᳓ स्पृशन्ताम्।  
 अ᳙नश्र᳓वोअनमीवाः᳓ सुर᳓त्ना आ᳓ रोहन्तु ज᳓नयो यो᳓निम᳓ग्रे ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/57_imAnArIravidhavAH_supatnIrAnjanena.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इ॒मानारी॑रविध॒वाः सु॒पत्नी॒राञ्ज॑नेन स॒र्पिषा॒ सं स्पृ॑शन्ताम्।  
-अ॑न॒श्रवो॑अनमी॒वाः सु॒रत्ना॒ आ रो॑हन्तु॒ जन॑यो॒ योनि॒मग्रे॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/57_imAnArIravidhavAH_supatnIrAnjanena.md">
@@ -4270,14 +4489,23 @@ This verse (= RV. x. 18. 7; TA. vi. 10. 2) was found above, as xii. 2.
 31, where see: it is not used by Kāuś. in the book of funeral and  
 ancestral ceremonies.
 </details>
+
 <details><summary>Griffith</summary>
 
 Let these unwidowed dames with goodly husbands adorn them- selves with fragrant balm and unguent. Decked with fair jewels, tearless, free, from trouble, first let the dames go up to where he lieth.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒मानारी॑रविध॒वाः सु॒पत्नी॒राञ्ज॑नेन स॒र्पिषा॒ सं स्पृ॑शन्ताम्।  
+अ॑न॒श्रवो॑अनमी॒वाः सु॒रत्ना॒ आ रो॑हन्तु॒ जन॑यो॒ योनि॒मग्रे॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒माः। नारीः॑। अ॒वि॒ध॒वाः। सु॒ऽपत्नीः॑। आ॒ऽअञ्ज॑नेन। स॒र्पिषा॑। सम्। स्पृ॒श॒न्ता॒म्। अ॒न॒श्रवः॑। अ॒न॒मी॒वाः। सु॒ऽरत्नाः॑। आ। रो॒ह॒न्तु॒। जन॑यः। योनि॑म्। अग्रे॑। ५.५७। 
+इ॒माः। नारीः॑। अ॒वि॒ध॒वाः। सु॒ऽपत्नीः॑। आ॒ऽअञ्ज॑नेन। स॒र्पिषा॑। सम्। स्पृ॒श॒न्ता॒म्। अ॒न॒श्रवः॑। अ॒न॒मी॒वाः। सु॒ऽरत्नाः॑। आ। रो॒ह॒न्तु॒। जन॑यः। योनि॑म्। अग्रे॑। ५.५७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -4285,18 +4513,22 @@ Let these unwidowed dames with goodly husbands adorn them- selves with fragrant 
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 घर की रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इमाः) यह [विदुषी] (नारीः) नारियाँ (अविधवाः) सधवा [मनुष्योंवाली] और (सुपत्नीः) धार्मिकपतियोंवाली होकर (आञ्जनेन) यथावत् मेल से और (सर्पिषा) घी आदि [सारपदार्थ] से (सं स्पृशन्ताम्) संयुक्त रहें। (अनश्रवः) बिना आसुओंवाली, (अनमीवाः) बिनारोगोंवाली, (सुरत्नाः) सुन्दर-सुन्दर रत्नोंवाली (जनयः) माताएँ (अग्रे) आगे-आगे (योनिम्) मिलने के स्थान [घर, सभा आदि] में (आ रोहन्तु) चढ़ें ॥५७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो विदुषी स्त्रियाँब्रह्मचर्य आदि शुभ गुणवाली होती हैं, वे अपने विद्वान् सुयोग्य कुटुम्बियोंपतियों और पुत्र आदि के साथ शरीर और आत्मा से स्वस्थ रहकर बहुत धनवती और सुखवतीहोकर अग्रगामिनी बनती हैं ॥५७॥यह मन्त्र कुछ भेद से ऋग्वेद में है−१०।१८।७। औरऊपर आचुका है-अ० १२।२।३१ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५७−अयं मन्त्रो व्याख्यातः-अ० १२।२।३१ ॥
@@ -4310,15 +4542,6 @@ Let these unwidowed dames with goodly husbands adorn them- selves with fragrant 
 
 सं᳓ गच्छस्वपितृ᳓भिः सं᳓ यमे᳓नेष्टापूर्ते᳓न परमे᳓ व्यो᳙मन्।  
 हित्वा᳓वद्यं᳓पु᳓नर᳓स्तमे᳓हि सं᳓ गच्छतां तन्वा᳙ सुव᳓र्चाः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/58_saM_gachChasvapitRbhiH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सं ग॑च्छस्वपि॒तृभिः॒ सं य॒मेने॑ष्टापू॒र्तेन॑ पर॒मे व्यो᳡मन्।  
-हि॒त्वाव॒द्यंपुन॒रस्त॒मेहि॒ सं ग॑च्छतां त॒न्वा᳡ सु॒वर्चाः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/58_saM_gachChasvapitRbhiH.md">
@@ -4344,14 +4567,23 @@ for *yaména*, and adds after it another *sám*. We had the last pāda
 above, as 2. 10 **d**. The mss. are divided between *ávadyam* and  
 *avadyám* in c; both editions give *avadyám* ⌊with RV.⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 Meet Yama, meet the Fathers, meet the merit of virtuous action in the loftiest heaven. Leave sin and evil, seek anew thy dwelling: so bright with glory let him join his body.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सं ग॑च्छस्वपि॒तृभिः॒ सं य॒मेने॑ष्टापू॒र्तेन॑ पर॒मे व्यो᳡मन्।  
+हि॒त्वाव॒द्यंपुन॒रस्त॒मेहि॒ सं ग॑च्छतां त॒न्वा᳡ सु॒वर्चाः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। ग॒च्छ॒स्व॒। पि॒तृऽभिः॑। सम्। य॒मेन॑। इ॒ष्टापू॒र्तेन॑। प॒र॒मे। विऽओ॑मन्। हि॒त्वा। अ॒व॒द्यम्। पुनः॑। अस्त॑म्। आ। इ॒हि॒। सम्। ग॒च्छ॒ता॒म्। त॒न्वा॑। सु॒ऽवर्चाः॑। ५.५८। 
+सम्। ग॒च्छ॒स्व॒। पि॒तृऽभिः॑। सम्। य॒मेन॑। इ॒ष्टापू॒र्तेन॑। प॒र॒मे। विऽओ॑मन्। हि॒त्वा। अ॒व॒द्यम्। पुनः॑। अस्त॑म्। आ। इ॒हि॒। सम्। ग॒च्छ॒ता॒म्। त॒न्वा॑। सु॒ऽवर्चाः॑। ५.५८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विराट् त्रिष्टुप्
@@ -4359,18 +4591,22 @@ Meet Yama, meet the Fathers, meet the merit of virtuous action in the loftiest h
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 घर की रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (यमेनसम्) नियम [ब्रह्मचर्य आदि व्रत] के साथ (इष्टापूर्तेन) यज्ञ, वेदाध्ययन तथाअन्नदान आदि पुण्य कर्म से (परमे) सबसे ऊँचे (व्योमन्) विशेष रक्षा पद में [वर्तमान] (पितृभिः) पितरों [पालक महात्माओं] से (सं गच्छस्व) तू मिल। (अवद्यम्)निन्दित कर्म [अज्ञान] को (हित्वा) छोड़कर (पुनः) फिर (अस्तम्) घर (आ इहि) तू आऔर (सुवर्चाः) बड़ा तेजस्वी होकर (तन्वा) उपकार शक्ति के साथ (सं गच्छताम्) आपमिलें ॥५८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को उचित हैकि ब्रह्मचर्य आदि तप के साथ बड़े विद्वान् महाशयों से विद्या प्राप्त करकेगृहाश्रम में प्रवेश कर प्रतापी होवें ॥५८॥यह मन्त्र कुछ भेद से ऋग्वेद में है−१०।१४।८। और इस का चौथा पाद ऊपर आचुका है-अ० १८।२।१०। तथा ऋग्वेदपाठ महर्षिदयानन्दकृत संस्कारविधि अन्त्येष्टिप्रकरण में उद्धृत है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५८−(सं गच्छस्व)संगतो भव (पितृभिः) पालकैर्महात्मभिः (सम्) सह (यमेन) नियमेन।ब्रह्मचर्यादिव्रतेन (इष्टापूर्तेन) अ० २।१२।४। यज्ञवेदाध्ययनान्नदानादिकर्मणा (परमे) सर्वोत्कृष्टे (व्योमन्) अ० १।१७।६। वि+अव रक्षणे-मनिन्। विशेषरक्षापदे (हित्वा) त्यक्त्वा (अवद्यम्) निन्द्यम् अज्ञानम् (पुनः) अज्ञानत्यागानन्तरम् (अस्तम्) गृहम् (एहि) आगच्छ (संगच्छताम्) संगतो भवतु भवान् (तन्वा) उपकारशक्त्या (सुवर्चाः) महातेजस्वी ॥
@@ -4384,15 +4620,6 @@ Meet Yama, meet the Fathers, meet the merit of virtuous action in the loftiest h
 
 ये᳓ नः पितुः᳓पित᳓रो ये᳓ पितामहा᳓ य᳓ आविविशु᳓रुर्व᳙न्त᳓रिक्षम्।  
 ते᳓भ्यःस्वरा᳓ड᳓सुनीतिर्नो अद्य᳓ वथावशं᳓ तन्वः᳙ कल्पयाति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/59_ye_naH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ये नः॑ पि॒तुःपि॒तरो॒ ये पि॑ताम॒हा य आ॑विवि॒शुरु॒र्व॑१॒॑न्तरि॑क्षम्।  
-तेभ्यः॑स्व॒राडसु॑नीतिर्नो अ॒द्य व॑थाव॒शं त॒न्वः᳡ कल्पयाति ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/59_ye_naH.md">
@@ -4413,14 +4640,23 @@ unintelligibility, so that the translation is only mechanical. RV. reads
 *tébhyas* and *kalpayāti*, but the rest like RV. The last pāda is  
 identical with vii. 104. 1 **d** above.
 </details>
+
 <details><summary>Griffith</summary>
 
 Our Father's Fathers and their sires before them, they who have entered into air's wide region, For them shall self-resplendent Asuniti form bodies now accord- ing to her pleasure.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये नः॑ पि॒तुःपि॒तरो॒ ये पि॑ताम॒हा य आ॑विवि॒शुरु॒र्व॑१॒॑न्तरि॑क्षम्।  
+तेभ्यः॑स्व॒राडसु॑नीतिर्नो अ॒द्य व॑थाव॒शं त॒न्वः᳡ कल्पयाति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। नः। पि॒तुः। पि॒तरः॑। ये। पि॒ता॒म॒हाः। ये। आ॒ऽवि॒वि॒शुः। उ॒रु। अ॒न्तरि॑क्षम्। तेभ्यः॑। स्व॒ऽराट्। असु॑ऽनीतिः। नः॒। अ॒द्य। य॒था॒ऽव॒शम्। त॒न्वः॑। क॒ल्प॒या॒ति॒। ३.५९। 
+ये। नः। पि॒तुः। पि॒तरः॑। ये। पि॒ता॒म॒हाः। ये। आ॒ऽवि॒वि॒शुः। उ॒रु। अ॒न्तरि॑क्षम्। तेभ्यः॑। स्व॒ऽराट्। असु॑ऽनीतिः। नः॒। अ॒द्य। य॒था॒ऽव॒शम्। त॒न्वः॑। क॒ल्प॒या॒ति॒। ३.५९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -4428,18 +4664,22 @@ Our Father's Fathers and their sires before them, they who have entered into air
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 घर की रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ये) जो पुरुष (नः)हमारे (पितुः) पिता के (पितरः) पिता के समान हैं, और (ये) जो [उसके] (पितामहाः)दादे के तुल्य हैं, और (ये) जो (उरु) चौड़े (अन्तरिक्षम्) आकाश में [विद्याबल सेविमान आदि द्वारा] (आविविशुः) प्रविष्ट हुए हैं, (तेभ्यः) उन [पितरों] के लिये (स्वराट्) स्वयं राजा (असुनीतिः) प्राणदाता परमेश्वर (नः) हमारे (तन्वः) शरीरोंको (अद्य) अब (यथावशम्) [हमारी] कामना के अनुकूल (कल्पयाति) समर्थ करे ॥५९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो पितर लोग विद्या केभण्डार परोपकारी होवें, सब मनुष्य परमेश्वर की प्रार्थना द्वारा विद्या आदि शुभगुण प्राप्त कर के उन महात्माओं के उद्देश्य पूरे करने में समर्थ होवें ॥५९॥इसमन्त्र का उत्तरार्द्ध कुछ भेद से ऋग्वेद में है−१०।१५।१४ तथा यजुर्वेद में−१९।६० और पूर्वार्द्ध ऊपर आया है-अ० १८।२।४९ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५९−पूर्वार्द्धो व्याख्यातः-अ०१८।२।४९। (तेभ्यः) पितृभ्यः (स्वराट्) स्वयमेव राजा शासकः (असुनीतिः) असूनांप्राणानां नेता प्रापकः परमेश्वरः (नः) अस्माकम् (अद्य) इदानीम् (यथावशम्)यथाकामम् (तन्वः) शरीराणि (कल्पयाति) कल्पयेत्। समर्थयेत् ॥
@@ -4454,16 +4694,6 @@ Our Father's Fathers and their sires before them, they who have entered into air
 शं᳙ ते नीहारो᳓भवतु शं᳓ ते प्रुष्वा᳓व शीयताम्।  
 शी᳓तिके शी᳓तिकावति ह्ला᳓दिकेह्ला᳓दिकावति।  
 म᳙ण्डूक्य᳙प्सु᳓ शं᳓ भुव इमं᳓ स्व᳙ग्निं᳓ शमय ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/60_shaM_te.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-शं॑ ते नीहा॒रोभ॑वतु॒ शं ते॑ प्रु॒ष्वाव॑ शीयताम्।  
-शीति॑के॒ शीति॑कावति॒ ह्लादि॑के॒ह्लादि॑कावति।  
-म॑ण्डू॒क्य१॒॑प्सु शं भु॑व इ॒मं स्व१॒॑ग्निं श॑मय ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/60_shaM_te.md">
@@ -4516,14 +4746,24 @@ xix. 2. 1, 2): but for our *bhavatu* the TA. has varṣatu; and for our
 *jalabinduḥ*,—For Bloomfield's discussion, see under vs. 6. Bergaigne  
 comments on the verse, *Rel. Véd.* i. 84, note, ii. 472.
 </details>
+
 <details><summary>Griffith</summary>
 
 Let the hoar-frost be sweet to thee. sweetly on thee the rain descend! O full of coolness, thou cool Plant, full of fresh moisture, fresh- ening Herb, Bless us in waters, female Frog: calm and allay this Agni here.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+शं॑ ते नीहा॒रोभ॑वतु॒ शं ते॑ प्रु॒ष्वाव॑ शीयताम्।  
+शीति॑के॒ शीति॑कावति॒ ह्लादि॑के॒ह्लादि॑कावति।  
+म॑ण्डू॒क्य१॒॑प्सु शं भु॑व इ॒मं स्व१॒॑ग्निं श॑मय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शम्। ते॒। नी॒हा॒रः। भ॒व॒तु॒। शम्। ते॒। प्रु॒ष्वा। अव॑। शी॒य॒ता॒म्। शीति॑के। शीति॑काऽवति। ह्लादि॑के। ह्लादि॑काऽवति। म॒ण्डू॒की। अ॒प्ऽसु। शम्। भु॒वः॒। इ॒मम्। सु। अ॒ग्निम्। श॒म॒य॒। ३.६०। 
+शम्। ते॒। नी॒हा॒रः। भ॒व॒तु॒। शम्। ते॒। प्रु॒ष्वा। अव॑। शी॒य॒ता॒म्। शीति॑के। शीति॑काऽवति। ह्लादि॑के। ह्लादि॑काऽवति। म॒ण्डू॒की। अ॒प्ऽसु। शम्। भु॒वः॒। इ॒मम्। सु। अ॒ग्निम्। श॒म॒य॒। ३.६०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्र्यवसाना षट्पदा जगती
@@ -4531,18 +4771,22 @@ Let the hoar-frost be sweet to thee. sweetly on thee the rain descend! O full of
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 घर की रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ते) तेरे लिये (नीहारः) कुहरा (शम्) शान्तिदायक (भवतु) होवे, (ते) तेरे लिये (प्रुष्वा) वृष्टि (शम्) शान्ति से (अव शीयताम्) नीचे गिरे। (शीतिके) हे शीतल स्वभाववाली (शीतिकावति) हे शीतल क्रियाओंवाली (ह्लादिके) हे आनन्द देनेवाली (ह्लादिकावति)हे आनन्दयुक्त क्रियाओंवाली ! [प्रजा अर्थात् प्रत्येक स्त्री-पुरुष] (अप्सु)जल में (मण्डूकी) मेंडुकी [के समान] तू (शम्) शान्त (भुवः) हो, और (इमम्) इस (अग्निम्) आग [महासन्ताप] को (सु) अच्छे प्रकार (शमय) शान्त कर ॥६०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब स्त्री-पुरुषकुहरे, वृष्टि आदि का सहन कर के और जल में मेंडुकी के समान शान्त स्वभाव औरप्रसन्नचित्त रहकर सन्ताप अर्थात् विघ्नों का नाश करें ॥६०॥इस मन्त्र का भाग (शीतिके.... शमय) कुछ भेद से ऋग्वेद में है−१०।१६।१४ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६०−(शम्) सुखकरः (ते)तुभ्यम् (नीहारः) घनीभूतशिशिरम् (भवतु) (शम्) शान्तिप्रदः (ते) (प्रुष्वा)शीङ्क्रुशिरुहि०। उ० ४।११४। प्रुष स्नेहनसेवनपूरणेषु-क्वनिप्। वृष्टिपातः (अवशीयताम्) शीङ् स्वप्ने-भावे लोट्। अधो वर्तताम्। अधः पततु (शीतिके) स्वार्थेकन्, टाप्। उदीचामातः स्थाने यकपूर्वायाः। पा० ७।३।४६। अत इत्त्वम्। हेशीतलस्वभावे प्रजे (शीतिकावति) हे शीतलक्रियायुक्ते (ह्लादिके) ह्लादीसुखे-ण्वुल्। प्रत्ययस्थात् कात्पूर्वस्यात इदाप्यसुपः। पा० ७।३।४४। अतइत्त्वम्। हे सुखकारिणि (ह्लादिकावति) हे सुखवतीक्रियायुक्ते (मण्डूकी) मण्डूक-स्त्री यथा (अप्सु) जलेषु (शम्) शान्ता (भुवः) लेटि रूपम्। भवेः (इमम्) (सु)सुष्ठु (अग्निम्) सन्तापम्। विघ्नम् (शमय) शान्तं कुरु ॥
@@ -4556,15 +4800,6 @@ Let the hoar-frost be sweet to thee. sweetly on thee the rain descend! O full of
 
 विव᳓स्वान्नोअ᳓भयं कृणोतु यः᳓ सुत्रा᳓मा जीर᳓दानुः सुदा᳓नुः।  
 इहे᳓मे᳓ वीरा᳓ बह᳓वोभवन्तु गो᳓मद᳓श्ववन्म᳓य्यस्तु पुष्ट᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/61_vivasvAnnoabhayaM_kRNotu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वि॒वस्वा॑न्नो॒अभ॑यं कृणोतु॒ यः सु॒त्रामा॑ जी॒रदा॑नुः सु॒दानुः॑।  
-इ॒हेमे वी॒रा ब॒हवो॑भवन्तु॒ गोम॒दश्व॑व॒न्मय्य॑स्तु पु॒ष्टम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/61_vivasvAnnoabhayaM_kRNotu.md">
@@ -4600,14 +4835,23 @@ cemetery, should approach the departed." The comm. adds one or two more
 minor applications. ⌊Verses 61 and 62 are translated by Hillebrandt,  
 *Ved. Mythol.* i. 489.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Vivasvan make us free from fear and peril, good rescuer, quick- pouring, bounteous giver! Many in number be these present heroes! Increase of wealth be mine in kine and horses!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒वस्वा॑न्नो॒अभ॑यं कृणोतु॒ यः सु॒त्रामा॑ जी॒रदा॑नुः सु॒दानुः॑।  
+इ॒हेमे वी॒रा ब॒हवो॑भवन्तु॒ गोम॒दश्व॑व॒न्मय्य॑स्तु पु॒ष्टम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒वस्वा॑न्। नः॒। अभय॑म्। कृ॒णो॒तु॒। यः। सु॒ऽत्रामा॑। जी॒रऽदा॑नुः। सु॒ऽदानुः॑। इ॒ह। इ॒मे। वी॒राः। ब॒हवः॑। भ॒व॒न्तु॒। गोऽम॑त्। अश्व॑ऽवत्। मयि॑। अ॒स्तु॒। पु॒ष्टम्। ३.६१। 
+वि॒वस्वा॑न्। नः॒। अभय॑म्। कृ॒णो॒तु॒। यः। सु॒ऽत्रामा॑। जी॒रऽदा॑नुः। सु॒ऽदानुः॑। इ॒ह। इ॒मे। वी॒राः। ब॒हवः॑। भ॒व॒न्तु॒। गोऽम॑त्। अश्व॑ऽवत्। मयि॑। अ॒स्तु॒। पु॒ष्टम्। ३.६१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -4615,18 +4859,22 @@ Vivasvan make us free from fear and peril, good rescuer, quick- pouring, bounteo
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अभय पाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (विवस्वान्) प्रकाशमयपरमेश्वर (नः) हमारे लिये (अभयम्) अभय (कृणोतु) करे, (यः) जो [परमात्मा] (सुत्रामा) बड़ा रक्षक (जीरदानुः) वेग का देनेवाला, (सुदानुः) बड़ा उदार है (इह)यहाँ पर (इमे) यह सब (वीराः) वीर लोग (बहवः) बहुत (भवन्तु) होवें, (गोमत्) उत्तमगौओं से युक्त और (अश्ववत्) उत्तम घोड़ों से युक्त (पुष्टम्) पोषण (मयि) मुझ में (अस्तु) होवे ॥६१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमात्मा काआश्रय लेकर प्रयत्नशाली वेगवान् और उदार होकर संसार में शान्ति करें और सब लोगोंको वीर बनाकर समृद्ध होवें ॥६१॥यह मन्त्र महर्षिदयानन्दकृत संस्कारविधि जातकर्मप्रकरण में उद्धृत है और इस का तीसरा पाद ऊपर आया है-अ० १२।२।२१ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६१−(विवस्वान्)प्रकाशमयः परमेश्वरः (नः) अस्मभ्यम् (अभयम्) भयराहित्यम् (कृणोतु) करोतु (यः)परमेश्वरः (सुत्रामा) सु+त्रैङ् पालने मनिन्। बहुरक्षकः (जीरदानुः) अ० ७।१८।२।जोरी च। उ० २।२३। जु गतौ-रक्, ईकारादेशः, जीराः क्षिप्रनाम-निघ० २।१५, ददातेर्नु।वेगदाता (सुदानुः) महोदारः (इह) अत्र संसारे (इमे) (वीराः) शूराः (बहवः)बहुसंख्याकाः (भवन्तु) (गोमत्) उत्तमगोभिर्युक्तम् (अश्ववत्) श्रेष्ठाश्वोपेतम् (मयि) (अस्तु) (पुष्टम्) पोषणम्। वर्धनम् ॥
@@ -4640,15 +4888,6 @@ Vivasvan make us free from fear and peril, good rescuer, quick- pouring, bounteo
 
 विव᳓स्वान्नोअमृतत्वे᳓ दधातु प᳓रैतु मृत्यु᳓रमृ᳓तं न ऐ᳓तु।  
 इ᳙मान्रक्षतु पु᳓रुषाना᳓जरिम्णो᳓ मो᳓ ष्वे᳙षाम᳓सवो यमं᳓ गुः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/62_vivasvAnnoamRtatve_dadhAtu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वि॒वस्वा॑न्नोअमृत॒त्वे द॑धातु॒ परै॑तु मृ॒त्युर॒मृतं॑ न॒ ऐतु॑।  
-इ॑मान्रक्षतु॒ पुरु॑षा॒नाज॑रि॒म्णो मो ष्वे᳡षा॒मस॑वो य॒मं गुः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/62_vivasvAnnoamRtatve_dadhAtu.md">
@@ -4672,14 +4911,23 @@ syllable by the redundancy of one in **c**. Possibly *ā́* is intrusive in
 **c**, and the meaning was 'defend from growing old.' The ritual use of  
 the verse was explained above, under vs. 61.
 </details>
+
 <details><summary>Griffith</summary>
 
 In immortality Vivasvan set us! Go from us Death, come to us life eternal! To good old age may he protect these people: let not their spirits pass away to Yama.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒वस्वा॑न्नोअमृत॒त्वे द॑धातु॒ परै॑तु मृ॒त्युर॒मृतं॑ न॒ ऐतु॑।  
+इ॑मान्रक्षतु॒ पुरु॑षा॒नाज॑रि॒म्णो मो ष्वे᳡षा॒मस॑वो य॒मं गुः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒वस्वा॑न्। नः॒। अ॒मृ॒त॒ऽत्वे। द॒धा॒तु॒। परा॑। ए॒तु॒। मृ॒त्युः॒। अ॒मृत॑म्। नः॒। आ। ए॒तु॒। इ॒मान्। र॒क्ष॒तु॒। पुरु॑षान्। आ। ज॒रि॒म्णः। मो इति॑। सु। ए॒षा॒म्। अस॑वः। य॒मम्। गुः॒। ३.६२। 
+वि॒वस्वा॑न्। नः॒। अ॒मृ॒त॒ऽत्वे। द॒धा॒तु॒। परा॑। ए॒तु॒। मृ॒त्युः॒। अ॒मृत॑म्। नः॒। आ। ए॒तु॒। इ॒मान्। र॒क्ष॒तु॒। पुरु॑षान्। आ। ज॒रि॒म्णः। मो इति॑। सु। ए॒षा॒म्। अस॑वः। य॒मम्। गुः॒। ३.६२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -4687,18 +4935,22 @@ In immortality Vivasvan set us! Go from us Death, come to us life eternal! To go
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अभय पाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (विवस्वान्) प्रकाशमयपरमेश्वर (नः) हमें (अमृतत्वे) अमरपन [यश] के बीच (दधातु) रक्खे, (मृत्युः) [निर्धनता आदि दुःख] (परा) दूर (एतु) जावे, (अमृतम्) अमरण [धनाढ्यता] (नः) हममें (आ एतु) आवे। वह [परमेश्वर] (इमान्) इन (पुरुषान्) पुरुषों को (जरिम्णः)जीवन की हानि से (आ) सब प्रकार (रक्षतु) बचावे, (एषाम्) इन के (असवः) प्राण (यमम्) मृत्यु को (सु) कष्ट के साथ (मो गुः) कभी न जावें ॥६२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  पुरुषार्थी लोगपरमात्मा के नियम से कभी भूखे-प्यासे नहीं रहते, वे धनवान् होकर अपना जीवन सुखसे बिताते हैं ॥६२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६२−(विवस्वान्) प्रकाशमयः परमात्मा (नः) अस्मान् (अमृतत्वे)अमरत्वे। यशसि (दधातु) धारयतु (परा) दूरे (एतु) गच्छतु (मृत्युः) मरणम्।निर्धनतादिदुःखम् (अमृतम्) अमरणम्। धनाढ्यत्वम् (नः) अस्मान् (ऐतु) आगच्छतु (इमान्) उपस्थितान् (रक्षतु) पातु (पुरुषान्) (आ) समन्तात् (जरिम्णः)जरा-इमनिच्। वयोहानेः सकाशात् (मो गुः) इण् गतौ, माङि लुङि रूपम्। मैव गच्छन्तु (सु) कृच्छ्रेण। कष्टेन (एषाम्) पुरुषाणाम् (असवः) प्राणाः (यमम्) मृत्युम् ॥
@@ -4712,15 +4964,6 @@ In immortality Vivasvan set us! Go from us Death, come to us life eternal! To go
 
 यो᳓ दध्रे᳓अन्त᳓रिक्षे न᳓ मह्ना पितॄणां᳓ कविः᳓ प्र᳓मतिर्मतीना᳓म्।  
 त᳓मर्चतविश्व᳓मित्रा हवि᳓र्भिः स᳓ नो यमः᳓ प्रतरं᳓ जीव᳓से धात् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/63_yo_dadhreantarixe.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यो द॒ध्रेअ॒न्तरि॑क्षे॒ न म॑ह्ना पितॄ॒णां क॒विः प्रम॑तिर्मती॒नाम्।  
-तम॑र्चतवि॒श्वमि॑त्रा ह॒विर्भिः॒ स नो॑ य॒मः प्र॑त॒रं जी॒वसे॑ धात् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/63_yo_dadhreantarixe.md">
@@ -4755,14 +4998,23 @@ trying case, gives no help whatever; he glosses *pramati* with
 *pitṝṇām*; and he makes *antarikṣeṇa dadhre* mean (*pitṝn*) *antarā  
 kṣāntena lokena dhārayati*.
 </details>
+
 <details><summary>Griffith</summary>
 
 The Sage of Fathers, guardian of devotions who holds thee up with might in air's mid-region,-- Praise him ye Visvamitras, with oblation. To lengthened life shall be, this Yama, lead us.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो द॒ध्रेअ॒न्तरि॑क्षे॒ न म॑ह्ना पितॄ॒णां क॒विः प्रम॑तिर्मती॒नाम्।  
+तम॑र्चतवि॒श्वमि॑त्रा ह॒विर्भिः॒ स नो॑ य॒मः प्र॑त॒रं जी॒वसे॑ धात् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। द॒ध्रे। अ॒न्तर‍ि॑क्षे। न। म॒ह्ना। पि॒तॄ॒णाम्। क॒विः। प्रऽम॑तिः। म॒ती॒नाम्। तम्। अ॒र्च॒त॒। वि॒श्वऽमि॑त्राः। ह॒विःऽभिः॑। सः। नः॒। य॒मः। प्र॒ऽत॒रम्। जी॒वसे॑। धा॒त्। ३.६३। 
+यः। द॒ध्रे। अ॒न्तर‍ि॑क्षे। न। म॒ह्ना। पि॒तॄ॒णाम्। क॒विः। प्रऽम॑तिः। म॒ती॒नाम्। तम्। अ॒र्च॒त॒। वि॒श्वऽमि॑त्राः। ह॒विःऽभिः॑। सः। नः॒। य॒मः। प्र॒ऽत॒रम्। जी॒वसे॑। धा॒त्। ३.६३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -4770,18 +5022,22 @@ The Sage of Fathers, guardian of devotions who holds thee up with might in air's
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अभय पाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जिस [परमात्मा]ने (पितॄणाम्) पितरों [पालक महात्माओं] में (कविः) बुद्धिमान् और (मतीनाम्)बुद्धिमानों में (प्रमतिः) बड़ा बुद्धिमान् होकर (अन्तरिक्षे) आकाश के बीच (न)प्रबन्ध के साथ (मह्ना) अपनी महिमा से [सब लोकों को] (दध्रे) धारण किया है। (तम्) उस [परमात्मा] को (विश्वमित्राः) सबके मित्र होकर तुम (हविर्भिः)आत्मसमर्पणों से (अर्चत) पूजो, (सः) वह (यमः) न्यायकारी परमेश्वर (नः) हमें (प्रतरम्) अधिक उत्तमता से (जीवसे) जीने के लिये (धात्) धारण करे ॥६३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो परमात्मा आकाश केबीच सब लोगों को रचकर आकर्षण आदि नियम में रखता है, सब मनुष्य उस जगदीश्वर कीउपासना कर के अपने जीवन को अधिक-अधिक उच्च बनाते हैं ॥६३॥इस मन्त्र का उत्तरार्धआगे है, अ० १८।४।५४ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६३−(यः) परमात्मा (दध्रे) धृञ् धारणे-लिट्। धृतवान् (अन्तरिक्षे) आकाशे (न) णह बन्धने-ड। सुपां सुलुक्०। पा० ७।१।३९। इति विभक्तेर्लुक्। नेन प्रबन्धेन। आकर्षणादिनियमेन (मह्ना) स्वमहिम्ना (पितॄणाम्)पालकमहात्मनां मध्ये (कविः) मेधावी (प्रमतिः) प्रकृष्टबुद्धियुक्तः (मतीनाम्)मतयो मेधाविनाम-निघ० ३।१५। मेधाविनां मध्ये (तम्) परमात्मानम् (अर्चत) पूजयत (विश्वमित्राः) सर्वेषां सखायः सन्तः (हविर्भिः) आत्मदानैः (सः) (नः) अस्मान् (यमः) नियामकः परमेश्वरः (प्रतरम्) प्रकृष्टतरम् (जीवसे) जीवनाय (धात्)दध्यात्। धारयेत् ॥
@@ -4795,15 +5051,6 @@ The Sage of Fathers, guardian of devotions who holds thee up with might in air's
 
 आ᳓ रोहतदि᳓वमुत्तमा᳓मृ᳓षयो मा᳓ बिभीतन।  
 सो᳓मपाः सो᳓मपायिन इदं᳓ वः क्रियतेहवि᳓र᳓गन्म ज्यो᳓तिरुत्तम᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/64_A_rohatadivamuttamAmRShayo.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आ रो॑हत॒दिव॑मुत्त॒मामृष॑यो॒ मा बि॑भीतन।  
-सोम॑पाः॒ सोम॑पायिन इ॒दं वः॑ क्रियतेह॒विरग॑न्म॒ ज्योति॑रुत्त॒मम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/64_A_rohatadivamuttamAmRShayo.md">
@@ -4825,14 +5072,23 @@ Encouraged by the comm. (*anyān api yajamānān somam pāyayanti*), the
 translation mends the repetition in **c** by violently taking *-pāyin*  
 as causative to *-pā*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Mount and ascend to highest heaven, O Rishis: be ye not afraid. Soma-drinkers to you is paid this Soma-lover's sacrifice. We have attained the loftiest light.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ रो॑हत॒दिव॑मुत्त॒मामृष॑यो॒ मा बि॑भीतन।  
+सोम॑पाः॒ सोम॑पायिन इ॒दं वः॑ क्रियतेह॒विरग॑न्म॒ ज्योति॑रुत्त॒मम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। रो॒ह॒त॒। दिव॑म्। उ॒त्ऽत॒माम्। ऋष॑यः। मा। बि॒भी॒त॒न॒। सोम॑ऽपाः। सोम॑ऽपायिनः। इ॒दम्। वः॒। क्रि॒य॒ते॒। ह॒विः। अग॑न्म। ज्योतिः॑। उ॒त्ऽत॒मम्। ३.६४। 
+आ। रो॒ह॒त॒। दिव॑म्। उ॒त्ऽत॒माम्। ऋष॑यः। मा। बि॒भी॒त॒न॒। सोम॑ऽपाः। सोम॑ऽपायिनः। इ॒दम्। वः॒। क्रि॒य॒ते॒। ह॒विः। अग॑न्म। ज्योतिः॑। उ॒त्ऽत॒मम्। ३.६४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भुरिक् पथ्यापङ्क्ति
@@ -4840,18 +5096,22 @@ Mount and ascend to highest heaven, O Rishis: be ye not afraid. Soma-drinkers to
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अभय पाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्यो !] (उत्तमाम्) उत्तम (दिवम्) विद्या में (आ रोहत) तुम ऊँचे होओ, (ऋषयः) हे ऋषियो ! [सन्मार्गदर्शको] (मा बिभीतन) मत भय करो। तुम (सोमपाः) शान्ति रस पीनेवाले और (सोमपायिनः) शान्ति रस पिलानेवाले हो, (वः) तुम्हारे लिये (इदम्) यह (हविः) देने-लेने योग्य कर्म (क्रियते) किया जाता है, (उत्तमम्) सबसे उत्तम (ज्योतिः)प्रकाशस्वरूप परमेश्वर को (अगन्म) हम सब प्राप्त होवें ॥६४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो ऋषि महात्मा उत्तमविद्या प्राप्त कर के शान्तचित्त होकर संसार में शान्ति स्थापित करें, मनुष्य उनसे सत्कारपूर्वक शिक्षा ग्रहण करके परमात्मा की आज्ञा पालने में आनन्द पावें॥६४॥इस मन्त्र का अन्तिमपाद (अगन्म…) यजुर्वेद में है−२०।२१ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६४−(आ रोहत) आरूढाभवत (दिवम्) दिवु गतौ-डिवि। गतिम्। विद्याम् (उत्तमाम्) उत्कृष्टाम् (ऋषयः)सन्मार्गदर्शकाः (मा बिभीतन) बिभेतेर्लोटि तनादेशः। मा बिभीत। भयं मा प्राप्नुत (सोमपाः) शान्तिरसस्य पानशीलाः (सोमपायिनः) शान्तिरसस्य पानकारयितारः (इदम्) (वः) युष्मभ्यम् (क्रियते) विधीयते (हविः) दातव्यग्राह्यकर्म (अगन्म) लिङर्थेलुङ्। वयं प्राप्नुयाम (ज्योतिः) प्रकाशस्वरूपं परमात्मानम् (उत्तमम्) श्रेष्ठम्॥
@@ -4865,15 +5125,6 @@ Mount and ascend to highest heaven, O Rishis: be ye not afraid. Soma-drinkers to
 
 प्र᳓ केतु᳓नाबृहता᳓ भात्यग्नि᳓रा᳓ रो᳓दसी वृषभो᳓ रोरवीति।  
 दिव᳓श्चिद᳓न्तादुपमा᳓मु᳓दानडपा᳓मुप᳓स्थे महिषो᳓ ववर्ध ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/65_pra_ketunAbRhatA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्र के॒तुना॑बृह॒ता भा॑त्य॒ग्निरा रोद॑सी वृष॒भो रो॑रवीति।  
-दि॒वश्चि॒दन्ता॑दुप॒मामुदा॑नड॒पामु॒पस्थे॑ महि॒षो व॑वर्ध ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/65_pra_ketunAbRhatA.md">
@@ -4900,14 +5151,23 @@ with the comm.; and this last is implied by the translation, though both
 editions adopt *upamā́m*, with SV. ⌊Pischel, *Göttingische Gelehrte  
 Anzeigen*, 1897, p. 811, renders the verse.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Agni is shining forth with lofty banner: the Bull is bellowing to earth and heaven. From the sky's limit even hath he stretched near us: the Steer hath waxen in the waters' bosom.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र के॒तुना॑बृह॒ता भा॑त्य॒ग्निरा रोद॑सी वृष॒भो रो॑रवीति।  
+दि॒वश्चि॒दन्ता॑दुप॒मामुदा॑नड॒पामु॒पस्थे॑ महि॒षो व॑वर्ध ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र। के॒तुना॑। बृ॒ह॒ता। भा॒ति॒। अ॒ग्निः। आ। रोद॑सी॒ इति॑। वृ॒ष॒भः। रो॒र॒वी॒ति॒। दि॒वः। चि॒त्। अन्ता॑त्। उ॒प॒ऽमाम्। उत्। आ॒न॒ट्। अ॒पाम्। उ॒पऽस्थे॑। म॒हि॒षः। व॒व॒र्ध॒। ३.६५। 
+प्र। के॒तुना॑। बृ॒ह॒ता। भा॒ति॒। अ॒ग्निः। आ। रोद॑सी॒ इति॑। वृ॒ष॒भः। रो॒र॒वी॒ति॒। दि॒वः। चि॒त्। अन्ता॑त्। उ॒प॒ऽमाम्। उत्। आ॒न॒ट्। अ॒पाम्। उ॒पऽस्थे॑। म॒हि॒षः। व॒व॒र्ध॒। ३.६५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -4915,18 +5175,22 @@ Agni is shining forth with lofty banner: the Bull is bellowing to earth and heav
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के कर्त्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्निः) अग्निसमानतेजस्वी राजा (बृहता) बड़ी (केतुना) बुद्धि के साथ (प्र भाति) चमकता जाता है, [जैसे] (वृषभः) वृष्टि करानेवाला [सूर्य का ताप] (रोदसी) आकाश और पृथिवी में (आ)व्यापकर (रोरवीति) [बिजुली, मेघ, वायु आदि द्वारा] सब ओर से गरजता है। और (दिवः)सूर्यलोक के (चित्) ही (अन्तात्) अन्त से (उपमाम्) [हमारी] निकटता को (उत्)उत्तमता से (आनट्) वह [सूर्य का ताप] व्यापता है, [वैसे ही] (महिषः) वह पूजनीयराजा (अपाम्) प्रजाओं की (उपस्थे) गोद में (ववर्ध) बढ़ता है ॥६५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे सूर्य अपने तापद्वारा पृथिवी से जल खींचकर और फिर बरसा कर आनन्द बढ़ाता है, वैसे ही जो प्रतापीराजा प्रजा से कर लेकर प्रजा को सुख देता है, वह प्रजाप्रिय होकर संसार मेंबढ़ता है ॥६५॥यह मन्त्र कुछ भेद से ऋग्वेद में है−१०।८।१। तथा सामवेद में−पू०१।७।९। दूसरा पाद ऋग्वेद में है−६।७३।१ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६५−(प्र) प्रकर्षेण (केतुना)प्रज्ञया-निघ० ३।९ (बृहता) महता (रोदसी) द्यावापृथिव्यौ (वृषभः) वर्षकः सूर्यतापः (रोरवीति) भृशं रौति। विद्युदादिना भृशं शब्दं करोति (दिवः) सूर्यलोकस्य (चित्)एव (अन्तात्) (उपमाम्) सामीप्यम् (उत) उत्तमतया (आनट्) अशूङ् व्याप्तौ लिटि, एश्त्वे, एषो लुक् छान्दसः, व्रश्चादिना षत्वम्। झलां जशोऽन्ते। पा० ८।२।३।९।इति डकारः। वावसाने। पा० ८।४।५६। डस्य टः। आनट्, व्याप्तिकर्मा-निघ० २।१८। आनशे।अश्नुते। व्याप्नोति (अपाम्) प्रजानाम् (उपस्थे) उपस्थाने। उत्सङ्गे (महिषः)महान्-निघ० ३।३। पूजनीयो राजा (ववर्ध) लडर्थे लिट्। ववृधे। वर्धते ॥
@@ -4940,15 +5204,6 @@ Agni is shining forth with lofty banner: the Bull is bellowing to earth and heav
 
 ना᳓केसुपर्ण᳓मु᳓प य᳓त्प᳓तन्तं हृदा᳓ वे᳓नन्तो अभ्य᳓चक्षत त्वा।  
 हि᳓रण्यपक्षंव᳓रुणस्य दूतं᳓ यम᳓स्य यो᳓नौ शकुनं᳓ भुरण्यु᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/66_nAkesuparNamupa_yatpatantam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-नाके॑सुप॒र्णमुप॒ यत्पत॑न्तं॒ हृ॒दा वेन॑न्तो अ॒भ्यच॑क्षत त्वा।  
-हिर॑ण्यपक्षं॒वरु॑णस्य दू॒तं य॒मस्य॒ योनौ॑ शकु॒नं भु॑र॒ण्युम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/66_nAkesuparNamupa_yatpatantam.md">
@@ -4977,14 +5232,23 @@ cf. Griffith and comm. on TA.—Sāyaṇa, commenting on the RV. vs., says
 interesting diversity of opinion! Perhaps RV. ix. 85. 11 may throw light  
 on our verse.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 They gaze on thee with longing in their spirit, as on an eagle that is mounting skyward; On thee with wings of gold, Varuna's envoy, the Bird that hasteth to the home of Yama.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+नाके॑सुप॒र्णमुप॒ यत्पत॑न्तं॒ हृ॒दा वेन॑न्तो अ॒भ्यच॑क्षत त्वा।  
+हिर॑ण्यपक्षं॒वरु॑णस्य दू॒तं य॒मस्य॒ योनौ॑ शकु॒नं भु॑र॒ण्युम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नाके॑। सु॒ऽप॒र्णम्। उप॑। यत्। पत॑न्तम्। हृ॒दा। वेन॑न्तः। अ॒भि॒ऽअच॑क्षत। त्वा॒। हिर॑ण्यऽयक्षम्। वरु॑णस्य। दू॒तम। य॒मस्य॑। योनौ॑। श॒कु॒नम्। भु॒र॒ण्यम्। ३.६६। 
+नाके॑। सु॒ऽप॒र्णम्। उप॑। यत्। पत॑न्तम्। हृ॒दा। वेन॑न्तः। अ॒भि॒ऽअच॑क्षत। त्वा॒। हिर॑ण्यऽयक्षम्। वरु॑णस्य। दू॒तम। य॒मस्य॑। योनौ॑। श॒कु॒नम्। भु॒र॒ण्यम्। ३.६६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अनुष्टुप्
@@ -4992,18 +5256,22 @@ They gaze on thee with longing in their spirit, as on an eagle that is mounting 
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के कर्त्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे राजन् !] (यत्)जैसे (नाके) आकाश में (उपपतन्तम्) उड़ते हुए (सुपर्णम्) सुन्दर पंखवाले [गरुड़आदि] पक्षी को, [वैसे ही] (हिरण्यपक्षम्) तेज ग्रहण करनेवाले, (वरुणस्य) श्रेष्ठगुण के (दूतम्) पहुँचानेवाले, (यमस्य) न्याय के (योनौ) घर में (शकुनम्)शक्तिमान् और (भुरण्युम्) पालन करनेवाले (त्वा) तुझको (हृदा) हृदय से (वेनन्तः)चाहनेवाले पुरुष (अभ्यचक्षत) सब ओर से देखते हैं ॥६६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो राजा महाप्रतापी, श्रेष्ठ गुणी, न्यायकारी और प्रजापालक होता है, मनुष्य उस वेगवान् तीव्रबुद्धिको ऐसी प्रीति से देखते हैं, जैसे आकाश में ऊँचे उड़ते हुए गरुड़ आदि को चावसे देखते हैं ॥६६॥यह मन्त्र ऋग्वेद में है−१०।१२३।५। और सामवेद में−पू० ४।३।८तथा उ० ९।२।१३ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६६−(नाके) पिनाकादयश्च। उ० ४।१५। णीञ् प्रापणे-आकप्रत्ययः, टिलोपः। लोकानां नेतरि आकाशे (सुपर्णम्) शोभनपक्षोपेतं गरुडादिविहङ्गम् (यत्)यथा (उप पतन्तम्) उड्डीयमानम् (हृदा) हृदयेन (वेनन्तः) वेनतिः कान्तिकर्मा-निघ०२।६। कामयमानाः (अभ्यचक्षत) सर्वतः पश्यन्ति (त्वा) त्वां राजानम् (हिरण्यपक्षम्) पक्ष परिग्रहे-अच्। तेजसो ग्रहीतारम् (वरुणस्य) श्रेष्ठगुणस्य (दूतम्) दुतनिभ्यां दीर्घश्च। उ० ३।९०। दुगतौ-क्त। प्रापकम् (यमस्य) न्यायस्य (योनौ) गृहे (शकुनम्) शकेरुनोन्तोन्त्युनयः। उ० ३।४९। शक्लृ शक्तौ-उन प्रत्ययः।शक्तम्। समर्थम् (भुरण्युम्) यजिमनिशुन्धि० उ० ३।२०। भुरण धारणपोषणयोः-युच्।भर्तारम् ॥
@@ -5017,15 +5285,6 @@ They gaze on thee with longing in their spirit, as on an eagle that is mounting 
 
 इ᳓न्द्र क्र᳓तुंन आ᳓ भर पिता᳓ पुत्रे᳓भ्यो य᳓था।  
 शि᳓क्षा णो अस्मि᳓न्पुरुहूत या᳓मनि जीवा᳓ज्यो᳓तिरशीमहि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/67_indra_kratunna.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इन्द्र॒ क्रतुं॑न॒ आ भ॑र पि॒ता पु॒त्रेभ्यो॒ यथा॑।  
-शिक्षा॑ णो अ॒स्मिन्पु॑रुहूत॒ याम॑नि जी॒वाज्योति॑रशीमहि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/67_indra_kratunna.md">
@@ -5043,14 +5302,23 @@ vii. 5. 7⁴; the only variant anywhere is that TS. has *no as-*,
 unlingualized, in **c**. The comm. glosses *yā́mani* with  
 *saṁsāragamane*, and *śíkṣa* by *anuśādhi*.
 </details>
+
 <details><summary>Griffith</summary>
 
 O Indra, bring us wisdom as a sire gives wisdom to his sons. Guide us, O much-invoked in this our way: may we still living look upon the Sun.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्र॒ क्रतुं॑न॒ आ भ॑र पि॒ता पु॒त्रेभ्यो॒ यथा॑।  
+शिक्षा॑ णो अ॒स्मिन्पु॑रुहूत॒ याम॑नि जी॒वाज्योति॑रशीमहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑। क्रतु॑म्। नः॒। आ। भ॒र॒। पि॒ता। पु॒त्रेभ्यः॑। यथा॑। शिक्ष॑। नः॒। अ॒स्मिन्। पु॒रु॒ऽहू॒त॒। याम॑नि। जी॒वाः। ज्योतिः॑। अ॒शी॒म॒हि॒। ३.६७। 
+इन्द्र॑। क्रतु॑म्। नः॒। आ। भ॒र॒। पि॒ता। पु॒त्रेभ्यः॑। यथा॑। शिक्ष॑। नः॒। अ॒स्मिन्। पु॒रु॒ऽहू॒त॒। याम॑नि। जी॒वाः। ज्योतिः॑। अ॒शी॒म॒हि॒। ३.६७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पथ्या बृहती
@@ -5058,18 +5326,22 @@ O Indra, bring us wisdom as a sire gives wisdom to his sons. Guide us, O much-in
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के कर्त्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इन्द्र) हे परमऐश्वर्यवाले राजन् ! तू (नः) हमारे लिये (क्रतुम्) बुद्धि (आ भर) भर दे, (यथा)जैसे (पिता) पिता (पुत्रेभ्यः) पुत्रों [सन्तानों] के लिये। (पुरुहूत) हे बहुतप्रकार बुलाये गये [राजन् !] (अस्मिन्) इस (यामनि) समय वा मार्ग में (नः) हमें (शिक्ष) शिक्षा दे, [जिस से] (जीवाः) हम जीव लोग (ज्योतिः) प्रकाश को (अशीमहि)पावें ॥६७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  राजा उत्तम-उत्तमविद्यालय, शिल्पालय, आदि खोलकर प्रजा का हित करे, जैसे पिता सन्तानों का हित करताहै, जिस से लोग अज्ञान के अन्धकार से छूट कर ज्ञान के प्रकाश को प्राप्त होवें॥६७॥यह मन्त्र ऋग्वेद में है−७।३२।२६ और सामवेद में है−पू० ३।७।७ तथा उ० ६।३।६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६७−(इन्द्र) हे परमैश्वर्यवन् राजन् (क्रतुम्) प्रज्ञाम् (नः) अस्मभ्यम् (भर)पोषय (पिता) (पुत्रेभ्यः) भ्रातृपुत्रौ स्वसृदुहितृभ्याम्। पा० १।२।६८।इत्येकशेषः। पुत्रदुहितृभ्यः। सन्तानेभ्यः (यथा) (शिक्ष) अनुशाधि। शिक्षां कुरु (नः) अस्मान् (पुरुहूत) बहुप्रकारेणाहूत (यामनि) समये मार्गे वा (जीवाः)प्राणिनो वयम् (ज्योतिः) प्रकाशम् (अशीमहि) प्राप्नुयाम ॥
@@ -5083,15 +5355,6 @@ O Indra, bring us wisdom as a sire gives wisdom to his sons. Guide us, O much-in
 
 अ᳙पूपा᳓पिहितान्कुम्भा᳓न्यां᳓स्ते देवा᳓ अ᳓धारयन्।  
 ते᳓ ते सन्तु स्वधा᳓वन्तोम᳓धुमन्तो घृतश्चु᳓तः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/68_apUpApihitAnkumbhAnyAMste_devA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॑पू॒पापि॑हितान्कु॒म्भान्यांस्ते॑ दे॒वा अधा॑रयन्।  
-ते ते॑ सन्तु स्व॒धाव॑न्तो॒मधु॑मन्तो घृत॒श्चुतः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/68_apUpApihitAnkumbhAnyAMste_devA.md">
@@ -5108,14 +5371,23 @@ The verse is repeated below as 4. 25. Only one of our mss. and one of
 SPP's accent *ádhārayan;* ⌊but one of SPP's at 4. 25 also accents  
 *ádhā-*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Let these which Gods have held for thee, the beakers covered o'er with cake, Be full of sacred food for thee, distilling fatness, rich in mead.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑पू॒पापि॑हितान्कु॒म्भान्यांस्ते॑ दे॒वा अधा॑रयन्।  
+ते ते॑ सन्तु स्व॒धाव॑न्तो॒मधु॑मन्तो घृत॒श्चुतः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पू॒पऽअ॑पिहितान्। कु॒म्भान्। यान्। ते॒। दे॒वाः। अधा॑रयन्। ते। ते॒। स॒न्तु॒। स्व॒धाऽव॑न्तः। मधु॑ऽमन्तः। घृ॒त॒ऽश्चुतः॑। ३.६८। 
+अ॒पू॒पऽअ॑पिहितान्। कु॒म्भान्। यान्। ते॒। दे॒वाः। अधा॑रयन्। ते। ते॒। स॒न्तु॒। स्व॒धाऽव॑न्तः। मधु॑ऽमन्तः। घृ॒त॒ऽश्चुतः॑। ३.६८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अनुष्टुप्
@@ -5123,18 +5395,22 @@ Let these which Gods have held for thee, the beakers covered o'er with cake, Be 
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहाश्रम में मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (यान्)जिन (अपूपापिहितान्) अपूपों [शुद्ध पके हुए भोजनों मालपूये पूड़ी आदि] को ढककररखनेवाले (कुम्भान्) पात्रों को (ते) तेरे लिये (देवाः) विद्वानों ने (अधारयन्)रक्खा है। (ते) वे [भोजन पदार्थ] (ते) तेरे लिये (स्वधावन्तः) आत्मधारणशक्तिवाले, (मधुमन्तः) मधुर गुणवाले और (धृतश्चुतः) घी [सार रस] के सींचनेवाले (सन्तु) होवें ॥६८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थों को योग्य हैकि विद्वानों के स्थापित नियमों के अनुसार उत्तम भोजनों के सेवन से स्वस्थ रहें॥६८॥यह मन्त्र कुछ भेद से आगे है-अ० १८।४।२५ और उत्तरार्ध उसी के मन्त्र म० ४२में है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६८−(अपूपापिहितान्) पानीविषिभ्यः पः। उ० ३।२३। नञ्+पूयी विशरणेदुर्गन्धे च-प प्रत्ययः, यलोपः। अविशीर्णा अक्षीणा अपूपाः सुसंस्कृतभोजनपदार्थाअपिहिता आच्छादिता येषु तान्। सुसंस्कृतभोजनपदार्थपूर्णान् (कुम्भान्) पटान् (यान्) (ते) तुभ्यम् (देवाः) विद्वांसः (अधारयन्) धारितवन्तः (ते) कुम्भाः (ते)तुभ्यम् (सन्तु) (स्वधावन्तः) आत्मधाऱणशक्तियुक्ताः (मधुमन्तः) मधुरगुणोपेताः (घृतश्चुतः) श्चुतिर् क्षरणे-क्विप्। घृतस्य साररसस्य सेचकाः ॥
@@ -5148,15 +5424,6 @@ Let these which Gods have held for thee, the beakers covered o'er with cake, Be 
 
 या᳓स्ते धाना᳓अनुकिरा᳓मि तिल᳓मिश्राः स्वधा᳓वतीः।  
 ता᳓स्ते सन्तु विभ्वीः᳓प्रभ्वी᳓स्ता᳓स्ते यमो᳓ रा᳓जा᳓नु मन्यताम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/69_yAste_dhAnAanukirAmi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यास्ते॑ धा॒नाअ॑नुकि॒रामि॑ ति॒लमि॑श्राः स्व॒धाव॑तीः।  
-तास्ते॑ सन्तु वि॒भ्वीःप्र॒भ्वीस्तास्ते॑ य॒मो राजानु॑ मन्यताम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/69_yAste_dhAnAanukirAmi.md">
@@ -5200,14 +5467,23 @@ apropos of some joyful occurrence in the family, barley is substituted
 for sesame: so śrāddhakalpa, iv. 5, as cited by Caland,  
 *Totenverehrung*, p. 37.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Grains which for thee I scatter, mixt with Sesamum, as holy food, May they for thee be excellent and potent: King Yama look on them as thine with favour!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यास्ते॑ धा॒नाअ॑नुकि॒रामि॑ ति॒लमि॑श्राः स्व॒धाव॑तीः।  
+तास्ते॑ सन्तु वि॒भ्वीःप्र॒भ्वीस्तास्ते॑ य॒मो राजानु॑ मन्यताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। ते॒। धा॒नाः। अ॒नु॒ऽकि॒रामि॑। ति॒लऽमि॑श्राः। स्व॒धाऽव॑तीः। ताः। ते॒। स॒न्तु॒। वि॒ऽभ्वीः। प्र॒ऽभ्वीः। ताः। ते॒। य॒मः। राजा॑। अनु॑। म॒न्य॒ता॒म्। ३.६९। 
+याः। ते॒। धा॒नाः। अ॒नु॒ऽकि॒रामि॑। ति॒लऽमि॑श्राः। स्व॒धाऽव॑तीः। ताः। ते॒। स॒न्तु॒। वि॒ऽभ्वीः। प्र॒ऽभ्वीः। ताः। ते॒। य॒मः। राजा॑। अनु॑। म॒न्य॒ता॒म्। ३.६९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - उपरिष्टात् बृहती
@@ -5215,18 +5491,22 @@ Grains which for thee I scatter, mixt with Sesamum, as holy food, May they for t
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहाश्रम में मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (ते)तेरे लिये (याः) जिन (तिलमिश्राः) उद्योग से मिली हुई, (स्वधावतीः) आत्मधारणशक्तिवाली (धानाः) पोषणक्रियाओं को (अनुकिरामि) मैं अनुकूल रीति से फैलाता हूँ। (ताः) वे [पोषणक्रियाएँ] (ते) तेरे लिये (विभ्वीः) सर्वव्यापिनी और (प्रभ्वीः)प्रभुतावाली (सन्तु) होवें, और (ताः) उन [पोषणक्रियाओं] को (ते) तेरे लिये (यमः)संयमी (राजा) राजा [शासक पुरुष] (अनु) अनुकूल (मन्यताम्) जाने ॥६९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर कहता है किमैं मनुष्य को अनेक विचित्र प्रभावशाली क्रियाएँ सर्वत्र लगातार देता हूँ, उनको आत्मशासक संयमी पुरुष ज्ञानपूर्वक प्राप्त करे ॥६९॥यह मन्त्र कुछ भेद से आगेहै-अ० १८।४।२६ तथा ४३ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६९−(याः) (ते) तुभ्यम् (धानाः) धापॄवस्यज्यतिभ्यो नः। उ०३।६। डुधाञ् धारणपोषणदानेषु-न प्रत्ययः, टाप्। पोषणक्रियाः (अनुकिरामि) कॄविक्षेपे। आनुकूल्येन विस्तारयामि (तिलमिश्राः) तिल गतौ स्नेहने च-क प्रत्ययः।तिलेन गत्या प्रयत्नेन मिश्रिताः (स्वधावतीः) स्वधारणशक्तिमतीः (ताः)पोषणक्रियाः (ते) तुभ्यम् (सन्तु) (विभ्वीः) विभ्व्यः। सर्वव्यापिन्यः (प्रभ्वीः) प्रभ्व्यः। प्रभुत्वोपेताः (ताः) (ते) तुभ्यम् (यमः) संयमी पुरुषः (राजा) शासकः। जीवात्मा (अनु) अनुकूलम् (मन्यताम्) जानातु ॥
@@ -5240,15 +5520,6 @@ Grains which for thee I scatter, mixt with Sesamum, as holy food, May they for t
 
 पु᳓नर्देहिवनस्पते य᳓ एष᳓ नि᳓हितस्त्व᳓यि।  
 य᳓था यम᳓स्य सा᳓दन आ᳓सातै विद᳓था व᳓दन्॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/70_punardehivanaspate_ya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पुन॑र्देहिवनस्पते॒ य ए॒ष निहि॑त॒स्त्वयि॑।  
-यथा॑ य॒मस्य॒ साद॑न॒ आसा॑तै वि॒दथा॒ वद॑न्॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/70_punardehivanaspate_ya.md">
@@ -5269,14 +5540,23 @@ which a corpse is buried (in which case, *tváyi* ought to be rendered
 'in thee'). ⌊With regard to *vanaspate*, see my note to 2. 25, above:  
 and as to *vidáthā*, see Geldner, ZDMG. lii. 735.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 O Tree, give back again this man who is deposited on thee. That he may dwell in Yama's home addressing the assemblies there.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पुन॑र्देहिवनस्पते॒ य ए॒ष निहि॑त॒स्त्वयि॑।  
+यथा॑ य॒मस्य॒ साद॑न॒ आसा॑तै वि॒दथा॒ वद॑न्॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पुनः॑। दे॒हि॒। व॒न॒स्प॒ते॒। यः। ए॒षः। निऽहि॑तः। त्वयि॑। यथा॑। य॒मस्य॑। सद॑ने। आसा॑तै। वि॒दथा॑। वद॑न्। ३.७०। 
+पुनः॑। दे॒हि॒। व॒न॒स्प॒ते॒। यः। ए॒षः। निऽहि॑तः। त्वयि॑। यथा॑। य॒मस्य॑। सद॑ने। आसा॑तै। वि॒दथा॑। वद॑न्। ३.७०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -5284,18 +5564,22 @@ O Tree, give back again this man who is deposited on thee. That he may dwell in 
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहाश्रम में मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वनस्पते) हे सेवकोंके रक्षक [परमात्मन् !] [वह श्रेष्ठ गुण] (पुनः) निश्चय कर के (देहि) दे, (यःएषः) जो यह [श्रेष्ठ गुण] (त्वयि) तुझ में (निहितः) दृढ़ रक्खा है। (यथा) जिस सेयह [जीव] (यमस्य) न्याय के (सदने) घर में (विदथा) ज्ञानों को (वदन्) बताता हुआ (आसातै) बैठे ॥७०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमेश्वर केसर्वव्यापक उत्तम गुणों को अवश्य प्रयत्न से प्राप्त करके न्याय के साथ संसारमें उपकार करे ॥७०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७०−(पुनः) अवधारणे (देहि) प्रयच्छ श्रेष्ठगुणम् (वनस्पते) वनसेवने-अच्। हे वनानां सेवकानां पालक परमेश्वर (यः) श्रेष्ठगुणः (एषः) (निहितः)दृढं, धृतः (त्वयि) (यथा) येन प्रकारेण (यमस्य) न्यायस्य (सदने) गृहे (आसातै)लेटि रूपम्। आसीत्। उपविशेत् (विदथा) ज्ञानानि (वदन्) कथयन्। उपदिशन् ॥
@@ -5309,15 +5593,6 @@ O Tree, give back again this man who is deposited on thee. That he may dwell in 
 
 आ᳓ रभस्वजातवेदस्ते᳓जस्वद्ध᳓रो अस्तु ते।  
 श᳓रीरमस्य सं᳓ दहा᳓थैनं धेहि सुकृ᳓तामुलोके᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/71_A_rabhasvajAtavedastejasvaddharo.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आ र॑भस्वजातवेद॒स्तेज॑स्व॒द्धरो॑ अस्तु ते।  
-शरी॑रमस्य॒ सं द॒हाथै॑नं धेहि सु॒कृता॑मुलो॒के ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/71_A_rabhasvajAtavedastejasvaddharo.md">
@@ -5334,14 +5609,23 @@ Or (in b) 'let thy flame be brilliant.' The verse is used ⌊Kāuś. 81. 33⌋
 with 2.4 and others (see under 2. 4) at the lighting of the funeral  
 pile.
 </details>
+
 <details><summary>Griffith</summary>
 
 Seize hold O Jatavedas; let thy flame be full of fervent heat. Consume his body: to the world of pious ones transport this man.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ र॑भस्वजातवेद॒स्तेज॑स्व॒द्धरो॑ अस्तु ते।  
+शरी॑रमस्य॒ सं द॒हाथै॑नं धेहि सु॒कृता॑मुलो॒के ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। र॒भ॒स्व॒। जा॒त॒ऽवे॒दः॒। तेज॑स्वत्। हरः॑। अ॒स्तु॒। ते॒। शरी॑रम्। अ॒स्य॒। सम्। द॒ह॒। अथ॑। ए॒न॒म्। धे॒हि। सु॒ऽकृता॑म्। ऊं॒ इति॑। लो॒के। ३.७१। 
+आ। र॒भ॒स्व॒। जा॒त॒ऽवे॒दः॒। तेज॑स्वत्। हरः॑। अ॒स्तु॒। ते॒। शरी॑रम्। अ॒स्य॒। सम्। द॒ह॒। अथ॑। ए॒न॒म्। धे॒हि। सु॒ऽकृता॑म्। ऊं॒ इति॑। लो॒के। ३.७१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - उपरिष्टात् बृहती
@@ -5349,18 +5633,22 @@ Seize hold O Jatavedas; let thy flame be full of fervent heat. Consume his body:
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहाश्रम में मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (जातवेदः) हे बड़ेज्ञानोंवाले जीव ! [धर्म को] (आ रभस्व) आरम्भ कर, (ते) तेरा (हरः) ग्रहणसामर्थ्य (तेजस्वत्) तेजवाला (अस्तु) होवे। (अस्य) इस [प्राणी] के (शरीरम्) शरीरको [ब्रह्मचर्य आदि तप से] (सम्) यथावत् (दह) तपा, (अथ) फिर (एनम्) इस [प्राणी]को (सुकृताम्) सुकर्मियों के (लोके) समाज में (उ) अवश्य (धेहि) रख ॥७१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य धर्म कोआरम्भ कर के अपना बल पराक्रम बढ़ाते हैं, और अपने शरीर को ब्रह्मचर्य आदि तप सेसंयम में रखते हैं, वे ही पुण्यात्माओं में प्रतिष्ठा पाते हैं ॥७१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७१−(आ रभस्व)उपक्रमस्व धर्मम् (जातवेदः) जातानि प्रसिद्धानि वेदांसि ज्ञानानि यस्यतत्सम्बुद्धौ (तेजस्वत्) प्रकाशयुक्तम् (हरः) हरतेरसुन्। ग्रहणसामर्थ्यम्। बलम् (अस्तु) (ते) तव (शरीरम्) (अस्य) प्राणिनः (सम्) सम्यक् (दह) तापयब्रह्मचर्यादितपसा (अथ) (अनन्तरम्) (एनम्) प्राणिनम् (धेहि) स्थापय (सुकृताम्)पुण्यकर्मणाम् (उ) अवश्यम् (लोके) समाजे ॥
@@ -5374,15 +5662,6 @@ Seize hold O Jatavedas; let thy flame be full of fervent heat. Consume his body:
 
 ये᳓ ते पू᳓र्वेप᳓रागता अ᳓परे पित᳓रश्च ये᳓।  
 ते᳓भ्यो घृत᳓स्य कुल्यै᳙तु शत᳓धाराव्युन्दती᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/72_ye_te.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ये ते॒ पूर्वे॒परा॑गता॒ अप॑रे पि॒तर॑श्च॒ ये।  
-तेभ्यो॑ घृ॒तस्य॑ कु॒ल्यै᳡तु श॒तधा॑राव्युन्द॒ती ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/72_ye_te.md">
@@ -5405,14 +5684,23 @@ filling a dish (*caru*) with butter and honey and depositing it by the
 head ⌊see note to 4. 16⌋; and again (88. 17), in the *piṇḍapitṛyajña*,  
 on smearing the *piṇḍas* with sacrificial butter.
 </details>
+
 <details><summary>Griffith</summary>
 
 To these, thy Fathers who have passed away at first and after- ward, Let the full brook of butter run, o'erflowing with a hundred streams.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये ते॒ पूर्वे॒परा॑गता॒ अप॑रे पि॒तर॑श्च॒ ये।  
+तेभ्यो॑ घृ॒तस्य॑ कु॒ल्यै᳡तु श॒तधा॑राव्युन्द॒ती ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। ते॒। पूर्वे॑। परा॑ऽगताः। अप॑रे। पि॒तरः॑। च॒। ये। तेभ्यः॑। घृ॒तस्य॑। कु॒ल्या॑। ए॒तु॒। श॒तऽधा॑रा। वि॒ऽउ॒द॒न्ती। ३.७२। 
+ये। ते॒। पूर्वे॑। परा॑ऽगताः। अप॑रे। पि॒तरः॑। च॒। ये। तेभ्यः॑। घृ॒तस्य॑। कु॒ल्या॑। ए॒तु॒। श॒तऽधा॑रा। वि॒ऽउ॒द॒न्ती। ३.७२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -5420,18 +5708,22 @@ To these, thy Fathers who have passed away at first and after- ward, Let the ful
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहाश्रम में मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (ये) जो (ते) तेरे (पूर्वे) प्राचीन (च) और (ये) जो (अपरे) अर्वाचीन (पितरः) पितर [पालकमहात्मा] (परागताः) प्रधानता से चले हैं। (तेभ्यः) उन के लिये (घृतस्य) जल की (कुल्या) कुल्या [कृत्रिम नाली] (शतधारा) सैकड़ों धाराओंवाली, (व्युन्दती)उमड़ती हुई (एतु) चले ॥७२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य पूर्वज औरवर्तमान महात्माओं से गुण ग्रहण करके संसार को अनेक प्रकार आनन्द देवें, जैसे किकिसान लोग जल की नालियाँ बना खेतों को सींच कर अन्न की वृद्धि से सुख पहुँचातेहैं ॥७२॥इस मन्त्र का उत्तरार्द्ध कुछ भेद से आगे है-अ० १८।४।५७ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७२−(ये) (ते)तव (पूर्वे) प्राचीनाः (परागताः) प्राधान्येन मताः (अपरे) पश्चाद्भाविनः।अर्वाचीनाः (पितरः) पालका महात्मानः (च) (ये) (तेभ्यः) पितॄणां हिताय (घृतस्य)उदकस्य-निघ० १।१२ कुल्या) कुल-यत्, यद्वा कुल बन्धे संहतौ च-क्यप्, टाप्, कृत्रिमाल्पा नदी (शतधारा) बहुधाराभिरुपेता (व्युन्दन्ती) विशेषेणआर्द्रीकुर्वती ॥
@@ -5445,15 +5737,6 @@ To these, thy Fathers who have passed away at first and after- ward, Let the ful
 
 एत᳓दा᳓ रोह व᳓यउन्मृजानः᳓ स्वा᳓ इह᳓ बृह᳓दु दीदयन्ते।  
 अभि᳓ प्रे᳓हि मध्यतो᳓ मा᳓प हास्थाःपितॄणां᳓ लोकं᳓ प्रथमो᳓ यो᳓ अ᳓त्र ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/18/003_pitRmedhaH/73_etadA_roha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ए॒तदा रो॑ह॒ वय॑उन्मृजा॒नः स्वा इ॒ह बृ॒हदु॑ दीदयन्ते।  
-अ॒भि प्रेहि॑ मध्य॒तो माप॑ हास्थाःपितॄ॒णां लो॒कं प्र॑थ॒मो यो अत्र॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/73_etadA_roha.md">
@@ -5483,14 +5766,23 @@ the verse in Kāuś. 85. 24, with 2. 37, see under the latter. ⌊Cf. p.
 ⌊Here ends the third *anuvāka*, with 1 hymn and 73 verses. The quoted  
 Anukr. says *saptatis tryadhikā paraḥ:* cf. page 814.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Mount to this life, removing all defilement: here thine own kindred shine with lofty splendour. Depart thou; be not left behind: go forward, first of those here, unto the world of Fathers.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒तदा रो॑ह॒ वय॑उन्मृजा॒नः स्वा इ॒ह बृ॒हदु॑ दीदयन्ते।  
+अ॒भि प्रेहि॑ मध्य॒तो माप॑ हास्थाःपितॄ॒णां लो॒कं प्र॑थ॒मो यो अत्र॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒तत्। आ। रो॒ह॒। वयः॑। उ॒त्ऽमृ॒जा॒नः। स्वाः। इ॒ह। बृ॒हत्। ऊं॒ इति॑। दी॒द॒य॒न्ते॒। अ॒भि। प्र। इ॒हि॒। म॒ध्य॒तः। मा। अप॑। हा॒स्थाः॒। पि॒तॄणाम्। लो॒कम्। प्र॒थ॒मः। यः। अत्र॑। ३.७३। 
+ए॒तत्। आ। रो॒ह॒। वयः॑। उ॒त्ऽमृ॒जा॒नः। स्वाः। इ॒ह। बृ॒हत्। ऊं॒ इति॑। दी॒द॒य॒न्ते॒। अ॒भि। प्र। इ॒हि॒। म॒ध्य॒तः। मा। अप॑। हा॒स्थाः॒। पि॒तॄणाम्। लो॒कम्। प्र॒थ॒मः। यः। अत्र॑। ३.७३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिष्टुप्
@@ -5498,18 +5790,22 @@ Mount to this life, removing all defilement: here thine own kindred shine with l
 - अथर्वा
 - पितृमेध सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहाश्रम में मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (एतत्)इस (वयः) जीवन को (उन्मृजानः) शुद्ध करता हुआ तू (आ रोह) ऊँचा चढ़, (ते) तेरे (स्वाः) बान्धव लोग (इह) यहाँ पर (बृहत्) बहुत (हि) ही (दीदयन्ते) प्रकाशमानहैं। तू (अभि) सब ओर (प्र) आगे को (इहि) चल, (मध्यतः) बीच से (पितॄणाम्) पितरोंके (लोकम्) उस समाज को (अप) बिलगा कर (मा हास्थाः) मत जा, (यः) जो [समाज] (अत्र)यहाँ पर (प्रथमः) मुख्य है ॥७३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य अपने यशस्वीबान्धवों के समान अपना जीवन उत्तम बनावें, और सब श्रेष्ठ कामों को दृढ़ता सेआरम्भ कर के सर्वथा समाप्त कर महापुरुषार्थियों में स्थान पावें ॥७३॥ इतितृतीयोऽनुवाकः ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७३−(एतत्) दृश्यमानम् (आ रोह) आरुह्य प्राप्नुहि (वयः) जीवनम् (उन्मृजानः) परिशोधयन् (स्वाः) ज्ञातयः (इह) अस्मिंल्लोके (बृहत्) यथा भवति तथा।अधिकम् (दीदयन्ते) दीदयतिर्ज्वलतिकर्मा निघ० १।१६। दीदयतिर्नैरुक्तो धातुः-पश्यतनिरु० १०।१९। दीप्यन्ते (अभि) सर्वतः (प्र) प्रकर्षेण अग्रे (इहि) गच्छ (मध्यतः)मध्यभागात् (अप) अपेत्य वियुज्य (मा हास्थाः) ओहाङ् गतौ-लुङ्। मा गच्छ (पितॄणाम्) पालकानाम्। (लोकम्) समाजम् (प्रथमः) मुख्यः (यः) लोकः (अत्र) अस्मिन्संसारे ॥

@@ -8,6 +8,7 @@ title = "००६ अतिथि-सत्कारः"
 
 6. Exalting the entertainment of guests.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 अतिथि-सत्कारः।  
@@ -32,10 +33,12 @@ title = "००६ अतिथि-सत्कारः"
 ४५-४८ (१-१०) १ साम्नी उष्णिक्, २ पुर उष्णिक्, ३ साम्नी भुरिग्बृहती, ४ ६, ९ साम्नी अनुष्टुप्,  
 ५ त्रिपदा निचृद्विषमा नाम गायत्री, ७ त्रिपदा विराड् विषमा नाम गायत्री, ८ त्रिपदा विराडनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ṣaṭ paryāyāḥ. ātithyā uta vidyādevatyāḥ.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -45,6 +48,7 @@ This whole prose hymn is found in Pāipp. xvi., except a few verses, as noted be
 #### Translations
 Translated: Henry, 98, 137; Griffith, i. 448.
 </details>
+
 <details><summary>Griffith</summary>
 
 A glorification of hospitable reception of guests
@@ -57,14 +61,6 @@ A glorification of hospitable reception of guests
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो᳓ विद्या᳓द्ब्र᳓ह्म प्रत्य᳓क्षं प᳓रूंषि य᳓स्य संभारा᳓ ऋ᳓चो य᳓स्यानूक्य᳙म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/01_yo_vidyAdbrahma.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यो वि॒द्याद्ब्रह्म॑ प्र॒त्यक्षं॒ परूं॑षि॒ यस्य॑ संभा॒रा ऋचो॒ यस्या॑नूक्य᳡म् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/01_yo_vidyAdbrahma.md">
@@ -81,14 +77,22 @@ vidyāt sadya mahadvate*, making an *anuṣṭubh* of the verse. The Anukr.
 is corrupt at this point, one ms. appearing to call the verse *nāgī nāma  
 tripād gāyatrū;* one sees no reason why.
 </details>
+
 <details><summary>Griffith</summary>
 
 Whoso will know Prayer with immediate knowledge, whose mem- bers are the stuff, whose spine the verses:
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो वि॒द्याद्ब्रह्म॑ प्र॒त्यक्षं॒ परूं॑षि॒ यस्य॑ संभा॒रा ऋचो॒ यस्या॑नूक्य᳡म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। वि॒द्यात्। ब्रह्म॑। प्र॒ति॒ऽअक्ष॑म्। परूं॑षि। यस्य॑। स॒म्ऽभा॒राः। ऋचः॑। यस्य॑। अ॒नू॒क्य᳡म्। ६.१। 
+यः। वि॒द्यात्। ब्रह्म॑। प्र॒ति॒ऽअक्ष॑म्। परूं॑षि। यस्य॑। स॒म्ऽभा॒राः। ऋचः॑। यस्य॑। अ॒नू॒क्य᳡म्। ६.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -96,18 +100,22 @@ Whoso will know Prayer with immediate knowledge, whose mem- bers are the stuff, 
 - नागी त्रिपदा गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) संयमी पुरुष [अथवा जो कोई विद्वान् हो वह] (प्रत्यक्षम्) प्रत्यक्ष करके (ब्रह्म) ब्रह्म [परमात्मा] को (विद्यात्) जाने (यस्य) जिस [ब्रह्म] के (परूँषि) पालन सामर्थ्य (संभाराः) विविध संग्रह और (यस्य) जिसका (अनूक्यम्) अनुकूल वाक्य (ऋचः) ऋचाएँ [स्तुतियोग्य वेदमन्त्र] हैं ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् संयमी पुरुष सर्वपोषक, सर्वोपदेशक परमात्मा को साक्षात् कर सकते हैं ॥१॥ मन्त्र १-४ और ६ स्वामिदयानन्दकृत संस्कारविधि संन्यासाश्रमप्रकरण में व्याख्यात हैं ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यः) यम नियमने-ड। संयमी। संन्यासी। अथवा यो विद्वान् भवतु सः (विद्यात्) जानीयात् (ब्रह्म) अ० १।८।४। सर्वेभ्यो बृहन्तं परमेश्वरम् (प्रत्यक्षम्) साक्षात्करेण (परूँषि) अर्तिपॄवपि०। उ० २।११७। पॄ पालनपूरणयोः−उसि। पालनसामर्थ्यानि (यस्य) ब्रह्मणः (संभाराः) विविधाः संग्रहाः (ऋचः) ऋच स्तुतौ−क्विप्। ऋग् वाङ्नाम-निघ० १।११। स्तुत्या वेदवाचः (यस्य) (अनूक्यम्) ऋहलोर्ण्यत्। पा० ३।१।१२४। अनु+वच परिभाषणे-ण्यत्, छान्दसं सम्प्रसारणम्, चजोः कु घिण्ण्यतोः। पा० ७।३।५२। इति कुत्वम्। अनुकूलवाक्यम् ॥
@@ -120,14 +128,6 @@ Whoso will know Prayer with immediate knowledge, whose mem- bers are the stuff, 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सा᳓मानि य᳓स्य लो᳓मानि य᳓जुर्हृ᳓दयमुच्य᳓ते परिस्त᳓रणमि᳓द्धविः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/02_sAmAni_yasya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सामा॑नि॒ यस्य॒ लोमा॑नि॒ यजु॒र्हृद॑यमु॒च्यते॑ परि॒स्तर॑ण॒मिद्ध॒विः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/02_sAmAni_yasya.md">
@@ -146,14 +146,22 @@ Ppp. reads *chandāṅsi* for *sāmāni* in **a**, and puts **c** before
 wondrously made up, is doubtless the guest, all attentions to whom the  
 hymn proceeds to glorify by identifying them with sacred acts.
 </details>
+
 <details><summary>Griffith</summary>
 
 Whose hairs are psalms, whose heart is called the Yajus, whose coverlet is verily oblation--
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सामा॑नि॒ यस्य॒ लोमा॑नि॒ यजु॒र्हृद॑यमु॒च्यते॑ परि॒स्तर॑ण॒मिद्ध॒विः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सामा॑नि। यस्य॑। लोमा॑नि। यजुः॑। हृद॑यम्। उ॒च्यते॑। प॒रि॒ऽस्तर॑णम्। इत्। ‍ ह॒विः। ६.२। 
+सामा॑नि। यस्य॑। लोमा॑नि। यजुः॑। हृद॑यम्। उ॒च्यते॑। प॒रि॒ऽस्तर॑णम्। इत्। ‍ ह॒विः। ६.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -161,18 +169,22 @@ Whose hairs are psalms, whose heart is called the Yajus, whose coverlet is veril
 - त्रिपदार्षी गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सामानि) दुःखनाशक [मोक्षविज्ञान] (यस्य) जिस [ब्रह्म] के (लोमानि) रोम [सदृश हैं], (यजुः) विद्वानों का सत्कार, विद्यादान और पदार्थों का संगतिकरण [जिसके] (हृदयम्) हृदय [के समान] और (परिस्तरणम्) सब ओर फैलाव (इत्) ही (हविः) ग्राह्यकर्म (उच्यते) कहा जाता है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् ही कर्म, उपासना और ज्ञान से परमेश्वर के उपकारों को साक्षात् करके आनन्दित होते हैं ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(सामानि) अ० ७।५४।१। षो अन्तकर्मणि-मनिन्। दुःखनाशकानि मोक्षज्ञानानि (यस्य) ब्रह्मणः (लोमानि) लोमतुल्यानि (यजुः) अ० ७।५४।२। विदुषां सत्कारो विद्यादानं पदार्थसंगतिकरणं च (हृदयम्) हृदयसमानम् (उच्यते) (परिस्तरणम्) सर्वतो विस्तारः (इत्) एव (हविः) ग्राह्यं कर्म ॥
@@ -185,14 +197,6 @@ Whose hairs are psalms, whose heart is called the Yajus, whose coverlet is veril
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓द्वा᳓ अ᳓तिथिपतिर᳓तिथीन्प्रतिप᳓श्यति देवय᳓जनं प्रे᳓क्षते ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/03_yadvA_atithipatiratithInpratipashyati.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यद्वा अति॑थिपति॒रति॑थीन्प्रति॒पश्य॑ति देव॒यज॑नं॒ प्रेक्ष॑ते ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/03_yadvA_atithipatiratithInpratipashyati.md">
@@ -208,14 +212,22 @@ Ppp. reads at the beginning *yad atithipatiḥ preṣyate*. The verse has
 one syllable too many for a regular *sāmnī triṣṭubh;* but the system of  
 nomenclature affords no ⌊simple⌋ name for one of 23 syllables.
 </details>
+
 <details><summary>Griffith</summary>
 
 Verily when a host looks at his guests he looks at the place of sacrifice to the Gods.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्वा अति॑थिपति॒रति॑थीन्प्रति॒पश्य॑ति देव॒यज॑नं॒ प्रेक्ष॑ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। वै। अति॑थिऽपतिः। अति॑थीन्। प्र॒ति॒ऽपश्य॑ति। दे॒व॒ऽयजन॑म्। प्र। ई॒क्ष॒ते॒। ६.३। 
+यत्। वै। अति॑थिऽपतिः। अति॑थीन्। प्र॒ति॒ऽपश्य॑ति। दे॒व॒ऽयजन॑म्। प्र। ई॒क्ष॒ते॒। ६.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -223,18 +235,22 @@ Verily when a host looks at his guests he looks at the place of sacrifice to the
 - साम्नी त्रिष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत् वै) जब ही (अतिथिपतिः) अतिथियों का पालन करनेहारा (अतिथीन्) अतिथियों [नित्य मिलने योग्य विद्वानों] को (प्रति-पश्यति) प्रतीक्षा से देखता है, वह (देवयजनम्) उत्तम गुणों का संगतिकरण (प्र ईक्षते) अच्छे प्रकार देखता है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग प्रीति से महामान्य विद्वानों का सत्कार करके उत्तम गुण प्राप्त करते हैं ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(यत्) यदा (वै) निश्चयेन (अतिथिपतिः) अतिथीनां पालकः (अतिथीन्) अ० ७।२१।१। अत सातत्यगमने−इथिन्। नित्यप्रापणीयान् महामान्यान्। विदुषः पुरुषान् (प्रतिपश्यति) प्रतीक्षया पश्यति (देवयजनम्) उत्तमगुणानां संगतिकरणम् (प्र) प्रकर्षेण (ईक्षते) अवलोकयति ॥
@@ -249,14 +265,6 @@ Verily when a host looks at his guests he looks at the place of sacrifice to the
 य᳓दभिव᳓दति दीक्षा᳓मु᳓पैति य᳓दुदकं᳓ या᳓चत्यपः᳓ प्र᳓ णयति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/04_yadabhivadati_dIxAmupaiti.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यद॑भि॒वद॑ति दी॒क्षामुपै॑ति॒ यदु॑द॒कं याच॑त्य॒पः प्र ण॑यति ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/04_yadabhivadati_dIxAmupaiti.md">
 <details open><summary><h3>०४ यदभिवदति दीक्षामुपैति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -269,14 +277,22 @@ Verily when a host looks at his guests he looks at the place of sacrifice to the
 *Prá ṇayati* is quoted as an example under Prāt. iii. 79. We have to  
 read *yā́cati apáḥ* to make out the defined meter.
 </details>
+
 <details><summary>Griffith</summary>
 
 When he salutes them reverently he undergoes preparation for a religious ceremony: when he calls for water, he solemnly brings sacrificial water.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद॑भि॒वद॑ति दी॒क्षामुपै॑ति॒ यदु॑द॒कं याच॑त्य॒पः प्र ण॑यति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। अ॒भि॒ऽवद॑ति। दी॒क्षाम्। उप॑। ए॒ति॒। यत्। उ॒द॒कम्। याच॑ति। अ॒पः। प्र। न॒य॒ति॒। ६.४। 
+यत्। अ॒भि॒ऽवद॑ति। दी॒क्षाम्। उप॑। ए॒ति॒। यत्। उ॒द॒कम्। याच॑ति। अ॒पः। प्र। न॒य॒ति॒। ६.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -284,18 +300,22 @@ When he salutes them reverently he undergoes preparation for a religious ceremon
 - आर्च्यनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब वह [गृहस्थ] (अभिवदति) अभिवादन करता है, वह (दीक्षाम्) दीक्षा [व्रत का उपदेश] (उप एति) आदरपूर्वक पाता है, (यत्) जब (उदकम्) जल को वह [गृहस्थ] (याचति) विनय करके देता है, वह [गृहस्थ] (अपः) जल (प्र णयति) [प्रणीता पात्र में] सन्मुख लाता है ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग आदरपूर्वक अभिवादन आदि करके और पाद्य, अर्घ्य और पानीय जल आदि समर्पण करके अतिथियों से उत्तम शिक्षा ग्रहण करें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(यत्) यदा (अभिवदति) संवदति प्रणमति वा (दीक्षाम्) अ० ८।५।१५। व्रतोपदेशम् (उपैति) आदरेण प्राप्नोति (यत्) यदा (याचति) याचृ आत्मने दानार्थं प्रेरणे, ग्रहणार्थं प्रेरणेऽपि-शब्दकल्पद्रुमः। विनयेन ददाति। (अपः) जलानि (प्र णयति) प्रणीतापात्रेण समर्पयति गृहस्थः ॥
@@ -310,14 +330,6 @@ When he salutes them reverently he undergoes preparation for a religious ceremon
 या᳓ एव᳓ यज्ञ᳓ आ᳓पः प्रणीय᳓न्ते ता᳓ एव᳓ ताः᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/05_yA_eva.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-या ए॒व य॒ज्ञ आपः॑ प्रणी॒यन्ते॒ ता ए॒व ताः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/05_yA_eva.md">
 <details open><summary><h3>०५ या एव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -329,14 +341,22 @@ ones.
 ##### Notes
 *Praṇīyánte* also is quoted under Prāt. iii. 79.
 </details>
+
 <details><summary>Griffith</summary>
 
 The water that is solemnly brought at a sacrifice is this same water.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+या ए॒व य॒ज्ञ आपः॑ प्रणी॒यन्ते॒ ता ए॒व ताः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। ए॒व। य॒ज्ञे। आपः॑। प्र॒ऽनी॒यन्ते॑। ताः। ए॒व। ताः। ६.५। 
+याः। ए॒व। य॒ज्ञे। आपः॑। प्र॒ऽनी॒यन्ते॑। ताः। ए॒व। ताः। ६.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -344,18 +364,22 @@ The water that is solemnly brought at a sacrifice is this same water.
 - आसुरी गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (याः) जो (एव) ही (आपः) जल (यज्ञे) यज्ञ में (प्रणीयन्ते) आदर से लाये जाते हैं, (ताः) वे (एव) ही (ताः) वे [अतिथि के लिये उपकारी होते हैं] ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संन्यासी लोग उपकार दृष्टि से ही जल पान आदि करते हैं ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(याः) (एव) (यज्ञे) सत्करणीये व्यवहारे (आपः) जलानि (प्रणीयन्ते) आदरेण दीयन्ते (ताः) जलानि (एव) (ताः) उपकारिण्य इत्यर्थः ॥
@@ -370,14 +394,6 @@ The water that is solemnly brought at a sacrifice is this same water.
 य᳓त्त᳓र्पणमाह᳓रन्ति य᳓ एवा᳓ग्नीषोमी᳓यः पशु᳓र्बध्य᳓ते स᳓ एव᳓ सः᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/06_yattarpaNamAharanti_ya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यत्तर्प॑णमा॒हर॑न्ति॒ य ए॒वाग्नी॑षो॒मीयः॑ प॒शुर्ब॒ध्यते॒ स ए॒व सः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/06_yattarpaNamAharanti_ya.md">
 <details open><summary><h3>०६ यत्तर्पणमाहरन्ति य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -389,14 +405,22 @@ an animal for Agni-and-Soma that is bound \[for sacrifice\].
 ##### Notes
 Ppp. adds after this verse *yat khātam āharanti puroḍāśā eva te*.
 </details>
+
 <details><summary>Griffith</summary>
 
 The libation which they bring; the sacrificial victim dedicated to Agni and Soma which is tied to the post, that, verily, is this man.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्तर्प॑णमा॒हर॑न्ति॒ य ए॒वाग्नी॑षो॒मीयः॑ प॒शुर्ब॒ध्यते॒ स ए॒व सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। तर्प॑णम्। आ॒ऽह॑रन्ति। यः। ए॒व। अ॒ग्नी॒षो॒मीयः॑। प॒शुः। ब॒ध्यते॑। सः। ए॒व। सः। ६.६। 
+यत्। तर्प॑णम्। आ॒ऽह॑रन्ति। यः। ए॒व। अ॒ग्नी॒षो॒मीयः॑। प॒शुः। ब॒ध्यते॑। सः। ए॒व। सः। ६.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -404,18 +428,22 @@ The libation which they bring; the sacrificial victim dedicated to Agni and Soma
 - त्रिपदा साम्नी जगती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब वे [घर के लोग] (तर्पणम्) तृप्तिकारक द्रव्य (आहरन्ति) लाते हैं, [तब] (यः) जो (एव) ही (अग्नीषोमीयः) ज्ञान और ऐश्वर्य के लिये हितकारी (पशुः) समदर्शी [अतिथि] (बध्यते) [प्रेम डोरी से] बाँधा जाता है (सः एव सः) वही वह [अतिथि होता है] ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अतिथि संन्यासी गृहस्थ की सेवा इस प्रयोजन से स्वीकार करते हैं कि वे विद्वान् प्रेमपूर्वक संसार के लिये ज्ञान और ऐश्वर्य बढ़ावें ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(यत्) यदा (तर्पणम्) तृप्तिकरं द्रव्यम् (आहरन्ति) आनयन्ति गृहस्थाः (यः) अतिथिः (एव) (अग्नीषोमीयः) अङ्गेर्नलोपश्च। उ० ४।५०। अगि गतौ-नि। अर्त्तिस्तुसुहु०। उ० १।१४०। षु ऐश्वर्ये-मन्। तस्मै हितम्। पा० ५।१।५। इति छ प्रत्ययः। अग्नीषोमाभ्यां ज्ञानैश्वर्याभ्यां हितः (पशुः) अ० ३।२८।१। समदर्शी देवः। संन्यासी (बध्यते) बध संयमने वा बन्ध बन्धने-कर्मणि यक्। प्रेमबन्धने क्रियते (सः) (एव) (सः) अतिथिः ॥
@@ -430,14 +458,6 @@ The libation which they bring; the sacrificial victim dedicated to Agni and Soma
 य᳓दावसथा᳓न्कल्प᳓यन्ति सदोहविर्धाना᳓न्येव᳓ त᳓त्कल्पयन्ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/07_yadAvasathAnkalpayanti_sadohavirdhAnAnyeva.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यदा॑वस॒थान्क॒ल्पय॑न्ति सदोहविर्धा॒नान्ये॒व तत्क॑ल्पयन्ति ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/07_yadAvasathAnkalpayanti_sadohavirdhAnAnyeva.md">
 <details open><summary><h3>०७ यदावसथान्कल्पयन्ति सदोहविर्धानान्येव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -448,14 +468,22 @@ oblation-holders (*havirdhā́na*).
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 When they arrange dwelling-rooms they arrange the sacred chamber and the shed for housing the Soma cars.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदा॑वस॒थान्क॒ल्पय॑न्ति सदोहविर्धा॒नान्ये॒व तत्क॑ल्पयन्ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। आ॒ऽव॒स॒थान्। क॒ल्पय॑न्ति। स॒दः॒ऽह॒वि॒र्धा॒नानि॑। ए॒व। तत्। क॒ल्प॒य॒न्ति॒। ६.७। 
+यत्। आ॒ऽव॒स॒थान्। क॒ल्पय॑न्ति। स॒दः॒ऽह॒वि॒र्धा॒नानि॑। ए॒व। तत्। क॒ल्प॒य॒न्ति॒। ६.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -463,18 +491,22 @@ When they arrange dwelling-rooms they arrange the sacred chamber and the shed fo
 - साम्नी त्रिष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब वे [गृहस्थ लोग] (आवसथान्) निवासस्थानों को (कल्पयन्ति) बनाते हैं, (तत्) तब वे [अतिथि लोग] (सदोहविर्धानानि) यज्ञशाला और हवि [लेने-देने योग्य कर्मों] के स्थानों को (एव) ही (कल्पयन्ति) विचारते हैं ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थों के बनाये स्थानों में संन्यासी महात्मा विद्यालय, अद्भुतालय, बिजुली, तार आदि स्थानों का विचार करते हैं ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(यत्) यदा (आवसथान्) उपसर्गे वसेः। उ० ३।११६। आ+वस निवासे-अथ। निवासान् (कल्पयन्ति) रचयन्ति (सदोहविर्धानानि) यज्ञगृहग्राह्यदातव्यकर्मस्थानानि (एव) (तत्) तदा (कल्पयन्ति) विचारयन्ति। समर्थयन्ति ॥
@@ -487,14 +519,6 @@ When they arrange dwelling-rooms they arrange the sacred chamber and the shed fo
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓दुपस्तृण᳓न्ति बर्हि᳓रेव᳓ त᳓त् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/08_yadupastRNanti_barhireva.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यदु॑पस्तृ॒णन्ति॑ ब॒र्हिरे॒व तत् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/08_yadupastRNanti_barhireva.md">
@@ -513,14 +537,22 @@ When they arrange dwelling-rooms they arrange the sacred chamber and the shed fo
 Ppp. omits the second clause of vs. 7, and reads *pari-* for *upa-* in  
 8; it omits 9 here: see under 10, below.
 </details>
+
 <details><summary>Griffith</summary>
 
 What they spread upon the floor is just Sacrificial Grass.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदु॑पस्तृ॒णन्ति॑ ब॒र्हिरे॒व तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। उ॒प॒ऽस्तृ॒णन्ति॑। ब॒र्हिः। ए॒व। तत्। ६.८। 
+यत्। उ॒प॒ऽस्तृ॒णन्ति॑। ब॒र्हिः। ए॒व। तत्। ६.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -528,18 +560,22 @@ What they spread upon the floor is just Sacrificial Grass.
 - याजुषी त्रिष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जो कुछ वे [गृहस्थ] (उपस्तृणन्ति) बिछोना करते हैं, (तत्) वह [संन्यासी के लिये] (बर्हिः) कुशासन (एव) ही होता है ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संन्यासी लोग अल्पमूल्य वस्तुओं में निर्वाह करके यज्ञसामग्री का ध्यान रखते हैं ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(यत्) यत्किंचित् (उपस्तृणन्ति) आच्छादनानि कुर्वन्ति (बर्हिः) अ० ५।२२।१। कुशासनम्। यज्ञसामग्री ॥
@@ -552,14 +588,6 @@ What they spread upon the floor is just Sacrificial Grass.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓दुपरिशयन᳓माह᳓रन्ति स्वर्ग᳓मेव᳓ ते᳓न लोक᳓म᳓व रुन्द्धे ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/09_yaduparishayanamAharanti_svargameva.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यदु॑परिशय॒नमा॒हर॑न्ति स्व॒र्गमे॒व तेन॑ लो॒कमव॑ रुन्द्धे ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/09_yaduparishayanamAharanti_svargameva.md">
@@ -575,14 +603,22 @@ possession of the heavenly (*svargá*) world.
 *upariśaya*, OB. iv. 296 **c**⌋. The minor Pet. Lex. renders it 'an  
 elevated couch.' The verse lacks a syllable.
 </details>
+
 <details><summary>Griffith</summary>
 
 With the couch that the men bring, he wins for himself the world of Svarga.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदु॑परिशय॒नमा॒हर॑न्ति स्व॒र्गमे॒व तेन॑ लो॒कमव॑ रुन्द्धे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। उ॒प॒रि॒ऽश॒य॒नम्। आ॒ऽहर॑न्ति। स्वः॒ऽगम्। ए॒व। तेन॑। लो॒कम्। अव॑। रु॒न्ध्दे॒। ६.९। 
+यत्। उ॒प॒रि॒ऽश॒य॒नम्। आ॒ऽहर॑न्ति। स्वः॒ऽगम्। ए॒व। तेन॑। लो॒कम्। अव॑। रु॒न्ध्दे॒। ६.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -590,18 +626,22 @@ With the couch that the men bring, he wins for himself the world of Svarga.
 - आर्च्यनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जैसे वे [गृहस्थ लोग] (उपरिशयनम्) ऊँचे शयनस्थान को (आहरन्ति) यथावत् प्राप्त होते हैं, (तेन) वैसे ही वह [संन्यासी] (स्वर्गम्) सुख देनेवाले (लोकम्) दर्शनीय परमेश्वर को (एव) निश्चय करके (अव रुन्द्धे) प्राप्त होता है ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग तो शय्या आदि में विश्राम पाते हैं, किन्तु संन्यासी एक परमात्मा के आश्रय में सुखी रहता है ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(यत्) येन प्रकारेण (उपरिशयनम्) उच्चशय्यास्थानम् (आहरन्ति) समन्तात् प्राप्नुवन्ति गृहस्थाः (स्वर्गम्) सुखप्रापकम् (एव) निश्चयेन (तेन) प्रकारेण (लोकम्) दर्शनीयं परमात्मानम् (अव रुन्द्धे) प्राप्नोति ॥
@@ -614,14 +654,6 @@ With the couch that the men bring, he wins for himself the world of Svarga.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓त्कशिपूपबर्हण᳓माह᳓रन्ति परिध᳓य एव᳓ ते᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/10_yatkashipUpabarhaNamAharanti_paridhaya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यत्क॑शिपूपबर्ह॒णमा॒हर॑न्ति परि॒धय॑ ए॒व ते ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/10_yatkashipUpabarhaNamAharanti_paridhaya.md">
@@ -638,14 +670,22 @@ verse, the extra syllable is noted by the Anukr. Ppp. reads *-barhaṇāni*
 and *paridhe ’va te;* and it adds its version of 9: *yat parṣeṇam*  
 (*pariśayanam?*) *āharanti svar-* etc.
 </details>
+
 <details><summary>Griffith</summary>
 
 The pillow-coverings that they bring are the green sticks that surround the sacrificial altar.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्क॑शिपूपबर्ह॒णमा॒हर॑न्ति परि॒धय॑ ए॒व ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। क॒शि॒पु॒ऽउ॒प॒ब॒र्ह॒णम्। आ॒ऽहर॑न्ति। प॒रि॒ऽधयः॑। ए॒व। ते। ६.१०। 
+यत्। क॒शि॒पु॒ऽउ॒प॒ब॒र्ह॒णम्। आ॒ऽहर॑न्ति। प॒रि॒ऽधयः॑। ए॒व। ते। ६.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -653,18 +693,22 @@ The pillow-coverings that they bring are the green sticks that surround the sacr
 - साम्नी भुरिग्बृहती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब (कशिपूपबर्हणम्) विछौना और बालिश को वे [गृहस्थ लोग] (आहरन्ति) प्राप्त होते हैं, [संन्यासी के लिये] (ते) वे [प्रसिद्ध ईश्वर की] (एव) ही (परिधयः) सब ओर से धारणशक्तियाँ हैं ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संन्यासी शारीरिक सुख की उपेक्षा करके परमेश्वर का अवलम्बन करता है ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(यत्) यदा (कशिपूपबर्हणम्) कशिपुर्व्याख्यातः-अ० ६।१३८।५। उपबर्हणं व्याख्यातम्-अ० ९।५।२९। परिस्तरणं बालिशं च (आहरन्ति) (परिधयः) उपसर्गे घोः किः। पा० ३।३।९२। परि+दधातेः-कि। ईश्वरस्य परितो धारणशक्तयः (एव) (ते) प्रसिद्धाः ॥
@@ -677,14 +721,6 @@ The pillow-coverings that they bring are the green sticks that surround the sacr
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓दाञ्जनाभ्यञ्जन᳓माह᳓रन्त्या᳓ज्यमेव᳓ त᳓त् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/11_yadAnjanAbhyanjanamAharantyAjyameva_tat.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यदा॑ञ्जनाभ्यञ्ज॒नमा॒हर॒न्त्याज्य॑मे॒व तत् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/11_yadAnjanAbhyanjanamAharantyAjyameva_tat.md">
@@ -701,14 +737,22 @@ separation from each other. Ppp. omits *āñjana*. The Anukr. reads 16
 syllables, which may be obtained in more than one way (most probably  
 *-ranti āj-*).
 </details>
+
 <details><summary>Griffith</summary>
 
 The ointment that they bring for injunction is just clarified liquid butter.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदा॑ञ्जनाभ्यञ्ज॒नमा॒हर॒न्त्याज्य॑मे॒व तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। आ॒ञ्ज॒न॒ऽअ॒भ्य॒ञ्ज॒नम्। आ॒ऽहर॑न्ति। आज्य॑म्। ए॒व। तत्। ६.११। 
+यत्। आ॒ञ्ज॒न॒ऽअ॒भ्य॒ञ्ज॒नम्। आ॒ऽहर॑न्ति। आज्य॑म्। ए॒व। तत्। ६.११।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -716,18 +760,22 @@ The ointment that they bring for injunction is just clarified liquid butter.
 - साम्न्यनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब (आञ्जनाभ्यञ्जनम्) चन्दन और तेल आदि के मर्दन को (आहरन्ति) वे [गृहस्थ लोग] प्राप्त होते हैं, (तत्) सब [संन्यासी के लिये] (आज्यम्) [संसार का] व्यक्त करनेवाला ब्रह्म (एव) ही है ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संन्यासी पुरुष परमात्मा के चिन्तन में अपनी शरीरशोभा समझता है ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(यत्) यदा (आञ्जनाभ्यञ्जनम्) अञ्जू व्यक्तिम्रक्षणकान्तिगतिषु-ल्युट्। सम्यक् चन्दनादिलेपनं तैलादिमर्दनं च (आहरन्ति) (आज्यम्) अ० ५।८।१। आङ्+अञ्जू व्यक्तौ-क्यप्। संसारस्य व्यक्तिकरं ब्रह्म (एव) (तत्) तदा ॥
@@ -742,14 +790,6 @@ The ointment that they bring for injunction is just clarified liquid butter.
 य᳓त्पुरा᳓ परिवेषा᳓त्खाद᳓माह᳓रन्ति पुरोडा᳓शावेव᳓ तौ᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/12_yatpurA_pariveShAtkhAdamAharanti.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यत्पु॒रा प॑रिवे॒षात्खा॒दमा॒हर॑न्ति पुरो॒डाशा॑वे॒व तौ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/12_yatpurA_pariveShAtkhAdamAharanti.md">
 <details open><summary><h3>१२ यत्पुरा परिवेषात्खादमाहरन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -762,14 +802,22 @@ The ointment that they bring for injunction is just clarified liquid butter.
 *Khādá* is perhaps a special bit or bite, anticipatory of the proper  
 meal. The verse is wanting in Ppp.
 </details>
+
 <details><summary>Griffith</summary>
 
 The food they bring before the general distribution represents the two sacrificial cakes of rice meal.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्पु॒रा प॑रिवे॒षात्खा॒दमा॒हर॑न्ति पुरो॒डाशा॑वे॒व तौ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। पु॒रा। प॒रि॒ऽवे॒षात्। खा॒दम्। आ॒ऽहर॑न्ति। पु॒रो॒डाशौ॑। ए॒व। तौ। ६.१२। 
+यत्। पु॒रा। प॒रि॒ऽवे॒षात्। खा॒दम्। आ॒ऽहर॑न्ति। पु॒रो॒डाशौ॑। ए॒व। तौ। ६.१२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -777,18 +825,22 @@ The food they bring before the general distribution represents the two sacrifici
 - विराड्गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब वे [गृहस्थ लोग] (पुरा) पहिले (परिवेषात्) परोसकर (खादम्) भोजन को (आहरन्ति) खाते हैं। [तब संन्यासी के लिये] (तौ) वे (पुरोडाशौ) दो पुरोडाश [मुनि अन्न की दो रोटियाँ] (एव) ही हैं ॥१२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संन्यासी लोग बहुमूल्य आहारों को छोड़कर थोड़े मुनि अन्न, नीवार, कन्द आदि का भोजन करते हैं ॥१२॥ पुरोडाश का वर्णन मनु० अ० ६। श्लो० ११ में इस प्रकार है ॥  वासन्तशारदैर्मेध्यैर्मुन्यन्नैः स्वयमाहृतैः। पुरोडाशांश्चरूँश्चैव विधिवन्निर्वपेत्पृथक् ॥१॥  अपने हाथ से लाये हुए वसन्त और शरद् में उत्पन्न हुए पवित्र मुनियों के अन्नों से पुरोडाश और चरु को विधि के अनुसार अलग-अलग फैलावे [परोसे] ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १२−(यत्) यदा (पुरा) आदौ (परिवेषात्) परि+विष्लृ व्याप्तौ-घञ्। पञ्चमीविधाने ल्यब्लोपे कर्मण्युपसंख्यानम्। वा० पा० २।३।२८। ल्यब्लोपे कर्मणि पञ्चमी। परिवेषं भोजनार्थं पात्रे अन्नादेर्दानं समाप्य (खादम्) भोजनम् (आहरन्ति) खादन्ति (पुरोडाशौ) अ० ८।८।२२। मुन्यन्नरोटिकाविशेषौ-मनुः ६।११। (तौ) ॥
@@ -803,14 +855,6 @@ The food they bring before the general distribution represents the two sacrifici
 य᳓दशनकृ᳓तं ह्व᳓यन्ति हविष्कृ᳓तमेव᳓ त᳓द्ध्वयन्ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/13_yadashanakRtaM_hvayanti.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यद॑शन॒कृतं॒ ह्वय॑न्ति हवि॒ष्कृत॑मे॒व तद्ध्व॑यन्ति ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/13_yadashanakRtaM_hvayanti.md">
 <details open><summary><h3>१३ यदशनकृतं ह्वयन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -822,14 +866,22 @@ maker of oblations.
 ##### Notes
 Some of the mss. read *haviḥkṛ́tam*.
 </details>
+
 <details><summary>Griffith</summary>
 
 When they call the man who prepares food they summon the preparer of oblation.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद॑शन॒कृतं॒ ह्वय॑न्ति हवि॒ष्कृत॑मे॒व तद्ध्व॑यन्ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। अ॒श॒न॒ऽकृत॑म्। ह्वय॑न्ति। ह॒विः॒ऽकृत॑म्। ए॒व। तत्। ह्व॒य॒न्ति॒। ६.१३। 
+यत्। अ॒श॒न॒ऽकृत॑म्। ह्वय॑न्ति। ह॒विः॒ऽकृत॑म्। ए॒व। तत्। ह्व॒य॒न्ति॒। ६.१३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -837,18 +889,22 @@ When they call the man who prepares food they summon the preparer of oblation.
 - साम्नी निचृत्पङ्क्तिः
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब वे [गृहस्थ लोग] (अशनकृतम्) भोजन बनानेवाले को (ह्वयन्ति) बुलाते हैं, (तत्) तब वे [संन्यासी लोग] (हविष्कृतम्) देने और लेने योग्य व्यवहार करनेहारे [परमेश्वर] को (एव) ही (ह्वयन्ति) बुलाते हैं ॥१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संन्यासी लोग गृहस्थों के समान सूपकार आदि की अपेक्षा न करके ईश्वर का ध्यान करते हुए आत्मावलम्बी होते हैं ॥१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १३−(यत्) यदा (अशनकृतम्) सूपकारम् (ह्वयन्ति) आह्वयन्ति (हविष्कृतम्) दातव्यादातव्यव्यवहाराणां कर्तारं परमेश्वरम् (एव) (तत्) तदा (ह्वयन्ति) ॥
@@ -861,14 +917,6 @@ When they call the man who prepares food they summon the preparer of oblation.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये᳓ व्रीह᳓यो य᳓वा निरुप्य᳓न्तेंऽश᳓व एव᳓ ते᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/14_ye_vrIhayo.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ये व्री॒हयो॒ यवा॑ निरु॒प्यन्तें॒ऽशव॑ ए॒व ते ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/14_ye_vrIhayo.md">
@@ -885,14 +933,22 @@ quoted under Prāt. i. 69 as an example of the elision of initial *a*
 with the transfer of its nasalization to the eliding *e*. Ppp. reads at  
 the end *aṅśava eva te ‘nūpyante*.
 </details>
+
 <details><summary>Griffith</summary>
 
 The grains of rice and barley that are selected are just filaments of the Soma plant.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये व्री॒हयो॒ यवा॑ निरु॒प्यन्तें॒ऽशव॑ ए॒व ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। व्री॒हयः॑। यवाः॑। निः॒ऽउ॒प्यन्ते॑। अं॒शवः॑। ए॒व। ते। ६.१४। 
+ये। व्री॒हयः॑। यवाः॑। निः॒ऽउ॒प्यन्ते॑। अं॒शवः॑। ए॒व। ते। ६.१४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -900,18 +956,22 @@ The grains of rice and barley that are selected are just filaments of the Soma p
 - साम्न्यनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ये) जो (व्रीहयः) चावल और (यवाः) जौ [गृहस्थों करके] (निरुप्यन्ते) फैलाये [परोसे] जाते हैं, (ते) वे (एव) ही [संन्यासी को] (अंशवः) सूक्ष्म विचार [होते हैं] ॥१४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जब गृहस्थ लोग चावल जौ आदि बोकर भोजन करते हैं, संन्यासी लोग स्वयंसिद्ध मुनि अन्नों से निर्वाह करके सूक्ष्म विचार करते हैं ॥१४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १४−(ये) (व्रीहयः) अ० ६।१४०।२। धान्यविशेषाः (यवाः) (निरुप्यन्ते) डुवप बीजसन्ताने मुण्डने च। प्रक्षिप्यन्ते (अंशवः) मृगय्वादयश्च। उ० १।३७। अंश विभाजने-क। सूक्ष्मांशाः। सोमलतावयवाः ॥
@@ -926,14 +986,6 @@ The grains of rice and barley that are selected are just filaments of the Soma p
 या᳓न्युलूखलमुसला᳓नि ग्रा᳓वाण एव᳓ ते᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/15_yAnyulUkhalamusalAni_grAvANa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यान्यु॑लूखलमुस॒लानि॒ ग्रावा॑ण ए॒व ते ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/15_yAnyulUkhalamusalAni_grAvANa.md">
 <details open><summary><h3>१५ यान्युलूखलमुसलानि ग्रावाण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -945,14 +997,22 @@ The grains of rice and barley that are selected are just filaments of the Soma p
 The Anukr. expects us to read *yā́ni ul-*. Ppp. omits *yāni* and reads  
 *-musalam*, which is easier; it also omits *eva te* at the end.
 </details>
+
 <details><summary>Griffith</summary>
 
 The pestle and mortar are really the stones of the Soma press.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यान्यु॑लूखलमुस॒लानि॒ ग्रावा॑ण ए॒व ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यानि॑। उ॒लू॒ख॒ल॒ऽमु॒स॒लानि॑। ग्रावा॑णः। ए॒व। ते। ६.१५। 
+यानि॑। उ॒लू॒ख॒ल॒ऽमु॒स॒लानि॑। ग्रावा॑णः। ए॒व। ते। ६.१५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -960,18 +1020,22 @@ The pestle and mortar are really the stones of the Soma press.
 - साम्न्यनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यानि) जो [गृहस्थों के] (उलूखलमुसलानि) ओखली-मूसल हैं, (ते) वे [वैसे] (एव) ही [संन्यासियों के] (ग्रावाणः) शास्त्र उपदेश हैं ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस प्रकार गृहस्थ लोग ओखली-मूसल से कूटकर अन्न का सार निकालते हैं, उसी प्रकार संन्यासी लोग तपश्चरण करके सत्यशास्त्रों का उपदेश करते हैं ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १५−(यानि) (उलूखलमुसलानि) उरु+खल चलने-अच्। उरु विस्तीर्णं खलं धान्यमर्दनस्थानं यस्य तद् उलूखलं पृषोदरादिरूपम्। उलूखलमुरुकरं वोर्क्करं वोर्ध्वखं वा-निरु० ९।२०। वृषादिभ्यश्चित्। उ० १।१०६। मुस खण्डने-कल, चित्। मुसलं मुहुः सरम्=निरु० ९।३५। धान्यादिकण्डनसाधनानि (ग्रावाणः) अ० ३।१०।५। गॄ विज्ञापे शब्दे च-क्वनिप्। शास्त्रोपदेशाः (एव) (ते) ॥
@@ -984,14 +1048,6 @@ The pestle and mortar are really the stones of the Soma press.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शू᳓र्पं पवि᳓त्रं तु᳓षा ऋजीषा᳓भिष᳓वणीरा᳓पः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/16_shUrpaM_pavitram.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-शूर्पं॑ प॒वित्रं॒ तुषा॑ ऋजी॒षाभि॒षव॑णी॒रापः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/16_shUrpaM_pavitram.md">
@@ -1009,14 +1065,22 @@ refuse stalks from which the soma has been pressed. ⌊All of SPP's and of
 W's *pada*-mss. seem to agree in reading *ṛjīṣā́* as fem.⌋ Ppp. reads  
 *rajīṣaḥ*. It omits *abhiṣavaṇīr āpaḥ* here: but see vs. 17.
 </details>
+
 <details><summary>Griffith</summary>
 
 The winnowing-basket is the filter, the chaff the Soma dregs, the water, the pressing-gear.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+शूर्पं॑ प॒वित्रं॒ तुषा॑ ऋजी॒षाभि॒षव॑णी॒रापः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शूर्प॑म्। प॒वित्र॑म्। तुषाः॑। ऋ॒जी॒षाः। अ॒भि॒ऽसव॑नीः। आपः॑। ६.१६। 
+शूर्प॑म्। प॒वित्र॑म्। तुषाः॑। ऋ॒जी॒षाः। अ॒भि॒ऽसव॑नीः। आपः॑। ६.१६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1024,18 +1088,22 @@ The winnowing-basket is the filter, the chaff the Soma dregs, the water, the pre
 - साम्न्यनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शूर्पम्) सूप [छाज], (पवित्रम्) चालनी, (तुषाः) बुसी (ऋजीषा) सोम का फोक [नीरस वस्तु], (अभिसवनीः) मार्जन वा स्नान के पात्र, (आपः) [यज्ञ का] जल। (स्रुक्) स्रुचा [घी चढ़ाने का पात्र], (दर्विः) चमचा, (नेक्षणम्) शूल, शलाका आदि, (आयवनम्) कढ़ाही, (द्रोणकलशाः) द्रोणकलश [यज्ञ के कलश], (कुम्भ्यः) कुम्भी [गर्गरी], (वायव्यानि) पवन करने के (पात्राणि) पात्र [गृहस्थों के हैं], (इयम्) यह [पृथिवी] (एव) ही [संन्यासियों को] (कृष्णाजिनम्) कृष्णसार हरिन की मृगछाला [के समान है] ॥१६, १७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग अनेक प्रकार की सामग्री से यज्ञ आदि काम करते हैं, सन्यासी पुरुष जितेन्द्रिय होकर समस्त पृथिवी को अपना सर्वस्व और विस्तर आदि समझ प्रसन्न रहते हैं ॥१६, १७॥ मनुस्मृति-अ० ६। श्लो० ४३ में इस प्रकार वर्णन है ॥  अनग्निरनिकेतः स्याद् ग्राममन्नार्थमाश्रयेत्। उपेक्षकोऽशङ्कुसुको मुनिर्भावसमाहितः ॥१॥ (उपेक्षकः) [बुरे कर्मों की] उपेक्षा करनेवाला, (अशङ्कुसुकः) स्थिरबुद्धि, (भावसमाहितः) परमेश्वर की भावना में ध्यान लगाये हुए (मुनिः) मुनि अर्थात् संन्यासी (अनग्निः) आहवनीय आदि अग्नियों से रहित और (अनिकेतः) विना घरवाला (स्यात्) रहे और (अन्नार्थम्) अन्न के लिये (ग्रामम् आश्रयेत्) ग्राम का आश्रम ले ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १६, १७−(शूर्पम्) सुशॄभ्यां निच्च। उ० ३।२६। शॄ हिंसायाम्-प प्रत्ययः, नित् किच् च, यद्वा शूर्प माने-घञ्। शूर्पमशनपवनं शृणातेर्वा-निरु० ६।९। धान्यस्फोटनयन्त्रम् (पवित्रम्) पुवः संज्ञायाम्। पा० ३।२।१८५। पूञ्, शोधने−इत्र। चालनी (तुषाः) तुष प्रीतौ-क, टाप्। धान्यत्वचः (ऋजीषा) अर्जेर्ऋज च। उ० २८। अर्ज अर्जने−ईषन्, कित्, ऋजादेशः, टाप्। यत्सोमस्य पूयमानस्यातिरिच्यते तदृजीषमपार्जितं भवति-निरु० ५।१२। नीरसं सोमचूर्णम् (अभिसवनीः) अभि+षुञ् स्नपने स्नाने च-ल्युट्, ङीप्। मार्जन्यः। प्रोक्षण्यः (आपः) यज्ञजलानि (स्रुक्) चिक् च। उ० २।६२। स्रु गतौ चिक्। वटपत्राकृतिर्यज्ञपात्रभेदः (दर्विः) अ० ४।१४।१। काष्ठादिचमसः (नेक्षणम्) णिक्ष चुम्बने-ल्युट्। शूलशलाकादिद्रव्यम् (आयवनम्) यु मिश्रणामिश्रणयोः-ल्युट्। पाकसाधनपात्रम्। कटाहः (द्रोणकलशाः) यज्ञघटाः (कुम्भ्यः) उखाः (वायव्यानि) वाय्वृतुपित्रुषसो यत्। पा० ४।२।३१। वायु-यत्। वायुदेवताकानि। वायुसाधकानि (पात्राणि) पा रक्षणे ष्ट्रन्। भाजनानि। यन्त्राणि (इयम्) प्रसिद्धा भूमिः (एव) (कृष्णाजिनम्) कृष्णसारमृगचर्मवत् ॥
@@ -1048,14 +1116,6 @@ The winnowing-basket is the filter, the chaff the Soma dregs, the water, the pre
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्रु᳓ग्द᳓र्विर्ने᳓क्षणमाय᳓वनं द्रोणकलशाः᳓ कुम्भ्यो᳙ वायव्या᳙नि पा᳓त्राणीय᳓मेव᳓ कृष्णाजिन᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/17_srugdarvirnexaNamAyavanaM_droNakalashAH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स्रुग्दर्वि॒र्नेक्ष॑णमा॒यव॑नं द्रोणकल॒शाः कु॒म्भ्यो᳡ वाय॒व्या᳡नि॒ पात्रा॑णी॒यमे॒व कृ॑ष्णाजि॒नम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/17_srugdarvirnexaNamAyavanaM_droNakalashAH.md">
@@ -1098,14 +1158,22 @@ gāyatrī;† 26. sāmny anuṣṭubh; 27. 3-p. ārcī triṣṭubh; 30. 3-p. ā
 pan̄kti.*\] \*⌊*Berlin ms.: 3-p. virāṭ purastādbṛhatī.*⌋ †⌊*Berlin ms.:  
 sāmny anuṣṭubh.*⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Spoon, ladle, fork, stirring-prong are the wooden Soma tubs; the earthen cooking-pots are the mortar-shaped Soma vessels; this earth is just the black-antelope's skin.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्रुग्दर्वि॒र्नेक्ष॑णमा॒यव॑नं द्रोणकल॒शाः कु॒म्भ्यो᳡ वाय॒व्या᳡नि॒ पात्रा॑णी॒यमे॒व कृ॑ष्णाजि॒नम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्रुक्। दर्विः॑। नेक्ष॑णम्। आ॒ऽयव॑नम्। द्रो॒ण॒ऽक॒ल॒शाः। कु॒म्भ्यः᳡। वा॒य॒व्या᳡नि। पात्रा॑णि। इ॒यम्। ए॒व। कृ॒ष्ण॒ऽअ॒जि॒नम्। ६.१७। 
+स्रुक्। दर्विः॑। नेक्ष॑णम्। आ॒ऽयव॑नम्। द्रो॒ण॒ऽक॒ल॒शाः। कु॒म्भ्यः᳡। वा॒य॒व्या᳡नि। पात्रा॑णि। इ॒यम्। ए॒व। कृ॒ष्ण॒ऽअ॒जि॒नम्। ६.१७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1113,18 +1181,22 @@ Spoon, ladle, fork, stirring-prong are the wooden Soma tubs; the earthen cooking
 - त्रिपदा विराड्भुरिग्गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शूर्पम्) सूप [छाज], (पवित्रम्) चालनी, (तुषाः) बुसी (ऋजीषा) सोम का फोक [नीरस वस्तु], (अभिसवनीः) मार्जन वा स्नान के पात्र, (आपः) [यज्ञ का] जल। (स्रुक्) स्रुचा [घी चढ़ाने का पात्र], (दर्विः) चमचा, (नेक्षणम्) शूल, शलाका आदि, (आयवनम्) कढ़ाही, (द्रोणकलशाः) द्रोणकलश [यज्ञ के कलश], (कुम्भ्यः) कुम्भी [गर्गरी], (वायव्यानि) पवन करने के (पात्राणि) पात्र [गृहस्थों के हैं], (इयम्) यह [पृथिवी] (एव) ही [संन्यासियों को] (कृष्णाजिनम्) कृष्णसार हरिन की मृगछाला [के समान है] ॥१६, १७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग अनेक प्रकार की सामग्री से यज्ञ आदि काम करते हैं, सन्यासी पुरुष जितेन्द्रिय होकर समस्त पृथिवी को अपना सर्वस्व और विस्तर आदि समझ प्रसन्न रहते हैं ॥१६, १७॥ मनुस्मृति-अ० ६। श्लो० ४३ में इस प्रकार वर्णन है ॥  अनग्निरनिकेतः स्याद् ग्राममन्नार्थमाश्रयेत्। उपेक्षकोऽशङ्कुसुको मुनिर्भावसमाहितः ॥१॥ (उपेक्षकः) [बुरे कर्मों की] उपेक्षा करनेवाला, (अशङ्कुसुकः) स्थिरबुद्धि, (भावसमाहितः) परमेश्वर की भावना में ध्यान लगाये हुए (मुनिः) मुनि अर्थात् संन्यासी (अनग्निः) आहवनीय आदि अग्नियों से रहित और (अनिकेतः) विना घरवाला (स्यात्) रहे और (अन्नार्थम्) अन्न के लिये (ग्रामम् आश्रयेत्) ग्राम का आश्रम ले ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १६, १७−(शूर्पम्) सुशॄभ्यां निच्च। उ० ३।२६। शॄ हिंसायाम्-प प्रत्ययः, नित् किच् च, यद्वा शूर्प माने-घञ्। शूर्पमशनपवनं शृणातेर्वा-निरु० ६।९। धान्यस्फोटनयन्त्रम् (पवित्रम्) पुवः संज्ञायाम्। पा० ३।२।१८५। पूञ्, शोधने−इत्र। चालनी (तुषाः) तुष प्रीतौ-क, टाप्। धान्यत्वचः (ऋजीषा) अर्जेर्ऋज च। उ० २८। अर्ज अर्जने−ईषन्, कित्, ऋजादेशः, टाप्। यत्सोमस्य पूयमानस्यातिरिच्यते तदृजीषमपार्जितं भवति-निरु० ५।१२। नीरसं सोमचूर्णम् (अभिसवनीः) अभि+षुञ् स्नपने स्नाने च-ल्युट्, ङीप्। मार्जन्यः। प्रोक्षण्यः (आपः) यज्ञजलानि (स्रुक्) चिक् च। उ० २।६२। स्रु गतौ चिक्। वटपत्राकृतिर्यज्ञपात्रभेदः (दर्विः) अ० ४।१४।१। काष्ठादिचमसः (नेक्षणम्) णिक्ष चुम्बने-ल्युट्। शूलशलाकादिद्रव्यम् (आयवनम्) यु मिश्रणामिश्रणयोः-ल्युट्। पाकसाधनपात्रम्। कटाहः (द्रोणकलशाः) यज्ञघटाः (कुम्भ्यः) उखाः (वायव्यानि) वाय्वृतुपित्रुषसो यत्। पा० ४।२।३१। वायु-यत्। वायुदेवताकानि। वायुसाधकानि (पात्राणि) पा रक्षणे ष्ट्रन्। भाजनानि। यन्त्राणि (इयम्) प्रसिद्धा भूमिः (एव) (कृष्णाजिनम्) कृष्णसारमृगचर्मवत् ॥
@@ -1137,14 +1209,6 @@ Spoon, ladle, fork, stirring-prong are the wooden Soma tubs; the earthen cooking
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓ज᳓मा᳓न᳓ब्रा᳓ह्मणं᳓ वा᳓ एत᳓द᳓तिथिपतिः कुरुते य᳓दाहार्या᳙णि प्रे᳓क्षत इदं᳓ भू᳓या᳓३ इदा᳓३मि᳓ति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/18_yajamAnabrAhmaNaM_vA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यजमानब्राह्म॒णं वा ए॒तदति॑थिपतिः कुरुते॒ यदा॑हा॒र्या᳡णि॒ प्रेक्ष॑त इ॒दं भूया३ इ॒दा३मिति॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/18_yajamAnabrAhmaNaM_vA.md">
@@ -1169,14 +1233,22 @@ words are quoted in Prāt. i. 105. The verse counts naturally 18 + 8 + 8
 rather 10 + 8 + 8 + 8 with the Anukr.⌋ Ppp. reads *kṛṇute* and  
 *avekṣata*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Or the host acts in this way to a Yajamana's Brahman: when he looks at the furniture and utensils he says, More here t yet more here.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यजमानब्राह्म॒णं वा ए॒तदति॑थिपतिः कुरुते॒ यदा॑हा॒र्या᳡णि॒ प्रेक्ष॑त इ॒दं भूया३ इ॒दा३मिति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-य॒ज॒मा॒न॒ऽब्रा॒ह्म॒णम्। वै। ए॒तत्। अति॑थिऽपतिः। कु॒रु॒ते॒। यत्। आ॒ऽहा॒र्या᳡णि। प्र॒ऽईक्ष॑ते। इ॒दम्। भू॒या॒३ः। इ॒दा३म्। इति॑। ७.१। 
+य॒ज॒मा॒न॒ऽब्रा॒ह्म॒णम्। वै। ए॒तत्। अति॑थिऽपतिः। कु॒रु॒ते॒। यत्। आ॒ऽहा॒र्या᳡णि। प्र॒ऽईक्ष॑ते। इ॒दम्। भू॒या॒३ः। इ॒दा३म्। इति॑। ७.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1184,18 +1256,22 @@ Or the host acts in this way to a Yajamana's Brahman: when he looks at the furni
 - विराट्पुरस्ताद्बृहती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अतिथिपतिः) अतिथियों का पालन करनेहारा [गृहपति] (यजमानब्राह्मणम्) यजमान के लिये [अपने लिये] ब्राह्मण [वेदवेत्ता संन्यासी] को (वै) निश्चय करके (एतत्) इस प्रकार (कुरुते) अपने लिये बनाता है, (यत्) जब वह [गृहस्थ] (आहार्याणि) स्वीकार करने योग्य कर्मों को (प्रेक्षते) निहारता है,(इदम्) यह [ब्रह्म] (भूयाः३) और अधिक है [वा] (इदा३म्) यही, (इति) बस ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  ब्रह्मजिज्ञासु ब्रह्मज्ञानी संन्यासी से प्रश्नोत्तर करके ब्रह्मज्ञान प्राप्त करे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यजमानब्राह्मणम्) यजमानाय ब्रह्मज्ञानिनम् (वै) निश्चयेन (एतत्) एवम् (अतिथिपतिः) अतिथीनां पालकः (कुरुते) स्वहिताय स्वीकुरुते (यत्) यदा (आहार्याणि) स्वीकरणीयानि कर्माणि (इदम्) सर्वव्यापकं ब्रह्म (भूया ३) प्लुतयोगः। बहु−ईयसुन्। बहुतरम् (इदा३म्) इदं ब्रह्म (इति) वाक्यसमाप्तौ ॥
@@ -1208,14 +1284,6 @@ Or the host acts in this way to a Yajamana's Brahman: when he looks at the furni
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓दा᳓ह भू᳓य उ᳓द्धरे᳓ति प्राण᳓मेव᳓ ते᳓न व᳓र्षीयांसं कुरुते ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/19_yadAha_bhUya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यदाह॒ भूय॒ उद्ध॒रेति॑ प्रा॒णमे॒व तेन॒ वर्षी॑यांसं कुरुते ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/19_yadAha_bhUya.md">
@@ -1232,14 +1300,22 @@ Ppp. has a quite different text: *yad āha bhūyo ’ddhara te prajāṁ cāt
 tenā ’va rundhe: kāmo ha pṛṣṭo yājāti: yad udakam upasiñcaty apa eva  
 tenā ’va rundhe. ⌊Then follows 20.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 When he says, Bring out more, he lengthens his life thereby.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदाह॒ भूय॒ उद्ध॒रेति॑ प्रा॒णमे॒व तेन॒ वर्षी॑यांसं कुरुते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। आह॑। भूयः॑। उत्। ह॒र॒। इति॑। प्रा॒णम्। ए॒व। तेन॑। वर्षी॑यांसम्। कु॒रु॒ते॒। ७.२। 
+यत्। आह॑। भूयः॑। उत्। ह॒र॒। इति॑। प्रा॒णम्। ए॒व। तेन॑। वर्षी॑यांसम्। कु॒रु॒ते॒। ७.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1247,18 +1323,22 @@ When he says, Bring out more, he lengthens his life thereby.
 - साम्नी त्रिष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब वह [अतिथि] (आह) कहे−[इस ब्रह्म को] (भूयः) और अधिक (उत् हर इति) उत्तमता से ग्रहण कर−(तेन) उस से वह [गृहस्थ] (प्राणम्) अपने प्राण [जीवन] को (एव) निश्चय करके (वर्षीयांसम्) अधिक बड़ा (कुरुते) बनाता है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ अतिथि संन्यासी से सर्वोत्तम परमात्मा का उपदेश लेकर अपने जीवन को अधिक उन्नत करे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(यत्) यदा (आह) ब्रूते (भूयः) अधिकतरम् (उद्धर) उत्तमतया गृहाण (इति) (प्राणम्) जीवनम् (एव) निश्चयेन (तेन) कारणेन (वर्षीयांसम्) वृद्धतरम् ॥
@@ -1273,14 +1353,6 @@ When he says, Bring out more, he lengthens his life thereby.
 उ᳓प हरति हवीं᳓ष्या᳓ सादयति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/20_upa_harati.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उप॑ हरति ह॒वींष्या सा॑दयति ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/20_upa_harati.md">
 <details open><summary><h3>२० उप हरति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1290,14 +1362,22 @@ When he says, Bring out more, he lengthens his life thereby.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 He brings oblations: he makes the men sit down.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑ हरति ह॒वींष्या सा॑दयति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑। ह॒र॒ति॒। ह॒वींषि॑। आ। सा॒द॒य॒ति॒। ७.३। 
+उप॑। ह॒र॒ति॒। ह॒वींषि॑। आ। सा॒द॒य॒ति॒। ७.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1305,18 +1385,22 @@ He brings oblations: he makes the men sit down.
 - आसुर्यनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [गृहस्थ] (हवींषि) हवनद्रव्यों को (उप हरति) भेंट करता है और (आ सादयति) समीप लाता है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ हवनद्रव्यों को लाकर संन्यासी से हवन का लाभ पूँछता है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(उप हरति) समर्पयति (हवींषि) हवनद्रव्याणि (आ सादयति) समीपं प्रापयति ॥
@@ -1331,14 +1415,6 @@ He brings oblations: he makes the men sit down.
 ते᳓षामा᳓सन्नानाम᳓तिथिरात्म᳓ञ्जुहोति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/21_teShAmAsannAnAmatithirAtmanjuhoti.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-तेषा॒मास॑न्नाना॒मति॑थिरा॒त्मञ्जु॑होति ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/21_teShAmAsannAnAmatithirAtmanjuhoti.md">
 <details open><summary><h3>२१ तेषामासन्नानामतिथिरात्मञ्जुहोति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1348,14 +1424,22 @@ He brings oblations: he makes the men sit down.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 As the guest of the seated company he himself offers up sacrifice.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तेषा॒मास॑न्नाना॒मति॑थिरा॒त्मञ्जु॑होति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तेषा॑म्। आऽस॑न्नानाम्। अति॑थिः। आ॒त्मन्। जु॒हो॒ति॒। ७.४। 
+तेषा॑म्। आऽस॑न्नानाम्। अति॑थिः। आ॒त्मन्। जु॒हो॒ति॒। ७.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1363,18 +1447,22 @@ As the guest of the seated company he himself offers up sacrifice.
 - साम्न्युष्णिक्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अतिथिः) अतिथि [संन्यासी] (स्रुचा) स्रुचा [चमचा रूप] (हस्तेन) हाथ से (यूपे) जयस्तम्भरूप (प्राणे) प्राण पर (स्रुक्कारेण) स्रुचा की क्रिया से और (वषट्कारेण) आहुति की क्रिया से [जैसे हो वैसे] (आत्मन्) परमात्मा में (तेषाम्) उन (आसन्नानाम्) समीप रक्खी हुई [हवनद्रव्यों] की (जुहोति) [मानो] आहुतियाँ देता है ॥४, ५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संन्यासी उपदेश करता है कि जिस प्रकार हवन करके वायु आदि की शुद्धि से उपकार किया जाता है, वैसे ही मनुष्य परमात्मा की आज्ञा में आत्मदान से आत्मा की उन्नति करके अधिक-अधिक उपकार करें ॥४, ५॥ म० ४, ५ और ६ स्वामिदयानन्दकृत संस्कारविधि संन्यासाश्रमप्रकरण में व्याख्यात हैं ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४, ५−(तेषाम्) हविषाम्-म० ३ (आसन्नानाम्) समीपस्थानाम् (अतिथिः) अभ्यागतः। संन्यासी (आत्मन्) परमात्मनि (जुहोति) आहुतीः करोति (स्रुचा) यज्ञपात्रभेदेन यथा (हस्तेन) (प्राणे) जीवने (यूपे) कुयुभ्यां च। उ० ३।२७। यु मिश्रणामिश्रणयोः-प प्रत्ययः कित् दीर्घश्च। यज्ञस्तम्भे जयस्तम्भे (स्रुक्कारेण) करोतेर्घञ्। स्रुचाक्रियया (वषट्कारेण) अ० १।११।१। आहुतिक्रियया ॥
@@ -1387,14 +1475,6 @@ As the guest of the seated company he himself offers up sacrifice.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्रुचा᳓ ह᳓स्तेन प्राणे᳓ यू᳓पे स्रुक्कारे᳓ण वषट्कारे᳓ण ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/22_sruchA_hastena.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स्रु॒चा हस्ते॑न प्रा॒णे यूपे॑ स्रुक्का॒रेण॑ वषट्का॒रेण॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/22_sruchA_hastena.md">
@@ -1410,14 +1490,22 @@ the sound of swallowing as utterance of *váṣaṭ*.
 *ātmani j-* for *ātmáṅ j-* and has in 22 *śulkāreṇa vaṣaṭkāreṇa srucā  
 hastena*.
 </details>
+
 <details><summary>Griffith</summary>
 
 With ladle, with hand, in life, at the sacrificial post, with cry of Ladle! with exclamation of Vashat!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्रु॒चा हस्ते॑न प्रा॒णे यूपे॑ स्रुक्का॒रेण॑ वषट्का॒रेण॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्रु॒चा। हस्ते॑न। प्रा॒णे। यूपे॑। स्रु॒क्ऽका॒रेण॑। व॒ष॒ट्ऽका॒रेण॑। ७.५। 
+स्रु॒चा। हस्ते॑न। प्रा॒णे। यूपे॑। स्रु॒क्ऽका॒रेण॑। व॒ष॒ट्ऽका॒रेण॑। ७.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1425,18 +1513,22 @@ With ladle, with hand, in life, at the sacrificial post, with cry of Ladle! with
 - साम्नी बृहती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अतिथिः) अतिथि [संन्यासी] (स्रुचा) स्रुचा [चमचा रूप] (हस्तेन) हाथ से (यूपे) जयस्तम्भरूप (प्राणे) प्राण पर (स्रुक्कारेण) स्रुचा की क्रिया से और (वषट्कारेण) आहुति की क्रिया से [जैसे हो वैसे] (आत्मन्) परमात्मा में (तेषाम्) उन (आसन्नानाम्) समीप रक्खी हुई [हवनद्रव्यों] की (जुहोति) [मानो] आहुतियाँ देता है ॥४, ५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संन्यासी उपदेश करता है कि जिस प्रकार हवन करके वायु आदि की शुद्धि से उपकार किया जाता है, वैसे ही मनुष्य परमात्मा की आज्ञा में आत्मदान से आत्मा की उन्नति करके अधिक-अधिक उपकार करें ॥४, ५॥ म० ४, ५ और ६ स्वामिदयानन्दकृत संस्कारविधि संन्यासाश्रमप्रकरण में व्याख्यात हैं ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४, ५−(तेषाम्) हविषाम्-म० ३ (आसन्नानाम्) समीपस्थानाम् (अतिथिः) अभ्यागतः। संन्यासी (आत्मन्) परमात्मनि (जुहोति) आहुतीः करोति (स्रुचा) यज्ञपात्रभेदेन यथा (हस्तेन) (प्राणे) जीवने (यूपे) कुयुभ्यां च। उ० ३।२७। यु मिश्रणामिश्रणयोः-प प्रत्ययः कित् दीर्घश्च। यज्ञस्तम्भे जयस्तम्भे (स्रुक्कारेण) करोतेर्घञ्। स्रुचाक्रियया (वषट्कारेण) अ० १।११।१। आहुतिक्रियया ॥
@@ -1449,14 +1541,6 @@ With ladle, with hand, in life, at the sacrificial post, with cry of Ladle! with
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एते᳓ वै᳓ प्रिया᳓श्चा᳓प्रियाश्चर्त्वि᳓जः स्वर्गं᳓ लोकं᳓ गमयन्ति य᳓द᳓तिथयः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/23_ete_vai.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ए॒ते वै प्रि॒याश्चाप्रि॑याश्च॒र्त्विजः॑ स्व॒र्गं लो॒कं ग॑मयन्ति॒ यदति॑थयः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/23_ete_vai.md">
@@ -1472,14 +1556,22 @@ This verse is wanting here in Ppp.; but it is inserted below, just
 before our vs. 49 ⌊and without variant except *cārtvijas*, which may be  
 a slip of Roth's pen for *cartvijas*⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 Now these guests, as priests beloved or not beloved, bring one to the world of Svarga.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒ते वै प्रि॒याश्चाप्रि॑याश्च॒र्त्विजः॑ स्व॒र्गं लो॒कं ग॑मयन्ति॒ यदति॑थयः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒ते। वै। प्रि॒याः। च॒। अप्रि॑याः। च॒। ऋ॒त्विजः॑। स्वः॒ऽगम्। लो॒कम्। ग॒म॒य॒न्ति॒। यत्। अति॑थयः। ७.६। 
+ए॒ते। वै। प्रि॒याः। च॒। अप्रि॑याः। च॒। ऋ॒त्विजः॑। स्वः॒ऽगम्। लो॒कम्। ग॒म॒य॒न्ति॒। यत्। अति॑थयः। ७.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1487,18 +1579,22 @@ Now these guests, as priests beloved or not beloved, bring one to the world of S
 - आर्च्यनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) क्योंकि (एते) यह (एव) ही (प्रियाः) प्रिय माने गये (च) और (अप्रियाः) अप्रिय माने गये (च) भी (ऋत्विजः) सब ऋतुओं में यज्ञ [देवपूजा, संगतिकरण और दान] करनेवाले (अतिथयः) अतिथि [संन्यासी] जन (स्वर्गम्) सुख देनेवाले (लोकम्) दर्शनीय लोक में [मनुष्य को] (गमयन्ति) पहुँचाते हैं ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संन्यासी लोग चाहे उनको कोई प्रिय माने वा अप्रिय माने, वे निर्भय होकर संसार का उपकार करते हैं ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(एते) (वै) निश्चयेन (प्रियाः) प्रीताः (च) (अप्रियाः) अप्रीताः (ऋत्विजः) अ० ६।२।१। सर्वर्तुयाजकाः (स्वर्गम्) सुखप्रापकम् (लोकम्) दर्शनीयं पदम् (गमयन्ति) प्रापयन्ति (यत्) यस्मात् कारणात् (अतिथयः) संन्यासिनः ॥
@@ -1511,14 +1607,6 @@ Now these guests, as priests beloved or not beloved, bring one to the world of S
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स᳓ य᳓ एवं᳓ विद्वा᳓न्न᳓ द्विष᳓न्नश्नीयान्न᳓ द्विषतो᳓ऽन्नमश्नीयान्न᳓ मीमांसित᳓स्य न᳓ मीमांस᳓मानस्य ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/24_sa_ya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स य ए॒वं वि॒द्वान्न द्वि॒षन्न॑श्नीया॒न्न द्वि॑ष॒तोऽन्न॑मश्नीया॒न्न मी॑मांसि॒तस्य॒ न मी॑मां॒समा॑नस्य ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/24_sa_ya.md">
@@ -1541,14 +1629,22 @@ two mss. of the Anukr. describe the verse differently but equivalently,
 both requiring 34 syllables (which implies restoration of *‘nnam* to  
 *ánnam*).
 </details>
+
 <details><summary>Griffith</summary>
 
 He who hath this knowledge should not eat hating, should not eat the food of one who hates him, nor of one who is doubt- ful, nor of one who is undecided.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स य ए॒वं वि॒द्वान्न द्वि॒षन्न॑श्नीया॒न्न द्वि॑ष॒तोऽन्न॑मश्नीया॒न्न मी॑मांसि॒तस्य॒ न मी॑मां॒समा॑नस्य ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। यः। ए॒वम्। वि॒द्वान्। न। द्वि॒षन्। अ॒श्नी॒या॒त्। न। द्वि॒ष॒तः। अन्न॑म्। अ॒श्नी॒या॒त्। न। मी॒मां॒सि॒तस्य॑। न। मी॒मां॒समा॑नस्य। ७.७। 
+सः। यः। ए॒वम्। वि॒द्वान्। न। द्वि॒षन्। अ॒श्नी॒या॒त्। न। द्वि॒ष॒तः। अन्न॑म्। अ॒श्नी॒या॒त्। न। मी॒मां॒सि॒तस्य॑। न। मी॒मां॒समा॑नस्य। ७.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1556,18 +1652,22 @@ He who hath this knowledge should not eat hating, should not eat the food of one
 - पञ्चपदा विराट्पुरस्ताद्बृहती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो (एवम्) इस प्रकार [पूर्वोक्त विधि से] (विद्वान्) ज्ञानवान् है, (सः) वह (द्विषन्) आप द्वेष करता हुआ (न) न (अश्नीयात्) खावे [नाश करे] और (न) न (द्विषतः) द्वेष करते हुए पुरुष का, और (न) न (मीमांसितस्य) संशयवाले का और (न) न (मीमांसमानस्य) विचार से तत्त्वनिर्णय करते हुए का (अन्नम्) अन्न (अश्नीयात्) खावे [बिगाड़े] ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अतिथि संन्यासी राग-द्वेष छोड़कर निष्पक्ष और निर्भय होकर पूर्वोक्त विधि से सब का उपकार करता हुआ भोजन करे, और विना उपकार किये कभी किसी का अन्न वृथा न खावे ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(सः) अतिथिः (यः) (एवम्) पूर्वोक्तविधिना (न) निषेधे (द्विषन्) अप्रीणन् (अश्नीयात्) भुञ्जीत। नाशयेत् (न) (द्विषतः) अप्रीणतः पुरुषस्य (अन्नम्) अन प्राणने-नन्। यद्वा अद भक्षणे-क्त। भोजनम् (अश्नीयात्) (न) (मीमांसितस्य) आशङ्कायामुपसंख्यानम्। वा० पा० ३।१।७। मान पूजायाम्, आशङ्कायाम्-सन् आशङ्कायाम्, ततः क्त। संशययुक्तस्य (न) (मीमांसमानस्य) अ० ९।१।३। विचारेण तत्त्वनिर्णयं कुर्वतः ॥
@@ -1582,14 +1682,6 @@ He who hath this knowledge should not eat hating, should not eat the food of one
 स᳓र्वो वा᳓ एष᳓ जग्ध᳓पाप्मा य᳓स्या᳓न्नमश्न᳓न्ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/25_sarvo_vA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सर्वो॒ वा ए॒ष ज॒ग्धपा॑प्मा॒ यस्यान्न॑म॒श्नन्ति॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/25_sarvo_vA.md">
 <details open><summary><h3>२५ सर्वो वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1600,14 +1692,22 @@ of.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 This man whose food they eat hath all his wickedness blotted out.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वो॒ वा ए॒ष ज॒ग्धपा॑प्मा॒ यस्यान्न॑म॒श्नन्ति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वः॑। वै। ए॒षः। ज॒ग्धऽपा॑प्मा। यस्य॑। अन्न॑म्। अ॒श्नन्ति॑। ७.८। 
+सर्वः॑। वै। ए॒षः। ज॒ग्धऽपा॑प्मा। यस्य॑। अन्न॑म्। अ॒श्नन्ति॑। ७.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1615,18 +1715,22 @@ This man whose food they eat hath all his wickedness blotted out.
 - आसुरी गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सर्वः) प्रत्येक (एषः वै) वही गृहस्थ (जग्धपाप्मा) भक्षण [नाश] किये हुए पापवाला [होता है] (यस्य अन्नम्) जिसका अन्न (अश्नन्ति) वे [महामान्य] खाते हैं ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अतिथि संन्यासी भोजन करके गृहस्थ को उत्तम उपदेश देकर दुःखों से छुड़ाते हैं, इस से गृहस्थ भोजनदान करके संन्यासियों से शिक्षा लेकर सुखी होवें ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(सर्वः) प्रत्येकः (वै) एव (एषः) गृहस्थः (जग्धपाप्मा) अद भक्षणे-क्त। अदो जग्धिर्ल्यप्ति किति। पा० २।४।३६। जग्धादेशः। नामन्सीमन्व्योमन्। उ० ४।१५१। पा रक्षणे, पा पाने वा-मनिन् धातोः पुक्। भक्षितं नाशितं पापं येन (यस्य) गृहस्थस्य (अन्नम्) (अश्नन्ति) खादन्ति ॥
@@ -1639,14 +1743,6 @@ This man whose food they eat hath all his wickedness blotted out.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स᳓र्वो वा᳓ एषो᳓ऽजग्ध᳓पाप्मा य᳓स्या᳓न्नं ना᳓श्न᳓न्ति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/26_sarvo_vA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सर्वो॒ वा ए॒षोऽज॒ग्धपा॑प्मा॒ यस्यान्नं॒ नाश्नन्ति॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/26_sarvo_vA.md">
@@ -1665,14 +1761,22 @@ well as 26 a *sāmny anuṣṭubh* ⌊16 syllables⌋. ⌊Vss. 25 and 26 have ea
 15 (*āsurī gāyatrī*).⌋ Read in 25 *jagdhá-* (an accent-sign slipped  
 out).
 </details>
+
 <details><summary>Griffith</summary>
 
 All that man's sin whose food they do not eat remains unblot- ted out.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वो॒ वा ए॒षोऽज॒ग्धपा॑प्मा॒ यस्यान्नं॒ नाश्नन्ति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वः॑। वै। ए॒षः। अज॑ग्धऽपाप्मा। यस्य॑। अन्न॑म्। न। अ॒श्नन्ति॑। ७.९। 
+सर्वः॑। वै। ए॒षः। अज॑ग्धऽपाप्मा। यस्य॑। अन्न॑म्। न। अ॒श्नन्ति॑। ७.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1680,18 +1784,22 @@ All that man's sin whose food they do not eat remains unblot- ted out.
 - साम्न्यनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सर्वः) प्रत्येक (एषः वै) वही [गृहस्थ] (अजग्धपाप्मा) विना भक्षण [नाश] किये हुए पापवाला [होता है], (यस्य अन्नम्) जिस का अन्न (न अश्नन्ति) वे [अतिथि] नहीं खाते हैं ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो गृहस्थ अतिथियों को अन्न नहीं देते, वे उत्तम शिक्षा न पाने से दुःखी रहते हैं ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(अजग्धपाप्मा) अनाशितपापः। अन्यत् सुगमम् ॥
@@ -1704,14 +1812,6 @@ All that man's sin whose food they do not eat remains unblot- ted out.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स᳙र्वदा᳓ वा᳓ एष᳓ युक्त᳓ग्रावार्द्र᳓पवित्रो वि᳓तताध्वर आ᳓हृतयज्ञक्रतुर्य᳓ उपह᳓रति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/27_sarvadA_vA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स॑र्व॒दा वा ए॒ष यु॒क्तग्रा॑वा॒र्द्रप॑वित्रो॒ वित॑ताध्वर॒ आहृ॑तयज्ञक्रतु॒र्य उ॑प॒हर॑ति ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/27_sarvadA_vA.md">
@@ -1728,14 +1828,22 @@ Ppp. reads *sutasomas* instead of *yuktagrāvā*, and puts *vitatādhvaras*
 as last of the four epithets; it also sets the whole paragraph after our  
 28.
 </details>
+
 <details><summary>Griffith</summary>
 
 The man who supplies food hath always pressing stones adjusted, a wet Soma filter, well prepared religious rites, and mental power to complete the arranged sacrifice.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑र्व॒दा वा ए॒ष यु॒क्तग्रा॑वा॒र्द्रप॑वित्रो॒ वित॑ताध्वर॒ आहृ॑तयज्ञक्रतु॒र्य उ॑प॒हर॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒र्व॒दा। वै। ए॒षः। यु॒क्तऽग्रा॑वा। आ॒र्द्रऽप॑वित्रः। वित॑तऽअध्वरः। आहृ॑तऽयज्ञक्रतुः। यः। उ॒प॒ऽहर॑ति। ७.१०। 
+स॒र्व॒दा। वै। ए॒षः। यु॒क्तऽग्रा॑वा। आ॒र्द्रऽप॑वित्रः। वित॑तऽअध्वरः। आहृ॑तऽयज्ञक्रतुः। यः। उ॒प॒ऽहर॑ति। ७.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1743,18 +1851,22 @@ The man who supplies food hath always pressing stones adjusted, a wet Soma filte
 - त्रिपदार्ची त्रिष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एषः वै) वही मनुष्य (सर्वदा) सर्वदा (युक्तग्रावा) सिल-बट्टे ठीक किये हुए, (आर्द्रपवित्रः) [दूध-घी छानने से] भीगे छन्नेवाला, (वितताध्वरः) विस्तृत यज्ञवाला और (आहृतयज्ञक्रतुः) स्वीकार किये हुए यज्ञ कर्मवाला [होता है], (यः) जो [अन्न] (उपहरति) भेंट करता है ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अतिथियों को भोजन देने और उनसे शिक्षा ग्रहण करने से गृहस्थों का भण्डार आवश्यक पदार्थों से सदा भरा रहता है ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(सर्वदा) नित्यम् (एषः) गृहस्थः (युक्तग्रावा) संगृहीतपेषणपाषाणः (आर्द्रपवित्रः) क्लिन्नशोधनपात्रः (वितताध्वरः) विस्तृतयज्ञः (आहृतयज्ञक्रतुः) क्रतुः कर्मनाम-निघ० २।१। स्वीकृतयज्ञकर्मा (उपहरति) उपहारेण भोजनं ददाति ॥
@@ -1769,14 +1881,6 @@ The man who supplies food hath always pressing stones adjusted, a wet Soma filte
 प्रा᳙जापत्यो᳓ वा᳓ एत᳓स्य यज्ञो᳓ वि᳓ततो य᳓ उपह᳓रति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/28_prAjApatyo_vA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्रा॑जाप॒त्यो वा ए॒तस्य॑ य॒ज्ञो वित॑तो॒ य उ॑प॒हर॑ति ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/28_prAjApatyo_vA.md">
 <details open><summary><h3>२८ प्राजापत्यो वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1786,14 +1890,22 @@ The man who supplies food hath always pressing stones adjusted, a wet Soma filte
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रा॑जाप॒त्यो वा ए॒तस्य॑ य॒ज्ञो वित॑तो॒ य उ॑प॒हर॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रा॒जा॒ऽप॒त्यः। वै। ए॒तस्य॑। य॒ज्ञः। विऽत॑तः। यः। उ॒प॒ऽहर॑ति। ७.११। 
+प्रा॒जा॒ऽप॒त्यः। वै। ए॒तस्य॑। य॒ज्ञः। विऽत॑तः। यः। उ॒प॒ऽहर॑ति। ७.११।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1801,18 +1913,22 @@ The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.
 - भुरिक्साम्नीबृहती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एतस्य) उस [गृहस्थ] का (एव) ही (प्राजापत्यः) प्रजापति परमात्मा की प्राप्ति करानेवाला [और प्रजापालक गृहस्थ का हितकारी] (यज्ञः) यज्ञ (विततः) विस्तृत [होता है], (यः) जो [अन्न] (उपहरति) दान करता है ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अतिथियों का सत्कारी गृहस्थ संसार में कीर्तिमान् होता है ॥११॥ यह और आगे के दोनों मन्त्र स्वामी दयानन्दकृत संस्कारविधि संन्यासाश्रमप्रकरण में व्याख्यात हैं ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(प्राजापत्यः) अ० ३।२३।५। प्रजापति-ण्य। प्रजापतेः परमात्मनः प्राप्तिकारको यद्वा गृहस्थस्य हितकारकः (वै) (एतस्य) गृहस्थस्य (यज्ञः) शुभव्यवहारः (विततः) विस्तृतः। अन्यत् पूर्ववत् ॥
@@ -1827,14 +1943,6 @@ The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.
 प्रजा᳓पतेर्वा᳓ एष᳓ विक्रमा᳓ननुवि᳓क्रमते य᳓ उपह᳓रति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/29_prajApatervA_eSha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्र॒जाप॑ते॒र्वा ए॒ष वि॑क्र॒मान॑नु॒विक्र॑मते॒ य उ॑प॒हर॑ति ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/29_prajApatervA_eSha.md">
 <details open><summary><h3>२९ प्रजापतेर्वा एष ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1845,14 +1953,22 @@ The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.
 ##### Notes
 This verse is wanting in Ppp.
 </details>
+
 <details><summary>Griffith</summary>
 
 The man who offers food follows the steps of Prajapati.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒जाप॑ते॒र्वा ए॒ष वि॑क्र॒मान॑नु॒विक्र॑मते॒ य उ॑प॒हर॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒जाऽप॑तेः। वै। ए॒षः। वि॒ऽक्र॒मान्। अ॒नु॒ऽविक्र॑मते। यः। उ॒प॒ऽहर॑ति। ७.१२। 
+प्र॒जाऽप॑तेः। वै। ए॒षः। वि॒ऽक्र॒मान्। अ॒नु॒ऽविक्र॑मते। यः। उ॒प॒ऽहर॑ति। ७.१२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1860,18 +1976,22 @@ The man who offers food follows the steps of Prajapati.
 - साम्नी त्रिष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एषः वै) वही [गृहस्थ] (प्रजापतेः) प्रजापति [प्रजापालक परमेश्वर वा मनुष्य] के (विक्रमान्) विक्रमों [पराक्रमों] का (अनुविक्रमते) अनुकरण करके विक्रम करता है, (यः) जो [अन्न] (उपहरति) भेंट करता है ॥१२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अतिथि विद्वानों की सेवा करनेवाला मनुष्य पुरुषार्थी होकर महापराक्रमी होता है ॥१२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १२−(प्रजापतेः) प्रजापालकस्य परमेश्वरस्य मनुष्यस्य वा (वै) (एषः) गृहस्थः (विक्रमान्) पराक्रमान् (अनुविक्रमते) अनुसृत्य पराक्रमान् करोति। अन्यत् पूर्ववत् ॥
@@ -1884,14 +2004,6 @@ The man who offers food follows the steps of Prajapati.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो᳓ऽतिथीनां स᳓ आहवनी᳓यो यो᳓ वे᳓श्मनि स᳓ गा᳓र्हपत्यो य᳓स्मिन्प᳓चन्ति स᳓ दक्षिणाग्निः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/30_yo-tithInAM_sa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-योऽति॑थीनां॒ स आ॑हव॒नीयो॒ यो वेश्म॑नि॒ स गार्ह॑पत्यो॒ यस्मि॒न्पच॑न्ति॒ स द॑क्षिणा॒ग्निः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/30_yo-tithInAM_sa.md">
@@ -1914,14 +2026,22 @@ requires us to restore at the beginning *yó átith-*.
 \[**Paryāya III.**—*navakaḥ. 31-36, 39. 3-p. pipīlikamadhyā gāyatrī;  
 37.* sāmnī bṛhatī; *38. pipīlikatnadhyo ’ṣṇih.*\]
 </details>
+
 <details><summary>Griffith</summary>
 
 The fire of the guests is the Ahavaniya, the fire in the dwelling is the Garhapatya, that whereon they cook food is the South- ern Sacrificial Fire.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+योऽति॑थीनां॒ स आ॑हव॒नीयो॒ यो वेश्म॑नि॒ स गार्ह॑पत्यो॒ यस्मि॒न्पच॑न्ति॒ स द॑क्षिणा॒ग्निः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। अति॑थीनाम्। सः। आ॒ऽह॒व॒नीयः॑। यः। वेश्म॑नि। सः। गार्ह॑ऽपत्यः। यस्मि॑न्। पच॑न्ति। सः। द॒क्षि॒ण॒ऽअ॒ग्निः। ७.१३। 
+यः। अति॑थीनाम्। सः। आ॒ऽह॒व॒नीयः॑। यः। वेश्म॑नि। सः। गार्ह॑ऽपत्यः। यस्मि॑न्। पच॑न्ति। सः। द॒क्षि॒ण॒ऽअ॒ग्निः। ७.१३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1929,18 +2049,22 @@ The fire of the guests is the Ahavaniya, the fire in the dwelling is the Garhapa
 - त्रिपदार्ची पङ्क्तिः
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो (अतिथीनाम्) अतिथियों, [उत्तम संन्यासियों] का [सङ्ग है], (सः) वह [संन्यासियों के लिये] (आहवनीयः) आहवनीय [ग्राह्य अग्नि है, जिसमें ब्रह्मचर्य आश्रम में ब्रह्मचारी होम करते हैं], और (यः) जो (वेश्मनि) घर में [अर्थात् अपने आश्रम में निवास है], (सः) वह [उसके लिये] (गार्हपत्यः) गार्हपत्य [गृहसम्बन्धी अग्नि है] और (यस्मिन्) जिसमें [अर्थात् जिस जाठराग्नि में अन्न आदि] (पचन्ति) पचाते हैं, (सः) वह [संन्यासियों के लिये] (दक्षिणाग्निः) दक्षिणाग्नि [अनुकूल अग्नि वानप्रस्थ सम्बन्धी है] ॥१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संन्यासी अपने आत्मा में सब अग्नियों का आरोपण करके सब आश्रमों का हित करता है ॥१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १३−(यः) सङ्गः (अतिथीनाम्) विदुषां संन्यासिनाम् (सः) सङ्गः (आहवनीयः) अ० ८।१०।(१)।४। ब्रह्मचारिभिर्ग्राह्यो होमाग्निः (यः) निवासः (वेश्मनि) गृहे (सः) (गार्हपत्यः) अ० ५।३१।५। गृहपतिभिः संयुक्तः (यस्मिन्) जाठराग्नौ (पचन्ति) (सः) (दक्षिणाग्निः) अ० ८।१०।(१)।६। दक्षिणोऽनुकूलोऽग्नि। वानप्रस्थानां होमाग्निः ॥
@@ -1953,14 +2077,6 @@ The fire of the guests is the Ahavaniya, the fire in the dwelling is the Garhapa
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इष्टं᳓ च वा᳓ एष᳓ पूर्तं᳓ च गृहा᳓णामश्नाति यः᳓ पू᳓र्वो᳓ऽतिथेरश्ना᳓ति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/31_iShTaM_cha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इ॒ष्टं च॒ वा ए॒ष पू॒र्तं च॑ गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/31_iShTaM_cha.md">
@@ -1977,14 +2093,22 @@ That is, doubtless, 'doth he eat up, devour, destroy.' Ppp. omits
 36 also⌋. The Anukr. describes the paragraphs as if they were metrical,  
 and defines them as if the text read *pū́rvo átither*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Now that man who eats before the guest eats up the sacrifice and the merit of the house.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒ष्टं च॒ वा ए॒ष पू॒र्तं च॑ गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒ष्टम्। च॒। वै। ए॒षः। पू॒र्तम्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.१। 
+इ॒ष्टम्। च॒। वै। ए॒षः। पू॒र्तम्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -1992,18 +2116,22 @@ Now that man who eats before the guest eats up the sacrifice and the merit of th
 - त्रिपदा पिपीलिकमध्या गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एषः) वह [गृहस्थ] (वै) निश्चय करके (इष्टम्) इष्ट सुख [यज्ञ, वेदाध्ययन आदि] (च च) और (पूर्तम्) अन्नदान आदि को (गृहाणाम्) घरों के बीच (अश्नाति) भक्षण [अर्थात् नाश] करता है, (यः) जो (अतिथेः पूर्वः) अतिथि से पहिले (अश्नाति) खाता है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थों को उचित है कि अपने सुखवृद्धि के लिये उपस्थित अतिथियों को जिमाकर आप जीमें ॥१॥ यह मन्त्र स्वामिदयानन्दकृत संस्कारविधि संन्यासाश्रमप्रकरण में व्याख्यात है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(इष्टम्) अ० २।१२।४। अभीष्टं सुखं यज्ञवेदाध्ययनादिकम् (च) (वै) (एषः) गृहस्थः (पूर्तम्) अ० २।१२।४। अन्नदानादिकम् (च) (गृहाणाम्) तेषां मध्ये (अश्नाति) भक्षयति। नाशयति (यः) गृहस्थः (पूर्वः) प्रथमः सन् (अतिथेः) महामान्यात् (अश्नाति) खादति ॥
@@ -2018,14 +2146,6 @@ Now that man who eats before the guest eats up the sacrifice and the merit of th
 प᳓यश्च वा᳓ एष᳓ र᳓सं च गृहा᳓णामश्नाति यः᳓ पू᳓र्वो᳓ऽतिथेरश्ना᳓ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/32_payashcha_vA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पय॑श्च॒ वा ए॒ष रसं॑ च गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/32_payashcha_vA.md">
 <details open><summary><h3>३२ पयश्च वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2035,14 +2155,22 @@ Now that man who eats before the guest eats up the sacrifice and the merit of th
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 He devours the milk and the sap:
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पय॑श्च॒ वा ए॒ष रसं॑ च गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पयः॑। च॒। वै। ए॒षः। रस॑म्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.२। 
+पयः॑। च॒। वै। ए॒षः। रस॑म्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2050,18 +2178,22 @@ He devours the milk and the sap:
 - त्रिपदा पिपीलिकमध्या गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एषः) वह [गृहस्थ] (एव) निश्चय करके (पयः) दूध [वा अन्न] (च च) और (रसम्) रस [स्वादिष्ठ पदार्थ] को... म० १ ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग अतिथि का तिरस्कार करने से महाविपत्तियों में फँसते हैं ॥२-६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(पयः) दुग्धमन्नं वा (च) (वै) (एषः) (रसम्) स्वादिष्ठं पदार्थम् ॥
@@ -2076,14 +2208,6 @@ He devours the milk and the sap:
 ऊर्जां᳓ च वा᳓ एष᳓ स्फातिं᳓ च गृहा᳓णामश्नाति यः᳓ पू᳓र्वो᳓ऽतिथेरश्ना᳓ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/33_UrjAM_cha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ऊ॒र्जां च॒ वा ए॒ष स्फा॒तिं च॑ गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/33_UrjAM_cha.md">
 <details open><summary><h3>३३ ऊर्जां च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2095,14 +2219,22 @@ etc. etc.
 ##### Notes
 Ppp. reads *payas* instead of *sphātim*.
 </details>
+
 <details><summary>Griffith</summary>
 
 And the vigour and prosperity.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऊ॒र्जां च॒ वा ए॒ष स्फा॒तिं च॑ गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऊ॒र्जाम्। च॒। वै। ए॒षः। स्फा॒तिम्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.३। 
+ऊ॒र्जाम्। च॒। वै। ए॒षः। स्फा॒तिम्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2110,18 +2242,22 @@ And the vigour and prosperity.
 - त्रिपदा पिपीलिकमध्या गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एषः) वह [गृहस्थ] (वै) निश्चय करके (ऊर्जाम्) पराक्रम (च च) और (स्फातिम्) वृद्धि को... म० १ ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग अतिथि का तिरस्कार करने से महाविपत्तियों में फँसते हैं ॥२-६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(ऊर्जाम्) पराक्रमम् (स्फातिम्) वृद्धिम् ॥
@@ -2136,14 +2272,6 @@ And the vigour and prosperity.
 प्रजां᳓ च वा᳓ एष᳓ पशूं᳓श्च गृहा᳓णामश्नाति यः᳓ पू᳓र्वो᳓ऽतिथेरश्ना᳓ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/34_prajAM_cha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्र॒जां च॒ वा ए॒ष प॒शूंश्च॑ गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/34_prajAM_cha.md">
 <details open><summary><h3>३४ प्रजां च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2154,14 +2282,22 @@ etc.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 And the progeny and the cattle:
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒जां च॒ वा ए॒ष प॒शूंश्च॑ गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒ऽजाम्। च॒। वै। ए॒षः। प॒शून्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.४। 
+प्र॒ऽजाम्। च॒। वै। ए॒षः। प॒शून्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2169,18 +2305,22 @@ And the progeny and the cattle:
 - त्रिपदा पिपीलिकमध्या गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एषः) वह [गृहस्थ] (वै) निश्चय करके (प्रजाम्) प्रजा (च च) और (पशून्) पशुओं को... म० १ ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग अतिथि का तिरस्कार करने से महाविपत्तियों में फँसते हैं ॥२-६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४-सुगमम् ॥
@@ -2195,14 +2335,6 @@ And the progeny and the cattle:
 कीर्तिं᳓ च वा᳓ एष᳓ य᳓शश्च गृहा᳓णामश्नाति यः᳓ पू᳓र्वो᳓ऽतिथेरश्ना᳓ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/35_kIrtiM_cha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-की॒र्तिं च॒ वा ए॒ष यश॑श्च गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/35_kIrtiM_cha.md">
 <details open><summary><h3>३५ कीर्तिं च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2212,14 +2344,22 @@ And the progeny and the cattle:
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 And the fame and reputation.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+की॒र्तिं च॒ वा ए॒ष यश॑श्च गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-की॒र्तिम्। च॒। वै। ए॒षः। यशः॑। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.५। 
+की॒र्तिम्। च॒। वै। ए॒षः। यशः॑। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2227,18 +2367,22 @@ And the fame and reputation.
 - त्रिपदा पिपीलिकमध्या गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एषः) वह [गृहस्थ] (वै) निश्चय करके (कीर्तिम्) कीर्ति (च च) और (यशः) यश [अर्थात् प्रताप] को... म० १ ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग अतिथि का तिरस्कार करने से महाविपत्तियों में फँसते हैं ॥२-६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(कीर्तिम्) प्रसिद्धिम् (यशः) प्रतापम् ॥
@@ -2253,14 +2397,6 @@ And the fame and reputation.
 श्रि᳓यं च वा᳓ एष᳓ संवि᳓दं च गृहा᳓णामश्नाति यः᳓ पू᳓र्वो᳓ऽतिथेरश्ना᳓ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/36_shriyaM_cha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-श्रियं॒ च॒ वा ए॒ष सं॒विदं॑ च गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/36_shriyaM_cha.md">
 <details open><summary><h3>३६ श्रियं च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2272,14 +2408,22 @@ the houses doth he etc. etc.
 ##### Notes
 The Pet. Lexx. interpret *saṁvíd* as 'possessions.'
 </details>
+
 <details><summary>Griffith</summary>
 
 The man who eats before the guest eats up the glory and the understanding of the house.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+श्रियं॒ च॒ वा ए॒ष सं॒विदं॑ च गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श्रिय॑म्। च॒। वै। ए॒षः। स॒म्ऽविद॑म्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.६। 
+श्रिय॑म्। च॒। वै। ए॒षः। स॒म्ऽविद॑म्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2287,18 +2431,22 @@ The man who eats before the guest eats up the glory and the understanding of the
 - त्रिपदा पिपीलिकमध्या गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एषः) वह पुरुष (वै) निश्चय करके (श्रियम्) सेवनीय ऐश्वर्य (च च) और (संविदम्) और यथावत् बुद्धि को (गृहाणाम्) घरों के बीच (अश्नाति) भक्षण [अर्थात् नाश] करता है, (यः) जो (अतिथेः पूर्वः) अतिथि से पहिले (अश्नाति) खाता है ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग अतिथि का तिरस्कार करने से महाविपत्तियों में फँसते हैं ॥२-६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(श्रियम्) सेवनीयां सम्पत्तिम् (संविदम्) अ० ३।५।५। यथार्थ बुद्धिम्। अन्यत् पूर्ववत्-म० १ ॥
@@ -2311,14 +2459,6 @@ The man who eats before the guest eats up the glory and the understanding of the
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एष᳓ वा᳓ अ᳓तिथिर्य᳓च्छ्रो᳓त्रियस्त᳓स्मात्पू᳓र्वो ना᳓श्नीयात् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/37_eSha_vA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ए॒ष वा अति॑थि॒र्यच्छ्रोत्रि॑य॒स्तस्मा॒त्पूर्वो॒ नाश्नी॑यात् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/37_eSha_vA.md">
@@ -2334,14 +2474,22 @@ The meaning intended ought to be that a guest is the equivalent of such
 a sage; but the literal sense is as translated. The verse lacks one  
 syllable (unless we read *ná aśnīyāt*) of being full measure.
 </details>
+
 <details><summary>Griffith</summary>
 
 The man should not eat before the guest who is a Brahman versed in holy lore.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒ष वा अति॑थि॒र्यच्छ्रोत्रि॑य॒स्तस्मा॒त्पूर्वो॒ नाश्नी॑यात् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒षः। वै। अति॑थिः। यत्। श्रोत्रि॑यः। तस्मा॑त्। पूर्वः॑। न। अ॒श्नी॒या॒त्। ८.७। 
+ए॒षः। वै। अति॑थिः। यत्। श्रोत्रि॑यः। तस्मा॑त्। पूर्वः॑। न। अ॒श्नी॒या॒त्। ८.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2349,18 +2497,22 @@ The man should not eat before the guest who is a Brahman versed in holy lore.
 - साम्नी बृहती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) क्योंकि (एषः वै) यही (अतिथिः) अतिथि (श्रोत्रियः) श्रोत्रिय [वेद जाननेवाला पुरुष है], (तस्मात्) उस [अतिथि] से (पूर्वः) पहिले [गृहस्थ] (न) न (अश्नीयात्) जीमें ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ का धर्म है कि अतिथि को भोजन कराके आप भोजन करे ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(यत्) यस्मात् कारणात् (श्रोत्रियः) श्रोत्रियंश्छन्दोऽधीते। पा० ५।२।८४। छन्दस्-घन्। वेदाध्येतृपुरुषः (तस्मात्) अतिथेः सकाशात् (न) निषेधे (अश्नीयात्) जेमेत्। अन्यत् पूर्ववत् ॥
@@ -2374,15 +2526,6 @@ The man should not eat before the guest who is a Brahman versed in holy lore.
 
 अ᳙शिता᳓वत्य᳓तिथावश्नीयाद्यज्ञ᳓स्य सात्मत्वा᳓य।  
 यज्ञ᳓स्या᳓विच्छेदाय त᳓द्व्रत᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/38_ashitAvatyatithAvashnIyAdyajnasya_sAtmatvAya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॑शि॒ताव॒त्यति॑थावश्नीयाद्य॒ज्ञस्य॑ सात्म॒त्वाय॑।  
-य॒ज्ञस्यावि॑च्छेदाय॒ तद्व्र॒तम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/38_ashitAvatyatithAvashnIyAdyajnasya_sAtmatvAya.md">
@@ -2401,14 +2544,23 @@ Ppp. has *aśitāvaty aśnīyāt tad vrataṁ yajñasyā ’vichedāya yajñasya
 guptaye yajñasya sātmatvāya*. ⌊Cf. Oldenberg, IFA. vi. 184: also *Skt.  
 Gram.* §960.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 When the guest hath eaten he should eat. This is the rule for the animation of the sacrifice and the preservation of its continuity.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑शि॒ताव॒त्यति॑थावश्नीयाद्य॒ज्ञस्य॑ सात्म॒त्वाय॑।  
+य॒ज्ञस्यावि॑च्छेदाय॒ तद्व्र॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒शि॒तऽव॑ति। अति॑थौ। अ॒श्नी॒या॒त्। य॒ज्ञस्य॑। सा॒त्म॒ऽत्वाय॑। य॒ज्ञस्य॑। अवि॑ऽछेदाय। तत्। व्र॒तम्। ८.८। 
+अ॒शि॒तऽव॑ति। अति॑थौ। अ॒श्नी॒या॒त्। य॒ज्ञस्य॑। सा॒त्म॒ऽत्वाय॑। य॒ज्ञस्य॑। अवि॑ऽछेदाय। तत्। व्र॒तम्। ८.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2416,18 +2568,22 @@ When the guest hath eaten he should eat. This is the rule for the animation of t
 - पिपीलिकमध्योष्णिक्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अतिथौ अशितवति) अतिथि के भोजन कर लेने पर (अश्नीयात्) वह [गृहस्थ] खावे, (यज्ञस्य) यज्ञ [देवपूजा, सङ्गतिकरण और दान] की (सात्मत्वाय) चैतन्यता के लिये और (यज्ञस्य) यज्ञ की (अविच्छेदाय) निरन्तर प्रवृत्ति के लिये (तत्) वह (व्रतम्) नियम है ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अतिथि का सत्कार करने से गृहस्थ के शुभकर्म निर्विघ्न होकर सदा चलते रहते हैं ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(अशितवति) सांहितिको दीर्घः। भुक्तवति (अतिथौ) संन्यासिनि (अश्नीयात्) जेमेत् (यज्ञस्य) शुभव्यवहारस्य (सात्मत्वाय) सजीवनत्वाय। वृद्धिकरणाय (अविच्छेदाय) निरन्तरत्वाय। अविरामाय। अन्यत् पूर्ववत् ॥
@@ -2440,14 +2596,6 @@ When the guest hath eaten he should eat. This is the rule for the animation of t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एत᳓द्वा᳓ उ स्वा᳓दीयो य᳓दधिगवं᳓ क्षीरं᳓ वा᳓ मांसं᳓ वा᳓ त᳓देव᳓ ना᳓श्नीयात् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/39_etadvA_u.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ए॒तद्वा उ॒ स्वादी॑यो॒ यद॑धिग॒वं क्षी॒रं वा मां॒सं वा तदे॒व नाश्नी॑यात् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/39_etadvA_u.md">
@@ -2470,14 +2618,22 @@ wanting in Ppp. The so-called *gāyatrī* is to be thus divided: 7 + 11 +
 **a** *of 44. bhurij;* **b** *of 40-43. 3-p . gāyatrī;* **b** *of 44.  
 4-p. prastārapan̄kti.*\]
 </details>
+
 <details><summary>Griffith</summary>
 
 Now the sweetest portion, the produce of the cow, milk, or flesh, that verily he should not eat.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒तद्वा उ॒ स्वादी॑यो॒ यद॑धिग॒वं क्षी॒रं वा मां॒सं वा तदे॒व नाश्नी॑यात् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒तत्। वै। ऊं॒ इति॑। स्वादी॑यः। यत्। अ॒धि॒ऽग॒वम्। क्षी॒रम्। वा॒। मां॒सम्। वा॒। तत्। ए॒व। न। अ॒श्नी॒या॒त्। ८.९। 
+ए॒तत्। वै। ऊं॒ इति॑। स्वादी॑यः। यत्। अ॒धि॒ऽग॒वम्। क्षी॒रम्। वा॒। मां॒सम्। वा॒। तत्। ए॒व। न। अ॒श्नी॒या॒त्। ८.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2485,18 +2641,22 @@ Now the sweetest portion, the produce of the cow, milk, or flesh, that verily he
 - त्रिपदा पिपीलिकमध्या गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एतद् वै) यहाँ (उ) निश्चय करके (स्वादीयः) अधिक स्वादु है, (यत्) कि (तत् एव) उसी ही (अधिगवम्) अधिकृत जल, (वा) और (क्षीरम्) दूध (वा) और (मांसम्) मननसाधक [बुद्धिवर्धक] वस्तु को (न) अब [अतिथि के जीमने पर-म० ८] (अश्नीयात्) वह [गृहस्थ] खावे ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ को यही सुखदायी है कि अतिथि को अच्छे-अच्छे रोचक बुद्धिवर्धक पदार्थ फल, बादाम, अक्षोट आदि जिमाकर आप जीमे, जिस से वह सत्कृत विद्वान् यथावत् उपदेश करे ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(एतद्) वक्ष्यमाणम् (वै) एव (उ) निश्चयेन (स्वादीयः) स्वादु−ईयसुन्। रोचकतरम् (यत्) वाक्यारम्भे (अधिगवम्) गौर्जलम्। गोरतद्धितलुकि। पा० ५।४।९२। अधि+गो-टच्, तत्पुरुषात्। अधिकृतश्चासौ गौश्चेति अधिगवः तम्। अधिकृतं जलम् (क्षीरम्) दुग्धम् (वा) समुच्चये (मांसम्) अ० ६।७०।१। मनेर्दीर्घश्च। उ० ३।६४। मन ज्ञाने स प्रत्ययो दीर्घश्च। मांस माननं वा मानसं वा मनोऽस्मिन्त्सीदतीति वा-निरु० ४।३। मननसाधकं बुद्धिवर्धकं वस्तु (तत्) (एव) (न) सम्प्रति-निरु० ७।३१। न शब्दः सम्प्रत्यर्थे−इति सायणः, ऋग्० ७।१०३।७। इदानीम्। अतिथेर्भोजनपश्चादित्यर्थः (अश्नीयात्) खादयेत् ॥
@@ -2510,19 +2670,6 @@ Now the sweetest portion, the produce of the cow, milk, or flesh, that verily he
 
 स᳓ य᳓ एवं᳓ विद्वा᳓न्क्षीर᳓मुपसि᳓च्योपह᳓रति।  
 या᳓वदग्निष्टोमे᳓नेष्ट्वा᳓ सु᳓समृद्धेनावरुन्द्धे᳓ ता᳓वदेनेना᳓व रुन्द्धे ॥ ।
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/40_sa_ya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स य ए॒वं वि॒द्वान्क्षी॒रमु॑प॒सिच्यो॑प॒हर॑ति।  
-।  
-१।  
-याव॑दग्निष्टो॒मेने॒ष्ट्वा सुस॑मृद्धेनावरु॒न्द्धे ताव॑देने॒नाव॑ रुन्द्धे ॥ ।  
-२।  
-४०॥ 
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/40_sa_ya.md">
@@ -2544,15 +2691,24 @@ syllables each, like a real *gāyatrī*. Ppp. begins all the verses with
 *yat*, instead of *sa ya evaṁ vidvān*, and reads in 40 **b** *yā. ag.  
 sapṛṣṭhene ’ṣṭvā ’varundhe*.
 </details>
+
 <details><summary>Griffith</summary>
 
 The man who having this knowledge pours out milk and offers it wins for himself as much thereby as he gains by the perfor- mance of a very successful Agnishtoma sacrifice.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स य ए॒वं वि॒द्वान्क्षी॒रमु॑प॒सिच्यो॑प॒हर॑ति।  
+याव॑दग्निष्टो॒मेने॒ष्ट्वा सुस॑मृद्धेनावरु॒न्द्धे ताव॑देने॒नाव॑ रुन्द्धे ॥ ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सः । यः । ए॒वम् । वि॒द्वान् । क्षी॒रम् । उ॒प॒ऽसिच्य॑ । उ॒प॒ऽहर॑ति ९.१।  
 याव॑त् । अ॒ग्नि॒ऽस्तो॒मेन॑ । इ॒ष्ट्वा । सुऽस॑मृध्देन । अ॒व॒ऽरु॒न्ध्दे । ताव॑त् । ए॒ने॒न॒ । अव॑ । रु॒न्ध्दे॒॥ ९.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2560,18 +2716,22 @@ The man who having this knowledge pours out milk and offers it wins for himself 
 - प्राजापत्यानुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो [गृहस्थ] (एवम्) ऐसा (विद्वान्) विद्वान् है, (सः) वह (क्षीरम्) दूध को (उपसिच्य) सिद्ध करके (उपहरति) भेंट करता है। (यावत्) जितना [फल] (सुसमृद्धेन) बड़ी सम्पत्तिवाले (अग्निष्टोमेन) अग्निष्टोम से [जो वसन्तकाल में सोमयाग किया जाता है] (इष्ट्वा) यज्ञ करके (अवरुन्धे) [मनुष्य] पाता है, (तावत्) उतना [फल] (एनेन) इस [कर्म] से (अवरुन्धे) वह [विद्वान्] पाता है ॥१, २॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे विज्ञानी पुरुषों के यज्ञ और संगति करने से वसन्तकाल आदि ऋतु में पुष्ट अन्न उत्पन्न होते हैं, उसी प्रकार विद्वान् संन्यासियों की सेवा से उपदेश पाकर गृहस्थ सदा समृद्ध रहते हैं ॥१, २॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १, २−(सः) गृहस्थः (यः) (एवम्) पूर्वोक्तप्रकारेण (विद्वान्) (क्षीरम्) दुग्धम् (उपसिच्य) संसाध्य (उपहरति) समर्पयति (यावत्) यत्परिमाणं फलम् (अग्निष्टोमेन) अर्त्तिस्तुसुहु०। उ० १।१४०। ष्टुञ् स्तुतौ-मन्। अग्नेः स्तुत्स्तोमसोमाः। पा० ८।३।८२। इति षः। वसन्तकाले सोमयागविशेषेण (इष्ट्वा) यज्ञं कृत्वा (सुसमृद्धेन) अतिसम्पत्तियुक्तेन (अवरुन्द्धे) प्राप्नोति (तावत्) (एनेन) पूर्वोक्तकर्मणा (अवरुन्द्धे) प्राप्नोति ॥
@@ -2587,18 +2747,6 @@ The man who having this knowledge pours out milk and offers it wins for himself 
 या᳓वदतिरात्रे᳓णेष्ट्वा᳓ सु᳓समृद्धेनावरुन्धे᳓ ता᳓वदेनेना᳓व रुन्धे ।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/41_sa_ya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स य ए॒वं वि॒द्वान्त्स॒र्पिरु॑प॒सिच्यो॑प॒हर॑ति ।  
-३।  
-याव॑दतिरा॒त्रेणे॒ष्ट्वा सुस॑मृद्धेनावरु॒न्धे ताव॑देने॒नाव॑ रुन्धे ।  
-४।  
-४१॥  
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/41_sa_ya.md">
 <details open><summary><h3>४१ स य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2611,15 +2759,24 @@ one gets etc. etc.
 ##### Notes
 Ppp. reads in **b** *āhnena samṛddhena* for *atirātreṇa*.
 </details>
+
 <details><summary>Griffith</summary>
 
 The man who having this knowledge pours out clarified butter and offers it wins for himself thereby as much as he gains by the performance of a very successful Atiratra sacrifice.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स य ए॒वं वि॒द्वान्त्स॒र्पिरु॑प॒सिच्यो॑प॒हर॑ति ।  
+याव॑दतिरा॒त्रेणे॒ष्ट्वा सुस॑मृद्धेनावरु॒न्धे ताव॑देने॒नाव॑ रुन्धे ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सः । यः । ए॒वम् । वि॒द्वान् । स॒र्पिः । उ॒प॒ऽसिच्य॑ । उ॒प॒ऽहर॑ति ॥ ९.३।  
 याव॑त् । अ॒ति॒ऽरा॒त्रेण॑ । इ॒ष्ट्वा । उ॒प॒ऽहर॑ति ॥ ९.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2627,18 +2784,22 @@ The man who having this knowledge pours out clarified butter and offers it wins 
 - प्राजापत्यानुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो [गृहस्थ] (एवम्) ऐसा (विद्वान्) विद्वान् है, (सः) वह (सर्पिः) घृत (उपसिच्य) सिद्ध करके (उपहरति) भेंट करता है। (यावत्) जितना [फल] (सुसमृद्धेन) बड़ी सम्पत्तिवाले (अतिरात्रेण) अतिरात्र से (इष्ट्वा) यज्ञ करके.... म० १, २ ॥३, ४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  “अतिरात्र जो रात्रि बिताकर सोमयाग वा अन्नेष्टि किया जाता है, जैसे होलिका, दीपावली। आगे ऊपर के समान है-म० १, २ ॥३, ४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३, ४−(सर्पिः) अ० १।१५।४। घृतम् (अतिरात्रेण) अहःसर्वैकदेशसंख्यातपुण्याच्च रात्रेः। पा० ५।४।८७। अच् प्रत्ययः। रात्रिमतीत्य वर्तते स अतिरात्रः। तेन सोमयागविशेषेण। अन्यत् पूर्ववत् ॥
@@ -2654,18 +2815,6 @@ The man who having this knowledge pours out clarified butter and offers it wins 
 या᳓वत् सत्त्रस᳓द्येनेष्ट्वा᳓ सु᳓समृद्धेनावरुन्धे᳓ ता᳓वदेनेना᳓व रुन्धे ।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/42_sa_ya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स य ए॒वं वि॒द्वान् मधू॑प॒सिच्यो॑प॒हर॑ति ।  
-५।  
-याव॑त् सत्त्र॒सद्ये॑ने॒ष्ट्वा सुस॑मृद्धेनावरु॒न्धे ताव॑देने॒नाव॑ रुन्धे ।  
-६।  
-४२॥  
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/42_sa_ya.md">
 <details open><summary><h3>४२ स य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2679,15 +2828,24 @@ etc.
 Ppp. reads in **b** *rātreṇa samṛddhena*. The Anukr. expects, of course,  
 the resolution *mádhu up-*.
 </details>
+
 <details><summary>Griffith</summary>
 
 He who pours out mead and offers it wins for himself thereby as much as he gains by the performance of a very successful Sattrasadya sacrifice.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स य ए॒वं वि॒द्वान् मधू॑प॒सिच्यो॑प॒हर॑ति ।  
+याव॑त् सत्त्र॒सद्ये॑ने॒ष्ट्वा सुस॑मृद्धेनावरु॒न्धे ताव॑देने॒नाव॑ रुन्धे ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सः । यः । ए॒वम् । वि॒द्वान् । मधु॑ । उ॒प॒ऽसिच्य॑ । उ॒प॒ऽहर॑ति ॥ ९.५।  
 याव॑त् ।‍ स॒त्त्र॒ऽसद्ये॑न । इ॒ष्ट्वा । उ॒प॒ऽहर॑ति ॥ ९.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2695,18 +2853,22 @@ He who pours out mead and offers it wins for himself thereby as much as he gains
 - प्राजापत्यानुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो [गृहस्थ] (एवम्) ऐसा (विद्वान्) विद्वान् है, (सः) वह (मधु) मधु [मक्षिका रस] (उपसिच्य) सिद्ध करके (उपहरति) भेंट करता है। (यावत्) जितना [फल] (सुसमृद्धेन) बड़ी सम्पत्तिवाले (सत्त्रसद्येन) सत्र सद्य से [सोमयाग विशेष से] (इष्ट्वा) यज्ञ करके.... म० १, २ ॥५, ६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  ऊपर के समान है-म० १, २ ॥५, ६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५, ६−(मधु) क्षौद्रम् (सत्त्रसद्येन) गुधृवीपचि०। उ० ४।१६७। षद्लृ विशरणगत्यवसादनेषु−त्र प्रत्ययः, यद्वा सत्र विस्तारे-घञ्+षद्लृ−क्विप्। तदर्हति। पा० ५०।१।६३। इति यत्। सत्रसदां सभ्यानां योग्येन सोमयागविशेषेण। अन्यत् पूर्ववत् ॥
@@ -2722,18 +2884,6 @@ He who pours out mead and offers it wins for himself thereby as much as he gains
 या᳓वद् द्वादशाहे᳓नेष्ट्वा᳓ सु᳓समृद्धेनावरुन्धे᳓ ता᳓वदे᳓ने᳓ना᳓व रुन्धे ।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/43_sa_ya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स य ए॒वं वि॒द्वान् मां॒समु॑प॒सिच्यो॑प॒हर॑ति ।  
-७।  
-याव॑द् द्वादशा॒हेने॒ष्ट्वा सुस॑मृद्धेनावरु॒न्धे ताव॑देनेनाव॑ रुन्धे ।  
-८।  
-४३॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/43_sa_ya.md">
 <details open><summary><h3>४३ स य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2745,15 +2895,24 @@ etc. etc.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 He who having this knowledge besprinkles flesh and offers it wins for himself thereby as much as he gains by the perfor- mance of a very successful Twelve-Day sacrifice.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स य ए॒वं वि॒द्वान् मां॒समु॑प॒सिच्यो॑प॒हर॑ति ।  
+याव॑द् द्वादशा॒हेने॒ष्ट्वा सुस॑मृद्धेनावरु॒न्धे ताव॑देनेनाव॑ रुन्धे ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सः । यः । ए॒वम् । वि॒द्वान् । मां॒सम् । उ॒प॒ऽसिच्य॑ । उ॒प॒ऽहर॑ति ॥ ९.७।  
 याव॑त् । द्वा॒द॒श॒ऽअ॒हेन॑ । इ॒ष्ट्वा । सुऽस॑मृध्देन । अ॒व॒ऽरु॒न्ध्दे । ताव॑त् । ए॒ने॒न॒ । अव॑ । रु॒न्ध्दे॒ ॥ ९.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2761,18 +2920,22 @@ He who having this knowledge besprinkles flesh and offers it wins for himself th
 - प्राजापत्यानुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो [गृहस्थ] (एवम्) ऐसा (विद्वान्) विद्वान् है, (सः) वह (मांसम्) मननसाधक [बुद्धिवर्धक वस्तु] को (उपसिच्य) सिद्ध करके (उपहरति) भेंट करता है। (यावत्) जितना [फल] (सुसमृद्धेन) बड़ी सम्पत्तिवाले (द्वादशाहेन) बारह दिनवाले [सोमयाग] से (इष्ट्वा) यज्ञ करके (अवरुन्द्धे) [मनुष्य] पाता है, (तावत्) उतना [फल] (एनेन) इस [कर्म] से (अवरुन्द्धे) वह [विद्वान्] पाता है ॥७, ८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे मनुष्य बड़े-बड़े यज्ञों के करने से संसार का उपकार करके सुख पाता है, वैसे ही विद्वान् गृहस्थ विद्वान् अतिथियों के सत्सङ्ग से लाभ उठाकर आनन्द भोगता है ॥७, ८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७, ८−(मांसम्) अ० ९।६(३)।९। मननसाधकं ज्ञानवर्धकं वस्तु (द्वादशाहेन) राजाहःसखिभ्यष्टच्। पा० ५।४।९१। द्वादशानामह्नां समाहारो यस्मिन् क्रतौ स क्रतुर्द्वादशाहः। द्वादशदिनसिद्धसोमयज्ञेन। अन्यत् पूर्ववत् ॥
@@ -2786,18 +2949,6 @@ He who having this knowledge besprinkles flesh and offers it wins for himself th
 
 स᳓ य᳓ एवं᳓ विद्वा᳓नुदक᳓मुपसि᳓च्योपह᳓रति ।  
 प्रजा᳓नां प्रज᳓ननाय गच्छति प्रतिष्ठां᳓ प्रियः᳓ प्रजा᳓नां भवति य᳓ एवं᳓ विद्वा᳓नुदक᳓मुपसि᳓च्योपह᳓रति ।
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/44_sa_ya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स य ए॒वं वि॒द्वानु॑द॒कमु॑प॒सिच्यो॑प॒हर॑ति ।  
-९।  
-प्र॒जानां॑ प्र॒जन॑नाय गच्छति प्रति॒ष्ठां प्रि॒यः प्र॒जानां॑ भवति॒ य ए॒वं वि॒द्वानु॑द॒कमु॑प॒सिच्यो॑प॒हर॑ति ।  
-१०।  
-४४॥  
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/44_sa_ya.md">
@@ -2824,15 +2975,24 @@ as 11 + 11 + 8 + 8 by the Anukr. (which, with the mss., reckons
 gāyatrī;* 47 **b**. 3-p. *virāḍ viṣamā nāma gāyatrī;* 48 **a**. 3-p.  
 *virāḍ anuṣṭubh*.\]
 </details>
+
 <details><summary>Griffith</summary>
 
 The man who having this knowledge pours out water and offers it obtains a resting-place for the procreation of living beings and becomes dear to living beings, even the man who having this knowledge pours out water and offers it.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स य ए॒वं वि॒द्वानु॑द॒कमु॑प॒सिच्यो॑प॒हर॑ति ।  
+प्र॒जानां॑ प्र॒जन॑नाय गच्छति प्रति॒ष्ठां प्रि॒यः प्र॒जानां॑ भवति॒ य ए॒वं वि॒द्वानु॑द॒कमु॑प॒सिच्यो॑प॒हर॑ति ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सः । यः । ए॒वम् । वि॒द्वान् । उ॒द॒कम् । उ॒प॒ऽसिच्य॑ । उ॒प॒ऽहर॑ति ॥ ९.९।  
 प्र॒ऽजाना॑म् । प्र॒ऽजन॑नाय । ग॒च्छ॒ति॒ । प्र॒ति॒ऽस्थाम् । प्रि॒यः । प्र॒ऽजाना॑म् । भ॒व॒ति॒ । यः । ए॒वम् । वि॒द्वान् । उ॒द॒कम् । उ॒प॒ऽसिच्य॑ । उ॒प॒ऽहर॑ति ॥ ९.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2840,18 +3000,22 @@ The man who having this knowledge pours out water and offers it obtains a restin
 - भुरिगनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो [गृहस्थ] (एवम् विद्वान्) ऐसा विद्वान् है, (सः) वह (उदकम्) जल को (उपसिच्य) सिद्ध करके (उपहरति) भेंट करता है। वह (प्रजानाम्) सन्तानों के (प्रजननाय) उत्पन्न करने के लिये (प्रतिष्ठाम्) दृढ़ स्थिति (गच्छति) पाता है और (प्रजानाम्) सन्तानों का (प्रियः) प्रिय (भवति) होता है, (यः) जो (एवम्) ऐसा (विद्वान्) विद्वान् [गृहस्थ] (उदकम्) जल को (उपसिच्य) सिद्ध करके (उपहरति) भेंट करता है ॥९, १०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य विद्वान् अतिथियों की सेवा से बलवान् और गुणवान् सन्तान प्राप्त करके सुख पाता है ॥९, १०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९, १०−(उदकम्) अ० ३।१३।४। जलम् (प्रजानाम्) सन्तानानाम् (प्रजननाय) उत्पादनाय (गच्छति) प्राप्नोति (प्रतिष्ठाम्) प्रकृष्टां दृढां स्थितिम् (प्रियः) प्रीतिपात्रम्। अन्यत् पूर्ववत् ॥
@@ -2866,20 +3030,6 @@ The man who having this knowledge pours out water and offers it obtains a restin
 त᳓स्मा उषा᳓ हि᳓ङ्कृणोति सविता᳓ प्र᳓ स्तौति ।  
 बृ᳓हस्प᳓तिरूर्ज᳓यो᳓द्गायति त्व᳓ष्टा पु᳓ष्ट्या प्र᳓ति हरति वि᳓श्वे देवा᳓ निध᳓नम्।  
 निध᳓नं भू᳓त्याः प्रजा᳓याः पशूनां᳓ भवति य᳓ एवं᳓ वे᳓द ।
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/45_tasmA_uShA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-तस्मा॑ उ॒षा हिङ्कृ॑णोति सवि॒ता प्र स्तौ॑ति ।  
-१।  
-बृह॒स्पति॑रू॒र्जयोद्गा॑यति॒ त्वष्टा॒ पुष्ट्या॒ प्रति॑ हरति॒ विश्वे॑ दे॒वा नि॒धन॑म्।  
-२।  
-नि॒धनं॒ भूत्याः॑ प्र॒जायाः॑ पशू॒नां भ॑वति॒ य ए॒वं वेद॑ ।  
-३।  
-४५॥  
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/45_tasmA_uShA.md">
@@ -2910,16 +3060,26 @@ is right. The artificial description by the Anukr. of **b** as an
 *víśu-e*. Ppp. adds *vāi* after *tasmāi*, and *bhūtyā* after *savitā*,  
 and reads *ūrjā* for *ūrjayā*.
 </details>
+
 <details><summary>Griffith</summary>
 
 For him Dawn murmurs, and Savitar sings the prelude; Brihas- pati chants with vigour, and Tvashtar joins in with increase; the Visve Devah take up conclusion. He who hath this know- ledge is the abiding-place of welfare, of progeny, and of cattle.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मा॑ उ॒षा हिङ्कृ॑णोति सवि॒ता प्र स्तौ॑ति ।  
+बृह॒स्पति॑रू॒र्जयोद्गा॑यति॒ त्वष्टा॒ पुष्ट्या॒ प्रति॑ हरति॒ विश्वे॑ दे॒वा नि॒धन॑म्।  
+नि॒धनं॒ भूत्याः॑ प्र॒जायाः॑ पशू॒नां भ॑वति॒ य ए॒वं वेद॑ ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 तस्मै॑ । उ॒षाः । हिङ् । कृ॒णो॒ति॒ । स॒वि॒ता । प्र । स्तौ॒ति॒ ॥ १०.१।  
 बृह॒स्पतिः॑ । ऊ॒र्जया॑ । उत् । गा॒य॒ति॒ । त्वष्टा॑ । पुष्ट्या॑ । प्रति॑ । ह॒र॒ति॒ । विश्वे॑ । दे॒वाः । नि॒ऽधन॑म् ॥ १०.२।  
 नि॒ऽधन॑म् । भूत्याः॑ । प्र॒ऽजायाः॑ । प॒शू॒नाम् । भ॒व॒ति॒ । यः । ए॒वम् । वेद॑ ॥ १०.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2927,18 +3087,22 @@ For him Dawn murmurs, and Savitar sings the prelude; Brihas- pati chants with vi
 - साम्न्युष्णिक्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तस्मै) उस [गृहस्थ] के लिये (उषाः) उषा [प्रभातवेला] (हिङ्) तृप्ति कर्म (कृणोति) करती है, (सविता) प्रेरणा करनेवाला सूर्य (प्र) अच्छी भाँति (स्तौति) स्तुति करता है। [उसके लिये] (बृहस्पतिः) बड़े सोम [अमृत रस] का रक्षक, वायु (ऊर्जया) प्राण शक्ति के साथ (उत् गायति) उद्गीथ [वेदगान] करता है, (त्वष्टा) [अन्न आदि] उत्पन्न करनेवाला, मेघ (पुष्ट्या) पुष्टि के साथ (निधनम्) निधि (प्रति) प्रत्यक्ष (हरति) प्राप्त कराता है और (विश्वे) सब (देवाः) उत्तम गुणवाले पदार्थ [निधि प्रत्यक्ष प्राप्त कराते हैं]। [उस गृहस्थ के लिये] (भूत्याः) वैभव का, (प्रजायाः) प्रजा [सन्तान भृत्य आदि] का और (पशूनाम्) पशुओं [गौ, घोड़े, हाथी आदि] का (निधनम्) निधि (भवति) होता है, (यः) जो गृहस्थ (एवम्) इस प्रकार (वेद) जानता है ॥१, २, ३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य पूर्वोक्त विधि से विद्वानों का सत्कार करता है, उसको सब कालों में सब पदार्थों से आनन्द मिलता है ॥१, २, ३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १, २, ३−(तस्मै) गृहस्थाय (उषाः) प्रभातवेला (हिङ्) ऋत्विक्दधृक्०। पा० ३।२।५९। इति बाहुलकात्। हिवि प्रीणने−क्विन्, इति हिन्व्। स्वमोर्नपुंसकात्। पा० ७।१।२३। अमो लुक्। संयोगान्तस्य लोपः। पा० ८।२।२३। वलोपः। क्विन्प्रत्ययस्य कुः। पा० ८।२।६२। इति सानुनासिकं कुत्वम्। हिन्वति प्रीणातीति हिङ्। प्रीणनम्। तृप्तिकर्म (कृणोति) करोति (सविता) प्रेरकः सूर्यः (प्र) प्रकर्षेण (स्तौति) प्रशंसति (बृहस्पतिः) अ० १।८।२। मध्यस्थानदेवतात्वात्-निरु० १०।११। बृहतः सोमरसस्य पाता रक्षिता वायुः (ऊर्जया) प्राणशक्त्या (उत् गायति) उद्गीथं वेदगानं करोति (त्वष्टा) अ० २।५।६। त्वक्षतेः करोति कर्मणः−तृन्। मध्यस्थानदेवतात्वात्-निरु० १०।३४। अन्नादीनां कर्ता मेघः (पुष्ट्या) पोषणेन (प्रति) प्रत्यक्षम् (हरति) प्रापयति (विश्वे) सर्वे (देवाः) उत्तमगुणाः पदार्थाः (निधनम्) कॄपॄवृजिमन्दिनिधाञः क्युः। उ० २।८१। निदधातेः−क्यु। नितरां धारणम्। निधिम् (भूत्याः) वैभवस्य (प्रजायाः) सन्तानभृत्यादेः (पशूनाम्) गवाश्वगजादीनाम् (भवति) वर्तते (यः) (एवम्) पूर्वोक्तप्रकारेण (वेद) जानाति ॥
@@ -2955,19 +3119,6 @@ For him Dawn murmurs, and Savitar sings the prelude; Brihas- pati chants with vi
 निध᳓नं भू᳓त्याः प्रजा᳓याः पशूनां᳓ भवति य᳓ एवं᳓ वे᳓द ।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/46_tasmA_udyantsUryo.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-तस्मा॑ उ॒द्यन्त्सूर्यो॒ हिङ्कृ॑णोति संग॒वः प्र स्तौ॑ति ।  
-४।  
-म॒ध्यन्दि॑न॒ उद्गा॑यत्यपरा॒ह्णः प्रति॑ हरत्यस्तं॒यन् नि॒धन॑म्।  
-नि॒धनं॒ भूत्याः॑ प्र॒जायाः॑ पशू॒नां भ॑वति॒ य ए॒वं वेद॑ ।  
-५।  
-४६॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/46_tasmA_udyantsUryo.md">
 <details open><summary><h3>४६ तस्मा उद्यन्त्सूर्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2981,15 +3132,25 @@ preludes; noon sings the *udgīthá;* afternoon responds; the setting
 Ppp. combines *madhyandino ’d*. The ⌊*nicṛt*⌋ "dissimilar *gāyatrī*,"  
 **b**, divides as 8 + 9 + 6 = 23.
 </details>
+
 <details><summary>Griffith</summary>
 
 For him the rising Sun murmurs, and Early Morning sings the prelude; Noon chants the psalm, Afternoon joins in; the setting Sun takes up the conclusion. He who hath this know- ledge is the abiding place of welfare, of progeny, and of cattle.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मा॑ उ॒द्यन्त्सूर्यो॒ हिङ्कृ॑णोति संग॒वः प्र स्तौ॑ति ।  
+म॒ध्यन्दि॑न॒ उद्गा॑यत्यपरा॒ह्णः प्रति॑ हरत्यस्तं॒यन् नि॒धन॑म्।  
+नि॒धनं॒ भूत्याः॑ प्र॒जायाः॑ पशू॒नां भ॑वति॒ य ए॒वं वेद॑ ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 तस्मै॑ । उ॒त्ऽयन् । सूर्यः॑ । हिङ् । कृ॒णो॒ति॒ । स॒म्ऽग॒वः । प्र । स्तौ॒ति॒ ॥ १०.४।  
 म॒ध्यंदि॑नः । उत् । गा॒य॒ति॒ । अ॒प॒र॒ऽअ॒ह्नः । प्रति॑ । ह॒र॒ति॒ । अ॒स्त॒म्ऽयन् । नि॒ऽधन॑म् । नि॒ऽधन॑म् । भूत्याः॑ । प्र॒ऽजायाः॑ । प॒शू॒नाम् । भ॒व॒ति॒ । यः । ए॒वम् । वेद॑ ॥ १०.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -2997,18 +3158,22 @@ For him the rising Sun murmurs, and Early Morning sings the prelude; Noon chants
 - साम्न्यनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तस्मै) उस [गृहस्थ] के लिये (उद्यन्) उदय होता हुआ (सूर्यः) सूर्य (हिङ्) तृप्ति कर्म (कृणोति) करता है, (संगवः) किरणों से संगतिवाला [दोपहर से पहिले सूर्य] (प्र) अच्छी भाँति (स्तौति) स्तुति करता है। (मध्यन्दिनः) मध्याह्नकाल (उत् गायति) उद्गीथ [वेदगान] करता है, (अपराह्णः) तीसरा पहर (निधनम्) निधि (प्रति) प्रत्यक्ष (हरति) प्राप्त कराता है और (अस्तंयन्) डूबता हुआ [सूर्य, निधि प्रत्यक्ष प्राप्त कराता है]। [उसके लिये] (भूत्याः) वैभव का, (प्रजायाः) प्रजा.... म० १-३ ॥४, ५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य विद्वान् अतिथियों के सत्सङ्ग से पुरुषार्थ करके सब काल में आनन्द करता है ॥४, ५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४, ५−(तस्मै) गृहस्थाय (उद्यन्) उद्गच्छन् (सूर्यः) (संगवः) गोरद्धितलुकि। पा० ५।४।९२। सम्+गो-टच्। गोभिः किरणैः सङ्गतो मध्याह्नपूर्वः सूर्यः (मध्यन्दिनः) अ० ४।११।१२। मध्याह्नः (अपराह्णः) पूर्वापराधरो०। पा० २।२।१। इति समासः। राजाहःसखिभ्यष्टच्। पा० ५।४।९१। टच्। अह्नोऽह्न एतेभ्यः। पा० ५।४।८८। अह्नादेशः। अह्नोऽदन्तात्। पा० ८।४।७। णत्वम्। रात्राह्नाहाः पुंसि। पा० २।४।२९। इति पुंस्त्वम्। दिनस्य तृतीयभागः (अस्तंयन्) अदर्शनं प्राप्नुवन् सूर्यः। अन्यत् पूर्ववत् ॥
@@ -3026,21 +3191,6 @@ For him the rising Sun murmurs, and Early Morning sings the prelude; Noon chants
 अ᳓तिथीन् प्र᳓ति पश्यति हि᳓ङ्कृणोत्यभि᳓ वदति प्र᳓ स्तौत्युदकं᳓ या᳓चत्यु᳓द्गायति ।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/47_tasmA_abhro.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-तस्मा॑ अ॒भ्रो भव॒न् हिङ्कृ॑णोति स्त॒नय॒न् प्र स्तौ॑ति ।  
-६।  
-वि॒द्योत॑मानः॒ प्रति॑ हरति॒ वर्ष॒न्नुद्गा॑यत्युद्गृह्णन् नि॒धन॑म्।  
-नि॒धनं॒ भूत्याः॑ प्र॒जायाः॑ पशू॒नां भ॑वति॒ य ए॒वं वेद॑ ।  
-७।  
-अति॑थी॒न् प्रति॑ पश्यति॒ हिङ्कृ॑णोत्य॒भि व॑दति॒ प्र स्तौ॑त्युद॒कं याच॒त्युद्गा॑यति ।  
-८।  
-४७॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/47_tasmA_abhro.md">
 <details open><summary><h3>४७ तस्मा अभ्रो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3056,15 +3206,26 @@ harati astaṁyaṁ nidhanam*. The "dissimilar *gāyatrī*," **b**, is this
 time 10 + 6 + 6 = 22. Bp.Bp.²p.m.D. read *várṣam*, and several of the  
 *saṁhitā*-mss. *varṣaṁn* instead of -*ṣann*. Cf. Chānd. Upan. ii. 3.
 </details>
+
 <details><summary>Griffith</summary>
 
 For him the Rain-cloud murmurs when present, sings the pre- lude when thundering, joins in when lightening, chants the psalm when raining, and takes up the conclusion when it stays the downpour. He who hath this knowledge is the abiding- place of welfare, of progeny, and of cattle.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मा॑ अ॒भ्रो भव॒न् हिङ्कृ॑णोति स्त॒नय॒न् प्र स्तौ॑ति ।  
+वि॒द्योत॑मानः॒ प्रति॑ हरति॒ वर्ष॒न्नुद्गा॑यत्युद्गृह्णन् नि॒धन॑म्।  
+नि॒धनं॒ भूत्याः॑ प्र॒जायाः॑ पशू॒नां भ॑वति॒ य ए॒वं वेद॑ ।  
+अति॑थी॒न् प्रति॑ पश्यति॒ हिङ्कृ॑णोत्य॒भि व॑दति॒ प्र स्तौ॑त्युद॒कं याच॒त्युद्गा॑यति ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 तस्मै॑ । अ॒भ्रः । भव॑न् । हिङ् । कृ॒णो॒ति॒ । स्त॒नय॑न् । प्र । स्तौ॒ति॒ ॥ १०.६।  
 वि॒ऽद्योत॑मानः । प्रति॑ । ह॒र॒ति॒ । वर्ष॑न् । उत् । गा॒य॒ति॒ । उ॒त्ऽगृ॒ह्णन् । नि॒ऽधन॑म् । नि॒ऽधन॑म् । भूत्याः॑ । प्र॒ऽजायाः॑ । प॒शू॒नाम् । भ॒व॒ति॒ । यः । ए॒वम् । वेद॑ ॥ १०.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3072,18 +3233,22 @@ For him the Rain-cloud murmurs when present, sings the pre- lude when thundering
 - साम्न्यनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तस्मै) उस [गृहस्थ] के लिये (भवन्) घिरा हुआ (अभ्रः) मेघ (हिङ्) तृप्ति कर्म (कृणोति) करता है, (स्तनयन्) गरजता हुआ (प्र) अच्छी भाँति (स्तौति) स्तुति करता है। और (विद्योतमानः) [बिजुली से] चमचमाता हुआ (निधनम्) निधि (प्रति) प्रत्यक्ष (हरति) प्राप्त कराता है, और (वर्षन्) बरसता हुआ [मेघ, निधि को] (उद्गृह्णन्) थाँभता हुआ (उत् गायति) उद्गीथ [वेदगान] करता है। [उसके लिये] (भूत्याः) वैभव का, (प्रजायाः) प्रजा.... म० १-३ ॥६, ७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य तत्त्वदर्शी अतिथियों के ज्ञान से वर्षा का तत्त्वज्ञान प्राप्त करके सुखी होता है ॥६, ७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६, ७−(अभ्रः) अ० ४।१५।१। मेघः (भवन्) व्याप्नुवन् (स्तनयन्)) गर्जन् सन् (विद्योतमानः) विद्युता विविधं दीप्यमानः (वर्षन्) वृष्टिं कुर्वन् (उद्गृह्णन्) उत्कर्षेण धारयन्। अन्यत् पूर्ववत् ॥
@@ -3097,18 +3262,6 @@ For him the Rain-cloud murmurs when present, sings the pre- lude when thundering
 
 उ᳓प हरति प्र᳓ति हरत्यु᳓च्छिष्टं निध᳓नम्।  
 निध᳓नं भू᳓त्याः प्रजा᳓याः पशूनां᳓ भवति य᳓ एवं᳓ वे᳓द ।
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/48_upa_harati.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उप॑ हरति॒ प्रति॑ हर॒त्युच्छि॑ष्टं नि॒धन॑म्।  
-९।  
-नि॒धनं॒ भूत्याः॑ प्र॒जायाः॑ पशू॒नां भ॑वति॒ य ए॒वं वेद॑ ।  
-१०।  
-४८॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/48_upa_harati.md">
@@ -3138,16 +3291,25 @@ similarly we get 16 for **b**. \*⌊The phonetic resemblance of
 bṛhatī; 60. 1-p. āsurī jagatī; 61. yājuṣī triṣṭubh; 62. 1-p. āsury  
 uṣṇih.*\]
 </details>
+
 <details><summary>Griffith</summary>
 
 He looks at the guests, he utters a gentle sound; he speaks, he signs the prelude; he calls for water, he chants the psalm; he offers the residue of the sacrifice, he takes up the conclusion.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑ हरति॒ प्रति॑ हर॒त्युच्छि॑ष्टं नि॒धन॑म्।  
+नि॒धनं॒ भूत्याः॑ प्र॒जायाः॑ पशू॒नां भ॑वति॒ य ए॒वं वेद॑ ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अति॑थीन् । प्रति॑ । प॒श्य॒ति॒ । हिङ् । कृ॒णो॒ति॒ । अ॒भि । व॒द॒ति॒ । प्र । स्तौ॒ति॒ । उ॒द॒कम् । या॒च॒ति॒ । उत् । गा॒य॒ति॒ ॥ १०.८।  
 उप॑ । ह॒र॒ति॒ । प्रति॑ । ह॒र॒ति॒ । उत्ऽशि॑ष्टम् । नि॒ऽधन॑म् ॥ १०.९।  
 नि॒ऽधन॑म् । भूत्याः॑ । प्र॒ऽजायाः॑ । प॒शू॒नाम् । भ॒व॒ति॒ । यः । ए॒वम् । वेद॑ ॥ १०.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3155,18 +3317,22 @@ He looks at the guests, he utters a gentle sound; he speaks, he signs the prelud
 - त्रिपदा विराडनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [जब] वह [गृहस्थ] (अतिथीन् प्रति) अतिथियों की ओर (पश्यति) देखता है, वह [अतिथि] (हिङ्) तृप्ति कर्म (कृणोति) करता है, [जब] वह [गृहस्थ] (अभि वदति) अभिवादन करता है, वह [अपने भाग्य की] (प्र स्तौति) अच्छी भाँति स्तुति करता है, [जब] वह [गृहस्थ] (उदकम्) जल (याचति) विनय करके देता है, (उत् गायति) वह उद्गीथ [वेदगान] करता है। [जब] वह [गृहस्थ, भोजन] (उप हरति) भेंट करता है, (उच्छिष्टम्) अतिशिष्ट [उत्तम] (निधनम्) निधि (प्रति हरति) [अतिथि] प्रत्यक्ष प्राप्त कराता है। [उस गृहस्थ के लिये] (भूत्याः) वैभव का, (प्रजायाः) प्रजा [सन्तान भृत्य आदि] का और (पशूनाम्) पशुओं [गौ, घोड़े, हाथी आदि] का (निधनम्) निधि (भवति) होता है, (यः) जो [गृहस्थ] (एवम्) इस प्रकार (वेद) जानता है ॥८, ९, १०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  “अतिथियों शब्द आदरार्थ बहुवचन है। जो गृहस्थ विद्वान् अतिथि का यथावत् सत्कार करता है, वह उसके आशीर्वाद से सब प्रकार उन्नति कर आनन्द भोगता है ॥८, ९, १०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८, ९, १०−(अतिथीन्) आदरार्थं बहुवचनम्। अभ्यागतान्। महामान्यान् (प्रति) प्रतीत्य (पश्यति) अवलोकयति (अभि वदति) नमस्करोति (प्र) प्रकर्षेण (स्तौति) आत्मानं प्रशंसति (उदकम्) जलम् (याचति) अ० ९।६(१)।४। ग्रहणार्थं प्रेरयति। विनयेन ददाति (उच्छिष्टम्) उत्+शासु अनुशिष्टौ-क्त। शास इदङ्हलोः। पा० ६।४।३४। इकारः। शासिवसिघसीनां च। पा० ८।३।६०। सस्य षः। अतिशयेन शिष्टं श्रेष्ठम्। अन्यत् पूर्ववत् ॥
@@ -3179,14 +3345,6 @@ He looks at the guests, he utters a gentle sound; he speaks, he signs the prelud
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓त्क्षत्ता᳓रं ह्व᳓यत्या᳓ श्रावयत्येव᳓ त᳓त् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/49_yatxattAraM_hvayatyA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यत्क्ष॒त्तारं॒ ह्वय॒त्या श्रा॑वयत्ये॒व तत् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/49_yatxattAraM_hvayatyA.md">
@@ -3202,14 +3360,22 @@ That is, he is virtually an *adhvaryu* summoning the *agnīdh* to do his
 duty. The verse is made an *āsurī gāyatrī* by resolving *-ty* twice.  
 Ppp. inserts before this verse our vs. 23 above; and it omits *eva tat*.
 </details>
+
 <details><summary>Griffith</summary>
 
 When he summons the door-keeper he gives instruction.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्क्ष॒त्तारं॒ ह्वय॒त्या श्रा॑वयत्ये॒व तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। क्ष॒त्तार॑म्। ह्वय॑ति। आ। श्रा॒व॒य॒ति॒। ए॒व। तत्। ११.१। 
+यत्। क्ष॒त्तार॑म्। ह्वय॑ति। आ। श्रा॒व॒य॒ति॒। ए॒व। तत्। ११.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3217,18 +3383,22 @@ When he summons the door-keeper he gives instruction.
 - आसुरी गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब वह [अतिथि] (क्षत्तारम्) कष्ट से तारनेवाले [धर्मात्मा गृहस्थ] को (ह्वयति) बुलाता है, (तत्) तब वह [अतिथि] (एव) निश्चय करके (आ श्रावयति) आदेश सुनाता है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अतिथि लोग गृहस्थों के पास परोपकार में सहायता के लिये आते हैं ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यत्) यदा (क्षत्तारम्) अ० ३।२४।७। क्षतः क्षतात् तारकं धर्मात्मानं गृहस्थम् (ह्वयति) आह्वयति (आश्रावयति) आदिशति स्वप्रयोजनम् (एव) (तत्) तदा ॥
@@ -3241,14 +3411,6 @@ When he summons the door-keeper he gives instruction.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓त्प्रतिशृणो᳓ति प्रत्या᳓श्रावयत्येव᳓ त᳓त् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/50_yatpratishRNoti_pratyAshrAvayatyeva.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यत्प्र॑तिशृ॒णोति॑ प्र॒त्याश्रा॑वयत्ये॒व तत् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/50_yatpratishRNoti_pratyAshrAvayatyeva.md">
@@ -3264,14 +3426,22 @@ That is, as an *agnīdh*. Again, to justify the definition of the Anukr.,
 we must read *prati-ā́śrāvayati evá*. ⌊A hyphen is missing after the  
 *pra* of *pratyā́śr-*.⌋ Ppp. again omits *eva tat* at the end.
 </details>
+
 <details><summary>Griffith</summary>
 
 He (the door-keeper) pronounces the sacrificial formula in his answer to what he hears.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्प्र॑तिशृ॒णोति॑ प्र॒त्याश्रा॑वयत्ये॒व तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। प्र॒ति॒ऽशृ॒णोति॑। प्र॒ति॒ऽआश्रा॑वयति। ए॒व। तत्। ११.२। 
+यत्। प्र॒ति॒ऽशृ॒णोति॑। प्र॒ति॒ऽआश्रा॑वयति। ए॒व। तत्। ११.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3279,18 +3449,22 @@ He (the door-keeper) pronounces the sacrificial formula in his answer to what he
 - साम्न्यनुष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब वह [गृहस्थ] (प्रतिशृणोति) ध्यान से सुनता है, (तत्) तब (एव) ही वह [अतिथि] (प्रत्याश्रावयति) ध्यान से [उपदेश] सुनाता है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग अतिथि से सावधानी के साथ उपदेश सुनें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(प्रतिशृणोति) प्रतीत्य श्रद्धया शृणोति (प्रत्याश्रावयति) श्रद्धयोपदिशति। अन्यत् पूर्ववत् ॥
@@ -3303,14 +3477,6 @@ He (the door-keeper) pronounces the sacrificial formula in his answer to what he
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓त्परिवेष्टा᳓रः पा᳓त्रहस्ताः पू᳓र्वे चा᳓परे च प्रप᳓द्यन्ते चमसा᳓ध्वर्यव एव᳓ ते᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/51_yatpariveShTAraH_pAtrahastAH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यत्प॑रिवे॒ष्टारः॒ पात्र॑हस्ताः॒ पूर्वे॒ चाप॑रे च प्र॒पद्य॑न्ते चम॒साध्व॑र्यव ए॒व ते ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/51_yatpariveShTAraH_pAtrahastAH.md">
@@ -3326,14 +3492,22 @@ Bp. gives the false accentuation *camasa॰ádh-* (instead of *-sá॰adh-*).
 Ppp. reads *yat pariveṣṭārā ’vasatāṁ prabhibhyante cam-.* To make 30  
 syllables, we must resolve *ca ápare* (or else *camasá-adh-*).
 </details>
+
 <details><summary>Griffith</summary>
 
 When the attendants with vessels in their hands, foremost and hindmost, come in, they are just the priests who manage the Soma cups.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्प॑रिवे॒ष्टारः॒ पात्र॑हस्ताः॒ पूर्वे॒ चाप॑रे च प्र॒पद्य॑न्ते चम॒साध्व॑र्यव ए॒व ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। प॒रि॒ऽवे॒ष्टारः॑। पात्र॑ऽहस्ताः। पूर्वे॑। च॒। अप॑रे। च॒। प्र॒ऽपद्य॑न्ते। च॒म॒स॒ऽअ॑ध्वर्यवः। ए॒व। ते। ११.३। 
+यत्। प॒रि॒ऽवे॒ष्टारः॑। पात्र॑ऽहस्ताः। पूर्वे॑। च॒। अप॑रे। च॒। प्र॒ऽपद्य॑न्ते। च॒म॒स॒ऽअ॑ध्वर्यवः। ए॒व। ते। ११.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3341,18 +3515,22 @@ When the attendants with vessels in their hands, foremost and hindmost, come in,
 - त्रिपदार्ची पङ्क्तिः
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब (पात्रहस्ताः) पात्र हाथ में लिये हुए (पूर्वे) अगले (च) और (अपरे) पिछले (च) भी (परिवेष्टारः) परोसनेवाले पुरुष (प्रपद्यन्ते) आगे बढ़ते हैं, (ते) वे (एव) निश्चय करके (चमसाध्वर्यवः) अन्न के लिये हिंसारहित व्यवहार चाहनेवाले [होते हैं] [क्योंकि] (तेषाम्) उनमें से (कश्चन) कोई भी (अहोता) अदानी (न) नहीं [होता है] ॥३, ४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  बुद्धिमान् अन्नदाताओं के समान सब लोग अन्नदान करके वृद्धि प्राप्त करें ॥३, ४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३, ४−(परिवेष्टारः) भोजनाय पात्रे भोजनसमर्पकाः (पात्रहस्ताः) पाणिषु भोजनपात्रयुक्ताः (पूर्वे) पूर्वगामिनः (च च) समुच्चये (अपरे) पश्चाद्गामिनः (प्रपद्यन्ते) प्रकर्षेण गच्छन्ति (चमसाध्वर्यवः) अध्वर्युर्व्याख्यातः। अ० ७।७३।५। चमस+अध्वर-क्यच्, उ प्रत्ययः। चमसाय अन्नाय अध्वरस्य हिंसारहितव्यवहारस्य इच्छुकाः (एव) (ते) पुरुषाः (तेषाम्) परिवेषकाणां मध्ये (न) निषेधे (कश्चन) कोऽपि (अहोता) अदानी ॥
@@ -3365,14 +3543,6 @@ When the attendants with vessels in their hands, foremost and hindmost, come in,
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ते᳓षां न᳓ क᳓श्चना᳓होता ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/52_teShAM_na.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-तेषां॒ न कश्च॒नाहो॑ता ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/52_teShAM_na.md">
@@ -3389,14 +3559,22 @@ eva tat savanam: yat sāyam upaharati tṛtīyam eva tad yad atithipatir
 avabhṛtham eva tat prāhvayanti;* and it omits our vs. 53; ⌊R. does not  
 expressly note such omission⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 Not one of them is incompetent to sacrifice.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तेषां॒ न कश्च॒नाहो॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तेषा॑म्। न। कः। च॒न। अहो॑ता। ११.४। 
+तेषा॑म्। न। कः। च॒न। अहो॑ता। ११.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3404,18 +3582,22 @@ Not one of them is incompetent to sacrifice.
 - एकपदा प्राजापत्या गायत्री
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब (पात्रहस्ताः) पात्र हाथ में लिये हुए (पूर्वे) अगले (च) और (अपरे) पिछले (च) भी (परिवेष्टारः) परोसनेवाले पुरुष (प्रपद्यन्ते) आगे बढ़ते हैं, (ते) वे (एव) निश्चय करके (चमसाध्वर्यवः) अन्न के लिये हिंसारहित व्यवहार चाहनेवाले [होते हैं] [क्योंकि] (तेषाम्) उनमें से (कश्चन) कोई भी (अहोता) अदानी (न) नहीं [होता है] ॥३, ४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  बुद्धिमान् अन्नदाताओं के समान सब लोग अन्नदान करके वृद्धि प्राप्त करें ॥३, ४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३, ४−(परिवेष्टारः) भोजनाय पात्रे भोजनसमर्पकाः (पात्रहस्ताः) पाणिषु भोजनपात्रयुक्ताः (पूर्वे) पूर्वगामिनः (च च) समुच्चये (अपरे) पश्चाद्गामिनः (प्रपद्यन्ते) प्रकर्षेण गच्छन्ति (चमसाध्वर्यवः) अध्वर्युर्व्याख्यातः। अ० ७।७३।५। चमस+अध्वर-क्यच्, उ प्रत्ययः। चमसाय अन्नाय अध्वरस्य हिंसारहितव्यवहारस्य इच्छुकाः (एव) (ते) पुरुषाः (तेषाम्) परिवेषकाणां मध्ये (न) निषेधे (कश्चन) कोऽपि (अहोता) अदानी ॥
@@ -3430,14 +3612,6 @@ Not one of them is incompetent to sacrifice.
 य᳓द्वा᳓ अ᳓तिथिपतिर᳓तिथीन्परिवि᳓ष्य गृहा᳓नुपोदै᳓त्यवभृ᳓थमेव᳓ त᳓दुपा᳓वैति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/53_yadvA_atithipatiratithInpariviShya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यद्वा अति॑थिपति॒रति॑थीन्परि॒विष्य॑ गृ॒हानु॑पो॒दैत्य॑व॒भृथ॑मे॒व तदु॒पावै॑ति ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/53_yadvA_atithipatiratithInpariviShya.md">
 <details open><summary><h3>५३ यद्वा अतिथिपतिरतिथीन्परिविष्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3450,14 +3624,22 @@ guests, then he is even going down unto the purifactory bath
 ##### Notes
 ⌊Ppp. omits *eva tat.*⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Or if the host, having offered food to his guest, goes up to the house, he virtually enters the bath of purification.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्वा अति॑थिपति॒रति॑थीन्परि॒विष्य॑ गृ॒हानु॑पो॒दैत्य॑व॒भृथ॑मे॒व तदु॒पावै॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। वै। अति॑थिऽपतिः। अति॑थीन्। प॒रि॒ऽविष्य॑। गृ॒हान्। उ॒प॒ऽउ॒दैति॑। अ॒व॒ऽभृथ॑म्। ए॒व। तत्। उ॒प॒ऽअवै॑ति। ११.५। 
+यत्। वै। अति॑थिऽपतिः। अति॑थीन्। प॒रि॒ऽविष्य॑। गृ॒हान्। उ॒प॒ऽउ॒दैति॑। अ॒व॒ऽभृथ॑म्। ए॒व। तत्। उ॒प॒ऽअवै॑ति। ११.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3465,18 +3647,22 @@ Or if the host, having offered food to his guest, goes up to the house, he virtu
 - त्रिपदार्ची पङ्क्तिः
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब (वै) ही (अतिथिपतिः) अतिथियों की रक्षा करनेवाला (अतिथीन्) अतिथियों को (परिविष्य) भोजन परसकर (गृहान्) घरों [घरवालों] में (उपोदैति) पहुँचता है, (तत्) तब वह (अवभृथम्) यज्ञसमाप्ति स्नान (एव) ही (उपावैति) प्राप्त करता है ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ अतिथियों का सत्कार करके और अपने घरवालों को तृप्त करके प्रसन्न होवे ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(यत्) यदा (वै) एव (अतिथिपतिः) गृहस्थः (अतिथीन्) अभ्यागतान् (परिविष्य) भोजनं समर्प्य (गृहान्) गृहस्थान् पुरुषान् (उपोदैति) उप+उत्+आ+एति। यथावत् प्राप्नोति (अवभृथम्) अवे भृञः। उ० २।३। अव+डुभृञ् धारणपोषणयोः−क्थन्। यज्ञान्तस्नानम् (एव) (तत्) (उपावैति) उप+अव+एति। प्राप्नोति ॥
@@ -3491,14 +3677,6 @@ Or if the host, having offered food to his guest, goes up to the house, he virtu
 य᳓त्सभाग᳓यति द᳓क्षिणाः सभागयति य᳓दनुति᳓ष्ठत उद᳓वस्यत्येव᳓ त᳓त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/54_yatsabhAgayati_daxiNAH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यत्स॑भा॒गय॑ति॒ दक्षि॑णाः सभागयति॒ यद॑नु॒तिष्ठ॑त उ॒दव॑स्यत्ये॒व तत् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/54_yatsabhAgayati_daxiNAH.md">
 <details open><summary><h3>५४ यत्सभागयति दक्षिणाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3511,14 +3689,22 @@ sacrifice (*ud-ava-sā*).
 ##### Notes
 ⌊Ppp. omits *eva tat*.⌋ ⌊Cf. Oldenberg, IFA. vi. 183.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 When he distributes food he distributes priestly fees; what he performs he asks as favour.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्स॑भा॒गय॑ति॒ दक्षि॑णाः सभागयति॒ यद॑नु॒तिष्ठ॑त उ॒दव॑स्यत्ये॒व तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। स॒भा॒गय॑ति। दक्षि॑णाः। स॒भा॒ग॒य॒ति॒। यत्। अ॒नु॒ऽतिष्ठ॑ते। उ॒त्ऽअव॑स्यति। ए॒व। तत्। ११.६। 
+यत्। स॒भा॒गय॑ति। दक्षि॑णाः। स॒भा॒ग॒य॒ति॒। यत्। अ॒नु॒ऽतिष्ठ॑ते। उ॒त्ऽअव॑स्यति। ए॒व। तत्। ११.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3526,18 +3712,22 @@ When he distributes food he distributes priestly fees; what he performs he asks 
 - आर्ची बृहती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब वह [गृहस्थ अन्न आदि] (सभागयति) बाँटता है, वह [अतिथि] (दक्षिणाः) वृद्धि क्रियाओं को (सभागयति) बाँटता है, [इसलिये] वह [गृहस्थ] (यत्) जब (अनुतिष्ठते) [शास्त्रोक्त कर्म] करता है, (तत्) तब वह [उसको] (एव) निश्चय करके (उदवस्यति) पूरा कर डालता है ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग विद्वानों से उपदेश लेकर शास्त्रोक्त कर्म पूरे करें ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(यत्) यदा (सभागयति) समानश्चासौ भागश्च। तत्करोतीत्युपसंख्यानम्। वा० पा० ३।१।२६। सभाग-णिच्। भागशो ददाति (दक्षिणाः) अ० ५।७।१। दक्ष वृद्धौ−इनन्। वृद्धिक्रियाः (सभागयति) (यत्) (अनुतिष्ठते) विहितं कर्म करोति (उदवस्यति) षो अन्तकर्मणि-लट्। समापयति (एव) (तत्) ॥
@@ -3550,14 +3740,6 @@ When he distributes food he distributes priestly fees; what he performs he asks 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स᳓ उ᳓पहूतः पृथिव्यां᳓ भक्षयत्यु᳓पहूतस्त᳓स्मिन्य᳓त्पृथिव्यां᳓ विश्व᳓रूपम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/55_sa_upahUtaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स उप॑हूतः पृथि॒व्यां भ॑क्षय॒त्युप॑हूत॒स्तस्मि॒न्यत्पृ॑थि॒व्यां वि॒श्वरू॑पम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/55_sa_upahUtaH.md">
@@ -3586,14 +3768,22 @@ of syllables (27) belonging to an *ārcī bṛhatī;* 55, 58, 59 have only 26
 syllables (a number for which the system affords no separate name), and  
 57 has only 24.
 </details>
+
 <details><summary>Griffith</summary>
 
 He having been invited on earth, regales, invited in that, which wears all various forms on earth.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उप॑हूतः पृथि॒व्यां भ॑क्षय॒त्युप॑हूत॒स्तस्मि॒न्यत्पृ॑थि॒व्यां वि॒श्वरू॑पम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। उप॑ऽहूतः। पृ॒थि॒व्याम्। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। पृ॒थि॒व्याम्। वि॒श्वऽरू॑पम्। ११.७। 
+सः। उप॑ऽहूतः। पृ॒थि॒व्याम्। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। पृ॒थि॒व्याम्। वि॒श्वऽरू॑पम्। ११.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3601,18 +3791,22 @@ He having been invited on earth, regales, invited in that, which wears all vario
 - आर्ची बृहती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सः) वह [अतिथि जब] (उपहूतः) बुलाया गया (पृथिव्याम्) पृथिवी पर [वर्तमान अन्न आदि] (भक्षयति) भोगता है, (तस्मिन्) उस [अतिथि] के [भोग करने के] उपरान्त (उपहूतः) बुलाया गया वह [गृहस्थ] (पृथिव्याम्) पृथिवी पर (यत्) जो कुछ (विश्वरूपम्) विविध रूप [वस्तु है, उसे भोगता है] ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अतिथि के सत्कार, सत्सङ्ग, उपदेश और आशीर्वाद से गृहस्थ पृथिवी के सब उत्तम गुणों के ज्ञान से लाभ उठाता है ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(सः) अतिथिः (उपहूतः) कृतावाहनः (पृथिव्याम्) भूमौ वर्तमानं पदार्थजातम् (भक्षयति) भोगयति। परीक्षणेन निश्चिनोति (उपहूतः) कृतावाहनो गृहस्थः (तस्मिन्) अतिथावशितवति (यत्) यत् किंचित् (पृथिव्याम्) (विश्वरूपम्) विविधं द्रव्यम्-तद् भक्षयति, इति शेषः ॥
@@ -3627,14 +3821,6 @@ He having been invited on earth, regales, invited in that, which wears all vario
 स᳓ उ᳓पहूतोऽन्त᳓रिक्षे भक्षयत्यु᳓पहूतस्त᳓स्मिन्य᳓दन्त᳓रिक्षे विश्व᳓रूपम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/56_sa_upahUto-ntarixe.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स उप॑हूतो॒ऽन्तरि॑क्षे भक्षय॒त्युप॑हूत॒स्तस्मि॒न्यद॒न्तरि॑क्षे वि॒श्वरू॑पम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/56_sa_upahUto-ntarixe.md">
 <details open><summary><h3>५६ स उपहूतोऽन्तरिक्षे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3646,14 +3832,22 @@ feeds on\] what of every form \[there is\] in the atmosphere.
 ##### Notes
 Ppp. adds *antarikṣe patanty antarikṣā ”bhāti* ⌊*svargo* etc.⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 He, having been invited in air, regales, invited, in that which wears all various forms in air.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उप॑हूतो॒ऽन्तरि॑क्षे भक्षय॒त्युप॑हूत॒स्तस्मि॒न्यद॒न्तरि॑क्षे वि॒श्वरू॑पम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। उप॑ऽहूतः। अ॒न्तरि॑क्षे। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। अ॒न्तरि॑क्षे। वि॒श्वऽरू॑पम्। ११.८। 
+सः। उप॑ऽहूतः। अ॒न्तरि॑क्षे। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। अ॒न्तरि॑क्षे। वि॒श्वऽरू॑पम्। ११.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3661,18 +3855,22 @@ He, having been invited in air, regales, invited, in that which wears all variou
 - आर्ची बृहती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सः) वह [अतिथि जब] (उपहूतः) बुलाया गया [अन्तरिक्षे] अन्तरिक्ष में [वर्तमान वायु आदि] (भक्षयति) भोगता है, (तस्मिन्) उसके [भोग करने के] उपरान्त (उपहूतः) बुलाया गया वह [गृहस्थ] (अन्तरिक्षे) अन्तरिक्ष में (यत्) जो कुछ (विश्वरूपम्) विविध रूप [वस्तु है, उसे भोगता है] ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो अतिथि अन्तरिक्ष के वायु, मेघमण्डल आदि के धर्मों को साक्षात् कर चुका है, उसके शिष्टाचार से गृहस्थ अन्तरिक्ष के पदार्थों से उपकार लेता है ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(अन्तरिक्षे) अ० १।३०।३। मध्यलोके वर्तमानं वाय्वादिपदार्थजातम्। अन्यत् पूर्ववत् ॥
@@ -3687,14 +3885,6 @@ He, having been invited in air, regales, invited, in that which wears all variou
 स᳓ उ᳓पहूतो दिवि᳓ भक्षयत्यु᳓पहूतस्त᳓स्मिन्य᳓द्दिवि᳓ विश्व᳓रूपम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/57_sa_upahUto.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स उप॑हूतो दि॒वि भ॑क्षय॒त्युप॑हूत॒स्तस्मि॒न्यद्दि॒वि वि॒श्वरू॑पम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/57_sa_upahUto.md">
 <details open><summary><h3>५७ स उपहूतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3706,14 +3896,22 @@ feeds on\] what of every form \[there is\] in the sky.
 ##### Notes
 Ppp. adds *divi tapati divy ā bhāti* ⌊*svargo* etc.⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 He having been invited in the sky, regales, invited, in that which wears all various forms in the sky.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उप॑हूतो दि॒वि भ॑क्षय॒त्युप॑हूत॒स्तस्मि॒न्यद्दि॒वि वि॒श्वरू॑पम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। उप॑ऽहूतः। दि॒व‍ि। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। दि॒वि। वि॒श्वऽरू॑पम्। ११.९। 
+सः। उप॑ऽहूतः। दि॒व‍ि। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। दि॒वि। वि॒श्वऽरू॑पम्। ११.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3721,18 +3919,22 @@ He having been invited in the sky, regales, invited, in that which wears all var
 - आर्ची बृहती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सः) वह [अतिथि जब] (उपहूतः) बुलाया गया (दिवि) सूर्य में [वर्तमान प्रकाश, धारण, आकर्षण आदि गुण] (भक्षयति) भोगता है, (तस्मिन्) उसके [भोग करने के] उपरान्त (उपहूतः) बुलाया गया वह [गृहस्थ] (दिवि) सूर्यलोक में (यत्) जो कुछ (विश्वरूपम्) विविध रूप [वस्तु है, उसे भोगता है] ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ तत्त्वज्ञानी ऋषियों से सूर्यमण्डल, तारागण आदि का ज्ञान प्राप्त करके आत्मा की उन्नति करे ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(दिवि) सूर्यमण्डले वर्तमानं प्रकाशधारणाकर्षणादिगुणम्। अन्यत् पूर्ववत् ॥
@@ -3747,14 +3949,6 @@ He having been invited in the sky, regales, invited, in that which wears all var
 स᳓ उ᳓पहूतो देवे᳓षु भक्षयत्यु᳓पहूतस्त᳓स्मिन्य᳓द्देवे᳓षु विश्व᳓रूपम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/58_sa_upahUto.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स उप॑हूतो दे॒वेषु॑ भक्षय॒त्युप॑हूत॒स्तस्मि॒न्यद्दे॒वेषु॑ वि॒श्वरू॑पम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/58_sa_upahUto.md">
 <details open><summary><h3>५८ स उपहूतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3767,14 +3961,22 @@ on\] what of every form \[there is\] in the worlds.
 Ppp. adds *lokeṣu patati lokeṣu bhāti* ⌊*svargo loko bhavati ya evaṁ  
 veda*⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 He, having been invited among the gods, regales, invited in that which wears all various forms among the Gods.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उप॑हूतो दे॒वेषु॑ भक्षय॒त्युप॑हूत॒स्तस्मि॒न्यद्दे॒वेषु॑ वि॒श्वरू॑पम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। उप॑ऽहूतः। दे॒वेषु॑। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। दे॒वेषु॑। वि॒श्वऽरू॑पम्। ११.१०। 
+सः। उप॑ऽहूतः। दे॒वेषु॑। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। दे॒वेषु॑। वि॒श्वऽरू॑पम्। ११.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3782,18 +3984,22 @@ He, having been invited among the gods, regales, invited in that which wears all
 - आर्ची बृहती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सः) वह [अतिथि जब] (उपहूतः) बुलाया गया (देवेषु) विद्वानों में [वर्तमान ब्रह्मचर्य, वेदाध्ययन, ईश्वरप्रणिधान आदि शुभ गुण] (भक्षयति) भोगता है, (तस्मिन्) उसके [भोग करने के] उपरान्त (उपहूतः) बुलाया गया वह [गृहस्थ] (देवेषु) विद्वानों में (यत्) जो कुछ (विश्वरूपम्) विविध रूप [वस्तु है, उसे भोगता है] ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ ब्रह्मचारी ब्राह्मण से दीक्षा प्राप्त करके पूर्ण ब्रह्मचर्य से धर्मवृद्धि करके आनन्दित होवे ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(देवेषु) विद्वत्सु वर्तमानं ब्रह्मचर्यस्वाध्यायेश्वरप्रणिधानादिशुभगुणम्। अन्यत् पूर्ववत् ॥
@@ -3808,28 +4014,28 @@ He, having been invited among the gods, regales, invited in that which wears all
 स᳓ उ᳓पहूतो लोके᳓षु भक्षयत्यु᳓पहूतस्त᳓स्मिन्य᳓ल्लोके᳓षु वि᳓श्व᳓रूपम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/59_sa_upahUto.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स उप॑हूतो लो॒केषु॑ भक्षय॒त्युप॑हूत॒स्तस्मि॒न्यल्लो॒केषु॑ विश्वरू॑पम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/59_sa_upahUto.md">
 <details open><summary><h3>५९ स उपहूतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 स उप॑हूतो लो॒केषु॑ भक्षय॒त्युप॑हूत॒स्तस्मि॒न्य यल्लो॒केषु॑ वि॒श्वरू॑पम् ।११। ५९॥
 </details>
+
 <details><summary>Griffith</summary>
 
 He, having been invited in the worlds, regales, invited, in that which wears all various forms in the worlds.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उप॑हूतो लो॒केषु॑ भक्षय॒त्युप॑हूत॒स्तस्मि॒न्यल्लो॒केषु॑ विश्वरू॑पम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। उप॑ऽहूतः। लो॒केषु॑। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। लो॒केषु॑। वि॒श्वऽरू॑पम्। ११.१। 
+सः। उप॑ऽहूतः। लो॒केषु॑। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। लो॒केषु॑। वि॒श्वऽरू॑पम्। ११.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3837,18 +4043,22 @@ He, having been invited in the worlds, regales, invited, in that which wears all
 - आर्ची बृहती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सः) वह [अतिथि जब] (उपहूतः) बुलाया गया (लोकेषु) [दीखते हुए] लोकों में [वर्तमान परस्पर सम्बन्ध को] (भक्षयति) भोगता है, (तस्मिन्) उसको [भोग करने के] उपरान्त (उपहूतः) बुलाया गया वह [गृहस्थ] (लोकेषु) लोकों में (यत्) जो कुछ (विश्वरूपम्) विविध रूप [वस्तु है, उसे भोगता है] ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ उत्तम विद्वानों द्वारा सूर्य, चन्द्र, पृथिवी, मङ्गल, बुध, बृहस्पति आदि लोकों के परस्पर सम्बन्ध का ज्ञान प्राप्त करके आत्मोन्नति से महाउपकारी होवे ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(लोकेषु) दृश्यमानेषु भुवनेषु सूर्यचन्द्रपृथिवीमङ्गलबुधबृहस्पत्यादिलोकेषु वर्तमानं परस्परसम्बन्धम्। अन्यत् पूर्ववत् ॥
@@ -3863,14 +4073,6 @@ He, having been invited in the worlds, regales, invited, in that which wears all
 स᳓ उ᳓पहूत उ᳓पहूतः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/60_sa_upahUta.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स उप॑हूत॒ उप॑हूतः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/60_sa_upahUta.md">
 <details open><summary><h3>६० स उपहूत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3880,14 +4082,22 @@ He, having been invited in the worlds, regales, invited, in that which wears all
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 He, having been invited hath been invited.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उप॑हूत॒ उप॑हूतः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। उप॑ऽहूतः। उप॑हूतः। ११.१२। 
+सः। उप॑ऽहूतः। उप॑हूतः। ११.१२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3895,18 +4105,22 @@ He, having been invited hath been invited.
 - एदपदासुरी जगती
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सः) वह [अतिथि जब] (उपहूतः) बुलाया गया है, [तब वह गृहस्थ] (उपहूतः) बुलाया गया, (इमम्) इस (लोकम्) लोक को (आप्नोति) पाता है और (अमुम्) उस [लोक] को (आप्नोति) पाता है ॥१२, १३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सन्तुष्ट अतिथियों के आशीर्वाद अर्थात् ज्ञानदान से गृहस्थ दूरदर्शी और सर्वोपकारी होकर इस लोक और परलोक में सुख भोगता है ॥१२, १३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १२, १३−(आप्नोति) प्राप्नोति (इमम्) वर्तमानम् (लोकम्) जन्म (अमुम्) आगामिनम्। अन्यत् पूर्ववत् ॥
@@ -3919,14 +4133,6 @@ He, having been invited hath been invited.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आप्नो᳓तीमं᳓ लोक᳓माप्नो᳓त्यमु᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/61_ApnotImaM_lokamApnotyamum.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आ॒प्नोती॒मं लो॒कमा॒प्नोत्य॒मुम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/61_ApnotImaM_lokamApnotyamum.md">
@@ -3942,14 +4148,22 @@ repeated word); it seems impossible to give the verse a meaning as it
 stands. Vss. 60-62 are wanting in Ppp. The metrical definition of 61  
 demands the resolution *-ti amúm*.
 </details>
+
 <details><summary>Griffith</summary>
 
 He gains this world and the world yonder.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॒प्नोती॒मं लो॒कमा॒प्नोत्य॒मुम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒प्नोति॑। इ॒मम्। लो॒कम्। आ॒प्नोति॑। अ॒मुम्। ११.१३। 
+आ॒प्नोति॑। इ॒मम्। लो॒कम्। आ॒प्नोति॑। अ॒मुम्। ११.१३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -3957,18 +4171,22 @@ He gains this world and the world yonder.
 - याजुषी त्रिष्टुप्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सः) वह [अतिथि जब] (उपहूतः) बुलाया गया है, [तब वह गृहस्थ] (उपहूतः) बुलाया गया, (इमम्) इस (लोकम्) लोक को (आप्नोति) पाता है और (अमुम्) उस [लोक] को (आप्नोति) पाता है ॥१२, १३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सन्तुष्ट अतिथियों के आशीर्वाद अर्थात् ज्ञानदान से गृहस्थ दूरदर्शी और सर्वोपकारी होकर इस लोक और परलोक में सुख भोगता है ॥१२, १३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १२, १३−(आप्नोति) प्राप्नोति (इमम्) वर्तमानम् (लोकम्) जन्म (अमुम्) आगामिनम्। अन्यत् पूर्ववत् ॥
@@ -3981,14 +4199,6 @@ He gains this world and the world yonder.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ज्यो᳓तिष्मतो लोका᳓ञ्जयति य᳓ एवं᳓ वे᳓द ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/62_jyotiShmato_lokAnjayati.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ज्योति॑ष्मतो लो॒काञ्ज॑यति॒ य ए॒वं वेद॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/62_jyotiShmato_lokAnjayati.md">
@@ -4015,14 +4225,22 @@ follows: I. *av.*, 17; II. *av.*, 13; III. *av.*, 9; IV. *av.*, 5;
 *artha-sūkta* of 38 verses and 1 *paryāya-sūkta* with 6 *paryāyas* and  
 62 verses.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 He who hath this knowledge wins the luminous spheres.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ज्योति॑ष्मतो लो॒काञ्ज॑यति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ज्योति॑ष्मतः। लो॒कान्। ज॒य॒ति॒। यः। ए॒वम्। वेद॑। ११.१४। 
+ज्योति॑ष्मतः। लो॒कान्। ज॒य॒ति॒। यः। ए॒वम्। वेद॑। ११.१४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अतिथिः, विद्या
@@ -4030,18 +4248,22 @@ He who hath this knowledge wins the luminous spheres.
 - एकपदासुर्युष्णिक्
 - अतिथि सत्कार
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [गृहस्थ] (ज्योतिष्मतः) प्रकाशमय (लोकान्) लोकों को (जयति) जीतता है, (यः) जो (एवम्) ऐसा (वेद) जानता है ॥१४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  पूर्वोक्त प्रकार से अतिथिसेवा और विद्याप्राप्ति करके गृहस्थ ज्ञान प्रकाश के कारण सर्वत्रगति हो जाता है ॥१४॥  इति तृतीयोऽनुवाकः ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १४−(ज्योतिष्मतः) ज्ञानप्रकाशमयान् (लोकान्) ज्ञानदशाविशेषान् (जयति) उत्कर्षेण प्राप्नोति। अन्यत् पूर्ववत् ॥१४॥

@@ -8,15 +8,18 @@ title = "०२८ पापमोचनम्"
 
 28. Praise and prayer to Bhava and śarva.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 पापमोचनम् ।  
 १-७ मृगारोऽथर्वा वा । भवाशर्वौ रुद्रो वा । त्रिष्टुप्, १ अतिजागतगर्भा भुरिक्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Mṛgāra.—(see h. 23). 1. dvyatijāgatagarbhā bhurij.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found in Pāipp. iv. (next after our h. 26), but having nothing correspondent to
 #### Translations
 Translated: Muir, OST. iv.2 332; Griffith, i. 169; Bloomfield, 158, 406; Weber, xviii. 111.
 </details>
+
 <details><summary>Griffith</summary>
 
 A hymn to Bhava and Sarva
@@ -39,15 +43,6 @@ A hymn to Bhava and Sarva
 
 भ᳓वाशर्वौ मन्वे᳓ वां त᳓स्य वित्तं य᳓योर्वामिदं᳓ प्रदि᳓शि य᳓द्विरो᳓चते।  
 या᳓वस्ये᳓शाथे द्विप᳓दो यौ᳓ च᳓तुष्पदस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/01_bhavAsharvau_manve.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-भवा॑शर्वौ म॒न्वे वां॒ तस्य॑ वित्तं॒ ययो॑र्वामि॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/01_bhavAsharvau_manve.md">
@@ -67,14 +62,23 @@ Bp.) have *asya* (but *asyá*, correctly, in 6 **c**). The expression in
 comm., the name Bhava signifies *bhavaty asmāt sarvaṁ jagad;* and śarva,  
 *śṛṇāti hinasti sarvam antakāle*.
 </details>
+
 <details><summary>Griffith</summary>
 
 I Reverence you--mark this--Bhava and Sarva, ye under whose control is this that shineth. Lords of this world both quadruped and biped. Deliver us, ye twain, from grief and trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+भवा॑शर्वौ म॒न्वे वां॒ तस्य॑ वित्तं॒ ययो॑र्वामि॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भवा॑शर्वौ॑। म॒न्वे। वा॒म्। तस्य॑। वि॒त्त॒म्। ययोः॑। वा॒म्। इ॒दम्। प्र॒ऽदिशि॑। यत्। वि॒ऽरोच॑ते। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.१। 
+भवा॑शर्वौ॑। म॒न्वे। वा॒म्। तस्य॑। वि॒त्त॒म्। ययोः॑। वा॒म्। इ॒दम्। प्र॒ऽदिशि॑। यत्। वि॒ऽरोच॑ते। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भवाशर्वौ रुद्रो वा
@@ -82,18 +86,22 @@ I Reverence you--mark this--Bhava and Sarva, ye under whose control is this that
 - अतिजागतगर्भा भुरिक्त्रिष्टुप्
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (भवाशर्वौ) हे सुख उत्पन्न करने हारे और शत्रुनाशक [परमेश्वर के गुणो !] (वाम्) तुम दोनों का (मन्वे) मैं मनन करता हूँ। (तस्य) उस [जगत्] का (वित्तम्) वे तुम दोनों ज्ञान रखते हो, (ययोः-वाम्) जिन तुम दोनों के (प्रदिशि) शासन में (इदम्) यह (यत्) जो कुछ जगत् (विरोचते) प्रकाशमान है। (यौ) जो तुम दोनों (अस्य) इस (द्विपदः) दो पाये समूह के और (यौ) जो तुम दोनों (चतुष्पदः) चौपाये संसार के (ईशाथे) ईश्वर हो, (तौ) वे तुम दोनों (नः) हमें (अंहसः) कष्ट से (मुञ्चतम्) छुड़ावो ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर सर्वजनक सर्वशासक और सर्वज्ञ है, उसकी उपासना करके सब मनुष्य सुखी रहें ॥१॥  इस सूक्त में गुणों के वर्णन से गुणी अर्थात् ईश्वर का ग्रहण है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(भवाशर्वौ) भवत्युत्पद्यते सुखमस्मादिति भवः। सुखोत्पादको गुणः। कॄगॄशॄदॄभ्यो वः। उ० १।१५५। इति शॄ हिंसायां च। शत्रुनाशको गुणः। भवश्च शर्वश्च भवाशर्वौ परमेश्वरस्य गुणौ। देवताद्वन्द्वे च। पा० ६।३।२६। इति आनङ्। अस्मिन् सूक्ते गुणग्रहणेन गुणिग्रणम्। (मन्वे) मननं करोमि (वाम्) युवयोः (तस्य) जगतः (वित्तम्) लडर्थे लोट्। वित्थः। वेदनं ज्ञानं कुरुथः (ययोः) (वाम्) युवयोः (इदम्) दृश्यमानं गमनशीलं वा जगत् (प्रदिशि) प्रदेशने प्रशासने (यत्) यत्किञ्चित् (विरोचते) रुच दीप्तौ। प्रकाशते (यौ) (अस्य) वर्तमानस्य (ईशाथे) ईश्वरौ भवथः (द्विपदः) पादद्वयोपेतस्य प्राणिमात्रस्य (चतुष्पदः) पादचतुष्टयोपेतस्य गवादेः (तौ) भवाशर्वौ (नः) अस्मान् (मुञ्चतम्) मोचयतम् (अंहसः) कष्टात् ॥
@@ -107,15 +115,6 @@ I Reverence you--mark this--Bhava and Sarva, ye under whose control is this that
 
 य᳓योरभ्यध्व᳓ उत᳓ य᳓द्दूरे᳓ चिद्यौ᳓ विदिता᳓विषुभृ᳓ताम᳓सिष्ठौ।  
 या᳓वस्ये᳓शाथे द्विप᳓दो यौ᳓ च᳓तुष्पदस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ययो॑रभ्य॒ध्व उ॒त यद्दू॒रे चि॒द्यौ वि॑दि॒तावि॑षु॒भृता॒मसि॑ष्ठौ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
@@ -134,14 +133,23 @@ our **c**. The comm., with a couple of SPP's mss., has *iṣubhṛ́tāu* for
 *-tām* in **b**. He explains *abhyadhve* by *samīpadeśe*. Perhaps **a**  
 means rather 'on whose way \[is\] even whatever is afar.'
 </details>
+
 <details><summary>Griffith</summary>
 
 Lords of all near and even of what is distant, famed as the best and skilfullest of archers, Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ययो॑रभ्य॒ध्व उ॒त यद्दू॒रे चि॒द्यौ वि॑दि॒तावि॑षु॒भृता॒मसि॑ष्ठौ।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ययोः॑। अ॒भि॒ऽअ॒ध्वे। उ॒त। यत्। दू॒रे। चि॒त्। यौ। वि॒दि॒तौ। इ॒षु॒ऽभृता॑म्। असि॑ष्ठौ। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.२। 
+ययोः॑। अ॒भि॒ऽअ॒ध्वे। उ॒त। यत्। दू॒रे। चि॒त्। यौ। वि॒दि॒तौ। इ॒षु॒ऽभृता॑म्। असि॑ष्ठौ। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भवाशर्वौ रुद्रो वा
@@ -149,18 +157,22 @@ Lords of all near and even of what is distant, famed as the best and skilfullest
 - त्रिष्टुप्
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ययोः) जिन दोनों का [वह सब है] (यत् चित्) जो कुछ (अभ्यध्वे) समीप में (उत) और (दूरे) दूर देश में है। (यौ) जो तुम दोनों (इषुभृताम्) हिंसाकारियों के (असिष्ठौ) अत्यन्त गिरानेवाले (विदितौ) विदित हो। (यौ) जो तुम दोनों (अस्य) इस (द्विपदः) दो पाये..... म० १ ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर सर्वान्तर्यामी और शत्रुनाशक है, हम उसकी उपासना से सदा पुरुषार्थी रहें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(ययोः) भवाशर्वयोः (अभ्यध्वे) अभि अध्वनः अभ्यध्वः। उपसर्गादध्वनः। पा० ५।४।८५। इति अच् समासान्तः। समीपदेशे (उत) अपि (यत् चित्) यत्किञ्चित् (दूरे) दूरदेशे (यौ) भवाशर्वौ (विदितौ) प्रज्ञातौ (इषुभृताम्) ईष हिंसायाम्-कु, ह्रस्वश्च। डुभृञ् धारणपोषणयोः-क्विप्-तुक् च। हिंसाधारकाणाम् (असिष्ठौ) तुश्छन्दसि। पा० ५।३।५९। इति असितृ-इष्ठन्। तुरिष्ठेमेयस्सु। पा० ६।४।१५४। इति तृलोपः। असितृतमौ। क्षेप्तृतमौ। अन्यत् पूर्ववत्-म० १ ॥
@@ -174,15 +186,6 @@ Lords of all near and even of what is distant, famed as the best and skilfullest
 
 स᳙हस्राक्षौ᳓ वृत्रह᳓णा हुवेहं᳓ दूरे᳓गव्यूती स्तुव᳓न्नेम्युग्रौ᳓।  
 या᳓वस्ये᳓शाथे द्विप᳓दो यौ᳓ च᳓तुष्पदस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स॑हस्रा॒क्षौ वृ॑त्र॒हणा॑ हुवे॒हं दू॒रेग॑व्यूती स्तु॒वन्ने॑म्यु॒ग्रौ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
@@ -202,14 +205,23 @@ different, but equally absurd, explanations after his manner ⌊cf.
 *Festgruss an Roth*, p. 91⌋). Ppp. has in **a, b** *huve vā dūrehetī  
 sunemi ugrāu*. ⌊Add *avasāna*-mark after *ugrāu*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Thousand-eyed foe-destroyers, I invoke you, still praising you the strong, of wide dominion: Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑हस्रा॒क्षौ वृ॑त्र॒हणा॑ हुवे॒हं दू॒रेग॑व्यूती स्तु॒वन्ने॑म्यु॒ग्रौ।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒ह॒स्र॒ऽअ॒क्षौ। वृ॒त्र॒ऽहना॑। हु॒वे॒। अ॒हम्। दू॒रेग॑व्यूती॒ इति॑ दू॒रेऽग॑व्यूती। स्तु॒वन्। ए॒मि॒। उ॒ग्रौ। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.३। 
+स॒ह॒स्र॒ऽअ॒क्षौ। वृ॒त्र॒ऽहना॑। हु॒वे॒। अ॒हम्। दू॒रेग॑व्यूती॒ इति॑ दू॒रेऽग॑व्यूती। स्तु॒वन्। ए॒मि॒। उ॒ग्रौ। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भवाशर्वौ रुद्रो वा
@@ -217,18 +229,22 @@ Thousand-eyed foe-destroyers, I invoke you, still praising you the strong, of wi
 - त्रिष्टुप्
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अहम्) मैं (स्तुवन्) स्तुति करता हुआ (उग्रौ) उग्र स्वभाववाले, (सहस्राक्षौ) सहस्रों व्यवहारों में व्यापक रहनेवाले वा दृष्टि रखनेवाले, (वृत्रहणा=०-णौ) शत्रुओं वा अन्धकारके नाश करनेवाले, (दूरेगव्यूती) दूर तक प्रकाश का संयोग रखनेवाले, दोनों को (हुवे) मैं पुकारता हूँ और (एमि) प्राप्त होता हूँ। (यौ) जो तुम दोनों (अस्य) इस (द्विपदः) दो पाये.... म० १ ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर सर्वव्यापक, सर्वदर्शक, शत्रु वा अज्ञाननाशक और सूर्य आदि लोकों का प्रकाशक है, उसकी स्तुति उपासना करके हम सदा पुरुषार्थ करें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(सहस्राक्षौ) अ० ४।२०।४। बहुव्यवहारव्यापकौ। यद्वा। सर्वतोदत्तदृष्टी स्थूलसूक्ष्मविषयेष्वपि प्राप्तदर्शनौ। (वृत्रहणा) अ० १।२१।१। शत्रुनाशकौ। अन्धकारनिवारकौ (हुवे) आह्वयामि (अहम्) मनुष्यः (दूरेगव्यूती) दूरे+गो+यूती। दुरीणो लोपश्च। उ० २।२०। इति दुर्+इण् गतौ-रक् धातुलोपश्च। इति दूरं विप्रकृष्टम्। गमेर्डोः। उ० २।६७। इति गम्लृ गतौ-डो प्रत्ययः। ऊतियूतिजूति०। पा० ३।३।९७। इति यु मिश्रणामिश्रणयोः-क्तिन्। निपातनात् साधुः। गोर्यूतौ छन्दसि। वा० पा० ६।१।७९। इति अव् आदेशः। रश्मयो गाव उच्यन्ते-निरु० २।६। दूरे दूरदेशे गवां रश्मीनां प्रकाशानां यूतिः संयोगो ययोस्तौ। सर्वलोकप्रकाशकौ-इत्यर्थः (स्तुवन्) प्रशंसन् सन् (एमि) प्राप्नोमि (उग्रौ) तीक्ष्णस्वभावौ। अन्यत् पूर्ववत् म० १ ॥
@@ -242,15 +258,6 @@ Thousand-eyed foe-destroyers, I invoke you, still praising you the strong, of wi
 
 या᳓वारेभा᳓थे बहु᳓ साक᳓म᳓ग्रे प्र᳓ चे᳓द᳓स्राष्ट्रमभिभां᳓ ज᳓नेषु।  
 या᳓वस्ये᳓शाथे द्विप᳓दो यौ᳓ च᳓तुष्पदस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यावा॑रे॒भाथे॑ ब॒हु सा॒कमग्रे॒ प्र चेदस्रा॑ष्ट्रमभि॒भां जने॑षु।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
@@ -269,14 +276,23 @@ to *-ṭam*, but which SPP. retains, though the comm. gives *-ṭam*. Ppp.
 has the better reading *ugrāu* for *agre* in **a**. The comm. treats  
 *bahú sākám*, in spite of accents, as one word, = *janasaṁgham*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Ye who of old wrought many a deed in concert, and showed among mankind unhappy omens; Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यावा॑रे॒भाथे॑ ब॒हु सा॒कमग्रे॒ प्र चेदस्रा॑ष्ट्रमभि॒भां जने॑षु।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यौ। आ॒रे॒भाथे॒। इत्या॑ऽरे॒भाथे॑। ब॒हु॒। सा॒कम्। अग्रे॑। प्र। च॒। इत्। अस्रा॑ष्ट्रम्। अ॒भि॒ऽभाम्। जने॑षु। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.४। 
+यौ। आ॒रे॒भाथे॒। इत्या॑ऽरे॒भाथे॑। ब॒हु॒। सा॒कम्। अग्रे॑। प्र। च॒। इत्। अस्रा॑ष्ट्रम्। अ॒भि॒ऽभाम्। जने॑षु। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भवाशर्वौ रुद्रो वा
@@ -284,18 +300,22 @@ Ye who of old wrought many a deed in concert, and showed among mankind unhappy o
 - त्रिष्टुप्
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यौ) जिन तुम दोनों ने (बहु) बहुत सा जगत् (साकम्) एक साथ (अग्रे) पूर्वकाल में (आरेभाथे) आरम्भ किया (च) और जिन तुम दोनों ने (इत्) ही (जनेषु) प्राणियों में (अभिभाम्) प्रतिभा अर्थात् बुद्धि को (प्र अस्राष्ट्रम्) अच्छे प्रकार उत्पन्न किया। (यौ) जो तुम दोनों (अस्य) इस (द्विपदः) दो पाये.... म० १ ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर ने सृष्टि को उत्पन्न करके प्राणियों में इष्ट अनिष्ट और सुख-दुःख जानने के लिये बुद्धि दी है, उसकी ही भक्ति से हम सदा प्रसन्न रहें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(यौ) भवाशर्वौ (आरेभाथे) रभ राभस्ये=उपक्रमे-लुङ्। आरब्धवन्तौ (बहु) प्रभूतं जगत् (साकम्) सह (अग्रे) आदौ (प्र) प्रकर्षेण (च) (इत्) एव (अस्राष्ट्रम्) सृज विसर्गे छान्दसं लुङि रूपम्। अस्राष्ट्रम्। सृष्टवन्तौ। उत्पादितवन्तौ (अभिभाम्) भा क्विप्। प्रतिभां बुद्धिम्। (जनेषु) उत्पन्नेषु प्राणिषु। अन्यत् पूर्ववत् म० १ ॥
@@ -311,15 +331,6 @@ Ye who of old wrought many a deed in concert, and showed among mankind unhappy o
 या᳓वस्ये᳓शाथे द्विप᳓दो यौ᳓ च᳓तुष्पदस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ययो॑र्व॒धान्नाप॒पद्य॑ते॒ कश्च॒नान्तर्दे॒वेषू॒त मानु॑षेषु।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
 <details open><summary><h3>०५ ययोर्वधान्नापपद्यते कश्चनान्तर्देवेषूत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -331,14 +342,23 @@ gods and among men (*mā́nuṣa*); who lord it etc. etc.
 ##### Notes
 Ppp. reads in **a, b** *kiṁ canā ’ntar deveṣu uta*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Ye from the stroke of whose destroying weapon not one among the Gods or men escapeth, Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ययो॑र्व॒धान्नाप॒पद्य॑ते॒ कश्च॒नान्तर्दे॒वेषू॒त मानु॑षेषु।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ययोः॑। व॒धात्। न। अ॒प॒ऽपद्य॑ते। कः। च॒न। अ॒न्तः। दे॒वेषु॑। उ॒त। मानु॑षेषु। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.५। 
+ययोः॑। व॒धात्। न। अ॒प॒ऽपद्य॑ते। कः। च॒न। अ॒न्तः। दे॒वेषु॑। उ॒त। मानु॑षेषु। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भवाशर्वौ रुद्रो वा
@@ -346,18 +366,22 @@ Ye from the stroke of whose destroying weapon not one among the Gods or men esca
 - त्रिष्टुप्
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ययोः) जिन तुम दोनों के (वधात्) हनन सामर्थ्य से (देवेषु) प्रकाशमान सूर्य आदि लोकों (उत) और (मानुषेषु अन्तः) मनुष्यों के बीच (कश्चन) कोई भी (न) नहीं (अपपद्यते) छूटकर जाता है। (यौ) जो तुम दोनों (अस्य) इस (द्विपदः) दो पाये.... म० १ ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सर्वनियन्ता जगदीश्वर की आज्ञा पालन करके सब मनुष्य आनन्द प्राप्त करें ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(ययोः) भवाशर्वयोः (वधात्) अ० १।२०।२। हननसामर्थ्यात् (न) निषेधे (अपपद्यते) अपेत्य गच्छति (कश्चन) कोऽपि (अन्तः) मध्ये (देवेषु) प्रकाशमानेषु सूर्यादिलोकेषु (उत) अपि च (मानुषेषु) अ० ४।१४।५। मनुष-अण्। मनुष्येषु। अन्यत् पूर्ववत् म० १ ॥
@@ -371,15 +395,6 @@ Ye from the stroke of whose destroying weapon not one among the Gods or men esca
 
 यः᳓ कृत्याकृ᳓न्मूलकृ᳓द्यातुधा᳓नो नि᳓ त᳓स्मिन्धत्तं व᳓ज्रमुग्रौ᳓।  
 या᳓वस्ये᳓शाथे द्विप᳓दो यौ᳓ च᳓तुष्पदस्तौ᳓ नो मुञ्चतमं᳓हसः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यः कृ॑त्या॒कृन्मू॑ल॒कृद्या॑तु॒धानो॒ नि तस्मि॑न्धत्तं॒ वज्र॑मु॒ग्रौ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
@@ -399,14 +414,23 @@ might also guess *mūrakṛ́t* ⌊see Weber's comment, p. 114⌋. Most of our
 mss. (all save H.p.m.K.D.), and the majority of SPP's, have the false  
 reading *dhattām* in **b**; both editions give *-tam*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Hurl your bolt, strong Gods, at the Yatudhana, him who makes ready roots and deals in magic: Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यः कृ॑त्या॒कृन्मू॑ल॒कृद्या॑तु॒धानो॒ नि तस्मि॑न्धत्तं॒ वज्र॑मु॒ग्रौ।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। कृ॒त्या॒ऽकृत्। मू॒ल॒ऽकृत्। या॒तु॒ऽधानः॑। नि। तस्मि॑न्। ध॒त्त॒म्। वज्र॑म्। उ॒ग्रौ॒। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.६। 
+यः। कृ॒त्या॒ऽकृत्। मू॒ल॒ऽकृत्। या॒तु॒ऽधानः॑। नि। तस्मि॑न्। ध॒त्त॒म्। वज्र॑म्। उ॒ग्रौ॒। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भवाशर्वौ रुद्रो वा
@@ -414,18 +438,22 @@ Hurl your bolt, strong Gods, at the Yatudhana, him who makes ready roots and dea
 - त्रिष्टुप्
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो (कृत्याकृत्) हिंसाकारी (मूलकृत्) मूल कतरनेवाला और (यातुधानः) पीड़ा देनेवाला पुरुष है, (तस्मिन्) उसपर (उग्रौ) हे उग्र स्वभाववाले तुम दोनों (वज्रम्) वज्र (निधत्तम्) गिरावो (यौ) जो तुम दोनों (अस्य) इस (द्विपदः) दो पाये समूह के और (यौ) जो तुम दोनों (चतुष्पदः) चौपाये संसार के (ईशाथे) ईश्वर हो, (तौ) वे तुम दोनों (नः) हमें (अंहसः) कष्ट से (मुञ्चतम्) छुड़ावो ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर दुष्टनाशक और शिष्टरक्षक है, उसकी ही उपासना से मनुष्य बलवान् होवें ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(यः) शत्रुः (कृत्याकृत्) अ० ४।१७।४। हिंसाकारकः (मूलकृत्) मूल+कृती छेदने-क्विप्। मूलकर्तकः। प्रतिष्ठाछेदकः (यातुधानः) अ० १।७।१। यातनाकरः। पीडाकारकः (तस्मिन्) यातुधाने (निधत्तम्) निक्षिपतम् (वज्रम्) अ० १।७।७। दण्डरूपं कुठारम् (उग्रौ) प्रचण्डस्वभावौ। अन्यत् पूर्ववत् म० १ ॥
@@ -439,15 +467,6 @@ Hurl your bolt, strong Gods, at the Yatudhana, him who makes ready roots and dea
 
 अ᳓धि नो ब्रूतं पृ᳓तनासूग्रौ सं᳓ व᳓ज्रेण सृजतं यः᳓ किमीदी᳓।  
 स्तौ᳓मि भवाशर्वौ᳓ नाथितो᳓ जोहवीमि तौ᳓ नो मुञ्चतमं᳓हसः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/07_adhi_no.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अधि॑ नो ब्रूतं॒ पृत॑नासूग्रौ॒ सं वज्रे॑ण सृजतं॒ यः कि॑मी॒दी।  
-स्तौमि॑ भवाश॒र्वौ ना॑थि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/07_adhi_no.md">
@@ -465,14 +484,23 @@ Ppp. reads *me* for *nas* in **a**, and leaves *-su ugrāu* uncombined.
 ⌊Its closing half-verse is as in the Vulgate (as may be inferred from  
 the note to vs. 2).⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Comfort and aid us, ye strong Gods, in battles, at each Kimidin send your bolt of thunder. I, suppliant, praise and ever call on Bhav and Sarva. Set us free from grief and trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अधि॑ नो ब्रूतं॒ पृत॑नासूग्रौ॒ सं वज्रे॑ण सृजतं॒ यः कि॑मी॒दी।  
+स्तौमि॑ भवाश॒र्वौ ना॑थि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अधि॑। नः॒। ब्रू॒त॒म्। पृत॑नासु। उ॒ग्रौ॒। सम्। वज्रे॑ण। सृ॒ज॒त॒म्। यः। कि॒मी॒दी। स्तौमि॑। भ॒वा॒श॒र्वौ। ना॒थि॒तः। जो॒ह॒वी॒मि॒। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.७। 
+अधि॑। नः॒। ब्रू॒त॒म्। पृत॑नासु। उ॒ग्रौ॒। सम्। वज्रे॑ण। सृ॒ज॒त॒म्। यः। कि॒मी॒दी। स्तौमि॑। भ॒वा॒श॒र्वौ। ना॒थि॒तः। जो॒ह॒वी॒मि॒। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भवाशर्वौ रुद्रो वा
@@ -480,18 +508,22 @@ Comfort and aid us, ye strong Gods, in battles, at each Kimidin send your bolt o
 - त्रिष्टुप्
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उग्रौ) हे उग्र स्वभाववाले तुम दोनों (नः) हम से (पृतनासु) संग्रामों में (अधि) अनुग्रह से (ब्रूतम्) बोलो और [उसको] (वज्रेण) वज्र के साथ (सम् सृजतम्) संयुक्त करो (यः) जो (किमीदी) अब क्या हो रहा है, यह क्या हो रहा है, ऐसा खोजनेवाला लुतरा पुरुष है। (नाथितः) मैं अधीन होकर (भवाशर्वौ) सुख उत्पन्न करनेवाले और शत्रुनाश करनेवाले तुम दोनों को (स्तौमि) सराहता हूँ और (जोहवीमि) बारंबार पुकारता हूँ। (तौ) वे तुम दोनों (नः) हमें (अंहसः) कष्ट से (मुञ्चतम्) छुड़ावो ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सदाचारी और सत्यवादी होकर शत्रुओं को संग्राम में जीतें और परमेश्वर की उपासना करके सदा प्रसन्न रहें ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(अधिब्रूतम्) अधिकमनुग्रहेण वदतम् (नः) अस्मभ्यम् (पृतनासु) संग्रामेषु (वज्रेण) (संसृतम्) संयोजयतम् (यः) पुरुषः (किमीदी) अ० १।७।१। किमिदानीं वर्तते किमिदं वर्तते-इत्येवमन्वेषणं कुर्वाणः। पिशुनः (स्तौमि) प्रशंसामि (भवाशर्वौ) सुखजनकशत्रुनाशकौ परमेश्वरगुणौ (नाथितः) अ० ४।२३।७। नाथवान्। अधीनः (जोहवीमि) पुनः पुनराह्वयामि। अन्यत् पूर्ववत् ॥

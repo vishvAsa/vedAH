@@ -8,15 +8,18 @@ title = "०६० अङ्गानि"
 
 60. For physical abilities.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 अङ्गानि।  
 १-२ ब्रह्मा। वाक्, अङ्गानि च। १ पथ्याबृहती, २ ककुम्मती पुर उष्णिक्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—dvyṛcam. mantroktavāgādidāivatam. 1. pathyābṛhatī; 2. kakummatī purauṣṇih.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ title = "०६० अङ्गानि"
 #### Translations
 Translated: Griffith, ii. 317.
 </details>
+
 <details><summary>Griffith</summary>
 
 A prayer for perfect bodily and mental health and vigour
@@ -39,15 +43,6 @@ A prayer for perfect bodily and mental health and vigour
 
 वा᳓ङ्म आस᳓न्नसोः᳓ प्राण᳓श्च᳓क्षुरक्ष्णोः᳓ श्रो᳓त्रं क᳓र्णयोः।  
 अ᳓पलिताः के᳓शा अ᳓शोणा द᳓न्ता बहु᳓ बाह्वो᳓र्ब᳓लम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/060_angAni/01_vA~Nma_AsannasoH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वाङ्म॑ आ॒सन्न॒सोः प्रा॒णश्चक्षु॑र॒क्ष्णोः श्रोत्रं॒ कर्ण॑योः।  
-अप॑लिताः॒ केशा॒ अशो॑णा॒ दन्ता॑ ब॒हु बा॒ह्वोर्बल॑म् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/060_angAni/01_vA~Nma_AsannasoH.md">
@@ -77,14 +72,23 @@ and as in the parallel texts); yet further, *ápalitā kéśā* ⌊or *keśā́*
 suggests *áśīrṇā d-*, which is decidedly preferable, and is implied in  
 the translation.
 </details>
+
 <details><summary>Griffith</summary>
 
 May I have voice in my mouth, breath in my nostrils, sight in mine eyes, hearing in mine ears, hair that hath not turned gray, teeth free from yellowness, and much strength in mine arms.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वाङ्म॑ आ॒सन्न॒सोः प्रा॒णश्चक्षु॑र॒क्ष्णोः श्रोत्रं॒ कर्ण॑योः।  
+अप॑लिताः॒ केशा॒ अशो॑णा॒ दन्ता॑ ब॒हु बा॒ह्वोर्बल॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वाक्। मे॒। आ॒सन्। न॒सोः। प्रा॒णः। चक्षुः॑। अ॒क्ष्णोः। श्रोत्र॑म्। कर्ण॑योः। अप॑लिताः। केशाः॑। अशो॑णाः। दन्ताः॑। ब॒हु। बा॒ह्वोः। बल॑म्। ६०.१। 
+वाक्। मे॒। आ॒सन्। न॒सोः। प्रा॒णः। चक्षुः॑। अ॒क्ष्णोः। श्रोत्र॑म्। कर्ण॑योः। अप॑लिताः। केशाः॑। अशो॑णाः। दन्ताः॑। ब॒हु। बा॒ह्वोः। बल॑म्। ६०.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः, वाक्
@@ -92,18 +96,22 @@ May I have voice in my mouth, breath in my nostrils, sight in mine eyes, hearing
 - पथ्याबृहती
 - अङ्ग सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शरीर के स्वास्थ्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमात्मन् !] (मे) मेरे (आसन्) मुख में (वाक्) वाणी, (नसोः) दोनों नथनों में (प्राणः) प्राण, (अक्ष्णोः) दोनों आँखों में (चक्षुः) दृष्टि, (कर्णयोः) दोनों कानों में (श्रोत्रम्) सुनने की शक्ति, (केशाः) केश (अपलिताः) अनभूरे, (दन्ताः) दाँत (अशोणाः) अचलायमान [वा अरक्त वर्ण], और (बाह्वोः) दोनों भुजाओं में (बहु) बहुत (बलम्) बल [होवे] ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को उचित आहार-विहार, व्यायाम, योगाभ्यास आदि से अपने शरीर और आत्मा दृढ़ रखने चाहिएँ ॥१, २॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(वाक्) वाणी (मे) मम (आसन्) आस्नि। आस्ये। मुखे (नसोः) नासिकाच्छिद्रयोः (प्राणः) शरीरधारको वायुः (चक्षुः) दृष्टिः (अक्ष्णोः) नेत्रयोः (श्रोत्रम्) श्रुतिः (कर्णयोः) श्रवणयोः (अपलिताः) अश्वेताः (केशाः) (अशोणाः) शोण गतौ-अच्। अचलायमानाः। अरक्तवर्णाः (दन्ताः) (बहु) प्रभूतम् (बाह्वोः) भुजयोः (बलम्) सामर्थ्यम् ॥
@@ -117,15 +125,6 @@ May I have voice in my mouth, breath in my nostrils, sight in mine eyes, hearing
 
 ऊर्वो᳓रो᳓जो ज᳓ङ्घयोर्जवः᳓ पा᳓दयोः।  
 प्र᳙तिष्ठा᳓ अ᳓रिष्टानि मे स᳓र्वात्मा᳓निभृष्टः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/060_angAni/02_Urvorojo_janghayorjavaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ऊ॒र्वोरोजो॒ जङ्घ॑योर्ज॒वः पाद॑योः।  
-प्र॑ति॒ष्ठा अरि॑ष्टानि मे॒ सर्वा॒त्मानि॑भृष्टः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/060_angAni/02_Urvorojo_janghayorjavaH.md">
@@ -159,14 +158,23 @@ masc. *javá* is oxytone, and the neuter *jávas* is paroxytone; but at
 iii. 50. 2 and iv. 27. 1 we have the adjective stem *javás:* cf. *Gram.*  
 §1 151. 2. e.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 May I have power in my thighs, swiftness in my legs, stedfast- ness in my feet. May all my members be uninjured and my soul unimpaired.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऊ॒र्वोरोजो॒ जङ्घ॑योर्ज॒वः पाद॑योः।  
+प्र॑ति॒ष्ठा अरि॑ष्टानि मे॒ सर्वा॒त्मानि॑भृष्टः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऊ॒र्वोः। ओजः॑। जङ्घ॑योः। ज॒वः। पाद॑योः। प्र॒ति॒ऽस्था। अरि॑ष्टानि। मे॒। सर्वा॑। आ॒त्मा। अनि॑ऽभृष्टः। ६०.२। 
+ऊ॒र्वोः। ओजः॑। जङ्घ॑योः। ज॒वः। पाद॑योः। प्र॒ति॒ऽस्था। अरि॑ष्टानि। मे॒। सर्वा॑। आ॒त्मा। अनि॑ऽभृष्टः। ६०.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः, वाक्
@@ -174,18 +182,22 @@ May I have power in my thighs, swiftness in my legs, stedfast- ness in my feet. 
 - ककुम्मतीपुरउष्णिक्
 - अङ्ग सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शरीर के स्वास्थ्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ऊर्वोः) दोनों जङ्घाओं में (ओजः) सामर्थ्य (जङ्घयोः) दोनों घुटनों [पिण्डलियों वा नीचे की जाँघों] में (जवः) वेग, (पादयोः) दोनों पैरों में (प्रतिष्ठा) जमाव [दृढ़ता], (मे) मेरे (सर्वा) सब [अङ्ग] (अरिष्टानि) निर्दोष और (आत्मा) आत्मा (अनिभृष्टः) बिना नीचे गिरा हुआ [होवे] ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को उचित आहार-विहार, व्यायाम, योगाभ्यास आदि से अपने शरीर और आत्मा दृढ़ रखने चाहिएँ ॥१, २॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   मन्त्र २ में (प्रतिष्ठा अरिष्टानि) पदों में सन्धि न होने से जाना जाता है कि (पादयोः) पर अवसान होने के स्थान में (प्रतिष्ठा) पर अवसान होना चाहिये ॥  २−(ऊर्वोः) जानूपरिभागयोः (ओजः) सामर्थ्यम् (जङ्घयोः) गुल्फजान्वोरन्तरालयोः (जवः) वेगः (पादयोः) चरणयोः (प्रतिष्ठा) स्थिरता। दृढता (अरिष्टानि) निर्दोषाणि (मे) मम (सर्वा) सर्वाणि अङ्गानि (आत्मा) जीवात्मा (अनिभृष्टः) भृश अधःपतने-क्त। अनधोगतः ॥

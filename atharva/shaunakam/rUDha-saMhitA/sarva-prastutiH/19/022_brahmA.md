@@ -8,15 +8,18 @@ title = "०२२ ब्रह्मा"
 
 22. Homage to parts of the Atharva-Veda.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मा।  
 १-२१ अङ्गिराः। मन्त्रोक्ताः। १ साम्नी उष्णिक्, ३, १९ प्राजापत्या गायत्री, ४, ११, १७ दैवी जगती, ५, १२-१३ दैवी त्रिष्टुप्, २, ६, १४- १६, २० दैवी पङ्क्तिः, ८-१० आसुरी जगती, १८ आसुर्यनुष्टुप्, २१ चतुष्पदा त्रिष्टुप् (१-२० एकावसानाः)।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [An̄giras.—ekaviṅśati. mantroktadevatyam. 1. sāmny uṣṇih; 3, 19. prājāpatyā gāyatrī; 4, 7, 11, 17. dāivī jagatī; 5, 12, 13. dāivī triṣṭubh; 2, 6, 14-16, 20. dāivī pan̄kti; 8-10. āsurī jagatī; 18. āsury anuṣṭubh (1-20. 1-av.); 21. 4-p. triṣṭubh.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ title = "०२२ ब्रह्मा"
 #### Translations
 Translated: Griffith, ii. 279; vs. 21 also by Ludwig, p. 219.
 </details>
+
 <details><summary>Griffith</summary>
 
 A prose hymn of homage to various portions of the Atharva-veda, to the Rishis, and to Brahma
@@ -38,14 +42,6 @@ A prose hymn of homage to various portions of the Atharva-veda, to the Rishis, a
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ᳙ङ्गिरसा᳓नामाद्यैः᳓ प᳓ञ्चानुवाकैः᳓ स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/01_AngirasAnAmAdyaiH_panchAnuvAkaiH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आ॑ङ्गिर॒साना॑मा॒द्यैः पञ्चा॑नुवा॒कैः स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/01_AngirasAnAmAdyaiH_panchAnuvAkaiH.md">
@@ -61,14 +57,22 @@ the dative, which is used everywhere else through this hymn and the
 next. ⌊Conversely, note the use of the abl.-dat. form *mādbhyás*, below,  
 27. 2 **c**, where we expect the instrumental, as in the other pādas.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 With the first five chapters of the Angirases, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॑ङ्गिर॒साना॑मा॒द्यैः पञ्चा॑नुवा॒कैः स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒ङ्गि॒र॒साना॑म्। आ॒द्यैः। पञ्च॑। अ॒नु॒ऽवा॒कैः। स्वाहा॑। २२.१। 
+आ॒ङ्गि॒र॒साना॑म्। आ॒द्यैः। पञ्च॑। अ॒नु॒ऽवा॒कैः। स्वाहा॑। २२.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -76,18 +80,22 @@ With the first five chapters of the Angirases, Hail!
 - साम्न्येकावसानोष्णिक्
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (आङ्गिरसानाम्) अङ्गिरा [सर्वज्ञ परमेश्वर] के बनाये [ज्ञानों] के (पञ्च) पाँच [पृथिवी, जल, तेज, वायु, आकाश पञ्चभूतों] से सम्बन्धवाले (आद्यैः) आदि में [इस सृष्टि के पहिले] वर्तमान (अनुवाकैः) अनुकूल वेदवाक्यों के साथ (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमेश्वरीय ज्ञान वेदों द्वारा पृथिवी आदि पदार्थों को यथावत् जानकर अपनी वाणी को सुफल करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(आङ्गिरसानाम्) अङ्गिरस्-अण्। अङ्गिरसा सर्वज्ञेन परमात्मना कृतानां ज्ञानानाम् (आद्यैः) सृष्टेः प्राग् वर्तमानैः (पञ्च) विभक्तेर्लुक्। पञ्चभिः पृथिव्यादिपञ्चभूतसम्बन्धिभिः (अनुवाकैः) अनुकूलवेदवाक्यैः सह (स्वाहा) अ०१९।१७।१। सुवाणी ॥
@@ -102,14 +110,6 @@ With the first five chapters of the Angirases, Hail!
 षष्ठा᳓य स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/02_ShaShThAya_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ष॒ष्ठाय॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/02_ShaShThAya_svAhA.md">
 <details open><summary><h3>०२ षष्ठाय स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -119,14 +119,22 @@ With the first five chapters of the Angirases, Hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 To the sixth, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ष॒ष्ठाय॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ष॒ष्ठाय॒। स्वाहा॑। २२.२। 
+ष॒ष्ठाय॒। स्वाहा॑। २२.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -134,18 +142,22 @@ To the sixth, Hail!
 - दैवी पङ्क्तिः
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (षष्ठाय) छठे [पृथिवी, जल, तेज, वायु, आकाश पञ्च भूतों की अपेक्षा छठे परमात्मा] के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  पृथिव्यादि पञ्चभूतों के नियन्ता परमेश्वर की उपासना सब मनुष्य करें। अथर्व०८।९।४। भी देखो ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(षष्ठाय) पृथिव्यादिपञ्चभूतापेक्षया षट्संख्यापूरकाय परमेश्वराय ॥
@@ -160,14 +172,6 @@ To the sixth, Hail!
 स᳙प्तमाष्टमा᳓भ्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/03_saptamAShTamAbhyAM_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स॑प्तमाष्ट॒माभ्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/03_saptamAShTamAbhyAM_svAhA.md">
 <details open><summary><h3>०३ सप्तमाष्टमाभ्यां स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -177,14 +181,22 @@ To the sixth, Hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 To the seventh and eight, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑प्तमाष्ट॒माभ्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒प्त॒म॒ऽअ॒ष्ट॒माभ्या॑म्। स्वाहा॑। २२.३। 
+स॒प्त॒म॒ऽअ॒ष्ट॒माभ्या॑म्। स्वाहा॑। २२.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -192,18 +204,22 @@ To the seventh and eight, Hail!
 - प्राजापत्या गायत्री
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सप्तमाष्टमाभ्याम्) सातवें के लिये और आठवें के लिये [भावार्थ देखो] (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  यहाँ सातवाँ और आठवाँ पद परमेश्वर के दो गुणों का नाम है। परमेश्वर षड्वर्ग अर्थात् काम, क्रोध, लोभ, मोह, मद और मात्सर्य से अलग सातवाँ है। तथा कान, आँख, नाक जिह्वा, त्वचा पाँच ज्ञानेन्द्रिय और मन और चित्त से पृथक् होने से उसको आठवाँ माना है। उसकी उपासना हमें सदा करनी चाहिये ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(सप्तमाष्टमाभ्याम्) सप्तमश्चाष्टमश्च तौ ताभ्याम्। षड्वर्गेण कामक्रोधलोभमोहमदमात्सर्यैः पृथग्भूताय सप्तमाय, श्रोत्रनेत्रनासिकाजिह्वात्वग्मनश्चित्तैः पृथग् वर्तमानाय अष्टमाय च परमेश्वराय ॥
@@ -218,14 +234,6 @@ To the seventh and eight, Hail!
 नी᳙लनखे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/04_nIlanakhebhyaH_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-नी॑लन॒खेभ्यः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/04_nIlanakhebhyaH_svAhA.md">
 <details open><summary><h3>०४ नीलनखेभ्यः स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -235,14 +243,22 @@ To the seventh and eight, Hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 The black-clawed ones, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+नी॑लन॒खेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नी॒ल॒ऽन॒खेभ्यः॑। स्वाहा॑। २२.४। 
+नी॒ल॒ऽन॒खेभ्यः॑। स्वाहा॑। २२.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -250,18 +266,22 @@ The black-clawed ones, Hail!
 - दैवी जगती
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (नीलनखेभ्यः) निश्चित ज्ञान प्राप्त करानेवाले [परमेश्वर के गुणों] के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(नीलनखेभ्यः) नि+इल गतौ-क+णख गतौ-क। इला वाङ्नाम-निघ०१।११। नीलानां निश्चितज्ञानानां नखेभ्यः प्रापकेभ्यः परमात्मगुणेभ्यः ॥
@@ -276,14 +296,6 @@ The black-clawed ones, Hail!
 ह᳙रिते᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/05_haritebhyaH_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ह॑रि॒तेभ्यः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/05_haritebhyaH_svAhA.md">
 <details open><summary><h3>०५ हरितेभ्यः स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -296,14 +308,22 @@ Two of our mss. (O.D.) accent with our text *háritebhyas;* SPP. reads
 *haritébhyas*, with (apparently) all his authorities and nearly all of  
 ours.
 </details>
+
 <details><summary>Griffith</summary>
 
 To the golden-hued ones, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ह॑रि॒तेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ह॒रि॒तेभ्यः॑। स्वाहा॑। २२.५। 
+ह॒रि॒तेभ्यः॑। स्वाहा॑। २२.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -311,18 +331,22 @@ To the golden-hued ones, Hail!
 - दैवी त्रिष्टुप्
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (हरितेभ्यः) स्वीकार करने योग्य [परमेश्वर के गुणों] के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(हरितेभ्यः) हृश्याभ्यामितन्। उ०३।९३। हृञ् स्वीकारे-इतन्। स्वीकरणीयेभ्यः परमेश्वरगुणेभ्यः ॥
@@ -337,14 +361,6 @@ To the golden-hued ones, Hail!
 क्षुद्रे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/06_xudrebhyaH_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-क्षु॒द्रेभ्यः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/06_xudrebhyaH_svAhA.md">
 <details open><summary><h3>०६ क्षुद्रेभ्यः स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -354,14 +370,22 @@ To the golden-hued ones, Hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 To the small ones, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षु॒द्रेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्षु॒द्रेभ्यः॑। स्वाहा॑। २२.६। 
+क्षु॒द्रेभ्यः॑। स्वाहा॑। २२.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -369,18 +393,22 @@ To the small ones, Hail!
 - दैवी पङ्क्तिः
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (क्षुद्रेभ्यः) सूक्ष्म गुणों के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥६॥ यह मन्त्र आगे है-अथर्व०१९।२३।२१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(क्षुद्रेभ्यः) स्फायितञ्चिवञ्चिशकिक्षिषिक्षुदि०। उ०२।१३। क्षुदिर् संपेषणे-रक्। सूक्ष्मगुणेभ्यः ॥
@@ -395,14 +423,6 @@ To the small ones, Hail!
 प᳙र्यायिके᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/07_paryAyikebhyaH_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प॑र्यायि॒केभ्यः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/07_paryAyikebhyaH_svAhA.md">
 <details open><summary><h3>०७ पर्यायिकेभ्यः स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -412,14 +432,22 @@ To the small ones, Hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 To those composed in strophes, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प॑र्यायि॒केभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प॒र्या॒यि॒केभ्यः॑। स्वाहा॑। २२.७। 
+प॒र्या॒यि॒केभ्यः॑। स्वाहा॑। २२.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -427,18 +455,22 @@ To those composed in strophes, Hail!
 - दैवी जगती
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पर्यायिकेभ्यः) पर्याय [अनुक्रम] वाले गुणों के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(पर्यायिकेभ्यः) अत इनिठनौ। पा०५।२।११५। पर्याय-ठन्। अनुक्रमयुक्तेभ्यः ॥
@@ -453,14 +485,6 @@ To those composed in strophes, Hail!
 प्र᳙थमे᳓भ्यः शङ्खे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/08_prathamebhyaH_shankhebhyaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्र॑थ॒मेभ्यः॑ श॒ङ्खेभ्यः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/08_prathamebhyaH_shankhebhyaH.md">
 <details open><summary><h3>०८ प्रथमेभ्यः शङ्खेभ्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -470,14 +494,22 @@ To those composed in strophes, Hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 To the first shells, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॑थ॒मेभ्यः॑ श॒ङ्खेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒थ॒मेभ्यः॑। श॒ङ्खेभ्यः॑। स्वाहा॑। २२.८। 
+प्र॒थ॒मेभ्यः॑। श॒ङ्खेभ्यः॑। स्वाहा॑। २२.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -485,18 +517,22 @@ To the first shells, Hail!
 - आसुरी जगती
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (प्रथमेभ्यः) पहिले [सृष्टि से पहिले वर्तमान] (शङ्खेभ्यः) विचारयोग्य गुणों के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(प्रथमेभ्यः) सृष्टेः पूर्ववर्तमानेभ्यः (शङ्खेभ्यः) शमेः खः। उ०१।१०२। शम आलोचने दर्शने च, शमु उपशमे च-ख प्रत्ययः। आलोचनीयेभ्यो गुणेभ्यः ॥
@@ -511,14 +547,6 @@ To the first shells, Hail!
 द्विती᳓येभ्यः शङ्खे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/09_dvitIyebhyaH_shankhebhyaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-द्वि॒तीये॑भ्यः श॒ङ्खेभ्यः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/09_dvitIyebhyaH_shankhebhyaH.md">
 <details open><summary><h3>०९ द्वितीयेभ्यः शङ्खेभ्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -528,14 +556,22 @@ To the first shells, Hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 To the second shells, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+द्वि॒तीये॑भ्यः श॒ङ्खेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द्वि॒ती॒येभ्यः॑। श॒ङ्खेभ्यः॑। स्वाहा॑। २२.९। 
+द्वि॒ती॒येभ्यः॑। श॒ङ्खेभ्यः॑। स्वाहा॑। २२.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -543,18 +579,22 @@ To the second shells, Hail!
 - आसुरी जगती
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (द्वितीयेभ्यः) दूसरे [सृष्टि के आदि की अपेक्षा अन्त में विद्यमान] (शङ्खेभ्यः) दर्शनीय गुणों के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(द्वितीयेभ्यः) सृष्टेराद्यपेक्षया अन्ते वर्तमानेभ्यः (शङ्खेभ्यः) म०८। दर्शनीयगुणेभ्यः ॥
@@ -567,14 +607,6 @@ To the second shells, Hail!
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तृती᳓येभ्यः शङ्खे᳓भ्यः स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/10_tRtIyebhyaH_shankhebhyaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-तृ॒तीये॑भ्यः श॒ङ्खेभ्यः॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/10_tRtIyebhyaH_shankhebhyaH.md">
@@ -592,14 +624,22 @@ that of *prathamébhyas:* cf. notes to vss. 13 and 14, and especially to
 xviii. 3. 47.—Two of W's later collated mss., D.L., have rightly  
 *-tī́ye-*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 To the third shells, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तृ॒तीये॑भ्यः श॒ङ्खेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तृ॒ती॒येभ्यः॑। श॒ङ्खेभ्यः॑। स्वाहा॑। २२.१०। 
+तृ॒ती॒येभ्यः॑। श॒ङ्खेभ्यः॑। स्वाहा॑। २२.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -607,18 +647,22 @@ To the third shells, Hail!
 - आसुरी जगती
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तृतीयेभ्यः) तीसरे [आदि और अन्त की अपेक्षा मध्य में वर्तमान] (शङ्खेभ्यः) शान्तिदायक गुणों के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(तृतीयेभ्यः) आद्यन्तापेक्षया मध्ये वर्तमानेभ्यः (शङ्खेभ्यः) म०८। शान्तिप्रदगुणेभ्यः ॥
@@ -633,14 +677,6 @@ To the third shells, Hail!
 उ᳙पोत्तमे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/11_upottamebhyaH_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उ॑पोत्त॒मेभ्यः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/11_upottamebhyaH_svAhA.md">
 <details open><summary><h3>११ उपोत्तमेभ्यः स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -650,14 +686,22 @@ To the third shells, Hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 To the penultimates, Hail.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॑पोत्त॒मेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒प॒ऽउ॒त्त॒मेभ्यः॑। स्वाहा॑। २२.११। 
+उ॒प॒ऽउ॒त्त॒मेभ्यः॑। स्वाहा॑। २२.११।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -665,18 +709,22 @@ To the penultimates, Hail.
 - दैवी जगती
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उपोत्तमेभ्यः) श्रेष्ठों के समीपवर्ती [ब्रह्मचारी आदि पुरुषों] के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(उपोत्तमेभ्यः) श्रेष्ठानां समीपवर्तिभ्यो ब्रह्मचार्यादिभ्यः ॥
@@ -691,14 +739,6 @@ To the penultimates, Hail.
 उ᳙त्तमे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/12_uttamebhyaH_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उ॑त्त॒मेभ्यः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/12_uttamebhyaH_svAhA.md">
 <details open><summary><h3>१२ उत्तमेभ्यः स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -708,14 +748,22 @@ To the penultimates, Hail.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 To the last ones, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॑त्त॒मेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒त्ऽत॒मेभ्यः॑। स्वाहा॑। २२.१२। 
+उ॒त्ऽत॒मेभ्यः॑। स्वाहा॑। २२.१२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -723,18 +771,22 @@ To the last ones, Hail!
 - दैवी त्रिष्टुप्
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उत्तमेभ्यः) अत्यन्त श्रेष्ठ [पुरुषों] के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥१२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥१२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १२−(उत्तमेभ्यः) अतिश्रेष्ठपुरुषेभ्यः ॥
@@ -749,14 +801,6 @@ To the last ones, Hail!
 उ᳙त्तरे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/13_uttarebhyaH_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उ॑त्त॒रेभ्यः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/13_uttarebhyaH_svAhA.md">
 <details open><summary><h3>१३ उत्तरेभ्यः स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -768,14 +812,22 @@ To the last ones, Hail!
 SPP. again follows the mss. in accenting *uttarébhyas;* ⌊again a  
 blundering assimilation to the accent of *uttamébhyas*, vs. 12⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 To the latter ones, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॑त्त॒रेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒त्ऽत॒रेभ्यः॑। स्वाहा॑। २२.१३। 
+उ॒त्ऽत॒रेभ्यः॑। स्वाहा॑। २२.१३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -783,18 +835,22 @@ To the latter ones, Hail!
 - दैवी त्रिष्टुप्
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उत्तरेभ्यः) अधिकतर ऊँचे [पुरुषों] के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १३−(उत्तरेभ्यः) अधिकतरोन्नतपुरुषेभ्यः ॥
@@ -807,14 +863,6 @@ To the latter ones, Hail!
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋषि᳓भ्यः स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/14_RShibhyaH_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ऋ॒षिभ्यः॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/14_RShibhyaH_svAhA.md">
@@ -830,14 +878,22 @@ give⌋; but SPP. has, with the mss., *ṛṣíbhyas*. ⌊For the rationale of
 the blunder (due to *śiṣíbhyas*, vs. 15), of. notes to vss. 10 and 13  
 and note to xviii. 3. 47.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 To the Rishis, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋ॒षिभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋ॒षिऽभ्यः॑। स्वाहा॑। २२.१४। 
+ऋ॒षिऽभ्यः॑। स्वाहा॑। २२.१४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -845,18 +901,22 @@ To the Rishis, Hail!
 - दैवी पङ्क्तिः
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ऋषिभ्यः) ऋषियों [वेदव्याख्याता मुनियों] के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥१४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥१४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १४−(ऋषिभ्यः) वेदार्थदर्शकेभ्यो मुनिभ्यः ॥
@@ -871,14 +931,6 @@ To the Rishis, Hail!
 शिखि᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/15_shikhibhyaH_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-शि॒खिभ्यः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/15_shikhibhyaH_svAhA.md">
 <details open><summary><h3>१५ शिखिभ्यः स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -889,14 +941,22 @@ To the Rishis, Hail!
 ##### Notes
 Here the mss. vary between *śikhíbhyas* and *śiṣíbhyas*.
 </details>
+
 <details><summary>Griffith</summary>
 
 To those with hair in tufts, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+शि॒खिभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शि॒खिऽभ्यः॑। स्वाहा॑। २२.१५। 
+शि॒खिऽभ्यः॑। स्वाहा॑। २२.१५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -904,18 +964,22 @@ To those with hair in tufts, Hail!
 - दैवी पङ्क्तिः
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शिखिभ्यः) शिखाधारियों [चोटी-वालों, अथवा चोटी-वाले पर्वतादि के समान ऊँचे ब्रह्मज्ञानियों] के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १५−(शिखिभ्यः) व्रीह्यादिभ्यश्च। पा०५।२।११६। शिखा-इनि। शिखाधारिभ्यः, यद्वा शिखरयुक्तपर्वतादितुल्योन्नतेभ्यो ब्राह्मणेभ्यः ॥
@@ -930,14 +994,6 @@ To those with hair in tufts, Hail!
 गणे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/16_gaNebhyaH_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ग॒णेभ्यः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/16_gaNebhyaH_svAhA.md">
 <details open><summary><h3>१६ गणेभ्यः स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -947,14 +1003,22 @@ To those with hair in tufts, Hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 To the Ganas, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ग॒णेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ग॒णेभ्यः॑। स्वाहा॑। २२.१६। 
+ग॒णेभ्यः॑। स्वाहा॑। २२.१६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -962,18 +1026,22 @@ To the Ganas, Hail!
 - दैवी पङ्क्तिः
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (गणेभ्यः) समूहों के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥१६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥१६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १६−(गणेभ्यः) समूहेभ्यः ॥
@@ -988,14 +1056,6 @@ To the Ganas, Hail!
 म᳙हागणे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/17_mahAgaNebhyaH_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-म॑हाग॒णेभ्यः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/17_mahAgaNebhyaH_svAhA.md">
 <details open><summary><h3>१७ महागणेभ्यः स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1005,14 +1065,22 @@ To the Ganas, Hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 To the great Ganas, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+म॑हाग॒णेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-म॒हा॒ऽग॒णेभ्यः॑। स्वाहा॑। २२.१७। 
+म॒हा॒ऽग॒णेभ्यः॑। स्वाहा॑। २२.१७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -1020,18 +1088,22 @@ To the great Ganas, Hail!
 - दैवी जगती
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (महागणेभ्यः) बड़े समूहों के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥१७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥१७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १७−(महागणेभ्यः) महासमूहेभ्यः ॥
@@ -1046,14 +1118,6 @@ To the great Ganas, Hail!
 स᳓र्वेभ्यो᳓ऽङ्गिरोभ्यो विदगणे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/18_sarvebhyo-ngirobhyo_vidagaNebhyaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सर्वे॒भ्योऽङ्गि॑रोभ्यो विदग॒णेभ्यः॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/18_sarvebhyo-ngirobhyo_vidagaNebhyaH.md">
 <details open><summary><h3>१८ सर्वेभ्योऽङ्गिरोभ्यो विदगणेभ्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1066,14 +1130,22 @@ It is altogether likely that *vidagaṇá* either never meant anything or
 is a corrupt reading; the translation is given merely in order not to  
 leave the word untranslated.
 </details>
+
 <details><summary>Griffith</summary>
 
 To all the Vidagana Angirases, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वे॒भ्योऽङ्गि॑रोभ्यो विदग॒णेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वे॑भ्यः। अङ्गि॑रःऽभ्यः। वि॒द॒ऽग॒णेभ्यः॑। स्वाहा॑। २२.१८। 
+सर्वे॑भ्यः। अङ्गि॑रःऽभ्यः। वि॒द॒ऽग॒णेभ्यः॑। स्वाहा॑। २२.१८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -1081,18 +1153,22 @@ To all the Vidagana Angirases, Hail!
 - आसुर्यनुष्टुप्
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सर्वेभ्यः) सब (अङ्गिरोभ्यः) विज्ञानी (विदगणेभ्यः) पण्डित समूहों के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥१८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्पष्ट है ॥१८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १८−(सर्वेभ्यः) समस्तेभ्यः (अङ्गिरोभ्यः) विज्ञानिभ्यः (विदगणेभ्यः) विद ज्ञाने-क। पण्डितसमूहेभ्यः।
@@ -1107,14 +1183,6 @@ To all the Vidagana Angirases, Hail!
 पृ᳙थक्सहस्रा᳓भ्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/19_pRthaksahasrAbhyAM_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पृ॑थक्स॒ह॒स्राभ्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/19_pRthaksahasrAbhyAM_svAhA.md">
 <details open><summary><h3>१९ पृथक्सहस्राभ्यां स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1124,14 +1192,22 @@ To all the Vidagana Angirases, Hail!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 To those two with separate thousands, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पृ॑थक्स॒ह॒स्राभ्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पृ॒थ॒क्ऽस॒ह॒स्राभ्या॑म्। स्वाहा॑। २२.१९। 
+पृ॒थ॒क्ऽस॒ह॒स्राभ्या॑म्। स्वाहा॑। २२.१९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -1139,18 +1215,22 @@ To those two with separate thousands, Hail!
 - आसुर्यनुष्टुप्
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पृथक्सहस्राभ्याम्) पृथक्-पृथक् और सहस्रोंवाले दोनों [समूहों] के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥१९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य पृथक्-पृथक् होकर और सामाजिक समुदाय बनाकर हितकारी कर्म करें करावें ॥१९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १९−(पृथक्सहस्राभ्याम्) व्यक्तिजन्यसहस्रजन्याभ्यां समूहाभ्याम् ॥
@@ -1163,14 +1243,6 @@ To those two with separate thousands, Hail!
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रह्म᳓णे स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/20_brahmaNe_svAhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ब्र॒ह्मणे॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/20_brahmaNe_svAhA.md">
@@ -1205,14 +1277,22 @@ sounds like a bad joke that he calls *nīlanakha* etc. 'familiarly
 known.' That *anuvāka* is used in vs. 1 in the same sense as in the  
 present division of the text seems very unlikely.
 </details>
+
 <details><summary>Griffith</summary>
 
 To Brahma, Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्र॒ह्मणे॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्र॒ह्मणे॑। स्वाहा॑। २२.२०। 
+ब्र॒ह्मणे॑। स्वाहा॑। २२.२०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -1220,18 +1300,22 @@ To Brahma, Hail!
 - आसुर्यनुष्टुप्
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ब्रह्मणे) वेदज्ञान के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥२०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य वेदविद्या के उपदेश से परस्पर हित करते-कराते रहें ॥२०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २०−(ब्रह्मणे) वेदज्ञानाय ॥
@@ -1245,15 +1329,6 @@ To Brahma, Hail!
 
 ब्र᳓ह्मज्येष्ठा स᳓म्भृता वीर्या᳙णि ब्र᳓ह्मा᳓ग्रे ज्ये᳓ष्ठं दि᳓वमा᳓ ततान।  
 भूता᳓नां ब्रह्मा᳓ प्रथमो᳓त᳓ जज्ञे ते᳓नार्हति ब्र᳓ह्मणा स्प᳓र्धितुं कः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/022_brahmA/21_brahmajyeShThA_sambhRtA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ब्रह्म॑ज्येष्ठा॒ सम्भृ॑ता वी॒र्या᳡णि॒ ब्रह्माग्रे॒ ज्येष्ठं॒ दिव॒मा त॑तान।  
-भू॒तानां॑ ब्र॒ह्मा प्र॑थ॒मोत ज॑ज्ञे॒ तेना॑र्हति॒ ब्रह्म॑णा॒ स्पर्धि॑तुं॒ कः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/022_brahmA/21_brahmajyeShThA_sambhRtA.md">
@@ -1291,14 +1366,23 @@ spárdhituṁ káḥ*. Our comm. gives a second explanation of *brahmajyeṣṭh
 as = *brahmaṇā jyeṣṭhena*, the case-ending of the former word being  
 omitted, as well as the *in* part of that of the second!
 </details>
+
 <details><summary>Griffith</summary>
 
 Collected manly powers are topped by Brahma. Brahma at first spread out the loftiest heaven. Brahma was born first of all things existing. Who then is meet to be that Brahma's rival?
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रह्म॑ज्येष्ठा॒ सम्भृ॑ता वी॒र्या᳡णि॒ ब्रह्माग्रे॒ ज्येष्ठं॒ दिव॒मा त॑तान।  
+भू॒तानां॑ ब्र॒ह्मा प्र॑थ॒मोत ज॑ज्ञे॒ तेना॑र्हति॒ ब्रह्म॑णा॒ स्पर्धि॑तुं॒ कः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑ऽज्येष्ठा। सम्ऽभृ॑ता। वी॒र्या᳡णि। ब्रह्म॑। अग्रे॑। ज्येष्ठ॑म्। दिव॑म्। आ। त॒ता॒न। भू॒ताना॑म्। ब्र॒ह्मा। प्र॒थ॒मः। उ॒त। ज॒ज्ञे॒। तेन॑। अ॒र्ह॒ति॒। ब्रह्म॑णा। स्पर्धि॑तुम्। कः। २२.२१। 
+ब्रह्म॑ऽज्येष्ठा। सम्ऽभृ॑ता। वी॒र्या᳡णि। ब्रह्म॑। अग्रे॑। ज्येष्ठ॑म्। दिव॑म्। आ। त॒ता॒न। भू॒ताना॑म्। ब्र॒ह्मा। प्र॒थ॒मः। उ॒त। ज॒ज्ञे॒। तेन॑। अ॒र्ह॒ति॒। ब्रह्म॑णा। स्पर्धि॑तुम्। कः। २२.२१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -1306,18 +1390,22 @@ Collected manly powers are topped by Brahma. Brahma at first spread out the loft
 - चतुष्पदा त्रिष्टुप्
 - ब्रह्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (संभृता) यथावत् भरे हुए (वीर्याणि) वीर कर्म (ब्रह्मज्येष्ठा) ब्रह्म [परमात्मा] को ज्येष्ठ [महाप्रधान रखने-वाले] हैं, (ज्येष्ठम्) ज्येष्ठ [सर्वप्रधान] (ब्रह्म) ब्रह्म [परमात्मा] ने (अग्रे) पहिले (दिवम्) ज्ञान को (आ) सब ओर (ततान) फैलाया है। (उत) और (ब्रह्मा) वह ब्रह्मा [सबसे बड़ा, सर्वजनक परमात्मा] (भूतानाम्) प्राणियों में (प्रथमः) पहिला (जज्ञे) प्रकट हुआ है, (तेन) इसलिये (ब्रह्मणा) ब्रह्मा [महान्-परमात्मा] के साथ (कः) कौन (स्पर्धितुम्) झगड़ने को (अर्हति) समर्थ है? ॥२१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संसार में सब प्रकार के पराक्रम और बल सर्वशक्तिमान् जगदीश्वर के सामर्थ्य से हैं, उस महावृद्ध, सर्वजनक से तुल्य वा अधिक कोई भी नहीं है। सब मनुष्य उसकी उपासना करके सुख प्राप्त करें ॥२१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   मन्त्र २०, २१ आगे हैं-अथर्व० १९।२३।२९,३० ॥२१−(ब्रह्मज्येष्ठा) ब्रह्म परमात्मा ज्येष्ठो महाप्रधानो येषां तानि (संभृता) सम्यक् पोषितानि (वीर्याणि) वीरकर्माणि (ब्रह्म) प्रवृद्धः परमात्मा (अग्रे) सृष्टिपूर्वम् (ज्येष्ठम्) सर्वप्रधानम् (दिवम्) दिवु गतौ-क। ज्ञानम् (आ) समन्तात् (ततान) विस्तारितवान् (भूतानाम्) प्राणिनां मध्ये (ब्रह्मा) सर्वेभ्यः प्रवृद्धः परमात्मा (प्रथमः) आद्यः (उत) अपि (प्रथमोत) रोर्यत्वे तस्य लोपे पुनः सन्धिश्छान्दसः संहितायाम् (जज्ञे) प्रादुर्बभूव (तेन) कारणेन (अर्हति) समर्थो भवति (ब्रह्मणा) परमात्मना सह (स्पर्धितुम्) स्पर्धामभिभवेच्छां कर्त्तुम् (कः) कः पुरुषः। न कोऽपीत्यर्थः ॥

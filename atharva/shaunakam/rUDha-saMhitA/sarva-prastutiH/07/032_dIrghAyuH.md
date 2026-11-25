@@ -8,15 +8,18 @@ title = "०३२ दीर्घायुः"
 
 32 (33). Homage to Soma (?).
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुः।  
 १ ब्रह्मा। आयुः। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—āyuṣyam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also (except d) in Pāipp. xx. It is, without variant, RV. ix. 67. 29 (whi
 #### Translations
 Translated: by RV. translators; and Henry, 12, 66; Griffith, i. 342.
 </details>
+
 <details><summary>Griffith</summary>
 
 A prayer to Agni for long life
@@ -41,15 +45,6 @@ A prayer to Agni for long life
 अ᳓गन्म बि᳓भ्रतो न᳓मो दीर्घ᳓मा᳓युः कृणोतु मे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/032_dIrghAyuH/01_upa_priyam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उप॑ प्रि॒यं पनि॑प्नतं॒ युवा॑नमाहुती॒वृध॑म्।  
-अग॑न्म॒ बिभ्र॑तो॒ नमो॑ दी॒र्घमायुः॑ कृणोतु मे ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/032_dIrghAyuH/01_upa_priyam.md">
 <details open><summary><h3>०१ उप प्रियम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -62,14 +57,23 @@ we gone, bearing homage; long life-time let him make for me.
 The verse is in RV. addressed to Soma. The comm. understands it here of  
 Agni. He explains *pánipnatam* as *śabdāyamānaṁ stūyamānaṁ vā*.
 </details>
+
 <details><summary>Griffith</summary>
 
 We bringing homage have approached the friend who seeks our wondering praise, Young, strengthener of the sacrifice. May he bestow long life on me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑ प्रि॒यं पनि॑प्नतं॒ युवा॑नमाहुती॒वृध॑म्।  
+अग॑न्म॒ बिभ्र॑तो॒ नमो॑ दी॒र्घमायुः॑ कृणोतु मे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑। प्रि॒यम्। पनि॑प्नतम्। युवा॑नम्। आ॒हु॒ति॒ऽवृध॑म्। अग॑न्म। बिभ्र॑तः। नमः॑। दी॒र्घम्। आयुः॑। कृ॒णो॒तु॒। मे॒। ३३.१। 
+उप॑। प्रि॒यम्। पनि॑प्नतम्। युवा॑नम्। आ॒हु॒ति॒ऽवृध॑म्। अग॑न्म। बिभ्र॑तः। नमः॑। दी॒र्घम्। आयुः॑। कृ॒णो॒तु॒। मे॒। ३३.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आयुः
@@ -77,18 +81,22 @@ We bringing homage have approached the friend who seeks our wondering praise, Yo
 - अनुष्टुप्
 - दीर्घायु सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा और प्रजा के कर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (नमः) वज्र को (बिभ्रतः) धारण करते हुए [पुरुषार्थ करते हुए] हम लोग (प्रियम्) प्रीति करनेवाले, (पनिप्नतम्) अत्यन्त व्यवहारकुशल, (युवानम्) पदार्थों के संयोग-वियोग करनेवाले वा बलवान्, (आहुतीवृधम्) यथावत् देने लेने योग्य क्रिया के बढ़ानेवाले राजा को (उप अगन्म) प्राप्त हुए हैं, वह (मे) मेरी (आयुः) आयु को (दीर्घम्) दीर्घ (कृणोतु) करे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस प्रकार नीतिकुशल, प्रतापी राजा अनेक विद्याओं के दान से प्रजा की रक्षा करे, उसी प्रकार प्रजा भी उसके उपकारों को सन्मानपूर्वक ग्रहण करे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(उप) पूजायाम् (प्रियम्) प्रीतिकरम् (पनिप्नतम्) पन व्यवहारे स्तुतौ च यङ्लुकि शतृ। दाधर्तिदर्धर्ति०। पा० ७।४।६५। इति सूत्र इतिकरणस्य प्रदर्शनादत्राभ्यासस्य निगागम उपधालोपश्च। अत्यन्तं व्यवहारकुशलम् (युवानम्) पदार्थानां संयोजकवियोजकं बलवन्तं वा (आहुतीवृधम्) यथावद् दातव्यग्राह्यक्रियावर्धकम् (अगन्म) वयं प्राप्तवन्तः (बिभ्रतः) धारयन्तः (नमः) वज्रम्-निघ० २।२०। (दीर्घम्) चिरम् (आयुः) जीवनम् (कृणोतु) करोतु (मे) मम ॥

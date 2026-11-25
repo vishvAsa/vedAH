@@ -8,15 +8,18 @@ title = "०७३ घर्मः"
 
 73 (77). With a heated offering to the Aśvins.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 घर्मः।  
 १-११ अथर्वा। घर्मः, अश्विनौ। त्रिष्टुप्, १, ४, ६ जगती, २ पथ्याबृहती।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—ekādaśarcam. gharmasūktam. āśvinam uta pratyṛcammantroktadāivatam. trāiṣṭubham: 1, 4, 6. jagatī; 2. pathyābṛhatī.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also, except vss. 7-9, in Pāipp. xx. (the first six verses in the order 2
 #### Translations
 Translated: Ludwig, p. 429 (vss. 1-6); Henry, 28, 93; Griffith, i. 361.
 </details>
+
 <details><summary>Griffith</summary>
 
 An invitation to the Asvins
@@ -39,15 +43,6 @@ An invitation to the Asvins
 
 स᳓मिद्धो अग्नि᳓र्वृषणा रथी᳓ दिव᳓स्तप्तो᳓ घर्मो᳓ दुह्यते वामिषे᳓ म᳓धु।  
 वयं᳓ हि᳓ वां पुरुद᳓मासो अश्विना हवामहे सधमा᳓देषु कार᳓वः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/01_samiddho_agnirvRShaNA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-समि॑द्धो अ॒ग्निर्वृ॑षणा र॒थी दि॒वस्त॒प्तो घ॒र्मो दु॑ह्यते वामि॒षे मधु॑।  
-व॒यं हि वां॑ पुरु॒दमा॑सो अश्विना हवामहे सध॒मादे॑षु का॒रवः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/01_samiddho_agnirvRShaNA.md">
@@ -70,14 +65,23 @@ milk is poured, or the heated vessel containing it. The comm. interprets
 the verses according to their order and application in AśS. He explains  
 the *gharma* as the heated sacrificial butter in the *mahāvīra* dish.
 </details>
+
 <details><summary>Griffith</summary>
 
 Inflamed is Agni, Heroes! charioteer of heaven. The caldron boils: the meath is drained to be your food. For we, O Asvins, singers sprung from many a house, invite you to be present at our banquetings.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+समि॑द्धो अ॒ग्निर्वृ॑षणा र॒थी दि॒वस्त॒प्तो घ॒र्मो दु॑ह्यते वामि॒षे मधु॑।  
+व॒यं हि वां॑ पुरु॒दमा॑सो अश्विना हवामहे सध॒मादे॑षु का॒रवः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्ऽइ॑ध्दः। अ॒ग्निः। वृ॒ष॒णा॒। र॒थी। दि॒वः। त॒प्तः। ध॒र्मः। दु॒ह्य॒ते॒। वा॒म्। इ॒षे। मधु॑। व॒यम्। हि। वा॒म्। पु॒रु॒ऽदमा॑सः। अ॒श्वि॒ना॒। हवा॑महे। स॒ध॒ऽमादे॑षु। का॒रवः॑। ७७.१। 
+सम्ऽइ॑ध्दः। अ॒ग्निः। वृ॒ष॒णा॒। र॒थी। दि॒वः। त॒प्तः। ध॒र्मः। दु॒ह्य॒ते॒। वा॒म्। इ॒षे। मधु॑। व॒यम्। हि। वा॒म्। पु॒रु॒ऽदमा॑सः। अ॒श्वि॒ना॒। हवा॑महे। स॒ध॒ऽमादे॑षु। का॒रवः॑। ७७.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - घर्मः, अश्विनौ
@@ -85,18 +89,22 @@ Inflamed is Agni, Heroes! charioteer of heaven. The caldron boils: the meath is 
 - त्रिष्टुप्
 - धर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वृषणा) हे दोनों पराक्रमियों ! (समिद्धः) प्रदीप्त (अग्निः) अग्नि [के समान तेजस्वी], (दिवः) आकाश के [मध्य] (रथी) रथवाला (तप्तः) ऐश्वर्ययुक्त (धर्मः) प्रकाशमान [आचार्य वर्तमान है], (वाम्) तुम दोनों की (इषे) इच्छापूर्ति के लिये (मधु) ज्ञान (दुह्यते) परिपूर्ण किया जाता है। (पुरुदमासः) बड़े दमनशील, (कारवः) काम करनेवाले (वयम्) हम लोग (वाम्) तुम दोनों को (हि) ही, (अश्विना) हे चतुर स्त्री-पुरुष ! (सधमादेषु) अपने उत्सवों पर (हवामहे) बुलाते हैं ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब स्त्री-पुरुष विज्ञानी शिक्षकों से विविध विद्यायें प्राप्त करें और सब लोग ऐसे विद्वान् स्त्री-पुरुषों के सत्सङ्ग से लाभ उठावें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(समिद्धः) प्रदीप्तः (अग्निः) अग्निरिव तेजस्वी (वृषणा) पराक्रमिणौ (रथी) रथ-इनि। रथिकः (दिवः) आकाशस्य मध्ये (तप्तः) तप ऐश्वर्ये-क्त। ऐश्वर्ययुक्तः (धर्मः) अ० ४।१।२। प्रकाशमान आचार्यः (दुह्यते) प्रपूर्यते (वाम्) युवयोः (इषे) इच्छापूर्तये (मधु) ज्ञानम् (वयम्) (हि) अवधारणे (वाम्) युवाम् (पुरुदमासः) असुगागमः। बहुदमनशीलाः (अश्विना) अ० २।२९।६। कर्मसु व्यापकौ स्त्रीपुरुषौ (हवामहे) आह्वयामः (सधमादेषु) उत्सवेषु (कारवः) उ० १।१। करोतेः-उण्। कर्मकर्तारः ॥
@@ -110,15 +118,6 @@ Inflamed is Agni, Heroes! charioteer of heaven. The caldron boils: the meath is 
 
 स᳓मिद्धो अग्नि᳓रश्विना तप्तो᳓ वां घर्म᳓ आ᳓ गतम्।  
 दुह्य᳓न्ते नूनं᳓ वृषणेह᳓ धेन᳓वो द᳓स्रा म᳓दन्ति वेध᳓सः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/02_samiddho_agnirashvinA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-समि॑द्धो अ॒ग्निर॑श्विना त॒प्तो वां॑ घ॒र्म आ ग॑तम्।  
-दु॒ह्यन्ते॑ नू॒नं वृ॑षणे॒ह धे॒नवो॒ दस्रा॒ मद॑न्ति वे॒धसः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/02_samiddho_agnirashvinA.md">
@@ -136,14 +135,23 @@ AśS. and śśS. both read *gāvas* for *nūnam* in **c**, and (with Ppp.)
 VS. (as xx. 55 **a, b**), which omits *vām* in **b**, and reads *virā́ṭ  
 sutáḥ* for *ā́ gatam*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Asvins, the fire is all aglow: your caldron hath been heated;. come! Here, even now, O Heroes, are the milch-kine milked. The priests, ye mighty ones! rejoice.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+समि॑द्धो अ॒ग्निर॑श्विना त॒प्तो वां॑ घ॒र्म आ ग॑तम्।  
+दु॒ह्यन्ते॑ नू॒नं वृ॑षणे॒ह धे॒नवो॒ दस्रा॒ मद॑न्ति वे॒धसः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्ऽइ॑ध्दः। अ॒ग्निः। अ॒श्वि॒ना॒। त॒प्तः। वा॒म्। ध॒र्मः। आ। ग॒त॒म्। दु॒ह्यन्ते॑। नू॒नम्। वृ॒ष॒णा॒। इ॒ह। धे॒नवः॑। दस्रा॑। मद॑न्ति। वे॒धसः॑। ७७.२। 
+सम्ऽइ॑ध्दः। अ॒ग्निः। अ॒श्वि॒ना॒। त॒प्तः। वा॒म्। ध॒र्मः। आ। ग॒त॒म्। दु॒ह्यन्ते॑। नू॒नम्। वृ॒ष॒णा॒। इ॒ह। धे॒नवः॑। दस्रा॑। मद॑न्ति। वे॒धसः॑। ७७.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - घर्मः, अश्विनौ
@@ -151,18 +159,22 @@ Asvins, the fire is all aglow: your caldron hath been heated;. come! Here, even 
 - पथ्यापङ्क्तिः
 - धर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अश्विना) हे चतुर स्त्री-पुरुषो ! (वाम्) तुम दोनों के लिये (समिद्धः) प्रदीप्त (अग्नि) अग्निसमान तेजस्वी (तप्तः) ऐश्वर्ययुक्त, (धर्मः) प्रकाशमान [आचार्य वर्तमान है], (आ गतम्) तुम दोनों आवो। (वृषणा) हे दोनों पराक्रमियों ! और (दस्रा) हे दर्शनीयों वा रोगनाशको ! (धेनवः) वेदवाणियाँ (नूनम्) अवश्य (इह) यहाँ पर (दुह्यन्ते) दुही जाती हैं, और (वेधसः) बुद्धिमान् लोग (मदन्ति) आनन्द पाते हैं ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो स्त्री-पुरुष वेदविद्या द्वारा विज्ञानी होकर कीर्तिमान् होते हैं, बुद्धिमान् उनसे उपदेश पाकर लाभ उठाते हैं ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(आ गतम्) आगच्छतम् (दुह्यन्ते) प्रपूर्यन्ते (नूनम्) निश्चयेन (इह) अस्मिन् समाजे (धेनवः) अ० ३।१०।१। धेनुर्वाङ्नाम-निघ० १।११। तर्पयित्र्यो वेदवाचः (दस्रा) स्फायितञ्चिवञ्चि०। उ० २।१३। दसु उपक्षुये, दस दर्शने-रक्। रोगनिवारकौ। दर्शनीयौ-निरु० ६।२६। (मदन्ति) हृष्यन्ति (वेधसः) अ० १।११।१। विध विधाने-असुन्। मेधाविनः-निघ० ३।१५। अन्यत् पूर्ववत्-म० १ ॥
@@ -176,15 +188,6 @@ Asvins, the fire is all aglow: your caldron hath been heated;. come! Here, even 
 
 स्वा᳓हाकृतः शु᳓चिर्देवे᳓षु यज्ञो᳓ यो᳓ अश्वि᳓नोश्चमसो᳓ देवपा᳓नः।  
 त᳓मु वि᳓श्वे अमृ᳓तासो जुषाणा᳓ गन्धर्व᳓स्य प्र᳓त्यास्ना᳓ रिहन्ति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/03_svAhAkRtaH_shuchirdeveShu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स्वाहा॑कृतः॒ शुचि॑र्दे॒वेषु॑ य॒ज्ञो यो अ॒श्विनो॑श्चम॒सो दे॑व॒पानः॑।  
-तमु॒ विश्वे॑ अ॒मृता॑सो जुषा॒णा ग॑न्ध॒र्वस्य॒ प्रत्या॒स्ना रि॑हन्ति ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/03_svAhAkRtaH_shuchirdeveShu.md">
@@ -202,14 +205,23 @@ The two Sūtras and Ppp. agree in reading *gharmas* for *yajñas* in
 this verse to be used after the *gharma* offering; the "bowl" is the one  
 called *upayamana;* the "Gandharva" is either the sun or the fire.
 </details>
+
 <details><summary>Griffith</summary>
 
 Pure with the Gods is sacrifice with cry of Hail! That is the Asvins' cup whence Gods are wont to drink. Yea, the Immortal Ones accept it, one and all, and come to kiss that cup with the Gandharva's mouth.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्वाहा॑कृतः॒ शुचि॑र्दे॒वेषु॑ य॒ज्ञो यो अ॒श्विनो॑श्चम॒सो दे॑व॒पानः॑।  
+तमु॒ विश्वे॑ अ॒मृता॑सो जुषा॒णा ग॑न्ध॒र्वस्य॒ प्रत्या॒स्ना रि॑हन्ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्वाहा॑ऽकृतः। शुचिः॑। दे॒वेषु॑। य॒ज्ञः। यः। अ॒श्विनोः॑। च॒म॒सः॒। दे॒व॒ऽपानः॑। तम्। ऊं॒ इति॑। विश्वे॑। अ॒मृता॑सः। जु॒षा॒णाः। ग॒न्ध॒र्वस्य॑। प्रति॑। आ॒स्ना। रि॒ह॒न्ति॒। ७७.३। 
+स्वाहा॑ऽकृतः। शुचिः॑। दे॒वेषु॑। य॒ज्ञः। यः। अ॒श्विनोः॑। च॒म॒सः॒। दे॒व॒ऽपानः॑। तम्। ऊं॒ इति॑। विश्वे॑। अ॒मृता॑सः। जु॒षा॒णाः। ग॒न्ध॒र्वस्य॑। प्रति॑। आ॒स्ना। रि॒ह॒न्ति॒। ७७.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - घर्मः, अश्विनौ
@@ -217,18 +229,22 @@ Pure with the Gods is sacrifice with cry of Hail! That is the Asvins' cup whence
 - जगती
 - धर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवेषु) उत्तम गुणों में वर्तमान, (अश्विनोः) दोनों चतुर स्त्री-पुरुषों का (यः) जो (स्वाहाकृतः) सुन्दरवाणी से सिद्ध किया गया, (शुचिः) पवित्र (देवपानः) विद्वानों से रक्षा योग्य (यज्ञः) पूजनीय व्यवहार (चमसः) मेघ [के समान उपकारी] है। (तम् उ) उसी [उत्तम व्यवहार को] (जुषाणः) सेवन करते हुए (विश्वे) सब (अमृतासः) अमर [निरालसी] लोग (गन्धर्वस्य) पृथिवीरक्षक सूर्य के (आस्ना) मुख से [महातेजस्वी होकर] (प्रति) प्रत्यक्ष (रिहन्ति) पूजते हैं ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् स्त्री-पुरुषों के उत्तम व्यवहारों का अनुकरण करके पुरुषार्थी लोग उनको सराहते हैं ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(स्वाहाकृतः) अ० २।१६।१। सुवाचा निष्पन्नः (शुचिः) पवित्रः (देवेषु) दिव्यगुणेषु वर्तमानयोः (यज्ञः) पूजनीयो व्यवहारः (अश्विनोः) उत्तमस्त्रीपुरुषयोः (चमसः) अ० ६।४७।३। मेघः-निघ० १।१०। मेघ इवोपकारी (देवपानः) विद्वद्भिः पानं रक्षणं यस्य सः (तम्) यज्ञम्) (उ) एव (विश्वे) सर्वे (अमृतासः) अमराः। निरलसाः (जुषाणाः) सेवमानाः। प्रीयमाणाः (गन्धर्वस्य) अ० २।१।२। भूमिधारकस्य सूर्यस्य (प्रति) प्रत्यक्षम् (आस्ना) मुखेन। प्रकाशेनेत्यर्थः (रिहन्ति) अर्चन्ति-निघ० ३।१४ ॥
@@ -242,15 +258,6 @@ Pure with the Gods is sacrifice with cry of Hail! That is the Asvins' cup whence
 
 य᳓दुस्रि᳓यास्वा᳓हुतं घृतं᳓ प᳓योऽयं᳓ स᳓ वामश्विना भाग᳓ आ᳓ गतम्।  
 मा᳓ध्वी धर्तारा विदथस्य सत्पती तप्तं᳓ घर्मं᳓ पिबतं रोचने दिवः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/04_yadusriyAsvAhutaM_ghRtam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यदु॒स्रिया॒स्वाहु॑तं घृ॒तं पयो॒ऽयं स वा॑मश्विना भा॒ग आ ग॑तम्।  
-माध्वी॑ धर्तारा विदथस्य सत्पती त॒प्तं घ॒र्मं पि॑बतं रोचने दि॒वः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/04_yadusriyAsvAhutaM_ghRtam.md">
@@ -274,14 +281,23 @@ In **b**, śśS. has *su* for *sa;* at the end, AśS. has *somyam madhu*
 series of vocatives in **c**, to guide us to their right combination,  
 which is doubtful. The comm. takes *mādhvī* as *madhuvidyāveditārāu*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Milk, molten butter offered when the mornings break,--this is your portion, Asvins! Come ye hitherward. Lords of the brave, balm-lovers, guards of sacrifice, drink ye the warm libation in the light of heaven.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदु॒स्रिया॒स्वाहु॑तं घृ॒तं पयो॒ऽयं स वा॑मश्विना भा॒ग आ ग॑तम्।  
+माध्वी॑ धर्तारा विदथस्य सत्पती त॒प्तं घ॒र्मं पि॑बतं रोचने दि॒वः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। उ॒स्रिया॑सु। आऽहु॑तम्। घृ॒तम्। पयः॑। अ॒यम्। सः। वा॒म्। अ॒श्वि॒ना॒। भा॒गः। आ। ग॒त॒म्। माध्वी॒ इति॑। ध॒र्ता॒रा॒। वि॒द॒थ॒स्य॒। स॒त्प॒ती॒ इति॑ सत्ऽपती। त॒प्तम्। घ॒र्मम्। पि॒ब॒त॒म्। रो॒च॒ने। दि॒वः। ७७.४। 
+यत्। उ॒स्रिया॑सु। आऽहु॑तम्। घृ॒तम्। पयः॑। अ॒यम्। सः। वा॒म्। अ॒श्वि॒ना॒। भा॒गः। आ। ग॒त॒म्। माध्वी॒ इति॑। ध॒र्ता॒रा॒। वि॒द॒थ॒स्य॒। स॒त्प॒ती॒ इति॑ सत्ऽपती। त॒प्तम्। घ॒र्मम्। पि॒ब॒त॒म्। रो॒च॒ने। दि॒वः। ७७.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - घर्मः, अश्विनौ
@@ -289,18 +305,22 @@ Milk, molten butter offered when the mornings break,--this is your portion, Asvi
 - जगती
 - धर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जैसे (उस्रियासु) गौवों में (घृतम्) घृत और (पयः) दूध (आहुतम्) दिया गया है, (अश्विना) हे चतुर स्त्री-पुरुषो ! (आ गतम्) आवो, (अयम् सः) वही (वाम्) तुम दोनों का (भागः) भाग [सेवनीय व्यवहार] है। (माध्वी) हे मधुविद्या [वेदविद्या] के जाननेवाले, (विदथस्य) जानने योग्य कर्म के (धर्तारा) धारण करनेवाले, (सत्पती) सत्पुरुषों के रक्षा करनेवाले ! तुम दोनों (दिवः) सूर्य के (रोचने) प्रकाश में (तप्तम्) ऐश्वर्ययुक्त (घर्मम्) प्रकाशमान [घर्म] का (पिबतम्) पान करो ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे गौ से घृत दुग्ध आदि सार पदार्थ लिया जाता है, वैसे ही विद्वान् स्त्री-पुरुष संसार के सर्व पदार्थों से तत्त्व ज्ञान प्राप्त करें, और जैसे सूर्य के प्रकाश में सब पदार्थ प्रकाशित होते हैं, वैसे ही ब्रह्म विद्या का प्रकाश करके आनन्दित होवें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(यत्) यथा (उस्रियासु) अ० ४।२६।५। गोषु (आहुतम्) सम्यग् दत्तम् (घृतम्) (पयः) दुग्धम् (अयम्) (सः) (वाम्) युवयोः (अश्विना) उत्तमस्त्री-पुरुषौ (भागः) सेवनीयो व्यवहारः (आ गतम्) आगच्छतम् (माध्वी) मधु+ई गतौ-क्विप्, छान्दसो दीर्घः। सुपां सुलुक्पूर्वसवर्णा०। पा० ७।१।३९। इति विभक्तेः पूर्वसवर्णदीर्घः। मधु मधुविद्यां वेदविद्यामीयेते जानीतो मध्व्यौ मधुविद्यावेदितारौ (धर्तारा) धारकौ (विदथस्य) अ० १।१३।४। ज्ञातव्यस्य कर्मणः (सत्पती) सज्जनानां पालकौ (तप्तम्) ऐश्वर्ययुक्तम् (घर्मम्) प्रकाशमानं घर्मम् (पिबतम्) स्वीकुरुतम् (रोचने) प्रकाशे (दिवः) सूर्यस्य ॥
@@ -314,15 +334,6 @@ Milk, molten butter offered when the mornings break,--this is your portion, Asvi
 
 तप्तो᳓ वां घर्मो᳓ नक्षतु स्व᳓होता प्र᳓ वामध्वर्यु᳓श्चरतु प᳓यस्वान्।  
 म᳓धोर्दुग्ध᳓स्याश्विना तना᳓या वीतं᳓ पातं᳓ प᳓यस उस्रियायाः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/05_tapto_vAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-त॒प्तो वां॑ घ॒र्मो न॑क्षतु॒ स्वहो॑ता॒ प्र वा॑मध्व॒र्युश्च॑रतु॒ पय॑स्वान्।  
-मधो॑र्दु॒ग्धस्या॑श्विना त॒नाया॑ वी॒तं पा॒तं पय॑स उस्रियायाः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/05_tapto_vAm.md">
@@ -348,14 +359,23 @@ of *yājñā* verses in the ceremony. \*⌊In fact Ludwig does render
 *tanā́yās* (accent!) by "this," and *tánā* and *tánāya* correspondingly.  
 *Tanāya* is the Ppp. reading here for *tanā́yās*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Let the warm drink approach you with its Hotar-priest: let the Adhvaryu come to you with store of milk. Come, O ye Asvins, taste the meath that hath been drained, drink of the milk provided by this radiant cow.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+त॒प्तो वां॑ घ॒र्मो न॑क्षतु॒ स्वहो॑ता॒ प्र वा॑मध्व॒र्युश्च॑रतु॒ पय॑स्वान्।  
+मधो॑र्दु॒ग्धस्या॑श्विना त॒नाया॑ वी॒तं पा॒तं पय॑स उस्रियायाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त॒प्तः। वा॒म्। ध॒र्मः। न॒क्ष॒तु॒। स्वऽहो॑ता। प्र। वा॒म्। अ॒ध्व॒र्युः। च॒र॒तु॒। पय॑स्वान्। मधोः॑। दु॒ग्धस्य॑। अ॒श्वि॒ना॒। त॒नायाः॑। वी॒तम्। पा॒तम्। पय॑सः। उ॒स्रिया॑याः। ७७.५। 
+त॒प्तः। वा॒म्। ध॒र्मः। न॒क्ष॒तु॒। स्वऽहो॑ता। प्र। वा॒म्। अ॒ध्व॒र्युः। च॒र॒तु॒। पय॑स्वान्। मधोः॑। दु॒ग्धस्य॑। अ॒श्वि॒ना॒। त॒नायाः॑। वी॒तम्। पा॒तम्। पय॑सः। उ॒स्रिया॑याः। ७७.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - घर्मः, अश्विनौ
@@ -363,18 +383,22 @@ Let the warm drink approach you with its Hotar-priest: let the Adhvaryu come to 
 - त्रिष्टुप्
 - धर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अश्विना) हे चतुर स्त्री-पुरुषो ! (वाम्) तुम दोनों को (स्वहोता) धन देनेवाला, (तप्तः) ऐश्वर्ययुक्त (घर्मः) प्रकाशमान घर्म (नक्षतु) व्याप्त होवे, (पयस्वान्) ज्ञानवान् (अध्वर्युः) अहिंसा कर्म चाहनेवाला [वह घर्म] (वाम्) तुम दोनों के लिये (प्रचरत्) प्रचरित होवे। तुम दोनों (तनायाः) उपकारी विद्या के (दुग्धस्य) परिपूर्ण (मधोः) मधुविद्या [ईश्वरज्ञान] की (वीतम्) प्राप्ति करो और (पातम्) रक्षा करो, [जैसे] (उस्रियायाः) गौ के (पयसः) दूध की [प्राप्ति और रक्षा करते हैं] ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  स्त्री-पुरुषों को योग्य है कि ये धर्मनिष्ठ होकर विद्या प्राप्त करके सर्वहितकारी कामों में सदा प्रवृत्त रहें ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(तप्तः) ऐश्वर्ययुक्तः (वाम्) युवाम् (घर्मः) प्रकाशमानो घर्मः (नक्षतु) व्याप्नोतु-निघ० २।१८। (स्वहोता) धनदाता (वाम्) युवाभ्याम् (अध्वर्युः) मृगय्वादयश्च। उ० १, ३७। अध्वर+या प्रापणे-कु। अथवा सुप आत्मनः क्यच्। पा० ३।१।८। अध्वर-क्यच्। क्याच्छन्दसि। पा० ३।२।१७०। उ प्रत्ययः, अलोपः। अहिंसाप्रापकः। अहिंसामिच्छुः। याजकः (प्रचरतु) प्रचरितो भवति (पयस्वान्) ज्ञानवान् (मधोः) मधुनः। मधुविद्यायाः (दुग्धस्य) प्रपूरितस्य (अश्विना) हे उत्तमस्त्रीपुरुषौ (तनायाः) तनु विस्तारे, तन उपकारे-पचाद्यच्, टाप्। उपकारिकाया विद्यायाः (वीतम्) प्राप्तिं कुरुतम् (पातम्) रक्षां कुरुतम् (पयसः) दुग्धस्य (उस्रियायाः) धेनोः ॥
@@ -388,15 +412,6 @@ Let the warm drink approach you with its Hotar-priest: let the Adhvaryu come to 
 
 उ᳓प द्रव प᳓यसा गोधुगोष᳓मा᳓ घर्मे᳓ सिञ्च प᳓य उस्रि᳓यायाः।  
 वि᳓ ना᳓कमख्यत्सविता᳓ व᳓रेण्योऽनुप्रया᳓णमुष᳓सो वि᳓ राजति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/06_upa_drava.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उप॑ द्रव॒ पय॑सा गोधुगो॒षमा घ॒र्मे सि॑ञ्च॒ पय॑ उ॒स्रिया॑याः।  
-वि नाक॑मख्यत्सवि॒ता वरे॑ण्योऽनुप्र॒याण॑मु॒षसो॒ वि रा॑जति ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/06_upa_drava.md">
@@ -428,14 +443,23 @@ adverb *oṣám*, but renders it by *taptam* ⌊*gharmam*, 'the heated
 *gharma*-vessel'⌋; he explains *vi akhyat* by *prakāśayati*. Two, if not  
 three, of the pādas are *triṣṭubh*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Come hither, quickly come, thou milker of the kine; into the caldron pour milk of the radiant cow. Most precious Savitar hath looked upon the heaven. After Dawn's going-forth he sends his light abroad.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑ द्रव॒ पय॑सा गोधुगो॒षमा घ॒र्मे सि॑ञ्च॒ पय॑ उ॒स्रिया॑याः।  
+वि नाक॑मख्यत्सवि॒ता वरे॑ण्योऽनुप्र॒याण॑मु॒षसो॒ वि रा॑जति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑। द्र॒व॒। पय॑सा। गो॒ऽधु॒क्। ओ॒षम्। आ। घ॒र्मे। सि॒ञ्च॒। पयः॑। उ॒स्रिया॑याः। वि। नाक॑म्। अ॒ख्य॒त्। स॒वि॒ता। वरे॑ण्यः। अ॒नु॒ऽप्र॒यान॑म्। उ॒षसः॑। वि। रा॒ज॒ति॒। ७७.६। 
+उप॑। द्र॒व॒। पय॑सा। गो॒ऽधु॒क्। ओ॒षम्। आ। घ॒र्मे। सि॒ञ्च॒। पयः॑। उ॒स्रिया॑याः। वि। नाक॑म्। अ॒ख्य॒त्। स॒वि॒ता। वरे॑ण्यः। अ॒नु॒ऽप्र॒यान॑म्। उ॒षसः॑। वि। रा॒ज॒ति॒। ७७.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - घर्मः, अश्विनौ
@@ -443,18 +467,22 @@ Come hither, quickly come, thou milker of the kine; into the caldron pour milk o
 - जगती
 - धर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (गोधुक्) हे विद्या के दोहनेवाले विद्वान् ! (पयसा) विज्ञान से (ओषम्) अन्धकारदाहक व्यवहार को (घर्मे) प्रकाशमान यज्ञ के बीच (उप) आदर से (द्रव) प्राप्त हो, और (आ) सब ओर से (सिञ्च) सींच [जैसे] (उस्रियायाः) गौ के (पयः) दूध को। (वरेण्यः) श्रेष्ठ (सविता) सबके चलानेवाले परमेश्वर ने (नाकम्) मोक्ष सुख का (वि अख्यत्) व्याख्यान किया है, वही (उषसः) अन्धकारनाशक उषा के (अनुप्रयाणम्) निरन्तर गमन का (वि) विशेष करके (राजति) राजा होता है ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य गौ के दूध के समान तत्त्वज्ञान को प्राप्त करके सत्कर्मों में प्रकाश करे। जैसे सूर्य का प्रकाश लगातार सब देशों पर चला आता है, उसी प्रकार परमात्मा ने सबके लिये मोक्ष का उपदेश वेद द्वारा किया है ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(उप) सादरम् (द्रव) गच्छ। प्राप्नुहि (पयसा) ज्ञानेन (गोधुक्) विद्यादोहकः (ओषम्) उष दाहे-घञ्। अन्धकारदाहकं व्यवहारम् (आ) समन्तात् (घर्मे) प्रकाशमाने यज्ञे-निघ० ३।१७। (सिञ्च) वर्धय (पयः) दुग्धम् (उस्रियायाः) गोः (नाकम्) मोक्षसुखम् (वि अख्यत्) ख्या प्रकथने-लुङ्। अस्यतिवक्तिख्यातिभ्योऽङ्। पा० ३।१।५२। इति च्लेरङ्। व्याख्यातवान् (सविता) सर्वप्रेरकः परमेश्वरः (वरेण्यः) श्रेष्ठः (अनुप्रयाणम्) निरन्तरप्रगमनम् (उषसः) अन्धकारदाहकस्य प्रभातप्रकाशस्य (वि) विशेषेण (राजति) राजयति। शास्ति ॥
@@ -468,15 +496,6 @@ Come hither, quickly come, thou milker of the kine; into the caldron pour milk o
 
 उ᳓प ह्वये सुदु᳓घां धेनु᳓मेतां᳓ सुह᳓स्तो गोधु᳓गुत᳓ दोहदेनाम्।  
 श्रे᳓ष्ठं सवं᳓ सविता᳓ साविषन्नोऽभी᳙द्धो घर्म᳓स्त᳓दु षु᳓ प्र᳓ वोचत् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/07_upa_hvaye.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उप॑ ह्वये सु॒दुघां॑ धे॒नुमे॒तां सु॒हस्तो॑ गो॒धुगु॒त दो॑हदेनाम्।  
-श्रेष्ठं॑ स॒वं स॑वि॒ता सा॑विषन्नो॒ऽभी᳡द्धो॑ घ॒र्मस्तदु॒ षु प्र वो॑चत् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/07_upa_hvaye.md">
@@ -495,14 +514,23 @@ RV. hymn is given). RV. has at the end the better reading *vocam*. The
 comm. declares the verse to be used in the calling up of the cow that  
 furnishes the *gharma* drink, that she may be milked.
 </details>
+
 <details><summary>Griffith</summary>
 
 I invocate this milch-cow good for milking, so that the milker, deft of hand, may milk her. May Savitar give goodliest stimulation. The caldron hath been warmed. Let him proclaim it.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑ ह्वये सु॒दुघां॑ धे॒नुमे॒तां सु॒हस्तो॑ गो॒धुगु॒त दो॑हदेनाम्।  
+श्रेष्ठं॑ स॒वं स॑वि॒ता सा॑विषन्नो॒ऽभी᳡द्धो॑ घ॒र्मस्तदु॒ षु प्र वो॑चत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑। ह्व॒ये॒। सु॒ऽदुघा॑म्। धे॒नुम्। ए॒ताम्। सु॒ऽहस्तः॑। गो॒ऽधुक्। उ॒त। दो॒ह॒त्। ए॒ना॒म्। श्रेष्ठ॑म्। स॒वम्। स॒वि॒ता। सा॒वि॒ष॒त्। नः॒। अ॒भिऽइ॑ध्दः। घ॒र्मः। तत्। ऊं॒ इति॑। सु। प्र। वो॒च॒त्। ७७.७। 
+उप॑। ह्व॒ये॒। सु॒ऽदुघा॑म्। धे॒नुम्। ए॒ताम्। सु॒ऽहस्तः॑। गो॒ऽधुक्। उ॒त। दो॒ह॒त्। ए॒ना॒म्। श्रेष्ठ॑म्। स॒वम्। स॒वि॒ता। सा॒वि॒ष॒त्। नः॒। अ॒भिऽइ॑ध्दः। घ॒र्मः। तत्। ऊं॒ इति॑। सु। प्र। वो॒च॒त्। ७७.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - घर्मः, अश्विनौ
@@ -510,18 +538,22 @@ I invocate this milch-cow good for milking, so that the milker, deft of hand, ma
 - त्रिष्टुप्
 - धर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सुदुघाम्) अच्छे प्रकार कामनायें पूरी करनेवाली (एताम्) इस (धेनुम्) विद्या को (उप ह्वये) मैं स्वीकार करता हूँ, (उत्) वैसे ही (सुहस्तः) हस्तक्रिया में चतुर (गोधुक्) विद्या को दोहनेवाला [विद्वान्] (एनाम्) इस [विद्या] को (दोहत्) दुहे। (सविता) ऐश्वर्यवान् परमेश्वर (श्रेष्ठम्) श्रेष्ठ (सवम्) ऐश्वर्य को (नः) हमारे लिये (साविषत्) उत्पन्न करे। (अभीद्धः) सब ओर प्रकाशमान (घर्मः) प्रतापी परमेश्वर ने (तत् उ) उस सबको (सुः) अच्छे प्रकार (प्र वोचत्) उपदेश किया है ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब मनुष्य कल्याणी वेदवाणी का पठन-पाठन करके ऐश्वर्य प्राप्त करें। जिस प्रकार परमेश्वर ने उसका उपदेश किया है ॥७॥ यह मन्त्र कुछ भेद से ऋग्वेद में है−१।१६४।२६ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(उप) सादरम् (ह्वये) स्वीकरोमि (सुदुघाम्) दुहः कब्घश्च। पा० ३।२।७०। सु+दुह प्रपूरणे-कप्, हस्य घः। सुष्ठु कामप्रपूरिकाम् (धेनुम्) वाचम्। विद्याम्-म० २। (एताम्) (सुहस्तः) अत्यन्तहस्तक्रियाकुशलः (गोधुक्) विद्यादोहकः (उत्) (दोहत्) लेटि रूपम्। दोग्धु (एनाम्) वाचम् (श्रेष्ठम्) (सवम्) ऐश्वर्यम् (सविता) सर्वप्रेरकः परमेश्वरः (साविषत्) अ० ६।१।३। उत्पादयेत् (नः) अस्मभ्यम् (अभीद्धः) सर्वतः दीप्तः (घर्मः) प्रकाशमानः परमेश्वरः (तत्) पूर्वोक्तं सर्वम् (उ) (सु) (प्र) (वोचत्) ब्रूञ्-लुङ्, अडभावश्छान्दसः। उपदिष्टवान् ॥
@@ -535,15 +567,6 @@ I invocate this milch-cow good for milking, so that the milker, deft of hand, ma
 
 हि᳙ङ्कृण्वती᳓ वसुप᳓त्नी व᳓सूनां वत्स᳓मिछ᳓न्ती म᳓नसा न्या᳓गन्।  
 दुहा᳓मश्वि᳓भ्यां प᳓यो अघ्न्ये᳓यं᳓ सा᳓ वर्धतां महते᳓ सौ᳓भगाय ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/08_hinkRNvatI_vasupatnI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-हि॑ङ्कृण्व॒ती व॑सु॒पत्नी॒ वसू॑नां व॒त्समि॒छन्ती॒ मन॑सा॒ न्याग॑न्।  
-दु॒हाम॒श्विभ्यां॒ पयो॑ अ॒घ्न्येयं सा व॑र्धतां मह॒ते सौभ॑गाय ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/08_hinkRNvatI_vasupatnI.md">
@@ -563,14 +586,23 @@ exception of D.) read here *hin̄kṛ-*, without division; at ix. 10. 5 they
 agree with RV. The verse accompanies, says the comm., the coming up of  
 the cow for milking.
 </details>
+
 <details><summary>Griffith</summary>
 
 She, sovran of all treasures, is come hither yearning in spirit for her calf, and lowing. May this cow yield her milk for both the Asvins, and may she prosper to our great advantage.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+हि॑ङ्कृण्व॒ती व॑सु॒पत्नी॒ वसू॑नां व॒त्समि॒छन्ती॒ मन॑सा॒ न्याग॑न्।  
+दु॒हाम॒श्विभ्यां॒ पयो॑ अ॒घ्न्येयं सा व॑र्धतां मह॒ते सौभ॑गाय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हि॒ङ्ऽकृ॒ण्व॒ती। व॒सु॒ऽपत्नी॑। वसू॑नाम्। व॒त्सम्। इ॒च्छन्ती॑। मन॑सा। नि॒ऽआग॑न्। दु॒हाम्। अ॒श्व‍िऽभ्या॑म्। पयः॑। अ॒घ्न्या। इ॒यम्। सा। व॒र्ध॒ता॒म्। म॒ह॒ते। सौभ॑गाय। ७७.८। 
+हि॒ङ्ऽकृ॒ण्व॒ती। व॒सु॒ऽपत्नी॑। वसू॑नाम्। व॒त्सम्। इ॒च्छन्ती॑। मन॑सा। नि॒ऽआग॑न्। दु॒हाम्। अ॒श्व‍िऽभ्या॑म्। पयः॑। अ॒घ्न्या। इ॒यम्। सा। व॒र्ध॒ता॒म्। म॒ह॒ते। सौभ॑गाय। ७७.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - घर्मः, अश्विनौ
@@ -578,18 +610,22 @@ She, sovran of all treasures, is come hither yearning in spirit for her calf, an
 - त्रिष्टुप्
 - धर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (हिङ्कृण्वती) गति वा वृद्धि करनेवाली, (वसुपत्नी) धन की रक्षा करनेवाली, (वसूनाम्) श्रेष्ठों के बीच (वत्सम्) उपदेशक पुरुष को (इच्छन्ती) चाहनेवाली [वेदवाणी] (मनसा) विज्ञान के साथ (न्यागन्) निश्चय करके प्राप्त हुई है। (इयम्) यह (अघ्न्या) हिंसा न करनेवाली विद्या (अश्विभ्याम्) दोनों चतुर स्त्री-पुरुषों के लिये, (पयः) विज्ञान को (दुहाम्) परिपूर्ण करे, (सा) वही [विद्या] (महते) अत्यन्त (सौभाग्य) सुन्दर ऐश्वर्य के लिये (वर्धताम्) बढ़े ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  यह जो वेदवाणी संसार का उपकार करती है, उसको सब स्त्री-पुरुष प्राप्त होकर यथावत् वृद्धि करें ॥८॥ यह मन्त्र कुछ भेद से ऋग्वेद में है−१।१६४।२७ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(हिङ्कृण्वती) हि गतिवृद्ध्योः−डि। गतिं वृद्धिं वा कुर्वती (वसुपत्नी) धनां पालिका (वसूनाम्) श्रेष्ठानां मध्ये (वत्सम्) अ० ३।१२।३। वद कथने-स प्रत्ययः। उपदेशकम् (इच्छन्ती) कामयमाना (मनसा) विज्ञानेन (न्यागन्) गमेर्लुङि रूपम्। निश्चयेनागतवती (दुहाम्) दुर्हुलोटि, आत्मनेपदम्, तलोपः। दुग्धाम्। प्रपूरयेत्। (अश्विभ्याम्) स्त्रीपुरुषयोर्हिताय (पयः) विज्ञानम् (अघ्न्या) अ० ३।३०।१। अहिंसिका वेदविद्या (इयम्) प्रसिद्धा (सा) (वर्धताम्) समृद्धा भवतु (महते) प्रभूताय (सौभगाय) शौभनैश्वर्य्याणां भावाय ॥
@@ -603,15 +639,6 @@ She, sovran of all treasures, is come hither yearning in spirit for her calf, an
 
 जु᳓ष्टो द᳓मूना अ᳓तिथिर्दुरोण᳓ इमं᳓ नो यज्ञ᳓मु᳓प याहि विद्वा᳓न्।  
 वि᳓श्वा अग्ने अभियु᳓जो विह᳓त्य शत्रूयता᳓मा᳓ भरा भो᳓जनानि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/09_juShTo_damUnA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-जुष्टो॒ दमू॑ना॒ अति॑थिर्दुरो॒ण इ॒मं नो॑ य॒ज्ञमुप॑ याहि वि॒द्वान्।  
-विश्वा॑ अग्ने अभि॒युजो॑ वि॒हत्य॑ शत्रूय॒तामा भ॑रा॒ भोज॑नानि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/09_juShTo_damUnA.md">
@@ -631,14 +658,23 @@ end of **c** *vihátyā*, p. *vi॰hátya;* there is no other variant. The
 comm. paraphrases *abhiyujas* in **c** by *abhiyoktrīḥ parasenāḥ*. ⌊For  
 **d**, cf. iv. 22. 7 **d**.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 As dear house-friend, guest welcome in the dwelling, to this our sacrifice come thou who knowest. And, Agni, having scattered all assailants, bring to us the posses- sions of our foemen.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+जुष्टो॒ दमू॑ना॒ अति॑थिर्दुरो॒ण इ॒मं नो॑ य॒ज्ञमुप॑ याहि वि॒द्वान्।  
+विश्वा॑ अग्ने अभि॒युजो॑ वि॒हत्य॑ शत्रूय॒तामा भ॑रा॒ भोज॑नानि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-जुष्टः॑। दमू॑नाः। अति॑थिः। दु॒रो॒णे। इ॒मम्। नः॒। य॒ज्ञम्। उप॑। या॒हि॒। वि॒द्वान्। विश्वाः॑। अ॒ग्ने॒। अ॒भि॒ऽयुजः॑। वि॒ऽहत्य॑। श॒त्रु॒ऽय॒ताम्। आ। भ॒र॒। भोज॑नानि। ७७.९। 
+जुष्टः॑। दमू॑नाः। अति॑थिः। दु॒रो॒णे। इ॒मम्। नः॒। य॒ज्ञम्। उप॑। या॒हि॒। वि॒द्वान्। विश्वाः॑। अ॒ग्ने॒। अ॒भि॒ऽयुजः॑। वि॒ऽहत्य॑। श॒त्रु॒ऽय॒ताम्। आ। भ॒र॒। भोज॑नानि। ७७.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - घर्मः, अश्विनौ
@@ -646,18 +682,22 @@ As dear house-friend, guest welcome in the dwelling, to this our sacrifice come 
 - त्रिष्टुप्
 - धर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे बिजुली सदृश उत्तम गुणवाले राजन् ! (जुष्टः) सेवा किया गया वा प्रसन्न किया गया, (दमूनाः) शम दम आदि से युक्त, (अतिथिः) सदा गतिशील [महापुरुषार्थी], (विद्वान्) विद्वान् तू (नः) हमारे (दुरोणे) घर में वर्तमान (इमम्) इस (यज्ञम्) उत्तम दान को (उप याहि) सादर प्राप्त हो। और (शत्रूयताम्) शत्रुसमान आचरण करनेवालों की (विश्वाः) सब (अभियुजः) चढ़ाई करती हुई सेनाओं को (विहत्य) अनेक प्रकार से मार कर (भोजनानि) पालनसाधनों को (आ) सब ओर से (भर) धारण कर ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब प्रजागण धर्मात्मा पराक्रमी राजा को सदा प्रसन्न रक्खें, जिससे वह शत्रुओं को जीत कर प्रजापालन करता रहे ॥९॥ यह मन्त्र कुछ भेद से ऋग्वेद में है−५।४।५ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(जुष्टः) सेवितः प्रीतो वा (दमूनाः) अ० ७।१४।४। शमदमादियुक्तः (अतिथिः) अ० ७।२१।१। अतनशीलः। महापुरुषार्थी (दुरोणे) अ० ५।२।६। गृहे वर्तमानम् (इमम्) प्रत्यक्षम् (नः) अस्माकम् (यज्ञम्) उत्तमपदार्थदानम् (उप) (याहि) (विद्वान्) (विश्वाः) समग्राः (अग्ने) विद्युदिव शुभगुणाढ्य राजन् (अभियुजः) अभियोक्त्रीः परसेनाः (विहत्य) विविधं हत्वा (शत्रूयताम्) अ० ३।१।३। शत्रुवदाचरताम् (आ) समन्तात् (भर) धर (भोजनानि) पालनसाधनानि ॥
@@ -671,15 +711,6 @@ As dear house-friend, guest welcome in the dwelling, to this our sacrifice come 
 
 अ᳓ग्ने श᳓र्ध महते᳓ सौ᳓भगाय त᳓व द्युम्ना᳓न्युत्तमा᳓नि सन्तु।  
 सं᳓ जास्पत्यं᳓ सुय᳓ममा᳓ कृणुष्व शत्रूयता᳓मभि᳓ तिष्ठा म᳓हांसि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/10_agne_shardha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अग्ने॒ शर्ध॑ मह॒ते सौभ॑गाय॒ तव॑ द्यु॒म्नान्यु॑त्त॒मानि॑ सन्तु।  
-सं जा॑स्प॒त्यं सु॒यम॒मा कृ॑णुष्व शत्रूय॒ताम॒भि ति॑ष्ठा॒ महां॑सि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/10_agne_shardha.md">
@@ -701,14 +732,23 @@ gives that form in his *pada*-text. The RV. *pada* reads *jāḥpatyám* and
 *jāḥpátiḥ*, but, strangely, *jā́ḥ॰patim* (the two latter occurring only  
 once each). ⌊Winternitz, *Hochzeitsrituell*, p. 57, cites the verse.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Show thyself strong for mighty bliss, O Agni! Most excellent be thine effulgent splendours! Make easy to maintain our household lordship, and overcome the might of those who hate us.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॒ शर्ध॑ मह॒ते सौभ॑गाय॒ तव॑ द्यु॒म्नान्यु॑त्त॒मानि॑ सन्तु।  
+सं जा॑स्प॒त्यं सु॒यम॒मा कृ॑णुष्व शत्रूय॒ताम॒भि ति॑ष्ठा॒ महां॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। शर्ध॑। म॒ह॒ते। सौभ॑गाय। तव॑। द्यु॒म्नानि॑। उ॒त्ऽत॒मानि॑। स॒न्तु॒। सम्। जाः॒ऽप॒त्यम्। सु॒ऽयम॑म्। आ। कृ॒णु॒ष्व॒। श॒त्रु॒यऽय॒ताम्। अ॒भि। ति॒ष्ठ॒। महां॑सि। ७७.१०। 
+अग्ने॑। शर्ध॑। म॒ह॒ते। सौभ॑गाय। तव॑। द्यु॒म्नानि॑। उ॒त्ऽत॒मानि॑। स॒न्तु॒। सम्। जाः॒ऽप॒त्यम्। सु॒ऽयम॑म्। आ। कृ॒णु॒ष्व॒। श॒त्रु॒यऽय॒ताम्। अ॒भि। ति॒ष्ठ॒। महां॑सि। ७७.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - घर्मः, अश्विनौ
@@ -716,18 +756,22 @@ Show thyself strong for mighty bliss, O Agni! Most excellent be thine effulgent 
 - त्रिष्टुप्
 - धर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शर्ध) हे बलवान् (अग्ने) विद्वान् राजन् ! (महते) हमारे बड़े (सौभगाय) सुन्दर ऐश्वर्य के लिये (तव) तेरे (द्युम्नानि) यश वा धन (उत्तमानि) अति ऊँचे (सन्तु) होवें। (जास्पत्यम्) [हमारे] पत्नी-पतिधर्म [गृहस्थ आश्रम] को (सुयमम्) सुन्दर नियम युक्त (सम् आ) बहुत ही भले प्रकार (कृणुष्व) कर, (शत्रूयताम्) शत्रुसमान आचरण करनेवालों के (महांसि) बलों को (अभि तिष्ठ) परास्त कर दे ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संयमी पुरुषार्थी स्त्री-पुरुष बड़ा ऐश्वर्य, कीर्ति, बल प्राप्त करके शत्रुओं को जीत कर प्रजापालन करें ॥१०॥ यह मन्त्र ऋग्वेद में है−५।२८।३। और यजु०−३३।१२ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(अग्ने) विद्वन् राजन् (शर्ध) शृधु उन्दे उत्साहे वा-पचाद्यच्। बलवन्। शर्धः=बलम्-निघ० २।९। (महते) प्रभूताय (सौभगाय) शोभनैश्वर्याय (तव) (द्युम्नानि) अ० ६।३५।३। धनानि यशांसि वा (उत्तमानि) उद्गततमानि। उन्नततमानि (सन्तु) (सम्) सम्यक् (जास्पत्यम्) पत्यन्तपुरोहितादिभ्यो यक्। पा० ५।१।१२८। जायापति-यक्, छान्दसो या शब्दलोपः सुडागमश्च। जायापत्यम्। पत्नीपतिधर्मं (सुयमम्) ईषद्दुःसुषु०। पा० ३।३।१२६। इति खल्। जितेन्द्रियत्वादिनियमयुक्तम् (आ) समन्तात् (कृणुष्व) कुरु (शत्रूयताम्) शत्रुवदाचरताम् (अभि तिष्ठ) आक्रमस्व। अभिभव (महांसि) तेजांसि। बलानि ॥
@@ -741,15 +785,6 @@ Show thyself strong for mighty bliss, O Agni! Most excellent be thine effulgent 
 
 सू᳙यवसा᳓द्भ᳓गवती हि᳓ भूया᳓ अ᳓धा वयं᳓ भ᳓गवन्तः स्याम।  
 अद्धि᳓ तृ᳓णमघ्न्ये विश्वदा᳓नीं पिब शुद्ध᳓मुदक᳓माच᳓रन्ती ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/11_sUyavasAdbhagavatI_hi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सू॑यव॒साद्भग॑वती॒ हि भू॒या अधा॑ व॒यं भग॑वन्तः स्याम।  
-अ॒द्धि तृण॑मघ्न्ये विश्व॒दानीं॑ पिब शु॒द्धमु॑द॒कमा॒चर॑न्ती ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/11_sUyavasAdbhagavatI_hi.md">
@@ -771,14 +806,23 @@ The sixth *anuvāka*, with 14 (or 16) hymns and 42 verses, finishes here.
 The quoted Anukr. says of the verses *dvir ekaviṅśatiḥ ṣaṣṭhaḥ*, and, of  
 the hymns, *ṣaṣṭhaś caturdaśa*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Fortunate mayst thou be with goodly pasture, and may we also be exceeding wealthy. Feed on the grass, O Cow, at every season, and, coming hither, drink the limpid water.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सू॑यव॒साद्भग॑वती॒ हि भू॒या अधा॑ व॒यं भग॑वन्तः स्याम।  
+अ॒द्धि तृण॑मघ्न्ये विश्व॒दानीं॑ पिब शु॒द्धमु॑द॒कमा॒चर॑न्ती ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सु॒य॒व॒स॒ऽअत्। भग॑ऽवती। हि। भू॒याः। अध॑। व॒यम्। भग॑ऽवन्तः। स्या॒म॒। अ॒ध्दि। तृण॑म्। अ॒घ्न्ये॒। वि॒श्व॒ऽदानी॑म्। पिब॑। शु॒ध्दम्। उ॒द॒कम्। आ॒ऽचर॑न्ती। ७७.११। 
+सु॒य॒व॒स॒ऽअत्। भग॑ऽवती। हि। भू॒याः। अध॑। व॒यम्। भग॑ऽवन्तः। स्या॒म॒। अ॒ध्दि। तृण॑म्। अ॒घ्न्ये॒। वि॒श्व॒ऽदानी॑म्। पिब॑। शु॒ध्दम्। उ॒द॒कम्। आ॒ऽचर॑न्ती। ७७.११।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - घर्मः, अश्विनौ
@@ -786,18 +830,22 @@ Fortunate mayst thou be with goodly pasture, and may we also be exceeding wealth
 - त्रिष्टुप्
 - धर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे प्रजा, सब स्त्री-पुरुषो !] (सूयवसात्) सुन्दर अन्न आदि भोगनेवाली और (भगवती) बहुत ऐश्वर्यवाली (हि) ही (भूयाः) हो, (अध) फिर (वयम्) हमलोग (भगवन्तः) बड़े ऐश्वर्यवाले (स्याम) होवें। (अघ्न्ये) हे हिंसा न करनेवाली प्रजा ! (विश्वदानीम्) समस्त दानों की क्रिया का (आचरन्ती) आचरण करती हुई तू [हिंसा न करनेवाली गौ के समान] (तृणम्) घास [अल्प मूल्य पदार्थ] को (अद्धि) खा और (शुद्धम्) शुद्ध (उदकम्) जल को (पिब) पी ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे गौ अल्प मूल्य घास खाकर और शुद्ध जल पीकर दूध घी आदि देकर उपकार करती है, वैसे ही मनुष्य थोड़े व्यय से शुद्ध आहार-विहार करके संसार का सदा उपकार करें ॥११॥ यह मन्त्र कुछ भेद से ऋग्वेद में है−१।१६४।४० ॥  इति षष्ठोऽनुवाकः ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(सूयवसात्) अदोऽनन्ने। पा० ३।२।६८। सुयवस+अद भक्षणे-विट्। शोभनानि यवसानि अन्नादीनि अदन्ती प्रजा (भगवती) बह्वैश्वर्ययुक्ता (हि) अवधारणे (भूयाः) (अध) अथ। अनन्तरम् (भगवन्तः) बह्वैश्वर्ययुक्ताः (स्याम) भवेम (अद्धि) अशान (तृणम्) घासम् (अघ्न्ये) अहिंसिके (विश्वदानीम्) दानीं च। पा० ५।३।१८। विश्व-दानीं प्रत्ययः सप्तम्यर्थे। विश्वदानीम्=सर्वदा-निरु० ११।४४। विश्वानि समग्राणि दानानि यस्यास्तां क्रियाम्, यथा दयानन्दभाष्ये ऋक्० १।१६४।४०। (पिब) (शुद्धम्) पवित्रम् (उदकम्) जलम् (आचरन्ती) अनुतिष्ठन्ती ॥

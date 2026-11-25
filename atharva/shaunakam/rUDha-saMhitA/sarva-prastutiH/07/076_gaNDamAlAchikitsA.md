@@ -8,15 +8,18 @@ title = "०७६ गण्डमालाचिकित्सा"
 
 76 (80, 81). Against apacíts and jāyā́nya: etc.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 गण्डमालाचिकित्सा।  
 १-६ अथर्वा। १,२ अपचिद्भैषज्यं, ३-६ जायान्यः, इन्द्रः। अनुष्टुप्,
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [1-4. Atharvan.—caturṛcam. apacidbhāiṣajyadevatyam. ānuṣṭubham: 1. virāj; 2, paroṣṇiḥ. 5, 6. Atharvan.—dvyṛcam. jāyānyāindradāivatam. trāiṣṭubham: 5. bhurig anuṣṭubh.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Once more (and for the last time) we followed our first mss. and the anuvāka-en
 #### Translations
 Translated: Ludwig, p. 500; Zimmer, p. 377 (vss. 3-5); Bloomfield, JAOS. xiii. p. ccxvii (vss. 1-2), p. ccxv (vss. 3-5) = PAOS. Oct. 1887, or AJP. xi. 324, 320; Henry, 30, 97; Griffith, i. 364; Bloomfield, SBE. xlii. 17, 559.
 </details>
+
 <details><summary>Griffith</summary>
 
 A charm to cure scrofulous pustules and scrofula
@@ -39,15 +43,6 @@ A charm to cure scrofulous pustules and scrofula
 
 आ᳓ सुस्र᳓सः सुस्र᳓सो अ᳓सतीभ्यो अ᳓सत्तराः।  
 से᳓होररस᳓तरा लवणा᳓द्वि᳓क्लेदीयसीः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आ सु॒स्रसः॑ सु॒स्रसो॒ अस॑तीभ्यो॒ अस॑त्तराः।  
-सेहो॑रर॒सत॑रा लव॒णाद्विक्ले॑दीयसीः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
@@ -75,14 +70,23 @@ seems a mere guess; Henry substitutes *arasāt*. The prefixion of *ā́* to
 verse; it reads, for **a, b**, *nāmann asaṁ svayaṁ srasann asatībhyo  
 vasattarā*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Rapidly dropping, quick to drop, more evil than the evil ones, More sapless than a dried-up bone, swifter than salt to melt away.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ सु॒स्रसः॑ सु॒स्रसो॒ अस॑तीभ्यो॒ अस॑त्तराः।  
+सेहो॑रर॒सत॑रा लव॒णाद्विक्ले॑दीयसीः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। सु॒ऽस्रसः॑। सु॒ऽस्रसः॑। अस॑तीभ्यः। अस॑त्ऽतराः। सेहोः॑। अ॒र॒सऽत॑राः। ल॒व॒णात्। विऽक्ले॑दीयसीः। ८०.१। 
+आ। सु॒ऽस्रसः॑। सु॒ऽस्रसः॑। अस॑तीभ्यः। अस॑त्ऽतराः। सेहोः॑। अ॒र॒सऽत॑राः। ल॒व॒णात्। विऽक्ले॑दीयसीः। ८०.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अपचिद् भैषज्य्म्
@@ -90,18 +94,22 @@ Rapidly dropping, quick to drop, more evil than the evil ones, More sapless than
 - विराडनुष्टुप्
 - गण्डमालाचिकित्सा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 १-५ रोगनाश
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (आ) सब ओर से (सुस्रसः) बहुत बहनेवाले पदार्थ से (सुस्रसः) बहुत बहनेवाली और (असतीभ्यः) बहुत बुरी [पीड़ाओं] से (असत्तराः) अधिक बुरी, (सेहोः) सेहु [नीरस वस्तु विशेष] से (अरसतराः) नीरस [शुष्कस्वभाव] और (लवणात्) लवण से (विक्लेदीयसीः) अधिक गल जानेवाली [गण्डमालाओं] को [नष्ट कर दिया है-म० ३] ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १ तथा २ का सम्बन्ध (निर्हाः)नष्ट कर दिया है क्रिया मन्त्र ३ के साथ है। जैसे गण्डमालायें कभी सूख जाती, कभी हरी हो जाती हैं, ऐसी ही कुवासनायें कभी निर्बल और कभी सबल हो जाती हैं ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(आ) समन्तात् (सुस्रसः) सु+स्रसु पतने-क्विप्। अनिदितां हल उपधायाः ङ्किति। पा० ६।४।२४। इति नलोपः। अतिस्रवणशीलात्पदार्थात् (सुस्रसः) अत्यर्थं स्रवणशीलाः (असतीभ्यः) दुष्टाभ्यः (असत्तराः) अधिक−दुष्टाः (सेहोः) भृमृशीङ्०। उ० १।७। षिञ् बन्धने-उ, हुगागमः। सेहुनामनिःसारपदार्थविशेषात् (अरसतराः) अधिकशुष्काः (लवणात्) नन्दिग्रहिपचादि०। पा० ३।१।१३४। लूञ् छेदने-ल्यु। सैन्धवादिक्षाररसभेदात् (विक्लेदीयसीः) क्लिदू आर्द्रीभावे-घञ्, विविधः क्लेदो यासां ता विक्लेदाः। तत ईयसुन्, ङीप्। शसि रूपम्। अधिकस्रवणशीलाः ॥
@@ -115,15 +123,6 @@ Rapidly dropping, quick to drop, more evil than the evil ones, More sapless than
 
 या᳓ ग्रै᳓व्या अपचि᳓तो᳓ऽथो या᳓ उपपक्ष्याः᳙।  
 विजा᳓म्नि या᳓ अपचि᳓तः स्वयंस्र᳓सः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-या ग्रैव्या॑ अप॒चितोऽथो॒ या उ॑पप॒क्ष्याः᳡।  
-वि॒जाम्नि॒ या अ॑प॒चितः॑ स्वयं॒स्रसः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
@@ -141,14 +140,23 @@ In translating the obscure *vijā́man*, the comm. is followed; he says
 it "knöchel." *Upapakṣyās* he paraphrases with *upapakṣe pakṣasamīpa  
 upakakṣe bhavāḥ*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules that, falling of themselves, spring up on every twofold limb:
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+या ग्रैव्या॑ अप॒चितोऽथो॒ या उ॑पप॒क्ष्याः᳡।  
+वि॒जाम्नि॒ या अ॑प॒चितः॑ स्वयं॒स्रसः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। ग्रैव्याः॑। अ॒प॒ऽचितः॑। अथो॒ इति॑। याः। उ॒प॒ऽप॒क्ष्याः᳡। वि॒ऽजाम्नि॑। याः। अ॒प॒ऽचितः॑। स्व॒य॒म्ऽस्रसः॑। ८०.२। 
+याः। ग्रैव्याः॑। अ॒प॒ऽचितः॑। अथो॒ इति॑। याः। उ॒प॒ऽप॒क्ष्याः᳡। वि॒ऽजाम्नि॑। याः। अ॒प॒ऽचितः॑। स्व॒य॒म्ऽस्रसः॑। ८०.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अपचिद् भैषज्यम्
@@ -156,18 +164,22 @@ Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules t
 - परोष्णिक्
 - गण्डमालाचिकित्सा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 १-५ रोगनाश
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (याः) जो (ग्रैव्याः) गले पर (अथो) और (याः) जो (उपपक्ष्याः) पक्खों [कन्धों] के जोड़ों पर (अपचितः) गण्डमालायें [फुड़ियाँ] हैं। और (याः) जो (स्वयंस्रसः) अपने आप बहनेवाली (अपचितः) फुंसियाँ (विजाम्नि) गुह्य स्थान पर हैं [उनको नष्ट दिया है-म० ३] ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  दुःखदायी रोगों को वैद्य लोग नष्ट करें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(याः) (ग्रैव्याः) अ० ६।२५।२। ग्रीवासु गलप्रदेशेषु भवा नाड्यः (अपचितः) अ० ६।८३।१। गण्डमालादिपीडाः (याः) (उपपक्ष्याः) उपपक्ष-यत्। उपपक्षे स्कन्धसन्धौ भवाः (विजाम्नि) विविधं जायते विजामा। अन्योभ्योऽपि दृश्यन्ते। पा० ३।२।७५। वि+जनी प्रादुर्भावे-मनिन्। विड्वनोरनुनासिकस्यात्। पा० ६।४।४१। आत्वम्। गुह्यप्रदेशे (याः) (अपचितः) (स्वयंस्रसः)-म० १। व्रणरूपेण स्वयं स्रवणशीलाः ॥
@@ -181,15 +193,6 @@ Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules t
 
 यः᳓ की᳓कसाः प्रशृणा᳓ति तलीद्य᳙मवति᳓ष्ठति।  
 नि᳓र्हास्तं᳓ स᳓र्वं जाया᳓न्यं᳓ यः᳓ क᳓श्च ककु᳓दि श्रितः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यः कीक॑साः प्रशृ॒णाति॑ तली॒द्य᳡मव॒तिष्ठ॑ति।  
-निर्हा॒स्तं सर्वं॑ जा॒यान्यं यः कश्च॑ क॒कुदि॑ श्रि॒तः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
@@ -227,14 +230,23 @@ pointing to a venereal disease; R. conjectures gout. \*⌊in fact, R's
 Collation gives *talābhyam:* W. seems to take it as a slip for  
 *-bhyām*.—Further, this is followed by *upa-*, not *ava-*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 I have expelled and banished all Scrofula harboured in the head, And that which bores the breast-bone through, and that which settles in the sole.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यः कीक॑साः प्रशृ॒णाति॑ तली॒द्य᳡मव॒तिष्ठ॑ति।  
+निर्हा॒स्तं सर्वं॑ जा॒यान्यं यः कश्च॑ क॒कुदि॑ श्रि॒तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। कीक॑साः। प्र॒ऽशृ॒णाति॑। त॒ली॒द्य᳡म्। अ॒व॒ऽतिष्ठ॑ति। निः। हाः॒। तम्। सर्व॑म्। जा॒यान्य॑म्। यः। कः। च॒। क॒कुदि॑। श्रि॒तः। ८०.३। 
+यः। कीक॑साः। प्र॒ऽशृ॒णाति॑। त॒ली॒द्य᳡म्। अ॒व॒ऽतिष्ठ॑ति। निः। हाः॒। तम्। सर्व॑म्। जा॒यान्य॑म्। यः। कः। च॒। क॒कुदि॑। श्रि॒तः। ८०.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अपचिद् भैषज्यम्
@@ -242,18 +254,22 @@ I have expelled and banished all Scrofula harboured in the head, And that which 
 - अनुष्टुप्
 - गण्डमालाचिकित्सा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 १-५ रोगनाश
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो [क्षय रोग] (कीकसाः) हँसली की हड्डियों को (प्रशृणाती) तोड़ देता है और (तलीद्यम्) हथेली और तलवे के चर्म पर (अवतिष्ठति) जम जाता है। (च) और (यः) जो (कः) कोई (ककुदि) शिर में (श्रितः) ठहरा हुआ है, (तम्) उस (सर्वम्) सब (जायान्यम्) क्षय रोग को [उस वैद्य ने] (निः) निरन्तर (हाः) नष्ट कर दिया है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वैद्य रोगों के लक्षण जान कर उचित चिकित्सा करे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(यः) जायान्यः (कीकसाः) अ० २।३३।२। जत्रुवक्षोगतास्थीनि (प्रशृणाति) प्रच्छिनत्ति (तलीद्यम्) हृसृरुहि०। उ० १।९७। तल प्रतिष्ठायाम्-इति प्रत्ययः, दीर्घश्चान्दसः। भवे छन्दसि। पा० ४।४।११०। यत्। तलिति तले करतलपदतले भवं चर्म (अवतिष्ठति) आश्रयति (निः) निरन्तरम् (हाः) अ० ६।१०३।२। हृञ् नाशने-लुङ्। अहाः। अहार्षीत्। नाशितवान् स वैद्य इति शेषः (तम्) (सर्वम्) (जायान्यम्) वदेरान्यः। उ० ३।१०४। जै क्षये-आन्य। क्षयम्। राजरोगम् (यः) (कः) (च) (ककुदि) अ० ३।४।२। उत्तमाङ्गे। शिरसि (श्रितः) अवस्थितः ॥
@@ -267,15 +283,6 @@ I have expelled and banished all Scrofula harboured in the head, And that which 
 
 पक्षी᳓ जाया᳓न्यः पतति स᳓ आ᳓ विशति पू᳓रुषम्।  
 त᳓द᳓क्षितस्य भेषज᳓मुभ᳓योः सु᳓क्षतस्य च ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प॒क्षी जा॒यान्यः॑ पतति॒ स आ वि॑शति॒ पूरु॑षम्।  
-तदक्षि॑तस्य भेष॒जमु॒भयोः॒ सुक्ष॑तस्य च ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
@@ -308,14 +315,23 @@ variation of reading in the mss. as regards the two words; and it seems
 extremely unlikely that, if they once agreed, they should have become  
 thus dissimilated.
 </details>
+
 <details><summary>Griffith</summary>
 
 Scrofula flies borne on by wings: it penerates and holds the man. Here is the cure of either kind, the chronic and the transient.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प॒क्षी जा॒यान्यः॑ पतति॒ स आ वि॑शति॒ पूरु॑षम्।  
+तदक्षि॑तस्य भेष॒जमु॒भयोः॒ सुक्ष॑तस्य च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प॒क्षी। जा॒यान्यः॑। प॒त॒ति॒। सः। आ। वि॒श॒ति॒। पुरु॑षम्। तत्। अक्षि॑तस्य। भे॒ष॒जम्। उ॒भयोः॑। सुऽक्ष॑तस्य। च॒। ८०.४। 
+प॒क्षी। जा॒यान्यः॑। प॒त॒ति॒। सः। आ। वि॒श॒ति॒। पुरु॑षम्। तत्। अक्षि॑तस्य। भे॒ष॒जम्। उ॒भयोः॑। सुऽक्ष॑तस्य। च॒। ८०.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अपचिद् भैषज्यम्
@@ -323,18 +339,22 @@ Scrofula flies borne on by wings: it penerates and holds the man. Here is the cu
 - अनुष्टुप्
 - गण्डमालाचिकित्सा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 १-५ रोगनाश
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पक्षी) पंखवाला [उड़ाऊ] (जायान्यः) क्षयरोग (पतति) उड़ता है, (सः) वह (पूरुषम्) पुरुष में (आ विशति) प्रवेश कर जाता है। (तत्) यह (अक्षितस्य) भीतर व्यापे हुए (च) और (सुक्षतस्य) बहुत फोड़ोंवाले, (उभयोः) दोनों प्रकार के [क्षयरोग] की (भेषजम्) ओषधि है ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सद्वैद्य भीतरी और बाहिरी लक्षणों से रोग की पहिचान कर निवृत्ति करे ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(पक्षी) पक्षवान्। शीघ्रगतिः (जायान्यः) म० ३। क्षयरोगः (पतति) शीघ्रं गच्छति (सः) (आविशति) प्रविशति (पूरुषम्) पुरुषम्। शरीरम् (तत्) (अक्षितस्य) अक्षू व्याप्तौ-क्त। अन्तर्व्याप्तस्य क्षयस्य (भेषजम्) औषधम् (उभयोः) अक्षितसुक्षतयोः (सुक्षतस्य) क्षणु हिंसायाम्-क्त। बहुव्रणयुक्तस्य ॥
@@ -348,15 +368,6 @@ Scrofula flies borne on by wings: it penerates and holds the man. Here is the cu
 
 विद्म᳓ वै᳓ ते जायान्य जा᳓नं य᳓तो जायान्य जा᳓यसे।  
 कथं᳓ ह त᳓त्र त्वं᳓ हनो य᳓स्य कृण्मो᳓ हवि᳓र्गृहे᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वि॒द्म वै ते॑ जायान्य॒ जानं॒ यतो॑ जायान्य॒ जाय॑से।  
-क॒थं ह॒ तत्र॒ त्वं ह॑नो॒ यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
@@ -378,14 +389,23 @@ Ppp. has only **c, d**, as second half-verse to our 4 **a, b**, and
 reads *tvaṁ hanyād yatra kuryān mahaṁ haviḥ*. ⌊We had our **d** at vi.  
 5. 3 **a**—The new decad begins here: cf. p. 389.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast thou then struck this man here, him in whose house we sacrifice?
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒द्म वै ते॑ जायान्य॒ जानं॒ यतो॑ जायान्य॒ जाय॑से।  
+क॒थं ह॒ तत्र॒ त्वं ह॑नो॒ यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒द्म। वै। ते॒। जा॒या॒न्य॒। जान॑म्। यतः॑। जा॒या॒न्य॒। जाय॑से। क॒थम्। ह॒। तत्र॑। त्वम्। ह॒नः॒। यस्य॑। कृ॒ण्मः। ह॒विः। गृ॒हे। ८१.१। 
+वि॒द्म। वै। ते॒। जा॒या॒न्य॒। जान॑म्। यतः॑। जा॒या॒न्य॒। जाय॑से। क॒थम्। ह॒। तत्र॑। त्वम्। ह॒नः॒। यस्य॑। कृ॒ण्मः। ह॒विः। गृ॒हे। ८१.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - जायान्यः, इन्द्रः
@@ -393,18 +413,22 @@ We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast t
 - भुरिगनुष्टुप्
 - गण्डमालाचिकित्सा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 १-५ रोगनाश
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (जायान्य) हे क्षयरोग ! (वै) निश्चय करके (ते) तेरा (जानम्) जन्मस्थान (विद्म) हम जानते हैं, (यतः) जहाँ से, (जायान्य) हे क्षयरोग ! (जायसे) तू उत्पन्न होता है। (त्वम्) तू (तत्र) वहाँ पर (कथम् ह) किस प्रकार से ही [मनुष्य को] (हनः) मार सकता है, (यस्य) जिसके (गृहे) घर में (हविः) ग्राह्य कर्म को (कृण्मः) हम करते हैं ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य रोगों का कारण जानकर पथ्य का सेवन और कुपथ्य का त्याग करते हैं, वे सदा स्वस्थ रहते हैं ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(विद्म) जानीमः (वै) अवश्यम् (ते) तव (जायान्य) म० ३। हे क्षयरोग (जानम्) जन-घञ्। जन्मस्थानम् (यतः) यस्मात् (जायान्य) (जायसे) उत्पद्यसे (कथम्) केन प्रकारेण (ह) अवश्यम् (तत्र) (त्वम्) (हनः) हन्तेर्लेटि अडागमः। हन्याः पुरुषम् (यस्य) पुरुषस्य (कृण्मः) कुर्मः (हविः) ग्राह्यं पथ्यं कर्म (गृहे) ॥
@@ -420,15 +444,6 @@ We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast t
 मा᳓ध्यन्दिने स᳓वन आ᳓ वृषस्व रयिष्ठा᳓नो रयि᳓मस्मा᳓सु धेहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-धृ॒षत्पि॑ब क॒लशे॒ सोम॑मिन्द्र वृत्र॒हा शू॑र सम॒रे वसू॑नाम्।  
-माध्य॑न्दिने॒ सव॑न॒ आ वृ॑षस्व रयि॒ष्ठानो॑ र॒यिम॒स्मासु॑ धेहि ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">
 <details open><summary><h3>०६ धृषत्पिब कलशे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -442,14 +457,23 @@ libation pour \[it\] down; a *dépôt* of wealth, assign wealth to us.
 The verse is RV. vi. 47. 6; RV. has *rayisthā́nas* in **d**. Ppp. offers  
 no variant.
 </details>
+
 <details><summary>Griffith</summary>
 
 Boldly drink Soma from the beaker, Indra! hero in war for treasure! Vritra-slayer. Fill thyself full at the mid-day libation: thyself possessing riches grant us riches.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+धृ॒षत्पि॑ब क॒लशे॒ सोम॑मिन्द्र वृत्र॒हा शू॑र सम॒रे वसू॑नाम्।  
+माध्य॑न्दिने॒ सव॑न॒ आ वृ॑षस्व रयि॒ष्ठानो॑ र॒यिम॒स्मासु॑ धेहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-धृ॒षत्। पि॒ब॒। क॒लशे॑। सोम॑म्। इ॒न्द्र॒। वृ॒त्र॒ऽहा। शू॒र॒। स॒म्ऽअ॒रे। वसू॑नाम्। माध्यं॑दिने। सव॑ने। आ। वृ॒ष॒स्व॒। र॒यि॒ऽस्थानः॑। र॒यिम्। अ॒स्मासु॑। धे॒हि॒। ८१.२। 
+धृ॒षत्। पि॒ब॒। क॒लशे॑। सोम॑म्। इ॒न्द्र॒। वृ॒त्र॒ऽहा। शू॒र॒। स॒म्ऽअ॒रे। वसू॑नाम्। माध्यं॑दिने। सव॑ने। आ। वृ॒ष॒स्व॒। र॒यि॒ऽस्थानः॑। र॒यिम्। अ॒स्मासु॑। धे॒हि॒। ८१.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - जायान्यः, इन्द्रः
@@ -457,18 +481,22 @@ Boldly drink Soma from the beaker, Indra! hero in war for treasure! Vritra-slaye
 - त्रिष्टुप्
 - गण्डमालाचिकित्सा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ६ मनुष्य धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (धृषत्) हे निर्भय ! (शूर) हे शूर ! (इन्द्र) हे परम ऐश्वर्यवान् मनुष्य ! (वसूनाम्) धनों के निमित्त (समरे) युद्ध में (वृत्रहा) शत्रुनाशक हो कर (कलशे) [संसाररूप] कलश में [वर्तमान] (सोमम्) अमृत रस को (पिब) पी। (माध्यन्दिने) मध्य दिन के (सवने) काल वा स्थान में (आ वृषस्व) सब प्रकार बली हो, (रयिस्थानः) धनों का स्थान तू (रयिम्) धन को (अस्मासु) हम लोगों में (धेहि) धारण कर ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य ब्रह्मचर्य आदि पथ्य कर्मों से स्वस्थ, बलवान् और मध्याह्न सूर्य के समान तेजस्वी होकर विद्या धन और सुवर्ण आदि धनसंचय करके सबको सुखी रक्खें ॥६॥ यह मन्त्र कुछ भेद से ऋग्वेद में है−६।४७।६ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(धृषत्) ञिधृषा प्रागल्भ्ये-शतृ, छान्दसः शः। हे प्रगल्भ (पिब) (कलशे) अ० ३।१२।७। संसाररूपे घटे वर्तमानम् (सोमम्) अमृतरसम् (इन्द्र) हे परमैश्वर्यवन् जीव (वृत्रहा) शत्रुनाशकः (शूर) वीर (समरे) रणे (वसूनाम्) धनानां निमित्ते (माध्यन्दिने) अ० ७।७२।३। मध्याह्ने भवे (सवने) अ० ७।७२।३। काले स्थाने वा (आ) सर्वतः (वृषस्व) बली भव (रयिस्थानः) रायो धनानि तिष्ठन्ति यस्मिन्त्सः (रयिम्) धनम् (अस्मासु) (धेहि) धर ॥

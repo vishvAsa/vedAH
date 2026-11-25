@@ -8,15 +8,18 @@ title = "११२ पाशमोचनम्"
 
 112. For expiation of overslaughing.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 पाशमोचनम्।  
 १-३ अथर्वा। अग्निः। त्रिष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—āgneyam. trāiṣṭubham..]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -37,15 +40,6 @@ Translated: Ludwig, p. 469; Grill, 15, 171; Griffith, i. 306; Bloomfield, AJP. x
 स᳓ ग्रा᳓ह्याः पा᳓शान्वि᳓ चृत प्रजान᳓न्तु᳓भ्यं देवा᳓ अ᳓नु जानन्तु वि᳓श्वे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/112_pAshamochanam/01_mA_jyeShTham.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मा ज्ये॒ष्ठं व॑धीद॒यम॑ग्न ए॒षां मू॑ल॒बर्ह॑णा॒त्परि॑ पाह्येनम्।  
-स ग्राह्याः॒ पाशा॒न्वि चृ॑त प्रजा॒नन्तुभ्यं॑ दे॒वा अनु॑ जानन्तु॒ विश्वे॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/112_pAshamochanam/01_mA_jyeShTham.md">
 <details open><summary><h3>०१ मा ज्येष्ठम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -63,14 +57,23 @@ overslaugher—see comm. to vs. 3 **a**⌋. Ppp. reads *prajā nas* at end of
 **c**, and has, for **d**, *pitāputrāu mātaraṁ muñca sarvān* (our 2  
 **d**).
 </details>
+
 <details><summary>Griffith</summary>
 
 Let not this one, O Agni, wound the highest of these: preserve thou him from utter ruin. Knowing the way do thou untie the nooses of the she-fiend: let all the Gods approve thee.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मा ज्ये॒ष्ठं व॑धीद॒यम॑ग्न ए॒षां मू॑ल॒बर्ह॑णा॒त्परि॑ पाह्येनम्।  
+स ग्राह्याः॒ पाशा॒न्वि चृ॑त प्रजा॒नन्तुभ्यं॑ दे॒वा अनु॑ जानन्तु॒ विश्वे॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मा। ज्ये॒ष्ठम्। व॒धी॒त्। अ॒यम्। अ॒ग्ने॒। ए॒षाम्। मू॒ल॒ऽबर्ह॑णात्। परि॑। पा॒हि॒। ए॒न॒म्। सः। ग्राह्याः॑। पाशा॑न्। वि। चृ॒त॒। प्र॒ऽजा॒नन्। तुभ्य॑म्। दे॒वाः। अनु॑। जा॒न॒न्तु॒। विश्वे॑। ११२.१। 
+मा। ज्ये॒ष्ठम्। व॒धी॒त्। अ॒यम्। अ॒ग्ने॒। ए॒षाम्। मू॒ल॒ऽबर्ह॑णात्। परि॑। पा॒हि॒। ए॒न॒म्। सः। ग्राह्याः॑। पाशा॑न्। वि। चृ॒त॒। प्र॒ऽजा॒नन्। तुभ्य॑म्। दे॒वाः। अनु॑। जा॒न॒न्तु॒। विश्वे॑। ११२.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -78,18 +81,22 @@ Let not this one, O Agni, wound the highest of these: preserve thou him from utt
 - त्रिष्टुप्
 - पाशमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुल की रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे विद्वान् पुरुष ! (अयम्) यह [रोग] (एषाम्) इन [पुरुषों] के बीच (ज्येष्ठम्) विद्या और वय में बहुत बड़े पुरुष को (मा वधीत्) न मारे, (एनम्) इस [पुरुष] को (मूलबर्हणात्) मूल छेदन से (परि पाहि) सर्वथा बचा। (सः) सो तू (प्रजानन्) ज्ञानी होकर (ग्राह्याः) जकड़नेवाले गठिया आदि रोग के (पाशान्) फन्दों को (विचृत) खोल दे, (विश्वे) सब (देवाः) विद्वान् लोग (तुभ्यम्) तुझको (अनु जानन्तु) अनुमति देवें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य विद्वानों की सम्मति से श्रेष्ठ पुरुष की रक्षा का सदा उपाय करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(ज्येष्ठम्) प्रशस्य वा वृद्ध−इष्ठन्। ज्य च। वृद्धस्य च। पा० ५।३।६१, ६२। इति प्रशस्यस्य, वृद्धस्य वा ज्य इत्यादेशः। ज्ञाने वयसि वा वृद्धतमम् (मा वधीत्) मा हन्तु (अयम्) रोगः (अग्ने) हे विद्वन् (एषाम्) गृहस्थानां मध्ये (मूलबर्हणात्) अ० ६।११०।२। मूलच्छेदनात् (परि) सर्वतः (पाहि) (एनम्) ज्येष्ठम् (सः) स त्वम् (ग्राह्याः) अ० २।९।१। अङ्गग्रहीत्र्याः पीडायाः (पाशान्) बन्धान् क्लेशान् (वि चृत) चृती हिंसाग्रन्थनयोः। विमुञ्च (प्रजानन्) विद्वान् (तुभ्यम्) विदुषे (देवाः) विद्वांसः (अनु जानन्तु) अनुमतिं ददतु (विश्वे) सर्वे ॥
@@ -103,15 +110,6 @@ Let not this one, O Agni, wound the highest of these: preserve thou him from utt
 
 उ᳓न्मुञ्च पा᳓शांस्त्व᳓मग्न एषां᳓ त्र᳓यस्त्रिभि᳓रु᳓त्सिता ये᳓भिरा᳓सन्।  
 स᳓ ग्रा᳓ह्याः पा᳓शान्वि᳓ चृत प्रजान᳓न्पितापुत्रौ᳓ मात᳓रं मुञ्च स᳓र्वान् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/112_pAshamochanam/02_unmuncha_pAshAMstvamagna.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उन्मु॑ञ्च॒ पाशां॒स्त्वम॑ग्न ए॒षां त्रय॑स्त्रि॒भिरुत्सि॑ता॒ येभि॒रास॑न्।  
-स ग्राह्याः॒ पाशा॒न्वि चृ॑त प्रजा॒नन्पि॑तापु॒त्रौ मा॒तरं॑ मुञ्च॒ सर्वा॑न् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/112_pAshamochanam/02_unmuncha_pAshAMstvamagna.md">
@@ -130,14 +128,23 @@ strangely, not divided into *út॰sitāḥ* in the *pada*-text, which
 mss. (including our H.I.O.) read *útthitās*. The second half-verse is  
 wanting in Ppp. (save as **d** is found in it as 1 **d**: see above).
 </details>
+
 <details><summary>Griffith</summary>
 
 Rend thou the; bonds of these asunder, Agni! the, threefold noose whereby the three were fastened. Knowing the way untie the she-fiend's nooses: free all, the son, the father, and the mother.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उन्मु॑ञ्च॒ पाशां॒स्त्वम॑ग्न ए॒षां त्रय॑स्त्रि॒भिरुत्सि॑ता॒ येभि॒रास॑न्।  
+स ग्राह्याः॒ पाशा॒न्वि चृ॑त प्रजा॒नन्पि॑तापु॒त्रौ मा॒तरं॑ मुञ्च॒ सर्वा॑न् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। मु॒ञ्च॒। पाशा॑न्। त्वम्। अ॒ग्ने॒। ए॒षाम्। त्रयः॑। त्र‍ि॒ऽभिः। उत्सि॑ताः। येभिः॑। आस॑न्। सः। ग्राह्याः॑। पाशा॑न्। वि। चृ॒त॒। प्र॒ऽजा॒नन्। पि॒ता॒पु॒त्रौ। मा॒तर॑म्। मु॒ञ्च॒। सर्वा॑न्। ११२.२। 
+उत्। मु॒ञ्च॒। पाशा॑न्। त्वम्। अ॒ग्ने॒। ए॒षाम्। त्रयः॑। त्र‍ि॒ऽभिः। उत्सि॑ताः। येभिः॑। आस॑न्। सः। ग्राह्याः॑। पाशा॑न्। वि। चृ॒त॒। प्र॒ऽजा॒नन्। पि॒ता॒पु॒त्रौ। मा॒तर॑म्। मु॒ञ्च॒। सर्वा॑न्। ११२.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -145,18 +152,22 @@ Rend thou the; bonds of these asunder, Agni! the, threefold noose whereby the th
 - त्रिष्टुप्
 - पाशमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुल की रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे विद्वान् ! (त्वम्) तू (एषाम्) इन [पिता पुत्र और माता] के (पाशान्) फन्दों को (उन्मुञ्च) खोल दे, (त्रयः) जो तीनों (एभिः) जिन (त्रिभिः) तीनों [ऊँचे, नीचे, मध्यम पाशों] से (उत्सिताः) जकड़े हुए (आसन्) हैं। (सः) सो तू (प्रजानन्) ज्ञानी होकर (ग्राह्याः) जकड़नेवाले गठिया आदि रोग के (पाशान्) फन्दों को (वि चृत) खोल दे, (पितापुत्रौ) पिता पुत्र, (मातरम्) माता, (सर्वान्) सब को (मुञ्च) [दुःख से] मुक्त कर ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य विद्वानों के अनुशासन से माता पिता पुत्र आदि सब की यथायोग्य रक्षा करें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(उन्मुञ्च) वियोजय (पाशान्) क्लेशान् (त्वम्) (अग्ने) विद्वन् (एषाम्) पित्रादीनाम् (त्रयः) माता पिता पुत्र इति ये त्रयः (त्रिभिः) उत्तमाधममध्यमैः पाशैः (उत्सिताः) षिञ् बन्धने−क्त। उत्कर्षेण बद्धाः (येभिः) यैः (आसन्) लडर्थे−लङ्। सन्ति (पितापुत्रौ) आनङ् ऋतो द्वन्द्वे। पा० ६।३।२५। इति पूर्वपदस्य आनङ्। पिता च पुत्रश्च (मातरम्) जननीम् (मुञ्च) दुःखाद् विमोचय (सर्वान्)। अन्यद् गतम् ॥
@@ -170,15 +181,6 @@ Rend thou the; bonds of these asunder, Agni! the, threefold noose whereby the th
 
 ये᳓भिः पा᳓शैः प᳓रिवित्तो वि᳓बद्धो᳓ऽङ्गे᳓अङ्ग आ᳓र्पित उ᳓त्सितश्च।  
 वि᳓ ते᳓ मुच्यन्तं विमु᳓चो हि᳓ स᳓न्ति भ्रूणघ्नि᳓ पूषन्दुरिता᳓नि मृक्ष्व ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/112_pAshamochanam/03_yebhiH_pAshaiH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-येभिः॒ पाशैः॒ परि॑वित्तो॒ विब॒द्धोऽङ्गेअ॑ङ्ग॒ आर्पि॑त॒ उत्सि॑तश्च।  
-वि ते मु॑च्यन्तं वि॒मुचो॒ हि सन्ति॑ भ्रूण॒घ्नि पू॑षन्दुरि॒तानि॑ मृक्ष्व ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/112_pAshamochanam/03_yebhiH_pAshaiH.md">
@@ -205,14 +207,23 @@ of ours, only D.Kp.T. have it, and K. *mucyatām*, all the rest
 form: *ebhiṣ pāśāir muduṣāu patir nibaddhaḥ paroparārpito an̄ge-an̄ge vi  
 te cṛtyantāṁ vicṛtām hi santi* etc. (**d** as in our text).
 </details>
+
 <details><summary>Griffith</summary>
 
 The elder brother's bonds, still left unwedded, fettered in every limb and bound securely, Loose these, for they are bonds for loosing: Pushan, turn woes away upon the babe-destroyer.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+येभिः॒ पाशैः॒ परि॑वित्तो॒ विब॒द्धोऽङ्गेअ॑ङ्ग॒ आर्पि॑त॒ उत्सि॑तश्च।  
+वि ते मु॑च्यन्तं वि॒मुचो॒ हि सन्ति॑ भ्रूण॒घ्नि पू॑षन्दुरि॒तानि॑ मृक्ष्व ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-येभिः॑। पाशैः॑। परि॑ऽवित्तः। विऽब॑ध्दः। अङ्गे॑ऽअङ्गे। आर्पि॑तः। उत्सि॑तः। च॒। वि। ते। मु॒च्य॒ता॒म्। वि॒ऽमुचः॑। हि। सन्ति॑। भ्रू॒ण॒ऽघ्नि। पू॒ष॒न्। दुः॒ऽइ॒तानि॑। मृ॒क्ष्व॒। ११२.३। 
+येभिः॑। पाशैः॑। परि॑ऽवित्तः। विऽब॑ध्दः। अङ्गे॑ऽअङ्गे। आर्पि॑तः। उत्सि॑तः। च॒। वि। ते। मु॒च्य॒ता॒म्। वि॒ऽमुचः॑। हि। सन्ति॑। भ्रू॒ण॒ऽघ्नि। पू॒ष॒न्। दुः॒ऽइ॒तानि॑। मृ॒क्ष्व॒। ११२.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -220,18 +231,22 @@ The elder brother's bonds, still left unwedded, fettered in every limb and bound
 - त्रिष्टुप्
 - पाशमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुल की रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (परिवित्तः) विवाहित छोटे भाई का बिना विवाहित बड़ा भाई (येभिः) जिन (पाशैः) फन्दों से (अङ्गे−अङ्गे) अङ्ग-अङ्ग में (विबद्धः) बँधा हुआ, (आर्पितः) दुखाया गया (च) और (उत्सितः) जकड़ा गया है। (ते) वे [फन्दे] (विमुच्यन्ताम्) खुल जावें, (हि) क्योंकि ये (विमुचः) खुलने योग्य (सन्ति) हैं, (पूषन्) हे पोषण करनेवाले विद्वान् ! (भ्रूणघ्नि) स्त्री के गर्भघाती रोग में [वर्तनान] (दुरितानि) कष्टों को (मृक्ष्व) दूर कर ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् प्रयत्न करें कि सब सन्तान गुणी होकर अपने-अपने समय पर विवाहित होकर सुखी होवें और यथावत् ब्रह्मचर्यसेवन से कुल में गर्भपतन आदि रोग न होवें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(येभिः) यैः (पाशैः) बन्धैः (परिवित्तः) परि+विद ज्ञाने−क्त। परिविण्णः। परिवित्तिः। कृतविवाहस्यानूढज्येष्ठभ्राता (विबद्धः) विविधं बद्धः (अङ्गे अङ्गे) सर्वाङ्गे (आर्पितः) आङ्+ऋ हिंसायाम्, णिचि क्त। आर्ति पीडां प्रापितः (उत्सितः) म० २। अतिशयेन बद्धः (च) (ते) पाशा (विमुच्यन्ताम्) विसृज्यन्ताम्। (विमुचः) सम्पदादिः क्विप्। विमोचनीयाः पाशाः (हि) यस्मात्कारणात् (सन्ति) वर्तन्ते (भ्रूणघ्नि) भ्रूण आशाविशङ्कयोः−घञ्। ब्रह्मभ्रूणवृत्रेषु क्विप्। पा० ३।२।८७। इति भ्रूण+हन−क्विप्। स्त्रीगर्भघातिनि रोगे वर्तमानानि (दुरितानि) कष्टानि (मृक्ष्व) मृजू शौचालङ्कारयोः। शोधय। दुरीकुरु ॥

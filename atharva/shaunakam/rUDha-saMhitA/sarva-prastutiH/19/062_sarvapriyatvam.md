@@ -8,15 +8,18 @@ title = "०६२ सर्वप्रियत्वम्"
 
 62. For popularity.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 सर्वप्रियत्वम्।  
 १ ब्रह्मा। ब्रह्मणस्पतिः। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman (etc., as 61).—anuṣṭubh.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Wanting in Pāipp. and in the comm.
 #### Translations
 Translated: Zimmer, p. 205; Griffith, ii. 318.
 </details>
+
 <details><summary>Griffith</summary>
 
 A prayer for the love of Gods and men
@@ -39,15 +43,6 @@ A prayer for the love of Gods and men
 
 प्रियं᳓ मा कृणु देवे᳓षु प्रियं᳓ रा᳓जसु मा कृणु।  
 प्रियं᳓ स᳓र्वस्य प᳓श्यत उत᳓ शूद्र᳓ उता᳓र्ये ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/062_sarvapriyatvam/01_priyaM_mA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्रि॒यं मा॑ कृणु दे॒वेषु॑ प्रि॒यं राज॑सु मा कृणु।  
-प्रि॒यं सर्व॑स्य॒ पश्य॑त उ॒त शू॒द्र उ॒तार्ये॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/062_sarvapriyatvam/01_priyaM_mA.md">
@@ -75,14 +70,23 @@ Berlin text, cf. the **d** of iv. 20. 4 and 8. Zimmer rightly notes that
 the "gods" of **a** are the Brahmans, and aptly cites śB. ii. 2. 2⁶,  
 with 32. 8 etc. as just mentioned.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Make me beloved among the Gods, beloved among the Princes, make Me dear to everyone who sees, to Sudra and to Aryan man.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रि॒यं मा॑ कृणु दे॒वेषु॑ प्रि॒यं राज॑सु मा कृणु।  
+प्रि॒यं सर्व॑स्य॒ पश्य॑त उ॒त शू॒द्र उ॒तार्ये॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रि॒यम्। मा॒। कृ॒णु॒। दे॒वेषु॑। प्रि॒यम्। राज॑ऽसु। मा॒। कृ॒णु॒। प्रि॒यम्। सर्व॑स्य। पश्य॑त। उ॒त। शू॒द्रे। उ॒त। आर्ये॑। ६२.१। 
+प्रि॒यम्। मा॒। कृ॒णु॒। दे॒वेषु॑। प्रि॒यम्। राज॑ऽसु। मा॒। कृ॒णु॒। प्रि॒यम्। सर्व॑स्य। पश्य॑त। उ॒त। शू॒द्रे। उ॒त। आर्ये॑। ६२.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मणस्पतिः
@@ -90,18 +94,22 @@ Make me beloved among the Gods, beloved among the Princes, make Me dear to every
 - अनुष्टुप्
 - सर्वप्रिय सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वानों के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमात्मन् !] (मा) मुझे (देवेषु) ब्राह्मणों [ज्ञानियों] में (प्रियम्) प्रिय (कृणु) कर, (मा) मुझे (राजसु) राजाओं में (प्रियम्) प्रिय (कृणु) कर। (उत) और (आर्ये) वैश्य में (उत) और (शूद्रे) शूद्र में और (सर्वस्य) सब (पश्यतः) देखनेवाले [जीव] का (प्रियम्) प्रिय [कर] ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे परमेश्वर सब ब्राह्मण आदि से निष्पक्ष होकर प्रीति करता है, वैसे ही विद्वानों को सब संसार से प्रीति करनी चाहिये ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   इस मन्त्र का मिलान अथ० १९।३२।८ और निम्नलिखित मन्त्र से करो-यजु० १८।४८ ॥ रुचे॑ नो धेहि ब्राह्म॒णेषु॒ रुच॒ राज॑सु नस्कृधि। रुचं॒ विश्ये॑षु शू॒द्रेषु॒ मयि॑ धेहि रु॒चा रुच॑म् ॥ [हे जगदीश्वर !] (नः) हमारी (रुचम्) प्रीति को (ब्राह्मणेषु) ब्राह्मणों [वेदवेत्ताओं] में (धेहि) धारण कर, (नः) हमारी (रुचम्) प्रीति को (राजसु) राजाओं में (कृधि) कर। (रुचम्) [हमारी] प्रीति को (विश्येषु) मनुष्यों के हितकारी वैश्यों में और (शूद्रेषु) शोकयुक्त शूद्रों में [कर], (मयि) मुझमें (रुचा) [मेरी] प्रीति के साथ (रुचम्) [उनकी] प्रीति को (धेहि) धर ॥१−(प्रियम्) हितकरम् (मा) माम् (कृणु) कुरु (देवेषु) ब्राह्मणेषु। वेदज्ञेषु (प्रियम्) (राजसु) क्षत्रियेषु (मा) (कृणु) (प्रियम्) (सर्वस्य) समस्तस्य (पश्यतः) दृष्टिवतो जीवस्य (उत) अपि च (शूद्रे) शुचेर्दश्च। उ० २।१९। शुच शोके-रक्प्रत्ययः, दश्चान्तादेशो धातोर्दीर्घश्च। शोचनीये मूर्खे (उत) (आर्ये) अ० १९।३२।८। आर्यशब्द उत्तमवर्णब्राह्मणक्षत्रियवैश्यवाचकत्वादत्र वैश्यवाची। वैश्ये ॥

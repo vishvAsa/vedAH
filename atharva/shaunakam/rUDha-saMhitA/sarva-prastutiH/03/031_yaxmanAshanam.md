@@ -8,15 +8,18 @@ title = "०३१ यक्ष्मनाशनम्"
 
 31. For welfare and long life.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 यक्ष्मनाशनम्  
 १-११ ब्रह्मा। पाप्महा, १ अग्निः, २ शक्रः, ३ पशवः, ४ द्यावापृथिवी, ५ त्वष्टा, ६ अग्निः, इन्द्रः, ७ देवाः, सूर्यः, ८-१० आयुः, ११ पर्जन्यः। अनुष्टुप्, ४ भुरिक् ५ विराट् प्रस्तारपङ्क्तिः।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ekādaśarcam. pāpmahādevatyam. ānuṣṭubham: 4. bhurij; 5. virāṭprastārapan̄kti.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Not found in Pāipp. Reckoned, with iv. 33 and vi. 26, to the pāpma (pāpmahā?
 #### Translations
 Translated: Weber, xvii. 310; Griffith, i. 127; Bloomfield, 51, 364.
 </details>
+
 <details><summary>Griffith</summary>
 
 A charm for the recovery of one dangerously ill
@@ -39,15 +43,6 @@ A charm for the recovery of one dangerously ill
 
 वि᳓ देवा᳓ जर᳓सावृतन्वि᳓ त्व᳓मग्ने अ᳓रात्या।  
 व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/01_vi_devA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वि दे॒वा ज॒रसा॑वृत॒न्वि त्वम॑ग्ने॒ अरा॑त्या।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/01_vi_devA.md">
@@ -68,14 +63,23 @@ rendering it by *viyojayatam*, and understanding *devā́* (p. *devā́ḥ*) as
 also in the second half-verse, with an *imam* ⌊referring to the Vedic  
 scholar⌋ for it to govern.
 </details>
+
 <details><summary>Griffith</summary>
 
 May Gods release from failing strength, thou Agni, from malignity! I free from every evil, from decline: I compass round with life.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि दे॒वा ज॒रसा॑वृत॒न्वि त्वम॑ग्ने॒ अरा॑त्या।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि। दे॒वाः। ज॒रसा॑। अ॒वृ॒त॒न्। वि। त्वम्। अ॒ग्ने॒। अरा॑त्या। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.१। 
+वि। दे॒वाः। ज॒रसा॑। अ॒वृ॒त॒न्। वि। त्वम्। अ॒ग्ने॒। अरा॑त्या। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पाप्महा, अग्निः
@@ -83,18 +87,22 @@ May Gods release from failing strength, thou Agni, from malignity! I free from e
 - अनुष्टुप्
 - यक्ष्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवाः) विजय चाहनेवाले पुरुष (जरसा) आयु के घटाव से (वि) अलग (अवृतन्) रहे हैं। (अग्ने) हे विद्वान् पुरुष (त्वम्) तू (अरात्या) कंजूसी वा शत्रुता से (वि=वि वर्तस्व) अलग रह। (अहम्) मैं (सर्वेण) सब (पाप्मना) पाप कर्म से (वि) अलग और (यक्ष्मेण) राजरोग, क्षयी आदि से (वि=विवर्त्तै) अलग रहूँ और (आयुषा) जीवन [उत्साह] से (सम्=सम् वर्तै) मिला रहूँ ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  पुरुषार्थी लोग ब्रह्मचर्य आदि के सेवन से सदा बलवान् रहते हैं, इसी प्रकार सब मनुष्य मानसिक पाप और शारीरिक रोग के त्याग और शुभ गुणों के सेवन से बल बढ़ाकर अपना जीवन सफल करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(देवाः) विजिगीषवः। (जरसा) षिद्भिदादिभ्योऽङ्। इति जॄष् वयोहानौ-अङ्। ऋदृशोऽङि गुणः। पा० ७।४।१६। इति गुणः। टाप्। जराया जरसन्यतरस्याम्। पा० ७।२।१०१। इति जरस्। वयोहन्या। (वि) पृथग्भूय (अवृतन्) वृतु वर्तने, भावे-लुङ्, अभूवन्, (वि) वि वर्तस्व। पृथग्भव। (अग्ने) हे विद्वन् पुरुष (अरात्या) अ० १।२।२। अदानेन। शत्रुतया (पाप्मना) नामन्सीमन्व्योमन्०। उ० ४।१५१। इति पा रक्षणे-अपादाने मनिन्, षुक् च। मानसेन पापेन। दुष्टकर्मणा। (वि) वि वर्त्तै। पृथग् भवानि। (यक्ष्मेण) अ० २।१०।५। शारीरेण राजरोगेण। क्षयादिना। (सम्) सं वर्त्तै। सम्भूय भवानि। (आयुषा) चिरकालजीवनेन ॥
@@ -110,15 +118,6 @@ May Gods release from failing strength, thou Agni, from malignity! I free from e
 व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-व्यार्त्या॒ पव॑मानो॒ वि श॒क्रः पा॑पकृ॒त्यया॑।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
 <details open><summary><h3>०२ व्यार्त्या पवमानो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -131,14 +130,23 @@ mighty one (*śakrá*) away from evil-doing; I away from etc. etc.
 *Pávamana* in **a** might signify either soma or the wind; the comm  
 understands here the latter.
 </details>
+
 <details><summary>Griffith</summary>
 
 May Pavamana free from harm, and Sakra from unrighteous deed. I free from every evil, from decline: I compass round with life.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+व्यार्त्या॒ पव॑मानो॒ वि श॒क्रः पा॑पकृ॒त्यया॑।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि। आर्त्या॑। पव॑मानः। वि। श॒क्रः। पा॒प॒ऽकृ॒त्यया॑। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.२। 
+वि। आर्त्या॑। पव॑मानः। वि। श॒क्रः। पा॒प॒ऽकृ॒त्यया॑। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - शक्रः
@@ -146,18 +154,22 @@ May Pavamana free from harm, and Sakra from unrighteous deed. I free from every 
 - अनुष्टुप्
 - यक्ष्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पवमानः) शोधन करनेवाला पुरुष (आर्त्या) पीड़ा से (वि) अलग, और (शक्रः) शक्तिमान् पुरुष (पापकृत्यया) पाप क्रिया से (वि=वि वर्तताम्) अलग रहे। (अहम्) मैं (सर्वेण पाप्मना) सब पाप कर्म से... [म० १] ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य शुद्ध आचरण से सामाजिक आत्मिक और शारीरिक पीड़ा मिटावे और बलवान् होकर पाप को हटावे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(वि) विवर्तताम्। वियुक्तो भवतु। (आर्त्या) आङ्+ऋ हिंसने-क्तिन्। पीडया। रोगेन। (पवमानः) पूङ्यजोः शानन्। पा० ३।२।१८। इति पूञ् शोधने-शानन्। आने मुक्। पा० ७।२।८२। इति मुक्। संशोधकः (शक्रः) अ० २।५।४। शक्तः। इन्द्रः। (पापकृत्यया) पापम् इति व्याख्यातम्-अ० २।१२।५। कृञः श च। पा० ३।३।१०। इति डुकृञ् करणे, यद्वा, कृञ् हिंसायाम्-क्यप्, तुक्। पापक्रियया महाहिंसया। अन्यद् गतम्-म० १ ॥
@@ -171,15 +183,6 @@ May Pavamana free from harm, and Sakra from unrighteous deed. I free from every 
 
 वि᳓ ग्राम्याः᳓ पश᳓व आरण्यै᳓र्व्या᳓पस्तृ᳓ष्णयासरन्।  
 व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वि ग्रा॒म्याः प॒शव॑ आर॒ण्यैर्व्याप॒स्तृष्ण॑यासरन्।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
@@ -199,14 +202,23 @@ retains *āpas*. The comm. paraphrases *ví...asaran* with *vigatā
 bhavanti*, not venturing to turn it into a causative as he did *vy  
 avṛtan*. The Anukr. takes no notice of the redundant syllable in **a**.
 </details>
+
 <details><summary>Griffith</summary>
 
 Tame beasts have parted from wild beasts, water and thirst have gone apart I free, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि ग्रा॒म्याः प॒शव॑ आर॒ण्यैर्व्याप॒स्तृष्ण॑यासरन्।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि। ग्रा॒म्याः। प॒शवः॑। आ॒र॒ण्यैः। वि। आपः॑। तृष्ण॑या। अ॒स॒र॒न्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.३। 
+वि। ग्रा॒म्याः। प॒शवः॑। आ॒र॒ण्यैः। वि। आपः॑। तृष्ण॑या। अ॒स॒र॒न्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पशुसमूहः
@@ -214,18 +226,22 @@ Tame beasts have parted from wild beasts, water and thirst have gone apart I fre
 - अनुष्टुप्
 - यक्ष्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ग्राम्याः) ग्रामवाले (पशवः) जीव (आरण्यैः) जङ्गली जीवों से (वि) अलग, और (आपः) जल (तृष्णया) पियास से (वि) अलग, (असरन्) चले हैं। (अहम्) मैं (सर्वेण पाप्मना) सब पाप कर्म से... [म० १] ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे ग्राम्य पशु जङ्गली जीवों से अलग रहकर प्रसन्न रहते हैं और जल की उपस्थिति में पियास से निवृत्ति होती है, इसी प्रकार मनुष्य पाप से निवृत्त होकर सबके सुख में प्रवृत्त हों ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(ग्राम्याः) अ० २।३४।४। ग्राम-य। ग्रामीणाः। (आरण्यैः) अरण्य-ष्यञ्। अरण्यजातैः। (आपः) जलानि। (तृष्णया) तृषिशुषिरसिभ्यः कित्। उ० ३।१२। इति तृषिर् आकाङ्क्षायाम्-न, स च कित्। टाप् पानेच्छया। पिपासया। (वि असरन्) सृ गतौ-लुङ्। विगता अभूवन्। अन्यद् गतम् ॥
@@ -239,15 +255,6 @@ Tame beasts have parted from wild beasts, water and thirst have gone apart I fre
 
 वी᳙ मे᳓ द्या᳓वापृथिवी᳓ इतो᳓ वि᳓ प᳓न्थानो दि᳓शंदिशम्।  
 व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/04_vI_me.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वी॑३॒॑ मे द्यावा॑पृथि॒वी इ॒तो वि पन्था॑नो॒ दिशं॑दिशम्।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/04_vI_me.md">
@@ -267,14 +274,23 @@ verb in the former of two successive clauses involving it (though
 easily corrected by contracting to *-pṛthvī;* the Anukr., however, does  
 not sanction this.
 </details>
+
 <details><summary>Griffith</summary>
 
 Parted are heaven and earth, and paths turned to each quarter of the sky. I free, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वी॑३॒॑ मे द्यावा॑पृथि॒वी इ॒तो वि पन्था॑नो॒ दिशं॑दिशम्।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि। इ॒मे इति॑। द्यावा॑पृथि॒वी इति॑। इ॒तः। वि। पन्था॑नः। दिश॑म्ऽदिशम्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.४। 
+वि। इ॒मे इति॑। द्यावा॑पृथि॒वी इति॑। इ॒तः। वि। पन्था॑नः। दिश॑म्ऽदिशम्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - द्यावापृथिव्यौ
@@ -282,18 +298,22 @@ Parted are heaven and earth, and paths turned to each quarter of the sky. I free
 - भुरिगनुष्टुप्
 - यक्ष्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इमे) ये दोनों (द्यावापृथिव्यौ) सूर्य और पृथिवी (वि) अलग-अलग (इतः) चलते हैं, (पन्थानः) सब मार्ग (दिशंदिशम्) दिशा दिशा को (वि=वियन्ति) अलग-अलग जाते हैं। (अहम्) मैं (सर्वेण पाप्मना) सब पाप कर्म से... [म० १] ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सूर्य पृथिवी और मार्ग अलग-अलग रहकर संसार का क्लेश हरते हैं, ऐसे ही सब मनुष्य दुःख का नाश करके सुख भोगें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(इमे) परिदृश्यमाने। (द्यावापृथिव्यौ) अ० २।१।४। सूर्यभूमी। (इतः) गच्छतः। (पन्थानः) मार्गाः। (वि) वियन्ति। अन्यद् गतम् ॥
@@ -307,15 +327,6 @@ Parted are heaven and earth, and paths turned to each quarter of the sky. I free
 
 त्व᳓ष्टा दुहित्रे᳓ वहतुं᳓ युनक्ती᳓तीदं᳓ वि᳓श्वं भु᳓वनं वि᳓ याति।  
 व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-त्वष्टा॑ दुहि॒त्रे व॑ह॒तुं यु॑न॒क्तीती॒दं विश्वं॒ भुव॑नं॒ वि या॑ति।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
@@ -341,14 +352,23 @@ saha prityā prasthāpanīyaṁ vastrālaṁkārādi dravyam*), and *yunakti* is
 simply *prasthāpayati*. The *pada*-mss., in accordance with the later  
 use of *íti*, reckon it here to pāda **a**.
 </details>
+
 <details><summary>Griffith</summary>
 
 Tvashtar prepares the bridal of his daughter; then all this world of life departs and leaves him. I free, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वष्टा॑ दुहि॒त्रे व॑ह॒तुं यु॑न॒क्तीती॒दं विश्वं॒ भुव॑नं॒ वि या॑ति।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वष्टा॑। दु॒हि॒त्रे। व॒ह॒तुम्। यु॒न॒क्ति॒। इति॑। इ॒दम्। विश्व॑म्। भुव॑नम्। वि। या॒ति॒। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.५। 
+त्वष्टा॑। दु॒हि॒त्रे। व॒ह॒तुम्। यु॒न॒क्ति॒। इति॑। इ॒दम्। विश्व॑म्। भुव॑नम्। वि। या॒ति॒। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्वष्टा
@@ -356,18 +376,22 @@ Tvashtar prepares the bridal of his daughter; then all this world of life depart
 - विराट्प्रस्तारपङ्क्तिः
 - यक्ष्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (त्वष्टा) सूक्ष्मदर्शी पिता (दुहित्रे) बेटी को (वहतुम्) दायज [स्त्री धन] (युनक्ति=वि युनक्ति) अलग करके देता है। (इति) इसी प्रकार (इदम् विश्वम्) यह प्रत्येक (भुवनम्) लोक (वि याति) अलग-अलग चलता है। (अहम्) मैं (सर्वेण पाप्मना) सब पाप कर्म से... [म० १] ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे पिता पुत्री को दायज देकर सदा हित करता रहता है, सब लोक और पदार्थ अलग-अलग रहकर परस्पर उपकार करते हैं, इसी प्रकार प्रत्येक मनुष्य आत्मिक और शारीरिक दोष हटाकर परस्पर सुख बढ़ावें ॥५॥  इस मन्त्र का पूर्वार्ध ऋग्वेद १०।१७१।१। में इस प्रकार है−त्वष्टा॑ दुहि॒त्रे वह॒तुं कृ॑णो॒तीतीदं विश्वं॒ भुव॑नं॒ समे॑ति ॥  (त्वष्टा) सूक्ष्मदर्शी पिता (दुहित्रे) बेटी के लिये (वहतुम्) दायज (कृणोति) करता है, (इति) इस प्रकार (इदम् विश्वम् भुवनम्) यह सब जगत् (समेति) मिलकर चलता है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(त्वष्टा) अ० २।५।६। व्यवहाराणां तनूकर्ता, पिता। (दुहित्रे) अ० २।१४।२। दोग्धि प्रपूरयति कार्याणीति दुहिता तस्यै। पुत्र्यै। (वहतुम्) एधिवह्योश्चतुः। उ० १।७७। इति वह प्रापणे-चतु। विवाहकाले कन्यायै देयवस्तु (युनक्ति) वियुनक्ति पृथग् बध्नाति। (इति) अनेन प्रकारेण। (भुवनम्) अ० २।१।३। भूतजातम्। लोकः। (वि याति) पृथग् गच्छति। अन्यद् गतम् ॥
@@ -381,15 +405,6 @@ Tvashtar prepares the bridal of his daughter; then all this world of life depart
 
 अग्निः᳓ प्राणा᳓न्त्सं᳓ दधाति चन्द्रः᳓ प्राणे᳓न सं᳓हितः।  
 व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒ग्निः प्रा॒णान्त्सं द॑धाति च॒न्द्रः प्रा॒णेन॒ संहि॑तः।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
@@ -409,14 +424,23 @@ breaths are the senses, which he fits for their work by supplying them
 nourishment; and the moon is soma ⌊considered as food; for which he  
 quotes a passage quite like to śB. xi. 1. 6¹⁹⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 Agni combines the vital airs. The moon is closely joined with breath. I free. etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्निः प्रा॒णान्त्सं द॑धाति च॒न्द्रः प्रा॒णेन॒ संहि॑तः।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। प्रा॒णान्। सम्। द॒धा॒ति॒। च॒न्द्रः। प्रा॒णेन॑। सम्ऽहि॑तः। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.६। 
+अ॒ग्निः। प्रा॒णान्। सम्। द॒धा॒ति॒। च॒न्द्रः। प्रा॒णेन॑। सम्ऽहि॑तः। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः, इन्द्रः
@@ -424,18 +448,22 @@ Agni combines the vital airs. The moon is closely joined with breath. I free. et
 - अनुष्टुप्
 - यक्ष्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्नि) अग्नि (प्राणान्) प्राणों, जीवनशक्तियों को (सम्=सम्भूय) मिलकर (दधाति) पुष्ट करता है, और (चन्द्रः) चन्द्र (प्राणेन) प्राण के साथ (संहित) सन्धिवाला है। (अहम्) मैं (सर्वेण पाप्मना) सब पाप कर्म से... [म० १] ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सूर्य का ताप श्वास-प्रश्वास द्वारा शरीर में प्रविष्ट होकर नेत्र आदि इन्द्रियों को अन्न रस पहुँचाता है, और चन्द्रमा की शीतलता प्राण द्वारा रुधिर आदि में परिणत रस से इन्द्रियों को पुष्ट करती है। ऐसे ही मनुष्य अपने दोष मिटाकर शुभ गुणों से युक्त होवें ॥६॥ मन्त्र १-५ में दोषों से (वि) वियोग के और मन्त्र ६-१० में पुरुषार्थ से (सम्) संयोग के वर्णन से आयु बढ़ाने का उपदेश है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(अग्निः) अशितपीतपरिणामहेतुर्जाठररूपः सूर्यतापः (प्राणान्) अ० २।१२।७। जीवनहेतून् श्वासप्रश्वासादीन्। चक्षुरादीन्द्रियाणि वा। (सं दधाति) संभूय पोषयति, स्वस्वकार्यसमर्थान् करोति। (चन्द्रः) अ० १।३।४। चदि आह्लादने-रक्। आह्लादकः। सोमः। चन्द्रमाः (प्राणेन) जीवनहेतुना सह (संहितः) सम्+धा-क्त। सन्धियुक्तः। संश्लिष्टः। अन्यद्गतम् ॥
@@ -451,15 +479,6 @@ Agni combines the vital airs. The moon is closely joined with breath. I free. et
 व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/07_prANena_vishvatovIryam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्रा॒णेन॑ वि॒श्वतो॑वीर्यं दे॒वाः सूर्यं॒ समै॑रयन्।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/07_prANena_vishvatovIryam.md">
 <details open><summary><h3>०७ प्राणेन विश्वतोवीर्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -472,14 +491,23 @@ universal heroism: I away from etc. etc.
 The comm. treats *viśvatas* and *vīryam* in **a** as independent words,  
 and renders *samāirayan* in **b** by *sarvatra prāvartayan*.
 </details>
+
 <details><summary>Griffith</summary>
 
 The Gods have lifted up with breath the Sun whose might is everywhere. I free, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रा॒णेन॑ वि॒श्वतो॑वीर्यं दे॒वाः सूर्यं॒ समै॑रयन्।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रा॒णेन॑। वि॒श्वतः॑ऽवीर्यम्। दे॒वाः। सूर्य॑म्। सम्। ऐ॒र॒य॒न्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.७। 
+प्रा॒णेन॑। वि॒श्वतः॑ऽवीर्यम्। दे॒वाः। सूर्य॑म्। सम्। ऐ॒र॒य॒न्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - देवगणः, सूर्यः
@@ -487,18 +515,22 @@ The Gods have lifted up with breath the Sun whose might is everywhere. I free, e
 - अनुष्टुप्
 - यक्ष्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवाः) विजय चाहनेवाले महात्माओं ने (विश्वतोवीर्यम्) सब ओर से वीर्यवान् (सूर्यम्) सर्वप्रेरक वा सर्वत्रगति परमेश्वर वा सूर्य को (प्राणेन) प्राण से (सम्) मिलकर (ऐरयन्) पाया है। (अहम्) मैं (सर्वेण पाप्मना) सब पाप कर्म से... [म० १] ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जितेन्द्रिय वीरों ने आत्मा के सहारे, अर्थात् आत्मज्ञान और आत्मबल से, परमात्मा को पाकर और सूर्य आदि लोकों तक गति करके परम पद पाया है। मनुष्य आत्मिक और शारीरिक दोष मिटाकर जीवन सफल करें ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(प्राणेन) जीवनहेतुना। (विश्वतीवीर्यम्) सर्वतःसामर्थ्यम्। सर्वशक्तिमन्तम्। (देवाः) विजिगीषवो जितेन्द्रिया योगिनः। (सूर्यम्) अ० १।३।५। सुवति प्रेरयति लोकान् सूर्यं वा सरति सर्वत्र स सूर्यः। लोकप्रेरकम्। सर्वत्रगतिं परमात्मानं (सम्) सम्भूय। (ऐरयन्) अ० १।११।२। ईर गतौ-लङ्। अगच्छन्। प्राप्नुवन्। अन्यद् गतम् ॥
@@ -514,15 +546,6 @@ The Gods have lifted up with breath the Sun whose might is everywhere. I free, e
 व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आयु॑ष्मतामायु॒ष्कृतां॑ प्रा॒णेन॑ जीव॒ मा मृ॑थाः।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
 <details open><summary><h3>०८ आयुष्मतामायुष्कृतां प्राणेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -535,14 +558,23 @@ thou live; do not die: I away from etc. etc.
 In this and the following verse, the comm. regards the young Vedic  
 scholar (*māṇavaka*) as addressed.
 </details>
+
 <details><summary>Griffith</summary>
 
 Die not. Live with the breath of those who make and who enjoy long life. I free, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आयु॑ष्मतामायु॒ष्कृतां॑ प्रा॒णेन॑ जीव॒ मा मृ॑थाः।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आयु॑ष्मताम्। आ॒युः॒ऽकृता॑म्। प्रा॒णेन॑। जी॒व॒। मा। मृ॒थाः॒। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.८। 
+आयु॑ष्मताम्। आ॒युः॒ऽकृता॑म्। प्रा॒णेन॑। जी॒व॒। मा। मृ॒थाः॒। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आयुः
@@ -550,18 +582,22 @@ Die not. Live with the breath of those who make and who enjoy long life. I free,
 - अनुष्टुप्
 - यक्ष्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (आयुष्मताम्) बड़ी आयुवाले, और [दूसरों की] (आयुष्कृताम्) बड़ी आयु करनेवाले [देवताओं] के (प्राणेन) प्राण के साथ (जीव) जीता रह, (मा मृथाः) मरा मत जा। (अहम्) मैं (सर्वेण पाप्मना) सब पाप कर्म से... [म० १] ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य अपने और दूसरों के सुधारनेवाले वीर योगियों [देवताओं-म०] के अनुकरणी होकर पुरुषार्थ करें और आलस्य आदि में व्यर्थ जन्म न खोवें ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(आयुष्मताम्) प्रशस्तेन दीर्घेणायुषा तद्वताम्। (आयुष्कृताम्)। अन्येषां प्रशस्तदीर्घायुषः कर्तॄणां देवानाम्-म० ७। (प्राणेन) अ० २।१५।१। जीवनबलेन। (जीव) प्राणान् धारय। (मा मृथाः) मृङ् प्राणत्यागे-लुङ्, माङि अडभावः। प्राणान् मा त्याक्षीः। अन्यद् गतम् ॥
@@ -577,15 +613,6 @@ Die not. Live with the breath of those who make and who enjoy long life. I free,
 व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्रा॒णेन॑ प्राण॒तां प्राणे॒हैव भ॑व॒ मा मृ॑थाः।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
 <details open><summary><h3>०९ प्राणेन प्राणताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -599,14 +626,23 @@ Our Bp., with two of SPP's *pada*-mss. ⌊s.m.!⌋, accents *ána* at end of
 **a**. The comm. allows the first part of **b** to be addressed  
 alternatively to breath.
 </details>
+
 <details><summary>Griffith</summary>
 
 Die not. Stay here. Breathe with the breath of those who draw the vital air. I free, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रा॒णेन॑ प्राण॒तां प्राणे॒हैव भ॑व॒ मा मृ॑थाः।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रा॒णेन॑। प्रा॒ण॒ताम्। प्र। अ॒न॒। इ॒ह। ए॒व। भ॒व॒। मा। मृ॒थाः॒। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.९। 
+प्रा॒णेन॑। प्रा॒ण॒ताम्। प्र। अ॒न॒। इ॒ह। ए॒व। भ॒व॒। मा। मृ॒थाः॒। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आयुः
@@ -614,18 +650,22 @@ Die not. Stay here. Breathe with the breath of those who draw the vital air. I f
 - अनुष्टुप्
 - यक्ष्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (प्राणताम्) जीते हुओं के (प्राणेन) श्वास से (प्राण) श्वास ले, (इह) यहाँ पर (एव) ही (भव) रह, (मा मृथाः) मरा मत जा। (अहम्) मैं (सर्वेण पाप्मना) सब पाप कर्म से... [म० १] ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य पुरुषार्थियों के समान अपने श्वास-श्वास पर कर्तव्य करे और संसार में रहकर भूल, आलस्य आदि दोष छोड़कर कीर्ति पावे ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(प्राणेन) प्रकृष्टजीवनेन। श्वासप्रश्वासव्यापारेण। (प्राणताम्) प्र+अन जीवने-शतृ। श्वसताम्। आत्मवत्ताम्। (प्राण) प्राणान् धारय। (इह एव) अस्मिन्नेव जन्मनि लोके वा। (भव) वर्तस्व। अन्यद् गतम् ॥
@@ -639,15 +679,6 @@ Die not. Stay here. Breathe with the breath of those who draw the vital air. I f
 
 उ᳓दा᳓युषा स᳓मा᳓युषो᳓दो᳓षधीनां र᳓सेन।  
 व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उदायु॑षा॒ समायु॒षोदोष॑धीनां॒ रसे॑न।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
@@ -666,14 +697,23 @@ precisely with TS.), VS. (Kāṇv. ii. VII. 5), AśS. (i. 3. 23), PGS. (iii.
 VS. and PGS. lack the second pāda. The comm. points out that *asthāma*  
 is to be understood from vs. 11.
 </details>
+
 <details><summary>Griffith</summary>
 
 Rise up with life, conjoined with life. Up, with the sap of growing plants! I free, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उदायु॑षा॒ समायु॒षोदोष॑धीनां॒ रसे॑न।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। आयु॑षा। सम्। आयु॑षा। उत्। ओष॑धीनाम्। रसे॑न। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.१०। 
+उत्। आयु॑षा। सम्। आयु॑षा। उत्। ओष॑धीनाम्। रसे॑न। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आयुः
@@ -681,18 +721,22 @@ Rise up with life, conjoined with life. Up, with the sap of growing plants! I fr
 - अनुष्टुप्
 - यक्ष्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (आयुषः) जीवन [उत्साह] के साथ (उत्=उद्भव) खड़ा हो (आयुषा) जीवन के साथ (सम्=सम् भव) पराक्रमी हो। (ओषधीनाम्) औषधियों अन्न आदि के (रसेन) रस [भोग] से (उत्=उद्भव) ऊँचा हो। (अहम्) मैं (सर्वेण पाप्मना) सब कर्म से... [म० १] ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य जीवन भर उद्योगी तथा पराक्रमी रहे, और अन्न आदि पदार्थों के भोगों के अनुसार उपकार का प्रतिफल देकर जीवन सुफल करे ॥१०॥  इस मन्त्र में भव पद की अनुवृत्ति मन्त्र ९ से आती है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(उत्) अत्र पूर्वमन्त्राद् भव इति क्रियापदम् अनुवर्तते। उद्भव ऊर्ध्वो वर्तस्व। (आयुषा) जीवनेन। उत्साहेन। (सम्) सम्भव। पराक्रमी भव। (ओषधीनाम्) अ० ३।५।१। व्रीहियवादीनाम्। (रसेन) आयुष्करेण सारेण। अन्यत् स्पष्टम् ॥
@@ -706,15 +750,6 @@ Rise up with life, conjoined with life. Up, with the sap of growing plants! I fr
 
 आ᳓ पर्ज᳓न्यस्य वृष्ट्यो᳓दस्थामामृ᳓ता वय᳓म्।  
 व्य᳙हं᳓ स᳓र्वेण पाप्म᳓ना वि᳓ य᳓क्ष्मेण स᳓मा᳓युषा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/11_A_parjanyasya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आ प॒र्जन्य॑स्य वृ॒ष्ट्योद॑स्थामा॒मृता॑ व॒यम्।  
-व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/11_A_parjanyasya.md">
@@ -761,14 +796,23 @@ Here ends also the sixth *prapāṭhaka.*
 Not one of our mss. adds a summary of hymns and verses for the whole  
 book.
 </details>
+
 <details><summary>Griffith</summary>
 
 We as immortal beings have arisen with Parjanya's rain, I free from every evil, from decline: I compass round with life.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ प॒र्जन्य॑स्य वृ॒ष्ट्योद॑स्थामा॒मृता॑ व॒यम्।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। प॒र्जन्य॑स्य। वृ॒ष्ट्या। उत्। अ॒स्था॒म॒ ॒। अ॒मृताः॑। व॒यम्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.११। 
+आ। प॒र्जन्य॑स्य। वृ॒ष्ट्या। उत्। अ॒स्था॒म॒ ॒। अ॒मृताः॑। व॒यम्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.११।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पर्जन्यः
@@ -776,18 +820,22 @@ We as immortal beings have arisen with Parjanya's rain, I free from every evil, 
 - अनुष्टुप्
 - यक्ष्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वयम्) हम (अमृताः) अमर होकर (पर्जन्यस्य) सींचनेवाले मेघ की (वृष्ट्या) बरसा से [जैसे] (आ) सब ओर से (उत् अस्थाम) उठ खड़े हुए हैं, (अहम्) मैं (सर्वेण पाप्मना) सब पाप कर्म से (वि) अलग, और (यक्ष्मेण) राजरोग, क्षयी आदि से (वि=विवर्त्तै) अलग रहूँ, और (आयुषा) जीवन [उत्साह] से (सम्=सम् वर्तै) मिला रहूँ ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य इस सूक्त में वर्णित उपदेश के अनुसार ब्रह्मज्ञान के श्रवण मनन और निदिध्यासन [विचार] से ऐसे हर्ष में बढ़े हैं जैसे अन्न आदि औषधें जल की बरसा से नवीन जीवन पाकर उगती हैं, इसलिए प्रत्येक मनुष्य आत्मिक और शारीरिक दोष छोड़कर अपना जीवन का लाभ उठावें ॥११॥  इति षष्ठोऽनुवाकः ॥ इति षष्ठः प्रपाठकः ॥  इति तृतीयं काण्डम् ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(आ) समन्तात् (पर्जन्यस्य) अ० १।२।१। सेचकस्य। मेघस्य (वृष्ट्या) वर्षजलेन। (उत् अस्थाम) तिष्ठतेर्लुङ्। उत्थिता अभूम। (अमृताः) मरणरहिता अमृतत्वं जीवनत्वं प्राप्ताः सन्तः। (वयम्) उपासकाः। अन्यद् व्याख्यातम् ॥

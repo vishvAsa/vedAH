@@ -8,15 +8,18 @@ title = "०४५ आञ्जनम्"
 
 45. With an ointment etc.: for various objects.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 आञ्जनम्।  
 १-१० भृगुः। आञ्जनम्, मन्त्रोक्ताः। १-२ अनुष्टुप्, ३-४ त्रिष्टुप्, ६-१० एकावसाना महाबृहती ( ६ विराट् ७-१० निचृत्)।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—daśa. 1-5. āñjanadevatyam; 6-10. mantroktadevatyam. 1, 2. anuṣṭubh; 3-5. triṣṭubh; 6-10. 1-av. mahābṛhatī (6. virāj; 7-10. nicṛṭ).]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ title = "०४५ आञ्जनम्"
 #### Translations
 Translated: Griffith, ii. 301.
 </details>
+
 <details><summary>Griffith</summary>
 
 A curative and protective charm
@@ -39,15 +43,6 @@ A curative and protective charm
 
 ऋणा᳓दृण᳓मिव सं᳓ नयन् कृत्यां᳓ कृत्याकृ᳓तो गृह᳓म्।  
 च᳓क्षुर्मन्त्रस्य दुर्हा᳓र्दः पृष्टी᳓र᳓पि शृणाञ्जन ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/01_RNAdRNamiva_sam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ऋ॒णादृ॒णमि॑व॒ सं न॑यन् कृ॒त्यां कृ॑त्या॒कृतो॑ गृ॒हम्।  
-चक्षु॑र्मन्त्रस्य दु॒र्हार्दः॑ पृ॒ष्टीरपि॑ शृणाञ्जन ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/01_RNAdRNamiva_sam.md">
@@ -75,14 +70,23 @@ our emendation *sáṁ naya*, and at least equally acceptable in point of
 sense. In **c** the comm. has the bad reading *cakṣur mitrasya*. Ppp.  
 ends **d** with *āñjanam*.
 </details>
+
 <details><summary>Griffith</summary>
 
 As debt from debt repay and send sorcery to the sorcerer's house. Split, Salve! the cruel villain's ribs whose evil eye bewitches us.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋ॒णादृ॒णमि॑व॒ सं न॑यन् कृ॒त्यां कृ॑त्या॒कृतो॑ गृ॒हम्।  
+चक्षु॑र्मन्त्रस्य दु॒र्हार्दः॑ पृ॒ष्टीरपि॑ शृणाञ्जन ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋ॒णात्। ऋ॒णम्ऽइ॑व। स॒म्ऽनय॑न्। कृ॒त्याम्। कृ॒त्या॒ऽकृतः॑। गृ॒हम्। चक्षुः॑ऽमन्त्रस्य। दुः॒ऽहार्दः॑। पृ॒ष्टीः। अपि॑। शृ॒ण॒। आ॒ऽअ॒ञ्ज॒न॒। ४५.१। 
+ऋ॒णात्। ऋ॒णम्ऽइ॑व। स॒म्ऽनय॑न्। कृ॒त्याम्। कृ॒त्या॒ऽकृतः॑। गृ॒हम्। चक्षुः॑ऽमन्त्रस्य। दुः॒ऽहार्दः॑। पृ॒ष्टीः। अपि॑। शृ॒ण॒। आ॒ऽअ॒ञ्ज॒न॒। ४५.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आञ्जनम्
@@ -90,18 +94,22 @@ As debt from debt repay and send sorcery to the sorcerer's house. Split, Salve! 
 - अनुष्टुप्
 - आञ्जन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इव) जैसे (ऋणात्) ऋण में से (ऋणम्) ऋण को [अर्थात् जैसे ऋण का भाग ऋणदाता को मनुष्य शीघ्र भेजता है वैसे] (कृत्याम्) हिंसा को (कृत्याकृतः) हिंसा करनेवाले के (गृहम्) घर (संनयन्) भेज देता हुआ तू, (आञ्जन) हे आञ्जन ! [संसार के प्रकट करनेवाले ब्रह्म] (चक्षुर्मन्त्रस्य) आँख से गुप्त बात करनेवाले (दुर्हार्दः) दुष्ट हृदयवाले की (पृष्टीः) पसलियों को (अपि) अवश्य (शृण) तोड़ डाल ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे मनुष्य उधार देनेवाले को उधार लिया हुआ शीघ्र भेजकर सुख पाता है, वैसे ही मनुष्य पीड़ा देनेवाले को शीघ्र दण्ड देकर आनन्द पावें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   इस मन्त्र का उत्तरार्द्ध कुछ भेद से ऊपर आ चुका है-अ०२।७।५॥१−(ऋणात्) ऋ गतौ-क्त प्रत्ययः, तस्य नत्वम्। पुनर्देयत्वेन गृहीताद्धनात् (ऋणम्) ऋणभागम् (इव) यथा (संनयन्) सम्यक् प्रापयन् (कृत्याम्) हिंसाम् (कृत्याकृतः) हिंसाकारकस्य (गृहम्) चक्षुर्मन्त्रस्य अ०२।७।५। चक्षुः+मत्रि गुप्तभाषणे-अच् घञ् वा। नेत्रसङ्केतेन विचारशीलस्य पिशुनस्य (दुर्हार्दः) दुष्टहृदयस्य (पृष्टीः) पार्श्वास्थीनि (अपि) अवश्यम् (शृण) विनाशय (आञ्जन) ४४।१। हे संसारस्य व्यक्तीकारक ब्रह्म ॥
@@ -115,15 +123,6 @@ As debt from debt repay and send sorcery to the sorcerer's house. Split, Salve! 
 
 य᳓दस्मा᳓सु दुःष्व᳓प्न्यं य᳓द्गो᳓षु य᳓च्च नो गृहे᳓।  
 अ᳓नामगस्तं᳓ च दुर्हा᳓र्दः प्रियः᳓ प्र᳓ति मुञ्चताम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/02_yadasmAsu_duHShvapnyam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यद॒स्मासु॑ दुः॒ष्वप्न्यं॒ यद्गोषु॒ यच्च॑ नो गृ॒हे।  
-अना॑मग॒स्तं च॑ दु॒र्हार्दः॑ प्रि॒यः प्रति॑ मुञ्चताम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/02_yadasmAsu_duHShvapnyam.md">
@@ -206,14 +205,23 @@ grammatical and not intolerable in the texts, and to be unparalleled
   
 ⌊☞ See p. 1046.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Whatever evil dream we have, what'er befall our kine or home, Be this that is salubrity, the evil-hearted's foe applied.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद॒स्मासु॑ दुः॒ष्वप्न्यं॒ यद्गोषु॒ यच्च॑ नो गृ॒हे।  
+अना॑मग॒स्तं च॑ दु॒र्हार्दः॑ प्रि॒यः प्रति॑ मुञ्चताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। अ॒स्मासु॑। दुः॒ऽस्वप्न्य॑म्। यत्। गोषु॑। यत्। च॒। नः॒। गृ॒हे। अना॑मगः। तम्। च॒। दुः॒ऽहार्दः॑। प्रि॒यः। प्रति॑। मु॒ञ्च॒ता॒म्। ४५.२। 
+यत्। अ॒स्मासु॑। दुः॒ऽस्वप्न्य॑म्। यत्। गोषु॑। यत्। च॒। नः॒। गृ॒हे। अना॑मगः। तम्। च॒। दुः॒ऽहार्दः॑। प्रि॒यः। प्रति॑। मु॒ञ्च॒ता॒म्। ४५.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आञ्जनम्
@@ -221,18 +229,22 @@ Whatever evil dream we have, what'er befall our kine or home, Be this that is sa
 - अनुष्टुप्
 - आञ्जन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जो (दुःष्वप्न्यम्) दुष्ट स्वप्न (अस्मासु) हममें (यत्) जो (गोषु) गौओं में (च) और (यत्) जो (नः) हमारे (गृहे) घर में है। (च) और (दुर्हार्दः) दुष्ट हृदयवाले का (अनामगः) अनामय [स्वास्थ्य] है, (तम्) उसको [भी] (प्रियः) [हमारा] प्रिय (प्रति) प्रतिकूल (मुञ्चताम्) छोड़े ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  यदि दुष्ट लोग धर्मात्माओं के साथ पीड़ाजनक व्यवहार करें, तो उनको उसका यथोचित दण्ड दिया जावे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(यत्) (अस्मासु) धर्मात्मसु (दुःष्वप्न्यम्) निद्रावैकल्यम् (यत्) (गोषु) धेनुषु (यत्) (च) (नः) अस्माकम् (गृहे) निवासे (अनामगः) नञ्+आम+गमेः-ड प्रत्ययः। आमो रोगः। अनामं नैरोग्यं गच्छति प्राप्नोति यस्मात् सः। अनामयः। स्वास्थ्यम् (तम्) अनामयम् (च) (दुर्हार्दः) दुष्टहृदयस्य (प्रियः) अस्माकं हितकरः (प्रति) प्रतिकूलम् (मुञ्चताम्) मोचयतु ॥
@@ -246,15 +258,6 @@ Whatever evil dream we have, what'er befall our kine or home, Be this that is sa
 
 अपा᳓मूर्ज᳓ ओ᳓जसो वावृधान᳓मग्ने᳓र्जात᳓म᳓धि जात᳓वेदसः।  
 च᳓तुर्वीरं पर्वती᳓यं य᳓दा᳓ञ्जनं दि᳓शः प्रदिशः करदि᳓च्छिवा᳓स्ते ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/03_apAmUrja_ojaso.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒पामू॒र्ज ओज॑सो वावृधा॒नम॒ग्नेर्जा॒तमधि॑ जा॒तवे॑दसः।  
-चतु॑र्वीरं पर्व॒तीयं॒ यदाञ्ज॑नं॒ दिशः॑ प्रदिशः कर॒दिच्छि॒वास्ते॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/03_apAmUrja_ojaso.md">
@@ -273,14 +276,23 @@ by the sense. The comm. reads *ūrjam;* Ppp. combines *ūrjo ’jaso*, and
 has in **c** *parvataṁ*. The Anukr. does not heed the redundant syllable  
 in **c**.
 </details>
+
 <details><summary>Griffith</summary>
 
 Increasing from the Waters' strength and vigour, sprung into life from Agni Jatavedas, Strong as four heroes, mountain born, this Ointment make for thee quarters and mind-points auspicious!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒पामू॒र्ज ओज॑सो वावृधा॒नम॒ग्नेर्जा॒तमधि॑ जा॒तवे॑दसः।  
+चतु॑र्वीरं पर्व॒तीयं॒ यदाञ्ज॑नं॒ दिशः॑ प्रदिशः कर॒दिच्छि॒वास्ते॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पाम्। ऊ॒र्जः। ओज॑सः। व॒वृ॒धा॒नम्। अ॒ग्नेः। जा॒तम्। अधि॑। जा॒तऽवे॑दसः। चतुः॑ऽवीरम्। प॒र्व॒तीय॑म्। यत्। आ॒ऽअञ्ज॑नम्। दिशः॑। प्र॒ऽदिशः॑। क॒र॒त्। इत्। शि॒वाः। ते॒। ४५.३। 
+अ॒पाम्। ऊ॒र्जः। ओज॑सः। व॒वृ॒धा॒नम्। अ॒ग्नेः। जा॒तम्। अधि॑। जा॒तऽवे॑दसः। चतुः॑ऽवीरम्। प॒र्व॒तीय॑म्। यत्। आ॒ऽअञ्ज॑नम्। दिशः॑। प्र॒ऽदिशः॑। क॒र॒त्। इत्। शि॒वाः। ते॒। ४५.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आञ्जनम्
@@ -288,18 +300,22 @@ Increasing from the Waters' strength and vigour, sprung into life from Agni Jata
 - त्रिष्टुप्
 - आञ्जन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अपाम्) प्रजाओं के (ऊर्जः) अन्न के और (ओजसः) पराक्रम से (वावृधानम्) बढ़ानेवाले और (जातवेदसः) उत्पन्न पदार्थों में विद्यमान (अग्नेः) अग्नि [सूर्य आदि] से (अधि) अधिक (जातम्) प्रसिद्ध, (चुतुर्वीरम्) चारों दिशाओं में वीर और (पर्वतीयम्) मेघों में वर्तमान (यत्) जो (आञ्जनम्) आञ्जन [संसार का प्रकट करनेवाला ब्रह्म] है, वह (दिशः) दिशाओं और (प्रदिशः) बड़ी दिशाओं [पूर्व आदि] को (ते) तेरे लिये, हे मनुष्य ! (इत्) अवश्य (शिवाः) कल्याणकारी (करत्) करे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य सर्वशक्तिमान् परमात्मा में भक्ति करके पुरुषार्थ करते हैं, वे सब दिशाओं में सुख पाते हैं ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(अपाम्) प्रजानाम् (ऊर्जः) अन्नस्य (ओजसः) पराक्रमस्य च (वावृधानम्) अतिवर्धकम् (अग्नेः) सूर्यादिसकाशात् (जातम्) प्रसिद्धम् (अधि) अधिकम् (जातवेदसः) जातेषु पदार्थेषु विद्यमानात् (चतुर्वीरम्) चतसृषु दिक्षु शूरम् (पर्वतीयम्) पर्वतेषु मेघेषु वर्तमानम् (यत्) (आञ्जनम्) संसारस्य व्यक्तीकारकं ब्रह्म (दिशः) अवान्तरदिशाः (प्रदिशः) प्रकृष्टा दिशाः प्रागाद्याः (करत्) कुर्यात् (इत्) अवश्यम् (शिवाः) सुखप्रदाः (ते) तुभ्यम् ॥
@@ -313,15 +329,6 @@ Increasing from the Waters' strength and vigour, sprung into life from Agni Jata
 
 च᳓तुर्वीरं बध्यत आ᳓ञ्जनं ते स᳓र्वा दि᳓शो अ᳓भयास्ते भवन्तु।  
 ध्रुव᳓स्तिष्ठासि सविते᳓व चा᳓र्य इमा᳓ वि᳓शो अभि᳓ हरन्तु ते बलि᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/04_chaturvIraM_badhyata.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-चतु॑र्वीरं बध्यत॒ आञ्ज॑नं ते॒ सर्वा॒ दिशो॒ अभ॑यास्ते भवन्तु।  
-ध्रु॒वस्ति॑ष्ठासि सवि॒तेव॒ चार्य॑ इ॒मा विशो॑ अ॒भि ह॑रन्तु ते ब॒लिम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/04_chaturvIraM_badhyata.md">
@@ -348,14 +355,23 @@ strange epithet *caturvīra*, showing that he is merely guessing what its
 sense might possibly be. We have in **d** again an extra syllable of  
 which the Anukr. takes no notice.
 </details>
+
 <details><summary>Griffith</summary>
 
 On thee is laid the Chaturvira Ointment: let all the regions give thee peace and safety. Secure like precious Savitar thou standest: to thee let all these regions bring their tribute.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+चतु॑र्वीरं बध्यत॒ आञ्ज॑नं ते॒ सर्वा॒ दिशो॒ अभ॑यास्ते भवन्तु।  
+ध्रु॒वस्ति॑ष्ठासि सवि॒तेव॒ चार्य॑ इ॒मा विशो॑ अ॒भि ह॑रन्तु ते ब॒लिम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-चतुः॑ऽवीरम्। ब॒ध्य॒ते॒। आ॒ऽअञ्ज॑नम्। ते॒। सर्वाः॑। दिशः॑। अभ॑याः। ते॒। भ॒व॒न्तु॒। ध्रु॒वः। ति॒ष्ठा॒सि॒। स॒वि॒ताऽइ॑व। च॒। आर्यः॑। इ॒माः। विशः॑। अ॒भि। ह॒र॒न्तु॒। ते॒। ब॒लिम्। ४५.४। 
+चतुः॑ऽवीरम्। ब॒ध्य॒ते॒। आ॒ऽअञ्ज॑नम्। ते॒। सर्वाः॑। दिशः॑। अभ॑याः। ते॒। भ॒व॒न्तु॒। ध्रु॒वः। ति॒ष्ठा॒सि॒। स॒वि॒ताऽइ॑व। च॒। आर्यः॑। इ॒माः। विशः॑। अ॒भि। ह॒र॒न्तु॒। ते॒। ब॒लिम्। ४५.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आञ्जनम्
@@ -363,18 +379,22 @@ On thee is laid the Chaturvira Ointment: let all the regions give thee peace and
 - त्रिष्टुप्
 - आञ्जन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (ते) तेरे लिये (चतुर्वीरम्) चारों दिशाओं में वीर, (आञ्जनम्) आञ्जन [संसार का प्रकट करनेवाला ब्रह्म] (बध्यते) धारण किया जाता है, (ते) तेरे लिये (सर्वाः) सब (दिशः) दिशाएँ (अभयाः) निर्भय (भवन्तु) होवें। (च) और (आर्यः) श्रेष्ठ तू (सविता इव) सूर्य के समान (ध्रुवः) दृढ़ होकर (तिष्ठासि) ठहरा रह, (इमाः) यह (विशः) प्रजाएँ (ते) तेरे लिये (बलिम्) बलि [कर] (अभि) सब ओर से (हरन्तु) लावें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमात्मा के दृढ़ स्वभाव उपासक पुरुष दिग्विजयी होकर सब प्रजाओं को वश में करें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(चतुर्वीरम्) चतसृषु दिक्षु शूरम् (बध्यते) ध्रियते (आञ्जनम्) संसारस्य व्यक्तीकारकं ब्रह्म (ते) तुभ्यम् (सर्वाः) समस्ताः (दिशः) (अभयाः) निर्भयाः (ते) तुभ्यम् (भवन्तु) (ध्रुवः) दृढः सन् (तिष्ठासि) स्थितो भूयाः (सविता) सूर्यः (इव) यथा (च) (आर्यः) श्रेष्ठस्त्वम् (इमाः) वर्तमानाः (विशः) प्रजाः (अभि) अभितः (हरन्तु) प्रापयन्तु (ते) तुभ्यम् (बलिम्) करम्। भागम् ॥
@@ -388,15 +408,6 @@ On thee is laid the Chaturvira Ointment: let all the regions give thee peace and
 
 आ᳓क्ष्वै᳓कं मणि᳓मे᳓कं कृणुष्व स्नाह्ये᳓केना᳓ पिबै᳓कमेषाम्।  
 च᳓तुर्वीरं नैरृते᳓भ्यश्चतु᳓र्भ्यो ग्रा᳓ह्या बन्धे᳓भ्यः प᳓रि पात्वस्मा᳓न् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/05_AxvaikaM_maNimekam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आक्ष्वैकं॑ म॒णिमेकं॑ कृणुष्व स्ना॒ह्येके॒ना पि॒बैक॑मेषाम्।  
-चतु॑र्वीरं नैरृ॒तेभ्य॑श्च॒तुर्भ्यो॒ ग्राह्या॑ ब॒न्धेभ्यः॒ परि॑ पात्व॒स्मान् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/05_AxvaikaM_maNimekam.md">
@@ -440,14 +451,23 @@ oṣadhayaḥ!* and this compels him to change *pātu* to *pāntu*. The
 to recognize the not uncommon noun *grā́hi;* SPP. makes the necessary  
 emendation to *-hyāḥ*. \*⌊But SPP's S^(m)., *ākṣvā́ikam*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Make one thy salve, thine amulet another, drink one, and with another bathe thy body. So let the Chaturvira keep us guarded from the four bonds of Nirriti and Grahi.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आक्ष्वैकं॑ म॒णिमेकं॑ कृणुष्व स्ना॒ह्येके॒ना पि॒बैक॑मेषाम्।  
+चतु॑र्वीरं नैरृ॒तेभ्य॑श्च॒तुर्भ्यो॒ ग्राह्या॑ ब॒न्धेभ्यः॒ परि॑ पात्व॒स्मान् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। अ॒क्ष्व॒। एक॑म्। म॒णिम्। एक॑म्। कृ॒णु॒ष्व॒। स्ना॒हि। एके॑न। आ। पि॒ब॒। एक॑म्। ए॒षा॒म्। चतुः॑ऽवीरम्। नैः॒ऽऋ॒तेभ्यः॑। च॒तुःऽभ्यः॑। ग्राह्याः॑। ब॒न्धेभ्यः॑। परि॑। पा॒तु॒। अ॒स्मान्। ४५.५। 
+आ। अ॒क्ष्व॒। एक॑म्। म॒णिम्। एक॑म्। कृ॒णु॒ष्व॒। स्ना॒हि। एके॑न। आ। पि॒ब॒। एक॑म्। ए॒षा॒म्। चतुः॑ऽवीरम्। नैः॒ऽऋ॒तेभ्यः॑। च॒तुःऽभ्यः॑। ग्राह्याः॑। ब॒न्धेभ्यः॑। परि॑। पा॒तु॒। अ॒स्मान्। ४५.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आञ्जनम्
@@ -455,18 +475,22 @@ Make one thy salve, thine amulet another, drink one, and with another bathe thy 
 - त्रिष्टुप्
 - आञ्जन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (एकम्) एक [ब्रह्म] को (आ) सब ओर से (अक्ष्व) प्राप्त हो, (एकम्) एक को (मणिम्) श्रेष्ठ (कृणुष्व) बना, (एकेन) एक के साथ (स्नाहि) शुद्ध हो, (एषाम्) इन [पदार्थों] में से (एकम्) एक को (आ) लेकर (पिब) पान कर। (चतुर्वीरम्) चारों दिशाओं में वीर [ब्रह्म] (ग्राह्याः) ग्राही [गठिया रोग] के (नैर्ऋतेभ्यः) महाविपत्तिवाले (चतुर्भ्यः) चारों [दिशाओं में फैले] (बन्धेभ्यः) बन्धनों से (अस्मान्) हमें (परि पातु) बचाये रक्खे ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य एक अद्वितीय परमात्मा में श्रद्धा करके शारीरिक और आत्मिक रोगों से मुक्त होवे ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(आ) समन्तात् (अक्ष्व) अक्षू व्याप्तौ-आत्मनेपदं लोट्। प्राप्नुहि (एकम्) अद्वितीयं ब्रह्म (मणिम्) श्रेष्ठम् (एकम्) ब्रह्म (कृणुष्व) कुरु (स्नाहि) शुद्धो भव (एकेन) ब्रह्मणा (आ) आनीय (पिब) पानं कुरु (एकम्) एषाम् पदार्थानां मध्ये (चतुर्वीरम्) चतसृषु दिक्षु वीररूपं ब्रह्म (नैर्ऋतेभ्यः) निर्ऋति-अण्। महाविपत्तिसम्बन्धिभ्यः (चतुर्भ्यः) चतसृषु दिक्षु व्याप्तेभ्यः (ग्राह्याः) अ०२।९।१। ग्रहणशीलपीडायाः (बन्धेभ्यः) पाशेभ्यः (परि) सर्वतः (पातु) रक्षतु (अस्मान् ॥
@@ -479,14 +503,6 @@ Make one thy salve, thine amulet another, drink one, and with another bathe thy 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्नि᳓र्माग्नि᳓नावतु प्राणा᳓यापाना᳓या᳓युषे व᳓र्चस ओ᳓जसे᳓ ते᳓जसे स्वस्त᳓ये सुभूत᳓ये स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/06_agnirmAgninAvatu_prANAyApAnAyAyuShe.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒ग्निर्मा॒ग्निना॑वतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/06_agnirmAgninAvatu_prANAyApAnAyAyuShe.md">
@@ -518,14 +534,22 @@ breath etc. etc.
 {{smaller block\|The comm. gives a double interpretation of *indriya*.  
 Ppp. again has *mā indriy-*.
 </details>
+
 <details><summary>Griffith</summary>
 
 May Agni protect me with fire for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्निर्मा॒ग्निना॑वतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। मा॒। अ॒ग्निना॑। अ॒व॒तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये॑। स्वाहा॑। ४५.६। 
+अ॒ग्निः। मा॒। अ॒ग्निना॑। अ॒व॒तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये॑। स्वाहा॑। ४५.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आञ्जनम्
@@ -533,18 +557,22 @@ May Agni protect me with fire for inspiration and expiration, for strength, for 
 - एकावसाना विराण्महाबृहती
 - आञ्जन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्निः) ज्ञानवान् [परमेश्वर] (मा) मुझे (अग्निना) ज्ञान के साथ (अवतु) बचावे, (प्राणाय) प्राण के लिये, (अपानाय) अपान के लिये, (आयुषे) जीवन के लिये, (वर्चसे) प्रताप के लिये, (ओजसे) पराक्रम के लिये, (तेजसे) तेज के लिये, (स्वस्तये) स्वस्ति [सुन्दर सत्ता] के लिये और (सुभूतये) बड़े ऐश्वर्य के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमात्मा की उपासनापूर्वक शारीरिक क्रान्ति और आत्मिक उन्नति करके अपना बल, पराक्रम आदि बढ़ावें ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(अग्निः) ज्ञानवान् परमेश्वरः (मा) माम् (अग्निना) ज्ञानेन (अवतु) रक्षतु (प्राणाय) प्राणस्थैर्याय (अपानाय) अपानस्वास्थ्याय (आयुषे) श्रेष्ठजीवनाय (वर्चसे) प्रतापाय (ओजसे) पराक्रमाय (तेजसे) शरीरकान्तिवर्धनाय (स्वस्तये) कल्याणाय। सुसत्ताप्राप्तये (सुभूतये) शोभनायै सम्पदे (स्वाहा) सुवाणी भवतु ॥
@@ -559,28 +587,28 @@ May Agni protect me with fire for inspiration and expiration, for strength, for 
 इ᳓न्द्रो मेन्द्रिये᳓णावतु प्राणा᳓यापाना᳓या᳓युषे व᳓र्चस ओ᳓जसे᳓ ते᳓जसे स्वस्त᳓ये सुभूत᳓ये स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/07_indro_mendriyeNAvatu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इन्द्रो॑ मेन्द्रि॒येणा॑वतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/07_indro_mendriyeNAvatu.md">
 <details open><summary><h3>०७ इन्द्रो मेन्द्रियेणावतु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 इन्द्रो॑ मेन्द्रि॒येणा॑वतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से॒ तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑॥७॥
 </details>
+
 <details><summary>Griffith</summary>
 
 May Indra protect me with his Indra-power for inspiration, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रो॑ मेन्द्रि॒येणा॑वतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। मा॒। इ॒न्द्रि॒येण॑। अ॒व॒तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये॑। स्वाहा॑। ४५.७। 
+इन्द्रः॑। मा॒। इ॒न्द्रि॒येण॑। अ॒व॒तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये॑। स्वाहा॑। ४५.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आञ्जनम्
@@ -588,18 +616,22 @@ May Indra protect me with his Indra-power for inspiration, etc.
 - एकावसाना निचृन्महाबृहती
 - आञ्जन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इन्द्रः) इन्द्र [परम ऐश्वर्यवान् जगदीश्वर] (मा) मुझे (इन्द्रियेण) इन्द्र के चिह्न [परम ऐश्वर्य] के साथ (अवतु) बचावे, (प्राणाय) प्राण के लिये....... [म०६] ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र ६ के समान है ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(इन्द्रः) परमैश्वर्यवान् जगदीश्वरः (इन्द्रियेण) इन्द्रियमिन्द्रलिङ्ग०। पा०५।२।९३। इन्द्र-घच्। इन्द्रलिङ्गेन। इन्द्रत्वेन। परमैश्वर्येण। अन्यत् पूर्ववत् ॥
@@ -614,14 +646,6 @@ May Indra protect me with his Indra-power for inspiration, etc.
 सो᳓मो मा सौ᳓म्येनावतु प्राणा᳓यापाना᳓या᳓युषे व᳓र्चस ओ᳓जसे᳓ ते᳓जसे स्वस्त᳓ये सुभूत᳓ये स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/08_somo_mA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सोमो॑ मा॒ सौम्ये॑नावतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/08_somo_mA.md">
 <details open><summary><h3>०८ सोमो मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -634,14 +658,22 @@ etc. etc.
 The comm. explains *sāúmyena* as *somatvasampādakena dharmeṇa  
 jagadāpyāyanakāritvādidharmeṇa*.
 </details>
+
 <details><summary>Griffith</summary>
 
 May Soma protect me with Soma-power, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोमो॑ मा॒ सौम्ये॑नावतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सोमः॑। मा॒। सौम्ये॑न। अ॒व॒तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये॑। स्वाहा॑। ४५.८। 
+सोमः॑। मा॒। सौम्ये॑न। अ॒व॒तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये॑। स्वाहा॑। ४५.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आञ्जनम्
@@ -649,18 +681,22 @@ May Soma protect me with Soma-power, etc.
 - एकावसाना निचृन्महाबृहती
 - आञ्जन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सोमः) शान्तस्वभाव परमेश्वर (मा) मुझे (सौम्येन) शान्त गुण के साथ (अवतु) बचावे, (प्राणाय) प्राण के लिये..... [मन्त्र ६] ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र ६ के समान है ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(सोमः) शान्तस्वभावः परमेश्वरः (सौम्येन) शान्तगुणेन। अन्यत् पूर्ववत् ॥
@@ -675,14 +711,6 @@ May Soma protect me with Soma-power, etc.
 भ᳓गो म भ᳓गेनावतु प्राणा᳓यापाना᳓या᳓युषे व᳓र्चस ओ᳓जसे᳓ ते᳓जसे स्वस्त᳓ये सुभूत᳓ये स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/09_bhago_ma.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-भगो॑ म॒ भगे॑नावतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/09_bhago_ma.md">
 <details open><summary><h3>०९ भगो म ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -695,14 +723,22 @@ etc.
 The comm. has here a lacuna, embracing the commentary to this verse and  
 the text of the next. ⌊The verse is wanting in Ppp., as noted above.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 May Bhaga with good fortune protect me, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+भगो॑ म॒ भगे॑नावतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भगः॑। मा॒। भगे॑न। अ॒व॒तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये। स्वाहा॑। ४५.९। 
+भगः॑। मा॒। भगे॑न। अ॒व॒तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये। स्वाहा॑। ४५.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -710,18 +746,22 @@ May Bhaga with good fortune protect me, etc.
 - एकावसाना निचृन्महाबृहती
 - आञ्जन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (भगः) सेवनीय [परमेश्वर] (मा) मुझे (भगेन) सेवनीय ऐश्वर्य के साथ (अवतु) बचावे, (प्राणाय) प्राण के लिये..... [मन्त्र ६] ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र ६ के समान है ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(भगः) सेवनीयः परमेश्वरः (भगेन) सेवनीयेनैश्वर्येण। अन्यत् पूर्ववत् ॥
@@ -734,14 +774,6 @@ May Bhaga with good fortune protect me, etc.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मरु᳓तो मा गणै᳓रवन्तु प्राणा᳓यापाना᳓युषे व᳓र्चस ओ᳓जसे ते᳓जसे स्वस्त᳓ये सुभूत᳓ये स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/045_Anjanam/10_maruto_mA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-म॒रुतो॑ मा ग॒णैर॑वन्तु प्रा॒णाया॑पा॒नायु॑षे॒ वर्च॑स॒ ओज॑से॒ तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/10_maruto_mA.md">
@@ -759,14 +791,22 @@ discordant and unclear).
   
 ⌊Here ends the fifth *anuvāka*, with 12 hymns and 74 verses.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 May the Maruts protect me with their troops for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+म॒रुतो॑ मा ग॒णैर॑वन्तु प्रा॒णाया॑पा॒नायु॑षे॒ वर्च॑स॒ ओज॑से॒ तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-म॒रुतः॑। मा॒। ग॒णैः। अ॒व॒न्तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये॑। स्वाहा॑। ४५.१०। 
+म॒रुतः॑। मा॒। ग॒णैः। अ॒व॒न्तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये॑। स्वाहा॑। ४५.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आञ्जनम्
@@ -774,18 +814,22 @@ May the Maruts protect me with their troops for inspiration and expiration, for 
 - एकावसाना निचृन्महाबृहती
 - आञ्जन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मरुतः) शूर पुरुष (मा) मुझे (गणैः) सेना दलों के साथ (अवन्तु) बचावें, (प्राणाय) प्राण के लिये, (अपानाय) अपान के लिये, (आयुषे) जीवन के लिये, (वर्चसे) प्रताप के लिये, (ओजसे) पराक्रम के लिये, (तेजसे) तेज के लिये, (स्वस्तये) स्वस्ति [सुन्दर सत्ता] के लिये और (सुभूतये) बड़े ऐश्वर्य के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब मनुष्य परस्पर रक्षा करके संसार में उन्नति करें ॥१०॥ इति पञ्चमोऽनुवाकः ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(मरुतः) म०१।२०।१। शत्रुनाशकाः शूराः (गणैः) सैन्यैः। अन्यत् पूर्ववत् ॥

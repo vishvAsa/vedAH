@@ -8,15 +8,18 @@ title = "०१९ शत्रुनाशनम्"
 
 19. Against enemies: to Agni (fire).
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
 १-५ अथर्वा। अग्निः। (एकावसानम्) १-४ निचृद्विषमा गायत्री, ५ भुरिग्विषमा।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—āgneyam. 1-4. nicṛdviṣamāgāyatrī; 5. bhurigviṣamā.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ title = "०१९ शत्रुनाशनम्"
 #### Translations
 Translated: Weber, xiii. 181; Griffith, i. 62.
 </details>
+
 <details><summary>Griffith</summary>
 
 A prayer to Agni for aid against an enemy
@@ -40,14 +44,6 @@ A prayer to Agni for aid against an enemy
 अ᳓ग्ने य᳓त्ते त᳓पस्ते᳓न तं᳓ प्र᳓ति तप यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/01_agne_yatte.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अग्ने॒ यत्ते॒ तप॒स्तेन॒ तं प्रति॑ तप॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/01_agne_yatte.md">
 <details open><summary><h3>०१ अग्ने यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -60,14 +56,22 @@ whom we hate.
 MS. leaves (in all the verses) the *a* of *asmā́n* unelided, and both MS.  
 and Āp. insert *ca* before *vayám.*
 </details>
+
 <details><summary>Griffith</summary>
 
 Burn thou, O Agni, with that heat of thine against the man who hates us, whom we hate.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॒ यत्ते॒ तप॒स्तेन॒ तं प्रति॑ तप॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। यत्। ते॒। तपः॑। तेन॑। तम्। प्रति॑। त॒प॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.१। 
+अग्ने॑। यत्। ते॒। तपः॑। तेन॑। तम्। प्रति॑। त॒प॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -75,18 +79,22 @@ Burn thou, O Agni, with that heat of thine against the man who hates us, whom we
 - एकावसानानिचृद्विषमात्रिपाद्गायत्री
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुप्रयोग के त्याग के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे अग्नि [अग्नि पदार्थ] (यत्) जो (ते) तेरा (तपः) प्रताप [ऐश्वर्य] है, (तेन) उससे (तम् प्रति) उस [दोष] पर (तप) प्रतापी हो, (यः) जो (अस्मान्) हमसे (द्वेष्टि) अप्रिय करता है, [अथवा] (यम्) जिससे (वयम्) हम (द्विष्मः) अप्रिय करते हैं ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  दुराचारी, कामी, क्रोधी आदि पुरुष की मति भ्रष्ट हो जाती है और कुप्रयोग से शारीरिक और बाह्य अग्नि दुःखदायी होती और वही अग्नि सुप्रयोग से विचारशील सदाचारियों को सुखप्रद होती है। ऐसा ही आगे समझना चाहिये ॥१॥ ऐसा कहा भी है– गुणा गुणज्ञेषु गुणा भवन्ति ते निर्गुणं प्राप्य भवन्ति दोषाः ॥ गुण, गुणवान् को प्राप्त करके निखर उठते हैं, परन्तु वही निर्गुणी को पाकर दोष हो जाते हैं ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १–अग्ने। अग्निनाम तेजोविशेष ! ते। त्वदीयम्। तपः। तप सन्तापैश्वर्ययोः–असुन्। प्रतापः। ऐश्वर्यम्। तेन। तपसा। तम्। दोषम्। प्रति। लक्षीकृत्य। तप। प्रतापी भव। यः अस्मान् द्वेष्टि यं वयं द्विष्मः। इति व्याख्यातम्–अ० २।११।३ ॥
@@ -99,14 +107,6 @@ Burn thou, O Agni, with that heat of thine against the man who hates us, whom we
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ᳓ग्ने य᳓त्ते ह᳓रस्ते᳓न तं᳓ प्र᳓ति हर यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/02_agne_yatte.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अग्ने॒ यत्ते॒ हर॒स्तेन॒ तं प्रति॑ हर॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/02_agne_yatte.md">
@@ -122,14 +122,22 @@ hates us, whom we hate.
 parallelism of the expression. ⌊Or, 'with the seizing-force that is  
 thine, force back him' etc.?⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Flame thou, O Agni, with that flame of thine against the man who hates us, whom we hate.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॒ यत्ते॒ हर॒स्तेन॒ तं प्रति॑ हर॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। यत्। ते॒। हरः॑। तेन॑। तम्। प्रति॑। ह॒र॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.२। 
+अग्ने॑। यत्। ते॒। हरः॑। तेन॑। तम्। प्रति॑। ह॒र॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -137,18 +145,22 @@ Flame thou, O Agni, with that flame of thine against the man who hates us, whom 
 - एकावसानानिचृद्विषमात्रिपाद्गायत्री
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुप्रयोग के त्याग के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे अग्नि (यत्) जो (ते) तेरी (हरः) नाशशक्ति है, (तेन) उससे (तम्) उस [दोष] को (प्रति हर) नाश कर दे (यः) जो (अस्मान्) हमसे...... मन्त्र १ ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १ के समान ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २–हरः। हृञ् प्रापणस्वीकारस्तेयनाशनेषु–असुन्। हरो हरतेर्ज्योतिर्हर उच्यते–निरु० ४।१९। हरति तमः। नाशनशक्तिः। हर। नाशय ॥
@@ -163,14 +175,6 @@ Flame thou, O Agni, with that flame of thine against the man who hates us, whom 
 अ᳓ग्ने य᳓त्तेऽर्चि᳓स्ते᳓न तं᳓ प्र᳓त्यर्च यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अग्ने॒ यत्ते॒ऽर्चिस्तेन॒ तं प्रत्य॑र्च॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
 <details open><summary><h3>०३ अग्ने यत्तेऽर्चिस्तेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -181,14 +185,22 @@ hates us, whom we hate.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Shine out, O Agni, with that sheen of thine against the man who hates us, whom we hate.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॒ यत्ते॒ऽर्चिस्तेन॒ तं प्रत्य॑र्च॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। यत्। ते॒। अ॒र्चिः। तेन॑। तम्। प्रति॑। अ॒र्च॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.३। 
+अग्ने॑। यत्। ते॒। अ॒र्चिः। तेन॑। तम्। प्रति॑। अ॒र्च॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -196,18 +208,22 @@ Shine out, O Agni, with that sheen of thine against the man who hates us, whom w
 - एकावसानानिचृद्विषमात्रिपाद्गायत्री
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुप्रयोग के त्याग के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे अग्नि (यत्) जो (ते) तेरी (अर्चिः) दीपनशक्ति है, (तेन) उससे (तम् प्रति) उस [दोष] पर (अर्च) प्रदीप्त हो, (यः) जो (अस्मान्) हमसे..... मन्त्र १ ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १ के समान ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३–अर्चिः। अर्चिशुचिहुसृपिछादिछर्दिभ्य इसिः। उ० २।१०८। इति अर्च पूजाप्रकाशयोः–इसि। ज्वलतो नाम–निघ० १।१७। दीपनम्। ज्वाला। अर्च। ज्वलितो भव। दीप्यस्व ॥
@@ -222,14 +238,6 @@ Shine out, O Agni, with that sheen of thine against the man who hates us, whom w
 अ᳓ग्ने य᳓त्ते शोचि᳓स्ते᳓न तं᳓ प्र᳓ति शोच यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/04_agne_yatte.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अग्ने॒ यत्ते॑ शो॒चिस्तेन॒ तं प्रति॑ शोच॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/04_agne_yatte.md">
 <details open><summary><h3>०४ अग्ने यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -240,14 +248,22 @@ who hates us, whom we hate.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom we hate.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॒ यत्ते॑ शो॒चिस्तेन॒ तं प्रति॑ शोच॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। यत्। ते॒। शो॒चिः। तेन॑। तम्। प्रति॑। शो॒च॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.४। 
+अग्ने॑। यत्। ते॒। शो॒चिः। तेन॑। तम्। प्रति॑। शो॒च॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -255,18 +271,22 @@ Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom 
 - एकावसानानिचृद्विषमात्रिपाद्गायत्री
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुप्रयोग के त्याग के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे अग्नि (यत्) जो (ते) तेरी (शोचिः) शोधनशक्ति है, (तेन) उससे (तम्) उस [दोष] को (प्रति शोच) शुद्ध कर दे, (यः) जो (अस्मान्) हमसे..... मन्त्र १ ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १ के समान ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४–शोचिः। अर्चिशुचि०। उ० २।१०८। इति ईशुचिर् शौचविशरणयोः–इसि। ज्वलतो नाम–निघ० १।१७। शुच्यत्यनेनेति। शोधनसामर्थ्यम्। शोच। शोचय, शोधय ॥
@@ -279,14 +299,6 @@ Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ᳓ग्ने य᳓त्ते ते᳓जस्ते᳓न त᳓मतेज᳓सं कृणु यो᳙ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/05_agne_yatte.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अग्ने॒ यत्ते॒ तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणु॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/05_agne_yatte.md">
@@ -305,14 +317,22 @@ The meter is alike in the four hymns 19-22; the Anukr. restores the *a*
 of *asmān,* and in vss. 1-4 scans 6 + 7 + 10 = 23, and, in vs. 5, 6 + 9  
 + 10 = 25.
 </details>
+
 <details><summary>Griffith</summary>
 
 O Agni, with the splendour that is thine darken the man who hates us, whom we hate.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॒ यत्ते॒ तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणु॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। यत्। ते॒। तेजः॑। तेन॑। तम्। अ॒ते॒जस॑म्। कृ॒णु॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.५। 
+अग्ने॑। यत्। ते॒। तेजः॑। तेन॑। तम्। अ॒ते॒जस॑म्। कृ॒णु॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -320,18 +340,22 @@ O Agni, with the splendour that is thine darken the man who hates us, whom we ha
 - एकावसानानिचृद्विषमात्रिपाद्गायत्री
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुप्रयोग के त्याग के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे अग्नि [अग्नि पदार्थ] (यत्) जो (ते) तेरा (तेजः) तेज है, (तेन) उससे (तम्) उस [दोष] को (अतेजसम्) निस्तेज (कृणु) कर दे, (यः) जो (अस्मान्) हमसे (द्वेष्टि) अप्रिय करता है, [अथवा] (यम्) जिससे (वयम्) हम (द्विष्मः) अप्रिय करते हैं ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १ के समान ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५–तेजः। अ० १।३५।३। तिज निशाने, तेज निशानपालनयोः–असुन्। कान्तिः। अतेजसम्। तिज, तेज–असुन्। नञ्समासः। कान्तिरहितम्। निस्तेजस्कम्। कृणु। कुरु ॥

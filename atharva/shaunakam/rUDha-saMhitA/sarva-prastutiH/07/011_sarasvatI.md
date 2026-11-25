@@ -8,15 +8,18 @@ title = "०११ सरस्वती"
 
 11 (12). Against injury to the grain by lightning.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 सरस्वती।  
 १ शौनकः। सरस्वती। त्रिष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Cāunaka.—sārasvatam. trāiṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -27,6 +30,7 @@ Like the preceding hymn, not found in Pāipp.; also not in any other known text.
 #### Translations
 Translated: Ludwig, p. 463; Grill, 66, 178; Henry, 5, 54; Griffith, i. 333; Bloomfield, 142, 543.
 </details>
+
 <details><summary>Griffith</summary>
 
 A prayer to protect corn from lightning and drought
@@ -40,15 +44,6 @@ A prayer to protect corn from lightning and drought
 
 य᳓स्ते पृथु᳓ स्तनयित्नु᳓र्य᳓ ऋष्वो᳓ दै᳓वः केतु᳓र्वि᳓श्वमाभू᳓षतीद᳓म्।  
 मा᳓ नो वधीर्विद्यु᳓ता देव सस्यं᳓ मो᳓त᳓ वधी रश्मि᳓भिः सू᳓र्यस्य ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/011_sarasvatI/01_yaste_pRthu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यस्ते॑ पृ॒थु स्त॑नयि॒त्नुर्य ऋ॒ष्वो दैवः॑ के॒तुर्विश्व॑मा॒भूष॑ती॒दम्।  
-मा नो॑ वधीर्वि॒द्युता॑ देव स॒स्यं मोत व॑धी र॒श्मिभिः॒ सूर्य॑स्य ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/011_sarasvatI/01_yaste_pRthu.md">
@@ -66,14 +61,23 @@ Sundry of the mss. (including our Bp.²P.M.E.O.) read *riṣvás* in **a**
 bhūṣati* as = *vyāpnoti*. Some mss., as usual, retain the *ḥ* of  
 *pṛthúḥ* before *stan-*.
 </details>
+
 <details><summary>Griffith</summary>
 
 That far-spread thunder, sent from thee, which cometh on all this world, a high celestial signal Strike not, O God, our growing corn with lightning, not kill it with the burning rays of Surya.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्ते॑ पृ॒थु स्त॑नयि॒त्नुर्य ऋ॒ष्वो दैवः॑ के॒तुर्विश्व॑मा॒भूष॑ती॒दम्।  
+मा नो॑ वधीर्वि॒द्युता॑ देव स॒स्यं मोत व॑धी र॒श्मिभिः॒ सूर्य॑स्य ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। ते॒। पृ॒थुः। स्त॒न॒यि॒त्नुः। यः। ऋ॒ष्वः। दैवः॑। के॒तुः। विश्व॑म्। आ॒ऽभूष॑ति। इ॒दम्। मा। नः॒। व॒धीः॒। वि॒ऽद्युता॑। दे॒वः॒। स॒स्यम्। मा। उ॒त। व॒धीः॒। र॒श्मिऽभिः॑। सूर्य॑स्य। १२.१। 
+यः। ते॒। पृ॒थुः। स्त॒न॒यि॒त्नुः। यः। ऋ॒ष्वः। दैवः॑। के॒तुः। विश्व॑म्। आ॒ऽभूष॑ति। इ॒दम्। मा। नः॒। व॒धीः॒। वि॒ऽद्युता॑। दे॒वः॒। स॒स्यम्। मा। उ॒त। व॒धीः॒। र॒श्मिऽभिः॑। सूर्य॑स्य। १२.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सरस्वती
@@ -81,18 +85,22 @@ That far-spread thunder, sent from thee, which cometh on all this world, a high 
 - त्रिष्टुप्
 - राष्ट्रसभा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अन्न की रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देव) हे जलदाता मेघ ! (यः) जो (ते) तेरा (पृथुः) विस्तीर्ण और (यः) जो (ऋष्वः) इधर-उधर चलनेवाला वा बड़ा, (दैवः) आकाश में रहनेवाला, (केतुः) जतानेवाला झण्डा रूप (स्तनयित्नुः) गर्जन (इदम् विश्वम्) इस सब स्थान में (आभूषति) व्यापता है। (नः) हमारे (सस्यम्) धान्य को (विद्युता) चमचमाती बिजुली से (मा वधीः) मत नाश कर, और (सूर्यस्य) सूर्य की (रश्मिभिः) किरणों से (उत) भी (मा वधीः) मत सुखा ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य अतिवृष्टि, अनावृष्टि आदि दैवी विपत्तियों का विचार रख कर पहिले से अन्न आदि के संचय से रक्षा का उपाय कर लेवें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यः) (ते) तव (पृथुः) विस्तीर्णः (स्तनयित्नुः) अ० ४।१५।११। मेघध्वनिः) (ऋष्वः) अशूप्रुषिलटि। उ० १।१५१। ऋष गतौ दर्शने च-क्वन्। इतस्ततो गन्ता। महान्-निघ० ३।३। (दैवः) दिव्-अण्। दिवि आकाशे भवः (केतुः) अ० ६।१०३। ज्ञापकः। ध्वजरूपः (विश्वम्) सर्वं स्थानम् (आभूषति) भूष अलङ्कारे। व्याप्नोति (नः) अस्माकम् (मा वधीः) मा हिंसीः (विद्युता) अशन्या (देव) हे जलप्रद मेघ (सस्यम्) माछाशसिभ्यो यः। उ० ४।१०९। इति षस स्वप्ने-य। धान्यम् (उत) अपि (मा वधीः) मा शोषय (रश्मिभिः) किरणैः (सूर्यस्य) सवितुः ॥

@@ -8,15 +8,18 @@ title = "०६८ वपनम्"
 
 68. To accompany the act of shaving.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 वपनम्।  
 १-३ अथर्वा। १ सविता, आदित्याः, रुद्राः, वसवः, २ अदितिः, आपः, प्रजापतिः, ३ सविता, सोमः, वरुणः। १ पुरोविराडतिशाक्वरगर्भा चतुष्पदा जगती, २ अनुष्टुप्, ३ अतिजगतीगर्भा त्रिष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (?).—mantroktadevatyam. 1. purovirāḍ atiśakvarīgarbhā 4-p. jagatī; 2. anuṣṭubh; 3. atijagatīgarbhā triṣṭubh.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also in Pāipp. xix. (in the verse-order 1, 3, 2), and in part in various 
 #### Translations
 Translated: Ludwig, p. 430; Griffith, i. 282.
 </details>
+
 <details><summary>Griffith</summary>
 
 A charm to accompany the shaving of the beard
@@ -39,15 +43,6 @@ A charm to accompany the shaving of the beard
 
 आ᳓य᳓मगन्त्सविता᳓ क्षुरे᳓णोष्णे᳓न वाय उदके᳓ने᳓हि।  
 आ᳙दित्या᳓ रुद्रा᳓ व᳓सव उन्दन्तु स᳓चेतसः सो᳓मस्य रा᳓ज्ञो वपत प्र᳓चेतसः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आयम॑गन्त्सवि॒ता क्षु॒रेणो॒ष्णेन॑ वाय उद॒केनेहि॑।  
-आ॑दि॒त्या रु॒द्रा वस॑व उन्दन्तु॒ सचे॑तसः॒ सोम॑स्य॒ राज्ञो॑ वपत॒ प्रचे॑तसः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
@@ -70,14 +65,23 @@ The combination *vāya ud-* is quoted under Prāt. ii. 21, 24; iii. 35;
 *-kené” ’ hi*, under iii. 38, 66. ⌊Hillebrandt, *Ved. Mythol.*, i. 472,  
 may be consulted.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Savitar hath come hither with the razor: come thou, O Vayu, with the heated water. One-minded let Adityas, Rudras, Vasus moisten the hair: shave ye who know King Soma.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आयम॑गन्त्सवि॒ता क्षु॒रेणो॒ष्णेन॑ वाय उद॒केनेहि॑।  
+आ॑दि॒त्या रु॒द्रा वस॑व उन्दन्तु॒ सचे॑तसः॒ सोम॑स्य॒ राज्ञो॑ वपत॒ प्रचे॑तसः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। अ॒यम्। अ॒ग॒न्। स॒वि॒ता। क्षु॒रेण॑। उ॒ष्णेन॑। वा॒यो॒ इति॑। उ॒द॒केन॑। आ। इ॒हि॒। आ॒दि॒त्याः। रु॒द्राः। वस॑वः। उ॒न्द॒न्तु॒। सऽचे॑तसः। सोम॑स्य। राज्ञः॑। व॒प॒त॒। प्रऽचे॑तसः। ६८.१। 
+आ। अ॒यम्। अ॒ग॒न्। स॒वि॒ता। क्षु॒रेण॑। उ॒ष्णेन॑। वा॒यो॒ इति॑। उ॒द॒केन॑। आ। इ॒हि॒। आ॒दि॒त्याः। रु॒द्राः। वस॑वः। उ॒न्द॒न्तु॒। सऽचे॑तसः। सोम॑स्य। राज्ञः॑। व॒प॒त॒। प्रऽचे॑तसः। ६८.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सविता, आदित्यगणः, रुद्रगणः, वसुगणः
@@ -85,18 +89,22 @@ Savitar hath come hither with the razor: come thou, O Vayu, with the heated wate
 - चतुष्पदा पुरोविराडतिशाक्वरगर्भा जगती
 - वपन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मुण्डन संस्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अयम्) यह (सविता) काम का चलानेवाला फुरतीला नापित (क्षुरेण) छुरा सहित (आ अगन्) आया है, (वायो) हे शीघ्रगामी पुरुष ! (उष्णेन) तप्त [तत्ते] (उदकेन) जलसहित (आ इहि) तू आ। (आदित्याः) प्रकाशमान, (रुद्राः) ज्ञानवान्, (वसवः) श्रेष्ठ पुरुष आप (सचेतसः) एकचित्त होकर [बालक के केश] (उन्दन्तु) भिगोवें, (प्रचेतसः) प्रकृष्ट ज्ञानवाले पुरुषो ! तुम (सोमस्य) शान्तस्वभाव (राज्ञः) तेजस्वी बालक का (वपत=वपयत) मुण्डन कराओ ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ प्रवीण शुद्ध नापित को बुलाकर गुनगुने जल से मुण्डन करावें और सब बड़े-बड़े विद्वान् पुरुष उत्सव में आकर यथोचित सम्मति देवें ॥१॥   इस सूक्त के तीनों मन्त्र श्रीमद् दयानन्दकृत संस्कारविधि चूडाकर्मसंस्कार में लिखे हैं ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(अयम्) दृश्यमानः (आ अगन्) आगमत्। आगतवान् (सविता) कर्मप्रेरकः स्फूर्तिशीलो नापितः (क्षुरेण) ऋज्रेन्द्राग्र०। उ० २।२८। इति क्षुर विलेखने−रन्, रेफलोपः। लोमच्छेदकेनास्त्रेण (उष्णेन) तप्तेन (वायो) हे शीघ्रगामिन् पुरुष (उदकेन) जलेन (आ इहि) आगच्छ (आदित्याः) अ० १।९।१। प्रकाशमाना विद्वांसः (रुद्राः) अ० २।२७।६। ज्ञानदातारः (वसवः) श्रेष्ठा जनाः (उन्दन्तु) आर्द्रीकुर्वन्तु। माणवकस्य शिर इति शेषः (सचेतसः) समानज्ञानाः (सोमस्य) शान्तस्वभावस्य (राज्ञः) तेजस्विनो माणवकस्य (वपत) वपयत। मुण्डनं कारयत (प्रचेतसः) प्रकृष्टज्ञानाः पुरुषाः ॥
@@ -110,15 +118,6 @@ Savitar hath come hither with the razor: come thou, O Vayu, with the heated wate
 
 अ᳓दितिः श्म᳓श्रु वपत्वा᳓प उन्दन्तु व᳓र्चसा।  
 चि᳓कित्सतु प्रजा᳓पतिर्दीर्घायुत्वा᳓य च᳓क्षसे ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/02_aditiH_shmashru.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अदि॑तिः॒ श्मश्रु॑ वप॒त्वाप॑ उन्दन्तु॒ वर्च॑सा।  
-चिकि॑त्सतु प्र॒जाप॑तिर्दीर्घायु॒त्वाय॒ चक्ष॑से ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/02_aditiH_shmashru.md">
@@ -136,14 +135,23 @@ suvaptave*. AGS. (i. 17. 7) has **a, b**, reading *keśān* for *śmaśru*,
 and *varcase* for *-sā*; PGS. (ii. 1. 6) has *adite keśān vapa*,  
 parallel to our **a**.
 </details>
+
 <details><summary>Griffith</summary>
 
 Let Aditi shave the beard, and let the Waters bathe it with their strength: Prajapati restore his health for sight and days of lengthened life!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अदि॑तिः॒ श्मश्रु॑ वप॒त्वाप॑ उन्दन्तु॒ वर्च॑सा।  
+चिकि॑त्सतु प्र॒जाप॑तिर्दीर्घायु॒त्वाय॒ चक्ष॑से ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अदि॑तिः। श्मश्रु॑। व॒प॒तु॒। आपः॑। उ॒न्द॒न्तु॒। वर्च॑सा। चिकि॑त्सतु। प्र॒जाऽप॑तिः। दी॒र्घा॒यु॒ऽत्वाय॑। चक्ष॑से। ६८.२। 
+अदि॑तिः। श्मश्रु॑। व॒प॒तु॒। आपः॑। उ॒न्द॒न्तु॒। वर्च॑सा। चिकि॑त्सतु। प्र॒जाऽप॑तिः। दी॒र्घा॒यु॒ऽत्वाय॑। चक्ष॑से। ६८.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अदितिः, आपः, प्रजापतिः
@@ -151,18 +159,22 @@ Let Aditi shave the beard, and let the Waters bathe it with their strength: Praj
 - अनुष्टुप्
 - वपन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मुण्डन संस्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अदितिः) अखण्डित छुरा (श्मश्रु) केश (वपतु) काटे (आपः) जल (वर्चसा) अपनी शोभा से (उन्दन्तु) सींचे। (प्रजापतिः) सन्तान का पालन करनेवाला पिता (दीर्घायुत्वाय) दीर्घ जीवन के लिये और (चक्षसे) दृष्टि बढ़ाने के लिये (चिकित्सतु) [बालक के] रोग की निवृत्ति करे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मुण्डन होने के पश्चात् स्नान करा के यथोचित ओषधि खान-पान आदि द्वारा बालक को प्रसन्न करें। इस संस्कार से बालक की आयु और दृष्टि बढ़ती है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(अदितिः) अ० २।२८।४। दो अवखण्डने−क्तिन्। अखण्डितस्तीक्ष्णधारश्छुरः (श्मश्रु) अ० ५।१९।१४। श्म शरीरम् श्मश्रु लोम, श्मनि श्रितं भवति। निरु० ३।५। शिरः केशम् (वपतु) मुण्डतु (आपः) जलानि (उन्दन्तु) सिञ्चन्तु स्नानेन (वर्चसा) तेजसा (चिकित्सतु) कित रोगापनयने। भिषज्यतु बालकस्य रोगनिवृत्तिं करोतु (प्रजापतिः) सन्तानपालकः पिता (दीर्घायुत्वाय) चिरकालजीवनाय (चक्षसे) अ० १।५।१। दृष्टिवर्धनाय ॥
@@ -176,15 +188,6 @@ Let Aditi shave the beard, and let the Waters bathe it with their strength: Praj
 
 ये᳓ना᳓वपत्सविता᳓ क्षुरे᳓ण सो᳓मस्य रा᳓ज्ञो व᳓रुणस्य विद्वा᳓न्।  
 ते᳓न ब्रह्माणो वपतेद᳓मस्य᳓ गो᳓मान᳓श्ववानय᳓मस्तु प्रजा᳓वान् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-येनाव॑पत्सवि॒ता क्षु॒रेण॒ सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान्।  
-तेन॑ ब्रह्माणो वपते॒दम॒स्य गोमा॒नश्व॑वान॒यम॑स्तु प्र॒जावा॑न् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">
@@ -211,14 +214,23 @@ jīvanāya dīrghāyuṣṭvāya varcase*. The verse (10 + 11: 11 + 12 = 44)
 contains no *atijagatī* element. ⌊Ppp. combines *asyā ’śyāmodīyur;* and  
 R. notes that **c, d** appears in Ppp. ii.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 The razor used by Savitar, for shaving, who knoweth Varuna and royal Soma, Even with this shave ye this man, O Brahman. Let him be rich in horses, kine, and children.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+येनाव॑पत्सवि॒ता क्षु॒रेण॒ सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान्।  
+तेन॑ ब्रह्माणो वपते॒दम॒स्य गोमा॒नश्व॑वान॒यम॑स्तु प्र॒जावा॑न् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-येन॑। अव॑पत्। स॒वि॒ता। क्षु॒रेण॑। सोम॑स्य। राज्ञः॑। वरु॑णस्य। वि॒द्वान्। तेन॑। ब्र॒ह्मा॒णः॒। व॒प॒त॒। इ॒दम्। अ॒स्य। गोऽमा॑न्। अश्व॑ऽवान्। अ॒यम्। अ॒स्तु॒। प्र॒जाऽवा॑न्। ६८.३। 
+येन॑। अव॑पत्। स॒वि॒ता। क्षु॒रेण॑। सोम॑स्य। राज्ञः॑। वरु॑णस्य। वि॒द्वान्। तेन॑। ब्र॒ह्मा॒णः॒। व॒प॒त॒। इ॒दम्। अ॒स्य। गोऽमा॑न्। अश्व॑ऽवान्। अ॒यम्। अ॒स्तु॒। प्र॒जाऽवा॑न्। ६८.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सविता, सोमः, वरुणः
@@ -226,18 +238,22 @@ The razor used by Savitar, for shaving, who knoweth Varuna and royal Soma, Even 
 - अतिजगतीगर्भा त्रिष्टुप्
 - वपन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मुण्डन संस्कार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (येन) जिस विधि के साथ (विद्वान्) अपना कर्म जाननेवाले (सविता) फुरतीले नापित ने (क्षुरेण) छुरा से (सोमस्य) शान्तस्वभाव, (राज्ञः) तेजस्वी, (वरुणस्य) उत्तम स्वभाववाले बालक का (अवपत्) मुण्डन किया है। (तेन) उसी विधि से (ब्रह्माणः) हे ब्राह्मणो ! (अस्य) इस बालक का (इदम्) यह शिर (वपत) मुण्डन कराओ, (अयम्) यह बालक (गोमान्) उत्तम गौओंवाला, (अश्ववान्) उत्तम घोड़ोंवाला और (प्रजावान्) उत्तम सन्तानोंवाला (अस्तु) होवे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् लोग बालकों का मुण्डनसंस्कार कराके उन्हें प्रतापी, धनी और बलवान् बनावें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(येन) यादृशेन विधिना (अवपत्) मुण्डनं कृतवान् (सविता) म० १। स्फूर्तिशीलः (क्षुरेण) अस्त्रेण (सोमस्य) शान्तस्वभावस्य (राज्ञः) तेजस्विनः (वरुणस्य) श्रेष्ठबालकस्य (विद्वान्) स्वकर्मज्ञाता नापितः (तेन) तादृशेन कर्मणा (ब्रह्माणः) हे वेदज्ञातारो ब्राह्मणाः (वपत) मुण्डनं कारयत (इदम्) शिरः (अस्य) माणवकस्य (गोमान्) प्रशस्तगोयुक्तः (अश्ववान्) बहुमूल्यतुरङ्गोपेतः (अयम्) माणवकः (अस्तु) (प्रजावान्) प्रशस्तसन्तानयुक्त ॥

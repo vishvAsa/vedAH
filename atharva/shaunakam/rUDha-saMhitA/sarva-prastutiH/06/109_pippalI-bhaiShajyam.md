@@ -8,15 +8,18 @@ title = "१०९ पिप्पली-भैषज्यम्"
 
 109. For healing: with pippalī́.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 पिप्पली-भैषज्यम्।  
 १-३ अथर्वा। पिप्पली-भैषज्यं, आयुः। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—mantroktapippalīdevatyam; bhāiṣajyam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -35,15 +38,6 @@ Translated: Ludwig, p. 509; Zimmer, p. 389; Griffith, i. 305; Bloomfield, 21, 51
 
 पि᳙प्पली᳓ क्षिप्तभेषज्यु᳙ता᳓तिविद्धभेषजी᳓।  
 तां᳓ देवाः᳓ स᳓मकल्पयन्नियं᳓ जी᳓वितवा᳓ अ᳓लम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पि॑प्प॒ली क्षि॑प्तभेष॒ज्यु॒३॒॑ताति॑विद्धभेष॒जी।  
-तां दे॒वाः सम॑कल्पयन्नि॒यं जीवि॑त॒वा अल॑म् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
@@ -69,14 +63,23 @@ two alternatives both for *kṣipta-* and for *atividdha-*: for the former
 *tiraskṛta* (of other remedies) and *vātarogaviśeṣa*, and so on.  
 \*⌊Intending -*tavāi iti*?⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods prepared and fashioned it. This hath sufficient power for life.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पि॑प्प॒ली क्षि॑प्तभेष॒ज्यु॒३॒॑ताति॑विद्धभेष॒जी।  
+तां दे॒वाः सम॑कल्पयन्नि॒यं जीवि॑त॒वा अल॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पि॒प्प॒ली। क्षि॒प्त॒ऽभे॒ष॒जी। उ॒त। अ॒ति॒वि॒ध्द॒ऽभे॒ष॒जी। ताम्। दे॒वाः। सम्। अ॒क॒ल्प॒य॒न्। इ॒यम्। जीवि॑त॒वै। अल॑म्। १०९.१। 
+पि॒प्प॒ली। क्षि॒प्त॒ऽभे॒ष॒जी। उ॒त। अ॒ति॒वि॒ध्द॒ऽभे॒ष॒जी। ताम्। दे॒वाः। सम्। अ॒क॒ल्प॒य॒न्। इ॒यम्। जीवि॑त॒वै। अल॑म्। १०९.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पिप्पली
@@ -84,18 +87,22 @@ The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods
 - अनुष्टुप्
 - पिप्पलीभैषज्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग के नाश के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पिप्पली) पालन करनेवाली, पिप्पली [ओषधिविशेष] (क्षिप्तभेषजी) विक्षिप्त, उन्मत्त की ओषधि, (उत) और (अतिविद्धभेषजी) बड़े घाववाले की ओषधी है। (देवाः) विद्वानों ने (ताम्) उसको (सम् अकल्पयन्) अच्छे प्रकार माना है कि (इयम्) यह (जीवितवै) जिलाने के लिये (अलम्) समर्थ है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस प्रकार पीपली, ओषधिविशेष के सेवन से अनेक रोग की निवृत्ति होती है, वैसे ही मनुष्य कर्मों के फलभोग से सुख पावें ॥१॥   पिप्पली के गुण ज्वर, कुष्ठ, प्रमेह, गुल्म, अर्श, प्लीह, शूल, आम आदि रोगों का नाश करना है−शब्दकल्पद्रुम ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(पिप्पली) कलस्तृपश्च। उ० १।१०४। इति पा पालने, वा पॄ पालनपूरणयोः−कल। पृषोदरादिरूपम्, ङीप्। पालयित्री पूरयित्री वा। ओषधिविशेषा। अस्या गुणा ज्वरकुष्ठादिनाशकाः (क्षिप्तभेषजी) विक्षिप्तस्योन्मत्तस्य रोगनिवर्तिका (उत) अपिच (अतिविद्वभेषजी) व्यध ताडने−क्त। अतिक्षतस्य पुरुषस्य व्याधिनिवर्तिका (ताम्) (देवाः) वैद्याः (सम्) सम्यक् (अकल्पयन्) कल्पितवन्तः (इयम्) पिप्पली (जीवितवै) जीव प्राणधारणे णिचि तुमर्थे तवै प्रत्ययः। जीवयितुम् (अलम्) समर्था। पर्य्याप्ता ॥
@@ -109,15 +116,6 @@ The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods
 
 पि᳙प्पल्यः᳙ स᳓मवदन्तायती᳓र्ज᳓ननाद᳓धि।  
 यं᳓ जीव᳓मश्न᳓वामहै न᳓ स᳓ रिष्याति पू᳓रुषः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पि॑प्प॒ल्यः१॒॑ सम॑वदन्ताय॒तीर्जन॑ना॒दधि॑।  
-यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
@@ -141,14 +139,23 @@ by *hastipippalyādijātibhedabhinnāḥ sarvāḥ pippalyaḥ;* and their "birt
 to have been contemporaneous with the churning of the *amṛta*. ⌊Ppp.  
 ends with *pāuruṣaḥ*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 When from their origin they came, the Berries spake among themselves: The man whom we shall find alive shall never suffer injury.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पि॑प्प॒ल्यः१॒॑ सम॑वदन्ताय॒तीर्जन॑ना॒दधि॑।  
+यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पि॒प्प॒ल्यः᳡। सम्। अ॒व॒द॒न्त॒। आ॒ऽय॒तीः। जन॑नात्। अधि॑। यम्। जी॒वम्। अ॒श्नवा॑महै। न। सः। रि॒ष्या॒ति॒। पुरु॑षः। १०९.२। 
+पि॒प्प॒ल्यः᳡। सम्। अ॒व॒द॒न्त॒। आ॒ऽय॒तीः। जन॑नात्। अधि॑। यम्। जी॒वम्। अ॒श्नवा॑महै। न। सः। रि॒ष्या॒ति॒। पुरु॑षः। १०९.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भैषज्यम्
@@ -156,18 +163,22 @@ When from their origin they came, the Berries spake among themselves: The man wh
 - अनुष्टुप्
 - पिप्पलीभैषज्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग के नाश के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पिप्पल्यः) पीपली ओषधियों ने (जननात् अधि) जन्म से ही (आयतीः) आता हुयी (सम्) आपस में (अवदन्त) बातचीत की (यम्) जिस (जीवम्) जीव को (अश्नवामहै) हम प्राप्त होवें, (सः पुरुषः) वह पुरुष (न) नहीं (रिष्याति) नष्ट होवे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे सद्वैद्य परस्पर संवाद से ओषधियों की उत्पत्तिस्थान और काल का विचार करके उनके प्रयोग से रोगियों को नीरोग करते हैं, वैसे ही विद्वान् लोग आपस में वार्तालाप द्वारा दोषों को हटाकर सुखी होते हैं ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(पिप्पल्यः) म० १। (ओषधयः) (सम् अवदन्त) व्यक्तवाचां समुच्चारणे। पा० १।३।४८। इत्यात्मनेपदम्। परस्परं सम्वादं कृतवन्त्यः (आयतीः) आयत्यः। आगच्छन्त्यः (जननात्) जन्मनः प्रभृति (अधि) अधिकम् (यम्) (जीवम्) प्राणिनम् (अश्नवामहै) वयं प्राप्नवाम (न) निषेधे (सः) (रिष्याति) रिष हिंसायाम्−लेट्। विनश्येत् (पुरुष) मनुष्यः ॥
@@ -183,15 +194,6 @@ When from their origin they came, the Berries spake among themselves: The man wh
 वाती᳓कृतस्य भेषजी᳓म᳓थो क्षिप्त᳓स्य भेषजी᳓म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-असु॑रास्त्वा॒ न्य᳡खनन्दे॒वास्त्वोद॑वप॒न्पुनः॑।  
-वा॒तीकृ॑तस्य भेष॒जीमथो॑ क्षि॒प्तस्य॑ भेष॒जीम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">
 <details open><summary><h3>०३ असुरास्त्वा न्यखनन्देवास्त्वोदवपन्पुनः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -204,14 +206,23 @@ When from their origin they came, the Berries spake among themselves: The man wh
 The comm. understands *vātikṛta* as *vātarogāviṣṭaśarīra*. ⌊Cf. vi. 44.  
 3.⌋ ⌊In Ppp., **d** is wanting, perhaps by accident.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Asuras buried thee in earth: the Gods again uplifted thee. Healer of sickness caused by wounds and healer of the missile's rent.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+असु॑रास्त्वा॒ न्य᳡खनन्दे॒वास्त्वोद॑वप॒न्पुनः॑।  
+वा॒तीकृ॑तस्य भेष॒जीमथो॑ क्षि॒प्तस्य॑ भेष॒जीम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-असु॑राः। त्वा॒। नि। अ॒ख॒न॒न्। दे॒वाः। त्वा॒। उत्। अ॒व॒प॒न्। पुनः॑। वा॒तीऽकृ॑तस्य। भे॒ष॒जीम्। अथो॒ इति॑। क्षि॒प्तस्‍य॑। भे॒ष॒जीम्। १०९.३। 
+असु॑राः। त्वा॒। नि। अ॒ख॒न॒न्। दे॒वाः। त्वा॒। उत्। अ॒व॒प॒न्। पुनः॑। वा॒तीऽकृ॑तस्य। भे॒ष॒जीम्। अथो॒ इति॑। क्षि॒प्तस्‍य॑। भे॒ष॒जीम्। १०९.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आयुः
@@ -219,18 +230,22 @@ Asuras buried thee in earth: the Gods again uplifted thee. Healer of sickness ca
 - अनुष्टुप्
 - पिप्पलीभैषज्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग के नाश के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे पिप्पली] (असुराः) बुद्धिमान् पुरुषों ने (वातीकृतस्य) गठिया के रोगी की (भेषजीम्) ओषधी, (अथो) और (क्षिप्तस्य) उन्मत्त की (भेषजीम्) ओषधि (त्वा) तुझको (नि) निरन्तर (अखनन्) खोदा है और (देवाः) व्यवहारकुशल पुरुषों ने (त्वा) तुझको (पुनः) फिर (उत्) उत्तम रीति से (अवपन्) बोया है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे सद्वैद्य परीक्षा करके पिप्पली आदि ओषधियों को खोदते और बाते और काम में लाते हैं, वैसे ही विद्वान् पुरुष विद्या का सुप्रयोग करते हैं ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(असुराः) प्रज्ञावन्तः (त्वा) पिप्पलीम् (नि) निरन्तरम् (अखनन्) खननेन प्राप्तवन्तः (देवाः) व्यवहारकुशलाः (उत्) उत्कर्षेण (अवपन्) टुवप बीजतन्तुसन्ताने। रोपितवन्तः (वातीकृतस्य) वातरोगग्रस्तस्य पुरुषस्य (भेषजीम्) भयनिवर्तिकाम् (अथो) अपि च (क्षिप्तस्य) विक्षिप्तस्य (भेषजीम्) ओषधिम् ॥

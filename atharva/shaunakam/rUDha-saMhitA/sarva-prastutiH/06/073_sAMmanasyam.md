@@ -8,15 +8,18 @@ title = "०७३ सांमनस्यम्"
 
 73. To assure supremacy.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 सांमनस्यम्।  
 १-३ अथर्वा। सांमनस्यम्, वरुणसोमाग्निबृहस्पतिवसवः, ३ वास्तोष्पतिः, १,३ भुरिक्, २ त्रिष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—sāmmanasyam. mantroktanānādevatyam. trāiṣṭubham: 1, 3. bhurij.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also in Pāipp. xix. (with the verse-order 1, 3, 2). This hymn with iii. 1
 #### Translations
 Translated: Griffith, i. 284; Bloomfield, 135, 494.
 </details>
+
 <details><summary>Griffith</summary>
 
 A King's charm to conciliate his discontented kinsmen
@@ -39,15 +43,6 @@ A King's charm to conciliate his discontented kinsmen
 
 ए᳓ह᳓ यातु व᳓रुणः सो᳓मो अग्नि᳓र्बृ᳓हस्प᳓तिर्व᳓सुभिरे᳓ह᳓ यातु।  
 अस्य᳓ श्रि᳓यमुपसं᳓यात स᳓र्व उग्र᳓स्य चेत्तुः᳓ सं᳓मनसः सजाताः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/073_sAMmanasyam/01_eha_yAtu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-एह या॑तु॒ वरु॑णः॒ सोमो॑ अ॒ग्निर्बृह॒स्पति॒र्वसु॑भि॒रेह या॑तु।  
-अ॒स्य श्रिय॑मुप॒संया॑त॒ सर्व॑ उ॒ग्रस्य॑ चे॒त्तुः संम॑नसः सजाताः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/01_eha_yAtu.md">
@@ -66,14 +61,23 @@ the distinction of what is to be done and what is not to be done"; in
 this word *cit* seems to take the value of *ci* or *cāy:* 'one who notes  
 and visits or requites.'
 </details>
+
 <details><summary>Griffith</summary>
 
 Let Varuna come hither, Soma, Agni, Brihaspati come hither with the Vasus! Unanimous, ye kinsmen, come united, come to the glory of this mighty guardian.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+एह या॑तु॒ वरु॑णः॒ सोमो॑ अ॒ग्निर्बृह॒स्पति॒र्वसु॑भि॒रेह या॑तु।  
+अ॒स्य श्रिय॑मुप॒संया॑त॒ सर्व॑ उ॒ग्रस्य॑ चे॒त्तुः संम॑नसः सजाताः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। इ॒ह। या॒तु॒। वरु॑णः। सोमः॑। अ॒ग्निः। बृह॒स्पतिः॑। असु॑ऽभिः। आ। इ॒ह। या॒तु॒। अ॒स्य। श्रिय॑म्। उ॒प॒ऽसंया॑त। सर्वे॑। उ॒ग्रस्य॑। चे॒त्तुः। सम्ऽम॑नसः। स॒ऽजा॒ताः॒। ७३.१। 
+आ। इ॒ह। या॒तु॒। वरु॑णः। सोमः॑। अ॒ग्निः। बृह॒स्पतिः॑। असु॑ऽभिः। आ। इ॒ह। या॒तु॒। अ॒स्य। श्रिय॑म्। उ॒प॒ऽसंया॑त। सर्वे॑। उ॒ग्रस्य॑। चे॒त्तुः। सम्ऽम॑नसः। स॒ऽजा॒ताः॒। ७३.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सामंनस्यम्, वरुणः, सोमः, अग्निः, बृहस्पतिः, वसुगणः
@@ -81,18 +85,22 @@ Let Varuna come hither, Soma, Agni, Brihaspati come hither with the Vasus! Unani
 - भुरिगनुष्टुप्
 - सांमनस्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वानों से समागम का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वरुणः) सूर्य्यसमान प्रतापी और (सोमः) चन्द्रसमान शान्तस्वभाव पुरुष (इह) यहाँ पर (आ यातु) आवे और (अग्निः) अग्निसमान तेजस्वी (बृहस्पतिः) बड़ी वेदवाणी का रक्षा करनेवाला पुरुष (वसुभिः) उत्तम-उत्तम गुणों वा धनों के साथ (इह) यहाँ पर (आयातु) आवे। (सजाताः) हे समान जन्मवाले बान्धवो ! (सर्वे) तुम सब (संमनसः) एकमन होकर, (अस्य) इस (उग्रस्य) तेजस्वी (चेत्तुः) ज्ञानवान् पुरुष की (श्रियम्) सम्पदा को (उपसंयात) भली-भाँति प्राप्त करो ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थी को योग्य है कि अनेक-अनेक विद्वानों से सत्कारपूर्वक समागम करके गृहलक्ष्मी बढ़ा कर अपनी उन्नति करे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(आयातु) आगच्छतु (इह) अस्मिन् गृहे (वरुणः) सूर्य्यवत् प्रतापी पुरुषः (बृहस्पतिः) बृहत्या वेदवाण्याः पालकः (वसुभिः) श्रेष्ठगुणैर्धनैर्वा (इह आ यातु) (अस्य) गृहस्थस्य (श्रियम्) सम्पदाम् (उपसंयात) उप आदरेण सम्यक् प्राप्नुत (सर्वे) समस्ताः पूर्वोक्ता यूयम् (उग्रस्य) तेजस्विनः (चेत्तुः) कर्त्तव्याकर्त्तव्यस्य ज्ञातुः (संमनसः) संमिलितचित्ताः (सजाताः) हे समानजन्मानो बान्धवाः ॥
@@ -106,15 +114,6 @@ Let Varuna come hither, Soma, Agni, Brihaspati come hither with the Vasus! Unani
 
 यो᳓ वः शु᳓ष्मो हृ᳓दयेष्वन्त᳓रा᳓कूतिर्या᳓ वो म᳓नसि प्र᳓विष्टा।  
 ता᳓न्त्सीवयामि हवि᳓षा घृते᳓न म᳓यि सजाता रम᳓तिर्वो अस्तु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/073_sAMmanasyam/02_yo_vaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यो वः॒ शुष्मो॒ हृद॑येष्व॒न्तराकू॑ति॒र्या वो॒ मन॑सि॒ प्रवि॑ष्टा।  
-तान्त्सी॑वयामि ह॒विषा॑ घृ॒तेन॒ मयि॑ सजाता र॒मति॑र्वो अस्तु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/02_yo_vaH.md">
@@ -139,14 +138,23 @@ before the Lalita-Vistara) adopts *sīvayāmi* from the comm. (=
 1 **d**) *sujātās*. The Anukr. should have noted the verse as *nicṛt*.  
 ⌊Read *yó vó ‘sti* in **a**?⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 The inclination which your hearts have harboured, the purpose which hath occupied your spirits, This I annul with sacrifice and butter. In me be your sweet resting-place, O kinsmen.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो वः॒ शुष्मो॒ हृद॑येष्व॒न्तराकू॑ति॒र्या वो॒ मन॑सि॒ प्रवि॑ष्टा।  
+तान्त्सी॑वयामि ह॒विषा॑ घृ॒तेन॒ मयि॑ सजाता र॒मति॑र्वो अस्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। वः॒। शुष्मः॑। हृद॑येषु। अ॒न्तः। आऽकू॑तिः। या। वः॒। मन॑सि। प्रऽवि॑ष्टा। तान्। सी॒व॒या॒मि॒। ह॒विषा॑। घृ॒तेन॑। मयि॑। स॒ऽजा॒ताः॒। र॒मतिः॑। वः॒। अ॒स्तु॒। ७३.२। 
+यः। वः॒। शुष्मः॑। हृद॑येषु। अ॒न्तः। आऽकू॑तिः। या। वः॒। मन॑सि। प्रऽवि॑ष्टा। तान्। सी॒व॒या॒मि॒। ह॒विषा॑। घृ॒तेन॑। मयि॑। स॒ऽजा॒ताः॒। र॒मतिः॑। वः॒। अ॒स्तु॒। ७३.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सामंनस्यम्, वरुणः, सोमः, अग्निः, बृहस्पतिः, वसुगणः
@@ -154,18 +162,22 @@ The inclination which your hearts have harboured, the purpose which hath occupie
 - त्रिष्टुप्
 - सांमनस्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वानों से समागम का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे विद्वानो !] (यः) जो (शुष्मः) पराक्रम (वः) तुम्हारे (हृदयेषु अन्तः) हृदयों में भरा है, और (या) जो (आकूतिः) उत्साह वा शुभसंकल्प (वः) तुम्हारे (मनसि) मन में (प्रविष्टा) प्रवेश हो रहा है। [उसी के कारण] (हविषा) उत्तम अङ्ग से और (घृतेन) जल से (तान्) उन तुम सब की (सीवयामि=सेवे) मैं सेवा करता हूँ, (सजाताः) हे समान जन्मवाले बान्धवो ! (वः) तुम्हारी (रमतिः) क्रीड़ा [प्रसन्नता] (मयि) मुझ में (अस्तु) होवे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य यथावत् शुश्रुषा करके विद्वानों से उत्तम-उत्तम विद्यायें ग्रहण करके अपने आत्मा को सदा सन्तुष्ट करते रहें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(यः) (वः) युष्माकम् (शुष्मः) पराक्रमः। बलम् निघ० २।९। (हृदयेषु) विषयाणां ग्रहणशीलेषु चित्तेषु (अन्तः) मध्ये (आकूतिः) उत्साहः। शिवसंकल्पः (या) (वः) (मनसि) मननसाधने। अन्तःकरणे (प्रविष्टा) अन्तर्गता (तान्) तथाविधान् युष्मान् (सीवयामि) षेवृ सेवायाम्, एकारस्य ईत्वं चुरादित्वं च छान्दसम्। अहं सेवे। शुश्रूषयामि (हविषा) हव्येन देवयोग्यान्नेन (घृतेन) उदकेन−निघ० १।१२। (मयि) उपासके (सजाताः) हे समानजन्मानो बान्धवाः (रमतिः) रमेर्नित्। उ० ४।६३। इति रमु क्रीडायाम्−अति। क्रीडा। मनःप्रसन्नता (वः) युष्माकम् (अस्तु) भवतु ॥
@@ -179,15 +191,6 @@ The inclination which your hearts have harboured, the purpose which hath occupie
 
 इहै᳓व᳓ स्त मा᳓प याता᳓ध्यस्म᳓त्पूषा᳓ पर᳓स्ताद᳓पथं वः कृणोतु।  
 वा᳓स्तोष्प᳓तिर᳓नु वो जोहवीतु म᳓यि सजाता रम᳓तिर्वो अस्तु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/073_sAMmanasyam/03_ihaiva_sta.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इ॒हैव स्त॒ माप॑ या॒ताध्य॒स्मत्पू॒षा प॒रस्ता॒दप॑थं वः कृणोतु।  
-वास्तो॒ष्पति॒रनु॑ वो जोहवीतु॒ मयि॑ सजाता र॒मति॑र्वो अस्तु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/03_ihaiva_sta.md">
@@ -204,14 +207,23 @@ Ppp. has, in **a**, *e ’ha yāta mā ’pa*, at the beginning; it rectifies
 the meter of **b** by omitting *vas;* in **c**, it reads *‘yam ahvan*  
 for *johavītu;* in **d**, it again has *sujātās*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Stand even here; forsake me not. Before us may Pushan make your path unfit to travel. Vastoshpati incessantly recall you! In me be your sweet resting- place, O kinsmen!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒हैव स्त॒ माप॑ या॒ताध्य॒स्मत्पू॒षा प॒रस्ता॒दप॑थं वः कृणोतु।  
+वास्तो॒ष्पति॒रनु॑ वो जोहवीतु॒ मयि॑ सजाता र॒मति॑र्वो अस्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒ह। ए॒व। स्त॒। मा। अप॑। या॒त॒। अधि॑। अ॒स्मत्। पू॒षा। प॒रस्ता॑त्। अप॑थम्। वः॒। कृ॒णो॒तु॒। वास्तोः॑। पतिः॑। अनु॑। वः॒। जो॒ह॒वी॒तु॒। मयि॑। स॒ऽजा॒ताः॒। र॒मतिः॑। वः॒। अ॒स्तु॒। ७३.३। 
+इ॒ह। ए॒व। स्त॒। मा। अप॑। या॒त॒। अधि॑। अ॒स्मत्। पू॒षा। प॒रस्ता॑त्। अप॑थम्। वः॒। कृ॒णो॒तु॒। वास्तोः॑। पतिः॑। अनु॑। वः॒। जो॒ह॒वी॒तु॒। मयि॑। स॒ऽजा॒ताः॒। र॒मतिः॑। वः॒। अ॒स्तु॒। ७३.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वास्तोष्पतिः
@@ -219,18 +231,22 @@ Stand even here; forsake me not. Before us may Pushan make your path unfit to tr
 - भुरिगनुष्टुप्
 - सांमनस्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वानों से समागम का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे विद्वानो !] (इह) यहाँ पर (एव) ही (स्त) रहो (अस्मत् अधि) हम से (मा अप यात) हट कर न जाओ, (पूषा) पोषण करनेवाला गृहस्थ (परस्तात्) उत्तर-उत्तर काल में (वः) तुम्हारे लिये (अपथम्) अभय (कृणोतु) करे। (वास्तोः) घर का (पतिः) स्वामी [गृहस्थ] (वः) तुमको (अनु) निरन्तर (जोहवीतु) बुलाता रहे। (सजाताः) हे समान जन्मवाले बान्धवो ! (वः) तुम्हारे (रमतिः) क्रीड़ा [प्रसन्नता] (मयि) मुझ में (अस्तु) होवे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो धार्मिक गृहस्थ विद्वानों को अभय ज्ञान दान करके आदरपूर्वक गुणग्रहण करते हैं, वे संसार में आनन्द भोगते हैं ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(इह) अस्मिन् समाजे (एव) निश्चयेन (स्त) वर्त्तध्वम् (मा अपयात) दूरे मा गच्छत (अधि) पञ्चम्यर्थानुवादी (अस्मत्) अस्मत्तः (पूषा) पोषको गृहस्थः (परस्तात्) अ० ४।१६।४। पर−अस्ताति। परस्मिन् पश्चात्काले (अपथम्) अपथम्। थुड संवरणे−ड। थं भयम्। अपगतं च तत् थं च तत्। अभयम् (वः) युष्मभ्यम् (कृणोतु) करोतुं (वास्तोः) वसेरगारे णिच्च। उ० १।७०। इति वस निवासे तुन् स च णित्। वास्तुर्वसतेर्निवासकर्मणः−निरु० १२।१६। गृहस्य (पतिः) स्वामी (अनु) अनन्तरम् (वः) युष्मान् (जोहवीतु) अ० २।१२।३। ह्वयतेर्यङ्लुकि लोट्। पुनः पुनराह्वयतु। अन्यत् पूर्ववत्−म० २ ॥

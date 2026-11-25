@@ -8,15 +8,18 @@ title = "१०४ गौः"
 
 104 (109). Concerning Atharvan's cow.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 गौः।  
 १ ब्रह्म। आत्मा। त्रिष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ātmadāivatam. trāiṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -35,15 +38,6 @@ Translated: Henry, 41, 116; Griffith, i. 379.—Cf. above, v. 11, introduction.
 
 कः᳓ पृ᳓श्निं धेनुं᳓ व᳓रुणेन दत्ता᳓म᳓थर्वणे सुदु᳓घां नि᳓त्यवत्साम्।  
 बृ᳓हस्प᳓तिना सख्यं᳙ जुषाणो᳓ यथावशं᳓ तन्वः᳙ कल्पयाति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/104_gauH/01_kaH_pRshnim.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-कः पृश्निं॑ धे॒नुं वरु॑णेन द॒त्तामथ॑र्वणे सु॒दुघां॒ नित्य॑वत्साम्।  
-बृह॒स्पति॑ना स॒ख्यं᳡ जुषा॒णो य॑थाव॒शं त॒न्वः᳡ कल्पयाति ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/104_gauH/01_kaH_pRshnim.md">
@@ -65,14 +59,23 @@ in his text; ours has the correct *sakhyám*. Ppp. begins with *kaṁ*, and
 has in **b**, for *nítyavatsām*, *dhenum etām*, and in **c** *tāṁ  
 bṛhaspatyā sakhyā.*
 </details>
+
 <details><summary>Griffith</summary>
 
 Who will prepare the dappled Cow, good milker, ne'er without calf, whom Varuna gave Atharvan, And, joying in Brihaspati's alliance, arrange according to his will her body?
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+कः पृश्निं॑ धे॒नुं वरु॑णेन द॒त्तामथ॑र्वणे सु॒दुघां॒ नित्य॑वत्साम्।  
+बृह॒स्पति॑ना स॒ख्यं᳡ जुषा॒णो य॑थाव॒शं त॒न्वः᳡ कल्पयाति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कः। पृश्नि॑म्। धे॒नुम्। वरु॑णेन। द॒त्ताम्। अथ॑र्वणे। सु॒ऽदुघा॑म्। नित्य॑ऽवत्साम्। बृह॒स्पत‍ि॑ना। स॒ख्य᳡म्। जु॒षा॒णः। य॒था॒ऽव॒शम्। त॒न्वः᳡। क॒ल्प॒या॒ति॒। १०९.१। 
+कः। पृश्नि॑म्। धे॒नुम्। वरु॑णेन। द॒त्ताम्। अथ॑र्वणे। सु॒ऽदुघा॑म्। नित्य॑ऽवत्साम्। बृह॒स्पत‍ि॑ना। स॒ख्य᳡म्। जु॒षा॒णः। य॒था॒ऽव॒शम्। त॒न्वः᳡। क॒ल्प॒या॒ति॒। १०९.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रहात्मा
@@ -80,18 +83,22 @@ Who will prepare the dappled Cow, good milker, ne'er without calf, whom Varuna g
 - त्रिष्टुप्
 - गौ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदविद्या के प्रचार का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (कः) प्रकाशमान [प्रजापति मनुष्य] (बृहस्पतिना) बड़े-बड़े लोकों के स्वामी [परमेश्वर] के साथ (यथावशम्) इच्छानुसार [अपने] (तन्वः) शरीर की (सख्यम्) मित्रता का (जुषाणः) सेवन करता हुआ, (अथर्वणे) निश्चल स्वभाववाले पुरुष को (वरुणेन) श्रेष्ठ परमात्मा करके (दत्ताम्) दी हुई, (सुदुघाम्) अत्यन्त पूरण करनेवाली, (नित्यवत्साम्) नित्य उपदेश करनेवाली, (पृश्निम्) प्रश्न करने योग्य (धेनुम्) वाणी [वेदवाणी] को (कल्पयाति) समर्थ करे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमेश्वर की दी हुई कल्याणी वेदवाणी को ईश्वरभक्ति के साथ संसार में फैलावें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(कः) गतसूक्ते व्याख्यातः। प्रकाशमानः प्रजापतिः पुरुषः (पृश्निम्) घृणिपृश्निपार्ष्णि०। उ० ४।५२। प्रच्छ ज्ञीप्सायाम्-नि। प्रष्टव्याम् (धेनुम्) अ० ३।१०।१। वाचम्-निघ० १।११। वेदवाणीम् (वरुणेन) श्रेष्ठेन परमेश्वरेण (दत्ताम्) (अथर्वणे) अ० ४।३७।१। निश्चलस्वभावाय योगिने (सुदुघाम्) अ० ७।७३।७। सुष्ठु पूरयित्रीम् (नित्यवत्साम्) वृतॄवदिवचिवसि०। उ० ३।६२। वद व्यक्तायां वाचि-स प्रत्ययः। नित्योपदेशिकाम् (बृहस्पतिना) बृहतां लोकानां पालकेन। परमात्मना सह (सख्यम्) मित्रभावम् (जुषाणः) सेवमानः (यथावशम्) यथेच्छम् (तन्वः) शरीरस्य (कल्पयाति) कल्पयतेर्लेटि आडागमः। समर्थयेत् ॥

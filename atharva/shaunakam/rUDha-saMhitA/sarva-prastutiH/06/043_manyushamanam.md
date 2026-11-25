@@ -8,15 +8,18 @@ title = "०४३ मन्युशमनम्"
 
 43. To assuage wrath.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 मन्युशमनम्।  
 १-३ भृग्वङ्गिराः (परस्परचित्तैकीकरणकामः)। मन्युशमनम्। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [(As 42.)—manyuśamanadevatākam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also in Pāipp. xix. In Kāuś. (36. 32), the hymn appears, next after hym
 #### Translations
 Translated: Florenz, 303 or 55; Grill, 30, 162; Griffith, i. 267; Bloomfield, 137, 480.
 </details>
+
 <details><summary>Griffith</summary>
 
 The same
@@ -39,15 +43,6 @@ The same
 
 अयं᳓ दर्भो᳓ वि᳓मन्युकः स्वा᳓य चा᳓रणाय च।  
 मन्यो᳓र्विमन्युकस्यायं᳓ मन्युश᳓मन उच्यते ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/043_manyushamanam/01_ayaM_darbho.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒यं द॒र्भो विम॑न्युकः॒ स्वाय॒ चार॑णाय च।  
-म॒न्योर्वि॑मन्युकस्या॒यं म॑न्यु॒शम॑न उच्यते ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/01_ayaM_darbho.md">
@@ -64,14 +59,23 @@ The translation implies the emendation of *vimanyukasya* in **c** to
 supports the change, reading *vimanyako manyuśamano ‘stu me;* it has  
 *vimanyakas* also in **a**.
 </details>
+
 <details><summary>Griffith</summary>
 
 For stranger and for friend alike this Darbha-grass removeth wrath. Soother of Anger is it called because it calms the angry man.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒यं द॒र्भो विम॑न्युकः॒ स्वाय॒ चार॑णाय च।  
+म॒न्योर्वि॑मन्युकस्या॒यं म॑न्यु॒शम॑न उच्यते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। द॒र्भः। विऽम॑न्युकः। स्वाय॑। च॒। अर॑णाय। च॒। म॒न्योः। विऽम॑न्युकस्य। अ॒यम्। म॒न्यु॒ऽशम॑नः। उ॒च्य॒ते॒। ४३.१। 
+अ॒यम्। द॒र्भः। विऽम॑न्युकः। स्वाय॑। च॒। अर॑णाय। च॒। म॒न्योः। विऽम॑न्युकस्य। अ॒यम्। म॒न्यु॒ऽशम॑नः। उ॒च्य॒ते॒। ४३.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्युशमनम्
@@ -79,18 +83,22 @@ For stranger and for friend alike this Darbha-grass removeth wrath. Soother of A
 - अनुष्टुप्
 - मन्युशमन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 क्रोध की शान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अयम्) यह (दर्भः) दर्भ अर्थात् दुःख नाश करनेवाला वा सुकर्म गूँथनेवाला पुरुष (स्वाय) अपने समुदाय के लिये (च च) और (अरणाय) प्राप्ति योग्य शूद्र अन्त्यज आदि के लिये (विमन्युकः) क्रोध हटानेवाला है। (अयम्) यह (मन्योः) क्रोधी का (विमन्युकः) क्रोध दूर करनेवाला और (मन्युशमनः) क्रोध शान्त करनेवाला (उच्यते) कहा जाता है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य को योग्य है कि बड़े और छोटों से शान्तचित्त होकर बर्ताव करे ॥१॥   (दर्भ) अर्थात् कुश घास औषधविशेष भी है, जो वात पित्त कफ त्रिदोष आदि रोग नाश करता है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(अयम्) पुरोवर्ती (दर्भः) दृदलिभ्यां भः। उ० ३।१५१। इति दॄ विदारणे−भ। यद्वा। दृभो ग्रन्थे−घञ्। दुःखविदारकः। सुकर्मग्रन्थकः (विमन्युकः) शेषाद् विभाषा। पा० ५।४।१५४। इति कप्। वि विगमितो मन्युर्येन सः। क्रोधनिवारकः (स्वाय) ज्ञातये (च च) समुच्चये (अरणाय) ऋ गतौ−ल्यु। प्राप्तव्याय शूद्रान्त्यजादये (मन्योः) मतुपो लोपः। मन्युमतः पुरुषस्य (विमन्युकस्य) सुपां सुपो भवन्तीति वक्तव्यम्। वा० पा० ७।१।३९। इति प्रथमार्थे षष्ठी। विमन्युकः। क्रोधनिवारकः (अयम्) (मन्युशमनः) क्रोधशान्तिकरः (उच्यते) अभिधीयते ॥
@@ -104,15 +112,6 @@ For stranger and for friend alike this Darbha-grass removeth wrath. Soother of A
 
 अयं᳓ यो᳓ भू᳓रिमूलः समुद्र᳓मवति᳓ष्ठति।  
 दर्भः᳓ पृथिव्या᳓ उ᳓त्थितो मन्युश᳓मन उच्यते ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/043_manyushamanam/02_ayaM_yo.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒यं यो भूरि॑मूलः समु॒द्रम॑व॒तिष्ठ॑ति।  
-द॒र्भः पृ॑थि॒व्या उत्थि॑तो मन्यु॒शम॑न उच्यते ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/02_ayaM_yo.md">
@@ -129,14 +128,23 @@ Ppp. reads, in **b**, *pṛthivyām* 'in the earth,' instead of *samudrám*
 vimanyakaḥ*. The Anukr. takes no notice of the deficiency of a syllable  
 in **a**.
 </details>
+
 <details><summary>Griffith</summary>
 
 This Plant that hath abundant roots spreads to the place where waters meet. Soother of anger is the name Darbha-grass that springs from earth.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒यं यो भूरि॑मूलः समु॒द्रम॑व॒तिष्ठ॑ति।  
+द॒र्भः पृ॑थि॒व्या उत्थि॑तो मन्यु॒शम॑न उच्यते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। यः। भूरि॑ऽमूलः। स॒मु॒द्रम्। अ॒व॒ऽतिष्ठ॑ति। द॒र्भः। पृ॒थि॒व्याः। उत्थि॑तः। म॒न्यु॒ऽशम॑नः। उ॒च्य॒ते॒। ४३.२। 
+अ॒यम्। यः। भूरि॑ऽमूलः। स॒मु॒द्रम्। अ॒व॒ऽतिष्ठ॑ति। द॒र्भः। पृ॒थि॒व्याः। उत्थि॑तः। म॒न्यु॒ऽशम॑नः। उ॒च्य॒ते॒। ४३.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्युशमनम्
@@ -144,18 +152,22 @@ This Plant that hath abundant roots spreads to the place where waters meet. Soot
 - अनुष्टुप्
 - मन्युशमन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 क्रोध की शान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अयम्) यह (यः) जो (भूरिमूलः) बहुत प्रतिष्ठावाला होकर (समुद्रम्) अन्तरिक्ष लोक तक (अवतिष्ठति) फैलता है। (दर्भ) वह दर्भ सुकर्मों का गूँथनेवाला पुरुष (पृथिव्याः) पृथिवी से (उत्थितः) उठकर (मन्युशमनः) क्रोध शान्त करनेवाला (उच्यते) कहा जाता है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य विवेक द्वारा प्रतिष्ठित होकर अन्तरिक्ष आदि लोक तक अधिकार जमाता है, वह संसार में यशस्वी और शान्तचित्त माना जाता है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(अयम्) (यः) दर्भः (भूरिमूलः) मूल प्रतिष्ठायां रोपणे च−क बहुप्रतिष्ठितः सन् (समुद्रम्) अ० १।३।८। अन्तरिक्षम्−निघ० १।३। (अवतिष्ठति) व्याप्य वर्तते (दर्भः) म० १। सुकर्मणां ग्रन्थकः (पृथिव्याः) भूमेः सकाशात् (उत्थितः) उपरि स्थितः सन्। अन्यत्पूर्ववत् ॥
@@ -169,15 +181,6 @@ This Plant that hath abundant roots spreads to the place where waters meet. Soot
 
 वि᳓ ते हनव्यां᳙ शर᳓णिं वि᳓ ते मु᳓ख्यां नयामसि।  
 य᳓थावशो᳓ न᳓ वा᳓दिषो म᳓म चित्त᳓मुपा᳓यसि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/043_manyushamanam/03_vi_te.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वि ते॑ हन॒व्यां᳡ श॒रणिं॒ वि ते॒ मुख्यां॑ नयामसि।  
-यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/03_vi_te.md">
@@ -196,14 +199,23 @@ have the false reading *múkhyān* in **b**, but SPP. also emends to
 *-ām*, being supported by the comm. The latter explains *śaráṇim* by  
 *hiṅsāhetubhūtām krodhābhivyañjikāṁ dhamanim*.
 </details>
+
 <details><summary>Griffith</summary>
 
 We draw thine obstinacy forth, set in thy mouth and in thy jaw: So dost thou yield thee to my will. to speak no more rebelli- ously.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि ते॑ हन॒व्यां᳡ श॒रणिं॒ वि ते॒ मुख्यां॑ नयामसि।  
+यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि। ते॒। ह॒न॒व्या᳡म्। श॒रणि॑म्। वि। ते॒। मुख्या॑म्। न॒या॒म॒सि॒। यथा॑। अ॒व॒शः। न। ‍ वादि॑षः। मम॑। चि॒त्तम्। उ॒प॒ऽआय॑सि। ४३.३। 
+वि। ते॒। ह॒न॒व्या᳡म्। श॒रणि॑म्। वि। ते॒। मुख्या॑म्। न॒या॒म॒सि॒। यथा॑। अ॒व॒शः। न। ‍ वादि॑षः। मम॑। चि॒त्तम्। उ॒प॒ऽआय॑सि। ४३.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्युशमनम्
@@ -211,18 +223,22 @@ We draw thine obstinacy forth, set in thy mouth and in thy jaw: So dost thou yie
 - अनुष्टुप्
 - मन्युशमन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 क्रोध की शान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (ते) तेरे (हनव्याम्) ठोड़ी में वर्त्तमान और (ते) तेरे (मुख्याम्) मुख पर वर्त्तमान (शरणिम्) हिंसा के चिह्न को (वि वि नयामसि) सर्वथा हम हटाते हैं। (यथा) जिससे (अवशः) परवश (न=न भूत्वा) न होकर (वादिषः) तू बातचीत करे, (मम) मेरे (चित्तम्) चित्त में (उप आयसि) तू पहुँच करता है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य अपने शरीर के सब अङ्गों से सुचेष्टा करके सबका प्रिय रहे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(ते) तव (हनव्याम्) शरीरावयवाच्च। पा० ४।३।५५। इति हनु−यत्। ओर्गुणः। पा० ६।४।१४६। इति गुणः। वान्तो यि प्रत्यये। पा० ६।१।७९। इति अवादेशः। हनौ वर्तमानाम् (शरणिम्) अर्त्तिसृधृ०। उ० २।१०२। इति शॄ हिंसायाम्−अनि। हिंसालक्षणम् (मुख्याम्) मुख−यत् पूर्ववत्। मुखे वर्त्तमानाम् (वि वि नयामसि) सर्वथा विनयामः। अपगमयामः। अन्यद् गतम्−सू० ४२। म० ३ ॥

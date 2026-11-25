@@ -8,15 +8,18 @@ title = "०३७ वासः"
 
 37 (38). The wife to the husband.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 वासः।  
 १ अथर्वा। वासः। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—lin̄goktadevatyam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Wanting in Pāipp., but perhaps by reason of the lacuna noted under the precedin
 #### Translations
 Translated: Weber, Ind. Stud. v. 248; Grill, 55, 179; Henry, 14, 67; Griffith, i. 343; Bloomfield, 96, 546.
 </details>
+
 <details><summary>Griffith</summary>
 
 A nuptial charm to be spoken by the bride
@@ -39,15 +43,6 @@ A nuptial charm to be spoken by the bride
 
 अभि᳓ त्वा म᳓नुजातेन द᳓धामि म᳓म वा᳓ससा।  
 य᳓था᳓ऽसो म᳓म के᳓वलो ना᳓न्या᳓सां कीर्त᳓याश्चन᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/037_vAsaH/01_abhi_tvA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒भि त्वा॒ मनु॑जातेन॒ दधा॑मि॒ मम॒ वास॑सा।  
-यथाऽसो॒ मम॒ केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/037_vAsaH/01_abhi_tvA.md">
@@ -66,14 +61,23 @@ a garment; perhaps the woman's embrace is intended, or her hair—if this
 be not too poetic. The second half-verse is nearly identical with 38. 4  
 **c, d**.
 </details>
+
 <details><summary>Griffith</summary>
 
 With this my robe, inherited from Manu, I envelop thee, So that thou mayst be all mine own and give no thought to other dames.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒भि त्वा॒ मनु॑जातेन॒ दधा॑मि॒ मम॒ वास॑सा।  
+यथाऽसो॒ मम॒ केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒भ‍ि। त्वा॒। मनु॑ऽजातेन। दधा॑मि। मम॑। वास॑सा। यथा॑। असः॑। मम॑। केव॑लः। न। अ॒न्यासा॑म्। की॒र्तयाः॑। च॒न। ३८.१। 
+अ॒भ‍ि। त्वा॒। मनु॑ऽजातेन। दधा॑मि। मम॑। वास॑सा। यथा॑। असः॑। मम॑। केव॑लः। न। अ॒न्यासा॑म्। की॒र्तयाः॑। च॒न। ३८.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वासः
@@ -81,18 +85,22 @@ With this my robe, inherited from Manu, I envelop thee, So that thou mayst be al
 - अनुष्टुप्
 - वास सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विवाह में प्रतिज्ञा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे स्वामिन् !] (मनुजातेन) मननशील मनुष्यों में प्रसिद्ध (मम वाससा) अपने वस्त्र से (त्वा) तुझे (अभि दधामि) मैं बाँधती हूँ। (यथा) जिससे तू (केवलः) केवल (मम) मेरा (असः) होवे, (चन) और (अन्यासाम्) अन्य स्त्रियों का (न कीर्तयाः) तू न ध्यान करे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विवाह में विद्वानों के बीच वस्त्र का गठबन्धन करके वधू और वर दृढ़ प्रतिज्ञा करें कि पत्नी पतिव्रता और पति पत्नीव्रत होकर गृहस्थ आश्रम को प्रीतिपूर्वक निबाहें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(त्वा) पतिम् (मनुजातेन) मननशीलेषु मनुष्येषु प्रसिद्धेन (अभि दधामि) अभिपूर्वो दधातिर्बन्धने। बध्नामि (वाससा) वस्त्रेण यथा येन प्रकारेण (असः) असेलेर्टि, अडागमः। भवेः (मम) (केवलः) असाधारणः (न) निषेधे (अन्यासाम्) अन्यस्त्रीणाम् (कीर्तयाः) कॄत संशब्दने, णिचि। उपधायाश्च। पा० ७।१।१०१। इत्वम्। उपधायां च। पा० ८।२।७८। इति दीर्घः, लेटि आडागमः। कीर्तयेः। कीर्तनं ध्यानं कुर्याः (चन) चार्थे ॥

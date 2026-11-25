@@ -8,15 +8,18 @@ title = "०२३ पाप-मोचनम्"
 
 23. Praise and prayer to Agni.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 पाप-मोचनम्।  
 १-७ मृगारः। प्रचेता अग्निः। त्रिषटुप्, ३ पुरस्ताज्ज्योतिष्मती, ४ अनुष्टुप्, ६ प्रस्तारपङ्क्तिः।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Mṛgāra.—sapta mṛgārasaṁjñakāni sūktāni nānādevatyāni. trāiṣṭubhāni: 3. purastājjyotiṣmatī; 4. anuṣṭubh; 6. prastārapan̄kti.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found,* with the six hymns that follow, all together (but in the order 23, 25, 2
 #### Translations
 Translated: Griffith, i. 163; Weber, xviii. 94.
 </details>
+
 <details><summary>Griffith</summary>
 
 Magnification of Agni and prayer for his protection
@@ -39,15 +43,6 @@ Magnification of Agni and prayer for his protection
 
 अग्ने᳓र्मन्वे प्रथम᳓स्य प्र᳓चेतसः पा᳓ञ्चजन्यस्य बहुधा᳓ य᳓मिन्ध᳓ते।  
 वि᳓शोविशः प्रविशिवां᳓समीमहे स᳓ नो मुञ्चत्वं᳓हसः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसः॒ पाञ्च॑जन्यस्य बहु॒धा यमि॒न्धते॑।  
-विशो॑विशः प्रविशि॒वांस॑मीमहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
@@ -73,14 +68,23 @@ the descriptions of the seven hymns, says that all the verses
 contain—i.e. end with—an *anuṣṭubh* pāda. Its definitions of the meters  
 in detail are too inaccurate to be worthy of attention throughout.
 </details>
+
 <details><summary>Griffith</summary>
 
 I fix my heart on wise and ancient Agni, the Five Tribes' Lord, in many a place enkindled. We seek him who hath entered all our houses. May he deliver us from grief and trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसः॒ पाञ्च॑जन्यस्य बहु॒धा यमि॒न्धते॑।  
+विशो॑विशः प्रविशि॒वांस॑मीमहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्नेः। म॒न्वे॒। प्र॒थ॒मस्य॑। प्रऽचे॑तसः। पाञ्च॑ऽजन्यस्य। ब॒हु॒ऽधा। यम्। इ॒न्धते॑। विशः॑ऽविशः। प्र॒वि॒शि॒ऽवास॑म्। ई॒म॒हे॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.१। 
+अ॒ग्नेः। म॒न्वे॒। प्र॒थ॒मस्य॑। प्रऽचे॑तसः। पाञ्च॑ऽजन्यस्य। ब॒हु॒ऽधा। यम्। इ॒न्धते॑। विशः॑ऽविशः। प्र॒वि॒शि॒ऽवास॑म्। ई॒म॒हे॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रचेता अग्निः
@@ -88,18 +92,22 @@ I fix my heart on wise and ancient Agni, the Five Tribes' Lord, in many a place 
 - त्रिष्टुप्
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कष्ट हटाने के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (प्रथमस्य) सबसे पहिले वर्तमान, (प्रचेतसः) बड़े ज्ञानवाले (पाञ्चजन्यस्य) पाँच भूतों से उत्पन्न मनुष्य आदि के हितकारक (अग्नेः) सर्वव्यापक अग्नि, अर्थात् परमेश्वर का (मन्वे) में मनन करता हूँ, (यम्) जिसको [ऋषि लोग] (बहुधा) बहुत प्रकार से (इन्धते) प्रकाशित करते हैं (विशोविशः) सब प्रवेश स्थानों में (प्रविशिवांसम्) प्रवेश करनेवाले परमेश्वर को (ईमहे) हम पहुँचते हैं। (सः) वह (नः) हमें (अंहसः) पीड़ा से (मुञ्चतु) छुड़ावे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सबके आदि कारण, सर्वज्ञ, सर्वहितकारक, सर्वव्यापक परमेश्वर की महिमा विचारते हुए मनुष्य पुरुषार्थ करके अधर्म को छोड़कर धर्म में प्रवृत्त होकर आनन्द भोगें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(अग्नेः) सर्वव्यापकस्य परमेश्वरस्य (मन्वे) मनु अवबोधने। मननं करोमि (प्रथमस्य) आद्यस्य। मुख्यस्य (प्रचेतसः) प्रकृष्टज्ञानस्य (पाञ्चजन्यस्य) पञ्चजनाः, इति मनुष्यनाम-निघ० २।३। पञ्चभिर्भूतैर्जाताः, इत्यर्थः। तस्मै हितम्। पा० ५।१।५। इति पञ्चजन-ञ्य। पञ्चजनेभ्यो मनुष्येभ्यो हितस्य (बहुधा) बहुप्रकारेण (यम्) अग्निम् (इन्धते) दीपयन्ति प्रकाशयन्ति (विशोविशः) विश आवेशने-क्विप्। सर्वप्रवेशस्थानानि। सर्वाः प्रजाः (प्रविशिवांसम्) विश प्रवेशने। छान्दसं रूपम्। प्रविशिवांसम्। प्रविष्टवन्तम्। (ईमहे) ईङ्गतौ। प्राप्नुमः। वाचामहे-निघ० ३।१९। (सः) अग्निः (नः) अस्मान् (मुञ्चतु) मोचयतु वियोजयतु (अंहसः) अ० २।४।३। अमेर्हुक्च। उ० ४।२१३। इति अम रोगे, पीडने-असुन्, हुक् च। रोगात् पीडकात् कष्टात् ॥
@@ -115,15 +123,6 @@ I fix my heart on wise and ancient Agni, the Five Tribes' Lord, in many a place 
 एवा᳓ देवे᳓भ्यः सुमतिं᳓ न आ᳓ वह स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/02_yathA_havyam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यथा॑ ह॒व्यं वह॑सि जातवेदो॒ यथा॑ य॒ज्ञं क॒ल्पय॑सि प्रजा॒नन्।  
-ए॒वा दे॒वेभ्यः॑ सुम॒तिं न॒ आ व॑ह॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/02_yathA_havyam.md">
 <details open><summary><h3>०२ यथा हव्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -137,14 +136,23 @@ him free us from distress.
 Ppp. offers no variants in vss. 2-4, but puts 4 next after 1. The comm.  
 takes *devebhyas* in **c** first as dative and then as ablative.
 </details>
+
 <details><summary>Griffith</summary>
 
 As thou conveyest offerings, Jatavedas! and fashionest the sacri- fice with knowledge, So bear thou to the Gods the prayer we utter. May he deliver us from grief and trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॑ ह॒व्यं वह॑सि जातवेदो॒ यथा॑ य॒ज्ञं क॒ल्पय॑सि प्रजा॒नन्।  
+ए॒वा दे॒वेभ्यः॑ सुम॒तिं न॒ आ व॑ह॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। ह॒व्यम्। वह॑सि। जा॒त॒ऽवे॒दः॒। यथा॑। य॒ज्ञम्। क॒ल्पय॑सि। प्र॒ऽजा॒नन्। ए॒व। दे॒वेभ्यः॑। सु॒ऽम॒तिम्। नः॒। आ। व॒ह॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.२। 
+यथा॑। ह॒व्यम्। वह॑सि। जा॒त॒ऽवे॒दः॒। यथा॑। य॒ज्ञम्। क॒ल्पय॑सि। प्र॒ऽजा॒नन्। ए॒व। दे॒वेभ्यः॑। सु॒ऽम॒तिम्। नः॒। आ। व॒ह॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रचेता अग्निः
@@ -152,18 +160,22 @@ As thou conveyest offerings, Jatavedas! and fashionest the sacri- fice with know
 - त्रिष्टुप्
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कष्ट हटाने के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (जातवेदः) हे उत्पन्न पदार्थों के जाननेवाले परमेश्वर ! (यथा) जिस प्रकार से (हव्यम्) देने वा खाने योग्य अन्न को (वहसि) तू पहुँचाता है, (यथा) जिस प्रकार से (यज्ञम्) पूजनीय कर्म को (प्रजानन्) अच्छे प्रकार जानता हुआ (कल्पयसि) तू रचता है। (एव) वैसे ही (देवेभ्यः) दिव्य गुणों के लिये (सुमतिम्) सुमति (नः) हमें (आवह)) पहुँचा, (सः) वह (नः) हमें (अंहसः) पीड़ा से (मुञ्चतु) छुड़ावे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर ने पुष्टिकारक और सुखदायक अन्न सूर्य आदि पदार्थ उत्पन्न करके हम पर बड़ा उपकार किया है, उसके गुणों को जानकर विज्ञानपूर्वक अपनी धार्मिक बुद्धि बढ़ावें और दुष्कर्मों से पृथक् रहकर जीवनलाभ  ठावें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(यथा) येन प्रकारेण (हव्यम्) अ० ३।३।४। हु दानादनयोः-यत्। दातव्यं भोक्तव्यं वान्नम् (वहसि) प्रापयसि (जातवेदः) अ० १।७।२। जातानामुत्पन्नानां वेदितः (यज्ञम्) यजनीयं पूजनीयं कर्म (कल्पयसि) विरचयसि (प्रजानन्) प्रकर्षेणावगच्छन् (एव) एवम्। तथा (देवेभ्यः) दिव्यगुणानां प्राप्तये (सुमतिम्) धार्मिकां बुद्धिम् (नः) अस्मान् (आवह) द्विकर्मकः। प्रापय। अन्यद् गतम्-म० १ ॥
@@ -177,15 +189,6 @@ As thou conveyest offerings, Jatavedas! and fashionest the sacri- fice with know
 
 या᳓मन्यामन्नु᳓पयुक्तं व᳓हिष्ठं क᳓र्मङ्कर्मन्ना᳓भगमग्नि᳓मीडे।  
 र᳙क्षोह᳓णं यज्ञवृ᳓धं घृता᳓हुतं स᳓ नो मुञ्चत्वं᳓हसः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-याम॑न्याम॒न्नुप॑युक्तं॒ वहि॑ष्ठं॒ कर्म॑ङ्कर्म॒न्नाभ॑गम॒ग्निमी॑डे।  
-र॑क्षो॒हणं॑ यज्ञ॒वृधं॑ घृ॒ताहु॑तं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
@@ -209,14 +212,23 @@ The comm. paraphrases *ā́bhagam* by *ābhaktavyam āsevyam
 evaṁguṇaviśiṣṭam*. ⌊The vs. scans as 11 + 11: 12 + 8 = 42. Even with the  
 misdivision (11 + 7: 8 + 8 + 8), it is no *purastajjyotiṣmatī* (44).⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 I pray to Agni in each act successful, employed in every sacrifice, the strongest, Fiend-slayer, served with fatness, strengthening worship. May he deliver us from grief and trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+याम॑न्याम॒न्नुप॑युक्तं॒ वहि॑ष्ठं॒ कर्म॑ङ्कर्म॒न्नाभ॑गम॒ग्निमी॑डे।  
+र॑क्षो॒हणं॑ यज्ञ॒वृधं॑ घृ॒ताहु॑तं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याम॑न्ऽयामन्। उप॑ऽयुक्तम्। वहि॑ष्ठम्। कर्म॑न्ऽकर्मन्। आऽभ॑गम्। अ॒ग्निम्। ई॒डे॒। र॒क्षः॒ऽहन॑म्। य॒ज्ञ॒ऽवृध॑म्। घृ॒तऽआ॑हुतम्। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.३। 
+याम॑न्ऽयामन्। उप॑ऽयुक्तम्। वहि॑ष्ठम्। कर्म॑न्ऽकर्मन्। आऽभ॑गम्। अ॒ग्निम्। ई॒डे॒। र॒क्षः॒ऽहन॑म्। य॒ज्ञ॒ऽवृध॑म्। घृ॒तऽआ॑हुतम्। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रचेता अग्निः
@@ -224,18 +236,22 @@ I pray to Agni in each act successful, employed in every sacrifice, the stronges
 - पुरस्ताज्ज्योतिष्मती त्रिष्टुप्
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कष्ट हटाने के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यामन् यामन्) प्रत्येक गति वा उद्योग में (उपयुक्तम्) उपयोग किये, (कर्मन्कर्मन्) प्रत्येक कर्म में (आभगम्) अच्छे प्रकार से भक्ति योग्य, (वहिष्ठम्) अतिबली, (रक्षोहणम्) राक्षसों के हनन करनेहारे, (यज्ञवृधम्) पूजनीय कर्म के बढ़ानेवाले, (घृताहुतम्) प्रकाश के भलीभाँति देनेवाले, (अग्निम्) सर्वज्ञ अग्नि, परमात्मा की (ईडे) मैं स्तुति करता हूँ। (सः) वह (नः) हमें (अंहसः) कष्ट से (मुञ्चतु) छुड़ावे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य प्रत्येक कर्म में परमात्मा का ध्यान करके उद्योग करते हैं, वही बाहिरी और भीतरी शत्रुओं को हटाकर संसार में सुख भोगते हैं ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(यामन् यामन्) सर्वधातुभ्यो मनिन्। उ० ४।१४५। इति या प्रापणे-मनिन्। सप्तम्या लुक्। यामनि यामनि। सर्वस्यां गतौ (उपयुक्तम्) उपयोगीभूतम् (वहिष्ठम्) तुश्छन्दसि। पा० ५।३।५९। इति वोढृ-इष्ठन्। तुरिष्ठेमेयस्सु। पा० ६।४।१५४। इति तृलोपः। वोढृतमम्। अतिशयेन प्रापकम्। बलिष्ठम् (कर्मन् कर्मन्) डुकृञ् करणे-मनिन्। सप्तम्या लुक्। सर्वस्मिन् कर्मणि (आभगम्) आभक्तव्यम्। आसेव्यम् (अग्निम्) सर्वज्ञं परमात्मानम् (ईडे) ईड स्तुतौ। अग्निमीडेऽग्निं याचामीडिरध्येषणाकर्मा पूजाकर्मा वा-निरु० ७।१५। स्तौमि (रक्षोहणम्) रक्षस्+हन् हिंसागत्योः-क्विप्। रक्षसां हन्तारम् (यज्ञवृधम्) यज्ञस्य पूजनीयकर्मणो वर्धयितारम् (घृताहुतम्) घृत+आङ्−हु दाने-क्विप्, तुक् च। घृतस्य प्रकाशस्य सम्यग् दातारम्। अन्यत् पूर्ववत् अ० १ ॥
@@ -251,15 +267,6 @@ I pray to Agni in each act successful, employed in every sacrifice, the stronges
 ह᳙व्यवा᳓हं हवामहे स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/04_sujAtaM_jAtavedasamagnim.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सुजा॑तं जा॒तवे॑दसम॒ग्निं वै॑श्वान॒रं वि॒भुम्।  
-ह॑व्य॒वाहं॑ हवामहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/04_sujAtaM_jAtavedasamagnim.md">
 <details open><summary><h3>०४ सुजातं जातवेदसमग्निम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -273,14 +280,23 @@ us from distress.
 The verse, as already noticed, comes second in the Ppp. version of the  
 hymn. The comm. explains *vibhu* as "pervading" (*vyāpaka*).
 </details>
+
 <details><summary>Griffith</summary>
 
 We invoke the oblation-bearer, well-born Agni Jatavedas, Him, Vaisvanara, almighty. May he set us free from trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सुजा॑तं जा॒तवे॑दसम॒ग्निं वै॑श्वान॒रं वि॒भुम्।  
+ह॑व्य॒वाहं॑ हवामहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सुऽजा॑तम्। जा॒तऽवे॑दसम्। अ॒ग्निम्। वै॒श्वा॒न॒रम्। वि॒ऽभुम्। ह॒व्य॒ऽवाह॑म्। ह॒वा॒म॒हे॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.४। 
+सुऽजा॑तम्। जा॒तऽवे॑दसम्। अ॒ग्निम्। वै॒श्वा॒न॒रम्। वि॒ऽभुम्। ह॒व्य॒ऽवाह॑म्। ह॒वा॒म॒हे॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रचेता अग्निः
@@ -288,18 +304,22 @@ We invoke the oblation-bearer, well-born Agni Jatavedas, Him, Vaisvanara, almigh
 - अनुष्टुप्
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कष्ट हटाने के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सुजातम्) बड़े प्रसिद्ध, (जातवेदसम्) उत्पन्न पदार्थों के जाननेवाले अथवा धन प्राप्त कराने हारे (वैश्वानरम्) सब नरों [नायकों] के हित करनेवाले, (विभुम्) सर्वशक्तिमान्, (हव्यवाहम्) उत्तम अन्न पहुँचानेवाले (अग्निम्) सर्वव्यापक परमेश्वर को (हवामहे) हम पुकारते हैं, (सः) वह (नः) हमें (अंहसः) कष्ट से (मुञ्चतु) छुड़ावे ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर के गुण और कर्मों को जानकर मनुष्य अपना सामर्थ्य बढ़ावें और परस्पर उपकार करके आनन्दित रहें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(सुजातम्) जनी प्रादुर्भावे-क्त। सुप्रसिद्धम् (जातवेदसम्) म० २। जातानां वेदितारम्। धनस्य जनयितारं प्रापकम्। (अग्निम्) सर्वव्यापकम् (वैश्वानरम्) अ० १।१०।४। सर्वेषां नराणां नायकानां हितम् (विभुम्) विप्रसंभ्यो ड्वसंज्ञायाम्। पा० ३।२।१८०। इति वि+भू डु। सर्वगतम्। प्रभुम् (हव्यवाहम्) हव्यं वहतीति। हव्य+वह-अण्। अन्नप्रापकम् (हवामहे) आह्वयामः। अन्यद् गतम् ॥
@@ -313,15 +333,6 @@ We invoke the oblation-bearer, well-born Agni Jatavedas, Him, Vaisvanara, almigh
 
 ये᳓न ऋ᳓षयो बल᳓म᳓द्योतयन्युजा᳓ ये᳓ना᳓सुराणाम᳓युवन्त मायाः᳓।  
 ये᳓नाग्नि᳓ना पणी᳓नि᳓न्द्रो जिगा᳓य स᳓ नो मुञ्चत्वं᳓हसः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/05_yena_RShayo.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-येन॒ ऋष॑यो ब॒लमद्यो॑तयन्यु॒जा येनासु॑राणा॒मयु॑वन्त मा॒याः।  
-येना॒ग्निना॑ प॒णीनिन्द्रो॑ जि॒गाय॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/05_yena_RShayo.md">
@@ -339,14 +350,23 @@ Ppp. makes in **a** the combination *yena rṣ-*, and reads in **b**
 gives *uddyotayan;* a few of the mss. (including our Bp.K.) have  
 *-tayam*.
 </details>
+
 <details><summary>Griffith</summary>
 
 With whom as friend the Rishis gave their power new splendour, with whom they kept aloof the Asuras' devices, Agni, with whom Indra subdued the Panis. May he deliver us. from grief and trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+येन॒ ऋष॑यो ब॒लमद्यो॑तयन्यु॒जा येनासु॑राणा॒मयु॑वन्त मा॒याः।  
+येना॒ग्निना॑ प॒णीनिन्द्रो॑ जि॒गाय॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-येन॑। ऋष॑यः। ब॒लम्। अद्यो॑तयन्। यु॒जा। येन॑। असु॑राणाम्। अयु॑वन्त। मा॒याः। येन॑। अ॒ग्निना॑। प॒णीन्। इन्द्रः॑। जि॒गाय॑। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.५। 
+येन॑। ऋष॑यः। ब॒लम्। अद्यो॑तयन्। यु॒जा। येन॑। असु॑राणाम्। अयु॑वन्त। मा॒याः। येन॑। अ॒ग्निना॑। प॒णीन्। इन्द्रः॑। जि॒गाय॑। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रचेता अग्निः
@@ -354,18 +374,22 @@ With whom as friend the Rishis gave their power new splendour, with whom they ke
 - त्रिष्टुप्
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कष्ट हटाने के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (येन) जिस (युजा) मित्र परमेश्वर के साथ (ऋषयः) ऋषिः लोगों ने (बलम्) बल (अद्योतयन्) प्रकाशित किया है, और (येन) जिसके साथ (असुराणाम्) असुरों की (मायाः) मायाओं [छलों] को (अयुवन्त) हटाया है। और (येन) जिस (अग्निना) सर्वव्यापक परमेश्वर के साथ (इन्द्रः) बड़े ऐश्वर्यवाले पुरुष ने (पणीन्) कुव्यवहारी मनुष्यों को (जिगाय) जीता है, (सः) वह (नः) हमें (अंहसः) कष्ट से (मुञ्चतु) छुड़ावे ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस परमात्मा का आश्रय लेकर सूक्ष्मदर्शी महात्माओं ने सत्य का प्रकाश और असत्य का नाश किया है और जिस पर विश्वास करके प्रतापी मनुष्यों ने दुष्टों को जीता है, उसी परमात्मा की शरण लेकर हम विघ्नों को हटा कर सुख पावें ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(येन) अग्निना परमेश्वरेण (ऋषयः) अ० २।६।१। ऋषिर्दर्शनात्-निरु० २।१। साक्षात्कृतधर्म्माणः। सन्मार्गदर्शकाः। अतीन्द्रियार्थदर्शिनः (बलम्) सामर्थ्यम् (अद्योतयन्) द्युत दीप्तौ णिचि लङि रूपम्। अदीपयन् (युजा) सख्या, मित्रेण सह (असुराणाम्) सुरविरोधिनाम्। खलानाम् (अयुवन्त) यु मिश्रणामिश्रणयोः−आत्मनेपदं छान्दसम्। अयुवन्। पृथक् कृतवन्तः (मायाः) माछाशसिभ्यो यः। उ० ४।१०९। इति माङ् माने-य। टाप्। प्रज्ञाः-निघ० ३।९। छलानि। मिथ्याजालान् (अग्निना) परमात्मना (पणीन्) सर्वधातुभ्य इन्। उ० ४।११८। इति पण व्यवहारे स्तुतौ च-इन्। पणिर्वणिग्भवति पणिः पणनात्-निरु० २।१७। कुव्यवहारिणः पुरुषान् (इन्द्रः) परमैश्वर्य्यवान् पुरुषः (जिगाय) जि जये-लिट्। जितवान् अन्यत् पूर्ववत् म० १ ॥
@@ -381,15 +405,6 @@ With whom as friend the Rishis gave their power new splendour, with whom they ke
 ये᳓न देवाः᳓ स्व᳙रा᳓भरन्त्स᳓ नो मुञ्चत्वं᳓हसः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/06_yena_devA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-येन॑ दे॒वा अ॒मृत॑म॒न्ववि॑न्द॒न्येनौष॑धी॒र्मधु॑मती॒रकृ॑ण्वन्।  
-येन॑ दे॒वाः स्व१॒॑राभ॑र॒न्त्स नो॑ मुञ्च॒त्वंह॑सः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/06_yena_devA.md">
 <details open><summary><h3>०६ येन देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -403,14 +418,23 @@ us from distress.
 The comm. takes *amṛta* in **a** as meaning the drink of immortality;  
 more probably it signifies immortality itself.
 </details>
+
 <details><summary>Griffith</summary>
 
 Through whom the Gods discovered life eternal, through whom they stored the plants with pleasant juices, Through whom they brought to men the light of heaven. May he deliver us from grief and trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+येन॑ दे॒वा अ॒मृत॑म॒न्ववि॑न्द॒न्येनौष॑धी॒र्मधु॑मती॒रकृ॑ण्वन्।  
+येन॑ दे॒वाः स्व१॒॑राभ॑र॒न्त्स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-येन॑। दे॒वाः। अ॒मृत॑म्। अ॒नु॒ऽअवि॑न्दन्। येन॑। ओष॑धीः। मधु॑ऽमतीः। अकृ॑ण्वन्। येन॑। दे॒वाः। स्वः᳡। आ॒ऽअभ॑रन्। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.६। 
+येन॑। दे॒वाः। अ॒मृत॑म्। अ॒नु॒ऽअवि॑न्दन्। येन॑। ओष॑धीः। मधु॑ऽमतीः। अकृ॑ण्वन्। येन॑। दे॒वाः। स्वः᳡। आ॒ऽअभ॑रन्। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रचेता अग्निः
@@ -418,18 +442,22 @@ Through whom the Gods discovered life eternal, through whom they stored the plan
 - प्रस्तारपङ्क्ति
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कष्ट हटाने के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (येन) जिसके द्वारा (देवाः) विद्वान् देवताओं ने (अमृतम्) अमरपन [मृत्यु से छुटकारा अर्थात् मोक्ष वा कीर्ति] को (अनु-अविन्दन्) अनन्तर पाया है, और (येन) जिसके आश्रय से (ओषधीः) यव आदि पदार्थों को (मधुमतीः) मधुर रसवाली (अकृण्वन्) बनाया है, और (येन) जिसके द्वारा (देवाः) देवताओं ने (स्वः) स्वर्ग अर्थात् महा आनन्द (आ अभरन्) यथावत् धारण किया है, (सः) वह (नः) हमें (अंहसः) कष्ट से (मुञ्चतु) छुड़ावे ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस परमेश्वर की महिमा से महापुरुषों ने पुरुषार्थ करके अमरपन अर्थात् सुन्दर नाम प्राप्त किया है, और सांसारिक पदार्थों से विज्ञानपूर्वक उपकार लेकर अत्यन्त सुख पाया है, उसी जगदीश्वर के आश्रय से हम भी उद्योग करके दुःख से छूटें ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(येन) अग्निना परमेश्वरेण (देवाः) विद्वांसः (अमृतम्) अमरत्वम्। मोक्षम् (अनु-अविन्दन्) विद्लृ लाभे-लङ्। अनुक्रमेण अलभन्त (ओषधीः) व्रीहियवाद्यास्तरुगुल्माद्याश्च (मधुमतीः) मधुररसयुक्ताः (अकृण्वन्) अकुर्वन् (स्वः) स्वर्गं सुखम् (आ-अभरन्) डुभृञ् धारणपोषणयोः-लङ् सम्यग् अधारयन्। अलभन्तेत्यर्थः। अन्यत् पूर्ववत् ॥
@@ -443,15 +471,6 @@ Through whom the Gods discovered life eternal, through whom they stored the plan
 
 य᳓स्येदं᳓ प्रदि᳓शि य᳓द्विरो᳓चते य᳓ज्जातं᳓ जनितव्यं᳙ च के᳓वलम्।  
 स्तौ᳓म्यग्निं᳓ नाथितो᳓ जोहवीमि स᳓ नो मुञ्चत्वं᳓हसः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यस्ये॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते॒ यज्जा॒तं ज॑नित॒व्यं॑ च॒ केव॑लम्।  
-स्तौम्य॒ग्निं ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">
@@ -469,14 +488,23 @@ nimiṣád yád éjati yásya jātáṁ jánamānaṁ ca kévalam*. The comm. re
 *nāthitas* first by *nāthamānaḥ, phalaṁ kāmayamānaḥ*, and then by  
 *nāthaḥ svāmī saṁjāto ‘sya*.
 </details>
+
 <details><summary>Griffith</summary>
 
 I, suppliant, praise and ever call on Agni, sole Lord of all this world, of all that shineth, Of what exists and shall exist hereafter. May he deliver us from grief and trouble.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्ये॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते॒ यज्जा॒तं ज॑नित॒व्यं॑ च॒ केव॑लम्।  
+स्तौम्य॒ग्निं ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्य॑। इ॒दम्। प्र॒ऽदिशि॑। यत्। वि॒ऽरोच॑ते। यत्। जा॒तम्। ज॒नि॒त॒व्य᳡म्। च॒। केव॑लम्। स्तौमि॑। अ॒ग्निम्। ना॒थि॒तः। जो॒ह॒वी॒मि॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.७। 
+यस्य॑। इ॒दम्। प्र॒ऽदिशि॑। यत्। वि॒ऽरोच॑ते। यत्। जा॒तम्। ज॒नि॒त॒व्य᳡म्। च॒। केव॑लम्। स्तौमि॑। अ॒ग्निम्। ना॒थि॒तः। जो॒ह॒वी॒मि॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रचेता अग्निः
@@ -484,18 +512,22 @@ I, suppliant, praise and ever call on Agni, sole Lord of all this world, of all 
 - त्रिष्टुप्
 - पापमोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कष्ट हटाने के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (केवलम्) केवल (यस्य) जिस परमेश्वर के (प्रदिशि) शासन में (इदम्) यह [जगत्] है, अर्थात् (यत्) जो कुछ (विरोचते) चमकता है, और (यत्) जो कुछ (जातम्) उत्पन्न हुआ है (च) और (जनितव्यम्) उत्पन्न होगा। (नाथितः) मैं भक्त (अग्निम्) उस सर्वव्यापक परमेश्वर को (स्तौमि) सराहता हूँ और (जोहवीमि) बारंबार पुकारता हूँ। (सः) वह (नः) हमे (अंहसः) कष्ट से (मुञ्चतु) छुड़ावे ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जगत्पिता परमेश्वर की आज्ञा में यह सब जगत् वर्तमान है, उसीकी प्रार्थना उपासना करके मनुष्य अपने विघ्नों को हटाकर सदा धर्म में प्रवृत्त होकर प्रसन्न रहें ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(यस्य) अग्नेः परमेश्वरस्य (इदम्) परिदृश्यमानं जगत् (प्रदिशि) प्रदेशने। प्रशासने (यत्) (विरोचते) विविधं दीप्यते (यत्) (जातम्) उत्पन्नम् (जनितव्यम्) जनयितव्यम्। जनिष्यमाणम् (च) समुच्चये (केवलम्) अ० ३।१८।२। निश्चितम्। अनन्यसाधारणम् (स्तौमि) प्रशंसामि (अग्निम्) सर्वव्यापकं परमेश्वरम् (नाथितः) तदस्य संजातं तारकादिभ्य इतच्। पा० ५।२।३६। इति नाथ-इतच्। नाथः स्वामी संजातो यस्य स नाथितः। नाथवान्। भक्तः (जोहवीमि) अ० २।१२।३। पुनः पुनराह्वयामि। अन्यद् व्याख्याम् म० १ ॥

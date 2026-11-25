@@ -8,15 +8,18 @@ title = "०२१ छन्दांसि"
 
 21. The meters.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 छन्दांसि।  
 १ ब्रह्मा। छन्दांसि। एकावसाना द्विपदा साम्नी बृहती।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ekarcam. chāndasam. 1-av. 2-p. sāmnī bṛhatī.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ title = "०२१ छन्दांसि"
 #### Translations
 Translated: Griffith, ii. 279.
 </details>
+
 <details><summary>Griffith</summary>
 
 A single line giving the names of the chief Vedic metres
@@ -38,14 +42,6 @@ A single line giving the names of the chief Vedic metres
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 गा᳙यत्र्यु᳙ष्णि᳓गनुष्टु᳓ब्बृहती᳓ पङ्क्ति᳓स्त्रिष्टु᳓ब्ज᳓गत्यै ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-गा॑य॒त्र्यु१॒॑ष्णिग॑नु॒ष्टुब्बृ॑ह॒ती प॒ङ्क्तिस्त्रि॒ष्टुब्जग॑त्यै ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
@@ -71,14 +67,22 @@ the separate accentuation, the nominative form *pan̄ktís*, and the
 division by the Anukr. into two pādas (in the *pada*-mss., after  
 *anuṣṭúp*) all speak against it. The mss. accent *triṣṭúb jágatyāi*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Gayatri, Ushnih, Anushtup, Brihati, Trishtup, Jagati.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+गा॑य॒त्र्यु१॒॑ष्णिग॑नु॒ष्टुब्बृ॑ह॒ती प॒ङ्क्तिस्त्रि॒ष्टुब्जग॑त्यै ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-गा॒य॒त्री। उ॒ष्णिक्। अ॒नु॒ऽस्तुप्। बृ॒ह॒ती। प॒ङ्क्ति। त्रि॒ऽस्तुप्। जग॑त्यै। २१.१। 
+गा॒य॒त्री। उ॒ष्णिक्। अ॒नु॒ऽस्तुप्। बृ॒ह॒ती। प॒ङ्क्ति। त्रि॒ऽस्तुप्। जग॑त्यै। २१.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - छन्दांसि
@@ -86,18 +90,22 @@ Gayatri, Ushnih, Anushtup, Brihati, Trishtup, Jagati.
 - एकावसाना द्विपदा साम्नी बृहती
 - छन्दासि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 महाशान्ति के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (गायत्री) गायत्री [गाने योग्य] (उष्णिक्) उष्णिक् [बड़े स्नेहवाली] (बृहती) बृहती [बढ़ती हुई], (पङ्क्तिः) पङ्क्ति [विस्तारवाली], (त्रिष्टुप्) [तीन कर्म, उपासना, ज्ञान से सत्कार की गयी], (अनुष्टुप्) अनुष्टुप् [निरन्तर पूजने योग्य वेदवाणी] (जगत्यै) जगती [चलते हुए जगत् के हित के लिये] है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को परमेश्वरोक्त वेदवाणी द्वारा कर्म, उपासना और ज्ञान में तत्पर होकर संसार का हित करना चाहिये ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   सूचना−गायत्री २४, उष्णिक् २८, अनुष्टुप् ३२, बृहती ३६, पङ्क्ति ४०, त्रिष्टुप् ४४ और जगती ४८ अक्षर के छन्द विशेष भी हैं, परन्तु इस पक्ष में अर्थ की सङ्गति विचारणीय है ॥१−(गायत्री) अ०८।९।१४। अमिनक्षियजि०। उ०३।१०५। गै गाने-अत्रन्, णित्, युक् ङीप् च। गायत्री गायतेः स्तुतिकर्मणः-निरु०७।१२। गानयोग्या। छन्दोविशेषोऽपि (उष्णिक्) ऋत्विग्दधृक्स्त्रग्दिगुष्णिग्०। पा०३।२।५९। उत्+ष्णिह प्रीतौ स्नेहने च-क्विन्। उष्णिगुत्स्नाता भवति, स्निह्यतेर्वा स्यात्कान्तिकर्मण उष्णीषिणी वेत्यौपमिकमुष्णीषं स्नायतेः-निरु०७।१२। उत्कर्षेण स्नेहिनी। प्रीतिमती (अनुष्टुप्) अ०८।९।१४। अनु+ष्टुभ पूजायाम्-क्विप्। स्तोभतिरर्चतिकर्मा-निघ०३।१४। अनुष्टुब् वाङ्नाम-निघ०१।११। निरन्तरं स्तुतियोग्या वेदवाणी। छन्दोविशेषोऽपि (बृहती) अ०१।१७।४। वर्तमाने पृषद्बृहन्महज्जगच्०। उ०२।८४। बृह वृद्धौ-अति, ङीष्। बृहती परिबर्हणात्-निरु०७।१२। प्रवर्धमाना। छन्दोविशेषोऽपि (पङ्क्तिः) अ०९।१०।२१। पचि व्यक्तीकरणे-क्तिन्। पङ्क्तिः पञ्चपदा-निरु०७।१२। विस्तारवती। छन्दोविशेषोऽपि (त्रिष्टुप्) अ०८।९।१४। त्रि+ष्टुभ पूजायाम्-क्विप्। स्तोभतिरर्चतिकर्मा-निघ०३।१४। त्रिष्टुप् स्तोभत्युत्तरपदा-निरु०७।१२। त्रिभिः कर्मोपासनाज्ञानैः पूजिता। छन्दोविशेषोऽपि (जगत्यै) अ०८।९।१४। वर्तमाने पृषद्बृहन्महज्जगच्। उ०२।८४। गम्लृ गतौ-अति, ङीप्, जगते संसारहिताय। जगतीति छन्दोविशेषोऽपि ॥

@@ -8,15 +8,18 @@ title = "११४ उन्मोचनम्"
 
 114. Against disability in sacrifice.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 उन्मोचनम्।  
 १-३ ब्रह्म। विश्वे देवाः। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—vāiśvadevam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -31,15 +34,6 @@ The whole hymn is found in TB. (in ii. 4. 48-9), with mā for nas in c as the on
 
 य᳓द्देवा देवहे᳓डनं दे᳓वासश्चकृमा वय᳓म्।  
 आ᳓दित्यास्त᳓स्मान्नो यूय᳓मृत᳓स्यर्ते᳓न मुञ्चत ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/01_yaddevA_devaheDanam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यद्दे॑वा देव॒हेड॑नं॒ देवा॑सश्चकृमा व॒यम्।  
-आदि॑त्या॒स्तस्मा॑न्नो यू॒यमृ॒तस्य॒र्तेन॑ मुञ्चत ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/01_yaddevA_devaheDanam.md">
@@ -67,14 +61,23 @@ xx. 14 has our **a, b**, without variant ⌊and adds the **c, d** of TB.
 ii. 6. 6⌋. ⌊In **b**, MS. iv. 14. 17 has *yád vācā́ ’nṛtam ódima*  
 (accent! Kaṭha *ūdimá*).⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Whatever God-provoking wrong we priests have done, O Deities. Therefrom do ye deliver us, Adityas! by the right of Law.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्दे॑वा देव॒हेड॑नं॒ देवा॑सश्चकृमा व॒यम्।  
+आदि॑त्या॒स्तस्मा॑न्नो यू॒यमृ॒तस्य॒र्तेन॑ मुञ्चत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। दे॒वाः॒। दे॒व॒ऽहेड॑नम्। देवा॑सः। च॒कृ॒मः। व॒यम्। आदि॑त्याः। तस्मा॑त्। नः॒। यू॒यम्। ऋ॒तस्य॑। ऋ॒तेन॑। मु॒ञ्च॒त॒। ११४.१। 
+यत्। दे॒वाः॒। दे॒व॒ऽहेड॑नम्। देवा॑सः। च॒कृ॒मः। व॒यम्। आदि॑त्याः। तस्मा॑त्। नः॒। यू॒यम्। ऋ॒तस्य॑। ऋ॒तेन॑। मु॒ञ्च॒त॒। ११४.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वे देवाः
@@ -82,18 +85,22 @@ Whatever God-provoking wrong we priests have done, O Deities. Therefrom do ye de
 - अनुष्टुप्
 - उन्मोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पाप से मुक्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवाः) हे विद्वानो ! (देवासः) खेल करते हुए (वयम्) हम लोगों ने (यत्) जो (देवहेडनम्) विद्वानों का अनादर (चकृम) किया है। (आदित्याः) सूर्यसमान तेजस्वी ! (यूयम्) तुम लोग (तस्मात्) उस [पाप] से (नः) हमको (ऋतस्य) धर्म के (ऋतेन) सत्य व्यवहार द्वारा (मुञ्चत) छुड़ाओ ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  यदि मनुष्यों से प्रमाद के कारण विद्वानों का अनादर हो जाये तो उनको योग्य है कि वे धार्मिक व्यवहार करके विद्वानों को प्रसन्न करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यत्) (देवाः) हे विद्वांसः (देवहेडनम्) हेडृ अनादरे−ल्युट्। विदुषामनादरम् (देवासः) देवाः क्रीडकाः (चकृम) कृतवन्तः (वयम्) मनुष्याः (आदित्याः) अ० १।९।१। सूर्यवत्तेजस्विनः (तस्मात्) पापात् (यूयम्) (ऋतस्य) धर्मस्य (ऋतेन) सत्यव्यवहारेण ॥
@@ -107,15 +114,6 @@ Whatever God-provoking wrong we priests have done, O Deities. Therefrom do ye de
 
 ऋत᳓स्यर्ते᳓नादित्या य᳓जत्रा मुञ्च᳓तेह᳓ नः।  
 यज्ञं᳓ य᳓द्यज्ञवाहसः शिक्षन्तो नो᳓पशेकिम᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ऋ॒तस्य॒र्तेना॑दित्या॒ यज॑त्रा मु॒ञ्चते॒ह नः॑।  
-य॒ज्ञं यद्य॑ज्ञवाहसः शिक्षन्तो॒ नोप॑शेकि॒म ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
@@ -138,14 +136,23 @@ as nominative. The comm. explains *śikṣantas* by *niṣpādayitum
 icchantas*. ⌊For the *pada* blunder, cf. vi. 74. 2.⌋ \*⌊Whitney's  
 collations seem clearly to give Bp.²p.m.I.H.D. as reading *-śekimá.⌋*
 </details>
+
 <details><summary>Griffith</summary>
 
 Here set us free, O holy ones, Adityas, by the right of Law. When striving, bringing sacrifice, we failed to offer it aright.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋ॒तस्य॒र्तेना॑दित्या॒ यज॑त्रा मु॒ञ्चते॒ह नः॑।  
+य॒ज्ञं यद्य॑ज्ञवाहसः शिक्षन्तो॒ नोप॑शेकि॒म ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋ॒तस्‍य॑। ऋ॒तेन॑। आ॒दि॒त्याः॒। यज॑त्राः। मु॒ञ्चत॑। इ॒ह। नः॒। य॒ज्ञम्। यत्। य॒ज्ञ॒ऽवा॒ह॒सः॒। शिक्ष॑न्तः। न। उ॒प॒ऽशे॒कि॒म। ११४.२। 
+ऋ॒तस्‍य॑। ऋ॒तेन॑। आ॒दि॒त्याः॒। यज॑त्राः। मु॒ञ्चत॑। इ॒ह। नः॒। य॒ज्ञम्। यत्। य॒ज्ञ॒ऽवा॒ह॒सः॒। शिक्ष॑न्तः। न। उ॒प॒ऽशे॒कि॒म। ११४.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वे देवाः
@@ -153,18 +160,22 @@ Here set us free, O holy ones, Adityas, by the right of Law. When striving, brin
 - अनुष्टुप्
 - उन्मोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पाप से मुक्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (आदित्याः) हे विद्या से प्रकाशमान (यजत्राः) पूजनीय संगतियोग्य पुरुषो ! (ऋतस्य) धर्म के (ऋतेन) सत्य व्यवहार से (इह) इस [पापकर्म] में (नः) हमें (मुञ्चत) मुक्त करो। (यत्) क्योंकि (यज्ञवाहसः) हे यज्ञ अर्थात् परमेश्वर की उपासना वा शिल्पविद्या प्राप्त करानेवाले महाशयो ! (यज्ञम्) देवताओं की पूजा (शिक्षन्तः) करने की इच्छा करते हुए हम लोग (न उपशेकिम) उसे न कर सके ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् लोग प्रमादी आलसी पुरुषों को धार्मिक व्यवहारों में लगाकर पुरुषार्थी बनावें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(ऋतस्य) धर्मस्य (ऋतेन) सत्यव्यवहारेण (आदित्याः) हे विद्यया प्रकाशमानाः (यजत्राः) अमिनक्षियजि०। उ० ३।१०५। इति यजेरत्रन्। यष्टव्याः। पूजनीयाः संगमनीया (मुञ्चत) वियोजयत (इह) अस्मिन् पापकर्मणि (नः) अस्मान् (यज्ञम्) देवपूजनम् (यत्) यस्मात्कारणात् (यज्ञवाहसः) वहिहाधाञ्भ्यश्छन्दसि। उ० ४।२२१। इति वहेरसुन्। हे यज्ञस्य परमेश्वरोपासनस्य शिल्पज्ञानस्य वा प्रापकाः (शिक्षन्तः) शक्लृ शक्तौ सनि। सनि मीमाघुरभलभशक०। पा० ७।४।५४। इत्यचः स्थान इस्। अत्र लोपोऽभ्यासस्य। पा० ७।४।५८। इत्यभ्यासलोपः। शक्तुं निष्पादयितुमिच्छन्तः (न) निषेधे (उपशेकिम) शक्लृ−लिट्। कर्तुं शक्ता बभूविम ॥
@@ -178,15 +189,6 @@ Here set us free, O holy ones, Adityas, by the right of Law. When striving, brin
 
 मे᳓दस्वता य᳓जमानाः स्रुचा᳓ज्यानि जु᳓ह्वतः।  
 अ᳙कामा᳓ विश्वे वो देवाः शि᳓क्षन्तो नो᳓प शेकिम ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/03_medasvatA_yajamAnAH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मेद॑स्वता॒ यज॑मानाः स्रु॒चाज्या॑नि॒ जुह्व॑तः।  
-अ॑का॒मा वि॑श्वे वो देवाः॒ शिक्ष॑न्तो॒ नोप॑ शेकिम ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/03_medasvatA_yajamAnAH.md">
@@ -206,14 +208,23 @@ wrongly admits into his text. TB. has (also Ppp.) *ā́jyena* in **b**;
 also it reads *vo viśve devāḥ* in **c**;, and, of course, *śekima* at  
 the end; Ppp. *śeṣima*.
 </details>
+
 <details><summary>Griffith</summary>
 
 With ladle full of fatness we, worshippers, pouring holy oil, Striving, have failed, O all ye Gods, against our will, to offer it.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मेद॑स्वता॒ यज॑मानाः स्रु॒चाज्या॑नि॒ जुह्व॑तः।  
+अ॑का॒मा वि॑श्वे वो देवाः॒ शिक्ष॑न्तो॒ नोप॑ शेकिम ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मेद॑स्वता। यज॑मानाः। स्रु॒चा। आज्या॑नि। जुह्व॑तः। अ॒का॒माः। वि॒श्वे॒। वः॒। दे॒वाः॒। शिक्ष॑न्तः। न। उप॑। शे॒कि॒म॒। ११४.३। 
+मेद॑स्वता। यज॑मानाः। स्रु॒चा। आज्या॑नि। जुह्व॑तः। अ॒का॒माः। वि॒श्वे॒। वः॒। दे॒वाः॒। शिक्ष॑न्तः। न। उप॑। शे॒कि॒म॒। ११४.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वे देवाः
@@ -221,18 +232,22 @@ With ladle full of fatness we, worshippers, pouring holy oil, Striving, have fai
 - अनुष्टुप्
 - उन्मोचन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पाप से मुक्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यजमानाः) यजमान, ईश्वर उपासक वा पदार्थों के संयोग वियोग करनेवाले विज्ञानी लोग (मेदस्वता) चिकने घृत आदि पदार्थवाले (स्रुचा) स्रुवा [चमसे] से (आज्यानि) यज्ञ के साधन, घृत, तेज आदि द्रव्यों को (जुह्वतः) होमते हुए [रहते हैं] ! (विश्वे देवाः) हे सब विद्वानों ! (वः) तुम्हारी (अकामाः) कामना न करनेवाले (शिक्षन्तः) [यज्ञ] करने की इच्छा करते हुए हम लोग (न उप शेकिम) उसे न कर सके ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य वैज्ञानिक विद्वानों के समान विद्वानों का सत्कार करके विज्ञानसिद्ध ईश्वरविद्या और शिल्पविद्या को प्राप्त करें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(मेदस्वता) मेदृ मेधाहिंसनयोः−असुन्। स्निग्धपदार्थयुक्तेन (यजमानाः) ईश्वरोपासकाः। पदार्थ- संयोजकवियोजका विज्ञानिनः (स्रुचा) अ० ५।२७।५। स्रु−चिक्। स्रावयन्ति गमयन्ति हविर्येन तेन। स्रुवेण। यज्ञपात्रेण (आज्यानि) अ ५।८।१। योगक्रियासाधनानि घृततैलादिकानि (जुह्वतः) समर्पयन्तः (अकामाः) कामनारहिताः (विश्वे) सर्वे (वः) युष्माकम् (देवाः) विद्वांसः। अन्यद्यथा−म० २ ॥

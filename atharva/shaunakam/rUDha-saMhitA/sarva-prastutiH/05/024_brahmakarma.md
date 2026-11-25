@@ -8,15 +8,18 @@ title = "०२४ ब्रह्मकर्म"
 
 24. To various gods as overlords.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मकर्म  
 १-१७ अथर्वा। ब्रह्मकर्मात्मा, १ सविता, २ अग्निः, ३ द्यावापृथिवी, ४ वरुणः, ५ मित्रावरुणौ, ६ मरुतः, ७ सोमः, ८ वायुः, ९ सूर्यः, १० चन्द्रमाः, ११ इन्द्रः, १२ मरुतां पिता, १३ मृत्युः, १४ यमः, १५ पितरः, १६ तताः, १७ ततामहाः। अतिशक्वरी, १-१०, १२-१४ चतुष्पदातिशक्वरी, ११ शक्वरी, १५-१६ त्रिपदा भुरिग्जगती, १७ त्रिपदा विराट् शक्वरी।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—saptadaśakam. brahmakarmātmadevatyam. atiśākvaram: 1-17. 4-p. atiśakvarī; 11. śakvarī; 15-17. 3-p. (15, 16. bhurig atijagatī; 17. virāṭ śakvarī).]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ title = "०२४ ब्रह्मकर्म"
 #### Translations
 Translated: Griffith, i. 228; Weber, xviii. 260.—Cf. Weber's Rājasūya, Berliner Abh., 1893, p. 142.
 </details>
+
 <details><summary>Griffith</summary>
 
 A priest's prayer for protection and assistance
@@ -40,16 +44,6 @@ A priest's prayer for protection and assistance
 स᳙विता᳓ प्रसवा᳓नाम᳓धिपतिः स᳓ मावतु।  
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓।  
 चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/01_savitA_prasavAnAmadhipatiH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स॑वि॒ता प्र॑स॒वाना॒मधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां।  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/01_savitA_prasavAnAmadhipatiH.md">
@@ -75,14 +69,24 @@ definitions of the parts of the hymn are not worth tracing out and
 noting. In our edition, the accent mark under the first syllable of  
 *ā́kūtyām* is a misprint, and to be removed.
 </details>
+
 <details><summary>Griffith</summary>
 
 Savitar, Lord of furthering aids, protect me, in this my prayer, in this mine act, in this my sacerdotal charge, in this perfor- mance, in this thought, in this my plan and wish, in this my calling on the Gods! All hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑वि॒ता प्र॑स॒वाना॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां।  
+चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒वि॒ता। प्र॒ऽस॒वाना॑म्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। ब्रह्म॑णि। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१। 
+स॒वि॒ता। प्र॒ऽस॒वाना॑म्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। ब्रह्म॑णि। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सविता
@@ -90,18 +94,22 @@ Savitar, Lord of furthering aids, protect me, in this my prayer, in this mine ac
 - अतिशक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सविता) सब का उत्पन्न करनेवाला वा सम्पूर्ण ऐश्वर्यवाला जगदीश्वर (प्रसवानम्) उत्पन्न पदार्थों वा अच्छे-अच्छे ऐश्वर्यों का (अधिपतिः) अधिष्ठाता है, (सः) वह (मा) मुझे (अवतु) बचावे। (अस्मिन्) इस (ब्रह्मणि) बड़े वेदज्ञान में, (अस्मिन्) इस (कर्मणि) कर्तव्य कर्म में, (अस्याम्) इस (पुरोधायाम्) पुरोहित पदवी में, (अस्याम्) इस (प्रतिष्ठायाम्) प्रतिष्ठा वा सत्क्रिया में, (अस्याम्) इस (चित्याम्) चेतना में, (अस्याम्) इस (आकूत्याम्) इस संकल्प वा उत्साह में, (अस्याम्) इस (आशिषि) अनुशासन में, और (अस्याम्) इस (देवहूत्याम्) विद्वानों के बुलावे में, (स्वाहा) यह आशीर्वाद हो ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य जगत्पति परमात्मा का आश्रय लेकर अपने सब उत्तम कार्य पुरुषार्थपूर्वक सिद्ध करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(सविता) सर्वोत्पादकः। सर्वैश्वर्यवान् परमेश्वरः (प्रसवानाम्) प्रसूतानामुत्पन्नानां पदार्थानां प्रकृष्टैश्वर्याणां वा (अधिपतिः) अधिष्ठाता (सः) (मा) माम् (अवतु) पालयतु (अस्मिन्) पुरोवर्त्तिनि (ब्रह्मणि) बृहति वेदज्ञाने (अस्मिन्) (कर्मणि) वेदोक्तकर्तव्ये व्रते (अस्याम्) उपस्थितायाम् (पुरोधायाम्) पुरस्+डुधाञ् धारणपोषणयोः−अङ्, टाप्। पुरोहितपदव्याम्। मुख्यपदे (प्रतिष्ठायाम्) प्रति+ष्ठा गतिनिवृत्तौ−अङ्, टाप्। सुकृतौ (चित्याम्) चिती संज्ञाने−क्तिन्। चेतनायाम् (आकूत्याम्) कुङ् शब्दे−क्तिन्। संकल्पे। उत्साहे (आशिषि) आङ्+शासु अनुशिष्टौ−क्विप्। आशासः क्वावुपधाया इत्वं वाच्यम्। वा० पा० ६।४।३४। इति इत्वम्। अनुशासने (देवहूत्याम्) ह्वेञ् आह्वाने−क्तिन्। विदुषामावाहने (स्वाहा) अ० २।१६।१। सु+आङ्+ह्वेञ्−डा। सुवाणी। आशीर्वादः ॥
@@ -117,15 +125,6 @@ Savitar, Lord of furthering aids, protect me, in this my prayer, in this mine ac
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/02_agnirvanaspatInAmadhipatiH_sa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒ग्निर्वन॒स्पती॑ना॒मधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/02_agnirvanaspatInAmadhipatiH_sa.md">
 <details open><summary><h3>०२ अग्निर्वनस्पतीनामधिपतिः स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -137,14 +136,23 @@ Savitar, Lord of furthering aids, protect me, in this my prayer, in this mine ac
 This is the eighth item in Ppp. In TS. and PGS., Agni is made lord of  
 beings (*bhūtá*); in śśS., of the earth.
 </details>
+
 <details><summary>Griffith</summary>
 
 May Agni, Lord of forest trees, protect, me, in, etc.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्निर्वन॒स्पती॑ना॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। वन॒स्पती॑नाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.२। 
+अ॒ग्निः। वन॒स्पती॑नाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -152,18 +160,22 @@ May Agni, Lord of forest trees, protect, me, in, etc.
 - अतिशक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्निः) [पार्थिव] अग्नि (वनस्पतीनाम्) सेवकों के रक्षकों वा वृक्षों का (अधिपतिः) अधिष्ठाता है, (सः) वह (मा) मुझे (अवतु) बचावे... म० १ ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य पार्थिव अग्नि के प्रभाव से उत्पन्न हुए पदार्थों द्वारा बल बढ़ा कर अपनी रक्षा करें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(अग्निः) पार्थिवाग्निः (वनस्पतीनाम्) अ० १।१२।३। स्वसेवकानां पालकानां वृक्षाणां वा। अन्यद् यथा म० १ ॥
@@ -177,15 +189,6 @@ May Agni, Lord of forest trees, protect, me, in, etc.
 
 द्या᳓वापृथिवी᳓ दातॄणा᳓म᳓धिपत्नी स᳓ मावतु।  
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/03_dyAvApRthivI_dAtRRNAmadhipatnI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-द्यावा॑पृथि॒वी दा॑तॄ॒णामधि॑पत्नी॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/03_dyAvApRthivI_dAtRRNAmadhipatnI.md">
@@ -203,14 +206,23 @@ similar cases, the mss. make very awkward work of writing the *tṝ* of
 *trṛ*, one (K.) *ttṛ*, and a few (O.D.R.) correctly *tṝ;* the edited  
 text has wrongly *trā*.
 </details>
+
 <details><summary>Griffith</summary>
 
 May Heaven and Earth, the Queens of bounties, save me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+द्यावा॑पृथि॒वी दा॑तॄ॒णामधि॑पत्नी॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द्यावा॑पृथि॒वी इति॑। दा॒तृ॒णाम्। अधि॑पत्नी॒ इत्यधि॑पत्नी। ते। इति। मा। अवताम्। अस्मिन्। ब्रह्मणि। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। । २४.३। 
+द्यावा॑पृथि॒वी इति॑। दा॒तृ॒णाम्। अधि॑पत्नी॒ इत्यधि॑पत्नी। ते। इति। मा। अवताम्। अस्मिन्। ब्रह्मणि। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। । २४.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - द्यावापथिवी
@@ -218,18 +230,22 @@ May Heaven and Earth, the Queens of bounties, save me.
 - अतिशक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (द्यावापृथिवी) सूर्य और पृथिवी (दातॄणाम्) दाताओं की (अधिपत्नी) अधिष्ठात्री हैं, (ते) वे दोनों (मा) मुझे (अवताम्) बचावे, म० १ ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सूर्य द्वारा वृष्टि और प्रकाश पृथिवी में प्रविष्ट होकर सब पदार्थ उत्पन्न करते हैं, मनुष्य उन पदार्थों से प्रयत्नपूर्वक अपना पालन करें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(द्यावापृथिवी) सूर्यभूमी (दातॄणाम्) दानशीलानाम् (अधिपत्नी) अधिष्ठात्र्यौ (ते) उभे (मा) माम् (अवताम्) रक्षताम् ॥
@@ -245,15 +261,6 @@ May Heaven and Earth, the Queens of bounties, save me.
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/04_varuNo-pAmadhipatiH_sa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वरु॑णो॒ऽपामधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/04_varuNo-pAmadhipatiH_sa.md">
 <details open><summary><h3>०४ वरुणोऽपामधिपतिः स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -265,14 +272,23 @@ May Heaven and Earth, the Queens of bounties, save me.
 This item stands second in Ppp.; TS. has it also; but in śśS., Varuṇa is  
 addressed as overlord of ordinances (*dharma*).
 </details>
+
 <details><summary>Griffith</summary>
 
 May Varuna, the Lord of waters, save me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वरु॑णो॒ऽपामधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वरु॑णः। अ॒पाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.४। 
+वरु॑णः। अ॒पाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वरुणः
@@ -280,18 +296,22 @@ May Varuna, the Lord of waters, save me.
 - अतिशक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वरुणः) वरणीय मेघ (अपाम्) जलधाराओं का (अधिपतिः) अधिष्ठाता है, (सः) वह (मा) मुझे (अवतु) बचावे.... म० १ ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मेघ से वृष्टि होकर पृथिवी के पदार्थ उत्पन्न होते हैं, उनसे मनुष्य अपनी रक्षा करे ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(वरुणः) वरणीयो मेघः (अपाम्) जलधाराणाम् ॥
@@ -307,15 +327,6 @@ May Varuna, the Lord of waters, save me.
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/05_mitrAvaruNau_vRShTyAdhipatI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मि॒त्रावरु॑णौ वृ॒ष्ट्याधि॑पती॒ तौ मा॑वताम्।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/05_mitrAvaruNau_vRShTyAdhipatI.md">
 <details open><summary><h3>०५ मित्रावरुणौ वृष्ट्याधिपती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -328,14 +339,23 @@ This item is wanting in all the other texts. The mss. all read *vṛṣṭyā́
 ’dhip-* (p. *vṛṣṭyā́: ádhip-*), the error doubtless originating in a  
 double *saṁdhi*, such as is extremely frequent in Ppp.
 </details>
+
 <details><summary>Griffith</summary>
 
 May Mitra-Varuna, Lords of rain, preserve me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मि॒त्रावरु॑णौ वृ॒ष्ट्याधि॑पती॒ तौ मा॑वताम्।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मि॒त्रावरु॑णौ। वृ॒ष्ट्याः। अधि॑पती॒ इत्यधि॑ऽपती। तौ। मा॒। अ॒व॒ता॒म्। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.५। 
+मि॒त्रावरु॑णौ। वृ॒ष्ट्याः। अधि॑पती॒ इत्यधि॑ऽपती। तौ। मा॒। अ॒व॒ता॒म्। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मित्रावरुणौ
@@ -343,18 +363,22 @@ May Mitra-Varuna, Lords of rain, preserve me.
 - अतिशक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मित्रावरुणौ) प्राण और अपान वायु (वृष्ट्या=वृष्ट्याः) वृष्टि के (अधिपती) दो अधिष्ठाता हैं, (तौ) वे दोनों (मा) मुझे (अवताम्) बचावें... म० १ ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  प्राण वायु जल को पृथिवी से मेघमण्डल में ले जाता, और अपान वायु वहाँ से जल को पृथिवी पर बरसाता है, उससे उत्पन्न हुए पदार्थों द्वारा मनुष्य अपनी रक्षा करे ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(मित्रावरुणौ) अ० १।२०।२। प्राणापानौ (वृष्ट्या) सुपां सुलुक्०। पा० ७।१।३९। इति षष्ठ्या आकारः। वृष्ट्याः (अधिपती) अधिष्ठातारौ (तौ) (मा) माम् (अवताम्) रक्षताम् ॥
@@ -370,15 +394,6 @@ May Mitra-Varuna, Lords of rain, preserve me.
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/06_marutaH_parvatAnAmadhipatayaste.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-म॒रुतः॒ पर्व॑ताना॒मधि॑पतय॒स्ते मा॑वन्तु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/06_marutaH_parvatAnAmadhipatayaste.md">
 <details open><summary><h3>०६ मरुतः पर्वतानामधिपतयस्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -390,14 +405,23 @@ May Mitra-Varuna, Lords of rain, preserve me.
 According to Ppp. (11) and TS., Vishṇu is overlord of the mountains; TS.  
 sets the Maruts over the troops (*gaṇa*), and śśS. gives them no place.
 </details>
+
 <details><summary>Griffith</summary>
 
 Lords of the mountains, may the Maruts save me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+म॒रुतः॒ पर्व॑ताना॒मधि॑पतय॒स्ते मा॑वन्तु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-म॒रुतः॑। पर्व॑तानाम्। अधि॑ऽपतयः। ते। मा॒। अ॒व॒न्तु। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.६। 
+म॒रुतः॑। पर्व॑तानाम्। अधि॑ऽपतयः। ते। मा॒। अ॒व॒न्तु। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुद्गणः
@@ -405,18 +429,22 @@ Lords of the mountains, may the Maruts save me.
 - अतिशक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मरुतः) ऋत्विक् लोग (पर्वतानाम्) पहाड़ों के (अधिपतयः) अधिष्ठाता हैं, (ते) वे (मा) मुझे (अवन्तु) बचावें,... म० १ ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  याजक लोग पर्वत आदि स्थानों से ओषधि आदि उत्तम पदार्थों को लाकर उनसे संसार का उपकार करते हैं। उनसे प्रत्येक मनुष्य उपकार लेकर अपनी रक्षा करें ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(मरुतः) अ० १।२०।१। ऋत्विजः−निघ० ३।१८। याजकाः (पर्वतानाम्) शैलानाम्। तत्रस्थौषधीनाम् (अधिपतयः) अधिष्ठातारः (ते) (मा) (अवन्तु) रक्षन्तु ॥
@@ -432,15 +460,6 @@ Lords of the mountains, may the Maruts save me.
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/07_somo_vIrudhAmadhipatiH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सोमो॑ वी॒रुधा॒मधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/07_somo_vIrudhAmadhipatiH.md">
 <details open><summary><h3>०७ सोमो वीरुधामधिपतिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -452,14 +471,23 @@ Lords of the mountains, may the Maruts save me.
 In Ppp. (14) Soma is overlord of milks (*payasām*); in TS. and śśS., of  
 herbs.
 </details>
+
 <details><summary>Griffith</summary>
 
 May, Soma, Lord of plants and herbs, protect me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोमो॑ वी॒रुधा॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सोमः॑। वी॒रुधा॑म्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.७। 
+सोमः॑। वी॒रुधा॑म्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सोमः
@@ -467,18 +495,22 @@ May, Soma, Lord of plants and herbs, protect me.
 - अतिशक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सोमः) ऐश्वर्य का कारण सोमलता (वीरुधाम्) उगनेवाली जड़ी बूटियों का (अधिपतिः) अधिष्ठाता है, (सः) वह (मा) मुझे (अवतु) बचावे,... म० १ ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य उत्तम औषधियों के सेवन से यथावत् रक्षा करे ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(सोमः) अ० १।६।२। ऐश्वर्यहेतुः सोमलता−निरु० १४।१२। (वीरुधाम्) अ० १।३२।१। विरोहणशीलानां लतानाम् ॥
@@ -494,15 +526,6 @@ May, Soma, Lord of plants and herbs, protect me.
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/08_vAyurantarixasyAdhipatiH_sa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वा॒युर॒न्तरि॑क्ष॒स्याधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/08_vAyurantarixasyAdhipatiH_sa.md">
 <details open><summary><h3>०८ वायुरन्तरिक्षस्याधिपतिः स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -513,14 +536,23 @@ May, Soma, Lord of plants and herbs, protect me.
 ##### Notes
 Here Ppp. (3) and the other texts give the same overlordship.
 </details>
+
 <details><summary>Griffith</summary>
 
 May Vayu, Lord of middle air, protect me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वा॒युर॒न्तरि॑क्ष॒स्याधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वा॒यु। अ॒न्तरि॑क्षस्य। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.८। 
+वा॒यु। अ॒न्तरि॑क्षस्य। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वायुः
@@ -528,18 +560,22 @@ May Vayu, Lord of middle air, protect me.
 - अतिशक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वायुः) वायु (अन्तरिक्षस्य) मध्य लोक का (अधिपतिः) अधिष्ठाता है, (सः) वह... म० १ ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य वायुसंचार का यथावत् गुण जानकर उत्तम कामों में सदा प्रवृत्त रहें ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(वायुः) पवनः (अन्तरिक्षस्य) अ० १।३०।३। मध्यलोकस्य ॥
@@ -555,15 +591,6 @@ May Vayu, Lord of middle air, protect me.
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/09_sUryashchaxuShAmadhipatiH_sa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सूर्य॒श्चक्षु॑षा॒मधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/09_sUryashchaxuShAmadhipatiH_sa.md">
 <details open><summary><h3>०९ सूर्यश्चक्षुषामधिपतिः स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -576,14 +603,23 @@ favor etc. etc.
 In Ppp. (4), the sun is called overlord of heaven (*div*); and so also  
 in TS.; but śśS. sets him over the asterisms.
 </details>
+
 <details><summary>Griffith</summary>
 
 May Surya, sovran Lord of eyes, protect me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सूर्य॒श्चक्षु॑षा॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सूर्यः॑। चक्षु॑षाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.९। 
+सूर्यः॑। चक्षु॑षाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सूर्यः
@@ -591,18 +627,22 @@ May Surya, sovran Lord of eyes, protect me.
 - अतिशक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सूर्यः) सूर्य (चक्षुषाम्) नेत्रों का (अधिपतिः) बड़ा रक्षक है, (सः) वह... म० १ ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सूर्य से प्रकाश द्वारा सब मनुष्य दर्शन शक्ति पाते हैं, मनुष्य अपनी दृष्टि को उत्तम कर्मों के देखने के लिये सदा स्थिर रक्खें ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(सूर्यः) अ० १।३।५। कर्मसु प्रेरकः प्रकाशपिण्डविशेषः (चक्षुषाम्) दृष्टीनाम् ॥
@@ -618,15 +658,6 @@ May Surya, sovran Lord of eyes, protect me.
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/10_chandramA_naxatrANAmadhipatiH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-च॒न्द्रमा॒ नक्ष॑त्राणा॒मधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/10_chandramA_naxatrANAmadhipatiH.md">
 <details open><summary><h3>१० चन्द्रमा नक्षत्राणामधिपतिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -638,14 +669,23 @@ May Surya, sovran Lord of eyes, protect me.
 This item comes fifth in Ppp.; TS. has it also; in śśS. the moon is not  
 mentioned, while the asterisms, as noted above, are put under the sun.
 </details>
+
 <details><summary>Griffith</summary>
 
 May the Moon, Lord of constellations, save me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+च॒न्द्रमा॒ नक्ष॑त्राणा॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-च॒न्द्रमाः॑। नक्ष॑त्राणाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१०। 
+च॒न्द्रमाः॑। नक्ष॑त्राणाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - चन्द्रमाः
@@ -653,18 +693,22 @@ May the Moon, Lord of constellations, save me.
 - अतिशक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (चन्द्रमाः) आनन्द देनेवाला चन्द्र (नक्षत्राणाम्) चलनेवाले अश्विनी आदि नक्षत्रों का (अधिपतिः) अधिष्ठाता है (सः)... वह म० १ ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  चन्द्रमा अश्विनी आदि नक्षत्रों का स्वामी होकर शुक्लपक्ष कृष्णपक्ष आदि काल बनाता है और अन्न आदि ओषधियों को पुष्ट करता है, उस चन्द्रमा के गुण जानकर मनुष्य सदा आनन्द भोगें ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(चन्द्रमाः) चन्द्रमानन्दं मिमीते। चन्द्रे मो डित्। उ० ४।२२८। इति चन्द्र+माङ् माने−असि, स च डित्। चन्द्रमाश्चायन् द्रमति चन्द्रो माता चान्द्रं मानमस्येति वा। चन्द्रश्चन्दतेः कान्तिकर्मणः−निरु० ११।५। चन्द्रलोकः (नक्षत्राणाम्) अ० ३।७।७। गतिशीलानां खगोलस्थानामश्विन्यादिसप्तविंशति-तारकाणाम् ॥
@@ -680,15 +724,6 @@ May the Moon, Lord of constellations, save me.
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/11_indro_divo-dhipatiH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इन्द्रो॑ दि॒वोऽधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/11_indro_divo-dhipatiH.md">
 <details open><summary><h3>११ इन्द्रो दिवोऽधिपतिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -700,14 +735,23 @@ May the Moon, Lord of constellations, save me.
 In Ppp. (9) Indra is overlord of acts or rites (*kárman*); in TS. and  
 śśS., of chiefs (*jyeṣṭhá*).
 </details>
+
 <details><summary>Griffith</summary>
 
 May Indra who is Lord of heaven protect me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रो॑ दि॒वोऽधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। दि॒वः। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.११। 
+इन्द्रः॑। दि॒वः। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.११।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रः
@@ -715,18 +759,22 @@ May Indra who is Lord of heaven protect me.
 - शक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इन्द्रः) बिजुली (दिवः) व्यवहार का (अधिपतिः) अधिष्ठाता है (सः) वह... म० १ ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब पदार्थों में बिजुली के कारण चेष्टा होकर व्यवहार की सिद्धि होती है, मनुष्य उसके गुण जान कर यथावत् उपकार करें ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(इन्द्रः) विद्युत्−दयानन्दभाष्ये य० २८।१७। (दिवः) दिवु व्यवहारे−डिवि। व्यवहारस्य ॥
@@ -742,15 +790,6 @@ May Indra who is Lord of heaven protect me.
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/12_marutAM_pitA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-म॒रुतां॑ पि॒ता प॑शू॒नामधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/12_marutAM_pitA.md">
 <details open><summary><h3>१२ मरुतां पिता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -763,14 +802,23 @@ etc.
 In Ppp. (13) and in TS., this overlordship is ascribed, equivalently, to  
 Rudra; it is wanting in śśS.
 </details>
+
 <details><summary>Griffith</summary>
 
 The Maruts' father, Lord of cattle, save me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+म॒रुतां॑ पि॒ता प॑शू॒नामधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-म॒रुता॑म्। पि॒ता। प॒शू॒नाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१२। 
+म॒रुता॑म्। पि॒ता। प॒शू॒नाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुत्पिता
@@ -778,18 +826,22 @@ The Maruts' father, Lord of cattle, save me.
 - अतिशक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मरुताम्) सुवर्ण आदि धनों का (पिता) पालक (पशूनाम्) सब जीवों का (अधिपतिः) अधिष्ठाता है, (सः) वह... म० १ ॥१२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सुवर्ण आदि धनकी रक्षा करके परस्पर उन्नति करें ॥१२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १२−(मरुताम्) अ० १।२०।१। हिरण्यानाम्−निघ० १।२। (पिता) पालकः (पशूनाम्) अ० १।१५।२। दृष्टिमतां जीवानाम् ॥
@@ -805,15 +857,6 @@ The Maruts' father, Lord of cattle, save me.
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/13_mRtyuH_prajAnAmadhipatiH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मृ॒त्युः प्र॒जाना॒मधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/13_mRtyuH_prajAnAmadhipatiH.md">
 <details open><summary><h3>१३ मृत्युः प्रजानामधिपतिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -825,14 +868,23 @@ The Maruts' father, Lord of cattle, save me.
 In Ppp. (18) it is Prajāpati instead of death; and so also in śśS.; TS.  
 has nothing corresponding.
 </details>
+
 <details><summary>Griffith</summary>
 
 May Mrityu, Lord of living creatures, save me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मृ॒त्युः प्र॒जाना॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मृ॒त्युः। प्र॒ऽजाना॑म्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१३। 
+मृ॒त्युः। प्र॒ऽजाना॑म्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मृत्युः
@@ -840,18 +892,22 @@ May Mrityu, Lord of living creatures, save me.
 - अतिशक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मृत्युः) मृत्यु (प्रजानाम्) उत्पन्न प्राणियों का (अधिपतिः) अधिष्ठाता है (सः) वह... म० १ ॥१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य मृत्यु की प्रबलता पर ध्यान देकर सब शुभ काम शीघ्र सिद्ध करें ॥१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १३−(मृत्युः) अ० १।३०।३। मरणम् (प्रजानाम्) उत्पन्नानां शरीरिणाम् ॥
@@ -865,15 +921,6 @@ May Mrityu, Lord of living creatures, save me.
 
 यमः᳓ पितॄणा᳓म᳓धिपतिः स᳓ मावतु।  
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/14_yamaH_pitRRNAmadhipatiH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-य॒मः पि॑तॄ॒णामधि॑पतिः॒ स मा॑वतु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/14_yamaH_pitRRNAmadhipatiH.md">
@@ -891,14 +938,23 @@ mitráḥ satyā́nām* (śśS. the same), *samudráḥ srotyā́nām, ánnaṁ
 sā́ṁrājyānām, tváṣṭā rūpā́ṇām* (śśS. *tv. samidhāṁ rūpāṇām*); śśS. has  
 only those already given.
 </details>
+
 <details><summary>Griffith</summary>
 
 May Yama, Regent of the Fathers, save me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+य॒मः पि॑तॄ॒णामधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-य॒मः। पि॒तृ॒णाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१४। 
+य॒मः। पि॒तृ॒णाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - यमः
@@ -906,18 +962,22 @@ May Yama, Regent of the Fathers, save me.
 - अतिशक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यमः) नियम (पितॄणाम्) रक्षक पुरुषों का (अधिपतिः) अधिष्ठाता है। (सः) वह (मा) मुझे (अवतु) बचावे... म० १ ॥१४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य नियमपूर्वक रक्षा करके यथावत् लाभ उठावें ॥१४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १४−(यमः) नियमः। संयमः (पितॄणाम्) पातॄणां रक्षकाणां पुरुषाणाम् ॥
@@ -933,15 +993,6 @@ May Yama, Regent of the Fathers, save me.
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/15_pitaraH_pare.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पि॒तरः॒ परे॑ ते मावन्तु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/15_pitaraH_pare.md">
 <details open><summary><h3>१५ पितरः परे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -951,14 +1002,23 @@ May Yama, Regent of the Fathers, save me.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 May the Forefathers of old time protect me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पि॒तरः॒ परे॑ ते मावन्तु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पि॒तरः॑। परे॑। ते। मा॒। अ॒व॒न्तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१५। 
+पि॒तरः॑। परे॑। ते। मा॒। अ॒व॒न्तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पितरगणः
@@ -966,18 +1026,22 @@ May the Forefathers of old time protect me.
 - त्रिपदा भुरिग्जगती
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (परे) पूर्व काल में वर्तमान (ते) वे (पितरः) रक्षक लोग (मा) मुझे (अवन्तु) बचावें... म० १ ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य प्रसिद्ध पूर्वज महात्माओं का अनुकरण करके सदा वृद्धि करें ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १५−(पितरः) पालकाः (परे) पूर्वकाले वर्तमानः (ते) प्रसिद्धाः (मा) माम् (अवन्तु) रक्षन्तु ॥
@@ -993,15 +1057,6 @@ May the Forefathers of old time protect me.
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/16_tatA_avare.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-त॒ता अव॑रे ते मावन्तु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/16_tatA_avare.md">
 <details open><summary><h3>१६ तता अवरे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1011,14 +1066,23 @@ May the Forefathers of old time protect me.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 May Fathers of succeeding ages save me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+त॒ता अव॑रे ते मावन्तु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त॒ताः। अव॑रे। ते। मा॒। अ॒व॒न्तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१६। 
+त॒ताः। अव॑रे। ते। मा॒। अ॒व॒न्तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - तताः पितरगणः
@@ -1026,18 +1090,22 @@ May Fathers of succeeding ages save me.
 - त्रिपदा भुरिग्जगती
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अवरे) पिछले काल में वर्तमान (ते) वे (तताः=ताताः) विस्तार करनेवाले पूज्य पुरुष (मा) मुझे (अवन्तु) बचावें... म० १ ॥१६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य वर्तमान काल के महापुरुषों के समान कार्य सिद्ध करके सदा उन्नति करें ॥१६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १६−(तताः) तनोति विस्तारयतीति तातः। दुतनिभ्यां दीर्घश्च। उ० ३।९०। इति तनु विस्तारे−क्त। छान्दसो ह्रस्वः। ताताः। विस्तारशीलाः पूज्याः (अवरे) पश्चात् काले वर्तमानाः। इदानीन्तनाः। अन्यद् गतम् ॥
@@ -1051,15 +1119,6 @@ May Fathers of succeeding ages save me.
 
 तत᳓स्ततामहा᳓स्ते मावन्तु।  
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓ चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/17_tatastatAmahAste_mAvantu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-त॒तस्त॑ताम॒हास्ते॑ मावन्तु।  
-अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/17_tatastatAmahAste_mAvantu.md">
@@ -1080,14 +1139,23 @@ naḥ* etc., with which MS. agrees. Two of our mss. (O.D.) begin vs. 17
 with *tatás tat-*; the rest have *tátas*, and our printed text follows  
 them.
 </details>
+
 <details><summary>Griffith</summary>
 
 Next may the Fathers of our fathers save me, in this my prayer,. in this mine act, in this my sacerdotal charge, in this perfor- mance, in this thought, in this my plan and wish, in this my calling on the Gods! All hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+त॒तस्त॑ताम॒हास्ते॑ मावन्तु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त॒तः। त॒ता॒म॒हाः। ते। मा॒। अ॒व॒न्तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१७। 
+त॒तः। त॒ता॒म॒हाः। ते। मा॒। अ॒व॒न्तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - तता महापितरगणः
@@ -1095,18 +1163,22 @@ Next may the Fathers of our fathers save me, in this my prayer,. in this mine ac
 - त्रिपदा विराट्शक्वरी
 - ब्रह्मकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रक्षा के लिये प्रयत्न का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ततः) और भी (ते) वे (ततामहाः=तातामहाः) पूजनीयों के पूजनीय पुरुष (मा) मुझे (अवन्तु) बचावें, (अस्मिन्) इस (ब्रह्मणि) वेदज्ञान में, (अस्मिन् कर्मणि) इस कर्तव्य व्रत में, (अस्याम् पुरोधायाम्) इस पुरोहित पदवी में, (अस्याम् प्रतिष्ठायाम्) इस प्रतिष्ठा वा सत्क्रिया में, (अस्याम् चित्त्याम्) इस चेतना में, (अस्याम् आकूत्याम्) इस संकल्प वा उत्साह में, (अस्याम् आशिषि) इस अनुशासन में, और (अस्याम् देवहूत्याम्) इस विद्वानों के बुलावे में, (स्वाहा) यह आशीर्वाद हो ॥१७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य बड़ों से बड़े विद्वान्, योगी, शूर वीरों के आचरणों पर पूर्ण ध्यान देकर सदा शुभ कर्म करके परस्पर प्रीति और उन्नति करें ॥१७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १७−(ततः) अनन्तरम् (ततामहाः) म० १६। मातृपितृभ्यां पितरि डामहच्। वा० पा० ४।२।२६। इति तात−डामहच्, छान्दसो ह्रस्वः। पितॄणां पितरः। पूजनीयानां पूज्याः। अन्यद् गतम् ॥

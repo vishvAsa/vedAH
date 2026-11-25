@@ -8,15 +8,18 @@ title = "०२७ सुरक्षा"
 
 27. For protection etc.: with a triple amulet.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 सुरक्षा।  
 १-१५ भृग्वङ्गिराः। त्रिवृत्, चन्द्रमाश्च। अनुष्टुप्, ३, ९ त्रिष्टुप्, १० जगती, ११ आर्ची उष्णिक्, १२ आर्च्यनुष्टुप्, १३ साम्नी त्रिष्टुप् (११-१३ एकावसानाः)।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgvan̄giras.—pañcadaśakam. trivṛddevatyam uta cāndramasam. ānuṣṭubham: 3, 9. triṣṭubh; 10. jagatī ⌊? see under the verse⌋; 11. ārcy uṣṇih; 12. ārcy anuṣṭubh; 13. sāmnī triṣṭubh (11-13. 1-av.).]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -27,6 +30,7 @@ Found (except verses 12 and 13) also in Pāipp. x. The comm. quotes from the Nak
 #### Translations
 Translated: Griffith, ii. 283.
 </details>
+
 <details><summary>Griffith</summary>
 
 A benedictory hymn
@@ -40,15 +44,6 @@ A benedictory hymn
 
 गो᳓भिष्ट्वा पात्वृषभो᳓ वृ᳓षा त्वा पातु वाजि᳓भिः।  
 वायु᳓ष्ट्वा ब्र᳓ह्मणा पात्वि᳓न्द्रस्त्वा पात्विन्द्रियैः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/01_gobhiShTvA_pAtvRShabho.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-गोभि॑ष्ट्वा पात्वृष॒भो वृषा॑ त्वा पातु वा॒जिभिः॑।  
-वा॒युष्ट्वा॒ ब्रह्म॑णा पा॒त्विन्द्र॑स्त्वा पात्विन्द्रि॒यैः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/01_gobhiShTvA_pAtvRShabho.md">
@@ -69,14 +64,23 @@ three different and equally worthless explanations. To *indriya* he says
 *indriyāṇy atre ’ndrasṛṣṭānī ’ndrajuṣṭāni vā*, which gives us no help.  
 \*⌊But the text of the comm. has *pātv ṛṣabhas*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Let the Bull guard thee with the kine, the Stallien with the fleet- foot steeds. Let Vayu keep thee safe with prayer, and Indra with his mighty power.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+गोभि॑ष्ट्वा पात्वृष॒भो वृषा॑ त्वा पातु वा॒जिभिः॑।  
+वा॒युष्ट्वा॒ ब्रह्म॑णा पा॒त्विन्द्र॑स्त्वा पात्विन्द्रि॒यैः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-गोभिः॑। त्वा॒। पा॒तु॒। ऋ॒ष॒भः। वृषा॑। त्वा॒। पा॒तु॒। वा॒जिऽभिः॑। वा॒युः। त्वा॒। ब्रह्म॑णा। पा॒तु॒। इन्द्रः॑। त्वा॒। पा॒तु॒। इ॒न्द्रि॒यैः। २७.१। 
+गोभिः॑। त्वा॒। पा॒तु॒। ऋ॒ष॒भः। वृषा॑। त्वा॒। पा॒तु॒। वा॒जिऽभिः॑। वा॒युः। त्वा॒। ब्रह्म॑णा। पा॒तु॒। इन्द्रः॑। त्वा॒। पा॒तु॒। इ॒न्द्रि॒यैः। २७.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -84,18 +88,22 @@ Let the Bull guard thee with the kine, the Stallien with the fleet- foot steeds.
 - अनुष्टुप्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (ऋषभः) सर्वदर्शक परमेश्वर (गोभिः) गौओं के साथ (त्वा) तुझे (पातु) बचावे, (वृषा) वीर्यवान् [परमेश्वर] (वाजिभिः) फुरतीले घोड़ों के साथ (त्वा) तुझे (पातु) बचावे। (वायुः) सर्वत्रगामी [परमेश्वर] (ब्रह्मणा) बढ़ते हुए अन्न के साथ (त्वा) तुझे (पातु) बचावे, (इन्द्रः) परम ऐश्वर्यवान् [जगदीश्वर] (इन्द्रियैः) परम ऐश्वर्य के व्यवहारों के साथ (त्वा) तुझे (पातु) बचावे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमात्मा के श्रेष्ठ गुणों का चिन्तन करके अनेक पुरुषार्थों के साथ रक्षा करे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(गोभिः) धेनुभिः (त्वा) (पातु) (ऋषभः) ऋषिवृषिभ्यां कित्। उ०३।१२३। ऋष गतौ दर्शने च-अभच्, कित्। ऋषिर्दर्शनात्-निरु०२।११। सर्वदर्शकः परमेश्वरः (वृषा) वीर्यवान् (त्वा) (पातु) (वाजिभिः) वेगवद्भिरश्वैः (वायुः) सर्वत्रगामी परमेश्वरः (त्वा) (ब्रह्मणा) प्रवृद्धेनान्नेन-निघ०२।७ (पातु) (इन्द्रः) परमैश्वर्यवान्। जगदीश्वरः (पातु) (इन्द्रियैः) परमैश्वर्यव्यवहारैः ॥
@@ -109,15 +117,6 @@ Let the Bull guard thee with the kine, the Stallien with the fleet- foot steeds.
 
 सो᳓मस्त्वा पात्वो᳓षधीभिर्न᳓क्षत्रैः पातु सू᳓र्यः।  
 माद्भ्य᳓स्त्वा चन्द्रो᳓ वृत्रहा᳓ वा᳓तः प्राणे᳓न रक्षतु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/02_somastvA_pAtvoShadhIbhirnaxatraiH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सोम॑स्त्वा पा॒त्वोष॑धीभि॒र्नक्ष॑त्रैः पातु॒ सूर्यः॑।  
-मा॒द्भ्यस्त्वा॑ च॒न्द्रो वृ॑त्र॒हा वातः॑ प्रा॒णेन॑ रक्षतु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/02_somastvA_pAtvoShadhIbhirnaxatraiH.md">
@@ -137,14 +136,23 @@ in 22. 1, above). The comm. makes *nakṣatra* here refer to the planets,
 most unnecessarily; he reads in **d** *rakṣati*, but glosses it with  
 *rakṣatu*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Let Soma guard thee with the plants, Surya protect thee with the stars; With breath let Wind protect thee, and the Moon, foe-slayer, with the months.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोम॑स्त्वा पा॒त्वोष॑धीभि॒र्नक्ष॑त्रैः पातु॒ सूर्यः॑।  
+मा॒द्भ्यस्त्वा॑ च॒न्द्रो वृ॑त्र॒हा वातः॑ प्रा॒णेन॑ रक्षतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सोमः॑। त्वा॒। पा॒तु॒। ओष॑धीभिः। नक्ष॑त्रैः। पा॒तु॒। सूर्यः॑। मा॒त्ऽभ्यः। त्वा॒। च॒न्द्रः। वृ॒त्र॒ऽहा। वातः॑। प्रा॒णेन॑। र॒क्ष॒तु॒। २७.२। 
+सोमः॑। त्वा॒। पा॒तु॒। ओष॑धीभिः। नक्ष॑त्रैः। पा॒तु॒। सूर्यः॑। मा॒त्ऽभ्यः। त्वा॒। च॒न्द्रः। वृ॒त्र॒ऽहा। वातः॑। प्रा॒णेन॑। र॒क्ष॒तु॒। २७.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -152,18 +160,22 @@ Let Soma guard thee with the plants, Surya protect thee with the stars; With bre
 - अनुष्टुप्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सोमः) सोमरस (ओषधीभिः) ओषधियों के साथ (त्वा) तुझे (पातु) बचावे, (सूर्यः) सबका चलानेवाला सूर्य (नक्षत्रैः) नक्षत्रों के साथ (पातु) बचावे। (वृत्रहा) अन्धकारनाशक (चन्द्रः) आनन्दप्रद चन्द्रमा (माद्भ्यः) महीनों के लिये और (वातः) पवन (प्राणेन) प्राण [जीवनसामर्थ्य] के साथ (त्वा) तुझे (पातु) बचावे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य ओषधि आदि संसार के सब पदार्थों से उपकार लेकर सुखी होवें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(सोमः) सोमरसः (त्वा) (पातु) (ओषधीभिः) (नक्षत्रैः) (पातु) (सूर्यः) लोकानां प्रेरक आदित्यः (माद्भ्यः) मासानां हिताय (त्वा) (चन्द्रः) आह्लादकश्चन्द्रमाः (वृत्रहा) शत्रुनाशकः (वातः) पवनः (प्राणेन) जीवनसामर्थ्येन (रक्षतु) ॥
@@ -177,15 +189,6 @@ Let Soma guard thee with the plants, Surya protect thee with the stars; With bre
 
 तिस्रो᳓ दि᳓वस्तिस्रः᳓ पृथिवी᳓स्त्री᳓ण्यन्त᳓रिक्षाणि चतु᳓रः समुद्रा᳓न्।  
 त्रिवृ᳓तं स्तो᳓मं त्रिवृ᳓त आ᳓प आहुस्ता᳓स्त्वा रक्षन्तु त्रिवृ᳓ता त्रिवृ᳓द्भिः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/03_tisro_divastisraH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ति॒स्रो दिव॑स्ति॒स्रः पृ॑थि॒वीस्त्रीण्य॒न्तरि॑क्षाणि च॒तुरः॑ समु॒द्रान्।  
-त्रि॒वृतं॒ स्तोमं॑ त्रि॒वृत॒ आप॑ आहु॒स्तास्त्वा॑ रक्षन्तु त्रि॒वृता॑ त्रि॒वृद्भिः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/03_tisro_divastisraH.md">
@@ -211,14 +214,23 @@ reckon *trī́ṇi* to pāda **a** is very harsh. I suspect we have to
 pronounce *pṛthvī́s* in **a**, and to read and pronounce *trī́ṇy  
 antárikṣā* in **b**. Thus the verse scans as 8 + 11: 11 + 11.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Three are the earths, they say, and three the heavens, three are the atmospheres, and four the oceans. Threefold the hymn of praise, threefold the Waters. Let these with triple song and triplets guard thee.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ति॒स्रो दिव॑स्ति॒स्रः पृ॑थि॒वीस्त्रीण्य॒न्तरि॑क्षाणि च॒तुरः॑ समु॒द्रान्।  
+त्रि॒वृतं॒ स्तोमं॑ त्रि॒वृत॒ आप॑ आहु॒स्तास्त्वा॑ रक्षन्तु त्रि॒वृता॑ त्रि॒वृद्भिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ति॒स्रः। दिवः॑। ति॒स्रः। पृ॒थि॒वीः। त्रीणि॑। अ॒न्तरि॑क्षाणि। च॒तुरः॑। स॒मु॒द्रान्। त्रि॒ऽवृत॑म्। स्तोम॑म्। त्रि॒ऽवृतः॑। आपः॑। आ॒हुः॒। ताः। त्वा॒। र॒क्ष॒न्तु॒। त्रि॒ऽवृता॑। त्रि॒वृत्ऽभिः॑। २७.३। 
+ति॒स्रः। दिवः॑। ति॒स्रः। पृ॒थि॒वीः। त्रीणि॑। अ॒न्तरि॑क्षाणि। च॒तुरः॑। स॒मु॒द्रान्। त्रि॒ऽवृत॑म्। स्तोम॑म्। त्रि॒ऽवृतः॑। आपः॑। आ॒हुः॒। ताः। त्वा॒। र॒क्ष॒न्तु॒। त्रि॒ऽवृता॑। त्रि॒वृत्ऽभिः॑। २७.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -226,18 +238,22 @@ Three are the earths, they say, and three the heavens, three are the atmospheres
 - त्रिष्टुप्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [उत्कृष्ट, निकृष्ट, मध्यम होने से] (दिवः) प्रकाशमान पदार्थों को (तिस्रः) तीन, (पृथिवीः) पृथिवी के देशों को (तिस्रः) तीन, (अन्तरिक्षाणि) अन्तरिक्षलोकों को (त्रीणि) तीन, और (समुद्रान्) आत्माओं को [धर्म, अर्थ, काम, मोक्ष के लिये पुरुषार्थी होने से] (चतुरः) चार, (स्तोमम्) स्तुतियोग्य वेद को (त्रिवृतम्) तीन [कर्म, उपासना, ज्ञान] में वर्तमान, (त्रिवृतः) तीन [कर्म, उपासना, ज्ञान] में वर्तमान रहनेवाले (आपः) आप्त प्रजा लोग (आहुः) बताते हैं, (त्रिवृता) तीन [कर्म, उपासना, ज्ञान] में वर्तमान (ताः) वे [प्रजाएँ] (त्वा) तुझको (त्रिवृद्भिः) तीन [कर्म, उपासना और ज्ञानरूप] वृत्तियों के साथ (रक्षन्तु) बचावें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य संसार के पदार्थों के तत्त्वों को जानकर पुरुषार्थ करते हैं, वे सदा सुरक्षित रहते हैं ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(तिस्रः) उत्कृष्टनिकृष्टमध्यमभेदेन त्रिसंख्याकाः (दिवः) प्रकाशमानान् पदार्थान् (तिस्रः) त्रिसंख्याकाः (पृथिवीः) पृथिवीदेशान् (त्रीणि) त्रिसंख्याकानि (अन्तरिक्षाणि) अन्तरिक्षस्थलोकान् (चतुरः) धर्मार्थकाममोक्षेभ्यः पुरुषार्थकरणात् चतुःसंख्याकान् (समुद्रान्) समुद्र आत्मा-निरु०१४।१६। जीवात्मनः (त्रिवतम्) वृतु वर्तने-क्विप्। त्रिषु कर्मोपासनाज्ञानेषु वर्त्तमानम् (स्तोमम्) स्तुत्यं वेदम् (त्रिवृतः) त्रिषु कर्मोपासनाज्ञानेषु वर्तमानाः (आपः) आप्ताः प्रजाः-दयानन्दभाष्ये, यजु०६।२७ (आहुः) कथयन्ति (ताः) प्रजाः (त्वा) (रक्षन्तु) (त्रिवृता) सुपां सुलुक्०। पा०७।१।३९। प्रथमाविभक्तेराकारादेशः। त्रिवृतः। त्रिषु कर्मोपासनाज्ञानेषु वर्तमानाः (त्रिवृद्भिः) तिसृभिः कर्मोपासनाज्ञानरूपाभिर्वृत्तिभिः सह ॥
@@ -251,15 +267,6 @@ Three are the earths, they say, and three the heavens, three are the atmospheres
 
 त्री᳓न्ना᳓कांस्त्री᳓न्समुद्रां᳓स्त्री᳓न्ब्रध्नां᳓स्त्री᳓न्वैष्टपा᳓न्।  
 त्री᳓न्मातरि᳓श्वनस्त्री᳓न्त्सू᳓र्यान्गोप्तॄ᳓न्कल्पयामि ते ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/04_trInnAkAMstrInsamudrAMstrInbradhnAMstrInvaiShTa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-त्रीन्नाकां॒स्त्रीन्स॑मु॒द्रांस्त्रीन्ब्र॒ध्नांस्त्रीन्वै॑ष्ट॒पान्।  
-त्रीन्मा॑त॒रिश्व॑न॒स्त्रीन्त्सूर्या॑न्गो॒प्तॄन्क॑ल्पयामि ते ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/04_trInnAkAMstrInsamudrAMstrInbradhnAMstrInvaiShTa.md">
@@ -287,14 +294,23 @@ irregularity (7 + 7: 9 + 7 = 30). ⌊Roth notes expressly that Ppp. reads
 1st quarto ed. of RV., vol. 1., preface, p. xii; and Pischel, *Gram. der  
 Prakrit-sprachen*, §83.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Three vaults of heaven, and three seas, three bright, three stationary ones, Three Matarisvans, and three suns, protectors, I arrange for thee.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्रीन्नाकां॒स्त्रीन्स॑मु॒द्रांस्त्रीन्ब्र॒ध्नांस्त्रीन्वै॑ष्ट॒पान्।  
+त्रीन्मा॑त॒रिश्व॑न॒स्त्रीन्त्सूर्या॑न्गो॒प्तॄन्क॑ल्पयामि ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्रीन्। नाका॑न्। त्रीन्। स॒मु॒द्रान्। त्रीन्। ब्र॒ध्नान्। त्रीन्। वै॒ष्ट॒पान्। त्रीन्। मा॒त॒रिश्व॑नः। त्रीन्। सूर्या॑न्। गो॒प्तॄन्। क॒ल्प॒या॒मि॒। ते॒। २७.४। 
+त्रीन्। नाका॑न्। त्रीन्। स॒मु॒द्रान्। त्रीन्। ब्र॒ध्नान्। त्रीन्। वै॒ष्ट॒पान्। त्रीन्। मा॒त॒रिश्व॑नः। त्रीन्। सूर्या॑न्। गो॒प्तॄन्। क॒ल्प॒या॒मि॒। ते॒। २७.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -302,18 +318,22 @@ Three vaults of heaven, and three seas, three bright, three stationary ones, Thr
 - अनुष्टुप्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (त्रीन्) तीन [आत्मा, मन और शरीर सम्बन्धी] (नाकान्) सुखों को, (त्रीन्) तीन [ऊपर, नीचे और मध्य में वर्तमान] (समुद्रान्) अन्तरिक्षों को, (त्रीन्) तीन [कर्म, उपासना और ज्ञान] (ब्रध्नान्) बड़े व्यवहारों को, (त्रीन्) तीन [स्थान, नाम और जन्म वा जातिवाले] (वैष्टपान्) संसार निवासियों को, (त्रीन्) तीन [ऊपर नीचे और तिरछे चलनेवाले] (मातरिश्वनः) आकाशगामी पवनों को, और (त्रीन्) तीन [वृष्टि, अन्नोत्पत्ति और पुष्टि करनेवाले] (सूर्यान्) सूर्य [के तापों] को (ते) तेरे (गोप्तॄन्) रक्षक (कल्पयामि) मैं बनाता हूँ ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य पदार्थों के तत्त्वों को यथावत् समझकर उपयोग में लाते हैं, वे उन्नति करते हैं ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   मन्त्र ३,४ का मिलान करो-अ०५।२८।१४, १५॥४−(त्रीन्) आत्ममनःशरीरसम्बन्धिनः (नाकान्) आनन्दान् (त्रीन्) ऊर्ध्वाधोमध्यवर्तमानान् (समुद्रान्) अन्तरिक्षदेशान् (त्रीन्) कर्मोपासनाज्ञानाख्यान् (ब्रध्नान्) बन्धेर्ब्रधिबुधी च। उ०३।५। बन्ध बन्धने-नक्, ब्रधादेशः। ब्रध्नो महन्नाम-निघ०३।३। महतो व्यवहारान् (त्रीन्) स्थाननामजन्माख्याकान् (वैष्टपान्) विटपविष्टपविशिपोलपाः। उ०३।१४५। विश प्रवेशने-कपप्रत्ययः, तुडागमः। विष्टप-अण्। विष्टपेषु भुवनेषु निवासकान् (त्रीन्) ऊर्ध्वाधस्तिर्यग्गतीन् (मातरिश्वनः) मातरि आकाशे श्वयन्ति गच्छन्ति ये तान् पवनान् (त्रीन्) वृष्ट्यन्नोत्पत्तिपुष्टिकारकान् (सूर्यान्) सूर्यप्रदेशान् (गोप्तॄन्) रक्षकान् (कल्पयामि) रचयामि (ते) तव ॥
@@ -327,15 +347,6 @@ Three vaults of heaven, and three seas, three bright, three stationary ones, Thr
 
 घृते᳓न त्वा स᳓मुक्षाम्य᳓ग्न आ᳓ज्येन वर्ध᳓यन्।  
 अग्ने᳓श्चन्द्र᳓स्य सू᳓र्यस्य मा᳓ प्राणं᳓ मायि᳓नो दभन् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/05_ghRtena_tvA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-घृ॒तेन॑ त्वा॒ समु॑क्षा॒म्यग्न॒ आज्ये॑न व॒र्धय॑न्।  
-अ॒ग्नेश्च॒न्द्रस्य॒ सूर्य॑स्य॒ मा प्रा॒णं मा॒यिनो॑ दभन् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/05_ghRtena_tvA.md">
@@ -353,14 +364,23 @@ the favor of the fire etc....thy breath, O man that wearest the
 threefold amulet." Some of SPP's mss. read in **a** *ukhyāmi* and  
 *ukṣyāmi*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Increasing thee with butter I, Agni! with fatness sprinkle thee. Let not magicians harm the life of Agni or of Moon or Sun.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+घृ॒तेन॑ त्वा॒ समु॑क्षा॒म्यग्न॒ आज्ये॑न व॒र्धय॑न्।  
+अ॒ग्नेश्च॒न्द्रस्य॒ सूर्य॑स्य॒ मा प्रा॒णं मा॒यिनो॑ दभन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-घृ॒तेन॑। त्वा॒। सम्। उ॒क्षा॒मि॒। अग्ने॑। आज्ये॑न। व॒र्धय॑न्। अ॒ग्नेः। च॒न्द्रस्य॑। सूर्य॑स्य। मा। प्रा॒णम्। मा॒यिनः॑। द॒भ॒न्। २७.५। 
+घृ॒तेन॑। त्वा॒। सम्। उ॒क्षा॒मि॒। अग्ने॑। आज्ये॑न। व॒र्धय॑न्। अ॒ग्नेः। च॒न्द्रस्य॑। सूर्य॑स्य। मा। प्रा॒णम्। मा॒यिनः॑। द॒भ॒न्। २७.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -368,18 +388,22 @@ Increasing thee with butter I, Agni! with fatness sprinkle thee. Let not magicia
 - अनुष्टुप्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे अग्नि [ के समान तेजस्वी विद्वान् ! ] जैसे अग्नि | को ] (श्राज्येन) घृत से (वर्धयन्) बढ़ाता हुआ मैं (त्वा) तुझे (घृतेन) ज्ञान प्रकाश से (सम्) यथावत् (उक्षामि) बढ़ाता हूं । (अग्ने:) अग्नि के, (चन्द्रस्य) चन्द्रमा केऔर (सूर्यस्य) सूर्य के (प्राणम्) प्रारण [जीवन सामर्थ्य ] को (मायिनः) छली(मा दभन्) नहीं नाश करें ||५||
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब मनुष्य विद्या से पूर्ण होकर और अग्नि, चन्द्रमा और सूर्य आदि की जीवनशक्तियों से यथावत् उपकार लेकर शत्रुओं को वश में करें ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(घृतेन) ज्ञानप्रकाशेन (त्वा) त्वाम् (सम्) सम्यक् (उक्षामि) उक्षण उक्षतेर्वृद्धिकर्मणः-निरु०१२।९। वर्धयमामि (अग्ने) हे अग्निवत्तेजस्विन् विद्वन् (आज्येन) सर्पिषा। होमद्रव्येण (वर्धयन्) प्रवृद्धं कुर्वन्-अग्निं यथा (अग्नेः) पावकस्य (चन्द्रस्य) चन्द्रलोकस्य (सूर्यस्य) भास्करस्य (प्राणम्) जीवनसामर्थ्यम् (मायिनः) छलिनः (मा दभन्) दम्भु दम्भे-लुङ्। मा हिंसन्तु नाशयन्तु ॥
@@ -393,15 +417,6 @@ Increasing thee with butter I, Agni! with fatness sprinkle thee. Let not magicia
 
 मा᳓ वः प्राणं᳓ मा᳓ वोऽपानं᳓ मा᳓ ह᳓रो मायि᳓नो दभन्।  
 भ्रा᳙जन्तो विश्व᳓वेदसो देवा᳓ दै᳓व्येन धावत ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/06_mA_vaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मा वः॑ प्रा॒णं मा वो॑ऽपा॒नं मा हरो॑ मा॒यिनो॑ दभन्।  
-भ्रा॑जन्तो वि॒श्ववे॑दसो दे॒वा दैव्ये॑न धावत ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/06_mA_vaH.md">
@@ -422,14 +437,23 @@ as *śatrubalāpahārakaṁ tejas*. To *dāivyena* in **d** he supplies
 *rathādinā sādhanena vegena vā*. We are tempted to emend at the end to  
 *dāívyenā́ ”dhāvata;* Ppp. reads *māvata* for *dhāvata*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Let not magicians mar your heat, your vital or diffusive breath. Brilliant and all-possessing Gods, run ye your course with God- like power.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मा वः॑ प्रा॒णं मा वो॑ऽपा॒नं मा हरो॑ मा॒यिनो॑ दभन्।  
+भ्रा॑जन्तो वि॒श्ववे॑दसो दे॒वा दैव्ये॑न धावत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मा। वः॒। प्रा॒णम्। मा। वः॒। अ॒पा॒नम्। मा। हरः॑। मा॒यिनः॑। द॒भ॒न्। भ्राज॑न्तः। वि॒श्वऽवे॑दसः। दे॒वाः। दैव्ये॑न। धा॒व॒त॒। २७.६। 
+मा। वः॒। प्रा॒णम्। मा। वः॒। अ॒पा॒नम्। मा। हरः॑। मा॒यिनः॑। द॒भ॒न्। भ्राज॑न्तः। वि॒श्वऽवे॑दसः। दे॒वाः। दैव्ये॑न। धा॒व॒त॒। २७.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -437,18 +461,22 @@ Let not magicians mar your heat, your vital or diffusive breath. Brilliant and a
 - अनुष्टुप्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्यो !] (मा) न तो (वः) तुम्हारे (प्राणम्) श्वास को, (मा) न (वः) तुम्हारे (अपानम्) प्रश्वास को, और (मा) न (हरः) तेज को (मायिनः) छली लोग (दभन्) नष्ट करें। (भ्राजन्तः) चमकते हुए, (विश्ववेदसः) सब प्रकार धनवाले, (देवाः) विद्वानो ! तुम (दैव्येन) विद्वानों के योग्य कर्म के साथ (धावत) धावा करो ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को विद्वानों के समान दूरदर्शी होकर शत्रु लोग रोकने चाहिएँ कि जिससे वे किसी प्रकार हानि न पहुँचावें ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(मा) निषेधे (वः) युष्माकम् (प्राणम्) श्वासम् (मा) (वः) (अपानम्) प्रश्वासम् (हरः) तेजः (मायिनः) छलिनः (मा दभन्) मा नाशयन्तु (भ्राजन्तः) दीप्यमानाः (विश्ववेदसः) सर्वधनाः (देवाः) विद्वांसः (दैव्येन) देव-यञ्। विद्वद्योग्यकर्मणा (धावत) शीघ्रं गच्छत ॥
@@ -462,15 +490,6 @@ Let not magicians mar your heat, your vital or diffusive breath. Brilliant and a
 
 प्राणे᳓नाग्निं᳓ सं᳓ सृजति वा᳓तः प्राणे᳓न सं᳓हितः।  
 प्राणे᳓न विश्व᳓तोमुखं सू᳓र्यं देवा᳓ अजनयन् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/07_prANenAgniM_sam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्रा॒णेना॒ग्निं सं सृ॑जति॒ वातः॑ प्रा॒णेन॒ संहि॑तः।  
-प्रा॒णेन॑ वि॒श्वतो॑मुखं॒ सूर्यं॑ दे॒वा अ॑जनयन् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/07_prANenAgniM_sam.md">
@@ -488,14 +507,23 @@ All the mss. (save one of SPP's, which has *-jāti*) read *sṛjati* in
 emended to *-anti*). Ppp. gives for **a** *prāṇenā ’gniṁ saṁ dadhata*,  
 and ⌊reads and⌋ combines at the end ⌊*suryaṁ*⌋ *devā ’janayan*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Fire they endow with vital breath, Wind is compact, with vital breath: With vital breath the Gods produced the Sun whose face turn every way.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रा॒णेना॒ग्निं सं सृ॑जति॒ वातः॑ प्रा॒णेन॒ संहि॑तः।  
+प्रा॒णेन॑ वि॒श्वतो॑मुखं॒ सूर्यं॑ दे॒वा अ॑जनयन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रा॒णेन॑। अ॒ग्निम्। सम्। सृ॒ज॒ति॒। वातः॑। प्रा॒णेन॑। सम्ऽहि॑तः। प्रा॒णेन॑। वि॒श्वतः॑ऽमुखम्। सूर्य॑म्। दे॒वाः। अ॒ज॒न॒य॒न्। २७.७। 
+प्रा॒णेन॑। अ॒ग्निम्। सम्। सृ॒ज॒ति॒। वातः॑। प्रा॒णेन॑। सम्ऽहि॑तः। प्रा॒णेन॑। वि॒श्वतः॑ऽमुखम्। सूर्य॑म्। दे॒वाः। अ॒ज॒न॒य॒न्। २७.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -503,18 +531,22 @@ Fire they endow with vital breath, Wind is compact, with vital breath: With vita
 - अनुष्टुप्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [परमात्मा] (प्राणेन) प्राण [जीवनसामर्थ्य] के साथ (अग्निम्) अग्नि को (सं सृजति) संयुक्त करता है, (वातः) वायु (प्राणेन) प्राण [जीवनसामर्थ्य] के साथ (संहितः) मिला हुआ है। (प्राणेन) प्राण [जीवनसामर्थ्य] के साथ (विश्वतोमुखम्) सब ओर मुखवाले (सूर्यम्) सूर्य को (देवाः) दिव्य नियमों ने (अजनयन्) उत्पन्न किया है ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे परमात्मा ने अग्नि आदि में प्राण वा जीवनसामर्थ्य देकर उपयोगी बनाया है, वैसे ही मनुष्य अपनी आत्मिक और शारीरिक शक्तियों द्वारा जीवन को उपयोगी बनावें ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(प्राणेन) जीवनसामर्थ्येन (अग्निम्) पावकम् (सं सृजति) संयोजयति स परमेश्वरः (वातः) वायुः (प्राणेन) जीवनसामर्थ्येन (संहितः) संधीकृतः (प्राणेन) (विश्वतोमुखम्) सर्वतोमुखमिव द्रष्टारम् (सूर्यम्) (देवाः) दिव्यनियमाः (अजनयन्) उदपादयन् ॥
@@ -528,15 +560,6 @@ Fire they endow with vital breath, Wind is compact, with vital breath: With vita
 
 आ᳓युषायुष्कृ᳓तां जीवा᳓युष्माञ्जीव मा᳓ मृथाः।  
 प्राणे᳓नात्मन्व᳓तां जीव मा मृत्यो᳓रु᳓दगा व᳓शम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/08_AyuShAyuShkRtAM_jIvAyuShmAnjIva.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आयु॑षायु॒ष्कृतां॑ जी॒वायु॑ष्माञ्जीव॒ मा मृ॑थाः।  
-प्रा॒णेना॑त्म॒न्वतां॑ जीव मा मृ॒त्योरुद॑गा॒ वश॑म् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/08_AyuShAyuShkRtAM_jIvAyuShmAnjIva.md">
@@ -560,14 +583,23 @@ agās* of the mss., SPP., and the comm.; the change was demanded by the
 requirements both of grammar and of the sense; and Ppp. supports it,  
 reading *upa gā v-*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Live with the Life-Creators' life. Die not, live on to lengthened age. Live with the breath of men with souls. Submit not to the power of Death.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आयु॑षायु॒ष्कृतां॑ जी॒वायु॑ष्माञ्जीव॒ मा मृ॑थाः।  
+प्रा॒णेना॑त्म॒न्वतां॑ जीव मा मृ॒त्योरुद॑गा॒ वश॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आयु॑षा। आ॒युः॒ऽकृता॑म्। जी॒व॒। आयु॑ष्मान्। जी॒व॒। मा। मृ॒थाः॒। प्रा॒णेन॑। आ॒त्म॒न्ऽवता॑म्। जी॒व॒। मा। मृ॒त्योः। उत्। अ॒गाः॒। वश॑म्। २७.८। 
+आयु॑षा। आ॒युः॒ऽकृता॑म्। जी॒व॒। आयु॑ष्मान्। जी॒व॒। मा। मृ॒थाः॒। प्रा॒णेन॑। आ॒त्म॒न्ऽवता॑म्। जी॒व॒। मा। मृ॒त्योः। उत्। अ॒गाः॒। वश॑म्। २७.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -575,18 +607,22 @@ Live with the Life-Creators' life. Die not, live on to lengthened age. Live with
 - अनुष्टुप्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (आयुष्कृताम्) जीवन बनानेवाले [विद्वानों] के (आयुषा) जीवन के साथ (जीव) तू जीवित रह, (आयुष्मान्) उत्तम जीवनवाला होकर (जीव) तू जीवित रह, (मा मृथाः) तू मत मरे। (आत्मन्वताम्) आत्मावालों के (प्राणेन) प्राण [जीवनसामर्थ्य] से (जीव) तू जीवित रह (मृत्योः) मृत्यु के (वशम्) वश में (मा उत् अगाः) मत जा ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को योग्य है कि बड़े जितेन्द्रिय पुरुषार्थी महात्माओं के समान अपने जीवन को पुरुषार्थी बनाकर यशस्वी होवें ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(आयुषा) जीवनेन (आयुष्कृताम्) ब्रह्मचर्यादितपसा आयुषोऽलङ्कुर्वताम् (जीव) प्राणान् धारय (आयुष्मान्) उत्तमजीवनयुक्तः सन् (जीव) (मा मृथाः) प्राणान् मा त्यज (प्राणेन) जीवनसामर्थ्येन (आत्मन्वताम्) अ०४।१०।७। आत्मन्-मतुप्, नुडागमः। सात्मकानां दृढजीवनवताम् (मृत्योः) मरणस्य (मा उत् अगाः) इण् गतौ-लुङ्। मा प्राप्नुहि (वशम्) अधीनत्वम् ॥
@@ -600,15 +636,6 @@ Live with the Life-Creators' life. Die not, live on to lengthened age. Live with
 
 देवा᳓नां नि᳓हितं निधिं᳓ य᳓मि᳓न्द्रोऽन्व᳓विन्दत्पथि᳓भिर्देवया᳓नैः।  
 आ᳓पो हि᳓रण्यं जुगुपुस्त्रिवृ᳓द्भिस्ता᳓स्त्वा रक्षन्तु त्रिवृ᳓ता त्रिवृ᳓द्भिः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/09_devAnAM_nihitam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-दे॒वानां॒ निहि॑तं नि॒धिं यमिन्द्रो॒ऽन्ववि॑न्दत्प॒थिभि॑र्देव॒यानैः॑।  
-आपो॒ हिर॑ण्यं जुगुपुस्त्रि॒वृद्भि॒स्तास्त्वा॑ रक्षन्तु त्रि॒वृता॑ त्रि॒वृद्भिः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/09_devAnAM_nihitam.md">
@@ -633,14 +660,23 @@ as well as we, emends to the former reading, which is that of the comm.
 ⌊*Nidhiṁ devā́nāṁ níhitaṁ yám índraḥ* would be good rhythm.⌋ \*⌊Or nearly  
 so: but *trivṛ́tā* of 3 is here *tṛvátā*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 The secret treasure of the Gods which Indra, by pathways travelled by the Gods, discovered, That gold the Waters with the triplets guarded. May they keep thee with threebold hymn and triplets.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॒वानां॒ निहि॑तं नि॒धिं यमिन्द्रो॒ऽन्ववि॑न्दत्प॒थिभि॑र्देव॒यानैः॑।  
+आपो॒ हिर॑ण्यं जुगुपुस्त्रि॒वृद्भि॒स्तास्त्वा॑ रक्षन्तु त्रि॒वृता॑ त्रि॒वृद्भिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒वाना॑म्। निऽहि॑तम्। नि॒ऽधिम्। यम्। इन्द्रः॑। अ॒नु॒ऽअवि॑न्दत्। प॒थिऽभिः॑। दे॒व॒ऽयानैः॑। आपः॑। हिर॑ण्यम्। जु॒गु॒षुः॒। त्रि॒वृत्ऽभिः॑। ताः। त्वा॒। र॒क्ष॒न्तु॒। त्रि॒ऽवृता॑। त्रि॒वृत्ऽभिः॑। २७.९। 
+दे॒वाना॑म्। निऽहि॑तम्। नि॒ऽधिम्। यम्। इन्द्रः॑। अ॒नु॒ऽअवि॑न्दत्। प॒थिऽभिः॑। दे॒व॒ऽयानैः॑। आपः॑। हिर॑ण्यम्। जु॒गु॒षुः॒। त्रि॒वृत्ऽभिः॑। ताः। त्वा॒। र॒क्ष॒न्तु॒। त्रि॒ऽवृता॑। त्रि॒वृत्ऽभिः॑। २७.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -648,18 +684,22 @@ The secret treasure of the Gods which Indra, by pathways travelled by the Gods, 
 - त्रिष्टुप्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवानाम्) विद्वानों के (निहितम्) धरे हुए (यम्) जिस (निधिम्) निधि [रत्नों के कोश] को (इन्द्रः) इन्द्र [बड़े ऐश्वर्यवान् पुरुष] ने (देवयानैः) विद्वानों के चलने योग्य (पथिभिः) मार्गों से (अन्वविन्दत) खोजकर पाया है। (आपः) आप्त प्रजाओं ने (हिरण्यम्) उस तेज [वा सुवर्ण] को (त्रिवृद्भिः) तीन [कर्म, उपासना, ज्ञानरूप] वृत्तियों के साथ (जुगुपुः) रक्षित किया है, (त्रिवृता) तीन [कर्म, उपासना, ज्ञान] में वर्तमान (ताः) वे [प्रजाएँ] (त्वा) तुझको (त्रिवृद्भिः) तीन [कर्म, उपासना, ज्ञानरूप] वृत्तियों के साथ (रक्षन्तु) बचावें ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो पुरुष शूर महात्माओं के समान वेदोक्त मार्ग पर चलकर धर्म के साथ तेज वा सुवर्ण आदि धन प्राप्त करते हैं, प्रजागण उन धीरवीरों को प्रिय जानकर सदा उनकी रक्षा करते रहें ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(देवानाम्) विदुषाम् (निहितम्) स्थापितम् (निधिम्) रत्नसंग्रहम् (यम्) (इन्द्रः) परमैश्वर्यवान् पुरुषः (अन्वविन्दत) अन्विष्य लब्धवान् (पथिभिः) मार्गैः (देवयानैः) विद्वद्भिर्गन्तव्यैः (आपः) म०३। आप्ताः प्रजाः (हिरण्यम्) तत्तेजः सुवर्णं वा (जुगुपुः) ररक्षुः। अन्यद् पूर्ववत् म०३॥
@@ -673,15 +713,6 @@ The secret treasure of the Gods which Indra, by pathways travelled by the Gods, 
 
 त्र᳓यस्त्रिंशद्देव᳓तास्त्री᳓णि च वीर्या᳙णि प्रियाय᳓माणा जुगुपुरप्स्व᳙न्तः᳓।  
 अस्मिं᳓श्चन्द्रे᳓ अ᳓धि य᳓द्धि᳓रण्यं ते᳓नायं᳓ कृणवद्वीर्या᳙णि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/10_trayastriMshaddevatAstrINi_cha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-त्रय॑स्त्रिंशद्दे॒वता॒स्त्रीणि॑ च वी॒र्या᳡णि प्रिया॒यमा॑णा जुगुपुर॒प्स्व॑१॒॑न्तः।  
-अ॒स्मिंश्च॒न्द्रे अधि॒ यद्धिर॑ण्यं॒ तेना॒यं कृ॑णवद्वी॒र्या॑णि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/10_trayastriMshaddevatAstrINi_cha.md">
@@ -709,14 +740,23 @@ a *jagatī*. ⌊With **a**, cf. 37. 1 **c**, below.⌋ \*⌊Possibly we have to
 substitute the older grammatical equivalent in **a**, *trī́ ca vīryā̀*  
 (cf. 3 **b**); a *‘sti* before *ádhi* would mend **c**.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 With friendly thoughts the Deities, three-and thirty, and three great Powers preserved it in the Waters. He made heroic powers with the gold that lies upon this Moon.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्रय॑स्त्रिंशद्दे॒वता॒स्त्रीणि॑ च वी॒र्या᳡णि प्रिया॒यमा॑णा जुगुपुर॒प्स्व॑१॒॑न्तः।  
+अ॒स्मिंश्च॒न्द्रे अधि॒ यद्धिर॑ण्यं॒ तेना॒यं कृ॑णवद्वी॒र्या॑णि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्रयः॑ऽत्रिं॑शत्। दे॒वताः॑। त्रीणि॑। च॒। वी॒र्या᳡णि। प्रि॒य॒ऽयमा॑णाः। जु॒गु॒पुःः॒। अ॒प्ऽसु। अ॒न्तः। अ॒स्मिन्। च॒न्द्रे। अधि॑। यत्। हिर॑ण्यम्। तेन॑। अ॒यम्। कृ॒ण॒व॒त्। वी॒र्या᳡णि। २७.१०। 
+त्रयः॑ऽत्रिं॑शत्। दे॒वताः॑। त्रीणि॑। च॒। वी॒र्या᳡णि। प्रि॒य॒ऽयमा॑णाः। जु॒गु॒पुःः॒। अ॒प्ऽसु। अ॒न्तः। अ॒स्मिन्। च॒न्द्रे। अधि॑। यत्। हिर॑ण्यम्। तेन॑। अ॒यम्। कृ॒ण॒व॒त्। वी॒र्या᳡णि। २७.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -724,18 +764,22 @@ With friendly thoughts the Deities, three-and thirty, and three great Powers pre
 - विराट्स्थाना त्रिष्टुप्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (प्रियायमाणाः) प्रिय मानते हुए (त्रयस्त्रिंशत्) तेंतीस [८ वसु अर्थात् अग्नि, पृथिवी, वायु, अन्तरिक्ष, आदित्य, द्यौः वा प्रकाश, चन्द्रमा और नक्षत्र,−११ रुद्र अर्थात् प्राण, अपान, व्यान, समान, उदान, नाग, कूर्म, कृकल, देवदत्त, धनञ्जय यह दस प्राण और ग्यारहवाँ जीवात्मा,−१२ महीने,−१ इन्द्र अर्थात् बिजुली,−एक प्रजापति वा यज्ञ] (देवताः) देवताओं (च) और (त्रीणि) तीन [कायिक, वाचिक और मानसिक] (वीर्याणि) वीर कर्मों ने (अप्सु अन्तः) आप्त प्रजाओं के बीच (अस्मिन्) इस (चन्द्रे) आनन्द देनेवाले [जीवात्मा] में (अधि) अधिकारपूर्वक (यत्) जिस (हिरण्यम्) कमनीय तेज को (जुगुपुः) रक्षित किया है, (तेन) उसी [तेज] से (अयम्) यह [जीवात्मा] (वीर्याणि) वीर कर्मों को (कृणवत्) करे ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमात्मा ने वसु आदि तेंतीस देवताओं शारीरिक आदि शक्तियों और पूर्व संस्कारों द्वारा मनुष्यों में जो तेज स्थापित किया है, मनुष्य उस तेज को विद्या आदि द्वारा प्रकाशित करके पराक्रम करता रहे ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(त्रयस्त्रिंशत्) अथर्व०६।१३९।१। अष्टौ वसवो यथा, अग्निश्च पृथिवी च वायुश्चान्तरिक्षं चादित्यश्च द्यौश्च चन्द्रमाश्च नक्षत्राणि चेति, एकादश रुद्रा यथा प्राणापानव्यानसमानोदाननागकूर्मकृकलदेवदत्त-धनञ्जया इति दश प्राणा आत्मैकादशः, द्वादश मासाः, इन्द्रश्च प्रजापतिश्चेति (देवताः) देवाः (त्रीणि) कायिकवाचिकमानसानि (वीर्याणि) वीरकर्माणि। सामर्थ्यानि (प्रियायमाणाः) कर्तुः क्यङ् सलोपश्च। पा०३।१।११। प्रिय-क्यङ्। प्रिय इवाचरतीति प्रियायते, शानच्। प्रिया इवाचरन्त्यः (जुगुपुः) ररक्षुः (अप्सु) म०३। आप्तासु प्रजासु (अन्तः) मध्ये (अस्मिन्) समीपवर्तिनि (चन्द्रे) आह्लादके जीवात्मनि (अधि) अधिकारपूर्वकम् (यत्) (हिरण्यम्) कमनीयं तेजः (तेन) तेजसा (अयम्) जीवात्मा (वीर्याणि) ॥
@@ -750,14 +794,6 @@ With friendly thoughts the Deities, three-and thirty, and three great Powers pre
 ये᳓ देवा दिव्ये᳓कादश स्थ᳓ ते देवासो हवि᳓रिदं᳓ जुषध्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/11_ye_devA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ये दे॑वा दि॒व्येका॑दश॒ स्थ ते॑ देवासो ह॒विरि॒दं जु॑षध्वम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/11_ye_devA.md">
 <details open><summary><h3>११ ये देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -768,14 +804,22 @@ oblation.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 O ye eleven Gods who are in heaven, accept this sacrifice.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये दे॑वा दि॒व्येका॑दश॒ स्थ ते॑ देवासो ह॒विरि॒दं जु॑षध्वम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। दे॒वाः॒। दि॒वि। एका॑दश। स्थ। ते। दे॒वा॒सः॒। ह॒विः। इ॒दम्। जु॒ष॒ध्व॒म्। २७.११। 
+ये। दे॒वाः॒। दि॒वि। एका॑दश। स्थ। ते। दे॒वा॒सः॒। ह॒विः। इ॒दम्। जु॒ष॒ध्व॒म्। २७.११।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -783,18 +827,22 @@ O ye eleven Gods who are in heaven, accept this sacrifice.
 - एकावसानार्च्युष्णिक्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवाः) हे विद्वानो ! (ये) जो तुम (दिवि) सूर्यलोक में (एकादश) ग्यारह [प्राण, अपान, व्यान, समान, उदान, नाग, कूर्म, कृकल, देवदत्त, धनञ्जय, दस प्राण और ग्यारहवें जीवात्मा के समान] (स्थ) हो, (देवासः) हे विद्वानो ! (ते) वे तुम (इदम्) इस (हविः) ग्रहणयोग्य वस्तु [वचन] को (जुषध्वम्) सेवन करो ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे सूर्यादि लोकों में सब पदार्थ स्थित रहकर अपना-अपना कर्तव्य कर रहे हैं, वैसे ही मनुष्यों को ईश्वर और वेद में दृढ़ रहकर अपने कर्तव्य में परम निष्ठा रखनी चाहिये ॥११-१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   मन्त्र ११-१३ कुछ भेद से ऋग्वेद में हैं-१।१३९।-११ और यजुर्वेद ७।१९॥११−(ये) जे यूयम् (देवाः) हे विद्वांसः (दिवि) सूर्यलोके (एकादश) दयानन्दभाष्ये, यजु०७।१९। प्राणापानव्यानसमानौदाननागकूर्मकृकलदेवदत्तधनञ्जया इति दश प्राणा आत्मैकादश−इत्येतैः समानाः (स्थ) भवथ (ते) ते यूयम् (देवासः) हे विद्वांसः (हविः) ग्राह्यं वस्तु। वचनम् (इदम्) (जुषध्वम्) सेवध्वम् ॥
@@ -809,14 +857,6 @@ O ye eleven Gods who are in heaven, accept this sacrifice.
 ये᳓ देवा अन्त᳓रिक्ष ए᳓कादश स्थ᳓ ते देवासो हवि᳓रिदं᳓ जुषध्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/12_ye_devA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ये दे॑वा अ॒न्तरि॑क्ष॒ एका॑दश॒ स्थ ते॑ देवासो ह॒विरि॒दं जु॑षध्वम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/12_ye_devA.md">
 <details open><summary><h3>१२ ये देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -827,14 +867,22 @@ this oblation.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 O ye eleven Gods who are in air, accept this sacrifice.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये दे॑वा अ॒न्तरि॑क्ष॒ एका॑दश॒ स्थ ते॑ देवासो ह॒विरि॒दं जु॑षध्वम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। दे॒वाः॒। अ॒न्तरि॑क्षे। एका॑दश। स्थ। ते। दे॒वा॒सः॒। ह॒विः। इ॒दम्। जु॒ष॒ध्व॒म्। २७.१२। 
+ये। दे॒वाः॒। अ॒न्तरि॑क्षे। एका॑दश। स्थ। ते। दे॒वा॒सः॒। ह॒विः। इ॒दम्। जु॒ष॒ध्व॒म्। २७.१२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -842,18 +890,22 @@ O ye eleven Gods who are in air, accept this sacrifice.
 - एकावसानार्च्युष्णिक्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवाः) हे विद्वानो ! (ये) जो तुम (अन्तरिक्षे) अन्तरिक्ष में (एकादश) ग्यारह [श्रोत्र, त्वचा, चक्षु, जिह्वा, नासिका, वाणी, हाथ, पाँव, गुदा, लिङ्ग और मन−इन ग्यारह के समान] (स्थ) हो, (देवासः) हे विद्वानो ! (ते) वे तुम (इदम्) इस (हविः) ग्रहणयोग्य वस्तु [वचन] को (जुषध्वम्) सेवन करो ॥१२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे सूर्यादि लोकों में सब पदार्थ स्थित रहकर अपना-अपना कर्तव्य कर रहे हैं, वैसे ही मनुष्यों को ईश्वर और वेद में दृढ़ रहकर अपने कर्तव्य में परम निष्ठा रखनी चाहिये ॥११-१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   मन्त्र ११-१३ कुछ भेद से ऋग्वेद में हैं-१।१३९।-११ और यजुर्वेद ७।१९॥१२−(अन्तरिक्षे) मध्यलोके (एकादश) यजु०७।१९। श्रोत्रत्वक्चक्षूरसनाघ्राणवाक्पाणिपादपायूपस्थमनांसि-इत्येभिः समानाः। अन्यत् पूर्ववत् ॥
@@ -866,14 +918,6 @@ O ye eleven Gods who are in air, accept this sacrifice.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये᳓ देवा पृथिव्या᳓मे᳓कादश स्थ᳓ ते देवासो हवि᳓रिदं᳓ जुषध्वम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/13_ye_devA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ये दे॑वा पृथि॒व्यामेका॑दश॒ स्थ ते॑ देवासो ह॒विरि॒दं जु॑षध्वम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/13_ye_devA.md">
@@ -892,14 +936,22 @@ this; MS. (in i. 3. 13) reads *devās* in **a**; TS. (in i. 4. 10) reads
 *devās* in both **a** and **d** ⌊and *apsuṣádo* in **c**⌋. The comm's  
 text inserts in vs. 11 *divyās* after *devās*.
 </details>
+
 <details><summary>Griffith</summary>
 
 O ye eleven Gods who are on earth, accept this sacrifice.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये दे॑वा पृथि॒व्यामेका॑दश॒ स्थ ते॑ देवासो ह॒विरि॒दं जु॑षध्वम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। दे॒वाः॒। पृ॒थि॒व्याम्। एका॑दश। स्थ। ते। दे॒वा॒सः॒। ह॒विः। इ॒दम्। जु॒ष॒ध्व॒म्। २७.१३। 
+ये। दे॒वाः॒। पृ॒थि॒व्याम्। एका॑दश। स्थ। ते। दे॒वा॒सः॒। ह॒विः। इ॒दम्। जु॒ष॒ध्व॒म्। २७.१३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -907,18 +959,22 @@ O ye eleven Gods who are on earth, accept this sacrifice.
 - एकावसाना साम्नी त्रिष्टुप्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवाः) हे विद्वानो ! (ये) जो तुम (पृथिव्याम्) पृथिवी पर (एकादश) ग्यारह [पृथिवी, जल, अग्नि, पवन, आकाश, आदित्य, चन्द्रमा, नक्षत्र, अहङ्कार, महत्तत्त्व और प्रकृति−इन ग्यारह के समान] (स्थ) हो, (देवासः) हे विद्वानो ! (ते) वे तुम (इदम्) इस (हविः) ग्रहणयोग्य वस्तु [वचन] को (जुषध्वम्) सेवन करो ॥१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे सूर्यादि लोकों में सब पदार्थ स्थित रहकर अपना-अपना कर्तव्य कर रहे हैं, वैसे ही मनुष्यों को ईश्वर और वेद में दृढ़ रहकर अपने कर्तव्य में परम निष्ठा रखनी चाहिये ॥११-१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   मन्त्र ११-१३ कुछ भेद से ऋग्वेद में हैं-१।१३९।-११ और यजुर्वेद ७।१९॥१३−(पृथिव्याम्) भूम्याम् (एकादश) यजु०७।१९। पृथिव्यप्तेजोवाय्वाकाशादित्यचन्द्रनक्षत्राहङ्कारमहत्तत्त्व-प्रकृतय इत्येभिः समानाः। अन्यत् पूर्ववत् ॥
@@ -934,15 +990,6 @@ O ye eleven Gods who are on earth, accept this sacrifice.
 स᳙विता᳓ मा दक्षिणत᳓ उत्तरा᳓न्मा शचीप᳓तिः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/14_asapatnaM_purastAtpashchAnno.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॑सप॒त्नं पु॒रस्ता॑त्प॒श्चान्नो॒ अभ॑यं कृतम्।  
-स॑वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॑ शची॒पतिः॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/14_asapatnaM_purastAtpashchAnno.md">
 <details open><summary><h3>१४ असपत्नं पुरस्तात्पश्चान्नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -953,14 +1000,23 @@ Savitar \[protect\] me on the south, the lord of śachī me on the north.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Peace hath been given us from the east, and from the west security. Savitar guard me from the south, and from the north the Lord of Might.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑सप॒त्नं पु॒रस्ता॑त्प॒श्चान्नो॒ अभ॑यं कृतम्।  
+स॑वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॑ शची॒पतिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒स॒प॒त्नम्। पु॒रस्ता॑त्। प॒श्चात्। नः॒। अभ॑यम्। कृ॒त॒म्। स॒वि॒ता। मा॒। द॒क्षि॒ण॒तः। उ॒त्त॒रात्। मा॒। शची॒ऽपतिः॑। २७.१४। 
+अ॒स॒प॒त्नम्। पु॒रस्ता॑त्। प॒श्चात्। नः॒। अभ॑यम्। कृ॒त॒म्। स॒वि॒ता। मा॒। द॒क्षि॒ण॒तः। उ॒त्त॒रात्। मा॒। शची॒ऽपतिः॑। २७.१४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -968,18 +1024,22 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 - अनुष्टुप्
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (नः) हमारे लिये (मा) मुझको (पुरस्तात्) सामने से [वा पूर्व दिशा से], (पश्चात्) पीछे से [वा पश्चिम से], (दक्षिणतः) दाहिनी ओर [वा दक्खिन] से और (मा) मुझको (उत्तरात्) बाईं ओर से [वा उत्तर से] (सविता) सर्वप्रेरक राजा और (शचीपतिः) वाणियों वा कर्मों का पालनेवाला [मन्त्री] तुम दोनों (असपत्नम्) शत्रुरहित और (अभयम्) निर्भय (कृतम्) करो ॥१४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जहाँ पर राजा और मन्त्री, अपनी वाणी और कर्म में पक्के होते हैं, उस राज्य में प्रजागण शत्रुओं से सुरक्षित रहते हैं ॥१४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   यह मन्त्र पहिले आ चुका है अथ०१९।१६।१॥१४−अयं मन्त्रो व्याख्यातः-अ०१९।१९।१॥
@@ -994,16 +1054,6 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 दिवो᳓ मादित्या᳓ रक्षन्तु भू᳓म्या रक्षन्त्वग्न᳓यः।  
 इ᳙न्द्राग्नी᳓ रक्षतां मा पुर᳓स्तादश्वि᳓नावभि᳓तः श᳓र्म यच्छताम्।  
 ति᳙रश्ची᳓नघ्न्या᳓ रक्षतु जात᳓वेदा भूतकृ᳓तो मे सर्व᳓तः सन्तु व᳓र्म ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/15_divo_mAdityA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-दि॒वो मा॑दि॒त्या र॑क्षन्तु॒ भूम्या॑ रक्षन्त्व॒ग्नयः॑।  
-इ॑न्द्रा॒ग्नी र॑क्षतां मा पु॒रस्ता॑द॒श्विना॑व॒भितः॒ शर्म॑ यच्छताम्।  
-ति॑र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/15_divo_mAdityA.md">
@@ -1032,14 +1082,24 @@ as one vs., his 11; our 14 as his 12; our 15 **ab** as his 13; and our
 15 **c-f** as his 14. Or, he says, we may take our 14 with 15 **ab** as  
 one *mantra*. He reads *agnis* again in our **e** as in 16. 2 **e**.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 May the Adityas from the sky protect me, Agni from the earth. May Indra-Agni guard me from the eastward, on all sides may the Asvins give me shelter. May Jatavedas guard, sidelong, our cattle. Our shield on all sides be the World-Creators!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+दि॒वो मा॑दि॒त्या र॑क्षन्तु॒ भूम्या॑ रक्षन्त्व॒ग्नयः॑।  
+इ॑न्द्रा॒ग्नी र॑क्षतां मा पु॒रस्ता॑द॒श्विना॑व॒भितः॒ शर्म॑ यच्छताम्।  
+ति॑र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दि॒वः। मा॒। आ॒दि॒त्याः। र॒क्ष॒न्तु॒। भूम्याः॑। र॒क्ष॒न्तु॒। अग्न॒यः॑। इ॒न्द्रा॒ग्नी इति॑। र॒क्ष॒ता॒म्। मा॒। पु॒रस्ता॑त्। अ॒श्विनौ॑। अ॒भितः॑। शर्म॑। य॒च्छ॒ता॒म्। ति॒र॒श्चीन्। अ॒घ्न्या। र॒क्ष॒तु। जा॒तऽवे॑दाः। भू॒त॒ऽकृतः॑। मे॒। स॒र्वतः॑। स॒न्तु॒। वर्म॑। २७.१५। 
+दि॒वः। मा॒। आ॒दि॒त्याः। र॒क्ष॒न्तु॒। भूम्याः॑। र॒क्ष॒न्तु॒। अग्न॒यः॑। इ॒न्द्रा॒ग्नी इति॑। र॒क्ष॒ता॒म्। मा॒। पु॒रस्ता॑त्। अ॒श्विनौ॑। अ॒भितः॑। शर्म॑। य॒च्छ॒ता॒म्। ति॒र॒श्चीन्। अ॒घ्न्या। र॒क्ष॒तु। जा॒तऽवे॑दाः। भू॒त॒ऽकृतः॑। मे॒। स॒र्वतः॑। स॒न्तु॒। वर्म॑। २७.१५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - त्रिवृत्
@@ -1047,18 +1107,22 @@ May the Adityas from the sky protect me, Agni from the earth. May Indra-Agni gua
 - त्र्यवसाना सप्तपदा बृहतीगर्भातिशक्वरी
 - सुरक्षा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आशीर्वाद देने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (आदित्याः) अखण्डव्रती शूर (मा) मुझे (दिवः) आकाश से (रक्षन्तु) बचावें, (अग्नयः) ज्ञानी पुरुष (भूम्याः) भूमि से (रक्षन्तु) बचावें। (इन्द्राग्नी) बिजुली और अग्नि [के समान तेजस्वी और व्यापक राजा और मन्त्री दोनों] (मा) मुझे (पुरस्तात्) सामने से (रक्षताम्) बचावें, (अश्विना) सूर्य और चन्द्रमा [के समान ठीक मार्ग पर चलनेवाले वे दोनों] (अभितः) सब ओर से (शर्म) सुख (यच्छताम्) देवें। (जातवेदाः) बहुत धनवाली (अघ्न्या) अटूट [राजनीति] (तिरश्चीन=तिरश्चिभ्यः) आड़े चलनेवाले [वैरियों] से [मुझे] (रक्षतु) बचावे, (भूतकृतः) उचित कर्म करनेवाले पुरुष (मे) मेरे लिये (सर्वतः) सब ओर से (वर्म) कवच (सन्तु) होवें ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो राजा और राजपुरुष आकाश में वायुयान द्वारा चलनेवाले वीरों से और पृथिवी पर अश्ववार आदि से अस्त्र-शस्त्र द्वारा शत्रुओं का नाश करते हैं, वही प्रजा की रक्षा कर सकते हैं ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   यह मन्त्र ऊपर आ चुका है-अ०१९।१६।२॥१५−अयं मन्त्रो व्याख्यातः-अ०१९।१६।२॥

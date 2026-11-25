@@ -8,15 +8,18 @@ title = "०५४ कालः"
 
 54. Praise of time.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 कालः।  
 १-५ भृगुः। कालः। अनुष्टुप्, २ त्रिपदाऽर्षी गायत्री, ५ त्र्यवसाना षट्पदा विराडष्टिः।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu etc. (as 53).—pañcakam. 2. 3-p. ārṣī gāyatrī; 5 ⌊5 and 6 of the Berlin ed.⌋. 3-av. 6-p. virāḍ aṣṭi.⌋
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Properly a part of the same hymn with the preceding, and found with vss. 7-10 of
 #### Translations
 Translated: Muir, v. 409; Ludwig, p. 191; Scherman, Philosophische Hymnen, p. 80; Deussen, Geschichte, i. 1. 212; Griffith, ii. 311; Bloomfield, 225, 687.—As to the verse-division, see under vss. 2 and 5, and SPP's Critical Notice, vol. i., p. 24.
 </details>
+
 <details><summary>Griffith</summary>
 
 A hymn to Kala; a continuation of the preceding hymn
@@ -39,15 +43,6 @@ A hymn to Kala; a continuation of the preceding hymn
 
 काला᳓दा᳓पः स᳓मभवन्काला᳓द्ब्र᳓ह्म त᳓पो दि᳓शः।  
 काले᳓नो᳓देति सू᳓र्यः काले᳓ नि᳓ विशते पु᳓नः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/01_kAlAdApaH_samabhavankAlAdbrahma.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-का॒लादापः॒ सम॑भवन्का॒लाद्ब्रह्म॒ तपो॒ दिशः॑।  
-का॒लेनोदे॑ति॒ सूर्यः॑ का॒ले नि वि॑शते॒ पुनः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/01_kAlAdApaH_samabhavankAlAdbrahma.md">
@@ -64,14 +59,23 @@ All the mss. save two ⌊of SPP's⌋ read *abhavat* at end of **a**; SPP.
 also ⌊as well as the Berlin ed.⌋ gives *-an*, with the comm., and with  
 Ppp. In **b**, the comm. reads *vratatapas* for *bráhma tápas*.
 </details>
+
 <details><summary>Griffith</summary>
 
 From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun ascends by Kala, and in Kala sinks again to rest.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+का॒लादापः॒ सम॑भवन्का॒लाद्ब्रह्म॒ तपो॒ दिशः॑।  
+का॒लेनोदे॑ति॒ सूर्यः॑ का॒ले नि वि॑शते॒ पुनः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-का॒लात्। आपः॑। सम्। अ॒भ॒व॒न्। का॒लात्। ब्रह्म॑। तपः॑। दिशः॑। का॒लेन॑। उत्। ए॒ति॒। सूर्यः॑। का॒ले। नि। वि॒श॒ते॒। पुनः॑। ५४.१। 
+का॒लात्। आपः॑। सम्। अ॒भ॒व॒न्। का॒लात्। ब्रह्म॑। तपः॑। दिशः॑। का॒लेन॑। उत्। ए॒ति॒। सूर्यः॑। का॒ले। नि। वि॒श॒ते॒। पुनः॑। ५४.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - कालः
@@ -79,18 +83,22 @@ From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun asce
 - अनुष्टुप्
 - काल सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 काल की महिमा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (कालात्) काल [गिनती करनेवाले समय] से (आपः) प्रजाएँ, (कालात्) काल से (ब्रह्म) वेदज्ञान, (तपः) तप [ब्रह्मचर्यादि नियम] और (दिशः) दिशाएँ (सम् अभवत्) उत्पन्न हुई हैं। (कालेन) काल के साथ (सूर्यः) सूर्य (उत् एति) निकलता है, (काले) काल में (पुनः) फिर (नि विशते) डूब जाता है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  समय के प्रभाव से प्रलय के पीछे परमात्मा सब पदार्थों और नियमों को उत्पन्न करता और प्रलय समय में लय कर देता है, जैसे सूर्य पृथिवी के सन्मुख होने से दिखाई देता और पृथिवी की आड़ में होने से अदृश्य हो जाता है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(कालात्) सू० ५३। म० १। संख्याकारकात् समयात् (आपः) आप्ताः प्रजाः (सम् अभवन्) अजायन्त (कालात्) (ब्रह्म) वेदज्ञानम् (तपः) ब्रह्मचर्यादिव्रतम् (दिशः) प्राच्याद्याः (कालेन) (उदेति) उदयं गच्छति (सूर्यः) गमनशील आदित्यः (काले) (नि) नीचैः (विशते) प्रविश्यते। विलीयते (पुनः) सायङ्काले ॥
@@ -104,15 +112,6 @@ From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun asce
 
 काले᳓न वा᳓तः पवते काले᳓न पृथिवी᳓ मही᳓।  
 द्यौ᳓र्मही᳓ काल᳓ आ᳓हिता ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/02_kAlena_vAtaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-का॒लेन॒ वातः॑ पवते का॒लेन॑ पृथि॒वी म॒ही।  
-द्यौर्म॒ही का॒ल आहि॑ता ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/02_kAlena_vAtaH.md">
@@ -136,14 +135,23 @@ sense is concerned; but the mss., the Anukr., and SPP. agree in the
 division given in our text (except as regards vs. 6), and it is  
 accordingly retained here.
 </details>
+
 <details><summary>Griffith</summary>
 
 By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests the mighty Sky.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+का॒लेन॒ वातः॑ पवते का॒लेन॑ पृथि॒वी म॒ही।  
+द्यौर्म॒ही का॒ल आहि॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-का॒लेन॑। वातः॑। प॒व॒ते॒। का॒लेन॑। पृ॒थि॒वी। म॒ही। द्यौः। म॒ही। का॒ले। आऽहि॑ता। ५४.२। 
+का॒लेन॑। वातः॑। प॒व॒ते॒। का॒लेन॑। पृ॒थि॒वी। म॒ही। द्यौः। म॒ही। का॒ले। आऽहि॑ता। ५४.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - कालः
@@ -151,18 +159,22 @@ By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests 
 - त्रिपदार्षी गायत्री
 - काल सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 काल की महिमा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (कालेन) काल [समय] के साथ (वातः) पवन (पवते) शुद्ध करता है, (कालेन) काल के साथ (पृथिवी) पृथिवी (मही) बड़ी है। (काले) काल में (मही) बड़ा (द्यौः) आकाश (आहिता) रक्खा है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  समय के कारण वायु, पृथिवी, आकाश आदि के परमाणु संयोग पाकर साकार होकर संसार का उपकार करते हैं ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(कालेन) (वातः) वायुः (पवते) पुनाति। शोधयति (कालेन) (पृथिवी) (मही) महती वर्तते (द्यौः) आकाशः (मही) महती (काले) (आहिता) स्थापिता ॥
@@ -176,15 +188,6 @@ By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests 
 
 कालो᳓ ह भूतं᳓ भ᳓व्यं च पुत्रो᳓ अजनयत्पुरा᳓।  
 काला᳓दृ᳓चः स᳓मभवन्य᳓जुः काला᳓दजायत ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/03_kAlo_ha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-का॒लो ह॑ भू॒तं भव्यं॑ च पु॒त्रो अ॑जनयत्पु॒रा।  
-का॒लादृचः॒ सम॑भव॒न्यजुः॑ का॒लाद॑जायत ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/03_kAlo_ha.md">
@@ -215,14 +218,23 @@ he gives *purastāt* for explanation. In **c**, part of the mss. have
 publication, *kālé* was indeed an emendation; but some of SPP's  
 authorities do have *kālé*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 In Kala erst the text produced what is and what is yet to be. From Kala sprang the Richas, and from Kala was the Yajus born.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+का॒लो ह॑ भू॒तं भव्यं॑ च पु॒त्रो अ॑जनयत्पु॒रा।  
+का॒लादृचः॒ सम॑भव॒न्यजुः॑ का॒लाद॑जायत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-का॒लः। ह॒। भू॒तम्। भव्य॑म्। च॒। पु॒त्रः। अ॒ज॒न॒य॒त्। पु॒रा। का॒लात्। ऋचः॑। सम्। अ॒भ॒व॒न्। यजुः॑। का॒लात्। अ॒जा॒य॒त॒। ५४.३। 
+का॒लः। ह॒। भू॒तम्। भव्य॑म्। च॒। पु॒त्रः। अ॒ज॒न॒य॒त्। पु॒रा। का॒लात्। ऋचः॑। सम्। अ॒भ॒व॒न्। यजुः॑। का॒लात्। अ॒जा॒य॒त॒। ५४.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - कालः
@@ -230,18 +242,22 @@ In Kala erst the text produced what is and what is yet to be. From Kala sprang t
 - अनुष्टुप्
 - काल सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 काल की महिमा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (कालः) कालरूपी (पुत्रः) पुत्र ने (ह) ही (भूतम्) बीता हुआ (च) और (भव्यम्) होनेवाला (पुरा) पहिले (अजनयत्) उत्पन्न किया है। (कालात्) काल से (ऋचः) ऋचाएँ [गुणप्रकाशक विद्याएँ] (सम् अभवन्) उत्पन्न हुई हैं, (कालात्) काल से (यजुः) यजुर्वेद [सत्कर्मों का ज्ञान] (अजायत) उत्पन्न हुआ है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  नित्य वर्तमान काल पिता के समान पहिले और पुत्र के समान पीछे भी विद्यमान रहता है-[देखो गत सूक्त मन्त्र ४]। काल के ही प्रभाव से सब आगे-पीछे की सृष्टि और वेदों का प्रादुर्भाव होता है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(कालः) (ह) एव (भूतम्) अतीतम् (भव्यम्) भविष्यत् (च) (पुत्रः) पुत्र इव पश्चाद् वर्तमानः (अजनयत्) उत्पादितवान् (पुरा) पूर्वम् (कालात्) (ऋचः) ऋग्वेदमन्त्राः। गुणप्रकाशिका विद्याः (सम् अभवन्) अजायन्त (यजुः) यजुर्वेदः सत्कर्मणां ज्ञानम् (कालात्) (अजायत्) ॥
@@ -255,15 +271,6 @@ In Kala erst the text produced what is and what is yet to be. From Kala sprang t
 
 कालो᳓ यज्ञं᳓ स᳓मैरयद्देवे᳓भ्यो भाग᳓म᳓क्षितम्।  
 काले᳓ गन्धर्वाप्सर᳓सः काले᳓ लोकाः᳓ प्र᳓तिष्ठिताः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/04_kAlo_yajnam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-का॒लो य॒ज्ञं समै॑रयद्दे॒वेभ्यो॑ भा॒गमक्षि॑तम्।  
-का॒ले ग॑न्धर्वाप्स॒रसः॑ का॒ले लो॒काः प्रति॑ष्ठिताः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/04_kAlo_yajnam.md">
@@ -325,14 +332,23 @@ Berlin text and summed up by certain mss.; but the Anukr. counts 9 and 5
 verses (instead of 10 and 6) in hymns 47 and 54 respectively, which  
 makes the sum 61 instead of 63.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandharvas and Apsarasas and worlds abide.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+का॒लो य॒ज्ञं समै॑रयद्दे॒वेभ्यो॑ भा॒गमक्षि॑तम्।  
+का॒ले ग॑न्धर्वाप्स॒रसः॑ का॒ले लो॒काः प्रति॑ष्ठिताः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-का॒लः। य॒ज्ञम्। सम्। ऐ॒र॒य॒त्। दे॒वेभ्यः॑। भा॒गम्। अक्षि॑तम्। का॒ले। ग॒न्ध॒र्व॒ऽअ॒प्स॒रसः॑। का॒ले। लो॒काः। प्रति॑ऽस्थिताः। ५४.४। 
+का॒लः। य॒ज्ञम्। सम्। ऐ॒र॒य॒त्। दे॒वेभ्यः॑। भा॒गम्। अक्षि॑तम्। का॒ले। ग॒न्ध॒र्व॒ऽअ॒प्स॒रसः॑। का॒ले। लो॒काः। प्रति॑ऽस्थिताः। ५४.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - कालः
@@ -340,18 +356,22 @@ They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandhar
 - अनुष्टुप्
 - काल सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 काल की महिमा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (कालः) काल ने (यज्ञम्) यज्ञ [सत्कर्म] को (देवेभ्यः) विद्वानों के लिये (अक्षितम्) अक्षय (भागम्) भाग (सम्) पूरा-पूरा (ऐरयत्) भेजा है। (काले) काल में (गन्धर्वाप्सरसः) गन्धर्व [पृथिवी पर धरे हुए पदार्थ] और अप्सराएँ [आकाश में चलनेवाले पदार्थ], और (काले) काल में (लोकाः) सब लोक (प्रतिष्ठिताः) रक्खे हुए हैं ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  समय के उपयोग से विद्वान् लोग सत्कर्म करके सद्गति पाते हैं और काल में ही संसार के सब पदार्थ ठहरे हैं ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(कालः) (यज्ञम्) सद्व्यवहारम् (सम्) सम्यक् (ऐरयत्) प्रेरितवान् (देवेभ्यः) विद्वद्भ्यः (भागम्) अंशम् (अक्षितम्) अक्षीणम् (काले) (गन्धर्वाप्सरसः) अ० १९।३६।६। गवि पृथिव्यां धृताः पदार्थाः अप्सु आकाशे सरणशीलाश्च पदार्थाः (काले) (लोकाः) सूर्यादयः (प्रतिष्ठिताः) दृढं स्थिताः ॥
@@ -368,16 +388,6 @@ They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandhar
 स᳓र्वांल्लोका᳓नभिजि᳓त्य ब्र᳓ह्मणा कालः᳓ स᳓ ईयते परमो᳓ नु᳓ देवः᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/05_kAle-yamangirA_devo-tharvA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-का॒लेऽयमङ्गि॑रा दे॒वोऽथ॑र्वा॒ चाधि॑ तिष्ठतः।  
-इ॒मं च॑ लो॒कं प॑र॒मं च॑ लो॒कं पुण्यां॑श्च लो॒कान्विधृ॑तीश्च॒ पुण्याः॑।  
-सर्वां॑ल्लो॒कान॑भि॒जित्य॒ ब्रह्म॑णा का॒लः स ई॑यते पर॒मो नु दे॒वः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/05_kAle-yamangirA_devo-tharvA.md">
 <details open><summary><h3>०५ कालेऽयमङ्गिरा देवोऽथर्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -386,14 +396,24 @@ They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandhar
 इ॒मं च॑ लो॒कं प॑र॒मं च॑ लो॒कं पुण्यां॑श्च लो॒कान् विधृ॑तीश्च॒ पुण्याः॑ ।  
 सर्वां॑ल्लो॒कान॑भि॒जित्य॒ ब्रह्म॑णा का॒लः स ई॑यते पर॒मो नु दे॒वः ॥५॥
 </details>
+
 <details><summary>Griffith</summary>
 
 Atharvan and this Angiras in Kala are supreme o'er heaven. Both this world and the world that is most lofty, the pure worlds and pure intermediate spaces,--
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+का॒लेऽयमङ्गि॑रा दे॒वोऽथ॑र्वा॒ चाधि॑ तिष्ठतः।  
+इ॒मं च॑ लो॒कं प॑र॒मं च॑ लो॒कं पुण्यां॑श्च लो॒कान्विधृ॑तीश्च॒ पुण्याः॑।  
+सर्वां॑ल्लो॒कान॑भि॒जित्य॒ ब्रह्म॑णा का॒लः स ई॑यते पर॒मो नु दे॒वः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-का॒ले। अ॒यम्। अङ्गि॑राः। दे॒वः। अथ॑र्वा। च॒। अधि॑। ति॒ष्ठ॒तः॒। इ॒मम्। च॒। लो॒कम्। प॒र॒मम्। च॒। लो॒कम्। पुण्या॑न्। च॒। लो॒कान्। विऽधृ॑तीः। च॒। पुण्याः॑। सर्वा॑न्। लो॒कान्। अ॒भि॒ऽजित्य॑। ब्रह्म॑णा। का॒लः। सः। ई॒य॒ते॒। प॒र॒मः। नु। दे॒वः। ५४.५। 
+का॒ले। अ॒यम्। अङ्गि॑राः। दे॒वः। अथ॑र्वा। च॒। अधि॑। ति॒ष्ठ॒तः॒। इ॒मम्। च॒। लो॒कम्। प॒र॒मम्। च॒। लो॒कम्। पुण्या॑न्। च॒। लो॒कान्। विऽधृ॑तीः। च॒। पुण्याः॑। सर्वा॑न्। लो॒कान्। अ॒भि॒ऽजित्य॑। ब्रह्म॑णा। का॒लः। सः। ई॒य॒ते॒। प॒र॒मः। नु। दे॒वः। ५४.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - कालः
@@ -401,18 +421,22 @@ Atharvan and this Angiras in Kala are supreme o'er heaven. Both this world and t
 - त्र्यवसाना षट्पदा विराडष्टिः
 - काल सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 काल की महिमा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (काले) काल [समय] में (अयम्) यह (अङ्गिराः) अङ्गिराः [ज्ञानवान्] (देवः) व्यवहारकुशल मनुष्य (च) और (अथर्वा) अङ्गिराः [निश्चलस्वभाव ऋषि] (अधि) अधिकारपूर्वक (तिष्ठतः) दोनों स्थित हैं। (इमम्) इस (लोकम्) लोक को (च च) और (परमम्) सबसे ऊँचे (लोकम्) लोक को (च) और (पुण्यान्) पुण्य (लोकान्) लोकों को (च) और (पुण्याः) पुण्य (विधृतीः) विविध धारणशक्तियों को [अर्थात्] (सर्वान्) सब (लोकान्) लोकों को (अभिजित्य) सर्वथा जीतकर, (ब्रह्मणा) ब्रह्म [परमेश्वर] के साथ, (सः) वह (परमः) सबसे बड़ा (देवः) दिव्य (कालः) काल (नु) शीघ्र (ईयते) चलता है ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  काल के सादर निरन्तर सेवन से मनुष्य ज्ञानी ऋषि होकर और सब व्यवहारों और समाजों में प्रतिष्ठा पाकर परम गति प्राप्त कर आनन्द भोगते हैं ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(काले) (अयम्) (अङ्गिराः) अ० २।१२।४। अगि गतौ-असि, इरुडागमः। ज्ञानवान् पुरुषः (देवः) व्यवहारकुशलः (अथर्वा) अ० ४।१।७। अ+थर्व चरणे गतौ-वनिप्, वकारलोपः। निश्चलस्वभाव ऋषिः (च) (अधि) अधिकृत्य (तिष्ठतः) वर्तेते (इमम्) (च) (लोकम्) दृश्यमानं स्थानम् (परमम्) उत्कृष्टम् (च) (पुण्यान्) शुद्धान् शुभान् (च) (लोकान्) (विधृतीः) विविधधारिकाः शक्तीः (सर्वान्) (लोकान्) (अभिजित्य) अभिभूय (ब्रह्मणा) परमात्मना सह (कालः) (सः) प्रसिद्धः (ईयते) ईङ् गतौ-लट्। गच्छति (परमः) उत्कृष्टः (नु) शीघ्रम् (देवः) दिव्यः ॥

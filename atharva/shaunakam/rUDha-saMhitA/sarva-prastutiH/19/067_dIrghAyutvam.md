@@ -8,15 +8,18 @@ title = "०६७ दीर्घायुत्वम्"
 
 67. For long life and prosperity.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुत्वम्।  
 १-८ ब्रह्मा। सूर्यः। प्राजापत्या गायत्री।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—aṣṭāu. sāuryam. prājāpatyā gāyatrī.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Not found in Pāipp. According to the comm., it is used in the same manner as th
 #### Translations
 Translated: Griffith, ii. 319.
 </details>
+
 <details><summary>Griffith</summary>
 
 A prayer for long life
@@ -40,14 +44,6 @@ A prayer for long life
 प᳓श्येम शर᳓दः शत᳓म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पश्ये॑म श॒रदः॑ श॒तम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
 <details open><summary><h3>०१ पश्येम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -57,14 +53,22 @@ A prayer for long life
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 A hundred autumns may we see.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पश्ये॑म श॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पश्ये॑म। श॒रदः॑। श॒तम्। ६७.१। 
+पश्ये॑म। श॒रदः॑। श॒तम्। ६७.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सूर्यः
@@ -72,18 +76,22 @@ A hundred autumns may we see.
 - प्राजापत्या गायत्री
 - दीर्घायु सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 जीवन के स्वास्थ्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शतम्) सौ (शरदः) वर्षों तक (पश्येम) हम देखते रहें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  हम सब लोग प्रयत्न करें कि परमेश्वर की प्रार्थना सदा करते हुए युक्त आहार-विहार से ऐसे स्वस्थ और नीरोग रहें कि सब इन्द्रियाँ नेत्र, मुख, नासिका, मन आदि सौ वर्ष से भी अधिक पूरे दृढ़ और सचेत रहें, जिससे हम अपना कर्तव्य जीवनभर सावधानी के साथ किया करें ॥१-८॥ मन्त्र १ तथा २ ऋग्वेद में हैं-७।६६।१६ और सब सूक्त कुछ भेद से यजुर्वेद में है-३६।२४
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(पश्येम) अवलोकयेम (शरदः) शरद्ऋतून्। संवत्सरान्। कालाध्वनोरत्यन्तसंयोगे। पा० २।३।५। इति सर्वत्र द्वितीया (शतम्) शतसंख्याकान् ॥
@@ -98,14 +106,6 @@ A hundred autumns may we see.
 जी᳓वेम शर᳓दः शत᳓म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-जीवे॑म श॒रदः॑ श॒तम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
 <details open><summary><h3>०२ जीवेम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -115,14 +115,22 @@ A hundred autumns may we see.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 A hundred autumns may we live.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+जीवे॑म श॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-जीवे॑म। श॒रदः॑। श॒तम्। ६७.२। 
+जीवे॑म। श॒रदः॑। श॒तम्। ६७.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सूर्यः
@@ -130,18 +138,22 @@ A hundred autumns may we live.
 - प्राजापत्या गायत्री
 - दीर्घायु सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 जीवन के स्वास्थ्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शतम्) सौ (शरदः) वर्षों तक (जीवेम) हम जीते रहें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  हम सब लोग प्रयत्न करें कि परमेश्वर की प्रार्थना सदा करते हुए युक्त आहार-विहार से ऐसे स्वस्थ और नीरोग रहें कि सब इन्द्रियाँ नेत्र, मुख, नासिका, मन आदि सौ वर्ष से भी अधिक पूरे दृढ़ और सचेत रहें, जिससे हम अपना कर्तव्य जीवनभर सावधानी के साथ किया करें ॥१-८॥ मन्त्र १ तथा २ ऋग्वेद में हैं-७।६६।१६ और सब सूक्त कुछ भेद से यजुर्वेद में है-३६।२४
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(जीवेम) प्राणान् धारयेम ॥
@@ -156,14 +168,6 @@ A hundred autumns may we live.
 बु᳓ध्येम शर᳓दः शत᳓म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-बुध्ये॑म श॒रदः॑ श॒तम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
 <details open><summary><h3>०३ बुध्येम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -173,14 +177,22 @@ A hundred autumns may we live.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 A hundred autumns may we know.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+बुध्ये॑म श॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-बुध्ये॑म। श॒रदः॑। श॒तम्। ६७.३। 
+बुध्ये॑म। श॒रदः॑। श॒तम्। ६७.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सूर्यः
@@ -188,18 +200,22 @@ A hundred autumns may we know.
 - प्राजापत्या गायत्री
 - दीर्घायु सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 जीवन के स्वास्थ्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शतम्) सौ (शरदः) वर्षों तक (बुध्येम) हम समझते रहें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  हम सब लोग प्रयत्न करें कि परमेश्वर की प्रार्थना सदा करते हुए युक्त आहार-विहार से ऐसे स्वस्थ और नीरोग रहें कि सब इन्द्रियाँ नेत्र, मुख, नासिका, मन आदि सौ वर्ष से भी अधिक पूरे दृढ़ और सचेत रहें, जिससे हम अपना कर्तव्य जीवनभर सावधानी के साथ किया करें ॥१-८॥ मन्त्र १ तथा २ ऋग्वेद में हैं-७।६६।१६ और सब सूक्त कुछ भेद से यजुर्वेद में है-३६।२४
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(बुध्येम) बुध्येमहि। जानीयाम ॥
@@ -214,14 +230,6 @@ A hundred autumns may we know.
 रो᳓हेम शर᳓दः शत᳓म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-रोहे॑म श॒रदः॑ श॒तम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
 <details open><summary><h3>०४ रोहेम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -231,14 +239,22 @@ A hundred autumns may we know.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 A hundred autumns may we grow.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+रोहे॑म श॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-रोहे॑म। श॒रदः॑। श॒तम्। ६७.४। 
+रोहे॑म। श॒रदः॑। श॒तम्। ६७.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सूर्यः
@@ -246,18 +262,22 @@ A hundred autumns may we grow.
 - प्राजापत्या गायत्री
 - दीर्घायु सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 जीवन के स्वास्थ्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शतम्) सौ (शरदः) वर्षों तक (रोहेम) हम चढ़ते रहें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  हम सब लोग प्रयत्न करें कि परमेश्वर की प्रार्थना सदा करते हुए युक्त आहार-विहार से ऐसे स्वस्थ और नीरोग रहें कि सब इन्द्रियाँ नेत्र, मुख, नासिका, मन आदि सौ वर्ष से भी अधिक पूरे दृढ़ और सचेत रहें, जिससे हम अपना कर्तव्य जीवनभर सावधानी के साथ किया करें ॥१-८॥ मन्त्र १ तथा २ ऋग्वेद में हैं-७।६६।१६ और सब सूक्त कुछ भेद से यजुर्वेद में है-३६।२४
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(रोहेम) आरूढा भवेम ॥
@@ -272,14 +292,6 @@ A hundred autumns may we grow.
 पू᳓षेम शर᳓दः शत᳓म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पूषे॑म श॒रदः॑ श॒तम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
 <details open><summary><h3>०५ पूषेम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -289,14 +301,22 @@ A hundred autumns may we grow.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 A hundred autumns may we thrive.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पूषे॑म श॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पूषे॑म। श॒रदः॑। श॒तम्। ६७.५। 
+पूषे॑म। श॒रदः॑। श॒तम्। ६७.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सूर्यः
@@ -304,18 +324,22 @@ A hundred autumns may we thrive.
 - प्राजापत्या गायत्री
 - दीर्घायु सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 जीवन के स्वास्थ्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शतम्) सौ (शरदः) वर्षों तक (पूषेम) हम पुष्ट होते रहें ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  हम सब लोग प्रयत्न करें कि परमेश्वर की प्रार्थना सदा करते हुए युक्त आहार-विहार से ऐसे स्वस्थ और नीरोग रहें कि सब इन्द्रियाँ नेत्र, मुख, नासिका, मन आदि सौ वर्ष से भी अधिक पूरे दृढ़ और सचेत रहें, जिससे हम अपना कर्तव्य जीवनभर सावधानी के साथ किया करें ॥१-८॥ मन्त्र १ तथा २ ऋग्वेद में हैं-७।६६।१६ और सब सूक्त कुछ भेद से यजुर्वेद में है-३६।२४
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(पूषेम) पूष पुष्टौ। पुष्टिं लभेमहि ॥
@@ -330,14 +354,6 @@ A hundred autumns may we thrive.
 भ᳓वेम शर᳓दः शत᳓म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-भवे॑म श॒रदः॑ श॒तम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
 <details open><summary><h3>०६ भवेम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -347,14 +363,22 @@ A hundred autumns may we thrive.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 A hundred autumns may we be.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+भवे॑म श॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भवे॑म। श॒रदः॑। श॒तम्। ६७.६। 
+भवे॑म। श॒रदः॑। श॒तम्। ६७.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सूर्यः
@@ -362,18 +386,22 @@ A hundred autumns may we be.
 - प्राजापत्या गायत्री
 - दीर्घायु सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 जीवन के स्वास्थ्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शतम्) सौ (शरदः) वर्षों तक (भवेम) हम बने रहें ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  हम सब लोग प्रयत्न करें कि परमेश्वर की प्रार्थना सदा करते हुए युक्त आहार-विहार से ऐसे स्वस्थ और नीरोग रहें कि सब इन्द्रियाँ नेत्र, मुख, नासिका, मन आदि सौ वर्ष से भी अधिक पूरे दृढ़ और सचेत रहें, जिससे हम अपना कर्तव्य जीवनभर सावधानी के साथ किया करें ॥१-८॥ मन्त्र १ तथा २ ऋग्वेद में हैं-७।६६।१६ और सब सूक्त कुछ भेद से यजुर्वेद में है-३६।२४
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(भवेम) स्याम। वर्तेमहि ॥
@@ -388,14 +416,6 @@ A hundred autumns may we be.
 भू᳓येम शर᳓दः शत᳓म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-भूये॑म श॒रदः॑ श॒तम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
 <details open><summary><h3>०७ भूयेम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -405,14 +425,22 @@ A hundred autumns may we be.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 A hundred autumns may we bide.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+भूये॑म श॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भूये॑म। श॒रदः॑। श॒तम्। ६७.७। 
+भूये॑म। श॒रदः॑। श॒तम्। ६७.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सूर्यः
@@ -420,18 +448,22 @@ A hundred autumns may we bide.
 - प्राजापत्या गायत्री
 - दीर्घायु सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 जीवन के स्वास्थ्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शतम्) सौ (शरदः) वर्षों तक (भूयेम) हम शुद्ध रहें ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  हम सब लोग प्रयत्न करें कि परमेश्वर की प्रार्थना सदा करते हुए युक्त आहार-विहार से ऐसे स्वस्थ और नीरोग रहें कि सब इन्द्रियाँ नेत्र, मुख, नासिका, मन आदि सौ वर्ष से भी अधिक पूरे दृढ़ और सचेत रहें, जिससे हम अपना कर्तव्य जीवनभर सावधानी के साथ किया करें ॥१-८॥ मन्त्र १ तथा २ ऋग्वेद में हैं-७।६६।१६ और सब सूक्त कुछ भेद से यजुर्वेद में है-३६।२४
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(भूयेम) भू शुद्धौ-आशीर्लिङि छान्दसं रूपम्। शुध्येम ॥
@@ -444,14 +476,6 @@ A hundred autumns may we bide.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भू᳓यसीः शर᳓दः शता᳓त् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-भूय॑सीः श॒रदः॑ श॒तात् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
@@ -488,14 +512,22 @@ retained by SPP. In vs. 8 all the mss. have *bhū́yasī* ⌊or *-āsī*⌋; but
 the comm. has *-sīs*, and so SPP. has the courage to adopt and read it,  
 as we had done before. \*⌊At p. 543⁹.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 A hundred, yea, and even more.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+भूय॑सीः श॒रदः॑ श॒तात् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भूय॑सीः। श॒रदः॑। श॒तात्। ६७.८। 
+भूय॑सीः। श॒रदः॑। श॒तात्। ६७.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सूर्यः
@@ -503,18 +535,22 @@ A hundred, yea, and even more.
 - प्राजापत्या गायत्री
 - दीर्घायु सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 जीवन के स्वास्थ्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शतात्) सौ से (भूयसीः) अधिक (शरदः) वर्षों तक [हम देखते रहें, जीते रहें, इत्यादि] ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  हम सब लोग प्रयत्न करें कि परमेश्वर की प्रार्थना सदा करते हुए युक्त आहार-विहार से ऐसे स्वस्थ और नीरोग रहें कि सब इन्द्रियाँ नेत्र, मुख, नासिका, मन आदि सौ वर्ष से भी अधिक पूरे दृढ़ और सचेत रहें, जिससे हम अपना कर्तव्य जीवनभर सावधानी के साथ किया करें ॥१-८॥ मन्त्र १ तथा २ ऋग्वेद में हैं-७।६६।१६ और सब सूक्त कुछ भेद से यजुर्वेद में है-३६।२४ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(भूयसीः) अधिकतराः (शरदः) वर्षाणि (शतात्) शतसंख्याकात् ॥

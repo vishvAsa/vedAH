@@ -8,15 +8,18 @@ title = "१०६ दूर्वाशाला"
 
 106. Against fire in the house.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 दूर्वाशाला  
 १-३ प्रमोचनः। दूर्वाशाला। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Pramocana.—dūrvāśālādevatyam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -37,15 +40,6 @@ Translated: Ludwig, Der Rigveda, iv. 422; Grill, 63, 170; Bloomfield, AJP. xi. 3
 उ᳓त्सो वा त᳓त्र जा᳓यतां ह्रदो᳓ वा पुण्ड᳓रीकवान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/01_Ayane_te.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आय॑ने ते प॒राय॑णे॒ दूर्वा॑ रोहन्तु पु॒ष्पिणीः॑।  
-उत्सो॑ वा॒ तत्र॒ जाय॑तां ह्र॒दो वा॑ पु॒ण्डरी॑कवान् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/01_Ayane_te.md">
 <details open><summary><h3>०१ आयने ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -63,14 +57,23 @@ by the comm., and apparently by Ppp.; we have noted only one of our mss.
 as having *puṣpíṇīḥ* (O.s.m.). The comm. says: *anenā ’gnikṛtabādhasyā  
 ’tyantābhāvaḥ prārthitaḥ*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Let flowery Durva grass grow up about thine exit and approach. There let a spring of water rise, or lake with blooming lotuses.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आय॑ने ते प॒राय॑णे॒ दूर्वा॑ रोहन्तु पु॒ष्पिणीः॑।  
+उत्सो॑ वा॒ तत्र॒ जाय॑तां ह्र॒दो वा॑ पु॒ण्डरी॑कवान् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒ऽअय॑ने। ते॒। प॒रा॒ऽअय॑ने। दूर्वाः॑। रो॒ह॒न्तु॒। पु॒ष्पिणीः॑। उत्सः॑। वा॒। तत्र॑। जाय॑ताम्। ह्र॒दः। वा॒। पु॒ण्डरी॑कऽवान्। १०६.१। 
+आ॒ऽअय॑ने। ते॒। प॒रा॒ऽअय॑ने। दूर्वाः॑। रो॒ह॒न्तु॒। पु॒ष्पिणीः॑। उत्सः॑। वा॒। तत्र॑। जाय॑ताम्। ह्र॒दः। वा॒। पु॒ण्डरी॑कऽवान्। १०६.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दूर्वा, शाला
@@ -78,18 +81,22 @@ Let flowery Durva grass grow up about thine exit and approach. There let a sprin
 - अनुष्टुप्
 - दूर्वाशाला सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गढ़ बनाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (ते) तेरे (आयने) आगमनमार्ग और (परायणे) निकास में (पुष्पिणीः) फूलवाली (दूर्वाः) दूब घासें (रोहन्तु) उगें। (वा) और (तत्र) वहाँ (उत्सः) कुआँ (वा) और (पुण्डरीकवान्) कमलोंवाला (ह्रदः) ताल (जायताम्) होवे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य दुर्ग और घरों के आस-पास के दृश्य को सुख बढ़ानेवाले दूध, जल, कमल आदि से स्वस्थता के लिये सुशोभित रक्खें ॥१॥   यह मन्त्र कुछ भेद से ऋग्वेद में है−म० १० स० १४२ म० ८ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(आयने) आङ्+इण् गतौ−ल्युट्। आगमने (ते) तव (परायणे) इण्−ल्युट्। बहिर्गमने (दूर्वाः) दूर्वी हिंसायाम्−अ। स्वनामख्यातघासाः। सहस्रवीर्याः। हरिताः (रोहन्तु) उद्भवन्तु (पुष्पिणीः) बहुपुष्पयुक्ताः (उत्सः) अ० १।१५।३। कूपः−निघ० ३।२३। (वा) चार्थे (तत्र) तस्मिन् देशे (जायताम्) वर्तताम् (ह्रदः) अगाधजलाशयः (पुण्डरीकवान्) फर्फरीकादयश्च। उ० ४।२०। इति पुडि खण्डने−यद्वा पुण शुभकर्मणि−ईकन्, उभयपक्षे पृषोदरादित्वात्साधुः। कमलैर्युक्तः ॥
@@ -103,15 +110,6 @@ Let flowery Durva grass grow up about thine exit and approach. There let a sprin
 
 अपा᳓मिदं᳓ न्य᳓यनं समुद्र᳓स्य निवे᳓शनम्।  
 म᳓ध्ये ह्रद᳓स्य नो गृहाः᳓ पराची᳓ना मु᳓खा कृधि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/02_apAmidaM_nyayanam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒पामि॒दं न्यय॑नं समु॒द्रस्य॑ नि॒वेश॑नम्।  
-मध्ये॑ ह्र॒दस्य॑ नो गृ॒हाः प॑रा॒चीना॒ मुखा॑ कृधि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/02_apAmidaM_nyayanam.md">
@@ -129,14 +127,23 @@ by the comm. regarded as addressed to the fire (one of whose common
 epithets is *viśvatomukha* 'having faces in every direction'); perhaps  
 rather 'the points of thine arrows': cf. VS. xvi. 53.
 </details>
+
 <details><summary>Griffith</summary>
 
 This is the place where waters meet, here is the gathering of the flood. Our home is set amid the lake: turn thou thy jaws away from it.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒पामि॒दं न्यय॑नं समु॒द्रस्य॑ नि॒वेश॑नम्।  
+मध्ये॑ ह्र॒दस्य॑ नो गृ॒हाः प॑रा॒चीना॒ मुखा॑ कृधि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पाम्। इ॒दम्। नि॒ऽअय॑नम्। स॒मु॒द्रस्य॑। नि॒ऽवेश॑नम्। मध्ये॑। ह्र॒दस्य॑। नः॒। गृ॒हाः। प॒रा॒चीना॑। मुखा॑। कृ॒धि॒। १०६.२। 
+अ॒पाम्। इ॒दम्। नि॒ऽअय॑नम्। स॒मु॒द्रस्य॑। नि॒ऽवेश॑नम्। मध्ये॑। ह्र॒दस्य॑। नः॒। गृ॒हाः। प॒रा॒चीना॑। मुखा॑। कृ॒धि॒। १०६.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दूर्वाशाला
@@ -144,18 +151,22 @@ This is the place where waters meet, here is the gathering of the flood. Our hom
 - अनुष्टुप्
 - दूर्वाशाला सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गढ़ बनाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अपाम्) प्रजाओं का (इदम्) यह (न्ययनम्) निवासस्थान (समुद्रस्य) जलसमूह का (निवेशनम्) प्रवेश हो। (नः गृहाः) हमारे घर (ह्रदस्य) ताल वा खाई के (मध्ये) बीच में हों, [हे राजन् शत्रुओं के] (मुखा) मुखों को (पराचीना) उलटा (कृधि) कर दे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  राजा प्रजा की रक्षा के लिये दुर्ग के चारों ओर जल की गहरी खाई रक्खे, जिससे शत्रुओं का मार्ग रुका रहे ॥२॥   इस मन्त्र का पूर्वार्ध यजुर्वेद में है−अ० १७ म० ७ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(अपाम्) प्रजानाम्। आपः=आप्ताः प्रजाः−दयानन्दभाष्ये−यजु० ६।२७। (इदम्) (न्ययनम्) इण्−ल्युट्। निवासस्थानम् (समुद्रस्य) जलौघस्य (निवेशनम्) प्रवेशनम् (मध्ये) (ह्रदस्य) जलाशयस्य। परिखायाः (नः) अस्माकम् (गृहाः) गेहानि (पराचीना) प्रतिकूलानि (कृधि) कुरु ॥
@@ -169,15 +180,6 @@ This is the place where waters meet, here is the gathering of the flood. Our hom
 
 हिम᳓स्य त्वा जरा᳓युणा शा᳓ले प᳓रि व्ययामसि।  
 शीत᳓ह्रदा हि᳓ नो भु᳓वोऽग्नि᳓ष्कृणोतु भेषज᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/03_himasya_tvA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-हि॒मस्य॑ त्वा ज॒रायु॑णा॒ शाले॒ परि॑ व्ययामसि।  
-शी॒तह्र॑दा॒ हि नो॒ भुवो॒ऽग्निष्कृ॑णोतु भेष॒जम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/03_himasya_tvA.md">
@@ -198,14 +200,23 @@ authorities, read *agníṣ k-* in **d**, though it appears to be called
 for by Prāt. ii. 65, and both editions accept it. The comm. explains the  
 envelop to be *avakārūpeṇa śāivālena*. ⌊Ppp. combines *bhuvo ‘gnir.*⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 O House, we compass thee about with coolness to envelop thee. Cool as a lake be thou to us. Let Agni bring us healing balm!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+हि॒मस्य॑ त्वा ज॒रायु॑णा॒ शाले॒ परि॑ व्ययामसि।  
+शी॒तह्र॑दा॒ हि नो॒ भुवो॒ऽग्निष्कृ॑णोतु भेष॒जम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हि॒मस्य॑। त्वा॒। जरायु॑णा। शाले॑। परि॑। व्य॒या॒म॒सि॒। शी॒तऽह्र॑दा। हि। नः॒। भुवः॑। अ॒ग्निः। कृ॒णो॒तु॒। भे॒ष॒जम्। १०६.३। 
+हि॒मस्य॑। त्वा॒। जरायु॑णा। शाले॑। परि॑। व्य॒या॒म॒सि॒। शी॒तऽह्र॑दा। हि। नः॒। भुवः॑। अ॒ग्निः। कृ॒णो॒तु॒। भे॒ष॒जम्। १०६.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दूर्वाशाला
@@ -213,18 +224,22 @@ O House, we compass thee about with coolness to envelop thee. Cool as a lake be 
 - अनुष्टुप्
 - दूर्वाशाला सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गढ़ बनाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शाले) हे शाला ! (हिमस्य) शीत के (जरायुणा) जीर्ण करनेवाले वस्त्र वा अग्नि के साथ (त्वा) तुझको (परि) अच्छे प्रकार (व्ययामसि) हम प्राप्त होते हैं। (हि) क्योंकि [जब] तू (नः) हमारे लिये (शीतह्रदा) ताल के समान शीतल (भुवः) होवे, (अग्निः) अग्नि [ताप] (भेषजम्) भयनिवारक कर्म (कृणोतु) करे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य शीत के लिये उष्ण सामग्री और उसी प्रकार उष्ण ऋतु के लिये शीतल वस्तुओं का भण्डार दुर्ग और घरों में रक्खें ॥३॥   इस मन्त्र का पूर्वार्द्ध कुछ भेद से यजुर्वेद में है−अ० १७।५ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(हिमस्य) शीतस्य (त्वा) त्वाम् (जरायुणा) किंजरयोः श्रिणः। उ० १।४। इति जरा+इण् गतौ−ञुण्। जरामेति येन जरायुस्तेन वस्त्रेणाग्निना वा (शाले) हे गृह (परि) परितः (व्ययामसि) व्यय गतौ वित्तसमुत्सर्गे च। प्राप्नुमः (शीतह्रदा) शीतो ह्रद इव (हि) यस्मात् कारणात् (नः) अस्मभ्यम् (भुवः) त्वं भवेः (अग्निः) तापः (कृणोतु) करोतु (भेषजम्) भयनिवारकं कर्म ॥

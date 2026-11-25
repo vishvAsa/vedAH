@@ -8,15 +8,18 @@ title = "०२८ स्वस्ति"
 
 28 (29). Of the instruments of offering.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 स्वस्ति।  
 मेधातिथिः। वेदः। त्रिष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Medhātithi (?).—vedadevatākam. trāiṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also in Pāipp. xx. To this hymn, as to the preceding, Kāuś. pays no att
 #### Translations
 Translated: Ludwig, p. 19; Henry, 11, 65; Griffith, i. 341.
 </details>
+
 <details><summary>Griffith</summary>
 
 Praise of the sacrificial utensils
@@ -39,15 +43,6 @@ Praise of the sacrificial utensils
 
 वेदः᳓ स्वस्ति᳓र्द्रुघणः᳓ स्वस्तिः᳓ परशु᳓र्वे᳓दिः परशु᳓र्नः स्वस्ति᳓।  
 ह᳙विष्कृ᳓तो यज्ञिया यज्ञ᳓कामास्ते देवा᳓सो यज्ञ᳓मिमं᳓ जुषन्ताम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/028_svasti/01_vedaH_svastirdrughaNaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वे॒दः स्व॒स्तिर्द्रु॑घ॒णः स्व॒स्तिः प॑र॒शुर्वेदिः॑ पर॒शुर्नः॑ स्व॒स्ति।  
-ह॑वि॒ष्कृतो॑ यज्ञिया य॒ज्ञका॑मास्ते दे॒वासो॑ य॒ज्ञमि॒मं जु॑षन्ताम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/028_svasti/01_vedaH_svastirdrughaNaH.md">
@@ -83,14 +78,23 @@ Bloomfield, ib. xlviii. 546; Franke, WZKM. viii. 342.⌋ ⌊In **b**, Ppp.
 reads *paraśur vediṣ paraśu nas svasti*, and, in **d**, *havir idaṁ* for  
 *yajñam imaṁ.*⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Blest be the Broom, may the Mace bring a blessing, and may the Altar and the Hatchet bless us. Worshipful Gods, may they accept this worship, lovers of sacri- fice, and sacrificers.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वे॒दः स्व॒स्तिर्द्रु॑घ॒णः स्व॒स्तिः प॑र॒शुर्वेदिः॑ पर॒शुर्नः॑ स्व॒स्ति।  
+ह॑वि॒ष्कृतो॑ यज्ञिया य॒ज्ञका॑मास्ते दे॒वासो॑ य॒ज्ञमि॒मं जु॑षन्ताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वे॒दः। स्व॒स्तिः। द्रु॒ऽघ॒नः। स्व॒स्तिः। प॒र॒शुः। वेदिः॑। प॒र॒शुः। नः॒। स्व॒स्ति। ह॒विः॒ऽकृतः॑। य॒ज्ञियाः॑। य॒ज्ञऽका॑माः। ते। दे॒वासः॑। य॒ज्ञम्। इ॒मम्। जु॒ष॒न्ता॒म्। २९.१। 
+वे॒दः। स्व॒स्तिः। द्रु॒ऽघ॒नः। स्व॒स्तिः। प॒र॒शुः। वेदिः॑। प॒र॒शुः। नः॒। स्व॒स्ति। ह॒विः॒ऽकृतः॑। य॒ज्ञियाः॑। य॒ज्ञऽका॑माः। ते। दे॒वासः॑। य॒ज्ञम्। इ॒मम्। जु॒ष॒न्ता॒म्। २९.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वेदः
@@ -98,18 +102,22 @@ Blest be the Broom, may the Mace bring a blessing, and may the Altar and the Hat
 - त्रिष्टुप्
 - स्वस्ति सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 यज्ञ करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वेदः) वेद [ईश्वरीय ज्ञान] (स्वस्तिः) मङ्गलकारी हो, (द्रुघणः) मुद्गर [मोगरी] (स्वस्तिः) मङ्गलकारी हो, (वेदिः) वेदी [यज्ञभूमि, हवनकुण्ड आदि], (परशुः) फरसा [वा गड़ासी] और (परशुः) कुल्हाड़ी (नः) हमें (स्वस्ति) मङ्गलकारी हो। (हविष्कृतः) देने लेने योग्य व्यवहार करनेवाले, (यज्ञियाः) पूजनीय, (यज्ञकामाः) मिलाप चाहनेवाले (ते) वे (देवासः) विद्वान् लोग (इमम्) इस (यज्ञम्) यज्ञ [पूजनीय कर्म को] (जुषन्ताम्) स्वीकार करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य वेदज्ञान द्वारा सब उचित सामग्री लेकर विद्वानों के सत्सङ्ग से अग्नि में हवन तथा शिल्प सम्बन्धी संयोग-वियोग आदि क्रिया करके आनन्दित रहें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(वेदः) हलश्च। पा० ३।३।१२१। इति विद ज्ञाने, विद सत्तायाम्, विद्लृ लाभे, विद विचारणे-घञ्। संहितात्मकः परमेश्वरोक्तो ग्रन्थभेदः (स्वस्तिः) अ० १।३०।२। मङ्गलकरः (द्रुघणः) करणेऽयोविद्रुषु। पा० ३।३।८२। इति द्रु+हन्-अप्, घनादेशश्च। पूर्वपदात्संज्ञायामगः। पा० ८।४।३। इति णत्वम्। द्रुमयः काष्ठमयो घनः। मुद्गरः (स्वस्तिः) (परशुः) अ० ३।१९।४। तृणादिच्छेदनी (वेदिः) हृपिषिरुहिवृतिविदि०। उ० ४।११९। इति विद ज्ञाने-इन्। यज्ञभूमिः। हवनकुण्डादिः। पण्डितः (परशुः) वृक्षच्छेदनसाधनं कुठारः (नः) अस्मभ्यम् (स्वस्ति) सुखकरः (हविष्कृतः) दातव्यग्राह्यव्यवहारकर्तारः (यज्ञियाः) आदरार्हाः (यज्ञकामाः) संगतिं कामयमानाः (ते) प्रसिद्धाः (देवासः) व्यवहारिणो विद्वांसः (यज्ञम्) पूजनीयं व्यवहारम् (इमम्) (जुषन्ताम्) सेवन्ताम् ॥

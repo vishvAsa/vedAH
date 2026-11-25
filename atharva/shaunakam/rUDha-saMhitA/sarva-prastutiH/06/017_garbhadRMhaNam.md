@@ -8,15 +8,18 @@ title = "०१७ गर्भदृंहणम्"
 
 17. Against premature birth.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 गर्भदृंहणम्।  
 १-४ अथर्वा। गर्भदृंहणम्, पृथिवि। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—caturṛcam. garbhadṛṅhaṇadevatyam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found, except vs. 1 (in the order 4, 2, 3), in Pāipp. xix. Used by Kāuś. (35.
 #### Translations
 Translated: Ludwig, p. 477; Florenz, 269 or 21; Griffith, i. 254; Bloomfield, 98, 467.
 </details>
+
 <details><summary>Griffith</summary>
 
 A charm to ensure conception
@@ -39,15 +43,6 @@ A charm to ensure conception
 
 य᳓थेयं᳓ पृथिवी᳓ मही᳓ भूता᳓नां ग᳓र्भमादधे᳓।  
 एवा᳓ ते ध्रियतां ग᳓र्भो अ᳓नु सू᳓तुं स᳓वितवे ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/017_garbhadRMhaNam/01_yatheyaM_pRthivI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यथे॒यं पृ॑थि॒वी म॒ही भू॒तानां॒ गर्भ॑माद॒धे।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/017_garbhadRMhaNam/01_yatheyaM_pRthivI.md">
@@ -65,14 +60,23 @@ parallel passages⌋. The comment to Prāt. ii. 103 notes the
 non-lingualization of the *s* of *sū́tum* after *ánu*—which is wholly  
 superfluous unless it read *ánusūtum*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Even as this mighty Earth conceived the germ of all the things that be, So may the germ of life be laid in thee that thou mayst bear a son.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथे॒यं पृ॑थि॒वी म॒ही भू॒तानां॒ गर्भ॑माद॒धे।  
+ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। भू॒ताना॑म्। गर्भ॑म्। आ॒ऽद॒धे। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.१। 
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। भू॒ताना॑म्। गर्भ॑म्। आ॒ऽद॒धे। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - गर्भदृंहणम्, पृथिवी
@@ -80,18 +84,22 @@ Even as this mighty Earth conceived the germ of all the things that be, So may t
 - अनुष्टुप्
 - गर्भदृंहण सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गर्भाधान का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यथा) जैसे (इयम्) इस (मही) बड़ी (पृथिवी) पृथिवी ने (भूतानाम्) पञ्च महाभूतों के (गर्भम्) गर्भ को (आदधे) यथावत् धारण किया है, (एव) वैसे ही (ते) (गर्भः) गर्भ (सूतुम्) संतान को (अनु) अनुकूलता से (सवितवे) उत्पन्न करने के लिये (ध्रियताम्) स्थिर होवे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे पृथिवी बीज को अपने में धारण करके अनुकूल समय पर उत्पन्न करती है, वैसे ही प्रयत्न किया जावे कि संतान गर्भ से पूरे दिनों में उत्पन्न होकर बली और पराक्रमी होवे, ऐसा ही भावार्थ आगे समझो ॥१॥   यह सूक्त स्वामी दयानन्द कृत संस्कारविधि में गर्भाधानप्रकरण में आया है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यथा) येन प्रकारेण (इयम्) परिदृश्यमाना (पृथिवी) (मही) विशाला (भूतानाम्) पृथिव्यादिपञ्चभूतानाम् (गर्भम्) अ० ३।१०।१२। स्तुत्यं बालकम् (आदधे) सम्यम् धृतवती (एव) एवम् (ते) तव (ध्रियताम्) गर्भाशये धृतः स्थिरो भवतु (गर्भः) (अनु) आनुकूल्येन (सूतुम्) पः किच्च। उ० १।७१। इति षूङ् प्राणिगर्भविमोचने−तुन् कित्। सूनुं संतानम् (सवितवे) षूङ्−तुमर्थे तवे प्रत्ययः। प्रसवितुं प्रजनयितुम् ॥
@@ -107,15 +115,6 @@ Even as this mighty Earth conceived the germ of all the things that be, So may t
 एवा᳓ ते ध्रियतां ग᳓र्भो अ᳓नु सू᳓तुं स᳓वितवे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/017_garbhadRMhaNam/02_yatheyaM_pRthivI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यथे॒यं पृ॑थि॒वी म॒ही दा॒धारे॒मान्वन॒स्पती॑न्।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/017_garbhadRMhaNam/02_yatheyaM_pRthivI.md">
 <details open><summary><h3>०२ यथेयं पृथिवी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -128,18 +127,28 @@ etc.
 Ppp. begins *yathe ’yam urvī pṛthivī*, and reads, in **c, d**, *garbha  
 anu* and *suvitave*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Even as this mighty Earth hath borne and bears the stately forest trees, So may the germ of life be borne in thee that thou mayst bear a son.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथे॒यं पृ॑थि॒वी म॒ही दा॒धारे॒मान्वन॒स्पती॑न्।  
+ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। इ॒मान्। वन॒स्पती॑न्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.२। 
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। इ॒मान्। वन॒स्पती॑न्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.२।
 </details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। इ॒मान्। वन॒स्पती॑न्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.२। 
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। इ॒मान्। वन॒स्पती॑न्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - गर्भदृंहणम्, पृथिवी
@@ -158,15 +167,6 @@ Even as this mighty Earth hath borne and bears the stately forest trees, So may 
 एवा᳓ ते ध्रियतां ग᳓र्भो अ᳓नु सू᳓तुं स᳓वितवे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/017_garbhadRMhaNam/03_yatheyaM_pRthivI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ पर्व॑तान्गि॒रीन्।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/017_garbhadRMhaNam/03_yatheyaM_pRthivI.md">
 <details open><summary><h3>०३ यथेयं पृथिवी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -177,18 +177,28 @@ let thine etc. etc.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Even as this mighty Earth hath borne and bears the mountains and the hills, So may the germ of life be borne in thee that thou mayst bear a son.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ पर्व॑तान्गि॒रीन्।  
+ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। पर्व॑तान्। गि॒रीन्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.३। 
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। पर्व॑तान्। गि॒रीन्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.३।
 </details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। पर्व॑तान्। गि॒रीन्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.३। 
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। पर्व॑तान्। गि॒रीन्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - गर्भदृंहणम्, पृथिवी
@@ -207,15 +217,6 @@ Even as this mighty Earth hath borne and bears the mountains and the hills, So m
 एवा᳓ ते ध्रियतां ग᳓र्भो अ᳓नु सू᳓तुं स᳓वितवे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/017_garbhadRMhaNam/04_yatheyaM_pRthivI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ विष्ठि॑तं॒ जग॑त्।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/017_garbhadRMhaNam/04_yatheyaM_pRthivI.md">
 <details open><summary><h3>०४ यथेयं पृथिवी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -226,18 +227,28 @@ beings, so let thine etc. etc.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Even as this mighty Earth supports the moving world that dwells thereon, So may the germ of life be borne in thee that thou mayst bear a son.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ विष्ठि॑तं॒ जग॑त्।  
+ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। विऽस्थि॑तम्। जग॑त्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.४। 
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। विऽस्थि॑तम्। जग॑त्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.४।
 </details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। विऽस्थि॑तम्। जग॑त्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.४। 
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। विऽस्थि॑तम्। जग॑त्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - गर्भदृंहणम्, पृथिवी

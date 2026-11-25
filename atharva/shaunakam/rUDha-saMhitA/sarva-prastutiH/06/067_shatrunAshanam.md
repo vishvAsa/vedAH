@@ -8,15 +8,18 @@ title = "०६७ शत्रुनाशनम्"
 
 67. For success against enemies.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
 १-३ अथर्वा। इन्द्रः। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (?).—cāndram utāi ”ndram. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Not found in Pāipp. Used by Kāuś. (14. 7) in a battle rite with the two prece
 #### Translations
 Translated: Ludwig, p. 518; Griffith, i. 282.
 </details>
+
 <details><summary>Griffith</summary>
 
 A charm for the destruction and plunder of enemies
@@ -41,15 +45,6 @@ A charm for the destruction and plunder of enemies
 मु᳓ह्यन्त्वद्या᳓मूः᳓ से᳓ना अमित्राणां परस्तरा᳓म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/01_pari_vartmAni.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-परि॒ वर्त्मा॑नि स॒र्वत॒ इन्द्रः॑ पू॒षा च॑ सस्रतुः।  
-मुह्य॑न्त्व॒द्यामूः सेना॑ अमित्राणां परस्त॒राम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/01_pari_vartmAni.md">
 <details open><summary><h3>०१ परि वर्त्मानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -62,14 +57,23 @@ armies of our enemies today be confounded further away.
 That is (**a**), to prevent access to our villages. The comm. takes  
 *parastarām* as simply = *atiśayena*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Indra and Pushan have gone forth along the ways on every side. To-day those hosts of enemies must flee bewildered far away.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+परि॒ वर्त्मा॑नि स॒र्वत॒ इन्द्रः॑ पू॒षा च॑ सस्रतुः।  
+मुह्य॑न्त्व॒द्यामूः सेना॑ अमित्राणां परस्त॒राम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परि॑। वर्त्मा॑नि। स॒र्वतः॑। इन्द्रः॑। पू॒षा। च॒। स॒स्र॒तुः॒। मुह्य॑न्तु। अ॒द्य। अ॒मूः। सेनाः॑। अ॒मित्रा॑णाम्। प॒रः॒ऽत॒राम्। ६७.१। 
+परि॑। वर्त्मा॑नि। स॒र्वतः॑। इन्द्रः॑। पू॒षा। च॒। स॒स्र॒तुः॒। मुह्य॑न्तु। अ॒द्य। अ॒मूः। सेनाः॑। अ॒मित्रा॑णाम्। प॒रः॒ऽत॒राम्। ६७.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - चन्द्रः, इन्द्रः
@@ -77,18 +81,22 @@ Indra and Pushan have gone forth along the ways on every side. To-day those host
 - अनुष्टुप्
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सेनापति के लक्षणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इन्द्रः) बड़े ऐश्वर्यवाला राजा (च) और (पूषा) पोषण करनेवाला मन्त्री (वर्त्मानि) मार्गों पर (सर्वतः) सब दिशाओं में (परि सस्रतुः) सब ओर चलते रहे हैं। (अमित्राणाम्) पीड़ा देनेवाले शत्रुओं की (अमूः) वे सब (सेनाः) सेनायें (अद्य) आज (परस्तराम्) बहुत दूर (मुह्यन्तु) घबड़ा कर चली जावें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  युद्धकुशल राजा और मन्त्री के उपाय से शत्रु की सब सेनायें भाग जावें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(परि) परितः (वर्त्मानि) वृतु वर्तने−मनिन्। धर्ममार्गान् (सर्वतः) सर्वासु दिक्षु (इन्द्रः) महाप्रतापी राजा (पूषा) पोषको मन्त्री (च) (सस्रतुः) सृ गतौ−लिट्। जग्मतुः (मुह्यन्तु) मूढचित्ताः पलायन्ताम् (अद्य) अस्मिन् दिने (अमूः) दूरे दृश्यमानाः (सेनाः) सैन्यानि (अमित्राणाम्) पीडकानां शत्रूणाम् (परस्तराम्) परः+तरप्। किमेत्तिङव्ययघात्०। ५।४।११। इति आमु। अधिकदूरदेशे ॥
@@ -102,15 +110,6 @@ Indra and Pushan have gone forth along the ways on every side. To-day those host
 
 मूढा᳓ अमि᳓त्राश्चरताशीर्षा᳓ण इवा᳓हयः।  
 ते᳓षां वो अग्नि᳓मूढानामि᳓न्द्रो हन्तु व᳓रंवरम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मू॒ढा अ॒मित्रा॑श्चरताशी॒र्षाण॑ इ॒वाह॑यः।  
-तेषां॑ वो अ॒ग्निमू॑ढाना॒मिन्द्रो॑ हन्तु॒ वरं॑वरम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
@@ -133,14 +132,23 @@ comm. understands *amitrās*, voc.; and he explains **b** to mean as
 snakes with their heads cut off can merely move about, but not do  
 anything in particular.
 </details>
+
 <details><summary>Griffith</summary>
 
 Ye foes, come hitherward dismayed like serpents when their heads are gone. Let Indra slay each bravest one of you whom Agni hath con- fused.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मू॒ढा अ॒मित्रा॑श्चरताशी॒र्षाण॑ इ॒वाह॑यः।  
+तेषां॑ वो अ॒ग्निमू॑ढाना॒मिन्द्रो॑ हन्तु॒ वरं॑वरम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मू॒ढाः। अ॒मित्राः॑। च॒र॒त॒। अ॒शी॒र्षाणः॑ऽइव। अह॑यः। तेषा॑म्। वः॒। अ॒ग्निऽमू॑ढानाम्। इन्द्रः॑। ह॒न्तु॒। वर॑म्ऽवरम्। ६७.२। 
+मू॒ढाः। अ॒मित्राः॑। च॒र॒त॒। अ॒शी॒र्षाणः॑ऽइव। अह॑यः। तेषा॑म्। वः॒। अ॒ग्निऽमू॑ढानाम्। इन्द्रः॑। ह॒न्तु॒। वर॑म्ऽवरम्। ६७.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - चन्द्रः, इन्द्रः
@@ -148,18 +156,22 @@ Ye foes, come hitherward dismayed like serpents when their heads are gone. Let I
 - अनुष्टुप्
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सेनापति के लक्षणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मूढाः) हे घबड़ाये हुए (अमित्राः) पीड़ा देनेवाले शत्रुओं ! (अशीर्षाणः) बिना शिरवाले [शिर कटे] (अहयः इव) साँपों के समान (चरत) चेष्टा करो। (इन्द्रः) प्रतापी वीर राजा (अग्निमूढानाम्) अग्नि [आग्नेय शस्त्रों] से घबड़ाये हुए (तेषां वः) उन तुम सबों में से (वरंवरम्) अच्छे-अच्छों को चुन कर (हन्तु) मारे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  कुशल सेनापति इस प्रकार व्यूहरचना करे कि शत्रु के सेनादल विध्वंस होकर घबड़ा जावें और उनके बड़े-बड़े नायक मारे जावें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(मूढाः) मुह वैचित्ये−क्त। व्याकुलाः (अमित्राः) पीडकाः शत्रवः (चरत) चेष्टां कुरुत (अशीर्षाणः) शीर्षंश्छन्दसि। प० ६।१।६०। इति शिरः शब्दस्य शीर्षन्। अशिरसः। छिन्नशिरस्काः (इव) यथा (अहयः) अ० २।५।५। आहन्तारः सर्पाः (तेषाम्) तादृशानाम् (वः) युष्माकम् (अग्निमूढानाम्) अग्निना आग्नेयास्त्रैर्व्याकुलीकृतानां मध्ये (इन्द्रः) प्रतापी वीरो राजा (हन्तु) नाशयतु (वरंवरम्) श्रेष्ठं श्रेष्ठं नायकम् ॥
@@ -173,15 +185,6 @@ Ye foes, come hitherward dismayed like serpents when their heads are gone. Let I
 
 ऐ᳓षु नह्य वृ᳓षाजि᳓नं हरिण᳓स्या भि᳓यं कृधि।  
 प᳓राङमि᳓त्र ए᳓षत्वर्वा᳓ची गौ᳓रु᳓पेषतु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/03_aiShu_nahya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ऐषु॑ नह्य॒ वृषा॒जिनं॑ हरि॒णस्या॒ भियं॑ कृधि।  
-परा॑ङ॒मित्र॒ एष॑त्व॒र्वाची॒ गौरुपे॑षतु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/03_aiShu_nahya.md">
@@ -205,14 +208,23 @@ Prāt. iii. 52, and the case is quoted in the commentary to that rule.
 ⌊Correct *nahyá* to *nahya* (accent-mark slipped out of place).⌋ \*⌊In a  
 marginal note, W. compares *mitra-tū́rya*, v. 20. 7.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Gird thou a bullock's hide on these, make those as timid as the deer. Let the foe flee away, and let his kine come hither-ward to us.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऐषु॑ नह्य॒ वृषा॒जिनं॑ हरि॒णस्या॒ भियं॑ कृधि।  
+परा॑ङ॒मित्र॒ एष॑त्व॒र्वाची॒ गौरुपे॑षतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। ए॒षु॒। न॒ह्य॒। वृषा॑। अ॒जिन॑म्। ह॒रि॒णस्य॑। भिय॑म्। कृ॒धि॒। परा॑ङ्। अ॒मित्रः॑। एष॑तु। अ॒र्वाची॑। गौः। उप॑। ए॒ष॒तु॒। ६७.३। 
+आ। ए॒षु॒। न॒ह्य॒। वृषा॑। अ॒जिन॑म्। ह॒रि॒णस्य॑। भिय॑म्। कृ॒धि॒। परा॑ङ्। अ॒मित्रः॑। एष॑तु। अ॒र्वाची॑। गौः। उप॑। ए॒ष॒तु॒। ६७.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - चन्द्रः, इन्द्रः
@@ -220,18 +232,22 @@ Gird thou a bullock's hide on these, make those as timid as the deer. Let the fo
 - अनुष्टुप्
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सेनापति के लक्षणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे सेनापति !] (एषु) इन [अपने वीरों] में (वृषा=वृष्णः) ऐश्वर्यवान् पुरुष का (अजिनम्) चर्म [कवच] (आ नह्य) पहिना दे, और [शत्रुओं में] (हरिणस्य) हरिण का (भियम्) डरपोकपन (कृधि) करदे। (अमित्रः) शत्रु (पराङ्) उलटे मुख होकर, (एषतु) चला जावे (गौः) भूमि [युद्धभूमि और राज्य] (अर्वाची) हमारी ओर (उप एषतु) चली आवे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सेनापति अपने वीरों को कवच आदि पहिना कर शत्रुओं को भयभीत करके रणभूमि और राज्य अपने हाथ करे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(एषु) स्वभटेषु (आ नह्य) आवधान। आच्छादय (वृषा) सुपां सुलुक्०। पा० ७।१।३९। इति षष्ठ्याः सु। वृष्णः। इन्द्रस्य। ऐश्वर्यवतः पुरुषस्य (अजिनम्) अ० ४।७।६। चर्म। कवचम् (हरिणस्य) मृगस्य (भियम्) भीतिम् (कृधि) कुरु शत्रुषु (पराङ्) षण्मुखः सन् (अमित्रः) शत्रुः (एषतु) इष गतौ गच्छतु। पलायताम् (अर्वाची) अस्मदभिमुखा। अनुकूला (गौः) पृथ्वी−निघ० १।१। रणभूमिः। राजभूमिः (उप एषतु) समीपं प्राप्नोतु ॥

@@ -8,15 +8,18 @@ title = "०४२ ब्रह्मयज्ञः"
 
 42. Extolling the bráhman etc.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मयज्ञः।  
 १-४ ब्रह्मा। ब्रह्म। १ अनुष्टुप्, २ त्र्यवसाना ककुम्मती पथ्यापङ्क्तिः, ३ त्रिष्टुप्, ४ जगती।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—catasras. mantroktabrahmadevatyam. 1. anuṣṭubh; 2. 3-av. kakummatī pathyāpan̄kti; 3. triṣṭubh; 4. jagatī.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Only fragments of this hymn are found in Pāipp.; ⌊Roth's Collation says that 
 #### Translations
 Translated: Griffith, ii. 298.
 </details>
+
 <details><summary>Griffith</summary>
 
 In praise of Brahma, Prayer, or Devotion
@@ -39,15 +43,6 @@ In praise of Brahma, Prayer, or Devotion
 
 ब्र᳓ह्म हो᳓ता ब्र᳓ह्म यज्ञा᳓ ब्र᳓ह्मणा स्व᳓रवो मिताः᳓।  
 अ᳙ध्वर्यु᳓र्ब्र᳓ह्मणो जातो᳓ ब्र᳓ह्मणोऽन्त᳓र्हितं हविः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/01_brahma_hotA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ब्रह्म॒ होता॒ ब्रह्म॑ य॒ज्ञा ब्रह्म॑णा॒ स्वर॑वो मि॒ताः।  
-अ॑ध्व॒र्युर्ब्रह्म॑णो जा॒तो ब्रह्म॑णो॒ऽन्तर्हि॑तं ह॒विः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/01_brahma_hotA.md">
@@ -85,14 +80,23 @@ equally acceptable. \*⌊W. seems to have in mind such a construction as
 why he says that, if we read *bráhmaṇas*, we must also read  
 *antárhitam*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was the Adhvaryu born, from Brahma hidden offering.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रह्म॒ होता॒ ब्रह्म॑ य॒ज्ञा ब्रह्म॑णा॒ स्वर॑वो मि॒ताः।  
+अ॑ध्व॒र्युर्ब्रह्म॑णो जा॒तो ब्रह्म॑णो॒ऽन्तर्हि॑तं ह॒विः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑। होता॑। ब्रह्म॑। य॒ज्ञाः। ब्रह्म॑णा। स्वर॑वः। मि॒ताः। अ॒ध्व॒र्युः। ब्रह्म॑णः। जा॒तः। ब्रह्म॑णः। अ॒न्तः॒ऽहि॑तम्। ह॒विः। ४२.१। 
+ब्रह्म॑। होता॑। ब्रह्म॑। य॒ज्ञाः। ब्रह्म॑णा। स्वर॑वः। मि॒ताः। अ॒ध्व॒र्युः। ब्रह्म॑णः। जा॒तः। ब्रह्म॑णः। अ॒न्तः॒ऽहि॑तम्। ह॒विः। ४२.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्म
@@ -100,18 +104,22 @@ Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was t
 - अनुष्टुप्
 - ब्रह्म यज्ञ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेद की स्तुति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ब्रह्म=ब्रह्मणा) वेद द्वारा (होता) होता [हवनकर्ता], (ब्रह्म) वेद द्वारा (यज्ञाः) अनेक यज्ञ होते हैं, (ब्रह्मणा) वेद द्वारा (स्वरवः) यज्ञस्तम्भ (मिताः) खड़े किये जाते हैं। (ब्रह्मणः) वेद से (अध्वर्युः) यज्ञकर्ता (जातः) प्रसिद्ध होता है, (ब्रह्मणः) वेद के (अन्तर्हितम्) भीतर रक्खा हुआ (हविः) हवि [हवन विधान] है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेद द्वारा ही याजक, यज्ञव्यवहार और यज्ञविधान निश्चित होते हैं ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   यह सूक्त कुछ भेद से महर्षिदयानन्दकृत संस्कारविधि संन्यासाश्रमप्रकरण में उद्धृत है ॥१−(ब्रह्म) तृतीयार्थे प्रथमा। ब्रह्मणा। वेदद्वारा (होता) हवनकर्ता (ब्रह्म) वेदद्वारा (यज्ञाः) यज्ञव्यवहाराः (ब्रह्मणा) वेदद्वारा (स्वरवः) यूपाः। यज्ञस्तम्भाः (मिताः) डुमिञ् प्रक्षेपणे-क्त। प्रक्षिप्ताः। स्थापिताः (अध्वर्युः) ऋत्विक् (ब्रह्मणः) वेदात् (जातः) प्रसिद्धो भवति (ब्रह्मणः) वेदस्य (अन्तर्हितम्) मध्ये धृतम्। प्रणीतम् (हविः) हवनविधानम् ॥
@@ -126,16 +134,6 @@ Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was t
 ब्र᳓ह्म स्रु᳓चो घृत᳓वतीर्ब्र᳓ह्मणा वे᳓दिरु᳓द्धिता।  
 ब्र᳓ह्म यज्ञ᳓स्य त᳓त्त्वं च ऋत्वि᳓जो ये᳓ हविष्कृ᳓तः।  
 श᳙मिता᳓य स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/02_brahma_srucho.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ब्रह्म॒ स्रुचो॑ घृ॒तव॑ती॒र्ब्रह्म॑णा॒ वेदि॒रुद्धि॑ता।  
-ब्रह्म॑ य॒ज्ञस्य॒ तत्त्वं॑ च ऋ॒त्विजो॒ ये ह॑वि॒ष्कृतः॑।  
-श॑मि॒ताय॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/02_brahma_srucho.md">
@@ -170,14 +168,24 @@ tántavas* of AV. xv. 3. 6, and the TB. parallel, all join in suggesting
 that the true reading is *yajñásya tántavas*.⌋ In the appendix to the  
 verse, the comm. reads *sammitāya*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Brahma is fatness-dropping scoops: with Brahma was the altar reared. Brahma is worship, lengthened rite, the Rishis who pay sacrifice, the victim's Immolators. Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रह्म॒ स्रुचो॑ घृ॒तव॑ती॒र्ब्रह्म॑णा॒ वेदि॒रुद्धि॑ता।  
+ब्रह्म॑ य॒ज्ञस्य॒ तत्त्वं॑ च ऋ॒त्विजो॒ ये ह॑वि॒ष्कृतः॑।  
+श॑मि॒ताय॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑। स्रुचः॑। घृ॒तऽव॑तीः। ब्रह्म॑णा। वेदिः॑। उद्धि॑ता। ब्रह्म॑। य॒ज्ञस्य॑। तत्त्व॑म्। च॒। ऋ॒त्विजः॑। ये। ह॒विः॒ऽकृतः॑। श॒मि॒ताय॑। स्वाहा॑। ४२.२। 
+ब्रह्म॑। स्रुचः॑। घृ॒तऽव॑तीः। ब्रह्म॑णा। वेदिः॑। उद्धि॑ता। ब्रह्म॑। य॒ज्ञस्य॑। तत्त्व॑म्। च॒। ऋ॒त्विजः॑। ये। ह॒विः॒ऽकृतः॑। श॒मि॒ताय॑। स्वाहा॑। ४२.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्म
@@ -185,18 +193,22 @@ Brahma is fatness-dropping scoops: with Brahma was the altar reared. Brahma is w
 - अनुष्टुप्
 - ब्रह्म यज्ञ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेद की स्तुति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ब्रह्म=ब्रह्मणा) वेदद्वारा (घृतवतीः) घीवाली (स्रुचः) स्रुचाएँ [चमचे], (ब्रह्मणा) वेद द्वारा (वेदिः) वेदी (उद्धिता) स्थिर की गयी है। (ब्रह्म) वेद द्वारा (यज्ञस्य) यज्ञ का (तत्त्वम्) तत्त्व (च) और (ये) जो (हविष्कृतः) हवन करनेवाले (ऋत्विजः) ऋत्विज हैं [वे भी स्थिर किये हैं]। (शमिताय) शान्तिकारक [वेद] के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेद से ही यज्ञ के साधनों और यज्ञकर्ताओं का विधान किया जाता है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(ब्रह्म) ब्रह्मणा। वेदद्वारा (स्रुचः) यज्ञपात्राणि चमसाः (घृतवतीः) घृतवत्यः। घृतेन पूर्णाः (ब्रह्मणा) वेदद्वारा (वेदिः) यज्ञभूमिः (उद्धिता) सम्पादिता (ब्रह्म) ब्रह्मणा। वेदद्वारा (यज्ञस्य) यागस्य (तत्त्वम्) स्वरूपम्। याथातथ्यम् (च) (ऋत्विजः) होतारः (ये) (हविष्कृतः) यज्ञकर्तारः (शमिताय) हृश्याभ्यामितन्। उ०३।९३। शमु उपशमे-इतन्। शान्तिकारकाय वेदाय (स्वाहा) सुवाणी ॥
@@ -212,15 +224,6 @@ Brahma is fatness-dropping scoops: with Brahma was the altar reared. Brahma is w
 आ᳓ सुत्रा᳓व्णे सुमति᳓म् आवृणानः᳓।  
 इम᳓म् इन्द्र प्र᳓ति हव्यं᳓ **गृभा᳓य**  
 सत्याः᳓ **सन्तु** य᳓जमानस्य का᳓माः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/03_aMhomuche_pra.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अं॑हो॒मुचे॒ प्र भ॑रे मनी॒षामा सु॒त्राव्णे॑ सुम॒तिमा॑वृणा॒नः।  
-इ॒ममि॑न्द्र॒ प्रति॑ ह॒व्यं गृ॒भाय॑ स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/03_aMhomuche_pra.md">
@@ -256,14 +259,23 @@ W's subsequently collated O., and apparently also by his L. But SPP.
 prints *imám* without note of variant; and the comm. has *imam*, which  
 he makes = *idam* in the sense of *idānīm!*⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 To him who frees from woe mine hymn I offer, to the Good Guardian, as I seek his favour. Accept this offering of mine, O Indra. Fulfilled be all the sacri- ficer's wishes!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अं॑हो॒मुचे॒ प्र भ॑रे मनी॒षामा सु॒त्राव्णे॑ सुम॒तिमा॑वृणा॒नः।  
+इ॒ममि॑न्द्र॒ प्रति॑ ह॒व्यं गृ॒भाय॑ स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अं॒हः॒ऽमुचे॑। प्र। भ॒रे॒। म॒नी॒षाम्। आ। सु॒ऽत्राव्ने॑। सु॒ऽम॒तिम्। आ॒ऽवृ॒णा॒नः। इ॒मम्। इ॒न्द्र॒। प्रति॑। ह॒व्यम्। गृ॒भा॒य॒। स॒त्याः। स॒न्तु॒। यज॑मानस्य। कामाः॑। ४२.३। 
+अं॒हः॒ऽमुचे॑। प्र। भ॒रे॒। म॒नी॒षाम्। आ। सु॒ऽत्राव्ने॑। सु॒ऽम॒तिम्। आ॒ऽवृ॒णा॒नः। इ॒मम्। इ॒न्द्र॒। प्रति॑। ह॒व्यम्। गृ॒भा॒य॒। स॒त्याः। स॒न्तु॒। यज॑मानस्य। कामाः॑। ४२.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्म
@@ -271,18 +283,22 @@ To him who frees from woe mine hymn I offer, to the Good Guardian, as I seek his
 - अनुष्टुप्
 - ब्रह्म यज्ञ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेद की स्तुति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सुमतिम्) सुमति (आवृणानः) माँगता हुआ मैं (अंहोमुचे) कष्ट से छुड़ानेहारे, (सुत्राव्णे) बड़े रक्षक [परमात्मा] के लिये (मनीषाम्) अपनी मननशक्ति को (आ) सब ओर से (प्र भरे) समर्पण करता हूँ। (इन्द्र) हे इन्द्र ! [परम ऐश्वर्य वाले परमात्मन्] (इमम्) इस (हव्यम्) ग्राह्य स्तुति को (प्रति गृभाय) स्वीकर कर, (यजमानस्य) यजमान के (कामाः) मनोरथ (सत्याः) सत्य [पूर्ण] (सन्तु) होवें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य को योग्य है कि परमात्मा को आत्मसमर्पण करके सुमति के साथ अपने उत्तम मनोरथ सिद्ध करे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(अंहोमुचे) कष्टाद् मोचयित्रे (प्रभरे) समर्पयामि (मनीषाम्) अ०५।९।८। कृतृभ्यामीषन्। उ०४।२६। मनु अवबोधने-ईषन्, टाप्। मननशक्तिम्। प्रज्ञाम् (आ) समन्तात् (सुत्राव्णे) सु+त्रैङ् पालने-वनिप्। महारक्षकाय परमेश्वराय (सुमतिम्) कल्याणबुद्धिम् (आवृणानः) याचमानः (इमम्) (इन्द्र) हे परमैश्वर्यवन् परमात्मन् (हव्यम्) ग्राह्यं स्तोमम् (प्रति गृभाय) प्रतिगृहाण। स्वीकुरु (सत्याः) यथार्थाः। पूर्णाः (सन्तु) (यजमानस्य) (कामाः) मनोरथाः ॥
@@ -296,15 +312,6 @@ To him who frees from woe mine hymn I offer, to the Good Guardian, as I seek his
 
 अंहोमु᳓चं वृषभं᳓ यज्ञि᳓यानां विरा᳓जन्तं प्रथम᳓मध्वरा᳓णम्।  
 अपां᳓ न᳓पातमश्वि᳓ना हुवे धि᳓य इन्द्रिये᳓ण त इन्द्रियं᳓ दत्तमो᳓जः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अं॒हो॒मुचं॑ वृष॒भं य॒ज्ञिया॑नां वि॒राज॑न्तं प्रथ॒मम॑ध्व॒राण॑म्।  
-अ॒पां नपा॑तम॒श्विना॑ हुवे॒ धिय॑ इन्द्रि॒येण॑ त इन्द्रि॒यं द॑त्त॒मोजः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">
@@ -329,14 +336,23 @@ The translation follows our emendation (*aśvinā*, with TS.; *dhiyé
 *dhiyam* and *dhattām* (but his text, according to SPP., reads  
 *dhattam*).
 </details>
+
 <details><summary>Griffith</summary>
 
 With prayer I call on him who frees from trouble, Prince of Gods, Splendid, chief of sacrifices, I call the Waters' Child and both the Asvins, Vigour is mine, and strength bestowed by Indra.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अं॒हो॒मुचं॑ वृष॒भं य॒ज्ञिया॑नां वि॒राज॑न्तं प्रथ॒मम॑ध्व॒राण॑म्।  
+अ॒पां नपा॑तम॒श्विना॑ हुवे॒ धिय॑ इन्द्रि॒येण॑ त इन्द्रि॒यं द॑त्त॒मोजः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अं॒हः॒ऽमुच॑म्। वृ॒ष॒भम्। य॒ज्ञिया॑नाम्। वि॒ऽराज॑न्तम्। प्र॒थ॒मम्। अ॒ध्व॒राणा॑म्। अ॒पाम्। नपा॑तम्। अ॒श्विना॑। हु॒वे॒। धियः॑। इ॒न्द्रि॒येण॑। ते॒। इ॒न्द्रि॒यम्। द॒त्त॒म्। ओजः॑। ४२.४। 
+अं॒हः॒ऽमुच॑म्। वृ॒ष॒भम्। य॒ज्ञिया॑नाम्। वि॒ऽराज॑न्तम्। प्र॒थ॒मम्। अ॒ध्व॒राणा॑म्। अ॒पाम्। नपा॑तम्। अ॒श्विना॑। हु॒वे॒। धियः॑। इ॒न्द्रि॒येण॑। ते॒। इ॒न्द्रि॒यम्। द॒त्त॒म्। ओजः॑। ४२.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्म
@@ -344,18 +360,22 @@ With prayer I call on him who frees from trouble, Prince of Gods, Splendid, chie
 - जगती
 - ब्रह्म यज्ञ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेद की स्तुति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अंहोमुचम्) कष्ट से छुड़ाने हारे, (यज्ञियानाम्) पूजा योग्यों में (वृषभम्) श्रेष्ठ, (अध्वराणाम्) हिंसारहित यज्ञों के (विराजन्तम्) विशेष शोभायमान (प्रथमम्) मुख्य, (अपाम्) प्रजाओं के (नपातम्) न गिरानेवाले [बड़े रक्षक, परमात्मा] को (हुवे) मैं बुलाता हूँ। [हे उपासक !] (अश्विना) व्यवहारों में व्यापक माता-पिता दोनों (इन्द्रियेण) परम ऐश्वर्यवान् पुरुष के पराक्रम से (ते) तुझको (धियः) बुद्धियाँ, (इन्द्रियम्) ऐश्वर्य और (ओजः) पराक्रम (दत्तम्=दत्ताम्) देवें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य माता-पिता आचार्य आदि की शिक्षा से बुद्धिमान् ऐश्वर्यवान् और पराक्रमी होकर परमात्मा की भक्ति करके उन्नति करें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(अंहोमुचम्) पापाद् मोचयितारम् (वृषभम्) श्रेष्ठम् (यज्ञियानाम्) पूजनीयानाम् (विराजन्तम्) विशेषेण शोभायमानम् (प्रथमम्) मुख्यम् (अध्वराणाम्) हिंसारहितानां यज्ञानाम् (अपाम्) प्रजानाम् (नपातम्) न पातयितारम्। महारक्षकम् (अश्विना) हे कर्मसु व्यापकौ मातापितरौ (हुवे) आह्वयामि (धियः) बुद्धीः (इन्द्रियेण) इन्द्रयोग्यपराक्रमेण (ते) तुभ्यम् (इन्द्रियम्) परमैश्वर्यम् (दत्तम्) दत्ताम्। प्रयच्छताम् (ओजः) पराक्रमम् ॥

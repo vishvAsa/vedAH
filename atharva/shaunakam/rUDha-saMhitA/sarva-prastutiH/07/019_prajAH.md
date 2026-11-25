@@ -8,15 +8,18 @@ title = "०१९ प्रजाः"
 
 19 (20). For progeny, etc.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 प्रजाः।  
 १ ब्रह्मा। प्रजापतिः। जगती।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—mantroktadevatyatn. jāgatam.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also in Pāipp. xix. Kāuś. (35. 17) uses it in a women's rite, with an o
 #### Translations
 Translated: Henry, 8, 60; Griffith, i. 337.
 </details>
+
 <details><summary>Griffith</summary>
 
 A prayer for prosperity
@@ -39,15 +43,6 @@ A prayer for prosperity
 
 प्रजा᳓पतिर्जनयति प्रजा᳓ इमा᳓ धाता᳓ दधातु सुमनस्य᳓मानः।  
 सं᳙जानानाः᳓ सं᳓मनसः स᳓योनयो म᳓यि पुष्टं᳓ पुष्टप᳓तिर्दधातु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/019_prajAH/01_prajApatirjanayati_prajA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्र॒जाप॑तिर्जनयति प्र॒जा इ॒मा धा॒ता द॑धातु सुमन॒स्यमा॑नः।  
-सं॑जाना॒नाः संम॑नसः॒ सयो॑नयो॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/019_prajAH/01_prajApatirjanayati_prajA.md">
@@ -74,14 +69,23 @@ doubtless the better reading. Two of the pādas are *triṣṭubh.* \*⌊But
 root-aorist pple? see *Gram.* §840 b.⌋ ‡⌊But with *puṣṭim puṣṭipatir*,  
 like MS.Āp.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Prajapati engenders earthly creatures: may the benevolent Ordainer form them, Having one common womb, and mind, and spirit. He who is. Lord of Plenty give me plenty!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒जाप॑तिर्जनयति प्र॒जा इ॒मा धा॒ता द॑धातु सुमन॒स्यमा॑नः।  
+सं॑जाना॒नाः संम॑नसः॒ सयो॑नयो॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒जाऽप॑तिः। ज॒न॒य॒ति॒। प्र॒ऽजाः। इ॒माः। धा॒ताः। द॒धा॒तु॒। सु॒ऽम॒न॒स्यमा॑नाः। स॒म्ऽजा॒ना॒नाः। सम्ऽम॑नसः। सऽयो॑नयः। मयि॑। पु॒ष्टम्। पु॒ष्ट॒ऽपतिः॑। द॒धा॒तु॒। २०.१। 
+प्र॒जाऽप॑तिः। ज॒न॒य॒ति॒। प्र॒ऽजाः। इ॒माः। धा॒ताः। द॒धा॒तु॒। सु॒ऽम॒न॒स्यमा॑नाः। स॒म्ऽजा॒ना॒नाः। सम्ऽम॑नसः। सऽयो॑नयः। मयि॑। पु॒ष्टम्। पु॒ष्ट॒ऽपतिः॑। द॒धा॒तु॒। २०.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - धाता, प्रजापतिः, पुष्टपतिः
@@ -89,18 +93,22 @@ Prajapati engenders earthly creatures: may the benevolent Ordainer form them, Ha
 - जगती
 - प्रजा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बढ़ती करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (प्रजापतिः) प्रजापालक परमेश्वर (इमाः) इन सब (प्रजाः) सृष्टि के जीवों को (जनयति) उत्पन्न करता है, वह (सुमनस्यमानः) शुभचिन्तक (धाता) पोषक परमात्मा [इनका] (दधातु) पोषण करे [जो] (संजानानाः) एक ज्ञानवाली, (संमनसः) एक मनवाली और (सयोनयः) एक कारणवाली हैं, (पुष्टपतिः) वह पोषण का स्वामी [प्रजायें] (मयि) मुझ में (पुष्टम्) पोषण (दधातु) धारण करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमेश्वर के प्रजापालकत्व आदि गुणों का विचार कर के प्रीतिपूर्वक अपनी वृद्धि करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(प्रजापतिः) सृष्टिपालकः परमात्मा (जनयति) उत्पादयति (प्रजाः) सर्वाः सृष्टीः (इमाः) परिदृश्यमानाः (धाता) पोषकः (दधातु) पोषयतु (सुमनस्यमानः) अ० १।३५।१। शुभचिन्तकः (संजानानाः) समानज्ञानाः (संमनसः) संगतमनस्काः (सयोनयः) समानकारणाः प्रजाः (मयि) उपासके (पुष्टम्) पोषम् (पुष्टपतिः) पोषस्य रक्षकः (दधातु) (धरयतु) ॥

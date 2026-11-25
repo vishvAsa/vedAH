@@ -8,15 +8,18 @@ title = "०१५ वृष्टिः"
 
 15. For abundant rain.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 वृष्टिः।  
 १-१६ अथर्वा। १ दिशः, २-३ वीरुधः, ४ मरुत्पर्जन्यौ, ५-१० मरुतः आपः, ११ प्रजापतिः, स्तनयित्नुः, १२ वरुणः, १३-१५ मण्डूकाः पितरश्च, १६ वातः। त्रिष्टुप्, १-२, ५ विराड् जगति, ४ विराट् पुरस्ताद्बृहती, ७, १३ अनुष्टुप्, ९ पथ्यापङ्क्तिः, १० भुरिक्, १२ पञ्चपदानुष्टुब्गर्भा भुरिक्, १५ शंकुमत्यनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—ṣoḍaśarcam. marutparjanyadevatyam. trāiṣṭubham: 1, 2, 5. virāḍjagatī; 4. virāṭpurastādbṛhatī; 7, [8,] 13, [14,] anuṣṭubh; 9. pathyāpan̄kti; 10. bhurij; 12. 5-p. anuṣṭubgarbhā bhurij; 15. śan̄kumaty anuṣṭubh.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found (except vss. 2 and 15) in Pāipp. v. (in the verse-order 1, 3, 6, 5, 4, 7,
 #### Translations
 Translated: Bühler, Orient und Occident, i. 219; Griffith, 1.150; Weber, xviii. 58.—See also Weber's references to Ludwig and Zimmer. Cf. introduction to iii. 13.
 </details>
+
 <details><summary>Griffith</summary>
 
 A charm to hasten the coming of the rains
@@ -39,15 +43,6 @@ A charm to hasten the coming of the rains
 
 समु᳓त्पतन्तु प्रदि᳓शो न᳓भस्वतीः स᳓मभ्रा᳓णि वा᳓तजूतानि यन्तु।  
 म᳙हऋषभ᳓स्य न᳓दतो न᳓भस्वतो वाश्रा᳓ आ᳓पः पृथिवीं᳓ तर्पयन्तु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/01_samutpatantu_pradisho.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स॒मुत्प॑तन्तु प्र॒दिशो॒ नभ॑स्वतीः॒ सम॒भ्राणि॒ वात॑जूतानि यन्तु।  
-म॑हऋष॒भस्य॒ नद॑तो॒ नभ॑स्वतो वा॒श्रा आपः॑ पृथि॒वीं त॑र्पयन्तु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/01_samutpatantu_pradisho.md">
@@ -68,14 +63,23 @@ directions by reason of the mists; the comm. renders *nábhasvatīs* in
 *vāyupreritasya meghasya sambandhinyaḥ*. ⌊The second half-verse recurs  
 at 5, below; see note.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Let all the misty regions fly together, let all the rain-clouds sped by wind, assemble. Let waters satisfy the earth, the voices of the great mist-enve- loped Bull who roareth.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒मुत्प॑तन्तु प्र॒दिशो॒ नभ॑स्वतीः॒ सम॒भ्राणि॒ वात॑जूतानि यन्तु।  
+म॑हऋष॒भस्य॒ नद॑तो॒ नभ॑स्वतो वा॒श्रा आपः॑ पृथि॒वीं त॑र्पयन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒म्ऽउत्प॑तन्तु। प्र॒ऽदिशः॑। नभ॑स्वतीः। सम्। अ॒भ्राणि॑। वात॑ऽजूतानि। य॒न्तु॒। म॒हा॒ऽऋ॒ष॒भस्य॑। नद॑तः। नभ॑स्वतः। वा॒श्राः। आपः॑। पृ॒थि॒वीम्। त॒र्प॒य॒न्तु॒। १५.१। 
+स॒म्ऽउत्प॑तन्तु। प्र॒ऽदिशः॑। नभ॑स्वतीः। सम्। अ॒भ्राणि॑। वात॑ऽजूतानि। य॒न्तु॒। म॒हा॒ऽऋ॒ष॒भस्य॑। नद॑तः। नभ॑स्वतः। वा॒श्राः। आपः॑। पृ॒थि॒वीम्। त॒र्प॒य॒न्तु॒। १५.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - दिशः
@@ -83,18 +87,22 @@ Let all the misty regions fly together, let all the rain-clouds sped by wind, as
 - विराड्जगती
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (नभस्वतीः=०−त्यः) बादल से छायी हुई (प्रदिशः) दिशाएँ (समुत्पतन्तु) भले प्रकार उदय हों, (वातजूतानि) पवन से चलाये गये (अभ्राणि) जल भरे बादल (संयन्तु) छा जावें। (महऋषभस्य) बड़े गमनशील (नदतः) गरजते हुए (नभस्वतः) आकाश में छाये [बादल] की (वाश्राः) धड़ धड़ाती (आपः) जलधाराएँ (पृथिवीम्) पृथिवी को (तर्पयन्तु) तृप्त करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  पवन द्वारा वर्षा होने से दिशाएँ निर्मल और पृथिवी अन्न आदि पदार्थ उत्पन्न करने योग्य हो जाती है, इसी प्रकार मनुष्य उपकारी बनें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(समुत्पतन्तु) सम्यग् उद्गच्छन्तु। उद्यन्तु (प्रदिशः) प्रकृष्टा दिशः (नभस्वतीः) नभः-म० ३। वा छन्दसि। पा० ६।१।१०६। इति पूर्वसवर्ण दीर्घः। नभस्वत्यः। मेघवत्यः (अभ्राणि) अभ्र गतौ=पचाद्यच्। पा० ६।१।१३४। यद्वा, अप-भृञ्-क। अपो जलानि बिभ्रति धारयन्तीति। मेघाः (वातजूतानि) जु वेगे-क्त, दीर्घत्वम्। वायुना प्रेरितानि (संयन्तु) संगच्छन्ताम् (महऋषभस्य) ऋषिवृषिभ्यां कित्। उ० ३।१२३। इति ऋष गतौ-अभच् स च कित्। महागतिशीलस्य (नदतः) गर्जतः (नभस्वतः) आकाशस्थस्य मेघस्य (वाश्राः) स्फायितञ्चिवञ्चि०। उ० २।१३। इति वाशृ शब्दे-रक्। शब्दायमानाः (आपः) जलधाराः (पृथिवीम्) भूमिम् (तर्पयन्तु) तृप्ताम् ओषधिप्ररोहणसमर्थां कुर्वन्तु ॥
@@ -108,15 +116,6 @@ Let all the misty regions fly together, let all the rain-clouds sped by wind, as
 
 स᳓मीक्षयन्तु तविषाः᳓ सुदा᳓नवोऽपां᳓ र᳓सा ओ᳓षधीभिः सचन्ताम्।  
 वर्ष᳓स्य स᳓र्गा महयन्तु भू᳓मिं पृ᳓थग्जायन्तामो᳓षधयो विश्व᳓रूपाः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/02_samIxayantu_taviShAH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-समी॑क्षयन्तु तवि॒षाः सु॒दान॑वो॒ऽपां रसा॒ ओष॑धीभिः सचन्ताम्।  
-व॒र्षस्य॒ सर्गा॑ महयन्तु॒ भूमिं॒ पृथ॑ग्जायन्ता॒मोष॑धयो वि॒श्वरू॑पाः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/02_samIxayantu_taviShAH.md">
@@ -139,14 +138,23 @@ meter of **d** by reading *óṣadhīr vírūpaḥ;* **a** is the only real
 *jagatī* pāda; and even by count the verse is only *nicṛt* (12 + 11: 11  
 + 13 = 47).
 </details>
+
 <details><summary>Griffith</summary>
 
 Let them show forth, the strong, the bounteous Maruts: let plants and shrubs be hung with drops of moisture. Let floods of rain refresh the ground with gladness and herbs spring various with each form and colour.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+समी॑क्षयन्तु तवि॒षाः सु॒दान॑वो॒ऽपां रसा॒ ओष॑धीभिः सचन्ताम्।  
+व॒र्षस्य॒ सर्गा॑ महयन्तु॒ भूमिं॒ पृथ॑ग्जायन्ता॒मोष॑धयो वि॒श्वरू॑पाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। ई॒क्ष॒य॒न्तु॒। त॒वि॒षाः। सु॒ऽदान॑वः। अ॒पाम्। रसाः॑। ओष॑धीभिः। स॒च॒न्ता॒म्। व॒र्षस्य॑। सर्गाः॑। म॒ह॒य॒न्तु॒। भूमि॑म्। पृथ॑क्। जा॒य॒न्ता॒म्। ओष॑धयः। वि॒श्वऽरू॑पाः। १५.२। 
+सम्। ई॒क्ष॒य॒न्तु॒। त॒वि॒षाः। सु॒ऽदान॑वः। अ॒पाम्। रसाः॑। ओष॑धीभिः। स॒च॒न्ता॒म्। व॒र्षस्य॑। सर्गाः॑। म॒ह॒य॒न्तु॒। भूमि॑म्। पृथ॑क्। जा॒य॒न्ता॒म्। ओष॑धयः। वि॒श्वऽरू॑पाः। १५.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वीरुधः
@@ -154,18 +162,22 @@ Let them show forth, the strong, the bounteous Maruts: let plants and shrubs be 
 - विराड्जगती
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तविषाः) विशाल गुणवाले (सुदानवः) बड़े दान करनेवाले [मेघ, हमें वृष्टि] (समीक्षयन्तु) दिखावें, (अपाम्) जल के (रसाः) रस (ओषधीभिः) अन्नादि ओषधियों से (सचन्ताम्) एक रस हो जावें। (वर्षस्य) वर्षा की (सर्गाः) धाराएँ (भूमिम्) भूमि को (महयन्तु) समृद्ध करें, (विश्वरूपाः) नाना रूपवाली (ओषधयः) चावल, यवादि ओषधें (पृथक्) नाना प्रकार से (जायन्ताम्) उत्पन्न होवें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे मेघों की वर्षा से सब लोग आनन्द पाते हैं, वैसे ही मनुष्य विद्वानों के सत्सङ्ग से लाभ उठावें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(समीक्षयन्तु) ईक्ष दर्शने, णिच्। संदर्शयन्तु अस्मान् वृष्टिम् (तविषाः) तवेर्णिद्वा। उ० १।४८। इति तु वृद्धिहिंसापूर्तिषु-टिषच्। तविषो महन्नाम निघ० ३।३। महान्तः (सुदानवः) दाभाभ्यां नुः। उ० ३।३२। इति दा-नु। शोभनदाना मेघाः (अपाम्) उदकानाम् (रसाः) श्रेष्ठगुणाः (ओषधीभिः) व्रीहियवादिभिः। अन्नैः। (सचन्ताम्) षच समवाये। समवयन्तु (वर्षस्य) वृष्टिजलस्य (सर्गाः) सृज्यमानाः प्रवाहाः (महयन्तु) मह वृद्धौ। वर्धयन्तु। समर्धयन्तु (भूमिम्) पृथिवीं भूमिस्थपदार्थानित्यर्थः (पृथक्) नाना प्रकारेण जातिभेदेन (जायन्ताम्) उत्पद्यन्ताम् (ओषधयः) व्रीहियवाद्याः (विश्वरूपाः) नानाविधाः ॥
@@ -179,15 +191,6 @@ Let them show forth, the strong, the bounteous Maruts: let plants and shrubs be 
 
 स᳓मीक्षयस्व गा᳓यतो न᳓भांस्यपां᳓ वे᳓गासः पृ᳓थगु᳓द्विजन्ताम्।  
 वर्ष᳓स्य स᳓र्गा महयन्तु भू᳓मिं पृ᳓थग्जायन्तां वीरु᳓धो विश्व᳓रूपाः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/03_samIxayasva_gAyato.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-समी॑क्षयस्व॒ गाय॑तो॒ नभां॑स्य॒पां वेगा॑सः॒ पृथ॒गुद्वि॑जन्ताम्।  
-व॒र्षस्य॒ सर्गा॑ महयन्तु॒ भूमिं॒ पृथ॑ग्जायन्तां वी॒रुधो॑ वि॒श्वरू॑पाः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/03_samIxayasva_gAyato.md">
@@ -208,14 +211,23 @@ marudgaṇa*), and "the singing ones" as "us who are praising"; and *vega*
 as "swift stream." The Anukr. ignores the extra syllable in **d**  
 ⌊rectify as in 2 **d**, *vírūpās?*⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 Cause us who sing to see the gathering vapours: out burst in many a place the rush of waters! Let floods of rain refresh the ground with gladness; and herbs spring various with each form and colour.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+समी॑क्षयस्व॒ गाय॑तो॒ नभां॑स्य॒पां वेगा॑सः॒ पृथ॒गुद्वि॑जन्ताम्।  
+व॒र्षस्य॒ सर्गा॑ महयन्तु॒ भूमिं॒ पृथ॑ग्जायन्तां वी॒रुधो॑ वि॒श्वरू॑पाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। ई॒क्ष॒य॒स्व॒। गाय॑तः। नभां॑सि। अ॒पाम्। वेगा॑सः। पृथ॑क्। उत्। वि॒ज॒न्ता॒म्। व॒र्षस्य॑। सर्गाः॑। म॒ह॒य॒न्तु॒। भूमि॑म्। पृथ॑क्। जा॒य॒न्ता॒म्। वी॒रुधः॑। वि॒श्वऽरू॑पाः। १५.३। 
+सम्। ई॒क्ष॒य॒स्व॒। गाय॑तः। नभां॑सि। अ॒पाम्। वेगा॑सः। पृथ॑क्। उत्। वि॒ज॒न्ता॒म्। व॒र्षस्य॑। सर्गाः॑। म॒ह॒य॒न्तु॒। भूमि॑म्। पृथ॑क्। जा॒य॒न्ता॒म्। वी॒रुधः॑। वि॒श्वऽरू॑पाः। १५.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वीरुधः
@@ -223,18 +235,22 @@ Cause us who sing to see the gathering vapours: out burst in many a place the ru
 - त्रिष्टुप्
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे ईश्वर !] (गायतः) गान करनेवाले लोगों को (नभांसि) बादलों का (समीक्षयस्व) दर्शन करा। (अपाम्) जल के (वेगासः) प्रवाह (पृथक्) नाना प्रकार से (उद् विजन्ताम्) उमड़कर चलें। (वर्षस्य) वर्षा की (सर्गाः) धाराएँ (भूमिम्) भूमिको (महयन्तु) समृद्ध करें, (विश्वरूपाः) नाना रूप (वीरुधः) झाड़ लताएँ (पृथक्) नाना प्रकार से (जायन्ताम्) उपजें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र २ के समान है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(समीक्षयस्व) द्विकर्मकः। सन्दर्शय (गायतः) स्तुवतो लोकान् (नभांसि) नहेर्दिवि भश्च। उ० ४।२११। इति णह बन्धने-असुन् हस्य भः। यद्वा णभ हिंसायाम्-असुन्। नभ उदकम्-निघ० १।१२। नभ आदित्यो भवति नैता भासां ज्योतिषां प्रणयोऽपि वा भन एव स्याद् विपरीतो नन भातीति वैतेन द्यौव्यार्ख्याता-निरु० २।१४। अभ्राणि (अपाम्) उदकानाम् (वेगासः) वेगा प्रवाहाः (पृथक्) भिन्नभिन्नप्रकारेण (उद् विजन्ताम्) ओविजी भयचलनयोः। उच्चलन्तु (वीरुधः) विरोहणशीला आरण्या ओषधिवनस्पतयः। अन्यत् पूर्ववत् ॥
@@ -248,15 +264,6 @@ Cause us who sing to see the gathering vapours: out burst in many a place the ru
 
 गणा᳓स्त्वो᳓प गायन्तु मा᳓रुताः पर्जन्य घोषि᳓णः पृ᳓थक्।  
 स᳓र्गा वर्ष᳓स्य व᳓र्षतो व᳓र्षन्तु पृथिवी᳓म᳓नु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/04_gaNAstvopa_gAyantu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ग॒णास्त्वोप॑ गायन्तु॒ मारु॑ताः पर्जन्य घो॒षिणः॒ पृथ॑क्।  
-सर्गा॑ व॒र्षस्य॒ वर्ष॑तो॒ वर्ष॑न्तु पृथि॒वीमनु॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/04_gaNAstvopa_gAyantu.md">
@@ -276,14 +283,23 @@ for its accentlessness; but all the mss. read so, and both editions
 follow them. Doubtless either *mā́rutās* or *parjanya* is an intrusion;  
 so the meter indicates. The comm. gives in **c** *varṣantas*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Apart, Parjanya! let the troops of Maruts, roaring, swell the song. Let pouring torrents of the rain that raineth rain upon the earth.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ग॒णास्त्वोप॑ गायन्तु॒ मारु॑ताः पर्जन्य घो॒षिणः॒ पृथ॑क्।  
+सर्गा॑ व॒र्षस्य॒ वर्ष॑तो॒ वर्ष॑न्तु पृथि॒वीमनु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ग॒णा। त्वा॒। उप॑। गा॒य॒न्तु॒। मारु॑ताः। प॒र्ज॒न्य॒। घो॒षिणः॑। पृथ॑क्। सर्गाः॑। व॒र्षस्य॑। वर्ष॑तः। वर्ष॑न्तु। पृ॒थि॒वीम्। अनु॑। १५.४। 
+ग॒णा। त्वा॒। उप॑। गा॒य॒न्तु॒। मारु॑ताः। प॒र्ज॒न्य॒। घो॒षिणः॑। पृथ॑क्। सर्गाः॑। व॒र्षस्य॑। वर्ष॑तः। वर्ष॑न्तु। पृ॒थि॒वीम्। अनु॑। १५.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुद्गणः, पर्जन्यः
@@ -291,18 +307,22 @@ Apart, Parjanya! let the troops of Maruts, roaring, swell the song. Let pouring 
 - विराट्पुरस्ताद्बृहती
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पर्जन्य) हे मेघ ! (घोषिणः) आनन्द ध्वनि करनेवाले (मारुताः) ऋत्विज् लोगों के (गणाः) समूह (त्वा) तेरा (पृथक्) नाना प्रकार से (उप) आदरपूर्वक (गायन्तु) गान करें। (वर्षतः) बरसते हुए (वर्षस्य) वृष्टि जल की (सर्गाः) धाराएँ (पृथिवीम्) पृथिवी पर (अनु) अनुकूल (वर्षन्तु) बरसें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वृष्टि से अन्न आदि यज्ञ के पदार्थ उत्पन्न होते और याजक गण वृष्टि के गुणों को गा-गाकर आनन्द मनाते हैं ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(गणाः) समूहाः (त्वा) त्वाम् (उप गायन्तु) उप आदरेण स्तुवन्तु (मारुताः) मरुतः-अ० १।२०।१। ऋत्विजः-निघ० ३।१८। मरुत्-अण्। ऋत्विक्संबन्धिनः (पर्जन्य) अ० १।२।१। हे सेचक, मेघ ! (घोषिणः) आनन्दघोषयुक्ताः (पृथक्) नानात्वेन (सर्गाः) प्रवाहाः (वर्षस्य) वृष्टिजलस्य (वर्षतः) सिञ्चतः (वर्षन्तु) आर्द्रीकुर्वन्तु (पृथिवीम्) (अनु) अनुकूलम् ॥
@@ -316,15 +336,6 @@ Apart, Parjanya! let the troops of Maruts, roaring, swell the song. Let pouring 
 
 उ᳓दीरयत मरुतः समुद्रत᳓स्त्वेषो᳓ अर्को᳓ न᳓भ उ᳓त्पातयाथ।  
 म᳙हऋषभ᳓स्य न᳓दतो न᳓भस्वतो वाश्रा᳓ आ᳓पः पृथिवीं᳓ तर्पयन्तु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/05_udIrayata_marutaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उदी॑रयत मरुतः समुद्र॒तस्त्वे॒षो अ॒र्को नभ॒ उत्पा॑तयाथ।  
-म॑हऋष॒भस्य॒ नद॑तो॒ नभ॑स्वतो वा॒श्रा आपः॑ पृथि॒वीं त॑र्पयन्तु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/05_udIrayata_marutaH.md">
@@ -351,14 +362,23 @@ the rest of the verse being wholly different. A couple of our mss.
 (O.Op.), with two or three of SPP's, read *samudrajás* at end of **a**.  
 \*⌊Roth, in his collation, gives *pātayanta;* in his notes, *-tu*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Up from the sea lift your dread might, ye Maruts: as light and splendour, send the vapour upward! Let waters satisfy the earth, the voices of the great mist-enve- loped Bull who roareth.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उदी॑रयत मरुतः समुद्र॒तस्त्वे॒षो अ॒र्को नभ॒ उत्पा॑तयाथ।  
+म॑हऋष॒भस्य॒ नद॑तो॒ नभ॑स्वतो वा॒श्रा आपः॑ पृथि॒वीं त॑र्पयन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। ई॒र॒य॒त॒। म॒रु॒तः॒। स॒मु॒द्र॒तः। त्वे॒षः। अ॒र्कः। नभः॑। उत्। पा॒त॒या॒थ॒। म॒हा॒ऽऋ॒ष॒भस्य॑। नद॑तः। नभ॑स्वतः। वा॒श्राः। आपः॑। पृ॒थि॒वीम्। त॒र्प॒य॒न्तु॒। १५.५। 
+उत्। ई॒र॒य॒त॒। म॒रु॒तः॒। स॒मु॒द्र॒तः। त्वे॒षः। अ॒र्कः। नभः॑। उत्। पा॒त॒या॒थ॒। म॒हा॒ऽऋ॒ष॒भस्य॑। नद॑तः। नभ॑स्वतः। वा॒श्राः। आपः॑। पृ॒थि॒वीम्। त॒र्प॒य॒न्तु॒। १५.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुद्गणः
@@ -366,18 +386,22 @@ Up from the sea lift your dread might, ye Maruts: as light and splendour, send t
 - विराड्जगती
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मरुतः) हे वायुवेगो ! (अर्कः= अर्कस्य) सूर्य के (त्वेषः= त्वेषेण) प्रकाश द्वारा (नभः) जलको (समुद्रतः) समुद्र से (उदीरयत) उठाओ और (उत् पातयाथ) ऊपर ले जाओ। (मह ऋषभस्य) बड़े गमन शील, (नदतः) गरजते हुए, (नभस्वतः) आकाश में छाये [बादल] की (वाश्राः) धड़धड़ाती (आपः) जल धाराएँ (पृथिवीम्) पृथिवी को (तर्पयन्तु) तृप्त करें ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जल, पवन और प्रकाश द्वारा पृथिवी से मेघमण्डल में चढ़ता और फिर पृथिवी पर बरसकर अनेक पदार्थ उपजाता है, इसी प्रकार सज्जन पुरुष विज्ञान से परिपूर्ण होकर संसार में विद्या फैलाते हैं ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(उदीरयत) ऊर्ध्वं प्रेरयत जलम् (मरुतः) वायुवेगाः (समुद्रतः) पार्थिवसमुद्रात् (त्वेषः) त्विष दीप्तौ-घञ्। सुपां सुलुक्०। पा० ७।१।३९। इति तृतीयायां प्रथमा। त्वेषेण। प्रकाशेन (अर्कः) अर्क स्तवने तापे च-अच्। षष्ट्यर्थे प्रथमा। सूर्यस्य (नभः) म० ३। उदकम् (उत् पातयाथ) पत गतौ-णिच्, लेट्। उद्गमयत। अन्यद् गतम्-म० १ ॥
@@ -391,15 +415,6 @@ Up from the sea lift your dread might, ye Maruts: as light and splendour, send t
 
 अभि᳓ क्रन्द स्तन᳓यार्द᳓योदधिं᳓ भू᳓मिं पर्जन्य प᳓यसा स᳓मङ्धि।  
 त्व᳓या सृष्टं᳓ बहुल᳓मै᳓तु वर्ष᳓माशारैषी᳓ कृश᳓गुरेत्व᳓स्तम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/06_abhi_kranda.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒भि क्र॑न्द स्त॒नया॒र्दयो॑द॒धिं भूमिं॑ पर्जन्य॒ पय॑सा॒ सम॑ङ्धि।  
-त्वया॑ सृ॒ष्टं ब॑हु॒लमैतु॑ व॒र्षमा॑शारै॒षी कृ॒शगु॑रे॒त्वस्त॑म् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/06_abhi_kranda.md">
@@ -424,14 +439,23 @@ clouds. The Anukr. makes no account of the fact that **a** is *jagatī*.
 ⌊For *āśāra*, see Lanman, *Trans. American Philological Association*,  
 xv. (1884), p. vii.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Roar, thunder, set the sea in agitation, bedew the ground with thy sweet rain, Parjanya! Send plenteous showers on him who seeketh shelter, and let the owner of lean kine go homeward.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒भि क्र॑न्द स्त॒नया॒र्दयो॑द॒धिं भूमिं॑ पर्जन्य॒ पय॑सा॒ सम॑ङ्धि।  
+त्वया॑ सृ॒ष्टं ब॑हु॒लमैतु॑ व॒र्षमा॑शारै॒षी कृ॒शगु॑रे॒त्वस्त॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒भि। क्र॒न्द॒। स्त॒नय॑। अ॒र्दय॑। उ॒द॒ऽधिम्। भूमि॑म्। प॒र्ज॒न्य॒। पय॑सा। सम्। अ॒ङ्धि॒। त्वया॑। सृ॒ष्टम्। ब॒हु॒लम्। आ। ए॒तु॒। व॒र्षम्। आ॒शा॒र॒ऽए॒षी। कृ॒शऽगुः॑। ए॒तु॒। अस्त॑म्। १५.६। 
+अ॒भि। क्र॒न्द॒। स्त॒नय॑। अ॒र्दय॑। उ॒द॒ऽधिम्। भूमि॑म्। प॒र्ज॒न्य॒। पय॑सा। सम्। अ॒ङ्धि॒। त्वया॑। सृ॒ष्टम्। ब॒हु॒लम्। आ। ए॒तु॒। व॒र्षम्। आ॒शा॒र॒ऽए॒षी। कृ॒शऽगुः॑। ए॒तु॒। अस्त॑म्। १५.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुद्गणः
@@ -439,18 +463,22 @@ Roar, thunder, set the sea in agitation, bedew the ground with thy sweet rain, P
 - त्रिष्टुप्
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पर्जन्य) हे मेघ ! तू (अभि) सब ओर (क्रन्द) गड़गड़ कर, (स्तनय) गरज, (उदधिम्) समुद्र को (अर्दय) हिलादे, (भूमिम्) भूमि (पयसा) जलसे (सम्अङ्धि) भरदे। (त्वया) तुझ करके (सृष्टम्) भेजा हुआ (बहुलम्) बहुत पदार्थ लानेवाला (वर्षम्) वृष्टि जल (ऐतु) आवे, (आशारैषी) शरण चाहनेवाला, (कृशगुः) दुबली गौ बैलवाला किसान (अस्तम्) अपने घर (एतु) जावे ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  पृथिवी पर वृष्टि होने से अनेक पदार्थ उपजते हैं, तब किसान आनन्दपूर्वक थके दुर्बल पशुओं को चराकर घर ले जाते हैं ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(अभि) अभितः (क्रन्द) शब्दं कुरु (स्तनय) घोषय। गर्ज (अर्दय) पीडय (उदधिम्) जलधिम् (भूमिम्) (पर्जन्य) हे मेघ (पयसा) वृष्टिजलेन (सम् अङ्धि) अञ्जू व्यक्तिम्रक्षणकान्तिगतिषु। समक्तो संसिक्तां कुरु (त्वया) (सृष्टम्) प्रेरितम् (बहुलम्) अ० ३।१४।६। बहूनर्थान् लातीति, बहु+ला दानादानयोः-क। बहुपदार्थप्रापकम् (आ एतु) आगच्छतु (वर्षम्) वृष्टिजलम् (आशारैषी) शॄ वायुवर्णनिवृत्तेषु। वा० पा० ३।३।२१। इति आङ्+शॄ हिंसायाम्-घञ्। आशृणाति दुःखम् आशारः शरणम्। आशारमिच्छतीति, इष-णिनि। शरणेच्छुः (कृशगुः) गोस्त्रियोरुपसर्जनस्य। पा० १।२।४८। इति ह्रस्वः। कृशा दुर्बला गावः पशवो यस्य तथाविधिः कर्षकः (एतु) गच्छतु (अस्तम्) हसिमृग्रिण्०। उ० ३।८६। अस गतिदीप्त्यादानेषु-तन्। गृहम्-निघ० ३।४ ॥
@@ -464,15 +492,6 @@ Roar, thunder, set the sea in agitation, bedew the ground with thy sweet rain, P
 
 सं᳓ वोऽवन्तु सुदा᳓नव उ᳓त्सा अजगरा᳓ उत᳓।  
 मरु᳓द्भिः प्र᳓च्युता मेघा᳓ व᳓र्षन्तु पृथिवी᳓म᳓नु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/07_saM_vo-vantu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सं वो॑ऽवन्तु सु॒दान॑व॒ उत्सा॑ अजग॒रा उ॒त।  
-म॒रुद्भिः॒ प्रच्यु॑ता मे॒घा वर्ष॑न्तु पृथि॒वीमनु॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/07_saM_vo-vantu.md">
@@ -493,14 +512,23 @@ i.e. "that look like great serpents as they wind sinuously along"; he
 takes *sudānavas* in **a** alternatively as vocative, notwithstanding  
 its accent.
 </details>
+
 <details><summary>Griffith</summary>
 
 Let the boon Maruts, let the springs and coiling serpents tend! you well. Urged by the Maruts let the clouds pour down their rain upon. the earth.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सं वो॑ऽवन्तु सु॒दान॑व॒ उत्सा॑ अजग॒रा उ॒त।  
+म॒रुद्भिः॒ प्रच्यु॑ता मे॒घा वर्ष॑न्तु पृथि॒वीमनु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। वः॒। अ॒व॒न्तु॒। सु॒ऽदान॑वः। उत्साः॑। अ॒ज॒ग॒राः। उ॒त। म॒रुत्ऽभिः॑। प्रऽच्यु॑ताः। मे॒घाः। वर्ष॑न्तु। पृ॒थि॒वीम्। अनु॑। १५.७। 
+सम्। वः॒। अ॒व॒न्तु॒। सु॒ऽदान॑वः। उत्साः॑। अ॒ज॒ग॒राः। उ॒त। म॒रुत्ऽभिः॑। प्रऽच्यु॑ताः। मे॒घाः। वर्ष॑न्तु। पृ॒थि॒वीम्। अनु॑। १५.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुद्गणः
@@ -508,18 +536,22 @@ Let the boon Maruts, let the springs and coiling serpents tend! you well. Urged 
 - अनुष्टुप्
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्यों !] (सुदानवः) महा दानी, (अजगराः) अजगर [समान स्थूल आकारवाले] (उत्साः) स्रोते (वः) तुम्हें (उत) अत्यन्त करके (सम्) यथावत् (अवन्तु) तृप्त करें। (मरुद्भिः) पवन से (प्रच्युताः) चलाये गये (मेघाः) मेघ (पृथिवीम्) पृथिवी पर (अनु) अनुकूल (वर्षन्तु) बरसें ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य मेह के समान परस्पर उपकार करें ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(सम्) सम्यक्। एकीभूय (वः) युष्मान् हे जनाः (अवन्तु) तर्पयन्तु (सुदानवः) म० २। महादातारः (उत्साः) अ० १।१५।३। स्रोतांसि। कूपाः-निघ० ३।२३। (अजगराः) अज+गॄ निगरणे-अच्। अजान् गतिशीलान् जन्तून् गिरन्ति भक्षयन्ति ये। बृहत्सर्पाः। तद्वत् स्थूलाकाराः (उत) अत्यर्थम्। एव। (मरुद्भिः) वायुभिः (प्रच्युताः) प्रेरिताः (मेघाः) मिह सेचने-अच्, कुत्वम्। वारिवाहाः (वर्षन्तु) सिञ्चन्तु (पृथिवीम्) (अनु) अनुकूलम् ॥
@@ -533,15 +565,6 @@ Let the boon Maruts, let the springs and coiling serpents tend! you well. Urged 
 
 आ᳓शामाशां वि᳓ द्योततां वा᳓ता वान्तु दिशो᳓दिशः।  
 मरु᳓द्भिः प्र᳓च्युता मेघाः᳓ सं᳓ यन्तु पृथिवी᳓म᳓नु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/08_AshAmAshAM_vi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आशा॑माशां॒ वि द्यो॑ततां॒ वाता॑ वान्तु दि॒शोदि॑शः।  
-म॒रुद्भिः॒ प्रच्यु॑ता मे॒घाः सं य॑न्तु पृथि॒वीमनु॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/08_AshAmAshAM_vi.md">
@@ -559,14 +582,23 @@ comm. also points out the possibility of taking *diśás* as either accus.
 pl. or abl. sing. The Anukr. somehow omits to define the metrical  
 character of this verse and of vs. 14.
 </details>
+
 <details><summary>Griffith</summary>
 
 Let lightning flash on every side: from all the regions blow the winds! Urged by the Maruts let the clouds pour down their rain upon the earth.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आशा॑माशां॒ वि द्यो॑ततां॒ वाता॑ वान्तु दि॒शोदि॑शः।  
+म॒रुद्भिः॒ प्रच्यु॑ता मे॒घाः सं य॑न्तु पृथि॒वीमनु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आशा॑म्ऽआशाम्। वि। द्यो॒त॒ता॒म्। वाताः॑। वा॒न्तु॒। दि॒शःऽदि॑शः। म॒रुत्ऽभिः॑। प्रऽच्यु॑ताः। मे॒घाः। सम्। य॒न्तु॒। पृ॒थि॒वीम्। अनु॑। १५.८। 
+आशा॑म्ऽआशाम्। वि। द्यो॒त॒ता॒म्। वाताः॑। वा॒न्तु॒। दि॒शःऽदि॑शः। म॒रुत्ऽभिः॑। प्रऽच्यु॑ताः। मे॒घाः। सम्। य॒न्तु॒। पृ॒थि॒वीम्। अनु॑। १५.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुद्गणः
@@ -574,18 +606,22 @@ Let lightning flash on every side: from all the regions blow the winds! Urged by
 - अनुष्टुप्
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वाताः) पवने (दिशोदिशः) दिशा दिशा से (द्योतताम्) दीप्यमान (आशाम् आशाम्) प्रत्येक दिशा को (वि) विविध प्रकार से (वान्तु) चलें। (मरुद्भिः) पवनों से (प्रच्युताः) चलाये गये (मेघाः) मेह (पृथिवीम्) पृथिवी पर (अनु) अनुकूल (संयन्तु) उमड़ कर आवें ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे मेह पवन द्वारा एक देश से दूसरे देश में बरसते हैं, वैसे ही मनुष्य प्रयत्न करके देश-देशान्तरों में वेदविद्या फैलावें ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(आशामाशाम्) दिशंदिशम् आश्रित्य (द्योतताम्) भृमृदृशि०। उ० ३।११०। इति द्युत दीप्तौ अतच्, टाप्। द्योतमानाम्, दीप्यमानाम् (वाताः) पवनाः (वि वान्तु) विविधं संचरन्तु (दिशोदिशः) सर्वस्या अपि दिशः सकाशात् (संयन्तु) संगता भवन्तु (अनु) अनुलक्ष्य। अन्यद् यथा म० ७ ॥
@@ -599,15 +635,6 @@ Let lightning flash on every side: from all the regions blow the winds! Urged by
 
 आ᳓पो विद्यु᳓दभ्रं᳓ वर्षं᳓ सं᳓ वोऽवन्तु सुदा᳓नव उ᳓त्सा अजगरा᳓ उत᳓।  
 मरु᳓द्भिः प्र᳓च्युता मेघाः᳓ प्रा᳓वन्तु पृथिवी᳓म᳓नु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/09_Apo_vidyudabhram.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आपो॑ वि॒द्युद॒भ्रं व॒र्षं सं वो॑ऽवन्तु सु॒दान॑व॒ उत्सा॑ अजग॒रा उ॒त।  
-म॒रुद्भिः॒ प्रच्यु॑ता मे॒घाः प्राव॑न्तु पृथि॒वीमनु॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/09_Apo_vidyudabhram.md">
@@ -628,14 +655,23 @@ avantu;* in **d** he reads *plāvantu* but regards it as for *prā ’vantu*
 ⌊parallel with *palāyate* etc. (W's *Gram.* §1087 c), for which he cites  
 Pāṇini viii. 2. 19⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 May waters, lightning, cloud, and rain, boon springs and serpents tend you well. Urged by the Maruts let the clouds pour down their rain upon the earth.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आपो॑ वि॒द्युद॒भ्रं व॒र्षं सं वो॑ऽवन्तु सु॒दान॑व॒ उत्सा॑ अजग॒रा उ॒त।  
+म॒रुद्भिः॒ प्रच्यु॑ता मे॒घाः प्राव॑न्तु पृथि॒वीमनु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आपः॑। वि॒ऽद्युत्। अ॒भ्रम्। व॒र्षम्। सम्। वः॒। अ॒व॒न्तु॒। सु॒ऽदान॑वः। उत्साः॑। अ॒ज॒ग॒राः। उ॒त। म॒रुत्ऽभिः॑। प्रऽच्यु॑ताः। मे॒घाः। प्र। अ॒व॒न्तु॒। पृ॒थि॒वीम्। अनु॑। १५.९। 
+आपः॑। वि॒ऽद्युत्। अ॒भ्रम्। व॒र्षम्। सम्। वः॒। अ॒व॒न्तु॒। सु॒ऽदान॑वः। उत्साः॑। अ॒ज॒ग॒राः। उ॒त। म॒रुत्ऽभिः॑। प्रऽच्यु॑ताः। मे॒घाः। प्र। अ॒व॒न्तु॒। पृ॒थि॒वीम्। अनु॑। १५.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुद्गणः
@@ -643,18 +679,22 @@ May waters, lightning, cloud, and rain, boon springs and serpents tend you well.
 - पथ्यापङ्क्तिः
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (आपः) जलधारायें, (विद्युत्) बिजुली, (अभ्रम्) जल से भरा मेह (वर्षम्) बरसा और (सुदानवः) महादानी, (अजगराः) अजगर [समान स्थूल आकारवाले] (उत्साः) स्रोते (वः) तुम्हें (उत) अत्यन्त करके (सम्) यथावत् (अवन्तु) तृप्त करें। (मरुद्भिः) पवनों से (प्रच्युताः) चलाये गये (मेघाः) मेह (पृथिवीम्) पृथिवी को (अनु) अनुकूल (प्र) भले प्रकार (अवन्तु) तृप्त करें ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे जल, बिजुली आदि मिलकर जगत् का उपकार करते हैं, वैसे ही मनुष्य परस्पर मिलकर संसार का सुधार करें ॥९॥  मन्त्र ७ व ८ का मिलान करो ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(आपः) जलधाराः (विद्युत्) तडित् (अभ्रम्) उदकपूर्णो मेघः (वर्षम्) वृष्टिजलम् (प्र) प्रकर्षेण। अन्यद् यथा म० ७ ॥
@@ -670,15 +710,6 @@ May waters, lightning, cloud, and rain, boon springs and serpents tend you well.
 स᳓ नो वर्षं᳓ वनुतां जात᳓वेदाः प्राणं᳓ प्रजा᳓भ्यो अमृ᳓तं दिव᳓स्प᳓रि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/10_apAmagnistanUbhiH_saMvidAno.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒पाम॒ग्निस्त॒नूभिः॑ संविदा॒नो य ओष॑धीनामधि॒पा ब॒भूव॑।  
-स नो॑ व॒र्षं व॑नुतां जा॒तवे॑दाः प्रा॒णं प्र॒जाभ्यो॑ अ॒मृतं॑ दि॒वस्परि॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/10_apAmagnistanUbhiH_saMvidAno.md">
 <details open><summary><h3>१० अपामग्निस्तनूभिः संविदानो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -692,14 +723,23 @@ breath for \[our\] progeny, *amṛ́ta* out of the sky.
 The comm. paraphrases *amṛtam* with *amṛtatvaprāpakam*. The Anukr. duly  
 notes the redundant syllable in **d**.
 </details>
+
 <details><summary>Griffith</summary>
 
 May he who hath become the plants' high regent, suiting our bodies, Agni of the Waters, May Jatavedas send us rain from heaven, Amrit and vital breath to earthly creatures.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒पाम॒ग्निस्त॒नूभिः॑ संविदा॒नो य ओष॑धीनामधि॒पा ब॒भूव॑।  
+स नो॑ व॒र्षं व॑नुतां जा॒तवे॑दाः प्रा॒णं प्र॒जाभ्यो॑ अ॒मृतं॑ दि॒वस्परि॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पाम्। अ॒ग्निः। त॒नूभिः॑। स॒म्ऽवि॒दा॒नः। यः। ओष॑धीनाम्। अ॒धि॒ऽपा। ब॒भूव॑। सः। नः॒। व॒र्षम्। व॒नु॒ता॒म्। जा॒तऽवे॑दाः। प्रा॒णम्। प्र॒ऽजाभ्यः॑। अ॒मृत॑म्। दि॒वः। परि॑। १५.१०। 
+अ॒पाम्। अ॒ग्निः। त॒नूभिः॑। स॒म्ऽवि॒दा॒नः। यः। ओष॑धीनाम्। अ॒धि॒ऽपा। ब॒भूव॑। सः। नः॒। व॒र्षम्। व॒नु॒ता॒म्। जा॒तऽवे॑दाः। प्रा॒णम्। प्र॒ऽजाभ्यः॑। अ॒मृत॑म्। दि॒वः। परि॑। १५.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -707,18 +747,22 @@ May he who hath become the plants' high regent, suiting our bodies, Agni of the 
 - भुरिक्त्रिष्टुप्
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो (अग्निः) अग्नि [सूर्य ताप] (अपाम्) जलों के (तनूभिः) विस्तारों से (संविदानः) मिलता हुआ (ओषधीनाम्) चावल, यवादियों का (अधिपाः) विशेष पालनकर्ता (बभूव) हुआ है। (सः) वह (जातवेदाः) धनों का उत्पन्न करनेवाला, वा उत्पन्न पदार्थों में सत्तावाला अग्नि (नः प्रजाभ्यः) हम प्रजाओं के लिये (दिवः) अन्तरिक्ष से (परि) सब ओर (वर्षम्) बरसा, (प्राणम्) प्राण और (अमृतम्) अमृत [मरण से बचाव का साधन] (वनुताम्) देवे ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे सूर्य जल को खैंच लेकर फिर बरसा कर सब प्राणियों का जीवन आधार होता है, वैसे ही मनुष्य विद्या और धन प्राप्त करके संसार का उपकार करें ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(आपः) जलधाराः (विद्युत्) तडित् (अभ्रम्) उदकपूर्णो मेघः (वर्षम्) वृष्टिजलम् (प्र) प्रकर्षेण। अन्यद् यथा म० ७ ॥
@@ -732,15 +776,6 @@ May he who hath become the plants' high regent, suiting our bodies, Agni of the 
 
 प्रजा᳓पतिः सलिला᳓दाः᳓ समुद्रा᳓दा᳓प ईर᳓यन्नुदधि᳓मर्दयाति।  
 प्र᳓ प्यायतां वृ᳓ष्णो अ᳓श्वस्य रे᳓तोऽर्वा᳓ङेते᳓न स्तनयित्नु᳓ने᳓हि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/11_prajApatiH_salilAdAH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्र॒जाप॑तिः सलि॒लादाः स॑मु॒द्रादाप॑ ई॒रय॑न्नुद॒धिम॑र्दयाति।  
-प्र प्या॑यतां॒ वृष्णो॒ अश्व॑स्य॒ रेतो॒ऽर्वाङे॒तेन॑ स्तनयि॒त्नुनेहि॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/11_prajApatiH_salilAdAH.md">
@@ -767,14 +802,23 @@ words; *ardayāti* he paraphrases with *raśmibhir ādānena pīḍayatu*, and
 10, unless we combine *ā́pe ”ráyan* in **b**. ⌊For *-núnéhi*, see Prāt.  
 iii. 38, note.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Sending up waters from the flood and ocean Prajapati move the sea to agitation! Forth flow the moisture of the vigorous stallion! With this thy roar of thunder come thou hither,
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒जाप॑तिः सलि॒लादाः स॑मु॒द्रादाप॑ ई॒रय॑न्नुद॒धिम॑र्दयाति।  
+प्र प्या॑यतां॒ वृष्णो॒ अश्व॑स्य॒ रेतो॒ऽर्वाङे॒तेन॑ स्तनयि॒त्नुनेहि॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒जाऽप॑तिः। स॒लि॒लात्। आ। स॒मु॒द्रात्। आपः॑। ई॒रय॑न्। उ॒द॒ऽधिम्। अ॒र्द॒या॒ति॒। प्र। प्या॒य॒ता॒म्। वृष्णः॑। अश्व॑स्य। रेतः॑। अ॒वाङ्। ए॒तेन॑। स्त॒न॒यि॒त्नुना॑। आ। इ॒हि॒। १५.११। 
+प्र॒जाऽप॑तिः। स॒लि॒लात्। आ। स॒मु॒द्रात्। आपः॑। ई॒रय॑न्। उ॒द॒ऽधिम्। अ॒र्द॒या॒ति॒। प्र। प्या॒य॒ता॒म्। वृष्णः॑। अश्व॑स्य। रेतः॑। अ॒वाङ्। ए॒तेन॑। स्त॒न॒यि॒त्नुना॑। आ। इ॒हि॒। १५.११।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - स्तनयित्नुः, प्रजापतिः
@@ -782,18 +826,22 @@ Sending up waters from the flood and ocean Prajapati move the sea to agitation! 
 - त्रिष्टुप्
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (प्रजापतिः) प्रजापालक सूर्य (सलिलात्) व्यापक (समुद्रात्) आकाश से (आपः=अपः) जल (आ ईरयन्) भेजता हुआ (उदधिम्) [पार्थिव] समुद्र को (अर्दयाति) दबावे [जल खैंचे]। (अश्वस्य) व्यापक (वृष्णः) बरसनेवाले मेघ का (रेतः) जल (प्रप्यायताम्) अच्छे प्रकार बढ़े। [हे पर्जन्य ! तू] (एतेन) इस (स्तनयित्नुना) गर्जन के साथ (अर्वाङ्) सन्मुख (आ इहि) आ ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १० के समान है ॥११॥  इस मन्त्र का चौथा पाद (अर्वाङेतेन....) ऋ० ५।८३।६। का तीसर पाद है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(प्रजापतिः) प्रजानां पालयिता वृष्टिप्रदः सूर्यः (सलिलात्) सलिकल्यनि०। उ० १।५४। इति पल गतौ-इलच्। व्यापनशीलात् (आ) समन्तात् (समुद्रात्) अन्तरिक्षात्-निघ० १।३। (आपः) सुपां सुलुक्०। पा० ७।१।३९। इति शसः स्थाने जस्। अपः। उदकानि (ईरयन्) प्रेरयन् (उदधिम्) जलधिम् (अर्दयाति) अर्दयतेर्लेटि आडागमः। अर्दयतु। रश्मिभिर्जलादानेन पीडयतु (प्र प्यायताम्) प्रवर्धताम् (वृष्णः) वर्षकस्य मेघस्य (अश्वस्य) व्यापकस्य (रेतः) स्रुरीभ्यां तुट् च। उ० ४।२०२। इति रि, रीङ् स्रवणे-असुन्, तुट् च। उदकम्-निघ० १।१२। (अर्वाङ्) अभिमुखः सन् (एतेन) पूर्वोक्तेन (स्तनयित्नुना) स्तनिहृषिपुषि०। उ० ३।२९। इति स्तन देवशब्दे-इत्नुच्। गर्जनेन सह (आ-इहि) आगच्छ हे पर्जन्य ॥
@@ -807,15 +855,6 @@ Sending up waters from the flood and ocean Prajapati move the sea to agitation! 
 
 अपो᳓ निषिञ्च᳓न्न᳓सुरः पिता᳓ नः श्व᳓सन्तु ग᳓र्गरा अपां᳓ वरुणा᳓व नी᳓चीरपः᳓ सृज।  
 व᳓दन्तु पृ᳓श्निबाहवो मण्डू᳓का इ᳓रिणा᳓नु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/12_apo_niShinchannasuraH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒पो नि॑षि॒ञ्चन्नसु॑रः पि॒ता नः॒ श्वस॑न्तु॒ गर्ग॑रा अ॒पां व॑रु॒णाव॒ नीची॑र॒पः सृ॑ज।  
-वद॑न्तु॒ पृश्नि॑बाहवो म॒ण्डूका॒ इरि॒णानु॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/12_apo_niShinchannasuraH.md">
@@ -848,14 +887,23 @@ first account of *asura* is as from *as* 'throw' (*meghānāṁ kṣeptā*).
 ⌊Discussed and translated, apropos of *íriṇa*, by Pischel, *Ved. Stud.*  
 ii. 223.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Our father, Lord divine pouring the torrents. Let the streams breathe, O Varuna, of the waters. Pour the floods down: along the brooks and channels let frogs with speckled arms send out their voices.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒पो नि॑षि॒ञ्चन्नसु॑रः पि॒ता नः॒ श्वस॑न्तु॒ गर्ग॑रा अ॒पां व॑रु॒णाव॒ नीची॑र॒पः सृ॑ज।  
+वद॑न्तु॒ पृश्नि॑बाहवो म॒ण्डूका॒ इरि॒णानु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पः। नि॒ऽसि॒ञ्चन्। असु॑रः। पि॒ता। नः॒। श्वस॑न्तु। गर्ग॑राः। अ॒पाम्। व॒रु॒ण॒। अव॑। नीचीः॑। अ॒पः। सृ॒ज॒। वद॑न्तु। पृश्नि॑ऽबाहवः। म॒ण्डूकाः॑। इरि॑णा। अनु॑। १५.१२। 
+अ॒पः। नि॒ऽसि॒ञ्चन्। असु॑रः। पि॒ता। नः॒। श्वस॑न्तु। गर्ग॑राः। अ॒पाम्। व॒रु॒ण॒। अव॑। नीचीः॑। अ॒पः। सृ॒ज॒। वद॑न्तु। पृश्नि॑ऽबाहवः। म॒ण्डूकाः॑। इरि॑णा। अनु॑। १५.१२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वरुणः
@@ -863,18 +911,22 @@ Our father, Lord divine pouring the torrents. Let the streams breathe, O Varuna,
 - पञ्चपदानुष्टुब्गर्भा भुरिक्त्रिष्टुप्
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (नः) हमारा (पिता) पालन करनेवाला (असुरः) प्राणदाता मेघ (अपः) जलधाराएँ (निषिञ्चन्) उंडेलता हुआ [वर्तमान हो]। (अपाम्) जलके (गर्गराः) गड़गड़ाते हुए गगरे (श्वसन्तु) श्वास लेवें। (वरुण) हे वरणीय मेघ ! (अपः) जलधाराओं को (नीचीः) नीचे की ओर (अव सृज) छोड़दे। (पृश्निबाहवः) छोटी छोटी भुजावाले (मण्डूकाः) शोभा बढ़ानेवाले वा डुबकी लगानेवाले मेंडके (इरिणा= इरिणानि) ऊसर भूमियों को (अनु= अनुहाय) छोड़कर (वदन्तु) ध्वनि करें ॥१२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  बरसा होने पर जैसे मेंडकों में फिर प्राण आजाते हैं, इसी प्रकार अनेक पदार्थ उगकर आनन्ददायक होते हैं ॥१२॥  इस मन्त्र का पहिला पाद (अपो....नः) ऋ० ५।८३।६। का चौथा पाद है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १२−(अपः) जलानि (निषिञ्चन्) न्यग्भावेन नितरां वा वर्षयन् (असुरः) अ० १।१०।१। असून् प्राणान् रातीति। असु+रा दाने-क। प्राणप्रदः। मेघः-निघ० १।१०। (पिता) पालकः (नः) अस्माकम् (श्वसन्तु) उच्छ्वसिता भवन्तु (गर्गराः) मुदिग्रोर्गग्गौ। उ० १।१२८। इति ग शब्दे-ग प्रत्ययः। गर्ग+रा-क। गर्गशब्दं रान्ति ददतीति। शब्दं कुर्वाणः कलसा जलपात्राणि। प्रवाहाः (अपाम्) उदकानाम् (वरुण) हे वरणीय जलेश मेघ (नीचीः) न्यग्भावं गताः (अपः) वृष्टिधाराः (अव) नीचैः (सृज) त्यज (वदन्तु) ध्वनिं कुर्वन्तु (पृश्निबाहवः) स्वल्पभुजयुक्ताः (मण्डूकाः) शलिमण्डिभ्यामूकण्। उ० ४।४२। इति मडि भूषणे-ऊकण्। यद्वा। मस्ज स्नाने-ऊकण्, जकारस्य डकारे नुमि ष्टुत्वम्। मण्डयन्ति भूषयन्ति जलाशयं निमज्जन्ति जले वा। मण्डूका मज्जका मज्जनान्मदतेर्वा मोदतिकर्मणो मन्दतेर्वा तृप्तिकर्मणो मण्डयतेरिति वैयाकरणा मण्ड एषामोक इति वा मण्डो मदेर्वा मुदेर्वा-निरु० ९।५। मण्डनशीलाः। मज्जनस्वभावाः। मज्जूकाः। भेकाः (इरिणा) अर्तेः किदिच्च। उ० २।५१। इति ऋ० हिंसागतिप्रापणेषु-इनन्, शेर्लोपः। इरिणानि। ऊषरभूमीः (अनु) हीने। विहाय ॥
@@ -888,15 +940,6 @@ Our father, Lord divine pouring the torrents. Let the streams breathe, O Varuna,
 
 सं᳙वत्सरं᳓ शशयाना᳓ ब्राह्मणा᳓ व्रतचारि᳓णः।  
 वा᳓चं पर्ज᳓न्यजिन्वितां प्र᳓ मण्डू᳓का अवादिषुः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/13_saMvatsaraM_shashayAnA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सं॑वत्स॒रं श॑शया॒ना ब्रा॑ह्म॒णा व्र॑तचा॒रिणः॑।  
-वाचं॑ प॒र्जन्य॑जिन्वितां॒ प्र म॒ण्डूका॑ अवादिषुः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/13_saMvatsaraM_shashayAnA.md">
@@ -915,14 +958,23 @@ comm. gives, and which is also read in the corresponding RV. verse, vii.
 printer's errors, reading *saṁvatsaráṁ* and *brāhmaṇā́*. ⌊Bloomfield  
 discusses this vs. and the following, JAOS. xvii. 174, 179.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 They who lay quiet for a year, the Brahmans who fulfil their vows. The frogs, have lifted up their voice, the voice Parjanya hath. inspired.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सं॑वत्स॒रं श॑शया॒ना ब्रा॑ह्म॒णा व्र॑तचा॒रिणः॑।  
+वाचं॑ प॒र्जन्य॑जिन्वितां॒ प्र म॒ण्डूका॑ अवादिषुः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒म्ऽव॒त्स॒रम्। श॒श॒या॒नाः। ब्रा॒ह्म॒णाः। व्र॒त॒ऽचा॒रिणः॑। वाच॑म्। प॒र्जन्य॑ऽजिन्विताम्। प्र। म॒ण्डूकाः॑। अ॒वा॒दि॒षुः॒। १५.१३। 
+स॒म्ऽव॒त्स॒रम्। श॒श॒या॒नाः। ब्रा॒ह्म॒णाः। व्र॒त॒ऽचा॒रिणः॑। वाच॑म्। प॒र्जन्य॑ऽजिन्विताम्। प्र। म॒ण्डूकाः॑। अ॒वा॒दि॒षुः॒। १५.१३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मण्डूकसमूहः, पितरगणः
@@ -930,18 +982,22 @@ They who lay quiet for a year, the Brahmans who fulfil their vows. The frogs, ha
 - अनुष्टुप्
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (संवत्सरम्) बोलने के समय तक (शशयानाः) शयन करनेवाले (मण्डूकाः) शोभा बढ़ानेवाले वा डुबकी लगानेवाले मेंडुके, (व्रतचारिणः) व्रतधारी (ब्राह्मणाः) ब्राह्मणों के समान, (पर्जन्यजिन्विताम्) मेह से तृप्त की हुई (वाचम्) वाणी को (प्र) अच्छे प्रकार (अवादिषुः) बोलें ॥१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे वेदज्ञानी पुरुष वेदों में मौन [मनन] व्रत साधकर सत्य ज्ञान से तृप्त होकर संसार में उपदेश करते हैं, इसी प्रकार मेंडुके वृष्टि होने से संतुष्ट होकर बोलते हैं ॥१३॥  यह मन्त्र ऋ० ७।१०३।१। में है और निरुक्त ९।६। में भी व्याख्यात है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १३−(संवत्सरम्) संपूर्वाच्चित्। उ० ३।७२। इति बाहुलकात् सम्+वद कथने-सरन् प्रत्ययः, स च चित्। चित्वादन्तोदात्तः। सम्यग् वदनपर्यन्तम्। वर्षारम्भपर्यन्तम् इत्यर्थः (शशयानः) शिश्यानाः शयानाः. शयनशीलाः। निद्रालवः (ब्राह्मणाः) अ० २।६।३। वेदपाठिनः। ब्रह्मज्ञानिनो यथा (व्रतचारिणः) व्रत+चर-णिनि। कृतसंयमाः (वाचम्) वाणीम् (पर्जन्यजिन्विताम्) जिवि प्रीणने-क्त। पर्जन्येन प्रीतां तर्पिताम् (प्र) प्रकर्षेण (मण्डूकाः) म० १२। मज्जूकाः। भेकाः (अवादिषुः) वद-लुङ्। अवोचन् ॥
@@ -955,15 +1011,6 @@ They who lay quiet for a year, the Brahmans who fulfil their vows. The frogs, ha
 
 उ᳙पप्र᳓वद मण्डूकि वर्ष᳓मा᳓ आ᳓ वद तादुरि।  
 म᳓ध्ये ह्रद᳓स्य प्लवस्व विगृ᳓ह्य चतु᳓रः पदः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/14_upapravada_maNDUki.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-उ॑प॒प्रव॑द मण्डूकि व॒र्षमा आ व॑द तादुरि।  
-मध्ये॑ ह्र॒दस्य॑ प्लवस्व वि॒गृह्य॑ च॒तुरः॑ प॒दः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/14_upapravada_maNDUki.md">
@@ -983,14 +1030,23 @@ vii. 103, reading in **a** *upaplávada*, and in **c** *plavásva*. ⌊For
 14, 15, see Weber, *Berliner Sb.*, 1896, p. 257. As to metrical  
 definition of 14, see vs. 8 n.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Speak forth a welcome, female frog! Do thou O frog, accost the rain. Stretch thy four feet apart, and swim in the middle of the lake.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॑प॒प्रव॑द मण्डूकि व॒र्षमा आ व॑द तादुरि।  
+मध्ये॑ ह्र॒दस्य॑ प्लवस्व वि॒गृह्य॑ च॒तुरः॑ प॒दः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒प॒ऽप्रव॑द। म॒ण्डू॒कि॒। व॒र्षम्। आ। व॒द॒। ता॒दु॒रि॒। मध्ये॑। हृ॒दस्य॑। प्ल॒व॒स्व॒। वि॒ऽगृह्य॑। च॒तुरः॑। प॒दः। १५.१४। 
+उ॒प॒ऽप्रव॑द। म॒ण्डू॒कि॒। व॒र्षम्। आ। व॒द॒। ता॒दु॒रि॒। मध्ये॑। हृ॒दस्य॑। प्ल॒व॒स्व॒। वि॒ऽगृह्य॑। च॒तुरः॑। प॒दः। १५.१४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मण्डूकसमूहः, पितरगणः
@@ -998,18 +1054,22 @@ Speak forth a welcome, female frog! Do thou O frog, accost the rain. Stretch thy
 - अनुष्टुप्
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मण्डूकि) हे शोभा बढ़ानेवाली वा डुबकी लगानेवाली मेंडुकी ! (उप प्रवद) पास आकर बोल, (तदुरि) हे तैरनेवाली वा उतने [शरीर जितना] उदरवाली (वर्षम्) वर्षा को (आवद) बुला (ह्रदस्य) पोखर के (मध्ये) बीच में (चतुरः) चारों (पदः) पदों को (विगृह्य) फैलाकर (प्लवस्व) तैर ॥१४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे मेंडुकी वर्षा होने पर आनन्द से जल के भीतर तैरती फिरती है, ऐसे ही ब्रह्मज्ञानी लोग ब्रह्मविद्या में मग्न होकर विचरते हैं ॥१४॥  यह मन्त्र निरुक्त ९।७। में उदाहृत है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १४−(उपप्रवद) उपेत्य प्रकृष्टं घोषं कुरु (मण्डूकि) मण्डूक, म० १२। स्त्रियां ङीप्। हे मण्डनशीले। निमज्जनस्वभावे। भेकि (वर्षम्) वृष्टिम् (आ वद) आभाषय (तदुरि) तरणशीले ! अथवा तावत् उदरि ! यावच्छरीरं तावदेवोदरं तस्याः-इति दुर्गाचार्यो निरुक्तटीकायाम्−९।७। दर्दुरि इत्यस्यैव छान्दसं रूपम्। मकुरदर्दुरौ। उ० १।४०। इति दॄ विदारणे-उरच्, निपातनात् साधुः। दृणाति भूमिं करणौ वा स दर्दुरः। ङीप्। हे दर्दुरि ! मण्डूकि ! (मध्ये) मध्यदेशे (ह्रदस्य) ह्राद अव्यक्तशब्दे-अच्। पृषोदरादि ह्रस्वत्वम्। जलाशयस्य (प्लवस्व) प्रतर (विगृह्य) प्रसार्य (चतुरः) (पद) पादान् ॥
@@ -1023,15 +1083,6 @@ Speak forth a welcome, female frog! Do thou O frog, accost the rain. Stretch thy
 
 ख᳙ण्वखा᳓३इ खैमखा᳓३इ म᳓ध्ये तदुरि।  
 वर्षं᳓ वनुध्वं पितरो मरु᳓तां म᳓न इच्छत ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/15_khaNvakhA3i_khaimakhA3i.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ख॑ण्व॒खा३इ॑ खैम॒खा३इ॒ मध्ये॑ तदुरि।  
-व॒र्षं व॑नुध्वं पितरो म॒रुतां॒ मन॑ इच्छत ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/15_khaNvakhA3i_khaimakhA3i.md">
@@ -1073,14 +1124,23 @@ translation above. The comm. explains *pitaras* as *pālayitāro
 maṇḍūkāḥ!* SPP. regards him as reading *mārutam* in **d**, but this  
 appears doubtful. ⌊The Anukr. scans 8 + 5: 8 + 8.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Khanvakha, ho! Khaimakha, ho! thou in the middle, Taduri! Fathers, enjoy the rain from one who strives to win the Marutes heart.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ख॑ण्व॒खा३इ॑ खैम॒खा३इ॒ मध्ये॑ तदुरि।  
+व॒र्षं व॑नुध्वं पितरो म॒रुतां॒ मन॑ इच्छत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-खण्व॒खा३इ॑। खैम॒खा३इ॑। मध्ये॑। त॒दु॒रि॒। व॒र्षम्। व॒नु॒ध्व॒म्। पि॒त॒रः॒। म॒रुता॑म्। मनः॑। इ॒च्छ॒त॒। १५.१५। 
+खण्व॒खा३इ॑। खैम॒खा३इ॑। मध्ये॑। त॒दु॒रि॒। व॒र्षम्। व॒नु॒ध्व॒म्। पि॒त॒रः॒। म॒रुता॑म्। मनः॑। इ॒च्छ॒त॒। १५.१५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मण्डूकसमूहः, पितरगणः
@@ -1088,18 +1148,22 @@ Khanvakha, ho! Khaimakha, ho! thou in the middle, Taduri! Fathers, enjoy the rai
 - शङ्कुमत्यनुष्टुप्
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (खण्वखा ३ इ=खण्वाखे) हे खनती में लंगड़ानेवाली (खैमखा ३ इ=खैमखे) हे कष्ट में ठहरी हुई (तदुरि=दर्दुरि) हे [भूमि वा कान] फोड़नेवाली दादुरी ! (मध्ये) [जल के] भीतर वर्तमान ! और (पितरः) हे पालन करनेवाले विद्वान् किसान आदि लोगो ! (वर्षम्) वर्षा का (वनध्वम्) सेवन करो (मरुताम्) याजकों के (मनः) मन को (इच्छत) चाहो [प्रसन्न करो] ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वृष्टि होने से अन्न आदि पदार्थों की उत्पत्ति से सब प्राणी मेंडुकी के समान प्रसन्न होते हैं और यज्ञादि उत्तम कर्मों में प्रवृत्त होते हैं ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १५−(खण्वखा ३ इ=खण्वखे) अशूप्रुषि०। उ० १।१५१। इति खनु अवदारणे-क्वन्। णत्वं छान्दसम्। खजि गतिवैकल्ये-ड। टाप्। एचोऽप्रगृह्यादूराद्धूते पूर्वस्यार्धस्यादुत्तरस्येदुतौ। पा० ८।२।१०७। इति एकारं विगृह्य अकारस्य प्लुतः। खण्वे खनने छिद्रे खञ्जति सा खण्वखा, तत्सम्बुद्धौ खण्वखे। हे विले पङ्गुगते ! (खैमखा ३ इ=खैमखे) अर्त्तिस्तुसुहु०। उ० १।१४०। इति खै स्थैर्ये, खनने, हिंसायां चेति शब्दकल्पद्रुमः-ततो मन् प्रत्ययः, स च णित्। पुनः खै-ड, टाप्। खैमे हिंसायां कष्टे खायति तिष्ठति सा खैमखा। हे कष्टस्थिते (तदुरि) म० १४। हे दर्दुरि ! मण्डूकि (वर्षम्) वृष्टिम् (वनुध्वम्) वन सम्भक्तौ। सेवध्वम् (पितरः) हे पालयितारो विद्वांसो यूयं च (मरुताम्) ऋत्विजाम्-निघ० ३।१८। दोषनाशकानां याजकानाम् (मनः) चित्तम् (इच्छत) कामयध्वम् ॥
@@ -1113,15 +1177,6 @@ Khanvakha, ho! Khaimakha, ho! thou in the middle, Taduri! Fathers, enjoy the rai
 
 महा᳓न्तं को᳓शमु᳓दचाभि᳓ षिञ्च सविद्युतं᳓ भवतु वा᳓तु वा᳓तः।  
 तन्व᳓तां यज्ञं᳓ बहुधा᳓ वि᳓सृष्टा आनन्दि᳓नीरो᳓षधयो भवन्तु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/16_mahAntaM_koshamudachAbhi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-म॒हान्तं॒ कोश॒मुद॑चा॒भि षि॑ञ्च सविद्यु॒तं भ॑वतु॒ वातु॒ वातः॑।  
-त॒न्वतां॑ य॒ज्ञं ब॑हु॒धा विसृ॑ष्टा आन॒न्दिनी॒रोष॑धयो भवन्तु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/16_mahAntaM_koshamudachAbhi.md">
@@ -1146,14 +1201,23 @@ b**.⌋
 Here ends the third *anuvāka*, having 5 hymns and 51 verses; the quoted  
 Anukr. says *ekaviṅśatiḥ*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Lift up the mighty cask and pour down water; let the wind blow, and lightnings flash around us. Let sacrifice be paid, and, widely scattered, let herbs and plants be full of joy and gladness.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+म॒हान्तं॒ कोश॒मुद॑चा॒भि षि॑ञ्च सविद्यु॒तं भ॑वतु॒ वातु॒ वातः॑।  
+त॒न्वतां॑ य॒ज्ञं ब॑हु॒धा विसृ॑ष्टा आन॒न्दिनी॒रोष॑धयो भवन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-म॒हान्त॑म्। कोश॑म्। उत्। अ॒च॒। अ॒भि। सि॒ञ्च॒। स॒ऽवि॒द्यु॒तम्। भ॒व॒तु॒। वातु॑। वातः॑। त॒न्वता॑म्। य॒ज्ञम्। ब॒हु॒ऽधा। विऽसृ॑ष्टाः। आ॒ऽन॒न्दिनीः॑। ओष॑धयः। भ॒व॒न्तु॒। १५.१६। 
+म॒हान्त॑म्। कोश॑म्। उत्। अ॒च॒। अ॒भि। सि॒ञ्च॒। स॒ऽवि॒द्यु॒तम्। भ॒व॒तु॒। वातु॑। वातः॑। त॒न्वता॑म्। य॒ज्ञम्। ब॒हु॒ऽधा। विऽसृ॑ष्टाः। आ॒ऽन॒न्दिनीः॑। ओष॑धयः। भ॒व॒न्तु॒। १५.१६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वातः
@@ -1161,18 +1225,22 @@ Lift up the mighty cask and pour down water; let the wind blow, and lightnings f
 - त्रिष्टुप्
 - वृष्टि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमात्मन् !] (महान्तम्) बड़े (कोशम्) धनभण्डार को (उत् अच) ऊँचा कर, (अभि) सब ओर से (सिञ्च) बरसा दे। (सविद्युतम्) समान विविध प्रकाशित [जगत्] (भवतु) होवे। (वातः) वायु (वातु) [अनुकूल] चले। (बहुधा) अनेक प्रकार से (विसृष्टाः) फैली हुई (ओषधयः) चावल, यव आदि ओषधें (यज्ञम्) यज्ञ को (तन्वताम्) फैलावें, और (आनन्दिनीः=०-न्यः) आनन्दयुक्त (भवन्तु) होवें ॥१६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमात्मा के अनुग्रह से मनुष्य प्रयत्नपूर्वक धन संचय करें और वायु वृष्टि आदि से उपकार लेकर यज्ञ अर्थात् अनेक विज्ञानयुक्त कर्मों को फैलावें और अन्न आदि पदार्थ को पुष्टिकारक करें ॥१६॥  इस मन्त्र का प्रथम पाद (महान्तं.....षिञ्च) ऋ० ५।८३।८। में है। इति तृतीयोऽनुवाकः ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १६−(महान्तम्) विशालम् (कोशम्) कुश श्लेषे-घञ्। हिरण्यादिस्थापनगृहम्। मेघम्-निघ० १।१०। (उत् अच) अञ्चु गतौ। ऊर्ध्वं प्राप्नुहि। उत्थापय (अभि) अभितः (सिञ्च) वर्षय (सविद्युतम्) स+वि+द्युत दीप्तौ-क। समानं विविधं प्रकाशितं जगत् (भवतु) (वातु) अनुकूलं संचरतु (वातः) पवनः (तन्वताम्) विस्तारयन्तु (यज्ञम्) यजनीयं कर्म (बहुधा) नानाप्रकारेण (विसृष्टाः) उत्पन्नाः। वितीर्णाः (आनन्दिनीः) आनन्द-इनि, ङीप्। आनन्दिन्यः। हर्षयुक्ताः (ओषधयः) व्रीहियवतरुगुल्मादयः ॥

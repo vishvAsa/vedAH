@@ -8,15 +8,18 @@ title = "००५ स्वापनम्"
 
 5. An incantation to put to sleep.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 स्वापनम्।  
 १-७ ब्रह्म। स्वापनं, वृषभः। अनुष्टुप्,२ भुरिक्, ७ पुरस्ताज्ज्योतिस्त्रिष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—svāpanam, vārṣabham. ānuṣṭubham: 2. bhurij; 7. purastājjyotis triṣṭubh.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found in Pāipp. iv., next after our hymn 4. Part of the verses are RV. vii. 55.
 #### Translations
 Translated: Aufrecht, Ind. Stud. iv. 340; Grill, 51, 119; Griffith, i. 135; Bloomfield, 105, 371; Weber, xviii. 20.—Discussed by Pischel, Ved. Stud. ii. 55 f.; see also Lanman, Reader, p. 370, and references; further, the RV. translators; and Zimmer, p. 308.
 </details>
+
 <details><summary>Griffith</summary>
 
 A lover's sleep-charm
@@ -39,15 +43,6 @@ A lover's sleep-charm
 
 सह᳓स्रशृङ्गो वृषभो᳓ यः᳓ समुद्रा᳓दुदा᳓चरत्।  
 ते᳓ना सहस्ये᳙ना वयं᳓ नि᳓ ज᳓नान्त्स्वापयामसि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/01_sahasrashRngo_vRShabho.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स॒हस्र॑शृङ्गो वृष॒भो यः स॑मु॒द्रादु॒दाच॑रत्।  
-तेना॑ सह॒स्ये॑ना व॒यं नि जना॑न्त्स्वापयामसि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/01_sahasrashRngo_vRShabho.md">
@@ -64,14 +59,23 @@ beginning *hiraṇyaśṛn̄gas*. The comm. takes the "bull" to be the sun with
 his thousand rays—but that is nothing to make people sleep; the moon is  
 more likely, but even that only as typifying the night.
 </details>
+
 <details><summary>Griffith</summary>
 
 The Bull who hath a thousand horns, who rises up from out the sea, By him the strong and mighty one we lull the folk to rest and. sleep.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒हस्र॑शृङ्गो वृष॒भो यः स॑मु॒द्रादु॒दाच॑रत्।  
+तेना॑ सह॒स्ये॑ना व॒यं नि जना॑न्त्स्वापयामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒हस्र॑ऽशृङ्गः। वृ॒ष॒भः। यः। स॒मु॒द्रात्। उ॒त्ऽआच॑रत्। तेन॑। स॒ह॒स्ये᳡न। व॒यम्। नि। जना॑न्। स्वा॒प॒या॒म॒सि॒। ५.१। 
+स॒हस्र॑ऽशृङ्गः। वृ॒ष॒भः। यः। स॒मु॒द्रात्। उ॒त्ऽआच॑रत्। तेन॑। स॒ह॒स्ये᳡न। व॒यम्। नि। जना॑न्। स्वा॒प॒या॒म॒सि॒। ५.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वृषभः, स्वापनम्
@@ -79,18 +83,22 @@ The Bull who hath a thousand horns, who rises up from out the sea, By him the st
 - अनुष्टुप्
 - स्वापन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बच्चों के सुलाने का गीत अर्थात् लोरी।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो (वृषभः) सुख बरसानेवाला (सहस्रशृङ्गः) सहस्रों तेज अर्थात् नक्षत्रोंवाला चन्द्रमा [अथवा सहस्रों किरणोंवाला सूर्य] (समुद्रात्) आकाश से (उदाचरत्) उदय हुआ है, (तेन) उस (सहस्येन) बल के लिये हितकारक [चन्द्रमा] से (वयम्) हम लोग (जनान्) सब जनों को (नि स्वापयामसि) सुलादें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  माता पिता आदि बच्चों को चन्द्रमा के दर्शन कराते हुए सुलावें, जिससे उनके शरीर की पुष्टि और नेत्रोंकी ज्योति बढ़े [(सहस्रशृङ्गः) का अर्थ सूर्य भी है, अर्थात् सूर्य का प्रकाश आने से यह घर स्वास्थ्यकारक है। हम सब सोवें] ॥१॥  इस सूक्त के चार मन्त्र कुछ भेद से ऋग्वेद म० ७। सू० ५५ के हैं, जिनका इन्द्र देवता है, इससे यहाँ भी सूक्त का इन्द्र ही देवता है। यह मन्त्र उक्त सूक्त का मन्त्र ७ है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(सहस्रशृङ्गः) सहो बलम्-निघ० २।९। रो मत्वर्थे। सहस्रं बहुनाम-निघ० ३।१। शृणातेर्ह्रस्वश्च। उ० १।१२६। इति शॄ हिंसायाम्-गन्, स च कित्, नुडागमः। शृङ्गाणि ज्वलतोनामसु-निघ० १।१७। शृङ्गं श्रयतेर्वा शृणातेर्वा शम्नातेर्वा शरणायोद्गतमिति वा शिरसो निर्गतमिति वा निरु० २।७। सहस्राणि बहूनि शृङ्गाणि तेजांसि नक्षत्राणि किरणा वा यस्य स बहुतेजाः। अंसख्यातनक्षत्रः। चन्द्रः। सूर्यः (वृषभः) ऋषिवृषिभ्यां कित् उ० ३।१२३। इति वृषु सेचने-अभच्। यद्वा, वृह वृद्धौ-अभच, हस्य षकारः। वृषभः प्रजां वर्षतीति वातिवृहति रेत इति वा तद् वृषकर्मा वर्षणाद् वृषभः-निरु० ९।२२। किरणद्वारा सुखस्य वर्षकः (यः) (समुद्रात्) अ० १।३।८। अन्तरिक्षात्-निघ० १।३। (उत्+आ+अचरत्) उदागात् (तेन) प्रसिद्धेन तादृशेन (सहस्येन) तस्मै हितम्। पा० ५।१।५। इति सहस्-यत् सहसे बलाय हितेन चन्द्रेण (वयम्) (नि) नित्यम्। सर्वथा (जनान्। गृहस्थप्राणिनः (स्वापयामसि) स्वापयामः। निद्रापयामः ॥
@@ -104,15 +112,6 @@ The Bull who hath a thousand horns, who rises up from out the sea, By him the st
 
 न᳓ भू᳓मिं वा᳓तो अ᳓ति वाति ना᳓ति पश्यति क᳓श्चन᳓।  
 स्त्रि᳓यश्च स᳓र्वाः स्वाप᳓य शु᳓नश्चे᳓न्द्रसखा च᳓रन् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/02_na_bhUmim.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-न भूमिं॒ वातो॒ अति॑ वाति॒ नाति॑ पश्यति॒ कश्च॒न।  
-स्त्रिय॑श्च॒ सर्वाः॑ स्वा॒पय॒ शुन॒श्चेन्द्र॑सखा॒ चर॑न् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/02_na_bhUmim.md">
@@ -132,14 +131,23 @@ the comm. also has. The comm. understands the wind to be meant as
 Indra's companion in **d**. The verse is not *bhurij*, if we read *vā́tó  
 ’ti* in **a**. \*⌊And so Op.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Over the surface of the earth there breathes no wind, there looks. no eye. Lull all the women, lull the dogs to sleep, with Indra as thy friend!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+न भूमिं॒ वातो॒ अति॑ वाति॒ नाति॑ पश्यति॒ कश्च॒न।  
+स्त्रिय॑श्च॒ सर्वाः॑ स्वा॒पय॒ शुन॒श्चेन्द्र॑सखा॒ चर॑न् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। भूमि॑म्। वातः॑। अति॑। वा॒ति॒। न। अति॑। प॒श्य॒ति॒। कः। च॒न। स्रियः॑। च॒। सर्वाः॑। स्वा॒पय॑। शुनः॑। च॒। इन्द्र॑ऽसखा। चर॑न्। ५.२। 
+न। भूमि॑म्। वातः॑। अति॑। वा॒ति॒। न। अति॑। प॒श्य॒ति॒। कः। च॒न। स्रियः॑। च॒। सर्वाः॑। स्वा॒पय॑। शुनः॑। च॒। इन्द्र॑ऽसखा। चर॑न्। ५.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वृषभः, स्वापनम्
@@ -147,18 +155,22 @@ Over the surface of the earth there breathes no wind, there looks. no eye. Lull 
 - भुरिगनुष्टुप्
 - स्वापन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बच्चों के सुलाने का गीत अर्थात् लोरी।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (न) न (वातः) पवन (भूमिम्) भूमि पर (अति) अत्यन्त (वाति) चलता है, और (न) न (कश्चन) कोई जन (अति) ऊपर से (पश्यति) देखता है, [हे पवन !] (इन्द्रसखा) इन्द्र अर्थात् जीवात्मा को अपना सखा रखनेवाला तू, (चरन्) चलता हुआ, (सर्वाः स्त्रियः) सब स्त्रियों (च) और (शुनः) कुत्तों को (च) भी (स्वापय) सुला दे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य प्रयत्न करे कि रात्री को सोते समय तीव्र वायु वा अन्य किसी तुच्छ कारण से निद्रा भङ्ग न हो और न बाहिरी पुरुष गुप्त बातें सुने ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(न) निषेधे (भूमिम्) पृथिवीम् (वातः) अ० १।११।६। पवनः (अति) अतिशयेन (वाति) गच्छति (पश्यति) प्रेक्षते (कश्चन) कोऽपि जनः (स्त्रियः) अ० १।८।१। स्त्यायति स्तौति वा गुणान् स्तूयते वा सा स्त्री। नारीः (सर्वाः) (स्वापय) निद्रापय (शुनः) श्वन्नुक्षन्पूषन्०। उ० १।१५९। इति दुओश्वि गतिवृद्ध्योः-कनिन्। श्वयतीति श्वा। कुक्कुरान् (च) (इन्द्रसखा) इन्द्रियमिन्द्रलिङ्गमिन्द्रदृष्ट०। पा० ५।२।९३। इति इन्द्र आत्मा।इन्द्र आत्मा स सखा यस्य प्राणवायोस्तदात्मकः-इति सायणः। आत्मप्रियः। वातः (चरन्) देहे वर्तमानः ॥
@@ -172,15 +184,6 @@ Over the surface of the earth there breathes no wind, there looks. no eye. Lull 
 
 प्रो᳙ष्ठेशया᳓स्तल्पेशया᳓ ना᳓रीर्या᳓ वह्यशी᳓वरीः।  
 स्त्रि᳓यो याः᳓ पु᳓ण्यगन्धयस्ताः᳓ स᳓र्वाः स्वापयामसि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्रो॑ष्ठेश॒यास्त॑ल्पेश॒या नारी॒र्या व॑ह्य॒शीव॑रीः।  
-स्त्रियो॒ याः पुण्य॑गन्धय॒स्ताः सर्वाः॑ स्वापयामसि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
@@ -201,14 +204,23 @@ For *talpeśayā́s* in **a**, Ppp. has *puṣṭiś-*, and RV. (vii. 55.8)
 *vahyeś-*; both give *talpaśī́varīs* (Ppp. *-rī*) at end of **b**. RV.  
 further mars the meter of **c** by giving *-gandhās*.
 </details>
+
 <details><summary>Griffith</summary>
 
 The woman sleeping in the court, lying without, or stretched on beds, The matrons with their odorous sweets--these, one and all, we lull to sleep.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रो॑ष्ठेश॒यास्त॑ल्पेश॒या नारी॒र्या व॑ह्य॒शीव॑रीः।  
+स्त्रियो॒ याः पुण्य॑गन्धय॒स्ताः सर्वाः॑ स्वापयामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रो॒ष्ठे॒ऽश॒याः। त॒ल्पे॒ऽश॒याः। नारीः॑। याः। व॒ह्य॒ऽशीव॑रीः। स्रियः॑। याः। पुण्य॑ऽगन्धयः। ताः। सर्वाः॑। स्वा॒प॒या॒म॒सि॒। ५.३। 
+प्रो॒ष्ठे॒ऽश॒याः। त॒ल्पे॒ऽश॒याः। नारीः॑। याः। व॒ह्य॒ऽशीव॑रीः। स्रियः॑। याः। पुण्य॑ऽगन्धयः। ताः। सर्वाः॑। स्वा॒प॒या॒म॒सि॒। ५.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वृषभः, स्वापनम्
@@ -216,18 +228,22 @@ The woman sleeping in the court, lying without, or stretched on beds, The matron
 - अनुष्टुप्
 - स्वापन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बच्चों के सुलाने का गीत अर्थात् लोरी।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (प्रोष्ठेशयाः) बड़े घर वा बड़े आंगन में सोनेवाली, (तल्पेशयाः) खाटों पर सोनेवाली, और (वह्यशीवरीः=०-र्यः) हिंडोला आदि में सोनेवाली (याः) जो (नारीः=नार्यः) नारियाँ हैं, और (याः) जो (स्त्रियः) स्त्रियाँ (पुण्यगन्धयः) पुण्य गतिवाली हैं, (ताः सर्वाः) उन सबको (स्वापयामसि=०-मः) हम सुलाते हैं ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग स्त्रियों के रहने के घर ऐसे उत्तम बनावें, जिससे रात्री को वे सुखपूर्वक सोया करें ॥३॥  यह मन्त्र कुछ भेद से ऋ० ७।५५।८ में है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(प्रोष्ठेशयाः) उषिकुषिगर्त्तिभ्यस्थन्। उ० २।४। इति उष दाहे-थन्। इति ओष्ठः। एङि पररूपम्। पा० ६।१।९४। अत्र वार्त्तिकम्। ओत्वोष्ठयोः समासे वा। इति पररूपम्। अधिकरणे शेतेः। पा० ३।२।१५। इति प्रोष्ठे+शीङ् शयने-अच्। शयवासवासिष्वकालात्। पा० ६।३।१८। इति सप्तम्या अलुक्। प्रोष्ठे अतिशयेन प्रौढे गृहे प्राङ्गणे वा शयानाः (तल्पेशयाः) खष्पशिल्पशष्प०। उ० ३।२८। इति तल प्रतिष्ठायाम्-प प्रत्ययः। शेषे पूर्ववत् सिद्धिः। खट्वासु शयानाः। (नारीः) नार्यः। (वह्यशीवरीः) वह्यं करणम्। पा० ३।१।१०२। इति वह प्रापणे-यत्। अन्येभ्योऽपि दृश्यन्ते। पा० ३।२।७५। इति वह्य+शीङ्-क्वनिप्। वनो र च। पा० ४।१।७। इति ङीब्रेफौ। वा छन्दसि। पा० ६।१।१०१। इति जसि पूर्वसवर्णदीर्घः। वह्ये वहनसाधने आन्दोलिकादौ शयनस्वभावाः (पुण्यगन्धयः) पूञो यण् णुग्घ्रस्वश्च। उ० ५।१५। इति पूञ् शोधे-यत्, णुक् च। सर्वधातुभ्य इन्। उ० ४।११८। इति गन्ध गतिहिंसायाचनेषु-इन्। पुण्यं पवित्रं गन्धिगमनं यासां ताः पवित्रगतयः। अन्यद् गतम् ॥
@@ -243,15 +259,6 @@ The woman sleeping in the court, lying without, or stretched on beds, The matron
 अ᳓ङ्गान्यजग्रभं स᳓र्वा रा᳓त्रीणामतिशर्वरे᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/04_ejadejadajagrabhaM_chaxuH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-एज॑देजदजग्रभं॒ चक्षुः॑ प्रा॒णम॑जग्रभम्।  
-अङ्गा॑न्यजग्रभं॒ सर्वा॒ रात्री॑णामतिशर्व॒रे ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/04_ejadejadajagrabhaM_chaxuH.md">
 <details open><summary><h3>०४ एजदेजदजग्रभं चक्षुः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -264,14 +271,23 @@ limbs have I seized, in the depth (*atiśarvará*) of the nights.
 Ppp. reads in **d** *uta śarvare;* the comm. explains *atiś-* by  
 *tamobhūyiṣṭhe madhyarātrakāle*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Each moving thing have I secured, have held and held the eye and breath. Each limb and member have I seized in the deep darkness of the night.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+एज॑देजदजग्रभं॒ चक्षुः॑ प्रा॒णम॑जग्रभम्।  
+अङ्गा॑न्यजग्रभं॒ सर्वा॒ रात्री॑णामतिशर्व॒रे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-एज॑त्ऽएजत्। अ॒ज॒ग्र॒भ॒म्। चक्षुः॑। प्रा॒णम्। अ॒ज॒ग्र॒भ॒म्। अङ्गा॑नि। अ॒ज॒ग्र॒भ॒म्। सर्वाः॑। रात्री॑णाम्। अ॒ति॒ऽश॒र्व॒रे। ५.४। 
+एज॑त्ऽएजत्। अ॒ज॒ग्र॒भ॒म्। चक्षुः॑। प्रा॒णम्। अ॒ज॒ग्र॒भ॒म्। अङ्गा॑नि। अ॒ज॒ग्र॒भ॒म्। सर्वाः॑। रात्री॑णाम्। अ॒ति॒ऽश॒र्व॒रे। ५.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वृषभः, स्वापनम्
@@ -279,18 +295,22 @@ Each moving thing have I secured, have held and held the eye and breath. Each li
 - अनुष्टुप्
 - स्वापन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बच्चों के सुलाने का गीत अर्थात् लोरी।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एजदेजत्) इधर-उधर पड़ी हुई प्रत्येक वस्तु को (अजग्रभम्) मैंने संग्रह कर लिया है, (चक्षुः) नेत्र और (प्राणम्) प्राण मार्ग [नासिका] को (अजग्रभम्) मैंने ग्रहण कर लिया है, और (रात्रीणाम्) रात्रियों के मध्य (अतिशर्वरे) अत्यन्त अन्धकार में (सर्वा=सर्वाणि) सब (अङ्गानि) अङ्गों को (अजग्रभम्) मैंने थाँभ लिया है ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य इन्द्रियनिग्रह करके शान्तचित्त होकर रात्रि में सोवें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(एजदेजत्) एजृ कम्पने-शतृ। इतस्ततः पतत् प्रत्येकं वस्तु (अजग्रभम्) ग्रह उपादाने-लङ्। हस्य भत्वम्। अहं संगृहीतवानस्मि (चक्षुः) दर्शनसाधनं नेत्रम् (प्राणम्) प्राणसंचारमार्गं घ्राणम्। (अजग्रभम्) निद्रया सह गृहीतवानस्मि (अङ्गानि) हस्तपादादीनि (अजग्रभम्) (सर्वा) सर्वाणि (रात्रीणाम्) रात्रीणां मध्ये (अतिशर्वरे) कॄगॄशॄवॄचतिभ्यः ष्वरच्। उ० २।१२१। इति शॄ हिंसायाम्-ष्वरच्। शर्वरं तमः। अत्यन्ततमसि ॥
@@ -304,15 +324,6 @@ Each moving thing have I secured, have held and held the eye and breath. Each li
 
 य᳓ आ᳓स्ते य᳓श्च᳓रति य᳓श्च ति᳓ष्ठन्विप᳓श्यति।  
 ते᳓षां सं᳓ दध्मो अ᳓क्षीणि य᳓थेदं᳓ हर्म्यं᳓ त᳓था ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/05_ya_Aste.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-य आस्ते॒ यश्चर॑ति॒ यश्च॒ तिष्ठ॑न्वि॒पश्य॑ति।  
-तेषां॒ सं द॑ध्मो॒ अक्षी॑णि॒ यथे॒दं ह॒र्म्यं तथा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/05_ya_Aste.md">
@@ -337,14 +348,23 @@ closing? We close their eyes as we close this house. The comm. renders
 and vi. 91. 2 **a** (*’va* before *vāti?*). Other cases (vii. 81. 1  
 **c**, etc.) cited by Bloomfield, AJP. xvii. 418.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 The man who sits, the man who walks, whoever stands and clearly sees Of these we closely shut the eyes, even as we closely shut this house.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+य आस्ते॒ यश्चर॑ति॒ यश्च॒ तिष्ठ॑न्वि॒पश्य॑ति।  
+तेषां॒ सं द॑ध्मो॒ अक्षी॑णि॒ यथे॒दं ह॒र्म्यं तथा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। आस्ते॑। यः। चर॑ति। यः। च॒। तिष्ठ॑न्। वि॒ऽपश्य॑ति। तेषा॑म्। सम्। द॒ध्मः॒। अक्षी॑णि। यथा॑। इ॒दम्। ह॒र्म्यम्। तथा॑। ५.५। 
+यः। आस्ते॑। यः। चर॑ति। यः। च॒। तिष्ठ॑न्। वि॒ऽपश्य॑ति। तेषा॑म्। सम्। द॒ध्मः॒। अक्षी॑णि। यथा॑। इ॒दम्। ह॒र्म्यम्। तथा॑। ५.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वृषभः, स्वापनम्
@@ -352,18 +372,22 @@ The man who sits, the man who walks, whoever stands and clearly sees Of these we
 - अनुष्टुप्
 - स्वापन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बच्चों के सुलाने का गीत अर्थात् लोरी।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो कोई (आस्ते) बैठता है, (यः) जो (चरति) चलता है, (च) और (यः) जो (तिष्ठन्) खड़े होकर (विपश्यति) विविध प्रकार से देखता है, (तेषाम्) उनकी (अक्षीणि) आँखों को (तथा) उस प्रकार से (संदध्मः) हम मूँदते हैं, (यथा) जैसे (इदम्) इस (हर्म्यम्) हर्म्य [धनियों के मनोहर घर] को ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे धनिक लोगों के घर सुरक्षित होते हैं, जिन्हें बन्ध करके सुखपूर्वक वे सोते हैं, वैसे ही घर सब गृहस्थ बनावें, जिनमें निर्भय होकर रात्रि को आनन्द से सोवें ॥५॥  यह मन्त्र कुछ भेद से ऋग्वेद मं० ७।५५।६। में है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(यः) (आस्ते) उपविशति (यः) (चरति) संचरति (यः च) (तिष्ठन्) स्थितः सन् (विपश्यति) विविधम् इतस्ततः पश्यति (तेषाम्) (संदध्मः) संहितानि निमीलितानि अदर्शकानि कुर्मः (अक्षीणि) चक्षूंषि (यथा) येन प्रकारेण (इदम्) दृश्यमानम् (हर्म्यम्) अघ्न्यादयश्च। उ० ४।११२। इति हृञ् हरणे-यक्, मुट् च। हरति मनांसि। धनिनां वासम्। मनोहरं गृहम् (तथा) तेन प्रकारेण ॥
@@ -377,15 +401,6 @@ The man who sits, the man who walks, whoever stands and clearly sees Of these we
 
 स्व᳓प्तु माता᳓ स्व᳓प्तु पिता᳓ स्व᳓प्तु श्वा᳓ स्व᳓प्तु विश्प᳓तिः।  
 स्व᳓पन्त्वस्यै ज्ञात᳓यः स्व᳓प्त्वय᳓मभि᳓तो ज᳓नः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/06_svaptu_mAtA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स्वप्तु॑ मा॒ता स्वप्तु॑ पि॒ता स्वप्तु॒ श्वा स्वप्तु॑ वि॒श्पतिः॑।  
-स्वप॑न्त्वस्यै ज्ञा॒तयः॒ स्वप्त्व॒यम॒भितो॒ जनः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/06_svaptu_mAtA.md">
@@ -406,14 +421,23 @@ were or were not its original intent. In **b**, all the mss. have *svā́*
 instead of *śvā́;* both editions emend to the latter, which is read also  
 by the comm. ⌊For *asyāi*, cf. iii. 25. 6.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Sleep mother, let the father sleep, sleep dog, and master of the home. Let all her kinsmen sleep, sleep all the people who are round about.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्वप्तु॑ मा॒ता स्वप्तु॑ पि॒ता स्वप्तु॒ श्वा स्वप्तु॑ वि॒श्पतिः॑।  
+स्वप॑न्त्वस्यै ज्ञा॒तयः॒ स्वप्त्व॒यम॒भितो॒ जनः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्वप्तु॑। मा॒ता। स्वप्तु॑। पि॒ता। स्वप्तु॑। श्वा। स्वप्तु॑। वि॒श्पतिः॑। स्वप॑न्तु। अ॒स्यै॒। ज्ञा॒तयः॑। स्वप्तु॑। अ॒यम्। अ॒भितः॑। जनः॑। ५.६। 
+स्वप्तु॑। मा॒ता। स्वप्तु॑। पि॒ता। स्वप्तु॑। श्वा। स्वप्तु॑। वि॒श्पतिः॑। स्वप॑न्तु। अ॒स्यै॒। ज्ञा॒तयः॑। स्वप्तु॑। अ॒यम्। अ॒भितः॑। जनः॑। ५.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वृषभः, स्वापनम्
@@ -421,18 +445,22 @@ Sleep mother, let the father sleep, sleep dog, and master of the home. Let all h
 - अनुष्टुप्
 - स्वापन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बच्चों के सुलाने का गीत अर्थात् लोरी।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अस्यै) इस [सन्तति, पुत्र वा पुत्री के हित] के लिये (माता) माता (स्वप्तु) सोवे, (पिता) पिता (स्वप्तु) सोवे, (श्वा) कुत्ता (स्वप्तु) सोवे, (विश्पतिः) प्रजापालक, गृहपति (स्वप्तु) सोवे। (ज्ञातयः) ज्ञाति के लोग (स्वपन्तु) सोवें, और (अयम्) यह (जनः) सब जने (अभितः) चारों ओर (स्वप्तु) सोवें ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अब रात्री में सब लोग चुप-चाप सो जावें, खलबल न मचावें, जिससे यह बालक सुखपूर्वक सो जावे ॥६॥  यह मन्त्र कुछ भेद से ऋग्वेद० ७।५५।५ में है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(स्वप्तु) ञिष्वप् शयने। इडभावश्छान्दसः। स्वपितु। निद्रातु (माता) जननी (पिता) जनकः (श्वा) म० २। गमनशीलः। वृद्धिशीलः। कुक्कुरः (विश्पतिः) विशां प्रजानां पालको गृही। गृहाधिपतिः (स्वपन्तु) निद्रान्तु (अस्यै) दृश्यमानायै प्रजायै सन्तत्यै। कन्यायाः पुत्रस्य वा हिताय (ज्ञातयः) क्तिच्क्तौ च संज्ञायाम्। पा० ३।३।१७४। इति ज्ञा ज्ञाने-क्तिच्। जानाति कुलस्थितिं स ज्ञातिः। एककुलोत्पन्नाः। पितृव्याद्यः। बान्धवाः। सम्बन्धिनः (अमितः) परितः स्थितः (जनः) लोकः। मनुष्यसमूहः ॥
@@ -446,15 +474,6 @@ Sleep mother, let the father sleep, sleep dog, and master of the home. Let all h
 
 स्व᳓प्न स्वप्नाभिक᳓रणेन स᳓र्वं नि᳓ ष्वापया ज᳓नम्।  
 ओ᳙त्सूर्य᳓मन्या᳓न्त्स्वाप᳓याव्युषं᳓ जागृतादह᳓मि᳓न्द्र इवा᳓रिष्टो अ᳓क्षितः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स्वप्न॑ स्वप्नाभि॒कर॑णेन॒ सर्वं॒ नि ष्वा॑पया॒ जन॑म्।  
-ओ॑त्सू॒र्यम॒न्यान्त्स्वा॒पया॑व्यु॒षं जा॑गृताद॒हमिन्द्र॑ इ॒वारि॑ष्टो॒ अक्षि॑तः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">
@@ -480,14 +499,23 @@ really a *bhurij pan̄kti*.
 The 5 hymns of the first *anuvāka* contain 37 verses; and the old  
 Anukr., taking 30 as norm, says simply *sapta*.
 </details>
+
 <details><summary>Griffith</summary>
 
 With soporific charm, O Sleep, lull thou to slumber all the folk. Let the rest sleep till break of day, I will remain awake till dawn, like Indra free from scath and harm.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्वप्न॑ स्वप्नाभि॒कर॑णेन॒ सर्वं॒ नि ष्वा॑पया॒ जन॑म्।  
+ओ॑त्सू॒र्यम॒न्यान्त्स्वा॒पया॑व्यु॒षं जा॑गृताद॒हमिन्द्र॑ इ॒वारि॑ष्टो॒ अक्षि॑तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्वप्न॑। स्व॒प्न॒ऽअ॒भि॒कर॑णेन। सर्व॑म्। नि। स्वा॒प॒य॒। जन॑म्। आ॒ऽउ॒त्सू॒र्यम्। अ॒न्यान्। स्वा॒पय॑। आ॒ऽव्यु॒षम्। जा॒गृ॒ता॒त्। अ॒हम्। इन्द्रः॑ऽइव। अरि॑ष्टः। अक्षि॑तः। ५.७। 
+स्वप्न॑। स्व॒प्न॒ऽअ॒भि॒कर॑णेन। सर्व॑म्। नि। स्वा॒प॒य॒। जन॑म्। आ॒ऽउ॒त्सू॒र्यम्। अ॒न्यान्। स्वा॒पय॑। आ॒ऽव्यु॒षम्। जा॒गृ॒ता॒त्। अ॒हम्। इन्द्रः॑ऽइव। अरि॑ष्टः। अक्षि॑तः। ५.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वृषभः, स्वापनम्
@@ -495,18 +523,22 @@ With soporific charm, O Sleep, lull thou to slumber all the folk. Let the rest s
 - पुरस्ताज्ज्योतिस्त्रिष्टुप्
 - स्वापन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बच्चों के सुलाने का गीत अर्थात् लोरी।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (स्वप्न) हे निद्रा ! (स्वप्नाभिकरणेन) नींद के उपाय वा साधन से (सर्वं जनम्) सब जनों को (नि, स्वापय) सुलादे। (अन्यान्) दूसरे पुरुषों को (ओत्सूर्यम्) सूर्य उदय तक (स्वापय) सुला, (अहम्) मैं (इन्द्रः इव) प्रतापी मनुष्य के समान (अरिष्टः) नाशरहित और (अक्षितः) हानिरहित (आव्युषम्) प्रभात तक (जागृतात्=जागराणि) जागरण करूँ ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  घर के अन्य सब स्त्री-पुरुष अपने-अपने स्थानों पर सो जावें और गृहपति यथावत् जाग कर सावधानी रक्खे ॥७॥   इति प्रथमोऽनुवाकः ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(स्वप्न) ञिष्वप् शये-नन्। हे निद्रे (स्वप्नाभिकरणेन) निद्राजनकेन साधनेन कर्मणा द्रव्येण वा (सर्वम्) सकलम् (नि स्वापय) सर्वथा निद्रापय (जनम्) मनुष्यसमूहम् (ओत्सूर्यम्) उद्यन् सूर्य्यो यस्मिन् काले स उत्सूर्यः कालः। सूर्योदयपर्यन्तम् (अन्यान्) इतरान् मनुष्यान्। (आव्युषम्) उष वधे दाहे च-क, वा टाप्। उषः, उषा वा रात्रिशेषः। उषः कालावधि। रात्र्यवसानपर्यन्तम् (जागृतात्) जागृ निद्राक्षये लोट्, उत्तमपुरुषस्य छन्दसि प्रथमपुरुषः। अहं जागराणि। जागृतो भवानि (अहम्) गृहपतिः (इन्द्रः इव) प्रतापी पुरुषो यथा (अरिष्टः) अहिंसितः (अक्षितः) क्षयरहितः ॥

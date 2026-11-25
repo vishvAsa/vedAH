@@ -8,15 +8,18 @@ title = "११४ शत्रुनाशनम्"
 
 114 (119). Against enemies.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
 १-२ भार्गवः। अग्नीषोमौ। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Bhārgava.—dvyṛcam. agnīṣomīyam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -37,15 +40,6 @@ Translated: Weber, Ind. Stud. v. 265; Henry, 45, 123; Griffith, i. 383.
 आ᳓ ते मु᳓खस्य स᳓ङ्काशात्स᳓र्वं ते व᳓र्च आ᳓ ददे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/114_shatrunAshanam/01_A_te.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आ ते॑ ददे व॒क्षणा॑भ्य॒ आ ते॒ऽहं हृद॑याद्ददे।  
-आ ते॒ मुख॑स्य॒ सङ्का॑शा॒त्सर्वं॑ ते॒ वर्च॒ आ द॑दे ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/114_shatrunAshanam/01_A_te.md">
 <details open><summary><h3>०१ आ ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -61,14 +55,23 @@ says *ūrusaṁdhir van̄kṣaṇa ity ucyate;* or, alternatively, the *vakṣa�
 are *kaṭivikaṭyūrupādāḥ*. This verse appears to belong properly with  
 hymn 113, as vs. 2 with 115.
 </details>
+
 <details><summary>Griffith</summary>
 
 I have extracted from thy sides, I have extracted from thy heart, I have extracted from thy face the strength and splendour that were thine.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ ते॑ ददे व॒क्षणा॑भ्य॒ आ ते॒ऽहं हृद॑याद्ददे।  
+आ ते॒ मुख॑स्य॒ सङ्का॑शा॒त्सर्वं॑ ते॒ वर्च॒ आ द॑दे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। ते॒। द॒दे॒। व॒क्षणा॑भ्यः। आ। ते॒। अ॒हम्। हृद॑यात्। द॒दे॒। आ। ते॒। मुख॑स्य। सम्ऽका॑शात्। सर्व॑म्। ते॒। वर्चः॑। आ। द॒दे॒। ११९.१। 
+आ। ते॒। द॒दे॒। व॒क्षणा॑भ्यः। आ। ते॒। अ॒हम्। हृद॑यात्। द॒दे॒। आ। ते॒। मुख॑स्य। सम्ऽका॑शात्। सर्व॑म्। ते॒। वर्चः॑। आ। द॒दे॒। ११९.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्नीषोमौ
@@ -76,18 +79,22 @@ I have extracted from thy sides, I have extracted from thy heart, I have extract
 - अनुष्टुप्
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राक्षसों के नाश का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे शत्रु !] (अहम्) मैंने (ते) तेरी (वक्षणाभ्यः) छाती के अवयवों से [बल को] (आ ददे) ले लिया है, (ते) तेरे (हृदयात्) हृदय से (आ ददे) ले लिया है। (आ) और (ते) तेरे (मुखस्य) मुख के (संकाशात्) आकार से (ते) तेरे (सर्वम्) सब (वर्चः) ज्योति वा बल को (आ ददे) ले लिया है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य अधार्मिक दोषों और शत्रुओं को नाश करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(ते) तव (आ ददे) लिटि रूपम्। गृहीतवानस्मि (वक्षणाभ्यः) अ० २।५।५। वक्ष रोधे-युच्। टाप्। वक्षःस्थलेभ्यः (ते) (अहम्) (हृदयात्) (आ ददे) (आ) चार्थे (ते) (मुखस्य) (संकाशात्) आकारात् (सर्वम्) (ते) तव (वर्चः) तेजो बलं वा (आ ददे) ॥
@@ -101,15 +108,6 @@ I have extracted from thy sides, I have extracted from thy heart, I have extract
 
 प्रे᳓तो᳓ यन्तु व्या᳙ध्यः प्रा᳓नुध्याः᳓ प्रो᳓ अ᳓शस्तयः।  
 अग्नी᳓ रक्षस्वि᳓नीर्हन्तु सो᳓मो हन्तु दुरस्यतीः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/114_shatrunAshanam/02_preto_yantu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्रेतो य॑न्तु॒ व्या᳡ध्यः॒ प्रानु॒ध्याः प्रो अश॑स्तयः।  
-अ॒ग्नी र॑क्ष॒स्विनी॑र्हन्तु॒ सोमो॑ हन्तु दुरस्य॒तीः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/114_shatrunAshanam/02_preto_yantu.md">
@@ -126,14 +124,23 @@ abusers (f.).
 left from its place over the syllable *ha-*. The vs. seems to belong to  
 h. 115: see note to the preceding vs.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Let pain and suffering pass away, let cares and curses vanish. hence. Let Agni slay the fiendish hags, Soma kill bags who trouble us.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रेतो य॑न्तु॒ व्या᳡ध्यः॒ प्रानु॒ध्याः प्रो अश॑स्तयः।  
+अ॒ग्नी र॑क्ष॒स्विनी॑र्हन्तु॒ सोमो॑ हन्तु दुरस्य॒तीः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र। इ॒तः। य॒न्तु॒। विऽआ॑ध्यः। प्र। अ॒नु॒ऽध्याः। प्रो इति॑। अश॑स्तयः। अ॒ग्निः। र॒क्ष॒स्विनीः॑। ह॒न्तु॒। सोमः॑। ह॒न्तु॒। दु॒र॒स्य॒तीः। ११९.२। 
+प्र। इ॒तः। य॒न्तु॒। विऽआ॑ध्यः। प्र। अ॒नु॒ऽध्याः। प्रो इति॑। अश॑स्तयः। अ॒ग्निः। र॒क्ष॒स्विनीः॑। ह॒न्तु॒। सोमः॑। ह॒न्तु॒। दु॒र॒स्य॒तीः। ११९.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्नीषोमौ
@@ -141,18 +148,22 @@ Let pain and suffering pass away, let cares and curses vanish. hence. Let Agni s
 - अनुष्टुप्
 - शत्रुनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राक्षसों के नाश का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इतः) यहाँ से (व्याध्यः) सब रोग (प्र) बाहिर, (अनुध्याः) सब अनुताप (प्र) बाहिर और (अशस्तयः) सब अपकीर्तियाँ (प्रो) बाहिर ही (यन्तु) चली जावें। (अग्निः) तेजस्वी राजा (रक्षस्विनी) राक्षसों से युक्त [सेनाओं] को (हन्तु) मारे और (सोमः) ऐश्वर्यवान् राजा (दुरस्यतीः) अनिष्ट चीतनेवाली [प्रजाओं] को (हन्तु) नाश करें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  राजा प्रजा में शान्ति रखने के लिये चोर डाकू आदि राक्षसों का नाश करें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(प्र) बहिर्भावे (इतः) अस्मात् स्थानात् (यन्तु) गच्छन्तु (व्याध्यः) उपसर्गे घोः किः। पा० ३।३।९२। वि+आङ्+डुधाञ्-कि। जसि, गुणस्थाने यणादेशः। व्याधयः। रोगाः (प्र) (अनुध्याः) आतश्चोपसर्गे। पा० ३।३।१०६। अनु+ध्यै चिन्तायाम्-अङ्, टाप्। अनुतापाः (प्रो) बहिरेव (अशस्तयः) अपकीर्तयः (अग्निः) तेजस्वी राजा (रक्षस्विनीः) अ० ६।२।२। राक्षसैर्युक्ताः सेनाः (हन्तु) नाशयतु (सोमः) ऐश्वर्यवान् राजा (हन्तु) (दुरस्यतीः) अ० १।२९।२। दुरस्य-शतृ, ङीप्। अनिष्टचिन्तिकाः प्रजाः ॥

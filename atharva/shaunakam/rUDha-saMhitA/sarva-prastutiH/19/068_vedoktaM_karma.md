@@ -8,15 +8,18 @@ title = "०६८ वेदोक्तं कर्म"
 
 68. With ceremonial performance.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 वेदोक्तं कर्म।  
 १ ब्रह्मा। कर्म। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ekarcam. mantroktakarmamātradevatyam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found in Pāipp. xix. Quoted once in the text of Kāuś. (139. 10), in the cerem
 #### Translations
 Translated: Griffith, ii. 319.
 </details>
+
 <details><summary>Griffith</summary>
 
 A preliminary sacrificial formula
@@ -39,15 +43,6 @@ A preliminary sacrificial formula
 
 अ᳓व्यसश्च व्य᳓चसश्च बि᳓लं वि᳓ ष्यामि माय᳓या।  
 ता᳓भ्यामुद्धृ᳓त्य वे᳓दम᳓थ क᳓र्माणि कृण्महे ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अव्य॑सश्च॒ व्यच॑सश्च॒ बिलं॒ वि ष्या॑मि मा॒यया॑।  
-ताभ्या॑मु॒द्धृत्य॒ वेद॒मथ॒ कर्मा॑णि कृण्महे ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
@@ -100,14 +95,23 @@ worth noting.⌋
   
 In Ppp., this hymn is immediately followed by our hymn 72.
 </details>
+
 <details><summary>Griffith</summary>
 
 Both of broad and narrow I with magic power unclose the mouth. With these when we have raised the bunch of grass we pay the holy rites.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अव्य॑सश्च॒ व्यच॑सश्च॒ बिलं॒ वि ष्या॑मि मा॒यया॑।  
+ताभ्या॑मु॒द्धृत्य॒ वेद॒मथ॒ कर्मा॑णि कृण्महे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अव्य॑सः। च॒। व्यच॑सः। च॒। बिल॑म्। वि। स्या॒मि॒। मा॒यया॑। ताभ्या॑म्। उ॒त्ऽहृत्य॑। वेद॑म्। अथ॑। कर्मा॑णि। कृ॒ण्म॒हे॒। ६८.१। 
+अव्य॑सः। च॒। व्यच॑सः। च॒। बिल॑म्। वि। स्या॒मि॒। मा॒यया॑। ताभ्या॑म्। उ॒त्ऽहृत्य॑। वेद॑म्। अथ॑। कर्मा॑णि। कृ॒ण्म॒हे॒। ६८.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - कर्म
@@ -115,18 +119,22 @@ Both of broad and narrow I with magic power unclose the mouth. With these when w
 - अनुष्टुप्
 - वेदोक्तकर्म सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य के कर्तव्य का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अव्यसः) अव्यापक [जीवात्मा] के (च च) और (व्यचसः) व्यापक [परमात्मा] के (बिलम्) बिल [भेद] को (मायया) बुद्धि से (वि ष्यामि) मैं खोलता हूँ। (अथ) फिर (ताभ्याम्) उन दोनों के जानने के लिये (वेदम्) वेद [ऋग्वेद आदि ज्ञान] को (उद्धृत्य) ऊँचा लाकर (कर्माणि) कर्मों को (कृण्महे) हम करते हैं ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य जीवात्मा के कर्तव्य और परमात्मा के अनुग्रह समझने के लिये वेदों को प्रधान जानकर अपना-अपना कर्तव्य करते रहें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(अव्यसः) व्यचतिर्व्याप्तिकर्मा-असुन्,वर्णलोपश्छान्दसः। अव्यचसः। अव्यापकस्य जीवात्मनः (च) (व्यचसः) व्यापकस्य परमात्मनः (च) (बिलम्) छिद्रम्। गुप्तभेदम् (विष्यामि) स्यतिरुपसृष्टो विमोचने-निरु० १।१७। विवृणोमि। विमोचयामि (मायया) प्रज्ञया (ताभ्याम्) तौ ज्ञातुम् (उद्धृत्य) उद्गमय्य (वेदम्) ऋग्वेदादिवेदचतुष्टयं ज्ञानमूलम् (अथ) अनन्तरम् (कर्माणि) कर्तव्यानि (कृण्महे) कुर्महे ॥

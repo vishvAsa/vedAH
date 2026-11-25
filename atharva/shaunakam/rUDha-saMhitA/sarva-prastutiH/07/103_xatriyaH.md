@@ -8,15 +8,18 @@ title = "१०३ क्षत्रियः"
 
 103 (108). For betterment.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 क्षत्रियः।  
 १ ब्रह्म। आत्मा। त्रिष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ātmadāivatam. trāiṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -37,15 +40,6 @@ Translated: Ludwig, p. 269; Henry, 41, 116; Griffith, i. 378.—Cf. Bloomfield, 
 को᳓ यज्ञ᳓कामः क᳓ उ पू᳓र्तिकामः को᳓ देवे᳓षु वनुते दीर्घ᳓मा᳓युः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/103_xatriyaH/01_ko_asyA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-को अ॒स्या नो॑ द्रु॒हो᳡व॒द्यव॑त्या॒ उन्ने॑ष्यति क्ष॒त्रियो॒ वस्य॑ इ॒च्छन्।  
-को य॒ज्ञका॑मः॒ क उ॒ पूर्ति॑कामः॒ को दे॒वेषु॑ वनुते दी॒र्घमायुः॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/103_xatriyaH/01_ko_asyA.md">
 <details open><summary><h3>०१ को अस्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -63,14 +57,23 @@ of the repeated *ka*, to bring the verse into connection with Prajāpati
 (Ka). Ppp. further has *no ‘syā* in **a**, and *kaṣ pūr. ko yaj.* in  
 **c**.
 </details>
+
 <details><summary>Griffith</summary>
 
 What princely warrior, seeking higher fortune, will free us from this shameful fiend of mischief? What friend of sacrifice? What guerdon-lover? Who winneth: 'mid the Gods a long existence?
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+को अ॒स्या नो॑ द्रु॒हो᳡व॒द्यव॑त्या॒ उन्ने॑ष्यति क्ष॒त्रियो॒ वस्य॑ इ॒च्छन्।  
+को य॒ज्ञका॑मः॒ क उ॒ पूर्ति॑कामः॒ को दे॒वेषु॑ वनुते दी॒र्घमायुः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कः। अ॒स्याः। नः॒। द्रु॒हः। अ॒व॒द्यऽव॑त्याः। उत्। ने॒ष्य॒ति॒। क्ष॒त्रियः॑। वस्यः॑। इ॒च्छन्। कः। य॒ज्ञऽका॑मः। कः। ऊं॒ इति॑। पूर्ति॑ऽकामः। कः। दे॒वेषु॑। व॒नु॒ते॒। दी॒र्घम्। आयुः॑। १०८.१। 
+कः। अ॒स्याः। नः॒। द्रु॒हः। अ॒व॒द्यऽव॑त्याः। उत्। ने॒ष्य॒ति॒। क्ष॒त्रियः॑। वस्यः॑। इ॒च्छन्। कः। य॒ज्ञऽका॑मः। कः। ऊं॒ इति॑। पूर्ति॑ऽकामः। कः। दे॒वेषु॑। व॒नु॒ते॒। दी॒र्घम्। आयुः॑। १०८.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रहात्मा
@@ -78,18 +81,22 @@ What princely warrior, seeking higher fortune, will free us from this shameful f
 - त्रिष्टुप्
 - क्षत्रिय सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 द्रोह के त्याग का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वस्यः) उत्तम फल (इच्छन्) चाहता हुआ (कः) प्रजापति [प्रजापालक प्रकाशमान वा सुखदाता] (क्षत्रियः) क्षत्रिय (नः) हमको (अस्याः) इस (अवद्यवत्याः) धिक्कारयोग्य (द्रुहः) डाह क्रिया से (उत् नेष्यति) उठावेगा। (कः) प्रजापति [मनुष्य] (यज्ञकामः) पूजनीय व्यवहार चाहनेवाला और (कः) प्रजापति (उ) ही (पूर्तिकामः) पूर्ति [सिद्धि] चाहनेवाला [होता है], (कः) प्रजापति [मनुष्य] (देवेषु) उत्तम गुणों के बीच (दीर्घम्) दीर्घ (आयुः) आयु (वनुते) माँगता है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य द्रोह छोड़कर पुरुषार्थ करते हुए उत्तम गुण प्राप्त करके सुख बढ़ाते रहें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(कः) अन्येष्वपि दृश्यते। पा० ३।२।१०१। कच दीप्तौ वा कमु कान्तौ वा क्रमु पादविक्षेपे गतौ च-ड प्रत्ययः। कः कमनो वा क्रमणो वा सुखो वा-निरु० १०।२२। कमिति सुखनाम-निघ० ३।६। दीप्यमानः। सुखकारकः। प्रजापतिर्मनुष्यः (अस्याः) वर्तमानायाः (नः) अस्मान् (द्रुहः) द्रुह जिघांसायाम्-क्विप्। द्रोहक्रियायाः। दुर्गतेः सकाशात् (अवद्यवत्याः) निन्द्यकर्मयुक्तायाः (उन्नेष्यति) उद्धरिष्यति (क्षत्रियः) अ० ४।२२।१। क्षत्रे राज्ये साधुः (वस्यः) अ० ६।४७।३। वसीयः। प्रशस्तं फलम् (इच्छन्) अभिलष्यन् (कः) (यज्ञकामः) पूजनीयव्यवहारं कामयमानः (कः) (उ) एव (पूर्तिकामः) सिद्धिकामः (कः) (देवेषु) उत्तमगुणेषु वर्तमानः (वनुते) वनु याचने। याचते (दीर्घम्) (आयुः) जीवनम् ॥

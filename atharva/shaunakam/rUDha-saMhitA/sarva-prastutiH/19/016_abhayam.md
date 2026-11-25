@@ -8,15 +8,18 @@ title = "०१६ अभयम्"
 
 16. For safety and protection.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 अभयम्।  
 १-२ अथर्वा। मन्त्रोक्ताः। १ अनुष्टुप्, २ त्र्यवसाना सप्तपदा बृहतीगर्भाऽतिशक्वरी।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—tṛcam.* mantroktabahudevatyam. 1. anuṣṭubh; 2.3-av. 7-p. bṛhatīgarbhā ’tiśakvarī.⌋ *⌊So the London ms.; the Berlin ms. says in fact dvyṛcam: see under vs. 2.⌋
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ This and the following hymns, to 23 inclusive, are wanting in Pāipp. The comm. 
 #### Translations
 Translated: Griffith, ii. 276.
 </details>
+
 <details><summary>Griffith</summary>
 
 A prayer for security from danger
@@ -39,15 +43,6 @@ A prayer for security from danger
 
 अ᳙सपत्नं᳓ पुर᳓स्तात्पश्चा᳓न्नो अ᳓भयं कृतम्।  
 स᳙विता᳓ मा दक्षिणत᳓ उत्तरा᳓न्मा शचीप᳓तिः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/016_abhayam/01_asapatnaM_purastAtpashchAnno.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॑सप॒त्नं पु॒रस्ता॑त्प॒श्चान्नो॒ अभ॑यं कृतम्।  
-स॑वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॑ शची॒पतिः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/016_abhayam/01_asapatnaM_purastAtpashchAnno.md">
@@ -71,14 +66,23 @@ svastyáyanam*, above, 9. 12 **c**.—In his Collation Book, W. refers to
 RV. *khila*, 3. 4, which reads *asapatnám purástān naḥ śiváṁ dakṣíṇataḥ  
 kṛdhi: abháyaṁ sátatam paścā́d bhadrám uttarató gṛhé*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Peace hath been given us from the east, and from the west security. Savitar guard me from the south, and from the north the Lord of Might.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑सप॒त्नं पु॒रस्ता॑त्प॒श्चान्नो॒ अभ॑यं कृतम्।  
+स॑वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॑ शची॒पतिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒स॒प॒त्नम्। पु॒रस्ता॑त्। प॒श्चात्। नः॒। अभ॑यम्। कृ॒त॒म्। स॒वि॒ता। मा॒। द॒क्षि॒ण॒तः। उ॒त्त॒रात्। मा॒। शची॒ऽपतिः॑। १६.१। 
+अ॒स॒प॒त्नम्। पु॒रस्ता॑त्। प॒श्चात्। नः॒। अभ॑यम्। कृ॒त॒म्। स॒वि॒ता। मा॒। द॒क्षि॒ण॒तः। उ॒त्त॒रात्। मा॒। शची॒ऽपतिः॑। १६.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -86,18 +90,22 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 - अनुष्टुप्
 - अभय सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अभय और रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (नः) हमारे लिये (मा) मुझको (पुरस्तात्) सामने [वा पूर्वदिशा] से (पश्चात्) पीछे [वा पश्चिम] से, (दक्षिणतः) दाहिनी और [वा दक्षिण] से और (मा) मुझको (उत्तरात्) बाईं ओर [वा उत्तर] से (सविता) सर्वप्ररेक राजा और (शचीपतिः) वाणियों वा कर्मों का पालनेवाला [मन्त्री], तुम दोनों (असपत्नम्) शत्रुरहित और (अभयम्) निर्भय (कृतम्) करो ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जहाँ पर राजा और मन्त्री अपनी वाणी और कर्म में पक्के होते हैं, उस राज्य में प्रजागण शत्रुओं से सुरक्षित रहते हैं ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(असपत्नम्) शत्रुरहितम् (पुरस्तात्) अग्रे। पूर्वस्यां दिशि (पश्चात्) पश्चाद् भागे पश्चिमस्यां दिशि (नः) अस्मभ्यम् (अभयम्) (कृतम्) लोटि छान्दसं रूपम्। युवां कुरुतम् (सविता) सर्वप्रेरको राजा (मा) माम् (दक्षिणतः) दक्षिणभागे। दक्षिणस्यां दिशि (उत्तरात्) उपरिभागे। उत्तरस्यां दिशि (मा) माम् (शचीपतिः) शची वाङ्नाम-निघ०१।११ कर्मनाम-निघ०२।१। वाणीनां कर्मणां वा पालको मन्त्री ॥
@@ -112,16 +120,6 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 दिवो᳓ मादित्या᳓ रक्षन्तु भू᳓म्या रक्षन्त्वग्न᳓यः।  
 इ᳙न्द्राग्नी᳓ रक्षतां मा पुर᳓स्तादश्वि᳓नावभि᳓तः श᳓र्म यच्छताम्।  
 ति᳙रश्ची᳓नघ्न्या᳓ रक्षतु जात᳓वेदा भूतकृ᳓तो मे सर्व᳓तः सन्तु व᳓र्म ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/016_abhayam/02_divo_mAdityA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-दि॒वो मा॑दि॒त्या र॑क्षन्तु॒ भूम्या॑ रक्षन्त्व॒ग्नयः॑।  
-इ॑न्द्रा॒ग्नी र॑क्षतां मा पु॒रस्ता॑द॒श्विना॑व॒भितः॒ शर्म॑ यच्छताम्।  
-ति॑र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/016_abhayam/02_divo_mAdityA.md">
@@ -172,14 +170,24 @@ of *me* after *yachatām* is all that spoils the cadence of **d**, if,
 substituting the grammatical equivalent, we pronounce *aśvínā ’bhítaḥ*  
 at the beginning.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 May the Adityas from the sky protect me, Agni from the earth. May Indra-Agni guard me from the eastward, on all sides may the Asvins give me shelter. May Jatavedas guard, sidelong, our cattle. Our shield on all sides be the World-Creators!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+दि॒वो मा॑दि॒त्या र॑क्षन्तु॒ भूम्या॑ रक्षन्त्व॒ग्नयः॑।  
+इ॑न्द्रा॒ग्नी र॑क्षतां मा पु॒रस्ता॑द॒श्विना॑व॒भितः॒ शर्म॑ यच्छताम्।  
+ति॑र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दि॒वः। मा॒। आ॒दि॒त्याः। र॒क्ष॒न्तु॒। भूम्याः॑। र॒क्ष॒न्तु॒। अ॒ग्नयः॑। इ॒न्द्रा॒ग्नी इति॑। र॒क्ष॒ता॒म्। मा॒। पुरस्ता॑त्। अ॒श्विनौ॑। अ॒भितः॑। शर्म॑। य॒च्छ॒ता॒म्। ति॒र॒श्चीन्। अ॒घ्न्या। र॒क्ष॒तु॒। जा॒तऽवे॑दाः। भू॒त॒ऽकृतः॑। मे॒। स॒र्वतः॑। स॒न्तु॒। वर्म॑। १६.२। 
+दि॒वः। मा॒। आ॒दि॒त्याः। र॒क्ष॒न्तु॒। भूम्याः॑। र॒क्ष॒न्तु॒। अ॒ग्नयः॑। इ॒न्द्रा॒ग्नी इति॑। र॒क्ष॒ता॒म्। मा॒। पुरस्ता॑त्। अ॒श्विनौ॑। अ॒भितः॑। शर्म॑। य॒च्छ॒ता॒म्। ति॒र॒श्चीन्। अ॒घ्न्या। र॒क्ष॒तु॒। जा॒तऽवे॑दाः। भू॒त॒ऽकृतः॑। मे॒। स॒र्वतः॑। स॒न्तु॒। वर्म॑। १६.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -187,18 +195,22 @@ May the Adityas from the sky protect me, Agni from the earth. May Indra-Agni gua
 - त्र्यवसाना सप्तपदा बृहतीगर्भातिशक्वरी
 - अभय सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अभय और रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (आदित्याः) अखण्डव्रती शूर (मा) मुझे (दिवः) आकाश से (रक्षन्तु) बचावें, (अग्नयः) ज्ञानी पुरुष (भूम्याः) भूमि से (रक्षन्तु) बचावें। (इन्द्राग्नी) बिजुली और अग्नि [के समान तेजस्वी और व्यापक राजा और मन्त्री दोनों] (मा) मुझे (पुरस्तात्) सामने से (रक्षताम्) बचावें, (अश्विनौ) सूर्य और चन्द्रमा [के समान ठीक मार्ग चलनेवाले वे दोनों] (अभितः) सब ओर से (शर्म) सुख (यच्छताम्) देवें। (जातवेदाः) बहुत धनवाली (अघ्न्या) अटूट [राजनीति] (तिरश्चीन्=तिरश्चिभ्यः) आड़े चलनेवाले [वैरियों] से [मुझे] (रक्षतु) बचावे, (भूतकृतः) उचित कर्म करनेवाले पुरुष (मे) मेरे लिये (सर्वतः) सब ओर से (वर्म) कवच (सन्तु) होवें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो राजा और राजपुरुष आकाश में वायुयान द्वारा चलनेवाले वीरों से और पृथिवी पर अश्ववार आदि से अस्त्र-शस्त्र द्वारा शत्रुओं का नाश करते हैं, वही प्रजा की रक्षा कर सकते हैं ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(दिवः) आकाशात् (मा) माम् (आदित्याः) अखण्डब्रह्मचारिणः शूराः (रक्षन्तु) पान्तु (भूम्याः) (रक्षन्तु) (अग्नयः) ज्ञानिनः पुरुषाः (इन्द्राग्नी) विद्युदग्निवत्तेजस्विव्यापकौ राजमन्त्रिणौ (रक्षताम्) (मा) माम् (पुरस्तात्) पुरोभागे (अश्विनौ) सूर्याचन्द्रमसाविव सन्मार्गगन्तारौ (अभितः) सर्वतः (यच्छताम्) दत्ताम् (तिरश्चीन्) वातेर्डिच्च। उ०४।१३४४। तिरस्+चर गतौ-इण्, डित्। सुपां सुपो भवन्ति। वा० पा०७।१।३९। पञ्चम्याः शस्। तिरश्चिम्यः। तिर्यग्गतिभ्यः शत्रुभ्यः (अघ्न्या) अहन्तव्या राजनीतिः (रक्षतु) (जातवेदाः) गतिकारकोपपदयोः पूर्वपदप्रकृतिस्वरत्वञ्च। उ०४।२२७। जात+विद्लृ लाभे-असि। वेदो धननाम-निघ०२।१०। जातं प्रसिद्धं वेदो धनं यस्याः सा (भूतकृतः) भूतस्योचितस्य कर्तारः (मे) मम (सर्वतः) (सन्तु) (वर्म) कवचम् रक्षासाधनम् ॥

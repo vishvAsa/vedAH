@@ -8,15 +8,18 @@ title = "०८९ दिव्या आपः"
 
 89 (94). To Agni and the waters.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 दिव्या आपः।  
 १-४ सिन्धुद्वीपः। अग्निः। अनुष्टुप्, ४ त्रिपदा निचृत् परोष्णिक्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Sindhudvīpa.—caturṛcam. āgneyam. ānuṣṭubham: 4. 3-p. nicṛtparoṣṇih.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ title = "०८९ दिव्या आपः"
 #### Translations
 Translated: Henry, 36, 106; Griffith, i. 373.
 </details>
+
 <details><summary>Griffith</summary>
 
 A prayer for purification and prosperity
@@ -39,15 +43,6 @@ A prayer for purification and prosperity
 
 अपो᳓ दिव्या᳓ अचायिषं र᳓सेन स᳓मपृक्ष्महि।  
 प᳓यस्वानग्न आ᳓गमं तं᳓ मा सं᳓ सृज व᳓र्चसा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/089_divyA_ApaH/01_apo_divyA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒पो दि॒व्या अ॑चायिषं॒ रसे॑न॒ सम॑पृक्ष्महि।  
-पय॑स्वानग्न॒ आग॑मं॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/089_divyA_ApaH/01_apo_divyA.md">
@@ -71,14 +66,23 @@ as x. 5. 46, and its second half is the last part of ix. 1. 14. Ppp.
 agrees in a with RV., and has *aganmahi* in **b**. The comm. glosses  
 *acāyiṣam* with *pūjayāmi*.
 </details>
+
 <details><summary>Griffith</summary>
 
 The heavenly Waters have I ranged: we have been sated with their dew. Here, Agni, bearing milk, am I. Endow me with the gift of strength.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒पो दि॒व्या अ॑चायिषं॒ रसे॑न॒ सम॑पृक्ष्महि।  
+पय॑स्वानग्न॒ आग॑मं॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पः। दि॒व्याः। अ॒चा॒यि॒ष॒म्। रसे॑न। सम्। अ॒पृ॒क्ष्म॒हि॒। पय॑स्वान्। अ॒ग्ने॒। आ। अ॒ग॒म॒म्। तम्। मा॒। सम्। सृ॒ज॒। वर्च॑सा। ९४.१। 
+अ॒पः। दि॒व्याः। अ॒चा॒यि॒ष॒म्। रसे॑न। सम्। अ॒पृ॒क्ष्म॒हि॒। पय॑स्वान्। अ॒ग्ने॒। आ। अ॒ग॒म॒म्। तम्। मा॒। सम्। सृ॒ज॒। वर्च॑सा। ९४.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -86,18 +90,22 @@ The heavenly Waters have I ranged: we have been sated with their dew. Here, Agni
 - अनुष्टुप्
 - दिव्यआपः सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वानों की संगति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (दिव्याः) दिव्य गुण स्वभाववाले (अपः) जलों [के समान शुद्ध करनेवाले विद्वानों] को (अचायिषम्) मैंने पूजा है (रसेन) पराक्रम से (सम् अपृक्ष्महि) हम संयुक्त हुए हैं। (अग्ने) हे विद्वान् ! (पयस्वान्) गतिवाला मैं (आ अगमम्) आया हूँ, (तम्) उस (मा) मुझको (वर्चसा) [वेदाध्ययन आदि के] तेज से (सम् सृज) संयुक्त कर ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य उद्योग करके विद्वानों से और वेद आदि शास्त्रों से विद्या प्राप्त करके यशस्वी होवें ॥१॥ यह मन्त्र कुछ भेद से यजुर्वेद में है−२०।२२ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(अपः) जलानि। जलानीव शोधकान् विदुषः (दिव्याः) दिव्यगुणस्वभावाः (अचायिषम्) चायृ पूजानिशामनयोः-लुङ्। पूजितवानस्मि (रसेन) पराक्रमेण (सम् अपृक्ष्महि) पृची सम्पर्के-लुङ्। संगता अभूम (पयस्वान्) पय गतौ-असुन्। गतिमान्। उद्योगी (अग्ने) हे विद्वन् (आ अगमम्) गमेर्लुङ्। आगतोऽस्मि (तम्) तादृशम् (मा) माम् (संसृज) संयोजय (वर्चसा) ब्रह्मवर्चसेन ॥
@@ -111,15 +119,6 @@ The heavenly Waters have I ranged: we have been sated with their dew. Here, Agni
 
 सं᳓ माग्ने व᳓र्चसा सृज सं᳓ प्रज᳓या स᳓मा᳓युषा।  
 विद्यु᳓र्मे अस्य᳓ देवा᳓ इ᳓न्द्रो विद्यात्सह᳓ ऋ᳓षिभिः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/089_divyA_ApaH/02_saM_mAgne.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा।  
-वि॒द्युर्मे॑ अ॒स्य दे॒वा इन्द्रो॑ विद्यात्स॒ह ऋषि॑भिः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/089_divyA_ApaH/02_saM_mAgne.md">
@@ -140,14 +139,23 @@ alternatively, *etādṛśasya me* (supplying *abhimataphalaṁ sādhayitum*).
 Ppp. reads, for **b**, *prajayā ca bahuṁ kṛdhi*, and combines in **d**  
 *saharṣ-*. ⌊Perhaps the Anukr. scans **c, d** as 7 + 9.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Endow me with the gift of strength, with children, and a length- ened life. May the Gods mark this prayer of mine, may Indra with the Rishis mark.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा।  
+वि॒द्युर्मे॑ अ॒स्य दे॒वा इन्द्रो॑ विद्यात्स॒ह ऋषि॑भिः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। मा॒। अ॒ग्ने॒। वर्च॑सा। सृ॒ज॒। सम्। प्र॒ऽजया॑। सम्। आयु॑षा। वि॒द्युः। मे॒। अ॒स्य। दे॒वाः। इन्द्रः॑। वि॒द्या॒त्। स॒ह। ऋषि॑ऽभिः। ९४.२। 
+सम्। मा॒। अ॒ग्ने॒। वर्च॑सा। सृ॒ज॒। सम्। प्र॒ऽजया॑। सम्। आयु॑षा। वि॒द्युः। मे॒। अ॒स्य। दे॒वाः। इन्द्रः॑। वि॒द्या॒त्। स॒ह। ऋषि॑ऽभिः। ९४.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -155,18 +163,22 @@ Endow me with the gift of strength, with children, and a length- ened life. May 
 - त्रिपदा निचृत्परोष्णिक्
 - दिव्यआपः सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वानों की संगति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे विद्वान् ! (मा) मुझको (वर्चसा) [ब्रह्म विद्या के] तेज से (सम्) अच्छे प्रकार (प्रजया) प्रजा से (सम्) अच्छे प्रकार और (आयुषा) जीवन से (सम् सृज) अच्छी प्रकार संयुक्त कर। (देवाः) विद्वान् लोग (अस्य) इस (मे) मुझको (विद्युः) जानें, (इन्द्रः) ऐश्वर्यवान् आचार्य (ऋषिभिः सह) ऋषियों के साथ [मुझे] (विद्यात्) जानें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य उत्तम विद्या पाकर संसार के सुधार से अपना जीवन सफल करके विद्वानों और गुरु जनों में प्रतिष्ठा पावें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(सम्) सम्यक् (मा) माम् (अग्ने) विद्वन् (वर्चसा) वेदाध्ययनादितेजसा (सृज) संयोजय (सम्) (प्रजया) (सम्) (आयुषा) जीवनेन (विद्युः) जानीयुः (मे) द्वितीयार्थे षष्ठी। माम् (अस्य) एनम् (देवाः) विद्वांसः (इन्द्रः) ऐश्वर्यवान्। आचार्यः (विद्यात्) जानीयात् (ऋषिभिः) अ० २।६।१। आप्तैः। मुनिभिः ॥
@@ -180,15 +192,6 @@ Endow me with the gift of strength, with children, and a length- ened life. May 
 
 इद᳓मापः प्र᳓ वहतावद्यं᳓ च म᳓लं च य᳓त्।  
 य᳓च्चाभिदुद्रो᳓हा᳓नृतं य᳓च्च शेपे᳓ अभी᳓रुणम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/089_divyA_ApaH/03_idamApaH_pra.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इ॒दमा॑पः॒ प्र व॑हताव॒द्यं च॒ मलं॑ च॒ यत्।  
-यच्चा॑भिदु॒द्रोहानृ॑तं॒ यच्च॑ शे॒पे अ॒भीरु॑णम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/089_divyA_ApaH/03_idamApaH_pra.md">
@@ -214,14 +217,23 @@ end is extremely questionable; very possibly it may contain *abhi* and
 have nothing to do with the root *bhī;* it occurs only in this verse.  
 The comm. explains it as *abhi* and *ruṇa* for *ṛṇa* 'debt.'
 </details>
+
 <details><summary>Griffith</summary>
 
 Ye Waters, wash away this stain and whatsoever taint be here, Each sinful wrong that I have done and every harmless curse of mine.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒दमा॑पः॒ प्र व॑हताव॒द्यं च॒ मलं॑ च॒ यत्।  
+यच्चा॑भिदु॒द्रोहानृ॑तं॒ यच्च॑ शे॒पे अ॒भीरु॑णम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒दम्। आ॒पः॒। प्र। व॒ह॒त॒। अ॒व॒द्यम्। च॒। मल॑म्। च॒। यत्। यत्। च॒। अ॒भि॒ऽदु॒द्रोह॑। अनृ॑तम्। यत्। च॒। शे॒पे। अ॒भीरु॑णम्। ९४.३। 
+इ॒दम्। आ॒पः॒। प्र। व॒ह॒त॒। अ॒व॒द्यम्। च॒। मल॑म्। च॒। यत्। यत्। च॒। अ॒भि॒ऽदु॒द्रोह॑। अनृ॑तम्। यत्। च॒। शे॒पे। अ॒भीरु॑णम्। ९४.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -229,18 +241,22 @@ Ye Waters, wash away this stain and whatsoever taint be here, Each sinful wrong 
 - अनुष्टुप्
 - दिव्यआपः सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वानों की संगति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (आपः) हे जल [के समान शुद्धि करनेवाले विद्वानो !] (इदम्) इस [सब] को (प्रवहत) बहा दो, (यत्) जो कुछ [मुझ में] (अवद्यम्) अकथनीय [निन्दनीय] (च च) और (मलम्) मलिन कर्म है। (च) और (यत्) जो कुछ (अनृतम्) झूँठ-मूँठ (अभिदुद्रोह) बुरा चीता है, (च) और (यत्) जो कुछ (अभीरुणम्) निर्भय [निरपराधी] पुरुष को (शेपे) मैंने दुर्वचन कहा है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य शुद्धाचारी विद्वानों के सत्सङ्ग से अपने आचरण को सुधारें ॥३॥ यह मन्त्र यजुर्वेद में है−६।१७ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(इदम्) वक्ष्यमाणम् (आपः) जलानीव शुद्धिकरा विद्वांसः (प्रवहत) अपनयत (अवद्यम्) अकथनीयं निन्द्यम् (च च) समुच्चये (मलम्) अ० २।७।१। मलिनं कर्म (यत्) यत् किञ्चित् (अभिदुद्रोह) द्रुह जिघांसायाम्-लिट्। अनिष्टं चिन्तितवानस्मि (अमृतम्) यथा तथा। असत्यम् (शेपे) शप आक्रोशे-लिट्। दुर्वचनं कथितवानस्मि (अभीरुणम्) क्षधिपिशिमिथिभ्यः कित्। उ० ३।५५। ञिभी भये-उनन्, स च कित्, रुडागमः। निर्भयम्। अनपराधिनम् ॥
@@ -254,15 +270,6 @@ Ye Waters, wash away this stain and whatsoever taint be here, Each sinful wrong 
 
 ए᳓धोऽस्येधिषीय᳓ समि᳓दसि स᳓मेधिषीय।  
 ते᳓जोऽसि ते᳓जो म᳓यि धेहि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/089_divyA_ApaH/04_edho-syedhiShIya_samidasi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-एधो॑ऽस्येधिषी॒य स॒मिद॑सि॒ समे॑धिषीय।  
-तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/089_divyA_ApaH/04_edho-syedhiShIya_samidasi.md">
@@ -287,14 +294,23 @@ two addresses at i. 1. 16 (cf. p. 149, 156); then follows *apo adyānv
 acāriṣam;* and *tejo ‘si* is at ii. 2. 11 (cf. p. 150).⌋ \*⌊And reading  
 *edhiṣīmáhi* in the first.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Thou art the wood, may I succeed! fuel, may I be glorified! splendour, give splendour unto me.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+एधो॑ऽस्येधिषी॒य स॒मिद॑सि॒ समे॑धिषीय।  
+तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-एधः॑। अ॒सि॒। ए॒धि॒षी॒य। स॒म्ऽइत्। अ॒सि॒। सम्। ए॒धि॒षी॒य॒। तेजः॑। अ॒सि॒। तेजः॑। मयि॑। धे॒हि॒। ९४.४। 
+एधः॑। अ॒सि॒। ए॒धि॒षी॒य। स॒म्ऽइत्। अ॒सि॒। सम्। ए॒धि॒षी॒य॒। तेजः॑। अ॒सि॒। तेजः॑। मयि॑। धे॒हि॒। ९४.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -302,18 +318,22 @@ Thou art the wood, may I succeed! fuel, may I be glorified! splendour, give sple
 - अनुष्टुप्
 - दिव्यआपः सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वानों की संगति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे विद्वन् !] तू (एधः) बढ़ा हुआ (असि) है, (एधिषीय) मैं बढ़ूँ, (समित्) तू प्रकाशमान (असि) है, मैं (सम्) ठीक-ठीक (एधिषीय) प्रकाशमान होऊँ। (तेजः असि) तू तेज है, (तेजः) तेज को (मयि) मुझ में (धेहि) धारण कर ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य विद्यावृद्ध, तपोवृद्ध विद्वानों से सुशिक्षा पाकर उन्नति करते हुए तेजस्वी होवें ॥४॥ यह मन्त्र कुछ भेद से यजुर्वेद में है−२०।२३ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(एधः) एध वृद्धौ-पचाद्यच्। प्रवृद्धः (असि) (एधिषीय) एध वृद्धौ-आशीर्लिङ्। अहं वर्धिषीय (समित्) ञि इन्धी दीप्तौ-क्विपि, नकारलोपः। प्रकाशमानः (असि) (सम्) सम्यक् (एधिषीय) ञिइन्धी दीप्तौ आशीर्लिङि छान्दसो नकारलोपो गुणश्च। इन्धिषीय। अहं समिद्धः प्रदीप्तः भूयासम् (तेजः) प्रकाशस्वरूपः (असि) (तेजः) प्रकाशम् (मयि) ब्रह्मचारिणि (धेहि) धारय ॥

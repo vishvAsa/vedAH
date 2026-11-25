@@ -8,15 +8,18 @@ title = "११५ पापमोचनम्"
 
 115. For relief from sin.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 पापमोचनम्।  
 १-३ ब्रह्मा। विश्वे देवाः। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—vāiśvadevam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -37,15 +40,6 @@ Translated: Ludwig, p. 443; Zimmer, p. 182 (vss. 2, 3); Grill, 46, 172; Griffith
 यूयं᳓ नस्त᳓स्मान्मुञ्चत वि᳓श्वे देवाः सजोषसः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/115_pApamochanam/01_yadvidvAMso_yadavidvAMsa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यद्वि॒द्वांसो॒ यदवि॑द्वांस॒ एनां॑सि चकृ॒मा व॒यम्।  
-यू॒यं न॒स्तस्मा॑न्मुञ्चत॒ विश्वे॑ देवाः सजोषसः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/01_yadvidvAMso_yadavidvAMsa.md">
 <details open><summary><h3>०१ यद्विद्वांसो यदविद्वांस ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -61,14 +55,23 @@ P.M.T.; SPP. gives *sajoṣasas;* the comm. takes the word as a
 nominative. With the verse may be compared VS. viii. 13 f (prose). The  
 redundant syllable in **a** is ignored by the Anukr.
 </details>
+
 <details><summary>Griffith</summary>
 
 Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us therefrom, O all ye Gods, of one accord.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्वि॒द्वांसो॒ यदवि॑द्वांस॒ एनां॑सि चकृ॒मा व॒यम्।  
+यू॒यं न॒स्तस्मा॑न्मुञ्चत॒ विश्वे॑ देवाः सजोषसः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। वि॒द्वांसः॑। यत्। अवि॑द्वांसः। एनां॑सि। च॒कृ॒म। व॒यम्। यू॒यम्। नः॒। तस्मा॑त्। मु॒ञ्च॒त॒। विश्वे॑। दे॒वाः॒। स॒ऽजो॒ष॒सः॒। ११५.१। 
+यत्। वि॒द्वांसः॑। यत्। अवि॑द्वांसः। एनां॑सि। च॒कृ॒म। व॒यम्। यू॒यम्। नः॒। तस्मा॑त्। मु॒ञ्च॒त॒। विश्वे॑। दे॒वाः॒। स॒ऽजो॒ष॒सः॒। ११५.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वे देवाः
@@ -76,18 +79,22 @@ Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us ther
 - अनुष्टुप्
 - पापनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पाप से मुक्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) यदि (विद्वांसः) जानते हुए, (यत्) यदि (अविद्वांसः) न जानते हुए (वयम्) हम ने (एनांसि) पाप कर्म (चकृम) किये हैं। (विश्वे देवाः) हे सब विद्वानो ! (सजोषसः) समान प्रीति युक्त (यूयम्) तुम (नः) हमें (तस्मात्) उस [अपराध] से (मुञ्चत) मुक्त करो ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सब प्रकार के पापों को छोड़ कर सदा उत्तम कर्मों में प्रवृत्त रहें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यत्) यदि (विद्वांसः) जानन्तः (यत्) यदि (अविद्वांसः) अजानानाः (एनांसि) अ० २।१०।८। अपराधान् (चकृम) कृतवन्तः (वयम्) (यूयम्) (नः) अस्मान् (तस्मात्) अपराधात् (मुञ्चत) (विश्वे) (देवाः) (सजोषसः) अ० ३।२२।१। समानप्रीतयः ॥
@@ -101,15 +108,6 @@ Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us ther
 
 य᳓दि जा᳓ग्रद्य᳓दि स्व᳓पन्ने᳓न एनस्यो᳓ऽकरम्।  
 भूतं᳓ मा त᳓स्माद्भ᳓व्यं च द्रुपदा᳓दिव मुञ्चताम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/115_pApamochanam/02_yadi_jAgradyadi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यदि॒ जाग्र॒द्यदि॒ स्वप॒न्नेन॑ एन॒स्योऽक॑रम्।  
-भू॒तं मा॒ तस्मा॒द्भव्यं॑ च द्रुप॒दादि॑व मुञ्चताम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/02_yadi_jAgradyadi.md">
@@ -131,14 +129,23 @@ which all the authorities read, and which SPP. accepts in his text. The
 reading), and SPP. wrongly admits it in his *pada* text. The comm.  
 explains *drupada*, doubtless correctly, by *pādabandhanārtho drumaḥ*.
 </details>
+
 <details><summary>Griffith</summary>
 
 If I, a sinner, when awake or sleeping have committed sin, Free me therefrom as from a stake, from present and from future guilt.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदि॒ जाग्र॒द्यदि॒ स्वप॒न्नेन॑ एन॒स्योऽक॑रम्।  
+भू॒तं मा॒ तस्मा॒द्भव्यं॑ च द्रुप॒दादि॑व मुञ्चताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यदि॑। जाग्र॑त्। यदि॑। स्वप॑न्। एनः॑। ए॒न॒स्यः॑। अक॑रम्। भू॒तम्। मा॒। तस्मा॑त्। भव्य॑म्। च॒। द्रु॒प॒दात्ऽइ॑व। मु॒ञ्च॒ता॒म्। ११५.२। 
+यदि॑। जाग्र॑त्। यदि॑। स्वप॑न्। एनः॑। ए॒न॒स्यः॑। अक॑रम्। भू॒तम्। मा॒। तस्मा॑त्। भव्य॑म्। च॒। द्रु॒प॒दात्ऽइ॑व। मु॒ञ्च॒ता॒म्। ११५.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वे देवाः
@@ -146,18 +153,22 @@ If I, a sinner, when awake or sleeping have committed sin, Free me therefrom as 
 - अनुष्टुप्
 - पापनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पाप से मुक्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यदि) जो (जाग्रत्) जागते हुए, (यदि) जो (स्वपन्) सोते हुए (एनस्यः) पापी मैंने (एनः) पाप (अकरम्) किया है। (भूतम्) वर्तमान प्राणीसमूह (च) और (भव्यम्) भविष्यत् प्राणीसमूह (द्रुपदात् इव) काठ के बन्धन के सदृश वर्तमान (तस्मात्) उस [पाप] से (मा) मुझको (मुञ्चताम्) छोड़ावें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य ऐसे अपराध कभी भी न करें, जिस से वर्तमान और भविष्यत् प्राणियों को दुःख होवे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(यदि) सम्भावनायाम् (जाग्रत्) अ० ६।९६।३। जागरणं प्राप्तः (स्वपन्) निद्रां प्राप्तः (एनः) पापम् (एनस्यः) एनसि साधुः (अकरम्) अहं कृतवान् (भूतम्) लब्धसत्ताकं प्राणिजातम् (भव्यम्) भव्यगेय०। पा० ३।४।६८। इति कर्तरि यत्। भविष्यत्सत्ताकं प्राणिजातम् (द्रुपदात्) अ० ६।६२।३। काष्ठमयपादबन्धनात् (इव) यथा (मुञ्चताम्) उभे भूतभव्ये वियोजयताम् ॥
@@ -171,15 +182,6 @@ If I, a sinner, when awake or sleeping have committed sin, Free me therefrom as 
 
 द्रु᳙पदा᳓दिव मुमुचानः᳓ स्विन्नः᳓ स्नात्वा᳓ म᳓लादिव।  
 पूतं᳓ पवि᳓त्रेणेवा᳓ज्यं वि᳓श्वे शुम्भन्तु मै᳓नसः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/115_pApamochanam/03_drupadAdiva_mumuchAnaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-द्रु॑प॒दादि॑व मुमुचा॒नः स्वि॒न्नः स्ना॒त्वा मला॑दिव।  
-पू॒तं प॒वित्रे॑णे॒वाज्यं॒ विश्वे॑ शुम्भन्तु॒ मैन॑सः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/03_drupadAdiva_mumuchAnaH.md">
@@ -204,14 +206,23 @@ This time the comm. gives *kāṣṭhamayāt pādabandhanāt* as equivalent of
 **d** as in VS. And the Calc. ed. of TB. prints both times *svinná  
 snātvó*.⌋ ⌊As to *śumbh*, see BR. vii. 261 top.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 As one unfastened from a stake, or cleansed by bathing after toil, As butter which the sieve hath cleansed, so all shall purge me from the sin.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+द्रु॑प॒दादि॑व मुमुचा॒नः स्वि॒न्नः स्ना॒त्वा मला॑दिव।  
+पू॒तं प॒वित्रे॑णे॒वाज्यं॒ विश्वे॑ शुम्भन्तु॒ मैन॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द्रु॒प॒दात्ऽइ॑व। मु॒मु॒चा॒नः। स्वि॒न्नः। स्ना॒त्वा। मला॑त्ऽइव। पू॒तम्। प॒वित्रे॑णऽइव। आज्य॑म्। विश्वे॑। शु॒म्भ॒न्तु॒। मा॒। एन॑सः। ११५.३। 
+द्रु॒प॒दात्ऽइ॑व। मु॒मु॒चा॒नः। स्वि॒न्नः। स्ना॒त्वा। मला॑त्ऽइव। पू॒तम्। प॒वित्रे॑णऽइव। आज्य॑म्। विश्वे॑। शु॒म्भ॒न्तु॒। मा॒। एन॑सः। ११५.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वे देवाः
@@ -219,18 +230,22 @@ As one unfastened from a stake, or cleansed by bathing after toil, As butter whi
 - अनुष्टुप्
 - पापनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पाप से मुक्ति का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (द्रुपदात्) काष्ठबन्धन से (मुमुचानः इव) छूटे हुए पुरुष के समान, (स्विन्नः) पसीने में डूबे हुए (स्नात्वा) स्नान करके (मलात्) मल से [छूटे हुए के] (इव) समान (पवित्रेण) शुद्ध करनेवाले छन्ना वा अग्नि से (पूतम्) शुद्ध किये हुए (आज्यम् इव) घृत के समान, (विश्वे) सब [दिव्यगुण] (मा) मुझको (एनसः) पाप से (शुम्भन्तु) शुद्ध करें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य प्रयत्नपूर्वक सर्वथा पापों से शुद्ध रहकर सदा आनन्द भोगें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(द्रुपदात्) काष्ठमयबन्धात् (इव) यथा (मुमुचानः) मुच्लृ शानच्, छान्दसो यकः श्लुः। मुच्यमानः (स्विन्नः) स्वेदयुक्तः पुरुषः (स्नात्वा) स्नानं कृत्वा (मलात्) मालिन्यात् (इव) (पूतम्) शोधितम् (पवित्रेण) शुद्धिसाधनेन वस्त्रेणाग्निना वा (इव) (आज्यम्) घृतम् (विश्वे) सर्वे देवा दिव्यगुणाः (शुम्भन्तु) शोधयन्तु (मा) माम् (एनसः) पापात् ॥

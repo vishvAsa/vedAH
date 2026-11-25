@@ -8,15 +8,18 @@ title = "०७२ परमात्मा"
 
 72. For the favor of the gods.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 परमात्मा।  
 १ भृग्वङ्गिराः ब्रह्मा। परमात्मा देवाश्च। त्रिष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛvan̄giras Brahman.—ekarcam. paramātmadāivatam. trāiṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Follows in Pāipp. directly after hymn 68. It is given in full* in the Kāuś. t
 #### Translations
 Translated: Griffith, ii. 320.
 </details>
+
 <details><summary>Griffith</summary>
 
 A sacrificial formula
@@ -39,15 +43,6 @@ A sacrificial formula
 
 य᳓स्मात्को᳓शादुद᳓भराम वे᳓दं त᳓स्मिन्नन्त᳓र᳓व दध्म एनम्।  
 कृत᳓मिष्टं᳓ ब्र᳓ह्मणो वीर्ये᳙ण ते᳓न मा देवास्त᳓पसावतेह᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यस्मा॒त्कोशा॑दु॒दभ॑राम॒ वेदं॒ तस्मि॑न्न॒न्तरव॑ दध्म एनम्।  
-कृ॒तमि॒ष्टं ब्रह्म॑णो वी॒र्ये᳡ण॒ तेन॑ मा देवा॒स्तप॑सावते॒ह ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">
@@ -73,14 +68,23 @@ they are numbered in the Berlin text. They are summed up as 55 verses by
 certain mss.—No mention of the ending of a *prapāṭhaka* is made in the  
 colophon.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Within the chest whence we before extracted the bunch of grass, this do we now deposit. Wrought is the sacrifice by power of Brahma. Through this assist me here, ye God, with Fervour.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्मा॒त्कोशा॑दु॒दभ॑राम॒ वेदं॒ तस्मि॑न्न॒न्तरव॑ दध्म एनम्।  
+कृ॒तमि॒ष्टं ब्रह्म॑णो वी॒र्ये᳡ण॒ तेन॑ मा देवा॒स्तप॑सावते॒ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्मा॑त्। कोशा॑त्। उ॒त्ऽअभ॑राम। वेद॑म्। तस्मि॑न्। अ॒न्तः। अव॑। द॒ध्मः॒। ए॒न॒म्। कृ॒तम्। इ॒ष्टम्। ब्रह्म॑णः। वी॒र्ये᳡ण। तेन॑। मा॒। दे॒वाः॒। तप॑सा। अ॒व॒त॒। इ॒ह। ७२.१। 
+यस्मा॑त्। कोशा॑त्। उ॒त्ऽअभ॑राम। वेद॑म्। तस्मि॑न्। अ॒न्तः। अव॑। द॒ध्मः॒। ए॒न॒म्। कृ॒तम्। इ॒ष्टम्। ब्रह्म॑णः। वी॒र्ये᳡ण। तेन॑। मा॒। दे॒वाः॒। तप॑सा। अ॒व॒त॒। इ॒ह। ७२.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - परमात्मा देवाश्च
@@ -88,18 +92,22 @@ Within the chest whence we before extracted the bunch of grass, this do we now d
 - त्रिष्टुप्
 - परमात्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वैदिक कर्म करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यस्मात्) जिस (कोशात्) कोश [निधि स्थान परमात्मा] से (वेदम्) वे [ऋग्वेद आदि] को (उदभराम) हमने ऊँचा धरा है, (तस्मिन् अन्तः) उस परमात्मा के भीतर (एनम्) इस [जीवात्मा] को (अव) निश्चय करके (दध्मः) हम धरते हैं। (ब्रह्मणा) [जिस] ब्रह्म [परमात्मा] के (वीर्येण) सामर्थ्य से (इष्टम्) इष्ट कर्म (कृतम्) किया जाता हैं (तेन) उस [परमात्मा] के साथ, (देवाः) हे विद्वानो ! (तपसा) तप द्वारा (मा) मुझको (इह) यहाँ पर (अवत) बचाओ ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस परमात्मा के अनन्त भण्डार से वेदरत्न को हमने पाया है, उसी परमात्मा का आश्रय लेकर विद्वानों के सत्सङ्ग और सहाय से तप करते हुए अपनी रक्षा करके हम आनन्द भोगें ॥१॥ इति सप्तमोऽनुवाकः ॥इति पञ्चत्रिंशः प्रपाठकः ॥  इति श्रीमद्राजाधिराजप्रथितमहागुणमहिमश्रीसयाजीरावगायकवाड़ाधिष्ठितबड़ोदेपुरीगतश्रावणमास- दक्षिणापरीक्षायाम्  ऋक्सामाथर्ववेदभाष्येषु लब्धदक्षिणेन श्रीपण्डितक्षेमकरणदासत्रिवेदिना कृते अथर्ववेदभाष्ये एकोनविंशं काण्डं समाप्तम् ॥इत्येकोनविंशं काण्डम् ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यस्मात्) (कोशात्) निधिस्थानात् परमेश्वरात् (उदभराम) उद्धृतवन्तः। ऊर्ध्वं स्थापितवन्तः (वेदम्) ऋग्वेदादिवेदचतुष्टयम् (तस्मिन्) कोशे परमात्मनि (अन्तः) मध्ये (अव) अवधारणे (दध्मः) धरामः (एनम्) जीवात्मानम् (कृतम्) अनुष्ठितम् (इष्टम्) इष्टं कर्म (ब्रह्मणः) यस्य परमेश्वरस्य (वीर्येण) सामर्थ्येन (तेन) परमेश्वरेण सह (मा) माम् (देवाः) हे विद्वांसः (तपसा) तपश्चरणेन (अवत) रक्षत (इह) अत्र ॥

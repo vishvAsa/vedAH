@@ -8,15 +8,18 @@ title = "०३७ बलप्राप्तिः"
 
 37. With an amulet: for various blessings.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 बलप्राप्तिः।  
 १-४ अथर्वा॥ अग्निः। १ त्रिष्टुप्, २ आस्तारपङ्क्तिः, ३ त्रिपदा महाबृहती, ४ उष्णिक्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—caturṛcam. āgneyam. trāiṣṭubham: 2. āstārapan̄kti; 3. 3-p. mahābṛhatī; 4. purāuṣṇih.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Not found in Pāipp. The comm. neither quotes nor devises a viniyoga, but SPP. f
 #### Translations
 Translated: Griffith, ii. 295.
 </details>
+
 <details><summary>Griffith</summary>
 
 A charm to secure long life and dominion to a prince
@@ -39,15 +43,6 @@ A charm to secure long life and dominion to a prince
 
 इदं᳓ व᳓र्चो अग्नि᳓ना दत्त᳓मा᳓गन्भ᳓र्गो य᳓शः स᳓ह ओ᳓जो व᳓यो ब᳓लम्।  
 त्र᳓यस्त्रिंशद्या᳓नि च वीर्या᳙णि ता᳓न्यग्निः᳓ प्र᳓ ददातु मे ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/01_idaM_varcho.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इ॒दं वर्चो॑ अ॒ग्निना॑ द॒त्तमाग॒न्भर्गो॒ यशः॒ सह॒ ओजो॒ वयो॒ बल॑म्।  
-त्रय॑स्त्रिंश॒द्यानि॑ च वी॒र्या᳡णि॒ तान्य॒ग्निः प्र द॑दातु मे ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/01_idaM_varcho.md">
@@ -68,14 +63,23 @@ has *rādhas* instead of *várcas;* then, in **b**, TB. and AśS. give
 all making a good *triṣṭubh* pāda; the verse is too irregular to be  
 called simply a triṣṭubh. ⌊With **c**, cf. 27. 10 **a**, above.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 To me hath come this word given by Agni, fame, force and might, and strength, and life, and lustre. May Agni too bestow on me three-times a hundred manly powers.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒दं वर्चो॑ अ॒ग्निना॑ द॒त्तमाग॒न्भर्गो॒ यशः॒ सह॒ ओजो॒ वयो॒ बल॑म्।  
+त्रय॑स्त्रिंश॒द्यानि॑ च वी॒र्या᳡णि॒ तान्य॒ग्निः प्र द॑दातु मे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒दम्। वर्चः॑। अ॒ग्निना॑। द॒त्तम्। आ। अ॒ग॒न्। भर्गः॑। यशः॑। सहः॑। ओजः॑। वयः॑। बल॑म्। त्रयः॑ऽत्रिंशत्। यानि॑। च॒। वी॒र्या᳡णि। तानि॑। अ॒ग्निः। प्र। द॒दा॒तु॒। मे॒। ३७.१। 
+इ॒दम्। वर्चः॑। अ॒ग्निना॑। द॒त्तम्। आ। अ॒ग॒न्। भर्गः॑। यशः॑। सहः॑। ओजः॑। वयः॑। बल॑म्। त्रयः॑ऽत्रिंशत्। यानि॑। च॒। वी॒र्या᳡णि। तानि॑। अ॒ग्निः। प्र। द॒दा॒तु॒। मे॒। ३७.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -83,18 +87,22 @@ To me hath come this word given by Agni, fame, force and might, and strength, an
 - त्रिष्टुप्
 - बलप्राप्ति सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बल की प्राप्ति का उपदेश ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्निना) अग्नि [प्रकाशस्वरूप परमेश्वर] करके (दत्तम्) दिया गया (इदम्) यह (वर्चः) प्रताप, (भर्गः) प्रकाश, (यशः) यश, (सहः) उत्साह, (ओजः) पराक्रम, (वयः) पौरुष और (बलम्) बल (आ अगन्) आया है। (च) और (यानि) जो (त्रयस्त्रिंशत्) तेंतीस (वीर्याणि) वीर कर्म हैं, (तानि) उनको (अग्निः) अग्नि [प्रकाशस्वरूप परमात्मा] (मे) मुझे (प्र ददातु) देता रहे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमेश्वर के दिये साधनों से अनेक प्रकार का बल प्राप्त करें और तेंतीस जो आठ वसु आदि देवता हैं [देखो अथर्व०१९।२७।१०], उनसे भी सदा उपकार लेते रहें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(इदम्) दृश्यमानम् (वर्चः) प्रतापः (अग्निना) प्रकाशस्वरूपेण परमात्मना (दत्तम्) समर्पितम् (आ अगन्) आगमत् (भर्गः) प्रकाशः (यशः) कीर्त्तिः (सहः) उत्साहः (ओजः) पराक्रमः (वयः) पौरुषम् (बलम्) सामर्थ्यम् (त्रयस्त्रिंशत्) त्रयस्त्रिंशद्वस्वादिदेवतासम्बन्धीनि (यानि) (च) (वीर्याणि) वीरकर्माणि (तानि) (अग्निः) प्रकाशस्वरूपः परमेश्वरः (प्र ददातु) प्रयच्छतु (मे) मह्यम् ॥
@@ -108,15 +116,6 @@ To me hath come this word given by Agni, fame, force and might, and strength, an
 
 व᳓र्च आ᳓ धेहि मे तन्वां᳙ स᳓ह ओ᳓जो व᳓यो ब᳓लम्।  
 इ᳙न्द्रिया᳓य त्वा क᳓र्मणे वीर्या᳙य प्र᳓ति गृह्णामि शत᳓शारदाय ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/02_varcha_A.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वर्च॒ आ धे॑हि मे त॒न्वां३॒॑ सह॒ ओजो॒ वयो॒ बल॑म्।  
-इ॑न्द्रि॒याय॑ त्वा॒ कर्म॑णे वी॒र्या᳡य॒ प्रति॑ गृह्णामि श॒तशा॑रदाय ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/02_varcha_A.md">
@@ -142,14 +141,23 @@ d** and vss. 3 and 4, he speaks of the thing addressed simply as a
 *padārtha*, 'a substance,' not presuming to define what it is: an  
 unusual restraint on his part.
 </details>
+
 <details><summary>Griffith</summary>
 
 For mighty strength, for action, I receive thee, for manly power, to last a hundred autumns.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वर्च॒ आ धे॑हि मे त॒न्वां॒३॒॑ सह॒ ओजो॒ वयो॒ बल॑म्।  
+इ॑न्द्रि॒याय॑ त्वा॒ कर्म॑णे वी॒र्या᳡य॒ प्रति॑ गृह्णामि श॒तशा॑रदाय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वर्चः॑। आ। धे॒हि॒। मे॒। त॒न्वा᳡म्। सहः॑। ओजः॑। वयः॑। बल॑म्। इ॒न्द्रि॒याय॑। त्वा॒। कर्म॑णे। वी॒र्या᳡य। प्रति॑। गृ॒ह्णा॒मि॒। श॒तऽशा॑रदाय। ३७.२। 
+वर्चः॑। आ। धे॒हि॒। मे॒। त॒न्वा᳡म्। सहः॑। ओजः॑। वयः॑। बल॑म्। इ॒न्द्रि॒याय॑। त्वा॒। कर्म॑णे। वी॒र्या᳡य। प्रति॑। गृ॒ह्णा॒मि॒। श॒तऽशा॑रदाय। ३७.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -157,18 +165,22 @@ For mighty strength, for action, I receive thee, for manly power, to last a hund
 - आस्तारपङ्क्तिः
 - बलप्राप्ति सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बल की प्राप्ति का उपदेश ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमात्मन् !] (मे) मेरे (तन्वाम्) शरीर में (वर्चः) प्रताप, (सहः) उत्साह, (ओजः) पराक्रम, (वयः) पौरुष और (बलम्) बल (आ धेहि) धारण कर दे। (इन्द्रियाय) इन्द्र [परम ऐश्वर्यवान् पुरुष] के योग्य (कर्मणे) कर्म के लिये, (वीर्याय) वीरता के लिये और (शतशारदाय) सौ शरद् ऋतुओंवाले [जीवन] के लिये (त्वा) तुझको (प्रति गृह्णामि) मैं अङ्गीकार करता हूँ ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य विद्या की प्राप्ति से परमेश्वरीय नियमों पर चलकर अपना यश बढ़ावें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(वर्चः) प्रतापम् (आ) समन्तात् (धेहि) देहि (मे) मम (तन्वाम्) शरीरे (सहः) उत्साहम् (ओजः) पराक्रमम् (वयः) पौरुषम् (बलम्) सामर्थ्यम् (इन्द्रियाय) इन्द्रस्य परमैश्वर्यवतः पुरुषस्य योग्याय (त्वा) त्वाम् (कर्मणे) (वीर्याय) वीरत्वाय (प्रतिगृह्णामि) स्वीकरोमि (शतशारदाय) शतशरदृतुयुक्ताय जीवनाय ॥
@@ -182,15 +194,6 @@ For mighty strength, for action, I receive thee, for manly power, to last a hund
 
 ऊर्जे᳓ त्वा ब᳓लाय त्वौ᳓जसे स᳓हसे त्वा।  
 अ᳙भिभू᳓याय त्वा राष्ट्रभृ᳓त्याय प᳓र्यूहामि शत᳓शारदाय ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/03_Urje_tvA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ऊ॒र्जे त्वा॒ बला॑य॒ त्वौज॑से॒ सह॑से त्वा।  
-अ॑भि॒भूया॑य त्वा राष्ट्र॒भृत्या॑य॒ पर्यू॑हामि श॒तशा॑रदाय ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/03_Urje_tvA.md">
@@ -211,14 +214,23 @@ makes the necessary emendation to *-ṭrabhṛ́t-* ⌊cf. *Gram.* §1213 c⌋.
 much an *āstārapan̄kti* as vs. 2; ⌊both are doubtless to be scanned as 8  
 + 8: 11 + 11⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 For conquering strength and energy and vigour I fasten thee for chieftainship, for bearing royal dominion through a hundred autumns.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऊ॒र्जे त्वा॒ बला॑य॒ त्वौज॑से॒ सह॑से त्वा।  
+अ॑भि॒भूया॑य त्वा राष्ट्र॒भृत्या॑य॒ पर्यू॑हामि श॒तशा॑रदाय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऊ॒र्जे। त्वा॒। बला॑य। त्वा॒। ओज॑से। सह॑से। त्वा॒। अ॒भि॒ऽभूया॑य। त्वा॒। रा॒ष्ट्रऽभृ॑त्याय। परि॑। ऊ॒हा॒मि॒। श॒तऽशा॑रदाय। ३७.३। 
+ऊ॒र्जे। त्वा॒। बला॑य। त्वा॒। ओज॑से। सह॑से। त्वा॒। अ॒भि॒ऽभूया॑य। त्वा॒। रा॒ष्ट्रऽभृ॑त्याय। परि॑। ऊ॒हा॒मि॒। श॒तऽशा॑रदाय। ३७.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -226,18 +238,22 @@ For conquering strength and energy and vigour I fasten thee for chieftainship, f
 - त्रिपदा महाबृहती
 - बलप्राप्ति सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बल की प्राप्ति का उपदेश ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमात्मन् !] (त्वा) तुझे (ऊर्जे) अन्न के लिये, (बलाय) बल के लिये, (त्वा) तुझे (ओजसे) पराक्रम के लिये, (त्वा) तुझे (सहसे) उत्साह के लिये, (त्वा) तुझे (अभिभूयाय) विजय के लिये, और (राष्ट्रभृत्याय) राज्य के पोषण के लिये और (शतशारदाय) सौ वर्षवाले [जीवन] के लिये (परि) अच्छे प्रकार [ऊहामि] तर्क से निश्चय करता हूँ  ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य परमात्मा में श्रद्धा करते हैं, वे सब प्रकार का बल प्राप्त करके आनन्द भोगते हैं ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(ऊर्जे) अन्नलाभाय (त्वा) त्वाम् (बलाय) सामर्थ्याय (त्वा) (ओजसे) पराक्रमाय (सहसे) उत्साहाय (त्वा) (अभिभूयाय) अभि+भू सत्तायां प्राप्तौ च-क्यप्। अभिभवनाय विजयाय (त्वा) (राष्ट्रभृत्याय) डुभृञ् धारणपोषणयोः-क्यप्, तुक्। राज्यपोषणाय (परि) सर्वतः (ऊहामि) तर्केण निश्चिनोमि (शतशारदाय) शतवर्षयुक्ताय जीवनाय ॥
@@ -251,15 +267,6 @@ For conquering strength and energy and vigour I fasten thee for chieftainship, f
 
 ऋतु᳓भ्यष्ट्वार्तवे᳓भ्यो माद्भ्यः᳓ संवत्सरे᳓भ्यः।  
 धात्रे᳓ विधात्रे᳓ समृ᳓धे भूत᳓स्य प᳓तये यजे ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ऋ॒तुभ्य॑ष्ट्वार्त॒वेभ्यो॑ मा॒द्भ्यः सं॑वत्स॒रेभ्यः॑।  
-धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
@@ -294,14 +301,23 @@ Griffith: 'we fasten thee \[the amulet\] about the neck.' Dīgha Nikāya,
 ii. 6l, suggests still a fourth interpretation, 'affected with  
 lock-jaw,' not applicable here: cf. viii. 1. 16.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 With Seasons and with Season-groups, for vigour and extended life. With splendour of the perfect year we fasten thee about the neck.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋ॒तुभ्य॑ष्ट्वार्त॒वेभ्यो॑ मा॒द्भ्यः सं॑वत्स॒रेभ्यः॑।  
+धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋ॒तुऽभ्यः॑। त्वा॒। आ॒र्त॒वेभ्यः॑। मा॒त्ऽभ्यः। स॒म्ऽव॒त्स॒रेभ्यः॑। धा॒त्रे। वि॒ऽधा॒त्रे। स॒म्ऽऋधे॑। भू॒तस्य॑। पत॑ये। य॒जे॒। ३७.४। 
+ऋ॒तुऽभ्यः॑। त्वा॒। आ॒र्त॒वेभ्यः॑। मा॒त्ऽभ्यः। स॒म्ऽव॒त्स॒रेभ्यः॑। धा॒त्रे। वि॒ऽधा॒त्रे। स॒म्ऽऋधे॑। भू॒तस्य॑। पत॑ये। य॒जे॒। ३७.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -309,18 +325,22 @@ With Seasons and with Season-groups, for vigour and extended life. With splendou
 - पुरउष्णिक्
 - बलप्राप्ति सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बल की प्राप्ति का उपदेश ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमात्मन् !] (ऋतुभ्यः) ऋतुओं के लिये, (आर्तवेभ्यः) ऋतुओं में उत्पन्न पदार्थों के लिये, (माद्भ्यः) महीनों के लिये, (संवत्सरेभ्यः) वर्षा के लिये, (धात्रे) पोषक पुरुष के लिये, (विधात्रे) बुद्धिमान् जन के लिये, (समृधे) बढ़ती करनेवाले के लिये और (भूतस्य) प्राणीमात्र के (पतये) रक्षक पुरुष के लिये (त्वा) तुझे (यजे) मैं पूजता हूँ ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को योग्य है कि अपने समस्त समय और समस्त पदार्थों को संसार के हित में लगाकर परमात्मा की उपासना करते रहें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(ऋतुभ्यः) ऋतूनां हिताय (त्वा) (आर्तवेभ्यः) ऋतुषु भवेभ्यः पदार्थेभ्यः (माद्भ्यः) मासेभ्यः (संवत्सरेभ्यः) वर्षेभ्यः (धात्रे) पोषकाय (विधात्रे) मेधाविने-निघ०३।१५ (समृधे) समर्धयित्रे। वर्धयित्रे (भूतस्य) प्राणिमात्रस्य (पतये) पालकाय (यजे) पूजयामि ॥

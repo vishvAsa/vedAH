@@ -8,16 +8,19 @@ title = "०९७ यज्ञः"
 
 97 (102). Accompanying an offering.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 यज्ञः  
 १-५ अथर्वा। इन्द्राग्नी।त्रिष्टुप्, ५ त्रिपदार्षी भुरिग्गायत्री, ६ त्रिपदा प्राजापत्या बृहती,  
 ७ त्रिपदा साम्नी भुरिग्जगती, ८ उपरिष्टाद्बृहती।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (yajñasampūrṇakāmaḥ*).—aṣṭarcam. mantroktāindrāgnam. trāiṣṭubham: 5. 3-p. ārcī bhurig gāyatrī; 6. 3-p. prājāpatyā bṛhatī; 7. 3-p. sāmnī bhurig jagatī; 8. upariṣṭād bṛhatī.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -36,15 +39,6 @@ Translated: Ludwig, p. 429; Henry, 39, 111; Griffith, i. 376.
 
 य᳓दद्य᳓ त्वा प्रयति᳓ यज्ञे᳓ अस्मि᳓न्हो᳓तश्चिकित्वन्न᳓वृणीमहीह᳓।  
 ध्रुव᳓मयो ध्रुव᳓मुता᳓ शविष्ठैप्रविद्वा᳓न्यज्ञ᳓मु᳓प याहि सो᳓मम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/01_yadadya_tvA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यद॒द्य त्वा॑ प्रय॒ति य॒ज्ञे अ॒स्मिन्होत॑श्चिकित्व॒न्नवृ॑णीमही॒ह।  
-ध्रु॒वम॑यो ध्रु॒वमु॒ता श॑विष्ठैप्रवि॒द्वान्य॒ज्ञमुप॑ याहि॒ सोम॑म् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/01_yadadya_tvA.md">
@@ -74,14 +68,23 @@ connection with *yaj* must be lost. The comm. also reads *utā
 ’śamiṣṭhās*, with the other texts. Ppp. has *ayas* in **c**, but  
 otherwise agrees with RV.
 </details>
+
 <details><summary>Griffith</summary>
 
 As we have here elected thee, skilled Hotar! to-day as this our sacrifice proceedeth, Come to the firm place, mightiest! yea, come firmly. Knowing the sacrifice, approach the Soma.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद॒द्य त्वा॑ प्रय॒ति य॒ज्ञे अ॒स्मिन्होत॑श्चिकित्व॒न्नवृ॑णीमही॒ह।  
+ध्रु॒वम॑यो ध्रु॒वमु॒ता श॑विष्ठैप्रवि॒द्वान्य॒ज्ञमुप॑ याहि॒ सोम॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। अ॒द्य। त्वा॒। प्र॒ऽय॒ति। य॒ज्ञे। अ॒स्मिन्। होतः॑। चि॒कि॒त्व॒न्। अवृ॑णीमहि। इ॒ह। ध्रु॒वम्। अ॒यः॒। ध्रु॒वम्। उ॒त। श॒वि॒ष्ठ॒। प्र॒ऽवि॒द्वान्। य॒ज्ञम्। उप॑। या॒हि॒। सोम॑म्। १०२.१। 
+यत्। अ॒द्य। त्वा॒। प्र॒ऽय॒ति। य॒ज्ञे। अ॒स्मिन्। होतः॑। चि॒कि॒त्व॒न्। अवृ॑णीमहि। इ॒ह। ध्रु॒वम्। अ॒यः॒। ध्रु॒वम्। उ॒त। श॒वि॒ष्ठ॒। प्र॒ऽवि॒द्वान्। य॒ज्ञम्। उप॑। या॒हि॒। सोम॑म्। १०२.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्राग्नी
@@ -89,18 +92,22 @@ As we have here elected thee, skilled Hotar! to-day as this our sacrifice procee
 - त्रिष्टुप्
 - यज्ञ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जिस लिये कि (अद्य) आज (त्वा) तुझको (अस्मिन्) इस (प्रयति) प्रयत्नसाध्य (यज्ञे) संगतियोग्य व्यवहार में, (चिकित्वन्) हे ज्ञानवान् ! (होतः) हे दानी पुरुष ! (इह) यहाँ पर (अवृणीमहि) हमने चुना है [वर्णी किया है]। (शविष्ठ) हे महाबली ! तू (ध्रुवम्) दृढ़ता से (उत) और भी (ध्रुवम्) दृढ़ता से (अयः) आ, (यज्ञम्) पूजनीय व्यवहार को (प्रविद्वान्) पहिले से जाननेवाला तू (सोमम्) ऐश्वर्य को (उप) समीप से (याहि) प्राप्त कर ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य प्रयत्नपूर्वक विद्या और बल प्राप्त करके ऐश्वर्य बढ़ावें ॥१॥ यह मन्त्र कुछ भेद से ऋग्वेद में−३।२९।१६। और यजुर्वेद−८।२० ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यत्) यतः (अद्य) वर्तमाने दिने (त्वा) त्वाम् (प्रयति) यती प्रयत्ने-क्विप्, यद्वा इण् गतौ-शतृ। प्रयत्नसाध्ये। प्रवर्तमाने (यज्ञे) संगन्तव्ये व्यवहारे (अस्मिन्) (होतः) दातः (चिकित्वन्) अ० ५।१२।१। हे ज्ञानवन् (अवृणीमहि) वृञ् वरणे-लङ्। वयं वृतवन्तः। स्वीकृतवन्तः (ध्रुवम्) दृढत्वेन (अयः) अय गतौ-लेट्, परस्मैपदम्। आगच्छेः (ध्रुवम्) निश्चलं यथा तथा (उत) अपि (शविष्ठ) अ० ७।२५।१। हे बलवत्तम (प्रविद्वान्) अग्रे जानन् (यज्ञम्) पूजनीयं व्यवहारम् (उप) समीपम् (याहि) प्राप्नुहि (सोमम्) ऐश्वर्यम् ॥
@@ -114,15 +121,6 @@ As we have here elected thee, skilled Hotar! to-day as this our sacrifice procee
 
 स᳓मिन्द्र नो म᳓नसा नेष गो᳓भिः सं᳓ सूरि᳓भिर्हरिवन्त्सं᳓ स्वस्त्या᳓।  
 सं᳓ ब्र᳓ह्मणा देव᳓हितं य᳓द᳓स्ति सं᳓ देवा᳓नां सुमतौ᳓ यज्ञि᳓यानाम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/02_samindra_no.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-समि॑न्द्र नो॒ मन॑सा नेष॒ गोभिः॒ सं सू॒रिभि॑र्हरिव॒न्त्सं स्व॒स्त्या।  
-सं ब्रह्म॑णा दे॒वहि॑तं॒ यदस्ति॒ सं दे॒वानां॑ सुम॒तौ य॒ज्ञिया॑नाम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/02_samindra_no.md">
@@ -147,14 +145,23 @@ also) after it; in **d**, RV.TS.TB. (also Ppp.) have the more proper
 translation). SPP. follows the comm. and a single one of his mss. in  
 reading (with the other texts) *bráhmaṇā* in **c**.
 </details>
+
 <details><summary>Griffith</summary>
 
 With kine connect us, and with spirit, Indra! Lord of Bay Steeds, with princes and with favour, With the God-destined portion of the Brahmans, and the good-will of Gods who merit worship.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+समि॑न्द्र नो॒ मन॑सा नेष॒ गोभिः॒ सं सू॒रिभि॑र्हरिव॒न्त्सं स्व॒स्त्या।  
+सं ब्रह्म॑णा दे॒वहि॑तं॒ यदस्ति॒ सं दे॒वानां॑ सुम॒तौ य॒ज्ञिया॑नाम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। इ॒न्द्र॒। नः॒। मन॑सा। ने॒ष॒। गोभिः॑। सम्। सू॒रिऽभिः॑। ह॒रि॒ऽव॒न्। सम्। स्व॒स्त्या। सम्। ब्रह्म॑णा। दे॒वऽहि॑तम्। यत्। अस्ति॑। सम्। दे॒वाना॑म्। सु॒ऽम॒तौ। य॒ज्ञिया॑नाम्। १०२.२। 
+सम्। इ॒न्द्र॒। नः॒। मन॑सा। ने॒ष॒। गोभिः॑। सम्। सू॒रिऽभिः॑। ह॒रि॒ऽव॒न्। सम्। स्व॒स्त्या। सम्। ब्रह्म॑णा। दे॒वऽहि॑तम्। यत्। अस्ति॑। सम्। दे॒वाना॑म्। सु॒ऽम॒तौ। य॒ज्ञिया॑नाम्। १०२.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्राग्नी
@@ -162,18 +169,22 @@ With kine connect us, and with spirit, Indra! Lord of Bay Steeds, with princes a
 - त्रिष्टुप्
 - यज्ञ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इन्द्र) हे बड़े ऐश्वर्यवाले राजन् ! (नः) हमें (मनसा) विज्ञान के साथ और (गोभिः) इन्द्रियों वा वाणियों के साथ (सम्) ठीक-ठीक, (हरिवन्) हे श्रेष्ठ मनुष्योंवाले ! (सूरिभिः) विद्वानों के साथ (सम्) ठीक-ठीक, (स्वस्त्या) अच्छी सत्ता [क्षेम कुशल] के साथ (सम्) ठीक-ठीक (यत्) जो [ब्रह्म] (देवहितम्) विद्वानों का हितकारक (अस्ति) है, [उस] (ब्रह्मणा) ब्रह्म, वेद, धन, वा अन्न के साथ (सम्) ठीक-ठीक, (यज्ञियानाम्) पूजा योग्य (देवानाम्) विद्वानों की (सुमतौ) सुमति में (सम्) ठीक-ठीक (नेष) तू ले चल ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य विद्वानों के सत्सङ्ग से मनस्वी, वाग्मी, और कार्यकुशल होकर सबको उन्नति की ओर प्रवृत्त करें ॥२॥ यह मन्त्र कुछ भेद से ऋग्वेद में है−५।४२।४। और यजु० ८।१५ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(सम्) सम्यक्। यथावत् (इन्द्र) परमैश्वर्यवन् राजन् (नः) अस्मान् (मनसा) विज्ञानेन (नेष) णीञ् प्रापणे-लोटि शप्। सिब्बहुलं लेटि। पा० ३।१।३४। इति सिप्। अतो हेः। पा० ६।४।१०५। इति हेर्लोपः। नय। प्रापय (गोभिः) इन्द्रियैर्वाग्भिर्वा (सूरिभिः) अ० २।११।४। विद्वद्भिः (हरिवन्) हरयो मनुष्याः-निघ० २।३। प्रशस्तमनुष्ययुक्त (सम्) (स्वस्त्या) अ० १।३०।२। सुसत्तया। क्षेमेण (सम्) (ब्रह्मणा) वेदेन धनेनान्नेन वा (देवहितम्) विद्वद्भ्यो हितम् (यत्) ब्रह्म (अस्ति) (सम्) (देवानाम्) विदुषाम् (सुमतौ) श्रेष्ठायां बुद्धौ (यज्ञियानाम्) पूजार्हाणाम् ॥
@@ -187,15 +198,6 @@ With kine connect us, and with spirit, Indra! Lord of Bay Steeds, with princes a
 
 या᳓ना᳓वह उशतो᳓ देव देवां᳓स्ता᳓न्प्रे᳓रय स्वे᳓ अग्ने सध᳓स्थे।  
 ज᳙क्षिवां᳓सः पपिवां᳓सो म᳓धून्यस्मै᳓ धत्त वसवो व᳓सूनि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/03_yAnAvaha_ushato.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यानाव॑ह उश॒तो दे॑व दे॒वांस्तान्प्रेर॑य॒ स्वे अ॑ग्ने स॒धस्थे॑।  
-ज॑क्षि॒वांसः॑ पपि॒वांसो॒ मधू॑न्य॒स्मै ध॑त्त वसवो॒ वसू॑नि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/03_yAnAvaha_ushato.md">
@@ -220,14 +222,23 @@ after it VS. has *asmé*, and TS.MS. *‘sme*. Ppp. reads, in **b**,
 precisely, our 4 **a-c** with 3 **d** before our 3 **a-c** with 4  
 **d**.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 The willing Gods whom, God, thou hast brought hither, send thou to their own dwelling-place, O Agni. When ye have eaten and have drunk sweet juices, endow this man with precious wealth, ye Vasus.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यानाव॑ह उश॒तो दे॑व दे॒वांस्तान्प्रेर॑य॒ स्वे अ॑ग्ने स॒धस्थे॑।  
+ज॑क्षि॒वांसः॑ पपि॒वांसो॒ मधू॑न्य॒स्मै ध॑त्त वसवो॒ वसू॑नि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यान्। आ॒ऽअव॑हः। उ॒श॒तः। दे॒व॒। दे॒वान्। तान्। प्र। ई॒र॒य॒। स्वे। अ॒ग्ने॒। स॒धऽस्थे॑। ज॒क्षि॒ऽवांसः॑। प॒पि॒ऽवांसः॑। मधू॑नि। अ॒स्मै। ध॒त्त॒। व॒स॒वः॒। वसू॑नि। १०२.३। 
+यान्। आ॒ऽअव॑हः। उ॒श॒तः। दे॒व॒। दे॒वान्। तान्। प्र। ई॒र॒य॒। स्वे। अ॒ग्ने॒। स॒धऽस्थे॑। ज॒क्षि॒ऽवांसः॑। प॒पि॒ऽवांसः॑। मधू॑नि। अ॒स्मै। ध॒त्त॒। व॒स॒वः॒। वसू॑नि। १०२.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्राग्नी
@@ -235,18 +246,22 @@ The willing Gods whom, God, thou hast brought hither, send thou to their own dwe
 - त्रिष्टुप्
 - यज्ञ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देव) हे प्रकाशमान अध्यापक ! (यान्) जिन (उशतः) लालसावाले (देवान्) विद्वानों को (आ अवहः) तू लाया है, (अग्ने) हे विद्वान् ! (तान्) उन्हें (स्वे) अपनी (सधस्थे) बैठक में (प्र ईरय) ले चल। (वसवः) हे श्रेष्ठजनो ! तुम (मधूनि) मधुर वस्तुओं को (जक्षिवांसः) खा चुककर और (पपिवांसः) पी चुककर (अस्मै) इस पुरुष के लिये (वसूनि) उत्तम ज्ञानों को (धत्त) दान करो ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सत्कारपूर्वक विद्वानों से शिक्षा लेकर श्रेष्ठ गुण प्राप्त करके सुखी होवें ॥३॥ यह मन्त्र कुछ भेद से यजुर्वेद में है ८।१९ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(यान्) वक्ष्यमाणान् (आ अवहः) वहेर्लङ् प्रापितवानसि (उशतः) वश कान्तौ-शतृ। कामयमानान् (देव) हे प्रकाशमानाध्यापक (देवान्) विदुषः (तान्) (प्रेरय) आनय (स्वे) स्वकीये (अग्ने) विद्वन् (सधस्थे) संगतिस्थाने (जक्षिवांसः) अ० ४।७।३। भक्षितवन्तः (पपिवांसः) पिबतेः-क्वसुः। वस्वेकाजाद्घसाम्। पा० ७।२।६७। इडागमः। पीतवन्तः (मधूनि) मधुरवस्तूनि (अस्मै) विद्यार्थिने (धत्त) दत्त (वसवः) हे श्रेष्ठजनाः (वसूनि) श्रेष्ठानि ज्ञानानि ॥
@@ -260,15 +275,6 @@ The willing Gods whom, God, thou hast brought hither, send thou to their own dwe
 
 सुगा᳓ वो देवाः स᳓दना अकर्म य᳓ आजग्म᳓ स᳓वने मा जुषाणाः᳓।  
 व᳓हमाना भ᳓रमाणाः स्वा᳓ व᳓सूनि व᳓सुं घर्मं᳓ दि᳓वमा᳓ रोहता᳓नु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/04_sugA_vo.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सु॒गा वो॑ देवाः॒ सद॑ना अकर्म॒ य आ॑ज॒ग्म सव॑ने मा जुषा॒णाः।  
-वह॑माना॒ भर॑माणाः॒ स्वा वसू॑नि॒ वसुं॑ घ॒र्मं दिव॒मा रो॑ह॒तानु॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/04_sugA_vo.md">
@@ -302,14 +308,23 @@ commentary to that rule; SPP. takes no notice of the anomaly. The comm.
 explains *gharmám* in **d** by *ādityam*. The Anukr. passes without  
 notice the redundancy of **c**, due to the apparently intruded *svā*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Gods, we have made your seats of easy access, who, pleased with me, have come to my libation. Bearing and bringing hitherward your treasures, after the rich warm beverage mount to heaven.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सु॒गा वो॑ देवाः॒ सद॑ना अकर्म॒ य आ॑ज॒ग्म सव॑ने मा जुषा॒णाः।  
+वह॑माना॒ भर॑माणाः॒ स्वा वसू॑नि॒ वसुं॑ घ॒र्मं दिव॒मा रो॑ह॒तानु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सु॒ऽगा। वः॒। दे॒वाः॒। सद॑ना। अ॒क॒र्म॒। ये। आ॒ऽज॒ग्म। सव॑ने। मा॒। जु॒षा॒णाः। वह॑मानाः। भर॑माणाः। स्वा। वसू॑नि। वसु॑म्। घ॒र्मम्। दिव॑म्। आ। रो॒ह॒त॒। अनु॑। १०२.४। 
+सु॒ऽगा। वः॒। दे॒वाः॒। सद॑ना। अ॒क॒र्म॒। ये। आ॒ऽज॒ग्म। सव॑ने। मा॒। जु॒षा॒णाः। वह॑मानाः। भर॑माणाः। स्वा। वसू॑नि। वसु॑म्। घ॒र्मम्। दिव॑म्। आ। रो॒ह॒त॒। अनु॑। १०२.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्राग्नी
@@ -317,18 +332,22 @@ Gods, we have made your seats of easy access, who, pleased with me, have come to
 - त्रिष्टुप्
 - यज्ञ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवाः) हे विद्वानो ! (वः) तुम्हारे लिये (सुगा) सुख से पहुँचने योग्य (सदना) आसनों को (अकर्म) हमने बनाया है, (ये) जो तुम [अपने] (सवने) ऐश्वर्य में (मा) मुझे (जुषाणाः) प्रसन्न करते हुए (आजग्म) आये हो (स्वा) अपनी (वसूनि) श्रेष्ठ वस्तुओं को (वहमानाः) पहुँचाते हुए और (भरमाणाः) पुष्ट करते हुए तुम (वसुम्) श्रेष्ठ (घर्मम्) दिन और (दिवम् अनु) व्यवहार के बीच (आ रोहत) चढ़ते जाओ ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य विद्वानों का आदर मान करके अपनी उन्नति करें ॥४॥ यह मन्त्र कुछ भेद से यजुर्वेद में है−८।१८ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(सुगा) अ० ३।३।४। सुखेन गन्तव्यानि (वः) युष्मभ्यम् (देवाः) हे विद्वांसः (सदना) आसनानि (अकर्म) वयं कृतवन्तः (ये) यूयम् (आजग्म) आगताः स्थ (सवने) ऐश्वर्ये (मा) माम् (जुषाणाः) प्रीणन्तः (वहमानाः) प्रापयन्तः (भरमाणाः) पोषयन्तः (स्वा) स्वकीयानि (वसूनि) श्रेष्ठानि वस्तूनि (वसुम्) श्रेष्ठम् (घर्मम्) दिनम् (दिवम्) दिवु व्यवहारे-क। व्यवहारम् (आ रोहत) आरूढा भवत (अनु) प्रति ॥
@@ -342,15 +361,6 @@ Gods, we have made your seats of easy access, who, pleased with me, have come to
 
 य᳓ज्ञ यज्ञं᳓ गच्छ यज्ञ᳓पतिं गच्छ।  
 स्वां᳓ यो᳓निं गच्छ स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/05_yajna_yajnam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यज्ञ॑ य॒ज्ञं ग॑च्छ य॒ज्ञप॑तिं गच्छ।  
-स्वां योनिं॑ गच्छ॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/05_yajna_yajnam.md">
@@ -368,14 +378,23 @@ of punctuation before *svā́ṁ* which is wanting in the other texts, and
 which our edition also omits; SPP. retains it. The comm. explains Vishṇu  
 as intended by *yajñam*. \*⌊Also vi. 6. 22.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Svaha.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यज्ञ॑ य॒ज्ञं ग॑च्छ य॒ज्ञप॑तिं गच्छ।  
+स्वां योनिं॑ गच्छ॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यज्ञ॑। य॒ज्ञम्। ग॒च्छ॒। य॒ज्ञऽप॑तिम्। ग॒च्छ॒। स्वाम्। योनि॑म्। ग॒च्छ॒। स्वाहा॑। १०२.५। 
+यज्ञ॑। य॒ज्ञम्। ग॒च्छ॒। य॒ज्ञऽप॑तिम्। ग॒च्छ॒। स्वाम्। योनि॑म्। ग॒च्छ॒। स्वाहा॑। १०२.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्राग्नी
@@ -383,18 +402,22 @@ Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Sv
 - त्रिपदार्ची भुरिग्गायत्री
 - यज्ञ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यज्ञ) हे पूजनीय पुरुष ! (यज्ञम्) पूजनीय व्यवहार को (गच्छ) प्राप्त हो, (यज्ञपतिम्) पूजनीय व्यवहार के पालनेवाले को (गच्छ) प्राप्त हो। और (स्वाहा) सुन्दर वाणी [वेदवाणी] के साथ (स्वाम्) अपने (योनिम्) स्वभाव को (गच्छ) प्राप्त हो ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य उत्तम व्यवहार और उत्तम मनुष्यों के साथ से अपने मनुष्य धर्म का कर्त्तव्य करता रहे ॥५॥ यह मन्त्र यजुर्वेद में है−८।२२ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(यज्ञ) पूजनीय पुरुष (यज्ञम्) पूजनीयं व्यवहारम् (यज्ञपतिम्) पूजनीयव्यवहारस्य पालकम् (गच्छ) (स्वाम्) स्वकीयाम् (योनिम्) प्रकृतिम्। स्वभावम् (गच्छ) (स्वाहा) अ० २।१६।१। सुवाण्या। वेदवाचा ॥
@@ -408,15 +431,6 @@ Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Sv
 
 एष᳓ ते यज्ञो᳓ यज्ञपते सह᳓सूक्तवाकः।  
 सुवी᳓र्यः स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/06_eSha_te.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ए॒ष ते॑ य॒ज्ञो य॑ज्ञपते स॒हसू॑क्तवाकः।  
-सु॒वीर्यः॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/06_eSha_te.md">
@@ -437,14 +451,23 @@ a yet more different version: *eṣa te yajño yajamānas svāhā
 sūktanamovākas suvīrās svāhā*. \*⌊To avoid taking the word as an  
 adjective, BR., s.v., would read with TS. *suvī́raḥ*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught with vigour.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒ष ते॑ य॒ज्ञो य॑ज्ञपते स॒हसू॑क्तवाकः।  
+सु॒वीर्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒षः। ते॒। य॒ज्ञः। य॒ज्ञ॒ऽप॒ते॒। स॒हऽसू॑क्तवाकः। सु॒ऽवीर्यः॑। स्वाहा॑। १०२.६। 
+ए॒षः। ते॒। य॒ज्ञः। य॒ज्ञ॒ऽप॒ते॒। स॒हऽसू॑क्तवाकः। सु॒ऽवीर्यः॑। स्वाहा॑। १०२.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्राग्नी
@@ -452,18 +475,22 @@ This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught wit
 - त्रिपदा प्राजापत्या बृहती
 - यज्ञ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यज्ञपते) हे पूजनीय व्यवहार के पालनेवाले पुरुष ! (एषः) यह (ते) तेरा (यज्ञः) पूजनीय व्यवहार (स्वाहा) सुन्दर वाणी [वेदवाणी] द्वारा (सहसूक्तवाकः) सुन्दर वचनों के उपदेशों के सहित (सुवीर्यः) बड़े वीरत्ववाला [होवे] ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य वेदमन्त्रों के मनन और उपदेश से अपना पराक्रम बढ़ावें ॥६॥ यह मन्त्र कुछ भेद से यजुर्वेद में है−८।२२ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(एषः) (ते) तव (यज्ञः) पूजनीयो व्यवहारः (यज्ञपते) पूजनीयो व्यवहारस्य पालक (सहसूक्तवाकः) सह+सु+उक्त+वच परिभाषणे-घञ्। शोभनानां मुक्तानां वचनानां वाकैर्भाषणैः सहितः (सुवीर्यः) उत्तमपराक्रमयुक्तः (स्वाहा) सुवाण्या ॥
@@ -479,15 +506,6 @@ This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught wit
 दे᳓वा गातुविदो गातुं᳓ वित्त्वा᳓ गातु᳓मित ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/07_vaShaDDhutebhyo_vaShaDahutebhyaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वष॑ड्ढु॒तेभ्यो॒ वष॒डहु॑तेभ्यः।  
-देवा॑ गातुविदो गा॒तुं वि॒त्त्वा गा॒तुमि॑त ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/07_vaShaDDhutebhyo_vaShaDahutebhyaH.md">
 <details open><summary><h3>०७ वषड्ढुतेभ्यो वषडहुतेभ्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -501,14 +519,23 @@ way-(*gātú-*)finding gods, having found the way, go ye on the way.
 VS. viii. 21 et al., TS. i. 4. 44³ et al., MS. i. 3. 38. Ppp. reads  
 *svāhūtebhyo vaṣaḍhūtebhyaḥ*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Vashat to paid and yet unpaid oblations! Ye Gods who know the way, find and pursue it!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वष॑ड्ढु॒तेभ्यो॒ वष॒डहु॑तेभ्यः।  
+देवा॑ गातुविदो गा॒तुं वि॒त्त्वा गा॒तुमि॑त ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वष॑ट्। हु॒तेभ्यः॑। वष॑ट्। अहु॑तेभ्यः। देवाः॑। गा॒तु॒ऽवि॒दः॒। गा॒तुम्। वि॒त्त्वा। गा॒तुम्। इ॒त॒। १०२.७। 
+वष॑ट्। हु॒तेभ्यः॑। वष॑ट्। अहु॑तेभ्यः। देवाः॑। गा॒तु॒ऽवि॒दः॒। गा॒तुम्। वि॒त्त्वा। गा॒तुम्। इ॒त॒। १०२.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्राग्नी
@@ -516,18 +543,22 @@ Vashat to paid and yet unpaid oblations! Ye Gods who know the way, find and purs
 - त्रिपदा साम्नी भुरिग्जगती
 - यज्ञ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (हुतेभ्यः) दिये हुए [माता-पिता आदि से पाये हुए] पदार्थों के लिये (वषट्) भक्ति [हो], (अहुतेभ्यः) न दिये हुए [स्वयं प्राप्त किये हुए] पदार्थों के लिये (वषट्) भक्ति [हो]। (गातुविदः) हे पृथिवी के जाननेवालो ! (देवाः) हे विजय चाहनेवाले वीरो ! (गातुम्) मार्ग को (वित्त्वा) पाकर (गातुम्) पृथिवी को (इत) प्राप्त हो ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य माता-पिता आदि से पाये हुए और अपने पुरुषार्थ से प्राप्त किये हुए पदार्थों से यथावत् उपकार लेवें। और पृथिवी के गुणों को परीक्षण द्वारा जानकर और उपकार लेकर सुखी होवें ॥७॥ इस मन्त्र का उत्तरभाग यजुर्वेद में है−८।२१ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(वषट्) अ० १।११।१। वह प्रमाणे-डषटि। आहुतिः। भक्तिः (हुतेभ्यः) अ० ६।७१।२। मातापित्रादिभिर्दत्तेभ्यः पदार्थेभ्यः (वषट्) (अहुतेभ्यः) अदत्तेभ्यः। स्वपौरुषप्राप्तेभ्यः (देवाः) हे विजिगीषवः (गातुविदः) कमिमनिजनिगा०। उ० १।७३। गाङ् गतौ−तु। गातुः पृथिवीनाम-निघ० १।१। मार्गः। विद ज्ञाने-क्विप्। पृथिवीगुणानां ज्ञातारः (गातुम्) मार्गम् (वित्त्वा) विद्लृ लाभे−क्त्वा। लब्ध्वा (गातुम्) भूमिम्। भूमिराज्यम् (इत) प्राप्नुत ॥
@@ -541,15 +572,6 @@ Vashat to paid and yet unpaid oblations! Ye Gods who know the way, find and purs
 
 म᳓नसस्पत इमं᳓ नो दिवि᳓ देवे᳓षु यज्ञ᳓म्।  
 स्वा᳓हा दिवि᳓ स्वा᳓हा पृथिव्यां᳓ स्वा᳓हान्त᳓रिक्षे स्वा᳓हा वा᳓ते धां स्वा᳓हा ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/08_manasaspata_imam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मन॑सस्पत इ॒मं नो॑ दि॒वि दे॒वेषु॑ य॒ज्ञम्।  
-स्वाहा॑ दि॒वि स्वाहा॑ पृथि॒व्यां स्वाहा॒न्तरि॑क्षे॒ स्वाहा॒ वाते॑ धां॒ स्वाहा॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/08_manasaspata_imam.md">
@@ -570,14 +592,23 @@ dhāḥ svā́hā.* Ppp., again, *m. p. imaṁ deva yajñaṁ svāhā: vāce sv�
 vācaye dhās svāhā*. The Anukr. apparently scans this bit of prose as 8 +  
 7: 9 + 12 = 36.
 </details>
+
 <details><summary>Griffith</summary>
 
 Lord of the Mind, lay this our sacrifice in heaven among the Gods. Svaha in heaven! Svaha on earth! Svaha in air! In wind have I paid offerings. Hail!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मन॑सस्पत इ॒मं नो॑ दि॒वि दे॒वेषु॑ य॒ज्ञम्।  
+स्वाहा॑ दि॒वि स्वाहा॑ पृथि॒व्यां स्वाहा॒न्तरि॑क्षे॒ स्वाहा॒ वाते॑ धां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मन॑सः। प॒ते॒। इ॒मम्। नः॒। दि॒वि। दे॒वेषु॑। य॒ज्ञम्। स्वाहा॑। दि॒वि। स्वाहा॑। पृ॒थि॒व्याम्। स्वाहा॑। अ॒न्तरि॑क्षे। स्वाहा॑। वाते॑। धा॒म्। स्वाहा॑। १०२.८। 
+मन॑सः। प॒ते॒। इ॒मम्। नः॒। दि॒वि। दे॒वेषु॑। य॒ज्ञम्। स्वाहा॑। दि॒वि। स्वाहा॑। पृ॒थि॒व्याम्। स्वाहा॑। अ॒न्तरि॑क्षे। स्वाहा॑। वाते॑। धा॒म्। स्वाहा॑। १०२.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्राग्नी
@@ -585,18 +616,22 @@ Lord of the Mind, lay this our sacrifice in heaven among the Gods. Svaha in heav
 - उपरिष्टाद्बृहती
 - यज्ञ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य धर्म का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मनसःपते) हे मन के स्वामी [मनुष्य !] (इमम्) इस (नः) अपने [हमारे] (यज्ञम्) संगतिकरण व्यवहार को (दिवि) आकाश में [वर्तमान] (देवेषु) दिव्य पदार्थों में (स्वाहा) सुन्दर वाणी के साथ, [अर्थात्] (दिवि) सूर्य में (स्वाहा) सुन्दर वाणी के साथ, (पृथिव्याम्) पृथिवी में (स्वाहा) सुन्दर वाणी के साथ, (अन्तरिक्षे) मध्यलोक में (स्वाहा) सुन्दर वाणी के साथ, (वाते) वायु में (स्वाहा) सुन्दर वाणी के साथ, (धाम्) मैं धारण करूँ ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य वेद द्वारा अपनी मननशक्ति बढ़ाकर सूर्यविद्या, पृथिवीविद्या, अन्तरिक्षविद्या और वायुविद्या में निपुण होकर उपकार करें ॥८॥ इस मन्त्र का पूर्वभाग कुछ भेद से यजुर्वेद में है−८।२१ ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(मनसः) अन्तःकरणस्य (पते) स्वामिन् (इमम्) (नः) अस्माकम् (दिवि) आकाशे वर्तमानेषु (देवेषु) दिव्यपदार्थेषु (यज्ञम्) संगतिकरणव्यवहारम् (स्वाहा) सुवाण्या वेदवाण्या द्वारा (दिवि) सूर्यलोके (पृथिव्याम्) भूलोके (अन्तरिक्षे) मध्यलोके (वाते) वायुविद्यायाम् (धाम्) दधातेर्विधिलिङि छान्दसं रूपम्। धरेयम्। अन्यद् गतम् ॥

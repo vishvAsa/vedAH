@@ -8,15 +8,18 @@ title = "०२६ पाप्मनाशनम्"
 
 26. Against evil.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 पाप्मनाशनम्।  
 १-३ ब्रह्म। पाप्मा। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—pāpmadevatākam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also in Pāipp. xix. Used in Kāuś. (30. 17) in a healing rite against al
 #### Translations
 Translated: Florenz, 282 or 34; Griffith, i. 259; Bloomfield, 163, 473.
 </details>
+
 <details><summary>Griffith</summary>
 
 To Affliction
@@ -39,15 +43,6 @@ To Affliction
 
 अ᳓व मा पाप्मन्त्सृज वशी᳓ स᳓न्मृडयासि नः।  
 आ᳓ मा भद्र᳓स्य लोके᳓ पा᳓प्मन्धेह्य᳓विह्रुतम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/01_ava_mA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अव॑ मा पाप्मन्त्सृज व॒शी सन्मृ॑डयासि नः।  
-आ मा॑ भ॒द्रस्य॑ लो॒के पाप्म॑न्धे॒ह्यवि॑ह्रुतम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/01_ava_mA.md">
@@ -65,14 +60,23 @@ rectifies the defective meter of **c**, by reading *ā mā bhadreṣu
 dhāmasv atve dh-*. The comm. gives *sam* instead of *san* in **b**. The  
 Anukr. overlooks the deficiency of two syllables.
 </details>
+
 <details><summary>Griffith</summary>
 
 Let me go free, O Misery: do thou, the mighty, pity us. Set me uninjured in the world of happiness, O Misery.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अव॑ मा पाप्मन्त्सृज व॒शी सन्मृ॑डयासि नः।  
+आ मा॑ भ॒द्रस्य॑ लो॒के पाप्म॑न्धे॒ह्यवि॑ह्रुतम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अव॑। मा॒। पा॒प्म॒न्। सृ॒ज॒। व॒शी। सन्। मृ॒ड॒या॒सि॒। नः॒। आ। मा॒। भ॒द्रस्य॑। लो॒के। पा॒प्म॒न्। धे॒हि॒। अवि॑ऽह्रुतम्। २६.१। 
+अव॑। मा॒। पा॒प्म॒न्। सृ॒ज॒। व॒शी। सन्। मृ॒ड॒या॒सि॒। नः॒। आ। मा॒। भ॒द्रस्य॑। लो॒के। पा॒प्म॒न्। धे॒हि॒। अवि॑ऽह्रुतम्। २६.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पाप्मा
@@ -80,18 +84,22 @@ Let me go free, O Misery: do thou, the mighty, pity us. Set me uninjured in the 
 - अनुष्टुप्
 - पाप्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कष्ट त्यागने के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पाप्मन्) हे पापी विघ्न ! (मा) मुझे (अव सृज) छोड़ दे और (वशी) वश में पड़नेवाला (सन्) होकर तू (नः) हमें (मृडयासि) सुख दे (पाप्मन्) हे पापी विघ्न ! (भद्रस्य) आनन्द के (लोके) लोक में (मा) मुझे (अविह्रुतम्) पीड़ा रहित (आ) अच्छे प्रकार (धेहि) रख ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य पुरुषार्थ से विघ्नों को हटाते हैं, वे आनन्द पाते हैं ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(मा) माम् (पाप्मन्) अ० ३।३१।१। हे दुःखप्रद विघ्न (अव सृज) विमोचय (वशी) अ० १।२१।१। आयत्तः (सन्) (मृडयासि) अ० ५।२२।९। सुखयेः (नः) अस्मान् (आ) समन्तात् (मा) माम् (भद्रस्य) कल्याणस्य (लोके) स्थाने (धेहि) स्थापय (अविह्रुतम्) ह्रु ह्वरेश्छन्दसि। पा० ७।२।३१। इति ह्वृ कौटिल्ये निष्ठायां ह्रुभावः। अपीडितम् ॥
@@ -105,15 +113,6 @@ Let me go free, O Misery: do thou, the mighty, pity us. Set me uninjured in the 
 
 यो᳓ नः पाप्मन्न᳓ ज᳓हासि त᳓मु त्वा जहिमो वय᳓म्।  
 पथा᳓म᳓नु व्याव᳓र्तनेऽन्यं᳓ पाप्मा᳓नु पद्यताम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/02_yo_naH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यो नः॑ पाप्म॒न्न जहा॑सि॒ तमु॑ त्वा जहिमो व॒यम्।  
-प॒थामनु॑ व्या॒वर्त॑ने॒ऽन्यं पा॒प्मानु॑ पद्यताम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/02_yo_naH.md">
@@ -130,14 +129,23 @@ exchanges the place of 2 **c, d** and 3 **a, b**, reading, for the
 former, *patho vya vyāvartane niṣ pāpmā tvaṁ suvāmasi;* ⌊and it has *mā*  
 for *naḥ* in **a**⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 From thee, from thee who fliest not from us, O Misery, we fly. Then at the turning of the paths let Misery fall on someone else.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो नः॑ पाप्म॒न्न जहा॑सि॒ तमु॑ त्वा जहिमो व॒यम्।  
+प॒थामनु॑ व्या॒वर्त॑ने॒ऽन्यं पा॒प्मानु॑ पद्यताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। नः॒। पा॒प्म॒न्। न। जहा॑सि। तम्। ऊं॒ इति॑। त्वा॒। ज॒हि॒मः॒। व॒यम्। प॒थाम्। अनु॑। वि॒ऽआ॒वर्त॑ने। अ॒न्यम्। पा॒प्मा। अनु॑। प॒द्य॒ता॒म्। २६.२। 
+यः। नः॒। पा॒प्म॒न्। न। जहा॑सि। तम्। ऊं॒ इति॑। त्वा॒। ज॒हि॒मः॒। व॒यम्। प॒थाम्। अनु॑। वि॒ऽआ॒वर्त॑ने। अ॒न्यम्। पा॒प्मा। अनु॑। प॒द्य॒ता॒म्। २६.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पाप्मा
@@ -145,18 +153,22 @@ From thee, from thee who fliest not from us, O Misery, we fly. Then at the turni
 - अनुष्टुप्
 - पाप्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कष्ट त्यागने के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पाप्मन्) हे पापी विघ्न ! (य) जो तू (नः) हमें (न) नहीं (जहासि) छोड़ता है, (तम्) उस (त्वा) तुझ को (उ) ही (वयम्) हम (जहिमः) छोड़ते हैं। (अनु) फिर (पथाम्) मार्गों के (व्यावर्तने) घुमाव पर (अन्यम्) दूसरे [अधर्मी] को (पाप्मा) दुःखदायी विघ्न (अनु पद्यताम्) प्राप्त होवे ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अधर्मी लोग अनेक विघ्नों में पड़कर दुःख उठाते हैं और धर्मात्मा विघ्नों को हटा कर सुख पाते हैं ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(यः) यस्त्वम् (नः) अस्मान् (पाप्मन्) हे दुःखप्रद विघ्न (न) निषेधे (जहासि) ओहाक् त्यागे। त्यजसि (तम्) (उ) एव (त्वा) (जहिमः) ओहाक् त्यागे। त्यजामः (वयम्) धर्मिकाः (पथाम्) मार्गाणाम् (अनु) पश्चात्। पुनः (व्यावर्तने) वृतु वर्तने−ल्युट्। निवृत्तिस्थाने (अन्यम्) अधार्मिकम् (पाप्मा∫) दुःखप्रदो विघ्नः (अनु पद्यताम्) प्राप्नोतु ॥
@@ -170,15 +182,6 @@ From thee, from thee who fliest not from us, O Misery, we fly. Then at the turni
 
 अन्य᳓त्रास्म᳓न्न्यु᳙च्यतु सहस्राक्षो᳓ अ᳓मर्त्यः।  
 यं᳓ द्वे᳓षाम त᳓मृच्छतु य᳓मु द्विष्म᳓स्त᳓मि᳓ज्जहि ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/03_anyatrAsmannyuchyatu_sahasrAxo.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒न्यत्रा॒स्मन्न्यु᳡च्यतु सहस्रा॒क्षो अम॑र्त्यः।  
-यं द्वेषा॑म॒ तमृ॑च्छतु॒ यमु॑ द्वि॒ष्मस्तमिज्ज॑हि ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/03_anyatrAsmannyuchyatu_sahasrAxo.md">
@@ -196,14 +199,23 @@ d**, reading corruptly *nyucya* for *ny ucyatu;* its version of **c, d**
 is *yo no dveṣṭi taṁ gacha yaṁ dviṣmas taṁ jahi*. The comm. renders *ny  
 ucyatu* by *nitarāṁ gacchatu*.
 </details>
+
 <details><summary>Griffith</summary>
 
 May the immortal, thousand eyed, dwell otherwhere apart from us. Let him afflict the man we hate: smite only him who is our foe.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒न्यत्रा॒स्मन्न्यु᳡च्यतु सहस्रा॒क्षो अम॑र्त्यः।  
+यं द्वेषा॑म॒ तमृ॑च्छतु॒ यमु॑ द्वि॒ष्मस्तमिज्ज॑हि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒न्यत्र॑। अ॒स्मत्। नि। उ॒च्य॒तु॒। स॒ह॒स्र॒ऽअ॒क्षः। अम॑र्त्यः। यम्। द्वेषा॑म्। तम्। ऋ॒च्छ॒तु॒। यम्। ऊं॒ इति॑। द्वि॒ष्मः। तम्। इत्। ज॒हि॒। २६.३। 
+अ॒न्यत्र॑। अ॒स्मत्। नि। उ॒च्य॒तु॒। स॒ह॒स्र॒ऽअ॒क्षः। अम॑र्त्यः। यम्। द्वेषा॑म्। तम्। ऋ॒च्छ॒तु॒। यम्। ऊं॒ इति॑। द्वि॒ष्मः। तम्। इत्। ज॒हि॒। २६.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पाप्मा
@@ -211,18 +223,22 @@ May the immortal, thousand eyed, dwell otherwhere apart from us. Let him afflict
 - अनुष्टुप्
 - पाप्मनाशन सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कष्ट त्यागने के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सहस्राक्षः) सहस्रों [दोषों] में दृष्टि रखनेवाला, (अमर्त्यः) मनुष्यों का हित न करनेवाला [विघ्न] (अस्मत्) हम से (अन्यत्र) दूसरों में (नि) नित्य (उच्यतु) प्राप्त हो। (यम्) जिसको (द्वेषाम) हम बुरा जानें, (तम्) उसको (ऋच्छतु) वह [विघ्न] प्राप्त हो। और (यम्) जिसको (उ) ही (द्विष्मः) हम बुरा जानते हैं, (तम्) उसको (इत्) ही (जहि) नाश कर ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को अनेक दोषों के कारण बढ़े हानिकारक विघ्न रोकते हैं, इस लिये मनुष्यों को पुरुषार्थपूर्वक विघ्न हटाना योग्य है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(अन्यत्र) पापात्मसु (अस्मत्) अस्मत्तः। सुकर्मभ्यः (नि) नितराम् (उच्यतु) उच समवाये। गच्छतु (सहस्राक्षः) अ० ३।११।३। सहस्रेषु बहुषु दोषेषु अक्षि दृष्टिर्यस्य सः (अमर्त्यः) तस्मै हितम्। पा० ५।१।५। इति यत्। मर्त्येभ्यो मनुष्येभ्योऽहितः (यम्) विघ्नम् (द्वेषाम) अप्रीतिं करवाम (तम्) (ऋच्छतु) प्राप्नोतु (यम्) (उ) अवधारणे (द्विष्मः) अप्रीतिं कुर्मः (तम्) (इत्) एव (जहि) नाशय ॥

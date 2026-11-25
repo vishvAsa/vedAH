@@ -8,15 +8,18 @@ title = "०७१ वेदमाता"
 
 71. For various blessings.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 वेदमाता।  
 १ ब्रह्मा। गायत्री। त्र्यवसाना पञ्चपदाऽतिजगती।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ekarcam. gāyatrīdāivalam. 3-av. 5-f. atijagatī.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Wanting in Pāipp. The comm. is unable to quote any authority as to its use; but
 #### Translations
 Translated: Zimmer, p. 204; Griffith, ii. 320.
 </details>
+
 <details><summary>Griffith</summary>
 
 A hymn, accompanying libations, for wealth and prosperity
@@ -40,16 +44,6 @@ A hymn, accompanying libations, for wealth and prosperity
 स्तुता᳓ म᳓या वरदा᳓ वेदमाता᳓ प्र᳓ चोदयन्तां पावमानी᳓ द्विजा᳓नाम्।  
 आ᳓युः प्राणं᳓ प्रजां᳓ पशुं᳓ कीर्तिं᳓ द्र᳓विणं ब्रह्मवर्चस᳓म्।  
 म᳓ह्यं दत्त्वा᳓ व्रजत ब्रह्मलोक᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/071_vedamAtA/01_stutA_mayA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स्तु॒ता मया॑ वर॒दा वे॑दमा॒ता प्र चो॑दयन्तां पावमा॒नी द्वि॒जाना॑म्।  
-आयुः॑ प्रा॒णं प्र॒जां प॒शुं की॒र्तिं द्रवि॑णं ब्रह्मवर्च॒सम्।  
-मह्यं॑ द॒त्त्वा व्र॑जत ब्रह्मलो॒कम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/071_vedamAtA/01_stutA_mayA.md">
@@ -86,14 +80,24 @@ majestaticus*, as is also *vrajata*. ⌊Weber discusses *varadā* and the
 TA. passage at *Ind. Stud.* ii. 194 (as Whitney notes in the margin),  
 and resolves *stuto* into *stutā u*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Let my libations, giving boons, adoring, further the Twice-born's song that honours Soma. Go ye to Brahma's world having enriched me with life and breath, with children and with cattle, with fame and wealth, and with a Brahman's lustre.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्तु॒ता मया॑ वर॒दा वे॑दमा॒ता प्र चो॑दयन्तां पावमा॒नी द्वि॒जाना॑म्।  
+आयुः॑ प्रा॒णं प्र॒जां प॒शुं की॒र्तिं द्रवि॑णं ब्रह्मवर्च॒सम्।  
+मह्यं॑ द॒त्त्वा व्र॑जत ब्रह्मलो॒कम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्तु॒ता। मया॑। व॒र॒दा। वे॒द॒ऽमा॒ता। प्र। चो॒द॒य॒न्ता॒म्। पा॒व॒मा॒नी। द्वि॒जाना॑म्। आयुः॑। प्रा॒णम्। प्र॒ऽजाम्। प॒शुम्। की॒र्तिम्। द्रवि॑णम्। ब्र॒ह्म॒ऽव॒र्च॒सम्। मह्य॑म्। द॒त्त्वा। व्र॒ज॒त॒। ब्र॒ह्म॒ऽलो॒कम्। ७१.१। 
+स्तु॒ता। मया॑। व॒र॒दा। वे॒द॒ऽमा॒ता। प्र। चो॒द॒य॒न्ता॒म्। पा॒व॒मा॒नी। द्वि॒जाना॑म्। आयुः॑। प्रा॒णम्। प्र॒ऽजाम्। प॒शुम्। की॒र्तिम्। द्रवि॑णम्। ब्र॒ह्म॒ऽव॒र्च॒सम्। मह्य॑म्। द॒त्त्वा। व्र॒ज॒त॒। ब्र॒ह्म॒ऽलो॒कम्। ७१.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - गायत्री
@@ -101,18 +105,22 @@ Let my libations, giving boons, adoring, further the Twice-born's song that hono
 - त्र्यवसाना पञ्चपदातिजगती
 - वेदमाता सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सुख पाने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वरदा) वर [इष्ट फल] देनेवाली (वेदमाता) ज्ञान की माता [वेदवाणी] (मया) मुझ करके (स्तुता) स्तुति की गयी है, [आप विद्वान् लोग] (पावमानी) शुद्ध करनेवाले [परमात्मा] की बतानेवाली [वेदवाणी] को (द्विजानाम्) द्विजों [ब्राह्मण, क्षत्रिय और वैश्यों] में (प्र चोदयन्ताम्) आगे बढ़ावें। [हे विद्वानों !] (आयुः) जीवन, (प्राणम्) प्राण [आत्मबल], (प्रजाम्) प्रजा [सन्तान आदि], (पशुम) पशु [गौ आदि], (कीर्तिम्) कीर्ति, (द्रविणम्) धन और (ब्रह्मवर्चसम्) वेदाभ्यास का तेज (मह्यम्) मुझको (दत्त्वा) देकर [हमें] (ब्रह्मलोकम्) ब्रह्मलोक [वेदज्ञानियों के समाज] में (व्रजत) पहुँचाओ ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य विद्वान् आचार्यों के द्वारा आदर के साथ वेदवाणी का निरन्तर अभ्यास करके सर्वोन्नति से कीर्तिमान् होते हुए ब्रह्मज्ञानियों में प्रतिष्ठा पावें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(स्तुता) प्रशंसिता (मया) उपासकेन (वरदा) इष्टफलदात्री (वेदमाता) वेदस्य ज्ञानस्य निर्मात्री वेदवाणी (प्र चोदयन्ताम्) प्रेरयन्तां विद्वांसः (पावमानीः) पवमान-अण्, ङीप्। द्वितीयार्थे प्रथमा। पवमानस्य शोधकस्य परमेश्वरस्य प्रतिपादिकां वेदवाणीम् (द्विजानाम्) ब्राह्मणक्षत्रियवैश्यानां मध्ये (आयुः) जीवनम् (प्राणम्) आत्मबलम् (प्रजाम्) सन्तानादिकम् (पशुम्) गवादिकम् (कीर्तिम्) यशः (द्रविणम्) धनम् (ब्रह्मवर्चसम्) ब्रह्मवर्चस्-अच्। वेदाभ्यासेन तेजः (मह्यम्) उपासकाय (दत्त्वा) (व्रजत) अन्तर्गतण्यर्थः। व्राजयत। प्रापयत। अस्मान् (ब्रह्मलोकम्) ब्रह्मणां वेदज्ञातॄणां समाजम् ॥

@@ -8,15 +8,18 @@ title = "०२४ अपां भैषज्यम्"
 
 24. To the waters: for blessings.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 अपां भैषज्यम्।  
 १-३ शन्तातिः। आपः। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [śaṁtāti (?).—abdevatyam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also in Pāipp. xix. Reckoned in Kāuś. (9. 2) to the bṛhachānti gaṇ
 #### Translations
 Translated: Florenz, 279 or 31; Grill, 13, 161; Griffith, i. 258; Bloomfield, 12, 471.
 </details>
+
 <details><summary>Griffith</summary>
 
 To the Rivers
@@ -39,15 +43,6 @@ To the Rivers
 
 हिम᳓वतः प्र᳓ स्रवन्ति सि᳓न्धौ समह सङ्गमः᳓।  
 आ᳓पो ह म᳓ह्यं त᳓द्देवी᳓र्द᳓दन्हृद्द्यो᳓तभेषज᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/01_himavataH_pra.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-हि॒मव॑तः॒ प्र स्र॑वन्ति॒ सिन्धौ॑ समह सङ्ग॒मः।  
-आपो॑ ह॒ मह्यं॒ तद्दे॒वीर्दद॑न्हृ॒द्द्योत॑भेष॒जम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/01_himavataH_pra.md">
@@ -66,14 +61,23 @@ SPP. so reads, though doubtless against his mss., as certainly against
 all ours; it is a very rare thing to find the full form written in such  
 a case (and hence the *pada*-text blunder *hṛ-dyota* in i. 22. 1).
 </details>
+
 <details><summary>Griffith</summary>
 
 Forth from the Hills of Snow they stream, and meet in Sindhu here or there. To me the sacred Waters gave the balm that heals the heart's disease.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+हि॒मव॑तः॒ प्र स्र॑वन्ति॒ सिन्धौ॑ समह सङ्ग॒मः।  
+आपो॑ ह॒ मह्यं॒ तद्दे॒वीर्दद॑न्हृ॒द्द्योत॑भेष॒जम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हि॒मऽव॑तः। प्र। स्र॒व॒न्ति॒। सिन्धौ॑। स॒म॒ह॒। स॒म्ऽग॒मः। आपः॑। ह॒। मह्य॑म्। तत्। दे॒वीः। दद॑न्। हृ॒द्द्यो॒त॒ऽभे॒ष॒जम्। २४.१। 
+हि॒मऽव॑तः। प्र। स्र॒व॒न्ति॒। सिन्धौ॑। स॒म॒ह॒। स॒म्ऽग॒मः। आपः॑। ह॒। मह्य॑म्। तत्। दे॒वीः। दद॑न्। हृ॒द्द्यो॒त॒ऽभे॒ष॒जम्। २४.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आपः
@@ -81,18 +85,22 @@ Forth from the Hills of Snow they stream, and meet in Sindhu here or there. To m
 - अनुष्टुप्
 - अपांभैषज्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (आपः) व्यापक शक्तियाँ [वा जलधारायें] (हिमवतः) वृद्धिशील वा गतिशील परमेश्वर से [वा हिमवाले पहाड़ से] (प्रस्रवन्ति) बहती रहती हैं, और (समह) हे महिमा के साथ वर्तमान पुरुष ! (सिन्धौ) बहनेवाले संसार [वा समुद्र] में (सङ्गमः) उनका सङ्गम है। (देवीः) वे दिव्य गुणवाली शक्तियाँ [वा जलधारायें] (ह) निश्चय करके (मह्यम्) मेरे लिये (तत्) वह (हृद्द्योतभेषजम्) हृदय की चमक का भय जीतनेवाला औषध (ददन्) देवें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सर्वशक्तिमान् परमेश्वर की उपकार शक्तियों को विचार कर अपने दोष मिटावें, अथवा जल द्वारा रोगनाश करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(हिमवतः) अ० ५।४।२। हि गतौ वृद्धौ च−मक्। गतिशीलाद् वृद्धिशीलाच्च परमेश्वरात् हिमयुक्तात् पर्वतात् (प्र) प्रकर्षेण (स्रवन्ति) वहन्ति (सिन्धौ) अ० ४।३।१। स्यन्दनशीले संसारे सागरे वा (समह) अ० ५।४।१०। हे महेन महिम्ना सह वर्तमान (संगमः) संसर्गः (आपः) अ० १।४।३। व्यापिकाः परमेश्वरशक्तयो जलधारा वा (ह) अवश्यम् (मह्यम्) उपासकाय (तत्) प्रसिद्धम् (देवीः) देव्यः। दिव्याः (ददन्) लेटि रूपम्। ददतु (हृद्द्योतभेषजम्) हृदयदाहनिवर्तकमौषधम् ॥
@@ -106,15 +114,6 @@ Forth from the Hills of Snow they stream, and meet in Sindhu here or there. To m
 
 य᳓न्मे अक्ष्यो᳓रादिद्यो᳓त पा᳓र्ष्ण्योः प्र᳓पदोश्च य᳓त्।  
 आ᳓पस्त᳓त्स᳓र्वं नि᳓ष्करन्भिष᳓जां सु᳓भिषक्तमाः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/02_yanme_axyorAdidyota.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यन्मे॑ अ॒क्ष्योरा॑दि॒द्योत॒ पार्ष्ण्योः॒ प्रप॑दोश्च॒ यत्।  
-आप॒स्तत्सर्वं॒ निष्क॑रन्भि॒षजां॒ सुभि॑षक्तमाः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/02_yanme_axyorAdidyota.md">
@@ -134,14 +133,23 @@ mss. (P.H.) agree with some of SPP's in reading *karat* at end of **c**;
 and two of his have *níḥ* before it. The *pada*-division *subhiṣak॰tama*  
 is taught in Prāt. iv. 46.
 </details>
+
 <details><summary>Griffith</summary>
 
 Whatever rupture I have had that injured eyes or heels or toes. All this the Waters, skilfullest physicians, shall make well again,
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यन्मे॑ अ॒क्ष्योरा॑दि॒द्योत॒ पार्ष्ण्योः॒ प्रप॑दोश्च॒ यत्।  
+आप॒स्तत्सर्वं॒ निष्क॑रन्भि॒षजां॒ सुभि॑षक्तमाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। मे॒। अ॒क्ष्योः। आ॒ऽदि॒द्योत॑। पार्ष्ण्योः॑। प्रऽप॑दोः। च॒। यत्। आपः॑। तत्। सर्व॑म्। निः। क॒र॒न्। भि॒षजा॑म्। सुभि॑षक्ऽतमाः। २४.२। 
+यत्। मे॒। अ॒क्ष्योः। आ॒ऽदि॒द्योत॑। पार्ष्ण्योः॑। प्रऽप॑दोः। च॒। यत्। आपः॑। तत्। सर्व॑म्। निः। क॒र॒न्। भि॒षजा॑म्। सुभि॑षक्ऽतमाः। २४.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आपः
@@ -149,18 +157,22 @@ Whatever rupture I have had that injured eyes or heels or toes. All this the Wat
 - अनुष्टुप्
 - अपांभैषज्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जो [दुःख] (मे) मेरे (अक्ष्योः) दोनों नेत्रों में (पार्ष्ण्योः) दोनों एड़ियों में, (च) और (यत्) जो (प्रपदो) पाँव के दोनों पञ्जों में (आदिद्योत) चमक उठा है। (भिषजाम्) वैद्यों में (सुभिषक्तमाः) अति पूजनीय वैद्य रूप (आपः) परमेश्वर की व्यापक शक्तियाँ वा जलधारायें (तत्) उस (सर्वम्) सब को (निष्करन्) हटावें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमेश्वररचित पदार्थों के गुण जानकर अपना रोगनिवारण करें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(यत्) दुःखम् (मे) मम (अक्ष्योः) अ० २।३३।१। अक्ष्णोः (आदिद्योत) द्युत दीप्तौ लिटि छान्दसं परस्मैपदम्। आदिद्युते। समन्ताद् दिदीपे (पार्ष्ण्योः) अ० २।३३।५। गुल्फस्याधोभागयोः (प्रपदोः) अ० २।३३।५। पादस्य पद्भावः। पादाग्रभागयोः (च) (यत्) (आपः) व्यापिकाः परमेश्वरशक्तयो जलधारा वा (तत्) सर्वम्। सकलं दुःखम् (निष्करन्) अ० २।९।५। लेटि रूपम्। इदुदुपधस्य०। पा० ८।३।४१। इति षत्वम्। बहिष्कुर्वन्तु (भिषजाम्) वैद्यानां मध्ये (सुभिषक्तमाः) अतिशयेन पूजनीया वैद्यरूपाः ॥
@@ -176,15 +188,6 @@ Whatever rupture I have had that injured eyes or heels or toes. All this the Wat
 दत्त᳓ नस्त᳓स्य भेषजं᳓ ते᳓ना वो भुनजामहै ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सि॑न्धुपत्नीः॒ सिन्धु॑राज्ञीः॒ सर्वा॒ या न॒द्य१॒॑ स्थन॑।  
-द॒त्त न॒स्तस्य॑ भेष॒जं तेना॑ वो भुनजामहै ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">
 <details open><summary><h3>०३ सिन्धुपत्नीः सिन्धुराज्ञीः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -198,14 +201,23 @@ Ppp. exchanges the place of the two epithets in **a**. The comm. reads
 *stana* at end of **b**. Before *sthána* most of our mss. retain the  
 final *ḥ*, as usual; SPP. does not note anything as to his authorities.
 </details>
+
 <details><summary>Griffith</summary>
 
 All Rivers who have Sindhu for your Lady, Sindhu for your Queen, Give us the balm that heals this ill: this boon let us enjoy from you.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सि॑न्धुपत्नीः॒ सिन्धु॑राज्ञीः॒ सर्वा॒ या न॒द्य१॒॑ स्थन॑।  
+द॒त्त न॒स्तस्य॑ भेष॒जं तेना॑ वो भुनजामहै ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सिन्धु॑ऽपत्नीः। सिन्धु॑ऽराज्ञीः। सर्वाः॑। याः। न॒द्यः᳡। स्थन॑। द॒त्त। नः॒। तस्य॑। भे॒ष॒जम्। तेन॑। वः॒। भु॒न॒जा॒म॒है॒। २४.३। 
+सिन्धु॑ऽपत्नीः। सिन्धु॑ऽराज्ञीः। सर्वाः॑। याः। न॒द्यः᳡। स्थन॑। द॒त्त। नः॒। तस्य॑। भे॒ष॒जम्। तेन॑। वः॒। भु॒न॒जा॒म॒है॒। २४.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आपः
@@ -213,18 +225,22 @@ All Rivers who have Sindhu for your Lady, Sindhu for your Queen, Give us the bal
 - अनुष्टुप्
 - अपांभैषज्य सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सिन्धुपत्नीः) बहनेवाले संसार [वा समुद्र] की पालनेवाली, (सिन्धुराज्ञीः) बहनेवाले जगत् की शासन करनेवाली, [वा समुद्र की शोभा बढ़ानेवाली] (याः) जो तुम (सर्वाः) सब शक्तियाँ (नद्यः) [परमेश्वर की] स्तुति करनेवाली [वा नदियाँ] (स्थन) हो। वे तुम (नः) हमें (तस्य) हिंसक रोग की (भेषजम्) ओषधि (दत्त) दो, (तेन) उससे (वः) तुम्हारे [गुणों को] (भुनजामहै) हम भोगें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस परमेश्वर ने मनुष्य के सुख के लिये अनन्त रचनायें की हैं, उसकी उपासना करके मनुष्य सदा शान्ति पावें और जल द्वारा रोगनिवृत्ति करें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(सिन्धुपत्नीः) विभाषा सपूर्वस्य। पा० ४।१।३४। इति ङीप् नकारौ। सिन्धौः स्यन्दनशीलस्य संसारस्य समुद्रस्य वा पत्न्यः पालयित्र्यः (सिन्धुराज्ञीः) सिन्धोः स्यन्दशीलस्य जगतो राज्ञः शासिकाः, यद्वा समुद्रस्य राजयित्र्यः शोभयित्र्यः (सर्वाः) (याः) (नद्यः) णद भाषायां चुरा०−अच्, नदतेः स्तुतिकर्मणः−निरु० ५।२। स्त्रोत्र्यः परमेश्वरस्य जलप्रवाहाः (स्थन) तप्तनप्तनथनाश्च। पा० ७।१। भवथ (दत्त) प्रयच्छत (नः) अस्मभ्यम् (तस्य) तर्द हिंसायाम्। रोगस्य (भेषजम्) औषधम् (तेन) (वः) युष्माकं गुणान् (भुनजामहै) भुज पालनाभ्यवहारयोः। भुजोऽनवने। पा० १।३।६६। इत्यात्मनेपदम्। उपजीवाम ॥

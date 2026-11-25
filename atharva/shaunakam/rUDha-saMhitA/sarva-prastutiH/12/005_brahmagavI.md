@@ -8,6 +8,7 @@ title = "००५ ब्रह्मगवी"
 
 5. The Brahman's cow.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मगवी।  
@@ -31,6 +32,7 @@ title = "००५ ब्रह्मगवी"
 (7)  
 (६२-७३) ६२-६४, ६६,६८-७० प्राजापत्याऽनुष्टुप्, ६५ गायत्री, ६७ प्राजापत्या गायत्री, ७१ आसुरी पङ्क्तिः, ७२ प्राजापत्या त्रिष्टुप् ७३ आसुर्युष्णिक्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Atharvācārya.*—sapta paryāyāḥ. brahmagavīdevatāḥ.]
@@ -50,6 +52,7 @@ title = "००५ ब्रह्मगवी"
 
 [Paryāya VII.—dvādaçakaḥ. 62-64, 66, 68-70. prajāpatyā ’nuṣṭubh; 65. gāyatrī; 67. prājāpatyā gāyatrī; 71. āsurī pan̄kti; 72. prājāpatyā triṣṭubh; 73. āsury uṣṇih.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -62,6 +65,7 @@ title = "००५ ब्रह्मगवी"
 #### Translations
 Translated: Muir, i2. 288 (vss. 4-15); Ludwig, p. 529 (vss. 47-73); Henry, 209, 257; Griffith, ii. 127.
 </details>
+
 <details><summary>Griffith</summary>
 
 On the duty of giving cows to Brahmans, and the sin and danger of withholding the gift
@@ -74,14 +78,6 @@ On the duty of giving cows to Brahmans, and the sin and danger of withholding th
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्र᳓मेण त᳓पसा सृष्टा᳓ ब्र᳓ह्मणा वित्त᳓र्ते᳓ श्रिता᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/01_shrameNa_tapasA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-श्रमे॑ण॒ तप॑सा सृ॒ष्टा ब्रह्म॑णा वि॒त्तर्ते श्रि॒ता ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/01_shrameNa_tapasA.md">
@@ -102,14 +98,22 @@ All our *saṁhitā*-mss. combine *vittá rté*. The appearance of meter in
 the verse (8 + 8) is perhaps not accidental; but there is no metrical  
 structure elsewhere in the section.
 </details>
+
 <details><summary>Griffith</summary>
 
 Created by toil and holy fervour, found by devotion, resting in right;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+श्रमे॑ण॒ तप॑सा सृ॒ष्टा ब्रह्म॑णा वि॒त्तर्ते श्रि॒ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श्रमे॑ण। तप॑सा। सृ॒ष्टा। ब्रह्म॑णा। वि॒त्ता। ऋ॒ते। श्रि॒ता। ५.१। 
+श्रमे॑ण। तप॑सा। सृ॒ष्टा। ब्रह्म॑णा। वि॒त्ता। ऋ॒ते। श्रि॒ता। ५.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -117,20 +121,24 @@ Created by toil and holy fervour, found by devotion, resting in right;
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [जो वेदवाणी] (श्रमेण) प्रयत्न के साथ और (तपसा) तप [ब्रह्मचर्य आदि धर्मानुष्ठान] के साथ (सृष्ट्वा) उत्पन्न की गयी, (ब्रह्मणा) ब्रह्मचारी करके (वित्ता) पायी गयी, (ऋते) सत्यज्ञान में (श्रिता) ठहरी हुई है ॥१॥ १−(श्रमेण) प्रयत्नेन। पुरुषार्थेन (तपसा) ब्रह्मचर्यादिधर्मानुष्ठानेन (सृष्ट्वा) उत्पादिता (ब्रह्मणा) ब्राह्मणेन। ब्रह्मचारिणा (वित्ता) लब्धा (ऋते) सत्यज्ञाने (श्रिता) स्थिता ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -   जिस वेदवाणी की प्रवृत्ति से संसार में सब प्राणी आनन्द पाते हैं, उस वेदवाणी को जो कोई अन्यायी राजा प्रचार से रोकता है, उसके राज्य में मूर्खता फैलती है और वह धर्महीन राजा संसार में निर्बल और निर्धन हो जाता है ॥१-६॥
 टिप्पणी १−मन्त्र १, २, ३ महर्षि दयानन्दकृत, ऋग्वेदादिभाष्यभूमिका वेदोक्तधर्मविषय पृष्ठ १०१−२ में तथा संस्कारविधि गृहाश्रमप्रकरण में व्याख्यात हैं ॥   
 १−(श्रमेण) प्रयत्नेन। पुरुषार्थेन (तपसा) ब्रह्मचर्यादिधर्मानुष्ठानेन (सृष्ट्वा) उत्पादिता (ब्रह्मणा) ब्राह्मणेन। ब्रह्मचारिणा (वित्ता) लब्धा (ऋते) सत्यज्ञाने (श्रिता) स्थिता ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   टिप्पणी १−मन्त्र १, २, ३ महर्षि दयानन्दकृत, ऋग्वेदादिभाष्यभूमिका वेदोक्तधर्मविषय पृष्ठ १०१−२ में तथा संस्कारविधि गृहाश्रमप्रकरण में व्याख्यात हैं ॥ १−(श्रमेण) प्रयत्नेन। पुरुषार्थेन (तपसा) ब्रह्मचर्यादिधर्मानुष्ठानेन (सृष्ट्वा) उत्पादिता (ब्रह्मणा) ब्राह्मणेन। ब्रह्मचारिणा (वित्ता) लब्धा (ऋते) सत्यज्ञाने (श्रिता) स्थिता ॥
@@ -145,14 +153,6 @@ Created by toil and holy fervour, found by devotion, resting in right;
 सत्ये᳓ना᳓वृता श्रिया᳓ प्रा᳓वृता य᳓शसा प᳓रीवृता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/02_satyenAvRtA_shriyA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स॒त्येनावृ॑ता श्रि॒या प्रावृ॑ता॒ यश॑सा॒ परी॑वृता ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/02_satyenAvRtA_shriyA.md">
 <details open><summary><h3>०२ सत्येनावृता श्रिया ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -165,14 +165,22 @@ Why the verse is called *sāmnī* rather than *prājāpatyā*, like its
 predecessor, cannot be told. The *pada*-text does not divide *prā́vṛtā*,  
 although, in the apparently parallel case, it divides *pári॰vṛtā*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Invested with truth, surrounded with honour, compassed about with glory;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒त्येनावृ॑ता श्रि॒या प्रावृ॑ता॒ यश॑सा॒ परी॑वृता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒त्येन॑। आऽवृ॑ता। श्रि॒या। प्रावृ॑ता। यश॑सा। परि॑ऽवृता। ५.२। 
+स॒त्येन॑। आऽवृ॑ता। श्रि॒या। प्रावृ॑ता। यश॑सा। परि॑ऽवृता। ५.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -180,18 +188,22 @@ Invested with truth, surrounded with honour, compassed about with glory;
 - भुरिक्साम्न्यनुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [जो वेदवाणी] (सत्येन) सत्य [यथार्थ नियम] से (आवृता) सब प्रकार स्वीकार की गयी, (श्रिया) श्री [चक्रवर्ती राज्य आदि लक्ष्मी] से (प्रावृता) भले प्रकार अङ्गीकार की गयी और (यशसा) यश [कीर्ति] के साथ (परीवृता) सब ओर से मान की गयी है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस वेदवाणी की प्रवृत्ति से संसार में सब प्राणी आनन्द पाते हैं, उस वेदवाणी को जो कोई अन्यायी राजा प्रचार से रोकता है, उसके राज्य में मूर्खता फैलती है और वह धर्महीन राजा संसार में निर्बल और निर्धन हो जाता है ॥१-६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(सत्येन) यथार्थनियमेन (आवृता) समन्तात् स्वीकृता (श्रिया) चक्रवर्तिराज्यादिलक्ष्म्या (प्रावृता) प्रकर्षेणाङ्गीकृता (यशसा) कीर्त्या (परीवृता) सर्वतो गृहीता ॥
@@ -204,14 +216,6 @@ Invested with truth, surrounded with honour, compassed about with glory;
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्वध᳓या प᳓रिहिता श्रद्ध᳓या प᳓र्यूढा दीक्ष᳓या गुप्ता᳓ यज्ञे᳓ प्र᳓तिष्ठिता लोको᳓ निध᳓नम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/03_svadhayA_parihitA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स्व॒धया॒ परि॑हिता श्र॒द्धया॒ पर्यू॑ढा दी॒क्षया॑ गु॒प्ता य॒ज्ञे प्रति॑ष्ठिता लो॒को नि॒धन॑म् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/03_svadhayA_parihitA.md">
@@ -228,14 +232,22 @@ The *pada*-mss. absurdly write *práti॰stitāḥ* (instead of *-tā*). The
 metrical description of the Anukr. is not less absurd; to make the  
 required 30 syllables, we have to resolve *pári-ūḍhā*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Girt round with inherent power, fortified with faith, protected, by consecration, installed at sacrifice, the world her resting- place;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्व॒धया॒ परि॑हिता श्र॒द्धया॒ पर्यू॑ढा दी॒क्षया॑ गु॒प्ता य॒ज्ञे प्रति॑ष्ठिता लो॒को नि॒धन॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्व॒धया॑। परि॑ऽहिता। श्र॒ध्दया॑। परि॑ऽऊढा। दी॒क्षया॑। गु॒प्ता। य॒ज्ञे। प्रति॑ऽस्थिता। लो॒कः। नि॒ऽधन॑म्। ५.३। 
+स्व॒धया॑। परि॑ऽहिता। श्र॒ध्दया॑। परि॑ऽऊढा। दी॒क्षया॑। गु॒प्ता। य॒ज्ञे। प्रति॑ऽस्थिता। लो॒कः। नि॒ऽधन॑म्। ५.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -243,18 +255,22 @@ Girt round with inherent power, fortified with faith, protected, by consecration
 - चतुष्पदा स्वराडुष्णिक्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [जो वेदवाणी] (स्वधया) अपनी धारण शक्ति से (परिहिता) सब ओर धारण की गयी, (श्रद्धया) श्रद्धा [ईश्वरविश्वास] से (पर्यूढा) अति दृढ़ की गयी, (दीक्षया) दीक्षा [नियम, व्रत, संस्कार] से (गुप्ता) रक्षा की गयी, (यज्ञे) यज्ञ [विद्वानों के सत्कार, शिल्पविद्या और शुभ गुणों के दान] में (प्रतिष्ठिता) प्रतिष्ठा [सन्मान] की गयी है, और [जिस वेदवाणी का] (लोकः) यह संसार (निधनम्) स्थिति स्थान है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस वेदवाणी की प्रवृत्ति से संसार में सब प्राणी आनन्द पाते हैं, उस वेदवाणी को जो कोई अन्यायी राजा प्रचार से रोकता है, उसके राज्य में मूर्खता फैलती है और वह धर्महीन राजा संसार में निर्बल और निर्धन हो जाता है ॥१-६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(स्वधया) स्व+दधातेः−अङ्, टाप्। स्वधारणशक्त्या (परिहिता) सर्वतो धृता (श्रद्धया) ईश्वरविश्वासेन (पर्यूढा) वह प्रापणे−क्त। सर्वतो दृढीकृता (दीक्षया) नियमेन। व्रतेन। संस्कारेण (गुप्ता) रक्षिता (यज्ञे) विदुषां सत्कारे शिल्पविद्यायां शुभगुणदाने च (प्रतिष्ठिता) प्राप्तसन्माना (लोकः) संसारः (निधनम्) नितरां धीयते यत्र। स्थितिस्थानम् ॥
@@ -269,14 +285,6 @@ Girt round with inherent power, fortified with faith, protected, by consecration
 ब्र᳓ह्म पदवायं᳓ ब्राह्मणो᳓ऽधिपतिः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/04_brahma_padavAyam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ब्रह्म॑ पदवा॒यं ब्रा॑ह्म॒णोऽधि॑पतिः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/04_brahma_padavAyam.md">
 <details open><summary><h3>०४ ब्रह्म पदवायम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -288,14 +296,22 @@ Girt round with inherent power, fortified with faith, protected, by consecration
 Ppp. combines *brāhmaṇo adh-*. The *á-* needs to be restored in order to  
 make the 13 syllables required by the definition of the Anukr.
 </details>
+
 <details><summary>Griffith</summary>
 
 Brahma her guide, the Brahman her lord and ruler;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रह्म॑ पदवा॒यं ब्रा॑ह्म॒णोऽधि॑पतिः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑। प॒द॒ऽवा॒यम्। ब्रा॒ह्म॒णः। अधि॑ऽपतिः। ५.४। 
+ब्रह्म॑। प॒द॒ऽवा॒यम्। ब्रा॒ह्म॒णः। अधि॑ऽपतिः। ५.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -303,18 +319,22 @@ Brahma her guide, the Brahman her lord and ruler;
 - आसुर्नुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ब्रह्म) वेद [ऋग्वेद, यजुर्वेद, सामवेद और अथर्ववेद] [जिस वेदवाणी का] (पदवायम्) प्राप्तियोग्य ज्ञान और (ब्राह्मणः) ब्रह्म [ब्रह्माण्ड का जाननेवाला] परमेश्वर [जिसका] (अधिपतिः) अधिपति [परम स्वामी] है ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस वेदवाणी की प्रवृत्ति से संसार में सब प्राणी आनन्द पाते हैं, उस वेदवाणी को जो कोई अन्यायी राजा प्रचार से रोकता है, उसके राज्य में मूर्खता फैलती है और वह धर्महीन राजा संसार में निर्बल और निर्धन हो जाता है ॥१-६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(ब्रह्म) ऋग्यजुःसामाथर्वाख्यो वेदः (पदवायम्) पद गतौ स्थैर्ये च−अच्+वा गतिगन्धनयोः−घञ् युक् च। प्राप्तव्यं ज्ञानम् (ब्राह्मणः) ब्रह्म−अण्। ब्रह्म ब्रह्माण्डं सर्वं जगत् वेत्ति यः। सर्वसंसारज्ञः परमेश्वरः (अधिपतिः) अधिराजः ॥
@@ -329,14 +349,6 @@ Brahma her guide, the Brahman her lord and ruler;
 ता᳓माद᳓दानस्य ब्रह्मगवीं᳓ जिनतो᳓ ब्राह्मणं᳓ क्षत्रि᳓यस्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/05_tAmAdadAnasya_brahmagavIm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-तामा॒ददा॑नस्य ब्रह्मग॒वीं जि॑न॒तो ब्रा॑ह्म॒णं क्ष॒त्रिय॑स्य ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/05_tAmAdadAnasya_brahmagavIm.md">
 <details open><summary><h3>०५ तामाददानस्य ब्रह्मगवीम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -347,14 +359,22 @@ the Brahman,—
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Of the Kshatriya who taketh to himself this Brahman's cow and oppresseth the Brahman.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तामा॒ददा॑नस्य ब्रह्मग॒वीं जि॑न॒तो ब्रा॑ह्म॒णं क्ष॒त्रिय॑स्य ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ताम्। आ॒ऽददा॑नस्य। ब्र॒ह्म॒ऽग॒वीम्। जि॒न॒तः। ब्रा॒ह्म॒णम्। क्ष॒त्रिय॑स्य। ५.५। 
+ताम्। आ॒ऽददा॑नस्य। ब्र॒ह्म॒ऽग॒वीम्। जि॒न॒तः। ब्रा॒ह्म॒णम्। क्ष॒त्रिय॑स्य। ५.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -362,18 +382,22 @@ Of the Kshatriya who taketh to himself this Brahman's cow and oppresseth the Bra
 - साम्नी पङ्क्तिः
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ताम्) उस (ब्रह्मगवीम्) वेदवाणी को (आददानस्य) छीननेवाले, (ब्राह्मणम्) ब्राह्मण [ब्रह्मचारी] को (जिनतः) सतानेवाले (क्षत्रियस्य) क्षत्रिय की ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस वेदवाणी की प्रवृत्ति से संसार में सब प्राणी आनन्द पाते हैं, उस वेदवाणी को जो कोई अन्यायी राजा प्रचार से रोकता है, उसके राज्य में मूर्खता फैलती है और वह धर्महीन राजा संसार में निर्बल और निर्धन हो जाता है ॥१-६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(ताम्) तथाभूताम् (आददानस्य) अपहारकस्य (ब्रह्मगवीम्) गोरतद्धितलुकि। पा० ५।४।९२। ब्रह्म+गो−टच्, टित्त्वाद् ङीप्। ब्रह्मणः परमेश्वरस्य गां वाचम्। वेदवाणीम् (जिनतः) ज्या वयोहानौ−शतृ, अन्तर्गतणिजर्थः। अभिभवतः (ब्राह्मणम्) ब्रह्मचारिणम् (क्षत्रियस्य) राजन्यस्य ॥
@@ -386,14 +410,6 @@ Of the Kshatriya who taketh to himself this Brahman's cow and oppresseth the Bra
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ᳓प क्रामति सूनृ᳓ता वीर्यं᳙ पु᳓ण्या लक्ष्मीः᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/06_apa_krAmati.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अप॑ क्रामति सू॒नृता॑ वी॒र्यं१॒॑ पुण्या॑ ल॒क्ष्मीः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/06_apa_krAmati.md">
@@ -416,14 +432,22 @@ Ppp. reads *puṇyalakṣmī*.
 bhurij); 10. uṣṇih;* ⌊*7-10. 1-p.:* see under vs. 11;⌋ *11. ārcī nicṛt  
 pan̄kti.*\]
 </details>
+
 <details><summary>Griffith</summary>
 
 The glory, the heroism, and the favouring fortune depart.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अप॑ क्रामति सू॒नृता॑ वी॒र्यं१॒॑ पुण्या॑ ल॒क्ष्मीः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अप॑। क्रा॒म॒ति॒। सू॒नृता॑। वी॒र्य᳡म्। पुण्या॑। ल॒क्ष्मीः। ५.६। 
+अप॑। क्रा॒म॒ति॒। सू॒नृता॑। वी॒र्य᳡म्। पुण्या॑। ल॒क्ष्मीः। ५.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -431,18 +455,22 @@ The glory, the heroism, and the favouring fortune depart.
 - साम्न्युष्णिक्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सूनृता) प्रिय सत्य वाणी [वा सुकीर्ति] (अप क्रामति) चली जाती है, (वीर्यम) वीरता और (पुण्या) मङ्गलमयी (लक्ष्मीः) लक्ष्मी [चक्रवर्ति राज्य आदि सामग्री] [भी चली जाती है] ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस वेदवाणी की प्रवृत्ति से संसार में सब प्राणी आनन्द पाते हैं, उस वेदवाणी को जो कोई अन्यायी राजा प्रचार से रोकता है, उसके राज्य में मूर्खता फैलती है और वह धर्महीन राजा संसार में निर्बल और निर्धन हो जाता है ॥१-६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   टिप्पणी १−मन्त्र १, २, ३ महर्षि दयानन्दकृत, ऋग्वेदादिभाष्यभूमिका वेदोक्तधर्मविषय पृष्ठ १०१−२ में तथा संस्कारविधि गृहाश्रमप्रकरण में व्याख्यात हैं ॥  टिप्पणी २−इस सूक्त का सम्बन्ध गत सूक्त ४ से यह है कि सूक्त ४ में वेदवाणी के प्रचार करने से लाभ का वर्णन है और इस सूक्त ५ में वेदवाणी के प्रचार रोकने से हानि का व्याख्यान है ॥ ६−(अपक्रामति) अपगच्छति। विनश्यति (सूनृता) अ० ३।१२।२। सु+नृत नर्तने−क, यद्वा, सु यथाविधि नॄन् नरान् तनोतीति या। सु+नृ+तनु विस्तारे−ड, टाप् सोर्दीर्घः। सत्यप्रियवाक्। सुकीर्तिः। (वीर्यम्) वीरत्वम् (पुण्या) मङ्गलमयी (लक्ष्मीः) चक्रवर्तिराज्यादिसम्पत्तिः ॥
@@ -457,14 +485,6 @@ The glory, the heroism, and the favouring fortune depart.
 ओ᳓जश्च ते᳓जश्च स᳓हश्च ब᳓लं च वा᳓क्चेन्द्रियं᳓ च श्री᳓श्च ध᳓र्मश्च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/07_ojashcha_tejashcha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ओज॑श्च॒ तेज॑श्च॒ सह॑श्च॒ बलं॑ च॒ वाक्चे॑न्द्रि॒यं च॒ श्रीश्च॒ धर्म॑श्च ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/07_ojashcha_tejashcha.md">
 <details open><summary><h3>०७ ओजश्च तेजश्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -475,14 +495,22 @@ sense (*indriyá*), and fortune, and virtue (*dhárma*),—
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 The energy and vigour, the power and might the speech and mental strength, the glory and duty;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ओज॑श्च॒ तेज॑श्च॒ सह॑श्च॒ बलं॑ च॒ वाक्चे॑न्द्रि॒यं च॒ श्रीश्च॒ धर्म॑श्च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ओजः॑। च॒। तेजः॑। च॒। सहः॑। च॒। बल॑म्। च॒। वाक्। च॒। इ॒न्द्रि॒यम्। च॒। श्रीः। च॒। धर्मः॑। च॒। ६.१। 
+ओजः॑। च॒। तेजः॑। च॒। सहः॑। च॒। बल॑म्। च॒। वाक्। च॒। इ॒न्द्रि॒यम्। च॒। श्रीः। च॒। धर्मः॑। च॒। ६.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -490,18 +518,22 @@ The energy and vigour, the power and might the speech and mental strength, the g
 - साम्नी त्रिष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (च) और (ओजः) पराक्रम, (च) और (तेजः) तेज [प्रगल्भता, निर्भयता], (च) और (सहः) सहन सामर्थ्य, (च) और (बलम्) बल [शरीर की दृढ़ता] (च) और (वाक्) विद्या, (च) और (इन्द्रियम्) इन्द्रिय [मन सहित पाँच ज्ञानेन्द्रिय और पाँच कर्मेन्द्रिय], (च) और (श्रीः) श्री [लक्ष्मी, सम्पत्ति, अर्थात् चक्रवर्ति राज्य की सामग्री], (च) और (धर्मः) धर्म [वेदोक्त पक्षपातरहित न्याय का आचरण] ॥७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो राजा के कुप्रबन्ध से वेदविद्या प्रचार से रुक जाती है, अविद्या के फैलने से वह राजा और उसका राज्य सब नष्ट-भ्रष्ट हो जाता है ॥७-१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(ओजः) पराक्रमः (च) समुच्चये (तेजः) प्रतापः। प्रगल्भता। निर्भयता (च) (सहः) सुखदुःखादिसहनम् (च) (बलम्) सामर्थ्यम् शरीरस्य दृढत्वम् (च) (वाक्) विद्या (च) (इन्द्रियम्) मनःसहितानि पञ्च ज्ञानेन्द्रियाणि पञ्च कर्मेन्द्रियाणि च (च) (श्रीः) लक्ष्मीः। सम्पत्तिः। चक्रवर्तिराज्यसामग्री (च) (धर्मः) वेदोक्तं पक्षपातरहितं न्यायाचरणम् (च) ॥
@@ -516,14 +548,6 @@ The energy and vigour, the power and might the speech and mental strength, the g
 ब्र᳓ह्म च क्षत्रं᳓ च राष्ट्रं᳓ च वि᳓शश्च त्वि᳓षिश्च य᳓शश्च व᳓र्चश्च द्र᳓विणं च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/08_brahma_cha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ब्रह्म॑ च क्ष॒त्रं च॑ रा॒ष्ट्रं च॒ विश॑श्च॒ त्विषि॑श्च॒ यश॑श्च॒ वर्च॑श्च॒ द्रवि॑णं च ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/08_brahma_cha.md">
 <details open><summary><h3>०८ ब्रह्म च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -535,14 +559,22 @@ property,—
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Devotion and princely sway, kingship and people, brilliance and honour, and splendour and wealth;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रह्म॑ च क्ष॒त्रं च॑ रा॒ष्ट्रं च॒ विश॑श्च॒ त्विषि॑श्च॒ यश॑श्च॒ वर्च॑श्च॒ द्रवि॑णं च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑। च॒। क्ष॒त्रम्। रा॒ष्ट्रम्। च॒। विशः॑। च॒। त्विषिः॑। च॒। यशः॑। च॑। वर्चः॑। च॒। द्रवि॑णम्। च॒। ६.२। 
+ब्रह्म॑। च॒। क्ष॒त्रम्। रा॒ष्ट्रम्। च॒। विशः॑। च॒। त्विषिः॑। च॒। यशः॑। च॑। वर्चः॑। च॒। द्रवि॑णम्। च॒। ६.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -550,18 +582,22 @@ Devotion and princely sway, kingship and people, brilliance and honour, and sple
 - भुरिगार्च्येकपदानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (च) और (ब्रह्म) ब्राह्मण [सब में उत्तम विद्वान् और सद्गुणप्रचारक जन], (च) (क्षत्रम्) क्षत्रिय [विद्वान् चतुर शूरवीर पुरुष] (च) (राष्ट्रम्) राज्य [न्याय से प्रजापालन], (च) और (विशः) प्रजाजन, (च) और (त्विषिः) कान्ति [शरीर की आरोग्यता और आत्मबल], (च) और (यशः) यश [शूरता आदि की प्रख्याति], (च) और (वर्चः) ब्रह्मवर्चस [वेद का विचार और प्रचार], (च) और (द्रविणम्) धन [सम्पत्ति की रक्षा और वृद्धि] ॥८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो राजा के कुप्रबन्ध से वेदविद्या प्रचार से रुक जाती है, अविद्या के फैलने से वह राजा और उसका राज्य सब नष्ट-भ्रष्ट हो जाता है ॥७-१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(ब्रह्म) सर्वोत्तमविद्यायुक्तं सद्गुणप्रचारकं ब्राह्मणोपलक्षणकं कुलम् (च) (क्षत्रम्) विद्याचातुर्यशौर्यवीरत्वयुक्तं क्षत्रियोपलक्षणकं कुलम् (च) (राष्ट्रम्) न्यायेन प्रजापालनम् (च) (विशः) प्रजागणाः (च) (त्विषिः) कान्तिः। शरीरनैरोग्यमात्मबलं च (च) (यशः) शौर्यादिप्रभृत्याख्यातिः (च) (वर्चः) ब्रह्मवर्चसम्। वेदस्याध्ययनं प्रचारणं च (च) (द्रविणम्) धनम्। सम्पत्तिरक्षणं वर्धनं च (च) ॥
@@ -576,14 +612,6 @@ Devotion and princely sway, kingship and people, brilliance and honour, and sple
 आ᳓युश्च रूपं᳓ च ना᳓म च कीर्ति᳓श्च प्राण᳓श्चापान᳓श्च च᳓क्षुश्च श्रो᳓त्रं च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/09_Ayushcha_rUpam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आयु॑श्च रू॒पं च॒ नाम॑ च की॒र्तिश्च॑ प्रा॒णश्चा॑पा॒नश्च॒ चक्षु॑श्च॒ श्रोत्रं॑ च ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/09_Ayushcha_rUpam.md">
 <details open><summary><h3>०९ आयुश्च रूपम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -594,14 +622,22 @@ expiration, and sight, and hearing,—
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Long life and goodly form, and name and fame, inbreathing and expiration, and sight, and hearing;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आयु॑श्च रू॒पं च॒ नाम॑ च की॒र्तिश्च॑ प्रा॒णश्चा॑पा॒नश्च॒ चक्षु॑श्च॒ श्रोत्रं॑ च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आयुः॑। च॒। रू॒पम्। च॒। नाम॑। च॒। की॒र्तिः। च॒। प्रा॒णः। च॒। अ॒पा॒नः। च॒। चक्षुः॑। च॒। श्रोत्र॑म्। च॒। ६.३। 
+आयुः॑। च॒। रू॒पम्। च॒। नाम॑। च॒। की॒र्तिः। च॒। प्रा॒णः। च॒। अ॒पा॒नः। च॒। चक्षुः॑। च॒। श्रोत्र॑म्। च॒। ६.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -609,18 +645,22 @@ Long life and goodly form, and name and fame, inbreathing and expiration, and si
 - आर्च्येकपदानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (च) और (आयुः) जीवन [ब्रह्मचर्यसेवन और वीर्यरक्षण से जीवन का बढ़ाना], (च) और (रूपम्) रूप [शरीरपुष्टि से सुन्दरता], (च) और (नाम) नाम [सत्कर्मों से प्रसिद्धि], (च) और (कीर्तिः) कीर्ति [श्रेष्ठ गुणों के ग्रहण के लिये ईश्वर के गुणों का कीर्तन और विद्यादान आदि सत्य आचरणों से प्रशंसा को स्थिर रखना], (च) और (प्राणः) प्राण वायु (च) और (अपानः) अपान वायु (च) और (चक्षुः) दृष्टि [प्रत्यक्ष, अनुमान और उपमान प्रमाण], (च) और (श्रोत्रम्) श्रवण [शब्द, ऐतिह्य, अर्थापत्ति, संभव और अभाव प्रमाण] ॥९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो राजा के कुप्रबन्ध से वेदविद्या प्रचार से रुक जाती है, अविद्या के फैलने से वह राजा और उसका राज्य सब नष्ट-भ्रष्ट हो जाता है ॥७-१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(आयुः) ब्रह्मचर्यसेवनेन वीर्यरक्षणेन च जीवनवर्धनम् (च) (रूपम्) शरीरपुष्ट्या सौन्दर्यम् (च) (नाम) सत्कर्मानुष्ठानेन प्रसिद्धिः (च) (कीर्तिः) सद्गुणग्रहणार्थमीश्वरगुणानां कीर्तनं विद्यादानादिसत्याचरणेन स्वप्रशंसा स्थिरीकरणं च (च) (प्राणः) (च) (अपानः) (च) (चक्षुः) दर्शनम्। प्रत्यक्षानुमानोपमानप्रमाणजातम् (च) (श्रोत्रम्) श्रवणम्। शब्दैतिह्यार्थापत्तिसंभवाभावप्रमाणजातम् (च) ॥
@@ -635,14 +675,6 @@ Long life and goodly form, and name and fame, inbreathing and expiration, and si
 प᳓यश्च र᳓सश्चा᳓न्नं चान्ना᳓द्यं चर्तं᳓ च सत्यं᳓ चेष्टं᳓ च पूर्तं᳓ च प्रजा᳓ च पश᳓वश्च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/10_payashcha_rasashchAnnam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पय॑श्च॒ रस॒श्चान्नं॑ चा॒न्नाद्यं॑ च॒र्तं च॑ स॒त्यं चे॒ष्टं च॑ पू॒र्तं च॑ प्र॒जा च॑ प॒शव॑श्च ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/10_payashcha_rasashchAnnam.md">
 <details open><summary><h3>१० पयश्च रसश्चान्नम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -654,14 +686,22 @@ and cattle:—
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Milk and flavour, and food and nourishment, and right and truth, and action and fulfilment, and children and cattle;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पय॑श्च॒ रस॒श्चान्नं॑ चा॒न्नाद्यं॑ च॒र्तं च॑ स॒त्यं चे॒ष्टं च॑ पू॒र्तं च॑ प्र॒जा च॑ प॒शव॑श्च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पयः॑। च॒। रसः॑। च॒। अन्न॑म्। च॒। अ॒न्न॒ऽअद्य॑म्। च॒। ऋ॒तम्। च॒। स॒त्यम्। च॒। इ॒ष्टम्। च॒। पू॒र्तम्‌। च॒। प्र॒ऽजा। च॒। प॒शवः॑। च॒। ६.४। 
+पयः॑। च॒। रसः॑। च॒। अन्न॑म्। च॒। अ॒न्न॒ऽअद्य॑म्। च॒। ऋ॒तम्। च॒। स॒त्यम्। च॒। इ॒ष्टम्। च॒। पू॒र्तम्‌। च॒। प्र॒ऽजा। च॒। प॒शवः॑। च॒। ६.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -669,18 +709,22 @@ Milk and flavour, and food and nourishment, and right and truth, and action and 
 - एकपदोष्णिक्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (च) और (पयः) दूध, जल आदि, (च) और (रसः) रस [घृत, मधु, सोमरस आदि], (च) और (अन्नम्) अन्न [गेहूँ, जौ, चावल आदि], (च) और (अन्नाद्यम्) खाने योग्य पदार्थ [दाल, शाक, फल आदि], (च) और (ऋतम्) वेदज्ञान, (च) और (सत्यम्) सत्य [हृदय, वाणी और शरीर से यथार्थ कर्म] (च) और (इष्टम्) यज्ञ [अग्निहोत्र, वेदाध्ययन, अतिथिसत्कार आदि], (च) और (पूर्तम्) पूर्णता [सर्वोपकारी कर्म, कूप, तड़ाग, आराम, वाटिका, आदि], (च) और (प्रजाः) प्रजाएँ [सन्तान आदि और राज्य जन] (च) और (पशवः) सब पशु [हाथी, घोड़े, गौएँ आदि जीव] ॥१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो राजा के कुप्रबन्ध से वेदविद्या प्रचार से रुक जाती है, अविद्या के फैलने से वह राजा और उसका राज्य सब नष्ट-भ्रष्ट हो जाता है ॥७-१०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(पयः) दुग्धजलादिकम् (च) (रसः) घृतमधुसोमरसादिः−(च) (अन्नम्) कॄवृजॄसिद्रु०। उ० ३।१०। अन जीवने−न प्रत्ययः, नित्। जीवनसाधनम्। गोधूमयवव्रीह्यादिकम् (च) (अन्नाद्यम्) अन्न+अद भक्षणे−यत्। वाहिताग्न्यादिषु। पा० २।२।३७। इति रूपसिद्धिः। अत्तुं योग्यमद्यं च तदन्नं च सूपशाकफलादिकं भक्ष्यद्रव्यम् (च) (ऋतम्) वेदज्ञानम् (च) (सत्यम्) मानसिकवाचिककायिकयथार्थकर्म (च) (इष्टम्) अ० २।१२।४। अग्निहोत्रवेदाध्ययनाऽऽतिथ्यादि कर्म (च) (पूर्तम्) अ० २।१२।४। पॄ पालनपूरणयोः−क्त। सर्वोपकारी कर्म कूपतडागारामवाटिकादिकम् (च) (प्रजाः) सन्तानादयो राज्यजनाश्च (च) (पशवः) हस्तितुरगगवादयः (च) ॥
@@ -693,14 +737,6 @@ Milk and flavour, and food and nourishment, and right and truth, and action and 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ता᳓नि स᳓र्वाण्य᳓प क्रामन्ति ब्रह्मगवी᳓माद᳓दानस्य जिनतो᳓ ब्राह्मणं᳓ क्षत्रि᳓यस्य ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/11_tAni_sarvANyapa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-तानि॒ सर्वा॒ण्यप॑ क्रामन्ति ब्रह्मग॒वीमा॒ददा॑नस्य जिन॒तो ब्रा॑ह्म॒णं क्ष॒त्रिय॑स्य ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/11_tAni_sarvANyapa.md">
@@ -749,14 +785,22 @@ anuṣṭubh; 14, 26. sāmny uṣṇih; 15. gāyatrī; 16, 17, 19, 20. prājāpa
 ’nuṣṭubh; 18. yājuṣi jagatī; 21, 25. sāmny anuṣṭubh; 22. sāmnī bṛhatī;  
 23. yājuṣī triṣṭubh; 24. āsurī gāyatrī; 27. ārcy uṣṇih.*\]
 </details>
+
 <details><summary>Griffith</summary>
 
 All these blessings of a Kshatriya depart from him when he oppresseth the Brahman and taketh to himself the hhman's cow.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तानि॒ सर्वा॒ण्यप॑ क्रामन्ति ब्रह्मग॒वीमा॒ददा॑नस्य जिन॒तो ब्रा॑ह्म॒णं क्ष॒त्रिय॑स्य ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तानि॑। सर्वा॑णि। अप॑। क्रा॒म॒न्ति॒। ब्र॒ह्म॒ऽग॒वीम्। आ॒ऽददा॑नस्य। जि॒न॒तः। ब्रा॒ह्म॒णम्। क्ष॒त्रिय॑स्य। ६.५। 
+तानि॑। सर्वा॑णि। अप॑। क्रा॒म॒न्ति॒। ब्र॒ह्म॒ऽग॒वीम्। आ॒ऽददा॑नस्य। जि॒न॒तः। ब्रा॒ह्म॒णम्। क्ष॒त्रिय॑स्य। ६.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -764,18 +808,22 @@ All these blessings of a Kshatriya depart from him when he oppresseth the Brahma
 - आर्ची निचृत्पङ्क्तिः
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तानि सर्वाणि) ये सब (ब्रह्मगवीम्) वेदवाणी को (आददानस्य) छीननेवाले, (ब्राह्मणम्) ब्राह्मण [ब्रह्मचारी] को (जिनतः) सतानेवाले (क्षत्रियस्य) क्षत्रिय के (अप क्रामन्ति) चले जाते हैं ॥११॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो राजा के कुप्रबन्ध से वेदविद्या प्रचार से रुक जाती है, अविद्या के फैलने से वह राजा और उसका राज्य सब नष्ट-भ्रष्ट हो जाता है ॥७-१०॥  १−मन्त्र ११ का मिलान ऊपर मन्त्र ५, ६ से करो ॥११॥  २−मन्त्र ७-११ महर्षि दयानन्दकृत, ऋग्वेदादिभाष्यभूमिका वेदोक्तधर्मविषय पृष्ठ १०२-३ में तथा संस्कारविधि गृहाश्रमप्रकरण में व्यख्यात हैं ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(तानि) पूर्वोक्तानि (सर्वाणि) समस्तानि (अप क्रामन्ति) अपगच्छन्ति। विनश्यन्ति। अन्यत् पूर्ववत्−म० ५ ॥
@@ -790,14 +838,6 @@ All these blessings of a Kshatriya depart from him when he oppresseth the Brahma
 सै᳓षा᳓ भीमा᳓ ब्रह्मगव्य᳙घ᳓विषा साक्षा᳓त्कृत्या᳓ कू᳓ल्बजमा᳓वृता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/12_saiShA_bhImA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सैषा भी॒मा ब्र॑ह्मग॒व्य१॒॑घवि॑षा सा॒क्षात्कृ॒त्या कूल्ब॑ज॒मावृ॑ता ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/12_saiShA_bhImA.md">
 <details open><summary><h3>१२ सैषा भीमा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -810,14 +850,22 @@ witchcraft incarnate (*sākṣā́t*), *kū́lbaja* when covered.
 *Kū́lbaja* occurs only here and in vs. 53 below; in the latter verse,  
 Ppp. reads instead *pūlyājām*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Terrible is she this Brahman's cow, and fearfully venomous, visibly witchcraft.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सैषा भी॒मा ब्र॑ह्मग॒व्य१॒॑घवि॑षा सा॒क्षात्कृ॒त्या कूल्ब॑ज॒मावृ॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। ए॒षा। भी॒मा। ब्र॒ह्म॒ऽग॒वी। अ॒घऽवि॑षा। स॒ऽअ॒क्षात्। कृ॒त्या। कूल्ब॑जम्। आऽवृ॑ता। ७.१। 
+सा। ए॒षा। भी॒मा। ब्र॒ह्म॒ऽग॒वी। अ॒घऽवि॑षा। स॒ऽअ॒क्षात्। कृ॒त्या। कूल्ब॑जम्। आऽवृ॑ता। ७.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -825,18 +873,22 @@ Terrible is she this Brahman's cow, and fearfully venomous, visibly witchcraft.
 - विराड्विषमा गायत्री
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सा एषा) वह यही (ब्रह्मगवी) वेदवाणी [वेदनिन्दक को] (भीमा) डरावनी (अघविषा) महाघोर विषैली, (साक्षात्) साक्षात् [प्रत्यक्ष] (कृत्या) हिंसारूप और (कूल्बजम्) भूमि पर दाह उपजानेवाली वस्तुरूप [हो जाती है, जब वह] (आवृता) रोक दी गयी हो ॥१२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  शान्तिकारक वेदविद्या के रोक देने से अधर्म बढ़ने पर संसार में बड़े-बड़े उपद्रव फैलते हैं ॥१२॥  इस मन्त्र का मिलान मन्त्र ५३ से करो ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १२−(सा−एषा) पूर्वोक्तैव (भीमा) भयंकरा (ब्रह्मगवी) म० ५। वेदवाणी (अघविषा) अघ पापकरणे−अच्+विष विप्रयोगे−क, टाप्। अतिशयेन विषमयी यथा (साक्षात्) प्रत्यक्षम् (कृत्या) अ० ४।९।५। कृञ् हिंसायाम्−क्यप्+तुक्, टाप्। हिंसाक्रिया (कूल्बजम्) कु+उल्व+जम्। उल्वादयश्च। उ० ४।९५। कु+उल दाहे−वन्+अन्येष्वपि दृश्यते। पा० ३।२।१०१। जन जनने−ड। कौ भूमौ दाहजनकं वस्तु तथा (आवृता) आच्छादिता। निरुद्धा ॥
@@ -851,14 +903,6 @@ Terrible is she this Brahman's cow, and fearfully venomous, visibly witchcraft.
 स᳓र्वाण्यस्यां घोरा᳓णि स᳓र्वे च मृत्य᳓वः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/13_sarvANyasyAM_ghorANi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सर्वा॑ण्यस्यां घो॒राणि॒ सर्वे॑ च मृ॒त्यवः॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/13_sarvANyasyAM_ghorANi.md">
 <details open><summary><h3>१३ सर्वाण्यस्यां घोराणि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -868,14 +912,22 @@ Terrible is she this Brahman's cow, and fearfully venomous, visibly witchcraft.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 In her are all horrors and all death.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वा॑ण्यस्यां घो॒राणि॒ सर्वे॑ च मृ॒त्यवः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वा॑णि। अ॒स्या॒म्। घो॒राणि॑। सर्वे॑। च॒। मृ॒त्यवः॑। ७.२। 
+सर्वा॑णि। अ॒स्या॒म्। घो॒राणि॑। सर्वे॑। च॒। मृ॒त्यवः॑। ७.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -883,18 +935,22 @@ In her are all horrors and all death.
 - आसुर्यनुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अस्याम्) इस [वेदवाणी] में [रोके जाने पर−मन्त्र १२] [वेदनिरोधक को] (सर्वाणि) सब (घोराणि) घोर [महाभयानक] कर्म (च) और (सर्वे) सब प्रकार के (मृत्यवः) मृत्यु होते हैं ॥१३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  धर्मनिरूपक वेदवाणी में रोक डालने से संसार में घोर पाप छा जाता है, और सब प्राणी महाकष्ट पाते हैं ॥१३, १४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १३−(सर्वाणि) समस्तानि (अस्याम्) वेदवाण्याम् (घोराणि) महाभयानककर्माणि (सर्वे) (च) (मृत्यवः) मरणहेतवः ॥
@@ -909,14 +965,6 @@ In her are all horrors and all death.
 स᳓र्वाण्यस्यां क्रूरा᳓णि स᳓र्वे पुरुषवधाः᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/14_sarvANyasyAM_krUrANi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सर्वा॑ण्यस्यां क्रू॒राणि॒ सर्वे॑ पुरुषव॒धाः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/14_sarvANyasyAM_krUrANi.md">
 <details open><summary><h3>१४ सर्वाण्यस्यां क्रूराणि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -926,14 +974,22 @@ In her are all horrors and all death.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 In her are all dreadful, deeds, all slaughters of mankind.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वा॑ण्यस्यां क्रू॒राणि॒ सर्वे॑ पुरुषव॒धाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वा॑णि। अ॒स्या॒म्। क्रू॒राणि॑। सर्वे॑। पु॒रु॒ष॒ऽव॒धाः। ७.३। 
+सर्वा॑णि। अ॒स्या॒म्। क्रू॒राणि॑। सर्वे॑। पु॒रु॒ष॒ऽव॒धाः। ७.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -941,18 +997,22 @@ In her are all dreadful, deeds, all slaughters of mankind.
 - साम्न्युष्णिक्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अस्याम्) इस [वेदवाणी] में [रोकनेवाले को] (सर्वाणि) सब (क्रूराणि) क्रूर [निठुर] कर्म और (सर्वे) सब प्रकार के (पुरुषवधाः) मनुष्यवध होते हैं ॥१४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  धर्मनिरूपक वेदवाणी में रोक डालने से संसार में घोर पाप छा जाता है, और सब प्राणी महाकष्ट पाते हैं ॥१३, १४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १४−(सर्वाणि) (अस्याम्) (क्रूराणि) निर्दयकर्माणि (पुरुषवधाः) पुरुषाणां हत्याव्यापाराः ॥
@@ -965,14 +1025,6 @@ In her are all dreadful, deeds, all slaughters of mankind.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सा᳓ ब्रह्मज्यं᳓ देवपीयुं᳓ ब्रह्मगव्या᳙दीय᳓माना मृत्योः᳓ प᳓ड्वीष आ᳓ द्यति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/15_sA_brahmajyam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सा ब्र॑ह्म॒ज्यं दे॑वपी॒युं ब्र॑ह्मग॒व्या᳡दी॒यमा॑ना मृ॒त्योः पड्वी॑ष॒ आ द्य॑ति ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/15_sA_brahmajyam.md">
@@ -989,14 +1041,22 @@ curiously enough. All our mss. have *páḍv-*, and one or two *-vīṅś-* or
 *-viṅś-*. The verse admits of being read as a *gāyatrī*, probably not by  
 accident, and might better have been printed as such.
 </details>
+
 <details><summary>Griffith</summary>
 
 This, the Brahman's cow, being appropriated, holdeth bound in the fetter of Death the oppressor of the Brahman, the blas- phemer of the Gods.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सा ब्र॑ह्म॒ज्यं दे॑वपी॒युं ब्र॑ह्मग॒व्या᳡दी॒यमा॑ना मृ॒त्योः पड्वी॑ष॒ आ द्य॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। ब्र॒ह्म॒ऽज्यम्। दे॒व॒ऽपी॒युम्। ब्र॒ह्म॒ऽग॒वी। आ॒ऽदी॒यमा॑ना। मृ॒त्योः। पड्वी॑शे। आ। द्य॒ति॒। ७.४। 
+सा। ब्र॒ह्म॒ऽज्यम्। दे॒व॒ऽपी॒युम्। ब्र॒ह्म॒ऽग॒वी। आ॒ऽदी॒यमा॑ना। मृ॒त्योः। पड्वी॑शे। आ। द्य॒ति॒। ७.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1004,18 +1064,22 @@ This, the Brahman's cow, being appropriated, holdeth bound in the fetter of Deat
 - गायत्री
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सा) वह (आदीयमाना) छीनी जाती हुई (ब्रह्मगवी) वेदवाणी (ब्रह्मज्यम्) ब्रह्मचारियों के हानिकारक, (देवपीयुम्) विद्वानों के सतानेवाले पुरुष को (मृत्योः) मृत्यु की (पड्वीशे) बेड़ी में (आ द्यति) बाँध देती है ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  आप्त वैदिक विद्वानों को रोकनेवाला पुरुष मूर्खता के कारण महा विपत्तियों में पड़ता है ॥१५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १५−(सा) पूर्वोक्ता (ब्रह्मज्यम्) अ० ५।१९।७। कविधौ सर्वत्र प्रसारणिभ्यो डः। वा० पा० ३।२।३। ब्रह्म+ज्या वयोहानौ−ड। ब्रह्मचारिणां हानिकरम् (देवपीयुम्) अ० ४।३५।७। विदुषां हिंसकम् (ब्रह्मगवी) म० ५। वेदवाणी (आदीयमाना) अपह्रियमाणा (मृत्योः) मरणस्य (पड्वीशे) अ० ६।९६।२। पश बन्धने−अटि, डित्+विश प्रवेशने−क, दीर्घश्च। पाशप्रवेशे। शृङ्खलायाम् (आद्यति) आङ्पूर्वो दो बन्धने। बध्नाति ॥
@@ -1030,14 +1094,6 @@ This, the Brahman's cow, being appropriated, holdeth bound in the fetter of Deat
 मेनिः᳓ शत᳓वधा हि᳓ सा᳓ ब्रह्मज्य᳓स्य क्षि᳓तिर्हि᳓ सा᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/16_meniH_shatavadhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मे॒निः श॒तव॑धा॒ हि सा ब्र॑ह्म॒ज्यस्य॒ क्षिति॒र्हि सा ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/16_meniH_shatavadhA.md">
 <details open><summary><h3>१६ मेनिः शतवधा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1048,14 +1104,22 @@ destruction of the Brahman-scather is she.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 A hundred-killing bolt is she: she slays the Brahman's injurer.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मे॒निः श॒तव॑धा॒ हि सा ब्र॑ह्म॒ज्यस्य॒ क्षिति॒र्हि सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मे॒निः। श॒तऽव॑धा। हि। सा। ब्र॒ह्म॒ऽज्यस्य॑। क्षितिः॑। हि। सा। ७.५। 
+मे॒निः। श॒तऽव॑धा। हि। सा। ब्र॒ह्म॒ऽज्यस्य॑। क्षितिः॑। हि। सा। ७.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1063,18 +1127,22 @@ A hundred-killing bolt is she: she slays the Brahman's injurer.
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सा) वह [वेदवाणी] (हि) निश्चय करके (ब्रह्मज्यस्य) ब्रह्मचारियों के हानिकारक की (शतवधा) शतघ्नी [सैकड़ों को मारनेवाली] (मेनिः) वज्र, (सा हि) वह ही [उसकी] (क्षितिः) नाश शक्ति है ॥१६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य वेदप्रचारकों को हानि पहुँचाता है, वह संसार की हानि कर के आप भी अनेक विपत्तियों में पड़ता है ॥१६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १६−(मेनिः) अ० २।११।१। डुमिञ् प्रक्षेपणे−नि। वज्रः−निघ० २।२०। (शतवधा) शतघ्नी। बहुहन्त्री (हि) निश्चयेन (सा) वेदवाणी (ब्रह्मज्यस्य) म० १५। ब्रह्मचारिणां हानिकारकस्य (क्षितिः) नाशशक्तिः ॥
@@ -1089,14 +1157,6 @@ A hundred-killing bolt is she: she slays the Brahman's injurer.
 त᳓स्माद्वै᳓ ब्राह्मणा᳓नां गौ᳓र्दुराध᳓र्षा विजानता᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/17_tasmAdvai_brAhmaNAnAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-तस्मा॒द्वै ब्रा॑ह्म॒णानां॒ गौर्दु॑रा॒धर्षा॑ विजान॒ता ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/17_tasmAdvai_brAhmaNAnAm.md">
 <details open><summary><h3>१७ तस्माद्वै ब्राह्मणानाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1107,14 +1167,22 @@ against by one who understands (*vi-jñā*).\*
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Therefore the Brahmans' cow is held inviolable by the wise.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मा॒द्वै ब्रा॑ह्म॒णानां॒ गौर्दु॑रा॒धर्षा॑ विजान॒ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्मा॑त्। वै। ब्रा॒ह्म॒णाना॑म्। गौः। दुः॒ऽआ॒धर्षा॑। वि॒ऽजा॒न॒ता। ७.६। 
+तस्मा॑त्। वै। ब्रा॒ह्म॒णाना॑म्। गौः। दुः॒ऽआ॒धर्षा॑। वि॒ऽजा॒न॒ता। ७.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1122,18 +1190,22 @@ Therefore the Brahmans' cow is held inviolable by the wise.
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तस्मात्) इस लिये (वै) ही (ब्राह्मणानाम्) ब्रह्मचारियों की [हितकारिणी] (गौः) वेदवाणी (विजानता) विरुद्ध जाननेवाले करके (दुराधर्षा) कभी न जीतने योग्य है ॥१७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जितेन्द्रिय पुरुष ही वेदवाणी से आनन्द पाते हैं और दुरात्मा अत्याचारी उसे कभी नहीं प्राप्त कर सकते ॥१७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १७−(तस्मात्) कारणात् (वै) निश्चयेन (ब्राह्मणानाम्) ब्रह्मचारिणां हितकरी (गौः) वेदवाणी (दुराधर्षा) सर्वथा दुर्जेया (विजानता) विरुद्धं विदुषा पुरुषेण ॥
@@ -1148,14 +1220,6 @@ Therefore the Brahmans' cow is held inviolable by the wise.
 व᳓ज्रो धा᳓वन्ती वैश्वानर᳓ उ᳓द्वीता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/18_vajro_dhAvantI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वज्रो॒ धाव॑न्ती वैश्वान॒र उद्वी॑ता ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/18_vajro_dhAvantI.md">
 <details open><summary><h3>१८ वज्रो धावन्ती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1166,14 +1230,22 @@ Therefore the Brahmans' cow is held inviolable by the wise.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Running she is a thunderbolt, when driven away she is Vaisva- nara;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वज्रो॒ धाव॑न्ती वैश्वान॒र उद्वी॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वज्रः॑। धाव॑न्ती। वै॒श्वा॒न॒रः। उत्ऽवी॑ता। ७.७। 
+वज्रः॑। धाव॑न्ती। वै॒श्वा॒न॒रः। उत्ऽवी॑ता। ७.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1181,18 +1253,22 @@ Running she is a thunderbolt, when driven away she is Vaisva- nara;
 - याजुषी जगती
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (धावन्ती) दौड़ती हुई वह [वेदवाणी] [दुष्ट के लिये] (वज्रः) वज्ररूप, और (उद्वीता) ऊँची हुई वह [सज्जन के लिये] (वैश्वानरः) सर्वनायक पुरुष [के समान हितकारी] है ॥१८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदवाणी की प्रवृत्ति से संसार में पापियों का नाश और धर्मात्माओं को आनन्द का प्रकाश होता है ॥१८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १८−(वज्रः) (धावन्ती) शीघ्रं गच्छन्ती (वैश्वानरः) अ० १।१०।४। विश्व+नॄ प्रापणे−अच्, स्वार्थे−अण्। वैश्वानरः कस्माद् विश्वान् नरान् नयतीति−निरु० ७।२१। सर्वनायकः पुरुषो यथा (उद्वीता) वी गतौ−क्त। उदयं गता ॥
@@ -1207,14 +1283,6 @@ Running she is a thunderbolt, when driven away she is Vaisva- nara;
 हेतिः᳓ शफा᳓नुत्खिद᳓न्ती महादेवो᳙पे᳓क्षमाणा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/19_hetiH_shaphAnutkhidantI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-हे॒तिः श॒फानु॑त्खि॒दन्ती॑ महादे॒वो॒३॒॑पेक्ष॑माणा ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/19_hetiH_shaphAnutkhidantI.md">
 <details open><summary><h3>१९ हेतिः शफानुत्खिदन्ती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1225,14 +1293,22 @@ looking away.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 An arrow when she draweth up her hooves, and Mahadeva when she looketh around;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+हे॒तिः श॒फानु॑त्खि॒दन्ती॑ महादे॒वो॒३॒॑पेक्ष॑माणा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हे॒तिः। श॒फान्। उ॒त्ऽखि॒दन्ती॑। म॒हा॒ऽदे॒वः। अ॒प॒ऽईक्ष॑माणा। ७.८। 
+हे॒तिः। श॒फान्। उ॒त्ऽखि॒दन्ती॑। म॒हा॒ऽदे॒वः। अ॒प॒ऽईक्ष॑माणा। ७.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1240,18 +1316,22 @@ An arrow when she draweth up her hooves, and Mahadeva when she looketh around;
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] [पापी के] (शफान्) शान्तिव्यवहारों को (उत्खिदन्ती) नाश करती हुई (हेतिः) वज्ररूप है, और (अपेक्षमाणा) सब ओर दृष्टि फैलाती हुई वह (महादेवः) बड़े विजय चाहनेवाले [शूर पुरुष के समान] है ॥१९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदवाणी की प्रवृत्ति में विघ्नकारी पुरुष मूर्खता के कारण सर्वथा नष्ट हो जाता है ॥१९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १९−(हेतिः) हन हिंसागत्योः−क्तिन्। वज्रः−निघ० २।२०। (शफान्) शम शान्तौ आलोचने च−अच्, भस्य फः। शान्तिव्यवहारान् (उत्खिदन्ती) खिद परिघाते दैन्ये च−शतृ। सर्वतो नाशयन्ती (महादेवः) दिवु विजिगीषायाम्−अच्। महाविजिगीषुः शूरपुरुषो यथा (अपेक्षमाणा) सर्वतो दृष्टिं कुर्वाणा ॥
@@ -1264,14 +1344,6 @@ An arrow when she draweth up her hooves, and Mahadeva when she looketh around;
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्षुर᳓पविरी᳓क्षमाणा वा᳓श्यमानाभि᳓ स्फूर्ज᳓ति᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/20_xurapavirIxamANA_vAshyamAnAbhi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-क्षु॒रप॑वि॒रीक्ष॑माणा॒ वाश्य॑माना॒भि स्फू॒र्जति ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/20_xurapavirIxamANA_vAshyamAnAbhi.md">
@@ -1287,14 +1359,22 @@ Bp. reads *vā́sya-*. Vss. 19 and 20 were perhaps intended as metrical (8
 + 8). ⌊As to *mení*, vs. 16, cf. Geldner, *Festgruss an Böhtlingk*, p.  
 32.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Sharp as a razor when she beholdeth, she thundereth when she belloweth.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षु॒रप॑वि॒रीक्ष॑माणा॒ वाश्य॑माना॒भि स्फू॒र्जति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्षु॒रऽप॑विः। ईक्ष॑माणा। वाश्य॑माना। अ॒भि। स्फू॒र्ज॒ति॒। ७.९। 
+क्षु॒रऽप॑विः। ईक्ष॑माणा। वाश्य॑माना। अ॒भि। स्फू॒र्ज॒ति॒। ७.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1302,18 +1382,22 @@ Sharp as a razor when she beholdeth, she thundereth when she belloweth.
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ईक्षमाणा) देखती हुई वह [वेदवाणी] [रोकनेवाले को] (क्षुरपविः) छुरा [कटार आदि] की धार [समान] होती है, (वाश्यमाना) शब्द करती हुई वह (अभि) सब ओर (स्फूर्जति) गरजती है ॥२०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदवाणी के शुभ गुण प्रकट होने पर दुष्टों की दुष्टता सर्वथा नष्ट हो जाती है ॥२०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २०−(क्षुरपविः) शस्त्रधारा यथा (ईक्षमाणा) पश्यन्ती (वाश्यमाना) वाशृ शब्दे−शानच्। शब्दायमाना (अभि) सर्वतः (स्फूर्जति) टुओस्फूर्जा वज्रघोषे। गर्जति ॥
@@ -1328,14 +1412,6 @@ Sharp as a razor when she beholdeth, she thundereth when she belloweth.
 मृत्यु᳓र्हिङ्कृण्वत्यु᳙ग्रो᳓ देवः᳓ पु᳓च्छं पर्य᳓स्यन्ती ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/21_mRtyurhinkRNvatyugro_devaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मृ॒त्युर्हि॑ङ्कृण्व॒त्यु१॒॑ग्रो दे॒वः पुच्छं॑ प॒र्यस्य॑न्ती ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/21_mRtyurhinkRNvatyugro_devaH.md">
 <details open><summary><h3>२१ मृत्युर्हिङ्कृण्वत्युग्रो देवः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1348,14 +1424,22 @@ her tail.
 All the *saṁhitā*-mss. read *-tyù3gró* ⌊K. *ū̀g-*⌋. This verse also has  
 16 syllables, divisible into 8 + 8, but evidently only by accident.
 </details>
+
 <details><summary>Griffith</summary>
 
 Death is she when she loweth, and a fierce God when she whis- keth her tail;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मृ॒त्युर्हि॑ङ्कृण्व॒त्यु१॒॑ग्रो दे॒वः पुच्छं॑ प॒र्यस्य॑न्ती ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मृ॒त्युः। हि॒ङ्कृ॒ण्व॒ती। उ॒ग्रः। दे॒वः। पुच्छ॑म्। प॒रि॒ऽअस्य॑न्ती। ७.१०। 
+मृ॒त्युः। हि॒ङ्कृ॒ण्व॒ती। उ॒ग्रः। दे॒वः। पुच्छ॑म्। प॒रि॒ऽअस्य॑न्ती। ७.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1363,18 +1447,22 @@ Death is she when she loweth, and a fierce God when she whis- keth her tail;
 - साम्न्यनुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (हिङ्कृण्वती) [ब्रह्मचारी की] वृद्धि करती हुई (मृत्युः) [रोकनेवाले को] मृत्यु होती है, [उसकी] (पुच्छम्) भूल को (पर्यस्यन्ती) फेंक देती हुई वह (उग्रः) तेजस्वी (देवः) विजय चाहनेवाले [शूर के समान] होती है ॥२१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे-जैसे मनुष्य उग्र तप करके वेद का प्रकाश करते हैं, भूल करनेवाले पाखण्डियों का नाश होता जाता है ॥२१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २१−(मृत्युः) मरणं यथा (हिङ्कृण्वती) अ० ७।७३।८। हि गतिवृद्ध्योः−डि। गतिं वृद्धिं वा कुर्वती (उग्रः) प्रचण्डः (देवः) विजिगीषुर्यथा (पुच्छम्) पुच्छ प्रमादे प्रसादे च−अच्। प्रमादम् (पर्यस्यन्ती) सर्वतः क्षिपन्ती ॥
@@ -1389,14 +1477,6 @@ Death is she when she loweth, and a fierce God when she whis- keth her tail;
 स᳙र्वज्यानिः᳓ क᳓र्णौ वरीवर्ज᳓यन्ती राजयक्ष्मो᳓ मे᳓हन्ती ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/22_sarvajyAniH_karNau.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स॑र्वज्या॒निः कर्णौ॑ वरीव॒र्जय॑न्ती राजय॒क्ष्मो मेह॑न्ती ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/22_sarvajyAniH_karNau.md">
 <details open><summary><h3>२२ सर्वज्यानिः कर्णौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1409,14 +1489,22 @@ urinating.
 The Anukr. does not heed that the verse has one syllable too many for a  
 regular *sāmnī bṛhatī*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Utter destruction when she moveth her ears this way and that, Consumption when she droppeth water;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑र्वज्या॒निः कर्णौ॑ वरीव॒र्जय॑न्ती राजय॒क्ष्मो मेह॑न्ती ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒र्व॒ऽज्या॒निः। कर्णौ॑। व॒री॒व॒र्जय॑न्ती। रा॒ज॒ऽय॒क्ष्मः। मेह॑न्ती। ७.११। 
+स॒र्व॒ऽज्या॒निः। कर्णौ॑। व॒री॒व॒र्जय॑न्ती। रा॒ज॒ऽय॒क्ष्मः। मेह॑न्ती। ७.११।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1424,18 +1512,22 @@ Utter destruction when she moveth her ears this way and that, Consumption when s
 - साम्नी बृहती
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मेहन्ती) [विद्वानों को] सींचती हुई और [वेदविरोधक के] (कर्णौ) दो विज्ञानों [अभ्युदय और निःश्रेयस अर्थात् तत्त्वज्ञान और मोक्षज्ञान] को (वरीवर्जयन्ती) सर्वथा रोकती हुई [वेदवाणी] [उसके लिये] (सर्वज्यानिः) सब हानि करनेवाले (राजयक्ष्मः) राजरोग [के समान] होती है ॥२२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जब संसार में वेदों का विज्ञान बढ़ता है, तब पाखण्ड मत नष्ट हो जाता है, जैसे उपाय न करने पर राजरोग से रोगी का नाश हो जाता है ॥२२॥  इस मन्त्र का मिलान−अथर्व० १२।४।६। से करो ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २२−(सर्वज्यानिः) अ० ११।३।५५। वीज्याज्वरिभ्यो निः। उ० ४।४८। ज्या वयोहानौ−नि। सर्वहानिकरः (कर्णौ) अ० १२।४।६। कॄ विज्ञाने−न प्रत्ययो नित्। अभ्युदयनिःश्रेयसबोधौ (वरीवर्जयन्ती) वृजी वर्जने यङ्लुकि शतृ। भृशं वर्जयन्ती (राजयक्ष्मः) राजरोगः (मेहन्ती) सिञ्चती धार्मिकान् ॥
@@ -1450,14 +1542,6 @@ Utter destruction when she moveth her ears this way and that, Consumption when s
 मेनि᳓र्दुह्य᳓माना शीर्षक्ति᳓र्दुग्धा᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/23_menirduhyamAnA_shIrShaktirdugdhA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मे॒निर्दु॒ह्यमा॑ना शीर्ष॒क्तिर्दु॒ग्धा ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/23_menirduhyamAnA_shIrShaktirdugdhA.md">
 <details open><summary><h3>२३ मेनिर्दुह्यमाना शीर्षक्तिर्दुग्धा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1467,14 +1551,22 @@ Utter destruction when she moveth her ears this way and that, Consumption when s
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 A missile when milking, pain in the head when milked;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मे॒निर्दु॒ह्यमा॑ना शीर्ष॒क्तिर्दु॒ग्धा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मे॒निः। दु॒ह्यमा॑ना। शी॒र्ष॒क्तिः। दु॒ग्धा। ७.१२। 
+मे॒निः। दु॒ह्यमा॑ना। शी॒र्ष॒क्तिः। दु॒ग्धा। ७.१२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1482,18 +1574,22 @@ A missile when milking, pain in the head when milked;
 - याजुषी त्रिष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (दुह्यमाना) [विद्वानों कर के] दुही जाती हुई [वेदनिरोधक को] (मेनिः) वज्ररूप और (दुग्धा) दुही गयी वह (शीर्षक्तिः) [उसको] मस्तक पीड़ा होती है ॥२३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे-जैसे लोग अभ्यास करके वेदविद्या का प्रचार करते हैं, वैसे-वैसे ही वेदनिरोधक लोग संकट में पड़ते हैं ॥२३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २३−(मेनिः) म० १६। वज्रः (दुह्यमाना) दोहेन गृह्यमाणा (शीर्षक्तिः) अ० १।१२।३। शीर्ष+अञ्चु गतिपूजनयोः−क्तिन्। मस्तकपीडा (दुग्धा) दोहेन प्राप्ता ॥
@@ -1508,14 +1604,6 @@ A missile when milking, pain in the head when milked;
 सेदि᳓रुपति᳓ष्ठन्ती मिथोयोधः᳓ प᳓रामृष्टा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/24_sedirupatiShThantI_mithoyodhaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-से॒दिरु॑प॒तिष्ठ॑न्ती मिथोयो॒धः परा॑मृष्टा ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/24_sedirupatiShThantI_mithoyodhaH.md">
 <details open><summary><h3>२४ सेदिरुपतिष्ठन्ती मिथोयोधः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1526,14 +1614,22 @@ A missile when milking, pain in the head when milked;
 ##### Notes
 *Párāmṛṣṭā* might also come from root *mṛj* and mean 'rubbed off.'
 </details>
+
 <details><summary>Griffith</summary>
 
 The taking away of strength when she approacheth, a hand-to- hand fighter when roughly touched;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+से॒दिरु॑प॒तिष्ठ॑न्ती मिथोयो॒धः परा॑मृष्टा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-से॒दिः। उ॒प॒ऽतिष्ठ॑न्ती। मि॒थः॒ऽयो॒धः। परा॑ऽसृष्टा। ७.१३। 
+से॒दिः। उ॒प॒ऽतिष्ठ॑न्ती। मि॒थः॒ऽयो॒धः। परा॑ऽसृष्टा। ७.१३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1541,18 +1637,22 @@ The taking away of strength when she approacheth, a hand-to- hand fighter when r
 - आसुरी गायत्री
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (उपतिष्ठन्ती) [विद्वानों के] समीप ठहरती हुई [वेदनिरोधक को] (सेदिः) महामारी आदि क्लेश, और (परामृष्टा) [विद्वानों से] परामर्श की गयी [विचारी गयी] वह (मिथोयोधः) [दुष्टों में] परस्पर संग्रामरूप होती है ॥२४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  पक्षपातरहित न्यायकारिणी वेदविद्या की प्रवृत्ति से दुराचारी लोग महाक्लेश पाते हैं ॥२४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २४−(सेदिः) अ० २।१४।३। षद्लृ विशरणगत्यवसादनेषु−कि। निर्ऋतिः। विषादः (उपतिष्ठन्ती) विदुषां समीपे वर्तमाना (मिथोयोधः) युध संप्रहारे−घञ्। दुष्टानां परस्परयुद्धम् (परामृष्टा) मृश स्पर्शे, परापूर्वको विचारे−क्त। विचारिता विद्वद्भिः ॥
@@ -1565,14 +1665,6 @@ The taking away of strength when she approacheth, a hand-to- hand fighter when r
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श᳙रव्या᳙ मु᳓खेऽपिनह्य᳓मान ऋ᳓तिर्हन्य᳓माना ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/25_sharavyA_mukhe-pinahyamAna.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-श॑र॒व्या॒३॒॑ मुखे॑ऽपिन॒ह्यमा॑न॒ ऋति॑र्ह॒न्यमा॑ना ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/25_sharavyA_mukhe-pinahyamAna.md">
@@ -1592,14 +1684,22 @@ being slain.
 The *pada*-text has *api॰nahyámāne*, and two or three of our  
 *saṁhitā*-mss. (P.M.O.p.m.K.R.) retain the *e* before *ṛ́tir*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Wounding like an arrow when she is fastened by her mouth, contention when she is beaten;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+श॑र॒व्या॒३॒॑ मुखे॑ऽपिन॒ह्यमा॑न॒ ऋति॑र्ह॒न्यमा॑ना ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श॒र॒व्या᳡। मुखे॑। अ॒पि॒ऽन॒ह्यमा॑ने। ऋतिः॑। ह॒न्यमा॑नाः। ७.१४। 
+श॒र॒व्या᳡। मुखे॑। अ॒पि॒ऽन॒ह्यमा॑ने। ऋतिः॑। ह॒न्यमा॑नाः। ७.१४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1607,18 +1707,22 @@ Wounding like an arrow when she is fastened by her mouth, contention when she is
 - साम्न्यनुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मुखे अपिनह्यमाने) मुख बाँधे जाने पर वह [वेदवाणी] [वेदनिरोधक के लिये] (शरव्या) बाणविद्या में चतुर सेना [के समान] और (हन्यमाना) ताड़ी जाती हुई वह (ऋतिः) आपत्तिरूप होती है ॥२५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वानों को वेदवाणी के प्रचार से रोकनेवाले पुरुष अज्ञान के कारण विपत्तियाँ झेलते हैं ॥२५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २५−(शरव्या) अ० ३।१९।८। शरु−यत्। शरौ वाणविद्यायां कुशला सेना (मुखे) (अपिनह्यमाने) अपवध्यमाने (ऋतिः) ऋ हिंसायाम्−क्तिन्। निर्ऋतिः। आपत्तिः (हन्यमाना) ताड्यमाना ॥
@@ -1633,14 +1737,6 @@ Wounding like an arrow when she is fastened by her mouth, contention when she is
 अघ᳓विषा निप᳓तन्ती त᳓मो नि᳓पतिता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/26_aghaviShA_nipatantI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒घवि॑षा नि॒पत॑न्ती॒ तमो॒ निप॑तिता ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/26_aghaviShA_nipatantI.md">
 <details open><summary><h3>२६ अघविषा निपतन्ती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1650,14 +1746,22 @@ Wounding like an arrow when she is fastened by her mouth, contention when she is
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Fearfully venomous when falling, darkness when she hath fallen down.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒घवि॑षा नि॒पत॑न्ती॒ तमो॒ निप॑तिता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒घऽवि॑षा। नि॒ऽपत॑न्ती। तमः॑। निऽप॑तिता। ७.१५। 
+अ॒घऽवि॑षा। नि॒ऽपत॑न्ती। तमः॑। निऽप॑तिता। ७.१५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1665,18 +1769,22 @@ Fearfully venomous when falling, darkness when she hath fallen down.
 - साम्न्युष्णिक्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (निपतन्ती) नीचे गिरती हुई वह [वेदवाणी] (अघविषा) [वेदनिरोधक को] महाघोर विषैली और (निपतिता) नीचे गिरी हुई वह (तमः) [उस को] अन्धकार होती है ॥२६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदवाणी के गुणों का अपमान करनेवाला मूर्खता के कारण घोर नरक में पड़ता है ॥२६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २६−(अघविषा) म० १२। महाघोरविषयुक्ता यथा (निपतन्ती) अधोगच्छन्ती (तमः) अन्धकारः (निपतिता) अधोगता ॥
@@ -1689,14 +1797,6 @@ Fearfully venomous when falling, darkness when she hath fallen down.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ᳙नुग᳓च्छन्ती प्राणा᳓नु᳓प दासयति ब्रह्मगवी᳓ ब्रह्मज्य᳓स्य ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/27_anugachChantI_prANAnupa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॑नु॒गच्छ॑न्ती प्रा॒णानुप॑ दासयति ब्रह्मग॒वी ब्र॑ह्म॒ज्यस्य॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/27_anugachChantI_prANAnupa.md">
@@ -1713,14 +1813,22 @@ Brahman-scather.
 sāmnī bṛhatī; 35. bhurik sāmny anuṣṭubh; 36. sāmny uṣṇih; 38. pratiṣṭhā  
 gāyatrī.*\]
 </details>
+
 <details><summary>Griffith</summary>
 
 Following him, the Brahman's cow extinguisheth the vital breath of the injurer of the Brahman.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑नु॒गच्छ॑न्ती प्रा॒णानुप॑ दासयति ब्रह्मग॒वी ब्र॑ह्म॒ज्यस्य॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒नु॒ऽगच्छ॑न्ती। प्रा॒णान्। उप॑। दा॒स॒य॒ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यस्य॑। ७.१६। 
+अ॒नु॒ऽगच्छ॑न्ती। प्रा॒णान्। उप॑। दा॒स॒य॒ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यस्य॑। ७.१६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1728,18 +1836,22 @@ Following him, the Brahman's cow extinguisheth the vital breath of the injurer o
 - आर्च्युष्णिक्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अनुगच्छन्ती) निरन्तर चलती हुई (ब्रह्मगवी) वेदवाणी (ब्रह्मज्यस्य) ब्रह्मचारियों के हानिकारक के (प्राणान्) प्राणों को (उप दासयति) दबोच डालती है ॥२७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदों के निरन्तर अभ्यासी पुरुष वेदविरोधियों को अवश्य हराते हैं ॥२७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २७−(अनुगच्छन्ती) अनुसरन्ती (प्राणान्) जीवनसाधनानि (उप दासयति) सर्वथा नाशयति (ब्रह्मगवी) म० ५। वेदवाणी (ब्रह्मज्यस्य) म० १५। ब्रह्मचारिणां हानिकरस्य ॥
@@ -1752,14 +1864,6 @@ Following him, the Brahman's cow extinguisheth the vital breath of the injurer o
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वै᳓रं विकृत्य᳓माना पौ᳓त्राद्यं विभाज्य᳓माना ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/28_vairaM_vikRtyamAnA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वैरं॑ विकृ॒त्यमा॑ना॒ पौत्रा॑द्यं विभा॒ज्यमा॑ना ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/28_vairaM_vikRtyamAnA.md">
@@ -1776,14 +1880,22 @@ in most mss. to distinguish *dy* and *gh*, that the reading *pāútrāgham*
 (cf. *pāútram aghám*, xii. 3. 14), which Pet. Lex. conjectures as an  
 emendation, might possibly be intended here.
 </details>
+
 <details><summary>Griffith</summary>
 
 Hostility when being cut to pieces, woe to children when the portions are distributed,
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वैरं॑ विकृ॒त्यमा॑ना॒ पौत्रा॑द्यं विभा॒ज्यमा॑ना ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वैर॑म्। वि॒ऽकृ॒त्यमा॑ना। पौत्र॑ऽआद्यम्। वि॒ऽभा॒ज्यमा॑ना। ८.१। 
+वैर॑म्। वि॒ऽकृ॒त्यमा॑ना। पौत्र॑ऽआद्यम्। वि॒ऽभा॒ज्यमा॑ना। ८.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1791,18 +1903,22 @@ Hostility when being cut to pieces, woe to children when the portions are distri
 - आसुरी गायत्री
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (विकृत्यमाना) कतरी जाती हुई [वेदनिन्दक के लिये] (वैरम्) वैर [शत्रुतारूप], और (विभाज्यमाना) टुकड़े-टुकड़े की जाती हुई [उसके] (पौत्राद्यम्) पुत्र आदि सन्तानों का भक्षण [नाशरूप] होती है ॥२८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो लोग कुमति के कारण वेदों के उत्तम गुणों को नष्ट-भ्रष्ट करते हैं, तत्त्वज्ञानी पुरुष उनके शत्रु बन जाते हैं और उनके सन्तान भी दुराचारी होकर नष्ट हो जाते हैं ॥२८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २८−(वैरम्) वि विरोधे+ईर गतौ−क, वीर-अण्। विरोधः (विकृत्यमाना) विच्छिद्यमाना (पौत्राद्यम्) पौत्र+अद भक्षणे-ण्यत्। पुत्रादिभक्षणम्। सन्ताननाशनम् (विभाज्यमाना) विभागेन गृह्यमाणा ॥
@@ -1815,14 +1931,6 @@ Hostility when being cut to pieces, woe to children when the portions are distri
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे᳙वहेति᳓र्ह्रिय᳓माणा व्यृ᳙द्धिर्हृता᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/29_devahetirhriyamANA_vyRddhirhRtA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-दे॑वहे॒तिर्ह्रि॒यमा॑णा॒ व्यृ᳡द्धिर्हृ॒ता ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/29_devahetirhriyamANA_vyRddhirhRtA.md">
@@ -1840,14 +1948,22 @@ necessary to make the awkward renderings with 'being,' to distinguish
 present participle from past. The definition of the Anukr. implies the  
 resolution *ví-ṛd-*.
 </details>
+
 <details><summary>Griffith</summary>
 
 A destructive missile of Gods when she is being seized, misfortune when carried away;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॑वहे॒तिर्ह्रि॒यमा॑णा॒ व्यृ᳡द्धिर्हृ॒ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒व॒ऽहे॒तिः। ह्रि॒यमा॑णा। विऽऋ॑ध्दिः। हृ॒ता। ८.२। 
+दे॒व॒ऽहे॒तिः। ह्रि॒यमा॑णा। विऽऋ॑ध्दिः। हृ॒ता। ८.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1855,18 +1971,22 @@ A destructive missile of Gods when she is being seized, misfortune when carried 
 - आसुर्यनुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (ह्रियमाणा) पकड़ी जाती हुई [वेदनिन्दक के लिये] (देवहेतिः) इन्द्रियों का हनन, और (हृता) पकड़ी गयी (व्यृद्धिः) [उस को] अवृद्धि [हानिरूप] होती है ॥२९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य वेदज्ञानियों को पकड़कर कष्ट देते हैं, वे दुर्बलेन्द्रिय अपनी इष्ट कामनाएँ पूरी नहीं कर सकते ॥२९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २९−(देवहेतिः) इन्द्रियाणां हननम् (ह्रियमाणा) गृह्यमाणा (व्यृद्धिः) अवृद्धिः। हानिः (हृता) गृहीता ॥
@@ -1881,14 +2001,6 @@ A destructive missile of Gods when she is being seized, misfortune when carried 
 पाप्मा᳓धिधीय᳓माना पा᳓रुष्यमवधीय᳓माना ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/30_pApmAdhidhIyamAnA_pAruShyamavadhIyamAnA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-पा॒प्माधि॑धी॒यमा॑ना॒ पारु॑ष्यमवधी॒यमा॑ना ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/30_pApmAdhidhIyamAnA_pAruShyamavadhIyamAnA.md">
 <details open><summary><h3>३० पाप्माधिधीयमाना पारुष्यमवधीयमाना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1898,14 +2010,22 @@ A destructive missile of Gods when she is being seized, misfortune when carried 
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Misery while being additionally acquired, contumely and abuse while being put in the stall;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पा॒प्माधि॑धी॒यमा॑ना॒ पारु॑ष्यमवधी॒यमा॑ना ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पा॒प्मा। अ॒धि॒ऽधी॒यमा॑ना। पारु॑ष्यम्। अ॒व॒ऽधीयमा॑ना। ९.३। 
+पा॒प्मा। अ॒धि॒ऽधी॒यमा॑ना। पारु॑ष्यम्। अ॒व॒ऽधीयमा॑ना। ९.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1913,18 +2033,22 @@ Misery while being additionally acquired, contumely and abuse while being put in
 - साम्न्यनुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (अधिधीयमाना) उठायी जाती हुई [वेदविरोधी के लिये] (पाप्मा) अनर्थ, और (अवधीयमाना) गिरायी जाती हुई (पारुष्यम्) [उसको] निठुराई [क्रूरतारूप] होती है ॥३०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  क्रूर वेदनिरोधक लोग अपना अनर्थ करके संसार का भी अनर्थ करते हैं ॥३०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३०−(पाप्मा) पापम्। अनर्थः (अधिधीयमाना) ऊर्ध्वं ध्रियमाणा (पारुष्यम्) नैष्ठुर्य्यम् (अवधीयमाना) अधोध्रियमाणा ॥
@@ -1939,14 +2063,6 @@ Misery while being additionally acquired, contumely and abuse while being put in
 विषं᳓ प्रय᳓स्यन्ती तक्मा᳓ प्र᳓यस्ता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/31_viShaM_prayasyantI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वि॒षं प्र॒यस्य॑न्ती त॒क्मा प्रय॑स्ता ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/31_viShaM_prayasyantI.md">
 <details open><summary><h3>३१ विषं प्रयस्यन्ती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -1959,14 +2075,22 @@ All the mss. read *práyastā*, but Bp. has *pra॰yáṅchaṅtī*, Bs.
 *-yachantī*, emended to *-yasy-*, P.M.W. *-yásyaṅchaṅtī* (M. emended to  
 *-yasy-* ⌊?⌋).
 </details>
+
 <details><summary>Griffith</summary>
 
 Poison when in agitation, fever when seasoned with condi- ments;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒षं प्र॒यस्य॑न्ती त॒क्मा प्रय॑स्ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒षम्। प्र॒ऽयस्य॑न्ती। त॒क्मा। प्रऽय॑स्ता। ८.४। 
+वि॒षम्। प्र॒ऽयस्य॑न्ती। त॒क्मा। प्रऽय॑स्ता। ८.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -1974,18 +2098,22 @@ Poison when in agitation, fever when seasoned with condi- ments;
 - याजुषी त्रिष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (प्रयस्यन्ती) क्लेश में पड़ती हुई [वेदविरोधी को] (विषम्) विष, और (प्रयस्ता) क्लेश में डाली गयी (तक्मा) जीवन के कष्टदायक [ज्वररूप] होती है ॥३१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  तपस्वी वेदानुगामियों का दुःखदायी पुरुष अज्ञान बढ़ाकर घोर नरक में पड़ता है ॥३१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३१−(विषम्) (प्रयस्यन्ती) प्रयासं क्लेशं सहमाना (तक्मा) अ० १।२५।१। कृच्छ्रजीवनकारी ज्वरो यथा (प्रयस्ता) आयासं क्लेशं प्राप्ता ॥
@@ -2000,14 +2128,6 @@ Poison when in agitation, fever when seasoned with condi- ments;
 अघं᳓ पच्य᳓माना दुःष्व᳓प्न्यं पक्वा᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/32_aghaM_pachyamAnA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒घं प॒च्यमा॑ना दुः॒ष्वप्न्यं॑ प॒क्वा ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/32_aghaM_pachyamAnA.md">
 <details open><summary><h3>३२ अघं पच्यमाना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2018,14 +2138,22 @@ Poison when in agitation, fever when seasoned with condi- ments;
 ##### Notes
 The description of the Anukr. implies the resolution *-pni-am*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Sin while she is cooking, evil dream when she is cooked;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒घं प॒च्यमा॑ना दुः॒ष्वप्न्यं॑ प॒क्वा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒घम्। प॒च्यमा॑ना। दुः॒ऽस्वप्न्य॑म्। प॒क्वा। ८.५। 
+अ॒घम्। प॒च्यमा॑ना। दुः॒ऽस्वप्न्य॑म्। प॒क्वा। ८.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2033,18 +2161,22 @@ Sin while she is cooking, evil dream when she is cooked;
 - साम्नी गायत्री
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (पच्यमाना) पचायी जाती हुई [वेदनिरोधक को] (अघम्) महा दुःख, और (पक्वा) पचायी गयी (दुःष्वप्न्यम्) दुष्ट स्वप्न होती है ॥३२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदविद्या का नाश करनेवाला अधर्मी होकर दिन-राति व्याकुल रहता है ॥३२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३२−(अघम्) महादुःखम् (पच्यमाना) पाकं नाशं गम्यमाना (दुःष्वप्न्यम्) दुष्टः स्वप्नः (पक्वा) पाकं नाशं गता ॥
@@ -2057,14 +2189,6 @@ Sin while she is cooking, evil dream when she is cooked;
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मू᳙लब᳓र्हणी पर्याक्रिय᳓माणा क्षि᳓तिः पर्या᳓कृता ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/33_mUlabarhaNI_paryAkriyamANA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मू॑ल॒बर्ह॑णी पर्याक्रि॒यमा॑णा॒ क्षितिः॑ प॒र्याकृ॑ता ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/33_mUlabarhaNI_paryAkriyamANA.md">
@@ -2080,14 +2204,22 @@ The participles are rendered according to the Pet. Lexx. The Anukr.
 expects us to resolve *pari-ā-* once, but not both times. Bp. reads  
 *-ākrīyá-*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Uprooting when she is being turned round, destruction when she hath been turned round;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मू॑ल॒बर्ह॑णी पर्याक्रि॒यमा॑णा॒ क्षितिः॑ प॒र्याकृ॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मू॒ल॒ऽबर्ह॑णी। प॒रि॒ऽआ॒क्रि॒यमा॑णा। क्षितिः॑। प॒रि॒ऽआकृ॑ता। ८.६। 
+मू॒ल॒ऽबर्ह॑णी। प॒रि॒ऽआ॒क्रि॒यमा॑णा। क्षितिः॑। प॒रि॒ऽआकृ॑ता। ८.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2095,18 +2227,22 @@ Uprooting when she is being turned round, destruction when she hath been turned 
 - साम्नी बृहती
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (पर्याक्रियमाणा) अनादर से रूपान्तर की जाती हुई [वेदनिरोधक के लिये] (मूलबर्हणी) जड़ उखाड़ देनेवाली शक्ति, और (पर्याकृता) अनादर से रूपान्तर की गयी (क्षितिः) नाश शक्ति है ॥३३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदनिन्दक पुरुष अनर्थकर्मी होने से आप ही अपना शत्रु हो जाता है ॥३३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३३−(मूलबर्हणी) बर्ह हिंसायाम्−ल्युट्, ङीप्। मूलनाशिका (पर्याक्रियमाणा) आङ्पूर्वकः डुकृञ् वेषान्तरकरणे। परि अनादरेण रूपान्तरं क्रियमाणा (क्षितः) हानिः (पर्याकृता) अनादरेण रूपान्तरं कृता ॥
@@ -2119,14 +2255,6 @@ Uprooting when she is being turned round, destruction when she hath been turned 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ᳓संज्ञा गन्धे᳓न शु᳓गुद्ध्रिय᳓माणाशीविष᳓ उ᳓द्धृता ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/34_asanjnA_gandhena.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-असं॑ज्ञा ग॒न्धेन॒ शुगु॑द्ध्रि॒यमा॑णाशीवि॒ष उद्धृ॑ता ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/34_asanjnA_gandhena.md">
@@ -2142,14 +2270,22 @@ The *pada*-text leaves both participles undivided, as prescribed by
 Prāt. iv. 62. 'Taken up,' doubtless in preparation for being served up  
 as food. Bp. reads *udhrīyá-*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Discord by her smell, grief when she is being eviscerated: ser- pent with poison in its fang when drawn;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+असं॑ज्ञा ग॒न्धेन॒ शुगु॑द्ध्रि॒यमा॑णाशीवि॒ष उद्धृ॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अस॑म्ऽज्ञा। ग॒न्धेन॑। शुक्। उ॒ध्द्रि॒यमा॑णा। आ॒शी॒वि॒षः। उध्दृ॑ता। ८.७। 
+अस॑म्ऽज्ञा। ग॒न्धेन॑। शुक्। उ॒ध्द्रि॒यमा॑णा। आ॒शी॒वि॒षः। उध्दृ॑ता। ८.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2157,18 +2293,22 @@ Discord by her smell, grief when she is being eviscerated: ser- pent with poison
 - साम्नी बृहती
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (गन्धेन) [वेदवाणी के] नाश से (असंज्ञा) असंगति [संसार में फूट] होती है, वह (उद्ध्रियमाणा) उखाड़ी जाती हुई (शुक्) शोक और (उद्धृता) उखाड़ी गयी (आशीविषः) फण में विषवाले [साँप के समान] है ॥३४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदविद्या के नाश से संसार में फूट पड़कर बड़े-बड़े क्लेश होते हैं ॥३४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३४−(असंज्ञा) असङ्गतिः। भेदः (गन्धेन) गन्ध अर्दने−अच्। नाशेन (शुक्) शोकः। (उद्ध्रियमाणा) उत्पाट्यमाना (आशीविषः) आङ्+अश भोजने−अच्, ङीप्। आश्यां फणे विषं यस्य सः। महाविषयुक्तः सर्पः (उद्धृता) उत्पाटिता ॥
@@ -2183,14 +2323,6 @@ Discord by her smell, grief when she is being eviscerated: ser- pent with poison
 अ᳓भूतिरुपह्रिय᳓माणा प᳓राभूतिरु᳓पहृता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/35_abhUtirupahriyamANA_parAbhUtirupahRtA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अभू॑तिरुपह्रि॒यमा॑णा॒ परा॑भूति॒रुप॑हृता ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/35_abhUtirupahriyamANA_parAbhUtirupahRtA.md">
 <details open><summary><h3>३५ अभूतिरुपह्रियमाणा पराभूतिरुपहृता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2203,14 +2335,22 @@ The mss. again fluctuate between *-hriyá-*, *-hrīyá-*, *-hiyá-*, and, at
 the end, between *-hṛtā*, *-hatā* (P.M.p.m.W.), and *-hūtā*. (D.). The  
 Anukr. notices this time that the verse is *bhurij*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Loss of power while sacrificially presented, humiliation when she hath been offered;
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अभू॑तिरुपह्रि॒यमा॑णा॒ परा॑भूति॒रुप॑हृता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अभू॑तिः। उ॒प॒ऽह्रि॒यमा॑णा। परा॑ऽभूतिः। उप॑ऽहृता। ८.८। 
+अभू॑तिः। उ॒प॒ऽह्रि॒यमा॑णा। परा॑ऽभूतिः। उप॑ऽहृता। ८.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2218,18 +2358,22 @@ Loss of power while sacrificially presented, humiliation when she hath been offe
 - भुरिक्साम्न्यनुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (उपह्रियमाणा) छीनी जाती हुई [वेदनिरोधक के लिये] (अभूतिः) अनैश्वर्य [असमर्थता], और (उपहृता) छीन ली गयी (पराभूतिः) पराजय [हार] होती है ॥३५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अत्याचारी पुरुष वेदविद्या के रोकने से हार ही पाता है ॥३५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३५−(अभूतिः) अनैश्वर्यम् (उपह्रियमाणा) अपहरणं गम्यमाना (पराभूतिः) पराजयः (उपहृता) अपहरणं गता ॥
@@ -2244,14 +2388,6 @@ Loss of power while sacrificially presented, humiliation when she hath been offe
 शर्वः᳓ क्रुद्धः᳓ पिश्य᳓माना शि᳓मिदा पिशिता᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/36_sharvaH_kruddhaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-श॒र्वः क्रु॒द्धः पि॒श्यमा॑ना॒ शिमि॑दा पिशि॒ता ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/36_sharvaH_kruddhaH.md">
 <details open><summary><h3>३६ शर्वः क्रुद्धः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2261,14 +2397,22 @@ Loss of power while sacrificially presented, humiliation when she hath been offe
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Wrathful Sarva while being carved. Simida when cut up:
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+श॒र्वः क्रु॒द्धः पि॒श्यमा॑ना॒ शिमि॑दा पिशि॒ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श॒र्वः। क्रु॒ध्दः। पि॒श्यमा॑ना। शिमि॑दा। पि॒शि॒ता। ८.९। 
+श॒र्वः। क्रु॒ध्दः। पि॒श्यमा॑ना। शिमि॑दा। पि॒शि॒ता। ८.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2276,18 +2420,22 @@ Wrathful Sarva while being carved. Simida when cut up:
 - साम्न्युष्णिक्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  यह [वेदवाणी] (पिश्यमाना) खण्ड-खण्ड की जाती हुई [वेदनिन्दक के लिये] (क्रुद्धः) क्रोध करते हुए (शर्वः) हिंसक [पुरुष के समान], और (पिशिता) खण्ड-खण्ड की गयी (शिमिदा) विहित कर्म नाश करनेवाली होती है ॥३६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  नास्तिक जन वेद का खण्डन करने के कारण आत्महिंसक और सत्कर्मनाशक हो जाता है ॥३६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३६−(शर्वः) शॄ हिंसायाम्−व प्रत्ययः। हिंसकः पुरुषः (क्रुद्धः) कुपितः (पिश्यमाना) पिश अवयवे। अवयवीक्रियमाणा (शिमिदा) शमु उपशमे−इन् वा ङीप्+दाप् लवने−क, टाप्। विहितकर्मनाशिका। शिमीति कर्मनाम शमयतेर्वा शक्नोतेर्वा−निरु० ५।१२। (पिशिता) अवयवीकृता ॥
@@ -2302,14 +2450,6 @@ Wrathful Sarva while being carved. Simida when cut up:
 अ᳓वर्तिरश्य᳓माना नि᳓रृतिरशिता᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/37_avartirashyamAnA_nirRtirashitA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अव॑र्तिर॒श्यमा॑ना॒ निरृ॑तिरशि॒ता ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/37_avartirashyamAnA_nirRtirashitA.md">
 <details open><summary><h3>३७ अवर्तिरश्यमाना निरृतिरशिता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2319,14 +2459,22 @@ Wrathful Sarva while being carved. Simida when cut up:
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Poverty while she is being eaten. Destruction when eaten.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अव॑र्तिर॒श्यमा॑ना॒ निरृ॑तिरशि॒ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अव॑र्तिः। अ॒श्यमा॑ना। निःऽऋ॑तिः। अ॒शि॒ता। ८.१०। 
+अव॑र्तिः। अ॒श्यमा॑ना। निःऽऋ॑तिः। अ॒शि॒ता। ८.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2334,18 +2482,22 @@ Poverty while she is being eaten. Destruction when eaten.
 - आसुर्यनुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (अश्यमाना) खायी जाती हुई [वेदनिन्दक के लिये] (अवर्तिः) निर्धनता, और (अशिता) खायी गयी (निर्ऋतिः) महामारी होती है ॥३७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अन्यायी लोग वेदविद्या के नाश करने से निर्धनी होकर महाकष्ट भोगते हैं ॥३७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३७−(अवर्तिः) अ० ९।२।३। निर्जीविका (अश्यमाना) भक्ष्यमाणा (निर्ऋतिः) अ० ३।११।२। कृच्छ्रापत्तिः−निरु० २।७। (अशिता) भक्षिता ॥
@@ -2358,14 +2510,6 @@ Poverty while she is being eaten. Destruction when eaten.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ᳙शिता᳓ लोका᳓च्छिनत्ति ब्रह्मगवी᳓ ब्रह्मज्य᳓मस्मा᳓च्चामु᳓ष्माच्च ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/38_ashitA_lokAchChinatti.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॑शि॒ता लो॒काच्छि॑नत्ति ब्रह्मग॒वी ब्र॑ह्म॒ज्यम॒स्माच्चा॒मुष्मा॑च्च ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/38_ashitA_lokAchChinatti.md">
@@ -2388,14 +2532,22 @@ of the Anukr. is ambiguous.
 bhurih sāmny anuṣṭubh; 42. āsurī bṛhatī; 43. sāmnī bṛhatī; 44.  
 *pipīlikamadhyā ’nuṣṭubh;* 45. *ārcī bṛhatī*.\]
 </details>
+
 <details><summary>Griffith</summary>
 
 The Brahman's cow when eaten cuts off the injurer of Brahmans both from this world and from the world yonder.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑शि॒ता लो॒काच्छि॑नत्ति ब्रह्मग॒वी ब्र॑ह्म॒ज्यम॒स्माच्चा॒मुष्मा॑च्च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒शि॒ता। लो॒कात्। छि॒न॒त्ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यम्। अ॒स्मात्। च॒। अ॒मुष्मा॑त्। च॒। ८.११। 
+अ॒शि॒ता। लो॒कात्। छि॒न॒त्ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यम्। अ॒स्मात्। च॒। अ॒मुष्मा॑त्। च॒। ८.११।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2403,18 +2555,22 @@ The Brahman's cow when eaten cuts off the injurer of Brahmans both from this wor
 - प्रतिष्ठा गायत्री
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अशिता) खायी गयी (ब्रह्मगवी) वेदवाणी (ब्रह्मज्यम्) ब्रह्मचारियों के हानिकारक को (अस्मात् लोकात्) इस लोक से (च) और (अमुष्मात्) उस [लोक] से (च) भी (छिनत्ति) काट डालती है ॥३८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य ब्रह्मचारियों पर अत्याचार करके वेदविरुद्ध चलता है, उसके यह लोक और परलोक दोनों बिगड़ जाते हैं ॥३८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३८−(अशिता) भक्षिता। नाशिता (लोकात्) जन्मनः (छिनत्ति) भिनत्ति। नाशयति (ब्रह्मगवी) म० ५। वेदवाणी (ब्रह्मज्यम्) म० १५। ब्रह्मचारिणां हानिकरम् (अस्मात्) प्रत्यक्षात् (च) (अमुष्मात्) परस्मात् (च) ॥
@@ -2429,14 +2585,6 @@ The Brahman's cow when eaten cuts off the injurer of Brahmans both from this wor
 त᳓स्या आह᳓ननं कृत्या᳓ मेनि᳓राश᳓सनं वलग᳓ ऊ᳓बध्यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/39_tasyA_Ahananam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-तस्या॑ आ॒हन॑नं कृ॒त्या मे॒निरा॒शस॑नं वल॒ग ऊब॑ध्यम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/39_tasyA_Ahananam.md">
 <details open><summary><h3>३९ तस्या आहननम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2449,14 +2597,22 @@ weapon (*mení*), the contents of her bowels a secret charm.
 All of these, of course, understood as directed against the offender.  
 Ppp. combines *tasyā ”han-*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Her slaughter is the sin of witchcraft, her cutting-up is a thunder- bolt, her undigested grass is a secret spell.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्या॑ आ॒हन॑नं कृ॒त्या मे॒निरा॒शस॑नं वल॒ग ऊब॑ध्यम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्याः॑। आ॒ऽहन॑नम्। कृ॒त्या। मे॒निः। आ॒ऽशस॑नम्। व॒ल॒गः। ऊब॑ध्यम्। ९.१। 
+तस्याः॑। आ॒ऽहन॑नम्। कृ॒त्या। मे॒निः। आ॒ऽशस॑नम्। व॒ल॒गः। ऊब॑ध्यम्। ९.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2464,18 +2620,22 @@ Her slaughter is the sin of witchcraft, her cutting-up is a thunder- bolt, her u
 - साम्नी पङ्क्तिः
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तस्याः) उस [वेदवाणी] का (आहननम्) ताड़ना [वेदनिन्दक के लिये] (कृत्या) हिंसा क्रिया, (आशसनम्) [उसको] पीड़ा देना (मेनिः) [उसके लिये] वज्र, और [ऊबध्यम्] [उसका] दुष्ट बन्धक (वलगः) [उसके लिये] दुःख है ॥३९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदनिन्दक लोग अपने कुस्वभाव और कुव्यवहार के कारण दुःख भोगते हैं ॥३९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३९−(तस्याः) ब्रह्मगव्याः (आहननम्) समन्तात्ताडनम् (कृत्या) म० १२। हिंसाक्रिया (मेनिः) वज्रः (आशसनम्) शसु हिंसायाम्−ल्युट्। सर्वथा हिंसनम् (वलगः) अ० ५।३१।४। मुदिग्रोर्गग्गौ। उ० १।१२८। बल वधे−ग प्रत्ययः, अकारागमः। वधः (ऊबध्यम्) अ० ९।४।१६। दुर्+बध संयमने=बन्धने−यत्, दुर् इत्यस्य स्थाने ऊत्त्वम्। दुर्बन्धनम् ॥
@@ -2490,14 +2650,6 @@ Her slaughter is the sin of witchcraft, her cutting-up is a thunder- bolt, her u
 अ᳙स्वग᳓ता प᳓रिह्णुता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/40_asvagatA_parihNutA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॑स्व॒गता॒ परि॑ह्णुता ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/40_asvagatA_parihNutA.md">
 <details open><summary><h3>४० अस्वगता परिह्णुता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2509,14 +2661,22 @@ Her slaughter is the sin of witchcraft, her cutting-up is a thunder- bolt, her u
 The Pet. Lexx. conjecture *pari-hnu* (not found elsewhere) to mean  
 'disavow, disown.'
 </details>
+
 <details><summary>Griffith</summary>
 
 Homelessness is she when denied her rights.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑स्व॒गता॒ परि॑ह्णुता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒स्व॒गता॑। परि॑ऽह्नुता। ९.२। 
+अ॒स्व॒गता॑। परि॑ऽह्नुता। ९.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2524,18 +2684,22 @@ Homelessness is she when denied her rights.
 - याजुष्यनुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (परिह्रुता) चुरा ली गयी [वेदवाणी] (अस्वगता) [वेदनिरोधक के लिये] निर्धनतारूप है ॥४०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे चिता की प्रज्वलित अग्नि प्रवेश करके मृतक शरीर को भस्म कर देती है, वैसे ही वेदविरोधी अपने दुष्ट गुणों के कारण निर्धनी होकर अपने आप धूलि में मिल जाता है ॥४०, ४१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४०, ४१−(अस्वगता) स्वं धनम्। अस्व+गम−ड, भावे तल्, टाप्। अस्वं निर्धनत्वं गच्छतीति अस्वगस्तस्य भावः। निर्धनता (परिह्णुता) ह्रुङ् अपनयने=चौर्ये−क्त। चोरिता (अग्निः) प्रत्यक्षः पावकः (क्रव्यात्) मांसभक्षकः। शवदाहकः (भूत्वा) (ब्रह्मगवी) म० ५। वेदवाणी (ब्रह्मज्यम्) म० १५। ब्रह्मचारिणां हानिकरम् (प्रविश्य) (अत्ति) खादति ॥
@@ -2550,14 +2714,6 @@ Homelessness is she when denied her rights.
 अग्निः᳓ क्रव्या᳓द्भूत्वा᳓ ब्रह्मगवी᳓ ब्रह्मज्यं᳓ प्रवि᳓श्यात्ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/41_agniH_kravyAdbhUtvA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒ग्निः क्र॒व्याद्भू॒त्वा ब्र॑ह्मग॒वी ब्र॑ह्म॒ज्यं प्र॒विश्या॑त्ति ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/41_agniH_kravyAdbhUtvA.md">
 <details open><summary><h3>४१ अग्निः क्रव्याद्भूत्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2568,14 +2724,22 @@ the Brahman-scather, eats him.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Having become Flesh-eating Agni the Brahman's cow entereth into and devoureth the oppressor of Brahmans.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्निः क्र॒व्याद्भू॒त्वा ब्र॑ह्मग॒वी ब्र॑ह्म॒ज्यं प्र॒विश्या॑त्ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। क्र॒व्य॒ऽअत्। भू॒त्वा। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यम्‌। प्र॒ऽविश्य॑। अ॒त्ति॒। ९.३। 
+अ॒ग्निः। क्र॒व्य॒ऽअत्। भू॒त्वा। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यम्‌। प्र॒ऽविश्य॑। अ॒त्ति॒। ९.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2583,18 +2747,22 @@ Having become Flesh-eating Agni the Brahman's cow entereth into and devoureth th
 - भुरिक्साम्न्यनुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ब्रह्मगवी) वेदवाणी (क्रव्यात्) मांसभक्षक [मृतकदाहक] (अग्निः) अग्नि [समान] (भूत्वा) होकर (ब्रह्मज्यम्) ब्रह्मचारियों के हानिकारक में (प्रविश्य) प्रवेश करके (अत्ति) खा लेती है ॥४१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे चिता की प्रज्वलित अग्नि प्रवेश करके मृतक शरीर को भस्म कर देती है, वैसे ही वेदविरोधी अपने दुष्ट गुणों के कारण निर्धनी होकर अपने आप धूलि में मिल जाता है ॥४०, ४१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४०, ४१−(अस्वगता) स्वं धनम्। अस्व+गम−ड, भावे तल्, टाप्। अस्वं निर्धनत्वं गच्छतीति अस्वगस्तस्य भावः। निर्धनता (परिह्णुता) ह्रुङ् अपनयने=चौर्ये−क्त। चोरिता (अग्निः) प्रत्यक्षः पावकः (क्रव्यात्) मांसभक्षकः। शवदाहकः (भूत्वा) (ब्रह्मगवी) म० ५। वेदवाणी (ब्रह्मज्यम्) म० १५। ब्रह्मचारिणां हानिकरम् (प्रविश्य) (अत्ति) खादति ॥
@@ -2609,14 +2777,6 @@ Having become Flesh-eating Agni the Brahman's cow entereth into and devoureth th
 स᳓र्वास्या᳓ङ्गा प᳓र्वा मू᳓लानि वृश्चति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/42_sarvAsyAngA_parvA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सर्वा॒स्याङ्गा॒ पर्वा॒ मूला॑नि वृश्चति ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/42_sarvAsyAngA_parvA.md">
 <details open><summary><h3>४२ सर्वास्याङ्गा पर्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2626,14 +2786,22 @@ Having become Flesh-eating Agni the Brahman's cow entereth into and devoureth th
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 She sunders all his members, joints, and roots.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वा॒स्याङ्गा॒ पर्वा॒ मूला॑नि वृश्चति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वा॑। अ॒स्य॒। अङ्गा॑। पर्वा॑। मूला॑नि। वृ॒श्च॒ति॒। ९.४। 
+सर्वा॑। अ॒स्य॒। अङ्गा॑। पर्वा॑। मूला॑नि। वृ॒श्च॒ति॒। ९.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2641,18 +2809,22 @@ She sunders all his members, joints, and roots.
 - आसुरी बृहती
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [चुरा ली गयी वेदवाणी−म० ४०] (अस्य) इस [वेदनिन्दक के] (सर्वा) सब (अङ्गा) अङ्गों को, (पर्वा) जोड़ों को और (मूलानि) जड़ों को (वृश्चति) काट देती है ॥४२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदनिन्दक के सब भीतरी और बाहिरी उपयोगी व्यवहार नष्ट हो जाते हैं और वैदिक मर्यादा भङ्ग होने से सब सम्बन्धी लोग उस के बिगड़ बैठते हैं ॥४२, ४३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४२, ४३−(सर्वा) सर्वाणि (अस्य) ब्रह्मजस्य (अङ्गा) अङ्गानि (पर्वा) पर्वाणि। ग्रन्थीन् (मूलानि) (वृश्चति) (छिनत्ति) (अस्य) ब्रह्मज्यस्य (पितृबन्धु) पैतृकसम्बन्धनम् (पराभावयति) पराजयति (मातृबन्धु) मातृकसम्बन्धनम् ॥
@@ -2667,14 +2839,6 @@ She sunders all his members, joints, and roots.
 छिन᳓त्त्यस्य पितृबन्धु᳓ प᳓रा भावयति मातृबन्धु᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/43_Chinattyasya_pitRbandhu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-छि॒नत्त्य॑स्य पितृब॒न्धु परा॑ भावयति मातृब॒न्धु ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/43_Chinattyasya_pitRbandhu.md">
 <details open><summary><h3>४३ छिनत्त्यस्य पितृबन्धु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -2685,14 +2849,22 @@ maternal connection.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 She cuts off relationship on the father's side and destroys mater- nal kinship.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+छि॒नत्त्य॑स्य पितृब॒न्धु परा॑ भावयति मातृब॒न्धु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-छि॒नत्ति॑। अ॒स्य॒। पि॒तृ॒ऽब॒न्धु। परा॑। भा॒व॒य॒ति॒। मा॒तृ॒ऽब॒न्धु। ९.५। 
+छि॒नत्ति॑। अ॒स्य॒। पि॒तृ॒ऽब॒न्धु। परा॑। भा॒व॒य॒ति॒। मा॒तृ॒ऽब॒न्धु। ९.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2700,18 +2872,22 @@ She cuts off relationship on the father's side and destroys mater- nal kinship.
 - साम्नी बृहती
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह (अस्य) इसके (पितृबन्धु) पैतृक सम्बन्ध को (छिनत्ति) काट देती है और [इसके] (मातृबन्धु) मातृक सम्बन्ध को (पराभावयति) विध्वंस कर देती है ॥४३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदनिन्दक के सब भीतरी और बाहिरी उपयोगी व्यवहार नष्ट हो जाते हैं और वैदिक मर्यादा भङ्ग होने से सब सम्बन्धी लोग उस के बिगड़ बैठते हैं ॥४२, ४३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४२, ४३−(सर्वा) सर्वाणि (अस्य) ब्रह्मजस्य (अङ्गा) अङ्गानि (पर्वा) पर्वाणि। ग्रन्थीन् (मूलानि) (वृश्चति) (छिनत्ति) (अस्य) ब्रह्मज्यस्य (पितृबन्धु) पैतृकसम्बन्धनम् (पराभावयति) पराजयति (मातृबन्धु) मातृकसम्बन्धनम् ॥
@@ -2724,14 +2900,6 @@ She cuts off relationship on the father's side and destroys mater- nal kinship.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि᳙वाहां᳓ ज्ञाती᳓न्त्स᳓र्वान᳓पि क्षापयति ब्रह्मगवी᳓ ब्रह्मज्य᳓स्य क्षत्रि᳓येणा᳓पुनर्दीयमाना ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/44_vivAhAM_jnAtIntsarvAnapi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वि॑वा॒हां ज्ञा॒तीन्त्सर्वा॒नपि॑ क्षापयति ब्रह्मग॒वी ब्र॑ह्म॒ज्यस्य॑ क्ष॒त्रिये॒णापु॑नर्दीयमाना ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/44_vivAhAM_jnAtIntsarvAnapi.md">
@@ -2747,14 +2915,22 @@ Some of our mss. (O.D.T.R.) accent *-dīyámānā*, although part of them
 (O.T.R.) have accented *-tríyeṇā́ ’pun-*. The description of the passage  
 (7 + 6: 8 + 10 = 31) by the Anukr. is very strange, and valueless.
 </details>
+
 <details><summary>Griffith</summary>
 
 The Brahman's cow, not restored by a Kshatriya, ruins the marriages and all the kinsmen of the Brahman's oppressor.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॑वा॒हां ज्ञा॒तीन्त्सर्वा॒नपि॑ क्षापयति ब्रह्मग॒वी ब्र॑ह्म॒ज्यस्य॑ क्ष॒त्रिये॒णापु॑नर्दीयमाना ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒ऽवा॒हान्। ज्ञा॒तीन्। सर्वा॑न्। अपि॑। क्षा॒प॒य॒ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यस्य॑। क्ष॒त्रिये॑ण। अपु॑नःऽदीयमाना। ९.६। 
+वि॒ऽवा॒हान्। ज्ञा॒तीन्। सर्वा॑न्। अपि॑। क्षा॒प॒य॒ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यस्य॑। क्ष॒त्रिये॑ण। अपु॑नःऽदीयमाना। ९.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2762,18 +2938,22 @@ The Brahman's cow, not restored by a Kshatriya, ruins the marriages and all the 
 - पिपीलिकमध्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (क्षत्रियेण) क्षत्रिय करके (अपुनर्दीयमाना) फिर नहीं दी गयी (ब्रह्मगवी) वेदवाणी (ब्रह्मज्यस्य) ब्रह्मचारियों के हानिकारक के (सर्वान्) सब (विवाहान्) विवाहों और (ज्ञातीन्) भाई-बन्धुओं को (अपि) भी (क्षापयति) नाश करती है ॥४४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो पुरुष वेदविद्या को रोककर विद्वानों की हानि करता है, वह गृहाश्रम से गिरकर अपने भाई-बन्धुओं को भी नष्ट कर देता है ॥४४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४४−(विवाहान्) विवाहसंस्कारान् (ज्ञातीन्) बान्धवान् (सर्वान्) (अपि) एव (क्षापयति) क्षै क्षये−णिच्। नाशयति (ब्रह्मगवी) म० ५। वेदवाणी (ब्रह्मज्यस्य) म० १५। ब्रह्मचारिणां हानिकरस्य (क्षत्रियेण) राजन्येन (अपुनर्दीयमाना) न पुनर्दीयमाना ॥
@@ -2786,14 +2966,6 @@ The Brahman's cow, not restored by a Kshatriya, ruins the marriages and all the 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ᳙वास्तु᳓मेनम᳓स्वगम᳓प्रजसं करोत्यपरापरणो᳓ भवति क्षीय᳓ते ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/45_avAstumenamasvagamaprajasaM_karotyaparAparaNo.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॑वा॒स्तुमे॑न॒मस्व॑ग॒मप्र॑जसं करोत्यपरापर॒णो भ॑वति क्षी॒यते॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/45_avAstumenamasvagamaprajasaM_karotyaparAparaNo.md">
@@ -2809,14 +2981,22 @@ The translation of *aparā॰paraṇá* (so the *pada*-text) is according to
 the conjecture of the Pet. Lexx. The metrical definition of the Anukr.  
 implies reading *karoti ap-*.
 </details>
+
 <details><summary>Griffith</summary>
 
 She makes him houseless, homeless, childless: he is extinguished without posterity to succeed him.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑वा॒स्तुमे॑न॒मस्व॑ग॒मप्र॑जसं करोत्यपरापर॒णो भ॑वति क्षी॒यते॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒वा॒स्तुम्। ए॒न॒म्। अस्व॑गम्। अप्र॑जसम्। क॒रो॒ति॒। अ॒प॒रा॒ऽप॒र॒णः। भ॒व॒ति॒। क्षी॒यते॑। ९.७। 
+अ॒वा॒स्तुम्। ए॒न॒म्। अस्व॑गम्। अप्र॑जसम्। क॒रो॒ति॒। अ॒प॒रा॒ऽप॒र॒णः। भ॒व॒ति॒। क्षी॒यते॑। ९.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2824,18 +3004,22 @@ She makes him houseless, homeless, childless: he is extinguished without posteri
 - आर्ची बृहती
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (एनम्) उस [क्षत्रिय] को (अवास्तुम्) विना घर का, (अस्वगम्) निर्धन और (अप्रजसम्) निर्वंशी (करोति) करती है, वह [मनुष्य] (अपरापरणः) प्राचीन और अर्वाचीन विना [पुराने और नवे पुरुष विना] (भवति) हो जाता है, और (क्षीयते) नाश को प्राप्त होता है ॥४५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो राजा विद्वान् ब्रह्मचारियों को सताकर वेदविद्या को रोकता है, वह अज्ञान बढ़ने से अपना सर्वस्व और वंश नाश करके आप भी नष्ट हो जाता है ॥४५, ४६॥  (अपरापरणः) के (अपरा−परणः) के पदपाठ के स्थान पर (अ+पर+अपर−नः) मानकर हम ने अर्थ किया है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४५, ४६−(अवास्तुम्) अगृहम् (एनम्) क्षत्रियम् (अस्वगम्) म० ४०। निर्धनम् (अप्रजसम्) अ० ९।२।३। अप्रजा−असिच्। असन्तानम् (करोति) (अपरापरणः) नञ्+पर+अपर−नः। लोमादिपामादि०। पा० ५।२।१००। इति बाहुलकाद् न प्रत्ययो मत्वर्थे। परं चापरं च द्वयोः समाहारः परापरम्, न तद्यस्यास्तीति अपरापरणः। प्राचीनार्वाचीनपुरुषरहितः (भवति) (क्षीयते) क्षियति। नश्यति (यः) (एवम्) अनेन प्रकारेण (विदुषः) जानतः (ब्राह्मणस्य) ब्रह्मचारिणः (क्षत्रियः) (गाम्) वेदवाणीम् (आदत्ते) गृह्णाति ॥
@@ -2848,14 +3032,6 @@ She makes him houseless, homeless, childless: he is extinguished without posteri
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓ एवं᳓ विदु᳓षो ब्राह्मण᳓स्य क्षत्रि᳓यो गा᳓मादत्ते᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/46_ya_evam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-य ए॒वं वि॒दुषो॑ ब्राह्म॒णस्य॑ क्ष॒त्रियो॒ गामा॑द॒त्ते ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/46_ya_evam.md">
@@ -2871,14 +3047,22 @@ thus.
 ’nuṣṭubh; 48. ārṣy anuṣṭubh; 50. sāmnī bṛhatī; 54, 55. prājāpatyo ‘ṣṇih;  
 56. āsurī gāyatrī; 60. gāyatrī.*\]
 </details>
+
 <details><summary>Griffith</summary>
 
 So shall it be with the Kshatriya who takes to himself the cow of the Braman who hath this knowledge.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+य ए॒वं वि॒दुषो॑ ब्राह्म॒णस्य॑ क्ष॒त्रियो॒ गामा॑द॒त्ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। ए॒वम्। वि॒दुषः॑। ब्रा॒ह्म॒णस्य॑। क्ष॒त्रियः॑। गाम्। आ॒ऽद॒त्ते। ९.८। 
+यः। ए॒वम्। वि॒दुषः॑। ब्रा॒ह्म॒णस्य॑। क्ष॒त्रियः॑। गाम्। आ॒ऽद॒त्ते। ९.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2886,18 +3070,22 @@ So shall it be with the Kshatriya who takes to himself the cow of the Braman who
 - भुरिक्साम्न्यनुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः क्षत्रियः) जो क्षत्रिय (एवम्) ऐसे (विदुषः) जानकार (ब्राह्मणस्य) ब्रह्मचारी की [हितकारिणी] (गाम्) वेदवाणी को (आदत्ते) छीन लेता है ॥४६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो राजा विद्वान् ब्रह्मचारियों को सताकर वेदविद्या को रोकता है, वह अज्ञान बढ़ने से अपना सर्वस्व और वंश नाश करके आप भी नष्ट हो जाता है ॥४५, ४६॥  (अपरापरणः) के (अपरा−परणः) के पदपाठ के स्थान पर (अ+पर+अपर−नः) मानकर हम ने अर्थ किया है ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४५, ४६−(अवास्तुम्) अगृहम् (एनम्) क्षत्रियम् (अस्वगम्) म० ४०। निर्धनम् (अप्रजसम्) अ० ९।२।३। अप्रजा−असिच्। असन्तानम् (करोति) (अपरापरणः) नञ्+पर+अपर−नः। लोमादिपामादि०। पा० ५।२।१००। इति बाहुलकाद् न प्रत्ययो मत्वर्थे। परं चापरं च द्वयोः समाहारः परापरम्, न तद्यस्यास्तीति अपरापरणः। प्राचीनार्वाचीनपुरुषरहितः (भवति) (क्षीयते) क्षियति। नश्यति (यः) (एवम्) अनेन प्रकारेण (विदुषः) जानतः (ब्राह्मणस्य) ब्रह्मचारिणः (क्षत्रियः) (गाम्) वेदवाणीम् (आदत्ते) गृह्णाति ॥
@@ -2910,14 +3098,6 @@ So shall it be with the Kshatriya who takes to himself the cow of the Braman who
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्षिप्रं᳓ वै᳓ त᳓स्याह᳓नने गृ᳓ध्राः कुर्वत ऐलब᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/47_xipraM_vai.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-क्षि॒प्रं वै तस्या॒हन॑ने॒ गृध्राः॑ कुर्वत ऐल॒बम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/47_xipraM_vai.md">
@@ -2934,14 +3114,22 @@ is as follows: *ādyā skandhogrīvīs tvayā pramūrṇam* ⌊vs. 61⌋
 *prājāpatyānuṣṭubhaḥ*. All the verses not of this measure are regularly  
 described. Ludwig translates this whole section ⌊and the next⌋, p. 529.
 </details>
+
 <details><summary>Griffith</summary>
 
 Quickly, when he is smitten down by death, the clamorous vul- tures cry:
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षि॒प्रं वै तस्या॒हन॑ने॒ गृध्राः॑ कुर्वत ऐल॒बम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्षि॒प्रम्। वै। तस्य॑। आ॒ऽहन॑ने। गृध्राः॑। कु॒र्व॒ते॒। ऐ॒ल॒बम्। १०.१। 
+क्षि॒प्रम्। वै। तस्य॑। आ॒ऽहन॑ने। गृध्राः॑। कु॒र्व॒ते॒। ऐ॒ल॒बम्। १०.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -2949,18 +3137,22 @@ Quickly, when he is smitten down by death, the clamorous vul- tures cry:
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (क्षिप्रम्) शीघ्र (वै) निश्चय करके (तस्य) उस [वेदनिन्दक] के (आहनने) मार डालने पर (गृध्राः) गिद्ध आदि (ऐलबम्) कलकल शब्द (कुर्वते) करते हैं ॥४७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदनिन्दक पुरुष ऐसे बे-ठिकाने संग्राम आदि में मारे जाते हैं कि उनकी लोथों को गिद्ध आदि चींथ-चींथ कर खाते हैं ॥४७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४७−(क्षिप्रम्) शीघ्रम् (वै) एव (तस्य) ब्रह्मज्यस्य (आहनने) मारणे (गृध्राः) मांसभक्षकाः पक्षिविशेषाः (कुर्वते) (ऐलबम्) अ० ११।२।३०। इल स्वप्नक्षेपणयोः−घञ्। आङ्+एल+बण शब्दे−ड। आक्षेपध्वनिम् ॥
@@ -2973,14 +3165,6 @@ Quickly, when he is smitten down by death, the clamorous vul- tures cry:
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्षिप्रं᳓ वै᳓ त᳓स्याद᳓हनं प᳓रि नृत्यन्ति केशि᳓नीराघ्नानाः᳓ पाणि᳓नो᳓रसि कुर्वाणाः᳓ पाप᳓मैलब᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/48_xipraM_vai.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-क्षि॒प्रं वै तस्या॒दह॑नं॒ परि॑ नृत्यन्ति के॒शिनी॑राघ्ना॒नाः पा॒णिनोर॑सि कुर्वा॒णाः पा॒पमै॑ल॒बम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/48_xipraM_vai.md">
@@ -3002,14 +3186,22 @@ Ppp. again reads *āilavam*. Prāt. iii. 92 notes the non-lingualization
 of *nṛt* after *pari*. ⌊Bloomfield discusses the vs., AJP. xi. 339 or  
 JAOS. xv., p. xlv.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Quickly around his funeral fire dance women with dishevelled locks, Striking the hand upon the breast and uttering their evil shriek.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षि॒प्रं वै तस्या॒दह॑नं॒ परि॑ नृत्यन्ति के॒शिनी॑राघ्ना॒नाः पा॒णिनोर॑सि कुर्वा॒णाः पा॒पमै॑ल॒बम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। आ॒ऽदह॑नम्। परि॑। नृ॒त्य॒न्ति॒। के॒शिनीः॑। आ॒ऽघ्ना॒नाः। पा॒णिना॑। उर॑सि। कु॒र्वा॒णाः। पा॒पम्। ऐ॒ल॒बम्। १०.२। 
+तस्य॑। आ॒ऽदह॑नम्। परि॑। नृ॒त्य॒न्ति॒। के॒शिनीः॑। आ॒ऽघ्ना॒नाः। पा॒णिना॑। उर॑सि। कु॒र्वा॒णाः। पा॒पम्। ऐ॒ल॒बम्। १०.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3017,18 +3209,22 @@ Quickly around his funeral fire dance women with dishevelled locks, Striking the
 - आर्ष्यनुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (क्षिप्रम्) शीघ्र (वै) निश्चय करके (तस्य) उस [वेदनिन्दक] के (आदहनं परि) दाह स्थान के आस-पास (केशिनीः) लम्बे केशोंवाली स्त्रियाँ (पाणिना) हाथ से (उरसि) छाती (आघ्नानाः) पीटती हुईं और (पापम्) अशुभ (ऐलबम्) विलाप ध्वनि (कुर्वाणाः) करती हुईं (नृत्यन्ति) डोलती हैं ॥४८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जब वेदनिन्दक पुरुष खोटे कर्मों के कारण क्लेश के साथ मृत्यु पाता है, तब स्त्री आदि उसके सब कुटुम्बी क्लेश में पड़ते हैं ॥४८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४८−(क्षिप्रम्) (वै) एव (तस्य) वेदनिन्दकस्य (आदहनम्) भस्मीकरणस्थानम् (परि) प्रति (नृत्यन्ति) इतस्ततो विचरन्ति (केशिनीः) दीर्घकेशवत्यः (आघ्नानाः) हन हिंसागत्योः−चानश्। ताडयन्त्यः (पाणिना) हस्तेन (उरसि) वक्षसि (कुर्वाणाः) कुर्वत्यः (पापम्) अशुभम् (ऐलबम्) म० ४७। विलापध्वनिम् ॥
@@ -3043,14 +3239,6 @@ Quickly around his funeral fire dance women with dishevelled locks, Striking the
 क्षिप्रं᳓ वै᳓ त᳓स्य वा᳓स्तुषु वृ᳓काः कुर्वत ऐलब᳓म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/49_xipraM_vai.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-क्षि॒प्रं वै तस्य॒ वास्तु॑षु॒ वृकाः॑ कुर्वत ऐल॒बम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/49_xipraM_vai.md">
 <details open><summary><h3>४९ क्षिप्रं वै ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3061,14 +3249,22 @@ Quickly around his funeral fire dance women with dishevelled locks, Striking the
 ##### Notes
 Ppp. reads, after *vāstuṣu*, *gan̄gānaṁ kurvate ‘pa vṛṣāt*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Quickly the wolves are howling in the habitation where he lived:
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षि॒प्रं वै तस्य॒ वास्तु॑षु॒ वृकाः॑ कुर्वत ऐल॒बम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। वास्तु॑षु। वृकाः॑। कु॒र्व॒ते॒। ऐ॒ल॒बम्। १०.३। 
+तस्य॑। वास्तु॑षु। वृकाः॑। कु॒र्व॒ते॒। ऐ॒ल॒बम्। १०.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3076,18 +3272,22 @@ Quickly the wolves are howling in the habitation where he lived:
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (क्षिप्रम्) शीघ्र (वै) निश्चय करके (तस्य) उस [वेदनिन्दक] के (वास्तुषु) घरों में (वृकाः) भेड़िये आदि (ऐलबम्) कलकल शब्द (कुर्वते) करते हैं ॥४९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  कुकर्म के कारण वेदविरोधियों की बस्तियाँ ऊजड़ हो जाती हैं और वहाँ जंगली जन्तु बसने लगते हैं ॥४९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४९−(वास्तुषु) निवासेषु (वृकाः) हिंस्राः पशवः (ऐलबम्) म० ४७। आक्रोशम्। अन्यत् पूर्ववत्−म० ४७ ॥
@@ -3100,14 +3300,6 @@ Quickly the wolves are howling in the habitation where he lived:
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्षिप्रं᳓ वै᳓ त᳓स्य पृच्छन्ति य᳓त्त᳓दा᳓सी३दिदं᳓ नु᳓ ता᳓३दि᳓ति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/50_xipraM_vai.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-क्षि॒प्रं वै तस्य॑ पृच्छन्ति॒ यत्तदासी॑३दि॒दं नु ता३दिति॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/50_xipraM_vai.md">
@@ -3125,14 +3317,22 @@ Ludwig translates as if that were the reading. O.D.R. accent *ā́sī́3d*, as
 is the rule in the Brāhmaṇas. Ppp. reads, after *pṛchanti*, *etad āsīd  
 ataṁ nu dā*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Quickly they ask about him, What is this? What thing hath happened here?
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षि॒प्रं वै तस्य॑ पृच्छन्ति॒ यत्तदासी॑३दि॒दं नु ता३दिति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्षि॒प्रम्। वै। तस्य॑। पृ॒च्छ॒न्ति॒। यत्। तत्। आसी॑३त्। इ॒दम्। नु। ता३त्। इति॑। १,४। 
+क्षि॒प्रम्। वै। तस्य॑। पृ॒च्छ॒न्ति॒। यत्। तत्। आसी॑३त्। इ॒दम्। नु। ता३त्। इति॑। १,४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3140,18 +3340,22 @@ Quickly they ask about him, What is this? What thing hath happened here?
 - साम्नी बृहती
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (क्षिप्रम्) शीघ्र (वै) निश्चय करके (तस्य) उस [वेदनिन्दक] के विषय में (पृच्छन्ति) लोग पूँछते हैं−“(नु) क्या (इदम्) यह [स्थान] (ता३त् इति) वही है, (यत्) जो (तत्) वह (आसी३त्) [पहिले] था ॥५०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जब वेदनिन्दक क्षणिक वृद्धि पाकर खोटे कर्मों से नष्ट हो जाता है, जिज्ञासु लोग उसका कारण खोजकर सत्य धर्म में दृढ़ होते हैं ॥५०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५०−(क्षिप्रम्) (वै) (तस्य) (पृच्छन्ति) जिज्ञासन्ते (यत्) स्थानम् (तत्) (आसी३त्) प्लुतरूपम्। भूतकाले वर्तमानमभवत् (इदम्) प्रत्यक्षम् (नु) प्रश्ने (ता३त्) प्लुतरूपम्। तदेव (इति) वाक्यसमाप्तौ ॥
@@ -3166,14 +3370,6 @@ Quickly they ask about him, What is this? What thing hath happened here?
 छिन्ध्या᳓ च्छिन्धि प्र᳓ च्छिन्ध्य᳓पि क्षापय क्षाप᳓य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/51_ChindhyA_chChindhi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-छि॒न्ध्या च्छि॑न्धि॒ प्र च्छि॒न्ध्यपि॑ क्षापय क्षा॒पय॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/51_ChindhyA_chChindhi.md">
 <details open><summary><h3>५१ छिन्ध्या च्छिन्धि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3183,14 +3379,22 @@ Quickly they ask about him, What is this? What thing hath happened here?
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Rend, rend to pieces, rend away, destroy, destroy him utterly.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+छि॒न्ध्या च्छि॑न्धि॒ प्र च्छि॒न्ध्यपि॑ क्षापय क्षा॒पय॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-छि॒न्धि॒। आ। छि॒न्धि॒। प्र। छि॒न्धि॒। अपि॑। क्षा॒प॒य॒। क्षा॒पय॑। १०.५। 
+छि॒न्धि॒। आ। छि॒न्धि॒। प्र। छि॒न्धि॒। अपि॑। क्षा॒प॒य॒। क्षा॒पय॑। १०.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3198,18 +3402,22 @@ Rend, rend to pieces, rend away, destroy, destroy him utterly.
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (छिन्धि) तू काट, (आ च्छिन्धि) काटे जा, (प्र च्छिन्धि) काट डाल, (क्षापय) नाश कर, (अपि क्षापय) विनाश कर ॥५१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो जितेन्द्रिय वेदज्ञानी पुरुष निरन्तर प्रयत्न करते रहते हैं, वे वेदविरुद्ध दोषों और शत्रुओं को नाश कर सकते हैं ॥५१, ५२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५१, ५२−(छिन्धि) भिन्धि (आ) समन्तात् (छिन्धि) (प्र) प्रकर्षेण (छिन्धि) (अपि) एव (क्षापय) म० ४४। नाशय (क्षापय)। (आददानम्। त्वां हरन्तम् (आङ्गिरसि) अ० ८।५।९। तेन प्रोक्तम्। पा० ४।३।१०१। अङ्गिरस्−अण्, ङीप्। हे अङ्गिरसा महाविदुषा परमेश्वरेणोपदिष्टे (ब्रह्मज्यम्) म० १५। ब्रह्मचारिणां हानिकरम् (उप दासय) आक्रमेण गृहाण ॥
@@ -3224,14 +3432,6 @@ Rend, rend to pieces, rend away, destroy, destroy him utterly.
 आद᳓दानमाङ्गिरसि ब्रह्मज्य᳓मु᳓प दासय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/52_AdadAnamAngirasi_brahmajyamupa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आ॒ददा॑नमाङ्गिरसि ब्रह्म॒ज्यमुप॑ दासय ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/52_AdadAnamAngirasi_brahmajyamupa.md">
 <details open><summary><h3>५२ आददानमाङ्गिरसि ब्रह्मज्यमुप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3243,14 +3443,22 @@ to himself \[the cow\].
 ##### Notes
 Ppp. reads *ādadhānam*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Destroy Angirasi! the wretch who robs and wrongs the Brah- mans, born.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॒ददा॑नमाङ्गिरसि ब्रह्म॒ज्यमुप॑ दासय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒ऽददा॑नम्। आ॒ङ्गि॒र॒सि॒। ब्र॒ह्म॒ऽज्यम्। उप॑। दा॒स॒य॒। १०.६। 
+आ॒ऽददा॑नम्। आ॒ङ्गि॒र॒सि॒। ब्र॒ह्म॒ऽज्यम्। उप॑। दा॒स॒य॒। १०.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3258,18 +3466,22 @@ Destroy Angirasi! the wretch who robs and wrongs the Brah- mans, born.
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (आङ्गिरसि) हे अङ्गिरा [परमज्ञानी परमेश्वर] से उपदेश की गयी [वेदवाणी !] (आददानम्) [तुझे] छीननेवाले (ब्रह्मज्यम्) ब्रह्मचारियों के हानिकारक पर (उप सादय) चढ़ाई कर ॥५२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो जितेन्द्रिय वेदज्ञानी पुरुष निरन्तर प्रयत्न करते रहते हैं, वे वेदविरुद्ध दोषों और शत्रुओं को नाश कर सकते हैं ॥५१, ५२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५१, ५२−(छिन्धि) भिन्धि (आ) समन्तात् (छिन्धि) (प्र) प्रकर्षेण (छिन्धि) (अपि) एव (क्षापय) म० ४४। नाशय (क्षापय)। (आददानम्। त्वां हरन्तम् (आङ्गिरसि) अ० ८।५।९। तेन प्रोक्तम्। पा० ४।३।१०१। अङ्गिरस्−अण्, ङीप्। हे अङ्गिरसा महाविदुषा परमेश्वरेणोपदिष्टे (ब्रह्मज्यम्) म० १५। ब्रह्मचारिणां हानिकरम् (उप दासय) आक्रमेण गृहाण ॥
@@ -3284,14 +3496,6 @@ Destroy Angirasi! the wretch who robs and wrongs the Brah- mans, born.
 वै᳙श्वदेवी᳓ ह्यु᳙च्य᳓से कृत्या᳓ कू᳓ल्बजमा᳓वृता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/53_vaishvadevI_hyuchyase.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वै॑श्वदे॒वी ह्यु१॒॑च्यसे॑ कृ॒त्या कूल्ब॑ज॒मावृ॑ता ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/53_vaishvadevI_hyuchyase.md">
 <details open><summary><h3>५३ वैश्वदेवी ह्युच्यसे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3303,14 +3507,22 @@ when covered.
 ##### Notes
 Cf. vs. 12 above. Ppp. reads (as there noted) *pūlyājām*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Of evil womb, thou witchcraft hid, for Vaisvadevi is thy name,
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वै॑श्वदे॒वी ह्यु१॒॑च्यसे॑ कृ॒त्या कूल्ब॑ज॒मावृ॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वै॒श्व॒ऽदे॒वी। हि। उ॒च्यसे॑। कृ॒त्या। कूल्ब॑जम्। आऽवृ॑ता। १०.७। 
+वै॒श्व॒ऽदे॒वी। हि। उ॒च्यसे॑। कृ॒त्या। कूल्ब॑जम्। आऽवृ॑ता। १०.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3318,18 +3530,22 @@ Of evil womb, thou witchcraft hid, for Vaisvadevi is thy name,
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (हि) क्योंकि (वैश्वदेवी) सब विद्वानों की हित करनेवाली तू [वेदनिन्दक के लिये] (कृत्या) हिंसारूप और (कूल्बजम्) भूमि पर दाह उपजानेवाली वस्तुरूप (उच्यसे) कही जाती है [जब कि तू] (आवृता) रोक दी गयी हो ॥५३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो विद्वान् वेदवाणी का सहारा लेते हैं, वे पाखण्डी उपद्रवियों के नाश करने में समर्थ होते हैं ॥५३॥ इस मन्त्र का मिलान ऊपर मन्त्र १२ से करो ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५३−(वैश्वदेवी) विश्वदेव−अण्, ङीप्। सर्वविदुषां हितकरी (हि) यस्मात् कारणात् (उच्यसे) कथ्यसे। शेषं गतम्−म० १२ ॥
@@ -3344,14 +3560,6 @@ Of evil womb, thou witchcraft hid, for Vaisvadevi is thy name,
 ओ᳓षन्ती समो᳓षन्ती ब्र᳓ह्मणो व᳓ज्रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/54_oShantI_samoShantI.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ओष॑न्ती स॒मोष॑न्ती॒ ब्रह्म॑णो॒ वज्रः॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/54_oShantI_samoShantI.md">
 <details open><summary><h3>५४ ओषन्ती समोषन्ती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3361,14 +3569,22 @@ Of evil womb, thou witchcraft hid, for Vaisvadevi is thy name,
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Consuming, burning all things up, the thunderbolt of spell and charm.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ओष॑न्ती स॒मोष॑न्ती॒ ब्रह्म॑णो॒ वज्रः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ओष॑न्ती। स॒म्ऽओष॑न्ती। ब्रह्म॑णः। वज्रः॑। १०.८। 
+ओष॑न्ती। स॒म्ऽओष॑न्ती। ब्रह्म॑णः। वज्रः॑। १०.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3376,18 +3592,22 @@ Consuming, burning all things up, the thunderbolt of spell and charm.
 - प्राजापत्योष्णिक्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ओषन्ती) जलाती हुई, (समोषन्ती) भस्म कर देती हुई, तू [वेदनिन्दक के लिये] (ब्रह्मणः) ब्रह्म [परमेश्वर] का (वज्रः) वज्ररूप है ॥५४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदानुयायी सत्यवीर पुरुष नास्तिकों का नाश करें ॥५४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५४−(ओषन्ती) उष दाहे−शतृ। दहन्ती (समोषन्ती) सम्यग्भस्मीकुर्वती (ब्रह्मणः) परमेश्वरस्य (वज्रः) शस्त्रं यथा ॥
@@ -3402,14 +3622,6 @@ Consuming, burning all things up, the thunderbolt of spell and charm.
 क्षुर᳓पविर्मृत्यु᳓र्भूत्वा᳓ वि᳓ धाव त्व᳓म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/55_xurapavirmRtyurbhUtvA_vi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-क्षु॒रप॑विर्मृ॒त्युर्भू॒त्वा वि धा॑व॒ त्वम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/55_xurapavirmRtyurbhUtvA_vi.md">
 <details open><summary><h3>५५ क्षुरपविर्मृत्युर्भूत्वा वि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3422,14 +3634,22 @@ Ppp. reads *vibhāvasuḥ* instead of *vi dhāva tvam;* the latter reading
 probably carries on the figure implied in *kṣurapavi*, which applies  
 especially to the armed wheels of a battle-chariot.
 </details>
+
 <details><summary>Griffith</summary>
 
 Go thou, becoming Mrityu sharp as razor's edge pursue thy course:
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षु॒रप॑विर्मृ॒त्युर्भू॒त्वा वि धा॑व॒ त्वम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्षु॒रऽप॑विः। मृ॒त्युः। भू॒त्वा। वि। धा॒व॒। त्वम्। १०.९। 
+क्षु॒रऽप॑विः। मृ॒त्युः। भू॒त्वा। वि। धा॒व॒। त्वम्। १०.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3437,18 +3657,22 @@ Go thou, becoming Mrityu sharp as razor's edge pursue thy course:
 - प्राजापत्योष्णिक्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे वेदवाणी !] (त्वम्) तू [वेदनिन्दक के लिये] (क्षुरपविः) छुरा [कटार आदि] की धार [समान], (मृत्युः) मृत्युरूप (भूत्वा) होकर (वि) इधर-उधर (धाव) दौड़ ॥५५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सत्य वैदिक धर्म के स्थापन में विद्वानों को सदा पूरा प्रयत्न करना चाहिये ॥५५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५५−(क्षुरपविः) म० २०। शस्त्रधारा यथा (मृत्युः) (भूत्वा) (वि) विविधम् (धाव) शीघ्रं गच्छ (त्वम्) ॥
@@ -3461,14 +3685,6 @@ Go thou, becoming Mrityu sharp as razor's edge pursue thy course:
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ᳓ दत्से जिनतां᳓ व᳓र्च इष्टं᳓ पूर्तं᳓ चाशि᳓षः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/56_A_datse.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आ द॑त्से जिन॒तां वर्च॑ इ॒ष्टं पू॒र्तं चा॒शिषः॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/56_A_datse.md">
@@ -3484,14 +3700,22 @@ and bestowal, their expectations.
 Anukr. would have done much better to accept the resolution *ca āś-*,  
 and reckon the verse as 16 syllables.
 </details>
+
 <details><summary>Griffith</summary>
 
 Thou bearest off the tyrants' strength, their store of merit, and their prayers.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ द॑त्से जिन॒तां वर्च॑ इ॒ष्टं पू॒र्तं चा॒शिषः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। द॒त्से॒। जि॒न॒ताम्। वर्चः॑। इ॒ष्टम्। पू॒र्तम्। च॒। आ॒ऽशिषः॑। १०.१०। 
+आ। द॒त्से॒। जि॒न॒ताम्। वर्चः॑। इ॒ष्टम्। पू॒र्तम्। च॒। आ॒ऽशिषः॑। १०.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3499,18 +3723,22 @@ Thou bearest off the tyrants' strength, their store of merit, and their prayers.
 - आसुरी गायत्री
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे वेदवाणी !] (जिनताम्) हानिकारकों का (वर्चः) तेज, (इष्टम्) यज्ञ [अग्निहोत्र, वेदाध्ययन, अतिथिसत्कार आदि] (पूर्तम्) पूर्णता [सर्वोपकारी कर्म कूप, तड़ाग, आराम, वाटिका आदि] (च) और (आशिषः) इच्छाओं को (आ दत्से) तू हर लेती है ॥५६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य वैदिक रीति से विरुद्ध चलकर अग्निहोत्र, वेदध्ययन आदि छल से करना चाहता है, उससे उसकी इष्टसिद्धि नहीं होती ॥५६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५६−(आ दत्से) हरसि (जिनताम्) ज्या वयोहानौ−शतृ। हानिकारकाणाम् (वर्चः) तेजः (इष्टम्) म० १०। अग्निहोत्रवेदाध्ययनातिथ्यादिकर्म (पूर्तम्) म० १०। पूर्णताम्। सर्वोपकारिकूपतडागारामवाटिकादिकर्म (च) (आशिषः) आङः शासु इच्छायाम्−क्विप्। क्विप्प्रत्यये तस्यापि भवतीति वक्तव्यम्। वा० पा० ६।४।३४। इति इत्वम्। हितप्रार्थनाः ॥
@@ -3525,14 +3753,6 @@ Thou bearest off the tyrants' strength, their store of merit, and their prayers.
 आदा᳓य जीतं᳓ जीता᳓य लोके᳙मु᳓ष्मिन्प्र᳓ यच्छसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/57_AdAya_jItam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-आ॒दाय॑ जी॒तं जी॒ताय॑ लो॒के३॒॑मुष्मि॒न्प्र य॑च्छसि ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/57_AdAya_jItam.md">
 <details open><summary><h3>५७ आदाय जीतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3543,14 +3763,22 @@ presentest \[it to him\] in yonder world.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Bearing off wrong, thou givest in that world to him who hath been wronged.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॒दाय॑ जी॒तं जी॒ताय॑ लो॒के३॒॑मुष्मि॒न्प्र य॑च्छसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒ऽदाय॑। जी॒तम्। जी॒ताय॑। लो॒के। अ॒मुष्मि॑न्। प्र। य॒च्छ॒सि॒। १०.११। 
+आ॒ऽदाय॑। जी॒तम्। जी॒ताय॑। लो॒के। अ॒मुष्मि॑न्। प्र। य॒च्छ॒सि॒। १०.११।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3558,18 +3786,22 @@ Bearing off wrong, thou givest in that world to him who hath been wronged.
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे वेदवाणी !] (जीतम्) हानिकारक पुरुष को (आदाय) लेकर (जीताय) हान किये गये पुरुष के वश में (अमुष्मिन् लोके) उस लोक में [आगामी समय वा जन्म में] (प्र यच्छसि) तू देती है ॥५७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो कोई वेदविरोधी वेदानुयायी को क्लेश देता है, वह परमेश्वरनियम से इस जन्म वा पर जन्म में उस सत्पुरुष के अधीन होता है, अर्थात् सत्य धर्म का सदा विजय होता है ॥५७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५७−(आदाय) गृहीत्वा (जीतम्) ज्या वयोहानौ कर्तरि−क्त, तकारस्य नत्वाभावः। हानिकर्तारम् (जीताय) कर्मणि−क्त। हानिं गताय पुरुषाय (लोके) संसारे जन्मनि वा (अमुष्मिन्) परस्मिन् (प्र यच्छसि) ददासि ॥
@@ -3584,14 +3816,6 @@ Bearing off wrong, thou givest in that world to him who hath been wronged.
 अ᳓घ्न्ये पदवी᳓र्भव ब्राह्मण᳓स्याभि᳓शस्त्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/58_aghnye_padavIrbhava.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अघ्न्ये॑ पद॒वीर्भ॑व ब्राह्म॒णस्या॒भिश॑स्त्या ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/58_aghnye_padavIrbhava.md">
 <details open><summary><h3>५८ अघ्न्ये पदवीर्भव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3604,14 +3828,22 @@ imprecation.
 The translation implies emendation of *abhíśastyā* to *-tyāḥ*. The verse  
 is wanting in Ppp.
 </details>
+
 <details><summary>Griffith</summary>
 
 O Cow, become a tracker through the curse the Brahman hath pronounced,
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अघ्न्ये॑ पद॒वीर्भ॑व ब्राह्म॒णस्या॒भिश॑स्त्या ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अघ्न्ये॑। प॒द॒ऽवीः। भ॒व॒। ब्रा॒ह्म॒णस्य॑। अ॒भिऽश॑स्त्या। १०.१२। 
+अघ्न्ये॑। प॒द॒ऽवीः। भ॒व॒। ब्रा॒ह्म॒णस्य॑। अ॒भिऽश॑स्त्या। १०.१२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3619,18 +3851,22 @@ O Cow, become a tracker through the curse the Brahman hath pronounced,
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अघ्न्ये) हे अवध्य ! [न मारने योग्य, प्रबल वेदवाणी] (अभिशस्त्या) सब ओर स्तुति के साथ (ब्राह्मणस्य) ब्रह्मचारी की (पदवीः) प्रतिष्ठा (भव) हो ॥५८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को चाहिये के जितेन्द्रिय ब्रह्मचारी होकर बलवती वेदवाणी को प्राप्त करके संसार में प्रतिष्ठित होवें ॥५८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५८−(अघ्न्ये) अ० ३।३०।१। नञ्+हन हिंसागत्योः−यक्। हे अहन्तव्ये प्रबले (पदवीः) पद+वी गतिव्याप्तिप्रजनादिषु−क्विप्। प्रतिष्ठा (भव) (ब्राह्मणस्य) ब्रह्मचारिणः (अभिशस्त्या) अभि+शंसु हिंसायां स्तुतौ कथने च−क्तिन्। सर्वतः स्तुत्या सह ॥
@@ -3645,14 +3881,6 @@ O Cow, become a tracker through the curse the Brahman hath pronounced,
 मेनिः᳓ शरव्या᳙ भवाघा᳓दघ᳓विषा भव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/59_meniH_sharavyA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मे॒निः श॑र॒व्या᳡ भवा॒घाद॒घवि॑षा भव ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/59_meniH_sharavyA.md">
 <details open><summary><h3>५९ मेनिः शरव्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3663,14 +3891,22 @@ from evil (*aghá*).
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Become a bolt, an arrow through his sin, be terribly venomous.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मे॒निः श॑र॒व्या᳡ भवा॒घाद॒घवि॑षा भव ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मे॒निः। श॒र॒व्या᳡। भ॒व॒। अ॒घात्। अ॒घऽवि॑षा। भ॒व॒। १०.१३। 
+मे॒निः। श॒र॒व्या᳡। भ॒व॒। अ॒घात्। अ॒घऽवि॑षा। भ॒व॒। १०.१३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3678,18 +3914,22 @@ Become a bolt, an arrow through his sin, be terribly venomous.
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे वेदवाणी !] तू [वेदनिन्दक के लिये] (मेनिः) वज्र, (शरव्या) वाणविद्या में चतुर सेना (भव) हो और (अघात्) [उसके] पाप के कारण से (अघविषा) महाघोर विषैली (भव) हो ॥५९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य अज्ञानी होकर वेदविरुद्ध कुकर्म करे, उसको विद्वान् लोग पूरा दण्ड देवें ॥५९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५९−(मेनिः) म० १६। वज्रः (शरव्या) म० २५। शरौ वाणविद्यायां कुशला सेना (भव) (अघविषा) म० १२। अतिशयेन विषमयी (भव) ॥
@@ -3704,14 +3944,6 @@ Become a bolt, an arrow through his sin, be terribly venomous.
 अ᳓घ्न्ये प्र᳓ शि᳓रो जहि ब्रह्मज्य᳓स्य कृता᳓गसो देवपीयो᳓रराध᳓सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/60_aghnye_pra.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अघ्न्ये॒ प्र शिरो॑ जहि ब्रह्म॒ज्यस्य॑ कृ॒ताग॑सो देवपी॒योर॑रा॒धसः॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/60_aghnye_pra.md">
 <details open><summary><h3>६० अघ्न्ये प्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3723,14 +3955,22 @@ has committed offense, of the god-reviler, the ungenerous.
 ##### Notes
 This verse also is wanting in Ppp. ⌊Pādas **b, c** recur below, vs. 65.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 O Cow, break thou the head of him who wrongs the Brahmans, criminal, niggard, blasphemer of the Gods.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अघ्न्ये॒ प्र शिरो॑ जहि ब्रह्म॒ज्यस्य॑ कृ॒ताग॑सो देवपी॒योर॑रा॒धसः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अघ्न्ये॑। प्र। शिरः॑। ज॒हि॒। ब्र॒ह्म॒ऽज्यस्य॑। कृ॒तऽआ॑गसः। दे॒व॒ऽपी॒योः। अ॒रा॒धसः॑। १०.१४। 
+अघ्न्ये॑। प्र। शिरः॑। ज॒हि॒। ब्र॒ह्म॒ऽज्यस्य॑। कृ॒तऽआ॑गसः। दे॒व॒ऽपी॒योः। अ॒रा॒धसः॑। १०.१४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3738,18 +3978,22 @@ O Cow, break thou the head of him who wrongs the Brahmans, criminal, niggard, bl
 - गायत्री
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अघ्न्ये) हे अवध्य ! [न मारने योग्य, प्रबल वेदवाणी] (ब्रह्मज्यस्य) ब्रह्मचारियों के हानिकारक, (कृतागसः) अपराध करनेवाले, (देवपीयोः) विद्वानों के सतानेवाले, (अराधसः) अदानशील पुरुष के (शिरः) शिर को (प्र जहि) तोड़ डाल ॥६०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य बलवती वेदवाणी के विरुद्ध आचरण करे, उसको यथावत् दण्ड मिले ॥६०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६०−(अघ्न्ये) म० ५८। (प्र जहि) विनाशय (शिरः) मस्तकम् (ब्रह्मज्यस्य) म० १५। ब्रह्मचारिणां हानिकरस्य (कृतागसः) कृतापराधस्य (देवपीयोः) म० १५। विदुषां हिंसकस्य (अराधसः) अ० ५।११।७। नास्ति राधो धनं यस्मात् तस्य। अदानशीलस्य ॥
@@ -3762,14 +4006,6 @@ O Cow, break thou the head of him who wrongs the Brahmans, criminal, niggard, bl
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्व᳓या प्र᳓मूर्णं मृदित᳓मग्नि᳓र्दहतु दुश्चि᳓तम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/61_tvayA_pramUrNam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-त्वया॒ प्रमू॑र्णं मृदि॒तम॒ग्निर्द॑हतु दु॒श्चित॑म् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/61_tvayA_pramUrNam.md">
@@ -3789,14 +4025,22 @@ Ppp. reads *tayā pravṛkṇo rucitam agnir dahatu duṣkṛtam*.
 65. gāyatrī; 67. prājāpatyā gāyatrī; 71. āsurī pan̄kti; 72. prājāpatyā  
 triṣṭubh; 73. āsury uṣṇih.*\]
 </details>
+
 <details><summary>Griffith</summary>
 
 Let Agni burn the spiteful wretch when crushed to death and slain by thee.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वया॒ प्रमू॑र्णं मृदि॒तम॒ग्निर्द॑हतु दु॒श्चित॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वया॑। प्रऽमू॑र्णम्। मृ॒दि॒तम्। अ॒ग्निः। द॒ह॒तु॒। दुः॒ऽचित॑म्। १०.१५। 
+त्वया॑। प्रऽमू॑र्णम्। मृ॒दि॒तम्। अ॒ग्निः। द॒ह॒तु॒। दुः॒ऽचित॑म्। १०.१५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3804,18 +4048,22 @@ Let Agni burn the spiteful wretch when crushed to death and slain by thee.
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे वेदवाणी !] (त्वया) तुझ करके (प्रमूर्णम्) बाँध लिये गये, (मृदितम्) कुचले गये (दुश्चितम्) अनिष्ट चिन्तक को (अग्निः) आग (दहतु) जला डाले ॥६१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदविरोधी दुराचारी पुरुष को न्यायव्यवस्था से जला कर भस्म कर डाले ॥६१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६१−(त्वया) वेदवाण्या (प्रमूर्णम्) मुर्व बन्धने−क्त। प्रकर्षेण बद्धम् (मृदितम्) मृद क्षोदे−क्त। चूर्णितम् (अग्निः) प्रत्यक्षः (दहतु) (दुश्चितम्) चिती संज्ञाने−क्विप्। अनिष्टचिन्तकम् ॥
@@ -3830,14 +4078,6 @@ Let Agni burn the spiteful wretch when crushed to death and slain by thee.
 वृश्च᳓ प्र᳓ वृश्च सं᳓ वृश्च द᳓ह प्र᳓ दह सं᳓ दह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/62_vRshcha_pra.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वृ॒श्च प्र वृ॑श्च॒ सं वृ॑श्च॒ दह॒ प्र द॑ह॒ सं द॑ह ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/62_vRshcha_pra.md">
 <details open><summary><h3>६२ वृश्च प्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3847,14 +4087,22 @@ Let Agni burn the spiteful wretch when crushed to death and slain by thee.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Rend, rend to bits, rend through and through, scorch and con- sume and burn to dust,
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वृ॒श्च प्र वृ॑श्च॒ सं वृ॑श्च॒ दह॒ प्र द॑ह॒ सं द॑ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वृ॒श्च॒। प्र। वृ॒श्च॒। सम्। वृ॒श्च॒। दह॑। प्र। द॒ह॒। सम्। द॒ह॒। ११.१। 
+वृ॒श्च॒। प्र। वृ॒श्च॒। सम्। वृ॒श्च॒। दह॑। प्र। द॒ह॒। सम्। द॒ह॒। ११.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3862,18 +4110,22 @@ Rend, rend to bits, rend through and through, scorch and con- sume and burn to d
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [वेदवाणी !] तू [वेदनिन्दक को] (वृश्च) काट डाल, (प्र वृश्च) चोर डाल, (सं वृश्च) फाड़ डाल, (दह) जला दे, (प्र दह) फूँक दे, (सं दह) भस्म कर दे ॥६२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  धर्मात्मा लोग अधर्मियों के नाश करने में सदा उद्यत रहें ॥६२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६२−(वृश्च) छिन्धि (प्र) प्रकर्षेण (वृश्च) (सम्) सम्यक् (वृश्च) (दह) भस्मीकुरु (प्र) (दह) (सम्) (दह) ॥
@@ -3888,14 +4140,6 @@ Rend, rend to bits, rend through and through, scorch and con- sume and burn to d
 ब्र᳙ह्मज्यं᳓ देव्यघ्न्य आ᳓ मू᳓लादनुसं᳓दह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/63_brahmajyaM_devyaghnya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ब्र॑ह्म॒ज्यं दे॑व्यघ्न्य॒ आ मूला॑दनु॒संद॑ह ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/63_brahmajyaM_devyaghnya.md">
 <details open><summary><h3>६३ ब्रह्मज्यं देव्यघ्न्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3908,14 +4152,22 @@ the way from the root.
 Or 'to the root.' Bs.P.M. read *mū́lān*. In Ppp., ⌊vss. 62-63 are  
 somewhat altered and⌋ the remaining vss. are wanting.
 </details>
+
 <details><summary>Griffith</summary>
 
 Consume thou, even from the root, the Brahmans' tyrant, god- like Cow!
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्र॑ह्म॒ज्यं दे॑व्यघ्न्य॒ आ मूला॑दनु॒संद॑ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्र॒ह्म॒ऽज्यम्। दे॒वि॒। अ॒घ्न्ये॒। आ। मूला॑त्। अ॒नु॒ऽसंद॑हः। ११.२। 
+ब्र॒ह्म॒ऽज्यम्। दे॒वि॒। अ॒घ्न्ये॒। आ। मूला॑त्। अ॒नु॒ऽसंद॑हः। ११.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3923,18 +4175,22 @@ Consume thou, even from the root, the Brahmans' tyrant, god- like Cow!
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवि) हे देवी ! [उत्तम गुणवाली] (अघ्न्ये) हे अवध्य ! [न मारने योग्य, प्रबल वेदवाणी] (ब्रह्मज्यम्) ब्रह्मचारियों के हानिकारक को (आ मूलात्) जड़ से (अनुसंदह) जलाये जा ॥६३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  राजा को उचित है कि वेदव्यवस्था के अनुसार अधर्मी वेदविरोधियों को दूर कारागार में रक्खे ॥६३, ६४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६३, ६४−(ब्रह्मज्यम्) म० १५। ब्रह्मचारिणां हानिकारकम् (देवि) हे दिव्यगुणवति (अघ्न्ये) हे अहन्तव्ये (आ मूलात्) मूलमभिव्याप्य (अनुसंदह) निरन्तरं भस्मीकुरु (यथा) येन प्रकारेण (अयात्) अय गतौ−लेट्। गच्छेत् (यमसदनात्) सांहितिको दीर्घः। राज्ञो न्यायगृहात् (पापलोकान्) पापिनां देशान्। कारागाराणि (परावतः) अ० ३।४।५। दूरगतान् ॥
@@ -3949,14 +4205,6 @@ Consume thou, even from the root, the Brahmans' tyrant, god- like Cow!
 य᳓था᳓याद्यमसादना᳓त्पापलोका᳓न्पराव᳓तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/64_yathAyAdyamasAdanAtpApalokAnparAvataH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यथाया॑द्यमसाद॒नात्पा॑पलो॒कान्प॑रा॒वतः॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/64_yathAyAdyamasAdanAtpApalokAnparAvataH.md">
 <details open><summary><h3>६४ यथायाद्यमसादनात्पापलोकान्परावतः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -3966,14 +4214,22 @@ Consume thou, even from the root, the Brahmans' tyrant, god- like Cow!
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 That he may go from Yama's home afar into the worlds of sin. its
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथाया॑द्यमसाद॒नात्पा॑पलो॒कान्प॑रा॒वतः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। अया॑त्। य॒म॒ऽस॒द॒नात्। पा॒प॒ऽलो॒कान्। प॒रा॒ऽवतः॑। ११.३। 
+यथा॑। अया॑त्। य॒म॒ऽस॒द॒नात्। पा॒प॒ऽलो॒कान्। प॒रा॒ऽवतः॑। ११.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -3981,18 +4237,22 @@ That he may go from Yama's home afar into the worlds of sin. its
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यथा) जिस से वह (यमसदनात्) न्यायगृह से (परावतः) दूर देशवाले (पापलोकान्) पापियों के लोकों [कारागार आदि स्थानों] को (अयात्) चला जावे ॥६४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  राजा को उचित है कि वेदव्यवस्था के अनुसार अधर्मी वेदविरोधियों को दूर कारागार में रक्खे ॥६३, ६४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६३, ६४−(ब्रह्मज्यम्) म० १५। ब्रह्मचारिणां हानिकारकम् (देवि) हे दिव्यगुणवति (अघ्न्ये) हे अहन्तव्ये (आ मूलात्) मूलमभिव्याप्य (अनुसंदह) निरन्तरं भस्मीकुरु (यथा) येन प्रकारेण (अयात्) अय गतौ−लेट्। गच्छेत् (यमसदनात्) सांहितिको दीर्घः। राज्ञो न्यायगृहात् (पापलोकान्) पापिनां देशान्। कारागाराणि (परावतः) अ० ३।४।५। दूरगतान् ॥
@@ -4007,14 +4267,6 @@ That he may go from Yama's home afar into the worlds of sin. its
 एवा᳓ त्वं᳓ देव्यघ्न्ये ब्रह्मज्य᳓स्य कृता᳓गसो देवपीयो᳓रराध᳓सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/65_evA_tvam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ए॒वा त्वं दे॑व्यघ्न्ये ब्रह्म॒ज्यस्य॑ कृ॒ताग॑सो देवपी॒योर॑रा॒धसः॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/65_evA_tvam.md">
 <details open><summary><h3>६५ एवा त्वम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -4025,14 +4277,22 @@ has committed offense, of the god-reviler, the ungenerous,—
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 So, Goddess Cow, do thou from him, the Brahmans' tyrant, criminal, niggard, blasphemer of the Gods,
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒वा त्वं दे॑व्यघ्न्ये ब्रह्म॒ज्यस्य॑ कृ॒ताग॑सो देवपी॒योर॑रा॒धसः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒व। त्वम्। दे॒वि॒। अ॒घ्न्ये॒। ब्र॒ह्म॒ऽज्यस्य॑। कृ॒तऽआ॑गसः। दे॒व॒ऽपी॒योः। अ॒रा॒धसः॑। ११.४। 
+ए॒व। त्वम्। दे॒वि॒। अ॒घ्न्ये॒। ब्र॒ह्म॒ऽज्यस्य॑। कृ॒तऽआ॑गसः। दे॒व॒ऽपी॒योः। अ॒रा॒धसः॑। ११.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -4040,18 +4300,22 @@ So, Goddess Cow, do thou from him, the Brahmans' tyrant, criminal, niggard, blas
 - गायत्री
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवि) हे देवी ! [उत्तम गुणवाली], (अघ्न्ये) हे अवध्य ! [न मारने योग्य, प्रबल वेदवाणी] (त्वम्) तू (एव) इसी प्रकार (ब्रह्मज्यस्य) ब्रह्मचारियों के हानिकारक, (कृतागसः) अपराध करनेवाले, (देवपीयोः) विद्वानों के सतानेवाले, (अराधसः) अदानशील पुरुष के ॥६५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदानुयायी धर्मात्मा राजा वेदविरोधी दुष्टाचारियों को प्रचण्ड दण्ड देवे ॥६५-६७॥  मन्त्र ६५ का मिलान मन्त्र ६० से करो ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६५-६७−(एव) अनेन प्रकारेण (त्वम्) (देवि) म० ६३ (अघ्न्ये) म० ६३। अन्यद् गतम्−म० ६०। (वज्रेण) (शतपर्वणा) बहुग्रन्थिना (तीक्ष्णेन) तीव्रेण (क्षुरभृष्टिना) भ्रस्ज पाके, यद्वा भृशु अधःपतने−क्तिन्। क्षुरवत्तीक्ष्णधारेण (प्र प्र) अतिशयेन (स्कन्धान्) शरीरावयवविशेषान् (शिरः) मस्तकं (जहि) नाशय ॥
@@ -4066,14 +4330,6 @@ So, Goddess Cow, do thou from him, the Brahmans' tyrant, criminal, niggard, blas
 व᳓ज्रेण शत᳓पर्वणा तीक्ष्णे᳓न क्षुर᳓भृष्टिना ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/66_vajreNa_shataparvaNA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-वज्रे॑ण श॒तप॑र्वणा ती॒क्ष्णेन॑ क्षु॒रभृ॑ष्टिना ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/66_vajreNa_shataparvaNA.md">
 <details open><summary><h3>६६ वज्रेण शतपर्वणा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -4083,14 +4339,22 @@ So, Goddess Cow, do thou from him, the Brahmans' tyrant, criminal, niggard, blas
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 With hundred-knotted thunderbolt, sharpened and edged with razor-blades,
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वज्रे॑ण श॒तप॑र्वणा ती॒क्ष्णेन॑ क्षु॒रभृ॑ष्टिना ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वज्रे॑ण। श॒तऽप॑र्वणा। ती॒क्ष्णेन॑। क्षु॒रऽभृ॑ष्टिना। ११.५। 
+वज्रे॑ण। श॒तऽप॑र्वणा। ती॒क्ष्णेन॑। क्षु॒रऽभृ॑ष्टिना। ११.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -4098,18 +4362,22 @@ With hundred-knotted thunderbolt, sharpened and edged with razor-blades,
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शतपर्वणा) सैकड़ों जोड़वाले, (तीक्ष्णेन) तीक्ष्ण, (क्षुरभृष्टिना) छुरे की सी धारवाले (वज्रेण) वज्र से ॥६६॥,
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदानुयायी धर्मात्मा राजा वेदविरोधी दुष्टाचारियों को प्रचण्ड दण्ड देवे ॥६५-६७॥  मन्त्र ६५ का मिलान मन्त्र ६० से करो ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६५-६७−(एव) अनेन प्रकारेण (त्वम्) (देवि) म० ६३ (अघ्न्ये) म० ६३। अन्यद् गतम्−म० ६०। (वज्रेण) (शतपर्वणा) बहुग्रन्थिना (तीक्ष्णेन) तीव्रेण (क्षुरभृष्टिना) भ्रस्ज पाके, यद्वा भृशु अधःपतने−क्तिन्। क्षुरवत्तीक्ष्णधारेण (प्र प्र) अतिशयेन (स्कन्धान्) शरीरावयवविशेषान् (शिरः) मस्तकं (जहि) नाशय ॥
@@ -4124,14 +4392,6 @@ With hundred-knotted thunderbolt, sharpened and edged with razor-blades,
 प्र᳓ स्कन्धा᳓न्प्र᳓ शि᳓रो जहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/67_pra_skandhAnpra.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-प्र स्क॒न्धान्प्र शिरो॑ जहि ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/67_pra_skandhAnpra.md">
 <details open><summary><h3>६७ प्र स्कन्धान्प्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -4141,14 +4401,22 @@ With hundred-knotted thunderbolt, sharpened and edged with razor-blades,
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Strike off the shoulders and the head.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र स्क॒न्धान्प्र शिरो॑ जहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र। स्क॒न्धान्। प्र। शिरः॑। ज॒हि॒। ११.६। 
+प्र। स्क॒न्धान्। प्र। शिरः॑। ज॒हि॒। ११.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -4156,18 +4424,22 @@ Strike off the shoulders and the head.
 - प्राजापत्या गायत्री
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (स्कन्धान्) कन्धों और (शिरः) शिर को (प्र प्र जहि) तोड़-तोड़ दे ॥६७॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदानुयायी धर्मात्मा राजा वेदविरोधी दुष्टाचारियों को प्रचण्ड दण्ड देवे ॥६५-६७॥  मन्त्र ६५ का मिलान मन्त्र ६० से करो ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६५-६७−(एव) अनेन प्रकारेण (त्वम्) (देवि) म० ६३ (अघ्न्ये) म० ६३। अन्यद् गतम्−म० ६०। (वज्रेण) (शतपर्वणा) बहुग्रन्थिना (तीक्ष्णेन) तीव्रेण (क्षुरभृष्टिना) भ्रस्ज पाके, यद्वा भृशु अधःपतने−क्तिन्। क्षुरवत्तीक्ष्णधारेण (प्र प्र) अतिशयेन (स्कन्धान्) शरीरावयवविशेषान् (शिरः) मस्तकं (जहि) नाशय ॥
@@ -4182,14 +4454,6 @@ Strike off the shoulders and the head.
 लो᳓मान्यस्य सं᳓ छिन्धि त्व᳓चमस्य वि᳓ वेष्टय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/68_lomAnyasya_sam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-लोमा॑न्यस्य॒ सं छि॑न्धि॒ त्वच॑मस्य॒ वि वे॑ष्टय ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/68_lomAnyasya_sam.md">
 <details open><summary><h3>६८ लोमान्यस्य सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -4200,14 +4464,22 @@ off;—
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Snatch thou the hair from off his head, and from his body strip the skin:
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+लोमा॑न्यस्य॒ सं छि॑न्धि॒ त्वच॑मस्य॒ वि वे॑ष्टय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-लोमा॑नि। अ॒स्य॒। सम्। छि॒न्धि॒। त्वच॑म्। अ॒स्य॒। वि। वे॒ष्ट॒य॒। ११.७। 
+लोमा॑नि। अ॒स्य॒। सम्। छि॒न्धि॒। त्वच॑म्। अ॒स्य॒। वि। वे॒ष्ट॒य॒। ११.७।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -4215,18 +4487,22 @@ Snatch thou the hair from off his head, and from his body strip the skin:
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अस्य) उस [वेदविरोधी] के (लोमानि) लोमों को (सं छिन्धि) काट डाल, (अस्य) उसकी (त्वचम्) खाल (वि वेष्टय) उतार ले ॥६८॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  नीतिनिपुण धर्मज्ञ राजा वेदमार्ग पर चलकर वेदविमुख अत्याचारी लोगों को विविध प्रकार दण्ड देकर पीड़ा देवे ॥६८-७१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६८-७१−(लोमानि) (अस्य) ब्रह्मज्यस्य (सम्) सम्यक् (छिन्धि) भिन्धि (त्वचम्) चर्म (अस्य) (वि) वियुज्य (वेष्टय) आच्छादय (मांसानि) मांसखण्डानि (अस्य) (शातय) शद्लृ शातने−णिच्। शदेरगतौ तः। पा० ७।३।४२। दस्य तकारो णौ परतः। खण्डय (स्नावानि) इण्शीभ्यां वन्। उ० १।१५२। ष्णा शौचे−वन्। वायुवाहिनाडिभेदान् (अस्य) (सं वृह) विनाशय (अस्थीनि) (अस्य) (पीडय) मर्दय (मज्जानम्) शरीरस्थधातुविशेषम् (अस्य) (निर्जहि) निर्गमय्य नाशय (सर्वा) सर्वाणि (अस्य) (अङ्गा) अङ्गानि (पर्वाणि) ग्रन्थीन् (वि) वियुज्य (श्रथय) शिथिलानि कुरु ॥
@@ -4241,14 +4517,6 @@ Snatch thou the hair from off his head, and from his body strip the skin:
 मांसा᳓न्यस्य शातय स्ना᳓वान्यस्य सं᳓ वृह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/69_mAMsAnyasya_shAtaya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मां॒सान्य॑स्य शातय॒ स्नावा॑न्यस्य॒ सं वृ॑ह ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/69_mAMsAnyasya_shAtaya.md">
 <details open><summary><h3>६९ मांसान्यस्य शातय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -4258,14 +4526,22 @@ Snatch thou the hair from off his head, and from his body strip the skin:
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Tear out his sinews, cause his flesh to fall in pieces from his frame.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मां॒सान्य॑स्य शातय॒ स्नावा॑न्यस्य॒ सं वृ॑ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मां॒सानि॑। अ॒स्य॒। शा॒त॒य॒। स्नावा॑नि। अ॒स्य॒। सम्। वृ॒ह॒। ११.८। 
+मां॒सानि॑। अ॒स्य॒। शा॒त॒य॒। स्नावा॑नि। अ॒स्य॒। सम्। वृ॒ह॒। ११.८।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -4273,18 +4549,22 @@ Tear out his sinews, cause his flesh to fall in pieces from his frame.
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अस्य) उसके (मांसानि) मांस के टुकड़ों को (शातय) बोटी-बोटी कर दे, (अस्य) उसके (स्नावानि) नसों को (सं वृह) ऐंठ दे ॥६९॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  नीतिनिपुण धर्मज्ञ राजा वेदमार्ग पर चलकर वेदविमुख अत्याचारी लोगों को विविध प्रकार दण्ड देकर पीड़ा देवे ॥६८-७१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६८-७१−(लोमानि) (अस्य) ब्रह्मज्यस्य (सम्) सम्यक् (छिन्धि) भिन्धि (त्वचम्) चर्म (अस्य) (वि) वियुज्य (वेष्टय) आच्छादय (मांसानि) मांसखण्डानि (अस्य) (शातय) शद्लृ शातने−णिच्। शदेरगतौ तः। पा० ७।३।४२। दस्य तकारो णौ परतः। खण्डय (स्नावानि) इण्शीभ्यां वन्। उ० १।१५२। ष्णा शौचे−वन्। वायुवाहिनाडिभेदान् (अस्य) (सं वृह) विनाशय (अस्थीनि) (अस्य) (पीडय) मर्दय (मज्जानम्) शरीरस्थधातुविशेषम् (अस्य) (निर्जहि) निर्गमय्य नाशय (सर्वा) सर्वाणि (अस्य) (अङ्गा) अङ्गानि (पर्वाणि) ग्रन्थीन् (वि) वियुज्य (श्रथय) शिथिलानि कुरु ॥
@@ -4299,14 +4579,6 @@ Tear out his sinews, cause his flesh to fall in pieces from his frame.
 अ᳓स्थीन्यस्य पीडय मज्जा᳓नमस्य नि᳓र्जहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/70_asthInyasya_pIDaya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अस्थी॑न्यस्य पीडय म॒ज्जान॑मस्य॒ निर्ज॑हि ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/70_asthInyasya_pIDaya.md">
 <details open><summary><h3>७० अस्थीन्यस्य पीडय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -4316,14 +4588,22 @@ Tear out his sinews, cause his flesh to fall in pieces from his frame.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Crush thou his bones together, strike and beat the marrow out of him.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अस्थी॑न्यस्य पीडय म॒ज्जान॑मस्य॒ निर्ज॑हि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अस्थी॑नि। अ॒स्य॒। पी॒ड॒य॒। म॒ज्जान॑म्। अ॒स्य॒। निः। ज॒हि॒। ११.९। 
+अस्थी॑नि। अ॒स्य॒। पी॒ड॒य॒। म॒ज्जान॑म्। अ॒स्य॒। निः। ज॒हि॒। ११.९।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -4331,18 +4611,22 @@ Crush thou his bones together, strike and beat the marrow out of him.
 - प्राजापत्यानुष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अस्य) उसकी (अस्थीनि) हड्डियाँ (पीडय) मिसल डाल, (अस्य) उसकी (मज्जानम्) मींग (निर्जहि) निकाल दे ॥७०॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  नीतिनिपुण धर्मज्ञ राजा वेदमार्ग पर चलकर वेदविमुख अत्याचारी लोगों को विविध प्रकार दण्ड देकर पीड़ा देवे ॥६८-७१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६८-७१−(लोमानि) (अस्य) ब्रह्मज्यस्य (सम्) सम्यक् (छिन्धि) भिन्धि (त्वचम्) चर्म (अस्य) (वि) वियुज्य (वेष्टय) आच्छादय (मांसानि) मांसखण्डानि (अस्य) (शातय) शद्लृ शातने−णिच्। शदेरगतौ तः। पा० ७।३।४२। दस्य तकारो णौ परतः। खण्डय (स्नावानि) इण्शीभ्यां वन्। उ० १।१५२। ष्णा शौचे−वन्। वायुवाहिनाडिभेदान् (अस्य) (सं वृह) विनाशय (अस्थीनि) (अस्य) (पीडय) मर्दय (मज्जानम्) शरीरस्थधातुविशेषम् (अस्य) (निर्जहि) निर्गमय्य नाशय (सर्वा) सर्वाणि (अस्य) (अङ्गा) अङ्गानि (पर्वाणि) ग्रन्थीन् (वि) वियुज्य (श्रथय) शिथिलानि कुरु ॥
@@ -4357,14 +4641,6 @@ Crush thou his bones together, strike and beat the marrow out of him.
 स᳓र्वास्या᳓ङ्गा प᳓र्वाणि वि᳓ श्रथय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/71_sarvAsyAngA_parvANi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सर्वा॒स्याङ्गा॒ पर्वा॑णि॒ वि श्र॑थय ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/71_sarvAsyAngA_parvANi.md">
 <details open><summary><h3>७१ सर्वास्याङ्गा पर्वाणि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -4374,14 +4650,22 @@ Crush thou his bones together, strike and beat the marrow out of him.
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 Dislocate all his limbs and joints.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वा॒स्याङ्गा॒ पर्वा॑णि॒ वि श्र॑थय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वा॑। अ॒स्य॒। अङ्गा॑। पर्वा॑णि। वि। श्र॒थ॒य॒। ११.१०। 
+सर्वा॑। अ॒स्य॒। अङ्गा॑। पर्वा॑णि। वि। श्र॒थ॒य॒। ११.१०।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -4389,18 +4673,22 @@ Dislocate all his limbs and joints.
 - आसुरी पङ्क्तिः
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अस्य) उसके (सर्वा) सब (अङ्गा) अङ्गों और (पर्वाणि) जोड़ों को (वि श्रथय) ढीला कर दे ॥७१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  नीतिनिपुण धर्मज्ञ राजा वेदमार्ग पर चलकर वेदविमुख अत्याचारी लोगों को विविध प्रकार दण्ड देकर पीड़ा देवे ॥६८-७१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६८-७१−(लोमानि) (अस्य) ब्रह्मज्यस्य (सम्) सम्यक् (छिन्धि) भिन्धि (त्वचम्) चर्म (अस्य) (वि) वियुज्य (वेष्टय) आच्छादय (मांसानि) मांसखण्डानि (अस्य) (शातय) शद्लृ शातने−णिच्। शदेरगतौ तः। पा० ७।३।४२। दस्य तकारो णौ परतः। खण्डय (स्नावानि) इण्शीभ्यां वन्। उ० १।१५२। ष्णा शौचे−वन्। वायुवाहिनाडिभेदान् (अस्य) (सं वृह) विनाशय (अस्थीनि) (अस्य) (पीडय) मर्दय (मज्जानम्) शरीरस्थधातुविशेषम् (अस्य) (निर्जहि) निर्गमय्य नाशय (सर्वा) सर्वाणि (अस्य) (अङ्गा) अङ्गानि (पर्वाणि) ग्रन्थीन् (वि) वियुज्य (श्रथय) शिथिलानि कुरु ॥
@@ -4415,14 +4703,6 @@ Dislocate all his limbs and joints.
 अग्नि᳓रेनं क्रव्या᳓त्पृथिव्या᳓ नुदतामु᳓दोषतु वायु᳓रन्त᳓रिक्षान्महतो᳓ वरिम्णः᳓ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/72_agnirenaM_kravyAtpRthivyA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-अ॒ग्निरे॑नं क्र॒व्यात्पृ॑थि॒व्या नु॑दता॒मुदो॑षतु वा॒युर॒न्तरि॑क्षान्मह॒तो व॑रि॒म्णः ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/72_agnirenaM_kravyAtpRthivyA.md">
 <details open><summary><h3>७२ अग्निरेनं क्रव्यात्पृथिव्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -4434,14 +4714,22 @@ up; let Vāyu \[do so\] from the atmosphere, the great expanse
 
 ##### Notes
 </details>
+
 <details><summary>Griffith</summary>
 
 From earth let the Carnivorous Agni drive him, let Vayu burn. him from mid-air's broad region.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्निरे॑नं क्र॒व्यात्पृ॑थि॒व्या नु॑दता॒मुदो॑षतु वा॒युर॒न्तरि॑क्षान्मह॒तो व॑रि॒म्णः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। ए॒न॒म्। क्र॒व्य॒ऽअत्। पृ॒थि॒व्याः। नु॒द॒ता॒म्। उत्। ओ॒ष॒तु॒। वा॒युः। अ॒न्तरि॑क्षात्। म॒ह॒तः। व॒रि॒म्णः। १.११। 
+अ॒ग्निः। ए॒न॒म्। क्र॒व्य॒ऽअत्। पृ॒थि॒व्याः। नु॒द॒ता॒म्। उत्। ओ॒ष॒तु॒। वा॒युः। अ॒न्तरि॑क्षात्। म॒ह॒तः। व॒रि॒म्णः। १.११।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -4449,18 +4737,22 @@ From earth let the Carnivorous Agni drive him, let Vayu burn. him from mid-air's
 - प्राजापत्या त्रिष्टुप्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (क्रव्यात्) मांसभक्षक [शवदाहक] (अग्निः) अग्नि (एनम्) इस [वेदनिन्दक] को (पृथिव्याः) पृथिवी से (नुदताम्) निकाल देवे, और (उत् ओषतु) जला डाले, (वायुः) वायु (महतः) बड़े (वरिम्णः) विस्तार, (अन्तरिक्षात्) अन्तरिक्ष से [वैसा ही करे] ॥७२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  दुरात्मा वेदविरोधी पुरुष मूर्खता के कारण सब स्थानों में सब प्रकार से कष्ट में डाला जाता है ॥७२, ७३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७२, ७३−(अग्निः) प्रत्यक्षः (एनम्) वेदविरोधिनम्। ब्रह्मज्यम् (क्रव्यात्) मांसभक्षकः। शवदाहकः (पृथिव्याः) पृथिवीलोकात् (नुदताम्) प्रेरयतु (उदोषतु) सर्वथा दहतु (वायुः) (अन्तरिक्षात्) मध्यलोकात् (महतः) विशालात् (वरिम्णः) विस्तारात् (सूर्यः) (एनम्) दुष्कारिणम् (दिवः) प्रकाशात् (प्रणुदताम्) प्रक्षिपतु (न्योषतु) नीचैर्दहतु ॥
@@ -4473,14 +4765,6 @@ From earth let the Carnivorous Agni drive him, let Vayu burn. him from mid-air's
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सू᳓र्य एनं दिवः᳓ प्र᳓ णुदतां न्यो᳙षतु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/005_brahmagavI/73_sUrya_enam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-सूर्य॑ एनं दि॒वः प्र णु॑दतां॒ न्यो᳡षतु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/73_sUrya_enam.md">
@@ -4510,14 +4794,22 @@ number 231\] and 7 *paryāya-sūktas* \[73 "verses"\], or as of "11
   
 ⌊The twenty-seventh *prapāṭhaka* ends here.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 From heaven let Surya drive him and consume him.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+सूर्य॑ एनं दि॒वः प्र णु॑दतां॒ न्यो᳡षतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सूर्यः॑। ए॒न॒म्। दि॒वः। प्र। नु॒द॒ता॒म्। नि। ओ॒ष॒तु॒। ११.१२। 
+सूर्यः॑। ए॒न॒म्। दि॒वः। प्र। नु॒द॒ता॒म्। नि। ओ॒ष॒तु॒। ११.१२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - ब्रह्मगवी
@@ -4525,18 +4817,22 @@ From heaven let Surya drive him and consume him.
 - आसुर्युष्णिक्
 - ब्रह्मगवी सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सूर्यः) सूर्य (एनम्) इसको (दिवः) प्रकाश से (प्र णुदताम्) ढकेल देवे और (नि ओषतु) गिराकर जला देवे ॥७३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  दुरात्मा वेदविरोधी पुरुष मूर्खता के कारण सब स्थानों में सब प्रकार से कष्ट में डाला जाता है ॥७२, ७३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७२, ७३−(अग्निः) प्रत्यक्षः (एनम्) वेदविरोधिनम्। ब्रह्मज्यम् (क्रव्यात्) मांसभक्षकः। शवदाहकः (पृथिव्याः) पृथिवीलोकात् (नुदताम्) प्रेरयतु (उदोषतु) सर्वथा दहतु (वायुः) (अन्तरिक्षात्) मध्यलोकात् (महतः) विशालात् (वरिम्णः) विस्तारात् (सूर्यः) (एनम्) दुष्कारिणम् (दिवः) प्रकाशात् (प्रणुदताम्) प्रक्षिपतु (न्योषतु) नीचैर्दहतु ॥

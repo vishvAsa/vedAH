@@ -8,15 +8,18 @@ title = "१११ आत्मा"
 
 111 (116). To a soma-vessel.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
 १ ब्रह्मा। वृषभः। पराबृहती त्रिष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—vārṣabham. parabṛhatī triṣṭubh.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -35,15 +38,6 @@ Translated: Henry, 44, 122; Griffith, i. 382.
 
 इ᳓न्द्रस्य कुक्षि᳓रसि सोमधा᳓न आत्मा᳓ देवा᳓नामुत᳓ मा᳓नुषाणाम्।  
 इह᳓ प्रजा᳓ जनय या᳓स्त आसु᳓ या᳓ अन्य᳓त्रेह᳓ ता᳓स्ते रमन्ताम् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/111_AtmA/01_indrasya_kuxirasi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-इन्द्र॑स्य कु॒क्षिर॑सि सोम॒धान॑ आ॒त्मा दे॒वाना॑मु॒त मानु॑षाणाम्।  
-इ॒ह प्र॒जा ज॑नय॒ यास्त॑ आ॒सु या अ॒न्यत्रे॒ह तास्ते॑ रमन्ताम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/111_AtmA/01_indrasya_kuxirasi.md">
@@ -67,14 +61,23 @@ vikṣu*. The verse is further reckoned ⌊note to Kāuś. 19. 1⌋ to the
 but is *pada*-mss. make the third pāda end with *yā́*. ⌊With **a**, cf.  
 RV. iii. 36. 8 **a**.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Belly of Indra art thou, Soma-holder! the very soul of Gods and human beings. Here be the sire of offspring, thine here present! Here be they glad in thee who now are elsewhere.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्र॑स्य कु॒क्षिर॑सि सोम॒धान॑ आ॒त्मा दे॒वाना॑मु॒त मानु॑षाणाम्।  
+इ॒ह प्र॒जा ज॑नय॒ यास्त॑ आ॒सु या अ॒न्यत्रे॒ह तास्ते॑ रमन्ताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑स्य। कु॒क्षिः। अ॒सि॒। सो॒म॒ऽधानः॑। आ॒त्मा। दे॒वाना॑म्। उ॒त। मानु॑षाणाम्। इ॒ह। प्र॒ऽजाः। ज॒न॒य॒। याः। ते॒। आ॒सु। याः। अ॒न्यत्र॑। इ॒ह। ताः। ते॒। र॒म॒न्ता॒म्। ११६.१। 
+इन्द्र॑स्य। कु॒क्षिः। अ॒सि॒। सो॒म॒ऽधानः॑। आ॒त्मा। दे॒वाना॑म्। उ॒त। मानु॑षाणाम्। इ॒ह। प्र॒ऽजाः। ज॒न॒य॒। याः। ते॒। आ॒सु। याः। अ॒न्यत्र॑। इ॒ह। ताः। ते॒। र॒म॒न्ता॒म्। ११६.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वृषभः
@@ -82,18 +85,22 @@ Belly of Indra art thou, Soma-holder! the very soul of Gods and human beings. He
 - पराबृहती त्रिष्टुप्
 - आत्मा सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर के गुणों का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे ईश्वर !] तू (इन्द्रस्य) परम ऐश्वर्य का (कुक्षिः) कोख रूप, (सोमधानः) अमृत का आधार, (देवानाम्) दिव्य लोकों [सूर्य, पृथिवी आदि] का, (उत) और (मानुषाणाम्) मनुष्यों का (आत्मा) आत्मा [अन्तर्यामी] (असि) है। (इह) यहाँ पर (प्रजाः) प्रजाओं को (जनय) उत्पन्न कर, (याः) जो (ते) तेरे लिये [तेरी आज्ञाकारी] (आसु) इन [प्रजाओं] में, और (याः) जो (अन्यत्र) दूसरे स्थान में [हों] (इह) यहाँ पर (ताः) वे सब (ते) तेरे लिये (रमन्ताम्) विहार करें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् लोग प्रयत्न करें कि सब मनुष्य निकट और दूर स्थान में ईश्वर की आज्ञा मानते रहें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(इन्द्रस्य) परमैश्वर्यस्य (कुक्षिः) अ० २।५।४। कुक्षिरूपः (सोमधानः) अमृताधारः (आत्मा) अन्तर्यामी (देवानाम्) सूर्यपृथिव्यादिदिव्यलोकानाम् (उत) अपि (मानुषाणाम्) मनुष्याणाम् (इह) (प्रजाः) मनुष्यादिरूपाः (जनय) उत्पादय (याः) प्रजाः (ते) तुभ्यम्। तवाज्ञापालनाय (आसु) प्रजासु (याः) (अन्यत्र) अन्यस्मिन् देशे (इह) अत्र (ताः) प्रजाः (ते) तुभ्यम् (रमन्ताम्) विहरन्तु ॥

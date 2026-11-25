@@ -8,15 +8,18 @@ title = "०५९ शाप-मोचनम्"
 
 59 (61). Against cursers.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 शाप-मोचनम्।  
 १ बादरायणिः। अरिनाशनम्। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Bādarāyaṇi.—arināśanamantroktadevatākam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also in Pāipp. xx. (as part of our hymn vi. 37). This verse has the same 
 #### Translations
 Translated: Henry, 23, 86; Griffith, i. 355.
 </details>
+
 <details><summary>Griffith</summary>
 
 An imprecation
@@ -39,15 +43,6 @@ An imprecation
 
 यो᳓ नः शपाद᳓शपतः श᳓पतो य᳓श्च नः श᳓पात्।  
 वृक्ष᳓ इव विद्यु᳓ता हत᳓ आ᳓ मू᳓लाद᳓नु शुष्यतु ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/059_shApa-mochanam/01_yo_naH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यो नः॑ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्।  
-वृ॒क्ष इ॑व वि॒द्युता॑ ह॒त आ मूला॒दनु॑ शुष्यतु ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/059_shApa-mochanam/01_yo_naH.md">
@@ -71,14 +66,23 @@ and, for the hymns, *pañcamo ‘ṣṭāu*.
   
 Here ends also the sixteenth *prapāṭhaka*.
 </details>
+
 <details><summary>Griffith</summary>
 
 Like a tree struck by lightning may the man be withered from the root. Who curseth us who curse not him, or, when we curse him. curseth us.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो नः॑ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्।  
+वृ॒क्ष इ॑व वि॒द्युता॑ ह॒त आ मूला॒दनु॑ शुष्यतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। नः॒। शपा॑त्। अश॑पतः। शप॑तः। यः। च॒। नः॒। शपा॑त्। वृ॒क्षःऽइ॑व। वि॒ऽद्युता॑। ह॒तः। आ। मूला॑त्। अनु॑। शु॒ष्य॒तु॒। ६१.१। 
+यः। नः॒। शपा॑त्। अश॑पतः। शप॑तः। यः। च॒। नः॒। शपा॑त्। वृ॒क्षःऽइ॑व। वि॒ऽद्युता॑। ह॒तः। आ। मूला॑त्। अनु॑। शु॒ष्य॒तु॒। ६१.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अरिनाशनम्
@@ -86,18 +90,22 @@ Like a tree struck by lightning may the man be withered from the root. Who curse
 - अनुष्टुप्
 - शापमोचन सुक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुवचन के त्याग का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो (अशपतः) न शाप देनेवाले (नः) हम लोगों को (शपात्) शाप देवे, (च) और (यः) जो (शपतः) शाप देनेवाले (नः) हम लोगों को (शपात्) शाप देवे। (विद्युता) बिजुली से (हतः) मारे गये (वृक्षः इव) वृक्ष के समान वह (आ मूलात्) जड़ से लेकर (अनु) निरन्तर (शुष्यतु) सूख जावे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो दुष्ट धर्मात्माओं में दोष लगावे, राजा उसको यथोचित दण्ड देवे ॥१॥ इस मन्त्र का पूर्वार्द्ध आ चुका है-अ० ६।३७।३ ॥  इति पञ्चमोऽनुवाकः ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यः) दुष्टः (नः) अस्मान् (शपात्) शपेत्। निन्देत् (अशपतः) अशापिनः (शपतः) शापकारिणः (यः) (च) (नः) (शपात्) (वृक्षः) (इव) (विद्युता) अशन्या (हतः) भस्मीकृतः (आ मूलात्) मूलमारभ्य (अनु) निरन्तरम् (शुष्यतु) शुष्को भवतु ॥

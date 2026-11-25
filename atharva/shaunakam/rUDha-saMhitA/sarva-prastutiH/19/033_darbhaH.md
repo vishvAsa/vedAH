@@ -8,15 +8,18 @@ title = "०३३ दर्भः"
 
 33. For various blessings: with an amulet of darbhá.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 दर्भः।  
 १-५ भृगुः। दर्भः। १ जगती, २, ५ त्रिष्टुप्, ३ आर्षी पङ्क्तिः, ४ आस्तारपङ्क्तिः।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [As 32.—pañcakam. 1. jagatī; 2, 5. triṣṭubh; 3. ārṣī pan̄kti; 4. āstārapan̄kti.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found in Pāipp. xii., following our hymn 32. Used with the latter in the same c
 #### Translations
 Translated: Griffith, ii. 290.
 </details>
+
 <details><summary>Griffith</summary>
 
 A protective and benedictive charm
@@ -39,15 +43,6 @@ A protective and benedictive charm
 
 स᳙हस्रार्घः᳓ शत᳓काण्डः प᳓यस्वानपा᳓मग्नि᳓र्वीरु᳓धां राजसू᳓यम्।  
 स᳓ नोऽयं᳓ दर्भः᳓ प᳓रि पातु विश्व᳓तो देवो᳓ मणि᳓रा᳓युषा सं᳓ सृजाति नः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/01_sahasrArghaH_shatakANDaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-स॑हस्रा॒र्घः श॒तका॑ण्डः॒ पय॑स्वान॒पाम॒ग्निर्वी॒रुधां॑ राज॒सूय॑म्।  
-स नो॒ऽयं द॒र्भः परि॑ पातु वि॒श्वतो॑ दे॒वो म॒णिरायु॑षा॒ सं सृ॑जाति नः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/01_sahasrArghaH_shatakANDaH.md">
@@ -68,14 +63,23 @@ has *-ghyas*. The comm. reads *sahasvān* (for *pay-*), and renders
 is identical with 32. 10 **c**.⌋ \*⌊Other forms like *sṛjātu* under 7.  
 4.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Hundred stemmed, succulent, and worth a thousand, the Royal Rite of plants, the Water's Agni, Let this same Darbha guard us from all quarters. This Godlike Amulet shall with life endow us.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑हस्रा॒र्घः श॒तका॑ण्डः॒ पय॑स्वान॒पाम॒ग्निर्वी॒रुधां॑ राज॒सूय॑म्।  
+स नो॒ऽयं द॒र्भः परि॑ पातु वि॒श्वतो॑ दे॒वो म॒णिरायु॑षा॒ सं सृ॑जाति नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒ह॒स्र॒ऽअ॒र्घः। श॒तऽका॑ण्डः। पय॑स्वान्। अ॒पाम्। अ॒ग्निः। वी॒रुधा॑म्। रा॒ज॒ऽसूय॑म्। सः। नः॒। अ॒यम्। द॒र्भः। परि॑। पा॒तु॒। वि॒श्वतः॑। दे॒वः। म॒णिः। आयु॑षा। सम्। सृ॒जा॒ति॒। नः॒। ३३.१। 
+स॒ह॒स्र॒ऽअ॒र्घः। श॒तऽका॑ण्डः। पय॑स्वान्। अ॒पाम्। अ॒ग्निः। वी॒रुधा॑म्। रा॒ज॒ऽसूय॑म्। सः। नः॒। अ॒यम्। द॒र्भः। परि॑। पा॒तु॒। वि॒श्वतः॑। दे॒वः। म॒णिः। आयु॑षा। सम्। सृ॒जा॒ति॒। नः॒। ३३.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -83,18 +87,22 @@ Hundred stemmed, succulent, and worth a thousand, the Royal Rite of plants, the 
 - जगती
 - दर्भ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 उन्नति करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सहस्रार्घः) सहस्रों पूजावाला, (शतकाण्डः) सैकडों सहारे देनेवाला, (पयस्वान्) अन्नवाला, (अपाम्) जलों की (अग्निः) अग्नि [के समान व्यापक] (वीरुधाम्) ओषधियों के (राजसूयम्) राजसूय [बड़े यज्ञ के समान उपकारी] है। (सः अयम्) वही (दर्भः) दर्भ [शत्रुविदारक परमेश्वर] (नः) हमें (विश्वतः) सब ओर से (परि पातु) पालता रहे, (देवः) प्रकाशमान (मणिः) प्रशंसनीय [वह परमेश्वर] (नः) हमें (आयुषा) [उत्तम] जीवन के साथ (सं सृजाति) संयुक्त करे ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो जल के भीतर अग्नि के समान सर्वव्यापक परमेश्वर सृष्टि की अनेक प्रकार रक्षा करता है, मनुष्य उसकी भक्ति से प्रयत्नपूर्वक अपने जीवन को सुफल बनावें ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   इस मन्त्र का तीसरा पाद आ चुका है-सू०३२ म०१०॥१−(सहस्रार्घः) अर्ह पूजायाम्-घञ्। बहुपूजनीयः (शतकाण्डः) उ०१९।३२।१। बहुरक्षणोपेतः (पयस्वान्) अन्नवान्-निघ०२।७ (अपाम्) जलानां मध्ये (अग्निः) अग्निसमानसर्वव्यापकः (वीरुधाम्) ओषधीनाम् (राजसूयम्) राजसूययज्ञसमानमहोपकारकः (देवः) प्रकाशमानः (मणिः) प्रशस्तः परमेश्वरः (आयुषा) उत्तमजीवनेन (सं सृजाति) संयोजयेत् (नः) अस्मान्। अन्यत् पूर्ववत्-अ०१९।३२।१०॥
@@ -108,15 +116,6 @@ Hundred stemmed, succulent, and worth a thousand, the Royal Rite of plants, the 
 
 घृता᳓दु᳓ल्लुप्तो म᳓धुमान्प᳓यस्वान्भूमिदृंहो᳓ऽच्युतश्च्यावयिष्णुः᳓।  
 नुद᳓न्त्सप᳓त्नान᳓धरांश्च कृण्व᳓न्द᳓र्भा᳓ रोह महता᳓मिन्द्रिये᳓ण ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/02_ghRtAdullupto.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-घृ॒तादुल्लु॑प्तो॒ मधु॑मा॒न्पय॑स्वान्भूमिदृं॒होऽच्यु॑तश्च्यावयि॒ष्णुः।  
-नु॒दन्त्स॒पत्ना॒नध॑रांश्च कृ॒ण्वन्दर्भा रो॑ह मह॒तामि॑न्द्रि॒येण॑ ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/02_ghRtAdullupto.md">
@@ -140,14 +139,23 @@ another point of no consequence. Ppp. has at the end *mahatā
 mahendriyeṇa*. The verse is a sort of variation of v. 28. 14, above;  
 ⌊and **a** recurs below, 46. 6 **a**⌋.
 </details>
+
 <details><summary>Griffith</summary>
 
 Drawn forth from butter, juicy, sweetly-flavoured, firm as the earth, unshaken, overthrowing. Driving off foes and casting them beneath me, mount with the strength of mighty Ones, O Darbha.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+घृ॒तादुल्लु॑प्तो॒ मधु॑मा॒न्पय॑स्वान्भूमिदृं॒होऽच्यु॑तश्च्यावयि॒ष्णुः।  
+नु॒दन्त्स॒पत्ना॒नध॑रांश्च कृ॒ण्वन्दर्भा रो॑ह मह॒तामि॑न्द्रि॒येण॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-घृ॒तात्। उत्ऽलु॑प्तः। मधु॑ऽमान्। पय॑स्वान्। भू॒मि॒ऽदृं॒हः। अच्यु॑तः। च्या॒व॒यि॒ष्णुः। नु॒दन्। स॒ऽपत्ना॑न्। अध॑रान्। च॒। कृ॒ण्वन्। दर्भ॑। आ। रो॒ह॒। म॒ह॒ताम्। इ॒न्द्रि॒येण॑। ३३.२। 
+घृ॒तात्। उत्ऽलु॑प्तः। मधु॑ऽमान्। पय॑स्वान्। भू॒मि॒ऽदृं॒हः। अच्यु॑तः। च्या॒व॒यि॒ष्णुः। नु॒दन्। स॒ऽपत्ना॑न्। अध॑रान्। च॒। कृ॒ण्वन्। दर्भ॑। आ। रो॒ह॒। म॒ह॒ताम्। इ॒न्द्रि॒येण॑। ३३.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -155,18 +163,22 @@ Drawn forth from butter, juicy, sweetly-flavoured, firm as the earth, unshaken, 
 - त्रिष्टुप्
 - दर्भ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 उन्नति करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (घृतात्) प्रकाश से (उल्लुप्तः) ऊपर खींचा गया, (मधुमान्) ज्ञानवान्, (पयस्वान्) अन्नवान्, (भूमिदृंहः) भूमि का दृढ़ करनेवाला, (अच्युतः) अटल, (च्यावयिष्णुः) शत्रुओं को हटा देनेवाला, (सपत्नान्) विरोधियों को (नुदन्) निकालता हुआ (च) और (अधरान्) नीचे (कृण्वन्) करता हुआ तू, (दर्भ) हे दर्भ ! [शत्रुविदारक परमेश्वर] (महताम्) बड़ों के (इन्द्रियेण) ऐश्वर्य के साथ (आ) सब ओर से (रोह) प्रकट हो ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस प्रकाशस्वरूप अविनाशी परमात्मा ने विघ्नों को हटाकर पृथिवी आदि लोक रचे और धारण किये हैं, उसीके आश्रय से सब लोग ऐश्वर्य प्राप्त करें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   यह मन्त्र कुछ भेद से आ चुका है-अ०५।२८।१४ और प्रथम पाद आगे है-अ०१९।४६।६॥२−(घृतात्) प्रकाशात् (उल्लुप्तः) उद्घृतः (मधुमान्) ज्ञानवान् (पयस्वान्) अन्नवान् (भूमिदृंहः) पृथिव्या दृढीकर्ता (अच्युतः) अचलः। (च्यावयिष्णुः) णेश्छन्दसि। पा०३।२।१३७। च्युङ् गतौ-णिच्, इष्णुच्। च्यावयिता। पातयिता (नुदन्) प्रेरयन् (सपत्नान्) विरोधकान् (अधरान्) नीचान् (च) (कृण्वन्) कुर्वन् (दर्भ) हे शत्रुविदारक परमेश्वर (आ) समन्तात् (रोह) प्रादुर्भव (महताम्) पूजनीयानाम् (इन्द्रियेण) ऐश्वर्येण ॥
@@ -180,15 +192,6 @@ Drawn forth from butter, juicy, sweetly-flavoured, firm as the earth, unshaken, 
 
 त्वं᳓ भूमिम᳓त्येष्यो᳓जसा त्वं᳓ वे᳓द्यां सीदसि चा᳓रुरध्वरे᳓।  
 त्वां᳓ पवि᳓त्रमृ᳓षयोऽभरन्त त्वं᳓ पुनीहि दुरिता᳓न्यस्म᳓त् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/03_tvaM_bhUmimatyeShyojasA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-त्वं भू॑मि॒मत्ये॒ष्योज॑सा॒ त्वं वेद्यां॑ सीदसि॒ चारु॑रध्व॒रे।  
-त्वां प॒वित्र॒मृष॑योऽभरन्त॒ त्वं पु॑नीहि दुरि॒तान्य॒स्मत् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/03_tvaM_bhUmimatyeShyojasA.md">
@@ -215,14 +218,23 @@ by neglecting easy and natural resolutions. ⌊The verse is quoted by
 Kāuś. in full at 2. 1 and by *pratīka* at 137. 32: cf. p. 897, ¶3, and  
 see Bloomfield's notes to the passages of Kāuś.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Thou movest o'er the earth with vigour: lovely in sacrifice thou sittest on the altar. The Rishis bear thee as a purifier: cleanse thou us from all evil deeds' defilement.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वं भू॑मि॒मत्ये॒ष्योज॑सा॒ त्वं वेद्यां॑ सीदसि॒ चारु॑रध्व॒रे।  
+त्वां प॒वित्र॒मृष॑योऽभरन्त॒ त्वं पु॑नीहि दुरि॒तान्य॒स्मत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वम्। भूमि॑म्। अति॑। ए॒षि॒। ओज॑सा। त्वम्। वेद्या॑म्। सी॒द॒सि॒। चारुः॑। अ॒ध्व॒रे। त्वाम्। प॒वित्र॑म्। ऋष॑यः। अ॒भ॒र॒न्त॒। त्वम्। पु॒नी॒हि॒। दुः॒ऽइ॒तानि॑। अ॒स्मत्। ३३.३। 
+त्वम्। भूमि॑म्। अति॑। ए॒षि॒। ओज॑सा। त्वम्। वेद्या॑म्। सी॒द॒सि॒। चारुः॑। अ॒ध्व॒रे। त्वाम्। प॒वित्र॑म्। ऋष॑यः। अ॒भ॒र॒न्त॒। त्वम्। पु॒नी॒हि॒। दुः॒ऽइ॒तानि॑। अ॒स्मत्। ३३.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -230,18 +242,22 @@ Thou movest o'er the earth with vigour: lovely in sacrifice thou sittest on the 
 - आर्षी पङ्क्तिः
 - दर्भ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 उन्नति करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमात्मन् !] (त्वम्) तू (ओजसा) पराक्रम से (भूमिम्) भूमि को (अति एषि) पार कर जाता है, (त्वम्) तू (चारुः) शोभायमान होकर (अध्वरे) हिंसारहित यज्ञ में (वेद्याम्) वेदी पर (सीदति) वैठता है। (त्वाम् पवित्रम्) तुझ पवित्र को (ऋषयः) ऋषियों [तत्त्वदर्शियों] ने (अभरन्त) धारण किया है, (त्वम्) तू (दुरितानि) संकटों को (अस्मत्) हमसे (पुनीहि) शुद्ध कर ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वह परमात्मा पृथिवी आदि अनन्त लोकों का अद्वितीय सर्वोपरि शासक है, हे मनुष्यो ! उसीकी आज्ञा मानकर दुष्कर्मों को त्याग अपने को शुद्ध बनाओ ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(त्वम्) (भूमिम्) (अति) अतीत्य (एषि) गच्छसि (ओजसा) पराक्रमेण (त्वम्) (वेद्याम्) यज्ञप्रदेशे (सीदसि) तिष्ठसि (चारुः) शोभायमानः (अध्वरे) हिंसारहिते यज्ञे (त्वाम्) (पवित्रम्) शुद्धम् (ऋषयः) तत्त्वदर्शिनः (अभरन्त) धारितवन्तः (त्वम्) (पुनीहि) शोधय (दुरितानि) महादुःखानि (अस्मत्) अस्मत्तः ॥
@@ -257,15 +273,6 @@ Thou movest o'er the earth with vigour: lovely in sacrifice thou sittest on the 
 ओ᳓जो देवा᳓नां ब᳓लमुग्र᳓मेत᳓त्तं᳓ ते बध्नामि जर᳓से स्वस्त᳓ये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/04_tIxNo_rAjA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ती॒क्ष्णो राजा॑ विषास॒ही र॑क्षो॒हा वि॒श्वच॑र्षणिः।  
-ओजो॑ दे॒वानां॒ बल॑मु॒ग्रमे॒तत्तं ते॑ बध्नामि ज॒रसे॑ स्व॒स्तये॑ ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/04_tIxNo_rAjA.md">
 <details open><summary><h3>०४ तीक्ष्णो राजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -278,14 +285,23 @@ that; I bind it on thee in order to old age, to well-being.
 ##### Notes
 Ppp. reads in **c** *tejas* for *ojas*, and in **d** *tat* for *tam*.
 </details>
+
 <details><summary>Griffith</summary>
 
 A stern and all-victorious king, foe-queller, dear to every man-- That energy of Gods and mighty power, I bind this on thee for long life and welfare.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ती॒क्ष्णो राजा॑ विषास॒ही र॑क्षो॒हा वि॒श्वच॑र्षणिः।  
+ओजो॑ दे॒वानां॒ बल॑मु॒ग्रमे॒तत्तं ते॑ बध्नामि ज॒रसे॑ स्व॒स्तये॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ती॒क्ष्णः। राजा॑। वि॒ऽस॒स॒हिः। र॒क्षः॒ऽहा। वि॒श्वऽच॑र्षणिः। ओजः॑। दे॒वाना॑म्। बल॑म्। उ॒ग्रम्। ए॒तत्। तम्। ते॒। ब॒ध्ना॒मि॒। ज॒रसे॑। स्व॒स्तये॑। ३३.४। 
+ती॒क्ष्णः। राजा॑। वि॒ऽस॒स॒हिः। र॒क्षः॒ऽहा। वि॒श्वऽच॑र्षणिः। ओजः॑। दे॒वाना॑म्। बल॑म्। उ॒ग्रम्। ए॒तत्। तम्। ते॒। ब॒ध्ना॒मि॒। ज॒रसे॑। स्व॒स्तये॑। ३३.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -293,18 +309,22 @@ A stern and all-victorious king, foe-queller, dear to every man-- That energy of
 - आस्तारपङ्क्तिः
 - दर्भ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 उन्नति करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (तीक्ष्णः) तीक्ष्ण (राजा) राजा, (विषासहिः) सदा विजयी, (रक्षोहा) राक्षसों का नाश करने हारा, (विश्वचर्षणिः) सर्वद्रष्टा और (देवानाम्) विद्वानों का (ओजः) पराक्रम और (एतत्) यह [दृश्यमान] (उग्रम्) उग्र (बलम्) बल है, (तम्) उस [परमात्मा] को (ते) तेरी (जरसे) स्तुति बढ़ाने [वा निर्बलता हटाने] के लिये और (स्वस्तये) मङ्गल के लिये (बध्नामि) मैं धारण करता हूँ ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सर्वशक्तिमान् सर्वदर्शक जगदीश्वर को हृदय में धारण करके उपाय के साथ निर्बलता हटावें और सामर्थ्य बढ़ाकर स्तुति प्राप्त करते हुए आनन्द भोगें ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(तीक्ष्णः) तीव्रः (राजा) शासकः (विषासहिः) अ०१।२९।६। षह अभिभवे-यङ्-कि। अतिशयेन विजयी (रक्षोहा) राक्षसानां हन्ता (विश्वचर्षणिः) अ०४।३२।४। सर्वद्रष्टा (ओजः) पराक्रमः (देवानाम्) विदुषाम् (बलम्) सामर्थ्यम् (उग्रम्) प्रचण्डम् (एतत्) दृश्यमानम् (तम्) परमात्मानम् (ते) तव (बध्नामि) धारयामि (जरसे) जरां स्तुतिं प्राप्तुम्। जरां निर्बलतां परिहर्तुम् (स्वस्तये) मङ्गलाय ॥
@@ -318,15 +338,6 @@ A stern and all-victorious king, foe-queller, dear to every man-- That energy of
 
 दर्भे᳓ण त्वं᳓ कृणवद्वीर्या᳙णि दर्भं᳓ बि᳓भ्रदात्म᳓ना मा᳓ व्यथिष्ठाः।  
 अ᳙तिष्ठा᳓य व᳓र्चसा᳓धान्या᳓न्त्सू᳓र्य इवा᳓ भाहि प्रदि᳓शश्च᳓तस्रः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/05_darbheNa_tvam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-द॒र्भेण॒ त्वं कृ॑णवद्वी॒र्या᳡णि द॒र्भं बिभ्र॑दा॒त्मना॒ मा व्य॑थिष्ठाः।  
-अ॑ति॒ष्ठाय॒ वर्च॒साधा॒न्यान्त्सूर्य॑ इ॒वा भा॑हि प्र॒दिश॒श्चत॑स्रः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/05_darbheNa_tvam.md">
@@ -358,14 +369,23 @@ points out that *dhya* and *dhā* look very much alike in most old mss.⌋
 ⌊Here ends the fourth *anuvāka*, with 7 hymns and 68 verses. If you  
 reckoned 27. 14-15 as 3 verses, the sum would be 69.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Achieve heroic deeds with Darbha, wearing this Darbha never let thy soul be troubled. In splendour and precedence over others illumine like the Sun the heaven's four regions.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+द॒र्भेण॒ त्वं कृ॑णवद्वी॒र्या᳡णि द॒र्भं बिभ्र॑दा॒त्मना॒ मा व्य॑थिष्ठाः।  
+अ॑ति॒ष्ठाय॒ वर्च॒साधा॒न्यान्त्सूर्य॑ इ॒वा भा॑हि प्र॒दिश॒श्चत॑स्रः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द॒र्भेण॑। त्वम्। कृ॒ण॒व॒त्। वी॒र्या᳡णि। द॒र्भम्। बिभ्र॑त्। आ॒त्मना॑। मा। व्य॒थि॒ष्ठाः॒। अति॑ऽस्थाय। वर्च॑सा। अध॑। अ॒न्यान्। सूर्यः॑ऽइव। आ। भा॒हि॒। प्र॒ऽदिशः॑। चत॑स्रः। ३३.५। 
+द॒र्भेण॑। त्वम्। कृ॒ण॒व॒त्। वी॒र्या᳡णि। द॒र्भम्। बिभ्र॑त्। आ॒त्मना॑। मा। व्य॒थि॒ष्ठाः॒। अति॑ऽस्थाय। वर्च॑सा। अध॑। अ॒न्यान्। सूर्यः॑ऽइव। आ। भा॒हि॒। प्र॒ऽदिशः॑। चत॑स्रः। ३३.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मन्त्रोक्ताः
@@ -373,18 +393,22 @@ Achieve heroic deeds with Darbha, wearing this Darbha never let thy soul be trou
 - त्रिष्टुप्
 - दर्भ सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 उन्नति करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्य !] (त्वम्) तू (दर्भेण) दर्भ [शत्रुविदारक परमेश्वर] के साथ (वीर्याणि) वीरताएँ (कृणवत्) करता रहे और (दर्भम्) दर्भ [शत्रुविदारक परमेश्वर] को (बिभ्रत्) धारण करता हुआ तू (आत्मना) अपने आत्मा से (मा व्यथिष्ठाः) मत व्याकुल हो। (अध) और (वर्चसा) तेज के साथ (अन्यान्) दूसरों से (अतिष्ठाय) बढ़-जाकर, (सूर्यः इव) सूर्य के समान (चतस्रः) चारों (प्रदिशः) बड़ी दिशाओं में (आ) सर्वथा (भाहि) प्रकाशमान हो ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमात्मा को हृदय में धारण करके आत्मबल बढ़ाते हुए पराक्रमी होकर सब संसार में कीर्त्ति पावें ॥५॥ इति चतुर्थोऽनुवाकः ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(दर्भेण) शत्रुविदारकेण परमेश्वरेण (त्वम्) (कृणवत्) लेटि मध्यमपुरुषस्य प्रथमपुरुषः। त्वं कृणवः। कुर्याः (वीर्याणि) वीरकर्माणि (दर्भम्) शत्रुविदारकं परमात्मानम् (बिभ्रत्) धारयन् (आत्मना) स्वात्मबलेन (मा व्यथिष्ठाः) व्यथ ताडने। व्यथां मा कुरु (अतिष्ठाय) अतिक्रम्य। अभिभूय (वर्चसा) तेजसा (अन्यान्) शत्रून् (सूर्यः) (इव) यथा (आ) समन्तात् (भाहि) दीप्यस्व (प्रदिशः) अत्यन्तसंयोगे द्वितीया। प्रकृष्टाः प्रागादिदिशाः (चतस्रः) चतुःसंख्याकाः ॥

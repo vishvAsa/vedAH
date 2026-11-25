@@ -8,15 +8,18 @@ title = "१०० विषदूषणम्"
 
 100. Against poison.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 विषदूषणम्।  
 १-३ गरुत्मान्। वनस्पतिः। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Garutman.—vānaspatyam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -37,15 +40,6 @@ Translated: Ludwig, p. 511; Griffith, i. 300; Bloomfield, 27, 511.—See also Be
 तिस्रः᳓ स᳓रस्वतिरदुः स᳓चित्ता विषदू᳓षणम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/01_devA_aduH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-दे॒वा अ॑दुः॒ सूर्यो॒ द्यौर॑दात्पृथि॒व्य᳡दात्।  
-ति॒स्रः सर॑स्वतिरदुः॒ सचि॑त्ता विष॒दूष॑णम् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/01_devA_aduH.md">
 <details open><summary><h3>०१ देवा अदुः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -60,14 +54,23 @@ Ppp. combines *devā ’duḥ* in **a**, and has *sarvās* instead of *tīsras*
 in **c**. The comm. renders the first verb correctly, by *dattavantas*,  
 but the others as imperatives.
 </details>
+
 <details><summary>Griffith</summary>
 
 The Gods and Surya gave the gift, the Earth and Heaven best- owed the boon. The three Sarasvatis in full accord bestowed the antidote.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॒वा अ॑दुः॒ सूर्यो॒ द्यौर॑दात्पृथि॒व्य᳡दात्।  
+ति॒स्रः सर॑स्वतिरदुः॒ सचि॑त्ता विष॒दूष॑णम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒वाः। अ॒दुः॒। सूर्यः॑। अ॒दा॒त्। द्यौः। अ॒दा॒त्। पृ॒थि॒वी। अ॒दा॒त्। ति॒स्रः। सर॑स्वतीः। अ॒दुः॒। सऽचि॑त्ताः। वि॒ष॒ऽदूष॑णम्। १००.१। 
+दे॒वाः। अ॒दुः॒। सूर्यः॑। अ॒दा॒त्। द्यौः। अ॒दा॒त्। पृ॒थि॒वी। अ॒दा॒त्। ति॒स्रः। सर॑स्वतीः। अ॒दुः॒। सऽचि॑त्ताः। वि॒ष॒ऽदूष॑णम्। १००.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वनस्पतिः
@@ -75,18 +78,22 @@ The Gods and Surya gave the gift, the Earth and Heaven best- owed the boon. The 
 - अनुष्टुप्
 - विषनिवारण का उपाय
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग नाश करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवाः) जलदाता मेघों ने (विषदूषणम्) विषनाशक ओषध रूप विज्ञान को (अदुः) दिया है, (सूर्यः) सूर्य ने (अदात्) दिया है, (द्यौः) अन्तरिक्ष ने (अदात्) दिया है, (पृथिवी) पृथिवी ने (अदात्) दिया है। (सचित्ताः) समान ज्ञानवाली (तिस्रः) तीनों (सरस्वतीः) विज्ञानवाली देवियों ने (अदुः) दिया है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य मेघ सूर्य आदि पदार्थों और विद्याओं से यथावत् उपकार लेकर सुख प्राप्त करें ॥१॥  तीन देवियाँ यह हैं [अ० ५।१२।८] १−भारती, पोषण करनेवाली विद्या, २−इडा, स्तुतियोग्य नीति और ३−सरस्वती, विज्ञानवाली बुद्धि ॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(देवाः) देवो दानाद्वा दीपनाद्वा द्योतनाद्वा द्युस्थानो भवतीति वा−निरु० ७।१५। जलप्रदा मेघाः (अदुः) दत्तवन्तः (सूर्यः) आदित्यः (अदात्) दत्तवान् (द्यौः) अन्तरिक्षम् (पृथिवी) भूमिः (तिस्रः) त्रिसंख्याकाः (सरस्वतीः) सरस्वत्यः। विज्ञानवत्यो विद्याः, भारती, इडा, सरस्वतीति−अ० ५।१२।८ (सवित्ताः) समानज्ञानाः (विषदूषणम्) विषनिवारकौषधरूपविज्ञानम् ॥
@@ -100,15 +107,6 @@ The Gods and Surya gave the gift, the Earth and Heaven best- owed the boon. The 
 
 य᳓द्वो देवा᳓ उपजीका आ᳓सिञ्चन्ध᳓न्वन्युदक᳓म्।  
 ते᳓न देव᳓प्रसूतेनेदं᳓ दूषयता विष᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/02_yadvo_devA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यद्वो॑ दे॒वा उ॑पजीका॒ आसि॑ञ्च॒न्धन्व॑न्युद॒कम्।  
-तेन॑ दे॒वप्र॑सूतेने॒दं दू॑षयता वि॒षम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/02_yadvo_devA.md">
@@ -129,14 +127,23 @@ wherever they dig'; they are a kind of ant: cf. note to ii. 3. 4. Ppp.
 reads *upacīkā*, and combines *-kā ”siñcan;* also, in **b**, *dhanvann*.  
 \*⌊But SPP's Bh. has *upajīkā́s!*⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 That water, Upajikas! which Gods poured for you on thirsty land, With that same water sent by Gods, drive ye away this poison here.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्वो॑ दे॒वा उ॑पजीका॒ आसि॑ञ्च॒न्धन्व॑न्युद॒कम्।  
+तेन॑ दे॒वप्र॑सूतेने॒दं दू॑षयता वि॒षम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। वः॒। दे॒वाः। उ॒प॒ऽजी॒काः॒। आ॒ऽअसि॑ञ्चन्। धन्व॑नि। उ॒द॒कम्। तेन॑। दे॒वऽप्र॑सूतेन। इ॒दम्। दू॒ष॒य॒त॒। वि॒षम्। १००.२। 
+यत्। वः॒। दे॒वाः। उ॒प॒ऽजी॒काः॒। आ॒ऽअसि॑ञ्चन्। धन्व॑नि। उ॒द॒कम्। तेन॑। दे॒वऽप्र॑सूतेन। इ॒दम्। दू॒ष॒य॒त॒। वि॒षम्। १००.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वनस्पतिः
@@ -144,18 +151,22 @@ That water, Upajikas! which Gods poured for you on thirsty land, With that same 
 - अनुष्टुप्
 - विषनिवारण का उपाय
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग नाश करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उपजीकाः) हे [परमेश्वर के] आश्रित प्राणियो ! (वः) तुम्हारे लिये (देवाः) विद्वानों ने (धन्वनि) निर्जल स्थान में (यत् उदकम्) जिस जल को (आ−असिञ्चन्) लाकर सींचा है। (देवप्रसूतेन) विद्वानों के दिये हुए (तेन) अमृत से (इदम् विषम्) इस विष को (दूषयत) नाश करो ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस प्रकार विद्वान् तोग मरुस्थल में कूप, तडाग, जल नाली आदि द्वारा जल लाकर सुख पाते हैं, वैसे ही मनुष्य विज्ञान द्वारा आत्मिक दोष मिटाकर सुखी होवें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(यत्) (वः) युष्मदर्थम् (देवाः) विद्वांसः (उपजीकाः) अ० २।३।४। उप+जीव प्राणधारणे−ईकन्, स च डित्। उपजीविनः। परमेश्वराश्रिताः प्राणिनः (आ−असिञ्चन्) आनीय सिक्तवन्तः (धन्वनि) मरुदेशे (उदकम्) जलम् (तेन) तक सहने हासे च, यद्वा तर्द हिंसे−ड। अमृतेन (देवप्रसूतेन) विद्वद्भिः प्रेषितेन (इदम्) (दूषयत) नाशयत (विषम्) विषरूपं दुःखम् ॥
@@ -169,15 +180,6 @@ That water, Upajikas! which Gods poured for you on thirsty land, With that same 
 
 अ᳓सुराणां दुहिता᳓सि सा᳓ देवा᳓नामसि स्व᳓सा।  
 दिव᳓स्पृथिव्याः᳓ सं᳓भूता सा᳓ चकर्थारसं᳓ विष᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-असु॑राणां दुहि॒तासि॒ सा दे॒वाना॑मसि॒ स्वसा॑।  
-दि॒वस्पृ॑थि॒व्याः संभू॑ता॒ सा च॑कर्थार॒सं वि॒षम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">
@@ -195,15 +197,24 @@ Ppp. omits *sā* in **b**, and reads *jajñiṣe* instead of *sambhatā* in
 **d**, *cakarṣa* instead of *cakartha;* he regards earth from the  
 ant-hill (*valmīkamṛttikā*) as addressed in the verse.
 </details>
+
 <details><summary>Griffith</summary>
 
 असु॑राणां दुहि॒तासि॒ सा दे॒वाना॑मसि॒ स्वसा॑ ।  
 दि॒वस्पृ॑थि॒व्याः संभू॑ता॒ सा च॑कर्थार॒सं वि॒षम्॥३॥
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+असु॑राणां दुहि॒तासि॒ सा दे॒वाना॑मसि॒ स्वसा॑।  
+दि॒वस्पृ॑थि॒व्याः संभू॑ता॒ सा च॑कर्थार॒सं वि॒षम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-असु॑राणाम्। दु॒हि॒ता। अ॒सि॒। सा। दे॒वाना॑म्। अ॒सि॒। स्वसा॑। दि॒वः। पृ॒थि॒व्याः। सम्ऽभू॑ता। सा। च॒क॒र्थ॒। अ॒र॒सम्। वि॒षम्। १००.३। 
+असु॑राणाम्। दु॒हि॒ता। अ॒सि॒। सा। दे॒वाना॑म्। अ॒सि॒। स्वसा॑। दि॒वः। पृ॒थि॒व्याः। सम्ऽभू॑ता। सा। च॒क॒र्थ॒। अ॒र॒सम्। वि॒षम्। १००.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वनस्पतिः
@@ -211,18 +222,22 @@ ant-hill (*valmīkamṛttikā*) as addressed in the verse.
 - अनुष्टुप्
 - विषनिवारण का उपाय
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग नाश करने का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे ओषधि !] (असुराणाम्) श्रेष्ठ बुद्धिमानों की (दुहिता) कामनायें पूरी करनेवाली (असि) है, (सा) सो तू (देवानाम्) उत्तम गुणों की (स्वसा) अच्छे प्रकार प्रकाश करनेवाली (असि) है। (दिवः) सूर्य से और (पृथिव्याः) पृथिवी से (संभूता) उत्पन्न हुई (सा) उस तुझ ने (विषम्) विष को (अरसम्) निर्बल (चकर्थ) कर दिया है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे सूर्य के ताप और पृथिवी के संयोग से उत्पन्न औषधियों से उपकार होता है, वैसे ही मनुष्य परोपकार करके परस्पर लाभ उठावे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(असुराणाम्) प्रज्ञावताम्−निरु० १०।३४। (दुहिता) अ० ५।१०।१३। कामानां पूरयित्री (असि) (स्वसा) अ० ५।५।१। सु+अस दीप्तौ−ऋन्। सुष्ठु दीपयित्री। स्वसा सुअसा स्वेषु सीदतीति वा−निरु० २१।३२। (दिवः) आदित्यात् (पृथिव्याः) भूमेः (सम्भूता) उत्पन्ना (चकर्थ) त्वं कृतवती (अरसम्) निवीर्यम् (विषम्) विषरूपं दुःखम् ॥

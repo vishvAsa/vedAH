@@ -8,15 +8,18 @@ title = "०३६ शतवारो मणिः"
 
 36. With a śatávāra-amulet: for protection etc.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 शतवारो मणिः।  
 १-६ ब्रह्मा। शतवारः। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ṣaḍṛcam. śatavāradāivatam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also ⌊except 4 c, d, 5 a, b⌋ in Pāipp. ii. The comm. quotes its use f
 #### Translations
 Translated: Griffith, ii. 294.
 </details>
+
 <details><summary>Griffith</summary>
 
 A charm against disease and evil spirits
@@ -39,15 +43,6 @@ A charm against disease and evil spirits
 
 शत᳓वारो अनीनशद्य᳓क्ष्मान्र᳓क्षांसि ते᳓जसा।  
 आरो᳓हन्व᳓र्चसा सह᳓ मणि᳓र्दुर्णामचा᳓तनः ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/01_shatavAro_anInashadyaxmAnraxAMsi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-श॒तवा॑रो अनीनश॒द्यक्ष्मा॒न्रक्षां॑सि॒ तेज॑सा।  
-आ॒रोह॒न्वर्च॑सा स॒ह म॒णिर्दु॑र्णाम॒चात॑नः ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/01_shatavAro_anInashadyaxmAnraxAMsi.md">
@@ -72,14 +67,23 @@ hundred choice things' (cf. *viśvávāra*). The comm. declares 'ill-named'
 to denote a skin-disease. ⌊"Mounting": i.e. being raised up to the neck  
 of the person on whom it is "bound"—so Griffith.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 The Hundred-haired hath banished hence fiends and Consump- tions by its might. With splendour hath the charm that scares demons of ill-name mounted up.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+श॒तवा॑रो अनीनश॒द्यक्ष्मा॒न्रक्षां॑सि॒ तेज॑सा।  
+आ॒रोह॒न्वर्च॑सा स॒ह म॒णिर्दु॑र्णाम॒चात॑नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श॒तऽवा॑रः। अ॒नी॒न॒श॒त्। यक्ष्मा॑न्। रक्षां॑सि। तेज॑सा। आ॒ऽरोह॑न्। वर्च॑सा। स॒ह। म॒णिः। दु॒र्ना॒म॒ऽचात॑नः। ३६.१। 
+श॒तऽवा॑रः। अ॒नी॒न॒श॒त्। यक्ष्मा॑न्। रक्षां॑सि। तेज॑सा। आ॒ऽरोह॑न्। वर्च॑सा। स॒ह। म॒णिः। दु॒र्ना॒म॒ऽचात॑नः। ३६.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - शतवारः
@@ -87,18 +91,22 @@ The Hundred-haired hath banished hence fiends and Consump- tions by its might. W
 - अनुष्टुप्
 - शतवारमणि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोगों के नाश का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (दुर्णामचातनः) दुर्नामों [बुरे नामवाले बवासीर आदि रोगों] को नाश करनेवाले (मणिः) प्रशंसनीय (शतवारः) शतवार [सैकड़ों से स्वीकार करने योग्य औषध विशेष] ने (वर्चसा सह) प्रकाश के साथ (आरोहन्) ऊँचे होते हुए (तेजसा) अपनी तीक्ष्णता से (यक्ष्मान्) राजरोगों [क्षयी आदि] और (रक्षांसि) राक्षसों [रोगजन्तुओं] को (अनीनशत्) नष्ट कर दिया है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  शतवार औषध के सेवन से क्षयी, बवासीर आदि रोग नष्ट होते हैं, और वे रोगजन्तु भी नष्ट होते हैं, जो शरीर में दाद बवासीर आदि के कारण हैं ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   शतवार और शतावरी एक ही औषध जान पड़ते हैं, जिसके नाम शतमूली आदि हैं ॥१−(शतवारः) शत+वृण् वरणे-घञ्। बहुभिर्वरणीयः स्वीकरणीयः। विश्ववारः-अ०५।२७।३। औषधविशेषः (अनीनशत्) नाशितवान् (यक्ष्मान्) अ०२।१०।५ राजरोगान्। क्षयरोगान् (तेजसा) प्रभावेण (आरोहन्) अधितिष्ठन् (वर्चसा) प्रकाशेन (सः) (मणिः) प्रशस्तः (दुर्णामचातनः) अ०८।६।३। दुर्णाम्नामर्शआदिरोगाणां नाशकः ॥
@@ -112,15 +120,6 @@ The Hundred-haired hath banished hence fiends and Consump- tions by its might. W
 
 शृ᳓ङ्गाभ्यां र᳓क्षो नुदते मू᳓लेन यातुधान्यः᳙।  
 म᳓ध्येन य᳓क्ष्मं बाधते नै᳓नं पाप्मा᳓ति तत्रति ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/02_shRngAbhyAM_raxo.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-शृङ्गा॑भ्यां॒ रक्षो॑ नुदते॒ मूले॑न यातुधा॒न्यः᳡।  
-मध्ये॑न॒ यक्ष्मं॑ बाधते॒ नैनं॑ पा॒प्माति॑ तत्रति ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/02_shRngAbhyAM_raxo.md">
@@ -141,14 +140,23 @@ parts of its apex, set on like horns." The mention of a "root" is, of
 course, an indication (though not a certain one) that a plant is  
 intended.
 </details>
+
 <details><summary>Griffith</summary>
 
 It drives off demons with its horns and sorceresses with its root, It stays Consumption with its waist: from this no wickedness escapes.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+शृङ्गा॑भ्यां॒ रक्षो॑ नुदते॒ मूले॑न यातुधा॒न्यः᳡।  
+मध्ये॑न॒ यक्ष्मं॑ बाधते॒ नैनं॑ पा॒प्माति॑ तत्रति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शृङ्गा॑भ्याम्। रक्षः॑। नु॒द॒ते॒। मूले॑न। या॒तु॒ऽधा॒न्यः᳡। मध्ये॑न। यक्ष्म॑म्। बा॒ध॒ते॒। न। ए॒न॒म्। पा॒प्मा। अति॑। त॒त्र॒ति॒। ३६.२। 
+शृङ्गा॑भ्याम्। रक्षः॑। नु॒द॒ते॒। मूले॑न। या॒तु॒ऽधा॒न्यः᳡। मध्ये॑न। यक्ष्म॑म्। बा॒ध॒ते॒। न। ए॒न॒म्। पा॒प्मा। अति॑। त॒त्र॒ति॒। ३६.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - शतवारः
@@ -156,18 +164,22 @@ It drives off demons with its horns and sorceresses with its root, It stays Cons
 - अनुष्टुप्
 - शतवारमणि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सबकी रक्षा का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [शतवार] (शृङ्गाभ्याम्) अपने दोनों सींगों [अगले भागों] से (रक्षः) राक्षस और (मूलेन) जड़ से (यातुधान्यः) दुःखदायिनी पीड़ाओं को (नुदते) ढकेलता है। (मध्येन) मध्य भाग से (यक्ष्मम्) राजरोग को (बाधते) हटाता है, (एनम्) इसको (पाप्मा) [कोई] अनहित (न) नहीं (अति तत्रति) दबा सकता है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  इस सर्वौषध का प्रत्येक अङ्ग प्रत्येक रोग को हराता है ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(शृङ्गाभ्याम्) शृङ्गवदग्रभागाभ्याम् (रक्षः) राक्षसम्। रोगजन्तुम् (नुदते) प्रेरयति (मूलेन) अधःप्रदेशेन (यातुधान्यः) यातुधानीः। दुःखप्रदाः पीडाः (मध्येन) मध्यभागेन (यक्ष्मम्) राजरोगम् (बाधते) विलोडयति (न) निषेधे (एनम्) शतवारम् (पाप्मा) दुष्टव्यवहारः (अति) अतीत्य (तत्रति) तॄ प्लवनतरणयोः-श्लुः शश्चेति विकरणद्वयम्। तरति। अभिभवति ॥
@@ -183,15 +195,6 @@ It drives off demons with its horns and sorceresses with its root, It stays Cons
 स᳓र्वान् दुर्णामहा᳓ मणिः᳓ शत᳓वारो अनीनशत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/03_ye_yaxmAso.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-ये यक्ष्मा॑सो अर्भ॒का म॒हान्तो॒ ये च॑ श॒ब्दिनः॑।  
-सर्वा॑न् दुर्णाम॒हा म॒णिः श॒तवा॑रो अनीनशत् ॥
-</details>
-</details>
-</div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/03_ye_yaxmAso.md">
 <details open><summary><h3>०३ ये यक्ष्मासो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
@@ -204,14 +207,23 @@ them the *śatávāra* amulet, slayer of the ill-named, hath made vanish.
 Ppp. reads in **b** *śapathinas*. The Anukr. takes no notice of the  
 deficiency of a syllable in **a**.
 </details>
+
 <details><summary>Griffith</summary>
 
 Consumptions, light and serious, and those which sounds accompany, All these the Amulet, Hundred-haired, scarer of fiends, hath banished hence.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये यक्ष्मा॑सो अर्भ॒का म॒हान्तो॒ ये च॑ श॒ब्दिनः॑।  
+सर्वा॑न् दुर्णाम॒हा म॒णिः श॒तवा॑रो अनीनशत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। यक्ष्मा॑सः। अ॒र्भ॒काः। म॒हान्तः॑। ये। च॒। श॒ब्दिनः॑। सर्वा॑न्। दु॒र्ना॒म॒ऽहा। म॒णिः। श॒तऽवा॑रः। अ॒नी॒न॒श॒त्। ३६.३। 
+ये। यक्ष्मा॑सः। अ॒र्भ॒काः। म॒हान्तः॑। ये। च॒। श॒ब्दिनः॑। सर्वा॑न्। दु॒र्ना॒म॒ऽहा। म॒णिः। श॒तऽवा॑रः। अ॒नी॒न॒श॒त्। ३६.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - शतवारः
@@ -219,18 +231,22 @@ Consumptions, light and serious, and those which sounds accompany, All these the
 - अनुष्टुप्
 - शतवारमणि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोगों के नाश का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ये) जो (यक्ष्मासः) राजरोग (अर्भकाः) छोटे और [जो] (महान्तः) बड़े हैं, (च) और (ये) जो (शब्दिनः) महाशब्दकार हैं। (सर्वान्) उन सबको (दुर्णामहा) दुर्नामों [बुरे नामवाले बवासीर दाद आदि] के मिटाने हारे, (मणिः) प्रशंसनीय (शतवारः) शतवार [मन्त्र १] ने (अनीनशत्) नष्ट कर दिया है ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  छोटे-बड़े राजरोग आदि और वे रोग जिनसे शरीर में खुजली वा चरचराहट शब्द होता है, शतावर औषध से सब नष्ट हो जाते हैं ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(ये) (यक्ष्मासः) यक्ष्माः। राजरोगाः (अर्भकाः) क्षुद्राः (महान्तः) वृद्धिं गताः (ये) (च) (शब्दिनः) महाशब्दकारकाः (सर्वान्) (दुर्णामहा) दुर्णाम्नामर्शआदिरोगाणां हन्ता (मणिः) प्रशस्तः (शतवारः) म०१। (अनीनशत्) नाशितवान् ॥
@@ -244,15 +260,6 @@ Consumptions, light and serious, and those which sounds accompany, All these the
 
 शतं᳓ वीरा᳓नजनयच्छतं᳓ य᳓क्ष्मान᳓पावपत्।  
 दुर्णा᳓म्नः स᳓र्वान्हत्वा᳓व र᳓क्षांसि धूनुते ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/04_shataM_vIrAnajanayachChatam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-श॒तं वी॒रान॑जनयच्छ॒तं यक्ष्मा॒नपा॑वपत्।  
-दु॒र्णाम्नः॒ सर्वा॑न्ह॒त्वाव॒ रक्षां॑सि धूनुते ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/04_shataM_vIrAnajanayachChatam.md">
@@ -271,14 +278,23 @@ has *śataṁ vīrāṇi janayac ch-*, which, with emendation to *vīryāṇi
 janayañ*, is perhaps the true reading. About half, indeed, of the mss.  
 read *-nayan*, which also makes a possible text (*śatáṁ vīrā́ ajanayan*).
 </details>
+
 <details><summary>Griffith</summary>
 
 A hundred men hath it produced, hundred Consumptions chased away, All fiends of evil-name it hath smitten, and shakes the Rakshasas.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+श॒तं वी॒रान॑जनयच्छ॒तं यक्ष्मा॒नपा॑वपत्।  
+दु॒र्णाम्नः॒ सर्वा॑न्ह॒त्वाव॒ रक्षां॑सि धूनुते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श॒तम्। वी॒रान्। अ॒ज॒न॒य॒त्। श॒तम्। यक्ष्मा॑न्। अप॑। अ॒व॒प॒त्। दुः॒ऽनाम्नः॑। सर्वा॑न्। ह॒त्वा। अव॑। रक्षां॑सि। धू॒नु॒ते॒। ३६.४। 
+श॒तम्। वी॒रान्। अ॒ज॒न॒य॒त्। श॒तम्। यक्ष्मा॑न्। अप॑। अ॒व॒प॒त्। दुः॒ऽनाम्नः॑। सर्वा॑न्। ह॒त्वा। अव॑। रक्षां॑सि। धू॒नु॒ते॒। ३६.४।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - शतवारः
@@ -286,18 +302,22 @@ A hundred men hath it produced, hundred Consumptions chased away, All fiends of 
 - अनुष्टुप्
 - शतवारमणि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोगों के नाश का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  उस [शतवार] ने (शतम्) सौ [अनेक] (वीरान्) वीर (अजनयत्) उत्पन्न किये हैं, (शतम्) सौ [अनेक] (यक्ष्मान्) राजरोग (अप अवपत्) इतर-वितर किये हैं। वह (सर्वान्) सब (दुर्णाम्नः) दुर्नामों [बुरे नामवाले बवासीर आदि] को (हत्वा) मारकर (रक्षांसि) राक्षसों [रोगजन्तुओं] को (अव धूनुते) हिला डालता है ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  शतवार महौषध के सेवन से वीर्य पुष्ट होकर सब वीर सन्तान उत्पन्न होते हैं, और सब दुष्ट रोग नष्ट होते हैं ॥४॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(शतम्) अनेकान् (वीरान्) शूरान् (अजनयत्) उदपादयत् विश्ववारः-अ०५ (यक्ष्मान्) राजरोगान् (अपावपत्) सर्वथा विक्षिप्तवान् (दुर्णाम्नः) अर्शआदिरोगान् (सर्वान्) (हत्वा) नाशयित्वा (रक्षांसि) रोगजन्तून् (अव धूनुते) सर्वथा कम्पयति ॥
@@ -311,15 +331,6 @@ A hundred men hath it produced, hundred Consumptions chased away, All fiends of 
 
 हि᳓रण्यशृङ्ग ऋषभः᳓ शातवारो᳓ अयं᳓ मणिः᳓।  
 दुर्णा᳓म्नः स᳓र्वांस्तृड्ढ्वा᳓व र᳓क्षांस्यक्रमीत् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/05_hiraNyashRnga_RShabhaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-हिर॑ण्यशृङ्ग ऋष॒भः शा॑तवा॒रो अ॒यं म॒णिः।  
-दु॒र्णाम्नः॒ सर्वां॑स्तृ॒ड्ढ्वाव॒ रक्षां॑स्यक्रमीत् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/05_hiraNyashRnga_RShabhaH.md">
@@ -340,14 +351,23 @@ which SPP. mistakenly emends to *tṛḍḍhvā́* (as if one were to emend the
 *durṇās tris sarvās triḍhvā apa rakṣāṅsy apa kramīm*. The second half of  
 vs. 4 and the first half of vs. 5 are wanting in Ppp.
 </details>
+
 <details><summary>Griffith</summary>
 
 The Bull that weareth horns of gold, this Amulet with hundred hairs, Hath cleft the demons of ill-name and overcome the Rakshasas.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+हिर॑ण्यशृङ्ग ऋष॒भः शा॑तवा॒रो अ॒यं म॒णिः।  
+दु॒र्णाम्नः॒ सर्वां॑स्तृ॒ड्ढ्वाव॒ रक्षां॑स्यक्रमीत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हिर॑ण्यऽशृङ्गः। ऋ॒ष॒भः। शा॒त॒ऽवा॒रः। अ॒यम्। म॒णिः। दुः॒ऽनाम्नः॑। सर्वा॑न्। तृ॒ड्ढ्वा। अव॑। रक्षां॑सि। अ॒क्र॒मी॒त्। ३६.५। 
+हिर॑ण्यऽशृङ्गः। ऋ॒ष॒भः। शा॒त॒ऽवा॒रः। अ॒यम्। म॒णिः। दुः॒ऽनाम्नः॑। सर्वा॑न्। तृ॒ड्ढ्वा। अव॑। रक्षां॑सि। अ॒क्र॒मी॒त्। ३६.५।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - शतवारः
@@ -355,18 +375,22 @@ The Bull that weareth horns of gold, this Amulet with hundred hairs, Hath cleft 
 - अनुष्टुप्
 - शतवारमणि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोगों के नाश का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (हिरण्यशृङ्गः) सोने के समान सींग [अगले भाग] वाला, (ऋषभः) ऋषभ [औषध विशेष के समान] (अयम्) इस (मणिः) प्रशंसनीय (शातवारः) शतवार ने (सर्वान्) सब (दुर्णाम्नः) दुर्नामों [बुरे नामवाले बवासीर आदि] को (तृड्ढ्वा) मार कर (रक्षांसि) राक्षसों [रोगजन्तुओं] को (अव अक्रमीत्) खूँद डाला है ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे ऋषभ औषध बहुत बलकारी और अनेक रोगनाशक है, वैसे ही यह शतवार औषध है ॥५॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(हिरण्यशृङ्गः) सुवर्णसमानशृङ्गमग्रभागो यस्य सः (ऋषभः) ऋषभौषधितुल्यः (पुष्टिकरः) (शातवारः) स्वार्थे-अण्। शतवारः-म०१। (अयम्) (मणिः) प्रशस्तः (दुर्णाम्नः) अर्शआदिरोगान् (सर्वान्) (तृड्ढ्वा) तृह हिंसायाम्-क्त्वा। हिंसित्वा (रक्षांसि) राक्षसान्। रोगजन्तून् (अव अक्रमीत्) पादेन यथा विक्षिप्तवान् ॥
@@ -380,15 +404,6 @@ The Bull that weareth horns of gold, this Amulet with hundred hairs, Hath cleft 
 
 शत᳓महं᳓ दुर्णा᳓म्नीनां गन्धर्वाप्सर᳓सां शत᳓म्।  
 शतं᳓ शश्वन्व᳓तीनां शत᳓वारेण वारये ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/06_shatamahaM_durNAmnInAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-श॒तम॒हं दु॒र्णाम्नी॑नां गन्धर्वाप्स॒रसां॑ श॒तम्।  
-श॒तं श॒श्व॒न्वती॑नां श॒तवा॑रेण वारये ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/06_shatamahaM_durNAmnInAm.md">
@@ -414,14 +429,23 @@ substituted for *d* in the combination, and means *muhurmuhuḥ pīḍārtham
 be used in **a** ⌊with reference to⌋ *vyādhi*, forgetting that *vyādhi*  
 is masculine. ⌊For the play in **d**, cf. my note to xviii. 3. 29.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 Hundred she-fiends, a hundred of Gandharvas and Apsarasas, A hundred of dog-mated nymphs, I keep away with Hundred- Hair
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+श॒तम॒हं दु॒र्णाम्नी॑नां गन्धर्वाप्स॒रसां॑ श॒तम्।  
+श॒तं श॒श्व॒न्वती॑नां श॒तवा॑रेण वारये ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श॒तम्। अ॒हम्। दुः॒ऽनाम्नी॑नाम्। ग॒न्ध॒र्व॒ऽअ॒प्स॒र॒सा॑म्। श॒तम्। श॒तम्। श॒श्व॒न्ऽवती॑नाम्। श॒तऽवा॑रेण। वा॒र॒ये॒। ३६.६। 
+श॒तम्। अ॒हम्। दुः॒ऽनाम्नी॑नाम्। ग॒न्ध॒र्व॒ऽअ॒प्स॒र॒सा॑म्। श॒तम्। श॒तम्। श॒श्व॒न्ऽवती॑नाम्। श॒तऽवा॑रेण। वा॒र॒ये॒। ३६.६।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - शतवारः
@@ -429,18 +453,22 @@ Hundred she-fiends, a hundred of Gandharvas and Apsarasas, A hundred of dog-mate
 - अनुष्टुप्
 - शतवारमणि सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोगों के नाश का उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अहम्) मैं (दुर्णाम्नीनां शतम्) सौ दुर्नाम्नी [बवासीर आदि पीड़ाओं] को और (गन्धर्वाप्सरसां शतम्) सौ गन्धर्वों [पृथिवी पर धरे हुए] और अप्सराओं [आकाश में चलनेवाले रोगों] को और (शश्वन्वतीनां शतम्) सौ उछलती हुई [पीड़ाओं] को (शतवारेण) शतवार [औषध] से (वारये) हटाता हूँ ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो रोग शरीर की मलीनता से पृथिवी और आकाश में जल-वायु की मलीनता से और जो रोग एक दूसरे के लगाव से उत्पन्न होते हैं, वैद्य लोग उनको शतवार औषध से नाश करें ॥६॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(शतम्) अनेकान् (अहम्) वैद्यः (दुर्णाम्नीनाम्) अन उपधालोपिनोऽन्यतरस्याम्। पा०४।१।२८। इति ङीप्। अर्शआदिरोगपीडानाम् (गन्धर्वाप्सरसाम्) अ०८।८।१५। कॄगॄशॄदॄभ्यो वः। उ०१।१५५। गो+धृञ् धारणे-व प्रत्ययः, गो शब्दस्य गमादेशः+सरतेरप्पूर्वादसिः। उ०४।२३७। अप+सृ गतौ-असि। गवि पृथिव्यां ध्रियन्ते ते गन्धर्वाः। अप्सु आकाशे सरन्ति गच्छन्तीति अप्सरसः। तादृशानां रोगाणाम् (शतम्) बहून् (शतम्) (शश्वन्वतीनाम्) स्नामदिपद्यर्ति०। उ०४।११३। शश प्लुतगतौ-वनिप्। शश्वन्-मतुप्। मादुपधायाश्च०। पा०८।२।९। इति वत्वम्। अनो नुट्। पा०८।२।१६। इति नुट्, ङीप्। प्लुतगतियुक्तानां पीडानाम् (शतवारेण) म०१। औषधविशेषेण (वारये) निवारयामि ॥

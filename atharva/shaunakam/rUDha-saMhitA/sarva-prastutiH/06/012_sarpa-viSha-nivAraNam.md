@@ -8,15 +8,18 @@ title = "०१२ सर्प-विष-निवारणम्"
 
 12. Against the poison of snakes.
 </details>
+
 <details><summary>VH anukramaṇī</summary>
 
 सर्प-विष-निवारणम्।  
 १-३ गरुत्मान्। तक्षकः। अनुष्टुप्।
 </details>
+
 <details><summary>Whitney anukramaṇī</summary>
 
 [Garutman.—takṣakadāivatam. ānuṣṭubham.]
 </details>
+
 <details><summary>Whitney</summary>
 
 #### Comment
@@ -26,6 +29,7 @@ Found also in Pāipp. xix. Used by Kāuś. (29. 28) in a remedial rite against t
 #### Translations
 Translated: Ludwig, p. 501; Florenz, 262 or 14; Griffith, i. 250; Bloomfield, 28, 461.—See Bergaigne-Henry, Manuel, p. 149.
 </details>
+
 <details><summary>Griffith</summary>
 
 A charm against venomous serpents
@@ -39,15 +43,6 @@ A charm against venomous serpents
 
 प᳓रि द्या᳓मिव सू᳓र्यो᳓ऽहीनां ज᳓निमागमम्।  
 रा᳓त्री ज᳓गदिवान्य᳓द्धंसा᳓त्ते᳓ना ते वारये विष᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/01_pari_dyAmiva.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-परि॒ द्यामि॑व॒ सूर्योऽही॑नां॒ जनि॑मागमम्।  
-रात्री॒ जग॑दिवा॒न्यद्धं॒सात्तेना॑ ते वारये वि॒षम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/01_pari_dyAmiva.md">
@@ -69,14 +64,23 @@ mean the soul (*ātman*), to which alone poison does not penetrate! The
 Anukr. does not heed the redundant syllable in **c**. ⌊Ppp. combines  
 *ahīnām*, without elision.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 I, As the Sun goes round the heaven, have travelled round the Serpents' race. I ward thy poison off, as Night parts all else living from the Sun.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+परि॒ द्यामि॑व॒ सूर्योऽही॑नां॒ जनि॑मागमम्।  
+रात्री॒ जग॑दिवा॒न्यद्धं॒सात्तेना॑ ते वारये वि॒षम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परि॑। द्याम्ऽइ॑व। सूर्यः॑। अही॑नाम्। जनि॑म। अ॒ग॒म॒म्। रात्री॑। जग॑त्ऽइव। अ॒न्यत्। हं॒सात्। तेन॑। ते॒। वा॒र॒ये॒। वि॒षम्। १२.१। 
+परि॑। द्याम्ऽइ॑व। सूर्यः॑। अही॑नाम्। जनि॑म। अ॒ग॒म॒म्। रात्री॑। जग॑त्ऽइव। अ॒न्यत्। हं॒सात्। तेन॑। ते॒। वा॒र॒ये॒। वि॒षम्। १२.१।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - तक्षकः
@@ -84,18 +88,22 @@ I, As the Sun goes round the heaven, have travelled round the Serpents' race. I 
 - अनुष्टुप्
 - सर्पविषनिवारण सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पाप नाश करने के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सूर्यः) सूर्य (इव) जैसे (द्याम्) आकाश को, [वैसे ही] (अहीनाम्) सर्पों [सर्पसमान दोषों] के (जनिम) जन्म को (परि) सब ओर से (अगमम्) मैंने जान लिया है। (रात्री इव) जैसे रात्री (हंसात्) सूर्य से (अन्यत्) अन्य (जगत्) जगत् को [ढक लेती है], (तेन) उसी प्रकार से ही [हे मनुष्य] (ते) तेरे (विषम्) विष को [वारये] मैं हटाता हूँ ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  योगी मनुष्य दोषों के कारणों को ऐसे जान लेता है, जैसे सूर्य आकाशस्थ पदार्थों को, और जैसे रात्री में सब पदार्थ सूर्य को छोड़ कर अदृष्ट हो जाते हैं, वैसे ही उस योगी के पाप नष्ट हो जाते हैं, और वह पूर्ण ज्ञान से सूर्यसमान प्रकाशमान हो जाता है ॥१॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(परि) परितः (द्याम्) अन्तरिक्षम् (इव) यथा (सूर्यः) भास्करः (अहीनाम्) अ० २।५।५। आहननशीलानां सर्पाणां दोषाणां वा (जनिम) अ० १।८।४। जन्म (अगमम्) गतवान् ज्ञातवानस्मि (रात्री) निशा (जगत्) प्राणिजातम् (इव) यथा (अन्यत्) इतरत् (हंसात्) वृतॄवदि०। उ० ३।६२। इति हन हिंसागत्योः−स। हंसासः, अश्वाः−निघ० १।१४। हंसा हन्तेर्घ्नन्त्यध्वानम्−निरु० ४।१३। हंसाः सूर्यरश्मयः−निरु० १४।२९। गमनशीलात् सूर्यात् (तेन) प्रसिद्धप्रकारेण (ते) तव। आत्मनः (वारये) निवारयामि (विषम्) विषरूपं पापम् ॥
@@ -109,15 +117,6 @@ I, As the Sun goes round the heaven, have travelled round the Serpents' race. I 
 
 य᳓द्ब्रह्म᳓भिर्य᳓दृ᳓षिभिर्य᳓द्देवै᳓र्विदितं᳓ पुरा᳓।  
 य᳓द्भूतं᳓ भ᳓व्यमासन्व᳓त्ते᳓ना ते वारये विष᳓म् ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-यद्ब्र॒ह्मभि॒र्यदृषि॑भि॒र्यद्दे॒वैर्वि॑दि॒तं पु॒रा।  
-यद्भू॒तं भव्य॑मास॒न्वत्तेना॑ ते वारये वि॒षम् ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
@@ -134,14 +133,23 @@ Ppp. has *uditam* for *viditam* in **b**, and *āsunvat* at end of **c**.
 The comm. explains *āsanvat* to mean *āsyayuktaṁ: teno  
 ’ccāryamāṇamantrasahitam*.
 </details>
+
 <details><summary>Griffith</summary>
 
 With this, discovered in the days of old by Brahmans, Rishis, Gods, With this I ward thy poison off, thou Biter! formed and form- ing now.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्ब्र॒ह्मभि॒र्यदृषि॑भि॒र्यद्दे॒वैर्वि॑दि॒तं पु॒रा।  
+यद्भू॒तं भव्य॑मास॒न्वत्तेना॑ ते वारये वि॒षम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। ब्र॒ह्मऽभिः॑। यत्। ऋषि॑ऽभिः। यत्। दे॒वैः। वि॒दि॒तम्। पु॒रा। यत्। भू॒तम्। भव्य॑म्। आ॒स॒न्ऽवत्। तेन॑। ते॒। वा॒र॒ये॒। वि॒षम्। १२.२। 
+यत्। ब्र॒ह्मऽभिः॑। यत्। ऋषि॑ऽभिः। यत्। दे॒वैः। वि॒दि॒तम्। पु॒रा। यत्। भू॒तम्। भव्य॑म्। आ॒स॒न्ऽवत्। तेन॑। ते॒। वा॒र॒ये॒। वि॒षम्। १२.२।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - तक्षकः
@@ -149,18 +157,22 @@ With this, discovered in the days of old by Brahmans, Rishis, Gods, With this I 
 - अनुष्टुप्
 - सर्पविषनिवारण सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पाप नाश करने के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जो [ज्ञान] (ब्रह्मभिः) वेद जाननेवाले, ब्राह्मणों करके, (यत्) जो (ऋषिभिः) सन्मार्गदर्शक ऋषियों करके और (यत्) जो (देवैः) व्यवहारकुशल महात्माओं करके (पुरा) पूर्व काल में (विदितम्) जाना गया है। और (यत्) जो (भूतम्) भूत काल में और (भव्यम्) भविष्यत् काल में (आसन्वत्) व्याप्तिवाला है, (तेन) उसी से [हे जीव !] (ते) तेरे (विषम्) विष को (वारये) मैं हटाता हूँ ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य पूर्वज महात्माओं के समान पूर्ण ज्ञान प्राप्त कर अपने दोषों का नाश करके सुखी होवें ॥२॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(यत्) ज्ञानम् (ब्रह्मभिः) वेदज्ञैर्ब्राह्मणैः (ऋषिभि) अ० २।६।१। सन्मार्गदर्शकैः (देवैः) व्यवहारकुशलैः (विदितम्) परिज्ञातम् (पुरा) पूर्वकाले (भूतम्) अतीतकाले भवम् (भव्यम्) भविष्यत्कालीनम् (आसन्वत्) कनिन् युवृषितक्षि०। उ० १।१५६। इति आस उपवेशने−कनिन्, मतुप् च। व्याप्तिमत्। अन्यद् गतम्। म० २ ॥
@@ -174,15 +186,6 @@ With this, discovered in the days of old by Brahmans, Rishis, Gods, With this I 
 
 म᳓ध्वा पृञ्चे नद्यः᳙ प᳓र्वता गिर᳓यो म᳓धु।  
 म᳓धु प᳓रुष्णी शी᳓पाला श᳓मास्ने᳓ अस्तु शं᳓ हृदे᳓ ॥
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
-<details><summary>मूलम् (VS)</summary>
-
-मध्वा॑ पृञ्चे न॒द्यः१॒॑ पर्व॑ता गि॒रयो॒ मधु॑।  
-मधु॒ परु॑ष्णी॒ शीपा॑ला॒ शमा॒स्ने अ॑स्तु॒ शं हृ॒दे ॥
-</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">
@@ -208,14 +211,23 @@ and blood must have been well known to even the most unlettered Hindu, I
 am tempted to suggest emendation of *āsné* to *asné*.⌋ ⌊In R. and W's  
 ed., correct *nadyò3* to *nadyà1ḥ*.⌋
 </details>
+
 <details><summary>Griffith</summary>
 
 With mead I mingle flowing streams: the hills and mountains shall be mead. Parushni and Sipala mead. May it be well with mouth and heart.
 </details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मध्वा॑ पृञ्चे न॒द्यः१॒॑ पर्व॑ता गि॒रयो॒ मधु॑।  
+मधु॒ परु॑ष्णी॒ शीपा॑ला॒ शमा॒स्ने अ॑स्तु॒ शं हृ॒दे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मध्वा॑। पृ॒ञ्चे॒। न॒द्यः᳡। पर्व॑ताः। गि॒रयः॑। मधु॑। मधु॑। परु॑ष्णी। शीपा॑ला। शम्। आ॒स्ने। अ॒स्तु॒। शम्। हृ॒दे। १२.३। 
+मध्वा॑। पृ॒ञ्चे॒। न॒द्यः᳡। पर्व॑ताः। गि॒रयः॑। मधु॑। मधु॑। परु॑ष्णी। शीपा॑ला। शम्। आ॒स्ने। अ॒स्तु॒। शम्। हृ॒दे। १२.३।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - तक्षकः
@@ -223,18 +235,22 @@ With mead I mingle flowing streams: the hills and mountains shall be mead. Parus
 - अनुष्टुप्
 - सर्पविषनिवारण सूक्त
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पाप नाश करने के लिये उपदेश।
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मध्वा) अमृत से [तुझ को] (पृञ्चे) मैं संयुक्त करता हूँ। (नद्यः) नदियाँ, (पर्वताः) पर्वत और (गिरयः) छोटे पहाड़ (मधु) अमृत [होवें]। (परुष्णी) पालन सामर्थ्यवाली, (शीपाला) निद्रा लानेवाली ओषधि (मधु) अमृत [आस्ने] तेरे मुख के लिये (शम्) शान्ति और (हृदे) हृदय के लिये (शम्) शान्ति (अस्तु) होवे ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सब पदार्थों से विवेकपूर्वक उपकार लेकर आनन्द भोगें ॥३॥
 </details>
+
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(मध्वा) अमृतेन (पृञ्चे) पृची सम्पर्के। संयोजयामि त्वाम् (नद्यः) (पर्वताः) (गिरयः) क्षुद्रशैलाः (मधु) अमृतम् (परुष्णी) अर्तिपॄवपि०। उ० २।११७। इति पॄ पालनपूरणयोः−उसि। लोमादिपामादि०। पा० ५।२।१००। इति परुष्−न मत्वर्थे। गौरादित्वाद् ङीष्। परुष्णी पर्ववती भास्वती कुटिलगामिनी−निरु० ९।२६। परुष्णीम् पालिकां नीतिम्−दयानन्दभाष्ये ऋ० ७।१८।९। पालनवती (शीपाला) शीङो धुक्लक्०। उ० ४।३८। इति शीङ् शयने−वालन्, स च कित् वस्य पः, टाप्। शेते अनया। सुखदायिका यवाद्योषधिः (शम्) शान्तिः (आस्ने) पद्दन्नोमास्०। पा० ६।१।६३। इति आस्यस्य आसन्। आस्याय मुखाय (अस्तु) (हृदे) हृदयाय ॥
