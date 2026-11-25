@@ -4,9 +4,9 @@ title = "Importance"
 Source: [TW](https://www.oocities.org/somasushma/atharva.html)
 
 
-<div class="js_include" url="/vedAH_RkshAkalam/saMhitA/vishvAsa-prastutiH/10/014/06_angiraso_naH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/06_angiraso_naH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_RkshAkalam/saMhitA/sarvASh_TIkAH/10/014/06_angiraso_naH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/06_angiraso_naH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
