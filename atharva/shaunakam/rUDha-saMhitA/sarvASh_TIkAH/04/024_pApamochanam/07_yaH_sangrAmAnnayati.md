@@ -23,15 +23,34 @@ end of **b** they give *trayā́ṇi* instead of *dvayā́ni*. The comm. thinks
 Strong Lord, who leadeth hosts to meet for battle, who sendeth riches both of earth and heaven, I, suppliant, praise and ever call on Indra. May he deliver us from grief and trouble.
 </details>
 
+<details><summary>Keith</summary>
+
+Him who in might leadeth forth the host for battle,  
+Who commingleth the three possessions;  
+Indra I praise; I invoke seeking aid,  
+May he relieve us from tribulation.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 यः सं॑ग्रा॒मान्न॑यति॒ सं यु॒धे व॒शी यः पु॒ष्टानि॑ संसृ॒जति॑ द्व॒यानि॑।  
 स्तौमीन्द्रं॑ नाथि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यस्स॑ङ्ग्रा॒मन्नय॑ति॒ सव्ँव॒शी यु॒धे यᳶ पु॒ष्टानि॑ सँसृ॒जति॑ त्र॒याणि॑ ।   
+स्तौमीन्द्र॑न्नाथि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वँह॑सः ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 यः। स॒म्ऽग्रा॒मान्। नय॑ति। सम्। यु॒धे। व॒शी। यः। पु॒ष्टानि॑। स॒म्ऽसृ॒जति॑। द्व॒यानि॑। स्तौमि॑। इन्द्र॑म्। ना॒थि॒तः। जो॒ह॒वी॒मि॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २४.७।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यः । स॒ङ्ग्रा॒ममिति॑ सम्-ग्रा॒मम् । नय॑ति । समिति॑ । व॒शी । यु॒धे । यः । पु॒ष्टानि॑ । सँ॒सृ॒जतीति॑ सम्-सृ॒जति॑ । त्र॒याणि॑ ॥ स्तौमि॑ । इन्द्र॑म् । ना॒थि॒तः । जो॒ह॒वी॒मि॒ । सः । नः॒ । मु॒ञ्च॒तु॒ । अँह॑सः ॥
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -60,4 +79,9 @@ Strong Lord, who leadeth hosts to meet for battle, who sendeth riches both of ea
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(यः) इन्द्रः परमेश्वरः (संग्रामान्) संग्राम युद्धे-पचाद्यच्। योद्धॄन् (सन्नयति) सम्यक्प्रापयति (युधे) युद्धाय (वशी) स्वतन्त्रः (पुष्टानि) पोषणानि (संसृजति) सम्यग् ददाति (द्वयानि) संख्याया अवयवे तयप्। पा० ५।२।४२। इति द्वि-तयप्। द्वित्रिभ्यां तयस्यायज्वा। पा० ५।२।४३। इति तयस्य अयच्। द्वौ अवययौ यस्य तद्द्वयम्। द्वन्द्वानि। शारीरिकात्मिकानि (इन्द्रम्) परमैश्वर्यवन्तं परमात्मानम्। अन्यद् व्याख्यातम्-सू० २३ म० ७ ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+य इन्द्रो युधे योद्धुं वशी स्वाधीनपरिवारोफ्ते संग्रामं युद्धदेशं प्रति संनयति स्वकीयां सेनां सम्यक्प्रापयति।   यश्चेन्द्रः पुष्टानि संपूर्णानि त्रयाणि गवाश्वपुरुषरूपाणि संसृजति यजमानेन योजयति।   शेषं पूर्ववत्।
 </details>

@@ -25,15 +25,32 @@ adjective, BR., s.v., would read with TS. *suvī́raḥ*.⌋
 This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught with vigour.
 </details>
 
+<details><summary>Keith</summary>
+
+This is thy sacrifice, O lord of the sacrifice,  
+with its utterance of hymns and producing noble heroes;  
+hail!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 ए॒ष ते॑ य॒ज्ञो य॑ज्ञपते स॒हसू॑क्तवाकः।  
 सु॒वीर्यः॒ स्वाहा॑ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+एष ते॑ य॒ज्ञो य॑ज्ञपते स॒हसू॑क्तवाकस्सु॒वीर॒स्स्वाहा॑  ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 ए॒षः। ते॒। य॒ज्ञः। य॒ज्ञ॒ऽप॒ते॒। स॒हऽसू॑क्तवाकः। सु॒ऽवीर्यः॑। स्वाहा॑। १०२.६।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+ए॒षः । ते॒ । य॒ज्ञः । य॒ज्ञ॒प॒त॒ इति॑ यज्ञ-प॒ते॒ । स॒हसू॑क्तवाक॒ इति॑ स॒हसू॑क्त-वा॒कः॒ । सु॒वीर॒ इति॑ सु-वीरः॑ । स्वाहा॑ ।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -62,4 +79,9 @@ This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught wit
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(एषः) (ते) तव (यज्ञः) पूजनीयो व्यवहारः (यज्ञपते) पूजनीयो व्यवहारस्य पालक (सहसूक्तवाकः) सह+सु+उक्त+वच परिभाषणे-घञ्। शोभनानां मुक्तानां वचनानां वाकैर्भाषणैः सहितः (सुवीर्यः) उत्तमपराक्रमयुक्तः (स्वाहा) सुवाण्या ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे यज्ञपते यजमान एष यज्ञस्सहसूक्त वाकः सूक्तवाकसहितः विविधस्तोत्रकः सुवीरः शोभनैर्वीरैः पुत्रपौत्रादिभिर्युक्तः तद्धेतुतां प्रतिपाद्यमानः ते तव स्वाहुतमिदमाज्यमग्नयेस्तुइत्थमिदं तव भूयादिति ॥
 </details>
