@@ -21,9 +21,15 @@ phalāvatīṁ*. The comm. explains *irā* first as = *bhūmi*, and then as =
 By power of the Udumbara Charm may Dhatar give me plenty, rich. In the kine's droppings and in fruit, and, in our dwelling, food, and drink.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क॑री॒षिणीं॒ फल॑वतीं स्व॒धामिरां॑ च नो गृ॒हे।  
+औदु॑म्बरस्य॒ तेज॑सा धा॒ता पु॒ष्टिं द॑धातु मे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क॒री॒षिणी॑म्। फल॑ऽवतीम्। स्व॒धाम्। इरा॑म्। च॒। नः॒। गृ॒हे। औदु॑म्बरस्य। तेज॑सा। धा॒ता। पु॒ष्टिम्। द॒धा॒तु॒। मे॒। ३१.३। 
+क॒री॒षिणी॑म्। फल॑ऽवतीम्। स्व॒धाम्। इरा॑म्। च॒। नः॒। गृ॒हे। औदु॑म्बरस्य। तेज॑सा। धा॒ता। पु॒ष्टिम्। द॒धा॒तु॒। मे॒। ३१.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ By power of the Udumbara Charm may Dhatar give me plenty, rich. In the kine's dr
 
 टिप्पणी:   ३−(करीषिणीम्) अ०३।१४।३। बहुना करीषेण गोमयेन युक्ताम् (फलवतीम्) बहुफलयुक्ताम् (स्वधाम्) स्वधा-अर्शआद्यच्। बह्वन्नवतीम् (इराम्) अर्शआद्यच्। बहुभूमियुक्ताम् (च) (नः) अस्माकम् (गृहे) निवासे (औदुम्बरस्य) म०१। संहतिस्वीकारकस्य (तेजसा) प्रतापेन (धाता) पोषको गृहपतिः (पुष्टिम्) पोषणम् (दधातु) ददातु (मे) मह्यम् ॥
 </details>
-

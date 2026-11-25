@@ -25,9 +25,15 @@ is a theme of wonder elsewhere also. For *supéṣú* in **a**, read
 Erect among the sleepers he wakes, and is never laid at length, No one hath ever heard that he hath been asleep while others slept.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऊ॒र्ध्वः सु॒प्तेषु॑ जागार न॒नु ति॒र्यङ्नि प॑द्यते।  
+न सु॒प्तम॑स्य सु॒प्तेष्वनु॑ शुश्राव॒ कश्च॒न ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऊ॒र्ध्वः। सु॒प्तेषु॑। जा॒गा॒र॒। न॒नु। ति॒र्यङ्। नि। प॒द्य॒ते॒। न। सु॒प्तम्। अ॒स्‍य॒। सु॒प्तेषु॑। अनु॑। शु॒श्रा॒व॒। कः। च॒न। ६.२५। 
+ऊ॒र्ध्वः। सु॒प्तेषु॑। जा॒गा॒र॒। न॒नु। ति॒र्यङ्। नि। प॒द्य॒ते॒। न। सु॒प्तम्। अ॒स्‍य॒। सु॒प्तेषु॑। अनु॑। शु॒श्रा॒व॒। कः। च॒न। ६.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Erect among the sleepers he wakes, and is never laid at length, No one hath ever
 
 टिप्पणी:   २५−(ऊर्ध्वः) उपरि स्थितः सन् (सुप्तेषु) निद्रागतेषु (जागार) लडर्थे लिट्। जागर्ति (ननु) नैव (तिर्यङ्) तिर्यगवस्थितः सन् (निपद्यते) नि पतति (न) निषेधे (सुप्तम्) सुप्तिः (अस्य) प्राणस्य परमेश्वरस्य (सुप्तेषु) (अनु) अनुक्रमेण। परम्परया (शुश्राव) श्रुतवान् (कश्चन) कोऽपि पुरुषः ॥
 </details>
-

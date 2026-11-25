@@ -8,9 +8,15 @@ title = "०२ आ त्वा"
 O Indra, let thy long-maned Bays, yoked by prayer, bring thee hitherward. Give ear and listen to our prayers.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ त्वा॑ ब्रह्म॒युजा॒ हरी॒ वह॑तामिन्द्र के॒शिना॑।  
+उप॒ ब्रह्मा॑णि नः शृणु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। त्वा॒। ब्र॒ह्म॒ऽयुजा॑। हरी॒ इति॑। वह॑ताम्। इ॒न्द्र॒। के॒शिना॑। उप॑। ब्रह्मा॑णि। नः॒। शृ॒णु॒। ३८.२। 
+आ। त्वा॒। ब्र॒ह्म॒ऽयुजा॑। हरी॒ इति॑। वह॑ताम्। इ॒न्द्र॒। के॒शिना॑। उप॑। ब्रह्मा॑णि। नः॒। शृ॒णु॒। ३८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ O Indra, let thy long-maned Bays, yoked by prayer, bring thee hitherward. Give e
 
 टिप्पणी:   २−मन्त्राः १-३ व्याख्याताः-अ०२०।३।१-३॥
 </details>
-

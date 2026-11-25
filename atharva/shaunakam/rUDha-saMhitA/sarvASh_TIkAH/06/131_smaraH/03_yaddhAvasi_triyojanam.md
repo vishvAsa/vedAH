@@ -23,9 +23,15 @@ do not properly go together in any *pada*-text.
 If thou shouldst run three leagues away, five leagues, a horse's daily stage, Thence thou shalt come to me again and be the father of our sons.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्धाव॑सि त्रियोज॒नं प॑ञ्चयोज॒नमाश्वि॑नम्।  
+तत॒स्त्वं पुन॒राय॑सि पु॒त्राणां॑ नो असः पि॒ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। धाव॑सि। त्रि॒ऽयो॒ज॒नम्। प॒ञ्च॒ऽयो॒ज॒नम्। आश्वि॑नम्। ततः॑। त्वम्। पुनः॑। आऽअ॑यसि। पु॒त्राणा॑म्। नः॒। अ॒सः॒। पि॒ता। १३१.३। 
+यत्। धाव॑सि। त्रि॒ऽयो॒ज॒नम्। प॒ञ्च॒ऽयो॒ज॒नम्। आश्वि॑नम्। ततः॑। त्वम्। पुनः॑। आऽअ॑यसि। पु॒त्राणा॑म्। नः॒। अ॒सः॒। पि॒ता। १३१.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ If thou shouldst run three leagues away, five leagues, a horse's daily stage, Th
 
 टिप्पणी:   ३−(यत्) यदि (धावसि) शीघ्रं गच्छसि (त्रियोजनम्) योजनत्रयपरिमितं देशम् (पञ्चयोजनम्) पञ्चयोजनपरिमितं देशम् (आश्विनम्) अश्विन्−अण्। अश्विना अश्ववारेण गन्तव्यं देशम् (ततः) तस्माद्देशात् (पुनः) निवृत्य (आयसि) आगच्छ (पुत्राणाम्) पुत्रादीनाम् (नः) अस्माकम् (असः) भवेः (पिता) पालकः ॥
 </details>
-

@@ -20,9 +20,14 @@ some of SPP's⌋).
 Kabru is the husked grain, the rain cloud is the reed.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+कब्रु॑ फली॒कर॑णाः॒ शरो॒ऽभ्रम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कब्रु॑। फ॒ली॒ऽकर॑णाः। शरः॑। अ॒भ्रम्। ३.६। 
+कब्रु॑। फ॒ली॒ऽकर॑णाः। शरः॑। अ॒भ्रम्। ३.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ Kabru is the husked grain, the rain cloud is the reed.
 
 टिप्पणी:   ६−(कब्रु) मीपीभ्यां रुः। उ० ४।१०१। कबृ स्तुतौ वर्णे च। रु प्रत्ययः। वर्णितम्। विचित्रीकृतं जगत् (फलीकरणाः) ञिफला विदारणे-अच्+डुकृञ् करणे-ल्यु, च्वि च। स्फोटनेन विदारिततुषादयः (शरः) शॄ हिंसायाम्-अप्। तृणम् (अभ्रम्) अब्भ्रम्। मेघः ॥
 </details>
-

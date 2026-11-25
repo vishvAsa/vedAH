@@ -18,9 +18,15 @@ herb; let the black hairs grow out of thy head like reeds.
 Strengthen the roots, prolong the points, lengthen the middle part, O Plant. Let the black locks spring thick and strong and grow like reeds upon thy head.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दृंह॒ मूल॒माग्रं॑ यच्छ॒ वि मध्यं॑ यामयौषधे।  
+केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दृंह॑। मूल॑म्। आ। अग्र॑म्। य॒च्छ॒। वि। मध्य॑म्। य॒म॒य॒। ओ॒ष॒धे॒। केशाः॑। न॒डाःऽइ॑व। व॒र्ध॒न्ता॒म्। शी॒र्ष्णः। ते॒। अ॒सि॒ताः। परि॑। १३७.३। 
+दृंह॑। मूल॑म्। आ। अग्र॑म्। य॒च्छ॒। वि। मध्य॑म्। य॒म॒य॒। ओ॒ष॒धे॒। केशाः॑। न॒डाःऽइ॑व। व॒र्ध॒न्ता॒म्। शी॒र्ष्णः। ते॒। अ॒सि॒ताः। परि॑। १३७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Strengthen the roots, prolong the points, lengthen the middle part, O Plant. Let
 
 टिप्पणी:   ३−(दृंह) दृढीकुरु (मूलम्) केशमूलम् (अग्रम्) अग्रभागम् (आ यच्छ) आयतं कुरु (मध्यम्) (वियमय) विविधं दीर्घीकुरु (ओषधे) अन्यत्पूर्ववत् ॥
 </details>
-

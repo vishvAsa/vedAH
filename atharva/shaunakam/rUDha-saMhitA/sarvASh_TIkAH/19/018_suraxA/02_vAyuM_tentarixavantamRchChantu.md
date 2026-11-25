@@ -17,9 +17,15 @@ Vāyu with the atmosphere.
 Let those who vex me from this quarter, sinners, praise Vayu compassed by the Air's mid region.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वा॒युं ते॒३॒॑न्तरि॑क्षवन्तमृच्छन्तु।  
+ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वा॒युम्। ते। अ॒न्तरि॑क्षऽवन्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ए॒तस्याः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.२। 
+वा॒युम्। ते। अ॒न्तरि॑क्षऽवन्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ए॒तस्याः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Let those who vex me from this quarter, sinners, praise Vayu compassed by the Ai
 
 टिप्पणी:   २−(वायुम्) सर्वव्यापकं परमात्मानम् (अन्तरिक्षवन्तम्) मध्यलोकस्य स्वामिनम् (एतस्याः) मध्यवर्तमानायाः। अन्यत् पूर्ववत् ॥
 </details>
-

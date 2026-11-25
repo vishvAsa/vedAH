@@ -27,9 +27,14 @@ bhurih sāmny anuṣṭubh; 42. āsurī bṛhatī; 43. sāmnī bṛhatī; 44.
 The Brahman's cow when eaten cuts off the injurer of Brahmans both from this world and from the world yonder.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑शि॒ता लो॒काच्छि॑नत्ति ब्रह्मग॒वी ब्र॑ह्म॒ज्यम॒स्माच्चा॒मुष्मा॑च्च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒शि॒ता। लो॒कात्। छि॒न॒त्ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यम्। अ॒स्मात्। च॒। अ॒मुष्मा॑त्। च॒। ८.११। 
+अ॒शि॒ता। लो॒कात्। छि॒न॒त्ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यम्। अ॒स्मात्। च॒। अ॒मुष्मा॑त्। च॒। ८.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +64,3 @@ The Brahman's cow when eaten cuts off the injurer of Brahmans both from this wor
 
 टिप्पणी:   ३८−(अशिता) भक्षिता। नाशिता (लोकात्) जन्मनः (छिनत्ति) भिनत्ति। नाशयति (ब्रह्मगवी) म० ५। वेदवाणी (ब्रह्मज्यम्) म० १५। ब्रह्मचारिणां हानिकरम् (अस्मात्) प्रत्यक्षात् (च) (अमुष्मात्) परस्मात् (च) ॥
 </details>
-

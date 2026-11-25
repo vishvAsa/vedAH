@@ -8,9 +8,14 @@ title = "१९ श्येनीपती सा"
 Winged with a falcon's pinion is that harmless swelling of thy tongue. (with next verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+श्येनी॒पती॒ सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श्येनी॒पती॑। सा। १२९.१९। 
+श्येनी॒पती॑। सा। १२९.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Winged with a falcon's pinion is that harmless swelling of thy tongue. (with nex
 
 टिप्पणी:   १९−(श्येनीपती) अ० ३।३।३। श्यैङ् गतौ-इनच्, ङीप्+पति-ङीप्। श्येनीनां शीघ्रगामिनीनां प्रजानां स्वामिनी (सा) केविका बुद्धिः-म० १७ ॥
 </details>
-

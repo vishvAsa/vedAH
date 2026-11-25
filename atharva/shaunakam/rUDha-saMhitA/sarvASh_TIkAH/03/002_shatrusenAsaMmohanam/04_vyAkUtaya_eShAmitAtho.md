@@ -23,9 +23,15 @@ rather, 'that of them smite thou out from \[them\].'⌋
 Vanish, ye hopes and plans of theirs, be ye confounded, all their thoughts! Whatever wish is in their heart, do thou expel it utterly.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व्या॑कूतय एषामि॒ताथो॑ चि॒त्तानि॑ मुह्यत।  
+अथो॒ यद॒द्यैषां॑ हृ॒दि तदे॑षां॒ परि॒ निर्ज॑हि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि। आ॒ऽकू॒त॒यः॒। ए॒षा॒म्। इ॒त॒। अथो॒ इति॑। चि॒त्तानि॑। मु॒ह्य॒त॒। अथो॒ इति॑। यत्। अ॒द्य। ए॒षा॒म्। हृ॒दि। तत्। ए॒षा॒म्। परि॑। निः। ज॒हि॒। २.४। 
+वि। आ॒ऽकू॒त॒यः॒। ए॒षा॒म्। इ॒त॒। अथो॒ इति॑। चि॒त्तानि॑। मु॒ह्य॒त॒। अथो॒ इति॑। यत्। अ॒द्य। ए॒षा॒म्। हृ॒दि। तत्। ए॒षा॒म्। परि॑। निः। ज॒हि॒। २.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Vanish, ye hopes and plans of theirs, be ye confounded, all their thoughts! What
 
 टिप्पणी:   ४−(आकूतयः)। म० ३। हे सङ्कल्पाः। मनोरथाः। (एषाम्)। शत्रूणाम्। (वि, इत्)। विरोधेन गच्छत। (अथो)। अपि च। (चित्तानि)। मनांसि। (मुह्यत)। व्याकुलानि भवत। (यत्)। प्रयोजनम्। (अद्य)। इदानीम्। (हृदि)। मनसि। (तत्)। प्रयोजनम्। (परि)। परितः। सर्वतः। (निः)। नितराम्। (जहि)। नाशय ॥
 </details>
-

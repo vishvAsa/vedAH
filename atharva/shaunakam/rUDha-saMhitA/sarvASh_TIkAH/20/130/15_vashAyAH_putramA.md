@@ -8,9 +8,14 @@ title = "१५ वशायाः पुत्रमा"
 Hither to the cow's son they come.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व॒शायाः॑ पु॒त्रमा य॑न्ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वशायाः॑। पु॒त्रम्। आ। य॑न्ति। १३०.१५। 
+वशायाः॑। पु॒त्रम्। आ। य॑न्ति। १३०.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Hither to the cow's son they come.
 
 टिप्पणी:   १−(वशायाः) वश कान्तौ-अङ्, टाप्। कमनीयायाः स्त्रियाः (पुत्रम्) सन्तानम् (आ) आगत्य (यन्ति) प्राप्नुवन्ति ॥
 </details>
-

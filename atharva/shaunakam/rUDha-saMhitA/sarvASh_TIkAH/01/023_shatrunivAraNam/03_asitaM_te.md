@@ -20,9 +20,15 @@ TB. has the easier reading *niláyanam* in **a**. The comm. again gives
 Dark is the place of thy repose, dark is the place thou dwellest in: Dusky and dark, O Plant, art thou: remove from him each speck and spot.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+असि॑तं ते प्र॒लय॑नमा॒स्थान॒मसि॑तं॒ तव॑।  
+असि॑क्न्यस्योषधे॒ निरि॒तो ना॑शया॒ पृष॑त् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आसि॑तम्। ते॒। प्र॒ऽलय॑नम्। आ॒ऽस्थान॑म्। आसि॑तम्। तव॑। असि॑क्नी। अ॒सि॒। ओ॒ष॒धे॒। निः। इ॒तः। ना॒श॒य॒। पृष॑त्। 
+आसि॑तम्। ते॒। प्र॒ऽलय॑नम्। आ॒ऽस्थान॑म्। आसि॑तम्। तव॑। असि॑क्नी। अ॒सि॒। ओ॒ष॒धे॒। निः। इ॒तः। ना॒श॒य॒। पृष॑त्।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Dark is the place of thy repose, dark is the place thou dwellest in: Dusky and d
 
 टिप्पणी:   ३−असितम्। अञ्चिघृसिभ्यः क्तः। उ० ३।८९। इति षिञ् बन्धने−क्त। अथवा। षो अन्तकर्मणि=नाशने-क्त। नञ्समासः। अबद्धम्, अखण्डितम्। कृष्णवर्णम्−इति सायणः। प्र-लयनम्। प्र+लीङ् श्लेषे, प्राप्तौ−ल्युट्। प्रापणं, प्राप्तिः, लाभः। आ-स्थानम्। आङ्+ष्ठा गतिनिवृत्तौ−ल्युट्। विश्रामस्थानम्। तव। त्वदीयम्। असिक्नी। म० १। अबद्धा, सारवती। ओषधे। म० १। हे रोगनाशकद्रव्य ! अन्यत् सुगमं व्याख्यातं च ॥
 </details>
-

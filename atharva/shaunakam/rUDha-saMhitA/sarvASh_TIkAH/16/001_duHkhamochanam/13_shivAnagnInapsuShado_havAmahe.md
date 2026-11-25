@@ -17,9 +17,14 @@ dominion \[and\] splendor, O divine \[waters\].
 We call the gracious Fires that dwell in waters. Goddesses, grant me princely power and splendour.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शि॒वान॒ग्नीन॑प्सु॒षदो॑ हवामहे॒ मयि॑ क्ष॒त्रं वर्च॒ आ ध॑त्त दे॒वीः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शि॒वान्। अ॒ग्नीन्। अ॒प्सु॒ऽसदः॑। ह॒वा॒म॒हे॒। मयि॑। क्ष॒त्रम्। वर्चः॑। आ। ध॒त्त॒। दे॒वीः॒। १.१३। 
+शि॒वान्। अ॒ग्नीन्। अ॒प्सु॒ऽसदः॑। ह॒वा॒म॒हे॒। मयि॑। क्ष॒त्रम्। वर्चः॑। आ। ध॒त्त॒। दे॒वीः॒। १.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ We call the gracious Fires that dwell in waters. Goddesses, grant me princely po
 
 टिप्पणी:   १३−(शिवान्) मङ्गलप्रदान् (अग्नीन्) अग्नयः=ज्ञानवन्तः-दयानन्दभाष्ये, यजु०५।३४। ज्ञानिनः पुरुषान् (अप्सुषदः) म० १। प्रजासु सदनशीलान् (हवामहे) आह्वयामः (मयि) पराक्रमिणि पुरुषे (क्षत्रम्) राज्यम् (वर्चः) तेजः (आ) आगत्य (धत्त)धारयत (देवीः) हे देव्यः प्रजाः ॥
 </details>
-

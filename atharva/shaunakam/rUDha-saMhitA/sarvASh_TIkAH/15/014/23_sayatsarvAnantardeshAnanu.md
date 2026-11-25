@@ -15,9 +15,14 @@ title = "२३ सयत्सर्वानन्तर्देशानन�
 He, when he went away to all the intermediate spaces, went away having become Parameshthin and having made Devotion an eater of food.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सयत्सर्वा॑नन्तर्दे॒शाननु॒ व्यच॑लत्परमे॒ष्ठीभू॒त्वानु॒व्य᳡चल॒द्ब्रह्मा॑न्ना॒दं कृ॒त्वा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। यत्। सर्वा॑न्। अ॒न्तः॒ऽदे॒शान्। अनु॑। वि॒ऽअच॑लत्। प॒र॒मे॒ऽस्थी। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। ब्रह्म॑। अ॒न्न॒ऽअ॒दम्। कृ॒त्वा। १४.२३। 
+सः। यत्। सर्वा॑न्। अ॒न्तः॒ऽदे॒शान्। अनु॑। वि॒ऽअच॑लत्। प॒र॒मे॒ऽस्थी। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। ब्रह्म॑। अ॒न्न॒ऽअ॒दम्। कृ॒त्वा। १४.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,4 +52,3 @@ He, when he went away to all the intermediate spaces, went away having become Pa
 
 टिप्पणी:   २३, २४−(सर्वान्)समस्तान् (अन्तर्देशान्) मध्यदेशान् (परमेष्ठी) सर्वोपरिपदस्थः (ब्रह्म)परमात्मानम् (ब्रह्मणा) परमात्मना सह। अन्यत् पूर्ववत्-म० १, २ ॥
 </details>
-

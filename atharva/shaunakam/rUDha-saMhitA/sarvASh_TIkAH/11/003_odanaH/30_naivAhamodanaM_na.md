@@ -16,9 +16,14 @@ title = "३० नैवाहमोदनं न"
 I indeed have not eaten the Odana, nor has the Odana eaten me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नैवाहमो॑द॒नं न मामो॑द॒नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। ए॒व। अ॒हम्। ओ॒द॒नम्। न। माम्। ओ॒द॒नः। ३.३०। 
+न। ए॒व। अ॒हम्। ओ॒द॒नम्। न। माम्। ओ॒द॒नः। ३.३०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ I indeed have not eaten the Odana, nor has the Odana eaten me.
 
 टिप्पणी:   ३०−(न) निषेधे (एव) निश्चयेन (अहम्) प्राणी प्राशिषमिति शेषः म० २७। (ओदनम्) सुखवर्षकमन्नरूपं परमात्मानम् (न) निषेधे (माम्) जीवात्मानम् (ओदनः) अन्नरूपः परमेश्वरः प्राशीदिति शेषः म० २७॥
 </details>
-

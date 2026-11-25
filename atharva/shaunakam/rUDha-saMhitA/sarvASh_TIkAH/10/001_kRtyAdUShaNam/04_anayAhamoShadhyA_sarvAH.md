@@ -19,9 +19,15 @@ takes no notice of the defective last pāda.
 I with this salutary herb have ruined all their magic arts, The spell which they have cast upon thy field, thy cattle, or thy men.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒नया॒हमोष॑ध्या॒ सर्वाः॑ कृ॒त्या अ॑दूदुषम्।  
+यां क्षेत्रे॑ च॒क्रुर्यां गोषु॒ यां वा॑ ते॒ पुरु॑षेषु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒नया॑। अ॒हम्। ओष॑ध्या। सर्वाः॑। कृ॒त्वाः। अ॒दू॒दु॒ष॒म्। याम्। क्षेत्रे॑। च॒क्रुः। याम्। गोषु॑। याम्। वा॒। ते॒। पुरु॑षेषु। १.४। 
+अ॒नया॑। अ॒हम्। ओष॑ध्या। सर्वाः॑। कृ॒त्वाः। अ॒दू॒दु॒ष॒म्। याम्। क्षेत्रे॑। च॒क्रुः। याम्। गोषु॑। याम्। वा॒। ते॒। पुरु॑षेषु। १.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ I with this salutary herb have ruined all their magic arts, The spell which they
 
 टिप्पणी:   ४−(कृत्याः) कृञ् हिंसायाम्-क्यप् तुक् च। हिंसाः। अन्यद् व्याख्यातम् अ० ४।१८।५ ॥
 </details>
-

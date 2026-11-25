@@ -8,9 +8,14 @@ title = "०४ तद्वात उन्मथायति"
 this the wind stirs and agitates.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तद्वात॒ उन्म॑थायति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तत्। वातः॒। उन्म॑थायति। १३२.४। 
+तत्। वातः॒। उन्म॑थायति। १३२.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ this the wind stirs and agitates.
 
 टिप्पणी:   ४−(तत्) ब्रह्म (वातः) वायुः (उन्मथायति) उत्तमतया मथनं मननं करोति ॥
 </details>
-

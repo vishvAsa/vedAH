@@ -8,9 +8,15 @@ title = "१८ येना पावक"
 Thou with that eye of thine wherewith thou seest, brilliant. Varuna, The active one throughout mankind.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+येना॑ पावक॒ चक्ष॑सा भुर॒ण्यन्तं॒ जनाँ॒ अनु॑।  
+त्वं व॑रुण॒ पश्य॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-येन॑। पा॒व॒क॒। चक्ष॑सा। भु॒र॒ण्यन्त॑म्। जना॑न्। अनु॑। त्वम्। व॒रु॒ण॒। पश्य॑सि। १७.१८। 
+येन॑। पा॒व॒क॒। चक्ष॑सा। भु॒र॒ण्यन्त॑म्। जना॑न्। अनु॑। त्वम्। व॒रु॒ण॒। पश्य॑सि। १७.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Thou with that eye of thine wherewith thou seest, brilliant. Varuna, The active 
 
 टिप्पणी:   १३-२१−एते मन्त्रा व्याख्याताः-अ० १३।२।१६-२४ ॥
 </details>
-

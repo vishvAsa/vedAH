@@ -20,9 +20,15 @@ with the preceding noun (*nāḍyāù*, *śépas*) and supplies *śilāyās* wit
 Ut mulieres mattam (tegetem) facturae arundinem lapide findunt, sic fascinum tuum cum testiculis ob istam mulierem findo.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॑ न॒डं क॒शिपु॑ने॒ स्त्रियो॑ भि॒न्दन्त्यश्म॑ना।  
+ए॒वा भि॑नद्मि ते॒ शेपो॒ऽमुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। न॒डम्। क॒शिपु॑ने। स्रियः॑। भि॒न्दन्ति॑। अश्म॑ना। ए॒व। भि॒न॒द्मि॒। ते॒। शेपः॑। अ॒मुष्याः॑। अधि॑। मु॒ष्कयोः॑। १३८.५। 
+यथा॑। न॒डम्। क॒शिपु॑ने। स्रियः॑। भि॒न्दन्ति॑। अश्म॑ना। ए॒व। भि॒न॒द्मि॒। ते॒। शेपः॑। अ॒मुष्याः॑। अधि॑। मु॒ष्कयोः॑। १३८.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Ut mulieres mattam (tegetem) facturae arundinem lapide findunt, sic fascinum tuu
 
 टिप्पणी:   ५−(यथा) येन प्रकारेण (नडम्) तृणम् (कशिपुने) मृगय्वादयश्च। उ० १।३७। इति कश गतिशासनयोः−कु, निपातनात् साधुः। अन्नाय वस्त्राय वा−अमर० २३।१३०। (स्त्रियः) (भिन्दन्ति) आघ्नन्ति (अश्मना) पाषाणेन (एव) एवम् (भिनद्मि) (ते) तुभ्यम् (शेपः) रोगबलम् (अमुष्याः) तस्या नीरोगाया नाड्याः (अधि) अधिकृत्य (मुष्कयोः) अण्डकोशयोः ॥
 </details>
-

@@ -33,9 +33,15 @@ loose the cow that was led with the corpse to the funeral pile.
 To all, the living and the dead, all that are born, the worshipful. Let the full brook of fatness run, o'erflowing, with stream of mead.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये च॑ जी॒वा येच॑ मृ॒ता ये जा॒ता ये च॑ य॒ज्ञियाः॑।  
+तेभ्यो॑ घृ॒तस्य॑ कु॒ल्यै᳡तु॒ मधु॑धाराव्युन्द॒ती ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। च॒। जी॒वाः। ये। च॒। मृ॒ताः। ये। जा॒ताः। ये। च॒। य॒ज्ञियाः॑। तेभ्यः॑। घृ॒तस्य॑। कु॒ल्या॑। ए॒तु॒। मधु॑ऽधारा। वि॒ऽउ॒द॒न्ती। ४.५७। 
+ये। च॒। जी॒वाः। ये। च॒। मृ॒ताः। ये। जा॒ताः। ये। च॒। य॒ज्ञियाः॑। तेभ्यः॑। घृ॒तस्य॑। कु॒ल्या॑। ए॒तु॒। मधु॑ऽधारा। वि॒ऽउ॒द॒न्ती। ४.५७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -65,4 +71,3 @@ To all, the living and the dead, all that are born, the worshipful. Let the full
 
 टिप्पणी:   ५७−(ये)पुरुषाः (च) (जीवाः) जीववन्तः। उत्साहिनः (ये) (च) (मृताः) त्यक्तप्राणाः।निरुत्साहिनः (ये) (जाताः) उत्पन्ना बालकाः (यज्ञियाः) पूजार्हाः। वृद्धाः।अन्यत् पूर्ववत्-अ० १८।३।७२ ॥
 </details>
-

@@ -19,9 +19,14 @@ as a whole verse.
 Subduing all our adversaries, Agni, give us their food, their strength and their possessions.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वा॑नग्ने॒ सह॑मानः स॒पत्ना॒नैषा॒मूर्जं॑ र॒यिम॒स्मासु॑ धेहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वा॑न्। अ॒ग्ने॒। सह॑मानः। स॒ऽपत्ना॑न्। आ। ए॒षा॒म्। ऊर्ज॑म्। र॒यिम्। अ॒स्मासु॑। धे॒हि॒। २.४६। 
+सर्वा॑न्। अ॒ग्ने॒। सह॑मानः। स॒ऽपत्ना॑न्। आ। ए॒षा॒म्। ऊर्ज॑म्। र॒यिम्। अ॒स्मासु॑। धे॒हि॒। २.४६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Subduing all our adversaries, Agni, give us their food, their strength and their
 
 टिप्पणी:   ४६−(सर्वान्) (अग्ने) हे ज्ञानस्वरूप परमात्मन् (सहमानः) अभिभवन् (सपत्नान्) शत्रून् (आ) समन्तात् (एषाम्) शत्रूणाम् (ऊर्जम्) अन्नम् (रयिम्) धनम् (अस्मासु) धार्मिकेषु (धेहि) धारय ॥
 </details>
-

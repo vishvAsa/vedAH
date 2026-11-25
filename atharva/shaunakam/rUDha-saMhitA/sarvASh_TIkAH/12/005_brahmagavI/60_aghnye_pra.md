@@ -18,9 +18,14 @@ This verse also is wanting in Ppp. ⌊Pādas **b, c** recur below, vs. 65.⌋
 O Cow, break thou the head of him who wrongs the Brahmans, criminal, niggard, blasphemer of the Gods.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अघ्न्ये॒ प्र शिरो॑ जहि ब्रह्म॒ज्यस्य॑ कृ॒ताग॑सो देवपी॒योर॑रा॒धसः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अघ्न्ये॑। प्र। शिरः॑। ज॒हि॒। ब्र॒ह्म॒ऽज्यस्य॑। कृ॒तऽआ॑गसः। दे॒व॒ऽपी॒योः। अ॒रा॒धसः॑। १०.१४। 
+अघ्न्ये॑। प्र। शिरः॑। ज॒हि॒। ब्र॒ह्म॒ऽज्यस्य॑। कृ॒तऽआ॑गसः। दे॒व॒ऽपी॒योः। अ॒रा॒धसः॑। १०.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ O Cow, break thou the head of him who wrongs the Brahmans, criminal, niggard, bl
 
 टिप्पणी:   ६०−(अघ्न्ये) म० ५८। (प्र जहि) विनाशय (शिरः) मस्तकम् (ब्रह्मज्यस्य) म० १५। ब्रह्मचारिणां हानिकरस्य (कृतागसः) कृतापराधस्य (देवपीयोः) म० १५। विदुषां हिंसकस्य (अराधसः) अ० ५।११।७। नास्ति राधो धनं यस्मात् तस्य। अदानशीलस्य ॥
 </details>
-

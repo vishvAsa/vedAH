@@ -19,9 +19,15 @@ Ppp. (omitting the first *te*) combines *an̄gebhyo ’darāya* and *jihvāyā
 We offer homage to thy limbs, thy belly, and thy tongue, and mouth we offer homage to thy smell.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अङ्गे॑भ्यस्त उ॒दरा॑य जि॒ह्वाया॑ आ॒स्या᳡य ते।  
+द॒द्भ्यो ग॒न्धाय॑ ते॒ नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अङ्गे॑भ्यः। ते॒। उ॒दरा॑य। जि॒ह्वायै॑। आ॒स्या᳡य। ते॒। द॒त्ऽभ्यः। ग॒न्धाय॑। ते॒। नमः॑। २.६। 
+अङ्गे॑भ्यः। ते॒। उ॒दरा॑य। जि॒ह्वायै॑। आ॒स्या᳡य। ते॒। द॒त्ऽभ्यः। ग॒न्धाय॑। ते॒। नमः॑। २.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ We offer homage to thy limbs, thy belly, and thy tongue, and mouth we offer homa
 
 टिप्पणी:   ६−(अङ्गेभ्यः) अस्माकं शरीरावयवेभ्यः (ते) तुभ्यम् (उदराय) उदरहिताय (आस्याय) मुखहिताय (ते) तुभ्यम् (दद्भ्यः) दन्तानां हिताय (गन्धाय) गन्धं ग्रहीतुम् (ते) तुभ्यम् (नमः) नमस्कारः ॥
 </details>
-

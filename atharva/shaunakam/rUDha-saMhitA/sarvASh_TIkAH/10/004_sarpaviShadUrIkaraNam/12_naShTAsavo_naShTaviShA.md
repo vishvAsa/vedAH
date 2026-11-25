@@ -17,9 +17,15 @@ thunderbolt-bearing Indra; Indra hath slain, we have slain.
 Bereft of life and poison they lie slain by bolt-armed Indra's hand. Indra and we have slaughtered them.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+न॒ष्टास॑वो न॒ष्टवि॑षा ह॒ता इ॑न्द्रेण व॒ज्रिणा॑।  
+ज॒घानेन्द्रो॑ जघ्नि॒मा व॒यम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न॒ष्टऽअ॑सवः। न॒ष्टऽवि॑षाः। ह॒ताः। इन्द्रे॑ण। व॒ज्रिणा॑। ज॒घान॑। इन्द्रः॑। ज॒घ्नि॒म। व॒यम्। ४.१२। 
+न॒ष्टऽअ॑सवः। न॒ष्टऽवि॑षाः। ह॒ताः। इन्द्रे॑ण। व॒ज्रिणा॑। ज॒घान॑। इन्द्रः॑। ज॒घ्नि॒म। व॒यम्। ४.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Bereft of life and poison they lie slain by bolt-armed Indra's hand. Indra and w
 
 टिप्पणी:   १२−(नष्टासवः) विगतप्राणाः (नष्टविषाः) विगतगरलाः (हताः) मारिताः (इन्द्रेण) परमैश्वर्यवता पुरुषेण (वज्रिणा) वज्रधारिणा (जघान) नाशितवान् (जघ्निम) नाशितवन्तः (वयम्) ॥
 </details>
-

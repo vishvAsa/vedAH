@@ -17,8 +17,12 @@ who knoweth thus.
 That which is pleasant comes to him, and he is the beloved of the beloved, who is possessed of this knowledge.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-आ। ए॒न॒म्। प्रि॒यम्। ग॒च्छ॒ति॒। प्रि॒यः। प्रि॒यस्य॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ११.७। 
+ऐनं॑ प्रि॒यंग॑च्छति प्रि॒यः प्रि॒यस्य॑ भवति॒ य ए॒वं वेद॑ ॥
 </details>
 
+<details><summary>पदपाठः</summary>
+
+आ। ए॒न॒म्। प्रि॒यम्। ग॒च्छ॒ति॒। प्रि॒यः। प्रि॒यस्य॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ११.७।
+</details>

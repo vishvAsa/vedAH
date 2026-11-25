@@ -8,9 +8,15 @@ title = "०९ उत प्रहामतिदीवा"
 Yea, by superior play he wins advantage when he, a gambler, piles his gains in season. Celestial-natured, he o'erwhelms with riches the devotee who keeps not back his money.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॒त प्र॒हामति॑दीवा जयति कृ॒तमि॑व श्व॒घ्नी वि चि॑नोति का॒ले।  
+यो दे॒वका॑मो॒ न धनं॑ रु॒णद्धि॒ समित्तं रा॒यः सृ॑जति स्व॒धाभिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒त। प्र॒ऽहाम्। अति॑ऽदीवा। ज॒य॒ति॒। कृ॒तम्ऽइ॑व। श्व॒घ्नी। वि। चि॒नो॒ति॒। का॒ले। यः। दे॒वऽका॑मः। न। धन॑म्। रु॒णध्दि॑। सम्। इत्। तम्। रा॒यः। सृ॒ज॒ति॒। स्व॒धाभिः॑। ८९.९। 
+उ॒त। प्र॒ऽहाम्। अति॑ऽदीवा। ज॒य॒ति॒। कृ॒तम्ऽइ॑व। श्व॒घ्नी। वि। चि॒नो॒ति॒। का॒ले। यः। दे॒वऽका॑मः। न। धन॑म्। रु॒णध्दि॑। सम्। इत्। तम्। रा॒यः। सृ॒ज॒ति॒। स्व॒धाभिः॑। ८९.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Yea, by superior play he wins advantage when he, a gambler, piles his gains in s
 
 टिप्पणी:   मन्त्र ९, १० आ चुके हैं-अ० ७।०।६।७ ॥  ९−मन्त्रौ ९, १० व्याख्यातौ-अ० ७।०।६, ७ ॥
 </details>
-

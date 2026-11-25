@@ -17,9 +17,14 @@ thereby gains possession of \[his\] desire.
 When he says to him, Vratya, as thy desire is so be it, he secures to himself thereby the attainment of his desire.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदे॑न॒माह॒व्रात्य॒ यथा॑ ते निका॒मस्तथा॒स्त्विति॑ निका॒ममे॒व तेनाव॑ रुन्द्धे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। ए॒न॒म्। आह॑। व्रात्य॑। यथा॑। ते॒। नि॒ऽका॒मः। तथा॑। अ॒स्तु॒। इति॑। नि॒ऽका॒मम्। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। ११.१०। 
+यत्। ए॒न॒म्। आह॑। व्रात्य॑। यथा॑। ते॒। नि॒ऽका॒मः। तथा॑। अ॒स्तु॒। इति॑। नि॒ऽका॒मम्। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। ११.१०।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,4 +46,3 @@ When he says to him, Vratya, as thy desire is so be it, he secures to himself th
 
 टिप्पणी:   १०−(निकामः) निश्चितकामः। लालसा (निकामम्) लालसाम्। अन्यत् पूर्ववत् ॥
 </details>
-

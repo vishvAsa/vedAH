@@ -24,9 +24,14 @@ that book v. might be intended.⌋ ⌊See pages clvii-viii.⌋
 Hail to the Great Section!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+म॑हत्का॒ण्डाय॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-म॒ह॒त्ऽका॒ण्डाय॑। स्वाहा॑। २३.१८। 
+म॒ह॒त्ऽका॒ण्डाय॑। स्वाहा॑। २३.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +61,3 @@ Hail to the Great Section!
 
 टिप्पणी:   १८−(महत्काण्डाय) कादिभ्यः कित्। उ०१।११५। कमु कन वा कान्तौ-ड प्रत्ययो दीर्घश्च, यद्वा कडि भेदने संरक्षणे च-घञ्। महतां विदुषां संरक्षकाय वेदाय ॥
 </details>
-

@@ -23,9 +23,14 @@ simple *ārcī*.
 They made the two Rain months, his protectors from the western region, and Vairupa and Vairaja superintendents. The two Rain months, etc. as above.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वा॑स॒न्तावे॑नं॒मासौ॒ प्राच्या॑ दि॒शो गो॑पायतो बृ॒हच्च॑ रथन्त॒रं चानु॑ तिष्ठतो॒ य ए॒वं वेद॑॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वा॒स॒न्तौ। ए॒न॒म्। मासौ॑। प्राच्याः॑। दि॒शः। गो॒पा॒य॒तः॒। बृ॒हत्। च॒। र॒थ॒म्ऽत॒रम्। च॒। अनु॑। ति॒ष्ठ॒तः॒। यः। ए॒वम्। वेद॑। ४.३। 
+वा॒स॒न्तौ। ए॒न॒म्। मासौ॑। प्राच्याः॑। दि॒शः। गो॒पा॒य॒तः॒। बृ॒हत्। च॒। र॒थ॒म्ऽत॒रम्। च॒। अनु॑। ति॒ष्ठ॒तः॒। यः। ए॒वम्। वेद॑। ४.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ They made the two Rain months, his protectors from the western region, and Vairu
 
 टिप्पणी:   ३−(एनम्)विद्वांसम् (गोपायतः) रक्षतः (अनुतिष्ठतः) सहवर्तेते। विहितकर्म कुरुतः (यः)विद्वान् (एवम्) इण् गतौ-वन्। व्यापकं व्रात्यं परमात्मानम् (वेद) जानाति। अन्यत्पूर्ववत्-म० १, २ ॥
 </details>
-

@@ -19,6 +19,16 @@ The Gop.Br. has *ṣaḍarc-* in i. 1. 5.
 Hail to the six-versed!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ष॑डृ॒चेभ्यः॒ स्वाहा॑ ॥
+</details>
+
+<details><summary>मूलम् - शौनकम् (VH)</summary>
+
+ष॒ळृ॒चेभ्यः॒ स्वाहा॑ ॥३॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 ष॒ट्ऽऋ॒चेभ्यः॑। स्वाहा॑ । २३.३।

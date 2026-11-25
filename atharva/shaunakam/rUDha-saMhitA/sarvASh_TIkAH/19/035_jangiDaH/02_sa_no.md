@@ -20,9 +20,15 @@ The *pada*-mss. read at end of **b** *dhána॰iva;* ⌊SPP. emends to
 So may this Jangida guard us, even as a treasurer guards wealth,. Even this which Gods and Brahmans made a malice-quelling sure defence.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स नो॑ रक्षतु जङ्गि॒डो ध॑नपा॒लो धने॑व।  
+दे॒वा यं च॒क्रुर्ब्रा॑ह्म॒णाः प॑रि॒पाण॑मराति॒हम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। नः॒। र॒क्ष॒तु॒। ज॒ङ्गि॒डः। ध॒न॒ऽपा॒लः। धना॑ऽइव। दे॒वाः। यम्। च॒क्रुः। ब्रा॒ह्म॒णाः। प॒रि॒ऽपान॑म्। अ॒रा॒ति॒ऽहम्। ३५.२। 
+सः। नः॒। र॒क्ष॒तु॒। ज॒ङ्गि॒डः। ध॒न॒ऽपा॒लः। धना॑ऽइव। दे॒वाः। यम्। च॒क्रुः। ब्रा॒ह्म॒णाः। प॒रि॒ऽपान॑म्। अ॒रा॒ति॒ऽहम्। ३५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ So may this Jangida guard us, even as a treasurer guards wealth,. Even this whic
 
 टिप्पणी:   २−(सः) तादृशः (नः) अस्मान् (रक्षतु) पालयतु (जङ्गिडः) औषधविशेषः (धनपालः) धनरक्षकः। कोशाध्यक्षः (धना) धनानि (इव) यथा (देवाः) कमनीयाः (यम्) जङ्गिडम् (चक्रुः) कृतवन्तः (ब्राह्मणाः) वेदज्ञानिनः (परिपाणम्) सर्वतो रक्षकम् (अरातिहम्) शत्रुहन्तारम् ॥
 </details>
-

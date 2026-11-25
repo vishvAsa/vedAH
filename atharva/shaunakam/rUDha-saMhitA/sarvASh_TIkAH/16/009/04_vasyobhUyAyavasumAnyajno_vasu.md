@@ -36,9 +36,14 @@ here quoted from the Old Anukr. is *pañcaparyāya uttaraḥ:* see p. 792.⌋
 Sacrifice is fraught with wealth for the increase of prosperity. I would win riches; fain would I be wealthy. Do thou bestow wealth upon me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व॑स्यो॒भूया॑य॒वसु॑मान्य॒ज्ञो वसु॑ वंसिषीय॒ वसु॑मान्भूयासं॒ वसु॒ मयि॑ धेहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-व॒स्यः॒ऽभूया॑य। वसु॑ऽमान। य॒ज्ञः। वसु॑। वं॒शि॒षी॒य॒। वसु॑ऽमान्। भू॒या॒स॒म्। वसु॑। मयि॑। धे॒हि॒। ९.४। 
+व॒स्यः॒ऽभूया॑य। वसु॑ऽमान। य॒ज्ञः। वसु॑। वं॒शि॒षी॒य॒। वसु॑ऽमान्। भू॒या॒स॒म्। वसु॑। मयि॑। धे॒हि॒। ९.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -68,4 +73,3 @@ Sacrifice is fraught with wealth for the increase of prosperity. I would win ric
 
 टिप्पणी:   ४−(वस्योभूयाय) वसु-ईयसुन्, ईलोपः+भू सत्तायां प्राप्तौ च-क्यप्।श्रेष्ठतरपदप्राप्तये (वसुमान्) श्रेष्ठगुणवान् (यज्ञः) देवपूजासंगतिकरणदानव्यवहारः (वसु) श्रेष्ठपदम् (वंशिषीय) अ० ९।१।१४। वनु याचने-आशीर्लिङि छान्दसं रूपम्। अहंवनिषीय। याचिषीय (वसुमान्) श्रेष्ठपदयुक्तः (वसु) श्रेष्ठपदम् (मयि)पुरुषार्थिनि (धेहि) धारय ॥
 </details>
-

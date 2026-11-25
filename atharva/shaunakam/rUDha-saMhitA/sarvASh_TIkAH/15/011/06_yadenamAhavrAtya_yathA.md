@@ -17,8 +17,12 @@ thereby gains possession of what is dear.
 When he says to him, Vratya, let it be as thou pleasest, he secures to himself thereby what is pleasant.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-यत्। ए॒न॒म्। आह॑। व्रात्य॑। यथा॑। ते॒। प्रि॒यम्‌। तथा॑। अ॒स्तु॒। इति॑। प्रि॒यम्। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। ११.६। 
+यदे॑न॒माह॒व्रात्य॒ यथा॑ ते प्रि॒यं तथा॒स्त्विति॑ प्रि॒यमे॒व तेनाव॑ रुन्द्धे ॥
 </details>
 
+<details><summary>पदपाठः</summary>
+
+यत्। ए॒न॒म्। आह॑। व्रात्य॑। यथा॑। ते॒। प्रि॒यम्‌। तथा॑। अ॒स्तु॒। इति॑। प्रि॒यम्। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। ११.६।
+</details>

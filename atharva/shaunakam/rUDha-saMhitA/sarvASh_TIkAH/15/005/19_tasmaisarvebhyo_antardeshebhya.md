@@ -38,7 +38,6 @@ perhaps intended as exegetical, but it is at any rate most
 unexpected.—The vs. AV. xii. 1. 49 furnishes testimony (quite  
 superfluous) to the familiarity of the ancient Hindus with  
 "man-eaters."⌋
-
 </details>
 
 <details><summary>Griffith</summary>
@@ -46,9 +45,14 @@ superfluous) to the familiarity of the ancient Hindus with
 They made Isana the Archer his deliverer from all the inter- mediate regions. ॥
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मै॒सर्वे॑भ्यो अन्तर्दे॒शेभ्य॒ ईशा॑नमिष्वा॒सम॑नुष्ठा॒तार॑मकुर्वन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्मै॑। सर्वे॑भ्यः। अ॒न्तः॒ऽदे॒शेभ्यः॑। ईशा॑नम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१४। 
+तस्मै॑। सर्वे॑भ्यः। अ॒न्तः॒ऽदे॒शेभ्यः॑। ईशा॑नम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -78,4 +82,3 @@ They made Isana the Archer his deliverer from all the inter- mediate regions. �
 
 टिप्पणी:   १४, १५, १६−(अन्तर्देशेभ्यः) मध्यदेशेभ्यः (ईशानम्) सर्वस्वामिनम्। अन्यत् पूर्ववत्-म०१-३, स्पष्टं च ॥
 </details>
-

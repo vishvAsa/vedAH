@@ -34,9 +34,15 @@ waters, for subject of the concluding verb.
 The plants of earth are rich in milk, and rich in milk is this my milk. With all the milky essence of the Waters let them make me clean.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पय॑स्वती॒रोष॑धयः॒ पय॑स्वन्माम॒कं पयः॑।  
+अ॒पां पय॑सो॒ यत्पय॒स्तेन॑ मा स॒हशु॑म्भतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पय॑स्वतीः। ओष॑धयः। पय॑स्वत्। मा॒म॒कम्। पयः॑। अ॒पाम्। पय॑सः। यत्। पयः॑। तेन॑। मा॒। स॒ह। शु॒म्भ॒तु॒। ३.५६। 
+पय॑स्वतीः। ओष॑धयः। पय॑स्वत्। मा॒म॒कम्। पयः॑। अ॒पाम्। पय॑सः। यत्। पयः॑। तेन॑। मा॒। स॒ह। शु॒म्भ॒तु॒। ३.५६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -66,4 +72,3 @@ The plants of earth are rich in milk, and rich in milk is this my milk. With all
 
 टिप्पणी:   ५६−(पयस्वतीः) रपेरत एच्च। उ० ४।१९०। पा पाने-असुन् मतुप्, ङीप् धातोरीत्वम्। सारवत्यः (ओषधयः) अन्नसोमलतादयः (पयस्वत्) सारयुक्तम् (मामकम्) मदीयम् (पयः) पय गतौ-असुन्। ज्ञानम् (अपाम्) जलानाम् (पयसः) सारस्य (यत्) (पयः) सारः (तेन) पयसा (मा) माम् (सह) (शुम्भतु) शोभनं करोतु ॥
 </details>
-

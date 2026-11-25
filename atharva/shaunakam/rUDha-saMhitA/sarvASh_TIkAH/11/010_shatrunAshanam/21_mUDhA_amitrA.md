@@ -21,9 +21,15 @@ his variant is perhaps as in 9. 6 above (*nnya* = *nya*). The
 Mazed are the foemen, Nyarbudi! Slay thou each bravest man of them: with this our army slaughter them.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मू॒ढा अ॒मित्रा॑ न्यर्बुदे ज॒ह्ये᳡षां॒ वरं॑वरम्।  
+अ॒नया॑ जहि॒ सेन॑या ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मू॒ढाः। अ॒मित्राः॑। नि॒ऽअ॒र्बु॒दे॒। ज॒हि। ए॒षा॒म्। वर॑म्ऽवरम्। अ॒नया॑। ज॒हि॒। सेन॑या। १२.२१। 
+मू॒ढाः। अ॒मित्राः॑। नि॒ऽअ॒र्बु॒दे॒। ज॒हि। ए॒षा॒म्। वर॑म्ऽवरम्। अ॒नया॑। ज॒हि॒। सेन॑या। १२.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Mazed are the foemen, Nyarbudi! Slay thou each bravest man of them: with this ou
 
 टिप्पणी:   २१−(मूढाः) अचेतसः (अमित्राः) शत्रवः (न्यर्बुदे) म० २०। हे नित्यपुरुषार्थिन् राजन् (जहि) मारय (एषाम्) (वरंवरम्) श्रेष्ठं श्रेष्ठं वीरम् (अनया) स्वकीयया (जहि) (सेनया) ॥
 </details>
-

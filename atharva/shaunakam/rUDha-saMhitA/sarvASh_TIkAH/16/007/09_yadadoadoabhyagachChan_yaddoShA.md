@@ -21,9 +21,14 @@ vol. iii., p. 352.⌋
 Whatsoever I have met with, whether at dusk or during early night,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यददोअदोअ॒भ्यग॑च्छ॒न् यद्दोषा यत्पूर्वां॒ रात्रि॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। अ॒दःऽव॑दः। अ॒भि॒ऽअग॑च्छन्। यत्। दो॒षा। यत्। पूर्वा॑म्। रात्रि॑म्। ७.९। 
+यत्। अ॒दःऽव॑दः। अ॒भि॒ऽअग॑च्छन्। यत्। दो॒षा। यत्। पूर्वा॑म्। रात्रि॑म्। ७.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ Whatsoever I have met with, whether at dusk or during early night,
 
 टिप्पणी:   ९−(यत्) यथा (अदोअदः)तस्मिंस्तस्मिन् समये (अभ्यगच्छन्) ते पूर्वजा आभिमुख्येन प्राप्नुवन् (यत्)कष्टम् (दोषा) रात्रौ (यत्) (पूर्वाम्) पूर्वभागभवायाम् (रात्रिम्) ॥
 </details>
-

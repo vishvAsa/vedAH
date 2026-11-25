@@ -22,9 +22,15 @@ of *ṛbhúr asi*, TS. has *sághā ’si* (*jágatīchandās*), GB. and PB. hav
 Thou art the Ribhu, lord of Jagati: I hold thee fast. Happily bear me to the goal of this my sacrifice. Al I hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋ॒भुर॑सि॒ जग॑च्छन्दा॒ अनु॒ त्वा र॑भे।  
+स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋ॒भुः। अ॒सि॒। जग॑त्ऽछन्दाः। अनु॑। त्वा॒। आ। र॒भे॒। स्व॒स्ति। मा॒। सम्। व॒ह॒। अ॒स्य। य॒ज्ञस्य॑। उ॒त्ऽऋचि॑। स्वाहा॑। ४८.२। 
+ऋ॒भुः। अ॒सि॒। जग॑त्ऽछन्दाः। अनु॑। त्वा॒। आ। र॒भे॒। स्व॒स्ति। मा॒। सम्। व॒ह॒। अ॒स्य। य॒ज्ञस्य॑। उ॒त्ऽऋचि॑। स्वाहा॑। ४८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Thou art the Ribhu, lord of Jagati: I hold thee fast. Happily bear me to the goa
 
 टिप्पणी:   २−(ऋभुः) अ० १।२।३। मेधावी... निघ० ३।१५। (जगच्छन्दाः) जगत्सु लोकेषु। छन्दः स्वातन्त्र्यं यस्य सः। अन्यत् पूर्ववत् ॥
 </details>
-

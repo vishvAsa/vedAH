@@ -17,9 +17,16 @@ extermination (*nírbhūti*), agent etc. etc.
 We know thine origin, O Sleep. Thou art the son of Disappear- ance, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒द्म ते॑स्वप्न ज॒नित्रं॒ निरृ॑त्याः पु॒त्रो᳡ऽसि॑ य॒मस्य॒ कर॑णः ।  
+अन्त॑कोऽसिमृ॒त्युर॑सि ।  
+तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स नः॑ स्वप्नदुः॒ष्वप्न्या॑त्पाहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒द्म। ते॒। स्व॒प्न॒। ज॒नित्र॑म्। न‍िःऽऋ॑त्याः। पु॒त्रः। अ॒सि॒। य॒मस्य॑। कर॑णः। ५.४। 
+वि॒द्म। ते॒। स्व॒प्न॒। ज॒नित्र॑म्। न‍िःऽऋ॑त्याः। पु॒त्रः। अ॒सि॒। य॒मस्य॑। कर॑णः। ५.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +56,3 @@ We know thine origin, O Sleep. Thou art the son of Disappear- ance, etc.
 
 टिप्पणी:   ४−(निर्ऋत्याः) कृच्छ्रापत्तेः। अन्यत् पूर्ववत् ॥
 </details>
-

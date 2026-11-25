@@ -14,6 +14,11 @@ moved out the *virā́j* and all the gods and all the deities.
 Viraj and all the Gods and all the Deities followed him.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तं वि॒राडनु॒ व्य᳡चल॒त्सर्वे॑ च दे॒वाः सर्वा॑श्च दे॒वताः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 तम् । वि॒ऽराट् । अनु॑ । वि । अ॒च॒ल॒त् । सर्वे॑ । च॒ । दे॒वाः । सर्वा॑ । च॒ । दे॒वताः॑ ६.२२।

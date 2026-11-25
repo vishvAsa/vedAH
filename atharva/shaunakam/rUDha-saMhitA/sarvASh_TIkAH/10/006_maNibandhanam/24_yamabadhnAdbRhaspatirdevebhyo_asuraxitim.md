@@ -17,9 +17,15 @@ with greatness, growth.
 The Amulet, etc. That Amulet here hath come to me with store of barley and of rice, with greatness and prosperity.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑मत्स॒ह व्री॑हिय॒वाभ्यां॒ मह॑सा॒ भूत्या॑ स॒ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। स॒ह। व्री॒हि॒ऽय॒वाभ्या॑म्। मह॑सा। भूत्या॑। स॒ह। ६.२४। 
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। स॒ह। व्री॒हि॒ऽय॒वाभ्या॑म्। मह॑सा। भूत्या॑। स॒ह। ६.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ The Amulet, etc. That Amulet here hath come to me with store of barley and of ri
 
 टिप्पणी:   २४−(महसा) महत्त्वेन (भूत्या) सम्पत्या। अन्यत् सुगमम् ॥
 </details>
-

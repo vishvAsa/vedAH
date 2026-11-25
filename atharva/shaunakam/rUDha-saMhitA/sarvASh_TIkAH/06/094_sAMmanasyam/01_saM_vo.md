@@ -19,9 +19,15 @@ Ppp. in **d** apparently *saṁ jñapayāmasi*.
 We bend your minds in union, bend in harmony your hopes and plans: You there, who turn to sundered ways, we bend and bow in unison.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सं वो॒ मनां॑सि॒ सं व्र॒ता समाकू॑तीर्नमामसि।  
+अ॒मी ये विव्र॑ता॒ स्थन॒ तान्वः॒ सं न॑मयामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। वः॒। मनां॑सि॒। सम्। व्र॒ता। सम्। आऽकू॑तीः। न॒मा॒म॒सि॒। अ॒मी इति॑। ये। विऽव्र॑ताः। स्थन॑। तान्। वः॒। सम्। न॒म॒या॒म॒सि॒। ९४.१। 
+सम्। वः॒। मनां॑सि॒। सम्। व्र॒ता। सम्। आऽकू॑तीः। न॒मा॒म॒सि॒। अ॒मी इति॑। ये। विऽव्र॑ताः। स्थन॑। तान्। वः॒। सम्। न॒म॒या॒म॒सि॒। ९४.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ We bend your minds in union, bend in harmony your hopes and plans: You there, wh
 
 टिप्पणी:   १−पूर्ववद् व्याख्येयः−अ० ३।८।५ ॥
 </details>
-

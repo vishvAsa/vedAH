@@ -17,9 +17,14 @@ maternal connection.
 She cuts off relationship on the father's side and destroys mater- nal kinship.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+छि॒नत्त्य॑स्य पितृब॒न्धु परा॑ भावयति मातृब॒न्धु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-छि॒नत्ति॑। अ॒स्य॒। पि॒तृ॒ऽब॒न्धु। परा॑। भा॒व॒य॒ति॒। मा॒तृ॒ऽब॒न्धु। ९.५। 
+छि॒नत्ति॑। अ॒स्य॒। पि॒तृ॒ऽब॒न्धु। परा॑। भा॒व॒य॒ति॒। मा॒तृ॒ऽब॒न्धु। ९.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ She cuts off relationship on the father's side and destroys mater- nal kinship.
 
 टिप्पणी:   ४२, ४३−(सर्वा) सर्वाणि (अस्य) ब्रह्मजस्य (अङ्गा) अङ्गानि (पर्वा) पर्वाणि। ग्रन्थीन् (मूलानि) (वृश्चति) (छिनत्ति) (अस्य) ब्रह्मज्यस्य (पितृबन्धु) पैतृकसम्बन्धनम् (पराभावयति) पराजयति (मातृबन्धु) मातृकसम्बन्धनम् ॥
 </details>
-

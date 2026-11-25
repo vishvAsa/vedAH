@@ -23,9 +23,15 @@ bones. The first pāda is one syllable short.
 The grains of corn have now become a cow, the Sesamum her calf. He in the realm of Yama lives on her the inexhaustible.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+धा॒नाधे॒नुर॑भवद्व॒त्सो अ॑स्यास्ति॒लो᳡ऽभ॑वत्।  
+तां वै य॒मस्य॒ राज्ये॒ अक्षि॑ता॒मुप॑जीवति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-धा॒नाः। धे॒नुः। अ॒भ॒व॒त्। व॒त्सः। अ॒स्याः॒। ति॒लः। अ॒भ॒व॒त्। ताम्। वै। य॒मस्य॑। राज्ये॑। अक्षि॑ताम्। उप॑। जी॒व॒ति॒। ४.३२। 
+धा॒नाः। धे॒नुः। अ॒भ॒व॒त्। व॒त्सः। अ॒स्याः॒। ति॒लः। अ॒भ॒व॒त्। ताम्। वै। य॒मस्य॑। राज्ये॑। अक्षि॑ताम्। उप॑। जी॒व॒ति॒। ४.३२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ The grains of corn have now become a cow, the Sesamum her calf. He in the realm 
 
 टिप्पणी:   ३२−(धानाः) सुसंस्कृतपौष्टिकपदार्थाः (धेनुः) दोग्ध्री गौः (अभवत्) भवति (वत्सः) गोशिशुः। वृषभः (अस्याः) धेनोः सकाशात् (तिलः)तिलसर्षपादिपदार्थः (ताम्) गाम् (वै) निश्चयेन (यमस्य) न्यायशीलस्य राज्ञः (राज्ये) जनपदे (अक्षिताम्) अहिंसिताम् (उप) उपेत्य (जीवति) प्राणान् धारयति ॥
 </details>
-

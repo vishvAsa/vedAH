@@ -8,9 +8,14 @@ title = "०६ अहुल कुश"
 Lover of Kusa grass, Unploughed!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अहु॑ल कुश वर्त्तक ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अह॑ल। कुश। वर्त्तक। १३१.६। 
+अह॑ल। कुश। वर्त्तक। १३१.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Lover of Kusa grass, Unploughed!
 
 टिप्पणी:   ६−(अहल) शकिशम्योर्नित्। उ० १।११२। अहि गतौ दीप्तौ च-कलप्रत्ययः। हे दीप्यमान (कुश) कु पापं श्यतीति, शो तनूकरणे-डप्रत्ययः। हे पापनाशक (वर्त्तक) वृतु वर्तने-ण्वुल्। हे प्रवृत्तिशील ॥
 </details>
-

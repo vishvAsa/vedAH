@@ -23,9 +23,14 @@ restoration of all the elided *a*'s.⌋
 Undisturbed am I, undisturbed is my soul, undisturbed mine eye, undisturbed mine ear, undisturbed is mine in-breathing, undisturbed mine out-breathing, undisturbed my diffusive- breath, undisturbed the whole of me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अयु॑तो॒ऽहमयु॑तो म आ॒त्मायु॑तं मे॒ चक्षु॒रयु॑तं मे॒ श्रोत्र॑मयु॑तो मे प्रा॒णोऽयु॑तो मेऽपा॒नोऽयु॑तो मे व्या॒नोऽयु॑तो॒ऽहं सर्वः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अयु॑तः। अ॒हम्। अयु॑तः। मे॒। आ॒त्मा। अयु॑तम्। मे॒। चक्षुः॑। अयु॑तम्। मे॒। श्रोत्र॑म्। अयु॑तः। मे॒। प्रा॒णः। अयु॑तः। मे॒। अ॒पा॒नः। मे॒। वि॒ऽआ॒नः। अयु॑तः। अ॒हम्। सर्वः॑। ५१.१। 
+अयु॑तः। अ॒हम्। अयु॑तः। मे॒। आ॒त्मा। अयु॑तम्। मे॒। चक्षुः॑। अयु॑तम्। मे॒। श्रोत्र॑म्। अयु॑तः। मे॒। प्रा॒णः। अयु॑तः। मे॒। अ॒पा॒नः। मे॒। वि॒ऽआ॒नः। अयु॑तः। अ॒हम्। सर्वः॑। ५१.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ Undisturbed am I, undisturbed is my soul, undisturbed mine eye, undisturbed mine
 
 टिप्पणी:   १−(अयुतः) यु निन्दायाम्, चुरादिः-क्त। अनिन्दितः। प्रशंसितः (अहम्) (मे) मम (आत्मा) जीवात्मा (चक्षुः) दर्शनेन्द्रियम् (श्रोत्रम्) श्रवणेन्द्रियम् (प्राणः) शरीराभ्यन्तरगामी वायुः (अपानः) शरीराद् बहिर्गामी वायुः (व्यानः) सर्वशरीरव्यापको वायुः (सर्वः) समस्तः। अन्यद् गतं स्पष्टं च ॥
 </details>
-

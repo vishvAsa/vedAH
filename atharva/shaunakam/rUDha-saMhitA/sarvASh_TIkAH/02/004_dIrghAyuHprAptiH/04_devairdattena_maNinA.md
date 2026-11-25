@@ -19,9 +19,15 @@ first by *saṁcaraṇe*, and then by *saṁcaraṇapradeśe.*
 With Jangida that brings delight, Amulet given by the Gods, We in the conflict overcome Vishkandha and all Rakshasas.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॒वैर्द॒त्तेन॑ म॒णिना॑ जङ्गि॒डेन॑ मयो॒भुवा॑।  
+विष्क॑न्धं॒ सर्वा॒ रक्षां॑सि व्याया॒मे स॑हामहे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒वैः। द॒त्तेन॑। म॒णिना॑। ज॒ङ्गि॒डेन॑। म॒यः॒भुवा॑। विऽस्क॑न्धम्। सर्वा॑। रक्षां॑सि। वि॒ऽआ॒या॒मे। स॒हा॒म॒हे॒। ४.४। 
+दे॒वैः। द॒त्तेन॑। म॒णिना॑। ज॒ङ्गि॒डेन॑। म॒यः॒भुवा॑। विऽस्क॑न्धम्। सर्वा॑। रक्षां॑सि। वि॒ऽआ॒या॒मे। स॒हा॒म॒हे॒। ४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ With Jangida that brings delight, Amulet given by the Gods, We in the conflict o
 
 टिप्पणी:   ४–देवैः। विद्वद्भिः। दत्तेन। दीयते इति। दा–क्त। कृतदानेन। उपदिष्टेन। मयोभुवा। अ० १।५।१। सुखस्य भावयित्रा, उत्पादकेन। व्यायामे। वि+आङ्+यम परिवेषणे–घञ्। मल्ल क्रीडाप्रदेशे। संग्रामे। सहामहे। अभिभवामः। अन्यद् व्याख्यातम्, म० १ ॥
 </details>
-

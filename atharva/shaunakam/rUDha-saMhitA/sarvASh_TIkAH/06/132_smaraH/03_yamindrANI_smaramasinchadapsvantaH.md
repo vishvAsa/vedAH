@@ -16,9 +16,15 @@ title = "०३ यमिन्द्राणी स्मरमसिञ्च
 The Philter, burning with the pangs of longing, which Indrani hath effused within the waters' depth, That spell for thee I heat by Varuna's decree.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यमि॑न्द्रा॒णी स्म॒रमसि॑ञ्चद॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। इ॒न्द्रा॒णी। स्म॒रम्। असि॑ञ्चत्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.३। 
+यम्। इ॒न्द्रा॒णी। स्म॒रम्। असि॑ञ्चत्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +54,3 @@ The Philter, burning with the pangs of longing, which Indrani hath effused withi
 
 टिप्पणी:   ३−(इन्द्राणी) अ० १।२७।४। परमैश्वर्यकारिणी राजनीतिः−दयानन्दभाष्ये यजु० ३८।३। (असिञ्चत्) क्रमेणावर्धयत्। अन्यत् पूर्ववत् ॥
 </details>
-

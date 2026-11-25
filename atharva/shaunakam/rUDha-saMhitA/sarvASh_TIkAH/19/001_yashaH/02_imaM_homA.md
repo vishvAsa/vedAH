@@ -22,9 +22,15 @@ last half of vs. 3 as refrain, instead of that of vs. 1.
 O Burnt Oblations, aid, and ye, Blent Offerings, this my sacrifice. Strengthen this sacrifice of mine, ye singers. I offer up a duly mixt oblation.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒मं हो॑मा य॒ज्ञम॑वते॒मं सं॑स्रावणा उ॒त।  
+य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्ये᳡ण ह॒विषा॑ जुहोमि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒मम्। होमाः॑। य॒ज्ञम्। अ॒व॒त॒। इ॒मम्। स॒म्ऽस्रा॒व॒णाः॒। उ॒त। य॒ज्ञम्। इ॒मम्। व॒र्ध॒य॒त॒। गि॒रः॒। स॒म्ऽस्रा॒व्ये᳡ण। ह॒विषा॑। जु॒हो॒मि॒। १.२। 
+इ॒मम्। होमाः॑। य॒ज्ञम्। अ॒व॒त॒। इ॒मम्। स॒म्ऽस्रा॒व॒णाः॒। उ॒त। य॒ज्ञम्। इ॒मम्। व॒र्ध॒य॒त॒। गि॒रः॒। स॒म्ऽस्रा॒व्ये᳡ण। ह॒विषा॑। जु॒हो॒मि॒। १.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ O Burnt Oblations, aid, and ye, Blent Offerings, this my sacrifice. Strengthen t
 
 टिप्पणी:   इस मन्त्र के पूर्वार्द्ध का मिलान करो−पूर्वार्द्ध अ० १।१५।२ ॥ २−(इमम्) क्रियमाणम् (होमाः) अ० ८।९।१८। हु दानादानादनेषु-मन्। दातारो यूयम् (यज्ञम्) म० १ (अवत) रक्षत (इमम्) यज्ञम् (संस्रावणाः) स्रु गतौ−णिचि, ल्युट्, अर्शआद्यच्। हे आर्द्रस्वभावयुक्ताः। अन्यत् पूर्ववत्-म० १ ॥
 </details>
-

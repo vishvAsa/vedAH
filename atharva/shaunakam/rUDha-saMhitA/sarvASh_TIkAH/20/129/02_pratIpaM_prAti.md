@@ -8,9 +8,14 @@ title = "०२ प्रतीपं प्राति"
 These mares come springing forward to Pratipa Pratisutvana. (with previous verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॑ती॒पं प्राति॑ सु॒त्वन॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒ती॒पम्। प्राति॑। सु॒त्वन॑म्। १२९.२। 
+प्र॒ती॒पम्। प्राति॑। सु॒त्वन॑म्। १२९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ These mares come springing forward to Pratipa Pratisutvana. (with previous verse
 
 टिप्पणी:   २−(प्रतीपम्) आप्नोतेर्ह्रस्वश्च उ० २। ५८। प्रति+आप्लृ व्याप्तौ-क्विप्। ऋक्पूरब्धूःपथामानक्षे। पा० ५। ४। ७४। अप्रत्ययः। द्व्यन्तरुपसर्गेभ्योऽप ईत्। पा०। ६। ३। ९३। इति ईत्। प्रत्यक्षव्यापकम् (प्राति) सांहितिको दीर्घः। प्रति। उद्दिश्य (सुत्वनम्) सुयजोर्ङ्वनिप्। पा०। ३। २। १०३। षु प्रसवैश्वर्ययोः-ङ्वनिप्, तुक् च। उत्पादकम्। ऐश्वर्यवन्तं परमेश्वरम् ॥
 </details>
-

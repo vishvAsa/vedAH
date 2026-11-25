@@ -19,9 +19,15 @@ The comm., without explaining why, glosses *sūrí* with *abhijña*
 A prince art thou, giver of speech, thou art our bodies' strong defence. Reach thy superior, thou; surpass thine equal.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सू॒रिर॑सि वर्चो॒धा अ॑सि तनू॒पानो॑ ऽसि।  
+आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सू॒रिः। अ॒सि॒। व॒र्चः॒ऽधाः। अ॒सि॒। त॒नू॒ऽपानः॑। अ॒सि॒। आ॒प्नु॒हि। श्रेयां॑सम्। अति॑। स॒मम्। क्रा॒म॒। ११.४। 
+सू॒रिः। अ॒सि॒। व॒र्चः॒ऽधाः। अ॒सि॒। त॒नू॒ऽपानः॑। अ॒सि॒। आ॒प्नु॒हि। श्रेयां॑सम्। अति॑। स॒मम्। क्रा॒म॒। ११.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ A prince art thou, giver of speech, thou art our bodies' strong defence. Reach t
 
 टिप्पणी:   ४–सूरिः। सूङः क्रिः उ० ४।६४। इति षूङ् प्राणिप्रसवे, यद्वा, षू प्रेरणे क्रि। सूते उत्पादयति, सुवति प्रेरयति वा सद्वाक्यानि। स्तोता–निघ० ३।१६। अभिज्ञः। पण्डितः। वर्चोधाः। वर्चस्+धाञ्–विच्। वर्चः–अ० १।९।४। वर्चसः, अन्नस्य तेजसो वा धाता। तनूपानः। तनू+पा रक्षणे–भावे ल्युट्। तनूनां पानं रक्षणं यस्मात् सः। शरीररक्षकः ॥
 </details>
-

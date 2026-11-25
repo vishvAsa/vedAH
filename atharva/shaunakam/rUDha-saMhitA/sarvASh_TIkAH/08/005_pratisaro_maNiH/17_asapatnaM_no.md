@@ -20,9 +20,15 @@ Ppp. has, for **c**, *indra piśācaṁ naṣ paścāt*.
 Brave Indra, set before us light, peace and security from below, Peace and security from above, peace and security from behind.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑सप॒त्नं नो॑ अध॒राद॑सप॒त्नं न॑ उत्त॒रात्।  
+इन्द्रा॑सप॒त्नं नः॑ प॒श्चाज्ज्योतिः॑ शूर पु॒रस्कृ॑धि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒स॒प॒त्नम्। नः॒। अ॒ध॒रात्। अ॒स॒प॒त्नम्। नः॒। उ॒त्त॒रात्। इन्द्र॑। अ॒स॒प॒त्नम्। नः॒। प॒श्चात्। ज्योतिः॑। शू॒र॒। पु॒रः। कृ॒धि॒। ५.१७। 
+अ॒स॒प॒त्नम्। नः॒। अ॒ध॒रात्। अ॒स॒प॒त्नम्। नः॒। उ॒त्त॒रात्। इन्द्र॑। अ॒स॒प॒त्नम्। नः॒। प॒श्चात्। ज्योतिः॑। शू॒र॒। पु॒रः। कृ॒धि॒। ५.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Brave Indra, set before us light, peace and security from below, Peace and secur
 
 टिप्पणी:   १७−(असपत्नम्) शत्रुरहितम् (नः) अस्मभ्यम् (अधरात्) अधोदेशात् (उत्तरात्) उपरिदेशात् (इन्द्र) परमैश्वर्यवन् राजन् (पश्चात्) पृष्ठतः (ज्योतिः) प्रकाशम् (शूर) (पुरः) पुरस्तात् (कृधि) कुरु। अन्यत्पूर्ववत् ॥
 </details>
-

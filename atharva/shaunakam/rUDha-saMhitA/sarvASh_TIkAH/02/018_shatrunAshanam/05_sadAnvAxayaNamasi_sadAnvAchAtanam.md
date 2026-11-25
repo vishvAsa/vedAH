@@ -18,9 +18,14 @@ Read in our edition *sadānvācā́t-*.
 Sadanvas' ruiner art thou, give me to drive Sadanvas off. All hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑दान्वा॒क्षय॑णमसि सदान्वा॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒दा॒न्वा॒ऽक्षय॑णम्। अ॒सि॒। स॒दा॒न्वा॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.५। 
+स॒दा॒न्वा॒ऽक्षय॑णम्। अ॒सि॒। स॒दा॒न्वा॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Sadanvas' ruiner art thou, give me to drive Sadanvas off. All hail!
 
 टिप्पणी:   ५–सदान्वाक्षयणम्। अ० २।१४।१। सदानोनुवानां सर्वदा शब्दकारिकानां वा दानवै राक्षसैः सह वर्त्तमानानां दरिद्रतादिविपत्तीनां नाशनम् ॥
 </details>
-

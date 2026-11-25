@@ -31,9 +31,14 @@ follows: I. *av.*, 17; II. *av.*, 13; III. *av.*, 9; IV. *av.*, 5;
 He who hath this knowledge wins the luminous spheres.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ज्योति॑ष्मतो लो॒काञ्ज॑यति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ज्योति॑ष्मतः। लो॒कान्। ज॒य॒ति॒। यः। ए॒वम्। वेद॑। ११.१४। 
+ज्योति॑ष्मतः। लो॒कान्। ज॒य॒ति॒। यः। ए॒वम्। वेद॑। ११.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -63,4 +68,3 @@ He who hath this knowledge wins the luminous spheres.
 
 टिप्पणी:   १४−(ज्योतिष्मतः) ज्ञानप्रकाशमयान् (लोकान्) ज्ञानदशाविशेषान् (जयति) उत्कर्षेण प्राप्नोति। अन्यत् पूर्ववत् ॥१४॥
 </details>
-

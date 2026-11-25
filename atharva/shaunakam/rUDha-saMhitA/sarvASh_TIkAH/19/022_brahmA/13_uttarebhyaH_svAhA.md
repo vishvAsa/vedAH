@@ -18,9 +18,14 @@ blundering assimilation to the accent of *uttamébhyas*, vs. 12⌋.
 To the latter ones, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॑त्त॒रेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒त्ऽत॒रेभ्यः॑। स्वाहा॑। २२.१३। 
+उ॒त्ऽत॒रेभ्यः॑। स्वाहा॑। २२.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ To the latter ones, Hail!
 
 टिप्पणी:   १३−(उत्तरेभ्यः) अधिकतरोन्नतपुरुषेभ्यः ॥
 </details>
-

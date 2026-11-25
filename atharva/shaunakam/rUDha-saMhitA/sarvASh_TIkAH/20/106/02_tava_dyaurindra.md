@@ -8,9 +8,15 @@ title = "०२ तव द्यौरिन्द्र"
 O Indra, heaven and earth augment thy manly power and thy renown, The waters and the mountains stir and urge thee on.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तव॒ द्यौरि॑न्द्र॒ पौंस्यं॑ पृथि॒वी व॑र्धति॒ श्रवः॑।  
+त्वामापः॒ पर्व॑तासश्च हिन्विरे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तव॑। द्यौः। इ॒न्द्र॒। पौंस्य॑म्। पृ॒थि॒वी। व॒र्ध॒ति॒। श्रवः॑। त्वाम्। आपः॑। पर्व॑तासः। च॒। हि॒न्वि॒रे॒। १०६.२। 
+तव॑। द्यौः। इ॒न्द्र॒। पौंस्य॑म्। पृ॒थि॒वी। व॒र्ध॒ति॒। श्रवः॑। त्वाम्। आपः॑। पर्व॑तासः। च॒। हि॒न्वि॒रे॒। १०६.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ O Indra, heaven and earth augment thy manly power and thy renown, The waters and
 
 टिप्पणी:   २−(तव) (द्यौः) आकाशः (इन्द्र) हे परमेश्वर (पौंस्यम्) पौरुषम् (पृथिवी) (वर्धति) वर्धयति (श्रवः) यशः (त्वाम्) (आपः) जलानि (पर्वतास) शैलाः (च) (हिन्विरे) प्रीणयन्ति स्म ॥
 </details>
-

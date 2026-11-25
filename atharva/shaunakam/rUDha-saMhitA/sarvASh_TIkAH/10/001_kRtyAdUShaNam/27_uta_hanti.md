@@ -21,9 +21,15 @@ of *-dā́ya* to *-dhā́ya* in **b**, and the translation implies the change.
 He waits, and aiming with his shaft smites him who first would shoot at him, And, when the foeman deals a blow before him, following strikes him down.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॒त ह॑न्ति पूर्वा॒सिनं॑ प्रत्या॒दायाप॑र॒ इष्वा॑।  
+उ॒त पूर्व॑स्य निघ्न॒तो नि ह॒न्त्यप॑रः॒ प्रति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒त। ह॒न्ति॒। पू॒र्व॒ऽआ॒सिन॑म्। प्र॒ति॒ऽआ॒दाय॑। अप॑रः। इष्वा॑। उ॒त। पूर्व॑स्य। नि॒ऽघ्न॒तः। नि। ह॒न्ति॒। अप॑रः। प्रति॑। १.२७। 
+उ॒त। ह॒न्ति॒। पू॒र्व॒ऽआ॒सिन॑म्। प्र॒ति॒ऽआ॒दाय॑। अप॑रः। इष्वा॑। उ॒त। पूर्व॑स्य। नि॒ऽघ्न॒तः। नि। ह॒न्ति॒। अप॑रः। प्रति॑। १.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ He waits, and aiming with his shaft smites him who first would shoot at him, And
 
 टिप्पणी:   २७−(उत) एव। (हन्ति) (पूर्वासिनम्) पूर्व+असु क्षेपणे−णिनि। पूर्वशस्त्रक्षेप्तारम् (प्रत्यादाय) प्रतिकूलं गृहीत्वा (अपरः) नास्ति परः श्रेष्ठो यस्मात् सः। अनुत्तमः। अतिसावधानः (इष्वा) बाणेन (उत) (पूर्वस्य) अग्रवर्तिनः (निघ्नतः) नितरां हननं कुर्वतः (नि) निरन्तरम् (हन्ति) (अपरः) अतिसावधानः (प्रति) प्रतिकूलत्वेन ॥
 </details>
-

@@ -21,9 +21,15 @@ Ppp. combines at the beginning *yā ”mam*, and has in place of our **d**
 Those who eat flesh uncooked, and those who eat the bleeding flesh of men, Feeders on babes unborn, long-haired, far from this place we banish these.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य आ॒मं मां॒समदन्ति॒ पौरु॑षेयं च॒ ये क्र॒विः।  
+गर्भा॒न्खाद॑न्ति केश॒वास्तानि॒तो ना॑शयामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। आ॒मम्। मां॒सम्। अ॒दन्ति॑। पौरु॑षेयम्। च॒। ये। क्र॒विः। गर्भा॑न्। खाद॑न्ति। के॒श॒ऽवाः। तान्। इ॒तः। ना॒श॒या॒म॒सि॒। ६.२३। 
+ये। आ॒मम्। मां॒सम्। अ॒दन्ति॑। पौरु॑षेयम्। च॒। ये। क्र॒विः। गर्भा॑न्। खाद॑न्ति। के॒श॒ऽवाः। तान्। इ॒तः। ना॒श॒या॒म॒सि॒। ६.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Those who eat flesh uncooked, and those who eat the bleeding flesh of men, Feede
 
 टिप्पणी:   २३−(ये) क्रमयः (आमम्) अपक्वम् (मांसम्) आमिषम् (अदन्ति) (पौरुषेयम्) अ० ७।१२५।१। पुरुषस्य सम्बन्धि (च) (ये) (क्रविः) अ० ८।३।१५। मांसम् (गर्भान्) उदरस्थबालकान् (खादन्ति) भक्षयन्ति। नाशयन्ति (केशवाः) क्लिशेरन् लो लोपश्च। उ० ५।३३। क्लिशू विबाधने अन्, ललोपः+वह प्रापणे-ड। क्लेशस्य वाहकाः प्रापकाः क्रमयो रोगा वा (तान्) सर्वान् (इतः) अस्मात् (नाशयामसि) ॥
 </details>
-

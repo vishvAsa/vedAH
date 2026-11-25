@@ -8,9 +8,15 @@ title = "१४ गिरा वज्रो"
 By song, as 'twere, the powerful bolt which none may parry was prepared: Lofty, invincible he grew.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+गि॒रा वज्रो॒ न संभृ॑तः॒ सब॑लो॒ अन॑पच्युतः।  
+व॑व॒क्ष ऋ॒ष्वो अस्तृ॑तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-गि॒रा। वज्रः॑। न। सम्ऽभृ॑तः। सऽब॑लः। अन॑पऽच्युतः। व॒व॒क्षे। ऋ॒ष्व। अस्तृ॑तः। १३७.१४। 
+गि॒रा। वज्रः॑। न। सम्ऽभृ॑तः। सऽब॑लः। अन॑पऽच्युतः। व॒व॒क्षे। ऋ॒ष्व। अस्तृ॑तः। १३७.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ By song, as 'twere, the powerful bolt which none may parry was prepared: Lofty, 
 
 टिप्पणी:   १२-१४−एते मन्त्रा व्याख्याताः-अथ० २०।४७।१-३ ॥
 </details>
-

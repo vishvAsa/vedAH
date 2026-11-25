@@ -18,9 +18,15 @@ what is desirable to the worshiper.
 The pious call Sarasvati: they worship Sarasvati while sacrifice proceedeth. The righteous doers of good deeds invoke her: Sarasvati send bliss to him who giveth!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर॑स्वतींदेव॒यन्तो॑ हवन्ते॒ सर॑स्वतीमध्व॒रे ता॒यमा॑ने।  
+सर॑स्वतीं सु॒कृतो॑ हवन्ते॒सर॑स्वती दा॒शुषे॒ वार्यं॑ दात् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर॑स्वतीम्। दे॒व॒ऽयन्तः॑। ह॒व॒न्ते॒। सर॑स्वतीम्। अ॒ध्व॒रे। ता॒यमा॑ने। सर॑स्वतीम्। सु॒ऽकृतः॑। ह॒व॒न्ते॒। सर॑स्वती। दा॒शुषे॑। वार्य॑म्। दा॒त्। ४.४५। 
+सर॑स्वतीम्। दे॒व॒ऽयन्तः॑। ह॒व॒न्ते॒। सर॑स्वतीम्। अ॒ध्व॒रे। ता॒यमा॑ने। सर॑स्वतीम्। सु॒ऽकृतः॑। ह॒व॒न्ते॒। सर॑स्वती। दा॒शुषे॑। वार्य॑म्। दा॒त्। ४.४५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The pious call Sarasvati: they worship Sarasvati while sacrifice proceedeth. The
 
 टिप्पणी:   ४५-४७−मन्त्राव्याख्याताः-अ० १८।१।४१-४३ ॥
 </details>
-

@@ -18,9 +18,14 @@ The *pada*-mss. have the false accent *pra॰ā́ptaḥ* (for *prá॰āptaḥ*)
 When he hath got his grass he is King Soma.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तृणा॑नि॒ प्राप्तः॒ सोमो॒ राजा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तृणा॑नि। प्रऽआ॑प्तः। सोमः॑। राजा॑। १२.२२। 
+तृणा॑नि। प्रऽआ॑प्तः। सोमः॑। राजा॑। १२.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ When he hath got his grass he is King Soma.
 
 टिप्पणी:   २२−(तृणानि) अ० २।३०।१। तृणवत् सृष्टिवस्तूनि (प्राप्तः) व्याप्तः सन् (सोमः) उत्पादकः (राजा) सर्वशासकः ॥
 </details>
-

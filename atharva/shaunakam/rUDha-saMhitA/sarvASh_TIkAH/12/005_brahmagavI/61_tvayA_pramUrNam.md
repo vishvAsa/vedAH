@@ -24,9 +24,14 @@ triṣṭubh; 73. āsury uṣṇih.*\]
 Let Agni burn the spiteful wretch when crushed to death and slain by thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वया॒ प्रमू॑र्णं मृदि॒तम॒ग्निर्द॑हतु दु॒श्चित॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वया॑। प्रऽमू॑र्णम्। मृ॒दि॒तम्। अ॒ग्निः। द॒ह॒तु॒। दुः॒ऽचित॑म्। १०.१५। 
+त्वया॑। प्रऽमू॑र्णम्। मृ॒दि॒तम्। अ॒ग्निः। द॒ह॒तु॒। दुः॒ऽचित॑म्। १०.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +61,3 @@ Let Agni burn the spiteful wretch when crushed to death and slain by thee.
 
 टिप्पणी:   ६१−(त्वया) वेदवाण्या (प्रमूर्णम्) मुर्व बन्धने−क्त। प्रकर्षेण बद्धम् (मृदितम्) मृद क्षोदे−क्त। चूर्णितम् (अग्निः) प्रत्यक्षः (दहतु) (दुश्चितम्) चिती संज्ञाने−क्विप्। अनिष्टचिन्तकम् ॥
 </details>
-

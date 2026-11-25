@@ -20,9 +20,15 @@ The Anukr. very strangely ignores the two resolutions in **b** and
 Sprinkled with molten butter, let the two meal-cakes be sport for thee. Make them thy wings, O Goddess, and bear him who dresses thee to heaven.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्रो॒डौ ते॑ स्तां पुरो॒डाशा॒वाज्ये॑ना॒भिघा॑रितौ।  
+तौ प॒क्षौ दे॑वि कृ॒त्वा सा प॒क्तारं॒ दिवं॑ वह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्रो॒डौ। ते॒। स्ता॒म्। पु॒रो॒डाशौ॑। आज्ये॑न। अ॒भिऽधा॑रितौ। तौ। प॒क्षौ। दे॒वि॒। कृ॒त्वा। सा। प॒क्तार॑म्। दिव॑म्। व॒ह॒। ९.२५। 
+क्रो॒डौ। ते॒। स्ता॒म्। पु॒रो॒डाशौ॑। आज्ये॑न। अ॒भिऽधा॑रितौ। तौ। प॒क्षौ। दे॒वि॒। कृ॒त्वा। सा। प॒क्तार॑म्। दिव॑म्। व॒ह॒। ९.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Sprinkled with molten butter, let the two meal-cakes be sport for thee. Make the
 
 टिप्पणी:   २५−(क्रोडौ) क्रुड बाल्ये, निमज्जने भक्षणे च-घञ्। अङ्कौ (ते) तव (स्ताम्) भवताम् (पुरोडाशौ) अ० ९।६।(१)।१२। मुन्यन्नरोटिकाविशेषौ (आज्येन) घृतेन (अभिघारितौ) घृ क्षरणे−णिच्-क्त। सर्वतः स्निग्धौ (तौ) क्रोडौ (पक्षौ) पक्षिणां पतत्रौ (देवि) हे विजयिनि (कृत्वा) (सा) सा त्वम् (पक्तारम्) पक्वकारकं दृढकारकम् (दिवम्) प्रकाशं प्रति (वह) नय ॥
 </details>
-

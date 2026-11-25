@@ -39,9 +39,15 @@ lock-jaw,' not applicable here: cf. viii. 1. 16.⌋
 With Seasons and with Season-groups, for vigour and extended life. With splendour of the perfect year we fasten thee about the neck.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋ॒तुभ्य॑ष्ट्वार्त॒वेभ्यो॑ मा॒द्भ्यः सं॑वत्स॒रेभ्यः॑।  
+धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋ॒तुऽभ्यः॑। त्वा॒। आ॒र्त॒वेभ्यः॑। मा॒त्ऽभ्यः। स॒म्ऽव॒त्स॒रेभ्यः॑। धा॒त्रे। वि॒ऽधा॒त्रे। स॒म्ऽऋधे॑। भू॒तस्य॑। पत॑ये। य॒जे॒। ३७.४। 
+ऋ॒तुऽभ्यः॑। त्वा॒। आ॒र्त॒वेभ्यः॑। मा॒त्ऽभ्यः। स॒म्ऽव॒त्स॒रेभ्यः॑। धा॒त्रे। वि॒ऽधा॒त्रे। स॒म्ऽऋधे॑। भू॒तस्य॑। पत॑ये। य॒जे॒। ३७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -71,4 +77,3 @@ With Seasons and with Season-groups, for vigour and extended life. With splendou
 
 टिप्पणी:   ४−(ऋतुभ्यः) ऋतूनां हिताय (त्वा) (आर्तवेभ्यः) ऋतुषु भवेभ्यः पदार्थेभ्यः (माद्भ्यः) मासेभ्यः (संवत्सरेभ्यः) वर्षेभ्यः (धात्रे) पोषकाय (विधात्रे) मेधाविने-निघ०३।१५ (समृधे) समर्धयित्रे। वर्धयित्रे (भूतस्य) प्राणिमात्रस्य (पतये) पालकाय (यजे) पूजयामि ॥
 </details>
-

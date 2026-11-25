@@ -21,9 +21,15 @@ naturally enough, spelled with a *la*. Our *pada*-mss. read in **d**
 The ancient plants surpass thee not, nor any herbs of recent days. A potent charm is Jangida, a most felicitous defence.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+न त्वा॒ पूर्वा॒ ओष॑धयो॒ न त्वा॑ तरन्ति॒ या नवाः॑।  
+विबा॑ध उ॒ग्रो ज॑ङ्गि॒डः प॑रि॒पाणः॑ सुम॒ङ्गलः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। त्वा॒। पूर्वाः॑। ओष॑धयः। न। त्वा॒। त॒र॒न्ति॒। याः। नवाः॑। विऽबा॑धः। उ॒ग्रः। ज॒ङ्गि॒डः। प॒रि॒ऽपानः॑। सु॒ऽम॒ङ्गलः॑। ३४.७। 
+न। त्वा॒। पूर्वाः॑। ओष॑धयः। न। त्वा॒। त॒र॒न्ति॒। याः। नवाः॑। विऽबा॑धः। उ॒ग्रः। ज॒ङ्गि॒डः। प॒रि॒ऽपानः॑। सु॒ऽम॒ङ्गलः॑। ३४.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ The ancient plants surpass thee not, nor any herbs of recent days. A potent char
 
 टिप्पणी:   ७−(न) निषेधे (त्वा) (पूर्वाः) आद्याः (न) (त्वा) (तरन्ति) अभिभवन्ति (याः) ओषधयः (नवाः) नूतनाः (विबाधः) विशेषेण बाधकः (उग्रः) प्रचण्डः (जङ्गिडः) म०१। संचारक औषधविशेषः (परिपाणः) सर्वतो रक्षकः (सुमङ्गलः) बहुमङ्गलकरः ॥
 </details>
-

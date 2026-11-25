@@ -19,9 +19,14 @@ is common later, but rather in a sense suggested by its etymology.
 I summon him with the awful cruel orders of the Gods.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॒वाना॑मेनंघो॒रैः क्रू॒रैः प्रै॒षैर॑भि॒प्रेष्या॑मि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒वाना॑म्। ए॒न॒म्। घो॒रैः। क्रू॒रैः। प्र॒ऽए॒षैः। अ॒भ‍ि॒ऽप्रेष्या॑मि। ७.२। 
+दे॒वाना॑म्। ए॒न॒म्। घो॒रैः। क्रू॒रैः। प्र॒ऽए॒षैः। अ॒भ‍ि॒ऽप्रेष्या॑मि। ७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ I summon him with the awful cruel orders of the Gods.
 
 टिप्पणी:   २−(देवानाम्) ईश्वरस्यदिव्यनियमानाम् (एनम्) कुमार्गिणम् (घोरैः) भयानकैः (क्रूरैः) दयारहितैः (प्रैषैः) प्र+इष वाञ्छायां गतौ च-घञ्। शासनैः (अभिप्रेष्यामि) आभिमुख्येनप्राप्नोमि ॥
 </details>
-

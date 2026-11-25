@@ -24,9 +24,15 @@ Anukr. seems to scan as 11 + 12: 10 + 14 + 6 = 53.⌋ Ppp. omits *ye nāu*
 And those, Vachaspati, our own five seasons, sacred to Visva- karman their creator. Even here our friend be Prana: Parameshthin, may Rohita vouchsafe the life and splendour.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वाच॑स्पत ऋ॒तवः॒ पञ्च॒ ये नौ॑ वैश्वकर्म॒णाः परि॒ ये सं॑बभू॒वुः।  
+इ॒हैव प्रा॒णः स॒ख्ये नो॑ अस्तु॒ तं त्वा॑ परमेष्ठि॒न्परि॒ रोहि॑त॒ आयु॑षा॒ वर्च॑सा दधातु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प॒ते॒। ऋ॒तवः॑। पञ्च॑। ये। नौ॒। वै॒श्व॒ऽक॒र्म॒णा। परि॑। ये। स॒म्ऽब॒भू॒वुः। परि॑। रोहि॑तः। आयु॑षा। वर्च॑सा। द॒धा॒तु॒। १.१८। 
+प॒ते॒। ऋ॒तवः॑। पञ्च॑। ये। नौ॒। वै॒श्व॒ऽक॒र्म॒णा। परि॑। ये। स॒म्ऽब॒भू॒वुः। परि॑। रोहि॑तः। आयु॑षा। वर्च॑सा। द॒धा॒तु॒। १.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ And those, Vachaspati, our own five seasons, sacred to Visva- karman their creat
 
 टिप्पणी:   १८−स्त्रीपुरुषाभ्याम् (वैश्वकर्मणाः) विश्वकर्मन्-अण्। सर्वकर्मभ्यो हिताः। (परि) सर्वतः (सम्बभूवुः) प्राप्ता बभूवुः (रोहितः) म० १। रुह प्रादुर्भावे-इतन्। उत्पन्नो मनुष्यः। अन्यत् पूर्ववत् म० १७ ॥
 </details>
-

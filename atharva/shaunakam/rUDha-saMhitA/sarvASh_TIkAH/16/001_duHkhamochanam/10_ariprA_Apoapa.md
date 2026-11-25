@@ -17,9 +17,14 @@ title = "१० अरिप्रा आपोअप"
 May stainless waters cleanse us from defilement.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑रि॒प्रा आपो॒अप॑ रि॒प्रम॒स्मत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒रि॒प्राः। आपः॑। अप॑। रि॒प्रन्। अ॒स्मत्। १.१०। 
+अ॒रि॒प्राः। आपः॑। अप॑। रि॒प्रन्। अ॒स्मत्। १.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ May stainless waters cleanse us from defilement.
 
 टिप्पणी:   १०−(अरिप्राः)निर्दोषाः (आपः) म० ८। विपश्चितः (अप) दूरे (रिप्रम्) पापम् (अस्मत्) ॥
 </details>
-

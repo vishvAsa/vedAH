@@ -19,9 +19,14 @@ Anukr. notices this time that the verse is *bhurij*.
 Loss of power while sacrificially presented, humiliation when she hath been offered;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अभू॑तिरुपह्रि॒यमा॑णा॒ परा॑भूति॒रुप॑हृता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अभू॑तिः। उ॒प॒ऽह्रि॒यमा॑णा। परा॑ऽभूतिः। उप॑ऽहृता। ८.८। 
+अभू॑तिः। उ॒प॒ऽह्रि॒यमा॑णा। परा॑ऽभूतिः। उप॑ऽहृता। ८.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Loss of power while sacrificially presented, humiliation when she hath been offe
 
 टिप्पणी:   ३५−(अभूतिः) अनैश्वर्यम् (उपह्रियमाणा) अपहरणं गम्यमाना (पराभूतिः) पराजयः (उपहृता) अपहरणं गता ॥
 </details>
-

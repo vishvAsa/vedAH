@@ -18,9 +18,14 @@ Parts of this verse are quoted as examples under Prāt. ii. 21, 24; iii.
 Agni is he, and Siirya, he is verily Mahayama.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सो अ॒ग्निः स उ॒ सूर्यः॒ स उ॑ ए॒व म॑हाय॒मः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। अ॒ग्निः। सः। ऊं॒ इति॑। सूर्यः॑। सः। ऊं॒ इति॑। ए॒व। म॒हा॒ऽय॒मः। ४.५। 
+सः। अ॒ग्निः। सः। ऊं॒ इति॑। सूर्यः॑। सः। ऊं॒ इति॑। ए॒व। म॒हा॒ऽय॒मः। ४.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Agni is he, and Siirya, he is verily Mahayama.
 
 टिप्पणी:   ५−(सः) (अग्निः) व्यापकः (सः) (उ) अवधारणे (सूर्यः) प्रेरकः (सः) (उ) (एव) निश्चयेन (महायमः) महान्यायाधीशः ॥
 </details>
-

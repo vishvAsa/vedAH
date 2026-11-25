@@ -20,9 +20,15 @@ more probably it signifies immortality itself.
 Through whom the Gods discovered life eternal, through whom they stored the plants with pleasant juices, Through whom they brought to men the light of heaven. May he deliver us from grief and trouble.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+येन॑ दे॒वा अ॒मृत॑म॒न्ववि॑न्द॒न्येनौष॑धी॒र्मधु॑मती॒रकृ॑ण्वन्।  
+येन॑ दे॒वाः स्व१॒॑राभ॑र॒न्त्स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-येन॑। दे॒वाः। अ॒मृत॑म्। अ॒नु॒ऽअवि॑न्दन्। येन॑। ओष॑धीः। मधु॑ऽमतीः। अकृ॑ण्वन्। येन॑। दे॒वाः। स्वः᳡। आ॒ऽअभ॑रन्। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.६। 
+येन॑। दे॒वाः। अ॒मृत॑म्। अ॒नु॒ऽअवि॑न्दन्। येन॑। ओष॑धीः। मधु॑ऽमतीः। अकृ॑ण्वन्। येन॑। दे॒वाः। स्वः᳡। आ॒ऽअभ॑रन्। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Through whom the Gods discovered life eternal, through whom they stored the plan
 
 टिप्पणी:   ६−(येन) अग्निना परमेश्वरेण (देवाः) विद्वांसः (अमृतम्) अमरत्वम्। मोक्षम् (अनु-अविन्दन्) विद्लृ लाभे-लङ्। अनुक्रमेण अलभन्त (ओषधीः) व्रीहियवाद्यास्तरुगुल्माद्याश्च (मधुमतीः) मधुररसयुक्ताः (अकृण्वन्) अकुर्वन् (स्वः) स्वर्गं सुखम् (आ-अभरन्) डुभृञ् धारणपोषणयोः-लङ् सम्यग् अधारयन्। अलभन्तेत्यर्थः। अन्यत् पूर्ववत् ॥
 </details>
-

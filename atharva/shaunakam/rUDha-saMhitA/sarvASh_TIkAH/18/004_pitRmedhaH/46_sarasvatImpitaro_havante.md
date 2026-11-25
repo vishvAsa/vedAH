@@ -18,9 +18,15 @@ free from disease.
 Approaching on the south our solemn worship, the Fathers call- Sarasvati to hear them. Sit on this holy grass and be ye joyful: give thou us strengthen- ing food that brings no sickness.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर॑स्वतींपि॒तरो॑ हवन्ते दक्षि॒णा य॒ज्ञम॑भि॒नक्ष॑माणाः।  
+आ॒सद्या॒स्मिन्ब॒र्हिषि॑मादयध्वमनमी॒वा इष॒ आ धे॑ह्य॒स्मे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर॑स्वतीम्। पि॒तरः॑। ह॒व॒न्ते॒। द॒क्षि॒णा। य॒ज्ञम्। अ॒भि॒ऽनक्ष॑माणाः। आ॒ऽसद्य॑। अ॒स्मिन्। ब॒र्हिषि॑। मा॒द॒य॒ध्व॒म्। अ॒न॒मी॒वाः। इषः॑। आ। धे॒हि॒। अ॒स्मे इति॑। ४.४६। 
+सर॑स्वतीम्। पि॒तरः॑। ह॒व॒न्ते॒। द॒क्षि॒णा। य॒ज्ञम्। अ॒भि॒ऽनक्ष॑माणाः। आ॒ऽसद्य॑। अ॒स्मिन्। ब॒र्हिषि॑। मा॒द॒य॒ध्व॒म्। अ॒न॒मी॒वाः। इषः॑। आ। धे॒हि॒। अ॒स्मे इति॑। ४.४६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Approaching on the south our solemn worship, the Fathers call- Sarasvati to hear
 
 टिप्पणी:   ४५-४७−मन्त्राव्याख्याताः-अ० १८।१।४१-४३ ॥
 </details>
-

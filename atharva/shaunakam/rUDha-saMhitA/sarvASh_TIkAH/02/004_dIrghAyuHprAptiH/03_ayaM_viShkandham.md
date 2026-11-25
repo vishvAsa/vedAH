@@ -21,9 +21,15 @@ The first half-verse we had above as i. 16. 3 **a, b**, with *idám* for
 This overcomes Vishkandha, this chases the greedy fiends away: May this our panacea, may Jangida save us from distress.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒यं विष्क॑न्धं सहते॒ ऽयं बा॑ध॒ते अ॒त्त्रिणः॑।  
+अ॒यं नो॑ वि॒श्वभे॑षजो जङ्गि॒डः पा॒त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। विऽस्क॑न्धम्। स॒ह॒ते॒। अ॒यम्। बा॒ध॒ते॒। अ॒त्त्रिणः॑। अ॒यम्। नः॒। वि॒श्वऽभे॑षजः। ज॒ङ्गि॒डः। पा॒तु॒। अंह॑सः। ४.३। 
+अ॒यम्। विऽस्क॑न्धम्। स॒ह॒ते॒। अ॒यम्। बा॒ध॒ते॒। अ॒त्त्रिणः॑। अ॒यम्। नः॒। वि॒श्वऽभे॑षजः। ज॒ङ्गि॒डः। पा॒तु॒। अंह॑सः। ४.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ This overcomes Vishkandha, this chases the greedy fiends away: May this our pana
 
 टिप्पणी:   ३–विष्कन्धम्। म० १। विघ्नम्। सहते। षह अभिभवे। अभिभवति। बाधते। बाधृ विलोडने। निवारयति नाशयति। अत्त्रिणः। अ० १।७।३। अद भक्षणे–त्रिनि। अत्रीन्, भक्षकान् पुरुषान् रोगान् वा। विश्वभेषजः। सर्वेषां रोगादीनां जेता निवर्तकः। सर्वौषधः। अंहसः। अमेर्हुक् च। उ० ४।११३। इति अम रोगे, गतौ च–असुन् हुक् च। रोगात्। पापात् ॥ ०२।०४।०४
 </details>
-

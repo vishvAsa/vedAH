@@ -17,9 +17,15 @@ from thy heart, thy limbs we expel etc. etc.
 If the disease originates from love, from hatred, from the heart, Forth from the heart and from the limbs we charm the wasting malady.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदि॒ कामा॑दपका॒माद्धृद॑या॒ज्जाय॑ते॒ परि॑।  
+हृ॒दो ब॒लास॒मङ्गे॑भ्यो ब॒हिर्निर्म॑न्त्रयामहे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यदि॑। कामा॑त्। अ॒प॒ऽका॒मात्। हृद॑यात्। जाय॑ते। परि॑। हृ॒दः। ब॒लास॑म्। अङ्गे॑भ्यः। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.८। 
+यदि॑। कामा॑त्। अ॒प॒ऽका॒मात्। हृद॑यात्। जाय॑ते। परि॑। हृ॒दः। ब॒लास॑म्। अङ्गे॑भ्यः। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ If the disease originates from love, from hatred, from the heart, Forth from the
 
 टिप्पणी:   ८−(यदि) सम्भावनायाम् (कामात्) अभिलाषात् (अपकामात्) द्वेषात् (हृदयात्) (जायते) उत्पद्यते (परि) सर्वतः (हृदः) हृदयस्य (बलासम्) अ० ४।९।८। बलमस्यतीति। श्लेष्मविकारम्। अन्यत् पूर्ववत् ॥
 </details>
-

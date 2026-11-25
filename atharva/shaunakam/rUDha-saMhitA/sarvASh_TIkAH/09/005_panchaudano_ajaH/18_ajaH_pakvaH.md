@@ -19,9 +19,15 @@ As noted above, the verse is wanting in Ppp.
 The Goat Panchaudana, when cooked, transporteth, repelling Nirriti, to the world of Svarga. By him may we win worlds which Surya brightens.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒जः प॒क्वः स्व॒र्गे लो॒के द॑धाति॒ पञ्चौ॑दनो॒ निरृ॑तिं॒ बाध॑मानः।  
+तेन॑ लो॒कान्त्सूर्य॑वतो जयेम ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒जः। प॒क्वः। स्वः॒ऽगे। लो॒के। द॒धा॒ति॒। पञ्च॑ऽओदनः। निःऽऋ॑तिम्। बाध॑मानः। तेन॑। लो॒कान्। सूर्य॑ऽवतः। ज॒ये॒म॒। ५.१८। 
+अ॒जः। प॒क्वः। स्वः॒ऽगे। लो॒के। द॒धा॒ति॒। पञ्च॑ऽओदनः। निःऽऋ॑तिम्। बाध॑मानः। तेन॑। लो॒कान्। सूर्य॑ऽवतः। ज॒ये॒म॒। ५.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ The Goat Panchaudana, when cooked, transporteth, repelling Nirriti, to the world
 
 टिप्पणी:   १८−(अजः) म० १। अजन्मा गतिशीलो वा जीवात्मा (पक्वः) दृढस्वभावः (स्वर्गे) सुखप्रापके (लोके) दर्शनीये स्थाने (दधाति) स्थापयति, जीवमिति शेषः (पञ्चौदनः) म० ८। पृथिव्यादिपञ्चभूतैः सिक्तः (निर्ऋतिम्) अ० २।११।२। कृच्छ्रापत्तिम् (बाधमानः) निवारयन् (तेन) उपायेन (लोकान्) (सूर्यवतः) विद्याप्रकाशयुक्तान् (जयेम) उत्कर्षेण प्राप्नुयाम ॥
 </details>
-

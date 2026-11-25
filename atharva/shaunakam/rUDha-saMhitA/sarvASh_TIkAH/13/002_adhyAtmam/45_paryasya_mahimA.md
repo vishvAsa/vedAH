@@ -22,9 +22,15 @@ interlines "encompasses" as an alternative to "exceeds."⌋
 Blazing with light his majesty hath compassed ocean and earth and heaven and air's mid-region. May he, all-seeing, well-disposed and holy, give ear and listen to the word I utter.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पर्य॑स्य महि॒मा पृ॑थि॒वीं स॑मु॒द्रं ज्योति॑षा वि॒भ्राज॒न्परि॒ द्याम॒न्तरि॑क्षम्।  
+सर्वं॑ सं॒पश्य॑न्त्सुवि॒दत्रो॒ यज॑त्र इ॒दं शृ॑णोतु॒ यद॒हं ब्रवी॑मि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परि॑। अ॒स्य॒। म॒हि॒मा। पृ॒थि॒वीम्। स॒मु॒द्रम्। ज्योति॑षा। वि॒ऽभ्राज॑न्। परि॑। द्याम्। अ॒न्तर‍ि॑क्षम्। सर्व॑म्। स॒म्ऽपश्य॑न्। सु॒ऽवि॒दत्रः॑। यज॑त्रः। इ॒दम्। शृ॒णो॒तु॒। यत्। अ॒हम्। ब्रवी॑मि। २.४५। 
+परि॑। अ॒स्य॒। म॒हि॒मा। पृ॒थि॒वीम्। स॒मु॒द्रम्। ज्योति॑षा। वि॒ऽभ्राज॑न्। परि॑। द्याम्। अ॒न्तर‍ि॑क्षम्। सर्व॑म्। स॒म्ऽपश्य॑न्। सु॒ऽवि॒दत्रः॑। यज॑त्रः। इ॒दम्। शृ॒णो॒तु॒। यत्। अ॒हम्। ब्रवी॑मि। २.४५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Blazing with light his majesty hath compassed ocean and earth and heaven and air
 
 टिप्पणी:   ४५−(परि) आधिक्ये (अस्य) परमेश्वरस्य (महिमा) महत्त्वम् (पृथिवीम्) (समुद्रम्) पार्थिवजलौघम् (ज्योतिषा) तेजसा (विभ्राजन्) प्रकाशमानः (परि) (द्याम्) सूर्यलोकम् (अन्तरिक्षम्) (सर्वम्) अखिलम्। अन्यत् पूर्ववत्-म० ४४ ॥
 </details>
-

@@ -20,9 +20,15 @@ The comm. has in **c** *dehi*. The definition of the verse as an
 With Purpose, O Prajapati, with Purpose come thou near to us. Bestow on us a share of luck, and so be swift to hear our call.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आकू॑त्या नो बृहस्पत॒ आकू॑त्या न॒ उपा ग॑हि।  
+अथो॒ भग॑स्य नो धे॒ह्यथो॑ नः सु॒हवो॑ भव ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आऽकू॑त्या। नः॒। बृ॒ह॒स्प॒ते॒। आऽकू॑त्या। नः॒। उप॑। आ। ग॒हि॒। अथो॒ इति॑। भग॑स्य। नः॒। धे॒हि॒। अथो॒ इति॑। नः॒। सु॒ऽहवः॑। भ॒व॒। ४.३। 
+आऽकू॑त्या। नः॒। बृ॒ह॒स्प॒ते॒। आऽकू॑त्या। नः॒। उप॑। आ। ग॒हि॒। अथो॒ इति॑। भग॑स्य। नः॒। धे॒हि॒। अथो॒ इति॑। नः॒। सु॒ऽहवः॑। भ॒व॒। ४.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ With Purpose, O Prajapati, with Purpose come thou near to us. Bestow on us a sha
 
 टिप्पणी:   ३−(आकूत्या) म० २। संकल्पशक्त्या (नः) अस्मान् (बृहस्पते) बृहतीनां विद्यानां स्वामिन् पुरुष (आकूत्या) (नः) अस्मान् (उप) समीपे (आ) आगत्य (गहि) गच्छ। प्राप्नुहि (अथो) अपि च (भगस्य) ऐश्वर्यस्य (नः) अस्मभ्यम् (धेहि) दानं कुरु, (अथो) अपि च (नः) अस्मभ्यम् (सुहवः) सुष्ठु ह्वातव्यः (भव) ॥
 </details>
-

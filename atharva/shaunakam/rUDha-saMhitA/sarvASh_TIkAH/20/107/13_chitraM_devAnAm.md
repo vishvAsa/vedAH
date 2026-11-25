@@ -8,9 +8,15 @@ title = "१३ चित्रं देवानाम्"
 Bright, Presence of the Gods, the luminous herald, Siirya hath mounted the celestial regions. Day's maker, he hath shone away the darkness, and radiant passed o'er places hard to traverse.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+चि॒त्रं दे॒वानां॑ के॒तुरनी॑कं॒ ज्योति॑ष्मान्प्र॒दिशः॒ सूर्य॑ उ॒द्यन्।  
+दि॑वाक॒रोऽति॑ द्यु॒म्नैस्तमां॑सि॒ विश्वा॑तारीद्दुरि॒तानि॑ शु॒क्रः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-चि॒त्रम्। दे॒वाना॑म्। के॒तुः। अनी॑कम्। ज्योति॑ष्मान्। प्र॒ऽदिशः॑। सूर्यः॑। उ॒त्ऽवन्। दि॒वा॒ऽक॒रः। अति॑। द्यु॒म्नैः। तमां॑सि। विश्वा॑। अ॒ता॒री॒त्। दुः॒ऽइ॒तानि॑। शु॒क्रः। १०७.१३। 
+चि॒त्रम्। दे॒वाना॑म्। के॒तुः। अनी॑कम्। ज्योति॑ष्मान्। प्र॒ऽदिशः॑। सूर्यः॑। उ॒त्ऽवन्। दि॒वा॒ऽक॒रः। अति॑। द्यु॒म्नैः। तमां॑सि। विश्वा॑। अ॒ता॒री॒त्। दुः॒ऽइ॒तानि॑। शु॒क्रः। १०७.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Bright, Presence of the Gods, the luminous herald, Siirya hath mounted the celes
 
 टिप्पणी:   मन्त्र १३, १४ आचुके हैं-अथ० १३।२।३४, ३ ॥  १३, १४−मन्त्रौ व्याख्यातौ-अथर्व० १३।२।३४, ३ ॥
 </details>
-

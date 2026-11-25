@@ -22,9 +22,15 @@ account in **b** of the two syllables that are lacking to make an
 And Aligi and Viligi, their father and the mother too,-- What will ye do? Your venomed sap, we know, is utterly powerless.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आलि॑गी च॒ विलि॑गी च पि॒ता च॑ म॒ता च॑।  
+वि॒द्म वः॑ स॒र्वतो॒ बन्ध्वर॑साः॒ किं क॑रिष्यथ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आऽलि॑गी। च॒। विऽलि॑गी। च॒। पि॒ता। च॒। मा॒ता। च॒। वि॒द्म। वः॒। स॒र्वतः॑। बन्धु॑। अर॑साः। किम्। क॒रि॒ष्य॒थ॒। १३.७। 
+आऽलि॑गी। च॒। विऽलि॑गी। च॒। पि॒ता। च॒। मा॒ता। च॒। वि॒द्म। वः॒। स॒र्वतः॑। बन्धु॑। अर॑साः। किम्। क॒रि॒ष्य॒थ॒। १३.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ And Aligi and Viligi, their father and the mother too,-- What will ye do? Your v
 
 टिप्पणी:   ७−(आलिगी) लिगि गतौ−पचाद्यच्, गौरादित्वात् नलोपः, ङीष्, समन्ताद् गमनशीला (च) (विलिगी) पूर्ववत्सिद्धिः। विरुद्धगतिशीला (च) (पिता) जनकः सर्पः (माता) जननी सर्पिणी (च) (विद्म) जानीमः (वः) युष्माकम् (सर्वतः) सर्वप्रकारेण (बन्धु) बन्धुत्वम् (अरसाः) निर्वीर्याः (किम्) तिरस्कारे (करिष्यथ) ॥
 </details>
-

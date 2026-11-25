@@ -20,9 +20,15 @@ b**: *sa vāi taṁ syono harati brahma vāsas suman̄galan*.
 The Brahman takes away the robe as a fair thing that brings good luck. He knows the expiating rite whereby the wife is kept unharmed.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स इत्तत्स्यो॒नंह॑रति ब्र॒ह्मा वासः॑ सुम॒ङ्गल॑म्।  
+प्राय॑श्चित्तिं॒ यो अ॒ध्येति॒ येन॑ जा॒या नरिष्य॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। इत्। तत्। स्यो॒नम्। ह॒र॒ति॒। ब्र॒ह्मा। वासः॑। सु॒ऽम॒ङ्गल॑म्। प्राय॑श्चित्त‍िम्। यः। अ॒धि॒ऽएति॑। येन॑। जा॒या। न। रिष्य॑ति। १.३०। 
+सः। इत्। तत्। स्यो॒नम्। ह॒र॒ति॒। ब्र॒ह्मा। वासः॑। सु॒ऽम॒ङ्गल॑म्। प्राय॑श्चित्त‍िम्। यः। अ॒धि॒ऽएति॑। येन॑। जा॒या। न। रिष्य॑ति। १.३०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ The Brahman takes away the robe as a fair thing that brings good luck. He knows 
 
 टिप्पणी:   ३०−(सः) (इत्) एव (तत्) तदा (स्योनम्) सुखदम् (हरति) प्रापयति। प्राप्नोति (ब्रह्मा) वेदज्ञः पतिः (वासः)वस्त्रादिकम् (सुमङ्गलम्) महाहितकरम् (प्रायश्चित्तिम्) प्रायश्चित्तक्रियाम्।पापक्षयविधानम् (यः) (अध्येति) जानाति (येन) कारणेन (जाया) पत्नी (न) निषेधे (रिष्यति) दुःखं प्राप्नोति ॥
 </details>
-

@@ -17,9 +17,15 @@ thinking me barren, let him be bound in the fetters of death.
 Enraged against her owner roams the Cow when she hath been impregned. He deemed me fruitless is her thought; let him be bound in, snares of Death!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॑वी॒यमा॑ना चरति क्रु॒द्धा गोप॑तये व॒शा।  
+वे॒हतं॑ मा॒ मन्य॑मानो मृ॒त्योः पाशे॑षु बध्यताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒ऽवी॒यमा॑ना। च॒र॒ति॒। क्रु॒ध्दा। गोऽप॑तये। व॒शा। वे॒हत॑म्। मा॒। मन्य॑मानः। मृ॒त्योः। पाशे॑षु। ब॒ध्य॒ता॒म्। ४.३७। 
+प्र॒ऽवी॒यमा॑ना। च॒र॒ति॒। क्रु॒ध्दा। गोऽप॑तये। व॒शा। वे॒हत॑म्। मा॒। मन्य॑मानः। मृ॒त्योः। पाशे॑षु। ब॒ध्य॒ता॒म्। ४.३७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Enraged against her owner roams the Cow when she hath been impregned. He deemed 
 
 टिप्पणी:   ३७−(प्रवीयमाना) वी गत्यसनादिषु−कर्मणि शानच्, असनं क्षेपणम्, प्रक्षिप्यमाणा (चरति) विचरति (क्रुद्धा) कुपिता (गोपतये) भूपालाय। राज्ञे (वशा) कमनीया वेदवाणी (वेहतम्) अ० ३।२३।१। संश्चत्तृपद्वेहत्। उ० २।८५। वि+हन हिंसागत्योः−अति। पृषोदरादिरूपम्। गर्भघातिनीस्त्रीतुल्यरोगिणीम् (मा) माम् (मन्यमानः) जानन् (मृत्योः) मरणस्य (पाशेषु) बन्धेषु (बध्यताम्) गृह्यताम् ॥
 </details>
-

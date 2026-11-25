@@ -20,9 +20,14 @@ and note to xviii. 3. 47.⌋
 To the Rishis, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋ॒षिभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋ॒षिऽभ्यः॑। स्वाहा॑। २२.१४। 
+ऋ॒षिऽभ्यः॑। स्वाहा॑। २२.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ To the Rishis, Hail!
 
 टिप्पणी:   १४−(ऋषिभ्यः) वेदार्थदर्शकेभ्यो मुनिभ्यः ॥
 </details>
-

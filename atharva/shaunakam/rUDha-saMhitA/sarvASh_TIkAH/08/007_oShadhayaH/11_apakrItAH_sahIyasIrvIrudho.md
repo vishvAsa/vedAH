@@ -19,9 +19,15 @@ oṣadhir apak-;* and *apā sarasvatī jyeṣṭhaṁ trāy-*.
 Let purchased Plants of mightier power, Plants that are praised for excellence. Here in this village safely keep cattle and horses, man and beast.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अपक्री॒ताः सही॑यसीर्वी॒रुधो॒ या अ॒भिष्टु॑ताः।  
+त्राय॑न्ताम॒स्मिन्ग्रामे॒ गामश्वं॒ पुरु॑षं प॒शुम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒प॒ऽक्री॒ताः। सही॑यसीः। वी॒रुधः॑। याः। अ॒भिऽस्तु॑ताः। त्राय॑न्ताम्। अ॒स्मिन्। ग्रामे॑। गाम्। अश्व॑म्। पुरु॑षम्। प॒शुम्। ७.११। 
+अ॒प॒ऽक्री॒ताः। सही॑यसीः। वी॒रुधः॑। याः। अ॒भिऽस्तु॑ताः। त्राय॑न्ताम्। अ॒स्मिन्। ग्रामे॑। गाम्। अश्व॑म्। पुरु॑षम्। प॒शुम्। ७.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Let purchased Plants of mightier power, Plants that are praised for excellence. 
 
 टिप्पणी:   ११−(अपक्रीताः) यथाविधि मूल्येन प्राप्ताः (सहीयसीः) सोढृ-ईयसुन्। तुरिष्ठेमेयस्सु। पा० ६।४।१५४। तृचो लोपः बलवत्तराः (वीरुधः) ओषधयः (याः) (अभिष्टुताः) सर्वतः प्रशंसिताः (त्रायन्ताम्) पालयन्तु (अस्मिन्) (ग्रामे) अ० ४।७।५। गृहसमूहे (गाम्) (अश्वम्) (पुरुषम्) (पशुम्) महिष्यजादिकम् ॥
 </details>
-

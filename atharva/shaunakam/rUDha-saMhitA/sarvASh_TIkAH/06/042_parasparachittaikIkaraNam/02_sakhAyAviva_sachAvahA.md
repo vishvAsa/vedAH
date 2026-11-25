@@ -21,9 +21,15 @@ manyuṁ nayāmasi* ⌊cf. MP. ii. 22. 2⌋ *sakhike ’va sacāvahāi*.
 Together let us walk as friends: thy wrathful feeling I remove. Beneath a heavy stone we cast thy wrath away and bury it.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सखा॑याविव सचावहा॒ अव॑ म॒न्युं त॑नोमि ते।  
+अ॒धस्ते॒ अश्म॑नो म॒न्युमुपा॑स्यामसि॒ यो गु॒रुः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सखा॑यौऽइव। स॒चा॒व॒है॒। अव॑। म॒न्युम्। त॒नो॒मि॒। ते॒। अ॒धः। ते॒। अश्म॑नः। म॒न्युम्। उप॑। अ॒स्या॒म॒सि॒। यः। गु॒रुः। ४२.२। 
+सखा॑यौऽइव। स॒चा॒व॒है॒। अव॑। म॒न्युम्। त॒नो॒मि॒। ते॒। अ॒धः। ते॒। अश्म॑नः। म॒न्युम्। उप॑। अ॒स्या॒म॒सि॒। यः। गु॒रुः। ४२.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Together let us walk as friends: thy wrathful feeling I remove. Beneath a heavy 
 
 टिप्पणी:   २−पूर्वार्धो यथा म० १। (अधः) अधस्तात् (ते) तव (अश्मनः) पाषाणस्य (मन्युम्) क्रोधम् (उप) उपेत्य (अस्यामसि) क्षिपामः (यः) अश्मा (गुरुः) भारोपेतः ॥
 </details>
-

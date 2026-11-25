@@ -18,9 +18,14 @@ Ppp. again gives *sayujas sv-*.
 Let Vishnu in this rite in varied manner--All hail! use well- yoked steeds, his fervours.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+विष्णु॑र्युनक्तु बहु॒धा तपां॑स्य॒स्मिन्य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-विष्णुः॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। तपा॑सि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.७। 
+विष्णुः॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। तपा॑सि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Let Vishnu in this rite in varied manner--All hail! use well- yoked steeds, his 
 
 टिप्पणी:   ७−(विष्णुः) कर्मसु व्यापकः पुरुषः (युनक्तु) योजयतु (बहुधा) अनेकप्रकारेण (तपांसि) तप संतापे ऐश्वर्ये च−असुन्। ऐश्वर्याणि। विभूतयः। अन्यद् गतम् ॥
 </details>
-

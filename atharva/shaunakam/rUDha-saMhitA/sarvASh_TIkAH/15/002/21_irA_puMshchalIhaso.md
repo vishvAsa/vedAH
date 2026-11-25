@@ -21,12 +21,17 @@ the word, and holds that *irā́* is the true AV. reading.⌋ Some mss.
 
 <details><summary>Griffith</summary>
 
-In the western region Ira is his leman, Laughter his panegyrist, knowledge, etc., as above. 
+In the western region Ira is his leman, Laughter his panegyrist, knowledge, etc., as above.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+इरा पुं॑श्च॒लीहसो॑ माग॒धो वि॒ज्ञानं॒ वासोऽह॑रु॒ष्णीषं॒ रात्री॒ केशा॒ हरि॑तौ प्रव॒र्तौक॑ल्म॒लिर्म॒णिः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-ई॒रा। पुं॒श्च॒ली। हसः॑। मा॒ग॒धः। वि॒ऽज्ञान॑म्। वासः॑। अहः॑। उ॒ष्णीष॑म्। रात्री॑। केशाः॑। हरि॑तौ। प्र॒ऽव॒र्तौ। क॒ल्म॒लिः। म॒णिः। २.१९। 
+ई॒रा। पुं॒श्च॒ली। हसः॑। मा॒ग॒धः। वि॒ऽज्ञान॑म्। वासः॑। अहः॑। उ॒ष्णीष॑म्। रात्री॑। केशाः॑। हरि॑तौ। प्र॒ऽव॒र्तौ। क॒ल्म॒लिः। म॒णिः। २.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +61,3 @@ In the western region Ira is his leman, Laughter his panegyrist, knowledge, etc.
 
 टिप्पणी:   १९−(इरा)ऋज्रेन्द्राग्रवज्रविप्र०। उ० २।२८। इण् गतौ-रन्, टाप्, गुणाभावः। मद्यं वस्तु।मदिरा। इरा भूवाक्सुराप्सु स्यात्। अमर० २३।१७६। अन्यत् पूर्ववत्-म० ५ ॥
 </details>
-

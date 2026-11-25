@@ -18,9 +18,14 @@ We had this verse above as i. 33. 4 **a, b**.
 Look on me with a friendly eye, O, Waters, and touch my skin with your auspicious body.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शि॒वेन॑ मा॒चक्षु॑षा पश्यतापः शि॒वया॑ त॒न्वोप॑ स्पृशत॒ त्वचं॑ मे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शि॒वेन॑। मा॒। चक्षु॑षा। प॒श्य॒त॒। आ॒पः॒। शि॒वया॑। त॒न्वा᳡। उप॑। स्पृ॒श॒त॒। त्वच॑म्। मे॒। १.१२। 
+शि॒वेन॑। मा॒। चक्षु॑षा। प॒श्य॒त॒। आ॒पः॒। शि॒वया॑। त॒न्वा᳡। उप॑। स्पृ॒श॒त॒। त्वच॑म्। मे॒। १.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Look on me with a friendly eye, O, Waters, and touch my skin with your auspiciou
 
 टिप्पणी:   १२−(शिवेन) सुखप्रदेन (मा) माम् (चक्षुषा) नेत्रेण (पश्यत)अवलोकयत (आपः) म० ८। हे विद्वांसः (शिवया) सुखप्रदेन (तन्वा) शरीरेण (उप) सुखेन (स्पृशत) (त्वचम्) शरीरम् (मे) मम ॥
 </details>
-

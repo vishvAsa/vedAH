@@ -24,9 +24,14 @@ it puts the paragraph after our 24.
 She mounted up, she came unto the Fathers. The Fathers called. to her, O Food, come hither. King Yama was her calf, her pail was silvern. Antaka, Mrityu's. son, milked her, this Svadha. This Food the Fathers make their lives' sustainer. He who* knows this becomes a meet supporter.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒पो वा॑मदे॒व्यं य॒ज्ञं य॑ज्ञाय॒ज्ञियं॒ य वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पः। वा॒म॒ऽदे॒व्यम्। य॒ज्ञम्। य॒ज्ञा॒य॒ज्ञिय॑म्। यः। ए॒वम्। वेद॑। ११.१०। 
+अ॒पः। वा॒म॒ऽदे॒व्यम्। य॒ज्ञम्। य॒ज्ञा॒य॒ज्ञिय॑म्। यः। ए॒वम्। वेद॑। ११.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +61,3 @@ She mounted up, she came unto the Fathers. The Fathers called. to her, O Food, c
 
 टिप्पणी:   ९, १०−(अस्मै) ब्रह्मज्ञानिने (दुहे) द्विकर्मकः। दुग्धे। प्रपूरयति (व्यचः) विस्तृतम्। अन्यत् पूर्ववत् ॥
 </details>
-

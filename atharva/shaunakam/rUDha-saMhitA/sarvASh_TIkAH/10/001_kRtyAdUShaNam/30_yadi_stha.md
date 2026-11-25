@@ -19,9 +19,15 @@ The *pada*-txt strangely reads *ā́॰vṛtā* in **a**, instead of *-tāḥ*.
 If ye be girt about with clouds of darkness, bound as with a net. We rend and tear all witcheries hence and to their maker send them back.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदि॒ स्थ तम॒सावृ॑ता॒ जाले॑न॒भिहि॑ता इव।  
+सर्वाः॑ सं॒लुप्ये॒तः कृ॒त्याः पुनः॑ क॒र्त्रे प्र हि॑ण्मसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यदि॑। स्थ। तम॑सा। आऽवृ॑ता। जाले॑न। अ॒भिहि॑ताःऽइव सर्वाः॑। स॒म्ऽलुप्य॑। इ॒तः। कृ॒त्याः। पुनः॑। क॒र्त्रे। प्र। हि॒ण्म॒सि॒। १.३०। 
+यदि॑। स्थ। तम॑सा। आऽवृ॑ता। जाले॑न। अ॒भिहि॑ताःऽइव सर्वाः॑। स॒म्ऽलुप्य॑। इ॒तः। कृ॒त्याः। पुनः॑। क॒र्त्रे। प्र। हि॒ण्म॒सि॒। १.३०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ If ye be girt about with clouds of darkness, bound as with a net. We rend and te
 
 टिप्पणी:   ३०−(यदि, स्थ) (तमसा) अन्धकारेण (आवृता) वृणोतेः-क्विप् तुक् च। आवरकेण (जालेन) पाशेन (अभिहिताः) बद्धाः (इव) (सर्वाः) (संलुप्य) सम्यक् छित्वा (कृत्याः) दोषक्रियाः (इतः) अस्मात् स्थानात् (पुनः) पश्चात् (कर्त्रे) रचयित्रे पुरुषाय (प्र हिण्मसि) प्रेरयामः ॥
 </details>
-

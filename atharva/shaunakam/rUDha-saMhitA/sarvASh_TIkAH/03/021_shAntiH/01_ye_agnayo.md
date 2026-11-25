@@ -36,9 +36,15 @@ which seems more probable. The division of the verse by the Anukr., 8 +
 All Fires that are in water and in Vritra, all those that man and stones contain within them, That which hath entered herbs and trees and bushes--to all these Fires be this oblation offered.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये अ॒ग्नयो॑ अ॒प्स्व१॒॑न्तर्ये वृ॒त्रे ये पुरु॑षे॒ ये अश्म॑सु।  
+य आ॑वि॒वेशौष॑धी॒र्यो वन॒स्पतीं॒स्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। अ॒ग्नयः॑। अ॒प्ऽसु। अ॒न्तः। ये। वृ॒त्रे। ये। पुरु॑षे। ये। अश्म॑ऽसु। यः। आ॒ऽवि॒वेश॑। ओष॑धीः। यः। वन॒स्पती॑न्। तेभ्यः॑। अ॒ग्निऽभ्यः॑। हु॒तम्। अ॒स्तु॒। ए॒तत्। २१.१। 
+ये। अ॒ग्नयः॑। अ॒प्ऽसु। अ॒न्तः। ये। वृ॒त्रे। ये। पुरु॑षे। ये। अश्म॑ऽसु। यः। आ॒ऽवि॒वेश॑। ओष॑धीः। यः। वन॒स्पती॑न्। तेभ्यः॑। अ॒ग्निऽभ्यः॑। हु॒तम्। अ॒स्तु॒। ए॒तत्। २१.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -68,4 +74,3 @@ All Fires that are in water and in Vritra, all those that man and stones contain
 
 टिप्पणी:   १−(अग्नयः) ईश्वरतेजांसि। (अप्सु) उदकेषु। (अन्तः) मध्ये। (वृत्रे) अ० २।५।३। वृत्रो वृणोतेर्वा वर्ततेर्वा वर्द्धतेर्वा-निरु० २।१७। मेघे-निघ० १।१०। (पुरुषे) अ० १।१६।४। मानुषशरीरे। (अश्मसु) अ० १।२।२। पाषाणशिलासु। (आविवेश) प्रविष्टवान्। (ओषधीः) व्रीहियवादिरूपाः। (वनस्पतीन्) अ० १।१२।३। सेवकरक्षकान्। वृक्षान्। (हुतम्) हु दाने-क्त। हविः। आत्मसर्पणम् ॥
 </details>
-

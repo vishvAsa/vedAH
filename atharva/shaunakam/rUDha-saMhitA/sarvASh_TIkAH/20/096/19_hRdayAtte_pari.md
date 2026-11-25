@@ -8,9 +8,15 @@ title = "१९ हृदयात्ते परि"
 From viscera and all within, forth from the rectum, from the heart, From kidneys, liver and from spleen, I drive thy malady away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+हृद॑यात्ते॒ परि॑ क्लो॒म्नो हली॑क्ष्णात्पा॒र्श्वाभ्या॑म्।  
+यक्ष्मं॒ मत॑स्नाभ्यां प्ली॒ह्नो य॒क्नस्ते॒ वि वृ॑हामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हृद॑यात्। ते॒। परि॑। क्लो॒म्नः। हली॑क्ष्णात्। पा॒र्श्वाभ्या॑म्। यक्ष्म॑म्। मत॑स्नाभ्याम्। प्ली॒ह्नः। य॒क्नः। ते॒। वि। वृ॒हा॒म॒सि॒। ९६.१९। 
+हृद॑यात्। ते॒। परि॑। क्लो॒म्नः। हली॑क्ष्णात्। पा॒र्श्वाभ्या॑म्। यक्ष्म॑म्। मत॑स्नाभ्याम्। प्ली॒ह्नः। य॒क्नः। ते॒। वि। वृ॒हा॒म॒सि॒। ९६.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ From viscera and all within, forth from the rectum, from the heart, From kidneys
 
 टिप्पणी:   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
-

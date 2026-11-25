@@ -6,17 +6,22 @@ title = "२० ईशानएनमिष्वासः सर्वेभ्
 <details><summary>Whitney</summary>
 
 ⌊15.⌋ The archer Īśāna as attendant attends him  
-from all the intermediate directions; not śarva, ⌊not Bhava, not Īśāna, 
+from all the intermediate directions; not śarva, ⌊not Bhava, not Īśāna,
 </details>
 
 <details><summary>Griffith</summary>
 
-Isana the Archer, a deliverer, delivers him from all the intermediate regions. Neither Sarva nor Bhava, nor Isana 
+Isana the Archer, a deliverer, delivers him from all the intermediate regions. Neither Sarva nor Bhava, nor Isana
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+ईशा॑नएनमिष्वा॒सः सर्वे॑भ्यो अन्तर्दे॒शेभ्यो॑ऽनुष्ठा॒तानु॑ तिष्ठति नैनं॑ श॒र्वो नभ॒वो नेशा॑नः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-ईशा॑नः। ए॒न॒म्। इ॒षु॒ऽआ॒सः। सर्वे॑भ्यः। अ॒न्तः॒ऽदे॒शेभ्यः॑। अ॒नु॒ऽस्था॒ता। अनु॑। ति॒ष्ठ॒ति॒। न। ए॒न॒म्। श॒र्वः। न। भ॒वः। न। ईशा॑नः। ५.१५। 
+ईशा॑नः। ए॒न॒म्। इ॒षु॒ऽआ॒सः। सर्वे॑भ्यः। अ॒न्तः॒ऽदे॒शेभ्यः॑। अ॒नु॒ऽस्था॒ता। अनु॑। ति॒ष्ठ॒ति॒। न। ए॒न॒म्। श॒र्वः। न। भ॒वः। न। ईशा॑नः। ५.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ Isana the Archer, a deliverer, delivers him from all the intermediate regions. N
 
 टिप्पणी:   १४, १५, १६−(अन्तर्देशेभ्यः) मध्यदेशेभ्यः (ईशानम्) सर्वस्वामिनम्। अन्यत् पूर्ववत्-म०१-३, स्पष्टं च ॥
 </details>
-

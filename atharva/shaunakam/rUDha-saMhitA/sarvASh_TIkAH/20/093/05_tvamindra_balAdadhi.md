@@ -8,9 +8,15 @@ title = "०५ त्वमिन्द्र बलादधि"
 Based upon strength and victory and power, O Indra is thy birth. Thou, Mighty One, art strong indeed.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वमि॑न्द्र॒ बला॒दधि॒ सह॑सो जा॒त ओज॑सः।  
+त्वं वृ॑ष॒न्वृषेद॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वम्। इ॒न्द्र॒। बला॑त्। अधि॑। सह॑सः। जा॒तः। ओज॑सः। त्वम्। वृ॒ष॒न्। वृषा॑। इत्। अ॒सि॒। ९३.५। 
+त्वम्। इ॒न्द्र॒। बला॑त्। अधि॑। सह॑सः। जा॒तः। ओज॑सः। त्वम्। वृ॒ष॒न्। वृषा॑। इत्। अ॒सि॒। ९३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Based upon strength and victory and power, O Indra is thy birth. Thou, Mighty On
 
 टिप्पणी:   यह मन्त्र कुछ भेद से सामवेद में भी है-पू० २।३।६ ॥  −(त्वम्) (इन्द्र) (बलात्) (अधि) अधिकृत्य (सहसः) अभिभवनात्। जयशीलत्वात् (जातः) प्रसिद्धः (ओजसः) पराक्रमात्। धैर्यात् (त्वम्) (वृषन्) हे बलवन् (वृषा) बलवान् (इत्) एव (असि) ॥
 </details>
-

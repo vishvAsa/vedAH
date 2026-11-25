@@ -21,9 +21,15 @@ punīmahe*.
 God Savitar, byboth of these, filter and pressing out this juice, purify us that we may see.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॒भाभ्यां॑ देव सवितः प॒वित्रे॑ण स॒वेन॑ च।  
+अ॒स्मान्पु॑नीहि॒ चक्ष॑से ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒भाभ्या॑म्। दे॒व॒। स॒वि॒तः॒। प॒वित्रे॑ण। स॒वेन॑। च॒। अ॒स्मान्। पु॒नी॒हि॒। चक्ष॑से। १९.३। 
+उ॒भाभ्या॑म्। दे॒व॒। स॒वि॒तः॒। प॒वित्रे॑ण। स॒वेन॑। च॒। अ॒स्मान्। पु॒नी॒हि॒। चक्ष॑से। १९.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ God Savitar, byboth of these, filter and pressing out this juice, purify us that
 
 टिप्पणी:   ३−(उभाभ्याम्) द्वाभ्याम् (देव) हे दातः (सवितः) सत्यकर्मसु प्रेरकेश्वर (पवित्रेण) शुद्धाचरणेन (सवनेन) ऐश्वर्येण (च) (अस्मान्) धार्मिकान् (पुनीहि) शोधय (चक्षसे) अ० १।५।१। दर्शनाय ॥
 </details>
-

@@ -33,6 +33,12 @@ with us *ánu préy-* in **b**; SPP. gives *anu*, with the *pada*-text
 Mitra and Varuna, O Salve have closely followed after thee May they, when they have followed thee afar, restore thee for our use.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मि॒त्रश्च॑ त्वा॒ वरु॑णश्चानु॒प्रेय॑तुराञ्जन।  
+तौ त्वा॑नु॒गत्य॑ दू॒रं भो॒गाय॒ पुन॒रोह॑तुः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 
@@ -65,4 +71,3 @@ Mitra and Varuna, O Salve have closely followed after thee May they, when they h
 
 टिप्पणी:   १०−(मित्रः) मम प्राणः (च) (त्वा) त्वां परमात्मानम् (वरुणः) अपानः (च) (अनुप्रेयतुः) इण् गतौ-लिट्। अनुसृत्य अग्रे जग्मतुः (आञ्जन) म०१। संसारस्य व्यक्तीकारक ब्रह्म (तौ) प्राणापानौ (त्वा) त्वाम् (अनुगत्य) अनुसृत्य (भोगाय) सुखानुभवाय (पुनः) (आ ऊहतुः) वह प्रापणे-लिट्। आनीतवन्तौ ॥
 </details>
-

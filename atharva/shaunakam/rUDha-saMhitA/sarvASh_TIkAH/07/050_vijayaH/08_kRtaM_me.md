@@ -19,9 +19,15 @@ Ppp. reads, for **b**, *savye me jayā ”hitaḥ*, and, in **d**,
 My right hand holds my winnings fast, and in my left is victory. I would that I were winner of cattle and horses, wealth and gold.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+कृ॒तं मे॒ दक्षि॑णे॒ हस्ते॑ ज॒यो मे॑ स॒व्य आहि॑तः।  
+गो॒जिद्भू॑यासमश्व॒जिद्ध॑नंज॒यो हि॑रण्य॒जित् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कृ॒तम्। मे॒। दक्षि॑णे। हस्ते॑। ज॒यः। मे॒। स॒व्ये। आऽहि॑तः। गो॒ऽजित्। भू॒या॒स॒म्। अ॒श्व॒ऽजित्। ध॒न॒म्ऽज॒यः। हि॒र॒ण्य॒ऽजित्। ५२.८। 
+कृ॒तम्। मे॒। दक्षि॑णे। हस्ते॑। ज॒यः। मे॒। स॒व्ये। आऽहि॑तः। गो॒ऽजित्। भू॒या॒स॒म्। अ॒श्व॒ऽजित्। ध॒न॒म्ऽज॒यः। हि॒र॒ण्य॒ऽजित्। ५२.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ My right hand holds my winnings fast, and in my left is victory. I would that I 
 
 टिप्पणी:   ८−(कृतम्) विहितं कर्म (मे) मम (दक्षिणे) (हस्ते) पाणौ (जयः) उत्कर्षः (मे) (सव्ये) वामे (आहितः) स्थापितः (गोजित्) भूमिजेता (भूयासम्) (अश्वजित्) अश्वानां जेता (धनञ्जयः) अ० ३।१४।२। धनानां जेता (हिरण्यजित्) सुवर्णस्य जेता ॥
 </details>
-

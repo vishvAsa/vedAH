@@ -20,9 +20,15 @@ below where the refrain is written out, part of the mss. accent *svít*.
 Who out of many, tell me, is that Skambha, On whom Prajapati set up and firmly stablished all the worlds?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्मि॑न्त्स्त॒ब्ध्वा प्र॒जाप॑तिर्लो॒कान्त्सर्वाँ॒ अधा॑रयत्।  
+स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्मि॑न्। स्त॒ब्ध्वा। प्र॒जाऽप॑तिः। लो॒कान्। सर्वा॑न्। अधा॑रयत्। स्क॒म्भम्। तम्। ब्रू॒हि॒। क॒त॒मः। स्वि॒त्। ए॒व। सः। ७.७। 
+यस्मि॑न्। स्त॒ब्ध्वा। प्र॒जाऽप॑तिः। लो॒कान्। सर्वा॑न्। अधा॑रयत्। स्क॒म्भम्। तम्। ब्रू॒हि॒। क॒त॒मः। स्वि॒त्। ए॒व। सः। ७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Who out of many, tell me, is that Skambha, On whom Prajapati set up and firmly s
 
 टिप्पणी:   ७−(यस्मिन्) (स्तब्ध्वा) अवरुध्य (प्रजापतिः) प्रजापालकः सूर्य आकाशो वा (लोकान्) ब्रह्माण्डान् (सर्वान्) (अधारयत्) धारितवान्। अन्यत् पूर्ववत् ॥
 </details>
-

@@ -23,9 +23,15 @@ variation of this.⌋
 We set thee down with yearning, and with yearning we enkindle thee, Yearning, bring yearning Fathers nigh to eat the food of sacrifice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॒शन्त॑स्त्वेधीमह्यु॒शन्तः॒ समि॑धीमहि।  
+उ॒शन्नु॑श॒त आ व॑ह पि॒तॄन्ह॒विषे॒अत्त॑वे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒शन्तः॑। त्वा॒। इ॒धी॒म॒हि॒। उ॒शन्तः॑। सम्। इ॒धी॒म॒हि॒। उ॒शन्। उ॒श॒तः। आ। व॒ह॒। पि॒तॄन्। ह॒विषे॑। अत्त॑वे। १.५६। 
+उ॒शन्तः॑। त्वा॒। इ॒धी॒म॒हि॒। उ॒शन्तः॑। सम्। इ॒धी॒म॒हि॒। उ॒शन्। उ॒श॒तः। आ। व॒ह॒। पि॒तॄन्। ह॒विषे॑। अत्त॑वे। १.५६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ We set thee down with yearning, and with yearning we enkindle thee, Yearning, br
 
 टिप्पणी:   ५६−(उशन्तः) कामयमानाः (त्वा)त्वां ब्रह्मचारिणम् (इधीमहि) पियेम। तेजस्विनं कुर्याम (उशन्तः) (सम्) एकीभावे (इधीमहि)(उशन्) कामयमानः (उशतः) कामयमानान् (आ वह) आनय (पितॄन्) पालकान्।जनकादीन् (हविषे) द्वितीयार्थे चतुर्थी। हविः। ग्राह्यं भोजनम् (अत्तवे) अत्तुंभोक्तम् ॥
 </details>
-

@@ -23,9 +23,15 @@ it is not) the Anukr. counts out a good *purauṣṇih*.
 Fain would I bring forth sweetness, fain would make it mine. Bringing milk, Agni! have I come: splendour and strength bestow on me!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मधु॑ जनिषीय॒ मधु॑ वंशिषीय।  
+पय॑स्वानग्न॒ आग॑मं॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मधु॑। ज॒नि॒षी॒य॒। मधु॑। वं॒शि॒षी॒य॒। पय॑स्वान्। अ॒ग्ने॒। आ। अ॒ग॒म॒म्। तम्। मा॒। सम्। सृ॒ज॒। वर्च॑सा। १.१४। 
+मधु॑। ज॒नि॒षी॒य॒। मधु॑। वं॒शि॒षी॒य॒। पय॑स्वान्। अ॒ग्ने॒। आ। अ॒ग॒म॒म्। तम्। मा॒। सम्। सृ॒ज॒। वर्च॑सा। १.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Fain would I bring forth sweetness, fain would make it mine. Bringing milk, Agni
 
 टिप्पणी:   १४−(मधु) म० १। ज्ञानम् (जनिषीय) जनी प्रादुर्भावे, छन्दसि प्रादुष्करणे-आशीर्लिङ्। प्रादुष्क्रियासम् (वंशिषीय) वनु याचने-आशीर्लिङि छान्दसं रूपम्। अहं वनिषीय। याचिषीय। अन्यत् पूर्ववत्-अ० ७।८९।१ ॥
 </details>
-

@@ -23,14 +23,20 @@ attenuates the difficult *prati smarethām* to *prati gacchatam*.
 In your impetuous manner think ye both thereon: destroy those evil spirits, kill the treacherous fiends. Indra and Soma, let the wicked have no bliss whoso at any time- attacks and injures us.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-प्रति॑। स्म॒रे॒था॒म्। तु॒जय॑त्ऽभिः। एवैः॑। ह॒तम्। द्रु॒हः। र॒क्षसः॑। भ॒ङ्गु॒रऽव॑तः। इन्द्रा॑सोमा। दुः॒ऽकृते॑। मा। सु॒ऽगम्। भू॒त्। यः। मा॒। क॒दा। चि॒त्। अ॒भि॒ऽदास॑ति। द्रु॒हुः। ४.७। 
+प्रति॑ स्मरेथां तु॒जय॑द्भि॒रेवै॑र्ह॒तं द्रु॒हो र॒क्षसो॑ भङ्गु॒राव॑तः।  
+इन्द्रा॑सोमा दु॒ष्कृते॒ मा सु॒गं भू॒द्यो मा॑ क॒दा चि॑दभि॒दास॑ति द्रु॒हुः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-प्रति॑। स्म॒रे॒था॒म्। तु॒जय॑त्ऽभिः। एवैः॑। ह॒तम्। द्रु॒हः। र॒क्षसः॑। भ॒ङ्गु॒रऽव॑तः। इन्द्रा॑सोमा। दुः॒ऽकृते॑। मा। सु॒ऽगम्। भू॒त्। यः। मा॒। क॒दा। चि॒त्। अ॒भि॒ऽदास॑ति। द्रु॒हुः। ४.७। 
+प्रति॑। स्म॒रे॒था॒म्। तु॒जय॑त्ऽभिः। एवैः॑। ह॒तम्। द्रु॒हः। र॒क्षसः॑। भ॒ङ्गु॒रऽव॑तः। इन्द्रा॑सोमा। दुः॒ऽकृते॑। मा। सु॒ऽगम्। भू॒त्। यः। मा॒। क॒दा। चि॒त्। अ॒भि॒ऽदास॑ति। द्रु॒हुः। ४.७।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+प्रति॑। स्म॒रे॒था॒म्। तु॒जय॑त्ऽभिः। एवैः॑। ह॒तम्। द्रु॒हः। र॒क्षसः॑। भ॒ङ्गु॒रऽव॑तः। इन्द्रा॑सोमा। दुः॒ऽकृते॑। मा। सु॒ऽगम्। भू॒त्। यः। मा॒। क॒दा। चि॒त्। अ॒भि॒ऽदास॑ति। द्रु॒हुः। ४.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ In your impetuous manner think ye both thereon: destroy those evil spirits, kill
 - जगती
 - शत्रुदमन सूक्त
 </details>
-

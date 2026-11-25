@@ -17,9 +17,14 @@ The corresponding phrase in Ppp. is: *āyur asyā āyur me dhā svāhā.*
 Life art thou, give me life. All hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आयु॑र॒स्यायु॑र्मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आयुः॑। अ॒सि॒। आयुः॑। मे॒। दाः॒। स्वाहा॑। १७.४। 
+आयुः॑। अ॒सि॒। आयुः॑। मे॒। दाः॒। स्वाहा॑। १७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Life art thou, give me life. All hail!
 
 टिप्पणी:   ४–आयुः। अ० १।३०।३। इण् गतौ–उसि, स च णित्। जीवनम्। जीवनकारणम् ॥
 </details>
-

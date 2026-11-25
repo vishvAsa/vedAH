@@ -8,9 +8,15 @@ title = "०३ वि चिद्वृत्रस्य"
 The fiercely-moving Vritra's head he severed with his thunder- bolt, His hundred-knotted thunderbolt.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि चि॑द्वृ॒त्रस्य॒ दोध॑तो॒ वज्रे॑ण श॒तप॑र्वणा।  
+शिरो॑ बिभेद वृ॒ष्णिना॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒। चि॒त्। वृ॒त्रस्य॑। दोध॑तः। वज्रे॑णः। श॒तऽप॑र्वणा। शिरः॑। बि॒भे॒द॒। वृ॒ष्णिना॑। १०७.३। 
+वि॒। चि॒त्। वृ॒त्रस्य॑। दोध॑तः। वज्रे॑णः। श॒तऽप॑र्वणा। शिरः॑। बि॒भे॒द॒। वृ॒ष्णिना॑। १०७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ The fiercely-moving Vritra's head he severed with his thunder- bolt, His hundred
 
 टिप्पणी:   ३−(वि) विविधम् (चित्) एव (वृत्रस्य) आवरकस्य शत्रोः (दोधतः) अ० १२।१।८। क्रुध्यतः (वज्रेण) शस्त्रेण (शतपर्वणा) बहुसन्धियुक्तेन (शिरः) (बिभेद) विच्छेद (वृष्णिना) वीर्यवता। दृढेन ॥
 </details>
-

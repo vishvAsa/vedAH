@@ -8,9 +8,15 @@ title = "०१ आ याहि"
 Come, we have pressed the juice for thee. O Indra, drink the Soma here. Sit thou on this my sacred grass.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ या॑हि सुषु॒मा हि त॒ इन्द्र॒ सोमं॒ पिबा॑ इ॒मम्।  
+एदं ब॒र्हिः स॑दो॒ मम॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। या॒हि॒। सु॒सु॒म। हि। ते॒। इन्द्र॑। सोम॑म्। पिब॑। इ॒मम्। आ। इ॒दम्। ब॒र्हिः। स॒दः॒। मम॑। ३८.१। 
+आ। या॒हि॒। सु॒सु॒म। हि। ते॒। इन्द्र॑। सोम॑म्। पिब॑। इ॒मम्। आ। इ॒दम्। ब॒र्हिः। स॒दः॒। मम॑। ३८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Come, we have pressed the juice for thee. O Indra, drink the Soma here. Sit thou
 
 टिप्पणी:   मन्त्र १-३ आ चुके हैं-अ०२०।३।१-३ और आगे हैं-अ०२०।४७।७-९॥१−मन्त्राः १-३ व्याख्याताः-अ०२०।३।१-३॥
 </details>
-

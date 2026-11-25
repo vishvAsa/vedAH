@@ -8,9 +8,14 @@ title = "१७ व्याप पूरुषः"
 The man pervaded thoroughly
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व्याप॒ पूरु॑षः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-व्याप॒। पूरु॑षः। १३१.१७। 
+व्याप॒। पूरु॑षः। १३१.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ The man pervaded thoroughly
 
 टिप्पणी:   १७−(व्याप) व्यापितवान्। विस्तारितवान् (पूरुषः) अयं मनुष्यः ॥
 </details>
-

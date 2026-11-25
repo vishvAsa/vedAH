@@ -5,12 +5,17 @@ title = "०१ आदलाबुकमेककम्"
 
 <details><summary>Griffith</summary>
 
-Then too the single bottle-gourd, 
+Then too the single bottle-gourd,
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+आदला॑बुक॒मेक॑कम् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-आत्। अला॑बुक॒म्। एक॑कम्। १३२.१। 
+आत्। अला॑बुक॒म्। एक॑कम्। १३२.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Then too the single bottle-gourd,
 
 टिप्पणी:   [पदपाठ के लिये सूचना सूक्त १२७ देखो ॥]१−(आत्) अनन्तरम् (अलाबुकम्) नञि लम्बेर्नलोपश्च। उ० १।८७। नञ्+लबि अवस्रंसने-ऊ, ऊकारस्य उकारः, स च, णित् नलोपश्च, स्वार्थे कन्। न लम्बते कुत्रापि। अनधःपतनशीलम् निराधारं ब्रह्म (एककम्) स्वार्थे कन्। असहायम् ॥
 </details>
-

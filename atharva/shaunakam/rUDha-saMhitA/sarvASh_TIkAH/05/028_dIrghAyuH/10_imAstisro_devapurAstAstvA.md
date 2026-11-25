@@ -20,9 +20,15 @@ regular *anuṣṭubh*.
 May these three castles of the Gods keep thee secure on every side. Endowed with strength, possessing these, be thou the master of thy foes,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒मास्ति॒स्रो दे॑वपु॒रास्तास्त्वा॑ रक्षन्तु स॒र्वतः॑।  
+तास्त्वं बिभ्र॑द्वर्च॒स्व्युत्त॑रो द्विष॒तां भ॑व ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒माः। ति॒स्रः। दे॒व॒ऽपु॒राः। ताः। त्वा॒। र॒क्ष॒न्तु॒। स॒र्वतः॑। ताः। त्वम्। बिभ्र॑त्। व॒र्च॒स्वी। उत्त॑रः। द्वि॒ष॒ताम्। भ॒व॒। २८.१०। 
+इ॒माः। ति॒स्रः। दे॒व॒ऽपु॒राः। ताः। त्वा॒। र॒क्ष॒न्तु॒। स॒र्वतः॑। ताः। त्वम्। बिभ्र॑त्। व॒र्च॒स्वी। उत्त॑रः। द्वि॒ष॒ताम्। भ॒व॒। २८.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ May these three castles of the Gods keep thee secure on every side. Endowed with
 
 टिप्पणी:   १०−(इमाः) समीपस्थाः (तिस्रः) (देवपुराः) म० ९। विदुषामग्रगतयः (ताः) दूरस्थाः (त्वा) पुरुषार्थिनम् (रक्षन्तु) (सर्वतः) (ताः) (त्वम्) (बिभ्रत्) धारयन् (वर्चस्वी) तेजस्वी (उत्तरः) उच्चतरः (द्विषताम्) शत्रूणां मध्ये (भव) ॥
 </details>
-

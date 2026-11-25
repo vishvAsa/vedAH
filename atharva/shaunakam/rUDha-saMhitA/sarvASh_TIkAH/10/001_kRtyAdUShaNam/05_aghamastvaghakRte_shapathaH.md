@@ -23,9 +23,15 @@ comment as example.
 Ill fall on him who doeth ill, on him who curseth fall the curse! We drive her back that she may slay the man who wrought the witchery.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒घम॑स्त्वघ॒कृते॑ श॒पथः॑ शपथीय॒ते।  
+प्र॒त्यक्प्र॑ति॒प्रहि॑ण्मो॒ यथा॑ कृत्या॒कृतं॒ हन॑त् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒घम्। अ॒स्तु॒। अ॒घऽकृते॑। श॒पथः॑। श॒प॒थि॒ऽय॒ते। प्र॒त्यक्। प्र॒ति॒ऽप्रहि॑ण्मः। यथा॑। कृ॒त्या॒ऽकृत॑म्। हनत्। १.५। 
+अ॒घम्। अ॒स्तु॒। अ॒घऽकृते॑। श॒पथः॑। श॒प॒थि॒ऽय॒ते। प्र॒त्यक्। प्र॒ति॒ऽप्रहि॑ण्मः। यथा॑। कृ॒त्या॒ऽकृत॑म्। हनत्। १.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Ill fall on him who doeth ill, on him who curseth fall the curse! We drive her b
 
 टिप्पणी:   ५−(अघम्) पापम् (अस्तु) (अघकृते) पापकारिणे (शपथः) शापः। दुर्वचनम् (शपथीयते) शपथ-क्यच्, शतृ। शापकारिणे (प्रत्यक्) प्रतिकूलगमनम् (प्रतिप्रहिण्मः) हि गतिवृद्ध्योः। प्रतिकूलं गमयामः (यथा) येन प्रकारेण (कृत्याकृतम्) हिंसाकारिणम् (हनत्) हन्यात् ॥
 </details>
-

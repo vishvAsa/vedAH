@@ -24,9 +24,15 @@ reads *enam* at end of **a**, *pratiraṁ dhehy enam* at end of **b**,
 Rise to the altar: bless this dame with offspring. Promote this woman; drive away the demons. May we surpass in glory all our rivals. I cast beneath my feet the men who hate us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॒देहि॒ वेदिं॑ प्र॒जया॑ वर्धयैनां नु॒दस्व॒ रक्षः॑ प्रत॒रं धे॑ह्येनाम्।  
+श्रि॒या स॑मा॒नानति॒ सर्वा॑न्त्स्यामाधस्प॒दं द्वि॑ष॒तस्पा॑दयामि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒त्ऽएहि॑। वेदि॑म्। प्र॒ऽजया॑। व॒र्ध॒य॒। ए॒ना॒म्। नु॒दस्व॑। रक्षः॑। प्र॒ऽत॒रम्। धे॒हि॒। ए॒ना॒म्। श्रि॒या। स॒मा॒नान्। अति॑। सर्वा॑न्। स्या॒म॒। अ॒धः॒ऽप॒दम्। द्वि॒ष॒तः। पा॒द॒या॒मि॒। १.२१। 
+उ॒त्ऽएहि॑। वेदि॑म्। प्र॒ऽजया॑। व॒र्ध॒य॒। ए॒ना॒म्। नु॒दस्व॑। रक्षः॑। प्र॒ऽत॒रम्। धे॒हि॒। ए॒ना॒म्। श्रि॒या। स॒मा॒नान्। अति॑। सर्वा॑न्। स्या॒म॒। अ॒धः॒ऽप॒दम्। द्वि॒ष॒तः। पा॒द॒या॒मि॒। १.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Rise to the altar: bless this dame with offspring. Promote this woman; drive awa
 
 टिप्पणी:   २१−(उदेहि) उदागच्छ (वेदिम्) अ० ५।२२।१। यज्ञभूमिम् (प्रजया) सन्तानेन सह (वर्धय) समर्धय (एनाम्) प्रजाम्, मामित्यर्थः (नुदस्व) प्रेरय (रक्षः) यज्ञविघातकं विघ्नम् (धेहि) पोषय (एनाम्) अन्यत् पूर्ववत्-म० १३ ॥
 </details>
-

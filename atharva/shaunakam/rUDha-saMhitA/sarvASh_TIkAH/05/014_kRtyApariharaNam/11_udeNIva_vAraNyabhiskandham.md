@@ -120,9 +120,15 @@ verse is a fairly regular
 Even as the timid antelope or hind from her assailant flees, So swiftly let the sorcery o'ertake and reach the sorcerer.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उदे॒णीव॑ वार॒ण्य॑भि॒स्कन्धं॑ मृ॒गीव॑।  
+कृ॒त्या क॒र्तार॑मृच्छतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। ए॒णीऽइ॑व। वा॒र॒णी। अ॒भि॒ऽस्कन्द॑म्। मृ॒गीऽइ॑व। कृ॒त्या। क॒र्तार॑म्। ऋ॒च्छ॒तु॒। १४.११। 
+उत्। ए॒णीऽइ॑व। वा॒र॒णी। अ॒भि॒ऽस्कन्द॑म्। मृ॒गीऽइ॑व। कृ॒त्या। क॒र्तार॑म्। ऋ॒च्छ॒तु॒। १४.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -152,4 +158,3 @@ Even as the timid antelope or hind from her assailant flees, So swiftly let the 
 
 टिप्पणी:   ११−(उत्) उद्गत्य (एणी) इण् गतौ−ण, णस्य नेत्वम्, ङीप्। कृष्णमृगी (इव) यथा (वारणी) वृञ् आवरणे−णिच्, ल्युट्, ङीष्। गजी (अभिस्कन्दम्) अभि+स्कन्दिर् गतिशोषणयोः−पचाद्यच्। प्रतिकूलगन्तारम् (मृगी) हरिणी (इव) यथा (कृत्या) शत्रुनाशिका सेना (कर्तारम्) कृञ् हिंसायाम्−तृच्। हिंसकम् (ऋच्छ) गच्छतु ॥
 </details>
-

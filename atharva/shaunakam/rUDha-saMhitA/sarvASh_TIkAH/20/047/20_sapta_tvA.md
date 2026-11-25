@@ -8,9 +8,15 @@ title = "२० सप्त त्वा"
 Seven bay steeds, harnessed to thy car, bear thee, O.thou far- seeing One, God, Surya, thee with radiant hair.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒प्त त्वा॑ ह॒रितो॒ रथे॒ वह॑न्ति देव सूर्य।  
+शो॒चिष्के॑शं विचक्ष॒णम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒प्त। त्वा॒। ह॒रितः॑। रथे॑। वह॑न्ति। दे॒व॒। सू॒र्य॒। शो॒चिःऽके॑शम्। वि॒ऽच॒क्ष॒णम्। ४७.२०। 
+स॒प्त। त्वा॒। ह॒रितः॑। रथे॑। वह॑न्ति। दे॒व॒। सू॒र्य॒। शो॒चिःऽके॑शम्। वि॒ऽच॒क्ष॒णम्। ४७.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Seven bay steeds, harnessed to thy car, bear thee, O.thou far- seeing One, God, 
 
 टिप्पणी:   १३-२१−एते मन्त्रा व्याख्याताः-अ० १३।२।१६-२४ ॥
 </details>
-

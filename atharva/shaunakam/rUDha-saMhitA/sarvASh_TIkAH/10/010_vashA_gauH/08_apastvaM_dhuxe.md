@@ -20,9 +20,15 @@ necessity of reckoning the verse as *virāj*. Ppp. combines in **b**
 Thou pourest out the Waters first, and corn-lands afterward, O Cow. Thirdly thou pourest princely sway. O Cow, thou pourest food and milk.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒पस्त्वं धु॑क्षे प्रथ॒मा उ॒र्वरा॒ अप॑रा वशे।  
+तृ॒तीयं॑ रा॒ष्ट्रं धु॒क्षेऽन्नं॑ क्षी॒रं व॑शे॒ त्वम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पः। त्वम्। धु॒क्षे॒। प्र॒थ॒माः। उ॒र्वराः॑। अप॑राः। व॒शे॒। तृ॒तीय॑म्। रा॒ष्ट्रम्। धु॒क्षे॒। अन्न॑म्। क्षी॒रम्। व॒शे॒। त्वम्। १०.८। 
+अ॒पः। त्वम्। धु॒क्षे॒। प्र॒थ॒माः। उ॒र्वराः॑। अप॑राः। व॒शे॒। तृ॒तीय॑म्। रा॒ष्ट्रम्। धु॒क्षे॒। अन्न॑म्। क्षी॒रम्। व॒शे॒। त्वम्। १०.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Thou pourest out the Waters first, and corn-lands afterward, O Cow. Thirdly thou
 
 टिप्पणी:   ८−(अपः) म० ४। प्रजाः। सृष्टपदार्थाः (त्वम्) (धुक्षे) दुह प्रपूरणे-लट्, द्विकर्मकः। प्रपूरयसि (प्रथमाः) प्रधानाः (उर्वराः) सर्वशस्ययुक्तभूमिभ्यः सकाशात् (अपराः) अप्रधानाः (वशे) म० २ (तृतीयम्) (राष्ट्रम्) राज्यम् (धुक्षे) प्रपूरयसि संसारमिति शेषः (अन्नम्) भोजनम् (क्षीरम्) अ० १।१५।४। जलम्-निघ० १।१२। अन्यद् गतम् ॥
 </details>
-

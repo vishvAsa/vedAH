@@ -26,9 +26,15 @@ for *kaś-* and *sapta madhumatīm* for *madhumān bhavati;* then follows
 Whoever knows the Whip's seven kinds of honey, becomes himself a man endowed with sweetness. Brahman and King, the draught-ox and the milch-cow, barley and rice, and honey is the seventh.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो वै कशा॑याः स॒प्त मधू॑नि॒ वेद॒ मधु॑मान्भवति।  
+ब्रा॑ह्म॒णश्च॒ राजा॑ च धे॒नुश्चा॑न॒ड्वांश्च॑ व्री॒हिश्च॒ यव॑श्च॒ मधु॑ सप्त॒मम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। वै। कशा॑याः। स॒प्त। मधू॑नि। वेद॑। मधु॑ऽमान्। भ॒व॒ति॒। ब्रा॒ह्म॒णः। च॒। राजा॑। च॒। धे॒नुः। च॒। अ॒न॒ड्वान्। च॒। व्री॒हिः। च॒। यवः॑। च॒। मधु॑। स॒प्त॒मम्। १.२२। 
+यः। वै। कशा॑याः। स॒प्त। मधू॑नि। वेद॑। मधु॑ऽमान्। भ॒व॒ति॒। ब्रा॒ह्म॒णः। च॒। राजा॑। च॒। धे॒नुः। च॒। अ॒न॒ड्वान्। च॒। व्री॒हिः। च॒। यवः॑। च॒। मधु॑। स॒प्त॒मम्। १.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Whoever knows the Whip's seven kinds of honey, becomes himself a man endowed wit
 
 टिप्पणी:   २२−(यः) (वै) अवधारणे (कशायाः) म० ५। वेदवाचः (सप्त) (मधूनि) ज्ञानानि (वेद) वेत्ति (मधुमान्) ज्ञानवान् (भवति) (ब्राह्मणः) अ० २।६।३। वेदवेत्ता (राजा) (च) (धेनुः) अ० ३।१०।१। तर्पयित्री गौः (अनड्वान्) अ० ४।११।१। अनसोऽन्नस्य वाहकः प्रापकः (व्रीहिः) अ० ६।१४०।२। अन्नविशेषः (यवः) (मधु) ज्ञानम् (सप्तमम्) ॥
 </details>
-

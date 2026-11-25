@@ -20,9 +20,15 @@ regards Vāyu as addressed.
 Lord of the Cloudy Sky, bestow vigour and strength on our abodes. Let wealth and treasure come to us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वं नो॒ नभ॑सस्पत॒ ऊर्जं॑ गृ॒हेषु॑ धारय।  
+आ पु॒ष्टमे॒त्वा वसु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वम्। नः॒। न॒भ॒सः॒। प॒ते॒। ऊर्ज॑म्। गृ॒हेषु॑। धा॒र॒य॒। आ। पु॒ष्टम्। ए॒तु॒। आ। वसु॑। ७९.२। 
+त्वम्। नः॒। न॒भ॒सः॒। प॒ते॒। ऊर्ज॑म्। गृ॒हेषु॑। धा॒र॒य॒। आ। पु॒ष्टम्। ए॒तु॒। आ। वसु॑। ७९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Lord of the Cloudy Sky, bestow vigour and strength on our abodes. Let wealth and
 
 टिप्पणी:   २−(त्वम्) (नः) अस्माकम् (नभसस्पते) हे सूर्यलोकस्य पालक (ऊर्जम्) बलकरमन्नम् (गृहेषु) (धारय) स्थापय (आ) चार्थे (पुष्टम्) पुष्टिम्। वृद्धिम् (ऐतु) आगच्छतु (वसु) धनम् ॥
 </details>
-

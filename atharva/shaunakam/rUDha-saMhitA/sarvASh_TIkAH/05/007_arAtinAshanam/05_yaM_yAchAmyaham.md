@@ -19,9 +19,15 @@ below. ⌊See Bloomfield, AJP. xvii. 412; Oldenberg, ZDMG. l. 448.⌋
 The portion that I crave with speech intelligent and full of power, May faith, presented with the gift of tawny Soma, find to-day.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यं याचा॑म्य॒हं वा॒चा सर॑स्वत्या मनो॒युजा॑।  
+श्र॒द्धा तम॒द्य वि॑न्दतु द॒त्ता सोमे॑न ब॒भ्रुणा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। याचा॑मि। अ॒हम्। वा॒चा। सर॑स्वत्या। म॒नः॒ऽयुजा॑। श्र॒ध्दा। तम्। अ॒द्य। वि॒न्द॒तु॒। द॒त्ता। सोमे॑न। ब॒भ्रुणा॑। ७.५। 
+यम्। याचा॑मि। अ॒हम्। वा॒चा। सर॑स्वत्या। म॒नः॒ऽयुजा॑। श्र॒ध्दा। तम्। अ॒द्य। वि॒न्द॒तु॒। द॒त्ता। सोमे॑न। ब॒भ्रुणा॑। ७.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ The portion that I crave with speech intelligent and full of power, May faith, p
 
 टिप्पणी:   ५−(यम्) गुणम् (याचामि) प्रार्थये (अहम्) पुरुषार्थी (वाचा) वाण्या (सरस्वत्या) विज्ञानवत्या (मनोयुजा) मनसा युक्त्या (श्रद्धा) भक्तिः (तम्) गुणम् (अद्य) वर्तमाने दिने (विन्दतु) प्राप्नोतु (दत्ता) प्रेरिता (सोमेन) परमेश्वरेण (बभ्रुणा) पोषकेण ॥
 </details>
-

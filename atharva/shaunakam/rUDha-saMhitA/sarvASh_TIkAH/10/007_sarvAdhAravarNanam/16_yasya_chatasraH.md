@@ -23,9 +23,15 @@ text against his fifteen authorities, which give *prapyasā́s*.
 Who out of many, tell me, is that Skambha, He whose chief arteries stand there, the sky's four regions, he irk whom Sacrifice putteth forth its might?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्य॒ चत॑स्रः प्र॒दिशो॑ ना॒ड्य१॒॑स्तिष्ठ॑न्ति प्रथ॒माः।  
+य॒ज्ञो यत्र॒ परा॑क्रान्तः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्य॑। चत॑स्रः। प्र॒ऽदिशः॑। ना॒ड्यः᳡। तिष्ठ॑न्ति। प्र॒थ॒माः। य॒ज्ञः। यत्र॑। परा॑ऽक्रान्तः। स्क॒म्भम्। तम्। ब्रू॒हि॒। क॒त॒मः। स्वि॒त्। ए॒व। सः। ७.१६। 
+यस्य॑। चत॑स्रः। प्र॒ऽदिशः॑। ना॒ड्यः᳡। तिष्ठ॑न्ति। प्र॒थ॒माः। य॒ज्ञः। यत्र॑। परा॑ऽक्रान्तः। स्क॒म्भम्। तम्। ब्रू॒हि॒। क॒त॒मः। स्वि॒त्। ए॒व। सः। ७.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Who out of many, tell me, is that Skambha, He whose chief arteries stand there, 
 
 टिप्पणी:   १६−(यस्य) (चतस्रः) (प्रदिशः) पूर्वादयः (नाड्यः) (तिष्ठन्ति) सन्ति (प्रथमाः) मुख्याः (यज्ञः) श्रेष्ठव्यवहारः (यत्र) परमात्मनि (पराक्रान्तः) पराक्रमयुक्तः। अन्यत् पूर्ववत् ॥
 </details>
-

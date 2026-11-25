@@ -28,9 +28,16 @@ relation of the nave to the felly.
 Close as the felly and the spoke, fixt as the wheel-rim on the nave, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upon thy calf.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॑ प्र॒धिर्यथो॑प॒धिर्यथा॒ नभ्यं॑ प्र॒धावधि॑।  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। प्र॒ऽधिः। यथा॑। उ॒प॒ऽधिः। यथा॑। नभ्य॑म्। प्र॒ऽधौ। अधि॑। यथा॑। पुं॒सः। वृ॒ष॒ण्य॒तः। स्त्रि॒याम्। नि॒ऽह॒न्यते॑। मनः॑। ए॒व। ते॒। अ॒घ्न्ये॒। मनः॑। अधि॑। व॒त्से। नि। ह॒न्य॒ता॒म्। ७०.३। 
+यथा॑। प्र॒ऽधिः। यथा॑। उ॒प॒ऽधिः। यथा॑। नभ्य॑म्। प्र॒ऽधौ। अधि॑। यथा॑। पुं॒सः। वृ॒ष॒ण्य॒तः। स्त्रि॒याम्। नि॒ऽह॒न्यते॑। मनः॑। ए॒व। ते॒। अ॒घ्न्ये॒। मनः॑। अधि॑। व॒त्से। नि। ह॒न्य॒ता॒म्। ७०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -60,4 +67,3 @@ Close as the felly and the spoke, fixt as the wheel-rim on the nave, As an enamo
 
 टिप्पणी:   ३−(प्रधिः) उपसर्गे घोः किः। पा० ३।२।९२। इति धाञः−कि। रथचक्रस्य नेमिः (उपधिः) अराणां सन्धिः (नभ्यम्) उगवादिभ्यो यत्। पा० ५।१।२। इति नाभि−यत्। नाभये हितं रथाङ्गम्−अन्यत्पूर्ववत् ॥
 </details>
-

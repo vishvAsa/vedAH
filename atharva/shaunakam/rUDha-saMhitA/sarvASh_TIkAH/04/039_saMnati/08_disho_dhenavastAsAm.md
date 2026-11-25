@@ -20,9 +20,16 @@ reading, *duhrām*, which ought to have been adopted in our text.
 The quarters are the Cows, their calf is Chandra. May they yield with their calf the Moon food, strength and all my wish, life first of all, and offspring, plenty, wealth. All Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दिशो॑ धे॒नव॒स्तासां॑ च॒न्द्रो व॒त्सः।  
+ता मे॑ च॒न्द्रेण॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहा॒म्।  
+आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दिशः॑। धे॒नवः॑। तासा॑म्। च॒न्द्रः। व॒त्सः। ताः। मे॒। च॒न्द्रेण॑। व॒त्सेन॑। इष॑म्। ऊर्ज॑म्। काम॑म्। दु॒हा॒म्। आयुः॑। प्र॒थ॒मम्। प्र॒ऽजाम्। पोष॑म्। र॒यिम्। स्वाहा॑। ३९.८। 
+दिशः॑। धे॒नवः॑। तासा॑म्। च॒न्द्रः। व॒त्सः। ताः। मे॒। च॒न्द्रेण॑। व॒त्सेन॑। इष॑म्। ऊर्ज॑म्। काम॑म्। दु॒हा॒म्। आयुः॑। प्र॒थ॒मम्। प्र॒ऽजाम्। पोष॑म्। र॒यिम्। स्वाहा॑। ३९.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +59,3 @@ The quarters are the Cows, their calf is Chandra. May they yield with their calf
 
 टिप्पणी:   ८−(दुहाम्) दुहताम् प्रपूरयन्तु। अन्यत् पूर्ववत्। म २, ७ ॥
 </details>
-

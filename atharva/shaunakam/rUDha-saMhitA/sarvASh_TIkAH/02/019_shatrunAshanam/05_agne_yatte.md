@@ -23,9 +23,14 @@ of *asmān,* and in vss. 1-4 scans 6 + 7 + 10 = 23, and, in vs. 5, 6 + 9
 O Agni, with the splendour that is thine darken the man who hates us, whom we hate.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॒ यत्ते॒ तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणु॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। यत्। ते॒। तेजः॑। तेन॑। तम्। अ॒ते॒जस॑म्। कृ॒णु॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.५। 
+अग्ने॑। यत्। ते॒। तेजः॑। तेन॑। तम्। अ॒ते॒जस॑म्। कृ॒णु॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ O Agni, with the splendour that is thine darken the man who hates us, whom we ha
 
 टिप्पणी:   ५–तेजः। अ० १।३५।३। तिज निशाने, तेज निशानपालनयोः–असुन्। कान्तिः। अतेजसम्। तिज, तेज–असुन्। नञ्समासः। कान्तिरहितम्। निस्तेजस्कम्। कृणु। कुरु ॥
 </details>
-

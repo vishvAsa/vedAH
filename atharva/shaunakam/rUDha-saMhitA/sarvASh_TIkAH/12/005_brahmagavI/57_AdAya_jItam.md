@@ -17,9 +17,14 @@ presentest \[it to him\] in yonder world.
 Bearing off wrong, thou givest in that world to him who hath been wronged.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॒दाय॑ जी॒तं जी॒ताय॑ लो॒के३॒॑मुष्मि॒न्प्र य॑च्छसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒ऽदाय॑। जी॒तम्। जी॒ताय॑। लो॒के। अ॒मुष्मि॑न्। प्र। य॒च्छ॒सि॒। १०.११। 
+आ॒ऽदाय॑। जी॒तम्। जी॒ताय॑। लो॒के। अ॒मुष्मि॑न्। प्र। य॒च्छ॒सि॒। १०.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Bearing off wrong, thou givest in that world to him who hath been wronged.
 
 टिप्पणी:   ५७−(आदाय) गृहीत्वा (जीतम्) ज्या वयोहानौ कर्तरि−क्त, तकारस्य नत्वाभावः। हानिकर्तारम् (जीताय) कर्मणि−क्त। हानिं गताय पुरुषाय (लोके) संसारे जन्मनि वा (अमुष्मिन्) परस्मिन् (प्र यच्छसि) ददासि ॥
 </details>
-

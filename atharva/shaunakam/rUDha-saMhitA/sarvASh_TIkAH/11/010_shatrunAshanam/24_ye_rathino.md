@@ -26,9 +26,15 @@ The comm. explains *asādās* by *aśvādiyānarahitāḥ padātayaḥ*, and
 Car-borne and carless fighting men, riders and those who go on foot, All these, struck down, let vultures, kites, and all, the birds of air devour.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये र॒थिनो॒ ये अ॑र॒था अ॑सा॒दा ये च॑ सा॒दिनः॑।  
+सर्वा॑नदन्तु॒ तान्ह॒तान्गृध्राः॑ श्ये॒नाः प॑त॒त्रिणः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। र॒थिनः॑। ये। अ॒र॒थाः। अ॒सा॒दाः। ये। च॒। सा॒दिनः॑। सर्वा॑न्। अ॒द॒न्तु॒। तान्। ह॒तान्। गृध्राः॑। श्ये॒नाः। प॒त॒त्रिणः॑। १२.२४। 
+ये। र॒थिनः॑। ये। अ॒र॒थाः। अ॒सा॒दाः। ये। च॒। सा॒दिनः॑। सर्वा॑न्। अ॒द॒न्तु॒। तान्। ह॒तान्। गृध्राः॑। श्ये॒नाः। प॒त॒त्रिणः॑। १२.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Car-borne and carless fighting men, riders and those who go on foot, All these, 
 
 टिप्पणी:   २४−(ये) शत्रवः (रथिनः) रथारूढाः (ये) (अरथाः) रथरहिताः (असादाः) अवाहनाः। पदातयः (ये) (च) (सादिनः) षद्लृ विशरणगत्यवसादनेषु-णिनि। अश्वारूढाः। गजारूढादयः (सर्वान्) (अदन्तु) भक्षयन्तु (तान्) शत्रून् (हतान्) मारितान् (गृध्राः) मांसाहारिणः पक्षिविशेषाः (श्येनाः) अ० ३।३।३। शीघ्रगतयः श्येनादयः (पतत्रिणः) पक्षिणः ॥
 </details>
-

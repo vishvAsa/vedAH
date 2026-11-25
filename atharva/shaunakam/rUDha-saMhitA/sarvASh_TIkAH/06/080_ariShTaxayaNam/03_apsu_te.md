@@ -20,9 +20,15 @@ etc., as in vs. 1. The comm. regards the verse as addressed to Agni.
 In waters is thy birth, in heaven thy station, thy majesty on earth and in the ocean. We with this offering will adore the greatness of the Heavenly Hound.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒प्सु ते॒ जन्म॑ दि॒वि ते॑ स॒धस्थं॑ समु॒द्रे अ॒न्तर्म॑हि॒मा ते॑ पृथि॒व्याम्।  
+शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒प्ऽसु। ते॒। जन्म॑। दि॒वि। ते॒। स॒धऽस्थ॑म्। स॒मु॒द्रे। अ॒न्तः। म॒हि॒मा। ते॒। पृ॒थि॒व्याम्। शुनः॑। दि॒व्यस्य॑। यत्। महः॑। तेन॑। ते॒। ह॒विषा॑। वि॒धे॒म॒। ८०.३। 
+अ॒प्ऽसु। ते॒। जन्म॑। दि॒वि। ते॒। स॒धऽस्थ॑म्। स॒मु॒द्रे। अ॒न्तः। म॒हि॒मा। ते॒। पृ॒थि॒व्याम्। शुनः॑। दि॒व्यस्य॑। यत्। महः॑। तेन॑। ते॒। ह॒विषा॑। वि॒धे॒म॒। ८०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ In waters is thy birth, in heaven thy station, thy majesty on earth and in the o
 
 टिप्पणी:   ३−(अप्सु) प्राणेषु−दयानन्दभाष्ये यजु० ८।२५। (ते) तव। परमेश्वरस्य (जन्म) प्रादुर्भावः (दिवि) दीप्यमाने सूर्यमण्डले (ते) (सधस्थम्) सहस्थानम् (समुद्रे) अन्तरिक्षे−निघ० १।३। (अन्तः) मध्ये (महिमा) प्रभावः (ते) (पृथिव्याम्) भूमौ। अन्यद्गतम् म० १ ॥
 </details>
-

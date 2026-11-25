@@ -23,9 +23,15 @@ two find place thus in our text.
 With deadly poison strike thou back the treacherous brood of Rakshasas, O Agni, with thy sharpened glow, with rays that flash with points of flame.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒षेण॑ भङ्गु॒राव॑तः॒ प्रति॑ स्म र॒क्षसो॑ जहि।  
+अग्ने॑ ति॒ग्मेन॑ शो॒चिषा॒ तपु॑रग्राभिर॒र्चिभिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒षेण॑। भ॒ङ्गु॒रऽव॑तः। प्रति॑। स्म॒। र॒क्षसः॑। ज॒हि॒। अग्ने॑। ति॒ग्मेन॑। शो॒चिषा॑। तपुः॑ऽअग्राभिः। अ॒र्चिऽभिः॑। ३.२३। 
+वि॒षेण॑। भ॒ङ्गु॒रऽव॑तः। प्रति॑। स्म॒। र॒क्षसः॑। ज॒हि॒। अग्ने॑। ति॒ग्मेन॑। शो॒चिषा॑। तपुः॑ऽअग्राभिः। अ॒र्चिऽभिः॑। ३.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ With deadly poison strike thou back the treacherous brood of Rakshasas, O Agni, 
 
 टिप्पणी:   २३−(विषेण) गरलेन स्वव्यापनेन वा (भङ्गुरावतः) अ० ७।७१।१। नाशकर्मयुक्तान् (प्रति) प्रतिकूलम् (स्म) अवश्यम् (रक्षसः) पुंल्लिङ्गत्वं छान्दसम्। रक्षांसि (जहि) नाशय (अग्ने) (तिग्मेन) तीक्ष्णेन (शोचिषा) तेजसा (तपुरग्राभिः) अर्तिपॄवपि०। उ० २।११७। तप दाहे-उसि। तापकशिखायुक्ताभिः (अर्चिभिः) ज्वालाभिः ॥
 </details>
-

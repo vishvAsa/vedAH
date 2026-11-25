@@ -18,9 +18,15 @@ other, disposing the seasons art born new.
 Moving by magic power from east to westward, these children twain go sporting round the ocean. The one beholds all creatures: thou, the other, art born anew, duly arranging seasons.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पू॑र्वाप॒रंच॑रतो मा॒ययैतौ शिशू॒ क्रीड॑न्तौ॒ परि॑ यातोऽर्ण॒वम्।  
+विश्वा॒न्यो भुव॑नावि॒चष्ट॑ ऋ॒तूँर॒न्यो वि॒दध॑ज्जायसे॒ नवः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पू॒र्व॒ऽअ॒प॒रम्। च॒र॒तः॒। मा॒यया॑। ए॒तौ। शिशू॒ इति॑। क्रीड॑न्तौ। परि॑। या॒तः॒। अ॒र्ण॒वम्। विश्वा॑। अ॒न्यः। भुव॑ना। वि॒ऽचष्टे॑। ऋ॒तून्। अ॒न्यः। वि॒ऽदध॑त्। जा॒य॒से॒। नवः॑। १.२३। 
+पू॒र्व॒ऽअ॒प॒रम्। च॒र॒तः॒। मा॒यया॑। ए॒तौ। शिशू॒ इति॑। क्रीड॑न्तौ। परि॑। या॒तः॒। अ॒र्ण॒वम्। विश्वा॑। अ॒न्यः। भुव॑ना। वि॒ऽचष्टे॑। ऋ॒तून्। अ॒न्यः। वि॒ऽदध॑त्। जा॒य॒से॒। नवः॑। १.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Moving by magic power from east to westward, these children twain go sporting ro
 
 टिप्पणी:   २३−अयं मन्त्रोव्याख्यातः-अ० ७।८१।१ ॥
 </details>
-

@@ -17,9 +17,15 @@ rich in milk, O Agni, have I come; unite me here with splendor.
 Celestial Waters have I sought: with juice have I besprinkled them. With milk, O Agni, have I come; bestow upon me splendid strength.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒पो दि॒व्या अ॑चायिषं॒ रसे॑न॒ सम॑पृक्ष्महि।  
+पय॑स्वानग्न॒ आग॑मं॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पः। दि॒व्याः। अ॒चा॒यि॒ष॒म्। रसे॑न। सम्। अ॒पृ॒क्ष्म॒हि॒। पय॑स्वान्। अ॒ग्ने॒। आ। अ॒ग॒म॒म्। तम्। मा॒। सम्। सृ॒ज॒। वर्च॑सा। ५.४६। 
+अ॒पः। दि॒व्याः। अ॒चा॒यि॒ष॒म्। रसे॑न। सम्। अ॒पृ॒क्ष्म॒हि॒। पय॑स्वान्। अ॒ग्ने॒। आ। अ॒ग॒म॒म्। तम्। मा॒। सम्। सृ॒ज॒। वर्च॑सा। ५.४६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Celestial Waters have I sought: with juice have I besprinkled them. With milk, O
 
 टिप्पणी:   ४६−अयं मन्त्रो व्याख्यातः-अ० ७।८९।१ ॥
 </details>
-

@@ -21,9 +21,15 @@ interlines "in private": see vs. 53.⌋
 Whoever looking on the Cow as fruitless, cooks her flesh at home, Brihaspati compels his sons and children of his sons to beg.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो वे॒हतं॒ मन्य॑मानो॒ऽमा च॒ पच॑ते व॒शाम्।  
+अप्य॑स्य पु॒त्रान्पौत्रां॑श्च या॒चय॑ते॒ बृह॒स्पतिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। वे॒हत॑म्। मन्य॑मानः। अ॒मा। च॒। पच॑ते। व॒शाम्। अपि॑। अ॒स्य॒। पु॒त्रान्। पौत्रा॑न्। च॒। या॒चय॑ते। बृह॒स्पतिः॑। ४.३८। 
+यः। वे॒हत॑म्। मन्य॑मानः। अ॒मा। च॒। पच॑ते। व॒शाम्। अपि॑। अ॒स्य॒। पु॒त्रान्। पौत्रा॑न्। च॒। या॒चय॑ते। बृह॒स्पतिः॑। ४.३८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Whoever looking on the Cow as fruitless, cooks her flesh at home, Brihaspati com
 
 टिप्पणी:   ३८−(यः) पुरुषः (वेहतम्) म० ३७। गर्भघातिनीस्त्रीतुल्यरोगिणीम् (मन्यमानः) जानन् सन् (अमा) गृहे (च) (पचते) पच व्यक्तीकरणे। व्यक्तीकरोति (वशाम्) कामनीयां वेदवाणीम् (अपि) एव (अस्य) (पुत्रान्) (पौत्रान्) (च) (याचयते) याचृ याच्ञायाम्, णिच्। भिक्षन् करोति। भिक्षयते ॥
 </details>
-

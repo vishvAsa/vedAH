@@ -21,9 +21,14 @@ emendation, might possibly be intended here.
 Hostility when being cut to pieces, woe to children when the portions are distributed,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वैरं॑ विकृ॒त्यमा॑ना॒ पौत्रा॑द्यं विभा॒ज्यमा॑ना ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वैर॑म्। वि॒ऽकृ॒त्यमा॑ना। पौत्र॑ऽआद्यम्। वि॒ऽभा॒ज्यमा॑ना। ८.१। 
+वैर॑म्। वि॒ऽकृ॒त्यमा॑ना। पौत्र॑ऽआद्यम्। वि॒ऽभा॒ज्यमा॑ना। ८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ Hostility when being cut to pieces, woe to children when the portions are distri
 
 टिप्पणी:   २८−(वैरम्) वि विरोधे+ईर गतौ−क, वीर-अण्। विरोधः (विकृत्यमाना) विच्छिद्यमाना (पौत्राद्यम्) पौत्र+अद भक्षणे-ण्यत्। पुत्रादिभक्षणम्। सन्ताननाशनम् (विभाज्यमाना) विभागेन गृह्यमाणा ॥
 </details>
-

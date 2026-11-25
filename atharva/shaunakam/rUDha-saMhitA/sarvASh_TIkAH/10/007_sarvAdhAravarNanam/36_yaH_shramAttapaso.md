@@ -18,9 +18,15 @@ The sense of 'own' in **c** is given by the middle verb-form.
 Homage to highest Brahma, him who, sprung from Fervour and from toil, Filled all the worlds completely, who made Soma for himself alone.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यः श्रमा॒त्तप॑सो जा॒तो लो॒कान्त्सर्वा॑न्त्समान॒शे।  
+सोमं॒ यश्च॒क्रे केव॑लं॒ तस्मै॑ ज्ये॒ष्ठाय॒ ब्रह्म॑णे॒ नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। श्रमा॑त्। तप॑सः। जा॒तः। लो॒कान्। सर्वा॑न्। स॒म्ऽआ॒न॒शे। सोम॑म्। यः। च॒क्रे। केव॑लम्। तस्मै॑। ज्ये॒ष्ठाय॑। ब्रह्म॑णे। नमः॑। ७.३६। 
+यः। श्रमा॑त्। तप॑सः। जा॒तः। लो॒कान्। सर्वा॑न्। स॒म्ऽआ॒न॒शे। सोम॑म्। यः। च॒क्रे। केव॑लम्। तस्मै॑। ज्ये॒ष्ठाय॑। ब्रह्म॑णे। नमः॑। ७.३६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Homage to highest Brahma, him who, sprung from Fervour and from toil, Filled all
 
 टिप्पणी:   ३६−(यः) परमेश्वरः (श्रमात्) परिश्रमात्। प्रयत्नात् (तपसः) सामर्थ्यात् (जातः) प्रादुर्भूतः सन् (लोकान्) (सर्वान्) (समानशे) सम्यग् व्याप (सोमम्) ऐश्वर्यम् (यः) (चक्रे) रचितवान् (केवलम्) सेवनीयम्। आत्मीयम्। अन्यत् पूर्ववत् ॥
 </details>
-

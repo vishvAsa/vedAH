@@ -19,9 +19,15 @@ instead of a *jagatī*-pāda at the end.
 Store-house of Soma, Agni's hall, the ladies' bower, the resi- dence, The seat of Gods art thou, O Goddess House.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ह॑वि॒र्धान॑मग्नि॒शालं॒ पत्नी॑नां॒ सद॑नं॒ सदः॑।  
+सदो॑ दे॒वाना॑मसि देवि शाले ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ह॒विः॒ऽधान॑म्। अ॒ग्नि॒ऽशाल॑म्। पत्नी॑नाम्। सद॑नम्। सदः॑। सदः॑। दे॒वाना॑म्। अ॒सि॒। दे॒वि॒। शा॒ले॒। ३.७। 
+ह॒विः॒ऽधान॑म्। अ॒ग्नि॒ऽशाल॑म्। पत्नी॑नाम्। सद॑नम्। सदः॑। सदः॑। दे॒वाना॑म्। अ॒सि॒। दे॒वि॒। शा॒ले॒। ३.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Store-house of Soma, Agni's hall, the ladies' bower, the resi- dence, The seat o
 
 टिप्पणी:   ७−(हविर्धानम्) हविषां दातव्यादातव्यपदार्थानामन्नहवनवस्तूनां च स्थानम् (अग्निशालम्) पावकस्य विद्युतो वा गृहम् (पत्नीनाम्) रक्षणस्वभावानां स्त्रीणाम् (सदनम्) गृहम् (सदः) सभास्थानम् (देवानाम्) विदुषां पुरुषाणाम् (असि) (देवि) हे दिव्ये, कमनीये (शाले) गृह ॥
 </details>
-

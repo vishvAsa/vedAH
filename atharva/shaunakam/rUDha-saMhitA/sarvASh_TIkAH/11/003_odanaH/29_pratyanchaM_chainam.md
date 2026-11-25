@@ -17,9 +17,14 @@ quit thee: so one says to him.
 Thou hast eaten this turned hitherward; thy downward breath will leave thee; so he said to this one.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒त्यञ्चं॑ चैनं॒ प्राशी॑रपा॒नास्त्वा॑ हास्य॒न्तीत्ये॑नमाह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒त्यञ्च॑म्। च॒। ए॒न॒म्। प्र॒ऽआशीः॑। अ॒पा॒नाः। त्वा॒। हा॒स्य॒न्ति॒। इति॑। ए॒न॒म्। आ॒ह॒। ३.२९। 
+प्र॒त्यञ्च॑म्। च॒। ए॒न॒म्। प्र॒ऽआशीः॑। अ॒पा॒नाः। त्वा॒। हा॒स्य॒न्ति॒। इति॑। ए॒न॒म्। आ॒ह॒। ३.२९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Thou hast eaten this turned hitherward; thy downward breath will leave thee; so 
 
 टिप्पणी:   २९−(प्रत्यञ्चम्) म० २६। प्रत्यक्षवर्तिनम् (अपानाः) प्रश्वासबलानि। अन्यत् पूर्ववत् म० २८॥
 </details>
-

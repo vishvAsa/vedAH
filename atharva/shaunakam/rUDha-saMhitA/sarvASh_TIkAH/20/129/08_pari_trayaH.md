@@ -8,9 +8,14 @@ title = "०८ परि त्रयः"
 There where around those distant trees, three Sisus that are standing there, (with previous verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+परि॑ त्रयः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परि॑। त्रयः। १२९.८। 
+परि॑। त्रयः। १२९.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ There where around those distant trees, three Sisus that are standing there, (wi
 
 टिप्पणी:   ८−(परि) पृथग्भावे (त्रयः) आध्यात्मिकाधिभौतिकाधिदैविकक्लेशाः ॥
 </details>
-

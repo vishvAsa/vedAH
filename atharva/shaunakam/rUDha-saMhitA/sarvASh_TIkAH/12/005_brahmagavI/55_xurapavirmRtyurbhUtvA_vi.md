@@ -19,9 +19,14 @@ especially to the armed wheels of a battle-chariot.
 Go thou, becoming Mrityu sharp as razor's edge pursue thy course:
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षु॒रप॑विर्मृ॒त्युर्भू॒त्वा वि धा॑व॒ त्वम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्षु॒रऽप॑विः। मृ॒त्युः। भू॒त्वा। वि। धा॒व॒। त्वम्। १०.९। 
+क्षु॒रऽप॑विः। मृ॒त्युः। भू॒त्वा। वि। धा॒व॒। त्वम्। १०.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Go thou, becoming Mrityu sharp as razor's edge pursue thy course:
 
 टिप्पणी:   ५५−(क्षुरपविः) म० २०। शस्त्रधारा यथा (मृत्युः) (भूत्वा) (वि) विविधम् (धाव) शीघ्रं गच्छ (त्वम्) ॥
 </details>
-

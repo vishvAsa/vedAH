@@ -10,6 +10,11 @@ The archer Mahādeva attends him as attendant from the intermediate
 direction of the upward quarter; not śarva etc. etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+म॒हा॒दे॒व ए॑नमिष्वा॒स ऊ॒र्ध्वाया॑ दि॒शो अ॑न्तर्दे॒शाद॑नुष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑नः॥१७॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 म॒हा॒ऽदे॒वः । ए॒न॒म् । इ॒षु॒ऽआ॒सः । ऊ॒र्ध्वायाः॑ । दि॒शः । अ॒न्तः॒ऽदे॒शात् । अ॒नु॒ऽस्था॒ता । अनु॑ । ति॒ष्ठ॒ति॒ । न । ए॒न॒म् । श॒र्वः । न । भ॒वः । न । ईशा॑नः ।

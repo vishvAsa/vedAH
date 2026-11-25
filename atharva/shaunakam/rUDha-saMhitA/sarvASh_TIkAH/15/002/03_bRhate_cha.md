@@ -8,17 +8,22 @@ title = "०३ बृहते च"
 ### Translation
 **c.** ⌊3.⌋ against both  
 the *bṛhát* and the *rathaṁtará* and the Ādityas and all the gods doth  
-he offend (*ā-vraśc*) who revileth a thus-knowing Vrātya; 
+he offend (*ā-vraśc*) who revileth a thus-knowing Vrātya;
 </details>
 
 <details><summary>Griffith</summary>
 
-That man is alienated from the Brihat, the Rathantara, the Adityas, and all Gods who reviles the Vratya who possesses this knowledge. 
+That man is alienated from the Brihat, the Rathantara, the Adityas, and all Gods who reviles the Vratya who possesses this knowledge.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+बृ॑ह॒ते च॒ वै सर॑थन्त॒राय॑ चादि॒त्येभ्य॑श्च॒ विश्वे॑भ्यश्च दे॒वेभ्य॒ आ वृ॑श्चते॒ य ए॒वंवि॒द्वांसं॒ व्रात्य॑मुप॒वद॑ति ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-बृ॒ह॒ते। च॒। वै। सः। र॒थ॒म्ऽत॒राय॑। च॒। आ॒दि॒त्येभ्यः॑। च॒। विश्वे॑भ्यः। च॒। दे॒वेभ्यः॑। आ। वृ॒श्च॒ते॒। यः। ए॒वम्। वि॒द्वांस॑म्। व्रात्य॑म्। उ॒प॒ऽवद॑ति। २.३। 
+बृ॒ह॒ते। च॒। वै। सः। र॒थ॒म्ऽत॒राय॑। च॒। आ॒दि॒त्येभ्यः॑। च॒। विश्वे॑भ्यः। च॒। दे॒वेभ्यः॑। आ। वृ॒श्च॒ते॒। यः। ए॒वम्। वि॒द्वांस॑म्। व्रात्य॑म्। उ॒प॒ऽवद॑ति। २.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ That man is alienated from the Brihat, the Rathantara, the Adityas, and all Gods
 
 टिप्पणी:   ३−(बृहत्) प्रवृद्धायाकाशाय (च) (वै) निश्चयेन (रथन्तराय) रमणीयैर्गुणैस्तरणीयाय जगते (च) (आदित्येभ्यः) आदीप्यमानेभ्यःसूर्यादिभ्यः (च) (विश्वेभ्यः) (च) (देवेभ्यः) गतिमद्भ्यो लोकेभ्यः (आ समन्तात् (वृश्चते) वृश्च्यते। छिद्यते। दूषितो भवति (यः) (मूर्खः) (एवम्) इण्शीभ्यांवन्। उ० १।१५२। इण् गतौ-वन्। एवैरयनैरवनैर्वा-निरु० २।२५। एतिप्राप्नोतीत्येवस्तम्। ईदृशम्। व्यापकम् (विद्वांसम्) विज्ञातारम् (व्रात्यम्)म० १। व्रातेभ्यः सर्वसमूहेभ्यो हितकरं परमात्मानम् (उपवदति) हीनं कथयति।निन्दति ॥
 </details>
-

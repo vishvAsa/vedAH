@@ -8,9 +8,14 @@ title = "१८ अश्वस्य वारो"
 As the big serpent feeds on sheep. Cow's hoof and horse's tail hast thou, (with previous verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अश्व॑स्य॒ वारो॑ गोशपद्य॒के ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अश्व॑स्य॒। वारः॑। गोशपद्य॒के। १२९.१८। 
+अश्व॑स्य॒। वारः॑। गोशपद्य॒के। १२९.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ As the big serpent feeds on sheep. Cow's hoof and horse's tail hast thou, (with 
 
 टिप्पणी:   १८−(अश्वस्य) तुरङ्गस्य (वारः) वारयिता। आरूढः (गोशपद्यके) गो+शीङ् शयने-ड+पद-यत्, स्वार्थे कन्। गोशयनस्थाने। गोष्ठे ॥
 </details>
-

@@ -17,9 +17,15 @@ that treasure, which, O gods, ye defend, who at present knoweth?
 Whose secret treasure evermore the three-and thirty Gods protect? Who knoweth now the treasure which, O Deities ye watch and guard?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्य॒ त्रय॑स्त्रिंशद्दे॒वा नि॒धिं रक्ष॑न्ति सर्व॒दा।  
+नि॒धिं तम॒द्य को वे॑द॒ यं दे॑वा अभि॒रक्ष॑थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्य॑। त्रयः॑ऽत्रिंशत्। दे॒वाः। नि॒ऽधिम्। रक्ष॑न्ति। स॒र्व॒दा। नि॒ऽधिम्। तम्। अ॒द्य। कः। वे॒द॒। यम्। दे॒वाः॒। अ॒भि॒ऽरक्ष॑थ। ७.२३। 
+यस्य॑। त्रयः॑ऽत्रिंशत्। दे॒वाः। नि॒ऽधिम्। रक्ष॑न्ति। स॒र्व॒दा। नि॒ऽधिम्। तम्। अ॒द्य। कः। वे॒द॒। यम्। दे॒वाः॒। अ॒भि॒ऽरक्ष॑थ। ७.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Whose secret treasure evermore the three-and thirty Gods protect? Who knoweth no
 
 टिप्पणी:   २३−(यस्य) परमेश्वरस्य (त्रयस्त्रिंशत्) म० १३ (देवाः) वस्वादयो दिव्यपदार्थाः (निधिम्) कोषम्। संसारम् (रक्षन्ति) पालयन्ति (सर्वदा) (वेद) जानाति। अन्यत् सुगमम् ॥
 </details>
-

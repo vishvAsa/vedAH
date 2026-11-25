@@ -22,9 +22,15 @@ in Kāuś. 77. 20 as the bride enters her new abode.
 Bliss-bringer, furthering thy household's welfare, dear gladdening thy husband and his father, enter this home, mild to thy hus- band's mother.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सु॑मङ्ग॒लीप्र॒तर॑णी गृ॒हाणां॑ सु॒शेवा॒ पत्ये॒ श्वशु॑राय शं॒भूः।  
+स्यो॒ना श्व॒श्र्वै प्रगृ॒हान्वि॑शे॒मान् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सु॒ऽम॒ङ्ग॒ली। प्र॒ऽतर॑णी। गृ॒हाणा॑म्। सु॒ऽशेवा॑। पत्ये॑। श्वशु॑राय। श॒म्ऽभूः। स्यो॒ना। श्व॒श्वै। प्र। गृ॒हान्। वि॒श॒। इ॒मान्। २.२६। 
+सु॒ऽम॒ङ्ग॒ली। प्र॒ऽतर॑णी। गृ॒हाणा॑म्। सु॒ऽशेवा॑। पत्ये॑। श्वशु॑राय। श॒म्ऽभूः। स्यो॒ना। श्व॒श्वै। प्र। गृ॒हान्। वि॒श॒। इ॒मान्। २.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Bliss-bringer, furthering thy household's welfare, dear gladdening thy husband a
 
 टिप्पणी:   २६−(सुमङ्गली) बहुमङ्गलवती (प्रतरणी) वर्धयित्री (गृहाणाम्) गृहपुरुषाणाम् (सुशेवा) बहुसुखदात्री (पत्ये) (श्वशुराय) पतिजनकाय (शंभूः) शान्तिप्रदा (स्योना) सुखप्रदा (श्वश्र्वै)पतिजनन्यै (गृहान्) गृहकार्याणि (प्र विश) (इमान्) ॥
 </details>
-

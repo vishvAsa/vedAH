@@ -21,9 +21,15 @@ SPP.⌋, and the passage is quoted as an example under Prāt. ii. 91; iv.
 Surya is eager to obtain all wealth that lies along the sea, Great is the course spread out for him, his eastward and his westward path.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्स॑मु॒द्रमनु॑ श्रि॒तं तत्सि॑षासति॒ सूर्यः॑।  
+अध्वा॑स्य॒ वित॑तो म॒हान्पूर्व॒श्चाप॑रश्च॒ यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। स॒मु॒द्रम्। अनु॑। श्रि॒तम्। तत्। सि॒षा॒स॒ति॒। सूर्यः॑। अध्वा॑। अ॒स्य॒। विऽत॑तः। म॒हान्। पूर्वः॑। च॒। अप॑रः। च॒। यः। 2.१४। 
+यत्। स॒मु॒द्रम्। अनु॑। श्रि॒तम्। तत्। सि॒षा॒स॒ति॒। सूर्यः॑। अध्वा॑। अ॒स्य॒। विऽत॑तः। म॒हान्। पूर्वः॑। च॒। अप॑रः। च॒। यः। 2.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Surya is eager to obtain all wealth that lies along the sea, Great is the course
 
 टिप्पणी:   १४−(यत्) वस्तुजातम् (समुद्रम्) संसाररूपम् (अनु) प्रति (श्रितम्) स्थितम् (तत्) (सिषासति) षण संभक्तौ-सन्। सेवितुमिच्छति (सूर्यः) आदित्यलोकः (अध्वा) मार्गः (अस्य) सूर्यस्य (विततः) विस्तृतः (पूर्वः) (च) (अपरः) पश्चाद् भवः। पश्चिमः (च) (यः) मार्गः ॥
 </details>
-

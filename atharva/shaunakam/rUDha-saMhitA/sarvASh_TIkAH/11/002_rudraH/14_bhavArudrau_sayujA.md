@@ -21,9 +21,15 @@ which is doubtless correct.
 Accordant and allies, Bhava and Rudra, with mighty strength ye go to deeds of valour. Wherever they may be, we pay them homage.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+भ॑वारु॒द्रौ स॒युजा॑ संविदा॒नावु॒भावु॒ग्रौ च॑रतो वी॒र्या᳡य।  
+ताभ्यां॒ नमो॑ यत॒मस्यां॑ दि॒शी॒३॒॑तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भ॒वा॒रु॒द्रौ। स॒ऽयुजा॑। स॒म्ऽवि॒दा॒नौ। उ॒भौ। उ॒ग्रौ। च॒र॒तः॒। वी॒र्या᳡य। ताभ्या॑म्। नमः॑। य॒त॒मस्या॑म्। दि॒शि। इ॒तः। २.१४। 
+भ॒वा॒रु॒द्रौ। स॒ऽयुजा॑। स॒म्ऽवि॒दा॒नौ। उ॒भौ। उ॒ग्रौ। च॒र॒तः॒। वी॒र्या᳡य। ताभ्या॑म्। नमः॑। य॒त॒मस्या॑म्। दि॒शि। इ॒तः। २.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Accordant and allies, Bhava and Rudra, with mighty strength ye go to deeds of va
 
 टिप्पणी:   १४−(भवारुद्रौ) म० ३। भवश्च रुद्रश्च तौ। सुखोत्पादकदुःखनाशकौ गुणौ (सयुजा) समानं युञ्जानौ मित्रभूतौ (संविदानौ) समानं जानन्तौ (उभौ) (उग्रौ) तेजस्विनौ (चरतः) विचरतः (वीर्याय) वीरत्वं दातुम् (ताभ्याम्) भवारुद्राभ्याम्। अन्यत् पूर्ववत्-म० १३॥
 </details>
-

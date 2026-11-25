@@ -20,9 +20,15 @@ the unusual resolution *-ya-am* at end of **a**.
 The spell that they have cast upon thine army or thy shafts and arms, Spell they have cast upon the drum, this I throw back again on them.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यां ते॑ च॒क्रुः सेना॑यां॒ यां च॒क्रुरि॑ष्वायु॒धे।  
+दु॑न्दु॒भौ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याम्। ते॒। च॒क्रुः। सेना॑याम्। याम्। च॒क्रुः॒। इ॒षु॒आ॒यु॒धे। दु॒न्दु॒भौ। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.७। 
+याम्। ते॒। च॒क्रुः। सेना॑याम्। याम्। च॒क्रुः॒। इ॒षु॒आ॒यु॒धे। दु॒न्दु॒भौ। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ The spell that they have cast upon thine army or thy shafts and arms, Spell they
 
 टिप्पणी:   ७−(सेनायाम्) योद्धृसमूहे (इष्वायुधे) बाणादिशस्त्रे (दुन्दुभौ) बृहड्ढक्कायाम्। अन्यद् गतम् ॥
 </details>
-

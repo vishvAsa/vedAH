@@ -16,9 +16,14 @@ title = "२० उप हरति"
 He brings oblations: he makes the men sit down.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑ हरति ह॒वींष्या सा॑दयति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑। ह॒र॒ति॒। ह॒वींषि॑। आ। सा॒द॒य॒ति॒। ७.३। 
+उप॑। ह॒र॒ति॒। ह॒वींषि॑। आ। सा॒द॒य॒ति॒। ७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ He brings oblations: he makes the men sit down.
 
 टिप्पणी:   ३−(उप हरति) समर्पयति (हवींषि) हवनद्रव्याणि (आ सादयति) समीपं प्रापयति ॥
 </details>
-

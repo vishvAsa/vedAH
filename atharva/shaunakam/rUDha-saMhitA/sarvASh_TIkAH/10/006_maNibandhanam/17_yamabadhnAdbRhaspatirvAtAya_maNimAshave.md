@@ -22,9 +22,16 @@ vs. 15. Cf. my note to vi. 74. 2.⌋
 The Amulet Brihaspati formed for the swiftly-moving Wind, This salutary Amulet the Deities assumed and wore. This yieldeth them the universe, again, again, from morn to morn. With this subdue thine enemies.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+तमि॒मं दे॒वता॑ म॒णिं प्रत्य॑मुञ्चन्त श॒म्भुव॑म्।  
+स आ॑भ्यो॒ विश्व॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। अब॑ध्नात्। बृह॒स्पतिः॑। वाता॑य। म॒णिम्। आ॒शवे॑। तम्। इ॒मम्। दे॒वताः॑। म॒णिम्। प्रति॑। अ॒मु॒ञ्च॒न्त॒। श॒म्ऽभुव॑म्। सः। आ॒भ्यः॒। विश्व॑म्। इत्। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.१७। 
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। वाता॑य। म॒णिम्। आ॒शवे॑। तम्। इ॒मम्। दे॒वताः॑। म॒णिम्। प्रति॑। अ॒मु॒ञ्च॒न्त॒। श॒म्ऽभुव॑म्। सः। आ॒भ्यः॒। विश्व॑म्। इत्। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +61,3 @@ The Amulet Brihaspati formed for the swiftly-moving Wind, This salutary Amulet t
 
 टिप्पणी:   १७−(देवताः) विद्वांसः (प्रति अमुञ्चन्त) स्वीकृतवन्तः (आभ्यः) देवताभ्यः (विश्वम्) प्रत्येकं वस्तु। अन्यत् पूर्ववत् ॥
 </details>
-

@@ -17,9 +17,14 @@ unpermitted by a thus-knowing Vrātya, makes oblation.
 The abode of the man who sacrifices without the permission of the Vratya who possesses this knowledge is not left remaining in this world.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नास्या॒स्मिंल्लो॒क आ॒यत॑नं शिष्यते॒ य ए॒वं वि॒दुषा॒ व्रात्ये॒नान॑तिसृष्टोजु॒होति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। अ॒स्य॒। अ॒स्मिन्। लो॒के। आ॒ऽयत॑नम्। शि॒ष्य॒ते॒। यः। ए॒वम्। वि॒दुषा॑। व्रात्ये॑न। अन॑तिऽसृष्टः। जु॒होति॑। १२.११। 
+न। अ॒स्य॒। अ॒स्मिन्। लो॒के। आ॒ऽयत॑नम्। शि॒ष्य॒ते॒। यः। ए॒वम्। वि॒दुषा॑। व्रात्ये॑न। अन॑तिऽसृष्टः। जु॒होति॑। १२.११।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,4 +46,3 @@ The abode of the man who sacrifices without the permission of the Vratya who pos
 
 टिप्पणी:   ११−(न) निषेधे (अनतिसृष्टः) अनाज्ञापितः। अन्यत् पूर्ववत्-म० ७ ॥
 </details>
-

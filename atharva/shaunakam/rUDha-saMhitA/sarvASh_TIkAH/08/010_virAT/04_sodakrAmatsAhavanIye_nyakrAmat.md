@@ -23,9 +23,14 @@ true accent. Ppp. reads instead *yajñāntas*, and omits after it
 She mounted up, the Southward fire she entered. He who knows this becomes a fit performer of sacrifice, meet for honour, shelter-giver.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोद॑क्राम॒त्साह॑व॒नीये॒ न्य᳡क्रामत्।
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अ॒क्रा॒म॒त्। सा। आ॒ऽह॒व॒नीये॑। नि। अ॒क्रा॒म॒त्। १०.४। 
+सा। उत्। अ॒क्रा॒म॒त्। सा। आ॒ऽह॒व॒नीये॑। नि। अ॒क्रा॒म॒त्। १०.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ She mounted up, the Southward fire she entered. He who knows this becomes a fit 
 
 टिप्पणी:   ४−(आहवनीये) आङ्+हु दानादानादनेषु-अनीयर्, यद्वा आहवन-छ-प्रत्ययः। यजनीये व्यवहारे। अन्यत् पूर्ववत् ॥
 </details>
-

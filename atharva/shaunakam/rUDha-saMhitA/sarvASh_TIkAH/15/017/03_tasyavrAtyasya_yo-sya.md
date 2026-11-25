@@ -16,9 +16,15 @@ title = "०३ तस्यव्रात्यस्य योऽस्य"
 His third diffused breath is that Heaven.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्य॒व्रात्य॑स्य।  
+यो᳡ऽस्य॑ तृ॒तीयो॑ व्या॒नः सा द्यौः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। तृ॒तीयः॑। वि॒ऽआ॒नः। सा। द्यौः। १७.३। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। तृ॒तीयः॑। वि॒ऽआ॒नः। सा। द्यौः। १७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +54,3 @@ His third diffused breath is that Heaven.
 
 टिप्पणी:   ३−(द्यौः)सूर्यतापकर्षणादिविद्या। आकाशस्य विस्तारादिविद्या। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

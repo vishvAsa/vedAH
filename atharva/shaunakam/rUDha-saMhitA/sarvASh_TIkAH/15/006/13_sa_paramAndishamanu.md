@@ -13,9 +13,14 @@ title = "१३ स परमान्दिशमनु"
 He went away to the supreme region.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स प॑र॒मांदिश॒मनु॒ व्य᳡चलत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। प॒र॒माम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ६.१३। 
+सः। प॒र॒माम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ६.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,4 +50,3 @@ He went away to the supreme region.
 
 टिप्पणी:   १३−(सः) व्रात्यःपरमात्मा (परमाम्) अतिदूराम्। अन्यत् पूर्ववत् ॥
 </details>
-

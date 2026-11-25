@@ -29,9 +29,15 @@ simply by *saṁroddhāram*.
 I have completely cleaned thee out, won from thee what thou keptest back. As a wolf tears and rends a sheep, so do I tear thy stake away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अजै॑षं त्वा॒ संलि॑खित॒मजै॑षमु॒त सं॒रुध॑म्।  
+अविं॒ वृको॒ यथा॒ मथ॑दे॒वा म॑थ्नामि ते कृ॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अजैषम्। त्वा। सम्ऽलिख‍ितम्। अजैषम्। उत। सम्ऽरुधम्। अविम्। वृकः। यथा। मथत्। एव। मथ्नामि। ते। कृतम्। ५२.५। 
+अजैषम्। त्वा। सम्ऽलिख‍ितम्। अजैषम्। उत। सम्ऽरुधम्। अविम्। वृकः। यथा। मथत्। एव। मथ्नामि। ते। कृतम्। ५२.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,4 +67,3 @@ I have completely cleaned thee out, won from thee what thou keptest back. As a w
 
 टिप्पणी:   ५−(अजैषम्) अहं जितवानस्मि (त्वा) त्वां शत्रुम् (संलिखितम्) राजकीयपुस्तकेषु सम्यग् लिखितम् (अजैषम्) (उत) अपि च (संरुधम्) रुधेः-क्विप्। निरोधकम्। विघ्नकारिणम् (अविम्) अजाम् (वृकः) अरण्यश्वा (यथा) (मथत्) मथ्नाति (एव) एवम् (मथ्नामि) नाशयामि (ते) तव (कृतम्) कर्म ॥
 </details>
-

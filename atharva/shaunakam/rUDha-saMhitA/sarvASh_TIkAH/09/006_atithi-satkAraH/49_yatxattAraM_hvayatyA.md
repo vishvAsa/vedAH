@@ -20,9 +20,14 @@ Ppp. inserts before this verse our vs. 23 above; and it omits *eva tat*.
 When he summons the door-keeper he gives instruction.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्क्ष॒त्तारं॒ ह्वय॒त्या श्रा॑वयत्ये॒व तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। क्ष॒त्तार॑म्। ह्वय॑ति। आ। श्रा॒व॒य॒ति॒। ए॒व। तत्। ११.१। 
+यत्। क्ष॒त्तार॑म्। ह्वय॑ति। आ। श्रा॒व॒य॒ति॒। ए॒व। तत्। ११.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ When he summons the door-keeper he gives instruction.
 
 टिप्पणी:   १−(यत्) यदा (क्षत्तारम्) अ० ३।२४।७। क्षतः क्षतात् तारकं धर्मात्मानं गृहस्थम् (ह्वयति) आह्वयति (आश्रावयति) आदिशति स्वप्रयोजनम् (एव) (तत्) तदा ॥
 </details>
-

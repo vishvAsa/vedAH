@@ -17,9 +17,14 @@ the Brahman,—
 Of the Kshatriya who taketh to himself this Brahman's cow and oppresseth the Brahman.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तामा॒ददा॑नस्य ब्रह्मग॒वीं जि॑न॒तो ब्रा॑ह्म॒णं क्ष॒त्रिय॑स्य ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ताम्। आ॒ऽददा॑नस्य। ब्र॒ह्म॒ऽग॒वीम्। जि॒न॒तः। ब्रा॒ह्म॒णम्। क्ष॒त्रिय॑स्य। ५.५। 
+ताम्। आ॒ऽददा॑नस्य। ब्र॒ह्म॒ऽग॒वीम्। जि॒न॒तः। ब्रा॒ह्म॒णम्। क्ष॒त्रिय॑स्य। ५.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Of the Kshatriya who taketh to himself this Brahman's cow and oppresseth the Bra
 
 टिप्पणी:   ५−(ताम्) तथाभूताम् (आददानस्य) अपहारकस्य (ब्रह्मगवीम्) गोरतद्धितलुकि। पा० ५।४।९२। ब्रह्म+गो−टच्, टित्त्वाद् ङीप्। ब्रह्मणः परमेश्वरस्य गां वाचम्। वेदवाणीम् (जिनतः) ज्या वयोहानौ−शतृ, अन्तर्गतणिजर्थः। अभिभवतः (ब्राह्मणम्) ब्रह्मचारिणम् (क्षत्रियस्य) राजन्यस्य ॥
 </details>
-

@@ -17,9 +17,14 @@ who hates us, whom we hate.
 Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom we hate.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॒ यत्ते॑ शो॒चिस्तेन॒ तं प्रति॑ शोच॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। यत्। ते॒। शो॒चिः। तेन॑। तम्। प्रति॑। शो॒च॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.४। 
+अग्ने॑। यत्। ते॒। शो॒चिः। तेन॑। तम्। प्रति॑। शो॒च॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom 
 
 टिप्पणी:   ४–शोचिः। अर्चिशुचि०। उ० २।१०८। इति ईशुचिर् शौचविशरणयोः–इसि। ज्वलतो नाम–निघ० १।१७। शुच्यत्यनेनेति। शोधनसामर्थ्यम्। शोच। शोचय, शोधय ॥
 </details>
-

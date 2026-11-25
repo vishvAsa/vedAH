@@ -17,9 +17,14 @@ lineage, son of such-and-such a mother.
 Here I wipe away the evil dream on the descendant of Such-an- one, son of Such-a-woman.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒दम॒हमा॑मुष्याय॒णे॒३॒॑मुष्याः॑ पु॒त्रे दुः॒ष्वप्न्यं॑ मृजे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒दम्। अ॒हम्। आ॒मु॒ष्या॒य॒णे। अ॒मुष्याः॑। पु॒त्रे। दुः॒ऽस्वप्न्य॑म्। मृ॒जे॒। ७.८। 
+इ॒दम्। अ॒हम्। आ॒मु॒ष्या॒य॒णे। अ॒मुष्याः॑। पु॒त्रे। दुः॒ऽस्वप्न्य॑म्। मृ॒जे॒। ७.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Here I wipe away the evil dream on the descendant of Such-an- one, son of Such-a
 
 टिप्पणी:   ८−(इदम्) इदानीम् (अहम्) धर्मात्मा (आमुष्यायणे) अमुष्य पुरुषस्य सन्ताने (अमुष्याः) अमुकस्त्रियाः (पुत्रे) कुमार्गिणि सन्ताने (दुःष्वप्न्यम्)दुष्टस्वप्ने भवं कुविचारम् (मृजे) शोधयामि ॥
 </details>
-

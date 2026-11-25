@@ -19,9 +19,15 @@ sacrificial gifts.
 Charm, forwarder of sacrifice, who hast a hundred priestly fees. Speed to preeminence him to whom I have attached thy happy fate.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्मै॑ त्वा यज्ञवर्धन॒ मणे॑ प्र॒त्यमु॑चं शि॒वम्।  
+तं त्वं श॑तदक्षिण॒ मणे॑ श्रैष्ठ्याय जिन्वतात् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्मै॑। त्वा॒। य॒ज्ञ॒ऽव॒र्ध॒न॒। मणे॑। प्र॒ति॒ऽअमु॑ञ्चम्। शि॒वम्। तम्। त्वम्। श॒त॒ऽद॒क्षि॒ण॒। मणे॑। श्रैष्ठ्या॑य। जि॒न्व॒ता॒त्। ६.३४। 
+यस्मै॑। त्वा॒। य॒ज्ञ॒ऽव॒र्ध॒न॒। मणे॑। प्र॒ति॒ऽअमु॑ञ्चम्। शि॒वम्। तम्। त्वम्। श॒त॒ऽद॒क्षि॒ण॒। मणे॑। श्रैष्ठ्या॑य। जि॒न्व॒ता॒त्। ६.३४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Charm, forwarder of sacrifice, who hast a hundred priestly fees. Speed to preemi
 
 टिप्पणी:   ३४−(यस्मै) पुरुषहिताय (त्वा) (यज्ञवर्धन) हे श्रेष्ठव्यवहारवर्धक (मणे) (प्रत्यमुचम्) अहं स्वीकृतवान् (शिवम्) (मङ्गलकारकम्) (तम्) पुरुषम् (त्वम्) (शतदक्षिण) बहुप्रकारवृद्धियुक्त (मणे) (श्रैष्ठ्याय) श्रेष्ठपदाय (जिन्वतात्) तर्पय ॥
 </details>
-

@@ -18,9 +18,15 @@ controlling Indra.
 The pupil is the Master, yea, the pupil is Prajapati. Prajapati shines bright; the bright Viraj grew potent Indra's self.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॑चा॒र्यो᳡ ब्रह्मचा॒री ब्र॑ह्मचा॒री प्र॒जाप॑तिः।  
+प्र॒जाप॑ति॒र्वि रा॑जति वि॒राडिन्द्रो॑ऽभवद्व॒शी ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒ऽचा॒र्यः᳡। ब्र॒ह्म॒ऽचा॒री। ब्र॒ह्म॒ऽचा॒री। प्र॒जाऽप॑तिः। प्र॒जाऽप॑तिः। वि। रा॒ज॒ति॒। वि॒ऽराट्। इन्द्रः॑। अ॒भ॒व॒त्। व॒शी। ७.१६। 
+आ॒ऽचा॒र्यः᳡। ब्र॒ह्म॒ऽचा॒री। ब्र॒ह्म॒ऽचा॒री। प्र॒जाऽप॑तिः। प्र॒जाऽप॑तिः। वि। रा॒ज॒ति॒। वि॒ऽराट्। इन्द्रः॑। अ॒भ॒व॒त्। व॒शी। ७.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The pupil is the Master, yea, the pupil is Prajapati. Prajapati shines bright; t
 
 टिप्पणी:   १६−(आचार्यः) म० १ (ब्रह्मचारी) म० १ (प्रजापतिः) प्रजापालकः पुरुषः (वि) विविधम् (राजति) शासको भवति (विराट्) विविधं शासकः अधिराजः (इन्द्रः) परमैश्वर्ययुक्तः (वशी) वशयिता। शासकः। अन्यद् गतम् ॥
 </details>
-

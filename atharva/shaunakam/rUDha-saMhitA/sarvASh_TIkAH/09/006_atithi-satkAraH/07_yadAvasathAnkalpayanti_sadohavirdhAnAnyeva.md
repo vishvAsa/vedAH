@@ -17,9 +17,14 @@ oblation-holders (*havirdhā́na*).
 When they arrange dwelling-rooms they arrange the sacred chamber and the shed for housing the Soma cars.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदा॑वस॒थान्क॒ल्पय॑न्ति सदोहविर्धा॒नान्ये॒व तत्क॑ल्पयन्ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। आ॒ऽव॒स॒थान्। क॒ल्पय॑न्ति। स॒दः॒ऽह॒वि॒र्धा॒नानि॑। ए॒व। तत्। क॒ल्प॒य॒न्ति॒। ६.७। 
+यत्। आ॒ऽव॒स॒थान्। क॒ल्पय॑न्ति। स॒दः॒ऽह॒वि॒र्धा॒नानि॑। ए॒व। तत्। क॒ल्प॒य॒न्ति॒। ६.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ When they arrange dwelling-rooms they arrange the sacred chamber and the shed fo
 
 टिप्पणी:   ७−(यत्) यदा (आवसथान्) उपसर्गे वसेः। उ० ३।११६। आ+वस निवासे-अथ। निवासान् (कल्पयन्ति) रचयन्ति (सदोहविर्धानानि) यज्ञगृहग्राह्यदातव्यकर्मस्थानानि (एव) (तत्) तदा (कल्पयन्ति) विचारयन्ति। समर्थयन्ति ॥
 </details>
-

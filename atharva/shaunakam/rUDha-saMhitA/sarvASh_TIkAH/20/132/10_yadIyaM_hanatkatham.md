@@ -8,9 +8,14 @@ title = "१० यदीयं हनत्कथम्"
 How, if he beat it, will he beat?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदी॒यं ह॑न॒त्कथं॑ हनत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यदि॑। इ॒यम्। ह॑न॒त्। कथम्। हनत्। १३२.१०। 
+यदि॑। इ॒यम्। ह॑न॒त्। कथम्। हनत्। १३२.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ How, if he beat it, will he beat?
 
 टिप्पणी:   १०−(यदि) सम्भावनायम् (इयम्) दृश्यमाना स्त्रीपुरुषरूपा प्रजा (हनत्) (कथम्) केन प्रकारेण (हनत्) ॥
 </details>
-

@@ -8,9 +8,15 @@ title = "१२ एवा महान्बृहद्दिवो"
 Thou hath Brihaddiva the great Atharvan, spoken to Indra as himself in person. The Matarisvaris, the spotless sisters, with power exalt him and impel him onward.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒वा म॒हान्बृ॒हद्दि॑वो॒ अथ॒र्वावो॑च॒त्स्वां त॒न्व१॒॑मिन्द्र॑मे॒व।  
+स्वसा॑रौ मात॒रिभ्व॑री अरि॒प्रे हि॒न्वन्ति॑ चैने॒ शव॑सा व॒र्धय॑न्ति च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒व। म॒हान्। बृ॒हत्ऽदि॑वः। अथ॑र्वा। अवो॑चत्। स्वाम्। त॒न्व॑म्। इन्द्र॑म्। ए॒व। स्वसा॑रौ। मा॒त॒रिभ्व॑री॒ इति॑। अ॒रि॒प्रे इति॑। हि॒न्वन्ति॑। च॒। ए॒ने॒ इति॑। शव॑सा। व॒र्धय॑न्ति। च॒। १०७.१२। 
+ए॒व। म॒हान्। बृ॒हत्ऽदि॑वः। अथ॑र्वा। अवो॑चत्। स्वाम्। त॒न्व॑म्। इन्द्र॑म्। ए॒व। स्वसा॑रौ। मा॒त॒रिभ्व॑री॒ इति॑। अ॒रि॒प्रे इति॑। हि॒न्वन्ति॑। च॒। ए॒ने॒ इति॑। शव॑सा। व॒र्धय॑न्ति। च॒। १०७.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Thou hath Brihaddiva the great Atharvan, spoken to Indra as himself in person. T
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
-

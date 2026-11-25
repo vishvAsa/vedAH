@@ -19,9 +19,14 @@ as the Anukr. counts.
 This conquering might hath entered him, He is the sole the simple One, the One alone.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तमि॒दं निग॑तं॒ सहः॒ स ए॒ष एक॑ एक॒वृदेक॑ ए॒व ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तम्। इ॒दम्। निऽग॑तम्। सहः॑। सः। ए॒षः। एकः॑। ए॒क॒ऽवृत्। एकः॑। ए॒व। ४.१२। 
+तम्। इ॒दम्। निऽग॑तम्। सहः॑। सः। ए॒षः। एकः॑। ए॒क॒ऽवृत्। एकः॑। ए॒व। ४.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ This conquering might hath entered him, He is the sole the simple One, the One a
 
 टिप्पणी:   १२−(तम्) परमात्मानम् (इदम्) पूर्वोक्तम् (निगतम्) निश्चयेन प्राप्तम् (सहः) बलम् (सः) (एषः) (एकः) अद्वितीयः (एकवृत्) एको वर्तमानः (एकः) (एव) ॥
 </details>
-

@@ -8,9 +8,14 @@ title = "१६ शयो हत"
 lies on the ground as he were slain.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शयो॑ ह॒त इ॑व ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शयः॑। ह॒तः। इ॒व। १३१.१६। 
+शयः॑। ह॒तः। इ॒व। १३१.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ lies on the ground as he were slain.
 
 टिप्पणी:   १६−(शयः) शीङ् शयने-अच्। सर्पः। सर्प इव शत्रुः (हतः) नाशितः (इव) यथा ॥
 </details>
-

@@ -24,9 +24,15 @@ love is sought.⌋
 I pray, may he remember me, think of me, loving and beloved. Send forth the spell, ye Deities! Let him consume with love of me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒सौ मे॑ स्मरता॒दिति॑ प्रि॒यो मे॑ स्मरता॒दिति॑।  
+देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒सौ। मे॒। स्म॒र॒ता॒त्। इति॑। प्रि॒यः। मे॒। स्म॒र॒ता॒त्। इति॑। देवाः॑। प्र। हि॒णु॒त॒। स्म॒रम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३०.२। 
+अ॒सौ। मे॒। स्म॒र॒ता॒त्। इति॑। प्रि॒यः। मे॒। स्म॒र॒ता॒त्। इति॑। देवाः॑। प्र। हि॒णु॒त॒। स्म॒रम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३०.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ I pray, may he remember me, think of me, loving and beloved. Send forth the spel
 
 टिप्पणी:   २−(असौ) स्मरः (मे) अधीगर्थदयेशां कर्मणि। पा० २।३।५२। इति षष्ठी। मम (स्मरतात्) स्मृ लोटि तातङ्। स्मरतु (इति) वाक्यसमाप्तौ (प्रियः) हितकरः। अन्यद्गतम् ॥
 </details>
-

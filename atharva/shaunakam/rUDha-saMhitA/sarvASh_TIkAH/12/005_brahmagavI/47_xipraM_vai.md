@@ -21,9 +21,14 @@ described. Ludwig translates this whole section ⌊and the next⌋, p. 529.
 Quickly, when he is smitten down by death, the clamorous vul- tures cry:
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षि॒प्रं वै तस्या॒हन॑ने॒ गृध्राः॑ कुर्वत ऐल॒बम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्षि॒प्रम्। वै। तस्य॑। आ॒ऽहन॑ने। गृध्राः॑। कु॒र्व॒ते॒। ऐ॒ल॒बम्। १०.१। 
+क्षि॒प्रम्। वै। तस्य॑। आ॒ऽहन॑ने। गृध्राः॑। कु॒र्व॒ते॒। ऐ॒ल॒बम्। १०.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ Quickly, when he is smitten down by death, the clamorous vul- tures cry:
 
 टिप्पणी:   ४७−(क्षिप्रम्) शीघ्रम् (वै) एव (तस्य) ब्रह्मज्यस्य (आहनने) मारणे (गृध्राः) मांसभक्षकाः पक्षिविशेषाः (कुर्वते) (ऐलबम्) अ० ११।२।३०। इल स्वप्नक्षेपणयोः−घञ्। आङ्+एल+बण शब्दे−ड। आक्षेपध्वनिम् ॥
 </details>
-

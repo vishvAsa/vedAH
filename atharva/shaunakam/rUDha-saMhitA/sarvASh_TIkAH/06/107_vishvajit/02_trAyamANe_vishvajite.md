@@ -19,9 +19,15 @@ Ppp. has *sarvavide* instead of *viśvajite*. The comm. prefixes
 To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्राय॑माणे विश्व॒जिते॑ मा॒ परि॑ देहि।  
+विश्व॑जिद्द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्राय॑माणे। वि॒श्व॒ऽजिते॑। मा॒। परि॑। दे॒हि॒। विश्व॑ऽजित्। द्वि॒ऽपात्। च॒। सर्व॑म्। नः॒। रक्ष॑। चतुः॑ऽपात्। यत्। च॒। नः॒। स्वम्। १०७.२। 
+त्राय॑माणे। वि॒श्व॒ऽजिते॑। मा॒। परि॑। दे॒हि॒। विश्व॑ऽजित्। द्वि॒ऽपात्। च॒। सर्व॑म्। नः॒। रक्ष॑। चतुः॑ऽपात्। यत्। च॒। नः॒। स्वम्। १०७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 
 टिप्पणी:   २−यथा व्याख्यातम्−म० १ ॥
 </details>
-

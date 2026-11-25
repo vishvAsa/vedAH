@@ -19,9 +19,15 @@ noises of the bow-strings.' The verse seems rather out of order.
 To all the quarters of the sky let clang of bowstrings and our Drums. Cry out to hosts of foes that go discomfited in serried ranks.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ज्या॑घो॒षा दु॑न्दु॒भयो॒ऽभि क्रो॑शन्तु॒ या दिशः॑।  
+सेनाः॒ परा॑जिता य॒तीर॒मित्रा॑णामनीक॒शः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ज्या॒ऽघो॒षाः। दु॒न्दु॒भयः॑। अ॒भि। क्रो॒श॒न्तु॒। याः। दिशः॑। सेनाः॑। परा॑ऽजिताः। य॒तीः। अ॒मित्रा॑णाम्। अ॒नी॒क॒ऽशः। २१.९। 
+ज्या॒ऽघो॒षाः। दु॒न्दु॒भयः॑। अ॒भि। क्रो॒श॒न्तु॒। याः। दिशः॑। सेनाः॑। परा॑ऽजिताः। य॒तीः। अ॒मित्रा॑णाम्। अ॒नी॒क॒ऽशः। २१.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ To all the quarters of the sky let clang of bowstrings and our Drums. Cry out to
 
 टिप्पणी:   ९−(ज्याघोषाः) मौर्वीध्वनयः (दुन्दुभयः) (अभि) प्रति (क्रोशन्तु) गर्जन्तु (याः) या गतौ−ड, टाप्। व्यापिकाः (दिशः) अत्यन्तसंयोगे द्वितीया। पूर्वादि दिशाः (सेनाः) सेनादलान् (पराजिताः) अभिभूताः (यतीः) इण्−शतृ, ङीप्। गच्छन्तीः (अमित्राणाम्) शत्रूणाम् (अनीकशः) म० ८। श्रेण्या श्रेण्या ॥
 </details>
-

@@ -19,9 +19,16 @@ variant. *Prá kṣiṇīhi* properly ought to be divided in our text.
 As, shattered by the tempest, trees lie withering ruined on the ground. Thus over throw my rivals thou, so crush them down and ruin. them, those born before and after. Let this Varana protect thee well.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॒ वाते॑न॒ प्रक्षी॑णा वृ॒क्षाः शेरे॒ न्य᳡र्पिताः।  
+ए॒वा स॒पत्नां॒स्त्वं मम॒ प्र क्षि॑णीहि॒ न्य᳡र्पय।  
+पूर्वा॑ञ्जा॒ताँ उ॒ताप॑रान्वर॒णस्त्वा॒भि र॑क्षतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। वाते॑न। प्रऽक्षी॑णाः। वृ॒क्षाः। शेरे॑। निऽअ॑र्पिताः। ए॒व। स॒ऽपत्ना॑न्। त्वम्। मम॑। प्र। क्षि॒णी॒हि॒। नि। अ॒र्प॒य॒। पूर्वा॑न्। जा॒तान्। उ॒त। अप॑रान्। व॒र॒णः। त्वा॒। अ॒भि। र॒क्ष॒तु॒। ३.१५। 
+यथा॑। वाते॑न। प्रऽक्षी॑णाः। वृ॒क्षाः। शेरे॑। निऽअ॑र्पिताः। ए॒व। स॒ऽपत्ना॑न्। त्वम्। मम॑। प्र। क्षि॒णी॒हि॒। नि। अ॒र्प॒य॒। पूर्वा॑न्। जा॒तान्। उ॒त। अप॑रान्। व॒र॒णः। त्वा॒। अ॒भि। र॒क्ष॒तु॒। ३.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +58,3 @@ As, shattered by the tempest, trees lie withering ruined on the ground. Thus ove
 
 टिप्पणी:   १५−(यथा) (वातेन) वायुना (प्रक्षीणाः) विनाशिताः (वृक्षाः) (शेरे) छान्दसं रूपम्। शेरते। वर्तन्ते (न्यर्पिताः) नीचीकृताः (प्र क्षिणीहि) विनाशय (न्यर्पय) नीचय। अन्यत् पूर्ववत् ॥
 </details>
-

@@ -21,9 +21,15 @@ correspondent to this verse.
 May Pavamana make me pure for wisdom and for power and life, and unassailed security.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पव॑मानः पुनातु मा॒ क्रत्वे॒ दक्षा॑य जी॒वसे॑।  
+अथो॑ अरि॒ष्टता॑तये ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पव॑मानः। पु॒ना॒तु॒। मा॒। क्रत्वे॑। दक्षा॑य। जी॒वसे॑। अथो॒ इति॑। अ॒रि॒ष्टऽता॑तये। १९.२। 
+पव॑मानः। पु॒ना॒तु॒। मा॒। क्रत्वे॑। दक्षा॑य। जी॒वसे॑। अथो॒ इति॑। अ॒रि॒ष्टऽता॑तये। १९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ May Pavamana make me pure for wisdom and for power and life, and unassailed secu
 
 टिप्पणी:   २−(पवमानः) पवित्रः परमेश्वरः (पुनातु) शुद्धाचारिणं करोतु (मा) माम् (क्रत्वे) अ० ४।३१।६। उत्तमकर्मणे प्रज्ञायै वा (दक्षाय) अ० २।२९।३। प्रवृद्धाय बलाय (जीवसे) तुमर्थे सेसेन०। पा० ३।४।९। इति जीव प्राणधारणे−असे। जीवनार्थम् (अथो) अपि च (अरिष्टतातये) अ० ३।५।५। क्षेमकरणाय ॥
 </details>
-

@@ -10,13 +10,17 @@ Golden is one of them, he said.
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
-These incantations are said to be the mysterious "prattle" of my ancient clansman aitasha: the aitasha pralApa whose magical meaning was misunderstood. In them, the reference to the golden camel is an element that links the AV tradition with the I-Ir border zone -- it is notable that the founder of the Iranian counter-religion was also known by the name of the golden camel. 
+These incantations are said to be the mysterious "prattle" of my ancient clansman aitasha: the aitasha pralApa whose magical meaning was misunderstood. In them, the reference to the golden camel is an element that links the AV tradition with the I-Ir border zone -- it is notable that the founder of the Iranian counter-religion was also known by the name of the golden camel.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+हि॑र॒ण्य इत्येके॑ अब्रवीत् ॥
+</details>
 
 <details><summary>पदपाठः</summary>
 
-हि॒र॒ण्यः। इति॑। एके॑। अब्रवीत्। १३२.१४। 
+हि॒र॒ण्यः। इति॑। एके॑। अब्रवीत्। १३२.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,4 +49,3 @@ These incantations are said to be the mysterious "prattle" of my ancient clansma
 
 टिप्पणी:   पण्डित सेवकलाल कृष्णदास संशोधित पुस्तक में मन्त्र १३-१६ का पाठ इस प्रकार है ॥ हिर॑ण्य॒मित्येक॑मब्रवीत् ॥१४॥ (एकम्) एक (हिरण्यम्) हिरण्य [तेजोमय], (वा) और (द्वे) दो (यशः) यश [कीर्ति] तथा (शवः) बल है, (इति) ऐसा (अब्रवीत्) [वह, मनुष्य] कहता है ॥१४, १॥१४−(हिरण्यः) हिरण्यः=हिरण्यमयः-निरु० १०।२३। तेजोमयः (इति) एवम् (एके) केचित्। (अब्रवीत्) लडर्थे लङ्, बहुवचनस्यैकवचनम् अब्रुवन्। ब्रुवन्ति ॥
 </details>
-

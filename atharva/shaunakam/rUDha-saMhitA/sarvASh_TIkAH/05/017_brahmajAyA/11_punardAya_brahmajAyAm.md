@@ -20,9 +20,15 @@ RV. has the more antique forms *kṛtvī́* and *bhaktvā́ya* in **b** and
 Having restored the Brahman's wife, and freed them, with Gods' aid, from sin, They shared the fulness of the earth and worn themselves ex- tended sway.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पु॑न॒र्दाय॑ ब्रह्मजा॒यां कृ॒त्वा दे॒वैर्नि॑किल्बि॒षम्।  
+ऊर्जं॑ पृथि॒व्या भ॒क्त्वोरु॑गा॒यमुपा॑सते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पु॒नः॒ऽदाय॑। ब्र॒ह्म॒ऽजा॒याम्। कृ॒त्वा। दे॒वैः। नि॒ऽकि॒ल्बि॒षम्। ऊर्ज॑म्। पृ॒थि॒व्याः। भ॒क्त्वा। उ॒रु॒ऽगा॒यम्। उप॑। आ॒स॒ते॒। १७.११। 
+पु॒नः॒ऽदाय॑। ब्र॒ह्म॒ऽजा॒याम्। कृ॒त्वा। दे॒वैः। नि॒ऽकि॒ल्बि॒षम्। ऊर्ज॑म्। पृ॒थि॒व्याः। भ॒क्त्वा। उ॒रु॒ऽगा॒यम्। उप॑। आ॒स॒ते॒। १७.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Having restored the Brahman's wife, and freed them, with Gods' aid, from sin, Th
 
 टिप्पणी:   ११−(पुनर्दाय) अवश्यं दत्वा (ब्रह्मजायाम्) म० २। वेदविद्याम् (कृत्वा) विधाय (देवैः) दिव्यगुणैः (निकिल्विषम्) म० २। पापराहित्यम् (ऊर्जम्) बलकरमन्नम् (पृथिव्याः) भूमेः (भक्त्वा) भज भागे सेवायां च। विभज्य (उरुगायम्) अ० २।१२।१। उरु+गै गाने−घञ् बहुगीयमानं परमात्मानम् (उपासते) सेवन्ते ॥
 </details>
-

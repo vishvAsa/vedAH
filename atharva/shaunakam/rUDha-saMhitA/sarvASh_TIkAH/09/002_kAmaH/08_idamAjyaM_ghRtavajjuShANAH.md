@@ -20,9 +20,15 @@ pan̄kti*, as if it had 30 syllables.
 Accepting this oblation rich with fatness, be joyful here, ye Gods whose chief is Kama, Giving me freedom from mine adversaries.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒दमाज्यं॑ घृ॒तव॑ज्जुषा॒णाः काम॑ज्येष्ठा इ॒ह मा॑दयध्वम्।  
+कृ॒ण्वन्तो॒ मह्य॑मसप॒त्नमे॒व ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒दम्। आज्य॑म्। घृ॒तऽव॑त्। जु॒षा॒णाः। काम॑ऽज्येष्ठाः। इ॒ह। मा॒द॒य॒ध्व॒म्। कृ॒ण्वन्तः॑। मह्य॑म्। अ॒स॒प॒त्नम्। ए॒व। २.८। 
+इ॒दम्। आज्य॑म्। घृ॒तऽव॑त्। जु॒षा॒णाः। काम॑ऽज्येष्ठाः। इ॒ह। मा॒द॒य॒ध्व॒म्। कृ॒ण्वन्तः॑। मह्य॑म्। अ॒स॒प॒त्नम्। ए॒व। २.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Accepting this oblation rich with fatness, be joyful here, ye Gods whose chief i
 
 टिप्पणी:   ८−(इदम्) पूर्वोक्तम् (आज्यम्) म० १। समन्ताद् गतिम्। सर्वोपायम् (घृतवत्) प्रकाशयुक्तम् (जुषाणाः) सेवमानाः (कामज्येष्ठाः) कमनीयः परमेश्वरः सर्ववृद्धो येषां ते (इह) अस्मिन् जीवने (मादयध्वम्) अस्मान् तर्पयत (कृण्वन्तः) कुर्वन्तः। अन्यत् पूर्ववत्-म० ७ ॥
 </details>
-

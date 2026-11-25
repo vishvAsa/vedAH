@@ -18,9 +18,14 @@ This superfluous equivalent of §5 is wanting in Ppp.
 She mounted up, she passed within the meeting. He who knows this becomes fit for the meeting, and to his hall of meeting come the people.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोद॑क्राम॒त्सा द॑क्षिणा॒ग्नौ न्य᳡क्रामत्।
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अ॒क्रा॒म॒त्। सा। द॒क्षि॒ण॒ऽअ॒ग्नौ। नि। अ॒क्रा॒म॒त्। १०.६। 
+सा। उत्। अ॒क्रा॒म॒त्। सा। द॒क्षि॒ण॒ऽअ॒ग्नौ। नि। अ॒क्रा॒म॒त्। १०.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ She mounted up, she passed within the meeting. He who knows this becomes fit for
 
 टिप्पणी:   ६−(दक्षिणाग्नौ) द्रुदक्षिभ्यामिनन्। उ० २।५०। दक्ष वृद्धौ-इनन्। प्रवृद्धे पावके सूर्यस्य यज्ञस्य वा। अन्यत् पूर्ववत् ॥
 </details>
-

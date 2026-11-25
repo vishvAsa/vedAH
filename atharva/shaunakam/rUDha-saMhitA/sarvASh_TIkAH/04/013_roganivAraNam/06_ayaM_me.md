@@ -19,9 +19,15 @@ of RV. x. 137. 6.
 Felicitous is this my hand, yet more felicitous is this. This hand contains all healing balms, and this makes whole with gentle touch.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒यं मे॒ हस्तो॒ भग॑वान॒यं मे॒ भग॑वत्तरः।  
+अ॒यं मे॑ वि॒श्वभे॑षजो॒ऽयं शि॒वाभि॑मर्शनः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। मे॒। हस्तः॑। भग॑ऽवान्। अ॒यम्। मे॒। भग॑वत्ऽतरः। अ॒यम्। मे॒। वि॒श्वऽभे॑षजः। अ॒यम्। शि॒वऽअ॑भिमदर्शनः। १३.६। 
+अ॒यम्। मे॒। हस्तः॑। भग॑ऽवान्। अ॒यम्। मे॒। भग॑वत्ऽतरः। अ॒यम्। मे॒। वि॒श्वऽभे॑षजः। अ॒यम्। शि॒वऽअ॑भिमदर्शनः। १३.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Felicitous is this my hand, yet more felicitous is this. This hand contains all 
 
 टिप्पणी:   ६−(अयम्) दृश्यमानो वामहस्तः (मे) मदीयः (हस्तः) करः (भगवान्) भाग्यवान्। समर्थः (अयम्) दक्षिणहस्तः (भगवत्तरः) वामहस्ताद् अधिकभाग्यवान् (विश्वभेषजः) सर्वरोगनिवर्तकः (शिवाभिमर्शनः) मङ्गलस्पर्शयुक्तः। सुखस्पर्शः ॥
 </details>
-

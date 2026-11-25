@@ -8,9 +8,14 @@ title = "१३ सघाघते गोमीद्या"
 As by their dung the course of kine. What wouldst thou in the home of men? (with next verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सघा॑घते॒ गोमी॒द्या गोग॑ती॒रिति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सघा॑घते॒। गोमीद्या। गोगी॑तीः॒। इति॑। १२९.१३। 
+सघा॑घते॒। गोमीद्या। गोगी॑तीः॒। इति॑। १२९.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ As by their dung the course of kine. What wouldst thou in the home of men? (with
 
 टिप्पणी:   १३−(सघाघते) म० १। साहयते (गोमीद्या) गौर्वाङ्नाम-निघ० १।११। अघ्न्यादयश्च। उ० ४।११२। मिदृ मेधाहिंसनयोः-यक्, टाप्, दीर्घश्च। गां वेदवाणीं मेदते प्रजानाति या सा (गोगतीः) गवि पृथिव्यां गतियुक्ताः प्रजाः (इति) एवमस्ति ॥
 </details>
-

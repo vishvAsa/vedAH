@@ -17,9 +17,14 @@ husks.
 Horses are the grains, oxen the winnowed ricegrains, gnats the husks.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अश्वाः॒ कणा॒ गाव॑स्तण्डु॒ला म॒शका॒स्तुषाः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अश्वाः॑। कणाः॑। गावः॑। त॒ण्डु॒लाः। म॒शकाः॑। तुषाः॑। ३.५। 
+अश्वाः॑। कणाः॑। गावः॑। त॒ण्डु॒लाः। म॒शकाः॑। तुषाः॑। ३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Horses are the grains, oxen the winnowed ricegrains, gnats the husks.
 
 टिप्पणी:   ५−(अश्वाः) मार्गव्यापिनो घोटकाः (कणाः) क्षुद्रांशाः (गावः) गवादिजन्तवः (तण्डुलाः) अ० १०।९।२६। तुषरहिता व्रीहयः (मशकाः) अ० ४।२६।९। दशकाः (तुषाः) धान्यत्वचाः ॥
 </details>
-

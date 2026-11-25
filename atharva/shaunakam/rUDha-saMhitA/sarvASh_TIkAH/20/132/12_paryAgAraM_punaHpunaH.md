@@ -8,9 +8,14 @@ title = "१२ पर्यागारं पुनःपुनः"
 beat again again about the house?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पर्या॑गारं॒ पुनः॑पुनः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परिऽआ॑गारम्। पुनः॑ऽपुनः। १३२.१२। 
+परिऽआ॑गारम्। पुनः॑ऽपुनः। १३२.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ beat again again about the house?
 
 टिप्पणी:   १२−(पर्यागारम्) परि+अग कुटिलायां गतौ-घञ्, आगमृच्छति ऋ गतौ-अण्। आगारं गृहम्। प्रतिगृहम्। (पुनःपुनः) वारंवारम् ॥
 </details>
-

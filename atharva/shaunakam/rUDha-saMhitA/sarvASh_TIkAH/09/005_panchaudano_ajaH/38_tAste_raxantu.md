@@ -27,9 +27,14 @@ fails to coincide with the *anuvāka*-division.⌋
 May these preserve him for thee. Here I offer t o these the molten butter as oblation.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तास्ते॑ रक्षन्तु॒ तव॒ तुभ्य॑मे॒तं ता॑भ्य॒ आज्यं॑ ह॒विरि॒दं जु॑होमि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ताः। ते॒। र॒क्ष॒न्तु॒। तव॑। तुभ्य॑म्। ए॒तम्। ताभ्यः॑। आज्य॑म्। ह॒विः। इ॒दम्। जु॒हो॒मि॒। ५.३८। 
+ताः। ते॒। र॒क्ष॒न्तु॒। तव॑। तुभ्य॑म्। ए॒तम्। ताभ्यः॑। आज्य॑म्। ह॒विः। इ॒दम्। जु॒हो॒मि॒। ५.३८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +64,3 @@ May these preserve him for thee. Here I offer t o these the molten butter as obl
 
 टिप्पणी:   ३८−(ताः) पूर्वोक्ता दिशाः (ते) तुभ्यम् (रक्षन्तु) पान्तु (तव) (तुभ्यम्) वीप्सायां द्विर्वचनम् (एतम्) जीवात्मानम् (ताभ्यः) दिशानां सकाशात् (आज्यम्) अ० ५।८।१। आङ्+अञ्जू व्यक्तीकरणे-क्यप्। व्यक्तीकरणीयम्। व्याख्यातव्यम् (हविः) ग्राह्यं कर्म (इदम्) (जुहोमि) आददे। गृह्णामि ॥
 </details>
-

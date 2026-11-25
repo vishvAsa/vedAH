@@ -8,9 +8,15 @@ title = "१३ उदु त्यम्"
 His bright rays bear him up aloft, the God who knoweth all that= is, Surya, that every one may see.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑।  
+दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। ऊं॒ इति॑। त्यम्। जा॒तऽवे॑दसम्। दे॒वम्। व॒ह॒न्ति॒। के॒तवः॑। दृ॒शे। विश्वा॑य। सूर्य॑म्। ४७.१३। 
+उत्। ऊं॒ इति॑। त्यम्। जा॒तऽवे॑दसम्। दे॒वम्। व॒ह॒न्ति॒। के॒तवः॑। दृ॒शे। विश्वा॑य। सूर्य॑म्। ४७.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ His bright rays bear him up aloft, the God who knoweth all that= is, Surya, that
 
 टिप्पणी:   मन्त्र १३-२१ आ चुके हैं-अ० १३।२।१६-२४ ॥  १३-२१−एते मन्त्रा व्याख्याताः-अ० १३।२।१६-२४ ॥
 </details>
-

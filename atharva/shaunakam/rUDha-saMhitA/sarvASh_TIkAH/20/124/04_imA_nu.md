@@ -8,9 +8,15 @@ title = "०४ इमा नु"
 We will, with Indra and all Gods to help us, bring these existing worlds into subjection. Our sacrifice, our bodies, and our offspring shall Indra form together with the Adityas.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒मा नु कं॒ भुव॑ना सीषधा॒मेन्द्र॑श्च॒ विश्वे॑ च दे॒वाः।  
+य॒ज्ञं च॑ नस्त॒न्वं᳡ च प्र॒जां चा॑दि॒त्यैरिन्द्रः॑ स॒ह ची॑क्लृपाति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒मा। नु। क॒म्। भुव॑ना। सी॒स॒धा॒म॒। इन्द्रः॑। च॒। विश्वे॑। च॒। दे॒वाः। य॒ज्ञम्। च॒। नः॒। त॒न्व॑म्। च॒। प्र॒ऽजाम्। च॒। आ॒दि॒त्यैः। इन्द्रः॑। स॒ह। ची॒क्लृ॒पा॒ति॒। १२४.४। 
+इ॒मा। नु। क॒म्। भुव॑ना। सी॒स॒धा॒म॒। इन्द्रः॑। च॒। विश्वे॑। च॒। दे॒वाः। य॒ज्ञम्। च॒। नः॒। त॒न्व॑म्। च॒। प्र॒ऽजाम्। च॒। आ॒दि॒त्यैः। इन्द्रः॑। स॒ह। ची॒क्लृ॒पा॒ति॒। १२४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ We will, with Indra and all Gods to help us, bring these existing worlds into su
 
 टिप्पणी:   मन्त्र ४-६ आचुके हैं-अथ० २०।६३।१-३ ॥  ४-६−एते मन्त्रा व्याख्याताः-अथ० ६३।१-३ ॥
 </details>
-

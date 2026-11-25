@@ -17,9 +17,14 @@ well-joined ones: hail!
 Let Indra in this rite in varied manner--All hail!--use powers,. his well-yoked coursers.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रो॑ युनक्तु बहु॒धा पयां॑स्य॒स्मिन्य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। वी॒र्या᳡णि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.११। 
+इन्द्रः॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। वी॒र्या᳡णि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Let Indra in this rite in varied manner--All hail!--use powers,. his well-yoked 
 
 टिप्पणी:   ११−(इन्द्रः) प्रतापी पुरुषः (वीर्याणि) वीर-यत्। वीरकर्माणि ॥ ०५।०२६।१२ ॥
 </details>
-

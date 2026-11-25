@@ -8,9 +8,15 @@ title = "१० स राजसि"
 Such, praised by many! thou art King. Alone thou smitest foe- men dead, To gain, O Indra, spoils of war and high renown.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स रा॑जसि पुरुष्टुतँ॒ एको॑ वृ॒त्राणि॑ जिघ्नसे।  
+इन्द्र॒ जैत्रा॑ श्रवस्या᳡ च॒ यन्त॑वे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। रा॒ज॒सि॒। पु॒रु॒ऽस्तु॒त॒। एकः॑। वृ॒त्राणि॑। जि॒घ्न॒से॒। इन्द्र॑। जैत्रा॑। श्र॒व॒स्या॑। च॒। यन्त॑वे। ६२.१०। 
+सः। रा॒ज॒सि॒। पु॒रु॒ऽस्तु॒त॒। एकः॑। वृ॒त्राणि॑। जि॒घ्न॒से॒। इन्द्र॑। जैत्रा॑। श्र॒व॒स्या॑। च॒। यन्त॑वे। ६२.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Such, praised by many! thou art King. Alone thou smitest foe- men dead, To gain,
 
 टिप्पणी:   ८-१०−एते मन्त्रा व्याख्याताः-अ० २०।६१।४-६ ॥
 </details>
-

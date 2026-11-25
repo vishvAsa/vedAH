@@ -8,9 +8,15 @@ title = "०४ आयं गौः"
 This brindled Bull hath come and sat before the Mother in the east, Advancing to the Father Heaven.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः।  
+पि॒तरं॑ च प्र॒यन्त्स्वः᳡ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। अ॒यम्। गौः। पृश्निः॑। अ॒क्र॒मी॒त्। अस॑दत्। मा॒तर॑म्। पु॒रः। पि॒तर॑म्। च॒। प्र॒ऽयन्। स्वः॑। ४८.४। 
+आ। अ॒यम्। गौः। पृश्निः॑। अ॒क्र॒मी॒त्। अस॑दत्। मा॒तर॑म्। पु॒रः। पि॒तर॑म्। च॒। प्र॒ऽयन्। स्वः॑। ४८.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ This brindled Bull hath come and sat before the Mother in the east, Advancing to
 
 टिप्पणी:   मन्त्र ४-६ आचुके हैं-अ० ६।३१।१-३, वहाँ सविस्तार अर्थ देखो।  ४-६−एते मन्त्रा व्याख्याताः-अ० ६।३१।१-३ ॥
 </details>
-

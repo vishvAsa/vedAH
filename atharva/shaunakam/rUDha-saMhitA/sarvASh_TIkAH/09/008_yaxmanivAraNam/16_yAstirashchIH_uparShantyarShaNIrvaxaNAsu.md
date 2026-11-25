@@ -18,9 +18,15 @@ Ppp. reads in **b** *vakṣaṇābhyaḥ*, and omits the following *te*.
 The penetrating pangs that pierce thy stomach as they shoot across, Let them depart and pass away, free from disease and harming not.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यास्ति॒रश्चीः॑ उप॒र्षन्त्य॑र्ष॒णीर्व॒क्षणा॑सु ते।  
+अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। ति॒रश्चीः॑। उ॒प॒ऽऋ॒षन्ति॑। अ॒र्ष॒णीः। व॒क्षणा॑सु। ते॒। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१६। 
+याः। ति॒रश्चीः॑। उ॒प॒ऽऋ॒षन्ति॑। अ॒र्ष॒णीः। व॒क्षणा॑सु। ते॒। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The penetrating pangs that pierce thy stomach as they shoot across, Let them dep
 
 टिप्पणी:   १६−(याः) (तिरश्चीः) वक्रगामिन्यः (अर्षणीः) म० १३। महापीडाः (वक्षणासु) अ० ७।११४।१। वक्षःस्थलेषु। अन्यत् पूर्ववत् ॥
 </details>
-

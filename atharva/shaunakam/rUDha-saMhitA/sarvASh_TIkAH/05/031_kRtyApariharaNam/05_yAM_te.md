@@ -18,9 +18,15 @@ what witchcraft they have made—I take that back again.
 The spell that wicked men have cast on thine original household- fire, And on thy sacrificial hall, this I strike back again on them.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यां ते॑ च॒क्रुर्गार्ह॑पत्ये पूर्वा॒ग्नावु॒त दु॒श्चितः॑।  
+शाला॑यां कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याम्। ते॒। च॒क्रुः। गार्ह॑ऽपत्ये। पू॒र्व॒ऽअ॒ग्नौ। उ॒त। दुः॒ऽचितः॑। शाला॑याम्। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.५। 
+याम्। ते॒। च॒क्रुः। गार्ह॑ऽपत्ये। पू॒र्व॒ऽअ॒ग्नौ। उ॒त। दुः॒ऽचितः॑। शाला॑याम्। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The spell that wicked men have cast on thine original household- fire, And on th
 
 टिप्पणी:   ५−(गार्हपत्ये) गृहपतिना संयुक्ते ञ्यः। पा० ४।४।९०। इति गृहपति−ञ्य गृहपतिना संयुक्ते कर्मणि (पूर्वाग्नौ) पूर्वपूतौ निवासे च−अच्। निवास−हेतौ पावकादौ (उत) अपि (दुश्चितः) दुस्+चिती संज्ञाने−क्विप्। दुष्टचिन्तकाः (शालायाम्) गृहे। अन्यद् गतम् ॥
 </details>
-

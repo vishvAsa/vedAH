@@ -17,9 +17,14 @@ title = "१८ वज्रो धावन्ती"
 Running she is a thunderbolt, when driven away she is Vaisva- nara;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वज्रो॒ धाव॑न्ती वैश्वान॒र उद्वी॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वज्रः॑। धाव॑न्ती। वै॒श्वा॒न॒रः। उत्ऽवी॑ता। ७.७। 
+वज्रः॑। धाव॑न्ती। वै॒श्वा॒न॒रः। उत्ऽवी॑ता। ७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Running she is a thunderbolt, when driven away she is Vaisva- nara;
 
 टिप्पणी:   १८−(वज्रः) (धावन्ती) शीघ्रं गच्छन्ती (वैश्वानरः) अ० १।१०।४। विश्व+नॄ प्रापणे−अच्, स्वार्थे−अण्। वैश्वानरः कस्माद् विश्वान् नरान् नयतीति−निरु० ७।२१। सर्वनायकः पुरुषो यथा (उद्वीता) वी गतौ−क्त। उदयं गता ॥
 </details>
-

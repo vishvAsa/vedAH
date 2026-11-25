@@ -24,9 +24,15 @@ most unnecessarily; he reads in **d** *rakṣati*, but glosses it with
 Let Soma guard thee with the plants, Surya protect thee with the stars; With breath let Wind protect thee, and the Moon, foe-slayer, with the months.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोम॑स्त्वा पा॒त्वोष॑धीभि॒र्नक्ष॑त्रैः पातु॒ सूर्यः॑।  
+मा॒द्भ्यस्त्वा॑ च॒न्द्रो वृ॑त्र॒हा वातः॑ प्रा॒णेन॑ रक्षतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सोमः॑। त्वा॒। पा॒तु॒। ओष॑धीभिः। नक्ष॑त्रैः। पा॒तु॒। सूर्यः॑। मा॒त्ऽभ्यः। त्वा॒। च॒न्द्रः। वृ॒त्र॒ऽहा। वातः॑। प्रा॒णेन॑। र॒क्ष॒तु॒। २७.२। 
+सोमः॑। त्वा॒। पा॒तु॒। ओष॑धीभिः। नक्ष॑त्रैः। पा॒तु॒। सूर्यः॑। मा॒त्ऽभ्यः। त्वा॒। च॒न्द्रः। वृ॒त्र॒ऽहा। वातः॑। प्रा॒णेन॑। र॒क्ष॒तु॒। २७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Let Soma guard thee with the plants, Surya protect thee with the stars; With bre
 
 टिप्पणी:   २−(सोमः) सोमरसः (त्वा) (पातु) (ओषधीभिः) (नक्षत्रैः) (पातु) (सूर्यः) लोकानां प्रेरक आदित्यः (माद्भ्यः) मासानां हिताय (त्वा) (चन्द्रः) आह्लादकश्चन्द्रमाः (वृत्रहा) शत्रुनाशकः (वातः) पवनः (प्राणेन) जीवनसामर्थ्येन (रक्षतु) ॥
 </details>
-

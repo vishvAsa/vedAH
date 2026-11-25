@@ -17,9 +17,15 @@ voice (*vā́c*) of all the gods, do we ward off thy *yákṣma*.
 We with the speech of Indra and of Mitra and of Varuna. We with the speech of all the Gods will drive Decline away from thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्र॑स्य॒ वच॑सा व॒यं मि॒त्रस्य॒ वरु॑णस्य च।  
+दे॒वानां॒ सर्वे॑षां वा॒चा यक्ष्मं॑ ते वारयामहे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑स्य। वच॑सा। व॒यम्। मि॒त्रस्य॑। वरु॑णस्य। च॒। दे॒वाना॑म्। सर्वे॑षाम्। वा॒चा। यक्ष्म॑म्। ते॒। वा॒र॒या॒म॒हे॒। ८५.२। 
+इन्द्र॑स्य। वच॑सा। व॒यम्। मि॒त्रस्य॑। वरु॑णस्य। च॒। दे॒वाना॑म्। सर्वे॑षाम्। वा॒चा। यक्ष्म॑म्। ते॒। वा॒र॒या॒म॒हे॒। ८५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ We with the speech of Indra and of Mitra and of Varuna. We with the speech of al
 
 टिप्पणी:   २−(इन्द्रस्य) प्रतापिनः पुरुषस्य (वचसा) वचनेन। उपदेशेन (वयम्) पुरुषार्थिनः (मित्रस्य) स्नेहिनः (वरुणस्य) वरणीयस्य। सेवनीयस्य (च) (देवानाम्) व्यवहारिणां विदुषाम् (सर्वेषाम्) समस्तानाम् (वाचा) वचनेन (यक्ष्मम्) राजरोगम् (ते) तव (वारयामहे) निवारयामः ॥
 </details>
-

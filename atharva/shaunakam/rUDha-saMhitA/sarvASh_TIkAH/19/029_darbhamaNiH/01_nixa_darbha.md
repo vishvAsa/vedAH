@@ -20,9 +20,15 @@ rather the root *cumb* 'harm,' *hiṅsāyām*, not *cumb, vaktrasaṁyoge.*⌋
 Pierce thou my rivals, Darbha, pierce the men who fain would fight with me. Pierce all who wish me evil, pierce the men who hate me,. Amulet!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+निक्ष॑ दर्भ स॒पत्ना॑न्मे॒ निक्ष॑ मे पृतनाय॒तः।  
+निक्ष॑ मे॒ सर्वा॑न्दु॒र्हार्दो॒ निक्ष॑ मे द्विष॒तो म॑णे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-निक्ष॑। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। निक्ष॑। मे॒। पृ॒त॒ना॒ऽय॒तः। निक्ष॑। मे॒। सर्वा॑न्। दुः॒ऽहार्दः॑। निक्ष॑। मे॒। द्वि॒ष॒तः। म॒णे॒। २९.१। 
+निक्ष॑। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। निक्ष॑। मे॒। पृ॒त॒ना॒ऽय॒तः। निक्ष॑। मे॒। सर्वा॑न्। दुः॒ऽहार्दः॑। निक्ष॑। मे॒। द्वि॒ष॒तः। म॒णे॒। २९.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Pierce thou my rivals, Darbha, pierce the men who fain would fight with me. Pier
 
 टिप्पणी:   १−(निक्ष) णिक्ष चुम्बने, अत्र पीडने। पीडय ॥
 </details>
-

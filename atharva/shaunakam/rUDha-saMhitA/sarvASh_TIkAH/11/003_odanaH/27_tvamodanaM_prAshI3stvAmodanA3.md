@@ -19,9 +19,14 @@ natural accent on the final, there is no discordance as to *odanā́3ḥ*.
 Thou hast eaten the Odana and the Odana will eat thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वमो॑द॒नं प्राशी३स्त्वामो॑द॒ना३ इति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वम्। ओ॒द॒नम्। प्र। आ॑शी३ः। त्वाम्। ओ॒द॒ना३ः। इति॑। ३.२७। 
+त्वम्। ओ॒द॒नम्। प्र। आ॑शी३ः। त्वाम्। ओ॒द॒ना३ः। इति॑। ३.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Thou hast eaten the Odana and the Odana will eat thee.
 
 टिप्पणी:   २७−(त्वम्) (ओदनम्) सुखवर्षकमन्नरूपं परमात्मानम् (प्र) (आशीः३) म० २६। भक्षितवानसि (ओदनाः ३) विचार्यमाणानाम्। पा० ८।२।९७। इति प्लुतः। सुखवर्षकोऽन्नतुल्यः परमेश्वरः (इति) वाक्यसमाप्तौ ॥
 </details>
-

@@ -17,9 +17,15 @@ upon Prajāpati with generative qualities.
 Let those who vex me from the nadir, sinners, extol Prajapati of genial power.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒जाप॑तिं॒ ते प्र॒जन॑नवन्तमृच्छन्तु।  
+ये मा॑ऽघा॒यवो॑ ध्रु॒वाया॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒जाऽप॑तिम्। ते। प्र॒जन॑नऽवन्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ध्रु॒वायाः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.९। 
+प्र॒जाऽप॑तिम्। ते। प्र॒जन॑नऽवन्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ध्रु॒वायाः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Let those who vex me from the nadir, sinners, extol Prajapati of genial power.
 
 टिप्पणी:   ९−(प्रजापतिम्) सर्वपालकं परमात्मानम् (प्रजननवन्तम्) सृजनसामर्थ्यस्वामिनम् (ध्रुवायाः) स्थिरायाः। अधःस्थितायाः। अन्यत् पूर्ववत् ॥
 </details>
-

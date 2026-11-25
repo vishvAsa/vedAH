@@ -8,9 +8,15 @@ title = "०८ सहस्राक्षेण शतवीर्येण"
 With thousand-eyed oblation, hundred-autumned, bringing a hundred lives, have restored him. That Indra for a hundred years may lead him safe to the farther shore of all misfortune.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑हस्रा॒क्षेण॑ श॒तवी॑र्येण श॒तायु॑षा ह॒विषाहा॑र्षमेनम्।  
+इन्द्रो॒ यथै॑नं श॒रदो॒ नया॒त्यति॒ विश्व॑स्य दुरि॒तस्य॑ पा॒रम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒ह॒स्र॒ऽअ॒क्षेण॑। श॒तऽवी॑र्येण। श॒तऽआ॑युषा। ह॒विषा॑। आ। अ॒हा॒र्ष॒म्। ए॒न॒म्। इन्द्रः॑। यथा॑। ए॒न॒म्। श॒रदः॑। नया॑ति। अति॑। विश्व॑स्य। दुः॒ऽइ॒तस्य॑। पा॒रम्। ९६.८। 
+स॒ह॒स्र॒ऽअ॒क्षेण॑। श॒तऽवी॑र्येण। श॒तऽआ॑युषा। ह॒विषा॑। आ। अ॒हा॒र्ष॒म्। ए॒न॒म्। इन्द्रः॑। यथा॑। ए॒न॒म्। श॒रदः॑। नया॑ति। अति॑। विश्व॑स्य। दुः॒ऽइ॒तस्य॑। पा॒रम्। ९६.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ With thousand-eyed oblation, hundred-autumned, bringing a hundred lives, have re
 
 टिप्पणी:   ६-९−व्याख्याताः-अ० ३।११।१-४ ॥
 </details>
-

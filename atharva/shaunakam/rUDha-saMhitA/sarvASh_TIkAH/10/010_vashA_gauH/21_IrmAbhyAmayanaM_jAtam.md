@@ -20,9 +20,15 @@ Ppp. reads at the beginning *ayurmābhyām*, and in **c** *yatrā jajñire*.
 From thy fore-quarters and thy thighs motion was generated, Cow! Food from thine entrails was produced, and from thy belly came the plants.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ई॒र्माभ्या॒मय॑नं जा॒तं सक्थि॑भ्यां च वशे॒ तव॑।  
+आ॒न्त्रेभ्यो॑ जज्ञिरे अ॒त्रा उ॒दरा॒दधि॑ वी॒रुधः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ई॒र्माभ्या॑म्‌। अय॑नम्। जा॒तम्। सक्थि॑ऽभ्याम्। च॒। व॒शे॒। तव॑। आ॒न्त्रेभ्यः॑। ज॒ज्ञि॒रे॒। अ॒त्राः। उ॒दरा॑त्। अधि॑। वी॒रुधः॑। १०.२१। 
+ई॒र्माभ्या॑म्‌। अय॑नम्। जा॒तम्। सक्थि॑ऽभ्याम्। च॒। व॒शे॒। तव॑। आ॒न्त्रेभ्यः॑। ज॒ज्ञि॒रे॒। अ॒त्राः। उ॒दरा॑त्। अधि॑। वी॒रुधः॑। १०.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ From thy fore-quarters and thy thighs motion was generated, Cow! Food from thine
 
 टिप्पणी:   २१−(ईर्माभ्याम्) इषियुधीन्धि०। उ० १।१४५। ईर गतिकम्पनयोः−मक्। जङ्घाधोभागाभ्याम् (अयनम्) अय गतौ-ल्युट्। गतिः। दक्षिणत उत्तरस्याम्, उत्तरतश्च दक्षिणस्यां दिशि सूर्यस्य गतिः (सक्थिभ्याम्) अ० ६।९।१। जङ्घाभ्याम् (च) (वशे) (तव) (अत्राः) अ० ९।७।१६। अद भक्षणे−क्त्र। भोजनपदार्थाः। अन्यद् गतम्-अ० ९।७।१६ ॥
 </details>
-

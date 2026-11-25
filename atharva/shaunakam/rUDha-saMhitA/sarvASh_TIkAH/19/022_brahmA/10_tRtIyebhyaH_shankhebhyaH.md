@@ -22,9 +22,14 @@ xviii. 3. 47.—Two of W's later collated mss., D.L., have rightly
 To the third shells, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तृ॒तीये॑भ्यः श॒ङ्खेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तृ॒ती॒येभ्यः॑। श॒ङ्खेभ्यः॑। स्वाहा॑। २२.१०। 
+तृ॒ती॒येभ्यः॑। श॒ङ्खेभ्यः॑। स्वाहा॑। २२.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +59,3 @@ To the third shells, Hail!
 
 टिप्पणी:   १०−(तृतीयेभ्यः) आद्यन्तापेक्षया मध्ये वर्तमानेभ्यः (शङ्खेभ्यः) म०८। शान्तिप्रदगुणेभ्यः ॥
 </details>
-

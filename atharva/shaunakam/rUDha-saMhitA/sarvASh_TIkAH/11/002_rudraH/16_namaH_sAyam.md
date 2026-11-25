@@ -17,9 +17,15 @@ homage by day; to Bhava and to śarva, to both have I paid homage.
 Homage at evening and at morn, homage at night, homage by day . To Bhava and to Sarva, both, have I paid lowly reverence,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नमः॑ सा॒यं नमः॑ प्रा॒तर्नमो॒ रात्र्या॒ नमो॒ दिवा॑।  
+भ॒वाय॑ च श॒र्वाय॑ चो॒भाभ्या॑मकरं॒ नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नमः॑। सा॒यम्। नमः॑। प्रा॒तः। नमः॑। रात्र्या॑। नमः॑। दिवा॑। भ॒वाय॑। च॒। श॒र्वाय॑। च॒। उ॒भाभ्या॑म्। अ॒क॒र॒म्। नमः॑। २.१६। 
+नमः॑। सा॒यम्। नमः॑। प्रा॒तः। नमः॑। रात्र्या॑। नमः॑। दिवा॑। भ॒वाय॑। च॒। श॒र्वाय॑। च॒। उ॒भाभ्या॑म्। अ॒क॒र॒म्। नमः॑। २.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Homage at evening and at morn, homage at night, homage by day . To Bhava and to 
 
 टिप्पणी:   १६−(नमः) नमस्कारः (सायम्) सूर्यास्तसमये (प्रातः) प्रभातसमये (रात्र्या) रात्रिसमये (दिवा) दिनकाले (भवाय) म० ३। सुखोत्पादकाय (च च) समुच्चये (शर्वाय) म० ३। दुःखनाशकाय (उभाभ्याम्) द्वाभ्यां गुणाभ्याम् (अकरम्) अहं कृतवानस्मि। अन्यद् गतम् ॥
 </details>
-

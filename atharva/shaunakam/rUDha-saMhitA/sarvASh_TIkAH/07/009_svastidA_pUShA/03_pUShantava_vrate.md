@@ -21,9 +21,15 @@ authorities as reading *nā́* at beginning of **b**.
 We are thy praisers here, O Pushan: never let us be injured under thy protection.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पूष॒न्तव॑ व्र॒ते व॒यं न रि॑ष्येम क॒दा च॒न।  
+स्तो॒तार॑स्त इ॒ह स्म॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पूष॑न्। तव॑। व्र॒ते। व॒यम्। न। रि॒ष्ये॒म। क॒दा। च॒न। स्तो॒तारः॑। ते॒। इ॒ह। स्म॒सि॒। १०.३। 
+पूष॑न्। तव॑। व्र॒ते। व॒यम्। न। रि॒ष्ये॒म। क॒दा। च॒न। स्तो॒तारः॑। ते॒। इ॒ह। स्म॒सि॒। १०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ We are thy praisers here, O Pushan: never let us be injured under thy protection
 
 टिप्पणी:   ३−(पूषन्) पोषक परमात्मन् (तव) (व्रते) वरणीये नियमे (वयम्) उपासकाः (न) निषेधे (रिष्येम) रिष हिंसायाम्, दैवादिकः, अकर्मकः। हिंसिता भवेम (कदा चन) कदापि (स्तोतारः) स्तावकाः (ते) तव (इह) अत्र (स्मसि) स्मः। भवामः ॥
 </details>
-

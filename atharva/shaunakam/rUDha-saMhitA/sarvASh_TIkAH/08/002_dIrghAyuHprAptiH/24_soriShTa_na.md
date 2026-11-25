@@ -20,9 +20,15 @@ with the two clauses inverted.⌋
 Thou, still uninjured, shalt not die: be not afraid; thou shalt not die. Here where I am men do not die or go to lowest depths of gloom.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सो᳡रि॑ष्ट॒ न म॑रिष्यसि॒ न म॑रिष्यसि॒ मा बि॑भेः।  
+न वै तत्र॑ म्रियन्ते॒ नो य॑न्ति अध॒मं तमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। अ॒रि॒ष्ट॒। न। म॒रि॒ष्य॒सि॒। न। म॒रि॒ष्य॒सि॒। मा। ब‍ि॒भेः॒। न। वै। तत्र॑। म्रि॒य॒न्ते॒। नो इति॑। य॒न्ति॒। अ॒ध॒मम्। तमः॑। २.२४। 
+सः। अ॒रि॒ष्ट॒। न। म॒रि॒ष्य॒सि॒। न। म॒रि॒ष्य॒सि॒। मा। ब‍ि॒भेः॒। न। वै। तत्र॑। म्रि॒य॒न्ते॒। नो इति॑। य॒न्ति॒। अ॒ध॒मम्। तमः॑। २.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Thou, still uninjured, shalt not die: be not afraid; thou shalt not die. Here wh
 
 टिप्पणी:   २४−(सः) स त्वम् (अरिष्ट) हे निर्हाने (न) निषेधे (मरिष्यसि) प्राणान् त्यक्ष्यसि (न) (मरिष्यसि) (मा बिभेः) भीतिं मा कुरु (न) (वै) अवश्यम् (तत्र) ब्रह्मणि-मन्त्र २५ (म्रियन्ते) प्राणान् त्यजन्ति (नो) नैव (यन्ति) प्राप्नुवन्ति (अधमम्) नीचीनम् (तमः) अन्धकारम् ॥
 </details>
-

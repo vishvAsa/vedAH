@@ -27,9 +27,15 @@ on smearing the *piṇḍas* with sacrificial butter.
 To these, thy Fathers who have passed away at first and after- ward, Let the full brook of butter run, o'erflowing with a hundred streams.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये ते॒ पूर्वे॒परा॑गता॒ अप॑रे पि॒तर॑श्च॒ ये।  
+तेभ्यो॑ घृ॒तस्य॑ कु॒ल्यै᳡तु श॒तधा॑राव्युन्द॒ती ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। ते॒। पूर्वे॑। परा॑ऽगताः। अप॑रे। पि॒तरः॑। च॒। ये। तेभ्यः॑। घृ॒तस्य॑। कु॒ल्या॑। ए॒तु॒। श॒तऽधा॑रा। वि॒ऽउ॒द॒न्ती। ३.७२। 
+ये। ते॒। पूर्वे॑। परा॑ऽगताः। अप॑रे। पि॒तरः॑। च॒। ये। तेभ्यः॑। घृ॒तस्य॑। कु॒ल्या॑। ए॒तु॒। श॒तऽधा॑रा। वि॒ऽउ॒द॒न्ती। ३.७२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ To these, thy Fathers who have passed away at first and after- ward, Let the ful
 
 टिप्पणी:   ७२−(ये) (ते)तव (पूर्वे) प्राचीनाः (परागताः) प्राधान्येन मताः (अपरे) पश्चाद्भाविनः।अर्वाचीनाः (पितरः) पालका महात्मानः (च) (ये) (तेभ्यः) पितॄणां हिताय (घृतस्य)उदकस्य-निघ० १।१२ कुल्या) कुल-यत्, यद्वा कुल बन्धे संहतौ च-क्यप्, टाप्, कृत्रिमाल्पा नदी (शतधारा) बहुधाराभिरुपेता (व्युन्दन्ती) विशेषेणआर्द्रीकुर्वती ॥
 </details>
-

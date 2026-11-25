@@ -18,9 +18,15 @@ The third pāda has a redundant syllable.
 Even as his mouth is parched who finds no water for his burn- ing thirst, So parch and burn with longing, go with lips that love of me hath dried.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथो॑द॒कमप॑पुषोऽप॒शुष्य॑त्या॒स्य᳡म्।  
+ए॒वा नि शु॑ष्य॒ मां कामे॒नाथो॒ शुष्का॑स्या चर ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। उ॒द॒कम्। अप॑पुषः। अ॒प॒ऽशुष्य॑ति। आ॒स्य᳡म्। ए॒व। नि। शु॒ष्य॒। माम्। कामे॑न। अथो॒ इति॑। शुष्क॑ऽआस्या। च॒र॒। १३९.४। 
+यथा॑। उ॒द॒कम्। अप॑पुषः। अ॒प॒ऽशुष्य॑ति। आ॒स्य᳡म्। ए॒व। नि। शु॒ष्य॒। माम्। कामे॑न। अथो॒ इति॑। शुष्क॑ऽआस्या। च॒र॒। १३९.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Even as his mouth is parched who finds no water for his burn- ing thirst, So par
 
 टिप्पणी:   ४−(यथा) येन प्रकारेण (उदकम्) जलम् (अपपुषः) पा पाने−लिटः क्वसुः। अपीतवतस्तृषितस्य पुरुषस्य (अपशुष्यति) शुष्कं भवति (आस्यम्) मुखम् (एव) एवम्। अन्यद्गतम्−म० २ ॥
 </details>
-

@@ -18,9 +18,15 @@ serpents, other-folks, demons, run after our enemies.
 Rise up, with all your banners rise; prepare your strength, ye vapoury Forms! Serpents and fiends and Other Folk, charge and pursue our enemies!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उत्ति॑ष्ठत॒ सं न॑ह्यध्व॒मुदा॑राः के॒तुभिः॑ स॒ह।  
+सर्पा॒ इत॑रजना॒ रक्षां॑स्य॒मित्रा॒ननु॑ धावत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। ति॒ष्ठ॒त॒। सम्। न॒ह्य॒ध्व॒म्। उत्ऽआ॑राः। के॒तुऽभिः॑। स॒ह। सर्पाः॑। इत॑रऽजनाः। रक्षां॑सि। अ॒मित्रा॑न्। अनु॑। धा॒व॒त॒। १२.१। 
+उत्। ति॒ष्ठ॒त॒। सम्। न॒ह्य॒ध्व॒म्। उत्ऽआ॑राः। के॒तुऽभिः॑। स॒ह। सर्पाः॑। इत॑रऽजनाः। रक्षां॑सि। अ॒मित्रा॑न्। अनु॑। धा॒व॒त॒। १२.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Rise up, with all your banners rise; prepare your strength, ye vapoury Forms! Se
 
 टिप्पणी:   १−(उत् तिष्ठत) उद्गच्छत (संनह्यध्वम्) सन्नाहान् धरत (उदाराः) महान्तः। महानुभविनः (केतुभिः) ध्वजैः (सह) (सर्पाः) सर्पतुल्यहिंसकाः (इतरजनाः) पामरपुरुषाः (रक्षांसि) राक्षसाः (अमित्रान्) शत्रून् (अनु) प्रति (धावत) शीघ्रं गच्छत ॥
 </details>
-

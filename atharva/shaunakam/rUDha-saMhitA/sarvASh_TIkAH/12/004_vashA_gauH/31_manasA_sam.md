@@ -17,9 +17,15 @@ gods; thence the priests (*brahmán*) go on to ask for the cow.
 This thought he settles in his mind. This safely goeth to the Gods. Then verily the Brahman priests approach that they may beg the Cow
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मन॑सा॒ सं क॑ल्पयति॒ तद्दे॒वाँ अपि॑ गच्छति।  
+ततो॑ ह ब्र॒ह्माणो॑ व॒शामु॑प॒प्रय॑न्ति॒ याचि॑तुम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मन॑सा। सम्। क॒ल्प॒य॒ति॒। तत्। दे॒वान्। अपि॑। ग॒च्छ॒ति॒। ततः॑। ह॒। ब्र॒ह्माणः॑। व॒शाम्। उ॒प॒ऽप्रय॑न्ति। याचि॑तुम्। ४.३१। 
+मन॑सा। सम्। क॒ल्प॒य॒ति॒। तत्। दे॒वान्। अपि॑। ग॒च्छ॒ति॒। ततः॑। ह॒। ब्र॒ह्माणः॑। व॒शाम्। उ॒प॒ऽप्रय॑न्ति। याचि॑तुम्। ४.३१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ This thought he settles in his mind. This safely goeth to the Gods. Then verily 
 
 टिप्पणी:   ३१−(मनसा) मननेन (सम्) सम्यक् (कल्पयति) समर्थयति वेदवाणी (तत्) तदा (देवान्) विजिगीषून् ब्रह्मचारिणः (अपि) एव (गच्छति) प्राप्नोति (ततः) तस्मात् कारणात् (ह) एव (ब्रह्माणः) ब्रह्मचारिणः (वशाम्) कमनीयां वेदवाणीम् (उपप्रयन्ति) समीपे गच्छन्ति (याचितुम्) प्रार्थयितुम् ॥
 </details>
-

@@ -34,9 +34,15 @@ anyān upāyatī;* but the last pāda favors SPP's conjecture.
 If dealing treasure thou hast come to-day, O highly favoured Night. Cause thou us to enjoy it all so that this may not pass away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद॒द्या रा॑त्रि सुभगे वि॒भज॒न्त्ययो॒ वसु॑।  
+यदे॒तद॒स्मान्भोज॑य॒ यथेद॒न्यानु॒पाय॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। अ॒द्य। रा॒त्रि॒। सु॒ऽभ॒गे॒। वि॒ऽभज॑न्ति। अयः॑। वसु॑। यत्। ए॒तत्। अ॒स्मान्। भो॒ज॒य॒। यथा॑। इत्। अ॒न्यान्। उ॒प॒ऽअय॑सि। ५०.६। 
+यत्। अ॒द्य। रा॒त्रि॒। सु॒ऽभ॒गे॒। वि॒ऽभज॑न्ति। अयः॑। वसु॑। यत्। ए॒तत्। अ॒स्मान्। भो॒ज॒य॒। यथा॑। इत्। अ॒न्यान्। उ॒प॒ऽअय॑सि। ५०.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -66,4 +72,3 @@ If dealing treasure thou hast come to-day, O highly favoured Night. Cause thou u
 
 टिप्पणी:   ६−(यत्) (अद्य) अस्मिन् दिने (रात्रि) (सुभगे) हे बह्वैश्वर्यवति (विभजन्ति) विभागेन प्राप्नुवन्ति (अयः) हिरण्यम्-निघ० १।२ (वसु) धनम् (यत्) (एतत्) (अस्मान्) (भोजय) भोक्तॄन् कुरु (यथा) येन प्रकारेण (इत्) निश्चयेन (अन्यान्) पदार्थान् (उप-अयसि) इण् गतौ-लेटि, अडागमः, अन्तर्गतण्यर्थः। उपगमयेः ॥
 </details>
-

@@ -20,9 +20,15 @@ notice of the deficiency.
 This, O Immortal One, I know of thee, thy progress to the sky thy dwelling-place in loftiest heaven.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वेद॒ तत्ते॑ अमर्त्य॒ यत्त॑ आ॒क्रम॑णं दि॒वि।  
+यत्ते॑ स॒धस्थं॑ पर॒मे व्यो᳡मन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वेद॑। तत्। ते॒। अ॒म॒र्त्य॒। यत्। ते॒। आ॒ऽक्रम॑णम्। दि॒वि। यत्। ते॒। स॒धऽस्थ॑म्। प॒र॒मे। व‍िऽओ॑मन्। १.४४। 
+वेद॑। तत्। ते॒। अ॒म॒र्त्य॒। यत्। ते॒। आ॒ऽक्रम॑णम्। दि॒वि। यत्। ते॒। स॒धऽस्थ॑म्। प॒र॒मे। व‍िऽओ॑मन्। १.४४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ This, O Immortal One, I know of thee, thy progress to the sky thy dwelling-place
 
 टिप्पणी:   ४४−(वेद) जानामि (तत्) प्रसिद्धम् (ते) तव (अमर्त्य) हे अमर। अविनाशिन् (यत्) (ते) (आक्रमणम्) उपरिगमनम् (दिवि) प्रत्येकव्यवहारे (यत्) (ते) (सधस्थम्) सहस्थानम् (परमे) सर्वोत्कृष्टे (व्योमन्) विविधरक्षासाधने मोक्षपदे ॥
 </details>
-

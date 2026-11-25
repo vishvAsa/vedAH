@@ -24,9 +24,15 @@ after cremation; with the same, and further with 3. 25-37, in connection
 Let not thy soul be left behind: here let not aught of thee remain, Of spirit, body, members, sap.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मा ते॒ मनो॒मासो॒र्माङ्गा॑नां॒ मा रस॑स्य ते।  
+मा ते॑ हास्त त॒न्वः१॒॑ किं च॒नेह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मा। ते॒। मनः॑। मा। असोः॑। मा। अङ्गा॑नाम्। मा। रस॑स्य। ते॒। मा। ते॒। हा॒स्त॒। त॒न्वः᳡। किम्। च॒न। इ॒ह। २.२४। 
+मा। ते॒। मनः॑। मा। असोः॑। मा। अङ्गा॑नाम्। मा। रस॑स्य। ते॒। मा। ते॒। हा॒स्त॒। त॒न्वः᳡। किम्। च॒न। इ॒ह। २.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Let not thy soul be left behind: here let not aught of thee remain, Of spirit, b
 
 टिप्पणी:   २४−(मा) निषेधे (ते) तव (मनः) चित्तम् (मा) (असोः) प्राणस्य (मा) (अङ्गानाम्) अवयवानाम् (मा) (रसस्य) वीर्यस्य (ते) (मा हास्त) ओहाङ् गतौ-लुङ्।मा गच्छेत् (ते) (तन्वः) शरीरस्य (किं चन) किमपि (इह) अत्र। अस्माकं मध्यात् ॥
 </details>
-

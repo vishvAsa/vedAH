@@ -30,9 +30,15 @@ of vs. 24, in case the latter is not known.
 Thou, born afresh, art new and new for ever; ensign of days, before the Dawns thou goest. Coming, thou orderest for Gods their portion. Thou lengthenest, Moon, the days of our existence.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नवो॑नवो भवसि॒जाय॑मा॒नोऽह्नां॑ के॒तुरु॒षसा॑मे॒ष्यग्र॑म्।  
+भा॒गं दे॒वेभ्यो॒ विद॑धास्या॒यन्प्र च॑न्द्रमस्तिरसे दी॒र्घमायुः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नव॑ऽनवः। भ॒व॒सि॒। जाय॑मानः। अह्ना॑म्। के॒तुः। । उ॒षसा॑म्। ए॒षि॒। अग्र॑म्। भा॒गम्। दे॒वेभ्यः॑। वि। द॒धा॒सि॒। आ॒ऽयन्। प्र। च॒न्द्र॒मः॒। ति॒र॒से॒। दी॒र्घम्। आयुः॑। १.२४। 
+नव॑ऽनवः। भ॒व॒सि॒। जाय॑मानः। अह्ना॑म्। के॒तुः। । उ॒षसा॑म्। ए॒षि॒। अग्र॑म्। भा॒गम्। दे॒वेभ्यः॑। वि। द॒धा॒सि॒। आ॒ऽयन्। प्र। च॒न्द्र॒मः॒। ति॒र॒से॒। दी॒र्घम्। आयुः॑। १.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -62,4 +68,3 @@ Thou, born afresh, art new and new for ever; ensign of days, before the Dawns th
 
 टिप्पणी:   २४-अयं मन्त्रो व्याख्यातः-अ० ७।८१।२ ॥
 </details>
-

@@ -20,6 +20,12 @@ the resolution *mádhu up-*.
 He who pours out mead and offers it wins for himself thereby as much as he gains by the performance of a very successful Sattrasadya sacrifice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स य ए॒वं वि॒द्वान् मधू॑प॒सिच्यो॑प॒हर॑ति ।  
+याव॑त् सत्त्र॒सद्ये॑ने॒ष्ट्वा सुस॑मृद्धेनावरु॒न्धे ताव॑देने॒नाव॑ रुन्धे ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सः । यः । ए॒वम् । वि॒द्वान् । मधु॑ । उ॒प॒ऽसिच्य॑ । उ॒प॒ऽहर॑ति ॥ ९.५।  

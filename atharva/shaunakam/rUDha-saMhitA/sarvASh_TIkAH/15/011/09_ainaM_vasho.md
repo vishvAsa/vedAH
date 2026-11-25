@@ -20,8 +20,12 @@ beginning in our text *āí ’nam* (an accent-sign slipped out of place).
 Authority comes to him who possesses this knowledge, and he becomes the controller of the powerful.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-आ। ए॒न॒म्। वशः॑। ग‌॒च्छ॒ति॒। व॒शी। व॒शिना॑म्। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.९। 
+ऐनं॒ वशो॑ गच्छतिव॒शी व॒शिनां॑ भवति॒ य ए॒वं वेद॑ ॥
 </details>
 
+<details><summary>पदपाठः</summary>
+
+आ। ए॒न॒म्। वशः॑। ग‌॒च्छ॒ति॒। व॒शी। व॒शिना॑म्। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.९।
+</details>

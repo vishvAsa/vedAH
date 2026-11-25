@@ -16,9 +16,14 @@ title = "११ चतुर्दशर्चेभ्यः स्वाहा
 Hail to the fourteen-versed!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+च॑तुर्दश॒र्चेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-च॒तु॒र्द॒श॒ऽऋ॒चेभ्यः॑। स्वाहा॑। २३.११। 
+च॒तु॒र्द॒श॒ऽऋ॒चेभ्यः॑। स्वाहा॑। २३.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Hail to the fourteen-versed!
 
 टिप्पणी:   ११−(चतुर्दशर्चेभ्यः) म०१। मनोबुद्धिचित्ताहङ्कारसहितानां दशेन्द्रियाणां स्तुत्या विद्या येषु वेदेषु तेभ्यः ॥
 </details>
-

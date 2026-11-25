@@ -23,9 +23,15 @@ is no real variant. The comm. explains *ájman* as *ajati gacchaty anene
 Low lie the warrior, mailed, unmailed, each foeman in the rush of war. Down-smitten with the strings of bows, the fastenings of mail, the charge!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यश्च॑ कव॒ची यश्चा॑कव॒चो॒३॒॑मित्रो॒ यश्चाज्म॑नि।  
+ज्या॑पा॒शैः क॑वचपा॒शैरज्म॑ना॒भिह॑तः शयाम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। च॒। क॒व॒ची। यः। च॒। अ॒क॒व॒चः। अ॒मित्रः॑। यः। च॒। अज्म॑नि। ज्या॒ऽपा॒शैः। क॒व॒च॒ऽपा॒शैः। अज्म॑ना। अ॒भिऽह॑तः। श॒या॒म्। १२.२२। 
+यः। च॒। क॒व॒ची। यः। च॒। अ॒क॒व॒चः। अ॒मित्रः॑। यः। च॒। अज्म॑नि। ज्या॒ऽपा॒शैः। क॒व॒च॒ऽपा॒शैः। अज्म॑ना। अ॒भिऽह॑तः। श॒या॒म्। १२.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Low lie the warrior, mailed, unmailed, each foeman in the rush of war. Down-smit
 
 टिप्पणी:   २२−(यः) (च) (कवची) कवचधारी (यः) (च) (अकवचः) कवचरहितः (अमित्राः) पीडकः शत्रुः (यः) (च) (अज्मनि) अ० ६।९७।३। अज गतिक्षेपणयोः-मनिन्। गमनक्षेपणव्यवहारे। संग्रामे (ज्यापाशैः) मौर्वीपाशैः (कवचपाशैः) वर्मबन्धनपाशैः (अज्मना) गमनक्षेपणव्यापारेण (अभिहतः) विनाशितः (शयाम्) तलोपः। शेताम् ॥
 </details>
-

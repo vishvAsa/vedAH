@@ -18,9 +18,14 @@ Between this verse and the next, the commentator's text inserts
 Hail to the triplets!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तृ॒चेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तृ॒चेभ्यः॑। स्वाहा॑। २३.१९। 
+तृ॒चेभ्यः॑। स्वाहा॑। २३.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Hail to the triplets!
 
 टिप्पणी:   १९−(तृचेभ्यः) म०१। त्रयाणां भूतभविष्यद्वर्तमानानां स्तुत्या विद्या येषु वेदेषु तेभ्यः ॥
 </details>
-

@@ -21,9 +21,14 @@ and *paridhe ’va te;* and it adds its version of 9: *yat parṣeṇam*
 The pillow-coverings that they bring are the green sticks that surround the sacrificial altar.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्क॑शिपूपबर्ह॒णमा॒हर॑न्ति परि॒धय॑ ए॒व ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। क॒शि॒पु॒ऽउ॒प॒ब॒र्ह॒णम्। आ॒ऽहर॑न्ति। प॒रि॒ऽधयः॑। ए॒व। ते। ६.१०। 
+यत्। क॒शि॒पु॒ऽउ॒प॒ब॒र्ह॒णम्। आ॒ऽहर॑न्ति। प॒रि॒ऽधयः॑। ए॒व। ते। ६.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ The pillow-coverings that they bring are the green sticks that surround the sacr
 
 टिप्पणी:   १०−(यत्) यदा (कशिपूपबर्हणम्) कशिपुर्व्याख्यातः-अ० ६।१३८।५। उपबर्हणं व्याख्यातम्-अ० ९।५।२९। परिस्तरणं बालिशं च (आहरन्ति) (परिधयः) उपसर्गे घोः किः। पा० ३।३।९२। परि+दधातेः-कि। ईश्वरस्य परितो धारणशक्तयः (एव) (ते) प्रसिद्धाः ॥
 </details>
-

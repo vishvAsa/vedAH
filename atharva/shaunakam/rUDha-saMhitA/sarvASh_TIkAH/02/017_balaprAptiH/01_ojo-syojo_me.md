@@ -22,9 +22,14 @@ citations.⌋
 Power art thou, give me power. All hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ओजो॒ऽस्योजो॑ मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ओजः॑। अ॒सि॒। ओजः॑। मे॒। दाः॒। स्वाहा॑। १७.१। 
+ओजः॑। अ॒सि॒। ओजः॑। मे॒। दाः॒। स्वाहा॑। १७.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +59,3 @@ Power art thou, give me power. All hail!
 
 टिप्पणी:   १–ओजः। अ० १।१२।१। ओज बले, तेजसि–असुन्। बलम्। प्रकाशः। वैद्यके रसादिसप्तधातुसारजधातुविशेषः शरीरस्य बलपुष्टिकारणम्। ज्ञानेन्द्रियाणां पाटवम्। मे। मह्यम्। दाः। त्वं दद्याः, देयाः ॥
 </details>
-

@@ -21,9 +21,16 @@ cf. viii. 8. 15, above.⌋ ⌊Cf. Kāuś. 73. 5.⌋
 Tall trees, and those who live in woods, the herbs and creeping plants of Earth, Gandharvas, and Apsarases, Snakes, Beings, Fathers, Gods, All these do thou, O Arbudi, make visible to our enemies: cause them to look on mists and fog.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वन॒स्पती॑न्वानस्प॒त्यानोष॑धीरु॒त वी॒रुधः॑।  
+ग॑न्धर्वाप्स॒रसः॑ स॒र्पान्दे॒वान्पु॑ण्यज॒नान्पि॒तॄन्।  
+सर्वां॒स्ताँ अ॑र्बुदे॒ त्वम॒मित्रे॑भ्यो दृ॒शे कु॑रूदा॒रांश्च॒ प्र द॑र्शय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वन॒स्पती॑न्। वा॒न॒स्प॒त्यान्। ओष॑धीः। उ॒त। वी॒रुधः॑। ग॒न्ध॒र्व॒ऽअ॒प्स॒रसः॑। स॒र्पान्। दे॒वान्। पु॒ण्य॒ऽज॒नान्। पि॒तॄन्। सर्वा॑न्। तान्। अ॒र्बु॒दे॒। त्वम्। अ॒मित्रे॑भ्यः। दृ॒शे। कु॒रु॒। उ॒त्ऽआ॒रान्। च॒। प्र। द॒र्श॒य॒। ११.२४। 
+वन॒स्पती॑न्। वा॒न॒स्प॒त्यान्। ओष॑धीः। उ॒त। वी॒रुधः॑। ग॒न्ध॒र्व॒ऽअ॒प्स॒रसः॑। स॒र्पान्। दे॒वान्। पु॒ण्य॒ऽज॒नान्। पि॒तॄन्। सर्वा॑न्। तान्। अ॒र्बु॒दे॒। त्वम्। अ॒मित्रे॑भ्यः। दृ॒शे। कु॒रु॒। उ॒त्ऽआ॒रान्। च॒। प्र। द॒र्श॒य॒। ११.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +60,3 @@ Tall trees, and those who live in woods, the herbs and creeping plants of Earth,
 
 टिप्पणी:   २४−प्रथमद्वितीयभागौ व्याख्यातौ-अ० ८।८।१४, १५ तथा तृतीयो व्याख्यातोऽस्मिन् सूक्ते-म० २२ ॥
 </details>
-

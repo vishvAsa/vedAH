@@ -17,9 +17,15 @@ a quarter, the sacrifice a quarter, the domestic animals a quarter.
 Four-parted was the Cow's prolific humour. One-fourth is Water, one-fourth life eternal, one-fourth is sacri- fice, one-fourth are cattle.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+च॑तु॒र्धा रेतो॑ अभवद्व॒शायाः॑।  
+आप॒स्तुरी॑यम॒मृतं॒ तुरी॑यं य॒ज्ञस्तुरी॑यं प॒शव॒स्तुरी॑यम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-च॒तुः॒ऽधा। रेतः॑। अ॒भ॒व॒त्। व॒शायाः॑। आपः॑। तुरी॑यम्। अ॒मृत॑म्। तुरी॑यम्। य॒ज्ञः। तुरी॑यम्। प॒शवः॑। तुरी॑यम्। १०.२९। 
+च॒तुः॒ऽधा। रेतः॑। अ॒भ॒व॒त्। व॒शायाः॑। आपः॑। तुरी॑यम्। अ॒मृत॑म्। तुरी॑यम्। य॒ज्ञः। तुरी॑यम्। प॒शवः॑। तुरी॑यम्। १०.२९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Four-parted was the Cow's prolific humour. One-fourth is Water, one-fourth life 
 
 टिप्पणी:   २९−(चतुर्धा) चतुष्प्रकारेण (रेतः) वीर्यम्। सामर्थ्यम् (अभवत्) आसीत् (वशायाः) कमनीयायाः परमेश्वरशक्तेः (आपः) व्यापिकास्तन्मात्राः-दयानन्दभाष्ये, यजुः २७।२५ (तुरीयम्) चतुर्थं खण्डम् (अमृतम्) अमरणम् अविनाशः (यज्ञः) संगतिकरणव्यवहारः संसारः (पशवः) दृष्टिमन्तः प्राणिनः। अन्यद् गतम् ॥
 </details>
-

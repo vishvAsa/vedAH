@@ -20,9 +20,15 @@ at end of **b**, and *yasmāt* in **d**.
 Sight leaves him not, breath quits not him before life's natural decay, Who knows the fort of Brahma, yea, the fort whence Purusha is named.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+न वै तं चक्षु॑र्जहाति॒ न प्रा॒णो ज॒रसः॑ पु॒रा।  
+पुरं॒ यो ब्रह्म॑णो॒ वेद॒ यस्याः॒ पुरु॑ष उ॒च्यते॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। वै। तम्। चक्षुः॑। ज॒हा॒ति॒। न। प्रा॒णः। ज॒रसः॑। पु॒रा। पुर॑म्। यः। ब्रह्म॑णः। वेद॑। यस्याः॑। पुरु॑षः। उ॒च्यते॑। २.३०। 
+न। वै। तम्। चक्षुः॑। ज॒हा॒ति॒। न। प्रा॒णः। ज॒रसः॑। पु॒रा। पुर॑म्। यः। ब्रह्म॑णः। वेद॑। यस्याः॑। पुरु॑षः। उ॒च्यते॑। २.३०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Sight leaves him not, breath quits not him before life's natural decay, Who know
 
 टिप्पणी:   ३०−(न) निषेधे (वै) एव (तम्) मनुष्यम् (चक्षुः) दृष्टिः (जहाति) त्यजति (न) (प्राणः) (जरसः) जरायाः। पुरुषार्थहानेः सकाशात् (पुरा) पूर्वम्। अन्यत् पूर्ववत्−मन्त्रे २८ ॥
 </details>
-

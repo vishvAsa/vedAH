@@ -17,9 +17,14 @@ Ppp. has *sahodā agnes saho me dhā svāhā.*
 Might art thou, give me might. All hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सहो॑ ऽसि॒ सहो॑ मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सहः॑। अ॒सि॒। सहः॑। मे॒। दाः॒। स्वाहा॑। १७.२। 
+सहः॑। अ॒सि॒। सहः॑। मे॒। दाः॒। स्वाहा॑। १७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Might art thou, give me might. All hail!
 
 टिप्पणी:   २–सहः। षह अभिभवे, क्षमायाम्–असुन्। मानसिकबलम्। पराक्रमः ॥
 </details>
-

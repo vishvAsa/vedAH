@@ -19,9 +19,14 @@ Vrātya)"—which is possible, but doubtful: compare *átas* in vs. 5.
 From him, verily, sprang Priesthood and Royalty. They said, Into whom shall we enter?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अतो॒ वै ब्रह्म॑च क्ष॒त्रं चोद॑तिष्ठतां॒ ते अ॑ब्रूतां॒ कं प्र वि॑शा॒वेति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अतः॑। वै। ब्रह्म॑। च॒। क्ष॒त्रम्। च॒। उत्। अ॒ति॒ष्ठ॒ता॒म्। ते ‍इति॑। अ॒ब्रू॒ता॒म्। कम्। प्र। वि॒शा॒य॒। इति॑। १०.३। 
+अतः॑। वै। ब्रह्म॑। च॒। क्ष॒त्रम्। च॒। उत्। अ॒ति॒ष्ठ॒ता॒म्। ते ‍इति॑। अ॒ब्रू॒ता॒म्। कम्। प्र। वि॒शा॒य॒। इति॑। १०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ From him, verily, sprang Priesthood and Royalty. They said, Into whom shall we e
 
 टिप्पणी:   ३−(अतः) एतस्मात् सत्कारात् (वै) निश्चयेन (ब्रह्म) ब्रह्मवादिकुलम् (च) (क्षत्रम्) क्षत्रियकुलम् (च) (उत्)उदेत्य (अतिष्ठताम्) तिष्ठताम् (ते) द्वे (अब्रूताम्) कथयताम् (कम्) कं गुणम् (प्र विशाव) आवां प्रविष्टौ भवाम (इति) ॥
 </details>
-

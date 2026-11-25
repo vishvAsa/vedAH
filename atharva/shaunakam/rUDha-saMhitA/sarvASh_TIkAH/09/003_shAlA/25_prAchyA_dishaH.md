@@ -19,9 +19,14 @@ similar order in the following vss.⌋
 Now from the east side of the house to the Great Power be homage paid! Hail to the Gods whose due is Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्राच्या॑ दि॒शः शाला॑या॒ नमो॑ महि॒म्ने स्वाहा॑ दे॒वेभ्यः॑ स्वा॒ह्ये᳡भ्यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्राच्याः॑। दि॒शः। शाला॑याः। नमः॑। म॒हि॒म्ने। स्वाहा॑। दे॒वेभ्यः॑। स्वा॒ह्ये᳡भ्यः। ३.२५। 
+प्राच्याः॑। दि॒शः। शाला॑याः। नमः॑। म॒हि॒म्ने। स्वाहा॑। दे॒वेभ्यः॑। स्वा॒ह्ये᳡भ्यः। ३.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Now from the east side of the house to the Great Power be homage paid! Hail to t
 
 टिप्पणी:   २५−(प्राच्याः) अ० ३।२६।१। पूर्वाया सकाशात् (दिशः) दिशायाः (शालायाः) गृहस्य (नमः) अन्नम्-निघ० २।७। (महिम्ने) महत्त्वाय (स्वाहा) अ० २।१६।१। सुवाणी। वेदवाणी (देवेभ्यः) कमनीयेभ्यो विद्वद्भ्यः (स्वाह्येभ्यः) तदर्हति। पा० ५।१।६३। स्वाहा-यत्। सुवाणीयोगेभ्यः ॥
 </details>
-

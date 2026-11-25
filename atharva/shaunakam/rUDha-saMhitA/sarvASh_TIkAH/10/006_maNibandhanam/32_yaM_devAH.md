@@ -18,9 +18,15 @@ The Anukr. passes without notice the redundant syllable in **a**.
 The Charm to which men, Fathers, Gods look ever for their maintenance, May this be fastened on me here, to crown me with surpassing power
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यं दे॒वाः पि॒तरो॑ मनु॒ष्या᳡ उप॒जीव॑न्ति सर्व॒दा।  
+स मा॒यमधि॑ रोहतु म॒णिः श्रैष्ठ्या॑य मूर्ध॒तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। दे॒वाः। पि॒तरः॑। म॒नु॒ष्याः᳡। उ॒प॒ऽजीव॑न्ति। स॒र्व॒दा। सः। मा॒। अ॒यम्। अधि॑। रो॒ह॒तु॒। म॒णिः। श्रैष्ठ्या॑य। मू॒र्ध॒तः। ६.३२। 
+यम्। दे॒वाः। पि॒तरः॑। म॒नु॒ष्याः᳡। उ॒प॒ऽजीव॑न्ति। स॒र्व॒दा। सः। मा॒। अ॒यम्। अधि॑। रो॒ह॒तु॒। म॒णिः। श्रैष्ठ्या॑य। मू॒र्ध॒तः। ६.३२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The Charm to which men, Fathers, Gods look ever for their maintenance, May this 
 
 टिप्पणी:   ३२−(यम्) वैदिकनियमम् (देवाः) व्यवहारकुशलाः (पितरः) पालकाः (मनुष्याः) अ० ३।४।६। मननशीलाः (उपजीवन्ति) आश्रयन्ति। अन्यत् पूर्ववत्−म० ३१ ॥
 </details>
-

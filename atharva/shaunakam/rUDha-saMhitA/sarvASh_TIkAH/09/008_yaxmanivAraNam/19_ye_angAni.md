@@ -19,9 +19,15 @@ Ppp. reads in **b** *ropaṇā saha*. Some of our mss. (P.M.O.p.m.) read
 Consumptions with their Colic pains which make thy limbs insensible I have evoked the poison-taint of all Consumptions out of thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये अङ्गा॑नि म॒दय॑न्ति॒ यक्ष्मा॑सो रोप॒णास्तव॑।  
+यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। अङ्गा॑नि। म॒दय॑न्ति। यक्ष्मा॑सः। रो॒प॒णाः। तव॑। यक्ष्मा॑णाम्। सर्वे॑षाम्। वि॒षम्। निः। अ॒वो॒च॒म्। अ॒हम्। त्वत्। १३.१९। 
+ये। अङ्गा॑नि। म॒दय॑न्ति। यक्ष्मा॑सः। रो॒प॒णाः। तव॑। यक्ष्मा॑णाम्। सर्वे॑षाम्। वि॒षम्। निः। अ॒वो॒च॒म्। अ॒हम्। त्वत्। १३.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Consumptions with their Colic pains which make thy limbs insensible I have evoke
 
 टिप्पणी:   १९−(ये) (अङ्गानि) शरीरावयवान् (मदयन्ति) उन्मत्तानि कुर्वन्ति (यक्ष्मासः) असुगागमः। यक्ष्माः। क्षयरोगाः (रोपणाः) सुयुरुवृञो युच्। उ० २।७४। रुप विमोहने-युच्। व्याकुलीकराः। अन्यत् पूर्ववत्-म० १० ॥
 </details>
-

@@ -21,9 +21,15 @@ ancestral ceremonies.
 Let these unwidowed dames with goodly husbands adorn them- selves with fragrant balm and unguent. Decked with fair jewels, tearless, free, from trouble, first let the dames go up to where he lieth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒मानारी॑रविध॒वाः सु॒पत्नी॒राञ्ज॑नेन स॒र्पिषा॒ सं स्पृ॑शन्ताम्।  
+अ॑न॒श्रवो॑अनमी॒वाः सु॒रत्ना॒ आ रो॑हन्तु॒ जन॑यो॒ योनि॒मग्रे॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒माः। नारीः॑। अ॒वि॒ध॒वाः। सु॒ऽपत्नीः॑। आ॒ऽअञ्ज॑नेन। स॒र्पिषा॑। सम्। स्पृ॒श॒न्ता॒म्। अ॒न॒श्रवः॑। अ॒न॒मी॒वाः। सु॒ऽरत्नाः॑। आ। रो॒ह॒न्तु॒। जन॑यः। योनि॑म्। अग्रे॑। ५.५७। 
+इ॒माः। नारीः॑। अ॒वि॒ध॒वाः। सु॒ऽपत्नीः॑। आ॒ऽअञ्ज॑नेन। स॒र्पिषा॑। सम्। स्पृ॒श॒न्ता॒म्। अ॒न॒श्रवः॑। अ॒न॒मी॒वाः। सु॒ऽरत्नाः॑। आ। रो॒ह॒न्तु॒। जन॑यः। योनि॑म्। अग्रे॑। ५.५७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Let these unwidowed dames with goodly husbands adorn them- selves with fragrant 
 
 टिप्पणी:   ५७−अयं मन्त्रो व्याख्यातः-अ० १२।२।३१ ॥
 </details>
-

@@ -26,9 +26,15 @@ to accompany the sending out of a guard for the bride. ⌊Cf. Wint., p.
 Straight in direction be the paths, and thornless, whereby our fellows travel to the wooing. With Bhaga and with Aryaman Dhatar endue the pair with strength!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑नृक्ष॒राऋ॒जवः॑ सन्तु॒ पन्था॑नो॒ येभिः॒ सखा॑यो॒ यन्ति॑ नो वरे॒यम्।  
+सं भगे॑न॒सम॑र्य॒म्णा सं धा॒ता सृ॑जतु॒ वर्च॑सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒नृ॒क्ष॒राः। ऋ॒जवः॑। स॒न्तु॒। पन्था॑नः। येभिः॑। सखा॑यः। यन्ति॑। नः॒। व॒रे॒ऽयम्। सम्। भगे॑न। सम्। अ॒र्य॒म्णा। सम्। धा॒ता। सृ॒ज॒तु॒। वर्च॑सा। १.३४। 
+अ॒नृ॒क्ष॒राः। ऋ॒जवः॑। स॒न्तु॒। पन्था॑नः। येभिः॑। सखा॑यः। यन्ति॑। नः॒। व॒रे॒ऽयम्। सम्। भगे॑न। सम्। अ॒र्य॒म्णा। सम्। धा॒ता। सृ॒ज॒तु॒। वर्च॑सा। १.३४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Straight in direction be the paths, and thornless, whereby our fellows travel to
 
 टिप्पणी:   ३४−(अनृक्षराः) अकण्टकाः (ऋजवः) सरलाः (सन्तु) (पन्थानः) मार्गाः (येभिः) यैः (सखायः) सुहृदः (यन्ति) गच्छन्ति (नः) अस्माकम् (वरेयम्) णलोपः। यथातथा, वरेण्यम्। वरणीयेन विधानेन (सम्) सह (भगेन) ऐश्वर्येण (सम्) (अर्यम्णा)श्रेष्ठानां मानकर्तृव्यवहारेण (सम्) (धाता) धारकः परमेश्वरः (सृजतु) योजयतु (वर्चसा) प्रतापेन ॥
 </details>
-

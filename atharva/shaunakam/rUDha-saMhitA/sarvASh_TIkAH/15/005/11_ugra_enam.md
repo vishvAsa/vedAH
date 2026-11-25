@@ -10,6 +10,11 @@ archer, the formidable god, attends him as attendant from the
 intermediate direction of the northern quarter; not śarva etc. etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॒ग्र ए॑नं दे॒व इ॑ष्वा॒स उदी॑च्या दि॒शो अ॑न्तर्दे॒शाद॑नुष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑न॥११॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 उ॒ग्रः । ए॒न॒म् । दे॒वः । इ॒षु॒ऽआ॒सः । उदी॑च्याः । दि॒शः । अ॒न्तः॒ऽदे॒शात् । अ॒नु॒ऽस्था॒ता । अनु॑ । ति॒ष्ठ॒ति॒ । न । ए॒न॒म् । श॒र्वः । न । भ॒वः ।

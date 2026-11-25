@@ -26,9 +26,15 @@ xvi. 8. 1 **a**.⌋
 Glory to him when rising, when ascending! Glory to him when he hath reached the zenith! To him far-shining, him the self-refulgent, to him the Sovran Lord and King be glory!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॑द्य॒ते नम॑उदाय॒ते नम॒ उदि॑ताय॒ नमः॑।  
+वि॒राजे॒ नमः॑ स्व॒राजे॒ नमः॑ स॒म्राजे॒ नमः॑॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒त्ऽय॒ते। नमः॑। उ॒त्ऽआ॒य॒ते। नमः॑। उत्ऽइ॑ताय। नमः॑। वि॒ऽराजे॑। नमः॑। स्व॒ऽराजे॑। नमः॑। स॒म्ऽराजे॑। नमः॑। १.२२। 
+उ॒त्ऽय॒ते। नमः॑। उ॒त्ऽआ॒य॒ते। नमः॑। उत्ऽइ॑ताय। नमः॑। वि॒ऽराजे॑। नमः॑। स्व॒ऽराजे॑। नमः॑। स॒म्ऽराजे॑। नमः॑। १.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Glory to him when rising, when ascending! Glory to him when he hath reached the 
 
 टिप्पणी:   २२−(उद्यते)प्रलयसृष्टिसन्धिदशायामुदयं गच्छते परमेश्वराय (नमः) नमस्कारः (उदायते)उत्+आङ्+इण् गतौ-शतृ। सृष्टिकाल उदयमागच्छते (उदिताय) सृष्टिसमाप्तिकाल उदयंप्राप्ताय (विराजे) विविधेश्वराय (स्वराजे) स्वयमैश्वर्यवते (सम्राजे)राजराजेश्वराय। अन्यद् गतम् ॥
 </details>
-

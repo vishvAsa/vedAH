@@ -24,9 +24,15 @@ third pādas of 1 and 2, and reads as 2 **c** *upe ’māṁ suṣṭutiṁ mama
 Forth from the distance far away Vaisvanara come to succour us! Agni approach our eulogies!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वै॑श्वान॒रो न॑ ऊ॒तय॒ आ प्र या॑तु परा॒वतः॑।  
+अ॒ग्निर्नः॑ सुष्टु॒तीरुप॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वै॒श्वा॒न॒रः। नः॒। ऊ॒तये॑। आ। प्र। या॒तु॒। प॒रा॒ऽवतः॑। अ॒ग्निः। नः॒। सु॒ऽस्तु॒तीः। उप॑। ३५.१। 
+वै॒श्वा॒न॒रः। नः॒। ऊ॒तये॑। आ। प्र। या॒तु॒। प॒रा॒ऽवतः॑। अ॒ग्निः। नः॒। सु॒ऽस्तु॒तीः। उप॑। ३५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Forth from the distance far away Vaisvanara come to succour us! Agni approach ou
 
 टिप्पणी:   १−(वैश्वानरः) अ० १।१०।४। सर्वनरहितः (नः) अस्माकम् (ऊतये) रक्षायै (आ) अभिमुखम् (प्र) प्रकर्षेण (यातु) गच्छतु (परावतः) अ० ३।४।५। परागतात् उत्कर्षं प्राप्ताद् दूरगतात् स्थानाद् वा (अग्निः) सर्वव्यापकः (नः) अस्माकम् (सुष्टुतीः) यथाशास्त्रं स्तवान् (उप) उपयात ॥
 </details>
-

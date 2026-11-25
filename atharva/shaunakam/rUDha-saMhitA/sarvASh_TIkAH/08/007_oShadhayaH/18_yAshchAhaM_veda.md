@@ -22,9 +22,15 @@ we are not acquainted with,' to correspond with W's version of
 The Plants I know myself, the plants that with mine eye I look upon, Plants yet unknown, and those we know, wherein we find that power is stored,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+याश्चा॒हं वेद॑ वी॒रुधो॒ याश्च॒ पश्या॑मि॒ चक्षु॑षा।  
+अज्ञा॑ता जानी॒मश्च॒ या यासु॑ वि॒द्म च॒ संभृ॑तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। च॒। अ॒हम्। वेद॑। वी॒रुधः॑। याः। च॒। पश्या॑मि। चक्षु॑षा। अज्ञा॑ताः। जा॒नी॒मः। च॒। याः। यासु॑। वि॒द्म। च॒। सम्ऽभृ॑तम्। ७.१८। 
+याः। च॒। अ॒हम्। वेद॑। वी॒रुधः॑। याः। च॒। पश्या॑मि। चक्षु॑षा। अज्ञा॑ताः। जा॒नी॒मः। च॒। याः। यासु॑। वि॒द्म। च॒। सम्ऽभृ॑तम्। ७.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ The Plants I know myself, the plants that with mine eye I look upon, Plants yet 
 
 टिप्पणी:   १८, १९−(याः) (च) (अहम्) (वेद) जानामि (वीरुधः) ओषधीः (याः) (च) (पश्यामि) अवलोकयामि (चक्षुषा) नेत्रेण (अज्ञाताः) अपरीक्षिताः (जानीमः) आविष्कुर्मः (याः) (विद्म) जानीमः (च) (संभृतम्) सम्यक् पोषणम् (सर्वाः समग्राः) समस्ता एव (ओषधीः) (बोधन्तु) बोधं कुर्वन्तु (वचसः) वचनस्य (मम)। अन्यत् पूर्ववत्-म० ७ ॥
 </details>
-

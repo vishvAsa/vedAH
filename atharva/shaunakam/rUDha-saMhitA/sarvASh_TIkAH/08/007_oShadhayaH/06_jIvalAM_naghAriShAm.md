@@ -25,9 +25,15 @@ plant.
 The living Plant that giveth life, that driveth malady away, Arundhatr, the rescuer, strengthening, rich a sweets I call, to free this man from scath and harm.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+जी॑व॒लां न॑घारि॒षां जी॑व॒न्तीमोष॑धीम॒हम्।  
+अ॑रुन्ध॒तीमु॒न्नय॑न्तीं पु॒ष्पां मधु॑मतीमि॒ह हु॑वे॒ऽस्मा अ॑रि॒ष्टता॑तये ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-जी॒व॒लाम्। न॒घ॒ऽरि॒षाम्। जी॒व॒न्तीम्। ओष॑धीम्। अ॒हम्। अ॒रु॒न्ध॒तीम्। उ॒त्ऽनय॑न्तीम्। पु॒ष्पाम्। मधु॑ऽमतीम्। इ॒ह। हु॒वे॒। अ॒स्मै। अ॒रि॒ष्टऽता॑तये। ७.६। 
+जी॒व॒लाम्। न॒घ॒ऽरि॒षाम्। जी॒व॒न्तीम्। ओष॑धीम्। अ॒हम्। अ॒रु॒न्ध॒तीम्। उ॒त्ऽनय॑न्तीम्। पु॒ष्पाम्। मधु॑ऽमतीम्। इ॒ह। हु॒वे॒। अ॒स्मै। अ॒रि॒ष्टऽता॑तये। ७.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ The living Plant that giveth life, that driveth malady away, Arundhatr, the resc
 
 टिप्पणी:   ६−(अरुन्धतीम्) अ० ४।१२।१। अवारयित्रीम् (उन्नयन्तीम्) उन्नतिकरीम् (पुष्पाम्) अर्शआद्यच्, टाप्। बहुपुष्पवतीम् (मधुमतीम्) माधुर्योपेताम्। अन्यत्पूर्ववत्-अ० ८।२।६ ॥
 </details>
-

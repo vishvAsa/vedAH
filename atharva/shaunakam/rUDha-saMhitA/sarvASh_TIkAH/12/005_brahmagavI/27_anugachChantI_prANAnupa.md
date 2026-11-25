@@ -21,9 +21,14 @@ gāyatrī.*\]
 Following him, the Brahman's cow extinguisheth the vital breath of the injurer of the Brahman.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑नु॒गच्छ॑न्ती प्रा॒णानुप॑ दासयति ब्रह्मग॒वी ब्र॑ह्म॒ज्यस्य॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒नु॒ऽगच्छ॑न्ती। प्रा॒णान्। उप॑। दा॒स॒य॒ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यस्य॑। ७.१६। 
+अ॒नु॒ऽगच्छ॑न्ती। प्रा॒णान्। उप॑। दा॒स॒य॒ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यस्य॑। ७.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ Following him, the Brahman's cow extinguisheth the vital breath of the injurer o
 
 टिप्पणी:   २७−(अनुगच्छन्ती) अनुसरन्ती (प्राणान्) जीवनसाधनानि (उप दासयति) सर्वथा नाशयति (ब्रह्मगवी) म० ५। वेदवाणी (ब्रह्मज्यस्य) म० १५। ब्रह्मचारिणां हानिकरस्य ॥
 </details>
-

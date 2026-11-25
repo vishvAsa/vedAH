@@ -25,6 +25,12 @@ mss. ⌊save W's I.⌋, as here, ought not to count. Ppp. reads in **b**
 Full many a falsehood, O thou King Varuna, man hath uttered here: Do thou who hast a thousand powers preserve us from that misery.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब॒ह्वि॒३॒॑दं रा॑जन्वरु॒णानृ॑तमाह॒ पूरु॑षः।  
+तस्मा॑त्सहस्रवीर्य मु॒ञ्च नः॒ पर्यंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 
@@ -57,4 +63,3 @@ Full many a falsehood, O thou King Varuna, man hath uttered here: Do thou who ha
 
 टिप्पणी:   ८−(बहु) (इदम्) इदानीम् (राजन्) हे सर्वशासक (वरुण) हे सर्वश्रेष्ठ परमात्मन् (अनृतम्) असत्यम् (आह) ब्रूते (पुरुषः) मनुष्यः (तस्मात्) निर्दिष्टात् (सहस्रवीर्य) हे अपरिमितपराक्रमवन् (मुञ्च) मोचय (नः) अस्मान् (परि) सर्वथा (अंहसः) पापात् ॥
 </details>
-

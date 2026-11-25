@@ -21,9 +21,15 @@ several other divinities.
 To Chandra in the quarters have I bowed me. May he bless me. As unto Chandra in the quarters I have bent, so let the Favour- ing Graces bow them down to me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दि॒क्षु च॒न्द्राय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
+यथा॑ दि॒क्षु च॒न्द्राय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दि॒क्षु। च॒न्द्राय॑। सम्। अ॒न॒म॒न्। सः। आ॒र्ध्नो॒त्। यथा॑। दि॒क्षु। च॒न्द्राय॑। स॒म्ऽअन॑मन्। ए॒व। मह्य॑म्। स॒म्ऽनमः॑। सम्। न॒म॒न्तु॒। ३९.७। 
+दि॒क्षु। च॒न्द्राय॑। सम्। अ॒न॒म॒न्। सः। आ॒र्ध्नो॒त्। यथा॑। दि॒क्षु। च॒न्द्राय॑। स॒म्ऽअन॑मन्। ए॒व। मह्य॑म्। स॒म्ऽनमः॑। सम्। न॒म॒न्तु॒। ३९.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ To Chandra in the quarters have I bowed me. May he bless me. As unto Chandra in 
 
 टिप्पणी:   ७−(दिक्षु) प्राच्यादिषु (चन्द्राय) आह्लादकाय चन्द्रमसे। अन्यत् पूर्ववत्। म० १ ॥
 </details>
-

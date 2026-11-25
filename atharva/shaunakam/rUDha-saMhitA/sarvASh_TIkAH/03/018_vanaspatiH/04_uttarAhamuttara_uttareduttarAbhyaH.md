@@ -25,9 +25,15 @@ adhārabhyaḥ*. R. conjectures in **a** *uttarāhāhamuttare*, for *úttarā
 Stronger am I, O stronger one, yea, mightier than the mightier; Beneath me be my rival wife, down, lower than the lowest dames!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उत्त॑रा॒हमु॑त्तर॒ उत्त॒रेदुत्त॑राभ्यः।  
+अ॒धः स॒पत्नी॒ या ममाध॑रा॒ साध॑राभ्यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्ऽत॑रा। अ॒हम्। उ॒त्ऽत॒रे॒। उत्ऽत॑रा। इत्। उत्ऽत॑राभ्यः। अ॒धः। स॒ऽपत्नी॑। या। मम॑। अध॑रा। सा। अध॑राभ्यः। १८.४। 
+उत्ऽत॑रा। अ॒हम्। उ॒त्ऽत॒रे॒। उत्ऽत॑रा। इत्। उत्ऽत॑राभ्यः। अ॒धः। स॒ऽपत्नी॑। या। मम॑। अध॑रा। सा। अध॑राभ्यः। १८.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Stronger am I, O stronger one, yea, mightier than the mightier; Beneath me be my
 
 टिप्पणी:   ४−(उत्तरा) उत्कृष्टरा। (अहम्) मनुष्यरूपा प्रजा। (उत्तरे) हे उत्कृष्टतरे ब्रह्मविद्ये। (उत्तराभ्यः) अन्यपश्वादिप्रजाभ्य उत्कृष्टतराभ्यः। (अधः) अधस्तात्। (सपत्नी) म० १। विरोधिनी। अविद्या। (अधरा) अन्यनिकृष्टाभ्यो विपत्तिभ्यः ॥
 </details>
-

@@ -38,9 +38,15 @@ further to emend *átho* in **c** to *ápa*.
 The thief hast thou kept far away, the robber driver of our kine. Even him who having covered up the horse's head would lead him off.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अप॑ स्ते॒नं वासो॑ गोअ॒जमु॒त तस्क॑रम्।  
+अथो॒ यो अर्व॑तः॒ शिरो॑ऽभि॒धाय॒ निनी॑षति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अप॑। स्ते॒नम्। वासः॑। गो॒ऽअ॒जम्। उ॒त। तस्क॑रम्। अथो॒ इति॑। यः। अर्व॑तः। शिरः॑। अ॒भि॒ऽधाय॑। निनी॑षति। ५०.५। 
+अप॑। स्ते॒नम्। वासः॑। गो॒ऽअ॒जम्। उ॒त। तस्क॑रम्। अथो॒ इति॑। यः। अर्व॑तः। शिरः॑। अ॒भि॒ऽधाय॑। निनी॑षति। ५०.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -70,4 +76,3 @@ The thief hast thou kept far away, the robber driver of our kine. Even him who h
 
 टिप्पणी:   ५−(अप) दूरे (स्तेनम्) चोरम् (वासः) वस निवासे-णिजन्ताल्लेटि। छान्दसं रूपम्। त्वं वासयः। निवासं देहि (गोअजम्) गो+अज गतिक्षेपणयोः अच्। सर्वत्र विभाषा गोः। पा० ६।१।१२२। इति प्रकृतिभावः। गोः क्षेप्तारं प्रेरकम् (उत) अपि च (तस्करम्) (अथो) अपि च (यः) तस्करः (अर्वतः) अश्वस्य (शिरः) (अभिधाय) बध्वा (निनीषति) अपजिहीर्षति ॥
 </details>
-

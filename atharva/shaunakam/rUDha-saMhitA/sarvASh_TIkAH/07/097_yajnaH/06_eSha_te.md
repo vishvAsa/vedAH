@@ -25,9 +25,15 @@ adjective, BR., s.v., would read with TS. *suvī́raḥ*.⌋
 This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught with vigour.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒ष ते॑ य॒ज्ञो य॑ज्ञपते स॒हसू॑क्तवाकः।  
+सु॒वीर्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒षः। ते॒। य॒ज्ञः। य॒ज्ञ॒ऽप॒ते॒। स॒हऽसू॑क्तवाकः। सु॒ऽवीर्यः॑। स्वाहा॑। १०२.६। 
+ए॒षः। ते॒। य॒ज्ञः। य॒ज्ञ॒ऽप॒ते॒। स॒हऽसू॑क्तवाकः। सु॒ऽवीर्यः॑। स्वाहा॑। १०२.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught wit
 
 टिप्पणी:   ६−(एषः) (ते) तव (यज्ञः) पूजनीयो व्यवहारः (यज्ञपते) पूजनीयो व्यवहारस्य पालक (सहसूक्तवाकः) सह+सु+उक्त+वच परिभाषणे-घञ्। शोभनानां मुक्तानां वचनानां वाकैर्भाषणैः सहितः (सुवीर्यः) उत्तमपराक्रमयुक्तः (स्वाहा) सुवाण्या ॥
 </details>
-

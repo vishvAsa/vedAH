@@ -19,9 +19,15 @@ This verse is wanting in Ppp.
 Brahma inhabits with the Gods, Brahma among the Heavenly Tribes. Brahma this other star is called. Brahma is called the Real Power.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रह्म॑ दे॒वाँ अनु॑ क्षियति॒ ब्रह्म॒ दैव॑जनी॒र्विशः॑।  
+ब्रह्मे॒दम॒न्यन्नक्ष॑त्रं॒ ब्रह्म॒ सत्क्ष॒त्रमु॑च्यते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑। दे॒वान्। अनु॑। क्षि॒य॒ति॒। ब्रह्म॑। दैव॑ऽजनीः। विशः॑। ब्रह्म॑। इ॒दम्। अ॒न्यत्। नक्ष॑त्रम्। ब्रह्म॑। सत्। क्ष॒त्रम्। उ॒च्य॒ते॒। २.२३। 
+ब्रह्म॑। दे॒वान्। अनु॑। क्षि॒य॒ति॒। ब्रह्म॑। दैव॑ऽजनीः। विशः॑। ब्रह्म॑। इ॒दम्। अ॒न्यत्। नक्ष॑त्रम्। ब्रह्म॑। सत्। क्ष॒त्रम्। उ॒च्य॒ते॒। २.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Brahma inhabits with the Gods, Brahma among the Heavenly Tribes. Brahma this oth
 
 टिप्पणी:   २३−(ब्रह्म) सुपां सुलुक्०। पा० ७।१।३९। विभक्तेः सुः। ब्रह्मणा। परमेश्वरद्वारा। अन्यत् पूर्ववत्−मन्त्र २२ ॥
 </details>
-

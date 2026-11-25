@@ -22,9 +22,15 @@ have *-mahi*.
 Thou art victorious in thy might I am endowed with conquering strength: Possessed of overpowering force we two will quell our enemies.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वम॑सि॒ सह॑मानो॒ऽहम॑स्मि॒ सह॑स्वान्।  
+उ॒भौ सह॑स्वन्तौ भू॒त्वा स॒पत्ना॑न्सहिषीमहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वम्। अ॒सि॒। सह॑मानः। अ॒हम्। अ॒स्मि॒। सह॑स्वान्। उ॒भौ। सह॑स्वन्तौ। भू॒त्वा। स॒ऽपत्ना॑न्। स॒हि॒षी॒म॒हि॒। ३२.५। 
+त्वम्। अ॒सि॒। सह॑मानः। अ॒हम्। अ॒स्मि॒। सह॑स्वान्। उ॒भौ। सह॑स्वन्तौ। भू॒त्वा। स॒ऽपत्ना॑न्। स॒हि॒षी॒म॒हि॒। ३२.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Thou art victorious in thy might I am endowed with conquering strength: Possesse
 
 टिप्पणी:   इस मन्त्र का मिलान करो-अ०३।१८।५ और ऋग्वेद १०।१४५।५॥५−(त्वम्) (असि) (सहमानः) अभिभवनशीलः (अहम्) (अस्मि) (सहस्वान्) बलवान् (उभौ) (सहस्वन्तौ) बलवन्तौ (भूत्वा) (सपत्नान्) विरोधिनः (सहिषीमहि) षह मर्षणे-आशीर्लिङि। अभिभवेम ॥
 </details>
-

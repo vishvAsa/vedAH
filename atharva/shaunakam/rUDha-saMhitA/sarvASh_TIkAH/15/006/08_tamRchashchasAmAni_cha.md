@@ -14,9 +14,14 @@ out both the verses and the chants and the sacrificial formulas and the *bráhma
 Richas, Samans Yajus formulas and Devotion followed him.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तमृच॑श्च॒सामा॑नि च॒ यजूं॑षि च॒ ब्रह्म॑ चानु॒व्य᳡चलन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तम्। ऋचः॑। च॒। सामा॑नि। च॒। यजूं॑षि। च॒। ब्रह्म॑। च॒। अ॒नु॒ऽव्य᳡चलन्। ६.८। 
+तम्। ऋचः॑। च॒। सामा॑नि। च॒। यजूं॑षि। च॒। ब्रह्म॑। च॒। अ॒नु॒ऽव्य᳡चलन्। ६.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ Richas, Samans Yajus formulas and Devotion followed him.
 
 टिप्पणी:   ८, ९−(तम्) व्रात्यम् (ऋचः) पदार्थानां गुणप्रकाशका मन्त्राः (सामानि) मोक्षप्रतिपादकमन्त्राः (यजूंषि) सत्कर्मप्रकाशकज्ञानानि (ब्रह्म) ब्रह्मज्ञानप्रतिपादकोऽथर्ववेदः।अन्यद् गतं सुगमं च ॥
 </details>
-

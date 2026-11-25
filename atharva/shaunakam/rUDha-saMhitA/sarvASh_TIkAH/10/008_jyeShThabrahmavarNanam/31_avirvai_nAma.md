@@ -20,9 +20,15 @@ means 'sheep,' but is possibly here a derivative from the root *av*
 Known by the name of Guardian Grace the Deity sits girt by Right. The trees have taken from her hue, green-garlanded, their robe of green.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अवि॒र्वै नाम॑ दे॒वत॒र्तेना॑स्ते॒ परी॑वृता।  
+तस्या॑ रू॒पेणे॒मे वृ॒क्षा हरि॑ता॒ हरि॑तस्रजः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अविः॑। वै। नाम॑। दे॒वता॑। ऋ॒तेन॑। आ॒स्ते॒। परि॑ऽवृता। तस्याः॑। रू॒पेण॑। इ॒मे। वृ॒क्षाः। हरि॑ताः। हरि॑तऽस्रजः। ८.३१। 
+अविः॑। वै। नाम॑। दे॒वता॑। ऋ॒तेन॑। आ॒स्ते॒। परि॑ऽवृता। तस्याः॑। रू॒पेण॑। इ॒मे। वृ॒क्षाः। हरि॑ताः। हरि॑तऽस्रजः। ८.३१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Known by the name of Guardian Grace the Deity sits girt by Right. The trees have
 
 टिप्पणी:   ३१−(अविः) सर्वधातुभ्य इन्। उ० ४।११८। अव रक्षणादिषु-इन्। रक्षिका (वै) एव (नाम) संज्ञा (देवता) दिव्यगुणा शक्तिः परमेश्वरः (ऋतेन) सत्यज्ञानेन (आस्ते) तिष्ठति (परिवृता) आच्छादिता (तस्याः) देवतायाः (रूपेण) स्वभावेन (इमे) दृश्यमानाः (वृक्षाः) तरवः (हरिताः) हरितवर्णाः (हरितस्रजः) हरिता कपिलद्राक्षा-इति शब्दकल्पद्रुमः, हरित एव हरिताः। द्राक्षावत् फलानां स्रजो मालाः सन्ति येषां ते ॥
 </details>
-

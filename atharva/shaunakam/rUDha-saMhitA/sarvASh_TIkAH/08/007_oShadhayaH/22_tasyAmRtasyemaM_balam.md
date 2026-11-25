@@ -19,9 +19,15 @@ W. and O.s.m. xkaA. *pārayāmasi* at end of **b**; Ppp. has
 We give the essence of that stream of nectar of this man to drink: So I prepare a remedy that he may live a hundred years.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्या॒मृत॑स्ये॒मं बलं॒ पुरु॑षं पाययामसि।  
+अथो॑ कृणोमि भेष॒जं यथास॑च्छ॒तहा॑यनः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। अ॒मृत॑स्य। इ॒मम्। बल॑म्। पुरु॑षम्। पा॒य॒या॒म॒सि॒। अथो॒ इति॑। कृ॒णो॒मि॒। भे॒ष॒जम्। यथा॑। अस॑त्। श॒तऽहा॑यनः। ७.२२। 
+तस्य॑। अ॒मृत॑स्य। इ॒मम्। बल॑म्। पुरु॑षम्। पा॒य॒या॒म॒सि॒। अथो॒ इति॑। कृ॒णो॒मि॒। भे॒ष॒जम्। यथा॑। अस॑त्। श॒तऽहा॑यनः। ७.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ We give the essence of that stream of nectar of this man to drink: So I prepare 
 
 टिप्पणी:   २२−(तस्य) पूर्वोक्तस्य (अमृतस्य) अमरणस्य। पुष्टिकरस्य पर्जन्यस्य (इमम्) (बलम्) सारम् (पुरुषम्) प्राणिनम् (पाययामसि) पानेन पोषयामः (अथो) अपि च (कृणोमि) करोमि (भेषजम्) चिकित्साम् (यथा) येन प्रकारेण (असत्) भवेत् (शतहायनः) अ० ८।२।८। शतसंवत्सरायुर्युक्तः ॥
 </details>
-

@@ -22,9 +22,15 @@ adverbially, like *bāl* in i. 3. Ppp. has a quite different reading for
 Forth from the hollow let it run, and rumbling sounds from thine inside. I have evoked the poison-taint of all Consumptions out of thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब॒हिर्बिलं॒ निर्द्र॑वतु॒ काहा॑बाहं॒ तवो॒दरा॑त्।  
+यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब॒हिः। ब‍िल॑म्। निः। द्र॒व॒तु॒। काहा॑बाहम्। तव॑। उ॒दरा॑त्। यक्ष्मा॑णाम्। सर्वे॑षाम्। वि॒षम्। निः। अ॒वो॒च॒म्। अ॒हम्। त्वत्। १३.११। 
+ब॒हिः। ब‍िल॑म्। निः। द्र॒व॒तु॒। काहा॑बाहम्। तव॑। उ॒दरा॑त्। यक्ष्मा॑णाम्। सर्वे॑षाम्। वि॒षम्। निः। अ॒वो॒च॒म्। अ॒हम्। त्वत्। १३.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Forth from the hollow let it run, and rumbling sounds from thine inside. I have 
 
 टिप्पणी:   ११−(बहिः) बहिर्भावे (बिलम्) बिल भेदने-क। भेदनरोगः (निः) (द्रवतु) गच्छतु (काहाबाहम्) कास+आङ्+वह प्रापणे-अण्, सस्य हः, वस्य बः। कासावाहम्। कासरोगोत्पादकम्। अन्यत् पूर्ववत् ॥
 </details>
-

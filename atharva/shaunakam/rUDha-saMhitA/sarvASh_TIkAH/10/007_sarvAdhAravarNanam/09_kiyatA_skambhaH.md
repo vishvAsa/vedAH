@@ -19,9 +19,15 @@ The Anukr. again passes without notice the redundant syllable in **c**.
 How far within the past hath Skambha entered? How much of him hath reached into the future? That one part which he set in thousand places,--how far did Skambha penetrate within it?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+किय॑ता स्क॒म्भः प्र वि॑वेश भू॒तं किय॑द्भवि॒ष्यद॒न्वाश॑येऽस्य।  
+एकं॒ यदङ्ग॒मकृ॑णोत्सहस्र॒धा किय॑ता स्क॒म्भः प्र वि॑वेश॒ तत्र॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-किय॑ता। स्क॒म्भः। प्र। वि॒वे॒श॒। भू॒तम्। किय॑त्। भ॒वि॒ष्यत्। अ॒नु॒ऽआश॑ये। अ॒स्य॒। एक॑म्। यत्। अङ्ग॑म्। अकृ॑णोत्। स॒ह॒स्र॒ऽधा। किय॑ता। स्क॒म्भः। प्र। वि॒वे॒श॒। तत्र॑। ७.९। 
+किय॑ता। स्क॒म्भः। प्र। वि॒वे॒श॒। भू॒तम्। किय॑त्। भ॒वि॒ष्यत्। अ॒नु॒ऽआश॑ये। अ॒स्य॒। एक॑म्। यत्। अङ्ग॑म्। अकृ॑णोत्। स॒ह॒स्र॒ऽधा। किय॑ता। स्क॒म्भः। प्र। वि॒वे॒श॒। तत्र॑। ७.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ How far within the past hath Skambha entered? How much of him hath reached into 
 
 टिप्पणी:   ९−(भूतम्) अतीतकालम् (भविष्यत्) अनागतकालम् (अन्वाशये) अनु+आङ्+शीङ् शयने-अच्। निरन्तर आशये, आधारे (अस्य) परमेश्वरस्य (एकम्) अत्यल्पमित्यर्थः (यत्) (अङ्गम्) जगतो विभागम् (अकृणोतु) रचितवान् (सहस्रधा) बहुप्रकारेण (तत्र) तस्मिन् जगतो भागे। अन्यत् पूर्ववत्−म० ८ ॥
 </details>
-

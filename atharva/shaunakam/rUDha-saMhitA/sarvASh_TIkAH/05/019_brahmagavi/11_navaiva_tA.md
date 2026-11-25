@@ -19,9 +19,15 @@ accentuations of *vyádhūnuta* are precisely the same here as there.
 Those nine-and-ninety people whom Earth shook and cast away from her, When they had wronged the Brahman race were ruined incon- ceivably.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नवै॒व ता न॑व॒तयो॒ या भूमि॒र्व्य॑धूनुत।  
+प्र॒जां हिं॑सि॒त्वा ब्राह्म॑णीमसंभ॒व्यं परा॑भवन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नव॑। ए॒व। ताः। न॒व॒तयः॑। याः। भूमिः॑। विऽअ॑धूनुत। प्र॒ऽजाम्। हिं॒सि॒त्वा। ब्राह्म॑णीम्। अ॒स॒म्ऽभ॒व्यम्। परा॑। अ॒भ॒व॒न्। १९.११। 
+नव॑। ए॒व। ताः। न॒व॒तयः॑। याः। भूमिः॑। विऽअ॑धूनुत। प्र॒ऽजाम्। हिं॒सि॒त्वा। ब्राह्म॑णीम्। अ॒स॒म्ऽभ॒व्यम्। परा॑। अ॒भ॒व॒न्। १९.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Those nine-and-ninety people whom Earth shook and cast away from her, When they 
 
 टिप्पणी:   ११−(नव नवतयः) नवगुणिता नवतयः। ९*९०=८१०। असङ्ख्याते इत्यर्थः (एव) अपि (ताः) जनताः। अन्यद् यथा−अ० ५।१८।१२ ॥
 </details>
-

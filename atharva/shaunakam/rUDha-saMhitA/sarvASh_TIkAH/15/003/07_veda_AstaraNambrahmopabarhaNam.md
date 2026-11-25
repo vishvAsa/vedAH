@@ -17,9 +17,14 @@ title = "०७ वेद आस्तरणम्ब्रह्मोपबर
 Sacred lore was the blanket, Devotion the coverlet.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वेद॑ आ॒स्तर॑णं॒ब्रह्मो॑प॒बर्ह॑णम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वेदः॑। आ॒ऽस्तर॑णम्। ब्रह्म॑। उ॒प॒ऽबर्ह॑णम्। ३.७। 
+वेदः॑। आ॒ऽस्तर॑णम्। ब्रह्म॑। उ॒प॒ऽबर्ह॑णम्। ३.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Sacred lore was the blanket, Devotion the coverlet.
 
 टिप्पणी:   ७−(वेदः) विद्लृ लाभे-असुन्। धनम्-निघ० २।१० (आस्तरणम्) आस्तरः। विष्टरः (ब्रह्म) अन्नम्-निघ० २।७। (उपबर्हणम्) बालिशम् ॥
 </details>
-

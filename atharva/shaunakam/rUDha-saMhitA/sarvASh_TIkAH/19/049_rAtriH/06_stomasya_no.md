@@ -22,9 +22,15 @@ with one syllable wanting in **c**.
 Even as a King, O splendid Night, thou takest pleasure in our hymn. May we through Mornings as they flush have all our good men, round us, and become possessors of all wealth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्तोम॑स्य नो विभावरि॒ रात्रि॒ राजे॑व जोषसे।  
+असा॑म॒ सर्व॑वीरा॒ भवा॑म॒ सर्व॑वेदसो व्यु॒च्छन्ती॒रनू॒षसः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्तोम॑स्य। नः॒। वि॒भा॒व॒रि॒। रात्रि॑। राजा॑ऽइव। जो॒ष॒से॒। असा॑म। सर्व॑ऽवीराः। भवा॑म। सर्व॑ऽवेदसः। वि॒ऽउ॒च्छन्तीः॑। अनु। उषसः। ४९.६। 
+स्तोम॑स्य। नः॒। वि॒भा॒व॒रि॒। रात्रि॑। राजा॑ऽइव। जो॒ष॒से॒। असा॑म। सर्व॑ऽवीराः। भवा॑म। सर्व॑ऽवेदसः। वि॒ऽउ॒च्छन्तीः॑। अनु। उषसः। ४९.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Even as a King, O splendid Night, thou takest pleasure in our hymn. May we throu
 
 टिप्पणी:   ६−(स्तोमस्य) स्तोत्रस्य (नः) अस्माकम् (विभावरि) हे विशेषदीप्तियुक्ते (रात्रि) (राजा) (इव) यथा (जोषसे) लेटि अडागमः। सेवस्व (असाम) (सर्ववीराः) सर्ववीरोपेताः (भवाम) (सर्ववेदसः) बहुसम्पत्तियुक्ताः (व्युच्छन्तीः) विशेषेण भासमानाः (अनु) अनुलक्ष्य (उषसः) प्रभातवेलाः ॥
 </details>
-

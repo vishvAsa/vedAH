@@ -20,9 +20,15 @@ Hillebrandt, *Mythologie*, i. 65.⌋
 Thou art descended from thee Gods, Soma's benignant friend art thou, Befriend my breath and vital air be gracious unto this mine eye.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॒वेभ्यो॒ अधि॑ जा॒तोऽसि॒ सोम॑स्यासि॒ सखा॑ हि॒तः।  
+स प्रा॒णाय॑ व्या॒नाय॒ चक्षु॑षे मे अ॒स्मै मृ॑ड ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒वेभ्यः॑। अधि॑। जा॒तः। अ॒सि॒। सोम॑स्य। अ॒सि॒। सखा॑। हि॒तः। सः। प्रा॒णाय॑। वि॒ऽआ॒नाय॑। चक्षु॑षे। मे॒। अ॒स्मै। मृ॒ड॒। ४.७। 
+दे॒वेभ्यः॑। अधि॑। जा॒तः। अ॒सि॒। सोम॑स्य। अ॒सि॒। सखा॑। हि॒तः। सः। प्रा॒णाय॑। वि॒ऽआ॒नाय॑। चक्षु॑षे। मे॒। अ॒स्मै। मृ॒ड॒। ४.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Thou art descended from thee Gods, Soma's benignant friend art thou, Befriend my
 
 टिप्पणी:   ७−(देवेभ्यः) विद्वद्भ्यः सकाशात्। (अधि) ऐश्वर्येण (जातः) उत्पन्नः (असि) (सोमस्य) ऐश्वर्ययुक्तस्य (सखा) सृहृद् (हितः) शुभकारकः (सः) स त्वम् (प्राणाय) प्राणहिताय (व्यानाय) व्यानहिताय (चक्षुषे) चक्षुर्हिताय (मे) मम (अस्मै) उपस्थिताय पुरुषाय (मृड) सुखी भव ॥
 </details>
-

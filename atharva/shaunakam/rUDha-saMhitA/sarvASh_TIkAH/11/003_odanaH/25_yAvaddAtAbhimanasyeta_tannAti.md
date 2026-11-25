@@ -17,9 +17,14 @@ overbid (*ati-vad*).
 He would not declare it to be greater than the giver imagines it to be.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+याव॑द्दा॒ताभि॑मन॒स्येत॒ तन्नाति॑ वदेत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याव॑त्। दा॒ता। अ॒भि॒ऽम॒न॒स्येत॑। तत्। न। अति॑। व॒दे॒त्। ३.२५। 
+याव॑त्। दा॒ता। अ॒भि॒ऽम॒न॒स्येत॑। तत्। न। अति॑। व॒दे॒त्। ३.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ He would not declare it to be greater than the giver imagines it to be.
 
 टिप्पणी:   २५−(यावत्) यत्प्रमाणं ब्रह्मज्ञानम् (दाता) ज्ञानदाता गुरुः (अभिमनस्येत) भृशादिभ्यो भुव्यच्वेर्लोपश्च हलः। पा० ३।१।१२। अभिमनस्-क्यङ्, न सलोपः। मनसा विचारयेत् (तत्) ब्रह्मज्ञानम् (न) निषेधे (अति) अधिकम् (वदेत्) ब्रूयात् ॥
 </details>
-

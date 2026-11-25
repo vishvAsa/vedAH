@@ -18,9 +18,14 @@ mss. read. ⌊SPP. reads *yát* with all his authorities.⌋
 To him whom we abhor, to him who hates us do we send it hence.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यं द्वि॒ष्मोयश्च॑ नो॒ द्वेष्टि॒ तस्मा॑ एनद्गमयामः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। द्वि॒ष्मः। यत्। च॒। नः॒। द्वेष्टि॑। तस्मै॑। ए॒न॒त्। ग॒म॒या॒मः॒। ६.४। 
+यम्। द्वि॒ष्मः। यत्। च॒। नः॒। द्वेष्टि॑। तस्मै॑। ए॒न॒त्। ग॒म॒या॒मः॒। ६.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ To him whom we abhor, to him who hates us do we send it hence.
 
 टिप्पणी:   ४−(यम्) कुपथ्यसेविनम् (द्विष्मः)वैरयामः, वयं वैद्याः (यत्) अव्ययम्। यः (च) (नः) अस्मान् वैद्यान् (द्वेष्टि)वैरयति (तस्मै) कुपथ्यसेविने (एनत्) कष्टम् (गमयामः) ज्ञापयामः ॥
 </details>
-

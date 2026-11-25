@@ -22,9 +22,15 @@ Ppp. puts the verse after our 31, and reads at the end *ā dadhe*. ⌊Or
 Beat them down, Indra, with thy bolt, beat them down, mighty with thine arm. I through the energy and force of Agni have secured my foes.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑वा॒चीना॒नव॑ ज॒हीन्द्र॒ वज्रे॑ण बाहु॒मान्।  
+अधा॑ स॒पत्ना॑न्माम॒कान॒ग्नेस्तेजो॑भि॒रादि॑षि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒वा॒चीना॑न्। अव॑। ज॒हि॒। इन्द्र॑। वज्रे॑ण‍। बा॒हु॒ऽमान्। अध॑। स॒ऽपत्ना॑न्। मा॒म॒कान्। अ॒ग्ने। तेजः॑ऽभिः। आ। अ॒दि॒षि॒। १.३०। 
+अ॒वा॒चीना॑न्। अव॑। ज॒हि॒। इन्द्र॑। वज्रे॑ण‍। बा॒हु॒ऽमान्। अध॑। स॒ऽपत्ना॑न्। मा॒म॒कान्। अ॒ग्ने। तेजः॑ऽभिः। आ। अ॒दि॒षि॒। १.३०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Beat them down, Indra, with thy bolt, beat them down, mighty with thine arm. I t
 
 टिप्पणी:   ३०−(अवाचीनान्) अधोगतीन्। अधार्मिकान् (अव जहि) विनाशय (इन्द्र) हे परमैश्वर्यवन् सेनापते (वज्रेण) शस्त्रेण (बाहुमान्) प्रबलभुजः (अध) अथ (सपत्नान्) (मामकान्) अ० १।२९।५। मम सम्बन्धिनः (अग्नेः) पावकस्य (तेजोभिः) ज्वालाभिः (आ अदिषि) ददातेर्लुङ्। गृहीतवानस्मि ॥
 </details>
-

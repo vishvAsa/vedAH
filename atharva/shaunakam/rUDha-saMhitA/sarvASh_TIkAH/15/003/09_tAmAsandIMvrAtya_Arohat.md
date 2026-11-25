@@ -16,9 +16,14 @@ title = "०९ तामासन्दींव्रात्य आरोह
 The Vratya ascended that couch.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तामा॑स॒न्दींव्रात्य॒ आरो॑हत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ताम्। आ॒ऽस॒न्दीम्। व्रात्यः॑। आ। अ॒रो॒ह॒त्। ३.९। 
+ताम्। आ॒ऽस॒न्दीम्। व्रात्यः॑। आ। अ॒रो॒ह॒त्। ३.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ The Vratya ascended that couch.
 
 टिप्पणी:   ९−(ताम्) पूर्वोक्ताम् (आसन्दीम्) सिंहासनम् (व्रात्यः) सर्वसमूहहितकारीपरमात्मा (आ अरोहत्) आरूढवान् ॥
 </details>
-

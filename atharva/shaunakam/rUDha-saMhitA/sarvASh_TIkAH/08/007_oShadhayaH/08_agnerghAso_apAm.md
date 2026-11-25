@@ -17,9 +17,15 @@ thousand-named—be they remedial \[when\] brought.
 Germ of the Waters, Agni's food, Plants ever growing fresh and new, Sure, healing, bearing thousand names, let them be all collected here.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्नेर्घा॒सो अ॒पां गर्भो॒ या रोह॑न्ति॒ पुन॑र्णवाः।  
+ध्रु॒वाः स॒हस्र॑ना॒म्नीर्भे॑ष॒जीः स॒न्त्वाभृ॑ताः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्नेः। घा॒सः। अ॒पाम्। गर्भः॑। याः। रोह॑न्ति। पुनः॑ऽनवाः। ध्रु॒वाः। स॒हस्र॑ऽनाम्नीः। भे॒ष॒जीः। स॒न्तु॒। आऽभृ॑ताः। ७.८। 
+अ॒ग्नेः। घा॒सः। अ॒पाम्। गर्भः॑। याः। रोह॑न्ति। पुनः॑ऽनवाः। ध्रु॒वाः। स॒हस्र॑ऽनाम्नीः। भे॒ष॒जीः। स॒न्तु॒। आऽभृ॑ताः। ७.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Germ of the Waters, Agni's food, Plants ever growing fresh and new, Sure, healin
 
 टिप्पणी:   ८−(अग्नेः) तापस्य। शरीरबलस्य (घासः) अ० ४।३८।७। भोजनम् (अपाम्) जलानाम् (गर्भः) आधारः (याः) ओषधयः (रोहन्ति) उद्भवन्ति (पुनर्णवाः) वारंवारं नवीनोत्पन्नाः (ध्रुवाः) दृढगुणाः (सहस्रनाम्नीः) बहुनामवत्यः (भेषजीः) भयजेत्र्यः। ओषधयः (सन्तु) (आभृताः) यथावत्पोषिताः ॥
 </details>
-

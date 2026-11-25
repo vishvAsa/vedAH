@@ -25,9 +25,15 @@ half-verse is given in GB. i. 2. 7. The comm. explains *pariṣūtam* as
 Piled up on high, but never yet ascended, that power of deities is brightly shining. From that sprang heavenly lore, the loftiest Brahma, and all the Gods with, life that lasts for ever.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॒वाना॑मे॒तत्प॑रिषू॒तमन॑भ्यारूढं चरति॒ रोच॑मानम्।  
+तस्मा॑ज्जा॒तं ब्राह्म॑णं॒ ब्रह्म॑ ज्ये॒ष्ठं दे॒वाश्च॒ सर्वे॑ अ॒मृते॑न सा॒कम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒वाना॑म्। ए॒तत्। प॒रि॒ऽसू॒तम्। अन॑भिऽआरूढम्। च॒र॒ति॒। रोच॑मानम्। तस्मा॑त्। जा॒तम्। ब्राह्म॑णम्। ब्रह्म॑। ज्ये॒ष्ठम्। दे॒वाः। च॒। सर्वे॑। अ॒मृते॑न। सा॒कम्। ७.२३। 
+दे॒वाना॑म्। ए॒तत्। प॒रि॒ऽसू॒तम्। अन॑भिऽआरूढम्। च॒र॒ति॒। रोच॑मानम्। तस्मा॑त्। जा॒तम्। ब्राह्म॑णम्। ब्रह्म॑। ज्ये॒ष्ठम्। दे॒वाः। च॒। सर्वे॑। अ॒मृते॑न। सा॒कम्। ७.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Piled up on high, but never yet ascended, that power of deities is brightly shin
 
 टिप्पणी:   २३−(देवानाम्) प्रकाशमानानां लोकानाम् (एतत्) एतेस्तुट् च। उ० १।१३३। इण् गतौ-अदि तुट् च। व्यापकं ब्रह्म (परिषूतम्) षू क्षेपे प्रेरणे-क्त। परितः सूतम्। सर्वतः प्रेरकम् (अनभ्यारूढम्) अनाक्रान्तं सर्वोत्कृष्टम् (चरति) व्याप्नोति (रोचमानम्) दीप्यमानम्। अन्यद् व्याख्यातम् म० ५ ॥
 </details>
-

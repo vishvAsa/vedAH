@@ -21,9 +21,15 @@ no authority nor occasion for such an understanding; the comm. also says
 That spell through which Gods sever not, nor ever bear each other hate, That spell we lay upon your home, a bond of union for the men.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+येन॑ दे॒वा न वि॒यन्ति॒ नो च॑ विद्वि॒षते॑ मि॒थः।  
+तत्कृ॑ण्मो॒ ब्रह्म॑ वो गृ॒हे सं॒ज्ञानं॒ पुरु॑षेभ्यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-येन॑। दे॒वाः। न। वि॒ऽयन्ति॑। नो इति॑। च॒। वि॒ऽद्वि॒षते॑। मि॒थः। तत्। कृ॒ण्मः॒। ब्रह्म॑। वः॒। गृ॒हे। स॒म्ऽज्ञान॑म्। पुरु॑षेभ्यः। ३०.४। 
+येन॑। दे॒वाः। न। वि॒ऽयन्ति॑। नो इति॑। च॒। वि॒ऽद्वि॒षते॑। मि॒थः। तत्। कृ॒ण्मः॒। ब्रह्म॑। वः॒। गृ॒हे। स॒म्ऽज्ञान॑म्। पुरु॑षेभ्यः। ३०.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ That spell through which Gods sever not, nor ever bear each other hate, That spe
 
 टिप्पणी:   ४−(देवाः) विजिगीषवः (वियन्ति) इण् गतौ। विरुद्धं गच्छन्ति (विद्विषते) द्विष अप्रीतौ-अदादिः। विद्वेषं कुर्वते (मिथः) परस्परम् (कृण्मः) कृवि हिंसाकरणयोः। कुर्मः (ब्रह्म) वेदज्ञानम् (संज्ञानम्) सम्यग् ज्ञानम्। अन्यत् सुगमम् ॥
 </details>
-

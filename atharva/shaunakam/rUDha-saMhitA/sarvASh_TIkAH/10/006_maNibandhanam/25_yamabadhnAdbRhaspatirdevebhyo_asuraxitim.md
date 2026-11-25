@@ -17,9 +17,15 @@ together with sweet drink—the amulet.
 The Amulet, etc. That Amulet here hath come to me with streams of butter and of mead, with sweet delicious beverage.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑म॒न्मधो॑र्घृ॒तस्य॒ धार॑या की॒लाले॑न म॒णिः स॒ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। मधोः॑। घृ॒तस्‍य॑। धार॑या। की॒लाले॑न। म॒णिः। स॒ह। ६.२५। 
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। मधोः॑। घृ॒तस्‍य॑। धार॑या। की॒लाले॑न। म॒णिः। स॒ह। ६.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ The Amulet, etc. That Amulet here hath come to me with streams of butter and of 
 
 टिप्पणी:   २५−(मधोः) मधुररसस्य (घृतस्य) सर्पिषः (धारया) प्रवाहेण (कीलालेन) अ० ४।११।१०। कीलालमन्ननाम-निघ० २।७। सुसंस्कृतेनान्नेन। अन्यद् गतम् ॥
 </details>
-

@@ -23,9 +23,15 @@ count.
 We draw about us both the arms of Indra, our deliverer. May they protect us thoroughly. O Savitar, thou God, O royal Soma, make thou me pious- minded for my welfare.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+परि॑ दद्म॒ इन्द्र॑स्य बा॒हू स॑म॒न्तं त्रा॒तुस्त्राय॑तां नः।  
+देव॑ सवितः॒ सोम॑ राजन्सु॒मन॑सं मा कृणु स्व॒स्तये॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परि॑। द॒द्मः॒। इन्द्र॑स्य। बा॒हू इति॑। स॒म॒न्तम्। त्रा॒तुः। त्राय॑ताम्। नः॒। देव॑। स॒वि॒तः॒। सोम॑। रा॒ज॒न्। सु॒ऽमन॑सम्। मा॒। कृ॒णु॒। स्व॒स्तये॑। ९९.३। 
+परि॑। द॒द्मः॒। इन्द्र॑स्य। बा॒हू इति॑। स॒म॒न्तम्। त्रा॒तुः। त्राय॑ताम्। नः॒। देव॑। स॒वि॒तः॒। सोम॑। रा॒ज॒न्। सु॒ऽमन॑सम्। मा॒। कृ॒णु॒। स्व॒स्तये॑। ९९.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ We draw about us both the arms of Indra, our deliverer. May they protect us thor
 
 टिप्पणी:   ३−(त्रातुः) रक्षकस्य (त्रायताम्) स रक्षतु (नः) अस्मान् (देव) हे प्रकाशस्वरूप (सवितः) सर्वप्रेरक (सोम) परमैश्वर्यवन् (राजन्) सर्वनियामक (सुमनसम्) शोभनमननयुक्तम् (मा) माम् (कृणु) कुरु (स्वस्तये) क्षेमाय ॥
 </details>
-

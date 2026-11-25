@@ -18,9 +18,14 @@ Compare x. 5. 25 etc.; we should expect *bhajāmas* here as there.
 We scorch out of heaven and earth and firmament the man who hates us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+निर्द्वि॒षन्तं॑दि॒वो निः पृ॑थि॒व्या निर॒न्तरि॑क्षाद्भजाम ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-निः। द्वि॒षन्त॑म्। दि॒वः। निः। पृ॒थि॒व्याः। निः। अ॒न्तरि॑क्षात्। भ॒जा॒म॒। ७.६। 
+निः। द्वि॒षन्त॑म्। दि॒वः। निः। पृ॒थि॒व्याः। निः। अ॒न्तरि॑क्षात्। भ॒जा॒म॒। ७.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ We scorch out of heaven and earth and firmament the man who hates us.
 
 टिप्पणी:   ६−(निः) पृथक् (द्विषन्तम्) वैरयन्तम् (दिवः) आकाशात् (निः) (पृथिव्याः)भूलोकात् (अन्तरिक्षात्) मध्यलोकात् (निर्भजाम) भागरहितं कुर्याम ॥
 </details>
-

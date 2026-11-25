@@ -16,9 +16,14 @@ title = "०५ बृहस्पतिर्मआत्मा नृमणा
 Brihaspati is my soul, he who is called the Friend of man, dear to my heart.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+बृह॒स्पति॑र्मआ॒त्मा नृ॒मणा॒ नाम॒ हृद्यः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-बृह॒स्पतिः॑। मे॒। आ॒त्मा। नृ॒ऽमनाः॑। नाम॑। हृद्यः॑। ३.५। 
+बृह॒स्पतिः॑। मे॒। आ॒त्मा। नृ॒ऽमनाः॑। नाम॑। हृद्यः॑। ३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Brihaspati is my soul, he who is called the Friend of man, dear to my heart.
 
 टिप्पणी:   ५−(बृहस्पतिः) महतां गुणानां पालकः (मे) मम (आत्मा) (नृमणाः) नेतृतुल्यमनस्कः (नाम) प्रसिद्धौ (हृद्यः) हृदयप्रियः ॥
 </details>
-

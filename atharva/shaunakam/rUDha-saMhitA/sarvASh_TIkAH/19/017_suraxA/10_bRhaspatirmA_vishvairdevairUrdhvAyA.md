@@ -21,9 +21,15 @@ numbers of syllables required by that treatise.
 Brihaspati, joined by the Visvedevas, protect me from the region of the zenith! To him, I go, in him I rest; this fort I seek for refuge. May he protect me, may he be my guardian. I give my soul-- All hail!--into his keeping.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+बृह॒स्पति॑र्मा॒ विश्वै॑र्दे॒वैरू॒र्ध्वाया॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-बृह॒स्पतिः॑। मा॒। विश्वैः॑। दे॒वैः। ऊ॒र्ध्वायाः॑। दि॒शः। पा॒तु॒। तस्मि॑न्। क्र॒मे॒। तस्मि॑न्। श्र॒ये॒। ताम्। पुर॑म्। प्र। ‍ ए॒मि॒। सः। मा॒। र॒क्ष॒तु॒। सः। मा॒। गो॒पा॒य॒तु॒। तस्मै॑। आ॒त्मान॑म्। परि॑। द॒दे॒। स्वाहा॑। १७.१०। 
+बृह॒स्पतिः॑। मा॒। विश्वैः॑। दे॒वैः। ऊ॒र्ध्वायाः॑। दि॒शः। पा॒तु॒। तस्मि॑न्। क्र॒मे॒। तस्मि॑न्। श्र॒ये॒। ताम्। पुर॑म्। प्र। ‍ ए॒मि॒। सः। मा॒। र॒क्ष॒तु॒। सः। मा॒। गो॒पा॒य॒तु॒। तस्मै॑। आ॒त्मान॑म्। परि॑। द॒दे॒। स्वाहा॑। १७.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Brihaspati, joined by the Visvedevas, protect me from the region of the zenith! 
 
 टिप्पणी:   १०−(बृहस्पतिः) बृहत्या वेदवाण्या रक्षकः परमात्मा (विश्वैः) सर्वैः (देवैः) श्रेष्ठगुणैः सह (ऊर्ध्वायाः) उपरिस्थितायाः। शिष्टं पूर्ववत् ॥
 </details>
-

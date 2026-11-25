@@ -18,9 +18,14 @@ restoration of the *a* of *aśvínā*.
 Sitting he is Agni, when he hath stood up he is the Asvins.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्निरासी॑न॒ उत्थि॑तो॒ऽश्विना॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। आसी॑नः। उत्थि॑तः। अ॒श्विना॑। १२.१९। 
+अ॒ग्निः। आसी॑नः। उत्थि॑तः। अ॒श्विना॑। १२.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Sitting he is Agni, when he hath stood up he is the Asvins.
 
 टिप्पणी:   १९−(अग्निः) पार्थिवो जाठरोऽग्निर्वा (आसीनः) उपविष्टः (उत्थितः) (अश्विना) अ० २।२९।६। सूर्याचन्द्रमसौ यथा ॥
 </details>
-

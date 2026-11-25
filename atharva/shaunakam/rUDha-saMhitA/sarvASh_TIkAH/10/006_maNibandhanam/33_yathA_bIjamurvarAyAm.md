@@ -19,9 +19,15 @@ The Anukr. seems to read **c, d** as 9 + 7 syllables.
 As, when the plough hath tilled the soil, the seed springs up in. fertile land, Let cattle, progeny, and food of every kind spring up with me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॒ बीज॑मु॒र्वरा॑यां कृ॒ष्टे फाले॑न॒ रोह॑ति।  
+ए॒वा मयि॑ प्र॒जा प॒शवोऽन्न॑मन्नं॒ वि रो॑हतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। बीज॑म्। उ॒र्वरा॑याम्। कृ॒ष्टे। फाले॑न। रोह॑ति। ए॒व। मयि॑। प्र॒ऽजा। प॒शवः॑। अन्न॑म्ऽअन्नम्। वि। रो॒ह॒तु॒। ६.३३। 
+यथा॑। बीज॑म्। उ॒र्वरा॑याम्। कृ॒ष्टे। फाले॑न। रोह॑ति। ए॒व। मयि॑। प्र॒ऽजा। प॒शवः॑। अन्न॑म्ऽअन्नम्। वि। रो॒ह॒तु॒। ६.३३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ As, when the plough hath tilled the soil, the seed springs up in. fertile land, 
 
 टिप्पणी:   ३३−(यथा) येन प्रकारेण (बीजम्) अ० ३।१७।२। उत्पत्तिकारणम् (उर्वरायाम्) उरु−ऋ गतौ-अच्, टाप्। शस्याढ्यायां भूमौ (कृष्टे) विलिखिते क्षेत्रे (फालेन) फल विदारणे-घञ्। लाङ्गलमुखस्येन लौहेन (रोहति) उत्पद्यते (एव) तथा (मयि) (प्रजा) सन्तानः (पशवः) गवाश्वादयः (अन्नमन्नम्) बहुपरिमाणमन्नम् (वि) विविधम् (रोहतु) जायताम् ॥
 </details>
-

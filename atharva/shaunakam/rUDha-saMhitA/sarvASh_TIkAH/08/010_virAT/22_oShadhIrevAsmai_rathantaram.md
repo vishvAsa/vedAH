@@ -25,9 +25,14 @@ paragraphs find correspondences in MS. iv. (p. 21, l. 14 ff.; p. 36, l.
 She rose, approached the Asuras: they called her: their cry was, Come, O Maya, come thou hither. Her dear calf was Virochana Prahradi: her milking vessel was a. pan of iron. Dvimurdha Artvya milked her, yea, this Maya, The Asuras depend for life on Maya. He who knows this becomes a fit supporter.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ओष॑धीरे॒वास्मै॑ रथन्त॒रं दु॑हे॒ व्यचो॑ बृ॒हत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ओष॑धीः। ए॒व। अ॒स्मै॒। र॒थ॒मऽत॒रम्। दु॒हे॒। व्यचः॑। बृ॒हत्। ११.९। 
+ओष॑धीः। ए॒व। अ॒स्मै॒। र॒थ॒मऽत॒रम्। दु॒हे॒। व्यचः॑। बृ॒हत्। ११.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +62,3 @@ She rose, approached the Asuras: they called her: their cry was, Come, O Maya, c
 
 टिप्पणी:   ९, १०−(अस्मै) ब्रह्मज्ञानिने (दुहे) द्विकर्मकः। दुग्धे। प्रपूरयति (व्यचः) विस्तृतम्। अन्यत् पूर्ववत् ॥
 </details>
-

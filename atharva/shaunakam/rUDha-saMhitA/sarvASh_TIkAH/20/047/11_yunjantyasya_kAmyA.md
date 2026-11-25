@@ -8,9 +8,15 @@ title = "११ युञ्जन्त्यस्य काम्या"
 They yoke on both sides to the car the two bay coursers dear to him, Bold, tawny, bearers of the Chief.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यु॒ञ्जन्त्य॑स्य॒ काम्या॒ हरी॒ विप॑क्षसा॒ रथे॑।  
+शोणा॑ धृ॒ष्णू नृ॒वाह॑सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यु॒ञ्जन्ति॑। अ॒स्य॒। काम्या॑। हरी॒ इति॑। विऽप॑क्षसा। रथे॑। शोणा। धृ॒ष्णू इति॑। नृ॒ऽवाह॑सा। ४७.११। 
+यु॒ञ्जन्ति॑। अ॒स्य॒। काम्या॑। हरी॒ इति॑। विऽप॑क्षसा। रथे॑। शोणा। धृ॒ष्णू इति॑। नृ॒ऽवाह॑सा। ४७.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ They yoke on both sides to the car the two bay coursers dear to him, Bold, tawny
 
 टिप्पणी:   १०-१२−एते मन्त्रा व्याख्याताः-अ० २०।२६।४-६ ॥
 </details>
-

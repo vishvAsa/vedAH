@@ -17,9 +17,14 @@ The description of the Anukr. implies the resolution *-pni-am*.
 Sin while she is cooking, evil dream when she is cooked;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒घं प॒च्यमा॑ना दुः॒ष्वप्न्यं॑ प॒क्वा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒घम्। प॒च्यमा॑ना। दुः॒ऽस्वप्न्य॑म्। प॒क्वा। ८.५। 
+अ॒घम्। प॒च्यमा॑ना। दुः॒ऽस्वप्न्य॑म्। प॒क्वा। ८.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Sin while she is cooking, evil dream when she is cooked;
 
 टिप्पणी:   ३२−(अघम्) महादुःखम् (पच्यमाना) पाकं नाशं गम्यमाना (दुःष्वप्न्यम्) दुष्टः स्वप्नः (पक्वा) पाकं नाशं गता ॥
 </details>
-

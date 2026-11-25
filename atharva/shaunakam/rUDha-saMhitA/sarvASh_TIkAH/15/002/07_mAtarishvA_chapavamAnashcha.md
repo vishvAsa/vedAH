@@ -8,17 +8,22 @@ title = "०७ मातरिश्वा चपवमानश्च"
 ### Translation
 **g.** ⌊7.⌋ Mātariśvan and Pavamāna (the  
 'cleansing' wind) the two drawers (*-vāhá*) of the rough vehicle, the  
-wind the charioteer, the whirlwind the goad, 
+wind the charioteer, the whirlwind the goad,
 </details>
 
 <details><summary>Griffith</summary>
 
-Matarisvan and Pavamana are they who draw it, Vita is his charioteer, Storm his goad, 
+Matarisvan and Pavamana are they who draw it, Vita is his charioteer, Storm his goad,
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मा॑त॒रिश्वा॑ च॒पव॑मानश्च विपथवा॒हौ वातः॒ सार॑थी रे॒ष्मा प्र॑तो॒दः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-मा॒त॒रिश्वा॑। च॒। पव॑मानः। च॒। वि॒प॒थ॒ऽवा॒हौ। वातः॑। सार॑थिः। रे॒ष्मा। प्र॒ऽतो॒दः। २.७। 
+मा॒त॒रिश्वा॑। च॒। पव॑मानः। च॒। वि॒प॒थ॒ऽवा॒हौ। वातः॑। सार॑थिः। रे॒ष्मा। प्र॒ऽतो॒दः। २.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Matarisvan and Pavamana are they who draw it, Vita is his charioteer, Storm his 
 
 टिप्पणी:   ७−(मातरिश्वा) आकाशेगमनशीलः सूत्रात्मा वायुः (च) (पवमानः) संशोधको वायुः (च) (विपथवाहौ) रथवाहकौवृषभौ यथा (वातः) सामान्यपवनः (सारथिः) सर्तेर्णिच्च। उ० ४।८९। सृ गतौ-घथिन्, णित्। रथचालकः (रेष्मा) रिष हिंसायाम्-मनिन्। प्रचण्डवायुः (प्रतोदः) तुद-घञ्।अश्वादिताडनदण्डः ॥
 </details>
-

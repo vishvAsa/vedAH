@@ -19,9 +19,15 @@ Ppp. reads in **c** *balāsam* for *yakṣmaṁ te* \[cf. our 8 c and under
 Disease that creeps about the thighs and, after, reaches both the groins, Consumption from thine inward parts we charm away with this our spell.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य ऊ॒रू अ॑नु॒सर्प॒त्यथो॒ एति॑ ग॒वीनि॑के।  
+यक्ष्मं॑ ते अ॒न्तरङ्गे॑भ्यो ब॒हिर्निर्म॑न्त्रयामहे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। ऊ॒रू इति॑। अ॒नु॒ऽसर्प॑ति। अथो॒ इति॑। एति॑। ग॒वीनिके॒ इति॑। यक्ष्म॑म्। ते॒। अ॒न्तः। अङ्गे॑भ्यः। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.७। 
+यः। ऊ॒रू इति॑। अ॒नु॒ऽसर्प॑ति। अथो॒ इति॑। एति॑। ग॒वीनिके॒ इति॑। यक्ष्म॑म्। ते॒। अ॒न्तः। अङ्गे॑भ्यः। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Disease that creeps about the thighs and, after, reaches both the groins, Consum
 
 टिप्पणी:   ७−(यः) यक्ष्मः (ऊरू) जानूपरिभागौ (अनुसर्पति) अनुक्रमेण गच्छति (अथो) अपि च (एति) प्राप्नोति (गवीनिके) अ० १।११।५। पार्श्वस्थनाड्यौ (अन्तः) मध्येभ्यः। अन्यत् पूर्ववत् ॥
 </details>
-

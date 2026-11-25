@@ -24,9 +24,15 @@ which this hymn has been increased beyond the norm of the book.
 May the Apsarases release, Indra and Bhaga let thee go. May all the Gods deliver thee that thou no longer mayst be mad.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पुन॑स्त्वा दुरप्स॒रसः॒ पुन॒रिन्द्रः॒ पुन॒र्भगः॑।  
+पुन॑स्त्वा दु॒र्विश्वे॑ दे॒वा यथा॑नुन्मदि॒तोऽस॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पुनः॑। त्वा॒। दुः॒। अ॒प्स॒रसः॑। पुनः॑। इन्द्रः॑। पुनः॑। भगः॑। पुनः॑। त्वा॒। दुः॒। विश्वे॑। दे॒वाः। यथा॑। अनु॑त्ऽमदितः। अस॑सि। १११.४। 
+पुनः॑। त्वा॒। दुः॒। अ॒प्स॒रसः॑। पुनः॑। इन्द्रः॑। पुनः॑। भगः॑। पुनः॑। त्वा॒। दुः॒। विश्वे॑। दे॒वाः। यथा॑। अनु॑त्ऽमदितः। अस॑सि। १११.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ May the Apsarases release, Indra and Bhaga let thee go. May all the Gods deliver
 
 टिप्पणी:   ४−(पुनः) रोगशान्त्यनन्तरम् (त्वा) त्वां रोगिणम् (दुः) डुदाञ् दाने विधिलिङ् छान्दसं रूपम्। दद्युः (अप्सरसः) अ० ४।३७।२। अप्सु आकाशे प्रजासु च सरणशीला विद्युतः (इन्द्रः) सूर्यः (भगः) चन्द्रः (विश्वे) सर्वे (देवाः) दिव्यपदार्थाः। अन्यद्गतम् ॥
 </details>
-

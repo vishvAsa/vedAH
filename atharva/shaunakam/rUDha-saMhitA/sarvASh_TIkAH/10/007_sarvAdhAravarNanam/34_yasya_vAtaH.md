@@ -20,9 +20,15 @@ cakre mūrdhānaṁ*. The Anukr. describes correctly vss. 34 and 36.
 Homage to highest Brahma, him whose two life-breathings were the Wind, The Angirases his sight: who made the regions be his means of sense.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्य॒ वातः॑ प्राणापा॒नौ चक्षु॒रङ्गि॑र॒सोऽभ॑वन्।  
+दिशो॒ यश्च॒क्रे प्र॒ज्ञानी॒स्तस्मै॑ ज्ये॒ष्ठाय॒ ब्रह्म॑णे॒ नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्य॑। वातः॑। प्रा॒णा॒पा॒नौ। चक्षुः॑। अङ्गि॑रसः। अभ॑वन्। दिशः॑। यः। च॒क्रे। प्र॒ऽज्ञानीः॑। तस्मै॑। ज्ये॒ष्ठाय॑। ब्रह्म॑णे। नमः॑। ७.३४। 
+यस्य॑। वातः॑। प्रा॒णा॒पा॒नौ। चक्षुः॑। अङ्गि॑रसः। अभ॑वन्। दिशः॑। यः। च॒क्रे। प्र॒ऽज्ञानीः॑। तस्मै॑। ज्ये॒ष्ठाय॑। ब्रह्म॑णे। नमः॑। ७.३४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Homage to highest Brahma, him whose two life-breathings were the Wind, The Angir
 
 टिप्पणी:   ३४−(यस्य) (वातः) वायुः (प्राणापानौ) श्वासप्रश्वासतुल्यः (चक्षुः) (अङ्गिरसः) अङ्गिरा अङ्गरा अङ्कना अञ्चनाः-निरु० ३।१७। प्रकाशकाः किरणाः (अभवन्) (दिशः) (यः) (चक्रे) (प्रज्ञानीः) प्रज्ञापिनीर्व्यवहारप्रज्ञापयित्रीः। अन्यत् पूर्ववत् ॥
 </details>
-

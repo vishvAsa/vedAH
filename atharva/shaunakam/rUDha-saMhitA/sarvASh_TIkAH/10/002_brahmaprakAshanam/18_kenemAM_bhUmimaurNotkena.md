@@ -19,9 +19,15 @@ This verse, as noted above, is wanting in Ppp.
 Through whom did he bedeck the earth, through whom did he encompass heaven? Whose might made Purusha surpass the mountains and created things?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+केने॒मां भूमि॑मौर्णो॒त्केन॒ पर्य॑भव॒द्दिव॑म्।  
+केना॒भि म॒ह्ना पर्व॑ता॒न्केन॒ कर्मा॑णि॒ पुरु॑षः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-केन॑। इ॒माम्। भूमि॑म्। औ॒र्णो॒त्। केन॑। परि॑। अ॒भ॒व॒त्। दिव॑म्। केन॑। अ॒भि। म॒ह्ना। पर्व॑तान्। केन॑। कर्मा॑णि। पुरु॑षः। २.१८। 
+केन॑। इ॒माम्। भूमि॑म्। औ॒र्णो॒त्। केन॑। परि॑। अ॒भ॒व॒त्। दिव॑म्। केन॑। अ॒भि। म॒ह्ना। पर्व॑तान्। केन॑। कर्मा॑णि। पुरु॑षः। २.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Through whom did he bedeck the earth, through whom did he encompass heaven? Whos
 
 टिप्पणी:   १८−(केन) म० ५। कर्ता प्रजापतिना सह (इमाम्) (भूमिम्) (और्णोत्) आच्छादितवान् (केन) परमेश्वरेण (परि अभवत्) सर्वतो व्याप्तवान् (दिवम्) आकाशम् (केन) (अभि) अभ्यभवत्। व्याप्तवान् (मह्ना) महिम्ना (पर्वतान्) शैलान् (केन) (कर्माणि) कृतानि रचितानि वस्तूनि (पुरुषः) मनुष्यः ॥
 </details>
-

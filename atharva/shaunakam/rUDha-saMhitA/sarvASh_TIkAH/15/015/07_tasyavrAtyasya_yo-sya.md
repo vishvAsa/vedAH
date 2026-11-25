@@ -17,9 +17,15 @@ waters.
 His fifth vital breath, called Source, are these Waters.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्य॒व्रात्य॑स्य।  
+यो᳡ऽस्य॑ पञ्च॒मः प्रा॒णो योनि॒र्नाम॒ ता इ॒मा आपः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। प॒ञ्च॒मः। प्रा॒णः। योनिः॑। नाम॑। ताः। इ॒माः। आपः॑। १५.७। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। प॒ञ्च॒मः। प्रा॒णः। योनिः॑। नाम॑। ताः। इ॒माः। आपः॑। १५.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ His fifth vital breath, called Source, are these Waters.
 
 टिप्पणी:   ७−(योनिः) यु मिश्रणामिश्रणयोः-नि। कारणम् (आपः) जलविद्या। अन्यत् पूर्ववत्स्पष्टं च ॥
 </details>
-

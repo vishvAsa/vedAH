@@ -8,9 +8,15 @@ title = "१८ ग्रीवाभ्यस्त उष्णिहाभ्
 From the neck-tendons and the neck, from the breast-bones and from the spine, From shoulders, upper, lower arms, I drive thy malady away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ग्री॒वाभ्य॑स्त उ॒ष्णिहा॑भ्यः॒ कीक॑साभ्यो अनू॒क्या᳡त्।  
+यक्ष्मं॑ दोष॒ण्य१॒॑मंसा॑भ्यां बा॒हुभ्यां॒ वि वृ॑हामि ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ग्री॒वाभ्यः॑। ते॒। उ॒ष्णिहा॑भ्यः। कीक॑साभ्यः। अ॒नू॒क्या॑त्। यक्ष्म॑म्। दो॒ष॒ण्य॑म्। अंसा॑भ्याम्। बा॒हुऽभ्या॑म्। वि। वृ॒हा॒मि॒। ते॒। ९६.१८। 
+ग्री॒वाभ्यः॑। ते॒। उ॒ष्णिहा॑भ्यः। कीक॑साभ्यः। अ॒नू॒क्या॑त्। यक्ष्म॑म्। दो॒ष॒ण्य॑म्। अंसा॑भ्याम्। बा॒हुऽभ्या॑म्। वि। वृ॒हा॒मि॒। ते॒। ९६.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ From the neck-tendons and the neck, from the breast-bones and from the spine, Fr
 
 टिप्पणी:   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
-

@@ -25,9 +25,15 @@ Ppp. reads, for **b**, *prajayā ca bahuṁ kṛdhi*, and combines in **d**
 Endow me with the gift of strength, with children, and a length- ened life. May the Gods mark this prayer of mine, may Indra with the Rishis mark.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा।  
+वि॒द्युर्मे॑ अ॒स्य दे॒वा इन्द्रो॑ विद्यात्स॒ह ऋषि॑भिः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। मा॒। अ॒ग्ने॒। वर्च॑सा। सृ॒ज॒। सम्। प्र॒ऽजया॑। सम्। आयु॑षा। वि॒द्युः। मे॒। अ॒स्य। दे॒वाः। इन्द्रः॑। वि॒द्या॒त्। स॒ह। ऋषि॑ऽभिः। ९४.२। 
+सम्। मा॒। अ॒ग्ने॒। वर्च॑सा। सृ॒ज॒। सम्। प्र॒ऽजया॑। सम्। आयु॑षा। वि॒द्युः। मे॒। अ॒स्य। दे॒वाः। इन्द्रः॑। वि॒द्या॒त्। स॒ह। ऋषि॑ऽभिः। ९४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Endow me with the gift of strength, with children, and a length- ened life. May 
 
 टिप्पणी:   २−(सम्) सम्यक् (मा) माम् (अग्ने) विद्वन् (वर्चसा) वेदाध्ययनादितेजसा (सृज) संयोजय (सम्) (प्रजया) (सम्) (आयुषा) जीवनेन (विद्युः) जानीयुः (मे) द्वितीयार्थे षष्ठी। माम् (अस्य) एनम् (देवाः) विद्वांसः (इन्द्रः) ऐश्वर्यवान्। आचार्यः (विद्यात्) जानीयात् (ऋषिभिः) अ० २।६।१। आप्तैः। मुनिभिः ॥
 </details>
-

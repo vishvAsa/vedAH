@@ -25,9 +25,15 @@ SPP. and the comm. and Ppp. Correct the *Index* accordingly.⌋
 Both fellow teeth have been invoked, gentle and bringing happi- ness. Else whither let the fierceness of your nature turn away, O Teeth! Harm not your mother or your sire.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑हूतौ स॒युजौ॑ स्यो॒नौ दन्तौ॑ सुम॒ङ्गलौ॑।  
+अ॒न्यत्र॑ वां घो॒रं त॒न्वः१॒॑ परै॑तु दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑ऽहूतौ। स॒ऽयुजौ॑। स्यो॒नौ। दन्तौ॑। सु॒ऽम॒ङ्गलौ॑। अ॒न्यत्र॑। वा॒म्। घो॒रम्। त॒न्वः᳡। परा॑। ए॒तु॒। द॒न्तौ॒। मा। हिं॒सि॒ष्ट॒म्। पि॒तर॑म्। मा॒तर॑म्। च॒। १४०.३। 
+उप॑ऽहूतौ। स॒ऽयुजौ॑। स्यो॒नौ। दन्तौ॑। सु॒ऽम॒ङ्गलौ॑। अ॒न्यत्र॑। वा॒म्। घो॒रम्। त॒न्वः᳡। परा॑। ए॒तु॒। द॒न्तौ॒। मा। हिं॒सि॒ष्ट॒म्। पि॒तर॑म्। मा॒तर॑म्। च॒। १४०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Both fellow teeth have been invoked, gentle and bringing happi- ness. Else whith
 
 टिप्पणी:   ३−(उपहूतौ) ह्वेञ् स्पर्धायां शब्दे च−क्त। परस्परस्पर्धायुक्तौ (सयुजौ) समानं युञ्जानौ (स्योनौ) सुखकरौ (दन्तौ) उभयतो दन्तगणौ (सुमङ्गलौ) सुमङ्गलकरौ (अन्यत्र) पृथक् स्थाने (वाम्) युवयोः (घोरम्) क्रूरं कर्म (तन्वः) शिशुशरीरात् (परा) (दूरे) (एतु) गच्छतु। अन्यत्पूर्ववत्−म० २ ॥
 </details>
-

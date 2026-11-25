@@ -19,9 +19,14 @@ be called a *sāmnī triṣṭubh*. Ppp. reads in **b** *ṛtasya naṣ*.
 May Soma, gracious friend, imperial Sovran, and the world's Masters look on us with favour.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोमो॒ राजा॑धि॒पा मृ॑डि॒ता च॑ भू॒तस्य॑ नः॒ पत॑यो मृडयन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सोमः॑। राजा॑। अ॒धि॒ऽपाः। मृ॒डि॒ताः। च॒। भू॒तस्य॑। नः॒। पत॑यः। मृ॒ड॒य॒न्तु॒। १.२२। 
+सोमः॑। राजा॑। अ॒धि॒ऽपाः। मृ॒डि॒ताः। च॒। भू॒तस्य॑। नः॒। पत॑यः। मृ॒ड॒य॒न्तु॒। १.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ May Soma, gracious friend, imperial Sovran, and the world's Masters look on us w
 
 टिप्पणी:   २२−(सोमः) ऐश्वर्यवान् (राजा) शासकः (अधिपाः) अधिकपालकः (मृडिता) सुखयिता (च) (भूतस्य पतयः) संसारस्य पालका राजपुरुषाः (नः) अस्मान् (मृडयन्तु) सुखयन्तु ॥
 </details>
-

@@ -23,9 +23,14 @@ impossible, and wholly unimportant, to determine ⌊cf. introd. to vi.
 We know thine origin, O Sleep. Thou art the son of Grahi, the minister of Yama. Thou art the Ender, thou art Death. As such, O Sleep, we know thee well. As such preserve us from the evil dream.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒द्म ते॑स्वप्न ज॒नित्रं॒ ग्राह्याः॑ पु॒त्रो᳡ऽसि॑ य॒मस्य॒ कर॑णः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒द्म। ते॒। स्व॒प्न॒। ज॒नित्र॑म्। ग्राह्याः॑। पु॒त्रः। अ॒सि॒। य॒मस्य॑। कर॑णः। ५.१। 
+वि॒द्म। ते॒। स्व॒प्न॒। ज॒नित्र॑म्। ग्राह्याः॑। पु॒त्रः। अ॒सि॒। य॒मस्य॑। कर॑णः। ५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ We know thine origin, O Sleep. Thou art the son of Grahi, the minister of Yama. 
 
 टिप्पणी:   १−इदं सूक्तं किञ्चिद्भेदेन गतं व्याख्यातं च-अ० ६।४६।२। (विद्म) जानीमः (ते) तव (स्वप्न) हे निद्रे।हे आलस्य (जनित्रम्) जन्मस्थानम् (ग्राह्याः) अ० २।९।१। सन्धीनांग्रहणशीलपीडायाः (पुत्रः) पुत्र इवोत्पन्नः (यमस्य) मृत्योः (करणः) करोतेर्ल्यु।कर्ता ॥
 </details>
-

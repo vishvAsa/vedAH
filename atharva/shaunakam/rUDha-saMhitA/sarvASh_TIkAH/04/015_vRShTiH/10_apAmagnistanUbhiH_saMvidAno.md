@@ -20,9 +20,15 @@ notes the redundant syllable in **d**.
 May he who hath become the plants' high regent, suiting our bodies, Agni of the Waters, May Jatavedas send us rain from heaven, Amrit and vital breath to earthly creatures.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒पाम॒ग्निस्त॒नूभिः॑ संविदा॒नो य ओष॑धीनामधि॒पा ब॒भूव॑।  
+स नो॑ व॒र्षं व॑नुतां जा॒तवे॑दाः प्रा॒णं प्र॒जाभ्यो॑ अ॒मृतं॑ दि॒वस्परि॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पाम्। अ॒ग्निः। त॒नूभिः॑। स॒म्ऽवि॒दा॒नः। यः। ओष॑धीनाम्। अ॒धि॒ऽपा। ब॒भूव॑। सः। नः॒। व॒र्षम्। व॒नु॒ता॒म्। जा॒तऽवे॑दाः। प्रा॒णम्। प्र॒ऽजाभ्यः॑। अ॒मृत॑म्। दि॒वः। परि॑। १५.१०। 
+अ॒पाम्। अ॒ग्निः। त॒नूभिः॑। स॒म्ऽवि॒दा॒नः। यः। ओष॑धीनाम्। अ॒धि॒ऽपा। ब॒भूव॑। सः। नः॒। व॒र्षम्। व॒नु॒ता॒म्। जा॒तऽवे॑दाः। प्रा॒णम्। प्र॒ऽजाभ्यः॑। अ॒मृत॑म्। दि॒वः। परि॑। १५.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ May he who hath become the plants' high regent, suiting our bodies, Agni of the 
 
 टिप्पणी:   ९−(आपः) जलधाराः (विद्युत्) तडित् (अभ्रम्) उदकपूर्णो मेघः (वर्षम्) वृष्टिजलम् (प्र) प्रकर्षेण। अन्यद् यथा म० ७ ॥
 </details>
-

@@ -21,9 +21,15 @@ namas trayatābhyaḥ* (but in i., where the verse is also found,
 Worship to thee, the archer, and O Rudra, to thy levelled shaft! Yea, worship to thine arrow when it left the bow, and when it fell!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नम॑स्ते रु॒द्रास्य॑ते॒ नमः॒ प्रति॑हितायै।  
+नमो॑ विसृ॒ज्यमा॑नायै॒ नमो॒ निप॑तितायै ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नमः॑। ते॒। रु॒द्र॒। अस्य॑ते। नमः॑। प्रति॑ऽहितायै। नमः॑। वि॒ऽसृ॒ज्यमा॑नायै। नमः॑। निऽप॑तितायै। ९०.३। 
+नमः॑। ते॒। रु॒द्र॒। अस्य॑ते। नमः॑। प्रति॑ऽहितायै। नमः॑। वि॒ऽसृ॒ज्यमा॑नायै। नमः॑। निऽप॑तितायै। ९०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Worship to thee, the archer, and O Rudra, to thy levelled shaft! Yea, worship to
 
 टिप्पणी:   ३−(नमः) सत्कारः (ते) तुभ्यम् (रुद्र) हे पापिनां रोदयितः परमेश्वर (अस्यते) इषुं क्षिपते (प्रतिहितायै) हननाय संहितायै त्वदीयेषवे (विसृज्यमानायै) प्रेर्यमाणायै (निपतितायै) लक्ष्ये अधः पतितायै ॥
 </details>
-

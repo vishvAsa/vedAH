@@ -20,9 +20,15 @@ kine, by horses, by progeny, by cattle, by houses, by riches.
 Thou art the New Moon, fair to see, thou art complete in every part. May I be perfect, fully blest in every way in steeds and kine, in children, cattle, home, and wealth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+द॒र्शो᳡सि॑ दर्श॒तो᳡सि॒ सम॑ग्रोऽसि॒ सम॑न्तः।  
+सम॑ग्रः॒ सम॑न्तो भूयासं॒ गोभि॒रश्वैः॑ प्र॒जया॑ प॒शुभि॑र्गृ॒हैर्धने॑न ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द॒र्शः। अ॒सि॒। द॒र्श॒तः। अ॒सि॒। सम्ऽअ॑ग्रः। अ॒सि॒। सम्ऽअ॑न्तः। सम्ऽअ॑ग्रः॒। सम्ऽअ॑न्तः। भू॒या॒स॒म्। गोभिः॑। अश्वैः॑। प्र॒ऽजया॑। प॒शुऽभिः॑। गृ॒हैः। धने॑न। ८६.४। 
+द॒र्शः। अ॒सि॒। द॒र्श॒तः। अ॒सि॒। सम्ऽअ॑ग्रः। अ॒सि॒। सम्ऽअ॑न्तः। सम्ऽअ॑ग्रः॒। सम्ऽअ॑न्तः। भू॒या॒स॒म्। गोभिः॑। अश्वैः॑। प्र॒ऽजया॑। प॒शुऽभिः॑। गृ॒हैः। धने॑न। ८६.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Thou art the New Moon, fair to see, thou art complete in every part. May I be pe
 
 टिप्पणी:   ४−(दर्शः)-म० ३। दर्शनीयः (असि) भवसि (दर्शनः) अ० ४।१०।६। पश्यति येन सः। सूर्यः। चन्द्रः (समग्रः) सम्पूर्णगुणः (समन्तः) पूर्णकलः (समग्रः) संपूर्णः (समन्तः) समृद्धः (गोभिः) अश्वैः (प्रजया) (पशुभिः) हस्तिमहिषीमेषादिभिः (गृहैः) (धनेन) ॥
 </details>
-

@@ -8,9 +8,16 @@ title = "०१ वि त्वा"
 Couples desirous of thine aid are storming thee, pouring their presents forth to win a stall of king pouring gifts, Indra, seeking thee. When two men seeking spoil or heaven thou bringest face to face in war, Thou showest, Indra, then the bolt, thy constant friend, the bull that ever waits on thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि त्वा॑ ततस्रे मिथु॒ना अ॑व॒स्यवो॑ व्र॒जस्य॑ सा॒ता गव्य॑स्य निः॒सृजः॒ सक्ष॑न्त इन्द्र निःसृजः।  
+यद्ग॒व्यन्त॒ द्वा जना॒ स्व१॒॑र्यन्ता॑ स॒मूह॑सि।  
+आ॒विष्करि॑क्र॒द्वृष॑णं सचा॒भुवं॒ वज्र॑मिन्द्र सचा॒भुव॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि। त्वा॒। त॒त॒स्रे॒। मि॒थु॒नाः। अ॒व॒स्यवः॑। व्र॒जस्य॑। सा॒ता। गव्य॑स्य। निः॒ऽसृजः॑। सक्ष॑न्तः। इ॒न्द्र॒। निः॒ऽसृज॑। यत्। ग॒व्यन्ता॑। द्वा। जना॑। स्वः॑। यन्ता॑। स॒म्ऽऊह॑सि। आ॒विः। करि॑क्रत्। वृष॑णम्। स॒चा॒ऽभुव॑म्। वज्र॑म्। इ॒न्द्र॒। स॒चा॒ऽभुव॑म्। ७५.१। 
+वि। त्वा॒। त॒त॒स्रे॒। मि॒थु॒नाः। अ॒व॒स्यवः॑। व्र॒जस्य॑। सा॒ता। गव्य॑स्य। निः॒ऽसृजः॑। सक्ष॑न्तः। इ॒न्द्र॒। निः॒ऽसृज॑। यत्। ग॒व्यन्ता॑। द्वा। जना॑। स्वः॑। यन्ता॑। स॒म्ऽऊह॑सि। आ॒विः। करि॑क्रत्। वृष॑णम्। स॒चा॒ऽभुव॑म्। वज्र॑म्। इ॒न्द्र॒। स॒चा॒ऽभुव॑म्। ७५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +47,3 @@ Couples desirous of thine aid are storming thee, pouring their presents forth to
 
 टिप्पणी:   यह तृच ऋग्वेद में है-१।१३१।३-। मन्त्र १ आचुका है-अथ० २०।७२।२ ॥
 </details>
-

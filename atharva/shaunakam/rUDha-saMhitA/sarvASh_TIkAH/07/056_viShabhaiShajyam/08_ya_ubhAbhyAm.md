@@ -22,9 +22,15 @@ viṣaṁ*.⌋
 Thou creature who inflictest wounds both with thy mouth and with thy tail, No poison in thy mouth hast thou: what at thy tail's root will there be?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य उ॒भाभ्यां॑ प्र॒हर॑सि॒ पुच्छे॑न चा॒स्ये᳡न च।  
+आ॒स्ये॒३॒॑ न ते॑ वि॒षं किमु॑ ते पुच्छ॒धाव॑सत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। उ॒भाभ्या॑म्। प्र॒ऽहर॑सि। पुच्छे॑न। च॒। आ॒स्ये᳡न। च॒। आ॒स्ये᳡। न। ते॒। वि॒षम्। किम्। ऊं॒ इति॑। ते॒। पु॒च्छ॒ऽधौ। अ॒स॒त्। ५८.८। 
+यः। उ॒भाभ्या॑म्। प्र॒ऽहर॑सि। पुच्छे॑न। च॒। आ॒स्ये᳡न। च॒। आ॒स्ये᳡। न। ते॒। वि॒षम्। किम्। ऊं॒ इति॑। ते॒। पु॒च्छ॒ऽधौ। अ॒स॒त्। ५८.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Thou creature who inflictest wounds both with thy mouth and with thy tail, No po
 
 टिप्पणी:   ८−(यः) (उभाभ्याम्) द्वाभ्याम् (प्रहरसि) बाधसे (पुच्छेन) म० ६। लाङ्गलेन (आस्येन) मुखेन (च च) समुच्चये (आस्ये) मुखे (न) निषेधे (ते) तव (विषम्) (किम् असत्) किं स्यात्, न भवेदित्यर्थः (ते) तव (पुच्छधौ) पुच्छ+डुधाञ्-कि। पुच्छधान्याम् ॥
 </details>
-

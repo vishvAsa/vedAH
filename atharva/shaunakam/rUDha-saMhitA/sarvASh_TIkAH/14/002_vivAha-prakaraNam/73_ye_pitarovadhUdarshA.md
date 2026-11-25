@@ -22,9 +22,15 @@ to be used when the bridal train passes by a burial-place.
 May they, the Fathers who, to view the bride, have joined this nuptial train, Grant to this lady and her lord children and peaceful happiness.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये पि॒तरो॑वधूद॒र्शा इ॒मं व॑ह॒तुमाग॑मन्।  
+ते अ॒स्यै व॒ध्वै॒ संप॑त्न्यै प्र॒जाव॒च्छर्म॑यच्छन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। पि॒तरः॑। व॒धू॒ऽद॒र्शाः। इ॒मम्। व॒ह॒तुम्। आ। अग॑मन्। ते। अ॒स्यै। व॒ध्वै। सम्ऽप॑त्न्यै। प्र॒जाऽव॑त्। शर्म॑। य॒च्छ॒न्तु॒। २.७३। 
+ये। पि॒तरः॑। व॒धू॒ऽद॒र्शाः। इ॒मम्। व॒ह॒तुम्। आ। अग॑मन्। ते। अ॒स्यै। व॒ध्वै। सम्ऽप॑त्न्यै। प्र॒जाऽव॑त्। शर्म॑। य॒च्छ॒न्तु॒। २.७३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ May they, the Fathers who, to view the bride, have joined this nuptial train, Gr
 
 टिप्पणी:   ७३−(ये) (पितरः) पित्रादयः (वधूदर्शाः) दृशिर् दर्शने-अण्। वधूदर्शकाः (इमम्) दृश्यमानम् (वहतुम्) विवाहोत्सवम् (आ अगमन्) आगताः (ते) पूर्वोक्ताः (अस्यै) विदुष्यै (वध्वै) (सम्पत्न्यै) पत्या सह वर्तमानायै (प्रजावत्)सन्तानसेवकादियुक्तम् (यच्छन्तु) ददतु ॥
 </details>
-

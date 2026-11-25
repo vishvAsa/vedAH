@@ -21,9 +21,15 @@ his explanation there given—which, however, is not in our hands.
 If they have issued forth strongholds of Gods, and made their shields of prayer, Gaining protection for their lives, protection round about, make all their instigation powerless
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदि॑ प्रे॒युर्दे॑वपु॒रा ब्रह्म॒ वर्मा॑णि चक्रि॒रे।  
+त॑नू॒पानं॑ परि॒पाणं॑ कृण्वा॒ना यदु॑पोचि॒रे सर्वं॒ तद॑र॒सं कृ॑धि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यदि॑। प्र॒ऽई॒युः। दे॒व॒ऽपु॒राः। ब्रह्म॑। वर्मा॑णि। च॒क्रि॒रे। त॒नू॒ऽपान॑म्। प॒रि॒ऽपान॑म्। कृ॒ण्वा॒नाः। यत्। उ॒प॒ऽऊ॒चि॒रे। सर्व॑म्। तत्। अ॒र॒सम्। कृ॒धि॒। १२.१७। 
+यदि॑। प्र॒ऽई॒युः। दे॒व॒ऽपु॒राः। ब्रह्म॑। वर्मा॑णि। च॒क्रि॒रे। त॒नू॒ऽपान॑म्। प॒रि॒ऽपान॑म्। कृ॒ण्वा॒नाः। यत्। उ॒प॒ऽऊ॒चि॒रे। सर्व॑म्। तत्। अ॒र॒सम्। कृ॒धि॒। १२.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ If they have issued forth strongholds of Gods, and made their shields of prayer,
 
 टिप्पणी:   १७−अयं मन्त्रो व्याख्यातः-अ० ५।८।६ ॥
 </details>
-

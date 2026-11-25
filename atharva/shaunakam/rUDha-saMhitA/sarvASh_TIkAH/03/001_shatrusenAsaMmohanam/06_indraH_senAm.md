@@ -20,9 +20,15 @@ also has. The comm. further in **c** *dhattām* instead of *dattām.*
 Let Indra daze their army. Let the Maruts slay it with their might. Let Agni take their eyes away, and let the conquered host retreat.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रः॒ सेनां॑ मोहयतु म॒रुतो॑ घ्न॒न्त्वोज॑सा।  
+चक्षूं॑ष्य॒ग्निरा द॑त्तां॒ पुन॑रेतु॒ परा॑जिता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। सेना॑म्। मो॒ह॒य॒तु॒। म॒रुतः॑। घ्न॒न्तु॒। ओज॑सा। चक्षूं॑षि। अ॒ग्निः। आ। द॒त्ता॒म्। पुनः॑। ए॒तु॒। परा॑ऽजिता। १.६। 
+इन्द्रः॑। सेना॑म्। मो॒ह॒य॒तु॒। म॒रुतः॑। घ्न॒न्तु॒। ओज॑सा। चक्षूं॑षि। अ॒ग्निः। आ। द॒त्ता॒म्। पुनः॑। ए॒तु॒। परा॑ऽजिता। १.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Let Indra daze their army. Let the Maruts slay it with their might. Let Agni tak
 
 टिप्पणी:   ६−(इन्द्रः) प्रतापी सूर्यः। (मरुतः। दोषनाशका वायुवेगाः। (घ्नन्तु)। हन-लोट्। नाशयन्तु। (ओजसा)। शस्त्रास्त्रादीनां बलेन। (चक्षूंषि)। अक्षीणि। नेत्राणि। (अग्निः)। अग्निप्रयोगः। (आ, दत्ताम्)। अपहरतु। (पुनः)। पश्चात्। निवर्त्य। (एतु) गच्छतु। (पराजिता)। पराभूता सती। अन्यत् सुगमं व्याख्यातं च ॥
 </details>
-

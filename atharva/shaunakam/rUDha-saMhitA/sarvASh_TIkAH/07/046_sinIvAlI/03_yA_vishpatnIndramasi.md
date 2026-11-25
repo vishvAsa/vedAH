@@ -3,7 +3,6 @@ title = "०३ या विश्पत्नीन्द्रमसि"
 
 +++
 
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 The Queen of the folks, you are Indra’s equal, the goddess with a thousand tresses, coming to us. O wife of Viṣṇu, to you, these offerings \[are\] made. O goddess, urge your husband to be liberal \[towards us\].
@@ -29,9 +28,15 @@ her.
 Thou who as Queen of men art Indra's equal, a Goddess coming with a thousand tresses, To thee our sacrifices are performed, O Consort of Vishnu Goddess, urge thy Lord to bounty!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+या वि॒श्पत्नीन्द्र॒मसि॑ प्र॒तीची॑ स॒हस्र॑स्तुकाभि॒यन्ती॑ दे॒वी।  
+विष्णोः॑ पत्नि॒ तुभ्यं॑ रा॒ता ह॒वींषि॒ पतिं॑ देवि॒ राध॑से चोदयस्व ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-या। वि॒श्पत्नी॑। इन्द्र॑म्। असि॑। प्र॒तीची॑। स॒हस्र॑ऽस्तुका। अ॒भि॒ऽयन्ती॑। दे॒वी। विष्णोः॑। प॒त्नि॒। तुभ्य॑म्। रा॒ता। ह॒वींषि॑। पति॑म्। दे॒वि॒। राध॑से। चो॒द॒य॒स्व॒। ४८.३। 
+या। वि॒श्पत्नी॑। इन्द्र॑म्। असि॑। प्र॒तीची॑। स॒हस्र॑ऽस्तुका। अ॒भि॒ऽयन्ती॑। दे॒वी। विष्णोः॑। प॒त्नि॒। तुभ्य॑म्। रा॒ता। ह॒वींषि॑। पति॑म्। दे॒वि॒। राध॑से। चो॒द॒य॒स्व॒। ४८.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,4 +66,3 @@ Thou who as Queen of men art Indra's equal, a Goddess coming with a thousand tre
 
 टिप्पणी:   ३−(या) (विश्पत्नी) प्रजानां पालयित्री (इन्द्रम्) ऐश्वर्यम् (असि) अस ग्रहणे। अससि गृह्णासि (प्रतीची) अ० ७।३८।३। निश्चितज्ञानयुक्ता। (सहस्रस्तुका) म० १। ष्टुञ्-कक्। असंख्यस्तुतियुक्ता (अभियन्ती) अभितो गच्छन्ती (देवी) व्यवहारकुशला (विष्णोः) कार्येषु व्यापकस्य पत्युः (पत्नि) (तुभ्यम्) (राता) दत्तानि (हवींषि) दातव्यानि वस्तूनि (पतिम्) स्वामिनम् (देवि) (राधसे) धनाय-निघ० २।१०। (चोदयस्व) प्रेरयस्व। प्रगमय ॥
 </details>
-

@@ -21,9 +21,15 @@ pṛthvi vibhyāsaṁ mayu satva ca*.
 In hamlets and in woodland, and in all assemblages on earth, In gatherings, meeting of the folk, we will speak glorious things of thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये ग्रामा॒ यदर॑ण्यं॒ याः स॒भा अधि॒ भूम्या॑म्।  
+ये सं॑ग्रा॒माः समि॑तय॒स्तेषु॒ चारु॑ वदेम ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। ग्रामाः॑। यत्। अर॑ण्यम्। याः। स॒भाः। अधि॑। भूम्या॑म्। ये। स॒म्ऽग्रा॒माः। सम्ऽइ॑तयः। तेषु॑। चारु॑। व॒दे॒म॒। ते॒। १.५६। 
+ये। ग्रामाः॑। यत्। अर॑ण्यम्। याः। स॒भाः। अधि॑। भूम्या॑म्। ये। स॒म्ऽग्रा॒माः। सम्ऽइ॑तयः। तेषु॑। चारु॑। व॒दे॒म॒। ते॒। १.५६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ In hamlets and in woodland, and in all assemblages on earth, In gatherings, meet
 
 टिप्पणी:   ५६−(ये) (ग्रामाः) वासस्थानानि (यत्) (अरण्यम्) वनम् (याः) (सभाः) समाजाः (अधि) उपरि (भूम्याम्) (ये) (संग्रामाः) रणक्षेत्राणि (समितयः) सम्मेलनानि (तेषु) (चारु) सुन्दरं यशः (वदेम) कथयेम (ते) तव ॥
 </details>
-

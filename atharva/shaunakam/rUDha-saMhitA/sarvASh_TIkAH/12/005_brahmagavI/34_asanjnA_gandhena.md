@@ -20,9 +20,14 @@ as food. Bp. reads *udhrīyá-*.
 Discord by her smell, grief when she is being eviscerated: ser- pent with poison in its fang when drawn;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+असं॑ज्ञा ग॒न्धेन॒ शुगु॑द्ध्रि॒यमा॑णाशीवि॒ष उद्धृ॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अस॑म्ऽज्ञा। ग॒न्धेन॑। शुक्। उ॒ध्द्रि॒यमा॑णा। आ॒शी॒वि॒षः। उध्दृ॑ता। ८.७। 
+अस॑म्ऽज्ञा। ग॒न्धेन॑। शुक्। उ॒ध्द्रि॒यमा॑णा। आ॒शी॒वि॒षः। उध्दृ॑ता। ८.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ Discord by her smell, grief when she is being eviscerated: ser- pent with poison
 
 टिप्पणी:   ३४−(असंज्ञा) असङ्गतिः। भेदः (गन्धेन) गन्ध अर्दने−अच्। नाशेन (शुक्) शोकः। (उद्ध्रियमाणा) उत्पाट्यमाना (आशीविषः) आङ्+अश भोजने−अच्, ङीप्। आश्यां फणे विषं यस्य सः। महाविषयुक्तः सर्पः (उद्धृता) उत्पाटिता ॥
 </details>
-

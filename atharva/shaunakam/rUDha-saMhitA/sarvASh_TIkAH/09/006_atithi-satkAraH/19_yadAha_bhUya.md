@@ -21,9 +21,14 @@ tenā ’va rundhe. ⌊Then follows 20.⌋
 When he says, Bring out more, he lengthens his life thereby.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदाह॒ भूय॒ उद्ध॒रेति॑ प्रा॒णमे॒व तेन॒ वर्षी॑यांसं कुरुते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। आह॑। भूयः॑। उत्। ह॒र॒। इति॑। प्रा॒णम्। ए॒व। तेन॑। वर्षी॑यांसम्। कु॒रु॒ते॒। ७.२। 
+यत्। आह॑। भूयः॑। उत्। ह॒र॒। इति॑। प्रा॒णम्। ए॒व। तेन॑। वर्षी॑यांसम्। कु॒रु॒ते॒। ७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ When he says, Bring out more, he lengthens his life thereby.
 
 टिप्पणी:   २−(यत्) यदा (आह) ब्रूते (भूयः) अधिकतरम् (उद्धर) उत्तमतया गृहाण (इति) (प्राणम्) जीवनम् (एव) निश्चयेन (तेन) कारणेन (वर्षीयांसम्) वृद्धतरम् ॥
 </details>
-

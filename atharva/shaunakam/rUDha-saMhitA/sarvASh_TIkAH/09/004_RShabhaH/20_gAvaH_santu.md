@@ -18,9 +18,15 @@ Ppp. puts *tat* after *sarvam* in **c**.
 Let there be cattle, let there be bodily strength and progeny: All this may the Gods kindly grant to him who gives away the Bull.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+गावः॑ सन्तु प्र॒जाः स॒न्त्वथो॑ अस्तु तनूब॒लम्।  
+तत्सर्व॒मनु॑ मन्यन्तां दे॒वा ऋ॑षभदा॒यिने॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-गावः॑। स॒न्तु॒। प्र॒ऽजाः। स॒न्तु॒। अथो॒ इति॑। अ॒स्तु॒। त॒नू॒ऽब॒लम्। तत्। सर्व॑म्। अनु॑। म॒न्य॒न्ता॒म्। दे॒वाः। ऋ॒ष॒भ॒ऽदा॒यि॑ने। ४.२०। 
+गावः॑। स॒न्तु॒। प्र॒ऽजाः। स॒न्तु॒। अथो॒ इति॑। अ॒स्तु॒। त॒नू॒ऽब॒लम्। तत्। सर्व॑म्। अनु॑। म॒न्य॒न्ता॒म्। दे॒वाः। ऋ॒ष॒भ॒ऽदा॒यि॑ने। ४.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Let there be cattle, let there be bodily strength and progeny: All this may the 
 
 टिप्पणी:   २०−(गावः) वाचः। विद्याः (सन्तु) (प्रजाः) पुत्रपौत्रादयः (अथो) अपि च (अस्तु) (तनूबलम्) शरीरसामर्थ्यम् (तत्) (सर्वम्) (अनुमन्यन्ताम्) स्वीकुर्वन्तु (देवाः) विद्वांसः (ऋषभदायिने) परमेश्वरस्य बोधदात्रे-इत्यर्थः ॥
 </details>
-

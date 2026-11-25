@@ -20,9 +20,15 @@ The mss., as is usual in such cases, are divided between *duḥpr-* and
 Within the mouth of Varuna three tongues are glittering with light. That which shines midmost of them is this Cow most difficult to hold.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ति॒स्रो जि॒ह्वा वरु॑णस्या॒न्तर्दी॑द्यत्या॒सनि॑।  
+तासां॒ या मध्ये॒ राज॑ति॒ सा व॒शा दु॑ष्प्रति॒ग्रहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ति॒स्रः। जि॒ह्वाः। वरु॑णस्य। अ॒न्तः। दी॒द्य॒ति॒। आ॒सनि॑। तासा॑म्। या। मध्ये॑। राज॑ति। सा। व॒शा। दुः॒ऽप्र॒ति॒ग्रहा॑। १०.२८। 
+ति॒स्रः। जि॒ह्वाः। वरु॑णस्य। अ॒न्तः। दी॒द्य॒ति॒। आ॒सनि॑। तासा॑म्। या। मध्ये॑। राज॑ति। सा। व॒शा। दुः॒ऽप्र॒ति॒ग्रहा॑। १०.२८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Within the mouth of Varuna three tongues are glittering with light. That which s
 
 टिप्पणी:   २८−(तिस्रः) सत्त्वरजस्तमोरूपाः (जिह्वाः) (वरुणस्य) वरणीयस्य श्रेष्ठस्य परमेश्वरस्य (अन्तः) मध्ये (दीद्यति) दीदयतिर्ज्वलतिकर्मा-निघ० १।१६। नैरुक्तो धातुः, दिवादित्वम् एकवचनं च छान्दसम्। दीद्यन्ति। दीप्यन्ते (आसनि) मुखे (तासाम्) जिह्वानाम् (या) (मध्ये) (राजति) ईष्टे। दीप्यते (सा) (वशा) म० २ (दुष्प्रतिग्रहा) दुःखेन ग्राह्या प्राप्तव्या ॥
 </details>
-

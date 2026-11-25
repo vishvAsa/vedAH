@@ -20,9 +20,15 @@ above). In our edition, *sūryamāsáyor* is a misprint for *sūryām-*.
 He who bestows a white-hooved ram, adequate to the place he holds, Offered with five cakes, lives on that, wasteless, while Sun and. Moon endure.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पञ्चा॑पूपं शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
+प्र॑दा॒तोप॑ जीवति सूर्यामा॒सयो॒रक्षि॑तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पञ्च॑ऽअपूपम्। शि॒ति॒ऽपाद॑म्। अवि॑म्। लो॒केन॑। सम्ऽमि॑तम्। प्र॒ऽदा॒ता। उप॑। जी॒व॒ति॒। सू॒र्या॒मा॒सयोः॑। अक्षि॑तम्। २९.५। 
+पञ्च॑ऽअपूपम्। शि॒ति॒ऽपाद॑म्। अवि॑म्। लो॒केन॑। सम्ऽमि॑तम्। प्र॒ऽदा॒ता। उप॑। जी॒व॒ति॒। सू॒र्या॒मा॒सयोः॑। अक्षि॑तम्। २९.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ He who bestows a white-hooved ram, adequate to the place he holds, Offered with 
 
 टिप्पणी:   ५−(सूर्यामासयोः) सुवति प्रेरयति लोकान् कर्मणि स सूर्यः। अ० १।३।५। मसी परिमाणे-घञ्। मस्यते परिमीयते गगनं येन स मासः, चन्द्रमाः। सूर्यश्च मासश्च सूर्यामासौ। देवताद्वन्द्वे च। पा० ६।३।२६। इति आनङ्। सूर्याचन्द्रमसोर्नियमेन। अन्यदुपरि व्याख्यातम् ॥
 </details>
-

@@ -20,9 +20,15 @@ in **a** can hardly stand; rather *āindrasya*, or, we may conjecture,
 This is the Lord of Indra, this the Lord of Heaven, the Lord of Earth, The Lord of all existing things: the one and only Lord be thou,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वृषेन्द्र॑स्य॒ वृषा॑ दि॒वो वृषा॑ पृथि॒व्या अ॒यम्।  
+वृषा॒ विश्व॑स्य भू॒तस्य॒ त्वमे॑कवृ॒षो भ॑व ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वृषा॑। इन्द्र॑स्य। वृषा॑। दि॒वः। वृषा॑। पृ॒थि॒व्याः। अ॒यम्। वृषा॑। विश्व॑स्य। भू॒तस्य॑। त्वम्। ए॒क॒ऽवृ॒षः। भ॒व॒। ८६.१। 
+वृषा॑। इन्द्र॑स्य। वृषा॑। दि॒वः। वृषा॑। पृ॒थि॒व्याः। अ॒यम्। वृषा॑। विश्व॑स्य। भू॒तस्य॑। त्वम्। ए॒क॒ऽवृ॒षः। भ॒व॒। ८६.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ This is the Lord of Indra, this the Lord of Heaven, the Lord of Earth, The Lord 
 
 टिप्पणी:   १−(वृषा) अ० १।१२।१। वृषु सेचने, प्रजनैश्ययोः−कनिन्, ईश्वरः। स्वामी (इन्द्रस्य) सूर्यस्य (दिवः) अन्तरिक्षस्य (पृथिव्याः) भूम्याः (अयम्) प्रसिद्धः परमेश्वरः (विश्वस्य) सर्वस्य (भूतस्य) प्राणिजातस्य (त्वम्) (एकवृषः) अ० ४।२२।१। वृषु ऐश्वर्ये−क। अद्वितीयप्रधानः। सार्वभौमः (भव) ॥
 </details>
-

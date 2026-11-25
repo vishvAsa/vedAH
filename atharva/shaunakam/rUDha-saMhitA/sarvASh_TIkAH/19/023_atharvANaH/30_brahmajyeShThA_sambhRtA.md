@@ -21,9 +21,15 @@ reads this time in **c** *prathamo ‘tha*.
 Collected manly powers are topped by Brahma. Brahma at first spread out the loftiest heaven. Brahma was born first of all things existing. Who then is fit to be this Brahma's rival?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रह्म॑ज्येष्ठा॒ संभृ॑ता वी॒र्या᳡णि॒ ब्रह्माग्रे॒ ज्येष्ठं॒ दिव॒मा त॑तान।  
+भू॒तानां॑ ब्र॒ह्मा प्र॑थ॒मोत ज॑ज्ञे॒ तेना॑र्हति॒ ब्रह्म॑णा॒ स्पर्धि॑तुं॒ कः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑ऽज्येष्ठा। सम्ऽभृ॑ता। वी॒र्या᳡णि। ब्रह्म॑। अग्रे॑। ज्येष्ठ॑म्। दिव॑म्। आ। त॒ता॒न॒। भू॒ताना॑म्। ब्र॒ह्मा। प्र॒थ॒मः। उ॒त। ज॒ज्ञे॒। तेन॑। अ॒र्ह॒ति॒। ब्रह्म॒णा। स्पर्धि॑तुम्। कः। २३.३०। 
+ब्रह्म॑ऽज्येष्ठा। सम्ऽभृ॑ता। वी॒र्या᳡णि। ब्रह्म॑। अग्रे॑। ज्येष्ठ॑म्। दिव॑म्। आ। त॒ता॒न॒। भू॒ताना॑म्। ब्र॒ह्मा। प्र॒थ॒मः। उ॒त। ज॒ज्ञे॒। तेन॑। अ॒र्ह॒ति॒। ब्रह्म॒णा। स्पर्धि॑तुम्। कः। २३.३०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Collected manly powers are topped by Brahma. Brahma at first spread out the loft
 
 टिप्पणी:   मन्त्र २९, ३० आ चुके हैं-अ०१९।२२।२०, २१॥३०-अयं मन्त्रो व्याख्यातः। अ०१९।२२।२१॥
 </details>
-

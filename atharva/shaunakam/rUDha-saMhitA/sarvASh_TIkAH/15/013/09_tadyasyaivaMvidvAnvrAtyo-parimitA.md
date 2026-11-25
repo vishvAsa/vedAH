@@ -17,9 +17,14 @@ thus.
 To that Deity the sacrifice of him who has this knowledge is acceptable.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तद्यस्यै॒वंवि॒द्वान्व्रात्योऽप॑रिमिता॒ रात्री॒रति॑थिर्गृ॒हे वस॑ति॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तत्। तस्य॑। ए॒वम्। वि॒द्वान्। व्रात्यः॑। अप॑रिऽमिताः। रात्रीः॑। अति॑थिः। गृ॒हे। वस॑ति। १३.९। 
+तत्। तस्य॑। ए॒वम्। वि॒द्वान्। व्रात्यः॑। अप॑रिऽमिताः। रात्रीः॑। अति॑थिः। गृ॒हे। वस॑ति। १३.९।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,4 +46,3 @@ To that Deity the sacrifice of him who has this knowledge is acceptable.
 
 टिप्पणी:   ९, १०−(अपरिमिताः)असंख्याताः (रात्रीः) (लोकाः) दर्शनीयाः॥
 </details>
-

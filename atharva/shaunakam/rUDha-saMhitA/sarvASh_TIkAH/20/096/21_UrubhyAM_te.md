@@ -8,9 +8,15 @@ title = "२१ ऊरुभ्यां ते"
 From what is voided from within, and from thy hair, and from thy nails, From all thyself, from top to toe, I drive thy malady away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऊ॒रुभ्यां॑ ते अष्ठी॒वद्भ्यां॒ पार्ष्णि॑भ्यां॒ प्रप॑दाभ्याम्।  
+यक्ष्मं॑ भस॒द्यं१॒॑ श्रोणि॑भ्यां॒ भास॑दं॒ भंस॑सो॒ वि वृ॑हामि ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऊ॒रुऽभ्या॑म्। ते॒। अ॒ष्ठी॒वत्ऽभ्या॑म्। पार्ष्णि॑ऽभ्याम्। प्रऽप॑दाभ्याम्। यक्ष्म॑म्। भ॒स॒द्य॑म्। श्रोणि॑ऽभ्याम्। भास॑दम्। भंस॑सः। वि। वृ॒हा॒मि॒। ते॒। ९६.२१। 
+ऊ॒रुऽभ्या॑म्। ते॒। अ॒ष्ठी॒वत्ऽभ्या॑म्। पार्ष्णि॑ऽभ्याम्। प्रऽप॑दाभ्याम्। यक्ष्म॑म्। भ॒स॒द्य॑म्। श्रोणि॑ऽभ्याम्। भास॑दम्। भंस॑सः। वि। वृ॒हा॒मि॒। ते॒। ९६.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ From what is voided from within, and from thy hair, and from thy nails, From all
 
 टिप्पणी:   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
-

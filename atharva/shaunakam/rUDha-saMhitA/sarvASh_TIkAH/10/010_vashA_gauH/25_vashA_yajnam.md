@@ -19,9 +19,15 @@ Ppp. reads *yajñam* instead of *sūryam* in **b**. All the mss. have
 The Cow hath welcomed sacrifice: the Cow hath held the Sun in place. Together with the prayer the mess of rice hath passed into the Cow.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व॒शा य॒ज्ञं प्रत्य॑गृह्णाद्व॒शा सूर्य॑मधारयत्।  
+व॒शाया॑म॒न्तर॑विशदोद॒नो ब्र॒ह्मणा॑ स॒ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-व॒शा। य॒ज्ञम्। प्रति॑। अ॒गृ॒ह्णा॒त्। व॒शा। सूर्य॑म्। अ॒धा॒र॒य॒त्। व॒शाया॑म्। अ॒न्तः। अ॒वि॒श॒त्। ओ॒द॒नः। ब्र॒ह्मणा॑। स॒ह। १०.२५। 
+व॒शा। य॒ज्ञम्। प्रति॑। अ॒गृ॒ह्णा॒त्। व॒शा। सूर्य॑म्। अ॒धा॒र॒य॒त्। व॒शाया॑म्। अ॒न्तः। अ॒वि॒श॒त्। ओ॒द॒नः। ब्र॒ह्मणा॑। स॒ह। १०.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ The Cow hath welcomed sacrifice: the Cow hath held the Sun in place. Together wi
 
 टिप्पणी:   २५−(वशा) कमनीया परमेश्वरशक्तिः (यज्ञम्) संगन्तव्यं संसारम् (प्रत्यगृह्णात्) प्रत्यक्षं स्वीकृतवती (वशा) (सूर्यम्) (अधारयत्) धृतवती (वशायाम्) परमेश्वरशक्तौ (अन्तः) मध्ये (अविशत्) प्रविष्टवान् (ओदनः) अ० ९।५।१९। सेचकः। मेघः-निघ० १।१०। (ब्रह्मणा) अन्नेन-निघ० २।७। (सह) ॥
 </details>
-

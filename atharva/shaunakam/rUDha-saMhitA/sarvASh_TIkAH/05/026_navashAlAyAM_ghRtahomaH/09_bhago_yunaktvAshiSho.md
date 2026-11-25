@@ -19,9 +19,14 @@ evidently reckons three pādas, of 11 + 7 + 8 syllables.
 Let Bhaga in this rite use prayers, foreknowing--All hail! for this use well-yoked coursers.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+भगो॑ युनक्त्वा॒शिषो॒ न्व१॒॑स्मा अ॒स्मिन्य॒ज्ञे प्र॑वि॒द्वान्यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भगः॑। यु॒न॒क्तु॒। आ॒ऽशिषः॑। नु। अ॒स्मै। अ॒स्मिन्। य॒ज्ञे। प्र॒ऽवि॒द्वान्। यु॒न॒क्तु॒। सु॒ऽयुजः॑। स्वाहा॑। २६.९। 
+भगः॑। यु॒न॒क्तु॒। आ॒ऽशिषः॑। नु। अ॒स्मै। अ॒स्मिन्। य॒ज्ञे। प्र॒ऽवि॒द्वान्। यु॒न॒क्तु॒। सु॒ऽयुजः॑। स्वाहा॑। २६.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Let Bhaga in this rite use prayers, foreknowing--All hail! for this use well-yok
 
 टिप्पणी:   ९−(भगः) भगवान्। ऐश्वर्यवान् (युनक्तु युनक्तु) नित्यवीप्सयोः। पा० ८।१।४। इति नित्ये द्विर्वचम्। नित्यं योजयतु (आशिषः) आङः शासु इच्छायाम्−क्विप्। इष्टप्रार्थनाः (अस्मै) दृश्यमानाय संसाराय। अन्यद् गतम् ॥
 </details>
-

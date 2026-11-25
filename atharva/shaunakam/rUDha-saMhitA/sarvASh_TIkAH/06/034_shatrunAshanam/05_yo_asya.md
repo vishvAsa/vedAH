@@ -25,9 +25,15 @@ with the same reading, save *pariṣad*.⌋
 That brilliant Agni who was born beyond this region of the air, May he transport us past our foes!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो अ॒स्य पा॒रे रज॑सः शु॒क्रो अ॒ग्निरजा॑यत।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। अ॒स्य। पा॒रे। रज॑सः। शु॒क्रः। अ॒ग्निः। अजा॑यत। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.५। 
+यः। अ॒स्य। पा॒रे। रज॑सः। शु॒क्रः। अ॒ग्निः। अजा॑यत। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ That brilliant Agni who was born beyond this region of the air, May he transport
 
 टिप्पणी:   ५−(यः) परमेश्वरः (अस्य) प्रत्यक्षस्य (पारे) अन्ते (रजसः) अन्तरिक्षलोकस्य−निघ० १।७। (शुक्रः) शुद्धस्वभावः (अजायत) प्रादुरभवत्। अन्यत्पूर्ववत् ॥
 </details>
-

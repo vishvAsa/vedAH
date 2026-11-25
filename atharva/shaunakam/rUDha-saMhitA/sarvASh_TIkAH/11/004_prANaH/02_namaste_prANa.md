@@ -18,9 +18,15 @@ Ppp. reads in **c** *‘stu* for *prāṇa*.
 Homage, O Prana, to thy roar, to thunder-peal and lightning flash! Homage, O Prana, unto thee what time thou sendest down thy rain!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नम॑स्ते प्राण॒ क्रन्दा॑य॒ नम॑स्ते स्तनयि॒त्नवे॑।  
+नम॑स्ते प्राण वि॒द्युते॒ नम॑स्ते प्राण॒ वर्ष॑ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नमः॑। ते॒। प्रा॒ण॒। क्रन्दा॑य। नमः॑। ते॒। स्त॒न॒यि॒त्नवे॑। नमः॑। ते॒। प्रा॒ण॒। वि॒ऽद्युते॑। नमः॑। ते॒। प्रा॒ण॒। वर्ष॑ते। ६.२। 
+नमः॑। ते॒। प्रा॒ण॒। क्रन्दा॑य। नमः॑। ते॒। स्त॒न॒यि॒त्नवे॑। नमः॑। ते॒। प्रा॒ण॒। वि॒ऽद्युते॑। नमः॑। ते॒। प्रा॒ण॒। वर्ष॑ते। ६.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Homage, O Prana, to thy roar, to thunder-peal and lightning flash! Homage, O Pra
 
 टिप्पणी:   २−(नमः) (ते) तुभ्यम् (प्राण) म० १। हे जीवनप्रद (क्रन्दाय) क्रदि आह्वाने रोदने च-पचाद्यच्। ध्वनिहिताय (स्तनियत्नवे) अ० १।१३।१। मेघगर्जनहिताय (विद्युते) अ० १।१३।१। विद्युद्धिताय (वर्षते) वृष्टिहिताय। अन्यत् पूर्ववत् ॥
 </details>
-

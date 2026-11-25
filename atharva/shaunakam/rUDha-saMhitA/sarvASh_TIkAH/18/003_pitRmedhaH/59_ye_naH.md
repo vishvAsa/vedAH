@@ -25,9 +25,15 @@ identical with vii. 104. 1 **d** above.
 Our Father's Fathers and their sires before them, they who have entered into air's wide region, For them shall self-resplendent Asuniti form bodies now accord- ing to her pleasure.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये नः॑ पि॒तुःपि॒तरो॒ ये पि॑ताम॒हा य आ॑विवि॒शुरु॒र्व॑१॒॑न्तरि॑क्षम्।  
+तेभ्यः॑स्व॒राडसु॑नीतिर्नो अ॒द्य व॑थाव॒शं त॒न्वः᳡ कल्पयाति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। नः। पि॒तुः। पि॒तरः॑। ये। पि॒ता॒म॒हाः। ये। आ॒ऽवि॒वि॒शुः। उ॒रु। अ॒न्तरि॑क्षम्। तेभ्यः॑। स्व॒ऽराट्। असु॑ऽनीतिः। नः॒। अ॒द्य। य॒था॒ऽव॒शम्। त॒न्वः॑। क॒ल्प॒या॒ति॒। ३.५९। 
+ये। नः। पि॒तुः। पि॒तरः॑। ये। पि॒ता॒म॒हाः। ये। आ॒ऽवि॒वि॒शुः। उ॒रु। अ॒न्तरि॑क्षम्। तेभ्यः॑। स्व॒ऽराट्। असु॑ऽनीतिः। नः॒। अ॒द्य। य॒था॒ऽव॒शम्। त॒न्वः॑। क॒ल्प॒या॒ति॒। ३.५९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Our Father's Fathers and their sires before them, they who have entered into air
 
 टिप्पणी:   ५९−पूर्वार्द्धो व्याख्यातः-अ०१८।२।४९। (तेभ्यः) पितृभ्यः (स्वराट्) स्वयमेव राजा शासकः (असुनीतिः) असूनांप्राणानां नेता प्रापकः परमेश्वरः (नः) अस्माकम् (अद्य) इदानीम् (यथावशम्)यथाकामम् (तन्वः) शरीराणि (कल्पयाति) कल्पयेत्। समर्थयेत् ॥
 </details>
-

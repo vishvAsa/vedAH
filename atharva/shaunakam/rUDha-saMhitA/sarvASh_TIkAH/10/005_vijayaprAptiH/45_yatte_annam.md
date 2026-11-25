@@ -20,9 +20,15 @@ above, 2. 22, 23). Ppp. ⌊in i.⌋ puts this verse before our vs. 42.
 All food of thine, O Lord of Life, that lies, upon the face of earth, Thereof bestow thou upon us. O Lord of Life, Prajapati!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्ते॒ अन्नं॑ भुवस्पत आक्षि॒यति॑ पृथि॒वीमनु॑।  
+तस्य॑ न॒स्त्वं भु॑वस्पते सं॒प्रय॑च्छ प्रजापते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। ते॒। अन्न॑म्। भु॒वः॒। प॒ते॒। आ॒ऽक्षि॒यति॑। पृ॒थि॒वीम्। अनु॑। तस्य॑। नः॒। त्वम्। भु॒वः॒। प॒ते॒। स॒म्ऽप्रय॑च्छ। प्र॒जा॒ऽप॒ते॒। ५.४५। 
+यत्। ते॒। अन्न॑म्। भु॒वः॒। प॒ते॒। आ॒ऽक्षि॒यति॑। पृ॒थि॒वीम्। अनु॑। तस्य॑। नः॒। त्वम्। भु॒वः॒। प॒ते॒। स॒म्ऽप्रय॑च्छ। प्र॒जा॒ऽप॒ते॒। ५.४५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ All food of thine, O Lord of Life, that lies, upon the face of earth, Thereof be
 
 टिप्पणी:   ४५−(यत्) (ते) तव (अन्नम्) भोज्यं वस्तु (भुवः) भूमेः (पते) स्वामिन् (आ क्षियति) समन्ताद् निवसति। वर्तते (पृथिवीम्) (अनु) प्रति (तस्य) अन्नस्य (नः) अस्मभ्यम् (भुवः पते) (संप्रयच्छ) सम्यग् दानं कुरु (प्रजापते) हे प्रजापालक ॥
 </details>
-

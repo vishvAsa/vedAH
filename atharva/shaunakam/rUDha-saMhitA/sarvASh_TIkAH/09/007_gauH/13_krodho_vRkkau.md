@@ -17,9 +17,14 @@ The verse follows our vs. 17 in Ppp.
 Wrath is the kidneys, anger the testes, offspring the generative organ.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्रोधो॑ वृ॒क्कौ म॒न्युरा॒ण्डौ प्र॒जा शेपः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्रोधः॑। वृ॒क्कौ। म॒न्युः। आ॒ण्डौ। प्र॒ऽजा। शेपः॑। १२.१३। 
+क्रोधः॑। वृ॒क्कौ। म॒न्युः। आ॒ण्डौ। प्र॒ऽजा। शेपः॑। १२.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Wrath is the kidneys, anger the testes, offspring the generative organ.
 
 टिप्पणी:   १३−(क्रोधः) कोपः (वृक्कौ) अ० ७।९६।१। स्वृवृभू०। उ० ३।४१। वृजी वर्जने वृक आदाने वा-कक्। कुक्षिगोलकौ (मन्युः) अ० १।१०।१। मन्युर्मन्यतेर्दीप्तिकर्मणः-निरु० १०।२९। दीप्तिः। प्रतापः (आण्डौ) अण्ड-अण्। अण्डकोषौ। वृषणौ (प्रजा) वंशावली (शेषः) अ० ४।३७।७। प्रजननसामर्थ्यम् ॥
 </details>
-

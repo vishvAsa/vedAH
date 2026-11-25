@@ -19,9 +19,15 @@ sun, wind stand fixed (*ā́rpita*), that Skambha etc. etc.
 Who out of many, tell me, is that Skambha On whom as their foundation earth and firmament and sky are set; In whom as their appointed place rest Fire and Moon and Sun and Wind?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्मि॒न्भूमि॑र॒न्तरि॑क्षं॒ द्यौर्यस्मि॒न्नध्याहि॑ता।  
+यत्रा॒ग्निश्च॒न्द्रमाः॒ सूर्यो॒ वात॑स्तिष्ठ॒न्त्यार्पि॑ताः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्मि॑न्। भूमिः॑। अ॒न्तरि॑क्षम्। द्यौः। यस्मि॑न्। अधि॑। आऽहि॑ता। यत्र॑। अ॒ग्निः। च॒न्द्रमाः॑। सूर्यः॑। वातः॑। तिष्ठ॑न्ति। आर्पि॑ताः। स्क॒म्भम्। तम्। ब्रू॒हि॒। क॒त॒मः। स्वि॒त्। ए॒व। सः। ७.१२। 
+यस्मि॑न्। भूमिः॑। अ॒न्तरि॑क्षम्। द्यौः। यस्मि॑न्। अधि॑। आऽहि॑ता। यत्र॑। अ॒ग्निः। च॒न्द्रमाः॑। सूर्यः॑। वातः॑। तिष्ठ॑न्ति। आर्पि॑ताः। स्क॒म्भम्। तम्। ब्रू॒हि॒। क॒त॒मः। स्वि॒त्। ए॒व। सः। ७.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Who out of many, tell me, is that Skambha On whom as their foundation earth and 
 
 टिप्पणी:   १२−(यस्मिन्) ब्रह्मणि (द्यौः) आकाशः (अधि) (दृढम्) (आहिता) स्थापिता (तिष्ठन्ति) वर्तन्ते (आर्पिताः) आ+अर्पिताः। समन्तात् स्थापिताः। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

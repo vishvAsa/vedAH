@@ -23,9 +23,16 @@ varied repetitions of this one.
 We know thine origin, O Sleep. Thou art the son of the sisters of the Gods, the minister of Yama. Thou art the Ender, thou are Death. As such, O Sleep, we know thee well. As such, preserve us from the evil dream.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒द्म ते॑स्वप्न ज॒नित्रं॒ निर्भू॑त्याः पु॒त्रो᳡ऽसि॑ य॒मस्य॒ कर॑णः ।  
+अन्त॑कोऽसिमृ॒त्युर॑सि ।  
+तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स नः॑ स्वप्नदुः॒ष्वप्न्या॑त्पाहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒द्म। ते॒। स्व॒प्न॒। ज॒नित्र॑म्। निःऽभू॑त्याः। पु॒त्रः। अ॒सि॒। य॒मस्य॑। कर॑णः। ५.६। 
+वि॒द्म। ते॒। स्व॒प्न॒। ज॒नित्र॑म्। निःऽभू॑त्याः। पु॒त्रः। अ॒सि॒। य॒मस्य॑। कर॑णः। ५.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +62,3 @@ We know thine origin, O Sleep. Thou art the son of the sisters of the Gods, the 
 
 टिप्पणी:   ६−(निर्भूत्याः) क्षित्याः। नाशस्य। अभावस्य। अन्यत् पूर्ववत् ॥
 </details>
-

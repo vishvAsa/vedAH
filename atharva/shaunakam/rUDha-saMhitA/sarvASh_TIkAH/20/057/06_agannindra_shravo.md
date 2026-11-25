@@ -8,9 +8,15 @@ title = "०६ अगन्निन्द्र श्रवो"
 Indra, great glory hast thou gained. Win splendid fame which none may mar. We make thy might perpetual.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग॑न्निन्द्र॒ श्रवो॑ बृ॒हद्द्यु॒म्नं द॑धिष्व दु॒ष्टर॑म्।  
+उत्ते॒ शुष्मं॑ तिरामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग॑न्‌। इ॒न्द्र॒। श्रवः॑। बृ॒हत्। द्यु॒म्नम्। इ॒धि॒ष्व॒। दु॒स्तर॑म्। उत्। ते॒। शुष्म॑म्। ति॒र॒म॒सि॒। ५७.६। 
+अग॑न्‌। इ॒न्द्र॒। श्रवः॑। बृ॒हत्। द्यु॒म्नम्। इ॒धि॒ष्व॒। दु॒स्तर॑म्। उत्। ते॒। शुष्म॑म्। ति॒र॒म॒सि॒। ५७.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Indra, great glory hast thou gained. Win splendid fame which none may mar. We ma
 
 टिप्पणी:   ४-१०- एते मन्त्रा व्याख्याताः-अ० २।२०।१-७ ॥
 </details>
-

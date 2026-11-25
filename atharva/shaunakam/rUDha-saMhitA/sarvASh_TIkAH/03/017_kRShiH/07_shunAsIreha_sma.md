@@ -25,9 +25,15 @@ The comm. changes all the three verbs to 3d dual. The Anukr. forbids in
 Suna and Sira, welcome ye this laud, and with the milk that ye have made in heaven, Bedew ye both this earth of ours.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शुना॑सीरे॒ह स्म॑ मे जुषेथाम्।  
+यद्दि॒वि च॒क्रथुः॒ पय॒स्तेनेमामुप॑ सिञ्चतम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शुना॑सीरा। इ॒ह। स्म॒। मे॒। जु॒षे॒था॒म्। यत्। दि॒वि। च॒क्रथुः॑। पयः॑। तेन॑। इ॒माम्। उप॑। सि॒ञ्च॒त॒म्। १७.७। 
+शुना॑सीरा। इ॒ह। स्म॒। मे॒। जु॒षे॒था॒म्। यत्। दि॒वि। च॒क्रथुः॑। पयः॑। तेन॑। इ॒माम्। उप॑। सि॒ञ्च॒त॒म्। १७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Suna and Sira, welcome ye this laud, and with the milk that ye have made in heav
 
 टिप्पणी:   ७−(शुनासीरा) म० ५। हे पवनादित्यौ। (इह स्म) अत्रैव। (जुषेथाम्) युवां सेवेथाम्। स्वीकुरुतम्। (दिवि) आकाशे। (चक्रथुः) डुकृञ् करणे लिट्। युवां कृतवन्तौ। (पयः) उदकम्। निघ० १।१२। (इमाम्) दृश्यमानां भूमिम्। (उप सिञ्चतम्) व्याप्य आर्द्रीकुरुतम् ॥
 </details>
-

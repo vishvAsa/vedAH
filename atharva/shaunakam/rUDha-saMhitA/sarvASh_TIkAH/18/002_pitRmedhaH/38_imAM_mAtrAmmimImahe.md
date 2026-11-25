@@ -24,9 +24,15 @@ the bone-relics. ⌊See Caland, *Todtengebräuche*, p. 145 and note 534.⌋
 This date we settle once for all, that it may ne'er be fixt again_ A hundred autumns; not before.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒मां मात्रां॑मिमीमहे॒ यथाप॑रं॒ न मासा॑तै।  
+श॒ते श॒रत्सु॑ नो पु॒रा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒माम्। मात्रा॑म्। मि॒मी॒म॒हे॒। यथा॑। अप॑रम्। न। मासा॑तै। श॒ते। श॒रत्ऽसु॑। नो इति॑। पु॒रा। २.३८। 
+इ॒माम्। मात्रा॑म्। मि॒मी॒म॒हे॒। यथा॑। अप॑रम्। न। मासा॑तै। श॒ते। श॒रत्ऽसु॑। नो इति॑। पु॒रा। २.३८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ This date we settle once for all, that it may ne'er be fixt again_ A hundred aut
 
 टिप्पणी:   ३८−(इमाम्)वेदोक्ताम् (मात्राम्) मर्यादाम् (मिमीमहे) माङ् माने। मानेन जानीमः (यथा)यस्मात् कारणात् (अपरम्) अन्यप्रकारेण (न) निषेधे (मासातै) माङ् माने-लेट्।मानेन जानीयात् (शते) (शरत्सु) जीवनसंवत्सरेषु (नो) नैव (पुरा) पुराप्रबन्धचिरातीतनिकटाऽऽगामिषुइत्यव्ययार्थः। प्रबन्धेन निरन्तरेण ॥
 </details>
-

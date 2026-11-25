@@ -8,9 +8,15 @@ title = "०४ दीर्घस्ते अस्त्वङ्कुशो
 Long be thy grasping-hook wherewith thou givest treasure unto- him Who pours the juice and worships thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दी॒र्घस्ते॑ अस्त्वङ्कु॒शो येना॒ वसु॑ प्र॒यच्छ॑सि।  
+यज॑मानाय सुन्व॒ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दी॒र्घः। ते॒। अ॒स्तु॒। अ॒ङ्कु॒शः। येन॑। वसु॑। प्र॒ऽयच्छ॑स‍ि। यज॑मानाय। सु॒न्व॒ते। ५.४। 
+दी॒र्घः। ते॒। अ॒स्तु॒। अ॒ङ्कु॒शः। येन॑। वसु॑। प्र॒ऽयच्छ॑स‍ि। यज॑मानाय। सु॒न्व॒ते। ५.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Long be thy grasping-hook wherewith thou givest treasure unto- him Who pours the
 
 टिप्पणी:   ४−(दीर्घः) आयतः। विस्तृतः (ते) तव (अस्तु) (अङ्कुशः) वक्राग्रो लौहास्त्रभेदः। दण्डसाधनम् (येन) कारणेन (वसु) धनम् (प्रयच्छसि) ददासि (यजमानाय) दानिने पुरुषाय (सुन्वते) तत्त्वरसं निष्पादयते ॥
 </details>
-

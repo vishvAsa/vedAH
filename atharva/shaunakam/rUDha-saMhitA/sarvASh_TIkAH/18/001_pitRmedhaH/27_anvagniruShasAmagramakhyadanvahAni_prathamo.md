@@ -18,9 +18,15 @@ heaven-and-earth he entered.
 Agni hath looked upon the van of Mornings, and on the days. the earliest Jatavedas. After the Dawns, after their rays of brightness, Surya hath enter- ed into earth and heaven.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अन्व॒ग्निरु॒षसा॒मग्र॑मख्य॒दन्वहा॑नि प्रथ॒मो जा॒तवे॑दाः।  
+अनु॒ सूर्य॑ उ॒षसो॒अनु॑ र॒श्मीननु॒ द्यावा॑पृथि॒वी आ वि॑वेश ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अनु॑। अ॒ग्निः। उ॒षसा॑म्। अग्र॑म्। अ॒ख्य॒त्। अनु॑। अहा॑नि। प्र॒थ॒मः। जा॒तऽवे॑दाः। अनु॑। सूर्यः॑। उ॒षसः॑। अनु॑। र॒श्मीन्। अनु॑। द्यावा॑पृथि॒वी इति॑। आ। वि॒वे॒श॒। १.२७। 
+अनु॑। अ॒ग्निः। उ॒षसा॑म्। अग्र॑म्। अ॒ख्य॒त्। अनु॑। अहा॑नि। प्र॒थ॒मः। जा॒तऽवे॑दाः। अनु॑। सूर्यः॑। उ॒षसः॑। अनु॑। र॒श्मीन्। अनु॑। द्यावा॑पृथि॒वी इति॑। आ। वि॒वे॒श॒। १.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Agni hath looked upon the van of Mornings, and on the days. the earliest Jataved
 
 टिप्पणी:   २७−मन्त्रौ २७, २८ पूर्वत्र व्याख्यातौ-अ०७।८२।४, ५ ॥
 </details>
-

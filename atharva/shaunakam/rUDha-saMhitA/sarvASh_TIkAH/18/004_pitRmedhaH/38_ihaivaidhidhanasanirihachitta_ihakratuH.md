@@ -23,9 +23,15 @@ help to his descendants.
 Be here, even here, acquiring wealth, here be thou thoughts here be thou strength. Be stronger here in manly power, life-giver, never beaten back.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒हैवैधि॑धन॒सनि॑रि॒हचि॑त्त इ॒हक्र॑तुः।  
+इ॒हैधि॑ वी॒र्य᳡वत्तरो वयो॒धा अप॑राहतः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒ह। ए॒धि। वी॒र्य॑वत्ऽतरः। व॒यः॒ऽधाः। अप॑राऽहतः। ४.३८। 
+इ॒ह। ए॒धि। वी॒र्य॑वत्ऽतरः। व॒यः॒ऽधाः। अप॑राऽहतः। ४.३८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Be here, even here, acquiring wealth, here be thou thoughts here be thou strengt
 
 टिप्पणी:   ३८−(इह) अत्र (एव) निश्चयेन (एधि) भव (धनसनिः) छन्दसि वनसनरक्षिमथाम्। पा० ३।२।२७। धन+सन षण सम्भक्तौ-इन्।धनस्य संभाजकः। लम्भकः (इहचित्तः) अस्मिन् देशे कर्मणि वा चित्तं मनो यस्य सः (इहक्रतुः) क्रतुः कर्मनाम-निघ० २।१। अस्मिन् संसारे कर्मयुक्तः (इह) (एधि) भव (वीर्यवत्तरः) अधिकतरो बलवान् (वयोधाः) वयः+डुधाञ् धारणपोषणदानेषु-क्विप्।पराक्रमस्य दाता (अपराहतः) अनपभारितः ॥
 </details>
-

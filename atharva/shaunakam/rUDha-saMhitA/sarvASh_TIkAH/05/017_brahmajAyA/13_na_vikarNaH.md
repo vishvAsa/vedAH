@@ -18,9 +18,15 @@ Muir understands a "son" of such description.
 No broad-browed calf with wide-set ears is ever in his homestead born. Within whose kingdom is detained, through want of sense, a Brahman's dame.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+न वि॑क॒र्णः पृ॒थुशि॑रा॒स्तस्मि॒न्वेश्म॑नि जायते।  
+यस्मि॑न्रा॒ष्ट्रे नि॑रु॒ध्यते॑ ब्रह्मजा॒याचि॑त्त्या ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। वि॒ऽक॒र्णः। पृ॒थु॒ऽशि॑राः। तस्मि॑न्। वेश्म॑नि। जा॒य॒ते॒। यस्मि॑न्। रा॒ष्ट्रे। नि॒ऽरु॒ध्यते॑। ब्र॒ह्म॒ऽजा॒या। अचि॑त्त्या। १७.१३। 
+न। वि॒ऽक॒र्णः। पृ॒थु॒ऽशि॑राः। तस्मि॑न्। वेश्म॑नि। जा॒य॒ते॒। यस्मि॑न्। रा॒ष्ट्रे। नि॒ऽरु॒ध्यते॑। ब्र॒ह्म॒ऽजा॒या। अचि॑त्त्या। १७.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ No broad-browed calf with wide-set ears is ever in his homestead born. Within wh
 
 टिप्पणी:   १३−(न) निषेधे (विकर्णः) कर्ण भेदने−अच्। विशेषश्रवणः। बहुश्रतः (पृथुशिराः) विस्तीर्णमस्तकशक्तियुक्तः। बहुप्रज्ञः (तस्मिन्) (वेश्मनि) गृहे (जायते) उत्पद्यते ॥
 </details>
-

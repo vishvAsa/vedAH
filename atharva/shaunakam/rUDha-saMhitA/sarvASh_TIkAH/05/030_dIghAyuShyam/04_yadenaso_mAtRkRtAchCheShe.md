@@ -19,9 +19,15 @@ mother or father': doubtless wrong.
 If thou art lying there because of mother's or of father's sin, I with my voice declare to thee thy freedom and release there- from.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदेन॑सो मा॒तृकृ॑ता॒च्छेषे॑ पि॒तृकृ॑ताच्च॒ यत्।  
+उ॑न्मोचनप्रमोच॒ने उ॒भे वा॒चा व॑दामि ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। एन॑सः। मा॒तृकृ॑तात्। शेषे॑। पि॒तृऽकृ॑तात्। च॒। यत्। उ॒न्मो॒च॒न॒प्र॒मो॒च॒ने इत्यु॑न्मोचनऽप्रमोच॒ने। उ॒भे इति॑। वा॒चा। व॒दा॒मि॒। ते॒। ३०.४। 
+यत्। एन॑सः। मा॒तृकृ॑तात्। शेषे॑। पि॒तृऽकृ॑तात्। च॒। यत्। उ॒न्मो॒च॒न॒प्र॒मो॒च॒ने इत्यु॑न्मोचनऽप्रमोच॒ने। उ॒भे इति॑। वा॒चा। व॒दा॒मि॒। ते॒। ३०.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ If thou art lying there because of mother's or of father's sin, I with my voice 
 
 टिप्पणी:   ४−(यत्) यदि (एनसः) अ० २।१०।८। अपराधात् (मातृकृतात्) मात्रा निष्पादितात् (शेषे) स्वपिषि। आलस्यं करोषि (पितृकृतात्) जनकेन कृतात्। अन्यद् यथा म० २ ॥
 </details>
-

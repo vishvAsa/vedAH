@@ -20,9 +20,14 @@ a slip of Roth's pen for *cartvijas*⌋.
 Now these guests, as priests beloved or not beloved, bring one to the world of Svarga.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒ते वै प्रि॒याश्चाप्रि॑याश्च॒र्त्विजः॑ स्व॒र्गं लो॒कं ग॑मयन्ति॒ यदति॑थयः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒ते। वै। प्रि॒याः। च॒। अप्रि॑याः। च॒। ऋ॒त्विजः॑। स्वः॒ऽगम्। लो॒कम्। ग॒म॒य॒न्ति॒। यत्। अति॑थयः। ७.६। 
+ए॒ते। वै। प्रि॒याः। च॒। अप्रि॑याः। च॒। ऋ॒त्विजः॑। स्वः॒ऽगम्। लो॒कम्। ग॒म॒य॒न्ति॒। यत्। अति॑थयः। ७.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ Now these guests, as priests beloved or not beloved, bring one to the world of S
 
 टिप्पणी:   ६−(एते) (वै) निश्चयेन (प्रियाः) प्रीताः (च) (अप्रियाः) अप्रीताः (ऋत्विजः) अ० ६।२।१। सर्वर्तुयाजकाः (स्वर्गम्) सुखप्रापकम् (लोकम्) दर्शनीयं पदम् (गमयन्ति) प्रापयन्ति (यत्) यस्मात् कारणात् (अतिथयः) संन्यासिनः ॥
 </details>
-

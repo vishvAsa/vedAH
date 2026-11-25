@@ -18,9 +18,14 @@ The descriptions in KBU. and JB. have *ātāna* instead of *tantu*.
 Holy verses were the strings lengthwise, and Yajus formulas the cross-tapes.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋचः॒प्राञ्च॒स्तन्त॑वो॒ यजूं॑षि ति॒र्यञ्चः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋचः॑। प्राञ्चः॑। तन्त॑वः। यजूं॑षि। ति॒र्यञ्च॑। ३.६। 
+ऋचः॑। प्राञ्चः॑। तन्त॑वः। यजूं॑षि। ति॒र्यञ्च॑। ३.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Holy verses were the strings lengthwise, and Yajus formulas the cross-tapes.
 
 टिप्पणी:   ६−(ऋचः) पदार्थविज्ञानप्रकाशिकाविद्याः (प्राञ्चः)प्र+अञ्चु गतिपूजनयोः-क्विन्। प्रकर्षेण प्राप्ताः (तन्तवः) सूत्राणि (यजूंषि)सत्कर्मप्रतिपादकानि ज्ञानानि (तिर्यञ्चः) तिरस्+अञ्चु गतिपूजनयोः-क्विन्।तिर्यग्भवास्तन्तवः ॥
 </details>
-

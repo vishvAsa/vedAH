@@ -22,9 +22,15 @@ rather *kakummatī* than *śan̄kumatī*. ⌊It becomes a perfectly regular
 Thou, rugged Plant, art rude and rough, Visha, Vishataki art thou. That thou mayest be cast off by him, as by a bull a barren cow.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तृ॒ष्टासि॑ तृष्टि॒का वि॒षा वि॑षात॒क्य᳡सि।  
+परि॑वृक्ता॒ यथास॑स्यृष॒भस्य॑ व॒शेव॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तृ॒ष्टा। अ॒सि॒। तृ॒ष्टि॒का। वि॒षा। वि॒षा॒त॒की। अ॒सि॒। परि॑ऽवृक्ता। यथा॑। अस॑सि। ऋ॒ष॒भस्य॑। व॒शाऽइ॑व। ११८.२। 
+तृ॒ष्टा। अ॒सि॒। तृ॒ष्टि॒का। वि॒षा। वि॒षा॒त॒की। अ॒सि॒। परि॑ऽवृक्ता। यथा॑। अस॑सि। ऋ॒ष॒भस्य॑। व॒शाऽइ॑व। ११८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Thou, rugged Plant, art rude and rough, Visha, Vishataki art thou. That thou may
 
 टिप्पणी:   २−(तृष्टा) म० १। तृष्णा (असि) भवसि (तृष्टिका) म० १। लोभे गतिशीला (विषा) अर्शआद्यच्। विषयुक्ता (विषातकी) विष+आ+तकि कृच्छ्रजीवने-अण्, ङीप्, नकारलोपः। विषेण आतङ्कति कृच्छ्रजीवनं करोति या सा (असि) (परिवृक्ता) परिवर्जिता। परित्यक्ता (यथा) येन प्रकारेण (अससि) शप् छान्दसः। भवसि (ऋषभस्य) श्रेष्ठस्य (वशा) वशीभूता। आयत्ता (इव) यथा ॥
 </details>
-

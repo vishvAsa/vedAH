@@ -19,9 +19,14 @@ the text of the next. ⌊The verse is wanting in Ppp., as noted above.⌋
 May Bhaga with good fortune protect me, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+भगो॑ म॒ भगे॑नावतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भगः॑। मा॒। भगे॑न। अ॒व॒तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये। स्वाहा॑। ४५.९। 
+भगः॑। मा॒। भगे॑न। अ॒व॒तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये। स्वाहा॑। ४५.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ May Bhaga with good fortune protect me, etc.
 
 टिप्पणी:   ९−(भगः) सेवनीयः परमेश्वरः (भगेन) सेवनीयेनैश्वर्येण। अन्यत् पूर्ववत् ॥
 </details>
-

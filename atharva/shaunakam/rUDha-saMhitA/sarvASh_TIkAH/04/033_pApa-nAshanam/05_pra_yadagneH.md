@@ -27,9 +27,15 @@ and the sense, by reading *sūráyas* for *bhānávas* in 5 **b**. Ppp. has
 As ever conquering Agni's beams of splendour go to every side, His lustre flash our pain away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र यद॒ग्नेः सह॑स्वतो वि॒श्वतो॒ यन्ति॑ भा॒नवः॑।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र। यत्। अ॒ग्नेः। सह॑स्वतः। वि॒श्वतः॑। यन्ति॑। भा॒नवः॑। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.५। 
+प्र। यत्। अ॒ग्नेः। सह॑स्वतः। वि॒श्वतः॑। यन्ति॑। भा॒नवः॑। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ As ever conquering Agni's beams of splendour go to every side, His lustre flash 
 
 टिप्पणी:   ५−(प्र) प्रकर्षेण (यत्) यस्मात् (अग्नेः) परमात्मनः (सहस्वतः) बलवतः (विश्वतः) सर्वतः (यन्ति) गच्छन्ति (भानवः) प्रकाशाः। अन्यत् पूर्ववत् ॥
 </details>
-

@@ -18,9 +18,15 @@ Ppp. reads in **b** *nāsata ”syata* ⌊intending *-tas -tas*⌋.
 So that Consumption may depart forth from thine ears and from. thy mouth, All malady that wrings thy brow we charm away with this our spell.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्य॑ हे॒तोः प्र॒च्यव॑ते॒ यक्ष्मः॑ कर्ण॒त आ॑स्य॒तः।  
+सर्वं॑ शीर्ष॒र्ण्यं᳡ ते॒ रोगं॑ ब॒हिर्निर्म॑न्त्रयामहे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्य॑। हे॒तोः। प्र॒ऽच्यव॑ते। यक्ष्मः॑। क॒र्ण॒तः। आ॒स्य॒तः। सर्व॑म्। शी॒र्ष॒ण्य᳡म्। ते॒। रोग॑म्। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.३। 
+यस्य॑। हे॒तोः। प्र॒ऽच्यव॑ते। यक्ष्मः॑। क॒र्ण॒तः। आ॒स्य॒तः। सर्व॑म्। शी॒र्ष॒ण्य᳡म्। ते॒। रोग॑म्। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ So that Consumption may depart forth from thine ears and from. thy mouth, All ma
 
 टिप्पणी:   ३−(यस्य) रोगस्य (हेतोः) कमिमनिजनि०। उ० १।७३। हि गतिवृद्ध्योः-तु। कारणात् (प्रच्यवते) विस्तीर्यते (यक्ष्मः) अ० २।१०।५। राजरोगः। अन्यत् सुगमम् ॥
 </details>
-

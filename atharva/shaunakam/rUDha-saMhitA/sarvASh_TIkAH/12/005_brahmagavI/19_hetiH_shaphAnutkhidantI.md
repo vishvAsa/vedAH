@@ -17,9 +17,14 @@ looking away.
 An arrow when she draweth up her hooves, and Mahadeva when she looketh around;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+हे॒तिः श॒फानु॑त्खि॒दन्ती॑ महादे॒वो॒३॒॑पेक्ष॑माणा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हे॒तिः। श॒फान्। उ॒त्ऽखि॒दन्ती॑। म॒हा॒ऽदे॒वः। अ॒प॒ऽईक्ष॑माणा। ७.८। 
+हे॒तिः। श॒फान्। उ॒त्ऽखि॒दन्ती॑। म॒हा॒ऽदे॒वः। अ॒प॒ऽईक्ष॑माणा। ७.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ An arrow when she draweth up her hooves, and Mahadeva when she looketh around;
 
 टिप्पणी:   १९−(हेतिः) हन हिंसागत्योः−क्तिन्। वज्रः−निघ० २।२०। (शफान्) शम शान्तौ आलोचने च−अच्, भस्य फः। शान्तिव्यवहारान् (उत्खिदन्ती) खिद परिघाते दैन्ये च−शतृ। सर्वतो नाशयन्ती (महादेवः) दिवु विजिगीषायाम्−अच्। महाविजिगीषुः शूरपुरुषो यथा (अपेक्षमाणा) सर्वतो दृष्टिं कुर्वाणा ॥
 </details>
-

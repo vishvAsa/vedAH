@@ -26,9 +26,15 @@ this. ⌊For the ceremony, cf. Caland, *Todtengebräuche*, p. 137.⌋
 The mingled draught, the mess of rice, the flesh which I present to thee, May these be full of food for thee, distilling fatness, rich in sweets.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यं ते॑ म॒न्थंयमो॑द॒नं यन्मां॒सं नि॑पृ॒णामि॑ ते।  
+ते ते॑ सन्तु स्व॒धाव॑न्तो॒ मधु॑मन्तोघृत॒श्चुतः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। ते॒। म॒न्थम्। यम्। ओ॒द॒नम्। यत्। मां॒सम्। नि॒ऽपृ॒णामि॑। ते॒। ते। ते॒। स॒न्तु॒। स्व॒धाऽव॑न्तः। मधु॑ऽवन्तः। घृ॒त॒ऽश्चुतः॑। ४.४२। 
+यम्। ते॒। म॒न्थम्। यम्। ओ॒द॒नम्। यत्। मां॒सम्। नि॒ऽपृ॒णामि॑। ते॒। ते। ते॒। स॒न्तु॒। स्व॒धाऽव॑न्तः। मधु॑ऽवन्तः। घृ॒त॒ऽश्चुतः॑। ४.४२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ The mingled draught, the mess of rice, the flesh which I present to thee, May th
 
 टिप्पणी:   ४२−(यम्) (ते) तुभ्यम् (मन्थम्) विलोडनेन प्राप्तं नवनीतादिपदार्थम् (यम्) (ओदनम्) भक्तम्।सुसंस्कृतान्नम् (यत्) (मांसम्) म० २०। मनसाधकं बुद्धिवर्धकं पदार्थम् (निपृणामि) पॄ पालनपूरणयोः। नियमेन पूरयामि। समर्पयामि (ते) तुभ्यम्। अन्यत्पूर्ववत्-अ० १८।३।६८ तथा १८।४।२५ ॥
 </details>
-

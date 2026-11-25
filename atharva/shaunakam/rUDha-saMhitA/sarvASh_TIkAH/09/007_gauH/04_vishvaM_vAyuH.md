@@ -23,9 +23,14 @@ except *vahaḥ* at the end.
 His universe is Vayu, Svarga is his world, Krishpadram is the tendons and Vertebrae.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+विश्वं॑ वा॒युः स्व॒र्गो लो॒कः कृ॑ष्ण॒द्रं वि॒धर॑णी निवे॒ष्यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-विश्व॑म्। वा॒युः। स्वः॒ऽगः। लो॒कः। कृ॒ष्ण॒ऽद्रम्। वि॒ऽधर॑णी। नि॒ऽवे॒ष्यः १। १२.४। 
+विश्व॑म्। वा॒युः। स्वः॒ऽगः। लो॒कः। कृ॒ष्ण॒ऽद्रम्। वि॒ऽधर॑णी। नि॒ऽवे॒ष्यः १। १२.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ His universe is Vayu, Svarga is his world, Krishpadram is the tendons and Verteb
 
 टिप्पणी:   ४−(विश्वम्) व्यापनसामर्थ्यम् (वायुः) (स्वर्गः) सुखप्रापकः (लोकः) गृहम् (कृष्णद्रम्) कृषेर्वर्णे। उ० ३।४। कृष विलेखने-नक्+द्रु गतौ-ड प्रत्ययः। आकर्षणस्य द्रावो वेगः (विधरणी) विविधधारणशक्तिः (निवेष्यः) ऋहलोर्ण्यत्। पा० ३।१।१२४। नि+विष्लृ व्याप्तौ-ण्यत्। सेनानिवासः। निवेशः ॥
 </details>
-

@@ -22,9 +22,15 @@ hymn 113, as vs. 2 with 115.
 I have extracted from thy sides, I have extracted from thy heart, I have extracted from thy face the strength and splendour that were thine.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ ते॑ ददे व॒क्षणा॑भ्य॒ आ ते॒ऽहं हृद॑याद्ददे।  
+आ ते॒ मुख॑स्य॒ सङ्का॑शा॒त्सर्वं॑ ते॒ वर्च॒ आ द॑दे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। ते॒। द॒दे॒। व॒क्षणा॑भ्यः। आ। ते॒। अ॒हम्। हृद॑यात्। द॒दे॒। आ। ते॒। मुख॑स्य। सम्ऽका॑शात्। सर्व॑म्। ते॒। वर्चः॑। आ। द॒दे॒। ११९.१। 
+आ। ते॒। द॒दे॒। व॒क्षणा॑भ्यः। आ। ते॒। अ॒हम्। हृद॑यात्। द॒दे॒। आ। ते॒। मुख॑स्य। सम्ऽका॑शात्। सर्व॑म्। ते॒। वर्चः॑। आ। द॒दे॒। ११९.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ I have extracted from thy sides, I have extracted from thy heart, I have extract
 
 टिप्पणी:   १−(ते) तव (आ ददे) लिटि रूपम्। गृहीतवानस्मि (वक्षणाभ्यः) अ० २।५।५। वक्ष रोधे-युच्। टाप्। वक्षःस्थलेभ्यः (ते) (अहम्) (हृदयात्) (आ ददे) (आ) चार्थे (ते) (मुखस्य) (संकाशात्) आकारात् (सर्वम्) (ते) तव (वर्चः) तेजो बलं वा (आ ददे) ॥
 </details>
-

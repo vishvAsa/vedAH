@@ -35,9 +35,15 @@ mere omission of the accent by which he distinguishes the palatal sonant
 Win the love of Indra that his friend may reach yet higher state. Increase, as rain the grass, this man's dominion and his lofty fame.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒दं तद्यु॒ज उत्त॑र॒मिन्द्रं॑ शुम्भा॒म्यष्ट॑ये।  
+अ॒स्य क्ष॒त्रं श्रियं॑ म॒हीं वृ॒ष्टिरि॑व वर्धया॒ तृण॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒दम्। तत्। यु॒जे। उत्ऽत॑रम्। इन्द्र॑म्। शु॒म्भा॒मि॒। अष्ट॑ये। अ॒स्य। क्ष॒त्रम्। श्रिय॑म्। म॒हीम्। वृ॒ष्टिःऽइ॑व। व॒र्ध॒य॒। तृण॑म्। ५४.१। 
+इ॒दम्। तत्। यु॒जे। उत्ऽत॑रम्। इन्द्र॑म्। शु॒म्भा॒मि॒। अष्ट॑ये। अ॒स्य। क्ष॒त्रम्। श्रिय॑म्। म॒हीम्। वृ॒ष्टिःऽइ॑व। व॒र्ध॒य॒। तृण॑म्। ५४.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -67,4 +73,3 @@ Win the love of Indra that his friend may reach yet higher state. Increase, as r
 
 टिप्पणी:   १−(इदम्) समीपस्थम् (तत्) दूरस्थम् (युजे) युजे−क्विप् मित्राय (उत्तरम्) उच्चतरं पदं भवतु (इन्द्रम्) राजानम् (शुम्भामि) शुम्भ शोभायाम्, णिजर्थः। शोभयामि (अष्टये) अशू व्याप्तौ−क्तिन्। इष्टप्राप्तये (अस्य) पुरुषस्य (क्षत्रम्) राज्यम् (श्रियम्) सम्पत्तिम् (महीम्) महतीम् (वृष्टिः) वर्षणम् (इव) यथा (वर्धय) समर्धय (तृणम्) घासम् ॥
 </details>
-

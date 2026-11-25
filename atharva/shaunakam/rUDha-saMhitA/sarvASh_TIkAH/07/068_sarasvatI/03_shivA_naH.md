@@ -23,9 +23,15 @@ expanded to *bhavantu divyā́ ā́pa óṣadhayaḥ*. ⌊Cf. also *Kaṭha-hss.
 Be kind and most auspicious, be gracious to us, Sarasvati, May we be ever in thy sight.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शि॒वा नः॒ शंत॑मा भव सुमृडी॒का स॑रस्वति।  
+मा ते॑ युयोम सं॒दृशः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शि॒वा। नः॒। शम्ऽत॑मा। भ॒व॒। सु॒ऽमृ॒डी॒का। स॒र॒स्व॒ति॒। मा। ते॒। यु॒यो॒म॒। स॒म्ऽदृशः॑। ७१.१। 
+शि॒वा। नः॒। शम्ऽत॑मा। भ॒व॒। सु॒ऽमृ॒डी॒का। स॒र॒स्व॒ति॒। मा। ते॒। यु॒यो॒म॒। स॒म्ऽदृशः॑। ७१.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Be kind and most auspicious, be gracious to us, Sarasvati, May we be ever in thy
 
 टिप्पणी:   ३−(शिवा) कल्याणी (नः) अस्मभ्यम् (शंतमा) अत्यर्थं रोगनिवारिका (भव) (सुमृडीका) अत्यन्तं सुखदा (सरस्वति) (ते) तव (मा युयोम) यौतेर्लोटि शपः श्लुः। पृथग्भूता मा भवेम (संदृशः) दृशिर्-क्विप्। समीचीनाद् दर्शनात्। यथार्थस्वरूपज्ञानात् ॥
 </details>
-

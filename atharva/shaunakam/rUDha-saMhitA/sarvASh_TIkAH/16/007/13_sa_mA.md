@@ -17,9 +17,14 @@ This verse also forms a part of x. 5. 25 etc.
 Let him not live. Let the breath of life forsake him.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स मा जी॑वी॒त्तंप्रा॒णो ज॑हातु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। मा। जी॒वी॒त्। तम्। प्रा॒णः। ज॒हा॒तु॒। ७.१३। 
+सः। मा। जी॒वी॒त्। तम्। प्रा॒णः। ज॒हा॒तु॒। ७.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Let him not live. Let the breath of life forsake him.
 
 टिप्पणी:   १३−(सः) दुष्टः (मा जीवीत्)नैव प्राणान् धारयेत् (तम्) दुष्टम् (प्राणः) जीवनम् (जहातु) त्यजतु ॥
 </details>
-

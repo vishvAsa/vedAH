@@ -19,9 +19,15 @@ two that follow are found in Ppp. here.
 Give me the boon of splendid strength; give, Agni! progeny and life. May the Gods know this prayer of mine, may Indra with the Rishis know.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा।  
+वि॒द्युर्मे॑ अ॒स्य दे॒वा इन्द्रो॑ विद्यात्स॒ह ऋषि॑भिः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। मा॒। अ॒ग्ने॒। वर्च॑सा। सृ॒ज॒। सम्। प्र॒ऽजया॑। सम्। आयु॑षा। वि॒द्युः। मे॒। अ॒स्य। दे॒वाः। इन्द्रः॑। वि॒द्या॒त्। स॒ह। ऋषि॑ऽभिः। ५.४७। 
+सम्। मा॒। अ॒ग्ने॒। वर्च॑सा। सृ॒ज॒। सम्। प्र॒ऽजया॑। सम्। आयु॑षा। वि॒द्युः। मे॒। अ॒स्य। दे॒वाः। इन्द्रः॑। वि॒द्या॒त्। स॒ह। ऋषि॑ऽभिः। ५.४७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Give me the boon of splendid strength; give, Agni! progeny and life. May the God
 
 टिप्पणी:   ४७−अयं मन्त्रो व्याख्यातः-अ० ७।८९।२ ॥
 </details>
-

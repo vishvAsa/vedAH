@@ -24,9 +24,14 @@ Pet. Lex.).
 Now have we conquered and obtained: we have been freed from sin to-day.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अजै॑ष्मा॒द्यास॑नामा॒द्याभू॒मना॑गसो व॒यम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अजै॑ष्म। अ॒द्य। अस॑नाम। अ॒द्य। अभू॑म। अना॑गसः। व॒यम्। ६.१। 
+अजै॑ष्म। अ॒द्य। अस॑नाम। अ॒द्य। अभू॑म। अना॑गसः। व॒यम्। ६.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +61,3 @@ Now have we conquered and obtained: we have been freed from sin to-day.
 
 टिप्पणी:   १−(अजैष्म) वयं जितवन्तः (अद्य) इदानीम् (असनाम) षण संभक्तौ-लङ्। वयं लब्धवन्तः (अद्य) (अभूम) (अनागसः) निर्दोषाः (वयम्) पुरुषार्थिनः ॥
 </details>
-

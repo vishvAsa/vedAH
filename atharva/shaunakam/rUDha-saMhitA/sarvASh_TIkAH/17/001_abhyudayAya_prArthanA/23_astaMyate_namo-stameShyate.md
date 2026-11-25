@@ -22,9 +22,15 @@ in the first half-verse, thus counting 35 syllables.
 Worship to him when he is turning westward, to him when set- ting, and when set be worship! To him far-shining, him the self-refulgent, to him the Sovran Lord and King be glory!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑स्तंय॒ते नमो॑ऽस्तमेष्य॒ते नमो॑ऽस्तमिताय॒ नमः॑।  
+वि॒राजे॒ नमः॑ स्व॒राजे॒ नमः॑ स॒म्राजे॒नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒स्त॒म्ऽय॒ते। नमः॑। अ॒स्त॒म्ऽए॒ष्य॒ते। नमः॑। अस्त॑म्ऽइताय। नमः॑। वि॒ऽराजे॑। नमः॑। स्व॒ऽराजे॑। नमः॑। स॒म्ऽराजे॑। नमः॑। १.२३। 
+अ॒स्त॒म्ऽय॒ते। नमः॑। अ॒स्त॒म्ऽए॒ष्य॒ते। नमः॑। अस्त॑म्ऽइताय। नमः॑। वि॒ऽराजे॑। नमः॑। स्व॒ऽराजे॑। नमः॑। स॒म्ऽराजे॑। नमः॑। १.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Worship to him when he is turning westward, to him when set- ting, and when set 
 
 टिप्पणी:   २३−(अस्तंयते) अस्तंगच्छते परमेश्वराय (नमः) नमस्कारः (अस्तमेष्यते)अस्तं गमिष्यते (अस्तमिताय) अस्तं प्राप्ताय। अन्यत् पूर्ववत्-म० २२॥
 </details>
-

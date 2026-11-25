@@ -22,9 +22,15 @@ three verses, the norm of the book.
 If thou art bound with cord or tied to timber, fixt in the earth, or by a word imprisoned, Our Agni Garhapatya here shall free thee, and lead thee up into the world of virtue.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्दारु॑णि ब॒ध्यसे॒ यच्च॒ रज्ज्वां॒ यद्भूम्यां॑ ब॒ध्यसे॒ यच्च॑ वा॒चा।  
+अ॒यं तस्मा॒द्गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। दारु॑णि। ब॒ध्यसे॑। यत्। च॒। रज्ज्वा॑म्। यत्। भूम्या॑म्। ब॒ध्यसे॑। यत्। च॒। वा॒चा। अ॒यम्। तस्मा॑त्। गार्ह॑ऽपत्यः। नः॒। अ॒ग्निः। उत्। इत्। न॒या॒ति॒। सु॒ऽकृ॒तस्य॑। लो॒कम्। १२१.२। 
+यत्। दारु॑णि। ब॒ध्यसे॑। यत्। च॒। रज्ज्वा॑म्। यत्। भूम्या॑म्। ब॒ध्यसे॑। यत्। च॒। वा॒चा। अ॒यम्। तस्मा॑त्। गार्ह॑ऽपत्यः। नः॒। अ॒ग्निः। उत्। इत्। न॒या॒ति॒। सु॒ऽकृ॒तस्य॑। लो॒कम्। १२१.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ If thou art bound with cord or tied to timber, fixt in the earth, or by a word i
 
 टिप्पणी:   २−(यत्) यदि (दारुणि) दॄसनिजनि०। उ० १।३। दॄ विदारणे−ञुण्। काष्ठे (बध्यसे) बद्धो भवसि (रज्ज्वाम्) दाम्नि (भूम्याम्) भूमिगर्ते (वाचा) राजाज्ञाप्रकाशकेन वचनेन। अन्यद् गतम्−अ० ६।१२०।१ ॥
 </details>
-

@@ -19,9 +19,14 @@ read *brahmáṇe*. ⌊As to the meaning, see introduction, p. 932, ¶2.⌋
 Hail to Brahma!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्र॒ह्मणे॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्र॒ह्मणे॑। स्वाहा॑। २३.२९। 
+ब्र॒ह्मणे॑। स्वाहा॑। २३.२९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Hail to Brahma!
 
 टिप्पणी:   २९−(ब्रह्मणे) वेदज्ञानाय ॥
 </details>
-

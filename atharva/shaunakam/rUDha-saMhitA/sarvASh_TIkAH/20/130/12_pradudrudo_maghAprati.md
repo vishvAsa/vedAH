@@ -8,9 +8,14 @@ title = "१२ प्रदुद्रुदो मघाप्रति"
 ran forward to the liberal gifts.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रदुद्रु॑दो॒ मघा॑प्रति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रदुद्रु॑दः॒। मघा॑प्रति। १३०.१२। 
+प्रदुद्रु॑दः॒। मघा॑प्रति। १३०.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ ran forward to the liberal gifts.
 
 टिप्पणी:   १२−(प्रदुद्रुदः) शते च। उ० १।३। प्र+द्रु गतौ-कु, डित्, ददातेः-क। प्रकर्षेण गतिदायको व्यवहारः (मघाप्रति) मघं धननाम-निघ० २।१०। धनानि प्रति अभिमुखीकृत्य ॥
 </details>
-

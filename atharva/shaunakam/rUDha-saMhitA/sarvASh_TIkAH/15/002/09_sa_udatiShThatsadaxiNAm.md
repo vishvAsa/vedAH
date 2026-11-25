@@ -12,12 +12,17 @@ title = "०९ स उदतिष्ठत्सदक्षिणाम्"
 
 <details><summary>Griffith</summary>
 
-He arose and went away to the southern region. 
+He arose and went away to the southern region.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उद॑तिष्ठ॒त्सदक्षि॑णां॒ दिश॒मनु॒ व्य᳡चलत् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-सः। उत्। अ॒ति॒ष्ठ॒त्। सः। दक्षि॑णाम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। २.९। 
+सः। उत्। अ॒ति॒ष्ठ॒त्। सः। दक्षि॑णाम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। २.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,4 +52,3 @@ He arose and went away to the southern region.
 
 टिप्पणी:   ९−(दक्षिणाम्)अवामभागस्थाम्। दक्षिणस्थाम्। अन्यत्पूर्ववत्-म० १ ॥
 </details>
-

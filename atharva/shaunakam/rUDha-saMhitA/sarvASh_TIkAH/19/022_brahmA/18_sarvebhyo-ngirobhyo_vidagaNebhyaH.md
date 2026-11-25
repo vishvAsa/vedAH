@@ -19,9 +19,14 @@ leave the word untranslated.
 To all the Vidagana Angirases, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वे॒भ्योऽङ्गि॑रोभ्यो विदग॒णेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वे॑भ्यः। अङ्गि॑रःऽभ्यः। वि॒द॒ऽग॒णेभ्यः॑। स्वाहा॑। २२.१८। 
+सर्वे॑भ्यः। अङ्गि॑रःऽभ्यः। वि॒द॒ऽग॒णेभ्यः॑। स्वाहा॑। २२.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ To all the Vidagana Angirases, Hail!
 
 टिप्पणी:   १८−(सर्वेभ्यः) समस्तेभ्यः (अङ्गिरोभ्यः) विज्ञानिभ्यः (विदगणेभ्यः) विद ज्ञाने-क। पण्डितसमूहेभ्यः।
 </details>
-

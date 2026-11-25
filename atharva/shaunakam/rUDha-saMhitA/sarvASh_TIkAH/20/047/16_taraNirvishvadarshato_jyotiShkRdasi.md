@@ -8,9 +8,15 @@ title = "१६ तरणिर्विश्वदर्शतो ज्यो
 Swift and all-beautiful art thou, O Surya, maker of the light. Illuming all the radiant realm.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त॒रणि॑र्वि॒श्वद॑र्शतो ज्योति॒ष्कृद॑सि सूर्य।  
+विश्व॒मा भा॑सि रोचन ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त॒रणिः॑। वि॒श्वऽद॑र्शतः। ज्यो॒तिः॒ऽकृत्। अ॒सि॒। सू॒र्य॒। विश्व॑म्। आ। भा॒सि॒। रो॒च॒न॒। ४७.१६। 
+त॒रणिः॑। वि॒श्वऽद॑र्शतः। ज्यो॒तिः॒ऽकृत्। अ॒सि॒। सू॒र्य॒। विश्व॑म्। आ। भा॒सि॒। रो॒च॒न॒। ४७.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Swift and all-beautiful art thou, O Surya, maker of the light. Illuming all the 
 
 टिप्पणी:   १३-२१−एते मन्त्रा व्याख्याताः-अ० १३।२।१६-२४ ॥
 </details>
-

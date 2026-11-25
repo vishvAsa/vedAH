@@ -20,9 +20,15 @@ accurate.
 Toward the upmost region I supply thee, before thou goest homeward, with oblation, as in her arms Earth bears the heaven above us. Those who give room, who made the paths, we worship, you, mid the Gods, who share the gifts we offer.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऊ॑र्ध्वायां त्वादि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑।  
+लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऊ॒र्ध्वाया॑म्। त्वा॒। दि॒श‍ि। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३५। 
+ऊ॒र्ध्वाया॑म्। त्वा॒। दि॒श‍ि। पु॒रा। स॒म्ऽवृतः॑। स्व॒धाया॑म्। आ। द॒धा॒मि॒। बा॒हु॒ऽच्युता॑। पृ॒थि॒वी। द्याम्ऽइ॑व। उ॒परि॑। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ३.३५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Toward the upmost region I supply thee, before thou goest homeward, with oblatio
 
 टिप्पणी:   ३५−(ऊर्ध्वायाम्) उपरि स्थितायाम्। अन्यत् पूर्ववत् ॥
 </details>
-

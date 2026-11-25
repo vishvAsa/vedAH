@@ -19,9 +19,14 @@ All the *saṁhitā*-mss. read *-tyù3gró* ⌊K. *ū̀g-*⌋. This verse also h
 Death is she when she loweth, and a fierce God when she whis- keth her tail;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मृ॒त्युर्हि॑ङ्कृण्व॒त्यु१॒॑ग्रो दे॒वः पुच्छं॑ प॒र्यस्य॑न्ती ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मृ॒त्युः। हि॒ङ्कृ॒ण्व॒ती। उ॒ग्रः। दे॒वः। पुच्छ॑म्। प॒रि॒ऽअस्य॑न्ती। ७.१०। 
+मृ॒त्युः। हि॒ङ्कृ॒ण्व॒ती। उ॒ग्रः। दे॒वः। पुच्छ॑म्। प॒रि॒ऽअस्य॑न्ती। ७.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Death is she when she loweth, and a fierce God when she whis- keth her tail;
 
 टिप्पणी:   २१−(मृत्युः) मरणं यथा (हिङ्कृण्वती) अ० ७।७३।८। हि गतिवृद्ध्योः−डि। गतिं वृद्धिं वा कुर्वती (उग्रः) प्रचण्डः (देवः) विजिगीषुर्यथा (पुच्छम्) पुच्छ प्रमादे प्रसादे च−अच्। प्रमादम् (पर्यस्यन्ती) सर्वतः क्षिपन्ती ॥
 </details>
-

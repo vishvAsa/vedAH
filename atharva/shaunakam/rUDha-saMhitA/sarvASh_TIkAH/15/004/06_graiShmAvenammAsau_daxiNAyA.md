@@ -19,9 +19,14 @@ who knoweth thus.
 They made the two Dewy months his protectors from the region of the zenith, and Heaven and the Adityas superintendents. The two Dewy months, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ग्रैष्मा॑वेनं॒मासौ॒ दक्षि॑णाया दि॒शो गो॑पायतो यज्ञाय॒ज्ञियं॑ च वामदे॒व्यं चानु॑ तिष्ठतो॒ यए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ग्रैष्मौ॑। ए॒न॒म्। मासौ॑। दक्षि॑णायाः। दि॒शः। गो॒पा॒य॒तः॒। य॒ज्ञा॒य॒ज्ञिय॑म्। च॒। वा॒म॒ऽदे॒व्यम्। च॒। अनु॑। ति॒ष्ठ॒तः॒। यः। ए॒वम्। वेद॑। ४.६। 
+ग्रैष्मौ॑। ए॒न॒म्। मासौ॑। दक्षि॑णायाः। दि॒शः। गो॒पा॒य॒तः॒। य॒ज्ञा॒य॒ज्ञिय॑म्। च॒। वा॒म॒ऽदे॒व्यम्। च॒। अनु॑। ति॒ष्ठ॒तः॒। यः। ए॒वम्। वेद॑। ४.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ They made the two Dewy months his protectors from the region of the zenith, and 
 
 टिप्पणी:   ५, ६−(ग्रैष्मौ)ग्रीष्म-अण्। निदाघसम्बन्धिनौ ज्येष्ठाषाढौ (मासौ) (यज्ञायज्ञियम्)व्याख्यातम्-सू० ३ म० ५ (वामदेव्यम्) गतम्-सू० ३ म० ५। अन्यत् पूर्ववत् ॥
 </details>
-

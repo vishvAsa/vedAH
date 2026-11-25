@@ -8,9 +8,15 @@ title = "१५ स्वरन्ति त्वा"
 Men, Vasu, by the Soma with lauds call thee to the foremost place. When comest thou athirst unto the juice as home, O Indra, like a bellowing bull?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्वर॑न्ति त्वा सु॒ते नरो॒ वसो॑ निरे॒क उ॒क्थिनः॑।  
+क॒दा सु॒तं तृ॑षा॒ण ओक॒ आ ग॑म॒ इन्द्र॑ स्व॒ब्दीव॒ वंस॑गः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्वर॑न्ति। त्वा॒। सु॒ते। नरः॑। वसो॒ इति॑। नि॒रे॒के। उ॒क्थिनः॑। क॒दा। सृ॒तम्। तृ॒षा॒णः। ओकः॑। आ। ग॒मः। इन्द्र॑। स्व॒ब्दीऽइ॑व। वंस॑गः। ५७.१५। 
+स्वर॑न्ति। त्वा॒। सु॒ते। नरः॑। वसो॒ इति॑। नि॒रे॒के। उ॒क्थिनः॑। क॒दा। सृ॒तम्। तृ॒षा॒णः। ओकः॑। आ। ग॒मः। इन्द्र॑। स्व॒ब्दीऽइ॑व। वंस॑गः। ५७.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Men, Vasu, by the Soma with lauds call thee to the foremost place. When comest t
 
 टिप्पणी:   १४-१६। एते मन्त्रा व्याख्याताः-अ० २०।३।१-३ ॥
 </details>
-

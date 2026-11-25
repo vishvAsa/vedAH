@@ -19,9 +19,15 @@ Ppp., as noted above, reads for the second half of this verse our 11
 Through hundred autumn seasons, long to live, I wear this Varana. May it bestow on me great strength, cattle, and royalty and power.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒मं बि॑भर्मि वर॒णमायु॑ष्माञ्छ॒तशा॑रदः।  
+स मे॑ रा॒ष्ट्रं च॑ क्ष॒त्रं च॑ प॒शूनोज॑श्च मे दधत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒मम्। बि॒भ॒र्मि॒। व॒र॒णम्। आयु॑ष्मान्। श॒तऽशा॑रदः। सः। मे॒। रा॒ष्ट्रम्। च॒। क्ष॒त्रम्। च॒। प॒शून्। ओजः॑। च॒। मे॒। द॒ध॒त्। ३.१२। 
+इ॒मम्। बि॒भ॒र्मि॒। व॒र॒णम्। आयु॑ष्मान्। श॒तऽशा॑रदः। सः। मे॒। रा॒ष्ट्रम्। च॒। क्ष॒त्रम्। च॒। प॒शून्। ओजः॑। च॒। मे॒। द॒ध॒त्। ३.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Through hundred autumn seasons, long to live, I wear this Varana. May it bestow 
 
 टिप्पणी:   १२−(इमम्) प्रत्यक्षम् (बिभर्मि) धरामि (वरणम्) म० १। श्रेष्ठम् (आयुष्मान्) (शतशारदः) अ० १।३५।१। शतसंवत्सरयुक्तः (सः) वरणः (मे) मम (राष्ट्रम्) राज्यम् (च) (क्षत्रम्) क्षत्रियधर्मम् (च) (पशून्) (ओजः) बलम् (च) (मे) (दधत्) पोषयेत् ॥
 </details>
-

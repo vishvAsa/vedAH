@@ -28,9 +28,15 @@ accordingly retained here.
 By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests the mighty Sky.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+का॒लेन॒ वातः॑ पवते का॒लेन॑ पृथि॒वी म॒ही।  
+द्यौर्म॒ही का॒ल आहि॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-का॒लेन॑। वातः॑। प॒व॒ते॒। का॒लेन॑। पृ॒थि॒वी। म॒ही। द्यौः। म॒ही। का॒ले। आऽहि॑ता। ५४.२। 
+का॒लेन॑। वातः॑। प॒व॒ते॒। का॒लेन॑। पृ॒थि॒वी। म॒ही। द्यौः। म॒ही। का॒ले। आऽहि॑ता। ५४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -60,4 +66,3 @@ By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests 
 
 टिप्पणी:   २−(कालेन) (वातः) वायुः (पवते) पुनाति। शोधयति (कालेन) (पृथिवी) (मही) महती वर्तते (द्यौः) आकाशः (मही) महती (काले) (आहिता) स्थापिता ॥
 </details>
-

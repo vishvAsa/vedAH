@@ -8,9 +8,15 @@ title = "०९ नि तद्दधिषेऽवरे"
 Worthy of praises many-shaped, most skilful, most energetic, Aptya of the Aptyas: He with his might destroys the seven Danus, subduing many who were deemed his equals.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नि तद्द॑धि॒षेऽव॑रे॒ परे॑ च॒ यस्मि॒न्नावि॒थाव॑सा दुरो॒णे।  
+आ स्था॑पयत मा॒तरं॑ जिग॒त्नुमत॑ इन्वत॒ कर्व॑राणि॒ भूरि॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नि। तत्। द॒धि॒षे॒। अव॑रे। परे॑। च॒। यस्म‍ि॑न्। आवि॑थ। अव॑सा। दु॒रो॒णे। आ। स्था॒प॒य॒त॒। मा॒तर॑म्। जि॒ग॒त्नु॒म्। अतः॑। इ॒न्व॒त॒। कर्व॑राणि। भूरि॑। १०७.९। 
+नि। तत्। द॒धि॒षे॒। अव॑रे। परे॑। च॒। यस्म‍ि॑न्। आवि॑थ। अव॑सा। दु॒रो॒णे। आ। स्था॒प॒य॒त॒। मा॒तर॑म्। जि॒ग॒त्नु॒म्। अतः॑। इ॒न्व॒त॒। कर्व॑राणि। भूरि॑। १०७.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Worthy of praises many-shaped, most skilful, most energetic, Aptya of the Aptyas
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
-

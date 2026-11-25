@@ -8,9 +8,14 @@ title = "१० शृङ्गं धमन्त"
 Three adders, breathing angrily, are blowing loud the threatening horn. (with previous verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शृङ्गं॑ ध॒मन्त॑ आसते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शृङ्ग॑म्। ध॒मन्तः॑। आसते। १२९.१०। 
+शृङ्ग॑म्। ध॒मन्तः॑। आसते। १२९.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Three adders, breathing angrily, are blowing loud the threatening horn. (with pr
 
 टिप्पणी:   १०−(शृङ्गम्) वाद्यविशेषं यथा, तथा श्वासशब्दम् (घञन्तः) ध्मा शब्दाग्निसंयोगयोः-शतृ। दीर्घश्वासेन शब्दयन्तः (आसते) उपविशन्ति ॥
 </details>
-

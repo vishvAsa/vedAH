@@ -23,9 +23,14 @@ as *yádi ekavṛṣó ási sṛjá arasò ‘si* (or *sṛjā́ ’rasó asi*).
 Bull! if thou art the single bull, beget. Thou hast no vital sap.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्ये॑कवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यदि॑। ए॒क॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.१। 
+यदि॑। ए॒क॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ Bull! if thou art the single bull, beget. Thou hast no vital sap.
 
 टिप्पणी:   १−(यदि) पक्षान्तरे (एकवृषः) वृषु प्रजननैश्ययोः−क। एकेन परमेश्वरेण सहैश्वर्य्यवान् (असि) (सृज) उत्पादय सुखम् [नोचेत्] इति शेषः (अरसः) असमर्थः (असि) ॥
 </details>
-

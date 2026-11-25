@@ -18,9 +18,14 @@ Cf. vs. 19, below; 'for,' apparently 'for the advantage of.'
 He keeppeth watch o'er creatures, all that breatheth and that breatheth not.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स प्र॒जाभ्यो॒ वि प॑श्यति॒ यच्च॑ प्रा॒णति॒ यच्च॒ न ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। प्र॒ऽजाभ्यः॑। वि। प॒श्य॒ति॒। यत्। च॒। प्रा॒णति॑। यत्। च॒। न। ४.११। 
+सः। प्र॒ऽजाभ्यः॑। वि। प॒श्य॒ति॒। यत्। च॒। प्रा॒णति॑। यत्। च॒। न। ४.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ He keeppeth watch o'er creatures, all that breatheth and that breatheth not.
 
 टिप्पणी:   ११−(सः) परमेश्वरः (प्रजाभ्यः) उत्पन्नजीवानां हिताय (वि) विविधम् (पश्यति) विलोकयति (यत्) सृष्टिजातम् (च) (प्राणति) प्रश्वसिति (यत्) (च) (न) निषेधे ॥
 </details>
-

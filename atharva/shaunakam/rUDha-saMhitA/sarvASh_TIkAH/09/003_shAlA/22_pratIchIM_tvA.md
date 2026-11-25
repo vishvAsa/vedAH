@@ -21,9 +21,15 @@ Ppp. reads at the end *prathamobhā*. The mss. all have *ca rtásya* in
 Turned to thee, House! I come to thee, innocent, turned to welcome me: For Fire and Water are within, the first chief door of sacrifice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒तीचीं॑ त्वा प्रती॒चीनः॒ शाले॒ प्रैम्यहिं॑सतीम्।  
+अ॒ग्निर्ह्य१॒॑न्तराप॑श्च॒र्तस्य॑ प्रथ॒मा द्वाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒तीची॑म्। त्वा॒। प्र॒ती॒चीनः॑। शाले॑। प्र। ए॒मि॒। अहिं॑सतीम्। अ॒ग्निः। हि। अ॒न्तः। आपः॑। च॒। ऋ॒तस्य॑। प्र॒थ॒मा। द्वाः। ३.२२। 
+प्र॒तीची॑म्। त्वा॒। प्र॒ती॒चीनः॑। शाले॑। प्र। ए॒मि॒। अहिं॑सतीम्। अ॒ग्निः। हि। अ॒न्तः। आपः॑। च॒। ऋ॒तस्य॑। प्र॒थ॒मा। द्वाः। ३.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Turned to thee, House! I come to thee, innocent, turned to welcome me: For Fire 
 
 टिप्पणी:   २२−(प्रतीचीम्) अ० १।२८।२। प्रत्यक्षं गच्छन्तीम् (त्वा) शालाम् (प्रतीचीनः) अ० ४।३२।६। प्रत्यक्षं गच्छन् (अहिंसतीम्) अपीडयन्तीम् (अग्निः) अग्निस्थानम् (हि) निश्चयेन (अन्तः) मध्ये (आपः) जलस्थानम् (च) (ऋतस्य) सत्यस्य। वेदस्य (प्रथमा) मुख्या (द्वाः) द्वृ संवरणे-णिच्-विच्। द्वारम् ॥
 </details>
-

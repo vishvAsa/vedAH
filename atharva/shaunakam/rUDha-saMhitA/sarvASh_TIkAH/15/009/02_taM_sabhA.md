@@ -17,9 +17,14 @@ and strong drink.
 Meeting and Assembly and Army and Wine followed him.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तं स॒भा च॒समि॑तिश्च॒ सेना॑ च॒ सुरा॑ चानु॒व्य᳡चलन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तम्। स॒भा। च॒। सम्ऽइ॑तिः। च॒। सेना॑। च॒। सुरा॑। च॒। अ॒नु॒ऽव्य᳡चलन्। ९.२। 
+तम्। स॒भा। च॒। सम्ऽइ॑तिः। च॒। सेना॑। च॒। सुरा॑। च॒। अ॒नु॒ऽव्य᳡चलन्। ९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Meeting and Assembly and Army and Wine followed him.
 
 टिप्पणी:   २−(तम्) व्रात्यं परमात्मानम् (सभा) राजधर्मादिसभा (समितिः) संग्रामः-निघ० २।१७। संग्रामव्यवस्था (सेना) (सुरा) षुर दीप्तौ ऐश्वर्ये च-क, टाप्। राज्यलक्ष्मीः। अन्यत् पूर्ववत् ॥
 </details>
-

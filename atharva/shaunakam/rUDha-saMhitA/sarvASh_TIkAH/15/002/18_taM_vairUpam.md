@@ -6,17 +6,22 @@ title = "१८ तं वैरूपम्"
 <details><summary>Whitney</summary>
 
 **b.** ⌊16.⌋ after him moved out both the *vāirūpá* and the *vāirājá*  
-and the waters and king Varuṇa; 
+and the waters and king Varuṇa;
 </details>
 
 <details><summary>Griffith</summary>
 
-Vairupa and Vairaja, the Waters, and King Varuna followed him. 
+Vairupa and Vairaja, the Waters, and King Varuna followed him.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तं वै॑रू॒पं च॑वैरा॒जं चाप॑श्च॒ वरु॑णश्च॒ राजा॑नु॒व्य᳡चलन् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-तम्। वै॒रू॒पम्। च॒। वै॒रा॒जम्। च॒। आपः॑। च॒। वरु॑णः। च॒। राजा॑। अ॒नु॒ऽव्य᳡चलन्। २.१६। 
+तम्। वै॒रू॒पम्। च॒। वै॒रा॒जम्। च॒। आपः॑। च॒। वरु॑णः। च॒। राजा॑। अ॒नु॒ऽव्य᳡चलन्। २.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ Vairupa and Vairaja, the Waters, and King Varuna followed him.
 
 टिप्पणी:   १६−(तम्) व्रात्यम् (वैरूपम्)विरूप-अण्। विविधपदार्थानां रूपं निरूपणं यस्मात् तद् वेदज्ञानम् (च) (वैराजम्)विराज्-अण्। विराड्रूपस्य ऐश्वर्यवतः प्रकाशमानस्य वा परमात्मस्वरूपस्यप्रतिपादकं मोक्षज्ञानम् (च) (आपः) प्रजाः। सृष्टिपदार्थाः (च) (वरुणः)श्रेष्ठजीवो मनुष्यः (च) (राजा) ऐश्वर्यवान् (अनुव्यचलन्) अनुसृत्य विचरितवन्तः॥
 </details>
-

@@ -21,9 +21,14 @@ required 30 syllables, we have to resolve *pári-ūḍhā*.
 Girt round with inherent power, fortified with faith, protected, by consecration, installed at sacrifice, the world her resting- place;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्व॒धया॒ परि॑हिता श्र॒द्धया॒ पर्यू॑ढा दी॒क्षया॑ गु॒प्ता य॒ज्ञे प्रति॑ष्ठिता लो॒को नि॒धन॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्व॒धया॑। परि॑ऽहिता। श्र॒ध्दया॑। परि॑ऽऊढा। दी॒क्षया॑। गु॒प्ता। य॒ज्ञे। प्रति॑ऽस्थिता। लो॒कः। नि॒ऽधन॑म्। ५.३। 
+स्व॒धया॑। परि॑ऽहिता। श्र॒ध्दया॑। परि॑ऽऊढा। दी॒क्षया॑। गु॒प्ता। य॒ज्ञे। प्रति॑ऽस्थिता। लो॒कः। नि॒ऽधन॑म्। ५.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ Girt round with inherent power, fortified with faith, protected, by consecration
 
 टिप्पणी:   ३−(स्वधया) स्व+दधातेः−अङ्, टाप्। स्वधारणशक्त्या (परिहिता) सर्वतो धृता (श्रद्धया) ईश्वरविश्वासेन (पर्यूढा) वह प्रापणे−क्त। सर्वतो दृढीकृता (दीक्षया) नियमेन। व्रतेन। संस्कारेण (गुप्ता) रक्षिता (यज्ञे) विदुषां सत्कारे शिल्पविद्यायां शुभगुणदाने च (प्रतिष्ठिता) प्राप्तसन्माना (लोकः) संसारः (निधनम्) नितरां धीयते यत्र। स्थितिस्थानम् ॥
 </details>
-

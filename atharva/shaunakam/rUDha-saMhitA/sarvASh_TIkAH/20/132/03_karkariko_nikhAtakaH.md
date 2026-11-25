@@ -5,12 +5,17 @@ title = "०३ कर्करिको निखातकः"
 
 <details><summary>Griffith</summary>
 
-The lute dug up from out the ground: 
+The lute dug up from out the ground:
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+क॑र्करि॒को निखा॑तकः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-क॒र्क॒रि॒कः। निखा॑तकः। १३२.३। 
+क॒र्क॒रि॒कः। निखा॑तकः। १३२.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ The lute dug up from out the ground:
 
 टिप्पणी:   ३−(कर्करिकः) फर्फरीकादयश्च। उ० ४।२०। डुकृञ् करणे-ईकन्, कर्करादेशः, ईकारस्य इकारः। कर्ता। रचयिता (निखातकः) म० २। दृढीकृत्य स्थापितः ॥
 </details>
-

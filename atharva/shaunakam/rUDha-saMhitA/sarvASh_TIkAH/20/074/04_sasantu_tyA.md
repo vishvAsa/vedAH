@@ -8,9 +8,15 @@ title = "०४ ससन्तु त्या"
 Hero, let hostile spirits sleep, and every gentler Genius wake: Do thou, O Indra, give us hope of beauteous horses and of kine, In thousands, O most wealthy One.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒सन्तु॒ त्या अरा॑तयो॒ बोध॑न्तु शूर रा॒तयः॑।  
+आ तू न॑ इन्द्र शंसय॒ गोष्वश्वे॑षु शु॒भ्रिषु॑ स॒हस्रे॑षु तुवीमघ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒सन्तु॑। त्याः। अरा॑तयः। बोध॑न्तु। शू॒र॒। रा॒तयः॑। आ। तु। नः॒। इ॒न्द्र॒। शं॒स॒य॒। गोषु॑। अश्वे॑षु। शु॒भ्रिषु॑। स॒हस्रे॑षु। तु॒वि॒ऽम॒घ॒। ७४.४। 
+स॒सन्तु॑। त्याः। अरा॑तयः। बोध॑न्तु। शू॒र॒। रा॒तयः॑। आ। तु। नः॒। इ॒न्द्र॒। शं॒स॒य॒। गोषु॑। अश्वे॑षु। शु॒भ्रिषु॑। स॒हस्रे॑षु। तु॒वि॒ऽम॒घ॒। ७४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Hero, let hostile spirits sleep, and every gentler Genius wake: Do thou, O Indra
 
 टिप्पणी:   ४−(ससन्तु) शेरताम् (त्याः) ताः (अरातयः) अदानशीलाः शत्रुप्रजाः (बोधन्तु) जाग्रतु (शूर) हे वीर (रातयः) दातारः। अन्यद् गतम् ॥
 </details>
-

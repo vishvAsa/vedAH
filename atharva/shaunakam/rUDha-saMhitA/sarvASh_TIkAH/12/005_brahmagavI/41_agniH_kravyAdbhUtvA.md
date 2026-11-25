@@ -17,9 +17,14 @@ the Brahman-scather, eats him.
 Having become Flesh-eating Agni the Brahman's cow entereth into and devoureth the oppressor of Brahmans.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्निः क्र॒व्याद्भू॒त्वा ब्र॑ह्मग॒वी ब्र॑ह्म॒ज्यं प्र॒विश्या॑त्ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। क्र॒व्य॒ऽअत्। भू॒त्वा। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यम्‌। प्र॒ऽविश्य॑। अ॒त्ति॒। ९.३। 
+अ॒ग्निः। क्र॒व्य॒ऽअत्। भू॒त्वा। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यम्‌। प्र॒ऽविश्य॑। अ॒त्ति॒। ९.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Having become Flesh-eating Agni the Brahman's cow entereth into and devoureth th
 
 टिप्पणी:   ४०, ४१−(अस्वगता) स्वं धनम्। अस्व+गम−ड, भावे तल्, टाप्। अस्वं निर्धनत्वं गच्छतीति अस्वगस्तस्य भावः। निर्धनता (परिह्णुता) ह्रुङ् अपनयने=चौर्ये−क्त। चोरिता (अग्निः) प्रत्यक्षः पावकः (क्रव्यात्) मांसभक्षकः। शवदाहकः (भूत्वा) (ब्रह्मगवी) म० ५। वेदवाणी (ब्रह्मज्यम्) म० १५। ब्रह्मचारिणां हानिकरम् (प्रविश्य) (अत्ति) खादति ॥
 </details>
-

@@ -24,9 +24,14 @@ aprārthayat.* ⌊Instead of "destroying" W. has interlined "destruction."⌋
 Destruction of the foe art thou, give me the scaring of my foes. All hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+भ्रा॑तृव्य॒क्षय॑णमसि भ्रातृव्य॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भ्रा॒तृ॒व्य॒ऽक्षय॑णम्। अ॒सि॒। भ्रा॒तृ॒व्य॒ऽचात॑नम्। मे। दाः॒। स्वाहा॑। १८.१। 
+भ्रा॒तृ॒व्य॒ऽक्षय॑णम्। अ॒सि॒। भ्रा॒तृ॒व्य॒ऽचात॑नम्। मे। दाः॒। स्वाहा॑। १८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +61,3 @@ Destruction of the foe art thou, give me the scaring of my foes. All hail!
 
 टिप्पणी:   १–भ्रातृव्यक्षयणम्। नप्तृनेष्टृत्वष्टृ० २।९६। इति भ्राजृ दीप्तौ, वा भृञ्–धारणपोषणयोः–तृन्। ततः। व्यन् सपत्ने। पा। ४।१।१४५। इति व्यन्। क्षि क्षये–ल्युट्। भ्रातृव्यो गुप्तशत्रुः, तस्य क्षयणं नाशनम्। भ्रातृव्यचातनम्। चातयतिर्नाशने–निरु० ६।३०। गुप्तशत्रुनाशनम्। स्वाहा। अ० २।१६।१। आशीर्वादोऽस्तु ॥
 </details>
-

@@ -37,6 +37,13 @@ SPP. reads. Two of our mss. (O.R.), and one of SPP's, also have
 Sacrifice, duly offered, comes preparing the sacrificer for the. world of Svarga, Let all the fires, each Jatavedas, welcome Prajapati's completely offered victim. Let them not cast it down while here they cook it.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य॒ज्ञ ए॑ति॒वित॑तः॒ कल्प॑मान ईजा॒नम॒भि लो॒कं स्व॒र्गम्।  
+तम॒ग्नयः॒ सर्व॑हुतं जुषन्तांप्राजाप॒त्यं मेध्यं॑ जा॒तवे॑दसः।  
+शृ॒तं कृ॒ण्वन्त॑ इ॒हमाव॑ चिक्षिपन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 य॒ज्ञः । ए॒ति॒ । विऽत॑तः । कल्प॑मानः । ई॒जा॒नम् । अ॒भि । लो॒कम् । स्वः॒ऽगम् । तम् । अ॒ग्नयः॑ । सर्व॑ऽहुतम् । जु॒ष॒न्ता॒म् । प्रा॒जा॒ऽप॒त्यम् । मेध्य॑म् । जा॒तऽवे॑दसः । शृ॒तम् । कृ॒ण्वन्तः॑ । इ॒ह । मा । अव॑ । चि॒क्षि॒प॒न्
@@ -49,7 +56,6 @@ Sacrifice, duly offered, comes preparing the sacrificer for the. world of Svarga
 - अथर्वा
 - पितृमेध सूक्त
 </details>
-
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
@@ -70,4 +76,3 @@ Sacrifice, duly offered, comes preparing the sacrificer for the. world of Svarga
 
 टिप्पणी:   १३−(यज्ञः) यजदेवपूजासङ्गतिकरणदानेषु-नङ्। इज्यते हविर्दीयतेऽत्र।ब्रह्मयज्ञदेवयज्ञपितृयज्ञभूतयज्ञ-नृयज्ञानां समुदायः (एति) अन्तर्गतण्यर्थः।गमयति (विततः) विस्तृतः (कल्पमानः) समर्थः सन् (ईजानम्) समाप्तयज्ञं पुरुषम् (अभि) प्रति (लोकम्) समाजम् (स्वर्गम्) सुखप्रापकम् (तम्) (अग्नयः)पूर्वाग्न्यादयः-म० ९। (सर्वहुतम्) सर्वं हुतं यज्ञे हविर्दत्तं येन तंकृतपूर्णाहुतिकम् (जुषन्ताम्) जुषी प्रीतिसेवनयोः। प्रीणन्तु। तर्पयन्तु।
 </details>
-

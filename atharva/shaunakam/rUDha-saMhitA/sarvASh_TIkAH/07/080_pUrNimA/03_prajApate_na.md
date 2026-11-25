@@ -36,9 +36,15 @@ from the Nakṣatra Kalpa (18), as used in a *mahāśānti* called
 No one but thou, Prajapati, none beside thee, pervading, gave to all these forms their being. Grant us our hearts' desire when we invoke thee: may we have store of riches in possession.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान।  
+यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रजा॑ऽपते। न। त्वत्। ए॒तानि॑। अ॒न्यः। विश्वा॑। रू॒पाणि॑। प॒रि॒ऽभूः। ज॒जा॒न॒। यत्ऽका॑माः। ते॒। जु॒हु॒मः। तत्। नः॒। अ॒स्तु॒। व॒यम्। स्या॒म॒। पत॑यः। र॒यी॒णाम्। ८५.३। 
+प्रजा॑ऽपते। न। त्वत्। ए॒तानि॑। अ॒न्यः। विश्वा॑। रू॒पाणि॑। प॒रि॒ऽभूः। ज॒जा॒न॒। यत्ऽका॑माः। ते॒। जु॒हु॒मः। तत्। नः॒। अ॒स्तु॒। व॒यम्। स्या॒म॒। पत॑यः। र॒यी॒णाम्। ८५.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -68,4 +74,3 @@ No one but thou, Prajapati, none beside thee, pervading, gave to all these forms
 
 टिप्पणी:   ३−(प्रजापते) हे प्रजापालक। अन्यद्गतम्-अ० ७।७९।४ ॥
 </details>
-

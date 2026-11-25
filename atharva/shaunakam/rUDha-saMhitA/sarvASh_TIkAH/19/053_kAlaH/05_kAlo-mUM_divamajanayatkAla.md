@@ -26,9 +26,15 @@ ti-*. The metrical definition of the Anukr. is not to be approved.
 Kala created yonder heaven, and Kala made these realms of earth. By Kala, stirred to motion, both what is and what shall be expand.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+का॒लोऽमूं दिव॑मजनयत्का॒ल इ॒माः पृ॑थि॒वीरु॒त।  
+का॒ले ह॑ भू॒तं भव्यं॑ चेषि॒तं ह॒ वि ति॑ष्ठते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-का॒लः। अ॒भूम्। दिव॑म्। अ॒ज॒न॒य॒त्। का॒लः। इ॒माः। पृ॒थि॒वीः। उ॒त। का॒ले। ह॒। भू॒तम्। भव्य॑म्। च॒। इ॒षि॒तम्। ह॒। वि। ति॒ष्ठ॒ते॒। ५३.५। 
+का॒लः। अ॒भूम्। दिव॑म्। अ॒ज॒न॒य॒त्। का॒लः। इ॒माः। पृ॒थि॒वीः। उ॒त। का॒ले। ह॒। भू॒तम्। भव्य॑म्। च॒। इ॒षि॒तम्। ह॒। वि। ति॒ष्ठ॒ते॒। ५३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Kala created yonder heaven, and Kala made these realms of earth. By Kala, stirre
 
 टिप्पणी:   ५−(कालः) म० १। समयः (अमूम्) दृश्यमानाम् (दिवम्) आकाशम् (अजनयत्) उदपादयत् (कालः) (इमाः) दृश्यमानाः (पृथिवीः) पृथिव्यादिलोकान् (उत) अपि च (काले) (ह) एव (भूतम्) अतीतम् (भव्यम्) भविष्यत् (च) (इषितम्) प्रेरितम् (ह) (वि) विशेषेण (तिष्ठते) वर्तते ॥
 </details>
-

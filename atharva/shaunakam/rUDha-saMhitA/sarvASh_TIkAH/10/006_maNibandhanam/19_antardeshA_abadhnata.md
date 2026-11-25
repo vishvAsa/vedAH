@@ -17,9 +17,15 @@ amulet created by Prajāpati hath made my haters beneath me (*ádhard*).
 The regions of the heaven, the points that lie between them fashioned it. Created by Prajapati, may the Charm cast my foemen down.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑न्तर्दे॒शा अ॑बध्नत प्र॒दिश॒स्तम॑बध्नत।  
+प्र॒जाप॑तिसृष्टो म॒णिर्द्वि॑ष॒तो मेऽध॑राँ अकः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒न्तः॒ऽदे॒शाः। अ॒ब॒ध्न॒त॒। प्र॒ऽदिशः॑। तम्। अ॒ब॒ध्न॒त॒। प्र॒जाप॑तिऽसृष्टः। म॒णिः। द्वि॒ष॒तः। मे॒। अध॑रान्। अ॒कः॒। ६.१९। 
+अ॒न्तः॒ऽदे॒शाः। अ॒ब॒ध्न॒त॒। प्र॒ऽदिशः॑। तम्। अ॒ब॒ध्न॒त॒। प्र॒जाप॑तिऽसृष्टः। म॒णिः। द्वि॒ष॒तः। मे॒। अध॑रान्। अ॒कः॒। ६.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ The regions of the heaven, the points that lie between them fashioned it. Create
 
 टिप्पणी:   १९−(अन्तर्देशाः) अन्तराला दिशाः (प्रदिशः) पूर्वादयो दिशाः (प्रजापतिसृष्टः) प्रजापालकेन परमेश्वरेणोत्पन्नः (मणिः) प्रशस्तो वैदिक नियमः (द्विषतः) शत्रून् (मे) मम (अधरान्) नीचान् (अकः) अकार्षीत्। कृतवान्। अन्यद्गतम् ॥
 </details>
-

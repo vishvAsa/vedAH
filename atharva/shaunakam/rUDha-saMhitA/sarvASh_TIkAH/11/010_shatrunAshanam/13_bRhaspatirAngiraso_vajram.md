@@ -20,9 +20,15 @@ strange reading *amūs* for *amūm* before *sénām*.
 That fiend-destroying weapon which Brihaspati Angirasa poured out and made a thunderbolt. Even therewith, Brihaspati, I brush that hostile armament, and strike the foemen down with might.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+बृह॒स्पति॑राङ्गिर॒सो वज्रं॒ यमसि॑ञ्चतासुर॒क्षय॑णं व॒धम्।  
+तेना॒हम॒मूं सेनां॒ नि लि॑म्पामि बृहस्पते॒ऽमित्रा॑न्ह॒न्म्योज॑सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-बृह॒स्पतिः॑। आ॒ङ्गि॒र॒सः। वज्र॑म्। यम्। असि॑ञ्चत। अ॒सु॒र॒ऽक्षय॑णम्। व॒धम्। तेन॑। अ॒हम्। अ॒मूम्। सेना॑म्। नि। लि॒म्पा॒मि॒। बृ॒ह॒स्प॒ते॒। अ॒मित्रा॑न्। ह॒न्मि॒। ओज॑सा। १२.१३। 
+बृह॒स्पतिः॑। आ॒ङ्गि॒र॒सः। वज्र॑म्। यम्। असि॑ञ्चत। अ॒सु॒र॒ऽक्षय॑णम्। व॒धम्। तेन॑। अ॒हम्। अ॒मूम्। सेना॑म्। नि। लि॒म्पा॒मि॒। बृ॒ह॒स्प॒ते॒। अ॒मित्रा॑न्। ह॒न्मि॒। ओज॑सा। १२.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ That fiend-destroying weapon which Brihaspati Angirasa poured out and made a thu
 
 टिप्पणी:   १३−(पूर्वार्द्धर्चो व्याख्यातः-म० १२ (तेन) सेनापतिना (अहम्) वीरपुरुषः (अमूम्) (सेनाम्) (नि) नितराम् (लिम्पामि) लिप उपदेहे, मुचादित्वाद् मुम्। कृतलेपां करोमि। वि... (बृहस्पते) हे बृहतां रक्षक राजन् (अमित्रान्) शत्रून् (हन्मि) मारयामि (ओजसा) पराक्रमेण ॥
 </details>
-

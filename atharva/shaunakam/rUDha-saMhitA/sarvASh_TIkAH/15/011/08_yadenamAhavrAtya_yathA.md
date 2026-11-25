@@ -21,8 +21,12 @@ SPP's have *vaśám*.⌋
 When he says to him, Vratya, as thy will is so let it be, he secures to himself thereby the fulfilment of his will.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-यत्। ए॒न॒म्। आह॑। ते॒। वशः॑। तथा॑। अ॒स्तु॒। इति॑। वश॑म्। एव। तेन॑। अव॑। रु॒न्ध्दे॒। ११.८। 
+यदे॑न॒माह॒व्रात्य॒ यथा॑ ते॒ वश॒स्तथा॒स्त्विति॒ वश॑मे॒व तेनाव॑ रुन्द्धे ॥
 </details>
 
+<details><summary>पदपाठः</summary>
+
+यत्। ए॒न॒म्। आह॑। ते॒। वशः॑। तथा॑। अ॒स्तु॒। इति॑। वश॑म्। एव। तेन॑। अव॑। रु॒न्ध्दे॒। ११.८।
+</details>

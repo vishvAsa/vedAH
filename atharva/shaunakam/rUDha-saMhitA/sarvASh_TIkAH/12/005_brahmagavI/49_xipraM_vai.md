@@ -17,9 +17,14 @@ Ppp. reads, after *vāstuṣu*, *gan̄gānaṁ kurvate ‘pa vṛṣāt*.
 Quickly the wolves are howling in the habitation where he lived:
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षि॒प्रं वै तस्य॒ वास्तु॑षु॒ वृकाः॑ कुर्वत ऐल॒बम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। वास्तु॑षु। वृकाः॑। कु॒र्व॒ते॒। ऐ॒ल॒बम्। १०.३। 
+तस्य॑। वास्तु॑षु। वृकाः॑। कु॒र्व॒ते॒। ऐ॒ल॒बम्। १०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Quickly the wolves are howling in the habitation where he lived:
 
 टिप्पणी:   ४९−(वास्तुषु) निवासेषु (वृकाः) हिंस्राः पशवः (ऐलबम्) म० ४७। आक्रोशम्। अन्यत् पूर्ववत्−म० ४७ ॥
 </details>
-

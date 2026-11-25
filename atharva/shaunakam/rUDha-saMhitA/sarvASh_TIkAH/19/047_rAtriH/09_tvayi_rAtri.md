@@ -22,9 +22,15 @@ and emending a *jāgṛhí*. In **c**, Ppp. has *yachād aś-*.
 Crush the wolf's jaws in pieces, strike the robber dead against a post. In thee, O Night, do we abide: we here will sleep. Be watchful thou.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वयि॑ रात्रि वसामसि स्वपि॒ष्याम॑सि जागृ॒हि।  
+गोभ्यो॑ नः॒ शर्म॑ य॒च्छाश्वे॑भ्यः॒ पुरु॑षेभ्यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वयि॑। रा॒त्रि॒। व॒सा॒म॒सि॒। स्व॒पि॒ष्याम॑सि। जा॒गृ॒हि। गोभ्यः॑। नः॒। शर्म॑। य॒च्छ॒। अश्वे॑भ्यः। पुरु॑षेभ्यः। ४७.९। 
+त्वयि॑। रा॒त्रि॒। व॒सा॒म॒सि॒। स्व॒पि॒ष्याम॑सि। जा॒गृ॒हि। गोभ्यः॑। नः॒। शर्म॑। य॒च्छ॒। अश्वे॑भ्यः। पुरु॑षेभ्यः। ४७.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Crush the wolf's jaws in pieces, strike the robber dead against a post. In thee,
 
 टिप्पणी:   ९−(त्वयि) (रात्रि) (वसामसि) वसामः। निवसामः (स्वपिष्यामसि) छान्दस इडागमः। स्वप्स्यामः। निद्रां करिष्यामः (जागृहि) जागरिता भवः (गोभ्यः) धेनुभ्यः (अश्वेभ्यः) तुरङ्गेभ्यः (शर्म) सुखम् (यच्छ) देहि ॥
 </details>
-

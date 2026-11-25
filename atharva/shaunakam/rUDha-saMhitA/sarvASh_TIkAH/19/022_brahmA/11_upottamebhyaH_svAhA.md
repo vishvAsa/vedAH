@@ -16,9 +16,14 @@ title = "११ उपोत्तमेभ्यः स्वाहा"
 To the penultimates, Hail.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॑पोत्त॒मेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒प॒ऽउ॒त्त॒मेभ्यः॑। स्वाहा॑। २२.११। 
+उ॒प॒ऽउ॒त्त॒मेभ्यः॑। स्वाहा॑। २२.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ To the penultimates, Hail.
 
 टिप्पणी:   ११−(उपोत्तमेभ्यः) श्रेष्ठानां समीपवर्तिभ्यो ब्रह्मचार्यादिभ्यः ॥
 </details>
-

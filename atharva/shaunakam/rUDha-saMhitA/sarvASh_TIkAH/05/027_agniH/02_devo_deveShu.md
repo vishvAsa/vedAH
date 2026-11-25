@@ -13,9 +13,14 @@ title = "०२ देवो देवेषु"
 God among Gods, the God bedews the paths with fatness and' with mead.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॒वो दे॒वेषु॑ दे॒वः प॒थो अ॑नक्ति॒ मध्वा॑ घृ॒तेन॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒वः। दे॒वेषु॑। दे॒वः। प॒थः। अ॒न॒क्ति॒। मध्वा॑। घृ॒तेन॑। २७.२। 
+दे॒वः। दे॒वेषु॑। दे॒वः। प॒थः। अ॒न॒क्ति॒। मध्वा॑। घृ॒तेन॑। २७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,4 +50,3 @@ God among Gods, the God bedews the paths with fatness and' with mead.
 
 टिप्पणी:   २−(देवः) व्यवहारकुशलः (देवेषु) व्यवहारिषु विद्वत्सु (देवः) विजिगीषुः (पथः) मार्गान् (अनक्ति) व्यनक्ति व्यक्तीकरोति (मध्वा) अ० १।४।१। मन ज्ञाने−उ, नस्य धः। मधुना। ज्ञानेन (घृतेन) प्रकाशेन ॥
 </details>
-

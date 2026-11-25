@@ -22,9 +22,15 @@ brahmavido viduḥ*. Read in **a** *devā́* (an accent-sign dropped out).
 Where the Gods, versed in Sacred Lore, worship the loftiest Power Divine The priest who knows them face to face may be a sage who knows the truth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्र॑ दे॒वा ब्र॑ह्म॒विदो॒ ब्रह्म॑ ज्ये॒ष्ठमु॒पास॑ते।  
+यो वै तान्वि॒द्यात्प्र॒त्यक्षं॒ स ब्र॒ह्मा वेदि॑ता स्यात् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्र॑। दे॒वाः। ब्र॒ह्म॒ऽविदः॑। ब्रह्म॑। ज्ये॒ष्ठम्। उ॒प॒ऽआस॑ते। यः। वै। तान्। वि॒द्यात्। प्र॒ति॒ऽअक्ष॑म्। सः। ब्र॒ह्मा। वेदि॑ता। स्या॒त्। ७.२४। 
+यत्र॑। दे॒वाः। ब्र॒ह्म॒ऽविदः॑। ब्रह्म॑। ज्ये॒ष्ठम्। उ॒प॒ऽआस॑ते। यः। वै। तान्। वि॒द्यात्। प्र॒ति॒ऽअक्ष॑म्। सः। ब्र॒ह्मा। वेदि॑ता। स्या॒त्। ७.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Where the Gods, versed in Sacred Lore, worship the loftiest Power Divine The pri
 
 टिप्पणी:   २४−(यत्र) यस्मिन् देशे (देवाः) विजयिनः (ब्रह्मविदः) ब्रह्मज्ञानिनः (ज्येष्ठम्) म० १७। वृद्धतमम्। उत्कृष्टतमम् (उपासते) पूजयन्ति (यः) (वै) एव (तान्) (ब्रह्मविदः) (विद्यात्) जानीयात् (प्रत्यक्षम्) समक्षम् (सः) जिज्ञासुः (ब्रह्मा) महापण्डितः (वेदिता) ज्ञाता (स्यात्) ॥
 </details>
-

@@ -20,9 +20,15 @@ with the following hymn, without any ⌊real⌋ variants in the four verses.
 In Kala mind, in Kala breath, in Kala name are fixt and joined. These living creatures, one and all, rejoice when Kala hath approached.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+का॒ले मनः॑ का॒ले प्रा॒णः का॒ले नाम॑ स॒माहि॑तम्।  
+का॒लेन॒ सर्वा॑ नन्द॒न्त्याग॑तेन प्र॒जा इ॒माः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-का॒ले। मनः॑। का॒ले। प्रा॒णः। का॒ले। नाम॑। स॒म्ऽआहि॑तम्। का॒लेन॑। सर्वाः॑। न॒न्द॒न्ति॒। आऽग॑तेन। प्र॒ऽजाः। इ॒माः। ५३.७। 
+का॒ले। मनः॑। का॒ले। प्रा॒णः। का॒ले। नाम॑। स॒म्ऽआहि॑तम्। का॒लेन॑। सर्वाः॑। न॒न्द॒न्ति॒। आऽग॑तेन। प्र॒ऽजाः। इ॒माः। ५३.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ In Kala mind, in Kala breath, in Kala name are fixt and joined. These living cre
 
 टिप्पणी:   ७−(काले) (मनः) अन्तःकरणम् (काले) (प्राणः) श्वासः (काले) (नाम) नामधेयम्। यशः (समाहितम्) संगृहीतं वर्तते (कालेन) (सर्वाः) समस्ताः (नन्दति) संतुष्यन्ति (आगतेन) प्राप्तेन (प्रजाः) विविधसृष्टि-पदार्थाः (इमाः) दृश्यमानाः ॥
 </details>
-

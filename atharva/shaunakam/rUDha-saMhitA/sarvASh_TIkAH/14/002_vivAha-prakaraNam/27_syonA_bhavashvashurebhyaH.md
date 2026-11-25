@@ -19,9 +19,15 @@ Ppp. puts this verse at the end of the book.
 Be pleasant to the husband's sire, sweet to thy household and thy lord, To all this clan be gentle, and favour these men's prosperity.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्यो॒ना भ॑व॒श्वशु॑रेभ्यः स्यो॒ना पत्ये॑ गृ॒हेभ्यः॑।  
+स्यो॒नास्यै॒ सर्व॑स्यै वि॒शे स्यो॒नापु॒ष्टायै॑षां भव ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्यो॒ना। भ॒व॒। श्वशु॑रेभ्यः। स्यो॒ना। पत्ये॑। गृ॒हेभ्यः॑। स्यो॒ना। अ॒स्यै। सर्व॑स्यै। वि॒शे। स्यो॒ना। पु॒ष्टाय॑। ए॒षा॒म्। भ॒व॒। २.२७। 
+स्यो॒ना। भ॒व॒। श्वशु॑रेभ्यः। स्यो॒ना। पत्ये॑। गृ॒हेभ्यः॑। स्यो॒ना। अ॒स्यै। सर्व॑स्यै। वि॒शे। स्यो॒ना। पु॒ष्टाय॑। ए॒षा॒म्। भ॒व॒। २.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Be pleasant to the husband's sire, sweet to thy household and thy lord, To all t
 
 टिप्पणी:   २७−(स्योना) सुखप्रदा (भव) (श्वशुरेभ्यः) श्वशुरादिभ्यः (स्योना) (पत्ये) स्वामिने (गृहेभ्यः)गृहपुरुषेभ्यः (स्योना) (अस्यै) (सर्वस्यै) (विशे) प्रजायै (पुष्टाय) पोषणाय (एषाम्) पूर्वोक्तानाम् (भव) ॥
 </details>
-

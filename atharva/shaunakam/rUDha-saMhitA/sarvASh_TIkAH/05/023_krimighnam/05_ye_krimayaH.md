@@ -19,9 +19,15 @@ in **a** *sitavakṣās*, and in **b** *sitabāhavas*.
 Eastward the Sun is mounting, seen of all, destroying thing unseen, Crushing and killing all the worms invisible and visible.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये क्रिम॑यः शिति॒कक्षा॒ ये कृ॒ष्णाः शि॑ति॒बाह॑वः।  
+ये के च॑ वि॒श्वरू॑पा॒स्तान्क्रिमी॑न् जम्भयामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। क्रिम॑यः। शि॒ति॒ऽकक्षाः॑। ये। कृ॒ष्णाः। शि॒ति॒ऽबाह॑वः। ये। के। च॒। वि॒श्वऽरू॑पाः। तान्। क्रिमी॑न्। ज॒म्भ॒या॒म॒सि॒। २३.५। 
+ये। क्रिम॑यः। शि॒ति॒ऽकक्षाः॑। ये। कृ॒ष्णाः। शि॒ति॒ऽबाह॑वः। ये। के। च॒। वि॒श्वऽरू॑पाः। तान्। क्रिमी॑न्। ज॒म्भ॒या॒म॒सि॒। २३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Eastward the Sun is mounting, seen of all, destroying thing unseen, Crushing and
 
 टिप्पणी:   ५−(ये) (क्रिमयः) कीटाः (शितिकक्षाः) कृष्णकक्षावन्तः (कृष्णाः) श्यामवर्णाः (शितिबाहवः) कृष्णभुजाः (के) केचित् (च) (विश्वरूपाः) सर्ववर्णाः (तान्) पूर्वोक्तान् (क्रिमीन्) कीटान् (जम्भयामसि) नाशयामः ॥
 </details>
-

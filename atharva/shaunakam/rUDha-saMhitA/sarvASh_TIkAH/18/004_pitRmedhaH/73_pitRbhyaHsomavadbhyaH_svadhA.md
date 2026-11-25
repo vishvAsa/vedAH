@@ -16,9 +16,14 @@ title = "७३ पितृभ्यःसोमवद्भ्यः स्व
 To the Fathers connected with Soma Hail! and homage!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पि॒तृभ्यः॒सोम॑वद्भ्यः स्व॒धा नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पि॒तृऽभ्यः॑। सोम॑वत्ऽभ्यः। स्व॒धा। नमः॑। ४.७३। 
+पि॒तृऽभ्यः॑। सोम॑वत्ऽभ्यः। स्व॒धा। नमः॑। ४.७३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ To the Fathers connected with Soma Hail! and homage!
 
 टिप्पणी:   ७३−(पितृभ्यः)मातापित्रादिपालकज्ञानिभ्यः (सोमवद्भ्यः) परमैश्वर्ययुक्तेभ्यः। अन्यत् पूर्ववत्॥
 </details>
-

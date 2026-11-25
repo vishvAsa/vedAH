@@ -21,9 +21,15 @@ Ppp. In **b**, the comm. reads *vratatapas* for *bráhma tápas*.
 From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun ascends by Kala, and in Kala sinks again to rest.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+का॒लादापः॒ सम॑भवन्का॒लाद्ब्रह्म॒ तपो॒ दिशः॑।  
+का॒लेनोदे॑ति॒ सूर्यः॑ का॒ले नि वि॑शते॒ पुनः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-का॒लात्। आपः॑। सम्। अ॒भ॒व॒न्। का॒लात्। ब्रह्म॑। तपः॑। दिशः॑। का॒लेन॑। उत्। ए॒ति॒। सूर्यः॑। का॒ले। नि। वि॒श॒ते॒। पुनः॑। ५४.१। 
+का॒लात्। आपः॑। सम्। अ॒भ॒व॒न्। का॒लात्। ब्रह्म॑। तपः॑। दिशः॑। का॒लेन॑। उत्। ए॒ति॒। सूर्यः॑। का॒ले। नि। वि॒श॒ते॒। पुनः॑। ५४.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun asce
 
 टिप्पणी:   १−(कालात्) सू० ५३। म० १। संख्याकारकात् समयात् (आपः) आप्ताः प्रजाः (सम् अभवन्) अजायन्त (कालात्) (ब्रह्म) वेदज्ञानम् (तपः) ब्रह्मचर्यादिव्रतम् (दिशः) प्राच्याद्याः (कालेन) (उदेति) उदयं गच्छति (सूर्यः) गमनशील आदित्यः (काले) (नि) नीचैः (विशते) प्रविश्यते। विलीयते (पुनः) सायङ्काले ॥
 </details>
-

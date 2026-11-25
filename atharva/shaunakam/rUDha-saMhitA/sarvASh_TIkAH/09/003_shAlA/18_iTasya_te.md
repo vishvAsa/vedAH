@@ -19,9 +19,15 @@ door. ⌊Bergaigne has a note on the vs., *Rel. Véd.* iii. 122.⌋
 I loosen and remove from thee thy covering formed by mats of reed. What Varuna hath firmly closed Mitra shall ope at early morn.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इट॑स्य ते॒ वि चृ॑ता॒म्यपि॑नद्धमपोर्णु॒वन्।  
+वरु॑णेन॒ समु॑ब्जितां मि॒त्रः प्रा॒तर्व्यु᳡ब्जतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इट॑स्य। ते॒। वि। चृ॒ता॒मि॒। अप‍ि॑ऽनध्दम्। अ॒प॒ऽऊ॒र्णु॒वन्। वरु॑णेन। सम्ऽउ॑ब्जिताम्। मि॒त्रः। प्रा॒तः। वि। उ॒ब्ज॒तु॒। ३.१८। 
+इट॑स्य। ते॒। वि। चृ॒ता॒मि॒। अप‍ि॑ऽनध्दम्। अ॒प॒ऽऊ॒र्णु॒वन्। वरु॑णेन। सम्ऽउ॑ब्जिताम्। मि॒त्रः। प्रा॒तः। वि। उ॒ब्ज॒तु॒। ३.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ I loosen and remove from thee thy covering formed by mats of reed. What Varuna h
 
 टिप्पणी:   १८−(इटस्य) इट् गतौ-क। गमनागमनस्थानस्य द्वारस्य (ते) तव (वि चृतामि) विशेषेण ग्रन्थयामि (अपिनद्धम्) बन्धनम् (अपोर्णुवन्) विवृण्वन् (वरुणेन) आवरकेण तमसा (समुब्जिताम्) संवृतां त्वाम् (मित्रः) सर्वप्रेरकः सूर्यः (प्रातः) प्रभाते (वि उब्जतु) विवृणोतु ॥
 </details>
-

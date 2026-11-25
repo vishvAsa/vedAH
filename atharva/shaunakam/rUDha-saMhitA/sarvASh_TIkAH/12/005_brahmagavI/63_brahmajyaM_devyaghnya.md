@@ -19,9 +19,14 @@ somewhat altered and⌋ the remaining vss. are wanting.
 Consume thou, even from the root, the Brahmans' tyrant, god- like Cow!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्र॑ह्म॒ज्यं दे॑व्यघ्न्य॒ आ मूला॑दनु॒संद॑ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्र॒ह्म॒ऽज्यम्। दे॒वि॒। अ॒घ्न्ये॒। आ। मूला॑त्। अ॒नु॒ऽसंद॑हः। ११.२। 
+ब्र॒ह्म॒ऽज्यम्। दे॒वि॒। अ॒घ्न्ये॒। आ। मूला॑त्। अ॒नु॒ऽसंद॑हः। ११.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Consume thou, even from the root, the Brahmans' tyrant, god- like Cow!
 
 टिप्पणी:   ६३, ६४−(ब्रह्मज्यम्) म० १५। ब्रह्मचारिणां हानिकारकम् (देवि) हे दिव्यगुणवति (अघ्न्ये) हे अहन्तव्ये (आ मूलात्) मूलमभिव्याप्य (अनुसंदह) निरन्तरं भस्मीकुरु (यथा) येन प्रकारेण (अयात्) अय गतौ−लेट्। गच्छेत् (यमसदनात्) सांहितिको दीर्घः। राज्ञो न्यायगृहात् (पापलोकान्) पापिनां देशान्। कारागाराणि (परावतः) अ० ३।४।५। दूरगतान् ॥
 </details>
-

@@ -20,9 +20,15 @@ same.
 As in a ship across the flood, transport us to felicity. His lustre flash our pain away
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स नः॒ सिन्धु॑मिव ना॒वाति॑ पर्षा स्व॒स्तये॑।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। नः॒। सिन्धु॑म्ऽइव। ना॒वा। अति॑। प॒र्ष॒। स्व॒स्तये॑। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.८। 
+सः। नः॒। सिन्धु॑म्ऽइव। ना॒वा। अति॑। प॒र्ष॒। स्व॒स्तये॑। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ As in a ship across the flood, transport us to felicity. His lustre flash our pa
 
 टिप्पणी:   ८−(सः) स त्वम् (नः) अस्मान् (सिन्धुम् इव) यथा समुद्रं तथा (नावा) नौकया (अति) अतीत्य (पर्ष) पॄ पालनपूर्णयोः, लेटि अडागमः। सिब् बहुलं लेटि। पा० ३।१।३४। इति−सिप्। पारं प्रापय। (स्वस्तये) आनन्दाय। अन्यत् पूर्ववत ॥
 </details>
-

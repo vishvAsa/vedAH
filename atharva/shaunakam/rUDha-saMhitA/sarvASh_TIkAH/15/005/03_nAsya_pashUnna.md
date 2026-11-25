@@ -14,9 +14,14 @@ injures him nor his cattle nor his fellows who knoweth thus.
 Neither Sarva nor Bhava nor Isana slays him who possesses this knowledge, or his cattle, or his kinsmen.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नास्य॑ प॒शून्न स॑मा॒नान्हि॑नस्ति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। अ॒स्य॒। प॒शून्। न। स॒मा॒नम्। हि॒न॒स्ति॒। यः। ए॒वम्। वेद॑। ५.३। 
+न। अ॒स्य॒। प॒शून्। न। स॒मा॒नम्। हि॒न॒स्ति॒। यः। ए॒वम्। वेद॑। ५.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ Neither Sarva nor Bhava nor Isana slays him who possesses this knowledge, or his
 
 टिप्पणी:   ३−(न) निषेधे (अस्य) विदुषः (पशून्)प्राणिनः (न) (समानान्) तुल्यगुणान् पुरुषान् (हिनस्ति) दुःखयति (यः) विद्वान् (एवम्) ईदृशं व्यापकं वा व्रात्यं परमात्मानम् (वेद) जानाति ॥
 </details>
-

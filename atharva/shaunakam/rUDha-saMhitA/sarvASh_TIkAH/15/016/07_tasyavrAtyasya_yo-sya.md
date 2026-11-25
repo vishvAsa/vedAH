@@ -18,9 +18,15 @@ title = "०७ तस्यव्रात्यस्य योऽस्य"
 His seventh downward breath are these sacrificial fees.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्य॒व्रात्य॑स्य।  
+यो᳡ऽस्य॑ सप्त॒मो᳡ऽपा॒नस्ता इ॒मा दक्षि॑णाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। स॒प्त॒मः। अ॒पा॒नः। ताः। इ॒माः। दक्षि॑णाः। १६.७। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। स॒प्त॒मः। अ॒पा॒नः। ताः। इ॒माः। दक्षि॑णाः। १६.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ His seventh downward breath are these sacrificial fees.
 
 टिप्पणी:   ७−(दक्षिणाः) यज्ञसमाप्तौ विद्वद्भ्यः सत्कारद्रव्याणि। अन्यत् पूर्ववत्स्पष्टं च ॥
 </details>
-

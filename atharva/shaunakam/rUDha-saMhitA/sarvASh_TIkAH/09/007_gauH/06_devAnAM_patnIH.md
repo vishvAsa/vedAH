@@ -18,9 +18,14 @@ The distinction between *pṛṣṭí* and *párśu* is not clear.
 The consorts of the Gods are the ribs, the attendants are ribs.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॒वानां॒ पत्नीः॑ पृ॒ष्टय॑ उप॒सदः॒ पर्श॑वः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒वाना॑म्। पत्नीः॑। पृ॒ष्टयः॑। उ॒प॒ऽसदः॑। पर्श॑वः। १२.६। 
+दे॒वाना॑म्। पत्नीः॑। पृ॒ष्टयः॑। उ॒प॒ऽसदः॑। पर्श॑वः। १२.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ The consorts of the Gods are the ribs, the attendants are ribs.
 
 टिप्पणी:   ६−(देवानाम्) दिव्यगुणवतामग्निवाय्वादीनाम् (पत्नीः) अ० २।१२।१। पालनशक्तयः (पृष्टयः) अ० ४।३।६। पार्श्वास्थीनि (उपसदः) संगताः सूक्ष्मतन्मात्राः (पर्शवः) स्पृशेः श्वण्शुनौ पृ च। उ० ५।२७। स्पृश स्पर्शने−शुन्, धातोश्च पृ इत्यादेशः। पार्श्वाधःस्थास्थीनि ॥
 </details>
-

@@ -33,9 +33,14 @@ syllables (a number for which the system affords no separate name), and
 He having been invited on earth, regales, invited in that, which wears all various forms on earth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उप॑हूतः पृथि॒व्यां भ॑क्षय॒त्युप॑हूत॒स्तस्मि॒न्यत्पृ॑थि॒व्यां वि॒श्वरू॑पम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। उप॑ऽहूतः। पृ॒थि॒व्याम्। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। पृ॒थि॒व्याम्। वि॒श्वऽरू॑पम्। ११.७। 
+सः। उप॑ऽहूतः। पृ॒थि॒व्याम्। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। पृ॒थि॒व्याम्। वि॒श्वऽरू॑पम्। ११.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -65,4 +70,3 @@ He having been invited on earth, regales, invited in that, which wears all vario
 
 टिप्पणी:   ७−(सः) अतिथिः (उपहूतः) कृतावाहनः (पृथिव्याम्) भूमौ वर्तमानं पदार्थजातम् (भक्षयति) भोगयति। परीक्षणेन निश्चिनोति (उपहूतः) कृतावाहनो गृहस्थः (तस्मिन्) अतिथावशितवति (यत्) यत् किंचित् (पृथिव्याम्) (विश्वरूपम्) विविधं द्रव्यम्-तद् भक्षयति, इति शेषः ॥
 </details>
-

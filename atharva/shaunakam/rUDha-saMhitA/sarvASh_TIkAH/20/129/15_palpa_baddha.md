@@ -8,9 +8,14 @@ title = "१५ पल्प बद्ध"
 Barley and ripened rice I seek. On rice and barley hast thou fed, (with next verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पल्प॑ बद्ध॒ वयो॒ इति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पल्प॑। बद्ध॒। वयः॒। इति॑। १२९.१५। 
+पल्प॑। बद्ध॒। वयः॒। इति॑। १२९.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Barley and ripened rice I seek. On rice and barley hast thou fed, (with next ver
 
 टिप्पणी:   १−(पल्प) पानीविषिभ्यः पः। उ० ३।२३। पल गतौ रक्षणे च-पप्रत्ययः। हे रक्षक (बद्ध) कर्तरि क्त। हे प्रबन्धक (वयः) जीवनम् (इति) अवधारणे ॥
 </details>
-

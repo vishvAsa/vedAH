@@ -24,9 +24,15 @@ not sanction this.
 Parted are heaven and earth, and paths turned to each quarter of the sky. I free, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वी॑३॒॑ मे द्यावा॑पृथि॒वी इ॒तो वि पन्था॑नो॒ दिशं॑दिशम्।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि। इ॒मे इति॑। द्यावा॑पृथि॒वी इति॑। इ॒तः। वि। पन्था॑नः। दिश॑म्ऽदिशम्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.४। 
+वि। इ॒मे इति॑। द्यावा॑पृथि॒वी इति॑। इ॒तः। वि। पन्था॑नः। दिश॑म्ऽदिशम्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Parted are heaven and earth, and paths turned to each quarter of the sky. I free
 
 टिप्पणी:   ४−(इमे) परिदृश्यमाने। (द्यावापृथिव्यौ) अ० २।१।४। सूर्यभूमी। (इतः) गच्छतः। (पन्थानः) मार्गाः। (वि) वियन्ति। अन्यद् गतम् ॥
 </details>
-

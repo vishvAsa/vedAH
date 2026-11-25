@@ -17,9 +17,14 @@ thou give me: hail!
 Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑राय॒क्षय॑णमस्यराय॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒रा॒य॒ऽक्षय॑णम्। अ॒सि॒। अ॒रा॒य॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.३। 
+अ॒रा॒य॒ऽक्षय॑णम्। अ॒सि॒। अ॒रा॒य॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 
 टिप्पणी:   ३–अरायक्षयणम्। रा+दाने–घञ्, युक् आगमः। नञ्तत्पुरुषः। अरायस्य निर्धनत्वस्य नाशनम् ॥
 </details>
-

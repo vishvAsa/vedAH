@@ -18,9 +18,14 @@ Ppp. adds *antarikṣe patanty antarikṣā ”bhāti* ⌊*svargo* etc.⌋.
 He, having been invited in air, regales, invited, in that which wears all various forms in air.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उप॑हूतो॒ऽन्तरि॑क्षे भक्षय॒त्युप॑हूत॒स्तस्मि॒न्यद॒न्तरि॑क्षे वि॒श्वरू॑पम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। उप॑ऽहूतः। अ॒न्तरि॑क्षे। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। अ॒न्तरि॑क्षे। वि॒श्वऽरू॑पम्। ११.८। 
+सः। उप॑ऽहूतः। अ॒न्तरि॑क्षे। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। अ॒न्तरि॑क्षे। वि॒श्वऽरू॑पम्। ११.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ He, having been invited in air, regales, invited, in that which wears all variou
 
 टिप्पणी:   ८−(अन्तरिक्षे) अ० १।३०।३। मध्यलोके वर्तमानं वाय्वादिपदार्थजातम्। अन्यत् पूर्ववत् ॥
 </details>
-

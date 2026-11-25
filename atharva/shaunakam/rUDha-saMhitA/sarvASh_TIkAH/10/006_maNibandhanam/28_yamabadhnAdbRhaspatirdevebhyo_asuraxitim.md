@@ -17,9 +17,15 @@ Ppp. reads *ojasā tejasā saha*.
 The Amulet Brihaspati made for the Gods, that slew the fiends, That Amulet here hath come to me combined with all prosperities.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑म॒त्सर्वा॑भि॒र्भूति॑भिः स॒ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। सर्वा॑भिः। भूतिः॑ऽभिः। स॒ह। ६.२८। 
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। सर्वा॑भिः। भूतिः॑ऽभिः। स॒ह। ६.२८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ The Amulet Brihaspati made for the Gods, that slew the fiends, That Amulet here 
 
 टिप्पणी:   २८−(भूतिभिः) विभूतिभिः। सम्पत्तिभिः। सिद्धिभिः। अन्यत् पूर्ववत् ॥
 </details>
-

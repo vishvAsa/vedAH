@@ -23,9 +23,14 @@ defaced in Ppp.⌋
 Drive off Carnivorous Agni, thou Agni who eatest not the flesh;. carry oblation paid to Gods.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॑ अक्रव्या॒न्निः क्र॒व्यादं॑ नु॒दा दे॑व॒यज॑नं वह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। अ॒क्र॒व्य॒ऽअ॒त्। निः। क्र॒व्य॒ऽअद॑म्। नु॒द॒। आ। दे॒व॒ऽयज॑नम्। व॒ह॒। २.४२। 
+अग्ने॑। अ॒क्र॒व्य॒ऽअ॒त्। निः। क्र॒व्य॒ऽअद॑म्। नु॒द॒। आ। दे॒व॒ऽयज॑नम्। व॒ह॒। २.४२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ Drive off Carnivorous Agni, thou Agni who eatest not the flesh;. carry oblation 
 
 टिप्पणी:   ४२−(अग्ने) हे अग्निवत्तेजस्विन् विद्वन् (अक्रव्यात्) हे अमांसभक्षक ! शान्तस्वभाव (क्रव्यादम्) मांसभक्षकं दोषम् (निर्णुद) निःसारय (देवयजनम्) देव+यज−ल्यु। विद्वद्भिः पूजितव्यवहारम् (आ वह) प्रापय ॥
 </details>
-

@@ -17,9 +17,15 @@ have conquered all fighters; I smite away the scorners, the demoniacs.
 With Amulet of Sraktya wood, as with a thoughtful Rishi's aid, In every fight have I prevailed; I smite the foes and Rakshasas.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्रा॒क्त्येन॑ म॒णिना॒ ऋषि॑णेव मनी॒षिणा॑।  
+अजै॑षं॒ सर्वाः॒ पृत॑ना॒ वि मृधो॑ हन्मि र॒क्षसः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्रा॒क्त्येन॑। म॒णिना॑। ऋषि॑णाऽइव। म॒नी॒षिणा॑। अजै॑षम्। सर्वाः॑। पृत॑नाः। वि। मृधः॑। ह॒न्मि॒। र॒क्षसः॑। ५.८। 
+स्रा॒क्त्येन॑। म॒णिना॑। ऋषि॑णाऽइव। म॒नी॒षिणा॑। अजै॑षम्। सर्वाः॑। पृत॑नाः। वि। मृधः॑। ह॒न्मि॒। र॒क्षसः॑। ५.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ With Amulet of Sraktya wood, as with a thoughtful Rishi's aid, In every fight ha
 
 टिप्पणी:   ८−(स्राक्त्येन) म० ४। उद्योगशीलेन (मणिना) म० १। श्रेष्ठनियमेन (मणिन ऋषिणा) ऋत्यकः। पा० ६।१।१२८। प्रकृतिभावत्वं ह्रस्वत्वं च (ऋषिणा) अ० २।६।१। अतीन्द्रियार्थद्रष्ट्रा (इव) यथा (मनीषिणा) म० ३। विपश्चिता (अजैषम्) जितवानस्मि (सर्वाः) (पृतनाः) अ० ३।२१।३। शत्रुसेनाः (वि) विशेषेण (मृधः) हिंसकान् (हन्मि) घातयामि (रक्षसः) राक्षसान् ॥
 </details>
-

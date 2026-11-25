@@ -8,9 +8,15 @@ title = "०६ मुञ्चामि त्वा"
 For life I set thee free by this oblation from the unknown decline and from consumption; Or, if the grasping demon have possessed him, free him from her, O Indra, thou and Agni.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मु॒ञ्चामि॑ त्वा ह॒विषा॒ जीव॑नाय॒ कम॑ज्ञातय॒क्ष्मादु॒त रा॑जय॒क्ष्मात्।  
+ग्राहि॑र्ज॒ग्राह॒ यद्ये॒तदे॑नं॒ तस्या॑ इन्द्राग्नी॒ प्र मु॑मुक्तमेनम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मु॒ञ्चामि॑। त्वा॒। ह॒विषा॑। जीव॑नाय। कम्। अ॒ज्ञा॒त॒य॒क्ष्मात्। उ॒त। रा॒ज॒ऽय॒क्ष्मात्। ग्राहिः॑। ज॒ग्राह॑। यदि॑। ए॒तत्। ए॒न॒म्। तस्याः॑। इ॒न्द्र॒ग्नी इति॑। प्र। मु॒मु॒क्त॒म्। ए॒न॒म्। ९६.६। 
+मु॒ञ्चामि॑। त्वा॒। ह॒विषा॑। जीव॑नाय। कम्। अ॒ज्ञा॒त॒य॒क्ष्मात्। उ॒त। रा॒ज॒ऽय॒क्ष्मात्। ग्राहिः॑। ज॒ग्राह॑। यदि॑। ए॒तत्। ए॒न॒म्। तस्याः॑। इ॒न्द्र॒ग्नी इति॑। प्र। मु॒मु॒क्त॒म्। ए॒न॒म्। ९६.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ For life I set thee free by this oblation from the unknown decline and from cons
 
 टिप्पणी:   मन्त्र ६-९ आचुके हैं-अ० ३।११।१-४ ॥   ६-९−व्याख्याताः-अ० ३।११।१-४ ॥
 </details>
-

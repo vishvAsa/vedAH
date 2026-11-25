@@ -20,9 +20,15 @@ The verse, as noted above, is wanting in Ppp. ⌊Pāda **c** occurs as x.
 With the full vase he dwells afar, is left far off what time it fails, A mighty Being in creation's centre: to him the rulers of the realms bring tribute.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दू॒रे पू॒र्णेन॑ वसति दू॒र ऊ॒नेन॑ हीयते।  
+म॒हद्य॒क्षं भुव॑नस्य॒ मध्ये॒ तस्मै॑ ब॒लिं रा॑ष्ट्र॒भृतो॑ भरन्ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दू॒रे। पू॒र्णेन॑। व॒स॒ति॒। दू॒रे। ऊ॒नेन॑। ही॒य॒ते॒। म॒हत्। य॒क्षम्। भुव॑नस्य। मध्ये॑। तस्मै॑। ब॒लिम्। रा॒ष्ट्र॒ऽभृतः॑। भ॒र॒न्ति॒। ८.१५। 
+दू॒रे। पू॒र्णेन॑। व॒स॒ति॒। दू॒रे। ऊ॒नेन॑। ही॒य॒ते॒। म॒हत्। य॒क्षम्। भुव॑नस्य। मध्ये॑। तस्मै॑। ब॒लिम्। रा॒ष्ट्र॒ऽभृतः॑। भ॒र॒न्ति॒। ८.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ With the full vase he dwells afar, is left far off what time it fails, A mighty 
 
 टिप्पणी:   १५−(दूरे) दूरे वर्तमानः सन् अतिसूक्ष्मत्वात् (पूर्णेन) महाविदुषा सह (वसति) वर्तते (दूरे) (ऊनेन) विद्याहीनेन सह (हीयते) त्यज्यते (महत्) बृहत् (यक्षम्) पूजनीयं ब्रह्म (भुवनस्य) जगतः (मध्ये) (तस्मै) ब्रह्मणे (बलिम्) सत्कारम् (राष्ट्रभृतः) राज्यधारकाः। महाराजाः (भरन्ति) कुर्वन्ति ॥
 </details>
-

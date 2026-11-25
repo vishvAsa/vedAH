@@ -31,9 +31,14 @@ triṣṭubh; 32. 2-p. prājāpatyā ’nuṣṭubh; 33. 2-p. ārcy uṣṇih.*\
 She mounted up, she came unto the Serpents. The Serpents called her, Venomous! come hither. Her calf was Takshaka, Visala's offspring: a bottlegourd suppli- ed a milking-vessel. Iravan's offspring, Dhritarashtra milked her, and from her udder drew forth only poison. That poison quickens and supports the Serpents: He who knows this becomes a meet supporter.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मा॑द्दे॒वेभ्यो॑ऽर्धमा॒से वष॑ट्कुर्वन्ति॒ प्र दे॑व॒यानं॒ पन्थां॑ जानाति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्मा॑त्। दे॒वेभ्यः॑। अ॒र्ध॒ऽमा॒से। वष॑ट्। कु॒र्व॒न्ति॒। प्र। दे॒व॒ऽयान॑म्। पन्था॑म्। जा॒ना॒ति॒। यः। ए॒वम्। वेद॑। १२.६। 
+तस्मा॑त्। दे॒वेभ्यः॑। अ॒र्ध॒ऽमा॒से। वष॑ट्। कु॒र्व॒न्ति॒। प्र। दे॒व॒ऽयान॑म्। पन्था॑म्। जा॒ना॒ति॒। यः। ए॒वम्। वेद॑। १२.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -63,4 +68,3 @@ She mounted up, she came unto the Serpents. The Serpents called her, Venomous! c
 
 टिप्पणी:   ६−(देवेभ्यः) किरणानामर्थं किरणानां सकाशाद्वा (वषट्) अ० १।११।१। वह प्रापणे−डषटि। रसप्रापणम् (कुर्वन्ति) निष्पादयन्ति (देवयानम्) किरणैर्गन्तव्यम्। अन्यत् पूर्ववत् ॥
 </details>
-

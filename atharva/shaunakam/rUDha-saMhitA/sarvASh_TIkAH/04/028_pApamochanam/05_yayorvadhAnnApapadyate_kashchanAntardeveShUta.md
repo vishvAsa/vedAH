@@ -18,9 +18,15 @@ Ppp. reads in **a, b** *kiṁ canā ’ntar deveṣu uta*.
 Ye from the stroke of whose destroying weapon not one among the Gods or men escapeth, Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ययो॑र्व॒धान्नाप॒पद्य॑ते॒ कश्च॒नान्तर्दे॒वेषू॒त मानु॑षेषु।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ययोः॑। व॒धात्। न। अ॒प॒ऽपद्य॑ते। कः। च॒न। अ॒न्तः। दे॒वेषु॑। उ॒त। मानु॑षेषु। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.५। 
+ययोः॑। व॒धात्। न। अ॒प॒ऽपद्य॑ते। कः। च॒न। अ॒न्तः। दे॒वेषु॑। उ॒त। मानु॑षेषु। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Ye from the stroke of whose destroying weapon not one among the Gods or men esca
 
 टिप्पणी:   ५−(ययोः) भवाशर्वयोः (वधात्) अ० १।२०।२। हननसामर्थ्यात् (न) निषेधे (अपपद्यते) अपेत्य गच्छति (कश्चन) कोऽपि (अन्तः) मध्ये (देवेषु) प्रकाशमानेषु सूर्यादिलोकेषु (उत) अपि च (मानुषेषु) अ० ४।१४।५। मनुष-अण्। मनुष्येषु। अन्यत् पूर्ववत् म० १ ॥
 </details>
-

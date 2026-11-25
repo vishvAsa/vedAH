@@ -19,9 +19,15 @@ vacasā mimā*.
 O Indra, Lord of Treasures, kill the worms that prey upon this boy. All the malignant spirits have been smitten by my potent spell. We utterly destroy the worm, the worm that creeps around the eyes. The worm that crawls about the nose, the worm that gets bet- ween the teeth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒स्येन्द्र॑ कुमा॒रस्य॒ क्रिमी॑न्धनपते जहि।  
+ह॒ता विश्वा॒ अरा॑तय उ॒ग्रेण॒ वच॑सा॒ मम॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒स्य। इ॒न्द्र॒। कु॒मा॒रस्य॑। क्रिमी॑न्। ध॒न॒ऽप॒ते॒। ज॒हि॒। ह॒ताः। विश्वाः॑। अरा॑तयः। उ॒ग्रेण॑। वच॑सा। मम॑। २३.२। 
+अ॒स्य। इ॒न्द्र॒। कु॒मा॒रस्य॑। क्रिमी॑न्। ध॒न॒ऽप॒ते॒। ज॒हि॒। ह॒ताः। विश्वाः॑। अरा॑तयः। उ॒ग्रेण॑। वच॑सा। मम॑। २३.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ O Indra, Lord of Treasures, kill the worms that prey upon this boy. All the mali
 
 टिप्पणी:   २−(अस्य) निर्दिष्टस्य (इन्द्र) हे परमैश्वर्यवन् वैद्य (कुमारस्य) अ० ३।१२।३। कमनीयस्य बालकस्य (क्रिमीन्) कीटान् (धनपते) हे धनस्य स्वामिन् (जहि) नाशय (हताः) नाशिताः (विश्वाः) सर्वे (अरातयः) शत्रवः (उग्रेण) प्रचण्डेन (वचसा) विज्ञानवचनेन (मम) मदीयेन ॥
 </details>
-

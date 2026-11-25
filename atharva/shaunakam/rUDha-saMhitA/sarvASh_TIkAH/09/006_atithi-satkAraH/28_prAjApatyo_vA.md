@@ -16,9 +16,14 @@ title = "२८ प्राजापत्यो वा"
 The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रा॑जाप॒त्यो वा ए॒तस्य॑ य॒ज्ञो वित॑तो॒ य उ॑प॒हर॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रा॒जा॒ऽप॒त्यः। वै। ए॒तस्य॑। य॒ज्ञः। विऽत॑तः। यः। उ॒प॒ऽहर॑ति। ७.११। 
+प्रा॒जा॒ऽप॒त्यः। वै। ए॒तस्य॑। य॒ज्ञः। विऽत॑तः। यः। उ॒प॒ऽहर॑ति। ७.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.
 
 टिप्पणी:   ११−(प्राजापत्यः) अ० ३।२३।५। प्रजापति-ण्य। प्रजापतेः परमात्मनः प्राप्तिकारको यद्वा गृहस्थस्य हितकारकः (वै) (एतस्य) गृहस्थस्य (यज्ञः) शुभव्यवहारः (विततः) विस्तृतः। अन्यत् पूर्ववत् ॥
 </details>
-

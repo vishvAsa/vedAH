@@ -8,9 +8,15 @@ title = "०४ इन्द्रेण रोचना"
 By Indra were the luminous realms of heaven established and secured, Firm and immovable from their place.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रे॑ण रोच॒ना दि॒वो दृ॒ढानि॑ दृंहि॒तानि॑ च।  
+स्थि॒राणि॒ न प॑रा॒णुदे॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रे॑ण। रो॒च॒ना। दि॒वः। दृ॒ह्लानि॑। दृं॒हि॒तानि॑। च॒। स्थि॒राणि॑। न। प॒रा॒ऽनुदे॑। ३९.४। 
+इन्द्रे॑ण। रो॒च॒ना। दि॒वः। दृ॒ह्लानि॑। दृं॒हि॒तानि॑। च॒। स्थि॒राणि॑। न। प॒रा॒ऽनुदे॑। ३९.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ By Indra were the luminous realms of heaven established and secured, Firm and im
 
 टिप्पणी:   ४−मन्त्राः २- व्याख्याताः-अ०२०।२८।१-४॥
 </details>
-

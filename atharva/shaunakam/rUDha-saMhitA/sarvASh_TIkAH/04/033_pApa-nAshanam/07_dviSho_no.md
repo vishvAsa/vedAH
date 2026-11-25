@@ -17,9 +17,15 @@ pass over as with a boat: gleaming away our evil.
 O thou whose face looks every way, bear off our foes as in a ship. His lustre flash our pain away!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+द्विषो॑ नो विश्वतोमु॒खाति॑ ना॒वेव॑ पारय।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द्विषः॑। नः॒। वि॒श्व॒तः॒ऽमु॒ख॒। अति॑। ना॒वाऽइ॑व। पा॒र॒य॒। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.७। 
+द्विषः॑। नः॒। वि॒श्व॒तः॒ऽमु॒ख॒। अति॑। ना॒वाऽइ॑व। पा॒र॒य॒। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ O thou whose face looks every way, bear off our foes as in a ship. His lustre fl
 
 टिप्पणी:   ७−(द्विषः) द्वेष्टॄन् शत्रून् (नः) अस्मान् (विश्वतोमुख) म० ६। (अति) अतीत्य। उल्लङ्घ्य (नावा इव) यथा नौकया (पारय) पारं गमय। अन्यत्पूर्ववत् ॥
 </details>
-

@@ -20,9 +20,15 @@ Ppp. reads at the beginning *viluptiṁ bṛhaspataye yā ca sū-*, and in
 Vilipti, O Brihaspati, cow, mother of no second calf--Of these none not a Brahman should eat if he hope for eminence.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॑लि॒प्ती या बृ॑हस्प॒तेऽथो॑ सू॒तव॑शा व॒शा।  
+तस्या॒ नाश्नी॑या॒दब्रा॑ह्मणो॒ य आ॒शंसे॑त॒ भूत्या॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒ऽलि॒प्ती। या। बृ॒ह॒स्प॒ते॒। अथो॒ इति॑। सू॒तऽव॑शा। व॒शा। तस्याः॑। न। अ॒श्नी॒या॒त्। अब्रा॑ह्मणः। यः। आ॒ऽशंसे॑त। भूत्या॑म्। ४.४६। 
+वि॒ऽलि॒प्ती। या। बृ॒ह॒स्प॒ते॒। अथो॒ इति॑। सू॒तऽव॑शा। व॒शा। तस्याः॑। न। अ॒श्नी॒या॒त्। अब्रा॑ह्मणः। यः। आ॒ऽशंसे॑त। भूत्या॑म्। ४.४६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Vilipti, O Brihaspati, cow, mother of no second calf--Of these none not a Brahma
 
 टिप्पणी:   ४६−(विलिप्ती) म० ४१। विशेषवृद्धियुक्ता (अथो) अपि च। अन्यत् पूर्ववत्−म० ४४ ॥
 </details>
-

@@ -21,9 +21,15 @@ the **c, d** of a vs. which is immediately followed by our next vs.⌋
 I seize thine arms and draw them back, I bind a bandage on thy mouth. I with the anger of the God Agni have killed thy sacrifice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अपा॑ञ्चौ त उ॒भौ बा॒हू अपि॑ नह्याम्या॒स्य᳡म्।  
+अ॒ग्नेर्दे॒वस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अपा॑ञ्चौ। ते॒। उ॒भौ। बा॒हू इति॑। अपि॑। न॒ह्या॒मि॒। आ॒स्य᳡म्। अ॒ग्नेः। दे॒वस्य॑। म॒न्युना॑। तेन॑। ते॒। अ॒व॒धि॒ष॒म्। ह॒व‍िः। ७३.४। 
+अपा॑ञ्चौ। ते॒। उ॒भौ। बा॒हू इति॑। अपि॑। न॒ह्या॒मि॒। आ॒स्य᳡म्। अ॒ग्नेः। दे॒वस्य॑। म॒न्युना॑। तेन॑। ते॒। अ॒व॒धि॒ष॒म्। ह॒व‍िः। ७३.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ I seize thine arms and draw them back, I bind a bandage on thy mouth. I with the
 
 टिप्पणी:   ४−(अपाञ्चौ) अपाञ्चनौ पृष्ठे सम्बद्धौ (ते) तव (उभौ) द्वौ (बाहू) भुजौ (अपि) एव (नह्यामि) बध्नामि (आस्यम्) मुखम् (अग्नेः) तेजस्विनः सेनापतेः (देवस्य) विजयमानस्य (मन्युना) तेजसा। क्रोधेन (ते) तव (अवधिषम्) हन्तेर्लुङ्। नाशितवानस्मि (हविः) होतव्यम्। ग्राह्यं द्रव्यम् ॥
 </details>
-

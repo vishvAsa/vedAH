@@ -22,9 +22,15 @@ cutting of a sacrificial post.
 With power I cut away the head of my malignant rival, of mine evil-hearted enemy.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अराती॒योर्भ्रातृ॑व्यस्य दु॒र्हार्दो॑ द्विष॒तः शिरः॑।  
+अपि॑ वृश्चा॒म्योज॑सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒रा॒ति॒ऽयोः। भ्रातृ॑व्यस्य। दुः॒ऽहार्दः॑। द्वि॒ष॒तः। शिरः॑। अपि॑। वृ॒श्चा॒मि॒। ओज॑सा। ६.१। 
+अ॒रा॒ति॒ऽयोः। भ्रातृ॑व्यस्य। दुः॒ऽहार्दः॑। द्वि॒ष॒तः। शिरः॑। अपि॑। वृ॒श्चा॒मि॒। ओज॑सा। ६.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ With power I cut away the head of my malignant rival, of mine evil-hearted enemy
 
 टिप्पणी:   १−(अरातीयोः) मृगय्वादयश्च। उ० १।३७। अराति+या गतिप्रापणयोः-कु। अदानशीलस्य। अनुदारस्य (भ्रातृव्यस्य) अ० २।१८।१। भ्रातृभावरहितस्य (दुर्हार्दः) अ० २।७।५। दुष्टहृदयस्य (द्विषतः) शत्रोः (शिरः) (अपि वृश्चामि) अवच्छिनद्मि (ओजसा) बलेन ॥
 </details>
-

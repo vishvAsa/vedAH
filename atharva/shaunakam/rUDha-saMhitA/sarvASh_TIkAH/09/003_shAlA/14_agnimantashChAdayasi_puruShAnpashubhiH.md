@@ -17,9 +17,15 @@ title = "१४ अग्निमन्तश्छादयसि पुरु
 Agni thou shelterest within, and people with domestic beasts. We loose the bonds that fasten thee, mother of multitudes to come!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्निम॒न्तश्छा॑दयसि॒ पुरु॑षान्प॒शुभिः॑ स॒ह।  
+विजा॑वति॒ प्रजा॑वति॒ वि ते॒ पाशां॑श्चृतामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निम्। अ॒न्तः। छा॒द॒य॒सि॒। पुरु॑षान्। प॒शुऽभिः॑। स॒ह। विजा॑ऽवति। प्रजा॑ऽवति। वि। ते॒। पाशा॑न्। चृ॒ता॒म॒सि॒। ३.१४। 
+अ॒ग्निम्। अ॒न्तः। छा॒द॒य॒सि॒। पुरु॑षान्। प॒शुऽभिः॑। स॒ह। विजा॑ऽवति। प्रजा॑ऽवति। वि। ते॒। पाशा॑न्। चृ॒ता॒म॒सि॒। ३.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Agni thou shelterest within, and people with domestic beasts. We loose the bonds
 
 टिप्पणी:   १४−(अग्निम्) यज्ञस्य पाकस्य वा पावकम् (अन्तः) मध्ये (छादयसि) संवृणोषि (पुरुषान्) मनुष्यान् (पशुभिः) गवादिभिः (सह) अन्यत् पूर्ववत् म० १३ ॥
 </details>
-

@@ -21,9 +21,15 @@ either place of the deficient syllable in **a**. Ppp. reads here, for
 Guard against ill of varied kind is Varana this heavenly Plant. The Gods have stayed and driven off Consumption which had seized this man.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व॑र॒णो वा॑रयाता अ॒यं दे॒वो वन॒स्पतिः॑।  
+यक्ष्मो॒ यो अ॒स्मिन्नावि॑ष्ट॒स्तमु॑ दे॒वा अ॑वीवरन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-व॒र॒णः। वा॒र॒या॒तै॒। अ॒यम्। दे॒वः। वन॒स्पतिः॑। यक्ष्मः॑। यः। अ॒स्मिन्। आऽवि॑ष्टः। तम्। ऊं॒ इति॑। दे॒वाः। अ॒वी॒व॒र॒न्। ३.५। 
+व॒र॒णः। वा॒र॒या॒तै॒। अ॒यम्। दे॒वः। वन॒स्पतिः॑। यक्ष्मः॑। यः। अ॒स्मिन्। आऽवि॑ष्टः। तम्। ऊं॒ इति॑। दे॒वाः। अ॒वी॒व॒र॒न्। ३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Guard against ill of varied kind is Varana this heavenly Plant. The Gods have st
 
 टिप्पणी:   ५−अयं मन्त्रो व्याख्यातः-अथर्व० ६।८५।१ ॥
 </details>
-

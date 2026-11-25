@@ -8,9 +8,15 @@ title = "०३ त्वमीशिषे सुतानामिन्द्
 Thou art the Lord of Soma pressed, Soma unpressed is also thine, Thou art the Sovran of the folk.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वमी॑शिषे सु॒ताना॒मिन्द्र॒ त्वमसु॑तानाम्।  
+त्वं राजा॒ जना॑नाम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वम्। ई॒षि॒षे॒। सु॒तानाम्॑। इन्द्र॑। त्वम्। असु॑तानाम्। त्वम्। राजा॑। जना॑नाम्। ९३.३। 
+त्वम्। ई॒षि॒षे॒। सु॒तानाम्॑। इन्द्र॑। त्वम्। असु॑तानाम्। त्वम्। राजा॑। जना॑नाम्। ९३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Thou art the Lord of Soma pressed, Soma unpressed is also thine, Thou art the So
 
 टिप्पणी:   ३−(त्वम्) (ईशिषे) ईश्वरो भवसि (सुतानाम्) उत्पन्नानां पदार्थानाम् (इन्द्र) हे परमेश्वर (त्वम्) (असुतानाम्) अनुत्पन्नानां परमाणुरूपपदार्थानाम् (त्वम्) (राजा) (जनानाम्) जनिष्यमाणानाम् ॥
 </details>
-

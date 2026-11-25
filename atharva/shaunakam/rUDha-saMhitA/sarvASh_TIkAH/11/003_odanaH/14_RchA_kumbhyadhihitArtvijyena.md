@@ -13,9 +13,14 @@ title = "१४ ऋचा कुम्भ्यधिहितार्त्व
 The jar covered with the Rich has been solemnly directed by the priestly office.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋ॒चा कु॒म्भ्यधि॑हि॒तार्त्वि॑ज्येन॒ प्रेषि॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋ॒चा। कु॒म्भी। अधि॑ऽहिता। आर्त्वि॑ज्येन। प्रऽइ॑षिता। ३.१४। 
+ऋ॒चा। कु॒म्भी। अधि॑ऽहिता। आर्त्वि॑ज्येन। प्रऽइ॑षिता। ३.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,4 +50,3 @@ The jar covered with the Rich has been solemnly directed by the priestly office.
 
 टिप्पणी:   १४−(ऋचा) ऋग् वाङ्नाम-निघ० १।११। स्तुत्या वेदवाण्या सह (कुम्भी) जलादिलघुपात्रम्। उखा (अधिहिता) उपरि स्थापिता (आर्त्विज्येन) गुणवचनब्राह्मणादिभ्यः कर्मणि च। पा० ५।१।१२४। ऋत्विज्−ष्यञ्। ऋत्विजां कर्मणा (प्रेषिता) प्रेरिता ॥
 </details>
-

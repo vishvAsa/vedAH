@@ -17,9 +17,15 @@ harnessed to his \[chariot-\] pole, in whose etc. etc.
 No black-eared courser, white of hue, moves proudly, harnessed to his car, In whose dominion is detained, through want of sense, a Brahman's dame.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नास्य॑ श्वे॒तः कृ॑ष्ण॒कर्णो॑ धु॒रि यु॒क्तो म॑हीयते।  
+यस्मि॑न्रा॒ष्ट्रे नि॑रु॒ध्यते॑ ब्रह्मजा॒याचि॑त्त्या ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। अ॒स्य॒। श्वे॒तः। कृ॒ष्ण॒ऽकर्णः॑। धु॒रि। यु॒क्तः। म॒ही॒य॒ते॒। यस्मि॑न्। रा॒ष्ट्रे। नि॒ऽरु॒ध्यते॑। ब्र॒ह्म॒ऽजा॒या। अचि॑त्त्या। १७.१५। 
+न। अ॒स्य॒। श्वे॒तः। कृ॒ष्ण॒ऽकर्णः॑। धु॒रि। यु॒क्तः। म॒ही॒य॒ते॒। यस्मि॑न्। रा॒ष्ट्रे। नि॒ऽरु॒ध्यते॑। ब्र॒ह्म॒ऽजा॒या। अचि॑त्त्या। १७.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ No black-eared courser, white of hue, moves proudly, harnessed to his car, In wh
 
 टिप्पणी:   १५−(न) निषेधे (अस्य) (श्वेतः) शुक्लवर्णः (कृष्णकर्णः) श्यामकर्णोऽश्वः (धुरि) धुर्व हिंसायाम्−क्विप्। यानमुखे (युक्तः) युगं गतः (महीयते) महीङ् पूजायाम्। पूज्यते स्तूयते ॥
 </details>
-

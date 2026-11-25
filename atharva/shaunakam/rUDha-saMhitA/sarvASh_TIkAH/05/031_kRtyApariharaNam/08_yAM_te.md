@@ -21,9 +21,15 @@ sacrifice.' The Anukr. takes no notice of the metrical irregularities in
 Charm they have laid within thy well or buried in the burning- ground, Charm they have laid within thy home, this I throw back again on them.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यां ते॑ कृ॒त्यां कूपे॑ऽवद॒धुः श्म॑शा॒ने वा॑ निच॒ख्नुः।  
+सद्म॑नि कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याम्। ते॒। कृ॒त्याम्। कूपे॑। अ॒व॒ऽद॒धुः। श्म॒शा॒ने। वा॒। नि॒ऽच॒ख्नुः। सद्म॑नि। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.८। 
+याम्। ते॒। कृ॒त्याम्। कूपे॑। अ॒व॒ऽद॒धुः। श्म॒शा॒ने। वा॒। नि॒ऽच॒ख्नुः। सद्म॑नि। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Charm they have laid within thy well or buried in the burning- ground, Charm the
 
 टिप्पणी:   ८−(कूपे) गम्यते जलार्थिभिः। कुयुभ्यां च। उ० ३।२७। इति कुङ् गतिशोषणयोः−प, स च किद् दीर्घश्च। जलाधारे (अवदधुः) अवधारितवन्तः (श्मशाने) श्मन्+शाने। शीङ् स्वप्ने−मनिन्, डिच्च। श्मानः शवाः शेरते यत्र। शीङ्−शानच्, डिच्च। शवदाहस्थाने (निचख्नुः) खनु अवदारणे लिट्। विदार्य धृतवन्तः (सद्मनि) गृहे। अन्यद् गतम्। म० १ ॥
 </details>
-

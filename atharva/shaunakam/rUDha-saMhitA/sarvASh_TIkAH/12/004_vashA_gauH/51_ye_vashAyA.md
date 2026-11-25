@@ -18,9 +18,15 @@ Ppp. combines in **a** *vaśāyā ’dā-*, and in **c-d** *jālmā ”vṛś-*.
 The men of evil counsel who advise refusal of the Cow, Miscreants, through their foolishness, are subjected to Indra's wrath.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये व॒शाया॒ अदा॑नाय॒ वद॑न्ति परिरा॒पिणः॑।  
+इन्द्र॑स्य म॒न्यवे॑ जा॒ल्मा आ वृ॑श्चन्ते॒ अचि॑त्त्या ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। व॒शायाः॑। अदा॑नाय। वद॑न्ति। प॒रि॒ऽरा॒पिणः॑। इन्द्र॑स्य। म॒न्यवे॑। जा॒ल्माः। आ। वृ॒श्च॒न्ते॒। अचि॑त्त्या। ४.५१। 
+ये। व॒शायाः॑। अदा॑नाय। वद॑न्ति। प॒रि॒ऽरा॒पिणः॑। इन्द्र॑स्य। म॒न्यवे॑। जा॒ल्माः। आ। वृ॒श्च॒न्ते॒। अचि॑त्त्या। ४.५१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The men of evil counsel who advise refusal of the Cow, Miscreants, through their
 
 टिप्पणी:   ५१−(ये) (वशायाः) कमनीयाया वेदवाण्याः (वदन्ति) (परिरापिणः) रप व्यक्तायां वाचि−णिनि। परिलपनशीलाः (इन्द्रस्य) परमैश्वर्यवतः पुरुषस्य (मन्यवे) क्रोधाय (जाल्माः) जल अपवारणे−णिच्−म प्रत्ययः। पामराः। क्रूराः (आ) समन्तात् (वृश्चन्ते) छिद्यन्ते (अचित्या) अज्ञानेन ॥
 </details>
-

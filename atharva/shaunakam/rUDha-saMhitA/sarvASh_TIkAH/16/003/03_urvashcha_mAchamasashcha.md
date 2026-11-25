@@ -20,9 +20,14 @@ The translation follows the suggestion of the Pet. Lexx., to emend
 Let not the Boiler and the Cup fail tme: let not the Supporter and the Sustainer abandon me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॒र्वश्च॑ माचम॒सश्च॒ मा हा॑सिष्टां ध॒र्ता च॑ मा ध॒रुण॑श्च॒ मा हा॑सिष्टाम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒र्वः। च॒। मा॒। च॒म॒सः। च॒। मा। हा॒सि॒ष्टा॒म्। ध॒र्ता। च॒। मा॒। ध॒रुणः॑। च॒। मा। हा॒सि॒ष्टा॒म्। ३.३। 
+उ॒र्वः। च॒। मा॒। च॒म॒सः। च॒। मा। हा॒सि॒ष्टा॒म्। ध॒र्ता। च॒। मा॒। ध॒रुणः॑। च॒। मा। हा॒सि॒ष्टा॒म्। ३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ Let not the Boiler and the Cup fail tme: let not the Supporter and the Sustainer
 
 टिप्पणी:   ३−(उर्वः) उर्वी हिंसायाम्-अच्। उर्वति शूरयति मारयति शत्रून्। शूरत्वगुणः (च) (मा) माम् (चमसः) भोजनपात्रं शरीरम् (च) (मा हासिष्टाम्) न त्यजताम् (धर्ता)धारको गुणः (धरुणः) कॄवृदारिभ्य उनन्। उ० ३।५३। धृङ् अवस्थाने-उनन्। अवस्थानम्।दृढस्थितिगुणः। अन्यत् पूर्ववत् ॥
 </details>
-

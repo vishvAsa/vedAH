@@ -18,9 +18,14 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 यदि॑ द्विवृ॒षोऽसि॑ सृ॒जार॒सोऽसि ॥२॥
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदि॑ द्विवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यदि॑। द्वि॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.२। 
+यदि॑। द्वि॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 
 टिप्पणी:   २−(द्विवृषः) द्वाभ्यां परमात्मात्मभ्यां वृषो वृषा, ऐश्वर्यवान् ॥
 </details>
-

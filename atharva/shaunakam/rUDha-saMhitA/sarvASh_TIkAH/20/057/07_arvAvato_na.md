@@ -8,9 +8,15 @@ title = "०७ अर्वावतो न"
 Come to us either from anear, or, Sakra, come from far away. Indra, wherever be thy home, come thence, O Caster of the Stone.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑र्वा॒वतो॑ न॒ आ ग॒ह्यथो॑ शक्र परा॒वतः॑।  
+उ॑ लो॒को यस्ते॑ अद्रिव॒ इन्द्रे॒ह त॑त॒ आ ग॑हि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒र्वा॒ऽवतः॑। नः॒। आ। ग॒हि॒। अथो॒ इति॑। श॒क्र॒। प॒रा॒वतः॑। ऊं॒ इति॑। लो॒कः। यः। ते॒। अ॒द्रि॒ऽवः॒। इन्द्र॑। इ॒ह। ततः॑। आ। ग॒हि॒। ५७.७। 
+अ॒र्वा॒ऽवतः॑। नः॒। आ। ग॒हि॒। अथो॒ इति॑। श॒क्र॒। प॒रा॒वतः॑। ऊं॒ इति॑। लो॒कः। यः। ते॒। अ॒द्रि॒ऽवः॒। इन्द्र॑। इ॒ह। ततः॑। आ। ग॒हि॒। ५७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Come to us either from anear, or, Sakra, come from far away. Indra, wherever be 
 
 टिप्पणी:   ४-१०- एते मन्त्रा व्याख्याताः-अ० २।२०।१-७ ॥
 </details>
-

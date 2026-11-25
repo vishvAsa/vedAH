@@ -17,9 +17,14 @@ food-eating, coming into being (*bhūtvā́*).
 Faith, and Sacrifice and the world, having become food and nourishment, turned toward him.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तं श्र॒द्धा च॑य॒ज्ञश्च॑ लो॒कश्चान्नं॑ चा॒न्नाद्यं॑ च भू॒त्वाभि॑प॒र्याव॑र्तन्त ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तम्। श्र॒ध्दा। च॒। य॒ज्ञः। च॒। लो॒कः। च॒। अन्न॑म्। च॒। अ॒न्न॒ऽअद्य॑म्। च॒। भू॒त्वा। अ॒भि॒ऽप॒र्याव॑र्तन्त। ७.४। 
+तम्। श्र॒ध्दा। च॒। य॒ज्ञः। च॒। लो॒कः। च॒। अन्न॑म्। च॒। अ॒न्न॒ऽअद्य॑म्। च॒। भू॒त्वा। अ॒भि॒ऽप॒र्याव॑र्तन्त। ७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Faith, and Sacrifice and the world, having become food and nourishment, turned t
 
 टिप्पणी:   ४−(तम्) व्रात्यंपरमात्मानम् (श्रद्धा) धर्मविश्वासः (यज्ञः) सद्व्यवहारः (लोकः) समाजः (अन्नम्)सस्यम् (अन्नाद्यम्) भक्षणीयं संस्कृतमन्नम् (भूत्वा) व्याप्य (अभिपर्यावर्तन्त) अभि+परि+आ+अवर्तन्त। अभितः परित आगत्य वर्तमाना अभवन्।अन्यद् गतम् ॥
 </details>
-

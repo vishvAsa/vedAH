@@ -21,9 +21,15 @@ closer, by reading *modante* for *jāyante* in **c**. Some of the
 When Prana hath poured down his flood of rain upon the mighty earth, The plants are wakened into life, and every herd that grows on ground.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य॒दा प्रा॒णो अ॒भ्यव॑र्षीद्व॒र्षेण॑ पृथि॒वीं म॒हीम्।  
+ओष॑धयः॒ प्र जा॑य॒न्तेऽथो॒ याः काश्च॑ वी॒रुधः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-य॒दा। प्रा॒णः। अ॒भि॒ऽअव॑र्षीत्। व॒र्षेण॑। पृ॒थि॒वीम्। म॒हीम्। ओष॑धयः। प्र। जा॒य॒न्ते॒। अथो॒ इति॑। याः। काः। च॒। वी॒रुधः॑। ६.१७। 
+य॒दा। प्रा॒णः। अ॒भि॒ऽअव॑र्षीत्। व॒र्षेण॑। पृ॒थि॒वीम्। म॒हीम्। ओष॑धयः। प्र। जा॒य॒न्ते॒। अथो॒ इति॑। याः। काः। च॒। वी॒रुधः॑। ६.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ When Prana hath poured down his flood of rain upon the mighty earth, The plants 
 
 टिप्पणी:   १७−पूर्वार्धर्चो व्याख्यातः-म० ५ (ओषधयः) अन्नादिपदार्थाः (प्र जायन्ते) (अथो) अनन्तरमेव (याः) (काः) (च) (वीरुधः) अ० १।३२।१। विरोहणशीला लतादयः ॥
 </details>
-

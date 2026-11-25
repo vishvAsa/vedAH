@@ -34,9 +34,14 @@ beautiful
 To thee, O Fathers, be this cry of Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒तत्ते॑ ततस्व॒धा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒तत्। ते॒। त॒त॒। स्व॒धा। ४.७७। 
+ए॒तत्। ते॒। त॒त॒। स्व॒धा। ४.७७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -66,4 +71,3 @@ To thee, O Fathers, be this cry of Hail!
 
 टिप्पणी:   ७७−(तत) म० ७५ हे पिता।अन्यत् पूर्ववत् ॥
 </details>
-

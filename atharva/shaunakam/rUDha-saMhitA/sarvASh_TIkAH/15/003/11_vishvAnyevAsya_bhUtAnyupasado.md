@@ -17,9 +17,14 @@ R. is the only ms. that has the last two words.
 All creatures become the worshippers of him who possesses this knowledge.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+विश्वा॑न्ये॒वास्य॑ भू॒तान्यु॑प॒सदो॑ भवन्ति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-विश्वा॑नि। ए॒व। अ॒स्य॒। भू॒तानि॑। उ॒प॒ऽसदः॑। भ॒व॒न्ति॒। यः। ए॒वम्। वेद॑। ३.११। 
+विश्वा॑नि। ए॒व। अ॒स्य॒। भू॒तानि॑। उ॒प॒ऽसदः॑। भ॒व॒न्ति॒। यः। ए॒वम्। वेद॑। ३.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ All creatures become the worshippers of him who possesses this knowledge.
 
 टिप्पणी:   ११−(विश्वानि) सर्वाणि (एव) अवधारणे (अस्य) विदुषःपुरुषस्य (भूतानि) सत्त्वानि (उपसदः) समीपवर्तिनः (भवन्ति) (यः) पुरुषः (एवम्)सू० २।३। व्यापकं व्रात्यं परमात्मानम् (वेद) वेत्ति ॥
 </details>
-

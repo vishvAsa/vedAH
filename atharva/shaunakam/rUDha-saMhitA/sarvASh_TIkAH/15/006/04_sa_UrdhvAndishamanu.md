@@ -13,9 +13,14 @@ title = "०४ स ऊर्ध्वान्दिशमनु"
 He went his way to the region of the zenith.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स ऊ॒र्ध्वांदिश॒मनु॒ व्य᳡चलत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। ऊ॒र्ध्वाम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ६.४। 
+सः। ऊ॒र्ध्वाम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ६.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,4 +50,3 @@ He went his way to the region of the zenith.
 
 टिप्पणी:   ४−(सः) व्रात्यः (ऊर्ध्वाम्) उपरिवर्तमानाम् ॥
 </details>
-

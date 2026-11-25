@@ -22,9 +22,15 @@ above (see note there).
 Bhaga and Savitar the God have clasped that hand of thine in theirs, By rule and law thou art my wife: the master of thy house am I.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+भग॑स्ते॒हस्त॑मग्रहीत्सवि॒ता हस्त॑मग्रहीत्।  
+पत्नी॒ त्वम॑सि॒ धर्म॑णा॒हं गृ॒हप॑ति॒स्तव॑॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भगः॑। ते॒। हस्त॑म्। अ॒ग्र॒ही॒त्। स॒वि॒ता। हस्त॑म्। अ॒ग्र॒ही॒त्। पत्नी॑। त्वम्। अ॒सि॒। धर्म॑णा। अ॒हम्। गृ॒हऽप॑तिः। तव॑। १.५१। 
+भगः॑। ते॒। हस्त॑म्। अ॒ग्र॒ही॒त्। स॒वि॒ता। हस्त॑म्। अ॒ग्र॒ही॒त्। पत्नी॑। त्वम्। अ॒सि॒। धर्म॑णा। अ॒हम्। गृ॒हऽप॑तिः। तव॑। १.५१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Bhaga and Savitar the God have clasped that hand of thine in theirs, By rule and
 
 टिप्पणी:   ५१−(भगः)ऐश्वर्यवान् परमात्मा (ते) तव (हस्तम्) (अग्रहीत्) गृहीतवान् (सविता)सर्वोत्पादको जगदीश्वरः (हस्तम्) (अग्रहीत्) (पत्नी) पालयित्री (त्वम्) (असि) (धर्मणा) शास्त्रविहितकर्मणा (अहम्) (गृहपतिः) गृहस्वामी (तव) ॥
 </details>
-

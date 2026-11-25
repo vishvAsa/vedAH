@@ -21,9 +21,15 @@ striyām anu ṣiñcatu: tathā tad abravīd dhātā tat prajāpatir abravīt*.
 The father sows the genial seed, the woman tends and fosters it. This is the finding of a son: thus hath Prajapati declared.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पुं॒सि वै रेतो॑ भवति॒ तत्स्त्रि॒यामनु॑ षिच्यते।  
+तद्वै पु॒त्रस्य॒ वेद॑नं॒ तत्प्र॒जाप॑तिरब्रवीत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पुं॒सि। वै। रेतः॑। भ॒व॒ति॒। तत्। स्त्रि॒याम्। अनु॑। सि॒च्य॒ते॒। तत्। वै। पु॒त्रस्य॑। वेद॑नम्। तत्। प्र॒जाऽप॑तिः। अ॒ब्र॒वी॒त्। ११.२। 
+पुं॒सि। वै। रेतः॑। भ॒व॒ति॒। तत्। स्त्रि॒याम्। अनु॑। सि॒च्य॒ते॒। तत्। वै। पु॒त्रस्य॑। वेद॑नम्। तत्। प्र॒जाऽप॑तिः। अ॒ब्र॒वी॒त्। ११.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ The father sows the genial seed, the woman tends and fosters it. This is the fin
 
 टिप्पणी:   २−(पुंसि) अ० ३।६।१। रक्षणस्वभावे बलवति पुरुषे (वै) एव (रेतः) अ० २।२८।५। वीर्यम् (भवति) (तत्) रेतः (स्त्रियाम्) पत्न्याम् (अनु) आनुकूल्येन। यथाविधि (सिच्यते) सेचनं क्रियते (तत्) रेतःसेचनम् (वै) (पुत्रस्य) (वेदनम्) प्राप्तिकारणम् (प्रजापतिः) प्रजानां पालकः परमेश्वरः (अब्रवीत्) अकथयत् ॥
 </details>
-

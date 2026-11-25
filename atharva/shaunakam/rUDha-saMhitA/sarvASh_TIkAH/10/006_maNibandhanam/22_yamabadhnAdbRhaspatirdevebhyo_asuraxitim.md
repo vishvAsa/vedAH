@@ -25,9 +25,15 @@ d** (23, 24, 26, 27, 29, 30, 33, 35 being wanting in Ppp.).
 The Amulet Brihaspati formed for the Gods, that slew the fiends. That Amulet here hath come to me combined with sap and energy.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑म॒द्रसे॑न स॒ह वर्च॑सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। रसे॑न। स॒ह। वर्च॑सा। ६.२२। 
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। रसे॑न। स॒ह। वर्च॑सा। ६.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ The Amulet Brihaspati formed for the Gods, that slew the fiends. That Amulet her
 
 टिप्पणी:   २२−(यम्) (अबध्नात्) बद्धवान्। नियोजितवान्। (बृहस्पतिः) बृहतां ब्रह्माण्डानां स्वामी (देवेभ्यः) विजयिभ्यः (असुरक्षितिम्) दुष्टनाशकम् (सः) (मा) माम् (अयम्) एव (मणिः) (आगमत्) प्राप्तवान् (रसेन) पराक्रमेण (सह) (वर्चसा) प्रतापेन ॥
 </details>
-

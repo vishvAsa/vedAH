@@ -8,9 +8,14 @@ title = "०३ को अर्जुन्याः"
 Who took away the white cow's milk?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+को अर्जु॑न्याः॒ पयः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कः। अर्जु॑न्या॒। पयः॑। १३०.३। 
+कः। अर्जु॑न्या॒। पयः॑। १३०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Who took away the white cow's milk?
 
 टिप्पणी:   ३−(कः) (अर्जुन्याः) अर्जेर्णिलुक् च। उ० २।८। अर्ज अर्जने-उनन् ङीप्। उद्योगिन्याः क्रियायाः (पयः) म० २ ॥
 </details>
-

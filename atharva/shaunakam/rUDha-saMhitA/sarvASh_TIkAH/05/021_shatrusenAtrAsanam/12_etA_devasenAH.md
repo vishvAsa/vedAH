@@ -25,9 +25,15 @@ first part is obscure.
 May these embattled Gods, brilliant as Surya--All hail!--one- minded conquer those who hate us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒ता दे॑वसे॒नाः सूर्य॑केतवः॒ सचे॑तसः।  
+अ॒मित्रा॑न्नो जयन्तु॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒ताः। दे॒व॒ऽसे॒नाः। सूर्य॑ऽकेतवः। सऽचे॑तसः। अ॒मित्रा॑न्। नः। ज॒य॒न्तु॒। स्वाहा॑। २१.१२। 
+ए॒ताः। दे॒व॒ऽसे॒नाः। सूर्य॑ऽकेतवः। सऽचे॑तसः। अ॒मित्रा॑न्। नः। ज॒य॒न्तु॒। स्वाहा॑। २१.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ May these embattled Gods, brilliant as Surya--All hail!--one- minded conquer tho
 
 टिप्पणी:   १२−(एताः) समीपस्थाः (देवसेनाः) विजयिनः सेनापतेः सेनाः (सूर्यकेतवः) चायः की। उ० १।७४। इति चायृ पूजायाम्−तु। इति केतुः पताका। सूर्यवत्पताकायुक्ताः (सचेतसः) समानचित्ताः (अमित्रान्) शत्रून् (नः) अस्माकम् (जयन्तु) अभिभवन्तु (स्वाहा) अ० २।१६।१। इत्याशीर्वादोऽस्तु ॥
 </details>
-

@@ -8,9 +8,15 @@ title = "१७ न सेशे"
 Indra speaks. Non fortis est ille cujus, quum sederit, membrum pilosum se extendit: fortis vero est ille cujus mentula laxe inter femora dependet. Super omnia est Indra.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+न सेशे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृम्भ॑ते।  
+सेदी॑शे॒ यस्य॒ रम्ब॑तेऽन्त॒रा क्थ्या॒३॒॑ कपृ॒द्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। सः। ई॒शे॒। यस्य॑। रो॒म॒शम्। नि॒ऽसेदुषः॑। विऽजृम्भ॑ते। सः। इत्। ई॒शे॒। यस्य॑। रम्ब॑ते। अ॒न्त॒रा। स॒क्थ्यो॑। कपृ॑त्। विश्व॑स्मात्। इन्द्रः॑। उत्ऽत॑र। १२६.१७। 
+न। सः। ई॒शे॒। यस्य॑। रो॒म॒शम्। नि॒ऽसेदुषः॑। विऽजृम्भ॑ते। सः। इत्। ई॒शे॒। यस्य॑। रम्ब॑ते। अ॒न्त॒रा। स॒क्थ्यो॑। कपृ॑त्। विश्व॑स्मात्। इन्द्रः॑। उत्ऽत॑र। १२६.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Indra speaks. Non fortis est ille cujus, quum sederit, membrum pilosum se extend
 
 टिप्पणी:   १७−(विजृम्भते) आलस्येन जृम्भां मुखविकाशं करोति। अन्यत् पूर्ववत् ॥
 </details>
-

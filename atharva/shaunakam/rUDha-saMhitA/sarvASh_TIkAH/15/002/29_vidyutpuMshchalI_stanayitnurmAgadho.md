@@ -7,7 +7,7 @@ title = "२९ विद्युत्पुंश्चली स्तनय
 
 **e.** ⌊25.⌋ lightning is the harlot, thunder the *māgadhá*,  
 discernment the garment, day the turban, night the hair, yellow the two  
-*pravartás*, *kalmalí* the jewel, 
+*pravartás*, *kalmalí* the jewel,
 </details>
 
 <details><summary>Griffith</summary>
@@ -15,9 +15,14 @@ discernment the garment, day the turban, night the hair, yellow the two
 In the northern region Lightning is his leman, thunder his panegyrist, etc. as above.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒द्युत्पुं॑श्च॒ली स्त॑नयि॒त्नुर्मा॑ग॒धो वि॒ज्ञानं॒ वासोऽह॑रु॒ष्णीषं॒रात्री॒ केशा॒ हरि॑तौ प्रव॒र्तौ क॑ल्म॒लिर्म॒णिः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒ऽद्युत्। पुं॒श्च॒ली। स्त॒न॒यि॒त्नुः। मा॒ग॒धः। वि॒ऽज्ञान॑म्। वासः॑। अहः॑। उ॒ष्णीष॑म्। रात्री॑। केशाः॑। हरि॑तौ। प्र॒ऽव॒र्तौ। क॒ल्म॒लिः। म॒णिः। २.२५। 
+वि॒ऽद्युत्। पुं॒श्च॒ली। स्त॒न॒यि॒त्नुः। मा॒ग॒धः। वि॒ऽज्ञान॑म्। वासः॑। अहः॑। उ॒ष्णीष॑म्। रात्री॑। केशाः॑। हरि॑तौ। प्र॒ऽव॒र्तौ। क॒ल्म॒लिः। म॒णिः। २.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,4 +52,3 @@ In the northern region Lightning is his leman, thunder his panegyrist, etc. as a
 
 टिप्पणी:   २५−(विद्युत्)तडिद्वच्चञ्चलता (स्तनयित्नुः) मेघगर्जनम्। शेषं गतम्-म० ५ ॥
 </details>
-

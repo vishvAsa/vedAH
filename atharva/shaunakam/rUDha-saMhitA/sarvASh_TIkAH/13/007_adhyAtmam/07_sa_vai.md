@@ -17,9 +17,14 @@ Nearly all our mss. (all save Bp.D.R.) accent *bhūmés* and *bhūmís*.
 स वै भूमे॑रजायत॒ तस्मा॒द् भूमि॑रजायत ॥३५॥
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स वै भूमे॑रजायत॒ तस्मा॒द्भूमि॑रजायत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। वै। भूमेः॑। अ॒जा॒य॒त॒। तस्मा॑त्। भूमिः॑। अ॒जा॒य॒त॒। ७.७। 
+सः। वै। भूमेः॑। अ॒जा॒य॒त॒। तस्मा॑त्। भूमिः॑। अ॒जा॒य॒त॒। ७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Nearly all our mss. (all save Bp.D.R.) accent *bhūmés* and *bhūmís*.
 
 टिप्पणी:   ३५−(भूमेः) कार्यरूपायाः पृथिव्याः (भूमिः) पृथिवी। अन्यद् गतम् ॥
 </details>
-

@@ -26,6 +26,12 @@ sapṛṣṭhene ’ṣṭvā ’varundhe*.
 The man who having this knowledge pours out milk and offers it wins for himself as much thereby as he gains by the perfor- mance of a very successful Agnishtoma sacrifice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स य ए॒वं वि॒द्वान्क्षी॒रमु॑प॒सिच्यो॑प॒हर॑ति।  
+याव॑दग्निष्टो॒मेने॒ष्ट्वा सुस॑मृद्धेनावरु॒न्द्धे ताव॑देने॒नाव॑ रुन्द्धे ॥ ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सः । यः । ए॒वम् । वि॒द्वान् । क्षी॒रम् । उ॒प॒ऽसिच्य॑ । उ॒प॒ऽहर॑ति ९.१।  

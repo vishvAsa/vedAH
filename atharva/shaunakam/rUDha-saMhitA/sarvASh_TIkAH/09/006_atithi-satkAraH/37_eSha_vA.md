@@ -20,9 +20,14 @@ syllable (unless we read *ná aśnīyāt*) of being full measure.
 The man should not eat before the guest who is a Brahman versed in holy lore.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒ष वा अति॑थि॒र्यच्छ्रोत्रि॑य॒स्तस्मा॒त्पूर्वो॒ नाश्नी॑यात् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒षः। वै। अति॑थिः। यत्। श्रोत्रि॑यः। तस्मा॑त्। पूर्वः॑। न। अ॒श्नी॒या॒त्। ८.७। 
+ए॒षः। वै। अति॑थिः। यत्। श्रोत्रि॑यः। तस्मा॑त्। पूर्वः॑। न। अ॒श्नी॒या॒त्। ८.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ The man should not eat before the guest who is a Brahman versed in holy lore.
 
 टिप्पणी:   ७−(यत्) यस्मात् कारणात् (श्रोत्रियः) श्रोत्रियंश्छन्दोऽधीते। पा० ५।२।८४। छन्दस्-घन्। वेदाध्येतृपुरुषः (तस्मात्) अतिथेः सकाशात् (न) निषेधे (अश्नीयात्) जेमेत्। अन्यत् पूर्ववत् ॥
 </details>
-

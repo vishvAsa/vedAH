@@ -21,9 +21,15 @@ Ppp. has in **a, b** *-pāṇaṁ yātudhānāt kimīdinaḥ*. The comm. makes
 Kimidin, Yatudhana from their hiding-places have I dragged. I look on every one with this, Sudra and Aryan man alike.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उद॑ग्रभं परि॒पाणा॑द्यातु॒धानं॑ किमी॒दिन॑म्।  
+तेना॒हं सर्वं॑ पश्याम्यु॒त शू॒द्रमु॒तार्य॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। अ॒ग्र॒भ॒म्। प॒रि॒ऽपाना॑त्। या॒तु॒ऽधान॑म्। कि॒मी॒दिन॑म्। तेन॑। अ॒हम्। सर्व॑म्। प॒श्या॒मि॒। उ॒त। शू॒द्रम्। उ॒त। आर्य॑म्। २०.८। 
+उत्। अ॒ग्र॒भ॒म्। प॒रि॒ऽपाना॑त्। या॒तु॒ऽधान॑म्। कि॒मी॒दिन॑म्। तेन॑। अ॒हम्। सर्व॑म्। प॒श्या॒मि॒। उ॒त। शू॒द्रम्। उ॒त। आर्य॑म्। २०.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Kimidin, Yatudhana from their hiding-places have I dragged. I look on every one 
 
 टिप्पणी:   ८−(उत् अग्रभम्) उत्कर्षेण अग्रहं गृहीतवानस्मि वशीकृतवानस्मि (परिपाणात्) परिरक्षणस्थानात्। हृदयदेशात् (यातुधानम्) यातनाप्रदम् (किमीदिनम्) म० ५। पिशुनरूपं स्वदोषम् (तेन) तेन कारणेन दोषनिग्रहेण। अन्यद् व्याख्यातं म० ४ ॥
 </details>
-

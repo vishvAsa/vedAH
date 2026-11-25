@@ -17,9 +17,14 @@ Indra, covered.
 To misty cloud filled with his rays Mahendra goes encompassed round.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+र॒श्मिभि॒र्नभ॒ आभृ॑तं महे॒न्द्र ए॒त्यावृ॑तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-र॒श्मिऽभिः॑। नभः॑। आऽभृ॑तम्। म॒हा॒ऽइ॒न्द्रः। ए॒ति॒। आऽवृ॑तः। ४.२। 
+र॒श्मिऽभिः॑। नभः॑। आऽभृ॑तम्। म॒हा॒ऽइ॒न्द्रः। ए॒ति॒। आऽवृ॑तः। ४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ To misty cloud filled with his rays Mahendra goes encompassed round.
 
 टिप्पणी:   २−(रश्मिभिः) किरणैः (नभः) मेघमण्डलम् (आभृतम्) समन्तात् पोषितम् (महेन्द्रः) परमैश्वर्यवान् (एति) व्याप्नोति (आवृतः) आच्छादितोऽन्तर्यामिरूपेण परमात्मा ॥
 </details>
-

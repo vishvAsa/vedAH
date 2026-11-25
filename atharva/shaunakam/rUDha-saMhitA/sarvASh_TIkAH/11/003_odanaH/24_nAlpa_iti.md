@@ -19,9 +19,14 @@ like, that is poured on'—we might render by 'sauce.'
 Would say, Not small, nor devoid of moistening sauce; not this, nor any- thing whatever.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नाल्प॒ इति॑ ब्रूया॒न्नानु॑पसेच॒न इति॒ नेदं च॒ किं चेति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। अल्पः॑। इति॑। ब्रू॒या॒त्। न। अ॒नु॒प॒ऽसे॒च॒नः। इति॑। न। इ॒दम्। च॒। किम्। च॒। इति॑। ३.२४। 
+न। अल्पः॑। इति॑। ब्रू॒या॒त्। न। अ॒नु॒प॒ऽसे॒च॒नः। इति॑। न। इ॒दम्। च॒। किम्। च॒। इति॑। ३.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Would say, Not small, nor devoid of moistening sauce; not this, nor any- thing w
 
 टिप्पणी:   २३, २४−(सः) योगिजनः (यः) (ओनदस्य) सुखवर्षकस्यान्नरूपस्य परमात्मनः (महिमानम्) महत्त्वम् (विद्यात्) जानीयात् (न) निषेधे (अल्पः) न्यूनः (इति) वाक्यसमाप्तौ (ब्रूयात्) वदेत् (न) न ब्रूयात् (अनुपसेचनः) षिच सेके-ल्युट्। उपसेचनेन वर्धनेन रहितः (इति) (न) निषेधे (इदम्) निर्दिष्टम् ब्रह्म (च च) (किम् च) किंचन (इति) ॥
 </details>
-

@@ -17,9 +17,15 @@ all regions we address: let them free us from distress.
 Vata, Parjanya we address, the Quarters, and the Firmament, And all the Regions of the sky: may they deliver us from woe.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वातं॑ ब्रूमः प॒र्जन्य॑म॒न्तरि॑क्ष॒मथो॒ दिशः॑।  
+आशा॑श्च॒ सर्वा॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वात॑म्। ब्रू॒मः॒। प॒र्जन्य॑म्। अ॒न्तरि॑क्षम्। अथो॒ इति॑। दिशः॑। आशाः॑। च। सर्वाः॑। ब्रू॒मः॒। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.६। 
+वात॑म्। ब्रू॒मः॒। प॒र्जन्य॑म्। अ॒न्तरि॑क्षम्। अथो॒ इति॑। दिशः॑। आशाः॑। च। सर्वाः॑। ब्रू॒मः॒। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Vata, Parjanya we address, the Quarters, and the Firmament, And all the Regions 
 
 टिप्पणी:   ६−(वातम्) वायुम् (ब्रूमः) (पर्जन्यम्) अ० २।१।२। पृषु सेचने-अन्य प्रत्ययः, षस्य जकारः। सेचकं मेघम् (अन्तरिक्षम्) आकाशम् (अथो) अपि च (दिशः) पूर्वाद्याः (आशाः) विदिशः (च) (सर्वाः) समस्ताः। अन्यद् गतम्-म० १ ॥
 </details>
-

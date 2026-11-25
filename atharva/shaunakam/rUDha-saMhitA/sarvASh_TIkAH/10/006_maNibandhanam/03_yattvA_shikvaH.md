@@ -23,9 +23,15 @@ the verse is used to accompany the washing off of an instrument or post.
 What though the strong-armed carpenter have cleft thee with his hand and axe. Pure animating waters shall cleanse thee and make thee bright again.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्त्वा॑ शि॒क्वः प॒राव॑धी॒त्तक्षा॒ हस्ते॑न॒ वास्या॑।  
+आप॑स्त्वा॒ तस्मा॑ज्जीव॒लाः पु॒नन्तु॒ शुच॑यः॒ शुचि॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। त्वा॒। शि॒क्वः। प॒रा॒ऽअव॑धीत्। तक्षा॑। हस्ते॑न। वास्या॑। आपः॑। त्वा॒। तस्मा॑त्। जी॒व॒लाः। पु॒नन्तु॑। शुच॑यः। शुचि॑म्। ६.३। 
+यत्। त्वा॒। शि॒क्वः। प॒रा॒ऽअव॑धीत्। तक्षा॑। हस्ते॑न। वास्या॑। आपः॑। त्वा॒। तस्मा॑त्। जी॒व॒लाः। पु॒नन्तु॑। शुच॑यः। शुचि॑म्। ६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ What though the strong-armed carpenter have cleft thee with his hand and axe. Pu
 
 टिप्पणी:   ३−(यत्) यदि (त्वा) (शिक्वः) अशूप्रुषिलटिकणि०। उ० १।१५१। शिञ् निशाने-क्विन् कुगागमश्च। छेत्ता (परा) दूरे (अवधीत्) अहिंसीत् (तक्षा) तनूकर्ता (हस्तेन) (वास्या) वसिवपियजि०। उ० ४।१२५। वस स्नेहच्छेदापहरणेषु-इन्। कुठारेण (आपः) अ० १०।५।६। विद्वांसः (त्वा) (तस्मात्) कष्टात् (जीवलाः) ला आदाने-क। जीवनदातारः (पुनन्तु) शोधयन्तु (शुचयः) पवित्रस्वभावाः (शुचिम्) पवित्रम् ॥
 </details>
-

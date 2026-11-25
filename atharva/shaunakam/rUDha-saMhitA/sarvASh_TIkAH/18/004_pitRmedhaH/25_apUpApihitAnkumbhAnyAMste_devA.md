@@ -22,9 +22,15 @@ grains"; the Kāuś. makes no mention of it.
 Let these which Gods have held for thee, these beakers covered o'er with cake, Be full of sacred food for thee, distilling fatness, rich in mead.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑पू॒पापि॑हितान्कु॒म्भान्यांस्ते॑ दे॒वा अधा॑रयन्।  
+ते ते॑ सन्तु स्व॒धाव॑न्तो॒मधु॑मन्तो घृत॒श्चुतः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पू॒पऽअ॑पिहितान्। कु॒म्भान्। यान्। ते॒। दे॒वाः। अधा॑रयन्। ते। ते॒। स॒न्तु॒। स्व॒धाऽव॑न्तः। मधु॑ऽमन्तः। घृ॒त॒ऽश्चुतः॑। ४.२५। 
+अ॒पू॒पऽअ॑पिहितान्। कु॒म्भान्। यान्। ते॒। दे॒वाः। अधा॑रयन्। ते। ते॒। स॒न्तु॒। स्व॒धाऽव॑न्तः। मधु॑ऽमन्तः। घृ॒त॒ऽश्चुतः॑। ४.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Let these which Gods have held for thee, these beakers covered o'er with cake, B
 
 टिप्पणी:   २५−अयं मन्त्रो व्याख्यातः-अ० १८।३।६८ ॥
 </details>
-

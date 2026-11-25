@@ -17,9 +17,15 @@ there the gods won the *kúṣṭha*, the sight of immortality.
 In the third heaven above us stands the Asvattha tree, the seat of Gods. There the Gods gained the Kushtha plant, embodiment of end- less life.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
+तत्रा॒मृत॑स्य॒ चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒श्व॒त्थः। दे॒व॒ऽसद॑नः। तृ॒तीय॑स्याम्। इ॒तः। दि॒वि। तत्र॑। अ॒मृत॑स्य। चक्ष॑णम्। दे॒वाः। कुष्ठ॑म्। अ॒व॒न्व॒त॒। ९५.१। 
+अ॒श्व॒त्थः। दे॒व॒ऽसद॑नः। तृ॒तीय॑स्याम्। इ॒तः। दि॒वि। तत्र॑। अ॒मृत॑स्य। चक्ष॑णम्। दे॒वाः। कुष्ठ॑म्। अ॒व॒न्व॒त॒। ९५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 
 टिप्पणी:   १−(अश्वत्थः) अ० ३।६।१। अश्व+ष्ठा गतिनिवृत्तौ−क, पृषोदरादिरूपम्। अश्वानां कर्मसु व्यापनशीलानां वीराणां स्थितिदेशः। (तृतीयस्याम्) निकृष्टमध्यमाभ्यां परायां श्रेष्ठायाम् (दिवि) गतौ (कुष्ठम्) अ० ५।४।१। कुष निष्कर्षे−क्थन्। गुणपरीक्षकम् (अवन्वत) याचितवन्तः। अन्यद् गतम्−अ० ५।४।३ ॥
 </details>
-

@@ -24,9 +24,15 @@ in its iii.⌋ The definition of the meter by the Anukr. seems senseless
 Unborn art thou, O Goat: to heaven thou goest. Though thee Angirases knew that radiant region. So may I know that holy world.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒जो॒३॒॑स्यज॑ स्व॒र्गो᳡सि॒ त्वया॑ लो॒कमङ्गि॑रसः॒ प्राजा॑नन्।  
+तं लो॒कं पुण्यं॒ प्र ज्ञे॑षम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒जः। अ॒सि॒। अज॑। स्वः॒ऽगः। अ॒सि॒। त्वया॑। लो॒कम्। अङ्गि॑रसः। प्र। अ॒जा॒न॒न्। तम्। लो॒कम्। पुण्य॑म्। प्र। ज्ञे॒ष॒म्। ५.१६। 
+अ॒जः। अ॒सि॒। अज॑। स्वः॒ऽगः। अ॒सि॒। त्वया॑। लो॒कम्। अङ्गि॑रसः। प्र। अ॒जा॒न॒न्। तम्। लो॒कम्। पुण्य॑म्। प्र। ज्ञे॒ष॒म्। ५.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Unborn art thou, O Goat: to heaven thou goest. Though thee Angirases knew that r
 
 टिप्पणी:   १६−(अजः) गतिशीलः (असि) (अज) हे अजन्मन् जीवात्मन् (स्वर्गः) सुखप्रापकः (असि) (त्वया) (लोकम्) द्रष्टव्यं परमात्मानम् (अङ्गिरसः) अ० २।१२।४। ज्ञानिनः (प्र) (अजानन्) ज्ञातवन्तः (तम्) प्रसिद्धम् (लोकम्) दर्शनीयमीश्वरम् (पुण्यम्) पवित्रम् (प्र) (ज्ञेषम्) सिब् बहुलं लेटि। पा० ३।१।३४। जानातेर्लेटि। सिपीटि च रूपम्। जानीयाम् ॥
 </details>
-

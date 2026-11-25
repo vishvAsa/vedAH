@@ -8,9 +8,15 @@ title = "०२ न घा"
 He, excellent, withholdeth not his gift of power and wealth in kine, When he hath listened to our songs.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+न घा॒ वसु॒र्नि य॑मते दा॒नं वाज॑स्य॒ गोम॑तः।  
+यत्सी॒मुप॒ श्रव॒द्गिरः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। च॒। वसुः॑। नि। य॒म॒ते॒। दा॒नम्। वाज॑स्य। गोऽम॑तः। यत्। सी॒म्। उप॑। श्रव॑त्। गिरः॑। ७८.२। 
+न। च॒। वसुः॑। नि। य॒म॒ते॒। दा॒नम्। वाज॑स्य। गोऽम॑तः। यत्। सी॒म्। उप॑। श्रव॑त्। गिरः॑। ७८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ He, excellent, withholdeth not his gift of power and wealth in kine, When he hat
 
 टिप्पणी:   २−(न) निषेधे (घ) एव (वसुः) वासयिता (नि) नितराम् (यमते) यमु उपरमे। उपरतं निरुद्धं कुर्यात् (दानम्) (वाजस्य) बलस्य (गोमतः) प्रशस्तविद्यायुक्तस्य (यत्) यदा (सीम्) सर्वतः (उप) समीपे (श्रवत्) शृणुयात् (गिरः) वाणीः ॥
 </details>
-

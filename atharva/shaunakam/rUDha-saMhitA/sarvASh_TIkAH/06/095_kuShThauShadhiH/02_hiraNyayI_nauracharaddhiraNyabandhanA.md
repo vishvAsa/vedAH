@@ -22,9 +22,15 @@ But a note in his copy of the printed text here seems to prefer
 There moved through heaven a golden ship, a ship with cordage wrought of gold. There Gods obtained the Kushtha plant, the flower of immor- tality.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
+तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हि॒र॒ण्ययी॑। नौः। अ॒च॒र॒त्। हिर॑ण्यऽबन्धना। दि॒वि। तत्र॑। अ॒मृत॑स्य। पुष्प॑म्। दे॒वाः। कुष्ठ॑म्। अ॒व॒न्व॒त॒। ९५.२। 
+हि॒र॒ण्ययी॑। नौः। अ॒च॒र॒त्। हिर॑ण्यऽबन्धना। दि॒वि। तत्र॑। अ॒मृत॑स्य। पुष्प॑म्। दे॒वाः। कुष्ठ॑म्। अ॒व॒न्व॒त॒। ९५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold. T
 
 टिप्पणी:   २−(हिरण्ययी) तेजोमयी अग्निना विद्युता सूर्येण वा गन्त्री (दिवि) गमने ॥ अन्यद्यथा−अ० ५।४।४ ॥
 </details>
-

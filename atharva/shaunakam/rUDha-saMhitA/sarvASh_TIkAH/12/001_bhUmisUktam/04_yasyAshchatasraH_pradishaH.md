@@ -33,9 +33,15 @@ verse is, if we make no resolutions in **d**, a regular triṣṭubh.
 She who is Lady of the earth's four regions, in whom our food and corn-lands had their being, Nurse in each place of breathing, moving creatures, this Earth. vouchsafe us kine with milk that fails not!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्या॒श्चत॑स्रः प्र॒दिशः॑ पृथि॒व्या यस्या॒मन्नं कृ॒ष्टयः॑ संबभू॒वुः।  
+या बिभ॑र्ति बहु॒धा प्रा॒णदेज॒त्सा नो॒ भूमि॒र्गोष्वप्यन्ने॑ दधातु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्याः॑। चत॑स्रः। प्र॒ऽदिशः॑। पृ॒थि॒व्याः। यस्या॑म्। अन्न॑म्। कृ॒ष्टयः॑। स॒म्ऽब॒भू॒वुः। या। बिभ॑र्ति। ब॒हु॒ऽधा। प्रा॒णत्। एज॑त्। सा। नः॒। भूमिः॑। गोषु॑। अपि॑। अन्ने॑। द॒धा॒तु॒। १.४। 
+यस्याः॑। चत॑स्रः। प्र॒ऽदिशः॑। पृ॒थि॒व्याः। यस्या॑म्। अन्न॑म्। कृ॒ष्टयः॑। स॒म्ऽब॒भू॒वुः। या। बिभ॑र्ति। ब॒हु॒ऽधा। प्रा॒णत्। एज॑त्। सा। नः॒। भूमिः॑। गोषु॑। अपि॑। अन्ने॑। द॒धा॒तु॒। १.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -65,4 +71,3 @@ She who is Lady of the earth's four regions, in whom our food and corn-lands had
 
 टिप्पणी:   ४−(यस्याः) (चतस्रः) (प्रदिशः) महादिशाः (पृथिव्याः) भूमेः (या) (बिभर्ति) पोषयति (बहुधा) अनेकप्रकारेण (प्राणत्) श्वासं कुर्वत् (एजत्) चेष्टायमानं जगत् (सा) (नः) अस्मान् (भूमिः) (गोषु) धेनुषु (अपि) (अन्ने) (दधातु) धरतु। अन्यत् पूर्ववत्−म० ३ ॥
 </details>
-

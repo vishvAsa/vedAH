@@ -8,9 +8,14 @@ title = "०४ हरिक्निके किमिच्छसि"
 One of them is Hariknika. Hariknika, what seekest thou? (with previous verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+हरि॑क्नि॒के किमि॑च्छसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हरि॑क्नि॒के। क‍िम्। इ॑च्छस‍ि। १२९.४। 
+हरि॑क्नि॒के। क‍िम्। इ॑च्छस‍ि। १२९.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ One of them is Hariknika. Hariknika, what seekest thou? (with previous verse)
 
 टिप्पणी:   ४−(हरिक्निके) म० ३। हे मनुष्येच्छुके (किम्) (इच्छसि) कामयसे ॥
 </details>
-

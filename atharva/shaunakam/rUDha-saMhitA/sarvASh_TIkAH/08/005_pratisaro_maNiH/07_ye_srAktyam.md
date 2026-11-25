@@ -18,9 +18,15 @@ Ppp. puts *iva* after *divam* in **c**.
 Whoever for his armour takes an amulet of the Sraktya tree, Like the Sun risen up to heaven, quells witchcraft with superior might.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये स्रा॒क्त्यं म॒णिं जना॒ वर्मा॑णि कृ॒ण्वते॑।  
+सूर्य॑ इव॒ दिव॑मा॒रुह्य॒ वि कृ॒त्या बा॑धते व॒शी ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। स्रा॒क्त्यम्। म॒णिम्। जनाः॑। वर्मा॑णि। कृ॒ण्वते॑। सूर्यः॑ऽइव। दिव॑म्। आ॒ऽरुह्य॑। वि। कृ॒त्याः। बा॒ध॒ते॒। व॒शी। ५.७। 
+ये। स्रा॒क्त्यम्। म॒णिम्। जनाः॑। वर्मा॑णि। कृ॒ण्वते॑। सूर्यः॑ऽइव। दिव॑म्। आ॒ऽरुह्य॑। वि। कृ॒त्याः। बा॒ध॒ते॒। व॒शी। ५.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Whoever for his armour takes an amulet of the Sraktya tree, Like the Sun risen u
 
 टिप्पणी:   ७−(ये) (स्राक्त्यम्) म० ४। उद्योगिनम् (मणिम्) म० १। श्रेष्ठनियमम् (जनाः) लोकाः (कृण्वते) कुर्वते (सूर्य इव) (दिवम्) आकाशम् (आरुह्य) अधिष्ठाय (वि) विशेषेण (कृत्याः) हिंसाः (बाधते) निवारयति (वशी) वशयिता पुरुषः ॥
 </details>
-

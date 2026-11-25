@@ -23,9 +23,15 @@ Muir, v. 403.⌋
 Agni Kama in other homes shines forth the sole imperial Lord of all that is and is to be.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्निः परे॑षु॒ धाम॑सु॒ कामो॑ भू॒तस्य॒ भव्य॑स्य।  
+स॒म्राडेको॒ वि रा॑जति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। परे॑षु। धाम॑ऽसु। कामः॑। भूतस्य॑। भव्य॑स्य। स॒म्ऽराट्‌। एकः॑। वि। रा॒ज॒ति॒। ३६.३। 
+अ॒ग्निः। परे॑षु। धाम॑ऽसु। कामः॑। भूतस्य॑। भव्य॑स्य। स॒म्ऽराट्‌। एकः॑। वि। रा॒ज॒ति॒। ३६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Agni Kama in other homes shines forth the sole imperial Lord of all that is and 
 
 टिप्पणी:   ३−(अग्निः) सर्वव्यापकः परमेश्वरः (परेषु) दूरेषु (धामसु) स्थानेषु (कामः) कमु कान्तौ−घञ्। कमनीयः (भूतस्य) अतीतस्य (भव्यस्य) भविष्यतः कालस्य (सम्राट्) राजाधिराज (एकः) अद्वितीयः (वि) विविधम् (राजति) ईष्टे ॥
 </details>
-

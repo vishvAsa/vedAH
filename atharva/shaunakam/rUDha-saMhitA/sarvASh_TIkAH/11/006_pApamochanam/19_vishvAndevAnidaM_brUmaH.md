@@ -18,9 +18,15 @@ distress.
 This we address to all the Gods, faithful, maintainers of the Right, With all their Consorts by their side: may they deliver us from woe.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+विश्वा॑न्दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑।  
+विश्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-विश्वा॑न्। दे॒वान्। इ॒दम्। ब्रू॒मः॒। स॒त्यऽसं॑धान्। ऋ॒त॒ऽवृधः॑। विश्वा॑भिः। पत्नी॑भिः। स॒ह। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१९। 
+विश्वा॑न्। दे॒वान्। इ॒दम्। ब्रू॒मः॒। स॒त्यऽसं॑धान्। ऋ॒त॒ऽवृधः॑। विश्वा॑भिः। पत्नी॑भिः। स॒ह। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ This we address to all the Gods, faithful, maintainers of the Right, With all th
 
 टिप्पणी:   १९−(विश्वान्) सर्वान् (देवान्) विजिगीषून् (इदम्) इदानीम् (सत्यसंधान्) सत्यप्रतिज्ञान् (ऋतवृधः) सत्यज्ञानस्य वर्धयितॄन् (पत्नीभिः) अ० २।१२।१। योषिद्भिः। पालनशक्तिभिः (सह) अन्यत् पूर्ववत् ॥
 </details>
-

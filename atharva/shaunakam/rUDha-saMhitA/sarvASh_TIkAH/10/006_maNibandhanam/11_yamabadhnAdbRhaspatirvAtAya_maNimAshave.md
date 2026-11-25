@@ -26,9 +26,15 @@ unimportant exchanges and variants; the details are not given.
 The Amulet Brihaspati bound on the swiftly-moving Wind. This yieldeth him a vigorous steed, again, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+सो अ॑स्मै वा॒जिन॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। अब॑ध्नात्। बृह॒स्पतिः॑। वाता॑य। म॒णिम्। आ॒शवे॑। सः। अ॒स्मै॒। वा॒जिन॑म्। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.११। 
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। वाता॑य। म॒णिम्। आ॒शवे॑। सः। अ॒स्मै॒। वा॒जिन॑म्। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ The Amulet Brihaspati bound on the swiftly-moving Wind. This yieldeth him a vigo
 
 टिप्पणी:   ११−(वाताय) अ० १।११।६। वा गतौ-तन्। गमनशीलाय। उद्योगिने (आशवे) कृवापा०। उ० १।१। अश भोजने-उण्। भोक्त्रे प्राणिने (वाजिनम्) महेरिनण् च। उ० २।५६। वज गतौ-इनण्। बलम्। अन्यत् पूर्ववत् ॥
 </details>
-

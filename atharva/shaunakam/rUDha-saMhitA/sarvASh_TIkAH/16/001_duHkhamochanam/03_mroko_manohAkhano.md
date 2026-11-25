@@ -24,9 +24,14 @@ and notes the names of the ten Agnis here rehearsed in vss. 2, 3.⌋
 Mroka, mind-destroying, rooting up, consuming, ruiner of the soul, ruiner of the body.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+म्रो॒को म॑नो॒हाख॒नो नि॑र्दा॒ह आ॑त्म॒दूषि॑स्तनू॒दूषिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-म्रो॒कः। म॒नः॒ऽहा। ख॒नः। निः॒ऽदा॒हः। आ॒त्म॒ऽदूषिः॑। त॒नू॒ऽदूषिः॑। १.३। 
+म्रो॒कः। म॒नः॒ऽहा। ख॒नः। निः॒ऽदा॒हः। आ॒त्म॒ऽदूषिः॑। त॒नू॒ऽदूषिः॑। १.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +61,3 @@ Mroka, mind-destroying, rooting up, consuming, ruiner of the soul, ruiner of the
 
 टिप्पणी:   ३−(म्रोकः) म्रुचु गतौवेदे तु हिंसने-घञ्, कुत्वम्। हिंसकः (मनोहा) मनोनाशकः (खनः) खनु विदारणे-अच्।विदारकः। पीडकः (निर्दाहः) निरन्तरदाहकः (आत्मदूषिः) आत्मदूषको रोगः (तनूदूषिः)शरीरदूषकः ॥
 </details>
-

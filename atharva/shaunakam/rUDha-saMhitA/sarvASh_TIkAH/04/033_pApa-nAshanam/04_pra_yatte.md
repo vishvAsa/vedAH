@@ -17,9 +17,15 @@ propagated for thee with progeny—gleaming away our evil—
 So that thy worshipper and we, thine, Agni! in our sons may live. His lustre flash our pain away!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र यत्ते॑ अग्ने सू॒रयो॒ जाये॑महि॒ प्र ते॑ व॒यम्।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र। यत्। ते॒। अ॒ग्ने॒। सू॒रयः॑। जाये॑महि। प्र। ते॒। व॒यम्। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.४। 
+प्र। यत्। ते॒। अ॒ग्ने॒। सू॒रयः॑। जाये॑महि। प्र। ते॒। व॒यम्। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ So that thy worshipper and we, thine, Agni! in our sons may live. His lustre fla
 
 टिप्पणी:   ४−(प्र) इत्यस्य, जायेमहि, इति क्रियया सह सम्बन्धः। प्रजायन्ते प्रजाः सन्ति (यत्) यस्य (ते) तव (अग्ने) परमात्मन् (सूरयः) विद्वांसः (प्र जायेमहि) प्रजा भवेम (ते) तस्य तव (वयम्) उपासकाः। अन्यद्गतम् ॥
 </details>
-

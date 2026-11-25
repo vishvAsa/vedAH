@@ -19,9 +19,15 @@ I.e., if such is his wish. Ppp. reads, for **b**, *pāpātmam aparājitaḥ*.
 A base Rajanya, spoiled at dice, and ruined by himself, may eat. The Brahman's cow and think, To-day and not tomorrow, let me live!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒क्षद्रु॑ग्धो राज॒न्यः॑ पा॒प आ॑त्मपराजि॒तः।  
+स ब्रा॑ह्म॒णस्य॒ गाम॑द्याद॒द्य जी॒वानि॒ मा श्वः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒क्षऽद्रु॑ग्धः। रा॒ज॒न्यः᳡। पा॒पः। आ॒त्म॒ऽप॒रा॒जि॒तः। सः। ब्रा॒ह्म॒णस्‍य॑। गाम्। अ॒द्या॒त्। अ॒द्य। जी॒वा॒नि॒। श्वः। १८.२। 
+अ॒क्षऽद्रु॑ग्धः। रा॒ज॒न्यः᳡। पा॒पः। आ॒त्म॒ऽप॒रा॒जि॒तः। सः। ब्रा॒ह्म॒णस्‍य॑। गाम्। अ॒द्या॒त्। अ॒द्य। जी॒वा॒नि॒। श्वः। १८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ A base Rajanya, spoiled at dice, and ruined by himself, may eat. The Brahman's c
 
 टिप्पणी:   २−(अक्षद्रुग्धः) अक्षैरिन्द्रियैर्नाशितः। अजितेन्द्रियः (राजन्यः) राजा (पापः) पाप−अर्शआद्यच्। दुष्टः (आत्मपराजितः) आत्मना पराभूतः (सः) (ब्राह्मणस्य) वेदवेत्तुः विप्रस्य (गाम्) वाणीम् (अद्यात्) भक्षयेत् (अद्य) अस्मिन् दिने (मा) निषेधे (श्वः) आगामिनि दिवसे ॥
 </details>
-

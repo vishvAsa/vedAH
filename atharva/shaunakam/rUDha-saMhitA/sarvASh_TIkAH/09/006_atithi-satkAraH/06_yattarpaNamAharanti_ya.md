@@ -18,9 +18,14 @@ Ppp. adds after this verse *yat khātam āharanti puroḍāśā eva te*.
 The libation which they bring; the sacrificial victim dedicated to Agni and Soma which is tied to the post, that, verily, is this man.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्तर्प॑णमा॒हर॑न्ति॒ य ए॒वाग्नी॑षो॒मीयः॑ प॒शुर्ब॒ध्यते॒ स ए॒व सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। तर्प॑णम्। आ॒ऽह॑रन्ति। यः। ए॒व। अ॒ग्नी॒षो॒मीयः॑। प॒शुः। ब॒ध्यते॑। सः। ए॒व। सः। ६.६। 
+यत्। तर्प॑णम्। आ॒ऽह॑रन्ति। यः। ए॒व। अ॒ग्नी॒षो॒मीयः॑। प॒शुः। ब॒ध्यते॑। सः। ए॒व। सः। ६.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ The libation which they bring; the sacrificial victim dedicated to Agni and Soma
 
 टिप्पणी:   ६−(यत्) यदा (तर्पणम्) तृप्तिकरं द्रव्यम् (आहरन्ति) आनयन्ति गृहस्थाः (यः) अतिथिः (एव) (अग्नीषोमीयः) अङ्गेर्नलोपश्च। उ० ४।५०। अगि गतौ-नि। अर्त्तिस्तुसुहु०। उ० १।१४०। षु ऐश्वर्ये-मन्। तस्मै हितम्। पा० ५।१।५। इति छ प्रत्ययः। अग्नीषोमाभ्यां ज्ञानैश्वर्याभ्यां हितः (पशुः) अ० ३।२८।१। समदर्शी देवः। संन्यासी (बध्यते) बध संयमने वा बन्ध बन्धने-कर्मणि यक्। प्रेमबन्धने क्रियते (सः) (एव) (सः) अतिथिः ॥
 </details>
-

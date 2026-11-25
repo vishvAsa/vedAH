@@ -18,9 +18,15 @@ Put after vs. 20 in Ppp., as noted above.
 The Sky hath raised thee, and the Earth, Prajapati hath raised thee up. The Plants and Herbs with Soma as their King have rescued thee from Death.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उत्त्वा॒ द्यौरुत्पृ॑थि॒व्युत्प्र॒जाप॑तिरग्रभीत्।  
+उत्त्वा॑ मृ॒त्योरोष॑धयः॒ सोम॑राज्ञीरपीपरन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। त्वा॒। द्यौः। उत्। पृ॒थि॒वी। उत्। प्र॒जाऽप॑तिः। अ॒ग्र॒भी॒त्। उत्। त्वा॒। मृ॒त्योः। ओष॑धयः। सोम॑ऽराज्ञीः। अ॒पी॒प॒र॒न्। १.१७। 
+उत्। त्वा॒। द्यौः। उत्। पृ॒थि॒वी। उत्। प्र॒जाऽप॑तिः। अ॒ग्र॒भी॒त्। उत्। त्वा॒। मृ॒त्योः। ओष॑धयः। सोम॑ऽराज्ञीः। अ॒पी॒प॒र॒न्। १.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The Sky hath raised thee, and the Earth, Prajapati hath raised thee up. The Plan
 
 टिप्पणी:   १७−(उत्) ऊर्ध्वम् (त्वा) त्वाम् (द्यौः) प्रकाशमानः सूर्यः (पृथिवी) (प्रजापतिः) प्रजापालको जगदीश्वरः (अग्रभीत्) गृहीतवान् (मृत्योः) मृत्युरूपदुःखात् (ओषधयः) अन्नादिपदार्थाः (सोमराज्ञीः) सोमोऽमृतं चन्द्रो वा राजा यासां ताः (अपीपरन्) पॄ पालनपूरणयोः-लुङ्। अपालयन् ॥
 </details>
-

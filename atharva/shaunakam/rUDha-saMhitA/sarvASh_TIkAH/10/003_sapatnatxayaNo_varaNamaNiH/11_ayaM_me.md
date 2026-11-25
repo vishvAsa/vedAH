@@ -20,9 +20,15 @@ authorize. Ppp. also exchanges the second halves of vss. 11 and 12.
 This Varana is on my breast, the sovran, the celestial Plant. Let it afflict my foemen as Indra quelled fiends and Asuras.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒यं मे॑ वर॒ण उर॑सि॒ राजा॑ दे॒वो वन॒स्पतिः॑।  
+स मे॒ शत्रू॒न्वि बा॑धता॒मिन्द्रो॒ दस्यू॑नि॒वासु॑रान् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। मे॒। व॒र॒णः। उर॑सि। राजा॑। दे॒वः। वन॒स्पतिः॑। सः। मे॒। शत्रू॑न्। वि। बा॒ध॒ता॒म्। इन्द्रः॑। दस्यू॑न्ऽइव। असु॑रान्। ३.११। 
+अ॒यम्। मे॒। व॒र॒णः। उर॑सि। राजा॑। दे॒वः। वन॒स्पतिः॑। सः। मे॒। शत्रू॑न्। वि। बा॒ध॒ता॒म्। इन्द्रः॑। दस्यू॑न्ऽइव। असु॑रान्। ३.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ This Varana is on my breast, the sovran, the celestial Plant. Let it afflict my 
 
 टिप्पणी:   ११−(उरसि) हृदये (राजा) ऐश्वर्यवान् (शत्रून्) अरीन् (वि) विशेषेण (बाधताम्) निवारयतु (इन्द्रः) परमैश्वर्यवान् (दस्यून्) चौरान् महासाहसिकान् (इव) यथा (असुरान्) सज्जनविरोधकान् ॥
 </details>
-

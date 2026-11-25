@@ -22,6 +22,14 @@ time 10 + 6 + 6 = 22. Bp.Bp.²p.m.D. read *várṣam*, and several of the
 For him the Rain-cloud murmurs when present, sings the pre- lude when thundering, joins in when lightening, chants the psalm when raining, and takes up the conclusion when it stays the downpour. He who hath this knowledge is the abiding- place of welfare, of progeny, and of cattle.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मा॑ अ॒भ्रो भव॒न् हिङ्कृ॑णोति स्त॒नय॒न् प्र स्तौ॑ति ।  
+वि॒द्योत॑मानः॒ प्रति॑ हरति॒ वर्ष॒न्नुद्गा॑यत्युद्गृह्णन् नि॒धन॑म्।  
+नि॒धनं॒ भूत्याः॑ प्र॒जायाः॑ पशू॒नां भ॑वति॒ य ए॒वं वेद॑ ।  
+अति॑थी॒न् प्रति॑ पश्यति॒ हिङ्कृ॑णोत्य॒भि व॑दति॒ प्र स्तौ॑त्युद॒कं याच॒त्युद्गा॑यति ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 तस्मै॑ । अ॒भ्रः । भव॑न् । हिङ् । कृ॒णो॒ति॒ । स्त॒नय॑न् । प्र । स्तौ॒ति॒ ॥ १०.६।  

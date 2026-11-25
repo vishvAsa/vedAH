@@ -19,9 +19,14 @@ regular *sāmnī bṛhatī*.
 Utter destruction when she moveth her ears this way and that, Consumption when she droppeth water;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑र्वज्या॒निः कर्णौ॑ वरीव॒र्जय॑न्ती राजय॒क्ष्मो मेह॑न्ती ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒र्व॒ऽज्या॒निः। कर्णौ॑। व॒री॒व॒र्जय॑न्ती। रा॒ज॒ऽय॒क्ष्मः। मेह॑न्ती। ७.११। 
+स॒र्व॒ऽज्या॒निः। कर्णौ॑। व॒री॒व॒र्जय॑न्ती। रा॒ज॒ऽय॒क्ष्मः। मेह॑न्ती। ७.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Utter destruction when she moveth her ears this way and that, Consumption when s
 
 टिप्पणी:   २२−(सर्वज्यानिः) अ० ११।३।५५। वीज्याज्वरिभ्यो निः। उ० ४।४८। ज्या वयोहानौ−नि। सर्वहानिकरः (कर्णौ) अ० १२।४।६। कॄ विज्ञाने−न प्रत्ययो नित्। अभ्युदयनिःश्रेयसबोधौ (वरीवर्जयन्ती) वृजी वर्जने यङ्लुकि शतृ। भृशं वर्जयन्ती (राजयक्ष्मः) राजरोगः (मेहन्ती) सिञ्चती धार्मिकान् ॥
 </details>
-

@@ -24,9 +24,15 @@ The first part of the verse (as noted above) is wanting in Ppp.
 Agni is in the earth, in plants; the waters hold Agni in them, in the stones is Agni. Agni abideth deep in men: Agnis abide in cows and steeds.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्निर्भूम्या॒मोष॑धीष्व॒ग्निमापो॑ बिभ्रत्य॒ग्निरश्म॑सु।  
+अ॒ग्निर॒न्तः पुरु॑षेषु॒ गोष्वश्वे॑ष्व॒ग्नयः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। भूम्या॑म्। ओष॑धीषु। अ॒ग्निम्। आपः॑। बि॒भ्र॒ति॒। अ॒ग्निः। अश्म॑ऽसु। अ॒ग्निः। अ॒न्तः। पुरु॑षेषु। गोषु॑। अश्वे॑षु। अ॒ग्नयः॑। १.१९। 
+अ॒ग्निः। भूम्या॑म्। ओष॑धीषु। अ॒ग्निम्। आपः॑। बि॒भ्र॒ति॒। अ॒ग्निः। अश्म॑ऽसु। अ॒ग्निः। अ॒न्तः। पुरु॑षेषु। गोषु॑। अश्वे॑षु। अ॒ग्नयः॑। १.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Agni is in the earth, in plants; the waters hold Agni in them, in the stones is 
 
 टिप्पणी:   १९−(अग्निः) अग्नितापः (भूम्याम्) पृथिव्याम् (ओषधीषु) अन्नसोमलतादिषु (अग्निम्) तापम् (आपः) जलानि (बिभ्रति) धारयन्ति (अग्निः) (अश्मसु) अ० १।२।२। पाषाणेषु। मेघेषु−निघ० १।१०। (अग्निः) (अन्तः) मध्ये (पुरुषेषु) (गोषु) (अश्वेषु) (अग्नयः) अग्नितापाः ॥
 </details>
-

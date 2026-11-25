@@ -8,9 +8,15 @@ title = "०१ इन्द्र क्रतुम्"
 O Indra, give us wisdom as a sire gives wisdom to his sons. Guide us, O Much-invoked, on this our foray: may we, living, still enjoy the light.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्र॒ क्रतुं॑ न॒ आ भ॑र पि॒ता पु॒त्रेभ्यो॒ यथा॑।  
+शिक्षा॑ णो अ॒स्मिन्पु॑रुहूत॒ याम॑नि जी॒वा ज्योति॑रशीमहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑। क्रतु॑म्। नः॒। आ। भ॒र॒। पि॒ता। पु॒त्रेभ्यः॑। यथा॑। शिक्ष॑। नः॒। अ॒स्मिन्। पु॒रु॒ऽहू॒त॒। याम॑नि। जी॒वाः। ज्योतिः॑। अ॒शी॒म॒ह‍ि॒। ७९.१। 
+इन्द्र॑। क्रतु॑म्। नः॒। आ। भ॒र॒। पि॒ता। पु॒त्रेभ्यः॑। यथा॑। शिक्ष॑। नः॒। अ॒स्मिन्। पु॒रु॒ऽहू॒त॒। याम॑नि। जी॒वाः। ज्योतिः॑। अ॒शी॒म॒ह‍ि॒। ७९.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ O Indra, give us wisdom as a sire gives wisdom to his sons. Guide us, O Much-inv
 
 टिप्पणी:   मन्त्र १ आचुका है-अ० १८।३।६७ ॥  १−अयं मन्त्रो व्याख्यातः- अ० १८।३।६७ ॥
 </details>
-

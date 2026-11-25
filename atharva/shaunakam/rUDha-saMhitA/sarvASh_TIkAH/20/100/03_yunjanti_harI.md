@@ -8,9 +8,15 @@ title = "०३ युञ्जन्ति हरी"
 With holy song they bind to the broad wide-yoked car the bay steeds of the rapid God, Bearers of India, yoked by prayer.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यु॒ञ्जन्ति॒ हरी॑ इषि॒रस्य॒ गाथ॑यो॒रौ रथ॑ उ॒रुयु॑गे।  
+इ॑न्द्र॒वाहा॑ वचो॒युजा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यु॒ञ्जन्ति। हरी॒ इति॑। इ॒षि॒रस्य॑। गाथ॑या। उ॒रौ। रथे॑। उ॒रुऽयु॑गे। इ॒न्द्र॒ऽवाहा॑। व॒चः॒ऽयुजा॑। १००.३। 
+यु॒ञ्जन्ति। हरी॒ इति॑। इ॒षि॒रस्य॑। गाथ॑या। उ॒रौ। रथे॑। उ॒रुऽयु॑गे। इ॒न्द्र॒ऽवाहा॑। व॒चः॒ऽयुजा॑। १००.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ With holy song they bind to the broad wide-yoked car the bay steeds of the rapid
 
 टिप्पणी:   ३−(युञ्जन्ति) योजयन्ति (हरी) अश्वौ (इषिरस्य) शीघ्रगामिनो राज्ञः (गाथया) गायनीयया प्रशंसया (उरौ) महति (रथे) याने (उरुयुगे) महायुगयुक्ते (इन्द्रवाहा) इन्द्रस्य वोढारौ (वचोयुजा) वचनेन युज्यमानौ। सुशिक्षितौ ॥
 </details>
-

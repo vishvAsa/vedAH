@@ -13,9 +13,14 @@ title = "१५ ब्रह्मणा परिगृहीता"
 Received by the Brahman, it has been carried round.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रह्म॑णा॒ परि॑गृहीता॒ साम्ना॒ पर्यू॑ढा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑णा। परि॑ऽगृहिता। साम्ना॑। परि॑ऽऊढा। ३.१५। 
+ब्रह्म॑णा। परि॑ऽगृहिता। साम्ना॑। परि॑ऽऊढा। ३.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,4 +50,3 @@ Received by the Brahman, it has been carried round.
 
 टिप्पणी:   १५−(ब्रह्मणा) ब्रह्मवादिना ब्राह्मणेन (परिगृहीता) स्वीकृता (साम्ना) षो अन्तकर्मणि-मनिन्। दुःखनाशकेन मोक्षज्ञानेन (पर्यूढा) वह प्रापणे-क्त। सर्वतो नीता ॥
 </details>
-

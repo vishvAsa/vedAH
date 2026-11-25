@@ -29,9 +29,15 @@ suggestion about the Yatis, note to ii. 5. 3.⌋
 With this I overcome my foes as Indra overcame the wolves. Refute mine adversary's speech! Render them dull and flat, O Plant.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तया॒हं शत्रू॑न्त्साक्ष॒ इन्द्रः॑ सालावृ॒काँ इ॑व।  
+प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तया॑। अ॒हम्। शत्रु॑न्। सा॒क्षे॒। इन्द्रः॑। सा॒ला॒वृ॒कान्ऽइ॑व। प्राश॑म्। प्रति॑ऽप्राशः। ज॒हि॒। अ॒र॒सान्। कृ॒णु॒। ओ॒ष॒धे॒। २७.५। 
+तया॑। अ॒हम्। शत्रु॑न्। सा॒क्षे॒। इन्द्रः॑। सा॒ला॒वृ॒कान्ऽइ॑व। प्राश॑म्। प्रति॑ऽप्राशः। ज॒हि॒। अ॒र॒सान्। कृ॒णु॒। ओ॒ष॒धे॒। २७.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,4 +67,3 @@ With this I overcome my foes as Indra overcame the wolves. Refute mine adversary
 
 टिप्पणी:   ५–तया। पाटया। तत्प्रभावेन। शत्रून्। वैरिणः। साक्षे। षह अभिभवे–लेटि उत्तमे। अभिभवामि। असत्प्रायान् करोमि। सालावृकान्। सालायां गृहे वृक इव। शालावृकान्। कुक्कुरान् विडालान्। अन्यद् गतम् ॥
 </details>
-

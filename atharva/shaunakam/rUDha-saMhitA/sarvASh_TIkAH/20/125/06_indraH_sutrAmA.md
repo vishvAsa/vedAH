@@ -8,9 +8,15 @@ title = "०६ इन्द्रः सुत्रामा"
 Indra is strong to save, rich in assistance: may he, possessing all, be kind and gracious. May he disperse our foes and give us safety, and may we be the lords of hero vigour.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रः॑ सु॒त्रामा॒ स्ववाँ॒ अवो॑भिः सुमृडी॒को भ॑वतु वि॒श्ववे॑दाः।  
+बाध॑तां॒ द्वेषो॒ अभ॑यं नः कृणोतु सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। सु॒ऽत्रामा॑। स्वऽवा॑न्। अवः॑ऽभिः। सु॒ऽमृ॒डी॒कः। भ॒व॒तु॒। वि॒श्वऽवे॑दाः। बाध॑ताम्। द्वेषः॑। अभ॑यम्। नः॒। कृ॒णो॒तु॒। सु॒ऽवीर्य॑स्य। पत॑यः। स्या॒म॒। १२५.६। 
+इन्द्रः॑। सु॒ऽत्रामा॑। स्वऽवा॑न्। अवः॑ऽभिः। सु॒ऽमृ॒डी॒कः। भ॒व॒तु॒। वि॒श्वऽवे॑दाः। बाध॑ताम्। द्वेषः॑। अभ॑यम्। नः॒। कृ॒णो॒तु॒। सु॒ऽवीर्य॑स्य। पत॑यः। स्या॒म॒। १२५.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Indra is strong to save, rich in assistance: may he, possessing all, be kind and
 
 टिप्पणी:   मन्त्र ६, ७ आचुके हैं-अथ० ७ सू० ९१, ९२ ॥  ६, ७−मन्त्रौ व्याख्यातौ-अथ० ७ सू० ९१, ९२ ॥
 </details>
-

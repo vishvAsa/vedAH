@@ -27,9 +27,14 @@ requires us to restore at the beginning *yó átith-*.
 The fire of the guests is the Ahavaniya, the fire in the dwelling is the Garhapatya, that whereon they cook food is the South- ern Sacrificial Fire.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+योऽति॑थीनां॒ स आ॑हव॒नीयो॒ यो वेश्म॑नि॒ स गार्ह॑पत्यो॒ यस्मि॒न्पच॑न्ति॒ स द॑क्षिणा॒ग्निः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। अति॑थीनाम्। सः। आ॒ऽह॒व॒नीयः॑। यः। वेश्म॑नि। सः। गार्ह॑ऽपत्यः। यस्मि॑न्। पच॑न्ति। सः। द॒क्षि॒ण॒ऽअ॒ग्निः। ७.१३। 
+यः। अति॑थीनाम्। सः। आ॒ऽह॒व॒नीयः॑। यः। वेश्म॑नि। सः। गार्ह॑ऽपत्यः। यस्मि॑न्। पच॑न्ति। सः। द॒क्षि॒ण॒ऽअ॒ग्निः। ७.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +64,3 @@ The fire of the guests is the Ahavaniya, the fire in the dwelling is the Garhapa
 
 टिप्पणी:   १३−(यः) सङ्गः (अतिथीनाम्) विदुषां संन्यासिनाम् (सः) सङ्गः (आहवनीयः) अ० ८।१०।(१)।४। ब्रह्मचारिभिर्ग्राह्यो होमाग्निः (यः) निवासः (वेश्मनि) गृहे (सः) (गार्हपत्यः) अ० ५।३१।५। गृहपतिभिः संयुक्तः (यस्मिन्) जाठराग्नौ (पचन्ति) (सः) (दक्षिणाग्निः) अ० ८।१०।(१)।६। दक्षिणोऽनुकूलोऽग्नि। वानप्रस्थानां होमाग्निः ॥
 </details>
-

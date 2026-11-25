@@ -15,9 +15,14 @@ southern fire and the sacrifice and the sacrificer and the cattle.
 The Ehavaniya, Garha- patya, and Southern Fires, and Sacrifice, and Sacrificer, and sacrificial victims followed him.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तमा॑हव॒नीय॑श्च॒गार्ह॑पत्यश्च दक्षिणा॒ग्निश्च॑ य॒ज्ञश्च॒ यज॑मानश्च प॒शव॑श्चानु॒व्य᳡चलन्॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तम्। आ॒ऽह॒व॒नीयः॑। च॒। गार्ह॑ऽपत्यः। च॒। द॒क्षि॒ण॒ऽअ॒ग्निः। च॒। य॒ज्ञः। च॒। यज॑मानः। च॒। प॒शवः॑। च॒। अ॒नु॒ऽव्य᳡चलन्। ६.१४। 
+तम्। आ॒ऽह॒व॒नीयः॑। च॒। गार्ह॑ऽपत्यः। च॒। द॒क्षि॒ण॒ऽअ॒ग्निः। च॒। य॒ज्ञः। च॒। यज॑मानः। च॒। प॒शवः॑। च॒। अ॒नु॒ऽव्य᳡चलन्। ६.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,4 +52,3 @@ The Ehavaniya, Garha- patya, and Southern Fires, and Sacrifice, and Sacrificer, 
 
 टिप्पणी:   १४, १५−(तम्)व्रात्यम् (आहवनीयः) आङ्+हु दानादानादनेषु-अनीयर्। यज्ञाग्निविशेषः (गार्हपत्यः)गृहपतिना संयुक्तो यज्ञाग्निविशेषः (दक्षिणाग्निः) यज्ञाग्निविशेषः (यज्ञः)सद्व्यवहारः (यजमानः) यज्ञकर्ता (पशवः) सर्वे प्राणिनः। अन्यत् पूर्ववत् सुगमं च॥
 </details>
-

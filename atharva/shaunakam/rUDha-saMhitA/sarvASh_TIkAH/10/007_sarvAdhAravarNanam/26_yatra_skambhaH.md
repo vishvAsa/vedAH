@@ -21,9 +21,15 @@ again (as in 17 **b, f**) *arasaṁ viduḥ* in **d**. Read in our edition
 Where Skambha generating gave the Ancient World its shape and form, They recognized that single part of Skambha as the Ancient World,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्र॑ स्क॒म्भः प्र॑ज॒नय॑न्पुरा॒णं व्यव॑र्तयत्।  
+एकं॒ तदङ्गं॑ स्क॒म्भस्य॑ पुरा॒णम॑नु॒संवि॑दुः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्र॑। स्क॒म्भः। प्र॒ऽज॒नय॑न्। पु॒रा॒णम्। वि॒ऽअव॑र्तयत्। एक॑म्। तत्। अङ्ग॑म्। स्क॒म्भस्य॑। पु॒रा॒णम्। अ॒नु॒ऽसंवि॑दुः। ७.२६। 
+यत्र॑। स्क॒म्भः। प्र॒ऽज॒नय॑न्। पु॒रा॒णम्। वि॒ऽअव॑र्तयत्। एक॑म्। तत्। अङ्ग॑म्। स्क॒म्भस्य॑। पु॒रा॒णम्। अ॒नु॒ऽसंवि॑दुः। ७.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Where Skambha generating gave the Ancient World its shape and form, They recogni
 
 टिप्पणी:   २६−(यत्र) यस्मिन् काले (स्कम्भः) सर्वधारकः परमेश्वरः (प्रजनयन्) संसारमुत्पादयन् (पुराणम्) सायंचिरंप्राह्णेप्रगे०। पा० ४।३।२३। पुरा-ट्यु। तुडभावः। यद्वा, पुरा+णीञ् प्रापणे−ड, णत्वम्। पुरातनं कारणम् (व्यवर्तयत्) चक्राकारेण वर्तनमकारयत् (अनुसंविदुः) अनुसन्धानेन यथावत् जानन्ति ॥
 </details>
-

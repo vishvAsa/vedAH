@@ -52,9 +52,14 @@ gāyatrī; **c** of 29. sāmny anuṣṭubh.*\]
 She mounted up, she came to men: they killed her Presently she regained her life and being. Hence on both days to men they bring and offer--who knows this--near-seated in the dwelling.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒पो वा॑मदे॒व्येन॑ य॒ज्ञं य॑ज्ञाय॒ज्ञिये॑न ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पः। वा॒म॒ऽदे॒व्येन॑। य॒ज्ञम्। य॒ज्ञा॒य॒ज्ञिये॑न। ११.८। 
+अ॒पः। वा॒म॒ऽदे॒व्येन॑। य॒ज्ञम्। य॒ज्ञा॒य॒ज्ञिये॑न। ११.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -84,4 +89,3 @@ She mounted up, she came to men: they killed her Presently she regained her life
 
 टिप्पणी:   ७, ८−(ओषधीः) अन्नादिपदार्थान् (एव) अवश्यम् (रथन्तरेण) म० ६। जगद्द्वारा (देवाः) गतिशीला लोकाः (अदुह्रन्) अदुहन्। प्रपूरितवन्तः (व्यचः) निरु० ८।१०। विस्तारम् (बृहता) म० ६। प्रवृद्धेनाकाशेन (अपः) प्रजाः−दयानन्दभाष्ये, यजु० ६।२७। उत्पन्नान् पदार्थान् (वामदेव्येन) म० ६। मनोहरेण परमात्मना विज्ञापितेन भूतपञ्चकेन (यज्ञम्) संयोगवियोगव्यवहारम् (यज्ञायज्ञियेन) म० ६। सर्वयज्ञेभ्यो हितेन वेदज्ञानेन ॥
 </details>
-

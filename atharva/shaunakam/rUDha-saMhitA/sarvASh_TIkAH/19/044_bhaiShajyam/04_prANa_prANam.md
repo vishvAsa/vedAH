@@ -28,9 +28,15 @@ of the vs. by Kāuś., see introd. to this hymn, and cf. especially p.
 Preserve our breath, O Vital Breath, have mercy on our life, O Life. From snares of Nirriti do thou, O Nirriti, deliver us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्राण॑ प्रा॒णं त्रा॑यस्वासो॒ अस॑वे मृड।  
+निरृ॑ते॒ निरृ॑त्या नः॒ पाशे॑भ्यो मुञ्च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्राण॑। प्रा॒णम्। त्रा॒य॒स्व॒। असो॒ इति॑। अस॑वे। मृ॒ड॒। निःऽऋ॑ते। निःऽऋ॑त्याः। नः॒। पाशे॑भ्यः। मु॒ञ्च॒। ४४.४। 
+प्राण॑। प्रा॒णम्। त्रा॒य॒स्व॒। असो॒ इति॑। अस॑वे। मृ॒ड॒। निःऽऋ॑ते। निःऽऋ॑त्याः। नः॒। पाशे॑भ्यः। मु॒ञ्च॒। ४४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -60,4 +66,3 @@ Preserve our breath, O Vital Breath, have mercy on our life, O Life. From snares
 
 टिप्पणी:   ४−(प्राण) हे जीवनप्रद परमेश्वर (प्राणम्) मम जीवनम् (त्रायस्व) पालय (असो) असुरिति प्रज्ञानाम-निरु०१०।३४। हे प्रज्ञारूप (असवे) प्रज्ञायै (निर्ऋते) निः+ऋ गतौ-क्तिन्। हे नित्यव्यापक (निर्ऋत्याः) अ०२।१०।१। निः+ऋ हिंसायाम्-क्तिन्। महाविपत्तेः (नः) अस्मान् (पाशेभ्यः) बन्धनेभ्यः (मुञ्च) मोचय ॥
 </details>
-

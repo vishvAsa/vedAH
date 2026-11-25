@@ -24,9 +24,15 @@ falls under rule iv. 58 of the AV. Prāt.
 Thou art a Bull that mounts to heaven: to Rishis and their off- spring go. Rest in the world of pious men: there is the place prepared for us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वृ॑ष॒भो᳡सि॑ स्व॒र्ग ऋषी॑नार्षे॒यान्ग॑च्छ।  
+सु॒कृतां॑ लो॒के सी॑द॒ तत्र॑ नौ संस्कृ॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वृ॒ष॒भः। अ॒सि॒। स्वः॒ऽगः। ऋषी॑न्। आ॒र्षे॒यान्। ग॒च्छ॒। सु॒ऽकृता॑म्। लो॒के। सी॒द॒। तत्र॑। नौ॒। सं॒स्कृ॒तम्। १.३५। 
+वृ॒ष॒भः। अ॒सि॒। स्वः॒ऽगः। ऋषी॑न्। आ॒र्षे॒यान्। ग॒च्छ॒। सु॒ऽकृता॑म्। लो॒के। सी॒द॒। तत्र॑। नौ॒। सं॒स्कृ॒तम्। १.३५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Thou art a Bull that mounts to heaven: to Rishis and their off- spring go. Rest 
 
 टिप्पणी:   ३५−(वृषभः) अ० ४।५।१। वृषु प्रजनैश्ययोः-अभच्, कित्। महाबली (असि) (स्वर्गः) सुखस्य गमयिता (ऋषीन्) सूक्ष्मदर्शिनः पुरुषान् (आर्षेयान्) म० १३। ऋषिषु विख्यातान् (गच्छ) प्राप्नुहि (सुकृताम्) सुकर्मिणाम् (लोके) समाजे (सीद) तिष्ठ (तत्र) समाजे (नौ) आवयोः। मम च तव च (संस्कृतम्) संस्कारः ॥
 </details>
-

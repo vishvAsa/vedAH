@@ -21,9 +21,14 @@ summed up as 26.⌋
 Upon him wait omniform beasts, wearing every shape, each one who hath this knowledge.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उपै॑नं वि॒श्वरू॑पाः॒ सर्व॑रूपाः प॒शव॑स्तिष्ठन्ति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑। ए॒न॒म्। वि॒श्वऽरू॑पाः। सर्व॑ऽरूपाः। प॒शवः॑। ति॒ष्ठ॒न्ति॒। यः। ए॒वम्। वेद॑। १२.२६। 
+उप॑। ए॒न॒म्। वि॒श्वऽरू॑पाः। सर्व॑ऽरूपाः। प॒शवः॑। ति॒ष्ठ॒न्ति॒। यः। ए॒वम्। वेद॑। १२.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ Upon him wait omniform beasts, wearing every shape, each one who hath this knowl
 
 टिप्पणी:   २६−(उप तिष्ठन्ति) पूजयन्ति (एनम्) ब्रह्मवादिनम् (विश्वरूपाः) सर्ववर्णाः (सर्वरूपाः) सर्वाकाराः (पशवः) पशवो व्यक्तवाचश्चाव्यक्तवाचश्च-निरु० ११।२९। प्राणिनः (यः) (एवम्) (वेद) जानाति ॥
 </details>
-

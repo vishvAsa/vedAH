@@ -17,9 +17,15 @@ here, like zealous mothers.
 Here grant to us a share of dew, that most auspicious dew of yours, Like mothers in their longing love.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑।  
+उ॑श॒तीरि॑व मा॒तरः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। वः॒। शि॒वऽत॑मः। रसः॑। तस्य॑। भा॒ज॒य॒त॒। इ॒ह। नः॒। उ॒श॒तीःऽइ॑व। मा॒तरः॑। 
+यः। वः॒। शि॒वऽत॑मः। रसः॑। तस्य॑। भा॒ज॒य॒त॒। इ॒ह। नः॒। उ॒श॒तीःऽइ॑व। मा॒तरः॑।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Here grant to us a share of dew, that most auspicious dew of yours, Like mothers
 
 टिप्पणी:   २−शिव-तमः। अतिशायने तमबिष्ठनौ। पा० ५।३।५५। इति तमप्। अतिशयेन कल्याणकरः। रसः। रस आस्वादे−अच्। सारः। भाजयतम्। हेतुमति च। पा० ३।१।२६। इति भज सेवायां−णिच्-लोट्। भागिनः कुरुत। सेवयत। उशतीः। वश कान्तौ=अभिलाषे-शतृ। उगितश्च। पा० ४।१।६। इति ङीप्। वा छन्दसि। पा० ६।१।१०६। इति जसि पूर्वसवर्णदीर्घः। उशत्यः, कामयमानाः, प्रीतियुक्ताः। मातरः। १।२।१। जनन्यः ॥
 </details>
-

@@ -18,9 +18,15 @@ together with longing—that I heat for thee by Varuṇa's ordinance
 The Philter, burning with the pangs of yearning love, which Gods have poured within the bosom of the floods, That spell for thee I heat by Varuna's decree.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यं दे॒वाः स्म॒रमसि॑ञ्चन्न॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। दे॒वाः। स्म॒रम्। असि॑ञ्चन्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.१। 
+यम्। दे॒वाः। स्म॒रम्। असि॑ञ्चन्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The Philter, burning with the pangs of yearning love, which Gods have poured wit
 
 टिप्पणी:   १−(यम्) (देवाः) विजिगीषवः। (स्मरम्) अ० ६।१३०।१। स्मरणसामर्थ्यम् (असिञ्चन्) षिच सेके। अवर्धयन् (अप्सु) प्रजासु−दयानन्दभाष्ये य० ६।२७। (अन्तः) मध्ये (शोशुचानम्) अ० ४।११।३। देदीप्यमानम् (सह) (आध्या) सू० १३१ म० १। ध्यानशक्त्या (तत्) स्मरम्−(ते) तुभ्यम् (तपामि) ऐश्वर्यवन्तं करोमि (वरुणस्य) वरणीयस्य श्रेष्ठस्य परमेश्वरस्य (धर्मणा) धारणशक्त्या। नियमेन ॥
 </details>
-

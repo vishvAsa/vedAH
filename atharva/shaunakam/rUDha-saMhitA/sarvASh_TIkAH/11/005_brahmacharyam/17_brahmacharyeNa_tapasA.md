@@ -18,9 +18,15 @@ Ppp. reads *rakṣate* in **b**, and *ichati* in **d**.
 By Fervour and by self-restraint the King protects the realm he rules. By self-restraint the Master seeks a Brahmachari to instruct.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्र॑ह्म॒चर्ये॑ण॒ तप॑सा॒ राजा॑ रा॒ष्ट्रं वि र॑क्षति।  
+आ॑चा॒र्यो᳡ ब्रह्म॒चर्ये॑ण ब्रह्मचा॒रिण॑मिच्छते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्र॒ह्म॒ऽचर्ये॑ण। तप॑सा। राजा॑। रा॒ष्ट्रम्। वि। र॒क्ष॒ति॒। आ॒ऽचा॒र्यः᳡। ब्र॒ह्म॒ऽचर्ये॑ण। ब्र॒ह्म॒ऽचा॒रिण॑म्। इ॒च्छ॒ते॒। ७.१७। 
+ब्र॒ह्म॒ऽचर्ये॑ण। तप॑सा। राजा॑। रा॒ष्ट्रम्। वि। र॒क्ष॒ति॒। आ॒ऽचा॒र्यः᳡। ब्र॒ह्म॒ऽचर्ये॑ण। ब्र॒ह्म॒ऽचा॒रिण॑म्। इ॒च्छ॒ते॒। ७.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ By Fervour and by self-restraint the King protects the realm he rules. By self-r
 
 टिप्पणी:   १७−(ब्रह्मचर्येण) अ० ७।१०९।७। ब्रह्म+चर गतौ-यत्। आत्मनिग्रहवेदाध्ययनादिना (तपसा) तपश्चरणेन (राजा) (राष्ट्रम्) राज्यम् (वि) विशेषेण (रक्षति) पालयति (आचार्यः) (ब्रह्मचर्येण) (ब्रह्मचारिणम्) वेदाध्ययनशीलं शिष्यम् (इच्छते) अभिलष्यति ॥
 </details>
-

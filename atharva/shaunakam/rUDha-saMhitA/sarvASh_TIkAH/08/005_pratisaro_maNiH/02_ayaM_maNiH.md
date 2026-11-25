@@ -19,9 +19,15 @@ Ppp. reads *etu* in **c**.
 This Charm, foe-slayer, served by many heroes, strong, power- ful, victorious, and mighty, goes bravely forth to meet and ruin witchcraft.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒यं म॒णिः स॑पत्न॒हा सु॒वीरः॒ सह॑स्वान्वा॒जी सह॑मान उ॒ग्रः।  
+प्र॒त्यक्कृ॒त्या दू॒षय॑न्नेति वी॒रः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। म॒णिः। स॒प॒त्न॒ऽहा। सु॒ऽवीरः॑। सह॑स्वान्। वा॒जी। सह॑मानः। उ॒ग्रः। प्र॒त्यक्। कृ॒त्याः। दूषय॑न्। ए॒ति॒। वी॒रः। ५.२। 
+अ॒यम्। म॒णिः। स॒प॒त्न॒ऽहा। सु॒ऽवीरः॑। सह॑स्वान्। वा॒जी। सह॑मानः। उ॒ग्रः। प्र॒त्यक्। कृ॒त्याः। दूषय॑न्। ए॒ति॒। वी॒रः। ५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ This Charm, foe-slayer, served by many heroes, strong, power- ful, victorious, a
 
 टिप्पणी:   २−(सुवीरः) शोभनैर्वीरैर्युक्तः (सहस्वान्) बलवान् (वाजी) पराक्रमी (सहमानः) शत्रूणामभिभविता (उग्रः) प्रचण्डः (प्रत्यक्) अभिमुखम्। सम्मुखम् (कृत्याः) अ० ४।९।५। हिंसाः। विघ्नान् (दूषयन्) खण्डयन् (एति) गच्छति। अन्यद् गतम्-म० १ ॥
 </details>
-

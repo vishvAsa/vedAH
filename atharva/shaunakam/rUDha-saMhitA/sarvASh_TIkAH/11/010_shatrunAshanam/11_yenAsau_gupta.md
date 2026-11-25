@@ -17,9 +17,15 @@ gods shared, in order to both force and strength.
 The Gods enjoyed Trishandhi for the sake of energy and power, Him under whose protection, both, Indra and yon Aditya stand.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+येना॒सौ गु॒प्त आ॑दि॒त्य उ॒भाविन्द्र॑श्च॒ तिष्ठ॑तः।  
+त्रिष॑न्धिं दे॒वा अ॑भज॒न्तौज॑से च॒ बला॑य च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-येन॑। अ॒सौ। गु॒प्तः। आ॒दि॒त्यः। उ॒भौ। इन्द्रः॑। च॒। तिष्ठ॑तः। त्रिऽसं॑धिम्। दे॒वाः। अ॒भ॒ज॒न्त॒। ओज॑से। च॒। बला॑य। च॒। १२.११। 
+येन॑। अ॒सौ। गु॒प्तः। आ॒दि॒त्यः। उ॒भौ। इन्द्रः॑। च॒। तिष्ठ॑तः। त्रिऽसं॑धिम्। दे॒वाः। अ॒भ॒ज॒न्त॒। ओज॑से। च॒। बला॑य। च॒। १२.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ The Gods enjoyed Trishandhi for the sake of energy and power, Him under whose pr
 
 टिप्पणी:   ११−(येन) त्रिषन्धिना (असौ) प्रसिद्धः (गुप्तः) रक्षितः (आदित्यः) अ० ११।९।२५। अखण्डव्रती (उभौ) (इन्द्रः) परमैश्वर्यवान् पुरुषः (च) (तिष्ठतः) वर्तेते (त्रिषन्धिम्) म० २। त्रयीकुशलं सेनापतिम् (देवाः) विजिगीषवः (अभजन्त) असेवन्त (ओजसे) आत्मिकबलं प्राप्तुम् (च) (बलाय) शारीरिकसामर्थ्यं प्राप्तुम् (च) ॥
 </details>
-

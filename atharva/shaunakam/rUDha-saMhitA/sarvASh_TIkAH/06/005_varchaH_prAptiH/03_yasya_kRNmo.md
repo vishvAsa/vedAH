@@ -21,9 +21,15 @@ The three Yajus texts have, in **a**, *kurmás* for *kṛṇmás*, and VS.MS.
 Prosper this man, O Agni, in whose house we offer sacrifice. May Soma bless him, and the God here present, Brahmanaspati.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे तम॑ग्ने वर्धया॒ त्वम्।  
+तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्य॑। कृ॒ण्मः। ह॒विः। गृ॒हे। तम्। अ॒ग्ने॒। व॒र्ध॒य॒। त्वम्। तस्मै॑। सोमः॑। अधि॑। ब्र॒व॒त्। अ॒यम्। च॒। ब्रह्म॑णः। पतिः॑। ५.३। 
+यस्य॑। कृ॒ण्मः। ह॒विः। गृ॒हे। तम्। अ॒ग्ने॒। व॒र्ध॒य॒। त्वम्। तस्मै॑। सोमः॑। अधि॑। ब्र॒व॒त्। अ॒यम्। च॒। ब्रह्म॑णः। पतिः॑। ५.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Prosper this man, O Agni, in whose house we offer sacrifice. May Soma bless him,
 
 टिप्पणी:   ३−(यस्य) धार्मिकस्य (कृण्मः) कुर्मः (हविः) दातव्यं ग्राह्यं कर्म (गृहे) निवासे (तम्) (अग्ने) हे सर्वव्यापक परमात्मन् (वर्धय) समर्धय (त्वम्) (तस्मै) पूर्वोक्ताय पुरुषाय (सोमः) ऐश्वर्यवान् पुरुषः (अधि) अधिकम् (ब्रवत्) कथयेत् (अयम्) प्रसिद्धः (च) (ब्रह्मणः) वेदस्य (पतिः) पालकः ॥
 </details>
-

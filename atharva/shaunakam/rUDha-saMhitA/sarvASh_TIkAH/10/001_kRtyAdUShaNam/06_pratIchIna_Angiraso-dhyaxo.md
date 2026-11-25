@@ -20,9 +20,15 @@ Ppp. is corrupt, mixing up our verses 6 and 7. It combines *pratīcīnā
 Against her comes the Angirasa, the Priest whose eye is over us. Turn back all witcheries and slay those practisers of magic arts.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॑ती॒चीन॑ आङ्गिर॒सोऽध्य॑क्षो नः पु॒रोहि॑तः।  
+प्र॒तीचीः॑ कृ॒त्या आ॒कृत्या॒मून्कृ॑त्या॒कृतो॑ जहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒ती॒चीनः॑। अ॒ङ्गि॒र॒सः। अधि॑ऽअक्षः। नः॒। पु॒रःऽहि॑तः। प्र॒तीचीः॑। कृ॒त्याः। आ॒ऽकृत्य॑। अ॒मून्। कृ॒त्या॒ऽकृतः॑। ज॒हि॒। १.६। 
+प्र॒ती॒चीनः॑। अ॒ङ्गि॒र॒सः। अधि॑ऽअक्षः। नः॒। पु॒रःऽहि॑तः। प्र॒तीचीः॑। कृ॒त्याः। आ॒ऽकृत्य॑। अ॒मून्। कृ॒त्या॒ऽकृतः॑। ज॒हि॒। १.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Against her comes the Angirasa, the Priest whose eye is over us. Turn back all w
 
 टिप्पणी:   ६−(प्रतीचीनः) अ० ४।३२।६। प्रत्यक्षं गच्छन् (आङ्गिरसः) अ० २।१२।४। तदधीते तद्वेद। पा० ४।२।५९। इत्यण्। अङ्गिरसां वेदानां ज्ञाता (अध्यक्षः) अधिपतिः (नः) अस्माकम् (पुरोहितः) अ० ३।१९।१। अग्रेसरः (प्रतीचीः) प्रतिकूलगतीः (कृत्याः) म० ४। हिंसाः (आकृत्य) निष्पाद्य (अमून्) (कृत्याकृतः) म० २। हिंसाकर्तॄन् (जहि) मारय ॥
 </details>
-

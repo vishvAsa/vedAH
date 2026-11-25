@@ -8,9 +8,15 @@ title = "२० अन्त्रेभ्यस्ते गुदाभ्य
 From thighs, from knee-caps, and from heels, and from the forepart of the feet, From hips, from stomach, and from groin, I drive thy malady away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒न्त्रेभ्य॑स्ते॒ गुदा॑भ्यो वनि॒ष्ठोरु॒दरा॒दधि॑।  
+यक्ष्मं॑ कु॒क्षिभ्यां॑ प्ला॒शेर्नाभ्या॒ वि वृ॑हामि ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒न्त्रेभ्यः॑। ते॒। गुदा॑भ्यः। व॒नि॒ष्ठोः। उ॒दरा॑त्। अधि॑। यक्ष्म॑म्। कु॒क्षिऽभ्या॑म्। प्ला॒शेः। नाभ्याः॑। वि। वृ॒हा॒मि॒। ते॒। ९६.२०। 
+आ॒न्त्रेभ्यः॑। ते॒। गुदा॑भ्यः। व॒नि॒ष्ठोः। उ॒दरा॑त्। अधि॑। यक्ष्म॑म्। कु॒क्षिऽभ्या॑म्। प्ला॒शेः। नाभ्याः॑। वि। वृ॒हा॒मि॒। ते॒। ९६.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ From thighs, from knee-caps, and from heels, and from the forepart of the feet, 
 
 टिप्पणी:   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
-

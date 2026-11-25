@@ -18,9 +18,14 @@ Literally 'of one waking' and 'in sleep.' The *pada*-text reads
 Evil day-dream, evil dream in sleep,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+जा॑ग्रद्दुःष्व॒प्न्यं स्व॑प्नेदुःष्व॒प्न्यम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-जा॒ग्र॒त्ऽदु॒स्व॒प्न्यम्। स्व॒प्ने॒ऽदु॒स्व॒प्न्यम्। ६.९। 
+जा॒ग्र॒त्ऽदु॒स्व॒प्न्यम्। स्व॒प्ने॒ऽदु॒स्व॒प्न्यम्। ६.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Evil day-dream, evil dream in sleep,
 
 टिप्पणी:   ९−(जाग्रद्दुःष्वप्न्यम्) जाग्रदवस्थायां दुष्टस्वप्नम् (स्वप्नेदुःष्वप्न्यम्) स्वप्नावस्थायां दुष्टस्वप्नम् ॥
 </details>
-

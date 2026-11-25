@@ -18,9 +18,17 @@ season "fattening" by name, namely the goat etc. etc.
 The man who knows the called the Swelling takes to himself the swelling fame, his hated rival's swelling fame. The Goat Panchaudana is this Swelling season. He lives himself, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो वै पि॒न्वन्तं॒ नाम॒र्तुं वेद॑।  
+पि॑न्व॒तींपि॑न्वतीमे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रिय॒मा द॑त्ते।  
+ए॒ष वै पि॒न्वन्नाम॒र्तुर्यद॒जः पञ्चौ॑दनः।  
+निरे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रियं॑ दहति॒ भव॑त्या॒त्मना॒ यो॒३॒॑जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। वै। पि॒न्वन्त॑म्। नाम॑। ऋ॒तुम्। वेद॑। पि॒न्व॒तीम्ऽपि॑न्वतीम्। ए॒व। अप्रि॑यस्य। भ्रातृ॑व्यस्य। श्रिय॑म्। आ। द॒त्ते॒। ए॒षः। वै। पि॒न्वन्। नाम॑। ऋ॒तुः। यत्। अ॒जः। पञ्च॑ऽओदनः। ५.३४। 
+यः। वै। पि॒न्वन्त॑म्। नाम॑। ऋ॒तुम्। वेद॑। पि॒न्व॒तीम्ऽपि॑न्वतीम्। ए॒व। अप्रि॑यस्य। भ्रातृ॑व्यस्य। श्रिय॑म्। आ। द॒त्ते॒। ए॒षः। वै। पि॒न्वन्। नाम॑। ऋ॒तुः। यत्। अ॒जः। पञ्च॑ऽओदनः। ५.३४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +58,3 @@ The man who knows the called the Swelling takes to himself the swelling fame, hi
 
 टिप्पणी:   ३४−(पिन्वन्तम्) पिवि सेचने सेवने च-शतृ। सिञ्चन्तम्। पोषयन्तम् (पिन्वतीं, पिन्वतीम्) अतिशयेन पोषयन्तीम् (पिन्वन्) पोषयन्। अन्यत् पूर्ववत् ॥
 </details>
-

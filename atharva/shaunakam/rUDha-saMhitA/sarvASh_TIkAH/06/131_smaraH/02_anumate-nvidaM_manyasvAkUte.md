@@ -23,9 +23,15 @@ that the first pāda is *triṣṭubh*.
 Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth the charm, ye Deities! Let him consume with love of me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अनु॑मतेऽन्वि॒दं म॑न्य॒स्वाकू॑ते॒ समि॒दं नमः॑।  
+देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अनु॑ऽमते। अनु॑। इ॒दम्। म॒न्य॒स्व॒। आऽकू॑ते। सम्। इ॒दम्। नमः॑। देवाः॑। प्र। हि॒णु॒त॒। स्म॒रम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३१.२। 
+अनु॑ऽमते। अनु॑। इ॒दम्। म॒न्य॒स्व॒। आऽकू॑ते। सम्। इ॒दम्। नमः॑। देवाः॑। प्र। हि॒णु॒त॒। स्म॒रम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३१.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth t
 
 टिप्पणी:   २−(अनुमते) अ० १।१८।२। हे सहायिके बुद्धे (इदम्) क्रियमाणं कर्म (अनु मन्यस्व) स्वीकुरु (आकूते) हे उत्साहशक्ते−यथा दयानन्दभाष्ये, यजु० ४।७। (सम्) सम्यक् (इदम्) (नमः) अन्नम्−निघ० २।७। अन्यत् पूर्ववत् ॥
 </details>
-

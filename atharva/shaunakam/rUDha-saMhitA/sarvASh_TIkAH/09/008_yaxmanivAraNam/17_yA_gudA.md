@@ -21,9 +21,15 @@ bowels) to move,' i.e. 'produce diarrhœa'?⌋
 The pains that through the bowels creep, disordering the inward parts, Let them depart and pass away, free from disease and harming not.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+या गुदा॑ अनु॒सर्प॑न्त्या॒न्त्राणि॑ मो॒हय॑न्ति च।  
+अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। गुदाः॑। अ॒नु॒ऽसर्प॑न्ति। आ॒न्त्राणि॑। मो॒हय॑न्ति। च॒। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१७। 
+याः। गुदाः॑। अ॒नु॒ऽसर्प॑न्ति। आ॒न्त्राणि॑। मो॒हय॑न्ति। च॒। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ The pains that through the bowels creep, disordering the inward parts, Let them 
 
 टिप्पणी:   १७−(याः) अर्षण्यः (गुदाः) अ० २।३३।४। मलत्यागनाडीः (अनुसर्पन्ति) अनुक्रमेण प्राप्नुवन्ति (आन्त्राणि) अ० ९।७।१६। नाडीविशेषान् (मोहयन्ति) व्याकुलीकुर्वन्ति। अन्यत् पूर्ववत् ॥
 </details>
-

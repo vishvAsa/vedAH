@@ -24,9 +24,15 @@ half *indro vaś śarma yacchaty anādhṛṣyā yathā ’satā*. The verse is 
 Advance and be victorious, men I Exceeding mighty be your arms! Smite with sharp-pointed arrows those whose bows are weak. With your strong arms and weapons smite the feeble foe.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रेता॒ जय॑ता नर उ॒ग्रा वः॑ सन्तु बा॒हवः॑।  
+ती॒क्ष्णेष॑वोऽब॒लध॑न्वनो हतो॒ग्रायु॑धा अब॒लानु॒ग्रबा॑हवः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र। इ॒त॒। जय॑त। न॒रः॒। उ॒ग्राः। वः॒। स॒न्तु॒। बा॒हवः॑। ती॒क्ष्णऽइ॑षवः। अ॒ब॒लऽध॑न्वनः। ह॒त॒। उ॒ग्रऽआ॑युधाः। अ॒ब॒लान्। उ॒ग्रऽबा॑हवः। १९.७। 
+प्र। इ॒त॒। जय॑त। न॒रः॒। उ॒ग्राः। वः॒। स॒न्तु॒। बा॒हवः॑। ती॒क्ष्णऽइ॑षवः। अ॒ब॒लऽध॑न्वनः। ह॒त॒। उ॒ग्रऽआ॑युधाः। अ॒ब॒लान्। उ॒ग्रऽबा॑हवः। १९.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Advance and be victorious, men I Exceeding mighty be your arms! Smite with sharp
 
 टिप्पणी:   ७−(प्र इत) प्रक्रम्य रणक्षेत्रं गच्छत। (जयत) अभिभवत। उभयत्र बलवर्धनाय सांहितको दीर्घः। (नरः) अ० ३।१७।६। हे नेतारः (उग्राः) प्रचण्डाः। (वः) युष्माकम्। (बाहवः) भुजाः। (तीक्ष्णेषवः) निशितबाणाद्यायुधयुक्ताः। (अबलधन्वनः)। निर्बलधनुराद्यायुधोपेतान्। (हत) नाशयत। (उग्रायुधाः) निशिततरवारिशक्त्याद्यायुक्ताः। (अबलान्) निर्बलान्। (उग्रबाहवः) दृढभुजाः ॥
 </details>
-

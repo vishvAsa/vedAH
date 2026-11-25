@@ -28,9 +28,15 @@ Here ends also the sixteenth *prapāṭhaka*.
 Like a tree struck by lightning may the man be withered from the root. Who curseth us who curse not him, or, when we curse him. curseth us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो नः॑ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्।  
+वृ॒क्ष इ॑व वि॒द्युता॑ ह॒त आ मूला॒दनु॑ शुष्यतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। नः॒। शपा॑त्। अश॑पतः। शप॑तः। यः। च॒। नः॒। शपा॑त्। वृ॒क्षःऽइ॑व। वि॒ऽद्युता॑। ह॒तः। आ। मूला॑त्। अनु॑। शु॒ष्य॒तु॒। ६१.१। 
+यः। नः॒। शपा॑त्। अश॑पतः। शप॑तः। यः। च॒। नः॒। शपा॑त्। वृ॒क्षःऽइ॑व। वि॒ऽद्युता॑। ह॒तः। आ। मूला॑त्। अनु॑। शु॒ष्य॒तु॒। ६१.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -60,4 +66,3 @@ Like a tree struck by lightning may the man be withered from the root. Who curse
 
 टिप्पणी:   १−(यः) दुष्टः (नः) अस्मान् (शपात्) शपेत्। निन्देत् (अशपतः) अशापिनः (शपतः) शापकारिणः (यः) (च) (नः) (शपात्) (वृक्षः) (इव) (विद्युता) अशन्या (हतः) भस्मीकृतः (आ मूलात्) मूलमारभ्य (अनु) निरन्तरम् (शुष्यतु) शुष्को भवतु ॥
 </details>
-

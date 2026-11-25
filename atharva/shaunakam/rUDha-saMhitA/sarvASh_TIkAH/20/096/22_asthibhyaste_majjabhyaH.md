@@ -8,9 +8,15 @@ title = "२२ अस्थिभ्यस्ते मज्जभ्यः"
 From every member, every hair, disease that comes in every joint, From all thyself, from top to toe, I drive thy malady away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒स्थिभ्य॑स्ते म॒ज्जभ्यः॒ स्नाव॑भ्यो ध॒मनि॑भ्यः।  
+यक्ष्मं॑ पा॒णिभ्या॑म॒ङ्गुलि॑भ्यो न॒खेभ्यो॒ वि वृ॑हामि ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒स्थिभ्यः॑। ते॒। म॒ज्जऽभ्यः॑। स्नाव॑ऽभ्यः। ध॒मनि॑ऽभ्यः। यक्ष्म॑म्। पा॒णिऽभ्या॑म्। अ॒ङ्गुलि॑ऽभ्यः। न॒खेभ्यः॑। वि। वृ॒हा॒मि॒। ते॒। ९६.२२। 
+अ॒स्थिभ्यः॑। ते॒। म॒ज्जऽभ्यः॑। स्नाव॑ऽभ्यः। ध॒मनि॑ऽभ्यः। यक्ष्म॑म्। पा॒णिऽभ्या॑म्। अ॒ङ्गुलि॑ऽभ्यः। न॒खेभ्यः॑। वि। वृ॒हा॒मि॒। ते॒। ९६.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ From every member, every hair, disease that comes in every joint, From all thyse
 
 टिप्पणी:   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
-

@@ -16,12 +16,17 @@ indicating omission.⌋
 
 <details><summary>Griffith</summary>
 
-Let him not be freed from the fetter and noose of Death. 
+Let him not be freed from the fetter and noose of Death.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+समृ॒त्योःपड्वी॑शा॒त्पाशा॒न्मा मो॑चि ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-सः। मृ॒त्योः। पड्वी॑शात्। पाशा॑त्। मा। मो॒चि॒। ८.३२। 
+सः। मृ॒त्योः। पड्वी॑शात्। पाशा॑त्। मा। मो॒चि॒। ८.३२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Let him not be freed from the fetter and noose of Death.
 
 टिप्पणी:   ३२−(मृत्योः) मरणस्य (पड्वीशात्) अ० ६।९६।२। सर्त्तेरटिः। उ० १।१३४। पश बन्धने-अटि, डित्+विशप्रवेशे-क, दीर्घः। पाशप्रवेशयुक्तात्। अन्यत् पूर्ववत्-म० १-४ ॥
 </details>
-

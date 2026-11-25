@@ -20,9 +20,15 @@ The translation implies the obvious emendation of *yajñé* in **c** to
 The Kshatriya's mother is the Cow, thy mother, Svadha! is the Cow. Sacrifice is the weapon of the Cow: the thought arose from, her.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व॒शा मा॒ता रा॑ज॒न्य᳡स्य व॒शा मा॒ता स्व॑धे॒ तव॑।  
+व॒शाया॑ य॒ज्ञ आयु॑धं॒ तत॑श्चि॒त्तम॑जायत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-व॒शा। मा॒ता। रा॒ज॒न्य᳡स्य। व॒शा। मा॒ता। स्व॒धे॒। तव॑। व॒शायाः॑। य॒ज्ञे। आयु॑धम्। ततः॑। चि॒त्तम्। अ॒जा॒य॒त॒। १०.१८। 
+व॒शा। मा॒ता। रा॒ज॒न्य᳡स्य। व॒शा। मा॒ता। स्व॒धे॒। तव॑। व॒शायाः॑। य॒ज्ञे। आयु॑धम्। ततः॑। चि॒त्तम्। अ॒जा॒य॒त॒। १०.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ The Kshatriya's mother is the Cow, thy mother, Svadha! is the Cow. Sacrifice is 
 
 टिप्पणी:   १८−(वशा) कमनीया परमेश्वरशक्तिः (माता) निर्मात्री (राजन्यस्य) अ० ५।१७।९। ऐश्वर्यवतः। शासकस्य (स्वधे) हे अन्न (वशायाः) परमेश्वरशक्तेः (यज्ञे) श्रेष्ठकर्मणि (आयुधम्) आयु+डुधाञ् धारणपोषणयोः-क। जीवनधारकं कर्म (ततः) तस्याः। वशायाः सकाशात् (चित्तम्) ज्ञानम् (अजायत) अन्यद् गतम् ॥
 </details>
-

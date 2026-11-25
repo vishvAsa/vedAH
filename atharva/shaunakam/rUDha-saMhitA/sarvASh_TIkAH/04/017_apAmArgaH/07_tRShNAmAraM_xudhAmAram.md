@@ -18,9 +18,15 @@ Ppp. omits this variation on vs. 6.
 Death caused by thirst, death caused by stress of hunger, loss at play with dice, All this, O Apamarga with thine aid we cleanse and wipe away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तृ॑ष्णामा॒रं क्षु॑धामा॒रं अथो॑ अक्षपराज॒यम्।  
+अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तृ॒ष्णा॒ऽमा॒रम्। क्षु॒धा॒ऽमा॒रम्। अथो॒ इति॑। अ॒क्ष॒ऽप॒रा॒ज॒यम्। अपा॑मार्ग। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। १७.७। 
+तृ॒ष्णा॒ऽमा॒रम्। क्षु॒धा॒ऽमा॒रम्। अथो॒ इति॑। अ॒क्ष॒ऽप॒रा॒ज॒यम्। अपा॑मार्ग। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। १७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Death caused by thirst, death caused by stress of hunger, loss at play with dice
 
 टिप्पणी:   ७−(अथो) अपि च (अक्षपराजयम्) अक्षू व्याप्तौ-पचाद्यच् घञ् वा। यद्वा। अशेर्देवने। उ० ३।६५। इति अशू व्याप्तौ स प्रत्ययः। अक्षाणां व्यवहाराणाम् इन्द्रियाणां वा पराजयं पराभवम्। अन्यत् पूर्ववत् ॥
 </details>
-

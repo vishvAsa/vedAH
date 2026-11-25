@@ -24,9 +24,15 @@ inevitable." But I do not see how the accented form is to be rendered.⌋
 Two wheels of thine the Brahmans know, Surya! according to their times. That which is hidden only those who know the highest truths have learned.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+द्वे ते॑ च॒क्रेसूर्ये॑ ब्र॒ह्माण॑ ऋतु॒था वि॑दुः।  
+अथैकं॑ च॒क्रं यद्गुहा॒ तद॑द्धा॒तय॒इद्वि॒दुः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द्वे इति॑। ते॒। च॒क्रे इति॑। सूर्ये॑। ब्र॒ह्माणः॑। ऋ॒तु॒ऽथा। वि॒दुः॒। अथ॑। एक॑म्। च॒क्रम्। यत्। गुहा॑। तत्। अ॒ध्दातयः॑। इत्। वि॒दुः। १.१६। 
+द्वे इति॑। ते॒। च॒क्रे इति॑। सूर्ये॑। ब्र॒ह्माणः॑। ऋ॒तु॒ऽथा। वि॒दुः॒। अथ॑। एक॑म्। च॒क्रम्। यत्। गुहा॑। तत्। अ॒ध्दातयः॑। इत्। वि॒दुः। १.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Two wheels of thine the Brahmans know, Surya! according to their times. That whi
 
 टिप्पणी:   १६−(द्वे) (ते) तव (चक्रे) कर्मोपासनारूपे रथाङ्गे (सूर्ये) हे प्रेरिके कन्ये (ब्रह्माणः)ब्रह्मज्ञानिनः (ऋतुथा) ऋतुषु (विदुः) जानन्ति (अथ) अनन्तरम् (एकम्) ज्ञानरूपम् (चक्रम्) (यत्) (गुहा) गुहायाम्। हृदये (तत्) (अद्धातयः) अद्धा सत्यनाम निघ०३।११+अत सातत्यगमने-इन्। सत्यज्ञानिनः। मेधाविनः निघ० ३।१६। (इत्) एव (विदुः) ॥
 </details>
-

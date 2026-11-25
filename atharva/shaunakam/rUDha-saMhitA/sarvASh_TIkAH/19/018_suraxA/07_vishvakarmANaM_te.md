@@ -19,9 +19,15 @@ In our text there has dropped out an accent-sign under *va* before
 Let those who from the north side vex me, sinners, praise Visvakarman with the Seven Rishis.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒श्वक॑र्माणं॒ ते स॑प्तऋ॒षिव॑न्तमृच्छन्तु।  
+ये मा॑ऽघा॒यव॒ उदी॑च्या दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒श्वऽक॑र्माणम्। ते। स॒प्त॒ऋ॒षिऽव॑न्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। उदी॑च्याः। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.७। 
+वि॒श्वऽक॑र्माणम्। ते। स॒प्त॒ऋ॒षिऽव॑न्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। उदी॑च्याः। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Let those who from the north side vex me, sinners, praise Visvakarman with the S
 
 टिप्पणी:   ७−(विश्वकर्माणम्) सर्वस्रष्टारं परमेश्वरम् (सप्तऋषिवन्तम्) सू०१७। म०७। छन्दसीरः। पा०८।२।१५। मतुपो वः। मनोबुद्धिसहितपञ्चज्ञानेन्द्रियाणां स्वामिनम् (उदीच्याः) उत्तरस्याः वामस्थायाः। अन्यत् पूर्ववत् ॥
 </details>
-

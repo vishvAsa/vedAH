@@ -23,9 +23,14 @@ sanctions only 21 syllables. The first pāda is also found as viii. 5. 5
 This word hath Agni, this hath Soma spoken. May Pushan set me in the world of virtue.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तद॒ग्निरा॑ह॒तदु॒ सोम॑ आह पू॒षा मा॑ धात्सुकृ॒तस्य॑ लो॒के ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तत्। अ॒ग्निः। आ॒ह॒। तत्। ऊं॒ इति॑। सोमः॑। आ॒ह॒। पू॒षा। मा॒। धा॒त्। सु॒ऽकृ॒तस्य॑। लो॒के। ९.२। 
+तत्। अ॒ग्निः। आ॒ह॒। तत्। ऊं॒ इति॑। सोमः॑। आ॒ह॒। पू॒षा। मा॒। धा॒त्। सु॒ऽकृ॒तस्य॑। लो॒के। ९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ This word hath Agni, this hath Soma spoken. May Pushan set me in the world of vi
 
 टिप्पणी:   २−(तत्) इदम् (अग्निः)ज्ञानस्वरूपपरमेश्वरः (आह) ब्रवीति। उपदिशति (तत्) (उ) एव (सोमः) सर्वोत्पादकःपरमात्मा (आह) (पूषा) सर्वपोषकजगदीश्वरः (मा) माम् (धात्) दध्यात् (सुकृतस्य)पुण्यकर्मणः (लोके) समाजे ॥
 </details>
-

@@ -39,9 +39,15 @@ supplying *karotu* to *tiras;* and he refers at the end to *yā* as read
 Vouchsafe to us, ye Asvins twain, such strength as, with atten- dant light, May through the darkness carry us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+या नः॒ पीप॑रद॒श्विना॒ ज्योति॑ष्मती॒ तम॑स्ति॒रः।  
+ताम॒स्मे रा॑सता॒मिष॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-या। नः॒। पीप॑रत्। अ॒श्विना॑। ज्योति॑ष्मती। तमः॑। ति॒रः। ताम्। अ॒स्मे। रा॒स॒ता॒म्। इष॑म्। ४०.४। 
+या। नः॒। पीप॑रत्। अ॒श्विना॑। ज्योति॑ष्मती। तमः॑। ति॒रः। ताम्। अ॒स्मे। रा॒स॒ता॒म्। इष॑म्। ४०.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -71,4 +77,3 @@ Vouchsafe to us, ye Asvins twain, such strength as, with atten- dant light, May 
 
 टिप्पणी:   यह मन्त्र कुछ भेद से ऋग्वेद में है-१।४६।६॥४−(या) इट्। अन्नसामग्री (नः) अस्मान् (पीपरत्) पूरयेत् (अश्विना) व्यवहारेषु व्यापकौ मातापितरौ (ज्योतिष्मती) प्रकाशवती (तमः) अन्धकारम् (तिरः) तिरस्कृत्य (ताम्) तादृशीम् (अस्मे) अस्मभ्यम् (रासताम्) प्रयच्छतां तौ (इषम्) इषम्, अन्ननाम-निघ०२।७। इष्यमानामन्नसामग्रीम् ॥
 </details>
-

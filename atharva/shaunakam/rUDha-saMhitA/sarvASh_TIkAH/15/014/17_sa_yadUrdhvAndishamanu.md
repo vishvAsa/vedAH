@@ -19,9 +19,14 @@ The first pāda is not metrically defined by the Anukr.
 He, when he went away to the upper region, went away having become Brihaspati and having made the exclamation Vashat an eater of food.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स यदू॒र्ध्वांदिश॒मनु॒ व्यच॑ल॒द्बृह॒स्पति॑र्भू॒त्वानु॒व्य᳡चलद्वषट्का॒रम॑न्ना॒दं कृ॒त्वा॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। यत्। ऊ॒र्ध्वाम्। दिश॑म्। अनु॑। वि॒ऽअच॑लत्। बृह॒स्पतिः॑। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। व॒ष॒ट्ऽका॒रम्। अ॒न्न॒ऽअ॒दम्। कृ॒त्वा। १४.१७। 
+सः। यत्। ऊ॒र्ध्वाम्। दिश॑म्। अनु॑। वि॒ऽअच॑लत्। बृह॒स्पतिः॑। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। व॒ष॒ट्ऽका॒रम्। अ॒न्न॒ऽअ॒दम्। कृ॒त्वा। १४.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ He, when he went away to the upper region, went away having become Brihaspati an
 
 टिप्पणी:   १७, १८−(ऊर्ध्वाम्)उन्नताम् (बृहस्पतिः) बृहतानां महतीनां विद्यानां रक्षकः (वषट्कारम्) वहप्रापणे-डषटि। दानव्यवहारम् (वषट्कारेण) दानव्यवहारेण। अन्यत् पूर्ववत्-म० १, २॥
 </details>
-

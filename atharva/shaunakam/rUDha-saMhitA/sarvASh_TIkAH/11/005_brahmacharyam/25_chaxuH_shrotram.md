@@ -19,9 +19,14 @@ Ppp. begins differently: *vācaṁ śreṣṭhāṁ yaśo ‘smāsu*. ⌊Deussen
 Bestow on us the power of sight and hearing, glory and food and seed and blood and belly.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+चक्षुः॒ श्रोत्रं॒ यशो॑ अ॒स्मासु॑ धे॒ह्यन्नं॒ रेतो॒ लोहि॑तमु॒दर॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-चक्षुः॑। श्रोत्र॑म्। यशः॑। अ॒स्मासु॑। धे॒हि॒। अन्न॑म्। रेतः॑। लोहि॑तम्। उदर॑म्। ७.२५। 
+चक्षुः॑। श्रोत्र॑म्। यशः॑। अ॒स्मासु॑। धे॒हि॒। अन्न॑म्। रेतः॑। लोहि॑तम्। उदर॑म्। ७.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Bestow on us the power of sight and hearing, glory and food and seed and blood a
 
 टिप्पणी:   २५−(चक्षुः) रूपग्राहकमिन्द्रियम् (श्रोत्रम्) शब्दग्राहकमिन्द्रियम् (यशः) कीर्तिम् (अस्मासु) (धेहि) धारय (अन्नम्) भोजनम् (रेतः) वीर्यम् (लोहितम्) रुधिरस्वास्थ्यम् (उदरम्) जठरस्वास्थ्यम् ॥
 </details>
-

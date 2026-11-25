@@ -8,9 +8,15 @@ title = "०३ ब्रह्माणस्त्वा वयम्"
 We, Soma-bearing Brahmans, call thee, Soma-drinker, with thy friend, We, Indra, bringing juice expressed.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्र॒ह्माण॑स्त्वा व॒यं यु॒जा सो॑म॒पामि॑न्द्र सो॒मिनः॑।  
+सु॒ताव॑न्तो हवामहे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्र॒ह्माणः॑। त्वा॒। व॒यम्। यु॒जा। सो॒म॒ऽपाम्। इ॒न्द्र॒। सो॒मिनः॑। सु॒तऽव॑न्तः। ह॒वा॒म॒हे॒। ३८.३। 
+ब्र॒ह्माणः॑। त्वा॒। व॒यम्। यु॒जा। सो॒म॒ऽपाम्। इ॒न्द्र॒। सो॒मिनः॑। सु॒तऽव॑न्तः। ह॒वा॒म॒हे॒। ३८.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ We, Soma-bearing Brahmans, call thee, Soma-drinker, with thy friend, We, Indra, 
 
 टिप्पणी:   ३−मन्त्राः १-३ व्याख्याताः-अ०२०।३।१-३॥
 </details>
-

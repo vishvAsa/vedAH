@@ -21,9 +21,14 @@ number of 24 syllables is made out by reading *kroḍó ant-* and
 The Syena ceremony is the breast, Air is the region of the belly,. Brihaspati is the hump, Brihati the breast-bone and cartilages of the ribs.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+श्ये॒नः क्रो॒डो॒३॒॑न्तरि॑क्षं पाज॒स्यं१॒॑ बृह॒स्पतिः॑ क॒कुद्बृ॑ह॒तीः कीक॑साः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श्ये॒नः। क्रो॒डः। अ॒न्तर‍ि॑क्षम्। पा॒ज॒स्य᳡म्। बृह॒स्पतिः॑। क॒कुत्। बृ॒ह॒तीः। कीक॑साः। १२.५। 
+श्ये॒नः। क्रो॒डः। अ॒न्तर‍ि॑क्षम्। पा॒ज॒स्य᳡म्। बृह॒स्पतिः॑। क॒कुत्। बृ॒ह॒तीः। कीक॑साः। १२.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ The Syena ceremony is the breast, Air is the region of the belly,. Brihaspati is
 
 टिप्पणी:   ५−(श्येनः) अ० ३।३।३। श्येन आदित्यो भवति श्यायतेर्गतिकर्मणः-निरु० १४।१३। सूर्यः (क्रोडः) अ० ९।४।१५। अङ्कः (अन्तरिक्षम्) मध्यलोकः (पाजस्यम्) अ० ४।१४।८। पाजसे बलाय हितम्। जठरम् (बृहस्पतिः) लोकविशेषः (ककुत्) अ० ६।८६।३। शिखा (बृहतीः) महत्यो दिशः (कीकसाः) अ० २।३३।२। जत्रुवक्षोगतास्थीनि ॥
 </details>
-

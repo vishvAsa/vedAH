@@ -19,9 +19,15 @@ the accent of the first *asmi*.
 Gods are the Fathers, and the Fathers Gods. I am the very man I am.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+देवाः॒ पित॑रः॒ पित॑रो॒ देवाः॑।  
+यो अस्मि॒ सो अ॑स्मि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-देवाः॑। पित॑रः। पित॑रः। देवाः॑। यः। अस्मि॑। सः। अ॒स्मि॒। १२३.३। 
+देवाः॑। पित॑रः। पित॑रः। देवाः॑। यः। अस्मि॑। सः। अ॒स्मि॒। १२३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Gods are the Fathers, and the Fathers Gods. I am the very man I am.
 
 टिप्पणी:   ३−(देवाः) विद्वांसः (पितरः) पालयितारः। माननीयाः (देवाः) विजिगीषवः (यः) या प्रापणे−ड। गन्ता। उद्योगी (अस्मि) अहं वर्ते (सः) षो अन्तकर्मणि−ड। दुःखनाशकः ॥
 </details>
-

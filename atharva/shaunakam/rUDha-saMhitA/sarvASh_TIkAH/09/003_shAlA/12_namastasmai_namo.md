@@ -19,9 +19,15 @@ Ppp. reads in **b** *kṛṇmasi*.
 Homage to him! We worship too the giver and the Mansion's lord: Homage to Agni! to the man who serves at holy rites for thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नम॒स्तस्मै॒ नमो॑ दा॒त्रे शाला॑पतये च कृण्मः।  
+नमो॒ऽग्नये॑ प्र॒चर॑ते॒ पुरु॑षाय च ते॒ नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नमः॑। तस्मै॑। नमः॑। दा॒त्रे। शाला॑ऽपतये। च॒। कृ॒ण्मः॒। नमः॑। अ॒ग्नये॑। प्र॒ऽचर॑ते। पुरु॑षाय। च॒। ते॒। नमः॑। ३.१२। 
+नमः॑। तस्मै॑। नमः॑। दा॒त्रे। शाला॑ऽपतये। च॒। कृ॒ण्मः॒। नमः॑। अ॒ग्नये॑। प्र॒ऽचर॑ते। पुरु॑षाय। च॒। ते॒। नमः॑। ३.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Homage to him! We worship too the giver and the Mansion's lord: Homage to Agni! 
 
 टिप्पणी:   १२−(नमः) सत्कारम् (तस्मै) (नमः) अन्नम्-निघ० २।७। (दात्रे) ददातेस्तृन्। दत्तवते (शालापतये) गृहस्वामिने (च) (कृण्मः) कुर्मः (नमः) अन्नम् (अग्नये) यज्ञादिष्वग्निसिद्धये (प्रचरते) सेवमानाय (च) (ते) तुभ्यम् ॥
 </details>
-

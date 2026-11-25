@@ -8,9 +8,15 @@ title = "०२ आ हरयः"
 Hither his bay steeds have been sent, red steeds are on the sacred grass. Where we in concert sing our songs.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ हर॑यः ससृज्रि॒रेऽरु॑षी॒रधि॑ ब॒र्हिषि॑।  
+यत्रा॒भि सं॒नवा॑महे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। हर॑यः। स॒सृ॒ज्रि॒रे॒। अरु॑षीः। अधि॑। ‍ब॒र्हिषि॑। यत्र॑। अ॒भि। स॒म्ऽनवा॑महे। ९२.२। 
+आ। हर॑यः। स॒सृ॒ज्रि॒रे॒। अरु॑षीः। अधि॑। ‍ब॒र्हिषि॑। यत्र॑। अ॒भि। स॒म्ऽनवा॑महे। ९२.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Hither his bay steeds have been sent, red steeds are on the sacred grass. Where 
 
 टिप्पणी:   १-३ व्याख्याताः-अ० २०।२२।४-६ ॥
 </details>
-

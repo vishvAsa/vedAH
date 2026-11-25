@@ -21,9 +21,15 @@ who are to be hampered in going, after losing their power of arm.
 Aditya, take their sight away! Follow them close, ye motes of light. Let them cleave fast to foot-bound hosts when strength of arm hath past away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आदि॑त्य॒ चक्षु॒रा द॑त्स्व॒ मरी॑च॒योऽनु॑ धावत।  
+प॑त्स॒ङ्गिनी॒रा स॑जन्तु॒ विग॑ते बाहुवी॒र्ये॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आदि॑त्य। चक्षुः॑। आ। द॒त्स्व॒। मरी॑चयः। अनु॑। धा॒व॒त॒। प॒त्ऽस॒ङ्गिनीः॑। आ। स॒ज॒न्तु॒। विऽग॑ते। बा॒हु॒ऽवी॒र्ये᳡। २१.१०। 
+आदि॑त्य। चक्षुः॑। आ। द॒त्स्व॒। मरी॑चयः। अनु॑। धा॒व॒त॒। प॒त्ऽस॒ङ्गिनीः॑। आ। स॒ज॒न्तु॒। विऽग॑ते। बा॒हु॒ऽवी॒र्ये᳡। २१.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Aditya, take their sight away! Follow them close, ye motes of light. Let them cl
 
 टिप्पणी:   १०−(आदित्य) अ० १।९।१। हे सूर्यसमान तेजस्विन् सेनापते (चक्षुः) शत्रूणां दृष्टिम् (आ दत्स्व) गृहाण। निवारय−इत्यर्थः (मरीचयः) अ० ४।३८।५। हे किरणतुल्याः सेनाजनाः (अनु) पश्चात् (धावत) वेगेन गच्छत (पत्सङ्गिनीः) पद्+षञ्ज−सङ्गे−घञ्, इनि, ङीप्। पादेषु सङ्गो बन्धो यासां ताः। पादशृङ्खलाः। निगडान् (आ सञ्जन्तु) आसक्ताः कुर्वन्तु शत्रवः (विगते) अपगते (बाहुवीर्ये) भुजबले ॥
 </details>
-

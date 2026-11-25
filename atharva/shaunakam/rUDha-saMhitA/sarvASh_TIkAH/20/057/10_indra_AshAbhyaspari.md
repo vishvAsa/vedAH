@@ -8,9 +8,15 @@ title = "१० इन्द्र आशाभ्यस्परि"
 From all the regions of the world let Indra send security. The foe-subduer, swift to act.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॑न्द्र॒ आशा॑भ्य॒स्परि॒ सर्वा॑भ्यो॒ अभ॑यं करत्।  
+जेता॒ शत्रू॒न्विच॑र्षणिः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। आशा॑भ्यः। परि॑। सर्वा॑भ्यः। अभ॑यम्। क॒र॒त्। जेता॑। शत्रू॑न्। विच॑र्षणिः। ५७.१०। 
+इन्द्रः॑। आशा॑भ्यः। परि॑। सर्वा॑भ्यः। अभ॑यम्। क॒र॒त्। जेता॑। शत्रू॑न्। विच॑र्षणिः। ५७.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ From all the regions of the world let Indra send security. The foe-subduer, swif
 
 टिप्पणी:   ४-१०- एते मन्त्रा व्याख्याताः-अ० २।२०।१-७ ॥
 </details>
-

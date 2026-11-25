@@ -17,9 +17,14 @@ gains possession of the roads that the gods travel.
 When he says to his guest, Where didst thou pass the night? he reserves for himself thereby the paths that lead to the Gods.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदे॑न॒माह॒व्रात्य॒ क्वा᳡वात्सी॒रिति॑ प॒थ ए॒व तेन॑ देव॒याना॒नव॑ रुन्द्धे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। ए॒न॒म्। आह॑। व्रात्य॑। क्व᳡। अ॒वा॒त्सीः॒। इति॑। प॒थः। ए॒व। तेन॑। दे॒व॒ऽयाना॑न्। अव॑। रु॒न्ध्दे॒। ११.३। 
+यत्। ए॒न॒म्। आह॑। व्रात्य॑। क्व᳡। अ॒वा॒त्सीः॒। इति॑। प॒थः। ए॒व। तेन॑। दे॒व॒ऽयाना॑न्। अव॑। रु॒न्ध्दे॒। ११.३।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,4 +46,3 @@ When he says to his guest, Where didst thou pass the night? he reserves for hims
 
 टिप्पणी:   ३−(यत्) यदा (एनम्) अतिथिम् (आह) ब्रूते (पथः) मार्गान् (एव)निश्चयेन (तेन) सत्कारेण (देवयानान्) विद्वद्भिर्गन्तव्यान् (अव रुन्द्धे)आत्मने सुरक्षति। अन्यत् पूर्ववत् ॥
 </details>
-

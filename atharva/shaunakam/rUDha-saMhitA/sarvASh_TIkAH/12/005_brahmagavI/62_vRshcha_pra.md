@@ -16,9 +16,14 @@ title = "६२ वृश्च प्र"
 Rend, rend to bits, rend through and through, scorch and con- sume and burn to dust,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वृ॒श्च प्र वृ॑श्च॒ सं वृ॑श्च॒ दह॒ प्र द॑ह॒ सं द॑ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वृ॒श्च॒। प्र। वृ॒श्च॒। सम्। वृ॒श्च॒। दह॑। प्र। द॒ह॒। सम्। द॒ह॒। ११.१। 
+वृ॒श्च॒। प्र। वृ॒श्च॒। सम्। वृ॒श्च॒। दह॑। प्र। द॒ह॒। सम्। द॒ह॒। ११.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Rend, rend to bits, rend through and through, scorch and con- sume and burn to d
 
 टिप्पणी:   ६२−(वृश्च) छिन्धि (प्र) प्रकर्षेण (वृश्च) (सम्) सम्यक् (वृश्च) (दह) भस्मीकुरु (प्र) (दह) (सम्) (दह) ॥
 </details>
-

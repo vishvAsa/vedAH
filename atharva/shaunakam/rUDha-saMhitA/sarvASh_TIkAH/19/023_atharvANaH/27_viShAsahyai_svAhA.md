@@ -19,9 +19,14 @@ intended. ⌊Cf. p. 805, ¶1.⌋
 Hail to the hymn of victory!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॑षास॒ह्यै स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒ऽस॒स॒ह्यै। स्वाहा॑। २३.२७। 
+वि॒ऽस॒स॒ह्यै। स्वाहा॑। २३.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Hail to the hymn of victory!
 
 टिप्पणी:   २७−(विषासह्यै) सहिवहिचलिपतिभ्यो यङन्तेभ्यः किकिनौ वक्तव्यौ। वा० पा०३।२।१७१। षह अभिभवे-कि। अलोपयलोपौ। विविधं पुनः पुनः सोढ्री तस्यै सदाविजयिन्यै वेदविद्यायै ॥
 </details>
-

@@ -17,9 +17,15 @@ all-footed sacrifice yield milk (*duh*) to the giver, unresisting.
 The man who hath this knowledge may receive the Cow with. welcoming. So for the giver willingly doth perfect sacrifice pour milk.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य एवं॑ वि॒द्यात्स व॒शां प्रति॑ गृह्णी॒यात्।  
+तथा॒ हि य॒ज्ञः सर्व॑पाद्दु॒हे दा॒त्रेऽन॑पस्फुरन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। ए॒वम्। वि॒द्यात्। सः। व॒शाम्। प्रति॑। गृ॒ह्णी॒या॒त्। तथा॑। हि। य॒ज्ञः। सर्व॑ऽपात्। दु॒हे। दा॒त्रे। अन॑पऽस्फुरन्। १०.२७। 
+यः। ए॒वम्। वि॒द्यात्। सः। व॒शाम्। प्रति॑। गृ॒ह्णी॒या॒त्। तथा॑। हि। य॒ज्ञः। सर्व॑ऽपात्। दु॒हे। दा॒त्रे। अन॑पऽस्फुरन्। १०.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ The man who hath this knowledge may receive the Cow with. welcoming. So for the 
 
 टिप्पणी:   २७−(यः) पुरुषः (एवम्) पूर्वोक्तं यथा (विद्यात्) जानीयात् (सः) (वशाम्) (प्रति) प्रत्यक्षम् (गृह्णीयात्) स्वीकुर्यात् (तथा) तेन प्रकारेण (हि) यस्मात् कारणात् (यज्ञः) श्रेष्ठव्यवहारः (सर्वपात्) पूर्णस्थितिः (दुहे) दुग्धे। दुह्यते। प्रपूर्यते (दात्रे) सुखदानशीलाय (अनपस्फुरन्) अ० ९।१।७। स्फुर संचलने-शतृ। निश्चलन् ॥
 </details>
-

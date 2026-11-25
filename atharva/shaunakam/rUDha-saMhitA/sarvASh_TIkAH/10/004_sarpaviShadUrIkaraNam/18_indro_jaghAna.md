@@ -18,9 +18,15 @@ Ppp. reads *vas* instead of *u* in **c**.
 O Serpent, Indra hath destroyed the sire who first engendered thee: And when these snakes are pierced and bored what sap and vigour will be theirs?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रो॑ जघान प्रथ॒मं ज॑नि॒तार॑महे॒ तव॑।  
+तेषा॑मु तृ॒ह्यमा॑णानां॒ कः स्वि॒त्तेषा॑मस॒द्रसः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। ज॒घा॒न॒। प्र॒थ॒मम्। ज॒नि॒तार॑म्। अ॒हे॒। तव॑। तेषा॑म्। ऊं॒ इति॑। तृ॒ह्यमा॑णानाम्। कः। स्वि॒त्। तेषा॑म्। अ॒स॒त्। रसः॑। ४.१८। 
+इन्द्रः॑। ज॒घा॒न॒। प्र॒थ॒मम्। ज॒नि॒तार॑म्। अ॒हे॒। तव॑। तेषा॑म्। ऊं॒ इति॑। तृ॒ह्यमा॑णानाम्। कः। स्वि॒त्। तेषा॑म्। अ॒स॒त्। रसः॑। ४.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ O Serpent, Indra hath destroyed the sire who first engendered thee: And when the
 
 टिप्पणी:   १८−(इन्द्रः) परमैश्वर्यवान् पुरुषः (जघान) नाशितवान् (प्रथमम्) आदौ (जनितारम्) जनयितारं जनकम् (अहे) हे महाहिंसक (तव) (तेषाम् तेषाम्) तेषामेव (उ) निश्चयेन (तृह्यमाणानाम्) हिंस्यमानानाम् (कः स्वित्) (असत्) भवेत् (रसः) पराक्रमः ॥
 </details>
-

@@ -25,9 +25,15 @@ simply silly. The Anukr. pays no attention to the redundant syllable
 This once,,and at no other time hereafter in a lengthened life: Cover him, as a wife, O Earth, covers her husband with her robe!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒दमिद्वा उ॒नाप॑रं ज॒रस्य॒न्यदि॒तोऽप॑रम्।  
+जा॒या पति॑मिव॒ वास॑सा॒भ्ये᳡नं भूम ऊर्णुहि॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒दम्। इत्। वै। ऊं॒ इति॑। न। अप॑रम्। ज॒रसि॑। अ॒न्यत्। इ॒तः। अप॑रम्। जा॒या। पति॑म्ऽइव। वास॑सा। अ॒भि। ए॒न॒म्। भू॒मे॒। ऊ॒र्णु॒हि॒। २.५१। 
+इ॒दम्। इत्। वै। ऊं॒ इति॑। न। अप॑रम्। ज॒रसि॑। अ॒न्यत्। इ॒तः। अप॑रम्। जा॒या। पति॑म्ऽइव। वास॑सा। अ॒भि। ए॒न॒म्। भू॒मे॒। ऊ॒र्णु॒हि॒। २.५१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ This once,,and at no other time hereafter in a lengthened life: Cover him, as a 
 
 टिप्पणी:   ५१−(अपरम् अपरम्)अभ्यासे भूयांसमर्थं मन्यन्ते-निरु० १०।४२। अन्यत् किंचिदपि (जरसि) जॄस्तुतौ-असुन्। जरतिरर्चतिकर्मा-निघ० ३।१४। स्तुतौ (अन्यत्) (इतः) अस्मात्परब्रह्मणः (जाया) सुखोत्पादिका पत्नी (पतिम्) भर्तारम् (इव) यथा-अन्यत्पूर्ववत्-म० ५० ॥
 </details>
-

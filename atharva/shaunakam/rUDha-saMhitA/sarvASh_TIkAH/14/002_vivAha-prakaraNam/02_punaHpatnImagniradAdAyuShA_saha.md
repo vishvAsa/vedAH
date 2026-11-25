@@ -21,9 +21,15 @@ ii. 70.
 Agni hath given the bride again with splendour and a lengthened. life. Long-lived be he who is her lord: a hundred autumns let him live.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पुनः॒पत्नी॑म॒ग्निर॑दा॒दायु॑षा स॒ह वर्च॑सा।  
+दी॒र्घायु॑रस्या॒ यः पति॒र्जीवा॑तिश॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पुनः॑। पत्नी॑म्। अ॒ग्निः। अ॒दा॒त्। आयु॑षा। स॒ह। वर्च॑सा। दी॒र्घऽआ॑युः। अ॒स्याः॒। यः। पतिः॑। जीवा॑ति। श॒रदः॑। श॒तम्। २.२। 
+पुनः॑। पत्नी॑म्। अ॒ग्निः। अ॒दा॒त्। आयु॑षा। स॒ह। वर्च॑सा। दी॒र्घऽआ॑युः। अ॒स्याः॒। यः। पतिः॑। जीवा॑ति। श॒रदः॑। श॒तम्। २.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Agni hath given the bride again with splendour and a lengthened. life. Long-live
 
 टिप्पणी:   २−(पुनः) निश्चयेन (पत्नीम्) (अग्निः)सर्वव्यापकः परमेश्वरः (अदात्) दत्तवान् (आयुषा) जीवनेन (सह) (वर्चसा) (दीर्घायुः) चिरंजीवी (अस्याः) पत्न्याः (यः) (पतिः) (जीवाति) जीवतु (शरदः)संवत्सरान् (शतम्) ॥
 </details>
-

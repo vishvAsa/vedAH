@@ -22,9 +22,15 @@ makes equivalent to *ṛjavaḥ pakṣā yasyāḥ.*
 The shaft of Kama, pointed well, that withers and consumes the spleen. With hasty feathers, all aglow, therewith I pierce thee to the heart.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+या प्ली॒हानं॑ शो॒षय॑ति॒ काम॒स्येषुः॒ सुसं॑नता।  
+प्रा॒चीन॑पक्षा॒ व्यो॑षा॒ तया॑ विध्यामि त्वा हृ॒दि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-या। प्ली॒हान॑म्। शो॒षय॑ति। काम॑स्य। इषुः॑। सुऽसं॑नता। प्रा॒चीन॑ऽपक्षा। विऽओ॑षा। तया॑। वि॒ध्या॒मि॒। त्वा॒। हृ॒दि। २५.३। 
+या। प्ली॒हान॑म्। शो॒षय॑ति। काम॑स्य। इषुः॑। सुऽसं॑नता। प्रा॒चीन॑ऽपक्षा। विऽओ॑षा। तया॑। वि॒ध्या॒मि॒। त्वा॒। हृ॒दि। २५.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ The shaft of Kama, pointed well, that withers and consumes the spleen. With hast
 
 टिप्पणी:   ३−(प्लीहानम्) अ० २।३३।३। प्लिह गतौ-कनिन्। गमनम्। कुक्षिवामपार्श्वस्थमांसखण्डम् (शोषयति) दहति (कामस्य) सुमनोरथस्य (इषुः) तीरम् (सुसंनता) सुष्ठु सम्यक् लक्ष्यीकृता (प्राचीनपक्षा) प्राचीनं वेदविज्ञानं पक्ष इव यस्याः सा तथोक्ता (व्योषा) वि+उष दाहे पचाद्यच्, टाप्। विशेषेण दाहशीला। अन्यद्गतम्-म० १ ॥
 </details>
-

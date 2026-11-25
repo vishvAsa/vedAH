@@ -20,9 +20,15 @@ and it puts this verse before our vs. 6.
 He understandeth them, he hath perceived them, her breasts that pour a thousand streams, uninjured. They unreluctantly yield strength and vigour.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स तौ प्र वे॑द॒ स उ॒ तौ चि॑केत॒ याव॑स्याः॒ स्तनौ॑ स॒हस्र॑धारा॒वक्षि॑तौ।  
+ऊर्जं॑ दुहाते॒ अन॑पस्पुरन्तौ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। तौ। प्र। वे॒द॒। सः। ऊं॒ इति॑। तौ। चि॒के॒त॒। यौ। अ॒स्याः॒। स्तनौ॑। स॒हस्र॑ऽधारौ। अक्षि॑तौ। ऊर्ज॑म्। दु॒हा॒ते॒ इति॑। अन॑पऽस्फुरन्तौ। १.७। 
+सः। तौ। प्र। वे॒द॒। सः। ऊं॒ इति॑। तौ। चि॒के॒त॒। यौ। अ॒स्याः॒। स्तनौ॑। स॒हस्र॑ऽधारौ। अक्षि॑तौ। ऊर्ज॑म्। दु॒हा॒ते॒ इति॑। अन॑पऽस्फुरन्तौ। १.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ He understandeth them, he hath perceived them, her breasts that pour a thousand 
 
 टिप्पणी:   ७−(सः) ब्रह्मा (तौ) स्तनौ (अस्याः) मधुकशायाः (स्तनौ) स्तनरूपौ धारणाकर्षणगुणौ (सहस्रधारौ) बहुधारणसामर्थ्ययुक्तौ (अक्षितौ) अक्षीणौ (ऊर्जम्) बलम् (दुहाते) प्रपूरयतः (अनपस्फुरन्तौ) स्फुर संचलने-शतृ। निश्चलन्तौ ॥
 </details>
-

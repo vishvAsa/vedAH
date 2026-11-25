@@ -17,9 +17,15 @@ inviolable one—let them yield etc. etc.
 Let all thy skin, Sataudana! let every hair thou hast, O Cow, Pour for the giver mingled curd, and flowing butter, milk, and mead.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्ते॒ चर्म॑ शतौदने॒ यानि॒ लोमा॑न्यघ्न्ये।  
+आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। ते॒। चर्म॑। श॒त॒ऽओ॒द॒ने॒। यानि॑। लोमा॑नि। अ॒घ्न्ये॒। आ॒मिक्षा॑म्। दु॒ह्र॒ता॒म्। दा॒त्रे। क्षी॒रम्। स॒र्पिः। अथो॒ इति॑। मधु॑। ९.२४। 
+यत्। ते॒। चर्म॑। श॒त॒ऽओ॒द॒ने॒। यानि॑। लोमा॑नि। अ॒घ्न्ये॒। आ॒मिक्षा॑म्। दु॒ह्र॒ता॒म्। दा॒त्रे। क्षी॒रम्। स॒र्पिः। अथो॒ इति॑। मधु॑। ९.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Let all thy skin, Sataudana! let every hair thou hast, O Cow, Pour for the giver
 
 टिप्पणी:   २४−(शतौदने) म० १। हे बहुप्रकारसेचनशीले (अघ्न्ये) म० ३। हे अहिंसिके वेदवाणि। अन्यद् गतम्−म० १३ स्पष्टं च ॥
 </details>
-

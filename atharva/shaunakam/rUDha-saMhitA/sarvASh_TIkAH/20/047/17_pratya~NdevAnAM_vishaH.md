@@ -8,9 +8,15 @@ title = "१७ प्रत्यङ्देवानां विशः"
 Thou guest to the troops of Gods, thou comest hither to man- kind, Hither, all light for us to see.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒त्यङ्दे॒वानां॒ विशः॑ प्र॒त्यङ्ङुदे॑षि॒ मानु॑षीः।  
+प्र॒त्यङ्विश्वं॒ स्व᳡र्दृ॒शे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒त्यङ्। दे॒वाना॑म्। विशः॑। प्र॒त्यङ्। उत्। ए॒षि॒। मानु॑षीः। प्र॒त्यङ्। विश्व॑म्। स्वः॑। दृ॒शे। ४७.१७। 
+प्र॒त्यङ्। दे॒वाना॑म्। विशः॑। प्र॒त्यङ्। उत्। ए॒षि॒। मानु॑षीः। प्र॒त्यङ्। विश्व॑म्। स्वः॑। दृ॒शे। ४७.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Thou guest to the troops of Gods, thou comest hither to man- kind, Hither, all l
 
 टिप्पणी:   १३-२१−एते मन्त्रा व्याख्याताः-अ० १३।२।१६-२४ ॥
 </details>
-

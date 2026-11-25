@@ -18,9 +18,15 @@ oblation.
 For expiration, vital air, and breath that amply nourishes, Let us with sacrifice adore Sarasvati whose reach is wide.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑पा॒नाय॑ व्या॒नाय॑ प्रा॒णाय॒ भूरि॑धायसे।  
+सर॑स्वत्या उरु॒व्यचे॑ वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पा॒नाय॑। वि॒ऽआ॒नाय॑। प्रा॒णाय॑। भूरि॑ऽधायसे। सर॑स्वत्यै। उ॒रु॒ऽव्यचे॑। वि॒धेम॑। ह॒विषा॑। व॒यम्। ४१.२। 
+अ॒पा॒नाय॑। वि॒ऽआ॒नाय॑। प्रा॒णाय॑। भूरि॑ऽधायसे। सर॑स्वत्यै। उ॒रु॒ऽव्यचे॑। वि॒धेम॑। ह॒विषा॑। व॒यम्। ४१.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ For expiration, vital air, and breath that amply nourishes, Let us with sacrific
 
 टिप्पणी:   २−(अपानाय) शरीराद्बहिर्गन्त्रे वायवे (व्यानाय) शरीरव्यापकाय पवनाय (प्राणाय) जीवनसाधनाय समीराय (भूरिधायसे) अ० १।२।१। बहुपोषकाय (सरस्वत्यै) विज्ञानवत्यै विद्यायै (उरुव्यचे) अ० ५।३।८। उरु+वि+अच गतौ−विच्। बहुलं व्याप्नुवत्यै। अन्यत् पूर्ववत् ॥
 </details>
-

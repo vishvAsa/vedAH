@@ -17,9 +17,14 @@ agent etc. etc.
 We know thine origin, O Sleep. Thou art the son of Destruction, the minister of Yama, etc. (as in verse 1).
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अन्त॑कोऽसिमृ॒त्युर॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अन्त॑कः। अ॒सि॒। मृ॒त्युः। अ॒सि॒। ५.२। 
+अन्त॑कः। अ॒सि॒। मृ॒त्युः। अ॒सि॒। ५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ We know thine origin, O Sleep. Thou art the son of Destruction, the minister of 
 
 टिप्पणी:   २−(अन्तकः) अन्तणिच्-ण्वुल्। अन्तयतीति अन्तकः। अन्तकरः (असि) (मृत्युः) मृत्युरिव दुःखप्रदः (असि) ॥
 </details>
-

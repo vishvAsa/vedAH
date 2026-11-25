@@ -8,9 +8,15 @@ title = "११ इमा ब्रह्म"
 Brihaddiva, the foremost of light-winners, repeasts these holy prayers, this strength to Indra. He rules the great self-luminous fold of cattle, and all the doors of light hath he thrown open.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒मा ब्रह्म॑ बृ॒हद्दि॑वः कृणव॒दिन्द्रा॑य शू॒षम॑ग्नि॒यः स्व॒र्षाः।  
+म॒हो गो॒त्रस्य॑ क्षयति स्व॒राजा॒ तुर॑श्चि॒द्विश्व॑मर्णव॒त्तप॑स्वान् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒मा। ब्रह्म॑। बृ॒हत्ऽदि॑वः। कृ॒ण॒व॒त्। इन्द्रा॑य। शू॒षम्। अ॒ग्नि॒यः। स्वः॒ऽसाः। म॒हः। गो॒त्रस्य॑। क्ष॒य॒ति॒। स्व॒ऽराजा॑। तुरः॑। चि॒त्। विश्व॑म्। अ॒र्ण॒व॒त्। तप॑स्वान्। १०७.११। 
+इ॒मा। ब्रह्म॑। बृ॒हत्ऽदि॑वः। कृ॒ण॒व॒त्। इन्द्रा॑य। शू॒षम्। अ॒ग्नि॒यः। स्वः॒ऽसाः। म॒हः। गो॒त्रस्य॑। क्ष॒य॒ति॒। स्व॒ऽराजा॑। तुरः॑। चि॒त्। विश्व॑म्। अ॒र्ण॒व॒त्। तप॑स्वान्। १०७.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Brihaddiva, the foremost of light-winners, repeasts these holy prayers, this str
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
-

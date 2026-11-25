@@ -22,9 +22,15 @@ become conspicuous'; the comm. very strangely renders it 'for injury'
 Those who are sitting round this babe prepare him to be looked upon. Let Agni thoroughly inflamed with all his tongues rise from his- heart.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य ए॑नं परि॒षीद॑न्ति समा॒दध॑ति॒ चक्ष॑से।  
+सं॒प्रेद्धो॑ अ॒ग्निर्जि॒ह्वाभि॒रुदे॑तु॒ हृद॑या॒दधि॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। ए॒न॒म्। प॒रि॒ऽसीद॑न्ति। स॒म्ऽआ॒दध॑ति। चक्ष॑से। स॒म्ऽप्रेध्दः॑। अ॒ग्निः। जि॒ह्वाभिः॑। उत्। ए॒तु॒। हृद॑यात्। अधि॑। ७६.१। 
+ये। ए॒न॒म्। प॒रि॒ऽसीद॑न्ति। स॒म्ऽआ॒दध॑ति। चक्ष॑से। स॒म्ऽप्रेध्दः॑। अ॒ग्निः। जि॒ह्वाभिः॑। उत्। ए॒तु॒। हृद॑यात्। अधि॑। ७६.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Those who are sitting round this babe prepare him to be looked upon. Let Agni th
 
 टिप्पणी:   १−(ये) पुरुषाः (एनम्) अग्निम् (परिषीदन्ति) सेवन्ते (समादधति) समाहितं कुर्वन्ति। ध्यायन्ति (चक्षसे) दर्शनाय (संप्रेद्धः) तैः प्रकर्षेण संदीपितः (अग्निः) सूर्यविद्युदादिरूपः (जिह्वाभिः) स्वज्वालाभिः (उदेतु) उद्गच्छतु (हृदयात्) अस्माकमन्तःकरणात् (अधि) अधिकृत्य ॥
 </details>
-

@@ -20,6 +20,13 @@ Ppp. combines *madhyandino ’d*. The ⌊*nicṛt*⌋ "dissimilar *gāyatrī*,"
 For him the rising Sun murmurs, and Early Morning sings the prelude; Noon chants the psalm, Afternoon joins in; the setting Sun takes up the conclusion. He who hath this know- ledge is the abiding place of welfare, of progeny, and of cattle.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मा॑ उ॒द्यन्त्सूर्यो॒ हिङ्कृ॑णोति संग॒वः प्र स्तौ॑ति ।  
+म॒ध्यन्दि॑न॒ उद्गा॑यत्यपरा॒ह्णः प्रति॑ हरत्यस्तं॒यन् नि॒धन॑म्।  
+नि॒धनं॒ भूत्याः॑ प्र॒जायाः॑ पशू॒नां भ॑वति॒ य ए॒वं वेद॑ ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 तस्मै॑ । उ॒त्ऽयन् । सूर्यः॑ । हिङ् । कृ॒णो॒ति॒ । स॒म्ऽग॒वः । प्र । स्तौ॒ति॒ ॥ १०.४।  

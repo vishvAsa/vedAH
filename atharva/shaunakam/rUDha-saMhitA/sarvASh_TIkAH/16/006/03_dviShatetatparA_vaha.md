@@ -17,9 +17,14 @@ curses.
 Bear that away to him who hates, away to him who curses us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+द्वि॑ष॒तेतत्परा॑ वह॒ शप॑ते॒ तत्परा॑ वह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द्वि॒ष॒ते। तत्। परा॑। व॒ह॒। शप॑ते। तत्। परा॑। व॒ह॒। ६.३। 
+द्वि॒ष॒ते। तत्। परा॑। व॒ह॒। शप॑ते। तत्। परा॑। व॒ह॒। ६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Bear that away to him who hates, away to him who curses us.
 
 टिप्पणी:   ३−(द्विषते) वैद्येभ्यःकुप्रीतिकारिणे (तत्) कष्टम् (परा वह) दूरे गमय (शपते) शापं कुर्वते। अन्यत्पूर्ववत् ॥
 </details>
-

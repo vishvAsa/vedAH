@@ -8,9 +8,15 @@ title = "२३ अङ्गेअङ्गे लोम्निलोम्न
 Avaunt, thou Master of the Mind, I Depart and vanish far away. Look on Destruction far from us. The live man's mind is manifold.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अङ्गेअ॑ङ्गे॒ लोम्नि॑लोम्नि॒ यस्ते॒ पर्व॑णिपर्वणि।  
+यक्षं॑ त्वच॒स्यं᳡ ते व॒यं क॒श्यप॑स्य वीब॒र्हेण॒ विष्व॑ञ्चं॒ वि वृ॑हामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अङ्गे॑ऽअङ्गे। लोम्नि॑ऽलोम्नि। ते॒। पर्व॑णिऽपर्व॑णि। यक्ष्म॑म्। त्व॒च॒स्य॑म्। ते॒। व॒यम्। क॒श्यप॑स्य। वि॒ऽब॒र्हेण॑। वि॒ष्व॑ञ्चम्। वि। वृहा॒म॒सि॒। ९६.२३। 
+अङ्गे॑ऽअङ्गे। लोम्नि॑ऽलोम्नि। ते॒। पर्व॑णिऽपर्व॑णि। यक्ष्म॑म्। त्व॒च॒स्य॑म्। ते॒। व॒यम्। क॒श्यप॑स्य। वि॒ऽब॒र्हेण॑। वि॒ष्व॑ञ्चम्। वि। वृहा॒म॒सि॒। ९६.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Avaunt, thou Master of the Mind, I Depart and vanish far away. Look on Destructi
 
 टिप्पणी:   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
-

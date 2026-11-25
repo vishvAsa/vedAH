@@ -17,9 +17,14 @@ being permitted by a thus-knowing Vrātya, makes oblation.
 The abode of the man who sacrifices when permitted by the Vratya who possesses this knowledge is long left remaining in this world.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पर्य॑स्या॒स्मिंल्लो॒क आ॒यत॑नं शिष्यते॒ य ए॒वं वि॒दुषा॒ व्रात्ये॒नाति॑सृष्टोजु॒होति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परि॑। अ॒स्य॒। अ॒स्मिन्। लो॒के। आ॒ऽयत॑नम्। शि॒ष्य॒ते॒। यः। ए॒वम्। वि॒दुषा॑। व्रात्ये॑न। अति॑ऽसृष्टः। जु॒हो॒ति॒। १२.७। 
+परि॑। अ॒स्य॒। अ॒स्मिन्। लो॒के। आ॒ऽयत॑नम्। शि॒ष्य॒ते॒। यः। ए॒वम्। वि॒दुषा॑। व्रात्ये॑न। अति॑ऽसृष्टः। जु॒हो॒ति॒। १२.७।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,4 +46,3 @@ The abode of the man who sacrifices when permitted by the Vratya who possesses t
 
 टिप्पणी:   ७−(परि)सर्वतः (अस्य) गृहस्थस्य (अस्मिन्) दृश्यमाने (लोके) संसारे (आयतनम्)यती-ल्युट्। मर्यादाम्। आश्रयः (शिष्यते) अवशिष्टं वर्तते। अन्यत् पूर्ववत्-म० ४॥
 </details>
-

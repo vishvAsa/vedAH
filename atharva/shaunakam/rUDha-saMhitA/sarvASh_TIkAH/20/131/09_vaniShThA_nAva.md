@@ -8,9 +8,14 @@ title = "०९ वनिष्ठा नाव"
 The ladle doth not hold apart
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वनि॑ष्ठा॒ नाव॑ गृ॒ह्यन्ति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वनि॑ष्ठाः॒। न। अव॑। गृ॒ह्यन्‍त‍ि॑। १३१.९। 
+वनि॑ष्ठाः॒। न। अव॑। गृ॒ह्यन्‍त‍ि॑। १३१.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ The ladle doth not hold apart
 
 टिप्पणी:   ९−(वनिष्ठाः) वनितृ-इष्ठन्, तृचो लोपः। वनितृतमाः। उपकारितमाः (न) निषेधे (अव गृह्यन्ति) अवग्रहं प्रतिरोधं प्राप्नुवन्ति ॥
 </details>
-

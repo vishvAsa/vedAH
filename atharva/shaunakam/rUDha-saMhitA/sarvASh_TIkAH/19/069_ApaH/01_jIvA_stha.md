@@ -16,9 +16,14 @@ title = "०१ जीवा स्थ"
 Ye are alive. I fain would live. I fain would live my complete term of life.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+जी॒वा स्थ॑ जी॒व्यासं॒ सर्व॒मायु॑र्जीव्यासम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-जी॒वाः। स्थ॒। जी॒व्यास॑म्। सर्व॑म्। आयुः॑। जी॒व्या॒स॒म्। ६९.१। 
+जी॒वाः। स्थ॒। जी॒व्यास॑म्। सर्व॑म्। आयुः॑। जी॒व्या॒स॒म्। ६९.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Ye are alive. I fain would live. I fain would live my complete term of life.
 
 टिप्पणी:   १−(जीवाः) जीवनवन्तः (स्थ) भवथ (जीव्यासम्) जीवनवान् भूयासम् (सर्वम्) सम्पूर्णम् (आयुः) जीवनम् (जीव्यासम्) ॥
 </details>
-

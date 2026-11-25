@@ -21,9 +21,15 @@ tvā?) pr-*. The Anukr. pays no heed to the irregularity of the verse (9
 The man who takes thee as his own, and he who was thy builder,. House! Both these, O Lady of the Home, shall live to long-extended' years.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्त्वा॑ शाले प्रतिगृ॒ह्णाति॒ येन॒ चासि॑ मि॒ता त्वम्।  
+उ॒भौ मा॑नस्य पत्नि॒ तौ जीव॑तां ज॒रद॑ष्टी ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। त्वा॒। शा॒ले॒। प्र॒ति॒ऽगृ॒ह्णाति॑। येन॑। च॒। असि॑। मि॒ता। त्वम्। उ॒भौ। मा॒न॒स्य॒। प॒त्नि॒। तौ। जीव॑ताम्। ज॒रद॑ष्टी इति॑ ज॒रत्ऽअ॑ष्टी। ३.९। 
+यः। त्वा॒। शा॒ले॒। प्र॒ति॒ऽगृ॒ह्णाति॑। येन॑। च॒। असि॑। मि॒ता। त्वम्। उ॒भौ। मा॒न॒स्य॒। प॒त्नि॒। तौ। जीव॑ताम्। ज॒रद॑ष्टी इति॑ ज॒रत्ऽअ॑ष्टी। ३.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ The man who takes thee as his own, and he who was thy builder,. House! Both thes
 
 टिप्पणी:   ९−(प्रतिगृह्णाति) स्वीकरोति (मिता) निर्मिता। रचिता (उभौ) द्वौ (मानस्य) सम्मानस्य (पत्नि) हे रक्षिके (तौ) (जीवताम्) प्राणान् धारयताम् (जरदष्टी) अ० २।२८।५। जरता स्तुत्या सह अष्टिः कार्यव्याप्तिर्भोजनं वा ययोस्तौ। अन्यद् गतम् ॥
 </details>
-

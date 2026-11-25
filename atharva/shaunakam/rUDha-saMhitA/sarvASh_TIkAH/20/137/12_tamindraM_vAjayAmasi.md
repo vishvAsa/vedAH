@@ -8,9 +8,15 @@ title = "१२ तमिन्द्रं वाजयामसि"
 We make this Indra very strong to strike the mighty Vritra dead: A vigorous Hero shall he be.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तमिन्द्रं॑ वाजयामसि म॒हे वृ॒त्राय॒ हन्त॑वे।  
+स वृषा॑ वृष॒भो भु॑वत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तम्। इन्द्र॑म्। वा॒ज॒या॒म॒सि॒। म॒हे। वृ॒त्राय॑। हन्त॑वे। सः। वृषा॑। वृ॒ष॒भः। भु॒व॒त्। १३७.१२। 
+तम्। इन्द्र॑म्। वा॒ज॒या॒म॒सि॒। म॒हे। वृ॒त्राय॑। हन्त॑वे। सः। वृषा॑। वृ॒ष॒भः। भु॒व॒त्। १३७.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ We make this Indra very strong to strike the mighty Vritra dead: A vigorous Hero
 
 टिप्पणी:   मन्त्र १२-१४ आचुके हैं-अथ० २०।४७।१-३ ॥  १२-१४−एते मन्त्रा व्याख्याताः-अथ० २०।४७।१-३ ॥
 </details>
-

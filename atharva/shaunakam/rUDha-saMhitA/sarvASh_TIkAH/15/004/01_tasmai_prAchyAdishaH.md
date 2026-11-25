@@ -27,9 +27,14 @@ is a description by reference to another metrical unity.⌋
 For him they made the two Spring months protectors from the eastern region, and Brihat and Rathantara superintendents. The two Spring months protect from the eastern region, and Brihat and Rathantara superintend, the man who possesses this knowledge. For him they made the two Summer months pro- tectors from the southern region, and Yajnayajniya and Vamadevya superintendents. The two Summer months, etc. as in Verse 1,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मै॒ प्राच्या॑दि॒शः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्मै॑। प्राच्याः॑। दि॒शः। ४.१। 
+तस्मै॑। प्राच्याः॑। दि॒शः। ४.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +64,3 @@ For him they made the two Spring months protectors from the eastern region, and 
 
 टिप्पणी:   १−(तस्मै) विदुषे जनाय (प्राच्याः) पूर्वायाः (दिशः) दिक्सकाशात् ॥
 </details>
-

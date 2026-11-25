@@ -18,9 +18,14 @@ this verse, Ppp. has only the last three words.⌋
 He gained the lordship of the Gods. He became Lord.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स दे॒वाना॑मी॒शांपर्यै॒त्स ईशा॑नोऽभवत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। दे॒वाना॑म्। ई॒शाम्। परि॑। ऐ॒त्। सः। ईशा॑नः। अ॒भ॒व॒त्। १.५। 
+सः। दे॒वाना॑म्। ई॒शाम्। परि॑। ऐ॒त्। सः। ईशा॑नः। अ॒भ॒व॒त्। १.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ He gained the lordship of the Gods. He became Lord.
 
 टिप्पणी:   ५−(सः)परमात्मा (देवानाम्) व्यवहारकुशलानाम् (ईशाम्) ईश ऐश्वर्ये-अ, टाप्। ईशा ईशस्यपत्नी विभूतिः। ईश्वरताम्। प्रभुताम् (परि) सर्वतः (ऐत्) प्राप्नोत् (सः) (ईशानः) ईश-चानश्। परमेश्वरः (अभवत्) ॥
 </details>
-

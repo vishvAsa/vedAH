@@ -17,9 +17,14 @@ of strong drink doth he become the dear abode who knoweth thus.
 He who hath this knowledge becomes the dear home of Meeting, Assembly, Army, and Wine.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒भाया॑श्च॒ वै ससमि॑तेश्च॒ सेना॑याश्च॒ सुरा॑याश्च प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒भायाः॑। च॒। वै। सः। सम्ऽइ॑तेः। च॒। सेना॑याः। च॒। सुरा॑याः। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ९.३। 
+स॒भायाः॑। च॒। वै। सः। सम्ऽइ॑तेः। च॒। सेना॑याः। च॒। सुरा॑याः। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ९.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ He who hath this knowledge becomes the dear home of Meeting, Assembly, Army, and
 
 टिप्पणी:   ३−उपरि व्याख्यातं यथोचितं योजनीयम् ॥
 </details>
-

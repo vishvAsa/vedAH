@@ -19,9 +19,14 @@ faculty.
 All hail for breath to Air, for power to life to Vayu, sovran Lord!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रा॒णाया॒न्तरि॑क्षाय॒ वयो॑भ्यो वा॒यवेऽधि॑पतये॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रा॒णाय॑। अ॒न्तरि॑क्षाय। वयः॑ऽभ्यः। वा॒यवे॑। अधि॑ऽपतये। स्वाहा॑। १०.२। 
+प्रा॒णाय॑। अ॒न्तरि॑क्षाय। वयः॑ऽभ्यः। वा॒यवे॑। अधि॑ऽपतये। स्वाहा॑। १०.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ All hail for breath to Air, for power to life to Vayu, sovran Lord!
 
 टिप्पणी:   २−(प्राणाय) प्राणहिताय (अन्तरिक्षाय) मध्यलोकाय (वयोभ्यः) अ० २।१०।३। अन्नादिपदार्थेभ्यः (वायवे) गमनशीलाय पवनाय (अधिपतये) अन्तरिक्षस्य पालकाय (स्वाहा) सुन्दरस्तुतिः ॥
 </details>
-

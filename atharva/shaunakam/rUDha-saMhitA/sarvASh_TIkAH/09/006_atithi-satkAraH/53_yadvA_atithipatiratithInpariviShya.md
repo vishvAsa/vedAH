@@ -19,9 +19,14 @@ guests, then he is even going down unto the purifactory bath
 Or if the host, having offered food to his guest, goes up to the house, he virtually enters the bath of purification.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्वा अति॑थिपति॒रति॑थीन्परि॒विष्य॑ गृ॒हानु॑पो॒दैत्य॑व॒भृथ॑मे॒व तदु॒पावै॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। वै। अति॑थिऽपतिः। अति॑थीन्। प॒रि॒ऽविष्य॑। गृ॒हान्। उ॒प॒ऽउ॒दैति॑। अ॒व॒ऽभृथ॑म्। ए॒व। तत्। उ॒प॒ऽअवै॑ति। ११.५। 
+यत्। वै। अति॑थिऽपतिः। अति॑थीन्। प॒रि॒ऽविष्य॑। गृ॒हान्। उ॒प॒ऽउ॒दैति॑। अ॒व॒ऽभृथ॑म्। ए॒व। तत्। उ॒प॒ऽअवै॑ति। ११.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Or if the host, having offered food to his guest, goes up to the house, he virtu
 
 टिप्पणी:   ५−(यत्) यदा (वै) एव (अतिथिपतिः) गृहस्थः (अतिथीन्) अभ्यागतान् (परिविष्य) भोजनं समर्प्य (गृहान्) गृहस्थान् पुरुषान् (उपोदैति) उप+उत्+आ+एति। यथावत् प्राप्नोति (अवभृथम्) अवे भृञः। उ० २।३। अव+डुभृञ् धारणपोषणयोः−क्थन्। यज्ञान्तस्नानम् (एव) (तत्) (उपावैति) उप+अव+एति। प्राप्नोति ॥
 </details>
-

@@ -29,9 +29,15 @@ hide of a red ox.
 Take thou this wrapper as a screen, to be a covering for the bride O Sinivali, let her bear children, and live in Bhaga's grace.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शर्म॒ वर्मै॒तदाह॑रा॒स्यै नार्या॑ उप॒स्तिरे॑।  
+सिनी॑वालि॒ प्र जा॑यतां॒ भग॑स्य सुम॒ताव॑सत्॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शर्म॑। वर्म॑। ए॒तत्। आ। ह॒र॒। अ॒स्यै। नार्यै॑। उ॒प॒ऽस्तरे॑। सिनी॑वालि। प्र। जा॒य॒ता॒म्। भग॑स्य। सु॒ऽम॒तौ। अ॒स॒त्। २.२१। 
+शर्म॑। वर्म॑। ए॒तत्। आ। ह॒र॒। अ॒स्यै। नार्यै॑। उ॒प॒ऽस्तरे॑। सिनी॑वालि। प्र। जा॒य॒ता॒म्। भग॑स्य। सु॒ऽम॒तौ। अ॒स॒त्। २.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,4 +67,3 @@ Take thou this wrapper as a screen, to be a covering for the bride O Sinivali, l
 
 टिप्पणी:   २१−(शर्म) सुखप्रदम् (वर्म) कवचम् (एतत्) (आ हर) आनय (अस्यै) (नार्यै) (उपस्तिरे) अवचक्षे च। पा० ३।४।१५। स्तृञ्स्तॄञ् आच्छादने-एश् प्रत्ययो बाहुलकात् तुमर्थे। उपस्त्रे। उपस्तर्तुम्।आच्छादयितुम्। अन्यद् व्याख्यातम्-म० १५ ॥
 </details>
-

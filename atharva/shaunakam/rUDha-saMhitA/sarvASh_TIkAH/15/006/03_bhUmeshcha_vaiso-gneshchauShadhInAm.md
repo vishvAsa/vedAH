@@ -20,9 +20,14 @@ more or less throughout the hymn.
 He who possesses this knowledge becomes the dear home of Earth and Agni and herbs and trees and shrubs and plants.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+भूमे॑श्च॒ वैसो॒३॒॑ऽग्नेश्चौष॑धीनां च॒ वन॒स्पती॑नां च वानस्प॒त्यानां॑ च॑ वी॒रुधां॑ चप्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भूमेः॑। च॒। वै। सः। अ॒ग्नेः। च॒। ओष॑धीनाम्। च॒। वन॒स्पती॑नाम्। च॒। वा॒न॒स्प॒त्याना॑म्। च॒। वी॒रुधा॑म्। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ६.३। 
+भूमेः॑। च॒। वै। सः। अ॒ग्नेः। च॒। ओष॑धीनाम्। च॒। वन॒स्पती॑नाम्। च॒। वा॒न॒स्प॒त्याना॑म्। च॒। वी॒रुधा॑म्। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ He who possesses this knowledge becomes the dear home of Earth and Agni and herb
 
 टिप्पणी:   ३−(धाम) गृहम् (एवम्) सू० २ म० ३। इण् गतौ-वन्।ईदृशं व्यापकं वा व्रात्यम्। अन्यद् गतं सुगमं च ॥
 </details>
-

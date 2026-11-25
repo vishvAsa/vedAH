@@ -8,9 +8,15 @@ title = "०४ इन्द्र क्रतुविदम्"
 Indra, whom many laud, accept the strength-conferring Soma juice. Quaff, pour down drink that satisfies.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्र॑ क्रतु॒विदं॑ सु॒तं सोमं॑ हर्य पुरुष्टुत।  
+पि॒बा वृ॑षस्व॒ तातृ॑पिम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑। क्र॒तु॒ऽविद॑म्। सु॒तम्। सोम॑म्। ह॒र्य॒। पु॒रु॒ऽस्तु॒त॒। पिब॑। आ। वृ॒ष॒स्व॒। ततृ॑पिम्। ७.४। 
+इन्द्र॑। क्र॒तु॒ऽविद॑म्। सु॒तम्। सोम॑म्। ह॒र्य॒। पु॒रु॒ऽस्तु॒त॒। पिब॑। आ। वृ॒ष॒स्व॒। ततृ॑पिम्। ७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Indra, whom many laud, accept the strength-conferring Soma juice. Quaff, pour do
 
 टिप्पणी:   यह मन्त्र आ चुका है-अ० २०।६।२ ॥  ४−अयं मन्त्रो व्याख्यातः-अ० २०।६।२ ॥
 </details>
-

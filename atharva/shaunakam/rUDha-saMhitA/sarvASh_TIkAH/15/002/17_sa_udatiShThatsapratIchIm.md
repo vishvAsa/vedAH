@@ -10,12 +10,17 @@ title = "१७ स उदतिष्ठत्सप्रतीचीम्"
 
 <details><summary>Griffith</summary>
 
-He arose and went away to the western region. 
+He arose and went away to the western region.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उद॑तिष्ठ॒त्सप्र॒तीचीं॒ दिश॒मनु॒ व्य᳡चलत् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-सः। उत्। अ॒ति॒ष्ठ॒त्। सः। प्र॒तीची॑म्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। २.१५। 
+सः। उत्। अ॒ति॒ष्ठ॒त्। सः। प्र॒तीची॑म्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। २.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,4 +50,3 @@ He arose and went away to the western region.
 
 टिप्पणी:   १५−(प्रतीचीम्) पश्चाद्भागस्थाम्। पश्चिमाम्। अन्यत् पूर्ववत्-म० १ ॥
 </details>
-

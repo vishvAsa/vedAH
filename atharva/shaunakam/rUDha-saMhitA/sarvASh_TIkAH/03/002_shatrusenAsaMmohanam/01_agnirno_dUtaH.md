@@ -22,9 +22,15 @@ to have *śatrūn* instead of *vidvān* at end of **a**.
 May Agni, he who knows, our envoy, meet them, burning against ill-will and imprecation. May he bewilder our opponent's senses. May Jatavedas smite and make them handless.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्निर्नो॑ दू॒तः प्र॒त्येतु॑ वि॒द्वान्प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्।  
+स चि॒त्तानि॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। नः॒। दू॒तः। प्र॒ति॒ऽएतु॑। वि॒द्वान्। प्र॒ति॒ऽदह॑न्। अ॒भिऽश॑स्तिम्। अरा॑तिम्। सः। चि॒त्तानि॑। मो॒ह॒य॒तु॒। परे॑षाम्। निःऽह॑स्तान्। च॒। कृ॒ण॒व॒त्। जा॒तऽवे॑दाः। २.१। 
+अ॒ग्निः। नः॒। दू॒तः। प्र॒ति॒ऽएतु॑। वि॒द्वान्। प्र॒ति॒ऽदह॑न्। अ॒भिऽश॑स्तिम्। अरा॑तिम्। सः। चि॒त्तानि॑। मो॒ह॒य॒तु॒। परे॑षाम्। निःऽह॑स्तान्। च॒। कृ॒ण॒व॒त्। जा॒तऽवे॑दाः। २.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ May Agni, he who knows, our envoy, meet them, burning against ill-will and impre
 
 टिप्पणी:   १−(दूतः)। अ० १।७।६। दु गतौ-यद्वा, टुदु उपतापे-क्त। अग्रेसरः। उपतापकः (चित्तानि)। अन्तःकरणानि। अन्यद् व्याख्यातम्-सू० १ म० १ ॥
 </details>
-

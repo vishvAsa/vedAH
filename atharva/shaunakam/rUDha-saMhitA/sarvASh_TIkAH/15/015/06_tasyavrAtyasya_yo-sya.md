@@ -18,9 +18,15 @@ That is, doubtless, the wind, and not soma.
 His fourth vital breath, called Pervading is this Pavamana.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्य॒व्रात्य॑स्य।  
+यो᳡ऽस्य॑ चतु॒र्थः प्रा॒णो वि॒भूर्नामा॒यं स पव॑मानः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। च॒तु॒र्थः। प्रा॒णः। वि॒ऽभूः। नाम॑। अ॒यम्। सः। पव॑मानः। १५.६। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। च॒तु॒र्थः। प्रा॒णः। वि॒ऽभूः। नाम॑। अ॒यम्। सः। पव॑मानः। १५.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ His fourth vital breath, called Pervading is this Pavamana.
 
 टिप्पणी:   ६−(विभूः) व्यापकः (पवमानः) शोधकवायुविद्या। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

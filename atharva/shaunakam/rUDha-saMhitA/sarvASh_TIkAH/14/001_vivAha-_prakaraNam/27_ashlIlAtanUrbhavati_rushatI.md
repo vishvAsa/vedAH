@@ -24,9 +24,15 @@ the RV.⌋ *An̄ga* might mean 'body' (so the translators). ⌊For vss. 27,
 Unlovely is his body when it glistens with that wicked fiend, What time the husband wraps about his limbs the garment of his wife.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑श्ली॒लात॒नूर्भ॑वति॒ रुश॑ती पा॒पया॑मु॒या।  
+पति॒र्यद्व॒ध्वो॒३॒॑ वास॑सः॒स्वमङ्ग॑मभ्यूर्णु॒ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒श्ली॒ला। त॒नूः। भ॒व॒ति॒। रुश॑ती। पा॒पया॑। अ॒मु॒या। पतिः॑। यत्। व॒ध्वः᳡। वास॑सः। स्वम्। अङ्ग॑म्। अ॒भि॒ऽऊ॒र्णु॒ते। १.२७। 
+अ॒श्ली॒ला। त॒नूः। भ॒व॒ति॒। रुश॑ती। पा॒पया॑। अ॒मु॒या। पतिः॑। यत्। व॒ध्वः᳡। वास॑सः। स्वम्। अङ्ग॑म्। अ॒भि॒ऽऊ॒र्णु॒ते। १.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Unlovely is his body when it glistens with that wicked fiend, What time the husb
 
 टिप्पणी:   २७−(अश्लीला) श्रीरहिता। कुरूपा (तनूः) रूपम् (भवति) (रुशती) रोचमाना (पापया) पापबुद्धया (अमुया) प्रसिद्धया (पतिः) (यत्) यदा (वध्वः) पत्न्याः (वाससः) वस्त्रात् (स्वम्) स्वकीयम् (अङ्गम्)(अभ्यूर्णुते) आच्छादयति ॥
 </details>
-

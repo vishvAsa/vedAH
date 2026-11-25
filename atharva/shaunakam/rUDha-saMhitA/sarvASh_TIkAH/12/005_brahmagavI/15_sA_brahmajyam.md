@@ -21,9 +21,14 @@ accident, and might better have been printed as such.
 This, the Brahman's cow, being appropriated, holdeth bound in the fetter of Death the oppressor of the Brahman, the blas- phemer of the Gods.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सा ब्र॑ह्म॒ज्यं दे॑वपी॒युं ब्र॑ह्मग॒व्या᳡दी॒यमा॑ना मृ॒त्योः पड्वी॑ष॒ आ द्य॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। ब्र॒ह्म॒ऽज्यम्। दे॒व॒ऽपी॒युम्। ब्र॒ह्म॒ऽग॒वी। आ॒ऽदी॒यमा॑ना। मृ॒त्योः। पड्वी॑शे। आ। द्य॒ति॒। ७.४। 
+सा। ब्र॒ह्म॒ऽज्यम्। दे॒व॒ऽपी॒युम्। ब्र॒ह्म॒ऽग॒वी। आ॒ऽदी॒यमा॑ना। मृ॒त्योः। पड्वी॑शे। आ। द्य॒ति॒। ७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ This, the Brahman's cow, being appropriated, holdeth bound in the fetter of Deat
 
 टिप्पणी:   १५−(सा) पूर्वोक्ता (ब्रह्मज्यम्) अ० ५।१९।७। कविधौ सर्वत्र प्रसारणिभ्यो डः। वा० पा० ३।२।३। ब्रह्म+ज्या वयोहानौ−ड। ब्रह्मचारिणां हानिकरम् (देवपीयुम्) अ० ४।३५।७। विदुषां हिंसकम् (ब्रह्मगवी) म० ५। वेदवाणी (आदीयमाना) अपह्रियमाणा (मृत्योः) मरणस्य (पड्वीशे) अ० ६।९६।२। पश बन्धने−अटि, डित्+विश प्रवेशने−क, दीर्घश्च। पाशप्रवेशे। शृङ्खलायाम् (आद्यति) आङ्पूर्वो दो बन्धने। बध्नाति ॥
 </details>
-

@@ -21,9 +21,15 @@ help little.
 On Indra Fervour rests, on him the worlds and Holy Law recline. Indra, I clearly know that all of thee on Skambha findeth rest.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रे॑ लो॒का इन्द्रे॒ तप॒ इन्द्रे॑ऽध्यृ॒तमाहि॑तम्।  
+इन्द्रं॒ त्वा वे॑द प्र॒त्यक्षं॑ स्क॒म्भे सर्वं॒ प्रति॑ष्ठितम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रे॑। लो॒काः। इन्द्रे॑। तपः॑। इन्द्रे॑। अधि॑। ऋ॒तम्। आऽहि॑तम्। इन्द्र॑म्। त्वा॒। वे॒द॒। प्र॒ति॒ऽअक्ष॑म्। स्क॒म्भे। सर्व॑म्‌। प्रति॑ऽस्थितम्। ७.३०। 
+इन्द्रे॑। लो॒काः। इन्द्रे॑। तपः॑। इन्द्रे॑। अधि॑। ऋ॒तम्। आऽहि॑तम्। इन्द्र॑म्। त्वा॒। वे॒द॒। प्र॒ति॒ऽअक्ष॑म्। स्क॒म्भे। सर्व॑म्‌। प्रति॑ऽस्थितम्। ७.३०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ On Indra Fervour rests, on him the worlds and Holy Law recline. Indra, I clearly
 
 टिप्पणी:   ३०−(इन्द्रे) परमैश्वर्यवति जगदीश्वरे (स्कम्भे) सर्वधारके (प्रतिष्ठितम्) परस्परं स्थितम्। अन्यत् पूर्ववत् ॥
 </details>
-

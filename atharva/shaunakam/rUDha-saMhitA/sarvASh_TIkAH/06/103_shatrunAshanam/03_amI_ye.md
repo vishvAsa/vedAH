@@ -19,9 +19,15 @@ The comm. glosses *anīkaśas* with *saṁghaśas*.
 Those yonder who approach to fight, with banners raised along their ranks, Indra hath girded these with cord: bind them together, Agni, thou!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒मी ये युध॑मा॒यन्ति॑ के॒तून्कृ॒त्वानी॑क॒शः।  
+इन्द्र॒स्तान्पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒मी इति॑। ये। युध॑म्। आ॒ऽयन्ति॑। के॒तून्। कृ॒त्वा। अ॒नी॒क॒ऽशः। इन्द्रः॑। तान्। परि॑। अ॒हाः॒। दाम्ना॑। तान्। अ॒ग्ने॒। सम्। द्य॒। त्वम्। १०३.३। 
+अ॒मी इति॑। ये। युध॑म्। आ॒ऽयन्ति॑। के॒तून्। कृ॒त्वा। अ॒नी॒क॒ऽशः। इन्द्रः॑। तान्। परि॑। अ॒हाः॒। दाम्ना॑। तान्। अ॒ग्ने॒। सम्। द्य॒। त्वम्। १०३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Those yonder who approach to fight, with banners raised along their ranks, Indra
 
 टिप्पणी:   ३−(अमी) दूरे दृश्यमानाः (ये) शत्रवः (युधम्) संग्रामम् (केतून्) चायः की। उ० १।७४। चायृ पूजानिशामनयोः−तु, यद्वा, कि ज्ञाने−तु। केतुः प्रज्ञा−निघ० ३।९। केतुना कर्मणा प्रज्ञया वा−निरु० ११।२७। ज्ञापकान् ध्वजान् (कृत्वा) अनुष्ठाय (अनीकशः) अ० ५।२१।८। सघशः। अन्यत् पूर्ववत्−म० २ ॥
 </details>
-

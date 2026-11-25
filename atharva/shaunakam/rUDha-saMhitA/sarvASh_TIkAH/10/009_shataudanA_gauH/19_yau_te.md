@@ -18,9 +18,15 @@ Ppp. reads, after *bāhū, yāu te aṅsāu dūhanaṁ yā ca* etc.
 Let both thy shoulders and thy hump, thy forelegs, and their lower parts, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यौ ते॑ बा॒हू ये दो॒षणी॒ यावंसौ॒ या च॑ ते क॒कुत्।  
+आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यौ। ते॒। बा॒हू इति॑। ये इति॑। दो॒षणी॒ इति॑। यौ। अंसौ॑। या। च॒। ते॒। क॒कुत्। अ॒मिक्षा॑म्। दु॒ह्र॒ता॒म्। दा॒त्रे। क्षी॒रम्। स॒र्पिः। अथो॒ इति॑। मधु॑। ९.१९। 
+यौ। ते॒। बा॒हू इति॑। ये इति॑। दो॒षणी॒ इति॑। यौ। अंसौ॑। या। च॒। ते॒। क॒कुत्। अ॒मिक्षा॑म्। दु॒ह्र॒ता॒म्। दा॒त्रे। क्षी॒रम्। स॒र्पिः। अथो॒ इति॑। मधु॑। ९.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Let both thy shoulders and thy hump, thy forelegs, and their lower parts, etc.
 
 टिप्पणी:   १९−(दोषणी) अ० ९।७।७। भुजदण्डौ (ककुत्) अ० ३।४।२। वृषादिस्कन्धपृष्ठस्थमांसपिण्डः। अन्यत् स्पष्टम् ॥
 </details>
-

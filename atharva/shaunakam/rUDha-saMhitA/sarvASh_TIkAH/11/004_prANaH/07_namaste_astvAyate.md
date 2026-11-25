@@ -20,9 +20,15 @@ the verse after our 8, and reads *te ‘stu* in **a**, and *namo ‘stu* in
 Homage to thee when coming nigh, homage to thee departing hence! Homage, O Prana, be to thee when standing and when sitting still.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नम॑स्ते अस्त्वाय॒ते नमो॑ अस्तु पराय॒ते।  
+नम॑स्ते प्राण॒ तिष्ठ॑त॒ आसी॑नायो॒त ते॒ नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नमः॑। ते॒। अ॒स्तु॒। आ॒ऽय॒ते। नमः॑। अ॒स्तु॒। प॒रा॒ऽय॒ते। नमः॑। ते॒। प्रा॒ण॒। तिष्ठ॑ते। आसी॑नाय। उ॒त। ते॒। नमः॑। ६.७। 
+नमः॑। ते॒। अ॒स्तु॒। आ॒ऽय॒ते। नमः॑। अ॒स्तु॒। प॒रा॒ऽय॒ते। नमः॑। ते॒। प्रा॒ण॒। तिष्ठ॑ते। आसी॑नाय। उ॒त। ते॒। नमः॑। ६.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Homage to thee when coming nigh, homage to thee departing hence! Homage, O Prana
 
 टिप्पणी:   ७−(नमः) नमस्कारः (ते) तुभ्यम् (अस्तु) भवतु (आयते) आगच्छते पुरुषाय (परायते) बहिर्गच्छते (प्राण) हे जीवनप्रद परमेश्वर (तिष्ठते) स्थितिं कुर्वते (आसीनाय) उपविष्टपुरुषहिताय (उत) अपि च। अन्यद् गतम् ॥
 </details>
-

@@ -19,9 +19,15 @@ Nor does the Anukr. heed the deficient syllables in **b** of this verse.
 Himself, the father and the son, the grandson, and the father's sire, Mother, wife, her who bore his babes, all the beloved ones I call.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॒त्मानं॑ पि॒तरं॑ पु॒त्रं पौत्रं॑ पिताम॒हम्।  
+जा॒यां जनि॑त्रीं मा॒तरं॒ ये प्रि॒यास्तानुप॑ ह्वये ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒त्मान॑म्। पि॒तर॑म्। पु॒त्रम्। पौत्र॑म्। पि॒ता॒म॒हम्। जा॒याम्। जनि॑त्रीम्। मा॒तर॑म्। ये। प्रि॒याः। तान्। उप॑। ह्व॒ये॒। ५.३०। 
+आ॒त्मान॑म्। पि॒तर॑म्। पु॒त्रम्। पौत्र॑म्। पि॒ता॒म॒हम्। जा॒याम्। जनि॑त्रीम्। मा॒तर॑म्। ये। प्रि॒याः। तान्। उप॑। ह्व॒ये॒। ५.३०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Himself, the father and the son, the grandson, and the father's sire, Mother, wi
 
 टिप्पणी:   ३०−(आत्मानम्) आत्मबलम् (पितरम्) पातारं जनकम् (पुत्रम्) अ० १।११।५। कुलशोधकं सुतम् (पौत्रम्) पुत्र-अण्। नप्तारम् (पितामहम्) पितृव्यमातुलमातामहपितामहाः। पा० ४।२।३।६। पितृ-डामहच्। पितुः पितरम् (जायाम्) पत्नीम् (जनित्रीम्) जनयित्रीं जननीम् (मातरम्) (ये) (प्रियाः) प्रीतिकराः (तान्) (उप) आदरेण (ह्वये) आह्वयामि ॥
 </details>
-

@@ -21,9 +21,15 @@ at beginning of **c**, *te te devāṣ pu-*.
 I have obscured the heaven and earth, yea, and the daylight and the sun. So may these Gods whom I have set before me oppose with saving charms and banish witchcraft.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒न्तर्द॑धे॒ द्यावा॑पृथि॒वी उ॒ताह॑रु॒त सूर्य॑म्।  
+ते मे॑ दे॒वाः पु॒रोहि॑ताः प्र॒तीचीः॑ कृ॒त्याः प्र॑तिस॒रैर॑जन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒न्तः। द॒धे॒। द्यावा॑पृथि॒वी इति॑। उ॒त। अहः॑। उ॒त। सूर्य॑म्। ते। मे॒। दे॒वाः। पु॒रःऽहि॑ताः। प्र॒तीचीः॑। कृ॒त्याः। प्र॒ति॒ऽस॒रैः। अ॒ज॒न्तु॒। ५.६। 
+अ॒न्तः। द॒धे॒। द्यावा॑पृथि॒वी इति॑। उ॒त। अहः॑। उ॒त। सूर्य॑म्। ते। मे॒। दे॒वाः। पु॒रःऽहि॑ताः। प्र॒तीचीः॑। कृ॒त्याः। प्र॒ति॒ऽस॒रैः। अ॒ज॒न्तु॒। ५.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ I have obscured the heaven and earth, yea, and the daylight and the sun. So may 
 
 टिप्पणी:   ६−(अन्तः) मध्ये (दधे) धरामि (द्यावापृथिवी) आकाशभूमी। तत्रत्यान् पदार्थान् (उत) अपि च (अहः) दिनम् (उत) (सूर्यम्) आदित्यम्। शिष्टं पूर्ववत्-म० ५ ॥
 </details>
-

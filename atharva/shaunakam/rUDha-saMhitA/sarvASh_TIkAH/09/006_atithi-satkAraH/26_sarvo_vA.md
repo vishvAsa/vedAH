@@ -23,9 +23,14 @@ out).
 All that man's sin whose food they do not eat remains unblot- ted out.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वो॒ वा ए॒षोऽज॒ग्धपा॑प्मा॒ यस्यान्नं॒ नाश्नन्ति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वः॑। वै। ए॒षः। अज॑ग्धऽपाप्मा। यस्य॑। अन्न॑म्। न। अ॒श्नन्ति॑। ७.९। 
+सर्वः॑। वै। ए॒षः। अज॑ग्धऽपाप्मा। यस्य॑। अन्न॑म्। न। अ॒श्नन्ति॑। ७.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ All that man's sin whose food they do not eat remains unblot- ted out.
 
 टिप्पणी:   ९−(अजग्धपाप्मा) अनाशितपापः। अन्यत् सुगमम् ॥
 </details>
-

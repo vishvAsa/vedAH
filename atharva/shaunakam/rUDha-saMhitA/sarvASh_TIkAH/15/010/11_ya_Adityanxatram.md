@@ -16,9 +16,14 @@ title = "११ य आदित्यङ्क्षत्रम्"
 Who knows that Aditya is Royalty and that Heaven is Indra.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य आ॑दि॒त्यंक्ष॒त्रं दिव॒मिन्द्रं॒ वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। आ॒दि॒त्यम्। अ॒न्नम्। दिव॑म्। इन्द्र॑म्। वेद॑। १०.११। 
+यः। आ॒दि॒त्यम्। अ॒न्नम्। दिव॑म्। इन्द्र॑म्। वेद॑। १०.११।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -40,4 +45,3 @@ Who knows that Aditya is Royalty and that Heaven is Indra.
 
 टिप्पणी:   ११−(यः) पुरुषः (आदित्यम्) सूर्यवत्तेजोमयम् (क्षत्रम्) क्षत्रियकुलम् (दिवम्) दिवु द्युतौ गतौच-डिवि। दीप्यमानां राजनीतिम् (इन्द्रम्) ऐश्वर्यम् (वेद) जानाति ॥
 </details>
-

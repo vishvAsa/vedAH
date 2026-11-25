@@ -21,9 +21,15 @@ above, p. 815.⌋
 Agni hath looked against the van of Mornings, against the days- the earliest Jatavedas; In many a place against the beams of Surya, against the heavens and earth hath he extended.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रत्य॒ग्निरु॒षसा॒मग्र॑मख्य॒त्प्रत्यहा॑नि प्रथ॒मो जा॒तवे॑दाः।  
+प्रति॒सूर्य॑स्य पुरु॒धा च॑ र॒श्मीन्प्रति॒ द्यावा॑पृथि॒वी आ त॑तान ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रति॑। अ॒ग्निः। उ॒षसा॑म्। अग्र॑म्। अ॒ख्य॒त्। प्रति॑। अहा॑नि। प्र॒थ॒मः। जा॒तऽवे॑दाः। प्रति॑। सूर्य॑स्य। पु॒रु॒ऽधा। च॒। र॒श्मीन्। प्रति॑। द्यावा॑पृथि॒वी इति॑। आ। त॒ता॒न॒। १.२८। 
+प्रति॑। अ॒ग्निः। उ॒षसा॑म्। अग्र॑म्। अ॒ख्य॒त्। प्रति॑। अहा॑नि। प्र॒थ॒मः। जा॒तऽवे॑दाः। प्रति॑। सूर्य॑स्य। पु॒रु॒ऽधा। च॒। र॒श्मीन्। प्रति॑। द्यावा॑पृथि॒वी इति॑। आ। त॒ता॒न॒। १.२८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Agni hath looked against the van of Mornings, against the days- the earliest Jat
 
 टिप्पणी:   २७−मन्त्रौ २७, २८ पूर्वत्र व्याख्यातौ-अ०७।८२।४, ५ ॥
 </details>
-

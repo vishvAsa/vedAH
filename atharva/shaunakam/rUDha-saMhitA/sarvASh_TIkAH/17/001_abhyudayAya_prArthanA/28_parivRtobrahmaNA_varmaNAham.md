@@ -27,9 +27,15 @@ give *áva॰sṛṣṭā* instead of *-ṭāḥ* in **d**. The comm. adds the
 Compassed am I with prayer, my shield and armour; compassed with Kasyapa's bright light and splendour. Let not shafts reach me shot from heaven against me, nor those sent forth by men for my destruction.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+परि॑वृतो॒ब्रह्म॑णा॒ वर्म॑णा॒हं क॑श्यपस्य॒ ज्योति॑षा॒ वर्च॑सा च।  
+मा मा॒प्राप॒न्निष॑वो॒ दैव्या॒ या मा मानु॑षी॒रव॑सृष्टाः व॒धाय॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परि॑ऽवृतः। ब्रह्म॑णा। वर्म॑णा। अ॒हम्। क॒श्यप॑स्य। ज्योति॑षा। वर्च॑सा। च॒। मा। मा॒। प्र। आ॒प॒न्। इष॑वः। दैव्याः॑। याः। मा। मानु॑षीः। अव॑ऽसृष्टाः। व॒धाय॑। १.२८। 
+परि॑ऽवृतः। ब्रह्म॑णा। वर्म॑णा। अ॒हम्। क॒श्यप॑स्य। ज्योति॑षा। वर्च॑सा। च॒। मा। मा॒। प्र। आ॒प॒न्। इष॑वः। दैव्याः॑। याः। मा। मानु॑षीः। अव॑ऽसृष्टाः। व॒धाय॑। १.२८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ Compassed am I with prayer, my shield and armour; compassed with Kasyapa's brigh
 
 टिप्पणी:   २८−(परिवृतः) परिवेष्टितः। अन्यत् पूर्ववत्-म० २७ (मा) माम् (मा प्रापन्) मा प्राप्नुयुः (इषवः) बाणाः (दैव्याः) देव-यञ्। आधिदैविक्यः (याः) (मा) निषेधे (मानुषीः) मानुष्यः। अधिभौतिक्य इत्यर्थः (अवसृष्टाः) प्रेरिताः (वधाय) हननाय ॥
 </details>
-

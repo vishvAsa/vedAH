@@ -19,9 +19,15 @@ The first three pādas are the same with 4 **a, b, c**, above.
 Inbreath and outbreath, ear and eye, decay and freedom from decay. Breath upward and diffused, voice, mind, these quickly with the body move,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रा॑णापा॒नौ चक्षुः॒ श्रोत्र॒मक्षि॑तिश्च॒ क्षिति॑श्च॒ या।  
+व्या॑नोदा॒नौ वाङ्मनः॒ शरी॑रेण॒ त ई॑यन्ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रा॒णा॒पा॒नौ। चक्षुः॑। श्रोत्र॑म्। अक्षि॑तिः। च॒। क्षितिः॑। च॒। या। व्या॒न॒ऽउ॒दा॒नौ। वाक्। मनः॑। शरी॑रेण। ते। ई॒य॒न्ते॒। १०.२६। 
+प्रा॒णा॒पा॒नौ। चक्षुः॑। श्रोत्र॑म्। अक्षि॑तिः। च॒। क्षितिः॑। च॒। या। व्या॒न॒ऽउ॒दा॒नौ। वाक्। मनः॑। शरी॑रेण। ते। ई॒य॒न्ते॒। १०.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Inbreath and outbreath, ear and eye, decay and freedom from decay. Breath upward
 
 टिप्पणी:   २६−त्रयः पादाः पूर्ववत्-म० ४। (शरीरेण) देहेन (ते) पूर्वोक्ताः पदार्थाः (ईयन्ते) ईङ् गतौ−श्यन्। गच्छन्ति। प्रवर्तन्ते ॥
 </details>
-

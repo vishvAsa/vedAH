@@ -16,9 +16,15 @@ title = "०५ तस्यव्रात्यस्य योऽस्य"
 His fifth diffused breath are the Seasons.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्य॒व्रात्य॑स्य।  
+यो᳡ऽस्य॑ पञ्च॒मो व्या॒नस्त ऋ॒तवः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। प॒ञ्च॒मः। वि॒ऽआ॒नः। ते। ऋ॒तवः॑। १७.५। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। प॒ञ्च॒मः। वि॒ऽआ॒नः। ते। ऋ॒तवः॑। १७.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +54,3 @@ His fifth diffused breath are the Seasons.
 
 टिप्पणी:   ५−(ऋतवः) वसन्तादीनांक्रमकारणादिबोधः अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

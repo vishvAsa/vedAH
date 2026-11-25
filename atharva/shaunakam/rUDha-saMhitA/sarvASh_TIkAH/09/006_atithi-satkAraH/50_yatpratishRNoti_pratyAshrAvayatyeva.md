@@ -20,9 +20,14 @@ we must read *prati-ā́śrāvayati evá*. ⌊A hyphen is missing after the
 He (the door-keeper) pronounces the sacrificial formula in his answer to what he hears.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्प्र॑तिशृ॒णोति॑ प्र॒त्याश्रा॑वयत्ये॒व तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। प्र॒ति॒ऽशृ॒णोति॑। प्र॒ति॒ऽआश्रा॑वयति। ए॒व। तत्। ११.२। 
+यत्। प्र॒ति॒ऽशृ॒णोति॑। प्र॒ति॒ऽआश्रा॑वयति। ए॒व। तत्। ११.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ He (the door-keeper) pronounces the sacrificial formula in his answer to what he
 
 टिप्पणी:   २−(प्रतिशृणोति) प्रतीत्य श्रद्धया शृणोति (प्रत्याश्रावयति) श्रद्धयोपदिशति। अन्यत् पूर्ववत् ॥
 </details>
-

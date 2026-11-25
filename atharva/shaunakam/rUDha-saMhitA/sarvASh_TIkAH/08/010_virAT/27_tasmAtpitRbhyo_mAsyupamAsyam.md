@@ -25,9 +25,14 @@ in our text the lost accent-mark under the *ti* of *jīvanti* in **d**.
 She rose approached the Apsarases and Gandharvas. They called her, Come to us, O Fragrant-scented! The son of Suryavarchas, Chitraratha, was her dear calf, her pail. a lotus-petal. The son of Suryavarchas, Vasuruchi, milked and drew from her most delightful fragrance. That scent supports Apsarases and Gandharvas. He who knows this becomes a meet supporter, and round him ever breathes delicious odour.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मा॑त्पि॒तृभ्यो॑ मा॒स्युप॑मास्यं ददति॒ प्र पि॑तृ॒याणं॒ पन्थां॑ जानाति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्मा॑त्। पि॒तृऽभ्यः॑। मा॒सि। उप॑ऽमास्यम्। द॒द॒ति॒। प्र। पि॒तृ॒ऽयान॑म्। पन्था॑म्। जा॒ना॒ति॒। यः। ए॒वम्। वेद॑। १२.४। 
+तस्मा॑त्। पि॒तृऽभ्यः॑। मा॒सि। उप॑ऽमास्यम्। द॒द॒ति॒। प्र। पि॒तृ॒ऽयान॑म्। पन्था॑म्। जा॒ना॒ति॒। यः। ए॒वम्। वेद॑। १२.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +62,3 @@ She rose approached the Apsarases and Gandharvas. They called her, Come to us, O
 
 टिप्पणी:   ४−(पितृभ्यः) ऋतूनामर्थम्। ऋतूनां सकाशात् (मासि) मासे (उपमास्यम्) मासि चन्द्रमसि प्रभवममृतम् (ददति) प्रयच्छन्ति, ईश्वरनियमा इति शेषः (प्र) प्रकर्षेण (पितृयाणम्) ऋतुभिर्गमनीयम् (पन्थाम्) मार्गम्। अन्यत् सुगमम् ॥
 </details>
-

@@ -19,9 +19,14 @@ Ppp. begins *tasyā ’gnir vat-*. Accent in our text, with all the mss.,
 Her calf, her well-beloved calf, was Indra: Gayatri was her rope, the cloud her udder.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोद॑क्राम॒त्सामन्त्र॑णे॒ न्य᳡क्रामत्।
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अ॒क्रा॒म॒त्। सा। आ॒ऽमन्त्र॑णे। नि। अ॒क्रा॒म॒त्। १०.१२। 
+सा। उत्। अ॒क्रा॒म॒त्। सा। आ॒ऽमन्त्र॑णे। नि। अ॒क्रा॒म॒त्। १०.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Her calf, her well-beloved calf, was Indra: Gayatri was her rope, the cloud her 
 
 टिप्पणी:   १२− (आमन्त्रणे) आङ्+मत्रि गुप्तपरिभाषणे-ल्युट्। सम्बोधने। अभिनन्दने। अन्यत् पूर्ववत् ॥
 </details>
-

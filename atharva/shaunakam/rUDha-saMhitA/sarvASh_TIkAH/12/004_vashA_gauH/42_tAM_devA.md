@@ -27,9 +27,15 @@ the superlative in **d**, cf. the punning lampoon on the name of Gotama,
 The Gods considered her in doubt whether she were a Cow or not. Mirada spake of her and said, The veriest Cow of cows is she.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तां दे॒वा अ॑मीमांसन्त व॒शेया३मव॒शेति॑।  
+ताम॑ब्रवीन्नार॒द ए॒षा व॒शानां॑ व॒शत॒मेति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ताम्। दे॒वाः। अ॒मी॒मां॒स॒न्त॒। व॒शा। इ॒या३म्। अव॑शा३। इति॑। ताम्। अ॒ब्र॒वी॒त्। ना॒र॒दः। ए॒षा। व॒शाना॑म्। व॒शऽत॑मा। इति॑। ४.४२। 
+ताम्। दे॒वाः। अ॒मी॒मां॒स॒न्त॒। व॒शा। इ॒या३म्। अव॑शा३। इति॑। ताम्। अ॒ब्र॒वी॒त्। ना॒र॒दः। ए॒षा। व॒शाना॑म्। व॒शऽत॑मा। इति॑। ४.४२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ The Gods considered her in doubt whether she were a Cow or not. Mirada spake of 
 
 टिप्पणी:   ४२−(ताम्) वेदवाणीम् (देवाः) विजिगीषवः (अमीमांसन्त) मान जिज्ञासायाम्−स्वार्थे सन्−लङ्। विचारितवन्तः (वशा) कमनीया (इयम्) वेदवाणी (अवशा) अकमनीया (इति) (ताम्) वेदवाणीम् (अब्रवीत्) कथितवान् (नारदः) म० १६। नीतिप्रदः (एषा) वेदवाणी (वशानाम्) कमनीयानां शक्तीनां मध्ये (वशतमा) अतिशयेन कमनीया (इति) ॥
 </details>
-

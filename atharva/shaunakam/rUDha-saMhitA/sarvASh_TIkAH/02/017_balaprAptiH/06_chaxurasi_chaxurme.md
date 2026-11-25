@@ -16,9 +16,14 @@ title = "०६ चक्षुरसि चक्षुर्मे"
 Eye art thou, give me eyes. All hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+चक्षु॑रसि॒ चक्षु॑र्मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-चक्षुः॑। अ॒सि॒। चक्षुः॑। मे॒। दाः॒। स्वाहा॑। १७.६। 
+चक्षुः॑। अ॒सि॒। चक्षुः॑। मे॒। दाः॒। स्वाहा॑। १७.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Eye art thou, give me eyes. All hail!
 
 टिप्पणी:   ६–चक्षुः। अ० १।३३।४। चक्षिङ् दर्शने–उसि। दृष्ट्या। दर्शनशक्त्या ॥
 </details>
-

@@ -21,9 +21,14 @@ our mss. of the Anukr. in the description of 5 **a**, SPP. prints
 Unlimited nights . . . . unlimited holy realms.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तद्यस्यै॒वंवि॒द्वान्व्रात्य॑स्तृ॒तीयां॒ रात्रि॒मति॑थिर्गृ॒हे वस॑ति॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तत्। यस्य॑। ए॒वम्। वि॒द्वान्। व्रात्यः॑। तृ॒तीया॑म्। रात्रि॑म्। अति॑थिः। गृ॒हे। वस॑ति। १३.५। 
+तत्। यस्य॑। ए॒वम्। वि॒द्वान्। व्रात्यः॑। तृ॒तीया॑म्। रात्रि॑म्। अति॑थिः। गृ॒हे। वस॑ति। १३.५।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -45,4 +50,3 @@ Unlimited nights . . . . unlimited holy realms.
 
 टिप्पणी:   ५, ६−(दिवि)सूर्यमण्डले। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

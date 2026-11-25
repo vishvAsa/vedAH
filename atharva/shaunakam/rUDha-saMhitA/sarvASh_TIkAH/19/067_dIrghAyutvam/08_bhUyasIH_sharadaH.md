@@ -41,9 +41,14 @@ as we had done before. \*⌊At p. 543⁹.⌋
 A hundred, yea, and even more.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+भूय॑सीः श॒रदः॑ श॒तात् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भूय॑सीः। श॒रदः॑। श॒तात्। ६७.८। 
+भूय॑सीः। श॒रदः॑। श॒तात्। ६७.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -73,4 +78,3 @@ A hundred, yea, and even more.
 
 टिप्पणी:   ८−(भूयसीः) अधिकतराः (शरदः) वर्षाणि (शतात्) शतसंख्याकात् ॥
 </details>
-

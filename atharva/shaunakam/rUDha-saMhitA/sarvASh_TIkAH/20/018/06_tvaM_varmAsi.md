@@ -8,9 +8,15 @@ title = "०६ त्वं वर्मासि"
 Thou art mine ample coat of mail, my champion, Vritra-slayes, thou. With thee for Friend I brave the foe.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वं वर्मा॑सि स॒प्रथः॑ पुरोयो॒धश्च॑ वृत्रहन्।  
+त्वया॒ प्रति॑ ब्रुवे यु॒जा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वम्। वर्म॑। अ॒सि॒। स॒ऽप्रथः॑। पु॒रः॒ऽयो॒धः। च॒। वृ॒त्र॒ऽह॒न्। त्वया॑। प्रति॑। ब्रु॒वे॒। यु॒जा। १८.६। 
+त्वम्। वर्म॑। अ॒सि॒। स॒ऽप्रथः॑। पु॒रः॒ऽयो॒धः। च॒। वृ॒त्र॒ऽह॒न्। त्वया॑। प्रति॑। ब्रु॒वे॒। यु॒जा। १८.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Thou art mine ample coat of mail, my champion, Vritra-slayes, thou. With thee fo
 
 टिप्पणी:   ६−(त्वम्) (वर्म) कवचमिव (असि) (सप्रथः) सविस्तारम् (पुरोयुधः) उग्रतो योद्धा (च) (वृत्रहन्) हे दुष्टनाशक (त्वया) (प्रति ब्रुवे) प्रत्यक्षं प्रतिकूलं वा कथयामि भर्त्सयामि (युजा) संगन्त्रा। मित्रेण ॥
 </details>
-

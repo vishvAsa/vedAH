@@ -19,9 +19,15 @@ We had this verse ⌊RV. vs. 40⌋ above, as vii. 73. 11.
 Fortunate mayst thou be with goodly pasture, and may we also be exceeding wealthy. Feed on the grass, O Cow, through all the seasons, and coming hitherward drink limpid water.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सू॑यव॒साद्भग॑वती॒ हि भू॒या अधा॑ व॒यं भग॑वन्तः स्याम।  
+अ॒द्धि तृण॑मघ्न्ये विश्व॒दानीं॒ पिब॑ शु॒द्धमु॑द॒कमा॒चर॑न्ती ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सु॒य॒व॒स॒ऽअत्। भग॑ऽवती। हि। भू॒याः। अध॑। व॒यम्। भग॑ऽवन्तः। स्या॒म॒। अ॒ध्दि। तृण॑म्। अ॒घ्न्ये॒। वि॒श्व॒ऽदानी॑म्। पिब॑। शु॒ध्दम्। उ॒द॒कम्। आ॒ऽचर॑न्ती। १५.२०। 
+सु॒य॒व॒स॒ऽअत्। भग॑ऽवती। हि। भू॒याः। अध॑। व॒यम्। भग॑ऽवन्तः। स्या॒म॒। अ॒ध्दि। तृण॑म्। अ॒घ्न्ये॒। वि॒श्व॒ऽदानी॑म्। पिब॑। शु॒ध्दम्। उ॒द॒कम्। आ॒ऽचर॑न्ती। १५.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Fortunate mayst thou be with goodly pasture, and may we also be exceeding wealth
 
 टिप्पणी:   २०-अयं मन्त्रो व्याख्यातः-अ० ७।७३।११ ॥
 </details>
-

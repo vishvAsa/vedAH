@@ -19,9 +19,15 @@ deficiency of a syllable in **a**.
 Consumptions, light and serious, and those which sounds accompany, All these the Amulet, Hundred-haired, scarer of fiends, hath banished hence.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये यक्ष्मा॑सो अर्भ॒का म॒हान्तो॒ ये च॑ श॒ब्दिनः॑।  
+सर्वा॑न् दुर्णाम॒हा म॒णिः श॒तवा॑रो अनीनशत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। यक्ष्मा॑सः। अ॒र्भ॒काः। म॒हान्तः॑। ये। च॒। श॒ब्दिनः॑। सर्वा॑न्। दु॒र्ना॒म॒ऽहा। म॒णिः। श॒तऽवा॑रः। अ॒नी॒न॒श॒त्। ३६.३। 
+ये। यक्ष्मा॑सः। अ॒र्भ॒काः। म॒हान्तः॑। ये। च॒। श॒ब्दिनः॑। सर्वा॑न्। दु॒र्ना॒म॒ऽहा। म॒णिः। श॒तऽवा॑रः। अ॒नी॒न॒श॒त्। ३६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Consumptions, light and serious, and those which sounds accompany, All these the
 
 टिप्पणी:   ३−(ये) (यक्ष्मासः) यक्ष्माः। राजरोगाः (अर्भकाः) क्षुद्राः (महान्तः) वृद्धिं गताः (ये) (च) (शब्दिनः) महाशब्दकारकाः (सर्वान्) (दुर्णामहा) दुर्णाम्नामर्शआदिरोगाणां हन्ता (मणिः) प्रशस्तः (शतवारः) म०१। (अनीनशत्) नाशितवान् ॥
 </details>
-

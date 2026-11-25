@@ -16,9 +16,14 @@ title = "०६ भवेम शरदः"
 A hundred autumns may we be.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+भवे॑म श॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भवे॑म। श॒रदः॑। श॒तम्। ६७.६। 
+भवे॑म। श॒रदः॑। श॒तम्। ६७.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ A hundred autumns may we be.
 
 टिप्पणी:   ६−(भवेम) स्याम। वर्तेमहि ॥
 </details>
-

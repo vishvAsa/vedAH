@@ -17,9 +17,14 @@ rains \[were\] two.
 Two of its feet were Summer and Spring, and two were Autumn and the Rains.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्या॑ग्री॒ष्मश्च॑ वस॒न्तश्च॒ द्वौ पादा॒वास्तां॑ श॒रच्च॑ व॒र्षाश्च॒ द्वौ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्याः॑। ग्री॒ष्मः। च॒। व॒स॒न्तः। च॒। द्वौ। पादौ॑। आस्ता॑म्। श॒रत्। च॒। व॒र्षाः। च॒। द्वौ। ३.४। 
+तस्याः॑। ग्री॒ष्मः। च॒। व॒स॒न्तः। च॒। द्वौ। पादौ॑। आस्ता॑म्। श॒रत्। च॒। व॒र्षाः। च॒। द्वौ। ३.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Two of its feet were Summer and Spring, and two were Autumn and the Rains.
 
 टिप्पणी:   ४−(तस्याः) आसन्द्याः (ग्रीष्मः)निदाघकालः (च) (वसन्तः) (द्वौ) (पादौ) चरणे (आस्ताम्) अभवताम् (शरत्) शरद्ऋतुः (च) (वर्षाः) वृष्टिकालः (च) (द्वौ) ॥
 </details>
-

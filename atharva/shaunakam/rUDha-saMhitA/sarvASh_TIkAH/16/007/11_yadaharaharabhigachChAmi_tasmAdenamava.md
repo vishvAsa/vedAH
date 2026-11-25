@@ -16,9 +16,14 @@ title = "११ यदहरहरभिगच्छामि तस्माद
 Whether I meet with it day by day, from that do I bribe him away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदह॑रहरभि॒गच्छा॑मि॒ तस्मा॑देन॒मव॑ दये ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। अहः॑ऽअहः। अ॒भि॒ऽगच्छा॑मि। तस्मा॑त्। ए॒न॒म्। अव॑। द॒ये॒। ७.११। 
+यत्। अहः॑ऽअहः। अ॒भि॒ऽगच्छा॑मि। तस्मा॑त्। ए॒न॒म्। अव॑। द॒ये॒। ७.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Whether I meet with it day by day, from that do I bribe him away.
 
 टिप्पणी:   ११−(यत्)कष्टम् (अहरहः) प्रतिदिनम् (अभिगच्छामि) अहमाभिमुख्येन प्राप्नोमि (तस्मात्)कारणात् (एनम्) दुष्टम् (अव दये) विनाशयामि ॥
 </details>
-

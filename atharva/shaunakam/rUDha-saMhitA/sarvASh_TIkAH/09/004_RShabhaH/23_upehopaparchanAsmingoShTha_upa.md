@@ -25,9 +25,15 @@ Anukr. does not heed the irregularity.
 Here we restore this Bull, your youthful leader: sporting with him, go, wander at your pleasure. Ne'er, wealthy ones! may he be reft of offspring; and do ye favour us with growth of riches.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उपे॒होप॑पर्चना॒स्मिन्गो॒ष्ठ उप॑ पृञ्च नः।  
+उप॑ ऋष॒भस्य॒ यद्रेत॒ उपे॑न्द्र॒ तव॑ वी॒र्य᳡म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑। इ॒ह। उ॒प॒ऽप॒र्च॒न॒। अ॒स्मिन्। गो॒ऽस्थे। उप॑। पृ॒ञ्च॒। नः॒। उप॑। ऋ॒ष॒भस्य॑। यत्। रेतः॑। उप॑। इ॒न्द्र॒। तव॑। वी॒र्य᳡म्। ४.२४। 
+उप॑। इ॒ह। उ॒प॒ऽप॒र्च॒न॒। अ॒स्मिन्। गो॒ऽस्थे। उप॑। पृ॒ञ्च॒। नः॒। उप॑। ऋ॒ष॒भस्य॑। यत्। रेतः॑। उप॑। इ॒न्द्र॒। तव॑। वी॒र्य᳡म्। ४.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Here we restore this Bull, your youthful leader: sporting with him, go, wander a
 
 टिप्पणी:   २३−(उप उप) अति समीपम् (इह) अत्र (उपपर्चन) पृची संपर्के-ल्यु। हे समीपसम्बन्धिन् (अस्मिन्) (गोष्ठे) वाचां स्थाने (पृञ्च) संयोजय (नः) अस्मान् (उप) (ऋषभस्य) श्रेष्ठस्य (यत्) (रेतः) पराक्रमः (उप) (इन्द्र) हे परमैश्वर्यवन् जगदीश्वर (तव) (वीर्यम्) वीरत्वं बलम् ॥
 </details>
-

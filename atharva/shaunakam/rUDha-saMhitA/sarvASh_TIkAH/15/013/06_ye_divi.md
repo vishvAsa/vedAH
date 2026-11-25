@@ -20,9 +20,14 @@ or *nāmabibhrát*.
 Now he to whose house a non-Vratya, calling himself a Vratya, and one in name only, comes as a guest.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये दि॒वि पुण्या॑लो॒कास्ताने॒व तेनाव॑ रुन्द्धे॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। दि॒वि। पुण्याः॑। लो॒काः। तान्। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। १३.६। 
+ये। दि॒वि। पुण्याः॑। लो॒काः। तान्। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। १३.६।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -44,4 +49,3 @@ Now he to whose house a non-Vratya, calling himself a Vratya, and one in name on
 
 टिप्पणी:   ५, ६−(दिवि)सूर्यमण्डले। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

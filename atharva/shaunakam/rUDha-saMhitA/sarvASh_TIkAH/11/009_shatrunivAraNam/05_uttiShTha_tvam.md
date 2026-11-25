@@ -18,9 +18,15 @@ The comm. explains *bhogébhis* as *ātmīyāiḥ sarpaśarīrāiḥ*.
 Rise with our army stand thou up. O Godlike Being, Arbudi. Breaking the hosts of enemies, surround them with thy winding coils.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उत्ति॑ष्ठ॒ त्वं दे॑वज॒नार्बु॑दे॒ सेन॑या स॒ह।  
+भ॒ञ्जन्न॒मित्रा॑णां॒ सेनां॑ भो॒गेभिः॒ परि॑ वारय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। ति॒ष्ठ॒। त्वम्। दे॒व॒ऽज॒न॒। अर्बु॑दे। सेन॑या। स॒ह। भ॒ञ्जन्। अ॒मित्रा॑णाम्। सेना॑म्। भो॒गेभिः॑। परि॑। वा॒र॒य॒। ११.५। 
+उत्। ति॒ष्ठ॒। त्वम्। दे॒व॒ऽज॒न॒। अर्बु॑दे। सेन॑या। स॒ह। भ॒ञ्जन्। अ॒मित्रा॑णाम्। सेना॑म्। भो॒गेभिः॑। परि॑। वा॒र॒य॒। ११.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Rise with our army stand thou up. O Godlike Being, Arbudi. Breaking the hosts of
 
 टिप्पणी:   ५−(उत्तिष्ठ) उद्गच्छ (त्वम्) (देवजन) हे विजिगीषुजन (अर्बुदे) म० १। हे शूर सेनापते (सेनया) (सह) (भञ्जन्) आमर्दयन्। चूर्णयन् (अमित्राणाम्) शत्रूणाम् (सेनाम्) (भोगेभिः) भुजो कौटिल्ये-घञ्। भोगैः। सर्पशरीरवत् सेनाव्यूहविशेषैः (परिवारय) सर्वतो वेष्टय ॥
 </details>
-

@@ -18,8 +18,12 @@ makes his breath (*prāṇá*) longer.
 When he says to him, Let them refresh thee, he thereby wins vital breath to exceeding old age.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-यत्। ए॒न॒म्। आह॑। व्रात्य॑। त॒र्पय॑न्तु। इति॑। प्रा॒णम्। ए॒व। तेन॑। वर्षी॑यांसम्। कु॒रु॒ते॒। ११.५। 
+यदे॑न॒माह॒व्रात्य॑ त॒र्पय॒न्त्विति॑ प्रा॒णमे॒व तेन॒ वर्षी॑यांसं कुरुते ॥
 </details>
 
+<details><summary>पदपाठः</summary>
+
+यत्। ए॒न॒म्। आह॑। व्रात्य॑। त॒र्पय॑न्तु। इति॑। प्रा॒णम्। ए॒व। तेन॑। वर्षी॑यांसम्। कु॒रु॒ते॒। ११.५।
+</details>

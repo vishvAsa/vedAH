@@ -17,9 +17,15 @@ Indra do I encircle all yon men with darkness.
 This world so mighty was the net of Sakra, of the Mighty One: With this, the net of Indra, I envelop all those men with gloom.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒यं लो॒को जाल॑मासीच्छ॒क्रस्य॑ मह॒तो म॒हान्।  
+तेना॒हमि॑न्द्रजा॒लेना॒मूंस्तम॑सा॒भि द॑धामि॒ सर्वा॑न् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। लो॒कः। जाल॑म्। आ॒सी॒त्। श॒क्रस्य॑। म॒ह॒तः। म॒हान्। तेन॑। अ॒हम्। इ॒न्द्र॒ऽजा॒लेन॑। अ॒मून्। तम॑सा। अ॒भि। द॒धा॒मि॒। सर्वा॑न्। ८.८। 
+अ॒यम्। लो॒कः। जाल॑म्। आ॒सी॒त्। श॒क्रस्य॑। म॒ह॒तः। म॒हान्। तेन॑। अ॒हम्। इ॒न्द्र॒ऽजा॒लेन॑। अ॒मून्। तम॑सा। अ॒भि। द॒धा॒मि॒। सर्वा॑न्। ८.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ This world so mighty was the net of Sakra, of the Mighty One: With this, the net
 
 टिप्पणी:   ८−(अयम्) प्रसिद्धः (लोकः) संसारः (जालम्) पाशः (आसीत्) (शक्रस्य) इन्द्रस्य (महतः) (महान्) (तेन) (अहम्) सेनापतिः (इन्द्रजालेन) इन्द्रपाशेन ब्रह्मास्त्रेण (अमून्) शत्रून् (तमसा) अन्धकारेण (अभि दधामि) आच्छादयामि (सर्वान्) समस्तान् ॥
 </details>
-

@@ -23,9 +23,15 @@ AGS. i. 14. 3: see Stenzler's translation, p. 36), and in MP. (⌊i. 12.
 Even as this broad earth received the germ of all the things that be, Thus within thee I lay the germ. I call thee, Earth, to strengthen it.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथे॒यं पृ॑थि॒वी म॒ही भू॒तानां॒ गर्भ॑माद॒धे।  
+ए॒वा द॑धामि ते॒ गर्भं॒ तस्मै॒ त्वामव॑से हुवे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। भू॒ताना॑म्। गर्भ॑म्। आ॒ऽद॒धे। ए॒व। आ। द॒धा॒मि॒। ते॒। गर्भ॑म्। तस्मै॑। त्वाम्। अव॑से। हु॒वे॒। २५.२। 
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। भू॒ताना॑म्। गर्भ॑म्। आ॒ऽद॒धे। ए॒व। आ। द॒धा॒मि॒। ते॒। गर्भ॑म्। तस्मै॑। त्वाम्। अव॑से। हु॒वे॒। २५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Even as this broad earth received the germ of all the things that be, Thus withi
 
 टिप्पणी:   २−(यथा) येन प्रकारेण (इयम्) दृश्यमाना (पृथिवी) भूमिः (मही) विशाला (भूतानाम्) प्राणिनाम् (गर्भम्) स्तुत्यं गर्भाशयम् (आदधे) सम्यग् धृतवती (एव) तथा (आ) समन्तात् (दधामि) स्थापयामि (ते) तव (तस्मै) गर्भहिताय (त्वाम्) पत्नीम् (अवसे) रक्षणाय (हुवे) आह्वयामि ॥
 </details>
-

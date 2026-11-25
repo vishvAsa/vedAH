@@ -18,9 +18,14 @@ accentless.
 Suyaman son of Chakshus.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सुया॑मंश्चाक्षुष॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सुऽया॑मन्। चा॒क्षु॒षः॒। ७.७। 
+सुऽया॑मन्। चा॒क्षु॒षः॒। ७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Suyaman son of Chakshus.
 
 टिप्पणी:   ७−(सुयामन्) यागतौ-मनिन्। हे सुमार्गिन् (चाक्षुष) हे नेत्रवन्। दूरदर्शिन् ॥
 </details>
-

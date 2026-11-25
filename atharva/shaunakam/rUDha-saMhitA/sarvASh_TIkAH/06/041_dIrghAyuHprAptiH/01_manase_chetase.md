@@ -20,9 +20,15 @@ to i. 1. 1, W. took *śruta* here as 'sense of hearing.'⌋
 For mind, for intellect, for thought, for purpose, for intelligence,. For sense, for hearing, and for sight, let us adore with sacrifice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मन॑से॒ चेत॑से धि॒य आकू॑तय उ॒त चित्त॑ये।  
+म॒त्यै श्रु॒ताय॒ चक्ष॑से वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मन॑से। चेत॑से। धि॒ये। आऽकू॑तये। उ॒त। चित्त॑ये। म॒त्यै। श्रु॒ताय॑। चक्ष॑से। वि॒धेम॑। ह॒विषा॑। व॒यम्। ४१.१। 
+मन॑से। चेत॑से। धि॒ये। आऽकू॑तये। उ॒त। चित्त॑ये। म॒त्यै। श्रु॒ताय॑। चक्ष॑से। वि॒धेम॑। ह॒विषा॑। व॒यम्। ४१.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ For mind, for intellect, for thought, for purpose, for intelligence,. For sense,
 
 टिप्पणी:   १−(मनसे) मननसाधनाय हृदयाय (चेतसे) चिती संज्ञाने−असुन्। ज्ञानसाधनाय चित्ताय (धिये) धारणावत्यै प्रज्ञायै (आकूतये) सङ्कल्पाय। उत्साहाय (उत) अपिच (चित्तये) स्मृतिहेतवे विवेकाय (मत्यै) ज्ञानजनन्यै शक्त्यै (श्रुताय) श्रवणाय (चक्षसे) दर्शनाय (विधेम) परिचरेम इन्द्रम्, इति शेषः (हविषा) आत्मदानेन। भक्त्या (वयम्) धार्मिकाः ॥
 </details>
-

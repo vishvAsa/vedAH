@@ -19,9 +19,15 @@ in **d** accentless. ⌊Both editions read *mṛ́tyo*.⌋
 Let this man live, let him not die: we raise him, we recover him. I make for him a healing balm. O Death, forbear to slay this man.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒यं जी॑वतु॒ मा मृ॑ते॒मं समी॑रयामसि।  
+कृ॒णोम्य॑स्मै भेष॒जं मृत्यो॒ मा पुरु॑षं वधीः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। जी॒व॒तु॒। मा। मृ॒त॒। इ॒मम्। सम्। ई॒र॒या॒म॒सि॒। कृ॒णोमि॑। अ॒स्मै॒। भे॒ष॒जम्‌। मृत्यो॒ इति॑। मा। पुरु॑षम्। व॒धीः॒। २.५। 
+अ॒यम्। जी॒व॒तु॒। मा। मृ॒त॒। इ॒मम्। सम्। ई॒र॒या॒म॒सि॒। कृ॒णोमि॑। अ॒स्मै॒। भे॒ष॒जम्‌। मृत्यो॒ इति॑। मा। पुरु॑षम्। व॒धीः॒। २.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Let this man live, let him not die: we raise him, we recover him. I make for him
 
 टिप्पणी:   ५−(अयम्) जीवः (जीवतु) प्राणान् धरतु (मा मृत) मृङ् प्राणत्यागे-लुङ्। प्राणान् मा त्यजतु (इमम्) आत्मानम् (समीरयामसि) वायुवच्छीघ्रं प्रेरयामः (कृणोमि) करोमि (अस्मै) जीवाय (भेषजम्) औषधम् (मृत्यो) (पुरुषम्) जीवम् (मा वधीः) मा जहि ॥
 </details>
-

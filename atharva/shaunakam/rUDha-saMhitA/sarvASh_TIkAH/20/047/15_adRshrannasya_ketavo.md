@@ -8,9 +8,15 @@ title = "१५ अदृश्रन्नस्य केतवो"
 His herald rays are seen afar refulgent o'er the world of men, Like fiery flames that burn and blaze.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अदृ॑श्रन्नस्य के॒तवो॒ वि र॒श्मयो॒ जनाँ॒ अनु॑।  
+भ्राज॑न्तो अ॒ग्नयो॑ यथा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अदृ॑श्रन्। अ॒स्य॒। के॒तवः॑। वि। र॒श्मयः॑। जना॑न्। अनु॑। भ्राज॑न्तः। अ॒ग्नयः॑। य॒था॒। ४७.१५। 
+अदृ॑श्रन्। अ॒स्य॒। के॒तवः॑। वि। र॒श्मयः॑। जना॑न्। अनु॑। भ्राज॑न्तः। अ॒ग्नयः॑। य॒था॒। ४७.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ His herald rays are seen afar refulgent o'er the world of men, Like fiery flames
 
 टिप्पणी:   १३-२१−एते मन्त्रा व्याख्याताः-अ० १३।२।१६-२४ ॥
 </details>
-

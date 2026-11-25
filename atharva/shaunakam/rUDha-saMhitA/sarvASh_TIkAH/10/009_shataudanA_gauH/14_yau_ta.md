@@ -18,9 +18,15 @@ Ppp. reads instead *yat te mukhaṁ yā te jihvā ye dantā yā ca te hanū*.
 Let both thy lips, thy nostrils, both thy horns, and these two eyes of thine. Pour for the given, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यौ त॒ ओष्ठौ॒ ये नासि॑के॒ ये शृङ्गे॒ ये च॒ तेऽक्षि॑णी।  
+आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यौ। ते॒। ओष्ठौ॑। ये‍। इति॑। नासि॑के॒। इति॑। ये इति॑। शृङ्गे॒ इति॑। ये इति॑। च॒। ते॒। अक्षि॑णी॒ इति॑। अ॒मिक्षा॑म्। दु॒ह्र॒ता॒म्। दा॒त्रे। क्षी॒रम्। स॒र्पिः। अथो॒ इति॑। मधु॑। ९.१४। 
+यौ। ते॒। ओष्ठौ॑। ये‍। इति॑। नासि॑के॒। इति॑। ये इति॑। शृङ्गे॒ इति॑। ये इति॑। च॒। ते॒। अक्षि॑णी॒ इति॑। अ॒मिक्षा॑म्। दु॒ह्र॒ता॒म्। दा॒त्रे। क्षी॒रम्। स॒र्पिः। अथो॒ इति॑। मधु॑। ९.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Let both thy lips, thy nostrils, both thy horns, and these two eyes of thine. Po
 
 टिप्पणी:   १४−(अक्षिणी) नेत्रे। अन्यत् स्पष्टम् ॥
 </details>
-

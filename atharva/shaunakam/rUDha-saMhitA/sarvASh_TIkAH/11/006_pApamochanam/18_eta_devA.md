@@ -19,9 +19,15 @@ Ppp. rectifies the meter of **b** by adding *nas* at the end.
 Come hither from the south, ye Gods, rise and come forward from the west. Gathered together, all ye Gods, ye mighty Ones, from east and and north: may they deliver us from woe.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+एत॑ देवा दक्षिण॒तः प॒श्चात्प्राञ्च॑ उ॒देत॑।  
+पु॒रस्ता॑दुत्त॒राच्छ॒क्रा विश्वे॑ दे॒वाः स॒मेत्य॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। इ॒त॒। दे॒वाः॒। द॒क्षि॒ण॒तः। प॒श्चात्। प्राञ्चः॑। उ॒त्ऽएत॑। पु॒रस्ता॑त्। उ॒त्त॒रात्। श॒क्राः। विश्वे॑। दे॒वाः। स॒म्ऽएत्य॑। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१८। 
+आ। इ॒त॒। दे॒वाः॒। द॒क्षि॒ण॒तः। प॒श्चात्। प्राञ्चः॑। उ॒त्ऽएत॑। पु॒रस्ता॑त्। उ॒त्त॒रात्। श॒क्राः। विश्वे॑। दे॒वाः। स॒म्ऽएत्य॑। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Come hither from the south, ye Gods, rise and come forward from the west. Gather
 
 टिप्पणी:   १८−(एत) आगच्छत (देवाः) विजिगीषवः (दक्षिणतः) दक्षिणदेशात् (पश्चात्) पश्चिमदेशात् (प्राञ्चः) प्रकर्षेण गच्छन्तः (उदेत) उदयं प्राप्नुत (पुरस्तात्) पूर्वदेशात् (उत्तरात्) उत्तरदेशात् (शक्राः) शक्तिमन्तः (विश्वे) सर्वे (देवाः) महात्मानः (समेत्य) समागत्य। अन्यत् पूर्ववत् ॥
 </details>
-

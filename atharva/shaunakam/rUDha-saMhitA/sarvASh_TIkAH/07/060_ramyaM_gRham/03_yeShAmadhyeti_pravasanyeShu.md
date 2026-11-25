@@ -25,9 +25,15 @@ also MGS. i. 14. 5 and p. 155, under *yeṣv a-*.⌋ The comm. glosses
 These Houses we invoke, whereon the distant exile sets his thought, Wherein dwells many a friendly heart: let them beware of our approach.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+येषा॑म॒ध्येति॑ प्र॒वस॒न्येषु॑ सौमन॒सो ब॒हुः।  
+गृ॒हानुप॑ ह्वयामहे॒ ते नो॑ जानन्त्वाय॒तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-येषा॑म्। अ॒धि॒ऽएति॑। प्र॒ऽवस॑न्। येषु॑। सौ॒म॒न॒सः। ब॒हुः। गृ॒हान्। उप॑। ह्व॒या॒म॒हे॒। ते। नः॒। जा॒न॒न्तु॒। आ॒ऽय॒तः। ६२.३। 
+येषा॑म्। अ॒धि॒ऽएति॑। प्र॒ऽवस॑न्। येषु॑। सौ॒म॒न॒सः। ब॒हुः। गृ॒हान्। उप॑। ह्व॒या॒म॒हे॒। ते। नः॒। जा॒न॒न्तु॒। आ॒ऽय॒तः। ६२.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ These Houses we invoke, whereon the distant exile sets his thought, Wherein dwel
 
 टिप्पणी:   ३−(येषाम्) गृहस्थानाम् (अध्येति) इक् स्मरणे। अधीगर्थदयेशां कर्मणि। पा० ३।२।५२। इति कर्मणि षष्ठी। स्मरणं करोति (प्रवसन्) देशान्तरे वसन् पुरुषः (येषु) गृहेषु (सौमनसः) अ० ३।३०।७। सुप्रीतिभावः (बहुः) अधिकः (गृहान्) गृहस्थान् पुरुषान् (उप) सत्कारेण (ह्वयामहे) आह्वयामः। अन्यत् पूर्ववत्-म० २ ॥
 </details>
-

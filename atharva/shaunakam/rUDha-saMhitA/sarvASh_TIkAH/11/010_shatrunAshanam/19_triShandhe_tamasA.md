@@ -19,9 +19,15 @@ the stock-phrase **d**, see iii. 19. 8, note.⌋
 Do thou, Trishandhi, with the gloom of darkness compass round our foes; Let none escape of them expelled with speckled butter mixt with curds.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्रिष॑न्धे॒ तम॑सा॒ त्वम॒मित्रा॒न्परि॑ वारय।  
+पृ॑षदा॒ज्यप्र॑णुत्तानां॒ मामीषां॑ मोचि॒ कश्च॒न ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्रिऽसं॑धे। तम॑सा। त्वम्। अ॒मित्रा॑न्। परि॑। वा॒र॒य॒। पृ॒ष॒दा॒ज्यऽप्र॑नुत्तानाम्। मा। अ॒मीषा॑म्। मो॒चि॒। कः। च॒न। १२.१९। 
+त्रिऽसं॑धे। तम॑सा। त्वम्। अ॒मित्रा॑न्। परि॑। वा॒र॒य॒। पृ॒ष॒दा॒ज्यऽप्र॑नुत्तानाम्। मा। अ॒मीषा॑म्। मो॒चि॒। कः। च॒न। १२.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Do thou, Trishandhi, with the gloom of darkness compass round our foes; Let none
 
 टिप्पणी:   १९−(त्रिषन्धे) म० २। हे त्रयीकुशल राजन् (तमसा) आयुधानामन्धकारेण (त्वम्) (अमित्रान्) शत्रून् (परि वारय) सर्वतो वेष्टय (पृषदाज्यप्रणुत्तानाम्) दधिधृतादिखाद्यवस्तूनां सकाशात् प्रक्षिप्तानाम् (अमीषाम्) शत्रूणाम् (मा मोचि) मुक्तो मा भूत् (कश्चन) एकोऽपि ॥
 </details>
-

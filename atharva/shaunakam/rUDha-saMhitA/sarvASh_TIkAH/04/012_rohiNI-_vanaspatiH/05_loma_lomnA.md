@@ -22,9 +22,15 @@ dhīyatām*. ⌊For **c**, compare vs. 4.⌋ Ppp. also has for **d** our 4
 Join thou together hair with hair, join thou together skin with skin. Let blood and bone grow strong in thee. Unite the broken part,. O Plant.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+लोम॒ लोम्ना॒ सं क॑ल्पया त्व॒चा सं क॑ल्पया॒ त्वच॑म्।  
+असृ॑क्ते॒ अस्थि॑ रोहतु छि॒न्नं सं धे॑ह्योषधे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-लोम॑। लोम्ना॑। सम्। क॒ल्प॒य॒। त्व॒चा। सम्। क॒ल्प॒य॒। त्वच॑म्। असृ॑क्। ते॒। अस्थि॑। रो॒ह॒तु॒। छि॒न्नम्। सम्। धे॒हि॒। ओ॒ष॒धे॒। १२.५। 
+लोम॑। लोम्ना॑। सम्। क॒ल्प॒य॒। त्व॒चा। सम्। क॒ल्प॒य॒। त्वच॑म्। असृ॑क्। ते॒। अस्थि॑। रो॒ह॒तु॒। छि॒न्नम्। सम्। धे॒हि॒। ओ॒ष॒धे॒। १२.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Join thou together hair with hair, join thou together skin with skin. Let blood 
 
 टिप्पणी:   ५−(लोम) अ० ३।३३।७। देहजातं केशाकारं द्रव्यम्। रोम। (लोम्ना) रोम्णा (संकल्पय) संक्लृप्तं पुनः स्वस्थानगतं कुरु। संयोजय (त्वचा) चर्मणा (त्वचम्) चर्म (छिन्नम्) भिन्नमङ्गम् (सं धेहि) संहितं संश्लिष्टं व्यापारक्षमं कुरु। अन्यत् पूर्ववत् ॥
 </details>
-

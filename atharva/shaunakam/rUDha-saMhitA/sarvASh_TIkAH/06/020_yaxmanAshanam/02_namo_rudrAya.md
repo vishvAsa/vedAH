@@ -19,9 +19,15 @@ The Anukr. scans the verse as 12 + 12: 9 + 6 = 39 syllables.
 To Rudra and to Fever be our worship paid: worship be paid to Varuna the splendid King! Worship to Dyaus, to Earth, worship be paid to Plants!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नमो॑ रु॒द्राय॒ नमो॑ अस्तु त॒क्मने॒ नमो॒ राज्ञे॒ वरु॑णाय॒ त्विषी॑मते।  
+नमो॑ दि॒वे नमः॑ पृथि॒व्यै नम॒ ओष॑धीभ्यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नमः॑। रु॒द्राय॑। नमः॑। अ॒स्तु॒। त॒क्मने॑। नमः॑। राज्ञे॑। वरु॑णाय। त्विषि॑ऽमते। नमः॑। दि॒वे। नमः॑। पृ॒थि॒व्यै। नमः॑। ओष॑धीभ्यः। २०.२। 
+नमः॑। रु॒द्राय॑। नमः॑। अ॒स्तु॒। त॒क्मने॑। नमः॑। राज्ञे॑। वरु॑णाय। त्विषि॑ऽमते। नमः॑। दि॒वे। नमः॑। पृ॒थि॒व्यै। नमः॑। ओष॑धीभ्यः। २०.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ To Rudra and to Fever be our worship paid: worship be paid to Varuna the splendi
 
 टिप्पणी:   २−(नमः) नमस्कारः (रुद्राय) अ० २।२७।६। दुःखनाशकाय वैद्याय (अस्तु) (तक्मने) म० १। ज्वराय (राज्ञे) सर्वशासकाय (वरुणाय) वरणीयाय परमेश्वराय (त्विषीमते) अ० ४।१९।२। दीप्तियुक्ताय (दिवे) प्रकाशमानाय सूर्याय (पृथिव्यै) विस्तृतायै भूम्यै (ओषधीभ्यः) तापनाशिकाभ्यो व्रीह्यादिभ्यः ॥
 </details>
-

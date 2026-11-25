@@ -20,9 +20,15 @@ pāda which the Anukr. assumes.
 Hitherward we invite with prayer the Cow who pours a thou- sand streams, By whom the heaven, by whom the earth, by whom these waters are preserved.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यया॒ द्यौर्यया॑ पृथि॒वी ययापो॑ गुपि॒ता इ॒माः।  
+व॒शां स॒हस्र॑धारां॒ ब्रह्म॑णा॒च्छाव॑दामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यया॑। द्यौः। यया॑। पृ॒थि॒वी। यया॑। आपः॑। गु॒पि॒ताः। इ॒माः। व॒शाम्। स॒हस्र॑ऽधाराम्। ब्रह्म॑णा। अ॒च्छ॒ऽआव॑दामसि। १०.४। 
+यया॑। द्यौः। यया॑। पृ॒थि॒वी। यया॑। आपः॑। गु॒पि॒ताः। इ॒माः। व॒शाम्। स॒हस्र॑ऽधाराम्। ब्रह्म॑णा। अ॒च्छ॒ऽआव॑दामसि। १०.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Hitherward we invite with prayer the Cow who pours a thou- sand streams, By whom
 
 टिप्पणी:   ४−(यया) शक्त्या (द्यौः) सूर्यः (पृथिवी) (आपः) आप्ताः प्रजाः-दयानन्दभाष्ये, यजु० ६।२७ (गुपिताः) रक्षिताः (इमाः) दृश्यमानाः (वशाम्) म० २। कमनीयां परमात्मशक्तिम् (सहस्रधाराम्) अ० ७।१५।१। असंख्यपदार्थानां धरित्रीम् (ब्रह्मणा) वेदद्वारा (अच्छावदामसि) अ० ७।३८।३। सत्कारेणाह्वयामः। अन्यद् गतम् ॥
 </details>
-

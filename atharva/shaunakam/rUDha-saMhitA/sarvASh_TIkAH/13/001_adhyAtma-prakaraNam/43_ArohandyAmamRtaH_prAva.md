@@ -19,9 +19,15 @@ Pādas **b** and **c** are identical with 36 **a, b**. Instead of
 Rising to heaven, immortal, hear my calling. Cleansed by prayer, sacrifices bear thee upward. Bay coursers, ever on the road, convey thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॒रोह॒न्द्याम॒मृतः॒ प्राव॑ मे॒ वचः॑।  
+उत्त्वा॑ य॒ज्ञा ब्रह्म॑पूता वहन्त्यध्व॒गतो॒ हर॑यस्त्वा वहन्ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒ऽरोह॑न्। द्याम्। अ॒मृतः॑। प्र। अ॒व॒। मे॒। वचः॑। उत्। त्वा॒। य॒ज्ञाः। ब्रह्म॑ऽपूताः। व॒ह॒न्ति॒। अ॒ध्व॒ऽगतः॑। हर॑यः। त्वा॒। व॒ह॒न्ति॒। १.४३। 
+आ॒ऽरोह॑न्। द्याम्। अ॒मृतः॑। प्र। अ॒व॒। मे॒। वचः॑। उत्। त्वा॒। य॒ज्ञाः। ब्रह्म॑ऽपूताः। व॒ह॒न्ति॒। अ॒ध्व॒ऽगतः॑। हर॑यः। त्वा॒। व॒ह॒न्ति॒। १.४३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Rising to heaven, immortal, hear my calling. Cleansed by prayer, sacrifices bear
 
 टिप्पणी:   ४३−(आरोहन्) अधितिष्ठन् (द्याम्) गमेर्डोः। उ० २।६७। द्युत दीप्तौ, यद्वा द्यु अभिगमने−डोस्। दीप्तिम् (अमृतः) अमरः। अविनाशी परमेश्वरः (प्र) प्रकर्षेण (अव) अव रक्षणश्रवणादिषु। शृणु (मे) मम (वचः) वचनम्। अन्यत् पूर्ववत् म० ३६ ॥
 </details>
-

@@ -26,9 +26,15 @@ cremation, all the Brahmans should take a bath (*snānaṁ kuryuḥ*).
 Loosen, O Varuna, the bond that binds us; loosen the bond above, between, and under. Then under thy protection, O Aditya, may we be sinless and restored to freedom.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उदु॑त्त॒मंव॑रुण॒ पाश॑म॒स्मदवा॑ध॒मं वि म॑ध्य॒मं श्र॑थाय।  
+अधा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ अदि॑तयेस्याम ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। उ॒त्ऽत॒मम्। व॒रु॒ण॒। पाश॑म्। अ॒स्मत्। अव॑। अ॒ध॒मम्। वि। म॒ध्य॒मम्। श्र॒थ॒य॒। अध॑। व॒यम्। आ॒दि॒त्य॒। व्र॒ते। तव॑। अना॑गसः। अदि॑तये। स्या॒म॒। ४.६९। 
+उत्। उ॒त्ऽत॒मम्। व॒रु॒ण॒। पाश॑म्। अ॒स्मत्। अव॑। अ॒ध॒मम्। वि। म॒ध्य॒मम्। श्र॒थ॒य॒। अध॑। व॒यम्। आ॒दि॒त्य॒। व्र॒ते। तव॑। अना॑गसः। अदि॑तये। स्या॒म॒। ४.६९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Loosen, O Varuna, the bond that binds us; loosen the bond above, between, and un
 
 टिप्पणी:   ६९-अयं मन्त्रोव्याख्यातः-अ० ७।८३।३ ॥
 </details>
-

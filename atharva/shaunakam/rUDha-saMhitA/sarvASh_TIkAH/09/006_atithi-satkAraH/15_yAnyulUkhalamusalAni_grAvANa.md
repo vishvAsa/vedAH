@@ -18,9 +18,14 @@ The Anukr. expects us to read *yā́ni ul-*. Ppp. omits *yāni* and reads
 The pestle and mortar are really the stones of the Soma press.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यान्यु॑लूखलमुस॒लानि॒ ग्रावा॑ण ए॒व ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यानि॑। उ॒लू॒ख॒ल॒ऽमु॒स॒लानि॑। ग्रावा॑णः। ए॒व। ते। ६.१५। 
+यानि॑। उ॒लू॒ख॒ल॒ऽमु॒स॒लानि॑। ग्रावा॑णः। ए॒व। ते। ६.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ The pestle and mortar are really the stones of the Soma press.
 
 टिप्पणी:   १५−(यानि) (उलूखलमुसलानि) उरु+खल चलने-अच्। उरु विस्तीर्णं खलं धान्यमर्दनस्थानं यस्य तद् उलूखलं पृषोदरादिरूपम्। उलूखलमुरुकरं वोर्क्करं वोर्ध्वखं वा-निरु० ९।२०। वृषादिभ्यश्चित्। उ० १।१०६। मुस खण्डने-कल, चित्। मुसलं मुहुः सरम्=निरु० ९।३५। धान्यादिकण्डनसाधनानि (ग्रावाणः) अ० ३।१०।५। गॄ विज्ञापे शब्दे च-क्वनिप्। शास्त्रोपदेशाः (एव) (ते) ॥
 </details>
-

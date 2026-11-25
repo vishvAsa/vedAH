@@ -34,9 +34,15 @@ The quoted Anukr. says *ekaviṅśakam ihā ”dyam ucyate*. It adds, further,
 Life hath breathed on thee; light hath come: darkness hath past away from thee. Far from thee we have buried Death, buried Destruction and: Decline.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व्य᳡वात्ते॒ ज्योति॑रभू॒दप॒ त्वत्तमो॑ अक्रमीत्।  
+अप॒ त्वन्मृ॒त्युं निरृ॑ति॒मप॒ यक्ष्मं॒ नि द॑ध्मसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि। अ॒वा॒त्। ते॒। ज्योतिः॑। अ॒भू॒त्। अप॑। त्वत्। तमः॑। अ॒क्र॒मी॒त्। अप॑। त्वत्। मृ॒त्युम्। निःऽऋ॑तिम्। अप॑। यक्ष्म॑म्। नि। द॒ध्म॒सि॒। १.२१। 
+वि। अ॒वा॒त्। ते॒। ज्योतिः॑। अ॒भू॒त्। अप॑। त्वत्। तमः॑। अ॒क्र॒मी॒त्। अप॑। त्वत्। मृ॒त्युम्। निःऽऋ॑तिम्। अप॑। यक्ष्म॑म्। नि। द॒ध्म॒सि॒। १.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -66,4 +72,3 @@ Life hath breathed on thee; light hath come: darkness hath past away from thee. 
 
 टिप्पणी:   २१−(वि) विविधम् (अवात्) वा गतिगन्धनयोः-लङ्। अगच्छत् (ते) तुभ्यम् (ज्योतिः) प्रकाशः (अभूत्) उपस्थितमभूत् (त्वत्) त्वत्तः (तमः) अन्धकारः। अबोधः (अप अक्रमीत्) अपक्रान्तमभूत् (अप) पृथक्-करणे (त्वत्) (मृत्युम्) प्राणनाशकं दुःखम् (निर्ऋतिम्) कृच्छ्रापत्तिम् (अप) (यक्ष्मम्) राजरोगम् (नि दध्मसि) निदध्मः। नीचैः स्थापयामः ॥
 </details>
-

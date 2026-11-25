@@ -8,9 +8,15 @@ title = "०३ यस्य ते"
 Great riches which the world of men shall recognize as sent by thee: Bring us the wealth for which we long,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्य॑ ते वि॒श्वमा॑नुषो॒ भूरे॑र्द॒त्तस्य॒ वेद॑ति।  
+वसु॑ स्पा॒र्हं तदा भ॑र ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्य॑। ते॒। वि॒श्वऽमा॑नुषः। भूरेः॑। द॒त्तस्य॑। वेद॑ति। वसु॑। स्पा॒र्हम्। तत्। आ। भ॒र॒। ४३.३। 
+यस्य॑। ते॒। वि॒श्वऽमा॑नुषः। भूरेः॑। द॒त्तस्य॑। वेद॑ति। वसु॑। स्पा॒र्हम्। तत्। आ। भ॒र॒। ४३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Great riches which the world of men shall recognize as sent by thee: Bring us th
 
 टिप्पणी:   ३−(यस्य) (ते) तव (विश्वमानुषः) विश्वस्य संसारस्य प्रत्येकमनुष्यः (भूरेः) प्रभूतस्य (दत्तस्य) दानस्य (वेदति) लेटि रूपम्। ज्ञानं कुर्यात्। अन्यत् पूर्ववत् ॥
 </details>
-

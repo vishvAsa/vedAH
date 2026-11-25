@@ -19,9 +19,14 @@ ours.
 To the golden-hued ones, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ह॑रि॒तेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ह॒रि॒तेभ्यः॑। स्वाहा॑। २२.५। 
+ह॒रि॒तेभ्यः॑। स्वाहा॑। २२.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ To the golden-hued ones, Hail!
 
 टिप्पणी:   ५−(हरितेभ्यः) हृश्याभ्यामितन्। उ०३।९३। हृञ् स्वीकारे-इतन्। स्वीकरणीयेभ्यः परमेश्वरगुणेभ्यः ॥
 </details>
-

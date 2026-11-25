@@ -20,9 +20,14 @@ seems to be wide of the mark.⌋
 I let loose the Agni who is within the waters, Mroka the up- rooter, the destroyer of the body.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो॒३॒॑प्स्व१॒॑ग्निरति॒ तं सृ॑जामि म्रो॒कं ख॒निं त॑नू॒दूषि॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। अ॒प्ऽसु। अ॒ग्निः। अति॑। तम्। सृ॒जा॒मि॒। म्रो॒कम्। ख॒निम्। त॒नू॒ऽदूषि॑म्। १.७। 
+यः। अ॒प्ऽसु। अ॒ग्निः। अति॑। तम्। सृ॒जा॒मि॒। म्रो॒कम्। ख॒निम्। त॒नू॒ऽदूषि॑म्। १.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ I let loose the Agni who is within the waters, Mroka the up- rooter, the destroy
 
 टिप्पणी:   ७−(यः) दोषः (अप्सु) म० १।प्रजासु (अग्निः) अग्निवत्सन्तापकः (अति सृजामि) म० ४ विनाशयामि (तम्) दोषम् (म्रोकम्) म० ३। हिंसकम् (खनिम्) विदारकम्। पीडकम् (तनूदूषिम्) शरीरदूषकम् ॥
 </details>
-

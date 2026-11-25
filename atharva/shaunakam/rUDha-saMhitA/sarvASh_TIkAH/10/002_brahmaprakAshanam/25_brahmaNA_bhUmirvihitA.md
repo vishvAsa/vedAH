@@ -21,9 +21,15 @@ of *brahma*. ⌊Ci. note to vs. 21.⌋
 By Brahma was this earth disposed: Brahma is sky arranged above. Brahma is this expanse of air lifted on high and stretched across.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रह्म॑णा॒ भूमि॒र्विहि॑ता॒ ब्रह्म॒ द्यौरुत्त॑रा हि॒ता।  
+ब्रह्मे॒दमू॒र्ध्वं ति॒र्यक्चा॒न्तरि॑क्षं॒ व्यचो॑ हि॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑णा। भूमिः॑। विऽहि॑ता। ब्रह्म॑। द्यौः। उत्ऽत॑रा। हि॒ता। ब्रह्म॑। इ॒दम्। ऊ॒र्ध्वम्। ति॒र्यक्। च॒। अ॒न्तरि॑क्षम्। व्यचः॑। हि॒तम्। २.२५। 
+ब्रह्म॑णा। भूमिः॑। विऽहि॑ता। ब्रह्म॑। द्यौः। उत्ऽत॑रा। हि॒ता। ब्रह्म॑। इ॒दम्। ऊ॒र्ध्वम्। ति॒र्यक्। च॒। अ॒न्तरि॑क्षम्। व्यचः॑। हि॒तम्। २.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ By Brahma was this earth disposed: Brahma is sky arranged above. Brahma is this 
 
 टिप्पणी:   २५−(ब्रह्मणा) परमेश्वरेण (ब्रह्म) म० २३। ब्रह्मणा। अन्यत् पूर्ववत् मन्त्रे २४ ॥
 </details>
-

@@ -26,9 +26,15 @@ use is evidently the one which gives the verse its place here.
 Splendid are Heaven and Earth, still near to bless us, mighty in their power; The seven streams have flowed: may they, Goddesses, free us from distress
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शुम्भ॑नी॒द्यावा॑पृथि॒वी अन्ति॑सुम्ने॒ महि॑व्रते।  
+आपः॑ स॒प्त सु॑स्रुवुर्दे॒वीस्ता नो॑मुञ्च॒न्त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शुम्भ॑नी॒ इति॑। द्यावा॑पृथि॒वी इति॑। अन्ति॑सुम्ने॒ इत्यन्ति॑ऽसुम्ने। महि॑व्रते॒ इति॒ महि॑ऽव्रते। आपः॑। स॒प्त। सु॒स्रु॒वः॒। दे॒वीः। ताः। नः॒। मु॒ञ्च॒न्तु॒ अंह॑सः। २.४५। 
+शुम्भ॑नी॒ इति॑। द्यावा॑पृथि॒वी इति॑। अन्ति॑सुम्ने॒ इत्यन्ति॑ऽसुम्ने। महि॑व्रते॒ इति॒ महि॑ऽव्रते। आपः॑। स॒प्त। सु॒स्रु॒वः॒। दे॒वीः। ताः। नः॒। मु॒ञ्च॒न्तु॒ अंह॑सः। २.४५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Splendid are Heaven and Earth, still near to bless us, mighty in their power; Th
 
 टिप्पणी:   ४५−अयं मन्त्रो व्याख्यातः-अ० ७।११२।१ ॥
 </details>
-

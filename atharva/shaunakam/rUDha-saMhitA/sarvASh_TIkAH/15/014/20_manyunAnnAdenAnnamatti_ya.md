@@ -14,9 +14,14 @@ fury as food-eater doth he eat food who knoweth thus.
 He who hath this knowledge eats food with Passion as food-eater.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+म॒न्युना॑न्ना॒देनान्न॑मत्ति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-म॒न्युना॑। अ॒न्न॒ऽअ॒देन॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.२०। 
+म॒न्युना॑। अ॒न्न॒ऽअ॒देन॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ He who hath this knowledge eats food with Passion as food-eater.
 
 टिप्पणी:   १९, २०−(देवान्)विदुषः पुरुषान् (ईशानः) समर्थः (मन्युम्) यजिमनिशुन्धि०। उ० ३।२०। मनज्ञाने-युच्। मन्युर्मन्यतेर्दीप्तिकर्मणः क्रोधकर्मणो वधकर्मणो वा-निरु०१०।२९। ज्ञानम्। प्रकाशम् (मन्युना) ज्ञानेन। अन्यत् पूर्ववत्-म० १, २ ॥
 </details>
-

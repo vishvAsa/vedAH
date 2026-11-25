@@ -26,9 +26,15 @@ text ought to read in **c**, as there, *níḥ ṣv-*. ⌊Pronounce, as there,
 Varuna, free us from all snares that bind us, Varuna's bonds, the upper and the lower. Drive from us evil dream, drive off misfortune: then let us pass into the world of virtue.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रास्मत्पाशा॑न्वरुण मुञ्च॒ सर्वा॒न्य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये।  
+दुः॒ष्वप्न्यं॑ दुरि॒तं निः ष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र। अ॒स्मत्। पाशा॑न्। व॒रु॒ण॒। मु॒ञ्च॒। सर्वा॑न्। ये। उ॒त्ऽत॒माः। अ॒ध॒माः। वा॒रु॒णाः। ये। दुः॒ऽस्वप्न्य॑म्। दुः॒ऽइ॒तम्। निः। स्व॒। अ॒स्मत्। अथ॑। ग॒च्छे॒म॒। सु॒ऽकृ॒तस्य॑। लो॒कम्। ८८.५। 
+प्र। अ॒स्मत्। पाशा॑न्। व॒रु॒ण॒। मु॒ञ्च॒। सर्वा॑न्। ये। उ॒त्ऽत॒माः। अ॒ध॒माः। वा॒रु॒णाः। ये। दुः॒ऽस्वप्न्य॑म्। दुः॒ऽइ॒तम्। निः। स्व॒। अ॒स्मत्। अथ॑। ग॒च्छे॒म॒। सु॒ऽकृ॒तस्य॑। लो॒कम्। ८८.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Varuna, free us from all snares that bind us, Varuna's bonds, the upper and the 
 
 टिप्पणी:   ४−(प्र) प्रकर्षेण (वरुण) हे दुःखनिवारक परमेश्वर (मुञ्च) मोचय। अन्यद् व्याख्यातम्-अ० ६।१२१।१ ॥
 </details>
-

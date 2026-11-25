@@ -19,9 +19,16 @@ The comm. has *tasya* 'of it (i.e. the atmosphere),' instead of
 Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, strength, all my wish, life first of all, and off- spring, plenty, wealth. All Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒न्तरि॑क्षं धे॒नुस्तस्या॑ वायुर्व॒त्सः।  
+सा मे॑ वा॒युना॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्।  
+आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒न्तरि॑क्षम्। धे॒नुः। तस्याः॑। वा॒युः। व॒त्सः। सा। मे॒। वा॒युना॑। व॒त्सेन॑। इष॑म्। ऊर्ज॑म्। काम॑म्। दु॒हा॒म्। आयुः॑। प्र॒थ॒मम्। प्र॒ऽजाम्। पोष॑म्। र॒यिम्। स्वाहा॑। ३९.४। 
+अ॒न्तरि॑क्षम्। धे॒नुः। तस्याः॑। वा॒युः। व॒त्सः। सा। मे॒। वा॒युना॑। व॒त्सेन॑। इष॑म्। ऊर्ज॑म्। काम॑म्। दु॒हा॒म्। आयुः॑। प्र॒थ॒मम्। प्र॒ऽजाम्। पोष॑म्। र॒यिम्। स्वाहा॑। ३९.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +58,3 @@ Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, stre
 
 टिप्पणी:   ४-सर्वं पूर्ववत् म० २, ३ ॥
 </details>
-

@@ -16,9 +16,14 @@ title = "०२ षष्ठाय स्वाहा"
 To the sixth, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ष॒ष्ठाय॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ष॒ष्ठाय॒। स्वाहा॑। २२.२। 
+ष॒ष्ठाय॒। स्वाहा॑। २२.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ To the sixth, Hail!
 
 टिप्पणी:   २−(षष्ठाय) पृथिव्यादिपञ्चभूतापेक्षया षट्संख्यापूरकाय परमेश्वराय ॥
 </details>
-

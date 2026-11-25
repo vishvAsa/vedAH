@@ -26,9 +26,15 @@ of the verse should not have been overlooked by the Anukr. ⌊Cf. i. 20. 2
 Whatever deadly missile launched to-day flies forth to slaughter us. We take both arms of Indra to encompass us on every side.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो अ॒द्य सेन्यो॑ व॒धो जिघां॑सन्न उ॒दीर॑ते।  
+इन्द्र॑स्य॒ तत्र॑ बा॒हू स॑म॒न्तं परि॑ दद्मः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। अ॒द्य। सेन्यः॑। व॒धः। जिघां॑सन्। नः॒। उ॒त्ऽईर॑ते। इन्द्र॑स्य। तत्र॑। बा॒हू इति॑। स॒म॒न्तम्। परि॑। द॒द्मः॒। ९९.२। 
+यः। अ॒द्य। सेन्यः॑। व॒धः। जिघां॑सन्। नः॒। उ॒त्ऽईर॑ते। इन्द्र॑स्य। तत्र॑। बा॒हू इति॑। स॒म॒न्तम्। परि॑। द॒द्मः॒। ९९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Whatever deadly missile launched to-day flies forth to slaughter us. We take bot
 
 टिप्पणी:   २−(यः) (अद्य) वर्तमाने दिने (सेन्यः) सेना यत्। शत्रुसेनासंबन्धी (वधः) हननसाधकः शस्त्रसमूहः (जिघांसन्) हन्तुमिच्छन् (नः) अस्मान् (उदीरते) उद्गच्छति (इन्द्रस्य) परमैश्वर्यवतः परमात्मनः (तत्र) तस्मिन् कर्मणि (बाहू) भुजवद्बलपराक्रमौ (समन्तम्) सर्वतः (परिदद्मः) अङ्गीकुर्मः। आश्रयामः ॥
 </details>
-

@@ -24,9 +24,15 @@ as appears under vs. 2, which see.⌋
 Invest this Soma for long life, invest him for great hearing power. That I may lead him on to eld, that he may watch o'er hearing long.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+परी॒मं सोम॒मायु॑षे म॒हे श्रोत्रा॑य धत्तन।  
+यथै॑नं ज॒रसे॑ न॒यां ज्योक्श्रोत्रेऽधि॑ जागरत्॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परि॑। इ॒मम्। सोम॑म्। आयु॑षे। म॒हे। श्रोत्रा॑य। ध॒त्त॒न॒। यथा॑। ए॒न॒म्। ज॒रसे॑। न॒याम्। ज्योक्। श्रोत्रे॑। अधि॑। जा॒ग॒र॒त्। २४.३। 
+परि॑। इ॒मम्। सोम॑म्। आयु॑षे। म॒हे। श्रोत्रा॑य। ध॒त्त॒न॒। यथा॑। ए॒न॒म्। ज॒रसे॑। न॒याम्। ज्योक्। श्रोत्रे॑। अधि॑। जा॒ग॒र॒त्। २४.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Invest this Soma for long life, invest him for great hearing power. That I may l
 
 टिप्पणी:   ३−(सोमम्) चन्द्रसमानशान्तिप्रदं पुरुषम् (श्रोत्राय) श्रवणकरणाय (श्रोत्रे) श्रवणकरणे। अन्यत् पूर्ववत्-म०२॥
 </details>
-

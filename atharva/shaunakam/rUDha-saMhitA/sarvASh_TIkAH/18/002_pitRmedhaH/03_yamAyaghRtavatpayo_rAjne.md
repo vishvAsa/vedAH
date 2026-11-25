@@ -51,9 +51,15 @@ peradventure to be a blunder by the *mṛtā́ya jīvā́m* of TA.); at xviii. 4
 Offer to Yama, to the King, butter and milk in sacrifice. So may he grant that we may live long days of life mid living men,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य॑मायघृ॒तव॒त्पयो॒ राज्ञे॑ ह॒विर्जु॑होतन।  
+स नो॑ जी॒वेष्वा य॑मेद्दी॒र्घमायुः॒ प्रजी॒वसे॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-य॒माय॑। घृ॒तऽव॑त्। पयः॑। राज्ञे॑। ह॒विः। जु॒हो॒त॒न॒। सः। नः॒। जी॒वेषु॑। आ। य॒मे॒त्। दी॒र्घम्। आयुः॑। प्र। जी॒वसे॑। २.३। 
+य॒माय॑। घृ॒तऽव॑त्। पयः॑। राज्ञे॑। ह॒विः। जु॒हो॒त॒न॒। सः। नः॒। जी॒वेषु॑। आ। य॒मे॒त्। दी॒र्घम्। आयुः॑। प्र। जी॒वसे॑। २.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -83,4 +89,3 @@ Offer to Yama, to the King, butter and milk in sacrifice. So may he grant that w
 
 टिप्पणी:   ३−(यमाय)न्यायकारिणे परमात्मने (घृतवत्) प्रकाशयुक्तम् (पयः) पय गतौ-असुन्। विज्ञानम् (राज्ञे) सर्वशासकाय (हविः) भक्तिदानम् (जुहोतन) जुहुत। समर्पयत (सः) परमात्मा (नः) अस्मभ्यम् (जीवेषु) जीवत्सु प्राणिषु (आ यमेत्) प्रयच्छेत्। दद्यात् (दीर्घम्) (आयुः) जीवनम् (प्र) प्रकृष्टाय (जीवसे) जीवनाय ॥
 </details>
-

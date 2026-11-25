@@ -27,9 +27,14 @@ anuṣṭubh; 15. āsurī gāyatrī; 17. sāmnī bṛhatī.*\]
 She mounted up, she entered Consultation. Whoso knows this is fit to be consulted, and to his consultation come the people.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य॒ज्ञर्तो॑ दक्षि॒णीयो॒ वास॑तेयो भवति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-य॒ज्ञऽऋ॑तः। द॒क्षि॒णीयः॑। वास॑तेयः। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.७। 
+य॒ज्ञऽऋ॑तः। द॒क्षि॒णीयः॑। वास॑तेयः। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +64,3 @@ She mounted up, she entered Consultation. Whoso knows this is fit to be consulte
 
 टिप्पणी:   ७−(यज्ञर्तः) यज्ञ ऋ गतौ-क्त। यज्ञे पूजितः (दक्षिणीयः) कडङ्करदक्षिणाच्छ च। पा० ५।१।६९। दक्षिणा-छ। प्रतिष्ठार्हः (वासतेयः) पथ्यतिथिवसतिस्वपतेर्ढञ्। पा० ४।४।१०४। वसति−ढञ्। निवासयोग्यः। अन्यत् पूर्ववत् ॥
 </details>
-

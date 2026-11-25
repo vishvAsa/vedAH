@@ -20,9 +20,15 @@ read *mahati* (so our Bp.E.; P.M. *mahaty árṇavé*).
 Fervour and Action were the two, in depths of the great billowy sea; Fervour sprang up from Action: this they served and worship- ped as supreme.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तप॑श्चै॒वास्तां॒ कर्म॑ चा॒न्तर्म॑ह॒त्य᳡र्ण॒वे।  
+तपो॑ ह जज्ञे॒ कर्म॑ण॒स्तत्ते ज्ये॒ष्ठमुपा॑सत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तपः॑। च॒। ए॒व। आ॒स्ता॒म्। कर्म॑। च॒। अ॒न्तः। म॒ह॒त‍ि। अ॒र्ण॒वे। तपः॑। ह॒। ज॒ज्ञे॒। कर्म॑णः। तत्। ते। ज्ये॒ष्ठम्। उप॑। आ॒स॒त॒। १०.६। 
+तपः॑। च॒। ए॒व। आ॒स्ता॒म्। कर्म॑। च॒। अ॒न्तः। म॒ह॒त‍ि। अ॒र्ण॒वे। तपः॑। ह॒। ज॒ज्ञे॒। कर्म॑णः। तत्। ते। ज्ये॒ष्ठम्। उप॑। आ॒स॒त॒। १०.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Fervour and Action were the two, in depths of the great billowy sea; Fervour spr
 
 टिप्पणी:   ६−(तपः) ईश्वरसामर्थ्यम् (ह) एव (जज्ञे) प्रादुर्बभूव (कर्मणः) कर्मफलानुसारेण शरीरस्वभावादिरचनारूपात् कर्मसकाशात् (तत्) तदा (ते) ऋतुधात्रादयः-म० ५। (ज्येष्ठम्) सर्वोत्कृष्टं परमात्मानम् (उपासत) पूजितवन्तः। अन्यत् पूर्ववत्-म० २ ॥
 </details>
-

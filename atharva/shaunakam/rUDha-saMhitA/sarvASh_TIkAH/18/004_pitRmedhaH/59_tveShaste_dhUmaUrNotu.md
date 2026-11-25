@@ -22,9 +22,15 @@ uses the verse, with others, in the ceremony of establishing the fires.
 Let thy bright smoke envelop thee, spread forth, O Bright One, in the sky. For, Purifier, like the Sun thou shinest with thy radiant glow.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वे॒षस्ते॑ धू॒मऊ॑र्णोतु दि॒वि षं छु॒क्र आत॑तः।  
+सूरो॒ न हि द्यु॒ता त्वं॑ कृ॒पा पा॑वक॒ रोच॑से॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वे॒षः। ते॒। धू॒मः। ऊ॒र्णो॒तु॒। दि॒वि। सन्। शु॒क्रः। आऽत॑तः। सुरः॑। न। हि। द्यु॒ता। त्वम्। कृपा। पा॒व॒क॒। रोच॑से। ४.५९। 
+त्वे॒षः। ते॒। धू॒मः। ऊ॒र्णो॒तु॒। दि॒वि। सन्। शु॒क्रः। आऽत॑तः। सुरः॑। न। हि। द्यु॒ता। त्वम्। कृपा। पा॒व॒क॒। रोच॑से। ४.५९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Let thy bright smoke envelop thee, spread forth, O Bright One, in the sky. For, 
 
 टिप्पणी:   ५९−(त्वेषः) त्विषदीप्तौ-पचाद्यच्। प्रकाशः (ते) तव (धूमः) वाष्पो यथा (ऊर्णोतु) आच्छादयतु (दिवि)आकाशे (सन्) श्रेष्ठः (शुक्रः) शुक्लः। शुद्धः (आततः) समन्ताद् विस्तीर्णः (सूरः) प्रेरकः सूर्यः (न) यथा (हि) निश्चयेन (द्युता) दीप्त्या (त्वम्) (कृपा)कृपू सामर्थ्ये-क्विप्। कृपया। दयया (पावक) हे शोधक परमात्मन् (रोचसे) दीप्यसे ॥
 </details>
-

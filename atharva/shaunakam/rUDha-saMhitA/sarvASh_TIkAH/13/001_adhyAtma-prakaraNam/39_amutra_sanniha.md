@@ -19,9 +19,15 @@ Ppp. begins **c** with *yataṣ paś-*.
 Thou, yonder, knowest all things here, when here thou knowest what is there. From here men see the sphere of light, Surya profoundly wise in heaven.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒मुत्र॒ सन्नि॒ह वे॑त्थे॒तः संस्तानि॑ पश्यसि।  
+इ॒तः प॑श्यन्ति रोच॒नं दि॒वि सूर्यं॑ विप॒श्चित॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒मुत्र॑। सन्। इ॒ह। वे॒त्थ॒। इ॒तः। सन्। तानि॑। प॒श्य॒सि॒। इ॒तः। प॒श्य॒न्ति॒। रो॒च॒नम्। दि॒वि। सूर्य॑म्। वि॒पः॒ऽचित॑म्। १.३९। 
+अ॒मुत्र॑। सन्। इ॒ह। वे॒त्थ॒। इ॒तः। सन्। तानि॑। प॒श्य॒सि॒। इ॒तः। प॒श्य॒न्ति॒। रो॒च॒नम्। दि॒वि। सूर्य॑म्। वि॒पः॒ऽचित॑म्। १.३९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Thou, yonder, knowest all things here, when here thou knowest what is there. Fro
 
 टिप्पणी:   ३९−(अमुत्र) तत्र। दूरदेशे (सन्) वर्तमानः सन् (इह) अत्र (वेत्थ) जानासि (इतः) अत्र (सन्) (तानि) दूरस्थानि वस्तूनि (पश्यसि) निरीक्षसे (इतः) (पश्यन्ति) अवलोकयन्ति (रोचनम्) प्रकाशमानम् (दिवि) प्रत्येकव्यवहारे (सूर्यम्) सर्वप्रेरकं परमेश्वरम् (विपश्चितम्) मेधाविनम्-निघ० ३।१५ ॥
 </details>
-

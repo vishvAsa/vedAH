@@ -24,9 +24,15 @@ foolishly supplies an "O our enemies" in **c**; *aśmā* he explains as
 Let that Destructive Weapon be far distant from us, O ye Gods; far be the Stone ye wont to hurl.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॒रे॑३ ऽसा॑व॒स्मद॑स्तु हे॒तिर्दे॑वासो असत्।  
+आ॒रे अश्मा॒ यमस्य॑थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒रे। अ॒सौ। अ॒स्मत्। अ॒स्तु। हे॒तिः। दे॒वा॒सः॒। अ॒स॒त्। आ॒रे। अश्मा॑। यम्। अस्य॑थ। 
+आ॒रे। अ॒सौ। अ॒स्मत्। अ॒स्तु। हे॒तिः। दे॒वा॒सः॒। अ॒स॒त्। आ॒रे। अश्मा॑। यम्। अस्य॑थ।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Let that Destructive Weapon be far distant from us, O ye Gods; far be the Stone 
 
 टिप्पणी:   १−आरे। दूरे। असौ। सा शत्रुप्रयुक्ता। हेतिः। १।१३।३। खङ्गाद्यायुधं शक्तिनामास्त्रम्। देवासः। १।७।१। आज्जसेरसुक्। पा० ७।१।५०। इति असुक्। हे विजयिनो महात्मानः सेनापतयः। असत्। १।२२।२। भवेत्। अश्मा। १।२।२। मेघः, आयुधवृष्टिः। पाषाणः। यम्। अश्मानम्। अस्यथ। असु क्षेपणे-लट्, दिवादित्वात् श्यन्। यूयं क्षिपथ ॥
 </details>
-

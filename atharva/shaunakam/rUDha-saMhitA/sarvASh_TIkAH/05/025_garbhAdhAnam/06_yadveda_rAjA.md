@@ -20,9 +20,15 @@ One or two of our mss. (P.W.) read *-bhaṁkár-* in **d**. Ppp. has for
 Drink thou the procreative draught well-known to Varuna the King, Known to divine Sarasvati, and Indra slayer of the foe.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्वेद॒ राजा॒ वरु॑णो॒ यद्वा॑ दे॒वी सर॑स्वती।  
+यदिन्द्रो॑ वृत्र॒हा वेद॒ तद्ग॑र्भ॒कर॑णं पिब ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। वेद॑। राजा॑। वरु॑णः। यत्। वा॒। दे॒वी। सर॑स्वती। यत्। इन्द्रः॑। वृ॒त्र॒ऽहा। वेद॑। तत्। ग॒र्भ॒ऽकर॑णम्। पि॒ब॒। २५.६। 
+यत्। वेद॑। राजा॑। वरु॑णः। यत्। वा॒। दे॒वी। सर॑स्वती। यत्। इन्द्रः॑। वृ॒त्र॒ऽहा। वेद॑। तत्। ग॒र्भ॒ऽकर॑णम्। पि॒ब॒। २५.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Drink thou the procreative draught well-known to Varuna the King, Known to divin
 
 टिप्पणी:   ६−(यत्) औषधम् (वेद) जानाति (राजा) ऐश्वर्यवान् (वरुणः) वरणीयः पतिः (वा) समुच्चये (देवी) दिव्यगुणवती (सरस्वती) विज्ञानवती पत्नी (इन्द्रः) परमैश्वर्यवान् वैद्यः (वृत्रहा) शत्रो रोगस्य वा नाशकः (वेद) (तत्) (गर्भकरणम्) गर्भोत्पादकद्रव्यम् (पिब) पानेन सेवस्व ॥
 </details>
-

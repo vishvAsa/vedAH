@@ -18,9 +18,14 @@ make the 13 syllables required by the definition of the Anukr.
 Brahma her guide, the Brahman her lord and ruler;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रह्म॑ पदवा॒यं ब्रा॑ह्म॒णोऽधि॑पतिः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑। प॒द॒ऽवा॒यम्। ब्रा॒ह्म॒णः। अधि॑ऽपतिः। ५.४। 
+ब्रह्म॑। प॒द॒ऽवा॒यम्। ब्रा॒ह्म॒णः। अधि॑ऽपतिः। ५.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Brahma her guide, the Brahman her lord and ruler;
 
 टिप्पणी:   ४−(ब्रह्म) ऋग्यजुःसामाथर्वाख्यो वेदः (पदवायम्) पद गतौ स्थैर्ये च−अच्+वा गतिगन्धनयोः−घञ् युक् च। प्राप्तव्यं ज्ञानम् (ब्राह्मणः) ब्रह्म−अण्। ब्रह्म ब्रह्माण्डं सर्वं जगत् वेत्ति यः। सर्वसंसारज्ञः परमेश्वरः (अधिपतिः) अधिराजः ॥
 </details>
-

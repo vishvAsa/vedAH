@@ -28,9 +28,14 @@ sense.
 He should serve him with food saying to himself, To this Deity I offer water: I lodge this Deity; I wait upon this, this Deity.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये पुण्या॑नां॒पुण्या॑ लो॒कास्ताने॒व तेनाव॑ रुन्द्धे॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। पुण्या॑नाम्। पुण्याः॑। लो॒काः। तान्। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। १३.८। 
+ये। पुण्या॑नाम्। पुण्याः॑। लो॒काः। तान्। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। १३.८।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -52,4 +57,3 @@ He should serve him with food saying to himself, To this Deity I offer water: I 
 
 टिप्पणी:   ७, ८−(पुण्यानाम्)पवित्रजनानाम्। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

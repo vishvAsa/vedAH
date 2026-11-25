@@ -16,9 +16,14 @@ title = "०३ बुध्येम शरदः"
 A hundred autumns may we know.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+बुध्ये॑म श॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-बुध्ये॑म। श॒रदः॑। श॒तम्। ६७.३। 
+बुध्ये॑म। श॒रदः॑। श॒तम्। ६७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ A hundred autumns may we know.
 
 टिप्पणी:   ३−(बुध्येम) बुध्येमहि। जानीयाम ॥
 </details>
-

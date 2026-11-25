@@ -22,9 +22,14 @@ in **c**.
 She rose, she came unto the Gods. They called her, crying, O Vigour, come to us, come hither! God Savitar milked her, he milked forth Vigour. The Gods depend for life upon that Vigour. He who knows this becomes a meet supporter.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोद॑क्राम॒त्सा पि॒तॄनाग॑च्छ॒त्तां पि॒तरो॑ऽघ्नत॒ सा मा॒सि सम॑भवत्।
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अ॒क्रा॒म॒त्। सा। पि॒तृन्। आ। अ॒ग॒च्छ॒त्। ताम्। पि॒तरः॑। अ॒घ्न॒त॒। सा। मा॒सि। सम्। अ॒भ॒व॒त्। १२.३। 
+सा। उत्। अ॒क्रा॒म॒त्। सा। पि॒तृन्। आ। अ॒ग॒च्छ॒त्। ताम्। पि॒तरः॑। अ॒घ्न॒त॒। सा। मा॒सि। सम्। अ॒भ॒व॒त्। १२.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +59,3 @@ She rose, she came unto the Gods. They called her, crying, O Vigour, come to us,
 
 टिप्पणी:   ३−(पितॄन्) ऋतून्-दयानन्दभाष्ये, यजु० ८।६०। (पितरः) ऋतवः (मासि) मासे मासे। चन्द्रमसि। अन्यत् पूर्ववत् ॥
 </details>
-

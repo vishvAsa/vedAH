@@ -23,9 +23,15 @@ ubhā́*⌋.
 Indra, Mitra and Varuna, and Vata and Parjanya both have given the serpent up to me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रो॒ मेऽहि॑मरन्धयन्मि॒त्रश्च॒ वरु॑णश्च।  
+वा॑तापर्ज॒न्यो॒३॒॑भा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। मे॒। अहि॑म्। अ॒र॒न्ध॒य॒त्। मि॒त्रः। च॒। वरु॑णः। च॒। वा॒ता॒प॒र्ज॒न्या᳡। उ॒भा। ४.१६। 
+इन्द्रः॑। मे॒। अहि॑म्। अ॒र॒न्ध॒य॒त्। मि॒त्रः। च॒। वरु॑णः। च॒। वा॒ता॒प॒र्ज॒न्या᳡। उ॒भा। ४.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Indra, Mitra and Varuna, and Vata and Parjanya both have given the serpent up to
 
 टिप्पणी:   १६−(इन्द्रः) परमैश्वर्यवान् वैद्यः (मे) मह्यम् (अहिम्) म० १। महाहिंसकं सर्पम् (अरन्धयत्) म० १०। मारितवान् (मित्रः) प्रेरकः सूर्यो यथा (च) (वरुणः) जलवद् गुणकारी (वातापर्जन्या) वायुमेघौ यथा (उभा) द्वौ ॥
 </details>
-

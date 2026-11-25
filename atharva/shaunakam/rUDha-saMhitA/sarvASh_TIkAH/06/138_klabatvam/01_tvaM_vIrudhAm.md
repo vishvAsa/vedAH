@@ -21,9 +21,15 @@ The comm. does not attempt to identify the plant addressed.
 O Plant, thy fame is spread abroad as best of all the herbs that grow. Unman for me to-day this man that he may wear the horn of hair.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वं वी॒रुधां॒ श्रेष्ठ॑तमाभिश्रु॒तास्यो॑षधे।  
+इ॒मं मे॑ अ॒द्य पुरु॑षं क्ली॒बमो॑प॒शिनं॑ कृधि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वम्। वी॒रुधा॑म्। श्रेष्ठ॑ऽतमा। अ॒भि॒ऽश्रु॒ता। अ॒सि॒। ओ॒ष॒धे॒। इ॒मम्। मे॒। अ॒द्य। पुरु॑षम्। क्ली॒बम्। ओ॒प॒शिन॑म्। कृ॒धि॒। १३८.१। 
+त्वम्। वी॒रुधा॑म्। श्रेष्ठ॑ऽतमा। अ॒भि॒ऽश्रु॒ता। अ॒सि॒। ओ॒ष॒धे॒। इ॒मम्। मे॒। अ॒द्य। पुरु॑षम्। क्ली॒बम्। ओ॒प॒शिन॑म्। कृ॒धि॒। १३८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ O Plant, thy fame is spread abroad as best of all the herbs that grow. Unman for
 
 टिप्पणी:   १−(त्वम्) (वीरुधाम्) लतानां मध्ये (श्रेष्ठतमा) अतिशयेन प्रशस्या (अभिश्रुता) सर्वतः प्रख्याता (असि) (ओषधे) (इमम्) (मे) मदर्थम् (अद्य) इदानीम् (पुरुषम्) (क्लीबम्) क्लीबृ अधार्ष्ये−अच्। अधृष्टम्। निवीर्य्यम् (ओपशिनम्) आङ्+उप+शीङ् शयने−ड, इनि। ओपशः=उपशयः=उपयोगः। समन्तादुपयोगिनम्। (कृधि) कुरु ॥
 </details>
-

@@ -19,9 +19,14 @@ adjective as referring to the 'troop '—which is not impossible.
 His are these banded Maruts: they move gathered close like porters' thongs.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्यै॒ष मारु॑तो ग॒णः स ए॑ति शि॒क्याकृ॑तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। ए॒षः। मारु॑तः। ग॒णः। सः। ए॒ति॒। शि॒क्याऽकृ॑तः। ४.८। 
+तस्य॑। ए॒षः। मारु॑तः। ग॒णः। सः। ए॒ति॒। शि॒क्याऽकृ॑तः। ४.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ His are these banded Maruts: they move gathered close like porters' thongs.
 
 टिप्पणी:   ८−(तस्य) परमेश्वरस्य रचितः (एषः) दृश्यमानः (मारुतः) मारुतं मरुतां मनुष्याणामिदम्-दयानन्दभाष्ये, ऋग्० २।११।१४। मनुष्यसम्बद्धः (गणः) समूहः (सः) (एति) व्याप्नोति (शिक्याकृतः) स्रंसेः शिः कुट् किच्च। उ० ५।१६। स्रंसु अधःपतने गतौ-यत्, कित् कुट् च, धातोः शि-इत्यादेशः, टाप्। शिक्यायां काचे कृतो धृतो यथा ॥
 </details>
-

@@ -18,9 +18,14 @@ adds 22. 7.
 Hail to the little ones!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षु॒द्रेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्षु॒द्रेभ्यः॑। स्वाहा॑। २३.२१। 
+क्षु॒द्रेभ्यः॑। स्वाहा॑। २३.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Hail to the little ones!
 
 टिप्पणी:   २१−(क्षुद्रेभ्यः) म०१९।२२।६। सूक्ष्मज्ञानयुक्तेभ्यो वेदेभ्यः ॥
 </details>
-

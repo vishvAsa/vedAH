@@ -14,9 +14,14 @@ thus.
 He who hath this knowledge eats food with the exclamation Svadha as food-eater.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्व॑धाका॒रेणा॑न्ना॒देनान्न॑मत्ति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्व॒धा॒ऽका॒रेण॑। अ॒न्न॒ऽअ॒देन॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.१४। 
+स्व॒धा॒ऽका॒रेण॑। अ॒न्न॒ऽअ॒देन॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -26,4 +31,3 @@ He who hath this knowledge eats food with the exclamation Svadha as food-eater.
 - अथर्वा
 - अध्यात्म प्रकरण सूक्त
 </details>
-

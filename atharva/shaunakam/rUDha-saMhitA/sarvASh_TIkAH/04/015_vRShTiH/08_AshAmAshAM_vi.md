@@ -22,9 +22,15 @@ character of this verse and of vs. 14.
 Let lightning flash on every side: from all the regions blow the winds! Urged by the Maruts let the clouds pour down their rain upon the earth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आशा॑माशां॒ वि द्यो॑ततां॒ वाता॑ वान्तु दि॒शोदि॑शः।  
+म॒रुद्भिः॒ प्रच्यु॑ता मे॒घाः सं य॑न्तु पृथि॒वीमनु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आशा॑म्ऽआशाम्। वि। द्यो॒त॒ता॒म्। वाताः॑। वा॒न्तु॒। दि॒शःऽदि॑शः। म॒रुत्ऽभिः॑। प्रऽच्यु॑ताः। मे॒घाः। सम्। य॒न्तु॒। पृ॒थि॒वीम्। अनु॑। १५.८। 
+आशा॑म्ऽआशाम्। वि। द्यो॒त॒ता॒म्। वाताः॑। वा॒न्तु॒। दि॒शःऽदि॑शः। म॒रुत्ऽभिः॑। प्रऽच्यु॑ताः। मे॒घाः। सम्। य॒न्तु॒। पृ॒थि॒वीम्। अनु॑। १५.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Let lightning flash on every side: from all the regions blow the winds! Urged by
 
 टिप्पणी:   ८−(आशामाशाम्) दिशंदिशम् आश्रित्य (द्योतताम्) भृमृदृशि०। उ० ३।११०। इति द्युत दीप्तौ अतच्, टाप्। द्योतमानाम्, दीप्यमानाम् (वाताः) पवनाः (वि वान्तु) विविधं संचरन्तु (दिशोदिशः) सर्वस्या अपि दिशः सकाशात् (संयन्तु) संगता भवन्तु (अनु) अनुलक्ष्य। अन्यद् यथा म० ७ ॥
 </details>
-

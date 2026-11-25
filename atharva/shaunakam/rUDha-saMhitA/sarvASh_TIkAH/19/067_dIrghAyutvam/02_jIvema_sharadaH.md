@@ -16,9 +16,14 @@ title = "०२ जीवेम शरदः"
 A hundred autumns may we live.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+जीवे॑म श॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-जीवे॑म। श॒रदः॑। श॒तम्। ६७.२। 
+जीवे॑म। श॒रदः॑। श॒तम्। ६७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ A hundred autumns may we live.
 
 टिप्पणी:   २−(जीवेम) प्राणान् धारयेम ॥
 </details>
-

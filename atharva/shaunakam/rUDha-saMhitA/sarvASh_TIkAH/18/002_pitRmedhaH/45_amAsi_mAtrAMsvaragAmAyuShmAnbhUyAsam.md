@@ -20,9 +20,15 @@ follows the process of measurement (Kāuś. 85. 17).
 The period I have measured--come to heaven. I would my life were long Not to be measured out again; a hundred autumns, not before.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अमा॑सि॒ मात्रां॒स्व᳡रगा॒मायु॑ष्मान्भूयासम्।  
+यथाप॑रं॒ न मासा॑तै श॒ते श॒रत्सु॑ नो पु॒रा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अमा॑सि। मात्रा॑म्। स्वः॑। अ॒गा॒म्। आयु॑ष्मान्। भू॒या॒स॒म्। यथा॑। अप॑रम्। न। मासा॑तै। श॒ते। श॒रत्ऽसु॑। नो इति॑। पु॒रा। २.४५। 
+अमा॑सि। मात्रा॑म्। स्वः॑। अ॒गा॒म्। आयु॑ष्मान्। भू॒या॒स॒म्। यथा॑। अप॑रम्। न। मासा॑तै। श॒ते। श॒रत्ऽसु॑। नो इति॑। पु॒रा। २.४५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ The period I have measured--come to heaven. I would my life were long Not to be 
 
 टिप्पणी:   ४५−(अमासि) माङ् मानेलिङर्थे लुङ्। अहं मासीय (मात्राम्) वेदोक्तमर्यादाम् (स्वः) सुखम् (अगाम्) इण्गतौ-लिङर्थे लुङ्। ईयासम्। प्राप्नुयाम् (आयुष्मान्) उत्तमजीवनयुक्तः (भूयासम्)अन्यत् पूर्ववत्-म० ३८ ॥
 </details>
-

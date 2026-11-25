@@ -19,9 +19,14 @@ Ppp. combines *svadhe ’hi* and *sūnṛte ’hi*, and omits *iti* at the end
 Come, Strength! come, Food! come, Charmer! come, Free- giver!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यन्त्य॑स्य॒ समि॑तिं सामि॒त्यो भ॑वति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यन्ति॑। अ॒स्य॒। सम्ऽइ॑तिम्। सा॒म्ऽइ॒त्यः। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.११। 
+यन्ति॑। अ॒स्य॒। सम्ऽइ॑तिम्। सा॒म्ऽइ॒त्यः। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Come, Strength! come, Food! come, Charmer! come, Free- giver!
 
 टिप्पणी:   ११−(सामित्यः) परिषदो ण्यः। पा० ४।४।१०१। समिति-ण्य, बाहुलकात्। संग्रामे साधुः। शूरः। अन्यत् पूर्ववत् ॥
 </details>
-

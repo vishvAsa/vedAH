@@ -19,9 +19,15 @@ verse, as noted above, is wanting in Ppp.
 Inbreath and outbreath, eye and ear, decay and freedom from decay, All the celestial Gods whose home is heaven sprang from the Residue.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रा॑णापा॒नौ चक्षुः॒ श्रोत्र॒मक्षि॑तिश्च॒ क्षिति॑श्च॒ या।  
+उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रा॒णा॒पा॒नौ। चक्षुः॑। श्रोत्र॑म्। अक्षि॑तिः। च॒। क्षितिः॑। च॒। या। उत्ऽशि॑ष्टात्। ज॒ज्ञि॒रे॒। सर्वे॑। दि॒वि। दे॒वाः। दि॒वि॒ऽश्रितः॑। ९.२५। 
+प्रा॒णा॒पा॒नौ। चक्षुः॑। श्रोत्र॑म्। अक्षि॑तिः। च॒। क्षितिः॑। च॒। या। उत्ऽशि॑ष्टात्। ज॒ज्ञि॒रे॒। सर्वे॑। दि॒वि। दे॒वाः। दि॒वि॒ऽश्रितः॑। ९.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Inbreath and outbreath, eye and ear, decay and freedom from decay, All the celes
 
 टिप्पणी:   २५−(प्राणापानौ) श्वासप्रश्वासौ (चक्षुः) नेत्रम् (श्रोत्रम्) करणम् (अक्षितिः) तत्त्वानां निर्हानिः (च) (क्षितिः) तत्त्वानां हानिः (च) (या)। अन्यत् पूर्ववत् ॥
 </details>
-

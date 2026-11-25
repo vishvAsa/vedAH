@@ -33,9 +33,15 @@ note), loquacity being their salient characteristic; but what is the
 Auspicious be this stall to you. Prosper like cultivated rice. Even here increase and multiply. Myself do we bestow on you.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शि॒वो वो॑ गो॒ष्ठो भ॑वतु शारि॒शाके॑व पुष्यत।  
+इ॒हैवोत प्र जा॑यध्वं॒ मया॑ वः॒ सं सृ॑जामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शि॒वः। वः॒। गो॒ऽस्थः। भ॒व॒तु॒। शा॒रि॒शाका॑ऽइव। पु॒ष्य॒त॒। इ॒ह। ए॒व। उ॒त। प्र। जा॒य॒ध्व॒म्। मया॑। वः॒। सम्। सृ॒जा॒म॒सि॒। १४.५। 
+शि॒वः। वः॒। गो॒ऽस्थः। भ॒व॒तु॒। शा॒रि॒शाका॑ऽइव। पु॒ष्य॒त॒। इ॒ह। ए॒व। उ॒त। प्र। जा॒य॒ध्व॒म्। मया॑। वः॒। सम्। सृ॒जा॒म॒सि॒। १४.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -65,4 +71,3 @@ Auspicious be this stall to you. Prosper like cultivated rice. Even here increas
 
 टिप्पणी:   ५−(शिवः) सुखकरः। (वः)। युष्माकम्। (गोष्ठः)। गोशालः। (शारिशाका)। जनिघसिभ्यामिण्। उ० ४।१३०। इति शल गतौ-इञ्। लस्य रत्वम्। शल्यते प्राप्यतेऽसौ शालिः। षष्टिकादिधान्यम्। शक सामर्थ्ये घञ्, टाप्। शक्नोति कर्षको यया सा शाका, साखा, इति भाषा। अन्नोत्पत्तिः। (पुष्यत)। पोषयत। (मया)। एकवचनं बहुवचने। (अस्माभिः)। अन्यद् व्याख्यातं म० ४, १ ॥
 </details>
-

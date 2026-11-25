@@ -5,12 +5,17 @@ title = "०५ कुलायन् कृणवादिति"
 
 <details><summary>Griffith</summary>
 
-Let him prepare a nest, they say: 
+Let him prepare a nest, they say:
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+कुला॑यन् कृणवा॒दिति॑ ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-कुला॑यन्। कृणवा॒त्। इति॑। १३२.५। 
+कुला॑यन्। कृणवा॒त्। इति॑। १३२.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Let him prepare a nest, they say:
 
 टिप्पणी:   −(कुलायन्) अ० २०।१२।८। कुलायन्। स्थानानि (कृणवात्) लडर्थे लेट्। करोति रचयति परमेश्वरः (इति) एवं मन्यते ॥
 </details>
-

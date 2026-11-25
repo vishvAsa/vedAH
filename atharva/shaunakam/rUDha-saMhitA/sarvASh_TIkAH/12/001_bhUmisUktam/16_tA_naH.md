@@ -20,9 +20,14 @@ accus., would be a welcome emendation.
 In concert may these creatures yield us blessings. With honey of discourse, O Earth, endow me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ता नः॑ प्र॒जाः सं दु॑ह्रतां सम॒ग्रा वा॒चो मधु॑ पृथिवि धेहि॒ मह्य॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ताः। नः॒। प्र॒ऽजाः। सम्। दु॒ह्र॒ता॒म्। स॒म्ऽअ॒ग्राः। वा॒चः। मधु॑। पृ॒थि॒वि॒। धे॒हि॒। मह्य॑म्। १.१६। 
+ताः। नः॒। प्र॒ऽजाः। सम्। दु॒ह्र॒ता॒म्। स॒म्ऽअ॒ग्राः। वा॒चः। मधु॑। पृ॒थि॒वि॒। धे॒हि॒। मह्य॑म्। १.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ In concert may these creatures yield us blessings. With honey of discourse, O Ea
 
 टिप्पणी:   १६−(ताः) (नः) अस्मान् (प्रजाः) प्राणिनः (सम्) मिलित्वा (दुह्रताम्) प्रपूरयन्तु (समग्राः) समस्ताः (वाचः) वचनस्य (मधु) माधुर्यम् (पृथिवि) (धेहि) देहि (मह्यम्) ॥
 </details>
-

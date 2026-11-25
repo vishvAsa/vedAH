@@ -15,9 +15,14 @@ the dear abode who knoweth thus.
 He who possesses this knowledge becomes the beloved home of Prajapati and Parameshthin and the Father and the Great Father.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒जाप॑तेश्च॒वै स प॑रमे॒ष्ठिन॑श्च पि॒तुश्च॑ पिताम॒हस्य॑ च प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒जाऽप॑तेः। च॒। वै। सः। प॒र॒मे॒ऽस्थीनः॑। च॒। पि॒तुः। च॒। पि॒ता॒म॒हस्य॑। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ६.२६। 
+प्र॒जाऽप॑तेः। च॒। वै। सः। प॒र॒मे॒ऽस्थीनः॑। च॒। पि॒तुः। च॒। पि॒ता॒म॒हस्य॑। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ६.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,4 +52,3 @@ He who possesses this knowledge becomes the beloved home of Prajapati and Parame
 
 टिप्पणी:   २४-२६−(सः) व्रात्यःपरमात्मा (अन्तर्देशान्) मध्यदेशान् (तम्) व्रात्यम् (प्रजापतिः) प्रजापालकोराजा (परमेष्ठी) उच्चपदस्थ आचार्यः संन्यासी वा (पिता) जनकः (पितामहः) पितुःपिता। अन्यत् पूर्ववद् यथोचितं योजनीयं च ॥
 </details>
-

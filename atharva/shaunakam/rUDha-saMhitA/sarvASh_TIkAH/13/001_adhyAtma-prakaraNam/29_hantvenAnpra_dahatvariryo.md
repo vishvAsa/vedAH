@@ -20,9 +20,15 @@ verbs in **a**. Ppp. has also *agnis* for *aris* in **b**.
 Let him smite down in death and burn the foeman who attacketh me. Our adversaries we consume through Agni the Carnivorous.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+हन्त्वे॑ना॒न्प्र द॑ह॒त्वरि॒र्यो नः॑ पृत॒न्यति॑।  
+क्र॒व्यादा॒ग्निना॑ व॒यं स॒पत्ना॒न्प्र द॑हामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हन्तु॑। ए॒ना॒न्। प्र। द॒ह॒तु॒। अरिः॑। यः। नः॒। पृ॒त॒न्यत‍ि॑। क्र॒व्य॒ऽअदा॑। अ॒ग्निना॑। व॒यम्। स॒ऽपत्ना॑न्। प्र। द॒हा॒म॒सि॒। १.२९। 
+हन्तु॑। ए॒ना॒न्। प्र। द॒ह॒तु॒। अरिः॑। यः। नः॒। पृ॒त॒न्यत‍ि॑। क्र॒व्य॒ऽअदा॑। अ॒ग्निना॑। व॒यम्। स॒ऽपत्ना॑न्। प्र। द॒हा॒म॒सि॒। १.२९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Let him smite down in death and burn the foeman who attacketh me. Our adversarie
 
 टिप्पणी:   २९−(हन्तु) (एनान्) एकवचनस्य बहुवचनम्। एनम्। अरिम् (प्र) प्रकर्षेण (दहतु) भस्मीकरोतु (अरिः) शत्रुः (यः) (नः) अस्मान् (पृतन्यति) पृतनया सेनया युध्यते (क्रव्यादा) मांसभक्षकेन। शवदाहकेन (अग्निना) भौतिकेन (वयम्) धार्मिकाः (सपत्नान्) अरीन् (प्र) (दहामसि) दहामः ॥
 </details>
-

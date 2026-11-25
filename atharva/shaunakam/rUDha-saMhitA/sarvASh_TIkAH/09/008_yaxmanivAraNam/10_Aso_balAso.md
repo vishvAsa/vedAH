@@ -17,9 +17,15 @@ poison of all *yákṣmas* have I exorcised from thee.
 Let wasting malady turn to dust, become the water of disease. I have evoked the poison-taint of all Consumptions out of thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आसो॑ ब॒लासो॒ भव॑तु॒ मूत्रं॑ भवत्वा॒मय॑त्।  
+यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आसः॑। ब॒लासः॑। भव॑तु। मूत्र॑म्। भ॒व॒तु॒। आ॒मय॑त्। यक्ष्मा॑णाम्। सर्वे॑षाम्। वि॒षम्। निः। अ॒वो॒च॒म्। अ॒हम्। त्वत्। १३.१०। 
+आसः॑। ब॒लासः॑। भव॑तु। मूत्र॑म्। भ॒व॒तु॒। आ॒मय॑त्। यक्ष्मा॑णाम्। सर्वे॑षाम्। वि॒षम्। निः। अ॒वो॒च॒म्। अ॒हम्। त्वत्। १३.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Let wasting malady turn to dust, become the water of disease. I have evoked the 
 
 टिप्पणी:   १०−(आसः) असु क्षेपणे-घञ्। धनुः (बलासः) म० ८। श्लेष्मविकारः (भवतु) (मूत्रम्) अ० १।३।६। प्रस्रावः (आमयत्) अम पीडने, चुरादेः-शतृ। पीडयत् (यक्ष्माणाम्) राजरोगाणाम् (सर्वेषाम्) (विषम्) कष्टकरं प्रभावम् (निः) निःसार्य (अवोचम्) कथितवानस्मि (अहम्) वैद्यः (त्वत्) त्वत्सकाशात् ॥
 </details>
-

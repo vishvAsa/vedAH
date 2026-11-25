@@ -16,9 +16,14 @@ title = "२३ मेनिर्दुह्यमाना शीर्षक
 A missile when milking, pain in the head when milked;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मे॒निर्दु॒ह्यमा॑ना शीर्ष॒क्तिर्दु॒ग्धा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मे॒निः। दु॒ह्यमा॑ना। शी॒र्ष॒क्तिः। दु॒ग्धा। ७.१२। 
+मे॒निः। दु॒ह्यमा॑ना। शी॒र्ष॒क्तिः। दु॒ग्धा। ७.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ A missile when milking, pain in the head when milked;
 
 टिप्पणी:   २३−(मेनिः) म० १६। वज्रः (दुह्यमाना) दोहेन गृह्यमाणा (शीर्षक्तिः) अ० १।१२।३। शीर्ष+अञ्चु गतिपूजनयोः−क्तिन्। मस्तकपीडा (दुग्धा) दोहेन प्राप्ता ॥
 </details>
-

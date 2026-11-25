@@ -16,9 +16,14 @@ title = "०३ चक्षुर्मुसलं काम"
 Vision is the pestle, Desire the mortar.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+चक्षु॒र्मुस॑लं॒ काम॑ उ॒लूख॑लम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-चक्षुः॑। मुस॑लम्। कामः॑। उ॒लूख॑लम्। ३.३। 
+चक्षुः॑। मुस॑लम्। कामः॑। उ॒लूख॑लम्। ३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Vision is the pestle, Desire the mortar.
 
 टिप्पणी:   ३−(चक्षुः) दृष्टिसामर्थ्यम् (मुसलम्) अ० ९।६(१)।१५। मुस खण्डने-कल, चित्। कुट्टनसाधनम् (कामः) अभिलाषः (उलूखलम्) अ० ९।६(१)।१५। धान्यादिमर्दनसाधनम् ॥
 </details>
-

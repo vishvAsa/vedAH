@@ -7,18 +7,22 @@ title = "०१ स उदतिष्ठत्सप्राचीम्"
 
 ### Translation
 1. **a.** ⌊1.⌋ He arose; he moved out (*vi-cal*) toward the eastern  
-quarter; 
-
+quarter;
 </details>
 
 <details><summary>Griffith</summary>
 
-He arose and went his way to the eastern region. 
+He arose and went his way to the eastern region.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उद॑तिष्ठ॒त्सप्राचीं॒ दिश॒मनु॒ व्य᳡चलत् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-सः। उत्। अ॒ति॒ष्ठ॒त्। सः। प्राची॑म्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। २.१। 
+सः। उत्। अ॒ति॒ष्ठ॒त्। सः। प्राची॑म्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। २.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +52,3 @@ He arose and went his way to the eastern region.
 
 टिप्पणी:   १−(सः) व्रात्यः परमात्मा (उदतिष्ठत्)प्रादुरभवत् (सः) (प्राचीम्) अ० ३।२६।१। अभिमुखीभूताम् पूर्वाम् (दिशम्) दिशाम् (अनु) अनुलक्ष्य (वि) विविधम् (अचलत्) अचरत् ॥
 </details>
-

@@ -24,9 +24,15 @@ and note) is very obscure; Ppp. reads instead *adhomadhāu;* the comm.
 Auspicious unto thee be rice and barley, causing no painful sick- ness or consumption, these deliver from calamity.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शि॒वौ ते॑ स्तां व्रीहिय॒वाव॑बला॒साव॑दोम॒धौ।  
+ए॒तौ यक्ष्मं॒ वि बा॑धेते ए॒तौ मु॑ञ्चतो॒ अंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शि॒वौ। ते॒। स्ता॒म्। व्री॒हि॒ऽय॒वौ। अ॒ब॒ला॒सौ। अ॒दो॒म॒धौ। ए॒तौ। यक्ष्म॑म्। वि। बा॒धे॒ते॒ इति॑। ए॒तौ। मु॒ञ्च॒तः॒। अंह॑सः। २.१८। 
+शि॒वौ। ते॒। स्ता॒म्। व्री॒हि॒ऽय॒वौ। अ॒ब॒ला॒सौ। अ॒दो॒म॒धौ। ए॒तौ। यक्ष्म॑म्। वि। बा॒धे॒ते॒ इति॑। ए॒तौ। मु॒ञ्च॒तः॒। अंह॑सः। २.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Auspicious unto thee be rice and barley, causing no painful sick- ness or consum
 
 टिप्पणी:   १८−(शिवौ) सुखकरौ (ते) तुभ्यम् (स्ताम्) (व्रीहियवौ) अन्नविशेषौ (अबलासौ) अ० ६।६३।१। अ+बल+अनु क्षेपणे-क्विप्। शरीरबलस्य अक्षेप्तारौ (अदोमधौ) अद भक्षणे-असुन्+मद हर्षे-अच्, दस्य धः। भोजने हर्षकरौ (एनौ) व्रीहियवौ (यक्ष्मम्) राजरोगम् (वि) विशेषेण (बाधेते) अपनयतः (एतौ) (मुञ्चतः) मोचयतः (अंहसः) कष्टात् ॥
 </details>
-

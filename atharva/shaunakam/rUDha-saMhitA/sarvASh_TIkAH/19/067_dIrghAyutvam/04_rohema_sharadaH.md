@@ -16,9 +16,14 @@ title = "०४ रोहेम शरदः"
 A hundred autumns may we grow.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+रोहे॑म श॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-रोहे॑म। श॒रदः॑। श॒तम्। ६७.४। 
+रोहे॑म। श॒रदः॑। श॒तम्। ६७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ A hundred autumns may we grow.
 
 टिप्पणी:   ४−(रोहेम) आरूढा भवेम ॥
 </details>
-

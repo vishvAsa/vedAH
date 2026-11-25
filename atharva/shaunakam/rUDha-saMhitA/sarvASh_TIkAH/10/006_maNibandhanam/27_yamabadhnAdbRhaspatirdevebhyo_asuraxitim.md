@@ -21,9 +21,15 @@ x. 381. Correct the Berlin edition, and also that of SPP., who has
 The Amulet, etc.. That Amulet here hath come to me with splendour and a blaze of light, with honour and illustrious fame.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑म॒त्तेज॑सा॒ त्विष्या॑ स॒ह यश॑सा की॒र्त्या᳡ स॒ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। तेज॑सा। त्विष्या॑। स॒ह। यश॑सा। की॒र्त्या᳡। स॒ह। ६.२७। 
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। तेज॑सा। त्विष्या॑। स॒ह। यश॑सा। की॒र्त्या᳡। स॒ह। ६.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ The Amulet, etc.. That Amulet here hath come to me with splendour and a blaze of
 
 टिप्पणी:   २७−(त्विष्या) इगुपधात् कित्। उ० ४।१२०। त्विष दीप्तौ-इन्, कित्। दीप्त्या। शोभया। अन्यत् पूर्ववत् ॥
 </details>
-

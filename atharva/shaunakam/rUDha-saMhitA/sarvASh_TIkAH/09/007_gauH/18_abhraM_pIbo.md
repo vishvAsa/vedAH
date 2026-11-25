@@ -18,9 +18,14 @@ paśūnāṁ bhavati ya evaṁ veda*.
 The rain-cloud is her fat, her resting-place her marrow.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒भ्रं पीबो॑ म॒ज्जा नि॒धन॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒भ्रम्। पीबः॑। म॒ज्जा। नि॒ऽधन॑म्। १२.१८। 
+अ॒भ्रम्। पीबः॑। म॒ज्जा। नि॒ऽधन॑म्। १२.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ The rain-cloud is her fat, her resting-place her marrow.
 
 टिप्पणी:   १८−(अभ्रम्) मेघः (पीबः) अ० १।११।४। पीव स्थौल्ये-असुन्, वस्य बः। शरीरस्नेहः (मज्जा) अ० १।११।४। अस्थिस्नेहः (निधनम्) अ० ९।६(५)।२। राशीकरणम् ॥
 </details>
-

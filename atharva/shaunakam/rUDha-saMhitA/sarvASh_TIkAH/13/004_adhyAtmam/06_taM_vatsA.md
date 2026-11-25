@@ -21,9 +21,14 @@ verse as it stands is redundant.
 Calves, joined, stand close beside him, ten in number, with one single head.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तं व॒त्सा उप॑ तिष्ठ॒न्त्येक॒शीर्षा॑णो यु॒ता दश॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तम्। व॒त्साः। उप॑। ति॒ष्ठ॒न्ति॒। एक॑ऽशीर्षाणः। यु॒ताः। दश॑। ४.६। 
+तम्। व॒त्साः। उप॑। ति॒ष्ठ॒न्ति॒। एक॑ऽशीर्षाणः। यु॒ताः। दश॑। ४.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ Calves, joined, stand close beside him, ten in number, with one single head.
 
 टिप्पणी:   ६−(तम्) परमात्मानम् (वत्साः) वस निवासे-स प्रत्ययः। निवासस्थानाः सर्वलोकाः (उपतिष्ठन्ति) सेवन्ते (एकशीर्षाणः) एकः परमेश्वरः शिरः प्रधानो येषां ते (युताः) संयुक्ताः (दश) ऊर्ध्वाधोभ्यां सह पूर्वादिचतसृभिः, ईशानादिचतसृभिर्दिग्भिः सम्बद्धाः ॥
 </details>
-

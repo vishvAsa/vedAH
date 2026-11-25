@@ -8,9 +8,15 @@ title = "०९ इन्द्रश्च मृडयाति"
 Indra be gracious unto us: sin shall not reach us afterward, And good shall be before us still.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्र॑श्च मृ॒डया॑ति नो॒ न नः॑ प॒श्चाद॒घं न॑शत्।  
+भ॒द्रं भ॑वाति नः पु॒रः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। च॒। मृलया॑ति। नः॒। न। नः॒। प॒श्चात्। अ॒घम्। न॒श॒त्। भ॒द्रम्। भ॒वा॒ति॒। नः॒। पु॒रः। ५७.९। 
+इन्द्रः॑। च॒। मृलया॑ति। नः॒। न। नः॒। प॒श्चात्। अ॒घम्। न॒श॒त्। भ॒द्रम्। भ॒वा॒ति॒। नः॒। पु॒रः। ५७.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Indra be gracious unto us: sin shall not reach us afterward, And good shall be b
 
 टिप्पणी:   ४-१०- एते मन्त्रा व्याख्याताः-अ० २।२०।१-७ ॥
 </details>
-

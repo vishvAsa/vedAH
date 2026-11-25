@@ -6,7 +6,7 @@ title = "३० श्रुतं चविश्रुतम्"
 <details><summary>Whitney</summary>
 
 f. ⌊26.⌋ both what is heard and what  
-is heard abroad the two footmen, mind the ⌊rough vehicle, 
+is heard abroad the two footmen, mind the ⌊rough vehicle,
 </details>
 
 <details><summary>Griffith</summary>
@@ -14,9 +14,14 @@ is heard abroad the two footmen, mind the ⌊rough vehicle,
 Revelation and Tradition are his running attendants, Mind, etc., as above.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+श्रु॒तं च॒विश्रु॑तं च परिष्क॒न्दौ मनो॑ विप॒थम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श्रु॒तम्। च॒। विऽश्रु॑तम्। च॒। प॒रि॒ऽस्क॒न्दौ। मनः॑। वि॒ऽप॒थम्। २.२६। 
+श्रु॒तम्। च॒। विऽश्रु॑तम्। च॒। प॒रि॒ऽस्क॒न्दौ। मनः॑। वि॒ऽप॒थम्। २.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ Revelation and Tradition are his running attendants, Mind, etc., as above.
 
 टिप्पणी:   २६−(श्रुतम्)ख्यातिः)। प्रशंसा (विश्रुतम्) विख्यातिः। प्रसिद्धिः। अन्यद् गतम्-म० ६ ॥
 </details>
-

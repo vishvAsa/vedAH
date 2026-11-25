@@ -18,9 +18,14 @@ Ppp. reads *payas* instead of *sphātim*.
 And the vigour and prosperity.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऊ॒र्जां च॒ वा ए॒ष स्फा॒तिं च॑ गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऊ॒र्जाम्। च॒। वै। ए॒षः। स्फा॒तिम्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.३। 
+ऊ॒र्जाम्। च॒। वै। ए॒षः। स्फा॒तिम्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ And the vigour and prosperity.
 
 टिप्पणी:   ३−(ऊर्जाम्) पराक्रमम् (स्फातिम्) वृद्धिम् ॥
 </details>
-

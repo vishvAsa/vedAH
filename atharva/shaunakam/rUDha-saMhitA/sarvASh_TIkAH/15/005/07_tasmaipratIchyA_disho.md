@@ -15,9 +15,14 @@ title = "०७ तस्मैप्रतीच्या दिशो"
 They made Pasupati the Archer his deliverer from the inter- mediate space of the western region, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मै॑प्र॒तीच्या॑ दि॒शो अ॑न्तर्दे॒शात्प॑शु॒पति॑मिष्वा॒सम॑नुष्ठा॒तार॑मकुर्वन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्मै॑। प्र॒तीच्याः॑। दि॒शः। अ॒न्तः॒ऽदे॒शात्। प॒शु॒ऽपति॑म्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.६। 
+तस्मै॑। प्र॒तीच्याः॑। दि॒शः। अ॒न्तः॒ऽदे॒शात्। प॒शु॒ऽपति॑म्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,4 +52,3 @@ They made Pasupati the Archer his deliverer from the inter- mediate space of the
 
 टिप्पणी:   ६, ७−(प्रतीच्याः)पश्चिमायाः (पशुपतिम्) प्राणिनां रक्षकम् (पशुपतिः) प्राणिनां रक्षकः। अन्यत्पूर्ववत् ॥
 </details>
-

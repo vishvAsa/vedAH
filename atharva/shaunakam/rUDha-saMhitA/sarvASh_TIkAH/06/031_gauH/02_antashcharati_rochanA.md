@@ -33,9 +33,15 @@ Prāt. iii. 34. ⌊Ppp. also has *vyākhyan*.⌋
 As expiration from his breath his radiance penetrates within. The Bull shines out through all the sky.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒न्तश्च॑रति रोच॒ना अ॒स्य प्रा॒णाद॑पान॒तः।  
+व्य᳡ख्यन्महि॒षः स्वः᳡ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒न्तः। च॒र॒ति॒। रो॒च॒ना। अ॒स्य। प्रा॒णात्। अ॒पा॒न॒तः। वि। अ॒ख्य॒त्। म॒हि॒षः। स्वः᳡। ३१.२। 
+अ॒न्तः। च॒र॒ति॒। रो॒च॒ना। अ॒स्य। प्रा॒णात्। अ॒पा॒न॒तः। वि। अ॒ख्य॒त्। म॒हि॒षः। स्वः᳡। ३१.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -65,4 +71,3 @@ As expiration from his breath his radiance penetrates within. The Bull shines ou
 
 टिप्पणी:   २−(अन्तः) लोकमध्ये (चरति) गच्छति (रोचना) कान्तिः (अस्य) पृश्नेः−म० १। सूर्यस्य (प्राणात्) श्वासव्यापारादनन्तरम् (अपानतः) प्रश्वासं कुर्वतः (वि) विविधम् (अख्यत्) ख्या प्रकथने−लडर्थे लुङ्, अन्तर्गतण्यर्थः। ख्यापयति प्रकाशयति (महिषः) अ० २।३५।४। महान् सूर्यः (स्वः) आकाशम् ॥
 </details>
-

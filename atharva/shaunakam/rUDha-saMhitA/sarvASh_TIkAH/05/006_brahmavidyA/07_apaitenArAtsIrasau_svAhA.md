@@ -19,9 +19,15 @@ may be intimated in its beginning of 5.
 Through this hast thou committed faults. All hail! With sharpened arms and missiles, kind and friendly, be gracious unto us, Soma and Rudra!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अपै॑तेनारात्सीरसौ॒ स्वाहा॑।  
+ति॒ग्मायु॑धौ ति॒ग्महे॑ती सु॒षेवौ॒ सोमा॑रुद्रावि॒ह सु मृ॑डतं नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अप॑। एतेन॑। अ॒रा॒त्सीः॒। अ॒सौ॒। स्वाहा॑। ति॒ग्मऽआ॑युधौ। ति॒ग्महे॑ती॒ इति॑ ति॒ग्मऽहे॑ती। सु॒ऽशेवौ॑। सोमा॑रुद्रौ। इ॒ह। सु। मृ॒ड॒त॒म्। नः॒। ६.७। 
+अप॑। एतेन॑। अ॒रा॒त्सीः॒। अ॒सौ॒। स्वाहा॑। ति॒ग्मऽआ॑युधौ। ति॒ग्महे॑ती॒ इति॑ ति॒ग्मऽहे॑ती। सु॒ऽशेवौ॑। सोमा॑रुद्रौ। इ॒ह। सु। मृ॒ड॒त॒म्। नः॒। ६.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Through this hast thou committed faults. All hail! With sharpened arms and missi
 
 टिप्पणी:   ७−(अप अरात्सीः) अपराद्धवानसि, दोषयुक्तं कल्पितवानसि दुष्टम्। अन्यत् पूर्ववत्−म० ५ ॥
 </details>
-

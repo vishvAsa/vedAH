@@ -8,9 +8,14 @@ title = "१४ पुमां कुस्ते"
 As by their dung the course of kine. What wouldst thou in the home of men? (with previous verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पुमां॑ कु॒स्ते निमि॑च्छसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कु॒स्ते। निमि॑च्छसि। १२९.१४। 
+कु॒स्ते। निमि॑च्छसि। १२९.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ As by their dung the course of kine. What wouldst thou in the home of men? (with
 
 टिप्पणी:   १४−(पुमान्) पातेर्डुमसुन्। उ० ४।११८। पुमस्। रक्षकः सन् (कुस्ते) अञ्जिघृसिभ्यः क्तः। उ० ३।८९। कुस संश्लेषणे-क्त। संयोगव्यवहारे (निमिच्छिसि) मियक्षति, म्यक्षतीति गतिकर्मा-निघ० २।१४। इत्यस्य रूपम्। यद्वा मिच्छ उत्क्लेशे=पीडने, इत्ययमपि गतौ। नितरां गच्छसि ॥
 </details>
-

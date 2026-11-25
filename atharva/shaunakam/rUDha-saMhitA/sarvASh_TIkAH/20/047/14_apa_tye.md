@@ -8,9 +8,15 @@ title = "१४ अप त्ये"
 The constellations pass away, like thieves, together with their- beams, Before the all-beholding Sun.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अप॒ त्ये ता॒यवो॑ यथा॒ नक्ष॑त्रा यन्त्य॒क्तुभिः॑।  
+सूरा॑य वि॒श्वच॑क्षसे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अप॑। त्ये। ता॒यवः॑। य॒था॒। नक्ष॑त्रा। य॒न्ति॒। अ॒क्तुऽभिः॑। सूरा॑य। वि॒श्वऽच॑क्षसे। ४७.१४। 
+अप॑। त्ये। ता॒यवः॑। य॒था॒। नक्ष॑त्रा। य॒न्ति॒। अ॒क्तुऽभिः॑। सूरा॑य। वि॒श्वऽच॑क्षसे। ४७.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ The constellations pass away, like thieves, together with their- beams, Before t
 
 टिप्पणी:   १३-२१−एते मन्त्रा व्याख्याताः-अ० १३।२।१६-२४ ॥
 </details>
-

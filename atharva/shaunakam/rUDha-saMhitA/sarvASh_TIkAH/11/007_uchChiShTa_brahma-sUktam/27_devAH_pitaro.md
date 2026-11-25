@@ -18,9 +18,15 @@ Gandharvas-and-Apsarases: from the remnant etc. etc.
 The Deities, the Fathers, men, Gandharvas, and Apsarases. All the celestial Gods whose home is heaven sprang from the Residue.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॒वाः पि॒तरो॑ मनु॒ष्या᳡ गन्धर्वाप्स॒रस॑श्च॒ ये।  
+उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒वाः। पि॒तरः॑। म॒नु॒ष्याः᳡। ग॒न्ध॒र्व॒ऽअ॒प्स॒रसः॑। च॒। ये। उत्ऽशि॑ष्टात्। ज॒ज्ञि॒रे॒। सर्वे॑। दि॒वि। दे॒वाः। दि॒वि॒ऽश्रितः॑। ९.२७। 
+दे॒वाः। पि॒तरः॑। म॒नु॒ष्याः᳡। ग॒न्ध॒र्व॒ऽअ॒प्स॒रसः॑। च॒। ये। उत्ऽशि॑ष्टात्। ज॒ज्ञि॒रे॒। सर्वे॑। दि॒वि। दे॒वाः। दि॒वि॒ऽश्रितः॑। ९.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The Deities, the Fathers, men, Gandharvas, and Apsarases. All the celestial Gods
 
 टिप्पणी:   २७−(देवाः) विद्वांसः (पितरः) ज्ञानिनः (मनुष्याः) मननशीलाः (गन्धर्वाप्सरसः) अ० ८।८।१५। गां पृथिवीं धरन्ति ये ते गन्धर्वाः। अप्सु आकाशे सरन्ति ते अप्सरसः। तथाभूताः पुरुषाः। अन्यत् पूर्ववत् ॥
 </details>
-

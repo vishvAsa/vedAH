@@ -23,9 +23,15 @@ the emergence of the bride from the bath (with vs. 35, above).
 As vigorous Sindhu won himself imperial lordship of the streams, So be imperial queen when thou hast come within thy husband's home.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॒सिन्धु॑र्न॒दीनां॒ साम्रा॑ज्यं सुषु॒वे वृषा॑।  
+ए॒वा त्वं॑ स॒म्राज्ञ्ये॑धि॒पत्यु॒रस्तं॑ प॒रेत्य॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। सिन्धुः॑। न॒दीना॑म्। साम्ऽरा॑ज्यम्। सु॒सु॒वे। वृषा॑। ए॒व। त्वम्। स॒म्ऽराज्ञी॑। ए॒धि॒। पत्युः॑। अस्त॑म्। प॒रा॒ऽइत्य॑। १.४३। 
+यथा॑। सिन्धुः॑। न॒दीना॑म्। साम्ऽरा॑ज्यम्। सु॒सु॒वे। वृषा॑। ए॒व। त्वम्। स॒म्ऽराज्ञी॑। ए॒धि॒। पत्युः॑। अस्त॑म्। प॒रा॒ऽइत्य॑। १.४३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ As vigorous Sindhu won himself imperial lordship of the streams, So be imperial 
 
 टिप्पणी:   ४३−(यथा) येन प्रकारेण (सिन्धुः) समुद्रः (नदीनाम्) सरिताम् (साम्राज्यम्) सार्वभौमत्वम्। चक्रवर्तिराज्यम् (सुषुवे) उत्पादयमास (वृषा)बलवान् (एव) तथा (त्वम्) (सम्राज्ञी) राजराजेश्वरी (एधि) भव (पत्युः) (अस्तम्)गृहम् (परेत्य) प्राप्य ॥
 </details>
-

@@ -17,9 +17,15 @@ of the gazelle—\[the gods\] who are masters of the host.
 May all the deities whose might controls the fortune of the fray Frighten away our enemies with Drum and skin of antelope.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+परा॒मित्रा॑न्दुन्दु॒भिना॑ हरि॒णस्या॒जिने॑न च।  
+सर्वे॑ दे॒वा अ॑तित्रस॒न्ये सं॑ग्रा॒मस्येश॑ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परा॑। अ॒मित्रा॑न्। दु॒न्दु॒भिना॑। ह॒रि॒णस्य॑। अ॒जिने॑न। च॒। सर्वे॑। दे॒वाः। अ॒ति॒त्र॒स॒न्। ये। स॒म्ऽग्रा॒मस्य॑। ईश॑ते। २१.७। 
+परा॑। अ॒मित्रा॑न्। दु॒न्दु॒भिना॑। ह॒रि॒णस्य॑। अ॒जिने॑न। च॒। सर्वे॑। दे॒वाः। अ॒ति॒त्र॒स॒न्। ये। स॒म्ऽग्रा॒मस्य॑। ईश॑ते। २१.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ May all the deities whose might controls the fortune of the fray Frighten away o
 
 टिप्पणी:   ७−(परा) पराजित्य (अमित्रान्) म० १। शत्रून् (दुन्दुभिना) बृहड्ढक्कया (हरिणस्य) मृगस्य (अजिनेन) अजिन−अर्शआद्यच्। चर्मयुक्तेन (च) निश्चयेन (सर्वे) सकलाः (देवाः) महात्मानः (अतित्रसन्) त्रसी उद्वेगे णिचि लुङ्। त्रासितवन्तः (ये) देवाः (संग्रामस्य) युद्धस्य (ईशते) ईश्वरा भवन्ति ॥
 </details>
-

@@ -22,14 +22,20 @@ reading *dṛthās* in **b**.
 Let the Impeller goad thee on. Rest not in peace upon thy bed. Terrible is the shaft of Love: therewith I pierce thee to the heart.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-उ॒त्ऽतु॒दः। त्वा॒। उत्। तु॒द॒तु॒। मा। धृ॒थाः॒। शय॑ने। स्वे। इषुः॑। काम॑स्य। या। भी॒मा। तया॑। वि॒ध्या॒मि॒। त्वा॒। हृ॒दि। २५.१। 
+उ॑त्तु॒दस्त्वोत्तु॑दतु॒ मा धृ॑थाः॒ शय॑ने॒ स्वे।  
+इषुः॒ काम॑स्य॒ या भी॒मा तया॑ विध्यामि त्वा हृ॒दि ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-उ॒त्ऽतु॒दः। त्वा॒। उत्। तु॒द॒तु॒। मा। धृ॒थाः॒। शय॑ने। स्वे। इषुः॑। काम॑स्य। या। भी॒मा। तया॑। वि॒ध्या॒मि॒। त्वा॒। हृ॒दि। २५.१। 
+उ॒त्ऽतु॒दः। त्वा॒। उत्। तु॒द॒तु॒। मा। धृ॒थाः॒। शय॑ने। स्वे। इषुः॑। काम॑स्य। या। भी॒मा। तया॑। वि॒ध्या॒मि॒। त्वा॒। हृ॒दि। २५.१।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+उ॒त्ऽतु॒दः। त्वा॒। उत्। तु॒द॒तु॒। मा। धृ॒थाः॒। शय॑ने। स्वे। इषुः॑। काम॑स्य। या। भी॒मा। तया॑। वि॒ध्या॒मि॒। त्वा॒। हृ॒दि। २५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +45,3 @@ Let the Impeller goad thee on. Rest not in peace upon thy bed. Terrible is the s
 - अनुष्टुप्
 - कामबाण सूक्त
 </details>
-

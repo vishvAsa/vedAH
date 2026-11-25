@@ -8,6 +8,12 @@ title = "११ बृहस्पतिर्नः परि"
 Brihaspati protect us from the rearward, and from above and from below, from sinners. May Indra from the front and from the centre, as friend to friends, vouchsafe us room and freedom.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः।  
+इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरी॑यः कृणोतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 बृह॒स्पतिः॑। नः॒। परि॑। पा॒तु॒। प॒श्चात्। उ॒त। उत्ऽत॑रस्मात्। अध॑रात्। अ॒घ॒ऽयोः। इन्द्रः॑। पु॒रस्ता॑त्। उ॒त। म॒ध्य॒तः। नः॒। सखा॑। सखि॑ऽभ्यः। वरी॑यः। कृ॒णो॒तु॒। ८९.११
@@ -40,4 +46,3 @@ Brihaspati protect us from the rearward, and from above and from below, from sin
 
 टिप्पणी:   यह मन्त्र आचुका है-अ० ७।१।१। मन्त्र १०, ११ की टिप्पणी भी ऊपर देखो ॥  ११−अयं मन्त्रो व्याख्यातः अ० ७।१।१ ॥
 </details>
-

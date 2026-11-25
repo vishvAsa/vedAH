@@ -24,9 +24,15 @@ for *ghorásya manyúnā* in **c**, and *sárvam* for *téna* and *kṛtám* for
 Behind thy back I tie thine arms, I bind a bandage on thy mouth: With the terrific Agni's wrath have I destroyed thy sacrifice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अपि॑ नह्यामि ते बा॒हू अपि॑ नह्याम्या॒स्य᳡म्।  
+अ॒ग्नेर्घो॒रस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अपि॑। न॒ह्या॒मि॒। ते॒। बा॒हू इति॑। अपि॑। न॒ह्या॒मि॒। आ॒स्य᳡म्। अ॒ग्नेः। घो॒रस्य॑। म॒न्युना॑। तेन॑। ते॒। अ॒व॒धि॒ष॒म्। ह॒विः। ७३.५। 
+अपि॑। न॒ह्या॒मि॒। ते॒। बा॒हू इति॑। अपि॑। न॒ह्या॒मि॒। आ॒स्य᳡म्। अ॒ग्नेः। घो॒रस्य॑। म॒न्युना॑। तेन॑। ते॒। अ॒व॒धि॒ष॒म्। ह॒विः। ७३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Behind thy back I tie thine arms, I bind a bandage on thy mouth: With the terrif
 
 टिप्पणी:   ५−(घोरस्य) भयङ्करस्य। अन्यत् पूर्ववत्-म० ४ ॥
 </details>
-

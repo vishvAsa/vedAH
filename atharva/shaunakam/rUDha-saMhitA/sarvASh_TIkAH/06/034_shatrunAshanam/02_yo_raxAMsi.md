@@ -18,9 +18,15 @@ RV. has *vṛ́ṣā śukréṇa* at beginning of **b**.
 That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bear us past our foes.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो रक्षां॑सि नि॒जूर्व॑त्य॒ग्निस्ति॒ग्मेन॑ शो॒चिषा॑।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। रक्षां॑सि। नि॒ऽजूर्व॑ति। अ॒ग्निः। ति॒ग्मेन॑। शो॒चिषा॑। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.२। 
+यः। रक्षां॑सि। नि॒ऽजूर्व॑ति। अ॒ग्निः। ति॒ग्मेन॑। शो॒चिषा॑। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bea
 
 टिप्पणी:   २−(रक्षांसि) राक्षसान्। दारिद्र्यादिदोषान् (निजूर्वति) जुर्व वधे। निहन्ति (तिग्मेन) तीक्ष्णेन (शोचिषा) तेजसा। अन्यद् गतम् ॥
 </details>
-

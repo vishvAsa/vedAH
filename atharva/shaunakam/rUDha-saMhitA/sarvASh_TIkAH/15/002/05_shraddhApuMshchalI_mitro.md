@@ -8,17 +8,22 @@ title = "०५ श्रद्धापुंश्चली मित्रो
 ## Translation
 **e.** ⌊5.⌋ faith is the harlot, Mitra the  
 *māgadhá* (bard?), discernment the garment, day the turban, night the  
-hair, yellow the two *pravartás*, *kalmalí* the jewel (*maṇí*), 
+hair, yellow the two *pravartás*, *kalmalí* the jewel (*maṇí*),
 </details>
 
 <details><summary>Griffith</summary>
 
-In the eastern region Faith is his leman, the hymn his panegyrist, knowledge his vesture, day his turban, night his hair, Indra's two Bays his circular ornaments, the splendour of the stars his jewel. 
+In the eastern region Faith is his leman, the hymn his panegyrist, knowledge his vesture, day his turban, night his hair, Indra's two Bays his circular ornaments, the splendour of the stars his jewel.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+श्र॒द्धापुं॑श्च॒ली मि॒त्रो मा॑ग॒धो वि॒ज्ञानं॒ वासोऽह॑रु॒ष्णीषं॒ रात्री॒ केशा॒ हरि॑तौप्रव॒र्तौ क॑ल्म॒लिर्म॒णिः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-श्र॒ध्दा। पुं॒श्च॒ली। मि॒त्रः। मा॒ग॒धः। वि॒ऽज्ञान॑म्। वासः॑। अहः॑। उ॒ष्णीष॑म्। रात्री॑। केशाः॑। हरि॑तौ। प्र॒ऽव॒र्तौ। क॒ल्म॒लिः। म॒णिः। २.५। 
+श्र॒ध्दा। पुं॒श्च॒ली। मि॒त्रः। मा॒ग॒धः। वि॒ऽज्ञान॑म्। वासः॑। अहः॑। उ॒ष्णीष॑म्। रात्री॑। केशाः॑। हरि॑तौ। प्र॒ऽव॒र्तौ। क॒ल्म॒लिः। म॒णिः। २.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ In the eastern region Faith is his leman, the hymn his panegyrist, knowledge his
 
 टिप्पणी:   ५−(श्रद्धा) श्रिञ्सेवायाम्, श्रिय दाहे, श्री पाके वा-डति+डुधाञ् धारणपोषणयोः-अङ्, टाप्। इच्छा।श्रद्धा संप्रत्ययः स्पृहा-अमर० २३।१०२। (पुंश्चली) पुंस्सु अन्यपुरुषेषुचलतीति। पुंस्+चल गतौ-अच्, ङीष्। व्यभिचारिणी कुलटेव घृणिता (मित्रः) स्नेहः (मागधः) मगि गतौ-घञ्+धा-क, पृषोदरादिरूपम्। स्तुतिपाठको यथा (विज्ञानम्) विवेकः (वासः) वस्त्रं यथा (अहः) दिनम् (उष्णीषम्) उष्ण+ईष हिंसायाम्-क, शकन्ध्वादिरूपम् तापनिवारकं शिरोवेष्टनवस्त्रं यथा (रात्री) (केशाः) (हरितौ)धारणाकर्षणगुणौ (प्रवर्तौ) वृतु वर्तने-अच्। द्वे वर्तुले कुण्डले। कर्णभूषणे (कल्मलिः) अर्तिस्तुसुहु०। उ० १।१४०। कल गतौ-मन्+ला दाने-कि। गतिदात्रीतारादीप्तिः (मणिः) मणिभूषणं यथा ॥
 </details>
-

@@ -23,9 +23,15 @@ warming winds after the cold season are probably intended by the
 Ye Maruts, full of fiery heat, accept this offering brought for you To help us, ye who slay the foe.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सांत॑पना इ॒दं ह॒विर्मरु॑त॒स्तज्जु॑जुष्टन।  
+अ॒स्माको॒ती रि॑शादसः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-साम्ऽत॑पनाः। इ॒दम्। ह॒विः। मरु॑तः। तत्। जु॒जु॒ष्ट॒न॒। अ॒स्माक॑। ऊ॒ती। रि॒शा॒द॒सः॒। ८२.१। 
+साम्ऽत॑पनाः। इ॒दम्। ह॒विः। मरु॑तः। तत्। जु॒जु॒ष्ट॒न॒। अ॒स्माक॑। ऊ॒ती। रि॒शा॒द॒सः॒। ८२.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Ye Maruts, full of fiery heat, accept this offering brought for you To help us, 
 
 टिप्पणी:   १−(सांतपनाः) सम्+तप ऐश्वर्ये-ल्युट्। तत्र भवः। पा० ४।३।५३। अण्। संतपने पूर्णैश्वर्ये भवा वर्तमानाः (इदम्) समीपस्थम् (हविः) ग्राह्यं कर्म (मरुतः) अ० १।२०।१। शूराः। विद्वांसः। ऋत्विजः-निघ० ३।१८। (तत्) दूरस्थम् (जुजुष्ठन) जुषतेः शपः श्लुः, तस्य तनादेशश्च। स्वीकुरुत (अस्माक) अस्माकम् (ऊती) चतुर्थ्याः पूर्वसवर्णदीर्घः। ऊतये रक्षार्थम् (रिशादसः) अ० २।२८।२। हिंसकानां हिंसकाः ॥
 </details>
-

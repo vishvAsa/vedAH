@@ -8,9 +8,15 @@ title = "०३ अभी षु"
 Do thou who art protector us thy friends who praise thee With hundred aids approach us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒भी षु णः॒ सखी॑नामवि॒ता ज॑रितॄ॒णाम्।  
+श॒तं भ॑वास्यू॒तिभिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒भि। सु। नः॒। सखी॑नाम्। अ॒वि॒ता। ज॒रि॒तॄ॒णाम्। श॒तम्। भ॒वा॒सि॒। ऊ॒तिऽभिः॑। १२४.३। 
+अ॒भि। सु। नः॒। सखी॑नाम्। अ॒वि॒ता। ज॒रि॒तॄ॒णाम्। श॒तम्। भ॒वा॒सि॒। ऊ॒तिऽभिः॑। १२४.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Do thou who art protector us thy friends who praise thee With hundred aids appro
 
 टिप्पणी:   ३−(अभि) अभिमुखम् (सु) (नः) अस्माकम् (सखीनाम्) सुहृदाम् (अविता) रक्षकः (जरितॄणाम्) स्तोतॄणाम्। सद्गुणविदाम् (शतम्) बहुप्रकारेण (भवासि) लेटि रूपम्। भवेः (ऊतिभिः) रक्षाभिः ॥
 </details>
-

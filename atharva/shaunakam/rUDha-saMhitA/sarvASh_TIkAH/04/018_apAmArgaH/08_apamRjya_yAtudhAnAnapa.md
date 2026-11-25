@@ -20,9 +20,15 @@ allows it its own proper sense.
 Sweep thou away the sorcerers, all stingy fiendish hags away. All this, O Apamarga, with thine aid we wipe away from us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑प॒मृज्य॑ यातु॒धाना॒नप॒ सर्वा॑ अरा॒य्यः॑।  
+अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒प॒ऽमृज्य॑। या॒तु॒ऽधाना॑न्। अप॑। सर्वाः॑। अ॒रा॒य्यः᳡। अपा॑मार्गः। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। १८.८। 
+अ॒प॒ऽमृज्य॑। या॒तु॒ऽधाना॑न्। अप॑। सर्वाः॑। अ॒रा॒य्यः᳡। अपा॑मार्गः। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। १८.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Sweep thou away the sorcerers, all stingy fiendish hags away. All this, O Apamar
 
 टिप्पणी:   ८−(अपमृज्य) सम्यक् शोधयित्वा (यातुधानान्) अ० १।७।१। पीडाप्रदान् राक्षसान् (अप) अपमृज्य (सर्वाः) (अराय्यः) म० ७। अरायीन् अलक्ष्मीः। अन्यद् व्याख्यातं सू० १७ म० ६ ॥
 </details>
-

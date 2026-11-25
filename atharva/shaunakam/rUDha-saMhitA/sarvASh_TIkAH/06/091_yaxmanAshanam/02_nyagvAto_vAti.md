@@ -21,9 +21,15 @@ Anukr. ignores the deficiency of our text.
 Vita breathes downward from above, and downward Surya sends his heat: Downward is drawn the milch-cow's milk: so downward go thy malady!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+न्य१॒॑ग्वातो॑ वाति॒ न्य᳡क्तपति॒ सूर्यः॑।  
+नी॒चीन॑म॒घ्न्या दु॑हे॒ न्य᳡ग्भवतु ते॒ रपः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न्य᳡क्। वातः॑। वा॒ति॒। न्य᳡क्। त॒प॒ति॒। सूर्यः॑। नी॒चीन॑म्। अ॒घ्न्या। दु॒हे॒। न्य᳡क्। भ॒व॒तु॒। ते॒। रपः॑। ९१.२। 
+न्य᳡क्। वातः॑। वा॒ति॒। न्य᳡क्। त॒प॒ति॒। सूर्यः॑। नी॒चीन॑म्। अ॒घ्न्या। दु॒हे॒। न्य᳡क्। भ॒व॒तु॒। ते॒। रपः॑। ९१.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Vita breathes downward from above, and downward Surya sends his heat: Downward i
 
 टिप्पणी:   २−(न्यक्) नि+अञ्चु गतिपूजनयोः−क्विन्। निम्नम् (वातः) वायुः (वाति) गच्छति (न्यक्) (तपति) उपतापयति (सूर्यः) सरणशील आदित्यः (नीचीनम्) विभाषाञ्चेर०। पा० ५।४।८। इति न्यच्−स्वार्थे ख, खस्य ईनादेशः (अघ्न्या) अहन्तव्या गौः−निघ० २।११। (दुहे) लोपस्त आत्मनेपदेषु। पा० ७।१।४१। इति तलोपः। दुग्धे दुग्धं ददाति (न्यक्) अधोमुखम् (भवतु) (ते) तव (रपः) पापम् ॥
 </details>
-

@@ -18,9 +18,14 @@ Cf. vs. 12 above. Ppp. reads (as there noted) *pūlyājām*.
 Of evil womb, thou witchcraft hid, for Vaisvadevi is thy name,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वै॑श्वदे॒वी ह्यु१॒॑च्यसे॑ कृ॒त्या कूल्ब॑ज॒मावृ॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वै॒श्व॒ऽदे॒वी। हि। उ॒च्यसे॑। कृ॒त्या। कूल्ब॑जम्। आऽवृ॑ता। १०.७। 
+वै॒श्व॒ऽदे॒वी। हि। उ॒च्यसे॑। कृ॒त्या। कूल्ब॑जम्। आऽवृ॑ता। १०.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Of evil womb, thou witchcraft hid, for Vaisvadevi is thy name,
 
 टिप्पणी:   ५३−(वैश्वदेवी) विश्वदेव−अण्, ङीप्। सर्वविदुषां हितकरी (हि) यस्मात् कारणात् (उच्यसे) कथ्यसे। शेषं गतम्−म० १२ ॥
 </details>
-

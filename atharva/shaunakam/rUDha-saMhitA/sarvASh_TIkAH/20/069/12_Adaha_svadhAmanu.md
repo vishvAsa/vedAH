@@ -8,9 +8,15 @@ title = "१२ आदह स्वधामनु"
 Thereafter they, as is their wont, threw off the state of babes urborn, Taking their sacrificial name.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आदह॑ स्व॒धामनु॒ पुन॑र्गर्भ॒त्वमे॑रि॒रे।  
+दधा॑ना॒ नाम॑ य॒ज्ञिय॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आत्। अह॑। स्व॒धाम्। अनु॑। पुनः॑। ग॒र्भ॒ऽत्वम्। आ॒ऽई॒रि॒रे। दधा॑नाः। नाम॑। य॒ज्ञिय॑म्। ६९.१२। 
+आत्। अह॑। स्व॒धाम्। अनु॑। पुनः॑। ग॒र्भ॒ऽत्वम्। आ॒ऽई॒रि॒रे। दधा॑नाः। नाम॑। य॒ज्ञिय॑म्। ६९.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Thereafter they, as is their wont, threw off the state of babes urborn, Taking t
 
 टिप्पणी:   यह मन्त्र, आचुका है-अ० २०।४०।३ ॥  १२-अयं मन्त्रो व्याख्यातः-अ० २०।४०।३ ॥
 </details>
-

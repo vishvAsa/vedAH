@@ -34,6 +34,12 @@ uṣṇih.*\]
 He looks at the guests, he utters a gentle sound; he speaks, he signs the prelude; he calls for water, he chants the psalm; he offers the residue of the sacrifice, he takes up the conclusion.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑ हरति॒ प्रति॑ हर॒त्युच्छि॑ष्टं नि॒धन॑म्।  
+नि॒धनं॒ भूत्याः॑ प्र॒जायाः॑ पशू॒नां भ॑वति॒ य ए॒वं वेद॑ ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अति॑थीन् । प्रति॑ । प॒श्य॒ति॒ । हिङ् । कृ॒णो॒ति॒ । अ॒भि । व॒द॒ति॒ । प्र । स्तौ॒ति॒ । उ॒द॒कम् । या॒च॒ति॒ । उत् । गा॒य॒ति॒ ॥ १०.८।  

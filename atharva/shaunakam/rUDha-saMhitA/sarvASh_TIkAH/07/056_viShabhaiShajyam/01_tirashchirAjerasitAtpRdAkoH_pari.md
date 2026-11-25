@@ -21,9 +21,15 @@ daṅśakaviśeṣāt*. According to the comm., the plant intended is the
 Whether it came from viper, from black snake or snake with transverse stripes, Or Kankaparvan's bite, this herb hath made the poison power- less.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तिर॑श्चिराजेरसि॒तात्पृदा॑कोः॒ परि॒ संभृ॑तम्।  
+तत्क॒ङ्कप॑र्वणो वि॒षमि॒यं वी॒रुद॑नीनशत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त‍िर॑श्चिऽराजेः। अ॒सि॒तात्। पृदा॑कोः। परि॑। सम्ऽभृ॑तम्। तत्। क॒ङ्कप॑र्वणः। वि॒षम्। इ॒यम्। वी॒रुत्। अ॒नी॒न॒श॒त्। ५८.१। 
+त‍िर॑श्चिऽराजेः। अ॒सि॒तात्। पृदा॑कोः। परि॑। सम्ऽभृ॑तम्। तत्। क॒ङ्कप॑र्वणः। वि॒षम्। इ॒यम्। वी॒रुत्। अ॒नी॒न॒श॒त्। ५८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Whether it came from viper, from black snake or snake with transverse stripes, O
 
 टिप्पणी:   १−(तिरश्चिराजेः) अ० ३।२७।२। तिर्यग्रेखायुक्तात् (असितात्) अ० ३।२७।१। कृष्णवर्णात् (पृदाकोः) अ० ३।२७।३। कुत्सितशब्दकारिणः सर्पात् (परि) सर्वतः (सम्भृतम्) प्राप्तम् (तत्) (कङ्कपर्वणः) ककि गतौ-अच्+पॄ पालनपूरणयोः−वनिप्। लोहपृष्ठस्तु कङ्कः स्यात्-अमर० १५।१६। कङ्कपक्षिसदृशपर्वाणि सन्धयो यस्य तस्मात् (विषम्) हलाहलम् (इयम्) (वीरुत्) ओषधिः (अनीनशत्) अ० १।२४।२। नाशितवती ॥
 </details>
-

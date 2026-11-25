@@ -20,9 +20,14 @@ scans as 9 + 9. The "verse" seems to be prose.⌋
 Make the old firm, make new hair spring, lengthen what has already grown.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दृंह॑ प्र॒त्नान् ज॒नयाजा॑तान् जा॒तानु॒ वर्षी॑यसस्कृधि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दृंह॑। प्र॒त्नान्। ज॒नय॑। अजा॑तान्। जा॒तान्। ऊं॒ इति॑। वर्षी॑यसः। कृ॒धि॒। १३६.२। 
+दृंह॑। प्र॒त्नान्। ज॒नय॑। अजा॑तान्। जा॒तान्। ऊं॒ इति॑। वर्षी॑यसः। कृ॒धि॒। १३६.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ Make the old firm, make new hair spring, lengthen what has already grown.
 
 टिप्पणी:   २−(दृंह) दृढीकुरु (प्रत्नान्) पुरातनान् केशान् (जनय) उत्पादय (अजातान्) अनुत्पन्नान् (जातान्) (उ) अपि (वर्षीयसः) अ० ४।९।८। वृद्ध−ईयसुन्। प्रवृद्धतरान् (कृधि) कुरु ॥
 </details>
-

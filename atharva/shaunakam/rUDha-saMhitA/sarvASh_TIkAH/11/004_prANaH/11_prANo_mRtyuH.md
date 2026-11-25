@@ -19,9 +19,15 @@ which is less devoid of sense; at the end it reads *lokaṁ dadhat*.
 Prana is Fever, he is Death. Prana is worshipped by the Gods. Prana sets in the loftiest sphere the man who speaks the words of truth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रा॒णो मृ॒त्युः प्रा॒णस्त॒क्मा प्रा॒णं दे॒वा उपा॑सते।  
+प्रा॒णो ह॑ सत्यवा॒दिन॑मुत्त॒मे लो॒क आ द॑धत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रा॒णः। मृ॒त्युः। प्रा॒णः। त॒क्मा। प्रा॒णम्। दे॒वाः। उप॑। आ॒स॒ते॒। प्रा॒णः। ह॒। स॒त्य॒ऽवा॒दिन॑म्। उ॒त्ऽत॒मे। लो॒के। आ। द॒ध॒त्। ६.११। 
+प्रा॒णः। मृ॒त्युः। प्रा॒णः। त॒क्मा। प्रा॒णम्। दे॒वाः। उप॑। आ॒स॒ते॒। प्रा॒णः। ह॒। स॒त्य॒ऽवा॒दिन॑म्। उ॒त्ऽत॒मे। लो॒के। आ। द॒ध॒त्। ६.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Prana is Fever, he is Death. Prana is worshipped by the Gods. Prana sets in the 
 
 टिप्पणी:   ११−(प्राणः) जीवनप्रदः परमेश्वरः (मृत्युः) मरणस्य कर्त्ता (तक्मा) अ० १।२५।१। कृच्छ्रजीवनकरो ज्वरादिरोगः (देवाः) विद्वांसः (उपासते) सेवन्ते (ह) एव (सत्यवादिनम्) यथार्थवक्तारम् (उत्तमे) उत्कृष्टे (लोके) दर्शनीये स्थाने (आ दधत्) लेटि रूपम्। स्थापयेत् ॥
 </details>
-

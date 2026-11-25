@@ -17,9 +17,15 @@ together with property, with fortune.
 The Amulet, etc. That Amulet here hath come to me with power and abundant strength, hath come with glory and with wealth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑मदू॒र्जया॒ पय॑सा स॒ह द्रवि॑णेन श्रि॒या स॒ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। ऊ॒र्जया॑। पय॑सा। स॒ह। द्रवि॑णेन। श्रि॒या। स॒ह। ६.२६। 
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। ऊ॒र्जया॑। पय॑सा। स॒ह। द्रवि॑णेन। श्रि॒या। स॒ह। ६.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ The Amulet, etc. That Amulet here hath come to me with power and abundant streng
 
 टिप्पणी:   २६−(ऊर्जया) पराक्रमेण (पयसा) ज्ञानेन (द्रविणेन) धनेन (श्रिया) सेवनीयया संपत्या। अन्यत् पूर्ववत् ॥
 </details>
-

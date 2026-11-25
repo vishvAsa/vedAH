@@ -19,9 +19,14 @@ Ppp. prefixes a *tasyās* at the beginning. Accent again in our text
 Two teats she had, Rathantara and Brihat, two, Yajnayajniya and Vamadevya.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यन्त्य॑स्या॒मन्त्र॑णमामन्त्र॒णीयो॑ भवति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यन्ति॑। अ॒स्य॒। आ॒ऽमन्त्र॑णम्। आ॒ऽम॒न्त्र॒णीयः॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.१३। 
+यन्ति॑। अ॒स्य॒। आ॒ऽमन्त्र॑णम्। आ॒ऽम॒न्त्र॒णीयः॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Two teats she had, Rathantara and Brihat, two, Yajnayajniya and Vamadevya.
 
 टिप्पणी:   १३−(आमन्त्रणीयः) आमन्त्रण-छ। अभिनन्दनीयः। अन्यत् पूर्ववत् ॥
 </details>
-

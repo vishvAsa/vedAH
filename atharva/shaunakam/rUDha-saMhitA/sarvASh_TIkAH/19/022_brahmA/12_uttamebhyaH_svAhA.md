@@ -16,9 +16,14 @@ title = "१२ उत्तमेभ्यः स्वाहा"
 To the last ones, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॑त्त॒मेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒त्ऽत॒मेभ्यः॑। स्वाहा॑। २२.१२। 
+उ॒त्ऽत॒मेभ्यः॑। स्वाहा॑। २२.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ To the last ones, Hail!
 
 टिप्पणी:   १२−(उत्तमेभ्यः) अतिश्रेष्ठपुरुषेभ्यः ॥
 </details>
-

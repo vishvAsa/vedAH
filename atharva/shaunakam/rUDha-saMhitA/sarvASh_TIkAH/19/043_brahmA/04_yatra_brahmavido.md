@@ -17,9 +17,16 @@ let the moon impart to me mind: to the moon hail!
 Whither, etc. Thither let Chandra lead me, let Chandra vouchsafe me intellect. All hail to Chandra!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
+च॒न्द्रो मा॒ तत्र॑ नयतु॒ मन॑श्च॒न्द्रो द॑धातु मे।  
+च॒न्द्राय॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। च॒न्द्रः। मा॒। तत्र॑। न॒य॒तु॒। मनः॑। च॒न्द्रः। द॒धा॒तु॒। मे॒। च॒न्द्राय॑। स्वाहा॑। ४३.४। 
+यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। च॒न्द्रः। मा॒। तत्र॑। न॒य॒तु॒। मनः॑। च॒न्द्रः। द॒धा॒तु॒। मे॒। च॒न्द्राय॑। स्वाहा॑। ४३.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +56,3 @@ Whither, etc. Thither let Chandra lead me, let Chandra vouchsafe me intellect. A
 
 टिप्पणी:   ४−(चन्द्रः) चन्द्र इवाह्लादकः परमात्मा (मनः) मननसामर्थ्यम् (चन्द्रः) (चन्द्राय) आह्लादकाय परमात्मने। अन्यत् पूर्ववत् ॥
 </details>
-

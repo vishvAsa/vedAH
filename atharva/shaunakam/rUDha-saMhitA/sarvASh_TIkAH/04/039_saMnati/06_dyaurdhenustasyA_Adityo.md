@@ -18,9 +18,16 @@ calf, milk for me etc. etc.
 Heaven is the Cow, her calf Aditya. May she yield with her calf the Sun food, strength, and all my wish, life first of all, and offspring, plenty, wealth. All Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+द्यौर्धे॒नुस्तस्या॑ आदि॒त्यो व॒त्सः।  
+सा म॑ आदि॒त्येन॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्।  
+आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द्यौः। धे॒नुः। तस्याः॑। आ॒दि॒त्यः। व॒त्सः। सा। मे॒। आ॒दि॒त्येन॑। व॒त्सेन॑। इष॑म्। ऊर्ज॑म्। काम॑म्। दु॒हा॒म्। आयुः॑। प्र॒थ॒मम्। प्र॒ऽजाम्। पोष॑म्। र॒यिम्। स्वाहा॑। ३९.६। 
+द्यौः। धे॒नुः। तस्याः॑। आ॒दि॒त्यः। व॒त्सः। सा। मे॒। आ॒दि॒त्येन॑। व॒त्सेन॑। इष॑म्। ऊर्ज॑म्। काम॑म्। दु॒हा॒म्। आयुः॑। प्र॒थ॒मम्। प्र॒ऽजाम्। पोष॑म्। र॒यिम्। स्वाहा॑। ३९.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +57,3 @@ Heaven is the Cow, her calf Aditya. May she yield with her calf the Sun food, st
 
 टिप्पणी:   ६-सर्वं पूर्ववत्-म० २, ५ ॥
 </details>
-

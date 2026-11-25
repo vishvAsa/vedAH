@@ -18,9 +18,14 @@ Ppp. reads *vāiśvānaras* instead of *vāiśvadevas*.
 When he is yoking he belongs to the All-Gods, when yoked he is Prajapati, when unyoked he is All.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यु॒ज्यमा॑नो वैश्वदे॒वो यु॒क्तः प्र॒जाप॑ति॒र्विमु॑क्तः॒ सर्व॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यु॒ज्यमा॑नः। वै॒श्व॒ऽदे॒वः। यु॒क्तः। प्र॒जाऽप॑तिः। विऽमु॑क्तः। सर्व॑म्। १२.२४। 
+यु॒ज्यमा॑नः। वै॒श्व॒ऽदे॒वः। यु॒क्तः। प्र॒जाऽप॑तिः। विऽमु॑क्तः। सर्व॑म्। १२.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ When he is yoking he belongs to the All-Gods, when yoked he is Prajapati, when u
 
 टिप्पणी:   २४−(युज्यमानः) ध्यायमानः (वैश्वदेवः) सर्वविदुषां हितः (युक्तः) समाहितः (प्रजापतिः) प्रजापालकः परमेश्वरः (विमुक्तः) विविधमुक्तस्वभावः (सर्वम्) व्यापकं ब्रह्म ॥
 </details>
-

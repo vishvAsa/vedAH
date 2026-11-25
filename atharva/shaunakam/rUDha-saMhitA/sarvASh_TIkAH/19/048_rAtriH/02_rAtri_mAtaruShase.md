@@ -22,9 +22,15 @@ The metrical definition of the Anukr. is mere arithmetic (12 + 10 + 8 =
 Entrust thou us to Dawn, O Mother Night. May Dawn entrust us to the Day, and Day to thee, O splendid. One.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+रात्रि॒ मात॑रु॒षसे॑ नः॒ परि॑ देहि।  
+उ॒षो नो॒ अह्ने॒ परि॑ ददा॒त्वह॒स्तुभ्यं॑ विभावरि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-रात्रि॑। मातः॑। उ॒षसे॑। नः॒। परि॑। दे॒हि॒। उ॒षाः। नः॒। अह्ने॑। परि॑। द॒दा॒तु॒। अहः॑। तुभ्य॑म्। वि॒भा॒व॒रि॒। ४८.२। 
+रात्रि॑। मातः॑। उ॒षसे॑। नः॒। परि॑। दे॒हि॒। उ॒षाः। नः॒। अह्ने॑। परि॑। द॒दा॒तु॒। अहः॑। तुभ्य॑म्। वि॒भा॒व॒रि॒। ४८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Entrust thou us to Dawn, O Mother Night. May Dawn entrust us to the Day, and Day
 
 टिप्पणी:   यह मन्त्र कुछ भेद से आगे है-५०।७ ॥  २−(रात्रि) (मातः) हे मातृतुल्ये (उषसे) प्रभातवेलायै (नः) अस्मान् (परि देहि) समर्पय (उषाः) प्रभातवेला (नः) अस्मान् (अह्ने) दिनाय (परि ददातु) समर्पयतु (अहः) दिनम् (तुभ्यम्) (विभावरि) वि+भा दीप्तौ-क्वनिप्। वनो र च। पा० ४।१।७। ङीब्रेफौ। हे दीप्तिमति ॥
 </details>
-

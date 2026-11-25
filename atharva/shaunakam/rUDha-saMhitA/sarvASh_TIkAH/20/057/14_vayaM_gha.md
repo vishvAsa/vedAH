@@ -8,9 +8,15 @@ title = "१४ वयं घ"
 We compass thee like waters, we whose grass in trimmed and Soma pressed. Here where the filter pours its stream thy worshippers round thee, O Vritra-slayer, sit.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व॒यं घ॑ त्वा सु॒ताव॑न्त॒ आपो॒ न वृ॒क्तब॑र्हिषः।  
+प॒वित्र॑स्य प्र॒स्रव॑णेषु वृत्रह॒न्परि॑ स्तो॒तार॑ आसते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-व॒यम्। घ॒। त्वा॒। सु॒तऽव॑न्तः। आपः॑। न। वृ॒क्तऽब॑र्ह‍िषः। प॒वित्र॑स्य। प्र॒ऽस्रव॑णेषु। वृ॒त्र॒ऽह॒न्। परि॑। स्तो॒तारः॑। आ॒स॒ते॒। ५७.१४। 
+व॒यम्। घ॒। त्वा॒। सु॒तऽव॑न्तः। आपः॑। न। वृ॒क्तऽब॑र्ह‍िषः। प॒वित्र॑स्य। प्र॒ऽस्रव॑णेषु। वृ॒त्र॒ऽह॒न्। परि॑। स्तो॒तारः॑। आ॒स॒ते॒। ५७.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ We compass thee like waters, we whose grass in trimmed and Soma pressed. Here wh
 
 टिप्पणी:   मन्त्र १४-१६ आचुके हैं-अ० २०।२।१-३ ॥  १४-१६। एते मन्त्रा व्याख्याताः-अ० २०।३।१-३ ॥
 </details>
-

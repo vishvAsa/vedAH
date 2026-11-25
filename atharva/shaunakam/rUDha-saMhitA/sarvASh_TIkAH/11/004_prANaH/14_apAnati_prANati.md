@@ -19,9 +19,15 @@ sa damba vāyase tvat*. The comm. has *atho* in **d**.
 The human infant in the womb draws vital breath and sends it Lout: When thou, O Prana, quickenest the babe it springs anew to life.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अपा॑नति॒ प्राण॑ति॒ पुरु॑षो॒ गर्भे॑ अन्त॒रा।  
+य॒दा त्वं प्रा॑ण॒ जिन्व॒स्यथ॒ स जा॑यते॒ पुनः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अप॑। अ॒न॒ति॒। प्र। अ॒न॒ति॒। पुरु॑षः। गर्भे॑। अ॒न्त॒रा। य॒दा। त्वम्। प्रा॒ण॒। जिन्व॑सि। अथ॑। सः। जा॒य॒ते॒। पुनः॑। ६.१४। 
+अप॑। अ॒न॒ति॒। प्र। अ॒न॒ति॒। पुरु॑षः। गर्भे॑। अ॒न्त॒रा। य॒दा। त्वम्। प्रा॒ण॒। जिन्व॑सि। अथ॑। सः। जा॒य॒ते॒। पुनः॑। ६.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ The human infant in the womb draws vital breath and sends it Lout: When thou, O 
 
 टिप्पणी:   १४−(अपानति) प्रश्वसिति (प्राणति) प्राणव्यापारं करोति (पुरुषः) प्राणी (गर्भे) गर्भाशये (अन्तरा) मध्ये (यदा) यस्मिन्काले (त्वम्) (प्राण) हे जीवनप्रद परमेश्वर (जिन्वसि) जिवि प्रीणने। प्रीणयसि। सन्तोषयसि। तर्पयसि (अथ) तदा (सः) पुरुषः (जायते) उत्पद्यते (पुनः) पश्चात् ॥
 </details>
-

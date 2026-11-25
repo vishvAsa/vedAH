@@ -35,9 +35,15 @@ Indra added further heroic quality.'
 Then when thou sprangest into life, Jangida of un-measured strength, Indra, O mighty One, bestowed great power upon thee from the first.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अथो॑पदान भगवो॒ जाङ्गि॒डामि॑तवीर्य।  
+पु॒रा त॑ उ॒ग्रा ग्र॑सत॒ उपेन्द्रो॑ वी॒र्यं᳡ ददौ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अथ॑। उ॒प॒ऽदा॒न॒। भ॒ग॒ऽवः॒। जङ्गि॑ड। अमि॑तऽवीर्य। पु॒रा। ते॒। उ॒ग्राः। ग्र॒स॒ते॒। उप॑। इन्द्रः॑। वी॒र्य᳡म्। द॒दौ॒। ३४.८। 
+अथ॑। उ॒प॒ऽदा॒न॒। भ॒ग॒ऽवः॒। जङ्गि॑ड। अमि॑तऽवीर्य। पु॒रा। ते॒। उ॒ग्राः। ग्र॒स॒ते॒। उप॑। इन्द्रः॑। वी॒र्य᳡म्। द॒दौ॒। ३४.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -67,4 +73,3 @@ Then when thou sprangest into life, Jangida of un-measured strength, Indra, O mi
 
 टिप्पणी:   ८−(अथो) अपि च (उपदान) हे स्वीकरणीय (भगवः) हे ऐश्वर्यवन् (जङ्गिड) म०१। हे संचारशील महौषध (अमितवीर्य) हे महाप्रभाव जङ्गिड (पुरा) पूर्वकाले (ते) तव (उग्राः) तेजस्विनः पुरुषाः (ग्रसते) अदादिः। ग्रासं कुर्वन्ति। सेवन्ते (इन्द्रः) परमैश्वर्यवान् जगदीश्वरः (वीर्यम्) प्रभावम् (उप ददौ) प्रदत्तवान् ॥
 </details>
-

@@ -23,9 +23,15 @@ etc' (*kṣīrādikam*); to *abhihutā* in **a** it prefixes an explanatory
 Thou, weapon of the Rishis, art adored and served with sacrifice. First tasting of the votive milk, Zone, be a hero-slayer thou!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आहु॑तास्य॒भिहु॑त॒ ऋषी॑णाम॒स्यायु॑धम्।  
+पूर्वा॑ व्र॒तस्य॑ प्राश्न॒ती वी॑र॒घ्नी भ॑व मेखले ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आऽहु॑ता। अ॒सि॒। अ॒भिऽहु॑ता। ऋषी॑णाम्। अ॒सि॒। आयु॑धम्। पूर्वा॑। व्र॒तस्य॑। प्र॒ऽअ॒श्न॒ती। वी॒र॒ऽघ्नी। भ॒व॒। मे॒ख॒ले॒। १३३.२। 
+आऽहु॑ता। अ॒सि॒। अ॒भिऽहु॑ता। ऋषी॑णाम्। अ॒सि॒। आयु॑धम्। पूर्वा॑। व्र॒तस्य॑। प्र॒ऽअ॒श्न॒ती। वी॒र॒ऽघ्नी। भ॒व॒। मे॒ख॒ले॒। १३३.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Thou, weapon of the Rishis, art adored and served with sacrifice. First tasting 
 
 टिप्पणी:   २−(आहुता) यथाविधि दत्ता (अभिहुता) सर्वतः स्वीकृता (ऋषीणाम्) अ० २।६।१। सन्मार्गदर्शकानाम् (असि) (आयुधम्) शस्त्ररूपा (पूर्वा) आद्या (व्रतस्य) अ० २।३०।२। श्रेष्ठकर्मणः (प्राश्नती) व्याप्नुवती (वीरघ्नी) हन गतौ−क्विप्। वीराणां हन्त्री गन्त्री (भव) (मेखले)−म० १। हे कटिबन्धन ॥
 </details>
-

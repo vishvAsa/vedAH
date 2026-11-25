@@ -22,9 +22,15 @@ and ⌊reads and⌋ combines at the end ⌊*suryaṁ*⌋ *devā ’janayan*.
 Fire they endow with vital breath, Wind is compact, with vital breath: With vital breath the Gods produced the Sun whose face turn every way.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रा॒णेना॒ग्निं सं सृ॑जति॒ वातः॑ प्रा॒णेन॒ संहि॑तः।  
+प्रा॒णेन॑ वि॒श्वतो॑मुखं॒ सूर्यं॑ दे॒वा अ॑जनयन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रा॒णेन॑। अ॒ग्निम्। सम्। सृ॒ज॒ति॒। वातः॑। प्रा॒णेन॑। सम्ऽहि॑तः। प्रा॒णेन॑। वि॒श्वतः॑ऽमुखम्। सूर्य॑म्। दे॒वाः। अ॒ज॒न॒य॒न्। २७.७। 
+प्रा॒णेन॑। अ॒ग्निम्। सम्। सृ॒ज॒ति॒। वातः॑। प्रा॒णेन॑। सम्ऽहि॑तः। प्रा॒णेन॑। वि॒श्वतः॑ऽमुखम्। सूर्य॑म्। दे॒वाः। अ॒ज॒न॒य॒न्। २७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Fire they endow with vital breath, Wind is compact, with vital breath: With vita
 
 टिप्पणी:   ७−(प्राणेन) जीवनसामर्थ्येन (अग्निम्) पावकम् (सं सृजति) संयोजयति स परमेश्वरः (वातः) वायुः (प्राणेन) जीवनसामर्थ्येन (संहितः) संधीकृतः (प्राणेन) (विश्वतोमुखम्) सर्वतोमुखमिव द्रष्टारम् (सूर्यम्) (देवाः) दिव्यनियमाः (अजनयन्) उदपादयन् ॥
 </details>
-

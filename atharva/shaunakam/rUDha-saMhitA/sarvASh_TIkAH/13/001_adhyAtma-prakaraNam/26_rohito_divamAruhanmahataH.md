@@ -19,9 +19,15 @@ under the preceding verse.
 Rohita rose to heaven from mighty ocean, Rohita rose and clomb all steeps and rises.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+रोहि॑तो॒ दिव॒मारु॑हन्मह॒तः पर्य॑र्ण॒वात्।  
+सर्वो॑ रुरोह॒ रोहि॑तो॒ रुहः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-रोहि॑तः। दिव॑म्। आ। अ॒रु॒ह॒त्। म॒ह॒तः। परि॑। अ॒र्ण॒वात्। सर्वाः॑। रु॒रो॒ह॒। रोह‍ि॑तः। रुहः॑। १.२६। 
+रोहि॑तः। दिव॑म्। आ। अ॒रु॒ह॒त्। म॒ह॒तः। परि॑। अ॒र्ण॒वात्। सर्वाः॑। रु॒रो॒ह॒। रोह‍ि॑तः। रुहः॑। १.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Rohita rose to heaven from mighty ocean, Rohita rose and clomb all steeps and ri
 
 टिप्पणी:   २६−(रोहितः) सर्वोत्पादकः (दिवम्) प्रत्येकव्यवहारम् (आ अरुहत्) प्रादुष्कृतवान् (महतः) विशालात् (परि) सर्वतः (अर्णवात्) समुद्रात्। अगम्यसामर्थ्यात् (सर्वाः) (रुरोह) जनयामास (रोहितः) (रुहः) सृष्टिसामग्रीः ॥
 </details>
-

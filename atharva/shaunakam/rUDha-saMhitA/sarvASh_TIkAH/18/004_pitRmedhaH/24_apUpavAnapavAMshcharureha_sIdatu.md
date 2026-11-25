@@ -23,9 +23,15 @@ cf. ¶3 of the notes to vs. 16.⌋
 Here, mixt with cake and water rest the Charu! World-makers, makers of the path, we worship those Gods of you who here partake oblations.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑पू॒पवा॒नप॑वांश्च॒रुरेह सी॑दतु।  
+लो॑क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑हु॒तभा॑गा इ॒ह स्थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पू॒पऽवा॑न्। अप॑ऽवान्। च॒रुः। आ। इ॒ह। सी॒द॒तु॒। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ४.२४। 
+अ॒पू॒पऽवा॑न्। अप॑ऽवान्। च॒रुः। आ। इ॒ह। सी॒द॒तु॒। लो॒क॒ऽकृतः॑। प॒थि॒ऽकृतः॑। य॒जा॒म॒हे॒। ये। दे॒वाना॑म्। हु॒तऽभा॑गाः। इ॒ह। स्थ। ४.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Here, mixt with cake and water rest the Charu! World-makers, makers of the path,
 
 टिप्पणी:   २४−(अपवान्) आप्लृ व्याप्तौ-घञ्। आपः कर्माख्यायां ह्रस्वो नुट् च वा। उ०४।२०८। इति निर्देशेन ह्रस्वः। अपस्वान्। शुद्धजलयुक्तः। अन्यत् पूर्ववत्-म० १६॥
 </details>
-

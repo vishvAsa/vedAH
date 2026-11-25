@@ -17,9 +17,14 @@ after thee.
 To thee, Great-grandfather, and to those with thee be this cry of Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒तत्ते॑ ततामहस्व॒धा ये च॒ त्वामनु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒तत्। ते॒। त॒ता॒म॒ह॒। स्व॒धा। ये। च॒। त्वाम्। अनु॑। ४.७६। 
+ए॒तत्। ते॒। त॒ता॒म॒ह॒। स्व॒धा। ये। च॒। त्वाम्। अनु॑। ४.७६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ To thee, Great-grandfather, and to those with thee be this cry of Hail!
 
 टिप्पणी:   ७६−(ततामह) म० ७५। हेपितामह। अन्यत् पूर्ववत् ॥
 </details>
-

@@ -25,9 +25,15 @@ ca kṛṇomī ’ti sambandhanīyam.*⌋
 Darbha, destroyer of the foe, vexing the hearts of enemies, An Amulet that strengthens rule I make thee, and the body's. guard.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑पत्न॒क्षय॑णं दर्भ द्विष॒तस्तप॑नं हृ॒दः।  
+म॒णिं क्ष॒त्रस्य॒ वर्ध॑नं तनू॒पानं॑ कृणोमि ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒प॒त्न॒ऽक्षय॑णम्। द॒र्भ॒। द्वि॒ष॒तः। तप॑नम्। हृ॒दः। म॒णिम्। क्ष॒त्रस्य॑। वर्ध॑नम्। त॒नू॒ऽपान॑म्। कृ॒णो॒मि॒। ते॒। ३०.४। 
+स॒प॒त्न॒ऽक्षय॑णम्। द॒र्भ॒। द्वि॒ष॒तः। तप॑नम्। हृ॒दः। म॒णिम्। क्ष॒त्रस्य॑। वर्ध॑नम्। त॒नू॒ऽपान॑म्। कृ॒णो॒मि॒। ते॒। ३०.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Darbha, destroyer of the foe, vexing the hearts of enemies, An Amulet that stren
 
 टिप्पणी:   ४−(सपत्नक्षयणम्) शत्रूणां नाशकम् (दर्भ) हे शत्रुविदारक सेनापते (द्विषतः) वैरिणः (तपनम्) तापकम् (हृदः) हृदयस्य (मणिम्) प्रशंसनीयम् (क्षत्रस्य) राज्यस्य (वर्धनम्) वर्धकम् (तनूपानम्) शरीराणां पातारं रक्षितारम् (कृणोमि) करोमि (ते) त्वामित्यर्थः ॥
 </details>
-

@@ -8,9 +8,15 @@ title = "०१ अभि प्र"
 Praise, even as he is known, with song Indra the guardian of the kine, The Son of Truth, Lord of the brave.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒भि प्र गोप॑तिं गि॒रेन्द्र॑मर्च॒ यथा॑ वि॒दे।  
+सू॒नुं स॒त्यस्य॒ सत्प॑तिम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒भि। प्र। गोऽप॑तिम्। गि॒रा। इन्द्र॑म्। अ॒र्च॒। यथा॑। वि॒दे। सू॒नुम्। स॒त्यस्य॑। सत्ऽप॑तिम्। ९२.१। 
+अ॒भि। प्र। गोऽप॑तिम्। गि॒रा। इन्द्र॑म्। अ॒र्च॒। यथा॑। वि॒दे। सू॒नुम्। स॒त्यस्य॑। सत्ऽप॑तिम्। ९२.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Praise, even as he is known, with song Indra the guardian of the kine, The Son o
 
 टिप्पणी:   मन्त्र १-१। ऋग्वेद में है-८।६९ [सायणभाष्य ८]। ४-१८। मन्त्र १-३ आचुके हैं- अथर्व० २०।२२।४-६ ॥  १-३ व्याख्याताः-अ० २०।२२।४-६ ॥
 </details>
-

@@ -21,9 +21,14 @@ xviii. 3. 56.⌋
 Bright be to thee those worlds where dwell the Fathers! I seat thee in that sphere which they inhabit.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शुम्भ॑न्तांलो॒काः पि॑तृ॒षद॑नाः पितृ॒षद॑ने त्वा लो॒क आ सा॑दयामि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शुम्भ॑न्ताम्। लो॒काः। पि॒तृ॒ऽसद॑नाः। पि॒तृ॒ऽसद॑ने। त्वा॒। लो॒के। आ। सा॒द॒या॒मि॒। ४.६७। 
+शुम्भ॑न्ताम्। लो॒काः। पि॒तृ॒ऽसद॑नाः। पि॒तृ॒ऽसद॑ने। त्वा॒। लो॒के। आ। सा॒द॒या॒मि॒। ४.६७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ Bright be to thee those worlds where dwell the Fathers! I seat thee in that sphe
 
 टिप्पणी:   ६७−(शुम्भन्ताम्) शुम्भ शोभायाम्। शोभायमानाभवन्तु (लोकाः) समाजाः (पितृषदनाः) पितॄणां सदनयुक्ताः (पितृषदने) पितॄणांसदनयुक्ते (त्वा) त्वाम् (लोके) समाजे (आ) समन्तात् (सादयामि) स्थापयामि ॥
 </details>
-

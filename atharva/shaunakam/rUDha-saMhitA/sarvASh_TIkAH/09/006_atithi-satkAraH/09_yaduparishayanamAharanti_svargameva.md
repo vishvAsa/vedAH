@@ -20,9 +20,14 @@ elevated couch.' The verse lacks a syllable.
 With the couch that the men bring, he wins for himself the world of Svarga.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदु॑परिशय॒नमा॒हर॑न्ति स्व॒र्गमे॒व तेन॑ लो॒कमव॑ रुन्द्धे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। उ॒प॒रि॒ऽश॒य॒नम्। आ॒ऽहर॑न्ति। स्वः॒ऽगम्। ए॒व। तेन॑। लो॒कम्। अव॑। रु॒न्ध्दे॒। ६.९। 
+यत्। उ॒प॒रि॒ऽश॒य॒नम्। आ॒ऽहर॑न्ति। स्वः॒ऽगम्। ए॒व। तेन॑। लो॒कम्। अव॑। रु॒न्ध्दे॒। ६.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ With the couch that the men bring, he wins for himself the world of Svarga.
 
 टिप्पणी:   ९−(यत्) येन प्रकारेण (उपरिशयनम्) उच्चशय्यास्थानम् (आहरन्ति) समन्तात् प्राप्नुवन्ति गृहस्थाः (स्वर्गम्) सुखप्रापकम् (एव) निश्चयेन (तेन) प्रकारेण (लोकम्) दर्शनीयं परमात्मानम् (अव रुन्द्धे) प्राप्नोति ॥
 </details>
-

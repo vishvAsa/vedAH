@@ -21,9 +21,15 @@ alters to *āstām*. Some of the mss. (including our Bp.P.M.E.) leave
 Fervour and Action were the two, in depths of the great billowy sea? These were the wooers of the bride; Brahma the chief who courted her.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तप॑श्चै॒वास्तां॒ कर्म॑ चा॒न्तर्म॑ह॒त्य᳡र्ण॒वे।  
+त आ॑सं॒ जन्या॑स्ते व॒रा ब्रह्म॑ ज्येष्ठव॒रो᳡भ॑वत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तपः॑। च॒। ए॒व। आ॒स्ता॒म्। कर्म॑। च॒। अ॒न्तः। म॒ह॒ति। अ॒र्ण॒वे। ते। आ॒स॒न्। जन्याः॑। ते। व॒राः। ब्रह्म॑। ज्ये॒ष्ठ॒ऽव॒रः। अ॒भ॒व॒त्। १०.२। 
+तपः॑। च॒। ए॒व। आ॒स्ता॒म्। कर्म॑। च॒। अ॒न्तः। म॒ह॒ति। अ॒र्ण॒वे। ते। आ॒स॒न्। जन्याः॑। ते। व॒राः। ब्रह्म॑। ज्ये॒ष्ठ॒ऽव॒रः। अ॒भ॒व॒त्। १०.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Fervour and Action were the two, in depths of the great billowy sea? These were 
 
 टिप्पणी:   २−(तपः) तप ऐश्वर्ये-असुन्। ईश्वरसामर्थ्यम् (च) (एव) (आस्ताम्) अभवताम् (कर्म) प्राणिनां पुण्यपापकर्मफलम् (च) (अन्तः) मध्ये (महति) प्रभूते (अर्णवे) अ० १।१०।४। समुद्रे। परमेश्वरस्य गम्भीरसामर्थ्ये (ते) प्रसिद्धाः (ब्रह्म) प्रवृद्धः परमात्मा। अन्यत् पूर्ववत्-म० १ ॥
 </details>
-

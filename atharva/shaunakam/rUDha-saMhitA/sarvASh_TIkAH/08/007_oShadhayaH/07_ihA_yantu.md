@@ -19,9 +19,15 @@ leftward).
 Hitherward let the sapient come, the friendly sharers o f my speech. That we may give this man relief and raise him from his evil plight.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒हा य॑न्तु॒ प्रचे॑तसो मे॒दिनी॒र्वच॑सो॒ मम॑।  
+यथे॒मं पा॒रया॑मसि॒ पुरु॑षं दुरि॒तादधि॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒ह। आ। य॒न्तु॒। प्रऽचे॑तसः। मे॒दिनीः॑। वच॑सः। मम॑। यथा॑। इ॒मम्। पा॒रया॑मसि। पुरु॑षम्। दुः॒ऽइ॒तात्। अधि॑। ७.७। 
+इ॒ह। आ। य॒न्तु॒। प्रऽचे॑तसः। मे॒दिनीः॑। वच॑सः। मम॑। यथा॑। इ॒मम्। पा॒रया॑मसि। पुरु॑षम्। दुः॒ऽइ॒तात्। अधि॑। ७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Hitherward let the sapient come, the friendly sharers o f my speech. That we may
 
 टिप्पणी:   ७−(इह) अत्र (आ यन्तु) आगच्छन्तु (प्रचेतसः) प्रकृष्टज्ञानयुक्तस्य (मेदिनीः) ञिमिदा स्नेहने-अच्, मेद-इनि, ङीप्। स्नेहवत्यः। ओषधयः (वचसः) वचनस्य (मम) (यथा) (इमम्) (पारयामसि) तारयामः (पुरुषम्) (दुरितात्) कष्टात् (अधि) अधिकृत्य ॥
 </details>
-

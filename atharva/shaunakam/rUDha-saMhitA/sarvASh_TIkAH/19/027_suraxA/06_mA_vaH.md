@@ -25,9 +25,15 @@ as *śatrubalāpahārakaṁ tejas*. To *dāivyena* in **d** he supplies
 Let not magicians mar your heat, your vital or diffusive breath. Brilliant and all-possessing Gods, run ye your course with God- like power.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मा वः॑ प्रा॒णं मा वो॑ऽपा॒नं मा हरो॑ मा॒यिनो॑ दभन्।  
+भ्रा॑जन्तो वि॒श्ववे॑दसो दे॒वा दैव्ये॑न धावत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मा। वः॒। प्रा॒णम्। मा। वः॒। अ॒पा॒नम्। मा। हरः॑। मा॒यिनः॑। द॒भ॒न्। भ्राज॑न्तः। वि॒श्वऽवे॑दसः। दे॒वाः। दैव्ये॑न। धा॒व॒त॒। २७.६। 
+मा। वः॒। प्रा॒णम्। मा। वः॒। अ॒पा॒नम्। मा। हरः॑। मा॒यिनः॑। द॒भ॒न्। भ्राज॑न्तः। वि॒श्वऽवे॑दसः। दे॒वाः। दैव्ये॑न। धा॒व॒त॒। २७.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Let not magicians mar your heat, your vital or diffusive breath. Brilliant and a
 
 टिप्पणी:   ६−(मा) निषेधे (वः) युष्माकम् (प्राणम्) श्वासम् (मा) (वः) (अपानम्) प्रश्वासम् (हरः) तेजः (मायिनः) छलिनः (मा दभन्) मा नाशयन्तु (भ्राजन्तः) दीप्यमानाः (विश्ववेदसः) सर्वधनाः (देवाः) विद्वांसः (दैव्येन) देव-यञ्। विद्वद्योग्यकर्मणा (धावत) शीघ्रं गच्छत ॥
 </details>
-

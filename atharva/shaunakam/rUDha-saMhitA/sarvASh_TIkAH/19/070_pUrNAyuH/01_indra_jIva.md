@@ -19,9 +19,15 @@ and all. The comm. explains it by adding a *bhavata*.
 Live, Indra. Live Surya. Live, ye Gods. I fain would live. Fain would I live my complete term of life.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्र॒ जीव॒ सूर्य॒ जीव॒ देवा॒ जीवा॑ जी॒व्यास॑म॒हम्।  
+सर्व॒मायु॑र्जीव्यासम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑। जीव॑। सूर्य॑। जीव॑। देवाः॑। जीवाः॑। जी॒व्यास॑म्। अ॒हम्। सर्व॑म्। आयुः॑। जी॒व्या॒स॒म्। ७०.१। 
+इन्द्र॑। जीव॑। सूर्य॑। जीव॑। देवाः॑। जीवाः॑। जी॒व्यास॑म्। अ॒हम्। सर्व॑म्। आयुः॑। जी॒व्या॒स॒म्। ७०.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Live, Indra. Live Surya. Live, ye Gods. I fain would live. Fain would I live my 
 
 टिप्पणी:   १−(इन्द्र) हे परमैश्वर्यवन् मनुष्य (जीव) प्राणान् धारय (सूर्य) हे सूर्यवत्तेजस्विन् (जीव) (देवाः) हे विद्वांसः (जीवाः) जीवनवन्तः स्थ। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

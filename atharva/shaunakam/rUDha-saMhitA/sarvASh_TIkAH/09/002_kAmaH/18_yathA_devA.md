@@ -20,9 +20,15 @@ meter is like that of vs. 17.
 As Gods repelled the Asuras, and Indra down to the lowest darkness drove the demons, So, Kama, from this world, to distant places, drive thou the men who are mine adversaries.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॑ दे॒वा असु॑रा॒न्प्राणु॑दन्त॒ यथेन्द्रो॒ दस्यू॑नध॒मं तमो॑ बबा॒धे।  
+तथा॒ त्वं का॑म॒ मम॒ ये स॒पत्ना॒स्तान॒स्माल्लो॒कात्प्र णु॑दस्व दू॒रम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। दे॒वाः। असु॑रान्। प्र॒ऽअनु॑दन्त। यथा॑। इन्द्रः॑। दस्यू॑न्। अ॒ध॒मम्। तमः॑। ब॒बा॒धे। तथा॑। त्वम्। का॒म॒। मम॑। ये। स॒ऽपत्नाः॑। तान्। अ॒स्मात्। लो॒कात्। प्र। नु॒द॒स्व॒। दू॒रम्। २.१८। 
+यथा॑। दे॒वाः। असु॑रान्। प्र॒ऽअनु॑दन्त। यथा॑। इन्द्रः॑। दस्यू॑न्। अ॒ध॒मम्। तमः॑। ब॒बा॒धे। तथा॑। त्वम्। का॒म॒। मम॑। ये। स॒ऽपत्नाः॑। तान्। अ॒स्मात्। लो॒कात्। प्र। नु॒द॒स्व॒। दू॒रम्। २.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ As Gods repelled the Asuras, and Indra down to the lowest darkness drove the dem
 
 टिप्पणी:   १८−(यथा) येन प्रकारेण (देवाः) व्यवहारकुशलाः (बबाधे) बाधितवान्। निरुद्धवान् (तथा) तेन प्रकारेण। अन्यत् पूर्ववत्-म० ॥१७॥१८॥
 </details>
-

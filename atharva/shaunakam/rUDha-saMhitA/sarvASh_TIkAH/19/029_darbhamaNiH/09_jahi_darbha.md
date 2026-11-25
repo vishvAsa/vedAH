@@ -16,9 +16,15 @@ title = "०९ जहि दर्भ"
 Slay thou my rivals. Darbha, slay the men who fain would fight with me. Slay all who wish me evil, slay the men who hate me, Amulet.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ज॒हि द॑र्भ स॒पत्ना॑न्मे ज॒हि मे॑ पृतनाय॒तः।  
+ज॒हि मे॒ सर्वा॑न्दु॒र्हार्दो॑ ज॒हि मे॑ द्विष॒तो म॑णे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ज॒हि॒। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। ज॒हि। मे॒। पृ॒त॒ना॒ऽय॒तः। ज॒हि। मे॒। सर्वा॑न्। दुः॒ऽहार्दः॑। ज॒हि। मे॒। द्वि॒ष॒तः। म॒णे॒। २९.९। 
+ज॒हि॒। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। ज॒हि। मे॒। पृ॒त॒ना॒ऽय॒तः। ज॒हि। मे॒। सर्वा॑न्। दुः॒ऽहार्दः॑। ज॒हि। मे॒। द्वि॒ष॒तः। म॒णे॒। २९.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +54,3 @@ Slay thou my rivals. Darbha, slay the men who fain would fight with me. Slay all
 
 टिप्पणी:   ९−(जहि) हन हिंसागत्योः। नाशय ॥
 </details>
-

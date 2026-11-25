@@ -19,9 +19,15 @@ The Anukr. chooses to reject the common resolution *-bhi-as* (twice) in
 Worship to thee springing to life, and worship unto thee when born! Worship, O Cow, to thy tail-hair, and to thy hooves, and to thy form!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नम॑स्ते॒ जाय॑मानायै जा॒ताया॑ उ॒त ते॒ नमः॑।  
+बाले॑भ्यः श॒फेभ्यो॑ रू॒पाया॑घ्न्ये ते॒ नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नमः॑। ते॒। जाय॑मानायै। जा॒तायै॑। उ॒त। ते॒। नमः॑। बाले॑भ्यः। श॒फेभ्यः॑। रू॒पाय॑। अ॒घ्न्ये॒। ते॒। नमः॑। १०.१। 
+नमः॑। ते॒। जाय॑मानायै। जा॒तायै॑। उ॒त। ते॒। नमः॑। बाले॑भ्यः। श॒फेभ्यः॑। रू॒पाय॑। अ॒घ्न्ये॒। ते॒। नमः॑। १०.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Worship to thee springing to life, and worship unto thee when born! Worship, O C
 
 टिप्पणी:   १−(नमः) सत्कारः (ते) तुभ्यम् (जायमानायै) उत्पद्यमानायै (जातायै) पूर्वकालात् प्रसिद्धायै (उत) अपि (बालेभ्यः) बल प्राणने धान्यावरोधने च-घञ्। नानाबलेभ्यः (शफेभ्यः) अ० ९।७।१०। शम शान्तौ-अच्, मस्य फः। शान्तिव्यवहाराणां सिद्धये (रूपाय) स्वरूपाय। विस्ताराय (अघ्न्ये) अ० १०।९।३। नञ्+हन हिंसागत्योः-यक्, टाप्। हे अहिंसिके रक्षिके। परमेश्वरशक्ते। अन्यद् गतम् ॥
 </details>
-

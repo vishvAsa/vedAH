@@ -22,9 +22,15 @@ all this mischief is the consequence of her ill-treatment. Ppp. combines
 When infants die, untimely born, when herds of cattle waste away, When heroes strike each other dead, the Brahman's wife destroyeth them.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये गर्भा॑ अव॒पद्य॑न्ते॒ जग॒द्यच्चा॑पलु॒प्यते॑।  
+वी॒रा ये तृ॒ह्यन्ते॑ मि॒थो ब्र॑ह्मजा॒या हि॑नस्ति॒ तान् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। गर्भाः॑। अ॒व॒ऽपद्य॑न्ते। जग॑त्। यत्। च॒। अ॒प॒ऽलु॒प्यते॑। वी॒राः। ये। तृ॒ह्यन्ते॑। मि॒थः। ब्र॒ह्म॒ऽजा॒या। हि॒न॒स्ति॒। तान्। १७.७। 
+ये। गर्भाः॑। अ॒व॒ऽपद्य॑न्ते। जग॑त्। यत्। च॒। अ॒प॒ऽलु॒प्यते॑। वी॒राः। ये। तृ॒ह्यन्ते॑। मि॒थः। ब्र॒ह्म॒ऽजा॒या। हि॒न॒स्ति॒। तान्। १७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ When infants die, untimely born, when herds of cattle waste away, When heroes st
 
 टिप्पणी:   ७−(ये) (गर्भाः) भ्रूणाः (अवपद्यन्ते) अधः पतन्ति (जगत्) जङ्गमं पश्वादिवृन्दम् (यत्) (च) (अपलुप्यते) अव छिद्यते (वीराः) शूराः (ये) (तृह्यन्ते) हिंस्यन्ते (मिथः) परस्परम् (ब्रह्मजाया) म० २। सा अपनीता ब्रह्मविद्या (हिनस्ति) नाशयति (तान्) पूर्वोक्तान् ॥
 </details>
-

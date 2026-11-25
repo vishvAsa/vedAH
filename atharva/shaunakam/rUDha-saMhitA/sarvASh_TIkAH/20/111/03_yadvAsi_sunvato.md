@@ -8,9 +8,15 @@ title = "०३ यद्वासि सुन्वतो"
 Or, Lord of Heroes, if thou aid the worshipper who sheds the juice, Or him whose laud delights thee, and his flowing drops.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्वासि॑ सुन्व॒तो वृ॒धो यज॑मानस्य सत्पते।  
+उ॒क्थे वा॒ यस्य॒ रण्य॑सि॒ समिन्दु॑भिः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। वा॒। असि॑। सु॒न्व॒तः। वृ॒धः। यज॑मानस्य। स॒त्ऽप॒ते॒। उ॒क्थे। वा॒। यस्य॑। रण्य॑सि। सम्। इन्दु॑ऽभिः। १११.३। 
+यत्। वा॒। असि॑। सु॒न्व॒तः। वृ॒धः। यज॑मानस्य। स॒त्ऽप॒ते॒। उ॒क्थे। वा॒। यस्य॑। रण्य॑सि। सम्। इन्दु॑ऽभिः। १११.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Or, Lord of Heroes, if thou aid the worshipper who sheds the juice, Or him whose
 
 टिप्पणी:   ३−(यत् वा) अथवा (असि) (सुन्वतः) तत्त्वरसं निष्पादयतः पुरुषस्य (वृधः) वर्धयिता। (यजमानस्य) (सत्पते) सतां पालक (उक्थे) वचने (वा) अवधारणे (यस्य) यजमानस्य (रण्यसि) उपदिशसि (सम्) सम्यक् (इन्दुभिः) ऐश्वर्यव्यवहारैः ॥
 </details>
-

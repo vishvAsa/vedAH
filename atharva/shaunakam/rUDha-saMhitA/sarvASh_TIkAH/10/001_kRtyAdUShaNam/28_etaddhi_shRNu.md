@@ -18,9 +18,15 @@ Ppp. reads at the end *punaḥ* for *prati*.
 Hearken to this my word; then go thither away whence thou hast come; to him who made thee go thou back.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒तद्धि शृ॒णु मे॒ वचोऽथे॑हि॒ यत॑ ए॒यथ॑।  
+यस्त्वा॑ च॒कार॒ तं प्रति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒तत्। हि। शृ॒णु। मे॒। वचः॑। अथ॑। इ॒हि॒। यतः॑। आ॒ऽइ॒यथ॑। यः। त्वा॒। च॒कार॑। तम्। प्रति॑। १.२८। 
+ए॒तत्। हि। शृ॒णु। मे॒। वचः॑। अथ॑। इ॒हि॒। यतः॑। आ॒ऽइ॒यथ॑। यः। त्वा॒। च॒कार॑। तम्। प्रति॑। १.२८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Hearken to this my word; then go thither away whence thou hast come; to him who 
 
 टिप्पणी:   २८−(एतत्) इदं निर्णयसूचकम् (हि) अवश्यम् (शृणु) (मे) मम (वचः) वचनम् (अथ) तदा (इहि) गच्छ (यतः) यस्मात् स्थानात् (एयथ) आङ्+इण् गतौ-लिट्। एयेथ। आगतवती त्वम् (यः त्वा, चकार, तम् प्रति) ॥
 </details>
-

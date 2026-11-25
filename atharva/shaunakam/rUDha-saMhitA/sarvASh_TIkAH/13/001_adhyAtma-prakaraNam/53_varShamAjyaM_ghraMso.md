@@ -23,9 +23,15 @@ vss. ⌊57-58⌋ as *anuṣṭubh*, although it describes a minor feature of vs.
 The earth became an altar, heat was Agni, and the butter rain. There Agni made, by song and hymn, these mountains rise and stand erect.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व॒र्षमाज्यं॑ घ्रं॒सो अ॒ग्निर्वेदि॒र्भूमि॑रकल्पत।  
+तत्रै॒तान्पर्व॑तान॒ग्निर्गी॒र्भिरू॒र्ध्वाँ अ॑कल्पयत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-व॒र्षम्। आज्य॑म्। घ्रं॒सः। अ॒ग्निः। वेदिः॑। भूमिः॑। अ॒क॒ल्प॒त॒। तत्र॑। ए॒तान्। पर्व॑तान्। अ॒ग्निः। गीः॒ऽभिः ऊ॒र्ध्वान्। अ॒क॒ल्प॒य॒त्। १.५३। 
+व॒र्षम्। आज्य॑म्। घ्रं॒सः। अ॒ग्निः। वेदिः॑। भूमिः॑। अ॒क॒ल्प॒त॒। तत्र॑। ए॒तान्। पर्व॑तान्। अ॒ग्निः। गीः॒ऽभिः ऊ॒र्ध्वान्। अ॒क॒ल्प॒य॒त्। १.५३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ The earth became an altar, heat was Agni, and the butter rain. There Agni made, 
 
 टिप्पणी:   ५३−(वर्षम्) वृष्टिः (आज्यम्) घृतं यथा (घ्रंसः) म० ४६। तापः (अग्निः) तेजोविशेषः (वेदिः) (भूमिः) (अकल्पत) अरच्यत (तत्र) भूमौ (एतान्) दृश्यमानान् (पर्वतान्) (अग्निः) तेजःस्वरूपः परमेश्वरः पार्थिवतापो वा (गीर्भिः) वेदवाणीभिः (ऊर्ध्वान्) उन्नतान् (अकल्पयत्) अकरोत् ॥
 </details>
-

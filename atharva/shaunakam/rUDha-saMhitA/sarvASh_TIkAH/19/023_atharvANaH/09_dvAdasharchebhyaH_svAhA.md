@@ -16,9 +16,14 @@ title = "०९ द्वादशर्चेभ्यः स्वाहा"
 Hail to the twelve-versed!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+द्वा॑दश॒र्चेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द्वा॒द॒श॒ऽऋ॒चेभ्यः॑। स्वाहा॑। २३.९। 
+द्वा॒द॒श॒ऽऋ॒चेभ्यः॑। स्वाहा॑। २३.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Hail to the twelve-versed!
 
 टिप्पणी:   ९−(द्वादशर्चेभ्यः) म०१। चैत्रादिद्वादशमासानां स्तुत्या विद्या येषु तेभ्यो वेदेभ्यः ॥
 </details>
-

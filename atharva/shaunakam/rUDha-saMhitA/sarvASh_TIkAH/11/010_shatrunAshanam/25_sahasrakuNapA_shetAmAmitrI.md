@@ -21,9 +21,15 @@ evidently sees in it the root *jā*. In **a** he has the strange reading
 Low let the hostile army lie, thousands of corpses, on the ground, Pierced through and rent to pieces where the deadly weapons clash in fight.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒हस्र॑कुणपा शेतामामि॒त्री सेना॑ सम॒रे व॒धाना॑म्।  
+विवि॑द्धा कक॒जाकृ॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒हस्र॑ऽकुणपा। शे॒ता॒म्। आ॒मि॒त्री। सेना॑। स॒म्ऽअ॒रे। व॒धाना॑म्। विऽवि॑ध्दा। क॒क॒जाऽकृ॑ता। १२.२५। 
+स॒हस्र॑ऽकुणपा। शे॒ता॒म्। आ॒मि॒त्री। सेना॑। स॒म्ऽअ॒रे। व॒धाना॑म्। विऽवि॑ध्दा। क॒क॒जाऽकृ॑ता। १२.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Low let the hostile army lie, thousands of corpses, on the ground, Pierced throu
 
 टिप्पणी:   २५−(सहस्रकुणपा) असंख्यातशवयुक्ता (शेताम्) (आमित्री) अमित्र-अण्। शात्रवी (सेना) (समरे) युद्धे। प्रहारे (वधानाम्) आयुधानाम् (विविद्धा) विविधं ताडिता (ककजाकृता) कक+जा+कृता। कक गर्वे चापल्ये तृष्णायां च-अच्। जन जनने ड प्रत्ययो भावे, टाप्। कृञ् हिंसायाम् क, टाप्। ककस्य पिपासाया जया उत्पत्या कृता हिंसिता ॥
 </details>
-

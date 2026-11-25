@@ -18,9 +18,15 @@ The Anukr. intends *pārśvé* to be read unresolved.
 The stabs that penetrate the sides and pierce their way along the ribs, Let them depart and pass away, free from disease and harming not.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+याः पा॒र्श्वे उ॑प॒र्षन्त्य॑नु॒निक्ष॑न्ति पृ॒ष्टीः।  
+अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। पा॒र्श्वे इति॑। उ॒प॒ऽऋ॒षन्ति॑। अ॒नु॒ऽनिक्ष॑न्ति। पृ॒ष्टीः। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१५। 
+याः। पा॒र्श्वे इति॑। उ॒प॒ऽऋ॒षन्ति॑। अ॒नु॒ऽनिक्ष॑न्ति। पृ॒ष्टीः। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The stabs that penetrate the sides and pierce their way along the ribs, Let them
 
 टिप्पणी:   १५−(पार्श्वे) अ० २।३३।३। कक्षयोरधोभागौ (अनुनिक्षन्ति) णिक्ष चुम्बने। निरन्तरं पीडयन्ति (पृष्टीः) अ० २।७।५। पार्श्वस्थीनि। अन्यत् पूर्ववत् ॥
 </details>
-

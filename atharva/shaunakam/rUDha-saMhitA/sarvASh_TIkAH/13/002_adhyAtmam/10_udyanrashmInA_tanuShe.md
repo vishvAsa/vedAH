@@ -21,9 +21,15 @@ may be that "adornest" is a slip on W's part. Cf. Henry's note, p.
 Rising, thou spreadest out thy rays, thou nourishest all shapes and forms. Thou with thy power illumest both the oceans, encompassing all spheres with thy refulgence.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॒द्यन्र॒श्मीना त॑नुषे॒ विश्वा॑ रु॒पाणि॑ पुष्यसि।  
+उ॒भा स॑मु॒द्रौ क्रतु॑ना॒ वि भा॑सि॒ सर्वां॑ल्लो॒कान्प॑रि॒भूर्भ्राज॑मानः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒तऽयन्। र॒श्मीन्। आ। त॒नु॒षे॒। विश्वा॑। रू॒पाणि॑। पु॒ष्य॒सि॒। उ॒भा। स॒मु॒द्रौ। क्रतु॑ना। वि। भा॒सि॒। सर्वा॑न्। लो॒कान्। प॒रि॒ऽभूः। भ्राज॑मानः। 2.१०। 
+उ॒तऽयन्। र॒श्मीन्। आ। त॒नु॒षे॒। विश्वा॑। रू॒पाणि॑। पु॒ष्य॒सि॒। उ॒भा। स॒मु॒द्रौ। क्रतु॑ना। वि। भा॒सि॒। सर्वा॑न्। लो॒कान्। प॒रि॒ऽभूः। भ्राज॑मानः। 2.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Rising, thou spreadest out thy rays, thou nourishest all shapes and forms. Thou 
 
 टिप्पणी:   १०−(उद्यन्) उद्गच्छन् (रश्मीन्) किरणान् (आ) समन्तात् (तनुषे) विस्तारयसि (विश्वा) सर्वाणि (रूपाणि) वस्तूनि (पुष्यसि) वर्धयसि (उभा) द्वौ (समुद्रौ) जड़चेतनरूपौ संसारौ (केतुना) कर्मणा (वि) विविधम् (भासि) दीपयसि (सर्वान्) (लोकान्) (परिभूः) परिग्राहकः। परिभ्राम्यन् (भ्राजमानः) प्रकाशमानः ॥
 </details>
-

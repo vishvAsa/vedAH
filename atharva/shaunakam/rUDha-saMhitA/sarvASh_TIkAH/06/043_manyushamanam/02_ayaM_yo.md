@@ -21,9 +21,15 @@ in **a**.
 This Plant that hath abundant roots spreads to the place where waters meet. Soother of anger is the name Darbha-grass that springs from earth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒यं यो भूरि॑मूलः समु॒द्रम॑व॒तिष्ठ॑ति।  
+द॒र्भः पृ॑थि॒व्या उत्थि॑तो मन्यु॒शम॑न उच्यते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। यः। भूरि॑ऽमूलः। स॒मु॒द्रम्। अ॒व॒ऽतिष्ठ॑ति। द॒र्भः। पृ॒थि॒व्याः। उत्थि॑तः। म॒न्यु॒ऽशम॑नः। उ॒च्य॒ते॒। ४३.२। 
+अ॒यम्। यः। भूरि॑ऽमूलः। स॒मु॒द्रम्। अ॒व॒ऽतिष्ठ॑ति। द॒र्भः। पृ॒थि॒व्याः। उत्थि॑तः। म॒न्यु॒ऽशम॑नः। उ॒च्य॒ते॒। ४३.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ This Plant that hath abundant roots spreads to the place where waters meet. Soot
 
 टिप्पणी:   २−(अयम्) (यः) दर्भः (भूरिमूलः) मूल प्रतिष्ठायां रोपणे च−क बहुप्रतिष्ठितः सन् (समुद्रम्) अ० १।३।८। अन्तरिक्षम्−निघ० १।३। (अवतिष्ठति) व्याप्य वर्तते (दर्भः) म० १। सुकर्मणां ग्रन्थकः (पृथिव्याः) भूमेः सकाशात् (उत्थितः) उपरि स्थितः सन्। अन्यत्पूर्ववत् ॥
 </details>
-

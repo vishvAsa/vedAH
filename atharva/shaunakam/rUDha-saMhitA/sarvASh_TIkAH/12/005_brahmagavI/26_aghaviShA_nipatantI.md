@@ -16,9 +16,14 @@ title = "२६ अघविषा निपतन्ती"
 Fearfully venomous when falling, darkness when she hath fallen down.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒घवि॑षा नि॒पत॑न्ती॒ तमो॒ निप॑तिता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒घऽवि॑षा। नि॒ऽपत॑न्ती। तमः॑। निऽप॑तिता। ७.१५। 
+अ॒घऽवि॑षा। नि॒ऽपत॑न्ती। तमः॑। निऽप॑तिता। ७.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Fearfully venomous when falling, darkness when she hath fallen down.
 
 टिप्पणी:   २६−(अघविषा) म० १२। महाघोरविषयुक्ता यथा (निपतन्ती) अधोगच्छन्ती (तमः) अन्धकारः (निपतिता) अधोगता ॥
 </details>
-

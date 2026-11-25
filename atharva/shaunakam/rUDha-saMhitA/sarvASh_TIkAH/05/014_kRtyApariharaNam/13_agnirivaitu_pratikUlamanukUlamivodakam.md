@@ -14,9 +14,15 @@ title = "१३ अग्निरिवैतु प्रतिकूलमन
 Let it go contrary like flame, like water following its course. Let witchcraft, like a well-naved car, roll back upon the sorcerer.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्निरि॑वैतु प्रति॒कूल॑मनु॒कूल॑मिवोद॒कम्।  
+सु॒खो रथ॑ इव वर्ततां कृ॒त्या कृ॑त्या॒कृतं॒ पुनः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निःऽइ॑व। ए॒तु॒। प्र॒ति॒ऽकूल॑म्। अ॒नु॒कूल॑म्ऽइव। उ॒द॒कम्। सु॒खः। रथः॑ऽइव। व॒र्त॒ता॒म्। कृ॒त्या। कृ॒त्या॒ऽकृत॑म्। पुनः॑। १४.१३। 
+अ॒ग्निःऽइ॑व। ए॒तु॒। प्र॒ति॒ऽकूल॑म्। अ॒नु॒कूल॑म्ऽइव। उ॒द॒कम्। सु॒खः। रथः॑ऽइव। व॒र्त॒ता॒म्। कृ॒त्या। कृ॒त्या॒ऽकृत॑म्। पुनः॑। १४.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +52,3 @@ Let it go contrary like flame, like water following its course. Let witchcraft, 
 
 टिप्पणी:   १३−(अग्निरिव) अग्निर्यथा (एतु) गच्छतु, अस्माकं सेना (प्रतिकूलम्) यथा तथा विरुद्धपक्षम् (अनुकूलम्) तीरद्वयमनुसृत्य गमनशीलम् (उदकम्) जलम्। अन्यद् व्याख्यातम् म० ५ ॥
 </details>
-

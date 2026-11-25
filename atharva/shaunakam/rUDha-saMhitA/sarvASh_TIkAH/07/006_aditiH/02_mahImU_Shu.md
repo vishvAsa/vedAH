@@ -15,7 +15,7 @@ Aditi.
 The verse is also VS. xxi. 5, and is found further in TS. (i. 5. 11⁵),  
 MS. (iv. 10. 1), K. (xxx. 4, 5), (śśS. (ii. 2. 14), their only variant  
 being (in all) *huvema* for *havāmahe* at end of **b**; and Ppp. has the  
-same.  
+same.
 </details>
 
 <details><summary>Griffith</summary>
@@ -26,9 +26,15 @@ Far-spread, unwasting strong in her dominion, Aditi wisely lead-
 ing, well protecting.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+म॒हीमू॒ षु मा॒तरं॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हवामहे।  
+तु॑विक्ष॒त्राम॒जर॑न्तीमुरू॒चीं सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-म॒हीम्। ऊं॒ इति॑। सु। मा॒तर॑म्। सु॒ऽव्र॒ताना॑म्। ऋ॒तस्य॑। पत्नी॑म्। अव॑से। ह॒वा॒म॒हे॒। तु॒वि॒ऽक्ष॒त्राम्। अ॒जर॑न्तीम्। ऊ॒रू॒चीम्। सु॒ऽशर्मा॑णम्। अदि॑तिम्। सु॒ऽप्रनी॑तिम्। ६.२। 
+म॒हीम्। ऊं॒ इति॑। सु। मा॒तर॑म्। सु॒ऽव्र॒ताना॑म्। ऋ॒तस्य॑। पत्नी॑म्। अव॑से। ह॒वा॒म॒हे॒। तु॒वि॒ऽक्ष॒त्राम्। अ॒जर॑न्तीम्। ऊ॒रू॒चीम्। सु॒ऽशर्मा॑णम्। अदि॑तिम्। सु॒ऽप्रनी॑तिम्। ६.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

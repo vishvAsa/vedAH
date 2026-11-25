@@ -18,9 +18,14 @@ The Pet. Lexx. conjecture *pari-hnu* (not found elsewhere) to mean
 Homelessness is she when denied her rights.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑स्व॒गता॒ परि॑ह्णुता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒स्व॒गता॑। परि॑ऽह्नुता। ९.२। 
+अ॒स्व॒गता॑। परि॑ऽह्नुता। ९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Homelessness is she when denied her rights.
 
 टिप्पणी:   ४०, ४१−(अस्वगता) स्वं धनम्। अस्व+गम−ड, भावे तल्, टाप्। अस्वं निर्धनत्वं गच्छतीति अस्वगस्तस्य भावः। निर्धनता (परिह्णुता) ह्रुङ् अपनयने=चौर्ये−क्त। चोरिता (अग्निः) प्रत्यक्षः पावकः (क्रव्यात्) मांसभक्षकः। शवदाहकः (भूत्वा) (ब्रह्मगवी) म० ५। वेदवाणी (ब्रह्मज्यम्) म० १५। ब्रह्मचारिणां हानिकरम् (प्रविश्य) (अत्ति) खादति ॥
 </details>
-

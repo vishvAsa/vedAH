@@ -19,9 +19,15 @@ taṁ hantv adhamaṁ tamaḥ*. ⌊We had our **d** at x. 3. 9 **d**.⌋
 Ascending up on high, O God. O Surya, drive my foes away. Yea, beat them backward with the stone: to deepest darkness let them go.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॒द्यंस्त्वं दे॑व सूर्य स॒पत्ना॒नव॑ मे जहि।  
+अवै॑ना॒नश्म॑ना जहि॒ ते य॑न्त्वध॒मं तमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒त्ऽयन्। त्वम्। दे॒व॒। सू॒र्य॒। स॒ऽपत्ना॑न्। अव॑। मे॒। ज॒हि॒। अव॑। ए॒ना॒न्। अश्म॑ना। ज॒हि॒। ते॒। य॒न्तु॒। अ॒ध॒मम्। तमः॑। १.३२। 
+उ॒त्ऽयन्। त्वम्। दे॒व॒। सू॒र्य॒। स॒ऽपत्ना॑न्। अव॑। मे॒। ज॒हि॒। अव॑। ए॒ना॒न्। अश्म॑ना। ज॒हि॒। ते॒। य॒न्तु॒। अ॒ध॒मम्। तमः॑। १.३२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Ascending up on high, O God. O Surya, drive my foes away. Yea, beat them backwar
 
 टिप्पणी:   ३२−(उद्यन्) उद्गच्छन् (त्वम्) (देव) विजिगीषो (सूर्य) सर्वप्रेरक राजन् (सपत्नान्) (मे) मम (अव जहि) विनाशय (एनान्) सपत्नान् (अश्मना) प्रस्तरादिना (अवजहि) (ते) शत्रवः (यन्तु) गच्छन्तु (अधमम्) अतिनिकृष्टम् (तमः) अन्धकारम् ॥
 </details>
-

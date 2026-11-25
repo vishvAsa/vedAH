@@ -20,9 +20,15 @@ Ppp. combines at the end *kutā ”bharat*. The comm. appears again to read
 Whence, from what region did he bring the hair, the sinews, and the bones, Marrow and limbs, and joints, and flesh? Who was the bringer, and from whence?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+कुतः॒ केशा॒न्कुतः॒ स्नाव॒ कुतो॒ अस्थी॒न्याभ॑रत्।  
+अङ्गा॒ पर्वा॑णि म॒ज्जानं॒ को मां॒सं कुत॒ आभ॑रत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कुतः॑। केशा॑न्। कुतः॑। स्नावः॑। कुतः॑। अस्थी॑नि। आ। अ॒भ॒र॒त्। अङ्गा॑। पर्वा॑णि। म॒ज्जान॑म्। कः। मां॒सम्। कुतः॑। आ। अ॒भ॒र॒त्। १०.१२। 
+कुतः॑। केशा॑न्। कुतः॑। स्नावः॑। कुतः॑। अस्थी॑नि। आ। अ॒भ॒र॒त्। अङ्गा॑। पर्वा॑णि। म॒ज्जान॑म्। कः। मां॒सम्। कुतः॑। आ। अ॒भ॒र॒त्। १०.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Whence, from what region did he bring the hair, the sinews, and the bones, Marro
 
 टिप्पणी:   १२−(कुतः) पञ्चम्यास्तसिल्। पा० ५।३।७। कु तिहोः। पा० ७।२।१०४। किमस्तसिल् कु च। कस्मादुपादेयकारणात् (अङ्गा) शरीराङ्गानि (पर्वाणि) शरीरसन्धीन् (मज्जानम्) अस्थ्यन्तर्गतं रसम् (कः) करोतेः-ड। कर्ता प्रजापतिः। कः कमनो या क्रमणो वा सुखो वा-निरु० १०।२२। अन्यद् व्याख्यातम्-म० ११ ॥
 </details>
-

@@ -8,17 +8,22 @@ title = "२८ श्यैतस्य च"
 **d.** ⌊24.⌋ of both the  
 *śyāitá* and the *nāudhasá* and the seven seers and king Soma doth he  
 become the dear abode \[who knoweth thus\]. Of him in the northern  
-quarter 
+quarter
 </details>
 
 <details><summary>Griffith</summary>
 
-He who hath this knowledge be- comes the dear home of Syaita, etc. 
+He who hath this knowledge be- comes the dear home of Syaita, etc.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+श्यै॒तस्य॑ च॒ वैस नौ॑ध॒सस्य॑ च सप्तर्षी॒णां च॒ सोम॑स्य च॒ राज्ञः॑ प्रि॒यं धाम॑ भवति॒ तस्योदी॑च्यां दि॒शि ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-श्यै॒तस्य॑। च॒। वै। सः। नौ॒ध॒सस्य॑। च॒। स॒प्त॒ऽऋ॒षी॒णाम्। च॒। सोम॑स्य। च॒। राज्ञः॑। प्रि॒यम्। धाम॑। भ॒व॒ति॒। तस्य॑। उदी॑च्याम्। दि॒शि। २.२४। 
+श्यै॒तस्य॑। च॒। वै। सः। नौ॒ध॒सस्य॑। च॒। स॒प्त॒ऽऋ॒षी॒णाम्। च॒। सोम॑स्य। च॒। राज्ञः॑। प्रि॒यम्। धाम॑। भ॒व॒ति॒। तस्य॑। उदी॑च्याम्। दि॒शि। २.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ He who hath this knowledge be- comes the dear home of Syaita, etc.
 
 टिप्पणी:   २४−(श्यैतस्य) म० २२।सद्गतिप्रतिपादकस्य वेदज्ञानस्य (नौधसस्य) ऋषीणां हितकरस्य मोक्षज्ञानस्य (सप्तर्षीणाम्) म० २२। सबुद्धिषडिन्द्रियाणाम् (सोमस्य) प्रेरकस्य मनुष्यस्य (राज्ञः) ऐश्वर्यवतः। अन्यद् गतम्-म० ४ ॥
 </details>
-

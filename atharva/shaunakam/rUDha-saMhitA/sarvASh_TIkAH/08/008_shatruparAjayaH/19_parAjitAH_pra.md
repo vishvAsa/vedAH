@@ -23,9 +23,15 @@ iii. 76, iv. 77, the commentary quoting it under each rule.
 Fly, conquered, in alarm, ye foes, run driven by the spell away! Let not one man escape of those when routed by Brihaspati.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+परा॑जिताः॒ प्र त्र॑सतामित्रा नु॒त्ता धा॑वत॒ ब्रह्म॑णा।  
+बृह॒स्पति॑प्रणुत्तानां॒ मामीषां॑ मोचि॒ कश्च॒न ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पराऽजिताः। प्र। त्रसत। अमित्राः। नुत्ताः। धावत। ब्रह्मणा। बृहस्पतिऽप्रनुत्तानाम्। मा। अमीषाम्। मोचि। कः। चन। ८.१९। 
+पराऽजिताः। प्र। त्रसत। अमित्राः। नुत्ताः। धावत। ब्रह्मणा। बृहस्पतिऽप्रनुत्तानाम्। मा। अमीषाम्। मोचि। कः। चन। ८.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Fly, conquered, in alarm, ye foes, run driven by the spell away! Let not one man
 
 टिप्पणी:   १९−(पराजिताः) पराभूताः (प्र) (त्रसत) त्रसी उद्वेगे भये च। बिभीत (अमित्राः) हे पीडकाः (नुत्ताः) प्रेरिताः (धावत) पलायध्वम् (ब्रह्मणा) विदुषा सेनापतिना (बृहस्पतिप्रणुत्तानाम्) बृहतां वेदानां पालकेन प्रेरितानाम् (अमीषाम्) तेषां शत्रूणाम् (मा मोचि) मा मुक्तो भवतु (कश्चन) कोऽपि ॥
 </details>
-

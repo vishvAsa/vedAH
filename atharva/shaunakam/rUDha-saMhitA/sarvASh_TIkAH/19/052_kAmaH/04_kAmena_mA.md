@@ -23,9 +23,15 @@ mām* as two words⌋. Ppp. combines *kāmā ”gan* in **a**.
 O Kama, with whatever wish we make this offering to thee, May it be all fulfilled to us. Then taste this sacrifice, All hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+कामे॑न मा॒ काम॒ आग॒न्हृद॑या॒द्धृद॑यं॒ परि॑।  
+यद॒मीषा॑म॒दो मन॒स्तदैतूप॑ मामि॒ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कामे॑न। मा॒। कामः॑। आ। अ॒ग॒न्। हृद॑यात्। हृद॑यम्। परि॑। यत्। अ॒मीषा॑म्। अ॒दः। मनः॑। तत्। आ। ए॒तु॒। उप॑। माम्। इ॒ह। ५२.४। 
+कामे॑न। मा॒। कामः॑। आ। अ॒ग॒न्। हृद॑यात्। हृद॑यम्। परि॑। यत्। अ॒मीषा॑म्। अ॒दः। मनः॑। तत्। आ। ए॒तु॒। उप॑। माम्। इ॒ह। ५२.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ O Kama, with whatever wish we make this offering to thee, May it be all fulfille
 
 टिप्पणी:   ४−(कामेन) कर्मफलेच्छया सह (मा) माम् (कामः) अभिलाषः (आ अगन्) गमेर्लुङि च्लेर्लुकि मकारस्य नकारः। आगतवान् (हृदयात्) एकस्य अन्तःकरणात् (हृदयम्) द्वितीयस्य अन्तःकरणम् (परि) प्रति (यत्) (अमीषाम्) विदुषाम् (अदः) तत् (मनः) मननम् (तत्) (आ एतु) प्राप्नोतु (उप) आदरेण (माम्) (इह) अत्र ॥
 </details>
-

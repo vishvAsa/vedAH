@@ -19,9 +19,15 @@ Ppp. combines *vā ’bhūtiś* in **a**.
 Prosperity and poverty, kindnesses and malignities, Hunger and thirst of every kind entered the body as a home.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+भूति॑श्च॒ वा अभू॑तिश्च रा॒तयोऽरा॑तयश्च॒ याः।  
+क्षुध॑श्च॒ सर्वा॒स्तृष्णा॑श्च॒ शरी॑र॒मनु॒ प्रावि॑शन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भूतिः॑। च॒। वै। अभू॑तिः। च॒। रा॒तयः॑। अरा॑तयः। च॒। याः। क्षुधः॑। च॒। सर्वाः॑। तृष्णा॑। च॒। शरी॑रम्। अनु॑। प्र। अ॒वि॒श॒न्। १०.२१। 
+भूतिः॑। च॒। वै। अभू॑तिः। च॒। रा॒तयः॑। अरा॑तयः। च॒। याः। क्षुधः॑। च॒। सर्वाः॑। तृष्णा॑। च॒। शरी॑रम्। अनु॑। प्र। अ॒वि॒श॒न्। १०.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Prosperity and poverty, kindnesses and malignities, Hunger and thirst of every k
 
 टिप्पणी:   २१−(भूतिः) सम्पत्तिः (च) (वै) एव (अभूतिः) निर्धनता (च) (रातयः) दानशक्तयः (अरातयः) कार्पण्यानि (च) (याः) (क्षुधः) बुभुक्षाः (च) (सर्वाः) (तृष्णाः) पिपासाः। अन्यत् पूर्ववत् ॥
 </details>
-

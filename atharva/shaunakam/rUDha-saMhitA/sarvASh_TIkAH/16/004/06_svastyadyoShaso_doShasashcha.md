@@ -18,9 +18,14 @@ The verse is really composed of two *triṣṭubh* pādas.
 Propitious to-day be dawns and evenings. May I drink water with all my people safe around me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्व॒स्त्य१॒॑द्योषसो॑ दो॒षस॑श्च॒ सर्व॑ आपः॒ सर्व॑गणो अशीय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्व॒स्ति। अ॒द्यः। उ॒षसः॑। दो॒षसः॑। च॒। सर्वः॑। आ॒पः॒। सर्व॑ऽगणः। अ॒शी॒य॒। ४.६। 
+स्व॒स्ति। अ॒द्यः। उ॒षसः॑। दो॒षसः॑। च॒। सर्वः॑। आ॒पः॒। सर्व॑ऽगणः। अ॒शी॒य॒। ४.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Propitious to-day be dawns and evenings. May I drink water with all my people sa
 
 टिप्पणी:   ६−(स्वस्ति) कल्याणेन (अद्य) इदानीम् (उषसः) प्रभातवेलाः (दोषसः)दुष वैकृत्ये-असुन्। रात्रीः (च) (सर्वः) सम्पूर्णोऽहम् (आपः) हे आप्ताविद्वांसः (सर्वगणः) सर्वेष्टमित्रप्रजादिसहितः (अशीय) बहुलं छन्दसि। पा०२।३।७३। अश्नुतेः शपो लुकि लिङ्युत्तमैकवचने रूपम्। प्राप्नुयाम् ॥
 </details>
-

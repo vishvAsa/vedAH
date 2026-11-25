@@ -8,9 +8,15 @@ title = "०५ आदित्यैरिन्द्रः सगणो"
 With the Adityas, with the band of Maruts, may Indra be pro- tector of our bodies. As when the Gods came after they had slaughtered the Asuras, keeping safe their Godlike nature,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॑दि॒त्यैरिन्द्रः॒ सग॑णो म॒रुद्भि॑र॒स्माकं॑ भूत्ववि॒ता त॒नूना॑म्।  
+ह॒त्वाय॑ दे॒वा असु॑रा॒न्यदाय॑न्दे॒वा दे॑व॒त्वम॑भि॒रक्ष॑माणाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒दि॒त्यैः। इन्द्रः॑। सऽग॑णः। म॒रुत्ऽभिः॑। अ॒स्माक॑म्। भू॒तु॒। अ॒वि॒ता। त॒नूना॑म्। ह॒त्वाय॑। दे॒वाः। असु॑रान्। यत्। आय॑न्। दे॒वाः। दे॒व॒ऽत्वम्। अ॒भि॒ऽरक्ष॑माणाः। १२४.५। 
+आ॒दि॒त्यैः। इन्द्रः॑। सऽग॑णः। म॒रुत्ऽभिः॑। अ॒स्माक॑म्। भू॒तु॒। अ॒वि॒ता। त॒नूना॑म्। ह॒त्वाय॑। दे॒वाः। असु॑रान्। यत्। आय॑न्। दे॒वाः। दे॒व॒ऽत्वम्। अ॒भि॒ऽरक्ष॑माणाः। १२४.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ With the Adityas, with the band of Maruts, may Indra be pro- tector of our bodie
 
 टिप्पणी:   ४-६−एते मन्त्रा व्याख्याताः-अथ० ६३।१-३ ॥
 </details>
-

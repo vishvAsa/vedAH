@@ -19,9 +19,15 @@ for consistency, read *ójasvānt s-*.
 Verily let this Amulet, circular, potent, conquering, Happy and fortunate defence, preserve thy children and thy wealth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒यमिद्वै प्र॑तीव॒र्त ओज॑स्वान्संज॒यो म॒णिः।  
+प्र॒जां धनं॑ च रक्षतु परि॒पाणः॑ सुम॒ङ्गलः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। इत्। वै। प्र॒ति॒ऽव॒र्तः। ओज॑स्वान्। स॒म्ऽज॒यः। म॒णिः। प्र॒ऽजाम्। धन॑म्। च॒। र॒क्ष॒तु॒। प॒रि॒ऽपानः॑। सु॒ऽम॒ङ्गलः॑। ५.१६। 
+अ॒यम्। इत्। वै। प्र॒ति॒ऽव॒र्तः। ओज॑स्वान्। स॒म्ऽज॒यः। म॒णिः। प्र॒ऽजाम्। धन॑म्। च॒। र॒क्ष॒तु॒। प॒रि॒ऽपानः॑। सु॒ऽम॒ङ्गलः॑। ५.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Verily let this Amulet, circular, potent, conquering, Happy and fortunate defenc
 
 टिप्पणी:   १६−(अयम्) (इत्) अवश्यम् (वै) एव (प्रतिवर्तः) म० ४। प्रत्यक्षवर्तनशीलः (ओजस्वान्) बलवान् (संजयः) सम्यग् जेता (मणिः) म० १। श्रेष्ठनियमः (प्रजाम्) (धनम्) (च) (रक्षतु) (परिपाणः) म० १। परिरक्षकः (सुमङ्गलः) बहुश्रेयस्करः ॥
 </details>
-

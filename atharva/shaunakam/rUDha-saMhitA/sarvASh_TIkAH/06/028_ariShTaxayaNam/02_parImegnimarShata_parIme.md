@@ -24,9 +24,15 @@ have instead *ariṣata* ⌊or *arīṣata;* K. *riṣatu*⌋.
 These men have strengthened Agni's might, these men have brought the kine to us. They have sung glory to the Gods. Who is the man that con- quers them?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+परी॒मे॒३॒॑ग्निम॑र्षत॒ परी॒मे गाम॑नेषत।  
+दे॒वेष्व॑क्रत॒ श्रवः॒ क इ॒माँ आ द॑धर्षति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परि॑। इ॒मे। अ॒ग्निम्। अ॒र्ष॒त॒। परि॑। इ॒मे। गाम्। अ॒ने॒ष॒त॒। दे॒वेषु॑। अ॒क्र॒त॒। श्रवः॑। कः। इ॒मान्। आ। द॒ध॒र्ष॒ति॒। २८.२। 
+परि॑। इ॒मे। अ॒ग्निम्। अ॒र्ष॒त॒। परि॑। इ॒मे। गाम्। अ॒ने॒ष॒त॒। दे॒वेषु॑। अ॒क्र॒त॒। श्रवः॑। कः। इ॒मान्। आ। द॒ध॒र्ष॒ति॒। २८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ These men have strengthened Agni's might, these men have brought the kine to us.
 
 टिप्पणी:   २−(परि) परितः। सर्वतः (इमे) विद्यार्थिनो मनुष्याः (अग्निम्) विद्वांसम् (अर्षत) ऋष गतौ। प्राप्तवन्तः (परि) (इमे) (गाम्) विद्याम् (अनेषत) णीञ् प्रापणे−लुङ्। प्रापितवन्तः (देवेषु) विद्वत्सु (अक्रत) कृतवन्तः (श्रवः) यशः (कः) शत्रुः (इमान्) समीपवर्तिनो वीरान् (आ) समन्तात् (दधर्षति) धृष अभिभवे, शपः श्लुः। जयति ॥
 </details>
-

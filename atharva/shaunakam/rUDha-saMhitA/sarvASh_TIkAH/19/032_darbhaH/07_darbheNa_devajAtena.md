@@ -31,9 +31,15 @@ intention.⌋ Ppp. reads *janān asanāṁ*, ⌊and, in **b**, *divaṣṭambhen
 With Darbha that hath sprung from Gods, stationed in heaven, full many a time. With this have I won many men, have won and may I win them still.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+द॒र्भेण॑ दे॒वजा॑तेन दि॒वि ष्ट॒म्भेन॒ शश्व॒दित्।  
+तेना॒हं शश्व॑तो॒ जनाँ॒ अस॑नं॒ सन॑वानि च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द॒र्भेण॑। दे॒वऽजा॑तेन। दि॒वि। स्त॒म्भेन॑। शश्व॑त्। इत्। तेन॑। अ॒हम्। शश्व॑तः। जना॑न्। अस॑नम्। सन॑वानि। च॒। ३२.७। 
+द॒र्भेण॑। दे॒वऽजा॑तेन। दि॒वि। स्त॒म्भेन॑। शश्व॑त्। इत्। तेन॑। अ॒हम्। शश्व॑तः। जना॑न्। अस॑नम्। सन॑वानि। च॒। ३२.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -63,4 +69,3 @@ With Darbha that hath sprung from Gods, stationed in heaven, full many a time. W
 
 टिप्पणी:   ७−(दर्भेण) शत्रुविदारकेण परमेश्वरेण (देवजातेन) विद्वत्सु प्रसिद्धेन (दिवि) आकाशे (स्तम्भेन) स्तम्भरूपेण (शश्वत्) सर्वदा (इत्) एव (तेन) परमेश्वरेण (अहम्) (शश्वतः) नित्यवर्तमानान् (जनान्) पामरलोकान् (असनम्) षण संभक्तौ-लङ्। जितवानस्मि (सनवानि) षण-लोट्। जयानि (च) ॥
 </details>
-

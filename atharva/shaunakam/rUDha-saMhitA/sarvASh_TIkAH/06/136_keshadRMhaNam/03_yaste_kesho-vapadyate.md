@@ -19,9 +19,15 @@ form *vṛścáte* (for *vṛścyáte*).
 Thy hair where it is falling off, and with the roots is torn away, I wet and sprinkle with the Plant, the remedy for all disease.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्ते॒ केशो॑ऽव॒पद्य॑ते॒ समू॑लो॒ यश्च॑ वृ॒श्चते॑।  
+इ॒दं तं वि॒श्वभे॑षज्या॒भि षि॑ञ्चामि वी॒रुधा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। ते॒। केशः॑। अ॒व॒ऽपद्य॑ते। सऽमू॑लः। यः। च॒। वृ॒श्चते॑। इ॒दम्। तम्। वि॒श्वऽभे॑षज्या। अ॒भि। सि॒ञ्चा॒मि॒। वी॒रुधा॑। १३६.३। 
+यः। ते॒। केशः॑। अ॒व॒ऽपद्य॑ते। सऽमू॑लः। यः। च॒। वृ॒श्चते॑। इ॒दम्। तम्। वि॒श्वऽभे॑षज्या। अ॒भि। सि॒ञ्चा॒मि॒। वी॒रुधा॑। १३६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Thy hair where it is falling off, and with the roots is torn away, I wet and spr
 
 टिप्पणी:   ३−(यः) (ते) तव (अवपद्यते) निपतति (समूलः) मूलसहितः (यः) (च) (वृश्चते) वृश्च्यते। छिद्यते (इदम्) इदानीम् (तम्) केशम् (विश्वभेषज्या) सर्वस्य केशरोगस्य निवर्तयित्र्या (अभि) अभितः (सिञ्चामि) आर्द्रीकरोमि (वीरुधा) लतया ॥
 </details>
-

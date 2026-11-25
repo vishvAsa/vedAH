@@ -19,9 +19,15 @@ abbreviated *iva* both here and in vs. 2.
 Velut nervum in arcu ego tuum fascinum extendo. Aggredere (mulierem) semper indefessus velut cervus damam.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आहं त॑नोमि ते॒ पसो॒ अधि॒ ज्यामि॑व॒ धन्व॑नि।  
+क्रम॑स्वर्श॑ इव रो॒हित॒मन॑वग्लायता॒ सदा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। अ॒हम्। त॒नो॒मि॒। ते॒। पसः॑। अधि॑। ज्याम्ऽइ॑व। धन्व॑नि। क्रम॑स्व। ऋशः॑ऽइव। रो॒हित॑म्। अन॑वऽग्लायता। सदा॑। १०१.३। 
+आ। अ॒हम्। त॒नो॒मि॒। ते॒। पसः॑। अधि॑। ज्याम्ऽइ॑व। धन्व॑नि। क्रम॑स्व। ऋशः॑ऽइव। रो॒हित॑म्। अन॑वऽग्लायता। सदा॑। १०१.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Velut nervum in arcu ego tuum fascinum extendo. Aggredere (mulierem) semper inde
 
 टिप्पणी:   ३−अयं मन्त्रो व्याख्येयो यथा−अ० ४।४।४७ ॥
 </details>
-

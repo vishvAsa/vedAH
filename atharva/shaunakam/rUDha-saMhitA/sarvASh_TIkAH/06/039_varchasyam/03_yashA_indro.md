@@ -19,9 +19,15 @@ Ppp. combines *yaśā ’gnir* in **a**. This verse is repeated below, as
 Indra was glorious at his birth; Agni, Soma were born renowned. And glorious am I, the most illustrious of all that is.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत।  
+य॒शा विश्व॑स्य भू॒त्स्या॒हम॑स्मि य॒शस्त॑मः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-य॒शाः। इन्द्रः॑। य॒शाः। अ॒ग्निः। य॒शाः। सोमः॑। अ॒जा॒य॒त॒। य॒शाः। विश्व॑स्य। भू॒तस्य॑। अ॒हम्। अ॒स्मि॒। य॒शःऽत॑मः। ३९.३। 
+य॒शाः। इन्द्रः॑। य॒शाः। अ॒ग्निः। य॒शाः। सोमः॑। अ॒जा॒य॒त॒। य॒शाः। विश्व॑स्य। भू॒तस्य॑। अ॒हम्। अ॒स्मि॒। य॒शःऽत॑मः। ३९.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Indra was glorious at his birth; Agni, Soma were born renowned. And glorious am 
 
 टिप्पणी:   ३−(यशाः) म० २। यशस्यतेः क्विप्। यशस्कामः (इन्द्रः) सूर्य्यः (यशाः) यशस्वी (अग्निः) पावकः (सोमः) चन्द्रः (अजायत) प्रादुरभवत् (यशाः) यशस्कामः (विश्वस्य) सर्वस्य (भूतस्य) भूतजातस्य। संसारस्य (अहम्) पुरुषार्थी (अस्मि) भवामि (यशस्तमः) अतिशयेन यशस्वी ॥
 </details>
-

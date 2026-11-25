@@ -8,9 +8,15 @@ title = "१३ इन्द्रः स"
 Indra was made for giving, set, most mighty, o'er the joyous draught, Bright, meet for Soma, famed in song.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रः॒ स दाम॑ने कृ॒त ओजि॑ष्ठः॒ स मदे॑ हि॒तः।  
+द्यु॒म्नी श्लो॒की स सो॒म्यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। स। दाम॑ने। कृ॒तः। ओजि॑ष्ठः। सः। मदे॑। हि॒तः। द्यु॒म्नी। श्लो॒की। सः। सो॒म्यः। १३७.१३। 
+इन्द्रः॑। स। दाम॑ने। कृ॒तः। ओजि॑ष्ठः। सः। मदे॑। हि॒तः। द्यु॒म्नी। श्लो॒की। सः। सो॒म्यः। १३७.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Indra was made for giving, set, most mighty, o'er the joyous draught, Bright, me
 
 टिप्पणी:   १२-१४−एते मन्त्रा व्याख्याताः-अथ० २०।४७।१-३ ॥
 </details>
-

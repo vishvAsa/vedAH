@@ -20,9 +20,15 @@ liquid. With **a, b** compare RV. ii. 23. 12.
 If any King who deems himself mighty would eat a Brahman up, Rent and disrupted is that realm wherein a Brahman is oppres- sed.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॒ग्रो राजा॒ मन्य॑मानो ब्राह्म॒णं यो जिघ॑त्सति।  
+परा॒ तत्सि॑च्यते रा॒ष्ट्रं ब्रा॑ह्म॒णो यत्र॑ जी॒यते॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒ग्रः। राजा॑। मन्य॑मानः। ब्रा॒ह्म॒णम्। यः। जिघ॑त्सति। परा॑। तत्। सि॒च्य॒ते॒। रा॒ष्ट्रम्। ब्रा॒ह्म॒णः। यत्र॑। जी॒यते॑। १९.६। 
+उ॒ग्रः। राजा॑। मन्य॑मानः। ब्रा॒ह्म॒णम्। यः। जिघ॑त्सति। परा॑। तत्। सि॒च्य॒ते॒। रा॒ष्ट्रम्। ब्रा॒ह्म॒णः। यत्र॑। जी॒यते॑। १९.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ If any King who deems himself mighty would eat a Brahman up, Rent and disrupted 
 
 टिप्पणी:   ६−(उग्रः) प्रचण्डः (राजा) शासकः (मन्यमानः) गर्वं कुर्वाणः (ब्राह्मणम्) वेदवेत्तारम् (यः) (जिघत्सति) अत्तुं नाशयितुमिच्छति (परा) पराभवेन (तत्) (सिच्यते) उद्यते (राष्ट्रम्) राज्यम् (ब्राह्मणः) (यत्र) यस्मिन् राज्ये (जीयते) अभिभूयते ॥
 </details>
-

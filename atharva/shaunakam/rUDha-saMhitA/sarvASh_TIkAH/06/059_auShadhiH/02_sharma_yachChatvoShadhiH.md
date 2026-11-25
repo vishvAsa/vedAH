@@ -23,9 +23,15 @@ implication of its etymological sense. Ppp., in **d**, reads *-mām* and
 Let the Plant give us sheltering aid, Arundhati allied with Gods; Avert Consumption from our men and make our cow-pen rich in milk.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शर्म॑ यच्छ॒त्वोष॑धिः स॒ह दे॒वीर॑रुन्ध॒ती।  
+कर॒त्पय॑स्वन्तं गो॒ष्ठम॑य॒क्ष्माँ उ॒त पूरु॑षान् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शर्म॑। य॒च्छ॒तु॒। ओष॑धिः। स॒ह। दे॒वीः। अ॒रु॒न्ध॒ती। कर॑त्। पय॑स्वन्तम्। गो॒ऽस्थम्। अ॒य॒क्ष्मान्। उ॒त। पुरु॑षान्। ५९.२। 
+शर्म॑। य॒च्छ॒तु॒। ओष॑धिः। स॒ह। दे॒वीः। अ॒रु॒न्ध॒ती। कर॑त्। पय॑स्वन्तम्। गो॒ऽस्थम्। अ॒य॒क्ष्मान्। उ॒त। पुरु॑षान्। ५९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Let the Plant give us sheltering aid, Arundhati allied with Gods; Avert Consumpt
 
 टिप्पणी:   २−(शर्म) शरणम् (यच्छतु) ददातु (ओषधिः) अ० १।२३।१। तापनाशयित्री (देवीः सह) तृतीयार्थे द्वितीया। देवीभिर्दिव्यक्रियाभिः सहिता (अरुन्धती) अरोधनशक्तिः परमेश्वरः (करत्) कुर्यात् (पयस्वन्तम्) प्रभूतदुग्धयुक्तम् (गोष्ठम्) गोनिवासदेशम् (अयक्ष्मान्) राजरोगरहितान् (उत) अपि च (पुरुषान्) सम्बन्धिनो मनुष्यान् ॥
 </details>
-

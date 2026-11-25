@@ -14,9 +14,14 @@ both right and truth and sun and moon and asterisms.
 Right and Truth and Sun and Moon and Stars followed him.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तमृ॒तं च॑ स॒त्यंच॒ सूर्य॑श्च च॒न्द्रश्च॒ नक्ष॑त्राणि चानु॒व्य᳡चलन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तम्। ऋ॒तम्। च॒। स॒त्यम्। च॒। सूर्यः॑। च॒। च॒न्द्रः। च॒। नक्ष॑त्राणि। च॒। अ॒नु॒ऽव्य᳡चलन्। । ६.५। 
+तम्। ऋ॒तम्। च॒। स॒त्यम्। च॒। सूर्यः॑। च॒। च॒न्द्रः। च॒। नक्ष॑त्राणि। च॒। अ॒नु॒ऽव्य᳡चलन्। । ६.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ Right and Truth and Sun and Moon and Stars followed him.
 
 टिप्पणी:   ५, ६−(तम्) व्रात्यम् (ऋतम्) यथार्थविज्ञानम् (च) (सत्यम्) सत्-यत्। सते विद्यमानाय जगते हितम्।अविनाशि कारणम् (नक्षत्राणि) णक्ष गतौ-अत्रन्। गतिमन्तस्तारागणाः। अन्यद् गतंस्पष्टं च ॥
 </details>
-

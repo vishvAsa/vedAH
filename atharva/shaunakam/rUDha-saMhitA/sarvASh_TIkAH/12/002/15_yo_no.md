@@ -21,9 +21,15 @@ following are quoted with others (see note to vs. 1) in Kāuś. 71. 8.
 Corpse-eating Agni we expel, the Agni who bewilders men, Him who is in our horses, in our heroes, cows, and goats, and sheep:
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो नो॒ अश्वे॑षु वी॒रेषु॒ यो नो॒ गोष्व॑जा॒विषु॑।  
+क्र॒व्यादं॒ निर्णु॑दामसि॒ यो अ॒ग्निर्ज॑न॒योप॑नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। नः॒। अश्वे॑षु। वी॒रेषु॑। यः। नः॒। गोषु॑। अ॒ज॒ऽअ॒विषु॑। क्र॒व्य॒ऽअद॑म्। निः। नु॒दा॒म॒सि॒। यः। अ॒ग्निः। ज॒न॒ऽयोप॑नः। २.१५। 
+यः। नः॒। अश्वे॑षु। वी॒रेषु॑। यः। नः॒। गोषु॑। अ॒ज॒ऽअ॒विषु॑। क्र॒व्य॒ऽअद॑म्। निः। नु॒दा॒म॒सि॒। यः। अ॒ग्निः। ज॒न॒ऽयोप॑नः। २.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Corpse-eating Agni we expel, the Agni who bewilders men, Him who is in our horse
 
 टिप्पणी:   १५−(यः) दुष्टः (नः) अस्माकम् (अश्वेषु) (वीरेषु) (यः) (नः) (गोषु) धेनुषु (अजाविषु) अजेषु छागेषु अविषु मेषेषु च (क्रव्यादम्) मांसभक्षकम् (निर्णुदामसि) निर्गमयामः (यः) (अग्निः) अग्निवत्सन्तापकः (जनयोपनः) जनानां विमोहकः ॥
 </details>
-

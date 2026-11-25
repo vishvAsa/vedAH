@@ -19,14 +19,20 @@ anu* and *suvitave*.
 Even as this mighty Earth hath borne and bears the stately forest trees, So may the germ of life be borne in thee that thou mayst bear a son.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। इ॒मान्। वन॒स्पती॑न्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.२। 
+यथे॒यं पृ॑थि॒वी म॒ही दा॒धारे॒मान्वन॒स्पती॑न्।  
+ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। इ॒मान्। वन॒स्पती॑न्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.२। 
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। इ॒मान्। वन॒स्पती॑न्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.२।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। इ॒मान्। वन॒स्पती॑न्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -36,4 +42,3 @@ Even as this mighty Earth hath borne and bears the stately forest trees, So may 
 - अनुष्टुप्
 - गर्भदृंहण सूक्त
 </details>
-

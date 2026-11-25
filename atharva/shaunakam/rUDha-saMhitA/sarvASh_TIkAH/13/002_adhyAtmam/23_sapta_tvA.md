@@ -20,9 +20,15 @@ preceding word, *śocíḥk-*.
 Seven bay steeds harnessed to thy car bear thee, O thou far- seeing One, God, Surya, with the radiant hair.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒प्त त्वा॑ ह॒रितो॒ रथे॒ वह॑न्ति देव सूर्य।  
+शो॒चिष्के॑शं विचक्ष॒णम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒प्त। त्वा॒। ह॒रितः॑। रथे॑। वह॑न्ति। दे॒व॒। सू॒र्य॒। शो॒चिःऽके॑शम्। वि॒ऽच॒क्ष॒णम्। २.२३। 
+स॒प्त। त्वा॒। ह॒रितः॑। रथे॑। वह॑न्ति। दे॒व॒। सू॒र्य॒। शो॒चिःऽके॑शम्। वि॒ऽच॒क्ष॒णम्। २.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Seven bay steeds harnessed to thy car bear thee, O thou far- seeing One, God, Su
 
 टिप्पणी:   २३−(सप्त) नीलपीतादिसप्तवर्णाः-म० ४ (त्वा) (हरितः) आकर्षकाः किरणाः (रथे) म० ६। गमनविधाने (वहन्ति) गमयन्ति (देव) हे गमनशील (सूर्य) रविमण्डल (शोचिष्केशम्) शोचिषः शुचयः केशाः प्रकाशा यस्य तम् (विचक्षणम्) विविधं दर्शकम् ॥
 </details>
-

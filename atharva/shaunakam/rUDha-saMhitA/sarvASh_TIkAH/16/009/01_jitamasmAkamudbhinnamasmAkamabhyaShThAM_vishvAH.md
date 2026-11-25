@@ -19,9 +19,14 @@ part, with vs. 2, is found in MS. i. 5. 3 (reading *abhy àsthām*).
 Ours is superior place and ours is conquest: may I in all fights tread down spite and malice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+जि॒तम॒स्माक॒मुद्भि॑न्नम॒स्माक॑म॒भ्य᳡ष्ठां॒ विश्वाः॒ पृत॑ना॒ अरा॑तीः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-जि॒तम्। अ॒स्माक॑म्। उत्ऽभि॑न्नम्। अ॒स्माक॑म्। अ॒भि। अ॒स्था॒म्। विश्वाः॑। पृत॑नाः। अरा॑तीः। ९.१। 
+जि॒तम्। अ॒स्माक॑म्। उत्ऽभि॑न्नम्। अ॒स्माक॑म्। अ॒भि। अ॒स्था॒म्। विश्वाः॑। पृत॑नाः। अरा॑तीः। ९.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Ours is superior place and ours is conquest: may I in all fights tread down spit
 
 टिप्पणी:   १−(जितम्) जयेन प्राप्तम् (अस्माकम्) धर्मात्मनाम् (उद्भिन्नम्)उद्भेदनं स्फुरणम्। आयधनम् (अस्माकम्) (अभि अस्थाम्) अभिभूतवानस्मि (विश्वाः)सर्वाः (पृतनाः) शत्रुसेनाः (अरातीः) अदानशीलताः ॥
 </details>
-

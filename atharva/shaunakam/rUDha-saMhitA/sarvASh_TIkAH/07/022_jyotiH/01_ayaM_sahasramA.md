@@ -24,9 +24,14 @@ is 12 + 8, the second having an added pāda of 11 syllables.
 Unto a thousand sages he hath given sight: thought, light is he in ranging all.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒यं स॒हस्र॒मा नो॑ दृ॒शे क॑वी॒नां म॒तिर्ज्योति॒र्विध॑र्मणि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। स॒हस्र॑म्। आ। नः॒। दृ॒शे। क॒वी॒नाम्। म॒तिः। ज्योतिः॑। विऽध॑र्मणि। २३.१। 
+अ॒यम्। स॒हस्र॑म्। आ। नः॒। दृ॒शे। क॒वी॒नाम्। म॒तिः। ज्योतिः॑। विऽध॑र्मणि। २३.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +61,3 @@ Unto a thousand sages he hath given sight: thought, light is he in ranging all.
 
 टिप्पणी:   १−(अयम्) सर्वत्रानुभूयमानः परमेश्वरः (आ) व्याप्य (नः) अस्माकम् (दृशे) दृशे विख्ये च। पा० ३।४।११। इति दृशिर्-के। दर्शनाय (कवीनाम्) मेधाविनाम् (मतिः) चित्स्वरूपः (ज्योतिः) प्रकाशरूपः (विधर्मणि) विरुद्धधर्मवति पञ्चभूतनिर्मिते जगति ॥
 </details>
-

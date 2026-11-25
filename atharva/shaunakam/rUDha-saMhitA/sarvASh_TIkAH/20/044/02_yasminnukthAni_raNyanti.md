@@ -8,9 +8,15 @@ title = "०२ यस्मिन्नुक्थानि रण्यन्
 In whom the hymns of praise delight, and all the glory-giving songs, Like the flood's longing for the sea.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्मि॑न्नु॒क्थानि॒ रण्य॑न्ति॒ विश्वा॑नि च श्रवस्या᳡।  
+अ॒पामवो॒ न स॑मु॒द्रे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्मि॑न्। उ॒क्था॑नि। रण्य॑न्ति। विश्वा॑नि। च॒। श्र॒व॒स्या॑। अ॒पाम्। अव॑। न। स॒मु॒द्रे। ४४.२। 
+यस्मि॑न्। उ॒क्था॑नि। रण्य॑न्ति। विश्वा॑नि। च॒। श्र॒व॒स्या॑। अ॒पाम्। अव॑। न। स॒मु॒द्रे। ४४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ In whom the hymns of praise delight, and all the glory-giving songs, Like the fl
 
 टिप्पणी:   २−(यस्मिन्) पुरुषे (उक्थानि) वक्तव्यानि वचनानि (रण्यन्ति) अ० २०।१७।६। गच्छन्ति (विश्वानि) सर्वाणि (च) (श्रवस्या) अ० २०।१२।१। धनाय हितानि कर्माणि (अपाम्) जलानाम् (अवः) अव गतौ-असुन्। गमनम् (न) यथा (समुद्रे) उदधौ ॥
 </details>
-

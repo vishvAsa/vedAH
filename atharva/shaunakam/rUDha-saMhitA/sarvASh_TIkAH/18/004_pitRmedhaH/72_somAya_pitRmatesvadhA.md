@@ -28,9 +28,14 @@ also ĀpśS. viii. 13. 15, 16.⌋
 To Soma connected with the Fathers Hail! and homage!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोमा॑य पितृ॒मते॑स्व॒धा नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सोमा॑य। पि॒तृ॒ऽम॑ते। स्व॒धा। नमः॑। ४.७२। 
+सोमा॑य। पि॒तृ॒ऽम॑ते। स्व॒धा। नमः॑। ४.७२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -60,4 +65,3 @@ To Soma connected with the Fathers Hail! and homage!
 
 टिप्पणी:   ७२−(सोमाय)प्रेरकपुरुषाय (पितृमते) प्रशस्तमातापितृभिर्युक्ताय। अन्यत् पूर्ववत् ॥
 </details>
-

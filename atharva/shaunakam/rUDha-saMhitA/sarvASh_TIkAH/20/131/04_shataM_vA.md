@@ -8,9 +8,14 @@ title = "०४ शतं वा"
 the Wind God hath a hundred reins.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+श॒तं वा॒ भार॑ती॒ शवः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श॒तम्। वा॒। भार॑ती॒। शवः॑। १३१.४। 
+श॒तम्। वा॒। भार॑ती॒। शवः॑। १३१.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ the Wind God hath a hundred reins.
 
 टिप्पणी:   ४−(शतम्) बहु (वा) चार्थे (भारती) अथ० ।१२।८। डुभृञ् धारणपोषणयोः-अतच्, स्वार्थे अण्, ङीप्, बहुवचनस्यैकवचनम्। भारती वाक्-निघ० १।११। भारत्यः। विद्याः (शवः) शवांसि बलानि ॥
 </details>
-

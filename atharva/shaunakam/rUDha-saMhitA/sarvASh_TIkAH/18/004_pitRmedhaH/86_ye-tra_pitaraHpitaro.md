@@ -17,9 +17,14 @@ you; may ye be the best of them.
 All Fathers who are here, the Fathers here are you: let then- follow you. May ye be the most excellent of these.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+येऽत्र॑ पि॒तरः॑पि॒तरो॒ येऽत्र॑ यू॒यं स्थ यु॒ष्मांस्तेऽनु॑ यू॒यं तेषां॒ श्रेष्ठा॑ भूयास्थ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। अत्र॑। पि॒तरः॑। पि॒तरः॑। ये। अत्र॑। यू॒यम्। स्थ। यु॒ष्मान्। ते। अनु॑। यू॒यम्। तेषा॑म्। श्रेष्ठाः॑। भू॒या॒स्थ॒। ४.८६। 
+ये। अत्र॑। पि॒तरः॑। पि॒तरः॑। ये। अत्र॑। यू॒यम्। स्थ। यु॒ष्मान्। ते। अनु॑। यू॒यम्। तेषा॑म्। श्रेष्ठाः॑। भू॒या॒स्थ॒। ४.८६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ All Fathers who are here, the Fathers here are you: let then- follow you. May ye
 
 टिप्पणी:   ८६−(ये) (अत्र)अस्मिन् संसारे (पितरः) पालका ज्ञानिनः (यूयम्) (स्थ) भवथ (युष्मान्) पितॄन् (ते) प्रसिद्धाः (अनु) अनुकूल्य (यूयम्) (तेषाम्) तेषां मध्ये (श्रेष्ठाः)प्रशस्यतमाः (भूयास्थ) तस्य थनादेशः। भूयास्त ॥
 </details>
-

@@ -17,9 +17,16 @@ impart to me sight: to the sun hail!
 Whither, etc. Thither let Surya lead me, let Surya vouchsafe me power of sight. All hail to Surya
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
+सूर्यो॑ मा॒ तत्र॑ नयतु॒ चक्षुः॒ सूर्यो॑ दधातु मे।  
+सूर्या॑य॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। सूर्यः॑। मा॒। तत्र॑। न॒य॒तु॒। चक्षुः॑। सूर्यः॑। द॒धा॒तु॒। मे॒। सूर्या॑य। स्वाहा॑। ४३.३। 
+यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। सूर्यः॑। मा॒। तत्र॑। न॒य॒तु॒। चक्षुः॑। सूर्यः॑। द॒धा॒तु॒। मे॒। सूर्या॑य। स्वाहा॑। ४३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +56,3 @@ Whither, etc. Thither let Surya lead me, let Surya vouchsafe me power of sight. 
 
 टिप्पणी:   ३−(सूर्यः) सूर्यवत्प्रकाशमानः परमात्मा (चक्षुः) दर्शनसामर्थ्यम् (सूर्यः) (सूर्याय) प्रकाशमानाय परमात्मने। अन्यत् पूर्ववत् ॥
 </details>
-

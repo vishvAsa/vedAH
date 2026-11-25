@@ -35,9 +35,15 @@ téna*.⌋
 Blind him and make him headless, Night! the serpent with the pungent breath. Strike from his head the wolf's two eyes, and dash the thief against a post.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अध॑ रात्रि तृ॒ष्टधू॑ममशी॒र्षाण॒महिं॑ कृणु।  
+अ॒क्षौ वृक॑स्य॒ निर्ज॑ह्या॒स्तेन॒ तं द्रु॑प॒दे ज॑हि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अध॑। रा॒त्रि॒। तृ॒ष्टऽधू॑मम्। अ॒शी॒र्षाण॑म्। अहि॑म्। कृ॒णु॒। अ॒क्षौ। वृक॑स्य। निः। ज॒ह्याः॒। तेन॑। तम्। द्रु॒ऽप॒दे। ज॒हि॒। ५०.१। 
+अध॑। रा॒त्रि॒। तृ॒ष्टऽधू॑मम्। अ॒शी॒र्षाण॑म्। अहि॑म्। कृ॒णु॒। अ॒क्षौ। वृक॑स्य। निः। ज॒ह्याः॒। तेन॑। तम्। द्रु॒ऽप॒दे। ज॒हि॒। ५०.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -67,4 +73,3 @@ Blind him and make him headless, Night! the serpent with the pungent breath. Str
 
 टिप्पणी:   यह मन्त्र कुछ भेद से ऊपर आ चुका है-४७।८ ॥  १−अयं मन्त्रो व्याख्यातः-४७।८। अत्र विशेषो व्याख्यायते (अक्षौ) अक्षिणी। चक्षुषी (निः) निःसार्य (जह्याः) ओहाक् त्यागे-लिङ्। त्यजेः। प्रक्षिपेः ॥
 </details>
-

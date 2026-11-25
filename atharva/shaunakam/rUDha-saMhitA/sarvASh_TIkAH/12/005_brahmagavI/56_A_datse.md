@@ -20,9 +20,14 @@ and reckon the verse as 16 syllables.
 Thou bearest off the tyrants' strength, their store of merit, and their prayers.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ द॑त्से जिन॒तां वर्च॑ इ॒ष्टं पू॒र्तं चा॒शिषः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। द॒त्से॒। जि॒न॒ताम्। वर्चः॑। इ॒ष्टम्। पू॒र्तम्। च॒। आ॒ऽशिषः॑। १०.१०। 
+आ। द॒त्से॒। जि॒न॒ताम्। वर्चः॑। इ॒ष्टम्। पू॒र्तम्। च॒। आ॒ऽशिषः॑। १०.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ Thou bearest off the tyrants' strength, their store of merit, and their prayers.
 
 टिप्पणी:   ५६−(आ दत्से) हरसि (जिनताम्) ज्या वयोहानौ−शतृ। हानिकारकाणाम् (वर्चः) तेजः (इष्टम्) म० १०। अग्निहोत्रवेदाध्ययनातिथ्यादिकर्म (पूर्तम्) म० १०। पूर्णताम्। सर्वोपकारिकूपतडागारामवाटिकादिकर्म (च) (आशिषः) आङः शासु इच्छायाम्−क्विप्। क्विप्प्रत्यये तस्यापि भवतीति वक्तव्यम्। वा० पा० ६।४।३४। इति इत्वम्। हितप्रार्थनाः ॥
 </details>
-

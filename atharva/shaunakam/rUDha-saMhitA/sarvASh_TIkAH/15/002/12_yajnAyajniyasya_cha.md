@@ -9,17 +9,22 @@ title = "१२ यज्ञायज्ञियस्य च"
 **d.** ⌊12.⌋ of both the *yajñāyajñíya* and the  
 *vāmadevyá* and the sacrifice and the sacrificer and the cattle doth he  
 become the dear abode \[who knoweth thus\]. Of him in the southern  
-quarter 
+quarter
 </details>
 
 <details><summary>Griffith</summary>
 
-He who hath this knowledge becomes the beloved home of Yajnayajniya,Vamadevya, Sacrifice, Sacrificer, and sacrificial victims. 
+He who hath this knowledge becomes the beloved home of Yajnayajniya,Vamadevya, Sacrifice, Sacrificer, and sacrificial victims.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+य॑ज्ञाय॒ज्ञिय॑स्य च॒ वै स वा॑मदे॒व्यस्य॑ च य॒ज्ञस्य॑ च॒ यज॑मानस्य च पशू॒नांच॑ प्रि॒यं धाम॑ भवति॒ तस्य॒ दक्षि॑णायां दिशि ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-य॒ज्ञा॒य॒ज्ञिय॑स्य। च॒। वै। सः। वा॒म॒ऽदे॒वस्य॑। च॒। य॒ज्ञस्य॑। च॒। यज॑मानस्य। च॒। प॒शू॒नाम्। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। तस्य॑। दक्षि॑णायाम्। दि॒शि। २.१२। 
+य॒ज्ञा॒य॒ज्ञिय॑स्य। च॒। वै। सः। वा॒म॒ऽदे॒वस्य॑। च॒। य॒ज्ञस्य॑। च॒। यज॑मानस्य। च॒। प॒शू॒नाम्। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। तस्य॑। दक्षि॑णायाम्। दि॒शि। २.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ He who hath this knowledge becomes the beloved home of Yajnayajniya,Vamadevya, S
 
 टिप्पणी:   १२−(यज्ञायज्ञियस्य)सर्वव्यवहारहितस्य वेदज्ञानस्य (वामदेव्यस्य) श्रेष्ठपरमात्मना ज्ञापितस्यभूतपञ्चकस्य (यज्ञस्य) पूजनीयव्यवहारस्य (यजमानस्य) पूजनीयकर्मकारस्य पुरुषस्य (पशूनाम्) सर्वजन्तूनाम् (तस्य) तस्मै (दक्षिणायाम्) अवामदेशस्थायाम्।दक्षिणस्याम्। अन्यत् पूर्ववत्-म० ४ ॥
 </details>
-

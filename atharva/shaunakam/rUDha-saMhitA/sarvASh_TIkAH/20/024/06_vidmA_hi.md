@@ -8,9 +8,15 @@ title = "०६ विद्मा हि"
 We know thee winner of the spoil and resolute in battles, Sage! Therefore thy blessing we implore.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒द्मा हि त्वा॑ धनंज॒यं वाजे॑षु दधृ॒षं क॑वे।  
+अधा॑ ते सु॒म्नमी॑महे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒द्म। हि। त्वा॒। ध॒न॒म्ऽज॒यम्। वाजे॑षु। द॒धृ॒षम्। क॒वे॒। अध॑। ते॒। सु॒म्नम्। ई॒म॒हे॒। २४.६। 
+वि॒द्म। हि। त्वा॒। ध॒न॒म्ऽज॒यम्। वाजे॑षु। द॒धृ॒षम्। क॒वे॒। अध॑। ते॒। सु॒म्नम्। ई॒म॒हे॒। २४.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ We know thee winner of the spoil and resolute in battles, Sage! Therefore thy bl
 
 टिप्पणी:   ६−(विद्म) वयं जानीमः (हि) एव (त्वा) त्वाम् (धनञ्जयम्) अ० ३।१४।२। धनस्य जेतारम् (वाजेषु) सङ्ग्रामेषु (दधृषम्) ञिधृषा प्रागल्भ्ये यङ्लुकि पचाद्यच्। अतिप्रगल्भम् (कवे) हे मेधाविन्-निघ० ३।१। (अध) अथ। अतः (ते) तुभ्यम् (सुम्नम्) सुखम् (ईमहे) याचामहे ॥
 </details>
-

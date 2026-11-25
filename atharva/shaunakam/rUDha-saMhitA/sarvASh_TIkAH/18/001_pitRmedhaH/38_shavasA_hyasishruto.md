@@ -26,9 +26,15 @@ above implies *śrutás*. The comm. perhaps reads in **b** *vṛtrahatye
 For thou by slaying Vritra art the Vritra-slayer, famed for might. Thou, Hero, in rich gifts surpassest wealthy chiefs.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शव॑सा॒ ह्यसि॑श्रु॒तो वृ॑त्र॒हत्ये॑न वृत्र॒हा।  
+म॒घैर्म॒घोनो॒ अति॑ शूर दाशसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शव॑सा। हि। असि॑। श्रु॒तः। वृ॒त्र॒ऽहत्ये॑न। वृ॒त्र॒ऽहा। म॒घैः। म॒घोनः॑। अति॑। शू॒र॒। दा॒श॒सि॒। १.३८। 
+शव॑सा। हि। असि॑। श्रु॒तः। वृ॒त्र॒ऽहत्ये॑न। वृ॒त्र॒ऽहा। म॒घैः। म॒घोनः॑। अति॑। शू॒र॒। दा॒श॒सि॒। १.३८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ For thou by slaying Vritra art the Vritra-slayer, famed for might. Thou, Hero, i
 
 टिप्पणी:   ३८−(शवसा) बलेन (हि)यस्मात् कारणात् (असि) (श्रुतः) विख्यातः (वृत्रहत्येन) शत्रुहननेन (वृत्रहा)दुष्टानां हन्ता (मघैः) धनैः (मघोनः) मघवतः। धनवतः पुरुषान् (अति) अतीत्य (शूर)हे वीर (दाशसि) ददासि ॥
 </details>
-

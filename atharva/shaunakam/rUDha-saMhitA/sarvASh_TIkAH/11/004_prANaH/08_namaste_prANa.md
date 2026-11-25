@@ -20,9 +20,15 @@ Ppp. reads in **b** *namo ‘stu*, and makes *parācīnāya* and
 Homage to thee at every breath thou drawest in and sendest forth! Homage to thee when turned away, homage to thee seen face to face! This reverence be to all of thee!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नम॑स्ते प्राण प्राण॒ते नमो॑ अस्त्वपान॒ते।  
+प॑रा॒चीना॑य ते॒ नमः॑ प्रती॒चीना॑य ते॒ नमः॒ सर्व॑स्मै त इ॒दं नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नमः॑। ते॒। प्रा॒ण॒। प्रा॒ण॒ते। नमः॑। अ॒स्तु॒। अ॒पा॒न॒ते। प॒रा॒चीना॑य। ते॒। नमः॑। प्र॒ती॒चीना॑य। ते॒। नमः॑। सर्व॑स्मै। ते॒। इ॒दम्। नमः॑। ६.८। 
+नमः॑। ते॒। प्रा॒ण॒। प्रा॒ण॒ते। नमः॑। अ॒स्तु॒। अ॒पा॒न॒ते। प॒रा॒चीना॑य। ते॒। नमः॑। प्र॒ती॒चीना॑य। ते॒। नमः॑। सर्व॑स्मै। ते॒। इ॒दम्। नमः॑। ६.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Homage to thee at every breath thou drawest in and sendest forth! Homage to thee
 
 टिप्पणी:   ८−(नमः) (ते) तुभ्यम् (प्राण) म० १। हे परमेश्वर (प्राणते) श्वसते पुरुषाय (अपानते) प्रश्वासं कुर्वते (पराचीनाय) विभाषाञ्चेरदिक्स्त्रियाम्। पा० ५।४।८। इति स्वार्थिकः खः। पराञ्चनाय। बहिर्गच्छते पुरुषाय (प्रतीचीनाय) प्रतिमुखं सम्मुखं गच्छते पुरुषाय (सर्वस्मै) सर्वहिताय (इदम्) क्रियमाणम् (नमः) नमस्कारः। अन्यद् गतम् ॥
 </details>
-

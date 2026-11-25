@@ -21,9 +21,15 @@ tasting.' The obscure and difficult first pāda is perhaps corrupt.
 May they whose kisses are a bond, a love-charm laid within the heart, Mothers of butter, may the cows incline that maid to love of me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यासां॒ नाभि॑रा॒रेह॑णं हृ॒दि सं॒वन॑नं कृ॒तम्।  
+गावो॑ घृ॒तस्य॑ मा॒तरो॒ऽमूं सं वा॑नयन्तु मे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यासा॑म्। नाभिः॑। आ॒ऽरेह॑णम्। हृ॒दि। स॒म्ऽवन॑नम्। कृ॒तम्। गावः॑। घृ॒तस्य॑। मा॒तरः॑। अ॒भूम्। सम्। व॒न॒य॒न्तु॒। मे॒। ९.३। 
+यासा॑म्। नाभिः॑। आ॒ऽरेह॑णम्। हृ॒दि। स॒म्ऽवन॑नम्। कृ॒तम्। गावः॑। घृ॒तस्य॑। मा॒तरः॑। अ॒भूम्। सम्। व॒न॒य॒न्तु॒। मे॒। ९.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ May they whose kisses are a bond, a love-charm laid within the heart, Mothers of
 
 टिप्पणी:   ३−(यासाम्) आदरार्थं बहुवचनम्। स्त्रीणाम् (नाभिः) बन्धनम्। स्नेहः (आरेहणम्) रिह कत्थने−ल्युट्। प्रशंसनम् (हृदि) हृदये (संवननम्) संभक्तिः (कृतम्) निष्पादितम् (गावः) धेनवः (घृतस्य) आज्यादिपदार्थस्य (मातरः) निर्मात्र्यः (अमूम्) पत्नीम् (सम्) सम्यक् (वानयन्तु) दीर्घश्छान्दसः। संभजन्ताम्। सेवन्ताम् (मे) मदर्थम् ॥
 </details>
-

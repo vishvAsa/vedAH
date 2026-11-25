@@ -23,9 +23,14 @@ nouns that precede ⌊aside from *āśíṣo*⌋.
 In this great rite--All hail!--may sapient Indra use lauds, rejoicings, well-yoked coursers.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्र॑ उक्थाम॒दान्य॒स्मिन्य॒ज्ञे प्र॑वि॒द्वान्यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। उ॒क्थ॒ऽम॒दानि॑। अ॒स्मिन्। य॒ज्ञे। प्र॒ऽवि॒द्वान्। यु॒न॒क्तु॒। सु॒ऽयुजः॑। स्वाहा॑। २६.३। 
+इन्द्रः॑। उ॒क्थ॒ऽम॒दानि॑। अ॒स्मिन्। य॒ज्ञे। प्र॒ऽवि॒द्वान्। यु॒न॒क्तु॒। सु॒ऽयुजः॑। स्वाहा॑। २६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ In this great rite--All hail!--may sapient Indra use lauds, rejoicings, well-yok
 
 टिप्पणी:   ३−(इन्द्रः) परमैश्वर्यवान् पुरुषः (उक्थमदानि) उक्थानि−अ० २।१२।२। वक्तव्यानि शास्त्राणि, मदानि हर्षकर्माणि च (सुयुजः) युजिर् योगे−इगुपधत्वात् कः। सुयोग्यः। अन्यद् गतम् ॥
 </details>
-

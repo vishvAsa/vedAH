@@ -25,9 +25,15 @@ ad-*, thus supporting our emendation. ⌊In Ppp. this verse precedes our
 If he withholds the Cow they beg, she lies rebellious in his stall. Vain are the wishes and the hopes which he, withholding her, would gain.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दु॑रद॒भ्नैन॒मा श॑ये याचि॒तां च॒ न दित्स॑ति।  
+नास्मै॒ कामाः॒ समृ॑ध्यन्ते॒ यामद॑त्त्वा॒ चिकी॑र्षति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दु॒र॒द॒भ्ना। ए॒न॒म्। आ। श॒ये॒। या॒चि॒ताम्। च॒। न। दित्स॑ति। न। अ॒स्मै॒। कामाः॑। सम। ऋ॒ध्य॒न्ते॒। याम्। अद॑त्वा। चिकी॑र्षति। ४.१९। 
+दु॒र॒द॒भ्ना। ए॒न॒म्। आ। श॒ये॒। या॒चि॒ताम्। च॒। न। दित्स॑ति। न। अ॒स्मै॒। कामाः॑। सम। ऋ॒ध्य॒न्ते॒। याम्। अद॑त्वा। चिकी॑र्षति। ४.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ If he withholds the Cow they beg, she lies rebellious in his stall. Vain are the
 
 टिप्पणी:   १९−(दुरदभ्ना) म० ४। कदापि नहि दम्भनीया पराजेयाः (एनम्) मनुष्यम् (आ शये) आशेते। प्राप्नोति (याचिताम्) प्रार्थिताम् (च) यदि (न) निषेधे (दित्सति) दातुमिच्छति (न) (अस्मै) (कामाः) अभिलाषा (समृध्यन्ते) संसिध्यन्ति (याम्) वेदवाणीम् (अदत्त्वा) (चिकीर्षति) कर्तुमिच्छति ॥
 </details>
-

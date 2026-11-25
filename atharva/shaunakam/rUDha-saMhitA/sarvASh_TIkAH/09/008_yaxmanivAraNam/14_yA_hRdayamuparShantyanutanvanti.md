@@ -20,9 +20,15 @@ time *upadiśanti*.
 The pangs that stab the heart and reach the breast-bone and connected parts, Let them depart and pass away, free from disease and harming not.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+या हृद॑यमुप॒र्षन्त्य॑नुत॒न्वन्ति॒ कीक॑साः।  
+अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। हृद॑यम्। उ॒प॒ऽऋ॒षन्ति॑। अ॒नु॒ऽत॒न्वन्ति॑। कीक॑साः। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१४। 
+याः। हृद॑यम्। उ॒प॒ऽऋ॒षन्ति॑। अ॒नु॒ऽत॒न्वन्ति॑। कीक॑साः। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ The pangs that stab the heart and reach the breast-bone and connected parts, Let
 
 टिप्पणी:   १४−(याः) अर्षण्यः (उपर्षन्ति) ऋषी गतौ। प्रविशन्ति (अनुतन्वन्ति) अनुलक्ष्य विस्तीर्यन्ते (कीकसाः) अ० २।३३।२। जत्रुवक्षोगतास्थीनि। अन्यत् पूर्ववत् ॥
 </details>
-

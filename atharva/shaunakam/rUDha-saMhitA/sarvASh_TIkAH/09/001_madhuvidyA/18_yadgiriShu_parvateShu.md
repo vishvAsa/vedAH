@@ -21,9 +21,15 @@ place of this verse, and puts it before our 16.
 May all the sweetness that is found in hills and mountains, steeds and kine, And wine that floweth from the cup,--may all that sweetness be in me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्गि॒रिषु॒ पर्व॑तेषु॒ गोष्वश्वे॑षु॒ यन्मधु॑।  
+सुरा॑यां सि॒च्यमा॑नायां॒ यत्तत्र॒ मधु॒ तन्मयि॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। गि॒रिषु॑। पर्व॑तेषु। गोषु॑। अश्वे॑षु। यत्। मधु॑। सुरा॑याम्। सि॒च्यमा॑नायाम्। यत्। तत्र॑। मधु॑। तत्। मयि॑। १.१८। 
+यत्। गि॒रिषु॑। पर्व॑तेषु। गोषु॑। अश्वे॑षु। यत्। मधु॑। सुरा॑याम्। सि॒च्यमा॑नायाम्। यत्। तत्र॑। मधु॑। तत्। मयि॑। १.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ May all the sweetness that is found in hills and mountains, steeds and kine, And
 
 टिप्पणी:   १८−(गिरिषु) अ० ५।४।१। स्तूयमानेषु संन्यासिषु (पर्वतेषु) अ० ४।९।१। मेघेषु-निघ० १।१०। (सुरायाम्) अ० ६।६९।१। षुञ् अभिषवे, वा षु ऐश्वर्ये क्रन् यद्वा, षुर ऐश्वर्यदीप्त्योः-क, टाप्। जले। ऐश्वर्ये (सिच्यमानायाम्) प्रवहन्त्याम्। प्रवर्धमानायाम् (यत्) (तत्र) तस्याम्। अन्यद् गतम् ॥
 </details>
-

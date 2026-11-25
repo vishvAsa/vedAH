@@ -8,9 +8,15 @@ title = "०३ इन्द्राय गाव"
 For Indra thunder-armed the kine have yielded mingled milk and meath. What time he found them in the vault.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रा॑य॒ गाव॑ आ॒शिरं॑ दुदु॒ह्रे व॒ज्रिणे॒ मधु॑।  
+यत्सी॑मुपह्व॒रे वि॒दत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रा॑य। गावः॑। आ॒ऽशिर॑म्। दु॒दु॒ह्रे। व॒ज्रिणे॑। मधु॑। यत्। सी॒म्। उ॒प॒ऽह्व॒रे। वि॒दत्। ९२.३। 
+इन्द्रा॑य। गावः॑। आ॒ऽशिर॑म्। दु॒दु॒ह्रे। व॒ज्रिणे॑। मधु॑। यत्। सी॒म्। उ॒प॒ऽह्व॒रे। वि॒दत्। ९२.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ For Indra thunder-armed the kine have yielded mingled milk and meath. What time 
 
 टिप्पणी:   १-३ व्याख्याताः-अ० २०।२२।४-६ ॥
 </details>
-

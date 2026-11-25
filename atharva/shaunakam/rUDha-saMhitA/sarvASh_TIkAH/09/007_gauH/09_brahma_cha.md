@@ -17,9 +17,14 @@ his (two) hips, force his (two) thighs.
 Priestly rank and princely power are the hips, and strength is. the thigh.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रह्म॑ च क्ष॒त्रं च॒ श्रोणी॒ बल॑मू॒रू ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑। च॒। क्ष॒त्रम्। च॒। श्रोणी॒ इति॑। बल॑म्। ऊ॒रू इति॑। १२.९। 
+ब्रह्म॑। च॒। क्ष॒त्रम्। च॒। श्रोणी॒ इति॑। बल॑म्। ऊ॒रू इति॑। १२.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Priestly rank and princely power are the hips, and strength is. the thigh.
 
 टिप्पणी:   ९−(ब्रह्म) ब्राह्मणत्वम् (च) (क्षत्रम्) अ० २।१५।४। क्षत्रियत्वम् (च) एव (श्रोणी) अ० २।३३।५। कटिभागौ (बलम्) (ऊरू) अ० २।३३।५। जानूपरिभागौ ॥
 </details>
-

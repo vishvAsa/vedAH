@@ -24,9 +24,15 @@ reads *brāhmaṇā* at beginning of **b**⌋; and combines *yatkāme ‘dam* in
 Here I set singly in the hands of Brahmans these cleansed and. purifie d and holy Women, May Indra, Marut girt, grant me the blessing which as I sprinkle you, my heart desireth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शु॒द्धाः पू॒ता यो॒षितो॑ य॒ज्ञिया॑ इ॒मा ब्र॒ह्मणां॒ हस्ते॑षु प्रपृ॒थक् सा॑दयामि।  
+यत्का॑म इ॒दम॑भिषि॒ञ्चामि॑ वो॒ऽहमिन्द्रो॑ म॒रुत्वा॒न्त्स द॑दादि॒दं मे॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शु॒ध्दाः। पू॒ताः। यो॒षितः॑। य॒ज्ञियाः॑। इ॒माः। ब्र॒ह्मणा॑म्। हस्ते॑षु। प्र॒ऽपृ॒थक्। सा॒द॒या॒मि॒। यत्ऽका॑मः। इ॒दम्। अ॒भि॒ऽसि॒ञ्चामि॑। वः॒। अ॒हम्। इन्द्रः॑। म॒रुत्वा॑न्। सः। द॒दा॒त्। इ॒दम्। मे॒। १.२७। 
+शु॒ध्दाः। पू॒ताः। यो॒षितः॑। य॒ज्ञियाः॑। इ॒माः। ब्र॒ह्मणा॑म्। हस्ते॑षु। प्र॒ऽपृ॒थक्। सा॒द॒या॒मि॒। यत्ऽका॑मः। इ॒दम्। अ॒भि॒ऽसि॒ञ्चामि॑। वः॒। अ॒हम्। इन्द्रः॑। म॒रुत्वा॑न्। सः। द॒दा॒त्। इ॒दम्। मे॒। १.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Here I set singly in the hands of Brahmans these cleansed and. purifie d and hol
 
 टिप्पणी:   २७−(योषितः) अ० १।१७।१। सेव्याः प्रजाः (ददात्) लेटि रूपम्। ददातु (इदम्) काम्यमानं फलम्। अन्यत् पूर्ववत्-अ० ६।१२२।५ ॥
 </details>
-

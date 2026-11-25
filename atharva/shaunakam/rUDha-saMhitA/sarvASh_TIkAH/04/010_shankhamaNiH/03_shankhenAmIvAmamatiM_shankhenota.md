@@ -22,9 +22,15 @@ only two verses ago, he this time declares *kṛśana* a "name of gold."
 We stay disease and indigence, and chase Sadanvas with the Shell. May the all-healing Shell that bears the pearl preserve us from distress.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+श॒ङ्खेनामी॑वा॒मम॑तिं श॒ङ्खेनो॒त स॒दान्वाः॑।  
+श॒ङ्खो नो॑ वि॒श्वभे॑षजः॒ कृश॑नः पा॒त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श॒ङ्खेन॑। अमी॑वाम्। अम॑तिम्। श॒ङ्खेन॑। उ॒त। स॒दान्वाः॑। श॒ङ्खः। नः॒। वि॒श्वऽभे॑षजः। कृश॑नः। पा॒तु॒। अंह॑सः। १०.३। 
+श॒ङ्खेन॑। अमी॑वाम्। अम॑तिम्। श॒ङ्खेन॑। उ॒त। स॒दान्वाः॑। श॒ङ्खः। नः॒। वि॒श्वऽभे॑षजः। कृश॑नः। पा॒तु॒। अंह॑सः। १०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ We stay disease and indigence, and chase Sadanvas with the Shell. May the all-he
 
 टिप्पणी:   ३−(शङ्खेन) म० १ तथा २ (अमीवाम्) इण्शीभ्यां वन्। उ० १।१५२। इति अम रोगे-वन्। ईडागमः। टाप्। पीडाम्। रोगम्। (अमतिम्) कुमतिम्। अज्ञानम् (उत) अपि च (सदान्वाः) अ० २।१४।१। सदा नोनूयमानाः शब्दायमानाः। यद्वा। सदानवाः, दानवैः सह वर्तमाना दरिद्रतादिविपत्तीः,विषहामहे-इत्यनुषज्यते−मा० २ (शङ्खः) म० १। (नः) अस्मान् (विश्वभेषजः) अ० २।४।३। सर्वभयजेता। सर्वौषधः (कृशनः पातु अंहसः) व्याख्यातं म० १ ॥
 </details>
-

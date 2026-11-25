@@ -26,9 +26,14 @@ JAOS. xv., p. xlv.⌋
 Quickly around his funeral fire dance women with dishevelled locks, Striking the hand upon the breast and uttering their evil shriek.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षि॒प्रं वै तस्या॒दह॑नं॒ परि॑ नृत्यन्ति के॒शिनी॑राघ्ना॒नाः पा॒णिनोर॑सि कुर्वा॒णाः पा॒पमै॑ल॒बम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। आ॒ऽदह॑नम्। परि॑। नृ॒त्य॒न्ति॒। के॒शिनीः॑। आ॒ऽघ्ना॒नाः। पा॒णिना॑। उर॑सि। कु॒र्वा॒णाः। पा॒पम्। ऐ॒ल॒बम्। १०.२। 
+तस्य॑। आ॒ऽदह॑नम्। परि॑। नृ॒त्य॒न्ति॒। के॒शिनीः॑। आ॒ऽघ्ना॒नाः। पा॒णिना॑। उर॑सि। कु॒र्वा॒णाः। पा॒पम्। ऐ॒ल॒बम्। १०.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +63,3 @@ Quickly around his funeral fire dance women with dishevelled locks, Striking the
 
 टिप्पणी:   ४८−(क्षिप्रम्) (वै) एव (तस्य) वेदनिन्दकस्य (आदहनम्) भस्मीकरणस्थानम् (परि) प्रति (नृत्यन्ति) इतस्ततो विचरन्ति (केशिनीः) दीर्घकेशवत्यः (आघ्नानाः) हन हिंसागत्योः−चानश्। ताडयन्त्यः (पाणिना) हस्तेन (उरसि) वक्षसि (कुर्वाणाः) कुर्वत्यः (पापम्) अशुभम् (ऐलबम्) म० ४७। विलापध्वनिम् ॥
 </details>
-

@@ -31,9 +31,15 @@ the rest of the verse being wholly different. A couple of our mss.
 Up from the sea lift your dread might, ye Maruts: as light and splendour, send the vapour upward! Let waters satisfy the earth, the voices of the great mist-enve- loped Bull who roareth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उदी॑रयत मरुतः समुद्र॒तस्त्वे॒षो अ॒र्को नभ॒ उत्पा॑तयाथ।  
+म॑हऋष॒भस्य॒ नद॑तो॒ नभ॑स्वतो वा॒श्रा आपः॑ पृथि॒वीं त॑र्पयन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। ई॒र॒य॒त॒। म॒रु॒तः॒। स॒मु॒द्र॒तः। त्वे॒षः। अ॒र्कः। नभः॑। उत्। पा॒त॒या॒थ॒। म॒हा॒ऽऋ॒ष॒भस्य॑। नद॑तः। नभ॑स्वतः। वा॒श्राः। आपः॑। पृ॒थि॒वीम्। त॒र्प॒य॒न्तु॒। १५.५। 
+उत्। ई॒र॒य॒त॒। म॒रु॒तः॒। स॒मु॒द्र॒तः। त्वे॒षः। अ॒र्कः। नभः॑। उत्। पा॒त॒या॒थ॒। म॒हा॒ऽऋ॒ष॒भस्य॑। नद॑तः। नभ॑स्वतः। वा॒श्राः। आपः॑। पृ॒थि॒वीम्। त॒र्प॒य॒न्तु॒। १५.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -63,4 +69,3 @@ Up from the sea lift your dread might, ye Maruts: as light and splendour, send t
 
 टिप्पणी:   ५−(उदीरयत) ऊर्ध्वं प्रेरयत जलम् (मरुतः) वायुवेगाः (समुद्रतः) पार्थिवसमुद्रात् (त्वेषः) त्विष दीप्तौ-घञ्। सुपां सुलुक्०। पा० ७।१।३९। इति तृतीयायां प्रथमा। त्वेषेण। प्रकाशेन (अर्कः) अर्क स्तवने तापे च-अच्। षष्ट्यर्थे प्रथमा। सूर्यस्य (नभः) म० ३। उदकम् (उत् पातयाथ) पत गतौ-णिच्, लेट्। उद्गमयत। अन्यद् गतम्-म० १ ॥
 </details>
-

@@ -18,9 +18,15 @@ Ppp. combines at the end *vātā ”hitaḥ*.
 The Residue of Sacrifice holdeth Earth, Heaven, and all that is: The Residue of Sacrifice holdeth sea, waters, Moon, and Wind.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उच्छि॑ष्टे॒ द्यावा॑पृथि॒वी विश्वं॑ भू॒तं स॒माहि॑तम्।  
+आपः॑ समु॒द्र उच्छि॑ष्टे च॒न्द्रमा॒ वात॒ आहि॑तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्ऽशि॑ष्टे। द्यावा॑पृथि॒वी इति॑। विश्व॑म्। भू॒तम्। स॒म्ऽआहि॑तम्। आपः॑। स॒मु॒द्रः। उत्ऽशि॑ष्टे। च॒न्द्रमाः॑। वातः॑। आऽहि॑तः। ९.२। 
+उत्ऽशि॑ष्टे। द्यावा॑पृथि॒वी इति॑। विश्व॑म्। भू॒तम्। स॒म्ऽआहि॑तम्। आपः॑। स॒मु॒द्रः। उत्ऽशि॑ष्टे। च॒न्द्रमाः॑। वातः॑। आऽहि॑तः। ९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The Residue of Sacrifice holdeth Earth, Heaven, and all that is: The Residue of 
 
 टिप्पणी:   २−(द्यावापृथिवी) द्यावापृथिव्यौ। सूर्यभूमी (विश्वम्) प्रत्येकम् (भूतम्) सत्तान्वितं द्रव्यम् (आपः) व्यापनशीला जलधाराः (समुद्रः) जलौघः (चन्द्रमाः) चन्द्रलोकः (वातः) वायुः। अन्यत् पूर्ववत्-म० १ ॥
 </details>
-

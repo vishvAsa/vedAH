@@ -19,9 +19,15 @@ Again two unnoticed redundant syllables.
 Whitheward go the half-months, and, accordant with the full year, the months in their procession? Who out of many, tell me, is that Skambha to whom go seasons and the groups of seasons?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्वा᳡र्धमा॒साः क्व᳡ यन्ति॒ मासाः॑ संवत्स॒रेण॑ स॒ह सं॑विदा॒नाः।  
+यत्र॒ यन्त्यृ॒तवो॒ यत्रा॑र्त॒वाः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्व᳡। अ॒र्ध॒ऽमा॒साः। क्व᳡। य॒न्ति॒। मासाः॑। स॒म्ऽव॒त्स॒रेण॑। स॒ह। स॒म्ऽवि॒दा॒नाः। यत्र॑। यन्ति॑। ऋ॒तवः॑। यत्र॑। आ॒र्त॒वाः। स्क॒म्भम्। तम्। ब्रू॒हि॒। क॒त॒मः। स्वि॒त्। ए॒व। सः। ७.५। 
+क्व᳡। अ॒र्ध॒ऽमा॒साः। क्व᳡। य॒न्ति॒। मासाः॑। स॒म्ऽव॒त्स॒रेण॑। स॒ह। स॒म्ऽवि॒दा॒नाः। यत्र॑। यन्ति॑। ऋ॒तवः॑। यत्र॑। आ॒र्त॒वाः। स्क॒म्भम्। तम्। ब्रू॒हि॒। क॒त॒मः। स्वि॒त्। ए॒व। सः। ७.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Whitheward go the half-months, and, accordant with the full year, the months in 
 
 टिप्पणी:   ५−(क्व) कस्मिन् देवे (अर्धमासाः) पक्षाः (यन्ति) गच्छन्ति (मासाः) (संवत्सरेण) वर्षेण (सह) (संविदानाः) अ० २।२८।२। संगच्छमानाः (ऋतवः) वसन्तादयः कालाः (आर्तवाः) ऋतूनामवयवाः। अन्यत् पूर्ववत् ॥
 </details>
-

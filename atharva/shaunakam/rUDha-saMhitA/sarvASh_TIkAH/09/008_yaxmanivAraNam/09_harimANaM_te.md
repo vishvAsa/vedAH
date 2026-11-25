@@ -22,9 +22,15 @@ third we have nearly our 7 **c**: *yakṣmaṁ te sarvam an̄gebhyo*.
 The yellow Jaundice from thy limbs, and Colic from the parts within, And Phthisis from thine inward soul we charm away with this our spell.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ह॑रि॒माणं॑ ते॒ अङ्गे॑भ्यो॒ऽप्वाम॑न्त॒रोदरा॑त्।  
+य॑क्ष्मो॒धाम॒न्तरा॒त्मनो॑ ब॒हिर्निर्म॑न्त्रयामहे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ह॒रि॒माण॑म्। ते॒। अङ्गे॑भ्यः। अ॒प्वाम्। अ॒न्त॒रा। उ॒दरा॑त्। य॒क्ष्मः॒ऽधाम्। अ॒न्तः। आ॒त्मनः॑। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.९। 
+ह॒रि॒माण॑म्। ते॒। अङ्गे॑भ्यः। अ॒प्वाम्। अ॒न्त॒रा। उ॒दरा॑त्। य॒क्ष्मः॒ऽधाम्। अ॒न्तः। आ॒त्मनः॑। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ The yellow Jaundice from thy limbs, and Colic from the parts within, And Phthisi
 
 टिप्पणी:   ९−(हरिमाणम्) अ० १।२२।१। कामिलादिरोगम् (ते) तव (अङ्गेभ्यः) (अप्वाम्) अ० ३।२।५। अपवातीति हिनस्तीति। अप्वा यदेनया विद्धाऽपवीयते। व्याधिर्वा भयं वा-निरु० ६।१२। वायुशूलम् (अन्तरा) मध्ये (यक्ष्मोधाम्) यक्ष्म+दधातेः-क, सकारोपसर्जनम्। क्षयधारिणीं व्यथाम् (अन्तः) मध्ये (आत्मनः) देहस्य। अन्यत् पूर्ववत् ॥
 </details>
-

@@ -14,9 +14,14 @@ thus.
 He who hath this knowledge eats food with the exclamation Svaha as food-eater.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्वा॑हाका॒रेणा॑न्ना॒देनान्न॑मत्ति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्वा॒हा॒ऽका॒रेण॑। अ॒न्न॒ऽअ॒देन॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.१६। 
+स्वा॒हा॒ऽका॒रेण॑। अ॒न्न॒ऽअ॒देन॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ He who hath this knowledge eats food with the exclamation Svaha as food-eater.
 
 टिप्पणी:   १५, १६−(मनुष्यान्)मननशीलान् पुरुषान् (अग्निः) अग्निवत्तेजस्वी (स्वाहाकारम्) स्वाहा वाङ्नाम-निघ०१।११। वेदविद्याप्रचारम् (स्वाहाकारेण) वेदविद्याप्रचारेण। अन्यत् पूर्ववत्-म०१, २ ॥
 </details>
-

@@ -20,9 +20,15 @@ Ppp. reads *kṛṇvanti* in **b**. Here, to preserve the balance of forms,
 Let all the people celebrate the rite of Savitar the God. Sweet unto us be Waters, Plants propitious!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॒वस्य॑ सवि॒तुः स॒वे कर्म॑ कृण्वन्तु॒ मानु॑षाः।  
+शं नो॑ भवन्त्व॒प ओष॑धीः शि॒वाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒वस्य॑। स॒वि॒तुः। स॒वे। कर्म॑। कृ॒ण्व॒न्तु॒। मानु॑षाः। शम्। नः। भ॒व॒न्तु॒। अपः। ओष॑धीः। शिवाः। २३.३। 
+दे॒वस्य॑। स॒वि॒तुः। स॒वे। कर्म॑। कृ॒ण्व॒न्तु॒। मानु॑षाः। शम्। नः। भ॒व॒न्तु॒। अपः। ओष॑धीः। शिवाः। २३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Let all the people celebrate the rite of Savitar the God. Sweet unto us be Water
 
 टिप्पणी:   ३−(देवस्य) प्रकाशस्वरूपस्य (सवितुः) सर्वप्रेरकस्य परमेश्वरस्य (सवे) प्रेरणे। शासने (कृण्वन्तु) अनुतिष्ठन्तु (मानुषाः) मनुष्याः (शम्) शान्त्या (नः) अस्माकम् (भवन्तु) भू प्राप्तौ। प्राप्नुवन्तु (अपः) म० १। कर्म−निघ० २।१। (ओषधीः) ओषधयः। अन्नादिपदार्थाः (शिवाः) कल्याणकारिण्यः ॥
 </details>
-

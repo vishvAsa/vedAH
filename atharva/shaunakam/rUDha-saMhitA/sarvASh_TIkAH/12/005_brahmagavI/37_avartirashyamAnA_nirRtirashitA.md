@@ -16,9 +16,14 @@ title = "३७ अवर्तिरश्यमाना निरृतिर
 Poverty while she is being eaten. Destruction when eaten.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अव॑र्तिर॒श्यमा॑ना॒ निरृ॑तिरशि॒ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अव॑र्तिः। अ॒श्यमा॑ना। निःऽऋ॑तिः। अ॒शि॒ता। ८.१०। 
+अव॑र्तिः। अ॒श्यमा॑ना। निःऽऋ॑तिः। अ॒शि॒ता। ८.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Poverty while she is being eaten. Destruction when eaten.
 
 टिप्पणी:   ३७−(अवर्तिः) अ० ९।२।३। निर्जीविका (अश्यमाना) भक्ष्यमाणा (निर्ऋतिः) अ० ३।११।२। कृच्छ्रापत्तिः−निरु० २।७। (अशिता) भक्षिता ॥
 </details>
-

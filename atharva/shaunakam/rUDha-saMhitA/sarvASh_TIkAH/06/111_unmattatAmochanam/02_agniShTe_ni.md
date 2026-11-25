@@ -19,9 +19,15 @@ The comm. reads *udyatam* (= *grahavikāreṇo ’dbhrāntam*) instead of
 Let Agni gently soothe thy mind when fierce excitement troubles it. Well-skilled I make a medicine that thou no larger mayst be mad.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्निष्टे॒ नि श॑मयतु॒ यदि॑ ते॒ मन॒ उद्यु॑तम्।  
+कृ॑णोमि वि॒द्वान्भे॑ष॒जं यथानु॑न्मदि॒तोऽस॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। ते॒। नि। श॒म॒य॒तु॒। यदि॑। ते॒। मनः॑। उत्ऽयु॑तम्। कृ॒णोमि॑। व‍ि॒द्वान्। भे॒ष॒जम्। यथा॑। अनु॑त्ऽमदितः। अस॑सि। १११.२। 
+अ॒ग्निः। ते॒। नि। श॒म॒य॒तु॒। यदि॑। ते॒। मनः॑। उत्ऽयु॑तम्। कृ॒णोमि॑। व‍ि॒द्वान्। भे॒ष॒जम्। यथा॑। अनु॑त्ऽमदितः। अस॑सि। १११.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Let Agni gently soothe thy mind when fierce excitement troubles it. Well-skilled
 
 टिप्पणी:   २−(अग्निः) विद्वान् पुरुषः (ते) तव (मनः) (नि शमयतु) नितरां शान्तं करोतु (यदि) सम्भावनायाम् (ते मनः) (उद्युतम्) युञ् बन्धने−क्त। उद्विग्नम् (कृणोमि) करोमि (विद्वान्) विज्ञोऽहम् (भेषजम्) औषधम् (यथा) येन प्रकारेण (अनुन्मदितः) चित्तभ्रमरहितः (अससि) भूयाः ॥
 </details>
-

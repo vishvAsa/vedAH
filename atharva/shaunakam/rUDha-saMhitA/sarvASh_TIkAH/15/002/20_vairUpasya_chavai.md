@@ -12,12 +12,17 @@ abode \[who knoweth thus\]. Of him in the western quarter
 
 <details><summary>Griffith</summary>
 
-He who possesses this knowledge becomes the dear home of Vairupa and Vairaja, the Waters and King Varuna. 
+He who possesses this knowledge becomes the dear home of Vairupa and Vairaja, the Waters and King Varuna.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वै॑रू॒पस्य॑ च॒वै स वै॑रा॒जस्य॑ चा॒पां च॒ वरु॑णस्य च॒ राज्ञः॑ प्रि॒यं धाम॑ भवति॒ तस्य॑प्र॒तीच्यां॑ दि॒शि॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-वै॒रू॒पस्य॑। च॒। वै। सः। वै॒रा॒जस्य॑। च॒। अ॒पाम्। च॒। वरु॑णस्य। च॒। राज्ञः॑। प्रि॒यम्। धाम॑। भ॒व॒ति॒। तस्य॑। प्र॒तीच्या॑म्। दि॒शि। २.१८। 
+वै॒रू॒पस्य॑। च॒। वै। सः। वै॒रा॒जस्य॑। च॒। अ॒पाम्। च॒। वरु॑णस्य। च॒। राज्ञः॑। प्रि॒यम्। धाम॑। भ॒व॒ति॒। तस्य॑। प्र॒तीच्या॑म्। दि॒शि। २.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,4 +52,3 @@ He who possesses this knowledge becomes the dear home of Vairupa and Vairaja, th
 
 टिप्पणी:   १८−(वैरूपस्य) म० १६।विविधपदार्थानां निरूपकस्य वेदज्ञानस्य (वैराजस्य) म० १६। विराड्रूपस्यपरमात्मस्वरूपस्य प्रापकस्य मोक्षज्ञानस्य (अपाम्) प्रजानाम् (वरुणस्य)श्रेष्ठजीवस्य मनुष्यस्य (राज्ञः) ऐश्वर्यवतः (प्रतीच्याम्) पश्चाद्भवायाम्।पश्चिमायाम्। अन्यत् पूर्ववत्-म० ४ ॥
 </details>
-

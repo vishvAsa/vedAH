@@ -5,17 +5,22 @@ title = "२५ स उदतिष्ठत्सउदीचीम्"
 
 <details><summary>Whitney</summary>
 
-4. **a.** ⌊21.⌋ He arose; he moved out toward the northern quarter;  
+4. **a.** ⌊21.⌋ He arose; he moved out toward the northern quarter;
 </details>
 
 <details><summary>Griffith</summary>
 
-He arose and went away to the northern region. 
+He arose and went away to the northern region.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उद॑तिष्ठ॒त्सउदी॑चीं॒ दिश॒मनु॒ व्य᳡चलत् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-सः। उत्। अ॒ति॒ष्ठ॒त्। सः। उदी॑चीम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। २.२१। 
+सः। उत्। अ॒ति॒ष्ठ॒त्। सः। उदी॑चीम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। २.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,4 +50,3 @@ He arose and went away to the northern region.
 
 टिप्पणी:   २१−(उदीचीम्)वामभागवर्तमानाम्। उत्तरभागस्थाम्। अन्यत् पूर्ववत्-म० १ ॥
 </details>
-

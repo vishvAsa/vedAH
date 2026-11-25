@@ -22,9 +22,14 @@ ataṁ nu dā*.
 Quickly they ask about him, What is this? What thing hath happened here?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षि॒प्रं वै तस्य॑ पृच्छन्ति॒ यत्तदासी॑३दि॒दं नु ता३दिति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्षि॒प्रम्। वै। तस्य॑। पृ॒च्छ॒न्ति॒। यत्। तत्। आसी॑३त्। इ॒दम्। नु। ता३त्। इति॑। १,४। 
+क्षि॒प्रम्। वै। तस्य॑। पृ॒च्छ॒न्ति॒। यत्। तत्। आसी॑३त्। इ॒दम्। नु। ता३त्। इति॑। १,४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +59,3 @@ Quickly they ask about him, What is this? What thing hath happened here?
 
 टिप्पणी:   ५०−(क्षिप्रम्) (वै) (तस्य) (पृच्छन्ति) जिज्ञासन्ते (यत्) स्थानम् (तत्) (आसी३त्) प्लुतरूपम्। भूतकाले वर्तमानमभवत् (इदम्) प्रत्यक्षम् (नु) प्रश्ने (ता३त्) प्लुतरूपम्। तदेव (इति) वाक्यसमाप्तौ ॥
 </details>
-

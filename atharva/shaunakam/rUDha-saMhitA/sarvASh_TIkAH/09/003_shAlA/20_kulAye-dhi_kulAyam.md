@@ -19,9 +19,15 @@ Ppp. has *martyas* in **c**.
 Nest upon nest hath been imposed, compartment on compart- ment laid: There man shall propagate his kind, and there shall everything born.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+कु॒लायेऽधि॑ कु॒लायं॒ कोशे॒ कोशः॒ समु॑ब्जितः।  
+तत्र॒ मर्तो॒ वि जा॑यते॒ यस्मा॒द्विश्वं॑ प्र॒जाय॑ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कु॒लाये॑। अधि॑। कु॒लाय॑म्। कोशे॑। कोशः॑। सम्ऽउ॑ब्जितः। तत्र॑। मर्तः॑। वि। जा॒य॒ते॒। यस्मा॑त्। विश्व॑म्। प्र॒ऽजाय॑ते। ३.२०। 
+कु॒लाये॑। अधि॑। कु॒लाय॑म्। कोशे॑। कोशः॑। सम्ऽउ॑ब्जितः। तत्र॑। मर्तः॑। वि। जा॒य॒ते॒। यस्मा॑त्। विश्व॑म्। प्र॒ऽजाय॑ते। ३.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Nest upon nest hath been imposed, compartment on compart- ment laid: There man s
 
 टिप्पणी:   २०−(कुलाये) नीडे (अधि) (कुलायम्) कुलानां पक्षिसमूहानामयो वासस्थानम् (कोशे) धनसंचये (कोशः) निधिः (समुब्जितः) संवृतः (तत्र) शालायाम् (मर्तः) मनुष्यः (वि) विविधम् (जायते) प्रादुर्भवति (यस्मात्) कारणात् (विश्वम्) सर्वमपत्यजातम् (प्रजायते) प्रकर्षेणोत्पद्यते ॥
 </details>
-

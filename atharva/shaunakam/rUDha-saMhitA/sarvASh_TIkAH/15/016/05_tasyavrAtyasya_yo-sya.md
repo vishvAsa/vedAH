@@ -16,9 +16,15 @@ title = "०५ तस्यव्रात्यस्य योऽस्य"
 His fifth downward breath is Consecration.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्य॒व्रात्य॑स्य।  
+यो᳡ऽस्य॑ पञ्च॒मो᳡ऽपा॒नः सा दी॒क्षा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। प॒ञ्च॒मः। अ॒पा॒नः। सा। दी॒क्षा। १६.५। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। प॒ञ्च॒मः। अ॒पा॒नः। सा। दी॒क्षा। १६.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +54,3 @@ His fifth downward breath is Consecration.
 
 टिप्पणी:   ५−(दीक्षा) नियमव्रतयोःशिक्षा। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

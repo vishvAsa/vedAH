@@ -16,9 +16,14 @@ title = "५४ ओषन्ती समोषन्ती"
 Consuming, burning all things up, the thunderbolt of spell and charm.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ओष॑न्ती स॒मोष॑न्ती॒ ब्रह्म॑णो॒ वज्रः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ओष॑न्ती। स॒म्ऽओष॑न्ती। ब्रह्म॑णः। वज्रः॑। १०.८। 
+ओष॑न्ती। स॒म्ऽओष॑न्ती। ब्रह्म॑णः। वज्रः॑। १०.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Consuming, burning all things up, the thunderbolt of spell and charm.
 
 टिप्पणी:   ५४−(ओषन्ती) उष दाहे−शतृ। दहन्ती (समोषन्ती) सम्यग्भस्मीकुर्वती (ब्रह्मणः) परमेश्वरस्य (वज्रः) शस्त्रं यथा ॥
 </details>
-

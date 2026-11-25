@@ -18,9 +18,15 @@ Ppp. ⌊see under vs. 25⌋ reads at the end *iti* for *abhi*.
 Hitherward unto thee I bring the Plants that cure all maladies, All Plants wherein physicians have discovered health-bestowing power.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+याव॑तीषु मनु॒ष्या᳡ भेष॒जं भि॒षजो॑ वि॒दुः।  
+ताव॑तीर्वि॒श्वभे॑षजी॒रा भ॑रामि॒ त्वाम॒भि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याव॑तीषु। म॒नु॒ष्याः᳡। भे॒ष॒जम्। भि॒षजः॑। वि॒दुः। ताव॑तीः। वि॒श्वऽभे॑षजीः। आ। भ॒रा॒मि॒। त्वाम्‌। अ॒भि। ७.२६। 
+याव॑तीषु। म॒नु॒ष्याः᳡। भे॒ष॒जम्। भि॒षजः॑। वि॒दुः। ताव॑तीः। वि॒श्वऽभे॑षजीः। आ। भ॒रा॒मि॒। त्वाम्‌। अ॒भि। ७.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Hitherward unto thee I bring the Plants that cure all maladies, All Plants where
 
 टिप्पणी:   २६−(यावतीषु) (मनुष्याः) मानवाः (भेषजम्) चिकित्साम् (भिषजः) अ० २।९।३। यद्वा भिषज् चिकित्सायाम्-क्विप्। वैद्याः (विदुः) जानन्ति (तावतीः) (विश्वभेषजीः) सर्वरोगजेत्रीः (आभरामि) आहरामि (त्वाम्) (अभि) प्रति ॥
 </details>
-

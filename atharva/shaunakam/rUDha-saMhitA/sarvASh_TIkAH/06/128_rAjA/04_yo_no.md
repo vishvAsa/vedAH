@@ -28,9 +28,15 @@ hanging low, may have been really a weather-sign.
 Be worship ever paid to thee, O Weather Prophet, King of Star s, Who gavest us oo weather in the evening and by night and day!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो नो॑ भद्रा॒हमक॑रः सा॒यं नक्त॑मथो॒ दिवा॑।  
+तस्मै॑ ते नक्षत्रराज॒ शक॑धूम॒ सदा॒ नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। नः॒। भ॒द्र॒ऽअ॒हम्। अक॑रः। सा॒यम्। नक्त॑म्। अथो॒ इति॑। दिवा॑। तस्मै॑। ते॒। न॒क्ष॒त्र॒ऽरा॒ज॒। शक॑ऽधूम। सदा॑। नमः॑। १२८.४। 
+यः। नः॒। भ॒द्र॒ऽअ॒हम्। अक॑रः। सा॒यम्। नक्त॑म्। अथो॒ इति॑। दिवा॑। तस्मै॑। ते॒। न॒क्ष॒त्र॒ऽरा॒ज॒। शक॑ऽधूम। सदा॑। नमः॑। १२८.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -60,4 +66,3 @@ Be worship ever paid to thee, O Weather Prophet, King of Star s, Who gavest us o
 
 टिप्पणी:   ४−(यः) यस्त्वम् (नः) अस्मभ्यम् (भद्राहम्) म० १। (अकरः) कृतवानसि (सायम्) (नक्तम्) रात्रौ (अथो) अपि च (दिवा) दिवसे (तस्मै) तथाभूताय (ते) तुभ्यम् (नक्षत्रराज) नक्षत्राणां स्वामिन् (शकधूम) म० १। (सदा) सर्वदा (नमः) सत्कारः ॥
 </details>
-

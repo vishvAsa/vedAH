@@ -24,9 +24,15 @@ is described by the Anukr. with mechanical correctness.
 I cast away a handful here, hurtful, injurious to health. I lift another handful up, sparkling and bringing happiness.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒दम॒हं रुश॑न्तंग्रा॒भं त॑नू॒दूषि॒मपो॑हामि।  
+यो भ॒द्रो रो॑च॒नस्तमुद॑चामि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒दम्। अ॒हम्। रुश॑न्तम्। ग्रा॒भम्। त॒नू॒ऽदूषि॑म्। अप॑। ऊ॒हा॒मि॒। यः। भ॒द्रः। रो॒च॒नः। तम्। उत्। अ॒चा॒मि॒। १.३८। 
+इ॒दम्। अ॒हम्। रुश॑न्तम्। ग्रा॒भम्। त॒नू॒ऽदूषि॑म्। अप॑। ऊ॒हा॒मि॒। यः। भ॒द्रः। रो॒च॒नः। तम्। उत्। अ॒चा॒मि॒। १.३८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ I cast away a handful here, hurtful, injurious to health. I lift another handful
 
 टिप्पणी:   ३८−(इदम्) इदानीम्। गृहाश्रमग्रहणसमये (रुशन्तम्) रुश हिंसायां शतृ।हिंसन्तम् (ग्राभम्) मलबन्धकग्राहिरोगं दुष्टव्यवहारं वा (तनूदूषिम्) शरीरदूषकम् (अपोहामि) अपगमयामि (यः) (भद्रः) मङ्गलमयः (रोचनः) रुचिरो व्यवहारः (तम्)व्यवहारम् (उत्) उत्तमतया (अचामि) अचु गतौ याचने च। प्राप्नोमि। याचे ॥
 </details>
-

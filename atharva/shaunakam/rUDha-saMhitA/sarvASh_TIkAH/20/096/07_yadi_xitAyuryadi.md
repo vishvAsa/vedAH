@@ -8,9 +8,15 @@ title = "०७ यदि क्षितायुर्यदि"
 Be his days ended, be he how departed, be he brought very near to death already, Out of Destruction's lap again I bring him, save him for life to last a hundred autumns.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदि॑ क्षि॒तायु॒र्यदि॑ वा॒ परे॑तो॒ यदि॑ मृ॒त्योर॑न्ति॒कं नी᳡त ए॒व।  
+तमा ह॑रामि॒ निरृ॑तेरु॒पस्था॒दस्पा॑र्शमेनं श॒तशा॑रदाय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यदि॑। क्षि॒तऽआ॑युः। यदि॑। वा॒। परा॑ऽइतः। यदि॑। मृ॒त्योः। अ॒न्ति॒कम्। नि॒ऽइ॑तः। ए॒व। तम्। आ। ह॒रा॒मि॒। निःऽऋ॑तेः। उ॒पऽस्था॑त्। अस्पा॑र्शम्। ए॒न॒म्। श॒तऽशा॑रदाय। ९६.७। 
+यदि॑। क्षि॒तऽआ॑युः। यदि॑। वा॒। परा॑ऽइतः। यदि॑। मृ॒त्योः। अ॒न्ति॒कम्। नि॒ऽइ॑तः। ए॒व। तम्। आ। ह॒रा॒मि॒। निःऽऋ॑तेः। उ॒पऽस्था॑त्। अस्पा॑र्शम्। ए॒न॒म्। श॒तऽशा॑रदाय। ९६.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Be his days ended, be he how departed, be he brought very near to death already,
 
 टिप्पणी:   ७−(अस्पार्शम्) स्पृष्टवानस्मि। अन्यद् गतम् ॥
 </details>
-

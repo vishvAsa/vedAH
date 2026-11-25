@@ -20,9 +20,15 @@ Many of the mss. accent in **b** *lóke* and *saptárṣayo*. ⌊In **d**
 May all the Gods protect me, may the Gods united shield me well. May all alleviations in the world which the Seven Rishis know. Be kind and gracious unto me. Bliss and security be mine!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यानि॒ कानि॑ चिच्छा॒न्तानि॑ लो॒के स॑प्तऋ॒षयो॑ वि॒दुः।  
+सर्वा॑णि॒ शं भ॑वन्तु मे॒ शं मे॑ अ॒स्त्वभ॑यं मे अस्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यानि॑। कानि॑। चि॒त्। शा॒न्तानि॑। लो॒के। स॒प्त॒ऽऋ॒षयः॑। वि॒दुः। सर्वा॑णि। शम्। भ॒व॒न्तु॒। मे॒। शम्। मे॒। अ॒स्तु॒। अभ॑यम्। मे॒। अ॒स्तु॒। ९.१३। 
+यानि॑। कानि॑। चि॒त्। शा॒न्तानि॑। लो॒के। स॒प्त॒ऽऋ॒षयः॑। वि॒दुः। सर्वा॑णि। शम्। भ॒व॒न्तु॒। मे॒। शम्। मे॒। अ॒स्तु॒। अभ॑यम्। मे॒। अ॒स्तु॒। ९.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ May all the Gods protect me, may the Gods united shield me well. May all allevia
 
 टिप्पणी:   १३−(यानि कानि) उक्तानुक्तानि (चित्) एव (शान्तानि) शान्तियुक्तानि कर्माणि (लोके) संसारे (सप्तऋषयः) म० १२। मनोबुद्धिसहितानि पञ्चज्ञानेन्द्रियाणि (विदुः) जानन्ति (सर्वाणि) (शम्) शान्तकराणि (भवन्तु) (मे) मह्यम् (शम्) (मे) (अस्तु) (अभयम्) भयराहित्यम् (मे) (अस्तु) ॥
 </details>
-

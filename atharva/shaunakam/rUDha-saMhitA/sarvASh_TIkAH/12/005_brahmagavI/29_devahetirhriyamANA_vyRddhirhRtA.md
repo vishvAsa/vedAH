@@ -22,9 +22,14 @@ resolution *ví-ṛd-*.
 A destructive missile of Gods when she is being seized, misfortune when carried away;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॑वहे॒तिर्ह्रि॒यमा॑णा॒ व्यृ᳡द्धिर्हृ॒ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒व॒ऽहे॒तिः। ह्रि॒यमा॑णा। विऽऋ॑ध्दिः। हृ॒ता। ८.२। 
+दे॒व॒ऽहे॒तिः। ह्रि॒यमा॑णा। विऽऋ॑ध्दिः। हृ॒ता। ८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +59,3 @@ A destructive missile of Gods when she is being seized, misfortune when carried 
 
 टिप्पणी:   २९−(देवहेतिः) इन्द्रियाणां हननम् (ह्रियमाणा) गृह्यमाणा (व्यृद्धिः) अवृद्धिः। हानिः (हृता) गृहीता ॥
 </details>
-

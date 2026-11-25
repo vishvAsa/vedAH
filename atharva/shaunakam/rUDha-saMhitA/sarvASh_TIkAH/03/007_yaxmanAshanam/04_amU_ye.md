@@ -24,9 +24,15 @@ its end and part of vs. 6 (which next follows) are defaced.
 May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of the chronic malady the uppermost and lowest bond.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒मू ये दि॒वि सु॒भगे॑ वि॒चृतौ॒ नाम॒ तार॑के।  
+वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒मू इति॑। ये इति॑। दि॒वि। सु॒भगे॒ इति॑। सु॒ऽभगे॑। वि॒ऽचृतौ॑। नाम॑। तार॑के॒ इति॑। वि। क्षे॒त्रि॒यस्य॑। मु॒ञ्च॒ता॒म्। अ॒ध॒मम्। पाश॑म्। उ॒त्ऽत॒मम्। ७.४। 
+अ॒मू इति॑। ये इति॑। दि॒वि। सु॒भगे॒ इति॑। सु॒ऽभगे॑। वि॒ऽचृतौ॑। नाम॑। तार॑के॒ इति॑। वि। क्षे॒त्रि॒यस्य॑। मु॒ञ्च॒ता॒म्। अ॒ध॒मम्। पाश॑म्। उ॒त्ऽत॒मम्। ७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of th
 
 टिप्पणी:   ४−(अमू)। परिदृश्यमाने। (ये)। ज्ञाते। (दिवि)। द्युलोके। आकाशे। (सुभगे)। शोभनैश्वर्ययुक्ते। शिष्टं व्याख्यातम्-अ० २।८।१ ॥
 </details>
-

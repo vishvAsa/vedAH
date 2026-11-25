@@ -8,9 +8,15 @@ title = "२१ आ पप्राथ"
 Thou, Hero, hast performed thy hero deeds with might, yea, all with strength, O Strongest One. Maghavan, help us to a stable full of kine, O Thunderer, with wondrous aids.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ प॑प्राथ महि॒ना वृष्ण्या॑ वृष॒न्विश्वा॑ शविष्ठ॒ शव॑सा।  
+अ॒स्माँ अ॑व मघव॒न्गोम॑ति व्र॒जे वज्रि॑ञ्चि॒त्राभि॑रू॒तिभिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। प॒प्रा॒थ॒। म॒हि॒ना। वृष्ण्या॑। वृ॒ष॒न्। विश्वा॑। श॒वि॒ष्ठ॒। शव॑सा। अ॒स्मान्। अ॒व॒। म॒घ॒ऽव॒न्। गोऽम॑ति। व्र॒जे। वज्रि॑न्। चि॒त्राभिः॑। ऊ॒तिऽभिः॑। ९२.२१। 
+आ। प॒प्रा॒थ॒। म॒हि॒ना। वृष्ण्या॑। वृ॒ष॒न्। विश्वा॑। श॒वि॒ष्ठ॒। शव॑सा। अ॒स्मान्। अ॒व॒। म॒घ॒ऽव॒न्। गोऽम॑ति। व्र॒जे। वज्रि॑न्। चि॒त्राभिः॑। ऊ॒तिऽभिः॑। ९२.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Thou, Hero, hast performed thy hero deeds with might, yea, all with strength, O 
 
 टिप्पणी:   मन्त्र २०, २१ आचुके हैं-अ० २०।८१।१, २ ॥  २०, २१−व्याख्यातौ-अ० २०।८१।१, २ ॥
 </details>
-

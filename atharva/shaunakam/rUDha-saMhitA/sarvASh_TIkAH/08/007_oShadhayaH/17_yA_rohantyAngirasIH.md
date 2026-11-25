@@ -20,9 +20,15 @@ h.*⌋
 May these be pleasant to our heart, auspicious, rich in store of milk, These Plants of the Angirases which grow on mountains and on plains.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+या रोह॑न्त्याङ्गिर॒सीः पर्व॑तेषु स॒मेषु॑ च।  
+ता नः॒ पय॑स्वतीः शि॒वा ओष॑धीः सन्तु॒ शं हृ॒दे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। रोह॑न्ति। आ॒ङ्गि॒र॒सीः। पर्व॑तेषु। स॒मेषु॑। च॒। ताः। नः॒। पय॑स्वतीः। शि॒वाः। ओष॑धीः। स॒न्तु॒। शम्। हृ॒दे। ७.१७। 
+याः। रोह॑न्ति। आ॒ङ्गि॒र॒सीः। पर्व॑तेषु। स॒मेषु॑। च॒। ताः। नः॒। पय॑स्वतीः। शि॒वाः। ओष॑धीः। स॒न्तु॒। शम्। हृ॒दे। ७.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ May these be pleasant to our heart, auspicious, rich in store of milk, These Pla
 
 टिप्पणी:   १७−(याः) (रोहन्ति) उद्भवन्ति (आङ्गिरसीः) अ० ८।५।९। ऋषिभिः प्रोक्ताः (पर्वतेषु) (शैलेषु) (समेषु) साधुस्थानेषु (च) (ताः) (नः) अस्माकम् (पयस्वतीः) दुग्धवत्यः (शिवाः) कल्याण्यः (ओषधीः) तापनाशका अन्नादिपदार्थाः (सन्तु) (शम्) शान्ताः (हृदे) हृदयाय ॥
 </details>
-

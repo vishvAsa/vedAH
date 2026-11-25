@@ -8,9 +8,15 @@ title = "०५ अपामूर्मिर्मदन्निव स्त
 Indra, thy laud moves quickly like a joyous wave of waters: bright. Have shone the drops that gladden thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒पामू॒र्मिर्मद॑न्निव॒ स्तोम॑ इन्द्राजिरायते।  
+वि ते॒ मदा॑ अराजिषुः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पाम्। ऊ॒र्मिः। मद॑न्ऽइव। स्तोमः॑। इ॒न्द्र॒। अ॒जि॒र॒य॒ते॒। वि। ते॒। मदाः॑। अ॒रा॒जि॒षुः॒। ३९.५। 
+अ॒पाम्। ऊ॒र्मिः। मद॑न्ऽइव। स्तोमः॑। इ॒न्द्र॒। अ॒जि॒र॒य॒ते॒। वि। ते॒। मदाः॑। अ॒रा॒जि॒षुः॒। ३९.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Indra, thy laud moves quickly like a joyous wave of waters: bright. Have shone t
 
 टिप्पणी:   −मन्त्राः २- व्याख्याताः-अ०२०।२८।१-४॥
 </details>
-

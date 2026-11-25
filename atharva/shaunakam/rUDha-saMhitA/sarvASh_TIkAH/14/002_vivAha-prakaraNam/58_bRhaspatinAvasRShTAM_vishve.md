@@ -18,9 +18,15 @@ omits one (58), and puts 55 after 56.
 Her whom Brihaspati hath freed the Visve Devas keep secure. With all the store of sap that cows contain do we enrich this. girl.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+बृह॒स्पति॒नाव॑सृष्टां॒ विश्वे॑ दे॒वा अ॑धारयन्।  
+रसो॒ गोषु॒ प्रवि॑ष्टो॒यस्तेने॒मां सं सृ॑जामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-बृह॒स्पति॑ना। अव॑ऽसृष्टाम्। विश्वे॑। दे॒वाः। अ॒धा॒र॒य॒न्। रसः॑। गोषु॑। प्रऽवि॑ष्टः। यः। तेन॑। इ॒माम्। सम्। सृ॒जा॒म॒सि॒। इ॒माम्। सम्। सृ॒जा॒म॒सि॒। २.५८। 
+बृह॒स्पति॑ना। अव॑ऽसृष्टाम्। विश्वे॑। दे॒वाः। अ॒धा॒र॒य॒न्। रसः॑। गोषु॑। प्रऽवि॑ष्टः। यः। तेन॑। इ॒माम्। सम्। सृ॒जा॒म॒सि॒। इ॒माम्। सम्। सृ॒जा॒म॒सि॒। २.५८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Her whom Brihaspati hath freed the Visve Devas keep secure. With all the store o
 
 टिप्पणी:   ५८−(रसः) वीर्यम्। वीररसः। अन्यद् गतम् ॥
 </details>
-

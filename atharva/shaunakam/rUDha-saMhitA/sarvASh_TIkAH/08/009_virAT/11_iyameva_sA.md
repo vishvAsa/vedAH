@@ -22,9 +22,15 @@ also, it inverts the order of **c** and **d**⌋.
 She here who first of all sent forth her lustre moves onward resting on these lower creatures. Exalted power and might are stored within her: the woman hath prevailed, the new-come mother.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒यमे॒व सा या प्र॑थ॒मा व्यौच्छ॑दा॒स्वित॑रासु चरति॒ प्रवि॑ष्टा।  
+म॒हान्तो॑ अस्यां महि॒मानो॑ अ॒न्तर्व॒धूर्जि॑गाय नव॒गज्जनि॑त्री ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒यम्। ए॒व। सा। या। प्र॒थ॒मा। वि॒ऽऔच्छ॑त्। आ॒सु। इत॑रासु। च॒र॒ति॒। प्रऽवि॑ष्टा। म॒हान्तः॑। अ॒स्या॒म्। म॒हि॒मानः॑। अ॒न्तः। व॒धूः। जि॒गा॒य॒। न॒व॒ऽगत्। जनि॑त्री। ९.११। 
+इ॒यम्। ए॒व। सा। या। प्र॒थ॒मा। वि॒ऽऔच्छ॑त्। आ॒सु। इत॑रासु। च॒र॒ति॒। प्रऽवि॑ष्टा। म॒हान्तः॑। अ॒स्या॒म्। म॒हि॒मानः॑। अ॒न्तः। व॒धूः। जि॒गा॒य॒। न॒व॒ऽगत्। जनि॑त्री। ९.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ She here who first of all sent forth her lustre moves onward resting on these lo
 
 टिप्पणी:   ११−(इयम्) परिदृश्यमाना विराट् (एव) (सा) ईश्वरी (या) विराट्। अन्यत् पूर्ववत्-अ० ३।१०।४ ॥
 </details>
-

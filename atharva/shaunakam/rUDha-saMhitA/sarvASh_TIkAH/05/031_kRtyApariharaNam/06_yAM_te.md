@@ -18,9 +18,15 @@ witchcraft they have made—I take that back again.
 The spell that they have cast upon thy public room thy gambl- ing-board, Spell they have cast upon thy dice, this I strike back again on them.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यां ते॑ च॒क्रुः स॒भायां॒ यां च॒क्रुर॑धि॒देव॑ने।  
+अ॒क्षेषु॑ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याम्। ते॒। च॒क्रुः। स॒भाया॑म्। याम्। च॒क्रुः। अ॒धि॒ऽदेव॑ने। अ॒क्षेषु॑। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.६। 
+याम्। ते॒। च॒क्रुः। स॒भाया॑म्। याम्। च॒क्रुः। अ॒धि॒ऽदेव॑ने। अ॒क्षेषु॑। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The spell that they have cast upon thy public room thy gambl- ing-board, Spell t
 
 टिप्पणी:   ६−(सभायाम्) सह भान्ति यत्र। समाजे (अधिदेवने) दिवु क्रीडादिषु−ल्युट्। उपवनादौ क्रीडास्थाने (अक्षेषु) अ० ४।३८।५। व्यवहारेषु। अन्यद् गतम् ॥
 </details>
-

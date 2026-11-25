@@ -17,9 +17,15 @@ The comm. glosses the verb with *nāśaya*.
 Split thou my rivals, Darbha, etc. (as in 1, with 'split' for 'pierce' throughout).
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तृ॒न्द्धि द॑र्भ स॒पत्ना॑न्मे तृ॒न्द्धि मे॑ पृतनाय॒तः।  
+तृ॒न्द्धि मे॒ सर्वा॑न्दु॒र्हार्दो॑ तृ॒न्द्धि मे॑ द्विष॒तो म॑णे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तृ॒न्द्धि। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। तृ॒न्द्धि। मे॒। पृ॒त॒ना॒ऽय॒तः। तृ॒न्द्धि। मे॒। सर्वा॑न्। दुः॒ऽहार्दः॑। तृ॒न्द्धि। मे॒। द्वि॒ष॒तः। म॒णे॒। २९.२। 
+तृ॒न्द्धि। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। तृ॒न्द्धि। मे॒। पृ॒त॒ना॒ऽय॒तः। तृ॒न्द्धि। मे॒। सर्वा॑न्। दुः॒ऽहार्दः॑। तृ॒न्द्धि। मे॒। द्वि॒ष॒तः। म॒णे॒। २९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Split thou my rivals, Darbha, etc. (as in 1, with 'split' for 'pierce' throughou
 
 टिप्पणी:   २−(तृन्धि) उतृदिर् हिंसानादरयोः। विनाशय ॥
 </details>
-

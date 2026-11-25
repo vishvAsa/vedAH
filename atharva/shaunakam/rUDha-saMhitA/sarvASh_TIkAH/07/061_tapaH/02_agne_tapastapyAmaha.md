@@ -20,9 +20,15 @@ takes it as equivalent to simple *tapya.*
 Agni, we practise acts austere, we undergo austerity. So listening to Holy Lore may we grow wise and full of days.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॒ तप॑स्तप्यामह॒ उप॑ तप्यामहे॒ तपः॑।  
+श्रु॒तानि॑ शृ॒ण्वन्तो॑ व॒यमायु॑ष्मन्तः सुमे॒धसः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। तपः॑। त॒प्या॒म॒हे॒। उप॑। त॒प्या॒म॒हे॒। तपः॑। श्रु॒तानि॑। शृ॒ण्वन्तः॑। व॒यम्। आयु॑ष्मन्तः। सु॒ऽमे॒धसः॑। ६३.२। 
+अग्ने॑। तपः॑। त॒प्या॒म॒हे॒। उप॑। त॒प्या॒म॒हे॒। तपः॑। श्रु॒तानि॑। शृ॒ण्वन्तः॑। व॒यम्। आयु॑ष्मन्तः। सु॒ऽमे॒धसः॑। ६३.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Agni, we practise acts austere, we undergo austerity. So listening to Holy Lore 
 
 टिप्पणी:   २−(तप्यामहे) साधयामः (श्रुतानि) वेदशास्त्राणि (शृण्वन्तः) श्रवणेन स्वीकुर्वन्तः। अन्यत् पूर्ववत्-म० १ ॥
 </details>
-

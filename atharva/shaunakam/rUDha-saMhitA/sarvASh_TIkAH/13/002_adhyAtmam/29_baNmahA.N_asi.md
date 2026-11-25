@@ -25,9 +25,15 @@ panasyate ‘ddhā́ deva mahā́ṅ asi;* ⌊the vs. is repeated in RV. form at
 Verily, Surya, thou art great: truly, Aditya, thou art great. Great is thy grandeur, Mighty One: thou, O Aditya, thou art great.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+बण्म॒हाँ अ॑सि सूर्य॒ बडा॑दित्य म॒हाँ अ॑सि।  
+म॒हांस्ते॑ मह॒तो म॑हि॒मा त्वमा॑दित्य म॒हाँ अ॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-बट्। म॒हान्। अ॒सि॒। सू॒र्य॒। बट्। आ॒दि॒त्य॒। म॒हान्। अ॒सि॒। म॒हान्। ते॒। म॒ह॒तः। म॒हि॒मा। त्वम्। आ॒दि॒त्य॒। म॒हान्। अ॒सि॒। २.२९। 
+बट्। म॒हान्। अ॒सि॒। सू॒र्य॒। बट्। आ॒दि॒त्य॒। म॒हान्। अ॒सि॒। म॒हान्। ते॒। म॒ह॒तः। म॒हि॒मा। त्वम्। आ॒दि॒त्य॒। म॒हान्। अ॒सि॒। २.२९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Verily, Surya, thou art great: truly, Aditya, thou art great. Great is thy grand
 
 टिप्पणी:   २९−(बट्) बट वेष्टनसामर्थ्यादिषु-क्विप्। सत्यम्-निघ० ३।१० (महान्) विशालः। पूजनीयः (असि) (सूर्य) सर्वप्रेरक परमेश्वर (बट्) (आदित्य) हे अविनाशिन् (महान्) (असि) (महान्) (ते) तव (महतः) पूजनीयस्य (महिमा) महत्त्वम् (त्वम्) (आदित्य) हे आदीप्यमान परमेश्वर (महान्) (असि) ॥
 </details>
-

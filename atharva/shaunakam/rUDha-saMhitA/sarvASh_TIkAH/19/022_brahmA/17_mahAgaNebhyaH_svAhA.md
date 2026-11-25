@@ -16,9 +16,14 @@ title = "१७ महागणेभ्यः स्वाहा"
 To the great Ganas, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+म॑हाग॒णेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-म॒हा॒ऽग॒णेभ्यः॑। स्वाहा॑। २२.१७। 
+म॒हा॒ऽग॒णेभ्यः॑। स्वाहा॑। २२.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ To the great Ganas, Hail!
 
 टिप्पणी:   १७−(महागणेभ्यः) महासमूहेभ्यः ॥
 </details>
-

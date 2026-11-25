@@ -17,9 +17,14 @@ title = "१८ चरुं पञ्चबिलमुखम्"
 The caldron flames round the oblation (charu) whose mouth consists of five openings.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+च॒रुं पञ्च॑बिलमु॒खं घ॒र्मो॒३॒॑भीन्धे॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-च॒रुम्। पञ्च॑ऽबिलम्। उ॒खम्। घ॒र्मः। अ॒भि। इ॒न्धे॒। ३.१८। 
+च॒रुम्। पञ्च॑ऽबिलम्। उ॒खम्। घ॒र्मः। अ॒भि। इ॒न्धे॒। ३.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ The caldron flames round the oblation (charu) whose mouth consists of five openi
 
 टिप्पणी:   १८−(चरुम्) पाकपात्रम् (पञ्चबिलम्) पञ्च पृथिवीजलतेजोवाय्वाकाशरूपाणि बिलानि च्छिद्राणि यस्मिन् तम् (उखम्) पुंस्त्वं छान्दसम्। उखां स्थालीम् (घर्मः) घर्मग्रीष्मौ। उ० १।१४९। घृ दीप्तौ-मक्, गुणो निपातितः। आतपः। ग्रीष्मः। सूर्यः (अभि) प्रति (इन्धे) दीप्यते ॥
 </details>
-

@@ -18,9 +18,14 @@ separately described by the Anukr.
 य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥२४॥
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। ए॒तम्। दे॒वम्। ए॒क॒ऽवृत॑म्। वेद॑। ६.३। 
+यः। ए॒तम्। दे॒वम्। ए॒क॒ऽवृत॑म्। वेद॑। ६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ separately described by the Anukr.
 
 टिप्पणी:   २४−अयं व्याख्यातः-म० १५ ॥
 </details>
-

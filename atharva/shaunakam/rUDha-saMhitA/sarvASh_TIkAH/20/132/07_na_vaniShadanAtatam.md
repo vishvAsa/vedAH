@@ -5,12 +5,17 @@ title = "०७ न वनिषदनाततम्"
 
 <details><summary>Griffith</summary>
 
-He shall not gain it unspread out. 
+He shall not gain it unspread out.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+न व॑निष॒दना॑ततम् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-न। व॑निष॒त्। अना॑ततम्। १३२.७। 
+न। व॑निष॒त्। अना॑ततम्। १३२.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ He shall not gain it unspread out.
 
 टिप्पणी:   ७−(न) निषेधे (वनिषत्) म० ६। याचतां सः (अनाततम्) अविस्तृतम्। सङ्कुचितं पदार्थम् ॥
 </details>
-

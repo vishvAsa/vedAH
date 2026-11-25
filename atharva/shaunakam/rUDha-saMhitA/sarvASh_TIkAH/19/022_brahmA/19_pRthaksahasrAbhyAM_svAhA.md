@@ -16,9 +16,14 @@ title = "१९ पृथक्सहस्राभ्यां स्वाह
 To those two with separate thousands, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पृ॑थक्स॒ह॒स्राभ्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पृ॒थ॒क्ऽस॒ह॒स्राभ्या॑म्। स्वाहा॑। २२.१९। 
+पृ॒थ॒क्ऽस॒ह॒स्राभ्या॑म्। स्वाहा॑। २२.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ To those two with separate thousands, Hail!
 
 टिप्पणी:   १९−(पृथक्सहस्राभ्याम्) व्यक्तिजन्यसहस्रजन्याभ्यां समूहाभ्याम् ॥
 </details>
-

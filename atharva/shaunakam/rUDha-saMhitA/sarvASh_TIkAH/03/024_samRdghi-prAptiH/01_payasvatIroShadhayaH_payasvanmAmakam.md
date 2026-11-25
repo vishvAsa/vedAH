@@ -22,9 +22,15 @@ payasvatāṁ paya ā harāmi sahasraśaḥ*.
 The plants of earth are rich in milk, and rich in milk is this my word, So from the rich in milk I bring thousandfold profit hitherward.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पय॑स्वती॒रोष॑धयः॒ पय॑स्वन्माम॒कं वचः॑।  
+अथो॒ पय॑स्वतीना॒मा भ॑रे॒ऽहं स॑हस्र॒शः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पय॑स्वतीः। ओष॑धयः। पय॑स्वत्। मा॒म॒कम्। वचः॑। अथो॒ इति॑। पय॑स्वतीनाम्। आ। भ॒रे॒। अ॒हम्। स॒हस्र॒ऽशः। २४.१। 
+पय॑स्वतीः। ओष॑धयः। पय॑स्वत्। मा॒म॒कम्। वचः॑। अथो॒ इति॑। पय॑स्वतीनाम्। आ। भ॒रे॒। अ॒हम्। स॒हस्र॒ऽशः। २४.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ The plants of earth are rich in milk, and rich in milk is this my word, So from 
 
 टिप्पणी:   १−(पयस्वतीः) पयस्वत्यः। सारवत्यः (ओषधयः) अ० १।२३।१। व्रीहियवाद्याः (पयस्वत्) सारयुक्तम्। (मामकम्) मदीयम्। [वचः] वचनम्। (अथो) अपि च। (पयस्वतीनाम्) कर्मणि षष्ठी। सारवतीनामोषधीनाम्। (आ) समन्तात् (भरे) भरामि। [सहस्रशः] वह्लल्पार्थाच्छस्कारकादन्यतरस्याम्। पा० ५।४।४२। इति सहस्र-शस्। बहुप्रकारेण ॥
 </details>
-

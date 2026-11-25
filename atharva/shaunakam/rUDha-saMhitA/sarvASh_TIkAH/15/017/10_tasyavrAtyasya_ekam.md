@@ -18,9 +18,15 @@ Except two (D.R.), all the mss. accent *éṣām*.
 That one immortality of theirs is just an oblation.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्य॒व्रात्य॑स्य।  
+एकं॒ तदे॑षाममृत॒त्वमित्याहु॑तिरे॒व ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-एक॑म्। तत्। ए॒षा॒म्। अ॒मृ॒त॒ऽत्वम्। इति॑। आऽहु॑तिः। ए॒व। १७.१०। 
+एक॑म्। तत्। ए॒षा॒म्। अ॒मृ॒त॒ऽत्वम्। इति॑। आऽहु॑तिः। ए॒व। १७.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ That one immortality of theirs is just an oblation.
 
 टिप्पणी:   १०−(एकम्)केवलम् (तत्) प्रसिद्धम् (एषाम्) देवानाम्। विदुषाम् (अमृतत्वम्) अमरणम्।जीवनम्। पुरुषार्थम् (इति) एवं निश्चितम् (आहुतिः) समन्ताद् दानक्रिया (एव)अवधारणे ॥
 </details>
-

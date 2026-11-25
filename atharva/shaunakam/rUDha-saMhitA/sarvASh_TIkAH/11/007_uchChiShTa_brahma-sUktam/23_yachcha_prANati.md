@@ -17,9 +17,15 @@ remnant were born all the gods in heaven, heaven-resorters.
 All things that breathe the breath of life, all creatures that have eyes to see, All the celestial Gods whose home is heaven sprang from the Residue.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यच्च॑ प्रा॒णति॑ प्रा॒णेन॒ यच्च॒ पश्य॑ति॒ चक्षु॑षा।  
+उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। च॒। प्रा॒णति॑। प्रा॒णेन॑। यत्। च॒। पश्य॑ति। चक्षु॑षा। उत्ऽशि॑ष्टात्। ज॒ज्ञि॒रे॒। सर्वे॑। दि॒वि। दे॒वाः। दि॒वि॒ऽश्रितः॑। ९.२३। 
+यत्। च॒। प्रा॒णति॑। प्रा॒णेन॑। यत्। च॒। पश्य॑ति। चक्षु॑षा। उत्ऽशि॑ष्टात्। ज॒ज्ञि॒रे॒। सर्वे॑। दि॒वि। दे॒वाः। दि॒वि॒ऽश्रितः॑। ९.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ All things that breathe the breath of life, all creatures that have eyes to see,
 
 टिप्पणी:   २३−(यत्) यत् किञ्चित् जगत् (च) (प्राणति) प्रकर्षेण जीवति (प्राणेन) श्वासप्रश्वासव्यापारेण (यत् च) (पश्यति) अवलोकयति (चक्षुषा) नेत्रेण (उच्छिष्टात्) म० १। शेषात्परमेश्वरात् (जज्ञिरे) उत्पन्ना बभूवुः (सर्वे) (दिवि) आकाशे वर्तमानाः (देवाः) दिवु गतौ-पचाद्यच्। गतिमन्तो लोकाः (दिविश्रितः) दिवि सूर्ये सूर्याकर्षणे स्थिताः ॥
 </details>
-

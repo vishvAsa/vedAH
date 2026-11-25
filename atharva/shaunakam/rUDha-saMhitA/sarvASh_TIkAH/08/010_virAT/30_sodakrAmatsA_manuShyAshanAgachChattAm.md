@@ -23,9 +23,14 @@ the beginning in our text.
 One would ward off, for him who hath this knowledge, if with a bottle-gourd he sprinkled water.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोद॑क्राम॒त्सा म॑नु॒ष्याश॒३॒॑नाग॑च्छ॒त्तां म॑नु॒ष्या᳡ अघ्नत॒ सा स॒द्यः सम॑भवत्।
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अ॒क्रा॒म॒त्। सा। म॒नु॒ष्या᳡न्। आ। अ॒ग॒च्छ॒त्। ताम्। म॒नु॒ष्याः᳡। अ॒घ्न॒त॒। सा। स॒द्यः। सम्। अ॒भ॒व॒त्। १२.७। 
+सा। उत्। अ॒क्रा॒म॒त्। सा। म॒नु॒ष्या᳡न्। आ। अ॒ग॒च्छ॒त्। ताम्। म॒नु॒ष्याः᳡। अ॒घ्न॒त॒। सा। स॒द्यः। सम्। अ॒भ॒व॒त्। १२.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ One would ward off, for him who hath this knowledge, if with a bottle-gourd he s
 
 टिप्पणी:   ७−(मनुष्यान्) मननशीलान् मनुष्यान् (सद्यः) अ० २।१।४। तत्क्षणम्। अन्यत् सुगमम् ॥
 </details>
-

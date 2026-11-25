@@ -14,9 +14,15 @@ title = "०२ या ते"
 Here is thine own desire for wealth: through this be gracious unto us. Joying in food and in the growth of riches, may we thy neigh- bours, Agni, ne'er be injured.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+या ते॒ वसो॒र्वात॒ इषुः॒ सा त॑ ए॒षा तया॑ नो मृड।  
+रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-या। ते॒। वसोः॑। वातः॑। इषुः॑। सा। ते॒। ए॒षा। तया॑। नः॒। मृ॒ड॒। रा॒यः। पोषे॑ण। सम्। इ॒षा। मद॑न्तः। मा। ते॒। अ॒ग्ने॒। प्रति॑ऽवेशाः। रि॒षा॒म॒। ५५.२। 
+या। ते॒। वसोः॑। वातः॑। इषुः॑। सा। ते॒। ए॒षा। तया॑। नः॒। मृ॒ड॒। रा॒यः। पोषे॑ण। सम्। इ॒षा। मद॑न्तः। मा। ते॒। अ॒ग्ने॒। प्रति॑ऽवेशाः। रि॒षा॒म॒। ५५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +52,3 @@ Here is thine own desire for wealth: through this be gracious unto us. Joying in
 
 टिप्पणी:   २−(या) इच्छा (ते) तव (वसोः) श्रेष्ठपदार्थस्य (वातः) वा गतिगन्धनयोः-शतृ। गच्छतः पुरुषस्य (इषुः) इच्छा (सा) तादृशी (ते) तव (एषा) इच्छा वर्तते (तया) इच्छया (नः) अस्मान् (मृड) सुखय। अन्यत् पूर्ववत्-म० १ ॥
 </details>
-

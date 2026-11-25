@@ -35,9 +35,15 @@ meter at the beginning of **b**.⌋
 Come hither, Fathers, who deserve the Soma, by the deep path- ways which the Fathers travel. Bestow upon us life and store of children, and favour us with increase of our riches.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ या॑त पितरःसो॒म्यासो॑ गम्भी॒रैः प॒थिभिः॑ पितृ॒याणैः॑।  
+आयु॑र॒स्मभ्यं॒ दध॑तः प्र॒जां च॑रा॒यश्च॒ पोषै॑र॒भि नः॑ सचध्वम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। या॒त॒। पि॒त॒रः॒। सो॒म्यासः॑। ग॒म्भी॒रैः। प॒थिऽभिः॑। पि॒तृ॒ऽयानैः॑। आयुः॑। अ॒स्मभ्य॑म्। दध॑तः। प्र॒ऽजाम्। च॒। रा॒यः। च॒। पोषैः॑। अ॒भि। नः॒। स॒च॒ध्व॒म्। ४.६२। 
+आ। या॒त॒। पि॒त॒रः॒। सो॒म्यासः॑। ग॒म्भी॒रैः। प॒थिऽभिः॑। पि॒तृ॒ऽयानैः॑। आयुः॑। अ॒स्मभ्य॑म्। दध॑तः। प्र॒ऽजाम्। च॒। रा॒यः। च॒। पोषैः॑। अ॒भि। नः॒। स॒च॒ध्व॒म्। ४.६२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -67,4 +73,3 @@ Come hither, Fathers, who deserve the Soma, by the deep path- ways which the Fat
 
 टिप्पणी:   ६२−(आ यात) आगच्छत (पितरः) हेपालका ज्ञानिनः (सोम्यासः) प्रियदर्शना यूयम् (गम्भीरैः) गभीरगम्भीरौ। उ० ४।३५।गम्लृ गतौ-ईरन् नुगागमः। शान्तैः। गहनैः (पथिभिः) मार्गैः (पितृयाणैः)पितृभिर्गमनयोग्यैः (ददतः) प्रयच्छन्तः (सचध्वम्) सिञ्चत। अन्यद् गतम् अ० ९।४।२२॥
 </details>
-

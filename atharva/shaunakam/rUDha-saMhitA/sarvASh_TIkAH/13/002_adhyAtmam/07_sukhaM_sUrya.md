@@ -22,9 +22,15 @@ redundant syllable in **b** as balanced by the deficiency in **a**. ⌊Cf.
 Mount thy strong car, O Surya, lightly rolling, drawn by good steeds, propitious, brightly gleaming, Whirled by thy bays, most excellent at drawing, thy hundred horses or seven goodly coursers.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सु॒खं सू॑र्य॒ रथ॑मंशु॒मन्तं॑ स्यो॒नं सु॒वह्नि॒मधि॑ तिष्ठ वा॒जिन॑म्।  
+यं ते॒ वह॑न्ति ह॒रितो॒ वहि॑ष्ठाः श॒तमश्वा॒ यदि॑ वा स॒प्त ब॒ह्वीः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सु॒ऽखम्। सूर्य॑। रथ॑म्। अं॒शु॒ऽमन्त॑म्। स्यो॒नम्। सु॒ऽवह्नि॑म्। अधि॑। ति॒ष्ठ॒। वा॒जिन॑म्। यम्। ते॒। वह॑न्ति। ह॒रितः॑। वहि॑ष्ठाः। श॒तम्। अश्वाः॑। यदि॑। वा॒। स॒प्त। ब॒ह्वीः। 2.७। 
+सु॒ऽखम्। सूर्य॑। रथ॑म्। अं॒शु॒ऽमन्त॑म्। स्यो॒नम्। सु॒ऽवह्नि॑म्। अधि॑। ति॒ष्ठ॒। वा॒जिन॑म्। यम्। ते॒। वह॑न्ति। ह॒रितः॑। वहि॑ष्ठाः। श॒तम्। अश्वाः॑। यदि॑। वा॒। स॒प्त। ब॒ह्वीः। 2.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Mount thy strong car, O Surya, lightly rolling, drawn by good steeds, propitious
 
 टिप्पणी:   ७−(सुखम्) सुखेन गच्छन्तम् (सूर्य) रविमण्डल (रथम्) म० ६। गतिविधानम् (अंशुमन्तम्) तेजोमयम् (स्योनम्) सुखप्रदम् (सुवह्निम्) सुवोढारम् (अधि तिष्ठ) आरोह (वाजिनम्) बलवन्तम्। अन्यत् पूर्ववत्-म० ६ ॥
 </details>
-

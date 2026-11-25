@@ -20,9 +20,14 @@ nomenclature affords no ⌊simple⌋ name for one of 23 syllables.
 Verily when a host looks at his guests he looks at the place of sacrifice to the Gods.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्वा अति॑थिपति॒रति॑थीन्प्रति॒पश्य॑ति देव॒यज॑नं॒ प्रेक्ष॑ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। वै। अति॑थिऽपतिः। अति॑थीन्। प्र॒ति॒ऽपश्य॑ति। दे॒व॒ऽयजन॑म्। प्र। ई॒क्ष॒ते॒। ६.३। 
+यत्। वै। अति॑थिऽपतिः। अति॑थीन्। प्र॒ति॒ऽपश्य॑ति। दे॒व॒ऽयजन॑म्। प्र। ई॒क्ष॒ते॒। ६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ Verily when a host looks at his guests he looks at the place of sacrifice to the
 
 टिप्पणी:   ३−(यत्) यदा (वै) निश्चयेन (अतिथिपतिः) अतिथीनां पालकः (अतिथीन्) अ० ७।२१।१। अत सातत्यगमने−इथिन्। नित्यप्रापणीयान् महामान्यान्। विदुषः पुरुषान् (प्रतिपश्यति) प्रतीक्षया पश्यति (देवयजनम्) उत्तमगुणानां संगतिकरणम् (प्र) प्रकर्षेण (ईक्षते) अवलोकयति ॥
 </details>
-

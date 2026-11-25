@@ -27,9 +27,15 @@ VS. is quite different: *dh. dh. mánasā vācā́ sómam áva nayāmi: áthā n
 We laid the constant Soma on with constant sacrificial gift, That Indra may make all the tribes unanimous and only ours.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ध्रु॒वं ध्रु॒वेण॑ ह॒विषाव॒ सोमं॑ नयामसि।  
+यथा॑ न॒ इन्द्रः॒ केव॑ली॒र्विशः॒ संम॑नस॒स्कर॑त् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ध्रु॒वम्। ध्रु॒वेण॑। ह॒विषा॑। अव॑। सोम॑म्। न॒या॒म॒सि॒। यथा॑। नः॒। इन्द्रः॑। केव॑लीः। विशः॑। सम्ऽम॑नसः। कर॑त्। ९९.१। 
+ध्रु॒वम्। ध्रु॒वेण॑। ह॒विषा॑। अव॑। सोम॑म्। न॒या॒म॒सि॒। यथा॑। नः॒। इन्द्रः॑। केव॑लीः। विशः॑। सम्ऽम॑नसः। कर॑त्। ९९.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ We laid the constant Soma on with constant sacrificial gift, That Indra may make
 
 टिप्पणी:   १−(ध्रुवम्) ध्रु स्थैर्ये-अच्। स्थिरम् (ध्रुवेण) दृढेन (हविषा) आत्मदानेन (सोमम्) षु ऐश्वर्ये-मन्। ऐश्वर्यवन्तम् (अत्र नयामसि) स्वीकुर्मः (यथा) येन प्रकारेण (नः) अस्मभ्यम् (इन्द्रः) प्रतापी (केवलीः) अ० ३।१८।२। केवल-ङीप्। सेवास्वभावाः। सेवनीयाः (विशः) प्रजाः (संमनसः) समानमनस्काः (करत्) कुर्यात् ॥
 </details>
-

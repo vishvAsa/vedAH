@@ -21,9 +21,15 @@ RV. reads *áhā* in **b**. S V. (i. 639) has the same, and also *úd* for
 Traversing sky and wide mid-air, thou metest with thy beams our days, Sun, seeing all things that have life.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि द्यामे॑षि॒ रज॑स्पृ॒थ्वह॒र्मिमा॑नो अ॒क्तुभिः॑।  
+पश्य॒ञ्जन्मा॑नि सूर्य ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि। द्याम्। ए॒षि॒। रजः॑। पृ॒थु। अहः॑। मिमा॑नः। अ॒क्तुऽभिः॑। पश्य॑न्। जन्मा॑नि। सू॒र्य॒। २.२२। 
+वि। द्याम्। ए॒षि॒। रजः॑। पृ॒थु। अहः॑। मिमा॑नः। अ॒क्तुऽभिः॑। पश्य॑न्। जन्मा॑नि। सू॒र्य॒। २.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Traversing sky and wide mid-air, thou metest with thy beams our days, Sun, seein
 
 टिप्पणी:   २२−(वि) विविधम् (द्याम्) कालाध्वनोरत्यन्तसंयोगे। पा० २।३।५। इति द्वितीया। आकाशे (एषि) प्राप्नोषि (रजः) लोकम् (पृथु) विस्तृतम् (अहः) दिनम् (मिमानः) रचयन् सन् (अक्तुभिः) रात्रिभिः (पश्यन्) दर्शयन् (जन्मानि) उत्पन्नानि वस्तूनि (सूर्य) लोकप्रेरक रविमण्डल ॥
 </details>
-

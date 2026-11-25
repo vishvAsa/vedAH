@@ -16,9 +16,14 @@ title = "०७ पर्यायिकेभ्यः स्वाहा"
 To those composed in strophes, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प॑र्यायि॒केभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प॒र्या॒यि॒केभ्यः॑। स्वाहा॑। २२.७। 
+प॒र्या॒यि॒केभ्यः॑। स्वाहा॑। २२.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ To those composed in strophes, Hail!
 
 टिप्पणी:   ७−(पर्यायिकेभ्यः) अत इनिठनौ। पा०५।२।११५। पर्याय-ठन्। अनुक्रमयुक्तेभ्यः ॥
 </details>
-

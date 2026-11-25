@@ -13,9 +13,14 @@ title = "०७ स उत्तमान्दिशमनु"
 He went away to the last region.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उ॑त्त॒मांदिश॒मनु॒ व्य᳡चलत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। उ॒त्ऽत॒माम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ६.७। 
+सः। उ॒त्ऽत॒माम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ६.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,4 +50,3 @@ He went away to the last region.
 
 टिप्पणी:   ७−(सः) व्रात्यः (उत्तमाम्) अतिशयेनोन्नताम्। अन्यद् गतम् ॥
 </details>
-

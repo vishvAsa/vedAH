@@ -18,9 +18,14 @@ Some of the mss. read *haviḥkṛ́tam*.
 When they call the man who prepares food they summon the preparer of oblation.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद॑शन॒कृतं॒ ह्वय॑न्ति हवि॒ष्कृत॑मे॒व तद्ध्व॑यन्ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। अ॒श॒न॒ऽकृत॑म्। ह्वय॑न्ति। ह॒विः॒ऽकृत॑म्। ए॒व। तत्। ह्व॒य॒न्ति॒। ६.१३। 
+यत्। अ॒श॒न॒ऽकृत॑म्। ह्वय॑न्ति। ह॒विः॒ऽकृत॑म्। ए॒व। तत्। ह्व॒य॒न्ति॒। ६.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ When they call the man who prepares food they summon the preparer of oblation.
 
 टिप्पणी:   १३−(यत्) यदा (अशनकृतम्) सूपकारम् (ह्वयन्ति) आह्वयन्ति (हविष्कृतम्) दातव्यादातव्यव्यवहाराणां कर्तारं परमेश्वरम् (एव) (तत्) तदा (ह्वयन्ति) ॥
 </details>
-

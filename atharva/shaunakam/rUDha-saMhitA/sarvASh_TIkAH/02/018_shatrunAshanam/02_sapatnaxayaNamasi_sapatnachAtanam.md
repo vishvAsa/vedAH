@@ -16,9 +16,14 @@ title = "०२ सपत्नक्षयणमसि सपत्नचात
 The rival's ruiner art thou, give me to drive my rivals off. All hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑पत्न॒क्षय॑णमसि सपत्न॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒प॒त्न॒ऽक्षय॑णम्। अ॒सि॒। स॒प॒त्न॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.२। 
+स॒प॒त्न॒ऽक्षय॑णम्। अ॒सि॒। स॒प॒त्न॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ The rival's ruiner art thou, give me to drive my rivals off. All hail!
 
 टिप्पणी:   २–सपत्नक्षयणम्। सह+पत गतौ, ऐश्ये–न, सहस्य सः। एकार्थे पतन्ति यतन्ते ते सपत्नाः। तेषां प्रकटशत्रूणां क्षयणं नाशनम्। अन्यद् गतम् ॥
 </details>
-

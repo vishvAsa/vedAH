@@ -21,9 +21,14 @@ syllables, which may be obtained in more than one way (most probably
 The ointment that they bring for injunction is just clarified liquid butter.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदा॑ञ्जनाभ्यञ्ज॒नमा॒हर॒न्त्याज्य॑मे॒व तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। आ॒ञ्ज॒न॒ऽअ॒भ्य॒ञ्ज॒नम्। आ॒ऽहर॑न्ति। आज्य॑म्। ए॒व। तत्। ६.११। 
+यत्। आ॒ञ्ज॒न॒ऽअ॒भ्य॒ञ्ज॒नम्। आ॒ऽहर॑न्ति। आज्य॑म्। ए॒व। तत्। ६.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ The ointment that they bring for injunction is just clarified liquid butter.
 
 टिप्पणी:   ११−(यत्) यदा (आञ्जनाभ्यञ्जनम्) अञ्जू व्यक्तिम्रक्षणकान्तिगतिषु-ल्युट्। सम्यक् चन्दनादिलेपनं तैलादिमर्दनं च (आहरन्ति) (आज्यम्) अ० ५।८।१। आङ्+अञ्जू व्यक्तौ-क्यप्। संसारस्य व्यक्तिकरं ब्रह्म (एव) (तत्) तदा ॥
 </details>
-

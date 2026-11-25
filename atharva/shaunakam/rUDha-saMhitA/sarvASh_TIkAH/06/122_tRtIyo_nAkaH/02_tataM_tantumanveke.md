@@ -33,9 +33,15 @@ also *te* for *cet* in **d**. \*⌊The Calc. ed. seems to have
 This long-drawn thread some follow who have offered in order- ed course oblation to the Fathers: Some, offering and giving to the friendless, if they can give: herein they find their heaven. 3, Stand on my side and range yourselves in order, ye two! The faithful reach this world of Svarga. When your dressed food hath been bestowed on Agni, to guard it, wife and husband, come together!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त॒तं तन्तु॒मन्वेके॑ तरन्ति॒ येषां॑ द॒त्तं पित्र्य॒माय॑नेन।  
+अ॑ब॒न्ध्वेके॒ दद॑तः प्र॒यच्छ॑न्तो॒ दातुं॒ चेच्छिक्षा॒न्त्स स्व॒र्ग ए॒व ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त॒तम्। तन्तु॑म्। अनु॑। एके॑। त॒र॒न्ति॒। येषा॑म्। द॒त्तम्। पित्र्य॑म्। आ॒ऽअय॑नेन। अ॒ब॒न्धु। एके॑। दद॑तः। प्र॒ऽयच्छ॑न्तः। दातु॑म्। च॒। इत्। शिक्षा॑न्। सः। स्वः॒ऽगः। ए॒व। १२२.२। 
+त॒तम्। तन्तु॑म्। अनु॑। एके॑। त॒र॒न्ति॒। येषा॑म्। द॒त्तम्। पित्र्य॑म्। आ॒ऽअय॑नेन। अ॒ब॒न्धु। एके॑। दद॑तः। प्र॒ऽयच्छ॑न्तः। दातु॑म्। च॒। इत्। शिक्षा॑न्। सः। स्वः॒ऽगः। ए॒व। १२२.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -65,4 +71,3 @@ This long-drawn thread some follow who have offered in order- ed course oblation
 
 टिप्पणी:   २−(ततम्) विस्तृतम् (तन्तुम्)−म० १। पटे सूत्रवत्सर्वव्यापकं ब्रह्म (अनु) अनुलक्ष्य (एके) केचन धीराः (तरन्ति) पारं गच्छन्ति (येषाम्) धीराणाम् (दत्तम्) दानम् (पित्र्यम्) अ० ६।१२०।२। पितॄणां प्रियम् (आयनेन) आ+अय गतौ−ल्युट्। आगमेन। यथाशास्त्रम् (अबन्धु) सुपां सुलुक्०। इति चतुर्थ्या लुक्। अबन्धुभ्यः। बन्धुरहितेभ्यः। अनाथेभ्यः (एके) सुजनाः (ददतः) दानं कुर्वन्तः (प्रयच्छन्तः) समर्पयन्तः सन्ति (दातुम्) (च इत्) अवश्यमेव (शिक्षान्) शक्लृ शक्तौ सनि। सनि मीमा०। पा० ७।४।५४। इत्यचः स्थाने इस्। अत्र लोपोऽभ्यासस्य। पा० ७।४।५८। इत्यभ्यासलोपः। लेटि आडागमः। इतश्च लोपः परस्मैपदेषु। पा० ३।४।९७। इकारलोपः। संयोगान्तलोपे तस्य असिद्धत्वान्नलोपाभावः। शत्रुमिच्छेयुः। समर्था भवेयुः ॥
 </details>
-

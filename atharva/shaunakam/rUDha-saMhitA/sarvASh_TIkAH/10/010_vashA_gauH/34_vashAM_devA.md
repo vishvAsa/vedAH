@@ -26,9 +26,15 @@ Anukr. says, referring to this last hymn, *catasraḥ* (i.e. 4 over 30).⌋
 Both Gods and mortal men depend for life and being on the Cow. She hath become this universe: all that the Sun surveys is she.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व॒शां दे॒वा उप॑ जीवन्ति व॒शां म॑नु॒ष्या᳡ उ॒त।  
+व॒शेदं सर्व॑मभव॒द्याव॒त्सूर्यो॑ वि॒पश्य॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-व॒शाम्। दे॒वाः। उप॑। जी॒व॒न्ति॒। व॒शाम्। म॒नु॒ष्याः᳡। उ॒त। व॒शा। इ॒दम्। सर्व॑म्। अ॒भ॒व॒त्। याव॑त्। सूर्यः॑। वि॒ऽपश्य॑ति। १०.३४। 
+व॒शाम्। दे॒वाः। उप॑। जी॒व॒न्ति॒। व॒शाम्। म॒नु॒ष्याः᳡। उ॒त। व॒शा। इ॒दम्। सर्व॑म्। अ॒भ॒व॒त्। याव॑त्। सूर्यः॑। वि॒ऽपश्य॑ति। १०.३४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Both Gods and mortal men depend for life and being on the Cow. She hath become t
 
 टिप्पणी:   ३४−(वशाम्) मन्त्र २। कमनीयां परमेश्वरशक्तिम् (देवाः) विजयिनो जनाः (उप जीवन्ति) उपेत्य प्राणान् धारयन्ति (वशाम्) (मनुष्याः) मननशीलाः (उत) अपि (वशा) (इदम्) दृश्यमानम् (सर्वम्) जगत् (अभवत्) व्याप्नोत् (यावत्) यत्प्रमाणम् (सूर्यः) सर्वप्रेरकः परमेश्वरः (वि पश्यति) विविधमवलोकते ॥
 </details>
-

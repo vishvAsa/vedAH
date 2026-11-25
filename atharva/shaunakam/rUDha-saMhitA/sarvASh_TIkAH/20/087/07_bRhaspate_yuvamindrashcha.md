@@ -8,9 +8,15 @@ title = "०७ बृहस्पते युवमिन्द्रश्च
 Ye twain are Lords of wealth in earth and heaven, thou, O Brihaspati, and thou, O Indra . Mean though he be, give wealth to him who lauds you. Preserve us evermore, ye Gods, with blessings.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+बृह॑स्पते यु॒वमिन्द्र॑श्च॒ वस्वो॑ दि॒व्यस्ये॑शाथे उ॒त पा॑र्थिवस्य।  
+ध॒त्तं र॒यिं स्तु॑व॒ते की॒रये॑ चिद्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-बृह॑स्पते। यु॒वम्। इन्द्रः॑। च॒। वस्वः॑। दि॒व्यस्य॑। ई॒शा॒थे॒ इति॑। उ॒त। पार्थि॑वस्य। ध॒त्तम्। र॒यिम्। स्तु॒व॒ते। की॒रये॑। चि॒त्। यू॒यम्। पा॒त॒। स्व॒स्तिऽभिः॑। सदा॑। नः॒। ८७.७। 
+बृह॑स्पते। यु॒वम्। इन्द्रः॑। च॒। वस्वः॑। दि॒व्यस्य॑। ई॒शा॒थे॒ इति॑। उ॒त। पार्थि॑वस्य। ध॒त्तम्। र॒यिम्। स्तु॒व॒ते। की॒रये॑। चि॒त्। यू॒यम्। पा॒त॒। स्व॒स्तिऽभिः॑। सदा॑। नः॒। ८७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Ye twain are Lords of wealth in earth and heaven, thou, O Brihaspati, and thou, 
 
 टिप्पणी:   यह मन्त्र आ चुका है-अ० २०।१७।१२ और चौथे पाद के लिये देखो-अ० २०।३७।११ ॥   ७-अयं मन्त्रो गतः-अ० २०।१७।१२ ॥
 </details>
-

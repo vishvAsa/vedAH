@@ -19,9 +19,14 @@ end. For the summation of *avasānarcas* (112), see p. 771, near end.⌋
 Faith Sacrifice, the world, food and nourishment approach him who possesses this knowledge.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऐनं॑ श्र॒द्धाग॑च्छ॒त्यैनं॑ य॒ज्ञो ग॑च्छ॒त्यैनं॑ लो॒को ग॑च्छ॒त्यैन॒मन्नं॑ गच्छ॒त्यैन॑म॒न्नाद्यं॑गच्छति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। ए॒न॒म्। श्र॒ध्दा। ग॒च्छ॒ति॒। आ। ए॒न॒म्। य॒ज्ञः। ग॒च्छ॒ति॒। आ। ए॒न॒म्। लो॒कः। ग॒च्छ॒ति॒। आ। ए॒न॒म्। अन्न॑म्। ग॒च्छ॒ति॒। आ। ए॒न॒म्। अ॒न्न॒ऽअद्य॑म्। ग॒च्छ॒ति॒। यः। ए॒वम्। वेद॑। ७.५। 
+आ। ए॒न॒म्। श्र॒ध्दा। ग॒च्छ॒ति॒। आ। ए॒न॒म्। य॒ज्ञः। ग॒च्छ॒ति॒। आ। ए॒न॒म्। लो॒कः। ग॒च्छ॒ति॒। आ। ए॒न॒म्। अन्न॑म्। ग॒च्छ॒ति॒। आ। ए॒न॒म्। अ॒न्न॒ऽअद्य॑म्। ग॒च्छ॒ति॒। यः। ए॒वम्। वेद॑। ७.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Faith Sacrifice, the world, food and nourishment approach him who possesses this
 
 टिप्पणी:   ५−(आ) आगत्य (एनम्) विद्वांसं पुरुषम् (गच्छति)प्राप्नोति। अन्यत् पूर्ववत्-म० ४ सुगमं च ॥
 </details>
-

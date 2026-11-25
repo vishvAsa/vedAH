@@ -18,9 +18,15 @@ Ppp. reads *yathā somasya paridhiṣ patātiḥ tathā tvam agne*.
 Unanimous, with all the Gods together, so do this thing O Agni Jatavedas, that this defence of his may fall and fail him.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॒ सो अ॒स्य प॑रि॒धिष्पता॑ति॒ तथा॒ तद॑ग्ने कृणु जातवेदः।  
+विश्वे॑भिर्दे॒वैः स॒ह सं॑विदा॒नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। सः। अ॒स्य। प॒रि॒ऽधिः। पता॑ति। तथा॑। तत्। अ॒ग्ने॒। कृ॒णु॒। जा॒त॒ऽवे॒दः॒। विश्वे॑भिः। दे॒वैः। स॒ह। स॒म्ऽवि॒दा॒नः। २९.३। 
+यथा॑। सः। अ॒स्य। प॒रि॒ऽधिः। पता॑ति। तथा॑। तत्। अ॒ग्ने॒। कृ॒णु॒। जा॒त॒ऽवे॒दः॒। विश्वे॑भिः। दे॒वैः। स॒ह। स॒म्ऽवि॒दा॒नः। २९.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Unanimous, with all the Gods together, so do this thing O Agni Jatavedas, that t
 
 टिप्पणी:   ३−गतम्। म० २ ॥
 </details>
-

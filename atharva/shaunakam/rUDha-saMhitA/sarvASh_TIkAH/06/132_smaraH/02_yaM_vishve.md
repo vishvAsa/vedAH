@@ -16,9 +16,15 @@ title = "०२ यं विश्वे"
 The charm which, burning with the pangs of love, the General Gods have poured within the bosom of the floods, That spell for thee I heat by Varuna's decree.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यं विश्वे॑ दे॒वाः स्म॒रमसि॑ञ्चन्न॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। विश्वे॑। दे॒वाः। स्म॒रम्। असि॑ञ्चन्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒‍मि॒। वरु॑णस्य। धर्म॑णा। १३२.२। 
+यम्। विश्वे॑। दे॒वाः। स्म॒रम्। असि॑ञ्चन्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒‍मि॒। वरु॑णस्य। धर्म॑णा। १३२.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +54,3 @@ The charm which, burning with the pangs of love, the General Gods have poured wi
 
 टिप्पणी:   २−(विश्वे) सर्वे (देवाः) उत्तमगुणाः। अन्यत् पूर्ववत् ॥
 </details>
-

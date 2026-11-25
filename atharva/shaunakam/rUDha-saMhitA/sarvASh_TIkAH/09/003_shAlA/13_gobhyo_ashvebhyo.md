@@ -19,9 +19,15 @@ Ppp. lacks, probably by an oversight, the second half-verse.
 Homage to kine and steeds! to all that shall be born within the house We loose the bonds that fasten thee, mother of multitudes to come!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+गोभ्यो॒ अश्वे॑भ्यो॒ नमो॒ यच्छाला॑यां वि॒जाय॑ते।  
+विजा॑वति॒ प्रजा॑वति॒ वि ते॒ पाशां॑श्चृतामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-गोभ्यः॑। अश्वे॑भ्यः। नमः॑। यत्। शाला॑याम्। वि॒ऽजाय॑ते। विजा॑ऽवति। प्रजा॑ऽवति। वि। ते॒। पाशा॑न्। चृ॒ता॒म॒सि॒। ३.१३। 
+गोभ्यः॑। अश्वे॑भ्यः। नमः॑। यत्। शाला॑याम्। वि॒ऽजाय॑ते। विजा॑ऽवति। प्रजा॑ऽवति। वि। ते॒। पाशा॑न्। चृ॒ता॒म॒सि॒। ३.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Homage to kine and steeds! to all that shall be born within the house We loose t
 
 टिप्पणी:   १३−(गोभ्यः) गवां रक्षणाय (अश्वेभ्यः) अश्वानां पोषणाय (नमः) अन्नम् (यत्) अपत्यजातम् (शालायाम्) गृहे (विजायते) विविधमुत्पद्यते (विजावति) हे विविधोत्पन्नपदार्थयुक्ते (प्रजावति) हे श्रेष्ठप्रजाविशिष्टे (ते) तव (पाशान्) निर्माणबन्धान् (विचृतामसि) ॥
 </details>
-

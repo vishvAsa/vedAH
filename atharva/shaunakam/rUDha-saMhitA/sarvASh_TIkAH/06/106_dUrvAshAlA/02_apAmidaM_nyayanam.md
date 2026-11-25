@@ -22,9 +22,15 @@ rather 'the points of thine arrows': cf. VS. xvi. 53.
 This is the place where waters meet, here is the gathering of the flood. Our home is set amid the lake: turn thou thy jaws away from it.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒पामि॒दं न्यय॑नं समु॒द्रस्य॑ नि॒वेश॑नम्।  
+मध्ये॑ ह्र॒दस्य॑ नो गृ॒हाः प॑रा॒चीना॒ मुखा॑ कृधि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒पाम्। इ॒दम्। नि॒ऽअय॑नम्। स॒मु॒द्रस्य॑। नि॒ऽवेश॑नम्। मध्ये॑। ह्र॒दस्य॑। नः॒। गृ॒हाः। प॒रा॒चीना॑। मुखा॑। कृ॒धि॒। १०६.२। 
+अ॒पाम्। इ॒दम्। नि॒ऽअय॑नम्। स॒मु॒द्रस्य॑। नि॒ऽवेश॑नम्। मध्ये॑। ह्र॒दस्य॑। नः॒। गृ॒हाः। प॒रा॒चीना॑। मुखा॑। कृ॒धि॒। १०६.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ This is the place where waters meet, here is the gathering of the flood. Our hom
 
 टिप्पणी:   २−(अपाम्) प्रजानाम्। आपः=आप्ताः प्रजाः−दयानन्दभाष्ये−यजु० ६।२७। (इदम्) (न्ययनम्) इण्−ल्युट्। निवासस्थानम् (समुद्रस्य) जलौघस्य (निवेशनम्) प्रवेशनम् (मध्ये) (ह्रदस्य) जलाशयस्य। परिखायाः (नः) अस्माकम् (गृहाः) गेहानि (पराचीना) प्रतिकूलानि (कृधि) कुरु ॥
 </details>
-

@@ -18,9 +18,14 @@ verses; but others with *varcas* and *tejas* as the gifts sought.
 Ear art thou, give me hearing! Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+श्रोत्र॑मसि॒ श्रोत्रं॑ मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श्रोत्र॑म्। अ॒सि॒। श्रोत्र॑म्। मे॒। दाः॒। स्वाहा॑। १७.५। 
+श्रोत्र॑म्। अ॒सि॒। श्रोत्र॑म्। मे॒। दाः॒। स्वाहा॑। १७.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Ear art thou, give me hearing! Hail!
 
 टिप्पणी:   ५–श्रोत्रम्। हुयामाश्रुभसिभ्यस्त्रन्। उ० ४।१६८। इति श्रु गतिश्रुत्योः–त्रन्। श्रवणेन्द्रियम्। कर्णम् ॥
 </details>
-

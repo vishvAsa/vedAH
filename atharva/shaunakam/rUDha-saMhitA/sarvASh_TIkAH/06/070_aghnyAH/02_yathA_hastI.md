@@ -21,9 +21,16 @@ up, for love (*premṇā*), her foot with his foot."
 As the male elephant pursues with eager step his female's track, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upon the calf.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॑ ह॒स्ती ह॑स्ति॒न्याः प॒देन॑ प॒दमु॑द्यु॒जे।  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। ह॒स्ती। ह॒स्ति॒न्याः। प॒देन॑। प॒दम्। उ॒त्ऽयु॒जे। यथा॑। पुं॒सः। वृ॒ष॒ण्य॒तः। स्त्रि॒याम्। नि॒ऽह॒न्यते॑। मनः॑। ए॒व। ते॒। अ॒घ्न्ये॒। मनः॑। अधि॑। व॒त्से। नि। ह॒न्य॒ता॒म्। ७०.२। 
+यथा॑। ह॒स्ती। ह॒स्ति॒न्याः। प॒देन॑। प॒दम्। उ॒त्ऽयु॒जे। यथा॑। पुं॒सः। वृ॒ष॒ण्य॒तः। स्त्रि॒याम्। नि॒ऽह॒न्यते॑। मनः॑। ए॒व। ते॒। अ॒घ्न्ये॒। मनः॑। अधि॑। व॒त्से। नि। ह॒न्य॒ता॒म्। ७०.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +60,3 @@ As the male elephant pursues with eager step his female's track, As an enamoured
 
 टिप्पणी:   २−(यथा) (हस्ती) हस्ताज्जातौ। पा० ५।२।१३३। इति−णिनि। गजः (हस्तिन्याः) करेण्वाः (पदम्) पादम् (उद्युजे) युजिर् योगे, छान्दसो विकरणस्य लुक्। उद्युङ्क्ते। उन्नमयति। अन्यत्पूर्ववत् ॥
 </details>
-

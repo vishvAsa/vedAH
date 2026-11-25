@@ -25,27 +25,31 @@ the hymn, which is *triṣṭubh*.
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
-
 Faithful rohiNI, rohita's consort,
 Of good hue, mighty and fiery,
 by her may we win booty of all kinds
 by her may we victors in all battles.
 </details>
 
-
 <details><summary>Griffith</summary>
 
 Golden, refulgent, lofty is the Lady, Rohini, Rohita's devoted Consort. Through her may we win various spoil and booty, through her be conquerors in every battle.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-अनु॑ऽव्रता। रोहि॑णी। रोहि॑तस्य। सू॒रिः। सु॒ऽवर्णा॑। बृ॒ह॒ती। सु॒ऽवर्चाः॑। तया॑। वाजा॑न्। वि॒श्वऽरू॑पान्। ज॒ये॒म॒। तया॑। विश्वाः॑। पृत॑नाः। अ॒भि। स्या॒म॒। १.२२। 
+अनु॑व्रता॒ रोहि॑णी॒ रोहि॑तस्य सू॒रिः सु॒वर्णा॑ बृह॒ती सु॒वर्चाः॑।  
+तया॒ वाजा॑न्वि॒श्वरू॑पां जयेम॒ तया॒ विश्वाः॒ पृत॑ना अ॒भि ष्या॑म ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-अनु॑ऽव्रता। रोहि॑णी। रोहि॑तस्य। सू॒रिः। सु॒ऽवर्णा॑। बृ॒ह॒ती। सु॒ऽवर्चाः॑। तया॑। वाजा॑न्। वि॒श्वऽरू॑पान्। ज॒ये॒म॒। तया॑। विश्वाः॑। पृत॑नाः। अ॒भि। स्या॒म॒। १.२२। 
+अनु॑ऽव्रता। रोहि॑णी। रोहि॑तस्य। सू॒रिः। सु॒ऽवर्णा॑। बृ॒ह॒ती। सु॒ऽवर्चाः॑। तया॑। वाजा॑न्। वि॒श्वऽरू॑पान्। ज॒ये॒म॒। तया॑। विश्वाः॑। पृत॑नाः। अ॒भि। स्या॒म॒। १.२२।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+अनु॑ऽव्रता। रोहि॑णी। रोहि॑तस्य। सू॒रिः। सु॒ऽवर्णा॑। बृ॒ह॒ती। सु॒ऽवर्चाः॑। तया॑। वाजा॑न्। वि॒श्वऽरू॑पान्। ज॒ये॒म॒। तया॑। विश्वाः॑। पृत॑नाः। अ॒भि। स्या॒म॒। १.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +59,3 @@ Golden, refulgent, lofty is the Lady, Rohini, Rohita's devoted Consort. Through 
 - त्रिष्टुप्
 - अध्यात्म प्रकरण सूक्त
 </details>
-

@@ -23,9 +23,15 @@ which is also in later Skt. recognized as a form of the tree-name.
 Here is my charm the Varana, slayer of rivals, strong in act. With this grasp thou thine enemies, crush those who fain would injure thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒यं मे॑ वर॒णो म॒णिः स॑पत्न॒क्षय॑णो॒ वृषा॑।  
+ते॒ना र॑भस्व॒ त्वं शत्रू॒न्प्र मृ॑णीहि दुरस्य॒तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अयम्। मे॒। व॒र॒णः। म॒णिः। स॒प॒त्न॒ऽक्षय॑णः। वृषा॑। तेन॑। आ। र॒भ॒स्व॒। त्वम्। शत्रू॑न्। प्र। मृ॒णी॒हि॒। दु॒र॒स्य॒तः। ३.१। 
+अयम्। मे॒। व॒र॒णः। म॒णिः। स॒प॒त्न॒ऽक्षय॑णः। वृषा॑। तेन॑। आ। र॒भ॒स्व॒। त्वम्। शत्रू॑न्। प्र। मृ॒णी॒हि॒। दु॒र॒स्य॒तः। ३.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Here is my charm the Varana, slayer of rivals, strong in act. With this grasp th
 
 टिप्पणी:   १−(अयम्) प्रसिद्धः (मे) मम (वरणः) अ० ६।८५।१। वृञ् वरणे स्वीकरणे-युच्। स्वीकरणीयः। वेदबोधः। वरुणौषधिर्वा (मणिः) अ० १।२९।१। मण कूजे-इन्। प्रशंसनीयः (सपत्नक्षयणः) शत्रुनाशकः (वृषा) वीर्यवान् (तेन) (आरभस्व) निगृहाण (त्वम्) (शत्रून्) (प्रमृणीहि) सर्वथा मारय (दुरस्यतः) अ० १।२९।२। दुरस्य-शतृ। दुष्टीयतः। अनिष्टं कर्तुमिच्छून् ॥
 </details>
-

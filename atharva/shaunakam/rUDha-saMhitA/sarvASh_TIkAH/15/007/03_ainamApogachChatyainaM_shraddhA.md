@@ -19,9 +19,14 @@ authorities⌋.
 The Waters, Faith, and rain approach him who possesses this knowledge.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऐन॒मापो॑गच्छ॒त्यैनं॑ श्र॒द्धा ग॑च्छ॒त्यैनं॑ व॒र्षं ग॑च्छति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। ए॒न॒म्। आपः॑। ग॒च्छ॒ति॒। आ। ए॒न॒म्। श्र॒ध्दा। ग॒च्छ॒ति॒। आ। ए॒न॒म्। व॒र्षम्। ग॒च्छ॒ति॒। यः। ए॒वम्। वेद॑। ७.३। 
+आ। ए॒न॒म्। आपः॑। ग॒च्छ॒ति॒। आ। ए॒न॒म्। श्र॒ध्दा। ग॒च्छ॒ति॒। आ। ए॒न॒म्। व॒र्षम्। ग॒च्छ॒ति॒। यः। ए॒वम्। वेद॑। ७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ The Waters, Faith, and rain approach him who possesses this knowledge.
 
 टिप्पणी:   ३−(आ) आगत्य (एनम्) विद्वांसं पुरुषम् (आपः) म० २। सुकर्म (गच्छति)प्राप्नोति। अन्यद् गतं स्पष्टं च-म० २ ॥
 </details>
-

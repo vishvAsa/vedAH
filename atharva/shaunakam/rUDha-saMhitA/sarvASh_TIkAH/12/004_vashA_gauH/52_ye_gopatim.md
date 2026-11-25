@@ -21,9 +21,15 @@ misreading. Ppp. reads *cetasas* for *acittyā*. Part of our mss.
 They who seduce the owner of the Cow and say, Bestow her not. Encounter through their want of sense the missile shot by Rudra's hand.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये गोप॑तिं परा॒णीया॑था॒हुर्मा द॑दा॒ इति॑।  
+रु॒द्रस्या॑स्तां ते हे॒तिं परि॑ य॒न्त्यचि॑त्त्या ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। गोऽप॑तिम्। प॒रा॒ऽनीय॑। अथ॑। आ॒हुः। मा। द॒दाः॒। इति॑। रु॒द्रस्य॑। अ॒स्ताम्। ते। हे॒तिम्। परि॑। य॒न्ति॒। अचि॑त्त्या। ४.५२। 
+ये। गोऽप॑तिम्। प॒रा॒ऽनीय॑। अथ॑। आ॒हुः। मा। द॒दाः॒। इति॑। रु॒द्रस्य॑। अ॒स्ताम्। ते। हे॒तिम्। परि॑। य॒न्ति॒। अचि॑त्त्या। ४.५२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ They who seduce the owner of the Cow and say, Bestow her not. Encounter through 
 
 टिप्पणी:   ५२−(ये) दुष्टाः (गोपतिम्) भूपालम्। राजानम् (पराणीय) कुमार्गे नीत्वा (अथ) पुनः (आहुः) कथयन्ति (मा ददाः) मा देहि (इति) (रुद्रस्य) दुःखनाशकस्य (अस्ताम्) क्षिप्ताम् (ते) दुष्टाः (हेतिम्) वज्रम् (परि) सर्वतः (यन्ति) प्राप्नुवन्ति (अचित्त्या) अज्ञानेन ॥
 </details>
-

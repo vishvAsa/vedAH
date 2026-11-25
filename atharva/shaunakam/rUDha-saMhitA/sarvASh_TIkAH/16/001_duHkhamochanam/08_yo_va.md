@@ -17,9 +17,14 @@ is terrible, this is that.
 Your Agni who entered into the waters, even he here is that very dread of yours.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो व॑ आपो॒ऽग्निरा॑वि॒वेश॒ स ए॒ष यद्वो॑ घो॒रं तदे॒तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। वः॒। आ॒पः॒। अ॒ग्निः। आ॒ऽवि॒वेश॑। सः। ए॒षः। यत्। वः॒। घो॒रम्। तत्। ए॒तत्। १.८। 
+यः। वः॒। आ॒पः॒। अ॒ग्निः। आ॒ऽवि॒वेश॑। सः। ए॒षः। यत्। वः॒। घो॒रम्। तत्। ए॒तत्। १.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Your Agni who entered into the waters, even he here is that very dread of yours.
 
 टिप्पणी:   ८−(यः) (वः) युष्मान् (आपः) हे सर्वविद्याव्यापिनो विपश्चितः-दयानन्दभाष्ये, यजु० ६।२७। (अग्निः)व्यापकः परमेश्वरः (आ विवेश) प्रविष्टवान् (सः) परमात्मा (एषः) अत्र व्यापकः (यत्) (वः) युष्माकम् (घोरम्) भयानकं रूपम् (तत्) रूपम् (एतत्) अव्ययम्।एतस्मात्परमेश्वरात् ॥
 </details>
-

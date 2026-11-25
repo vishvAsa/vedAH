@@ -17,9 +17,14 @@ I am about to make oblation.
 Should of his own accord rise to meet him and say, Vratya, give me permission. I will sacrifice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्व॒यमे॑नमभ्यु॒देत्य॑ ब्रूया॒द्व्रात्याति॑ सृज हो॒ष्यामीति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्व॒यम्। ए॒न॒म्। अ॒भि॒ऽउ॒देत्य॑। ब्रू॒या॒त्। व्रात्य॑। अति॑। सृ॒ज॒। हो॒ष्यामि॑। इति॑। १२.२। 
+स्व॒यम्। ए॒न॒म्। अ॒भि॒ऽउ॒देत्य॑। ब्रू॒या॒त्। व्रात्य॑। अति॑। सृ॒ज॒। हो॒ष्यामि॑। इति॑। १२.२।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,4 +46,3 @@ Should of his own accord rise to meet him and say, Vratya, give me permission. I
 
 टिप्पणी:   २−(स्वयम्) आत्मना (एनम्)अतिथिम् (अभ्युदेत्य) अभिमुखमुत्थाय (ब्रूयात्) कथयेत् (व्रात्य) (अति सृज)आज्ञापय (होष्यामि) होमं यज्ञं करिष्यामि (इति) ॥
 </details>
-

@@ -21,9 +21,15 @@ emended to *arít-*. In **a** we may emend to *pánthās* or combine
 They sailed on pathways paved with gold, the oars they piled were wrought of gold: All golden were the ships wherein they carried Kushtha down to earth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+हि॑र॒ण्ययाः॒ पन्था॑न आस॒न्नरि॑त्राणि हिर॒ण्यया॑।  
+नावो॑ हिर॒ण्ययी॑रास॒न्याभिः॒ कुष्ठं॑ नि॒राव॑हन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हि॒र॒ण्ययाः॑। पन्था॑नः। आ॒स॒न्। अरि॑त्राणि। हि॒र॒ण्यया॑। नावः॑। हि॒र॒ण्ययीः॑। आ॒स॒न्। याभिः॑। कुष्ठ॑म्। निः॒ऽआव॑हन्। ४.५। 
+हि॒र॒ण्ययाः॑। पन्था॑नः। आ॒स॒न्। अरि॑त्राणि। हि॒र॒ण्यया॑। नावः॑। हि॒र॒ण्ययीः॑। आ॒स॒न्। याभिः॑। कुष्ठ॑म्। निः॒ऽआव॑हन्। ४.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ They sailed on pathways paved with gold, the oars they piled were wrought of gol
 
 टिप्पणी:   ५−(हिरण्ययाः) हिरण्यमयाः। तेजोयुक्ताः (पन्थानः) मार्गाः (आसन्) अभवन् (अरित्राणि) अशित्रादिभ्य इत्रोत्रौ। उ० ४।१७३। इति ऋ गतौ−इत्र। नौकाचालनकाष्ठानि (हिरण्यया) हिरण्यमयानि (नावः) नौकाः (हिरण्ययीः) हिरण्यमय्यः तेजोयुक्ताः (आसन्) (याभिः) नौभिः (कुष्ठम्) म० १। गुणपरीक्षकं पुरुषम् (निरावहन्) निर्+आङ्+अवहन्। निश्चयेन आनीतवन्तः ॥
 </details>
-

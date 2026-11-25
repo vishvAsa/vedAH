@@ -17,9 +17,14 @@ title = "२४ सेदिरुपतिष्ठन्ती मिथोय
 The taking away of strength when she approacheth, a hand-to- hand fighter when roughly touched;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+से॒दिरु॑प॒तिष्ठ॑न्ती मिथोयो॒धः परा॑मृष्टा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-से॒दिः। उ॒प॒ऽतिष्ठ॑न्ती। मि॒थः॒ऽयो॒धः। परा॑ऽसृष्टा। ७.१३। 
+से॒दिः। उ॒प॒ऽतिष्ठ॑न्ती। मि॒थः॒ऽयो॒धः। परा॑ऽसृष्टा। ७.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ The taking away of strength when she approacheth, a hand-to- hand fighter when r
 
 टिप्पणी:   २४−(सेदिः) अ० २।१४।३। षद्लृ विशरणगत्यवसादनेषु−कि। निर्ऋतिः। विषादः (उपतिष्ठन्ती) विदुषां समीपे वर्तमाना (मिथोयोधः) युध संप्रहारे−घञ्। दुष्टानां परस्परयुद्धम् (परामृष्टा) मृश स्पर्शे, परापूर्वको विचारे−क्त। विचारिता विद्वद्भिः ॥
 </details>
-

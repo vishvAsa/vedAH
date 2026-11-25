@@ -17,9 +17,15 @@ Agni, do thou craze \[him\]; let yon \[man\] burn for me.
 Madden him, Maruts, madden him. Madden him, madden him, O Air. Madden him, Agni, madden him. Let him consume with love of me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उन्मा॑दयत मरुत॒ उद॑न्तरिक्ष मादय।  
+अग्न॒ उन्मा॑दया॒ त्वम॒सौ मामनु॑ शोचतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। मा॒द॒य॒त॒। म॒रु॒तः॒। उत्। अ॒न्त॒रि॒क्ष॒। मा॒द॒य॒। अग्ने॑। उत्। मा॒द॒य॒। त्वम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३०.४। 
+उत्। मा॒द॒य॒त॒। म॒रु॒तः॒। उत्। अ॒न्त॒रि॒क्ष॒। मा॒द॒य॒। अग्ने॑। उत्। मा॒द॒य॒। त्वम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३०.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Madden him, Maruts, madden him. Madden him, madden him, O Air. Madden him, Agni,
 
 टिप्पणी:   ४−(उत्) उत्तमतया (मादयत) हर्षयत (मरुतः) हे मरुद्गणाः। प्राणापानाः (उत्) (अन्तरिक्ष) मध्यलोक (मादय) आनन्दय (अग्ने) जाठराग्ने। अन्यद् गतम् ॥
 </details>
-

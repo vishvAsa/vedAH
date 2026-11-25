@@ -19,9 +19,15 @@ The corresponding TS. passage has *sū́rya* instead of *ādityá*.
 The Sun in heaven hath had my homage. May he bless me. As I have bowed me down unto the Sun in heaven, so let the Favouring Graces bow them down to me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दि॒व्या॑दि॒त्याय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
+यथा॑ दि॒व्या॑दि॒त्याय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दि॒वि। आ॒दि॒त्याय॑। सम्। अ॒न॒म॒न्। सः। आ॒र्ध्नो॒त्। यथा॑। दि॒वि। आ॒दि॒त्याय॑। स॒म्ऽअन॑मन्। ए॒व। मह्य॑म्। स॒म्ऽनमः॑। सम्। न॒म॒न्तु॒। ३९.५। 
+दि॒वि। आ॒दि॒त्याय॑। सम्। अ॒न॒म॒न्। सः। आ॒र्ध्नो॒त्। यथा॑। दि॒वि। आ॒दि॒त्याय॑। स॒म्ऽअन॑मन्। ए॒व। मह्य॑म्। स॒म्ऽनमः॑। सम्। न॒म॒न्तु॒। ३९.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ The Sun in heaven hath had my homage. May he bless me. As I have bowed me down u
 
 टिप्पणी:   ५−(दिवि) आकाशे वर्तमानाय (आदित्याय) अ० १।९।१। प्रकाशमानाय सूर्याय। अन्यत् पूर्ववत्-म० १ ॥
 </details>
-

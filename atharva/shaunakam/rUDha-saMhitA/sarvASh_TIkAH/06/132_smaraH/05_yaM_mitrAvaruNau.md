@@ -16,9 +16,15 @@ title = "०५ यं मित्रावरुणौ"
 The charm aglow with longing which Mitra and Varuna have poured within the bosom of the floods, That spell for thee I heat by Varuna's decree.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यं मि॒त्रावरु॑णौ स्म॒रमसि॑ञ्चताम॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। मि॒त्रावरु॑णौ। स्म॒रम्। असि॑ञ्चताम्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.५। 
+यम्। मि॒त्रावरु॑णौ। स्म॒रम्। असि॑ञ्चताम्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +54,3 @@ The charm aglow with longing which Mitra and Varuna have poured within the bosom
 
 टिप्पणी:   ५−(मित्रावरुणौ) अ० १।२०।२। प्राणापानौ। अन्यत् पूर्ववत् ॥
 </details>
-

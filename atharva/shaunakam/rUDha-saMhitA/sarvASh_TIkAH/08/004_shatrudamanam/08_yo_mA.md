@@ -21,14 +21,20 @@ is there quoted.
 Whoso accuses me with words of falsehood when I pursue my way with guileless spirit, May he, the speaker of untruth, be, Indra! like water which the hollowed hand compresses.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-यः। मा॒। पाके॑न। मन॑सा। चर॑न्तम्। अ॒भि॒ऽचष्टे॑। अनृ॑तेभिः। वचः॑ऽभिः। आपः॑ऽइव। का॒शिना॑। सम्ऽगृ॑भीताः। अस॑न्। अ॒स्तु॒। अस॑तः। इ॒न्द्र॒। व॒क्ता। ४.८। 
+यो मा॒ पाके॑न॒ मन॑सा॒ चर॑न्तमभि॒चष्टे॒ अनृ॑तेभि॒र्वचो॑भिः।  
+आप॑ इव काशिना॒ संगृभीता॒ अस॑न्न॒स्त्वास॑त इन्द्र व॒क्ता ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-यः। मा॒। पाके॑न। मन॑सा। चर॑न्तम्। अ॒भि॒ऽचष्टे॑। अनृ॑तेभिः। वचः॑ऽभिः। आपः॑ऽइव। का॒शिना॑। सम्ऽगृ॑भीताः। अस॑न्। अ॒स्तु॒। अस॑तः। इ॒न्द्र॒। व॒क्ता। ४.८। 
+यः। मा॒। पाके॑न। मन॑सा। चर॑न्तम्। अ॒भि॒ऽचष्टे॑। अनृ॑तेभिः। वचः॑ऽभिः। आपः॑ऽइव। का॒शिना॑। सम्ऽगृ॑भीताः। अस॑न्। अ॒स्तु॒। अस॑तः। इ॒न्द्र॒। व॒क्ता। ४.८।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+यः। मा॒। पाके॑न। मन॑सा। चर॑न्तम्। अ॒भि॒ऽचष्टे॑। अनृ॑तेभिः। वचः॑ऽभिः। आपः॑ऽइव। का॒शिना॑। सम्ऽगृ॑भीताः। अस॑न्। अ॒स्तु॒। अस॑तः। इ॒न्द्र॒। व॒क्ता। ४.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -38,4 +44,3 @@ Whoso accuses me with words of falsehood when I pursue my way with guileless spi
 - त्रिष्टुप्
 - शत्रुदमन सूक्त
 </details>
-

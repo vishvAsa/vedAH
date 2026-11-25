@@ -8,9 +8,15 @@ title = "०२ त्वं हि"
 For, gracious Satakratu, thou hast ever been a mother and a sire to us, So now for bliss we pray to thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वं हि नः॑ पि॒ता व॑सो॒ त्वं मा॒ता श॑तक्रतो ब॒भूवि॑थ।  
+अधा॑ ते सु॒म्नमी॑महे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वम्। हि। नः॒। पि॒ता। व॒सो॒ इति॑। त्वम्। मा॒ता। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। ब॒भूवि॑थ। अध॑। ते॒। सु॒म्नम्। ई॒म॒हे॒। १०८.२। 
+त्वम्। हि। नः॒। पि॒ता। व॒सो॒ इति॑। त्वम्। मा॒ता। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। ब॒भूवि॑थ। अध॑। ते॒। सु॒म्नम्। ई॒म॒हे॒। १०८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ For, gracious Satakratu, thou hast ever been a mother and a sire to us, So now f
 
 टिप्पणी:   २−(त्वम्) (हि) (नः) अस्माकम् (पिता) पालकः (वसो) वासयितः (त्वम्) (माता) जननीवद् धारकः (शतक्रतो) बहुकर्मन् (बभूविथ) (अध) अनन्तरम् (ते) तव (सुम्नम्) सुखम् (ईमहे) याचामहे ॥२॥
 </details>
-

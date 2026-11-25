@@ -41,9 +41,15 @@ of the ms.-reading *ācāryā̀ya:* this dative, no less than the locative
 Agni, these logs are thine: with these be, fain to burn! a flaming brand. Vouchsafe us length of life and give us hope of immortality.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒तास्ते॑ अग्ने स॒मिध॒स्त्वमि॒द्धः स॒मिद्भ॑व।  
+आयु॑र॒स्मासु॑ धेह्यमृत॒त्वमा॑चा॒र्या᳡य ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒ताः। ते॒। अ॒ग्ने॒। स॒म्ऽइधः॑। त्वम्। इ॒द्धः। स॒म्ऽइत्। भ॒व॒। आयुः॑। अ॒स्मासु॑। धे॒हि॒। अ॒मृ॒त॒ऽत्वम्। आ॒ऽचा॒र्या᳡य। ६४.४। 
+ए॒ताः। ते॒। अ॒ग्ने॒। स॒म्ऽइधः॑। त्वम्। इ॒द्धः। स॒म्ऽइत्। भ॒व॒। आयुः॑। अ॒स्मासु॑। धे॒हि॒। अ॒मृ॒त॒ऽत्वम्। आ॒ऽचा॒र्या᳡य। ६४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -73,4 +79,3 @@ Agni, these logs are thine: with these be, fain to burn! a flaming brand. Vouchs
 
 टिप्पणी:   ४−(एताः) दृश्यमानाः (ते) तुभ्यम् (अग्ने) (समिधः) काष्ठादिपदार्थाः (त्वम्) (इद्धः) प्रज्वलितः सन् (समित्) इण् गतौ-क्विप् तुक् च। संगन्ता (भव) (आयुः) जीवनम् (अस्मासु) (धेहि) धारय (अमृतत्वम्) अमरणम् (आचार्याय) आचार्यं सेवितुम् ॥
 </details>
-

@@ -8,9 +8,14 @@ title = "१० इदं मह्यम्"
 This O Mandurika, is mine.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒दं मह्यं॒ मदू॒रिति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒दम्। मह्य॒म्। मदूः॒। इति॑। १३१.१०। 
+इ॒दम्। मह्य॒म्। मदूः॒। इति॑। १३१.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ This O Mandurika, is mine.
 
 टिप्पणी:   १०−(इदम्) वचनम् (मह्यम्) मनुष्याय (मदूः) कृषिचमि०। उ० १।८०। मदी हर्षे-ऊप्रत्ययः। हर्षकरी नीतिः (इति) अवधारणे ॥
 </details>
-

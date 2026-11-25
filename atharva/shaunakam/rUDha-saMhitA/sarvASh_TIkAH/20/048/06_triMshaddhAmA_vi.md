@@ -8,9 +8,15 @@ title = "०६ त्रिंशद्धामा वि"
 Song is bestowed upon the Bird. It reigns supreme throughout thirty realms Throughout the days at break of morn.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्रिं॒शद्धामा॒ वि रा॑जति॒ वाक्प॑त॒ङ्गो अ॑शिश्रियत्।  
+प्रति॒ वस्तो॒रह॒र्द्युभिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्रिं॒शत्। धाम॑। वि। रा॒ज॒ति॒। वाक्। प॒त॒ङ्गः। अ॒शि॒श्रि॒य॒त्। प्रति॑। वस्तोः॑। अहः॑। द्युऽभिः॑। ४८.६। 
+त्रिं॒शत्। धाम॑। वि। रा॒ज॒ति॒। वाक्। प॒त॒ङ्गः। अ॒शि॒श्रि॒य॒त्। प्रति॑। वस्तोः॑। अहः॑। द्युऽभिः॑। ४८.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Song is bestowed upon the Bird. It reigns supreme throughout thirty realms Throu
 
 टिप्पणी:   ४-६−एते मन्त्रा व्याख्याताः-अ० ६।३१।१-३ ॥
 </details>
-

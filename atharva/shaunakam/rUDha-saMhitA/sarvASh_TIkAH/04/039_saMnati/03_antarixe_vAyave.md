@@ -19,9 +19,15 @@ TS. has a corresponding passage, in the form as given above.
 Vayu in air hath had mine homage. May he bless me. As I have bowed me down to Vayu in the air, so let the Favour- ing Graces bow them down to me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒न्तरि॑क्षे वा॒यवे॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
+यथा॒न्तरि॑क्षे वा॒यवे॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒न्तरि॑क्षे। वा॒यवे॑। सम्। अ॒न॒म॒न्। सः। आ॒र्ध्नो॒त्। यथा॑। अ॒न्तरि॑क्षे। वा॒यवे॑। स॒म्ऽअन॑मन्। ए॒व। मह्म॑म्। स॒म्ऽनमः॑। सम्। न॒म॒न्तु॒। ३९.३। 
+अ॒न्तरि॑क्षे। वा॒यवे॑। सम्। अ॒न॒म॒न्। सः। आ॒र्ध्नो॒त्। यथा॑। अ॒न्तरि॑क्षे। वा॒यवे॑। स॒म्ऽअन॑मन्। ए॒व। मह्म॑म्। स॒म्ऽनमः॑। सम्। न॒म॒न्तु॒। ३९.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Vayu in air hath had mine homage. May he bless me. As I have bowed me down to Va
 
 टिप्पणी:   ३−(अन्तरिक्षे) मध्यलोके (वायवे) पवनाय। अन्यत् पूर्ववत्। म० १ ॥
 </details>
-

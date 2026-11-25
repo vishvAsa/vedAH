@@ -27,9 +27,15 @@ norm of 30).—Here ends the first *anuvaka*, with 2 hymns and 65 verses.⌋
 Brahma hath passed within the fort, the golden castle; ne'er subdued, Bright with excessive brilliancy, compassed with glory round about.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒भ्राज॑मानां॒ हरि॑णीं॒ यश॑सा सं॒परी॑वृताम्।  
+पुरं॑ हिर॒ण्ययीं॒ ब्रह्मा वि॑वे॒शाप॑राजिताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒ऽभ्राज॑मानाम्। हरि॑णीम्। यश॑सा। स॒म्ऽपरि॑वृताम्। पुर॑म्। ह‍ि॒र॒ण्ययी॑म्। ब्रह्म॑। आ। वि॒वे॒श॒। अप॑राऽजिताम्। २.३३। 
+प्र॒ऽभ्राज॑मानाम्। हरि॑णीम्। यश॑सा। स॒म्ऽपरि॑वृताम्। पुर॑म्। ह‍ि॒र॒ण्ययी॑म्। ब्रह्म॑। आ। वि॒वे॒श॒। अप॑राऽजिताम्। २.३३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ Brahma hath passed within the fort, the golden castle; ne'er subdued, Bright wit
 
 टिप्पणी:   ३३−(प्रभ्राजमानाम्) प्रदीप्यमानाम् (हरिणीम्) हृञ्-इनन्, ङीप्। दुःखहरणशीलाम् (यशसा) कीर्त्या (संपरीवृताम्) समन्तादाच्छादिताम् (पुरम्) म० २८। पूर्तिम् (हिरण्ययीम्) म० ३१। हिरण्यय-ङीप्। बलैर्युक्ताम् (ब्रह्म) परमेश्वरः (आ) समन्तात् (विवेश) प्रविष्टवान् (अपराजिताम्) अपराभूताम् ॥
 </details>
-

@@ -27,9 +27,15 @@ are the houses of Gandharvas and Apsarases.
 Where great trees are, Asvatthas and Nyagrodhas with their leafy crests, There where your swings are green and bright, and lutes and cymbals sound in tune, 'Ye have become attentive since the Apsarases have past away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्रा॑श्व॒त्था न्य॒ग्रोधा॑ महावृ॒क्षाः शि॑ख॒ण्डिनः॑।  
+तत्परे॑ताप्सरसः॒ प्रति॑बुद्धा अभूतन ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्र॑। अ॒श्व॒त्थाः। न्य॒ग्रोधाः॑। म॒हा॒ऽवृ॒क्षाः। शि॒ख॒ण्डिनः॑। तत्। परा॑। इ॒त॒। अ॒प्स॒र॒सः॒। प्रति॑ऽबुध्दाः। अ॒भू॒त॒न॒। ३७.४। 
+यत्र॑। अ॒श्व॒त्थाः। न्य॒ग्रोधाः॑। म॒हा॒ऽवृ॒क्षाः। शि॒ख॒ण्डिनः॑। तत्। परा॑। इ॒त॒। अ॒प्स॒र॒सः॒। प्रति॑ऽबुध्दाः। अ॒भू॒त॒न॒। ३७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ Where great trees are, Asvatthas and Nyagrodhas with their leafy crests, There w
 
 टिप्पणी:   ४−(यत्र) यस्मिन् स्थाने (अश्वत्थाः) अ० ३।६।१। अश्वेषु बलवत्सु स्थितिशीलाः। अश्वत्थामानः। अतिवीरपुरुषाः (न्यग्रोधाः) न्यक्+रुधिर् आवरणे-अच्। शत्रूणां नीचं रोधकाः (महावृक्षाः) वृक्ष वरणे-क। महावरणीयाः। अतिश्रेष्ठाः (शिखण्डिनः) अण्डन् कृसृभृवृञः। उ० १।१२९। इति शिख गतौ-अण्डन्, स च कित् तत इनि। गतिमन्तः। उद्योगिनः। अन्यत् पूर्ववत् म० ३ ॥
 </details>
-

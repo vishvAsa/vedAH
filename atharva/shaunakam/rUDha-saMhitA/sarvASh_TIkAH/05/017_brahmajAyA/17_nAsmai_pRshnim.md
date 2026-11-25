@@ -18,9 +18,15 @@ In **b**, P. begins *yò ‘syā*, I.H. *yé ‘syā*.
 The men whose task it is to milk drain not the brindled cow for him, In whose dominion is detained, through senseless love, a Brahman's dame.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नास्मै॒ पृश्निं॒ वि दु॑हन्ति॒ येऽस्या॒ दोह॑मु॒पास॑ते।  
+यस्मि॑न्रा॒ष्ट्रे नि॑रु॒ध्यते॑ ब्रह्मजा॒याचि॑त्त्या ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। अ॒स्मै॒। पृश्न‍ि॑म्। वि। दु॒ह॒न्ति॒। ये। अ॒स्याः॒। दोह॑म्। उ॒प॒ऽआस॑ते। यस्मि॑न्। रा॒ष्ट्रे। नि॒ऽरु॒ध्यते॑। ब्र॒ह्म॒ऽजा॒या। अचि॑त्त्या। १७.१७। 
+न। अ॒स्मै॒। पृश्न‍ि॑म्। वि। दु॒ह॒न्ति॒। ये। अ॒स्याः॒। दोह॑म्। उ॒प॒ऽआस॑ते। यस्मि॑न्। रा॒ष्ट्रे। नि॒ऽरु॒ध्यते॑। ब्र॒ह्म॒ऽजा॒या। अचि॑त्त्या। १७.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The men whose task it is to milk drain not the brindled cow for him, In whose do
 
 टिप्पणी:   १७−(न) निषेधे (अस्मै) राज्ञे (पृश्निम्) स्पर्शवतीं भूमिम् (वि) विशेषेण (दुहन्ति) प्रपूरयन्ति (ये) पुरुषाः (अस्याः) पृश्नेः (दोहम्) रसम् (उपासते) सेवन्ते। अन्यद् यथा म० १२ ॥
 </details>
-

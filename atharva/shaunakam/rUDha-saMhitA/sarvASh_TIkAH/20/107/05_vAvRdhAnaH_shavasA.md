@@ -8,9 +8,15 @@ title = "०५ वावृधानः शवसा"
 Grown mighty in his strength, with ample vigour, he as a foe strikes fear into the Dasa, Eager to win the breathing and the breathless. All sang thy praise at banquet and oblation.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वा॑वृधा॒नः शव॑सा॒ भूर्यो॑जाः॒ शत्रु॑र्दा॒साय॑ भि॒यसं॑ दधाति।  
+अव्य॑नच्च व्य॒नच्च॒ सस्नि॒ सं ते॑ नवन्त॒ प्रभृ॑ता॒ मदे॑षु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-व॒वृ॒धा॒नः। शव॑सा। भूरि॑ऽओजाः। शत्रुः॑। दा॒साय॑। भि॒यस॑म्। द॒धा॒ति॒। अवि॑ऽअनत्। च॒। वि॒ऽअ॒नत्। च॒। सस्नि॑। सम्। ते॒। न॒व॒न्त॒। प्रभृ॑ता। मदे॑षु। १०७.५। 
+व॒वृ॒धा॒नः। शव॑सा। भूरि॑ऽओजाः। शत्रुः॑। दा॒साय॑। भि॒यस॑म्। द॒धा॒ति॒। अवि॑ऽअनत्। च॒। वि॒ऽअ॒नत्। च॒। सस्नि॑। सम्। ते॒। न॒व॒न्त॒। प्रभृ॑ता। मदे॑षु। १०७.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Grown mighty in his strength, with ample vigour, he as a foe strikes fear into t
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
-

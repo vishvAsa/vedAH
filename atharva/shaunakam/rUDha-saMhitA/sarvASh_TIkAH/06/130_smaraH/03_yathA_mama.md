@@ -19,9 +19,15 @@ the comm. undauntedly explains it by *amūṁ striyam*.
 That he may think of me, that I may never, never think of him,. Send forth the spell, ye Deities! Let him consume with love of me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॒ मम॒ स्मरा॑द॒सौ नामुष्या॒हं क॒दा च॒न।  
+देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। मम॑। स्मरा॑त्। अ॒सौ। न। अ॒मुष्य॑। अ॒हम्। क॒दा। च॒न। देवाः॑। प्र। हि॒णु॒त॒। स्म॒रम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३०.३। 
+यथा॑। मम॑। स्मरा॑त्। अ॒सौ। न। अ॒मुष्य॑। अ॒हम्। क॒दा। च॒न। देवाः॑। प्र। हि॒णु॒त॒। स्म॒रम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ That he may think of me, that I may never, never think of him,. Send forth the s
 
 टिप्पणी:   ३−(यथा) येन प्रकारेण (मम) (स्मरात्) स्मरेत् (असौ) स्मरः (न) निषेधे (अमुष्य) स्मरस्य (अहम्) (कदा चन) कदापि [स्मरामि=स्मृणोमि] इत्यध्याहारः। स्मृ प्रीतिचलनयोः, स्वादिः। चलनं करोमि। अन्यत् पूर्ववत् ॥
 </details>
-

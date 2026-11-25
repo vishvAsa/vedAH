@@ -23,9 +23,15 @@ English of it is not so harsh.⌋
 I cook, I give, I offer up oblation. From what I gave let me not be disparted.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स प॑चामि॒ स द॑दामि।  
+स य॑जे॒ स द॒त्तान्मा यू॑षम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। प॒चा॒मि॒। सः। द॒दा॒मि॒। सः। य॒जे॒। सः। द॒त्तात्। मा। यू॒ष॒म्। १२३.४। 
+सः। प॒चा॒मि॒। सः। द॒दा॒मि॒। सः। य॒जे॒। सः। द॒त्तात्। मा। यू॒ष॒म्। १२३.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ I cook, I give, I offer up oblation. From what I gave let me not be disparted.
 
 टिप्पणी:   ४−(सः)−म० ३। क्लेशनाशकः (पचामि) पाकेन संस्करोमि (सः) प्रसिद्धः (ददामि) दानानि करोमि (यजे) देवान् पूजयामि (दत्तात्) सुपात्रेभ्यो दानात् (मा यूषम्) यु मिश्रणामिश्रणयोः−माङि लुङि च्लेः सिच्, छान्दसो दीर्घः। पृथक्कृतो मा भूवम् ॥
 </details>
-

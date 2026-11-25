@@ -17,9 +17,14 @@ against by one who understands (*vi-jñā*).\*
 Therefore the Brahmans' cow is held inviolable by the wise.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मा॒द्वै ब्रा॑ह्म॒णानां॒ गौर्दु॑रा॒धर्षा॑ विजान॒ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्मा॑त्। वै। ब्रा॒ह्म॒णाना॑म्। गौः। दुः॒ऽआ॒धर्षा॑। वि॒ऽजा॒न॒ता। ७.६। 
+तस्मा॑त्। वै। ब्रा॒ह्म॒णाना॑म्। गौः। दुः॒ऽआ॒धर्षा॑। वि॒ऽजा॒न॒ता। ७.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Therefore the Brahmans' cow is held inviolable by the wise.
 
 टिप्पणी:   १७−(तस्मात्) कारणात् (वै) निश्चयेन (ब्राह्मणानाम्) ब्रह्मचारिणां हितकरी (गौः) वेदवाणी (दुराधर्षा) सर्वथा दुर्जेया (विजानता) विरुद्धं विदुषा पुरुषेण ॥
 </details>
-

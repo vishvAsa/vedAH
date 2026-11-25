@@ -18,9 +18,14 @@ Ppp. adds *divi tapati divy ā bhāti* ⌊*svargo* etc.⌋.
 He having been invited in the sky, regales, invited, in that which wears all various forms in the sky.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उप॑हूतो दि॒वि भ॑क्षय॒त्युप॑हूत॒स्तस्मि॒न्यद्दि॒वि वि॒श्वरू॑पम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। उप॑ऽहूतः। दि॒व‍ि। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। दि॒वि। वि॒श्वऽरू॑पम्। ११.९। 
+सः। उप॑ऽहूतः। दि॒व‍ि। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। दि॒वि। वि॒श्वऽरू॑पम्। ११.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ He having been invited in the sky, regales, invited, in that which wears all var
 
 टिप्पणी:   ९−(दिवि) सूर्यमण्डले वर्तमानं प्रकाशधारणाकर्षणादिगुणम्। अन्यत् पूर्ववत् ॥
 </details>
-

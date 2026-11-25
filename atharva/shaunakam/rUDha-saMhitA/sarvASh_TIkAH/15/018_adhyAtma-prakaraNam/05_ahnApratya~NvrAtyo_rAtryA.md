@@ -21,9 +21,14 @@ For the summations of *avasānarcas* (questionable), see p. 771.⌋
 By day the Vratya is turned westward, by night he is turned eastward. Worship to the Vratya!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अह्ना॑प्र॒त्यङ्व्रात्यो॒ रात्र्या॒ प्राङ्नमो॒ व्रात्या॑य ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अह्ना॑। प्र॒त्यङ्। व्रात्यः॑। रात्र्या॑। प्राङ्। नमः॑। व्रात्या॑य। १८.५। 
+अह्ना॑। प्र॒त्यङ्। व्रात्यः॑। रात्र्या॑। प्राङ्। नमः॑। व्रात्या॑य। १८.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ By day the Vratya is turned westward, by night he is turned eastward. Worship to
 
 टिप्पणी:   ५−(अह्ना) दिनेन सह (प्रत्यङ्) प्रति+अञ्चु गतिपूजनयोः-क्विन्।प्रतिगतः। अभिमुखः (व्रात्यः) सत्यव्रतधारी पुरुषः (रात्र्या) (प्राङ्)प्र+अञ्चु गतिपूजनयोः-क्विन्। प्रकर्षेण गतः। अग्रगामी (नमः) सत्कारः (व्रात्याय) सत्यव्रतधारिणे विदुषे ॥
 </details>
-

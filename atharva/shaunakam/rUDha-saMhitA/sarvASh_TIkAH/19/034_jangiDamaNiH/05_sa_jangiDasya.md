@@ -29,9 +29,15 @@ comm. reads and explains in **c** *viṣkandham ojasā saha* (favoring
 Let Jangida's protecting might encompass us on every side. Wherewith he quells Vishkandha and Sanskandha, might by greater might.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स ज॑ङ्गि॒डस्य॑ महि॒मा परि॑ णः पातु वि॒श्वतः॑।  
+विष्क॑न्धं॒ येन॑ सा॒सह॒ संस्क॑न्ध॒मोज॒ ओज॑सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। ज॒ङ्गि॒डस्य॑। म॒हिमा॑। परि॑। नः॒। पा॒तु॒। वि॒श्वतः॑। विऽस्क॑न्धम्। येन॑। स॒सह॑। सम्ऽस्क॑न्धम्। ओजः॑। ओज॑सा। ३४.५। 
+सः। ज॒ङ्गि॒डस्य॑। म॒हिमा॑। परि॑। नः॒। पा॒तु॒। वि॒श्वतः॑। विऽस्क॑न्धम्। येन॑। स॒सह॑। सम्ऽस्क॑न्धम्। ओजः॑। ओज॑सा। ३४.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,4 +67,3 @@ Let Jangida's protecting might encompass us on every side. Wherewith he quells V
 
 टिप्पणी:   ५−(सः) पूर्वोक्तः (जङ्गिडस्य) संचारकमहौषधस्य (महिमा) महत्वम् (नः) अस्मान् (परिपातु) पालयतु (विश्वतः) सर्वतः (विष्कन्धम्) वि+स्कन्दिर् गतिशोषणयोः-घञ्, दस्य धः। विशेषेण शोषकं वातरोगम् (येन) महिम्ना (सासह) अभिबभूव (संस्कन्धम्) समस्तशरीरव्यापकं वातरोगम् (ओजः) पराक्रमरूपो जङ्गिडः (ओजसा) प्रभावेण ॥
 </details>
-

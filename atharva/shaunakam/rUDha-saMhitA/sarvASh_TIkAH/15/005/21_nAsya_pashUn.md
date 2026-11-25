@@ -13,6 +13,11 @@ title = "२१ नास्य पशून्"
 slays him who possesses this knowledge, or his cattle, or his kinsmen.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नास्य॑ प॒शून् न स॑मा॒नान् हि॑नस्ति॒ य ए॒वं वेद॑॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 न । अ॒स्य॒ । प॒शून् । न । स॒मा॒नम् । हि॒न॒स्ति॒ । यः । ए॒वम् । वेद॑ ।

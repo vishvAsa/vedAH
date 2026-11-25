@@ -16,9 +16,14 @@ title = "१० सोदक्रामत्सा समितौ"
 Thus did they cry to her:
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोद॑क्राम॒त्सा समि॑तौ॒ न्य᳡क्रामत्।
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अ॒क्रा॒म॒त्। सा। सम्ऽइ॑तौ। नि। अ॒क्रा॒म॒त्। १०.१०। 
+सा। उत्। अ॒क्रा॒म॒त्। सा। सम्ऽइ॑तौ। नि। अ॒क्रा॒म॒त्। १०.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Thus did they cry to her:
 
 टिप्पणी:   १०−(समितौ) संग्रामे-निघ० २।१७। अन्यत् पूर्ववत् ॥
 </details>
-

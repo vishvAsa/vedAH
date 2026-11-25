@@ -21,9 +21,14 @@ Here again (as in 2. 4), the mss. vary between *śyāitá* and *śāitá* in
 They made the two Autumn months his protectors from the northern region, and Syaita and Naudhasa superintendents. The two Autumn months. etc. as above.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मै॒दक्षि॑णाया दि॒शः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्मै॑। दक्षि॑णायाः। दि॒शः। ४.४। 
+तस्मै॑। दक्षि॑णायाः। दि॒शः। ४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ They made the two Autumn months his protectors from the northern region, and Sya
 
 टिप्पणी:   ४-स्पष्टम् ॥
 </details>
-

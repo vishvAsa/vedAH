@@ -24,9 +24,15 @@ addressed to the garment when the dead man is wrapped up.
 On thee doth Savitar the God bestow this vesture for thy wear. Clothe thee herein, and find meet robe in Yama's realm to cover thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒तत्ते॑ दे॒वःस॑वि॒ता वासो॑ ददाति॒ भर्त॑वे।  
+तत्त्वं॑ य॒मस्य॒ राज्ये॒ वसा॑नस्ता॒र्प्यं᳡ चर॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒तत्। ते॒। दे॒वः। स॒वि॒ता। वासः॑। द॒दा॒ति॒। भर्त॑वे। तत्। त्वम्। य॒मस्य॑। राज्ये॑। वसा॑नः। ता॒र्प्य॑म्। च॒र॒। ४.३१। 
+ए॒तत्। ते॒। दे॒वः। स॒वि॒ता। वासः॑। द॒दा॒ति॒। भर्त॑वे। तत्। त्वम्। य॒मस्य॑। राज्ये॑। वसा॑नः। ता॒र्प्य॑म्। च॒र॒। ४.३१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ On thee doth Savitar the God bestow this vesture for thy wear. Clothe thee herei
 
 टिप्पणी:   ३१−(ते) तुभ्यम् (देवः) व्यवहारकुशलः (सविता) कर्मप्रेरकः।वस्त्रकारः। शिल्पी (वासः) वस्त्रम् (ददाति) प्रयच्छति (भर्तवे)भर्त्तुमाच्छादयितुम् (तत्) वस्त्रम् (त्वम्) हे मनुष्य (यमस्य) न्यायकारिणोराज्ञः (राज्ये) जनपदे (वसानः) आच्छादयन् (तार्प्यम्) तृप प्रीणने-ण्यत्।तृप्तिकरम् (चर) विचर ॥
 </details>
-

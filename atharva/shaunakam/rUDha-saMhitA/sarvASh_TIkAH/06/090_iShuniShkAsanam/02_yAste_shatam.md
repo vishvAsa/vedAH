@@ -20,9 +20,15 @@ Ppp. reads *hirās* for *śatam* in **a**, and *sākam* for *vayam* in
 From all the hundred vessels spread throughout the members of thy frame. From all those vessels and canals we call the poisonous matter forth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यास्ते॑ श॒तं ध॒मन॒योऽङ्गा॒न्यनु॒ विष्ठि॑ताः।  
+तासां॑ ते॒ सर्वा॑सां व॒यं निर्वि॒षाणि॑ ह्वयामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। ते॒। श॒तम्। ध॒मन॑यः। अङ्गा॑नि। अनु॑। विऽस्थि॑ताः। तासा॑म्। ते॒। सर्वा॑साम्। व॒यम्। निः। वि॒षाणि॑। ह्व॒या॒म॒सि॒। ९०.२। 
+याः। ते॒। श॒तम्। ध॒मन॑यः। अङ्गा॑नि। अनु॑। विऽस्थि॑ताः। तासा॑म्। ते॒। सर्वा॑साम्। व॒यम्। निः। वि॒षाणि॑। ह्व॒या॒म॒सि॒। ९०.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ From all the hundred vessels spread throughout the members of thy frame. From al
 
 टिप्पणी:   २−(याः) (ते) तव (शतम्) बह्व्यः (धमनयः) नाड्यः, अङ्गानि शरीरावयवान् (अनु) अनुसृत्य (विष्ठिताः) विविधं स्थिताः (तासाम्) (ते) तव (सर्वासाम्) धमनीनाम् (वयम्) (निः) निष्कृष्य (विषाणि) दुःखानि (ह्वयामसि) आह्वयामः ॥
 </details>
-

@@ -30,9 +30,15 @@ from our AV. text. ⌊Here and in vs. 23, W. queries his version of
 We set thee round us as a fort, victorious Agni! thee, a sage, In conquering colour day by day, destroyer of the treacherous foe.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+परि॑ त्वाग्ने॒ पुरं॑ व॒यं विप्रं॑ सहस्य धीमहि।  
+धृ॒षद्व॑र्णं दि॒वेदि॑वे ह॒न्तारं॑ भङ्गु॒राव॑तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परि॑। त्वा॒। अ॒ग्ने॒। पुर॑म्। व॒यम्। विप्र॑म्। स॒ह॒स्य॒। धी॒म॒हि॒। धृ॒षत्ऽव॑र्णम्। दि॒वेऽदि॑वे। ह॒न्तार॑म्। भ॒ङ्गु॒रऽव॑तः। ३.२२। 
+परि॑। त्वा॒। अ॒ग्ने॒। पुर॑म्। व॒यम्। विप्र॑म्। स॒ह॒स्य॒। धी॒म॒हि॒। धृ॒षत्ऽव॑र्णम्। दि॒वेऽदि॑वे। ह॒न्तार॑म्। भ॒ङ्गु॒रऽव॑तः। ३.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -62,4 +68,3 @@ We set thee round us as a fort, victorious Agni! thee, a sage, In conquering col
 
 टिप्पणी:   २२-अयं मन्त्रो व्याख्यातः-अ० ७।७१।१ ॥
 </details>
-

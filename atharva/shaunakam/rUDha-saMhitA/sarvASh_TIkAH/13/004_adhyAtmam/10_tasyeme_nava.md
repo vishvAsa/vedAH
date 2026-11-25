@@ -17,9 +17,14 @@ The *pada*-text reads *viṣṭambhā́ḥ*, undivided.
 His are the nine supports, the casks set in nine several places here.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्ये॒मे नव॒ कोशा॑ विष्ट॒म्भा न॑व॒धा हि॒ताः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। इ॒मे। नव॑। कोशाः॑। वि॒ष्ट॒म्भाः। न॒व॒ऽधा। हि॒ताः। ४.१०। 
+तस्य॑। इ॒मे। नव॑। कोशाः॑। वि॒ष्ट॒म्भाः। न॒व॒ऽधा। हि॒ताः। ४.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ His are the nine supports, the casks set in nine several places here.
 
 टिप्पणी:   १०−(तस्य) परमेश्वरस्य (इमे) दृश्यमानाः (नव) देहे द्वे श्रोत्रे, चक्षुषी, नासिके च मुखं च द्वे पापूपस्थे च (कोशाः) आधाराः (विष्टम्भाः) विशेषस्तम्भाः। आलम्बाः (नवधा) श्रवणादिशक्तिभिः सह नव प्रकारेण (हिताः) धृताः ॥
 </details>
-

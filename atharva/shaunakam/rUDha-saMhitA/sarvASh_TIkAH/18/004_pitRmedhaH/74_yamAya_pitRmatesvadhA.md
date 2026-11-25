@@ -25,9 +25,14 @@ cf. the *pratīkas* in Knauer's Index, and also under *pitṛbhyas*, p.
 To Yama connected with the Fathers Hail! and homage!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य॒माय॑ पितृ॒मते॑स्व॒धा नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-य॒माय॑। पि॒तृऽम॑ते। स्व॒धा। नमः॑। ४.७४। 
+य॒माय॑। पि॒तृऽम॑ते। स्व॒धा। नमः॑। ४.७४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +62,3 @@ To Yama connected with the Fathers Hail! and homage!
 
 टिप्पणी:   ७४−(यमाय) न्यायाधीशाय राज्ञे (पितृमते) म० ७२। अन्यत् पूर्ववत् ॥
 </details>
-

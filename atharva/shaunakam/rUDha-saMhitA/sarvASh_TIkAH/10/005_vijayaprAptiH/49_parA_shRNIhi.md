@@ -30,9 +30,15 @@ merely have followed the Berlin edition.⌋
 Destroy the Yatudhanas with thy fervour, consume the demons with thy wrath, O Agni. Destroy the fool's gods with thy fiery splendour, destroy the blazing ones, the insatiable.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+परा॑ शृणीहि॒ तप॑सा यातु॒धाना॒न्परा॑ग्ने॒ रक्षो॒ हर॑सा शृणीहि।  
+परा॑र्चिषा॒ मूर॑देवाञ्छृणीहि॒ परा॑सु॒तृपः॒ शोशु॑चतः शृणीहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परा॑। शृ॒णी॒हि॒। तप॑सा। या॒तु॒ऽधाना॑न्। परा॑। अ॒ग्ने॒। रक्षः॑। हर॑सा। शृ॒णी॒हि॒। परा॑। अ॒र्चिषा॑। मूर॑ऽदेवान्। शृ॒णी॒हि॒। परा॑। अ॒सु॒ऽतृपः॑। शोशु॑चतः। शृ॒णी॒हि॒। ५.४९। 
+परा॑। शृ॒णी॒हि॒। तप॑सा। या॒तु॒ऽधाना॑न्। परा॑। अ॒ग्ने॒। रक्षः॑। हर॑सा। शृ॒णी॒हि॒। परा॑। अ॒र्चिषा॑। मूर॑ऽदेवान्। शृ॒णी॒हि॒। परा॑। अ॒सु॒ऽतृपः॑। शोशु॑चतः। शृ॒णी॒हि॒। ५.४९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -62,4 +68,3 @@ Destroy the Yatudhanas with thy fervour, consume the demons with thy wrath, O Ag
 
 टिप्पणी:   ४९−अयं मन्त्रो व्याख्यातः-अ० ८।३।१३ ॥
 </details>
-

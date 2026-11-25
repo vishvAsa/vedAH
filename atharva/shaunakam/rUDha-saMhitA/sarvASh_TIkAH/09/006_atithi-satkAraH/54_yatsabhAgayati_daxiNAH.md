@@ -19,9 +19,14 @@ sacrifice (*ud-ava-sā*).
 When he distributes food he distributes priestly fees; what he performs he asks as favour.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्स॑भा॒गय॑ति॒ दक्षि॑णाः सभागयति॒ यद॑नु॒तिष्ठ॑त उ॒दव॑स्यत्ये॒व तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। स॒भा॒गय॑ति। दक्षि॑णाः। स॒भा॒ग॒य॒ति॒। यत्। अ॒नु॒ऽतिष्ठ॑ते। उ॒त्ऽअव॑स्यति। ए॒व। तत्। ११.६। 
+यत्। स॒भा॒गय॑ति। दक्षि॑णाः। स॒भा॒ग॒य॒ति॒। यत्। अ॒नु॒ऽतिष्ठ॑ते। उ॒त्ऽअव॑स्यति। ए॒व। तत्। ११.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ When he distributes food he distributes priestly fees; what he performs he asks 
 
 टिप्पणी:   ६−(यत्) यदा (सभागयति) समानश्चासौ भागश्च। तत्करोतीत्युपसंख्यानम्। वा० पा० ३।१।२६। सभाग-णिच्। भागशो ददाति (दक्षिणाः) अ० ५।७।१। दक्ष वृद्धौ−इनन्। वृद्धिक्रियाः (सभागयति) (यत्) (अनुतिष्ठते) विहितं कर्म करोति (उदवस्यति) षो अन्तकर्मणि-लट्। समापयति (एव) (तत्) ॥
 </details>
-

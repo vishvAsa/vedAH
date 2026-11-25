@@ -8,9 +8,15 @@ title = "०३ इह त्वा"
 Here let them with rich milky draught cheer thee to great munificence: Drink as the wild bull drinks the lake.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒ह त्वा॒ गोप॑रीणसा म॒हे म॑न्दन्तु॒ राध॑से।  
+सरो॑ गौ॒रो यथा॑ पिब ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒ह। त्वा॒। गोऽप॑रीणसा। म॒हे। म॒न्द॒न्तु॒। राध॑से। सरः॑। गौ॒रः। यथा॑। पि॒ब॒। २२.३। 
+इ॒ह। त्वा॒। गोऽप॑रीणसा। म॒हे। म॒न्द॒न्तु॒। राध॑से। सरः॑। गौ॒रः। यथा॑। पि॒ब॒। २२.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Here let them with rich milky draught cheer thee to great munificence: Drink as 
 
 टिप्पणी:   ३−(इह) अत्र राज्ये (त्वा) त्वाम् (गोपरीणसा) णस कौटिल्ये गतौ च-क्विप्। नसत इति गतिकर्मा-निघ० २।१४। भूमिप्राप्त्या (महे) पूजनीयाय। महते (राधसे) धनाय (सरः) जलम् (गौरः) गौरमृगः (यथा) (पिब) आनन्दरसस्य पानं कुरु ॥
 </details>
-

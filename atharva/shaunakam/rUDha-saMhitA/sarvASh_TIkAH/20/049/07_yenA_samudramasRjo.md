@@ -8,9 +8,15 @@ title = "०७ येना समुद्रमसृजो"
 Wherewith thou sentest mighty waters to the sea--Indra, that manly strength of thine. For ever unattainable is this power of him to whom the worlds have cried aloud.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+येना॑ समु॒द्रमसृ॑जो म॒हीर॒पस्तदि॑न्द्र॒ वृष्णि॑ ते॒ शवः॑।  
+स॒द्यः सो अ॑स्य महि॒मा न सं॒नशे॒ यं क्षो॒णीर॑नुचक्र॒दे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-येन॑। स॒मु॒द्रम्। असृ॑जः। म॒हीः। अ॒पः। तत्। इ॒न्द्र॒। वृष्णि॑। ते॒। शवः॑। स॒द्यः। सः। अ॒स्य॒। म॒हि॒मा। न। स॒म्ऽनशे॑। यम्। क्षो॒णीः। अ॒नु॒ऽच॒क्र॒दे। ४९.७। 
+येन॑। स॒मु॒द्रम्। असृ॑जः। म॒हीः। अ॒पः। तत्। इ॒न्द्र॒। वृष्णि॑। ते॒। शवः॑। स॒द्यः। सः। अ॒स्य॒। म॒हि॒मा। न। स॒म्ऽनशे॑। यम्। क्षो॒णीः। अ॒नु॒ऽच॒क्र॒दे। ४९.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Wherewith thou sentest mighty waters to the sea--Indra, that manly strength of t
 
 टिप्पणी:   ४-७−एते मन्त्रा व्याख्याताः-अ० २०।९।१-४ ॥
 </details>
-

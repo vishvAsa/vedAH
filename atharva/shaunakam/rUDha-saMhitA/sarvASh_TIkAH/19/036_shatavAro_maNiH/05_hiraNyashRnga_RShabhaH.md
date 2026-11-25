@@ -25,9 +25,15 @@ vs. 4 and the first half of vs. 5 are wanting in Ppp.
 The Bull that weareth horns of gold, this Amulet with hundred hairs, Hath cleft the demons of ill-name and overcome the Rakshasas.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+हिर॑ण्यशृङ्ग ऋष॒भः शा॑तवा॒रो अ॒यं म॒णिः।  
+दु॒र्णाम्नः॒ सर्वां॑स्तृ॒ड्ढ्वाव॒ रक्षां॑स्यक्रमीत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हिर॑ण्यऽशृङ्गः। ऋ॒ष॒भः। शा॒त॒ऽवा॒रः। अ॒यम्। म॒णिः। दुः॒ऽनाम्नः॑। सर्वा॑न्। तृ॒ड्ढ्वा। अव॑। रक्षां॑सि। अ॒क्र॒मी॒त्। ३६.५। 
+हिर॑ण्यऽशृङ्गः। ऋ॒ष॒भः। शा॒त॒ऽवा॒रः। अ॒यम्। म॒णिः। दुः॒ऽनाम्नः॑। सर्वा॑न्। तृ॒ड्ढ्वा। अव॑। रक्षां॑सि। अ॒क्र॒मी॒त्। ३६.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ The Bull that weareth horns of gold, this Amulet with hundred hairs, Hath cleft 
 
 टिप्पणी:   ५−(हिरण्यशृङ्गः) सुवर्णसमानशृङ्गमग्रभागो यस्य सः (ऋषभः) ऋषभौषधितुल्यः (पुष्टिकरः) (शातवारः) स्वार्थे-अण्। शतवारः-म०१। (अयम्) (मणिः) प्रशस्तः (दुर्णाम्नः) अर्शआदिरोगान् (सर्वान्) (तृड्ढ्वा) तृह हिंसायाम्-क्त्वा। हिंसित्वा (रक्षांसि) राक्षसान्। रोगजन्तून् (अव अक्रमीत्) पादेन यथा विक्षिप्तवान् ॥
 </details>
-

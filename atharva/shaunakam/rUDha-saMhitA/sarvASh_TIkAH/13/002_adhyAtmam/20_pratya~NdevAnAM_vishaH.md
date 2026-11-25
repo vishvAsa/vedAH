@@ -18,9 +18,15 @@ RV. reads at end of **b** *mā́nuṣān*, and SV. (i. 637) has the same.
 Thou goest to the hosts of Gods, thou comest hither to mankind, Hither, all light to behold.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒त्यङ्दे॒वानां॒ विशः॑ प्र॒त्यङ्ङुदे॑षि॒ मानु॑षीः।  
+प्र॒त्यङ्विश्वं॒ स्व᳡र्दृ॒शे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒त्यङ्। दे॒वाना॑म्। विशः॑। प्र॒त्यङ्। उत्। ए॒षि॒। मानु॑षीः। प्र॒त्यङ्। विश्व॑म्। स्वः᳡। दृ॒शे। २.२०। 
+प्र॒त्यङ्। दे॒वाना॑म्। विशः॑। प्र॒त्यङ्। उत्। ए॒षि॒। मानु॑षीः। प्र॒त्यङ्। विश्व॑म्। स्वः᳡। दृ॒शे। २.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Thou goest to the hosts of Gods, thou comest hither to mankind, Hither, all ligh
 
 टिप्पणी:   २०−(प्रत्यङ्) अभिमुखः सन् (देवानाम्) गतिशीलानां चन्द्रादिलोकानाम् (विशः) प्रजाः (प्रत्यङ्) (उत्) ऊर्ध्वः सन् (एषि) प्राप्नोषि (मानुषीः) मनुष्यसम्बन्धिनीः पार्थिवप्रजाः (प्रत्यङ्) (विश्वम्) सर्वम् (स्वः) सुखेन (दृशे) द्रष्टुम् ॥
 </details>
-

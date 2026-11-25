@@ -23,9 +23,14 @@ known.
 Hail to the Fathers who dwell in heaven!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्व॒धापि॒तृभ्यो॑ दिवि॒षद्भ्यः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्व॒धा। पि॒तृऽभ्यः॑। दि॒वि॒सत्ऽभ्यः॑। ४.८०। 
+स्व॒धा। पि॒तृऽभ्यः॑। दि॒वि॒सत्ऽभ्यः॑। ४.८०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ Hail to the Fathers who dwell in heaven!
 
 टिप्पणी:   ८०−(दिविषद्भ्यः) सप्तम्या अलुक्। प्रकाशविद्यायां गतिशीलेभ्यः। अन्यत्पूर्ववत् ॥
 </details>
-

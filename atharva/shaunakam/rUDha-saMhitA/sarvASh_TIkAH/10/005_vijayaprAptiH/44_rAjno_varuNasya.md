@@ -22,9 +22,15 @@ present verse (prose) reads most naturally as 10: 12 + 7 = 29 syllables.
 Thou art the bound of Varuna the King. Bind, such an one, the son of such a woman, in vital breath and in the food that feeds him.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+राज्ञो॒ वरु॑णस्य ब॒न्धो᳡सि॑।  
+सो॒३॒॑मुमा॑मुष्याय॒णम॒मुष्याः॑ पु॒त्रमन्ने॑ प्रा॒णे ब॑धान ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-राज्ञः॑। वरु॑णस्य। ब॒न्धः। अ॒सि॒। सः। अ॒मुम्। आ॒मु॒ष्या॒य॒णम्। अ॒मुष्याः॑। पु॒त्रम्। अन्ने॑। प्रा॒णे। ब॒धा॒न॒। ५.४४। 
+राज्ञः॑। वरु॑णस्य। ब॒न्धः। अ॒सि॒। सः। अ॒मुम्। आ॒मु॒ष्या॒य॒णम्। अ॒मुष्याः॑। पु॒त्रम्। अन्ने॑। प्रा॒णे। ब॒धा॒न॒। ५.४४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Thou art the bound of Varuna the King. Bind, such an one, the son of such a woma
 
 टिप्पणी:   ४४−(राज्ञः) प्रजाशासकस्य (वरुणस्य) श्रेष्ठस्य (बन्धः) पाशरूपः (असि) (सः) स त्वम् (अमुम्) अमुकनामानम् (आमुष्यायणम्) म० ३६। अमुष्य पुरुषस्य पुत्रम् (अमुष्याः) अमुकजनन्याः (पुत्रम्) (अन्ने) अन्नसंयमने (प्राणे) वायुसंयमने (बधान) निगृहाण ॥
 </details>
-

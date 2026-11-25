@@ -25,9 +25,15 @@ The following four verses are found in no other text.
 Pungent is this, bitter is this, filled as it were with arrow barbs, empoisoned and not fit for use. The Brahman who knows Surya well deserves the garment of the bride.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तृ॒ष्टमे॒तत्कटु॑कमपा॒ष्ठव॑द्वि॒षव॒न्नैतदत्त॑वे।  
+सू॒र्यां यो ब्र॒ह्मा वेद॒ सइद्वाधू॑यमर्हति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तृ॒ष्टम्। ए॒तत्। कटु॑कम्। अ॒पा॒ष्ठऽव॑त्। वि॒षऽव॑त्। न। ए॒तत्। अत्त॑वे। सू॒र्याम्‌। यः। ब्र॒ह्मा। वेद॑। सः। इत्। वाधू॑ऽयम्। अ॒र्ह॒ति॒। १.२९। 
+तृ॒ष्टम्। ए॒तत्। कटु॑कम्। अ॒पा॒ष्ठऽव॑त्। वि॒षऽव॑त्। न। ए॒तत्। अत्त॑वे। सू॒र्याम्‌। यः। ब्र॒ह्मा। वेद॑। सः। इत्। वाधू॑ऽयम्। अ॒र्ह॒ति॒। १.२९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Pungent is this, bitter is this, filled as it were with arrow barbs, empoisoned 
 
 टिप्पणी:   २९−(तृष्टम्) दाहजनकम् (एतत्) पूर्वोक्तम् (कटुकम्) अप्रियम् (अपाष्ठवत्)अपस्थानेनापमानेन युक्तम् (विषवत्) विषसमानम् (न) निषेधे (एतत्) विरुद्धं कर्म (अत्तवे) तुमर्थे सेसेनसे०। पा० ३।४।९। अत बन्धने-तवेन्। प्रबन्धं कर्तुम् (सूर्याम्) (यः) (ब्रह्मा) वेदज्ञः पतिः (वेद) जानाति (सः) (इत्) एव (वाधूयम्)वैवाहिकं विधानम् (अर्हति) कर्तुं योग्यो भवति। पूजयति ॥
 </details>
-

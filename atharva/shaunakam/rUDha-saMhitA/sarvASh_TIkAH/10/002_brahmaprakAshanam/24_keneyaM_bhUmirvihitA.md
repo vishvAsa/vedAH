@@ -18,9 +18,15 @@ Ppp. reads, for **a**, *kene ’daṁ bhūmir nihataḥ*.
 By whom was this our earth disposed? By whom was heaven placed over it? By whom was this expanse of air raised up on high and stre- tched across?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+केने॒यं भूमि॒र्विहि॑ता॒ केन॒ द्यौरुत्त॑रा हि॒ता।  
+केने॒दमू॒र्ध्वं ति॒र्यक्चा॒न्तरि॑क्षं॒ व्यचो॑ हि॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-केन॑। इ॒यम्। भूमिः॑। विऽहि॑ता। केन॑। द्यौः। उत्ऽत॑रा। हि॒ता। केन॑। इ॒दम्। ऊ॒र्ध्वम्। ति॒र्यक्। च॒। अ॒न्तरि॑क्षम्। व्यचः॑। हि॒तम्। २.२४। 
+केन॑। इ॒यम्। भूमिः॑। विऽहि॑ता। केन॑। द्यौः। उत्ऽत॑रा। हि॒ता। केन॑। इ॒दम्। ऊ॒र्ध्वम्। ति॒र्यक्। च॒। अ॒न्तरि॑क्षम्। व्यचः॑। हि॒तम्। २.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ By whom was this our earth disposed? By whom was heaven placed over it? By whom 
 
 टिप्पणी:   २४−(केन) प्रश्ने (इयम्) (भूमिः) (विहिता) विशेषेण धारिता (केन) (द्यौः) सूर्यः (उत्तरा) उपरिभवा (हिता) धृतः (केन) (इदम्) (ऊर्ध्वम्) उपरिस्थम् (तिर्यक्) वक्रगामि (च) (अन्तरिक्षम्) आकाशम् (व्यचः) विस्तृतम् (हितम्) धृतम् ॥
 </details>
-

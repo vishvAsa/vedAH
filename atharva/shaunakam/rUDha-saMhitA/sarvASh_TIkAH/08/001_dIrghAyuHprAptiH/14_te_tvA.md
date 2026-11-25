@@ -18,9 +18,14 @@ After *gopāyantu*, Ppp. inserts *te tvāṁ hasassāyatu*.
 Let these be thy preservers, these thy keepers. All hail to these, to these be lowly worship!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ते त्वा॑ रक्षन्तु॒ ते त्वा॑ गोपायन्तु॒ तेभ्यो॒ नम॒स्तेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ते। त्वा॒। र॒क्ष॒न्तु॒। ते। त्वा॒। गो॒पा॒य॒न्तु॒। तेभ्यः॑। नमः॑। तेभ्यः॑। स्वाहा॑। १.१४। 
+ते। त्वा॒। र॒क्ष॒न्तु॒। ते। त्वा॒। गो॒पा॒य॒न्तु॒। तेभ्यः॑। नमः॑। तेभ्यः॑। स्वाहा॑। १.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Let these be thy preservers, these thy keepers. All hail to these, to these be l
 
 टिप्पणी:   १४−(ते)-म० ११-१३। अग्निपृथिव्यादिपदार्थाः (रक्षन्तु) पालयन्तु (त्वा) त्वाम् (गोपायन्तु) सर्वतो रक्षन्तु (नमः) सत्कारः (स्वाहा) अ० २।१६।१। सुवाणी। स्तुतिः। अन्यत्सुगमम् ॥
 </details>
-

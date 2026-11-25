@@ -20,9 +20,15 @@ thing as the English slang, 'that'll be great for us!'⌋
 When Prana hath poured down his flood of rain upon the mighty land. Cattle and beasts rejoice thereat: Now great will he our strength, they cry.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य॒दा प्रा॒णो अ॒भ्यव॑र्षीद्व॒र्षेण॑ पृथि॒वीं म॒हीम्।  
+प॒शव॒स्तत्प्र मो॑दन्ते॒ महो॒ वै नो॑ भविष्यति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-य॒दा। प्रा॒णः। अ॒भि॒ऽअव॑र्षीत्। व॒र्षेण॑। पृ॒थि॒वीम्। म॒हीम्। प॒शवः॑। तत्। प्र। मो॒द॒न्ते॒। महः॑। वै। नः॒। भ॒वि॒ष्य॒ति॒। ६.५। 
+य॒दा। प्रा॒णः। अ॒भि॒ऽअव॑र्षीत्। व॒र्षेण॑। पृ॒थि॒वीम्। म॒हीम्। प॒शवः॑। तत्। प्र। मो॒द॒न्ते॒। महः॑। वै। नः॒। भ॒वि॒ष्य॒ति॒। ६.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ When Prana hath poured down his flood of rain upon the mighty land. Cattle and b
 
 टिप्पणी:   ५−(यदा) यस्मिन् काले (प्राणः) म० १। जीवनदाता परमेश्वरः (अभ्यवर्षीत्) अभिषिक्तवान् (पृथिवीम्) भूमिम्। (महीम्) विशालाम् (पशवः) सर्वे जीवजन्तवः (तत्) तदा (प्रमोदन्ते) (प्रहृष्यन्ति) (महः) वर्धनम् (वै) खलु (नः) अस्माकम् (भविष्यति) ॥
 </details>
-

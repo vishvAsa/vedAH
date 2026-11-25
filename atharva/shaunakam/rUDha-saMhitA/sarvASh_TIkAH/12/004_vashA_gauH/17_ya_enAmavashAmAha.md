@@ -17,9 +17,15 @@ gods, at him Bhava-and-śarva, both, striding about, hurl the arrow.
 Whoso calls her a worthless Cow, the stored-up treasure of the Gods, Bhava and Sarva, both of them, move round and shoot a shaft at him.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य ए॑ना॒मव॑शा॒माह॑ दे॒वानां॒ निहि॑तं नि॒धिम्।  
+उ॒भौ तस्मै॑ भवाश॒र्वौ प॑रि॒क्रम्येषु॑मस्यतः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। ए॒ना॒म्। अव॑शाम्। आह॑। दे॒वाना॑म्। निऽहि॑तम्। नि॒ऽधिम्। उ॒भौ। तस्मै॑। भ॒वा॒श॒र्वौ। प॒रि॒ऽक्रम्य॑। इषु॑म्। अ॒स्य॒तः॒। ४.१७। 
+यः। ए॒ना॒म्। अव॑शाम्। आह॑। दे॒वाना॑म्। निऽहि॑तम्। नि॒ऽधिम्। उ॒भौ। तस्मै॑। भ॒वा॒श॒र्वौ। प॒रि॒ऽक्रम्य॑। इषु॑म्। अ॒स्य॒तः॒। ४.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Whoso calls her a worthless Cow, the stored-up treasure of the Gods, Bhava and S
 
 टिप्पणी:   १७−(यः) मूर्खः (एनाम्) वेदवाणीम् (अवशाम्) म० १। अकमनीयाम्। असमर्थाम् (आह) कथयति (देवानाम्) विजिगीषूणाम् (निहितम्) नियमेन स्थापितम् (निधिम्) धनकोशम् (उभौ) (तस्मै) मूर्खाय (भवाशर्वौ) अ० ८।२।७। सुखस्य भावयिता कर्ता भवः प्राणः, दुःखस्य शारिता नाशकः शर्वोऽपानवायुश्च तौ (परिक्रम्य) परितो गत्वा (इषुम्) बाणम्। पीडाम् (अस्यतः) क्षिपतः ॥
 </details>
-

@@ -8,9 +8,14 @@ title = "०७ यत्रामूस्तिस्रः शिंशपा
 There where around those distant trees, three Sisus that are standing there, (with next verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्रा॒मूस्तिस्रः॑ शिंश॒पाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्र॑। अ॒मूः। तिस्रः॑। शिंश॒पाः। १२९.७। 
+यत्र॑। अ॒मूः। तिस्रः॑। शिंश॒पाः। १२९.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ There where around those distant trees, three Sisus that are standing there, (wi
 
 टिप्पणी:   ७−(यत्र) यस्मिन् कुले (अमूः) प्रसिद्धाः (तिस्रः) मातापित्राचार्यरूपाः प्रजाः (शिंशपाः) छान्दसं रूपम्। शिशुपाः। बालानां पालिकाः ॥
 </details>
-

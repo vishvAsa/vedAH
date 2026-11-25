@@ -19,9 +19,15 @@ All the *saṁhitā*-mss. read *-va rbhur* in **b**.
 He who composed thy limbs with thought as a deft joiner builds a car, Go to him: thither lies thy way. This man is all unknown to thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्ते॒ परूं॑षि संद॒धौ रथ॑स्येव॒र्भुर्धि॒या।  
+तं ग॑च्छ॒ तत्र॒ तेऽय॑न॒मज्ञा॑तस्ते॒ऽयं जनः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। ते॒। परूं॑षि। स॒म्ऽद॒धौ। रथ॑स्यऽइव। ऋ॒भुः। धि॒या। तम्। ग॒च्छ॒। तत्र॑। ते॒। अय॑नम्। अज्ञा॑तः। ते॒। अ॒यम्। जनः॑। १.८। 
+यः। ते॒। परूं॑षि। स॒म्ऽद॒धौ। रथ॑स्यऽइव। ऋ॒भुः। धि॒या। तम्। ग॒च्छ॒। तत्र॑। ते॒। अय॑नम्। अज्ञा॑तः। ते॒। अ॒यम्। जनः॑। १.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ He who composed thy limbs with thought as a deft joiner builds a car, Go to him:
 
 टिप्पणी:   ८−(यः) शत्रुः (ते) तव (परूंषि) अवयवान् (संदधौ) संयोजितवान् (रथस्य) (इव) (ऋभुः) अ० १।२।३। मेधावी-निघ० ३।१५। शिल्पी (धिया) बुद्ध्या (तम्) शत्रुम् (गच्छ) प्राप्नुहि (तत्र) (ते) तव (अयनम्) गृहम् (अज्ञातः) अपरिचितः (अयम्) (जनः) ॥
 </details>
-

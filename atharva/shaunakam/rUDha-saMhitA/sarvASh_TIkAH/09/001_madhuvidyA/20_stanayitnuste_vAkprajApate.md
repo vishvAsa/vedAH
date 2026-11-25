@@ -29,9 +29,15 @@ sarve tena vo śeṣam ūrjaṁ bibharti*.
 The thunder is thy voice, O Lord of Creatures: a Bull, thou castest strength on earth and heaven. To that all cattle look for their existence: with this she nourishes their force and vigour.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्त॑नयि॒त्नुस्ते॒ वाक्प्र॑जापते॒ वृषा॒ शुष्मं॑ क्षिपसि॒ भूम्यां॑ दि॒वि।  
+तां प॒शव॒ उप॑ जीवन्ति॒ सर्वे॒ तेनो॒ सेष॒मूर्जं॑ पिपर्ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्त॒नि॒यि॒त्नुः। ते॒। वाक्। प्र॒जा॒ऽप॒ते॒। वृषा॑। शुष्म॑म्। क्षि॒प॒सि॒। भूम्या॑म्। दि॒वि। ताम्। प॒शवः॑। उप॑। जी॒व॒न्ति॒। सर्वे॑। तेनो॒ इति॑। सा। इष॑म्। ऊर्ज॑म्। पि॒प॒र्ति॒। १.२०। 
+स्त॒नि॒यि॒त्नुः। ते॒। वाक्। प्र॒जा॒ऽप॒ते॒। वृषा॑। शुष्म॑म्। क्षि॒प॒सि॒। भूम्या॑म्। दि॒वि। ताम्। प॒शवः॑। उप॑। जी॒व॒न्ति॒। सर्वे॑। तेनो॒ इति॑। सा। इष॑म्। ऊर्ज॑म्। पि॒प॒र्ति॒। १.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,4 +67,3 @@ The thunder is thy voice, O Lord of Creatures: a Bull, thou castest strength on 
 
 टिप्पणी:   २०−(दिवि) आकाशे (ताम्) वाचम् (पशवः) अ० २।२६।१। द्रष्टारः प्राणिनः (उप) उपेत्य (जीवन्ति) (सर्वे) (तेनो) तेनैव कारणेन (सा) वाक् (इषम्) अ० ३।१०।७। अन्नम् (ऊर्जम्) बलम् (पिपर्ति) पूरयति। अन्यत् पूर्ववत्-म० १० ॥
 </details>
-

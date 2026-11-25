@@ -22,9 +22,15 @@ unintelligible; its **d** is *punar ṇo naṣṭam ā kṛdhi*.⌋
 From out the distance, far and wide, may Pushan stretch his right hand forth. Let him drive back our lost to us, let us return with what is lost.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+परि॑ पू॒षा प॒रस्ता॒द्धस्तं॑ दधातु॒ दक्षि॑णम्।  
+पुन॑र्नो न॒ष्टमाज॑तु॒ सं न॒ष्टेन॑ गमेमहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परि॑। पू॒षा। प॒रस्ता॑त्। हस्त॑म्। द॒धा॒तु॒। दक्ष‍ि॑णम्। पुनः॑। नः॒। न॒ष्टम्। आ। अ॒जतु॒। सम्। न॒ष्टेन॑। ग॒मे॒म॒हि॒। १०.४। 
+परि॑। पू॒षा। प॒रस्ता॑त्। हस्त॑म्। द॒धा॒तु॒। दक्ष‍ि॑णम्। पुनः॑। नः॒। न॒ष्टम्। आ। अ॒जतु॒। सम्। न॒ष्टेन॑। ग॒मे॒म॒हि॒। १०.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ From out the distance, far and wide, may Pushan stretch his right hand forth. Le
 
 टिप्पणी:   ४−(परि) परितः (पूषा) पोषकः परमात्मा (परस्तात्) उत्तरे काले (हस्तम्) कृपाहस्तम् (दधातु) धारयतु (दक्षिणम्) (पुनः) (नः) अस्मभ्यम् (नष्टम्) ध्वस्तं बलम् (आ अजतु) अज गतिक्षेपणयोः। आनयतु (नष्टेन) अदृष्टबलेन प्रारब्धफलेन (सं गमेमहि) संगच्छेमहि ॥
 </details>
-

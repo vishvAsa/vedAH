@@ -22,9 +22,15 @@ and begins **c** with *tasyas*. ⌊As to *amútra*, cf. Oldenberg, IFA. vi.
 There let her come to meet this man. Firm, strongly fastened,. and prepared Art thou whose several limbs and joints we part and loosen one by one.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒मुत्रै॑न॒मा ग॑च्छताद्दृ॒ढा न॒द्धा परि॑ष्कृता।  
+यस्या॑स्ते विचृ॒ताम॒स्यङ्ग॑मङ्गं॒ परु॑ष्परुः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒मुत्र॑। ए॒न॒म्। आ। ग॒च्छ॒ता॒त्। दृ॒ढा। न॒ध्दा। परि॑ष्कृता। यस्याः॑। ते॒। वि॒ऽचृ॒ताम॑सि। अङ्ग॑म्ऽअङ्गम्। परुः॑ऽपरुः। ३.१०। 
+अ॒मुत्र॑। ए॒न॒म्। आ। ग॒च्छ॒ता॒त्। दृ॒ढा। न॒ध्दा। परि॑ष्कृता। यस्याः॑। ते॒। वि॒ऽचृ॒ताम॑सि। अङ्ग॑म्ऽअङ्गम्। परुः॑ऽपरुः। ३.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ There let her come to meet this man. Firm, strongly fastened,. and prepared Art 
 
 टिप्पणी:   १०−(अमुत्र) तत्र निर्दिष्टे स्थाने (एनम्) गृहिणम् (आगच्छतात्) आगच्छ। प्राप्नुहि (दृढा) (नद्धा) अवनद्धा। आच्छादिता (परिष्कृता) परि+कृ-क्त। संपर्युषेभ्यः करोतौ भूषणे। पा० ६।१।१३७। इति सुट्। परिनिविभ्यः०। पा० ८।३।७०। इति षत्वम्। अलङ्कृता (यस्याः) (ते) तव (विचृतामसि) (अङ्गमङ्गम्) प्रत्यङ्गम् (परुष्परुः) प्रतिपर्व ॥
 </details>
-

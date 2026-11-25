@@ -21,9 +21,15 @@ TB. (also ĀpśS. xiv. 27. 7, which agrees with it throughout ⌊except
 This man hath Indra stablished, made secure by constant sacri- fice. Soma, and Brahmanaspati here present bless and comfort him!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्र॑ ए॒तम॑दीधरद् ध्रु॒वं ध्रु॒वेण॑ ह॒विषा॑।  
+तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। ए॒तम्। अ॒दी॒ध॒र॒त्। ध्रु॒वम्। ध्रु॒वेण॑। ह॒विषा॑। तस्मै॑। सोमः॑। अधि॑। ब्र॒व॒त्। अ॒यम्। च॒। ब्रह्म॑णः। पतिः॑। ८७.३। 
+इन्द्रः॑। ए॒तम्। अ॒दी॒ध॒र॒त्। ध्रु॒वम्। ध्रु॒वेण॑। ह॒विषा॑। तस्मै॑। सोमः॑। अधि॑। ब्र॒व॒त्। अ॒यम्। च॒। ब्रह्म॑णः। पतिः॑। ८७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ This man hath Indra stablished, made secure by constant sacri- fice. Soma, and B
 
 टिप्पणी:   ३−(इन्द्रः) परमेश्वरः (एतम्) राजानम् (अदीधरत्) धारयतेर्लुङि चङि रूपम्। धारितवान्। स्थापितवान् (ध्रुवम्) स्थिरम् (ध्रुवेण) दृढेन (हविषा) दातव्यग्राह्यशुभकर्मणा (तस्मै) राज्ञे (सोमः) सर्वोत्पादकः (अधि) अधिकमधिकम् (ब्रवत्) ब्रूयात्। उपदिशेत् (च) (ब्रह्मणस्पतिः) ब्रह्माण्डस्य वेदस्य च पालकः परमेश्वरः ॥
 </details>
-

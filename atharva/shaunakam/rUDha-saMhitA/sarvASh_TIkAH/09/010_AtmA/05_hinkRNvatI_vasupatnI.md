@@ -22,9 +22,15 @@ that of RV. ⌊vs. 27⌋ gives *abhí: ā́: agāt;* both yield the same
 She, Lady of all treasures, hath come hither, yearning in spirit for her calf, and lowing. May this Cow yield her milk for both the Asvins, and may she prosper to our high advantage.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+हि॑ङ्कृण्व॒ती व॑सु॒पत्नी॒ वसू॑नां व॒त्समि॒च्छन्ती॒ मन॑सा॒भ्यागा॑त्।  
+दु॒हाम॒श्विभ्यां॒ पयो॑ अ॒घ्न्येयं सा व॑र्धतां मह॒ते सौभ॑गाय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हि॒ङ्ऽकृ॒ण्व॒ती। व॒सु॒ऽपत्नी॑। वसू॑नाम्। व॒त्सम्। इ॒च्छन्ती॑। मन॑सा। अ॒भि॒ऽआगा॑त्। दु॒हाम्। अ॒श्विऽभ्या॑म्। पयः॑। अ॒घ्न्या। इ॒यम्। सा। व॒र्ध॒ता॒म्। म॒ह॒ते। सौभ॑गाय। १५.५। 
+हि॒ङ्ऽकृ॒ण्व॒ती। व॒सु॒ऽपत्नी॑। वसू॑नाम्। व॒त्सम्। इ॒च्छन्ती॑। मन॑सा। अ॒भि॒ऽआगा॑त्। दु॒हाम्। अ॒श्विऽभ्या॑म्। पयः॑। अ॒घ्न्या। इ॒यम्। सा। व॒र्ध॒ता॒म्। म॒ह॒ते। सौभ॑गाय। १५.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ She, Lady of all treasures, hath come hither, yearning in spirit for her calf, a
 
 टिप्पणी:   ५−(अभ्यागात्) आभिमुख्येन आगतवती, प्राप्तवती। अन्यद् व्याख्यातम्-अ० ७।७३।८ ॥
 </details>
-

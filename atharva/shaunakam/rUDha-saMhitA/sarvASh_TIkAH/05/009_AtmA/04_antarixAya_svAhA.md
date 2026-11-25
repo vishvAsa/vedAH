@@ -16,14 +16,19 @@ title = "०४ अन्तरिक्षाय स्वाहा"
 All hail to Air!
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-अ॒न्तरि॑क्षाय। स्वाहा॑। ९.४। 
+अ॒न्तरि॑क्षाय॒ स्वाहा॑ ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-अ॒न्तरि॑क्षाय। स्वाहा॑। ९.४। 
+अ॒न्तरि॑क्षाय। स्वाहा॑। ९.४।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+अ॒न्तरि॑क्षाय। स्वाहा॑। ९.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -33,4 +38,3 @@ All hail to Air!
 - दैवी जगती
 - आत्मा सूक्त
 </details>
-

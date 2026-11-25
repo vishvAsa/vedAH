@@ -20,9 +20,15 @@ The comm. explains the first two epithets respectively by "collecting"
 Hither I call that Apsaras who scatters and who gathers up. The Apsaras who plays with skill and takes her winnings in the game.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॑चिन्व॒तीमा॑कि॒रन्ती॑मप्स॒रां सा॑धुदे॒विनी॑म्।  
+ग्लहे॑ कृ॒तानि॑ गृह्णा॒नाम॑प्स॒रां तामि॒ह हु॑वे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒ऽचि॒न्व॒तीम्। आ॒ऽकि॒रन्ती॑म्। अ॒प्स॒राम्। सा॒धु॒ऽदे॒विनी॑म्। ग्लहे॑। कृ॒तानि॑। गृ॒ह्णा॒नाम्। अ॒प्स॒राम्। ताम्। इ॒ह। हु॒वे॒। ३८.२। 
+वि॒ऽचि॒न्व॒तीम्। आ॒ऽकि॒रन्ती॑म्। अ॒प्स॒राम्। सा॒धु॒ऽदे॒विनी॑म्। ग्लहे॑। कृ॒तानि॑। गृ॒ह्णा॒नाम्। अ॒प्स॒राम्। ताम्। इ॒ह। हु॒वे॒। ३८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Hither I call that Apsaras who scatters and who gathers up. The Apsaras who play
 
 टिप्पणी:   २−(विचिन्वतीम्) चिञ् चयने-शतृ। संघीकुर्वतीम् (आकिरन्तीम्) कॄ विक्षेपे-शतृ। विक्षिपन्तीम् (गृह्णानाम्) ग्रह उपादाने-शानच्। आददानाम्। अन्यत् पूर्ववत् म० २ ॥
 </details>
-

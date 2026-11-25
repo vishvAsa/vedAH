@@ -24,9 +24,15 @@ accent-mark under *ye* has dropped out.
 As at third sacrifice Soma is the Ribhus' well-beloved one, Even so may they, the Ribhus, store splendour and strength within my soul.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॒ सोम॑स्तृ॒तीये॒ सव॑न ऋभू॒णां भ॑वति प्रि॒यः।  
+ए॒वा म॑ ऋभवो॒ वर्च॑ आ॒त्मनि॑ ध्रियताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। सोमः॑। तृतीये॑। सव॑ने। ऋ॒भू॒णाम्। भव॑ति। प्रि॒यः। ए॒व। मे॒। ऋ॒भ॒वः॒। वर्चः॑। आ॒त्मनि॑। ध्रि॒य॒ता॒म्। १.१३। 
+यथा॑। सोमः॑। तृतीये॑। सव॑ने। ऋ॒भू॒णाम्। भव॑ति। प्रि॒यः। ए॒व। मे॒। ऋ॒भ॒वः॒। वर्चः॑। आ॒त्मनि॑। ध्रि॒य॒ता॒म्। १.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ As at third sacrifice Soma is the Ribhus' well-beloved one, Even so may they, th
 
 टिप्पणी:   १३−(सोमः) ऐश्वर्यवान्। वृद्धपुरुषः (तृतीये) शैशवयौवनवार्धकानां पूरके (सवने) यज्ञे। वृद्धभाव इत्यर्थः। (ऋभूणाम्) अ० १।२।३। मेधाविनाम्-निघ० ३।१५। (ऋभवः) हे मेधाविनः। शिष्टं पूर्ववत् ॥
 </details>
-

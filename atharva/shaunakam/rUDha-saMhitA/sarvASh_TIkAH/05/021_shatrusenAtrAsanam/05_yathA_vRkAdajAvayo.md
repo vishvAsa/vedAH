@@ -19,9 +19,15 @@ omitted in our text after *bíbhyatīḥ*.
 As, when the wolf approaches, goats and sheep run sorely terrified, Even so do thou, O Drum, roar out against our foes to frighten them, and then bewilder thou their thoughts.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॒ वृका॑दजा॒वयो॒ धाव॑न्ति ब॒हु बिभ्य॑तीः।  
+ए॒वा त्वं दु॑न्दुभे॒ऽमित्रा॑न॒भि क्र॑न्द॒ प्र त्रा॑स॒याथो॑ चि॒त्तानि॑ मोहय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। वृका॑त्। अ॒ज॒ऽअ॒वयः॑। धाव॑न्ति। ब॒हु। बिभ्य॑तीः। । ए॒व। त्वम्। दु॒न्दु॒भे॒। अ॒मित्रा॑न्। अ॒भि। क्र॒न्द॒। प्र। त्रा॒स॒य॒। अथो॒ऽइति॑। चि॒त्तानि॑। मो॒ह॒य॒। २१.५। 
+यथा॑। वृका॑त्। अ॒ज॒ऽअ॒वयः॑। धाव॑न्ति। ब॒हु। बिभ्य॑तीः। । ए॒व। त्वम्। दु॒न्दु॒भे॒। अ॒मित्रा॑न्। अ॒भि। क्र॒न्द॒। प्र। त्रा॒स॒य॒। अथो॒ऽइति॑। चि॒त्तानि॑। मो॒ह॒य॒। २१.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ As, when the wolf approaches, goats and sheep run sorely terrified, Even so do t
 
 टिप्पणी:   ५−(यथा) येन प्रकारेण (वृकात्) कुक्कुराकाराद् व्याघ्रभेदात् (अजावयः) वर्करीमेष्यः (धावन्ति) पलायन्ते (बहु) अत्यन्तम् (बिभ्यतीः) बिभ्यत्यः। भयं गच्छन्त्यः। अन्यत् पूर्ववत् म० ॥५॥
 </details>
-

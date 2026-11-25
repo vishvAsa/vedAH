@@ -19,9 +19,15 @@ be compared the similar half-verse RV. v. 83. 9 **c, d**.
 When the due season hath arrived and Prana shouteth to herbs, Then all is joyful, yea, each thing upon the surface of the earth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्प्रा॒ण ऋ॒तावाग॑तेऽभि॒क्रन्द॒त्योष॑धीः।  
+सर्वं॑ त॒दा प्र मो॑दते॒ यत्किं च॒ भूम्या॒मधि॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। प्रा॒णः। ऋ॒तौ। आऽग॑ते। अ॒भि॒ऽक्रन्द॑ति। ओष॑धीः। सर्व॑म्। त॒दा। प्र। मो॒द॒ते॒। यत्। किम्। च॒। भूम्या॑म्। अधि॑। ६.४। 
+यत्। प्रा॒णः। ऋ॒तौ। आऽग॑ते। अ॒भि॒ऽक्रन्द॑ति। ओष॑धीः। सर्व॑म्। त॒दा। प्र। मो॒द॒ते॒। यत्। किम्। च॒। भूम्या॑म्। अधि॑। ६.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ When the due season hath arrived and Prana shouteth to herbs, Then all is joyful
 
 टिप्पणी:   ४−(यत्) यदा (प्राणः) म० १ (ऋतौ) ऋतुकाले वर्षतौ (आगते) प्राप्ते (अभिक्रन्दति) (ओषधीः) म० ३। (सर्वम्) चराचरं जगत् (तदा) (प्र मोदते) अत्यन्तं हृष्यति (यत्) (किम् च) किमपि (भूम्याम्) (अधि) उपरि ॥
 </details>
-

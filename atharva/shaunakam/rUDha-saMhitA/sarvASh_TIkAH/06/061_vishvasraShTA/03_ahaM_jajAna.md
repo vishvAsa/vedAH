@@ -27,9 +27,15 @@ ugras smatahavyo babhūva*. \*⌊Perhaps this is an error of Roth for 2
 I gave existence to the earth and heaven, I made the seasons and the seven rivers. My word is truth; what I deny is falsehood, I who rejoice in Agni's, Soma's friendship.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒हं ज॑जान पृथि॒वीमु॒त द्याम॒हमृ॒तूंर॑जनयं स॒प्त सिन्धू॑न्।  
+अ॒हं स॒त्यमनृ॑तं॒ यद्वदा॑मि॒ यो अ॑ग्नीषो॒मावजु॑षे॒ सखा॑या ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒हम्। ज॒जा॒न॒। पृ॒थि॒वीम्। उ॒त। द्याम्। अ॒हम्। ऋ॒तून्। अ॒ज॒न॒य॒म्। स॒प्त। सिन्धू॑न्। अ॒हम्। स॒त्यम्। अनृ॑तम्। यत्। वदा॑मि। यः। अ॒ग्नी॒षो॒मौ। अजु॑षे। सखा॑या। ६१.३। 
+अ॒हम्। ज॒जा॒न॒। पृ॒थि॒वीम्। उ॒त। द्याम्। अ॒हम्। ऋ॒तून्। अ॒ज॒न॒य॒म्। स॒प्त। सिन्धू॑न्। अ॒हम्। स॒त्यम्। अनृ॑तम्। यत्। वदा॑मि। यः। अ॒ग्नी॒षो॒मौ। अजु॑षे। सखा॑या। ६१.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ I gave existence to the earth and heaven, I made the seasons and the seven river
 
 टिप्पणी:   ३−(जजान) उत्पादितवानस्मि (ऋतून्) म० २।  पतनशीलान् ऋषीन् त्वक्चक्षुरादीन् (सप्त) सप्तसंख्यकान् (सिन्धून्) अ० ४।६।२। स्पन्दनशीला व्यापिकाः शक्तीः, त्वक्चक्षुरादीनाम् (यः) अहं परमेश्वरः (अग्नीषोमौ) अग्निं च जलं च  (अजुषे) जुषी प्रीतिसेवनयोः। तर्पितवानस्मि (सखाया) सखायौ, सहायभूतौ। अन्यत् पूर्ववत् ॥
 </details>
-

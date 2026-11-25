@@ -19,9 +19,14 @@ apparently wholly arbitrary.
 I have invoked the Protector; I have invoked his protection.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑हूतो मेगो॒पा उप॑हूतो गोपी॒थः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑ऽहूतः। मे॒। गो॒पाः। उप॑ऽहूतः। गो॒पी॒थः। २.३। 
+उप॑ऽहूतः। मे॒। गो॒पाः। उप॑ऽहूतः। गो॒पी॒थः। २.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ I have invoked the Protector; I have invoked his protection.
 
 टिप्पणी:   ३−(उपहूतः) आदरेणाऽऽवाहनीकृतः (मे) मम (गोपाः) वाणीरक्षक आचार्यः (उपहूतः) (गोपीथः) निशीथगोपीथावगथाः। उ० २।९। गो+पा रक्षणे-थक्, ईत्वम्। भूपालः। राजा ॥
 </details>
-

@@ -8,9 +8,15 @@ title = "०५ प्र रेभासो"
 Quickly and willingly like kine forth come the singers and their hymns: Their little maidens are at home, at home they wait upon the cows.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र रे॒भासो॑ मनी॒षा वृषा॒ गाव॑ इवेरते।  
+अ॑मोत॒पुत्र॑का ए॒षाम॒मोत॑ गा॒ इवा॑सते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र। रे॒भासः॑। मनी॒षाः। वृषाः॒। गावः॑ऽइव। ईरते। अ॒मो॒त॒। पु॒त्र॑काः। ए॒षाम्। अ॒मोत॑। गाः॒ऽइव। आ॑सते। १२७.५। 
+प्र। रे॒भासः॑। मनी॒षाः। वृषाः॒। गावः॑ऽइव। ईरते। अ॒मो॒त॒। पु॒त्र॑काः। ए॒षाम्। अ॒मोत॑। गाः॒ऽइव। आ॑सते। १२७.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +45,3 @@ Quickly and willingly like kine forth come the singers and their hymns: Their li
 
 टिप्पणी:   −(प्र) प्रकर्षेण (रेभासः) विद्वांसः (मनीषाः) बुद्धीः (वृषाः) बलवन्तः (गावः) वृषभाः (इव) यथा (ईरते) गमयन्ति (अमोत) मूङ् बन्धने-क्त, छान्दसो गुणः। हे अमूत। अबद्ध। मुक्त (पुत्रकाः) पुत्राः। सन्तानाः (एषाम्) पूर्वोक्तानाम् (अमोत) (गाः) विद्याः। भूमीः (इव) एव (आसते) उपासते। सेवन्ते ॥
 </details>
-

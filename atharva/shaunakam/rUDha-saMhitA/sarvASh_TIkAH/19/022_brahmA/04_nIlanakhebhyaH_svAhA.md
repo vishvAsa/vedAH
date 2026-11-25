@@ -16,9 +16,14 @@ title = "०४ नीलनखेभ्यः स्वाहा"
 The black-clawed ones, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नी॑लन॒खेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नी॒ल॒ऽन॒खेभ्यः॑। स्वाहा॑। २२.४। 
+नी॒ल॒ऽन॒खेभ्यः॑। स्वाहा॑। २२.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ The black-clawed ones, Hail!
 
 टिप्पणी:   ४−(नीलनखेभ्यः) नि+इल गतौ-क+णख गतौ-क। इला वाङ्नाम-निघ०१।११। नीलानां निश्चितज्ञानानां नखेभ्यः प्रापकेभ्यः परमात्मगुणेभ्यः ॥
 </details>
-

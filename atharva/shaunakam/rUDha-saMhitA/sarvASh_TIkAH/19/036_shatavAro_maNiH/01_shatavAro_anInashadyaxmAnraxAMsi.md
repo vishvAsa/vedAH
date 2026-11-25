@@ -29,9 +29,15 @@ of the person on whom it is "bound"—so Griffith.⌋
 The Hundred-haired hath banished hence fiends and Consump- tions by its might. With splendour hath the charm that scares demons of ill-name mounted up.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+श॒तवा॑रो अनीनश॒द्यक्ष्मा॒न्रक्षां॑सि॒ तेज॑सा।  
+आ॒रोह॒न्वर्च॑सा स॒ह म॒णिर्दु॑र्णाम॒चात॑नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श॒तऽवा॑रः। अ॒नी॒न॒श॒त्। यक्ष्मा॑न्। रक्षां॑सि। तेज॑सा। आ॒ऽरोह॑न्। वर्च॑सा। स॒ह। म॒णिः। दु॒र्ना॒म॒ऽचात॑नः। ३६.१। 
+श॒तऽवा॑रः। अ॒नी॒न॒श॒त्। यक्ष्मा॑न्। रक्षां॑सि। तेज॑सा। आ॒ऽरोह॑न्। वर्च॑सा। स॒ह। म॒णिः। दु॒र्ना॒म॒ऽचात॑नः। ३६.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,4 +67,3 @@ The Hundred-haired hath banished hence fiends and Consump- tions by its might. W
 
 टिप्पणी:   शतवार और शतावरी एक ही औषध जान पड़ते हैं, जिसके नाम शतमूली आदि हैं ॥१−(शतवारः) शत+वृण् वरणे-घञ्। बहुभिर्वरणीयः स्वीकरणीयः। विश्ववारः-अ०५।२७।३। औषधविशेषः (अनीनशत्) नाशितवान् (यक्ष्मान्) अ०२।१०।५ राजरोगान्। क्षयरोगान् (तेजसा) प्रभावेण (आरोहन्) अधितिष्ठन् (वर्चसा) प्रकाशेन (सः) (मणिः) प्रशस्तः (दुर्णामचातनः) अ०८।६।३। दुर्णाम्नामर्शआदिरोगाणां नाशकः ॥
 </details>
-

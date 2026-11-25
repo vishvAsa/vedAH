@@ -20,9 +20,15 @@ parts of 11-13, not metrical as it stands.
 As honey-bees collect and add fresh honey to their honey store, Even so may both the Asvins lay splendour and strength within my soul.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॒ मधु॑ मधु॒कृतः॑ सं॒भर॑न्ति॒ मधा॒वधि॑।  
+ए॒वा मे॑ अश्विना॒ वर्च॑ आ॒त्मनि॑ ध्रियताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। मधु॑। म॒धु॒ऽकृतः॑। स॒म्ऽभर॑न्ति। मधौ॑। अधि॑। ए॒व। मे॒। अ॒श्वि॒ना॒। वर्चः॑। आ॒त्मनि॑। ध्रि॒य॒ता॒म्। १.१६। 
+यथा॑। मधु॑। म॒धु॒ऽकृतः॑। स॒म्ऽभर॑न्ति। मधौ॑। अधि॑। ए॒व। मे॒। अ॒श्वि॒ना॒। वर्चः॑। आ॒त्मनि॑। ध्रि॒य॒ता॒म्। १.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ As honey-bees collect and add fresh honey to their honey store, Even so may both
 
 टिप्पणी:   १६−(मधु) ज्ञानम् (मधुकृतः) बोधकर्तारः। आचार्याः (संभरन्ति) संगृह्य धरन्ति (मधौ) ज्ञाने (अधि) यथावत्। अन्यत् पूर्ववत्-म० ११ ॥
 </details>
-

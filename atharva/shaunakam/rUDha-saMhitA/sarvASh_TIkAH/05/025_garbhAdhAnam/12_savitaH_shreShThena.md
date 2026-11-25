@@ -16,14 +16,20 @@ title = "१२ सवितः श्रेष्ठेन"
 Savitar, vivifier, lay within the body of this dame A male germ with the noblest form for her in the tenth month to bear.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-सवि॑तः। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१२। 
+सवि॑तः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
+पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-सवि॑तः। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१२। 
+सवि॑तः। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१२।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+सवि॑तः। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -33,4 +39,3 @@ Savitar, vivifier, lay within the body of this dame A male germ with the noblest
 - अनुष्टुप्
 - गर्भाधान सूक्त
 </details>
-

@@ -25,9 +25,15 @@ and as to *vidáthā*, see Geldner, ZDMG. lii. 735.⌋
 O Tree, give back again this man who is deposited on thee. That he may dwell in Yama's home addressing the assemblies there.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पुन॑र्देहिवनस्पते॒ य ए॒ष निहि॑त॒स्त्वयि॑।  
+यथा॑ य॒मस्य॒ साद॑न॒ आसा॑तै वि॒दथा॒ वद॑न्॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पुनः॑। दे॒हि॒। व॒न॒स्प॒ते॒। यः। ए॒षः। निऽहि॑तः। त्वयि॑। यथा॑। य॒मस्य॑। सद॑ने। आसा॑तै। वि॒दथा॑। वद॑न्। ३.७०। 
+पुनः॑। दे॒हि॒। व॒न॒स्प॒ते॒। यः। ए॒षः। निऽहि॑तः। त्वयि॑। यथा॑। य॒मस्य॑। सद॑ने। आसा॑तै। वि॒दथा॑। वद॑न्। ३.७०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ O Tree, give back again this man who is deposited on thee. That he may dwell in 
 
 टिप्पणी:   ७०−(पुनः) अवधारणे (देहि) प्रयच्छ श्रेष्ठगुणम् (वनस्पते) वनसेवने-अच्। हे वनानां सेवकानां पालक परमेश्वर (यः) श्रेष्ठगुणः (एषः) (निहितः)दृढं, धृतः (त्वयि) (यथा) येन प्रकारेण (यमस्य) न्यायस्य (सदने) गृहे (आसातै)लेटि रूपम्। आसीत्। उपविशेत् (विदथा) ज्ञानानि (वदन्) कथयन्। उपदिशन् ॥
 </details>
-

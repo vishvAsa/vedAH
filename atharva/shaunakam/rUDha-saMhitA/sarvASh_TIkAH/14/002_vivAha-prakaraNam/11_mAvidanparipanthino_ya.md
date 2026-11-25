@@ -23,9 +23,15 @@ verse is used (Kāuś. 77. 3), with 1. 34, when the bridal train starts.
 Let not the highway thieves who lie in ambush find the wedded pair. Let wicked men's malignities go elsewhere by an easy path.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मावि॑दन्परिप॒न्थिनो॒ य आ॒सीद॑न्ति॒ दम्प॑ती।  
+सु॒गेन॑ दु॒र्गमती॑ता॒मप॑द्रा॒न्त्वरा॑तयः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मा। वि॒द॒न्। प॒रि॒ऽप॒न्थिनः॑। ये। आ॒ऽसीद॑न्ति। दंप॑ती॒ इति॒ दम्ऽप॑ती। सु॒ऽगेन॑। दुः॒ऽगम्। अति॑। इ॒ता॒म्। अप॑। द्रा॒न्तु॒। अरा॑तयः। १.११। 
+मा। वि॒द॒न्। प॒रि॒ऽप॒न्थिनः॑। ये। आ॒ऽसीद॑न्ति। दंप॑ती॒ इति॒ दम्ऽप॑ती। सु॒ऽगेन॑। दुः॒ऽगम्। अति॑। इ॒ता॒म्। अप॑। द्रा॒न्तु॒। अरा॑तयः। १.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Let not the highway thieves who lie in ambush find the wedded pair. Let wicked m
 
 टिप्पणी:   ११−(मा विदन्) मा प्राप्नुवन्तु (परिपन्थिनः) अ० १।२७।२। प्रतिकूलाचारिणः (आसीदन्ति) आगत्य घाते तिष्ठन्ति (दम्पती) पतिपत्न्यौ (सुगेन) सुगमनीयेन मार्गेण (दुर्गम्) दुर्गम्यस्थानम् (अति) अतीत्य (इताम्) गच्छताम् (अ द्रान्तु)पलायन्ताम् (अरातयः) शत्रवः ॥
 </details>
-

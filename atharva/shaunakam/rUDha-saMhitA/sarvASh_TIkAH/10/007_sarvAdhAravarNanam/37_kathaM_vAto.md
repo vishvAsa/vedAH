@@ -20,9 +20,15 @@ kommen fúrwahr die strebenden Wasser niemals zur Ruhe?'⌋
 Why doth the Wind move ceaselessly? Why doth the spirit take no rest? Why do the Waters, seeking truth, never at any time repose?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क॒थं वातो॒ नेल॑यति क॒थं न र॑मते॒ मनः॑।  
+किमापः॑ स॒त्यं प्रेप्स॑न्ती॒र्नेल॑यन्ति क॒दा च॒न ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क॒थम्। वातः॑। न। इ॒ल॒य॒ति॒। क॒थम्। न। र॒म॒ते॒। मनः॑। किम्। आपः॑। स॒त्यम्। प्र॒ऽईप्स॑न्तीः। न। इ॒ल॒य॒न्ति॒। क॒दा। च॒न। ७.३७। 
+क॒थम्। वातः॑। न। इ॒ल॒य॒ति॒। क॒थम्। न। र॒म॒ते॒। मनः॑। किम्। आपः॑। स॒त्यम्। प्र॒ऽईप्स॑न्तीः। न। इ॒ल॒य॒न्ति॒। क॒दा। च॒न। ७.३७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Why doth the Wind move ceaselessly? Why doth the spirit take no rest? Why do the
 
 टिप्पणी:   ३७−(कथम्) केन प्रकारेण (वातः) वायुः (न) निषेधे (इलयति) इल स्वप्नक्षेपणयोः। स्वपिति (कथम्) (न) (रमते) उपरमति। तिष्ठति (मनः) सङ्कल्पविकल्पात्मकमन्तःकरणम् (किम्) (आपः) प्रजाः। जलानि (सत्यम्) परमात्मनियमम् (प्रेप्सन्तीः) प्राप्तुमिच्छन्त्यः (न) (इलयन्ति) शेरते (कदा चन) कस्मिन्नपि काले ॥
 </details>
-

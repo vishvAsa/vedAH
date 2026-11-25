@@ -25,9 +25,15 @@ much an *āstārapan̄kti* as vs. 2; ⌊both are doubtless to be scanned as 8
 For conquering strength and energy and vigour I fasten thee for chieftainship, for bearing royal dominion through a hundred autumns.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऊ॒र्जे त्वा॒ बला॑य॒ त्वौज॑से॒ सह॑से त्वा।  
+अ॑भि॒भूया॑य त्वा राष्ट्र॒भृत्या॑य॒ पर्यू॑हामि श॒तशा॑रदाय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऊ॒र्जे। त्वा॒। बला॑य। त्वा॒। ओज॑से। सह॑से। त्वा॒। अ॒भि॒ऽभूया॑य। त्वा॒। रा॒ष्ट्रऽभृ॑त्याय। परि॑। ऊ॒हा॒मि॒। श॒तऽशा॑रदाय। ३७.३। 
+ऊ॒र्जे। त्वा॒। बला॑य। त्वा॒। ओज॑से। सह॑से। त्वा॒। अ॒भि॒ऽभूया॑य। त्वा॒। रा॒ष्ट्रऽभृ॑त्याय। परि॑। ऊ॒हा॒मि॒। श॒तऽशा॑रदाय। ३७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ For conquering strength and energy and vigour I fasten thee for chieftainship, f
 
 टिप्पणी:   ३−(ऊर्जे) अन्नलाभाय (त्वा) त्वाम् (बलाय) सामर्थ्याय (त्वा) (ओजसे) पराक्रमाय (सहसे) उत्साहाय (त्वा) (अभिभूयाय) अभि+भू सत्तायां प्राप्तौ च-क्यप्। अभिभवनाय विजयाय (त्वा) (राष्ट्रभृत्याय) डुभृञ् धारणपोषणयोः-क्यप्, तुक्। राज्यपोषणाय (परि) सर्वतः (ऊहामि) तर्केण निश्चिनोमि (शतशारदाय) शतवर्षयुक्ताय जीवनाय ॥
 </details>
-

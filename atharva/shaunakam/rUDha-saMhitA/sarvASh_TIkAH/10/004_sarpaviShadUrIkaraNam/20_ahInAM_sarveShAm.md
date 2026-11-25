@@ -17,9 +17,15 @@ the cross-lined ones, crushed down the *pṛ́dākus*.
 Let the floods hurry on and bear the poison of all snakes afar. Tiraschirajis have been slain and vipers crushed and brayed to bits.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अही॑नां॒ सर्वे॑षां वि॒षं परा॑ वहन्तु सिन्धवः।  
+ह॒तास्तिर॑श्चिराजयो॒ निपि॑ष्टासः॒ पृदा॑कवः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अही॑नाम्। सर्वे॑षाम्। वि॒षम्। परा॑। व॒ह॒न्तु॒। सिन्ध॑वः। ह॒ताः। तिर॑श्चिऽराजयः। निऽपि॑ष्टासः। पृदा॑कवः। ४.२०। 
+अही॑नाम्। सर्वे॑षाम्। वि॒षम्। परा॑। व॒ह॒न्तु॒। सिन्ध॑वः। ह॒ताः। तिर॑श्चिऽराजयः। निऽपि॑ष्टासः। पृदा॑कवः। ४.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Let the floods hurry on and bear the poison of all snakes afar. Tiraschirajis ha
 
 टिप्पणी:   २०−(अहीनाम्) म० १। सर्पाणाम् (सर्वेषाम्) (विषम्) (परा) दूरे (वहन्तु) नयन्तु (सिन्धवः) नद्यः। अन्यत् पूर्ववत्−म० १३ ॥
 </details>
-

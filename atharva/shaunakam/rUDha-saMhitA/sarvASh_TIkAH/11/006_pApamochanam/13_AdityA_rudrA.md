@@ -19,9 +19,15 @@ Perhaps **b** is rather 'the divine Atharvans in heaven'; Ppp. reads
 Adityas, Rudra, Vasus, Gods aloft in heaven, Atharvan's sons, The sages, sons of Angiras: may they deliver us from woe.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॑दि॒त्या रु॒द्रा वस॑वो दि॒वि दे॒वा अथ॑र्वाणः।  
+अङ्गि॑रसो मनी॒षिण॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒दि॒त्याः। रु॒द्राः। वस॑वः। दि॒वि। दे॒वाः। अथ॑र्वाणः। अङ्गि॑रसः। म॒नी॒षिणः॑। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१३। 
+आ॒दि॒त्याः। रु॒द्राः। वस॑वः। दि॒वि। दे॒वाः। अथ॑र्वाणः। अङ्गि॑रसः। म॒नी॒षिणः॑। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Adityas, Rudra, Vasus, Gods aloft in heaven, Atharvan's sons, The sages, sons of
 
 टिप्पणी:   १३−(आदित्याः) अ० १।९।१। आदीप्यमानाः (रुद्राः) अ० २।२७।६। दुःखनाशकाः (वसवः) वासयितारः (दिवि) विजिगीषायाम् (देवाः) व्यवहारकुशलाः (अथर्वाणः) अ० ४।१।७। निश्चलस्वभावाः (अङ्गिरसः) अ० २।१२।४। ज्ञानिनो महर्षयः (मनीषिणः) अ० ३।५।६। मेधाविनः-निघ० ३।१५। अन्यत् पूर्ववत्-म० १ ॥
 </details>
-

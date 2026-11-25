@@ -153,9 +153,14 @@ count 11 + 9 + 8: 11 + 14 = 53, mechanically a *bhurig atijagatī*.
 Hither he comes with power and fatness also, the luminous,. implored with adoration.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अच्छा॒यमे॑ति॒ शव॑सा घृ॒ता चि॒दीडा॑नो॒ वह्नि॒र्नम॑सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अच्छ॑। अ॒यम्। ए॒ति॒। शव॑सा। घृ॒ता। चि॒त्। ईडा॑नः। वह्नि॑। नम॑सा। २७.४। 
+अच्छ॑। अ॒यम्। ए॒ति॒। शव॑सा। घृ॒ता। चि॒त्। ईडा॑नः। वह्नि॑। नम॑सा। २७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -185,4 +190,3 @@ Hither he comes with power and fatness also, the luminous,. implored with adorat
 
 टिप्पणी:   ४−(अच्छ) सम्यक्। अभिमुखम्। अच्छाभेराप्तुमिति शाकपूणिः−निरु० ५।२८। (अयम्) प्रसिद्धः (एति) गच्छति (शवसा) बलेन (घृता) घृतेन, उदकेन−निघ० १।१२। (चित्) निश्चयेन (ईडानः) शुभगुणान् स्तुवन् (वह्निः) वहिश्रिश्रुयु०। उ० ४।५१। इति वह प्रापणे−नि। कार्यनिर्वाहकः। वह्नयो वोढारः−निरु० ८।३। (नमसा) अन्नेन−निघ० २।७ ॥
 </details>
-

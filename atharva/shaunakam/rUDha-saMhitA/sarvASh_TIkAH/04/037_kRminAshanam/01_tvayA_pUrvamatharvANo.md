@@ -19,9 +19,15 @@ The comm. explains that one or other of the specified plants, the
 With thee, O Plant, in olden time Atharvans smote and slew the fiends. Kasyapa smote with thee, with thee did Kanava and Agastya smite.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वया॒ पूर्व॒मथ॑र्वाणो ज॒घ्नू रक्षां॑स्योषधे।  
+त्वया॑ जघान क॒श्यप॒स्त्वया॒ कण्वो॑ अ॒गस्त्यः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वया॑। पूर्व॑म्। अथ॑र्वाणः। ज॒घ्नुः। रक्षां॑सि। ओ॒ष॒धे॒। त्वया॑। ज॒घा॒न॒। क॒श्यपः॑। त्वया॑। कण्वः॑। अ॒गस्त्यः॑। ३७.१। 
+त्वया॑। पूर्व॑म्। अथ॑र्वाणः। ज॒घ्नुः। रक्षां॑सि। ओ॒ष॒धे॒। त्वया॑। ज॒घा॒न॒। क॒श्यपः॑। त्वया॑। कण्वः॑। अ॒गस्त्यः॑। ३७.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ With thee, O Plant, in olden time Atharvans smote and slew the fiends. Kasyapa s
 
 टिप्पणी:   १−(त्वया) (पूर्वम्) अग्रे (अथर्वाणः) अ० ४।१।७। निश्चलस्वभावाः। मङ्गलाय व्यापका महात्मानः (जघ्नुः) हतवन्तः (रक्षांसि) राक्षसान् (ओषधे) अ० १।२३।१। हे तापनाशक परमेश्वर (जघान) हतवान् (कश्यपः) अ० २।३३।७। पश्यकः, तत्त्वदर्शकः पुरुषः (कण्वः) अ० २।३२।३। मेधावी-निघ० ३।१५। (अगस्त्यः) अ० २।३२।३। अगस्य कुटिलगतेः पापस्य असने उत्पाटने समर्थः पुरुषः ॥
 </details>
-

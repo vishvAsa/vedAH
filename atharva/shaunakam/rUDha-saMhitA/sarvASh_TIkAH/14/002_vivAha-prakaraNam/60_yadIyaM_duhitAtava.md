@@ -19,9 +19,15 @@ vikreṣv arujat: bahu rodhena kṛṇvaty agham*.
 If in thy house thy daughter here have wept, with wild dishevel- led locks, committing sin with her lament. May Agni, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदी॒यं दु॑हि॒तातव॑ विके॒श्यरु॑दद्गृ॒हे रोदे॑न कृण्वत्य१॒॑घम्।  
+अ॒ग्निष्ट्वा॒ तस्मा॒देन॑सःसवि॒ता च॒ प्र मु॑ञ्चताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यदि॑। इ॒यम्। दु॒हि॒ता। तव॑। वि॒ऽके॒शी। अरु॑दत्। गृ॒हे। रोदे॑न। कृ॒ण्व॒ती। अ॒घम्। अ॒ग्निः। त्वा॒। तस्मा॑त्। एन॑सः। स॒वि॒ता। च॒। प्र। मु॒ञ्च॒ता॒म्। २.६०। 
+यदि॑। इ॒यम्। दु॒हि॒ता। तव॑। वि॒ऽके॒शी। अरु॑दत्। गृ॒हे। रोदे॑न। कृ॒ण्व॒ती। अ॒घम्। अ॒ग्निः। त्वा॒। तस्मा॑त्। एन॑सः। स॒वि॒ता। च॒। प्र। मु॒ञ्च॒ता॒म्। २.६०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ If in thy house thy daughter here have wept, with wild dishevel- led locks, comm
 
 टिप्पणी:   ६०−(इयम्) उपस्थिता (दुहिता) पुत्री (तव) (विकेशी) विकीर्णकेशा (अरुदत्)रुद्यात् (कृण्वती) कुर्वती। अन्यद्गतम्-म० ५९ ॥
 </details>
-

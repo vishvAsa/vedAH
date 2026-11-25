@@ -29,9 +29,14 @@ paragraph.
 She mounted up, the Eastward fire she entered. He who knows this becomes the Gods' beloved, and to his call they come when she invokes them.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+गृ॑हमे॒धी गृ॒हप॑तिर्भवति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-गृ॒ह॒ऽमे॒धी। गृ॒हऽप॑तिः। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.३। 
+गृ॒ह॒ऽमे॒धी। गृ॒हऽप॑तिः। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,4 +66,3 @@ She mounted up, the Eastward fire she entered. He who knows this becomes the God
 
 टिप्पणी:   ३−(गृहमेधी) सुप्यजातौ०। पा० ३।२।७८। गृह+मेधृ वधमेधासंगमेषु-णिनि। गृहं गृहकार्यं मेधति जानाति यः स (गृहपतिः) गृहस्वामी ॥
 </details>
-

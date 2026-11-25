@@ -16,9 +16,14 @@ title = "०२ रुजन्परिरुजन्मृणन्प्र�
 Breaking, breaking down, crushing, crushing to pieces,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+रु॒जन्प॑रिरु॒जन्मृ॒णन्प्र॑मृ॒णन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-रु॒जन्। प॒रि॒ऽरु॒जन्। मृ॒णन्। प्र॒ऽमृ॒णन्। १.२। 
+रु॒जन्। प॒रि॒ऽरु॒जन्। मृ॒णन्। प्र॒ऽमृ॒णन्। १.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Breaking, breaking down, crushing, crushing to pieces,
 
 टिप्पणी:   २−(रुजन्) विदारयन् (परिरुजन्) सर्वतो विदारयन् (मृणन्) मारयन् (प्रमृणन्) प्रकर्षेण नाशयन् ॥
 </details>
-

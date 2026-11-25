@@ -19,9 +19,15 @@ adh-*; in **c** it has again *bhūmyaṁ;* in **d**, *sarvalokān vi*.
 To all the regions Rohita came, the imperial Lord of heaven. He watches over ocean, heaven, and earth and all existing things.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वा॒ दिशः॒ सम॑चर॒द्रोहि॒तोऽधि॑पतिर्दि॒वः।  
+दिवं॑ समु॒द्रमाद्भूमिं॒ सर्वं॑ भू॒तं वि र॑क्षति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वाः॑। दिशः॑। सम्। अ॒च॒र॒त्। रोहि॑तः। अधि॑ऽपतिः। दि॒वः। दिव॑म्। स॒मु॒द्रम्। आत्। भूमि॑म्। सर्व॑म्। भू॒तम्। वि। र॒क्ष॒ति॒। २.४१। 
+सर्वाः॑। दिशः॑। सम्। अ॒च॒र॒त्। रोहि॑तः। अधि॑ऽपतिः। दि॒वः। दिव॑म्। स॒मु॒द्रम्। आत्। भूमि॑म्। सर्व॑म्। भू॒तम्। वि। र॒क्ष॒ति॒। २.४१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ To all the regions Rohita came, the imperial Lord of heaven. He watches over oce
 
 टिप्पणी:   ४१−(सर्वाः) (दिशः) पूर्वादिदिशाः (समचरत्) विचरितवान् (रोहितः) सर्वजनकः परमेश्वरः (अधिपतिः) अध्यक्षः (दिवः) प्रकाशस्य (दिवम्) सूर्यम् (समुद्रम्) अन्तरिक्षम् (आत्) अपि (भूमिम्) (सर्वम्) (भूतम्) जगत् (वि) विविधम् (रक्षति) पाति ॥
 </details>
-

@@ -26,9 +26,14 @@ An accent-mark has dropped out in our edition under the *va* of
 She mounted up, she came to men. They called her, Come unto- us, come hither thou Free-giver! Earth was her milking-pail, the calf beside her Manu Vaivasvata, Vivasvan's offspring. Prithi the son of Vena was her milker: he milked forth hus- bandry and grain for sowing. These men depend for life on corn and tillage. He who knows this becomes a meet supporter, successful in the culture of his_ corn-land.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोद॑क्राम॒त्सा वन॒स्पती॒नाग॑च्छ॒त्तां वन॒स्पत॑योऽघ्नत॒ सा सं॑वत्स॒रे सम॑भवत्।
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अ॒क्रा॒म॒त्। सा। वन॒स्पती॑न्। आ। अ॒ग॒च्छ॒त्। ताम्। वन॒स्पत॑यः। अ॒घ्न॒त॒। सा। स॒म्ऽव॒त्स॒रे। सम्। अ॒भ॒व॒त्। १२.१। 
+सा। उत्। अ॒क्रा॒म॒त्। सा। वन॒स्पती॑न्। आ। अ॒ग॒च्छ॒त्। ताम्। वन॒स्पत॑यः। अ॒घ्न॒त॒। सा। स॒म्ऽव॒त्स॒रे। सम्। अ॒भ॒व॒त्। १२.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +63,3 @@ She mounted up, she came to men. They called her, Come unto- us, come hither tho
 
 टिप्पणी:   १−(वनस्पतीन्) वृक्षादिपदार्थान् (आ अगच्छत्) आगतवती (ताम्) विराजम् (वनस्पतयः) (अघ्नत) हन हिंसागत्योः। अघ्नन्। अगच्छन् (सा) (संवत्सरे) संवसन्ति ऋतवोऽत्र, सम्+वस-सरन्। द्वादशमासात्मके काले (सम् अभवत्) समगच्छत्। अन्यद्गतम् ॥
 </details>
-

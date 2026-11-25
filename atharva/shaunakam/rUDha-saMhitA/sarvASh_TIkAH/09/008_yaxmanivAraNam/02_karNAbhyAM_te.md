@@ -20,9 +20,15 @@ under vi. 127. 1. For the obscure *kan̄kūṣa* Ppp. has *kaṅkukha*, and for
 From both thine ears, from parts thereof, thine earache, and the throbbing pain, All malady that wrings thy brow we charm away with this our spell.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+कर्णा॑भ्यां ते॒ कङ्कू॑षेभ्यः कर्णशू॒लं वि॒सल्प॑कम्।  
+सर्वं॑ शीर्ष॒र्ण्यं᳡ ते॒ रोगं॑ ब॒हिर्निर्म॑न्त्रयामहे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कर्णा॑भ्याम्। ते॒। कङ्कू॑षेभ्यः। क॒र्ण॒ऽशू॒लम्। वि॒ऽसल्प॑कम्। सर्व॑म्। शी॒र्ष॒ण्य᳡म्। ते॒। रोग॑म्। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.२। 
+कर्णा॑भ्याम्। ते॒। कङ्कू॑षेभ्यः। क॒र्ण॒ऽशू॒लम्। वि॒ऽसल्प॑कम्। सर्व॑म्। शी॒र्ष॒ण्य᳡म्। ते॒। रोग॑म्। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ From both thine ears, from parts thereof, thine earache, and the throbbing pain,
 
 टिप्पणी:   २−(कर्णाभ्याम्) अ० २।३३।१। श्रोत्राभ्याम् (कङ्कूषेभ्यः) पीयेरूषन्। उ० ४।७६। ककि गतौ−ऊषन्। व्यापकेभ्यः कर्णनाडीविशेषेभ्यः (विसल्पकम्) अ० ७।१२७।१। विसर्परोगम्। अन्यद् गतम् ॥
 </details>
-

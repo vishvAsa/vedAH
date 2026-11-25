@@ -19,9 +19,14 @@ This paragraph and the one following are wanting in Ppp.
 She rose, the Garhapatya fire she entered. He who knows this becomes lord of a household, performer of domestic sacri- fices.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोद॑क्राम॒त्सा गार्ह॑पत्ये॒ न्य᳡क्रामत्।
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अ॒क्रा॒म॒त्। सा। गार्ह॑ऽपत्ये। नि। अ॒क्रा॒म॒त्। १०.२। 
+सा। उत्। अ॒क्रा॒म॒त्। सा। गार्ह॑ऽपत्ये। नि। अ॒क्रा॒म॒त्। १०.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ She rose, the Garhapatya fire she entered. He who knows this becomes lord of a h
 
 टिप्पणी:   २−(सा) विराट् (उत्) उपरि (अक्रामत्) पादं स्थापितवती (सा) (गार्हपत्ये) अ० ५।३१।५। गृहपतिभिः संयुक्ते कर्मणि (नि) नीचैः ॥
 </details>
-

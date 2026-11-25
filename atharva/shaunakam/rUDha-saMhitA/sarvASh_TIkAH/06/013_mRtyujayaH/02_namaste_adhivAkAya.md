@@ -19,9 +19,15 @@ the datives in **a** and **b** as *nomina agentis*.
 Let worship be to thy defence and to thine accusation paid. Death! be this worship paid to thy good-will and thy malevo- lence!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नम॑स्ते अधिवा॒काय॑ परावा॒काय॑ ते॒ नमः॑।  
+सु॑म॒त्यै मृ॑त्यो ते॒ नमो॑ दुर्म॒त्यै त॑ इ॒दं नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नमः॑। ते॒। अ॒धि॒ऽवा॒काय॑। प॒रा॒ऽवा॒काय॑। ते॒। नमः॑। सु॒ऽम॒त्यै। मृ॒त्यो॒ इति॑। ते॒। नमः॑। दुः॒ऽम॒त्यै। ते॒। इ॒दम्। नमः॑। १३.२। 
+नमः॑। ते॒। अ॒धि॒ऽवा॒काय॑। प॒रा॒ऽवा॒काय॑। ते॒। नमः॑। सु॒ऽम॒त्यै। मृ॒त्यो॒ इति॑। ते॒। नमः॑। दुः॒ऽम॒त्यै। ते॒। इ॒दम्। नमः॑। १३.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Let worship be to thy defence and to thine accusation paid. Death! be this worsh
 
 टिप्पणी:   २−(नमः) सत्कारः (ते) तव (अधिवाकाय) वच परिभाषणे−घञ्, कुत्वम्। अनुग्रहवचनाय (परावाकाय) पराभववचनाय (सुमत्यै) शोभनायै बुद्ध्यै (मृत्यो) हे मरण ! (दुर्मत्यै) कठोरायै बुद्ध्यै (इदम्) क्रियमाणम् ॥
 </details>
-

@@ -17,9 +17,15 @@ Indra-and-Agni, let splendor be maintained in my self.
 As at the second sacrifice Indra and Agni love him well, Let the pair, Indra Agni, lay splendour and strength within my soul.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॒ सोमो॑ द्वि॒तीये॒ सव॑न इन्द्रा॒ग्न्योर्भ॑वति प्रि॒यः।  
+ए॒वा म॑ इन्द्राग्नी॒ वर्च॑ आ॒त्मनि॑ ध्रियताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। सोमः॑। द्वि॒तीये॑। सव॑ने। इ॒न्द्रा॒ग्न्योः। भव॑ति। प्रि॒यः। ए॒व। मे॒। इ॒न्द्रा॒ग्नी॒ इति॑। वर्चः॑। आ॒त्मनि॑। ध्रि॒य॒ता॒म्। १.१२। 
+यथा॑। सोमः॑। द्वि॒तीये॑। सव॑ने। इ॒न्द्रा॒ग्न्योः। भव॑ति। प्रि॒यः। ए॒व। मे॒। इ॒न्द्रा॒ग्नी॒ इति॑। वर्चः॑। आ॒त्मनि॑। ध्रि॒य॒ता॒म्। १.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ As at the second sacrifice Indra and Agni love him well, Let the pair, Indra Agn
 
 टिप्पणी:   १२−(सोमः) ऐश्वर्यवान्। युवा पुरुषः (द्वितीये) बाल्ययौवनयोः पूरके (सवने) यज्ञे यौवन इत्यर्थः (इन्द्राग्न्योः) सूर्यविद्युत्तुल्ययोर्मातापित्रोः (इन्द्राग्नी) हे सूर्यविद्युत्तुल्यौ मातापितरौ। अन्यत् पूर्ववत् ॥
 </details>
-

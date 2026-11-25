@@ -17,9 +17,14 @@ father and the grandfather and the waters and faith, becoming rain.
 Prajapati and Parameshthin and the Father and the Great Father and the Waters and Faith, turned into rain, followed him.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तं प्र॒जाप॑तिश्चपरमे॒ष्ठी च॑ पि॒ता च॑ पिताम॒हश्चाप॑श्च श्र॒द्धा च॑ व॒र्षंभू॒त्वानु॒व्य᳡वर्तयन्त ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तम्। प्र॒जाऽप॑तिः। च॒। प॒र॒मे॒ऽस्थी। च॒। प‍ि॒ता। च॒। पि॒ता॒म॒हः। च॒। आपः॑। च॒। श्र॒ध्दा। च॒। व॒र्षम्। भू॒त्वा। अ॒नु॒ऽव्य᳡वर्तयन्त। ७.२। 
+तम्। प्र॒जाऽप॑तिः। च॒। प॒र॒मे॒ऽस्थी। च॒। प‍ि॒ता। च॒। पि॒ता॒म॒हः। च॒। आपः॑। च॒। श्र॒ध्दा। च॒। व॒र्षम्। भू॒त्वा। अ॒नु॒ऽव्य᳡वर्तयन्त। ७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Prajapati and Parameshthin and the Father and the Great Father and the Waters an
 
 टिप्पणी:   २−(तम्) व्रात्यम् (आपः) आपः कर्माख्यायां ह्रस्वो नुट् च वा। उ० ४।२०८। आप्लृव्याप्तौ-असुन्। सुकर्म (श्रद्धा) धर्मविश्वासः (वर्षम्) वृतॄवदिवचि०। उ० ३।६२।वृञ् वरणे-स प्रत्ययः। वरत्वं श्रेष्ठताम् (भूत्वा) भू प्राप्तौ-क्त्वा।प्राप्य (अनुव्यवर्तयन्त) अनुसृत्य वर्तमाना अभवन्। अन्यत् पूर्ववत्-सू० ६। म०२५ ॥
 </details>
-

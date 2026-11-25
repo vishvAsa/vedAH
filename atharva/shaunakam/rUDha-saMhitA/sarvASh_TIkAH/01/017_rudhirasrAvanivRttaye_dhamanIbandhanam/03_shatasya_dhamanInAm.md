@@ -20,9 +20,15 @@ but Ppp. also has *antās: sakam antā 'raṁsata;* its **c** is corrupt
 Among a thousand vessels charged with blood, among a thousand veins, Even these the middlemost stand still and their extremities have rest.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+श॒तस्य॑ ध॒मनी॑नां स॒हस्र॑स्य हि॒राणा॑म्।  
+अस्थु॒रिन्म॑ध्य॒मा इ॒माः सा॒कमन्ता॑ अरंसत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श॒तस्य॑। ध॒मनी॑नाम्। स॒हस्र॑स्य। हि॒राणा॑म्। अस्थुः॑। इत्। म॒ध्य॒माः। इ॒माः। सा॒कम्। अन्ताः॑। अ॒रं॒स॒त॒। 
+श॒तस्य॑। ध॒मनी॑नाम्। स॒हस्र॑स्य। हि॒राणा॑म्। अस्थुः॑। इत्। म॒ध्य॒माः। इ॒माः। सा॒कम्। अन्ताः॑। अ॒रं॒स॒त॒।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Among a thousand vessels charged with blood, among a thousand veins, Even these 
 
 टिप्पणी:   ३−शतस्य।– शतसंख्यानाम् अपरिमितानाम्। धमनीनाम्। म० २। हृदयगतानां प्रधाननाडीनाम्। सहस्रस्य। अपरिमितानाम्। हिराणाम्। म० १। सिराणाम्। सूक्ष्मशाखानाडीनाम्। अस्थुः। १।१६।१। स्थिता अभूवन् मध्यमाः। म० २। मध्यभवाः। साकम्। युगपत्। अन्ताः। अम गतौ−तन्। अन्तिमाः, अवशिष्टाः सर्वा नाड्यः। अरंसत। रमु क्रीडायाम्−लुङ्। यथापूर्वं रमन्ते स्म, चेष्टां कृतवत्यः ॥
 </details>
-

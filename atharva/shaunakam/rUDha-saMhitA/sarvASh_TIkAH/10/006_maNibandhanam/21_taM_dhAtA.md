@@ -18,9 +18,15 @@ Ppp. reads in **b** *subhūtāny akalpayat*.
 Dhatar bound on this Amulet: he ranged and ordered all that is. With this do thou subdue thy foes.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तं धा॒ता प्रत्य॑मुञ्चत॒ स भू॒तं व्य᳡कल्पयत्।  
+तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तम्। धा॒ता। प्रति॑। अ॒मु॒ञ्च॒त॒। सः। भू॒तम्। वि। अ॒क॒ल्प॒य॒त्। तेन॑। त्वम्। द्व‍ि॒ष॒तः। ज॒हि॒। ६.२१। 
+तम्। धा॒ता। प्रति॑। अ॒मु॒ञ्च॒त॒। सः। भू॒तम्। वि। अ॒क॒ल्प॒य॒त्। तेन॑। त्वम्। द्व‍ि॒ष॒तः। ज॒हि॒। ६.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Dhatar bound on this Amulet: he ranged and ordered all that is. With this do tho
 
 टिप्पणी:   २१−(तम्) (धाता) प्रजापालको राजा (भूतम्) जगत् (वि) विविधम् (अकल्पयत्) संस्कृतवान्। अन्यत् पूर्ववत् ॥
 </details>
-

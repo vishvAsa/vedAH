@@ -17,9 +17,15 @@ Savitar \[protect\] me on the south, the lord of śachī me on the north.
 Peace hath been given us from the east, and from the west security. Savitar guard me from the south, and from the north the Lord of Might.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑सप॒त्नं पु॒रस्ता॑त्प॒श्चान्नो॒ अभ॑यं कृतम्।  
+स॑वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॑ शची॒पतिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒स॒प॒त्नम्। पु॒रस्ता॑त्। प॒श्चात्। नः॒। अभ॑यम्। कृ॒त॒म्। स॒वि॒ता। मा॒। द॒क्षि॒ण॒तः। उ॒त्त॒रात्। मा॒। शची॒ऽपतिः॑। २७.१४। 
+अ॒स॒प॒त्नम्। पु॒रस्ता॑त्। प॒श्चात्। नः॒। अभ॑यम्। कृ॒त॒म्। स॒वि॒ता। मा॒। द॒क्षि॒ण॒तः। उ॒त्त॒रात्। मा॒। शची॒ऽपतिः॑। २७.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 
 टिप्पणी:   यह मन्त्र पहिले आ चुका है अथ०१९।१६।१॥१४−अयं मन्त्रो व्याख्यातः-अ०१९।१९।१॥
 </details>
-

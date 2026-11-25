@@ -8,9 +8,14 @@ title = "१४ मा त्वाभि"
 let not our friend discover thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मा त्वा॑भि॒ सखा॑ नो विदन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मा। त्वा। अ॑भि॒। सखा॑। नः। विदन्। १३०.१४। 
+मा। त्वा। अ॑भि॒। सखा॑। नः। विदन्। १३०.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ let not our friend discover thee.
 
 टिप्पणी:   १४−(मा) निषेधे (त्वा) त्वाम् (अभिः) सर्वतः (सखा) (नः) अस्माकम् (विदन्) प्राप्नोतु ॥
 </details>
-

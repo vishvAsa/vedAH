@@ -18,9 +18,15 @@ Ppp. omits, probably by oversight, the first half-verse.
 Beat thou the Yatudhanas back, drive thou away the sorcerer; And chase afar, O Plant, the man who fain would do us injury.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अव॑ जहि यातु॒धाना॒नव॑ कृत्या॒कृतं॑ जहि।  
+अथो॒ यो अ॒स्मान्दिप्स॑ति॒ तमु॒ त्वं ज॑ह्योषधे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अव॑। ज॒हि॒। या॒तु॒ऽधाना॑न्। अव॑। कृ॒त्या॒ऽकृत॑म्। ज॒हि॒। अथो॒ इति॑। यः। अ॒स्मान्। दिप्स॑ति। तम्। ऊं॒ इति॑। त्वम्। ज॒हि॒। ओ॒ष॒धे॒। १४.२। 
+अव॑। ज॒हि॒। या॒तु॒ऽधाना॑न्। अव॑। कृ॒त्या॒ऽकृत॑म्। ज॒हि॒। अथो॒ इति॑। यः। अ॒स्मान्। दिप्स॑ति। तम्। ऊं॒ इति॑। त्वम्। ज॒हि॒। ओ॒ष॒धे॒। १४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Beat thou the Yatudhanas back, drive thou away the sorcerer; And chase afar, O P
 
 टिप्पणी:   २−(अव जहि) विनाशय (यातुधानान्) अ० १।७।१। यातनाप्रदान् (कृत्याकृतम्) अ० ४।१७।४। हिंसाकारिणम् (अथो) अपि च (यः) शत्रुः (अस्मान्) धार्मिकान् (दिप्सति) दम्भितुं हिंसितुमिच्छति (तम् उ) तमपि (त्वम्) (जहि) (ओषधे) हे अन्नवत्तापनाशक मनुष्य ॥
 </details>
-

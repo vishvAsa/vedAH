@@ -19,9 +19,15 @@ RV. and our text.
 With that same eye of thine wherewith thou seest, brilliant Varuna. The active one among mankind,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+येना॑ पावक॒ चक्ष॑सा भुर॒ण्यन्तं॒ जनाँ॒ अनु॑।  
+त्वं व॑रुण॒ पश्य॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-येन॑। पा॒व॒क॒। चक्ष॑सा। भु॒र॒ण्यन्त॑म्। जना॑न्। अनु॑। त्वम्। व॒रु॒ण॒। पश्य॑सि। २.२१। 
+येन॑। पा॒व॒क॒। चक्ष॑सा। भु॒र॒ण्यन्त॑म्। जना॑न्। अनु॑। त्वम्। व॒रु॒ण॒। पश्य॑सि। २.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ With that same eye of thine wherewith thou seest, brilliant Varuna. The active o
 
 टिप्पणी:   २१−(येन) (पावक) शोधक (चक्षसा) प्रकाशेन (भुरण्यन्तम्) भुरण धारणपोषणयोः-शतृ। धरन्तं पोषयन्तं च (जनान् अनु) उत्पन्नान् प्राणिनः प्रति (त्वम्) (वरुण) उत्तमगुणविशिष्ट (पश्यसि) दर्शयसि ॥
 </details>
-

@@ -20,9 +20,15 @@ nouns in **d** might be nom. instead of accus.
 That is indeed Atharvan's head, the well-closed casket of the Gods. Spirit and Food and Vital Air protect that head from injury.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तद्वा अथ॑र्वणः॒ शिरो॑ देवको॒शः समु॑ब्जितः।  
+तत्प्रा॒णो अ॒भि र॑क्षति॒ शिरो॒ अन्न॒मथो॒ मनः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तत्। वै। अथ॑र्वणः। शिरः॑। दे॒व॒ऽको॒शः। सम्ऽउ॑ब्जितः। तत्। प्रा॒णः। अ॒भि। र॒क्ष॒ति॒। शिरः॑। अन्न॑म्। अथो॒ इति॑। मनः॑। २.२७। 
+तत्। वै। अथ॑र्वणः। शिरः॑। दे॒व॒ऽको॒शः। सम्ऽउ॑ब्जितः। तत्। प्रा॒णः। अ॒भि। र॒क्ष॒ति॒। शिरः॑। अन्न॑म्। अथो॒ इति॑। मनः॑। २.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ That is indeed Atharvan's head, the well-closed casket of the Gods. Spirit and F
 
 टिप्पणी:   २७−(तत्) (वै) एव (अथर्वणः) म० २६। निश्चलपरमेश्वरस्य (शिरः) मस्तकम् (देवकोशः) कुश श्लेषे-घञ्। दिव्यगुणानां भाण्डागारः (समुब्जितः) सम्यक् सरलीकृतः (तत्) प्राणः जीवनवायुः (अभि) सर्वतः (रक्षति) पाति (शिरः) (अन्नम्) (अथो) अपि च (मनः) ॥
 </details>
-

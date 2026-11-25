@@ -27,9 +27,15 @@ orderings'; but Griffith understands it as 'wondrous works.'⌋
 Night! the terrestrial realm hath been filled with the Father's power and might. Thou spreadest forth on high unto the seats of Heaven: dark- ness that strikes with awe comes near.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ रा॑त्रि॒ पार्थि॑वं॒ रजः॑ पि॒तुर॑प्रायि॒ धाम॑भिः।  
+दि॒वः सदां॑सि बृह॒ती वि ति॑ष्ठस॒ आ त्वे॒षं व॑र्तते॒ तमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। रा॒त्रि॒। पार्थि॑वम्। रजः॑। पि॒तुः। अ॒प्रा॒यि॒। धाम॑ऽभिः। दि॒वः। सदां॑सि। बृ॒ह॒ती। वि। ति॒ष्ठ॒से॒। आ। त्वे॒षम्। व॒र्त॒ते॒। तमः॑। ४७.१। 
+आ। रा॒त्रि॒। पार्थि॑वम्। रजः॑। पि॒तुः। अ॒प्रा॒यि॒। धाम॑ऽभिः। दि॒वः। सदां॑सि। बृ॒ह॒ती। वि। ति॒ष्ठ॒से॒। आ। त्वे॒षम्। व॒र्त॒ते॒। तमः॑। ४७.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ Night! the terrestrial realm hath been filled with the Father's power and might.
 
 टिप्पणी:   यह मन्त्र यजुर्वेद में है-३६।३२ और-निरुक्त ९।२९ में भी व्याख्यात है ॥  १−(आ) समन्तात् (रात्रि) हे रात्रि (पार्थिवम्) पृथिवीसम्बन्धि (रजः) लोकः (पितुः) पालकस्य। मध्यलोकस्य (अप्रायि) प्रा पूरणे-कर्मणि लुङ्। अपूरि (धामभिः) स्थानैः सह (दिवः) प्रकाशस्य (सदांसि) स्थानानि (बृहती) महती त्वम् (वितिष्ठसे) व्याप्नोषि (आ) समन्तात् (त्वेषम्) ताराभिर्दीप्यमानम् (वर्तते) विद्यते (तमः) अन्धकारः ॥
 </details>
-

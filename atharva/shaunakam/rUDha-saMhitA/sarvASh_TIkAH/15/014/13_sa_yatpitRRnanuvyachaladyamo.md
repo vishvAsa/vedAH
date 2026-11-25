@@ -11,12 +11,17 @@ title = "१३ स यत्पितॄननुव्यचलद्यमो
 
 <details><summary>Griffith</summary>
 
-He, when he went away to the Fathers, went away having be- come King Yama and having made the exclamation Svadha an eater of food. 
+He, when he went away to the Fathers, went away having be- come King Yama and having made the exclamation Svadha an eater of food.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स यत्पि॒तॄननु॒व्यच॑लद्य॒मो राजा॑ भू॒त्वानु॒व्य᳡चलत्स्वधाका॒रम॑न्ना॒दं कृ॒त्वा ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-सः। यत्। पि॒तॄन्। अनु॑। वि॒ऽअच॑लत्। य॒मः। राजा॑। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। स्व॒धा॒ऽका॒रम्। अ॒न्न॒ऽअ॒दम्। कृ॒त्वा। १४.१३। 
+सः। यत्। पि॒तॄन्। अनु॑। वि॒ऽअच॑लत्। य॒मः। राजा॑। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। स्व॒धा॒ऽका॒रम्। अ॒न्न॒ऽअ॒दम्। कृ॒त्वा। १४.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ He, when he went away to the Fathers, went away having be- come King Yama and ha
 
 टिप्पणी:   १३, १४−(पितॄन्)पालकान् महापुरुषान् (यमः) न्यायी (राजा) प्रजाशासकः (स्वधाकारम्)स्वधारणसामर्थ्यम् (स्वधाकारेण) स्वधारणसामर्थ्येन। अन्यत् पूर्ववत्-म० १, २ ॥
 </details>
-

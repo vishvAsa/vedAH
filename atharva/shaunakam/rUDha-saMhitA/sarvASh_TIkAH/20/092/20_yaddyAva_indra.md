@@ -8,9 +8,15 @@ title = "२० यद्द्याव इन्द्र"
 O Indra, if a hundred heavens and if a hundred earths were thine No, not a thousand suns could match thee at thy birth, not both the worlds, O Thunderer.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्द्याव॑ इन्द्र ते श॒तं श॒तं भूमी॑रु॒त स्युः।  
+न त्वा॑ वज्रिन्त्स॒हस्रं॒ सूर्या॒ अनु॒ न जा॒तम॑ष्ट॒ रोद॑सी ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। द्यावः॑। इ॒न्द्र॒। ते॒। श॒तम्। श॒तम्। भूमीः॑। उ॒त। स्युरिति॒ स्युः। न। त्वा॒। व॒ज्रि॒न्। स॒हस्र॑म्। सूर्याः॑। अनु॑। न। जा॒तम्। अ॒ष्ट॒। रोद॑सी॒ इति॑। ९२.२०। 
+यत्। द्यावः॑। इ॒न्द्र॒। ते॒। श॒तम्। श॒तम्। भूमीः॑। उ॒त। स्युरिति॒ स्युः। न। त्वा॒। व॒ज्रि॒न्। स॒हस्र॑म्। सूर्याः॑। अनु॑। न। जा॒तम्। अ॒ष्ट॒। रोद॑सी॒ इति॑। ९२.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ O Indra, if a hundred heavens and if a hundred earths were thine No, not a thous
 
 टिप्पणी:   मन्त्र २०, २१ आचुके हैं-अ० २०।८१।१, २ ॥  २०, २१−व्याख्यातौ-अ० २०।८१।१, २ ॥
 </details>
-

@@ -33,9 +33,16 @@ one *mantra*. He reads *agnis* again in our **e** as in 16. 2 **e**.⌋
 May the Adityas from the sky protect me, Agni from the earth. May Indra-Agni guard me from the eastward, on all sides may the Asvins give me shelter. May Jatavedas guard, sidelong, our cattle. Our shield on all sides be the World-Creators!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दि॒वो मा॑दि॒त्या र॑क्षन्तु॒ भूम्या॑ रक्षन्त्व॒ग्नयः॑।  
+इ॑न्द्रा॒ग्नी र॑क्षतां मा पु॒रस्ता॑द॒श्विना॑व॒भितः॒ शर्म॑ यच्छताम्।  
+ति॑र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दि॒वः। मा॒। आ॒दि॒त्याः। र॒क्ष॒न्तु॒। भूम्याः॑। र॒क्ष॒न्तु॒। अग्न॒यः॑। इ॒न्द्रा॒ग्नी इति॑। र॒क्ष॒ता॒म्। मा॒। पु॒रस्ता॑त्। अ॒श्विनौ॑। अ॒भितः॑। शर्म॑। य॒च्छ॒ता॒म्। ति॒र॒श्चीन्। अ॒घ्न्या। र॒क्ष॒तु। जा॒तऽवे॑दाः। भू॒त॒ऽकृतः॑। मे॒। स॒र्वतः॑। स॒न्तु॒। वर्म॑। २७.१५। 
+दि॒वः। मा॒। आ॒दि॒त्याः। र॒क्ष॒न्तु॒। भूम्याः॑। र॒क्ष॒न्तु॒। अग्न॒यः॑। इ॒न्द्रा॒ग्नी इति॑। र॒क्ष॒ता॒म्। मा॒। पु॒रस्ता॑त्। अ॒श्विनौ॑। अ॒भितः॑। शर्म॑। य॒च्छ॒ता॒म्। ति॒र॒श्चीन्। अ॒घ्न्या। र॒क्ष॒तु। जा॒तऽवे॑दाः। भू॒त॒ऽकृतः॑। मे॒। स॒र्वतः॑। स॒न्तु॒। वर्म॑। २७.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -65,4 +72,3 @@ May the Adityas from the sky protect me, Agni from the earth. May Indra-Agni gua
 
 टिप्पणी:   यह मन्त्र ऊपर आ चुका है-अ०१९।१६।२॥१५−अयं मन्त्रो व्याख्यातः-अ०१९।१६।२॥
 </details>
-

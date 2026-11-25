@@ -21,9 +21,14 @@ the end *aṅśava eva te ‘nūpyante*.
 The grains of rice and barley that are selected are just filaments of the Soma plant.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये व्री॒हयो॒ यवा॑ निरु॒प्यन्तें॒ऽशव॑ ए॒व ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। व्री॒हयः॑। यवाः॑। निः॒ऽउ॒प्यन्ते॑। अं॒शवः॑। ए॒व। ते। ६.१४। 
+ये। व्री॒हयः॑। यवाः॑। निः॒ऽउ॒प्यन्ते॑। अं॒शवः॑। ए॒व। ते। ६.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ The grains of rice and barley that are selected are just filaments of the Soma p
 
 टिप्पणी:   १४−(ये) (व्रीहयः) अ० ६।१४०।२। धान्यविशेषाः (यवाः) (निरुप्यन्ते) डुवप बीजसन्ताने मुण्डने च। प्रक्षिप्यन्ते (अंशवः) मृगय्वादयश्च। उ० १।३७। अंश विभाजने-क। सूक्ष्मांशाः। सोमलतावयवाः ॥
 </details>
-

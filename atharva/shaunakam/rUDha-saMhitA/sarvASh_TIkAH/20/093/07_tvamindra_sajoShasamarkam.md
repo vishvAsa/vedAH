@@ -8,9 +8,15 @@ title = "०७ त्वमिन्द्र सजोषसमर्कम्
 Thou, Indra, bearest in thine arms the lightning that accords with thee, Whetting thy thunderbolt with might.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वमि॑न्द्र स॒जोष॑सम॒र्कं बि॑भर्षि बा॒ह्वोः।  
+वज्रं॒ शिशा॑न॒ ओज॑सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वम्। इ॒न्द्र॒। स॒ऽजोष॑सम्। अ॒र्कम्। ब‍ि॒भ॒र्षि॒। बा॒ह्वोः। वज्र॑म्। शिशा॑नः। ओज॑सा। ९३.७। 
+त्वम्। इ॒न्द्र॒। स॒ऽजोष॑सम्। अ॒र्कम्। ब‍ि॒भ॒र्षि॒। बा॒ह्वोः। वज्र॑म्। शिशा॑नः। ओज॑सा। ९३.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Thou, Indra, bearest in thine arms the lightning that accords with thee, Whettin
 
 टिप्पणी:   ७−(त्वम्) (इन्द्र) परमैश्वर्यवन् परमात्मन् (सजोषसम्) प्रीत्या विचारेण वा सह वर्तमानम् (अर्कम्) पूजनीयं पण्डितम् (बिभर्षि) धारयसि (बाह्वोः) भुजयोः (वज्रम्) (शिशानः) निश्यन्। तीक्ष्णीकुर्वन् (ओजसा) पराक्रमेण ॥७॥
 </details>
-

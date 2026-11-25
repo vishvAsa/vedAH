@@ -17,9 +17,14 @@ has committed offense, of the god-reviler, the ungenerous,—
 So, Goddess Cow, do thou from him, the Brahmans' tyrant, criminal, niggard, blasphemer of the Gods,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒वा त्वं दे॑व्यघ्न्ये ब्रह्म॒ज्यस्य॑ कृ॒ताग॑सो देवपी॒योर॑रा॒धसः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒व। त्वम्। दे॒वि॒। अ॒घ्न्ये॒। ब्र॒ह्म॒ऽज्यस्य॑। कृ॒तऽआ॑गसः। दे॒व॒ऽपी॒योः। अ॒रा॒धसः॑। ११.४। 
+ए॒व। त्वम्। दे॒वि॒। अ॒घ्न्ये॒। ब्र॒ह्म॒ऽज्यस्य॑। कृ॒तऽआ॑गसः। दे॒व॒ऽपी॒योः। अ॒रा॒धसः॑। ११.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ So, Goddess Cow, do thou from him, the Brahmans' tyrant, criminal, niggard, blas
 
 टिप्पणी:   ६५-६७−(एव) अनेन प्रकारेण (त्वम्) (देवि) म० ६३ (अघ्न्ये) म० ६३। अन्यद् गतम्−म० ६०। (वज्रेण) (शतपर्वणा) बहुग्रन्थिना (तीक्ष्णेन) तीव्रेण (क्षुरभृष्टिना) भ्रस्ज पाके, यद्वा भृशु अधःपतने−क्तिन्। क्षुरवत्तीक्ष्णधारेण (प्र प्र) अतिशयेन (स्कन्धान्) शरीरावयवविशेषान् (शिरः) मस्तकं (जहि) नाशय ॥
 </details>
-

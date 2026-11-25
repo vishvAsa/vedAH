@@ -16,9 +16,14 @@ title = "०२ पञ्चर्चेभ्यः स्वाहा"
 Hail to the five-versed!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प॑ञ्च॒र्चेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प॒ञ्च॒ऽऋ॒चेभ्यः॑। स्वाहा॑। २३.२। 
+प॒ञ्च॒ऽऋ॒चेभ्यः॑। स्वाहा॑। २३.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Hail to the five-versed!
 
 टिप्पणी:   २−(पञ्चर्चेभ्यः) म०१। पञ्चानां पृथिव्यप्तेजोवाय्वाकाशानां स्तुत्या विद्या येषु वेदेषु तेभ्यः ॥
 </details>
-

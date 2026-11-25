@@ -21,9 +21,15 @@ have *-śan*.
 The Waters are the best, and heavenly Plants. From every limb of thine have they removed Consumption caused by sin.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आपो॒ अग्रं॑ दि॒व्या ओष॑धयः।  
+तास्ते॒ यक्ष्म॑मेन॒स्य१॒॑मङ्गा॑दङ्गादनीनशन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आपः॑। अग्र॑म्। दि॒व्याः। ओष॑धयः। ताः। ते॒। यक्ष्म॑म्। ए॒न॒स्य᳡म्। अङ्गा॑त्ऽअङ्गात्। अ॒नी॒न॒श॒न्। ७.३। 
+आपः॑। अग्र॑म्। दि॒व्याः। ओष॑धयः। ताः। ते॒। यक्ष्म॑म्। ए॒न॒स्य᳡म्। अङ्गा॑त्ऽअङ्गात्। अ॒नी॒न॒श॒न्। ७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ The Waters are the best, and heavenly Plants. From every limb of thine have they
 
 टिप्पणी:   ३−(आपः) जलानि (अग्रम्) सृष्ट्यादौ (दिव्याः) उत्तमगुणाः (ओषधयः) अन्नादयः (ताः) (ते) तव (यक्ष्मम्) राजरोगम् (एनस्यम्) तत्र जातः। पा० ४।३।२५। य प्रत्ययः। पापोद्भवम् (अङ्गादङ्गात्) सर्वावयवात् (अनीनशन्) अ० १।२४।२। नाशितवत्यः ॥
 </details>
-

@@ -8,9 +8,15 @@ title = "०४ इन्द्रं सोमस्य"
 Hither with songs of praise we call Indra to drink the Soma. juice: Will he not come to us by lauds?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रं॒ सोम॑स्य पी॒तये॒ स्तोमै॑रि॒ह ह॑वामहे।  
+उ॒क्थेभिः॑ कु॒विदा॒गम॑त् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑म्। सोम॑स्य। पी॒तये॑। स्तोमैः॑। इ॒ह॒। ह॒वा॒म॒है॒। उ॒क्थेभिः॑। कु॒वित्। आ॒ऽगम॑त्। २४.४। 
+इन्द्र॑म्। सोम॑स्य। पी॒तये॑। स्तोमैः॑। इ॒ह॒। ह॒वा॒म॒है॒। उ॒क्थेभिः॑। कु॒वित्। आ॒ऽगम॑त्। २४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Hither with songs of praise we call Indra to drink the Soma. juice: Will he not 
 
 टिप्पणी:   ४−(इन्द्रम्) परमैश्वर्यवन्तं पुरुषम् (सोमस्य) महौषधिरसस्य (पीतये) पानाय (स्तोमैः) स्तोत्रैः (इह) अत्र (हवामहे) आह्वयामः (उक्थेभिः) कथनीयोपदेशैः (कुवित्) म० २। बहुवारम् (आगमत्) गमेर्लेटि अडागमः। आगच्छेत् ॥
 </details>
-

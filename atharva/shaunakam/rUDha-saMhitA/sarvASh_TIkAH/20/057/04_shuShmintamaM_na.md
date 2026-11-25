@@ -8,9 +8,15 @@ title = "०४ शुष्मिन्तमं न"
 Drink for our help the Soma bright, vigilant, and exceeding strong, O Indra, Lord of Hundred Powers.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शु॒ष्मिन्त॑मं न ऊ॒तये॑ द्यु॒म्निनं॑ पाहि॒ जागृ॑विम्।  
+इन्द्र॒ सोमं॑ शतक्रतो ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यु॒ष्मिन्ऽत॑मम्। नः॑। ऊ॒तये॑। द्यु॒म्निन॑म्। पा॒हि॒। जागृ॑विम्। इन्द्र॑। सोम॑म्। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो॒। ५७.४। 
+यु॒ष्मिन्ऽत॑मम्। नः॑। ऊ॒तये॑। द्यु॒म्निन॑म्। पा॒हि॒। जागृ॑विम्। इन्द्र॑। सोम॑म्। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो॒। ५७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Drink for our help the Soma bright, vigilant, and exceeding strong, O Indra, Lor
 
 टिप्पणी:   मन्त्र ४-१० आ चुके हैं-अ० २०।२०।१-७ ॥  ४-१०- एते मन्त्रा व्याख्याताः-अ० २।२०।१-७ ॥
 </details>
-

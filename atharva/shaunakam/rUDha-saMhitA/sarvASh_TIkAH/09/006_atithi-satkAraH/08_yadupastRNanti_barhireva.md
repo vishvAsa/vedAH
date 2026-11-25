@@ -23,9 +23,14 @@ Ppp. omits the second clause of vs. 7, and reads *pari-* for *upa-* in
 What they spread upon the floor is just Sacrificial Grass.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदु॑पस्तृ॒णन्ति॑ ब॒र्हिरे॒व तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। उ॒प॒ऽस्तृ॒णन्ति॑। ब॒र्हिः। ए॒व। तत्। ६.८। 
+यत्। उ॒प॒ऽस्तृ॒णन्ति॑। ब॒र्हिः। ए॒व। तत्। ६.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ What they spread upon the floor is just Sacrificial Grass.
 
 टिप्पणी:   ८−(यत्) यत्किंचित् (उपस्तृणन्ति) आच्छादनानि कुर्वन्ति (बर्हिः) अ० ५।२२।१। कुशासनम्। यज्ञसामग्री ॥
 </details>
-

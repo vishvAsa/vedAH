@@ -39,9 +39,14 @@ present division of the text seems very unlikely.
 To Brahma, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्र॒ह्मणे॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्र॒ह्मणे॑। स्वाहा॑। २२.२०। 
+ब्र॒ह्मणे॑। स्वाहा॑। २२.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -71,4 +76,3 @@ To Brahma, Hail!
 
 टिप्पणी:   २०−(ब्रह्मणे) वेदज्ञानाय ॥
 </details>
-

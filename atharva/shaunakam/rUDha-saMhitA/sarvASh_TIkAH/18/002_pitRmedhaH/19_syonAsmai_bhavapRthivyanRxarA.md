@@ -33,9 +33,15 @@ sacrifice.
 Be pleasant unto him, O Earth, thornless and lulling him to rest. Vouchsafe him shelter broad and sure.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्यो॒नास्मै॑ भवपृथिव्यनृक्ष॒रा नि॒वेश॑नी।  
+यच्छा॑स्मै॒ शर्म॑ स॒प्रथाः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्यो॒ना। अ॒स्मै॒। भ॒व॒। पृ॒थि॒वि॒। अ॒नृ॒क्ष॒रा। नि॒ऽविश॑नी। यच्छ॑। अ॒स्मै॒। शर्म॑। स॒ऽप्रथाः॑। २.१९। 
+स्यो॒ना। अ॒स्मै॒। भ॒व॒। पृ॒थि॒वि॒। अ॒नृ॒क्ष॒रा। नि॒ऽविश॑नी। यच्छ॑। अ॒स्मै॒। शर्म॑। स॒ऽप्रथाः॑। २.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -65,4 +71,3 @@ Be pleasant unto him, O Earth, thornless and lulling him to rest. Vouchsafe him 
 
 टिप्पणी:   १९−(स्योना)सुखप्रदा (अस्मै) पुरुषाय (भव) (पृथिवि) हे भूमे (अनृक्षरा) अकण्टका (निवेशनी)प्रवेशयोग्या (यच्छ) देहि (शर्म) शरणम् (सप्रथाः) प्रथसा विस्तारेण सहिता त्वम्॥
 </details>
-

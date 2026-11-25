@@ -16,9 +16,14 @@ title = "१७ ऋतवः पक्तार"
 The Seasons are the dressers, the Groups of Seasons kindle the fire.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋ॒तवः॑ प॒क्तार॑ आर्त॒वाः समि॑न्धते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋ॒तवः॑। प॒क्तारः॑। आ॒र्त॒वाः। सम्। इ॒न्ध॒ते॒। ३.१७। 
+ऋ॒तवः॑। प॒क्तारः॑। आ॒र्त॒वाः। सम्। इ॒न्ध॒ते॒। ३.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ The Seasons are the dressers, the Groups of Seasons kindle the fire.
 
 टिप्पणी:   १७−(ऋतवः) वसन्तादयः (पक्तारः) पाचकाः (आर्तवाः) ऋतूनामवयवाः (सम्) सम्यक् (इन्धते) दीपयन्ति, अग्निं ज्वलयन्ति ॥
 </details>
-

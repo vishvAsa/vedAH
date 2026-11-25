@@ -24,9 +24,15 @@ and that one pāda contains seven.
 The thunder is thy voice, O Lord of Creatures: a Bull, thou castest on the earth thy vigour. The Honey-whip, the Manus' first-born daughter, derives her origin from Wind and Agni.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्त॑नयि॒त्नुस्ते॒ वाक्प्र॑जापते॒ वृषा॒ शुष्मं॑ क्षिपसि॒ भूम्या॒मधि॑।  
+अ॒ग्नेर्वाता॑न्मधुक॒शा हि ज॒ज्ञे म॒रुता॑मु॒ग्रा न॒प्तिः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्त॒न॒यि॒त्नुः। ते॒। वाक्। प्र॒जा॒ऽप॒ते॒। वृषा॑। शुष्म॑म्। क्षि॒प॒सि॒। भूम्या॑म्। अधि॑। अ॒ग्नेः। वाता॑त्। म॒धु॒ऽक॒शा। हि। ज॒ज्ञे। म॒रुता॑म्। उ॒ग्रा। न॒प्तिः। १.१०। 
+स्त॒न॒यि॒त्नुः। ते॒। वाक्। प्र॒जा॒ऽप॒ते॒। वृषा॑। शुष्म॑म्। क्षि॒प॒सि॒। भूम्या॑म्। अधि॑। अ॒ग्नेः। वाता॑त्। म॒धु॒ऽक॒शा। हि। ज॒ज्ञे। म॒रुता॑म्। उ॒ग्रा। न॒प्तिः। १.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ The thunder is thy voice, O Lord of Creatures: a Bull, thou castest on the earth
 
 टिप्पणी:   १०−(स्तनयित्नुः) अ० १।१३।१। मेघशब्द इव (ते) तव (वाक्) मधुकशा (प्रजापते) हे प्रजारक्षक परमात्मन् (वृषा) अ० १।१२।१। ऐश्वर्यवान् (शुष्मम्) बलम्-निघ० २।९। (क्षिपसि) प्रसारयसि (भूम्याम्) (अधि) अधिकृत्य। अन्यत् पूर्ववत्-म० ३ ॥
 </details>
-

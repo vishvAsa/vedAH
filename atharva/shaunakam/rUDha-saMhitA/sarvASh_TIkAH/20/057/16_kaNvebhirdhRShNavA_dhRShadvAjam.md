@@ -8,9 +8,15 @@ title = "१६ कण्वेभिर्धृष्णवा धृषद्
 Boldly, bold Hero, bring us spoil in thousands for the Kanvas' sake. O active Maghavan, with eager prayer we crave the yellow-hued with store of kine.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+कण्वे॑भिर्धृष्ण॒वा धृ॒षद्वाजं॑ दर्षि सह॒स्रिण॑म्।  
+पि॒शङ्ग॑रूपं मघवन्विचर्षणे म॒क्षू गोम॑न्तमीमहे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क॒ण्वे॑भिः। धृ॒ष्णो॒ इति॑। आ। धृ॒षत्। वाज॑म्। द॒र्षि॒। स॒ह॒स्रिण॑म्। पि॒शङ्ग॑ऽरूपम्। म॒घ॒ऽव॒न्। वि॒ऽच॒र्ष॒णे॒। म॒क्षू। गोम॑न्तम्। ई॒म॒हे॒। ५७.१६। 
+क॒ण्वे॑भिः। धृ॒ष्णो॒ इति॑। आ। धृ॒षत्। वाज॑म्। द॒र्षि॒। स॒ह॒स्रिण॑म्। पि॒शङ्ग॑ऽरूपम्। म॒घ॒ऽव॒न्। वि॒ऽच॒र्ष॒णे॒। म॒क्षू। गोम॑न्तम्। ई॒म॒हे॒। ५७.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Boldly, bold Hero, bring us spoil in thousands for the Kanvas' sake. O active Ma
 
 टिप्पणी:   १४-१६। एते मन्त्रा व्याख्याताः-अ० २०।३।१-३ ॥
 </details>
-

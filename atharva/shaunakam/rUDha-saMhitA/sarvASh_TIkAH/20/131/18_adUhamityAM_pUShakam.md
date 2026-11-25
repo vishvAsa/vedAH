@@ -8,9 +8,14 @@ title = "१८ अदूहमित्यां पूषकम्"
 The biestings only have they milked:
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अदू॑हमि॒त्यां पूष॑कम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अदू॑हमि॒त्याम्। पूष॑कम्। १३१.१८। 
+अदू॑हमि॒त्याम्। पूष॑कम्। १३१.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ The biestings only have they milked:
 
 टिप्पणी:   १८−(अदूहमित्याम्) अ+दुहिर् अर्दने-क+माङ् माने-क्तिन्। अनष्टायां मित्यां ज्ञाने, (पूषकम्) पूष वृद्धौ-ण्वुल्। वृद्धिकरं व्यवहारम् ॥
 </details>
-

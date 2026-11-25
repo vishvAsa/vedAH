@@ -18,9 +18,14 @@ The Pet. Lexx. interpret *saṁvíd* as 'possessions.'
 The man who eats before the guest eats up the glory and the understanding of the house.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+श्रियं॒ च॒ वा ए॒ष सं॒विदं॑ च गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श्रिय॑म्। च॒। वै। ए॒षः। स॒म्ऽविद॑म्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.६। 
+श्रिय॑म्। च॒। वै। ए॒षः। स॒म्ऽविद॑म्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ The man who eats before the guest eats up the glory and the understanding of the
 
 टिप्पणी:   ६−(श्रियम्) सेवनीयां सम्पत्तिम् (संविदम्) अ० ३।५।५। यथार्थ बुद्धिम्। अन्यत् पूर्ववत्-म० १ ॥
 </details>
-

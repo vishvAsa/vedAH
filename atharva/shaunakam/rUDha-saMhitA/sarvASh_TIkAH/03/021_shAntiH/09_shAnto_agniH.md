@@ -20,9 +20,15 @@ Ppp. has *atho puruṣareṣiṇaḥ* for **b**, and this time *viśvadavyas* in
 Flesh-eating Agni is appeased, appeased is he who hurteth men. Now him who burneth every thing, the Flesh-consumer, have I stilled.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शा॒न्तो अ॒ग्निः क्र॒व्याच्छा॒न्तः पु॑रुष॒रेष॑णः।  
+अथो॒ यो वि॑श्वदा॒व्य॑१स्तं क्र॒व्याद॑मशीशमम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शा॒न्तः। अ॒ग्निः। क्र॒व्य॒ऽअत्। शा॒न्तः। पु॒रु॒ष॒ऽरेष॑णः। अथो॒ इति॑। यः। वि॒श्व॒ऽदा॒व्यः᳡। तम्। क्र॒व्य॒ऽअद॑म्। अ॒शी॒श॒म॒म्। २१.९। 
+शा॒न्तः। अ॒ग्निः। क्र॒व्य॒ऽअत्। शा॒न्तः। पु॒रु॒ष॒ऽरेष॑णः। अथो॒ इति॑। यः। वि॒श्व॒ऽदा॒व्यः᳡। तम्। क्र॒व्य॒ऽअद॑म्। अ॒शी॒श॒म॒म्। २१.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Flesh-eating Agni is appeased, appeased is he who hurteth men. Now him who burne
 
 टिप्पणी:   ९−(शान्तः) सुखकरः। (अग्निः) अग्निवत्तापकरं दुःखम्। (क्रव्यात्) म० ८। मांसभक्षकः। (पुरुषरेषणः) रिष वधे-ल्युट्। पुरुषहिंसकः। (विश्वदाव्यः) म० ३। सर्वसुखनाशनसमर्थः। (अशीशमम्) शमु उपशमे-ण्यन्तात् लुङि चङि रूपम्। अहं शान्तं कृतवान्। अन्यद् गतम् ॥
 </details>
-

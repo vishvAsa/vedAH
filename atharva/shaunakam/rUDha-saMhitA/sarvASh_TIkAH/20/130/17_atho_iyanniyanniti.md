@@ -9,9 +9,14 @@ Then cried they.
 Here he is, and, Here;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अथो॑ इ॒यन्निय॒न्निति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अथो॑। इ॒यन्ऽइय॒न्। इति॑। १३०.१७। 
+अथो॑। इ॒यन्ऽइय॒न्। इति॑। १३०.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +45,3 @@ Here he is, and, Here;
 
 टिप्पणी:   १७−(अथो) अनन्तरम् (इयन्नियम्) इण् गतौ-शतृ, इयङ् इत्यादेशः, द्वित्वं च। यन् यन्। गच्छन् गच्छन्-स भवतु (इति) एवम् ॥
 </details>
-

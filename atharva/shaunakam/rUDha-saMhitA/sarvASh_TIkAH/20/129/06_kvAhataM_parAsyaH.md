@@ -8,9 +8,14 @@ title = "०६ क्वाहतं परास्यः"
 The excellent, the golden son: where now hast thou aban- doned him? (with previous verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्वाह॑तं॒ परा॑स्यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्व। आह॑त॒म्। परा॑स्यः। १२९.६। 
+क्व। आह॑त॒म्। परा॑स्यः। १२९.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ The excellent, the golden son: where now hast thou aban- doned him? (with previo
 
 टिप्पणी:   ६−(क्व) कुत्र (आहतम्) ताडितम् (परास्यः) असु क्षेपणे। परा दूरे आस्यः अक्षिपः ॥
 </details>
-

@@ -22,9 +22,15 @@ other texts: SV. (i. 636), VS. (xxxiii. 36), TS. (i. 4. 31¹), TA. (iii.
 Swift and all-beautiful art thou, O Surya, maker of the light, Illuming all the radiant realm.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त॒रणि॑र्वि॒श्वद॑र्शतो ज्योति॒ष्कृद॑सि सूर्य।  
+विश्व॒मा भा॑सि रोचन ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त॒रणिः॑। वि॒श्वऽद॑र्शतः। ज्यो॒तिः॒ऽकृत्। अ॒सि॒। सू॒र्य॒। विश्व॑म्। आ। भा॒सि॒। रो॒च॒न॒। २.१९। 
+त॒रणिः॑। वि॒श्वऽद॑र्शतः। ज्यो॒तिः॒ऽकृत्। अ॒सि॒। सू॒र्य॒। विश्व॑म्। आ। भा॒सि॒। रो॒च॒न॒। २.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Swift and all-beautiful art thou, O Surya, maker of the light, Illuming all the 
 
 टिप्पणी:   १९−(तरणिः) अन्धकारात् तारकः (विश्वदर्शतः) सर्वस्य दर्शयिता (ज्योतिष्कृत्) चन्द्रादिलोकेषु प्रकाशस्य कर्ता (असि) (सूर्य) (विश्वम्) सर्वं दृश्यमानम् (आ) समन्तात् (भासि) प्रकाशयसि (रोचन) हे प्रकाशमान ॥
 </details>
-

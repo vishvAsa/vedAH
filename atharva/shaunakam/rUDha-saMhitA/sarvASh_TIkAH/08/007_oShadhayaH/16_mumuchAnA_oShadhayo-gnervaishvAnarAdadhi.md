@@ -18,9 +18,15 @@ We should expect vocatives instead of nominatives in the first line.
 Emancipated from the sway of Agni, of Vaisvanara, go, covering the earth, ye Plants whose ruler is Vanaspati.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मु॑मुचा॒ना ओष॑धयो॒ऽग्नेर्वै॑श्वान॒रादधि॑।  
+भूमिं॑ सन्तन्व॒तीरि॑त॒ यासां॒ राजा॒ वन॒स्पतिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मु॒मु॒चा॒नाः। ओष॑धयः। अ॒ग्नेः। वै॒श्वा॒न॒रात्। अधि॑। भूमि॑म्। स॒म्ऽत॒न्व॒तीः। इ॒त॒। यासा॑म्। राजा॑। वन॒स्पतिः॑। ७.१६। 
+मु॒मु॒चा॒नाः। ओष॑धयः। अ॒ग्नेः। वै॒श्वा॒न॒रात्। अधि॑। भूमि॑म्। स॒म्ऽत॒न्व॒तीः। इ॒त॒। यासा॑म्। राजा॑। वन॒स्पतिः॑। ७.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Emancipated from the sway of Agni, of Vaisvanara, go, covering the earth, ye Pla
 
 टिप्पणी:   १६−(मुमुचानाः) रोगात्मोचयित्र्यः (ओषधयः) (अग्नेः) अ० ८।२।२७। अग्निं सर्वव्यापकं परमेश्वरमाश्रित्य (वैश्वानरात्) सर्वनरहितमित्यर्थः (अधि) अधिकृत्य (भूमिम्) (सन्तन्वतीः) आच्छादयन्त्यः (यासाम्) ओषधीनाम् (राजा) (वनस्पतिः) अ० १।१२।३। वननीयानां सेवनीयानां पदार्थानां स्वामी। सोमः सोसरसः ॥
 </details>
-

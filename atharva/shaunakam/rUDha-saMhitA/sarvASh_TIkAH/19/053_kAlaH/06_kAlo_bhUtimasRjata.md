@@ -20,9 +20,15 @@ Ppp. reads bhūtam *asṛjat;* it also omits *ha* in **c**.
 Kala created land; the Sun in Kala hath his light and heat. In Kala rest all things that be: in Kala doth the eye discern.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+का॒लो भू॒तिम॑सृजत का॒ले तप॑ति॒ सूर्यः॑।  
+का॒ले ह॒ विश्वा॑ भू॒तानि॑ का॒ले चक्षु॒र्वि प॑श्यति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-का॒लः। भू॒तिम्। अ॒सृ॒ज॒त॒। का॒ले। त॒प॒ति॒। सूर्यः॑। का॒ले। ह॒। विश्वा॑। भू॒तानि॑। का॒ले। चक्षुः॑। वि। प॒श्य॒ति॒। ५३.६। 
+का॒लः। भू॒तिम्। अ॒सृ॒ज॒त॒। का॒ले। त॒प॒ति॒। सूर्यः॑। का॒ले। ह॒। विश्वा॑। भू॒तानि॑। का॒ले। चक्षुः॑। वि। प॒श्य॒ति॒। ५३.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Kala created land; the Sun in Kala hath his light and heat. In Kala rest all thi
 
 टिप्पणी:   ६−(कालः) (भूतिम्) ऐश्वर्यम्। सत्ताम् (असृजत) अजनयत् (काले) (तपति) प्रकाशते (सूर्यः) प्रेरक आदित्यः (काले) (ह) (विश्वा) (भूतानि) सत्तायुक्तानि जगन्ति (काले) (चक्षुः) नेत्रम् (वि) विविधम् (पश्यति) अवलोकयति ॥
 </details>
-

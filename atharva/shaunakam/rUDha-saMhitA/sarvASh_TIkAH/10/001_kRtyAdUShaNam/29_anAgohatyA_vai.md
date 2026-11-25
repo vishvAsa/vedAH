@@ -27,9 +27,15 @@ very badly defined by the Anukr. Ppp. reads in **a** *-hatyam* and
 The slaughter of an innocent, O Kritya, is an awful deed. Slay not cow, horse, or man of ours. In whatsoever place thou art concealed we rouse thee up there- from: become thou lighter than a leaf.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑नागोह॒त्या वै भी॒मा कृ॑त्ये॒ मा नो॒ गामश्वं॒ पुरु॑षं वधीः।  
+यत्र॑य॒त्रासि॒ निहि॑ता॒ तत॒स्त्वोत्था॑पयामसि प॒र्णाल्लघी॑यसी भव ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ना॒गः॒ऽह॒त्या। वै। भी॒मा। कृ॒त्ये॒। मा। नः॒। गाम्। अश्व॑म्। पुरु॑षम्। व॒धीः॒। यत्र॑ऽयत्र। असि॑। निऽहि॑ता। ततः॑। त्वा॒। उत्। स्था॒प॒या॒म॒सि॒। प॒र्णात्। लघी॑यसी। भ॒व॒। १.२९। 
+अ॒ना॒गः॒ऽह॒त्या। वै। भी॒मा। कृ॒त्ये॒। मा। नः॒। गाम्। अश्व॑म्। पुरु॑षम्। व॒धीः॒। यत्र॑ऽयत्र। असि॑। निऽहि॑ता। ततः॑। त्वा॒। उत्। स्था॒प॒या॒म॒सि॒। प॒र्णात्। लघी॑यसी। भ॒व॒। १.२९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ The slaughter of an innocent, O Kritya, is an awful deed. Slay not cow, horse, o
 
 टिप्पणी:   २९−(अनागोहत्या) अनपराधिनो घातः (वै) अवश्यम् (भीमा) भयावहा (कृत्ये) हे हिंसाक्रिये (नः) अस्माकम् (गाम्, अश्वम्, पुरुषम्) (मा वधीः) मा हिंसीः (यत्रयत्र) यस्मिंश्चित् स्थाने (असि) (निहिता) गुप्तं स्थापिता (ततः) (त्वा) (उत् स्थापयामसि) उत्थापयामः (पर्णात्) तरुपत्रात् (लघीयसी) लघुतरा (भव) ॥
 </details>
-

@@ -19,9 +19,15 @@ This verse, with a part of the preceding one, is wanting in Ppp.
 I know the Seven Water-floods, I know the seven distances, I know the head of sacrifice, and Soma shining bright in her.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वेदा॒हं स॒प्त प्र॒वतः॑ स॒प्त वे॑द परा॒वतः॑।  
+शिरो॑ य॒ज्ञस्या॒हं वे॑द॒ सोमं॑ चास्यां विचक्ष॒णम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वेद॑। अ॒हम्। स॒प्त। प्र॒ऽवतः॑। स॒प्त। वे॒द॒। प॒रा॒ऽवतः॑। शिरः॑। य॒ज्ञस्य॑। अ॒हम्। वे॒द॒। सोम॑म्। च॒। अ॒स्या॒म्। वि॒ऽच॒क्ष॒णम्। १०.३। 
+वेद॑। अ॒हम्। स॒प्त। प्र॒ऽवतः॑। स॒प्त। वे॒द॒। प॒रा॒ऽवतः॑। शिरः॑। य॒ज्ञस्य॑। अ॒हम्। वे॒द॒। सोम॑म्। च॒। अ॒स्या॒म्। वि॒ऽच॒क्ष॒णम्। १०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ I know the Seven Water-floods, I know the seven distances, I know the head of sa
 
 टिप्पणी:   ३−(वेद) जानामि (अहम्) उपासकः (सोमम्) सोमः सूर्यः प्रसवनात्, सोम आत्माप्येतस्मादेव-निरु० १४।१२। सर्वोत्पादकं सर्वप्रेरकं वा परमात्मानम् (च) (अस्याम्) वशायाम्। कमनीयायां शक्तौ वर्तमानम् (विचक्षणम्) विविधद्रष्टारम्। अन्यत् पूर्ववत्−म० २ ॥
 </details>
-

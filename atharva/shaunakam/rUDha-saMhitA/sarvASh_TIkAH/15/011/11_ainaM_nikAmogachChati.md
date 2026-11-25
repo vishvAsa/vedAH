@@ -18,9 +18,14 @@ One would like to emend *nikāmé* to *-mī́*.
 His desire comes to him who possesses this knowledge and he gains the complete satisfaction of his wish.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऐनं॑ निका॒मोग॑च्छति निका॒मे नि॑का॒मस्य॑ भवति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। ए॒न॒म्। नि॒ऽका॒मः। ग॒च्छ॒ति॒। नि॒ऽका॒मे। नि॒ऽका॒मस्य॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ११.११। 
+आ। ए॒न॒म्। नि॒ऽका॒मः। ग॒च्छ॒ति॒। नि॒ऽका॒मे। नि॒ऽका॒मस्य॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ११.११।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -42,4 +47,3 @@ His desire comes to him who possesses this knowledge and he gains the complete s
 
 टिप्पणी:   ११−(निकामः) लालसा (निकामे) निरन्तरकामे। इच्छापूर्तौ (निकामस्य)लालसायाः। अन्यत् पूर्ववत् ॥
 </details>
-

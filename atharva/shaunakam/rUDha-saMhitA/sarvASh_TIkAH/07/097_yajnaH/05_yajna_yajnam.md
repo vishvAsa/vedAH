@@ -22,9 +22,15 @@ as intended by *yajñam*. \*⌊Also vi. 6. 22.⌋
 Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Svaha.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यज्ञ॑ य॒ज्ञं ग॑च्छ य॒ज्ञप॑तिं गच्छ।  
+स्वां योनिं॑ गच्छ॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यज्ञ॑। य॒ज्ञम्। ग॒च्छ॒। य॒ज्ञऽप॑तिम्। ग॒च्छ॒। स्वाम्। योनि॑म्। ग॒च्छ॒। स्वाहा॑। १०२.५। 
+यज्ञ॑। य॒ज्ञम्। ग॒च्छ॒। य॒ज्ञऽप॑तिम्। ग॒च्छ॒। स्वाम्। योनि॑म्। ग॒च्छ॒। स्वाहा॑। १०२.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Sv
 
 टिप्पणी:   ५−(यज्ञ) पूजनीय पुरुष (यज्ञम्) पूजनीयं व्यवहारम् (यज्ञपतिम्) पूजनीयव्यवहारस्य पालकम् (गच्छ) (स्वाम्) स्वकीयाम् (योनिम्) प्रकृतिम्। स्वभावम् (गच्छ) (स्वाहा) अ० २।१६।१। सुवाण्या। वेदवाचा ॥
 </details>
-

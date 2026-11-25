@@ -20,9 +20,15 @@ had **a, b** above as 2 **c, d**, and **c** as 6 **b**.⌋
 He who withholds the Cow of Gods from Rishis' sons who ask the gift Is made an alien to the Gods, and subject to the Brahmans' wrath:
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य आ॑र्षे॒येभ्यो॒ याच॑द्भ्यो दे॒वानां॒ गां न दित्स॑ति।  
+आ स दे॒वेषु॑ वृश्चते ब्राह्म॒णानां॑ च म॒न्यवे॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। आ॒र्षे॒येभ्यः॑। याच॑त्ऽभ्यः। दे॒वाना॑म्। गाम्। न। दित्स॑ति। आ। सः। दे॒वेषु॑। वृ॒श्च॒ते॒। ब्रा॒ह्म॒णाना॑म‌्। च॒। म॒न्यवे॑। ४.१२। 
+यः। आ॒र्षे॒येभ्यः॑। याच॑त्ऽभ्यः। दे॒वाना॑म्। गाम्। न। दित्स॑ति। आ। सः। दे॒वेषु॑। वृ॒श्च॒ते॒। ब्रा॒ह्म॒णाना॑म‌्। च॒। म॒न्यवे॑। ४.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ He who withholds the Cow of Gods from Rishis' sons who ask the gift Is made an a
 
 टिप्पणी:   १२−(आ) समन्तात् (सः) मूर्खः (देवेषु) स्तुत्यगुणेषु (वृश्चते) वृश्च्यते। छिद्यते। हीयते (ब्राह्मणानाम्) वेदवेतॄणां मध्ये (च) (मन्यवे) क्रोधाय भवतीति शेषः। अन्यत् पूर्ववत्−म० २ ॥
 </details>
-

@@ -18,9 +18,14 @@ Part of the mss. read in **b** *devy ū̀ṣásā*.
 May the Goddess Dawn in accord with Speech, and the Goddess Speech in accord with Dawn,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॒षा दे॒वी वा॒चासं॑विदा॒ना वाग्दे॒व्यु१॒॑षसा॑ संविदा॒ना ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒षाः। दे॒वी। वा॒चा। स॒म्ऽवि॒दा॒ना। वाक्। दे॒वी। उषसा॑। स॒म्ऽवि॒दा॒ना। ६.५। 
+उ॒षाः। दे॒वी। वा॒चा। स॒म्ऽवि॒दा॒ना। वाक्। दे॒वी। उषसा॑। स॒म्ऽवि॒दा॒ना। ६.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ May the Goddess Dawn in accord with Speech, and the Goddess Speech in accord wit
 
 टिप्पणी:   ५−(उषाः) प्रभातवेला (देवी) दिव्यगुणवती (वाचा) वाण्या सह (संविदाना) संगच्छमाना (वाक्) (देवी) (उषसा) प्रभातवेलया सह (संविदाना)संगच्छमाना ॥
 </details>
-

@@ -19,9 +19,14 @@ veda*⌋.
 He, having been invited among the gods, regales, invited in that which wears all various forms among the Gods.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उप॑हूतो दे॒वेषु॑ भक्षय॒त्युप॑हूत॒स्तस्मि॒न्यद्दे॒वेषु॑ वि॒श्वरू॑पम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। उप॑ऽहूतः। दे॒वेषु॑। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। दे॒वेषु॑। वि॒श्वऽरू॑पम्। ११.१०। 
+सः। उप॑ऽहूतः। दे॒वेषु॑। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। दे॒वेषु॑। वि॒श्वऽरू॑पम्। ११.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ He, having been invited among the gods, regales, invited in that which wears all
 
 टिप्पणी:   १०−(देवेषु) विद्वत्सु वर्तमानं ब्रह्मचर्यस्वाध्यायेश्वरप्रणिधानादिशुभगुणम्। अन्यत् पूर्ववत् ॥
 </details>
-

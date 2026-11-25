@@ -25,9 +25,14 @@ last two verses should be called of two pādas.
 Preserve me with all care. O All-Sustainer! All hail to thee!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+विश्व॑म्भर॒ विश्वे॑न मा॒ भर॑सा पाहि॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-विश्व॑म् ऽभर। विश्वे॑न। मा॒। भर॑सा। पा॒हि॒। स्वाहा॑। १६.५। 
+विश्व॑म् ऽभर। विश्वे॑न। मा॒। भर॑सा। पा॒हि॒। स्वाहा॑। १६.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +62,3 @@ Preserve me with all care. O All-Sustainer! All hail to thee!
 
 टिप्पणी:   ५–विश्वम्भर। संज्ञायां भृतॄवृजि०। पा० ३।२।४६। इति विश्व+डुभृञ् धारणपोषणयोः–खच्। अरुर्द्विषदजन्तस्य मुम्। पा० ६।३।६७। इति मुम्। हे सर्वधारक ! जगत्पोषक ! विष्णो ! परमात्मन् ! विश्वेन। समस्तेन। भरसा। सर्वधातुभ्योऽसुन्। उ० ४।१८९। इति डुभृञ्–असुन्। पोषणशक्त्या। अन्यद् व्याख्यातम् ॥
 </details>
-

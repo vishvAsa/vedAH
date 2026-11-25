@@ -21,9 +21,15 @@ obviously necessary correction. The comm. reads *tvayā*.
 Whatever evil we have done, whatever vile or sinful act, With thee, O Apamarga, who lookest all ways, we wipe it off.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्दु॑ष्कृ॒तं यच्छम॑लं॒ यद्वा॑ चेरिम पा॒पया॑।  
+त्वया॒ तद्वि॑श्वतोमु॒खापा॑मा॒र्गाप॑ मृज्महे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। दुः॒ऽकृ॒तम्। यत्। शम॑लम्। यत्। वा॒। चे॒रि॒म। पा॒पया॑। त्वया॑। तत्। वि॒श्व॒तः॒ऽमु॒ख॒। अपा॑मार्ग। अप॑। मृ॒ज्म॒हे॒। ६७.२। 
+यत्। दुः॒ऽकृ॒तम्। यत्। शम॑लम्। यत्। वा॒। चे॒रि॒म। पा॒पया॑। त्वया॑। तत्। वि॒श्व॒तः॒ऽमु॒ख॒। अपा॑मार्ग। अप॑। मृ॒ज्म॒हे॒। ६७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Whatever evil we have done, whatever vile or sinful act, With thee, O Apamarga, 
 
 टिप्पणी:   २−(यत्) यत् किञ्चित् (दुष्कृतम्) दुष्कर्म (यत्) (शमलम्) अ० ४।९।६। मालिन्यम् (यद् वा) अथवा (चेरिम) चर गतिभक्षणयोः-लिट्। वयं कृतवन्तः (पापया) पापबुद्ध्या (त्वया) (तत्) दुष्कृतं शमलं वा (विश्वतोमुख) सर्वदिङ्मुख। अतिदूरदर्शिन् (अपामार्ग) म० १। सर्वथा संशोधक (अप मृज्महे) सर्वथा शोधयामः ॥
 </details>
-

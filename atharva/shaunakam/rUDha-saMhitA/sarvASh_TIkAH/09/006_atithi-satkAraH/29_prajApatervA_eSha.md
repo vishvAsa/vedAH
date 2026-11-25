@@ -17,9 +17,14 @@ This verse is wanting in Ppp.
 The man who offers food follows the steps of Prajapati.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒जाप॑ते॒र्वा ए॒ष वि॑क्र॒मान॑नु॒विक्र॑मते॒ य उ॑प॒हर॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒जाऽप॑तेः। वै। ए॒षः। वि॒ऽक्र॒मान्। अ॒नु॒ऽविक्र॑मते। यः। उ॒प॒ऽहर॑ति। ७.१२। 
+प्र॒जाऽप॑तेः। वै। ए॒षः। वि॒ऽक्र॒मान्। अ॒नु॒ऽविक्र॑मते। यः। उ॒प॒ऽहर॑ति। ७.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ The man who offers food follows the steps of Prajapati.
 
 टिप्पणी:   १२−(प्रजापतेः) प्रजापालकस्य परमेश्वरस्य मनुष्यस्य वा (वै) (एषः) गृहस्थः (विक्रमान्) पराक्रमान् (अनुविक्रमते) अनुसृत्य पराक्रमान् करोति। अन्यत् पूर्ववत् ॥
 </details>
-

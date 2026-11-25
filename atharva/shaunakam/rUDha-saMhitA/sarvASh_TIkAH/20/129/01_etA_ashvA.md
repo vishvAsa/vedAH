@@ -8,9 +8,14 @@ title = "०१ एता अश्वा"
 These mares come springing forward to Pratipa Pratisutvana. (with next verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒ता अश्वा॒ आ प्ल॑वन्ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒ताः। अश्वाः॒। प्ल॑वन्ते। १२९.१। 
+ए॒ताः। अश्वाः॒। प्ल॑वन्ते। १२९.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ These mares come springing forward to Pratipa Pratisutvana. (with next verse)
 
 टिप्पणी:   [पदपाठ के लिये सूचना सूक्त १२७ देखो]१−(एताः) उपस्थिताः (अश्वाः), अशू व्याप्तौ-क्वन्, टाप्। व्यापिकाः प्रजाः (आ) आगत्य (प्लवन्ते) गच्छन्ति ॥
 </details>
-

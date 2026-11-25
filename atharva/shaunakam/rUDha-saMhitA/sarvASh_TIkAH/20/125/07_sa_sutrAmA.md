@@ -8,9 +8,15 @@ title = "०७ स सुत्रामा"
 May we enjoy his favour, his the holy: may we enjoy his blessed loving-kindness. May this rich Indra, as our good protector, drive off and keep afar all those who hate us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स सु॒त्रामा॒ स्ववाँ॒ इन्द्रो॑ अ॒स्मदा॒राच्चि॒द्द्वेषः॑ सनु॒तर्यु॑योतु।  
+तस्य॑ व॒यं सु॑म॒तौ य॒ज्ञिय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। सु॒ऽत्रामा॑। स्वऽवा॑न्। इन्द्रः॑। अ॒स्मत्। आ॒रात्। चि॒त्। द्वेषः॑। स॒नु॒तः। यु॒यो॒तु॒। तस्य॑। व॒यम्। सु॒ऽम॒तौ। य॒ज्ञिय॑स्य। अपि॑। भ॒द्रे। सौ॒म॒न॒से। स्या॒म॒। १२५.७। 
+सः। सु॒ऽत्रामा॑। स्वऽवा॑न्। इन्द्रः॑। अ॒स्मत्। आ॒रात्। चि॒त्। द्वेषः॑। स॒नु॒तः। यु॒यो॒तु॒। तस्य॑। व॒यम्। सु॒ऽम॒तौ। य॒ज्ञिय॑स्य। अपि॑। भ॒द्रे। सौ॒म॒न॒से। स्या॒म॒। १२५.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ May we enjoy his favour, his the holy: may we enjoy his blessed loving-kindness.
 
 टिप्पणी:   ६, ७−मन्त्रौ व्याख्यातौ-अथ० ७ सू० ९१, ९२ ॥
 </details>
-

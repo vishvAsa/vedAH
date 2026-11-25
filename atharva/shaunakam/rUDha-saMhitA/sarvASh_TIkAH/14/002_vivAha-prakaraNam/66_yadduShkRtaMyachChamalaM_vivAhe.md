@@ -26,9 +26,15 @@ then carried to the woods and fastened to a tree.
 Whatever fault or error was in marriage or in bridal pomp. This woe we wipe away upon the cloak the interceder wears.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्दु॑ष्कृ॒तंयच्छम॑लं विवा॒हे व॑ह॒तौ च॒ यत्।  
+तत्सं॑भ॒लस्य॑ कम्ब॒ले मृ॒ज्महे॑ दुरि॒तंव॒यम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। दुः॒ऽकृ॒तम्। यत्। शम॑लम्। वि॒ऽवा॒हे। व॒ह॒तौ। च॒। यत्। तत्। स॒म्ऽभ॒लस्‍य॑। क॒म्ब॒ले। मृ॒ज्महे॑। दुः॒ऽइ॒तम्। व॒यम्। २.६६। 
+यत्। दुः॒ऽकृ॒तम्। यत्। शम॑लम्। वि॒ऽवा॒हे। व॒ह॒तौ। च॒। यत्। तत्। स॒म्ऽभ॒लस्‍य॑। क॒म्ब॒ले। मृ॒ज्महे॑। दुः॒ऽइ॒तम्। व॒यम्। २.६६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Whatever fault or error was in marriage or in bridal pomp. This woe we wipe away
 
 टिप्पणी:   ६६−(यत्) (दुष्कृतम्) दुष्टकर्म (यत्) (शमलम्) मालिन्यम् (विवाहे) (वहतौ)विवाहे दातव्यपदार्थे (च) (तत्) दुष्टकर्म (संभलस्य) भल निरूपणे-अच्। सम्यग्निरूपकस्य (कम्बले) कमेर्बुक्। उ० १।१०७ कमु कान्तौ-कल प्रत्यये बुक्। कमनीयेकर्मणि (मृज्महे) शोधयामः (दुरितम्) दुष्कर्म (वयम्) पुरुषार्थिनः ॥
 </details>
-

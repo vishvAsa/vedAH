@@ -19,9 +19,14 @@ fifteen syllables called for by the Anukr. Ppp. has *yūpodako ‘si sṛjā
 यद्ये॑काद॒शोऽसि॒ सोऽपो॑दको ऽसि ॥११॥
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्ये॑काद॒शोऽसि॒ सोऽपो॑दकोऽसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यदि॑। ए॒का॒द॒शः। असि॑। सः। अप॑ऽउदकः। अ॒सि॒। १६.११। 
+यदि॑। ए॒का॒द॒शः। असि॑। सः। अप॑ऽउदकः। अ॒सि॒। १६.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ fifteen syllables called for by the Anukr. Ppp. has *yūpodako ‘si sṛjā
 
 टिप्पणी:   ११−(एकादशः) तस्य पूरणे डट्। पा० ५।२।४८। इति एकादशन्−डट्। एकादशानां पूरणः। पूर्वमन्त्रोक्तेभ्यो दशभ्यो भिन्नः पुरुषार्थहीनः (असि) (सः) स त्वम् (अपोदकः) अपगतमुदकं सेचनसामर्थ्यं यस्मात् सः। अरसः। निर्वीर्यः ॥
 </details>
-

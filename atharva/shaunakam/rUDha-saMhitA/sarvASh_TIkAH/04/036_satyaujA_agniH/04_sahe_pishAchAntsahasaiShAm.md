@@ -25,9 +25,15 @@ little exact that the evidence is really of no value.
 I conquer the Pisachas with my power, and take their wealth away. All who would injure us I slay. Let mine intention have success.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सहे॑ पिशा॒चान्त्सह॒सैषां॒ द्रवि॑णं ददे।  
+सर्वा॑न्दुरस्य॒तो ह॑न्मि॒ सं म॒ आकू॑तिरृध्यताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सहे॑। पि॒शा॒चान्। सह॑सा। आ। ए॒षा॒म्। द्रवि॑णम्। द॒दे॒। सर्वा॑न्। दु॒र॒स्य॒तः। ह॒न्मि॒। सम्। मे॒। आऽकू॑तिः। ऋ॒ध्य॒ता॒म्। ३६.४। 
+सहे॑। पि॒शा॒चान्। सह॑सा। आ। ए॒षा॒म्। द्रवि॑णम्। द॒दे॒। सर्वा॑न्। दु॒र॒स्य॒तः। ह॒न्मि॒। सम्। मे॒। आऽकू॑तिः। ऋ॒ध्य॒ता॒म्। ३६.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ I conquer the Pisachas with my power, and take their wealth away. All who would 
 
 टिप्पणी:   ४−(सहे) अभिभवामि (पिशाचान्) अ० १।१६।३। पिशिताशिनो राक्षसान् (सहसा) बलेन (एषाम्) (द्रविणम्) अ० २।२९।३। धनम् (ददे) ददामि पात्रेभ्यः (सर्वान्) (दुरस्यतः) हन्तुमिच्छून् (हन्मि) नाशयामि (मे) मम (आकूतिः) अ० ३।२।३। शुभसंकल्पः (सम् ऋध्यताम्) सम्यक् सिध्यतु ॥
 </details>
-

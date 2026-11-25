@@ -17,9 +17,15 @@ bear thee up from the fetters of perdition with divine speech.
 Here is thy spirit, here thy breath, here is thy life, here is thy soul: By a celestial utterance we raise thee from Destruction's bonds.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒ह तेऽसु॑रि॒ह प्रा॒ण इ॒हायु॑रि॒ह ते॒ मनः॑।  
+उत्त्वा॒ निरृ॑त्याः॒ पाशे॑भ्यो॒ दैव्या॑ व॒चा भ॑रामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒ह। ते॒। असुः॑। इ॒ह। प्रा॒णः। इ॒ह। आयुः॑। इ॒ह। ते॒। मनः॑। उत्। त्वा॒। निःऽऋ॑त्याः। पाशे॑भ्यः। दैव्या॑। वा॒चा। भ॒रा॒म॒सि॒। १.३। 
+इ॒ह। ते॒। असुः॑। इ॒ह। प्रा॒णः। इ॒ह। आयुः॑। इ॒ह। ते॒। मनः॑। उत्। त्वा॒। निःऽऋ॑त्याः। पाशे॑भ्यः। दैव्या॑। वा॒चा। भ॒रा॒म॒सि॒। १.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Here is thy spirit, here thy breath, here is thy life, here is thy soul: By a ce
 
 टिप्पणी:   ३−(इह) अस्मिन् परमेश्वरे (ते) तव (असुः) प्रज्ञा-निघ० ३।९। (इह) (प्राणः) जीवनसाधनं वायुः (इह) (आयुः) जीवनम् (इह) (ते) (मनः) अन्तःकरणम् (उत्) ऊर्ध्वम् (त्वा) (निर्ऋत्याः) अ० २।१०।१। कृच्छापत्तेः। अविद्यायाः (पाशेभ्यः) जालेभ्यः (दैव्या) देव-अण्, ङीप्। देवात् परमेश्वरात् प्राप्तया (वाचा) वाण्या (भरामसि) धरामः ॥
 </details>
-

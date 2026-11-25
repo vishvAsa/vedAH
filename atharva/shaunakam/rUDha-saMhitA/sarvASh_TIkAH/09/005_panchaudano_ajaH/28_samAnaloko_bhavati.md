@@ -21,9 +21,15 @@ pañcāudanaṁ dadat*.
 One world with the re-wedded wife becomes the second hus- band's home. Who gives the Goat Panchaudana illumined with the priestly fee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑मा॒नलो॑को भवति पुन॒र्भुवाप॑रः॒ पतिः॑।  
+यो॒३॒॑जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒मा॒नऽलो॑कः। भ॒व॒ति॒। पु॒नः॒ऽभुवा॑। अप॑रः। पतिः॑। यः। अ॒जम्। पञ्च॑ऽओदनम्। दक्षि॑णाऽज्योतिषम्। ददा॑ति। ५.२८। 
+स॒मा॒नऽलो॑कः। भ॒व॒ति॒। पु॒नः॒ऽभुवा॑। अप॑रः। पतिः॑। यः। अ॒जम्। पञ्च॑ऽओदनम्। दक्षि॑णाऽज्योतिषम्। ददा॑ति। ५.२८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ One world with the re-wedded wife becomes the second hus- band's home. Who gives
 
 टिप्पणी:   २८−(समानलोकः) एकस्थानः (भवति) (पुनर्भुवा) पुनः+भू सत्तायाम्-क्विप्। पुनर्भूर्दिधिषू रूढा द्विस्तस्या दिधिषुः पतिः। स तु द्विजोऽग्रेदिधिषूः सैव यस्य कुटुम्बिनी। इत्यमरः १६।२३। द्विरूढया नियोजितया वा स्त्रिया सह (अपरः) द्वितीयः। देवरः (पतिः) अन्यत् पूर्ववत् ॥
 </details>
-

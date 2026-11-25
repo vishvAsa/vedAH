@@ -23,9 +23,15 @@ Gram.* §960.⌋
 When the guest hath eaten he should eat. This is the rule for the animation of the sacrifice and the preservation of its continuity.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑शि॒ताव॒त्यति॑थावश्नीयाद्य॒ज्ञस्य॑ सात्म॒त्वाय॑।  
+य॒ज्ञस्यावि॑च्छेदाय॒ तद्व्र॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒शि॒तऽव॑ति। अति॑थौ। अ॒श्नी॒या॒त्। य॒ज्ञस्य॑। सा॒त्म॒ऽत्वाय॑। य॒ज्ञस्य॑। अवि॑ऽछेदाय। तत्। व्र॒तम्। ८.८। 
+अ॒शि॒तऽव॑ति। अति॑थौ। अ॒श्नी॒या॒त्। य॒ज्ञस्य॑। सा॒त्म॒ऽत्वाय॑। य॒ज्ञस्य॑। अवि॑ऽछेदाय। तत्। व्र॒तम्। ८.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ When the guest hath eaten he should eat. This is the rule for the animation of t
 
 टिप्पणी:   ८−(अशितवति) सांहितिको दीर्घः। भुक्तवति (अतिथौ) संन्यासिनि (अश्नीयात्) जेमेत् (यज्ञस्य) शुभव्यवहारस्य (सात्मत्वाय) सजीवनत्वाय। वृद्धिकरणाय (अविच्छेदाय) निरन्तरत्वाय। अविरामाय। अन्यत् पूर्ववत् ॥
 </details>
-

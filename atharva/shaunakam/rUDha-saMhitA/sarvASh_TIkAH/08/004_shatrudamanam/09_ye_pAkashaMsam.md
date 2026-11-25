@@ -22,9 +22,15 @@ wanting in our text over the *ya* of *dūṣáyanti* in **b**.
 Those who destroy, as is their wont, the simple, and with their evil natures harm the righteous, May Soma give them over to the serpent, or to the lap of Nirriti consign them.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये पा॑कशं॒सं वि॒हर॑न्त॒ एवै॒र्ये वा॑ भ॒द्रं दू॒षय॑न्ति स्व॒धाभिः॑।  
+अह॑ये वा॒ तान्प्र॒ददा॑तु॒ सोम॒ आ वा॑ दधातु॒ निरृ॑तेरु॒पस्थे॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। पा॒क॒ऽशं॒सम्। वि॒ऽहर॑न्ते। एवैः॑। ये। वा॒। भ॒द्रम्। दू॒षय॑न्ति। स्व॒धाभिः॑। अह॑ये। वा॒। तान्। प्र॒ऽददा॑तु। सोमः॑। आ। वा॒। द॒धा॒तु॒। निःऽऋ॑तेः। उ॒पऽस्थे॑। ४.९। 
+ये। पा॒क॒ऽशं॒सम्। वि॒ऽहर॑न्ते। एवैः॑। ये। वा॒। भ॒द्रम्। दू॒षय॑न्ति। स्व॒धाभिः॑। अह॑ये। वा॒। तान्। प्र॒ऽददा॑तु। सोमः॑। आ। वा॒। द॒धा॒तु॒। निःऽऋ॑तेः। उ॒पऽस्थे॑। ४.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Those who destroy, as is their wont, the simple, and with their evil natures har
 
 टिप्पणी:   ९−ऐश्वर्यवान् प्रेरको वा राजा (आ) समन्तात् (दधातु) स्थापयतु (निर्ऋतेः) अ० २।१०।१। कृच्छ्रापत्तेः। अलक्ष्म्याः (उपस्थे) उत्सङ्गे ॥
 </details>
-

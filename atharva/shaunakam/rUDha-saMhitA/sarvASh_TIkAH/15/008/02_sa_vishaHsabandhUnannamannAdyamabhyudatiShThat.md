@@ -19,9 +19,14 @@ of the Anukr. implies its presence.
 He came to the people, to kinsmen, food and nourishment.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स विशः॒सब॑न्धू॒नन्न॑म॒न्नाद्य॑म॒भ्युद॑तिष्ठत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। विशः॑। सऽब॑न्धून्। अन्न॑म्। अ॒न्न॒ऽअद्य॑म्। अ॒भि॒ऽउद॑तिष्ठत्। ८.२। 
+सः। विशः॑। सऽब॑न्धून्। अन्न॑म्। अ॒न्न॒ऽअद्य॑म्। अ॒भि॒ऽउद॑तिष्ठत्। ८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ He came to the people, to kinsmen, food and nourishment.
 
 टिप्पणी:   २−(सः) व्रात्यः परमात्मा (विशः) पु० लि०। मनुष्यान्-निघ० २।३। (सबन्धून्) बन्धुभिः सहितान् (अन्नम्)सस्यम् (अन्नाद्यम्) अदनीयं संस्कृतं पदार्थम् (अभ्युदतिष्ठत्) अभीत्यअधिष्ठितवान् ॥
 </details>
-

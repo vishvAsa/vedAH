@@ -19,9 +19,14 @@ read *yā́cati apáḥ* to make out the defined meter.
 When he salutes them reverently he undergoes preparation for a religious ceremony: when he calls for water, he solemnly brings sacrificial water.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद॑भि॒वद॑ति दी॒क्षामुपै॑ति॒ यदु॑द॒कं याच॑त्य॒पः प्र ण॑यति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। अ॒भि॒ऽवद॑ति। दी॒क्षाम्। उप॑। ए॒ति॒। यत्। उ॒द॒कम्। याच॑ति। अ॒पः। प्र। न॒य॒ति॒। ६.४। 
+यत्। अ॒भि॒ऽवद॑ति। दी॒क्षाम्। उप॑। ए॒ति॒। यत्। उ॒द॒कम्। याच॑ति। अ॒पः। प्र। न॒य॒ति॒। ६.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ When he salutes them reverently he undergoes preparation for a religious ceremon
 
 टिप्पणी:   ४−(यत्) यदा (अभिवदति) संवदति प्रणमति वा (दीक्षाम्) अ० ८।५।१५। व्रतोपदेशम् (उपैति) आदरेण प्राप्नोति (यत्) यदा (याचति) याचृ आत्मने दानार्थं प्रेरणे, ग्रहणार्थं प्रेरणेऽपि-शब्दकल्पद्रुमः। विनयेन ददाति। (अपः) जलानि (प्र णयति) प्रणीतापात्रेण समर्पयति गृहस्थः ॥
 </details>
-

@@ -94,9 +94,15 @@ of MS. appears to require correction to *etā́* p. *etā́ḥ*.⌋
 All living fathers who are here are we here: let them follow us. May we be the most excellent of these.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य इ॒ह पि॒तरो॑जी॒वा इ॒ह व॒यं स्मः॑।  
+अ॒स्माँस्तेऽनु॑ व॒यं तेषां॒ श्रेष्ठा॑ भूयास्म ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। इ॒ह। पि॒तरः॑। जी॒वाः। इ॒ह। व॒यम्। स्मः॒। अ॒स्मान्। ते। अनु॑। व॒यम्। तेषा॑म्। श्रेष्ठाः॑। भू॒या॒स्म॒। ४.८७। 
+ये। इ॒ह। पि॒तरः॑। जी॒वाः। इ॒ह। व॒यम्। स्मः॒। अ॒स्मान्। ते। अनु॑। व॒यम्। तेषा॑म्। श्रेष्ठाः॑। भू॒या॒स्म॒। ४.८७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -126,4 +132,3 @@ All living fathers who are here are we here: let them follow us. May we be the m
 
 टिप्पणी:   ८७−(जीवाः) जीवनवन्तः। सचेतसः (इह) (वयम्) (स्मः) भवामः (ते)प्रसिद्धाः (अनु) अनुसृत्य। अनुकूल्य (वयम्) अन्यत् पूर्ववत् ॥
 </details>
-

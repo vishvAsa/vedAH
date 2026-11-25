@@ -21,9 +21,15 @@ used in the comm. to Kāuś. 26. 40. *Muñcāsi* in **b** is a misprint for
 I bind on me my happy fate with holy prayer and energy. Foeless destroyer of the foe, it hath subdued mine enemies.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रह्म॑णा॒ तेज॑सा स॒ह प्रति॑ मुञ्चामि मे शि॒वम्।  
+अ॑सप॒त्नः स॑पत्न॒हा स॒पत्ना॒न्मेऽध॑राँ अकः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑णा। तेज॑सा। स॒ह। प्रति॑। मु॒ञ्चा॒मि॒। मे॒। शि॒वम्। अ॒स॒प॒त्नः। स॒प॒त्न॒ऽहा। स॒ऽपत्ना॑न्। मे॒। अध॑रान्। अ॒क॒। ६.३०। 
+ब्रह्म॑णा। तेज॑सा। स॒ह। प्रति॑। मु॒ञ्चा॒मि॒। मे॒। शि॒वम्। अ॒स॒प॒त्नः। स॒प॒त्न॒ऽहा। स॒ऽपत्ना॑न्। मे॒। अध॑रान्। अ॒क॒। ६.३०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ I bind on me my happy fate with holy prayer and energy. Foeless destroyer of the
 
 टिप्पणी:   ३०−(ब्रह्मणा) वेदद्वारा (तेजसा) प्रकाशेन सह (प्रति मुञ्चामि) स्वीकरोमि (मे) मह्यम्। आत्मने (शिवम्) मङ्गलप्रदं परमात्मानम् (असपत्नः) शत्रुनाशकः (सपत्नान्) शत्रून् (मे) मम (अधरान्) नीचान् (अकः) अ० १।८।१। अकार्षीत्। कृतवान् ॥
 </details>
-

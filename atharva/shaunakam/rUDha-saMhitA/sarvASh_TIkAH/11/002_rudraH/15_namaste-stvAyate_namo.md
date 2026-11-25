@@ -21,9 +21,15 @@ i. 12. 34 and Āp. ix. 2. 9, in both with *rudra* for *astu* in **b**.
 Be homage, Rudra, unto thee approaching and departing hence! Homage to thee when standing still, to thee when seated and at rest!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नम॑स्तेऽस्त्वाय॒ते नमो॑ अस्तु पराय॒ते।  
+नम॑स्ते रुद्र॒ तिष्ठ॑त॒ आसी॑नायो॒त ते॒ नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नमः॑। ते॒। अ॒स्तु॒। आ॒ऽय॒ते। नमः॑। अ॒स्तु॒। प॒रा॒ऽय॒ते। नमः॑। ते॒। रु॒द्र॒। तिष्ठ॑ते। आसी॑नाय। उ॒त। ते॒। नमः॑। २.१५। 
+नमः॑। ते॒। अ॒स्तु॒। आ॒ऽय॒ते। नमः॑। अ॒स्तु॒। प॒रा॒ऽय॒ते। नमः॑। ते॒। रु॒द्र॒। तिष्ठ॑ते। आसी॑नाय। उ॒त। ते॒। नमः॑। २.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Be homage, Rudra, unto thee approaching and departing hence! Homage to thee when
 
 टिप्पणी:   १५−(नमः) (ते) तुभ्यम् (अस्तु) (आयते) आगच्छतः पुरुषस्य हिताय (परायते) दूरं गच्छते (रुद्र) म० ३। हे दुःखनाशक (तिष्ठते) उत्तिष्ठतः पुरुषस्य हिताय (आसीनाय) उपविष्टस्य हिताय (उत) अपि च। अन्यद् गतम् ॥
 </details>
-

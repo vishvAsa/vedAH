@@ -8,9 +8,14 @@ title = "१६ इरावेदुमयं दत"
 Libation hath rejoiced the God.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इरा॑वेदु॒मयं॑ दत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इरा॑वेदुमयम्। द॒त। १३०.१६। 
+इरा॑वेदुमयम्। द॒त। १३०.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Libation hath rejoiced the God.
 
 टिप्पणी:   १६−(इरावेदुमयम्) ऋज्रेन्द्राग्र०। उ० २।२८। इण् गतौ-रन्, गुणाभावः। भृमृशीङ्०। उ० १।७। विद ज्ञाने-उप्रत्ययः। इराया भूमेर्ज्ञानयुक्तं व्यवहारम् (दत) तलोपः। यूयं दत्त ॥
 </details>
-

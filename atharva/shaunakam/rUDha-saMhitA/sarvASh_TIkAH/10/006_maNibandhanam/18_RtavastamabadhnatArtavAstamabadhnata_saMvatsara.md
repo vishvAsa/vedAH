@@ -18,9 +18,15 @@ As noted above, this verse and the one following are wanting in Ppp.
 The seasons formed that Amulet, the Groups of Seasons fashion- ed it. The Year having constructed it preserveth everything that is.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋ॒तव॒स्तम॑बध्नतार्त॒वास्तम॑बध्नत।  
+सं॑वत्स॒रस्तं ब॒द्ध्वा सर्वं॑ भू॒तं वि र॑क्षति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋ॒तवः॑। तम्। अ॒ब॒ध्न॒त॒। आ॒र्त॒वाः। तम्। अ॒ब॒ध्न॒त॒। स॒म्ऽव॒त्स॒रः। तम्। ब॒ध्द्वा। सर्व॑म्। भू॒तम्। वि। र॒क्ष॒ति॒। ६.१८। 
+ऋ॒तवः॑। तम्। अ॒ब॒ध्न॒त॒। आ॒र्त॒वाः। तम्। अ॒ब॒ध्न॒त॒। स॒म्ऽव॒त्स॒रः। तम्। ब॒ध्द्वा। सर्व॑म्। भू॒तम्। वि। र॒क्ष॒ति॒। ६.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The seasons formed that Amulet, the Groups of Seasons fashion- ed it. The Year h
 
 टिप्पणी:   १८−(ऋतवः) वसन्तादयः कालविशेषाः (तम्) नियमम् (अबध्नत) गृहीतवन्तः (आर्तवाः) ऋतु-अण्। ऋतूनामवयवाः (संवत्सरः) वर्षकालः (बद्ध्वा) गृहीत्वा (सर्वम्) (भूतम्) जगत् (वि) विविधम् (रक्षति) पाति ॥
 </details>
-

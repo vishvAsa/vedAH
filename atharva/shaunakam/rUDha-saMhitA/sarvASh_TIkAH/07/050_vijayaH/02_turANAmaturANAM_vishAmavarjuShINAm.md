@@ -24,9 +24,15 @@ in spite of ill luck. For **d**, Ppp. has *antarhastyaṁ kṛtaṁ manaḥ*.
 From every side, from hale and sick, impotent to defend them- selves, May all the fortune of the folk as winnings pass into my hands.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तु॒राणा॒मतु॑राणां वि॒शामव॑र्जुषीणाम्।  
+स॒मैतु॑ वि॒श्वतो॒ भगो॑ अन्तर्ह॒स्तं कृ॒तं मम॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तु॒राणा॑म्। अतु॑राणाम्। वि॒शाम्। अव॑र्जुषीणाम्। स॒म्ऽऐतु॑। वि॒श्वतः॑। भगः॑। अ॒न्तः॒ऽह॒स्तम्। कृ॒तम्। मम॑। ५२.२। 
+तु॒राणा॑म्। अतु॑राणाम्। वि॒शाम्। अव॑र्जुषीणाम्। स॒म्ऽऐतु॑। वि॒श्वतः॑। भगः॑। अ॒न्तः॒ऽह॒स्तम्। कृ॒तम्। मम॑। ५२.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ From every side, from hale and sick, impotent to defend them- selves, May all th
 
 टिप्पणी:   २−(तुराणाम्) तुर त्वरणे-क। शीघ्रकारिणीनाम् (अतुराणाम्) अशीघ्रकारिणीनाम् (विशाम्) प्रजानाम् (अवर्जुषीणाम्) पॄनहिकलिभ्य उषच्। उ० ४।७५। नञ्+वृजी वर्जने-उषच्, ङीप्। शत्रूणामवर्जनशीलानाम् (समैतु) सम्यक् प्राप्नोतु (विश्वतः) सर्वतः (भगः) धनम् (अन्तर्हस्तम्) हस्तमध्ये गतम् (कृतम्) कर्म (मम) ॥
 </details>
-

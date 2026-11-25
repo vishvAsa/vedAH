@@ -19,9 +19,14 @@ The adjectives are sing. masculine. The *pada*-text reads *su॰āsát* and
 Pleasant art thou to sit by one, a mother: immortal among mortals.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्वा॒सद॑सि सू॒षाअ॒मृतो॒ मर्त्ये॒श्वा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सु॒ऽआ॒सत्। अ॒सि॒। सु॒ऽउ॒षाः। अ॒मृतः॑। मर्त्ये॑षु। आ। ४.२। 
+सु॒ऽआ॒सत्। अ॒सि॒। सु॒ऽउ॒षाः। अ॒मृतः॑। मर्त्ये॑षु। आ। ४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Pleasant art thou to sit by one, a mother: immortal among mortals.
 
 टिप्पणी:   २−(स्वासत्) सु+आस सत्तायाम्-शतृ।शोभनसत्तावान् (असि) हे आत्मन् त्वं भवसि (सूषाः) उषः किच्च। उ० ४।२३४। सु+उषदाहे-असि। शोभना उषसो यस्य सः। प्रभातवेलाप्रकाशतुल्यप्रवर्धमानः (अमृतः) अमरः।नित्यः पुरुषार्थी (मर्त्येषु) मनुष्येषु (आ) समुच्चये ॥
 </details>
-

@@ -20,9 +20,15 @@ unaccented. The majority accent *sphā́tim* in **c**. Ppp. reads in **d**
 As thou, O Forest Tree, wast born with increase when thy life began, So let Sarasvati bestow abundant growth of wealth on me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथाग्रे॒ त्वं व॑नस्पते पु॒ष्ठ्या स॒ह ज॑ज्ञि॒षे।  
+ए॒वा धन॑स्य मे स्फा॒तिमा द॑धातु॒ सर॑स्वती ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। अग्रे॑। त्वम्। व॒न॒स्प॒ते॒। पु॒ष्ट्या। स॒ह। ज॒ज्ञि॒षे। ए॒व। धन॑स्य। मे॒। स्फा॒तिम्। आ। द॒धा॒तु॒। सर॑स्वती। ३१.९। 
+यथा॑। अग्रे॑। त्वम्। व॒न॒स्प॒ते॒। पु॒ष्ट्या। स॒ह। ज॒ज्ञि॒षे। ए॒व। धन॑स्य। मे॒। स्फा॒तिम्। आ। द॒धा॒तु॒। सर॑स्वती। ३१.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ As thou, O Forest Tree, wast born with increase when thy life began, So let Sara
 
 टिप्पणी:   ९−(यथा) येन प्रकारेण (अग्रे) आदौ (त्वम्) (वनस्पते) वनानां सेवकानां पालक परमेश्वर (पुष्ट्या) समृद्ध्या (सह) (जज्ञिषे) प्रादुर्भूतोऽसि (एव) एवम् (धनस्य) (मे) मह्यम् (स्फातिम्) वृद्धिम् (आ) समन्तात् (दधातु) ददातु (सरस्वती) विज्ञानवती विद्या ॥
 </details>
-

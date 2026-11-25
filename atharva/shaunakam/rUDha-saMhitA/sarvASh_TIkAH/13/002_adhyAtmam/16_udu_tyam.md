@@ -28,9 +28,15 @@ consulting MGS. Index, p. 148.⌋
 His heralds bear him up aloft, the God who knoweth all that live, Surya, that all may look on him.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑।  
+दृशे विश्वा॑य॒ सूर्य॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। ऊं॒ इति॑। त्यम्। जा॒तऽवे॑दसम्। दे॒वम्। व॒ह॒न्त‍ि॒। के॒तवः॑। दृ॒शे। विश्वा॑य। सूर्य॑म्। २.१६। 
+उत्। ऊं॒ इति॑। त्यम्। जा॒तऽवे॑दसम्। दे॒वम्। व॒ह॒न्त‍ि॒। के॒तवः॑। दृ॒शे। विश्वा॑य। सूर्य॑म्। २.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -60,4 +66,3 @@ His heralds bear him up aloft, the God who knoweth all that live, Surya, that al
 
 टिप्पणी:   १६−(उत्) ऊर्ध्वम् (उ) निश्चये (त्यम्) तम् (जातवेदसम्) यो जातान् पदार्थान् विन्दति तम् (देवम्) गच्छन्तम् (वहन्ति) गमयन्ति (केतवः) किरणाः (दृशे) द्रष्टुम् (विश्वाय) सर्वस्मै जगते (सूर्यम्) रविमण्डलम् ॥
 </details>
-

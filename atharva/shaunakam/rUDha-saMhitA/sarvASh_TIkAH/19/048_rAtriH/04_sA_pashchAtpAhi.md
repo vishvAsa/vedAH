@@ -17,9 +17,15 @@ below; do thou guard us, O shining one; here we are, thy praisers.
 So guard thou us from west and east, protect us from the north and south. O splendid One, preserve us: we, the singers of thy praise, are here.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सा प॒श्चात्पा॑हि॒ सा पु॒रः सोत्त॒राद॑ध॒रादु॒त।  
+गो॑पा॒य नो॑ विभावरि स्तो॒तार॑स्त इ॒ह स्म॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। प॒श्चात्। पा॒हि॒। सा। पु॒रः। सा। उ॒त्त॒रात्। अ॒ध॒रात्। उ॒त। गो॒पाय॑। नः॒। वि॒भा॒व॒रि॒। स्तो॒तारः॑। ते॒। इ॒ह॒। स्म॒सि॒। ४८.४। 
+सा। प॒श्चात्। पा॒हि॒। सा। पु॒रः। सा। उ॒त्त॒रात्। अ॒ध॒रात्। उ॒त। गो॒पाय॑। नः॒। वि॒भा॒व॒रि॒। स्तो॒तारः॑। ते॒। इ॒ह॒। स्म॒सि॒। ४८.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ So guard thou us from west and east, protect us from the north and south. O sple
 
 टिप्पणी:   ४−(सा) पूर्वोक्तलक्षणा त्वम् (पश्चात्) (पाहि) रक्ष (सा) सा त्वम् (पुरः) पुरस्तात् (सा) (उत्तरात्) उपरिदेशात् (अधरात्) अधोदेशात् (उत) अपि च (गोपाय) रक्ष (नः) अस्मान् (विभावरि) म० २। हे दीप्तिमति (स्तोतारः) स्तावकाः (ते) तव (इह) अत्र (स्मसि) स्मः। भवामः ॥
 </details>
-

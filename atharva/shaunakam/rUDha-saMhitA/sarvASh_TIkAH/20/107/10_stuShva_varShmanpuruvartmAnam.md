@@ -8,9 +8,15 @@ title = "१० स्तुष्व वर्ष्मन्पुरुवर
 Thou in that house which thy protection guardedh bestowest- wealth, the higher and the lower. Thou stablishest the two much-wandering Mothers, and bringest many deeds to their completion.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्तु॒ष्व व॑र्ष्मन्पुरु॒वर्त्मा॑नं॒ समृभ्वा॑णमि॒नत॑ममा॒प्तमा॒प्त्याना॑म्।  
+आ द॑र्शति॒ शव॑सा॒ भूर्यो॑जाः॒ प्र स॑क्षति प्रति॒मानं॑ पृथि॒व्याः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्तु॒ष्व। व॒र्ष्म॒न्। पु॒रु॒ऽवर्त्मा॑नम्। सम्। ऋभ्वा॑णम्। इ॒न॒त॑मम्। आ॒प्तम्। आ॒प्त्याना॑म्। आ। द॒र्श॒ति॒। शव॑सा। भूरि॑ऽओजाः। प्र। स॒क्ष॒ति॒। प्र॒ति॒ऽमान॑म्। पृ॒थि॒व्याः। १०७.१०। 
+स्तु॒ष्व। व॒र्ष्म॒न्। पु॒रु॒ऽवर्त्मा॑नम्। सम्। ऋभ्वा॑णम्। इ॒न॒त॑मम्। आ॒प्तम्। आ॒प्त्याना॑म्। आ। द॒र्श॒ति॒। शव॑सा। भूरि॑ऽओजाः। प्र। स॒क्ष॒ति॒। प्र॒ति॒ऽमान॑म्। पृ॒थि॒व्याः। १०७.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Thou in that house which thy protection guardedh bestowest- wealth, the higher a
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
-

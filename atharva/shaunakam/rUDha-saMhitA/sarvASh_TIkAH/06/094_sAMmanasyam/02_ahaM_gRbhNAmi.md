@@ -21,9 +21,15 @@ to iii. 8. 6.⌋
 I with my spirit make your spirits captive: these with their thoughts follow my thought and wishes. I make your hearts submissive to mine order closely attending go where I precede you.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒हं गृ॑भ्णामि॒ मन॑सा॒ मनां॑सि॒ मम॑ चि॒त्तमनु॑ चि॒त्तेभि॒रेत॑।  
+मम॒ वशे॑षु॒ हृद॑यानि वः कृणोमि॒ मम॑ या॒तमनु॑वर्त्मान॒ एत॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒हम्। गृ॒भ्णा॒मि॒। मन॑सा। मनां॑सि। मम॑। चि॒त्तम्। अनु॑। चि॒त्तेभिः॑। आ। इ॒त। मम॑। वशे॑षु। हृद॑यानि। वः॒। कृ॒णो॒मि॒। मम॑। या॒तम्। अनु॑ऽवर्त्मानः। आ। इ॒त॒। ९४.२। 
+अ॒हम्। गृ॒भ्णा॒मि॒। मन॑सा। मनां॑सि। मम॑। चि॒त्तम्। अनु॑। चि॒त्तेभिः॑। आ। इ॒त। मम॑। वशे॑षु। हृद॑यानि। वः॒। कृ॒णो॒मि॒। मम॑। या॒तम्। अनु॑ऽवर्त्मानः। आ। इ॒त॒। ९४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ I with my spirit make your spirits captive: these with their thoughts follow my 
 
 टिप्पणी:   २−पूर्ववद् व्याख्येयः−अ० ३।८।६ ॥
 </details>
-

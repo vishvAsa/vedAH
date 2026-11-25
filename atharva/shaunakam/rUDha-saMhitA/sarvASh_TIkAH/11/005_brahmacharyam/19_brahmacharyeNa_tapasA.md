@@ -19,9 +19,15 @@ Ppp. reads *apā ’jayan* at end of **b** ⌊and *amṛtaṁ* for *devebhyaḥ*
 By Fervour and by self-restraint the Gods draye Death away from them, And Indra brought by self-restraint heaven's lustre to the deities.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्र॑ह्म॒चर्ये॑ण॒ तप॑सा दे॒वा मृ॒त्युमपा॑घ्नत।  
+इन्द्रो॑ ह ब्रह्म॒चर्ये॑ण दे॒वेभ्यः॒ स्व१॒॑राभ॑रत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्र॒ह्म॒ऽचर्ये॑ण। तप॑सा। दे॒वाः। मृ॒त्युम्। अप॑। अ॒घ्न॒त॒। इन्द्रः॑। ह॒। ब्र॒ह्म॒ऽचर्ये॑ण। दे॒वेभ्यः॑। स्वः᳡। आ। अ॒भ॒र॒त्। ७.१९। 
+ब्र॒ह्म॒ऽचर्ये॑ण। तप॑सा। दे॒वाः। मृ॒त्युम्। अप॑। अ॒घ्न॒त॒। इन्द्रः॑। ह॒। ब्र॒ह्म॒ऽचर्ये॑ण। दे॒वेभ्यः॑। स्वः᳡। आ। अ॒भ॒र॒त्। ७.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ By Fervour and by self-restraint the Gods draye Death away from them, And Indra 
 
 टिप्पणी:   १९−(ब्रह्मचर्येण) म० १७ (तपसा) तपश्चरणेन (देवाः) विद्वांसः (मृत्युम्) मरणकारणं निरुत्साहनिर्धनत्वादिकम् (अप) निवार्य (अघ्नत) नाशितवन्तः (इन्द्रः) सूर्यः (ह) एव (ब्रह्मचर्येण) ईश्वरनियमपालनेन (देवेभ्यः) उत्तमपदार्थानां प्राप्तये (स्वः) सुखं प्रकाशम् (आ) समन्तात् (अभरत्) धारितवान् ॥
 </details>
-

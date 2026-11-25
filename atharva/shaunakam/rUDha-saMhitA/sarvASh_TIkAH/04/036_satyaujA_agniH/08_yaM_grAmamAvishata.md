@@ -19,9 +19,15 @@ syllables ⌊or read *yáṁ-yaṁ*⌋.
 Into whatever village this mine awful power penetrates, Thence the Pisachas flee away, and plot no further mischief there.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यं ग्राम॑मावि॒शत॑ इ॒दमु॒ग्रं सहो॒ मम॑।  
+पि॑शा॒चास्तस्मा॑न्नश्यन्ति॒ न पा॒पमुप॑ जानते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। ग्राम॑म्। आ॒ऽवि॒शते॑। इ॒दम्। उ॒ग्रम्। सहः॑। मम॑। पि॒शा॒चाः। तस्मा॑त्। न॒श्य॒न्ति॒। न। पा॒पम्। उप॑। जा॒न॒ते॒। ३६.८। 
+यम्। ग्राम॑म्। आ॒ऽवि॒शते॑। इ॒दम्। उ॒ग्रम्। सहः॑। मम॑। पि॒शा॒चाः। तस्मा॑त्। न॒श्य॒न्ति॒। न। पा॒पम्। उप॑। जा॒न॒ते॒। ३६.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Into whatever village this mine awful power penetrates, Thence the Pisachas flee
 
 टिप्पणी:   ८−(यम्) (ग्रामम्) वसतिम् (आविशते) प्रविशति (इदम्) (उग्रम्) तीक्ष्णम् (सहः) बलम् (मम) मदीयम् (पिशाचाः, तस्मात्, नश्यन्ति) म० ७। (न) निषेधे (पापम्) पाति यस्मात् तत्। अनिष्टम् (उप जानते) अवबुध्यन्ते ॥
 </details>
-

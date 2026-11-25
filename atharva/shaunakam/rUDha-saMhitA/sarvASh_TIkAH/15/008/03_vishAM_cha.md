@@ -17,9 +17,14 @@ food-eating doth he become the dear abode who knoweth thus.
 He who possesses this knowledge becomes the dear home of the people, kinsmen, food and nourishment.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒शां च॒ वै ससब॑न्धूनां॒ चान्न॑स्य चा॒न्नाद्य॑स्य च प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒शाम्। च॒। वै। सः। सऽब॑न्धूनाम्। च॒। अन्न॑स्य। च॒। अ॒न्न॒ऽअद्य॑स्य। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ८.३। 
+वि॒शाम्। च॒। वै। सः। सऽब॑न्धूनाम्। च॒। अन्न॑स्य। च॒। अ॒न्न॒ऽअद्य॑स्य। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ८.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ He who possesses this knowledge becomes the dear home of the people, kinsmen, fo
 
 टिप्पणी:   ३−(विशाम्) मनुष्याणाम् (च) (वै) निश्चयेन (सः) विद्वान् (सबन्धूनाम्) सकुटुम्बिनाम् (अन्नस्य) सस्यस्य (अन्नाद्यस्य) भोग्यस्यसंस्कृतपदार्थस्य। अन्यत् पूर्ववत् ॥
 </details>
-

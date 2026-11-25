@@ -19,9 +19,15 @@ regular, thus sanctioning the resolution *-dhā-ma-naḥ*.
 We fix our thoughts on Pedu's horse, strong, off-spring of a stedfast line. Behind our backs the vipers here crouch down and lie in wait for us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पै॒द्वस्य॑ मन्महे व॒यं स्थि॒रस्य॑ स्थि॒रधा॑म्नः।  
+इ॒मे प॒श्चा पृदा॑कवः प्र॒दीध्य॑त आसते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पै॒द्वस्य॑। म॒न्म॒हे॒। व॒यम्। स्थि॒रस्य॑। स्थि॒रऽधा॑म्नः। इ॒मे। प॒श्चा। पृदा॑कवः। प्र॒ऽदीध्य॑तः। आ॒स॒ते॒। ४.११। 
+पै॒द्वस्य॑। म॒न्म॒हे॒। व॒यम्। स्थि॒रस्य॑। स्थि॒रऽधा॑म्नः। इ॒मे। प॒श्चा। पृदा॑कवः। प्र॒ऽदीध्य॑तः। आ॒स॒ते॒। ४.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ We fix our thoughts on Pedu's horse, strong, off-spring of a stedfast line. Behi
 
 टिप्पणी:   ११−(पैद्वस्य) म० ५। शीघ्रगामिनः पुरुषस्य। अधीगर्थदयेशां कर्मणि। पा० २।३।५२। इति षष्ठी (मन्महे) चिन्तयामः। स्मरामः (वयम्) (स्थिरस्य) दृढस्वभावस्य (स्थिरधाम्नः) दृढतेजस्कस्य (इमे) (पश्चा) तलोपः। पश्चात् (पृदाकवः) कुत्सितशब्दकारकाः। सर्पाः (प्रदीध्यतः) वर्तमाने पृषद्बृहन्०। उ० २।८४। दीधीङ् दीप्तिदेवनयोः-अति। कीडन्तः (आसते) तिष्ठन्ति ॥
 </details>
-

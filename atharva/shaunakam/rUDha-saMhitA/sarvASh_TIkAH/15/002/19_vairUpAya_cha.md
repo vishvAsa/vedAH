@@ -7,17 +7,22 @@ title = "१९ वैरूपाय च"
 
 **c.** ⌊17.⌋ against both the *vāirūpá*  
 and the *vāirājá* and the waters and king Varuṇa doth he offend who  
-revileth a thus-knowing Vrātya; 
+revileth a thus-knowing Vrātya;
 </details>
 
 <details><summary>Griffith</summary>
 
-He who reviles the Vratya possessing this knowledge is alienated from Vairupa and Vairaja, the Waters and Varuna the King. 
+He who reviles the Vratya possessing this knowledge is alienated from Vairupa and Vairaja, the Waters and Varuna the King.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वै॑रू॒पाय॑ च॒ वैस वै॑रा॒जाय॑ चा॒द्भ्यश्च॒ वरु॑णाय च॒ राज्ञ॒ आ वृ॑श्चते॒ य ए॒वं वि॒द्वांसं॒व्रात्य॑मुप॒वद॑ति ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-वै॒रू॒पाय॑। च॒। वै। सः। वै॒रा॒जाय॑। च॒। अ॒त्ऽभ्यः। च॒। वरु॑णाय। च॒। राज्ञे॑। आ। वृ॒श्च॒ते॒। यः। ए॒वम्। वि॒द्वांस॑म्। व्रात्य॑म्। उ॒प॒ऽवद॑ति। २.१७। 
+वै॒रू॒पाय॑। च॒। वै। सः। वै॒रा॒जाय॑। च॒। अ॒त्ऽभ्यः। च॒। वरु॑णाय। च॒। राज्ञे॑। आ। वृ॒श्च॒ते॒। यः। ए॒वम्। वि॒द्वांस॑म्। व्रात्य॑म्। उ॒प॒ऽवद॑ति। २.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,4 +52,3 @@ He who reviles the Vratya possessing this knowledge is alienated from Vairupa an
 
 टिप्पणी:   १७−(वैरूपाय) म० १६।विविधपदार्थानां निरूपकाय वेदज्ञानाय (वैराजाय) विराड्रूपस्य परमात्मनःस्वरूपस्य प्रापकाय मोक्षज्ञानाय (अद्भ्यः) प्रजाभ्यः (वरुणाय) श्रेष्ठजीवायमनुष्याय (राज्ञे) ऐश्वर्यवते। अन्यत् पूर्ववत्-म० ३ ॥
 </details>
-

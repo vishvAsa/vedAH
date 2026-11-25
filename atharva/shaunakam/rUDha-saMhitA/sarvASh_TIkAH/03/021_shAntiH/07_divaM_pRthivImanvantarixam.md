@@ -29,9 +29,15 @@ vs. 6 would reduce the first part ⌊vss. 1-7⌋ to the norm of this book.
 All fiery flames that follow after lightning, flashing o'er earth, through firmament and heaven, All that are in the wind and skyey regions--to all these Fires be this oblation offered.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दिवं॑ पृथि॒वीमन्व॒न्तरि॑क्षं॒ ये वि॒द्युत॑मनुसं॒चर॑न्ति।  
+ये दि॒क्ष्व॑१न्तर्ये वाते॑ अ॒न्तस्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दिव॑म्। पृ॒थि॒वीम्। अनु॑। अ॒न्तरि॑क्षम्। ये। वि॒ऽद्युत॑म्। अ॒नु॒ऽसं॒चर॑न्ति। ये। दि॒क्षु। अ॒न्तः। ये। वाते॑। अ॒न्तः। तेभ्यः॑। अ॒ग्निऽभ्यः॑। हु॒तम्। अ॒स्तु॒। ए॒तत्। २१.७। 
+दिव॑म्। पृ॒थि॒वीम्। अनु॑। अ॒न्तरि॑क्षम्। ये। वि॒ऽद्युत॑म्। अ॒नु॒ऽसं॒चर॑न्ति। ये। दि॒क्षु। अ॒न्तः। ये। वाते॑। अ॒न्तः। तेभ्यः॑। अ॒ग्निऽभ्यः॑। हु॒तम्। अ॒स्तु॒। ए॒तत्। २१.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,4 +67,3 @@ All fiery flames that follow after lightning, flashing o'er earth, through firma
 
 टिप्पणी:   ७−(दिवम्) सूर्यलोकम्। (पृथिवीम्) भूमिम्। (अनु) अनुप्रविश्य। (ये) अग्नयः। (विद्युतम्) अ० १।१३।१। विद्योतमानां तडितम्। (अनुसंचरन्ति)। अनुप्रविश्य सम्यग् गच्छन्ति व्याप्नुवन्ति। अन्यद् गतम् ॥
 </details>
-

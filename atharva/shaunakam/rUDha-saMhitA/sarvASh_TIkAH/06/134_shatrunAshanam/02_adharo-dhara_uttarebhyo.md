@@ -19,9 +19,15 @@ collation-book.⌋
 Down, down beneath the conquerors, let him not rise, concealed in earth, but lie down-smitten with the bolt.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अध॑रोऽधर॒ उत्त॑रेभ्यो गू॒ढः पृ॑थि॒व्या मोत्सृ॑पत्।  
+वज्रे॒णाव॑हतः शयाम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अध॑रःऽअधरः। उत्त॑रेभ्यः। गू॒ढः। पृ॒थि॒व्याः। मा। उत्। सृ॒प॒त्। वज्रे॑ण। अव॑ऽहतः। श॒या॒म्। १३४.२। 
+अध॑रःऽअधरः। उत्त॑रेभ्यः। गू॒ढः। पृ॒थि॒व्याः। मा। उत्। सृ॒प॒त्। वज्रे॑ण। अव॑ऽहतः। श॒या॒म्। १३४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Down, down beneath the conquerors, let him not rise, concealed in earth, but lie
 
 टिप्पणी:   २−(अधरोऽधरः) अतिशयेनाधरः। निकृष्टतरः (उत्तरेभ्यः) उत्कृष्टतरेभ्यः (गूढः) संवृतः (पृथिव्याः) भूमेः सकाशात् (मा) निषेधे (उत्सृपत्) उत्सर्पतु। उत्तिष्ठतु (वज्रेण) (अवहतः) चूर्णीकृतः (शयाम्) लोपस्त आत्मनेपदेषु। पा० ७।१।४१। तलोपः। शेताम्। म्रियतामित्यर्थः ॥
 </details>
-

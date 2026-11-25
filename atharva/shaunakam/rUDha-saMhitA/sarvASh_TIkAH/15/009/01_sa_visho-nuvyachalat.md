@@ -16,9 +16,14 @@ title = "०१ स विशोऽनुव्यचलत्"
 He went away to the people.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स वि॒शोऽनु॒व्य᳡चलत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। विशः॑। अनु॑। वि। अ॒च॒ल॒त्। ९.१। 
+सः। विशः॑। अनु॑। वि। अ॒च॒ल॒त्। ९.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ He went away to the people.
 
 टिप्पणी:   १−(सः) व्रात्यःपरमात्मा (विशः) मनुष्यान् (अनु) अनुलक्ष्य अन्यत् पूर्ववत् ॥
 </details>
-

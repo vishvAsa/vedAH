@@ -19,9 +19,14 @@ is simply *prathama* (or *-mā*): see under the next *anuvāka*.
 All hail for vision to the Stars, to Heaven, to Surya, sovran Lord!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दि॒वे चक्षु॑षे॒ नक्ष॑त्रेभ्यः॒ सूर्या॒याधि॑पतये॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दि॒वे। चक्षु॑षे। नक्ष॑त्रेभ्यः। सूर्या॑य। अधि॑ऽपतये। स्वाहा॑। १०.३। 
+दि॒वे। चक्षु॑षे। नक्ष॑त्रेभ्यः। सूर्या॑य। अधि॑ऽपतये। स्वाहा॑। १०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ All hail for vision to the Stars, to Heaven, to Surya, sovran Lord!
 
 टिप्पणी:   ३−(दिवे) प्रकाशाय (चक्षुषे) दर्शनशक्तये (नक्षत्रेभ्यः) नक्षत्रज्ञानेभ्यः (सूर्याय) अ० १।३।५। लोकप्रेरकाय दिवाकराय (अधिपतये) प्रकाशस्य महारक्षकाय ॥
 </details>
-

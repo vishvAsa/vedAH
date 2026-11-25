@@ -14,9 +14,14 @@ food-eater doth he eat food who knoweth thus.
 He who hath this knowledge eats food with oblation as food-eater.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आहु॑त्यान्ना॒द्यान्न॑मत्ति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आऽहु॑त्या। अ॒न्न॒ऽअ॒द्या। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। । १४.८। 
+आऽहु॑त्या। अ॒न्न॒ऽअ॒द्या। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। । १४.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ He who hath this knowledge eats food with oblation as food-eater.
 
 टिप्पणी:   ७, ८−(उदीचीम्)उत्तराम्। वामभागवर्तमानाम् (सोमः) षु गतौ ऐश्वर्ये च-मन्। पुरुषार्थी (राजा)भूपतिः) (सप्तर्षिभिः) शीर्षण्यसप्तगोलकैः सह (हुते) होमे (आहुतिम्) दानक्रियाम् (अन्नादीम्) म० ६। जीवनरक्षिकाम् (आहुत्या) यज्ञाग्नौ दानक्रियया (अन्नाद्या)जीवनरक्षिकया। अन्यत् पूर्ववत्-म० १, २ ॥
 </details>
-

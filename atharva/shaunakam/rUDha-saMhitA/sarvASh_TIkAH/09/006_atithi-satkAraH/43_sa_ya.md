@@ -18,6 +18,12 @@ etc. etc.
 He who having this knowledge besprinkles flesh and offers it wins for himself thereby as much as he gains by the perfor- mance of a very successful Twelve-Day sacrifice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स य ए॒वं वि॒द्वान् मां॒समु॑प॒सिच्यो॑प॒हर॑ति ।  
+याव॑द् द्वादशा॒हेने॒ष्ट्वा सुस॑मृद्धेनावरु॒न्धे ताव॑देनेनाव॑ रुन्धे ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सः । यः । ए॒वम् । वि॒द्वान् । मां॒सम् । उ॒प॒ऽसिच्य॑ । उ॒प॒ऽहर॑ति ॥ ९.७।  

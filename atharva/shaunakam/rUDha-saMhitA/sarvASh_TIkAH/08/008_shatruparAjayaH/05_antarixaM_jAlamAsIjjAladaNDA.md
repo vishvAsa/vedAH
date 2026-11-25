@@ -23,9 +23,15 @@ restraining: cf. vss. 7, 8, 9 and note to iii. 11. 8.⌋
 Air was the net; the poles thereof were the great quarters of the sky: Sakra therewith enveloped and cast on the ground the Dasyus' host.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒न्तरि॑क्षं॒ जाल॑मासीज्जालद॒ण्डा दिशो॑ म॒हीः।  
+तेना॑भि॒धाय॒ दस्यू॑नां श॒क्रः सेना॒मपा॑वपत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒न्तरि॑क्षम्। जाल॑म्। आ॒सी॒त्। जा॒ल॒ऽद॒ण्डाः। दिशः॑। म॒हीः। तेन॑। अ॒भि॒ऽधाय॑। दस्यू॑नाम्। श॒क्रः। सेना॑म्। अप॑। अ॒व॒प॒त्। ८.५। 
+अ॒न्तरि॑क्षम्। जाल॑म्। आ॒सी॒त्। जा॒ल॒ऽद॒ण्डाः। दिशः॑। म॒हीः। तेन॑। अ॒भि॒ऽधाय॑। दस्यू॑नाम्। श॒क्रः। सेना॑म्। अप॑। अ॒व॒प॒त्। ८.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Air was the net; the poles thereof were the great quarters of the sky: Sakra the
 
 टिप्पणी:   ५−(अन्तरिक्षम्) अवकाशः (जालम्) जल संवरणे-घञ्। पाशः। विस्तारः (आसीत्) (जालदण्डाः) (दिशः) प्राच्यादयः (महीः) महत्यः (तेन) जालेन (अभिधाय) आच्छाद्य (दस्यूनाम्) अ० २।१४।५। चोरादीनाम् (शक्रः) शक्तः सेनापतिः (सेनाम्) (अप अवपत्) इतस्ततः प्रक्षिप्तवान् ॥
 </details>
-

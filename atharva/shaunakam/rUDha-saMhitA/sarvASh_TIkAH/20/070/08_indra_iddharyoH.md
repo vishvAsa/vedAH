@@ -8,9 +8,15 @@ title = "०८ इन्द्र इद्धर्योः"
 Indra hath ever close to him his two bay steeds and word-yoked car, Indra the golden, Thunder-armed.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्र॒ इद्धर्योः॒ सचा॒ संमिश्ल॒ आ व॑चो॒युजा॑।  
+इन्द्रो॑ व॒ज्री हि॑र॒ण्ययः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। इत्। हर्योः॑। सचा॑। सम्ऽमि॑श्लः। आ। व॒चः॒। युजा॑। इन्द्रः॑। व॒ज्री। हि॒र॒ण्ययः॑। ७.८। 
+इन्द्रः॑। इत्। हर्योः॑। सचा॑। सम्ऽमि॑श्लः। आ। व॒चः॒। युजा॑। इन्द्रः॑। व॒ज्री। हि॒र॒ण्ययः॑। ७.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Indra hath ever close to him his two bay steeds and word-yoked car, Indra the go
 
 टिप्पणी:   ७-९−एते मन्त्रा आगताः-अथ० २०।३८।४-६ तथा ४७।४-६ ॥
 </details>
-

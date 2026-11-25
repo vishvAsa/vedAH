@@ -19,9 +19,14 @@ knoweth thus.
 They made the two Winter months his protectors from the region of the nadir, and earth and Agni superintendents. The two Winter months, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ग्रैष्मौ॒ मासौ॑गो॒प्तारा॒वकु॑र्वन्यज्ञाय॒ज्ञियं॑ च वामदे॒व्यं चा॑नुष्ठा॒तारौ॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ग्रैष्मौ॑। मासौ॑। गो॒प्तारौ॑। अकु॑र्वन्। य॒ज्ञा॒य॒ज्ञिय॑म्। च॒। वा॒म॒ऽदे॒व्यम्। च॒। अ॒नु॒ऽस्था॒तारौ॑। ४.५। 
+ग्रैष्मौ॑। मासौ॑। गो॒प्तारौ॑। अकु॑र्वन्। य॒ज्ञा॒य॒ज्ञिय॑म्। च॒। वा॒म॒ऽदे॒व्यम्। च॒। अ॒नु॒ऽस्था॒तारौ॑। ४.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ They made the two Winter months his protectors from the region of the nadir, and
 
 टिप्पणी:   ५, ६−(ग्रैष्मौ)ग्रीष्म-अण्। निदाघसम्बन्धिनौ ज्येष्ठाषाढौ (मासौ) (यज्ञायज्ञियम्)व्याख्यातम्-सू० ३ म० ५ (वामदेव्यम्) गतम्-सू० ३ म० ५। अन्यत् पूर्ववत् ॥
 </details>
-

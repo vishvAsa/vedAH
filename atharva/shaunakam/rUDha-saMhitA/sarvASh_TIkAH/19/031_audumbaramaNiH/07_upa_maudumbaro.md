@@ -22,9 +22,15 @@ text. Some of the mss. leave *upa* at the beginning unaccented.
 To me with wealth and children come the Amulet of Udumbara. With splendour come the Amulet hastened by Indra on its way!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॒ मौदु॑म्बरो म॒णिः प्र॒जया॑ च॒ धने॑न च।  
+इन्द्रे॑ण जिन्वि॒तो म॒णिरा मा॑गन्त्स॒ह वर्च॑सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑। मा॒। औदु॑म्बरः। म॒णिः। प्र॒ऽजया॑। च॒। धने॑न। च॒। इन्द्रे॑ण। जि॒न्वि॒तः। म॒णिः। आ। मा॒। अ॒ग॒न्‌। स॒ह। वर्च॑सा। ३१.७। 
+उप॑। मा॒। औदु॑म्बरः। म॒णिः। प्र॒ऽजया॑। च॒। धने॑न। च॒। इन्द्रे॑ण। जि॒न्वि॒तः। म॒णिः। आ। मा॒। अ॒ग॒न्‌। स॒ह। वर्च॑सा। ३१.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ To me with wealth and children come the Amulet of Udumbara. With splendour come 
 
 टिप्पणी:   ७−(उप) समीपे (मा) माम् (औदुम्बरः) म०१। संहतिस्वीकर्ता (मणिः) प्रशंसनीयः परमेश्वरः (प्रजया) (च) (धनेन) (च) (इन्द्रेण) परमैश्वर्येण (जिन्वितः) जिवि प्रीणने-क्त। प्रेरितः (मणिः) (आ अगन्) आगमत् (मा) माम् (सह) (वर्चसा) तेजसा ॥
 </details>
-

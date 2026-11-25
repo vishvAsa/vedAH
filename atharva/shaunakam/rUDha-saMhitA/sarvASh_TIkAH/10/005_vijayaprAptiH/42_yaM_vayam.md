@@ -21,9 +21,15 @@ verse, with vss. 15-21, 50, in Kāuś. was noted above, ⌊see introd.⌋.
 We hunt that man, we beat him down and slay him with our murderous blows. We with the spell have hurried him to Parameshthin's opened jaws.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यं व॒यं मृ॒गया॑महे॒ तं व॒धै स्तृ॑णवामहै।  
+व्यात्ते॑ परमे॒ष्ठिनो॒ ब्रह्म॒णापी॑पदाम॒ तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। व॒यम्। मृ॒गया॑महे। तम्। व॒धैः। स्तृ॒ण॒वा॒म॒है॒। वि॒ऽआत्ते॑। प॒र॒मे॒ऽस्थिनः॑। ब्रह्म॑णा। आ। अ॒पी॒प॒दा॒म॒। तम्। ५.४२। 
+यम्। व॒यम्। मृ॒गया॑महे। तम्। व॒धैः। स्तृ॒ण॒वा॒म॒है॒। वि॒ऽआत्ते॑। प॒र॒मे॒ऽस्थिनः॑। ब्रह्म॑णा। आ। अ॒पी॒प॒दा॒म॒। तम्। ५.४२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ We hunt that man, we beat him down and slay him with our murderous blows. We wit
 
 टिप्पणी:   ४२−(यम्) शत्रुम् (वयम्) राजप्रजागणाः (मृगयामहे) अन्विच्छामः (तम्) (वधैः) वज्रैः (स्तृणवामहै) स्तृणातिर्वधकर्मा-निघ० २।१९। विनाशयाम। (व्यात्ते) प्रसारिते मुखे। वशे (परमेष्ठिनः) अत्युच्यपदस्थितस्य राज्ञः (ब्रह्मणा) वेदज्ञानेन (आ) आनीय (अपीपदाम) पातयतेर्लुङ्, तस्य दः। वयं पातितवन्तः (तम्) शत्रुम् ॥
 </details>
-

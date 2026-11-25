@@ -20,9 +20,15 @@ The Anukr. should have qualified the name of this *bṛhatī* by adding
 He only joineth battle, yea, he who alone controlleth her. Now sacrifices have become victories, and the Cow their eye.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+युध॒ एकः॒ सं सृ॑जति॒ यो अ॑स्या॒ एक॒ इद्व॒शी।  
+तरां॑सि य॒ज्ञा अ॑भव॒न्तर॑सां॒ चक्षु॑रभवद्व॒शा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-युधः॑। एकः॑। सम्। सृ॒ज॒ति॒। यः। अ॒स्याः॒। एकः॑। इत्। व॒शी। तरां॑सि। य॒ज्ञा। अ॒भ॒व॒न्। तर॑साम्। चक्षुः॑। अ॒भ॒व॒त्। व॒शा। १०.२४। 
+युधः॑। एकः॑। सम्। सृ॒ज॒ति॒। यः। अ॒स्याः॒। एकः॑। इत्। व॒शी। तरां॑सि। य॒ज्ञा। अ॒भ॒व॒न्। तर॑साम्। चक्षुः॑। अ॒भ॒व॒त्। व॒शा। १०.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ He only joineth battle, yea, he who alone controlleth her. Now sacrifices have b
 
 टिप्पणी:   २४−(युधः) योद्धारः। परस्परविरोधिनः (एकः) अद्वितीयः (सम्) सम्यक् (सृजति) जनयति (यः) परमेश्वरः (अस्याः) वशायाः (एकः) (इत्) एव (वशी) वशयिता। शासकः (तरांसि) बलानि-निघ० २।९। पराक्रमाः (यज्ञाः) श्रेष्ठव्यवहाराः (अभवन्) (तरसाम्) बलानाम् (चक्षुः) दृष्टिः (अभवत्) (वशा) ॥
 </details>
-

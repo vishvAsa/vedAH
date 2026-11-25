@@ -17,9 +17,15 @@ etc.
 Her whom Brihaspati hath loosed the Visve Devas keep secure. With all the vigour that is stored in cows do we enrich this girl.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+बृह॒स्पति॒नाव॑सृष्टां॒ विश्वे॑ दे॒वा अ॑धारयन्।  
+तेजो॒ गोषु॒ प्रवि॑ष्टं॒यत्तेने॒मां सं सृ॑जामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-बृह॒स्पति॑ना। अव॑ऽसृष्टाम्। विश्वे॑। दे॒वाः। अ॒धा॒र॒य॒न्। तेजः॑। गोषु॑। प्रऽवि॑ष्टम्। यत्। तेन॑। इ॒माम्। सम्। सृ॒जा॒म॒सि॒। २.५४। 
+बृह॒स्पति॑ना। अव॑ऽसृष्टाम्। विश्वे॑। दे॒वाः। अ॒धा॒र॒य॒न्। तेजः॑। गोषु॑। प्रऽवि॑ष्टम्। यत्। तेन॑। इ॒माम्। सम्। सृ॒जा॒म॒सि॒। २.५४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Her whom Brihaspati hath loosed the Visve Devas keep secure. With all the vigour
 
 टिप्पणी:   ५४−(तेजः) ज्योतिः। अन्यत् पूर्ववत्-म० ५३ ॥
 </details>
-

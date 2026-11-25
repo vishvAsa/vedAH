@@ -23,9 +23,15 @@ intrusive *ha*.
 Downward she sends a mighty heat, though amid kine a Cow she roams. Poison she yields for him who owns and hath not given her away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+म॒हदे॒षाव॑ तपति॒ चर॑न्ती॒ गोषु॒ गौरपि॑।  
+अथो॑ ह॒ गोप॑तये व॒शाद॑दुषे वि॒षं दु॑हे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-म॒हत्। ए॒षा। अव॑। त॒प॒ति॒। चर॑न्ती। गोषु॑। गौः। अपि॑। अथो॒ इति॑। ह॒। गोऽप॑तये। व॒शा। अद॑दुषे। वि॒षम्। दु॒हे॒। ४.३९। 
+म॒हत्। ए॒षा। अव॑। त॒प॒ति॒। चर॑न्ती। गोषु॑। गौः। अपि॑। अथो॒ इति॑। ह॒। गोऽप॑तये। व॒शा। अद॑दुषे। वि॒षम्। दु॒हे॒। ४.३९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Downward she sends a mighty heat, though amid kine a Cow she roams. Poison she y
 
 टिप्पणी:   ३९−(महत्) बृहत् (एषा) वर्तमाना (अव) निश्चयेन (तपति) तप ऐश्वर्ये। ईष्टे। प्रतापिनी भवति (चरन्ती) विचरन्ती (गोषु) भूमिप्रदेशेषु (गौः) प्राप्तव्या वेदवाणी (अपि) (अथो ह) पुनश्च (गोपतये) भूपालाय। राज्ञे (वशा) (अददुषे) ददातेः क्वसु। अदत्तवते (विषम्) सरलम् (दुहे) दुग्धे। प्रपूरयति ॥
 </details>
-

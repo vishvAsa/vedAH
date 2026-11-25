@@ -20,9 +20,14 @@ thine, force back him' etc.?⌋
 Flame thou, O Agni, with that flame of thine against the man who hates us, whom we hate.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॒ यत्ते॒ हर॒स्तेन॒ तं प्रति॑ हर॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। यत्। ते॒। हरः॑। तेन॑। तम्। प्रति॑। ह॒र॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.२। 
+अग्ने॑। यत्। ते॒। हरः॑। तेन॑। तम्। प्रति॑। ह॒र॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ Flame thou, O Agni, with that flame of thine against the man who hates us, whom 
 
 टिप्पणी:   २–हरः। हृञ् प्रापणस्वीकारस्तेयनाशनेषु–असुन्। हरो हरतेर्ज्योतिर्हर उच्यते–निरु० ४।१९। हरति तमः। नाशनशक्तिः। हर। नाशय ॥
 </details>
-

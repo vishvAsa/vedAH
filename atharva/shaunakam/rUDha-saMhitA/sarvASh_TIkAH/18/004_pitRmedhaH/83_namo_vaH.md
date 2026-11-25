@@ -17,9 +17,14 @@ Fathers, to that of yours which is cruel.
 Hail, Fathers, to what is awful! Hail to what is terrible in you!'
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नमो॑ वः पितरो॒यद्घो॒रं तस्मै॒ नमो॑ वः पितरो॒ यत्क्रू॒रं तस्मै॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नमः॑। वः॒। पि॒त॒रः॒। यत‌्। घो॒रम्। तस्मै॑। नमः॑। वः॒। पि॒त॒रः॒। यत्। क्रू॒रम्। तस्मै॑। ४.८३। 
+नमः॑। वः॒। पि॒त॒रः॒। यत‌्। घो॒रम्। तस्मै॑। नमः॑। वः॒। पि॒त॒रः॒। यत्। क्रू॒रम्। तस्मै॑। ४.८३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Hail, Fathers, to what is awful! Hail to what is terrible in you!'
 
 टिप्पणी:   ८३−हनहिंसागत्योः-अच्, घुरादेशः। भयानकं दारुणं दुःखम् (तस्मै) यथा म० ८१।तन्नाशयितुम् (क्रूरम्) कृतेश्छः क्रू च। उ० २।२१। कृती छेदने-रक्, क्रूइत्यादेशः। निर्दयत्वम् (तस्मै) तद्दूरीकर्तुम्। अन्यत् पूर्ववत् ॥
 </details>
-

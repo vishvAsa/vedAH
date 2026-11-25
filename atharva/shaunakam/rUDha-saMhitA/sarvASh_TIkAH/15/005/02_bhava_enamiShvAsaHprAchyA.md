@@ -7,17 +7,22 @@ title = "०२ भव एनमिष्वासःप्राच्या"
 
 ⌊2.⌋ The archer Bhava  
 attends him \[as\] attendant from the intermediate direction of the  
-eastern quarter; not śarva, not Bhava, not Īśāna ('the lord') 
+eastern quarter; not śarva, not Bhava, not Īśāna ('the lord')
 </details>
 
 <details><summary>Griffith</summary>
 
-Bhava the Archer, a deliverer, delivers him from the intermediate space of the eastern region. 
+Bhava the Archer, a deliverer, delivers him from the intermediate space of the eastern region.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+भव॑ एनमिष्वा॒सःप्राच्या॑ दि॒शो अ॑न्तर्दे॒शाद॑नुष्ठा॒तानु॑ तिष्ठति नैनं॑ श॒र्वो नभ॒वो नेशा॑नः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-भ॒वः। ए॒न॒म्। इ॒षु॒ऽआ॒सः। प्राच्याः॑। दि॒शः। अ॒न्तः॒ऽदे॒शात्। अ॒नु॒ऽस्था॒ता। अनु॑। ति॒ष्ठ॒ति॒। न। ए॒न॒म्। श॒र्वः। न। भ॒वः। न। ईशा॑नः। ५.२। 
+भ॒वः। ए॒न॒म्। इ॒षु॒ऽआ॒सः। प्राच्याः॑। दि॒शः। अ॒न्तः॒ऽदे॒शात्। अ॒नु॒ऽस्था॒ता। अनु॑। ति॒ष्ठ॒ति॒। न। ए॒न॒म्। श॒र्वः। न। भ॒वः। न। ईशा॑नः। ५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,4 +52,3 @@ Bhava the Archer, a deliverer, delivers him from the intermediate space of the e
 
 टिप्पणी:   २−(भवः) सर्वत्रवर्तमानः (एनम्) विद्वांसम् (इष्वासः) हिंसानाशकः (प्राच्याः) (दिशः) (अन्तर्देशात्) (अनुष्ठाता) सहवर्तमानः (अनु) अनुलक्ष्य (तिष्ठति) वर्तते (न)निषेधे (शर्वः) दुःखनाशकः परमेश्वरः (न) (भवः) (न) (ईशानः) सर्वेश्वरः ॥
 </details>
-

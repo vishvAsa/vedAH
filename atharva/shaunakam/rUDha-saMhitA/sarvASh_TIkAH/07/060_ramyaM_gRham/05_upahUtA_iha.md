@@ -21,9 +21,15 @@ both editions give *naḥ* with the minority, and with the other texts
 Kind greeting to the cattle here, kind greeting to the goats and sheep! Then, of the food within our homes, kind greeting to the plea- sant drink!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑हूता इ॒ह गाव॒ उप॑हूता अजा॒वयः॑।  
+अथो॒ अन्न॑स्य की॒लाल॒ उप॑हूतो गृ॒हेषु॑ नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑ऽहूताः। इ॒ह। गावः॑। उप॑ऽहूताः। अ॒ज॒ऽअ॒वयः॑। अथो॒ इति॑। अन्न॑स्य। की॒लालः॑। उप॑ऽहूतः। गृ॒हेषु॑। नः॒। ६२.५। 
+उप॑ऽहूताः। इ॒ह। गावः॑। उप॑ऽहूताः। अ॒ज॒ऽअ॒वयः॑। अथो॒ इति॑। अन्न॑स्य। की॒लालः॑। उप॑ऽहूतः। गृ॒हेषु॑। नः॒। ६२.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Kind greeting to the cattle here, kind greeting to the goats and sheep! Then, of
 
 टिप्पणी:   ५−(उपहूताः) सत्कारेण समीपे वा प्राप्ताः (इह) गृहाश्रमे (गावः) गवादिदुग्धपशवः (उपहूताः) (अजावयः) अजाश्च अवयश्च (अथो) अपि (अन्नस्य) भोजनस्य (कीलालः) अ० ४।११।१०। सारपदार्थः (उपहूतः) (गृहेषु) गेहेषु (नः) अस्माकम् ॥
 </details>
-

@@ -7,12 +7,17 @@ title = "३१ मातरिश्वा चपवमानश्च"
 
 **g.** 27.  
 Mātariśvan and Pavamāna the two drawers of the rough vehicle, the wind  
-the charioteer, the whirlwind the goad, 
+the charioteer, the whirlwind the goad,
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+मा॑त॒रिश्वा॑ च॒पव॑मानश्च विपथवा॒हौ वातः॒ सार॑थी रे॒ष्मा प्र॑तो॒दः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-मा॒त॒रिश्वा॑। च॒। पव॑मानः। च॒। वि॒प॒थ॒ऽवा॒हौ। वातः॑। सार॑थिः। रे॒ष्मा। प्र॒ऽतो॒दः। २.२७। 
+मा॒त॒रिश्वा॑। च॒। पव॑मानः। च॒। वि॒प॒थ॒ऽवा॒हौ। वातः॑। सार॑थिः। रे॒ष्मा। प्र॒ऽतो॒दः। २.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -42,4 +47,3 @@ the charioteer, the whirlwind the goad,
 
 टिप्पणी:   २७−यथा मन्त्रः ७ ॥
 </details>
-

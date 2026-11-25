@@ -17,9 +17,14 @@ Ppp. inverts the order of the two clauses, and reads *ūvadhyam*.
 Rakshasas are the blood, the Other Folk are the contents of the Stomach.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+रक्षां॑सि॒ लोहि॑तमितरज॒ना ऊब॑ध्यम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-रक्षां॑सि। लोहि॑तम्। इ॒त॒र॒ऽज॒नाः। ऊब॑ध्यम्। १२.१७। 
+रक्षां॑सि। लोहि॑तम्। इ॒त॒र॒ऽज॒नाः। ऊब॑ध्यम्। १२.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Rakshasas are the blood, the Other Folk are the contents of the Stomach.
 
 टिप्पणी:   १७−(रक्षांसि) दुष्टजीवाः (लोहितम्) अ० ६।१२७।१। रुधिरविकारः (इतरजनाः) अ० ८।१०(५)।९। पामराः (ऊबध्यम्) अ० ९।४।१६। अजीर्णमन्नम् ॥
 </details>
-

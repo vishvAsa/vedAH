@@ -35,6 +35,13 @@ and reads *ūrjā* for *ūrjayā*.
 For him Dawn murmurs, and Savitar sings the prelude; Brihas- pati chants with vigour, and Tvashtar joins in with increase; the Visve Devah take up conclusion. He who hath this know- ledge is the abiding-place of welfare, of progeny, and of cattle.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मा॑ उ॒षा हिङ्कृ॑णोति सवि॒ता प्र स्तौ॑ति ।  
+बृह॒स्पति॑रू॒र्जयोद्गा॑यति॒ त्वष्टा॒ पुष्ट्या॒ प्रति॑ हरति॒ विश्वे॑ दे॒वा नि॒धन॑म्।  
+नि॒धनं॒ भूत्याः॑ प्र॒जायाः॑ पशू॒नां भ॑वति॒ य ए॒वं वेद॑ ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 तस्मै॑ । उ॒षाः । हिङ् । कृ॒णो॒ति॒ । स॒वि॒ता । प्र । स्तौ॒ति॒ ॥ १०.१।  

@@ -19,9 +19,15 @@ hymn.
 Whether your thoughts are turned away, or bound and fastened here or there, We draw them hitherward again: let your mind firmly rest on me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्वो॒ मनः॒ परा॑गतं॒ यद्ब॒द्धमि॒ह वे॒ह वा॑।  
+तद्व॒ आ व॑र्तयामसि॒ मयि॑ वो रमतां॒ मनः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। वः॒। मनः॑। परा॑ऽगतम्। यत्। ब॒ध्दम्। इ॒ह। वा॒। इ॒ह। वा॒। तत्। वः॒। आ। व॒र्त॒या॒म॒सि॒। मयि॑। वः॒। र॒म॒ता॒म्। मनः॑। १३.४। 
+यत्। वः॒। मनः॑। परा॑ऽगतम्। यत्। ब॒ध्दम्। इ॒ह। वा॒। इ॒ह। वा॒। तत्। वः॒। आ। व॒र्त॒या॒म॒सि॒। मयि॑। वः॒। र॒म॒ता॒म्। मनः॑। १३.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Whether your thoughts are turned away, or bound and fastened here or there, We d
 
 टिप्पणी:   ४−(यत्) (वः) युष्माकम् (मनः) मननम् (परागतम्) धर्मविषयादन्यत्र गतम् (यत्) (बद्धम्) संसक्तम् (इह वा इह) इतस्ततः। अनिश्चितविषये (वा) अथवा (तत्) मनः (वः) युष्माकम् (आ) आकृष्य (वर्तयामसि) अभिमुखं कुर्मः (मयि) प्रधाने (वः) (रमताम्) रमु उपरमे। तिष्ठतु (मनः) ॥
 </details>
-

@@ -18,9 +18,16 @@ truth, so let the *varaṇá* amulet etc. etc.
 As immortality and truth have been established in the Gods, So may the Charm, the Varana, give me prosperity and fame. With lustre let it sprinkle me, and balm me with magnificence.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॑ दे॒वेष्व॒मृतं॒ यथै॑षु स॒त्यमाहि॑तम्।  
+ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु।  
+तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। दे॒वेषु॑। अ॒मृत॑म्। यथा॑। ए॒षु॒। स॒त्यम्। आऽहि॑तम्। ए॒व। मे॒। व॒र॒णः। म॒णिः। की॒र्तिम्। भूति॑म्। नि। य॒च्छ॒तु॒। तेज॑सा। मा॒। सम्। उ॒क्ष॒तु॒। यश॑सा। सम्। अ॒न॒क्तु॒। मा॒। ३.२५। 
+यथा॑। दे॒वेषु॑। अ॒मृत॑म्। यथा॑। ए॒षु॒। स॒त्यम्। आऽहि॑तम्। ए॒व। मे॒। व॒र॒णः। म॒णिः। की॒र्तिम्। भूति॑म्। नि। य॒च्छ॒तु॒। तेज॑सा। मा॒। सम्। उ॒क्ष॒तु॒। यश॑सा। सम्। अ॒न॒क्तु॒। मा॒। ३.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +57,3 @@ As immortality and truth have been established in the Gods, So may the Charm, th
 
 टिप्पणी:   २५−(देवेषु) विजिगीषुषु शूरेषु (अमृतम्) अमरणम्। पौरुषम् (सत्यम्) सत्यव्रतम्। अन्यत् पूर्ववत् म० १७ ॥
 </details>
-

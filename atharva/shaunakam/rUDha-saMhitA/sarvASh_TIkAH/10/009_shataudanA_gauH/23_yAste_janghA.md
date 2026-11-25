@@ -28,9 +28,15 @@ good right to assume also at iii. 12. 4, in case of the much-discussed
 Let all thy legs, the refuse of thy feet, thy heelropes, and thy hooves. Pour for the giver mingled curd, and flowing butter milk, and mead.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यास्ते॒ जङ्घा॒ याः कुष्ठि॑का ऋ॒च्छरा॒ ये च॑ ते श॒फाः।  
+आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। ते॒। जङ्घाः॑। याः। कुष्ठि॑काः। ऋ॒च्छराः॑। ये। च॒। ते॒। श॒फा। अ॒मिक्षा॑म्। दु॒ह्र॒ता॒म्। दा॒त्रे। क्षी॒रम्। स॒र्पिः। अथो॒ इति॑। मधुः॑। ९.२३। 
+याः। ते॒। जङ्घाः॑। याः। कुष्ठि॑काः। ऋ॒च्छराः॑। ये। च॒। ते॒। श॒फा। अ॒मिक्षा॑म्। दु॒ह्र॒ता॒म्। दा॒त्रे। क्षी॒रम्। स॒र्पिः। अथो॒ इति॑। मधुः॑। ९.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -60,4 +66,3 @@ Let all thy legs, the refuse of thy feet, thy heelropes, and thy hooves. Pour fo
 
 टिप्पणी:   २३−(जङ्घाः)  अ० ९।७।१०। गुल्फजान्वोरन्तराले अवयवाः (कुष्ठिकाः) अ० ९।४।१६। नखाङ्गुल्यादि-बहिर्भूता अवयवाः (ऋच्छराः) ऋच्छेररः। उ० ३।१३१। ऋच्छ गतौ-अर। खुरोपरिस्थभागाः (शफाः) खुराः। अन्यत् स्पष्टम् ॥
 </details>
-

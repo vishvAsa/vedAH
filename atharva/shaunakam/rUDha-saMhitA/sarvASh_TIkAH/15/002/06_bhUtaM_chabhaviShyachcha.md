@@ -8,17 +8,22 @@ title = "०६ भूतं चभविष्यच्च"
 ### Translation
 **f.**  
 ⌊6.⌋ both what is and what is to be the two footmen (*pariṣkandá*), mind  
-the rough vehicle (*vipathá*), 
+the rough vehicle (*vipathá*),
 </details>
 
 <details><summary>Griffith</summary>
 
-Present and Future are his running footmen, mind is his war-chariot, 
+Present and Future are his running footmen, mind is his war-chariot,
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+भू॒तं च॑भवि॒ष्यच्च॑ परिष्क॒न्दौ मनो॑ विप॒थम् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-भू॒तम्। च॒। भ॒वि॒ष्यत्। च॒। प॒रि॒ऽस्क॒न्दौ। मनः॑। वि॒ऽप॒थम्। २.६। 
+भू॒तम्। च॒। भ॒वि॒ष्यत्। च॒। प॒रि॒ऽस्क॒न्दौ। मनः॑। वि॒ऽप॒थम्। २.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Present and Future are his running footmen, mind is his war-chariot,
 
 टिप्पणी:   ६−(भूतम्) अतीतम् (च) (भविष्यत्) अनागतम् (च) (परिष्कन्दौ) स्कन्दिर् गतिशोषणयोः-घञ्। परितो गन्तारौपरपुष्टौ। सेवकौ यथा (मनः) चित्तम् (विपथम्) विविधगमनं यानम् ॥
 </details>
-

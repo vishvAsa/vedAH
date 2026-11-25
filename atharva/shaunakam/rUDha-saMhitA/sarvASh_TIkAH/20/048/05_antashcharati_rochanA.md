@@ -8,9 +8,15 @@ title = "०५ अन्तश्चरति रोचना"
 As expiration from breath she moves along the lucid spheres: The Bull shines forth through all the sky.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒न्तश्च॑रति रोच॒ना अ॒स्य प्रा॒णाद॑पान॒तः।  
+व्य॑ख्यन्महि॒षः स्वः᳡ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒न्तः। च॒र॒ति॒। रो॒च॒ना। अ॒स्य। प्रा॒णात्। अ॒पा॒न॒तः। वि। अ॒ख्य॒त्। म॒हि॒षः। स्वः॑। ४८.५। 
+अ॒न्तः। च॒र॒ति॒। रो॒च॒ना। अ॒स्य। प्रा॒णात्। अ॒पा॒न॒तः। वि। अ॒ख्य॒त्। म॒हि॒षः। स्वः॑। ४८.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ As expiration from breath she moves along the lucid spheres: The Bull shines for
 
 टिप्पणी:   ४-६−एते मन्त्रा व्याख्याताः-अ० ६।३१।१-३ ॥
 </details>
-

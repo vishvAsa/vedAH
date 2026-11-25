@@ -26,9 +26,15 @@ The comm. explains *radantām* by *svatuṇḍāiḥ pādāiś ca vilikhantu*.
 Let all the birds that move on wings come downward, all fowls that roam the heavens and air's midregion. Let beasts of prey and flies attacks, and vultures that eat raw flesh mangle and gnaw the carcase.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अवा॑यन्तां प॒क्षिणो॒ ये वयां॑स्य॒न्तरि॑क्षे दि॒वि ये चर॑न्ति।  
+श्वाप॑दो॒ मक्षि॑काः॒ सं र॑भन्तामा॒मादो॒ गृध्राः॒ कुण॑पे रदन्ताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अव॑। अ॒य॒न्ता॒म्। प॒क्षिणः॑। ये। वयां॑सि। अ॒न्तरि॑क्षे। दि॒वि। चर॑न्ति। श्वाप॑दः। मक्षि॑काः। सम्। र॒भ॒न्ता॒म्। आ॒म॒ऽअदः॑। गृध्राः॑। कुण॑पे। र॒द॒न्ता॒म्। १२.८। 
+अव॑। अ॒य॒न्ता॒म्। प॒क्षिणः॑। ये। वयां॑सि। अ॒न्तरि॑क्षे। दि॒वि। चर॑न्ति। श्वाप॑दः। मक्षि॑काः। सम्। र॒भ॒न्ता॒म्। आ॒म॒ऽअदः॑। गृध्राः॑। कुण॑पे। र॒द॒न्ता॒म्। १२.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Let all the birds that move on wings come downward, all fowls that roam the heav
 
 टिप्पणी:   ८−(अवायन्ताम्) अय गतौ। निपद्यन्ताम् (पक्षिणः) पक्षवन्तः (ये) (वयांसि) वय गतौ-असुन्। गतिमन्ति सत्त्वानि (अन्तरिक्षे) (दिवि) प्रकाशे (ये) (चरन्ति) (श्वापदः) अ० ११।९।१०। शृगालादयः पशवः (मक्षिकाः) कीटविशेषाः (संरभन्ताम्) आक्रमन्ताम् (आमादः) मांसाहारिणः (गृध्राः) (कुणपे) शवशरीरे (रदन्ताम्) विलिखन्तु ॥
 </details>
-

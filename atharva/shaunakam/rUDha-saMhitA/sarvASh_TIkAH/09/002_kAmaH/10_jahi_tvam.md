@@ -21,9 +21,15 @@ Ppp. combines *sapatnā ’ndhā* in **a-b**, combines and reads *nirindriyā
 Slay those who are mine enemies, O Kama: headlong to depth of blinding darkness hurl them. Reft be they all of manly strength and vigour! Let them not have a single day's existence.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ज॒हि त्वं का॑म॒ मम॒ ये स॒पत्ना॑ अ॒न्धा तमां॒स्यव॑ पादयैनान्।  
+निरि॑न्द्रिया अर॒साः स॑न्तु॒ सर्वे॒ मा ते जी॑विषुः कत॒मच्च॒नाहः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ज॒हि। त्वम्। का॒म॒। मम॑। ये। स॒ऽपत्नाः॑। अ॒न्धा। तमां॑सि। अव॑। पा॒द॒य॒। ए॒ना॒न्। निःऽइ॑न्द्रियाः। अ॒र॒साः। स॒न्तु॒। सर्वे॑। मा। ते। जी॒वि॒षुः॒। क॒त॒मत्। च॒न। अहः॑। २.१०। 
+ज॒हि। त्वम्। का॒म॒। मम॑। ये। स॒ऽपत्नाः॑। अ॒न्धा। तमां॑सि। अव॑। पा॒द॒य॒। ए॒ना॒न्। निःऽइ॑न्द्रियाः। अ॒र॒साः। स॒न्तु॒। सर्वे॑। मा। ते। जी॒वि॒षुः॒। क॒त॒मत्। च॒न। अहः॑। २.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Slay those who are mine enemies, O Kama: headlong to depth of blinding darkness 
 
 टिप्पणी:   १०−(जहि) नाशय (अन्धा) अन्ध दृष्टिनाशे-अच्। निबिडानि (तमांसि) अन्धकारान् (अव पादय) अधो गमय (एनान्) शत्रून् (निरिन्द्रियाः) इन्द्रियं धनम्-निघ० २।१०। निर्धनाः (अरसाः) निर्वीर्याः (ते) सपत्नाः (मा जीविषुः) मा प्राणान् धारयन्तु (कतमत् चन) किमपि (अहः) दिनम्। अन्यद् गतम् ॥
 </details>
-

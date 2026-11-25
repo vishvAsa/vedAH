@@ -20,9 +20,15 @@ be compared v. 30. 9 **a**.
 The throbbing pain in all thy limbs that rends thy frame with fever-throes, All malady that wrings thy brow we charm away with this our spell.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑ङ्गभे॒दम॑ङ्गज्व॒रं वि॑श्वा॒ङ्ग्यं᳡ वि॒सल्प॑कम्।  
+सर्वं॑ शीर्ष॒र्ण्यं᳡ ते॒ रोगं॑ ब॒हिर्निर्म॑न्त्रयामहे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ङ्ग॒ऽभे॒दम्। अ॒ङ्ग॒ऽज्व॒रम्। वि॒श्व॒ऽअ॒ङ्ग्य᳡म्। वि॒ऽसल्प॑कम्। सर्व॑म्। शी॒र्ष॒ण्य᳡म्। ते॒। रोग॑म्। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.५। 
+अ॒ङ्ग॒ऽभे॒दम्। अ॒ङ्ग॒ऽज्व॒रम्। वि॒श्व॒ऽअ॒ङ्ग्य᳡म्। वि॒ऽसल्प॑कम्। सर्व॑म्। शी॒र्ष॒ण्य᳡म्। ते॒। रोग॑म्। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ The throbbing pain in all thy limbs that rends thy frame with fever-throes, All 
 
 टिप्पणी:   ५−(अङ्गभेदम्) अ० ५।३०।९। शरीरावयवविदारम् (अङ्गज्वरम्) प्रत्यङ्गतापम् (विश्वाङ्ग्यम्) सर्वाङ्गभवम्। अन्यत् पूर्ववत् ॥
 </details>
-

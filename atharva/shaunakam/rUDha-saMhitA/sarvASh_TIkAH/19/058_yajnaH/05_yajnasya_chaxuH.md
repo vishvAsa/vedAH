@@ -21,9 +21,15 @@ it by the whole first pāda: *yajñásya cákṣuḥ prábhṛtir múkhaṁ cé 
 The eye of sacrifice, source and beginning with voice, car, spirit unto him I offer. To this our sacrifice, wrought by Visvakarman, may the Gods come gracious and kindly-hearted.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य॒ज्ञस्य॒ चक्षुः॒ प्रभृ॑ति॒र्मुखं॑ च वा॒चा श्रोत्रे॑ण॒ मन॑सा जुहोमि।  
+इ॒मं य॒ज्ञं वित॑तं वि॒श्वक॑र्म॒णा दे॒वा य॑न्तु सुमन॒स्यमा॑नाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-य॒ज्ञस्य॑। चक्षुः॑। प्रऽभृ॑तिः। मुख॑म्। च॒। वा॒चा। श्रोत्रे॑ण। मन॑सा। जु॒हो॒मि॒। इ॒मम्। य॒ज्ञम्। विऽत॑तम्। वि॒श्वऽक॑र्मणा। आ। दे॒वाः। य॒न्तु॒। सु॒ऽम॒न॒स्यमा॑नाः। ५८.५। 
+य॒ज्ञस्य॑। चक्षुः॑। प्रऽभृ॑तिः। मुख॑म्। च॒। वा॒चा। श्रोत्रे॑ण। मन॑सा। जु॒हो॒मि॒। इ॒मम्। य॒ज्ञम्। विऽत॑तम्। वि॒श्वऽक॑र्मणा। आ। दे॒वाः। य॒न्तु॒। सु॒ऽम॒न॒स्यमा॑नाः। ५८.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ The eye of sacrifice, source and beginning with voice, car, spirit unto him I of
 
 टिप्पणी:   यह मन्त्र ऊपर आ चुका है-अ० २।३५।५ ॥५−अयं मन्त्रो व्याख्यातः-अ० २।३५।५ ॥
 </details>
-

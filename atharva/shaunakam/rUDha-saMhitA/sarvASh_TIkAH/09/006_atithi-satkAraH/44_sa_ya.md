@@ -31,6 +31,12 @@ gāyatrī;* 47 **b**. 3-p. *virāḍ viṣamā nāma gāyatrī;* 48 **a**. 3-p.
 The man who having this knowledge pours out water and offers it obtains a resting-place for the procreation of living beings and becomes dear to living beings, even the man who having this knowledge pours out water and offers it.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स य ए॒वं वि॒द्वानु॑द॒कमु॑प॒सिच्यो॑प॒हर॑ति ।  
+प्र॒जानां॑ प्र॒जन॑नाय गच्छति प्रति॒ष्ठां प्रि॒यः प्र॒जानां॑ भवति॒ य ए॒वं वि॒द्वानु॑द॒कमु॑प॒सिच्यो॑प॒हर॑ति ।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सः । यः । ए॒वम् । वि॒द्वान् । उ॒द॒कम् । उ॒प॒ऽसिच्य॑ । उ॒प॒ऽहर॑ति ॥ ९.९।  

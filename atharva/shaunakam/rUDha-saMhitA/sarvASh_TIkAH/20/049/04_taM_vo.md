@@ -8,9 +8,15 @@ title = "०४ तं वो"
 As cows low to their calf in stalls, so with our songs we glorify This Indra, even your wondrous God who checks attack, who joys in the delightful juice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तं वो॑ द॒स्ममृ॑ती॒षहं॒ वसो॑र्मन्दा॒नमन्ध॑सः।  
+अ॒भि व॒त्सं न स्वस॑रेषु धे॒नव॒ इन्द्रं॑ गी॒र्भिर्न॑वामहे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तम्। वः॒। द॒स्मम्। ऋ॒ति॒ऽसह॑म्। वसोः॑। म॒न्दा॒नम्। अन्ध॑सः। अ॒भि। व॒त्सम्। न। स्वस॑रेषु। धे॒नवः॑। इन्द्र॑म्। गी॒ऽभिः। न॒वा॒म॒हे॒। ४९.४। 
+तम्। वः॒। द॒स्मम्। ऋ॒ति॒ऽसह॑म्। वसोः॑। म॒न्दा॒नम्। अन्ध॑सः। अ॒भि। व॒त्सम्। न। स्वस॑रेषु। धे॒नवः॑। इन्द्र॑म्। गी॒ऽभिः। न॒वा॒म॒हे॒। ४९.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ As cows low to their calf in stalls, so with our songs we glorify This Indra, ev
 
 टिप्पणी:   मन्त्र ४-७ ऊपर आचुके हैं-अ० २०।९।१-४ ॥  ४-७−एते मन्त्रा व्याख्याताः-अ० २०।९।१-४ ॥
 </details>
-

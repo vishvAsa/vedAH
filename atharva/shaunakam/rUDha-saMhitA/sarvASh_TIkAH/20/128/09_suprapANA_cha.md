@@ -8,9 +8,15 @@ title = "०९ सुप्रपाणा च"
 Pools with good drinking places, and the wealthy man who freely gives, The pretty girl who may be touched, these things are ordered in the rules.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सुप्र॑पा॒णा च॑ वेश॒न्ता रे॒वान्त्सुप्रति॑दिश्ययः।  
+सुय॑भ्या क॒न्या᳡ कल्या॒णी तो॒ता कल्पे॑षु सं॒मिता॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सुप्र॑पा॒णा। च। वेश॒न्ता। रे॒वान्। सुप्रति॑दिश्ययः। सुय॑भ्या। कन्या॑। कल्या॒णी। तो॒ता। कल्पे॑षु। सं॒मिता॑। १२८.९। 
+सुप्र॑पा॒णा। च। वेश॒न्ता। रे॒वान्। सुप्रति॑दिश्ययः। सुय॑भ्या। कन्या॑। कल्या॒णी। तो॒ता। कल्पे॑षु। सं॒मिता॑। १२८.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +45,3 @@ Pools with good drinking places, and the wealthy man who freely gives, The prett
 
 टिप्पणी:   ९−(सुप्रपाणा) शोभनपानस्थानोपेतः (च) उपमार्थे (वेशन्ता) तडागः (रेवान्) धनवान् (सुप्रतिदिश्ययः) म० ८। योग्यप्रतिदानप्रापकः (सुयभ्या) म० ८। सुमैथुनयोग्या। आरोग्यात् सन्तानोत्पादनसमर्था। अन्यद् गतम् ॥
 </details>
-

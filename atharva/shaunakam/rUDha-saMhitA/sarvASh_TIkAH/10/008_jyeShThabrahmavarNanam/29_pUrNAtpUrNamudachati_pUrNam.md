@@ -25,9 +25,15 @@ of the hymn is (as noted above) wanting in Ppp.
 Forth from the full he lifts the full, the full he sprinkles with the full. Now also may we know the source from which the stream is sprinkled round.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पू॒र्णात्पू॒र्णमुद॑चति पू॒र्णं पू॒र्णेन॑ सिच्यते।  
+उ॒तो तद॒द्य वि॑द्याम॒ यत॒स्तत्प॑रिषि॒च्यते॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पू॒र्णात्। पू॒र्णम्। उत्। अ॒च॒ति॒। पू॒र्णम्‌। पू॒र्णेन॑। सि॒च्य॒ते॒। उ॒तो इति॑। तत्। अ॒द्य। वि॒द्या॒म॒। यतः॑। तत्। प॒रि॒ऽसि॒च्यते॑। ८.२९। 
+पू॒र्णात्। पू॒र्णम्। उत्। अ॒च॒ति॒। पू॒र्णम्‌। पू॒र्णेन॑। सि॒च्य॒ते॒। उ॒तो इति॑। तत्। अ॒द्य। वि॒द्या॒म॒। यतः॑। तत्। प॒रि॒ऽसि॒च्यते॑। ८.२९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Forth from the full he lifts the full, the full he sprinkles with the full. Now 
 
 टिप्पणी:   २९−(पूर्णात्) सर्वश्रेष्ठगुणपूरितात् परमात्मनः (पूर्णम्) समग्रं जगत् (उदचति) उदेति (पूर्णम्) समग्रम् (पूर्णेन) परमात्मना (सिच्यते) आर्द्रीक्रियते। वर्ध्यते (उतो) अपि च (तत्) कारणम् (अद्य) अस्मिन् दिने (विद्याम) जानीम (यतः) यस्मात् कारणात् (तत्) पूर्णं जगत् (परिषिच्यते) सर्वतो वर्ध्यते ॥
 </details>
-

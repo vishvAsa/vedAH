@@ -13,9 +13,14 @@ title = "१३ ऋतं हस्तावनेजनम्"
 Law is its water for the hands and family custom its aspersion.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋ॒तं ह॑स्ताव॒नेज॑नं कु॒ल्यो᳡प॒सेच॑नम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋ॒तम्। ह॒स्त॒ऽअ॒व॒नेज॑नम्। कुल्या᳡। उ॒प॒ऽसेच॑नम्। ३.१३। 
+ऋ॒तम्। ह॒स्त॒ऽअ॒व॒नेज॑नम्। कुल्या᳡। उ॒प॒ऽसेच॑नम्। ३.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,4 +50,3 @@ Law is its water for the hands and family custom its aspersion.
 
 टिप्पणी:   १३−(ऋतम्) सत्यज्ञानम् (हस्तावनेजनम्) णिजिर् शौचपोषणयोः-ल्युट्। हस्तप्रक्षालनजलम् (कुल्या) कुल-यत्, टाप्। कुलेभ्यो जगत्समूहेभ्यो हिता नीतिः (उपसेचनम्) जलेनार्द्रीकरणं वर्धनम् ॥
 </details>
-

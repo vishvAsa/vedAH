@@ -19,9 +19,15 @@ The second half-verse is identical with 12 **c, d** above. Ppp. reads in
 Then came and met the Blessed Ones, Deshtri, the Cow, and Svadha, where Atharvan, consecrated. sate upon the Sacred Grass of gold.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तद्भ॒द्राः सम॑गच्छन्त व॒शा देष्ट्र्यथो॑ स्व॒धा।  
+अथ॑र्वा॒ यत्र॑ दीक्षि॒तो ब॒र्हिष्यास्त॑ हिर॒ण्यये॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। भ॒द्राः। सम्। अ॒ग॒च्छ॒न्त॒। व॒शा। देष्ट्री॑। अथो॒ इति॑। स्व॒धा। अथ॑र्वा। यत्र॑। दी॒क्षि॒तः। ब॒र्हिषि॑। आस्त॑। हि॒र॒ण्यये॑। १०.१७। 
+यत्। भ॒द्राः। सम्। अ॒ग॒च्छ॒न्त॒। व॒शा। देष्ट्री॑। अथो॒ इति॑। स्व॒धा। अथ॑र्वा। यत्र॑। दी॒क्षि॒तः। ब॒र्हिषि॑। आस्त॑। हि॒र॒ण्यये॑। १०.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Then came and met the Blessed Ones, Deshtri, the Cow, and Svadha, where Atharvan
 
 टिप्पणी:   १७−(तत्) तत्र (भद्राः) शुभगुणाः (सम् अगच्छन्त) संगतवन्तः (देष्ट्री) आदेष्ट्री। शासिका (अथो) अपि च (स्वधा) अन्नम्-निघ० २।७। अन्यत् पूर्ववत्−म० १२ ॥
 </details>
-

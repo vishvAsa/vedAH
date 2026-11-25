@@ -25,9 +25,15 @@ nearly unchanged.
 I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt be mine and only mine, and never mention other dames.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒हं व॑दामि॒ नेत्त्वं स॒भाया॒मह॒ त्वं वद॑।  
+ममेदस॒स्त्वं केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒हम्। व॒दा॒मि॒। न। इत्। त्वम्। स॒भाया॑म्। अह॑। त्वम्। वद॑। मम॑। इत्। असः॑। त्वम्। केव॑लः। न। अ॒न्यासा॑म्। की॒र्तयाः॑। च॒न। ३९.४। 
+अ॒हम्। व॒दा॒मि॒। न। इत्। त्वम्। स॒भाया॑म्। अह॑। त्वम्। वद॑। मम॑। इत्। असः॑। त्वम्। केव॑लः। न। अ॒न्यासा॑म्। की॒र्तयाः॑। च॒न। ३९.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt
 
 टिप्पणी:   ४−(अहम्) वधूः (वदामि) प्रतिजानामि (न) सम्प्रति-निरु० ७।३१। (इत्) एव (त्वम् त्वम्) वीप्सायां द्विर्वचनम् (सभायाम्) विद्वत्समाजे (अह) एव (वद) प्रतिजानीहि (मम) (इत्) एव। अन्यत्पूर्ववत् अ० ७।३७।१ ॥
 </details>
-

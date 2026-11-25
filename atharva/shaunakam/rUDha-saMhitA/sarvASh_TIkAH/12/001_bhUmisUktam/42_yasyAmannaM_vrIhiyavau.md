@@ -24,9 +24,15 @@ the Anukr. there is no ⌊sufficient⌋ reason. Ppp. reads for **b** *yatre
 On whom is food, barley and rice, to whom these Races Five belong, Homage to her, P arjanya's wife, to her whose marrow is the rain!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्या॒मन्नं॑ व्रीहिय॒वौ यस्या॑ इ॒माः पञ्च॑ कृ॒ष्टयः॑।  
+भूम्यै॑ प॒र्जन्य॑पत्न्यै॒ नमो॑ऽस्तु व॒र्षमे॑दसे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्या॑म्। अन्न॑म्। व्री॒हि॒ऽय॒वौ। यस्याः॑। इ॒माः। पञ्च॑। कृ॒ष्टयः॑। भूम्यै॑। प॒र्जन्य॑ऽपत्न्यै। नमः॑। अ॒स्तु॒। व॒र्षऽमे॑दसे। १.४२। 
+यस्या॑म्। अन्न॑म्। व्री॒हि॒ऽय॒वौ। यस्याः॑। इ॒माः। पञ्च॑। कृ॒ष्टयः॑। भूम्यै॑। प॒र्जन्य॑ऽपत्न्यै। नमः॑। अ॒स्तु॒। व॒र्षऽमे॑दसे। १.४२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ On whom is food, barley and rice, to whom these Races Five belong, Homage to her
 
 टिप्पणी:   ४२−(यस्याम्) भूम्याम् (अन्नम्) (व्रीहियवौ) (यस्याः) (इमाः) दृश्यमानाः (पञ्च) पृथिव्यादिपञ्चभूतैः संबद्धाः (कृष्टयः) अ० ३।२४।३। मनुष्याः−निघ० २।३। (भूम्यै) (पर्जन्यपत्न्यै) मेघेन पालनीयायै (नमः) अन्नम्−निघ० २।७। (अस्तु) (वर्षमेदसे) ञिमिदा स्नेहने−असुन्। वर्षाभिः स्नेहशीलायै ॥
 </details>
-

@@ -19,9 +19,15 @@ Or 'to thy mouth,' instead of 'face.' The comm. paraphrases
 Homage, O Bhava, Lord of Beasts, unto thy face and all thine eyes, To skin, and hue, and aspect, and to thee when looked at from behind!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मुखा॑य ते पशुपते॒ यानि॒ चक्षूं॑षि ते भव।  
+त्व॒चे रू॒पाय॑ सं॒दृशे॑ प्रती॒चीना॑य ते॒ नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मुखा॑य। ते॒। प॒शु॒ऽप॒ते॒। यानि॑। चक्षूं॑षि। ते॒। भ॒व॒। त्व॒चे। रू॒पाय॑। स॒म्ऽदृशे॑। प्र॒ती॒चीना॑य। ते॒। नमः॑। २.५। 
+मुखा॑य। ते॒। प॒शु॒ऽप॒ते॒। यानि॑। चक्षूं॑षि। ते॒। भ॒व॒। त्व॒चे। रू॒पाय॑। स॒म्ऽदृशे॑। प्र॒ती॒चीना॑य। ते॒। नमः॑। २.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Homage, O Bhava, Lord of Beasts, unto thy face and all thine eyes, To skin, and 
 
 टिप्पणी:   ५−(मुखाय) मुखहिताय (ते) तुभ्यम् (पशुपते) हे दृष्टिमतां रक्षक (यानि) (चक्षूंषि) दर्शनसाधनानि (भव) हे सुखोत्पादक (त्वचे) त्वचाहिताय (रूपाय) सौन्दर्याय (संदृशे) सम्यग् दर्शनीयाय आकाराय (प्रतीचीनाय) अ० ४।३२।६। प्रत्यक्षं व्यापकाय (ते) तुभ्यम् (नमः) नमस्कारः ॥
 </details>
-

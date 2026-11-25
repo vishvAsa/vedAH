@@ -22,9 +22,15 @@ verse (7 + 8: 9 + 11: or 8 in **a**, if we resolve *deva-ā́* or
 With all the Gods who circle round the Sun, upholding royal sway, With all of these may Rohita accordant, give sovranty to thee with friendly spirit.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये दे॒वा रा॑ष्ट्र॒भृतो॒ऽभितो॒ यन्ति॒ सूर्य॑म्।  
+तैष्टे॒ रोहि॑तः संविदा॒नो रा॒ष्ट्रं द॑धातु सुमन॒स्यमा॑नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। दे॒वाः। रा॒ष्ट्र॒ऽभृतः॑। अ॒भितः॑। यन्ति॑। सूर्य॑म्। तैः। ते॒। रोहि॑तः। स॒म्ऽवि॒दा॒नः। रा॒ष्ट्रम्। द॒धा॒तु॒। सु॒ऽम॒न॒स्यमा॑नः। १.३५। 
+ये। दे॒वाः। रा॒ष्ट्र॒ऽभृतः॑। अ॒भितः॑। यन्ति॑। सूर्य॑म्। तैः। ते॒। रोहि॑तः। स॒म्ऽवि॒दा॒नः। रा॒ष्ट्रम्। द॒धा॒तु॒। सु॒ऽम॒न॒स्यमा॑नः। १.३५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ With all the Gods who circle round the Sun, upholding royal sway, With all of th
 
 टिप्पणी:   ३५−(ये) (देवाः) विजिगीषवः (राष्ट्रभृतः) राज्यपोषकाः (यन्ति) प्राप्नुवन्ति (सूर्यम्) सर्वप्रेरकं परमेश्वरम् (तैः) देवैः (ते) तव (रोहितः) सर्वोत्पादकः परमेश्वरः (संविदानः) संगच्छमानः (राष्ट्रम्) राज्यम् (दधातु) पुष्णातु (सुमनस्यमानः) शोभनमनाः ॥
 </details>
-

@@ -22,9 +22,15 @@ repeated unintelligently from the preceding⌋.
 Breed, O Vachaspati, joy and understanding, kine i n our stall and children in our consorts. Even here may Prana be our friend: may Agni, O Parameshthin, give thee life and splendour.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वाच॑स्पते सौमन॒सं मन॑श्च गो॒ष्ठे नो॒ गा ज॒नय॒ योनि॑षु प्र॒जाः।  
+इ॒हैव प्रा॒णः स॒ख्ये नो॑ अस्तु॒ तं त्वा॑ परमेष्ठि॒न्पर्य॒हमायु॑षा॒ वर्च॑सा दधामि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वाचः॑। प॒ते॒। सौ॒म॒न॒सम्। मनः॑। च॒। गो॒ऽस्थे। नः॒। गाः। ज॒नय॑। योनि॑षु। प्र॒ऽजाः। इ॒ह। ए॒व। प्रा॒णः। स॒ख्ये। नः॒। अ॒स्तु॒। तम्। त्वा॒। प॒र॒मे॒ऽस्थि॒न्। परि॑। अ॒हम्। आयु॑षा। वर्च॑सा। द॒धा॒मि॒। १.१९। 
+वाचः॑। प॒ते॒। सौ॒म॒न॒सम्। मनः॑। च॒। गो॒ऽस्थे। नः॒। गाः। ज॒नय॑। योनि॑षु। प्र॒ऽजाः। इ॒ह। ए॒व। प्रा॒णः। स॒ख्ये। नः॒। अ॒स्तु॒। तम्। त्वा॒। प॒र॒मे॒ऽस्थि॒न्। परि॑। अ॒हम्। आयु॑षा। वर्च॑सा। द॒धा॒मि॒। १.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Breed, O Vachaspati, joy and understanding, kine i n our stall and children in o
 
 टिप्पणी:   १९−(सौमनसम्) शुभचिन्तकत्वम् (मनः) मननम् (च) (गोष्ठे) वाचालये (नः) अस्माकम् (गाः) वाणीः। नीतीः। (जनय) उत्पादय (योनिषु) गृहेषु (प्रजाः) पुत्रपौत्रराज्यजनान् (अहम्) मनुष्यः (दधामि) स्थापयामि। अन्यत् पूर्ववत् म० १७ ॥
 </details>
-

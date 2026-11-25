@@ -19,9 +19,15 @@ mss. have *ṛṣatu* at the end here.
 With those dread hundred golden spears, the darts of Indra, let it pierce. The Blyxa-fed Gandharvas, those who bring no sacrificial gift.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+भी॒मा इन्द्र॑स्य हे॒तयः॑ श॒तं ऋ॒ष्टीर्हि॑र॒ण्ययीः॑।  
+ताभि॑र्हविर॒दान्ग॑न्ध॒र्वान॑वका॒दान्व्यृ॑षतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भी॒माः। इन्द्र॑स्य। हे॒तयः॑। श॒तम्। ऋ॒ष्टीः। हि॒र॒ण्ययीः॑। ताभिः॑। ह॒विः॒ऽअ॒दान्। ग॒न्ध॒र्वान्। अ॒व॒का॒ऽअ॒दान्। वि। ऋ॒ष॒तु॒। ३७.९। 
+भी॒माः। इन्द्र॑स्य। हे॒तयः॑। श॒तम्। ऋ॒ष्टीः। हि॒र॒ण्ययीः॑। ताभिः॑। ह॒विः॒ऽअ॒दान्। ग॒न्ध॒र्वान्। अ॒व॒का॒ऽअ॒दान्। वि। ऋ॒ष॒तु॒। ३७.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ With those dread hundred golden spears, the darts of Indra, let it pierce. The B
 
 टिप्पणी:   ९−(हिरण्ययीः) हिरण्यः=हिरण्यमयः=निरु० १०।२३। हिरण्यमय्यः। तेजोमय्यः। अन्यत् पूर्ववत्-म० ८ ॥
 </details>
-

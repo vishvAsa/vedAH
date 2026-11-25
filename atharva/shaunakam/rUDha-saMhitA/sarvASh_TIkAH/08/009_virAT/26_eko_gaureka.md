@@ -23,9 +23,15 @@ Anukr. here says *kutaḥ*.⌋
 One is the Cow, one is the Single Spirit, one is the law, single are benedictions. The Spirit dwelling on the earth is single: the Single Season never is transcended.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒को गौरेक॑ एकऋ॒षिरेकं॒ धामै॑क॒धाशिषः॑।  
+य॒क्षं पृ॑थि॒व्यामे॑क॒वृदे॑क॒र्तुर्नाति॑ रिच्यते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-एकः॑। गौः। एकः॑। ए॒क॒ऽऋ॒षिः। एक॑म्। धाम॑। ए॒क॒ऽधा। आ॒ऽशिषः॑। य॒क्षम्। पृ॒थि॒व्याम्। ए॒क॒ऽवृत्। ए॒क॒ऽऋ॒तुः। न। अति॑। रि॒च्य॒ते॒। ९.२६। 
+एकः॑। गौः। एकः॑। ए॒क॒ऽऋ॒षिः। एक॑म्। धाम॑। ए॒क॒ऽधा। आ॒ऽशिषः॑। य॒क्षम्। पृ॒थि॒व्याम्। ए॒क॒ऽवृत्। ए॒क॒ऽऋ॒तुः। न। अति॑। रि॒च्य॒ते॒। ९.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ One is the Cow, one is the Single Spirit, one is the law, single are benediction
 
 टिप्पणी:   २६−(एकः) इण्भीकापा०। उ० ३।४३। इण् गतौ-कन्। एति प्राप्नोतीत्येकः। सर्वव्यापकः केवलः परमेश्वरः (न) निषेधे (अति रिच्यते) पराभूयते केनापि। अन्यत् पूर्ववत् म० २५ ॥
 </details>
-

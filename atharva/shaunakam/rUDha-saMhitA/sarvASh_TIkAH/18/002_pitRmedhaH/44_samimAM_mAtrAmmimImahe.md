@@ -21,9 +21,15 @@ spoil the meter (p. 830, ¶4).⌋
 This date we mete and measure out, that it may ne'er be fixt. again. A hundred autumns: not before.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+समि॒मां मात्रां॑मिमीमहे॒ यथाप॑रं॒ न मासा॑तै।  
+श॒ते श॒रत्सु॑ नो पु॒रा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। इ॒माम्। मात्रा॑म्। मि॒मी॒म॒हे॒। यथा॑। अप॑रम्। न। मासा॑तै। श॒ते। श॒रत्ऽसु॑। नो इति॑। पु॒रा। २.४४। 
+सम्। इ॒माम्। मात्रा॑म्। मि॒मी॒म॒हे॒। यथा॑। अप॑रम्। न। मासा॑तै। श॒ते। श॒रत्ऽसु॑। नो इति॑। पु॒रा। २.४४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ This date we mete and measure out, that it may ne'er be fixt. again. A hundred a
 
 टिप्पणी:   ४४−(सम्) सम्यक्। अन्यत् पूर्ववत्-म० ३८ ॥
 </details>
-

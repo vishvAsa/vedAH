@@ -23,9 +23,15 @@ brahmā ’smi ca hataṁ manaḥ*.
 He, Brahma gains the learned priest, he Brahma, gains this Lord Supreme. As Brahma, Man wins Agni here Brahma hath measured out the year.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रह्म॒ श्रोत्रि॑यमाप्नोति॒ ब्रह्मे॒मं प॑रमेष्ठिनम्।  
+ब्रह्मे॒मम॒ग्निं पूरु॑षो॒ ब्रह्म॑ संवत्स॒रं म॑मे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑। श्रोत्रि॑यम्। आ॒प्नो॒ति॒। ब्रह्म॑। इ॒मम्। प॒र॒मे॒ऽस्थिन॑म्। ब्रह्म॑। इ॒मम्। अ॒ग्निम्। पुरु॑षः। ब्रह्म॑। स॒म्ऽव॒त्स॒रम्। म॒मे॒। २.२१। 
+ब्रह्म॑। श्रोत्रि॑यम्। आ॒प्नो॒ति॒। ब्रह्म॑। इ॒मम्। प॒र॒मे॒ऽस्थिन॑म्। ब्रह्म॑। इ॒मम्। अ॒ग्निम्। पुरु॑षः। ब्रह्म॑। स॒म्ऽव॒त्स॒रम्। म॒मे॒। २.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ He, Brahma gains the learned priest, he Brahma, gains this Lord Supreme. As Brah
 
 टिप्पणी:   २१−(ब्रह्म) सुपां सुलुक्। पा० ७।१।३९। तृतीयार्थे सु। ब्रह्मणा। वेदज्ञानेन। परमेश्वरेण। अन्यत् पूर्ववत्−म० २० ॥
 </details>
-

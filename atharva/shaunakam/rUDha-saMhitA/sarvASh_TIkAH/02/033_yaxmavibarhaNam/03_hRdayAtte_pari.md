@@ -26,14 +26,20 @@ rejects all resolution in **b**.
 Forth from thy heart and from thy lungs, from thy gall-bladder and thy sides, From kidneys, spleen and liver thy Consumption we eradicate.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-हृद॑यात्। ते॒। परि॑। क्लो॒म्नः। हली॑क्ष्णात्। पा॒र्श्वाभ्या॑म्। यक्ष्म॑म्। मत॑स्नाभ्याम्। प्ली॒ह्नः। य॒क्नः। ते॒। वि। वृ॒हा॒म॒सि॒। ३३.३। 
+हृद॑यात्ते॒ परि॑ क्लो॒म्नो हली॑क्ष्णात्पा॒र्श्वाभ्या॑म्।  
+यक्ष्मं॒ मत॑स्नाभ्यां प्ली॒ह्नो य॒क्नस्ते॒ वि वृ॑हामसि ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-हृद॑यात्। ते॒। परि॑। क्लो॒म्नः। हली॑क्ष्णात्। पा॒र्श्वाभ्या॑म्। यक्ष्म॑म्। मत॑स्नाभ्याम्। प्ली॒ह्नः। य॒क्नः। ते॒। वि। वृ॒हा॒म॒सि॒। ३३.३। 
+हृद॑यात्। ते॒। परि॑। क्लो॒म्नः। हली॑क्ष्णात्। पा॒र्श्वाभ्या॑म्। यक्ष्म॑म्। मत॑स्नाभ्याम्। प्ली॒ह्नः। य॒क्नः। ते॒। वि। वृ॒हा॒म॒सि॒। ३३.३।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+हृद॑यात्। ते॒। परि॑। क्लो॒म्नः। हली॑क्ष्णात्। पा॒र्श्वाभ्या॑म्। यक्ष्म॑म्। मत॑स्नाभ्याम्। प्ली॒ह्नः। य॒क्नः। ते॒। वि। वृ॒हा॒म॒सि॒। ३३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -43,4 +49,3 @@ Forth from thy heart and from thy lungs, from thy gall-bladder and thy sides, Fr
 - ककुम्मत्यनुष्टुप्
 - यक्षविबर्हण
 </details>
-

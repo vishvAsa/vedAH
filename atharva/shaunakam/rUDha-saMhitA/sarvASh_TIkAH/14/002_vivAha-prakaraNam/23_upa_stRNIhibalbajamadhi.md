@@ -20,9 +20,15 @@ when the bride sits down on the nuptial bed.
 Over the ruddy-coloured skin strew thou the grass, the Balbuja. Let her, the mother of good sons, sit there and serve this Agni here.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑ स्तृणीहि॒बल्ब॑ज॒मधि॒ चर्म॑णि॒ रोहि॑ते।  
+तत्रो॑प॒विश्य॑ सुप्र॒जा इ॒मम॒ग्निं स॑पर्यतु॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑। स्तृ॒णी॒हि॒। बल्ब॑जम्। अधि॑। चर्म॑णि। रोहि॑ते। तत्र॑। उ॒प॒ऽविश्य॑। सु॒ऽप्र॒जाः। इ॒मम्। अ॒ग्निम्। स॒प॒र्य॒तु। २.२३। 
+उप॑। स्तृ॒णी॒हि॒। बल्ब॑जम्। अधि॑। चर्म॑णि। रोहि॑ते। तत्र॑। उ॒प॒ऽविश्य॑। सु॒ऽप्र॒जाः। इ॒मम्। अ॒ग्निम्। स॒प॒र्य॒तु। २.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Over the ruddy-coloured skin strew thou the grass, the Balbuja. Let her, the mot
 
 टिप्पणी:   २३−(उप स्तृणीहि) आच्छादय (बल्बजम्) म० २२। तृणविशेषासनम् (अधि) उपरि (चर्मणि) म० २२। (रोहिते) रोहित-अर्शआद्यच्। मृगविशेषसम्बन्धिनि।गोकर्णपृषतैणर्श्यरोहिताश्चमरो मृगाः। अमर० १५।१०। (तत्र) आसने (उपविश्य) (सुप्रजाः) सुजन्मा वधू (इमम्) प्रसिद्धम् (अग्निम्) व्यापकं परमेश्वरंभौतिकाग्निं वा (सपर्यतु) परिचरतु ॥
 </details>
-

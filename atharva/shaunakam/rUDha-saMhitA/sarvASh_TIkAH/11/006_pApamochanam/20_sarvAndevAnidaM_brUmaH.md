@@ -21,9 +21,15 @@ signify 'increasing by righteousness.'
 We speak to the collected Gods, faithful, maintainers of the Right. Present with their collective Dames: may these deliver us from woe.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वा॑न्दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑।  
+सर्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वा॑न्। दे॒वान्। इ॒दम्। ब्रू॒मः॒। स॒त्यऽसं॑धान्। ऋ॒त॒ऽवृधः॑। सर्वा॑भिः। पत्नी॑भिः। स॒ह। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.२०। 
+सर्वा॑न्। दे॒वान्। इ॒दम्। ब्रू॒मः॒। स॒त्यऽसं॑धान्। ऋ॒त॒ऽवृधः॑। सर्वा॑भिः। पत्नी॑भिः। स॒ह। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ We speak to the collected Gods, faithful, maintainers of the Right. Present with
 
 टिप्पणी:   २०−(सर्वान्) समस्तान् (देवान्) व्यवहारिणः पुरुषान् (सत्यसंधान्) सत्या संधा, अनुसन्धानमन्वेषणं येषां तान् (ऋतवृधः) सत्यज्ञानेन बुद्धिशीलान्। धार्मिकान्। अन्यत् पूर्ववत्-म० १९ ॥
 </details>
-

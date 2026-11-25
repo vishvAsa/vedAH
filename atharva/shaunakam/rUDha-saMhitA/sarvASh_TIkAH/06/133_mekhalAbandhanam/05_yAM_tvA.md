@@ -17,9 +17,15 @@ me, in order to length of life, O girdle.
 Thou whom primeval Rishis girt about them, they who made the world, As such do thou encircle me, O Girdle, for long days of life.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यां त्वा॒ पूर्वे॑ भूत॒कृत॒ ऋष॑यः परिबेधि॒रे।  
+सा त्वं परि॑ ष्वजस्व॒ मां दी॑र्घायु॒त्वाय॑ मेखले ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याम्। त्वा॒। पूर्वे॑। भू॒त॒ऽकृतः॑। ऋष॑यः। प॒रि॒ऽबे॒धि॒रे। सा। त्वम्। परि॑। स्व॒ज॒स्व॒। माम्। दी॒र्घा॒यु॒ऽत्वाय॑। मे॒ख॒ले॒। १३३.५। 
+याम्। त्वा॒। पूर्वे॑। भू॒त॒ऽकृतः॑। ऋष॑यः। प॒रि॒ऽबे॒धि॒रे। सा। त्वम्। परि॑। स्व॒ज॒स्व॒। माम्। दी॒र्घा॒यु॒ऽत्वाय॑। मे॒ख॒ले॒। १३३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Thou whom primeval Rishis girt about them, they who made the world, As such do t
 
 टिप्पणी:   ५−(याम्) मेखलाम् (त्वा) (पूर्वे) पूर्वजाः (भूतकृतः) सत्यकर्माणः (ऋषयः) साक्षात्कृतधर्माणः (परिबेधिरे) बध बन्धने−लिट्, आत्मनेपदत्वं छान्दसम्। परिबद्धवन्तः (सा) (त्वम्) (परि) सर्वतः (स्वजस्व) ष्वञ्ज परिष्वङ्गे। आलिङ्ग (दीर्घायुत्वाय) चिरकालजीवनाय (मेखले) ॥
 </details>
-

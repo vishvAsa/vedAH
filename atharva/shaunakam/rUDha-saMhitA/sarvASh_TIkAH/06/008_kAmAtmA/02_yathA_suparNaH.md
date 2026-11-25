@@ -19,9 +19,15 @@ the translators to give it aptness are to no purpose.
 As, when he mounts, the eagle strikes his pinions downward on the earth, So do I strike thy spirit down that thou mayst be in love with me, my darling, never to depart.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॑ सुप॒र्णः प्र॒पत॑न्प॒क्षौ नि॒हन्ति॒ भूम्या॑म्।  
+ए॒वा नि ह॑न्मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। सु॒ऽप॒र्णः। प्र॒ऽपत॑न्। प॒क्षौ। नि॒ऽहन्ति॑। भूम्या॑म्। ए॒व। नि। ह॒न्मि॒। ते॒। मनः॑। यथा॑। माम्। का॒मिनी॑। असः॑। यथा॑। मत्। न। अप॑ऽगाः। असः॑। ८.२। 
+यथा॑। सु॒ऽप॒र्णः। प्र॒ऽपत॑न्। प॒क्षौ। नि॒ऽहन्ति॑। भूम्या॑म्। ए॒व। नि। ह॒न्मि॒। ते॒। मनः॑। यथा॑। माम्। का॒मिनी॑। असः॑। यथा॑। मत्। न। अप॑ऽगाः। असः॑। ८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ As, when he mounts, the eagle strikes his pinions downward on the earth, So do I
 
 टिप्पणी:   २−(यथा) येन प्रकारेण (सुपर्णः) सुपर्णाः सुपतनाः−निरु० ४।३। शीघ्रगामी पक्षी (प्रपतन्) उड्डीयमानः (पक्षौ) खगानां पतत्रौ (निहन्ति) नितरां प्राप्नोति स्थापयति (भूम्याम्) पृथिव्याम् (एव) तथा (नि हन्मि) स्थापयामि (ते) तुभ्यम् (मनः) स्वहृदयम्। अन्यत् पूर्ववत्−म० १ ॥
 </details>
-

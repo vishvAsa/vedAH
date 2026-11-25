@@ -22,9 +22,15 @@ cesura-mark after *kṛtyākṛ́te*.
 Bhava and Sarva cast the flash of lightning, the weapon of the Gods, against the sinner who made the evil thing, who deals in witchcraft!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+भ॑वाश॒र्वाव॑स्यतां पाप॒कृते॑ कृत्या॒कृते॑।  
+दु॒ष्कृते॑ वि॒द्युतं॑ देवहे॒तिम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भ॒वा॒श॒र्वौ। अ॒स्य॒ता॒म्। पा॒प॒ऽकृते॑। कृ॒त्या॒ऽकृते॑। दुः॒ऽकृते॑। वि॒ऽद्युत॑म्। दे॒व॒ऽहे॒तिम्। १.२३। 
+भ॒वा॒श॒र्वौ। अ॒स्य॒ता॒म्। पा॒प॒ऽकृते॑। कृ॒त्या॒ऽकृते॑। दुः॒ऽकृते॑। वि॒ऽद्युत॑म्। दे॒व॒ऽहे॒तिम्। १.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Bhava and Sarva cast the flash of lightning, the weapon of the Gods, against the
 
 टिप्पणी:   २३−(भवाशर्वौ) अ० ८।२।७। सुखस्य भावयिता कर्ता भवो राजा, दुःखस्य शरिता नाशकः शर्वो मन्त्री च तौ (अस्यताम्) प्रेरयताम् (पापकृते) पापकारिणे (कृत्याकृते) म० २। हिंसाकारिणे (दुष्कृते) दुष्कर्मिणे (विद्युतम्) अशनिरूपं शस्त्रम् (देवहेतिम्) विदुषां वज्रम् ॥
 </details>
-

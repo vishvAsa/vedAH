@@ -19,9 +19,14 @@ The phrase 'she ascended' is prefixed by only one or two of the mss.
 She mounted up, and, into four divided, she took her station in the air's mid-region.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोद॑क्राम॒त्सा स॒भायां॒ न्य᳡क्रामत्।
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अ॒क्रा॒म॒त्। सा। स॒भाया॑म्। नि। अ॒क्रा॒म॒त्। १०.८। 
+सा। उत्। अ॒क्रा॒म॒त्। सा। स॒भाया॑म्। नि। अ॒क्रा॒म॒त्। १०.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ She mounted up, and, into four divided, she took her station in the air's mid-re
 
 टिप्पणी:   ८−(सभायाम्) विदुषां समाजे। अन्यत् पूर्ववत् ॥
 </details>
-

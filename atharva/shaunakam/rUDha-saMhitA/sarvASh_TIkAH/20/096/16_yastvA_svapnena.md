@@ -8,9 +8,15 @@ title = "१६ यस्त्वा स्वप्नेन"
 That which through sleep or darkness hath deceived thee and lies down by thee, And will destroy thy progeny,--even this will we exterminate.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्त्वा॒ स्वप्ने॑न॒ तम॑सा मोहयि॒त्वा नि॒पद्य॑ते।  
+प्र॒जां यस्ते॒ जिघां॑सति॒ तमि॒तो ना॑शयामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। त्वा॒। स्वप्ने॑न। तम॑सा। मो॒ह॒यि॒त्वा। नि॒ऽपद्य॑ते। प्र॒जाम्। यः। ते॒। जिघां॑सति। तम्। इ॒तः। ना॒श॒या॒म॒सि॒। ९६.१६। 
+यः। त्वा॒। स्वप्ने॑न। तम॑सा। मो॒ह॒यि॒त्वा। नि॒ऽपद्य॑ते। प्र॒जाम्। यः। ते॒। जिघां॑सति। तम्। इ॒तः। ना॒श॒या॒म॒सि॒। ९६.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ That which through sleep or darkness hath deceived thee and lies down by thee, A
 
 टिप्पणी:   १६−(यः) दुष्टः (त्वा) त्वाम् (स्वप्नेन) निद्रौषधेन (तमसा) अन्धकारेण (मोहयित्वा) मूढां कृत्वा (निपद्यते) अभिगच्छति। अन्यत् पूर्ववत् ॥
 </details>
-

@@ -18,9 +18,15 @@ Ppp. reads *nipaśyati* in **a**.
 He who beholds all creatures, who observes them with a careful eye, May he transport us past our foes.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो विश्वा॒भि वि॒पश्य॑ति॒ भुव॑ना॒ सं च॒ पश्य॑ति।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। विश्वा॑। अ॒भि। वि॒ऽपश्य॑ति। भुव॑ना। सम्। च॒। पश्य॑ति। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.४। 
+यः। विश्वा॑। अ॒भि। वि॒ऽपश्य॑ति। भुव॑ना। सम्। च॒। पश्य॑ति। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ He who beholds all creatures, who observes them with a careful eye, May he trans
 
 टिप्पणी:   ४−(यः) परमेश्वरः (विश्वा) सर्वाणि (अभि) सर्वतः (विपश्यति) पृथक् पृथगवलोकयति (भुवना) भुवनानि (च) (सम् पश्यति) संगतानि निरीक्षते ॥
 </details>
-

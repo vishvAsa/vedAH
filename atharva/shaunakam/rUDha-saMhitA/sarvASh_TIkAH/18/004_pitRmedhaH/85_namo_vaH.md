@@ -25,9 +25,14 @@ Kāuś. (88. 26) they accompany in the *piṇḍapitṛyajña* the reverence
 Homage to you Fathers! Hail to you, Fathers!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नमो॑ वः पितरःस्व॒धा वः॑ पितरः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-नमः॑। वः॒। पि॒त॒रः॒। स्व॒धा। वः॒। पि॒त॒रः॒। ४.८५। 
+नमः॑। वः॒। पि॒त॒रः॒। स्व॒धा। वः॒। पि॒त॒रः॒। ४.८५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +62,3 @@ Homage to you Fathers! Hail to you, Fathers!
 
 टिप्पणी:   ८५−(स्वधा) अन्नम्। अन्यत् पूर्ववत् ॥
 </details>
-

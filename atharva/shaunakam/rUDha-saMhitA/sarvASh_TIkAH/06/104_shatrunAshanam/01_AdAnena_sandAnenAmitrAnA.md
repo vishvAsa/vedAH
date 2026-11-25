@@ -22,9 +22,15 @@ amamasutam* (corrupt). One might conjecture *asinā* for *asunā* in
 We bind our foemen with a bond that binds them close and holds them fast. Their breath and respiration I dissever, and their lives from life.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॒दाने॑न सं॒दाने॑ना॒मित्रा॒ना द्या॑मसि।  
+अ॑पा॒ना ये चै॑षां प्रा॒णा असु॒नासू॒न्त्सम॑च्छिदन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒ऽदाने॑न। स॒म्ऽदाने॑न। अ॒मित्रा॑न्। आ। द्या॒म॒सि॒। अ॒पा॒नाः। ये। च॒। ए॒षा॒म्। प्रा॒णाः। असु॑ना। असू॑न्। सम्। अ॒च्छि॒द॒न्। १०४.१। 
+आ॒ऽदाने॑न। स॒म्ऽदाने॑न। अ॒मित्रा॑न्। आ। द्या॒म॒सि॒। अ॒पा॒नाः। ये। च॒। ए॒षा॒म्। प्रा॒णाः। असु॑ना। असू॑न्। सम्। अ॒च्छि॒द॒न्। १०४.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ We bind our foemen with a bond that binds them close and holds them fast. Their 
 
 टिप्पणी:   १−(आदानेन) आदीयते आबध्यते अनेन। आकर्षणपाशेन (सन्दानेन) बन्धनपाशेन (अमित्रान्) शत्रून् (आद्यामसि) बध्नीमः (अपानाः) बहिर्गमनशीलाः श्वासवृत्तयः (ये) (च) (एषाम्) शत्रूणाम् (प्राणाः) अन्तर्गमनाः श्वासाः (असुना) स्वप्रज्ञया−निघ० ३।९। (असून्) शत्रुप्राणान् (सम्) सम्यक् (अच्छिदन्) छिदिर् द्वैधीकरणे। छिन्नवन्तः शूराः ॥
 </details>
-

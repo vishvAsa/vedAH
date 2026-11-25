@@ -13,9 +13,14 @@ title = "१६ सोऽनादिष्टान्दिशमनु व्
 He went away to the unindicated region.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोऽना॑दिष्टां॒दिश॒मनु॒ व्य᳡चलत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। अना॑दिष्टाम्। दिश॑म्। वि। अ॒च॒ल॒त्। ६.१६। 
+सः। अना॑दिष्टाम्। दिश॑म्। वि। अ॒च॒ल॒त्। ६.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,4 +50,3 @@ He went away to the unindicated region.
 
 टिप्पणी:   १६−(सः) व्रात्यः (अनादिष्टाम्) अज्ञापिताम्। अन्यत् पूर्ववत् ॥
 </details>
-

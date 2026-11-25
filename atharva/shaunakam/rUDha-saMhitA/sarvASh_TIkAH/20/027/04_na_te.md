@@ -8,9 +8,15 @@ title = "०४ न ते"
 None is there, Indra, God or man, to hinder thy munificence, The wealth which, lauded, thou wilt give.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+न ते॑ व॒र्तास्ति॒ राध॑स॒ इन्द्र॑ दे॒वो न मर्त्यः॑।  
+यद्दित्स॑सि स्तु॒तो म॒घम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। ते॒। व॒र्ता। अ॒स्ति॒। राध॑सः। इन्द्र॑। दे॒वः। न। मर्त्यः॑। यत्। दित्स॑सि। स्तु॒तः। म॒घम्। २७.४। 
+न। ते॒। व॒र्ता। अ॒स्ति॒। राध॑सः। इन्द्र॑। दे॒वः। न। मर्त्यः॑। यत्। दित्स॑सि। स्तु॒तः। म॒घम्। २७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ None is there, Indra, God or man, to hinder thy munificence, The wealth which, l
 
 टिप्पणी:   ४−(न) निषेधे (ते) तव (वर्ता) निवारकः (अस्ति) (राधसः) ऐश्वर्यस्य (इन्द्र) (देवः) विद्वान् पुरुषः (न) निषेधे (मर्त्यः) सामान्यो मनुष्यः (यत्) यदा (दित्ससि) दातुमिच्छसि (स्तुतः) (मघम्) मंहनीयं धनम् ॥
 </details>
-

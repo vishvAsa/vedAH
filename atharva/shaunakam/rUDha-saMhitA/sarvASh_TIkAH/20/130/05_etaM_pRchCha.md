@@ -8,9 +8,14 @@ title = "०५ एतं पृच्छ"
 Question this man, Where do I ask?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒तं पृ॑च्छ॒ कुहं॑ पृच्छ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒तम्। पृच्छ॒। कुह॑म्। पृ॑च्छ। १३०.५। 
+ए॒तम्। पृच्छ॒। कुह॑म्। पृ॑च्छ। १३०.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Question this man, Where do I ask?
 
 टिप्पणी:   −(एतम्) प्रश्नम् (पृच्छ) (कुहम्) कुह विस्मापने-क। अद्भुतस्वभावं पुरुषम् (पृच्छ) ॥
 </details>
-

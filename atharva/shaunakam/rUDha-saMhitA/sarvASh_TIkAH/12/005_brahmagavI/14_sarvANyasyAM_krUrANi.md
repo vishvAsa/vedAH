@@ -16,9 +16,14 @@ title = "१४ सर्वाण्यस्यां क्रूराणि
 In her are all dreadful, deeds, all slaughters of mankind.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वा॑ण्यस्यां क्रू॒राणि॒ सर्वे॑ पुरुषव॒धाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वा॑णि। अ॒स्या॒म्। क्रू॒राणि॑। सर्वे॑। पु॒रु॒ष॒ऽव॒धाः। ७.३। 
+सर्वा॑णि। अ॒स्या॒म्। क्रू॒राणि॑। सर्वे॑। पु॒रु॒ष॒ऽव॒धाः। ७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ In her are all dreadful, deeds, all slaughters of mankind.
 
 टिप्पणी:   १४−(सर्वाणि) (अस्याम्) (क्रूराणि) निर्दयकर्माणि (पुरुषवधाः) पुरुषाणां हत्याव्यापाराः ॥
 </details>
-

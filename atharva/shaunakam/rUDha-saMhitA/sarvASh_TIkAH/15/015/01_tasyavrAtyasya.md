@@ -25,9 +25,14 @@ does in fact in Bp.⌋
 Of that Vratya.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्य॒व्रात्य॑स्य ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। १५.१। 
+तस्य॑। व्रात्य॑स्य। १५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +62,3 @@ Of that Vratya.
 
 टिप्पणी:   १−(तस्य) तादृशस्य (व्रात्यस्य) सत्यव्रतधारिणोऽतिथेः ॥
 </details>
-

@@ -32,9 +32,15 @@ suspect that the *avagraha* of *sám॰jñapayāmi* has blundered in from the
 Let there be union of your minds, let there be union of your hearts: All that is troubled in your lot with this I mend and harmonize.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सं॒ज्ञप॑नं वो॒ मन॒सोऽथो॑ संज्ञप॑नं हृ॒दः।  
+अथो॒ भग॑स्य॒ यच्छ्रा॒न्तं तेन॒ संज्ञ॑पयामि वः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒म्ऽज्ञप॑नम्। वः॒। मन॑सः। अथो॒ इति॑। स॒म्ऽज्ञप॑नम्। हृ॒दः। अथो॒ इति॑। भग॑स्य। यत्। श्रा॒न्तम्। तेन॑। सम्ऽज्ञ॑पयामि। वः॒। ७४.२। 
+स॒म्ऽज्ञप॑नम्। वः॒। मन॑सः। अथो॒ इति॑। स॒म्ऽज्ञप॑नम्। हृ॒दः। अथो॒ इति॑। भग॑स्य। यत्। श्रा॒न्तम्। तेन॑। सम्ऽज्ञ॑पयामि। वः॒। ७४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -64,4 +70,3 @@ Let there be union of your minds, let there be union of your hearts: All that is
 
 टिप्पणी:   २−(संज्ञपनम्) ज्ञा मारणतोषणनिशामनेषु ज्ञापने स्तुतौ च−णिचि, ल्युट्। विज्ञापनं प्रकाशनम् (वः) युष्माकम् (मनसः) मननस्य विचारस्य (अथो) अपि च (संज्ञपनम्) सन्तोषणम् (हृदः) हृदयस्य (अथो) (भगस्य) भगवतः परमेश्वरस्य (यत्) (श्रान्तम्) श्रमु तपसि खेदे च भावे−क्त। तपः। जितेन्द्रियत्वम् (तेन) कारणेन (संज्ञपयामि) संतोषयामि। स्तौमि (वः) युष्मान् ॥
 </details>
-

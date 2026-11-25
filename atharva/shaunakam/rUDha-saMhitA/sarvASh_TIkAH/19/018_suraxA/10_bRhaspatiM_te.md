@@ -21,9 +21,15 @@ the meters as defined can be made out.
 Let those who vex me from the zenith, sinners, extol Brihaspati with the Visve Devas.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+बृह॒स्पतिं॒ ते वि॒श्वदे॑ववन्तमृच्छन्तु।  
+ये मा॑ऽघा॒यव॑ ऊ॒र्ध्वाया॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-बृह॒स्पति॑म्। ते। वि॒श्वदे॑वऽवन्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ऊ॒र्ध्वायाः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.१०। 
+बृह॒स्पति॑म्। ते। वि॒श्वदे॑वऽवन्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ऊ॒र्ध्वायाः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Let those who vex me from the zenith, sinners, extol Brihaspati with the Visve D
 
 टिप्पणी:   १०−(बृहस्पतिम्) बृहत्या वेदवाण्या रक्षकं परमात्मानम् (विश्वदेववन्तम्) सर्वश्रेष्ठगुणयुक्तम् (ऊर्ध्वायाः) उपरिस्थितायाः। अन्यत् पूर्ववत् ॥
 </details>
-

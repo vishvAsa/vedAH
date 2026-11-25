@@ -17,9 +17,15 @@ in; the string of the string I know, likewise the great *brā́hmaṇa*.
 I know the drawn-out string, the thread whereon these creatures all are strung. I know the thread's thread also, thus I know the mighty Brah- ma na.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वेदा॒हं सूत्रं॒ वित॑तं॒ यस्मि॒न्नोताः॑ प्र॒जा इ॒माः।  
+सूत्रं॒ सूत्र॑स्या॒हं वे॒दाथो॒ यद्ब्राह्म॑णं म॒हद् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वेद॑। अ॒हम्। सूत्र॑म्। विऽत॑तम्। यस्मि॑न्। आऽउ॑ताः। प्र॒ऽजाः। इ॒माः। सूत्र॑म्। सूत्र॑स्य। अ॒हम्। वे॒द॒। अथो॒ इति॑। यत्। ब्राह्म॑णम्। म॒हत्। ८.३८। 
+वेद॑। अ॒हम्। सूत्र॑म्। विऽत॑तम्। यस्मि॑न्। आऽउ॑ताः। प्र॒ऽजाः। इ॒माः। सूत्र॑म्। सूत्र॑स्य। अ॒हम्। वे॒द॒। अथो॒ इति॑। यत्। ब्राह्म॑णम्। म॒हत्। ८.३८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ I know the drawn-out string, the thread whereon these creatures all are strung. 
 
 टिप्पणी:   ३८−(वेद) जानामि (अहम्) विवेकी (अथो) अपि च। अन्यत् पूर्ववत्−म० ३७ ॥
 </details>
-

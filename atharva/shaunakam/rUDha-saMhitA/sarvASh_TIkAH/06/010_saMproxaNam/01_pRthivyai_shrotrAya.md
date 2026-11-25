@@ -18,9 +18,14 @@ It is not easy to read 22 syllables in the verse.
 All hail for hearing to the Earth, to Trees, to Agni, sovran Lord!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पृ॑थि॒व्यै श्रोत्रा॑य॒ वन॒स्पति॑भ्यो॒ऽग्नयेऽधि॑पतये॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पृ॒थि॒व्यै। श्रोत्रा॑य। वन॒स्पति॑ऽभ्यः। अ॒ग्नये॑। अधि॑ऽपतये। स्वाहा॑। १०.१। 
+पृ॒थि॒व्यै। श्रोत्रा॑य। वन॒स्पति॑ऽभ्यः। अ॒ग्नये॑। अधि॑ऽपतये। स्वाहा॑। १०.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ All hail for hearing to the Earth, to Trees, to Agni, sovran Lord!
 
 टिप्पणी:   १−(पृथिव्यै) भूलोकाय (श्रोत्राय) श्रवणहिताय (वनस्पतिभ्यः) अ० १।३५।३। सेवकपालकेभ्यो वृक्षादिभ्यः। तेषां हितायेत्यर्थः (अग्नये) पृर्थिवीस्थतेजसे (अधिपतये) पृथिव्या रक्षकाय (स्वाहा) अ० २।१६।१। सुवाणी सुन्दरस्तुतिः ॥
 </details>
-

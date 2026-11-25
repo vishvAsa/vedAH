@@ -16,9 +16,14 @@ title = "७१ अग्नयेकव्यवाहनाय स्वधा
 To Agni, bearer of oblation to the Manes, be Hail! and homage!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्नये॑कव्य॒वाह॑नाय स्व॒धा नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्नये॑। क्र॒व्य॒ऽवाह॑नाय। स्व॒धा। नमः॑। ४.७१। 
+अ॒ग्नये॑। क्र॒व्य॒ऽवाह॑नाय। स्व॒धा। नमः॑। ४.७१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ To Agni, bearer of oblation to the Manes, be Hail! and homage!
 
 टिप्पणी:   ७१−(अग्नये) विदुषेपुरुषाय (कव्यवाहनाय) कविर्मेधाविनाम-निघ० ३।१५। कविभ्यो मेधाविभ्योहितपदार्थानां प्रापकाय (स्वधा) अन्नम् निघ० २।७ (नमः) सत्करणम् ॥
 </details>
-

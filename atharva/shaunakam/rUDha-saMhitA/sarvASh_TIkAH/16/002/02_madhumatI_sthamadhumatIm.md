@@ -18,9 +18,14 @@ like to our second clause at iii. 20. 10: cf. *Gram.* §738 a.⌋
 Are pleasant. May I obtain a pleasant voice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मधु॑मती स्थ॒मधु॑मतीं॒ वाच॑मुदेयम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मधु॑ऽमतीः। स्थ॒। मधु॑ऽमतीम्। वाच॑म्। उ॒दे॒य॒म्। २.२। 
+मधु॑ऽमतीः। स्थ॒। मधु॑ऽमतीम्। वाच॑म्। उ॒दे॒य॒म्। २.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Are pleasant. May I obtain a pleasant voice.
 
 टिप्पणी:   २−(मधुमतीः) ज्ञानवत्यःप्रजाः (स्थ) भवथ (मधुमतीम्) ज्ञानवतीम् (वाचम्) वाणीम् (उदेयम्) अ० ३।२०।१०।उद्यासम् ॥
 </details>
-

@@ -20,9 +20,15 @@ two or three of SPP's authorities give it or have traces of it.
 With fuel and with flaming wood we, Jatavedas, strengthen thee; So do thou strengthen us in turn with children and with store of wealth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒ध्मेन॑ त्वा जातवेदः स॒मिधा॑ वर्धयामसि।  
+तथा॒ त्वम॒स्मान्व॑र्धय प्र॒जया॑ च॒ धने॑न च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒ध्मेन॑। त्वा॒। जा॒त॒ऽवे॒दः॒। स॒म्ऽइधा॑। व॒र्ध॒या॒म॒सि॒। तथा॑। त्वम्। अ॒स्मान्। व॒र्ध॒य॒। प्र॒ऽजया॑। च॒। धने॑न। च॒। ६४.२। 
+इ॒ध्मेन॑। त्वा॒। जा॒त॒ऽवे॒दः॒। स॒म्ऽइधा॑। व॒र्ध॒या॒म॒सि॒। तथा॑। त्वम्। अ॒स्मान्। व॒र्ध॒य॒। प्र॒ऽजया॑। च॒। धने॑न। च॒। ६४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ With fuel and with flaming wood we, Jatavedas, strengthen thee; So do thou stren
 
 टिप्पणी:   २−(इध्मेन) इन्धनसाधनेन (त्वा) त्वाम् (जातवेदः) हे पदार्थेषु विद्यमान (समिधा) काष्ठादिना (वर्धयामसि) वर्धयामः। प्रवृद्धं कुर्मः (तथा) तेन प्रकारेण (त्वम्) (अस्मान्) अग्निप्रदीपकान् (वर्धय) समर्धय (प्रजया) सन्तानादिना (च) (धनेन) सुवर्णादिना (च) ॥
 </details>
-

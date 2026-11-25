@@ -5,12 +5,17 @@ title = "११ देवी हनत्कुहनत्"
 
 <details><summary>Griffith</summary>
 
-Where beating will the Goddess 
+Where beating will the Goddess
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॒वी ह॑न॒त्कुह॑नत् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-दे॒वी। ह॑न॒त्। कुह॑नत्। १३२.११। 
+दे॒वी। ह॑न॒त्। कुह॑नत्। १३२.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Where beating will the Goddess
 
 टिप्पणी:   ११−(देवी) दिव्यगुणवती प्रजा (हनत्) (कुहनत्) कुह विस्मापने। विस्मापयेत्। चमत्कारं कुर्यात् ॥
 </details>
-

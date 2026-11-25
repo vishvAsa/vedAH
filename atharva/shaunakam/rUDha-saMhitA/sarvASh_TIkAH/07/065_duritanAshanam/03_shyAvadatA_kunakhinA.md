@@ -19,9 +19,15 @@ which is not a bad emendation.
 If with the cripple we have lived, whose teeth are black and nails deformed, With thee, O Apamarga, we wipe all that ill away from us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+श्या॒वद॑ता कुन॒खिना॑ ब॒ण्डेन॒ यत्स॒हासि॒म।  
+अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श्या॒वऽद॑ता। कु॒न॒खिना॑। ब॒ण्डेन॑। यत्। स॒ह। आ॒सि॒म। अपा॑मार्ग। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। ६७.३। 
+श्या॒वऽद॑ता। कु॒न॒खिना॑। ब॒ण्डेन॑। यत्। स॒ह। आ॒सि॒म। अपा॑मार्ग। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। ६७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ If with the cripple we have lived, whose teeth are black and nails deformed, Wit
 
 टिप्पणी:   ३−(श्यावदता) विभाषा श्यावारोकाभ्यां च पा०। पा० ५।४।१४४। श्यावपदादुत्तरस्य दन्तस्य दतृ इत्यादेशः। कृष्णदन्तयुक्तेन (कुनखिना) दूषितनखयुक्तेन (बण्डेन) बडि विभाजने, वेष्टने च-अच्। विकलाङ्गेन (यत्) (सह) (आसिम) अस भुवि-लङ्, इत्वं छान्दसम्। आस्म। अभवाम। अन्यत् स्पष्टम् ॥
 </details>
-

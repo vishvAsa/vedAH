@@ -23,9 +23,14 @@ where it finds more than thirteen.
 In him these Deities become simple and One
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒ते अ॑स्मिन्दे॒वा ए॑क॒वृतो॑ भवन्ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒ते। अ॒स्मि॒न्। दे॒वाः। ए॒क॒ऽवृतः॑। भ॒व॒न्ति॒। ४.१५। 
+ए॒ते। अ॒स्मि॒न्। दे॒वाः। ए॒क॒ऽवृतः॑। भ॒व॒न्ति॒। ४.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ In him these Deities become simple and One
 
 टिप्पणी:   १३−(एते) दृश्यमानाः (अस्मिन्) परमात्मनि (देवाः) गतिशीलाः पृथिव्यादिलोकाः (एकवृतः) एकस्मिन् परमात्मनि वर्तमानाः (भवन्ति) ॥
 </details>
-

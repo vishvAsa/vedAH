@@ -38,9 +38,17 @@ paribhraśanaṁ*.
 Where is the Sinking of the Ship, the summit of the Hill of Snow, There is embodiment of life that dies not: thence was Kustha born. Healer of every malady, that Kushtha stands by Soma's side. Banish thou all Consumption, drive all sorceresses far away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्र॒ नाव॑प्र॒भ्रंश॑नं॒ यत्र॑ हि॒मव॑तः॒ शिरः॑।  
+तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत।  
+स कु॑ष्ठो वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति।  
+त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्र॑। न। अ॒व॒ऽप्र॒भ्रंश॑नम्। यत्र॑। हि॒मऽव॑तः। शिरः॑। तत्र॑। अ॒मृत॑स्य। चक्ष॑णम्। ततः॑। कुष्ठः॑। अ॒जा॒य॒त॒। सः। कुष्ठः॑। वि॒श्वऽभे॑षजः। सा॒कम्। सोमे॑न। ति॒ष्ठ॒ति॒। त॒क्मान॑म्। सर्व॑म्। ना॒श॒य॒। सर्वाः॑। च॒। या॒तु॒ऽधा॒न्यः᳡। ३९.८। 
+यत्र॑। न। अ॒व॒ऽप्र॒भ्रंश॑नम्। यत्र॑। हि॒मऽव॑तः। शिरः॑। तत्र॑। अ॒मृत॑स्य। चक्ष॑णम्। ततः॑। कुष्ठः॑। अ॒जा॒य॒त॒। सः। कुष्ठः॑। वि॒श्वऽभे॑षजः। सा॒कम्। सोमे॑न। ति॒ष्ठ॒ति॒। त॒क्मान॑म्। सर्व॑म्। ना॒श॒य॒। सर्वाः॑। च॒। या॒तु॒ऽधा॒न्यः᳡। ३९.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -70,4 +78,3 @@ Where is the Sinking of the Ship, the summit of the Hill of Snow, There is embod
 
 टिप्पणी:   ८−(यत्र) यस्मिन् स्थाने (न) निषेधे (अवप्रभ्रंशनम्) भ्रंशु अधःपतने इतस्ततोऽधःपतनम् (यत्र) (हिमवतः) हिमयुक्तदेशस्य (शिरः) शिखरम्। अन्यत् पूर्ववत् ॥
 </details>
-

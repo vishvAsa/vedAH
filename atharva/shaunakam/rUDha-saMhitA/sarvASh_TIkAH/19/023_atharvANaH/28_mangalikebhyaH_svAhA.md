@@ -29,9 +29,14 @@ correction, I suppose, to *ān̄girasa-* and *saṁhitā-*.⌋
 Hail to the hymns for happiness!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+म॑ङ्गलि॒केभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-म॒ङ्ग॒लि॒केभ्यः॑। स्वाहा॑। २३.२८। 
+म॒ङ्ग॒लि॒केभ्यः॑। स्वाहा॑। २३.२८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,4 +66,3 @@ Hail to the hymns for happiness!
 
 टिप्पणी:   २८−(मङ्गलिकेभ्यः) अत इनिठनौ। पा०५।२।११५। मङ्गल-उन्। मङ्गलयुक्तेभ्यो वेदेभ्यः ॥
 </details>
-

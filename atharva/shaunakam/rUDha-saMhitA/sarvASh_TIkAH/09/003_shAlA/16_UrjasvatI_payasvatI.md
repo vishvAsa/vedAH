@@ -18,9 +18,15 @@ earth, bearing all food, O dwelling, do not thou injure those accepting
 Rich in prosperity, rich in milk, founded and built upon the earth, Injure not thy receivers, House who holdest food of every sort!'
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऊर्ज॑स्वती॒ पय॑स्वती पृथि॒व्यां निमि॑ता मि॒ता।  
+वि॑श्वा॒न्नं बिभ्र॑ती शाले॒ मा हिं॑सीः प्रतिगृह्ण॒तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऊर्ज॑स्वती। पय॑स्वती। पृ॒थि॒व्याम्। निऽमि॑ता। मि॒ता। वि॒श्व॒ऽअ॒न्नम्। बिभ्र॑ती। शा॒ले॒। मा। हिं॒सीः॒। प्र॒ति॒ऽगृ॒ह्ण॒तः। ३.१६। 
+ऊर्ज॑स्वती। पय॑स्वती। पृ॒थि॒व्याम्। निऽमि॑ता। मि॒ता। वि॒श्व॒ऽअ॒न्नम्। बिभ्र॑ती। शा॒ले॒। मा। हिं॒सीः॒। प्र॒ति॒ऽगृ॒ह्ण॒तः। ३.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Rich in prosperity, rich in milk, founded and built upon the earth, Injure not t
 
 टिप्पणी:   १६−(ऊर्जस्वती) बलपराक्रमवर्धयित्री (पयस्वती) जलदुग्धादियुक्ता (पृथिव्याम्) उचितभूम्याम् (निमिता) प्रतिष्ठापिता (मिता) परिमाणयुक्ता (विश्वान्नम्) सर्वान्नम् (बिभ्रती) धारयन्ती (शाले) (मा हिंसीः) मा पीडय (प्रतिगृह्णतः) स्वीकर्तॄन् पुरुषान् ॥
 </details>
-

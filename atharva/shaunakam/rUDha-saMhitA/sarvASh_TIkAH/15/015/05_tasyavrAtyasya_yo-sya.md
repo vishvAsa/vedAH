@@ -20,9 +20,15 @@ necessary correction to *abhyù-*; ⌊and so SPP.⌋.
 His third vital breath, called Approached, is that Moon.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्य॒व्रात्य॑स्य।  
+यो᳡ऽस्य॑ तृ॒तीयः॑ प्रा॒णो॒३॒॑ऽभ्यू॑ढो॒ नामा॒सौ स च॒न्द्रमाः॑॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। तृ॒तीयः॑। प्रा॒णः। अ॒भिऽऊ॑ढः। नाम॑। अ॒सौ। सः। च॒न्द्रमाः॑। १५.५। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। तृ॒तीयः॑। प्रा॒णः। अ॒भिऽऊ॑ढः। नाम॑। अ॒सौ। सः। च॒न्द्रमाः॑। १५.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ His third vital breath, called Approached, is that Moon.
 
 टिप्पणी:   ५−(अभ्यूढः) आभिमुख्येन प्राप्तः (चन्द्रमाः) चन्द्रविद्याप्रचारः। अन्यत्पूर्ववत् स्पष्टं च ॥
 </details>
-

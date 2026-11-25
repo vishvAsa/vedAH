@@ -17,9 +17,15 @@ Aśvins, make ye the mark, in order to thousand-fold prosperity.
 Even as Gods and Asuras, even as mortal men have done, Do ye, that these may multiply in thousands, Asvins! make the mark.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॑ च॒क्रुर्दे॑वासु॒रा यथा॑ मनु॒ष्या᳡ उ॒त।  
+ए॒वा स॑हस्रपो॒षाय॑ कृणु॒तं लक्ष्मा॑श्विना ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। च॒क्रुः॒। दे॒व॒ऽअ॒सु॒राः। यथा॑। म॒नु॒ष्याः᳡। उ॒त। ए॒व। स॒ह॒स्र॒ऽपो॒षाय॑। कृ॒णु॒तम्। लक्ष्म॑। अ॒श्वि॒ना॒। १४१.३। 
+यथा॑। च॒क्रुः॒। दे॒व॒ऽअ॒सु॒राः। यथा॑। म॒नु॒ष्याः᳡। उ॒त। ए॒व। स॒ह॒स्र॒ऽपो॒षाय॑। कृ॒णु॒तम्। लक्ष्म॑। अ॒श्वि॒ना॒। १४१.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Even as Gods and Asuras, even as mortal men have done, Do ye, that these may mul
 
 टिप्पणी:   ३−(यथा) येन प्रकारेण (चक्रुः) कृतवन्तः (देवासुराः) असुरत्वं प्रज्ञावत्त्वम्−निरु० १।३४। व्यवहारिणः प्रज्ञावन्तः (यथा) (मनुष्याः) अ० ३।४।६। मननशीलाः (उत) अपि च (एव) एवम् (सहस्रपोषाय) अपरिमितवृद्धये (कृणुतम्) कुरुतम् (लक्ष्म)−म० २। शुभलक्षणम् (अश्विना) कर्तव्यव्यापकौ मातापितरौ ॥
 </details>
-

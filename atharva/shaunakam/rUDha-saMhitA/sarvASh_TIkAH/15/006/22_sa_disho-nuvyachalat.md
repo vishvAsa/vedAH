@@ -21,6 +21,11 @@ the second *ánu*.
 He went away to the regions.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स दिशोऽनु॒व्य᳡चल॒त्।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सः । दिशः॑ । अनु॑ । वि । अ॒च॒ल॒त् ।

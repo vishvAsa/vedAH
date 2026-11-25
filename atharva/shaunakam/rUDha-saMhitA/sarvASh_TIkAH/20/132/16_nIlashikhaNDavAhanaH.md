@@ -8,22 +8,24 @@ title = "१६ नीलशिखण्डवाहनः"
 He with black tufts of hair shall strike.
 </details>
 
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
-O blue-crested one! He is verily the killer.  
+O blue-crested one! He is verily the killer.
 </details>
-
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
-But the Kyanokhaitis parallel in the Orphic incantation is also striking as you note. They might have some deep albeit tenuous link: the sea-> Kyanokhaitis; the churning of the sea -> nIlagrIva; was nIlashikhaNDa also related to the marine allusion hence? 
+But the Kyanokhaitis parallel in the Orphic incantation is also striking as you note. They might have some deep albeit tenuous link: the sea-> Kyanokhaitis; the churning of the sea -> nIlagrIva; was nIlashikhaNDa also related to the marine allusion hence?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नील॑शिखण्ड॒वाह॑नः ॥
+</details>
 
 <details><summary>पदपाठः</summary>
 
-नील॑शिखण्ड॒वाह॑नः। १३२.१६। 
+नील॑शिखण्ड॒वाह॑नः। १३२.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +60,3 @@ But the Kyanokhaitis parallel in the Orphic incantation is also striking as you 
 
 > नील॑शिखण्डो वा हनत् ॥१६॥ (नीलशिखण्डः) नील शिखण्ड [नीलों निधियों वा निवास स्थानों का पहुँचानेवाला परमेश्वर] (वा) निश्चय करके (हनत्) व्यापक है [हन गतौ, गच्छति व्याप्नोति] ॥१६॥
 </details>
-

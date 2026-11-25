@@ -8,9 +8,15 @@ title = "०७ इन्द्रमिद्गाथिनो बृहदि
 Indra the singers with high praise, Indra reciters with their lauds, Indra the choirs have glorified.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑।  
+इन्द्रं॒ वाणी॑रनूषत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑म्। इत्। गा॒थिनः॑। बृ॒हत्। इन्द्र॑म्। अ॒र्केभिः॑। अ॒र्किणः॑। इन्द्र॑म्। वाणीः॑। अ॒नू॒ष॒त॒। ७०.७। 
+इन्द्र॑म्। इत्। गा॒थिनः॑। बृ॒हत्। इन्द्र॑म्। अ॒र्केभिः॑। अ॒र्किणः॑। इन्द्र॑म्। वाणीः॑। अ॒नू॒ष॒त॒। ७०.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Indra the singers with high praise, Indra reciters with their lauds, Indra the c
 
 टिप्पणी:   मन्त्र ७-९ आचुके हैं-अथ० २०।३८।४-६ तथा ४७।४-६ ॥  ७-९−एते मन्त्रा आगताः-अथ० २०।३८।४-६ तथा ४७।४-६ ॥
 </details>
-

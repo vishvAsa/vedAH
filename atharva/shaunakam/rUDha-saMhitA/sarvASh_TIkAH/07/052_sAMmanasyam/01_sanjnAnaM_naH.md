@@ -21,9 +21,15 @@ to RV. x. 191; TB. reads *svāís* and *áraṇāis* in **a, b**; MS. and the
 Give us agreement with our own, with strangers give us unity: Do ye, O Asvins, in this place join us in sympathy and love.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सं॒ज्ञानं॑ नः॒ स्वेभिः॑ सं॒ज्ञान॒मर॑णेभिः।  
+सं॒ज्ञान॑मश्विना यु॒वमि॒हास्मासु॒ नि य॑च्छतम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒म्ऽज्ञान॑म्। नः॒। स्वेभिः॑। स॒म्ऽज्ञान॑म्। अर॑णेभिः। स॒म्ऽज्ञान॑म्। अ॒श्वि॒ना॒। यु॒वम्। इ॒ह। अ॒स्मासु॑। नि। य॒च्छ॒त॒म्। ५४.१। 
+स॒म्ऽज्ञान॑म्। नः॒। स्वेभिः॑। स॒म्ऽज्ञान॑म्। अर॑णेभिः। स॒म्ऽज्ञान॑म्। अ॒श्वि॒ना॒। यु॒वम्। इ॒ह। अ॒स्मासु॑। नि। य॒च्छ॒त॒म्। ५४.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Give us agreement with our own, with strangers give us unity: Do ye, O Asvins, i
 
 टिप्पणी:   १−(संज्ञानम्) संगतं ज्ञानम्। ऐकमत्यम् (नः) अस्माकम् (स्वेभिः) स्वकीयैः पुरुषैः (अरणेभिः) अ० १।१९।३। विदेशिभिः (अश्विना) अ० २।२९।६। हे मातापितरौ (युवम्) युवाम् (इह) अस्मिन् संसारे (अस्मासु) (नि) निरन्तरम् (यच्छतम्) दत्तम् ॥
 </details>
-

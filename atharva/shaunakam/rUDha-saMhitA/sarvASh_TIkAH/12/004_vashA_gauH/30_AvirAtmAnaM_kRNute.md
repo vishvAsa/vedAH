@@ -23,9 +23,15 @@ blunder over such an unusual consonant-group. Ppp. reads *uto* for
 Her shape and form she manifests when she would seek her dwelling-place; Then verily the Cow attends to Brahman priests and their request.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॒विरा॒त्मानं॑ कृणुते य॒दा स्थाम॒ जिघां॑सति।  
+अथो॑ ह ब्र॒ह्मभ्यो॑ व॒शा या॒च्ञाय॑ कृणुते॒ मनः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒विः। आ॒त्मान॑म्। कृ॒णु॒ते॒। य॒दा। स्थाम॑। जिघां॑सति। अथो॒ इति॑। ह॒। ब्र॒ह्मऽभ्यः॑। व॒शा। या॒ञ्चाय॑। कृ॒णु॒ते॒। मनः॑। ४.३०। 
+आ॒विः। आ॒त्मान॑म्। कृ॒णु॒ते॒। य॒दा। स्थाम॑। जिघां॑सति। अथो॒ इति॑। ह॒। ब्र॒ह्मऽभ्यः॑। व॒शा। या॒ञ्चाय॑। कृ॒णु॒ते॒। मनः॑। ४.३०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Her shape and form she manifests when she would seek her dwelling-place; Then ve
 
 टिप्पणी:   ३०−(आत्मानम्) तत्त्वबोधम् (आविष्कृणुते) प्रकटयति (अथो ह) तदैव (ब्रह्मभ्यः) ब्रह्मचारिभ्यः (वशा) कमनीया वेदवाणी (याच्ञाय) याचृ याच्ञायाम्−नङ्। याचनाय (कृणुते) करोति (मनः) मननम्। अन्यत् पूर्ववत्−म० २९ ॥
 </details>
-

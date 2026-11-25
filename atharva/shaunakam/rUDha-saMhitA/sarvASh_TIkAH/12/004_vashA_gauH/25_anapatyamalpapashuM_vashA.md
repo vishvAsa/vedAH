@@ -21,9 +21,15 @@ takes no notice of any deficiency in **c**; we may best resolve
 The Cow deprives of progeny and makes him poor in cattle who Retains in his possession her whom Brahmans have solicited.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑नप॒त्यमल्प॑पशुं व॒शा कृ॑णोति॒ पूरु॑षम्।  
+ब्रा॑ह्म॒णैश्च॑ याचि॒तामथै॑नां निप्रिया॒यते॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒न॒प॒त्यम्। अल्प॑ऽपशुम्। व॒शा। कृ॒णो॒ति॒। पुरु॑षम्। ब्रा॒ह्म॒णैः। च॒। या॒चि॒ताम्। अथ॑। ए॒ना॒म्। नि॒ऽप्रि॒य॒यते॑। ४.२५। 
+अ॒न॒प॒त्यम्। अल्प॑ऽपशुम्। व॒शा। कृ॒णो॒ति॒। पुरु॑षम्। ब्रा॒ह्म॒णैः। च॒। या॒चि॒ताम्। अथ॑। ए॒ना॒म्। नि॒ऽप्रि॒य॒यते॑। ४.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ The Cow deprives of progeny and makes him poor in cattle who Retains in his poss
 
 टिप्पणी:   २५−(अनपत्यम्) सन्तानरहितम् (अल्पपशुम्) पशुभिर्न्यूनम् (वशा) कमनीया वेदवाणी (कृणोति) करोति (पुरुषम्) (ब्राह्मणैः) ब्रह्मचारिभिः (च) (याचिताम्) प्रार्थिताम् (अथ) यदि (एनाम्) वेदवाणीम् (निप्रियायते) म० २१। नीचभावेन प्रिय इवाचरति ॥
 </details>
-

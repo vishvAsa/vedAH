@@ -21,9 +21,15 @@ anupātayati*. Pāda **b** is deficient unless we read *va-jṛ-am*.
 Whate'er I eat I turn to strength, and thus I grasp the Thunder- bolt, Rending the shoulders of that man as Indra shattered Vritra's neck.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद॒श्नामि॒ बलं॑ कुर्व इ॒त्थं वज्र॒मा द॑दे।  
+स्क॒न्धान॒मुष्य॑ शा॒तय॑न्वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। अ॒श्नामि॑। बल॑म्। कु॒र्वे॒। इ॒त्थम्। वज्र॑म्। आ। द॒दे॒। स्क॒न्धान्। अ॒मुष्य॑। शा॒तय॑न्। वृ॒त्रस्य॑ऽइव। शची॒ऽपतिः॑। १३५.१। 
+यत्। अ॒श्नामि॑। बल॑म्। कु॒र्वे॒। इ॒त्थम्। वज्र॑म्। आ। द॒दे॒। स्क॒न्धान्। अ॒मुष्य॑। शा॒तय॑न्। वृ॒त्रस्य॑ऽइव। शची॒ऽपतिः॑। १३५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Whate'er I eat I turn to strength, and thus I grasp the Thunder- bolt, Rending t
 
 टिप्पणी:   १−(यत्) भोजनम् (अश्नामि) भुञ्जे (बलम्) (कुर्वे) करोमि (इत्थम्) एकम् (वज्रम्) वर्जकं शस्त्रम् (आ ददे) गृह्णामि (स्कधान्) स्कन्धादिशरीरावयवान् (अमुष्य) शत्रोः (शातयन्) शद्लृ शातने णिचि। शदेरगतौ तः। पा० ७।३।४२। इति तकारादेशः, शतृ प्रत्ययः। छिन्दन् (इव) यथा (शचीपतिः) अ० ३।१०।१२। कर्मणां प्रज्ञानां वा पालकः ॥
 </details>
-

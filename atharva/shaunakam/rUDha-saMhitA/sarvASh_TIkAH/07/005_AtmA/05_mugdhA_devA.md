@@ -24,9 +24,15 @@ Henry emends to *mūrdhnā* ⌊cf. also *Mém. Soc. Ling.* ix. 248⌋.
 With dog the Gods, perplexed, have paid oblation, and with cow's limbs in sundry sacrifices. Invoke for us, in many a place declare him who with his mind. hath noticed this our worship.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मु॒ग्धा दे॒वा उ॒त शुनाऽय॑जन्तो॒त गोरङ्गैः॑ पुरु॒धाऽय॑जन्त।  
+य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॒स्तमि॒हेह ब्र॑वः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मु॒ग्धाः। दे॒वाः। उ॒त। शुना॑। अय॑जन्त। उ॒त। गोः। अङ्गैः॑। पु॒रु॒ऽधा। अ॒य॒ज॒न्त॒। यः। इ॒मम्। य॒ज्ञम्। मन॑सा। चि॒केत॑। प्र। नः॒। वो॒चः॒। तम्। इ॒ह। इ॒ह। ब्र॒वः॒। ५.५। 
+मु॒ग्धाः। दे॒वाः। उ॒त। शुना॑। अय॑जन्त। उ॒त। गोः। अङ्गैः॑। पु॒रु॒ऽधा। अ॒य॒ज॒न्त॒। यः। इ॒मम्। य॒ज्ञम्। मन॑सा। चि॒केत॑। प्र। नः॒। वो॒चः॒। तम्। इ॒ह। इ॒ह। ब्र॒वः॒। ५.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ With dog the Gods, perplexed, have paid oblation, and with cow's limbs in sundry
 
 टिप्पणी:   ५−(मुग्धाः) मोहिताः सन्तः (देवाः) विद्वांसः (उत) अपि (शुना) शुन गतौ-क्विप्। ज्ञानेन। शुनं सुखम्-निघ० ७।६। (अयजन्त) संगतवन्तः परमात्मानम् (गोः) वेदवाचः। गौः=वाक्-निघ० १।११। (अङ्गैः) (पुरुधा) बहुधा (अयजन्त) पूजितवन्तः। अन्यत्पूर्ववत्-अ० ७।२।१।
 </details>
-

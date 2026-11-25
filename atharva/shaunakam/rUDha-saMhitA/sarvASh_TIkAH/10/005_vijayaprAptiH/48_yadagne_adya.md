@@ -18,9 +18,15 @@ mind—with that pierce thou the sorcerers in the heart.
 What curse soever couples launch against us, whatever bitter speech the chatterers utter, With Manyu's arrow, offspring of the spirit, transfix thou to the heart the Yatudhanas,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद॑ग्ने अ॒द्य मि॑थु॒ना शपा॒तो॒ यद्वा॒चस्तृ॒ष्टं ज॒नय॑न्त रे॒भाः।  
+म॒न्योर्मन॑सः शर॒व्या॒३॒॑ जाय॑ते॒ या तया॑ विध्य॒ हृद॑ये यातु॒धाना॑न् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। अ॒ग्ने॒। अ॒द्य। मि॒थु॒ना। शपा॑तः। यत्। वा॒चः। तृ॒ष्टम्। ज॒नय॑न्त। रे॒भाः। म॒न्योः। मन॑सः। श॒र॒व्या᳡। जाय॑ते। या। तया॑। वि॒ध्य॒। हृद॑ये। या॒तु॒ऽधाना॑न्। ५.४८। 
+यत्। अ॒ग्ने॒। अ॒द्य। मि॒थु॒ना। शपा॑तः। यत्। वा॒चः। तृ॒ष्टम्। ज॒नय॑न्त। रे॒भाः। म॒न्योः। मन॑सः। श॒र॒व्या᳡। जाय॑ते। या। तया॑। वि॒ध्य॒। हृद॑ये। या॒तु॒ऽधाना॑न्। ५.४८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ What curse soever couples launch against us, whatever bitter speech the chattere
 
 टिप्पणी:   ४८−अयं मन्त्रो व्याख्यातः-अ० ८।३।१२ ॥
 </details>
-

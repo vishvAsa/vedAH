@@ -17,9 +17,14 @@ three, sea, sky, earth.
 Whereon in order rest the three, the ocean, and the heaven, and earth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्मि॑न्त्समु॒द्रो द्यौर्भूमि॒स्त्रयो॑ऽवरप॒रं श्रि॒ताः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्मि॑न्। स॒मु॒द्रः। द्यौः। भूमिः॑। त्रयः॑। अ॒व॒र॒ऽप॒रम्। श्रि॒ताः। ३.२०। 
+यस्मि॑न्। स॒मु॒द्रः। द्यौः। भूमिः॑। त्रयः॑। अ॒व॒र॒ऽप॒रम्। श्रि॒ताः। ३.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Whereon in order rest the three, the ocean, and the heaven, and earth.
 
 टिप्पणी:   २०−(यस्मिन्) ओदने, परमेश्वरे (समुद्रः) अ० १।१३।३। अन्तरिक्षम्-निघ० १।३। (द्यौः) प्रकाशमानः सूर्यः (भूमिः) (त्रयः) लोकाः (अवरपरम्) अधरोत्तरम् (श्रिताः) स्थिताः ॥
 </details>
-

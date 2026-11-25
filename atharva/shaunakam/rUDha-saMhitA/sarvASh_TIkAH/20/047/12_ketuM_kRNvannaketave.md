@@ -8,9 +8,15 @@ title = "१२ केतुं कृण्वन्नकेतवे"
 Thou, making light where no light was, and form, O Men r where no form was, Wast born together with the Dawns,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+के॒तुं कृ॒ण्वन्न॑के॒तवे॒ पेशो॑ मर्या अपे॒शसे॑।  
+समु॒षद्भि॑रजायथाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-के॒तुम्। कृ॒ण्वन्। अ॒के॒तवे॑। पेशः॑। म॒र्याः॒। अ॒पे॒शसे॑। सम्। उ॒षत्ऽभिः॑। अ॒जा॒य॒थाः॒। ४७.१२। 
+के॒तुम्। कृ॒ण्वन्। अ॒के॒तवे॑। पेशः॑। म॒र्याः॒। अ॒पे॒शसे॑। सम्। उ॒षत्ऽभिः॑। अ॒जा॒य॒थाः॒। ४७.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Thou, making light where no light was, and form, O Men r where no form was, Wast
 
 टिप्पणी:   १०-१२−एते मन्त्रा व्याख्याताः-अ० २०।२६।४-६ ॥
 </details>
-

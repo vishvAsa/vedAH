@@ -8,9 +8,15 @@ title = "०६ त्वे क्रतुमपि"
 All concentrate on thee their mental vigour, what time these, twice or thrice, are thine assistants. Blend what is sweeter than the sweet with sweetness: win quickly with our meath that meath in battle.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वे क्रतु॒मपि॑ पृञ्चन्ति॒ भूरि॒ द्विर्यदे॒ते त्रिर्भ॑व॒न्त्यूमाः॑।  
+स्वा॒दोः स्वादी॑यः स्वा॒दुना॑ सृजा॒ सम॒दः सु मधु॒ मधु॑ना॒भि यो॑धीः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वे इति॑। क्रतु॑म्। अपि॑। पृ॒ञ्च॒न्ति। भूरि॑। द्विः। यत्। ए॒ते। त्रिः। भ‍व॑न्ति। ऊमाः॑। स्वा॒दो। स्वादी॑यः। स्वा॒दुना॑। सृ॒ज॒। सम्। अ॒दः। सु। मधु॑। मधु॑ना। अ॒भि। यो॒धीः॒। १०७.६। 
+त्वे इति॑। क्रतु॑म्। अपि॑। पृ॒ञ्च॒न्ति। भूरि॑। द्विः। यत्। ए॒ते। त्रिः। भ‍व॑न्ति। ऊमाः॑। स्वा॒दो। स्वादी॑यः। स्वा॒दुना॑। सृ॒ज॒। सम्। अ॒दः। सु। मधु॑। मधु॑ना। अ॒भि। यो॒धीः॒। १०७.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ All concentrate on thee their mental vigour, what time these, twice or thrice, a
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
-

@@ -25,9 +25,14 @@ would suit the connection better than 'cattle,' here and below.⌋
 In the southern region Dawn is his leman, Mitra his panegyrist, knowledge his vesture, day his turban, night his hair, Indra's two Bays are his circular ornaments,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उषाः पुं॑श्च॒लीमन्त्रो॑ माग॒धो वि॒ज्ञानं॒ वासोऽह॑रु॒ष्णीषं॒ रात्री॒ केशा॒ हरि॑तौ प्रव॒र्तौक॑ल्म॒लिर्म॒णिः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒षाः। पुं॒श्च॒ली। मन्त्रः॑। मा॒ग॒धः। वि॒ऽज्ञान॑म्। वासः॑। अहः॑। उ॒ष्णीष॑म्। रात्री॑। केशाः॑। हरि॑तौ। प्र॒ऽव॒र्तौ। क॒ल्म॒लिः। म॒णिः। २.१३। 
+उ॒षाः। पुं॒श्च॒ली। मन्त्रः॑। मा॒ग॒धः। वि॒ऽज्ञान॑म्। वासः॑। अहः॑। उ॒ष्णीष॑म्। रात्री॑। केशाः॑। हरि॑तौ। प्र॒ऽव॒र्तौ। क॒ल्म॒लिः। म॒णिः। २.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +62,3 @@ In the southern region Dawn is his leman, Mitra his panegyrist, knowledge his ve
 
 टिप्पणी:   १३−(उषाः) उषः किच्च।उ० ४।२३४। उष दाहे वधे च-असि। हिंसा (मन्त्रः) सर्वधातुभ्यः ष्ट्रन्। उ० ४।१५९।मन ज्ञाने-ष्ट्रन्। मननगुणः। अन्यत् पूर्ववत्-म० ५ ॥
 </details>
-

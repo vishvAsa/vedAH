@@ -17,9 +17,15 @@ together with food, with progeny.
 The Amulet, etc. That Amulet here hath come to me, hath come with cows, and goats, and sheep, hath come with food and progeny.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑मत्स॒ह गोभि॑रजा॒विभि॒रन्ने॑न प्र॒जया॑ स॒ह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। स॒ह। गोभिः॑। अ॒जा॒विऽभिः॑। अन्ने॑न। प्र॒ऽजया॑। स॒ह। ६.२३। 
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। स॒ह। गोभिः॑। अ॒जा॒विऽभिः॑। अन्ने॑न। प्र॒ऽजया॑। स॒ह। ६.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ The Amulet, etc. That Amulet here hath come to me, hath come with cows, and goat
 
 टिप्पणी:   २३−(अजाविभिः) अजाश्च अवयश्च ताभिः (प्रजया) सन्तानेन सह। अन्यत् सुगमम् ॥
 </details>
-

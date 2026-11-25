@@ -21,9 +21,15 @@ vi. 182.⌋
 I invocate this Milch-cow good at milking, so that the Milker, deft of hand, may milk her. May "Savitar give goodliest stimulation. The caldron is made hot: he will proclaim it.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑ ह्वये सु॒दुघां॑ धे॒नुमे॒तां सु॒हस्तो॑ गो॒धुगु॒त दो॑हदेनाम्।  
+श्रेष्ठं॑ स॒वं स॑वि॒ता सा॑विषन्नो॒ऽभी᳡द्धो॑ घ॒र्मस्तदु॒ षु प्र वो॑चत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑। ह्व॒ये॒। सु॒ऽदुघा॑म्। धे॒नुम्। ए॒ताम्। सु॒ऽहस्तः॑। गो॒ऽधुक्। उ॒त। दो॒ह॒त्। ए॒ना॒म्। श्रेष्ठ॑म्। स॒वम्। स॒वि॒ता। सा॒वि॒ष॒त्। नः॒। अ॒भिऽइ॑ध्दः। घ॒र्मः। तत्। ऊं॒ इति॑। सु। प्र। वो॒च॒त्। १५.४। 
+उप॑। ह्व॒ये॒। सु॒ऽदुघा॑म्। धे॒नुम्। ए॒ताम्। सु॒ऽहस्तः॑। गो॒ऽधुक्। उ॒त। दो॒ह॒त्। ए॒ना॒म्। श्रेष्ठ॑म्। स॒वम्। स॒वि॒ता। सा॒वि॒ष॒त्। नः॒। अ॒भिऽइ॑ध्दः। घ॒र्मः। तत्। ऊं॒ इति॑। सु। प्र। वो॒च॒त्। १५.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ I invocate this Milch-cow good at milking, so that the Milker, deft of hand, may
 
 टिप्पणी:   ४-अयं मन्त्रः पूर्वं व्याख्यातः-अ० ७।७३।३। तत्रैव द्रष्टव्यः ॥
 </details>
-

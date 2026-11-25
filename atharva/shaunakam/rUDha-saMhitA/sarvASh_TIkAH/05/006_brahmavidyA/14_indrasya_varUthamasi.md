@@ -20,9 +20,15 @@ contains not far from 40 syllables.
 Indra's protection art thou. I betake me to thee, I enter thee with all my cattle. With all my people and with all my body, with all my soul, with mine entire possessions.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्र॑स्य॒ वरू॑थमसि।  
+तं त्वा॒ प्र प॑द्ये॒ तं त्वा॒ प्र वि॑शामि॒ सर्व॑गुः॒ सर्व॑पूरुषः॒ सर्वा॑त्मा॒ सर्व॑तनूः स॒ह यन्मेऽस्ति॒ तेन॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑स्य। वरू॑थम्। अ॒सि॒। तम्। त्वा॒। प्र। प॒द्ये॒। तम्। त्वा॒। वि॒शा॒मि॒। सर्व॑ऽगुः। सर्व॑ऽपुरुषः। सर्व॑ऽआत्मा। सर्व॑ऽतनूः। स॒ह॒। यत्। मे॒। अस्ति॑। तेन॑। ६.१४। 
+इन्द्र॑स्य। वरू॑थम्। अ॒सि॒। तम्। त्वा॒। प्र। प॒द्ये॒। तम्। त्वा॒। वि॒शा॒मि॒। सर्व॑ऽगुः। सर्व॑ऽपुरुषः। सर्व॑ऽआत्मा। सर्व॑ऽतनूः। स॒ह॒। यत्। मे॒। अस्ति॑। तेन॑। ६.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Indra's protection art thou. I betake me to thee, I enter thee with all my cattl
 
 टिप्पणी:   १४−(वरूथम्) जृवृञ्भ्यामूथन्। उ० २।६। इति वृञ्−ऊथन्। शरीरावरकं शस्त्रम्। चर्म। फलकम्। अन्यत् पूर्ववत् म० ११ ॥
 </details>
-

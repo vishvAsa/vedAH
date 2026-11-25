@@ -17,9 +17,14 @@ quality,—
 Great power comes to him and he becomes endowed with great power.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऐन॑मिन्द्रि॒यंग॑च्छतीन्द्रि॒यवा॑न्भवति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। ए॒न॒म्। इ॒न्द्रि॒यम्। ग॒च्छ॒ति॒। इ॒न्द्रि॒यऽवा॑न्। भ॒व॒ति॒। १०.१०। 
+आ। ए॒न॒म्। इ॒न्द्रि॒यम्। ग॒च्छ॒ति॒। इ॒न्द्रि॒यऽवा॑न्। भ॒व॒ति॒। १०.१०।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,4 +46,3 @@ Great power comes to him and he becomes endowed with great power.
 
 टिप्पणी:   १०−(आ) आगत्य (एनम्)पुरुषार्थिनम् (इन्द्रियम्) इन्द्रचिह्नम्। ऐश्वर्यम् (गच्छति) प्राप्नोति (इन्द्रियवान्) ऐश्वर्यवान् (भवति) ॥
 </details>
-

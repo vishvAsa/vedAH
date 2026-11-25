@@ -25,9 +25,15 @@ Pāṇini viii. 2. 19⌋.
 May waters, lightning, cloud, and rain, boon springs and serpents tend you well. Urged by the Maruts let the clouds pour down their rain upon the earth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आपो॑ वि॒द्युद॒भ्रं व॒र्षं सं वो॑ऽवन्तु सु॒दान॑व॒ उत्सा॑ अजग॒रा उ॒त।  
+म॒रुद्भिः॒ प्रच्यु॑ता मे॒घाः प्राव॑न्तु पृथि॒वीमनु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आपः॑। वि॒ऽद्युत्। अ॒भ्रम्। व॒र्षम्। सम्। वः॒। अ॒व॒न्तु॒। सु॒ऽदान॑वः। उत्साः॑। अ॒ज॒ग॒राः। उ॒त। म॒रुत्ऽभिः॑। प्रऽच्यु॑ताः। मे॒घाः। प्र। अ॒व॒न्तु॒। पृ॒थि॒वीम्। अनु॑। १५.९। 
+आपः॑। वि॒ऽद्युत्। अ॒भ्रम्। व॒र्षम्। सम्। वः॒। अ॒व॒न्तु॒। सु॒ऽदान॑वः। उत्साः॑। अ॒ज॒ग॒राः। उ॒त। म॒रुत्ऽभिः॑। प्रऽच्यु॑ताः। मे॒घाः। प्र। अ॒व॒न्तु॒। पृ॒थि॒वीम्। अनु॑। १५.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ May waters, lightning, cloud, and rain, boon springs and serpents tend you well.
 
 टिप्पणी:   ९−(आपः) जलधाराः (विद्युत्) तडित् (अभ्रम्) उदकपूर्णो मेघः (वर्षम्) वृष्टिजलम् (प्र) प्रकर्षेण। अन्यद् यथा म० ७ ॥
 </details>
-

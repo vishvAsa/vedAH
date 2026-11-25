@@ -20,9 +20,15 @@ first pāda: TA. makes it *nā vāí tátra prá mīyate* (nearly as our 24
 Here verily all creatures live, the cow, the horse, the man, the beast, Here where this holy prayer is used, a rampart that protecteth life. Let it preserve thee from thy peers, from incantation, from thy friends.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर्वो॒ वै तत्र॑ जीवति॒ गौरश्वः॒ पुरु॑षः प॒शुः।  
+यत्रे॒दं ब्रह्म॑ क्रि॒यते॑ परि॒धिर्जीव॑नाय॒ कम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर्वः॑। वै। तत्र॑। जी॒व॒ति॒। गौः। अश्वः॑। पुरु॑षः। प॒शुः॒। यत्र॑। इ॒दम्। ब्रह्म॑। क्रि॒यते॑। प॒रि॒ऽधिः। जीव॑नाय। कम्। २.२५। 
+सर्वः॑। वै। तत्र॑। जी॒व॒ति॒। गौः। अश्वः॑। पुरु॑षः। प॒शुः॒। यत्र॑। इ॒दम्। ब्रह्म॑। क्रि॒यते॑। प॒रि॒ऽधिः। जीव॑नाय। कम्। २.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Here verily all creatures live, the cow, the horse, the man, the beast, Here whe
 
 टिप्पणी:   २५−(सर्वः) निःशेषः (वै) एव (तत्र) ब्रह्माश्रये (जीवति) प्राणान् धारयति (गौः) धेनुः (अश्वः) घोटकः (पुरुषः) मनुष्यः (पशुः) गजोष्ट्रादिः (तत्र) (इदम्) प्रसिद्धम् (ब्रह्म) परिवृढः परमात्मा (परिधिः) प्राकारो यथा रक्षासाधनम् (जीवनाय) प्राणधारणाय (कम्) सुखेन ॥
 </details>
-

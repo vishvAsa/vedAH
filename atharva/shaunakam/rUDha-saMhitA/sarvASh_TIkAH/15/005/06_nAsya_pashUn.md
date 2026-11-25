@@ -3,6 +3,10 @@ title = "०६ नास्य पशून्"
 
 +++
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+नास्य॑ प॒शून् न स॑मा॒नान् हि॑नस्ति॒ य ए॒वं वेद॑॥
+</details>
 
 <details><summary>पदपाठः</summary>
 

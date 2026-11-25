@@ -23,9 +23,14 @@ hymn proceeds to glorify by identifying them with sacred acts.
 Whose hairs are psalms, whose heart is called the Yajus, whose coverlet is verily oblation--
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सामा॑नि॒ यस्य॒ लोमा॑नि॒ यजु॒र्हृद॑यमु॒च्यते॑ परि॒स्तर॑ण॒मिद्ध॒विः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सामा॑नि। यस्य॑। लोमा॑नि। यजुः॑। हृद॑यम्। उ॒च्यते॑। प॒रि॒ऽस्तर॑णम्। इत्। ‍ ह॒विः। ६.२। 
+सामा॑नि। यस्य॑। लोमा॑नि। यजुः॑। हृद॑यम्। उ॒च्यते॑। प॒रि॒ऽस्तर॑णम्। इत्। ‍ ह॒विः। ६.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ Whose hairs are psalms, whose heart is called the Yajus, whose coverlet is veril
 
 टिप्पणी:   २−(सामानि) अ० ७।५४।१। षो अन्तकर्मणि-मनिन्। दुःखनाशकानि मोक्षज्ञानानि (यस्य) ब्रह्मणः (लोमानि) लोमतुल्यानि (यजुः) अ० ७।५४।२। विदुषां सत्कारो विद्यादानं पदार्थसंगतिकरणं च (हृदयम्) हृदयसमानम् (उच्यते) (परिस्तरणम्) सर्वतो विस्तारः (इत्) एव (हविः) ग्राह्यं कर्म ॥
 </details>
-

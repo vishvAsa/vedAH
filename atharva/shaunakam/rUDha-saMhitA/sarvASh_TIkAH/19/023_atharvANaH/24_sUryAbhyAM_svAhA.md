@@ -18,9 +18,14 @@ Sūryā-hymn (xiv.).
 Hail to the two Surya hymns!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सू॒र्याभ्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सू॒र्याभ्या॑म्। स्वाहा॑। २३.२४। 
+सू॒र्याभ्या॑म्। स्वाहा॑। २३.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Hail to the two Surya hymns!
 
 टिप्पणी:   २४−(सूर्याभ्याम्) प्रेरकाभ्यां परमात्मजीवात्मभ्याम् ॥
 </details>
-

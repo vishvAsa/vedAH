@@ -17,9 +17,15 @@ The mss. vary here between *vídhya* and *vidhyá*. ⌊Ppp. reads *viddhi*.⌋
 Pierce thou my rivals, Darbha, pierce the men who fain would fight with me. Pierce those who wish me evil, pierce the men who hate me, Amulet!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+विध्य॑ दर्भ स॒पत्ना॑न्मे॒ विध्य॑ मे पृतनाय॒तः।  
+विध्य॑ मे॒ सर्वा॑न्दु॒र्हार्दो॒ विध्य॑ मे द्विष॒तो म॑णे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-विध्य॑। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। विध्य॑। मे॒। पृ॒त॒ना॒ऽय॒तः। विध्य॑। मे॒। सर्वा॑न्। दुः॒ऽहार्दः॑। विध्य॑। मे॒। द्वि॒ष॒तः। म॒णे॒। २८.१०। 
+विध्य॑। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। विध्य॑। मे॒। पृ॒त॒ना॒ऽय॒तः। विध्य॑। मे॒। सर्वा॑न्। दुः॒ऽहार्दः॑। विध्य॑। मे॒। द्वि॒ष॒तः। म॒णे॒। २८.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Pierce thou my rivals, Darbha, pierce the men who fain would fight with me. Pier
 
 टिप्पणी:   १०−(विध्य) व्यध ताडने। ताडय ॥
 </details>
-

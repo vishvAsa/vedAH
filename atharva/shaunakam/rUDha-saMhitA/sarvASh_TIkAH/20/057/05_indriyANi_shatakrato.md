@@ -8,9 +8,15 @@ title = "०५ इन्द्रियाणि शतक्रतो"
 O Satakratu, powers which thou mid the Five Races hast dis- played, These, Indra, do I claim of thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॑न्द्रि॒याणि॑ शतक्रतो॒ या ते॒ जने॑षु प॒ञ्चसु॑।  
+इन्द्र॒ तानि॑ त॒ आ वृ॑णे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒न्द्रि॒याणि॑। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। या। ते॒। जने॑षु। प॒ञ्चऽसु॑। इन्द्र॑। तानि॑। ते॒। आ। वृ॒णे॒। ५७.५। 
+इ॒न्द्रि॒याणि॑। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। या। ते॒। जने॑षु। प॒ञ्चऽसु॑। इन्द्र॑। तानि॑। ते॒। आ। वृ॒णे॒। ५७.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ O Satakratu, powers which thou mid the Five Races hast dis- played, These, Indra
 
 टिप्पणी:   ४-१०- एते मन्त्रा व्याख्याताः-अ० २।२०।१-७ ॥
 </details>
-

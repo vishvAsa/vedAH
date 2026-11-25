@@ -22,9 +22,15 @@ counting **b** as 10 and balancing it with the 12 of **c**⌋.
 Not even Vata is the peer of Kama, not Agni, Chandramas the Moon, nor Surya. Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+न वै वात॑श्च॒न काम॑माप्नोति॒ नाग्निः सूर्यो॒ नोत च॒न्द्रमाः॑।  
+तत॒स्त्वम॑सि॒ ज्याया॑न्वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत्कृ॑णोमि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न। वै। वातः॑। च॒न। काम॑म्। आ॒प्नो॒ति॒। न। अ॒ग्निः। सूर्यः॑। न। उ॒त। च॒न्द्रमाः॑। ततः॑। त्वम्। अ॒सि॒। ज्याया॑न्। वि॒श्वहा॑। म॒हान्। तस्मै॑। ते॒। का॒म॒। नमः॑। इत्। कृ॒णो॒मि॒। २.२४। 
+न। वै। वातः॑। च॒न। काम॑म्। आ॒प्नो॒ति॒। न। अ॒ग्निः। सूर्यः॑। न। उ॒त। च॒न्द्रमाः॑। ततः॑। त्वम्। अ॒सि॒। ज्याया॑न्। वि॒श्वहा॑। म॒हान्। तस्मै॑। ते॒। का॒म॒। नमः॑। इत्। कृ॒णो॒मि॒। २.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Not even Vata is the peer of Kama, not Agni, Chandramas the Moon, nor Surya. Str
 
 टिप्पणी:   २४−(न) निषेधे (वै) एव (वातः) पवनः (चन) कश्चिदपि (कामम्) कमनीयं परमेश्वरम् (आप्नोति) प्राप्नोति (न) (अग्निः) (सूर्यः) (न) (उत) अपि (चन्द्रमाः) चन्द्रः। अन्यत् पूर्ववत् ॥
 </details>
-

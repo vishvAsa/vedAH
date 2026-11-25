@@ -20,9 +20,15 @@ usual, vary between 1 and 3 and nothing. The comm. reads *sadhrim*.
 We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke accompanies the wind, so let thy fancy follow me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शो॒चया॑मसि ते॒ हार्दिं॑ शो॒चया॑मसि ते॒ मनः॑।  
+वातं॑ धू॒म इ॑व स॒ध्र्य१॒॑ङ्मामे॒वान्वे॑तु ये॒ मनः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शो॒चया॑मसि। ते॒। हार्दि॑म्। शो॒चया॑मसि। ते॒। मनः॑। वात॑म्। धू॒मःऽइ॑व। स॒ध्र्य᳡ङ्। माम्। ए॒व। अनु॑। ए॒तु॒। ते॒। मनः॑। ८९.२। 
+शो॒चया॑मसि। ते॒। हार्दि॑म्। शो॒चया॑मसि। ते॒। मनः॑। वात॑म्। धू॒मःऽइ॑व। स॒ध्र्य᳡ङ्। माम्। ए॒व। अनु॑। ए॒तु॒। ते॒। मनः॑। ८९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke acc
 
 टिप्पणी:   २−(मनः) सङ्कल्पविकल्पात्मकं मननसामर्थ्यम् (वातम्) वायुम् (धूमः) (इव) यथा (सध्र्यङ्) अ० ३।३०।५। सह अञ्चतीति, सहस्य सध्रि। वातेन सह गन्ता (माम्) पुरुषार्थिनम् (एव) अवश्यम् (अनु) अनुसृत्य (एतु) गच्छतु। अन्यत् पूर्ववत् ॥
 </details>
-

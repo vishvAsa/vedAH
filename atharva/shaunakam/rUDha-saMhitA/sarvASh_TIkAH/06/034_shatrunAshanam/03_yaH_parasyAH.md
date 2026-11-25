@@ -18,9 +18,15 @@ Ppp. reads, for **c**, *tiro viśvā ’dhirocate*.
 He who from distance far remote shineth across the tracts of land, May he transport us past our foes.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यः पर॑स्याः परा॒वत॑स्ति॒रो धन्वा॑ति॒रोच॑ते।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। पर॑स्याः। प॒रा॒ऽवतः॑। ति॒रः। धन्व॑। अ॒ति॒ऽरोच॑ते। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.३। 
+यः। पर॑स्याः। प॒रा॒ऽवतः॑। ति॒रः। धन्व॑। अ॒ति॒ऽरोच॑ते। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ He who from distance far remote shineth across the tracts of land, May he transp
 
 टिप्पणी:   ३−(यः) परमेश्वरः (परस्या) दूरदिशायाः (परावतः) अ० ३।४।५। दूरगतात् स्थानात् (तिरः) तिरस्कृत्य, अन्तर्धाय (धन्व) अ० ४।४।७। अन्तरिक्षम्−निघ० १।३। (अतिरोचते) अतिशयेन दीप्यते। अन्यद् गतम् ॥
 </details>
-

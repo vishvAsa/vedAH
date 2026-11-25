@@ -27,9 +27,15 @@ who thinks the "drop" refers to pearl: cf. introduction to iv. 10.⌋
 What time Parjanya roared to it with lightning flashes in the sea, Thence came the drop, the golden drop, thence Darbha into being sprang.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्स॑मु॒द्रो अ॒भ्यक्र॑न्दत्प॒र्जन्यो॑ वि॒द्युता॑ स॒ह।  
+ततो॑ हिर॒ण्ययो॑ बि॒न्दुस्ततो॑ द॒र्भो अ॑जायत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। स॒मु॒द्रः। अ॒भि॒ऽक्र॑न्दत्। प॒र्जन्यः॑। वि॒ऽद्युता॑। स॒ह। ततः॑। हि॒र॒ण्ययः॑। बि॒न्दुः। ततः॑। द॒र्भः। अ॒जा॒य॒त॒। ३०.५। 
+यत्। स॒मु॒द्रः। अ॒भि॒ऽक्र॑न्दत्। प॒र्जन्यः॑। वि॒ऽद्युता॑। स॒ह। ततः॑। हि॒र॒ण्ययः॑। बि॒न्दुः। ततः॑। द॒र्भः। अ॒जा॒य॒त॒। ३०.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ What time Parjanya roared to it with lightning flashes in the sea, Thence came t
 
 टिप्पणी:   ५−(यत्) यस्मात्परमेश्वरसामर्थ्यात् (समुद्रः) अन्तरिक्षम् (अभ्यक्रन्दत्) अभितः स्तननं गर्जनमकार्षीत् (पर्जन्यः) मेघः (विद्युता) अशन्या (सह) (ततः) तस्मात् सामर्थ्यात् (हिरण्ययः) तेजोमयः (बिन्दुः) वृष्टिबिन्दुः (ततः) तस्मात् सामर्थ्यात् (दर्भः) शत्रुविदारकः सेनापतिः (अजायत) प्रादुरभवत् ॥
 </details>
-

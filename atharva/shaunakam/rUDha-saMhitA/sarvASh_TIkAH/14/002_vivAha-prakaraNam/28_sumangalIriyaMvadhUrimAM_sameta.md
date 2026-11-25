@@ -23,9 +23,15 @@ women who come to look at the bride on her journey. Ppp. reads in **d**
 Signs of good fortune mark the bride. Come all of you and look at her. Wish her prosperity: take on you her evil lucks and go your way.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सु॑मङ्ग॒लीरि॒यंव॒धूरि॒मां स॒मेत॒ पश्य॑त।  
+सौभा॑ग्यम॒स्यै द॒त्त्वा दौर्भा॑ग्यैर्वि॒परे॑तन॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सु॒ऽम॒ङ्ग॒ली। इ॒यम्। व॒धूः। इ॒माम्। स॒म्ऽएत॑। पश्य॑त। सौभा॑ग्यम्। अ॒स्यै। द॒त्त्वा। दौःऽभा॑ग्यैः। वि॒ऽपरे॑तन। २.२८। 
+सु॒ऽम॒ङ्ग॒ली। इ॒यम्। व॒धूः। इ॒माम्। स॒म्ऽएत॑। पश्य॑त। सौभा॑ग्यम्। अ॒स्यै। द॒त्त्वा। दौःऽभा॑ग्यैः। वि॒ऽपरे॑तन। २.२८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Signs of good fortune mark the bride. Come all of you and look at her. Wish her 
 
 टिप्पणी:   २८−(सुमङ्गलीः) छान्दसो विसर्गः। बहुमङ्गलवती (इयम्)दर्शनीया (वधूः) (इमाम्) (समेत) समेत्य आगच्छत (पश्यत) अवलोकयत (सौभाग्यम्)सुभगत्वम्। पतिप्रियत्वम्। बह्वैश्वर्यवत्वम् (अस्यै) (वध्वै) (दत्त्वा) (दौर्भाग्यैः)दुर्भगत्वैः। ऐश्वर्यराहित्यैः। पतिस्नेहशून्यकर्मभिः (विपरेतन)अन्तर्गतण्यर्थः। विपरागमयत। पृथक् कुरुत ताम् ॥
 </details>
-

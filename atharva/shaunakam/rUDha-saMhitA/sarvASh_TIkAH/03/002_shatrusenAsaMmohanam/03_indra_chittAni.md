@@ -24,9 +24,15 @@ accent-mark over the *-dra* of *índra* in **a.**
 Dazing their senses, Indra, come hitherward with the wish and will. With Agni's, Vata's furious rush drive them to every side away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्र॑ चि॒त्तानि॑ मो॒हय॑न्न॒र्वाङाकू॑त्या चर।  
+अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान्विषू॑चो॒ वि ना॑शय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑। चि॒त्तानि॑। मो॒हय॑न्। अ॒र्वाङ्। आऽकू॑त्या। च॒र॒। अ॒ग्नेः। वात॑स्य। ध्राज्या॑। तान्। विषू॑चः। वि। ना॒श॒य॒। २.३। 
+इन्द्र॑। चि॒त्तानि॑। मो॒हय॑न्। अ॒र्वाङ्। आऽकू॑त्या। च॒र॒। अ॒ग्नेः। वात॑स्य। ध्राज्या॑। तान्। विषू॑चः। वि। ना॒श॒य॒। २.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Dazing their senses, Indra, come hitherward with the wish and will. With Agni's,
 
 टिप्पणी:   ३−(इन्द्र)। हे परमैश्वर्यवन् राजन्। (चित्तानि)। मनांसि। (मोहयन्)। व्याकुलीकुर्वन्। (अर्वाङ्)। अवरे काले देशे वा अञ्चति। अवर+अञ्च-क्विन्, अर्वादेशः। अस्मदभिमुखः। (आकूत्या)। आङ्+कूञ् शब्दे-क्तिन्। संकल्पेन। अन्यद् व्याख्यातं सू० १ म० ५ ॥
 </details>
-

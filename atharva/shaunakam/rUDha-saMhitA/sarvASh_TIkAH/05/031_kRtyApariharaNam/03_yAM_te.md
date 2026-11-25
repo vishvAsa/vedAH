@@ -18,9 +18,15 @@ they have made—I take that back again.
 The spell that they have cast upon thy beast that hath uncloven hooves, The ass with teeth in both his jaws, this I strike back again on them.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यां ते॑ च॒क्रुरेक॑शफे पशू॒नामु॑भ॒याद॑ति।  
+ग॑र्द॒भे कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याम्। ते॒। च॒क्रुः। एक॑ऽशफे। प॒शू॒नाम्। उ॒भ॒याद॑ति। ग॒र्द॒भे। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.३। 
+याम्। ते॒। च॒क्रुः। एक॑ऽशफे। प॒शू॒नाम्। उ॒भ॒याद॑ति। ग॒र्द॒भे। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The spell that they have cast upon thy beast that hath uncloven hooves, The ass 
 
 टिप्पणी:   ३−(एकशफे) एकखुरयुक्ते अश्वादौ (पशूनाम्) चतुष्पदां मध्ये (उभयादति) छान्दसो दीर्घः। उभयदति। ऊर्ध्वाधोभागयोर्दन्तयुक्ते (गर्दभे) कॄगॄशलिकलिगर्दिभ्योऽभच्। उ० ३।१२२। इति गर्द शब्दे−अभच्। खरे। अन्यद् गतम् ॥
 </details>
-

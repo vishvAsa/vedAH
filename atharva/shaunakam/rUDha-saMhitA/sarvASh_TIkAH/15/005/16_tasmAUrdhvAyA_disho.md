@@ -6,7 +6,7 @@ title = "१६ तस्माऊर्ध्वाया दिशो"
 <details><summary>Whitney</summary>
 
 6. ⌊12.⌋ For him, from the intermediate direction of the upward  
-   quarter, they made the archer Mahādeva ('great god') attendant. 
+   quarter, they made the archer Mahādeva ('great god') attendant.
 </details>
 
 <details><summary>Griffith</summary>
@@ -14,9 +14,14 @@ title = "१६ तस्माऊर्ध्वाया दिशो"
 They made Mahadeva his deliverer from the intermediate space of the region of the zenith, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मा॑ऊ॒र्ध्वाया॑ दि॒शो अ॑न्तर्दे॒शान्म॑हादे॒वमि॑ष्वा॒सम॑नुष्ठा॒तार॑मकुर्वन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्मै॑। ऊ॒र्ध्वायाः॑। दि॒शः। अ॒न्तः॒ऽदे॒शात्। म॒हा॒ऽदे॒वम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१२। 
+तस्मै॑। ऊ॒र्ध्वायाः॑। दि॒शः। अ॒न्तः॒ऽदे॒शात्। म॒हा॒ऽदे॒वम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ They made Mahadeva his deliverer from the intermediate space of the region of th
 
 टिप्पणी:   १२, १३−(ऊर्ध्वायाः)उपरिवर्तमानायाः (महादेवम्) महाप्रकाशमयम्। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

@@ -8,9 +8,15 @@ title = "०४ पुरुष्टुतस्य धामभिः"
 We strive for glory through the powers immense of him whom many praise, Of Indra who supports mankind.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पु॑रुष्टु॒तस्य॒ धाम॑भिः श॒तेन॑ महयामसि।  
+इन्द्र॑स्य चर्षणी॒धृतः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पु॒रु॒ऽस्तु॒तस्य॑। धाम॑ऽभिः। श॒तेन॑। म॒ह॒या॒म॒सि॒। इन्द्र॑स्य। च॒र्ष॒णि॒ऽधृतः॑। १९.४। 
+पु॒रु॒ऽस्तु॒तस्य॑। धाम॑ऽभिः। श॒तेन॑। म॒ह॒या॒म॒सि॒। इन्द्र॑स्य। च॒र्ष॒णि॒ऽधृतः॑। १९.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ We strive for glory through the powers immense of him whom many praise, Of Indra
 
 टिप्पणी:   ४−(पुरुष्टुतस्य) बहुभिः स्तुतस्य (धामभिः) धारणसामर्थ्यैः। प्रभावैः (शतेन) असख्यैः (महयामसि) पूजनं सत्कारं कुर्मः (इन्द्रस्य) परमैश्वर्यवतो राज्ञः (चर्षणीधृतः) चर्षणीनां मनुष्याणां धारकस्य पोषकस्य ॥
 </details>
-

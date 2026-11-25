@@ -27,9 +27,15 @@ The **d** of *aṣṭā́cakra*, and its retention in the *pada*-text
 It rolleth on, eight-wheeled and single-fellied, and with a thousand eyes, forward and backward. With one half it engendered all creation. What sign is there to tell us of the other?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ष्टाच॑क्रं वर्तत॒ एक॑नेमि स॒हस्रा॑क्षरं॒ प्र पु॒रो नि प॒श्चा।  
+अ॒र्धेन॒ विश्वं॒ भुव॑नं ज॒जान॒ यद॑स्या॒र्धं क॑त॒मः स के॒तुः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ष्टाऽच॑क्रम्। व॒र्त॒ते॒। एक॑ऽनेमि। स॒हस्र॑ऽअक्षरम्। प्र। पु॒रः। नि। प॒श्चा। अ॒र्धेन॑। विश्व॑म्। भुव॑नम्। ज॒जान॑। यत्। अ॒स्य॒। अ॒र्धम्। क॒त॒मः। सः। के॒तुः। ६.२२। 
+अ॒ष्टाऽच॑क्रम्। व॒र्त॒ते॒। एक॑ऽनेमि। स॒हस्र॑ऽअक्षरम्। प्र। पु॒रः। नि। प॒श्चा। अ॒र्धेन॑। विश्व॑म्। भुव॑नम्। ज॒जान॑। यत्। अ॒स्य॒। अ॒र्धम्। क॒त॒मः। सः। के॒तुः। ६.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ It rolleth on, eight-wheeled and single-fellied, and with a thousand eyes, forwa
 
 टिप्पणी:   २२−(अष्टाचक्रम्) अष्टसु दिक्षु चक्रं यस्य तद् ब्रह्म। अन्यद्व्याख्यातम्-अथर्व० १०।८।७ तथा १३ ॥
 </details>
-

@@ -17,9 +17,14 @@ his assembly, fit for the assembly becometh he who knoweth thus.
 She mounted up, she entered the Assembly. He who knows this becomes polite and courtly, and people come as guests to his assembly.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यन्त्य॑स्य दे॒वा दे॒वहू॑तिं प्रि॒यो दे॒वानां॑ भवति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यन्ति॑। अ॒स्य॒। दे॒वाः। दे॒वऽहू॑तिम्। प्रि॒यः। दे॒वाना॑म्। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। । १०.५। 
+यन्ति॑। अ॒स्य॒। दे॒वाः। दे॒वऽहू॑तिम्। प्रि॒यः। दे॒वाना॑म्। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। । १०.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ She mounted up, she entered the Assembly. He who knows this becomes polite and c
 
 टिप्पणी:   ५−(यन्ति) गच्छन्ति (अस्य) तस्य (देवाः) विद्वांसः (देवहूतिम्) विद्वद्भ्य आह्वानम् (प्रियः) हितः (देवानाम्) विदुषाम्। अन्यत् सुगमम् ॥
 </details>
-

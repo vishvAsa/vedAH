@@ -22,9 +22,15 @@ as vs. 2, which was so described. Ppp. puts the verse before our 2.
 Which of his members is the earth's upholder? Which gives the middle air a base to rest on? Where, in which member is the sky established? Where hath the space above the sky its dwelling?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+कस्मि॒न्नङ्गे॑ तिष्ठति॒ भूमि॑रस्य॒ कस्मि॒न्नङ्गे॑ तिष्ठत्य॒न्तरि॑क्षम्।  
+कस्मि॒न्नङ्गे॑ तिष्ठ॒त्याहि॑ता॒ द्यौः कस्मि॒न्नङ्गे॑ तिष्ठ॒त्युत्त॑रं दि॒वः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कस्मि॑न्। अङ्गे॑। ति॒ष्ठ॒ति॒। भूमिः॑। अ॒स्य॒। कस्मि॑न्। अङ्गे॑। ति॒ष्ठ॒ति॒। अ॒न्तरि॑क्षम्। कस्मि॑न्। अङ्गे॑। ति॒ष्ठ॒ति॒। आऽहि॑ता। द्यौः। कस्मि॑न्। अङ्गे॑। ति॒ष्ठ॒ति॒। उत्ऽत॑रम्। दि॒वः। ७.३। 
+कस्मि॑न्। अङ्गे॑। ति॒ष्ठ॒ति॒। भूमिः॑। अ॒स्य॒। कस्मि॑न्। अङ्गे॑। ति॒ष्ठ॒ति॒। अ॒न्तरि॑क्षम्। कस्मि॑न्। अङ्गे॑। ति॒ष्ठ॒ति॒। आऽहि॑ता। द्यौः। कस्मि॑न्। अङ्गे॑। ति॒ष्ठ॒ति॒। उत्ऽत॑रम्। दि॒वः। ७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Which of his members is the earth's upholder? Which gives the middle air a base 
 
 टिप्पणी:   ३−(कस्मिन् अङ्गे) (तिष्ठति) वर्तते (भूमिः) पृथिवी (अस्य) ब्रह्मणः (अन्तरिक्षम्) अ० १।३०।३। मध्यवर्ती लोकः (आहिता) स्थापिता (द्यौः) प्रकाशमानः सूर्यः (उत्तरम्) उच्चतरं स्थानम् (दिवः) सूर्यात्। अन्यत् पूर्ववत् ॥
 </details>
-

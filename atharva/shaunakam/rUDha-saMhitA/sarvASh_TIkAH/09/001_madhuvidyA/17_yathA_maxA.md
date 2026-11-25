@@ -21,9 +21,15 @@ nouns in our **d** would rectify the meter.
 As over honey flies besmear this honey which the bees have made, So may both Asvins lay in me splendour and strength and power and might.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॒ मक्षा॑ इ॒दं मधु॑ न्य॒ञ्जन्ति॒ मधा॒वधि॑।  
+ए॒वा मे॑ अश्विना॒ वर्च॒स्तेजो॒ बल॒मोज॑श्च ध्रियताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। मक्षाः॑। इ॒दम्। मधु॑। नि॒ऽअ॒ञ्जन्ति॑। मधौ॑। अधि॑। ए॒व। मे॒। अ॒श्वि॒ना॒। वर्चः॑। तेजः॑। बल॑म्। ओजः॑। च॒। ध्रि॒य॒ता॒म्। १.१७। 
+यथा॑। मक्षाः॑। इ॒दम्। मधु॑। नि॒ऽअ॒ञ्जन्ति॑। मधौ॑। अधि॑। ए॒व। मे॒। अ॒श्वि॒ना॒। वर्चः॑। तेजः॑। बल॑म्। ओजः॑। च॒। ध्रि॒य॒ता॒म्। १.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ As over honey flies besmear this honey which the bees have made, So may both Asv
 
 टिप्पणी:   १७−(भक्षाः) भक्ष संघाते रोषे च-अच्। संग्रहीतारः पुरुषा भ्रमरादयः कीटा वा (इदम्) इन्देः कमिन्नलोपश्च। उ० ४।१५७। इदि परमैश्वर्ये कमिन्, नलोपः। परमैश्वर्यकारणम् (मधु) ज्ञानम् (न्यञ्जन्ति) अज्जू व्यक्तिम्रक्षणकान्तिगतिषु। नितरां मिश्रयन्ति (तेजः) तीक्ष्णत्वम् (बलम्) (ओजः) पराक्रमः। अन्यत् पूर्ववत् ॥
 </details>
-

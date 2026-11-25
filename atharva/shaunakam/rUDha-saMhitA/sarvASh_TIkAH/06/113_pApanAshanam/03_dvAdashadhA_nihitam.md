@@ -26,9 +26,15 @@ eleventh *anuvāka;* the Anukr. says: *prāk tasmāt saptatriṅśaḥ*.
 Stored in twelve separate places lies what Trita hath wiped away, the sins of human beings. Thence if the female fiend hath made thee captive, the Gods by prayer shall banish her and free thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+द्वा॑दश॒धा निहि॑तं त्रि॒तस्याप॑मृष्टं मनुष्यैन॒सानि॑।  
+ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द्वा॒द॒श॒ऽधा। निऽहि॑तम्। त्रि॒तस्य॑। अप॑ऽमृष्टम्। म॒नु॒ष्य॒ऽए॒न॒सानि॑। ततः॑। यदि॑। त्वा॒। ग्राहिः॑। आ॒न॒शे। ताम्। ते॒। दे॒वाः। ब्रह्म॑णा। ना॒श॒य॒न्तु॒। ११३.३। 
+द्वा॒द॒श॒ऽधा। निऽहि॑तम्। त्रि॒तस्य॑। अप॑ऽमृष्टम्। म॒नु॒ष्य॒ऽए॒न॒सानि॑। ततः॑। यदि॑। त्वा॒। ग्राहिः॑। आ॒न॒शे। ताम्। ते॒। दे॒वाः। ब्रह्म॑णा। ना॒श॒य॒न्तु॒। ११३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Stored in twelve separate places lies what Trita hath wiped away, the sins of hu
 
 टिप्पणी:   ३−(द्वादशधा) द्वादशसु मनोबुद्धिसहितेषु दशसु ज्ञानकर्मेन्द्रियेषु (निहितम्) सुपां सुपो भवन्ति। वा० पा० ७।१।३९। इति बहुवचनस्यैकवचनम्। निहितानि। नितरां धृतानि। (त्रितस्य) तृतीयायाः षष्ठी। त्रितेन परमेश्वरेण (अपमृष्टम्) अपमृष्टानि। शोधितानि (मनुष्यैनसानि) अनसन्तान्नपुंसकाच्छन्दसि। पा० ५।४।१०३। इति टच्। मनुष्यपापानि। अन्यद् यथा−म० १ ॥
 </details>
-

@@ -19,9 +19,15 @@ Ppp. reads in **a** *anusarpanti* for *nirdhayanti*. We are to resolve
 The pains that suck the marrow out, and rend and tear the bones apart, May they speed forth and pass away, free from disease and harming not.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+या म॒ज्ज्ञो नि॒र्धय॑न्ति॒ परूं॑षि विरु॒जन्ति॑ च।  
+अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। म॒ज्ज्ञः। निः॒ऽधय॑न्ति। परूं॑षि। वि॒ऽरु॒जन्ति॑। च॒। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१८। 
+याः। म॒ज्ज्ञः। निः॒ऽधय॑न्ति। परूं॑षि। वि॒ऽरु॒जन्ति॑। च॒। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ The pains that suck the marrow out, and rend and tear the bones apart, May they 
 
 टिप्पणी:   १८−(याः) अर्षण्यः (मज्ज्ञः) अ० १।११।४। अस्थिमध्यस्थस्नेहान् (निर्धयन्ति) धेट् पाने। नितरां पिबन्ति (परूँषि) ग्रन्थीन्। अन्यत् पूर्ववत्-म० १३ ॥
 </details>
-

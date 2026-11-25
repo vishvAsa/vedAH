@@ -22,9 +22,15 @@ the Nakṣatra-kalpa just cited).
 May we have weather fair at noon, May we have weather fair at eve, Fair weather when the morning breaks, fair weather when the night is come.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+भ॑द्रा॒हं नो॑ म॒ध्यन्दि॑ने भद्रा॒हं सा॒यम॑स्तु नः।  
+भ॑द्रा॒हं नो॒ अह्नां॑ प्रा॒ता रात्री॑ भद्रा॒हम॑स्तु नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भ॒द्र॒ऽअ॒हम्। नः॒। म॒ध्यंदि॑ने। भ॒द्र॒ऽअ॒हम्। सा॒यम्। अ॒स्तु॒। नः॒। भ॒द्र॒ऽअ॒हम्। नः॒। अह्ना॑म्। प्रा॒तः। रात्री॑ भ॒द्र॒ऽअ॒हम्। अ॒स्तु॒। नः॒। १२८.२। 
+भ॒द्र॒ऽअ॒हम्। नः॒। म॒ध्यंदि॑ने। भ॒द्र॒ऽअ॒हम्। सा॒यम्। अ॒स्तु॒। नः॒। भ॒द्र॒ऽअ॒हम्। नः॒। अह्ना॑म्। प्रा॒तः। रात्री॑ भ॒द्र॒ऽअ॒हम्। अ॒स्तु॒। नः॒। १२८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ May we have weather fair at noon, May we have weather fair at eve, Fair weather 
 
 टिप्पणी:   २−(भद्राहम्) म० १। शुभकालः (नः) अस्मभ्यम् (मध्यन्दिने) मध्याह्ने (सायम्) सूर्यास्ते (अस्तु) (अह्नाम्) सर्वदिनानाम् (प्रातः) सूर्योदये (रात्री) रात्र्याम् ॥अन्यद् व्याख्यातम्॥
 </details>
-

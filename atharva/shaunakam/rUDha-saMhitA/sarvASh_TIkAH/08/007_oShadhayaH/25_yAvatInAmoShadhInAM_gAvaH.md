@@ -20,9 +20,15 @@ and *oṣadhīs* change places.
 The multitude of herbs whereon the Cows whom none may slaughter feed, all that are food for goats and sheep, So many Plants, brought hitherward, give shelter and defence to thee!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+याव॑तीना॒मोष॑धीनां॒ गावः॑ प्रा॒श्नन्त्य॒घ्न्या याव॑तीनामजा॒वयः॑।  
+ताव॑ती॒स्तुभ्य॒मोष॑धीः॒ शर्म॒ यच्छ॒न्त्वाभृ॑ताः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याव॑तीनाम्। ओष॑धीनाम्। गावः॑। प्र॒ऽअ॒श्नन्ति॑। अ॒घ्न्याः। याव॑तीनाम्। अ॒ज॒ऽअ॒वयः॑। ताव॑तीः। तुभ्य॑म्। ओष॑धीः। शर्म॑। य॒च्छ॒न्तु॒। आऽभृ॑ताः। ७.२५। 
+याव॑तीनाम्। ओष॑धीनाम्। गावः॑। प्र॒ऽअ॒श्नन्ति॑। अ॒घ्न्याः। याव॑तीनाम्। अ॒ज॒ऽअ॒वयः॑। ताव॑तीः। तुभ्य॑म्। ओष॑धीः। शर्म॑। य॒च्छ॒न्तु॒। आऽभृ॑ताः। ७.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ The multitude of herbs whereon the Cows whom none may slaughter feed, all that a
 
 टिप्पणी:   २५−(यावतीनाम्) यत्परिमाणानाम् (गावः) धेनवः (प्राश्नन्ति) प्राशनं कुर्वन्ति (अघ्न्याः) अ० ३।३०।१। अहन्तव्याः (अजावयः) अजाश्च अवयश्च ते। छागमेषादयः (तावतीः) तत्परिमाणाः (शर्म) सुखम् (यच्छन्तु) ददतु (आभृताः) सम्यक् पोषिताः। अन्यद् गतम् ॥
 </details>
-

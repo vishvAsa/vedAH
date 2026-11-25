@@ -18,9 +18,15 @@ Ppp. omits *vā* in **b**.
 That decked by Wind, and that prepared by Indra Brahman- aspati, Agnis of Rohita who found light, prayer-enkindled, sacrificed.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यं वातः॑ परि॒शुम्भ॑ति॒ यं वेन्द्रो॒ ब्रह्म॑ण॒स्पतिः॑।  
+ब्रह्मे॑द्धाव॒ग्नी ई॑जाते॒ रोहि॑तस्य स्व॒र्विदः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। वातः॑। प॒रि॒ऽशुम्भ॑ति। यम्। वा॒। इन्द्रः॑। ब्रह्म॑णः। पतिः॑। ब्रह्म॑ऽइध्दौ। अ॒ग्नी इति॑। ई॒जा॒ते॒‍ इति॑। रोहि॑तस्य। स्वः॒ऽविदः॑। १.५१। 
+यम्। वातः॑। प॒रि॒ऽशुम्भ॑ति। यम्। वा॒। इन्द्रः॑। ब्रह्म॑णः। पतिः॑। ब्रह्म॑ऽइध्दौ। अ॒ग्नी इति॑। ई॒जा॒ते॒‍ इति॑। रोहि॑तस्य। स्वः॒ऽविदः॑। १.५१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ That decked by Wind, and that prepared by Indra Brahman- aspati, Agnis of Rohita
 
 टिप्पणी:   ५१−(यम्) परमात्मानम् (वातः) पवनः (परिशुम्भति) सर्वतो दीपयति (यम्) (वा) अवधारणे (इन्द्रः) मेघः (ब्रह्मणः) अन्नस्य (पतिः) रक्षकः। अन्यत् पूर्ववत्-म० ४९ ॥
 </details>
-

@@ -8,9 +8,15 @@ title = "०२ अहं प्रत्नेन"
 After the lore of ancient time I make, like Kanva, beauteous songs, And Indra's self gains strength thereby.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒हं प्र॒त्नेन॒ मन्म॑ना॒ गिरः॑ शुम्भामि कण्व॒वत्।  
+येनेन्द्रः॒ शुष्म॒मिद्द॒धे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒हम्। प्र॒त्नेन॑। मन्म॑ना। गिरः॑। शु॒म्भा॒मि॒। क॒ण्व॒ऽवत्। येन॑। इन्द्रः॑। शुष्म॑म्। इत्। द॒धे। ११५.२। 
+अ॒हम्। प्र॒त्नेन॑। मन्म॑ना। गिरः॑। शु॒म्भा॒मि॒। क॒ण्व॒ऽवत्। येन॑। इन्द्रः॑। शुष्म॑म्। इत्। द॒धे। ११५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ After the lore of ancient time I make, like Kanva, beauteous songs, And Indra's 
 
 टिप्पणी:   २−(अहम्) मनुष्यः (प्रत्नेन) प्राचीनेन (मन्मना) मननसाधनेन ज्ञानेन (गिरः) वाणीः (शुम्भामि) अलं करोमि (कण्ववत्) मेधावी यथा (येन) मन्मना (इन्द्रः) परमेश्वरः (शुष्मम्) बलम् (इत्) अवश्यम् (दधे) दत्तवान् ॥
 </details>
-

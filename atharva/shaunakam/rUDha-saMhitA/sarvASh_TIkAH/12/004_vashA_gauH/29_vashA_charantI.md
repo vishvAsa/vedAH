@@ -27,9 +27,15 @@ in the next verse; see the note to Prāt. i. 86. Ppp. reads in **d**
 Roaming in many a place the Cow is the stored treasure of the Gods, Make manifest thy shape and form when she would seek her dwelling-place.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व॒शा चर॑न्ती बहु॒धा दे॒वानां॒ निहि॑तो नि॒धिः।  
+आ॒विष्कृ॑णुष्व रू॒पाणि॑ य॒दा स्थाम॒ जिघां॑सति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-व॒शा। चर॑न्ती। ब॒हु॒ऽधा। दे॒वाना॑म्। निऽहि॑तः। नि॒ऽधिः। आ॒विः। कृ॒णु॒ष्व॒। रू॒पाणि॑। य॒दा। स्थाम॑। जिघां॑सति। ४.२९। 
+व॒शा। चर॑न्ती। ब॒हु॒ऽधा। दे॒वाना॑म्। निऽहि॑तः। नि॒ऽधिः। आ॒विः। कृ॒णु॒ष्व॒। रू॒पाणि॑। य॒दा। स्थाम॑। जिघां॑सति। ४.२९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ Roaming in many a place the Cow is the stored treasure of the Gods, Make manifes
 
 टिप्पणी:   २९−(वशा) कमनीया वेदवाणी (चरन्ती) विचरन्ती (बहुधा) नानाप्रकारेण (देवानाम्) विदुषाम् (निहितः) नियमेन स्थापितः (निधिः) कोशः (आविष्कृणुष्व) प्रकाशय (रूपाणि) तत्त्वज्ञानानि (यदा) (स्थाम) सर्वधातुभ्यो मनिन्। उ० ४।१४५। ष्ठा गतिनिवृत्तौ−मनिन्। स्थितिस्थानम् (जिघांसति) हन हिंसागत्योः−सन्। गन्तुमिच्छति ॥
 </details>
-

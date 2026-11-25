@@ -16,9 +16,14 @@ title = "६० स उपहूत"
 He, having been invited hath been invited.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उप॑हूत॒ उप॑हूतः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। उप॑ऽहूतः। उप॑हूतः। ११.१२। 
+सः। उप॑ऽहूतः। उप॑हूतः। ११.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ He, having been invited hath been invited.
 
 टिप्पणी:   १२, १३−(आप्नोति) प्राप्नोति (इमम्) वर्तमानम् (लोकम्) जन्म (अमुम्) आगामिनम्। अन्यत् पूर्ववत् ॥
 </details>
-

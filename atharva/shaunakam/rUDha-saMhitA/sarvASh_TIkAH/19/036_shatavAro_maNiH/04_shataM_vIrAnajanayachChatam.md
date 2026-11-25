@@ -23,9 +23,15 @@ read *-nayan*, which also makes a possible text (*śatáṁ vīrā́ ajanayan*).
 A hundred men hath it produced, hundred Consumptions chased away, All fiends of evil-name it hath smitten, and shakes the Rakshasas.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+श॒तं वी॒रान॑जनयच्छ॒तं यक्ष्मा॒नपा॑वपत्।  
+दु॒र्णाम्नः॒ सर्वा॑न्ह॒त्वाव॒ रक्षां॑सि धूनुते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-श॒तम्। वी॒रान्। अ॒ज॒न॒य॒त्। श॒तम्। यक्ष्मा॑न्। अप॑। अ॒व॒प॒त्। दुः॒ऽनाम्नः॑। सर्वा॑न्। ह॒त्वा। अव॑। रक्षां॑सि। धू॒नु॒ते॒। ३६.४। 
+श॒तम्। वी॒रान्। अ॒ज॒न॒य॒त्। श॒तम्। यक्ष्मा॑न्। अप॑। अ॒व॒प॒त्। दुः॒ऽनाम्नः॑। सर्वा॑न्। ह॒त्वा। अव॑। रक्षां॑सि। धू॒नु॒ते॒। ३६.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ A hundred men hath it produced, hundred Consumptions chased away, All fiends of 
 
 टिप्पणी:   ४−(शतम्) अनेकान् (वीरान्) शूरान् (अजनयत्) उदपादयत् विश्ववारः-अ०५ (यक्ष्मान्) राजरोगान् (अपावपत्) सर्वथा विक्षिप्तवान् (दुर्णाम्नः) अर्शआदिरोगान् (सर्वान्) (हत्वा) नाशयित्वा (रक्षांसि) रोगजन्तून् (अव धूनुते) सर्वथा कम्पयति ॥
 </details>
-

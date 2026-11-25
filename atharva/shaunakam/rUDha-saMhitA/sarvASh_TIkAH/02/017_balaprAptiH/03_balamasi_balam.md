@@ -17,9 +17,14 @@ Ppp. gives *baladā agnir balaṁ me svāhā.*
 Strength art thou, give me strength. All hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+बल॑मसि॒ बलं॑ दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-बल॑म्। अ॒सि॒। बल॑म्। मे॒। दाः॒। स्वाहा॑। १७.३। 
+बल॑म्। अ॒सि॒। बल॑म्। मे॒। दाः॒। स्वाहा॑। १७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Strength art thou, give me strength. All hail!
 
 टिप्पणी:   ३–बलम्। बल जीवने, दाने, वधे–पचाद्यच्। बलते विपक्षान् हन्तीति। सामान्यशक्तिः। सैन्यम्। सामाजिकं सामर्थ्यम् ॥
 </details>
-

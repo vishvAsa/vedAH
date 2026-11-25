@@ -19,9 +19,15 @@ of *no rakṣa*. *Sarvavíd* might, of course, mean 'all-knower.'
 To Sarvavid entrust me, O Kalyani. O Sarvavid, guard all our men, guard all our wealth of quadrupeds.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+कल्या॑णि सर्व॒विदे॑ मा॒ परि॑ देहि।  
+सर्व॑विद्द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कल्या॑णि। स॒र्व॒ऽविदे॑। मा॒। परि॑। दे॒हि॒। सर्व॑ऽवित्। द्वि॒ऽपात्। च॒। सर्व॑म्। नः॒। रक्ष॑। चतुः॑ऽपात्। यत्। च॒। नः॒। स्वम्। १०७.४। 
+कल्या॑णि। स॒र्व॒ऽविदे॑। मा॒। परि॑। दे॒हि॒। सर्व॑ऽवित्। द्वि॒ऽपात्। च॒। सर्व॑म्। नः॒। रक्ष॑। चतुः॑ऽपात्। यत्। च॒। नः॒। स्वम्। १०७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ To Sarvavid entrust me, O Kalyani. O Sarvavid, guard all our men, guard all our 
 
 टिप्पणी:   ४−(सर्वविदे) विद् ज्ञाने−क्विप्। सर्वज्ञाय परमेश्वराय। (सर्ववित्) हे सर्वज्ञ ॥अन्यत्पूर्ववत्॥
 </details>
-

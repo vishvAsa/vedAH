@@ -16,9 +16,14 @@ title = "०६ क्षुद्रेभ्यः स्वाहा"
 To the small ones, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षु॒द्रेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्षु॒द्रेभ्यः॑। स्वाहा॑। २२.६। 
+क्षु॒द्रेभ्यः॑। स्वाहा॑। २२.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ To the small ones, Hail!
 
 टिप्पणी:   ६−(क्षुद्रेभ्यः) स्फायितञ्चिवञ्चिशकिक्षिषिक्षुदि०। उ०२।१३। क्षुदिर् संपेषणे-रक्। सूक्ष्मगुणेभ्यः ॥
 </details>
-

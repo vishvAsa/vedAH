@@ -19,9 +19,15 @@ The second pāda is the same with vs. 1 **d**, above.
 Let those mens' arms grow faint and weak, dull be the purpose of their heart; And let not aught of them be left when thou, O Arbudi, hast pierced.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मुह्य॑न्त्वेषां बा॒हव॑श्चित्ताकू॒तं च॒ यद्धृ॒दि।  
+मैषा॒मुच्छे॑षि॒ किं च॒न र॑दि॒ते अ॑र्बुदे॒ तव॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मुह्य॑न्तु। ए॒षा॒म्। बा॒हवः॑। चि॒त्त॒ऽआ॒कू॒तम्। च॒। यत्। हृ॒दि। मा। ए॒षा॒म्। उत्। शे॒षि॒। किम्। च॒न। र॒दि॒ते। अ॒र्बु॒दे॒। तव॑। ११.१३। 
+मुह्य॑न्तु। ए॒षा॒म्। बा॒हवः॑। चि॒त्त॒ऽआ॒कू॒तम्। च॒। यत्। हृ॒दि। मा। ए॒षा॒म्। उत्। शे॒षि॒। किम्। च॒न। र॒दि॒ते। अ॒र्बु॒दे॒। तव॑। ११.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Let those mens' arms grow faint and weak, dull be the purpose of their heart; An
 
 टिप्पणी:   १३−(मुह्यन्तु) मूढा निरर्थका भवन्तु (एषाम्) शत्रूणाम् (बाहवः) (चित्ताकूत्तम्) म० १। विचाराणां सङ्कल्पानां च समाहारः (च) (यत्) (हृदि) हृदये (एषाम्) (मा उच्छेषि) शिष्लृ विशेषणे-कर्मणि लुङ्। अवशिष्टं मा भूत् (किंचन) तत् किमपि। अन्यद् गतम्-म० ७ ॥
 </details>
-

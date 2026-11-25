@@ -22,9 +22,15 @@ compare ii. 4. 6, which is nearly the same.
 This counteracts the sorceress, this banishes malignity: Then may victorious Jangida's prolong the days we have to live.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+कृ॑त्या॒दूष॑ण ए॒वायमथो॑ अराति॒दूष॑णः।  
+अथो॒ सह॑स्वाञ्जङ्गि॒डः प्र ण॒ आयूं॑षि तारिषत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कृ॒त्या॒ऽदूष॑णः। ए॒व। अ॒यम्। अथो॒ इति॑। अ॒रा॒ति॒ऽदूष॑णः। अथो॒ इति॑। सह॑स्वान्। ज॒ङ्गि॒डः। प्र। नः॒। आयूं॑षि। ता॒रि॒ष॒त्। ३४.४। 
+कृ॒त्या॒ऽदूष॑णः। ए॒व। अ॒यम्। अथो॒ इति॑। अ॒रा॒ति॒ऽदूष॑णः। अथो॒ इति॑। सह॑स्वान्। ज॒ङ्गि॒डः। प्र। नः॒। आयूं॑षि। ता॒रि॒ष॒त्। ३४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ This counteracts the sorceress, this banishes malignity: Then may victorious Jan
 
 टिप्पणी:   यह मन्त्र कुछ भेद से आ चुका है-अ०२।४।६॥४−(कृत्यादूषणः) पीडानां खण्डयिता (एव) (अयम्) प्रसिद्धः (अथो) अपि च (अरातिदूषणः) अदानशीलताया नाशकः (अथो) (सहस्वान्) बलवान् (जङ्गिडः) म०१। संचारक औषधविशेषः (नः) अस्माकम् (आयूंषि) जीवनानि (प्र तारिषत्) प्रवर्धयेत् ॥
 </details>
-

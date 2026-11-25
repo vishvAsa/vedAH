@@ -5,7 +5,6 @@ title = "१४ अमावास्या चपौर्णमासी"
 
 <details><summary>Whitney</summary>
 
-
 **f.** ⌊14.⌋ both new moon and full  
 moon the two footmen, mind the etc. etc.
 </details>
@@ -13,6 +12,11 @@ moon the two footmen, mind the etc. etc.
 <details><summary>Griffith</summary>
 
 New Moon Night and Full Moon Night are his running attendants, Mind, etc. as in stanza 1.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑मावा॒स्या᳡ चपौर्णमा॒सी च॑ परिष्क॒न्दौ मनो॑ विप॒थम्।
 </details>
 
 <details><summary>पदपाठः</summary>

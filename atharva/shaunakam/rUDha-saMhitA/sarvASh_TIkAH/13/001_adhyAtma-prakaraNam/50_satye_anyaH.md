@@ -19,9 +19,15 @@ adds another pāda: *satye adbhis samāhitaḥ*.
 One is deposited in Truth, one kindled in the waters: both Agnis of Rohita who found the light are set aflame with prayer.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒त्ये अ॒न्यः स॒माहि॑तो॒ऽप्स्व१॒॑न्यः समि॑ध्यते।  
+ब्रह्मे॑द्धाव॒ग्नी ई॑जाते॒ रोहि॑तस्य स्व॒र्विदः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒त्ये। अ॒न्यः। स॒म्ऽआहि॑तः। अ॒प्ऽसु। अ॒न्यः। सम्। इ॒ध्य॒ते॒। ब्रह्म॑ऽइध्दौ। अ॒ग्नी इति॑। ई॒जा॒ते॒ इति॑। रोहि॑तस्य। स्वः॒ऽविदः॑। १.५०। 
+स॒त्ये। अ॒न्यः। स॒म्ऽआहि॑तः। अ॒प्ऽसु। अ॒न्यः। सम्। इ॒ध्य॒ते॒। ब्रह्म॑ऽइध्दौ। अ॒ग्नी इति॑। ई॒जा॒ते॒ इति॑। रोहि॑तस्य। स्वः॒ऽविदः॑। १.५०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ One is deposited in Truth, one kindled in the waters: both Agnis of Rohita who f
 
 टिप्पणी:   ५०−(सत्ये) नित्यत्वे (अन्यः) एकः परमाणुरूपः पदार्थः (समाहितः) यथावत् स्थापितः (अप्सु) प्रजासु (अन्यः) कार्यरूपः पदार्थः (समिध्यते) यथाविधि दीप्यते। अन्यत् पूर्ववत्-म० ४९ ॥
 </details>
-

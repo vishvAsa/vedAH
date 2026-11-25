@@ -20,9 +20,14 @@ supplement to the minor Lex., iii. 250 c⌋.
 Thus or otherwise let her swallow him up.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒वाने॒वाव॒ साग॑रत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒व। अने॑व। अव॑। सा। ग॒र॒त्। ७.४। 
+ए॒व। अने॑व। अव॑। सा। ग॒र॒त्। ७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ Thus or otherwise let her swallow him up.
 
 टिप्पणी:   ४−(एव) एवम्। अनेन प्रकारेण (अनेव)अनेवम्। अन्यप्रकारेण (सा) न्यायव्यवस्था (अव गरत्) विनाशयेत् ॥
 </details>
-

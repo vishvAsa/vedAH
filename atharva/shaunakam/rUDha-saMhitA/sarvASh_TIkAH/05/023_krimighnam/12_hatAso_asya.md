@@ -17,9 +17,15 @@ that are petty, as it were—all those worms are slain.
 Of every worm and insect, of the female and the male alike, I crush the head to pieces with a stone and burn the face with fire.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ह॒तासो॑ अस्य वे॒शसो॑ ह॒तासः॒ परि॑वेशसः।  
+अथो॒ ये क्षु॑ल्ल॒का इ॑व॒ सर्वे॒ ते क्रिम॑यो ह॒ताः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ह॒तासः॑। अ॒स्य॒। वेशसः॑। ह॒तासः॑। परि॑ऽवेशसः। अथो॒ इति॑। ये। क्षु॒ल्ल॒काःऽइ॑व। सर्वे॑। ते। क्रिम॑यः। ह॒ताः। २३.१२। 
+ह॒तासः॑। अ॒स्य॒। वेशसः॑। ह॒तासः॑। परि॑ऽवेशसः। अथो॒ इति॑। ये। क्षु॒ल्ल॒काःऽइ॑व। सर्वे॑। ते। क्रिम॑यः। ह॒ताः। २३.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Of every worm and insect, of the female and the male alike, I crush the head to 
 
 टिप्पणी:   १२−यथा−अ० २।३२।५। (हतासः) हताः (वेशसः) प्रवेशकाः। मुख्यसेवकाः (परिवेशसः) परितः स्थिताः। अनुचरा (अथो) अपि च (क्षुल्लकाः) क्षुदिर् सम्पेषणे−क्विप्+लक प्राप्तौ−अच्। सूक्ष्माकाराः क्षुद्रजन्तवः ॥
 </details>
-

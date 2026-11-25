@@ -8,9 +8,15 @@ title = "०६ स मन्दस्वा"
 Delight thee with the juice we pour for thine own great munificence: Yield not thy singer to reproach.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स म॑न्दस्वा॒ ह्यन्ध॑सो॒ राध॑से त॒न्वा᳡ म॒हे।  
+न स्तो॒तारं॑ नि॒दे क॑रः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। म॒न्द॒स्व॒। हि। अन्ध॑सः। राध॑से। त॒न्वा॑। म॒हे। न। स्तो॒तार॑म्। नि॒दे। क॒रः॒। २३.६। 
+सः। म॒न्द॒स्व॒। हि। अन्ध॑सः। राध॑से। त॒न्वा॑। म॒हे। न। स्तो॒तार॑म्। नि॒दे। क॒रः॒। २३.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Delight thee with the juice we pour for thine own great munificence: Yield not t
 
 टिप्पणी:   ६−(सः) स त्वम् (मन्दस्व) आनन्द (हि) अवश्यम् (अन्धसः) अन्नात् (राधसे) संसाधकाय धनाय (तन्वा) शरीरेण (महे) महते (न) निषेधे (स्तोतारम्) स्तावकं विद्वांसम् (निदे) णिदि कुत्सायाम्-क्विप्, नुमभावः। निन्दायै (करः) करोतेर्लेटि, अडागमः। कुर्याः ॥
 </details>
-

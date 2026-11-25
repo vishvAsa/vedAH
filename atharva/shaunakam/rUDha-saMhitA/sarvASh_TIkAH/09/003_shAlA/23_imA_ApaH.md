@@ -19,9 +19,15 @@ of that hymn) reads in **a** *harāmi*, and in **c** *abhi* (for *upa*).
 Water that kills Consumption, free from all Consumption, here I bring. With Agni, the immortal one, I enter and possess the house.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒मा आपः॒ प्र भ॑राम्यय॒क्ष्मा य॑क्ष्म॒नाश॑नीः।  
+गृ॒हानुप॒ प्र सी॑दाम्य॒मृते॑न स॒हाग्निना॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒माः। आपः॑। प्र। भ॒रा॒मि॒। अ॒य॒क्ष्माः। य॒क्ष्म॒ऽनाश॑नीः। गृ॒हान्। उप॑। प्र। सी॒दा॒मि॒। अ॒मृते॑न। स॒ह। अ॒ग्निना॑। ३.२३। 
+इ॒माः। आपः॑। प्र। भ॒रा॒मि॒। अ॒य॒क्ष्माः। य॒क्ष्म॒ऽनाश॑नीः। गृ॒हान्। उप॑। प्र। सी॒दा॒मि॒। अ॒मृते॑न। स॒ह। अ॒ग्निना॑। ३.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Water that kills Consumption, free from all Consumption, here I bring. With Agni
 
 टिप्पणी:   २३-अयं मन्त्रो व्याख्यातः-अ० ३।१२।९ ॥
 </details>
-

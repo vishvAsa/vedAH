@@ -8,9 +8,15 @@ title = "०३ अग्ने देवाँ"
 Bring the Gods hither, Agni, born for him who strews the sacred grass. Thou art our herald, meet for praise.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॑ दे॒वाँ इ॒हा व॑ह जज्ञा॒नो वृ॒क्तब॑र्हिषे।  
+असि॒ होता॑ न॒ ईड्यः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। दे॒वान्। इ॒ह। आ। व॒ह॒। ज॒ज्ञा॒नः। वृ॒क्तऽब॑र्हिषे। असि॑। होता॑। नः॒। ईड्यः॑। १०१.३। 
+अग्ने॑। दे॒वान्। इ॒ह। आ। व॒ह॒। ज॒ज्ञा॒नः। वृ॒क्तऽब॑र्हिषे। असि॑। होता॑। नः॒। ईड्यः॑। १०१.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Bring the Gods hither, Agni, born for him who strews the sacred grass. Thou art 
 
 टिप्पणी:   ३−(अग्ने) हे विद्युत्सूर्यपार्थिवाग्निरूप (देवान्) दिव्यपदार्थान् (इह) (आ वह) प्रापय (जज्ञानः) प्रादुर्भूतः सन् (वृक्तबर्हिषे) अ० २०।२।१। त्यक्तहिंसाय विदुषे (असि) (होता) धनस्य दाता (नः) अस्मभ्यम् (ईड्यः) अध्येष्टव्यः ॥
 </details>
-

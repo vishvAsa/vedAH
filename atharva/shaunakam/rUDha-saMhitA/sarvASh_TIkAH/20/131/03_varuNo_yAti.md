@@ -8,9 +8,14 @@ title = "०३ वरुणो याति"
 Varuna with the Vasus goes:
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वरु॑णो॒ याति॒ वस्व॑भिः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वरू॑णः॒। याति॒। वस्व॑भिः। १३१.३। 
+वरू॑णः॒। याति॒। वस्व॑भिः। १३१.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Varuna with the Vasus goes:
 
 टिप्पणी:   ३−(वरुणः) श्रेष्ठः। धनी पुरुषः (याति) गच्छति (वस्वभिः) वसुभिः। श्रेष्ठवस्तुभिः ॥
 </details>
-

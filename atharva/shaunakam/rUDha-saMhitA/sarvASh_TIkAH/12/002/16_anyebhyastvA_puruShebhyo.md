@@ -23,9 +23,15 @@ is easily read into a regular *anuṣṭubh*.
 We drive thee forth to other folk, to alien cattle, alien steeds, Thee the corpse-eating Agni, thee the Agni who bewilders men,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अन्ये॑भ्यस्त्वा॒ पुरु॑षेभ्यो॒ गोभ्यो॒ अश्वे॑भ्यस्त्वा।  
+निः क्र॒व्यादं॑ नुदामसि॒ यो अ॒ग्निर्जी॑वित॒योप॑नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अन्ये॑भ्यः। त्वा॒। पुरु॑षेभ्यः। गोभ्यः॑। अश्वे॑भ्यः। त्वा॒। निः। क्र॒व्य॒ऽअद॑म्। नु॒दा॒म॒सि॒। यः। अ॒ग्निः। जी॒वि॒त॒ऽयोप॑नः। २.१६। 
+अन्ये॑भ्यः। त्वा॒। पुरु॑षेभ्यः। गोभ्यः॑। अश्वे॑भ्यः। त्वा॒। निः। क्र॒व्य॒ऽअद॑म्। नु॒दा॒म॒सि॒। यः। अ॒ग्निः। जी॒वि॒त॒ऽयोप॑नः। २.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ We drive thee forth to other folk, to alien cattle, alien steeds, Thee the corps
 
 टिप्पणी:   १६−(अन्येभ्यः) माछाशसिभ्यो यः। उ० ४।१०९। अन जीवने−यः। जीवद्भ्यः (त्वा) दुष्टम् (पुरुषेभ्यः) (गोभ्यः) (अश्वेभ्यः) (त्वा) (क्रव्यादम्) मांसभक्षकम् (निर्णुदामसि) निर्गमयामः (यः) (अग्निः) अग्निवत्सन्तापकः पुरुषः (जीवितयोपनः) जीवनविमोहकः ॥
 </details>
-

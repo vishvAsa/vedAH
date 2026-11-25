@@ -21,9 +21,15 @@ here), and conjecture it to mean 'pricking pains.'
 The penetrating stabs of pain which rend asunder crown and head, Let them depart and pass away, free from disease and harming not.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+याः सी॒मानं॑ विरु॒जन्ति॑ मू॒र्धानं॒ प्रत्य॑र्ष॒णीः।  
+अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। सी॒मान॑म्। वि॒ऽरु॒जन्ति॑। मू॒र्धान॑म्। प्रति॑। अ॒र्ष॒णीः। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१३। 
+याः। सी॒मान॑म्। वि॒ऽरु॒जन्ति॑। मू॒र्धान॑म्। प्रति॑। अ॒र्ष॒णीः। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ The penetrating stabs of pain which rend asunder crown and head, Let them depart
 
 टिप्पणी:   १३−(याः) (सीमानम्) नामन्सीमन्व्योमन्०। उ० ४।१५१। षिञ् बन्धने-मनिन्। मस्तकभागम्। कपालम् (विरुजन्ति) विदारयन्ति (मूर्धानम्) मस्तकम् (प्रति) प्रतिगत्य (अर्षणीः) सुयुरुवृणो युच्। उ० २।७४। ऋष गतौ-युच्, ङीप्। धावन्त्यः। महापीडाः (अहिंसन्तीः) अनाशयन्त्यः (अनामयाः) रोगरहिताः। अन्यत् पूर्ववत् ॥
 </details>
-

@@ -17,9 +17,14 @@ title = "१४ सोदक्रामत्सान्तरिक्षे 
 With the Rathantara the Gods milked from her the Plants, and all the wide expanse with Brihat.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोद॑क्राम॒त्सान्तरि॑क्षे चतु॒र्धा विक्रा॑न्तातिष्ठत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अ॒क्रा॒म॒त्। सा। अ॒न्तरि॑क्षे। च॒तुः॒ऽधा। विऽक्रा॑न्ता। अ॒ति॒ष्ठ॒त्। ११.१। 
+सा। उत्। अ॒क्रा॒म॒त्। सा। अ॒न्तरि॑क्षे। च॒तुः॒ऽधा। विऽक्रा॑न्ता। अ॒ति॒ष्ठ॒त्। ११.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ With the Rathantara the Gods milked from her the Plants, and all the wide expans
 
 टिप्पणी:   १−(सा) विराट् (अन्तरिक्षे) आकाशे (चतुर्धा) चतुष्प्रकारेण। चतसृषु दिक्षु (विक्रान्ता) विक्रामयुक्ता, पराक्रमिणी (अतिष्ठत्) स्थितवती ॥
 </details>
-

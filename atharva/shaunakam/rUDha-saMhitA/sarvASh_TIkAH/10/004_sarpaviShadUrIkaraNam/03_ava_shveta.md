@@ -29,9 +29,15 @@ called *upariṣṭād bṛhatī*.
 Strike out, white courser! with thy foot, strike both with fore and hinder foot, Stay the dire poison of the Snakes, and make it weak as soaking wood.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अव॑ श्वेत प॒दा ज॑हि॒ पूर्वे॑ण॒ चाप॑रेण च।  
+उ॑दप्लु॒तमि॑व॒ दार्वही॑नामर॒सं वि॒षं वारु॒ग्रम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अव॑। श्वे॒त॒। प॒दा। ज॒हि॒। पूर्वे॑ण। च॒। अप॑रेण। च॒। उ॒दप्लु॒तम्ऽइ॑व। दारु॑। अही॑नाम्। अ॒र॒सम्। वि॒षम्। वाः। उ॒ग्रम्। ४.३। 
+अव॑। श्वे॒त॒। प॒दा। ज॒हि॒। पूर्वे॑ण। च॒। अप॑रेण। च॒। उ॒दप्लु॒तम्ऽइ॑व। दारु॑। अही॑नाम्। अ॒र॒सम्। वि॒षम्। वाः। उ॒ग्रम्। ४.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,4 +67,3 @@ Strike out, white courser! with thy foot, strike both with fore and hinder foot,
 
 टिप्पणी:   ३−(श्वेत) हसिमृग्रिण्० उ० ३।८६। टुओश्वि गतिवृद्ध्योः-तन्। हे प्रवृद्ध। मनुष्य (पदा) पादेन (अव जहि) विनाशय (पूर्वेण) अग्रभागेन (च) (अपरेण) पश्चाद् भागेन (उदप्लुतम्) जले सृप्तम् (इव) (दारु) काष्ठम् (अहीनाम्) म० १। सर्पाणाम् (अरसम्) सारहीनम् (विषम्) गरलम् (वाः) जलम् (उग्रम्) क्रूरम् ॥
 </details>
-

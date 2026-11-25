@@ -90,9 +90,14 @@ but of the Old Anukr. or *Pañcapaṭalikā*. as well.⌋
 The Odana has just eaten the Odana. 2
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ओ॑द॒न ए॒वौद॒नं प्राशी॑त् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ओ॒द॒नः। ए॒व। ओ॒द॒नम्। प्र। आ॒शी॒त्। ३.३१। 
+ओ॒द॒नः। ए॒व। ओ॒द॒नम्। प्र। आ॒शी॒त्। ३.३१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -122,4 +127,3 @@ The Odana has just eaten the Odana. 2
 
 टिप्पणी:   ३१−(ओदनः) सुखवर्षकोऽन्नरूपः परमात्मा (एव) (ओदनम्) सुखवर्षकमन्नरूपं स्थूलं जगत् (प्राशीत्) भक्षितवान् ॥
 </details>
-

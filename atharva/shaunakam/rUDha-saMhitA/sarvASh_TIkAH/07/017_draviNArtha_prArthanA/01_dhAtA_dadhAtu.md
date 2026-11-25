@@ -21,9 +21,15 @@ only **a** (with *dadhātu*), combining it with our 2 **b-d**.
 May the Ordainer give us wealth, Lord, ruler of the world of life: with full hand may he give to us.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+धा॒ता द॑धातु नो र॒यिमीशा॑नो॒ जग॑त॒स्पतिः॑।  
+स नः॑ पू॒र्णेन॑ यच्छतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-धा॒ता। द॒धा॒तु॒। नः॒। र॒यिम्। ईशा॑नः। जग॑तः। पतिः॑। सः। नः॒। पू॒र्णेन॑। य॒च्छ॒तु॒। १८.१। 
+धा॒ता। द॒धा॒तु॒। नः॒। र॒यिम्। ईशा॑नः। जग॑तः। पतिः॑। सः। नः॒। पू॒र्णेन॑। य॒च्छ॒तु॒। १८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ May the Ordainer give us wealth, Lord, ruler of the world of life: with full han
 
 टिप्पणी:   १−(धाता) सर्वस्य विधाता-निरु० ११।१०। सृष्टिकर्ता (दधातु) ददातु (नः) अस्मभ्यम् (रयिम्) धनम् (ईशानः) ईश्वरः (जगतः) (पतिः) पालकः (सः) धाता (नः) अस्मान् (पूर्णेन) समस्तेन बलेन (यच्छतु) यम-लोट्। उद्यच्छतु। उन्नयतु ॥
 </details>
-

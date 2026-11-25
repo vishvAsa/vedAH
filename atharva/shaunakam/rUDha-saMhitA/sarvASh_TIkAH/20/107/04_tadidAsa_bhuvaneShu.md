@@ -8,9 +8,15 @@ title = "०४ तदिदास भुवनेषु"
 In all the worlds That was the best and highest whence sprang the mighty God, of splendid valour. As soon as born he overcomes his foemen, he in whom all who lend him aid are joyful.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तदिदा॑स॒ भुव॑नेषु॒ ज्येष्ठं॒ यतो॑ ज॒ज्ञ उ॒ग्रस्त्वे॒षनृ॑म्णः।  
+स॒द्यो ज॑ज्ञा॒नो नि रि॑णाति॒ शत्रू॒ननु॒ यदे॑नं॒ मद॑न्ति॒ विश्व॒ ऊमाः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तत्। इत्। आ॒स॒। भुव॑नेषु। ज्येष्ठ॑म्। यतः॑। ज॒ज्ञे। उ॒ग्रः। त्वे॒षऽनृ॑म्णः। स॒द्यः। ज॒ज्ञा॒नः। नि। रि॒णा॒ति॒। शत्रू॑न्। अनु॑। यत्। ए॒न॒म्। मद॑न्ति। विश्वे॑। ऊमाः॑। १०७.४। 
+तत्। इत्। आ॒स॒। भुव॑नेषु। ज्येष्ठ॑म्। यतः॑। ज॒ज्ञे। उ॒ग्रः। त्वे॒षऽनृ॑म्णः। स॒द्यः। ज॒ज्ञा॒नः। नि। रि॒णा॒ति॒। शत्रू॑न्। अनु॑। यत्। ए॒न॒म्। मद॑न्ति। विश्वे॑। ऊमाः॑। १०७.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ In all the worlds That was the best and highest whence sprang the mighty God, of
 
 टिप्पणी:   मन्त्र ४-१२ आ चुके हैं-अथ० ।२।१-९ ॥  ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
-

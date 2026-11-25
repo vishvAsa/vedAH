@@ -18,9 +18,15 @@ Some of the mss. (P.M.E.) read in **c** *aty akṣad* (K. *akṣyad*).
 Come with the Sun, come hitherward with every creature that hath eyes, Bearing auspicious lights with her the Cow hath looked across the sea.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सं हि सूर्ये॑णागत॒ समु॒ सर्वे॑ण॒ चक्षु॑षा।  
+व॒शा स॑मु॒द्रमत्य॑ख्यद्भ॒द्रा ज्योतीं॑षि॒ बिभ्र॑ती ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। हि। सूर्ये॑ण। अग॑त। सम्। ऊं॒ इति॑। सर्वे॑ण। चक्षु॑षा। व॒शा। स॒मु॒द्रम्। अति॑। अ॒ख्य॒त्। भ॒द्रा। ज्योतीं॑षि। बिभ्र॑ती। १०.१५। 
+सम्। हि। सूर्ये॑ण। अग॑त। सम्। ऊं॒ इति॑। सर्वे॑ण। चक्षु॑षा। व॒शा। स॒मु॒द्रम्। अति॑। अ॒ख्य॒त्। भ॒द्रा। ज्योतीं॑षि। बिभ्र॑ती। १०.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Come with the Sun, come hitherward with every creature that hath eyes, Bearing a
 
 टिप्पणी:   १५−(सूर्येण) सूर्यमण्डलेन (चक्षुषा) दर्शनशक्त्या (अति) अत्यन्तम् (अख्यत्) चक्षिङ् व्यक्तायां वाचि दर्शने च। प्रकाशितवती (भद्रा) श्रेष्ठानि (ज्योतींषि) प्रकाशान्। अन्यत् पूर्ववत् ॥
 </details>
-

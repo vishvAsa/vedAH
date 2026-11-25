@@ -18,9 +18,15 @@ Ppp. has at the end *vadhāis* instead of *mahīm*.
 The Visve Devas from above shall come depressing it with might, And in the midst the Angirases, slaying the mighty host, shall go.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+विश्वे॑ दे॒वा उ॒परि॑ष्टादु॒ब्जन्तो॑ य॒न्त्वोज॑सा।  
+मध्ये॑न॒ घ्नन्तो॑ यन्तु॒ सेना॒मङ्गि॑रसो म॒हीम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-विश्वे॑। दे॒वाः। उ॒परि॑ष्टात्। उ॒ब्जन्तः॑। य॒न्तु॒। ओज॑सा। मध्ये॑न। घ्नन्तः॑। य॒न्तु॒। सेना॑म्। अङ्गि॑रसः। म॒हीम्। ८.१३। 
+विश्वे॑। दे॒वाः। उ॒परि॑ष्टात्। उ॒ब्जन्तः॑। य॒न्तु॒। ओज॑सा। मध्ये॑न। घ्नन्तः॑। य॒न्तु॒। सेना॑म्। अङ्गि॑रसः। म॒हीम्। ८.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ The Visve Devas from above shall come depressing it with might, And in the midst
 
 टिप्पणी:   १३−(विश्वे) सर्वे (देवाः) विजिगीषवः (उपरिष्टात्) उपरिस्थानात् (उब्जन्तः) उब्ज आर्जवे-शतृ। ऋजवः सन्तः (यन्तु) गच्छन्तु (ओजसा) (मध्येन) मध्यदेशेन (घ्नन्तः) मारयन्तः (सेनाम्) (अङ्गिरसः) अ० २।१२।४। महाज्ञानिनः (महीम्) विशालाम् ॥
 </details>
-

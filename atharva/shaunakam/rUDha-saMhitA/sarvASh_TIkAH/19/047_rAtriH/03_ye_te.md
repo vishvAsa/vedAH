@@ -33,9 +33,15 @@ in **c** would be a welcome addition to both meter and sense.
 Thy ninety-nine examiners, O Night, who look upon mankind, Eighty-and-eight in number, or seven-and-seventy are they.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये ते॑ रात्रि नृ॒चक्ष॑सो द्र॒ष्टारो॑ नव॒तिर्नव॑।  
+अ॑शी॒तिः सन्त्य॒ष्टा उ॒तो ते॑ स॒प्त स॑प्त॒तिः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। ते॒। रा॒त्रि॒। नृ॒ऽचक्ष॑सः। द्र॒ष्टारः॑। न॒व॒तिः। नव॑। अ॒शी॒तिः। सन्ति॑। अ॒ष्टौ। उ॒तो इति॑। ते॒। स॒प्त। स॒प्त॒तिः। ४७.३। 
+ये। ते॒। रा॒त्रि॒। नृ॒ऽचक्ष॑सः। द्र॒ष्टारः॑। न॒व॒तिः। नव॑। अ॒शी॒तिः। सन्ति॑। अ॒ष्टौ। उ॒तो इति॑। ते॒। स॒प्त। स॒प्त॒तिः। ४७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -65,4 +71,3 @@ Thy ninety-nine examiners, O Night, who look upon mankind, Eighty-and-eight in n
 
 टिप्पणी:   ३−(ये) (ते) तव (रात्रि) हे रात्रि (नृचक्षसः) मनुष्येषु दृष्टियुक्ताः (द्रष्टारः) दर्शकाः। रक्षकाः (नवतिर्नव) नवोत्तरनवतिसंख्याकाः (अशीतिः अष्टौ) अष्टोत्तराशीतिसंख्याकाः (सन्ति) भवन्ति (उतो) अधि च (सप्ततिः सप्त) सप्तोत्तरसप्ततिसंख्याकाः ॥
 </details>
-

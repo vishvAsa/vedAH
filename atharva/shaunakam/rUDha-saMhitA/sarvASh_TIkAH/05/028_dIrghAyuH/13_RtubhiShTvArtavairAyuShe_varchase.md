@@ -34,9 +34,15 @@ foolishly calls the verse a *purauṣṇih*.
 With Seasons and with Lengths of Time, for vigour and exten- ded life, With all the splendour of the Sun we fasten thee about the neck.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ऋ॒तुभि॑ष्ट्वार्त॒वैरायु॑षे॒ वर्च॑से त्वा।  
+सं॑वत्स॒रस्य॒ तेज॑सा॒ तेन॒ संह॑नु कृण्मसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ऋ॒तुऽभिः॑। त्वा॒। आ॒र्त॒वैः। आयु॑षे। वर्च॑से। त्वा॒। स॒म्ऽव॒त्स॒रस्य॑। तेज॑सा। तेन॑। सम्ऽह॑नु। कृ॒ण्म॒सि॒। २८.१३। 
+ऋ॒तुऽभिः॑। त्वा॒। आ॒र्त॒वैः। आयु॑षे। वर्च॑से। त्वा॒। स॒म्ऽव॒त्स॒रस्य॑। तेज॑सा। तेन॑। सम्ऽह॑नु। कृ॒ण्म॒सि॒। २८.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -66,4 +72,3 @@ With Seasons and with Lengths of Time, for vigour and exten- ded life, With all 
 
 टिप्पणी:   १३−(ऋतुभिः) वसन्तादिकालविशेषैः (त्वा) ब्रह्म। परमेश्वरम् (आर्तवैः) ऋतुविभागैः (आयुषे) जीवनवर्धनाय (वर्चसे) तेजःप्राप्तये (त्वा) (संवत्सरस्य) अ० १।३५।४। सम्यग्निवासकस्य सूर्यस्य (तेजसा) प्रकाशेन (तेन) प्रसिद्धेन (संहनु) शॄस्वृस्निहि०। उ० १।१०। इति हन हिंसागत्योः−उ। संगतम्। संयुक्तम् (कृण्मसि) कुर्मः ॥
 </details>
-

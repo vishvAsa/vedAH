@@ -25,9 +25,15 @@ The second half-verse is identical with 7 **c, d** above. Ppp. has, for
 That is the third light that is yours, ye Fathers. He gives the Goat Panchaudana to the Brahman. Given in this world by the devout believer, the Goat dispels and drives afar the darkness.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒तद्वो॒ ज्योतिः॑ पितरस्तृ॒तीयं॒ पञ्चौ॑दनं ब्र॒ह्मणे॒ऽजं द॑दाति।  
+अ॒जस्तमां॒स्यप॑ हन्ति दू॒रम॒स्मिंल्लो॒के श्र॒द्दधा॑नेन द॒त्तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒तत्। वः॒। ज्योतिः॑। पि॒त॒रः॒। तृ॒तीय॑म्। पञ्च॑ऽओदनम्। ब्र॒ह्मणे॑। अ॒जम्। द॒दा॒ति॒। अ॒जः। तमां॑स‍ि। अ॑प। ह॒न्ति॒। दू॒रम्। अ॒स्मिन्। लो॒के। श्र॒त्ऽदधा॑नेन। द॒त्तः। ५.११। 
+ए॒तत्। वः॒। ज्योतिः॑। पि॒त॒रः॒। तृ॒तीय॑म्। पञ्च॑ऽओदनम्। ब्र॒ह्मणे॑। अ॒जम्। द॒दा॒ति॒। अ॒जः। तमां॑स‍ि। अ॑प। ह॒न्ति॒। दू॒रम्। अ॒स्मिन्। लो॒के। श्र॒त्ऽदधा॑नेन। द॒त्तः। ५.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ That is the third light that is yours, ye Fathers. He gives the Goat Panchaudana
 
 टिप्पणी:   ११−(एतत्) सर्वत्र वर्तमानम् (वः) युष्मदर्थम् (ज्योतिः) प्रकाशस्वरूपं ब्रह्म (पितरः) हे पालका विद्वांसः (तृतीयम्) जीवप्रकृतिभ्यां भिन्नम् (पञ्चौदनम्) म० ८। पञ्चभिर्भूतैः सिक्तम् (ब्रह्मणे) वेदज्ञानाय (अजम्) म० १। जीवात्मानम् (ददाति) प्रयच्छति। अग्रे व्याख्यातम्-म० ७ ॥
 </details>
-

@@ -20,9 +20,15 @@ variants etc., see the note to that verse.
 Let not a thief or wicked man possess you: let not the dart of Rudra come anear you, Prolific, shining in the goodly pasture, drinking at pleasant pools the limpid water.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒जाव॑तीः सू॒यव॑से रु॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः।  
+मा व॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒जाऽव॑तीः। सु॒ऽयव॑से। रु॒शन्तीः॑। शु॒ध्दाः। अ॒पः। सु॒ऽप्र॒पा॒ने। पिब॑न्तीः। मा। वः॒। स्ते॒नः। ई॒श॒त॒। मा। अ॒घऽशं॑सः। परि॑। वः॒। रु॒द्रस्य॑। हे॒तिः। वृ॒ण॒क्तु॒। ७९.१। 
+प्र॒जाऽव॑तीः। सु॒ऽयव॑से। रु॒शन्तीः॑। शु॒ध्दाः। अ॒पः। सु॒ऽप्र॒पा॒ने। पिब॑न्तीः। मा। वः॒। स्ते॒नः। ई॒श॒त॒। मा। अ॒घऽशं॑सः। परि॑। वः॒। रु॒द्रस्य॑। हे॒तिः। वृ॒ण॒क्तु॒। ७९.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Let not a thief or wicked man possess you: let not the dart of Rudra come anear 
 
 टिप्पणी:   १-शब्दार्थो यथा, अ० ४।२१।७ ॥
 </details>
-

@@ -18,14 +18,20 @@ This verse is a repetition of 39. 3 above.
 Indra and Agni were renowned, famous was Soma at his birth; So too am I illustrious, most glorious of all that is.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-य॒शाः। इन्द्रः॑। य॒शाः। अ॒ग्निः। य॒शाः। सोमः॑। अ॒जा॒य॒त॒। य॒शाः। विश्व॑स्य। भू॒तस्य॑। अ॒हम्। अ॒स्मि॒। य॒शःऽत॑मः। ५८.३। 
+य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत।  
+य॒शा विश्व॑स्य भू॒तस्या॒हम॑स्मि य॒शस्त॑मः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-य॒शाः। इन्द्रः॑। य॒शाः। अ॒ग्निः। य॒शाः। सोमः॑। अ॒जा॒य॒त॒। य॒शाः। विश्व॑स्य। भू॒तस्य॑। अ॒हम्। अ॒स्मि॒। य॒शःऽत॑मः। ५८.३। 
+य॒शाः। इन्द्रः॑। य॒शाः। अ॒ग्निः। य॒शाः। सोमः॑। अ॒जा॒य॒त॒। य॒शाः। विश्व॑स्य। भू॒तस्य॑। अ॒हम्। अ॒स्मि॒। य॒शःऽत॑मः। ५८.३।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+य॒शाः। इन्द्रः॑। य॒शाः। अ॒ग्निः। य॒शाः। सोमः॑। अ॒जा॒य॒त॒। य॒शाः। विश्व॑स्य। भू॒तस्य॑। अ॒हम्। अ॒स्मि॒। य॒शःऽत॑मः। ५८.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -35,4 +41,3 @@ Indra and Agni were renowned, famous was Soma at his birth; So too am I illustri
 - अनुष्टुप्
 - यशः प्राप्ति सूक्त
 </details>
-

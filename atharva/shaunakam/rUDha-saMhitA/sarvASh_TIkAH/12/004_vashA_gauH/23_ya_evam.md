@@ -24,9 +24,15 @@ which favors this understanding of the pāda; it also combines *tasmā
 Whoso to others, not to him who hath this knowledge, gives the Cow, Earth, with the Deities, is hard for him to win and rest upon.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+य ए॒वं वि॒दुषे॑ऽद॒त्त्वाथा॒न्येभ्यो॒ दद॑द्व॒शाम्।  
+दु॒र्गा तस्मा॑ अधि॒ष्ठाने॑ पृथि॒वी स॒हदे॑वता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। ए॒वम्। वि॒दुषे॑। अद॑त्त्वा। अथ॑। अ॒न्येभ्यः॑। दद॑त्। व॒शाम्। दुः॒ऽगा। तस्मै॑। अ॒धि॒ऽस्थाने॑। पृ॒थि॒वी। स॒हऽदे॑वता। ४.२३। 
+यः। ए॒वम्। वि॒दुषे॑। अद॑त्त्वा। अथ॑। अ॒न्येभ्यः॑। दद॑त्। व॒शाम्। दुः॒ऽगा। तस्मै॑। अ॒धि॒ऽस्थाने॑। पृ॒थि॒वी। स॒हऽदे॑वता। ४.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Whoso to others, not to him who hath this knowledge, gives the Cow, Earth, with 
 
 टिप्पणी:   २३−(यः) (एवम्) ईदृग्विधम् (विदुषे) ज्ञानिने (अदत्वा) (अध) पुनः (अन्येभ्यः) दुर्बलेन्द्रियेभ्यः (ददत्) प्रयच्छन् (वशाम्) कमनीयां वेदवाणीम् (दुर्गा) दुष्प्राप्या (तस्मै) अविदुषे (अधिष्ठाने) प्राधान्ये (पृथिवी) (सहदेवता) विद्वद्भिः सहिता ॥
 </details>
-

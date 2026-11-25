@@ -19,9 +19,15 @@ The verse is nearly identical with iii. 6. 7 above. ⌊Ppp. reads in **c**
 Let them drift downward like a boat torn from the rope that held it fast. There is no turning back for those whom our keen arrows have repelled.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ते᳡ध॒राञ्चः॒ प्र प्ल॑वन्तां छि॒न्ना नौरि॑व॒ बन्ध॑नात्।  
+न साय॑कप्रणुत्तानां॒ पुन॑रस्ति नि॒वर्त॑नम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ते। अ॒ध॒राञ्चः॑। प्र। प्ल॒व॒न्ता॒म्। छि॒न्ना। नौःऽइ॑व। बन्ध॑नात्। न। साय॑कऽप्रनुत्तानाम्। पुनः॑। अ॒स्ति॒। नि॒ऽवर्त॑नम्। २.१२। 
+ते। अ॒ध॒राञ्चः॑। प्र। प्ल॒व॒न्ता॒म्। छि॒न्ना। नौःऽइ॑व। बन्ध॑नात्। न। साय॑कऽप्रनुत्तानाम्। पुनः॑। अ॒स्ति॒। नि॒ऽवर्त॑नम्। २.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Let them drift downward like a boat torn from the rope that held it fast. There 
 
 टिप्पणी:   १२−(सायकप्रणुत्तानाम्) बाणैः प्रेरितानाम्। अन्यद् व्याख्यातम् अ० ३।६।७ ॥
 </details>
-

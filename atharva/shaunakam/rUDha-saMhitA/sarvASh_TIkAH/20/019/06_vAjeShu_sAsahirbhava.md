@@ -8,9 +8,15 @@ title = "०६ वाजेषु सासहिर्भव"
 In battles be victorious. We seek thee, Lord of Hundred Powers, O Indra, that the foe may fall.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वाजे॑षु सास॒हिर्भ॑व॒ त्वामी॑महे शतक्रतो।  
+इन्द्र॑ वृ॒त्राय॒ हन्त॑वे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वाजे॑षु। स॒स॒हिः। भ॒व॒। त्वाम्। ई॒म॒हे॒। श॒त॒क्र॒तो॒ इति॑ शतक्रतो। इन्द्र॑। वृ॒त्राय॑। हन्त॑वे। १९.६। 
+वाजे॑षु। स॒स॒हिः। भ॒व॒। त्वाम्। ई॒म॒हे॒। श॒त॒क्र॒तो॒ इति॑ शतक्रतो। इन्द्र॑। वृ॒त्राय॑। हन्त॑वे। १९.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ In battles be victorious. We seek thee, Lord of Hundred Powers, O Indra, that th
 
 टिप्पणी:   ६−(वाजेषु) सङ्ग्रामेषु (सासहिः) षह अभिभवे-किप्रत्ययः। अभिभविता। विजयी (भव) (त्वाम्) (ईमहे) प्रार्थयामहे (शतक्रतो) हे बहुकर्मन्, बहुषह (इन्द्र) (वृत्राय) शत्रुम् (हन्तवे) म० । हन्तुम् ॥
 </details>
-

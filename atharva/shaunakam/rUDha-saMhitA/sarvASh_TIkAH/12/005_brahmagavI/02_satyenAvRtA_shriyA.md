@@ -19,9 +19,14 @@ although, in the apparently parallel case, it divides *pári॰vṛtā*.
 Invested with truth, surrounded with honour, compassed about with glory;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒त्येनावृ॑ता श्रि॒या प्रावृ॑ता॒ यश॑सा॒ परी॑वृता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒त्येन॑। आऽवृ॑ता। श्रि॒या। प्रावृ॑ता। यश॑सा। परि॑ऽवृता। ५.२। 
+स॒त्येन॑। आऽवृ॑ता। श्रि॒या। प्रावृ॑ता। यश॑सा। परि॑ऽवृता। ५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Invested with truth, surrounded with honour, compassed about with glory;
 
 टिप्पणी:   २−(सत्येन) यथार्थनियमेन (आवृता) समन्तात् स्वीकृता (श्रिया) चक्रवर्तिराज्यादिलक्ष्म्या (प्रावृता) प्रकर्षेणाङ्गीकृता (यशसा) कीर्त्या (परीवृता) सर्वतो गृहीता ॥
 </details>
-

@@ -29,9 +29,15 @@ Some of the mss. sum up the book correctly as containing 142 hymns and
 Exhaustless let thine out-turns be, exhaustless be thy gathered heaps, Exhaustless be thy givers, and exhaustless those who eat of thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अक्षि॑तास्त उप॒सदोऽक्षि॑ताः सन्तु रा॒शयः॑।  
+पृ॒णन्तो॒ अक्षि॑ताः सन्त्व॒त्तारः॑ स॒न्त्वक्षि॑ताः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अक्षि॑ताः। ते॒। उ॒प॒ऽसदः॑। अक्षि॑ताः। स॒न्तु॒। रा॒शयः॑। पृ॒णन्तः॑। अक्षि॑ताः। स॒न्तु॒। अ॒त्तारः॑। स॒न्तु॒। अक्षि॑ताः। १४२.३। 
+अक्षि॑ताः। ते॒। उ॒प॒ऽसदः॑। अक्षि॑ताः। स॒न्तु॒। रा॒शयः॑। पृ॒णन्तः॑। अक्षि॑ताः। स॒न्तु॒। अ॒त्तारः॑। स॒न्तु॒। अक्षि॑ताः। १४२.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,4 +67,3 @@ Exhaustless let thine out-turns be, exhaustless be thy gathered heaps, Exhaustle
 
 टिप्पणी:   ३−(अक्षिताः) अक्षीणाः (ते) तव (उपसदः) उपसत्तारः कर्मकराः (सन्तु) (राशयः) अशिपणाय्योरुडायलुकौ च। उ० ४।१३३। अशू व्याप्तौ−इण्, रुट् च। धान्यपुञ्जाः (पृणन्तः) अन्नं पूरयन्तः (अत्तारः) भोक्तारः। अन्यत्पूर्ववत् ॥
 </details>
-

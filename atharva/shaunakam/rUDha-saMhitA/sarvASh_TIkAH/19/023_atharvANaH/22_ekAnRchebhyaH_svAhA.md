@@ -21,9 +21,14 @@ of anything better.
 Hail to the single non-Rich-versed ones!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॑कानृ॒चेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒क॒ऽअ॒नृ॒चेभ्यः॑। स्वाहा॑। २३.२२। 
+ए॒क॒ऽअ॒नृ॒चेभ्यः॑। स्वाहा॑। २३.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ Hail to the single non-Rich-versed ones!
 
 टिप्पणी:   २२−(एकानृचेभ्यः) म०१। नास्ति ऋक् स्तुत्या विद्या यस्याः सकाशादिति अनृचः। एकस्य परमेश्वरस्य अतिशयेन स्तुत्यविद्यायुक्तेभ्यो वेदेभ्यः ॥
 </details>
-

@@ -8,9 +8,15 @@ title = "१७ अक्षीभ्यां ते"
 From both thy nostrils, from thine eyes, from both thine ears and from thy chin, Forth from thy head and brain and tongue I drive thy malady away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒क्षीभ्यां॑ ते॒ नासि॑काभ्यां॒ कर्णा॑भ्यां॒ छुबु॑का॒दधि॑।  
+यक्ष्मं॒ शीर्ष॒ण्यं᳡ म॒स्तिष्का॑ज्जि॒ह्वाया॒ वि वृ॑हामि ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒क्षीभ्या॑म्। ते॒। नासि॑काभ्याम्। कर्णा॑भ्याम्। छुबु॑कात्। अधि॑। यक्ष्म॑म्। शी॒र्ष॒ण्य॑म्। म॒स्तिष्का॑त्। जि॒ह्वायाः॑। वि। वृ॒हा॒मि॒। ते॒। ९६.१७। 
+अ॒क्षीभ्या॑म्। ते॒। नासि॑काभ्याम्। कर्णा॑भ्याम्। छुबु॑कात्। अधि॑। यक्ष्म॑म्। शी॒र्ष॒ण्य॑म्। म॒स्तिष्का॑त्। जि॒ह्वायाः॑। वि। वृ॒हा॒मि॒। ते॒। ९६.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ From both thy nostrils, from thine eyes, from both thine ears and from thy chin,
 
 टिप्पणी:   मन्त्र १७-२३ आ चुके हैं-अ० २।३३।१-७ ॥   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
-

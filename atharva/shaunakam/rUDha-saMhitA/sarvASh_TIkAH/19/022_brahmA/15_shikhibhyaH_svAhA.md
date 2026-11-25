@@ -17,9 +17,14 @@ Here the mss. vary between *śikhíbhyas* and *śiṣíbhyas*.
 To those with hair in tufts, Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शि॒खिभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शि॒खिऽभ्यः॑। स्वाहा॑। २२.१५। 
+शि॒खिऽभ्यः॑। स्वाहा॑। २२.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ To those with hair in tufts, Hail!
 
 टिप्पणी:   १५−(शिखिभ्यः) व्रीह्यादिभ्यश्च। पा०५।२।११६। शिखा-इनि। शिखाधारिभ्यः, यद्वा शिखरयुक्तपर्वतादितुल्योन्नतेभ्यो ब्राह्मणेभ्यः ॥
 </details>
-

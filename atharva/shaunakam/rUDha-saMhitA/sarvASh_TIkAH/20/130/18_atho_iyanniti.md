@@ -8,9 +8,14 @@ title = "१८ अथो इयन्निति"
 again the cry was, Here is he.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अथो॑ इ॒यन्निति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अथो॑। इ॒यन्। इति॑। १३०.१८। 
+अथो॑। इ॒यन्। इति॑। १३०.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ again the cry was, Here is he.
 
 टिप्पणी:   १८−(अथो) अनन्तरम् (इयन्) म० १७। गच्छन् (इति) ॥
 </details>
-

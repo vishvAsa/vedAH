@@ -8,9 +8,14 @@ title = "२० अनामयोपजिह्विका"
 Winged with a falcon's pinion is that harmless swelling of thy tongue. (with previous verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑नाम॒योप॑जि॒ह्विका॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ना॒म॒या। उप॑जि॒ह्विका॑। १२९.२०। 
+अ॒ना॒म॒या। उप॑जि॒ह्विका॑। १२९.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Winged with a falcon's pinion is that harmless swelling of thy tongue. (with pre
 
 टिप्पणी:   २०−(अनामया) वलिमलितनिभ्यः कयन्। उ० ४।९९। अम पीडने चुरा०-कयन्, टाप्। रोगरहिता। (उपजिह्विका) शेवायह्वजिह्वा०। उ० १।१४। जि जये-वन् डुक् च, टाप्। उप उपकारिका जिह्वा वाणी यस्याः सा ॥
 </details>
-

@@ -22,14 +22,20 @@ three variants given above, and **b** with *imam* for *yo mā*, and with
 If one, flesh eater, in a draught of water have wronged me lying in the bed of goblins, Let the Pisachas, etc.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-अ॒पाम्। मा॒। पाने॑। य॒त॒मः। द॒दम्भ॑। क्र॒व्य॒ऽअत्। या॒तू॒नाम्। शय॑ने। शया॑नम्। । २९.८। 
+अ॒पां मा॒ पाने॑ यत॒मो द॒दम्भ॑ क्र॒व्याद्या॑तू॒नां शय॑ने॒ शया॑नम्।  
+तदा॒त्मना॑ प्र॒जया॑ पिशा॒चा वि या॑तयन्तामग॒दो॒३॒॑यम॑स्तु ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-अ॒पाम्। मा॒। पाने॑। य॒त॒मः। द॒दम्भ॑। क्र॒व्य॒ऽअत्। या॒तू॒नाम्। शय॑ने। शया॑नम्। । २९.८। 
+अ॒पाम्। मा॒। पाने॑। य॒त॒मः। द॒दम्भ॑। क्र॒व्य॒ऽअत्। या॒तू॒नाम्। शय॑ने। शया॑नम्। । २९.८।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+अ॒पाम्। मा॒। पाने॑। य॒त॒मः। द॒दम्भ॑। क्र॒व्य॒ऽअत्। या॒तू॒नाम्। शय॑ने। शया॑नम्। । २९.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +45,3 @@ If one, flesh eater, in a draught of water have wronged me lying in the bed of g
 - त्रिष्टुप्
 - रक्षोघ्न सूक्त
 </details>
-

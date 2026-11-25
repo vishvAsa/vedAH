@@ -8,9 +8,15 @@ title = "०६ तत्त्वा यामि"
 I crave of thee that hero strength--that thou mayst first regard this prayer Wherewith thou helpest Bhrigu and the Yatis and Praskanva when the prize was staked.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तत्त्वा॑ यामि सु॒वीर्यं॒ तद्ब्रह्म॑ पू॒र्वचि॑त्तये।  
+येना॒ यति॑भ्यो॒ भृग॑वे॒ धने॑ हि॒ते येन॒ प्रस्क॑ण्व॒मावि॑थ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तत्। त्वा॒। या॒मि॒। सु॒ऽवीर्य॑म्। तत्। ब्रह्म॑। पू॒र्वऽचि॑त्तये। येन॑। यति॑ऽभ्यः। भृग॑वे। धने॑। हि॒ते। येन॑। प्रस्क॑ण्वम्। आवि॑थ। ४९.६। 
+तत्। त्वा॒। या॒मि॒। सु॒ऽवीर्य॑म्। तत्। ब्रह्म॑। पू॒र्वऽचि॑त्तये। येन॑। यति॑ऽभ्यः। भृग॑वे। धने॑। हि॒ते। येन॑। प्रस्क॑ण्वम्। आवि॑थ। ४९.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ I crave of thee that hero strength--that thou mayst first regard this prayer Whe
 
 टिप्पणी:   ४-७−एते मन्त्रा व्याख्याताः-अ० २०।९।१-४ ॥
 </details>
-

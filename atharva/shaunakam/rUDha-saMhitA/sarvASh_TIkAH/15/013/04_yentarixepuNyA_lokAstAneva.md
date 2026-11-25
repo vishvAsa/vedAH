@@ -20,9 +20,14 @@ That is, doubtless, that are especially pure. In **a**, read *vidvā́n*
 A fourth night . . . . the holy realms of the Holy.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये॒३॒॑न्तरि॑क्षे॒पुण्या॑ लो॒कास्ताने॒व तेनाव॑ रुन्द्धे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। अ॒न्तरि॑क्षे। पुण्याः॑। तेन॑। अव॑। रु॒न्ध्दे॒। १३.४। 
+ये। अ॒न्तरि॑क्षे। पुण्याः॑। तेन॑। अव॑। रु॒न्ध्दे॒। १३.४।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -44,4 +49,3 @@ A fourth night . . . . the holy realms of the Holy.
 
 टिप्पणी:   ३, ४−(अन्तरिक्षे)भूलोकसूर्यमध्यवर्तिनि लोके। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

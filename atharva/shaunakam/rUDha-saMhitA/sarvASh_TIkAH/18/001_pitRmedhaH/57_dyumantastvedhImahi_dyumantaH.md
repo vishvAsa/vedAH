@@ -25,9 +25,15 @@ the vs. Here again the comm. reads *havāmahe* for *idhimahi*.⌋
 We, splendid men, deposit thee, we, splendid men, enkindle thee. Splendid, bring splendid Fathers nigh to eat the sacrificial food.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+द्यु॒मन्त॑स्त्वेधीमहि द्यु॒मन्तः॒ समि॑धीमहि।  
+द्यु॒मान्द्यु॑म॒त आ व॑हपि॒तॄन्ह॒विषे॒ अत्त॑वे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द्यु॒ऽमन्तः॑। त्वा॒। इ॒धी॒म॒हि॒। द्यु॒ऽमन्तः॑। सम्। इ॒धी॒म॒हि॒। द्यु॒ऽमान्। द्यु॒ऽम॒त्। आ। व॒ह॒। पि॒तॄन्। ह॒विषे॑। अत्त॑वे। १.५७। 
+द्यु॒ऽमन्तः॑। त्वा॒। इ॒धी॒म॒हि॒। द्यु॒ऽमन्तः॑। सम्। इ॒धी॒म॒हि॒। द्यु॒ऽमान्। द्यु॒ऽम॒त्। आ। व॒ह॒। पि॒तॄन्। ह॒विषे॑। अत्त॑वे। १.५७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ We, splendid men, deposit thee, we, splendid men, enkindle thee. Splendid, bring
 
 टिप्पणी:   ५७−(द्युमन्तः) दिवु द्युतिगतिव्यवहारेषु-विच्। ततो मतुप्। दिव उत्। पा०६।१।१३१। इत्युत्त्वम्। दीप्तिमन्तः। गतिमन्तः (द्युमन्तः) व्यवहारकुशलाः (द्युमान्) व्यवहारकुशलः (द्युमतः) व्यवहारकुशलान्। अन्यत् पूर्ववत्-म० ५६ ॥
 </details>
-

@@ -17,9 +17,15 @@ at man through thoughtlessness, deliverance and etc. etc.
 If in thy folly thou hast lied or cursed a woman or a man, I with my voice declare to thee thy freedom and release there- from.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्दु॒द्रोहि॑थ शेपि॒षे स्त्रि॒यै पुं॒से अचि॑त्त्या।  
+उ॑न्मोचनप्रमोच॒ने उ॒भे वा॒चा व॑दामि ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। दु॒द्रोहि॑थ। शे॒पि॒षे। स्त्रि॒यै। पु॒से। अचि॑त्त्या। उ॒न्मो॒च॒न॒प्र॒मो॒च॒ने इत्यु॑न्मोचनऽप्रमोच॒ने। उ॒भे इति॑। वा॒चा। व॒दा॒मि॒। ते॒। ३०.३। 
+यत्। दु॒द्रोहि॑थ। शे॒पि॒षे। स्त्रि॒यै। पु॒से। अचि॑त्त्या। उ॒न्मो॒च॒न॒प्र॒मो॒च॒ने इत्यु॑न्मोचनऽप्रमोच॒ने। उ॒भे इति॑। वा॒चा। व॒दा॒मि॒। ते॒। ३०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ If in thy folly thou hast lied or cursed a woman or a man, I with my voice decla
 
 टिप्पणी:   ३−(यत्) यदि (दुद्रोहिथ) द्रुह−लिट्। अनिष्टं चिन्तितवानसि (शेपिषे) शपितवानसि (स्त्रियै) (पुंसे) पुरुषाय (अचित्त्या) अचेतनया। अन्यद् गतम् ॥
 </details>
-

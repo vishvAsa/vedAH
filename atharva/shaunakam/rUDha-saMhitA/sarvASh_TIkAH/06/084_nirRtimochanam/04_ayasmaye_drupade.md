@@ -19,9 +19,15 @@ This verse is a repetition of 63.3, above.
 Thou hast been fastened to an iron pillar, here compassed with a thousand deaths around thee. In full accord with Yama and the Fathers, send this man up- ward to the loftiest heaven.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑य॒स्मये॑ द्रुप॒दे बे॑धिष इ॒हाभिहि॑तो मृ॒त्युभि॒र्ये स॒हस्र॑म्।  
+य॒मेन॒ त्वं पि॒तृभिः॑ संविदा॒न उ॑त्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒य॒स्मये॑। द्रु॒ऽप॒दे। बे॒धि॒षे॒। इ॒ह। अ॒भिऽहि॑तः। मृ॒त्युऽभिः॑। ये। स॒हस्र॒म्। य॑मेन॑। त्वम्। पि॒तृऽभिः॑। स॒म्ऽवि॒दा॒नः। उ॒त्ऽत॒मम्। नाक॑म्। अधि॑। रो॒ह॒य॒। इ॒मम्। ८४.४। 
+अ॒य॒स्मये॑। द्रु॒ऽप॒दे। बे॒धि॒षे॒। इ॒ह। अ॒भिऽहि॑तः। मृ॒त्युऽभिः॑। ये। स॒हस्र॒म्। य॑मेन॑। त्वम्। पि॒तृऽभिः॑। स॒म्ऽवि॒दा॒नः। उ॒त्ऽत॒मम्। नाक॑म्। अधि॑। रो॒ह॒य॒। इ॒मम्। ८४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Thou hast been fastened to an iron pillar, here compassed with a thousand deaths
 
 टिप्पणी:   ४−(अयस्मये द्रुपदे) इत्येषा व्याख्याता−अ० ६।६३−३ ॥
 </details>
-

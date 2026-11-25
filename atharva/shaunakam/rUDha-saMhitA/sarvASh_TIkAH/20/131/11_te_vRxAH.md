@@ -8,9 +8,14 @@ title = "११ ते वृक्षाः"
 Thy trees are standing in a clump.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ते वृ॒क्षाः स॒ह ति॑ष्ठति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ते। वृ॒क्षाः। स॒ह। तिष्ठति। १३१.११। 
+ते। वृ॒क्षाः। स॒ह। तिष्ठति। १३१.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Thy trees are standing in a clump.
 
 टिप्पणी:   ११−(ते) पूर्वोक्ताः (वृक्षाः) वृक्ष वरणे-क। स्वीकरणीयाः पुरुषाः (सह) एकीभूय (तिष्ठति) तिष्ठन्ति। वर्तन्ते ॥
 </details>
-

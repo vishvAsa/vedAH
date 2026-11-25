@@ -9,17 +9,22 @@ title = "११ यज्ञायज्ञियायच वै"
 **c.**  
 ⌊11.⌋ against both the *yajñāyajñíya* and the *vāmadevyá* and the  
 sacrifice and the sacrificer and the cattle doth he offend who revileth  
-a thus-knowing Vrātya; 
+a thus-knowing Vrātya;
 </details>
 
 <details><summary>Griffith</summary>
 
-The man who reviles the Vratya possessing this knowledge is alienated from Yajnayajniya and Vamadevya, Sacrifice, Sacrificer and sacrificial victims. 
+The man who reviles the Vratya possessing this knowledge is alienated from Yajnayajniya and Vamadevya, Sacrifice, Sacrificer and sacrificial victims.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+य॑ज्ञाय॒ज्ञिया॑यच॒ वै स वा॑मदे॒व्याय॑ च य॒ज्ञाय॑ च॒ यज॑मानाय च प॒शुभ्य॒श्चा वृ॑श्चते॒ य ए॒वंवि॒द्वांसं॒ व्रात्य॑मुप॒वद॑ति ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-य॒ज्ञा॒य॒ज्ञिया॑य। च॒। वै। सः। वा॒म॒ऽदे॒व्याय॑। च॒। य॒ज्ञाय॑। च॒। यज॑मानाय। च॒। प॒शुऽभ्यः॑। च॒। आ। वृ॒श्च॒ते॒। यः। ए॒वम्। वि॒द्वांस॑म्। व्रात्य॑म्। उ॒प॒ऽवद॑ति। २.११। 
+य॒ज्ञा॒य॒ज्ञिया॑य। च॒। वै। सः। वा॒म॒ऽदे॒व्याय॑। च॒। य॒ज्ञाय॑। च॒। यज॑मानाय। च॒। प॒शुऽभ्यः॑। च॒। आ। वृ॒श्च॒ते॒। यः। ए॒वम्। वि॒द्वांस॑म्। व्रात्य॑म्। उ॒प॒ऽवद॑ति। २.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ The man who reviles the Vratya possessing this knowledge is alienated from Yajna
 
 टिप्पणी:   ११−(यज्ञायज्ञियाय) म० १०। सर्वयज्ञहितकराय वेदज्ञानाय (वामदेव्याय)श्रेष्ठपरमात्मना विज्ञापिताय भूतपञ्चकाय (यज्ञाय) श्रेष्ठव्यवहाराय (यजमानाय)श्रेष्ठव्यवहारकारकाय पुरुषाय (पशुभ्यः) सर्वप्राणिभ्यः। अन्यत् पूर्ववत्-म० ३॥
 </details>
-

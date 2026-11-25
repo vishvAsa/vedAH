@@ -2,9 +2,10 @@
 title = "२७ यां देवा"
 
 +++
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
-With the [ritual] the deva-s attend, which has no failure, by that indra, the slayer of vR^itra, shall kill with the three-pronged vajra. 
+With the [ritual] the deva-s attend, which has no failure, by that indra, the slayer of vR^itra, shall kill with the three-pronged vajra.
 </details>
 
 <details><summary>Whitney</summary>
@@ -39,9 +40,15 @@ the discrepancy I do not see. One ms. sums up the last *anuvāka* as 51
 With this which Gods attend, with this which never fails to gain its end, Let Indra, Vritra-slayer, smite, and with Trishandhi as a bolt.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यां दे॒वा अ॑नु॒तिष्ठ॑न्ति॒ यस्या॒ नास्ति॑ वि॒राध॑नम्।  
+तयेन्द्रो॑ हन्तु वृत्र॒हा वज्रे॑ण॒ त्रिष॑न्धिना ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याम्। दे॒वाः। अ॒नु॒ऽतिष्ठ॑न्ति। यस्याः॑। न। अस्ति॑। वि॒ऽराध॑नम्। तया॑। इन्द्रः॑। ह॒न्तु॒। वृ॒त्र॒ऽहा। वज्रे॑ण। त्रिऽसं॑धिना। १२.२७। 
+याम्। दे॒वाः। अ॒नु॒ऽतिष्ठ॑न्ति। यस्याः॑। न। अस्ति॑। वि॒ऽराध॑नम्। तया॑। इन्द्रः॑। ह॒न्तु॒। वृ॒त्र॒ऽहा। वज्रे॑ण। त्रिऽसं॑धिना। १२.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -71,4 +78,3 @@ With this which Gods attend, with this which never fails to gain its end, Let In
 
 टिप्पणी:   २७−(याम्) आहुतिम् (देवाः) विजिगीषवः (अनुतिष्ठन्ति) आचरन्ति (यस्याः) (न) (अस्ति) (विराधनम्) निष्फलता। असिद्धिः (तया) आहुत्या (इन्द्रः) परमैश्वर्यवान् पुरुषः (हन्तु) मारयतु (वृत्रहा) अन्धकारनाशकः (वज्रेण) वज्रद्वारा (त्रिषन्धिना) म० २। त्रयीकुशलेन सेनापतिना सह ॥
 </details>
-

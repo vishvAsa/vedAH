@@ -16,9 +16,14 @@ title = "०५ पूषेम शरदः"
 A hundred autumns may we thrive.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पूषे॑म श॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पूषे॑म। श॒रदः॑। श॒तम्। ६७.५। 
+पूषे॑म। श॒रदः॑। श॒तम्। ६७.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ A hundred autumns may we thrive.
 
 टिप्पणी:   ५−(पूषेम) पूष पुष्टौ। पुष्टिं लभेमहि ॥
 </details>
-

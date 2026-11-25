@@ -18,9 +18,14 @@ ones.
 The water that is solemnly brought at a sacrifice is this same water.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+या ए॒व य॒ज्ञ आपः॑ प्रणी॒यन्ते॒ ता ए॒व ताः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। ए॒व। य॒ज्ञे। आपः॑। प्र॒ऽनी॒यन्ते॑। ताः। ए॒व। ताः। ६.५। 
+याः। ए॒व। य॒ज्ञे। आपः॑। प्र॒ऽनी॒यन्ते॑। ताः। ए॒व। ताः। ६.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ The water that is solemnly brought at a sacrifice is this same water.
 
 टिप्पणी:   ५−(याः) (एव) (यज्ञे) सत्करणीये व्यवहारे (आपः) जलानि (प्रणीयन्ते) आदरेण दीयन्ते (ताः) जलानि (एव) (ताः) उपकारिण्य इत्यर्थः ॥
 </details>
-

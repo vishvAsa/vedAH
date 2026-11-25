@@ -8,9 +8,15 @@ title = "०६ प्रत्यञ्चमर्कमनयञ्छची�
 Brought the Sun hitherward with mighty powers, and looked about them on their vigorous Godhead. With this may we obtain strength God-appointed, and joy with brave sons through a hundred winters.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒त्यञ्च॑म॒र्कम॑नय॒ञ्छची॑भि॒रादित्स्व॒धामि॑षि॒रां पर्य॑पश्यन्।  
+अ॒या वाजं॑ दे॒वहि॑तं सनेम॒ मदे॑म श॒तहि॑माः सु॒वीराः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒त्यञ्च॑म्। अ॒र्कम्। अ॒न॒य॒न्। शची॑भिः। आत। इत्। स्व॒धाम्। इ॒षि॒राम्। परि॑। अ॒प॒श्य॒न्। अ॒या। वाज॑म्। दे॒वऽहि॑तम्। स॒ने॒म॒। मदे॑म। श॒तऽहि॑माः। सु॒ऽवीराः॑। १२४.६। 
+प्र॒त्यञ्च॑म्। अ॒र्कम्। अ॒न॒य॒न्। शची॑भिः। आत। इत्। स्व॒धाम्। इ॒षि॒राम्। परि॑। अ॒प॒श्य॒न्। अ॒या। वाज॑म्। दे॒वऽहि॑तम्। स॒ने॒म॒। मदे॑म। श॒तऽहि॑माः। सु॒ऽवीराः॑। १२४.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Brought the Sun hitherward with mighty powers, and looked about them on their vi
 
 टिप्पणी:   ४-६−एते मन्त्रा व्याख्याताः-अथ० ६३।१-३ ॥
 </details>
-

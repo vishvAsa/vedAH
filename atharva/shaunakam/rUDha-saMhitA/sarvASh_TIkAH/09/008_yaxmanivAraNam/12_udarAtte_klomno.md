@@ -20,9 +20,15 @@ and makes **c, d** agree with our 9 **c, d**. The Anukr. brings out an
 Forth from thy belly and thy lungs, forth from thy navel and thy heart. I have evoked the poison taint of all Consumptions out of thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॒दरा॑त्ते क्लो॒म्नो नाभ्या॒ हृद॑या॒दधि॑।  
+यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒दरा॑त्। ते॒। क्लो॒म्नः। नाभ्याः॑। हृद॑यात्। अधि॑। यक्ष्मा॑णम्। सर्वे॑षाम्। वि॒षम्। निः। अ॒वो॒च॒म्। अ॒हम्। त्वत्। १३.१२। 
+उ॒दरा॑त्। ते॒। क्लो॒म्नः। नाभ्याः॑। हृद॑यात्। अधि॑। यक्ष्मा॑णम्। सर्वे॑षाम्। वि॒षम्। निः। अ॒वो॒च॒म्। अ॒हम्। त्वत्। १३.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Forth from thy belly and thy lungs, forth from thy navel and thy heart. I have e
 
 टिप्पणी:   १२−(क्लोम्नः) अ० २।३३।३। फुप्फुसात्। पिपासास्थानात् (अधि) अपि। अन्यत् सुगमम् ॥
 </details>
-

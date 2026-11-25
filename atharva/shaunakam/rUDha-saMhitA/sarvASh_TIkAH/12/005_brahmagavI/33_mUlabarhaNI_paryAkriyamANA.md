@@ -20,9 +20,14 @@ expects us to resolve *pari-ā-* once, but not both times. Bp. reads
 Uprooting when she is being turned round, destruction when she hath been turned round;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मू॑ल॒बर्ह॑णी पर्याक्रि॒यमा॑णा॒ क्षितिः॑ प॒र्याकृ॑ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मू॒ल॒ऽबर्ह॑णी। प॒रि॒ऽआ॒क्रि॒यमा॑णा। क्षितिः॑। प॒रि॒ऽआकृ॑ता। ८.६। 
+मू॒ल॒ऽबर्ह॑णी। प॒रि॒ऽआ॒क्रि॒यमा॑णा। क्षितिः॑। प॒रि॒ऽआकृ॑ता। ८.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ Uprooting when she is being turned round, destruction when she hath been turned 
 
 टिप्पणी:   ३३−(मूलबर्हणी) बर्ह हिंसायाम्−ल्युट्, ङीप्। मूलनाशिका (पर्याक्रियमाणा) आङ्पूर्वकः डुकृञ् वेषान्तरकरणे। परि अनादरेण रूपान्तरं क्रियमाणा (क्षितः) हानिः (पर्याकृता) अनादरेण रूपान्तरं कृता ॥
 </details>
-

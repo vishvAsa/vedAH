@@ -14,9 +14,14 @@ title = "०३ स यद्दक्षिणान्दिशमनु"
 He, when he went away to the southern region, went away having become Indra, and having made Strength an eater of food.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स यद्दक्षि॑णां॒दिश॒मनु॒ व्यच॑लद्भू॒त्वानु॒व्य᳡चल॒द्बल॑मन्ना॒दं कृ॒त्वा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। यत्। दक्षि॑णाम्। दिश॑म्। अनु॑। वि॒ऽअच॑लत्। इन्द्रः॑। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। बल॑म्। अ॒न्न॒ऽअ॒दम्। कृ॒त्वा। १४.३। 
+सः। यत्। दक्षि॑णाम्। दिश॑म्। अनु॑। वि॒ऽअच॑लत्। इन्द्रः॑। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। बल॑म्। अ॒न्न॒ऽअ॒दम्। कृ॒त्वा। १४.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ He, when he went away to the southern region, went away having become Indra, and
 
 टिप्पणी:   ३, ४−(दक्षिणाम्)दक्षिणदेशस्थाम्। स्वशरीरस्य दक्षिणभागस्थाम् (इन्द्रः) परमैश्वर्यवान् (बलम्)सामर्थ्यम् (बलेन) सामर्थ्येन। अन्यत् पूर्ववत्-म० १, २ ॥
 </details>
-

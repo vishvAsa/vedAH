@@ -19,9 +19,15 @@ Part of SPP's mss. read *paryāíti* in **b**. The comm. gives *śīghram*
 As in his rapid course the Sun encompasses the heaven and: earth, So do I compass round thy mind that thou mayst be in love with. me, my darling, never to depart.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथे॒मे द्यावा॑पृथि॒वी स॒द्यः प॒र्येति॒ सूर्यः॑।  
+ए॒वा पर्ये॑मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। इ॒मे इति॑। द्यावा॑पृथि॒वी इति॑। स॒द्यः। प॒रि॒ऽएति॑। सूर्यः॑। ए॒व। परि॑। ए॒मि॒। ते॒। मनः॑। यथा॑। माम्। का॒मिनी॑। असः॑। यथा॑। मत्। न। अप॑ऽगाः। असः॑। ८.३। 
+यथा॑। इ॒मे इति॑। द्यावा॑पृथि॒वी इति॑। स॒द्यः। प॒रि॒ऽएति॑। सूर्यः॑। ए॒व। परि॑। ए॒मि॒। ते॒। मनः॑। यथा॑। माम्। का॒मिनी॑। असः॑। यथा॑। मत्। न। अप॑ऽगाः। असः॑। ८.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ As in his rapid course the Sun encompasses the heaven and: earth, So do I compas
 
 टिप्पणी:   ३−(यथा) (इमे) परिदृश्यमाने (द्यावापृथिवी) आकाशं भूमिं च (परि एति) परितो व्याप्नोति (सूर्यः) लोकप्रेरको भास्करः (एव) एवम् (परि एमि) परितः प्राप्नोमि। अन्यत् पूर्ववत् ॥
 </details>
-

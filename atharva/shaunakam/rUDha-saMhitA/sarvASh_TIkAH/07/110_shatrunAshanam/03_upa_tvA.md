@@ -26,9 +26,15 @@ fifth pāda: *sarvaṁ taṁ rīradhāsi naḥ:* compare the Ppp. version of vi.
 The God Brihaspati hath won thy friendly favour with the cup. With hymns, O Indra, enter us for the juice-pouring worshipper.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उप॑ त्वा दे॒वो अ॑ग्रभीच्चम॒सेन॒ बृह॒स्पतिः॑।  
+इन्द्र॑ गी॒र्भिर्न॒ आ वि॑श॒ यज॑मानाय सुन्व॒ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उप॑। त्वा॒। दे॒वः। अ॒ग्र॒भी॒त्। च॒म॒सेन॑। बृ॒ह॒स्पतिः॑। इन्द्र॑। गीः॒ऽभिः। नः॒। आ। वि॒श॒। यज॑मानाय। सु॒न्व॒ते। ११५.३। 
+उप॑। त्वा॒। दे॒वः। अ॒ग्र॒भी॒त्। च॒म॒सेन॑। बृ॒ह॒स्पतिः॑। इन्द्र॑। गीः॒ऽभिः। नः॒। आ। वि॒श॒। यज॑मानाय। सु॒न्व॒ते। ११५.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ The God Brihaspati hath won thy friendly favour with the cup. With hymns, O Indr
 
 टिप्पणी:   ३−(उप) समीपे (त्वा) त्वां राजानम् (देवः) प्रकाशमानः (अग्रभीत्) अग्रहीत्। गृहीतवान् (चमसेन) अ० ६।४७।३। अन्नेन (बृहस्पतिः) बृहतां लोकानां पालकः परमेश्वरः (इन्द्र) प्रतापिन् राजन् (गीर्भिः) वाणीभिः। स्तुतिभिः (नः) अस्मान् (आ विश) प्रविश। प्राप्नुहि (यजमानाय) पदार्थानां संयोजकवियोजकाय (सुन्वते) तत्त्वमथनशीलाय ॥
 </details>
-

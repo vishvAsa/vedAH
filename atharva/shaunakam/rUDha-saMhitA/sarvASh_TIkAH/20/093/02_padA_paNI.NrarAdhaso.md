@@ -8,9 +8,15 @@ title = "०२ पदा पणीँरराधसो"
 Crush with thy foot the niggard churls who bring no gifts. Might art thou: There is not one to equal thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प॒दा प॒णीँर॑रा॒धसो॒ नि बा॑धस्व म॒हाँ अ॑सि।  
+न॒हि त्वा॒ कश्च॒न प्रति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प॒दा। प॒णीन्। अ॒रा॒धसः॑। नि। बा॒ध॒स्व॒। म॒हान्। अ॒सि॒। न॒हि। त्वा॒। कः। च॒न। प्रति॑। ९३.२। 
+प॒दा। प॒णीन्। अ॒रा॒धसः॑। नि। बा॒ध॒स्व॒। म॒हान्। अ॒सि॒। न॒हि। त्वा॒। कः। च॒न। प्रति॑। ९३.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Crush with thy foot the niggard churls who bring no gifts. Might art thou: There
 
 टिप्पणी:   २−(पदा) पद गतौ स्थैर्ये च-क्विप्। गत्या। व्याप्त्या (पणीन्) कुव्यवहारिणः पुरुषान् (अराधसः) अराधसमनाराधयन्तम्-निरु० ।१७। अनाराधनाशीलान् (नि) नितराम् (बाधस्व) विलोडय। अपवृणु (महान्) (असि) (नहि) (कश्चन) कश्चिदपि (त्वा प्रति) त्वया सदृशः ॥
 </details>
-

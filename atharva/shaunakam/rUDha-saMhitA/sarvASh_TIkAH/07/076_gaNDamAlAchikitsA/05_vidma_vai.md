@@ -26,9 +26,15 @@ reads *tvaṁ hanyād yatra kuryān mahaṁ haviḥ*. ⌊We had our **d** at vi.
 We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast thou then struck this man here, him in whose house we sacrifice?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒द्म वै ते॑ जायान्य॒ जानं॒ यतो॑ जायान्य॒ जाय॑से।  
+क॒थं ह॒ तत्र॒ त्वं ह॑नो॒ यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒द्म। वै। ते॒। जा॒या॒न्य॒। जान॑म्। यतः॑। जा॒या॒न्य॒। जाय॑से। क॒थम्। ह॒। तत्र॑। त्वम्। ह॒नः॒। यस्य॑। कृ॒ण्मः। ह॒विः। गृ॒हे। ८१.१। 
+वि॒द्म। वै। ते॒। जा॒या॒न्य॒। जान॑म्। यतः॑। जा॒या॒न्य॒। जाय॑से। क॒थम्। ह॒। तत्र॑। त्वम्। ह॒नः॒। यस्य॑। कृ॒ण्मः। ह॒विः। गृ॒हे। ८१.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast t
 
 टिप्पणी:   ५−(विद्म) जानीमः (वै) अवश्यम् (ते) तव (जायान्य) म० ३। हे क्षयरोग (जानम्) जन-घञ्। जन्मस्थानम् (यतः) यस्मात् (जायान्य) (जायसे) उत्पद्यसे (कथम्) केन प्रकारेण (ह) अवश्यम् (तत्र) (त्वम्) (हनः) हन्तेर्लेटि अडागमः। हन्याः पुरुषम् (यस्य) पुरुषस्य (कृण्मः) कुर्मः (हविः) ग्राह्यं पथ्यं कर्म (गृहे) ॥
 </details>
-

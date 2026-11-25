@@ -18,9 +18,14 @@ metrical description of the Anukr.
 He was filled with passion: from him sprang the Rajanya.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सो᳡ऽर॑ज्यत॒ ततो॑राज॒न्यो᳡ऽजायत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। अ॒र॒ज्य॒त॒। ततः॑। राज॒न्यः᳡। अ॒जा॒य॒त॒। ८.१। 
+सः। अ॒र॒ज्य॒त॒। ततः॑। राज॒न्यः᳡। अ॒जा॒य॒त॒। ८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ He was filled with passion: from him sprang the Rajanya.
 
 टिप्पणी:   १−(सः) व्रात्यः परमात्मा (अरज्यत) रञ्ज रागे, आसक्तौ प्रीतौ च-लङ्, दिवादिः। प्रीतियुक्तोऽभवत् सृष्टौ (ततः) तस्मात् कारणात् (राजन्यः) राजेरन्यः। उ० ३।१००। राजृ दीप्तौ ऐश्वर्येच-अन्य। सर्वस्वामी (अजायत) प्रादुरभवत् ॥
 </details>
-

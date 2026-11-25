@@ -22,9 +22,15 @@ to refer to rebirth: cf. Praśna Upanishad, i. 9.⌋
 Forward in spirit would he fly, and often turns he back again, Whomso Carnivorous Agni from anear discovers and torments.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रेव॑ पिपतिषति॒ मन॑सा॒ मुहु॒रा व॑र्तते॒ पुनः॑।  
+क्र॒व्याद्यान॒ग्निर॑न्ति॒काद॑नुवि॒द्वान्वि॒ताव॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रऽइ॑व। पि॒प॒ति॒ष॒ति॒। मन॑सा। मुहुः॑। आ। व॒र्त॒ते॒। पुनः॑। क्र॒व्य॒ऽअत्। यान्। अ॒ग्निः। अ॒न्ति॒कात्। अ॒नु॒ऽवि॒द्वान्। वि॒ऽताव॑ति। २.५२। 
+प्रऽइ॑व। पि॒प॒ति॒ष॒ति॒। मन॑सा। मुहुः॑। आ। व॒र्त॒ते॒। पुनः॑। क्र॒व्य॒ऽअत्। यान्। अ॒ग्निः। अ॒न्ति॒कात्। अ॒नु॒ऽवि॒द्वान्। वि॒ऽताव॑ति। २.५२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Forward in spirit would he fly, and often turns he back again, Whomso Carnivorou
 
 टिप्पणी:   ५२−(प्र इव) प्रकर्षेण गच्छन् यथा (पिपतिषति) पत्लृ गतौ ऐश्वर्ये च−सन्। ऐश्वर्यवान् भवितुमिच्छति (मनसा) चित्तेन (मुहः) वारंवारम् (आ वर्तते) आगत्य वर्तते (पुनः) पश्चात्। अन्यत् पूर्ववत्−म० ३८ ॥
 </details>
-

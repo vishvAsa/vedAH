@@ -22,9 +22,15 @@ ends with *vār id ugram*⌋.
 Loud neighing he hath dived below, and rising up again replied, Stayed the dire poison of the Snakes, and made it weak as soaking wood.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑रंघु॒षो नि॒मज्यो॒न्मज॒ पुन॑रब्रवीत्।  
+उ॑दप्लु॒तमि॑व॒ दार्वही॑नामर॒सं वि॒षं वारु॒ग्रम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒र॒म्ऽघु॒षः। नि॒ऽमज्य॑। उ॒त्ऽमज्य॑। पुनः॑। अ॒ब्र॒वी॒त्। उ॒द॒प्लु॒तम्ऽइ॑व। दारु॑। अही॑नाम्। अ॒र॒सम्। वि॒षम्। वाः। उ॒ग्रम्। ४.४। 
+अ॒र॒म्ऽघु॒षः। नि॒ऽमज्य॑। उ॒त्ऽमज्य॑। पुनः॑। अ॒ब्र॒वी॒त्। उ॒द॒प्लु॒तम्ऽइ॑व। दारु॑। अही॑नाम्। अ॒र॒सम्। वि॒षम्। वाः। उ॒ग्रम्। ४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Loud neighing he hath dived below, and rising up again replied, Stayed the dire 
 
 टिप्पणी:   ४−(अरंघुषः) अलम्+घुषिर् अविशब्दने-क, लस्य रः। पर्याप्तघोषणाकारी (निमज्य) जले प्रविश्य यथा (उन्मज्य) जलादुद्गत्य यथा (पुनः) (अब्रवीत्)। अन्यत् पूर्ववत्−म० ३ ॥
 </details>
-

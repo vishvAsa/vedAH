@@ -20,9 +20,15 @@ instead of *vṛkṣān* in **b**; also it has in **c** *-tnāṅs tvam* for
 As Agni and the wind devour the trees, the sovrans of the wood, Even so devour my rivals, born before me and born after. Let the Varana protect thee well.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यथा॒ वात॑श्चा॒ग्निश्च॑ वृ॒क्षान्प्सा॒तो वन॒स्पती॑न्।  
+ए॒वा स॒पत्ना॑न्मे प्साहि॒ पूर्वा॑ञ्जा॒ताँ उ॒ताप॑रान्वर॒णस्त्वा॒भि र॑क्षतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यथा॑। वातः॑। च॒। अ॒ग्निः। च॒। वृ॒क्षान्। प्सा॒तः। वन॒स्पती॑न्। ए॒व। स॒ऽपत्ना॑न्। मे॒। प्सा॒हि॒। पूर्वा॑न्। जा॒तान्। उ॒त। अप॑रान्। व॒र॒णः। त्वा॒। अ॒भि। र॒क्ष॒तु॒। ३.१४। 
+यथा॑। वातः॑। च॒। अ॒ग्निः। च॒। वृ॒क्षान्। प्सा॒तः। वन॒स्पती॑न्। ए॒व। स॒ऽपत्ना॑न्। मे॒। प्सा॒हि॒। पूर्वा॑न्। जा॒तान्। उ॒त। अप॑रान्। व॒र॒णः। त्वा॒। अ॒भि। र॒क्ष॒तु॒। ३.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ As Agni and the wind devour the trees, the sovrans of the wood, Even so devour m
 
 टिप्पणी:   १४−(प्सातः) भक्षतः (प्साहि) भक्ष। अन्यत् पूर्ववत् ॥
 </details>
-

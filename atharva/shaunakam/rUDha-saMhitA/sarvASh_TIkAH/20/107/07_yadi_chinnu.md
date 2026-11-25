@@ -8,9 +8,15 @@ title = "०७ यदि चिन्नु"
 Therefore in thee too, thou who winnest riches, at every banquet are the sages joyful With mighter power, bold God, extend thy firmness: let not malignant Yatudhanas harm thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदि॑ चि॒न्नु त्वा॒ धना॒ जय॑न्तं॒ रणे॑रणे अनु॒मद॑न्ति॒ विप्राः॑।  
+ओजी॑यः शुष्मिन्त्स्थि॒रमा त॑नुष्व॒ मा त्वा॑ दभन्दु॒रेवा॑सः क॒शोकाः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यदि॑। चि॒त्। नु। त्वा॒। धना॑। जय॑न्तम्। रणे॑ऽरणे। अ॒नु॒मद॑न्त‍ि। विप्राः॑। ओजी॑यः। शु॒ष्मि॒न्। स्थि॒रम्। आ। त॒नु॒ष्व॒। मा। त्वा॒। द॒भ॒न्। दुः॒ऽएवा॑सः। क॒शोकाः॑। १०७.७। 
+यदि॑। चि॒त्। नु। त्वा॒। धना॑। जय॑न्तम्। रणे॑ऽरणे। अ॒नु॒मद॑न्त‍ि। विप्राः॑। ओजी॑यः। शु॒ष्मि॒न्। स्थि॒रम्। आ। त॒नु॒ष्व॒। मा। त्वा॒। द॒भ॒न्। दुः॒ऽएवा॑सः। क॒शोकाः॑। १०७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Therefore in thee too, thou who winnest riches, at every banquet are the sages j
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
-

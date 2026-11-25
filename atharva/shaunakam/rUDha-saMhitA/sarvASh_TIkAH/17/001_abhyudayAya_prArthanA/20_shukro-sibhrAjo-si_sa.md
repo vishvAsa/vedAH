@@ -23,9 +23,15 @@ This prose bit is a queer *kakubh:* ⌊the *kakubh* calls for 8 + 12 + 8 =
 Bright art thou, and refulgent: as thou shinest with splendour so I fain would shine with splendour.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+शु॒क्रोऽसि॑भ्रा॒जोऽसि॑।  
+स यथा॒ त्वं भ्राज॑ता भ्रा॒जोऽस्ये॒वाहं भ्राज॑ता भ्राज्यासम्॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-शु॒क्रः। अ॒सि॒। भ्रा॒जः। अ॒सि॒। सः। यथा॑। त्वम्। भ्राज॑ता। भ्रा॒जः। अ॒सि॒। ए॒व। अ॒हम्। भ्राज॑ता। भ्रा॒ज्या॒स॒म्। १.२०। 
+शु॒क्रः। अ॒सि॒। भ्रा॒जः। अ॒सि॒। सः। यथा॑। त्वम्। भ्राज॑ता। भ्रा॒जः। अ॒सि॒। ए॒व। अ॒हम्। भ्राज॑ता। भ्रा॒ज्या॒स॒म्। १.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Bright art thou, and refulgent: as thou shinest with splendour so I fain would s
 
 टिप्पणी:   २०−(शुक्रः) शुक्लः। शुद्धः (असि) (भ्राजः) भ्राजृ दीप्तौ-पचाद्यच्।प्रकाशमानः (असि) (सः) तादृशः (यथा) येन प्रकारेण (त्वम्) (भ्राजता) प्रकाशमानेनस्वरूपेण (भ्राजः) प्रकाशमानः (असि) (एवम्) (अहम्) उपासकः (भ्राजता) दीप्यमानेनस्वरूपेण (भ्राज्यासम्) दीपिषीय ॥
 </details>
-

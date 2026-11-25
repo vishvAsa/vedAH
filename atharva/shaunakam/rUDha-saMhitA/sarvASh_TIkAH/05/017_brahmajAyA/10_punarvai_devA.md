@@ -20,9 +20,15 @@ with it ⌊but with *-no* for *-nās*⌋.
 So then the Gods restored her, so men gave the woman back again. Princes who kept their promises restored the Brahman's wedded wife.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पुन॒र्वै दे॒वा अ॑ददुः॒ पुन॑र्मनु॒ष्या॑ अददुः।  
+राजा॑नः स॒त्यं गृ॑ह्णा॒ना ब्र॑ह्मजा॒यां पुन॑र्ददुः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पुनः॑। वै। दे॒वाः। अ॒द॒दुः॒। पुनः॑। म॒नु॒ष्याः᳡। अ॒द॒दुः॒। राजा॑नः। स॒त्यम्। गृ॒ह्णा॒नाः। ब्र॒ह्म॒ऽजा॒याम्। पुनः॑। द॒दुः॒। १७.१०। 
+पुनः॑। वै। दे॒वाः। अ॒द॒दुः॒। पुनः॑। म॒नु॒ष्याः᳡। अ॒द॒दुः॒। राजा॑नः। स॒त्यम्। गृ॒ह्णा॒नाः। ब्र॒ह्म॒ऽजा॒याम्। पुनः॑। द॒दुः॒। १७.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ So then the Gods restored her, so men gave the woman back again. Princes who kep
 
 टिप्पणी:   १०−(पुनः वै) अवश्यमेव (देवाः) सूर्यादयो लोकाः (अददुः) अदुः। दत्तवन्तः (पुनः) (मनुष्याः) (अददुः) (राजानः) ऐश्वर्यवन्तः (सत्यम्) याथातथ्यम् (गृह्णानाः) स्वीकुर्वाणाः (ब्रह्मजायाम्) म० २। वेदविद्याम् (पुनः) अवश्यम् (ददुः) दत्तवन्तः ॥
 </details>
-

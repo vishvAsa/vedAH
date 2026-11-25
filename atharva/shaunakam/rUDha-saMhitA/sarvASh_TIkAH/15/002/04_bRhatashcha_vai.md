@@ -46,12 +46,17 @@ wanting.⌋
 
 <details><summary>Griffith</summary>
 
-He who hath this knowledge becomes the beloved home of the Brihat, the Rathantara the Adityas, and all the Gods. 
+He who hath this knowledge becomes the beloved home of the Brihat, the Rathantara the Adityas, and all the Gods.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+बृ॑ह॒तश्च॒ वै सर॑थन्त॒रस्य॑ चादि॒त्यानां॑ च॒ विश्वे॑षां च दे॒वानां॑ प्रि॒यं धाम॑ भवति॒ तस्य॒ प्राच्यां॑ दि॒शि ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-बृ॒ह॒तः। च॒। वै। सः। र॒थ॒म्ऽत॒रस्य॑। च॒। आ॒दि॒त्याना॑म्। च॒। विश्वे॑षाम्। च॒। दे॒वाना॑म्। प्रि॒यम्। धाम॑। भ॒व॒ति॒। तस्य॑। प्राच्या॑म्। दि॒शि। २.४। 
+बृ॒ह॒तः। च॒। वै। सः। र॒थ॒म्ऽत॒रस्य॑। च॒। आ॒दि॒त्याना॑म्। च॒। विश्वे॑षाम्। च॒। दे॒वाना॑म्। प्रि॒यम्। धाम॑। भ॒व॒ति॒। तस्य॑। प्राच्या॑म्। दि॒शि। २.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -81,4 +86,3 @@ He who hath this knowledge becomes the beloved home of the Brihat, the Rathantar
 
 टिप्पणी:   ४−(बृहतः)प्रवृद्धस्याकाशस्य (च) (वै) (सः) विद्वान् (रथन्तरस्य) रमणीयैर्गुणैस्तरणीयस्यजगतः (च) (आदित्यानाम्) आदीप्यमानानां सूर्याणाम् (च) (विश्वेषाम्) (च) (देवानाम्) गतिमतां लोकानाम् (प्रियम्) (धाम) गृहम् (भवति) (तस्य) चतुर्थ्यांषष्ठी। विदुषे जनाय (प्राच्याम्) अभिमुखीभूतायाम्। पूर्वस्याम् (दिशि) दिशायाम्॥
 </details>
-

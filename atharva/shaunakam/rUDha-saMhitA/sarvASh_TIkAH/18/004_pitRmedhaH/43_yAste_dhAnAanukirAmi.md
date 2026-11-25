@@ -25,9 +25,15 @@ ritual, see under 3. 69.⌋
 Grains which for thee I scatter, mixt with Sesamum as sacred food, May these for thee be excellent and potent. King Yama look on, them, as thine, with favour.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यास्ते॑ धा॒नाअ॑नुकि॒रामि॑ ति॒लमि॑श्राः स्व॒धाव॑तीः।  
+तास्ते॑ सन्तू॒द्भ्वीःप्र॒भ्वीस्तास्ते॑ य॒मो राजानु॑ मन्यताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याः। ते॒। धा॒नाः। अ॒नु॒ऽकि॒रामि॑। ति॒लऽमि॑श्राः। स्व॒धाऽव॑तीः। ताः। ते॒। स॒न्तु॒। उ॒त्ऽभ्वीः। ताः। ते॒। य॒मः। राजा॑। अनु॑। म॒न्य॒ता॒म्। ४.४३। 
+याः। ते॒। धा॒नाः। अ॒नु॒ऽकि॒रामि॑। ति॒लऽमि॑श्राः। स्व॒धाऽव॑तीः। ताः। ते॒। स॒न्तु॒। उ॒त्ऽभ्वीः। ताः। ते॒। य॒मः। राजा॑। अनु॑। म॒न्य॒ता॒म्। ४.४३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Grains which for thee I scatter, mixt with Sesamum as sacred food, May these for
 
 टिप्पणी:   ४३−(राजा)शासको वैद्यः। अन्यत् पूर्ववत्-म० २६ तथा अ० १९।३।६९ ॥
 </details>
-

@@ -17,9 +17,14 @@ outbreathings (*vyāná*).
 There are seven vital airs, seven downward breaths, seven diff- used breaths.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒प्त प्रा॒णाःस॒प्तापा॒नाः स॒प्त व्या॒नाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒प्त। प्रा॒णाः। स॒प्त। अ॒पा॒नाः। स॒प्त। वि॒ऽआनाः। १५.२। 
+स॒प्त। प्रा॒णाः। स॒प्त। अ॒पा॒नाः। स॒प्त। वि॒ऽआनाः। १५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ There are seven vital airs, seven downward breaths, seven diff- used breaths.
 
 टिप्पणी:   २−(सप्त) शीर्षण्यसप्तच्छिद्रसम्बन्धेन सप्तसंख्याकाः (प्राणाः)प्र+अन जीवने-घञ्। शरीरमध्यगामिनो जीवनवर्धका वायवः (सप्त) (अपानाः) अप+अनजीवने-घञ्। शरीरबहिर्गामिनो दोषनाशका वायवः (सप्त) (व्यानाः) वि+अन जीवने-घञ्।सर्वशरीरव्यापका वायवः ॥
 </details>
-

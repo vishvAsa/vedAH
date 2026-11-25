@@ -19,9 +19,14 @@ meal. The verse is wanting in Ppp.
 The food they bring before the general distribution represents the two sacrificial cakes of rice meal.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यत्पु॒रा प॑रिवे॒षात्खा॒दमा॒हर॑न्ति पुरो॒डाशा॑वे॒व तौ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। पु॒रा। प॒रि॒ऽवे॒षात्। खा॒दम्। आ॒ऽहर॑न्ति। पु॒रो॒डाशौ॑। ए॒व। तौ। ६.१२। 
+यत्। पु॒रा। प॒रि॒ऽवे॒षात्। खा॒दम्। आ॒ऽहर॑न्ति। पु॒रो॒डाशौ॑। ए॒व। तौ। ६.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ The food they bring before the general distribution represents the two sacrifici
 
 टिप्पणी:   १२−(यत्) यदा (पुरा) आदौ (परिवेषात्) परि+विष्लृ व्याप्तौ-घञ्। पञ्चमीविधाने ल्यब्लोपे कर्मण्युपसंख्यानम्। वा० पा० २।३।२८। ल्यब्लोपे कर्मणि पञ्चमी। परिवेषं भोजनार्थं पात्रे अन्नादेर्दानं समाप्य (खादम्) भोजनम् (आहरन्ति) खादन्ति (पुरोडाशौ) अ० ८।८।२२। मुन्यन्नरोटिकाविशेषौ-मनुः ६।११। (तौ) ॥
 </details>
-

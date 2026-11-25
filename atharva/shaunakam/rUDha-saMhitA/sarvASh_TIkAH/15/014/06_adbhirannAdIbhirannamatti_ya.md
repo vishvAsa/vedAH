@@ -14,9 +14,14 @@ with the waters as food-eaters doth he eat food who knoweth thus.
 He who hath this knowledge eats food with the Waters as food-eaters.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒द्भिर॑न्ना॒दीभि॒रन्न॑मत्ति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒त्ऽभिः। अ॒न्न॒ऽअ॒दीभिः॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.६। 
+अ॒त्ऽभिः। अ॒न्न॒ऽअ॒दीभिः॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ He who hath this knowledge eats food with the Waters as food-eaters.
 
 टिप्पणी:   ५, ६−(प्रतीचीम्)पश्चिमाम्। पश्चाद्भागस्थाम् (वरुणः) श्रेष्ठः (राजा) राजृ दीप्तौ ऐश्वर्येच-कनिन्। ऐश्वर्यवान्। भूपालः (अपः) आपः=इन्द्रियाणि=आपनानि-निरु० १२।३७।कर्मसु व्यापकानीन्द्रियाणि (अन्नादीः) म० १। अन्नाद-ङीप्। जीवनरक्षिकाः (अद्भिः) इन्द्रियैः (अन्नादीभिः) जीवनरक्षिकाभिः। अन्यत् पूर्ववत्-म० १, २ ॥
 </details>
-

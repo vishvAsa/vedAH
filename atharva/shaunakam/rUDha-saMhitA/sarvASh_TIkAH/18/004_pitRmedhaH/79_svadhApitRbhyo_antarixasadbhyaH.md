@@ -16,9 +16,14 @@ title = "७९ स्वधापितृभ्यो अन्तरिक्
 Hail to the Fathers who inhabit the firmament!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स्व॑धापि॒तृभ्यो॑ अन्तरिक्ष॒सद्भ्यः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स्व॒धा। पि॒तृऽभ्यः॑। अ॒न्त॒र‍ि॒क्ष॒सत्ऽभ्यः॑। ४.७९। 
+स्व॒धा। पि॒तृऽभ्यः॑। अ॒न्त॒र‍ि॒क्ष॒सत्ऽभ्यः॑। ४.७९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ Hail to the Fathers who inhabit the firmament!
 
 टिप्पणी:   ७९−(अन्तरिक्षसद्भ्यः)आकाशविद्यायां गतिशीलेभ्यः। अन्यत् पूर्ववत् ॥
 </details>
-

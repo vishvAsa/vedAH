@@ -19,9 +19,15 @@ Ppp. reads in **c** *vāmasya*, and at the end *jānatas*.
 Let these delightful Houses that are rich in power and store of milk, Replete with wealth and standing firm, become aware of our approach.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒मे गृ॒हा म॑यो॒भुव॒ ऊर्ज॑स्वन्तः॒ पय॑स्वन्तः।  
+पू॒र्णा वा॒मेन॒ तिष्ठ॑न्त॒स्ते नो॑ जानन्त्वाय॒तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒मे। गृ॒हाः। म॒यः॒ऽभुवः॑। ऊर्ज॑स्वन्तः। पय॑स्वन्तः। पू॒र्णाः। वा॒मेन॑। तिष्ठ॑न्तः। ते। नः॒। जा॒न॒न्तु॒। आ॒ऽय॒तः। ६२.२। 
+इ॒मे। गृ॒हाः। म॒यः॒ऽभुवः॑। ऊर्ज॑स्वन्तः। पय॑स्वन्तः। पू॒र्णाः। वा॒मेन॑। तिष्ठ॑न्तः। ते। नः॒। जा॒न॒न्तु॒। आ॒ऽय॒तः। ६२.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Let these delightful Houses that are rich in power and store of milk, Replete wi
 
 टिप्पणी:   २−(इमे) (गृहाः) गृहस्थाः (मयोभुवः) अ० १।५।१। सुखस्य भावयितारः (ऊर्जस्वन्तः) अ० ३।१२।२। प्रभूतपराक्रमिणः (पयस्वन्तः) उत्तमजलदुग्धादिसमृद्धाः (पूर्णाः) समृद्धाः (वामेन) प्रशस्येन धनेन। वामः प्रशस्यः-निघ० ३।८। (तिष्ठन्तः) (ते) गृहाः (जानन्तु) अवबुध्यन्ताम् (आयतः) इण् गतौ-शतृ। आगच्छतः ॥
 </details>
-

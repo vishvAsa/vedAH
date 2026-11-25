@@ -6,17 +6,22 @@ title = "०१ स ध्रुवान्दिशमनु"
 <details><summary>Whitney</summary>
 
 ### Translation
-1. ⌊1.⌋ He moved out toward the fixed quarter; 
+1. ⌊1.⌋ He moved out toward the fixed quarter;
 </details>
 
 <details><summary>Griffith</summary>
 
-He went his way to the region of the nadir. 
+He went his way to the region of the nadir.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+स ध्रु॒वांदिश॒मनु॒ व्य᳡चलत् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-सः। ध्रु॒वाम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ६.१। 
+सः। ध्रु॒वाम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ६.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ He went his way to the region of the nadir.
 
 टिप्पणी:   १−(सः) व्रात्यः (ध्रुवाम्) अधोवर्तमानाम् (दिशम्) (अनु) अनुलक्ष्य (व्यचलत्) विचरितवान् ॥
 </details>
-

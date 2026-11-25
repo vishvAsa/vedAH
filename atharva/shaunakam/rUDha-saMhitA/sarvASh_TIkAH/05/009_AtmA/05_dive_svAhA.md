@@ -16,14 +16,19 @@ title = "०५ दिवे स्वाहा"
 All hail to Heaven!
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-दि॒वे। स्वाहा॑। ९.५। 
+दि॒वे स्वाहा॑ ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-दि॒वे। स्वाहा॑। ९.५। 
+दि॒वे। स्वाहा॑। ९.५।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+दि॒वे। स्वाहा॑। ९.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -33,4 +38,3 @@ All hail to Heaven!
 - दैवी बृहती
 - आत्मा सूक्त
 </details>
-

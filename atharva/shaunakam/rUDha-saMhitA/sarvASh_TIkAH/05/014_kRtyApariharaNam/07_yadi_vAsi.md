@@ -21,9 +21,15 @@ beginning of **c** is a misprint for *tā́ṁ*.
 Now whether thou hast been prepared by Gods or been pre- pared by men, We, with our Indra at our side to aid us, lead thee back again.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदि॒ वासि॑ दे॒वकृ॑ता॒ यदि॑ वा॒ पुरु॑षैः कृ॒ता।  
+तां त्वा॒ पुन॑र्णयाम॒सीन्द्रे॑ण स॒युजा॑ व॒यम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यदि॑। वा॒। असि॑। दे॒वऽकृ॑ता। यदि॑। वा॒। पुरु॑षैः। कृ॒ता। ताम्। त्वा॒। पुनः॑। न॒या॒म॒सि॒। इन्द्रे॑ण। स॒ऽयुजा॑। व॒यम्। १४.७। 
+यदि॑। वा॒। असि॑। दे॒वऽकृ॑ता। यदि॑। वा॒। पुरु॑षैः। कृ॒ता। ताम्। त्वा॒। पुनः॑। न॒या॒म॒सि॒। इन्द्रे॑ण। स॒ऽयुजा॑। व॒यम्। १४.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Now whether thou hast been prepared by Gods or been pre- pared by men, We, with 
 
 टिप्पणी:   ७−(यदि) (वा) (असि) (देवकृता) दिवु गतौ−पचाद्यच्। गतिशीलैः सूर्यादिलोकैः कृता (यदि वा) (पुरुषैः) मनुष्यैः (कृता) निष्पादिता (ताम्) (त्वा) (पुनः) (नयामसि) गमयामः (इन्द्रेण) ऐश्वर्येण (सयुजा) सम्पदादित्वात् क्विप्। समानसंयोगेन सह (वयम्) पुरुषार्थिनः ॥
 </details>
-

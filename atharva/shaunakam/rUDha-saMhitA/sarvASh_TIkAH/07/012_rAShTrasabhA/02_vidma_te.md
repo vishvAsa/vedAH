@@ -22,9 +22,15 @@ Anukr. ignores the deficiency of **a**, as the redundancy of 3 **a**.
 We know thy name, O Conference: thy name is interchange of talk. Let all the company who join the Conference agree with me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒द्म ते॑ सभे॒ नाम॑ न॒रिष्टा॒ नाम॒ वा अ॑सि।  
+ये ते॒ के च॑ सभा॒सद॑स्ते मे सन्तु॒ सवा॑चसः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒द्म। ते॒। स॒भे॒। नाम॑। न॒रिष्टा॑। नाम॑। वै। अ॒सि॒। ये। ते॒। के। च॒। स॒भा॒ऽसदः॑। ते। मे॒। स॒न्तु॒। सऽवा॑चसः। १३.२। 
+वि॒द्म। ते॒। स॒भे॒। नाम॑। न॒रिष्टा॑। नाम॑। वै। अ॒सि॒। ये। ते॒। के। च॒। स॒भा॒ऽसदः॑। ते। मे॒। स॒न्तु॒। सऽवा॑चसः। १३.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ We know thy name, O Conference: thy name is interchange of talk. Let all the com
 
 टिप्पणी:   २−(विद्म) अ० १।२।१। वयं जानीमः (ते) तव (सभे) (नाम) नामधेयम् (नरिष्टा) नर+इष्टा। शकन्ध्वादिषु पररूपं वाच्यम्। वा० पा० ६।१।९४। इति पररूपम्। नराणामिष्टा हिता (नाम) नाम्ना (वै) खलु (असि) वर्तसे (ये के) ये केचित् (ते) तव (सभासदः) सभ्याः (ते) सामाजिकाः (मे) मह्यम् (सन्तु) (सवाचसः) समानवाक्याः। एकवचनाः ॥
 </details>
-

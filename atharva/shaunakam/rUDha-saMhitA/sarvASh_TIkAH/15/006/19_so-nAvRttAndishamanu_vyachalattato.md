@@ -22,9 +22,14 @@ Aufrecht, 'unvisited'; but both against the analogy of *nā́ ”vartsyán*
 He went away to the unfrequented region. Thence he thought that he should not return.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोऽना॑वृत्तां॒दिश॒मनु॒ व्य᳡चल॒त्ततो॒ नाव॒र्त्स्यन्न॑मन्यत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। अना॑वृत्ताम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ततः॑। न। आ॒ऽव॒र्त्स्यन्। अ॒म॒न्य॒त॒। ६.१९। 
+सः। अना॑वृत्ताम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ततः॑। न। आ॒ऽव॒र्त्स्यन्। अ॒म॒न्य॒त॒। ६.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +59,3 @@ He went away to the unfrequented region. Thence he thought that he should not re
 
 टिप्पणी:   १९−(सः) व्रात्यः (अनावृत्ताम्) अनभ्यस्ताम्। अज्ञाताम् (ततः) तद्दिक्सकाशात् (न) (निषेधे) (आवर्त्स्यन्) आवृत्तिं पुनर्गमनं कर्तुमिच्छन् भविष्यति (अमन्यत) अबुध्यतविद्वान् पुरुषः। अन्यत् पूर्ववत् ॥
 </details>
-

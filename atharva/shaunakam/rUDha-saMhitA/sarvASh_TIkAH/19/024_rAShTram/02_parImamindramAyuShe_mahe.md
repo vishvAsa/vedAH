@@ -34,9 +34,15 @@ an easier and better text; ⌊his *mā* goes easily as an appositive with
 Invest this Indra for long life, invest him for great princely power, That I may lead him on to eld, that the man watch his princedom long.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+परी॒ममिन्द्र॒मायु॑षे म॒हे क्ष॒त्राय॑ धत्तन।  
+यथै॑नं ज॒रसे॒ नयां ज्योक्क्ष॒त्रेऽधि॑ जागरत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परि॑। इ॒मम्। इन्द्र॑म्। आयु॑षे। म॒हे। क्ष॒त्राय॑। ध॒त्त॒न॒। यथा॑। ए॒न॒म्। ज॒रसे॑। न॒याम्। ज्योक्। क्ष॒त्रे। अधि॑। जा॒ग॒र॒त्। २४.२। 
+परि॑। इ॒मम्। इन्द्र॑म्। आयु॑षे। म॒हे। क्ष॒त्राय॑। ध॒त्त॒न॒। यथा॑। ए॒न॒म्। ज॒रसे॑। न॒याम्। ज्योक्। क्ष॒त्रे। अधि॑। जा॒ग॒र॒त्। २४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -66,4 +72,3 @@ Invest this Indra for long life, invest him for great princely power, That I may
 
 टिप्पणी:   २−(परि) सर्वतः (इमम्) (इन्द्रम्) परमैश्वर्यवन्तं पुरुषम् (आयुषे) जीवनाय (महे) महते (क्षत्राय) राज्याय (धत्तन) धारयत (यथा) येन प्रकारेण (एनम्) (जरसे) जॄ स्तुतौ-असुन्। जरतिरर्चतिकर्मा-निघ०३।१४। स्तुत्यै (नयाम्) लेट्। प्रापयेयम् (ज्योक्) चिरकालम् (क्षत्रे) राज्ये (अधि) अधिकृत्य (जागरत्) लेट्। जागृयात्। सावधानो भवेत् ॥
 </details>
-

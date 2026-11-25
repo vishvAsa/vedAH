@@ -21,9 +21,15 @@ at the end of **b**. The second half-verse is VS. xxxii. 14 **c, d**
 Do thou, O Agni, make me wise this day with that Intelligence. Which the creative ishis, which the men endowed with wisdom knew.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यामृष॑यो भूत॒कृतो॑ मे॒धां मे॑धा॒विनो॑ वि॒दुः।  
+तया॒ माम॒द्य मे॒धयाग्ने॑ मेधा॒विनं॑ कृणु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याम्। ऋषयः। भूतऽकृतः। मेधाम्। मेधाविनः। विदुः। तया। माम्। अद्य। मेधया। अग्ने। मेधाविनम्। कृणु। १०८.४। 
+याम्। ऋषयः। भूतऽकृतः। मेधाम्। मेधाविनः। विदुः। तया। माम्। अद्य। मेधया। अग्ने। मेधाविनम्। कृणु। १०८.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Do thou, O Agni, make me wise this day with that Intelligence. Which the creativ
 
 टिप्पणी:   ४−(याम्) (ऋषयः) अ० २।६।१। साक्षात्कृतधर्माणः (भूतकृतः) भूतमुचितं कर्म कुर्वन्ति ते (मेधाम्) धारणावतीं बुद्धिं सम्पत्तिं वा (मेधाविनः) धीमन्तः, ऐश्वर्यवन्तः (विदुः) साक्षात्कुर्वन्ति (तया) (माम्) उपासकम् (अद्य) अस्मिन् दिने (मेधया) धारणावत्या बुद्ध्या सम्पत्त्या वा (मेधाविनम्) बुद्धिमन्तं धनिनं वा (कृणु) कुरु ॥
 </details>
-

@@ -19,9 +19,15 @@ Ppp. again *pāuruṣe* at the end.
 Who gave him visible form and shape? Who gave him magni- tude and name? Who gave him motion, consciousness? Who furnished Purusha with feet?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+को अ॑स्मिन्रू॒पम॑दधा॒त्को म॒ह्मानं॑ च॒ नाम॑ च।  
+गा॒तुं को अ॑स्मि॒न्कः के॒तुं कश्च॒रित्रा॑णि॒ पूरु॑षे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कः। अ॒स्मि॒न्। रू॒पम्। अ॒द॒धा॒त्। कः। म॒ह्यान॑म्। च॒। नाम॑। च॒। गा॒तुम्। कः। अ॒स्मि॒न्। कः। के॒तुम्। कः। च॒रित्रा॑णि। पुरु॑षे। २.१२। 
+कः। अ॒स्मि॒न्। रू॒पम्। अ॒द॒धा॒त्। कः। म॒ह्यान॑म्। च॒। नाम॑। च॒। गा॒तुम्। कः। अ॒स्मि॒न्। कः। के॒तुम्। कः। च॒रित्रा॑णि। पुरु॑षे। २.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Who gave him visible form and shape? Who gave him magni- tude and name? Who gave
 
 टिप्पणी:   १२−(कः) म० ५। कर्ता वेधाः (मह्मानम्) म० ६। महत्त्वम् (गातुम्) गतिम्। प्रवृत्तिम् (केतुम्) विज्ञानम् (चरित्राणि) आचरणानि (पुरुषे) मनुष्ये। अन्यत् सरलम् ॥
 </details>
-

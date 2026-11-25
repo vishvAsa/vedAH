@@ -23,9 +23,14 @@ Ppp. puts this paragraph after our 26, and omits *rājā* after *somas* in
 She rose, she came unto the Seven Rishis. They called her,. Come, Rich in Devotion! hither. King Soma was her calf. the Moon her milk-pail. Brihaspati. Angirasa, her milker, Drew from her udder Prayer and Holy Fervour. Fervour and Prayer maintain the Seven Rishis. He who knows this becomes a meet supporter, a priest illustri- ous for his sacred knowledge.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मा॒द्वन॒स्पती॑नां संवत्स॒रे वृ॒क्णमपि॑ रोहति वृ॒श्चते॒ऽस्याप्रि॑यो॒ भ्रातृ॑व्यो॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्मा॑त्। वन॒स्पती॑नाम्। स॒म्ऽव॒त्स॒रे। वृ॒क्णम्। अपि॑। रो॒ह॒ति॒। वृ॒श्चते॑। अ॒स्य॒। अप्रि॑यः। भ्रातृ॑व्यः। यः। ए॒वम्। वेद॑। १२.२। 
+तस्मा॑त्। वन॒स्पती॑नाम्। स॒म्ऽव॒त्स॒रे। वृ॒क्णम्। अपि॑। रो॒ह॒ति॒। वृ॒श्चते॑। अ॒स्य॒। अप्रि॑यः। भ्रातृ॑व्यः। यः। ए॒वम्। वेद॑। १२.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ She rose, she came unto the Seven Rishis. They called her,. Come, Rich in Devoti
 
 टिप्पणी:   २−(तस्मात्) कारणात् (वृक्णम्) ओव्रश्चू छेदने-क्त। खण्डितभागः (अपि रोहति) प्रपूर्य्यते (वृश्चते) वृश्च्यते। छिद्यते (अस्य) ब्रह्मवादिनः। (अप्रियः) अहितः (भ्रातृव्ये) व्यन्त्सपत्ने पा० ४।१।१४५। भ्रातृ-व्यन्। भ्रातृभावरहितः। शत्रुः। मनोदोषः। अन्यत् पूर्ववत् ॥
 </details>
-

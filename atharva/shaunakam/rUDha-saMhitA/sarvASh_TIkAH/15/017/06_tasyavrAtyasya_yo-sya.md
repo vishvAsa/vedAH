@@ -16,9 +16,15 @@ title = "०६ तस्यव्रात्यस्य योऽस्य"
 His sixth diffused breath are the Season-groups.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्य॒व्रात्य॑स्य।  
+यो᳡ऽस्य॑ ष॒ष्ठो व्या॒नस्त आ॑र्त॒वाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। ष॒ष्ठः। वि॒ऽआ॒नः। ते। आ॒र्त॒वाः। १७.६। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। ष॒ष्ठः। वि॒ऽआ॒नः। ते। आ॒र्त॒वाः। १७.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +54,3 @@ His sixth diffused breath are the Season-groups.
 
 टिप्पणी:   ६−(आर्तवाः) ऋतुभवानांपुष्पफलादिपदार्थानां ज्ञानम्। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

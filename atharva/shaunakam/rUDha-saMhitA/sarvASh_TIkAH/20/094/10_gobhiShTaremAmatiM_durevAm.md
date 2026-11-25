@@ -8,9 +8,15 @@ title = "१० गोभिष्टरेमामतिं दुरेवा
 O Much-invoked, may we subdue all famine and evil want with store of grain and cattle. May we allied, as first in rank, with princes, obtain possessions by our own exertions.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+गोभि॑ष्टरे॒माम॑तिं दु॒रेवां॒ यवे॑न॒ क्षुधं॑ पुरुहूत॒ विश्वा॑म्।  
+व॒यं राज॑भिः प्रथ॒मा धना॑न्य॒स्माके॑न वृ॒जने॑ना जयेम ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-गीभिः॑। त॒रे॒म॒। अम॑तिम्। दुः॒ऽएवा॑म्। यवे॑न। क्षुध॑म्। पु॒रु॒ऽहू॒त॒। विश्वा॑म्। व॒यम्। राज॑ऽभिः। प्र॒थ॒माः। धना॑नि। अ॒स्माके॑न। वृ॒जने॑न। ज॒ये॒म॒। ९४.१०। 
+गीभिः॑। त॒रे॒म॒। अम॑तिम्। दुः॒ऽएवा॑म्। यवे॑न। क्षुध॑म्। पु॒रु॒ऽहू॒त॒। विश्वा॑म्। व॒यम्। राज॑ऽभिः। प्र॒थ॒माः। धना॑नि। अ॒स्माके॑न। वृ॒जने॑न। ज॒ये॒म॒। ९४.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ O Much-invoked, may we subdue all famine and evil want with store of grain and c
 
 टिप्पणी:   मन्त्र १०, ११ आचुके हैं-अ० २०।१७।१०, ११। और कुछ भेद से-२०।८९।१०, ११ ॥  १०, ११−मन्त्रौ व्याख्यातौ-अ० २०।१७।१०, ११ ॥
 </details>
-

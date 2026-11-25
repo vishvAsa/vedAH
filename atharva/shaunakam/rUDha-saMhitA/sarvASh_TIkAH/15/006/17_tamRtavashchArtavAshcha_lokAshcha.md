@@ -15,9 +15,14 @@ they of the worlds and the months and the half-months and day-and-night.
 The Seasons, groups of seasons, the worlds and their inhabitants, the months and half-months, and Day and Night followed him.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तमृ॒तव॑श्चार्त॒वाश्च॑ लो॒काश्च॑ लौ॒क्याश्च॒ मासा॑श्चार्धमा॒साश्चा॑होरा॒त्रेचा॑नु॒व्य᳡चलन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तम्। ऋ॒तवः॑। च॒। आ॒र्त॒वाः। च॒। लोकाः॑। च॒। लौ॒क्याः। च॒। मासाः॑। च॒। अ॒र्ध॒ऽमा॒साः। च॒। अ॒हो॒रा॒त्रे इति॑। च॒। अ॒नु॒ऽव्य᳡चलन्। ६.१७। 
+तम्। ऋ॒तवः॑। च॒। आ॒र्त॒वाः। च॒। लोकाः॑। च॒। लौ॒क्याः। च॒। मासाः॑। च॒। अ॒र्ध॒ऽमा॒साः। च॒। अ॒हो॒रा॒त्रे इति॑। च॒। अ॒नु॒ऽव्य᳡चलन्। ६.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,4 +52,3 @@ The Seasons, groups of seasons, the worlds and their inhabitants, the months and
 
 टिप्पणी:   १७, १८−(तम्)व्रात्यम् (ऋतवः) वसन्तादयः (आर्तवाः) ऋतुभवाः पदार्थाः (लोकाः) भुवनानि (लौक्याः) लोक-ण्य। लोकभवाः पदार्थाः (मासाः) (अर्धमासाः) (अहोरात्रे)रात्रिदिने। अन्यत् पूर्ववत् सुगमं च ॥
 </details>
-

@@ -19,9 +19,15 @@ Ppp. omits *nas* before *brūhi* in **a**, and has at the end *arāmasi*
 Do us no harm, but comfort us: avoid thou us, and be not wroth. Never let us contend with thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मा नो॑ हिंसी॒रधि॑ नो ब्रूहि॒ परि॑ णो वृङ्ग्धि॒ मा क्रु॑धः।  
+मा त्वया॒ सम॑रामहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मा। नः॒। हिं॒सीः॒। अधि॑। नः॒। ब्रू॒हि॒। परि॑। नः॒। वृ॒ङ्ग्धि॒। मा। क्रु॒धः॒। मा। त्वया॑। सम्। अ॒रा॒म॒हि॒। २.२०। 
+मा। नः॒। हिं॒सीः॒। अधि॑। नः॒। ब्रू॒हि॒। परि॑। नः॒। वृ॒ङ्ग्धि॒। मा। क्रु॒धः॒। मा। त्वया॑। सम्। अ॒रा॒म॒हि॒। २.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Do us no harm, but comfort us: avoid thou us, and be not wroth. Never let us con
 
 टिप्पणी:   २०−(नः) अस्मान् (मा हिंसीः) मा वधीः (अधि) ईश्वरत्वेन (नः) अस्मान् (परि) सर्वतः (वृङ्ग्धि) वर्जय। वियोजय (मा क्रुधः) म० १९। (त्वया) (मा सम् अरामहि) म० ७। समरं युद्धं न करवाम ॥
 </details>
-

@@ -17,9 +17,14 @@ Here again the Anukr. requires us to read *divò ‘j-*.
 स वै दि॒वोऽजायत॒ तस्मा॒द् द्यौरध्य॑जायत ॥३३॥
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स वै दि॒वो᳡जा॑यत॒ तस्मा॒द्द्यौरधि॑ अजायत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। वै। दि॒वः। अ॒जा॒य॒त॒। तस्मा॑त्। द्यौः। अधि॑। अ॒जा॒य॒त॒। ७.५। 
+सः। वै। दि॒वः। अ॒जा॒य॒त॒। तस्मा॑त्। द्यौः। अधि॑। अ॒जा॒य॒त॒। ७.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Here again the Anukr. requires us to read *divò ‘j-*.
 
 टिप्पणी:   ३३−(दिवः) कार्यरूपात् सूर्यात् (द्यौः) सूर्यः (अधि) यथाविधि। अन्यद् गतम् ॥
 </details>
-

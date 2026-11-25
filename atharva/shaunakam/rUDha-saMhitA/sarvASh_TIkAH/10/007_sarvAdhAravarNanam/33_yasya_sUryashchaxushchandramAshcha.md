@@ -20,9 +20,15 @@ the last pāda is one of 10 syllables (*virāj*).⌋
 Homage to highest Brahma, him whose eye is Surya and the Moon who groweth young and new again, him who made Agni for his mouth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्य॒ सूर्य॒श्चक्षु॑श्च॒न्द्रमा॑श्च॒ पुन॑र्णवः।  
+अ॒ग्निं यश्च॒क्र आ॒स्यं१॒॑ तस्मै॑ ज्ये॒ष्ठाय॒ ब्रह्म॑णे॒ नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्य॑। सूर्यः॑। चक्षुः॑। च॒न्द्रमाः॑। च॒। पुनः॑ऽनवः। अ॒ग्निम्। यः। च॒क्रे। आ॒स्य᳡म्। तस्मै॑। ज्ये॒ष्ठाय॑। ब्रह्म॑णे। नमः॑। ७.३३। 
+यस्य॑। सूर्यः॑। चक्षुः॑। च॒न्द्रमाः॑। च॒। पुनः॑ऽनवः। अ॒ग्निम्। यः। च॒क्रे। आ॒स्य᳡म्। तस्मै॑। ज्ये॒ष्ठाय॑। ब्रह्म॑णे। नमः॑। ७.३३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Homage to highest Brahma, him whose eye is Surya and the Moon who groweth young 
 
 टिप्पणी:   ३३−(यस्य) (सूर्यः) (चक्षुः) नेत्रतुल्यः (चन्द्रमाः) (च) (पुनर्णवः) पुनः पुनः सर्गादौ नवीनः सृष्टः (अग्निम्) (यः) (चक्रे) कृतवान् (आस्यम्) मुखतुल्यम्। अन्यत् पूर्ववत् ॥
 </details>
-

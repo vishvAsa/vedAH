@@ -18,9 +18,14 @@ Ppp. reads at the end *hvayāmahi* (without *iti*).
 Of her the Gods and men said, This she knoweth. That we may both have life let us invoke her.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यन्त्य॑स्य स॒भां सभ्यो॑ भवति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यन्ति॑। अ॒स्य॒। स॒भाम्। सभ्यः॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.९। 
+यन्ति॑। अ॒स्य॒। स॒भाम्। सभ्यः॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Of her the Gods and men said, This she knoweth. That we may both have life let u
 
 टिप्पणी:   ९−(सभ्यः) सभाया यः। पा० ४।४।१०५। सभा-य प्रत्ययः। सभायां साधुः। सभासद्। अन्यत्पूर्ववत् ॥
 </details>
-

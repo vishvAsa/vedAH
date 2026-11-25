@@ -17,9 +17,15 @@ encompasser on all sides: gleaming away our evil.
 To every side thy face is turned, thou art triumphant everywhere. His lustre flash our pain away!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वं हि वि॑श्वतोमुख वि॒श्वतः॑ परि॒भूर॑सि।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वम्। हि। वि॒श्व॒तः॒ऽमु॒ख॒। वि॒श्वतः॑। प॒रि॒ऽभूः। असि॑। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.६। 
+त्वम्। हि। वि॒श्व॒तः॒ऽमु॒ख॒। वि॒श्वतः॑। प॒रि॒ऽभूः। असि॑। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ To every side thy face is turned, thou art triumphant everywhere. His lustre fla
 
 टिप्पणी:   ६−(त्वम्) (हि) (विश्वतोमुख) हे मुखवत् सर्वोपदेशक, सर्वोत्तम, परमात्मन् (विश्वतः) सर्वतः (परिभूः) अ० ३।२१।४। ग्रहीता व्यापकः (असि) अन्यत् पूर्ववत् ॥
 </details>
-

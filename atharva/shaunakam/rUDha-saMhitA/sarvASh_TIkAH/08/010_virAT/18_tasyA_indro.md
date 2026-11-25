@@ -22,9 +22,14 @@ following paragraphs. Ppp. puts *vanaspatīnām* after *saṁvatsare*. ⌊For
 She rose, she came unto the tress: they killed her. A year went by and she again existed. Hence in a year the wounds of trees heal over. He who knows this sees his loathed rival wounded.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्या॒ इन्द्रो॑ व॒त्स आसी॑द्गाय॒त्र्य᳡भि॒धान्य॒भ्रमूधः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्याः॑। इन्द्रः॑। व॒त्सः। आसी॑त्। गा॒य॒त्री। अ॒भि॒ऽधानी॑। अ॒भ्रम्। ऊधः॑। ११.५। 
+तस्याः॑। इन्द्रः॑। व॒त्सः। आसी॑त्। गा॒य॒त्री। अ॒भि॒ऽधानी॑। अ॒भ्रम्। ऊधः॑। ११.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +59,3 @@ She rose, she came unto the tress: they killed her. A year went by and she again
 
 टिप्पणी:   ५−(तस्याः) विराजः (इन्द्रः) इन्द्रियमिन्द्रलिङ्गमिन्द्रदृष्ट०। पा० ५।२।९३। जीवः (वत्सः) वद कथने-स। उपदेष्टा (आसीत्) (गायत्री) अ० ८।९।१४। गानयोग्या वेदवाणी (अभिधानी) कथनशक्तिः (अभ्रम्) मेघः (ऊधः) श्वेः संप्रसारणं च। उ० ४।१९३। वह प्रापणे-असुन्, यद्वा उन्दी क्लेदने-असुन्, ऊधादेशः। सेचनसामर्थ्यम् ॥
 </details>
-

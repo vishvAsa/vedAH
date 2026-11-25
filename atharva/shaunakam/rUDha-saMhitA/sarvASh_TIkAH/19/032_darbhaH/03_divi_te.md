@@ -22,9 +22,15 @@ wrong emendation of the Berlin text.⌋ In **b**, the comm. has
 O Plant, thy root is in the sky, and thou art stationed on the earth: With thee who hast a thousand stalks we strengthen all the powers of life.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दि॒वि ते॒ तूल॑मोषधे पृथिव्यामसि॒ निष्ठि॑तः।  
+त्वया॑ स॒हस्र॑काण्डे॒नायुः॒ प्र व॑र्धयामहे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दि॒वि। ते॒। तूल॑म्। ओ॒ष॒धे॒। पृ॒थि॒व्याम्। अ॒सि॒। निऽस्थि॑तः। त्वया॑। स॒हस्र॑ऽकाण्डेन। आयुः॑। प्र। व॒र्ध॒या॒म॒हे॒। ३२.३। 
+दि॒वि। ते॒। तूल॑म्। ओ॒ष॒धे॒। पृ॒थि॒व्याम्। अ॒सि॒। निऽस्थि॑तः। त्वया॑। स॒हस्र॑ऽकाण्डेन। आयुः॑। प्र। व॒र्ध॒या॒म॒हे॒। ३२.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ O Plant, thy root is in the sky, and thou art stationed on the earth: With thee 
 
 टिप्पणी:   ३−(दिवि) सूर्य (ते) तव (तूलम्) तूल पूरणे-क प्रत्ययः। पूर्णत्वम् (ओषधे) हे ओषधिरूप परमात्मन् (पृथिव्याम्) भूमौ (निष्ठितः) अवस्थितः (त्वया) (सहस्रकाण्डेन) म०१। अनन्तरक्षणोपेतेन (आयुः) जीवनम् (प्र) प्रकर्षेण (वर्धयामहे) अभिवृद्धं कुर्मः ॥
 </details>
-

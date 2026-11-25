@@ -14,9 +14,14 @@ moved out after, making the cry *svā́hā* ('hail') \[his\] food-eater;
 He, when he went away to men, went away having become Agni and having made the exclamation Svaha an eater of food.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सयन्म॑नु॒ष्या॒३॒॑ननु॒ व्यच॑लद॒ग्निर्भू॒त्वानु॒व्य᳡चलत्स्वाहाका॒रम॑न्ना॒दंकृ॒त्वा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। यत्। म॒नु॒ष्या᳡न्। अनु॑। वि॒ऽअच॑लत्। अ॒ग्निः। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। स्वा॒हा॒ऽका॒रम्। अ॒न्न॒ऽअ॒दम्। कृ॒त्वा। । १४.१५। 
+सः। यत्। म॒नु॒ष्या᳡न्। अनु॑। वि॒ऽअच॑लत्। अ॒ग्निः। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। स्वा॒हा॒ऽका॒रम्। अ॒न्न॒ऽअ॒दम्। कृ॒त्वा। । १४.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ He, when he went away to men, went away having become Agni and having made the e
 
 टिप्पणी:   १५, १६−(मनुष्यान्)मननशीलान् पुरुषान् (अग्निः) अग्निवत्तेजस्वी (स्वाहाकारम्) स्वाहा वाङ्नाम-निघ०१।११। वेदविद्याप्रचारम् (स्वाहाकारेण) वेदविद्याप्रचारेण। अन्यत् पूर्ववत्-म०१, २ ॥
 </details>
-

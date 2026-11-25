@@ -16,9 +16,14 @@ title = "१६ तामुपाह्वयन्त"
 For him who knoweth this, Rathantara poureth out Plants, and Brihat yieldeth wide expansion.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तामुपा॑ह्वयन्त ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ताम्। उप॑। अ॒ह्व॒य॒न्त॒। ११.३। 
+ताम्। उप॑। अ॒ह्व॒य॒न्त॒। ११.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ For him who knoweth this, Rathantara poureth out Plants, and Brihat yieldeth wid
 
 टिप्पणी:   ३−(ताम्) (उप) उपेत्य (अह्वयन्त) आहूतवन्तः ॥
 </details>
-

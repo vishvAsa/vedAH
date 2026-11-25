@@ -21,9 +21,14 @@ devay-*. O.K. again accent *jānā́ti*.
 She rose, she came unto the Gods: they killed her: but in a fortnight she again was living. Fortnightly, hence, men serve the Gods with Vasat! Who knows this knows the way which Gods pass over.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ओष॑धीरे॒व र॑थन्त॒रेण॑ दे॒वा अ॑दुह्र॒न्व्यचो॑ बृ॒हता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ओष॑धीः। ए॒व। र॒थ॒म्ऽत॒रेण॑। दे॒वाः। अ॒दु॒ह्र॒न्। व्यचः॑। बृ॒ह॒ता। ११.७। 
+ओष॑धीः। ए॒व। र॒थ॒म्ऽत॒रेण॑। दे॒वाः। अ॒दु॒ह्र॒न्। व्यचः॑। बृ॒ह॒ता। ११.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ She rose, she came unto the Gods: they killed her: but in a fortnight she again 
 
 टिप्पणी:   ७, ८−(ओषधीः) अन्नादिपदार्थान् (एव) अवश्यम् (रथन्तरेण) म० ६। जगद्द्वारा (देवाः) गतिशीला लोकाः (अदुह्रन्) अदुहन्। प्रपूरितवन्तः (व्यचः) निरु० ८।१०। विस्तारम् (बृहता) म० ६। प्रवृद्धेनाकाशेन (अपः) प्रजाः−दयानन्दभाष्ये, यजु० ६।२७। उत्पन्नान् पदार्थान् (वामदेव्येन) म० ६। मनोहरेण परमात्मना विज्ञापितेन भूतपञ्चकेन (यज्ञम्) संयोगवियोगव्यवहारम् (यज्ञायज्ञियेन) म० ६। सर्वयज्ञेभ्यो हितेन वेदज्ञानेन ॥
 </details>
-

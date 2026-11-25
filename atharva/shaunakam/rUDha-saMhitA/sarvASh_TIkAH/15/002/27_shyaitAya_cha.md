@@ -7,17 +7,22 @@ title = "२७ श्यैताय च"
 
 **c.** ⌊23.⌋ against both the  
 *śyāitá* and the *nāudhasá* and the seven seers and king Soma doth he  
-offend who revileth a thus-knowing Vrātya; 
+offend who revileth a thus-knowing Vrātya;
 </details>
 
 <details><summary>Griffith</summary>
 
-He who reviles the Vratya possessing this knowledge is alienated from Syaita, etc. 
+He who reviles the Vratya possessing this knowledge is alienated from Syaita, etc.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+श्यै॒ताय॑ च॒ वैस नौ॑ध॒साय॑ च सप्त॒र्षिभ्य॑श्च॒ सोमा॑य च॒ राज्ञ॒ आ वृ॑श्चते॒ य ए॒वंवि॒द्वांसं॒ व्रात्य॑मुप॒वद॑ति ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-श्यै॒ताय॑। च॒। वै। सः। नौ॒ध॒साय॑। च॒। स॒प्त॒र्षिऽभ्यः॑। च॒। सोमा॑य। च॒। राज्ञे॑। आ। वृ॒श्च॒ते॒। यः। ए॒वम्। वि॒द्वांस॑म्। व्रात्य॑म्। उ॒प॒ऽवद॑ति। २.२३। 
+श्यै॒ताय॑। च॒। वै। सः। नौ॒ध॒साय॑। च॒। स॒प्त॒र्षिऽभ्यः॑। च॒। सोमा॑य। च॒। राज्ञे॑। आ। वृ॒श्च॒ते॒। यः। ए॒वम्। वि॒द्वांस॑म्। व्रात्य॑म्। उ॒प॒ऽवद॑ति। २.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,4 +52,3 @@ He who reviles the Vratya possessing this knowledge is alienated from Syaita, et
 
 टिप्पणी:   २३−(श्यैताय) म० २२।सद्गतिप्रापकाय वेदज्ञानाय (नौधसाय) म० २२। ऋषीणां हितकराय मोक्षज्ञानाय (सप्तर्षिभ्यः) सबुद्धिषडिन्द्रियेभ्यः (सोमाय) प्रेरकाय मनुष्याय (राज्ञे)ऐश्वर्यवते। अन्यत् पूर्ववत्-म० ३ ॥
 </details>
-

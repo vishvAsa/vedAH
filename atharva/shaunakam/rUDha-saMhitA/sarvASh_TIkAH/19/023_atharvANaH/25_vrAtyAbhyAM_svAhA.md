@@ -21,9 +21,14 @@ hail!' See my note, p. 770, ¶3.⌋
 Hail to the two Vratya hymns!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व्रा॒त्याभ्यां॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-व्रा॒त्याभ्या॑म्। स्वाहा॑। २३.२५। 
+व्रा॒त्याभ्या॑म्। स्वाहा॑। २३.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ Hail to the two Vratya hymns!
 
 टिप्पणी:   २५−(व्रात्याभ्याम्) अ०१५।१।१। व्रात-यत्। व्राताः, मनुष्य-नाम-निघ०२।३। मनुष्येभ्यो हिताभ्यां बलपराक्रमाभ्याम् ॥
 </details>
-

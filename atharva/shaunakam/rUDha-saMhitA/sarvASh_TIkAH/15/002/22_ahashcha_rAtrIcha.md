@@ -14,6 +14,11 @@ etc. etc.
 Day and Night are his running attendants, Mind, etc., as above.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अह॑श्च॒ रात्री॑च परिष्क॒न्दौ मनो॑ विप॒थम्।
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अहः॑ । च॒ । रात्री॑ । च॒ । प॒रि॒ऽस्क॒न्दौ । मनः॑ । वि॒ऽप॒थम् ।

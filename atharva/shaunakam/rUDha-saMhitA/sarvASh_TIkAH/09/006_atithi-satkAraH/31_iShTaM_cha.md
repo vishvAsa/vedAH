@@ -21,9 +21,14 @@ and defines them as if the text read *pū́rvo átither*.
 Now that man who eats before the guest eats up the sacrifice and the merit of the house.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒ष्टं च॒ वा ए॒ष पू॒र्तं च॑ गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒ष्टम्। च॒। वै। ए॒षः। पू॒र्तम्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.१। 
+इ॒ष्टम्। च॒। वै। ए॒षः। पू॒र्तम्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ Now that man who eats before the guest eats up the sacrifice and the merit of th
 
 टिप्पणी:   १−(इष्टम्) अ० २।१२।४। अभीष्टं सुखं यज्ञवेदाध्ययनादिकम् (च) (वै) (एषः) गृहस्थः (पूर्तम्) अ० २।१२।४। अन्नदानादिकम् (च) (गृहाणाम्) तेषां मध्ये (अश्नाति) भक्षयति। नाशयति (यः) गृहस्थः (पूर्वः) प्रथमः सन् (अतिथेः) महामान्यात् (अश्नाति) खादति ॥
 </details>
-

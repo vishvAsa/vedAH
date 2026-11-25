@@ -21,9 +21,14 @@ Here ends also the third *prapāṭhaka.*
 Shield art thou, shield me well. All hail
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प॑रि॒पाण॑मसि परि॒पाणं॑ मे दाः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प॒रि॒ऽपान॑म्। अ॒सि॒। प॒रि॒ऽपान॑म्। मे॒। दाः॒। स्वाहा॑। १७.७। 
+प॒रि॒ऽपान॑म्। अ॒सि॒। प॒रि॒ऽपान॑म्। मे॒। दाः॒। स्वाहा॑। १७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ Shield art thou, shield me well. All hail
 
 टिप्पणी:   ७–परिपाणम्। परि+पा रक्षणे–ल्युट्। कृत्यचः। पा० ८।४।२९। इति नस्य णत्वम्। परितः सर्वतः पालनं रक्षणसामर्थ्यम् ॥
 </details>
-

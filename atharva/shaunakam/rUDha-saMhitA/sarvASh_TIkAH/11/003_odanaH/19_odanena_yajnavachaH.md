@@ -21,9 +21,14 @@ prāptavyatveno ’cyamānaḥ*.
 The sacrificial word, all worlds are to be won with Odana.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ओ॑द॒नेन॑ यज्ञव॒चः सर्वे॑ लो॒काः स॑मा॒प्याः᳡ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ओ॒द॒नेन॑। य॒ज्ञ॒ऽव॒चः। सर्वे॑। लो॒काः। स॒म्ऽआ॒प्याः᳡। ३.१९। 
+ओ॒द॒नेन॑। य॒ज्ञ॒ऽव॒चः। सर्वे॑। लो॒काः। स॒म्ऽआ॒प्याः᳡। ३.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ The sacrificial word, all worlds are to be won with Odana.
 
 टिप्पणी:   १९−(ओदनेन) अ० ९।५।१९। सुखवर्षकेण, अन्नरूपेण परमेश्वरेण (यज्ञवचः) वचेः कर्मणि-विच्। यज्ञैः श्रेष्ठकर्मभिः कथ्यमानाः (सर्वे) (लोकाः) भुवनानि (समाप्याः) सम्यक् प्रापणीयाः ॥
 </details>
-

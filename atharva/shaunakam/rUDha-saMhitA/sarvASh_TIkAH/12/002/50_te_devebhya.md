@@ -24,9 +24,15 @@ could easily scan **d** as an *anuṣṭubh* pāda, *áśvevānvápate naḍám*
 They sever from the Gods, they live in sin and misery evermore, Those whom from very near at hand Carnivorous Agni casteth down as a horse tramples down the reeds.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ते दे॒वेभ्य॒ आ वृ॑श्चन्ते पा॒पं जी॑वन्ति सर्व॒दा।  
+क्र॒व्याद्यान॒ग्निर॑न्ति॒कादश्व॑ इवानु॒वप॑ते न॒डम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ते। दे॒वेभ्यः॑। आ। वृ॒श्च॒न्ते॒। पा॒पम्। जी॒व॒न्ति॒। स॒र्व॒दा। क्र॒व्य॒ऽअत्। यान्। ‍ अ॒ग्निः। अ॒न्ति॒कात्। अश्वः॑ऽइव। अ॒नु॒ऽवप॑ते। न॒डम्। २.५०। 
+ते। दे॒वेभ्यः॑। आ। वृ॒श्च॒न्ते॒। पा॒पम्। जी॒व॒न्ति॒। स॒र्व॒दा। क्र॒व्य॒ऽअत्। यान्। ‍ अ॒ग्निः। अ॒न्ति॒कात्। अश्वः॑ऽइव। अ॒नु॒ऽवप॑ते। न॒डम्। २.५०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ They sever from the Gods, they live in sin and misery evermore, Those whom from 
 
 टिप्पणी:   ५०−(ते) मनुष्याः (देवेभ्यः) विद्वत्सकाशात् (आ) समन्तात् (वृश्चन्ते) वृश्च्यन्ते। छिद्यन्ते। पृथग् भवन्ति (पापम्) यथा तथा, पापेन (जीवन्ति) (सर्वदा) (क्रव्यात्) मांसभक्षकः (यान्) पुरुषान् (अग्निः) अग्निवत्सन्तापको दोषः (अन्तिकात्) समीपात् (अश्वः) (इव) (अनुवपते) निरन्तरं मुण्डयति छिनत्ति (नडम्) तृणविशेषम् ॥
 </details>
-

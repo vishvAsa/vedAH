@@ -19,9 +19,15 @@ again our 14 **a, b** and 15 **c, d**, without other variant.
 Come hither with the Wind, yea, come with every creature borne on wings. Laden with holy verse and song the Cow hath leapt into the sea.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सं हि वाते॒नाग॑त॒ समु॒ सर्वैः॑ पत॒त्रिभिः॑।  
+व॒शा स॑मु॒द्रे प्रानृ॑त्य॒दृचः॒ सामा॑नि॒ बिभ्र॑ती ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सम्। हि। वाते॑न। अग॑त। सम्। ऊं॒ इति॑। सर्वैः॑। प॒त॒त्रिऽभिः॑। व॒शा। स॒मु॒द्रे। प्र। अ॒नृ॒त्य॒त्। ऋचः॑। सामा॑नि। बिभ्र॑ती। १०.१४। 
+सम्। हि। वाते॑न। अग॑त। सम्। ऊं॒ इति॑। सर्वैः॑। प॒त॒त्रिऽभिः॑। व॒शा। स॒मु॒द्रे। प्र। अ॒नृ॒त्य॒त्। ऋचः॑। सामा॑नि। बिभ्र॑ती। १०.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Come hither with the Wind, yea, come with every creature borne on wings. Laden w
 
 टिप्पणी:   १४−(वातेन) वायुना (सम् सम् अगत) म० १३। निरन्तरं संगतवती (सर्वैः) समस्तैः (पतत्रिभिः) पक्षिभिः (समुद्रे) अन्तरिक्षे (प्र) प्रकर्षेण (अनृत्यत्) अङ्गानि विक्षिप्तवती (ऋचः) स्तुत्या वेदवाणीः (सामानि) अ० ७।५४।१। मोक्षज्ञानानि (बिभ्रती) धारयन्ती। अन्यत् पूर्ववत् ॥
 </details>
-

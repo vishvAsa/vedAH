@@ -19,9 +19,15 @@ The *pada*-mss. unaccountably read *ut॰vépamānā* (instead of -*nāḥ*) in
 When sacrificial butter hath been offered, let our foemen flee. Through consternation, terrified, trembling in mind and eye and heart.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उ॒द्वेप॑माना॒ मन॑सा॒ चक्षु॑षा॒ हृद॑येन च।  
+धाव॑न्तु॒ बिभ्य॑तो॒ऽमित्राः॑ प्रत्रा॒सेनाज्ये॑ हु॒ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उ॒त्ऽवेष॑मानाः। मन॑सा। चक्षु॑षा। हृद॑येन। च॒। धाव॑न्तु। बिभ्य॑तः। अ॒मित्राः॑। प्र॒ऽत्रा॒सेन॑। आज्ये॑। हु॒ते। २१.२। 
+उ॒त्ऽवेष॑मानाः। मन॑सा। चक्षु॑षा। हृद॑येन। च॒। धाव॑न्तु। बिभ्य॑तः। अ॒मित्राः॑। प्र॒ऽत्रा॒सेन॑। आज्ये॑। हु॒ते। २१.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ When sacrificial butter hath been offered, let our foemen flee. Through constern
 
 टिप्पणी:   २−(उद्वेपमानाः) अत्यन्तं कम्पमानाः (मनसा) चित्तेन (चक्षुषा) नेत्रेण (हृदयेन) अन्तःकरणेन (धावन्तु) पलायन्ताम् (बिभ्यतः) भयं प्राप्नुवन्तः (अमित्राः) पीडकाः शत्रवः (प्रत्रासेन) व्याकुलत्वेन (आज्ये) घृते (हुते) अग्नौ प्रक्षिप्ते सति (च) ॥
 </details>
-

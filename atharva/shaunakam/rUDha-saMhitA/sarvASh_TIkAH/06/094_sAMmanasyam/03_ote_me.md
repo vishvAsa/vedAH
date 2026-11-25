@@ -20,9 +20,15 @@ paraphrases *ota* by *ābhimukhyena saṁtata* or *parasparaṁ saṁbaddha*.
 I have invoked both Heaven and Earth, invoked divine Sarasvati, Indra and Agni have I called: Sarasvati, so may we thrive!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती।  
+ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒र्ध्यास्मे॒दं स॑रस्वति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ओते॒ इत्याऽउ॑ते। मे॒। द्यावा॑पृथि॒वी इति॑। आऽउ॑ता। दे॒वी। सर॑स्वती। आऽउ॑तौ। मे॒। इन्द्रः॑। च॒। अ॒ग्निः। च॒। ऋ॒ध्यास्म॑। इ॒दम्। स॒र॒स्व॒ति॒। ९४.३। 
+ओते॒ इत्याऽउ॑ते। मे॒। द्यावा॑पृथि॒वी इति॑। आऽउ॑ता। दे॒वी। सर॑स्वती। आऽउ॑तौ। मे॒। इन्द्रः॑। च॒। अ॒ग्निः। च॒। ऋ॒ध्यास्म॑। इ॒दम्। स॒र॒स्व॒ति॒। ९४.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ I have invoked both Heaven and Earth, invoked divine Sarasvati, Indra and Agni h
 
 टिप्पणी:   ३−(ओते) आ+वेञ् तन्तुसन्ताने−क्त। परस्परं स्यूने। अन्तर्व्याप्ते (सरस्वती) विज्ञानवती विद्या (इन्द्रः) मेघः (ऋध्यास्म) ऋधु वृद्धौ। श्रीमन्तो भूयास्म। अन्यद् गतम्−अ० ५।२३।१ ॥
 </details>
-

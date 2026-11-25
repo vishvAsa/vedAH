@@ -5,12 +5,18 @@ title = "०१ विततौ किरणौ"
 
 <details><summary>Griffith</summary>
 
-Two rays of light are lengthened out, and the man gently touches them with the two beatings on the drum. 
+Two rays of light are lengthened out, and the man gently touches them with the two beatings on the drum.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वित॑तौ किरणौ॒ द्वौ तावा॑ पिनष्टि॒ पूरु॑षः।  
+न वै॑ कुमारि॒ तत्तथा॒ यथा॑ कुमारि॒ मन्य॑से ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-वित॑तौ। किरणौ॒। द्वौ। तौ। आ॑। पिनष्टि॒। पूरु॑षः। न। वै। कु॒मारि॒। तत्। तथा॒। यथा॑। कुमारि॒। मन्य॑से। १३३.१। 
+वित॑तौ। किरणौ॒। द्वौ। तौ। आ॑। पिनष्टि॒। पूरु॑षः। न। वै। कु॒मारि॒। तत्। तथा॒। यथा॑। कुमारि॒। मन्य॑से। १३३.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +45,3 @@ Two rays of light are lengthened out, and the man gently touches them with the t
 
 टिप्पणी:   [पदपाठ के लिये सूचना सूक्त १२७ देखो ॥]१−(विततौ) विस्तृतौ (किरणौ)  प्रकाशरश्मी। शारीरिकबलात्मिकपराक्रमौ (द्वौ) (तौ) किरणौ (आ) समन्तात् (पिनष्टि) पिष्लृ संचूर्णने। संचूर्णीकरोति। सूक्ष्मतया प्रयोजयति (पूरुषः) शरीरी जीवः (न) निषेधे (वै) निश्चयेन (कुमारि) कमेः किदुच्चोपधायाः। उ० ३।१३८। कमु कान्तौ-आरन् कित् अकारस्य उकारः, यद्वा कुमार क्रीडने-पचाद्यच्, ङीप्। हे कमनीये स्त्रि (तत्) कर्म (तथा) (यथा) (कुमारि) (मन्यसे) जानासि ॥
 </details>
-

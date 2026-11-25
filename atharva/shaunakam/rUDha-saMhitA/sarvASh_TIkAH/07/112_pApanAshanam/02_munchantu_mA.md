@@ -19,9 +19,15 @@ This verse is a repetition of vi. 96. 2.
 Release me from the curse's bond and plague that comes from Varuna; Free me from Yama's fetter and from every sin against the Gods.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मु॒ञ्चन्तु॑ मा शप॒थ्या॒३॒॑दथो॑ वरु॒ण्या᳡दु॒त।  
+अथो॑ य॒मस्य॒ पड्वी॑शा॒द्विश्व॑स्माद्देवकिल्बि॒षात् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मु॒ञ्चन्तु॑। मा॒। श॒प॒थ्या᳡त्। अथो॒ इति॑। व॒रु॒ण्या᳡त्। उ॒त। अथो॒ इति॑। य॒मस्‍य॑। पड्वी॑शात्। विश्व॑स्मात्। दे॒व॒ऽकि॒ल्बि॒षात्। ११७.२। 
+मु॒ञ्चन्तु॑। मा॒। श॒प॒थ्या᳡त्। अथो॒ इति॑। व॒रु॒ण्या᳡त्। उ॒त। अथो॒ इति॑। य॒मस्‍य॑। पड्वी॑शात्। विश्व॑स्मात्। दे॒व॒ऽकि॒ल्बि॒षात्। ११७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Release me from the curse's bond and plague that comes from Varuna; Free me from
 
 टिप्पणी:   २−(मुञ्चन्तु) मोचयन्तु (ताः) आपः-म० १। (देवकिल्बिषात्) परमेश्वरं प्रति दोषात्। अन्यद् व्याख्यातम्-अ० ६।९६।२ ॥
 </details>
-

@@ -30,9 +30,15 @@ with this one; and this verse is used again, with the preceding verse
 Prepare thy body: speed thou on thy journey: let not thy limbs,. thy frame be left behind thee. Follow to its repose thy resting spirit: go to whatever spot of earth thou lovest.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र च्य॑वस्वत॒न्वं१॒॑ सं भ॑रस्व॒ मा ते॒ गात्रा॒ वि हा॑यि॒ मो शरी॑रम्।  
+मनो॒निवि॑ष्टमनु॒संवि॑शस्व॒ यत्र॒ भूमे॑र्जु॒षसे॒ तत्र॑ गच्छ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र। च्य॒व॒स्व॒। त॒न्व॑म्। सम्। भ॒र॒स्व॒। मा। ते॒। गात्रा॑। वि। हा॒यि॒। मो इति॑। शरी॑रम्। मनः॑। निऽवि॑ष्टम्। अ॒नु॒ऽसंवि॑शस्व। यत्र॑। भूमेः॑। जु॒षसे॑। तत्र॑। ग॒च्छ॒। ३.९। 
+प्र। च्य॒व॒स्व॒। त॒न्व॑म्। सम्। भ॒र॒स्व॒। मा। ते॒। गात्रा॑। वि। हा॒यि॒। मो इति॑। शरी॑रम्। मनः॑। निऽवि॑ष्टम्। अ॒नु॒ऽसंवि॑शस्व। यत्र॑। भूमेः॑। जु॒षसे॑। तत्र॑। ग॒च्छ॒। ३.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -62,4 +68,3 @@ Prepare thy body: speed thou on thy journey: let not thy limbs,. thy frame be le
 
 टिप्पणी:   ९−(प्र) प्रकर्षेण। अग्रे (च्यवस्व) च्यावय। गमय (तन्वम्) शरीरम् (सम्) संगत्य (भरस्व) पोषय (मा) निषेधे (ते) तव (गात्रा) ....... त्यक्तं भवेत् (मो) नैव (शरीरम्) (मनः) चित्तम् (निविष्टम्) अवस्थितम् (अनुसंविशस्व) अनुसृत्य प्रविष्टो भव (यत्र) स्थाने (भूमेः) पृथिव्याः (जुषसे) प्रीतिं करोषि (तत्र) स्थाने (गच्छ) ॥
 </details>
-

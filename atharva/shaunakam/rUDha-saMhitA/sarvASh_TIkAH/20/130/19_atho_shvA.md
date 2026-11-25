@@ -8,9 +8,14 @@ title = "१९ अथो श्वा"
 Then not defective be our steeds!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अथो॒ श्वा अस्थि॑रो भवन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अथो॑। श्वा। अस्थि॑रः। भवन्। १३०.१९। 
+अथो॑। श्वा। अस्थि॑रः। भवन्। १३०.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Then not defective be our steeds!
 
 टिप्पणी:   १९−(अथो) पक्षान्तरे। अथवा (श्वा) श्वन्नुक्षन्पूषन्०। उ० १।१९। टुओश्वि गतिवृद्ध्योः-कनिन्। कुक्कुरो यथा (अस्थिरः) चञ्चलप्रकृतिः (भवन्) सन् ॥
 </details>
-

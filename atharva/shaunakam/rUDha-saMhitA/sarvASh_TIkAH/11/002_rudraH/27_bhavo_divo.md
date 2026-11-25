@@ -24,9 +24,15 @@ kā cane ’ha;* it also combines *bhavā ”papra* ⌊*urv*⌋ in **b**.
 Ruler of heaven and Lord of earth is Bhava: Bhava hath filled the spacious air's mid-region. Where'er he be, to him be paid our homage!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+भ॒वो दि॒वो भ॒व ई॑शे पृथि॒व्या भ॒व आ प॑प्र उ॒र्व१॒॑न्तरि॑क्षम्।  
+तस्मै॒ नमो॑ यत॒मस्यां॑ दि॒शी॒३॒॑तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-भ॒वः। दि॒वः। भ॒वः। ई॒शे॒। पृ॒थि॒व्याः। भ॒वः। आ। प॒प्रे॒। उ॒रु। अ॒न्तरि॑क्षम्। तस्मै॑। नमः॑। य॒त॒मस्या॑म्। दि॒शि। इ॒तः। २.२७। 
+भ॒वः। दि॒वः। भ॒वः। ई॒शे॒। पृ॒थि॒व्याः। भ॒वः। आ। प॒प्रे॒। उ॒रु। अ॒न्तरि॑क्षम्। तस्मै॑। नमः॑। य॒त॒मस्या॑म्। दि॒शि। इ॒तः। २.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Ruler of heaven and Lord of earth is Bhava: Bhava hath filled the spacious air's
 
 टिप्पणी:   २७−(भवः) म० ३। सुखोत्पादकः परमेश्वरः (दिवः) सूर्यस्य (ईशे) तलोपः। ईष्टे। राजति (पृथिव्याः) भूमेः (आ) समन्तात् (पप्रे) प्रा पूरणे-लिट्, आत्मनेपदं छान्दसम्। पप्रौ। पूरितवान् (उरु) विस्तृतम् (अन्तरिक्षम्) आकाशम् (तस्मै) (भवाय) परमेश्वराय। अन्यद् गतं पूर्ववच्च-म० १२।१४ ॥
 </details>
-

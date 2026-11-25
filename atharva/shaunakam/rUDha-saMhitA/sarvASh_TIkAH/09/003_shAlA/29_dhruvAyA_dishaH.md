@@ -16,9 +16,14 @@ title = "२९ ध्रुवाया दिशः"
 So from the mansion's every side to the Great Power be homage paid! Hail to the Gods whose due is Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ध्रु॒वाया॑ दि॒शः शाला॑या॒ नमो॑ महि॒म्ने स्वाहा॑ दे॒वेभ्यः॑ स्वा॒ह्ये᳡भ्यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ध्रु॒वायाः॑। दि॒शः शाला॑याः। नमः॑। म॒हि॒म्ने। स्वाहा॑। दे॒वेभ्यः॑। स्वा॒ह्ये᳡भ्यः। ३.२९। 
+ध्रु॒वायाः॑। दि॒शः शाला॑याः। नमः॑। म॒हि॒म्ने। स्वाहा॑। दे॒वेभ्यः॑। स्वा॒ह्ये᳡भ्यः। ३.२९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +53,3 @@ So from the mansion's every side to the Great Power be homage paid! Hail to the 
 
 टिप्पणी:   २९−(ध्रुवायाः) अ० ३।२६।४। नीचस्थायाः सकाशात् ॥
 </details>
-

@@ -18,9 +18,15 @@ who has not given her is fearful.
 This Brahmans! is your sacrifice: thus should one think when he is asked, What time they beg from him the Cow fearful in the with- holder's house.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒तद्वो॑ ब्राह्मणा ह॒विरिति॑ मन्वीत याचि॒तः।  
+व॒शां चेदे॑नं॒ याचे॑यु॒र्या भी॒माद॑दुषो गृ॒हे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒तत्। वः॒। ब्रा॒ह्म॒णाः॒। ह॒विः। इति॑। म॒न्वी॒त॒। या॒चि॒तः। व॒शाम्। च॒। इत्। ए॒न॒म्। याचे॑युः। या। भी॒मा। अद॑दुषः। गृ॒हे। ४.४८। 
+ए॒तत्। वः॒। ब्रा॒ह्म॒णाः॒। ह॒विः। इति॑। म॒न्वी॒त॒। या॒चि॒तः। व॒शाम्। च॒। इत्। ए॒न॒म्। याचे॑युः। या। भी॒मा। अद॑दुषः। गृ॒हे। ४.४८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ This Brahmans! is your sacrifice: thus should one think when he is asked, What t
 
 टिप्पणी:   ४८−(एतत्) (वः) युष्माकम् (ब्राह्मणाः) हे ब्रह्मचारिणः (हविः) ग्राह्यं वस्तु (इति) एवम् (मन्वीत) जानीयात् (याचितः) प्रार्थितः पुरुषः (वशाम्) कमनीयां वेदवाणीम् (च इत्) एव (एनम्) पुरुषम् (याचेयुः) भिक्षेरन् (या) वेदवाणी (भीमा) भयङ्करा (अददुषः) अदत्तवतः पुरुषस्य (गृहे) गेहे ॥
 </details>
-

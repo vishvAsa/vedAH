@@ -20,9 +20,14 @@ book xiii. ⌊which is designated by *rohitāis* at Kāuś. 99. 4⌋.
 Hail to the Rohitas!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+रो॑हि॒तेभ्यः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-रो॒हि॒तेभ्यः॑। स्वाहा॑। २३.२३। 
+रो॒हि॒तेभ्यः॑। स्वाहा॑। २३.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ Hail to the Rohitas!
 
 टिप्पणी:   २३−(रोहितेभ्यः) रुहे रश्च लो वा। उ०३।९४। रुह प्रादुर्भावे-इतन्। प्रादुर्भावशीलेभ्यो धार्मिकगुणयुक्तेभ्यो वेदेभ्यः ॥
 </details>
-

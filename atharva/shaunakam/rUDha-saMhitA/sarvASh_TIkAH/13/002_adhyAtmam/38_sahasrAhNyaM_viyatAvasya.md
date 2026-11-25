@@ -20,9 +20,15 @@ We had the verse above as x. 8. 18, and it is repeated again below as 3.
 This gold-hued Hansa's wings, soaring to heaven, spread o'er a thousand days' continued journey Supporting all the Gods upon his bosom, he goes his way behold- ing every creature.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑हस्रा॒ह्ण्यं विय॑तावस्य प॒क्षौ हरे॑र्हं॒सस्य॒ पत॑तः स्व॒र्गम्।  
+स दे॒वान्त्सर्वा॒नुर॑स्युप॒दद्य॑ सं॒पश्य॑न्याति॒ भुव॑नानि॒ विश्वा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒ह॒स्र॒ऽअ॒ह्न्यम्। विऽय॑तौ। अ॒स्य॒। प॒क्षौ। हरेः॑। हं॒सस्य॑। पत॑तः। स्वः॒ऽगम्। सः। दे॒वान्। सर्वा॑न्। उर॑सि। उ॒प॒ऽदद्य॑। स॒म्ऽपश्य॑न्। या॒ति॒। भुव॑नानि। विश्वा॑। २.३८। 
+स॒ह॒स्र॒ऽअ॒ह्न्यम्। विऽय॑तौ। अ॒स्य॒। प॒क्षौ। हरेः॑। हं॒सस्य॑। पत॑तः। स्वः॒ऽगम्। सः। दे॒वान्। सर्वा॑न्। उर॑सि। उ॒प॒ऽदद्य॑। स॒म्ऽपश्य॑न्। या॒ति॒। भुव॑नानि। विश्वा॑। २.३८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ This gold-hued Hansa's wings, soaring to heaven, spread o'er a thousand days' co
 
 टिप्पणी:   ३८-अयं मन्त्रो व्याख्यातः-अथर्व० १०।८।१८। तत्रैव द्रष्टव्यः। (हंसस्य) वृतॄवदिवचिवसिहनि०। उ० ३।६२। हन हिंसागत्योः-स। ज्ञानिनो व्यापकस्य परमेश्वरस्य ॥
 </details>
-

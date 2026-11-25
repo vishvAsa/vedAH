@@ -8,9 +8,15 @@ title = "१४ चित्रं देवानामुदगादनीक
 The brilliant Presence of the Gods hath risen, the eye of Mitra, Varuna, and Agni. The soul of all that moveth not or moveth, Surya hath filled the earth and air and heaven.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+चि॒त्रं दे॒वाना॒मुद॑गा॒दनी॑कं॒ चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः।  
+आप्रा॒द्द्यावा॑पृथि॒वी अ॒न्तरि॑क्षं॒ सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुष॑श्च ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-चि॒त्रम्। दे॒वाना॑म्। उत्। अ॒गा॒त्। अनी॑कम्। चक्षुः॑। मि॒त्र॒स्य॑। वरु॑णस्य। अ॒ग्नेः। आ। अ॒प्रा॒त्। द्यावा॑पृथि॒वी इति॑। अ॒न्तरि॑क्षम्। सूर्यः॑। आ॒त्मा। जग॑तः। त॒स्थुषः॑। च॒। १०७.१४। 
+चि॒त्रम्। दे॒वाना॑म्। उत्। अ॒गा॒त्। अनी॑कम्। चक्षुः॑। मि॒त्र॒स्य॑। वरु॑णस्य। अ॒ग्नेः। आ। अ॒प्रा॒त्। द्यावा॑पृथि॒वी इति॑। अ॒न्तरि॑क्षम्। सूर्यः॑। आ॒त्मा। जग॑तः। त॒स्थुषः॑। च॒। १०७.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ The brilliant Presence of the Gods hath risen, the eye of Mitra, Varuna, and Agn
 
 टिप्पणी:   १३, १४−मन्त्रौ व्याख्यातौ-अथर्व० १३।२।३४, ३ ॥
 </details>
-

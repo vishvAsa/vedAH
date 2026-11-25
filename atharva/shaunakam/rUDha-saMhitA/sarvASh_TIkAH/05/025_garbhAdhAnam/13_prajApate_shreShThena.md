@@ -19,14 +19,20 @@ accordingly, with mechanical correctness.
 O Lord of Life, Prajapati, within this woman's body lay A male germ with the noblest form for her in the tenth month to bear.
 </details>
 
-<details><summary>पदपाठः</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-प्रजा॑ऽपते। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१३। 
+प्रजा॑पते॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
+पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-प्रजा॑ऽपते। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१३। 
+प्रजा॑ऽपते। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१३।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+प्रजा॑ऽपते। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -36,4 +42,3 @@ O Lord of Life, Prajapati, within this woman's body lay A male germ with the nob
 - विराट्पुरस्ताद्बृहती
 - गर्भाधान सूक्त
 </details>
-

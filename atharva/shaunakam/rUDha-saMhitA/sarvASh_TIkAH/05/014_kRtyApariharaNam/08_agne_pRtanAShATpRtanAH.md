@@ -21,9 +21,15 @@ unmetrical, and the third hardly metrical.
 Agni, victorious in fight, subdue the armies of our foes! Back on the sorcerer we cast his sorcery, and beat it home.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॑ पृतनाषा॒ट्पृत॑नाः सहस्व।  
+पुनः॑ कृ॒त्यां कृ॑त्या॒कृते॑ प्रति॒हर॑णेन हरामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। पृ॒त॒ना॒षा॒ट्। पृत॑नाः। स॒ह॒स्व॒। पुनः॑। कृ॒त्याम्। कृ॒त्या॒ऽकृते॑। प्र॒ति॒ऽहर॑णेन। ह॒रा॒म॒सि॒। १४.८। 
+अग्ने॑। पृ॒त॒ना॒षा॒ट्। पृत॑नाः। स॒ह॒स्व॒। पुनः॑। कृ॒त्याम्। कृ॒त्या॒ऽकृते॑। प्र॒ति॒ऽहर॑णेन। ह॒रा॒म॒सि॒। १४.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ Agni, victorious in fight, subdue the armies of our foes! Back on the sorcerer w
 
 टिप्पणी:   ८−(अग्ने) हे विद्वन् सेनापते (पृतनाषाट्) छन्दसि षहः। पा० ३।२।६३। इति पृतना+षह अभिभवे−ण्वि। सहेः साडः सः। पा० ८।३।५६। इति सस्य षः। संग्रामजेता (पृतनाः) अ० ३।२१।३। संग्रामान् (सहस्व) अभिभव (पुनः) अवश्यम् (कृत्याम्) हिंसाम् (कृत्याकृते) हिंसाकारिणे (प्रतिहरणेन) प्रतिकूलनयनेन। निरोधेन (हरामसि) नाशयामः ॥
 </details>
-

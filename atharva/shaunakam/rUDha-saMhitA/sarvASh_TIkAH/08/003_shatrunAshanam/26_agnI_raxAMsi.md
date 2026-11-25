@@ -22,9 +22,15 @@ tu*.⌋
 Bright, radiant, meet to be adored, immortal with refulgent glow, Agni drives Rakshasas away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्नी रक्षां॑सि सेधति शु॒क्रशो॑चि॒रम॑र्त्यः।  
+शुचिः॑ पाव॒क ईड्यः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। रक्षां॑सि। से॒ध॒ति॒। शु॒क्रऽशो॑चिः। अम॑र्त्य। शुचिः॑। पा॒व॒कः। ईड्यः॑। ३.२६। 
+अ॒ग्निः। रक्षां॑सि। से॒ध॒ति॒। शु॒क्रऽशो॑चिः। अम॑र्त्य। शुचिः॑। पा॒व॒कः। ईड्यः॑। ३.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Bright, radiant, meet to be adored, immortal with refulgent glow, Agni drives Ra
 
 टिप्पणी:   २६−(अग्निः) अग्निवत्तेजस्वी सेनाधीशः (रक्षांसि) दुष्टान् (सेधति) षिधु शासने। शास्ति (शुक्रशोचिः) शुद्धतेजाः (अमर्त्यः) अमरणधर्मा। महापुरुषार्थी (शुचिः) पवित्रः (पावकः) संशोधकः (ईड्यः) स्तुत्यः। अन्वेषणीयः ॥
 </details>
-

@@ -8,9 +8,14 @@ title = "०९ पृदाकवः"
 Three adders, breathing angrily, are blowing loud the threatening horn. (with next verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पृदा॑कवः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पृदा॑कवः। १२९.। 
+पृदा॑कवः। १२९.।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Three adders, breathing angrily, are blowing loud the threatening horn. (with ne
 
 टिप्पणी:   ९−(पृदाकवः) अजगराः। बृहत्सर्पाः ॥
 </details>
-

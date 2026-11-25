@@ -24,9 +24,15 @@ text.
 Dark the descent: the birds are golden-coloured. Robed in the floods they fly aloft to heaven. Again from Order's seat have they descended, and inundated all the earth with fatness.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत्प॑तन्ति।  
+तं आव॑वृत्र॒न्त्सद॑नादृ॒तस्यादिद्घृ॒तेन॑ पृथि॒वीं व्यू᳡दुः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कृ॒ष्णम्। नि॒ऽयान॑म्। हर॑यः। सु॒ऽप॒र्णाः। अ॒पः। वसा॑नाः। दिव॑म्। उत्। प॒त॒न्ति॒। ते। आ। अ॒व॒वृ॒त्र॒न्। सद॑नात्। ऋ॒तस्य॑। आत्। इत्। घृ॒तेन॑। पृ॒थि॒वीम्। वि। ऊ॒दुः॒। १५.२२। 
+कृ॒ष्णम्। नि॒ऽयान॑म्। हर॑यः। सु॒ऽप॒र्णाः। अ॒पः। वसा॑नाः। दिव॑म्। उत्। प॒त॒न्ति॒। ते। आ। अ॒व॒वृ॒त्र॒न्। सद॑नात्। ऋ॒तस्य॑। आत्। इत्। घृ॒तेन॑। पृ॒थि॒वीम्। वि। ऊ॒दुः॒। १५.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Dark the descent: the birds are golden-coloured. Robed in the floods they fly al
 
 टिप्पणी:   २२-अयं मन्त्रो व्याख्यातः-अ० ६।२२।१ ॥
 </details>
-

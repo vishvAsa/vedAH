@@ -19,9 +19,15 @@ compound in **d**. ⌊In some copies the *i* of *priyā* is broken.⌋
 Rise up, O Godlike Being, rise, Arbudi, with thine army: this, Tribute is sacrificed to thee, Trishandhi's welcome offering
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उत्ति॑ष्ठ॒ त्वं दे॑वज॒नार्बु॑दे॒ सेन॑या स॒ह।  
+अ॒यं ब॒लिर्व॒ आहु॑त॒स्त्रिष॑न्धे॒राहु॑तिः प्रि॒या ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। ति॒ष्ठ॒। त्वम्। दे॒व॒ऽज॒न॒। अर्बु॑दे। सेन॑या। स॒ह। अ॒यम्। ब॒लिः। वः॒। आऽहु॑तः। त्रिऽसं॑धेः। आऽहु॑तिः। प्रि॒या। १२.५। 
+उत्। ति॒ष्ठ॒। त्वम्। दे॒व॒ऽज॒न॒। अर्बु॑दे। सेन॑या। स॒ह। अ॒यम्। ब॒लिः। वः॒। आऽहु॑तः। त्रिऽसं॑धेः। आऽहु॑तिः। प्रि॒या। १२.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Rise up, O Godlike Being, rise, Arbudi, with thine army: this, Tribute is sacrif
 
 टिप्पणी:   ५−(उत्तिष्ठ) उद्गच्छ (त्वम्) (देवजन) हे विजयिन् (अर्बुदे) अ० ११।९।१। हे पुरुषार्थिन् सेनापते (सेनया) (सह) (अयम्) (बलिः) बल दाने जीवने च-इन्। उपहारः (वः) युष्मभ्यम् (आहुतः) समन्ताद्दत्तः (त्रिषन्धेः) म० २। विदुषः सेनापतेः (आहुतिः) दानम् (प्रिया) प्रीता ॥
 </details>
-

@@ -7,17 +7,22 @@ title = "०२ तं बृहच्चरथन्तरम्"
 
 ### Translation
 **b.** ⌊2.⌋ after him moved out both the *bṛhát* and the  
-*rathaṁtará* and the Ādityas and all the gods; 
+*rathaṁtará* and the Ādityas and all the gods;
 </details>
 
 <details><summary>Griffith</summary>
 
-The Brihat, the Rathantara, the Adityas and all the Gods followed him. 
+The Brihat, the Rathantara, the Adityas and all the Gods followed him.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तं बृ॒हच्च॑रथन्त॒रं चा॑दि॒त्याश्च॒ विश्वे॑ च दे॒वा अ॑नु॒व्य᳡चलन् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-तम्। बृ॒हत्। च॒। र॒थ॒म्ऽत॒रम्। च॒। आ॒दि॒त्याः। च॒। विश्वे॑। च॒। दे॒वाः। अ॒नु॒ऽव्य᳡चलन्। २.२। 
+तम्। बृ॒हत्। च॒। र॒थ॒म्ऽत॒रम्। च॒। आ॒दि॒त्याः। च॒। विश्वे॑। च॒। दे॒वाः। अ॒नु॒ऽव्य᳡चलन्। २.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,4 +52,3 @@ The Brihat, the Rathantara, the Adityas and all the Gods followed him.
 
 टिप्पणी:   २−(तम्) व्रात्यं परमात्मानम् (बृहत्) प्रवृद्धमाकाशम् (च) (रथन्तरम्) अ० ८।१०(२)।६। रमु क्रीडायाम्-क्थन्+तॄ प्लवनतरणयोः-खच् मुम् च।रमणीयैर्गुणैस्तरणीयं जगत् (च) (आदित्याः) आदीप्यमानाः सूर्यादिलोकाः (च) (विश्वे)सर्वे (च) (देवाः) दिवु गतौ-पचाद्यच्। गतिमन्तो लोकाः (अनुव्यचलन्) अनुसृत्यव्यचरन् ॥
 </details>
-

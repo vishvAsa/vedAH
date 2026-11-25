@@ -14,9 +14,14 @@ herbs as food-eaters doth he eat food who knoweth thus.
 He who hath this knowledge eats food with herbs as food-eaters.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ओष॑धीभिरन्ना॒दीभि॒रन्न॑मत्ति॒ य ए॒वं वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ओष॑धीभिः। अ॒न्न॒ऽअ॒दीभिः॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.१२। 
+ओष॑धीभिः। अ॒न्न॒ऽअ॒दीभिः॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ He who hath this knowledge eats food with herbs as food-eaters.
 
 टिप्पणी:   ११, १२−(पशून्)जीवजन्तून् (रुद्रः) रुङ् हिंसायाम्-क्विप् तुक् च+रुङ् हिंसायाम्-ड। शत्रुनाशकः (ओषधीः) यवव्रीह्यादिरूपाः (ओषधीभिः) यवव्रीह्यादिभिः (अन्नादीभिः)जीवनरक्षिकाभिः। अन्यत् पूर्ववत्-म० १, २ ॥
 </details>
-

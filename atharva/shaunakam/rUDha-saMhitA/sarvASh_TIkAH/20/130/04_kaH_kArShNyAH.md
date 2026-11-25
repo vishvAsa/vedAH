@@ -8,9 +8,14 @@ title = "०४ कः कार्ष्ण्याः"
 Who took the black cow s milk away?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+कः का॒र्ष्ण्याः पयः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-कः। का॒र्ष्ण्याः। पयः॑। १३०.४। 
+कः। का॒र्ष्ण्याः। पयः॑। १३०.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Who took the black cow s milk away?
 
 टिप्पणी:   ४−(कः) (कार्ष्ण्याः) घृणिपृश्नपार्ष्णि०। उ० ४।२। कृष विलेखने-निप्रत्ययः, वृद्धिश्च। आकर्षकक्रियायाः (पयः) म० २ ॥
 </details>
-

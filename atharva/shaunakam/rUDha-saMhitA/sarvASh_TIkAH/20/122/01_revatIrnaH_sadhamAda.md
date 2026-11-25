@@ -16,15 +16,20 @@ With mighty strength,
 Wherewith fed we may be glad.
 </details>
 
-
 <details><summary>Griffith</summary>
 
 With Indra splendid feasts be ours enriched with ample spoil, wherewith, Wealthy in food, we may rejoice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+रे॒वती॑र्नः सध॒माद॒ इन्द्रे॑ सन्तु तु॒विवा॑जाः।  
+क्षु॒मन्तो॒ याभि॒र्मदे॑म ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-रे॒वतीः॑। नः॒। स॒ध॒ऽमादे॑। इन्द्रे॑। स॒न्तु॒। तु॒विऽवा॑जाः। क्षु॒ऽमन्तः॑। याभिः॑। मदे॑म। १२२.१। 
+रे॒वतीः॑। नः॒। स॒ध॒ऽमादे॑। इन्द्रे॑। स॒न्तु॒। तु॒विऽवा॑जाः। क्षु॒ऽमन्तः॑। याभिः॑। मदे॑म। १२२.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +59,3 @@ With Indra splendid feasts be ours enriched with ample spoil, wherewith, Wealthy
 
 टिप्पणी:   यह तृच ऋग्वेद में है-१।३०।१३-१ सामवेद उ० ४।१। तृच १४ म० १ सा० पू० २।६।८ ॥  १−(रेवतीः) धनवत्यः प्रजाः (नः) अस्माकम् (सधमादे) आनन्देन सह वर्तमाने महोत्सवे (इन्द्रे) परमैश्वर्यवति सभाध्यक्षे (सन्तु) (तुविवाजाः) बहुबलयुक्ताः (क्षुमन्तः) बहुविधान्नयुक्ताः (याभिः) प्रजाभिः (मदेम) हृष्येम ॥
 </details>
-

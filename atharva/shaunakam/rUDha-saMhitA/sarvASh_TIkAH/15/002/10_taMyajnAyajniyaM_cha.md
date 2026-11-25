@@ -12,12 +12,17 @@ title = "१० तंयज्ञायज्ञियं च"
 
 <details><summary>Griffith</summary>
 
-Yajnayajniya and Vamadevya and Sacrifice and Sacrificer and sacrificial victims followed him. 
+Yajnayajniya and Vamadevya and Sacrifice and Sacrificer and sacrificial victims followed him.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तंय॑ज्ञाय॒ज्ञियं॑ च॒ वा॑मदे॒व्यं च॑ य॒ज्ञश्च॒ यज॑मानश्चप॒शव॑श्चानु॒व्य᳡चलन्॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-तम्। य॒ज्ञा॒य॒ज्ञिय॑म्। च॒। वा॒म॒ऽदे॒व्यम्। च॒। य॒ज्ञः। च॒। यज॑मानः। च॒। प॒शवः॑। च॒। अ॒नु॒ऽव्य᳡चलन्। २.१०। 
+तम्। य॒ज्ञा॒य॒ज्ञिय॑म्। च॒। वा॒म॒ऽदे॒व्यम्। च॒। य॒ज्ञः। च॒। यज॑मानः। च॒। प॒शवः॑। च॒। अ॒नु॒ऽव्य᳡चलन्। २.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,4 +52,3 @@ Yajnayajniya and Vamadevya and Sacrifice and Sacrificer and sacrificial victims 
 
 टिप्पणी:   १०−(तम्) व्रात्यं परमात्मानम् (यज्ञायज्ञियम्) अ०८।१०(२)।६। यज्ञायज्ञ-घ प्रत्ययः। सर्वेभ्यो यज्ञेभ्यो हितं वेदज्ञानम् (च) (वामदेव्यम्) अ० ४।३४।१। वामदेवाड् ड्यड्ड्यौ। पा० ४।२।९। वामदेव-ड्य। वामदेवेनश्रेष्ठपरमेश्वरेण विज्ञापितं पृथिव्यादिभूतपञ्चकम् (च) (यज्ञः) पूजनीयव्यवहारः (च) (यजमानः) पूजनीयव्यवहारकर्ता (च) (पशवः) जन्तवः-निरु० ११।२९। (अनुव्यचलन्)अनुसृत्य विचरितवन्तः ॥
 </details>
-

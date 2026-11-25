@@ -26,9 +26,15 @@ irregular verse (8 + 7: 10 = 25) is but ill defined by the Anukr.
 Thy downward paths from heaven, whereby thou hast raised all the world to life, Give us in gracious love, good Lord!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये ते॒ पन्था॑नोऽव दि॒वो येभि॒र्विश्व॒मैर॑यः।  
+तेभिः॑ सुम्न॒या धे॑हि नो वसो ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। ते॒। पन्था॑नः। अव॑। दि॒वः। येभिः॑। विश्व॑म्। ऐर॑यः। तेभिः॑। सु॒म्न॒ऽया। आ। धे॒हि॒। नः॒। व॒सो॒ इति॑। ५७.२। 
+ये। ते॒। पन्था॑नः। अव॑। दि॒वः। येभिः॑। विश्व॑म्। ऐर॑यः। तेभिः॑। सु॒म्न॒ऽया। आ। धे॒हि॒। नः॒। व॒सो॒ इति॑। ५७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Thy downward paths from heaven, whereby thou hast raised all the world to life, 
 
 टिप्पणी:   १−(ये) (ते) तव (पन्थानः) वेदमार्गाः (अव) निश्चयेन (दिवः) प्रकाशस्य (येभिः) यैः (विश्वम्) जगत् (ऐरयः) ईर गतौ-लङ्। प्रेरितवानसि (तेभिः) तैः पथिभिः (सुम्नया) आतश्चोपसर्गे। पा० ३।१।१३६। इति सु+म्ना अभ्यासे-क। विभक्तेर्याजादेशः। सुम्नं सुखम्-निघ० ३।६। सुम्नेन सुखेन (आ) सम्यक् (धेहि) पोषय (नः) अस्मान् (वसो) हे श्रेष्ठपरमात्मन् ॥
 </details>
-

@@ -19,9 +19,15 @@ MS. has nearly the same verse in ii. 7. 13, but with **a** like our 2
 We call on Savitar the God, on Pushan the establisher, Tvashtar the foremost we address: may they deliver us from woe.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ब्रू॒मो दे॒वं स॑वि॒तारं॑ धा॒तार॑मु॒त पू॒षण॑म्।  
+त्वष्टा॑रमग्रि॒यं ब्रू॑म॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ब्रू॒मः। दे॒वम्। स॒वि॒तार॑म्। धा॒तार॑म्। उ॒त। पू॒षण॑म्। त्वष्टा॑रम्। अ॒ग्रि॒यम्। ब्रू॒मः॒। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.३। 
+ब्रू॒मः। दे॒वम्। स॒वि॒तार॑म्। धा॒तार॑म्। उ॒त। पू॒षण॑म्। त्वष्टा॑रम्। अ॒ग्रि॒यम्। ब्रू॒मः॒। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ We call on Savitar the God, on Pushan the establisher, Tvashtar the foremost we 
 
 टिप्पणी:   ३−(देवम्) विजयिनम् (सवितारम्) प्रेरकम् (धातारम्) धारकम् (उत) अपि च (पूषणम्) पोषकम् (त्वष्टारम्) त्वक्षू तनूकरणे-तृन्। सूक्ष्मीकर्तारम्। प्रवीणं पुरुषम् (अग्रियम्) अ० ५।२।८। अग्रेभवम्। अन्यत् पूर्ववत् म० १ ॥
 </details>
-

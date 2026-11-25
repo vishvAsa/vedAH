@@ -20,9 +20,15 @@ Or *aṅśumant* means 'rich in rays,' Soma having its secondary sense of
 Bhaga hath lifted up this man, and Soma with his filaments, Indra and Agni, and the Gods the Maruts, raised him up to health.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+उदे॑नं॒ भगो॑ अग्रभी॒दुदे॑नं॒ सोमो॑ अंशु॒मान्।  
+उदे॑नं म॒रुतो॑ दे॒वा उदि॑न्द्रा॒ग्नी स्व॒स्तये॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-उत्। ए॒न॒म्। भगः॑। अ॒ग्र॒भी॒त्। उत्। ए॒न॒म्। सोमः॑। अं॒शु॒ऽमान्। उत्। ए॒न॒म्। म॒रुतः॑। दे॒वाः। उत्। इ॒न्द्रा॒ग्नी इति॑। स्व॒स्तये॑। १.२। 
+उत्। ए॒न॒म्। भगः॑। अ॒ग्र॒भी॒त्। उत्। ए॒न॒म्। सोमः॑। अं॒शु॒ऽमान्। उत्। ए॒न॒म्। म॒रुतः॑। दे॒वाः। उत्। इ॒न्द्रा॒ग्नी इति॑। स्व॒स्तये॑। १.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Bhaga hath lifted up this man, and Soma with his filaments, Indra and Agni, and 
 
 टिप्पणी:   २−(उत्) ऊर्ध्वम् (एनम्) पुरुषम् (भगः) सेवनीयः सूर्यः (अग्रभीत्) अग्रहीत्। धृतवान् (उत्) (एनम्) (सोमः) चन्द्रः (अंशुमान्) प्रशस्तकिरणयुक्तः (उत्) (एनम्) (मरुतः) अ० १।२०।१। वायुगणाः (देवाः) प्रशस्तगुणाः (उत्) (इन्द्राग्नी) विद्युत्पावकौ (स्वस्तये) अ० १।३०।२। सु+अस सत्तायाम्-ति। सुसत्तायै ॥
 </details>
-

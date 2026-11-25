@@ -20,9 +20,15 @@ verse is quoted in Kāuś. 32. 23.
 From every member drive away the venom, and avoid the heart. Then let the poison's burning heat pass downward and away- from thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अङ्गा॑दङ्गा॒त्प्र च्या॑वय॒ हृद॑यं॒ परि॑ वर्जय।  
+अधा॑ वि॒षस्य॒ यत्तेजो॑ऽवा॒चीनं॒ तदे॑तु ते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अङ्गा॑त्ऽअङ्गात्। प्र। च्य॒व॒य॒। हृद॑यम्। परि॑। व॒र्ज॒य॒। अध॑। वि॒षस्य॑। यत्। तेजः॑। अ॒वा॒चीन॑म्। तत्। ए॒तु॒। ते॒। ४.२५। 
+अङ्गा॑त्ऽअङ्गात्। प्र। च्य॒व॒य॒। हृद॑यम्। परि॑। व॒र्ज॒य॒। अध॑। वि॒षस्य॑। यत्। तेजः॑। अ॒वा॒चीन॑म्। तत्। ए॒तु॒। ते॒। ४.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ From every member drive away the venom, and avoid the heart. Then let the poison
 
 टिप्पणी:   २५−(अङ्गादङ्गात्) (प्र च्यवय) बहिर्गमय (हृदयम्) (परि) सर्वतः (वर्जय) रोधय (अध) अथ (विषस्य) (यत्) (तेजः) तीक्ष्णता (अवाचीनम्) अधोमुखं गतम् (तत्) (एतु) गच्छतु (ते) तुभ्यम् ॥
 </details>
-

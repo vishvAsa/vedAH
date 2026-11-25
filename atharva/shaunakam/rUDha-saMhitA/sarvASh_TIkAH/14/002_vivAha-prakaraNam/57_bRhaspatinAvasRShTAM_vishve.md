@@ -16,9 +16,15 @@ title = "५७ बृहस्पतिनावसृष्टां विश
 Her whom Brihaspati, etc. With all the milky store possessed by cows do we enrich this girl.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+बृह॒स्पति॒नाव॑सृष्टां॒ विश्वे॑ दे॒वा अ॑धारयन्।  
+पयो॒ गोषु॒ प्रवि॑ष्टं॒यत्तेने॒मां सं सृ॑जामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-बृह॒स्पति॑ना। अव॑ऽसृष्टाम्। विश्वे॑। दे॒वाः। अ॒धा॒र॒य॒न्। पयः॑। गोषु॑। प्रऽवि॑ष्टम्। यत्। तेन॑। इ॒माम्। सम्। सृ॒जा॒म॒सि॒। २.५७। 
+बृह॒स्पति॑ना। अव॑ऽसृष्टाम्। विश्वे॑। दे॒वाः। अ॒धा॒र॒य॒न्। पयः॑। गोषु॑। प्रऽवि॑ष्टम्। यत्। तेन॑। इ॒माम्। सम्। सृ॒जा॒म॒सि॒। २.५७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +54,3 @@ Her whom Brihaspati, etc. With all the milky store possessed by cows do we enric
 
 टिप्पणी:   ५७−(पयः) पय गतौ-असुन्। विज्ञानम्। अन्यद् गतम् ॥
 </details>
-

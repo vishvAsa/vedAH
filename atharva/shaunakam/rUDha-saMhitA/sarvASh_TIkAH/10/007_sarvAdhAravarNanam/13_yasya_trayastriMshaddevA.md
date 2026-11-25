@@ -18,9 +18,15 @@ Wanting in Ppp., as noted above.
 Who out of many, tell me, is that Skambha He in whose body are contained all three-and-thirty Deities?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्य॒ त्रय॑स्त्रिंशद्दे॒वा अङ्गे॒ सर्वे॑ स॒माहि॑ताः।  
+स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्य॑। त्रयः॑ऽत्रिंशत्। दे॒वाः। अङ्गे॑। सर्वे॑। स॒म्ऽआहि॑ताः। स्क॒म्भम्। तम्। ब्रू॒हि॒। क॒त॒मः। स्वि॒त्। ए॒व। सः। ७.१३। 
+यस्य॑। त्रयः॑ऽत्रिंशत्। दे॒वाः। अङ्गे॑। सर्वे॑। स॒म्ऽआहि॑ताः। स्क॒म्भम्। तम्। ब्रू॒हि॒। क॒त॒मः। स्वि॒त्। ए॒व। सः। ७.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Who out of many, tell me, is that Skambha He in whose body are contained all thr
 
 टिप्पणी:   १३−(यस्य) परमेश्वरस्य (त्रयस्त्रिंशत्) वस्वादयः−ऋग्वेदादिभाष्यभूमिका पृष्ठानि ६८-६८ (देवाः) वस्वादयो दिव्यपदार्थाः (अङ्गे) (सर्वे) समाहिताः सम्यक् स्थापिताः। अन्यत् पूर्ववत् ॥
 </details>
-

@@ -17,9 +17,15 @@ these the Brahmans ask her; under their wrath falls he who gives not.
 For Agni and for Soma, for Kama, Mitra and Varuna, For these the Brahmans ask: from these is he who giveth not estranged.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒ग्नीषो॑माभ्यां॒ कामा॑य मि॒त्राय॒ वरु॑णाय च।  
+तेभ्यो॑ याचन्ति ब्राह्म॒णास्तेष्वा वृ॑श्च॒तेऽद॑दत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒ग्नीषोमा॑भ्याम्। कामा॑य। मि॒त्राय॑। वरु॑णाय। च॒। तेभ्यः॑। या॒च॒न्ति॒। ब्रा॒ह्म॒णाः। तेषु॑। आ। वृ॒श्च॒ते॒। अद॑दत्। ४.२६। 
+अ॒ग्नीषोमा॑भ्याम्। कामा॑य। मि॒त्राय॑। वरु॑णाय। च॒। तेभ्यः॑। या॒च॒न्ति॒। ब्रा॒ह्म॒णाः। तेषु॑। आ। वृ॒श्च॒ते॒। अद॑दत्। ४.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ For Agni and for Soma, for Kama, Mitra and Varuna, For these the Brahmans ask: f
 
 टिप्पणी:   २६−(अग्नीषोमाभ्याम्) अग्निजलविद्यासिद्धये (कामाय) इष्टपदार्थप्राप्तये (मित्राय) प्राणविद्याप्राप्तये (वरुणाय) अपानविद्याप्राप्तये (च) (तेभ्यः) पूर्वोक्तेभ्यः (याचन्ति) प्रार्थयन्ते (ब्राह्मणाः) वेदाध्येतारः (तेषु) ब्राह्मणेषु (आ) समन्ताम् (वृश्चते) छिद्यते (अददत्) अप्रयच्छन् ॥
 </details>
-

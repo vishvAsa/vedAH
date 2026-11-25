@@ -17,9 +17,15 @@ title = "०१ दौष्वप्न्यं दौर्जीवित्
 The fearful dream, and indigence, the monster, the malignant hags. All female fiends of evil name and wicked tongue we drive afar.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दौष्व॑प्न्यं॒ दौर्जी॑वित्यं॒ रक्षो॑ अ॒भ्व॑मरा॒य्यः॑।  
+दु॒र्णाम्नीः॒ सर्वा॑ दु॒र्वाच॒स्ता अ॒स्मन्ना॑शयामसि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दौःऽस्व॑प्न्यम्। दौःऽजी॑वित्यम्। रक्षः॑। अ॒भ्व᳡म्। अ॒रा॒य्यः᳡। दुः॒ऽनाम्नीः॑। सर्वाः॑। दुः॒ऽवाचः॑। ताः। अ॒स्मत्। ना॒श॒या॒म॒सि॒। २४.१। 
+दौःऽस्व॑प्न्यम्। दौःऽजी॑वित्यम्। रक्षः॑। अ॒भ्व᳡म्। अ॒रा॒य्यः᳡। दुः॒ऽनाम्नीः॑। सर्वाः॑। दुः॒ऽवाचः॑। ताः। अ॒स्मत्। ना॒श॒या॒म॒सि॒। २४.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ The fearful dream, and indigence, the monster, the malignant hags. All female fi
 
 टिप्पणी:   १-अयं मन्त्रो व्याख्यातः-अ० ४।१७।५ ॥
 </details>
-

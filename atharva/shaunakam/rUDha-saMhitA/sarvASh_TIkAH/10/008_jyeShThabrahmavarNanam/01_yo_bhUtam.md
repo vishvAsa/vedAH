@@ -19,9 +19,15 @@ The concluding pāda is that of some of the verses of the preceding hymn
 Worship to loftiest Brahma, Lord of what hath been and what shall be, To him who rules the universe, and heavenly light is all his own!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो भू॒तं च॒ भव्यं॑ च॒ सर्वं॒ यश्चा॑धि॒तिष्ठ॑ति।  
+स्व१॒॑र्यस्य॑ च॒ केव॑लं॒ तस्मै॑ ज्ये॒ष्ठाय॒ ब्रह्म॑णे॒ नमः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। भू॒तम्। च॒। भव्य॑म्। च॒। सर्व॑म्। यः। च॒। अ॒धि॒ऽतिष्ठ॑ति। स्वः᳡। यस्य॑। च॒। केव॑लम्। तस्मै॑। ज्ये॒ष्ठाय॑। ब्रह्म॑णे। नमः॑। ८.१। 
+यः। भू॒तम्। च॒। भव्य॑म्। च॒। सर्व॑म्। यः। च॒। अ॒धि॒ऽतिष्ठ॑ति। स्वः᳡। यस्य॑। च॒। केव॑लम्। तस्मै॑। ज्ये॒ष्ठाय॑। ब्रह्म॑णे। नमः॑। ८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Worship to loftiest Brahma, Lord of what hath been and what shall be, To him who
 
 टिप्पणी:   १−(यः) परमेश्वरः (भूतम्) अतीतकालम् (च च) समुच्चये (भव्यम्) अनागतकालम् (सर्वम्) समस्तं जगत् (यः) (च) (अधितिष्ठति) शास्ति (स्वः) सुखम् (यस्य) ईश्वरस्य (च) (केवलम्) सेवनीयं स्वरूपम् (तस्मै) पूर्वोक्ताय (ज्येष्ठाय) अ० १०।७।१७। वृद्धतमाय। प्रशस्यतमाय (ब्रह्मणे) अ० १०।७।३२। महते प्रजापतये परमेश्वराय (नमः) नमस्कारः ॥
 </details>
-

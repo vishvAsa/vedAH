@@ -29,9 +29,15 @@ shorter equivalent forms, our text is most clearly at fault⌋.
 Now from the bond of Varuna I loose thee, wherein the blessed Savitar hath bound thee. O bride, I give thee here beside thy husband fair space and room and pleasant paths to travel.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र त्वा॑मुञ्चामि॒ वरु॑णस्य॒ पाशा॒द्येन॒ त्वाब॑ध्नात्सवि॒ता सु॒शेवाः॑।  
+उ॒रुं लो॒कंसु॒गमत्र॒ पन्थां॑ कृणोमि॒ तुभ्यं॑ स॒हप॑त्न्यै वधु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र। त्वा॒ ॒। मु॒ञ्चा॒मि॒। वरु॑णस्य। पाशा॑त्। येन॑। त्वा॒। अब॑ध्नात्। स॒वि॒ता॒। सु॒ऽशेवाः॑। उ॒रुम्। लो॒कम्। सु॒गऽगम्। अत्र॑। पन्था॑म्। कृ॒णोमि॑। तुभ्य॑म्। स॒हऽप॑त्न्यै। व॒धु॒। १.५८। 
+प्र। त्वा॒ ॒। मु॒ञ्चा॒मि॒। वरु॑णस्य। पाशा॑त्। येन॑। त्वा॒। अब॑ध्नात्। स॒वि॒ता॒। सु॒ऽशेवाः॑। उ॒रुम्। लो॒कम्। सु॒गऽगम्। अत्र॑। पन्था॑म्। कृ॒णोमि॑। तुभ्य॑म्। स॒हऽप॑त्न्यै। व॒धु॒। १.५८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,4 +67,3 @@ Now from the bond of Varuna I loose thee, wherein the blessed Savitar hath bound
 
 टिप्पणी:   ५८−पूर्वार्द्धो व्याख्यातः-म० १९ (उरुम्) विस्तृतम् (लोकम्) गृहम् (सुगम्)सुखेन गन्तव्यम् (अत्र) अस्मिन् गृहाश्रमे (पन्थाम्) पन्थानम् (कृणोमि) करोमि (तुभ्यम्) (सहपत्न्यै) पत्या सह वर्तमानायै (वधु) हे पत्नि ॥
 </details>
-

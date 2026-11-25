@@ -19,9 +19,14 @@ All the mss. read *práyastā*, but Bp. has *pra॰yáṅchaṅtī*, Bs.
 Poison when in agitation, fever when seasoned with condi- ments;
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒षं प्र॒यस्य॑न्ती त॒क्मा प्रय॑स्ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒षम्। प्र॒ऽयस्य॑न्ती। त॒क्मा। प्रऽय॑स्ता। ८.४। 
+वि॒षम्। प्र॒ऽयस्य॑न्ती। त॒क्मा। प्रऽय॑स्ता। ८.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Poison when in agitation, fever when seasoned with condi- ments;
 
 टिप्पणी:   ३१−(विषम्) (प्रयस्यन्ती) प्रयासं क्लेशं सहमाना (तक्मा) अ० १।२५।१। कृच्छ्रजीवनकारी ज्वरो यथा (प्रयस्ता) आयासं क्लेशं प्राप्ता ॥
 </details>
-

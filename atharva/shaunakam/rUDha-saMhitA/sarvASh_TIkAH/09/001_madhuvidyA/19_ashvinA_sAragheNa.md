@@ -18,9 +18,15 @@ This verse differs only by one word from vi. 69. 2.
 May both the Asvins, Lords of Light, balm me with honey of the bees, That I may speak among the folk words full of splendour and of strength.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अश्वि॑ना सार॒घेण॑ मा॒ मधु॑नाङ्क्तं शुभस्पती।  
+यथा॒ वर्च॑स्वतीं॒ वाच॑मा॒वदा॑नि॒ जनाँ॒ अनु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अश्वि॑ना। सा॒र॒घेण॑। मा॒। मधु॑ना। अ॒ङ्क्त॒म्। शु॒भः॒। प॒ती॒ इति॑। यथा॑। वर्च॑स्वतीम्। वाच॑म्। आ॒ऽवदा॑नि। जना॑न्। अनु॑। १.१९। 
+अश्वि॑ना। सा॒र॒घेण॑। मा॒। मधु॑ना। अ॒ङ्क्त॒म्। शु॒भः॒। प॒ती॒ इति॑। यथा॑। वर्च॑स्वतीम्। वाच॑म्। आ॒ऽवदा॑नि। जना॑न्। अनु॑। १.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ May both the Asvins, Lords of Light, balm me with honey of the bees, That I may 
 
 टिप्पणी:   १९−(सारघेण) अ० ६।६९।२। सारं घाटयति संग्राहयतीति सारघः। सारस्य बलस्य धनस्य वा संग्राहकेण। (मधुना) ज्ञानेन (अङ्क्तम्) प्रकाशयतम् (वर्चस्वतीम्) तेजोमयीम्। अन्यद् व्याख्यातम् अ० ६।६९।२ ॥
 </details>
-

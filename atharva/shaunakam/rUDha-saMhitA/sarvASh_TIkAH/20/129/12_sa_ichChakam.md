@@ -8,9 +8,14 @@ title = "१२ स इच्छकम्"
 Hither hath come a stallion: he is known by droppings on his way, (with previous verse)
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स इच्छकं॒ सघा॑घते ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। इच्छक॒म्। सघा॑घते। १२९.१२। 
+सः। इच्छक॒म्। सघा॑घते। १२९.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ Hither hath come a stallion: he is known by droppings on his way, (with previous
 
 टिप्पणी:   १२−(सः) मनुष्यः (इच्छकम्) इषु इच्छायाम्-शकप्रत्ययः। इच्छायुक्तम् (सघाघते) षह क्षमायाम् इत्यस्य रूपम्। यद्वा, षघ हिंसायाम् अत्र सहाये। साहयते ॥
 </details>
-

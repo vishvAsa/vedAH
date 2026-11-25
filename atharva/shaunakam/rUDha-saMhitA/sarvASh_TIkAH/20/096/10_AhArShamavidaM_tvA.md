@@ -8,9 +8,15 @@ title = "१० आहार्षमविदं त्वा"
 So have I found and rescued thee: thou hast returned with youth renewed. Whole in thy members! I have found whole sight and all thy life for thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आहा॑र्ष॒मवि॑दं त्वा॒ पुन॒रागाः॒ पुन॑र्णवः।  
+सर्वा॑ङ्ग॒ सर्वं॑ ते॒ चक्षुः॒ सर्व॒मायु॑श्च तेऽविदम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। आ॒हा॒र्ष॒म्। अवि॑दम्। त्वा॒। पुनः॑। आ। अ॒गाः॒। पुनः॑ऽनवः। सर्व॑ऽअङ्ग। सर्व॑म्। ते॒। चक्षुः॑। सर्व॑। आयुः॑। च॒। ते॒। अ॒वि॒द॒म्। ९६.१०। 
+आ। आ॒हा॒र्ष॒म्। अवि॑दम्। त्वा॒। पुनः॑। आ। अ॒गाः॒। पुनः॑ऽनवः। सर्व॑ऽअङ्ग। सर्व॑म्। ते॒। चक्षुः॑। सर्व॑। आयुः॑। च॒। ते॒। अ॒वि॒द॒म्। ९६.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ So have I found and rescued thee: thou hast returned with youth renewed. Whole i
 
 टिप्पणी:   यह मन्त्र आचुका है-अ० ८।१।२० ॥  १०−अयं व्याख्यातः-अ० ८।१।२० ॥
 </details>
-

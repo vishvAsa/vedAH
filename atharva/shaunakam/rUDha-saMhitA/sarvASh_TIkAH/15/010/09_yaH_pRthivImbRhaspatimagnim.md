@@ -16,9 +16,14 @@ title = "०९ यः पृथिवीम्बृहस्पतिमग्
 Who knows that Earth is Brihaspati and Agni Priesthood.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यः पृ॑थि॒वींबृह॒स्पति॑म॒ग्निं ब्र॑ह्म॒ वेद॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। पृ॒थि॒वीम्। बृह॒स्पति॑म्। अ॒ग्निम्। ब्रह्म॑। वेद॑। १०.९। 
+यः। पृ॒थि॒वीम्। बृह॒स्पति॑म्। अ॒ग्निम्। ब्रह्म॑। वेद॑। १०.९।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -40,4 +45,3 @@ Who knows that Earth is Brihaspati and Agni Priesthood.
 
 टिप्पणी:   ९−(यः)पुरुषः (पृथिवीम्) भूमिराज्यम् (बृहस्पतिम्) महतां प्राणिनां रक्षकगुणम् (अग्निम्) अग्निवत्तेजोमयम् (ब्रह्म) वेदज्ञानिकुलम् (वेद) जानाति ॥
 </details>
-

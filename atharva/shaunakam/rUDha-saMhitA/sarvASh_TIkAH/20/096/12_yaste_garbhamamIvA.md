@@ -8,9 +8,15 @@ title = "१२ यस्ते गर्भममीवा"
 Agni, concurring in the prayer, drive off the eater of thy flesh, The malady of evil name that hath attacked thy babe and womb.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्ते॒ गर्भ॒ममी॑वा दु॒र्णामा॒ योनि॑मा॒शये॑।  
+अ॒ग्निष्टं ब्रह्म॑णा स॒ह निष्क्र॒व्याद॑मनीनशत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। ते॒। गर्भ॑म्। अमी॑वा। दुः॒ऽनामा॑। योनि॑म्। आ॒ऽशये॑। अ॒ग्निः। तम्। ब्रह्म॑णा। स॒ह। निः। क्र॒व्य॒ऽअद॑म्। अ॒नी॒न॒श॒त्। ९६.१२। 
+यः। ते॒। गर्भ॑म्। अमी॑वा। दुः॒ऽनामा॑। योनि॑म्। आ॒ऽशये॑। अ॒ग्निः। तम्। ब्रह्म॑णा। स॒ह। निः। क्र॒व्य॒ऽअद॑म्। अ॒नी॒न॒श॒त्। ९६.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Agni, concurring in the prayer, drive off the eater of thy flesh, The malady of 
 
 टिप्पणी:   १२−(यः ते गर्भम्....) इत्यादयो गताः सुगमाश्च (निः) निःशेषेण (क्रव्यादम्) मांसभक्षकं रोगम् (अनीनशत्) नाशयतु ॥
 </details>
-

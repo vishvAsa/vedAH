@@ -25,9 +25,15 @@ in **b** (= *apakṛṣṭam āśritāu;* and *kakṣe* = *bāhumūle*, comm.).
 Those nerves of thine, Consumption! which stand closely hidden in thy groin I know the balm for that disease: the magic cure is Sipudru.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यौ ते॑ बलास॒ तिष्ठ॑तः॒ कक्षे॑ मु॒ष्कावप॑श्रितौ।  
+वेदा॒हं तस्य॑ भेष॒जं ची॒पुद्रु॑रभि॒चक्ष॑णम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यौ। ते॒। ब॒ला॒स॒। तिष्ठ॑तः। कक्षे॑। मु॒ष्कौ। अप॑ऽश्रितौ। वेद॑। अ॒हम्। तस्य॑। भे॒ष॒जम्। ची॒पुद्रुः॑। अ॒भि॒ऽचक्ष॑णम्। १२७.२। 
+यौ। ते॒। ब॒ला॒स॒। तिष्ठ॑तः। कक्षे॑। मु॒ष्कौ। अप॑ऽश्रितौ। वेद॑। अ॒हम्। तस्य॑। भे॒ष॒जम्। ची॒पुद्रुः॑। अ॒भि॒ऽचक्ष॑णम्। १२७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ Those nerves of thine, Consumption! which stand closely hidden in thy groin I kn
 
 टिप्पणी:   २−(यौ) (ते) तव (बलास) म० १। (तिष्ठतः) वर्तेते (कक्षे) रोगिणो बाहुमूले (मुष्कौ) अण्डरूपौ रोगग्रन्थी (अपश्रितौ) आश्रितौ (वेद) जानामि (अहम्) वैद्यः (तस्य) रोगस्य (भेषजम्) (चीपुद्रुः) चीवृ आदानसंवरणयोः−उ, पृषोदरादि। द्रुमविशेषः (अभिचक्षणम्) व्याधिनिवर्तकम् ॥
 </details>
-

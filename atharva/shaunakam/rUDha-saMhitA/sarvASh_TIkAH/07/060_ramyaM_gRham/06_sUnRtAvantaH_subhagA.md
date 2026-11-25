@@ -23,9 +23,15 @@ its occupants.
 Full of refreshment, full of charms, of laughter and felicity, Be ever free from hunger, free from thirst! Ye Houses, fear us not. Stay here, and come not after me: prosper in every form and shape. With happy fortune will I come! Grow more abundant still through me!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सू॒नृता॑वन्तः सु॒भगा॒ इरा॑वन्तो हसामु॒दाः।  
+अ॑तृ॒ष्या अ॑क्षु॒ध्या स्त॒ गृहा॒ मास्मद्बि॑भीतन ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सू॒नृता॑ऽवन्तः। सु॒ऽभगाः॑। इरा॑ऽवन्तः। ह॒सा॒मु॒दाः। अ॒तृ॒ष्याः। अ॒क्षु॒ध्याः। स्त॒। गृहाः॑। मा। अ॒स्मत्। बि॒भी॒त॒न॒। ६२.६। 
+सू॒नृता॑ऽवन्तः। सु॒ऽभगाः॑। इरा॑ऽवन्तः। ह॒सा॒मु॒दाः। अ॒तृ॒ष्याः। अ॒क्षु॒ध्याः। स्त॒। गृहाः॑। मा। अ॒स्मत्। बि॒भी॒त॒न॒। ६२.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Full of refreshment, full of charms, of laughter and felicity, Be ever free from
 
 टिप्पणी:   ६−(सूनृतावन्तः) अ० ३।१२।२। सत्यप्रियवाग्युक्ताः (सुभगाः) शोभनैश्वर्यवन्तः (इरावन्तः) अन्नवन्तः-निघ० २।७। (हसामुदाः) हस हसने-क्विप+मुद मोदे क, अन्तर्गतण्यर्थः। हासेन मोदयमानाः। अन्यत् पूर्ववत्-म० ४ ॥
 </details>
-

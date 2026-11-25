@@ -22,9 +22,15 @@ accenting *dakṣiṇā́* in 46 **b**).
 Sarasvati, who tamest with them, joying in hymns and food, O Goddess, with the Fathers, Here give the Sacrificer growth of riches, a portion, worth a thousand, of refreshment.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सर॑स्वति॒ यास॒रथं॑ य॒याथो॒क्थैः स्व॒धाभि॑र्देवि पि॒तृभि॒र्मद॑न्ती।  
+स॑हस्रा॒र्घमि॒डोअत्र॑ भा॒गं रा॒यस्पोषं॒ यज॑मानाय धेहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सर॑स्वत‍ि। या। स॒ऽरथ॑म्। य॒याथ॑। उ॒क्थैः। स्व॒धाभिः॑। दे॒वि॒। पि॒तृऽभिः॑। मद॑न्ती। स॒ह॒स्र॒ऽअ॒र्घम्। इ॒डः। अत्र॑। भा॒गम्। रा॒यः। पोष॑म्। यज॑मानाय। धे॒हि॒। ४.४७। 
+सर॑स्वत‍ि। या। स॒ऽरथ॑म्। य॒याथ॑। उ॒क्थैः। स्व॒धाभिः॑। दे॒वि॒। पि॒तृऽभिः॑। मद॑न्ती। स॒ह॒स्र॒ऽअ॒र्घम्। इ॒डः। अत्र॑। भा॒गम्। रा॒यः। पोष॑म्। यज॑मानाय। धे॒हि॒। ४.४७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Sarasvati, who tamest with them, joying in hymns and food, O Goddess, with the F
 
 टिप्पणी:   ४५-४७−मन्त्राव्याख्याताः-अ० १८।१।४१-४३ ॥
 </details>
-

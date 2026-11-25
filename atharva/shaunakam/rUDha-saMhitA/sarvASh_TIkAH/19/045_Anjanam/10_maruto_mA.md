@@ -22,9 +22,14 @@ discordant and unclear).
 May the Maruts protect me with their troops for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+म॒रुतो॑ मा ग॒णैर॑वन्तु प्रा॒णाया॑पा॒नायु॑षे॒ वर्च॑स॒ ओज॑से॒ तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-म॒रुतः॑। मा॒। ग॒णैः। अ॒व॒न्तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये॑। स्वाहा॑। ४५.१०। 
+म॒रुतः॑। मा॒। ग॒णैः। अ॒व॒न्तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये॑। स्वाहा॑। ४५.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +59,3 @@ May the Maruts protect me with their troops for inspiration and expiration, for 
 
 टिप्पणी:   १०−(मरुतः) म०१।२०।१। शत्रुनाशकाः शूराः (गणैः) सैन्यैः। अन्यत् पूर्ववत् ॥
 </details>
-

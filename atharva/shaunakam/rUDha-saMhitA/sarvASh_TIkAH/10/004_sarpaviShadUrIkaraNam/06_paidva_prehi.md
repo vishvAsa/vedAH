@@ -17,9 +17,15 @@ snakes from the road by which we come.
 Go onward, horse of Pedu! go thou first: we follow after thee. Cast thou aside the Serpents from the pathway whereupon we tread.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पैद्व॒ प्रेहि॑ प्रथ॒मोऽनु॑ त्वा व॒यमेम॑सि।  
+अही॒न्व्य᳡स्यतात्प॒थो येन॑ स्मा व॒यमे॒मसि॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पैद्व॑। प्र। इ॒हि॒। प्र॒थ॒मः। अनु॑। त्वा॒। व॒यम्। आ। ई॒म॒सि॒। अही॑न्। वि। अ॒स्य॒ता॒त्। प॒थः। येन॑। स्म॒। व॒यम्। आ॒ऽई॒मसि॑। ४.६। 
+पैद्व॑। प्र। इ॒हि॒। प्र॒थ॒मः। अनु॑। त्वा॒। व॒यम्। आ। ई॒म॒सि॒। अही॑न्। वि। अ॒स्य॒ता॒त्। प॒थः। येन॑। स्म॒। व॒यम्। आ॒ऽई॒मसि॑। ४.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Go onward, horse of Pedu! go thou first: we follow after thee. Cast thou aside t
 
 टिप्पणी:   ६−(पैद्वः) म० ५। हे शीघ्रगामिन् (प्र इहि) अग्रे गच्छ (प्रथमः) प्रधानः (अनु) अनुसृत्य (त्वा) (वयम्) (आ-ईमसि) ई गतौ-लट्, मसो मसि। ईमः। आगच्छामः (अहीन्) म० १। महाहिंसकान्। सर्पान् (वि) विशेषेण (अस्यतात्) अस्य। क्षिप (पथः) मार्गात् (येन) यथा (स्म) अवधारणे (वयम्, आ ईमसि) ॥
 </details>
-

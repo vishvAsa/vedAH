@@ -20,9 +20,15 @@ The *pada*-text reads *ā́paḥ* (as in 11 **a**) in **a**. Ppp. elides
 Through whom did he spread waters out, through whom did he make Day to shine? Through whom did he enkindle Dawn and give the gift of even- tide?
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+केनापो॒ अन्व॑तनुत॒ केना॑हरकरोद्रु॒चे।  
+उ॒षसं॒ केनान्वै॑न्द्ध॒ केन॑ सायंभ॒वं द॑दे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-केन॑। आपः॑। अनु॑। अ॒त॒नु॒त॒। केन॑। अहः॑। अ॒क॒रो॒त्। रु॒चे। उ॒षस॑म्। केन॑। अनु॑। ऐ॒न्ध्द॒। केन॑। सा॒य॒म्ऽभ॒वम्। द॒दे॒। २.१६। 
+केन॑। आपः॑। अनु॑। अ॒त॒नु॒त॒। केन॑। अहः॑। अ॒क॒रो॒त्। रु॒चे। उ॒षस॑म्। केन॑। अनु॑। ऐ॒न्ध्द॒। केन॑। सा॒य॒म्ऽभ॒वम्। द॒दे॒। २.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Through whom did he spread waters out, through whom did he make Day to shine? Th
 
 टिप्पणी:   १६−(केन) सामर्थ्येन (आपः) अपः। जलानि (अनु) निरन्तरम् (अतनुत) विस्तारितवान् (केन) (अहः) दिनम् (अकरोत्) अरचयत् (रुचे) दीप्तये (उषसम्) प्रभातवेलाम् (केन) (अनु) अनुक्रमेण (ऐन्द्ध) ञिइन्धी दीप्तौ-लङ्, अन्तर्गतण्यर्थः। प्रदीपितवान् (केन) (सायंभवम्) सायंकालसत्ताम् (ददे) दत्तवान् ॥
 </details>
-

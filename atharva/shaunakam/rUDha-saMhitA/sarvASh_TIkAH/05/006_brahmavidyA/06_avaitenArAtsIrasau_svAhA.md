@@ -17,9 +17,15 @@ sharp etc. etc.
 Through this hast thou been left in want. All hail! With sharpened arms and missiles, kind and friendly, be gracious unto us, Soma and Rudra!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अवै॑तेनारात्सीरसौ॒ स्वाहा॑।  
+ति॒ग्मायु॑धौ ति॒ग्महे॑ती सु॒षेवौ॒ सोमा॑रुद्रावि॒ह सु मृ॑डतं नः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अव॑। ए॒तेन॑। अ॒रा॒त्सीः॒। अ॒सौ॒। स्वाहा॑। ति॒ग्मऽआ॑युधौ। ति॒ग्महे॑ती॒ इति॑ ति॒ग्मऽहे॑ती। सु॒ऽशेवौ॑। सोमा॑रुद्रौ। इ॒ह। सु। मृ॒ड॒त॒म्। नः॒। ६.६। 
+अव॑। ए॒तेन॑। अ॒रा॒त्सीः॒। अ॒सौ॒। स्वाहा॑। ति॒ग्मऽआ॑युधौ। ति॒ग्महे॑ती॒ इति॑ ति॒ग्मऽहे॑ती। सु॒ऽशेवौ॑। सोमा॑रुद्रौ। इ॒ह। सु। मृ॒ड॒त॒म्। नः॒। ६.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ Through this hast thou been left in want. All hail! With sharpened arms and miss
 
 टिप्पणी:   ६−(अव अरात्सीः) नीचै राद्धवान् निर्धनं कृतवानसि दुरात्मानम्। अन्यद् गतम्। म० ५ ॥
 </details>
-

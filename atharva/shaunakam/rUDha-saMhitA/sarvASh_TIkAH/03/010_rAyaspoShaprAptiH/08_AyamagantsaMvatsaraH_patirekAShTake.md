@@ -21,9 +21,15 @@ with his former explanation.
 This Year hath come to us, thy lord and consort, O Ekashtaka. Vouchsafe us children long to live, bless us with increase of our wealth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आयम॑गन्त्संवत्स॒रः पति॑रेकाष्टके॒ तव॑।  
+सा न॒ आयु॑ष्मतीं प्र॒जां रा॒यस्पोषे॑ण॒ सं सृ॑ज ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। अ॒यम्। अ॒ग॒न्। स॒म्ऽव॒त्स॒रः। पतिः॑। ए॒क॒ऽअ॒ष्ट॒के॒। तव॑। सा। नः॑। आयु॑ष्मतीम्। प्र॒ऽजाम्। रा॒यः। पोषे॑ण। सम्। सृ॒ज॒। १०.८। 
+आ। अ॒यम्। अ॒ग॒न्। स॒म्ऽव॒त्स॒रः। पतिः॑। ए॒क॒ऽअ॒ष्ट॒के॒। तव॑। सा। नः॑। आयु॑ष्मतीम्। प्र॒ऽजाम्। रा॒यः। पोषे॑ण। सम्। सृ॒ज॒। १०.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ This Year hath come to us, thy lord and consort, O Ekashtaka. Vouchsafe us child
 
 टिप्पणी:   ८−(अयम्)। परिदृश्यमानः। (आ, अगत्)। गमेर्लुङ्। आगमत्। आगतः। (संवत्सरः)। म० २। सम्यक् निवासकः। (पतिः)। रक्षकः। (एकाष्टके)। म० ५। हे एकमात्रव्यापिके। एकमात्रभोजनस्थाने। (तव)। त्वदीयः। (सा नः)। इति गतं म० ॥३॥
 </details>
-

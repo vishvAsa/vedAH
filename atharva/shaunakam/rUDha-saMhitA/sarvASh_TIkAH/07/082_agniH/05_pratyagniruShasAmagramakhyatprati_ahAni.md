@@ -23,9 +23,15 @@ d**. The comm. is still more faithful to that version, by giving the
 Agni hath looked upon the spring of Mornings, looked on the days, the earliest Jatavedas. So he in countless places hath extended, full against heaven and earth, the beams of Surya.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रत्य॒ग्निरु॒षसा॒मग्र॑मख्य॒त्प्रति॒ अहा॑नि प्रथ॒मो जा॒तवे॑दाः।  
+प्रति॒ सूर्य॑स्य पुरु॒धा च॑ र॒श्मीन्प्रति॒ द्यावा॑पृथि॒वी आ त॑तान ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्रति॑। अ॒ग्निः। उ॒षसा॑म्। अग्र॑म्। अ॒ख्य॒त्। प्रति॑। अहा॑नि। प्र॒थ॒मः। जा॒तऽवे॑दाः। प्रति॑। सूर्य॑स्य। पु॒रु॒ऽधा। च॒। र॒श्मीन्। प्रति॑। द्यावा॑पृथि॒वी इति॑। आ। त॒ता॒न॒। ८७.५। 
+प्रति॑। अ॒ग्निः। उ॒षसा॑म्। अग्र॑म्। अ॒ख्य॒त्। प्रति॑। अहा॑नि। प्र॒थ॒मः। जा॒तऽवे॑दाः। प्रति॑। सूर्य॑स्य। पु॒रु॒ऽधा। च॒। र॒श्मीन्। प्रति॑। द्यावा॑पृथि॒वी इति॑। आ। त॒ता॒न॒। ८७.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Agni hath looked upon the spring of Mornings, looked on the days, the earliest J
 
 टिप्पणी:   ५−(प्रति) प्रत्यक्षरूपेण (सूर्यस्य) आदित्यमण्डलस्य (पुरुधा) अनेकधा (च) (आ) समन्तात् (ततान) विस्तारयामास ॥अन्यत्पूर्ववत्-म० ४॥
 </details>
-

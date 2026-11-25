@@ -20,9 +20,15 @@ three have *-yasi* at end of **c**.
 Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never more shall be return in all the years that are to come.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प॑र॒मां तं प॑रा॒वत॒मिन्द्रो॑ नुदतु वृत्र॒हा।  
+यतो॒ न पुन॒राय॑ति शश्व॒तीभ्यः॒ समा॑भ्यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प॒र॒माम्। तम्। प॒रा॒ऽवत॑म्। इन्द्रः॑। नु॒द॒तु॒। वृ॒त्र॒ऽहा। यतः॑। न। पुनः॑। आ॒ऽअय॑ति। श॒श्व॒तीभ्यः॑। समा॑भ्यः। ७५.२। 
+प॒र॒माम्। तम्। प॒रा॒ऽवत॑म्। इन्द्रः॑। नु॒द॒तु॒। वृ॒त्र॒ऽहा। यतः॑। न। पुनः॑। आ॒ऽअय॑ति। श॒श्व॒तीभ्यः॑। समा॑भ्यः। ७५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never m
 
 टिप्पणी:   २−(परमाम्) अतिशयिताम् (तम्) तर्द हिंसने ड। तर्दकं चोरम् (परावतम्) अ० ३।४।५। दूरगतां भूमिम्। (इन्द्रः) परमैश्वर्यवान् राजा (यतः) यस्या दूरभूमेः सकाशात् (न) निषेधे (पुनः) द्वितीयवारम् (आयति) आवर्तते (शश्वतीभ्यः) बहुभ्यः−निघ० ३।१। (समाभ्यः) संवत्सरेभ्यः ॥
 </details>
-

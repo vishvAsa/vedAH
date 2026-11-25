@@ -20,9 +20,14 @@ ca saṁdhī*. Bp. reads *īśé* for *īṣé*.
 The threshing-floor is its dish, the wooden swords its shoulders, the car-shafts its backbones.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+खलः॒ पात्रं॒ स्फ्यावंसा॑वी॒षे अ॑नू॒क्ये᳡ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-खलः॑। पात्र॑म्। स्‍फ्यौ। अंसौ॑। इ॒षे इति॑। अ॒नू॒क्ये॒३॒ इति॑। ३.९। 
+खलः॑। पात्र॑म्। स्‍फ्यौ। अंसौ॑। इ॒षे इति॑। अ॒नू॒क्ये॒३॒ इति॑। ३.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ The threshing-floor is its dish, the wooden swords its shoulders, the car-shafts
 
 टिप्पणी:   ९−(खलः) धान्यमर्दनस्थानम् (पात्रम्) अमत्रम् (स्फ्यौ) माछाससिभ्यो यः। उ० ४।१०९। स्फायी वृद्धौ-य, स च डित्। प्रवृद्धौ काष्ठकीलकौ (अंसौ) स्कन्धौ (ईषे) अ० २।८।४। ईष गतौ-क, टाप्। लाङ्गलदण्डौ (अनूक्ये) अ० २।३३।२। अनु+उच समवाये-ण्यत्, टाप्। पृष्ठास्थिनी ॥
 </details>
-

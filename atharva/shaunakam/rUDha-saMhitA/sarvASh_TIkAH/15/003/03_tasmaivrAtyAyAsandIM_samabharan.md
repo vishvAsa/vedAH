@@ -19,9 +19,14 @@ viii. 12, and my note to xiv. 2. 65⌋.
 They brought the couch for that Vratya.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मै॒व्रात्या॑यास॒न्दीं सम॑भरन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्मै॑। व्रात्या॑य। आ॒ऽस॒न्दीम्। सम्। अ॒भ॒र॒न्। ३.३। 
+तस्मै॑। व्रात्या॑य। आ॒ऽस॒न्दीम्। सम्। अ॒भ॒र॒न्। ३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ They brought the couch for that Vratya.
 
 टिप्पणी:   ३−(तस्मै) तादृशाय (व्रात्याय) सर्वसमूहहितकारिणे परमात्मने (आसन्दीम्)सिंहासनम् (सम्) संगत्य (अभरन्) धारितवन्तो विद्वांसः ॥
 </details>
-

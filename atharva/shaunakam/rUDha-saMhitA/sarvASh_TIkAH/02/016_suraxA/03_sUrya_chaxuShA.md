@@ -19,9 +19,14 @@ Do thou, O Sūrya, with thine eye protect me! All hail to
 thee!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सूर्य॒ चक्षु॑षा मा पाहि॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सूर्य॑। चक्षु॑षा। मा॒। पा॒हि॒। स्वाहा॑। १६.३। 
+सूर्य॑। चक्षु॑षा। मा॒। पा॒हि॒। स्वाहा॑। १६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ thee!
 
 टिप्पणी:   ३–सूर्य। अ० १।३।५। हे सर्वप्रेरक ! हे आदित्य ! चक्षुषा। अ० १।३३।४। चक्षिङ् कथने दर्शने च–उसि। नेत्रेण। रूपदर्शनशक्त्या ॥
 </details>
-

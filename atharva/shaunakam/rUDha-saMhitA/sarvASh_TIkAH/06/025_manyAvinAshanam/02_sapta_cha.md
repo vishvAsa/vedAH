@@ -19,9 +19,15 @@ and SPP. with good reason adopts that in his text.
 Those seventy-and-seven which meet round the upper vertebrae, Let them all vanish hence away like plaguing insects' buzz and hum!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒प्त च॒ याः स॑प्त॒तिश्च॑ सं॒यन्ति॒ ग्रैव्या॑ अ॒भि।  
+इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒प्त। च॒। याः। स॒प्त॒तिः। च॒। स॒म्ऽयन्ति॑। ग्रैव्याः॑। अ॒भि। इ॒तः। ताः। सर्वाः॑। न॒श्य॒न्तु॒। वा॒काः। अ॒प॒चिता॑म्ऽइव। २५.२। 
+स॒प्त। च॒। याः। स॒प्त॒तिः। च॒। स॒म्ऽयन्ति॑। ग्रैव्याः॑। अ॒भि। इ॒तः। ताः। सर्वाः॑। न॒श्य॒न्तु॒। वा॒काः। अ॒प॒चिता॑म्ऽइव। २५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Those seventy-and-seven which meet round the upper vertebrae, Let them all vanis
 
 टिप्पणी:   २−(सप्त च सप्ततिश्च) सप्ताधिकसप्ततिसंख्यकाः (ग्रैव्याः) गम्भीराञ्ञ्यः। पा० ४।३।५८। इति बाहुलकात् ग्रीवा−ञ्य। ग्रीवासु भवा नाडीः। अन्यत्पूर्ववत् ॥
 </details>
-

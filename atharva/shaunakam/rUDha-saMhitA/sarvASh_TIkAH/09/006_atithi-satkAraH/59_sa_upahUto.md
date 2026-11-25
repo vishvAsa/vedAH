@@ -13,9 +13,14 @@ title = "५९ स उपहूतो"
 He, having been invited in the worlds, regales, invited, in that which wears all various forms in the worlds.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स उप॑हूतो लो॒केषु॑ भक्षय॒त्युप॑हूत॒स्तस्मि॒न्यल्लो॒केषु॑ विश्वरू॑पम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। उप॑ऽहूतः। लो॒केषु॑। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। लो॒केषु॑। वि॒श्वऽरू॑पम्। ११.१। 
+सः। उप॑ऽहूतः। लो॒केषु॑। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। लो॒केषु॑। वि॒श्वऽरू॑पम्। ११.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,4 +50,3 @@ He, having been invited in the worlds, regales, invited, in that which wears all
 
 टिप्पणी:   ११−(लोकेषु) दृश्यमानेषु भुवनेषु सूर्यचन्द्रपृथिवीमङ्गलबुधबृहस्पत्यादिलोकेषु वर्तमानं परस्परसम्बन्धम्। अन्यत् पूर्ववत् ॥
 </details>
-

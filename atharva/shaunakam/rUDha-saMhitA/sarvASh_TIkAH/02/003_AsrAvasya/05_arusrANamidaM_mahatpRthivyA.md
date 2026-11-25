@@ -19,9 +19,15 @@ Ppp. reads *aruspānam* (or *-syā-*) in **a**, and in **b** *pṛthivyā
 Mighty is this wound-healing balm: from out the earth was it produced. This is the cure for morbid flow, this driveth malady away.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॑रु॒स्राण॑मि॒दं म॒हत्पृ॑थि॒व्या अध्युद्भृ॑तम्।  
+तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒रुः॒ऽस्राण॑म्। इ॒दम्। म॒हत्। पृ॒थि॒व्याः। अधि॑। उत्ऽभृ॑तम्। तत्। आ॒ऽस्रा॒वस्य॑। भे॒ष॒जम्। तत्। ऊं॒ इति॑। रोग॑म्। अ॒नी॒न॒श॒त्। ३.५। 
+अ॒रुः॒ऽस्राण॑म्। इ॒दम्। म॒हत्। पृ॒थि॒व्याः। अधि॑। उत्ऽभृ॑तम्। तत्। आ॒ऽस्रा॒वस्य॑। भे॒ष॒जम्। तत्। ऊं॒ इति॑। रोग॑म्। अ॒नी॒न॒श॒त्। ३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Mighty is this wound-healing balm: from out the earth was it produced. This is t
 
 टिप्पणी:   ५–अरुस्राणम्। म० ३। अरुषः पाचयितृ। पृथिव्याः। अ० १।२।१। विस्तीर्णाद् भूलोकात्। उद्भृतम्। उत्–भृञ्–क्त। उद्धृतम्। उन्मूलितम्। सर्वथा ज्ञाने प्राप्तम्। अन्यद् व्याख्यातं म० ३ ॥
 </details>
-

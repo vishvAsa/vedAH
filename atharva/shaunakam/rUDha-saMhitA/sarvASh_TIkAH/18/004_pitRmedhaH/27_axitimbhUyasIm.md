@@ -18,9 +18,14 @@ Anukr. and the mss. reckon it as an independent verse.
 More immortality!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अक्षि॑तिं॒भूय॑सीम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अक्षि॑तिम्। भूय॑सीम्। ४.२७। 
+अक्षि॑तिम्। भूय॑सीम्। ४.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ More immortality!
 
 टिप्पणी:   २७−(अक्षितिम्)क्षयरहितां क्रियाम् (भूयसीम्) अधिकतराम् ॥
 </details>
-

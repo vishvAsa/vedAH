@@ -17,9 +17,14 @@ ill-success. Of him now etc. etc.
 Whatever we have gained, etc. Let him not be freed from the noose of misery, etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स ग्राह्याः॑पाशा॒न्मा मो॑चि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। ग्राह्याः॑। पाशा॑त्। मा। मो॒चि॒। ८.३। 
+सः। ग्राह्याः॑। पाशा॑त्। मा। मो॒चि॒। ८.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Whatever we have gained, etc. Let him not be freed from the noose of misery, etc
 
 टिप्पणी:   ३−(सः) कुमार्गी (ग्राह्याः) ग्राहीरोगस्य (पाशात्) बन्धनात् (मा मोचि) न मुक्तो भवतु ॥
 </details>
-

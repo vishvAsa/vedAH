@@ -5,7 +5,7 @@ title = "१५ द्वौ वा"
 
 <details><summary>Griffith</summary>
 
-Glory and power, these are two. 
+Glory and power, these are two.
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -13,16 +13,19 @@ Glory and power, these are two.
 The two are indeed auspiciousness & might
 </details>
 
-
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
-Thus, the two auspiciousness = bhava; might= sharva; of them the blue crested one -- likely sharva is a killer. Thus, the vaidika usage it was likely related bhava-sharvA which makes the kaumAra bahuvrIhI interpretation still compatible with old tradition. 
+Thus, the two auspiciousness = bhava; might= sharva; of them the blue crested one -- likely sharva is a killer. Thus, the vaidika usage it was likely related bhava-sharvA which makes the kaumAra bahuvrIhI interpretation still compatible with old tradition.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+द्वौ वा॒ ये शि॑शवः ॥
+</details>
 
 <details><summary>पदपाठः</summary>
 
-द्वौ। वा॑। ये। शिशवः। १३२.१५। 
+द्वौ। वा॑। ये। शिशवः। १३२.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,7 +57,5 @@ Thus, the two auspiciousness = bhava; might= sharva; of them the blue crested on
 > द्वे वा॒ यशः॒ शवः॑ ॥१॥   
 > (एकम्) एक (हिरण्यम्) हिरण्य [तेजोमय],  
 > (वा) और (द्वे) दो (यशः) यश [कीर्ति] तथा (शवः) बल है, (इति) ऐसा (अब्रवीत्) [वह, मनुष्य] कहता है ॥१४, १॥१
-> −(द्वौ) (वा) समुच्चये (ये) (शिशवः) वासाः। बालसमानस्वबुद्धयः।  
-
+> −(द्वौ) (वा) समुच्चये (ये) (शिशवः) वासाः। बालसमानस्वबुद्धयः।
 </details>
-

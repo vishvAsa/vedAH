@@ -17,9 +17,14 @@ well-joined ones: hail!
 Let Soma in this rite in varied manner--All hail!--use milk- streams, well-yoked coursers.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोमो॑ युनक्तु बहु॒धा पयां॑स्य॒स्मिन्य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सोमः॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। पयां॑सि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.१०। 
+सोमः॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। पयां॑सि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Let Soma in this rite in varied manner--All hail!--use milk- streams, well-yoked
 
 टिप्पणी:   १०−(सोमः) शान्तस्वभावः पुरुषः (पयांसि) अन्नानि−निघ० २।७। अन्यद् गतम् ॥
 </details>
-

@@ -18,9 +18,14 @@ As to the meter, see the note to the preceding verse.
 स वा ऋ॒ग्भ्योऽजायत॒ तस्मा॒दृचो॑ऽजायन्त ॥३८॥
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स वा ऋ॒ग्भ्यो᳡जा॑यत॒ तस्मा॒दृचो॑ऽजायन्त ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। वै। ऋ॒क्ऽभ्यः। अ॒जा॒य॒त॒। तस्मा॑त्। ऋचः॑। अ॒जा॒य॒न्त॒। ७.१०। 
+सः। वै। ऋ॒क्ऽभ्यः। अ॒जा॒य॒त॒। तस्मा॑त्। ऋचः॑। अ॒जा॒य॒न्त॒। ७.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ As to the meter, see the note to the preceding verse.
 
 टिप्पणी:   ३८−(ऋग्भ्यः) स्तुत्याभ्यो वेदवाणीभ्यः (ऋचः) स्तुत्या वेदवाण्यः। अन्यद् गतम् ॥
 </details>
-

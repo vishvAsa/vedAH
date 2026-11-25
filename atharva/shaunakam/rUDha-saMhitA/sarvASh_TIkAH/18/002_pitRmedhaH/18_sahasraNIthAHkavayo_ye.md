@@ -19,9 +19,15 @@ its explanation of *yama* (cf. under vs. 15) *niyata śakaṭe baddha vā*.
 Let him, O Yama, go to those Rishis austere, of Fervour born, Skilled in a thousand ways and means, the sages who protect the Sun.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒हस्र॑णीथाःक॒वयो॒ ये गो॑पा॒यन्ति॒ सूर्य॑म्।  
+ऋषी॒न्तप॑स्वतो यम तपो॒जाँ अपि॑ गच्छतात्॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒हस्र॑ऽनीथाः। क॒वयः॑। ये। गो॒पा॒यन्ति॑। सूर्य॑म्। ऋषी॑न्। तप॑स्वतः। य॒म॒। त॒पः॒ऽजान्। अपि॑। ग॒च्छ॒ता॒त्। २.१८। 
+स॒हस्र॑ऽनीथाः। क॒वयः॑। ये। गो॒पा॒यन्ति॑। सूर्य॑म्। ऋषी॑न्। तप॑स्वतः। य॒म॒। त॒पः॒ऽजान्। अपि॑। ग॒च्छ॒ता॒त्। २.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Let him, O Yama, go to those Rishis austere, of Fervour born, Skilled in a thous
 
 टिप्पणी:   १८−(सहस्रणीथाः) हनिकुषिनीरमिकाशिभ्यःक्थन्। उ० २।२। सहस्र+णीञ् प्रापणे−क्थन्। सहस्राणां योद्धॄणां नेतारः (कवयः)मेधाविनः (ये) (गोपायन्ति) रक्षन्ति (सूर्यम्) सर्वप्रेरकं मनुष्यम्। अन्यत्पूर्ववत्-म० १५ ॥
 </details>
-

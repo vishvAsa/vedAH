@@ -8,9 +8,14 @@ title = "०३ इन्द्रो ब्रह्मा"
 Let Indra the Brahman from the Brahman's cup drink Trishtups, according to the season Soma from heaven.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इन्द्रो॑ ब्र॒ह्मा ब्राह्म॑णात्सु॒ष्टुभः॑ स्व॒र्कादृ॒तुना॒ सोमं॑ पिबतु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इन्द्रः॑। ब्र॒ह्मा। ब्राह्म॑णात्। सु॒ऽस्तुभः॑। सु॒ऽअ॒र्कात्। ऋ॒तुना॑। सोम॑म्। पि॒ब॒तु॒। २.३। 
+इन्द्रः॑। ब्र॒ह्मा। ब्राह्म॑णात्। सु॒ऽस्तुभः॑। सु॒ऽअ॒र्कात्। ऋ॒तुना॑। सोम॑म्। पि॒ब॒तु॒। २.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +45,3 @@ Let Indra the Brahman from the Brahman's cup drink Trishtups, according to the s
 
 टिप्पणी:   ३−(इन्द्रः) परमैश्वर्यवान् (ब्रह्मा) वेदज्ञाता पुरुषः (ब्राह्मणात्) वेदोक्तज्ञानात्। शिष्टं पूर्ववत् ॥
 </details>
-

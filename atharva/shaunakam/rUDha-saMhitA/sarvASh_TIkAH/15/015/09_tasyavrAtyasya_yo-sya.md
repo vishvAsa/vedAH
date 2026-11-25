@@ -17,9 +17,15 @@ creatures (*prajā́*).
 His seventh vital breath, called Unlimited, are these creatures.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्य॒व्रात्य॑स्य।  
+यो᳡ऽस्य॑ सप्त॒मः प्रा॒णोऽप॑रिमितो॒ नाम॒ ता इ॒माः प्र॒जाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। स॒प्त॒मः। प्रा॒णः। अप॑रिऽमितः। नाम॑। ताः। इ॒माः। प्र॒ऽजाः। १५.९। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। स॒प्त॒मः। प्रा॒णः। अप॑रिऽमितः। नाम॑। ताः। इ॒माः। प्र॒ऽजाः। १५.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +55,3 @@ His seventh vital breath, called Unlimited, are these creatures.
 
 टिप्पणी:   ९−(अपरिमितः) अगणितः (प्रजाः) सङ्घटनविद्याः। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

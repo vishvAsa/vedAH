@@ -24,9 +24,15 @@ little from the AGS. verse. The Anukr. apparently expects us to resolve
 Come hither, stand upon the stone: thy body shall become a stone. The Universal Gods shall make thy life a hundred autumns long.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+एह्यश्मा॑न॒मा ति॒ष्ठाश्मा॑ भवतु ते त॒नूः।  
+कृ॒ण्वन्तु॒ विश्वे॑ दे॒वा आयु॑ष्टे श॒रदः॑ श॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। इ॒हि॒। अश्मा॑नम्। आ। ति॒ष्ठ॒। अश्मा॑। भ॒व॒तु॒। ते॒। त॒नूः। कृ॒ण्वन्तु॑। विश्वे॑। दे॒वाः। आयुः॑। ते॒। श॒रदः॑। श॒तम्। १३.४। 
+आ। इ॒हि॒। अश्मा॑नम्। आ। ति॒ष्ठ॒। अश्मा॑। भ॒व॒तु॒। ते॒। त॒नूः। कृ॒ण्वन्तु॑। विश्वे॑। दे॒वाः। आयुः॑। ते॒। श॒रदः॑। श॒तम्। १३.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ Come hither, stand upon the stone: thy body shall become a stone. The Universal 
 
 टिप्पणी:   ४–आ+इहि। आगच्छ। अश्मानम्। अ० १।२।२। प्रस्तरम्। अश्मा। पाषाणशिला। पाषाणवद्दृढा। आ+तिष्ठ। अधितिष्ठ। आरूढो भव। तनूः। तनु विस्तारे–ऊ। शरीरम्। कृण्वन्तु। कुर्वन्तु। विश्वे। सर्वे। देवाः। दिव्यगुणाः पुरुषाः पदार्था वा। आयुः। म० २। जीवनम्। ते। तव। युष्मत्तत्ततक्षुष्वन्तःपादम्। पा० ८।३।१०३। इति सकारस्य षत्वम्। शरदः। शरदृतून्। संवत्सरान्। शतम्। बह्वीः। बहुसंवत्सरान् ॥
 </details>
-

@@ -20,9 +20,15 @@ from a gourd.
 Tabuva or not Tabuva, thou verily art not Tabuva: poison is killed by Tabuva. Tastuva or not Tastuva, thou verily art not Tastuva: poison is killed by Tastuva.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ता॒बुवं॒ न ता॒बुवं॒ न घेत्त्वम॑सि ता॒बुव॑म्।  
+ता॒बुवे॑नार॒सं वि॒षम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ता॒बुव॑म्। न। ता॒बुव॑म्। न। घ॒। इत्। त्वम्। अ॒सि॒। ता॒बुव॑म्। ता॒बुवे॑न। अ॒र॒सम्। वि॒षम्। १३.१०। 
+ता॒बुव॑म्। न। ता॒बुव॑म्। न। घ॒। इत्। त्वम्। अ॒सि॒। ता॒बुव॑म्। ता॒बुवे॑न। अ॒र॒सम्। वि॒षम्। १३.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Tabuva or not Tabuva, thou verily art not Tabuva: poison is killed by Tabuva. Ta
 
 टिप्पणी:   १०−(ताबुवम्) कृवापा०। उ० १।१। इति तु गतिवृद्धिहिंसासु−उण्+वा गतिगन्धनयोः−क। वृद्धिप्रापकं वस्तु (न) निषेधे (ताबुवम्) तु हिंसायाम्−उण्+वा गतौ−क। पीडाप्रापकं वस्तु (न) (घ) अवधारणे (इत्) एव (त्वम्) सर्पः (असि) (ताबुवम्) तु हिंसायाम्−उण्+वा गन्धने−क। दुःखनाशकं वस्तु (ताबुवेन) दुःखनाशकेन कर्मणा (अरसम्) निर्बलम् (विषम्) सरलम् ॥
 </details>
-

@@ -26,9 +26,15 @@ is very likely that the tradition is right.
 Agni, from days of old thou slayest demons: never have Rakshasas in fight o'ercome thee. Burn up the foolish ones, the flesh-devourers: let none of them escape thy heavenly arrow.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॒नाद॑ग्ने मृणसि यातु॒धाना॒न्न त्वा॒ रक्षां॑सि॒ पृत॑नासु जिग्युः।  
+स॒हमू॑रा॒ननु॑ दह क्र॒व्यादो॒ मा ते॑ हे॒त्या मु॑क्षत॒ दैव्या॑याः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒नात्। अ॒ग्ने॒। मृ॒ण॒सि॒। या॒तु॒ऽधाना॑न्। न। त्वा॒। रक्षां॑सि। पृत॑नासु। जि॒ग्युः॒। स॒हऽमू॑रान्। अनु॑। द॒ह॒। क्र॒व्य॒ऽअदः॑। मा। ते॒। हे॒त्याः। मु॒क्ष॒त॒। दैव्या॑याः। ३.१८। 
+स॒नात्। अ॒ग्ने॒। मृ॒ण॒सि॒। या॒तु॒ऽधाना॑न्। न। त्वा॒। रक्षां॑सि। पृत॑नासु। जि॒ग्युः॒। स॒हऽमू॑रान्। अनु॑। द॒ह॒। क्र॒व्य॒ऽअदः॑। मा। ते॒। हे॒त्याः। मु॒क्ष॒त॒। दैव्या॑याः। ३.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,4 +64,3 @@ Agni, from days of old thou slayest demons: never have Rakshasas in fight o'erco
 
 टिप्पणी:   १८−(सहमूरान्) मूलेन कारणेन सहितान्। यद्वा मूढमनुष्यैः सहितान्। अन्यद् व्याख्यातम्-अ० ५।२९।११ ॥
 </details>
-

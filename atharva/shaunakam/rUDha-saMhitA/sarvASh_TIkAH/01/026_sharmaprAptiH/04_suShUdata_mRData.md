@@ -24,9 +24,14 @@ resolution *-bhi-as* being refused in **b** and **c**.
 Further us rightly, favour ye our bodies with your gracious love. Give thou our children happiness.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सु॑षू॒दत॑ मृ॒डत॑ मृ॒डया॑ नस्त॒नूभ्यो॑ मय॑स्तो॒केभ्य॑स्कृ॒धि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सु॒सू॒दत॑। मृ॒डत॑। मृ॒डय॑। नः॒। त॒नूभ्यः॑। मयः॑। तो॒केभ्यः॑। कृ॒धि॒। 
+सु॒सू॒दत॑। मृ॒डत॑। मृ॒डय॑। नः॒। त॒नूभ्यः॑। मयः॑। तो॒केभ्यः॑। कृ॒धि॒।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +61,3 @@ Further us rightly, favour ye our bodies with your gracious love. Give thou our 
 
 टिप्पणी:   ४−सुषूदत। षूद आश्रुतिहत्योः। निरासे च। आश्रुतिरङ्गीकारः। इति शब्दकल्पद्रुमः। अङ्गीकुरुत। मृडत। मृड सुखने। सुखयत। मृडय। सुखय। तनूभ्यः। १।१।१। शरीरेभ्यः। मयः। १।१३।२। सुखम्। १। तोकेभ्यः। १।१३।२। अपत्येभ्यः ॥
 </details>
-

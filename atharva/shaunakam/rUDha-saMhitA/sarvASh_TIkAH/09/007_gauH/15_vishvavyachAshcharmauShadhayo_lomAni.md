@@ -18,9 +18,14 @@ Ppp. reads *carma oṣadhayo romāṇi*, and follows with our vs. 18.
 The All-embracing (Aditi) is the hide, the herbs are her hair,. and the Lunar Mansions her form.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॒श्वव्य॑चा॒श्चर्मौष॑धयो॒ लोमा॑नि॒ नक्ष॑त्राणि रू॒पम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒श्वऽव्य॑चाः। चर्म॑। ओष॑धयः। लोमा॑नि। नक्ष॑त्राणि। रू॒पम्। १२.१५। 
+वि॒श्वऽव्य॑चाः। चर्म॑। ओष॑धयः। लोमा॑नि। नक्ष॑त्राणि। रू॒पम्। १२.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ The All-embracing (Aditi) is the hide, the herbs are her hair,. and the Lunar Ma
 
 टिप्पणी:   १५−(विश्वव्यचाः) व्यच छले सम्बन्धे च-असुन् सर्वव्याप्तिः (चर्म) त्वचा (ओषधयः) अन्नादिपदार्थाः (लोमानि) रोमाणि (नक्षत्राणि) अ० ३।७।७। तारागणाः (रूपम्) सौन्दर्यम् ॥
 </details>
-

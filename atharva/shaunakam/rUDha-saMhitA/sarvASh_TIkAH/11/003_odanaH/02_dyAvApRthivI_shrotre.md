@@ -17,9 +17,14 @@ seers the breaths-and-expirations.
 Heaven and Earth are the ears, the Sun and Moon are the eyes, the seven Rishis are the vital airs inhaled and exhaled.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+द्यावा॑पृथि॒वी श्रो॒त्रे सू॑र्याचन्द्र॒मसा॒वक्षि॑णी सप्तऋ॒षयः॑ प्राणापा॒नाः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-द्यावा॑पृथि॒वी इति॑। श्रोत्रे॒ इति॑। सू॒र्या॒च॒न्द्र॒मसौ॑। अक्षि॑णी॒ इति॑। स॒प्त॒ऽऋ॒षयः॑। प्रा॒णा॒पा॒नाः। ३.२। 
+द्यावा॑पृथि॒वी इति॑। श्रोत्रे॒ इति॑। सू॒र्या॒च॒न्द्र॒मसौ॑। अक्षि॑णी॒ इति॑। स॒प्त॒ऽऋ॒षयः॑। प्रा॒णा॒पा॒नाः। ३.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Heaven and Earth are the ears, the Sun and Moon are the eyes, the seven Rishis a
 
 टिप्पणी:   २−(द्यावापृथिवी) भूमिवियतौ (श्रोत्रे) श्रवणेन्द्रिये (सूर्याचन्द्रमसौ) (अक्षिणी) चक्षुषी (सप्तऋषयः) अ० ४।११।९। सप्त ऋषयः प्रतिहिताः शरीरे षडिन्द्रियाणि विद्या सप्तमी-निरु० १२।३७। त्वक्चक्षुःश्रवणरसनाघ्राणमनोबुद्धयः ॥
 </details>
-

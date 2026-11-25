@@ -17,9 +17,14 @@ are after (*ánu*) thee.
 To thee, O Great-grandfather, and those with thee be this cry of Hail
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒तत्ते॑प्रततामह स्व॒धा ये च॒ त्वामनु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ए॒तत्। ते॒। प्र॒ऽत॒ता॒म॒ह॒। स्व॒धा। ये। च॒। त्वाम्। अनु॑। ४.७५। 
+ए॒तत्। ते॒। प्र॒ऽत॒ता॒म॒ह॒। स्व॒धा। ये। च॒। त्वाम्। अनु॑। ४.७५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ To thee, O Great-grandfather, and those with thee be this cry of Hail
 
 टिप्पणी:   ७५−(एतत्) अत्र (ते)तुभ्यम् (प्रततामह) तनु विस्तारे-क्त। तत इति सन्ताननाम पितुर्वा पुत्रस्यवा-निरु० ६।६। पितृव्यमातुलमातामहपितामहाः। पा० ४।२।३६। प्रतत-डामहच्, बाहुलकात्। हे प्रपितामह (स्वधा) अन्नम् (ये) (च) तेभ्यश्च (त्वाम्) (अनु)अनुसृत्य वर्तन्ते ॥
 </details>
-

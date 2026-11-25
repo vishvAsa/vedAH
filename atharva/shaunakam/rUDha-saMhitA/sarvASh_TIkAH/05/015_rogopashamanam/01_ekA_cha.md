@@ -20,9 +20,15 @@ Ppp. omits throughout the second *me* in **a**, and reads for **d**
 Plant! I have those who shall avert the threatened danger, ten and one. O sacred Plant, produced aright! make sweetness, sweet thy self, for me.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+एका॑ च मे॒ दश॑ च मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-‍एका॑। च॒। मे॒। दश॑। च॒। मे॒। अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.१। 
+‍एका॑। च॒। मे॒। दश॑। च॒। मे॒। अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Plant! I have those who shall avert the threatened danger, ten and one. O sacred
 
 टिप्पणी:   १−(एका) एकसंख्या (च च) समुच्चये (मे) मह्यम् (दश) (अपवक्तारः) निन्दका व्यवहाराः (ओषधे) हे तापनाशिके शक्ते परमेश्वर (ऋतजाते) सत्येनोत्पन्ने (ऋतावरि) अ० ३।१३।७। ऋत−वनिप्। हे सत्यशीले (मधु) ज्ञानं माधुर्य्यं वा (मधुला) मधु+ला दाने−क। मधुनो ज्ञानस्य माधुर्यस्य वा दात्री (करः) लेटि रूपम्। त्वं कुर्याः ॥
 </details>
-

@@ -19,9 +19,15 @@ Ppp. reads in **a** *bhavanti* for *abhavan*.
 Forth from thy mouth the Gathas came, from thy neck's nape sprang strength, O Cow. Sacrifice from thy flanks was born, and rays of sunlight from. thy teats,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॒स्नस्ते॒ गाथा॑ अभवन्नु॒ष्णिहा॑भ्यो॒ बलं॑ वशे।  
+पा॑ज॒स्या᳡ज्जज्ञे य॒ज्ञ स्तने॑भ्यो र॒श्मय॒स्तव॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒स्नः। ते॒। गाथाः॑। अ॒भ॒व॒न्। उ॒ष्णिहा॑भ्यः। बल॑म्। व॒शे॒। पा॒ज॒स्या᳡त्। ज॒ज्ञे॒। य॒ज्ञः। स्तने॑भ्यः। र॒श्मयः॑। तव॑। १०.२०। 
+आ॒स्नः। ते॒। गाथाः॑। अ॒भ॒व॒न्। उ॒ष्णिहा॑भ्यः। बल॑म्। व॒शे॒। पा॒ज॒स्या᳡त्। ज॒ज्ञे॒। य॒ज्ञः। स्तने॑भ्यः। र॒श्मयः॑। तव॑। १०.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Forth from thy mouth the Gathas came, from thy neck's nape sprang strength, O Co
 
 टिप्पणी:   २०−(आस्नः) मुखात् (ते) तव (गाथाः) उषिकुषिगार्तिभ्यस्थन्। उ० २।४। गै गाने-थन्। गाथा वाङ्नाम-निघ० १।११। गानयोग्या वेदवाण्यः अभवन् (उष्णिहाभ्यः) अ० २।३३।२। ग्रीवानाडीभ्यः (बलम्) सामर्थ्यम् (पाजस्यात्) अ० ४।१४।८। उदरात्। अन्यत् सुगमम् ॥
 </details>
-

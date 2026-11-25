@@ -21,9 +21,14 @@ as last of the four epithets; it also sets the whole paragraph after our
 The man who supplies food hath always pressing stones adjusted, a wet Soma filter, well prepared religious rites, and mental power to complete the arranged sacrifice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स॑र्व॒दा वा ए॒ष यु॒क्तग्रा॑वा॒र्द्रप॑वित्रो॒ वित॑ताध्वर॒ आहृ॑तयज्ञक्रतु॒र्य उ॑प॒हर॑ति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-स॒र्व॒दा। वै। ए॒षः। यु॒क्तऽग्रा॑वा। आ॒र्द्रऽप॑वित्रः। वित॑तऽअध्वरः। आहृ॑तऽयज्ञक्रतुः। यः। उ॒प॒ऽहर॑ति। ७.१०। 
+स॒र्व॒दा। वै। ए॒षः। यु॒क्तऽग्रा॑वा। आ॒र्द्रऽप॑वित्रः। वित॑तऽअध्वरः। आहृ॑तऽयज्ञक्रतुः। यः। उ॒प॒ऽहर॑ति। ७.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ The man who supplies food hath always pressing stones adjusted, a wet Soma filte
 
 टिप्पणी:   १०−(सर्वदा) नित्यम् (एषः) गृहस्थः (युक्तग्रावा) संगृहीतपेषणपाषाणः (आर्द्रपवित्रः) क्लिन्नशोधनपात्रः (वितताध्वरः) विस्तृतयज्ञः (आहृतयज्ञक्रतुः) क्रतुः कर्मनाम-निघ० २।१। स्वीकृतयज्ञकर्मा (उपहरति) उपहारेण भोजनं ददाति ॥
 </details>
-

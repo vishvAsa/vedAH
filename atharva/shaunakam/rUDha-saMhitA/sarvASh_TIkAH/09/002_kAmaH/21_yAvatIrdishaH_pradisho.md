@@ -19,9 +19,15 @@ The verse lacks two syllables of being a real *jagatī*.
 Vast as the quarters of the sky and regions that lie between them spread in all directions, vast as celestial tracts and views of heaven, Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+याव॑ती॒र्दिशः॑ प्र॒दिशो॒ विषू॑ची॒र्याव॑ती॒राशा॑ अभि॒चक्ष॑णा दि॒वः।  
+तत॒स्त्वम॑सि॒ ज्याया॑न्वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत्कृ॑णोमि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-याव॑तीः। दिशः॑। प्र॒ऽदिशः॑। विषू॑चीः। याव॑तीः। आशाः॑। अ॒भि॒ऽचक्ष॑णाः। दि॒वः। ततः॑। त्वम्। अ॒सि॒। ज्याया॑न्। वि॒श्वहा॑। म॒हान्। तस्मै॑। ते॒। का॒म॒। नमः॑। इत्। कृ॒णो॒मि॒। २.२१। 
+याव॑तीः। दिशः॑। प्र॒ऽदिशः॑। विषू॑चीः। याव॑तीः। आशाः॑। अ॒भि॒ऽचक्ष॑णाः। दि॒वः। ततः॑। त्वम्। अ॒सि॒। ज्याया॑न्। वि॒श्वहा॑। म॒हान्। तस्मै॑। ते॒। का॒म॒। नमः॑। इत्। कृ॒णो॒मि॒। २.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Vast as the quarters of the sky and regions that lie between them spread in all 
 
 टिप्पणी:   २१−(यावतीः) यत्प्रमाणाः (दिशः) पूर्वादयः (प्रदिशः) अन्तर्दिशाः (विषूचीः) अ० १।१९।१। सर्वत्रव्यापिकाः (आशाः) आ+अशू व्याप्तौ-अच्। दिशाः। तत्रत्या देशाः (अभिचक्षणाः) चक्षिङ् दर्शने-ल्यु। दृश्यानि। अन्यत् पूर्ववत् ॥
 </details>
-

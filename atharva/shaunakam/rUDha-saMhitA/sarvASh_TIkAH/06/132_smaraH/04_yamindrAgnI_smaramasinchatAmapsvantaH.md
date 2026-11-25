@@ -16,9 +16,15 @@ title = "०४ यमिन्द्राग्नी स्मरमसिञ
 The charm, aglow with longing, which Indra and Agni have effused within the bosom of the floods, That spell for thee I heat by Varuna's decree.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यमि॑न्द्रा॒ग्नी स्म॒रमसि॑ञ्चताम॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यम्। इ॒न्द्रा॒ग्नी इति॑। स्म॒रम्। असि॑ञ्चताम्। अ॒पऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.४। 
+यम्। इ॒न्द्रा॒ग्नी इति॑। स्म॒रम्। असि॑ञ्चताम्। अ॒पऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,4 +54,3 @@ The charm, aglow with longing, which Indra and Agni have effused within the boso
 
 टिप्पणी:   ४−(इन्द्राग्नी) विद्युत्पावकौ (असिञ्चताम्) अवर्धयताम्। अन्यत् पूर्ववत् ॥
 </details>
-

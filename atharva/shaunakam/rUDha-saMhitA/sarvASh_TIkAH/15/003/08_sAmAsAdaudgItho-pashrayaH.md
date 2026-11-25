@@ -23,9 +23,14 @@ should be something that leans against or is leaned against.
 The Saman was the Cushion, and chanting the bolster.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सामा॑सा॒दउ॑द्गी॒थो᳡ऽप॑श्र॒यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-साम॑। आ॒ऽसा॒दः। उ॒त्ऽगी॒थः। उ॒प॒ऽश्र॒यः। ३.८। 
+साम॑। आ॒ऽसा॒दः। उ॒त्ऽगी॒थः। उ॒प॒ऽश्र॒यः। ३.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ The Saman was the Cushion, and chanting the bolster.
 
 टिप्पणी:   ८−(साम)मोक्षज्ञानम् (आसादः) आङ्+षद्लृ गतौ-घञ्। स्थितिस्थानम् (उद्गीथः) गश्चोदि। उ०२।१०। उत्+गै गाने-थक्। उच्चैर्गीयमानः सामध्वनिः प्रणवो वा (अपश्रयः) अप+श्रिञ्सेवायाम्-अच्। आश्रयः ॥
 </details>
-

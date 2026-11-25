@@ -18,9 +18,15 @@ sister slain.
 Destroyed are his dependants, who those dwell around him are destroyed, And all the worms that seem to be the little ones are done to death
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ह॒तो राजा॒ क्रिमी॑णामु॒तैषां॑ स्थ॒पति॑र्ह॒तः।  
+ह॒तो ह॒तमा॑ता॒ क्रिमि॑र्ह॒तभ्रा॑ता ह॒तस्व॑सा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ह॒तः। राजा॑। क्रिमी॑णाम्। उ॒त। ए॒षा॒म्। स्थ॒पतिः॑। ह॒तः। ह॒तः। ह॒तमा॑ता। क्रिमिः॑। ह॒तऽभ्रा॑ता। ह॒तऽस्व॑सा। २३.११। 
+ह॒तः। राजा॑। क्रिमी॑णाम्। उ॒त। ए॒षा॒म्। स्थ॒पतिः॑। ह॒तः। ह॒तः। ह॒तमा॑ता। क्रिमिः॑। ह॒तऽभ्रा॑ता। ह॒तऽस्व॑सा। २३.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +56,3 @@ Destroyed are his dependants, who those dwell around him are destroyed, And all 
 
 टिप्पणी:   ११−तथा−अ० २।३२।४। (हतः) नाशितो भवतु (राजा) अधिपतिः (क्रिमीणाम्) कीटानाम् (उत) अपि च (एषाम्) उपस्थितानाम् (स्थपतिः) द्वारपालः (हतः) (हतमाता) नष्टमातृकः (क्रिमिः) (हतभ्राता) नष्टमातृकः (हतस्वसा) नष्टभगिनीकः ॥
 </details>
-

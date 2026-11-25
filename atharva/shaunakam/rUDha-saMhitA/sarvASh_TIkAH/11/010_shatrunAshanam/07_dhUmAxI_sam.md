@@ -23,9 +23,15 @@ translated by Bloomfield, as noted above (see 9. 7), at AJP. xi. 340.
 Down let the dim-eyed demon fly, and let her shorteared sister shriek: Red be the banners when the host of Arbudi hath won the day.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+धू॑मा॒क्षी सं प॑ततु कृधुक॒र्णी च॑ क्रोशतु।  
+त्रिष॑न्धेः॒ सेन॑या जि॒ते अ॑रु॒णाः स॑न्तु के॒तवः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-धू॒म॒ऽअ॒क्षीः। सम्। प॒त॒तु॒। कृ॒धु॒ऽक॒र्णी। च॒। क्रो॒श॒तु॒। त्रिऽसं॑धेः। सेन॑या। जि॒ते। अ॒रु॒णाः। स॒न्तु॒। के॒तवः॑। १२.७। 
+धू॒म॒ऽअ॒क्षीः। सम्। प॒त॒तु॒। कृ॒धु॒ऽक॒र्णी। च॒। क्रो॒श॒तु॒। त्रिऽसं॑धेः। सेन॑या। जि॒ते। अ॒रु॒णाः। स॒न्तु॒। के॒तवः॑। १२.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ Down let the dim-eyed demon fly, and let her shorteared sister shriek: Red be th
 
 टिप्पणी:   ७−(धूमाक्षी) बहुव्रीहौ सक्थ्यक्ष्णोः स्वाङ्गात् षच्। पा० ५।४।११३। इति षच्। षित्त्वाद् ङीष्। धूमपूरितनेत्रा (सम्) सम्यक् (पततु) निपद्यताम् (कृधुकर्णी) अ० ११।९।७। मन्दश्रवणा (च) (क्रोशतु) रोदितु (त्रिषन्धेः) म० २। त्रयीकुशलस्य सेनापतेः (सेनया) (जिते) जयकर्मणि (अरुणाः) म० २। रक्तवर्णाः (सन्तु) (केतवः) ध्वजाः ॥
 </details>
-

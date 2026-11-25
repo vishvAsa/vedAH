@@ -24,9 +24,15 @@ there should be a space between *módāḥ* and *pra-*.⌋
 All pleasures and enjoyments, all delights and rapturous ecsta- sies, All the celestial Gods whose home is heaven sprang from the Residue.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॑न॒न्दा मोदाः॑ प्र॒मुदो॑ऽभिमोद॒मुद॑श्च॒ ये।  
+उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒ऽन॒न्दाः। मोदाः॑। प्र॒ऽमुदः॑। अ॒भि॒ऽमो॒द॒ऽमुदः॑। च॒। ये। उत्ऽशि॑ष्टात्। ज॒ज्ञि॒रे॒। सर्वे॑। दि॒वि। दे॒वाः। दि॒वि॒ऽश्रितः॑। ९.२६। 
+आ॒ऽन॒न्दाः। मोदाः॑। प्र॒ऽमुदः॑। अ॒भि॒ऽमो॒द॒ऽमुदः॑। च॒। ये। उत्ऽशि॑ष्टात्। ज॒ज्ञि॒रे॒। सर्वे॑। दि॒वि। दे॒वाः। दि॒वि॒ऽश्रितः॑। ९.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,4 +62,3 @@ All pleasures and enjoyments, all delights and rapturous ecsta- sies, All the ce
 
 टिप्पणी:   २६−(आनन्दाः) सुखविशेषाः (मोदाः) हर्षाः (प्रमुदः) प्रकृष्टहर्षाः (अभिमोदमुदः) अभिमोदैर्महोत्सवैर्हर्षयितारः पदार्थाः (च) (ये) अन्यत् पूर्ववत् ॥
 </details>
-

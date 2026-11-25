@@ -19,9 +19,15 @@ earth—let them free us from distress.
 Gods whose abode is in the heaven and those who dwell in middle air, And Mighty ones who rest on earth: may they deliver us from. woe.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये दे॒वा दि॑वि॒षदो॑ अन्तरिक्ष॒सद॑श्च॒ ये।  
+पृ॑थि॒व्यां श॒क्रा ये श्रि॒तास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। दे॒वाः। दि॒वि॒ऽसदः॑। अ॒न्त॒रि॒क्ष॒ऽसदः॑। च॒। ये। पृ॒थि॒व्याम्। श॒क्राः। ये। श्रि॒ताः। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१२। 
+ये। दे॒वाः। दि॒वि॒ऽसदः॑। अ॒न्त॒रि॒क्ष॒ऽसदः॑। च॒। ये। पृ॒थि॒व्याम्। श॒क्राः। ये। श्रि॒ताः। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +57,3 @@ Gods whose abode is in the heaven and those who dwell in middle air, And Mighty 
 
 टिप्पणी:   १२−(ये) (देवाः) दिव्यगुणाः (दिविषदः) सूर्ये स्थिताः (अन्तरिक्षसदः) अन्तरिक्षे वर्तमानाः (च) (ये) (पृथिव्याम्) भूमौ (शक्राः) अ० २।५।४। शक्तिमन्तः (ये) (श्रिताः) स्थिताः। अन्यत् पूर्ववत्-म० १ ॥
 </details>
-

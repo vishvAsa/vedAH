@@ -17,9 +17,14 @@ thee: so one says to him.
 Thou hast eaten this averted; thy inward breath will leave thee; so he said to this one.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+परा॑ञ्चं चैनं॒ प्राशीः॑ प्रा॒णास्त्वा॑ हास्य॒न्तीत्ये॑नमाह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-परा॑ञ्चम्। च॒। ए॒न॒म्। प्र॒ऽआशीः॑। प्रा॒णाः। त्वा॒। हा॒स्य॒न्ति॒। इति॑। ए॒न॒म्। आ॒ह॒। ३.२८। 
+परा॑ञ्चम्। च॒। ए॒न॒म्। प्र॒ऽआशीः॑। प्रा॒णाः। त्वा॒। हा॒स्य॒न्ति॒। इति॑। ए॒न॒म्। आ॒ह॒। ३.२८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Thou hast eaten this averted; thy inward breath will leave thee; so he said to t
 
 टिप्पणी:   २८−(पराञ्चम्) म० २६। दूरे गच्छन्तम् (च) चेत् (एनम्) ओदनम् (प्राशीः) म० २६। प्रकर्षेण भक्षितवानसि (प्राणाः) श्वासबलानि (त्वा) (हास्यन्ति) ओहाक् त्यागे। त्यक्ष्यन्ति (इति) एवम् (एनम्) जिज्ञासुम् (आह) ब्रूञ् व्यक्तायां वाचि लट्। ब्रवीति ॥
 </details>
-

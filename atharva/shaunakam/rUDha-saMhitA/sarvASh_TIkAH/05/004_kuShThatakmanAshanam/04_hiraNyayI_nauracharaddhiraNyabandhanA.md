@@ -30,9 +30,15 @@ former was adopted in our edition as being favored by the meter.
 There moved through heaven a golden ship, a ship with cordage wrought of Gold. There the Gods won the Kushtha Plant, the blossom of eternal life.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
+तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हि॒र॒ण्ययी॑। नौः। अ॒च॒र॒त्। हिर॑ण्यऽबन्धना। दि॒वि। तत्र॑। अ॒मृत॑स्य। पुष्प॑म्। दे॒वाः। कुष्ठ॑म्। अ॒व॒न्व॒त॒। ४.४। 
+हि॒र॒ण्ययी॑। नौः। अ॒च॒र॒त्। हिर॑ण्यऽबन्धना। दि॒वि। तत्र॑। अ॒मृत॑स्य। पुष्प॑म्। दे॒वाः। कुष्ठ॑म्। अ॒व॒न्व॒त॒। ४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -62,4 +68,3 @@ There moved through heaven a golden ship, a ship with cordage wrought of Gold. T
 
 टिप्पणी:   ४−(हिरण्ययी) हिरण्ययी तेजोमयी (नौः) अ० ३।६।७। तरणिः (अचरत्) अगमत् (हिरण्यबन्धना) तेजोमयबन्धनयुक्ता (दिवि) प्रकाशलोके (पुष्पम्) पुष्प विकसने−पचाद्यच्। विकाशम्। अन्यद् गतम्। म० ३ ॥
 </details>
-

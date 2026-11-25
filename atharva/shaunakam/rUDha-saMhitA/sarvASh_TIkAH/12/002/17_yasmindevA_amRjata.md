@@ -27,9 +27,15 @@ reports no variant⌋, but that need not prevent our understanding instead
 Whereon the Deities, whereon men too have purified themselves, Exalting fatness, cleanse thyself, Agni, therein and mount to heaven.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यस्मि॑न्दे॒वा अमृ॑जत॒ यस्मि॑न्मनु॒ष्या᳡ उ॒त।  
+तस्मि॑न्घृत॒स्तावो॑ मृ॒ष्ट्वा त्वम॑ग्ने॒ दिवं॑ रुह ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यस्मि॑न्। दे॒वाः। अमृ॑जत। यस्मि॑न्। म॒नु॒ष्याः᳡। उ॒त। तस्मि॑न्। घृ॒त॒ऽस्तावः॑। मृ॒ष्वा। आ। त्वम्। अ॒ग्ने॒। दिव॑म्। रु॒ह॒। २.१७। 
+यस्मि॑न्। दे॒वाः। अमृ॑जत। यस्मि॑न्। म॒नु॒ष्याः᳡। उ॒त। तस्मि॑न्। घृ॒त॒ऽस्तावः॑। मृ॒ष्वा। आ। त्वम्। अ॒ग्ने॒। दिव॑म्। रु॒ह॒। २.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,4 +65,3 @@ Whereon the Deities, whereon men too have purified themselves, Exalting fatness,
 
 टिप्पणी:   १७−(यस्मिन्) ज्ञाने (देवाः) विजिगीषवः (अमृजत) शुद्धा अभवन् (यस्मिन्) (मनुष्याः) मननशीलाः (उत) अपि (तस्मिन्) ज्ञाने (घृतस्तावः) घृतस्य ज्ञानप्रकाशस्य स्तावः स्तुतिर्यस्य सः (मृष्ट्वा) शुद्ध्वा (त्वम्) (अग्ने) हे अग्निवत्तेजस्विन् राजन् (दिवम्) मोदम्। हर्षम् (आ रुह) अधितिष्ठ ॥
 </details>
-

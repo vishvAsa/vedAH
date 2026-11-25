@@ -19,9 +19,14 @@ connection with the strewing of *barhis*.
 Thou art the grass whereon our Fathers seat them.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+ये॒३॒॑स्माकं॑पि॒तर॒स्तेषां॑ ब॒र्हिर॑सि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-ये। अ॒स्माक॑म्। पि॒तरः॑। तेषा॑म्। ब॒र्हिः। अ॒सि॒। ४.६८। 
+ये। अ॒स्माक॑म्। पि॒तरः॑। तेषा॑म्। ब॒र्हिः। अ॒सि॒। ४.६८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Thou art the grass whereon our Fathers seat them.
 
 टिप्पणी:   ६८−(ये) पुरुषाः (अस्माकम्) अस्माकं मध्ये (पितरः) पालका ज्ञानिनः (तेषाम्) पितॄणाम् (बर्हिः)उत्तमासनम् (असि) प्रथमस्य मध्यमपुरुषः। अस्ति। भवति ॥
 </details>
-

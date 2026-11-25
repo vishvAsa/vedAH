@@ -17,9 +17,14 @@ down upon the back of the sky.
 Down looking, on the ridge of sky Savitar goes to highest heaven.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स ए॑ति सवि॒ता स्व᳡र्दि॒वस्पृ॒ष्ठे᳡व॒चाक॑शत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। ए॒ति॒। स॒वि॒ता। स्वः᳡। दि॒वः। पृ॒ष्ठे। अ॒व॒ऽचाक॑शत्। ४.१। 
+सः। ए॒ति॒। स॒वि॒ता। स्वः᳡। दि॒वः। पृ॒ष्ठे। अ॒व॒ऽचाक॑शत्। ४.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,4 +54,3 @@ Down looking, on the ridge of sky Savitar goes to highest heaven.
 
 टिप्पणी:   १−(सः) प्रसिद्धः (एति) प्राप्नोति (सविता) सर्वप्रेरकः परमेश्वरः (स्वः) सुखम् (दिवः) आकाशस्य। व्यवहारस्य (पृष्ठे) उपरिभागे (अवचाकशत्) निघ० ३।११। अवलोकयन् ॥
 </details>
-

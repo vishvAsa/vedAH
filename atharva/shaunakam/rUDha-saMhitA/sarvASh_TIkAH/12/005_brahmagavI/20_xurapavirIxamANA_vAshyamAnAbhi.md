@@ -20,9 +20,14 @@ Bp. reads *vā́sya-*. Vss. 19 and 20 were perhaps intended as metrical (8
 Sharp as a razor when she beholdeth, she thundereth when she belloweth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+क्षु॒रप॑वि॒रीक्ष॑माणा॒ वाश्य॑माना॒भि स्फू॒र्जति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-क्षु॒रऽप॑विः। ईक्ष॑माणा। वाश्य॑माना। अ॒भि। स्फू॒र्ज॒ति॒। ७.९। 
+क्षु॒रऽप॑विः। ईक्ष॑माणा। वाश्य॑माना। अ॒भि। स्फू॒र्ज॒ति॒। ७.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ Sharp as a razor when she beholdeth, she thundereth when she belloweth.
 
 टिप्पणी:   २०−(क्षुरपविः) शस्त्रधारा यथा (ईक्षमाणा) पश्यन्ती (वाश्यमाना) वाशृ शब्दे−शानच्। शब्दायमाना (अभि) सर्वतः (स्फूर्जति) टुओस्फूर्जा वज्रघोषे। गर्जति ॥
 </details>
-

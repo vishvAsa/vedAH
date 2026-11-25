@@ -20,9 +20,14 @@ be capable of being read as 9 + 9 + 7 (being *bhurij*).
 He, when he went away to the Gods, went away having become Isana and having made Passion an eater of food.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+स यद्दे॒वाननु॒व्यच॑ल॒दीशा॑नो भू॒त्वानु॒व्य᳡चलन्म॒न्युम॑न्ना॒दं कृ॒त्वा ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सः। यत्। दे॒वान्। अनु॑। वि॒ऽअच॑लत्। ईशा॑नः। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। म॒न्युम्। अ॒न्न॒ऽअ॒दम्। कृत्वा। १४.१९। 
+सः। यत्। दे॒वान्। अनु॑। वि॒ऽअच॑लत्। ईशा॑नः। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। म॒न्युम्। अ॒न्न॒ऽअ॒दम्। कृत्वा। १४.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ He, when he went away to the Gods, went away having become Isana and having made
 
 टिप्पणी:   १९, २०−(देवान्)विदुषः पुरुषान् (ईशानः) समर्थः (मन्युम्) यजिमनिशुन्धि०। उ० ३।२०। मनज्ञाने-युच्। मन्युर्मन्यतेर्दीप्तिकर्मणः क्रोधकर्मणो वधकर्मणो वा-निरु०१०।२९। ज्ञानम्। प्रकाशम् (मन्युना) ज्ञानेन। अन्यत् पूर्ववत्-म० १, २ ॥
 </details>
-

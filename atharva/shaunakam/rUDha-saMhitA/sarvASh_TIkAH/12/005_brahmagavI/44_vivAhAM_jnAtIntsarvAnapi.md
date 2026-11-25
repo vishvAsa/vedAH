@@ -20,9 +20,14 @@ Some of our mss. (O.D.T.R.) accent *-dīyámānā*, although part of them
 The Brahman's cow, not restored by a Kshatriya, ruins the marriages and all the kinsmen of the Brahman's oppressor.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि॑वा॒हां ज्ञा॒तीन्त्सर्वा॒नपि॑ क्षापयति ब्रह्मग॒वी ब्र॑ह्म॒ज्यस्य॑ क्ष॒त्रिये॒णापु॑नर्दीयमाना ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि॒ऽवा॒हान्। ज्ञा॒तीन्। सर्वा॑न्। अपि॑। क्षा॒प॒य॒ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यस्य॑। क्ष॒त्रिये॑ण। अपु॑नःऽदीयमाना। ९.६। 
+वि॒ऽवा॒हान्। ज्ञा॒तीन्। सर्वा॑न्। अपि॑। क्षा॒प॒य॒ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यस्य॑। क्ष॒त्रिये॑ण। अपु॑नःऽदीयमाना। ९.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ The Brahman's cow, not restored by a Kshatriya, ruins the marriages and all the 
 
 टिप्पणी:   ४४−(विवाहान्) विवाहसंस्कारान् (ज्ञातीन्) बान्धवान् (सर्वान्) (अपि) एव (क्षापयति) क्षै क्षये−णिच्। नाशयति (ब्रह्मगवी) म० ५। वेदवाणी (ब्रह्मज्यस्य) म० १५। ब्रह्मचारिणां हानिकरस्य (क्षत्रियेण) राजन्येन (अपुनर्दीयमाना) न पुनर्दीयमाना ॥
 </details>
-

@@ -52,9 +52,15 @@ text of the comm. has *’py asi*.⌋ \*⌊But W's P.M.W., *mṛgā́ṁ*.⌋
 Consumptions flee apart from it as from a wild beast fly the deer. If thou, O Bdellium, art produced from Sindhu or hast come from sea, The quality of both have I taken to keep this man unscathed.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+विष्व॑ञ्च॒स्तस्मा॒द्यक्ष्मा॑ मृ॒गा अश्वा॑ इवेरते।  
+यद्गु॑ल्गु॒लु सै॑न्ध॒वं यद्वाप्यसि॑ समु॒द्रिय॑म् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-विष्व॑ञ्चः। तस्मा॑त्। यक्ष्माः॑। मृ॒गाः। अश्वाः॑ऽइव। ई॒र॒ते॒। यत्। गु॒ल्गु॒लु। सै॒न्ध॒वम्। यत्। वा॒। अपि॑। असि॑। स॒मु॒द्रिय॑म्। ३८.२। 
+विष्व॑ञ्चः। तस्मा॑त्। यक्ष्माः॑। मृ॒गाः। अश्वाः॑ऽइव। ई॒र॒ते॒। यत्। गु॒ल्गु॒लु। सै॒न्ध॒वम्। यत्। वा॒। अपि॑। असि॑। स॒मु॒द्रिय॑म्। ३८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -84,4 +90,3 @@ Consumptions flee apart from it as from a wild beast fly the deer. If thou, O Bd
 
 टिप्पणी:   २−(विष्वञ्चः) विष्वगञ्चनाः नाना देशव्याप्ताः (तस्मात्) पुरुषात् (यक्ष्माः) राजरोगाः (मृगाः) जन्तुविशेषाः (अश्वाः) तुरङ्गाः (इव) यथा (ईरते) धावन्ति (यत्) यत्र (गुल्गुलु) म०१। गुग्गुलु (सैन्धवम्) नदीप्रदेशजम् (यत्) यत्र (वा) अथवा (अपि) एव (असि) अस्ति (समुद्रियम्) समुद्रभवम् ॥
 </details>
-

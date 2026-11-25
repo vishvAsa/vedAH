@@ -22,9 +22,15 @@ the antithesis of **a** and b, admirably suggested by Deussen's
 A God, thou injurest the Gods: thou movest in the ocean's depth. Men kindle common Agni: him only the higher sages know.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दे॒वो दे॒वान्म॑र्चयस्य॒न्तश्च॑रस्यर्ण॒वे।  
+स॑मा॒नम॒ग्निमि॑न्धते॒ तं वि॑दुः क॒वयः॒ परे॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दे॒वः। दे॒वान्। म॒र्च॒य॒सि॒। अ॒न्तः। च॒र॒सि॒। अ॒र्ण॒वे। स॒मा॒नम्। अ॒ग्निम्। इ॒न्ध॒ते॒। तम्। वि॒दुः॒। क॒वयः॑। परे॑। १.४०। 
+दे॒वः। दे॒वान्। म॒र्च॒य॒सि॒। अ॒न्तः। च॒र॒सि॒। अ॒र्ण॒वे। स॒मा॒नम्। अ॒ग्निम्। इ॒न्ध॒ते॒। तम्। वि॒दुः॒। क॒वयः॑। परे॑। १.४०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ A God, thou injurest the Gods: thou movest in the ocean's depth. Men kindle comm
 
 टिप्पणी:   ४०−(देवः) बुद्धिमान् (देवान्) दिव्यगुणान् (मर्चयसि) मर्च शब्दे। शब्दयसि। उपदिशसि (अन्तः) मध्ये (चरसि) विचरसि (अर्णवे) समुद्रे (समानम्) सामान्यम् (अग्निम्) ज्ञानवन्तं परमेश्वरम् (इन्धते) दीप्यन्ते (तम्) प्रसिद्धम् (विदुः) जानन्ति (कवयः) मेधाविनः-निघ० ३।१५। (परे) श्रेष्ठाः ॥
 </details>
-

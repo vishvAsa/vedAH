@@ -25,9 +25,15 @@ abbreviation *’va* after *sákhāyāu*.
 I loose the anger from thy heart as 'twere the bowstring from a bow, That we, one-minded now, may walk together as familiar friends.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अव॒ ज्यामि॑व॒ धन्व॑नो म॒न्युं त॑नोमि ते हृ॒दः।  
+यथा॒ संम॑नसौ भू॒त्वा सखा॑याविव॒ सचा॑वहै ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अव॑। ज्याम्ऽइ॑व। धन्व॑नः। म॒न्युम्। त॒नो॒मि॒। ते॒। हृ॒दः। यथा॑। सम्ऽम॑नसौ। भू॒त्वा। सखा॑यौऽइव। सचा॑वहै। ४२.१। 
+अव॑। ज्याम्ऽइ॑व। धन्व॑नः। म॒न्युम्। त॒नो॒मि॒। ते॒। हृ॒दः। यथा॑। सम्ऽम॑नसौ। भू॒त्वा। सखा॑यौऽइव। सचा॑वहै। ४२.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +63,3 @@ I loose the anger from thy heart as 'twere the bowstring from a bow, That we, on
 
 टिप्पणी:   १−(ज्याम्) अ० १।१।३। मौर्वीम् (इव) यथा (धन्वनः) धनुषः (मन्युम्) क्रोधम् (अव तनोमि) अवरोपयामि। अवतरामि (ते) तव (हृदः) हृदयात् (यथा) येन प्रकारेण (संमनसौ) समानमनस्कौ परस्परानुरागिणौ (भूत्वा) (सखायौ) सुहृदौ (सचावहै) षच समवाये−लोट्। समवेतौ नित्यसंगतौ भवाव ॥
 </details>
-

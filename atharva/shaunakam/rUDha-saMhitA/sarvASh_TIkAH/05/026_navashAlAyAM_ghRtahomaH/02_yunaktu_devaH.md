@@ -20,9 +20,14 @@ bṛhatī*), without heeding the fact that each contains a *triṣṭubh* pāda.
 May Savitar the God--All hail!--foreknowing, chief in this sacrifice, employ them.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यु॒नक्तु॑ दे॒वः स॑वि॒ता प्र॑जा॒नन्न॒स्मिन्य॒ज्ञे म॑हि॒षः स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यु॒नक्तु॑। दे॒वः। स॒वि॒ता। प्र॒ऽजा॒नन्। अ॒स्मिन्। य॒ज्ञे। म॒हि॒षः। स्वाहा॑। २६.२। 
+यु॒नक्तु॑। दे॒वः। स॒वि॒ता। प्र॒ऽजा॒नन्। अ॒स्मिन्। य॒ज्ञे। म॒हि॒षः। स्वाहा॑। २६.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ May Savitar the God--All hail!--foreknowing, chief in this sacrifice, employ the
 
 टिप्पणी:   २−(युनक्तु) उपयोगे करोतु−यजूंषि समिध इति अनुवर्त्तेते, म० १ (देवः) व्यवहारकुशलः (सविता) प्रेरकः प्रधानपुरुषः (प्रजानन्) प्रविद्वान् (महिषः) अ० २।३५।४। महान्। अन्यत् पूर्ववत् ॥
 </details>
-

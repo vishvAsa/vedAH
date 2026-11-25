@@ -53,9 +53,14 @@ anuṣṭubh; 14, 26. sāmny uṣṇih; 15. gāyatrī; 16, 17, 19, 20. prājāpa
 All these blessings of a Kshatriya depart from him when he oppresseth the Brahman and taketh to himself the hhman's cow.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तानि॒ सर्वा॒ण्यप॑ क्रामन्ति ब्रह्मग॒वीमा॒ददा॑नस्य जिन॒तो ब्रा॑ह्म॒णं क्ष॒त्रिय॑स्य ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तानि॑। सर्वा॑णि। अप॑। क्रा॒म॒न्ति॒। ब्र॒ह्म॒ऽग॒वीम्। आ॒ऽददा॑नस्य। जि॒न॒तः। ब्रा॒ह्म॒णम्। क्ष॒त्रिय॑स्य। ६.५। 
+तानि॑। सर्वा॑णि। अप॑। क्रा॒म॒न्ति॒। ब्र॒ह्म॒ऽग॒वीम्। आ॒ऽददा॑नस्य। जि॒न॒तः। ब्रा॒ह्म॒णम्। क्ष॒त्रिय॑स्य। ६.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -85,4 +90,3 @@ All these blessings of a Kshatriya depart from him when he oppresseth the Brahma
 
 टिप्पणी:   ११−(तानि) पूर्वोक्तानि (सर्वाणि) समस्तानि (अप क्रामन्ति) अपगच्छन्ति। विनश्यन्ति। अन्यत् पूर्ववत्−म० ५ ॥
 </details>
-

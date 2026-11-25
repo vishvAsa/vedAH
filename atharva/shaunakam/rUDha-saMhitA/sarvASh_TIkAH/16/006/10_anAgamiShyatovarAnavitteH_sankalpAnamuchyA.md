@@ -19,9 +19,14 @@ takes *drúh* here and at ii. 10 as a female fiend.⌋
 Wishes for boons that will not come, thoughts of poverty, the snares of the Druh who never releases.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अना॑गमिष्यतो॒वरा॒नवि॑त्तेः संक॒ल्पानमु॑च्या द्रु॒हः पाशा॑न् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अना॑गमिष्यतः। वरा॑न्। अवि॑त्तेः। स॒म्ऽक॒ल्पान्। अमु॑च्याः। द्रु॒हः। पाशा॑न्। ६.१०। 
+अना॑गमिष्यतः। वरा॑न्। अवि॑त्तेः। स॒म्ऽक॒ल्पान्। अमु॑च्याः। द्रु॒हः। पाशा॑न्। ६.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Wishes for boons that will not come, thoughts of poverty, the snares of the Druh
 
 टिप्पणी:   १०−(अनागमिष्यतः)अनागमनमिच्छतः (वरान्) श्रेष्ठफलान् (अवित्तेः) दरिद्रतायाः (संकल्पान्)विचारान् (अमुच्याः) मुच्लृ मोचने-क, ङीप्। अमोचनशीलायाः (द्रुहः)अनिष्टचिन्तायाः (पाशान्) बन्धान् ॥
 </details>
-

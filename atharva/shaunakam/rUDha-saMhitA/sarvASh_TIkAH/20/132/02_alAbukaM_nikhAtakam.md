@@ -8,9 +8,14 @@ title = "०२ अलाबुकं निखातकम्"
 the bottle-gourd dug from the earth,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अला॑बुकं॒ निखा॑तकम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अला॑बुक॒म्। निखा॑तकम्। १३२.२। 
+अला॑बुक॒म्। निखा॑तकम्। १३२.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,4 +44,3 @@ the bottle-gourd dug from the earth,
 
 टिप्पणी:   २−(अलाबुकम्) म० १। (निखातकम्) खनु अवदारणे-क्त, स्वार्थे कन्। खनित्वा दृढीकृत्य स्थापितम् ॥
 </details>
-

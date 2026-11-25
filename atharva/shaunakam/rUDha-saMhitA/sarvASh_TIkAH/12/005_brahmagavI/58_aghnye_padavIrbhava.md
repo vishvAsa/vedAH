@@ -19,9 +19,14 @@ is wanting in Ppp.
 O Cow, become a tracker through the curse the Brahman hath pronounced,
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अघ्न्ये॑ पद॒वीर्भ॑व ब्राह्म॒णस्या॒भिश॑स्त्या ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अघ्न्ये॑। प॒द॒ऽवीः। भ॒व॒। ब्रा॒ह्म॒णस्य॑। अ॒भिऽश॑स्त्या। १०.१२। 
+अघ्न्ये॑। प॒द॒ऽवीः। भ॒व॒। ब्रा॒ह्म॒णस्य॑। अ॒भिऽश॑स्त्या। १०.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ O Cow, become a tracker through the curse the Brahman hath pronounced,
 
 टिप्पणी:   ५८−(अघ्न्ये) अ० ३।३०।१। नञ्+हन हिंसागत्योः−यक्। हे अहन्तव्ये प्रबले (पदवीः) पद+वी गतिव्याप्तिप्रजनादिषु−क्विप्। प्रतिष्ठा (भव) (ब्राह्मणस्य) ब्रह्मचारिणः (अभिशस्त्या) अभि+शंसु हिंसायां स्तुतौ कथने च−क्तिन्। सर्वतः स्तुत्या सह ॥
 </details>
-

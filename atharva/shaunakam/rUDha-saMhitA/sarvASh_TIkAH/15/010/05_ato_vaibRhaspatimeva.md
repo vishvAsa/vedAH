@@ -19,9 +19,14 @@ For *prā́viśat* the *pada*-text has *prá: aviśat;* doubtless it should be
 Hence Priesthood entered into Brihaspati and Royalty into Indra.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अतो॒ वैबृह॒स्पति॑मे॒व ब्र॑ह्म॒ प्रावि॑श॒दिन्द्रं॑ क्ष॒त्रं ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अतः॑। वै। बृह॒स्पति॑म्। ए॒व। ब्रह्म॑। प्र। अ॒वि॒श॒त्। इन्द्र॑म्। क्ष॒त्रम्। १०.५। 
+अतः॑। वै। बृह॒स्पति॑म्। ए॒व। ब्रह्म॑। प्र। अ॒वि॒श॒त्। इन्द्र॑म्। क्ष॒त्रम्। १०.५।
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -43,4 +48,3 @@ Hence Priesthood entered into Brihaspati and Royalty into Indra.
 
 टिप्पणी:   ५−(प्र अविशत्) प्रविष्टमभवत्। अन्यत्पूर्ववत्-म० ४ ॥
 </details>
-

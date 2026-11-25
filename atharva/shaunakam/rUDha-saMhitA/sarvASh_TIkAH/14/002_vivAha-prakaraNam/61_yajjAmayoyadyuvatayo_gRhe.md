@@ -20,9 +20,15 @@ and calls it a *triṣṭubh*.
 If the bride's sisters, if young maids have danced together in thy house, committing sin with shout and cry. May Agni free thee from that guilt, may Savitar deliver thee.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यज्जा॒मयो॒यद्यु॑व॒तयो॑ गृ॒हे ते॑ स॒मन॑र्तिषू॒ रोदे॑न कृण्व॒तीर॒घम्।  
+अ॒ग्निष्ट्वा॒तस्मा॒देन॑सः सवि॒ता च॒ प्र मु॑ञ्चताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। जा॒मयः॑। यत्। यु॒व॒तयः॑। गृ॒हे। ते॒। स॒म्ऽअन॑र्तिषु। रोदे॑न। कृ॒ण्व॒तीः। अ॒घम्। अ॒ग्निः। त्वा॒। तस्मा॑त्। एन॑सः। स॒वि॒ता। च॒। प्र। मु॒ञ्च॒ता॒म्। २.६१। 
+यत्। जा॒मयः॑। यत्। यु॒व॒तयः॑। गृ॒हे। ते॒। स॒म्ऽअन॑र्तिषु। रोदे॑न। कृ॒ण्व॒तीः। अ॒घम्। अ॒ग्निः। त्वा॒। तस्मा॑त्। एन॑सः। स॒वि॒ता। च॒। प्र। मु॒ञ्च॒ता॒म्। २.६१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ If the bride's sisters, if young maids have danced together in thy house, commit
 
 टिप्पणी:   ६१−(यत्) यदि (जामयः) म० ३३। कुलस्त्रियः (यत्) (युवतयः) तरुण्यः (कृण्वतीः)कुर्वन्त्यः-अन्यद् गतम्-म० ५९ ॥
 </details>
-

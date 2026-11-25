@@ -8,9 +8,15 @@ title = "०७ इममिन्द्र गवाशिरम्"
 Borne hither by thy stallions, drink, Indra, this juice which we have pressed, Mingled with barley and with milk.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒ममि॑न्द्र॒ गवा॑शिरं॒ यवा॑शिरं च नः पिब।  
+आ॒गत्या॒ वृष॑भिः सु॒तम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-इ॒मम्। इ॒न्द्र॒। गोऽआ॑शिरम्। यव॑ऽआशिरम्। च॒। नः॒। पि॒ब॒। आ॒ऽगत्य॑। वृष॑ऽभिः। सु॒तम्। २४.७। 
+इ॒मम्। इ॒न्द्र॒। गोऽआ॑शिरम्। यव॑ऽआशिरम्। च॒। नः॒। पि॒ब॒। आ॒ऽगत्य॑। वृष॑ऽभिः। सु॒तम्। २४.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Borne hither by thy stallions, drink, Indra, this juice which we have pressed, M
 
 टिप्पणी:   ७−(इमम्) (इन्द्र) हे परमैश्वर्यवन् (गवाशिरम्) म० १। पृथिव्यां व्याप्तम् (यवाशिरम्) अशेर्नित्। उ० १।२। यव+आङ्+अश भोजने-किरन्। अन्नभोजनयुक्तं पदार्थम् (च) (नः) अस्माकम् (पिब) (आगत्य) अस्मान् प्राप्य (वृषभिः) बलवद्भिः (सुतम्) साधितम् ॥
 </details>
-

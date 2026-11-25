@@ -23,9 +23,15 @@ says *ṣaṣṭiḥ*.⌋
 May we obtain, completely wrought, the thread spun out tc reach the Gods, That perfecteth our sacrifice.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यो य॒ज्ञस्य॑ प्र॒साध॑न॒स्तन्तु॑र्दे॒वेष्वात॑तः।  
+तमाहु॑तमशीमहि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। य॒ज्ञस्य॑। प्र॒ऽसाध॑नः। तन्तुः॑। दे॒वेषु॑। आऽत॑तः। तम्। आऽहु॑तम्। अ॒शी॒म॒हि॒। १.६०। 
+यः। य॒ज्ञस्य॑। प्र॒ऽसाध॑नः। तन्तुः॑। दे॒वेषु॑। आऽत॑तः। तम्। आऽहु॑तम्। अ॒शी॒म॒हि॒। १.६०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +61,3 @@ May we obtain, completely wrought, the thread spun out tc reach the Gods, That p
 
 टिप्पणी:   ६०−(यः) परमात्मा (यज्ञस्य) देवपूजासंगतिकरणदानव्यवहारस्य (प्रसाधनः) प्रकर्षेण साधकः (तन्तुः) सूत्रात्मा यथा (देवेषु) इन्द्रियेषु लोकेषु विद्वत्सु च (आततः) समन्ताद्विस्तृतः (तम्) परमात्मानम् (आहुतम्) समन्ताद् गृहीतम् (अशीमहि) प्राप्नुयाम ॥
 </details>
-

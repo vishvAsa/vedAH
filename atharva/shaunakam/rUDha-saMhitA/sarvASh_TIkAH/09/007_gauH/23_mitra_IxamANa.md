@@ -19,9 +19,14 @@ mitrāvaruṇo*.
 He is Mitra when he looks about him, and when he hath turned round he is joy.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+मि॒त्र ईक्ष॑माण॒ आवृ॑त्त आन॒न्दः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-मि॒त्रः। ईक्ष॑माणः। आऽवृ॑त्तः। आ॒ऽन॒न्दः। १२.२३। 
+मि॒त्रः। ईक्ष॑माणः। आऽवृ॑त्तः। आ॒ऽन॒न्दः। १२.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ He is Mitra when he looks about him, and when he hath turned round he is joy.
 
 टिप्पणी:   २३−(मित्रः) हितः (ईक्षमाणः) पश्यन् सन् (आवृत्तः) समन्ताद् वर्तमानः (आनन्दः) सुखस्वरूपः ॥
 </details>
-

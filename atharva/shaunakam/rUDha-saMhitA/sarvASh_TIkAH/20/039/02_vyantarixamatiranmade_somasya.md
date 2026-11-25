@@ -8,9 +8,15 @@ title = "०२ व्यन्तरिक्षमतिरन्मदे स
 In Soma's ecstasy Indra spread the firmament and realms of light. When he cleft Vala limb from limb.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+व्य१॒॑न्तरि॑क्षमतिर॒न्मदे॒ सोम॑स्य रोच॒ना।  
+इन्द्रो॒ यदभि॑नद्व॒लम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि। अ॒न्तरि॑क्षम्। अ॒ति॒र॒त्। मदे॑। सोम॑स्य। रो॒च॒ना। इन्द्रः॑। यत्। अभि॑नत्। व॒लम्। ३९.२। 
+वि। अ॒न्तरि॑क्षम्। अ॒ति॒र॒त्। मदे॑। सोम॑स्य। रो॒च॒ना। इन्द्रः॑। यत्। अभि॑नत्। व॒लम्। ३९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ In Soma's ecstasy Indra spread the firmament and realms of light. When he cleft 
 
 टिप्पणी:   मन्त्र २- आचुके हैं-अ०२०।२८।१-४॥२−मन्त्राः २- व्याख्याताः-अ०२०।२८।१-४॥
 </details>
-

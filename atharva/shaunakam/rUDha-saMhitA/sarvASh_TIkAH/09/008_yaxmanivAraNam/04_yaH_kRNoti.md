@@ -21,9 +21,15 @@ combination. The Anukr. takes no notice of the defective pāda.
 The malady that makes one deaf, the malady that makes one blind, All malady that wrings thy brow we charm away with this our spell.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यः कृ॒णोति॑ प्र॒मोत॑म॒न्धं कृ॒णोति॒ पूरु॑षम्।  
+सर्वं॑ शीर्ष॒र्ण्यं᳡ ते॒ रोगं॑ ब॒हिर्निर्म॑न्त्रयामहे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यः। कृ॒णोति॑। प्र॒ऽमोत॑म्। अ॒न्धम्। कृ॒णोति॑। पुरु॑षम्। सर्व॑म्। शी॒र्ष॒ण्य᳡म्। ते॒। रोग॑म्। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.४। 
+यः। कृ॒णोति॑। प्र॒ऽमोत॑म्। अ॒न्धम्। कृ॒णोति॑। पुरु॑षम्। सर्व॑म्। शी॒र्ष॒ण्य᳡म्। ते॒। रोग॑म्। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +59,3 @@ The malady that makes one deaf, the malady that makes one blind, All malady that
 
 टिप्पणी:   ४−(यः) रोगः (प्रमोतम्) मुट आक्षेपमर्दनयोः-घञ्, टस्य तः। अमोटं कुटिलीकृतं मूकं बधिरं वा (अन्धम्) अन्ध दृष्टिनाशे-अच् चक्षुर्हीनम्। अन्यत् सुगमम् ॥
 </details>
-

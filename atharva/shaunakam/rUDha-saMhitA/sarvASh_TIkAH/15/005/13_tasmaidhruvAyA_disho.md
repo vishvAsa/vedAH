@@ -6,7 +6,7 @@ title = "१३ तस्मैध्रुवाया दिशो"
 <details><summary>Whitney</summary>
 
 5. ⌊10.⌋ For him, from the intermediate direction of the fixed quarter,  
-   they made the archer Rudra attendant. 
+   they made the archer Rudra attendant.
 </details>
 
 <details><summary>Griffith</summary>
@@ -14,9 +14,14 @@ title = "१३ तस्मैध्रुवाया दिशो"
 They made Rudra the Archer his deliverer from the intermediate space of the region of the nadir etc.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मै॑ध्रु॒वाया॑ दि॒शो अ॑न्तर्दे॒शाद्रु॒द्रमि॑ष्वा॒सम॑नुष्ठा॒तार॑मकुर्वन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-तस्मै॑। ध्रु॒वायाः॑। दि॒शः। अ॒न्तः॒ऽदे॒शात्। रु॒द्रम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१०। 
+तस्मै॑। ध्रु॒वायाः॑। दि॒शः। अ॒न्तः॒ऽदे॒शात्। रु॒द्रम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,4 +51,3 @@ They made Rudra the Archer his deliverer from the intermediate space of the regi
 
 टिप्पणी:   १०, ११−(ध्रुवायाः)अधोवर्तमानायाः (रुद्रम्) रुङ् गतिहिंसनयोः-क्विप् तुक् च+रुङ् हिंसायाम्-ड।शत्रुनाशकम्। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
-

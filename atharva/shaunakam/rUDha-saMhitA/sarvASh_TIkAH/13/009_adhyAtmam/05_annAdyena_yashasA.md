@@ -47,9 +47,14 @@ of our hymns 1-3, plus 6 *paryāyas* of our hymn 4) and the verses as
 अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥५६॥
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अ॒न्न॒ऽअद्ये॑न। यश॑सा। तेज॑सा। ब्रा॒ह्म॒ण॒ऽव॒र्च॒सेन॑। ९.५। 
+अ॒न्न॒ऽअद्ये॑न। यश॑सा। तेज॑सा। ब्रा॒ह्म॒ण॒ऽव॒र्च॒सेन॑। ९.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -79,4 +84,3 @@ of our hymns 1-3, plus 6 *paryāyas* of our hymn 4) and the verses as
 
 टिप्पणी:   ५५, ५६−सर्वं पूर्ववत्-म० ४८, ४९ ॥
 </details>
-

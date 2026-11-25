@@ -18,12 +18,17 @@ in **b** to make the meter *bhurij*. ⌊This paragraph is reckoned to the
 
 <details><summary>Griffith</summary>
 
-For him they made the Archer Bhava a deliverer from the inter- mediate space of the eastern region. 
+For him they made the Archer Bhava a deliverer from the inter- mediate space of the eastern region.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+तस्मै॒ प्राच्या॑दि॒शो अ॑न्तर्दे॒शाद्भ॒वमि॑ष्वा॒सम॑नुष्ठा॒तार॑मकुर्वन् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
 
-तस्मै॑। प्राच्याः॑। दि॒शः। अ॒न्तः॒ऽदे॒शात्। भ॒वम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१। 
+तस्मै॑। प्राच्याः॑। दि॒शः। अ॒न्तः॒ऽदे॒शात्। भ॒वम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,4 +58,3 @@ For him they made the Archer Bhava a deliverer from the inter- mediate space of 
 
 टिप्पणी:   १−(तस्मै) विदुषे (प्राच्याः) पूर्वायाः (दिशः) (अन्तर्देशात्) मध्यदेशात् (भवम्) सर्वत्रवर्तमानं परमेश्वरम् (इष्वासम्) ईषेः किच्च। उ० १।१३। ईष हिंसायाम्-उ प्रत्ययः, कित् ह्रस्वश्च, इषु+असु क्षेपे-अण्। हिंसायाः क्षेपकं नाशकम् (अनुष्ठातारम्)सहवर्तमानम् (अकुर्वन्) ते विद्वांसः कृतवन्तः ॥
 </details>
-

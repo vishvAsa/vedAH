@@ -25,9 +25,14 @@ occurrence not noted⌋, and reads in **b** *vasuruciḥ sūryavarcaso* and
 She mounted up, she came to Other People. They called her, crying, Come, Concealment! hither. Her dear calf was Vaisravana Kubera, a vessel never tempered was her milk-pail. Rajatanabhi, offspring of Kubera, milked her, and from her udder drew concealment. By that concealment live the Other People. He who knows this becomes a meet supporter, and makes all evil disappear and vanish.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोद॑क्राम॒त्सा दे॒वानाग॑च्छ॒त्तां दे॒वा अ॑घ्नत॒ सार्ध॑मा॒से सम॑भवत्।
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अ॒क्रा॒म॒त्। सा। दे॒वान्। आ। अ॒ग॒च्छ॒त्। ताम्। दे॒वाः। अ॒घ्न॒त॒। सा। अ॒र्ध॒ऽमा॒से। सम्। अ॒भ॒व॒त्। १२.५। 
+सा। उत्। अ॒क्रा॒म॒त्। सा। दे॒वान्। आ। अ॒ग॒च्छ॒त्। ताम्। दे॒वाः। अ॒घ्न॒त॒। सा। अ॒र्ध॒ऽमा॒से। सम्। अ॒भ॒व॒त्। १२.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,4 +62,3 @@ She mounted up, she came to Other People. They called her, crying, Come, Conceal
 
 टिप्पणी:   ५−(देवान्) देवो दानाद्वा दीपनाद् वा द्योतनाद्वा द्युस्थानो भवतीति वा-निरु० ७।१५। देवाः रश्मयः, इति दुर्गाचार्यनिरुक्तटीकायाम्-१२।३९। आदित्यरश्मीन् (अर्धमासे) मासपक्षकाले। अन्यत् पूर्ववत् ॥
 </details>
-

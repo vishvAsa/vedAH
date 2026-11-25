@@ -8,9 +8,15 @@ title = "०२ आ ते"
 I pour it down within thee, so through all thy members let it run. Take with thy tongue the pleasant drink.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ ते॑ सिञ्चामि कु॒क्ष्योरनु॒ गात्रा॒ वि धा॑वतु।  
+गृ॑भा॒य जि॒ह्वया॒ मधु॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ। ते॒। सि॒ञ्चा॒मि॒। कु॒क्ष्योः। अनु॑। गात्रा॑। वि। धा॒व॒तु॒। गृ॒भा॒य। जि॒ह्वया॑। मधु॑। ४.२। 
+आ। ते॒। सि॒ञ्चा॒मि॒। कु॒क्ष्योः। अनु॑। गात्रा॑। वि। धा॒व॒तु॒। गृ॒भा॒य। जि॒ह्वया॑। मधु॑। ४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ I pour it down within thee, so through all thy members let it run. Take with thy
 
 टिप्पणी:   २−(आ) समन्तात् (ते) तव (सिञ्चामि) अवनयामि। पूरयामि (कुक्ष्योः) सव्यदक्षिणपार्श्वयोः (अनु) प्रति (गात्रा) अङ्गानि (वि) विविधम्। सर्वत्र (धावतु) प्रवहतु (गृभाय) श्नः शायजादेशः, हस्य भः। गृहाण (जिह्वया) रसनया (मधु) मधुरपानम् ॥
 </details>
-

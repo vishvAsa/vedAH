@@ -19,9 +19,14 @@ Ppp. prefixes *samudro vastir*, and puts *varṣasya patayas stanās* after
 The river is the womb, the Lords of the Rain are the breasts,. the thunder is the udder.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+न॒दी सू॒त्री व॒र्षस्य॒ पत॑य॒ स्तना॑ स्तनयि॒त्नुरूधः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-न॒दी। सू॒त्री। व॒र्षस्य॑। पत॑यः। स्तनाः॑। स्त॒न॒यि॒त्नुः। ऊधः॑। १२.१४। 
+न॒दी। सू॒त्री। व॒र्षस्य॑। पत॑यः। स्तनाः॑। स्त॒न॒यि॒त्नुः। ऊधः॑। १२.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ The river is the womb, the Lords of the Rain are the breasts,. the thunder is th
 
 टिप्पणी:   १४−(नदी) सरित् (सूत्री) अमिचिमिशसिभ्यः क्त्रः। उ० ४।१६४। षूङ् प्राणिगर्भविमोचने−क्त्र, ङीप्। उत्पादयित्री नाडी (वर्षस्य पतयः) वृष्टिरक्षका मेघाः (स्तनाः) दुग्धाधाराः (स्तनयित्नुः) अ० ४।१५।११। गर्जनम् (ऊधः) अ० ४।११।४। आपीनम् ॥
 </details>
-

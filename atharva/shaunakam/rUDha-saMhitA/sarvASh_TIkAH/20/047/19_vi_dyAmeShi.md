@@ -8,9 +8,15 @@ title = "१९ वि द्यामेषि"
 Pervadest heaven and wide mid-air, melting the days out with. thy beams, Sun, seeing all things that have birth.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+वि द्या॑मेषि॒ रज॑स्पृ॒थ्वह॒र्मिमा॑नो अ॒क्तुभिः॑।  
+पश्यं॒ जन्मा॑नि सूर्य ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-वि। द्याम्। ए॒षि॒। रजः॑। पृ॒थु॒। अहः॑। मिमा॑नः। अ॒क्तुभिः॑। पश्य॑न्। जन्मा॑नि। सू॒र्य॒। १७.१९। 
+वि। द्याम्। ए॒षि॒। रजः॑। पृ॒थु॒। अहः॑। मिमा॑नः। अ॒क्तुभिः॑। पश्य॑न्। जन्मा॑नि। सू॒र्य॒। १७.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,4 +46,3 @@ Pervadest heaven and wide mid-air, melting the days out with. thy beams, Sun, se
 
 टिप्पणी:   १३-२१−एते मन्त्रा व्याख्याताः-अ० १३।२।१६-२४ ॥
 </details>
-

@@ -23,9 +23,14 @@ to that rule); but one may also conjecture that the true reading is
 Let Tvashtar in this rite in varied manner--All hail!--use forms, his well-yoked coursers.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वष्टा॑ युनक्तु बहु॒धा नु रू॒पा अ॒स्मिन्य॒ज्ञे यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-त्वष्टा॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। नु। रू॒पाः। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.८। 
+त्वष्टा॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। नु। रू॒पाः। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,4 +60,3 @@ Let Tvashtar in this rite in varied manner--All hail!--use forms, his well-yoked
 
 टिप्पणी:   ८−(त्वष्टा) अ० २।५।६। सूक्ष्मदर्शी पुरुषः (नु) क्षिप्रम् (रूपाः) अर्शआदिभ्योऽच्। पा० ५।२।१२७। इति रूप−अच् भूम्नि। अनेकरूपवतीः क्रियाः। अन्यत् पूर्ववत् ॥
 </details>
-

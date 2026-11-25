@@ -20,9 +20,14 @@ demands the resolution *-ti amúm*.
 He gains this world and the world yonder.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+आ॒प्नोती॒मं लो॒कमा॒प्नोत्य॒मुम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-आ॒प्नोति॑। इ॒मम्। लो॒कम्। आ॒प्नोति॑। अ॒मुम्। ११.१३। 
+आ॒प्नोति॑। इ॒मम्। लो॒कम्। आ॒प्नोति॑। अ॒मुम्। ११.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +57,3 @@ He gains this world and the world yonder.
 
 टिप्पणी:   १२, १३−(आप्नोति) प्राप्नोति (इमम्) वर्तमानम् (लोकम्) जन्म (अमुम्) आगामिनम्। अन्यत् पूर्ववत् ॥
 </details>
-

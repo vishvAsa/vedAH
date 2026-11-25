@@ -20,6 +20,12 @@ Anukr. says *turīyam āhur iha pañcaviṅśakam.*⌋
 Look, each one, hither, look around. Indra and Soma, watch ye well. Cast forth your weapon at the fiends: against the sorcerers hurl your bolt.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्रति॑ चक्ष्व॒ वि च॒क्ष्वेन्द्र॑श्च सोम जागृतम्।  
+रक्षो॑भ्यो व॒धम॑स्यतम॒शनिं॑ यातु॒मद्भ्यः॑ ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 प्रति॑। च॒क्ष्व॒। वि। च॒क्ष्व॒। इन्द्रः॑। च॒। सो॒म॒। जा॒गृ॒त॒म्। रक्षः॑ऽभ्यः। व॒धम्। अ॒स्य॒त॒म्। अ॒शनि॑म्। या॒तु॒मत्ऽभ्यः॑। ४.२५। ११
@@ -52,4 +58,3 @@ Look, each one, hither, look around. Indra and Soma, watch ye well. Cast forth y
 
 टिप्पणी:   २५−(प्रति) प्रत्येकम् (चक्ष्व) पश्य (वि) विविधम् (चक्ष्व) (इन्द्रः) हे सूर्यवत्तेजस्विन् राजन् (च) (सोम) हे चन्द्रवच्छान्तिस्वभाव मन्त्रिन् (जागृतम्) अनिद्रौ भवतम् (रक्षोभ्यः) दुष्टेभ्यः (वधम्) मारकमायुधम् (अस्यतम्) प्रक्षिपतम् (अशनिम्) वज्रम् (यातुमद्भ्यः) पीडास्वभावेभ्यः ॥
 </details>
-

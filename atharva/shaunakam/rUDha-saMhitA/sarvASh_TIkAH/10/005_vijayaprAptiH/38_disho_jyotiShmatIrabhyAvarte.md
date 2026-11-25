@@ -20,9 +20,15 @@ verses.
 I turn me to the regions bright with splendour. May they bestow upon me wealth and glory of a Brahman's rank.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+दिशो॒ ज्योति॑ष्मतीर॒भ्याव॑र्ते।  
+ता मे॒ द्रवि॑णं यच्छन्तु॒ ता मे॑ ब्राह्मणवर्च॒सम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-दिशः॑। ज्योति॑ष्मतीः। अ॒भि॒ऽआव॑र्ते। ताः। मे॒। द्रवि॑णम्। य॒च्छ॒न्तु॒। ताः। मे॒। ब्रा॒ह्म॒ण॒ऽव॒र्च॒सम्। ५.३८। 
+दिशः॑। ज्योति॑ष्मतीः। अ॒भि॒ऽआव॑र्ते। ताः। मे॒। द्रवि॑णम्। य॒च्छ॒न्तु॒। ताः। मे॒। ब्रा॒ह्म॒ण॒ऽव॒र्च॒सम्। ५.३८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ I turn me to the regions bright with splendour. May they bestow upon me wealth a
 
 टिप्पणी:   ३८−(दिशः) प्राच्यादीः (ज्योतिष्मतीः) प्रकाशवतीः (अभ्यावर्ते) अभीत्य वर्तनं करोमि (ताः) दिशः (यच्छन्तु) ददतु। अन्यत् पूर्ववत् ॥
 </details>
-

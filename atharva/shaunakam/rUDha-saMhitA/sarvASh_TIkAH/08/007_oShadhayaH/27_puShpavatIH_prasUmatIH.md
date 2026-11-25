@@ -20,9 +20,15 @@ identical with RV. x. 97. 3 **b**.
 Let Plants with flower and Plants with bud, the fruitful and the fruitless, all, Like children of one mother, yield their stores for this man's perfeet health.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+पुष्प॑वतीः प्र॒सूम॑तीः फ॒लिनी॑रफ॒ला उ॒त।  
+सं॑मा॒तर॑ इव दुह्राम॒स्मा अ॑रि॒ष्टता॑तये ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-पुष्प॑ऽवतीः। प्र॒सूऽम॑तीः। फ॒लिनीः॑। अ॒फ॒ला। उ॒त। सं॒मा॒तरः॑ऽइव। दु॒ह्रा॒म्। अ॒स्मै। अ॒रि॒ष्टऽता॑तये। ७.२७। 
+पुष्प॑ऽवतीः। प्र॒सूऽम॑तीः। फ॒लिनीः॑। अ॒फ॒ला। उ॒त। सं॒मा॒तरः॑ऽइव। दु॒ह्रा॒म्। अ॒स्मै। अ॒रि॒ष्टऽता॑तये। ७.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,4 +58,3 @@ Let Plants with flower and Plants with bud, the fruitful and the fruitless, all,
 
 टिप्पणी:   २७−(पुष्पवतीः) प्रशस्तपुष्पयुक्ताः (प्रसूमतीः) कोमलपल्लववत्यः (फलिनीः) उत्तमफलवत्यः (उत) अपि च (संमातरः इव) सम्मिलितजनन्यो यथा (दुह्राम्) दुहन्तु। दुग्धं ददतु (अस्मै) मनुष्याय (अरिष्टतातये) अ० ३।५।५। क्षेमकरणाय ॥
 </details>
-

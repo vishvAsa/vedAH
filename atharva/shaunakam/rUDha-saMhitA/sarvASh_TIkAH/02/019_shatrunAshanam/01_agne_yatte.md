@@ -19,9 +19,14 @@ and Āp. insert *ca* before *vayám.*
 Burn thou, O Agni, with that heat of thine against the man who hates us, whom we hate.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ने॒ यत्ते॒ तप॒स्तेन॒ तं प्रति॑ तप॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। यत्। ते॒। तपः॑। तेन॑। तम्। प्रति॑। त॒प॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.१। 
+अग्ने॑। यत्। ते॒। तपः॑। तेन॑। तम्। प्रति॑। त॒प॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ Burn thou, O Agni, with that heat of thine against the man who hates us, whom we
 
 टिप्पणी:   १–अग्ने। अग्निनाम तेजोविशेष ! ते। त्वदीयम्। तपः। तप सन्तापैश्वर्ययोः–असुन्। प्रतापः। ऐश्वर्यम्। तेन। तपसा। तम्। दोषम्। प्रति। लक्षीकृत्य। तप। प्रतापी भव। यः अस्मान् द्वेष्टि यं वयं द्विष्मः। इति व्याख्यातम्–अ० २।११।३ ॥
 </details>
-

@@ -19,9 +19,14 @@ nāmivate*, and reads *adharā* for *-rahanuḥ*, adding after it *agnir
 King Soma is the brain, Sky is the upper jaw, Earth is the lower jaw.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोमो॒ राजा॑ म॒स्तिष्को॒ द्यौरु॑त्तरह॒नुः पृ॑थि॒व्य᳡धरह॒नुः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-सोमः॑। राजा॑। म॒स्तिष्कः॑। द्यौः। उ॒त्त॒र॒ऽह॒नुः। पृ॒थि॒वी। अ॒ध॒र॒ऽह॒नुः। १२.२। 
+सोमः॑। राजा॑। म॒स्तिष्कः॑। द्यौः। उ॒त्त॒र॒ऽह॒नुः। पृ॒थि॒वी। अ॒ध॒र॒ऽह॒नुः। १२.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,4 +56,3 @@ King Soma is the brain, Sky is the upper jaw, Earth is the lower jaw.
 
 टिप्पणी:   २−(सोमः) अ० १।६।२। षु ऐश्वर्ये-मन्। ऐश्वर्यम् (राजा) शासकः (मस्तिष्कः) मस्त+इष गतौ-क, पृषोदरादित्वात् साधुः। मस्तं मस्तकमिष्यति प्राप्नोतीति। मस्तकभवघृताकारस्नेहः (द्यौः) आकाशः (उत्तरहनुः) उपरिस्थकपोलप्रदेशः (पृथिवी) (अधरहनुः) नीचस्थकपोलभागः ॥
 </details>
-

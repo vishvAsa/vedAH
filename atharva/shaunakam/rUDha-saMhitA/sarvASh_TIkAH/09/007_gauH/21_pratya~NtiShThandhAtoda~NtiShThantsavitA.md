@@ -18,9 +18,14 @@ The metrical definition requires the resolution *dhātā́ údan̄*. Read
 Standing westwards he is Dhatar, standing northwards Savitar.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒त्यङ्तिष्ठ॑न्धा॒तोद॒ङ्तिष्ठ॑न्त्सवि॒ता ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-प्र॒त्यङ्। तिष्ठ॑न्। धा॒ता। उद॑ङ्। तिष्ठ॑न्। स॒वि॒ता। १२.२१। 
+प्र॒त्यङ्। तिष्ठ॑न्। धा॒ता। उद॑ङ्। तिष्ठ॑न्। स॒वि॒ता। १२.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,4 +55,3 @@ Standing westwards he is Dhatar, standing northwards Savitar.
 
 टिप्पणी:   २०, २१−(इन्द्रः) परमैश्वर्यवान् परमेश्वरः (प्राङ्) प्र+अञ्चु गतिपूजनयोः−क्विन्। पूर्वस्यां स्वाभिमुखीभूतायां वा दिशि (तिष्ठन्) प्रादुर्भवन् (दक्षिणा) दक्षिणस्यां दक्षिणहस्तस्थितायां वा दिशि (यमः) नियामकः (प्रत्यङ्) पश्चिमायां पश्चाद् भागे स्थितायां वा दिशि (धाता) सर्वधारकः (उदङ्) उत्तरस्यां वामहस्तस्थितायां वा दिशि (सविता) सर्वप्रेरकः ॥
 </details>
-

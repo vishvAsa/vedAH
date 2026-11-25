@@ -22,9 +22,15 @@ redundant syllable in **a** is ignored by the Anukr.
 Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us therefrom, O all ye Gods, of one accord.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यद्वि॒द्वांसो॒ यदवि॑द्वांस॒ एनां॑सि चकृ॒मा व॒यम्।  
+यू॒यं न॒स्तस्मा॑न्मुञ्चत॒ विश्वे॑ देवाः सजोषसः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यत्। वि॒द्वांसः॑। यत्। अवि॑द्वांसः। एनां॑सि। च॒कृ॒म। व॒यम्। यू॒यम्। नः॒। तस्मा॑त्। मु॒ञ्च॒त॒। विश्वे॑। दे॒वाः॒। स॒ऽजो॒ष॒सः॒। ११५.१। 
+यत्। वि॒द्वांसः॑। यत्। अवि॑द्वांसः। एनां॑सि। च॒कृ॒म। व॒यम्। यू॒यम्। नः॒। तस्मा॑त्। मु॒ञ्च॒त॒। विश्वे॑। दे॒वाः॒। स॒ऽजो॒ष॒सः॒। ११५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,4 +60,3 @@ Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us ther
 
 टिप्पणी:   १−(यत्) यदि (विद्वांसः) जानन्तः (यत्) यदि (अविद्वांसः) अजानानाः (एनांसि) अ० २।१०।८। अपराधान् (चकृम) कृतवन्तः (वयम्) (यूयम्) (नः) अस्मान् (तस्मात्) अपराधात् (मुञ्चत) (विश्वे) (देवाः) (सजोषसः) अ० ३।२२।१। समानप्रीतयः ॥
 </details>
-

@@ -26,6 +26,12 @@ SPP's, although he does not distinctly say so; ⌊his note to vs. 8 (note
 If we have cried, O Waters! Cows! if we have cried, O Varuna! For this endowed with thousand powers! deliver us from misery.
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यदा॑पो अ॒घ्न्या इति॒ वरु॒णेति॒ यदू॑चि॒म।  
+तस्मा॑त्सहस्रवीर्य मु॒ञ्च नः॒ पर्यंह॑सः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 
@@ -58,4 +64,3 @@ If we have cried, O Waters! Cows! if we have cried, O Varuna! For this endowed w
 
 टिप्पणी:   इस मन्त्र का पहिला भाग आ चुका है-अ०७।८३।२, और कुछ भेद से यजुर्वेद में है-२०।१८॥९−(यत्) यस्मात् (आपः) प्राणाः (अघ्न्याः) अहन्तव्या गावः (इति) अनेन प्रकारेण (वरुण) हे सर्वोत्कृष्ट (इति) एवम् (यत्) अनृतम् (ऊचिम) वयं कथितवन्तः। अन्यत् पूर्ववत् ॥
 </details>
-
