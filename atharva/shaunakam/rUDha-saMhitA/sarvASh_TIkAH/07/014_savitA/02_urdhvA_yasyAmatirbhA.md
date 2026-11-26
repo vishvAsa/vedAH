@@ -37,6 +37,11 @@ Whose radiant form, his light, shone high at his instigation;
 golden-handed, of good insight, he measured out the heaven with [his] fair shape.
 </details>
 
+<details><summary>Eggeling</summary>
+
+--he at whose impulse the resplendent light shone high, the golden-handed sage hath measured the ether with his form.'
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 उ॒र्ध्वा यस्या॒मति॒र्भा अदि॑द्युत॒त्सवी॑मनि।  
@@ -52,6 +57,23 @@ golden-handed, of good insight, he measured out the heaven with [his] fair shape
 
 ऊर्ध्वा᳓ य᳓स्याम᳓तिर्भा᳓ अ᳓दिद्युतत्स᳓वीमनि।  
 हि᳓रण्यपाणिरमिमीत सुक्र᳓तुः कृपा᳓ स्वृः
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+ऊर्ध्वा य᳘स्याम᳘तिर्भा ऽअ᳘दिद्युतत्स᳘वीमनि हि᳘रण्यपाणिरमिमीत सुक्र᳘तुः कृपा स्वरि᳘ति[[!!]]॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+इ᳘ प्रिय᳘म् मतिं᳘ कवि᳘म् [^wbr_5] ॥
+
+[^wbr_5]: कविं । AB. The last word of a quoted ऋक् is generally left unaccented.
+</details>
+
+<details><summary>मूलम् - विस्वरम् (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+ऊर्ध्वा यस्मामतिर्मा अदिद्युतत्सवीमनि हिरण्यपाणिरमिमीत सुक्रतुः कृपा स्वः"**- (वा. सं. ४ । २५) इति ॥ १२ ॥
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -77,6 +99,22 @@ golden-handed, of good insight, he measured out the heaven with [his] fair shape
 - सु-क्र᳓तुः (*MS*-7/11, *TS*-3/4, *RV*-33/44, *TB*-3/6, *AV*-1/2, *SB-M*-5/7, *SB-K*-4/6, *VS-M*-3/4, *VS-K*-4/5)
 - कृपा᳓ (*MS*-4, *TS*-4, *RV*-8, *AV*-1/2, *SB-M*-2, *SB-K*-2, *VS-M*-3, *VS-K*-4/6)
 - स्वृः (मूल-पाठः)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - माध्यन्दिन-ब्राह्मणम्)</summary>
+
+- ऊर्ध्वा᳓ (*TS*-10/60, *RV*-12/73, *TB*-1/22, *TK*-1/2, *AV*-2/48, *SB-K*-14/264, *VS-M*-2/23, *VS-K*-3/15, *KS*-2/15, *MS*-15/86)
+- य᳓स्य (*TS*-134/3383, *RV*-207/4011, *TB*-71/1735, *TK*-2/227, *AV*-112/3120, *SB-K*-136/8438, *VS-M*-28/639, *VS-K*-19/456, *KS*-37/818, *MS*-155/3763)
+- अम᳓तिः (*TS*-1, *RV*-2/9, *AV*-1, *SB-K*-1, *VS-M*-1, *KS*-1, *MS*-1/2)
+- भाः᳓ (*Whitney*, *TS*-9, *RV*-9, *TB*-4, *TK*-3, *AV*-1, *SB-K*-2, *VS-M*-2, *KS*-1, *MS*-5)
+- अ᳓दिद्युतत् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *TS*-1, *RV*-1, *AV*-1, *KS*-1, *MS*-2)
+- स᳓वीमनि (*TS*-1, *RV*-5, *AV*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-1, *MS*-1)
+- हि᳓रण्य-पाणिः (*TS*-3/5, *RV*-3/5, *TB*-2, *AV*-1/2, *SB-K*-4, *VS-M*-4/5, *VS-K*-1, *KS*-1, *MS*-3/4)
+- अमिमीत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-8, *RV*-5, *TB*-11, *AV*-3, *KS*-2, *MS*-5)
+- सु-क्र᳓तुः (*TS*-3/4, *RV*-33/44, *TB*-3/6, *AV*-1/2, *SB-K*-4/6, *VS-M*-3/4, *VS-K*-2/3, *KS*-5, *MS*-7/11)
+- कृपा᳓ (*MW*, *TS*-4, *RV*-8/9, *AV*-1, *SB-K*-2, *VS-M*-3, *VS-K*-3, *KS*-2, *MS*-4)
+- स्वः᳓ (*RV*-5, *AV*-4, *VS-M*-50, *TS*-2, *TB*-11, *TK*-11, *KS*-7, *MS*-27)
+- इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2, *KS*-159, *MS*-1797)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -109,5 +147,7 @@ golden-handed, of good insight, he measured out the heaven with [his] fair shape
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-किं च, यस्य सवितुः "अमतिः अम् अन्यन्तरस्या ( ? ) ५० विषया मतिरम् अतिः । [ ऊर्ध्वा ] ऊर्ध्वाभिमुखी उत्कृष्टा वा आत्ममयी अमतिः 'भाः दीप्तिईप्तिः "सवीमनि प्रसव-विशेषवति देशे "अदिद्युतत् [ अ ]द्योतयत् । 'हिरण्य-पाणिः सुवर्ण-पाणिः 'सुक्रतुः साधु-संकल्पः स्वः आदित्यः कृपा कृपालुः अमिमीत सोमं मितवान् ॥३॥
+किं च, यस्य सवितुः "अमतिः अम् अन्यन्तरस्या ( ? ) [[५०|??]] विषया [[मतिरम् अतिः|मतिर् अमतिः]] ।  
+[ऊर्ध्वा] ऊर्ध्वाभिमुखी उत्कृष्टा वा आत्ममयी अमतिः 'भाः [[दीप्तिईप्तिः|दीप्तिः]] "सवीमनि प्रसव-विशेषवति देशे "अदिद्युतत् [अ]द्योतयत् ।  
+'हिरण्य-पाणिः सुवर्ण-पाणिः 'सु-क्रतुः साधु-संकल्पः स्वः आदित्यः कृपा कृपालुः अमिमीत सोमं मितवान् ॥३॥
 </details>
