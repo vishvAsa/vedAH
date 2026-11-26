@@ -1,5 +1,6 @@
 +++
-title = "AyAta_pitaraH"
+title = "आयात पितरस् सोम्या"
+unicode_script = "devanagari"
 +++
 
 आया॑त पितरस् सो॒म्या  
