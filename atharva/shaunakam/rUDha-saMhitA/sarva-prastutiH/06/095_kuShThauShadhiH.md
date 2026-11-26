@@ -36,7 +36,7 @@ Translated: Griffith, i. 297.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/01_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙श्वत्थो᳓ देवस᳓दनस्तृती᳓यस्यामितो᳓ दिवि᳓।  
+अश्वत्थो᳓ देवस᳓दनस्तृती᳓यस्यामितो᳓ दिवि᳓।  
 त᳓त्रामृ᳓तस्य च᳓क्षणं देवाः᳓ कु᳓ष्ठमवन्वत ॥
 </details>
 </div>
@@ -101,7 +101,7 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/02_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि᳙रण्य᳓यी नौ᳓रचरद्धि᳓रण्यबन्धना दिवि᳓।  
+हिरण्य᳓यी नौ᳓रचरद्धि᳓रण्यबन्धना दिवि᳓।  
 त᳓त्रामृ᳓तस्य पु᳓ष्पं देवाः᳓ कु᳓ष्ठमवन्वत ॥
 </details>
 </div>

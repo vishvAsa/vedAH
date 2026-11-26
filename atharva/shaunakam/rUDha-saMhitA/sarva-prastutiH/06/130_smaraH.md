@@ -36,7 +36,7 @@ Translated: Weber, Ind. Stud. v. 244; Ludwig, p. 515; Grill, 58, 174; Griffith, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-र᳙थजि᳓तां राथजितेयी᳓नामप्सर᳓सामयं᳓ स्मरः᳓।  
+रथजि᳓तां राथजितेयी᳓नामप्सर᳓सामयं᳓ स्मरः᳓।  
 दे᳓वाः प्र᳓ हिणुत स्मर᳓मसौ᳓ मा᳓म᳓नु शोचतु ॥
 </details>
 </div>

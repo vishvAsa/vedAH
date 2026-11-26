@@ -118,7 +118,7 @@ Oft in this sacrifice with favoured cry I call Kuhu, beneficent Goddess, skilled
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कुहू᳓र्देवा᳓नाममृ᳓तस्य प᳓त्नी ह᳓व्या नो अस्य हवि᳓षो जुषेत।  
-शृ᳙णोतु यज्ञ᳓मुशती᳓ नो अद्य᳓ राय᳓स्पो᳓षं चिकितु᳓षी दधातु ॥
+शृणो᳓तु यज्ञ᳓मुशती᳓ नो अद्य᳓ राय᳓स्पो᳓षं चिकितु᳓षी दधातु ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/047_kuhUH/02_kuhUrdevAnAmamRtasya_patnI.md">

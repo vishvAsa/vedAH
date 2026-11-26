@@ -178,7 +178,7 @@ The spell that they have cast for thee on jungle-cock, goat, horned ram, The wit
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां᳓ ते चक्रु᳓रे᳓कशफे पशूना᳓मुभया᳓दति।  
-ग᳙र्दभे᳓ कृत्यां᳓ यां᳓ चक्रुः᳓ पु᳓नः प्र᳓ति हरामि ता᳓म् ॥
+गर्दभे᳓ कृत्यां᳓ यां᳓ चक्रुः᳓ पु᳓नः प्र᳓ति हरामि ता᳓म् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/03_yAM_te.md">
@@ -443,7 +443,7 @@ The spell that they have cast upon thy public room thy gambl- ing-board, Spell t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां᳓ ते चक्रुः᳓ से᳓नायां यां᳓ चक्रु᳓रिष्वायुधे᳓।  
-दु᳙न्दुभौ᳓ कृत्यां᳓ यां᳓ चक्रुः᳓ पु᳓नः प्र᳓ति हरामि ता᳓म् ॥
+दुन्दुभौ᳓ कृत्यां᳓ यां᳓ चक्रुः᳓ पु᳓नः प्र᳓ति हरामि ता᳓म् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/07_yAM_te.md">
@@ -752,9 +752,33 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. Unluc
 च॒कार॑ भ॒द्रम॒स्मभ्य॑मभ॒गो भग॑वद्भ्यः ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+या चकार न शशाक  
+शश्रे पादम् अङ्गुलिम् ।  
+चकार भद्रम् अस्मभ्यम्  
+अभगा भगवद्भ्यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 यः। च॒कार॑। न। श॒शाक॑। कर्तु॑म्। श॒श्रे। पाद॑म्। अ॒ङ्गुरि॑न्। च॒कार॑। भ॒द्रम्। अ॒स्मभ्य॑म्। अ॒भ॒गः। भग॑वत्ऽभ्यः। ३१.११।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- या᳓ (*TS*-96/3401, *RV*-159/4011, *TB*-41/1608, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8331, *SB-K*-228/8549, *VS-M*-37/651, *VS-K*-29/599, *KS*-53/602, *MS*-165/3602)
+- चका᳓र (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*, *TS*-3, *RV*-18, *TB*-3, *AV*-21, *SB-M*-4, *SB-K*-3, *VS-M*-4, *VS-K*-3, *MS*-5)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-368, *TK*-49, *AV*-649, *SB-M*-2493, *SB-K*-2366, *VS-M*-183, *VS-K*-160, *KS*-91, *MS*-772)
+- शशा᳓क (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *MW*, *AV*-2, *SB-M*-1)
+- शश्रे᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*, *AV*-2)
+- पा᳓दम् (*TS*-0/27, *RV*-1/67, *TB*-0/16, *AV*-3/35, *SB-M*-7/67, *SB-K*-5/54, *VS-M*-0/16, *VS-K*-0/13, *KS*-1/5, *MS*-1/33)
+- अङ्गु᳓लिम् (*Macdonell*, *Lanman*, *TS*-0/6, *TB*-0/2, *AV*-0/4, *SB-M*-0/52, *SB-K*-0/47, *VS-M*-0/2, *VS-K*-0/3, *KS*-0/1, *MS*-0/5)
+- चका᳓र (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *Whitney*, *Lanman*, *TS*-3, *RV*-18, *TB*-3, *AV*-21, *SB-M*-4, *SB-K*-3, *VS-M*-4, *VS-K*-3, *MS*-5)
+- भद्र᳓म् (*TS*-10/32, *RV*-50/144, *TB*-4/17, *TK*-0/1, *AV*-23/68, *SB-M*-15/21, *SB-K*-23/30, *VS-M*-14/31, *VS-K*-14/29, *KS*-3/11, *MS*-11/37)
+- अस्म᳓-भ्यम् (*TS*-21/566, *RV*-119/1308, *TB*-8/211, *TK*-0/66, *AV*-30/1252, *SB-M*-16/723, *SB-K*-11/758, *VS-M*-15/315, *VS-K*-20/274, *KS*-5/135, *MS*-29/587)
+- अ-भगा᳓ (*MW*, *Macdonell*, *AV*-0/1)
+- भ᳓गवद्भ्यः (*RV*-0/3, *AV*-1/9, *SB-M*-0/14, *SB-K*-0/14, *VS-M*-0/1, *MS*-0/2)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -791,7 +815,7 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. Unluc
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/12_kRtyAkRtaM_valaginam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ᳙त्याकृ᳓तं᳓ व᳓लगि᳓नं मूलि᳓नं शपथेय्य᳙म्।  
+कृत्याकृ᳓तं᳓ व᳓लगि᳓नं मूलि᳓नं शपथेय्य᳙म्।  
 इ᳓न्द्रस्तं᳓ हन्तु महता᳓ वधे᳓नाग्नि᳓र्विध्यत्वस्त᳓या ॥
 </details>
 </div>

@@ -41,7 +41,7 @@ A priest's prayer for protection and assistance
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/01_savitA_prasavAnAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स᳙विता᳓ प्रसवा᳓नाम᳓धिपतिः स᳓ मावतु।  
+सविता᳓ प्रसवा᳓नाम᳓धिपतिः स᳓ मावतु।  
 अस्मि᳓न्ब्र᳓ह्मण्यस्मि᳓न्क᳓र्मण्यस्यां᳓ पुरोधा᳓यामस्यां᳓ प्रतिष्ठा᳓यामस्यां᳓।  
 चि᳓त्त्यामस्या᳓मा᳓कूत्यामस्या᳓माशि᳓ष्यस्यां᳓ देव᳓हूत्यां स्वा᳓हा ॥
 </details>

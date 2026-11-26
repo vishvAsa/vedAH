@@ -256,7 +256,7 @@ Thou art my wall of stone against the sinner who fights against me from northern
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/05_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙श्मवर्म᳓ मेऽसि यो᳓ मा ध्रुवा᳓या दिशो᳓ऽघायु᳓रभिदा᳓सात्।  
+अश्मवर्म᳓ मेऽसि यो᳓ मा ध्रुवा᳓या दिशो᳓ऽघायु᳓रभिदा᳓सात्।  
 एत᳓त्स᳓ ऋच्छात् ॥
 </details>
 </div>
@@ -305,7 +305,7 @@ Thou art my wall of stone against the sinner who fights against me from the sted
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/06_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙श्मवर्म᳓ मेऽसि यो᳓ मोर्ध्वा᳓या दिशो᳓ऽघायु᳓रभिदा᳓सात्।  
+अश्मवर्म᳓ मेऽसि यो᳓ मोर्ध्वा᳓या दिशो᳓ऽघायु᳓रभिदा᳓सात्।  
 एत᳓त्स᳓ ऋच्छात् ॥
 </details>
 </div>
@@ -357,7 +357,7 @@ It is possible to read these verses as 7 + 12 (or 13 ⌊or 14⌋): 5 = 24
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/07_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙श्मवर्म᳓ मेऽसि यो᳓ मा दिशा᳓मन्तर्देशे᳓भ्योऽघायु᳓रभिदा᳓सात्।  
+अश्मवर्म᳓ मेऽसि यो᳓ मा दिशा᳓मन्तर्देशे᳓भ्योऽघायु᳓रभिदा᳓सात्।  
 एत᳓त्स᳓ ऋच्छात् ॥
 </details>
 </div>
@@ -426,7 +426,7 @@ Thou art my wall of stone against the sinner who from points intermediate fights
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/08_bRhatA_mana.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृ᳙हता᳓ म᳓न उ᳓प ह्वये मातरि᳓श्वना प्राणापानौ᳓।  
+बृहता᳓ म᳓न उ᳓प ह्वये मातरि᳓श्वना प्राणापानौ᳓।  
 सू᳓र्याच्च᳓क्षुरन्त᳓रिक्षाच्छ्रो᳓त्रं पृथिव्याः᳓ श᳓रीरम्।  
 स᳓रस्वत्या वा᳓चमु᳓प ह्वयामहे मनोयु᳓जा ॥
 </details>

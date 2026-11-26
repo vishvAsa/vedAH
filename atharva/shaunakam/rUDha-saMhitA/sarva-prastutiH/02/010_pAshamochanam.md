@@ -41,8 +41,8 @@ Absolution and benediction
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/01_xetriyAttvA_nirRtyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्षे᳙त्रिया᳓त्त्वा नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
-अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
+क्षेत्रिया᳓त्त्वा नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
+अनाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/01_xetriyAttvA_nirRtyA.md">
@@ -72,9 +72,37 @@ From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noo
 अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+क्षेत्रियात् त्वा निरृत्या जामिशंसाद्  
+द्रुहो मुञ्चामि वरुणस्य पाशात् ।  
+अनागसं ब्रह्मणा त्वा कृणोमि  
+शिवे ते द्यावापृथिवी अभूताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 क्षे॒त्रि॒यात्। त्वा॒। निःऽऋ॑त्याः। जा॒मि॒ऽशं॒सात्। द्रु॒हः। मु॒ञ्चा॒मि॒। वरु॑णस्य। पाशा॑त्। अ॒ना॒गस॑म्। ब्रह्म॑णा। त्वा॒। कृ॒णो॒मि॒। शि॒वे इति॑। ते॒। द्यावा॑पृथि॒वी इति॑। उ॒भे इति॑। स्ता॒म्। १०.१।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- क्षेत्रिया᳓त् (*AV*-9/23, *MS*-0/6)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-215, *TK*-46, *AV*-539, *SB-M*-711, *SB-K*-678, *VS-M*-615, *VS-K*-519, *KS*-247, *MS*-760)
+- निः᳓-ऋत्या (*TS*-3/24, *RV*-1/24, *TB*-1/17, *AV*-10/39, *SB-M*-1/31, *SB-K*-1/25, *VS-M*-0/6, *VS-K*-0/7, *KS*-0/3, *MS*-4/39)
+- जामि-शंसा᳓त् (*TB*-1, *AV*-7, *MS*-1)
+- द्रुहः᳓ (*TS*-2, *RV*-15/16, *AV*-14, *MS*-1)
+- मुञ्चामि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-1, *AV*-17, *SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-2, *MS*-6)
+- व᳓रुणस्य (*TS*-33/119, *RV*-58/308, *TB*-17/70, *TK*-0/1, *AV*-42/113, *SB-M*-29/153, *SB-K*-26/152, *VS-M*-26/84, *VS-K*-25/84, *KS*-13/53, *MS*-41/211)
+- पा᳓शात् (*TS*-3/26, *RV*-2/10, *TB*-1/10, *TK*-0/1, *AV*-39/96, *SB-M*-0/17, *SB-K*-0/14, *VS-M*-1/9, *VS-K*-2/9, *KS*-0/10, *MS*-5/45)
+- अनाग᳓सम् (*TB*-0/2, *AV*-9/11, *SB-M*-0/1, *SB-K*-0/1)
+- ब्र᳓ह्मणा (*TS*-63/157, *RV*-31/237, *TB*-35/84, *TK*-8/38, *AV*-82/266, *SB-M*-62/420, *SB-K*-56/455, *VS-M*-10/55, *VS-K*-7/51, *KS*-10/34, *MS*-58/227)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-215, *TK*-46, *AV*-539, *SB-M*-711, *SB-K*-678, *VS-M*-615, *VS-K*-519, *KS*-247, *MS*-760)
+- कृणोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-8, *AV*-40, *SB-M*-1, *SB-K*-1, *KS*-1, *MS*-2)
+- शिवे᳓ (*TS*-1/59, *RV*-1/50, *TB*-5/21, *AV*-11/83, *SB-M*-3/52, *SB-K*-2/49, *VS-M*-1/53, *VS-K*-1/49, *KS*-0/8, *MS*-3/56)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-168, *TK*-35, *AV*-1022, *SB-M*-652, *SB-K*-727, *VS-M*-391, *VS-K*-307, *KS*-166, *MS*-624)
+- द्या᳓वा-पृथिवी᳓ (*TS*-43/52, *RV*-65, *TB*-21/24, *AV*-63/68, *SB-M*-64/88, *SB-K*-44/65, *VS-M*-37/46, *VS-K*-29/37, *KS*-10/11, *MS*-59/65)
+- अभूताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *TB*-3, *AV*-1, *SB-M*-2, *SB-K*-3, *VS-M*-1, *MS*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -113,7 +141,7 @@ From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noo
 
 शं᳓ ते अग्निः᳓ सहा᳓द्भि᳓रस्तु शं᳓ सो᳓मः सहौ᳓षधीभिः।  
 एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
-अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
+अनाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/02_shaM_te.md">
@@ -203,7 +231,7 @@ Gracious to thee be Agni with the Waters, let Soma with the Plants be kind and b
 
 शं᳓ ते वा᳓तो अन्त᳓रिक्षे व᳓यो धाच्छं᳓ ते भव᳓न्तु प्रदि᳓शश्च᳓तस्रः।  
 एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
-अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
+अनाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/03_shaM_te.md">
@@ -275,7 +303,7 @@ May kind Wind strengthen thee in air's mid-region, to thee may heaven's four qua
 
 इमा᳓ या᳓ देवीः᳓ प्रदि᳓शश्च᳓तस्रो वा᳓तपत्नीरभि᳓ सू᳓र्यो विच᳓ष्टे।  
 एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
-अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
+अनाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/04_imA_yA.md">
@@ -346,7 +374,7 @@ These Goddesses, four regions of the heavens, on whom the Sun looks kindly, wive
 
 ता᳓सु त्वान्त᳓र्जर᳓स्या᳓ दधा᳓मि प्र᳓ य᳓क्ष्म एतु नि᳓रृतिः पराचैः᳓।  
 एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
-अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
+अनाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
@@ -415,7 +443,7 @@ For long life, in the midst of these I set thee. Away pass Nirriti, away Consump
 
 अ᳓मुक्था य᳓क्ष्माद्दुरिता᳓दवद्या᳓द्द्रुहः᳓ पा᳓शाद्ग्रा᳓ह्याश्चो᳓दमुक्थाः।  
 एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
-अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
+अनाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/06_amukthA_yaxmAdduritAdavadyAddruhaH.md">
@@ -489,7 +517,7 @@ Thou hast been freed from Phthisis and from trouble, from shame, and from the sn
 
 अ᳓हा अ᳓रातिम᳓विदः स्योन᳓म᳓प्यभूर्भद्रे᳓ सुकृत᳓स्य लोके᳓।  
 एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
-अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
+अनाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
@@ -562,7 +590,7 @@ Joy hast thou found, and left ill-will behind thee: thou hast attained the happy
 
 सू᳓र्यमृतं᳓ त᳓मसो ग्रा᳓ह्या अ᳓धि देवा᳓ मुञ्च᳓न्तो असृजन्नि᳓रे᳓णसः।  
 एवा᳓हं᳓ त्वां᳓ क्षेत्रिया᳓न्नि᳓रृत्या जामिशंसा᳓द्द्रुहो᳓ मुञ्चामि व᳓रुणस्य पा᳓शात्।  
-अ᳙नाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
+अनाग᳓सं ब्र᳓ह्मणा त्वा कृणोमि शिवे᳓ ते द्या᳓वापृथिवी᳓ उभे᳓ स्ताम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">

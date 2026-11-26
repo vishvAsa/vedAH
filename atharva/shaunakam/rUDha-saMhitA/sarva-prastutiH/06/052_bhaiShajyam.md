@@ -42,7 +42,7 @@ A charm against noxious reptiles and insects
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ᳓त्सू᳓र्यो दिव᳓ एति पुरो᳓ र᳓क्षांसि निजू᳓र्वन्।  
-आ᳙दित्यः᳓ प᳓र्वतेभ्यो विश्व᳓दृष्टो अदृष्टहा᳓ ॥
+आदित्यः᳓ प᳓र्वतेभ्यो विश्व᳓दृष्टो अदृष्टहा᳓ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/01_utsUryo_diva.md">
@@ -182,7 +182,7 @@ The kine had settled in their pen, wild animals sought their lairs The wavelets 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/03_AyurdadaM_vipashchitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ᳙युर्द᳓दं विपश्चि᳓तं श्रुतां᳓ क᳓ण्वस्य वीरु᳓धम्।  
+आयुर्द᳓दं विपश्चि᳓तं श्रुतां᳓ क᳓ण्वस्य वीरु᳓धम्।  
 आ᳓भारिषं विश्व᳓भेषजीमस्या᳓दृ᳓ष्टान्नि᳓ शमयत् ॥
 </details>
 </div>
@@ -214,9 +214,35 @@ I have brought Kanva's famous Plant, life-giving, and itself inspired, The medic
 आभा॑रिषं वि॒श्वभे॑षजीम॒स्यादृष्टा॒न्नि श॑मयत् ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आयुर्विदं विपश्चितं  
+श्रुतां कण्वस्य वीरुधम् ।  
+आहार्षं विश्वभेषजीम्  
+अस्यादृष्टान् नि शमय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 आ॒युः॒ऽदद॑म्। वि॒पः॒ऽचित॑म्। श्रु॒ताम्। कण्व॑स्य। वी॒रुध॑म्। आ। अ॒भा॒रि॒ष॒म्। वि॒श्वऽभे॑षजीम्। अ॒स्य। अ॒दृष्टा॑न्। नि। श॒म॒य॒त्। ५२.३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-564, *TK*-33, *AV*-1040, *SB-M*-2160, *SB-K*-2144, *VS-M*-464, *VS-K*-414, *KS*-194, *MS*-1207)
+- अयुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *TB*-58, *TK*-8, *SB-M*-26, *SB-K*-107, *KS*-30, *MS*-140)
+- वि᳓दम् (*TS*-0/2, *RV*-0/18, *TB*-0/3, *TK*-0/3, *AV*-0/4, *SB-M*-1/30, *SB-K*-1/35, *KS*-0/1, *MS*-0/7)
+- विपश्-चि᳓तम् (*MW*, *Macdonell*, *TS*-0/3, *RV*-7/24, *AV*-6/15, *SB-M*-0/7, *SB-K*-0/4, *VS-M*-0/5, *VS-K*-0/5, *MS*-1/4)
+- श्रुता᳓म् (*TS*-0/6, *RV*-1/54, *TB*-0/5, *AV*-1/14, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/4, *VS-K*-0/7, *KS*-0/1, *MS*-0/4)
+- क᳓ण्वस्य (*TS*-0/3, *RV*-4/52, *AV*-1/14, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-0/1, *MS*-0/4)
+- वीरु᳓धम् (*TS*-0/10, *RV*-1/11, *TK*-0/1, *AV*-2/45, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/5, *VS-K*-0/5, *KS*-0/1, *MS*-0/7)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-564, *TK*-33, *AV*-1040, *SB-M*-2160, *SB-K*-2144, *VS-M*-464, *VS-K*-414, *KS*-194, *MS*-1207)
+- अहार्षम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-3, *AV*-10, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2, *KS*-1, *MS*-3)
+- विश्व᳓-भेषजीम् (*RV*-0/1, *AV*-1/3)
+- अस्य᳓ (*TS*-34/965, *RV*-188/1247, *TB*-13/513, *TK*-0/56, *AV*-64/1259, *SB-M*-475/5242, *SB-K*-675/5669, *VS-M*-27/319, *VS-K*-18/301, *KS*-10/218, *MS*-35/1325)
+- अदृ᳓ष्टान् (*RV*-2/5, *AV*-3/6)
+- नि᳓ (*TS*-125, *RV*-482, *TB*-75, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36, *KS*-51, *MS*-181)
+- शमय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *AV*-2)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

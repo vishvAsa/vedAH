@@ -42,7 +42,7 @@ Praise of the sacrificial utensils
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वेदः᳓ स्वस्ति᳓र्द्रुघणः᳓ स्वस्तिः᳓ परशु᳓र्वे᳓दिः परशु᳓र्नः स्वस्ति᳓।  
-ह᳙विष्कृ᳓तो यज्ञिया यज्ञ᳓कामास्ते देवा᳓सो यज्ञ᳓मिमं᳓ जुषन्ताम् ॥
+हविष्कृ᳓तो यज्ञिया यज्ञ᳓कामास्ते देवा᳓सो यज्ञ᳓मिमं᳓ जुषन्ताम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/028_svasti/01_vedaH_svastirdrughaNaH.md">

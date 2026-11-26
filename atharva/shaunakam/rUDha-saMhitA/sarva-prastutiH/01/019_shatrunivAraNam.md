@@ -110,7 +110,7 @@ Let not the piercers find us, nor let those who wound discover us. O Indra, make
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि᳓ष्वञ्चो अस्म᳓च्छ᳓रवः पतन्तु ये᳓ अस्ता᳓ ये᳓ चास्याः᳙।  
-दै᳙वीर्मनुष्येसषवो म᳓मामित्रान्वि᳓ विध्यत ॥
+दै᳓वीर्मनुष्येसषवो म᳓मामित्रान्वि᳓ विध्यत ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/019_shatrunivAraNam/02_viShvancho_asmachCharavaH.md">

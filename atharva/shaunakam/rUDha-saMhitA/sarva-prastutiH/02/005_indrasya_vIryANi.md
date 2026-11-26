@@ -528,7 +528,7 @@ Flowing like lowing cows, the waters went straight down to the sea.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/07_vRShAyamANo_avRNIta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वृ᳙षाय᳓माणो अवृणीत सो᳓मं त्रि᳓कद्रुकेषु अपिबत्सुत᳓स्य।  
+वृषाय᳓माणो अवृणीत सो᳓मं त्रि᳓कद्रुकेषु अपिबत्सुत᳓स्य।  
 आ᳓ सा᳓यकं मघ᳓वादत्त व᳓ज्रम᳓हन्नेनं प्रथमजा᳓म᳓हीनाम् ॥
 </details>
 </div>

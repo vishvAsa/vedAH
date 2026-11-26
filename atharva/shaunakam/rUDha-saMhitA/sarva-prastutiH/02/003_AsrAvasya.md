@@ -264,7 +264,7 @@ The Asuras bury deep in earth this mighty thing that healeth wounds. This is the
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/04_upajIkA_udbharanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ᳙पजी᳓का उ᳓द्भरन्ति समुद्रा᳓द᳓धि भेषज᳓म्।  
+उपजी᳓का उ᳓द्भरन्ति समुद्रा᳓द᳓धि भेषज᳓म्।  
 त᳓दास्राव᳓स्य भेषजं᳓ त᳓दु रो᳓गमशीशमत् ॥
 </details>
 </div>
@@ -341,7 +341,7 @@ The emmets from the water-flood produce this healing medicine: This is the cure 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/05_arusrANamidaM_mahatpRthivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙रुस्रा᳓णमिदं᳓ मह᳓त्पृथिव्या᳓ अ᳓ध्यु᳓द्भृतम्।  
+अरुस्रा᳓णमिदं᳓ मह᳓त्पृथिव्या᳓ अ᳓ध्यु᳓द्भृतम्।  
 त᳓दास्राव᳓स्य भेषजं᳓ त᳓दु रो᳓गमनीनशत् ॥
 </details>
 </div>
@@ -369,9 +369,35 @@ Mighty is this wound-healing balm: from out the earth was it produced. This is t
 तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत् ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अरुस्यानम् इदं महत्  
+पृथिव्या अध्य् उद्भृतम् ।  
+तद् आस्रावस्य भेषजं  
+तद् उ रोगम् अनीनशत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अ॒रुः॒ऽस्राण॑म्। इ॒दम्। म॒हत्। पृ॒थि॒व्याः। अधि॑। उत्ऽभृ॑तम्। तत्। आ॒ऽस्रा॒वस्य॑। भे॒ष॒जम्। तत्। ऊं॒ इति॑। रोग॑म्। अ॒नी॒न॒श॒त्। ३.५।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- अरुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- या᳓नम् (*RV*-1/3, *AV*-0/1, *SB-M*-1, *SB-K*-1/3, *VS-M*-0/1, *VS-K*-0/2, *MS*-0/1)
+- इद᳓म् (*MW*, *TS*-139/965, *RV*-178/1247, *TB*-94/513, *TK*-34/56, *AV*-257/1259, *SB-M*-1046/5242, *SB-K*-1041/5669, *VS-M*-65/319, *VS-K*-64/301, *KS*-53/218, *MS*-220/1325)
+- मह᳓त् (*MW*, *TS*-3/4, *RV*-49/60, *TB*-6, *TK*-1, *AV*-26/27, *SB-M*-78/79, *SB-K*-77, *VS-M*-9, *VS-K*-8/10, *KS*-3/4, *MS*-8/9)
+- पृथिव्याः᳓ (*TS*-71/78, *RV*-99, *TB*-25, *TK*-1, *AV*-48, *SB-M*-70, *SB-K*-71, *VS-M*-55, *VS-K*-46/50, *KS*-12, *MS*-84)
+- अ᳓धि (*TS*-118, *RV*-310, *TB*-59, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-57, *VS-K*-55, *KS*-31, *MS*-184)
+- उ᳓त्-भृतम् (*TS*-1, *RV*-2, *TB*-1, *AV*-3/4, *VS-M*-4, *VS-K*-3, *MS*-2)
+- त᳓त् (*TS*-687/4765, *RV*-552/3136, *TB*-591/2598, *TK*-43/357, *AV*-391/3165, *SB-M*-6430/20461, *SB-K*-6142/20301, *VS-M*-120/780, *VS-K*-90/650, *KS*-122/996, *MS*-1115/5417)
+- आ-स्राव᳓स्य (*AV*-3/4)
+- भेषज᳓म् (*TS*-25/26, *RV*-14/21, *TB*-30/34, *TK*-1, *AV*-41/52, *SB-M*-19, *SB-K*-22, *VS-M*-31/33, *VS-K*-19/21, *KS*-4, *MS*-33/37)
+- त᳓त् (*TS*-687/4765, *RV*-552/3136, *TB*-591/2598, *TK*-43/357, *AV*-391/3165, *SB-M*-6430/20461, *SB-K*-6142/20301, *VS-M*-120/780, *VS-K*-90/650, *KS*-122/996, *MS*-1115/5417)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-105, *TK*-49, *AV*-215, *SB-M*-1842, *SB-K*-2041, *VS-K*-6, *KS*-43, *MS*-180)
+- रो᳓गम् (*TS*-0/1, *AV*-13/14)
+- अनीनशत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *AV*-9)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

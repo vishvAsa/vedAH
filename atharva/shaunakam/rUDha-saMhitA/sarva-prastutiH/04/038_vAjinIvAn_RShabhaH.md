@@ -41,7 +41,7 @@ A charm for success in gambling
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/01_udbhindatIM_sanjayantImapsarAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ᳙द्भिन्दतीं᳓ संज᳓यन्तीमप्सरां᳓ साधुदेवि᳓नीम्।  
+उद्भिन्दतीं᳓ संज᳓यन्तीमप्सरां᳓ साधुदेवि᳓नीम्।  
 ग्ल᳓हे कृता᳓नि कृण्वाना᳓मप्सरां᳓ ता᳓मिह᳓ हुवे ॥
 </details>
 </div>
@@ -116,7 +116,7 @@ Hither I call the Apsaras, victorious, who plays with skill, Her who comes freel
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/02_vichinvatImAkirantImapsarAM_sAdhudevinIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि᳙चिन्वती᳓माकिर᳓न्तीमप्सरां᳓ साधुदेवि᳓नीम्।  
+विचिन्वती᳓माकिर᳓न्तीमप्सरां᳓ साधुदेवि᳓नीम्।  
 ग्ल᳓हे कृता᳓नि गृह्णाना᳓मप्सरां᳓ ता᳓मिह᳓ हुवे ॥
 </details>
 </div>
@@ -271,7 +271,7 @@ Dancing around us with the dice, winning the wager by her play. May she obtain t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या᳓ अक्षे᳓षु प्रमो᳓दन्ते शु᳓चं क्रो᳓धं च बि᳓भ्रती।  
-आ᳙नन्दि᳓नीं प्रमोदि᳓नीमप्सरां᳓ ता᳓मिह᳓ हुवे ॥
+आनन्दि᳓नीं प्रमोदि᳓नीमप्सरां᳓ ता᳓मिह᳓ हुवे ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/04_yA_axeShu.md">
@@ -508,7 +508,7 @@ Together with the Air, O rich in treasure, guard here the white cow and the calf
 
 अन्त᳓रिक्षेण सह᳓ वाजिनीवन्कर्कीं᳓ वत्सा᳓मिह᳓ रक्ष वाजिन्।  
 अयं᳓ घासो᳓ अयं᳓ व्रज᳓ इह᳓ वत्सां᳓ नि᳓ बध्नीमः।  
-य᳙थानाम᳓ व ईश्महे स्वा᳓हा ॥
+यथानाम᳓ व ईश्महे स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/07_antarixeNa_saha.md">

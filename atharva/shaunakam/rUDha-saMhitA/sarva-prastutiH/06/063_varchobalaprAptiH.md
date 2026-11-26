@@ -196,7 +196,7 @@ To thee, sharp-pointed Nirriti, be homage! Loose thou the binding fetters wrough
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/03_ayasmaye_drupade.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙यस्म᳓ये द्रुपदे᳓ बेधिष इहा᳓भि᳓हितो मृत्यु᳓भिर्ये᳓ सह᳓स्रम्।  
+अयस्म᳓ये द्रुपदे᳓ बेधिष इहा᳓भि᳓हितो मृत्यु᳓भिर्ये᳓ सह᳓स्रम्।  
 यमे᳓न त्वं᳓ पितृ᳓भिः संविदान᳓ उत्तमं᳓ ना᳓कम᳓धि रोहयेम᳓म् ॥
 </details>
 </div>

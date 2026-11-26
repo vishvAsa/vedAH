@@ -103,7 +103,7 @@ Ye are alive. I fain would live. I fain would live my complete term of life.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/02_upajIvA_sthopa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ᳙पजीवा᳓ स्थो᳓प जीव्यासं स᳓र्वमा᳓युर्जीव्यासम् ॥
+उपजीवा᳓ स्थो᳓प जीव्यासं स᳓र्वमा᳓युर्जीव्यासम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/02_upajIvA_sthopa.md">
@@ -165,7 +165,7 @@ Ye live dependent. I fain would live dependent. I fain would live my complete te
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/03_sanjIvA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं᳙जीवा᳓ स्थ सं᳓ जीव्यासं स᳓र्वमा᳓युर्जीव्यासम् ॥
+संजीवा᳓ स्थ सं᳓ जीव्यासं स᳓र्वमा᳓युर्जीव्यासम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/03_sanjIvA_stha.md">
@@ -228,7 +228,7 @@ Ye remain alive. I fain would remain alive. I fain would live my complete term o
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/04_jIvalA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जी᳙वला᳓ स्थ जीव्या᳓सं स᳓र्वमा᳓युर्जीव्यासम् ॥
+जीवला᳓ स्थ जीव्या᳓सं स᳓र्वमा᳓युर्जीव्यासम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/04_jIvalA_stha.md">

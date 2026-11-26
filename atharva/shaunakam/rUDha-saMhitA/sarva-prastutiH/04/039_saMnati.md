@@ -41,7 +41,7 @@ A prayer to various deities for health, wealth, and prosperity
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/01_pRthivyAmagnaye_samanamantsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ᳙थिव्या᳓मग्न᳓ये स᳓मनमन्त्स᳓ आर्ध्नोत्।  
+पृथिव्या᳓मग्न᳓ये स᳓मनमन्त्स᳓ आर्ध्नोत्।  
 य᳓था पृथिव्या᳓मग्न᳓ये सम᳓नमन्नेवा᳓ म᳓ह्यं संन᳓मः सं᳓ नमन्तु ॥
 </details>
 </div>
@@ -115,7 +115,7 @@ Agni no earth kath had mine homage. May he bless me. As I have bowed me down to 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/02_pRthivI_dhenustasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ᳙थिवी᳓ धेनु᳓स्त᳓स्या अग्नि᳓र्वत्सः᳓।  
+पृथिवी᳓ धेनु᳓स्त᳓स्या अग्नि᳓र्वत्सः᳓।  
 सा᳓ मेऽग्नि᳓ना वत्से᳓ने᳓षमू᳓र्जं का᳓मं दुहाम्।  
 आ᳓युः प्रथमं᳓ प्रजां᳓ पो᳓षं रयिं᳓ स्वा᳓हा ॥
 </details>
@@ -597,7 +597,7 @@ The quarters are the Cows, their calf is Chandra. May they yield with their calf
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्ना᳓वग्नि᳓श्चरति प्र᳓विष्ट ऋ᳓षीणां पुत्रो᳓ अभिशस्तिपा᳓ उ।  
-न᳙मस्कारे᳓ण न᳓मसा ते जुहोमि मा᳓ देवा᳓नां मिथुया᳓ कर्म भाग᳓म् ॥
+नमस्कारे᳓ण न᳓मसा ते जुहोमि मा᳓ देवा᳓नां मिथुया᳓ कर्म भाग᳓म् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/09_agnAvagnishcharati_praviShTa.md">
@@ -721,9 +721,38 @@ Skilled in all ways, O God, O Jatavedas, I offer what is cleansed by heart and s
 स॒प्तास्या॑नि॒ तव॑ जातवेद॒स्तेभ्यो॑ जुहोमि॒ स जु॑षस्व ह॒व्यम् ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(PSK 20.43.6)+++हृदा पूतं मनसा जातवेदो  
+विश्वानि देवो वयुनानि विद्वान् ।  
+सप्तास्यानि तव यान्य् अग्ने  
+तेभ्यो जुहोमि स जुषस्व हव्यम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 हृ॒दा। पू॒तम्। मन॑सा। जा॒त॒ऽवे॒दः॒। विश्वा॑नि। दे॒व॒। व॒युना॑नि। वि॒द्वान्। स॒प्त। आ॒स्या᳡नि। तव॑। जा॒त॒ऽवे॒दः॒। तेभ्यः॑। जु॒हो॒मि॒। सः। जु॒ष॒स्व॒। ह॒व्यम्। ३९.१०।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- हृदा᳓ (*TS*-6/16, *RV*-21/65, *TB*-3/4, *AV*-6/40, *SB-M*-1/9, *SB-K*-1/11, *VS-M*-4/10, *VS-K*-3/6, *KS*-0/2, *MS*-8/17)
+- पूत᳓म् (*TS*-4/14, *RV*-6/15, *TB*-5/11, *TK*-0/2, *AV*-2/14, *SB-M*-4/24, *SB-K*-4/22, *VS-M*-2/10, *VS-K*-2/12, *KS*-1, *MS*-2/17)
+- म᳓नसा (*TS*-58/141, *RV*-116/238, *TB*-28/54, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78, *KS*-10/28, *MS*-58/134)
+- जा᳓त-वेदः (*TS*-8, *RV*-11, *TB*-1, *AV*-5, *SB-M*-4, *SB-K*-1, *VS-M*-3, *VS-K*-2, *MS*-4)
+- वि᳓श्वानि (*TS*-16/282, *RV*-117/1116, *TB*-2/73, *TK*-0/123, *AV*-16/353, *SB-M*-9/248, *SB-K*-7/220, *VS-M*-10/225, *VS-K*-8/224, *KS*-1/40, *MS*-14/261)
+- देवः᳓ (*TS*-66/1027, *RV*-210/1342, *TB*-39/527, *TK*-2/31, *AV*-94/707, *SB-M*-86/2034, *SB-K*-81/1952, *VS-M*-65/528, *VS-K*-65/523, *KS*-11/201, *MS*-84/1095)
+- वयु᳓नानि (*TS*-7/9, *RV*-14/21, *TB*-1, *AV*-4/5, *SB-M*-3/7, *SB-K*-3/5, *VS-M*-5/6, *VS-K*-5/6, *MS*-3/4)
+- विद्वा᳓न् (*TS*-93, *RV*-94, *TB*-41, *TK*-1, *AV*-59, *SB-M*-144, *SB-K*-127, *VS-M*-14, *VS-K*-14, *KS*-13, *MS*-82/84)
+- सप्ता᳓स्यानि (*MW*, *MS*-0/1)
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-10/114, *TK*-0/31, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180, *KS*-11/65, *MS*-42/339)
+- या᳓नि (*TS*-28/3401, *RV*-26/4011, *TB*-17/1608, *TK*-1/227, *AV*-29/3120, *SB-M*-133/8331, *SB-K*-129/8549, *VS-M*-2/651, *VS-K*-4/599, *KS*-10/602, *MS*-30/3602)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-26, *TK*-2, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107, *KS*-26, *MS*-156/168)
+- ते᳓भ्यः (*TS*-42/4765, *RV*-5/3136, *TB*-19/2598, *TK*-2/357, *AV*-41/3165, *SB-M*-95/20461, *SB-K*-106/20301, *VS-M*-22/780, *VS-K*-14/650, *KS*-23/996, *MS*-50/5417)
+- जुहोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-20, *RV*-5, *TB*-4, *AV*-18, *SB-M*-17, *SB-K*-15, *VS-M*-5, *VS-K*-6, *KS*-1, *MS*-10)
+- सः᳓ (*TS*-766/4765, *RV*-1037/3136, *TB*-511/2598, *TK*-78/357, *AV*-689/3165, *SB-M*-3863/20461, *SB-K*-4289/20301, *VS-M*-123/780, *VS-K*-101/650, *KS*-161/996, *MS*-757/5417)
+- जुषस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-41, *TB*-3, *AV*-7, *SB-M*-8, *SB-K*-9, *VS-M*-10, *VS-K*-9, *KS*-3, *MS*-15)
+- हव्य᳓म् (*TS*-39/50, *RV*-34/81, *TB*-10/14, *AV*-23/25, *SB-M*-20/22, *SB-K*-22/24, *VS-M*-11/18, *VS-K*-15/22, *KS*-9/13, *MS*-40/52)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

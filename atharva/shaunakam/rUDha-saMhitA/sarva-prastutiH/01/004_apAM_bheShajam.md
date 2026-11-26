@@ -42,7 +42,7 @@ To the waters, for the prosperity of cattle
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अम्ब᳓यो यन्त्य᳓ध्वभिर्जाम᳓यो अध्वरीयता᳓म्।  
-पृ᳙ञ्चती᳓र्म᳓धुना प᳓यः ॥
+पृञ्चती᳓र्म᳓धुना प᳓यः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/01_ambayo_yantyadhvabhirjAmayo.md">
@@ -199,9 +199,31 @@ I call the Waters, Goddesses, hitherward where our cattle drink: The streams mus
 सिन्धु॑भ्यः॒ कर्त्वं॑ ह॒विः ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अपो देवीर् उप ब्रुवे  
+यत्र गावः पिबन्ति नः ।  
+सिन्धुभ्यः कर्त्वं हविः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अ॒पः। दे॒वीः। उप॑। ह्व॒ये॒। यत्र॑। गावः॑। पिब॑न्ति। नः॒। सिन्धु॑ऽभ्यः। कर्त्व॑म्। ह॒विः।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- अपः᳓ (*Whitney*, *TS*-54/319, *RV*-159/532, *TB*-19/139, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/751, *VS-M*-21/146, *VS-K*-19/124, *KS*-9/65, *MS*-83/352)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-21/42, *TK*-0/4, *AV*-25/61, *SB-M*-25/39, *SB-K*-21/29, *VS-M*-33/55, *VS-K*-24/64, *KS*-3/8, *MS*-44/81)
+- उ᳓प (*TS*-723, *RV*-487, *TB*-203, *TK*-39, *AV*-247, *SB-M*-1431, *SB-K*-1362, *VS-M*-68, *VS-K*-60, *KS*-92, *MS*-478)
+- ब्रुवे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-19, *AV*-4, *VS-M*-2, *VS-K*-1, *MS*-3)
+- य᳓त्र (*MW* ŚBr., *TS*-39, *RV*-123, *TB*-36, *TK*-2, *AV*-88, *SB-M*-375, *SB-K*-364, *VS-M*-46, *VS-K*-42, *KS*-14, *MS*-97)
+- गा᳓वः (*TS*-12/109, *RV*-98/521, *TB*-1/50, *AV*-35/195, *SB-M*-13/168, *SB-K*-16/149, *VS-M*-10/67, *VS-K*-9/67, *KS*-1/13, *MS*-7/141)
+- पि᳓बन्ति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-2, *RV*-5, *AV*-1, *SB-M*-2, *SB-K*-1, *MS*-1)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-140, *TK*-10, *AV*-1014, *SB-M*-518, *SB-K*-545, *VS-M*-441, *VS-K*-377, *KS*-115, *MS*-537)
+- सि᳓न्धुभ्यः (*TS*-1/11, *RV*-6/186, *TB*-0/1, *AV*-1/30, *SB-M*-0/7, *SB-K*-0/7, *VS-M*-0/8, *VS-K*-0/6, *KS*-0/1, *MS*-1/17)
+- क᳓र्त्वम् (*RV*-4/9, *AV*-1)
+- हविः᳓ (*Whitney*, *TS*-39/126, *RV*-67/166, *TB*-59/160, *TK*-1/16, *AV*-46/116, *SB-M*-190/380, *SB-K*-180/372, *VS-M*-32/92, *VS-K*-26/101, *KS*-16/38, *MS*-86/189)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

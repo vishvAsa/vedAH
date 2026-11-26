@@ -116,7 +116,7 @@ I free thee from the cord, I loose the bond, I loose the fastening. Even here, p
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अस्मै᳓ क्षत्रा᳓णि धार᳓यन्तमग्ने युन᳓ज्मि त्वा ब्र᳓ह्मणा दै᳓व्येन।  
-दी᳙दिह्य᳙स्म᳓भ्यं द्र᳓विणेह᳓ भद्रं᳓ प्रे᳓मं᳓ वोचो हविर्दां᳓ देव᳓तासु ॥
+दीदिह्य᳙स्म᳓भ्यं द्र᳓विणेह᳓ भद्रं᳓ प्रे᳓मं᳓ वोचो हविर्दां᳓ देव᳓तासु ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/078_vandamochanam/02_asmai_xatrANi.md">

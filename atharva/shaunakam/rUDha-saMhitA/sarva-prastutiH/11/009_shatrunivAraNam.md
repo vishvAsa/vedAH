@@ -468,8 +468,8 @@ Exhibiting, O Arbudi, seven children of the mist and fog, When butter hath been 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/07_pratighnAnAshrumukhI_kRdhukarNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र᳙तिघ्नाना᳓श्रुमुखी᳓ कृधुकर्णी᳓ च क्रोशतु।  
-वि᳙केशी᳓ पु᳓रुषे हते᳓ रदिते᳓ अर्बुदे त᳓व ॥
+प्रतिघ्नाना᳓श्रुमुखी᳓ कृधुकर्णी᳓ च क्रोशतु।  
+विकेशी᳓ पु᳓रुषे हते᳓ रदिते᳓ अर्बुदे त᳓व ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/009_shatrunivAraNam/07_pratighnAnAshrumukhI_kRdhukarNI.md">
@@ -755,7 +755,7 @@ Then let each greedy beast of prey, and fly and worm regale itself Upon the huma
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ᳓ गृह्णीतं सं᳓ बृहतं प्राणापाना᳓न्न्यर्बुदे।  
-नि᳙वाशा᳓ घो᳓षाः सं᳓ यन्त्वमि᳓त्रेषु समीक्ष᳓यन्रदिते᳓ अर्बुदे त᳓व ॥
+निवाशा᳓ घो᳓षाः सं᳓ यन्त्वमि᳓त्रेषु समीक्ष᳓यन्रदिते᳓ अर्बुदे त᳓व ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/009_shatrunivAraNam/11_A_gRhNItam.md">
@@ -824,7 +824,7 @@ Attack them, both of you; bear off their vital breath O Nyar- budi. Let mingled 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ᳓द्वेपय सं᳓ विजन्तां भियामि᳓त्रान्त्सं᳓ सृज।  
-उ᳙रुग्राहै᳓र्बाह्वङ्कै᳓र्वि᳓ध्यामित्रान्न्यर्बुदे ॥
+उरुग्राहै᳓र्बाह्वङ्कै᳓र्वि᳓ध्यामित्रान्न्यर्बुदे ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/009_shatrunivAraNam/12_udvepaya_sam.md">
@@ -959,8 +959,8 @@ Let those mens' arms grow faint and weak, dull be the purpose of their heart; An
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/009_shatrunivAraNam/14_pratighnAnAH_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र᳙तिघ्नानाः᳓ सं᳓ धावन्तू᳓रः पटूरा᳓वाघ्नानाः᳓।  
-अ᳙घारि᳓णीर्विकेश्यो᳙ रुदत्यः᳙ पु᳓रुषे हते᳓ रदिते᳓ अर्बुदे त᳓व ॥
+प्रतिघ्नानाः᳓ सं᳓ धावन्तू᳓रः पटूरा᳓वाघ्नानाः᳓।  
+अघारि᳓णीर्विकेश्यो᳙ रुदत्यः᳙ पु᳓रुषे हते᳓ रदिते᳓ अर्बुदे त᳓व ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/009_shatrunivAraNam/14_pratighnAnAH_sam.md">
@@ -1033,7 +1033,7 @@ Self-smiting, beating breast and thigh, careless of unguent, with their hair dis
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्व᳙न्वतीरप्सर᳓सो रूपका उता᳓र्बुदे।  
-अ᳙न्तःपात्रे᳓ रे᳓रिहतीं रिशां᳓ दुर्णिहितैषि᳓णीम्।  
+अन्तःपात्रे᳓ रे᳓रिहतीं रिशां᳓ दुर्णिहितैषि᳓णीम्।  
 स᳓र्वास्ता᳓ अर्बुदे त्व᳓ममि᳓त्रेभ्यो दृशे᳓ कुरूदारां᳓श्च प्र᳓ दर्शय ॥
 </details>
 </div>
@@ -1186,7 +1186,7 @@ The fiend who creeps upon the sword, maimed, dwelling where Lthe wounded lie, Th
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 च᳓तुर्दंष्ट्राञ्छ्याव᳓दतः कुम्भ᳓मुष्काँ अ᳓सृङ्मुखान्।  
-स्व᳙भ्यसा᳓ ये᳓ चोद्भ्यसाः᳓ ॥
+स्वभ्यसा᳓ ये᳓ चोद्भ्यसाः᳓ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/009_shatrunivAraNam/17_chaturdaMShTrAnChyAvadataH_kumbhamuShkA.N.md">
@@ -1328,7 +1328,7 @@ Make thou, O Arbudi, those wings of hostile armies quake with dread. Let Conquer
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र᳓ब्लीनो मृदितः᳓ शयां हतो᳓ऽमि᳓त्रो न्यर्बुदे।  
-अ᳙ग्निजिह्वा᳓ धूमशिखा᳓ ज᳓यन्तीर्यन्तु से᳓नया ॥
+अग्निजिह्वा᳓ धूमशिखा᳓ ज᳓यन्तीर्यन्तु से᳓नया ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/009_shatrunivAraNam/19_prablIno_mRditaH.md">
@@ -1464,7 +1464,7 @@ May Indra, Lord of Might, strike down each bravest warrior of the foes, Whom thi
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ᳓त्कसन्तु हृ᳓दयान्यूर्ध्वः᳓ प्राण᳓ उ᳓दीषतु।  
-शौ᳙ष्कास्य᳓म᳓नु वर्तताममि᳓त्रान्मो᳓त᳓ मित्रि᳓णः ॥
+शौष्कास्य᳓म᳓नु वर्तताममि᳓त्रान्मो᳓त᳓ मित्रि᳓णः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/009_shatrunivAraNam/21_utkasantu_hRdayAnyUrdhvaH.md">
@@ -1532,7 +1532,7 @@ Let their hearts burst asunder, let their breath fly up and pass away. Let dryne
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये᳓ च धी᳓रा ये᳓ चा᳓धीराः प᳓राञ्चो बधिरा᳓श्च ये᳓।  
-त᳙मसा᳓ ये᳓ च तूपरा᳓ अ᳓थो बस्ताभिवासि᳓नः।  
+तमसा᳓ ये᳓ च तूपरा᳓ अ᳓थो बस्ताभिवासि᳓नः।  
 स᳓र्वांस्ताँ᳓ अर्बुदे त्व᳓ममि᳓त्रेभ्यो दृशे᳓ कुरूदारां᳓श्च प्र᳓ दर्शय ॥
 </details>
 </div>
@@ -1676,7 +1676,7 @@ Arbudi and Trishandhi fall upon our foes and scatter them, So that, O Indra, Lor
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 व᳓नस्प᳓तीन्वानस्पत्या᳓नो᳓षधीरुत᳓ वीरु᳓धः।  
-ग᳙न्धर्वाप्सर᳓सः सर्पा᳓न्देवा᳓न्पुण्यजना᳓न्पितॄ᳓न्।  
+गन्धर्वाप्सर᳓सः सर्पा᳓न्देवा᳓न्पुण्यजना᳓न्पितॄ᳓न्।  
 स᳓र्वांस्ताँ᳓ अर्बुदे त्व᳓ममि᳓त्रेभ्यो दृशे᳓ कुरूदारां᳓श्च प्र᳓ दर्शय ॥
 </details>
 </div>

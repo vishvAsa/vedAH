@@ -184,7 +184,7 @@ Whatever rupture I have had that injured eyes or heels or toes. All this the Wat
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सि᳙न्धुपत्नीः सि᳓न्धुराज्ञीः स᳓र्वा या᳓ नद्य᳙ स्थ᳓न।  
+सि᳓न्धुपत्नीः सि᳓न्धुराज्ञीः स᳓र्वा या᳓ नद्य᳙ स्थ᳓न।  
 दत्त᳓ नस्त᳓स्य भेषजं᳓ ते᳓ना वो भुनजामहै ॥
 </details>
 </div>

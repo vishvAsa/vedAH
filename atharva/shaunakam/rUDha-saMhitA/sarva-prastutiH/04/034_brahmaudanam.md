@@ -73,9 +73,39 @@ The head of this is prayer, its back the Brihat, Odanas's belly is the Vamadevya
 छन्दां॑सि प॒क्षौ मुख॑मस्य स॒त्यं वि॑ष्टा॒री जा॒तस्तप॑सोऽधि य॒ज्ञः ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+ब्रह्मास्य शिरो बृहद् अस्य पृष्ठं  
+वामदेव्यम् उदरम् ओदनस्य ।  
+छन्दांसि पक्षौ मुखम् अस्य सत्यं  
+विष्टारी यज्ञस् तपसो ऽधि जातः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 ब्रह्म॑। अ॒स्य॒। शी॒र्षम्। बृ॒हत्। अ॒स्य॒। पृ॒ष्ठम्। वा॒म॒ऽदे॒व्यम्। उ॒दर॑म्। ओ॒द॒नस्य॑। छन्दां॑सि। प॒क्षौ। मुख॑म्। अ॒स्य॒। स॒त्यम्। वि॒ष्टा॒री। जा॒तः। तप॑सः। अधि॑। य॒ज्ञः। ३४.१।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- ब्र᳓ह्मास्य (*SB-M*-1, *SB-K*-1)
+- शि᳓रः (*TS*-39/43, *RV*-25, *TB*-27, *TK*-5, *AV*-36, *SB-M*-233/234, *SB-K*-238/252, *VS-M*-13, *VS-K*-11, *KS*-7, *MS*-48)
+- बृह᳓त् (*TS*-57/69, *RV*-151/156, *TB*-21, *AV*-43, *SB-M*-31/37, *SB-K*-30/35, *VS-M*-27/28, *VS-K*-25/32, *KS*-6, *MS*-28/34)
+- अस्य (अन्वादेशे अनुदात्तम्, पा॰ २.४.३२, *TS*-315, *RV*-415, *TB*-166, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-622, *VS-M*-56, *VS-K*-45, *KS*-49, *MS*-392)
+- पृष्ठ᳓म् (*TS*-22/112, *RV*-10/21, *TB*-7/18, *AV*-5/26, *SB-M*-29/72, *SB-K*-30/75, *VS-M*-8/27, *VS-K*-7/24, *KS*-3/7, *MS*-19/50)
+- वाम-देव्य᳓म् (*TS*-6/8, *TB*-4/7, *AV*-7/9, *SB-M*-10/11, *SB-K*-10/11, *VS-M*-1, *KS*-1/3, *MS*-7/11)
+- उद᳓रम् (*TS*-6/9, *RV*-5/9, *TB*-1, *AV*-9/19, *SB-M*-31/46, *SB-K*-35/47, *VS-M*-2/5, *VS-K*-2/5, *MS*-10/13)
+- ओदन᳓स्य (*RV*-0/3, *TB*-0/10, *TK*-0/1, *AV*-8/57, *SB-M*-4/17, *SB-K*-5/22, *KS*-0/4, *MS*-0/13)
+- छ᳓न्दांसि (*TS*-112/405, *RV*-4/10, *TB*-23/87, *AV*-7/13, *SB-M*-139/446, *SB-K*-127/431, *VS-M*-3/161, *VS-K*-1/89, *KS*-4/29, *MS*-113/411)
+- पक्षौ᳓ (*TS*-8/23, *RV*-0/5, *TB*-1/2, *TK*-0/10, *AV*-7/9, *SB-M*-25/60, *SB-K*-21/57, *VS-M*-2, *VS-K*-2, *KS*-0/2, *MS*-3/20)
+- मु᳓खम् (*TS*-13/18, *RV*-3/5, *TB*-16/23, *TK*-1, *AV*-22/33, *SB-M*-46/82, *SB-K*-47/78, *VS-M*-8/11, *VS-K*-3/7, *KS*-2/3, *MS*-11/26)
+- अस्य (अन्वादेशे अनुदात्तम्, पा॰ २.४.३२, *TS*-315, *RV*-415, *TB*-166, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-622, *VS-M*-56, *VS-K*-45, *KS*-49, *MS*-392)
+- सत्य᳓म् (*TS*-20/77, *RV*-52/133, *TB*-38/58, *TK*-25/44, *AV*-33/71, *SB-M*-132/187, *SB-K*-129/184, *VS-M*-19/36, *VS-K*-23/47, *KS*-5/13, *MS*-62/98)
+- विष्टारी᳓ (*AV*-1/5)
+- यज्ञः᳓ (*TS*-194/862, *RV*-48/448, *TB*-106/367, *TK*-12/21, *AV*-66/231, *SB-M*-608/1804, *SB-K*-601/1766, *VS-M*-25/223, *VS-K*-25/187, *KS*-42/127, *MS*-287/905)
+- त᳓पसः (*TS*-5/46, *RV*-4/21, *TB*-6/43, *TK*-2/30, *AV*-7/88, *SB-M*-6/97, *SB-K*-6/89, *VS-M*-2/20, *VS-K*-2/22, *KS*-1/8, *MS*-1/39)
+- अ᳓धि (*TS*-118, *RV*-310, *TB*-59, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-57, *VS-K*-55, *KS*-31, *MS*-184)
+- जातः᳓ (*TS*-24/65, *RV*-53/144, *TB*-2/14, *TK*-0/4, *AV*-30/95, *SB-M*-39/84, *SB-K*-39/82, *VS-M*-22/37, *VS-K*-21/37, *KS*-1/5, *MS*-22/52)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -112,7 +142,7 @@ The head of this is prayer, its back the Brihat, Odanas's belly is the Vamadevya
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/02_anasthAH_pUtAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙नस्थाः᳓ पूताः᳓ प᳓वनेन शुद्धाः᳓ शु᳓चयः शु᳓चिम᳓पि यन्ति लोक᳓म्।  
+अनस्थाः᳓ पूताः᳓ प᳓वनेन शुद्धाः᳓ शु᳓चयः शु᳓चिम᳓पि यन्ति लोक᳓म्।  
 नै᳓षां शिश्नं᳓ प्र᳓ दहति जात᳓वेदाः स्वर्गे᳓ लोके᳓ बहु᳓ स्त्रै᳓णमेषाम् ॥
 </details>
 </div>
@@ -187,7 +217,7 @@ Boneless, cleansed, purified by him who cleanseth, they go res- plendent to the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/03_viShTAriNamodanaM_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि᳙ष्टारि᳓णमोदनं᳓ ये᳓ प᳓चन्ति नै᳓नान᳓वर्तिः सचते कदा᳓ चन᳓।  
+विष्टारि᳓णमोदनं᳓ ये᳓ प᳓चन्ति नै᳓नान᳓वर्तिः सचते कदा᳓ चन᳓।  
 आ᳓स्ते यम᳓ उ᳓प याति देवा᳓न्त्सं᳓ गन्धर्वै᳓र्मदते सोम्ये᳓भिः ॥
 </details>
 </div>
@@ -259,7 +289,7 @@ Never doth want or evil fortune visit those who prepare oblation called Vishtari
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/04_viShTAriNamodanaM_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि᳙ष्टारि᳓णमोदनं᳓ ये᳓ प᳓चन्ति नै᳓नान्यमः᳓ प᳓रि मुष्णाति रे᳓तः।  
+विष्टारि᳓णमोदनं᳓ ये᳓ प᳓चन्ति नै᳓नान्यमः᳓ प᳓रि मुष्णाति रे᳓तः।  
 रथी᳓ ह भूत्वा᳓ रथया᳓न ईयते पक्षी᳓ ह भूत्वा᳓ति दि᳓वः स᳓मेति ॥
 </details>
 </div>

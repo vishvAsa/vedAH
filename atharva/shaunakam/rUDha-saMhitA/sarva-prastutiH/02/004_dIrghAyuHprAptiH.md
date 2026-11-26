@@ -41,7 +41,7 @@ A charm to ensure health and prosperity by wearing an amulet
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/01_dIrghAyutvAya_bRhate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दी᳙र्घायुत्वा᳓य बृहते रणाया᳓रिष्यन्तो द᳓क्षमाणाः स᳓दैव᳓।  
+दीर्घायुत्वा᳓य बृहते रणाया᳓रिष्यन्तो द᳓क्षमाणाः स᳓दैव᳓।  
 मणिं᳓ विष्कन्धदू᳓षणं जङ्गिडं᳓ बिभृमो वय᳓म् ॥
 </details>
 </div>
@@ -114,7 +114,7 @@ For length of life, for mighty joy, uninjured, ever showing strength. We wear Vi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/02_jangiDo_jambhAdvisharAdviShkandhAdabhishochanAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज᳙ङ्गिडो᳓ जम्भा᳓द्विशरा᳓द्वि᳓ष्कन्धादभिशो᳓चनात्।  
+जङ्गिडो᳓ जम्भा᳓द्विशरा᳓द्वि᳓ष्कन्धादभिशो᳓चनात्।  
 मणिः᳓ सह᳓स्रवीर्यः प᳓रि णः पातु विश्व᳓तः ॥
 </details>
 </div>
@@ -354,9 +354,35 @@ May Cannabis and Jangida preserve me from Vishkandha,-- that Brought to us from 
 अर॑ण्याद॒न्य आभृ॑तः कृ॒ष्या अ॒न्यो रसे॑भ्यः ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+शणश् च त्वा जङ्गिडश् च  
+विष्कन्धाद् अधि मुञ्चताम् ।  
+अरण्याद् अन्य आभृतः  
+कृष्या अन्यो रसेभ्यः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 श॒णः। च॒। मा॒। ज॒ङ्गि॒डः। च॒। विस्क॑न्धात्। अ॒भि। र॒क्ष॒ता॒म्। अर॑ण्यात्। अ॒न्यः। आऽभृ॑तः। कृ॒ष्याः। अ॒न्यः। रसे॑भ्यः। ४.५।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- शणः᳓ (*AV*-1, *SB-M*-0/1, *SB-K*-0/2)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-493, *TK*-145, *AV*-1417, *SB-M*-3025, *SB-K*-2896, *VS-M*-920, *VS-K*-681, *KS*-655, *MS*-1588)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-215, *TK*-46, *AV*-539, *SB-M*-711, *SB-K*-678, *VS-M*-615, *VS-K*-519, *KS*-247, *MS*-760)
+- जङ्गिडः᳓ (*AV*-16/20)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-493, *TK*-145, *AV*-1417, *SB-M*-3025, *SB-K*-2896, *VS-M*-920, *VS-K*-681, *KS*-655, *MS*-1588)
+- वि᳓-ष्कंधात् (*MW*, *TS*-0/1, *AV*-2/9)
+- अ᳓धि (*TS*-118, *RV*-310, *TB*-59, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-57, *VS-K*-55, *KS*-31, *MS*-184)
+- मुञ्चताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *AV*-10, *MS*-3)
+- अ᳓रण्यात् (*TS*-0/10, *RV*-0/4, *TB*-0/7, *AV*-1/3, *SB-M*-0/15, *SB-K*-0/16, *VS-M*-0/5, *VS-K*-0/3, *KS*-0/3, *MS*-1/7)
+- अन्यः᳓ (*TS*-28/165, *RV*-58/176, *TB*-15/79, *TK*-0/1, *AV*-33/108, *SB-M*-100/333, *SB-K*-98/341, *VS-M*-8/32, *VS-K*-8/34, *KS*-4/22, *MS*-38/203)
+- आ᳓-भृतः (*TS*-0/1, *RV*-2/8, *TB*-0/1, *AV*-4/19, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/3, *VS-K*-1/3, *MS*-0/1)
+- कृष्याः᳓ (*AV*-3/5)
+- अन्यः᳓ (*TS*-28/165, *RV*-58/176, *TB*-15/79, *TK*-0/1, *AV*-33/108, *SB-M*-100/333, *SB-K*-98/341, *VS-M*-8/32, *VS-K*-8/34, *KS*-4/22, *MS*-38/203)
+- र᳓सेभ्यः (*TS*-0/53, *RV*-0/42, *TB*-0/21, *AV*-1/27, *SB-M*-0/312, *SB-K*-0/312, *VS-M*-0/14, *VS-K*-0/11, *KS*-0/9, *MS*-0/70)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -393,7 +419,7 @@ May Cannabis and Jangida preserve me from Vishkandha,-- that Brought to us from 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/06_kRtyAdUShirayaM_maNiratho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ᳙त्यादू᳓षिरयं᳓ मणि᳓र᳓थो अरातिदू᳓षिः।  
+कृत्यादू᳓षिरयं᳓ मणि᳓र᳓थो अरातिदू᳓षिः।  
 अ᳓थो स᳓हस्वान् जङ्गिडः᳓ प्र᳓ ण आ᳓युंषि तारिषत् ॥
 </details>
 </div>

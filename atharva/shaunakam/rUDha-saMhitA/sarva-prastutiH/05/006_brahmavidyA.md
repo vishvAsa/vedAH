@@ -211,9 +211,40 @@ Sweet-tongued, exhaustless, they have sent their voices down together in heaven'
 तस्य॒ स्पशो॒ न नि॑ मिषन्ति॒ भूर्ण॑यः प॒देप॑दे पा॒शिनः॑ सन्ति॒ सेत॑वे ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+सहस्रधारम् अभि ते सम् अस्वरन्  
+दिवो नाके मधुजिह्वा असश्चतः ।  
+तस्य स्पशो न नि मिषन्ति भूर्णयः  
+पदेपदे पाशिनः सन्तु सेतवे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 स॒हस्र॑ऽधारे। ए॒व। ते। सम्। अ॒स्व॒र॒न्। दि॒वः। नाके॑। मधु॑ऽजिह्वाः। अ॒स॒श्चतः॑। तस्य॑। स्पशः॑। न। न‍ि। मि॒ष॒न्ति॒। भूर्ण॑यः। प॒देऽप॑दे। पा॒शिनः॑। स॒न्ति॒। सेत॑वे। ६.३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- सह᳓स्र-धारम् (*TS*-1, *RV*-4/19, *TB*-1, *AV*-4/7, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1, *MS*-1)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-251, *TK*-15, *AV*-269, *SB-M*-607, *SB-K*-605, *VS-M*-97, *VS-K*-111, *KS*-42, *MS*-330)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-168, *TK*-35, *AV*-1022, *SB-M*-652, *SB-K*-727, *VS-M*-391, *VS-K*-307, *KS*-166, *MS*-624)
+- स᳓म् (*MW*, *TS*-547, *RV*-608, *TB*-324, *TK*-14, *AV*-562, *SB-M*-1539, *SB-K*-1539, *VS-M*-187, *VS-K*-144, *KS*-121, *MS*-627)
+- अस्वरन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-11, *AV*-5)
+- दिवः᳓ (*TS*-85/265, *RV*-423/844, *TB*-25/91, *TK*-3/13, *AV*-83/334, *SB-M*-82/350, *SB-K*-83/339, *VS-M*-44/162, *VS-K*-40/170, *KS*-21/64, *MS*-86/273)
+- ना᳓के (*TS*-7/28, *RV*-7/32, *TB*-1/16, *AV*-11/41, *SB-M*-15/50, *SB-K*-14/49, *VS-M*-3/24, *VS-K*-2/22, *KS*-0/5, *MS*-6/26)
+- म᳓धु-जिह्वाः (*RV*-2/5, *AV*-1, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-0/1, *MS*-0/2)
+- असश्च᳓तः (*RV*-10/13, *AV*-1)
+- त᳓स्य (*TS*-178/4765, *RV*-88/3136, *TB*-82/2598, *TK*-21/357, *AV*-124/3165, *SB-M*-739/20461, *SB-K*-744/20301, *VS-M*-30/780, *VS-K*-28/650, *KS*-56/996, *MS*-222/5417)
+- स्प᳓शः (*TS*-1, *RV*-10, *AV*-3, *VS-M*-1, *VS-K*-1, *MS*-1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-368, *TK*-49, *AV*-649, *SB-M*-2493, *SB-K*-2366, *VS-M*-183, *VS-K*-160, *KS*-91, *MS*-772)
+- नि᳓ (*TS*-125, *RV*-482, *TB*-75, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36, *KS*-51, *MS*-181)
+- मिषन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-2, *AV*-2)
+- भू᳓र्णयः (*RV*-7/14, *AV*-1)
+- पदे᳓-पदे (*RV*-2, *TB*-3, *AV*-1)
+- पाशि᳓नः (*RV*-2, *AV*-3, *VS-M*-1)
+- सन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-24, *RV*-60, *TB*-7, *AV*-62, *SB-M*-23, *SB-K*-20, *VS-M*-23, *VS-K*-22, *KS*-2, *MS*-17)
+- से᳓तवे (*Whitney*, *TS*-0/5, *RV*-0/5, *TB*-0/2, *AV*-1/2, *SB-M*-0/2, *SB-K*-0/2, *MS*-0/4)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -542,7 +573,7 @@ Through this hast thou committed faults. All hail! With sharpened arms and missi
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/08_mumuktamasmAnduritAdavadyAjjuShethAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु᳙मुक्त᳓मस्मा᳓न्दुरिता᳓दवद्या᳓ज्जुषे᳓थां यज्ञ᳓ममृ᳓तमस्मा᳓सु धत्तम् ॥
+मुमुक्त᳓मस्मा᳓न्दुरिता᳓दवद्या᳓ज्जुषे᳓थां यज्ञ᳓ममृ᳓तमस्मा᳓सु धत्तम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/006_brahmavidyA/08_mumuktamasmAnduritAdavadyAjjuShethAm.md">
@@ -678,7 +709,7 @@ O missile of the eye, missile of spirit, thou missile of devotion and of fervour
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/006_brahmavidyA/10_yosmAMshchaxuShA_manasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो᳙स्मां᳓श्च᳓क्षुषा म᳓नसा चि᳓त्त्या᳓कूत्या च यो᳓ अघायु᳓रभिदा᳓सात्।  
+योस्मां᳓श्च᳓क्षुषा म᳓नसा चि᳓त्त्या᳓कूत्या च यो᳓ अघायु᳓रभिदा᳓सात्।  
 त्वं᳓ ता᳓नग्ने मेन्या᳓मेनी᳓न्कृणु स्वा᳓हा ॥
 </details>
 </div>

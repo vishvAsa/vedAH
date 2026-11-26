@@ -578,7 +578,7 @@ He who, consuming food, became its master, the Lord of Prayer, the Regent of Dev
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/08_ahorAtrairvimitaM_triMshadangam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙होरात्रै᳓र्वि᳓मितं त्रिंश᳓दङ्गं त्रयोदशं᳓ मा᳓सं यो᳓ निर्मि᳓मीते।  
+अहोरात्रै᳓र्वि᳓मितं त्रिंश᳓दङ्गं त्रयोदशं᳓ मा᳓सं यो᳓ निर्मि᳓मीते।  
 त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
 उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>
@@ -1022,7 +1022,7 @@ At evening he is Varuna and Agni, ascending in the morning he is Mitra. As Savit
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/14_sahasrAhNyaM_viyatAvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स᳙हस्राह्ण्यं᳓ वि᳓यतावस्य पक्षौ᳓ ह᳓रेर्हंस᳓स्य प᳓ततः स्वर्ग᳓म्।  
+सहस्राह्ण्यं᳓ वि᳓यतावस्य पक्षौ᳓ ह᳓रेर्हंस᳓स्य प᳓ततः स्वर्ग᳓म्।  
 स᳓ देवा᳓न्त्स᳓र्वानु᳓रस्युपद᳓द्य संप᳓श्यन्याति भु᳓वनानि वि᳓श्वा।  
 त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
 उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
@@ -1403,7 +1403,7 @@ This seven make the one-wheeled chariot ready: bearing seven names the single co
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/19_aShTadhA_yukto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙ष्टधा᳓ युक्तो᳓ व᳓हति व᳓ह्निरुग्रः᳓ पिता᳓ देवा᳓नां जनिता᳓ मतीना᳓म्।  
+अष्टधा᳓ युक्तो᳓ व᳓हति व᳓ह्निरुग्रः᳓ पिता᳓ देवा᳓नां जनिता᳓ मतीना᳓म्।  
 ऋत᳓स्य त᳓न्तुं म᳓नसा मिमा᳓नः स᳓र्वा दि᳓शः पवते मातरि᳓श्वा।  
 त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
 उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
@@ -1769,7 +1769,7 @@ Thou, Agni, kind with lights and mental powers, hast up in heaven shone as the S
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓ आत्मदा᳓ बलदा᳓ य᳓स्य वि᳓श्व उपा᳓सते प्रशि᳓षं य᳓स्य देवाः᳓।  
-यो᳙स्ये᳓शे द्विप᳓दो य᳓श्च᳓तुष्पदः।  
+योस्ये᳓शे द्विप᳓दो य᳓श्च᳓तुष्पदः।  
 त᳓स्य देव᳓स्य क्रुद्ध᳓स्यैत᳓दा᳓गो य᳓ एवं᳓ विद्वां᳓सं ब्राह्मणं᳓ जिना᳓ति।  
 उ᳓द्वेपय रोहित प्र᳓ क्षिणीहि ब्रह्मज्य᳓स्य प्र᳓ति मुञ्च पा᳓शान् ॥
 </details>

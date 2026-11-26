@@ -114,7 +114,7 @@ Let that Destructive Weapon be far distant from us, O ye Gods; far be the Stone 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स᳓खासा᳓वस्म᳓भ्यमस्तु रातिः᳓ स᳓खे᳓न्द्रो भ᳓गः।  
-स᳙विता᳓ चित्र᳓राधाः ॥
+सविता᳓ चित्र᳓राधाः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/026_sharmaprAptiH/02_sakhAsAvasmabhyamastu_rAtiH.md">
@@ -222,9 +222,29 @@ Thou, Offspring of the waterflood, ye Maruts, with your sun- bright skins, give 
 शर्म॑ यच्छाथ स॒प्रथः॑ ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+यूयं नः प्रवतो नपान्  
+मरुतः सूर्यत्वचः ।  
+शर्म यच्छाथ सप्रथः ॥ +++(Bhatt. saprathā(ḥ))+++
+</details>
+
 <details><summary>पदपाठः</summary>
 
 यू॒यम्। नः॒। प्र॒ऽव॒तः॒। न॒पा॒त्। मरु॑तः। सूर्य॑ऽत्वचसः। शर्म॑। य॒च्छा॒थ॒। स॒ऽमथाः॑।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- यूय᳓म् (*TS*-14/313, *RV*-132/1488, *TB*-5/114, *TK*-0/31, *AV*-23/628, *SB-M*-16/387, *SB-K*-17/387, *VS-M*-7/216, *VS-K*-7/180, *KS*-4/65, *MS*-9/339)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-140, *TK*-10, *AV*-1014, *SB-M*-518, *SB-K*-545, *VS-M*-441, *VS-K*-377, *KS*-115, *MS*-537)
+- प्र-व᳓तः (*RV*-13/31, *AV*-9/11, *MS*-2)
+- न᳓पात् (*MW*, *TS*-1/5, *RV*-15/42, *TB*-0/4, *AV*-1/5, *SB-M*-3, *SB-K*-1, *VS-M*-2/5, *VS-K*-2/6, *KS*-4, *MS*-5/7)
+- म᳓रुतः (*TS*-7/8, *RV*-25, *AV*-3, *SB-M*-1, *SB-K*-2, *VS-M*-4, *VS-K*-3, *KS*-2, *MS*-7/9)
+- सू᳓र्य-त्वचः (*TS*-0/3, *RV*-1, *TB*-0/1, *AV*-0/1, *SB-M*-0/3, *VS-M*-0/1, *VS-K*-0/1, *MS*-1/2)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-8/9, *AV*-44/46, *SB-M*-20/21, *SB-K*-20/21, *VS-M*-13/23, *VS-K*-10/19, *KS*-13, *MS*-30/31)
+- यच्छाथ᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- सप्र᳓थः (*TS*-0/4, *RV*-20/25, *TB*-0/1, *AV*-1/2, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/7, *VS-K*-0/9, *MS*-1/4)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -261,7 +281,7 @@ Thou, Offspring of the waterflood, ye Maruts, with your sun- bright skins, give 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/026_sharmaprAptiH/04_suShUdata_mRData.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु᳙षूद᳓त मृड᳓त मृड᳓या नस्तनू᳓भ्यो म᳓यस्तोके᳓भ्यस्कृधि᳓ ॥
+सुषूद᳓त मृड᳓त मृड᳓या नस्तनू᳓भ्यो म᳓यस्तोके᳓भ्यस्कृधि᳓ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/026_sharmaprAptiH/04_suShUdata_mRData.md">

@@ -520,7 +520,7 @@ of RV.⌋
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/07_hiraNyagarbhaH_samavartatAgre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि᳙रण्यगर्भः᳓ स᳓मवर्तता᳓ग्रे भूत᳓स्य जातः᳓ प᳓तिरे᳓क आसीत्।  
+हिरण्यगर्भः᳓ स᳓मवर्तता᳓ग्रे भूत᳓स्य जातः᳓ प᳓तिरे᳓क आसीत्।  
 स᳓ दाधार पृथिवी᳓मुत᳓ द्यां᳓ क᳓स्मै देवा᳓य हवि᳓षा विधेम ॥
 </details>
 </div>

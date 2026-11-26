@@ -267,7 +267,7 @@ Each fearful sign upon thy body, in thyself, each inauspicious mark seen in thy 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रि᳓श्यपदीं वृ᳓षदतीं गोषेधां᳓ विधमा᳓मुत᳓।  
-वि᳙लीढ्यं᳙ ललाम्यं᳙ ता᳓ अस्म᳓न्नाशयामसि ॥
+विलीढ्यं᳙ ललाम्यं᳙ ता᳓ अस्म᳓न्नाशयामसि ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/04_rishyapadIM_vRShadatIm.md">

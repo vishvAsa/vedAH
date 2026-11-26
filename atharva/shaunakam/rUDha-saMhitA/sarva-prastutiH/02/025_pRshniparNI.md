@@ -203,7 +203,7 @@ Victorious in the olden time this Prisniparni was brought forth: With her I clea
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अरा᳓यमसृक्पा᳓वानं य᳓श्च स्फातिं᳓ जि᳓हीर्षति।  
-ग᳙र्भादं᳓ क᳓ण्वं नाशय पृ᳓श्निपर्णि स᳓हस्व च ॥
+गर्भादं᳓ क᳓ण्वं नाशय पृ᳓श्निपर्णि स᳓हस्व च ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
@@ -232,9 +232,32 @@ One or two of our mss. (W.I.), and several of SPP's, read in **b**
 ग॑र्भा॒दं कण्वं॑ नाशय॒ पृश्नि॑पर्णि॒ सह॑स्व च ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अरायम् असृक्पावानं  
+यश् च स्फातिं जिहीर्षति ।  
+गर्भादं कण्वं नाशय  
+पृश्निपर्णि सहस्वति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अ॒राय॑म्। अ॒सृ॒क्ऽपावा॑नम्। यः। च॒। स्फा॒तिम्। जिही॑र्षति। ग॒र्भ॒ऽअ॒दम्। कण्व॑म्। ना॒श॒य‍॒। पृश्नि॑ऽपर्णि। सह॑स्व। च॒। २५.३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- अरा᳓यम् (*AV*-1/9)
+- असृक्-पा᳓वानम् (*AV*-1)
+- यः᳓ (*TS*-687/3401, *RV*-1038/4011, *TB*-461/1608, *TK*-123/227, *AV*-928/3120, *SB-M*-1907/8331, *SB-K*-1928/8549, *VS-M*-146/651, *VS-K*-111/599, *KS*-158/602, *MS*-808/3602)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-493, *TK*-145, *AV*-1417, *SB-M*-3025, *SB-K*-2896, *VS-M*-920, *VS-K*-681, *KS*-655, *MS*-1588)
+- स्फाति᳓म् (*RV*-1, *AV*-8/9)
+- जि᳓हीर्षति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*, *AV*-2)
+- गर्भाद᳓म् (*MW*)
+- क᳓ण्वम् (*TS*-0/3, *RV*-8/52, *AV*-2/14, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-0/1, *MS*-0/4)
+- नाशय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *AV*-19)
+- पृ᳓श्नि-पर्णि (*AV*-1)
+- स᳓हस्वति (*TS*-0/4, *RV*-1/8, *AV*-1/6, *VS-M*-0/1, *VS-K*-0/1, *MS*-0/5)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

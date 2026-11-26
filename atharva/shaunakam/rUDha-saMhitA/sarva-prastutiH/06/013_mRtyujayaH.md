@@ -109,7 +109,7 @@ Worship to weapons of the Gods! worship to weapons of the Kings! Then worship to
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न᳓मस्ते अधिवाका᳓य परावाका᳓य ते न᳓मः।  
-सु᳙मत्यै᳓ मृत्यो ते न᳓मो दुर्मत्यै᳓ त इदं᳓ न᳓मः ॥
+सुमत्यै᳓ मृत्यो ते न᳓मो दुर्मत्यै᳓ त इदं᳓ न᳓मः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/013_mRtyujayaH/02_namaste_adhivAkAya.md">

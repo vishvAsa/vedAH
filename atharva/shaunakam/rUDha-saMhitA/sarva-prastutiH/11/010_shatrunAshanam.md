@@ -394,7 +394,7 @@ Rise up, O Godlike Being, rise, Arbudi, with thine army: this, Tribute is sacrif
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/06_shitipadI_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि᳙तिपदी᳓ सं᳓ द्यतु शरव्ये᳙यं᳓ च᳓तुष्पदी।  
+शितिपदी᳓ सं᳓ द्यतु शरव्ये᳙यं᳓ च᳓तुष्पदी।  
 कृ᳓त्येऽमि᳓त्रेभ्यो भव त्रि᳓षन्धेः सह᳓ से᳓नया ॥
 </details>
 </div>
@@ -463,7 +463,7 @@ May this four-footed White-foot, may this arrow brace and bind thee fast: Togeth
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/07_dhUmAxI_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धू᳙माक्षी᳓ सं᳓ पततु कृधुकर्णी᳓ च क्रोशतु।  
+धूमाक्षी᳓ सं᳓ पततु कृधुकर्णी᳓ च क्रोशतु।  
 त्रि᳓षन्धेः से᳓नया जिते᳓ अरुणाः᳓ सन्तु केत᳓वः ॥
 </details>
 </div>
@@ -678,7 +678,7 @@ By that same binding treaty which thou madest, Brihaspati! with Indra! and with 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृ᳓हस्प᳓तिराङ्गिरस᳓ ऋ᳓षयो ब्र᳓ह्मसंशिताः।  
-अ᳙सुरक्ष᳓यणं वधं᳓ त्रि᳓षन्धिं दिव्या᳓श्रयन् ॥
+असुरक्ष᳓यणं वधं᳓ त्रि᳓षन्धिं दिव्या᳓श्रयन् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/10_bRhaspatirAngirasa_RShayo.md">
@@ -1083,7 +1083,7 @@ Over,to us let all Gods come: dear is Trishandhi's offering. Keen the great pled
 
 वायु᳓रमि᳓त्राणामिष्वग्रा᳓ण्या᳓ञ्चतु।  
 इ᳓न्द्र एषां बाहू᳓न्प्र᳓ति भनक्तु मा᳓ शकन्प्रतिधा᳓मि᳓षुम्।  
-आ᳙दित्य᳓ एषामस्त्रं᳓ वि᳓ नाशयतु चन्द्र᳓मा युताम᳓गतस्य प᳓न्थाम् ॥
+आदित्य᳓ एषामस्त्रं᳓ वि᳓ नाशयतु चन्द्र᳓मा युताम᳓गतस्य प᳓न्थाम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/16_vAyuramitrANAmiShvagrANyAnchatu_indra.md">
@@ -1157,7 +1157,7 @@ Let Vayu bend the arrow-points of those who are our enemies. Let Indra break the
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓दि प्रेयु᳓र्देवपुरा᳓ ब्र᳓ह्म व᳓र्माणि चक्रिरे᳓।  
-त᳙नूपा᳓नं परिपा᳓णं कृण्वाना᳓ य᳓दुपोचिरे᳓ स᳓र्वं त᳓दरसं᳓ कृधि ॥
+तनूपा᳓नं परिपा᳓णं कृण्वाना᳓ य᳓दुपोचिरे᳓ स᳓र्वं त᳓दरसं᳓ कृधि ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/17_yadi_preyurdevapurA.md">
@@ -1293,7 +1293,7 @@ With the Flesh-eater and with Death, following the Purohita, On! forward with Tr
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रि᳓षन्धे त᳓मसा त्व᳓ममि᳓त्रान्प᳓रि वारय।  
-पृ᳙षदाज्य᳓प्रणुत्तानां मा᳓मी᳓षां मोचि क᳓श्चन᳓ ॥
+पृषदाज्य᳓प्रणुत्तानां मा᳓मी᳓षां मोचि क᳓श्चन᳓ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/19_triShandhe_tamasA.md">
@@ -1359,7 +1359,7 @@ Do thou, Trishandhi, with the gloom of darkness compass round our foes; Let none
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/20_shitipadI_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि᳙तिपदी᳓ सं᳓ पतत्वमि᳓त्रानाममूः᳓ सि᳓चः।  
+शितिपदी᳓ सं᳓ पतत्वमि᳓त्रानाममूः᳓ सि᳓चः।  
 मु᳓ह्यन्त्वद्या᳓मूः᳓ से᳓ना अमि᳓त्राणां न्यर्बुदे ॥
 </details>
 </div>
@@ -1499,7 +1499,7 @@ Mazed are the foemen, Nyarbudi! Slay thou each bravest man of them: with this ou
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓श्च कवची᳓ य᳓श्चाकवचो᳙मि᳓त्रो य᳓श्चा᳓ज्मनि।  
-ज्या᳙पाशैः᳓ कवचपाशै᳓र᳓ज्मनाभि᳓हतः शयाम् ॥
+ज्यापाशैः᳓ कवचपाशै᳓र᳓ज्मनाभि᳓हतः शयाम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/22_yashcha_kavachI.md">
@@ -1779,7 +1779,7 @@ Low let the hostile army lie, thousands of corpses, on the ground, Pierced throu
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/26_marmAvidhaM_roruvatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म᳙र्मावि᳓धं रो᳓रुवतं सुपर्णै᳓रद᳓न्तु दुश्चि᳓तं मृदितं᳓ श᳓यानम्।  
+मर्मावि᳓धं रो᳓रुवतं सुपर्णै᳓रद᳓न्तु दुश्चि᳓तं मृदितं᳓ श᳓यानम्।  
 य᳓ इमां᳓ प्रती᳓चीमा᳓हुतिममि᳓त्रो नो यु᳓युत्सति ॥
 </details>
 </div>

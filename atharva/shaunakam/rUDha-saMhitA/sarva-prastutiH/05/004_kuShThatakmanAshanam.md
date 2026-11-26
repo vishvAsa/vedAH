@@ -71,9 +71,32 @@ Thou who wast born on mountains, thou most mighty of all plants that grow. Thou 
 कुष्ठेहि॑ तक्मनाशन त॒क्मानं॑ ना॒शय॑न्नि॒तः ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+यो गिरिषु जायसे  
+वीरुधां बलवत्तमः ।  
+कुष्ठेहि तक्मनाशन  
+तक्मानं नाशयन्न् इतः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 यः। गि॒रिषु॑। अजा॑यथाः। वी॒रुधा॑म्। बल॑वत्ऽतमः। कुष्ठ॑। आ। इ॒हि॒। त॒क्म॒ऽना॒श॒न॒। त॒क्मान॑म्। ना॒शय॑न्। इ॒तः। ४.१।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- यः᳓ (*TS*-687/3401, *RV*-1038/4011, *TB*-461/1608, *TK*-123/227, *AV*-928/3120, *SB-M*-1907/8331, *SB-K*-1928/8549, *VS-M*-146/651, *VS-K*-111/599, *KS*-158/602, *MS*-808/3602)
+- गिरि᳓षु (*TS*-0/8, *RV*-1/42, *TB*-0/1, *AV*-2/20, *SB-M*-1/12, *SB-K*-1/13, *VS-M*-0/5, *VS-K*-0/4, *KS*-0/5, *MS*-0/13)
+- जा᳓यसे (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *RV*-1, *AV*-2, *SB-K*-1)
+- वीरु᳓धाम् (*TS*-1/10, *RV*-2/11, *TK*-0/1, *AV*-13/45, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/5, *VS-K*-0/5, *KS*-0/1, *MS*-1/7)
+- ब᳓लवत्तमः (*RV*-0/1, *AV*-1/2)
+- कु᳓ष्ठ (*AV*-1)
+- इ᳓हि (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TK*-10, *SB-M*-6, *SB-K*-4, *KS*-2, *MS*-3)
+- तक्म-नाशन (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *AV*-1)
+- तक्मा᳓नम् (*AV*-14/28)
+- नाश᳓यन् (*AV*-1)
+- इतः᳓ (*TS*-25, *RV*-31, *TB*-17, *TK*-2, *AV*-84, *SB-M*-117, *SB-K*-124, *VS-M*-9, *VS-K*-8, *KS*-8, *MS*-57)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -110,7 +133,7 @@ Thou who wast born on mountains, thou most mighty of all plants that grow. Thou 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/02_suparNasuvane_girau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु᳙पर्णसु᳓वने गिरौ᳓ जातं᳓ हिम᳓वतस्प᳓रि।  
+सुपर्णसु᳓वने गिरौ᳓ जातं᳓ हिम᳓वतस्प᳓रि।  
 ध᳓नैरभि᳓ श्रुत्वा᳓ यन्ति विदु᳓र्हि᳓ तक्मना᳓शनम् ॥
 </details>
 </div>
@@ -140,9 +163,33 @@ Brought from the Snowy Mountain, born on the high hill where eagles breed, Men s
 धनै॑र॒भि श्रु॒त्वा य॑न्ति वि॒दुर्हि त॑क्म॒नाश॑नम् ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+सुपर्णसुवने गिरौ  
+जातं हिमवतस् परि ।  
+धनैर् अभि श्रुतं यन्ति  
+कुष्ठेहि तक्मनाशनः ॥ +++(Bhatt. kuṣṭho hi)+++
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सु॒प॒र्ण॒ऽसुव॑ने। गि॒रौ। जा॒तम्। हि॒मऽव॑तः। परि॑। धनैः॑। अ॒भि। श्रु॒त्वा। य॒न्ति॒। वि॒दुः। हि। त॒क्म॒ऽनाश॑नम्। ४.२।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- सुपर्ण-सु᳓वने (*AV*-1)
+- गिरौ᳓ (*TS*-2/8, *RV*-1/42, *TB*-1, *AV*-3/20, *SB-M*-2/12, *SB-K*-2/13, *VS-M*-2/5, *VS-K*-1/4, *KS*-1/5, *MS*-1/13)
+- जात᳓म् (*TS*-11/65, *RV*-38/144, *TB*-2/14, *TK*-2/4, *AV*-26/95, *SB-M*-22/84, *SB-K*-19/82, *VS-M*-9/37, *VS-K*-7/37, *KS*-2/5, *MS*-12/52)
+- हिम᳓-वतः (*TS*-1, *AV*-6/7, *VS-M*-0/1, *VS-K*-0/1, *MS*-0/1)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-102, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-389, *VS-M*-84, *VS-K*-77, *KS*-53, *MS*-219)
+- ध᳓नैः (*TS*-0/10, *RV*-0/89, *TB*-0/2, *TK*-0/1, *AV*-1/47, *SB-M*-1/8, *SB-K*-1/9, *VS-M*-0/10, *VS-K*-0/8, *KS*-0/3, *MS*-0/10)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-251, *TK*-15, *AV*-269, *SB-M*-607, *SB-K*-605, *VS-M*-97, *VS-K*-111, *KS*-42, *MS*-330)
+- श्रुत᳓म् (*TS*-2/6, *RV*-25/54, *TB*-1/5, *AV*-7/14, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-2/4, *VS-K*-1/7, *KS*-0/1, *MS*-2/4)
+- यन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-117, *RV*-76, *TB*-30, *TK*-2, *AV*-22, *SB-M*-133, *SB-K*-108, *VS-K*-1, *KS*-5, *MS*-62)
+- कु᳓ष्ठ (*AV*-1)
+- इहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-69, *RV*-61, *TB*-16, *TK*-6, *AV*-93, *SB-M*-70, *SB-K*-73, *VS-M*-32, *VS-K*-20, *KS*-12, *MS*-84)
+- तक्म᳓नाशनः (*MW*)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -179,7 +226,7 @@ Brought from the Snowy Mountain, born on the high hill where eagles breed, Men s
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/03_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙श्वत्थो᳓ देवस᳓दनस्तृती᳓यस्यामितो᳓ दिवि᳓।  
+अश्वत्थो᳓ देवस᳓दनस्तृती᳓यस्यामितो᳓ दिवि᳓।  
 त᳓त्रामृ᳓तस्य च᳓क्षणं देवाः᳓ कु᳓ष्ठमवन्वत ॥
 </details>
 </div>
@@ -250,7 +297,7 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/04_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि᳙रण्य᳓यी नौ᳓रचरद्धि᳓रण्यबन्धना दिवि᳓।  
+हिरण्य᳓यी नौ᳓रचरद्धि᳓रण्यबन्धना दिवि᳓।  
 त᳓त्रामृ᳓तस्य पु᳓ष्पं देवाः᳓ कु᳓ष्ठमवन्वत ॥
 </details>
 </div>
@@ -328,7 +375,7 @@ There moved through heaven a golden ship, a ship with cordage wrought of Gold. T
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/05_hiraNyayAH_panthAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि᳙रण्य᳓याः प᳓न्थान आसन्न᳓रित्राणि हिरण्य᳓या।  
+हिरण्य᳓याः प᳓न्थान आसन्न᳓रित्राणि हिरण्य᳓या।  
 ना᳓वो हिरण्य᳓यीरासन्या᳓भिः कु᳓ष्ठं निरा᳓वहन् ॥
 </details>
 </div>
@@ -358,9 +405,34 @@ They sailed on pathways paved with gold, the oars they piled were wrought of gol
 नावो॑ हिर॒ण्ययी॑रास॒न्याभिः॒ कुष्ठं॑ नि॒राव॑हन् ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+हिरण्ययः पन्था आसीद्  
+अरित्राणि हिरण्यया ।  
+नावो हिरण्ययीर् आसन् +++(Bhatt. hiraṇyyīr*)+++  
+याभिः कुष्ठं निरावहम् ॥ +++(Bhatt. nirāvahan*)+++
+</details>
+
 <details><summary>पदपाठः</summary>
 
 हि॒र॒ण्ययाः॑। पन्था॑नः। आ॒स॒न्। अरि॑त्राणि। हि॒र॒ण्यया॑। नावः॑। हि॒र॒ण्ययीः॑। आ॒स॒न्। याभिः॑। कुष्ठ॑म्। निः॒ऽआव॑हन्। ४.५।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- हिरण्य᳓यः (*TS*-1/2, *RV*-10/44, *TB*-0/2, *AV*-12/26, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-2/3, *KS*-1, *MS*-3/5)
+- प᳓न्थाः (*TS*-8/72, *RV*-17/149, *TB*-2/16, *AV*-4/76, *SB-M*-7/47, *SB-K*-8/52, *VS-M*-3/38, *VS-K*-3/35, *KS*-0/12, *MS*-4/57)
+- आसीत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-64, *RV*-38, *TB*-27, *TK*-1, *AV*-26, *SB-M*-86, *SB-K*-75, *VS-M*-45, *VS-K*-50, *KS*-7, *MS*-77)
+- अ᳓रित्राणि (*AV*-1)
+- हिरण्य᳓-या (*TS*-0/2, *RV*-6/50, *TB*-1/2, *AV*-1/27, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-2/5, *VS-K*-2/5, *KS*-0/1, *MS*-1/6)
+- ना᳓वः (*TS*-1/6, *RV*-4/20, *AV*-1/10, *SB-M*-1/7, *SB-K*-2/9, *VS-M*-1/2, *VS-K*-1/3, *KS*-0/1, *MS*-0/4)
+- हिरण्य᳓यीः (*TS*-0/2, *RV*-4/12, *TB*-2, *AV*-3/8, *SB-M*-0/5, *SB-K*-0/2, *VS-M*-1/4, *VS-K*-1/3)
+- आसन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-31, *RV*-16, *TB*-20, *AV*-18, *SB-M*-16, *SB-K*-17, *VS-M*-7, *VS-K*-11, *KS*-4, *MS*-23)
+- या᳓भिः (*TS*-7/3401, *RV*-84/4011, *TB*-1/1608, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8331, *SB-K*-8/8549, *VS-M*-4/651, *VS-K*-4/599, *KS*-1/602, *MS*-6/3602)
+- कु᳓ष्ठम् (*TS*-0/1, *AV*-5/16, *VS-M*-0/1, *VS-K*-0/1)
+- निः (गतिर्गतौ पा॰ ८.१.७०, *TS*-1, *TB*-48, *SB-M*-77, *SB-K*-65, *VS-K*-1, *KS*-9, *MS*-50)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-564, *TK*-33, *AV*-1040, *SB-M*-2160, *SB-K*-2144, *VS-M*-464, *VS-K*-414, *KS*-194, *MS*-1207)
+- अवहम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3, *TB*-1, *AV*-2, *MS*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -425,9 +497,35 @@ O Kushtha, bring thou hitherward this man of mine, restore his health, Yes, free
 तमु॑ मे अग॒दं कृ॑धि ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+इमं मे कुष्ठ पूरुषं  
+तम् आ वह तं निष् कृधि ।  
+तम् उ मे अगदं कृधि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 इ॒मम्। मे॒। कु॒ष्ठ॒। पुरु॑षम्। तम्। आ। व॒ह॒। तम्। निः। कु॒रु॒। तम्। ऊं॒ इति॑। मे॒। अ॒ग॒दम्। कृ॒धि॒। ४.६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- इम᳓म् (*TS*-107/965, *RV*-136/1247, *TB*-41/513, *TK*-3/56, *AV*-148/1259, *SB-M*-204/5242, *SB-K*-219/5669, *VS-M*-46/319, *VS-K*-53/301, *KS*-18/218, *MS*-109/1325)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *TB*-143, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-435, *VS-M*-503, *VS-K*-332, *KS*-324, *MS*-480)
+- कु᳓ष्ठ (*AV*-1)
+- पू᳓रुषम् (*TS*-1/2, *AV*-0/3, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-2/5, *VS-K*-1/2, *MS*-1/2)
+- त᳓म् (*TS*-356/4765, *RV*-540/3136, *TB*-223/2598, *TK*-49/357, *AV*-432/3165, *SB-M*-1297/20461, *SB-K*-1306/20301, *VS-M*-110/780, *VS-K*-73/650, *KS*-99/996, *MS*-514/5417)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-564, *TK*-33, *AV*-1040, *SB-M*-2160, *SB-K*-2144, *VS-M*-464, *VS-K*-414, *KS*-194, *MS*-1207)
+- वह (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-22, *RV*-63, *TB*-11, *TK*-2, *AV*-24, *SB-M*-14, *SB-K*-20, *VS-M*-6, *VS-K*-5, *KS*-7, *MS*-9)
+- त᳓म् (*TS*-356/4765, *RV*-540/3136, *TB*-223/2598, *TK*-49/357, *AV*-432/3165, *SB-M*-1297/20461, *SB-K*-1306/20301, *VS-M*-110/780, *VS-K*-73/650, *KS*-99/996, *MS*-514/5417)
+- निः᳓ (*TS*-292, *RV*-113, *TB*-149, *TK*-12, *AV*-144, *SB-M*-340, *SB-K*-333, *VS-M*-22, *VS-K*-16, *KS*-46, *MS*-280)
+- कृधि᳓ (*Whitney*, *TS*-1, *RV*-24, *AV*-1, *SB-M*-7, *SB-K*-7, *VS-K*-1, *MS*-0/2)
+- त᳓म् (*TS*-356/4765, *RV*-540/3136, *TB*-223/2598, *TK*-49/357, *AV*-432/3165, *SB-M*-1297/20461, *SB-K*-1306/20301, *VS-M*-110/780, *VS-K*-73/650, *KS*-99/996, *MS*-514/5417)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-105, *TK*-49, *AV*-215, *SB-M*-1842, *SB-K*-2041, *VS-K*-6, *KS*-43, *MS*-180)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *TB*-143, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-435, *VS-M*-503, *VS-K*-332, *KS*-324, *MS*-480)
+- अगद᳓म् (*TS*-3, *RV*-2, *TB*-2/5, *AV*-3/7, *SB-M*-2/5, *SB-K*-4/7, *MS*-1)
+- कृधि᳓ (*Whitney*, *TS*-1, *RV*-24, *AV*-1, *SB-M*-7, *SB-K*-7, *VS-K*-1, *MS*-0/2)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -601,7 +699,7 @@ Sprung, northward, from the Snowy Hill thou art conveyed to eastern men. There t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/09_uttamo_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ᳙त्तमो᳓ ना᳓म कुष्ठास्युत्तमो᳓ ना᳓म ते पिता᳓।  
+उत्तमो᳓ ना᳓म कुष्ठास्युत्तमो᳓ ना᳓म ते पिता᳓।  
 य᳓क्ष्मं च स᳓र्वं नाश᳓य तक्मा᳓नं चारसं᳓ कृधि ॥
 </details>
 </div>
@@ -668,7 +766,7 @@ Most excellent, indeed, art thou, Kushtha! most noble is thy sire. Make all Cons
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/10_shIrShAmayamupahatyAmaxyostanvorapaH_kuShThasta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शी᳙र्षामय᳓मुपहत्या᳓मक्ष्यो᳓स्तन्वो᳙र᳓पः।  
+शीर्षामय᳓मुपहत्या᳓मक्ष्यो᳓स्तन्वो᳙र᳓पः।  
 कु᳓ष्ठस्त᳓त्स᳓र्वं नि᳓ष्करद्दै᳓वं समह वृ᳓ष्ण्यम् ॥
 </details>
 </div>

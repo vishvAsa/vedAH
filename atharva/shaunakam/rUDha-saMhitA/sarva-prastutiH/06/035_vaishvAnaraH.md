@@ -42,7 +42,7 @@ To Agni Vaisvanara
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/01_vaishvAnaro_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै᳙श्वानरो᳓ न ऊत᳓य आ᳓ प्र᳓ यातु पराव᳓तः।  
+वैश्वानरो᳓ न ऊत᳓य आ᳓ प्र᳓ यातु पराव᳓तः।  
 अग्नि᳓र्नः सुष्टुती᳓रु᳓प ॥
 </details>
 </div>
@@ -203,7 +203,7 @@ To aid us let Vaisvânara come from the distance far away: Come Agni, to our eul
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/02_vaishvAnaro_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै᳙श्वानरो᳓ न आ᳓गमदिमं᳓ यज्ञं᳓ सजू᳓रु᳓प।  
+वैश्वानरो᳓ न आ᳓गमदिमं᳓ यज्ञं᳓ सजू᳓रु᳓प।  
 अग्नि᳓रुक्थे᳓ष्वं᳓हसु ॥
 </details>
 </div>
@@ -278,7 +278,7 @@ Vaisvanara with friendly thoughts hath come to this our sacrifice, Agni who save
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/03_vaishvAnaro-ngirasAM_stomamuktham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै᳙श्वानरो᳓ऽङ्गिरसां स्तो᳓ममुक्थं᳓ च चाक्लृपत्।  
+वैश्वानरो᳓ऽङ्गिरसां स्तो᳓ममुक्थं᳓ च चाक्लृपत्।  
 ए᳓षु द्युम्नं᳓ स्व᳙र्यमत् ॥
 </details>
 </div>

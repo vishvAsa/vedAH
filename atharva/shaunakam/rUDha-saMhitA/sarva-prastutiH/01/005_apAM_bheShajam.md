@@ -107,7 +107,7 @@ Ye, Waters, truly bring us bliss: so help ye us to strength and power That we ma
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो᳓ वः शिव᳓तमो र᳓सस्त᳓स्य भाजयतेह᳓ नः।  
-उ᳙शती᳓रिव मात᳓रः ॥
+उशती᳓रिव मात᳓रः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/005_apAM_bheShajam/02_yo_vaH.md">

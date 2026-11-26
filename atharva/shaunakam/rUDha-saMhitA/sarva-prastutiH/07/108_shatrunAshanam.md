@@ -119,7 +119,7 @@ Whoso by stealth or openly would harm us, a friend who knows us, or a stranger, 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो᳓ नः सुप्ता᳓ञ्जा᳓ग्रतो वाभिदा᳓सात्ति᳓ष्ठतो वा च᳓रतो जातवेदः।  
-वै᳙श्वानरे᳓ण सयु᳓जा सजो᳓षास्ता᳓न्प्रती᳓चो नि᳓र्दह जातवेदः ॥
+वैश्वानरे᳓ण सयु᳓जा सजो᳓षास्ता᳓न्प्रती᳓चो नि᳓र्दह जातवेदः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/108_shatrunAshanam/02_yo_naH.md">

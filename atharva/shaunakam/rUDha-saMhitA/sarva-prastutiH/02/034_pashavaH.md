@@ -127,7 +127,7 @@ May this, of all the beasts that Pasupati rules, Lord of animals,. quadruped and
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/02_pramunchanto_bhuvanasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र᳙मुञ्च᳓न्तो भु᳓वनस्य रे᳓तो गातुं᳓ धत्त य᳓जमानाय देवाः।  
+प्रमुञ्च᳓न्तो भु᳓वनस्य रे᳓तो गातुं᳓ धत्त य᳓जमानाय देवाः।  
 उपा᳓कृतं शशमानं᳓ य᳓द᳓स्थात्प्रिय᳓म्देवा᳓नाम᳓प्येतु पा᳓थः ॥
 </details>
 </div>
@@ -398,7 +398,7 @@ Tame animals of every shape, though varied in colour, manifold. alike in nature 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/05_prajAnantaH_prati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र᳙जान᳓न्तः प्र᳓ति गृह्णन्तु पू᳓र्वे प्राण᳓म᳓ङ्गेभ्यः प᳓र्याच᳓रन्तम्।  
+प्रजान᳓न्तः प्र᳓ति गृह्णन्तु पू᳓र्वे प्राण᳓म᳓ङ्गेभ्यः प᳓र्याच᳓रन्तम्।  
 दि᳓वं गछ प्र᳓ति तिष्ठा श᳓रीरैः स्वर्गं᳓ याहि पथि᳓भिर्देवया᳓नैः ॥
 </details>
 </div>

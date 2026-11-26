@@ -42,7 +42,7 @@ A hymn to the War-drum and various deities for victory
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि᳓हृदयं वैमनस्यं᳓ व᳓दामि᳓त्रेषु दुन्दुभे।  
-वि᳙द्वेषं᳓ क᳓श्मशं भय᳓ममि᳓त्रेषु नि᳓ दध्मस्य᳓व एनान्दुन्दुभे जहि ॥
+विद्वेषं᳓ क᳓श्मशं भय᳓ममि᳓त्रेषु नि᳓ दध्मस्य᳓व एनान्दुन्दुभे जहि ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/021_shatrusenAtrAsanam/01_vihRdayaM_vaimanasyam.md">
@@ -177,8 +177,8 @@ When sacrificial butter hath been offered, let our foemen flee. Through constern
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/03_vAnaspatyaH_sambhRta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा᳙नस्पत्यः᳓ सं᳓भृत उस्रि᳓याभिर्विश्व᳓गोत्र्यः।  
-प्र᳙त्रास᳓ममि᳓त्रेभ्यो वदा᳓ज्येनाभि᳓घारितः ॥
+वानस्पत्यः᳓ सं᳓भृत उस्रि᳓याभिर्विश्व᳓गोत्र्यः।  
+प्रत्रास᳓ममि᳓त्रेभ्यो वदा᳓ज्येनाभि᳓घारितः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/021_shatrusenAtrAsanam/03_vAnaspatyaH_sambhRta.md">
@@ -585,7 +585,7 @@ Let those our enemies who go yonder in their battalions shake. In fear at shadow
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/021_shatrusenAtrAsanam/09_jyAghoShA_dundubhayo-bhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज्या᳙घोषा᳓ दुन्दुभ᳓योऽभि᳓ क्रोशन्तु या᳓ दि᳓शः।  
+ज्याघोषा᳓ दुन्दुभ᳓योऽभि᳓ क्रोशन्तु या᳓ दि᳓शः।  
 से᳓नाः प᳓राजिता यती᳓रमि᳓त्राणामनीकशः᳓ ॥
 </details>
 </div>
@@ -653,7 +653,7 @@ To all the quarters of the sky let clang of bowstrings and our Drums. Cry out to
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ᳓दित्य च᳓क्षुरा᳓ दत्स्व म᳓रीचयो᳓ऽनु धावत।  
-प᳙त्सङ्गि᳓नीरा᳓ सजन्तु वि᳓गते बाहुवीर्ये᳙ ॥
+पत्सङ्गि᳓नीरा᳓ सजन्तु वि᳓गते बाहुवीर्ये᳙ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/021_shatrusenAtrAsanam/10_Aditya_chaxurA.md">

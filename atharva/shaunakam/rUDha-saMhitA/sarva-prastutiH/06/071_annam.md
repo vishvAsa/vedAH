@@ -190,7 +190,7 @@ Whatever, sacrificed or not, hath reached me, bestowed by men and sanctioned by 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓द᳓न्नम᳓द्म्य᳓नृतेन देवा दास्य᳓न्न᳓दास्यन्नुत᳓ संगृणा᳓मि।  
-वै᳙श्वानर᳓स्य महतो᳓ महिम्ना᳓ शिवं᳓ म᳓ह्यं म᳓धुमदस्त्व᳓न्नम् ॥
+वैश्वानर᳓स्य महतो᳓ महिम्ना᳓ शिवं᳓ म᳓ह्यं म᳓धुमदस्त्व᳓न्नम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/03_yadannamadmyanRtena_devA.md">

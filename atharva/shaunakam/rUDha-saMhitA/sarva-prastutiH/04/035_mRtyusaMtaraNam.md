@@ -251,7 +251,7 @@ That which upholds the Earth, the all-sustainer, that which hath filled air's mi
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓स्मान्मा᳓सा नि᳓र्मितास्त्रिंश᳓दराः संवत्सरो᳓ य᳓स्मान्नि᳓र्मितो द्वा᳓दशारः।  
-अ᳙होरात्रा᳓ यं᳓ परिय᳓न्तो ना᳓पु᳓स्ते᳓नौदने᳓ना᳓ति तराणि मृत्यु᳓म् ॥
+अहोरात्रा᳓ यं᳓ परिय᳓न्तो ना᳓पु᳓स्ते᳓नौदने᳓ना᳓ति तराणि मृत्यु᳓म् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/04_yasmAnmAsA_nirmitAstriMshadarAH.md">
@@ -506,7 +506,7 @@ From which, matured, sprang Amrit into being, which hath become Gayatris lord an
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ᳓व बाधे द्विष᳓न्तं देवपीयुं᳓ सप᳓त्ना ये᳓ मे᳓ऽप ते भवन्तु।  
-ब्र᳙ह्मौदनं᳓ विश्वजि᳓तं पचामि शृण्व᳓न्तु मे श्रद्द᳓धानस्य देवाः᳓ ॥
+ब्रह्मौदनं᳓ विश्वजि᳓तं पचामि शृण्व᳓न्तु मे श्रद्द᳓धानस्य देवाः᳓ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/07_ava_bAdhe.md">

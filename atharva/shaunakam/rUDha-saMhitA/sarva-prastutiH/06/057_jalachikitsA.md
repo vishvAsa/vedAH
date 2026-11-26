@@ -71,9 +71,35 @@ This is a medicine indeed, Rudra's own medicine is this, Wherewith he warns the 
 येनेषु॒मेक॑तेजनां श॒तश॑ल्यामप॒ब्रव॑त् ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+इदम् इद् वा उ भेषजम्  
+इदं रुद्रस्य भेषजम् ।  
+येनेषुम् एकतेजनां  
+शतशल्याम् अपब्रुवन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 इ॒दम्। इत्। वै। ऊं॒ इति॑। भे॒ष॒जम्। इ॒दम्। रु॒द्रस्य॑। भे॒ष॒जम्। येन॑। इषु॑म्। एक॑ऽतेजनाम्। श॒तऽश॑ल्याम्। अ॒प॒ऽब्रव॑त्। ५७.१।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- इद᳓म् (*MW*, *TS*-139/965, *RV*-178/1247, *TB*-94/513, *TK*-34/56, *AV*-257/1259, *SB-M*-1046/5242, *SB-K*-1041/5669, *VS-M*-65/319, *VS-K*-64/301, *KS*-53/218, *MS*-220/1325)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-16, *TK*-4, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50, *KS*-11, *MS*-78)
+- वै᳓ (*TS*-2126, *RV*-26, *TB*-1356, *TK*-135, *AV*-194, *SB-M*-7365, *SB-K*-7402, *VS-M*-2, *VS-K*-1, *KS*-312, *MS*-3720)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-105, *TK*-49, *AV*-215, *SB-M*-1842, *SB-K*-2041, *VS-K*-6, *KS*-43, *MS*-180)
+- भेषज᳓म् (*TS*-25/26, *RV*-14/21, *TB*-30/34, *TK*-1, *AV*-41/52, *SB-M*-19, *SB-K*-22, *VS-M*-31/33, *VS-K*-19/21, *KS*-4, *MS*-33/37)
+- इद᳓म् (*MW*, *TS*-139/965, *RV*-178/1247, *TB*-94/513, *TK*-34/56, *AV*-257/1259, *SB-M*-1046/5242, *SB-K*-1041/5669, *VS-M*-65/319, *VS-K*-64/301, *KS*-53/218, *MS*-220/1325)
+- रुद्र᳓स्य (*TS*-11/161, *RV*-17/99, *TB*-8/76, *TK*-0/1, *AV*-9/44, *SB-M*-6/111, *SB-K*-5/120, *VS-M*-3/53, *VS-K*-2/59, *KS*-4/47, *MS*-10/166)
+- भेषज᳓म् (*TS*-25/26, *RV*-14/21, *TB*-30/34, *TK*-1, *AV*-41/52, *SB-M*-19, *SB-K*-22, *VS-M*-31/33, *VS-K*-19/21, *KS*-4, *MS*-33/37)
+- ये᳓न (*TS*-36/3401, *RV*-119/4011, *TB*-17/1608, *TK*-5/227, *AV*-103/3120, *SB-M*-101/8331, *SB-K*-96/8549, *VS-M*-23/651, *VS-K*-22/599, *KS*-8/602, *MS*-31/3602)
+- इ᳓षुम् (*TS*-2/30, *RV*-2/11, *TB*-0/2, *AV*-8/43, *SB-M*-0/24, *SB-K*-0/25, *VS-M*-1/10, *VS-K*-1/13, *KS*-0/5, *MS*-5/23)
+- ए᳓क-तेजनाम् (*AV*-1)
+- शत᳓-शल्याम् (*AV*-1)
+- अ᳓प (*TS*-136, *RV*-226, *TB*-119, *TK*-11, *AV*-161, *SB-M*-338, *SB-K*-329, *VS-M*-37, *VS-K*-28, *KS*-46, *MS*-166)
+- ब्रुव᳓न् (*RV*-1, *SB-M*-3)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -110,8 +136,8 @@ This is a medicine indeed, Rudra's own medicine is this, Wherewith he warns the 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जा᳙लाषे᳓णाभि᳓ षिञ्चत जालाषे᳓णो᳓प सिञ्चत।  
-जा᳙लाष᳓मुग्रं᳓ भेषजं᳓ ते᳓न नो मृड जीव᳓से ॥
+जालाषे᳓णाभि᳓ षिञ्चत जालाषे᳓णो᳓प सिञ्चत।  
+जालाष᳓मुग्रं᳓ भेषजं᳓ ते᳓न नो मृड जीव᳓से ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">

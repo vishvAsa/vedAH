@@ -156,7 +156,7 @@ You are worth worshipping in the sacrifices, you extend the comfort, you sit as 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyAM_jAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज्ये᳙ष्ठघ्न्यां᳓ जातो᳓ विचृ᳓तोर्यम᳓स्य मूलब᳓र्हणात्प᳓रि पाह्येनम्।  
+ज्येष्ठघ्न्यां᳓ जातो᳓ विचृ᳓तोर्यम᳓स्य मूलब᳓र्हणात्प᳓रि पाह्येनम्।  
 अ᳓त्येनं नेषद्दुरिता᳓नि वि᳓श्वा दीर्घायुत्वा᳓य शत᳓शारदाय ॥
 </details>
 </div>

@@ -179,7 +179,7 @@ Of all thy hundred remedies, a thousand remedies combined. This is the surest cu
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रुद्र᳓स्य मू᳓त्रमस्यमृ᳓तस्य ना᳓भिः।  
-वि᳙षाणका᳓ ना᳓म वा᳓ असि पितॄणां᳓ मू᳓लादु᳓त्थिता वातीकृतना᳓शनी ॥
+विषाणका᳓ ना᳓म वा᳓ असि पितॄणां᳓ मू᳓लादु᳓त्थिता वातीकृतना᳓शनी ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/044_roganAshanam/03_rudrasya_mUtramasyamRtasya.md">

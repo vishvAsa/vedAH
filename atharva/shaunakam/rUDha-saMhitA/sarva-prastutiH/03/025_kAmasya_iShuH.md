@@ -41,7 +41,7 @@ A man's love-charm
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/01_uttudastvottudatu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ᳙त्तुद᳓स्त्वो᳓त्तुदतु मा᳓ धृथाः श᳓यने स्वे᳓।  
+उत्तुद᳓स्त्वो᳓त्तुदतु मा᳓ धृथाः श᳓यने स्वे᳓।  
 इ᳓षुः का᳓मस्य या᳓ भीमा᳓ त᳓या विध्यामि त्वा हृदि᳓ ॥
 </details>
 </div>

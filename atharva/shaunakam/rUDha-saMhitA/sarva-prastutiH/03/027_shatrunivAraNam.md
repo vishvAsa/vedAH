@@ -44,7 +44,7 @@ A charm consigning an enemy to the serpents for punishment
 
 प्रा᳓ची दि᳓गग्नि᳓र᳓धिपतिरसितो᳓ रक्षिता᳓दित्या᳓ इ᳓षवः।  
 ते᳓भ्यो न᳓मो᳓ऽधिपतिभ्यो न᳓मो रक्षितृ᳓भ्यो न᳓म इ᳓षुभ्यो न᳓म एभ्यो अस्तु।  
-यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
+योस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/01_prAchI_digagniradhipatirasito.md">
@@ -131,7 +131,7 @@ Worship to these the regents, these the warders, and to the arrows, yea, to thes
 
 द᳓क्षिणा दि᳓गि᳓न्द्रोऽधिपतिस्ति᳓रश्चिराजी रक्षिता᳓ पित᳓र इ᳓षवः।  
 ते᳓भ्यो न᳓मोऽधिपतिभ्यो न᳓मो रक्षितृ᳓भ्यो न᳓म इ᳓षुभ्यो न᳓म एभ्यो अस्तु।  
-यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
+योस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/02_daxiNA_digindro-dhipatistirashchirAjI.md">
@@ -201,7 +201,7 @@ Worship to these the regents, these the warders, and to the arrows, yea, to thes
 
 प्रती᳓ची दि᳓ग्व᳓रुणो᳓ऽधिपतिः पृ᳓दाकू रक्षिता᳓न्नमि᳓षवः।  
 ते᳓भ्यो न᳓मोऽधिपतिभ्यो न᳓मो रक्षितृ᳓भ्यो न᳓म इ᳓षुभ्यो न᳓म एभ्यो अस्तु।  
-यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
+योस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/03_pratIchI_digvaruNo-dhipatiH.md">
@@ -271,7 +271,7 @@ Worship, etc.
 
 उ᳓दीची दि᳓क्सो᳓मो᳓ऽधिपतिः स्वजो᳓ रक्षिता᳓श᳓निरि᳓षवः।  
 ते᳓भ्यो न᳓मोऽधिपतिभ्यो न᳓मो रक्षितृ᳓भ्यो न᳓म इ᳓षुभ्यो न᳓म एभ्यो अस्तु।  
-यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
+योस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/04_udIchI_diksomo-dhipatiH.md">
@@ -345,7 +345,7 @@ Worship, etc.
 
 ध्रुवा᳓ दि᳓ग्वि᳓ष्णुर᳓धिपतिः कल्मा᳓षग्रीवो रक्षिता᳓ वीरु᳓ध इ᳓षवः।  
 ते᳓भ्यो न᳓मोऽधिपतिभ्यो न᳓मो रक्षितृ᳓भ्यो न᳓म इ᳓षुभ्यो न᳓म एभ्यो अस्तु।  
-यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
+योस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/05_dhruvA_digviShNuradhipatiH.md">
@@ -418,7 +418,7 @@ Worship, etc.
 
 ऊर्ध्वा᳓ दि᳓ग्बृ᳓हस्प᳓तिर᳓धिपतिः श्वित्रो᳓ रक्षिता᳓ वर्ष᳓मि᳓षवः।  
 ते᳓भ्यो न᳓मोऽधिपतिभ्यो न᳓मो रक्षितृ᳓भ्यो न᳓म इ᳓षुभ्यो न᳓म एभ्यो अस्तु।  
-यो᳙स्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
+योस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्म᳓स्तं᳓ वो ज᳓म्भे दध्मः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/06_UrdhvA_digbRhaspatiradhipatiH.md">

@@ -150,7 +150,7 @@ O fire, may you shine taking away our sin; may you shine wealth; may you shine t
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु᳙क्षेत्रिया᳓ सुगातुया᳓ वसूया᳓ च यजामहे।  
+सुक्षेत्रिया᳓ सुगातुया᳓ वसूया᳓ च यजामहे।  
 अ᳓प नः शो᳓शुचदघ᳓म् ॥
 </details>
 </div>

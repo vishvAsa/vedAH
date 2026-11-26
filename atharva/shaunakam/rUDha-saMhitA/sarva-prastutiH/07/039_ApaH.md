@@ -42,7 +42,7 @@ A sacrificial charm for rain and prosperity
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दिव्यं᳓ सुपर्णं᳓ पयसं᳓ बृह᳓न्तमपां᳓ ग᳓र्भं वृषभ᳓मो᳓षधीनाम्।  
-अ᳙भीपतो᳓ वृष्ट्या᳓ तर्प᳓यन्तमा᳓ नो गोष्ठे᳓ रयिष्ठां᳓ स्थापयाति ॥
+अभीपतो᳓ वृष्ट्या᳓ तर्प᳓यन्तमा᳓ नो गोष्ठे᳓ रयिष्ठां᳓ स्थापयाति ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/039_ApaH/01_divyaM_suparNam.md">

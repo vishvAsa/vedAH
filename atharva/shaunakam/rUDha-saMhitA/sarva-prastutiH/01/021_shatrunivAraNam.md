@@ -41,7 +41,7 @@ A prayer to Indra for protection
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/01_svastidA_vishAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्व᳙स्तिदा᳓ विशां᳓ प᳓तिर्वृत्रहा᳓ विमृधो᳓ वशी᳓।  
+स्वस्तिदा᳓ विशां᳓ प᳓तिर्वृत्रहा᳓ विमृधो᳓ वशी᳓।  
 वृ᳓षे᳓न्द्रः पुर᳓ एतु नः᳓ सोमपा᳓ अभयंकरः᳓ ॥
 </details>
 </div>
@@ -114,7 +114,7 @@ Lord of the clans, giver of bliss, fiend-slayer, mighty o'er the foe, May Indra,
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि᳓ न इ᳓न्द्र मृ᳓धो जहि नीचा᳓ यच्छ पृतन्यतः᳓।  
-अ᳙धमं᳓ गमया त᳓मो यो᳓ अस्माँ᳓ अभिदा᳓सति ॥
+अधमं᳓ गमया त᳓मो यो᳓ अस्माँ᳓ अभिदा᳓सति ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/02_vi_na.md">
@@ -143,9 +143,37 @@ Indra, subdue our enemies, lay low the men who fight with us: Down into nether d
 अ॑ध॒मं ग॑मया॒ तमो॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+वि न इन्द्र वि मृधो जहि  
+नीचा यच्छ पृतन्यतः ।  
+अधमं गमया तमो  
+यो अस्माँ अभिदासति ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 वि। नः॒। इ॒न्द्रः॒। मृधः॑। ज॒हि॒। नी॒चा। य॒च्छ॒। पृ॒त॒न्य॒तः। अ॒ध॒मम्। ग॒म॒य॒। तमः॑। यः। अ॒स्मान्। अ॒भि॒ऽदास॑ति।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- वि᳓ (*TS*-379, *RV*-952, *TB*-164, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-639, *VS-M*-142, *VS-K*-127, *KS*-61, *MS*-503)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-140, *TK*-10, *AV*-1014, *SB-M*-518, *SB-K*-545, *VS-M*-441, *VS-K*-377, *KS*-115, *MS*-537)
+- इ᳓न्द्र (*TS*-19/21, *RV*-226/237, *TB*-12/14, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30, *KS*-4, *MS*-18/21)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-164, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-639, *VS-M*-142, *VS-K*-127, *KS*-61, *MS*-503)
+- मृ᳓धः (*Whitney*, *TS*-15/17, *RV*-29/30, *TB*-2, *AV*-14, *SB-M*-11/28, *SB-K*-9/28, *VS-M*-9, *VS-K*-8, *KS*-1, *MS*-12/13)
+- जहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-8, *RV*-23, *TB*-2, *TK*-1, *AV*-69, *SB-M*-12, *SB-K*-12, *VS-M*-4, *VS-K*-2, *MS*-4)
+- नीचा᳓ (*TS*-3, *RV*-7/8, *TB*-1, *AV*-2, *SB-M*-1, *VS-M*-3, *VS-K*-2, *MS*-2)
+- यच्छ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-32, *RV*-16, *TB*-5, *TK*-6, *AV*-21, *SB-M*-26, *SB-K*-35, *VS-M*-17, *VS-K*-14, *KS*-15, *MS*-1)
+- पृतन्यतः᳓ (*TS*-6, *RV*-9, *TB*-1, *AV*-7, *SB-M*-2, *VS-M*-3, *VS-K*-3, *MS*-5)
+- अधम᳓म् (*TS*-6, *RV*-2/5, *AV*-10/13, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-3, *MS*-2)
+- गमया᳓ (*TS*-0/2, *AV*-1, *SB-M*-1, *SB-K*-1)
+- त᳓मः (*Whitney*, *TS*-22/33, *RV*-43/113, *TB*-3/9, *AV*-23/52, *SB-M*-55/82, *SB-K*-54/82, *VS-M*-10/22, *VS-K*-8/22, *KS*-9/13, *MS*-27/50)
+- यः᳓ (*TS*-687/3401, *RV*-1038/4011, *TB*-461/1608, *TK*-123/227, *AV*-928/3120, *SB-M*-1907/8331, *SB-K*-1928/8549, *VS-M*-146/651, *VS-K*-111/599, *KS*-158/602, *MS*-808/3602)
+- अस्मा᳓न् (*TS*-46/566, *RV*-93/1308, *TB*-9/211, *TK*-2/66, *AV*-119/1252, *SB-M*-51/723, *SB-K*-68/758, *VS-M*-32/315, *VS-K*-25/274, *KS*-10/135, *MS*-42/587)
+- अभि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-36, *TK*-9, *AV*-3, *SB-M*-549, *SB-K*-513, *VS-K*-2, *KS*-25, *MS*-215)
+- दा᳓सति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *TB*-2, *TK*-6, *SB-M*-1, *KS*-3, *MS*-2)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -112,7 +112,7 @@ On these men yonder fall the winged missile: the screeching of the Owl is ineffe
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यौ᳓ ते दूतौ᳓ निरृत इद᳓मेतो᳓ऽप्रहितौ प्र᳓हितौ वा गृहं᳓ नः।  
-क᳙पोतोलूका᳓भ्याम᳓पदं त᳓दस्तु ॥
+कपोतोलूका᳓भ्याम᳓पदं त᳓दस्तु ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/02_yau_te.md">
@@ -178,7 +178,7 @@ Thine envoys who came hither, O Destruction, sent or not sent by thee unto our d
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAtsuvIratAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙वैरहत्या᳓येद᳓मा᳓ पपत्यात्सुवीर᳓ताया इद᳓मा᳓ ससद्यात्।  
+अवैरहत्या᳓येद᳓मा᳓ पपत्यात्सुवीर᳓ताया इद᳓मा᳓ ससद्यात्।  
 प᳓राङेव᳓ प᳓रा वद प᳓राचीम᳓नु संव᳓तम्।  
 य᳓था यम᳓स्य त्वा गृहे᳓ऽरसं᳓ प्रतिचा᳓कशानाभू᳓कं प्रतिचा᳓कशान् ॥
 </details>

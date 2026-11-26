@@ -36,7 +36,7 @@ Translated: Ludwig, p. 509; Zimmer, p. 389; Griffith, i. 305; Bloomfield, 21, 51
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि᳙प्पली᳓ क्षिप्तभेषज्यु᳙ता᳓तिविद्धभेषजी᳓।  
+पिप्पली᳓ क्षिप्तभेषज्यु᳙ता᳓तिविद्धभेषजी᳓।  
 तां᳓ देवाः᳓ स᳓मकल्पयन्नियं᳓ जी᳓वितवा᳓ अ᳓लम् ॥
 </details>
 </div>

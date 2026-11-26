@@ -437,7 +437,7 @@ Thou art in front of the waters. I let loose your sea.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/07_yopsvagnirati_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो᳙प्स्व᳙ग्नि᳓र᳓ति तं᳓ सृजामि म्रोकं᳓ खनिं᳓ तनूदू᳓षिम् ॥
+योप्स्व᳙ग्नि᳓र᳓ति तं᳓ सृजामि म्रोकं᳓ खनिं᳓ तनूदू᳓षिम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/07_yopsvagnirati_tam.md">
@@ -628,7 +628,7 @@ May he anoint you with Indra's own mighty power!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/10_ariprA_Apoapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙रिप्रा᳓ आ᳓पोअ᳓प रिप्र᳓मस्म᳓त् ॥
+अरिप्रा᳓ आ᳓पोअ᳓प रिप्र᳓मस्म᳓त् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/10_ariprA_Apoapa.md">

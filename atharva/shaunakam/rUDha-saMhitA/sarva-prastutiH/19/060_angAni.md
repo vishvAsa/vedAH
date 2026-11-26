@@ -124,7 +124,7 @@ May I have voice in my mouth, breath in my nostrils, sight in mine eyes, hearing
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊर्वो᳓रो᳓जो ज᳓ङ्घयोर्जवः᳓ पा᳓दयोः।  
-प्र᳙तिष्ठा᳓ अ᳓रिष्टानि मे स᳓र्वात्मा᳓निभृष्टः ॥
+प्रतिष्ठा᳓ अ᳓रिष्टानि मे स᳓र्वात्मा᳓निभृष्टः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/060_angAni/02_Urvorojo_janghayorjavaH.md">

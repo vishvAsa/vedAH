@@ -116,7 +116,7 @@ When yonder kings who sit beside Yama divide among them- selves the sixteenth pa
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स᳓र्वान्का᳓मान्पूरयत्याभ᳓वन्प्रभ᳓वन्भ᳓वन्।  
-आ᳙कूतिप्रो᳓ऽविर्दत्तः᳓ शितिपा᳓न्नो᳓प दस्यति ॥
+आकूतिप्रो᳓ऽविर्दत्तः᳓ शितिपा᳓न्नो᳓प दस्यति ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/02_sarvAnkAmAnpUrayatyAbhavanprabhavanbhavan.md">
@@ -254,7 +254,7 @@ He who bestows a white-hooved ram, adequate to the place he holds. Ascends to th
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प᳓ञ्चापूपं शितिपा᳓दम᳓विं लोके᳓न सं᳓मितम्।  
-प्र᳙दातो᳓प जीवति पितॄणां᳓ लोके᳓ऽक्षितम् ॥
+प्रदातो᳓प जीवति पितॄणां᳓ लोके᳓ऽक्षितम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/04_panchApUpaM_shitipAdamavim.md">
@@ -323,7 +323,7 @@ He who bestows a white-hooved ram, adequate to the place he holds. Offered with 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प᳓ञ्चापूपं शितिपा᳓दम᳓विं लोके᳓न सं᳓मितम्।  
-प्र᳙दातो᳓प जीवति सूर्यामास᳓योर᳓क्षितम् ॥
+प्रदातो᳓प जीवति सूर्यामास᳓योर᳓क्षितम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/05_panchApUpaM_shitipAdamavim.md">

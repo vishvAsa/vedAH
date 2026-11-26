@@ -424,7 +424,7 @@ Eye art thou, give me eyes. All hail!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/07_paripANamasi_paripANam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प᳙रिपा᳓णमसि परिपा᳓णं मे दाः स्वा᳓हा ॥
+परिपा᳓णमसि परिपा᳓णं मे दाः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/07_paripANamasi_paripANam.md">

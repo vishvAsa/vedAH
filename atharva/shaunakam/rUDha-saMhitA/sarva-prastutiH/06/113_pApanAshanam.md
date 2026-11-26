@@ -182,7 +182,7 @@ Enter the particles of light and vapours, go to the rising fogs or mists, O Evil
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/03_dvAdashadhA_nihitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्वा᳙दशधा᳓ नि᳓हितं त्रित᳓स्या᳓पमृष्टं मनुष्यैनसा᳓नि।  
+द्वादशधा᳓ नि᳓हितं त्रित᳓स्या᳓पमृष्टं मनुष्यैनसा᳓नि।  
 त᳓तो य᳓दि त्वा ग्रा᳓हिरानशे᳓ तां᳓ ते देवा᳓ ब्र᳓ह्मणा नाशयन्तु ॥
 </details>
 </div>

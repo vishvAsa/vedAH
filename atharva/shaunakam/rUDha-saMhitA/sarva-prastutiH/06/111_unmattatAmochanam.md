@@ -108,7 +108,7 @@ Unbind and loose for me this man, O Agni, who bound and well restrained is chatt
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्नि᳓ष्टे नि᳓ शमयतु य᳓दि ते म᳓न उ᳓द्युतम्।  
-कृ᳙णोमि विद्वा᳓न्भेषजं᳓ य᳓था᳓नुन्मदितो᳓ऽससि ॥
+कृणो᳓मि विद्वा᳓न्भेषजं᳓ य᳓था᳓नुन्मदितो᳓ऽससि ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/111_unmattatAmochanam/02_agniShTe_ni.md">
@@ -174,8 +174,8 @@ Let Agni gently soothe thy mind when fierce excitement troubles it. Well-skilled
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/111_unmattatAmochanam/03_devainasAdunmaditamunmattaM_raxasaspari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे᳙वैनसा᳓दु᳓न्मदितमु᳓न्मत्तं र᳓क्षसस्प᳓रि।  
-कृ᳙णोमि विद्वा᳓न्भेषजं᳓ यदा᳓नुन्मदितो᳓ऽसति ॥
+देवैनसा᳓दु᳓न्मदितमु᳓न्मत्तं र᳓क्षसस्प᳓रि।  
+कृणो᳓मि विद्वा᳓न्भेषजं᳓ यदा᳓नुन्मदितो᳓ऽसति ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/111_unmattatAmochanam/03_devainasAdunmaditamunmattaM_raxasaspari.md">

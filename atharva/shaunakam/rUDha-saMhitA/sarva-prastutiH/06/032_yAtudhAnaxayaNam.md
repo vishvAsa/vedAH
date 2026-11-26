@@ -41,7 +41,7 @@ A charm against fiends and goblins
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/032_yAtudhAnaxayaNam/01_antardAve_juhutA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙न्तर्दावे᳓ जुहुता᳓ स्वे᳙त᳓द्यातुधानक्ष᳓यणं घृते᳓न।  
+अन्तर्दावे᳓ जुहुता᳓ स्वे᳙त᳓द्यातुधानक्ष᳓यणं घृते᳓न।  
 आरा᳓द्र᳓क्षांसि प्र᳓ति दह त्व᳓मग्ने न᳓ नो गृहा᳓णामु᳓प तीतपासि ॥
 </details>
 </div>

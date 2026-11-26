@@ -37,7 +37,7 @@ Translated: Ludwig, p. 517; Henry, 38, 109; Griffith, i. 375.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ᳓दस्य श्यावौ᳓ विथुरौ᳓ गृ᳓ध्रौ द्या᳓मिव पेततुः।  
-उ᳙च्छोचनप्रशोचना᳓वस्यो᳓च्छो᳓चनौ हृदः᳓ ॥
+उच्छोचनप्रशोचना᳓वस्यो᳓च्छो᳓चनौ हृदः᳓ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/095_shatrunAshanam/01_udasya_shyAvau.md">
@@ -110,7 +110,7 @@ To heaven, as 'twere, have soared this man's two vultures, staggering, dusky hue
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अह᳓मेनावु᳓दतिष्ठिपं गा᳓वौ श्रान्तस᳓दाविव।  
-कु᳙र्कुरा᳓विव कू᳓जन्तावुद᳓वन्तौ वृ᳓काविव ॥
+कुर्कुरा᳓विव कू᳓जन्तावुद᳓वन्तौ वृ᳓काविव ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/095_shatrunAshanam/02_ahamenAvudatiShThipaM_gAvau.md">
@@ -177,7 +177,7 @@ I verily have stirred them up like oxen resting after toil. Like two loud-snarli
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/03_Atodinau_nitodinAvatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ᳙तोदि᳓नौ नितोदि᳓नाव᳓थो संतोदि᳓नावुत᳓।  
+आतोदि᳓नौ नितोदि᳓नाव᳓थो संतोदि᳓नावुत᳓।  
 अ᳓पि नह्याम्यस्य मे᳓ढ्रं य᳓ इतः᳓ स्त्री᳓ पु᳓माञ्जभा᳓र ॥
 </details>
 </div>

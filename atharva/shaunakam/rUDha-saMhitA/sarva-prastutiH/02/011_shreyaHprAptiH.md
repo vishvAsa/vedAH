@@ -42,7 +42,7 @@ Counter-charm, with an amulet, against an enemy's spell
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दू᳓ष्या दू᳓षिरसि हेत्या᳓ हेति᳓रसि मेन्या᳓ मेनि᳓रसि।  
-आ᳙प्नुहि᳓ श्रे᳓यांसम᳓ति समं᳓ क्राम ॥
+आप्नुहि᳓ श्रे᳓यांसम᳓ति समं᳓ क्राम ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
@@ -115,7 +115,7 @@ Dart against dart, destroyer of destruction, thou art the missile sent to meet t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्रक्त्यो᳓ऽसि प्रतिसरो᳓ऽसि प्रत्यभिच᳓रणोऽसि।  
-आ᳙प्नुहि᳓ श्रे᳓यांसम᳓ति समं᳓ क्राम ॥
+आप्नुहि᳓ श्रे᳓यांसम᳓ति समं᳓ क्राम ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/02_sraktyo-si_pratisaro-si.md">
@@ -185,7 +185,7 @@ Sraktya art thou, an Amulet art thou, a counter-charm of spells, Reach thy super
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र᳓ति त᳓मभि᳓ चर यो᳓ ऽस्मा᳓न्द्वे᳓ष्टि यं᳓ वयं᳓ द्विष्मः᳓।  
-आ᳙प्नुहि᳓ श्रे᳓यांसम᳓ति समं᳓ क्राम ॥
+आप्नुहि᳓ श्रे᳓यांसम᳓ति समं᳓ क्राम ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
@@ -250,7 +250,7 @@ Use spells against the man we hate, against the man who hateth us. Reach thy sup
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सूरि᳓रसि वर्चोधा᳓ असि तनूपा᳓नो ऽसि।  
-आ᳙प्नुहि᳓ श्रे᳓यांसम᳓ति समं᳓ क्राम ॥
+आप्नुहि᳓ श्रे᳓यांसम᳓ति समं᳓ क्राम ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
@@ -317,7 +317,7 @@ A prince art thou, giver of speech, thou art our bodies' strong defence. Reach t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शुक्रो᳓ऽसि भ्राजो᳓ऽसि स्व᳙रसि ज्यो᳓तिरसि।  
-आ᳙प्नुहि᳓ श्रे᳓यांसम᳓ति समं᳓ क्राम ॥
+आप्नुहि᳓ श्रे᳓यांसम᳓ति समं᳓ क्राम ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/05_shukro-si_bhrAjo-si.md">

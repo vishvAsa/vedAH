@@ -41,7 +41,7 @@ A hymn to the New Moon
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/01_pUrvAparaM_charato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पू᳙र्वापरं᳓ चरतो माय᳓यैतौ᳓ शि᳓शू क्री᳓डन्तौ प᳓रि यातोऽर्णव᳓म्।  
+पूर्वापरं᳓ चरतो माय᳓यैतौ᳓ शि᳓शू क्री᳓डन्तौ प᳓रि यातोऽर्णव᳓म्।  
 वि᳓श्वान्यो᳓ भु᳓वना विच᳓ष्ट ऋतूँ᳓रन्यो᳓ विद᳓धज्जायसे न᳓वः ॥
 </details>
 </div>

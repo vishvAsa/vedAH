@@ -109,7 +109,7 @@ Let not a thief or wicked man possess you: let not the dart of Rudra come anear 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/075_aghnyAH/02_padajnA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प᳙दज्ञा᳓ स्थ र᳓मतयः सं᳓हिता विश्व᳓नाम्नीः।  
+पदज्ञा᳓ स्थ र᳓मतयः सं᳓हिता विश्व᳓नाम्नीः।  
 उ᳓प मा देवीर्देवे᳓भिरे᳓त।  
 इमं᳓ गोष्ठ᳓मिदं᳓ स᳓दो घृते᳓नास्मा᳓न्त्स᳓मुक्षत ॥
 </details>

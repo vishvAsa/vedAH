@@ -111,8 +111,8 @@ Agree and be united: let your minds be all of one accord, Even as the Gods of an
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/02_samAno_mantraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स᳙मानो᳓ म᳓न्त्रः स᳓मितिः समानी᳓ समानं᳓ व्रतं᳓ सह᳓ चित्त᳓मेषाम्।  
-स᳙माने᳓न वो हवि᳓षा जुहोमि समानं᳓ चे᳓तो अभिसं᳓विशध्वम् ॥
+समानो᳓ म᳓न्त्रः स᳓मितिः समानी᳓ समानं᳓ व्रतं᳓ सह᳓ चित्त᳓मेषाम्।  
+समाने᳓न वो हवि᳓षा जुहोमि समानं᳓ चे᳓तो अभिसं᳓विशध्वम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/02_samAno_mantraH.md">
@@ -186,8 +186,8 @@ The rede is common, common the assembly, common the law, so be their thoughts un
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/03_samAnI_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स᳙मानी᳓ व आ᳓कूतिः समाना᳓ हृ᳓दयानि वः।  
-स᳙मान᳓मस्तु वो म᳓नो य᳓था वः सु᳓सहा᳓सति ॥
+समानी᳓ व आ᳓कूतिः समाना᳓ हृ᳓दयानि वः।  
+समान᳓मस्तु वो म᳓नो य᳓था वः सु᳓सहा᳓सति ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/03_samAnI_va.md">

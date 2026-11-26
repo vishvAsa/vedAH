@@ -36,7 +36,7 @@ Translated: Ludwig, p. 444; Griffith, i. 309.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙पमि᳓त्यम᳓प्रतीत्तं य᳓द᳓स्मि यम᳓स्य ये᳓न बलि᳓ना च᳓रामि।  
+अपमि᳓त्यम᳓प्रतीत्तं य᳓द᳓स्मि यम᳓स्य ये᳓न बलि᳓ना च᳓रामि।  
 इदं᳓ त᳓दग्ने अनृणो᳓ भवामि त्वं᳓ पा᳓शान्विचृ᳓तं वेत्थ स᳓र्वान् ॥
 </details>
 </div>
@@ -128,7 +128,7 @@ That which I eat, a debt which still is owing, the tribute due to Yama, which su
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इहै᳓व᳓ स᳓न्तः प्र᳓ति दद्म एनज्जीवा᳓ जीवे᳓भ्यो नि᳓ हराम एनत्।  
-अ᳙पमि᳓त्य धान्य᳙ य᳓ज्जघ᳓साह᳓मिदं᳓ त᳓दग्ने अनृणो᳓ भवामि ॥
+अपमि᳓त्य धान्य᳙ य᳓ज्जघ᳓साह᳓मिदं᳓ त᳓दग्ने अनृणो᳓ भवामि ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/02_ihaiva_santaH.md">
@@ -201,7 +201,7 @@ Still dwelling here we give again this present; we send it forth, the living fro
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙नृणा᳓ अस्मि᳓न्ननृणाः᳓ प᳓रस्मिन्तृती᳓ये लोके᳓ अनृणाः᳓ स्याम।  
+अनृणा᳓ अस्मि᳓न्ननृणाः᳓ प᳓रस्मिन्तृती᳓ये लोके᳓ अनृणाः᳓ स्याम।  
 ये᳓ देवया᳓नाः पितृया᳓णाश्च लोकाः᳓ स᳓र्वान्पथो᳓ अनृणा᳓ आ᳓ क्षियेम ॥
 </details>
 </div>
@@ -247,6 +247,14 @@ May we be free in this world and that yonder, in the third world may we be unind
 सर्वा॑न्प॒थो अ॑नृ॒णा आक्षी॑येम ।
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अनृणा अस्मिन्न् अनृणाः परस्मिन्  
+तृतीये नाके अनृणाः स्याम ।  
+ये देवयाना उत पितृयाणाः  
+सर्वान् पथो अनृणाः क्षयेम ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अ॒नृ॒णाः। अ॒स्मिन्। अ॒नृ॒णाः। पर॑स्मिन्। तृ॒तीये॑। लो॒के। अ॒नृ॒णाः। स्या॒म॒। ये। दे॒व॒ऽयानाः॑। पि॒तृ॒ऽयानाः॑। च॒। लो॒काः। सर्वा॑न्। प॒थः। अ॒नृ॒णाः। आ। क्षि॒ये॒म॒। ११७.३।
@@ -255,6 +263,26 @@ May we be free in this world and that yonder, in the third world may we be unind
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अनृणाः᳓ । अस्मि᳓न् । अनृणाः᳓ । प᳓रस्मिन् । तृती᳓ये । लोके᳓ । अनृणाः᳓ । स्याम । ये᳓ । देव-या᳓नाः । उत᳓ । पितृ-या᳓णाः । स᳓र्वान् । पथः᳓ । अनृणाः᳓ । आ᳓ । अक्षीये । अम ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- अनृणाः᳓ (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *TB*-2, *AV*-4, *MS*-2)
+- अस्मि᳓न् (*TS*-74/965, *RV*-76/1247, *TB*-36/513, *TK*-3/56, *AV*-82/1259, *SB-M*-216/5242, *SB-K*-246/5669, *VS-M*-27/319, *VS-K*-22/301, *KS*-8/218, *MS*-54/1325)
+- अनृणाः᳓ (*TS*-0/3, *TB*-2/4, *AV*-4/6, *SB-M*-0/1, *SB-K*-0/4, *VS-M*-0/1, *VS-K*-0/1, *MS*-2/3)
+- प᳓रस्मिन् (*TS*-0/33, *RV*-1/33, *TB*-0/9, *TK*-0/2, *AV*-1/41, *SB-M*-0/63, *SB-K*-0/70, *VS-M*-0/10, *VS-K*-0/9, *KS*-0/4, *MS*-0/27)
+- तृती᳓ये (*TS*-7/66, *RV*-9/22, *TB*-7/24, *TK*-0/9, *AV*-7/26, *SB-M*-10/130, *SB-K*-12/124, *VS-M*-4/13, *VS-K*-4/13, *KS*-0/7, *MS*-3/41)
+- ना᳓के (*TS*-7/28, *RV*-7/32, *TB*-1/16, *AV*-11/41, *SB-M*-15/50, *SB-K*-14/49, *VS-M*-3/24, *VS-K*-2/22, *KS*-0/5, *MS*-6/26)
+- अनृणाः᳓ (*TS*-0/3, *TB*-2/4, *AV*-4/6, *SB-M*-0/1, *SB-K*-0/4, *VS-M*-0/1, *VS-K*-0/1, *MS*-2/3)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-28, *RV*-113, *TB*-4, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-18, *KS*-5, *MS*-25)
+- ये᳓ (*TS*-213/3401, *RV*-445/4011, *TB*-55/1608, *TK*-16/227, *AV*-448/3120, *SB-M*-317/8331, *SB-K*-319/8549, *VS-M*-104/651, *VS-K*-88/599, *KS*-44/602, *MS*-183/3602)
+- देव-या᳓नाः (*TS*-4/23, *RV*-1/13, *TB*-0/5, *AV*-3/18, *SB-M*-0/8, *SB-K*-0/9, *VS-M*-0/11, *VS-K*-0/7, *KS*-1/2, *MS*-1/13)
+- उत᳓ (*Whitney*, *Lanman*, *TS*-120, *RV*-701, *TB*-27, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72, *KS*-14, *MS*-105)
+- पितृ-या᳓णाः (*MW*, *SB-M*-0/3, *SB-K*-0/1, *MS*-0/1)
+- स᳓र्वान् (*TS*-15/287, *RV*-4/68, *TB*-8/156, *TK*-13/114, *AV*-97/444, *SB-M*-98/2265, *SB-K*-97/2286, *VS-M*-1/55, *VS-K*-1/43, *KS*-3/34, *MS*-25/410)
+- पथः᳓ (*TS*-8/72, *RV*-36/149, *TB*-3/16, *AV*-12/76, *SB-M*-11/47, *SB-K*-12/52, *VS-M*-4/38, *VS-K*-5/35, *KS*-1/12, *MS*-12/57)
+- अनृणाः᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TB*-2, *AV*-4, *MS*-2)
+- क्ष᳓येम (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, शप् अनुदात्त पा॰ ३.१.४, *TB*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

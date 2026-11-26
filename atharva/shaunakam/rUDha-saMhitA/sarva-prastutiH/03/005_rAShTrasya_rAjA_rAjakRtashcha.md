@@ -408,7 +408,7 @@ The Parna-Charm hath come to me for great security from ill. That I may be exalt
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये᳓ धी᳓वानो रथकाराः᳓ कर्मा᳓रा ये᳓ मनीषि᳓णः।  
-उ᳙पस्ती᳓न्पर्ण म᳓ह्यं त्वं स᳓र्वान्कृण्वभि᳓तो ज᳓नान् ॥
+उपस्ती᳓न्पर्ण म᳓ह्यं त्वं स᳓र्वान्कृण्वभि᳓तो ज᳓नान् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/005_rAShTrasya_rAjA_rAjakRtashcha/06_ye_dhIvAno.md">
@@ -479,7 +479,7 @@ Sagacious builders of the car, cleaver and skilful artisans,-- Make all the men 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये᳓ रा᳓जानो राजकृ᳓तः सूता᳓ ग्रामण्य᳙श्च ये᳓।  
-उ᳙पस्ती᳓न्पर्ण म᳓ह्यं त्वं᳓ स᳓र्वान्कृण्वभि᳓तो ज᳓नान् ॥
+उपस्ती᳓न्पर्ण म᳓ह्यं त्वं᳓ स᳓र्वान्कृण्वभि᳓तो ज᳓नान् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/005_rAShTrasya_rAjA_rAjakRtashcha/07_ye_rAjAno.md">
@@ -557,7 +557,7 @@ The kings and makers of the kings, troop-leaders, masters of the horse, Make all
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पर्णो᳓ऽसि तनूपा᳓नः स᳓योनिर्वीरो᳓ वीरे᳓ण म᳓या।  
-सं᳙वत्सर᳓स्य ते᳓जसा ते᳓न बध्नामि त्वा मणे ॥
+संवत्सर᳓स्य ते᳓जसा ते᳓न बध्नामि त्वा मणे ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/005_rAShTrasya_rAjA_rAjakRtashcha/08_parNo-si_tanUpAnaH.md">

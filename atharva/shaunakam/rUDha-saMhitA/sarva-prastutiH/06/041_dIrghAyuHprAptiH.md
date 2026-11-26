@@ -109,7 +109,7 @@ For mind, for intellect, for thought, for purpose, for intelligence,. For sense,
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙पाना᳓य व्याना᳓य प्राणा᳓य भू᳓रिधायसे।  
+अपाना᳓य व्याना᳓य प्राणा᳓य भू᳓रिधायसे।  
 स᳓रस्वत्या उरुव्य᳓चे विधे᳓म हवि᳓षा वय᳓म् ॥
 </details>
 </div>

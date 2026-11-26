@@ -36,8 +36,8 @@ Translated: Weber, Omina und Portenta (1858), p. 363; Zimmer, p. 353; Griffith, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श᳙कधू᳓मं न᳓क्षत्राणि य᳓द्रा᳓जानम᳓कुर्वत।  
-भ᳙द्राह᳓मस्मै प्रा᳓यच्छन्निदं᳓ राष्ट्र᳓म᳓सादि᳓ति ॥
+शकधू᳓मं न᳓क्षत्राणि य᳓द्रा᳓जानम᳓कुर्वत।  
+भद्राह᳓मस्मै प्रा᳓यच्छन्निदं᳓ राष्ट्र᳓म᳓सादि᳓ति ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
@@ -119,8 +119,8 @@ What time the heavenly bodies chose the Weather Prophet as their King, They brou
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/02_bhadrAhaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ᳙द्राहं᳓ नो मध्य᳓न्दिने भद्राहं᳓ साय᳓मस्तु नः।  
-भ᳙द्राहं᳓ नो अ᳓ह्नां प्राता᳓ रा᳓त्री भद्राह᳓मस्तु नः ॥
+भद्राहं᳓ नो मध्य᳓न्दिने भद्राहं᳓ साय᳓मस्तु नः।  
+भद्राहं᳓ नो अ᳓ह्नां प्राता᳓ रा᳓त्री भद्राह᳓मस्तु नः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/02_bhadrAhaM_no.md">
@@ -189,8 +189,8 @@ May we have weather fair at noon, May we have weather fair at eve, Fair weather 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙होरात्रा᳓भ्यां न᳓क्षत्रेभ्यः सूर्याचन्द्रम᳓साभ्याम्।  
-भ᳙द्राह᳓मस्म᳓भ्यं राजञ्छ᳓कधूम त्वं᳓ कृधि ॥
+अहोरात्रा᳓भ्यां न᳓क्षत्रेभ्यः सूर्याचन्द्रम᳓साभ्याम्।  
+भद्राह᳓मस्म᳓भ्यं राजञ्छ᳓कधूम त्वं᳓ कृधि ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
@@ -295,9 +295,35 @@ Be worship ever paid to thee, O Weather Prophet, King of Star s, Who gavest us o
 तस्मै॑ ते नक्षत्रराज॒ शक॑धूम॒ सदा॒ नमः॑ ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+यो नो भद्राहम् अकरः  
+सायं प्रातर् अथो दिवा ।  
+तस्मै ते नक्षत्रराज  
+शकधूम सदा नमः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 यः। नः॒। भ॒द्र॒ऽअ॒हम्। अक॑रः। सा॒यम्। नक्त॑म्। अथो॒ इति॑। दिवा॑। तस्मै॑। ते॒। न॒क्ष॒त्र॒ऽरा॒ज॒। शक॑ऽधूम। सदा॑। नमः॑। १२८.४।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- यः᳓ (*TS*-687/3401, *RV*-1038/4011, *TB*-461/1608, *TK*-123/227, *AV*-928/3120, *SB-M*-1907/8331, *SB-K*-1928/8549, *VS-M*-146/651, *VS-K*-111/599, *KS*-158/602, *MS*-808/3602)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-140, *TK*-10, *AV*-1014, *SB-M*-518, *SB-K*-545, *VS-M*-441, *VS-K*-377, *KS*-115, *MS*-537)
+- भद्राह᳓म् (*MW*)
+- अ᳓करः (*RV*-0/16, *AV*-2/4, *SB-M*-1/5, *SB-K*-0/5)
+- साय᳓म् (*TS*-6, *RV*-4, *TB*-26, *AV*-9, *SB-M*-24, *SB-K*-34, *VS-M*-1, *VS-K*-1, *KS*-7, *MS*-26)
+- प्रातः᳓ (*TS*-12, *RV*-30, *TB*-30, *AV*-16, *SB-M*-55, *SB-K*-66, *VS-M*-7, *VS-K*-1, *KS*-5, *MS*-35)
+- अ᳓थो (*TS*-246, *RV*-37, *TB*-145, *TK*-16, *AV*-142, *SB-M*-360, *SB-K*-382, *VS-M*-14, *VS-K*-23, *KS*-18, *MS*-272)
+- दि᳓वा (*MW* ŚBr., *TS*-9, *RV*-26, *TB*-19, *AV*-15, *SB-M*-23, *SB-K*-18, *VS-M*-7, *VS-K*-7, *KS*-1, *MS*-23)
+- त᳓स्मै (*TS*-128/4765, *RV*-58/3136, *TB*-30/2598, *TK*-5/357, *AV*-84/3165, *SB-M*-177/20461, *SB-K*-205/20301, *VS-M*-33/780, *VS-K*-31/650, *KS*-17/996, *MS*-74/5417)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-168, *TK*-35, *AV*-1022, *SB-M*-652, *SB-K*-727, *VS-M*-391, *VS-K*-307, *KS*-166, *MS*-624)
+- नक्षत्र-राज (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *AV*-1)
+- श᳓क-धूम (*AV*-2)
+- स᳓दा (*MW*, *TS*-7, *RV*-120, *TB*-4, *AV*-19, *SB-M*-4, *SB-K*-2, *VS-M*-4, *VS-K*-4, *KS*-1, *MS*-4)
+- न᳓मः (*Whitney*, *TS*-291/316, *RV*-49/182, *TB*-45/48, *TK*-3, *AV*-230/248, *SB-M*-102/105, *SB-K*-100/102, *VS-M*-235/244, *VS-K*-147/168, *KS*-264/267, *MS*-248/268)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

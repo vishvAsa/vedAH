@@ -296,7 +296,7 @@ My bliss be Svati and benignant Chitra, my right First Phalgunis and present Has
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ᳓न्नं पू᳓र्वा रासतां मे अषाढा᳓ ऊ᳓र्जं देव्यु᳓त्तरा आ᳓ वहन्तु।  
-अ᳙भिजि᳓न्मे रासतां पु᳓ण्यमेव᳓ श्र᳓वणः श्र᳓विष्ठाः कुर्वतां सुपुष्टि᳓म् ॥
+अभिजि᳓न्मे रासतां पु᳓ण्यमेव᳓ श्र᳓वणः श्र᳓विष्ठाः कुर्वतां सुपुष्टि᳓म् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/04_annaM_pUrvA.md">

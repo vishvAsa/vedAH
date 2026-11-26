@@ -42,7 +42,7 @@ A prayer for freedom from sin and the overthrow of enemies
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ᳓ग्ने जाता᳓न्प्र᳓ णुदा मे सप᳓त्नान्प्र᳓त्य᳓जाताञ्जातवेदो नुदस्व।  
-अ᳙धस्पदं᳓ कृणुष्व ये᳓ पृतन्य᳓वो᳓ऽनागसस्ते᳓ वय᳓म᳓दितये स्याम ॥
+अधस्पदं᳓ कृणुष्व ये᳓ पृतन्य᳓वो᳓ऽनागसस्ते᳓ वय᳓म᳓दितये स्याम ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/034_shatrunAshanam/01_agne_jAtAnpra.md">

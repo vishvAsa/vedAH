@@ -269,7 +269,7 @@ These are ne'er lost, no robber ever injures them: no evil-minded foe attempts t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न᳓ ता᳓ अ᳓र्वा रेणु᳓ककाटोऽश्नुते न᳓ संस्कृतत्र᳓मु᳓प यन्ति ता᳓ अभि᳓।  
-उ᳙रुगाय᳓म᳓भयं त᳓स्य ता᳓ अ᳓नु गा᳓वो म᳓र्तस्य वि᳓ चरन्ति य᳓ज्वनः ॥
+उरुगाय᳓म᳓भयं त᳓स्य ता᳓ अ᳓नु गा᳓वो म᳓र्तस्य वि᳓ चरन्ति य᳓ज्वनः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/021_gAvaH/04_na_tA.md">

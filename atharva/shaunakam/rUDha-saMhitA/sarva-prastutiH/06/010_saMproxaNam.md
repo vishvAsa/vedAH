@@ -41,7 +41,7 @@ A thanksgiving for life, hearing, and sight
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ᳙थिव्यै᳓ श्रो᳓त्राय व᳓नस्प᳓तिभ्योऽग्न᳓ये᳓ऽधिपतये स्वा᳓हा ॥
+पृथिव्यै᳓ श्रो᳓त्राय व᳓नस्प᳓तिभ्योऽग्न᳓ये᳓ऽधिपतये स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">

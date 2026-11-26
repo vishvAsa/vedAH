@@ -1330,7 +1330,7 @@ Pouring sweet dews let holy Night and Morning, each close to each, be seated at 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दै᳓व्या हो᳓तारा प्रथमा᳓ सुवा᳓चा मि᳓माना यज्ञं᳓ म᳓नुषो य᳓जध्यै।  
-प्र᳙चोद᳓यन्ता विद᳓थेषु कारू᳓ प्राची᳓नं ज्यो᳓तिः प्रदि᳓शा दिश᳓न्ता ॥
+प्रचोद᳓यन्ता विद᳓थेषु कारू᳓ प्राची᳓नं ज्यो᳓तिः प्रदि᳓शा दिश᳓न्ता ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/012_Rtasya_yajnaH/07_daivyA_hotArA.md">

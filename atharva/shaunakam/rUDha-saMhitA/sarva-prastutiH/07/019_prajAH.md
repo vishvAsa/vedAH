@@ -42,7 +42,7 @@ A prayer for prosperity
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रजा᳓पतिर्जनयति प्रजा᳓ इमा᳓ धाता᳓ दधातु सुमनस्य᳓मानः।  
-सं᳙जानानाः᳓ सं᳓मनसः स᳓योनयो म᳓यि पुष्टं᳓ पुष्टप᳓तिर्दधातु ॥
+संजानानाः᳓ सं᳓मनसः स᳓योनयो म᳓यि पुष्टं᳓ पुष्टप᳓तिर्दधातु ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/019_prajAH/01_prajApatirjanayati_prajA.md">

@@ -33,7 +33,7 @@ The mss., and so SPP., have the incorrect accent prákalpayan in c; it is emende
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या᳓नि न᳓क्षत्राणि दिव्य᳙न्त᳓रिक्षे अप्सु᳓ भू᳓मौ या᳓नि न᳓गेषु दिक्षु᳓।  
-प्र᳙कल्प᳓यंश्चन्द्र᳓मा या᳓न्ये᳓ति स᳓र्वाणि म᳓मैता᳓नि शिवा᳓नि सन्तु ॥
+प्रकल्प᳓यंश्चन्द्र᳓मा या᳓न्ये᳓ति स᳓र्वाणि म᳓मैता᳓नि शिवा᳓नि सन्तु ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/01_yAni_naxatrANi.md">
@@ -101,7 +101,7 @@ Benign to me be all those Lunar Mansions to which the Moon as he moves on doth h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙ष्टाविंशा᳓नि शिवा᳓नि शग्मा᳓नि सह᳓ यो᳓गं भजन्तु मे।  
+अष्टाविंशा᳓नि शिवा᳓नि शग्मा᳓नि सह᳓ यो᳓गं भजन्तु मे।  
 यो᳓गं प्र᳓ पद्ये क्षे᳓मं च क्षे᳓मं प्र᳓ पद्ये यो᳓गं च न᳓मोऽहोरात्रा᳓भ्यामस्तु ॥
 </details>
 </div>
@@ -262,7 +262,7 @@ Fair be my sunset, fair my morn and evening and day with. lucky chase and happy 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/04_anuhavaM_parihavam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙नुहवं᳓ परिहवं᳓ परिवादं᳓ परिक्षव᳓म्।  
+अनुहवं᳓ परिहवं᳓ परिवादं᳓ परिक्षव᳓म्।  
 स᳓र्वैर्मे रिक्तकुम्भा᳓न्प᳓रा ता᳓न्त्स᳓वितः सुव ॥
 </details>
 </div>
@@ -417,9 +417,34 @@ May we escape an evil sneeze, enjoy the sneeze of happy luck, And may our nostri
 शि॒वा ते॑ पाप॒ नासि॑कां॒ पुण्य॑गश्चा॒भि मे॑हताम् ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(PSK 20.46.2)+++अपपापं परिक्षवं  
+पुण्यं भक्षीमहि क्षवम् ।  
+शिवा ते पापनासिकां  
+पर्णकश् चाभि मेहताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अ॒प॒ऽपा॒पम्। प॒रि॒ऽक्ष॒वम्। पुण्य॑म्। भ॒क्षी॒महि॑। क्षव॑म्। शि॒वा। ते॒। पा॒प॒। नासि॑काम्। पुण्य॑ऽगः। च॒। अ॒भि। मे॒ह॒ता॒म्। ८.५।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- अप-पाप᳓म् (*AV*-1)
+- परि-क्षव᳓म् (*AV*-2/3)
+- पु᳓ण्यम् (*TS*-0/9, *RV*-1, *TB*-9/20, *AV*-7/17, *SB-M*-8/28, *SB-K*-14/41, *VS-M*-2, *VS-K*-2, *KS*-0/1, *MS*-8/19)
+- भक्षीम᳓हि (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *RV*-4, *AV*-2, *MS*-1)
+- क्ष᳓वम् (*AV*-1)
+- शिवा᳓ (*TS*-9/59, *RV*-3/50, *TB*-1/21, *AV*-13/83, *SB-M*-2/52, *SB-K*-3/49, *VS-M*-5/53, *VS-K*-5/49, *KS*-3/8, *MS*-6/56)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-168, *TK*-35, *AV*-1022, *SB-M*-652, *SB-K*-727, *VS-M*-391, *VS-K*-307, *KS*-166, *MS*-624)
+- पाप (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *AV*-1, *MS*-2)
+- ना᳓सिकाम् (*TS*-3/8, *RV*-0/1, *AV*-1/6, *SB-M*-4/26, *SB-K*-3/27, *VS-M*-0/1, *MS*-1/3)
+- प᳓र्णकः (*MW*, *TB*-0/1, *VS-M*-0/1, *VS-K*-0/1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-493, *TK*-145, *AV*-1417, *SB-M*-3025, *SB-K*-2896, *VS-M*-920, *VS-K*-681, *KS*-655, *MS*-1588)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-251, *TK*-15, *AV*-269, *SB-M*-607, *SB-K*-605, *VS-M*-97, *VS-K*-111, *KS*-42, *MS*-330)
+- मेहताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *AV*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -496,9 +521,34 @@ These flames of Brahmanaspati borne to all quarters in the- wind, Turn them all 
 स॒ध्रीची॑रिन्द्र॒ ताः कृ॒त्वा मह्यं॑ शि॒वत॑मास्कृधि ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(PSK 20.21.4)+++इमा या ब्रह्मणस्पते  
+विषूचीर् वाच ईरते ।  
+सध्रीचीर् इन्द्र ताः कृत्वा  
+मह्यं शिवतमाः कृधि ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 इ॒माः। याः। ब्र॒ह्म॒णः॒। प॒ते॒। विषू॑चीः। वातः॑। ईर॑ते। स॒ध्रीचीः॑। इ॒न्द्रः॒। ताः। कृ॒त्वा। मह्य॑म्। शि॒वऽत॑माः। कृ॒धि॒। ८.६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- इमाः᳓ (*TS*-21/965, *RV*-60/1247, *TB*-5/513, *TK*-1/56, *AV*-50/1259, *SB-M*-201/5242, *SB-K*-253/5669, *VS-M*-13/319, *VS-K*-10/301, *KS*-10/218, *MS*-129/1325)
+- या᳓ (*TS*-96/3401, *RV*-159/4011, *TB*-41/1608, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8331, *SB-K*-228/8549, *VS-M*-37/651, *VS-K*-29/599, *KS*-53/602, *MS*-165/3602)
+- ब्र᳓ह्मणस्पते (*SB-K*-1, *MS*-5)
+- वि᳓षूचीः (*TS*-1/4, *RV*-5/8, *TB*-1/2, *AV*-5/9, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-2, *MS*-4/7)
+- वाचः᳓ (*TS*-37/42, *RV*-22, *TB*-26/27, *AV*-19, *SB-M*-75/85, *SB-K*-65/77, *VS-M*-16/22, *VS-K*-18/29, *KS*-6/7, *MS*-21/30)
+- ई᳓रते (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *MW* ŚBr., *RV*-3, *AV*-1)
+- सध्री᳓चीः (*RV*-6, *TB*-1, *AV*-6/7, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-2, *MS*-1)
+- इ᳓न्द्र (*TS*-19/21, *RV*-226/237, *TB*-12/14, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30, *KS*-4, *MS*-18/21)
+- ताः᳓ (*TS*-136/4765, *RV*-70/3136, *TB*-69/2598, *TK*-54/357, *AV*-100/3165, *SB-M*-692/20461, *SB-K*-664/20301, *VS-M*-20/780, *VS-K*-17/650, *KS*-44/996, *MS*-288/5417)
+- कृत्वा᳓ (*Whitney*, *TS*-40, *TB*-24, *TK*-7, *AV*-43, *SB-M*-141, *SB-K*-153, *VS-M*-4, *VS-K*-4, *KS*-4, *MS*-34)
+- म᳓ह्यम् (*TS*-19/566, *RV*-35/1308, *TB*-6/211, *TK*-0/66, *AV*-47/1252, *SB-M*-16/723, *SB-K*-19/758, *VS-M*-11/315, *VS-K*-8/274, *KS*-13/135, *MS*-23/587)
+- शिव᳓-तमाः (*TS*-0/7, *RV*-1/4, *AV*-2/5, *SB-M*-1, *SB-K*-1, *VS-M*-1/4, *VS-K*-1/4, *KS*-0/1, *MS*-0/6)
+- कृधि᳓ (*Whitney*, *TS*-1, *RV*-24, *AV*-1, *SB-M*-7, *SB-K*-7, *VS-K*-1, *MS*-0/2)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

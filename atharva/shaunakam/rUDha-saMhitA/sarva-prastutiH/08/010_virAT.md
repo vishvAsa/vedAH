@@ -200,7 +200,7 @@ She rose, the Garhapatya fire she entered. He who knows this becomes lord of a h
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/03_gRhamedhI_gRhapatirbhavati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गृ᳙हमेधी᳓ गृह᳓पतिर्भवति य᳓ एवं᳓ वे᳓द ॥
+गृहमेधी᳓ गृह᳓पतिर्भवति य᳓ एवं᳓ वे᳓द ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/03_gRhamedhI_gRhapatirbhavati.md">
@@ -2058,7 +2058,7 @@ She mounted up, she came unto the Serpents. The Serpents called her, Venomous! c
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/30_sodakrAmatsA_manuShyAshanAgachChattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सो᳓दक्रामत्सा᳓ मनुष्या᳓श᳙ना᳓गच्छत्तां᳓ मनुष्या᳙ अघ्नत सा᳓ सद्यः᳓ स᳓मभवत्।
+सो᳓दक्रामत्सा᳓ मनुष्या᳓शना᳓गच्छत्तां᳓ मनुष्या᳙ अघ्नत सा᳓ सद्यः᳓ स᳓मभवत्।
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/30_sodakrAmatsA_manuShyAshanAgachChattAm.md">

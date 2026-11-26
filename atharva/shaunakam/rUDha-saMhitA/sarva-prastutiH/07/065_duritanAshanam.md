@@ -41,7 +41,7 @@ A charm against imprecation and threatened evils
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/065_duritanAshanam/01_pratIchInaphalo_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र᳙तीची᳓नफलो हि᳓ त्व᳓म᳓पामार्ग रुरो᳓हिथ।  
+प्रतीची᳓नफलो हि᳓ त्व᳓म᳓पामार्ग रुरो᳓हिथ।  
 स᳓र्वान्म᳓च्छप᳓थाँ अ᳓धि व᳓रीयो यावया इतः᳓ ॥
 </details>
 </div>

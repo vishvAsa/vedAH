@@ -186,7 +186,7 @@ The four-eyed worm, of every shape, the variegated, and the white I break and cr
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/032_kriminAshanam/03_atrivadvaH_krimayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙त्रिव᳓द्वः क्रिमयो हन्मि कण्वव᳓ज्जमदग्निव᳓त्।  
+अत्रिव᳓द्वः क्रिमयो हन्मि कण्वव᳓ज्जमदग्निव᳓त्।  
 अग᳓स्त्यस्य ब्र᳓ह्मणा सं᳓ पिनष्म्यहं᳓ क्रि᳓मीन् ॥
 </details>
 </div>

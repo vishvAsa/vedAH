@@ -110,7 +110,7 @@ Pushan was born to move on distant pathways, on roads remote from earth, remote 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पूषे᳓मा᳓ आ᳓शा अ᳓नु वेद स᳓र्वाः सो᳓ अस्माँ᳓ अ᳓भयतमेन नेषत्।  
-स्व᳙स्तिदा᳓ आ᳓घृणिः स᳓र्ववीरो᳓ऽप्रयुच्छन्पुर᳓ एतु प्रजान᳓न् ॥
+स्वस्तिदा᳓ आ᳓घृणिः स᳓र्ववीरो᳓ऽप्रयुच्छन्पुर᳓ एतु प्रजान᳓न् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/02_pUShemA_AshA.md">

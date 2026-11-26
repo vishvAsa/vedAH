@@ -41,7 +41,7 @@ A single line giving the names of the chief Vedic metres
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गा᳙यत्र्यु᳙ष्णि᳓गनुष्टु᳓ब्बृहती᳓ पङ्क्ति᳓स्त्रिष्टु᳓ब्ज᳓गत्यै ॥
+गायत्र्यु᳙ष्णि᳓गनुष्टु᳓ब्बृहती᳓ पङ्क्ति᳓स्त्रिष्टु᳓ब्ज᳓गत्यै ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">

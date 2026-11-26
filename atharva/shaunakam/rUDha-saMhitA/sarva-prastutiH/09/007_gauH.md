@@ -517,7 +517,7 @@ Mitra and Varuna are the shoulder-blades. Tvashtar and Arya- man the fore-arms, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/08_indrANI_bhasadvAyuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ᳙न्द्राणी᳓ भस᳓द्वायुः᳓ पु᳓च्छं प᳓वमानो बा᳓लाः ॥
+इन्द्राणी᳓ भस᳓द्वायुः᳓ पु᳓च्छं प᳓वमानो बा᳓लाः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/08_indrANI_bhasadvAyuH.md">
@@ -1034,7 +1034,7 @@ The All-embracing (Aditi) is the hide, the herbs are her hair,. and the Lunar Ma
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/16_devajanA_gudA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे᳙वजना᳓ गु᳓दा मनुष्या᳙ आन्त्रा᳓ण्यत्रा᳓ उद᳓रम् ॥
+देवजना᳓ गु᳓दा मनुष्या᳙ आन्त्रा᳓ण्यत्रा᳓ उद᳓रम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/16_devajanA_gudA.md">

@@ -182,7 +182,7 @@ Agni at dawn, and Indra we invoke at dawn, and Varuna and Mitra, and the Asvins 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/02_prAtarjitaM_bhagamugram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा᳙तर्जि᳓तं भ᳓गमुग्रं᳓ हवामहे वयं᳓ पुत्र᳓म᳓दितेर्यो᳓ विधर्ता᳓।  
+प्रातर्जि᳓तं भ᳓गमुग्रं᳓ हवामहे वयं᳓ पुत्र᳓म᳓दितेर्यो᳓ विधर्ता᳓।  
 आध्र᳓श्चिद्यं᳓ म᳓न्यमानस्तुर᳓श्चिद्रा᳓जा चिद्यं᳓ भ᳓गं भक्षी᳓त्या᳓ह ॥
 </details>
 </div>
@@ -361,6 +361,14 @@ So may felicity be ours at present, and when the Sun advances, and at noontide; 
 उ॒तोदि॑ता मघव॒न्त्सूर्य्य॑स्य व॒यं दे॒वानाँ॑ सुम॒तौ स्या॑म ॥३७ ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+उतेदानीं भगवन्तः स्याम-  
+-उत प्रपित्व उत मध्ये अह्नाम् ।  
+उतोदिते मघवन् सूर्ये  
+वयं देवानां सुमतौ स्याम ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 उ॒त। इ॒दानी॑म्। भग॑ऽवन्तः। स्या॒म॒। उ॒त। प्र॒ऽपि॒त्वे। उ॒त। मध्ये॑। अह्ना॑म्। उ॒त। उत्ऽइ॑तौ। म॒घ॒ऽव॒न्। सूर्य॑स्य। व॒यम्। दे॒वाना॑म्। सु॒ऽम॒तौ। स्या॒म॒। १६.४।
@@ -369,6 +377,27 @@ So may felicity be ours at present, and when the Sun advances, and at noontide; 
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 उ॒त। इ॒दानी॑म्। भग॑वन्त॒ इति॒ भग॑ऽवन्तः। स्या॒म॒। उ॒त। प्र॒पि॒त्व इति॑ प्रऽपि॒त्वे। उ॒त। मध्ये॑। अह्ना॑म्। उ॒त। उदि॒तेत्युत्ऽइ॑ता। म॒घ॒व॒न्निति॑ मघऽवन्। सूर्य्य॑स्य। व॒यम्। दे॒वाना॑म्। सु॒म॒ताविति॑ सुऽम॒तौ। स्या॒म॒। ३७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- उत᳓ (*Whitney*, *Lanman*, *TS*-120, *RV*-701, *TB*-27, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72, *KS*-14, *MS*-105)
+- इदा᳓नीम् (*RV*-5, *TK*-3, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-1, *MS*-4)
+- भ᳓गवन्तः (*RV*-3, *AV*-4, *SB-M*-1/7, *SB-K*-2/8, *VS-M*-2)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-28, *RV*-113, *TB*-4, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-18, *KS*-5, *MS*-25)
+- उत᳓ (*Whitney*, *Lanman*, *TS*-120, *RV*-701, *TB*-27, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72, *KS*-14, *MS*-105)
+- प्र-पित्वे᳓ (*RV*-8/11, *AV*-1, *VS-M*-1)
+- उत᳓ (*Whitney*, *Lanman*, *TS*-120, *RV*-701, *TB*-27, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72, *KS*-14, *MS*-105)
+- म᳓ध्ये (*TS*-30/45, *RV*-30/38, *TB*-6/12, *TK*-3/5, *AV*-15/31, *SB-M*-72/146, *SB-K*-68/143, *VS-M*-12/18, *VS-K*-10/14, *KS*-6/8, *MS*-15/28)
+- अ᳓ह्नाम् (*TS*-11/119, *RV*-28/99, *TB*-0/52, *TK*-0/7, *AV*-8/58, *SB-M*-7/204, *SB-K*-6/221, *VS-M*-2/17, *VS-K*-2/20, *KS*-0/7, *MS*-5/72)
+- उत᳓ (*Whitney*, *Lanman*, *TS*-120, *RV*-701, *TB*-27, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72, *KS*-14, *MS*-105)
+- उ᳓त्-इते (*TS*-0/2, *RV*-10/22, *TB*-6, *AV*-1/3, *SB-M*-1, *SB-K*-9, *VS-M*-1/4, *VS-K*-1/3)
+- म᳓घ-वन् (*TS*-2, *RV*-9, *AV*-2, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- सू᳓र्ये (*TS*-7/109, *RV*-22/337, *TB*-6/55, *TK*-0/8, *AV*-7/173, *SB-M*-8/152, *SB-K*-6/151, *VS-M*-5/38, *VS-K*-3/47, *KS*-2/28, *MS*-4/122)
+- वय᳓म् (*MW*, *TS*-88/566, *RV*-297/1308, *TB*-35/211, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-116/758, *VS-M*-67/315, *VS-K*-53/274, *KS*-18/135, *MS*-105/587)
+- देवा᳓नाम् (*TS*-184/1287, *RV*-188/1354, *TB*-117/527, *TK*-3/31, *AV*-111/708, *SB-M*-296/2035, *SB-K*-296/1952, *VS-M*-64/531, *VS-K*-68/532, *KS*-46/201, *MS*-196/1097)
+- सु-मतौ᳓ (*TS*-10/23, *RV*-13/102, *TB*-2/3, *TK*-1, *AV*-18/35, *SB-M*-3/6, *SB-K*-1/4, *VS-M*-6/14, *VS-K*-3/15, *KS*-2/4, *MS*-8/21)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-28, *RV*-113, *TB*-4, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-18, *KS*-5, *MS*-25)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -536,7 +565,7 @@ May Bhaga verily be bliss-bestower, and through him, Gods! may happiness attend 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स᳓मध्वरा᳓योष᳓सो नमन्त दधिक्रा᳓वेव शु᳓चये पदा᳓य।  
-अ᳙र्वाचीनं᳓ वसुवि᳓दं भ᳓गं मे र᳓थमिवा᳓श्वा वाजि᳓न आ᳓ वहन्तु ॥
+अर्वाचीनं᳓ वसुवि᳓दं भ᳓गं मे र᳓थमिवा᳓श्वा वाजि᳓न आ᳓ वहन्तु ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/06_samadhvarAyoShaso_namanta.md">

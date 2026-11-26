@@ -238,7 +238,7 @@ Where the Gods worshipped Gods with their oblation, worship- ped immortals with 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य᳓त्पु᳓रुषेण हवि᳓षा यज्ञं᳓ देवा᳓ अ᳓तन्वत।  
-अ᳙स्ति नु᳓ त᳓स्मादो᳓जीयो य᳓द्विह᳓व्येनेजिरे᳓ ॥
+अ᳓स्ति नु᳓ त᳓स्मादो᳓जीयो य᳓द्विह᳓व्येनेजिरे᳓ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/04_yatpuruSheNa_haviShA.md">

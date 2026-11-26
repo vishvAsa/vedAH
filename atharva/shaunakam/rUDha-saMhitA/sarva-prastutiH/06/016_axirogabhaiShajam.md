@@ -269,8 +269,8 @@ Go thou to rest, Tauvilika! This noisy cry hath sunk to rest. Go hence, depart, 
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/016_axirogabhaiShajam/04_alasAlAsi_pUrvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙लसा᳓लासि पू᳓र्वा सिला᳓ञ्जालास्यु᳓त्तरा।  
-नी᳙लागलसा᳓ला ॥
+अलसा᳓लासि पू᳓र्वा सिला᳓ञ्जालास्यु᳓त्तरा।  
+नीलागलसा᳓ला ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/016_axirogabhaiShajam/04_alasAlAsi_pUrvA.md">

@@ -41,7 +41,7 @@ A charm to recover a sick man at the point of death
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/01_amutrabhUyAdadhi_yadyamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙मुत्रभू᳓याद᳓धि य᳓द्यम᳓स्य बृ᳓हस्पतेरभि᳓शस्तेर᳓मुञ्चः।  
+अमुत्रभू᳓याद᳓धि य᳓द्यम᳓स्य बृ᳓हस्पतेरभि᳓शस्तेर᳓मुञ्चः।  
 प्र᳓त्यौहतामश्वि᳓ना मृत्यु᳓मस्म᳓द्देवा᳓नामग्ने भिष᳓जा श᳓चीभिः ॥
 </details>
 </div>
@@ -477,7 +477,7 @@ Return, thy life now vanished into distance! Return, the breath thou drawest and
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मे᳓मं᳓ प्राणो᳓ हासीन्मो᳓ अपानो᳙वहा᳓य प᳓रा गात्।  
-स᳙प्तर्षि᳓भ्य एनं प᳓रि ददामि ते᳓ एनं स्वस्ति᳓ जर᳓से वहन्तु ॥
+सप्तर्षि᳓भ्य एनं प᳓रि ददामि ते᳓ एनं स्वस्ति᳓ जर᳓से वहन्तु ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/053_dIrghAyuH/04_memaM_prANo.md">

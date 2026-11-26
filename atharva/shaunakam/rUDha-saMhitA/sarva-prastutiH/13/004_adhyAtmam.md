@@ -235,7 +235,7 @@ Creator and Ordainer, he is Vayu, he is lifted cloud.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/04_soryamA_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सो᳙र्यमा᳓ स᳓ व᳓रुणः स᳓ रुद्रः᳓ स᳓ महादेवः᳓ ॥
+सोर्यमा᳓ स᳓ व᳓रुणः स᳓ रुद्रः᳓ स᳓ महादेवः᳓ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/04_soryamA_sa.md">

@@ -36,7 +36,7 @@ Translated: Zimmer, p. 386 (with comment on the diseases); Griffith, i. 315; Blo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/01_vidradhasya_balAsasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि᳙द्रध᳓स्य बला᳓सस्य लो᳓हितस्य वनस्पते।  
+विद्रध᳓स्य बला᳓सस्य लो᳓हितस्य वनस्पते।  
 विस᳓ल्पकस्योषधे मो᳓च्छिषः पिशितं᳓ चन᳓ ॥
 </details>
 </div>

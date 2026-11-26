@@ -38,7 +38,7 @@ A prose hymn of homage to various portions of the Atharva-vada classed according
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/01_AtharvaNAnA_chaturRchebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ᳙थर्वणा᳓ना चतुरृचे᳓भ्यः स्वा᳓हा ॥
+आथर्वणा᳓ना चतुरृचे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/01_AtharvaNAnA_chaturRchebhyaH.md">
@@ -100,7 +100,7 @@ Hail to the four-verse strophes of the Atharvanas!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/02_pancharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प᳙ञ्चर्चे᳓भ्यः स्वा᳓हा ॥
+पञ्चर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/02_pancharchebhyaH_svAhA.md">
@@ -162,7 +162,7 @@ Hail to the five-versed!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/03_ShaLRchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ष᳙डृचे᳓भ्यः स्वा᳓हा ॥
+षडृचे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/03_ShaLRchebhyaH_svAhA.md">
@@ -232,7 +232,7 @@ Hail to the six-versed!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/04_saptarchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स᳙प्तर्चे᳓भ्यः स्वा᳓हा ॥
+सप्तर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/04_saptarchebhyaH_svAhA.md">
@@ -294,7 +294,7 @@ Hail to the seven-versed!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/05_aShTarchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙ष्टर्चे᳓भ्यः स्वा᳓हा ॥
+अष्टर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/05_aShTarchebhyaH_svAhA.md">
@@ -356,7 +356,7 @@ Hail to the eight-versed!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/06_navarchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न᳙वर्चे᳓भ्यः स्वा᳓हा ॥
+नवर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/06_navarchebhyaH_svAhA.md">
@@ -418,7 +418,7 @@ Hail to the nine-versed!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/07_dasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द᳙शर्चे᳓भ्यः स्वा᳓हा ॥
+दशर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/07_dasharchebhyaH_svAhA.md">
@@ -480,7 +480,7 @@ Hail to the ten-versed!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/08_ekAdasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए᳙कादशर्चे᳓भ्यः स्वा᳓हा ॥
+एकादशर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/08_ekAdasharchebhyaH_svAhA.md">
@@ -542,7 +542,7 @@ Hail to the eleven-versed!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/09_dvAdasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्वा᳙दशर्चे᳓भ्यः स्वा᳓हा ॥
+द्वादशर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/09_dvAdasharchebhyaH_svAhA.md">
@@ -604,7 +604,7 @@ Hail to the twelve-versed!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/10_trayodasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्र᳙योदशर्चे᳓भ्यः स्वा᳓हा ॥
+त्रयोदशर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/10_trayodasharchebhyaH_svAhA.md">
@@ -666,7 +666,7 @@ Hail to the thirteen-versed
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/11_chaturdasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-च᳙तुर्दशर्चे᳓भ्यः स्वा᳓हा ॥
+चतुर्दशर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/11_chaturdasharchebhyaH_svAhA.md">
@@ -728,7 +728,7 @@ Hail to the fourteen-versed!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/12_panchadasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प᳙ञ्चदशर्चे᳓भ्यः स्वा᳓हा ॥
+पञ्चदशर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/12_panchadasharchebhyaH_svAhA.md">
@@ -790,7 +790,7 @@ Hail to the fifteen-versed!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/13_ShoDasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-षो᳙डशर्चे᳓भ्यः स्वा᳓हा ॥
+षोडशर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/13_ShoDasharchebhyaH_svAhA.md">
@@ -852,7 +852,7 @@ Hail to the sixteen-versed!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/14_saptadasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स᳙प्तदशर्चे᳓भ्यः स्वा᳓हा ॥
+सप्तदशर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/14_saptadasharchebhyaH_svAhA.md">
@@ -914,7 +914,7 @@ Hail to the seventeen-versed!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/15_aShTAdasharchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙ष्टादशर्चे᳓भ्यः स्वा᳓हा ॥
+अष्टादशर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/15_aShTAdasharchebhyaH_svAhA.md">
@@ -976,7 +976,7 @@ Hail to the eighteen-versed!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/16_ekonaviMshatiH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए᳙कोनविंशतिः᳓ स्वा᳓हा ॥
+एकोनविंशतिः᳓ स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/16_ekonaviMshatiH_svAhA.md">
@@ -1038,7 +1038,7 @@ Hail, nineteen!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/17_viMshatiH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विं᳙शतिः᳓ स्वा᳓हा ॥
+विंशतिः᳓ स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/17_viMshatiH_svAhA.md">
@@ -1103,7 +1103,7 @@ Hail, twenty!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/18_mahatkANDAya_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म᳙हत्काण्डा᳓य स्वा᳓हा ॥
+महत्काण्डा᳓य स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/18_mahatkANDAya_svAhA.md">
@@ -1237,7 +1237,7 @@ Hail to the triplets!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/20_ekarchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए᳙कर्चे᳓भ्यः स्वा᳓हा ॥
+एकर्चे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/20_ekarchebhyaH_svAhA.md">
@@ -1363,7 +1363,7 @@ Hail to the little ones!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/22_ekAnRchebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए᳙कानृचे᳓भ्यः स्वा᳓हा ॥
+एकानृचे᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/22_ekAnRchebhyaH_svAhA.md">
@@ -1430,7 +1430,7 @@ Hail to the single non-Rich-versed ones!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/23_rohitebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रो᳙हिते᳓भ्यः स्वा᳓हा ॥
+रोहिते᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/23_rohitebhyaH_svAhA.md">
@@ -1627,7 +1627,7 @@ Hail to the two Vratya hymns!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/26_prAjApatyAbhyAM_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा᳙जापत्या᳓भ्यां स्वा᳓हा ॥
+प्राजापत्या᳓भ्यां स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/26_prAjApatyAbhyAM_svAhA.md">
@@ -1697,7 +1697,7 @@ Hail to the two Prajapati hymns!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/27_viShAsahyai_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि᳙षासह्यै᳓ स्वा᳓हा ॥
+विषासह्यै᳓ स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/27_viShAsahyai_svAhA.md">
@@ -1762,7 +1762,7 @@ Hail to the hymn of victory!
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/023_atharvANaH/28_mangalikebhyaH_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म᳙ङ्गलिके᳓भ्यः स्वा᳓हा ॥
+मङ्गलिके᳓भ्यः स्वा᳓हा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/28_mangalikebhyaH_svAhA.md">
@@ -1932,9 +1932,40 @@ Collected manly powers are topped by Brahma. Brahma at first spread out the loft
 भू॒तानां॑ ब्र॒ह्मा प्र॑थ॒मोत ज॑ज्ञे॒ तेना॑र्हति॒ ब्रह्म॑णा॒ स्पर्धि॑तुं॒ कः ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+ब्रह्मज्येष्ठा संभृता वीर्याणि  
+ब्रह्माग्रे ज्येष्ठं दिवम् आ ततान ।  
+भूतानां ब्रह्म प्रथमोत जज्ञे  
+तेनार्हति ब्रह्मणा स्पर्धितुं कः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 ब्रह्म॑ऽज्येष्ठा। सम्ऽभृ॑ता। वी॒र्या᳡णि। ब्रह्म॑। अग्रे॑। ज्येष्ठ॑म्। दिव॑म्। आ। त॒ता॒न॒। भू॒ताना॑म्। ब्र॒ह्मा। प्र॒थ॒मः। उ॒त। ज॒ज्ञे॒। तेन॑। अ॒र्ह॒ति॒। ब्रह्म॒णा। स्पर्धि॑तुम्। कः। २३.३०।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- ब्र᳓ह्म-ज्येष्ठा (*TB*-1, *AV*-2)
+- स᳓म्-भृता (*TS*-1/5, *RV*-3/13, *TB*-1/2, *AV*-4/17, *SB-M*-1/21, *SB-K*-9/28, *VS-M*-0/6, *VS-K*-0/3, *KS*-1, *MS*-1/3)
+- वीर्या᳙णि (*TS*-4, *RV*-13, *TB*-2, *AV*-31, *SB-M*-14, *SB-K*-9, *VS-M*-2, *VS-K*-2, *KS*-3, *MS*-15)
+- ब्र᳓ह्म (*TS*-70/157, *RV*-96/237, *TB*-33/84, *TK*-11/38, *AV*-133/266, *SB-M*-286/420, *SB-K*-306/455, *VS-M*-28/55, *VS-K*-23/51, *KS*-17/34, *MS*-113/227)
+- अ᳓ग्रे (*TS*-48/78, *RV*-42/68, *TB*-30/43, *TK*-2, *AV*-46/64, *SB-M*-282/346, *SB-K*-259/329, *VS-M*-19/27, *VS-K*-17/24, *KS*-4, *MS*-73/121)
+- ज्ये᳓ष्ठम् (*TS*-1/4, *RV*-20/38, *TB*-1, *AV*-6/10, *SB-M*-4/11, *SB-K*-4/11, *VS-M*-1, *VS-K*-1, *MS*-1/3)
+- दि᳓वम् (*MW* ŚBr., *TS*-44/265, *RV*-37/844, *TB*-17/91, *TK*-4/13, *AV*-63/334, *SB-M*-81/350, *SB-K*-79/339, *VS-M*-28/162, *VS-K*-27/170, *KS*-4/64, *MS*-42/273)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-564, *TK*-33, *AV*-1040, *SB-M*-2160, *SB-K*-2144, *VS-M*-464, *VS-K*-414, *KS*-194, *MS*-1207)
+- ततान (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-11, *TB*-1, *AV*-4, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1, *MS*-2)
+- भूता᳓नाम् (*TS*-5/69, *RV*-2/22, *TB*-3/28, *TK*-1/37, *AV*-6/78, *SB-M*-47/305, *SB-K*-49/300, *VS-M*-4/28, *VS-K*-5/26, *KS*-1/11, *MS*-4/70)
+- ब्र᳓ह्म (*TS*-70/157, *RV*-96/237, *TB*-33/84, *TK*-11/38, *AV*-133/266, *SB-M*-286/420, *SB-K*-306/455, *VS-M*-28/55, *VS-K*-23/51, *KS*-17/34, *MS*-113/227)
+- प्रथमा᳓ (*TS*-12/95, *RV*-29/170, *TB*-6/31, *TK*-6/7, *AV*-15/109, *SB-M*-47/287, *SB-K*-44/274, *VS-M*-7/38, *VS-K*-9/39, *KS*-5/13, *MS*-14/98)
+- उत᳓ (*Whitney*, *Lanman*, *TS*-120, *RV*-701, *TB*-27, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72, *KS*-14, *MS*-105)
+- जज्ञे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-11, *TB*-2, *TK*-1, *AV*-11, *SB-M*-12, *SB-K*-4, *VS-M*-3, *VS-K*-3, *KS*-1, *MS*-4)
+- ते᳓न (*TS*-295/4765, *RV*-62/3136, *TB*-161/2598, *TK*-17/357, *AV*-217/3165, *SB-M*-616/20461, *SB-K*-687/20301, *VS-M*-35/780, *VS-K*-31/650, *KS*-69/996, *MS*-485/5417)
+- अर्हति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-2, *TB*-3, *AV*-5, *SB-M*-20, *SB-K*-18, *KS*-3, *MS*-3)
+- ब्र᳓ह्मणा (*TS*-63/157, *RV*-31/237, *TB*-35/84, *TK*-8/38, *AV*-82/266, *SB-M*-62/420, *SB-K*-56/455, *VS-M*-10/55, *VS-K*-7/51, *KS*-10/34, *MS*-58/227)
+- स्प᳓र्धितुम् (*Whitney*, *Lanman*, *TB*-1, *AV*-2)
+- कः᳓ (*TS*-36/158, *RV*-155/375, *TB*-23/91, *TK*-4/20, *AV*-95/216, *SB-M*-108/890, *SB-K*-104/859, *VS-M*-30/98, *VS-K*-22/86, *KS*-8/22, *MS*-38/175)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

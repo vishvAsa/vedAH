@@ -104,7 +104,7 @@ We know the father of the shaft, Parjanya, liberal nourisher, Know well his moth
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/02_jyAke_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज्या᳙के प᳓रि णो नमा᳓श्मानं तन्वं᳓ कृ᳓धि᳓।  
+ज्या᳓के प᳓रि णो नमा᳓श्मानं तन्वं᳓ कृ᳓धि᳓।  
 वीडु᳓र्व᳓रीयो᳓ ऽरातीर᳓प द्वे᳓षांस्या᳓ कृधि ॥
 </details>
 </div>

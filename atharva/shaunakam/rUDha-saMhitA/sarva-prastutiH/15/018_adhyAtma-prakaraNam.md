@@ -228,7 +228,7 @@ His right ear is Agni and his left ear is Pavamana.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/04_ahorAtrenAsike_ditishchAditishcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙होरात्रे᳓ना᳓सिके दि᳓तिश्चा᳓दितिश्च शीर्षकपाले᳓ संवत्सरः᳓ शि᳓रः ॥
+अहोरात्रे᳓ना᳓सिके दि᳓तिश्चा᳓दितिश्च शीर्षकपाले᳓ संवत्सरः᳓ शि᳓रः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/018_adhyAtma-prakaraNam/04_ahorAtrenAsike_ditishchAditishcha.md">

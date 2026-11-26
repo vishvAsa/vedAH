@@ -111,7 +111,7 @@ Here may we dwell, O Heaven and Earth, in safety. May Savitar and Soma send us s
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अस्मै᳓ ग्रा᳓माय प्रदि᳓शश्च᳓तस्र ऊ᳓र्जं सुभूतं᳓ स्वस्ति᳓ सविता᳓ नः कृणोतु।  
-अ᳙शत्र्वि᳓न्द्रो अ᳓भयं नः कृणोत्वन्य᳓त्र रा᳓ज्ञामभि᳓ यातु मन्युः᳓ ॥
+अशत्र्वि᳓न्द्रो अ᳓भयं नः कृणोत्वन्य᳓त्र रा᳓ज्ञामभि᳓ यातु मन्युः᳓ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/040_abhayam/02_asmai_grAmAya.md">
@@ -179,7 +179,7 @@ May the Four Quarters give this hamlet power: Savitar favour us and make us happ
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/040_abhayam/03_anamitraM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙नमित्रं᳓ नो अधरा᳓दनमित्रं᳓ न उत्तरा᳓त्।  
+अनमित्रं᳓ नो अधरा᳓दनमित्रं᳓ न उत्तरा᳓त्।  
 इ᳓न्द्रानमित्रं᳓ नः पश्चा᳓दनमित्रं᳓ पुर᳓स्कृधि ॥
 </details>
 </div>

@@ -130,7 +130,7 @@ We who enjoying it have grown no richer, for whom the sacred altar-fires have so
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यज्ञ᳓पतिमृ᳓षयः ए᳓नसाहुर्नि᳓र्भक्तं प्रजा᳓ अनुतप्य᳓मानम्।  
-म᳙थव्या᳙न्त्स्तोका᳓न᳓प या᳓न्ररा᳓ध सं᳓ नष्टे᳓भिः सृजतु विश्व᳓कर्मा ॥
+मथव्या᳙न्त्स्तोका᳓न᳓प या᳓न्ररा᳓ध सं᳓ नष्टे᳓भिः सृजतु विश्व᳓कर्मा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/02_yajnapatimRShayaH_enasAhurnirbhaktam.md">
@@ -218,7 +218,7 @@ Rishis have called the sacrifice's patron amerced through sin, sorrowing for his
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/03_adAnyAntsomapAnmanyamAno_yajnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙दान्या᳓न्त्सोमपा᳓न्म᳓न्यमानो यज्ञ᳓स्य विद्वा᳓न्त्समये᳓ न᳓ धी᳓रः।  
+अदान्या᳓न्त्सोमपा᳓न्म᳓न्यमानो यज्ञ᳓स्य विद्वा᳓न्त्समये᳓ न᳓ धी᳓रः।  
 य᳓दे᳓नश्चकृवा᳓न्बद्ध᳓ एष᳓ तं᳓ विश्वकर्मन्प्र᳓ मुञ्चा स्वस्त᳓ये ॥
 </details>
 </div>

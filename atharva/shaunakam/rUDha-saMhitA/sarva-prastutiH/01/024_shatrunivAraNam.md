@@ -41,7 +41,7 @@ A charm against leprosy
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/01_suparNo_jAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु᳙पर्णो᳓ जातः᳓ प्रथम᳓स्त᳓स्य त्वं᳓ पित्त᳓मासिथ।  
+सुपर्णो᳓ जातः᳓ प्रथम᳓स्त᳓स्य त्वं᳓ पित्त᳓मासिथ।  
 त᳓दासुरी᳓ युधा᳓ जिता᳓ रूपं᳓ चक्रे व᳓नस्प᳓तीन् ॥
 </details>
 </div>
@@ -77,9 +77,35 @@ First, before all, the strong-winged Bird was born;; thou wast the gall thereof.
 तदा॑सु॒री यु॒धा जि॒ता रू॒पं च॑क्रे॒ वन॒स्पती॑न् ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+सुपर्णो जातः प्रथमस्  
+तस्य त्वं पित्तम् आसिथ ।  
+तद् आसुरी युधा जीता  
+रूपं चक्रे वनस्पतीन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सु॒ऽप॒र्णः। जा॒तः। प्र॒थ॒मः। तस्य॑। त्वम्। पि॒त्तम्। आ॒सि॒थ॒। तत्। आ॒सु॒री। यु॒धा। जि॒ता। रू॒पम्। च॒क्रे॒। वन॒स्पती॑न्।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- सु-पर्णः᳓ (*TS*-12/17, *RV*-17/29, *TB*-0/1, *AV*-13/33, *SB-M*-16/21, *SB-K*-16/22, *VS-M*-8/11, *VS-K*-6/10, *KS*-2, *MS*-11/15)
+- जातः᳓ (*TS*-24/65, *RV*-53/144, *TB*-2/14, *TK*-0/4, *AV*-30/95, *SB-M*-39/84, *SB-K*-39/82, *VS-M*-22/37, *VS-K*-21/37, *KS*-1/5, *MS*-22/52)
+- प्रथमः᳓ (*TS*-28/95, *RV*-50/170, *TB*-7/31, *TK*-0/7, *AV*-43/109, *SB-M*-58/287, *SB-K*-51/274, *VS-M*-18/38, *VS-K*-16/39, *KS*-3/13, *MS*-33/98)
+- त᳓स्य (*TS*-178/4765, *RV*-88/3136, *TB*-82/2598, *TK*-21/357, *AV*-124/3165, *SB-M*-739/20461, *SB-K*-744/20301, *VS-M*-30/780, *VS-K*-28/650, *KS*-56/996, *MS*-222/5417)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-67/114, *TK*-5/31, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180, *KS*-30/65, *MS*-203/339)
+- पित्त᳓म् (*TS*-1/2, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2/3, *VS-K*-2/3, *KS*-1, *MS*-2/3)
+- आसिथ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *AV*-1, *SB-M*-1, *SB-K*-1)
+- त᳓त् (*TS*-687/4765, *RV*-552/3136, *TB*-591/2598, *TK*-43/357, *AV*-391/3165, *SB-M*-6430/20461, *SB-K*-6142/20301, *VS-M*-120/780, *VS-K*-90/650, *KS*-122/996, *MS*-1115/5417)
+- आसुरी᳓ (*TS*-1, *AV*-2/3, *SB-M*-1/3, *SB-K*-0/4, *VS-M*-1, *VS-K*-1, *MS*-3)
+- युधा᳓ (*TS*-2, *RV*-19, *AV*-7, *VS-M*-1, *VS-K*-1, *MS*-3)
+- जीता᳓ (*MW*, *Macdonell*)
+- रूप᳓म् (*TS*-83/144, *RV*-18/37, *TB*-51/78, *TK*-3, *AV*-15/46, *SB-M*-320/480, *SB-K*-306/466, *VS-M*-30/43, *VS-K*-26/41, *KS*-2/8, *MS*-79/136)
+- चक्रे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-21, *AV*-10, *SB-M*-31, *SB-K*-22, *VS-M*-2, *VS-K*-2)
+- व᳓नस्प᳓तीन् (*TS*-7, *RV*-11, *TB*-2, *AV*-13, *SB-M*-9, *SB-K*-10, *VS-M*-2, *VS-K*-2, *MS*-8)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -116,7 +142,7 @@ First, before all, the strong-winged Bird was born;; thou wast the gall thereof.
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/02_AsurI_chakre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ᳙सुरी᳓ चक्रे प्रथमे᳓दं᳓ किलासभेषज᳓मिदं᳓ किलासना᳓शनम्।  
+आसुरी᳓ चक्रे प्रथमे᳓दं᳓ किलासभेषज᳓मिदं᳓ किलासना᳓शनम्।  
 अ᳓नीनशत्किला᳓सं स᳓रूपामकरत्त्व᳓चम् ॥
 </details>
 </div>
@@ -185,7 +211,7 @@ The Asuri made, first of all, this medicine for leprosy, this banisher of lepros
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स᳓रूपा ना᳓म ते माता᳓ स᳓रूपो ना᳓म ते पिता᳓।  
-स᳙रूपकृ᳓त्त्व᳓मोषधे सा᳓ स᳓रूपमिदं᳓ कृधि ॥
+सरूपकृ᳓त्त्व᳓मोषधे सा᳓ स᳓रूपमिदं᳓ कृधि ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/03_sarUpA_nAma.md">

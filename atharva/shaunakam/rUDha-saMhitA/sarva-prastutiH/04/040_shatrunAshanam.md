@@ -266,7 +266,7 @@ Jatavedas, northward sacrificers as foes assail us from the northern quarter. Fo
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/05_yedhastAjjuhvati_jAtavedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये᳙ध᳓स्ताज्जु᳓ह्वति जातवेदो ध्रुवा᳓या दिशो᳓ऽभिदा᳓सन्त्यस्मा᳓न्।  
+येध᳓स्ताज्जु᳓ह्वति जातवेदो ध्रुवा᳓या दिशो᳓ऽभिदा᳓सन्त्यस्मा᳓न्।  
 भू᳓मिमृत्वा᳓ ते᳓ प᳓राञ्चो व्यथन्तां प्रत्य᳓गेनान्प्रतिसरे᳓ण हन्मि ॥
 </details>
 </div>

@@ -41,8 +41,8 @@ A prayer for security from danger
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/016_abhayam/01_asapatnaM_purastAtpashchAnno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ᳙सपत्नं᳓ पुर᳓स्तात्पश्चा᳓न्नो अ᳓भयं कृतम्।  
-स᳙विता᳓ मा दक्षिणत᳓ उत्तरा᳓न्मा शचीप᳓तिः ॥
+असपत्नं᳓ पुर᳓स्तात्पश्चा᳓न्नो अ᳓भयं कृतम्।  
+सविता᳓ मा दक्षिणत᳓ उत्तरा᳓न्मा शचीप᳓तिः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/016_abhayam/01_asapatnaM_purastAtpashchAnno.md">
@@ -118,8 +118,8 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दिवो᳓ मादित्या᳓ रक्षन्तु भू᳓म्या रक्षन्त्वग्न᳓यः।  
-इ᳙न्द्राग्नी᳓ रक्षतां मा पुर᳓स्तादश्वि᳓नावभि᳓तः श᳓र्म यच्छताम्।  
-ति᳙रश्ची᳓नघ्न्या᳓ रक्षतु जात᳓वेदा भूतकृ᳓तो मे सर्व᳓तः सन्तु व᳓र्म ॥
+इन्द्राग्नी᳓ रक्षतां मा पुर᳓स्तादश्वि᳓नावभि᳓तः श᳓र्म यच्छताम्।  
+तिरश्ची᳓नघ्न्या᳓ रक्षतु जात᳓वेदा भूतकृ᳓तो मे सर्व᳓तः सन्तु व᳓र्म ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/016_abhayam/02_divo_mAdityA.md">

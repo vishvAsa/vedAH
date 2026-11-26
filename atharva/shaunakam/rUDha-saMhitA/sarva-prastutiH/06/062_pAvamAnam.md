@@ -41,7 +41,7 @@ A prayer for purification and riches
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/01_vaishvAnaro_rashmibhirnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै᳙श्वानरो᳓ रश्मि᳓भिर्नः पुनातु वा᳓तः प्राणे᳓नेषिरो᳓ न᳓भोभिः।  
+वैश्वानरो᳓ रश्मि᳓भिर्नः पुनातु वा᳓तः प्राणे᳓नेषिरो᳓ न᳓भोभिः।  
 द्या᳓वापृथिवी᳓ प᳓यसा प᳓यस्वती ऋता᳓वरी यज्ञिये नः पुनीताम् ॥
 </details>
 </div>
@@ -72,9 +72,40 @@ Cleanse us Vaisvanara with rays of splendour! With breath and clouds let quicken
 द्यावा॑पृथि॒वी पय॑सा॒ पय॑स्वती ऋ॒ताव॑री यज्ञिये नः पुनीताम् ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+वैश्वानरो रश्मिभिर् नः पुनातु  
+वातः प्राणेनेषिरो नमोभिः ।  
+द्यावापृथिवी पयसा पयस्वती  
+ऋतावरी यज्ञिये मा पुनीताम् ॥  
+वैश्वानरो रश्मिभिर् नः पुनातु  
+वातः प्राणेनेषिरो नभोभिः ।  
+द्यावापृथिवी पयसा पयस्वती  
+ऋतावरी यज्ञिये मा पुनीताम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 वै॒श्वा॒न॒रः। र॒श्मिऽभिः॑। नः॒। पु॒ना॒तु॒। वातः॑। प्रा॒णेन॑। इ॒षि॒रः। नभः॑ऽभिः। द्यावा॑पृथि॒वी इति॑। पय॑सा। पय॑स्वती॒ इति॑। ऋ॒तव॑री॒ इत्यृ॒तऽव॑री। य॒ज्ञिये॒ इति॑। नः॒। पु॒नी॒ता॒म्। ६२.१।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- वैश्वानरः᳓ (*TS*-40/104, *RV*-20/42, *TB*-7/20, *TK*-2/3, *AV*-14/31, *SB-M*-61/147, *SB-K*-55/140, *VS-M*-10/36, *VS-K*-8/33, *KS*-5/16, *MS*-54/110)
+- रश्मि᳓भिः (*TS*-11/30, *RV*-36/69, *TB*-4/9, *TK*-1, *AV*-12/24, *SB-M*-15/73, *SB-K*-14/71, *VS-M*-8/23, *VS-K*-7/24, *KS*-4/7, *MS*-9/40)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-140, *TK*-10, *AV*-1014, *SB-M*-518, *SB-K*-545, *VS-M*-441, *VS-K*-377, *KS*-115, *MS*-537)
+- पुनातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-10, *RV*-1, *TB*-2, *AV*-5, *SB-M*-11, *SB-K*-8, *VS-M*-10, *VS-K*-10, *KS*-3, *MS*-13)
+- वा᳓तः (*TS*-27/52, *RV*-36/81, *TB*-9/15, *AV*-46/83, *SB-M*-31/72, *SB-K*-32/74, *VS-M*-12/31, *VS-K*-13/31, *KS*-5/13, *MS*-20/53)
+- प्राणे᳓न (*TS*-4, *AV*-21, *SB-M*-60, *SB-K*-66, *VS-M*-4, *VS-K*-2, *MS*-13)
+- इषिरः᳓ (*TS*-1, *RV*-5/20, *TB*-2, *AV*-3/7, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1, *MS*-3)
+- न᳓मोभिः (*TS*-3/316, *RV*-45/182, *TB*-1/48, *TK*-0/3, *AV*-4/248, *SB-M*-3/105, *SB-K*-2/102, *VS-M*-4/244, *VS-K*-3/168, *KS*-0/267, *MS*-7/268)
+- द्या᳓वा-पृथिवी᳓ (*TS*-43/52, *RV*-65, *TB*-21/24, *AV*-63/68, *SB-M*-64/88, *SB-K*-44/65, *VS-M*-37/46, *VS-K*-29/37, *KS*-10/11, *MS*-59/65)
+- प᳓यसा (*TS*-18/63, *RV*-29/97, *TB*-14/66, *AV*-22/64, *SB-M*-32/133, *SB-K*-31/139, *VS-M*-14/55, *VS-K*-13/43, *KS*-4/27, *MS*-30/130)
+- प᳓यस्वती (*TS*-4/8, *RV*-3/4, *TB*-3/5, *AV*-7/16, *SB-M*-3, *SB-K*-3, *VS-M*-3/4, *VS-K*-3/4, *KS*-1, *MS*-2/4)
+- ऋत᳓-वरी (*TS*-2, *RV*-10/12, *AV*-1, *SB-K*-1, *MS*-2)
+- यज्ञि᳓ये (*TS*-1/44, *RV*-2/96, *TB*-1/21, *AV*-1/39, *SB-M*-1/54, *SB-K*-1/50, *VS-M*-0/16, *VS-K*-0/12, *KS*-3/14, *MS*-4/51)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *TB*-70, *TK*-12, *AV*-302, *SB-M*-252, *SB-K*-265, *VS-M*-69, *VS-K*-60, *KS*-30, *MS*-186)
+- पुनीताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *AV*-1, *MS*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -111,7 +142,7 @@ Cleanse us Vaisvanara with rays of splendour! With breath and clouds let quicken
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/02_vaishvAnarIM_sUnRtAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै᳙श्वानरीं᳓ सूनृ᳓तामा᳓ रभध्वं य᳓स्या आ᳓शास्तन्वो᳙ वीत᳓पृष्ठाः।  
+वैश्वानरीं᳓ सूनृ᳓तामा᳓ रभध्वं य᳓स्या आ᳓शास्तन्वो᳙ वीत᳓पृष्ठाः।  
 त᳓या गृण᳓न्तः सधमा᳓देषु वयं᳓ स्याम प᳓तयो रयीणा᳓म् ॥
 </details>
 </div>
@@ -189,7 +220,7 @@ Lay hold on Sunrita whose forms and regions have fair smooth backs, her who is a
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/03_vaishvAnarIM_varchasa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै᳙श्वानरीं᳓ व᳓र्चस आ᳓ रभध्वं शुद्धा᳓ भ᳓वन्तः शु᳓चयः पावकाः᳓।  
+वैश्वानरीं᳓ व᳓र्चस आ᳓ रभध्वं शुद्धा᳓ भ᳓वन्तः शु᳓चयः पावकाः᳓।  
 इहे᳓डया सधमा᳓दं म᳓दन्तो ज्यो᳓क्पश्येम सू᳓र्यमुच्च᳓रन्तम् ॥
 </details>
 </div>

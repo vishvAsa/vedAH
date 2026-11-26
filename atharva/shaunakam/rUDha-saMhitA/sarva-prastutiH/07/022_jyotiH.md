@@ -112,7 +112,7 @@ Unto a thousand sages he hath given sight: thought, light is he in ranging all.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रध्नः᳓ समी᳓चीरुष᳓सः स᳓मैरयन्।  
-अ᳙रेप᳓सः स᳓चेतसः स्व᳓सरे मन्युम᳓त्तमाश्चिते᳓ गोः᳓ ॥
+अरेप᳓सः स᳓चेतसः स्व᳓सरे मन्युम᳓त्तमाश्चिते᳓ गोः᳓ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/022_jyotiH/02_bradhnaH_samIchIruShasaH.md">

@@ -42,7 +42,7 @@ A charm against evil dreams
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो᳓ न᳓ जीवो᳓ऽसि न᳓ मृतो᳓ देवा᳓नाममृतगर्भो᳙ऽसि स्वप्न।  
-व᳙रुणानी᳓ ते माता᳓ यमः᳓ पिता᳓र᳓रुर्ना᳓मासि ॥
+वरुणानी᳓ ते माता᳓ यमः᳓ पिता᳓र᳓रुर्ना᳓मासि ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/046_duHShvapnanAshanam/01_yo_na.md">

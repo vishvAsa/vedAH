@@ -112,7 +112,7 @@ Endowed with true strength, let the Bull, Agni Vaisvanara, burn them up. Him who
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो᳓ नो दिप्स᳓द᳓दिप्सतो दि᳓प्सतो य᳓श्च दि᳓प्सति।  
-वै᳙श्वानर᳓स्य दं᳓ष्ट्रयोरग्ने᳓र᳓पि दधामि त᳓म् ॥
+वैश्वानर᳓स्य दं᳓ष्ट्रयोरग्ने᳓र᳓पि दधामि त᳓म् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/02_yo_no.md">
@@ -476,7 +476,7 @@ I trouble the Pisachas as the tiger plagues men rich in kine. They, even as dogs
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न᳓ पिशाचैः᳓ सं᳓ शक्नोमि न᳓ स्तेनै᳓र्न᳓ वनर्गु᳓भिः।  
-पि᳙शाचा᳓स्त᳓स्मान्नश्यन्ति य᳓महं᳓ ग्रा᳓ममाविशे᳓ ॥
+पिशाचा᳓स्त᳓स्मान्नश्यन्ति य᳓महं᳓ ग्रा᳓ममाविशे᳓ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/07_na_pishAchaiH.md">
@@ -544,7 +544,7 @@ Naught with Pisachas can I do, with thieves, with roamers of the wood. Pisachas 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यं᳓ ग्रा᳓ममाविश᳓त इद᳓मुग्रं᳓ स᳓हो म᳓म।  
-पि᳙शाचा᳓स्त᳓स्मान्नश्यन्ति न᳓ पाप᳓मु᳓प जानते ॥
+पिशाचा᳓स्त᳓स्मान्नश्यन्ति न᳓ पाप᳓मु᳓प जानते ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/08_yaM_grAmamAvishata.md">

@@ -41,7 +41,7 @@ A charm against Consumption
 <div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/085_yaxmanAshanam/01_varaNo_vArayAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व᳙रणो᳓ वारयाता अयं᳓ देवो᳓ व᳓नस्प᳓तिः।  
+वरणो᳓ वारयाता अयं᳓ देवो᳓ व᳓नस्प᳓तिः।  
 य᳓क्ष्मो यो᳓ अस्मि᳓न्ना᳓विष्टस्त᳓मु देवा᳓ अवीवरन् ॥
 </details>
 </div>
