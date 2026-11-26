@@ -133,6 +133,11 @@ This verse is again, without variation, RV. x. 17. 5 (also MS. iv. 14.
 Pushan knows all these realms: may he conduct us by ways that are most free from fear and danger. Giver of blessings, glowing, all heroic, may he the wise and watchful go before us.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Giver of well-being, glowing, having all heroic men, not negligent, let him go before, knowing well.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 पू॒षेमा आशा॒ अनु॑ वेद॒ सर्वाः॒ सो अ॒स्माँ अभ॑यतमेन नेषत्।  
@@ -147,9 +152,35 @@ Pushan knows all these realms: may he conduct us by ways that are most free from
 अप्र॑युच्छन्पु॒र ए॑तु॒ प्रजा॒नन् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+पूषे᳓मा᳓ आ᳓शा अ᳓नुवेद स᳓र्वाः सो᳓ अस्मं᳓ अ᳓भयतमेन मेषत्  
+स्वस्तिदा᳓ आ᳓घृणिः स᳓र्ववीरो᳓ ऽप्रयुछन् पुर᳓ एतु प्रजान᳓न्
+</details>
+
 <details><summary>पदपाठः</summary>
 
 पू॒षा। इ॒माः। आशाः॑। अनु॑। वे॒द॒। सर्वाः॑। सः। अ॒स्मान्। अ॑भयऽतमेन। ने॒ष॒त्। स्व॒स्ति॒ऽदाः। आघृ॑णिः। सर्व॑ऽवीरः। अप्र॑ऽयुच्छन्। पु॒रः। ए॒तु॒। प्र॒ऽजा॒नन्। १०.२।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- पूषा᳓ (*TS*-36/70, *RV*-53/86, *TB*-21/35, *TK*-1, *AV*-19/24, *SB-M*-45/84, *SB-K*-46/85, *VS-M*-15/51, *VS-K*-15/47, *KS*-16/32)
+- इमाः᳓ (*TS*-21/965, *RV*-60/1247, *TB*-8/567, *TK*-1/57, *AV*-50/1259, *SB-M*-201/5239, *SB-K*-253/5549, *VS-M*-13/313, *VS-K*-10/289, *KS*-20/319)
+- आ᳓शाः (*TS*-9/12, *RV*-7/8, *TB*-3/6, *TK*-2/5, *AV*-9/15, *SB-M*-1/14, *SB-K*-4/12, *VS-M*-8/10, *VS-K*-6/13, *KS*-2/6)
+- अ᳓नु-वेद (मूल-पाठः)
+- स᳓र्वाः (*TS*-51/287, *RV*-12/68, *TB*-34/159, *TK*-58/114, *AV*-67/444, *SB-M*-143/2265, *SB-K*-143/2224, *VS-M*-13/55, *VS-K*-12/42, *KS*-11/43)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-91/624, *KS*-225/1225)
+- अस्म᳓म् (*TS*-0/108, *RV*-0/335, *TB*-0/39, *TK*-0/4, *AV*-0/167, *SB-M*-0/177, *SB-K*-0/186, *VS-M*-0/69, *VS-K*-1/72, *KS*-0/53)
+- अ᳓भय-तमेन (*RV*-1, *AV*-1)
+- मेषत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- स्वस्ति-दाः᳓ (*RV*-3, *AV*-3)
+- आ᳓घृणिः (*RV*-2, *AV*-1)
+- स᳓र्व-वीरः (*TS*-1/3, *RV*-3/13, *TB*-0/1, *AV*-1/16, *SB-M*-1/3, *SB-K*-1, *VS-M*-1/5, *VS-K*-1/3, *KS*-0/3)
+- अ᳓-प्रयुछन् (*SB-M*-2)
+- पुरः᳓ (*TS*-18, *RV*-52, *TB*-2, *AV*-26, *SB-M*-31, *SB-K*-33, *VS-M*-13, *VS-K*-12, *KS*-12)
+- एतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-26, *RV*-51, *TB*-15, *AV*-76, *SB-M*-17, *SB-K*-16, *VS-M*-17, *VS-K*-10, *KS*-8)
+- प्र-जान᳓न् (*TS*-8, *RV*-14, *TB*-4, *AV*-15, *SB-M*-4, *SB-K*-3, *VS-M*-6, *VS-K*-4, *KS*-3)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

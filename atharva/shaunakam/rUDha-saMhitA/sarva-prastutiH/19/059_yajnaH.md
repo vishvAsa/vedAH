@@ -82,10 +82,22 @@ God among mortals, Agni, thou art guard of holy Law, thou art To be adored in sa
 Thou, Agni, art the guardian God of sacred vows among mankind, thou meet for praise at holy rites.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You, O Agni, are the vow-protector among gods and among mortals;  
+you are to be praised at sacrifices.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा।  
 त्वं य॒ज्ञेष्वीड्यः॑ ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+त्वमग्रे व्रतपा असि देव आ मर्त्येष्वा।  
+त्वं यज्ञेष्वीड्यः
 </details>
 
 <details><summary>पदपाठः</summary>

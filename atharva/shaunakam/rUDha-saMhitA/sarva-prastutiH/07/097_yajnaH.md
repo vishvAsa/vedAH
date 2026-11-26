@@ -151,15 +151,51 @@ reading (with the other texts) *bráhmaṇā* in **c**.
 With kine connect us, and with spirit, Indra! Lord of Bay Steeds, with princes and with favour, With the God-destined portion of the Brahmans, and the good-will of Gods who merit worship.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Together with the mind, O Indra, lead us with cattle; together with patrons, O lord of the bays, together with well-being;  
+together with the sacred utterance, whatever is wrought by the gods, together in the favor of the gods worthy of sacrifice.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 समि॑न्द्र नो॒ मन॑सा नेष॒ गोभिः॒ सं सू॒रिभि॑र्हरिव॒न्त्सं स्व॒स्त्या।  
 सं ब्रह्म॑णा दे॒वहि॑तं॒ यदस्ति॒ सं दे॒वानां॑ सुम॒तौ य॒ज्ञिया॑नाम् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+स᳓म् इन्द्र नो म᳓नसा नेषि गो᳓भिः सँ᳓ सूरि᳓भिर् हरिवः सँ᳓ स्वस्त्या᳓  
+सं᳓ ब्र᳓ह्मणा देव᳓कृतँ य᳓द् अ᳓स्ति सं᳓ देवा᳓नाँ सुमतौ᳓ यज्ञि᳓यानाम्
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सम्। इ॒न्द्र॒। नः॒। मन॑सा। ने॒ष॒। गोभिः॑। सम्। सू॒रिऽभिः॑। ह॒रि॒ऽव॒न्। सम्। स्व॒स्त्या। सम्। ब्रह्म॑णा। दे॒वऽहि॑तम्। यत्। अस्ति॑। सम्। दे॒वाना॑म्। सु॒ऽम॒तौ। य॒ज्ञिया॑नाम्। १०२.२।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-22, *KS*-28)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- म᳓नसा (*TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78, *KS*-19/50)
+- नेषि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-3, *RV*-6, *TB*-4, *AV*-2, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-1, *KS*-1)
+- गो᳓भिः (*TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/66, *VS-K*-6/64, *KS*-2/37)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- सूरि᳓भिः (*TS*-1/8, *RV*-14/111, *TB*-1/3, *AV*-2/17, *SB-M*-1/5, *SB-K*-1/3, *VS-M*-1/7, *VS-K*-1/8, *KS*-1/7)
+- हरिवः (*TS*-4, *RV*-44, *TB*-1, *AV*-5, *VS-M*-3, *VS-K*-1, *KS*-2)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- स्वस्त्या᳓ (*TS*-4, *TB*-1, *AV*-2/3, *SB-M*-4, *SB-K*-4, *VS-K*-2, *KS*-2)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- ब्र᳓ह्मणा (*TS*-63/157, *RV*-31/237, *TB*-40/95, *TK*-8/38, *AV*-82/266, *SB-M*-62/420, *SB-K*-56/434, *VS-M*-10/55, *VS-K*-7/51, *KS*-15/53)
+- देव᳓-कृतम् (*TS*-4/5, *RV*-3/4, *TB*-3, *AV*-1/6, *SB-M*-8/9, *SB-K*-7/11, *VS-M*-4/5, *VS-K*-3, *KS*-2)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- अ᳓स्ति (*TS*-18/21, *RV*-89/130, *TB*-13/14, *TK*-1, *AV*-21/37, *SB-M*-51/66, *SB-K*-62/81, *VS-M*-0/6, *VS-K*-4/9, *KS*-7/10)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- देवा᳓नाम् (*TS*-184/1287, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/520, *VS-K*-63/507, *KS*-67/317)
+- सु-मतौ᳓ (*TS*-10/23, *RV*-13/102, *TB*-4/8, *TK*-1, *AV*-18/35, *SB-M*-3/6, *SB-K*-1/4, *VS-M*-6/14, *VS-K*-3/15, *KS*-5/16)
+- यज्ञि᳓यानाम् (*TS*-5/44, *RV*-11/96, *TB*-3/26, *AV*-5/39, *SB-M*-3/54, *SB-K*-3/50, *VS-M*-3/16, *VS-K*-1/12, *KS*-2/21)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -389,10 +425,22 @@ Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Sv
 Go, Sacrifice, to the sacrifice: seek thou the sacrifice's lord, seek thine own home. All-hail!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O sacrifice, go to the sacrifice!  
+Go to the lord of the sacrifice!  
+Go to your own womb, svāhā!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 यज्ञ॑ य॒ज्ञं ग॑च्छ य॒ज्ञप॑तिं गच्छ।  
 स्वां योनिं॑ गच्छ॒ स्वाहा॑ ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+य᳓ज्ञ यज्ञं᳓ गच्छ यज्ञ᳓पतिं गच्छ स्वं᳓ यो᳓निं गच्छ स्वा᳓ह
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -408,6 +456,20 @@ Go, Sacrifice, to the sacrifice: seek thou the sacrifice's lord, seek thine own 
 <details><summary>पदपाठः - काण्वः</summary>
 
 यज्ञ॑। य॒ज्ञम्। ग॒च्छ॒। य॒ज्ञप॑ति॒मिति॑ य॒ज्ञऽप॑तिम्। ग॒च्छ॒। स्वाम्। योनि॑म्। ग॒च्छ॒। स्वाहा॑।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓ज्ञ (*MS*-1, *TS*-3, *TB*-1, *AV*-1, *SB-M*-2, *SB-K*-3, *VS-M*-2, *VS-K*-2)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- गच्छ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-41, *RV*-5, *TB*-5, *AV*-19, *SB-M*-18, *SB-K*-36, *VS-M*-25, *VS-K*-15)
+- यज्ञ᳓-पतिम् (*MS*-17/43, *TS*-24/40, *RV*-0/1, *TB*-2/12, *AV*-3/4, *SB-M*-23/37, *SB-K*-14/25, *VS-M*-16/22, *VS-K*-23/31)
+- गच्छ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-41, *RV*-5, *TB*-5, *AV*-19, *SB-M*-18, *SB-K*-36, *VS-M*-25, *VS-K*-15)
+- स्व᳓म् (*MS*-30/260, *TS*-20/250, *RV*-21/227, *TB*-18/80, *TK*-3/16, *AV*-16/149, *SB-M*-50/306, *SB-K*-46/301, *VS-M*-5/67, *VS-K*-10/72)
+- यो᳓निम् (*MS*-24/208, *TS*-34/170, *RV*-62/110, *TB*-7/38, *TK*-1/6, *AV*-26/45, *SB-M*-34/284, *SB-K*-33/261, *VS-M*-17/93, *VS-K*-19/100)
+- गच्छ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-41, *RV*-5, *TB*-5, *AV*-19, *SB-M*-18, *SB-K*-36, *VS-M*-25, *VS-K*-15)
+- सु᳓ (*MS*-29, *TS*-24, *RV*-265, *TB*-7, *AV*-42, *SB-M*-15, *SB-K*-31, *VS-M*-20, *VS-K*-21)
+- आ᳓ह (*MS*-86, *TS*-4, *RV*-9, *TB*-13, *TK*-6, *AV*-12, *SB-M*-223, *SB-K*-232, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -555,6 +617,11 @@ with its utterance of hymns and producing noble heroes;
 hail!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is your sacrifice, O lord of the sacrifice, with the hymn of praise, with good heroes, svāhā!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 ए॒ष ते॑ य॒ज्ञो य॑ज्ञपते स॒हसू॑क्तवाकः।  
@@ -566,6 +633,11 @@ hail!
 एष ते॑ य॒ज्ञो य॑ज्ञपते स॒हसू॑क्तवाकस्सु॒वीर॒स्स्वाहा॑  ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+एष ते यज्ञो᳓ यज्ञपते सह᳓सूक्तवाकस्सुवी᳓रस्स्वा᳓हा
+</details>
+
 <details><summary>पदपाठः</summary>
 
 ए॒षः। ते॒। य॒ज्ञः। य॒ज्ञ॒ऽप॒ते॒। स॒हऽसू॑क्तवाकः। सु॒ऽवीर्यः॑। स्वाहा॑। १०२.६।
@@ -574,6 +646,17 @@ hail!
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 ए॒षः । ते॒ । य॒ज्ञः । य॒ज्ञ॒प॒त॒ इति॑ यज्ञ-प॒ते॒ । स॒हसू॑क्तवाक॒ इति॑ स॒हसू॑क्त-वा॒कः॒ । सु॒वीर॒ इति॑ सु-वीरः॑ । स्वाहा॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- एषः (*TB*-2, *AV*-1, *SB-M*-6, *SB-K*-1, *VS-M*-1, *VS-K*-4)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- यज्ञः᳓ (*MS*-290/933, *TS*-194/863, *RV*-48/448, *TB*-108/399, *TK*-12/21, *AV*-66/231, *SB-M*-608/1803, *SB-K*-599/1754, *VS-M*-25/223, *VS-K*-25/187)
+- यज्ञ-पते (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TS*-3, *TB*-1, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- सह᳓सूक्त-वाकः (*MS*-1, *TS*-2/4, *AV*-1, *SB-M*-1/2, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- सु-वी᳓रः (*MS*-6/20, *TS*-9/26, *RV*-16/92, *TB*-1/13, *AV*-7/22, *SB-M*-4/6, *SB-K*-6/7, *VS-M*-5/12, *VS-K*-6/14)
+- स्वा᳓हा (*MS*-536, *TS*-875, *RV*-19, *TB*-411, *TK*-98, *AV*-171, *SB-M*-480, *SB-K*-444, *VS-M*-591, *VS-K*-480)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

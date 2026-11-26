@@ -101,6 +101,18 @@ Purified by Vâyu's strainer, Soma that has passed away forward is Indra's prope
 Purified by Vâyu's strainer, Soma that has passed away forward is Indra's proper friend.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Purified by the wind's sieve, flowing beyond backwards, Soma is  
+the allied friend of Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+"Purified by the filter, turned inward, soma has flown across,  
+the allied friend of Indra, [purified by] Vāyu."
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 वा॒योः पू॒तः प॒वित्रे॑ण प्र॒त्यङ्सोमो॒ अति॑ द्रु॒तः।  
@@ -124,6 +136,18 @@ Purified by Vâyu's strainer, Soma that has passed away forward is Indra's prope
 इन्द्र॑स्य॒ युज्य॒स्सखा॑  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वा᳓योः पूतः᳓ पवि᳓त्रेण प्रत्य᳓ङ् सो᳓मो अ᳓तिस्रुतः  
+इ᳓न्द्रस्य यु᳓ज्यः स᳓खा
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+वायुः पूतः पवित्रेण प्रत्यङ् सोमो अतिद्रुतः।  
+इन्द्रस्य युज्यस्सखा
+</details>
+
 <details><summary>पदपाठः</summary>
 
 वा॒योः। पू॒तः। प॒वित्रे॑ण। प्र॒त्यङ्। सोमः॑। अति॑। द्रु॒तः। इन्द्र॑स्य। युज्यः॑। सखा॑। ५१.१।
@@ -142,6 +166,32 @@ Purified by Vâyu's strainer, Soma that has passed away forward is Indra's prope
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 वा॒युः । पू॒तः । प॒वित्रे॑ण । प्र॒त्यङ्ङ् । सोमः॑ । अति॑द्रुत॒ इत्यति॑-द्रु॒तः॒ ॥ इन्द्र॑स्य । युज्यः॑ । सखा॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वा᳓योः (*TB*-0/1, *AV*-0/1, *SB-K*-0/9)
+- पूतः᳓ (*TS*-5/14, *RV*-3/15, *TB*-5/12, *TK*-1/2, *AV*-4/14, *SB-M*-12/24, *SB-K*-10/22, *VS-M*-4/8, *VS-K*-4/8, *KS*-0/1)
+- पवि᳓त्रेण (*TS*-6/20, *RV*-2/101, *TB*-11/33, *TK*-1/5, *AV*-3/11, *SB-M*-21/64, *SB-K*-24/63, *VS-M*-13/24, *VS-K*-13/19, *KS*-7/13)
+- प्रत्य᳓ङ् (*TS*-2, *RV*-12, *TB*-8, *AV*-17, *SB-M*-34, *SB-K*-40, *VS-M*-3, *VS-K*-3, *KS*-6)
+- सो᳓मः (*TS*-96/294, *RV*-229/728, *TB*-95/198, *TK*-2/4, *AV*-89/214, *SB-M*-221/443, *SB-K*-223/436, *VS-M*-48/128, *VS-K*-40/108, *KS*-35/80)
+- अ᳓तिस्रुतः (*SB-M*-1, *SB-K*-1, *VS-K*-1)
+- इ᳓न्द्रस्य (*TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-59/388, *VS-K*-53/358, *KS*-30/189)
+- यु᳓ज्यः (*TS*-2/3, *RV*-3/23, *TB*-2, *AV*-4/6, *SB-M*-8, *SB-K*-8/9, *VS-M*-5, *VS-K*-5, *KS*-1/2)
+- स᳓खा (*TS*-10/31, *RV*-72/225, *TB*-4/12, *AV*-24/64, *SB-M*-13/20, *SB-K*-13/19, *VS-M*-13/24, *VS-K*-15/25, *KS*-8/17)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वायुः᳓ (*MS*-62/119, *TS*-52/108, *RV*-22/89, *TB*-39/62, *TK*-7/13, *AV*-27/42, *SB-M*-155/252, *SB-K*-134/227, *VS-M*-25/48, *VS-K*-19/55)
+- पूतः᳓ (*MS*-9/19, *TS*-5/14, *RV*-3/15, *TB*-5/12, *TK*-1/2, *AV*-4/14, *SB-M*-12/24, *SB-K*-10/22, *VS-M*-6/10, *VS-K*-7/12)
+- पवि᳓त्रेण (*MS*-20/45, *TS*-6/20, *RV*-2/101, *TB*-11/33, *TK*-1/5, *AV*-3/11, *SB-M*-21/64, *SB-K*-24/63, *VS-M*-15/26, *VS-K*-16/22)
+- प्रत्य᳓ङ् (*MS*-14, *TS*-2, *RV*-12, *TB*-8, *AV*-17, *SB-M*-34, *SB-K*-40, *VS-M*-5, *VS-K*-6)
+- सो᳓मः (*MS*-133/396, *TS*-96/294, *RV*-229/728, *TB*-95/198, *TK*-2/4, *AV*-89/214, *SB-M*-221/443, *SB-K*-223/436, *VS-M*-50/130, *VS-K*-44/112)
+- अ᳓ति-द्रुतः (*MS*-1, *TS*-1, *TB*-2, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-3)
+- इ᳓न्द्रस्य (*MS*-84/711, *TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-61/392, *VS-K*-57/380)
+- यु᳓ज्यः (*MS*-5/9, *TS*-2/3, *RV*-3/23, *TB*-2, *AV*-4/6, *SB-M*-8, *SB-K*-8/9, *VS-M*-7, *VS-K*-8)
+- स᳓खा (*MS*-15/34, *TS*-10/31, *RV*-72/225, *TB*-4/12, *AV*-24/64, *SB-M*-13/20, *SB-K*-13/19, *VS-M*-15/29, *VS-K*-18/31)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -319,6 +369,13 @@ Purified by Vâyu's strainer, Soma that has passed away forward is Indra's prope
 स **सोमो वायुः** वायुसदृशः वायुवत् स्वस्थानचलितः  
 **प्रत्यङ्** प्रतिकूलो घनः । अतिद्रुतः अधस्ताद्गतः अतिगतो वा । यद्वा - वायुरिति । 'सुपां सुलुक्' इति तृतीयायास्स्वादेशः । वायुना प्रत्यङ्प्रतिद्रुतः अतीतः तमेतेन पवनेन स्वस्थानस्थं करोमीति शेषः । एवमनेन कर्मणा स्वस्थानस्थित एव भवतीति ।   
 अपरा योजना - वायुश्शरीरस्थः प्राणः पवित्रेण पावनेन सोमेन पीतेन पूतः प्रथमं शोधितः इन्द्रस्य युज्यस्सखा स प्रत्यङ् प्रतीपमतिद्रुतः स्वस्थानत्पीडितोतिक्रम्य निर्गतः सोमश्च सोतिद्रुतः । यद्वा - पूर्ववत्तृतीयायास्स्वादेशः । अनेन सोमेन स वायुरतिद्रुतः । यद्वा - सोमश्च वायुश्चेति तदुभयमनेन कर्मणा स्वस्थानस्थं भवति ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[171_7]** So D; Ch प्रत्यक्; cf. Mâitr. S. 2, 3, 8. (Thus D; Ch प्रत्यक्; cf. Mâitr. S. 2, 3, 8.)
+
+- **[171_8]** So D; Ch अतिश्रुतः (Thus D; Ch reads अतिश्रुतः)
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>

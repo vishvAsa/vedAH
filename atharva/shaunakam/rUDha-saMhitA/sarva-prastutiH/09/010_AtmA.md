@@ -780,6 +780,12 @@ we read *varīvartti* there, we ought also to do so here.⌋ ⌊Cf.
 I saw the Herdsman, him who never stumbles, approaching by his pathways and departing. He clothed with gathered and diffusive splendours, within the worlds continually travels.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I saw the herdsman who never stumbles, wandering hither and thither along the paths;  
+clothing himself in those that converge and those that disperse, he turns repeatedly within the worlds.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 अप॑श्यं गो॒पाम॑नि॒पद्य॑मान॒मा च॒ परा॑ च प॒थिभि॒श्चर॑न्तम्।  
@@ -790,6 +796,12 @@ I saw the Herdsman, him who never stumbles, approaching by his pathways and depa
 
 अप॑श्यं गो॒पामनि॑पद्यमान॒मा च॒ परा॑ च प॒थिभि॒श्चर॑न्तम्।  
 स स॒ध्रीचीः॒ स विषू॑ची॒र्वसा॑न॒ऽआ व॑रीवर्त्ति॒ भुव॑नेष्व॒न्तः ॥१७ ॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓पश्यं गोपा᳓म् अ᳓निपद्यमानम् आ᳓ च प᳓रा च पथि᳓भिश् च᳓रन्तम्  
+स᳓ सध्री᳓चीः स᳓ वि᳓षूचीर् व᳓साना आ᳓वरीवर्ति भु᳓वनेष्व् अन्तः᳓
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -805,6 +817,28 @@ I saw the Herdsman, him who never stumbles, approaching by his pathways and depa
 <details><summary>पदपाठः - काण्वः</summary>
 
 अप॑श्यम्। गो॒पाम्। अनि॑पद्यमान॒मित्यनि॑ऽपद्यमानम्। आ। च॒। परा॑। च॒। प॒थिभि॒रिति॑ प॒थिऽभिः॑। चर॑न्तम्। सः। स॒ध्रीचीः। सः। विषू॑चीः। वसा॑नः। आ। व॒री॒व॒र्त्ति॒। भुव॑नेषु। अ॒न्तरित्य॒न्तः। ४।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓पश्यम् (*TS*-1, *RV*-10, *AV*-2, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- गो-पा᳓म् (*TS*-1/21, *RV*-11/61, *TB*-3/5, *TK*-0/4, *AV*-2/17, *SB-M*-3/5, *SB-K*-3/6, *VS-M*-3/8, *VS-K*-2/7, *KS*-2/7)
+- अ᳓नि-पद्यमानम् (*RV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- प᳓रा (*TS*-90, *RV*-78, *TB*-49, *TK*-4, *AV*-86, *SB-M*-50, *SB-K*-62, *VS-M*-9, *VS-K*-10, *KS*-25)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- पथि᳓भिः (*TS*-10/72, *RV*-28/149, *TB*-6/22, *AV*-14/76, *SB-M*-5/46, *SB-K*-5/52, *VS-M*-12/36, *VS-K*-10/33, *KS*-3/21)
+- च᳓रन्तम् (*TS*-3/4, *RV*-15/29, *TB*-2/4, *AV*-11/20, *SB-M*-6/47, *SB-K*-4/42, *VS-M*-1, *VS-K*-2, *KS*-0/4)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-91/624, *KS*-225/1225)
+- सध्री᳓चीः (*RV*-6, *TB*-2, *AV*-6/7, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-91/624, *KS*-225/1225)
+- वि᳓षूचीः (*TS*-1/4, *RV*-5/8, *TB*-2/3, *AV*-5/9, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- व᳓सानाः (*TS*-2/7, *RV*-7/44, *TB*-0/1, *AV*-5/16, *SB-M*-2/5, *SB-K*-1/5, *VS-M*-1/5, *VS-K*-1/5, *KS*-1/5)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- वरीवर्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2, *AV*-2, *SB-M*-1, *SB-K*-1)
+- भु᳓वनेषु (*TS*-1/39, *RV*-13/144, *TB*-2/32, *TK*-0/6, *AV*-4/65, *SB-M*-4/30, *SB-K*-4/26, *VS-M*-2/42, *VS-K*-2/39, *KS*-0/16)
+- अन्तः᳓ (*TS*-81/87, *RV*-154, *TB*-13/16, *TK*-26, *AV*-102, *SB-M*-130/144, *SB-K*-117/122, *VS-M*-44, *VS-K*-35/42, *KS*-26)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

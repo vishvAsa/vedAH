@@ -2145,6 +2145,22 @@ On all the earth, to heaven, the drop descended, on this place and on that which
 The Drop leaped onward through the earth and heaven, along this place and that which was before it. I offer up, throughout the seven oblations, the Drop still moving to the common dwelling.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The drop leaped after the earth, after the heaven, and after this womb, and what was earlier;  
+the drop moving along the common womb do I sacrifice after the seven priestly offices."
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The drop fell down upon the earth, upon heaven, and upon this womb, and what was earlier;  
+upon the common womb, I sacrifice the drop moving through, according to the seven hotras.  
+Homage be to the serpents, whichever are upon the earth;
+
+A drop has leaped upon the earth, along the sky, and along this womb, and what was earlier;  
+the drop moving along a common womb I offer, following the seven hotrās.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 द्र॒प्सश्च॑स्कन्द पृथि॒वीमनु॒ द्यामि॒मं च॒ योनि॒मनु॒ यश्च॒ पूर्वः॑।  
@@ -2163,6 +2179,12 @@ The Drop leaped onward through the earth and heaven, along this place and that w
 स॒मा॒नं योनि॒मनु॑ स॒ञ्चर॑न्तं द्र॒प्सं जु॑हो॒म्यनु॑ स॒प्त होत्राः॑ ॥५॥ ५
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+द्रप्स᳓श्चस्कन्द पृथिवी᳓म᳓नु॒ द्या᳓मिमं᳓ च यो᳓निम᳓नु॒ य᳓श्च पू᳓र्वः।  
+समानं᳓ यो᳓निम᳓नु सञ्च᳓रन्तं द्रप्सं᳓ जुहोम्य᳓नु सप्त᳓ हो᳓त्राः
+</details>
+
 <details><summary>पदपाठः</summary>
 
 द्र॒प्सः। च॒स्क॒न्दः॒। पृ॒थि॒वीम्। अनु॑। द्याम्। इ॒मम्। च॒। योनि॑म्। अनु॑। यः॒। च॒। पूर्वः॑। स॒मा॒नम्। योनि॑म्। अनु॑। स॒म्ऽचर॑न्तम्। द्र॒प्सम्। जु॒हो॒मि॒। अनु॑। स॒प्त। होत्राः॑। ४.२८।
@@ -2176,6 +2198,32 @@ The Drop leaped onward through the earth and heaven, along this place and that w
 <details><summary>पदपाठः - काण्वः</summary>
 
 द्र॒प्सः। च॒स्क॒न्द॒। पृ॒थि॒वीम्। अनु॑। द्याम्। इ॒मम्। च॒। योनि॑म्। अनु॑। यः। च॒। पूर्वः॑। स॒मा॒नम्। योनि॑म्। अनु॑। सं॒चर॑न्त॒मिति॑ स॒म्ऽचर॑न्तम्। द्र॒प्सम्। जु॒हो॒मि। अनु॑। स॒प्त। होत्राः॑। ५।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- द्रप्सः᳓ (*MS*-11/13, *TS*-9/14, *RV*-14/29, *TB*-2, *AV*-3/6, *SB-M*-8/12, *SB-K*-8/11, *VS-M*-4/5, *VS-K*-3/7)
+- चस्कन्द (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-4, *RV*-1, *AV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- पृथिवी᳓म् (*MS*-61/104, *TS*-63/106, *RV*-64/156, *TB*-27/52, *TK*-5/6, *AV*-74/155, *SB-M*-58/156, *SB-K*-70/126, *VS-M*-33/53, *VS-K*-35/56)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- द्या᳓म् (*MS*-29/308, *TS*-18/270, *RV*-90/854, *TB*-11/119, *TK*-0/15, *AV*-39/340, *SB-M*-11/353, *SB-K*-5/342, *VS-M*-17/167, *VS-K*-16/179)
+- इम᳓म् (*MS*-120/1379, *TS*-107/965, *RV*-136/1247, *TB*-50/567, *TK*-3/57, *AV*-148/1259, *SB-M*-203/5239, *SB-K*-219/5549, *VS-M*-46/319, *VS-K*-53/301)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- यो᳓निम् (*MS*-24/208, *TS*-34/170, *RV*-62/110, *TB*-7/38, *TK*-1/6, *AV*-26/45, *SB-M*-34/284, *SB-K*-33/261, *VS-M*-17/93, *VS-K*-19/100)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- पू᳓र्वः (*MS*-15/100, *TS*-20/81, *RV*-18/115, *TB*-6/59, *TK*-0/4, *AV*-17/88, *SB-M*-33/216, *SB-K*-21/184, *VS-M*-3/20, *VS-K*-3/17)
+- सम् (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-217, *TS*-4, *RV*-1, *TB*-68, *TK*-29, *AV*-1, *SB-M*-507, *SB-K*-470, *VS-K*-2)
+- आन᳓म् (*RV*-1, *TB*-9/16, *TK*-1/2, *SB-M*-6/7, *SB-K*-12/15, *MS*-21/38)
+- यो᳓निम् (*MS*-24/208, *TS*-34/170, *RV*-62/110, *TB*-7/38, *TK*-1/6, *AV*-26/45, *SB-M*-34/284, *SB-K*-33/261, *VS-M*-17/93, *VS-K*-19/100)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- सं-च᳓रन्तम् (*MS*-1, *TS*-2, *VS-K*-1)
+- द्रप्स᳓म् (*MS*-2/13, *TS*-4/14, *RV*-7/29, *TB*-0/2, *AV*-3/6, *SB-M*-1/12, *SB-K*-2/11, *VS-M*-1/5, *VS-K*-2/7)
+- जुहोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-10, *TS*-20, *RV*-5, *TB*-4, *AV*-18, *SB-M*-17, *SB-K*-15, *VS-M*-5, *VS-K*-6)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- सप्त᳓ (*MS*-65/77, *TS*-74/88, *RV*-122/128, *TB*-29/32, *TK*-12, *AV*-76/77, *SB-M*-163/182, *SB-K*-150/170, *VS-M*-23/24, *VS-K*-21/24)
+- हो᳓त्राः (*MS*-6/20, *TS*-14/26, *RV*-3/27, *TB*-2/13, *TK*-1, *AV*-3/5, *SB-M*-13/46, *SB-K*-12/35, *VS-M*-7, *VS-K*-8/11)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -2278,6 +2326,13 @@ The Drop leaped onward through the earth and heaven, along this place and that w
 अध एका १.
 
 ऊर्ध्वम् एका मध्य एका इत्य् एताः सप्त दिशः ॥ ५ ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+**समानान्तराणि:** cf. Mâitr. S. 2, 5, 10 ; TS 3, 3, 9. 10.
+
+- **[523_11]** So corr. T4 स᳓प्त; cf. RV 10, 17, 11; Mâitr. S. 2, 5, 10. (Thus emended T4 स᳓प्त; cf. RV 10, 17, 11; Mâitr. S. 2, 5, 10.)
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
@@ -4961,15 +5016,42 @@ of *akṣam* ('axle') to *akṣan* (root *ghas*)?!⌋ ⌊See p. lxxix.⌋
 Well have they eaten and rejoiced: their dear ones have they shaken off. Sages, self-luminous, have praised: we who are youngest supplicate.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They have eaten, they have reveled, and they have shaken off their loved ones;  
+the self-luminous sages praised with newest thought.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 अक्ष॒न्नमी॑मदन्त॒ ह्यव॑ प्रि॒याँ अ॑धूषत।  
 अस्तो॑षत॒ स्वभा॑नवो॒ विप्रा॒यवि॑ष्ठा ईमहे ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓क्षन्न् अ᳓मीमदन्त ह्य् अ᳓व प्रिया᳓ अधूषत  
+अ᳓स्तोषत स्व᳓भानवो वि᳓प्रा न᳓विष्ठया मती᳓
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अक्ष॑न्। अमी॑मदन्त। हि। अव॑। प्रि॒यान्। अ॒धू॒ष॒त॒। अस्तो॑षत। स्वऽभा॑नवः। विप्राः॑। यवि॑ष्ठाः। ई॒म॒हे॒। ४.६१।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓क्षन् (*TS*-2, *RV*-1, *TB*-3, *AV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-3, *VS-K*-2, *KS*-1)
+- अ᳓मीमदन्त (*TS*-2, *RV*-1, *TB*-4, *AV*-1, *SB-M*-4, *SB-K*-4, *VS-M*-3, *VS-K*-3, *KS*-2)
+- हि᳓ (*TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-42, *KS*-81)
+- अ᳓व (*TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-38, *KS*-111)
+- प्रियाः᳓ (*TS*-6/92, *RV*-10/213, *TB*-0/83, *TK*-0/1, *AV*-6/90, *SB-M*-17/134, *SB-K*-14/141, *VS-M*-2/60, *VS-K*-2/45, *KS*-2/26)
+- अधूषतः (मूल-पाठः)
+- अ᳓स्तोषत (*TS*-1, *RV*-1, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+- स्व᳓-भानवः (*TS*-1, *RV*-4/5, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- वि᳓प्रा (*TS*-2/24, *RV*-5/223, *TB*-1/8, *AV*-1/32, *SB-M*-4/17, *SB-K*-4/15, *VS-M*-7/18, *VS-K*-1/19, *KS*-5/14)
+- न᳓विष्ठया (*TS*-1, *RV*-3/5, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- मती᳓ (*TS*-1/9, *RV*-15/141, *TB*-0/10, *TK*-0/1, *AV*-1/18, *SB-M*-1/12, *SB-K*-1/11, *VS-M*-1/13, *VS-K*-1/13, *KS*-2/8)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -5584,6 +5666,30 @@ Be guiltless before Aditi.
 Varuna, from the upmost bond release us, let down the lowest and remove the midmost. So in thy holy law may we made sinless belong to Aditi, O thou Âditya.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Loosen upward the highest noose from us, O Varuṇa, downward the lowest, away the middle one!  
+Then, O Āditya, in your vow may we be sinless for Aditi!
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+Loosen the uppermost bond from us, O Varuṇa, [loosen] down the lowest, loosen apart the middle one;  
+then may we, O Āditya, in your ordinance, be sinless for Aditi!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Loosen the uppermost bond from us, O Varuṇa, the lowest downward, the middle one apart!  
+Then may we, O Āditya, in your observance, be guiltless before Aditi!
+
+Untie the highest fetter from us, o Varuṇa, the lowest, loosen the middle one;  
+then may we, o Āditya, in your vow, be sinless for Aditi.
+
+Loosen the highest bond from us, O Varuṇa, [loosen] down the lowest, cast apart the middle one!  
+Then, O Āditya, in your ordinance, guiltless before Aditi, may we remain!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 उदु॑त्त॒मंव॑रुण॒ पाश॑म॒स्मदवा॑ध॒मं वि म॑ध्य॒मं श्र॑थाय।  
@@ -5601,6 +5707,18 @@ Varuna, from the upmost bond release us, let down the lowest and remove the midm
 उदु॑त्त॒मव्ँव॑रुण॒ पाश॑म॒स्मदवा॑ध॒मम् [3] वि म॑ध्य॒मँ श्र॑थाय ।  
 
 अथा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ अदि॑तये स्याम ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उ᳓द् उत्तमँ᳓ वरुण पा᳓शम् अस्म᳓द् अ᳓वाधमँ᳓ वि᳓ मध्यमँ᳓ श्रथाय  
+अ᳓था वय᳓म् आदित्य व्रते᳓ त᳓वा᳓नागसो अ᳓दितये स्याम
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+उ᳓दुत्तमं᳓ वरुण पा᳓शमस्म᳓द᳓वाधमं᳓ वि᳓ मध्यमँ श्रथाय।  
+अ᳓था वय᳓मादित्य व्रते᳓ त᳓वा᳓नागसो अ᳓दितये स्याम
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -5621,6 +5739,69 @@ Varuna, from the upmost bond release us, let down the lowest and remove the midm
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 उदिति॑ । उ॒त्त॒ममित्यु॑त्-त॒मम् । व॒रु॒ण॒ । पाश॑म् । अ॒स्मत् । अवेति॑ । अ॒ध॒मम् । वीति॑ । म॒ध्य॒मम् । श्र॒था॒य॒ ॥ अथ॑ । व॒यम् । आ॒दि॒त्य॒ । व्र॒ते । तव॑ । अना॑गसः । अदि॑तये । स्या॒म॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उ᳓त् (*TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-79, *KS*-81)
+- उत्तम᳓म् (*TS*-17/62, *RV*-21/39, *TB*-15/33, *TK*-0/1, *AV*-20/42, *SB-M*-68/173, *SB-K*-68/164, *VS-M*-16/24, *VS-K*-10/22, *KS*-4/8)
+- वरुण (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-17, *RV*-58, *TB*-6, *TK*-1, *AV*-27, *SB-M*-8, *SB-K*-7, *VS-M*-8, *VS-K*-8, *KS*-17)
+- पा᳓शम् (*TS*-8/26, *RV*-3/10, *TB*-2/12, *TK*-0/1, *AV*-5/96, *SB-M*-5/16, *SB-K*-3/14, *VS-M*-2/9, *VS-K*-2/8, *KS*-3/13)
+- अस्म᳓त् (*TS*-31/565, *RV*-75/1308, *TB*-6/270, *TK*-0/66, *AV*-57/1252, *SB-M*-18/723, *SB-K*-16/728, *VS-M*-19/314, *VS-K*-19/265, *KS*-11/242)
+- अ᳓व (*TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-38, *KS*-111)
+- अधम᳓न् (*TS*-2, *RV*-2, *AV*-10, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-2)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- मध्यम᳓म् (*TS*-4/17, *RV*-5/19, *TB*-2/5, *TK*-0/1, *AV*-4/10, *SB-M*-13/73, *SB-K*-17/64, *VS-M*-1/4, *VS-K*-1/4, *KS*-0/4)
+- श्रथायः (मूल-पाठः)
+- अ᳓था (*TS*-4, *TB*-1, *SB-M*-3, *SB-K*-8, *VS-K*-2, *KS*-6)
+- वय᳓म् (*TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/314, *VS-K*-52/265, *KS*-46/242)
+- आदित्य (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-6, *RV*-4, *TB*-2, *TK*-13, *AV*-7, *SB-M*-2, *SB-K*-344, *VS-M*-4, *VS-K*-3, *KS*-3)
+- व्रते᳓ (*TS*-5/49, *RV*-21/100, *TB*-7/23, *TK*-0/1, *AV*-9/29, *SB-M*-5/89, *SB-K*-6/78, *VS-M*-4/13, *VS-K*-5/14, *KS*-2/16)
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/215, *VS-K*-25/167, *KS*-41/165)
+- अ᳓नागसः (*TS*-3/4, *RV*-13/16, *AV*-6/8, *SB-M*-3, *SB-K*-2, *VS-M*-2/4, *VS-K*-2/3, *KS*-2/3)
+- अ᳓दितये (*TS*-2/95, *RV*-7/155, *TB*-1/43, *TK*-0/2, *AV*-5/48, *SB-M*-2/100, *SB-K*-3/87, *VS-M*-2/63, *VS-K*-2/75, *KS*-3/29)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-28, *RV*-113, *TB*-9, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-16, *KS*-20)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- उत्तम᳓म् (*MS*-28/67, *TS*-17/62, *RV*-21/39, *TB*-15/33, *TK*-0/1, *AV*-20/42, *SB-M*-68/173, *SB-K*-68/164, *VS-M*-16/24, *VS-K*-11/24)
+- वरुण (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-36, *TS*-17, *RV*-58, *TB*-6, *TK*-1, *AV*-27, *SB-M*-8, *SB-K*-7, *VS-M*-8, *VS-K*-10)
+- पा᳓शम् (*MS*-6/49, *TS*-8/26, *RV*-3/10, *TB*-2/12, *TK*-0/1, *AV*-5/96, *SB-M*-5/16, *SB-K*-3/14, *VS-M*-2/9, *VS-K*-3/9)
+- अस्म᳓त् (*MS*-33/641, *TS*-31/565, *RV*-75/1308, *TB*-6/270, *TK*-0/66, *AV*-57/1252, *SB-M*-18/723, *SB-K*-16/728, *VS-M*-19/315, *VS-K*-22/274)
+- अ᳓व (*MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- अधम᳓न् (*TS*-2, *RV*-2, *AV*-10, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-3, *MS*-2)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- मध्यमम् → **मध्यम᳓म्** (स्वर-लोपः, *MS*-4/22, *TS*-4/17, *RV*-5/19, *TB*-2/5, *TK*-0/1, *AV*-4/10, *SB-M*-13/73, *SB-K*-17/64, *VS-M*-1/4, *VS-K*-2/6)
+- श्रथाय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- अ᳓था (*MS*-21, *TS*-4, *TB*-1, *SB-M*-3, *SB-K*-8, *VS-K*-2)
+- वय᳓म् (*MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- आदित्य (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-4, *TS*-6, *RV*-4, *TB*-2, *TK*-13, *AV*-7, *SB-M*-2, *SB-K*-344, *VS-M*-4, *VS-K*-5)
+- व्रते᳓ (*MS*-5/72, *TS*-5/49, *RV*-21/100, *TB*-7/23, *TK*-0/1, *AV*-9/29, *SB-M*-5/89, *SB-K*-6/78, *VS-M*-4/13, *VS-K*-6/15)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- अ᳓नागसः (*MS*-5/7, *TS*-3/4, *RV*-13/16, *AV*-6/8, *SB-M*-3, *SB-K*-2, *VS-M*-2/4, *VS-K*-4/5)
+- अ᳓दितये (*MS*-3/128, *TS*-2/95, *RV*-7/155, *TB*-1/43, *TK*-0/2, *AV*-5/48, *SB-M*-2/100, *SB-K*-3/87, *VS-M*-2/63, *VS-K*-4/79)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-30, *TS*-28, *RV*-113, *TB*-9, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-18)
+
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- उत्तम᳓म् (*MS*-28/67, *TS*-17/62, *RV*-21/39, *TB*-15/33, *TK*-0/1, *AV*-20/42, *SB-M*-68/173, *SB-K*-68/164, *VS-M*-16/24, *VS-K*-11/24)
+- व᳓रुण (*Whitney*, *MS*-3/4, *TS*-1, *RV*-15/18, *TB*-1/3, *TK*-1, *AV*-1, *SB-M*-3/4, *SB-K*-4/5, *VS-M*-3/4, *VS-K*-4/5)
+- पा᳓शम् (*MS*-6/49, *TS*-8/26, *RV*-3/10, *TB*-2/12, *TK*-0/1, *AV*-5/96, *SB-M*-5/16, *SB-K*-3/14, *VS-M*-2/9, *VS-K*-3/9)
+- अस्म᳓त् (*MS*-33/641, *TS*-31/565, *RV*-75/1308, *TB*-6/270, *TK*-0/66, *AV*-57/1252, *SB-M*-18/723, *SB-K*-16/728, *VS-M*-19/315, *VS-K*-22/274)
+- अ᳓व (*Whitney*, *MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- अधम᳓न् (समानान्तर-पाठः (MS), *TS*-2, *RV*-2, *AV*-10, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-3, *MS*-2)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- मध्यम᳓म् (*MS*-4/22, *TS*-4/17, *RV*-5/19, *TB*-2/5, *TK*-0/1, *AV*-4/10, *SB-M*-13/73, *SB-K*-17/64, *VS-M*-1/4, *VS-K*-2/6)
+- श्रथाय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- अ᳓था (*MS*-21, *TS*-4, *TB*-1, *SB-M*-3, *SB-K*-8, *VS-K*-2)
+- वय᳓म् (*MW*, *MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- आदित्य᳓ (*MS*-141, *TS*-7/9, *RV*-37, *TB*-85, *TK*-13, *AV*-49, *SB-M*-1/13, *SB-K*-5/11, *VS-M*-24, *VS-K*-35)
+- व्रते᳓ (*MS*-5/72, *TS*-5/49, *RV*-21/100, *TB*-7/23, *TK*-0/1, *AV*-9/29, *SB-M*-5/89, *SB-K*-6/78, *VS-M*-4/13, *VS-K*-6/15)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- अ᳓नागसः (*MS*-5/7, *TS*-3/4, *RV*-13/16, *AV*-6/8, *SB-M*-3, *SB-K*-2, *VS-M*-2/4, *VS-K*-4/5)
+- अ᳓दितये (*MS*-3/128, *TS*-2/95, *RV*-7/155, *TB*-1/43, *TK*-0/2, *AV*-5/48, *SB-M*-2/100, *SB-K*-3/87, *VS-M*-2/63, *VS-K*-4/79)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-30, *TS*-28, *RV*-113, *TB*-9, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-18)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -5708,6 +5889,11 @@ Varuna, from the upmost bond release us, let down the lowest and remove the midm
 अनेन मन्त्रेण शिक्यपाशोन्मोकमभिप्रेत्य मन्त्रगतस्य व णपाशस्य प्रसंङ्गं दर्शयति—
 “शुनःशेषमाजीगर्ति वरुणोऽगृह्णात्स एतां वरुणीमपश्यत्तया वै स आत्मानं वरुणापाशादमुञ्चद्रुणो वा एतं गृह्णाति य उखां प्रतिमुञ्चत उदुत्तमं   १८६४ वरुणपाशमस्मदित्याइऽऽत्मानमेवैतया वरुणपाशान्मुञ्चति” [सं. का. ५ प्र. २ अ. १] इति।  
 शुनःशेषो नाम ऋषिः स चाजीगर्तस्य पुत्रस्तं कदाचिद्वरुणोगृह्णाद्गहीत वान् वरुणगृहीतत्वं च जलोदरव्याधिनाऽभिव्यज्यते ।   स च शुनःशेषस्त त्परि हारायोदुत्तममित्येतां वारुणीमृचमपश्यत् ।   ततस्तयैवर्चा स शुनःशेषः स्वात्मानं पाशान्मोचितवान् ।   अतोऽत्रापि यो यजमान उखां प्रतिमुञ्चते योऽयं वरुण गृहीतः संस्तत्परिहारायोदुत्तममित्यनया शिक्यपाशमुन्मुच्य तन्मन्त्रप्रसादेन वरुण पाशान्मुक्तो भवति ।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[610_9]** Dieser Vers findet sich so, d. h. vollständig gegeben, in Brl und G; desgl. W 1, ohne Accent. In Ch dagegen nur der Anfang उदुत्तमम्॥ vgl, RV 1, 24, 15. (This verse is found thus, i.e., given in full, in Brl and G; likewise W 1, without accent. In Ch, on the other hand, only the beginning उदुत्तमम्॥; cf. RV 1, 24, 15.)
 </details>
 </details>
 </div>

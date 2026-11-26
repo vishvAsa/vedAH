@@ -130,6 +130,12 @@ For him as fodder to a stalled horse,
 May we, O Agni, thy neighbours, be not harmed, Rejoicing in increase of wealth, in food.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Night after night bringing [food] without negligence, as grass to a horse standing for him,  
+rejoicing together in vigor with wealth's increase, o Agni, may we, your neighbors, not suffer harm.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 रात्रिं॑रात्रि॒मप्र॑यातं॒ भर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒सम॒स्मै।  
@@ -142,6 +148,12 @@ May we, O Agni, thy neighbours, be not harmed, Rejoicing in increase of wealth, 
 रा॒यस्पोषे॑ण॒ समि॒षा मद॒न्तोऽग्ने॒ मा ते॒ प्रति॑वेशा रिषाम ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+रात्रीं रात्रीमप्रयावं भरन्तो ऽश्वायेव तिष्ठते घासमस्मै।  
+रायस्पोषेण समिषा मदन्तो ऽग्ने मा ते प्रतिवेशा रिषाम
+</details>
+
 <details><summary>पदपाठः</summary>
 
 रात्रि॑म्ऽरात्रिम्। अप्र॑ऽयात॑म्। भर॑न्तः। अश्वा॑यऽइव। तिष्ठ॑ते। घा॒सम्। अ॒स्मै। रा॒यः। पोषे॑ण। सम्। इ॒षा। मद॑न्तः। मा। ते॒। अ॒ग्ने॒। प्रति॑ऽवेशाः। रि॒षा॒म॒। ५५.१।
@@ -150,6 +162,27 @@ May we, O Agni, thy neighbours, be not harmed, Rejoicing in increase of wealth, 
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 रात्रिँ॑रात्रि॒मिति॒ रात्रि॑म्-रा॒त्रि॒म् । अप्र॑याव॒मित्यप्र॑-या॒व॒म् । भर॑न्तः । अश्वा॑य । इ॒व॒ । तिष्ठ॑ते । घा॒सम् । अ॒स्मै॒ ॥ रा॒यः । पोषे॑ण । समिति॑ । इ॒षा । मद॑न्तः । अग्ने॑ । मा । ते॒ । प्रति॑वेशा॒ इति॒ प्रति॑-वे॒शाः॒ । रि॒षा॒म॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- रा᳓त्रीम् (*MS*-11/36, *TS*-0/34, *RV*-2/13, *TB*-0/4, *TK*-0/6, *AV*-0/31, *SB-M*-2/36, *SB-K*-3/37, *VS-M*-1/9, *VS-K*-1/14)
+- रा᳓त्रीम् (*MS*-11/36, *TS*-0/34, *RV*-2/13, *TB*-0/4, *TK*-0/6, *AV*-0/31, *SB-M*-2/36, *SB-K*-3/37, *VS-M*-1/9, *VS-K*-1/14)
+- अ᳓प्र-यावम् (*MS*-3, *TS*-1, *TB*-1, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- भ᳓रन्तः (*MS*-2/5, *TS*-2/3, *RV*-4/11, *TB*-0/2, *AV*-3/5, *SB-M*-4/8, *SB-K*-4/6, *VS-M*-2/3, *VS-K*-1/2)
+- अ᳓श्वाय (*MS*-5/117, *TS*-5/126, *RV*-4/226, *TB*-2/167, *AV*-0/76, *SB-M*-10/262, *SB-K*-9/255, *VS-M*-2/56, *VS-K*-2/52)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- ति᳓ष्ठते (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *MS*-13, *TS*-2, *TB*-2, *AV*-5, *SB-M*-35, *SB-K*-30, *VS-M*-1, *VS-K*-1)
+- घास᳓म् (*MS*-3, *TS*-3, *TB*-2/3, *AV*-4/7, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1/4)
+- अस्मै᳓ (*MS*-26/1379, *TS*-22/965, *RV*-21/1247, *TB*-10/567, *TK*-1/57, *AV*-59/1259, *SB-M*-95/5239, *SB-K*-128/5549, *VS-M*-10/319, *VS-K*-8/301)
+- राय᳓स्-पो᳓षेण (समानान्तर-पाठः (TS), *MS*-15/35, *TS*-9/25, *TB*-1/7, *TK*-0/2, *VS-K*-2/5)
+- समि᳓षा (*MW*, *RV*-0/1, *AV*-0/1)
+- म᳓दन्तः (*MS*-4/7, *TS*-2/3, *RV*-10/32, *TB*-1, *AV*-7/18, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-3, *VS-K*-3)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- मा᳓ (*Whitney*, *MS*-238, *TS*-205, *RV*-389, *TB*-111, *TK*-16, *AV*-415, *SB-M*-206, *SB-K*-183, *VS-M*-146, *VS-K*-110)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- प्र᳓ति-वेशाः (*MS*-1/2, *TS*-1/2, *RV*-0/1, *TB*-0/1, *AV*-3, *SB-M*-1/5, *SB-K*-1/7, *VS-M*-1, *VS-K*-1)
+- रिषाम (समानान्तर-पाठः (TS), *MS*-2, *TS*-1, *RV*-17, *AV*-6, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -189,6 +222,13 @@ May we, O Agni, thy neighbours, be not harmed, Rejoicing in increase of wealth, 
 एकमपि दिनमवर्जयित्वेत्यर्थः।  
 अस्मा अग्नये घासं समिद्रूपं भक्ष्यं भरन्तः संपादयन्तः ।  
 तत्र दृष्टान्तः—तिष्ठतेऽ-श्वायेव वाजिशालायां बद्ध्वा स्थापिताय प्रौढायाश्वायैकमपि दिनमवर्जयित्वा यथा घासं प्रयच्छन्ति तद्वत् ।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[226_2]** Ch रात्रीँ
+
+- **[226_3]** Ch मदन्ता
 </details>
 </details>
 </div>

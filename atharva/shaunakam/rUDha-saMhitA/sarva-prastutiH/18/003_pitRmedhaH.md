@@ -3932,6 +3932,12 @@ Kāuś. and Vāit. is the same as that of vs. 44. The comm. glosses
 May they, the Fathers who deserve the Soma, invited to their favourite oblations. Laid on the sacred grass, come nigh and listen. May they be gracious unto us and bless us.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+those who, sitting on the sacrificial grass, partake of the pressed drink according to their own pleasure, are most ready to come here.' //  
+'The fathers worthy of soma are invited to their dear treasures on the sacrificial grass;
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 उप॑हूता नःपि॒तरः॑ सो॒म्यासो॑ बर्हि॒ष्ये᳡षु नि॒धिषु॑ प्रि॒येषु॑।  
@@ -3942,6 +3948,12 @@ May they, the Fathers who deserve the Soma, invited to their favourite oblations
 
 उप॑हूताः पि॒तरः॑ सो॒म्यासो॑ बर्हि॒ष्ये᳖षु नि॒धिषु॑ प्रि॒येषु॑।  
 तऽआग॑मन्तु॒ तऽइ॒ह श्रु॑व॒न्त्वधि॑ ब्रुवन्तु॒ ते᳖ऽवन्त्व॒स्मान् ॥५७ ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+उ᳓पहूताः पित᳓रस्सोम्या᳓सो बर्हिष्येृषु निधि᳓षु प्रिये᳓षु।  
+त᳓ आ᳓गमन्तु त᳓ इह᳓ श्रुवन्त्व᳓धि ब्रुवन्तु तेृ ऽवन्त्वस्मा᳓न्
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -3957,6 +3969,27 @@ May they, the Fathers who deserve the Soma, invited to their favourite oblations
 <details><summary>पदपाठः - काण्वः</summary>
 
 उप॑हूता॒। इत्यु॑पऽहूताः। पि॒तरः॑। सो॒म्यासः॑। ब॒र्हि॒ष्ये᳖षु। नि॒धिष्विति॑ नि॒ऽधिषु॑। प्रि॒येषु॑। ते। आ। ग॒म॒न्तु॒। ते। इ॒ह। श्रु॒व॒न्तु॒। अधि॑। ब्रु॒वन्तु॑। ते। अ॒व॒न्तु॒। अ॒स्मान्। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓प-हूताः (*MS*-4/21, *TS*-5/34, *RV*-1, *TB*-4/29, *TK*-0/2, *AV*-5/23, *SB-M*-6/43, *SB-K*-9/39, *VS-M*-4/14, *VS-K*-5/27)
+- पित᳓रः (*MS*-51/157, *TS*-34/121, *RV*-39/254, *TB*-42/111, *TK*-0/6, *AV*-50/228, *SB-M*-86/321, *SB-K*-85/317, *VS-M*-24/80, *VS-K*-20/75)
+- सोम्या᳓सः (*MS*-3/9, *TS*-3, *RV*-4/47, *TB*-2/6, *AV*-6/17, *VS-M*-8/13, *VS-K*-7/12)
+- बर्हिष्येषु → **बर्हिष्ये᳙षु** (स्वर-लोपः, *MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- नि-धि᳓षु (*MS*-1/6, *TS*-1/3, *RV*-1/15, *TB*-0/2, *AV*-1/14, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-1/3, *VS-K*-2/5)
+- प्रिये᳓षु (*MS*-1/135, *TS*-1/92, *RV*-1/213, *TB*-0/83, *TK*-0/1, *AV*-1/90, *SB-M*-1/134, *SB-K*-1/141, *VS-M*-2/60, *VS-K*-3/47)
+- ते᳓ (*MS*-372/5550, *TS*-451/4761, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *SB-K*-914/20018, *VS-M*-118/780, *VS-K*-96/660)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- गमन्तु (*TS*-2, *RV*-5, *AV*-1, *VS-M*-5, *VS-K*-4, *MS*-1)
+- ते᳓ (*MS*-372/5550, *TS*-451/4761, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *SB-K*-914/20018, *VS-M*-118/780, *VS-K*-96/660)
+- इह᳓ (*MS*-103, *TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91)
+- श्रुवन्तु (*TS*-1, *RV*-2, *AV*-1, *VS-M*-1, *VS-K*-2, *MS*-1)
+- अ᳓धि (*MS*-200, *TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-57, *VS-K*-55)
+- ब्रुवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-4, *RV*-4, *TB*-1, *AV*-3, *VS-M*-1, *VS-K*-2)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- अवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-23, *TS*-14, *RV*-25, *TB*-6, *AV*-16, *SB-M*-5, *SB-K*-6, *VS-M*-18, *VS-K*-10)
+- अस्मा᳓न् (*MS*-50/641, *TS*-46/565, *RV*-93/1308, *TB*-12/270, *TK*-2/66, *AV*-119/1252, *SB-M*-51/723, *SB-K*-56/728, *VS-M*-32/315, *VS-K*-25/274)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -4060,6 +4093,11 @@ V. इह यज्ञेषु श्रुवन्तु अस्मदु�
 ' उपहूताः पितरः सोम्यासः '।
 
 सोम्याः पितरः 'बर्हिष्येषु बर्हिषो यज्ञस्य योग्येषु "निधिषु । देवाः पितरश् च निधीयन्ते येषु ते । तथा देवपित्राश्रयेषु । अत एव 'प्रियेषु हविःषु आसादितेषु सत्सु 'उपहूताः मया आहूता: । 'ते पितरः 'आगमन्तु आगच्छतु । आगत्य च 'इह यज्ञेषु श्रुवन्तु अस्मद्-उक्तानि वाक्यानि शृण्वन्तु । प्रत्ययाभावश्छान्दसः । श्रुत्वाऽपि च 'अधिब्रुवन्तु । ' एते ऽस्माकं प्रियत्वेनाधिकाः' इति ब्रुवन्तु । उक्त्वाऽपि च ' ते 'अस्मान् 'भवन्तु रक्षन्तु योग-क्षेम-समर्पणेन ॥६॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[334_9]** So T1; in Brl **उ᳓पहूतः**; desgl. Ch und W1, ohne Acc.; cf. RV 10, 15, 5. (Thus T1; in Brl उ᳓पहूतः; likewise Ch and W1, without accent; cf. RV 10, 15, 5.)
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
@@ -5824,15 +5862,50 @@ unlingualized, in **c**. The comm. glosses *yā́mani* with
 O Indra, bring us wisdom as a sire gives wisdom to his sons. Guide us, O much-invoked in this our way: may we still living look upon the Sun.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by means of the worlds they come ascending to the heavenly worlds.  
+"Bring us wisdom, O Indra, as a father to his sons;  
+teach us, O much-invoked one, on this journey;
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 इन्द्र॒ क्रतुं॑न॒ आ भ॑र पि॒ता पु॒त्रेभ्यो॒ यथा॑।  
 शिक्षा॑ णो अ॒स्मिन्पु॑रुहूत॒ याम॑नि जी॒वाज्योति॑रशीमहि ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इन्द्र ऋतुं न आभर पिता पुत्रेभ्या यथा।  
+शिक्षा णो अस्मिन्पुरुहूत यामनि जीवा ज्योतिरशीमहि
+</details>
+
 <details><summary>पदपाठः</summary>
 
 इन्द्र॑। क्रतु॑म्। नः॒। आ। भ॒र॒। पि॒ता। पु॒त्रेभ्यः॑। यथा॑। शिक्ष॑। नः॒। अ॒स्मिन्। पु॒रु॒ऽहू॒त॒। याम॑नि। जी॒वाः। ज्योतिः॑। अ॒शी॒म॒हि॒। ३.६७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- ऋतु᳓म् (*MS*-5/164, *TS*-3/226, *RV*-1/38, *TB*-0/90, *TK*-0/13, *AV*-7/60, *SB-M*-13/429, *SB-K*-13/426, *VS-M*-0/44, *VS-K*-0/36)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- भर (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-16, *TS*-19, *RV*-130, *TB*-5, *TK*-1, *AV*-31, *SB-M*-4, *SB-K*-2, *VS-M*-11, *VS-K*-6)
+- पिता᳓ (*MS*-40/157, *TS*-34/121, *RV*-66/254, *TB*-18/111, *TK*-4/6, *AV*-55/228, *SB-M*-76/321, *SB-K*-79/317, *VS-M*-23/80, *VS-K*-19/75)
+- पुत्रे᳓ (*MS*-2/55, *TS*-1/56, *RV*-1/104, *TB*-0/23, *TK*-0/4, *AV*-1/118, *SB-M*-0/119, *SB-K*-0/119, *VS-M*-0/29, *VS-K*-0/29)
+- अभि (गतिर्गतौ पा॰ ८.१.७०, *TB*-38, *TK*-9, *AV*-3, *SB-M*-549, *SB-K*-502, *VS-K*-2, *MS*-215)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- य᳓था (*MW* ŚBr., *MS*-122, *TS*-123, *RV*-238, *TB*-59, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-683, *VS-M*-27, *VS-K*-24)
+- शि᳓क्षाः (*RV*-1/3, *AV*-0/3)
+- णः᳓ (*TB*-1, *SB-M*-1, *SB-K*-4, *MS*-1)
+- अस्मि᳓न् (*MS*-59/1379, *TS*-74/965, *RV*-76/1247, *TB*-42/567, *TK*-4/57, *AV*-82/1259, *SB-M*-216/5239, *SB-K*-246/5549, *VS-M*-27/319, *VS-K*-22/301)
+- पु᳓रु-हूत (*RV*-3, *AV*-1)
+- या᳓मनि (*TS*-1, *RV*-12/18, *TB*-0/2, *AV*-2)
+- जीवाः᳓ (*MS*-7/16, *TS*-1/8, *RV*-5/26, *TB*-3/10, *TK*-0/1, *AV*-9/32, *SB-M*-2/22, *SB-K*-2/25, *VS-M*-1/6, *VS-K*-1/5)
+- ज्यो᳓तिः (*Whitney*, *MS*-92/134, *TS*-117/199, *RV*-99/148, *TB*-58/70, *TK*-3/5, *AV*-43/66, *SB-M*-131/173, *SB-K*-134/174, *VS-M*-50/72, *VS-K*-40/80)
+- अशीम᳓हि (*RV*-1, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

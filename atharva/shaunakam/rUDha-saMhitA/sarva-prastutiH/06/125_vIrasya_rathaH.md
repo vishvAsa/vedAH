@@ -66,6 +66,18 @@ Let him that mounteth thee conquer what is to be conquered.
 Lord of the Wood, be firm and strong in body: be, bearing us, a brave victorious hero. Show forth thy strength, compact with straps of leather, and let thy rider win all spoils of battle.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Lord of the Forest, be firm of limb, our friend, carrying us through, with good heroes;  
+you are bound together with cow-[hides]; be strong! May your driver conquer what is to be conquered!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+O lord of the forest, be firm of limb, our friend, saving us, having good heroes!  
+You are bound with leather-thongs; make yourself firm! May he who mounts you conquer what is to be won!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 वन॑स्पते वी॒ड्व᳡ङ्गो॒ हि भू॒या अ॒स्मत्स॑खा प्र॒तर॑णः सु॒वीरः॑।  
@@ -90,6 +102,18 @@ Lord of the Wood, be firm and strong in body: be, bearing us, a brave victorious
 गोभि॒स्सन्न॑द्धो असि वी॒डय॑स्वास्था॒ता ते॑ जयतु॒ जेत्वा॑नि ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+व᳓नस्पते वीड्व᳓ङ्गो हि᳓ भूया᳓ अस्म᳓त्सखा प्रत᳓रणः सुवी᳓रः  
+गो᳓भिः सं᳓नद्धो असि वीड᳓यस्वास्थाता᳓ ते जयतु जे᳓त्वानि
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+वनस्पते वीड्वङ्गो हि भूया अस्मत्सखा प्रतरणस्सुवीरः।  
+गोभिस्सन्नद्वो असि वीडयस्वास्थाता ते जयतु जेत्वानि
+</details>
+
 <details><summary>पदपाठः</summary>
 
 वन॑स्पते। वी॒डुऽअ॑ङ्गः। हि। भू॒याः। अ॒स्मत्ऽस॑खा। प्र॒ऽतर॑णः। सु॒ऽवीरः॑। गोभिः॑। सम्ऽन॑ध्दः। अ॒सि॒। वी॒डय॑स्व। आ॒ऽस्था॒ता। ते॒। ज॒य॒तु॒। जेत्वा॑नि। १२५.१।
@@ -108,6 +132,47 @@ Lord of the Wood, be firm and strong in body: be, bearing us, a brave victorious
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 वन॑स्पते । वी॒ड्व॑ङ्ग॒ इति॑ वी॒डु-अ॒ङ्गः॒ । हि । भू॒याः । अ॒स्मत्स॒खेत्य॒स्मत्-स॒खा॒ । प्र॒तर॑ण॒ इति॑ प्र-तर॑णः । सु॒वीर॒ इति॑ सु-वीरः॑ ॥ गोभिः॑ । सन्न॑द्ध॒ इति॒ सम्-न॒द्धः॒ । अ॒सि॒ । वी॒डय॑स्व । आ॒स्था॒तेत्या॑-स्था॒ता । ते॒ । ज॒य॒तु॒ । जेत्वा॑नि ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- व᳓नस्पते (*TS*-4, *RV*-7, *TB*-2, *AV*-3, *VS-M*-2, *VS-K*-2, *KS*-2)
+- वीड्व᳓ङ्गः (*TS*-1, *SB-M*-2, *SB-K*-2, *VS-K*-1)
+- हि᳓ (*TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-42, *KS*-81)
+- भूयाः᳓ (*TS*-2, *RV*-4, *AV*-5, *SB-M*-4, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-0/5)
+- अस्म᳓त्-सखा (*TS*-2, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- प्र-त᳓रणः (*TS*-2/4, *RV*-4/5, *AV*-2/3, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-2/3, *KS*-1/2)
+- सु-वी᳓रः (*TS*-9/26, *RV*-16/92, *TB*-1/13, *AV*-7/22, *SB-M*-4/6, *SB-K*-6/7, *VS-M*-5/12, *VS-K*-5/13, *KS*-3/13)
+- गो᳓भिः (*TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/66, *VS-K*-6/64, *KS*-2/37)
+- स᳓म्-नद्धः (*TS*-1/2, *RV*-2/3, *TB*-1/3, *SB-M*-2/3, *SB-K*-2/4, *VS-M*-1/2, *VS-K*-1/2)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-341, *KS*-247)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *KS*-33)
+- ईड᳓यस्व (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, णिच् पा॰ ३.१.३)
+- आ-स्थाता᳓ (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- जयतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-1, *AV*-1, *SB-M*-9, *SB-K*-9, *VS-M*-5, *VS-K*-5, *KS*-4)
+- जे᳓त्वानि (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- व᳓नस्पते (*MS*-5, *TS*-4, *RV*-7, *TB*-2, *AV*-3, *VS-M*-2, *VS-K*-3)
+- वीड्व᳙ङ्गः (*MS*-1, *TS*-1, *SB-M*-2, *SB-K*-2, *VS-K*-1)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- भूयाः᳓ (*MS*-1/6, *TS*-2, *RV*-4, *AV*-5, *SB-M*-4, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- अस्म᳓त्-सखा (*MS*-2, *TS*-2, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2)
+- प्र-त᳓रणः (*MS*-2/3, *TS*-2/4, *RV*-4/5, *AV*-2/3, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-3/4)
+- सु-वी᳓रः (*MS*-6/20, *TS*-9/26, *RV*-16/92, *TB*-1/13, *AV*-7/22, *SB-M*-4/6, *SB-K*-6/7, *VS-M*-5/12, *VS-K*-6/14)
+- गो᳓भिः (*MS*-14/149, *TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/67, *VS-K*-7/67)
+- स᳓न्नत् (अनाम्नातम् (अनुमानम्))
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *MS*-130)
+- ईड᳓यस्व (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, णिच् पा॰ ३.१.३, *MS*-2)
+- आ-स्थाता᳓ (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-2, *MS*-1)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- जयतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-5, *RV*-1, *AV*-1, *SB-M*-9, *SB-K*-9, *VS-M*-5, *VS-K*-6)
+- जे᳓त्वानि (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -256,6 +321,11 @@ Lord of the Wood, be firm and strong in body: be, bearing us, a brave victorious
 गोभिः संनद्धोऽसि गवादिचर्मरज्जुभिः सम्यग्बद्धोऽसि वीडयस्वात्यन्यं दृढो भव।  
 ते तवाऽऽस्थाता जेत्वानि जेतव्यानि परसैन्यानि जयतु।
 </details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[637_13]** Ch स्थातां; vgl. RV 6, 47, 26. (Ch स्थातां; cf. RV 6, 47, 26.)
+</details>
 </details>
 </div>
 
@@ -299,6 +369,18 @@ Its mighty strength was borrowed from the heaven and earth: its conquering force
 Its mighty strength was borrowed from the heaven and earth its conquering force was brought from sovrans of the wood. Honour with holy gifts the Car like Indra's bolt, the Car bound round with straps, the vigour of the floods.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The strength gathered from heaven, from earth, from the intermediate space, from the trees,  
+the might of waters gathered about with cow-[hides], Indra's bolt—worship the chariot with an oblation!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The power drawn forth from heaven and earth, the strength gathered from the trees,  
+the might of the waters enclosed with ox-hides—worship the chariot, Indra's bolt, with the oblation!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 दि॒वस्पृ॑थि॒व्याः पर्योज॒ उद्भृ॑तं॒ वन॒स्पति॑भ्यः॒ पर्याभृ॑तं॒ सहः॑।  
@@ -311,6 +393,18 @@ Its mighty strength was borrowed from the heaven and earth its conquering force 
 अ॒पामो॒ज्मानं॒ परि॒ गोभि॒रावृ॑त॒मिन्द्र॑स्य॒ वज्रँ॑ ह॒विषा॒ रथं॑ यज ॥५३ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+दिव᳓स् पृथिव्याः᳓ प᳓र्य् अन्त᳓रिक्षाद् व᳓नस्प᳓तिभ्यः प᳓र्य् आ᳓वृतँ स᳓हः  
+अपा᳓म् ओज्मा᳓नं प᳓रि गो᳓भिर् आ᳓वृतम् इ᳓न्द्रस्य व᳓ज्रँ हवि᳓षा र᳓थँ यज
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+दिवः पृथिव्याः पर्योज उद्भृतं वनस्पतिभ्यः पर्याभृतँ सहः।  
+अपामोज्मानं परि गोभिरावृतमिन्द्रस्य वज्रँ हविषा रथं यज
+</details>
+
 <details><summary>पदपाठः</summary>
 
 दि॒वः। पृ॒थि॒व्याः। परि॑। ओजः॑। उत्ऽभृ॑तम्। वन॒स्पति॑ऽभ्यः। परि॑। आऽभृ॑तम्। सहः॑। अ॒पाम्। ओ॒ज्मान॑म्। परि॑। गोभिः॑। आऽवृ॑तम्। इन्द्र॑स्य। वज्र॑म्। ह॒विषा॑। रथ॑म्। य॒ज॒। १२५.२।
@@ -319,6 +413,53 @@ Its mighty strength was borrowed from the heaven and earth its conquering force 
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 दि॒वः। पृ॒थि॒व्याः। परि॑। ओजः॑। उद्भृ॑त॒मित्युत्ऽभृ॑तम्। वन॒स्पति॑भ्य॒ इति॒ वन॒स्पति॑ऽभ्यः। परि॑। आभृ॑त॒मित्याऽभृ॑तम्। सहः॑। अ॒पाम्। ओ॒ज्मान॑म्। परि॑। गोभिः॑। आवृ॑त॒मित्याऽवृ॑तम्। इन्द्र॑स्यः। वज्र॑म्। ह॒विषा॑। रथ॑म्। य॒ज॒। ५३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- दिवः᳓ (*TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-38/172, *KS*-43/128)
+- पृथिव्याः᳓ (*TS*-71/79, *RV*-99, *TB*-31, *TK*-1, *AV*-48, *SB-M*-69, *SB-K*-71, *VS-M*-55, *VS-K*-45/49, *KS*-20/21)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-76, *KS*-87)
+- अन्त᳓रिक्षात् (*TS*-14/180, *RV*-13/94, *TB*-5/54, *TK*-0/10, *AV*-19/143, *SB-M*-22/263, *SB-K*-22/257, *VS-M*-5/76, *VS-K*-5/64, *KS*-8/57)
+- व᳓नस्प᳓तिभ्यः (*TS*-4/6, *RV*-1, *TB*-1, *AV*-3, *SB-M*-3, *SB-K*-3, *VS-M*-5, *VS-K*-4, *KS*-1)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-76, *KS*-87)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- अ᳓वृतम् (*RV*-1/7, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *KS*-2/4)
+- स᳓हः (*TS*-18/35, *RV*-47/122, *TB*-11/28, *TK*-2/4, *AV*-30/50, *SB-M*-11/21, *SB-K*-10/24, *VS-M*-15/28, *VS-K*-22/38, *KS*-8/18)
+- अपा᳓म् (*TS*-81/319, *RV*-111/532, *TB*-27/152, *TK*-1/14, *AV*-62/324, *SB-M*-102/760, *SB-K*-102/744, *VS-M*-46/146, *VS-K*-37/122, *KS*-28/99)
+- ओज्मा᳓नम् (*TS*-1, *RV*-1, *AV*-3, *VS-M*-1)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-76, *KS*-87)
+- गो᳓भिः (*TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/66, *VS-K*-6/64, *KS*-2/37)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- अ᳓वृतम् (*RV*-1/7, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *KS*-2/4)
+- इ᳓न्द्रस्य (*TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-59/388, *VS-K*-53/358, *KS*-30/189)
+- व᳓ज्रम् (*TS*-44/120, *RV*-69/137, *TB*-7/37, *TK*-0/2, *AV*-20/54, *SB-M*-47/292, *SB-K*-42/267, *VS-M*-1/7, *VS-K*-0/3, *KS*-6/19)
+- हवि᳓षा (*TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-M*-45/380, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-39/95, *KS*-19/60)
+- र᳓थम् (*TS*-8/36, *RV*-168/393, *TB*-15/36, *TK*-0/3, *AV*-21/57, *SB-M*-20/50, *SB-K*-20/53, *VS-M*-5/16, *VS-K*-2/12, *KS*-3/12)
+- यज (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-8, *RV*-14, *TB*-1, *TK*-1, *AV*-2, *SB-M*-27, *SB-K*-21, *VS-M*-4, *VS-K*-2, *KS*-3)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
+- पृथिव्याः᳓ (*MS*-92, *TS*-71/79, *RV*-99, *TB*-31, *TK*-1, *AV*-48, *SB-M*-69, *SB-K*-71, *VS-M*-55, *VS-K*-46/50)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- ओजः (समानान्तर-पाठः (TS), *TS*-1, *MS*-1)
+- उ᳓त्-भृतम् (*MS*-2, *TS*-1, *RV*-2, *TB*-2, *AV*-3/4, *VS-M*-4, *VS-K*-3)
+- व᳓नस्प᳓तिभ्यः (*MS*-8, *TS*-4/6, *RV*-1, *TB*-1, *AV*-3, *SB-M*-3, *SB-K*-3, *VS-M*-5, *VS-K*-4)
+- पर्या᳓भृतम् (*MW*)
+- स᳓हः (*Whitney*, *MS*-17/43, *TS*-18/35, *RV*-47/122, *TB*-11/28, *TK*-2/4, *AV*-30/50, *SB-M*-11/21, *SB-K*-10/24, *VS-M*-15/28, *VS-K*-22/40)
+- अपा᳓म् (*MS*-96/374, *TS*-81/319, *RV*-111/532, *TB*-27/152, *TK*-1/14, *AV*-62/324, *SB-M*-102/760, *SB-K*-102/744, *VS-M*-46/146, *VS-K*-38/124)
+- ओज्मा᳓नम् (*MS*-1, *TS*-1, *RV*-1, *AV*-3, *VS-M*-1)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- गो᳓भिः (*MS*-14/149, *TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/67, *VS-K*-7/67)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- अ᳓वृतम् (*MS*-3/5, *RV*-1/7, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1)
+- इ᳓न्द्रस्य (*MS*-84/711, *TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-61/392, *VS-K*-57/380)
+- व᳓ज्रम् (*MS*-61/149, *TS*-44/120, *RV*-69/137, *TB*-7/37, *TK*-0/2, *AV*-20/54, *SB-M*-47/292, *SB-K*-42/267, *VS-M*-1/7, *VS-K*-0/3)
+- हवि᳓षा (*MS*-56/213, *TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-M*-45/380, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-40/101)
+- र᳓थम् (*MS*-20/57, *TS*-8/36, *RV*-168/393, *TB*-15/36, *TK*-0/3, *AV*-21/57, *SB-M*-20/50, *SB-K*-20/53, *VS-M*-5/16, *VS-K*-2/13)
+- यज (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-8, *RV*-14, *TB*-1, *TK*-1, *AV*-2, *SB-M*-27, *SB-K*-21, *VS-M*-4, *VS-K*-2)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -408,6 +549,11 @@ Its mighty strength was borrowed from the heaven and earth its conquering force 
 श्रुतेः।
 
 ईदृशं यजेत्यर्थः॥ ५३॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[638_1]** So corr. Cha वज्रो ; vgl. RV 6, 47, 27; MS 3, 16, 3; TS 4, 6, 6, 6; VS 29, 53. (Thus emended; Ch reads वज्रो; cf. RV 6, 47, 27; MS 3, 16, 3; TS 4, 6, 6, 6; VS 29, 53.)
 </details>
 </details>
 </div>
