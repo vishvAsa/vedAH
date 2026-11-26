@@ -44,8 +44,8 @@ Sniffer, and Feeler, him who eats raw flesh, and him who licks his lips, Arayas 
 
 - अनु-जिघ्र᳓म् (*AV*-1)
 - प्र-मृश᳓न्तम् (*AV*-1)
-- क्रव्या᳓दम् (*TS*-1, *TB*-1/2, *SB-M*-1/3, *SB-K*-1/3, *KS*-0/1, *MS*-2/5)
-- उत᳓ (*Whitney*, *Lanman*, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72, *KS*-55, *MS*-127)
+- क्रव्या᳓दम् (*TS*-1, *TB*-1/2, *SB-M*-1/3, *SB-K*-1/3, *MS*-2/5)
+- उत᳓ (*Whitney*, *Lanman*, *TS*-120, *RV*-701, *TB*-27, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72, *KS*-14, *MS*-105)
 - रेरिह᳓म् (*AV*-1)
 - अरा᳓यम् (*AV*-1/9)
 - श्व-किष्किण᳓म् (समासस्य पा॰ ६.१.२२३)
