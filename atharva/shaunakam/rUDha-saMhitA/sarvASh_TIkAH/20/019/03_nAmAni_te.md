@@ -8,6 +8,12 @@ title = "०३ नामानि ते"
 O Indra, Lord of Hundred Powers, with all our songs we invocate. Thy names for triumph over foes.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+We seek thy names, O thou of a hundred resolves, with all our songs,  
+for Indra's overcoming of enemies.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 नामा॑नि ते शतक्रतो॒ विश्वा॑भिर्गी॒र्भिरी॑महे।  

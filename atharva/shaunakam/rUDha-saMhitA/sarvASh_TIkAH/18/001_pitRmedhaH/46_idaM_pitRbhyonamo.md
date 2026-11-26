@@ -30,6 +30,12 @@ verse) is prescribed alone (80. 51) to accompany the scattering of
 Now be this homage offered to the Fathers, to those who passed of old and those who followed, Those who have rested in the earthly region and those who dwell among the happy races.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let this homage be to the Fathers today: those who have gone as the earlier, those who as the later,  
+those who are seated in the earthly realm, or those who are now among the clans with fair settlements.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 इ॒दं पि॒तृभ्यो॒नमो॑ अस्त्व॒द्य ये पूर्वा॑सो॒ ये अप॑रास ई॒युः।  
@@ -48,6 +54,12 @@ Now be this homage offered to the Fathers, to those who passed of old and those 
 ये पार्थि॑वे॒ रज॒स्या निष॑त्ता॒ ये वा॑ नू॒नँ सु॑वृ॒जना॑सु वि॒क्षु ॥१७॥ ६७
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इदं᳓ पितृ᳓भ्यो न᳓मो अस्त्व् अद्य᳓ ये᳓ पू᳓र्वासो य᳓ उ᳓परास ईयुः᳓  
+ये᳓ पा᳓र्थिवे र᳓जस्य् आ᳓ नि᳓षत्ता ये᳓ वा नूनँ᳓ सुवृज᳓नासु विक्षु᳓
+</details>
+
 <details><summary>पदपाठः</summary>
 
 इ॒दम्। पि॒तृऽभ्यः॑। नमः॑। अ॒स्तु॒। अ॒द्य। ये। पूर्वा॑सः। ये। अप॑रासः। ई॒युः। ये। पार्थि॑वे। रज॑सि। आ। निऽस॑क्ताः। ये। वा॒। नू॒नम्। सु॒ऽवृ॒जना॑सु। दि॒क्षु। १.४६।
@@ -61,6 +73,30 @@ Now be this homage offered to the Fathers, to those who passed of old and those 
 <details><summary>पदपाठः - काण्वः</summary>
 
 इ॒दम्। पि॒तृभ्य॒ इति॑ पि॒तृ॒ऽभ्यः॑। नमः॑। अ॒स्तु। अ॒द्य। ये। पूर्वौसः। ये। उप॑रासः। ईयुः। ये। पार्थि॑वे। रज॑सि॒। आ। निष॑त्ताः। निस॑त्ता इति निऽसंत्ताः। ये। वा॒। नूनम्। सु॒व॒जना॒स्त्रिति॑ सु॒ऽव॒जना॑सु। वि॒क्षु। १७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इद᳓म् (*TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-M*-1046/5239, *SB-K*-982/5549, *VS-M*-65/313, *VS-K*-61/289, *KS*-72/319)
+- पितृ᳓भ्यः (*TS*-20/121, *RV*-11/254, *TB*-18/111, *TK*-0/6, *AV*-23/228, *SB-M*-27/321, *SB-K*-24/317, *VS-M*-8/80, *VS-K*-5/63, *KS*-4/43)
+- न᳓मः (*TS*-291/315, *RV*-49/182, *TB*-47/60, *TK*-4, *AV*-230/248, *SB-M*-102/105, *SB-K*-100/102, *VS-M*-235/244, *VS-K*-146/167, *KS*-291/305)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-58, *VS-K*-36, *KS*-52)
+- अद्य᳓ (*TS*-44, *RV*-215, *TB*-30, *TK*-2, *AV*-66, *SB-M*-42, *SB-K*-48, *VS-M*-55, *VS-K*-52, *KS*-14)
+- ये᳓ (*TS*-213/3383, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/639, *VS-K*-82/581, *KS*-66/818)
+- पू᳓र्वासः (*TS*-1/81, *RV*-2/115, *TB*-0/59, *TK*-0/4, *AV*-1/88, *SB-M*-0/216, *SB-K*-0/184, *VS-M*-1/20, *VS-K*-1/16, *KS*-0/15)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-137/639, *VS-K*-108/581, *KS*-223/818)
+- उ᳓परासः (*TS*-1/2, *RV*-2/26, *TB*-0/1, *AV*-0/6, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/2, *KS*-0/3)
+- ईयुः᳓ (*TS*-3, *RV*-6, *TB*-1, *AV*-3, *SB-M*-6, *SB-K*-4, *VS-M*-2, *VS-K*-1)
+- ये᳓ (*TS*-213/3383, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/639, *VS-K*-82/581, *KS*-66/818)
+- पा᳓र्थिवे (*TS*-1/10, *RV*-3/52, *TB*-0/4, *AV*-1/24, *SB-M*-0/7, *SB-K*-0/6, *VS-M*-1/9, *VS-K*-1/8, *KS*-0/8)
+- र᳓जसि (*TS*-2/22, *RV*-6/144, *TB*-0/14, *AV*-4/39, *SB-M*-1/16, *SB-K*-1/14, *VS-M*-3/22, *VS-K*-2/18, *KS*-1/11)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- नि᳓-सत्ताः (*TS*-1/2, *RV*-2/11, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-0/1)
+- ये᳓ (*TS*-213/3383, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/639, *VS-K*-82/581, *KS*-66/818)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-35, *KS*-61)
+- नून᳓म् (*TS*-5, *RV*-104, *TB*-4, *AV*-13, *SB-M*-8, *SB-K*-8, *VS-M*-11, *VS-K*-4, *KS*-6)
+- सु-वृज᳓नासु (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- विक्षु᳓ (*TS*-6, *RV*-48, *TB*-2, *AV*-4, *SB-M*-5, *SB-K*-5, *VS-M*-3, *VS-K*-2, *KS*-4)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -13,6 +13,21 @@ Ye, Asvins, Lords of Splendour, drank full draughts of grateful Soma juice, And 
 Ye Asvins and Sarasvatî, joint drinkers of the Sara draught, In Namuchi of Asura birth, give aid to Indra in his deeds.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O two Aśvins, drinking the liquor thoroughly along with the Asura Namuci,  
+Sarasvatī and you aided Indra in his deeds.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+You two, O Aśvins, drank the intoxicating drink together with Namuci the Asura;  
+drinking thoroughly, O lords of beauty, you helped Indra in his deeds.
+
+You two, Aśvins, drank the heady liquor together with the Asura Namuci;  
+lords of beauty, protect Indra in his rites!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 यु॒वं सु॒राम॑मश्विना॒ नमु॑चावासु॒रे सचा॑।  
@@ -43,6 +58,18 @@ Ye Asvins and Sarasvatî, joint drinkers of the Sara draught, In Namuchi of Asur
 वि॒पि॒पा॒ना शु॑भस्पती इन्द्र॒ङ् कर्म॑स्वावतम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+युवँ᳓ सुरा᳓मम् अश्विना न᳓मुचा आसुरे᳓ स᳓चा  
+विपिपाना᳓ स᳓रस्वती᳓न्द्रं क᳓र्मस्व् आवत
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+युवँ सुराममश्विना नमुचा आसुरे सचा।  
+विपिपाना शुभस्पती इन्द्रं कर्मस्वावतम्
+</details>
+
 <details><summary>पदपाठः</summary>
 
 यु॒वम्। सु॒राम॑म्। अ॒श्वि॒ना॒। नमु॑चौ। आ॒सु॒रे। सचा॑। वि॒ऽपि॒पा॒ना। शु॒भः॒। प॒ती॒ इति॑। इन्द्र॑म्। कर्म॑ऽसु। आ॒व॒त॒म्। १२५.४।
@@ -65,6 +92,36 @@ Ye Asvins and Sarasvatî, joint drinkers of the Sara draught, In Namuchi of Asur
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 युव᳓म् । सु-रा᳓मम् । अश्वि᳓ना । न᳓मुचौ । आसुरे᳓ । स᳓चा । वि-पिपाना᳓ । शुभस्पती । इन्त् । रङ् । क᳓र्मसु । आवतम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- युव᳓म् (*TS*-10/13, *RV*-137/144, *TB*-13, *TK*-0/1, *AV*-15, *SB-M*-18/21, *SB-K*-18/22, *VS-M*-7, *VS-K*-8, *KS*-4/5)
+- सु-रा᳓मम् (*RV*-2, *TB*-2, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-10)
+- अश्विना (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-4, *RV*-269, *TB*-13, *AV*-31, *SB-M*-4, *SB-K*-2, *VS-M*-16, *VS-K*-11, *KS*-1)
+- न᳓मुचाः (*RV*-0/1, *TB*-0/2, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/3, *VS-K*-0/9)
+- आसुरे᳓ (*TS*-0/4, *RV*-1/5, *TB*-2/4, *AV*-1, *SB-M*-1/6, *SB-K*-1/4, *VS-M*-3/5, *VS-K*-2/5, *KS*-0/3)
+- स᳓चा (*RV*-85, *TB*-4, *AV*-15, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-6, *VS-K*-9, *KS*-4)
+- वि-पिपाना᳓ (*RV*-1/4, *TB*-1, *AV*-1/2, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-4/5)
+- स᳓रस्वती (*TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-57/91, *KS*-5/11)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- क᳓र्मसु (*RV*-2, *TB*-2, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-6)
+- आवत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-4, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- युव᳓म् (*MS*-22/25, *TS*-10/13, *RV*-137/144, *TB*-13, *TK*-0/1, *AV*-15, *SB-M*-18/21, *SB-K*-18/22, *VS-M*-9, *VS-K*-12)
+- सु-रा᳓मम् (*MS*-3, *RV*-2, *TB*-2, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-6, *VS-K*-16)
+- अश्विना (समानान्तर-पाठः (VS-K), *MS*-9, *TS*-4, *RV*-269, *TB*-13, *AV*-31, *SB-M*-4, *SB-K*-2, *VS-M*-18, *VS-K*-15)
+- न᳓मुचाः (*MS*-2, *RV*-0/1, *TB*-0/2, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/5, *VS-K*-0/13)
+- आसुरे᳓ (*MS*-2/8, *TS*-0/4, *RV*-1/5, *TB*-2/4, *AV*-1, *SB-M*-1/6, *SB-K*-1/4, *VS-M*-5/7, *VS-K*-6/9)
+- स᳓चा (*Whitney*, *MS*-7/9, *RV*-85, *TB*-4, *AV*-15, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-8, *VS-K*-13)
+- वि-पिपाना᳓ (*MS*-1, *RV*-1/4, *TB*-1, *AV*-1/2, *SB-M*-1, *SB-K*-1, *VS-M*-2/4, *VS-K*-7/9)
+- शुभस्पती (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *TB*-1, *SB-K*-1)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- क᳓र्मसु (*RV*-2, *TB*-2, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-5, *VS-K*-10, *MS*-2)
+- आवतम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-7, *MS*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -282,6 +339,13 @@ Ye Asvins and Sarasvatî, joint drinkers of the Sara draught, In Namuchi of Asur
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1 अथ सौत्रामणीशेषो वैश्वदेवं काण्डं एकोऽनुवाकः ॥ तत्र ग्रहाणां याज्यानुवाक्ये - युवं सुराममश्विनेत्यनुष्टुप् भू पुत्रमिवेति त्रिष्टुप् । हे अश्विना! अश्विनौ! । ‘सुपां सुलुक्’ इत्याकारः । युवं युवां सुरामं सुष्ठु रतिहेतुम् । करणे घञ् ... । केचिदाहुः - असुरापत्यं आसुर इति । तेषां ताद्वितानुपपत्तिः जातिशब्दत्वात् । येन हेतुना असुरः पिता तेनैव हेतुना पुऽत्रोऽप्यसुरः । यथा - काकाज्जतोऽन्तरेणाप्यपत्यप्रत्ययं काको भवति । अन्ये तु ब्रुवते - असुरशब्दस्यैवायमादिवर्णविकार इति । तदप्ययुक्तं अन्तोदात्तश्रवणात् । असुरशब्दो ह्याद्युदात्तः । तस्मिन् नमुचा सचा समवेतं तस्मिन्मदहेतुत्वेन सर्वदा स्थितम् । क्विपि द्वितीयैकवचनस्य ‘सुपां सुलुक्’ इत्याकारः । ईदृशं रसं विपिपाना विपिबन्तौ युवां हे शुभस्पती! शुभस्य कर्मणः पातारौ । शोभतेः क्विपि षष्ठ्येकवचनस्य ‘षष्ठ्याः पतिपुत्र’ इति सत्वम् । ‘सुबामन्त्रिते’ इति पराङ्गवद्भावेन षष्ठ्यामन्त्रितसमुदायस्य निघातः । तौ युवां कर्मसु पानकर्मसु आवतं रक्षतं तर्पयतं वा, तेन साहैव पिबतमिति यावत् । उपलक्षणत्वात् सरस्वती चेति द्रष्टव्यम् । ब्राह्मणं च भवति - “युवं सुराममश्विनेति सर्वदेवत्ये याज्यानुवाक्ये भवतः” इति । अवतेः ‘छन्दसि लुङ्लङ्लिटः ’ इति लोडर्थे लङ् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[576_3]** So corr. Ch युवाँ (Thus emended; Ch reads युवाँ)
+
+- **[576_4]** Vgl. RV 10, 131, 4; auch MS 3, 11, 4 und VS 20, 76. (Cf. RV 10, 131, 4; also MS 3, 11, 4 and VS 20, 76.)
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>

@@ -27,6 +27,12 @@ Vāit., see under vs. 44.
 I have attained the gracious-minded Fathers, I have gained son and progeny from Vishnu. They who enjoy pressed juices with oblation, seated on sacred grass, come oftenest hither.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I have found the well-knowing Fathers, and the grandson and the stride of Viṣṇu;  
+those who, sitting on the sacrificial grass, share according to their nature in the food of the pressed [Soma], are most eager to come here.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 आहंपि॒तॄन्त्सु॑वि॒दत्राँ॑ अवित्सि॒ नपा॑तं च वि॒क्रम॑णं च॒ विष्णोः॑।  
@@ -37,6 +43,12 @@ I have attained the gracious-minded Fathers, I have gained son and progeny from 
 
 आहं पि॒तॄन्त्सु॑वि॒दत्राँ॑२ऽअवित्सि॒ नपा॑तं च वि॒क्रम॑णं च॒ विष्णोः॑।  
 ब॒र्हि॒षदो॒ ये स्व॒धया॑ सु॒तस्य॒ भज॑न्त पि॒त्वस्तऽइ॒हाग॑मिष्ठाः ॥५६ ॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आ᳓हं᳓ पितृ᳓̄न्त् सुविद᳓त्रं अवित्सि न᳓पातं च विक्र᳓मणं च वि᳓ष्णोः  
+बर्हिष᳓दः स्वध᳓या ये᳓ सुत᳓स्य भ᳓जन्त पित्व᳓स् त᳓ इहा᳓गमिष्ठाः
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -52,6 +64,29 @@ I have attained the gracious-minded Fathers, I have gained son and progeny from 
 <details><summary>पदपाठः - काण्वः</summary>
 
 आ। अ॒हम्। पि॒तॄन्। सु॒वि॒दत्रा॒निति॑ सुऽवि॒दत्रा॑न्। अ॒वि॒त्सि॒। नपा॑तम्। च॒। वि॒क्रम॑ण॒मिति॑ वि॒ऽक्रम॑णम्। च॒। विष्णोः॑। ब॒र्हि॒षद॒ इति॑ बर्हि॒ऽसदः॑। ये। स्व॒धया॑। सु॒तस्य॑। भज॑न्त। पि॒त्वः। ते। इ॒ह। आग॑मिष्ठा॒। इत्याऽग॑मिष्ठाः। ७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ᳓ह᳓म् → **आ᳓हम्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *MW*, *Macdonell*, *TB*-0/3, *SB-M*-0/3, *SB-K*-0/7)
+- पितॄ᳓न् (*TS*-3, *RV*-7, *TB*-13, *TK*-1, *AV*-15, *SB-M*-32, *SB-K*-35, *VS-M*-5, *VS-K*-5, *KS*-2)
+- सु-विद᳓त्रम् (*TS*-0/4, *RV*-1/7, *TB*-0/1, *AV*-1/6, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/1)
+- अवित्सि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2, *AV*-1, *VS-M*-2, *VS-K*-1, *KS*-1)
+- न᳓पातम् (*TS*-4/5, *RV*-20/42, *TB*-4, *AV*-4/5, *SB-M*-0/3, *SB-K*-0/1, *VS-M*-3/5, *VS-K*-3/5, *KS*-2/7)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- वि-क्र᳓मणम् (*TS*-1, *RV*-1/3, *AV*-1/3, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-2/3, *VS-K*-1/2, *KS*-1/2)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- वि᳓ष्णोः (*TS*-45/151, *RV*-18/79, *TB*-4/53, *AV*-19/45, *SB-M*-33/165, *SB-K*-31/162, *VS-M*-22/59, *VS-K*-11/62, *KS*-14/43)
+- बर्हि-स᳓दः (*TS*-2/4, *RV*-2/5, *TB*-5/10, *AV*-1, *SB-K*-3/9, *VS-M*-1/4, *VS-K*-1/3, *KS*-1/4)
+- स्व-ध᳓या (*TS*-9/18, *RV*-28/70, *TB*-1/15, *AV*-12/58, *SB-M*-3/28, *SB-K*-3/24, *VS-M*-8/22, *VS-K*-6/21, *KS*-3/7)
+- ये᳓ (*TS*-213/3383, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/639, *VS-K*-82/581, *KS*-66/818)
+- सुत᳓स्य (*TS*-4/19, *RV*-69/392, *TB*-3/20, *AV*-12/61, *SB-M*-5/28, *SB-K*-6/29, *VS-M*-6/39, *VS-K*-5/31, *KS*-5/15)
+- भ᳓जन्त (*TS*-1, *RV*-3, *AV*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- पित्वः᳓ (*TS*-2, *RV*-9, *AV*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+- ते᳓ (*TS*-451/4763, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *SB-K*-914/20018, *VS-M*-118/768, *VS-K*-88/624, *KS*-91/1225)
+- इह᳓ (*TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-89, *VS-K*-83, *KS*-43)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-7, *VS-K*-11, *KS*-122)
+- अगमिष्ठाः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *KS*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

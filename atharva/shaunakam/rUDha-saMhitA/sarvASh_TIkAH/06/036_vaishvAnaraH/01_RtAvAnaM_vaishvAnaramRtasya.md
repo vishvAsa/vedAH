@@ -57,10 +57,28 @@ The immortal cauldron we seek.
 Vaisvânara the righteous One, the Lord of sacrifice and light, The heat that wasteth not, we seek.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vaiśvānara, observant of cosmic order, the lord of the light of cosmic order,  
+the inexhaustible Gharma we seek.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Vaiśvānara, observant of Ṛta, the lord of the light of Ṛta,  
+the ceaseless heat, we seek.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 ऋ॒तावा॑नं वैश्वान॒रमृ॒तस्य॒ ज्योति॑ष॒स्पति॑म्।  
 अज॑स्रं घ॒र्ममी॑महे ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+ऋता᳓वानं वैश्वानर᳓मृत᳓स्य ज्यो᳓तिषस्प᳓तिम्।  
+अ᳓जस्रं धर्म᳓मीमहे
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -71,6 +89,18 @@ Vaisvânara the righteous One, the Lord of sacrifice and light, The heat that wa
 <details><summary>पदपाठः - काण्वः</summary>
 
 ऋ॒तावा॑नम्। ऋ॒तवा॑ना॒मित्यृ॒तऽवा॑नम्। वै॒श्वा॒न॒रम्। ऋ॒तस्य॑। ज्योति॑षः। पति॑म्। अज॑स्रम्। घ॒र्मम्। ई॒म॒हे॒।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ऋत᳓-वानम् (*MS*-2/9, *TS*-2/11, *RV*-5/50, *TB*-0/1, *TK*-0/1, *AV*-1/2, *SB-K*-1/2, *VS-M*-2, *VS-K*-3)
+- वैश्वानर᳓म् (*MS*-23/116, *TS*-42/104, *RV*-11/42, *TB*-6/20, *TK*-0/4, *AV*-3/31, *SB-M*-47/147, *SB-K*-48/140, *VS-M*-6/36, *VS-K*-7/33)
+- ऋत᳓स्य (*MS*-29/93, *TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-21/45)
+- ज्यो᳓तिषः (*MS*-4/134, *TS*-1/199, *RV*-4/148, *TB*-1/70, *TK*-0/5, *AV*-4/66, *SB-M*-1/173, *SB-K*-1/174, *VS-M*-1/72, *VS-K*-3/80)
+- प᳓तिम् (*MS*-11/47, *TS*-7/45, *RV*-57/200, *TB*-8/21, *TK*-0/6, *AV*-34/137, *SB-M*-10/64, *SB-K*-9/61, *VS-M*-14/45, *VS-K*-18/61)
+- अ᳓जस्रम् (*MS*-10/16, *TS*-7/12, *RV*-5/18, *TB*-2, *AV*-3/6, *SB-M*-7/16, *SB-K*-7/16, *VS-M*-6/10, *VS-K*-6/9)
+- धर्म᳓म् (*AV*-0/5, *SB-M*-0/4, *SB-K*-0/5)
+- ईमहे (*MS*-17, *TS*-11, *RV*-89, *TB*-3, *AV*-16, *SB-M*-3, *SB-K*-3, *VS-M*-10, *VS-K*-10)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

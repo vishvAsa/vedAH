@@ -30,15 +30,44 @@ the Poona ed., p. 716, has *bruvan*.⌋
 Come forward, turn not back in scorn, strong guardian, slayer of the foes. Approach, O gladdener of thy friends. The Gods have blessed and strengthened thee.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Advance, display your heroism; formidable, mindful, slayer of rivals;  
+mount [the chariot], strengthener of friends; the gods have spoken on your behalf.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 अ॒भि प्रेहि॒ माप॑ वेन उ॒ग्रश्चे॒त्ता स॑पत्न॒हा।  
 आ ति॑ष्ठ मित्रवर्धन॒ तुभ्यं॑ दे॒वा अधि॑ ब्रुवन् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अभि᳓ प्रे᳓हि वीर᳓यस्वोग्रे᳓श्चे᳓त्ता सपत्नहा᳓।  
+आ᳓तिष्ठ मित्रव᳓र्धनस्तु᳓भ्यं देवा᳓ अ᳓धिब्रुवन्
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अ॒भि। प्र। इ॒हि॒। मा। अप॑। वे॒नः॒। उ॒ग्रः। चे॒त्ता। स॒प॒त्न॒ऽहा। आ। ति॒ष्ठ॒। मि॒त्र॒ऽव॒र्ध॒न॒। तुभ्य॑म्। दे॒वाः। अधि॑। ब्रु॒व॒न्। ८.२।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- इहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-88, *TS*-69, *RV*-61, *TB*-18, *TK*-6, *AV*-93, *SB-M*-70, *SB-K*-73, *VS-M*-32, *VS-K*-20)
+- वीर᳓यस्व (*MS*-2, *TS*-1, *TB*-2, *AV*-1, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- उग्रेः᳓ (*AV*-0/4)
+- चे᳓त्ता (*MS*-6, *TS*-8/9, *RV*-1/2, *TB*-2, *VS-M*-1)
+- सपत्न-हा᳓ (*MS*-5, *TS*-2, *RV*-3, *TB*-2, *AV*-19/20, *SB-M*-2, *SB-K*-3, *VS-M*-3, *VS-K*-3)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- तिष्ठ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-21, *TS*-24, *RV*-26, *TB*-13, *TK*-1, *AV*-36, *SB-M*-14, *SB-K*-11, *VS-M*-12, *VS-K*-13)
+- मित्र-व᳓र्धनः (*TB*-2, *AV*-1)
+- तु᳓भ्यम् (*MS*-14/382, *TS*-11/313, *RV*-93/1488, *TB*-10/152, *TK*-2/39, *AV*-37/628, *SB-M*-17/387, *SB-K*-16/387, *VS-M*-9/216, *VS-K*-10/180)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- अ᳓धि-ब्रुवन् (*MS*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -67,4 +96,13 @@ Come forward, turn not back in scorn, strong guardian, slayer of the foes. Appro
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(अभि) अभितः सर्वतः (प्रेहि) प्रगच्छ (मा अप वेनः) वेनतिः कान्तिकर्मा-निघ० २।६। गतिकर्मा०-२।१४। अर्चतिकर्मा-३।१४। माप गच्छ (उग्रः) तीव्रस्वभावः (चेत्ता) चिती संज्ञाने-तृन्। चेतिता। ज्ञानवान् (सपत्नहा) अ० १।२९।५। शत्रूणां हन्ता (आतिष्ठ) राजासनं हस्त्यश्वादियानं च आरोह (मित्रवर्धन) नन्दिग्रहिपचादि०। पा० ३।१।१३४। इति वृधेर्ण्यन्तात्-ल्यु। हे मित्राणां वर्धयितः (तुभ्यम्) (देवाः) विजिगीषवो विद्वांसः (अधि ब्रुवन्) ब्रूञ् व्यक्तायां वाचि-लङ्। अधि अब्रुवन्। अधि-वचनम् अनुग्रहवचनम् उच्चारितवन्तः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[556_3]** Brl 119 अभिग्रे᳓हि; TBr. 2, 7, 8, 1 अभि᳓ ग्रे᳓हि
+
+- **[556_4]** So Ch, ohne Accent; T 1, Brl 119 und W 2 श्चि᳓ता; aber TBr. 2, 7, 16, 1 श्चे᳓त्ता (Thus Ch, without accent; T 1, Brl 119, and W 2 read श्चि᳓ता; but TBr. 2, 7, 16, 1 reads श्चे᳓त्ता)
+
+- **[556_5]** Brl wohl अ᳓धिब्रवन्, wie TBr. 2, 7, 16, 1. (Brl probably अ᳓धिब्रवन्, like TBr. 2, 7, 16, 1.)
 </details>

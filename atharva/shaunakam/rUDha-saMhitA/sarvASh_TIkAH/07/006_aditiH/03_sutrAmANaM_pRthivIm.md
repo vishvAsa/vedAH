@@ -210,6 +210,12 @@ oars, divine, that never leaketh,
 Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protecting.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Heaven and Earth providing good protection, blameless, providing good shelter, Aditi who leads well—  
+may we mount the divine boat with good oars, guiltless, unswerving, for well-being.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 सु॒त्रामा॑णं पृथि॒वीं द्याम॑ने॒हसं॑ सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिम्।  
@@ -228,6 +234,12 @@ Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protect
 दे॒वीं नावँ॑ स्वरि॒त्रामना॑गस॒मस्र॑वन्ती॒मा रु॑हेमा स्व॒स्तये॑ ॥६॥ ६
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सुत्रामाणं पृथिवीं द्यामनेहसँ सुशर्माणमदितिँ सुप्रणीतम्।  
+दैवीं नावँ स्वरित्रामनागसमस्रवन्तीमारुहेम स्वस्तये
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सु॒ऽत्रामा॑णम्। पृ॒थि॒वीम्। द्याम्। अ॒ने॒हस॑म्। सु॒ऽशर्मा॑णम्। अदि॑तिम्। सु॒ऽप्रणी॑तिम्। दैवी॑म्। नाव॑म्। सु॒ऽअ॒रि॒त्राम्। अना॑गसः। अस्र॑वन्तीम्। आ। रु॒हे॒म॒। स्व॒स्तये॑। ७.१।
@@ -241,6 +253,26 @@ Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protect
 <details><summary>पदपाठः - काण्वः</summary>
 
 सु॒त्रामा॑ण॒मति॑। सु॒ऽत्रामा॑ण॒म्। पृथि॒वीम्। द्याम्। अने॒हस॑म्। सु॒शर्म॑ण॒मिति॑ सु॒ऽशमा॑ण॒म्। अदि॑तिम्। सु॒प्रणी॑तिम्। स॒ऽप्रनी॑ति॒मति॑ सु॒ऽप्रनी॑तिम्। दैवी॑म्। नाव॑म्। स्व॒रि॒त्रामिति॑ सु॒ऽअ॑रि॒त्राम्। अना॑ग॒सम्। अस्र॑वन्तम्। आ। रु॒हेम। स्व॒स्तये॑। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सु-त्रा᳓माणम् (*MS*-3/17, *TS*-4/9, *RV*-1/3, *TB*-2/14, *AV*-1/6, *SB-M*-1/5, *SB-K*-1/6, *VS-M*-3/24, *VS-K*-3/20)
+- पृथिवी᳓म् (*MS*-61/104, *TS*-63/106, *RV*-64/156, *TB*-27/52, *TK*-5/6, *AV*-74/155, *SB-M*-58/156, *SB-K*-70/126, *VS-M*-33/53, *VS-K*-35/56)
+- द्या᳓म् (*MW* ŚBr., *MS*-29/308, *TS*-18/270, *RV*-90/854, *TB*-11/119, *TK*-0/15, *AV*-39/340, *SB-M*-11/353, *SB-K*-5/342, *VS-M*-17/167, *VS-K*-16/179)
+- अनेह᳓सम् (*MS*-2/3, *TS*-2, *RV*-9/32, *AV*-2, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-2, *VS-K*-3)
+- सु-श᳓र्माणम् (*MS*-2/5, *TS*-2/6, *RV*-2/6, *AV*-2/3, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-2/4, *VS-K*-2/5)
+- अ᳓दितिम् (*MS*-13/128, *TS*-10/95, *RV*-34/155, *TB*-0/43, *TK*-1/2, *AV*-5/48, *SB-M*-8/100, *SB-K*-9/87, *VS-M*-8/63, *VS-K*-12/79)
+- सु᳓ (*MS*-29, *TS*-24, *RV*-265, *TB*-7, *AV*-42, *SB-M*-15, *SB-K*-31, *VS-M*-20, *VS-K*-21)
+- प्र᳓-णीतम् (*Lanman*, *MS*-0/2, *TS*-0/2, *RV*-1/4, *SB-M*-0/12, *SB-K*-0/14, *VS-M*-0/2, *VS-K*-0/2)
+- दै᳓वीम् (*MS*-6/43, *TS*-7/38, *RV*-1/34, *TB*-0/30, *AV*-3/16, *SB-M*-3/44, *SB-K*-2/44, *VS-M*-2/26, *VS-K*-3/30)
+- ना᳓वम् (*MS*-4/6, *TS*-4/5, *RV*-16/20, *AV*-9/10, *SB-M*-6/7, *SB-K*-7/9, *VS-M*-1/2, *VS-K*-2/3)
+- स्वरित्रा᳓म् (*MW*, *MS*-1, *VS-K*-1)
+- अ᳓नागसम् (*MS*-1/6, *TS*-1/4, *RV*-2/15, *AV*-1/7, *SB-M*-0/3, *SB-K*-0/2, *VS-M*-2/4, *VS-K*-1/5)
+- अ᳓स्रवन्तीम् (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-2, *VS-K*-2)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- रुहेम (*MS*-4, *TS*-5, *RV*-5, *TB*-2, *AV*-1, *SB-M*-1, *SB-K*-4, *VS-M*-2, *VS-K*-1)
+- स्वस्त᳓ये (*MS*-7/37, *TS*-6/44, *RV*-49/201, *TB*-4/21, *AV*-21/56, *SB-M*-3/45, *SB-K*-3/46, *VS-M*-9/12, *VS-K*-10/15)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

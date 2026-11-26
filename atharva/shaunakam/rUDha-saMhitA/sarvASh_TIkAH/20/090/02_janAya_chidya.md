@@ -8,15 +8,51 @@ title = "०२ जनाय चिद्य"
 Brihaspati who made for such a people wide room and verge when Gods were invocated-- Slaying his foe he breaketh down their cattles, quelling his enemies and those who hate him.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even for a person such as this, Bṛhaspati made room at the gods' invocation,  
+striking down the obstacles, shattering the strongholds, conquering the foes, overcoming the enemies in battles.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 जना॑य चि॒द्य ईव॑ते उ लो॒कं बृह॒स्पति॑र्दे॒वहू॑तौ च॒कार॑।  
 घ्नन्वृ॒त्राणि॒ वि पुरो॑ दर्दरीति॒ जयं॒ छत्रूं॑र॒मित्रा॑न्पृ॒त्सु साह॑न् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ज᳓नाय चिद्य᳓ ई᳓वत उ लोकं᳓ बृ᳓हस्प᳓तिर्देव᳓हूतौ चका᳓र।  
+घ्न᳓न्वृत्रा᳓णि वि᳓ पु᳓रो दर्दरीति ज᳓यञ्छ᳓त्रूँरमि᳓त्रान्पृत्सु᳓ सा᳓हन्
+</details>
+
 <details><summary>पदपाठः</summary>
 
 जना॑य। चि॒त्। वः। ईव॑ते। ऊं॒ इति॑। लो॒कम्। बृह॒स्पतिः॑। दे॒वऽहू॑तौ। च॒कार॑। घ्नन्। वृ॒त्राणि॑। वि। पुरः॑। द॒र्द॒री॒ति॒। जय॑न्। शत्रू॑न्। अ॒मित्रा॑न्। पृ॒त्सु। सह॑न्। ९०.२।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ज᳓नाय (*MS*-6/62, *TS*-6/35, *RV*-36/298, *TB*-3/27, *AV*-5/92, *SB-M*-2/26, *SB-K*-2/26, *VS-M*-3/27, *VS-K*-3/27)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- ई᳓वतः (*MS*-0/1, *TS*-0/1, *RV*-4/8, *AV*-1/2, *SB-K*-0/1)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- लोक᳓म् (*MS*-147/486, *TS*-207/676, *RV*-23/31, *TB*-101/384, *TK*-70/123, *AV*-71/191, *SB-M*-276/1215, *SB-K*-274/1158, *VS-M*-15/48, *VS-K*-13/40)
+- बृ᳓हस्प᳓तिः (*MS*-97, *TS*-70/84, *RV*-53, *TB*-23, *TK*-4, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31)
+- देव᳓-हूतौ (*MS*-6/11, *TS*-0/4, *RV*-2/16, *TB*-1/2, *AV*-1/23)
+- चका᳓र (*MS*-5, *TS*-3, *RV*-18, *TB*-4, *AV*-21, *SB-M*-4, *SB-K*-3, *VS-M*-4, *VS-K*-3)
+- घ्न᳓न् (*MS*-2, *TS*-2, *RV*-8, *TB*-1, *AV*-2, *SB-M*-5, *SB-K*-4)
+- वृत्रा᳓णि (*MS*-7/99, *TS*-3/59, *RV*-49/173, *TB*-3/30, *AV*-15/40, *SB-M*-0/93, *SB-K*-0/93, *VS-M*-1/10, *VS-K*-1/10)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- पु᳓रः (*MS*-8, *TS*-7, *RV*-47, *TB*-2, *AV*-11, *SB-M*-15, *SB-K*-11)
+- दर्दरीति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *AV*-1)
+- ज᳓यन् (*MS*-2, *TS*-1, *RV*-6, *TB*-2, *TK*-1, *AV*-2, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- श᳓त्रून् (*MS*-7/12, *TS*-11/18, *RV*-43/82, *TB*-9/13, *AV*-34/57, *SB-M*-3/5, *SB-K*-2/5, *VS-M*-10/11, *VS-K*-7/8)
+- रमि᳓ (*SB-M*-1)
+- त्राम् (मूल-पाठः)
+- पृत्सु᳓ (*MS*-4, *TS*-4, *RV*-31/32, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1)
+- सा᳓हन् (*RV*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

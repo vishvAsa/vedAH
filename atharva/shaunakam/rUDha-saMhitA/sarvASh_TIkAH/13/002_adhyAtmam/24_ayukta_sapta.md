@@ -23,15 +23,42 @@ the comm. *yāti;* ⌊while in the Poona ed. both text and comm. give
 Surya, hath yoked the pure bright seven, the daughters of the car, with these, His own dear team, he travelleth.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Up that […]  
+The bright [face] of the gods […]  
+The Sun has yoked the seven bright daughters of the chariot;  
+with them, self-yoked, he goes.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 अयु॑क्त स॒प्त शु॒न्ध्युवः॒ सूरो॒ रथ॑स्य न॒प्त्यः᳡।  
 ताभि॑र्याति॒ स्वयु॑क्तिभिः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓युक्त सप्त᳓ शुन्ध्यु᳓वस्सू᳓रो र᳓थस्य नप्त्यृः।  
+ता᳓भिर्याति स्व᳓युक्तिभिः
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अयु॑क्त। स॒प्त। शु॒न्ध्युवः॑। सूरः॑। रथ॑स्य। न॒प्त्यः᳡। ताभिः॑। या॒ति॒। स्वयु॑क्तिऽभिः। २.२४।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓युक्त (*MS*-1, *TS*-1, *RV*-8, *TB*-2, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- सप्त᳓ (*MS*-65/77, *TS*-74/88, *RV*-122/128, *TB*-29/32, *TK*-12, *AV*-76/77, *SB-M*-163/182, *SB-K*-150/170, *VS-M*-23/24, *VS-K*-21/24)
+- शुन्ध्यु᳓वः (*RV*-2/4, *TB*-1, *AV*-2)
+- सू᳓रः (*MS*-3/6, *TS*-1/3, *RV*-49/68, *TB*-4, *AV*-5/7, *SB-M*-1, *SB-K*-1, *VS-M*-2/4, *VS-K*-2/3)
+- र᳓थस्य (*MS*-0/57, *TS*-0/36, *RV*-21/393, *TB*-1/36, *TK*-0/3, *AV*-6/57, *SB-M*-7/50, *SB-K*-0/53, *VS-M*-0/16, *VS-K*-0/13)
+- नप्त्यृः (मूल-पाठः)
+- ता᳓भिः (*MS*-25/5550, *TS*-52/4761, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/780, *VS-K*-5/660)
+- याति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-12, *TS*-8, *RV*-57, *TB*-1, *TK*-1, *AV*-11, *SB-M*-11, *SB-K*-11, *VS-K*-1)
+- स्व᳓युक्तिभिः (*RV*-2, *TB*-1, *AV*-2)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -60,4 +87,9 @@ Surya, hath yoked the pure bright seven, the daughters of the car, with these, H
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २४−(अयुक्त) योजितवान् (सप्त) सप्तसंख्याकाः-म० ४ (शुन्ध्युवः) यजिमनिशुन्धि०। उ० ३।२०। शुन्ध विशुद्धौ-युच्। शोधिका (सूरः) षू प्रेरणे−क्रन्। लोकप्रेरकः सूर्यः (रथस्य) गमनविधानस्य (नप्त्यः) इक् कृष्यादिभ्यः। वा० पा० ३।३।१०८। नञ्+पत्लृ पतने-इक्। तनिपत्योश्छन्दसि। पा० ६।४।९९। इत्युपधालोपः, शसो जस्। नप्तीः। अपातनशीलाः। न पातयित्रीः (ताभिः) (याति) गच्छति (स्वयुक्तिभिः) स्वस्य धनस्य योजनशक्तिभिः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[124_8]** Ch गन्ध्यबस्सूरो
 </details>

@@ -33,6 +33,18 @@ Its mighty strength was borrowed from the heaven and earth: its conquering force
 Its mighty strength was borrowed from the heaven and earth its conquering force was brought from sovrans of the wood. Honour with holy gifts the Car like Indra's bolt, the Car bound round with straps, the vigour of the floods.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The strength gathered from heaven, from earth, from the intermediate space, from the trees,  
+the might of waters gathered about with cow-[hides], Indra's bolt—worship the chariot with an oblation!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The power drawn forth from heaven and earth, the strength gathered from the trees,  
+the might of the waters enclosed with ox-hides—worship the chariot, Indra's bolt, with the oblation!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 दि॒वस्पृ॑थि॒व्याः पर्योज॒ उद्भृ॑तं॒ वन॒स्पति॑भ्यः॒ पर्याभृ॑तं॒ सहः॑।  
@@ -45,6 +57,18 @@ Its mighty strength was borrowed from the heaven and earth its conquering force 
 अ॒पामो॒ज्मानं॒ परि॒ गोभि॒रावृ॑त॒मिन्द्र॑स्य॒ वज्रँ॑ ह॒विषा॒ रथं॑ यज ॥५३ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+दिव᳓स् पृथिव्याः᳓ प᳓र्य् अन्त᳓रिक्षाद् व᳓नस्प᳓तिभ्यः प᳓र्य् आ᳓वृतँ स᳓हः  
+अपा᳓म् ओज्मा᳓नं प᳓रि गो᳓भिर् आ᳓वृतम् इ᳓न्द्रस्य व᳓ज्रँ हवि᳓षा र᳓थँ यज
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+दिवः पृथिव्याः पर्योज उद्भृतं वनस्पतिभ्यः पर्याभृतँ सहः।  
+अपामोज्मानं परि गोभिरावृतमिन्द्रस्य वज्रँ हविषा रथं यज
+</details>
+
 <details><summary>पदपाठः</summary>
 
 दि॒वः। पृ॒थि॒व्याः। परि॑। ओजः॑। उत्ऽभृ॑तम्। वन॒स्पति॑ऽभ्यः। परि॑। आऽभृ॑तम्। सहः॑। अ॒पाम्। ओ॒ज्मान॑म्। परि॑। गोभिः॑। आऽवृ॑तम्। इन्द्र॑स्य। वज्र॑म्। ह॒विषा॑। रथ॑म्। य॒ज॒। १२५.२।
@@ -53,6 +77,53 @@ Its mighty strength was borrowed from the heaven and earth its conquering force 
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 दि॒वः। पृ॒थि॒व्याः। परि॑। ओजः॑। उद्भृ॑त॒मित्युत्ऽभृ॑तम्। वन॒स्पति॑भ्य॒ इति॒ वन॒स्पति॑ऽभ्यः। परि॑। आभृ॑त॒मित्याऽभृ॑तम्। सहः॑। अ॒पाम्। ओ॒ज्मान॑म्। परि॑। गोभिः॑। आवृ॑त॒मित्याऽवृ॑तम्। इन्द्र॑स्यः। वज्र॑म्। ह॒विषा॑। रथ॑म्। य॒ज॒। ५३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- दिवः᳓ (*TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-38/172, *KS*-43/128)
+- पृथिव्याः᳓ (*TS*-71/79, *RV*-99, *TB*-31, *TK*-1, *AV*-48, *SB-M*-69, *SB-K*-71, *VS-M*-55, *VS-K*-45/49, *KS*-20/21)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-76, *KS*-87)
+- अन्त᳓रिक्षात् (*TS*-14/180, *RV*-13/94, *TB*-5/54, *TK*-0/10, *AV*-19/143, *SB-M*-22/263, *SB-K*-22/257, *VS-M*-5/76, *VS-K*-5/64, *KS*-8/57)
+- व᳓नस्प᳓तिभ्यः (*TS*-4/6, *RV*-1, *TB*-1, *AV*-3, *SB-M*-3, *SB-K*-3, *VS-M*-5, *VS-K*-4, *KS*-1)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-76, *KS*-87)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- अ᳓वृतम् (*RV*-1/7, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *KS*-2/4)
+- स᳓हः (*TS*-18/35, *RV*-47/122, *TB*-11/28, *TK*-2/4, *AV*-30/50, *SB-M*-11/21, *SB-K*-10/24, *VS-M*-15/28, *VS-K*-22/38, *KS*-8/18)
+- अपा᳓म् (*TS*-81/319, *RV*-111/532, *TB*-27/152, *TK*-1/14, *AV*-62/324, *SB-M*-102/760, *SB-K*-102/744, *VS-M*-46/146, *VS-K*-37/122, *KS*-28/99)
+- ओज्मा᳓नम् (*TS*-1, *RV*-1, *AV*-3, *VS-M*-1)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-76, *KS*-87)
+- गो᳓भिः (*TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/66, *VS-K*-6/64, *KS*-2/37)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- अ᳓वृतम् (*RV*-1/7, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *KS*-2/4)
+- इ᳓न्द्रस्य (*TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-59/388, *VS-K*-53/358, *KS*-30/189)
+- व᳓ज्रम् (*TS*-44/120, *RV*-69/137, *TB*-7/37, *TK*-0/2, *AV*-20/54, *SB-M*-47/292, *SB-K*-42/267, *VS-M*-1/7, *VS-K*-0/3, *KS*-6/19)
+- हवि᳓षा (*TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-M*-45/380, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-39/95, *KS*-19/60)
+- र᳓थम् (*TS*-8/36, *RV*-168/393, *TB*-15/36, *TK*-0/3, *AV*-21/57, *SB-M*-20/50, *SB-K*-20/53, *VS-M*-5/16, *VS-K*-2/12, *KS*-3/12)
+- यज (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-8, *RV*-14, *TB*-1, *TK*-1, *AV*-2, *SB-M*-27, *SB-K*-21, *VS-M*-4, *VS-K*-2, *KS*-3)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
+- पृथिव्याः᳓ (*MS*-92, *TS*-71/79, *RV*-99, *TB*-31, *TK*-1, *AV*-48, *SB-M*-69, *SB-K*-71, *VS-M*-55, *VS-K*-46/50)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- ओजः (समानान्तर-पाठः (TS), *TS*-1, *MS*-1)
+- उ᳓त्-भृतम् (*MS*-2, *TS*-1, *RV*-2, *TB*-2, *AV*-3/4, *VS-M*-4, *VS-K*-3)
+- व᳓नस्प᳓तिभ्यः (*MS*-8, *TS*-4/6, *RV*-1, *TB*-1, *AV*-3, *SB-M*-3, *SB-K*-3, *VS-M*-5, *VS-K*-4)
+- पर्या᳓भृतम् (*MW*)
+- स᳓हः (*Whitney*, *MS*-17/43, *TS*-18/35, *RV*-47/122, *TB*-11/28, *TK*-2/4, *AV*-30/50, *SB-M*-11/21, *SB-K*-10/24, *VS-M*-15/28, *VS-K*-22/40)
+- अपा᳓म् (*MS*-96/374, *TS*-81/319, *RV*-111/532, *TB*-27/152, *TK*-1/14, *AV*-62/324, *SB-M*-102/760, *SB-K*-102/744, *VS-M*-46/146, *VS-K*-38/124)
+- ओज्मा᳓नम् (*MS*-1, *TS*-1, *RV*-1, *AV*-3, *VS-M*-1)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- गो᳓भिः (*MS*-14/149, *TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/67, *VS-K*-7/67)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- अ᳓वृतम् (*MS*-3/5, *RV*-1/7, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1)
+- इ᳓न्द्रस्य (*MS*-84/711, *TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-61/392, *VS-K*-57/380)
+- व᳓ज्रम् (*MS*-61/149, *TS*-44/120, *RV*-69/137, *TB*-7/37, *TK*-0/2, *AV*-20/54, *SB-M*-47/292, *SB-K*-42/267, *VS-M*-1/7, *VS-K*-0/3)
+- हवि᳓षा (*MS*-56/213, *TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-M*-45/380, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-40/101)
+- र᳓थम् (*MS*-20/57, *TS*-8/36, *RV*-168/393, *TB*-15/36, *TK*-0/3, *AV*-21/57, *SB-M*-20/50, *SB-K*-20/53, *VS-M*-5/16, *VS-K*-2/13)
+- यज (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-8, *RV*-14, *TB*-1, *TK*-1, *AV*-2, *SB-M*-27, *SB-K*-21, *VS-M*-4, *VS-K*-2)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -142,4 +213,9 @@ Its mighty strength was borrowed from the heaven and earth its conquering force 
 श्रुतेः।
 
 ईदृशं यजेत्यर्थः॥ ५३॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[638_1]** So corr. Cha वज्रो ; vgl. RV 6, 47, 27; MS 3, 16, 3; TS 4, 6, 6, 6; VS 29, 53. (Thus emended; Ch reads वज्रो; cf. RV 6, 47, 27; MS 3, 16, 3; TS 4, 6, 6, 6; VS 29, 53.)
 </details>

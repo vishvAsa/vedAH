@@ -30,6 +30,12 @@ vi. 65. 1.⌋
 He rules with those who carry shafts and quivers, Indra who with his hand brings hosts together, Foe-conquering, strong of arm, the Soma-drinker, with mighty bow, shooting with well-laid arrows.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With arrow-handed ones, with quiver-bearers, he the ruler, the joiner of battle, Indra with his host,  
+winning the joined [battle], soma-drinker, mighty-armed, with raised bow, shooting with fitted [arrows].
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 स इषु॑हस्तैः॒ स नि॑ष॒ङ्गिभि॑र्व॒शी संस्र॑ष्टा॒ स युध॒ इन्द्रो॑ ग॒णेन॑।  
@@ -48,6 +54,12 @@ He rules with those who carry shafts and quivers, Indra who with his hand brings
 सँ॒सृ॒ष्ट॒जित्सो॑म॒पा बा॑हुश॒र्ध्यु॒ग्रध॑न्वा॒ प्रति॑हिताभि॒रस्ता॑ ॥३॥ ३५
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स᳓ इ᳓षुहस्तैस्स᳓ निषङ्गि᳓भिर्वशी᳓ सँ᳓स्रष्टा स᳓ यु᳓ध इ᳓न्द्रो गणे᳓न।  
+सँसृष्टजि᳓त्सोमपा᳓ बाहुशूर्ध्व᳙र्ध्व᳓रधन्वा प्र᳓तिहिताभिर᳓स्ता
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सः। इषु॑ऽहस्तैः। सः। नि॒ष॒ङ्गिऽभिः॑। व॒शी। सम्ऽस्र॑ष्टा। सः। युधः॑। इन्द्रः॑। ग॒णेन॑। सं॒सृ॒ष्ट॒ऽजित्। सो॒म॒ऽपाः। बा॒हु॒ऽश॒र्धी। उ॒ग्रऽध॑न्वा। प्रति॑ऽहिताभिः। अ॑स्ता। १३.४।
@@ -61,6 +73,29 @@ He rules with those who carry shafts and quivers, Indra who with his hand brings
 <details><summary>पदपाठः - काण्वः</summary>
 
 सः। इषु॑हस्तै॒रितीषु॑ऽहस्तैः। सः। नि॒ष॒ङ्गिभि॒रिति॑ निष॒ङ्गिऽभिः॑। व॒शी। सँस्र॒ष्टेति॒ सम्ऽस्र॑ष्टा। सः। युधः॑। इन्द्रः॑। ग॒णेन॑। सँ॒सृ॒ष्ट॒जिदिति॑ सँसृष्ट॒ऽजित्। सो॒म॒पा इति॑ सोम॒ऽपाः। बा॒हु॒श॒र्द्धीति॑ बाहुऽशर्द्धी। उ॒ग्रध॒न्वेत्यु॒ग्रऽध॑न्वा। प्रति॑हिताभि॒रिति॒ प्रति॑ऽहिताभिः। अस्ता॑। ३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- इ᳓षु-हस्तैः (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- नि-सङ्गि᳓भिः (*MS*-1/5, *TS*-1/5, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-3)
+- वशी᳓ (*MS*-5, *TS*-5, *RV*-9, *TB*-0/1, *AV*-18, *SB-M*-2, *SB-K*-1, *VS-M*-3/4, *VS-K*-3/4)
+- स᳓म्-स्रष्टा (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- यु᳓धः (*MS*-2/9, *TS*-2/6, *RV*-2/33, *TB*-0/5, *TK*-0/1, *AV*-3/17, *SB-M*-2/3, *SB-K*-1/5, *VS-M*-2/5, *VS-K*-3/6)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- गणे᳓न (*MS*-3/19, *TS*-3/12, *RV*-7/39, *TB*-1/5, *AV*-2/8, *SB-M*-0/12, *SB-K*-0/16, *VS-M*-1/8, *VS-K*-2/9)
+- संसृष्ट-जि᳓त् (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- सोम-पा᳓ (*MS*-1/7, *TS*-3, *RV*-2/12, *TB*-0/8, *AV*-11, *SB-M*-1/3, *SB-K*-2, *VS-M*-1, *VS-K*-1/3)
+- बाहु (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-4, *TS*-3, *RV*-2, *AV*-1, *SB-M*-17, *SB-K*-14, *VS-M*-3, *VS-K*-6)
+- शूर् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- ध्वः᳙ (मूल-पाठः)
+- ध्व᳓र (*MS*-4)
+- धन्वा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2)
+- प्र᳓ति-हिताभिः (*MS*-1, *TS*-1, *RV*-1, *TB*-0/1, *AV*-1/3, *SB-M*-0/4, *SB-K*-0/5, *VS-M*-1/2, *VS-K*-2/4)
+- अ᳓स्ता (*MS*-4/36, *TS*-2/21, *RV*-9/130, *TB*-0/14, *TK*-0/1, *AV*-5/37, *SB-M*-1/66, *SB-K*-1/81, *VS-M*-2/6, *VS-K*-3/10)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -213,6 +248,11 @@ He rules with those who carry shafts and quivers, Indra who with his hand brings
 "उग्र-धन्वा उद्यत-धनुः सन् प्रतिहिताभि: प्रत्युद्गताभिः सेनाभिः सह " अस्ता शराणां क्षेप्ता ।
 
 न पराङ्मुखः ॥३५॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[266_13]** Ch शव्यूर्ध्व°
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>

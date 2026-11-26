@@ -34,6 +34,18 @@ Thou, mighty Agni, good and true, gatherest up all precious things. Bring us all
 Thou gatherest, O strong one, All that belongeth, O Agni, to the niggard; Thou art kindled in the place of offering; Do thou bear us good things.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You bring together all the possessions of the stranger, O bull Agni;  
+you are kindled in the place of Iḍā; so bring to us riches.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+O bull Agni, you gather together all the praised [treasures] of the stranger.  
+You are kindled in the place of refreshment; so bring us goods!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 संस॒मिद्यु॑वसे वृष॒न्नग्ने॒ विश्वा॑न्य॒र्य आ।  
@@ -50,6 +62,18 @@ Thou gatherest, O strong one, All that belongeth, O Agni, to the niggard; Thou a
 
 सँस॒मिद्यु॑वसे वृष॒न्नग्ने॒ विश्वा॑न्य॒र्य आ ।  
 इ॒ळस्प॒दे समि॑ध्यसे॒ स नो॒ वसू॒न्या भ॑र ॥११॥ ॥ ५१
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+सँ᳓सम् इ᳓द् युवसे वृषन्न् अ᳓ग्ने वि᳓श्वान्य् अर्य᳓ आ᳓  
+इडस्पदे᳓ स᳓मिध्यसे स᳓ नो व᳓सून्य् आ᳓भर
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+सँ᳓ समि᳓द्युवसे वृषन्न᳓ग्ने वि᳓श्वान्य᳓र्य आ᳓।  
+इ᳓डस्प᳓दे स᳓मिध्यसे स᳓ नो व᳓सून्या᳓भर
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -70,6 +94,46 @@ Thou gatherest, O strong one, All that belongeth, O Agni, to the niggard; Thou a
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 सँस॒मिति॒ सम्-स॒म् । इत् । यु॒व॒से॒ । वृ॒ष॒न् । अग्ने॑ । विश्वा॑नि । अ॒र्यः । आ ॥ इ॒डः । प॒दे । समिति॑ । इ॒ध्य॒से॒ । सः । नः॒ । वसू॑नि । एति॑ । भ॒र॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- स᳓म्-सम् (*TS*-4, *RV*-1, *AV*-1, *VS-M*-2)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-60, *VS-K*-46, *KS*-42)
+- युवसे (*TS*-2, *RV*-3, *TB*-1, *AV*-1, *SB-K*-2, *VS-M*-1, *VS-K*-2, *KS*-2)
+- वृषन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-18, *TB*-1, *AV*-9, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-2, *KS*-2)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- वि᳓श्वानि (*TS*-16/283, *RV*-117/1116, *TB*-7/125, *TK*-0/124, *AV*-16/353, *SB-M*-9/248, *SB-K*-7/219, *VS-M*-10/214, *VS-K*-8/214, *KS*-6/118)
+- अर्यः᳓ (*TS*-5/6, *RV*-96/100, *TK*-1, *AV*-12, *SB-M*-1, *SB-K*-3/4, *VS-M*-2, *VS-K*-1, *KS*-2)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- इडस्-पदे᳓ (*MW*)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- इध्यसे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-9, *TB*-1, *AV*-1, *VS-M*-1, *KS*-2)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-91/624, *KS*-225/1225)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- व᳓सूनि (*TS*-13, *RV*-66, *TB*-7, *AV*-15, *SB-M*-3, *SB-K*-2, *VS-M*-3, *VS-K*-2, *KS*-9)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- भर (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-19, *RV*-130, *TB*-5, *TK*-1, *AV*-31, *SB-M*-4, *SB-K*-2, *VS-M*-11, *VS-K*-6, *KS*-6)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- सम्-इ᳓त् (*MS*-23, *TS*-1/4, *RV*-3/6, *TB*-6/7, *TK*-1, *AV*-5, *SB-M*-21/30, *SB-K*-21/30, *VS-M*-6/7, *VS-K*-5/7)
+- युवसे (*MS*-2, *TS*-2, *RV*-3, *TB*-1, *AV*-1, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- वृषन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-4, *TS*-1, *RV*-18, *TB*-1, *AV*-9, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-2)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- वि᳓श्वानि (*MS*-16/301, *TS*-16/283, *RV*-117/1116, *TB*-7/125, *TK*-0/124, *AV*-16/353, *SB-M*-9/248, *SB-K*-7/219, *VS-M*-10/225, *VS-K*-8/224)
+- अ᳓र्यः (*TB*-1, *SB-M*-0/1, *VS-M*-0/2, *VS-K*-0/2)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- इ᳓डस्-प᳓दे → **इडस्-पदे᳓** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, समासस्य पा॰ ६.१.२२३, *MS*-1)
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- इध्यसे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-9, *TB*-1, *AV*-1, *VS-M*-1, *MS*-2)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- व᳓सूनि (*MS*-13, *TS*-13, *RV*-66, *TB*-7, *AV*-15, *SB-M*-3, *SB-K*-2, *VS-M*-3, *VS-K*-3)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- भर (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-16, *TS*-19, *RV*-130, *TB*-5, *TK*-1, *AV*-31, *SB-M*-4, *SB-K*-2, *VS-M*-11, *VS-K*-6)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

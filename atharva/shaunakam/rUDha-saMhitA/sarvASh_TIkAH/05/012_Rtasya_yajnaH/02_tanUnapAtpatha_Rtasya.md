@@ -25,6 +25,12 @@ alternative invocation to Narāśaṅsa (RV. vii. 2. 2).
 Tanunapat, fair-tongued! with sweet meath balming the baths and ways of Order, make them pleasant. Bear to the Gods our sacrifice, exalting with holy thoughts our hymns of praise and worship.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Tanūnapāt, anointing with honey the paths that go by cosmic order, make them sweet, you with the good tongue;  
+furthering our thoughts with prayers and [furthering] the sacrifice, place our rite among the gods.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 तनू॑नपात्प॒थ ऋ॒तस्य॒ याना॒न्मध्वा॑ सम॒ञ्जन्त्स्व॑दया सुजिह्व।  
@@ -37,6 +43,12 @@ Tanunapat, fair-tongued! with sweet meath balming the baths and ways of Order, m
 मध्वा॑ सम॒ञ्जन्त्स्व॑दया सुजिह्व ।   
 मन्मा॑नि धी॒भिरु॒त य॒ज्ञमृ॒न्धन् ।   
 दे॒व॒त्रा च॑ कृणुह्यध्व॒रन्नः॑ ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+त᳓नूनपात्पथ᳓ ऋत᳓स्य या᳓नान्म᳓ध्वा समञ्ज᳓न्स्वदया सुजिह्व।  
+म᳓न्मानि धीभि᳓रुत᳓ यज्ञ᳓मृन्ध᳓न्देवत्रा᳓ च कृणुह्यध्वरं᳓ नः
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -57,6 +69,28 @@ Tanunapat, fair-tongued! with sweet meath balming the baths and ways of Order, m
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 त᳓नू-नपात् । पथः᳓ । ऋत᳓स्य । या᳓नान् । म᳓ध्वा । सम्-अञ्ज᳓न् । स्वदया । सु-जिह्व । म᳓न्मानि । धीभिः᳓ । उत᳓ । यज्ञ᳓म् । ऋन्ध᳓न् । देवत्रा᳓ । च । कृणुहि । अध्वर᳓म् । नः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त᳓नू-नपात् (*MS*-1, *RV*-3, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- पथः᳓ (*MS*-12/60, *TS*-8/72, *RV*-36/149, *TB*-5/22, *AV*-12/76, *SB-M*-11/46, *SB-K*-12/52, *VS-M*-4/38, *VS-K*-5/35)
+- ऋत᳓स्य (*MS*-29/93, *TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-21/45)
+- या᳓नान् (*MS*-1, *RV*-2/3, *TB*-1, *AV*-1, *SB-M*-0/1, *SB-K*-0/3, *VS-M*-1, *VS-K*-2)
+- म᳓ध्वा (*MS*-9/14, *TS*-8/12, *RV*-19/107, *TB*-3/5, *AV*-5/16, *SB-M*-4/6, *SB-K*-4/5, *VS-M*-10/18, *VS-K*-10/15)
+- सम्-अञ्ज᳓न् (*MS*-5, *TS*-1, *RV*-4, *TB*-5, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-8, *VS-K*-10)
+- स्वदया (*MS*-1, *TB*-1)
+- सु-जिह्व (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *RV*-3, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- म᳓न्मानि (*MS*-2/7, *TS*-0/3, *RV*-5/69, *TB*-1, *AV*-1/7, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/4, *VS-K*-2/5)
+- धीभिः᳓ (*MS*-5, *TS*-1, *RV*-37, *TB*-2, *AV*-9, *VS-M*-2, *VS-K*-3)
+- उत᳓ (*MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- ऋन्ध᳓न् (*MS*-1, *RV*-3, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- देवत्रा᳓ (*MS*-14, *TS*-15, *RV*-23, *TB*-9, *TK*-5, *AV*-6, *SB-M*-54/55, *SB-K*-57, *VS-M*-10, *VS-K*-9)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- कृणुहि (*MS*-7, *TS*-5, *RV*-21, *TB*-3, *AV*-8, *SB-M*-1, *SB-K*-2, *VS-M*-8, *VS-K*-7)
+- अध्वर᳓म् (*MS*-16/44, *TS*-9/27, *RV*-49/196, *TB*-10/25, *TK*-0/2, *AV*-5/22, *SB-M*-6/71, *SB-K*-6/68, *VS-M*-11/29, *VS-K*-10/22)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -221,6 +255,11 @@ Tanunapat, fair-tongued! with sweet meath balming the baths and ways of Order, m
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2तनूनपात्पथ इति ॥ हे तनूनपात्! अग्ने! पथः मार्गान् कीदृशान् ऋतस्य यज्ञस्य यानान् यज्ञः यैः याति समाप्तिं गच्छति तानि मार्गस्थानि हवींषि मध्वा मधुरसेन समञ्जन् निम्रक्षयन् अभिव्यक्तरसानि कुर्वन् स्वदय स्वादूकुरु । सांहितिकं दीर्घत्वम् । हे सुजिह्व सुज्वाल! मन्मानि मननानि अस्मदभिप्रेतानि धीभिः कर्मभिः आत्मीयैः ऋन्धन् ऋद्धानि कुर्वन् । ऋधेर्व्यत्ययेन श्नम् । यज्ञं वा अस्मदीयं ऋन्धन् फलसमृद्धं कुर्वन् अस्माकं अध्वरं देवत्रा देवेषु कुणुहि कुरु । 'उतश्च प्रत्ययात् छन्दो वा वचनम्' इति हेर्लोपाभावः। 'देवमनुष्य' इति त्रप्रत्वयः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[241_3]** Brl स्वधया; Ch सुधया
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>

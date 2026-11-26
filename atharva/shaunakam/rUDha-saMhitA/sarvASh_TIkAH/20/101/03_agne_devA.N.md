@@ -8,6 +8,12 @@ title = "०३ अग्ने देवाँ"
 Bring the Gods hither, Agni, born for him who strews the sacred grass. Thou art our herald, meet for praise.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, bring the gods here, being born for the one whose sacred grass is strewn;  
+you are our invoker to be praised.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 अग्ने॑ दे॒वाँ इ॒हा व॑ह जज्ञा॒नो वृ॒क्तब॑र्हिषे।  
@@ -50,4 +56,9 @@ Bring the Gods hither, Agni, born for him who strews the sacred grass. Thou art 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5 अग्न इति ॥ हे अग्ने! इह अस्मिन् कर्मणि देवानावह आह्वय । जज्ञानः कर्तव्यज्ञः । वृक्तबर्हिषे आवर्तितयज्ञाय यजमानाय । यद्वा - जज्ञानो जातोसि यजमानार्थम् । लिटः कानच् । नः खल्वस्माकं ईड्यः स्तुत्यो होता आह्वाताऽसि देवानां, तस्मात्त्वामेव ब्रूमो देवानावहेति । 'ईडवन्द' इत्याद्युदात्तत्वम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[595_5]** Dies Capitel auch in T1 und Brl fol. 126 vorhanden; darnach accentuirt. (This chapter also present in T1 and Brl fol. 126; accented accordingly.)
 </details>

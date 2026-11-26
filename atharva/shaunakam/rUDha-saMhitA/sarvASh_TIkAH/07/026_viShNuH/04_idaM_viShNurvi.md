@@ -26,6 +26,12 @@ is reduced to a dust-heap." \*⌊SV. also at i. 222.⌋
 Through all this world strode Vishnu: thrice his foot he planted, and the whole Was gathered in his footstep's dust.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through this Viṣṇu strode; thrice he placed his foot;  
+[the world] is gathered in its dusty footprint.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 इ॒दं विष्णु॒र्वि च॑क्रमे त्रे॒धा नि द॑धे प॒दा।  

@@ -40,6 +40,22 @@ On all the earth, to heaven, the drop descended, on this place and on that which
 The Drop leaped onward through the earth and heaven, along this place and that which was before it. I offer up, throughout the seven oblations, the Drop still moving to the common dwelling.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The drop leaped after the earth, after the heaven, and after this womb, and what was earlier;  
+the drop moving along the common womb do I sacrifice after the seven priestly offices."
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The drop fell down upon the earth, upon heaven, and upon this womb, and what was earlier;  
+upon the common womb, I sacrifice the drop moving through, according to the seven hotras.  
+Homage be to the serpents, whichever are upon the earth;
+
+A drop has leaped upon the earth, along the sky, and along this womb, and what was earlier;  
+the drop moving along a common womb I offer, following the seven hotrās.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 द्र॒प्सश्च॑स्कन्द पृथि॒वीमनु॒ द्यामि॒मं च॒ योनि॒मनु॒ यश्च॒ पूर्वः॑।  
@@ -58,6 +74,12 @@ The Drop leaped onward through the earth and heaven, along this place and that w
 स॒मा॒नं योनि॒मनु॑ स॒ञ्चर॑न्तं द्र॒प्सं जु॑हो॒म्यनु॑ स॒प्त होत्राः॑ ॥५॥ ५
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+द्रप्स᳓श्चस्कन्द पृथिवी᳓म᳓नु॒ द्या᳓मिमं᳓ च यो᳓निम᳓नु॒ य᳓श्च पू᳓र्वः।  
+समानं᳓ यो᳓निम᳓नु सञ्च᳓रन्तं द्रप्सं᳓ जुहोम्य᳓नु सप्त᳓ हो᳓त्राः
+</details>
+
 <details><summary>पदपाठः</summary>
 
 द्र॒प्सः। च॒स्क॒न्दः॒। पृ॒थि॒वीम्। अनु॑। द्याम्। इ॒मम्। च॒। योनि॑म्। अनु॑। यः॒। च॒। पूर्वः॑। स॒मा॒नम्। योनि॑म्। अनु॑। स॒म्ऽचर॑न्तम्। द्र॒प्सम्। जु॒हो॒मि॒। अनु॑। स॒प्त। होत्राः॑। ४.२८।
@@ -71,6 +93,32 @@ The Drop leaped onward through the earth and heaven, along this place and that w
 <details><summary>पदपाठः - काण्वः</summary>
 
 द्र॒प्सः। च॒स्क॒न्द॒। पृ॒थि॒वीम्। अनु॑। द्याम्। इ॒मम्। च॒। योनि॑म्। अनु॑। यः। च॒। पूर्वः॑। स॒मा॒नम्। योनि॑म्। अनु॑। सं॒चर॑न्त॒मिति॑ स॒म्ऽचर॑न्तम्। द्र॒प्सम्। जु॒हो॒मि। अनु॑। स॒प्त। होत्राः॑। ५।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- द्रप्सः᳓ (*MS*-11/13, *TS*-9/14, *RV*-14/29, *TB*-2, *AV*-3/6, *SB-M*-8/12, *SB-K*-8/11, *VS-M*-4/5, *VS-K*-3/7)
+- चस्कन्द (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-4, *RV*-1, *AV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- पृथिवी᳓म् (*MS*-61/104, *TS*-63/106, *RV*-64/156, *TB*-27/52, *TK*-5/6, *AV*-74/155, *SB-M*-58/156, *SB-K*-70/126, *VS-M*-33/53, *VS-K*-35/56)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- द्या᳓म् (*MS*-29/308, *TS*-18/270, *RV*-90/854, *TB*-11/119, *TK*-0/15, *AV*-39/340, *SB-M*-11/353, *SB-K*-5/342, *VS-M*-17/167, *VS-K*-16/179)
+- इम᳓म् (*MS*-120/1379, *TS*-107/965, *RV*-136/1247, *TB*-50/567, *TK*-3/57, *AV*-148/1259, *SB-M*-203/5239, *SB-K*-219/5549, *VS-M*-46/319, *VS-K*-53/301)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- यो᳓निम् (*MS*-24/208, *TS*-34/170, *RV*-62/110, *TB*-7/38, *TK*-1/6, *AV*-26/45, *SB-M*-34/284, *SB-K*-33/261, *VS-M*-17/93, *VS-K*-19/100)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- पू᳓र्वः (*MS*-15/100, *TS*-20/81, *RV*-18/115, *TB*-6/59, *TK*-0/4, *AV*-17/88, *SB-M*-33/216, *SB-K*-21/184, *VS-M*-3/20, *VS-K*-3/17)
+- सम् (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-217, *TS*-4, *RV*-1, *TB*-68, *TK*-29, *AV*-1, *SB-M*-507, *SB-K*-470, *VS-K*-2)
+- आन᳓म् (*RV*-1, *TB*-9/16, *TK*-1/2, *SB-M*-6/7, *SB-K*-12/15, *MS*-21/38)
+- यो᳓निम् (*MS*-24/208, *TS*-34/170, *RV*-62/110, *TB*-7/38, *TK*-1/6, *AV*-26/45, *SB-M*-34/284, *SB-K*-33/261, *VS-M*-17/93, *VS-K*-19/100)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- सं-च᳓रन्तम् (*MS*-1, *TS*-2, *VS-K*-1)
+- द्रप्स᳓म् (*MS*-2/13, *TS*-4/14, *RV*-7/29, *TB*-0/2, *AV*-3/6, *SB-M*-1/12, *SB-K*-2/11, *VS-M*-1/5, *VS-K*-2/7)
+- जुहोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-10, *TS*-20, *RV*-5, *TB*-4, *AV*-18, *SB-M*-17, *SB-K*-15, *VS-M*-5, *VS-K*-6)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- सप्त᳓ (*MS*-65/77, *TS*-74/88, *RV*-122/128, *TB*-29/32, *TK*-12, *AV*-76/77, *SB-M*-163/182, *SB-K*-150/170, *VS-M*-23/24, *VS-K*-21/24)
+- हो᳓त्राः (*MS*-6/20, *TS*-14/26, *RV*-3/27, *TB*-2/13, *TK*-1, *AV*-3/5, *SB-M*-13/46, *SB-K*-12/35, *VS-M*-7, *VS-K*-8/11)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -173,6 +221,13 @@ The Drop leaped onward through the earth and heaven, along this place and that w
 अध एका १.
 
 ऊर्ध्वम् एका मध्य एका इत्य् एताः सप्त दिशः ॥ ५ ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+**समानान्तराणि:** cf. Mâitr. S. 2, 5, 10 ; TS 3, 3, 9. 10.
+
+- **[523_11]** So corr. T4 स᳓प्त; cf. RV 10, 17, 11; Mâitr. S. 2, 5, 10. (Thus emended T4 स᳓प्त; cf. RV 10, 17, 11; Mâitr. S. 2, 5, 10.)
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>

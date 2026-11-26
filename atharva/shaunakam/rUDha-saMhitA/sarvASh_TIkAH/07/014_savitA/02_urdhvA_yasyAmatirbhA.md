@@ -31,6 +31,12 @@ Whose splendour is sublime, whose light shone brilliant in crea- tion, who, wise
 To him at whose impulsion shone aloft in heaven the splendid light. Most wise, the Golden-handed hath measured the sky with skilled design.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whose radiant form, his light, shone high at his instigation;  
+golden-handed, of good insight, he measured out the heaven with [his] fair shape.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 उ॒र्ध्वा यस्या॒मति॒र्भा अदि॑द्युत॒त्सवी॑मनि।  
@@ -42,6 +48,12 @@ To him at whose impulsion shone aloft in heaven the splendid light. Most wise, t
 ऊ॒र्ध्वा यस्या॒मति॒र्भा अदि॑द्युत॒त्सवी॑मनि॒ हिर॑ण्यपाणिरमिमीत सु॒क्रतुः॑ कृ॒पा स्वः॑ ॥३॥ ३४
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ऊर्ध्वा᳓ य᳓स्याम᳓तिर्भा᳓ अ᳓दिद्युतत्स᳓वीमनि।  
+हि᳓रण्यपाणिरमिमीत सुक्र᳓तुः कृपा᳓ स्वृः
+</details>
+
 <details><summary>पदपाठः</summary>
 
 ऊ॒र्ध्वाः। यस्य॑। अ॒मतिः॑। भाः। अदि॑द्युतत्। सवी॑मनि। हिर॑ण्यऽपाणिः। अ॒मि॒मी॒त॒। सु॒ऽक्रतुः॑। कृ॒पात्। स्वः᳡। १५.२।
@@ -50,6 +62,21 @@ To him at whose impulsion shone aloft in heaven the splendid light. Most wise, t
 <details><summary>पदपाठः - काण्वः</summary>
 
 ऊ॒र्ध्वा। यस्य॑। अ॒मतिः॑। भाः। अदि॑द्यु॒तत्। सवी॑मनि। हिर॑ण्यपाणि॒रिति॒ हिर॑ण्यऽपाणिः। अ॒मि॒मी॒त॒। सु॒क्रतु॒रिति॑ सु॒ऽक्रतुः॑। कृ॒पा। स्व॒रिति॒ स्वः॑। ३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ऊर्ध्वा᳓ (*MS*-15/86, *TS*-10/60, *RV*-12/73, *TB*-1/22, *TK*-1/2, *AV*-2/48, *SB-M*-23/276, *SB-K*-14/264, *VS-M*-2/23, *VS-K*-2/22)
+- य᳓स्य (*MS*-155/3763, *TS*-134/3385, *RV*-207/4011, *TB*-71/1735, *TK*-2/227, *AV*-112/3120, *SB-M*-143/8327, *SB-K*-136/8438, *VS-M*-28/651, *VS-K*-25/609)
+- अम᳓तिः (*MS*-1/2, *TS*-1, *RV*-2/9, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2)
+- भाः᳓ (*MS*-5, *TS*-9, *RV*-9, *TB*-4, *TK*-3, *AV*-1, *SB-M*-4, *SB-K*-2, *VS-M*-2, *VS-K*-3)
+- अ᳓दिद्युतत् (*MS*-2, *TS*-1, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-K*-1)
+- स᳓वीमनि (*MS*-1, *TS*-1, *RV*-5, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-3)
+- हि᳓रण्य-पाणिः (*MS*-3/4, *TS*-3/5, *RV*-3/5, *TB*-2, *AV*-1/2, *SB-M*-4, *SB-K*-4, *VS-M*-4/5, *VS-K*-3/6)
+- अमिमीत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-8, *RV*-5, *TB*-11, *AV*-3, *SB-M*-39, *SB-K*-38, *VS-M*-2, *VS-K*-3)
+- सु-क्र᳓तुः (*MS*-7/11, *TS*-3/4, *RV*-33/44, *TB*-3/6, *AV*-1/2, *SB-M*-5/7, *SB-K*-4/6, *VS-M*-3/4, *VS-K*-4/5)
+- कृपा᳓ (*MS*-4, *TS*-4, *RV*-8, *AV*-1/2, *SB-M*-2, *SB-K*-2, *VS-M*-3, *VS-K*-4/6)
+- स्वृः (मूल-पाठः)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -8,6 +8,13 @@ title = "०२ शिप्रिन्वाजानां पते"
 O Lord of strength, whose jaws are strong, great deeds are thine, the powerful: Do thou, O Indra, give us hope of beauteous horses and of kine, In thousands, O most wealthy One.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O broad-jawed one, lord of prizes, powerful one, such are your wondrous deeds;  
+make known to us, O Indra, among the cattle, the splendid horses,  
+the thousands, O bountiful one!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 शिप्रि॑न्वाजानां पते॒ शची॑व॒स्तव॑ दं॒सना॑।  
@@ -23,6 +30,12 @@ O Lord of strength, whose jaws are strong, great deeds are thine, the powerful: 
 स॒हस्रे॑षु तुवीमघ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+शिप्रिन्वाजानां पते शचीवस्तव दँसना।  
+आ तू न इन्द्र शँसय गोष्वश्वेषु श्रुभ्रिषु सहस्रेषु तुवीमघ
+</details>
+
 <details><summary>पदपाठः</summary>
 
 शिप्रि॑न्। वा॒जा॒ना॒म्। प॒ते॒। शची॑ऽवः। तव॑। दं॒सना॑। आ। तु। नः॒। इ॒न्द्र॒। शं॒स॒य॒। गोषु॑। अश्वे॑षु। शु॒भ्रिषु॑। स॒हस्रे॑षु। तु॒वि॒ऽम॒घ॒। ७४.२।
@@ -31,6 +44,26 @@ O Lord of strength, whose jaws are strong, great deeds are thine, the powerful: 
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 शि᳓प्रिन् । वाजानाम् । पते । श᳓चीवः । त᳓व । दंस᳓ना । आ᳓ । तू᳓ । नः । इन्द्र । भाजय । गो᳓षु । अ᳓श्वेषु । शुभ् । रु᳓षु । सह᳓स्रेषु । तुवी-मघ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- शि᳓प्रिन् (*RV*-2, *TB*-1, *AV*-1)
+- वाजानाम् (समानान्तर-पाठः (RV), *RV*-3, *TB*-1, *AV*-2)
+- पते (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-12, *TS*-23, *RV*-52, *TB*-3, *TK*-7, *AV*-30, *SB-M*-9, *SB-K*-10, *VS-M*-14, *VS-K*-12)
+- श᳓चीवः (*RV*-5/7, *TB*-1, *AV*-2)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- दंस᳓ना (*MS*-0/2, *TS*-0/1, *RV*-8/16, *TB*-1/3, *AV*-1/2, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/2, *VS-K*-0/4)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- तू᳓ (*MS*-3/108, *TS*-1/113, *RV*-0/72, *TB*-1/48, *TK*-0/3, *AV*-0/56, *SB-M*-0/438, *SB-K*-0/440, *VS-M*-0/8, *VS-K*-0/4)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- इ᳓न्द्र (*MS*-22/25, *TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30)
+- शंसय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-7, *AV*-7)
+- गो᳓षु (*MS*-12/149, *TS*-6/108, *RV*-43/521, *TB*-5/76, *AV*-36/195, *SB-M*-5/168, *SB-K*-3/149, *VS-M*-5/67, *VS-K*-5/67)
+- अ᳓श्वेषु (*MS*-3/117, *TS*-4/126, *RV*-8/226, *TB*-4/167, *AV*-12/76, *SB-M*-1/262, *SB-K*-1/255, *VS-M*-4/56, *VS-K*-4/52)
+- श्रु᳓भ्रिषु (अनाम्नातम् (अनुमानम्))
+- सह᳓स्रेषु (*MS*-0/58, *TS*-0/81, *RV*-7/89, *TB*-1/9, *TK*-0/5, *AV*-7/39, *SB-M*-1/119, *SB-K*-1/107, *VS-M*-0/24, *VS-K*-0/22)
+- तुवी-मघ (समानान्तर-पाठः (RV), *TB*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -64,4 +97,9 @@ O Lord of strength, whose jaws are strong, great deeds are thine, the powerful: 
 <details><summary>सायण-टीका</summary>
 
 शिप्रशब्दो हनुवाचकः । शोभनहनुयुक्तः शिप्री । वाजानां पतिरन्नपालकः । शचीवान् शक्तिमान् । तुवीमघो बहुलधनः । तादृश हे इन्द्र! तव दँसना त्वत्संबन्धिनि दंसनशब्दाभिधेये अस्मिन्कर्मण्यनुष्ठिते सति शुभ्रुषु निर्मलेपु सहस्रेषु सहस्रसंख्याकेषु गोष्वश्वेषु च नोऽस्मान् आतु भाजय समन्तात्सदा भागिनः कुरु । एतच्च मन्त्रद्वयमैन्द्रे कर्मणि द्रष्टव्यम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[140_6]** So corr.; Ch श्वेष्वभ्रिषु; D श्वेषु श्रुद्रिषु; cf. RV 1, 29, 2. (Thus emended; Ch श्वेष्वभ्रिषु; D श्वेषु श्रुद्रिषु; cf. RV 1, 29, 2.)
 </details>

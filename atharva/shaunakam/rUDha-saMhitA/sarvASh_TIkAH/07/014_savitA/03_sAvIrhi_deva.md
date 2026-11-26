@@ -22,6 +22,12 @@ also RV. iii. 56. 6 (quoted here by the comm.). Ppp. shows no variants.
 As thou, God! quickening, for our ancient father, sentest him height above and room about him, So unto us, O Savitar, send treasures, abundant, day by day, in shape of cattle.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For you have impelled, O god, for the first father, height for him, expanse for him;  
+then impel for us, O Savitṛ, desirable things day by day, abundant in cattle.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 सावी॒र्हि दे॑व प्रथ॒माय॑ पि॒त्रे व॒र्ष्माण॑मस्मै वरि॒माण॑मस्मै।  
@@ -36,6 +42,12 @@ As thou, God! quickening, for our ancient father, sentest him height above and r
 दि॒वेदि॑व॒ आ सु॑वा॒ भूरि॑ प॒श्वः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सा᳓वीर्हि᳓ देव प्रथमा᳓य पित्रे᳓ वर्ष्मा᳓णमस्मै वरिमा᳓णमस्मै।  
+अ᳓थास्म᳓भ्यँ सवितर्वा᳓र्याणि दिवे᳓ दिव आ᳓सुवा भू᳓रि पर्श्वः᳓
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सावीः॑। हि। दे॒व॒। प्र॒थ॒माय॑। पि॒त्रे। व॒र्ष्माण॑म्। अ॒स्मै॒। व॒रि॒माण॑म्। अ॒स्मै॒। अथ॑। अ॒स्मभ्य॑म्। स॒वि॒तः॒। वार्या॑णि। दि॒वःऽदि॑वः। आ। सु॒व॒। भूरि॑। प॒श्वः। १५.३।
@@ -44,6 +56,30 @@ As thou, God! quickening, for our ancient father, sentest him height above and r
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 सा᳓वीः । हि᳓ । देव । प्र-सवा᳓य । पित्रे । वर्ष्मा᳓णम् । अस्मै । वरिमा᳓णम् । अस्मै । अ᳓थ । अस्म᳓-भ्यम् । सवितः । सर्व᳓-ताता । दिवे᳓-दिवे । आ᳓ । सु । वा । भू᳓रि । पश्वः᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सा᳓वीः (*MS*-0/6, *TB*-1, *AV*-1)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- देव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-65, *TS*-57, *RV*-123, *TB*-28, *TK*-2, *AV*-24, *SB-M*-47, *SB-K*-34, *VS-M*-45, *VS-K*-39)
+- प्रथमा᳓य (*MS*-1/106, *TS*-1/95, *RV*-2/170, *TB*-1/41, *TK*-0/7, *AV*-3/109, *SB-M*-7/287, *SB-K*-5/272, *VS-M*-1/38, *VS-K*-1/39)
+- पित्रे᳓ (*MS*-2/157, *TS*-2/121, *RV*-9/254, *TB*-4/111, *TK*-0/6, *AV*-6/228, *SB-M*-7/321, *SB-K*-7/317, *VS-M*-1/80, *VS-K*-1/75)
+- वर्ष्मा᳓णम् (*MS*-0/1, *TS*-0/1, *RV*-3/4, *TB*-1, *AV*-1/3)
+- अस्मै (अन्वादेशे अनुदात्तम्, पा॰ २.४.३२, *MS*-115, *TS*-286, *RV*-132, *TB*-49, *TK*-11, *AV*-65, *SB-M*-251, *SB-K*-223, *VS-M*-11, *VS-K*-11)
+- वरिमा᳓णम् (*MS*-2/3, *TS*-1/2, *RV*-2/3, *TB*-1, *AV*-1/4, *SB-M*-2/10, *SB-K*-1/9, *VS-M*-1/9, *VS-K*-1/9)
+- अस्मै (अन्वादेशे अनुदात्तम्, पा॰ २.४.३२, *MS*-115, *TS*-286, *RV*-132, *TB*-49, *TK*-11, *AV*-65, *SB-M*-251, *SB-K*-223, *VS-M*-11, *VS-K*-11)
+- अ᳓थ (*MS*-482, *TS*-161, *RV*-117, *TB*-146, *TK*-34, *AV*-68, *SB-M*-3814, *SB-K*-3581, *VS-M*-17, *VS-K*-14)
+- अस्म᳓-भ्यम् (*MS*-33/641, *TS*-21/565, *RV*-119/1308, *TB*-12/270, *TK*-0/66, *AV*-30/1252, *SB-M*-16/723, *SB-K*-11/728, *VS-M*-15/315, *VS-K*-20/274)
+- सवितः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-20, *TS*-19, *RV*-23, *TB*-5, *AV*-11, *SB-M*-9, *SB-K*-11, *VS-M*-17, *VS-K*-15)
+- वा᳓र्याणि (*MS*-4/11, *TS*-2/3, *RV*-17/54, *TB*-4/5, *TK*-0/1, *AV*-2/8, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-5)
+- दिवे᳓ (*MS*-18/308, *TS*-19/270, *RV*-15/854, *TB*-5/119, *TK*-0/15, *AV*-8/340, *SB-M*-10/353, *SB-K*-10/342, *VS-M*-9/167, *VS-K*-7/179)
+- दिवः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-21, *AV*-2)
+- आ᳓सु (*TB*-1, *SB-M*-2, *SB-K*-4, *VS-M*-1, *VS-K*-3, *MS*-2/3)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-211, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-36)
+- भू᳓रि (*MS*-11/16, *TS*-5/10, *RV*-68/101, *TB*-3/5, *AV*-18/23, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-4/5, *VS-K*-3/4)
+- पर् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2)
+- श्वः᳓ (*MS*-22, *TS*-11, *RV*-6, *TB*-6, *AV*-2, *SB-M*-37, *SB-K*-26, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -77,4 +113,13 @@ As thou, God! quickening, for our ancient father, sentest him height above and r
 <details><summary>सायण-टीका</summary>
 
 हे देव प्रसवाय प्रजानां प्रेरकाय पित्रे पालकायास्मै राज्ञे वर्ष्माणं सावीर्हि सर्वथा प्रेरय । अस्य राज्ञो देहो यथा सर्वान्पालयति तथा त्वमनुगृहाणेत्यर्थः । किं चास्मै राज्ञे वरिमाणमुरुत्वं राज्यविस्तारं सावीः प्रेरय अनुजानीहि । अथ अनन्तरं हे सवितः सर्वे देवास्तायन्ते विस्तीर्यन्त एष्विति सर्वताता ये यज्ञास्तेषु सर्वताता अस्मभ्यमस्मदर्थं भूरिपश्वः भृरीन्बहुलान्पशून् आसुव सर्वतः प्रेरय ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[554_10]** Dies Capitel auch in den accentuirten Handschriften T1, Brl fol. 118. 119 und W 2 vorhanden. (This chapter also present in the accented manuscripts T1, Brl fol. 118, 119, and W 2.)
+
+- **[554_11]** TBr. 2, 7, 15, 1 प्रसवा᳓य
+
+- **[555_1]** Brl fol. 118 दिवि᳓ दिव
 </details>

@@ -8,15 +8,43 @@ title = "०५ इन्द्र इद्धर्योः"
 Indra hath ever close to him his two bay steeds and word-yoked: car, Indra, the golden, Thunder-armed.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra is united with his two bay horses, yoked at a word;  
+Indra is the golden wielder of the thunderbolt.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 इन्द्र॒ इद्धर्योः॒ सचा॒ संमि॑श्ल॒ आ व॑चो॒युजा॑।  
 इन्द्रो॑ व॒ज्री हि॑र॒ण्ययः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इ᳓न्द्रा इ᳓द् ध᳓र्योः स᳓चा सं᳓मिश्ला आ᳓ वचोयु᳓जा  
+इ᳓न्द्रो वर्जी᳓ हिरण्य᳓यः
+</details>
+
 <details><summary>पदपाठः</summary>
 
 इन्द्रः॑। इत्। हर्योः॑। सचा॑। सम्ऽमि॑श्‍ल। आ। व॒चः॒ऽयुजा॑। इन्द्रः॑। व॒ज्री॒। हि॒र॒ण्ययः॑। ३८.५।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इ᳓न्द्राः (*TS*-0/497, *RV*-0/1345, *TB*-0/363, *TK*-0/8, *AV*-0/606, *SB-M*-0/535, *SB-K*-2/509, *VS-M*-0/388, *VS-K*-0/358, *KS*-0/189)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-60, *VS-K*-46, *KS*-42)
+- धः᳓ (*SB-M*-1)
+- योः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-1)
+- स᳓चा (*RV*-85, *TB*-4, *AV*-15, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-6, *VS-K*-9, *KS*-4)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- मिश्लाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- वचः-यु᳓जाः (*RV*-0/5, *AV*-0/3)
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/388, *VS-K*-93/358, *KS*-72/189)
+- वर्जी᳓ (*MW*)
+- हिरण्य᳓यः (*TS*-1/2, *RV*-10/44, *TB*-1/3, *AV*-12/26, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-2/3, *KS*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

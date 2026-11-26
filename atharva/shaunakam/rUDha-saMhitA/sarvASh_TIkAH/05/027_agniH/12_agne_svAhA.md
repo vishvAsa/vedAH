@@ -32,6 +32,12 @@ May all the gods rejoice in this offering.
 Pay sacrifice to Indra, Jâtavedas Agni! with Hail! All Gods accept the gift we offer!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, Jātavedas, utter 'svāhā' to the oblation for Indra;  
+may all the gods enjoy this offering.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 अ॑ग्ने॒ स्वाहा॑ कृणुहि जातवेदः।  
@@ -48,6 +54,12 @@ Pay sacrifice to Indra, Jâtavedas Agni! with Hail! All Gods accept the gift we 
 
 अग्ने॒ स्वाहा॑ कृणुहि जातवेद॒ इन्द्रा॑य ह॒व्यम् ।  
 विश्वे॑ दे॒वा ह॒विरि॒दञ्जु॑षन्ताम् ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्ने स्वाहा कृणुहि जातवेद इन्द्राय हव्यम्।  
+विश्वे देवा हविरिदं जुषन्ताम्
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -68,6 +80,21 @@ Pay sacrifice to Indra, Jâtavedas Agni! with Hail! All Gods accept the gift we 
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अग्ने॑ । स्वाहा॑ । कृ॒णु॒हि॒ । जा॒त॒वे॒द॒ इति॑ जात-वे॒दः॒ । इन्द्रा॑य । ह॒व्यम् ॥ विश्वे॑ । दे॒वाः । ह॒विः । इ॒दम् । जु॒ष॒न्ता॒म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- स्वा᳓हा (*Whitney*, *MS*-536, *TS*-875, *RV*-19, *TB*-411, *TK*-98, *AV*-171, *SB-M*-480, *SB-K*-444, *VS-M*-591, *VS-K*-480)
+- कृणुहि (समानान्तर-पाठः (TS), *MS*-7, *TS*-5, *RV*-21, *TB*-3, *AV*-8, *SB-M*-1, *SB-K*-2, *VS-M*-8, *VS-K*-7)
+- जात-वेदः (समानान्तर-पाठः (TS), *MS*-21, *TS*-18, *RV*-55, *TB*-8, *AV*-54, *SB-K*-6, *VS-M*-10, *VS-K*-11)
+- इ᳓न्द्राय (*MS*-165/711, *TS*-141/497, *RV*-210/1345, *TB*-54/363, *TK*-0/8, *AV*-40/606, *SB-M*-105/535, *SB-K*-87/509, *VS-M*-104/392, *VS-K*-78/380)
+- हव्य᳓म् (*MS*-42/56, *TS*-39/50, *RV*-34/81, *TB*-14/21, *AV*-23/25, *SB-M*-20/22, *SB-K*-22/24, *VS-M*-11/18, *VS-K*-15/22)
+- वि᳓श्वे (*MS*-70/301, *TS*-84/283, *RV*-186/1116, *TB*-30/125, *TK*-6/124, *AV*-77/353, *SB-M*-85/248, *SB-K*-74/219, *VS-M*-56/225, *VS-K*-47/224)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- हविः᳓ (*Whitney*, *MS*-95/213, *TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-26/101)
+- इद᳓म् (*MW*, *MS*-231/1379, *TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-M*-1046/5239, *SB-K*-982/5549, *VS-M*-65/319, *VS-K*-64/301)
+- जुषन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-5, *RV*-1, *TB*-5, *AV*-10, *SB-M*-7, *SB-K*-5, *VS-M*-4, *VS-K*-5)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -179,6 +206,11 @@ Pay sacrifice to Indra, Jâtavedas Agni! with Hail! All Gods accept the gift we 
 विश्वे देवाः सर्वेऽपि देवा-स्तदा तदा मया दीयमानमिदं हविर्जुषन्ताम् ।  
 यद्यप्येकादशेव प्रयाजास्तथाऽपि द्वितीयतृतीययोर्मन्त्रयोः पुरुषभेदेन व्यवस्थियत्वान्मन्त्राणां द्वादशसंख्या न विरुद्यते ।  
 सा च व्यवस्था सूत्रकारेण दर्शिता– “नराशंसो द्वितीयः प्रयाजो वसिष्ठशुनकानां तनूनपादितरेषां गोत्राणाम्” इति।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+**समानान्तराणि:** cf. Mâitr. S. 2, 12, 6; Kap. S. 29, 5.
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>

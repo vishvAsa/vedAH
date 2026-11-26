@@ -13,6 +13,19 @@ As parents aid a son, both Asvins, Indra, aided thee with their wondrous powers 
 As parents aid a son, etc., as in X. 34.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Hotṛ, sacrifice.  
+Like parents a son, both of you Aśvins helped Indra with poetic arts and marvelous deeds;  
+when you drank thoroughly the intoxicating drink with your powers, Sarasvatī healed you, O generous one.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+As parents a son, both Aśvins, you protected Indra with wisdom and wondrous deeds,  
+when you drank up the heady liquor with your powers; Sarasvatī healed you, generous Indra!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 पु॒त्रमि॑व पि॒तरा॑व॒श्विनो॒भेन्द्रा॒वथुः॒ काव्यै॑र्दं॒सना॑भिः।  
@@ -31,6 +44,12 @@ As parents aid a son, etc., as in X. 34.
 यत्सु॒रामं॒ व्यपि॑बः॒ शची॑भिः॒ सर॑स्वती त्वा मघवन्नभिष्णक् ॥४॥ (१०) ४७ (५४८)
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+पुत्रमिव पितरा अश्विनोभेन्द्रावतं काव्यैर्दँसनाभिः।  
+यत्सुरामं व्यपिबश्शचीभिस्सरस्वती त्वा मघवन्नभिष्णक्
+</details>
+
 <details><summary>पदपाठः</summary>
 
 पु॒त्रम्ऽइ॑व। पि॒तरौ॑। अ॒श्विना॑। उ॒भा। इन्द्र॑। आ॒वथ॑। काव्यैः॑। दं॒सना॑भिः। यत्। सु॒ऽराम॑म्। वि। अपि॑बः। शची॑भिः। सर॑स्वती। त्वा॒। म॒घ॒ऽव॒न्। अ॒भि॒ष्ण॒क्। १२५.५।
@@ -44,6 +63,27 @@ As parents aid a son, etc., as in X. 34.
 <details><summary>पदपाठः - काण्वः</summary>
 
 पु॒त्रमि॒वेति॑ पु॒त्रम्ऽइ॑व। पि॒तरौ॑। अ॒श्विना॑। उ॒भा। इन्द्र॑। आ॒वथुः॑। काव्यैः॑। दँ॒सना॑भिः। यत्। सु॒राम॑म्। वि। अपि॑बः। शची॑भिः। सर॑स्वती। त्वा॒ म॒घ॒व॒न्निति॑ मघऽवन्। अ॒भि॒ष्ण॒क्। ४।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पुत्र᳓मिव (*RV*-3, *TB*-1, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-7)
+- पि᳓तराः (*MS*-0/3, *TS*-0/3, *RV*-0/1, *TB*-0/2, *AV*-0/4, *SB-M*-0/5, *SB-K*-0/2, *VS-M*-0/2, *VS-K*-0/1)
+- अश्वि᳓ना (*MS*-57/130, *TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103)
+- उभा᳓ (*MS*-17/70, *TS*-17/71, *RV*-45/137, *TB*-6/50, *TK*-0/1, *AV*-20/82, *SB-M*-6/161, *SB-K*-6/151, *VS-M*-14/28, *VS-K*-19/34)
+- इ᳓न्द्र (*MS*-22/25, *TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30)
+- अ᳓वतम् (*MS*-1/5, *TS*-0/4, *RV*-2/7, *TB*-3/4, *AV*-0/4, *SB-M*-0/13, *SB-K*-0/17, *VS-M*-0/2, *VS-K*-0/3)
+- का᳓व्यैः (*MS*-1/3, *RV*-2/24, *TB*-0/1, *AV*-1/8, *SB-M*-1/4, *SB-K*-1/4, *VS-M*-2/3, *VS-K*-4/7)
+- दंस᳓नाभिः (*MS*-2, *TS*-0/1, *RV*-5/16, *TB*-2/3, *AV*-1/2, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-4)
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- सु-रा᳓मम् (*MS*-3, *RV*-2, *TB*-2, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-6, *VS-K*-16)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *MS*-130)
+- अ᳓पिबः (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-2, *TS*-1, *RV*-9, *AV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-3, *VS-K*-8)
+- श᳓चीभिः (*MS*-8/10, *TS*-3, *RV*-36/54, *TB*-9/10, *AV*-11/16, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-8/9, *VS-K*-11/16)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- म᳓घ-वन् (*MS*-1, *TS*-2, *RV*-9, *AV*-2, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- अभिष्णक् (*MS*-1, *RV*-1, *AV*-1, *SB-K*-1, *VS-M*-2, *VS-K*-4)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -25,6 +25,12 @@ His brightness is nil by day-time. The "together" were better left out.⌋
 Half-years and seasons strengthen thee, O Agni, the years, and all the Verities, and Rishis! Flash forth with thy celestial effulgence: illumine all four regions of the heavens.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the seasons, the years increase you, O Agni, the ṛṣis, whatever things are true;  
+shine forth with divine radiance; illuminate all the four quarters.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 समा॑स्त्वाग्न ऋ॒तवो॑ वर्धयन्तु संवत्स॒रा ऋष॑यो॒ यानि॑ स॒त्या।  

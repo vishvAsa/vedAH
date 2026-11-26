@@ -8,15 +8,40 @@ title = "०३ गिरा वज्रो"
 By song, as 'twere, the mighty bolt, which none may parry, was prepared: Lofty, invincible he grew.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Gathered like a thunderbolt by song, strong, unshaken,  
+the fierce, unvanquished one has grown mighty.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 गि॒रा वज्रो॒ न संभृ॑तः॒ सब॑लो॒ अन॑पच्युतः।  
 व॑व॒क्ष ऋ॒ष्वो अस्तृ॑तः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+गिरा᳓ व᳓ज्रो न᳓ सं᳓भृतः स᳓बलो अ᳓नपच्युतः  
+ववक्ष᳓ उग्रो᳓ अ᳓स्तृतः
+</details>
+
 <details><summary>पदपाठः</summary>
 
 गि॒रा। वज्रः॑। न। सम्ऽभृ॑तः। सऽब॑लः। अन॑पऽच्युतः। व॒व॒क्षे। ऋ॒ष्वः। अस्तृ॑तः। ४७.३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- गिरा᳓ (*TS*-5/7, *RV*-68/74, *TB*-2/3, *AV*-5/9, *SB-M*-3/6, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-5/7, *KS*-3/5)
+- व᳓ज्रः (*TS*-46/120, *RV*-25/137, *TB*-17/37, *TK*-1/2, *AV*-15/54, *SB-M*-155/292, *SB-K*-149/267, *VS-M*-4/7, *VS-K*-2/3, *KS*-9/19)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- स᳓म्-भृतः (*TS*-0/6, *RV*-1/11, *TB*-1/2, *AV*-4/18, *SB-M*-14/19, *SB-K*-8/19, *VS-M*-3/6, *VS-K*-1/3, *KS*-1)
+- स᳓बलः (*RV*-1, *AV*-2/4)
+- अ᳓नप-च्युतः (*RV*-4/11, *AV*-2)
+- ववक्षे᳓ (*TS*-1, *RV*-4, *AV*-3)
+- उग्रः᳓ (*TS*-14/33, *RV*-50/153, *TB*-9/21, *TK*-1/2, *AV*-38/99, *SB-M*-4/10, *SB-K*-3/9, *VS-M*-8/23, *VS-K*-8/18, *KS*-3/12)
+- अ᳓स्तृतः (*TS*-0/2, *RV*-5/12, *AV*-10/13, *SB-M*-0/1, *SB-K*-0/1, *KS*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

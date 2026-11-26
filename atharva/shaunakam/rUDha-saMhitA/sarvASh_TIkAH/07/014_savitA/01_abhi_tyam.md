@@ -33,6 +33,12 @@ I praise this God, parent of heaven and earth, exceeding wiser possessed of real
 I sing my song of praise to him, Savitar, God between the Bowls, strong with the wisdom of the wise, of true impulsion, wealth-giver, the well-beloved thoughtful Sage.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Towards that divine Savitṛ within the two halves [of the world], possessing the insight of a sage,  
+I sing, of true instigation, bestower of jewels, towards [his] beloved thought.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 अ॒भि त्यं दे॒वं स॑वि॒तार॑मो॒ण्योः᳡ क॒विक्र॑तुम्।  
@@ -156,4 +162,11 @@ I sing my song of praise to him, Savitar, God between the Bowls, strong with the
 मतिं बुद्धिं मति-रूपं कविं क्रान्त-दर्शिनम् ।
 
 एवं-गुण-वरिष्ठं सवितारम् 'अभ्यर्चामि अभिपूजयामि ।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[14_12]** Ch पतिम्
+
+- **[14_13]** So corr. Die accentuirten Mss., Brl, L u. T3, geben dies Wort sämmtlich ohne Accent, resp. mit secundärem Svarita. (Thus emended; the accented mss., Brl, L, and T3, all give this word without accent, or with secondary svarita, respectively.)
 </details>

@@ -44,15 +44,42 @@ extracted item of Anukr. is simply *tṛtīya* (see end of the next
 He rules supreme through thirty realms--One winged with song hath made him mount Throughout the days at break of morn.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thirty realms shine wide; speech, the winged birds have settled,  
+at the break of day, along with the lights.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 त्रिं॒शद्धामा॒ वि रा॑जति॒ वाक्प॑त॒ङ्गो अ॑शि॒श्रिय॑त्।  
 प्रति॒ वस्तो॒रह॒र्द्युभिः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्रिँश᳓द्धा᳓म वि᳓राजति वा᳓क्पतङ्गा᳓ अशिश्रयुः।  
+प्र᳓ति व᳓स्तोर᳓ह द्यु᳓भिः
+</details>
+
 <details><summary>पदपाठः</summary>
 
 त्रिं॒शत्। धाम॑। व‍ि। रा॒ज॒ति॒। वाक्। प॒त॒ङ्गः। अ॒शि॒श्रि॒य॒त्। प्रति॑। वस्तोः॑। अहः॑। द्युऽभिः॑। ३१.३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्रिंश᳓त् (*MS*-7/10, *TS*-6/13, *RV*-5/12, *TB*-3/5, *AV*-4/6, *SB-M*-20/28, *SB-K*-20/26, *VS-M*-3/5, *VS-K*-2/4)
+- धा᳓म (*MS*-33/69, *TS*-31/53, *RV*-39/92, *TB*-7/31, *TK*-2, *AV*-29/45, *SB-M*-26/67, *SB-K*-28/71, *VS-M*-8/49, *VS-K*-10/45)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- राजति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-14, *AV*-7, *SB-M*-5, *SB-K*-5, *VS-K*-2, *MS*-4)
+- वा᳓क् (*MS*-129, *TS*-76/91, *RV*-9, *TB*-31, *TK*-6, *AV*-17, *SB-M*-358, *SB-K*-306, *VS-M*-12/13, *VS-K*-11/14)
+- पतङ्गाः᳓ (*MS*-0/2, *TS*-0/3, *RV*-2/8, *AV*-0/2, *SB-M*-0/1, *SB-K*-1/2, *VS-M*-0/3, *VS-K*-0/3)
+- अशिश्रयुः (*RV*-4)
+- प्र᳓ति (*MS*-265, *TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-1)
+- व᳓स्तोः (*MS*-6/7, *TS*-3/4, *RV*-22/27, *TB*-3/5, *AV*-4/6, *SB-M*-1/4, *SB-K*-1/3, *VS-M*-4, *VS-K*-5/7)
+- अ᳓ह (*MS*-6, *TS*-8, *RV*-50, *TB*-6, *TK*-3, *AV*-12, *SB-M*-70, *SB-K*-50, *VS-M*-2, *VS-K*-2)
+- द्यु᳓भिः (*MS*-1/308, *TS*-2/270, *RV*-19/854, *TB*-0/119, *TK*-0/15, *AV*-3/340, *SB-M*-3/353, *SB-K*-2/342, *VS-M*-4/167, *VS-K*-4/179)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -81,4 +108,9 @@ He rules supreme through thirty realms--One winged with song hath made him mount
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(त्रिंशत् धामा) अहोरात्रस्य त्रिशन्मुहूर्ताख्यानि धामानि स्थानानि (वि) विविधम् (राजति) अन्तर्गतण्यर्थः। राजयति शास्ति दीपयति वा (वाक्) वेदवाणी (पतङ्गः) पतेरङ्गच् पक्षिणि। उ० १।११९। इति पत गतौ ऐश्वर्ये च−अङ्गच्। गतिशीलः। ऐश्वर्यवान् (अशिश्रियत्) णिश्रिद्रुस्रुभ्यः०। पा० ३।१।४८। इति श्रिञ् सेवायाम्−लुङि च्लेश्चङ्। आश्रितवती (प्रति) प्रत्यक्षम् (वस्तोः) ईश्वरे तोसुन्कसुनौ। पा० ३।४।१३। इति वस आच्छादने−कर्त्तरि तोसुन्। दिनम्−निघ० १।९। (अहः) दिनम् (द्युभिः) दिवु क्रीडाविजिगीषादिषु−क्विप्। किरणैः। गतिभिः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[78_10]** रक्ष द्युभिः ohne Accent in Brl. (रक्ष द्युभिः without accent in Brl.)
 </details>

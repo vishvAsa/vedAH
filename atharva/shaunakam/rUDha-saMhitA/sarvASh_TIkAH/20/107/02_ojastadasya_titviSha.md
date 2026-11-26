@@ -8,6 +8,12 @@ title = "०२ ओजस्तदस्य तित्विष"
 This power of his shone brightly forth when Indra brought to- gether like A skin the worlds of earth and heaven.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That strength of his flared up, when Indra rolled together both  
+heaven and earth like a hide.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 ओज॒स्तद॑स्य तित्विष उ॒भे यत्स॒मव॑र्तयत्।  

@@ -21,6 +21,12 @@ Our *pada*-text divides the last word as *su-prāyanā́ḥ,* while the RV.
 Let the expansive Doors be widely opened, like wives who deck their beauty for their husbands. Lofty, celestial, all-impelling Portals, admit the Gods and give them easy entrance!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Spacious, let them open wide, like wives adorning themselves for their husbands.  
+Divine doors, high, all-impelling, be easy of entrance for the gods!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 व्यच॑स्वतीरुर्वि॒या वि श्र॑यन्तां॒ पति॑भ्यो॒ न जन॑यः॒ शुम्भ॑मानाः।  
@@ -31,6 +37,12 @@ Let the expansive Doors be widely opened, like wives who deck their beauty for t
 
 व्यच॑स्वतीरुर्वि॒या वि श्र॑यन्तां॒ पति॑भ्यो॒ न जन॑यः॒ शुम्भ॑मानाः।  
 देवी॑र्द्वारो बृहतीर्विश्वमिन्वा दे॒वेभ्यो॑ भवत सुप्राय॒णाः ॥३० ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+व्य᳓चस्वतीरुर्विया᳓ वि᳓श्रयन्तां प᳓तिभ्यो न᳓ ज᳓नयश्शुम्भ᳓मानाः।  
+दे᳓वीर्द्वारो बृहतीर्विश्वमिन्वा᳓ देवे᳓भ्यो भवत सुप्रायणाः᳓
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -46,6 +58,25 @@ Let the expansive Doors be widely opened, like wives who deck their beauty for t
 <details><summary>पदपाठः - काण्वः</summary>
 
 व्यचस्वतीः। उर्विया। वि। श्रयन्ताम्। पतिभ्यः। न। जनयः। शुम्भमानाः। देवीः। द्वारः। बृहतीः। विश्वम्। इन्वाः। देवेभ्यः। भवत। सु। प्रायणाः। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- व्य᳓चस्वतीः (*MS*-3/7, *TS*-0/4, *RV*-2, *TB*-4, *AV*-1, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-4/7, *VS-K*-4/10)
+- उर्विया᳓ (*MS*-1, *RV*-23, *TB*-1, *AV*-2, *VS-M*-1, *VS-K*-1)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- श्रयन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-3, *RV*-5, *TB*-5, *AV*-3, *VS-M*-3, *VS-K*-3)
+- प᳓तिभ्यः (*MS*-2/47, *TS*-0/45, *RV*-3/200, *TB*-2/21, *TK*-0/6, *AV*-5/137, *SB-M*-2/64, *SB-K*-2/61, *VS-M*-1/45, *VS-K*-1/61)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- ज᳓नयः (*MS*-6/7, *TS*-4, *RV*-12/28, *TB*-2, *AV*-4/11, *SB-M*-5, *SB-K*-5, *VS-M*-5/6, *VS-K*-4/5)
+- शुम्भ᳓मानाः (*RV*-1/2)
+- दे᳓वीः (*MS*-15/16, *TS*-8/9, *RV*-3, *TB*-2, *AV*-1, *SB-M*-7/11, *SB-K*-6/12, *VS-M*-6/8, *VS-K*-4/8)
+- द्वारः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *RV*-3, *TB*-1, *AV*-1, *VS-K*-1)
+- बृहतीः (*MS*-3, *TS*-1, *RV*-1, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
+- विश्वम्-इन्वा᳓ (*MS*-0/1, *RV*-1/8, *TB*-0/1, *AV*-0/3)
+- देवे᳓भ्यः (*MS*-138/1216, *TS*-101/1023, *RV*-60/1342, *TB*-58/582, *TK*-2/32, *AV*-40/707, *SB-M*-249/2031, *SB-K*-210/1945, *VS-M*-64/528, *VS-K*-60/523)
+- भवत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-6, *RV*-3, *TB*-2, *TK*-1, *AV*-4, *SB-M*-2, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- सु-प्रायणाः᳓ (*MS*-2, *TS*-1/2, *TB*-4, *VS-M*-4, *VS-K*-3/5)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -183,6 +214,13 @@ Let the expansive Doors be widely opened, like wives who deck their beauty for t
 चशब्दाद् देवानावह यजसि च ।
 
 हे मित्रम् अहः, मित्रांणां यशः प्रथविता "यस्त्वं चिकित्वान् । 'चिती संज्ञाने' [ ३६ भ्वादिः ] । चिकित्वान् संज्ञानवान् परिदृष्टकारी । हे श्रीभग- वज्रग्ने, यतस्त्वं महतां किङ्करो ऽसि अतस्त्वां ब्रूमः -त्वं दूत इति । देवानाम् आह्वाने तेषां हविः - प्रदाने चास्माकं च दूतो ऽसि । कविः क्रान्तदर्शी । ६ कर्तव्य-विशेषान् साकल्येन सदा त्वं वेत्सि । अतस्त्वं प्रचेताः प्रकृष्ट-ज्ञान-संपन्नो ऽसि ॥ ३७ ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[241_6]** So corr. im Accent; Brl व्यृचस्वती; in T1 fehlt das Wort. (Thus emended in the accent; Brl reads व्यृचस्वती; the word is missing in T1.)
+
+- **[241_7]** Dies Wort in den Mss. ohne Acc.; Brl सुप्रयानाः; Ch प्रयणाः (This word without acc. in the mss.; Brl सुप्रयानाः; Ch प्रयणाः)
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>

@@ -8,15 +8,48 @@ title = "०१ यस्तस्तम्भ सहसा"
 Him who with might hath propped earth's ends, who sitteth in threefold seat, Brihaspati, with thunder, Him of the pleasant tongue have ancient sages, deep thinking,. holy singers, set before them.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who by his might propped apart the ends of the earth, Bṛhaspati who has three seats, with his roar,  
+him the ancient sages, meditating, the wise, have set in front, sweet-tongued.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 यस्त॒स्तम्भ॒ सह॑सा॒ वि ज्मो अन्ता॒न्बृह॒स्पति॑स्त्रिषध॒स्थो रवे॑ण।  
 तं प्र॒त्नास॒ ऋष॑यो॒ दीध्या॑नाः पु॒रो विप्रा॑ दधिरे म॒न्द्रजि॑ह्वम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+य᳓स्तस्त᳓म्भ स᳓हसा वि᳓ ज्मो᳓ अ᳓न्तान्बृ᳓हस्प᳓तिस्त्रिषधस्थो᳓ र᳓वेण।  
+तं᳓ प्रत्ना᳓स ऋृ᳓षयो दी᳓ध्यानाः पुरो᳓ वि᳓प्रा दधिरे मन्द्र᳓जिह्वम्
+</details>
+
 <details><summary>पदपाठः</summary>
 
 यः। त॒स्तम्भ॑। सह॑सा। वि। ज्मः। अन्ता॑न्। बृह॒स्पतिः॑। त्रि॒ऽस॒ध॒स्थः। रवे॑ण। तम्। प्र॒त्नासः॑। ऋष॑यः। दीध्या॑नाः। पु॒रः। विप्रा॑। द॒धि॒रे॒। म॒न्द्रऽजि॑ह्वम्। ८८.१।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- तस्त᳓म्भ (*MS*-1, *RV*-6, *TB*-1, *AV*-3)
+- स᳓हसा (*MS*-8/43, *TS*-8/35, *RV*-29/122, *TB*-7/28, *TK*-1/4, *AV*-10/50, *SB-M*-5/21, *SB-K*-10/24, *VS-M*-3/28, *VS-K*-3/40)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- ज्मः᳓ (*MS*-1/2, *TS*-0/2, *RV*-6/8, *TB*-0/1, *AV*-1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-0/1)
+- अ᳓न्तान् (*MS*-2/51, *TS*-0/27, *RV*-12/42, *TB*-2/26, *TK*-0/5, *AV*-2/15, *SB-M*-3/85, *SB-K*-3/88, *VS-M*-0/6, *VS-K*-0/5)
+- बृ᳓हस्प᳓तिः (*MS*-97, *TS*-70/84, *RV*-53, *TB*-23, *TK*-4, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31)
+- त्रि-षधस्थः᳓ (*MS*-1, *TS*-0/1)
+- र᳓वेण (*MS*-4/6, *TS*-1, *RV*-11/15, *TB*-2, *AV*-3/4, *VS-M*-0/1, *VS-K*-0/1)
+- त᳓म् (*MS*-528/5550, *TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660)
+- प्रत्ना᳓सः (*MS*-0/11, *TS*-1/8, *RV*-6/50, *TB*-0/1, *AV*-2/9, *SB-M*-0/5, *SB-K*-0/2, *VS-M*-1/4, *VS-K*-1/4)
+- ऋृषयो (मूल-पाठः)
+- दी᳓ध्यानाः (*MS*-1, *TS*-0/1, *RV*-9/12, *AV*-3/4, *VS-M*-0/1, *VS-K*-0/1)
+- पुरः᳓ (*MS*-39, *TS*-18, *RV*-52, *TB*-2, *AV*-26, *SB-M*-31, *SB-K*-33, *VS-M*-13, *VS-K*-12)
+- वि᳓प्रा (*MS*-7/26, *TS*-2/24, *RV*-5/223, *TB*-1/8, *AV*-1/32, *SB-M*-4/17, *SB-K*-4/15, *VS-M*-7/18, *VS-K*-1/20)
+- दधिरे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-4, *RV*-42, *TB*-6, *AV*-3, *SB-M*-5, *SB-K*-7, *VS-M*-2, *VS-K*-2)
+- मन्द्र᳓-जिह्वम् (*MS*-1, *RV*-4/5, *AV*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

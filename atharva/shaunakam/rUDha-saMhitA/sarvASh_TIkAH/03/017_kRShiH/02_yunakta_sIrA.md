@@ -50,6 +50,12 @@ Lay on the yokes and fasten well the traces: formed is the furrow, sow the seed 
 Yoke the ploughs, stretch apart the yokes, Here sow in the womb made ready the seed [5] Through our song be there audience with profit for us; May the ripe (grain) be brought low by the sickle.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Yoke the plows, stretch the yokes apart; the womb is made, sow here the seed!  
+And by our song may there be hearing, full of yield for us; nearer indeed let the sickles come to the ripe [grain]!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 यु॒नक्त॒ सीरा॒ वि यु॒गा त॑नोत कृ॒ते योनौ॑ वपते॒ह बीज॑म्।  
@@ -62,6 +68,12 @@ Yoke the ploughs, stretch apart the yokes, Here sow in the womb made ready the s
 गि॒रा च॑ श्रु॒ष्टिस्सभ॑रा॒ अस॑न्नो॒ नेदी॑य॒ इत्सृ॒ण्या॑ प॒क्वमाय॑त् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+युनक्त सीरा वि युगा तनोत कृतो योनिर्वपतेह बीजम्।  
+गिरा च श्रुष्टिस्सभरा असन्न्रो नेदीय इत्सृण्यः पक्कमायत्
+</details>
+
 <details><summary>पदपाठः</summary>
 
 यु॒नक्त॑। सीरा॑। वि। यु॒गा। त॒नो॒त॒। कृ॒ते। योनौ॑। व॒प॒त॒। इ॒ह। बीज॑म्। वि॒ऽराजः॑। श्नुष्टिः॑। सऽभ॑राः। अ॒स॒त्। नः॒। नेदी॑यः। इत्। सृ॒ण्यः᳡। प॒क्वम्। आ। य॒व॒न्। १७.२।
@@ -70,6 +82,32 @@ Yoke the ploughs, stretch apart the yokes, Here sow in the womb made ready the s
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 यु॒नक्त॑ । सीरा॑ । वीति॑ । यु॒गा । त॒नो॒त॒ । कृ॒ते । योनौ॑ । व॒प॒त॒ । इ॒ह । बीज॑म् ॥ गि॒रा । च॒ । श्रु॒ष्टिः । सभ॑रा॒ इति॒ स-भ॒राः॒ । अस॑त् । नः॒ । नेदी॑यः । इत् । सृ॒ण्या॑ । प॒क्वम् । एति॑ । अ॒य॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- युन᳓क्त (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- सी᳓रा (*MS*-2/4, *TS*-2/4, *RV*-2, *TB*-0/1, *AV*-2/3, *SB-M*-2/9, *SB-K*-2/10, *VS-M*-2/3, *VS-K*-2/3)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- युगा᳓ (*MS*-2/4, *TS*-3/4, *RV*-13/31, *TB*-0/3, *AV*-2/7, *SB-M*-3/6, *SB-K*-3/7, *VS-M*-3, *VS-K*-3)
+- तनोत (*MS*-1, *TS*-1, *AV*-1)
+- कृतः᳓ (*MS*-3/17, *TS*-2/12, *RV*-9/77, *TB*-0/7, *AV*-6/43, *SB-M*-2/34, *SB-K*-5/41, *VS-M*-2/13, *VS-K*-1/9)
+- यो᳓निः (*MS*-114/208, *TS*-72/170, *RV*-9/110, *TB*-16/38, *TK*-2/6, *AV*-5/45, *SB-M*-142/284, *SB-K*-129/261, *VS-M*-60/93, *VS-K*-45/100)
+- वपते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-1, *RV*-2, *TB*-1, *AV*-1, *SB-M*-8, *SB-K*-10)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *MS*-176, *TS*-61, *RV*-184, *TB*-124, *TK*-116, *AV*-70, *SB-M*-3472, *SB-K*-3779, *VS-M*-9, *VS-K*-6)
+- बी᳓जम् (*MS*-3, *TS*-2, *RV*-3, *TB*-1, *AV*-4/5, *SB-M*-3/4, *SB-K*-3/4, *VS-M*-1, *VS-K*-1)
+- गिरा᳓ (*MS*-9/14, *TS*-5/7, *RV*-68/74, *TB*-2/3, *AV*-5/9, *SB-M*-3/6, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-5/7)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- श्रुष्टिः᳓ (*MS*-1/2, *TS*-1/2, *RV*-3/26, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- स᳓भराः (*MS*-2, *TS*-3, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
+- अ᳓सन्न् (*MS*-0/9, *TS*-1/2, *SB-M*-0/9, *SB-K*-0/9)
+- रः᳓ (*TK*-1, *SB-M*-1)
+- ने᳓दीयः (*MS*-3, *TS*-2, *RV*-3/5, *TB*-1, *AV*-2/3, *SB-M*-7/9, *SB-K*-6/9, *VS-M*-1, *VS-K*-1)
+- इ᳓त् (*MS*-88, *TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50)
+- सृण्यः᳙ (*MS*-1, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- पक् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1)
+- क᳓म् (*Whitney*, *MW* ŚBr., *MS*-25, *TS*-19, *RV*-81, *TB*-4, *TK*-1, *AV*-25, *SB-M*-74, *SB-K*-66, *VS-M*-3, *VS-K*-3)
+- आ-य᳓त् (*MS*-1, *RV*-1, *TK*-1, *AV*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -103,4 +141,11 @@ Yoke the ploughs, stretch apart the yokes, Here sow in the womb made ready the s
 <details><summary>सायण-टीका</summary>
 
 हे कर्षकाः सीरा युनक्त लाङ्गलं योजयत ।   युगा वित-नोत युगानि विस्तारयत ।   कृते कर्षणेन योग्य इह योनावस्मिन्स्थोन बीजं वपत ।   किंच, तद्वीजं गिराऽऽशीर्वादरूपेण मङ्गलवाक्येन युक्तामिति शेषः ।   श्रुष्टिस्तत्र निष्पन्नः स्तम्बो नोऽस्मदर्थं सभरा असत्फलभारयुक्तोऽस्तु ।   पक्वं फलं नो नेदीय इदन्तिकतममेवाल्पकालनिष्पाद्यमेवासत् ।   सृण्या लवनसाधनेन दात्रेण लूनं सन्न आयदस्मत्समीपमागच्छतु ।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[232_8]** Ch सबरा
+
+- **[232_9]** So corr. Ch इत्मरायः; D इत्सुरायाः (Thus emended; Ch reads इत्मरायः; D reads इत्सुरायाः)
 </details>

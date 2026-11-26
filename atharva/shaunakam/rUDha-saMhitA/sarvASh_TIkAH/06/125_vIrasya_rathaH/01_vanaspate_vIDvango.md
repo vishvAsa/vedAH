@@ -27,6 +27,18 @@ Let him that mounteth thee conquer what is to be conquered.
 Lord of the Wood, be firm and strong in body: be, bearing us, a brave victorious hero. Show forth thy strength, compact with straps of leather, and let thy rider win all spoils of battle.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Lord of the Forest, be firm of limb, our friend, carrying us through, with good heroes;  
+you are bound together with cow-[hides]; be strong! May your driver conquer what is to be conquered!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+O lord of the forest, be firm of limb, our friend, saving us, having good heroes!  
+You are bound with leather-thongs; make yourself firm! May he who mounts you conquer what is to be won!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 वन॑स्पते वी॒ड्व᳡ङ्गो॒ हि भू॒या अ॒स्मत्स॑खा प्र॒तर॑णः सु॒वीरः॑।  
@@ -51,6 +63,18 @@ Lord of the Wood, be firm and strong in body: be, bearing us, a brave victorious
 गोभि॒स्सन्न॑द्धो असि वी॒डय॑स्वास्था॒ता ते॑ जयतु॒ जेत्वा॑नि ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+व᳓नस्पते वीड्व᳓ङ्गो हि᳓ भूया᳓ अस्म᳓त्सखा प्रत᳓रणः सुवी᳓रः  
+गो᳓भिः सं᳓नद्धो असि वीड᳓यस्वास्थाता᳓ ते जयतु जे᳓त्वानि
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+वनस्पते वीड्वङ्गो हि भूया अस्मत्सखा प्रतरणस्सुवीरः।  
+गोभिस्सन्नद्वो असि वीडयस्वास्थाता ते जयतु जेत्वानि
+</details>
+
 <details><summary>पदपाठः</summary>
 
 वन॑स्पते। वी॒डुऽअ॑ङ्गः। हि। भू॒याः। अ॒स्मत्ऽस॑खा। प्र॒ऽतर॑णः। सु॒ऽवीरः॑। गोभिः॑। सम्ऽन॑ध्दः। अ॒सि॒। वी॒डय॑स्व। आ॒ऽस्था॒ता। ते॒। ज॒य॒तु॒। जेत्वा॑नि। १२५.१।
@@ -69,6 +93,47 @@ Lord of the Wood, be firm and strong in body: be, bearing us, a brave victorious
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 वन॑स्पते । वी॒ड्व॑ङ्ग॒ इति॑ वी॒डु-अ॒ङ्गः॒ । हि । भू॒याः । अ॒स्मत्स॒खेत्य॒स्मत्-स॒खा॒ । प्र॒तर॑ण॒ इति॑ प्र-तर॑णः । सु॒वीर॒ इति॑ सु-वीरः॑ ॥ गोभिः॑ । सन्न॑द्ध॒ इति॒ सम्-न॒द्धः॒ । अ॒सि॒ । वी॒डय॑स्व । आ॒स्था॒तेत्या॑-स्था॒ता । ते॒ । ज॒य॒तु॒ । जेत्वा॑नि ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- व᳓नस्पते (*TS*-4, *RV*-7, *TB*-2, *AV*-3, *VS-M*-2, *VS-K*-2, *KS*-2)
+- वीड्व᳓ङ्गः (*TS*-1, *SB-M*-2, *SB-K*-2, *VS-K*-1)
+- हि᳓ (*TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-42, *KS*-81)
+- भूयाः᳓ (*TS*-2, *RV*-4, *AV*-5, *SB-M*-4, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-0/5)
+- अस्म᳓त्-सखा (*TS*-2, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- प्र-त᳓रणः (*TS*-2/4, *RV*-4/5, *AV*-2/3, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-2/3, *KS*-1/2)
+- सु-वी᳓रः (*TS*-9/26, *RV*-16/92, *TB*-1/13, *AV*-7/22, *SB-M*-4/6, *SB-K*-6/7, *VS-M*-5/12, *VS-K*-5/13, *KS*-3/13)
+- गो᳓भिः (*TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/66, *VS-K*-6/64, *KS*-2/37)
+- स᳓म्-नद्धः (*TS*-1/2, *RV*-2/3, *TB*-1/3, *SB-M*-2/3, *SB-K*-2/4, *VS-M*-1/2, *VS-K*-1/2)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-341, *KS*-247)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *KS*-33)
+- ईड᳓यस्व (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, णिच् पा॰ ३.१.३)
+- आ-स्थाता᳓ (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- जयतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-1, *AV*-1, *SB-M*-9, *SB-K*-9, *VS-M*-5, *VS-K*-5, *KS*-4)
+- जे᳓त्वानि (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- व᳓नस्पते (*MS*-5, *TS*-4, *RV*-7, *TB*-2, *AV*-3, *VS-M*-2, *VS-K*-3)
+- वीड्व᳙ङ्गः (*MS*-1, *TS*-1, *SB-M*-2, *SB-K*-2, *VS-K*-1)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- भूयाः᳓ (*MS*-1/6, *TS*-2, *RV*-4, *AV*-5, *SB-M*-4, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- अस्म᳓त्-सखा (*MS*-2, *TS*-2, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2)
+- प्र-त᳓रणः (*MS*-2/3, *TS*-2/4, *RV*-4/5, *AV*-2/3, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-3/4)
+- सु-वी᳓रः (*MS*-6/20, *TS*-9/26, *RV*-16/92, *TB*-1/13, *AV*-7/22, *SB-M*-4/6, *SB-K*-6/7, *VS-M*-5/12, *VS-K*-6/14)
+- गो᳓भिः (*MS*-14/149, *TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/67, *VS-K*-7/67)
+- स᳓न्नत् (अनाम्नातम् (अनुमानम्))
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *MS*-130)
+- ईड᳓यस्व (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, णिच् पा॰ ३.१.३, *MS*-2)
+- आ-स्थाता᳓ (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-2, *MS*-1)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- जयतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-5, *RV*-1, *AV*-1, *SB-M*-9, *SB-K*-9, *VS-M*-5, *VS-K*-6)
+- जे᳓त्वानि (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -216,4 +281,9 @@ Lord of the Wood, be firm and strong in body: be, bearing us, a brave victorious
 सुवीरः शोभनैर्वीरैर्भटैरुपेतः।  
 गोभिः संनद्धोऽसि गवादिचर्मरज्जुभिः सम्यग्बद्धोऽसि वीडयस्वात्यन्यं दृढो भव।  
 ते तवाऽऽस्थाता जेत्वानि जेतव्यानि परसैन्यानि जयतु।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[637_13]** Ch स्थातां; vgl. RV 6, 47, 26. (Ch स्थातां; cf. RV 6, 47, 26.)
 </details>

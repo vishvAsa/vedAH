@@ -27,10 +27,22 @@ Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Sv
 Go, Sacrifice, to the sacrifice: seek thou the sacrifice's lord, seek thine own home. All-hail!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O sacrifice, go to the sacrifice!  
+Go to the lord of the sacrifice!  
+Go to your own womb, svāhā!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 यज्ञ॑ य॒ज्ञं ग॑च्छ य॒ज्ञप॑तिं गच्छ।  
 स्वां योनिं॑ गच्छ॒ स्वाहा॑ ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+य᳓ज्ञ यज्ञं᳓ गच्छ यज्ञ᳓पतिं गच्छ स्वं᳓ यो᳓निं गच्छ स्वा᳓ह
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -46,6 +58,20 @@ Go, Sacrifice, to the sacrifice: seek thou the sacrifice's lord, seek thine own 
 <details><summary>पदपाठः - काण्वः</summary>
 
 यज्ञ॑। य॒ज्ञम्। ग॒च्छ॒। य॒ज्ञप॑ति॒मिति॑ य॒ज्ञऽप॑तिम्। ग॒च्छ॒। स्वाम्। योनि॑म्। ग॒च्छ॒। स्वाहा॑।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓ज्ञ (*MS*-1, *TS*-3, *TB*-1, *AV*-1, *SB-M*-2, *SB-K*-3, *VS-M*-2, *VS-K*-2)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- गच्छ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-41, *RV*-5, *TB*-5, *AV*-19, *SB-M*-18, *SB-K*-36, *VS-M*-25, *VS-K*-15)
+- यज्ञ᳓-पतिम् (*MS*-17/43, *TS*-24/40, *RV*-0/1, *TB*-2/12, *AV*-3/4, *SB-M*-23/37, *SB-K*-14/25, *VS-M*-16/22, *VS-K*-23/31)
+- गच्छ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-41, *RV*-5, *TB*-5, *AV*-19, *SB-M*-18, *SB-K*-36, *VS-M*-25, *VS-K*-15)
+- स्व᳓म् (*MS*-30/260, *TS*-20/250, *RV*-21/227, *TB*-18/80, *TK*-3/16, *AV*-16/149, *SB-M*-50/306, *SB-K*-46/301, *VS-M*-5/67, *VS-K*-10/72)
+- यो᳓निम् (*MS*-24/208, *TS*-34/170, *RV*-62/110, *TB*-7/38, *TK*-1/6, *AV*-26/45, *SB-M*-34/284, *SB-K*-33/261, *VS-M*-17/93, *VS-K*-19/100)
+- गच्छ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-41, *RV*-5, *TB*-5, *AV*-19, *SB-M*-18, *SB-K*-36, *VS-M*-25, *VS-K*-15)
+- सु᳓ (*MS*-29, *TS*-24, *RV*-265, *TB*-7, *AV*-42, *SB-M*-15, *SB-K*-31, *VS-M*-20, *VS-K*-21)
+- आ᳓ह (*MS*-86, *TS*-4, *RV*-9, *TB*-13, *TK*-6, *AV*-12, *SB-M*-223, *SB-K*-232, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

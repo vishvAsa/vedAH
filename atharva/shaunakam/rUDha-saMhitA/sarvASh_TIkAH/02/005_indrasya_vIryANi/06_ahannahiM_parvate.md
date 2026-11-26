@@ -21,6 +21,12 @@ explains *svaryà* as *suṣṭhu preraṇīya* (from *su* + root *ṛ*), and
 He slew the Dragon lying on the mountain: his heavenly bolt of thunder Tvashtar fashioned. Like lowing kine in rapid flow descending the waters glided downward to the ocean.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He slew the serpent resting on the mountain; Tvaṣṭṛ fashioned for him the resonant thunderbolt.  
+Flowing like lowing cows, the waters went straight down to the sea.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 अह॒न्नहिं॒ पर्व॑ते शिश्रिया॒णं त्वष्टा॑स्मै॒ वज्रं॑ स्व॒र्यं॑ ततक्ष।  

@@ -21,6 +21,12 @@ the *āhavanīya* fire.⌋
 Come the first two celestial sweet-voiced Hotars, arranging sacrifice for man to worship, As singers who inspire us in assemblies, showing the eastern light with their direction!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two divine Hotṛs, first, eloquent, measuring out the sacrifice for man to offer,  
+impelling the singers in assemblies, pointing toward the eastern light by direction.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 दैव्या॒ होता॑रा प्रथ॒मा सु॒वाचा॒ मिमा॑ना य॒ज्ञं मनु॑षो॒ यज॑ध्यै।  
@@ -31,6 +37,12 @@ Come the first two celestial sweet-voiced Hotars, arranging sacrifice for man to
 
 दैव्या॒ होता॑रा प्रथ॒मा सु॒वाचा॒ मिमा॑ना य॒ज्ञं मनु॑षो॒ यज॑ध्यै।  
 प्र॒चो॒दय॑न्ता वि॒दथे॑षु का॒रू प्रा॒चीनं॒ ज्योतिः॑ प्र॒दिशा॑ दि॒शन्ता॑ ॥३२ ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+दै᳓व्या हो᳓तारा प्रथमा᳓ सुवा᳓चा मि᳓माना यज्ञं᳓ म᳓नुषो य᳓जध्यै।  
+प्रचोद᳓यन्ता विद᳓थेषु कारू᳓ प्राची᳓नं ज्यो᳓तिः प्रदि᳓शा दिश᳓न्ता
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -46,6 +58,25 @@ Come the first two celestial sweet-voiced Hotars, arranging sacrifice for man to
 <details><summary>पदपाठः - काण्वः</summary>
 
 दैव्या॑। होता॑रा। प्र॒थ॒मा। सु॒वाचेति॑ सु॒ऽवाचा॑। मिमा॑ना। य॒ज्ञम्। मनु॑षः। यज॑ध्यै। प्र॒चो॒दय॒न्तेति॑ प्रऽचो॒दय॑न्ता। वि॒दथे॑षु। का॒रूऽइति॑ का॒रू। प्रा॒चीन॑म्। ज्योतिः॑। प्र॒दिशेति॑ प्र॒ऽदिशा॑। दि॒शन्ता॑। ८।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- दै᳓व्या (*MS*-12/31, *TS*-2/29, *RV*-15/79, *TB*-14/33, *AV*-2/17, *SB-M*-13/32, *SB-K*-10/37, *VS-M*-10/22, *VS-K*-9/25)
+- हो᳓तारा (*MS*-10/27, *TS*-2/14, *RV*-10/79, *TB*-8/23, *TK*-0/1, *AV*-1/9, *SB-M*-0/28, *SB-K*-0/28, *VS-M*-8/19, *VS-K*-8/18)
+- प्रथमा᳓ (*MS*-18/106, *TS*-12/95, *RV*-29/170, *TB*-9/41, *TK*-6/7, *AV*-15/109, *SB-M*-47/287, *SB-K*-44/272, *VS-M*-7/38, *VS-K*-9/39)
+- सु-वा᳓चा (*MS*-2/4, *TS*-0/3, *RV*-1/5, *TB*-2, *AV*-1/2, *VS-M*-2, *VS-K*-3)
+- मि᳓माना (*MS*-2/4, *TS*-1, *RV*-2/9, *TB*-2/3, *AV*-1/6, *SB-M*-2, *SB-K*-1, *VS-M*-3/5, *VS-K*-4/6)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- म᳓नुषः (*MS*-2/14, *TS*-1/25, *RV*-48/73, *TB*-2/6, *AV*-4/6, *SB-M*-1/14, *SB-K*-0/13, *VS-M*-3, *VS-K*-5)
+- य᳓जध्यै (*MS*-3, *RV*-13, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- प्र-चोद᳓यन्ता (*MS*-1, *RV*-1, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- विद᳓थेषु (*MS*-1/9, *TS*-3/6, *RV*-33/105, *TB*-3/11, *TK*-0/1, *AV*-1/15, *VS-M*-3/6, *VS-K*-4/6)
+- कारू᳓ (*MS*-1/5, *TS*-0/1, *RV*-2/45, *TB*-1, *AV*-1/8, *VS-M*-1/3, *VS-K*-1/3)
+- प्राची᳓नम् (*MS*-18, *TS*-12/14, *RV*-7/9, *TB*-14, *AV*-3, *SB-M*-8, *SB-K*-3, *VS-M*-4, *VS-K*-6)
+- ज्यो᳓तिः (*MS*-92/134, *TS*-117/199, *RV*-99/148, *TB*-58/70, *TK*-3/5, *AV*-43/66, *SB-M*-131/173, *SB-K*-134/174, *VS-M*-50/72, *VS-K*-40/80)
+- प्र-दि᳓शा (*MS*-4/18, *TS*-1/15, *RV*-4/19, *TB*-3/6, *AV*-3/52, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-4/16, *VS-K*-6/19)
+- दिश᳓न्ता (*MS*-2, *TS*-1, *RV*-1, *TB*-1, *AV*-1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-2, *VS-K*-3)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

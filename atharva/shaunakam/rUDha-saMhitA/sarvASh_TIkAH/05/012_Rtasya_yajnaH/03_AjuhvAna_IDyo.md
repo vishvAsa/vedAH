@@ -24,6 +24,12 @@ and VS. both reckon it as *triṣṭubh*.
 Invoked, deserving prayer and adoration, O Agni, come accor dant with the Vasus. Thou art, O youthful Lord, the Gods' Invoker, so, best of sacri- ficers, bring them quickly.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Invoked, worthy of praise and homage, come here, o Agni, in harmony with the Vasus.  
+You are the young Hotṛ of the gods; urged on, a better sacrificer, sacrifice to them!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 आ॒जुह्वा॑न॒ ईड्यो॒ वन्द्य॒श्चा या॑ह्यग्ने॒ वसु॑भिः स॒जोषाः॑।  
@@ -206,6 +212,11 @@ Invoked, deserving prayer and adoration, O Agni, come accor dant with the Vasus.
 “कृष्णग्रीव आग्नेयो रराटे पुरस्तात्" इति । " नाभिर् अस्यानु पश्चात् । अश्वस्य नाभिः अनु पश्चात् नाभ्यां पौष्णः पशुः नीयत इत्य् अर्थः, "८ पौष्णः श्यामो नाभ्याम्” इति श्रुतेः । पश्चात् कवयो यन्ति रेभाः । कवयः
 रेमा नाम क्रान्त-दर्शिनः । यन्ति अनुगच्छन्ति ।। ३५ ।।
 एवम् अश्वम् अभिष्टुत्याथेदानीं यजमानः कृत-कृत्यो ऽश्वं संबोधयन्नाह -
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[241_4]** Brl und T1 व᳓न्द्यश्चां (Brl and T1 व᳓न्द्यश्चां)
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>

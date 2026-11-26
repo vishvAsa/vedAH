@@ -20,6 +20,12 @@ There are no variants.
 Hotar more skilled in sacrifice, bring hither with speed to-day God Tvashar, thou who knowest, Even him who formed these two, the Earth and Heaven, the Parents, with their forms, and every creature.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who fashioned these two, heaven and earth, the parents, and all creatures with forms—  
+to that god Tvaṣṭṛ today, o Hotṛ, urged on, a better sacrificer, wise, sacrifice here!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 य इ॒मे द्यावा॑पृथि॒वी जनि॑त्री रू॒पैरपिं॑श॒द्भुव॑नानि॒ विश्वा॑।  
@@ -46,6 +52,12 @@ Hotar more skilled in sacrifice, bring hither with speed to-day God Tvashar, tho
 दे॒वन्त्वष्टा॑रमि॒ह य॑क्षि वि॒द्वान् ॥9॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+य᳓ इमे᳓ द्या᳓वापृथिवी᳓ ज᳓नित्री रूपै᳓र᳓पिँशद्भुव᳓नानि वि᳓श्वा।  
+त᳓मद्य᳓ होतरिषितो᳓ य᳓जीयान्देवं᳓ त्व᳓ष्टारमिह᳓ यक्षि विद्वा᳓न्
+</details>
+
 <details><summary>पदपाठः</summary>
 
 यः। इ॒मे इति॑। द्यावा॑पृथि॒वी इति॑। जनि॑त्री॒ इति॑। रू॒पैः। अपि॑शत्। भुव॑नानि। विश्वा॑। तम्। अ॒द्य। हो॒तः॒। इ॒षि॒तः। यजी॑यान्। दे॒वम्। त्वष्टा॑रम्। इ॒ह। य॒क्षि॒। वि॒द्वान्। १२.९।
@@ -64,6 +76,28 @@ Hotar more skilled in sacrifice, bring hither with speed to-day God Tvashar, tho
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 यः᳓ । इमे᳓ । द्या᳓वा-पृथिवी᳓ । ज᳓नित्री । रूपैः᳓ । अ᳓पिंशत् । भु᳓वनानि । वि᳓श्वा । त᳓म् । अद्य᳓ । होतर् । इषितः᳓ । य᳓जीयान् । देव᳓म् । त्व᳓ष्टारम् । इह᳓ । यक्षि । विद्वा᳓न् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- इमे᳓ (*MS*-106/1379, *TS*-73/965, *RV*-105/1247, *TB*-56/567, *TK*-1/57, *AV*-55/1259, *SB-M*-324/5239, *SB-K*-332/5549, *VS-M*-7/319, *VS-K*-8/301)
+- द्या᳓वा-पृथिवी᳓ (*MS*-61/70, *TS*-43/52, *RV*-65, *TB*-26/29, *AV*-63/68, *SB-M*-64/88, *SB-K*-42/63, *VS-M*-37/46, *VS-K*-29/37)
+- ज᳓नित्री (*MS*-1/2, *TS*-1, *RV*-20/25, *TB*-1, *AV*-4/7, *VS-M*-1, *VS-K*-2)
+- रूपैः᳓ (*MS*-7/137, *TS*-1/144, *RV*-4/37, *TB*-3/84, *TK*-0/3, *AV*-1/46, *SB-M*-14/480, *SB-K*-12/460, *VS-M*-2/43, *VS-K*-2/41)
+- अ᳓पिंशत् (*MS*-1, *RV*-1, *TB*-2, *VS-M*-1, *VS-K*-1/2)
+- भुव᳓नानि (मूल-पाठः)
+- वि᳓श्वा (*MS*-60/301, *TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/225, *VS-K*-35/224)
+- त᳓म् (*MS*-528/5550, *TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660)
+- अद्य᳓ (*MS*-65, *TS*-44, *RV*-215, *TB*-30, *TK*-2, *AV*-66, *SB-M*-42, *SB-K*-48, *VS-M*-59, *VS-K*-54)
+- होतर् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-9, *TS*-1, *RV*-18, *TB*-1, *AV*-2, *SB-M*-7, *SB-K*-1, *VS-M*-3, *VS-K*-2)
+- इषितः᳓ (*MS*-6/7, *TS*-1/3, *RV*-20/26, *TB*-3/5, *AV*-8/13, *SB-M*-2/4, *SB-K*-2/5, *VS-M*-5, *VS-K*-7)
+- य᳓जीयान् (*MS*-7, *TS*-2, *RV*-17, *TB*-3, *AV*-3, *VS-M*-2, *VS-K*-4)
+- देव᳓म् (*MS*-56/1216, *TS*-17/1023, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/528, *VS-K*-44/523)
+- त्व᳓ष्टारम् (*MS*-11/71, *TS*-4/54, *RV*-9/59, *TB*-6/29, *AV*-3/37, *SB-M*-3/45, *SB-K*-1/44, *VS-M*-5/34, *VS-K*-3/30)
+- इह᳓ (*MS*-103, *TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91)
+- यक्षि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-5, *TS*-5, *RV*-20, *TB*-3, *AV*-2, *SB-M*-3, *SB-K*-2, *VS-M*-5, *VS-K*-7)
+- विद्वा᳓न् (*MS*-86/88, *TS*-93, *RV*-94, *TB*-49, *TK*-2, *AV*-59, *SB-M*-144, *SB-K*-127, *VS-M*-14, *VS-K*-14)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

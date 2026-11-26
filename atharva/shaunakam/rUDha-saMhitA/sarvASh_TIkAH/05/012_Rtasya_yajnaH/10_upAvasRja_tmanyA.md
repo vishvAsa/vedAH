@@ -23,6 +23,12 @@ later, Oldenberg, ZDMG. liv. 602.⌋
 Bring thou to our oblations which thou balmest the companies of Gods in ordered season. Agni, Vanaspati, the Immolator sweeten our offered gifts with meath and butter!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Send down, anointing of yourself, the path of the gods, the oblations in due season;  
+let the tree, the quietener, the god Agni, relish the oblation with honey and ghee!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 उ॒पाव॑सृज॒ त्मन्या॑ सम॒ञ्जन्दे॒वानां॒ पाथ॑ ऋतु॒था ह॒वींषि॑।  
@@ -33,6 +39,12 @@ Bring thou to our oblations which thou balmest the companies of Gods in ordered 
 
 उ॒पाव॑सृज॒ त्मन्या॑ सम॒ञ्जन् दे॒वानां॒ पाथ॑ऽऋतु॒था ह॒वीँषि॑।  
 वन॒स्पतिः॑ शमि॒ता दे॒वोऽअ॒ग्निः स्वद॑न्तु ह॒व्यं मधु॑ना घृ॒तेन॑ ॥३५ ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+उपा᳓वसृज त्म᳓न्या समञ्ज᳓न्देवा᳓नां᳓ पा᳓थ ऋतुथा᳓ हवी᳓षि।  
+व᳓नस्प᳓तिश्शमिता᳓ देवो᳓ अग्नि᳓स्स्वदन्तु हव्यं᳓ म᳓धुना घृते᳓न
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -48,6 +60,27 @@ Bring thou to our oblations which thou balmest the companies of Gods in ordered 
 <details><summary>पदपाठः - काण्वः</summary>
 
 उ॒पाव॑सृ॒जेत्युप॒ऽअव॑सृज। त्मन्या॑। स॒म॒ञ्जन्निति॑ सम्ऽअ॒ञ्जन्। दे॒वाना॑म्। पाथः॑। ऋ॒तु॒थेत्यृ॑तु॒ऽथा। ह॒वींषि॑। वन॒स्पतिः॑। श॒मि॒ता। दे॒वः। अ॒ग्निः। स्वद॑न्तु। ह॒व्यम्। मधु॑ना। घृ॒तेन॑। ११।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उप (गतिर्गतौ पा॰ ८.१.७०, *TB*-74, *TK*-4, *AV*-1, *SB-M*-790, *SB-K*-757, *VS-M*-1, *VS-K*-1, *MS*-249)
+- अ᳓व (*MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- सृज (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-8, *TS*-13, *RV*-22, *TB*-8, *AV*-22, *SB-M*-2, *VS-M*-7, *VS-K*-6)
+- त्म᳓न्या (*MS*-3, *TS*-1, *RV*-2, *TB*-2, *AV*-1, *VS-M*-3, *VS-K*-3)
+- सम्-अञ्ज᳓न् (*MS*-5, *TS*-1, *RV*-4, *TB*-5, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-8, *VS-K*-10)
+- देवा᳓ना᳓म् → **देवा᳓नाम्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *MS*-211/1218, *TS*-184/1282, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/531, *VS-K*-68/532)
+- पा᳓थः (*MS*-7/10, *TS*-12/13, *RV*-18, *TB*-3/6, *AV*-2, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-9/12, *VS-K*-5/7)
+- ऋतुथा᳓ (*MS*-5, *TS*-1, *RV*-18, *TB*-3, *AV*-5, *VS-M*-5, *VS-K*-5)
+- हवी᳓षि (*AV*-1)
+- व᳓नस्प᳓तिः (*MS*-17, *TS*-5/8, *RV*-9, *TB*-13, *AV*-9, *SB-M*-17, *SB-K*-16, *VS-M*-16, *VS-K*-15/24)
+- शमिता᳓ (*MS*-4/9, *TS*-3/7, *RV*-4/6, *TB*-3/6, *TK*-1, *AV*-2/3, *SB-M*-4/6, *SB-K*-3/6, *VS-M*-6/12, *VS-K*-7/12)
+- देवः᳓ (*MS*-104/1216, *TS*-66/1023, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/528, *VS-K*-65/523)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- स्वदन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *SB-M*-1, *VS-M*-1)
+- हव्य᳓म् (*MS*-42/56, *TS*-39/50, *RV*-34/81, *TB*-14/21, *AV*-23/25, *SB-M*-20/22, *SB-K*-22/24, *VS-M*-11/18, *VS-K*-15/22)
+- म᳓धुना (*MS*-7/81, *TS*-4/44, *RV*-16/153, *TB*-10/46, *TK*-0/3, *AV*-17/92, *SB-M*-6/98, *SB-K*-5/86, *VS-M*-6/70, *VS-K*-7/62)
+- घृते᳓न (*MS*-37, *TS*-37, *RV*-31, *TB*-18, *TK*-2, *AV*-35, *SB-M*-28, *SB-K*-23, *VS-M*-21, *VS-K*-22)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -175,6 +208,11 @@ Bring thou to our oblations which thou balmest the companies of Gods in ordered 
 सुप्रायणाः सुगमनाः ।
 
 भवत भवन्तु ।। ४२ ।।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[241_9]** D देवानानाथ
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>

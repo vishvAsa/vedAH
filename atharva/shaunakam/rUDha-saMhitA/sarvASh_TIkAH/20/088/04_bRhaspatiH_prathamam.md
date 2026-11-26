@@ -8,6 +8,20 @@ title = "०४ बृहस्पतिः प्रथमम्"
 Brihaspati, when first he had his being from mighty splendour in supremest heaven. Strong, with his sevenfold mouth, with noise of thunder, with his seven rays blew and dispersed the darkness.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bṛhaspati, first being born from the great light in the highest firmament,  
+seven-mouthed, born of great might, with a roar, seven-rayed, blew away the darknesses.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+“ā no divas…”  
+[The text has:] “bṛhaspate juṣasva naḥ…”  
+Bṛhaspati, when first being born from the great light in the highest firmament,  
+seven-mouthed, mighty-born, with a roar, seven-rayed, blew away the darknesses.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 बृह॒स्पतिः॑ प्रथ॒मं जाय॑मानो म॒हो ज्योति॑षः पर॒मे व्यो᳡मन्।  
@@ -22,6 +36,12 @@ Brihaspati, when first he had his being from mighty splendour in supremest heave
 वि स॒प्तर॑श्मिरधम॒त्तमाँ॑सि ॥ 13 ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+बृ᳓हस्प᳓तिः प्रथमं᳓ जा᳓यमानो महो᳓ ज्यो᳓तिषः परमे᳓ व्यो᳙मन्।  
+सप्ता᳓स्यस्तुविजातो᳓ र᳓वेण वि᳓ सप्त᳓रश्मिरधमत्त᳓मँसि
+</details>
+
 <details><summary>पदपाठः</summary>
 
 बृह॒स्पतिः॑। प्र॒थ॒मम्। जाय॑मानः। म॒हः। ज्योति॑षः। प॒र॒मे। विऽओ॑मन्। स॒प्तऽआ॑स्यः। तु॒वि॒ऽजा॒तः। रवे॑ण। वि। स॒प्तऽर॑श्मिः। अ॒ध॒म॒त्। तमां॑सि। ८८.४।
@@ -30,6 +50,25 @@ Brihaspati, when first he had his being from mighty splendour in supremest heave
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 बृ᳓हस्प᳓तिः । प्रथम᳓म् । जा᳓यमानः । महः᳓ । ज्यो᳓तिषः । परमे᳓ । व्यो᳙मन् । सप्ता᳓स्यस् । तुवि-जातः᳓ । र᳓वेण । वि᳓ । सप्त᳓-रश्मिः । अधमत् । त᳓मांसि ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- बृ᳓हस्प᳓तिः (*MS*-97, *TS*-70/84, *RV*-53, *TB*-23, *TK*-4, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31)
+- प्रथम᳓म् (*MS*-32/106, *TS*-35/95, *RV*-55/170, *TB*-14/41, *TK*-1/7, *AV*-23/109, *SB-M*-74/287, *SB-K*-69/272, *VS-M*-10/38, *VS-K*-11/39)
+- जा᳓यमानः (*MS*-11/16, *TS*-7/15, *RV*-27/44, *TB*-5/7, *AV*-7/17, *SB-M*-21/26, *SB-K*-18/24, *VS-M*-3, *VS-K*-3)
+- महः᳓ (*MS*-17/36, *TS*-9/26, *RV*-173/364, *TB*-7/17, *TK*-3/5, *AV*-20/77, *SB-M*-7/37, *SB-K*-7/37, *VS-M*-12/35, *VS-K*-12/41)
+- ज्यो᳓तिषः (*MS*-4/134, *TS*-1/199, *RV*-4/148, *TB*-1/70, *TK*-0/5, *AV*-4/66, *SB-M*-1/173, *SB-K*-1/174, *VS-M*-1/72, *VS-K*-3/80)
+- परमे᳓ (*MS*-13/38, *TS*-9/45, *RV*-29/74, *TB*-9/27, *TK*-1/2, *AV*-28/53, *SB-M*-15/89, *SB-K*-14/91, *VS-M*-8/26, *VS-K*-8/28)
+- व्यो᳙मन् (*MS*-8, *TB*-7, *TK*-1, *SB-M*-12, *SB-K*-12)
+- सप्ता᳓स्यस् (*MS*-1, *TB*-1)
+- तुवि-जातः᳓ (*MS*-1, *RV*-3/9, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- र᳓वेण (*MS*-4/6, *TS*-1, *RV*-11/15, *TB*-2, *AV*-3/4, *VS-M*-0/1, *VS-K*-0/1)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- सप्त᳓-रश्मिः (*MS*-1, *RV*-3/6, *TB*-1, *AV*-3/5)
+- अध → **अ᳓ध** (स्वर-लोपः, *MS*-10, *TS*-8/9, *RV*-195, *TB*-4/5, *TK*-1, *AV*-39, *SB-M*-3/7, *SB-K*-4/9, *VS-M*-11, *VS-K*-15/19)
+- मत्त᳓ (*AV*-1, *SB-M*-1, *SB-K*-2)
+- मंसि (*RV*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -63,4 +102,9 @@ Brihaspati, when first he had his being from mighty splendour in supremest heave
 <details><summary>सायण-टीका</summary>
 
 योऽयं बृहस्पतिः सोऽयमितरेभ्यो देवेभ्यः प्रथमं पूर्वं जायमानस्सन् परमे व्योमन् उत्कृष्ट आकाशे स्वर्गरूपे ज्योतिषो महः अन्यदीयात्प्रकाशादत्यन्तं महान् भासते । कीदृशो बृहस्पतिः? रवेण वेदशास्त्ररूपेण शब्देन सप्तास्यः प्रसृतमुखः । अथवा सप्तसंख्याकान्यास्यानि ज्वालारूपाणि यस्याग्नेः सोऽयं सप्तास्यः । रवेण मन्त्रेण होमकाले हविः स्वीकर्तुं वह्निरूपो भवतीत्यर्थः । तुविजातः सर्वेषां मध्ये बलयुक्तत्वेनोत्पन्नः । तादृशो बृहस्पतिः सप्तरश्मिः अग्निरूपेण सप्तजिह्वात्मकरश्मियुक्तस्तन् तमांसि व्यधमत् विनाशितवान् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[160_4]** Dies Wort in allen Mss. ohne Accent; dieser daher von mir ergänzt. (This word without accent in all mss.; hence this supplied by me.)
 </details>

@@ -13,6 +13,13 @@ Indra is strong to save, rich in assistance: may he, possessing all, be kind and
 May helpful Indra as our Good Protector, Lord of all treasures, favour us with succour, Baffle our foes and give us rest and safety, and may we be the lords of hero vigour.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Indra, the good savior, wealthy with his aids,  
+be very gracious, all-possessing.  
+May he ward off enmity, may he create safety; may we be masters of good heroism.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 इन्द्रः॑ सु॒त्रामा॒ स्ववाँ॒ अवो॑भिः सुमृडी॒को भ॑वतु वि॒श्ववे॑दाः।  
@@ -31,6 +38,12 @@ May helpful Indra as our Good Protector, Lord of all treasures, favour us with s
 बाध॑तां॒ द्वेषो॒ अभ॑यं कृणोतु सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥५॥ ३६
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इ᳓न्द्रस्सुत्रा᳓मा स्व᳓वाँ अ᳓वोभिस्सुमृडीको᳓ भवतु विश्व᳓वेदाः।  
+बा᳓धतां द्वे᳓षो अ᳓भयं कृणोतु सुवी᳓र्यस्य प᳓तयस्स्याम
+</details>
+
 <details><summary>पदपाठः</summary>
 
 इन्द्रः॑। सु॒ऽत्रामा॑। स्वऽवा॑न्। अवः॑ऽभिः। सु॒ऽमृ॒डी॒कः। भ॒व॒तु॒। वि॒श्वऽवे॑दाः। बाध॑ताम्। द्वेषः॑। अभ॑यम्। नः॒। कृ॒णो॒तु॒। सु॒ऽवीर्य॑स्य। पत॑यः। स्या॒म॒। १२५.६।
@@ -44,6 +57,24 @@ May helpful Indra as our Good Protector, Lord of all treasures, favour us with s
 <details><summary>पदपाठः - काण्वः</summary>
 
 इन्द्रः॑। सु॒त्रामेति॑ सु॒ऽत्रामा॑। स्ववा॒निति॒ स्वऽवा॑न्। अवो॑भि॒रित्यवः॑ऽभिः। सु॒मृ॒डी॒क इति॑ सुऽमृडी॒कः। भ॒व॒तु॒। वि॒श्ववे॑दा॒ इति॑ वि॒श्वऽवे॑दाः। बाध॑ताम्। द्वेषः॑। अभ॑यम्। कृ॒णो॒तु॒। सु॒वीर्य॒स्योति॑। सु॒ऽवीर्य॑स्य। पत॑यः। स्या॒म॒। ५।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- सु-त्रा᳓मा (*MS*-10/17, *TS*-2/9, *RV*-2/3, *TB*-8/14, *AV*-5/6, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-11/24, *VS-K*-11/20)
+- स्व᳓-वान् (*MS*-3/5, *TS*-3, *RV*-7, *AV*-4, *VS-M*-3, *VS-K*-3)
+- अ᳓वोभिः (*MS*-3/27, *TS*-1/22, *RV*-16/279, *TB*-1/15, *AV*-3/24, *SB-M*-0/9, *SB-K*-0/6, *VS-M*-2/24, *VS-K*-3/18)
+- सु-मृडीकः᳓ (*MS*-3/6, *TS*-1/4, *RV*-7/13, *TB*-2/3, *AV*-2/4, *SB-M*-0/3, *SB-K*-0/1, *VS-M*-3/6, *VS-K*-2/11)
+- भवतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-3, *RV*-33, *TB*-2, *AV*-22, *VS-M*-5, *VS-K*-2)
+- विश्व᳓-वेदाः (*MS*-16, *TS*-9/14, *RV*-8, *TB*-3, *AV*-2, *SB-M*-2, *SB-K*-3, *VS-M*-6, *VS-K*-8/11)
+- बा᳓धताम् (*MS*-1, *TS*-1, *RV*-1/7, *AV*-2/4, *SB-M*-0/1, *VS-M*-1/2, *VS-K*-2/3)
+- द्वे᳓षः (*MS*-11/20, *TS*-6/10, *RV*-23/40, *TB*-2/6, *AV*-6/10, *SB-M*-4/7, *SB-K*-3/6, *VS-M*-7/14, *VS-K*-8/14)
+- अ᳓-भयम् (*MS*-9/11, *TS*-4/6, *RV*-12/15, *TB*-8/9, *AV*-35/36, *SB-M*-13/69, *SB-K*-11/59, *VS-M*-4/5, *VS-K*-4/5)
+- कृणोतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-11, *TS*-10, *RV*-11, *TB*-4, *AV*-50, *SB-M*-4, *SB-K*-4, *VS-M*-10, *VS-K*-8)
+- सु-वी᳓र्यस्य (*MS*-1/14, *TS*-2/19, *RV*-12/75, *TB*-0/8, *AV*-2/7, *SB-M*-0/9, *SB-K*-1/9, *VS-M*-1/4, *VS-K*-2)
+- प᳓तयः (*MS*-6/47, *TS*-8/45, *RV*-15/200, *TB*-2/21, *TK*-4/6, *AV*-14/137, *SB-M*-4/64, *SB-K*-2/61, *VS-M*-6/45, *VS-K*-8/61)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-30, *TS*-28, *RV*-113, *TB*-9, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-18)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -204,6 +235,13 @@ May helpful Indra as our Good Protector, Lord of all treasures, favour us with s
 तेभ्यो हितं सुवीर्यं विषय-जातम् ।
 
 तस्य पतयः स्याम ॥५॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[101_7]** Ch स्ववँ
+
+- **[101_8]** Ch द्विषो
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>

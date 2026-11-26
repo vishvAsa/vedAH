@@ -15,6 +15,18 @@ On either side of the chariot,
 Dark, strong, bearing heroes.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They yoke his two desirable bay horses, on both sides of the chariot,  
+red, daring, carrying men.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+They yoke to his chariot his two beloved bay steeds on either side,  
+red, bold, bearing heroes.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 यु॒ञ्जन्त्य॑स्य॒ काम्या॒ हरी॒ विप॑क्षसा॒ रथे॑।  
@@ -174,6 +186,13 @@ Dark, strong, bearing heroes.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5इतरयोः पृष्ठे संमृज्येते - युञ्जन्ति युञ्जन्तु अस्य काम्या काम्यौ इष्टौ । कामयतेरचो यत्, 'सुपां सुलुक्' इत्याकारः । हरी अश्वौ विपक्षसा विपक्षसौ उभयोः पक्षयोः स्थितौ । पूर्ववदाकारः । रथे शोणा शोणवर्णौ आलोहितौ धृष्णू धर्षणसमर्थौ शत्रूणां नृवाहसा नॄन् वहन्तीति नृवाहसौ मनुष्यवाहौ । 'वहिहाधाञ्भ्यश्छन्दसि' इत्यसुन् । 'कारकपूर्वात्' इति, णिदिति च तत्रानुवर्तते । पूर्ववदाकारः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[630_1]** So corr. Ch कामा (Thus emended; Ch reads कामा)
+
+- **[630_2]** So corr. Ch धृष्णु (Thus emended; Ch reads धृष्णु)
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>

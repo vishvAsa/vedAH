@@ -8,6 +8,12 @@ title = "०२ अग्न आ"
 Agni, come hither with thy fires: we choose thee as our Hotai- priest. Let the extended ladle full of oil balm thee, best priest, to sit on sacred grass.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+we choose you as the invoker;  
+may the outstretched, oblation-bearing [spoon] anoint you, the most sacrifice-worthy, to sit on the sacred grass.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 अग्न॒ आ या॑ह्य॒ग्निभि॒र्होता॑रं त्वा वृणीमहे।  

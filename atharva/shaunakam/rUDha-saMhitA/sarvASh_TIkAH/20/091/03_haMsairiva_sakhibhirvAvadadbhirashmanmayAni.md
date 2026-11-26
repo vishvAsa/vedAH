@@ -16,6 +16,12 @@ Brhaspati thundered towards the cows,
 And praised and sang in celebration perceiving them.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With loud-calling companions as with geese, he broke apart the stone-made enclosures;  
+Bṛhaspati, roaring towards the cattle, praised forth, and knowing, sang aloud.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 हं॒सैरि॑व॒ सखि॑भि॒र्वाव॑दद्भिरश्म॒न्मया॑नि॒ नह॑ना॒ व्यस्य॑न्।  
@@ -69,4 +75,11 @@ And praised and sang in celebration perceiving them.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हंसैः हननशीलैः ज्ञानशीलैः शुद्धात्मभिः तैरिव सखिभिः समानख्यानैः ऋत्विग्भिः यावदर्थं वदद्बिः अश्मन्मयानि व्याप्तिमदुदकवन्ति । अयस्मयादित्वेनाश्मन्नलोपाभावः नहना नहनानि बन्धनानि मेघान् व्यस्यन् विविधं क्षिपन् प्रेरयन् बृहस्पतिः अभिकनिक्रदत् अभितस्स्तनयन् । दाधर्त्यादौ निपात्यते, शतर्यनुनासिकलोपः, 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । गाः अपः । उतशब्दश्चार्थे । प्रास्तौत् उच्च मेघसन्निधानादिना वृष्ट्याभिमुख्यवतीः कृतवान् उदगायच्च, उदक्षिपच्च अवर्षच्चेत्यर्थः । विद्वान् वर्षणोपायज्ञः । विद्वानेव प्रस्तोता उदगायदिति भावः । 'दीर्घादटि समानपादे' इति रुत्वम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[366_6]** So corr. Ch व्यसन; of. RV 10, 67, 3. (Thus emended Ch व्यसन; of. RV 10, 67, 3.)
+
+- **[366_7]** So corr. Ch भिकनद्गात उत प्रास्तोदुश्च (Thus emended; Ch reads भिकनद्गात उत प्रास्तोदुश्च)
 </details>

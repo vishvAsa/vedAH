@@ -8,10 +8,34 @@ title = "०४ युञ्जन्ति ब्रध्नमरुषम्
 They who stand round him as he moves harness the bright, the ruddy steed: The lights are shining in the sky.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They harness the ruddy, red-brown courser as he moves around those standing still;  
+the lights shine in the sky.
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+They yoke the ruddy tawny [steed] that moves, round those who stand still;  
+the lights shine in heaven.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+They yoke the ruddy tawny one who wanders around the standing ones;  
+the lights shine in heaven.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 यु॒ञ्जन्ति॑ ब्र॒ध्नम॑रु॒षं चर॑न्तं॒ परि॑ त॒स्थुषः॑।  
 रोच॑न्ते रोच॒ना दि॒वि ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+युञ्जन्ति बध्नमरुषं चरन्तं परि तस्थुषः।  
+रोचन्ते रोचना दिवि
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -27,6 +51,19 @@ They who stand round him as he moves harness the bright, the ruddy steed: The li
 <details><summary>पदपाठः - काण्वः</summary>
 
 यु॒ञ्जन्ति। ब्र॒ध्नम्। अ॒रु॒त्रम्। चर॑न्त॒म्। परि॑। रोच॑न्ते। रो॒च॒नाः। दि॒वि। १।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- युञ्ज᳓न्ति (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *MS*-3, *TS*-2, *RV*-4, *TB*-4, *AV*-8, *SB-M*-18, *SB-K*-11)
+- बध्न᳓म् (*TB*-4, *AV*-1/2, *VS-M*-3, *VS-K*-3)
+- अरुष᳓म् (*MS*-6/8, *TS*-4/7, *RV*-12/57, *TB*-1/2, *AV*-4/6, *SB-M*-4/5, *SB-K*-4/5, *VS-M*-5/6, *VS-K*-4/5)
+- च᳓रन्तम् (*MS*-5/15, *TS*-3/4, *RV*-15/29, *TB*-2/4, *AV*-11/20, *SB-M*-6/47, *SB-K*-4/42, *VS-M*-1, *VS-K*-4)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- तस्थु᳓षः (*MS*-4/7, *TS*-4/6, *RV*-8/23, *TB*-3, *AV*-6/11, *SB-M*-2/4, *SB-K*-1/3, *VS-M*-5/8, *VS-K*-6/10)
+- रो᳓चन्ते (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *MS*-2, *TS*-2, *RV*-1, *TB*-1, *AV*-3, *VS-M*-1, *VS-K*-2)
+- रोचना᳓ (*MS*-5/14, *TS*-4/13, *RV*-26/55, *TB*-4/5, *TK*-0/3, *AV*-10/18, *SB-M*-1/9, *SB-K*-1/9, *VS-M*-1/8, *VS-K*-2/8)
+- दिवि᳓ (*MW* ŚBr., *MS*-63/308, *TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-24/179)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

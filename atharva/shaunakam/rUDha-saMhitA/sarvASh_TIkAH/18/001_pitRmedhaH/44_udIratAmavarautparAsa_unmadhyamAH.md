@@ -29,10 +29,22 @@ in the *puruṣamedha*.
 May they ascend, the lowest, highest, midmost, the Fathers, who deserve a share of Soma. May they who have attained to life, the Fathers, righteous and gentle, aid us when we call them.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let the lower arise, let the higher arise, let the middle Soma-loving Fathers arise!  
+Those who have gone to spirit-life, not harmers, knowing the cosmic order—may those Fathers protect us in our invocations.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 उदी॑रता॒मव॑र॒उत्परा॑स॒ उन्म॑ध्य॒माः पि॒तरः॑ सो॒म्यासः॑।  
 असुं॒ य ई॒युर॑वृ॒का ऋ॑त॒ज्ञास्तेनो॑ऽवन्तु पि॒तरो॒ हवे॑षु ॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उ᳓दीरताम् अ᳓वरा उ᳓त् प᳓रासा उ᳓न् मध्यमाः᳓ पित᳓रः सोम्या᳓सः  
+अ᳓सुँ य ईयु᳓र् अवृका᳓ ऋतज्ञा᳓स् ते᳓ नो ऽवन्तु पित᳓रो ह᳓वेषु
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -48,6 +60,30 @@ May they ascend, the lowest, highest, midmost, the Fathers, who deserve a share 
 <details><summary>पदपाठः - काण्वः</summary>
 
 उत्। ई॒र॒ता॒म्। अव॑रे। उत्। परा॑सः। उत्। म॒ध्य॒माः। पि॒तरः॑। सो॒म्यासः॑। असु॒म्। ये। ई॒युः। अ॒व॒काः। ऋ॒त॒ज्ञा। इत्य॑त॒ऽज्ञाः। ते। नः॒। अ॒वन्तु। पि॒तरः॑। ह॒वे॑षु। १।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उ᳓त् (*TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-79, *KS*-81)
+- ईरताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-3, *AV*-2, *VS-M*-1, *VS-K*-1)
+- अ᳓वराः (*TS*-0/16, *RV*-0/28, *TB*-0/5, *TK*-0/2, *AV*-0/19, *SB-M*-0/35, *SB-K*-0/39, *VS-M*-0/8, *VS-K*-0/4, *KS*-0/4)
+- उ᳓त् (*TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-79, *KS*-81)
+- प᳓रा (*TS*-90, *RV*-78, *TB*-49, *TK*-4, *AV*-86, *SB-M*-50, *SB-K*-62, *VS-M*-9, *VS-K*-10, *KS*-25)
+- साः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- उ᳓त् (*TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-79, *KS*-81)
+- मध्यमाः᳓ (*TS*-3/17, *RV*-1/19, *TB*-0/5, *TK*-0/1, *AV*-2/10, *SB-M*-4/73, *SB-K*-4/64, *VS-M*-1/4, *VS-K*-1/4, *KS*-0/4)
+- पित᳓रः (*TS*-34/121, *RV*-39/254, *TB*-42/111, *TK*-0/6, *AV*-50/228, *SB-M*-86/321, *SB-K*-85/317, *VS-M*-24/80, *VS-K*-17/63, *KS*-13/43)
+- सोम्या᳓सः (*TS*-3, *RV*-4/47, *TB*-2/6, *AV*-6/17, *VS-M*-8/13, *VS-K*-5/10, *KS*-2/4)
+- अ᳓सुम् (*TS*-1/5, *RV*-7/11, *TB*-1/6, *TK*-0/1, *AV*-9/24, *SB-M*-1/28, *SB-K*-0/28, *VS-M*-2/9, *VS-K*-2/8, *KS*-5/14)
+- यः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-3, *TB*-11, *TK*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-7)
+- ईयुः᳓ (*TS*-3, *RV*-6, *TB*-1, *AV*-3, *SB-M*-6, *SB-K*-4, *VS-M*-2, *VS-K*-1)
+- अवृकाः᳓ (*TS*-2/4, *RV*-2/21, *AV*-1/3, *VS-M*-1, *KS*-1)
+- ऋत-ज्ञाः᳓ (*TS*-1, *RV*-8/9, *AV*-4, *VS-M*-1, *VS-K*-0/1)
+- ते᳓ (*TS*-451/4763, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *SB-K*-914/20018, *VS-M*-118/768, *VS-K*-88/624, *KS*-91/1225)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- अवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-14, *RV*-25, *TB*-6, *AV*-16, *SB-M*-5, *SB-K*-6, *VS-M*-18, *VS-K*-8, *KS*-13)
+- पित᳓रः (*TS*-34/121, *RV*-39/254, *TB*-42/111, *TK*-0/6, *AV*-50/228, *SB-M*-86/321, *SB-K*-85/317, *VS-M*-24/80, *VS-K*-17/63, *KS*-13/43)
+- ह᳓वेषु (*TS*-5/17, *RV*-7/124, *TB*-0/5, *AV*-4/22, *SB-M*-1/7, *SB-K*-1/8, *VS-M*-4/13, *VS-K*-2/9, *KS*-0/6)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

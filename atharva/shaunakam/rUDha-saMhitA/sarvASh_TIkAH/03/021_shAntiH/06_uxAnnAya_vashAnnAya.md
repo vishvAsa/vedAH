@@ -23,6 +23,12 @@ is, as *bṛhatī*, rather *nicṛt* than *virāj*.
 To him who feeds on ox and cow, sage, bearing Soma on his back, To all Vaisvanara's followers--to these be this oblation paid.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the one having an ox for food, having a barren cow for food, having soma on the back, the wise dispenser,  
+to those fires of whom Vaiśvānara is the eldest, let this be offered!
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 उ॒क्षान्ना॑य व॒शान्ना॑य॒ सोम॑पृष्ठाय वे॒धसे॑।  
@@ -60,4 +66,9 @@ To him who feeds on ox and cow, sage, bearing Soma on his back, To all Vaisvanar
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(उक्षान्नाय) श्वन्नुक्षन्पूषन्०। उ० १।१५९। इति उक्ष सेचने, वृद्धौ च-कनिन्। उक्षा महन्नाम-निघ० ३।३। उक्षण उक्षतेर्वृद्धिकर्मणः। निरु० १२।९। कॄवृजॄसिद्रुपन्यनि०। उ० ३।१०। इति अन प्राणने-न। इति अन्नम्। उक्षभ्यो महद्भ्यः प्रबलेभ्योऽन्नं यस्मात् तस्मै। प्रबलानां भोजनदात्रे। (वशान्नाय) वशिरण्योरुपसंख्यानम्। वा० पा० ३।३।५८। इति वश स्पृहायाम्-अप्, टाप्। वशाभ्यो वशीभूताभ्यः प्रजाभ्योऽन्नं यस्मात् तस्मै। निर्बलप्रजानां भोजनदात्रे। (सोमपृष्ठाय) तिथपृष्ठगूथयूथप्रोथाः। उ० २।१२। इति पृषु सेचने-थक्। अमृतसेचकाय। (वेधसे) अ० ११।१। विधात्रे। विधानकर्त्रे (वेश्वानरज्येष्ठेभ्यः) वैश्वानर इति व्याख्यातम्-अ० १।१०।४। विश्वनरहितः परमेश्वरो ज्येष्ठो वृद्धः प्रधानो येषां तेभ्यः। अन्यद् गतम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[603_4]** Vgl. oben 7, 16; RV 8, 43, 11; MS 2, 13, 13 a. E.; TS 1, 3, 14, 7; AV 3, 21, 6; 20, 1, 3. (Cf. above 7, 16; RV 8, 43, 11; MS 2, 13, 13 at the end; TS 1, 3, 14, 7; AV 3, 21, 6; 20, 1, 3.)
 </details>

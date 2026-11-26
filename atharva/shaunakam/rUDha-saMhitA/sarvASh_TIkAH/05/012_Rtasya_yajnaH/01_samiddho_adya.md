@@ -26,6 +26,12 @@ Thou in the house of man this day enkindled worshippest Gods as God, O Jatavedas
 Thou in the house of man this day enkindled worshippest Gods, a God, O Jâtavedas. Wealthy in friends! observant, bring them hither. Thou art a sapient envoy, full of wisdom.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Kindled today in the house of man, a god, you sacrifice to the gods, o Jātavedas.  
+Bring [them] here, you who possess Mitra's might, understanding; you are the messenger, the poet, the attentive one.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 समि॑द्धो अ॒द्य मनु॑षो दुरो॒णे दे॒वो दे॒वान्य॑जसि जातवेदः।  
@@ -38,6 +44,12 @@ Thou in the house of man this day enkindled worshippest Gods, a God, O Jâtaveda
 दे॒वो दे॒वान् य॑जसि जातवेदः ।   
 आ च॒ वह॑ मित्रमहश्चिकि॒त्वान् ।   
 त्वन्दू॒तᳵ क॒विर॑सि॒ प्रचे॑ताः ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+स᳓मिद्धो अद्य᳓ म᳓नुषो दुरोणे᳓ देवो᳓ देवा᳓न्यजसि जातवेदः।  
+आ᳓ च वह मित्रमहश्चिकित्वा᳓न्त्वं᳓ दूतः᳓ कवि᳓रसि प्र᳓चेताः
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -58,6 +70,29 @@ Thou in the house of man this day enkindled worshippest Gods, a God, O Jâtaveda
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 स᳓म्-इद्धः । अद्य᳓ । म᳓नुषः । दुरोणे᳓ । देवः᳓ । देवा᳓न् । यजसि । जात-वेदः । आ᳓ । च । व᳓ह । मित्र-महः । चिकित्वा᳓न् । त्व᳓म् । दूतः᳓ । कविः᳓ । असि । प्र᳓-चेताः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓म्-इद्धः (*MS*-8/16, *TS*-6/10, *RV*-28/42, *TB*-7/11, *TK*-1/2, *SB-M*-19/39, *SB-K*-14/34, *VS-M*-6/12, *VS-K*-5/9)
+- अद्य᳓ (*MS*-65, *TS*-44, *RV*-215, *TB*-30, *TK*-2, *AV*-66, *SB-M*-42, *SB-K*-48, *VS-M*-59, *VS-K*-54)
+- म᳓नुषः (*MS*-2/14, *TS*-1/25, *RV*-48/73, *TB*-2/6, *AV*-4/6, *SB-M*-1/14, *SB-K*-0/13, *VS-M*-3, *VS-K*-5)
+- दुरोणे᳓ (*MS*-7, *TS*-1, *RV*-31/35, *TB*-2, *TK*-1, *AV*-6, *VS-M*-3, *VS-K*-4)
+- देवः᳓ (*MS*-104/1216, *TS*-66/1023, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/528, *VS-K*-65/523)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- नि (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-1, *TB*-46, *TK*-2, *SB-M*-134, *SB-K*-132, *VS-M*-2, *VS-K*-2, *MS*-51)
+- अजसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- जात-वेदः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-21, *TS*-18, *RV*-55, *TB*-8, *AV*-54, *SB-K*-6, *VS-M*-10, *VS-K*-11)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- वह (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-11, *TS*-22, *RV*-63, *TB*-13, *TK*-3, *AV*-24, *SB-M*-14, *SB-K*-20, *VS-M*-6, *VS-K*-5)
+- मित्र-महः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TS*-1, *RV*-14, *TB*-2, *AV*-1, *VS-M*-1, *VS-K*-2)
+- चिकित्वा᳓न् (*MS*-3, *TS*-3, *RV*-31, *TB*-2, *AV*-5, *SB-M*-4, *SB-K*-4, *VS-M*-4, *VS-K*-3)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- दूतः᳓ (*MS*-5/10, *TS*-7/12, *RV*-54/89, *TB*-3/8, *AV*-9/15, *SB-M*-5/8, *SB-K*-6/10, *VS-M*-2/6, *VS-K*-2/6)
+- कविः᳓ (*MS*-14/36, *TS*-16/31, *RV*-92/200, *TB*-9/21, *AV*-10/30, *SB-M*-5/11, *SB-K*-4/9, *VS-M*-10/23, *VS-K*-11/26)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- प्र᳓-चेताः (*MS*-4, *TS*-5/7, *RV*-12, *TB*-2, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-4/7)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -226,6 +261,13 @@ Thou in the house of man this day enkindled worshippest Gods, a God, O Jâtaveda
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सर्वास्त्रिष्टुभः । समिद्धः संदीप्तः अद्य अस्मिन्कर्मणि मनुषो मनुष्यस्य यजमानस्य दुरोणे गृहे अग्न्यगारे देवः देवनशीलः त्वं यजसि यज हविषा तर्पय । हे जातवेदः! जातानां वेदितः! तदर्थं आवह च देवान् हे मित्रमहः! मित्राणां सुहृदां पूजयितः! चिकित्वान् जानन् स्वाधिकारम् । कितेर्लिटः क्वसुरादेशः । त्वं खलु देवानां दूतः हितकारी कविः क्रान्तदर्शनः प्रचेताः प्रकृष्टज्ञानश्चासि ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[241_1]** Dies Kap. collat. auch mit T1 (No. 11, sehr defect) und Brl fol. 184. 185; nach diesen Mss. accentuirt. (This chap. is also collated with T1 (No. 11, very defective) and Brl fol. 184, 185; accented according to these mss.)
+
+- **[241_2]** D त्वान्त्सं
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
