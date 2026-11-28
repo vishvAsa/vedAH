@@ -98,9 +98,7 @@ Remove thou all Decline that lurks within the members and the joints, The firmly
 <details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
 
 - अस्थि-स्रंस᳓म् (*AV*-1)
-- प᳓रुः (*Whitney*, *TS*-2/6, *RV*-1/4, *TB*-0/2, *AV*-3/11, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-1/4, *VS-K*-1/5, *KS*-1/2, *MS*-1/5)
-- र᳓म् (*RV*-1, *TB*-2, *SB-M*-2, *SB-K*-3, *KS*-1, *MS*-1)
-- स᳓म् (*MW*, *TS*-547, *RV*-608, *TB*-324, *TK*-14, *AV*-562, *SB-M*-1539, *SB-K*-1539, *VS-M*-187, *VS-K*-144, *KS*-121, *MS*-627)
+- परु-स्रंस᳓म् (फिषोऽन्त उदात्तः फि॰ १.१)
 - आ᳓-स्थितम् (*TS*-1, *TB*-1, *AV*-2, *SB-M*-1, *SB-K*-1/2, *VS-M*-1, *MS*-2)
 - हृदयामय᳓म् (*MW*)
 - बला᳓सम् (*AV*-5/8, *VS-M*-0/1, *VS-K*-0/1)

@@ -221,7 +221,7 @@ May our desire which Gods have roused fulfil itself by day and night. We seek to
 <details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
 
 - प्र᳓ (*TS*-780, *RV*-1193, *TB*-368, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1608, *VS-M*-203, *VS-K*-195, *KS*-144, *MS*-798)
-- णः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-8, *TB*-3, *SB-M*-3, *VS-K*-5, *KS*-4, *MS*-14)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *GR* णः)
 - वनिः᳓ (*TB*-0/3, *AV*-1/4)
 - देव᳓-कृता (*TS*-0/5, *RV*-0/4, *TB*-0/2, *AV*-3/9, *SB-M*-2/11, *SB-K*-2/13, *VS-M*-0/5, *VS-K*-0/3, *KS*-0/1, *MS*-0/4)
 - दि᳓वा (*MW* ŚBr., *TS*-9, *RV*-26, *TB*-19, *AV*-15, *SB-M*-23, *SB-K*-18, *VS-M*-7, *VS-K*-7, *KS*-1, *MS*-23)

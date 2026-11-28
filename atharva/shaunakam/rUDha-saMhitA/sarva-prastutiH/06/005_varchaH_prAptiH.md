@@ -247,7 +247,7 @@ Prosper this man, O Agni, in whose house we offer sacrifice. May Soma bless him,
 - ब्रु᳓वत् (*SB-M*-0/1)
 - अय᳓म् (*MW*, *TS*-92/965, *RV*-238/1247, *TB*-50/513, *TK*-6/56, *AV*-184/1259, *SB-M*-961/5242, *SB-K*-1021/5669, *VS-M*-77/319, *VS-K*-70/301, *KS*-33/218, *MS*-126/1325)
 - च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-493, *TK*-145, *AV*-1417, *SB-M*-3025, *SB-K*-2896, *VS-M*-920, *VS-K*-681, *KS*-655, *MS*-1588)
-- ब्र᳓ह्मणस्प᳓तिः (*TS*-1, *TB*-1, *SB-M*-2, *SB-K*-4, *VS-K*-1, *MS*-10/11)
+- ब्र᳓ह्मणस्-प᳓तिः (*TS*-1, *TB*-1, *SB-M*-2, *SB-K*-4, *VS-K*-1, *MS*-10/11)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

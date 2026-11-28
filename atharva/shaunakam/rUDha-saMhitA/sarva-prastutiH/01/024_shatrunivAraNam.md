@@ -105,7 +105,7 @@ First, before all, the strong-winged Bird was born;; thou wast the gall thereof.
 - जीता᳓ (*MW*, *Macdonell*)
 - रूप᳓म् (*TS*-83/144, *RV*-18/37, *TB*-51/78, *TK*-3, *AV*-15/46, *SB-M*-320/480, *SB-K*-306/466, *VS-M*-30/43, *VS-K*-26/41, *KS*-2/8, *MS*-79/136)
 - चक्रे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-21, *AV*-10, *SB-M*-31, *SB-K*-22, *VS-M*-2, *VS-K*-2)
-- व᳓नस्प᳓तीन् (*TS*-7, *RV*-11, *TB*-2, *AV*-13, *SB-M*-9, *SB-K*-10, *VS-M*-2, *VS-K*-2, *MS*-8)
+- व᳓नस्-प᳓तीन् (*TS*-7, *RV*-11, *TB*-2, *AV*-13, *SB-M*-9, *SB-K*-10, *VS-M*-2, *VS-K*-2, *MS*-8)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
