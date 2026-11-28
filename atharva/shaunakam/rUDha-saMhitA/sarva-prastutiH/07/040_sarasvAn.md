@@ -129,7 +129,7 @@ in whose vow the lord of nourishment is established—that Sarasvant we would in
 - त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-107/768, *VS-K*-75/624, *KS*-117/1225)
 - स᳓रस्वन्तम् (*TS*-2, *RV*-2, *AV*-3)
 - अ᳓वसे (*TS*-9/22, *RV*-111/279, *TB*-5/15, *AV*-14/24, *SB-M*-4/9, *SB-K*-1/6, *VS-M*-12/23, *VS-K*-7/15, *KS*-4/12)
-- हुवेम (*TS*-5, *RV*-41, *TB*-4, *AV*-5, *SB-M*-2, *VS-M*-8, *VS-K*-5, *KS*-4)
+- हुवेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-41, *TB*-4, *AV*-5, *SB-M*-2, *VS-M*-8, *VS-K*-5, *KS*-4)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
