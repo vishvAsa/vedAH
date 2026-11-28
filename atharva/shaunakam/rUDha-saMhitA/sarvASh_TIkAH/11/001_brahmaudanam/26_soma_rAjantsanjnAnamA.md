@@ -47,7 +47,7 @@ Give understanding unto these, King Soma! all the good Brah mans who attend and 
 <details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
 
 - सो᳓म (*TS*-3/4, *RV*-22, *TB*-1, *TK*-1, *AV*-2, *SB-M*-7, *SB-K*-4, *VS-M*-3, *VS-K*-5, *KS*-1, *MS*-7)
-- राज᳓न् (*Whitney*, *RV*-0/1, *TB*-1, *SB-M*-7, *SB-K*-7, *VS-K*-1)
+- राजन् (अपादादौ आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
 - सम्-ज्ञा᳓नम् (*TS*-3/4, *RV*-1, *TB*-4/5, *TK*-3, *AV*-6, *VS-M*-2/3, *VS-K*-1, *MS*-8)
 - आ᳓ (*TS*-1105, *RV*-2810, *TB*-564, *TK*-33, *AV*-1040, *SB-M*-2160, *SB-K*-2144, *VS-M*-464, *VS-K*-414, *KS*-194, *MS*-1207)
 - वपा᳓ (*Whitney*, *TS*-2/14, *TB*-3/14, *SB-M*-10/65, *SB-K*-10/54, *VS-M*-3/7, *VS-K*-1/7, *KS*-2/5, *MS*-3/22)

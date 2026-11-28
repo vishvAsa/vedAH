@@ -69,7 +69,7 @@ I have unmanned thee, eunuch! yea, impotent! made thee- impotent, and robbed the
 - च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-493, *TK*-145, *AV*-1417, *SB-M*-3025, *SB-K*-2896, *VS-M*-920, *VS-K*-681, *KS*-655, *MS*-1588)
 - अधि (गतिर्गतौ पा॰ ८.१.७०, *TB*-14, *AV*-1, *SB-M*-67, *SB-K*-64, *VS-M*-2, *VS-K*-1, *KS*-3, *MS*-16)
 - नि᳓ (*TS*-125, *RV*-482, *TB*-75, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36, *KS*-51, *MS*-181)
-- दध्म᳓सि (*TS*-1, *RV*-1, *AV*-1/6, *SB-M*-1/2, *SB-K*-1/3, *VS-M*-1, *VS-K*-1, *MS*-1)
+- दध्मसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

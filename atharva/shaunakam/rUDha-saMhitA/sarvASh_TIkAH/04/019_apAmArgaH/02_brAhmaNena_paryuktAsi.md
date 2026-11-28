@@ -74,7 +74,7 @@ Thou hast been blessed with blessing by the Brahman, Kanva Narshada. Thou fliest
 - य᳓त्र (*MW* ŚBr., *TS*-39, *RV*-123, *TB*-36, *TK*-2, *AV*-88, *SB-M*-375, *SB-K*-364, *VS-M*-46, *VS-K*-42, *KS*-14, *MS*-97)
 - प्र (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-67, *TK*-6, *AV*-2, *SB-M*-335, *SB-K*-370, *VS-M*-8, *VS-K*-8, *KS*-30, *MS*-224)
 - आप्नो᳓षि (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, स्वादिभ्यः श्नुः पा॰ ३.१.७३, पा॰ ३.१.३)
-- ओ᳓षधे (*TS*-5, *TB*-1, *SB-M*-3/4, *SB-K*-3, *VS-M*-3, *VS-K*-1, *KS*-1, *MS*-6)
+- ओषधे (अपादादौ आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
