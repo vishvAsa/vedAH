@@ -1,0 +1,109 @@
++++
+title = "०६ घृतादुल्लुप्तो मधुमान्पयस्वान्त्सहस्रप्राणः"
+
++++
+
+<details><summary>Whitney</summary>
+
+### Translation
+6. Snatched out of ghee, rich in honey, rich in milk, thousand-breathed,  
+hundred-wombed (? *-yóni*), vigor-imparting, both wealful and  
+delightful, both rich in refreshment and rich in milk—let the unsubdued  
+one defend thee.
+
+### Notes
+⌊We had **a** at 33. 2 **a**, above: cf. v. 28. 14.⌋ Ppp. reads at the  
+beginning *ullabdhas*; one or two of SPP's mss. have *dúrluptas* ⌊cf.  
+note to xviii. 2. 3⌋, *úrluptas*. In **b**, all the authorities (save  
+one or two) give *sahásram prāṇás* or *sahásra prāṇáḥ* (p. *sahásram:  
+prāṇáḥ*);\* but the comm. implies (perhaps only by his usual neglect of  
+accent) *sahásraprāṇas*, and SPP. reports one of his mss. as giving the  
+same; and he accordingly follows us in adopting it; Ppp. reads with the  
+mss. ⌊*sahasraṁ prāṇáḥ*⌋. The comm. gives an extraordinary explanation  
+of *-yoni* in **b**: *yoniśabdena śatrusaṁgamananimittaṁ  
+śatruviyojanasādhanaṁ vā balaṁ vivakṣyate:* that is, without any regard  
+to the established meanings of *yoni*, he takes it here as a mere  
+representative of the radical sense of the root *yu* 'unite' or of the  
+root *yu* 'separate'—he does not venture to decide which! The metrical  
+description of the Anukr. is fairly correct (11 + 12: 7 + 8 + 8 = 46).  
+\*⌊These corruptions of the true *sahásraprāṇas* are noteworthy as  
+examples of faulty half-way assimilation of a reading to something  
+similar in the immediate context: here the cause of the confusion is  
+plainly the *sahásram prāṇā́ḥ* of vs. 5 **b**.⌋
+</details>
+
+<details><summary>Griffith</summary>
+
+Drawn forth from butter, rich in milk and sweetness, hundred- lived, thousand-homed, bestowing vigour, Kindly, delightsome, full of sap, and mighty, invincible let it guard thee well.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+घृ॒तादुल्लु॑प्तो॒ मधु॑मा॒न्पय॑स्वान्त्स॒हस्र॑प्राणः श॒तयो॑निर्वयो॒धाः।  
+श॒म्भूश्च॑ मयो॒भूश्चोर्ज॑स्वांश्च॒ पय॑स्वां॒श्चास्तृ॑तस्त्वा॒भि र॑क्षतु ॥
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+घृताद् उल्लुप्तो मधुमान् पयस्वान् +++(Bhatt. ulapto)+++  
+सहस्रप्राणः शतयोनिर् वयोधाः । +++(Bhatt. sahasraṃ prāṇaḥ)+++  
+शम्भूश् च मयोभूश् च-  
+-ऊर्जस्वांश् च पयस्वांश् च-  
+-अस्तृतस् त्वाभि रक्षतु ॥
+</details>
+
+<details><summary>पदपाठः</summary>
+
+घृ॒तात्। उत्ऽलु॑प्तः। मधु॑ऽमान्। पय॑स्वान्। स॒हस्र॑ऽप्राणः। श॒तऽयो॑निः। व॒यः॒ऽधाः। श॒म्ऽभूः। च॒। म॒यः॒ऽभूः। च॒। ऊर्ज॑स्वान्। च॒। पय॑स्वान्। च॒। अस्तृ॑तः। त्वा॒। अ॒भि। र॒क्ष॒तु॒। ४६.६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- घृता᳓त् (*TS*-0/64, *RV*-2/91, *TB*-0/30, *TK*-0/1, *AV*-4/40, *SB-M*-1/51, *SB-K*-0/51, *VS-M*-0/49, *VS-K*-0/45, *KS*-0/28, *MS*-1/106)
+- उ᳓त्-लुप्तः (*AV*-2/3)
+- म᳓धु-मान् (*TS*-3/11, *RV*-20/43, *TB*-0/3, *TK*-0/1, *AV*-9/29, *SB-M*-3/5, *SB-K*-3/6, *VS-M*-3/10, *VS-K*-3/10, *KS*-2/7, *MS*-2/12)
+- प᳓यस्वान् (*TS*-4, *RV*-1, *TB*-1, *AV*-11, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-2, *KS*-1)
+- सह᳓स्र-प्राणः (*AV*-1)
+- शत᳓-योनिः (*AV*-2)
+- वयः-धाः᳓ (*TS*-7, *RV*-13/16, *TB*-1, *AV*-9, *SB-K*-4, *VS-M*-2, *VS-K*-1, *KS*-1, *MS*-3)
+- शं-भूः᳓ (*TS*-5/7, *RV*-0/5, *TK*-1, *AV*-2/4, *SB-M*-5, *SB-K*-5, *VS-M*-4, *VS-K*-4/6, *KS*-0/1, *MS*-4)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-493, *TK*-145, *AV*-1417, *SB-M*-3025, *SB-K*-2896, *VS-M*-920, *VS-K*-681, *KS*-655, *MS*-1588)
+- मयः-भूः᳓ (*TS*-7/9, *RV*-4/15, *TB*-1, *AV*-3/4, *SB-K*-5, *VS-M*-5/6, *VS-K*-5/6, *KS*-0/1, *MS*-8/9)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-493, *TK*-145, *AV*-1417, *SB-M*-3025, *SB-K*-2896, *VS-M*-920, *VS-K*-681, *KS*-655, *MS*-1588)
+- ऊ᳓र्जस्वान् (*TS*-2, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-493, *TK*-145, *AV*-1417, *SB-M*-3025, *SB-K*-2896, *VS-M*-920, *VS-K*-681, *KS*-655, *MS*-1588)
+- प᳓यस्वान् (*TS*-4, *RV*-1, *TB*-1, *AV*-11, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-2, *KS*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-493, *TK*-145, *AV*-1417, *SB-M*-3025, *SB-K*-2896, *VS-M*-920, *VS-K*-681, *KS*-655, *MS*-1588)
+- अ᳓स्तृतः (*TS*-0/2, *RV*-5/12, *AV*-10/13, *SB-M*-0/1, *SB-K*-0/1, *KS*-1, *MS*-1/2)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-215, *TK*-46, *AV*-539, *SB-M*-711, *SB-K*-678, *VS-M*-615, *VS-K*-519, *KS*-247, *MS*-760)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-251, *TK*-15, *AV*-269, *SB-M*-607, *SB-K*-605, *VS-M*-97, *VS-K*-111, *KS*-42, *MS*-330)
+- रक्षतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-7, *RV*-2, *AV*-33, *KS*-1, *MS*-4)
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अस्तृतमणिः
+- प्रजापतिः
+- पञ्चपदोष्णिग्विराड्जगती
+- अस्तृतमणि सूक्त
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+विजय की प्राप्ति का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (घृतात्) प्रकाश से (उल्लुप्तः) ऊपर खींचा गया, (मधुमान्) ज्ञानवान्, (पयस्वान्) अन्नवान्, (सहस्रप्राणः) सहस्रों जीवनसामर्थ्यवाला, (शतयोनिः) सैकड़ों कारणों में व्यापक, (वयोधाः) पराक्रम देनेवाला, (शम्भूः) शान्ति करनेवाला (च) और (मयोभूः) सुख देनेवाला, (च) और (ऊर्जस्वान्) बलवाला (च च) और (पयस्वान्) दूधवाला, (अस्तृतः) अटूट [नियम] (त्वा) तेरी (अभि) सब ओर से (रक्षतु) रक्षा करे ॥६॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  परमेश्वर का वेदोक्त नियम संसार में प्रकाशमान है, मनुष्य उस पर ही चलकर अपना शारीरिक, आत्मिक और सामाजिक बल बढ़ाकर सुखी होवें ॥६॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   इस मन्त्र का प्रथम पाद आ चुका है-अ० १९।३३।२ और मन्त्र का मिलान करो-अ० ५।२८।१४ ॥  ६−(घृतात्) प्रकाशात् (उल्लुप्तः) उद्धृतः (मधुमान्) ज्ञानवान् (पयस्वान्) अन्नवान् (सहस्रप्राणः) बहुजीवनसामर्थ्योपेतः (शतयोनिः) बहुकारणेषु विद्यमानः (वयोधाः) पराक्रमप्रदः (शम्भूः) शान्तिदाता (च) (मयोभूः) सुखस्य कर्ता (च) (ऊर्जस्वान्) बलवान् (च) (पयस्वान्) दुग्धवान् (च)। अन्यत् पूर्ववत् ॥
+</details>
