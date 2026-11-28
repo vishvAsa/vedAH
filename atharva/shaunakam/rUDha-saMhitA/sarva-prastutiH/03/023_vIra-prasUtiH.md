@@ -98,7 +98,7 @@ From thee we banish and expel the cause of thy sterility. This in another place 
 - अ᳓प (*TS*-136, *RV*-226, *TB*-119, *TK*-11, *AV*-161, *SB-M*-338, *SB-K*-329, *VS-M*-37, *VS-K*-28, *KS*-46, *MS*-166)
 - दूरे᳓ (*TS*-3/8, *RV*-18/47, *TB*-0/1, *AV*-5/30, *SB-M*-8/16, *SB-K*-6/16, *VS-M*-4/9, *VS-K*-3/7, *KS*-0/1, *MS*-2/8)
 - नि᳓ (*TS*-125, *RV*-482, *TB*-75, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36, *KS*-51, *MS*-181)
-- दध्म᳓सि (*TS*-1, *RV*-1, *AV*-1/6, *SB-M*-1/2, *SB-K*-1/3, *VS-M*-1, *VS-K*-1, *MS*-1)
+- दध्मसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

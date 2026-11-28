@@ -374,7 +374,7 @@ Forth from thy thighs and from thy knees, heels and the fore- parts of thy feet.
 - श्रो᳓णिभ्याम् (*TS*-2/4, *RV*-1, *TB*-0/2, *AV*-3/7, *SB-M*-1/23, *SB-K*-1/20, *VS-M*-1/2, *VS-K*-1/2, *KS*-0/2, *MS*-1/9)
 - भं᳓ससः (*RV*-1, *AV*-4)
 - वि᳓ (*TS*-379, *RV*-952, *TB*-164, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-639, *VS-M*-142, *VS-K*-127, *KS*-61, *MS*-503)
-- वृ᳓हामसि (*AV*-1)
+- वृहामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

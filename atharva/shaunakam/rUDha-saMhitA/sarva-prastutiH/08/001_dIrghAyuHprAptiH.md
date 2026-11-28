@@ -1713,7 +1713,7 @@ Life hath breathed on thee; light hath come: darkness hath past away from thee. 
 - अ᳓प (*TS*-136, *RV*-226, *TB*-119, *TK*-11, *AV*-161, *SB-M*-338, *SB-K*-329, *VS-M*-37, *VS-K*-28, *KS*-46, *MS*-166)
 - य᳓क्ष्मम् (*TS*-2/11, *RV*-9/11, *AV*-32/65, *SB-M*-0/2, *VS-M*-1/4, *VS-K*-1/4, *KS*-0/4, *MS*-3/4)
 - नि᳓ (*TS*-125, *RV*-482, *TB*-75, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36, *KS*-51, *MS*-181)
-- दध्म᳓सि (*TS*-1, *RV*-1, *AV*-1/6, *SB-M*-1/2, *SB-K*-1/3, *VS-M*-1, *VS-K*-1, *MS*-1)
+- दध्मसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

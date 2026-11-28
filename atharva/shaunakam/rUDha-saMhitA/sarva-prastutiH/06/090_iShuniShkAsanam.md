@@ -95,7 +95,7 @@ The shaft that Rudra hath shot forth against thy members and thy heart, Here do 
 - वय᳓म् (*MW*, *TS*-88/566, *RV*-297/1308, *TB*-35/211, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-116/758, *VS-M*-67/315, *VS-K*-53/274, *KS*-18/135, *MS*-105/587)
 - वि᳓षूचीम् (*TS*-2/4, *RV*-2/8, *TB*-0/2, *AV*-3/9, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-0/2, *MS*-1/7)
 - वि᳓ (*TS*-379, *RV*-952, *TB*-164, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-639, *VS-M*-142, *VS-K*-127, *KS*-61, *MS*-503)
-- वृ᳓हामसि (*AV*-1)
+- वृहामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
