@@ -57,7 +57,7 @@ Each morn that comes our household's Lord is Agni, showing. his loving-kindness 
 - त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-215, *TK*-46, *AV*-539, *SB-M*-711, *SB-K*-678, *VS-M*-615, *VS-K*-519, *KS*-247, *MS*-760)
 - शत᳓म् (*TS*-24/76, *RV*-83/100, *TB*-9/16, *TK*-2, *AV*-78/95, *SB-M*-62/148, *SB-K*-56/136, *VS-M*-22/31, *VS-K*-19/25, *KS*-3/4, *MS*-29/39)
 - हि᳓माः (*TS*-6/11, *RV*-4, *TB*-1, *AV*-2, *SB-M*-1/3, *SB-K*-3/4, *VS-M*-2, *VS-K*-3/4, *MS*-1/3)
-- ऋधेम᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- ऋधेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

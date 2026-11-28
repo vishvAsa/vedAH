@@ -63,7 +63,7 @@ May the hawk bring the man who must be summoned, from far away, in alien land, a
 - सजाताः᳓ (*TS*-9/51, *RV*-0/1, *TB*-1/5, *AV*-1/13, *SB-M*-2/12, *SB-K*-2/13, *VS-M*-0/8, *VS-K*-0/9, *MS*-8/36)
 - अभि (गतिर्गतौ पा॰ ८.१.७०, *TB*-36, *TK*-9, *AV*-3, *SB-M*-549, *SB-K*-513, *VS-K*-2, *KS*-25, *MS*-215)
 - स᳓म् (*MW*, *TS*-547, *RV*-608, *TB*-324, *TK*-14, *AV*-562, *SB-M*-1539, *SB-K*-1539, *VS-M*-187, *VS-K*-144, *KS*-121, *MS*-627)
-- विशध्व᳓म् (फिषोऽन्त उदात्तः फि॰ १.१)
+- विशध्वम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -54,7 +54,7 @@ Lay thou no cord or noose on us: a weighty burthen, still be light! Withersoever
 - त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-215, *TK*-46, *AV*-539, *SB-M*-711, *SB-K*-678, *VS-M*-615, *VS-K*-519, *KS*-247, *MS*-760)
 - शा᳓ले (*TB*-0/2, *AV*-2/20, *SB-M*-0/22, *SB-K*-0/12, *MS*-0/1)
 - यत्र-का᳓मम् (*AV*-1, *SB-M*-1)
-- भरामसि᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- भरामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

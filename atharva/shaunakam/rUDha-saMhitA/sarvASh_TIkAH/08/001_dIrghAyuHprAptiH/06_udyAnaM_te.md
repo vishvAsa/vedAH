@@ -67,7 +67,7 @@ Upward must be thy way, O man, not downward: with life and mental vigour I endow
 - जि᳓र्विः (*AV*-2)
 - विद᳓थम् (*TS*-0/6, *RV*-6/105, *TB*-0/4, *AV*-7/15, *VS-M*-0/6, *VS-K*-0/6, *MS*-1/7)
 - आ᳓ (*TS*-1105, *RV*-2810, *TB*-564, *TK*-33, *AV*-1040, *SB-M*-2160, *SB-K*-2144, *VS-M*-464, *VS-K*-414, *KS*-194, *MS*-1207)
-- वदासि᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- वदासि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

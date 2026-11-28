@@ -58,7 +58,7 @@ With mental power I drive them forth, drive them with intellect and charm. We ba
 - वृक्ष᳓स्य (*TS*-2/10, *RV*-3/27, *TB*-3, *AV*-3/34, *SB-M*-3/19, *SB-K*-4/15, *VS-M*-2/9, *VS-K*-2/8, *KS*-2/10, *MS*-2/9)
 - शा᳓खया (*TS*-0/3, *RV*-0/3, *AV*-1/7, *SB-M*-4/16, *SB-K*-1/9, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/1, *MS*-0/2)
 - अश्वत्थ᳓स्य (*TS*-0/5, *RV*-0/2, *TB*-3/5, *AV*-1/9, *SB-M*-2/8, *SB-K*-2/12, *VS-M*-0/2, *VS-K*-0/1, *KS*-0/5, *MS*-1/9)
-- नुदामसि᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- नुदामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

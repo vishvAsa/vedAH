@@ -55,7 +55,7 @@ We with our incantation loose the net that hath a thousand. eyes. The diadem, se
 - अभि᳓-हितम् (*TS*-0/1, *RV*-0/2, *AV*-1/4, *SB-M*-0/1, *SB-K*-0/3)
 - ब्र᳓ह्मणा (*TS*-63/157, *RV*-31/237, *TB*-35/84, *TK*-8/38, *AV*-82/266, *SB-M*-62/420, *SB-K*-56/455, *VS-M*-10/55, *VS-K*-7/51, *KS*-10/34, *MS*-58/227)
 - वि᳓ (*TS*-379, *RV*-952, *TB*-164, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-639, *VS-M*-142, *VS-K*-127, *KS*-61, *MS*-503)
-- चृतामसि᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- चृतामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

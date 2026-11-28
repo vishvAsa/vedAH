@@ -53,8 +53,7 @@ Homage, O Prana, to thy roar, to thunder-peal and lightning flash! Homage, O Pra
 - न᳓मः (*Whitney*, *TS*-291/316, *RV*-49/182, *TB*-45/48, *TK*-3, *AV*-230/248, *SB-M*-102/105, *SB-K*-100/102, *VS-M*-235/244, *VS-K*-147/168, *KS*-264/267, *MS*-248/268)
 - ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-168, *TK*-35, *AV*-1022, *SB-M*-652, *SB-K*-727, *VS-M*-391, *VS-K*-307, *KS*-166, *MS*-624)
 - प्राण᳓ (*TS*-10/36, *RV*-3, *TB*-74, *TK*-1, *AV*-110, *SB-M*-2/4, *SB-K*-2/11, *VS-M*-24, *VS-K*-18, *KS*-64, *MS*-174)
-- व᳓र्षते (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *AV*-1, *VS-M*-3, *VS-K*-3)
-</details>
+- व᳓र्षते (*TS*-1, *AV*-1, *VS-M*-3, *VS-K*-3)</details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

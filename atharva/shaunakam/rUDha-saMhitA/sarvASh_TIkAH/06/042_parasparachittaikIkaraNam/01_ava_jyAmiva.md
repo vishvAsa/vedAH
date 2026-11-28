@@ -61,8 +61,7 @@ I loose the anger from thy heart as 'twere the bowstring from a bow, That we, on
 - स᳓खि (*Whitney*, *TS*-0/11, *RV*-0/58, *TB*-0/4, *AV*-0/17, *SB-M*-0/4, *SB-K*-0/5, *VS-M*-0/9, *VS-K*-0/8, *KS*-0/1, *MS*-0/12)
 - का᳓ (*TS*-1/158, *RV*-18/375, *TB*-2/91, *TK*-1/20, *AV*-3/216, *SB-M*-82/890, *SB-K*-84/859, *VS-M*-8/98, *VS-K*-6/86, *KS*-0/22, *MS*-9/175)
 - इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-81, *TK*-3, *AV*-2, *SB-M*-812, *SB-K*-747, *VS-M*-2, *VS-K*-2, *KS*-48, *MS*-222)
-- स᳓चावहै (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *AV*-1, *MS*-1)
-</details>
+- सचावहै (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)</details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

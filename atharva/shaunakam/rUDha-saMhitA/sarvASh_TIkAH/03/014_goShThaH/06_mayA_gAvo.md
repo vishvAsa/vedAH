@@ -67,7 +67,7 @@ Follow me, Cows, as master of the cattle. Here may this Cow- pen make you grow a
 - जी᳓वन्तीः (*TS*-0/1, *RV*-0/1, *AV*-1, *SB-M*-0/1, *SB-K*-0/1, *KS*-1)
 - उ᳓प (*TS*-723, *RV*-487, *TB*-203, *TK*-39, *AV*-247, *SB-M*-1431, *SB-K*-1362, *VS-M*-68, *VS-K*-60, *KS*-92, *MS*-478)
 - वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-39, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70, *KS*-78, *MS*-201)
-- सदेम᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- सदेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -43,7 +43,7 @@ Bhava and Sarva, spare us, be not hostile. Homage to you, twin Lords of beasts a
 <details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
 
 - भ᳓वाशर्वौ (*AV*-2)
-- मृड᳓तम् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *AV*-2)
+- मृड᳓तम् (पादादिः पा॰ ८.१.७२, पा॰ ८.१.२८ अप्रवृत्तेः, *AV*-2)
 - मा᳓ (*Whitney*, *TS*-205, *RV*-389, *TB*-95, *TK*-15, *AV*-415, *SB-M*-207, *SB-K*-184, *VS-M*-146, *VS-K*-110, *KS*-56, *MS*-219)
 - अभि᳓ (*TS*-345, *RV*-754, *TB*-251, *TK*-15, *AV*-269, *SB-M*-607, *SB-K*-605, *VS-M*-97, *VS-K*-111, *KS*-42, *MS*-330)
 - यात᳓म् (*RV*-19/22, *AV*-5, *SB-M*-0/1, *MS*-0/2)
@@ -61,8 +61,7 @@ Bhava and Sarva, spare us, be not hostile. Homage to you, twin Lords of beasts a
 - हिंसिष्ट᳓म् (*SB-M*-1, *SB-K*-2)
 - द्वि-प᳓दः (*TS*-5/21, *RV*-3/16, *TB*-1/15, *AV*-14/23, *SB-M*-1/11, *SB-K*-0/8, *VS-M*-3/10, *VS-K*-3/10, *KS*-1/2, *MS*-4/21)
 - मा᳓ (*Whitney*, *TS*-205, *RV*-389, *TB*-95, *TK*-15, *AV*-415, *SB-M*-207, *SB-K*-184, *VS-M*-146, *VS-K*-110, *KS*-56, *MS*-219)
-- च᳓तुः-पदः (*TS*-9/24, *RV*-2/15, *TB*-6/12, *AV*-13/23, *SB-M*-5/11, *SB-K*-5/14, *VS-M*-4/17, *VS-K*-2/13, *KS*-1/3, *MS*-5/22)
-</details>
+- च᳓तुः-पदः (*TS*-9/24, *RV*-2/15, *TB*-6/12, *AV*-13/23, *SB-M*-5/11, *SB-K*-5/14, *VS-M*-4/17, *VS-K*-2/13, *KS*-1/3, *MS*-5/22)</details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

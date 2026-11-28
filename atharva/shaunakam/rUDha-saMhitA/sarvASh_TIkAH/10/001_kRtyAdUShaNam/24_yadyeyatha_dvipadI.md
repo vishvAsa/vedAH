@@ -42,7 +42,7 @@ If thou hast come two-footed or four-footed, made by the sorcerer, wrought in pe
 <details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
 
 - य᳓दि (*MW*, *TS*-73, *RV*-76, *TB*-40, *TK*-7, *AV*-89, *SB-M*-529, *SB-K*-486, *VS-M*-6, *VS-K*-6, *KS*-10, *MS*-137)
-- एयथ᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- एय᳓थ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६)
 - द्वि-प᳓दी (*TS*-1, *RV*-1, *TB*-2, *AV*-3, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1, *MS*-1)
 - च᳓तुः-पदी (*TS*-1, *RV*-1/2, *TB*-1, *AV*-4/5, *SB-M*-2/3, *SB-K*-3/4, *VS-M*-2, *MS*-2)
 - कृत्या-कृ᳓ता (*AV*-3/26)

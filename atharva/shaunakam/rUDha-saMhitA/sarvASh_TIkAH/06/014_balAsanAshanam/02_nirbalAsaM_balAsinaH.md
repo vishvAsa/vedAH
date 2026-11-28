@@ -50,7 +50,7 @@ From the consumptive man I pluck Decline as 'twere a severed part. I cut the bon
 - निः᳓ (*TS*-292, *RV*-113, *TB*-149, *TK*-12, *AV*-144, *SB-M*-340, *SB-K*-333, *VS-M*-22, *VS-K*-16, *KS*-46, *MS*-280)
 - बला᳓सम् (*AV*-5/8, *VS-M*-0/1, *VS-K*-0/1)
 - बलासि᳓नः (*AV*-1)
-- क्षिणो᳓मि (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- क्षिणो᳓मि (पादादिः पा॰ ८.१.२८ अप्रवृत्तेः, *TS*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
 - पु᳓ष्करम् (*TS*-2/6, *RV*-0/3, *AV*-2, *SB-M*-4/9, *SB-K*-6/11, *VS-M*-0/5, *VS-K*-0/6, *MS*-0/4)
 - य᳓था (*MW* ŚBr., *TS*-123, *RV*-238, *TB*-53, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-693, *VS-M*-27, *VS-K*-24, *KS*-26, *MS*-113)
 - छिन᳓द्मि (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *AV*-1)
@@ -59,8 +59,7 @@ From the consumptive man I pluck Decline as 'twere a severed part. I cut the bon
 - मू᳓लम् (*TS*-3/7, *RV*-1, *TB*-10/15, *AV*-10/17, *SB-M*-12/23, *SB-K*-14/25, *VS-M*-1/2, *VS-K*-1/2, *KS*-1, *MS*-6/7)
 - उर्वाः᳓ (*MW*, *Macdonell*, *Lanman*, *AV*-0/1)
 - वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-39, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70, *KS*-78, *MS*-201)
-- य᳓था (*MW* ŚBr., *TS*-123, *RV*-238, *TB*-53, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-693, *VS-M*-27, *VS-K*-24, *KS*-26, *MS*-113)
-</details>
+- य᳓था (*MW* ŚBr., *TS*-123, *RV*-238, *TB*-53, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-693, *VS-M*-27, *VS-K*-24, *KS*-26, *MS*-113)</details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

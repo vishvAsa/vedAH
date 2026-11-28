@@ -59,7 +59,7 @@ Far off we drive Malignity, Destruction, Pisachas banqueters on flesh, and Grahi
 - त᳓मः (*Whitney*, *TS*-22/33, *RV*-43/113, *TB*-3/9, *AV*-23/52, *SB-M*-55/82, *SB-K*-54/82, *VS-M*-10/22, *VS-K*-8/22, *KS*-9/13, *MS*-27/50)
 - इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-81, *TK*-3, *AV*-2, *SB-M*-812, *SB-K*-747, *VS-M*-2, *VS-K*-2, *KS*-48, *MS*-222)
 - अ᳓प (*TS*-136, *RV*-226, *TB*-119, *TK*-11, *AV*-161, *SB-M*-338, *SB-K*-329, *VS-M*-37, *VS-K*-28, *KS*-46, *MS*-166)
-- हन्मसि᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- हन्मसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -46,7 +46,7 @@ Be here, even here, acquiring wealth, here be thou thoughts here be thou strengt
 
 - इह᳓ (*TS*-100, *RV*-277, *TB*-36, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-187, *VS-M*-92, *VS-K*-91, *KS*-22, *MS*-92)
 - ए᳓व (समानान्तर-पाठः (AV), *TS*-2, *RV*-31, *TB*-27, *AV*-1, *SB-M*-29, *SB-K*-281, *VS-M*-2, *VS-K*-1, *KS*-5, *MS*-27)
-- ए᳓धि (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, पा॰ ६.१.१८६, *KS*-1)
+- एधि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *AVŚ १८.४.३८*)
 - धन-स᳓निः (*MW*)
 - इह᳓ (*TS*-100, *RV*-277, *TB*-36, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-187, *VS-M*-92, *VS-K*-91, *KS*-22, *MS*-92)
 - चित्तः᳓ (*TS*-0/10, *RV*-1/9, *TB*-0/5, *AV*-0/31, *SB-M*-0/11, *SB-K*-0/11, *VS-M*-0/9, *VS-K*-0/6, *KS*-0/1, *MS*-0/15)
@@ -57,8 +57,7 @@ Be here, even here, acquiring wealth, here be thou thoughts here be thou strengt
 - त᳓रः (*Whitney*, *TS*-0/15, *RV*-4/186, *TB*-0/1, *TK*-0/2, *AV*-0/10, *SB-M*-1/4, *SB-K*-1/11, *VS-M*-0/17, *VS-K*-0/15, *KS*-0/1, *MS*-0/8)
 - वयः-धाः᳓ (*TS*-7, *RV*-13/16, *TB*-1, *AV*-9, *SB-K*-4, *VS-M*-2, *VS-K*-1, *KS*-1, *MS*-3)
 - अ᳓परा (*TS*-0/11, *RV*-2/22, *TB*-1/6, *TK*-0/1, *AV*-5/35, *SB-M*-1/60, *SB-K*-1/51, *VS-M*-0/2, *VS-K*-0/3, *KS*-0/3, *MS*-1/21)
-- हितः᳓ (*TS*-3/9, *RV*-29/83, *TB*-1/7, *TK*-0/1, *AV*-5/19, *SB-M*-9/28, *SB-K*-9/35, *VS-M*-1/3, *VS-K*-1/3, *MS*-2/11)
-</details>
+- हितः᳓ (*TS*-3/9, *RV*-29/83, *TB*-1/7, *TK*-0/1, *AV*-5/19, *SB-M*-9/28, *SB-K*-9/35, *VS-M*-1/3, *VS-K*-1/3, *MS*-2/11)</details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

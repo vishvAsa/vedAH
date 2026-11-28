@@ -46,7 +46,7 @@ His voice an arrow's neck, his tongue a bowstring, his windpipes fire-enveloped 
 
 - जिह्वा᳓ (*Whitney*, *TS*-6/24, *RV*-8/45, *TB*-2/3, *TK*-1, *AV*-11/32, *SB-M*-15/28, *SB-K*-16/27, *VS-M*-5/12, *VS-K*-3/9, *KS*-2, *MS*-10/20)
 - ज्या᳓ (*Whitney*, *TS*-2/6, *RV*-1/12, *TB*-0/1, *AV*-1/11, *SB-M*-1/18, *SB-K*-2/17, *VS-M*-1/4, *VS-K*-1/4, *MS*-1/13)
-- भ᳓वति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*, *TS*-135, *RV*-10, *TB*-54, *AV*-10, *SB-M*-613, *SB-K*-595, *VS-K*-1, *KS*-28, *MS*-122)
+- भ᳓वति (तिङः पा॰ ८.१.२८ अप्रवृत्तेः, *AVŚ ५.१८.८*, *Whitney*, *Lanman*, *TS*-135, *RV*-10, *TB*-54, *AV*-10, *SB-M*-613, *SB-K*-595, *VS-K*-1, *KS*-28, *MS*-122)
 - कु᳓ल्मलम् (*AV*-2/3, *SB-M*-1, *SB-K*-1, *MS*-2)
 - वा᳓क् (*MW* ŚBr., *TS*-76/94, *RV*-9, *TB*-29, *TK*-6, *AV*-17, *SB-M*-358, *SB-K*-306, *VS-M*-12/13, *VS-K*-11/14, *KS*-14, *MS*-128)
 - नाडीकाः᳓ (*AV*-1)
@@ -60,8 +60,7 @@ His voice an arrow's neck, his tongue a bowstring, his windpipes fire-enveloped 
 - देव-पीयू᳓न् (*AV*-3/11, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-0/1, *VS-K*-0/1)
 - हृत्-बलैः᳓ (*AV*-1)
 - ध᳓नुर्भिः (*TS*-0/14, *RV*-0/6, *TB*-0/1, *AV*-1/7, *SB-M*-1/15, *SB-K*-1/16, *VS-M*-0/3, *VS-K*-0/2, *MS*-0/9)
-- देव᳓-जूतैः (*RV*-0/6, *AV*-1/2)
-</details>
+- देव᳓-जूतैः (*RV*-0/6, *AV*-1/2)</details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

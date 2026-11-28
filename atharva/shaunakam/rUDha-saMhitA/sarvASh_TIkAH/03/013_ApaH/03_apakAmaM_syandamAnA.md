@@ -97,7 +97,7 @@ Indra, with his powers, [held back] you, the divine [waters]; therefore the name
 
 - अप-काम᳓म् (*TS*-2, *RV*-1, *AV*-1/3, *VS-M*-1, *VS-K*-1)
 - स्य᳓न्दमानाः (*TS*-2/4, *RV*-1, *AV*-3, *SB-M*-3/14, *SB-K*-5/18, *VS-M*-0/1, *VS-K*-0/1)
-- अ᳓वीवरत (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *AV*-1)
+- अ᳓वीवरत (पादादिः पा॰ ८.१.२८ अप्रवृत्तेः, *TS*-1, *AV*-1)
 - वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-39, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70, *KS*-78, *MS*-201)
 - हि᳓कम् (*TS*-3)
 - इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-103/287, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380, *KS*-45/110, *MS*-286/657)
@@ -109,8 +109,7 @@ Indra, with his powers, [held back] you, the divine [waters]; therefore the name
 - णाः᳓ (*KS*-1, *MS*-1/2)
 - अ᳓म (*Whitney*, *TS*-2, *RV*-5, *TB*-1, *AV*-2, *SB-M*-2, *SB-K*-3, *VS-M*-1, *VS-K*-2, *KS*-1, *MS*-2)
 - वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-39, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70, *KS*-78, *MS*-201)
-- हि᳓कम् (*TS*-3)
-</details>
+- हि᳓कम् (*TS*-3)</details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

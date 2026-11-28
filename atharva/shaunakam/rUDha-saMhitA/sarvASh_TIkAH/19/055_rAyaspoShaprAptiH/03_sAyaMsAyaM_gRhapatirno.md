@@ -59,7 +59,7 @@ Each eve that comes our household's Lord is Agni, showing his. loving-kindness e
 - त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-215, *TK*-46, *AV*-539, *SB-M*-711, *SB-K*-678, *VS-M*-615, *VS-K*-519, *KS*-247, *MS*-760)
 - इ᳓न्धानाः (*TS*-5/10, *RV*-2/8, *AV*-2/3, *SB-M*-3/4, *SB-K*-3/4, *VS-M*-2/3, *VS-K*-2/4, *KS*-2, *MS*-5/7)
 - तन्व᳙म् (*RV*-46, *AV*-30, *SB-M*-4, *SB-K*-7, *VS-M*-9, *VS-K*-9, *KS*-8, *MS*-21)
-- पुषेम᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- पुषेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

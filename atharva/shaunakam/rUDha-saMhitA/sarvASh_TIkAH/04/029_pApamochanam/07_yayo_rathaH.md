@@ -45,7 +45,7 @@ Whose straight-reined car that keeps the track of goodness assails and ruins him
 
 <details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
 
-- य᳓यो (*MW*, *Macdonell*, *TS*-3, *RV*-14, *TB*-5, *AV*-9, *SB-M*-11, *SB-K*-12, *VS-M*-1, *VS-K*-3, *KS*-1, *MS*-3)
+- ययोः᳓ (*MW*, *Macdonell*, *TS*-3, *RV*-14, *TB*-5, *AV*-9, *SB-M*-11, *SB-K*-12, *VS-M*-1, *VS-K*-3, *KS*-1, *MS*-3)
 - र᳓थः (*TS*-13/36, *RV*-83/393, *TB*-12/25, *TK*-2/3, *AV*-10/57, *SB-M*-16/50, *SB-K*-20/53, *VS-M*-5/16, *VS-K*-5/13, *KS*-3/5, *MS*-16/51)
 - सत्य-वर्त्म᳓ (समासस्य पा॰ ६.१.२२३)
 - र्जुरश्मि᳓र् (फिषोऽन्त उदात्तः फि॰ १.१)
@@ -61,8 +61,7 @@ Whose straight-reined car that keeps the track of goodness assails and ruins him
 - तौ᳓ (*TS*-81/4765, *RV*-15/3136, *TB*-30/2598, *TK*-0/357, *AV*-41/3165, *SB-M*-181/20461, *SB-K*-205/20301, *VS-M*-2/780, *VS-K*-2/650, *KS*-4/996, *MS*-34/5417)
 - नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-140, *TK*-10, *AV*-1014, *SB-M*-518, *SB-K*-545, *VS-M*-441, *VS-K*-377, *KS*-115, *MS*-537)
 - मुञ्चतम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-10, *RV*-2, *AV*-28, *MS*-12)
-- अं᳓हसः (*TS*-20/24, *RV*-52/90, *TB*-8/11, *TK*-0/1, *AV*-82, *SB-M*-5, *SB-K*-6, *VS-M*-9, *VS-K*-8, *KS*-7/11, *MS*-34/50)
-</details>
+- अं᳓हसः (*TS*-20/24, *RV*-52/90, *TB*-8/11, *TK*-0/1, *AV*-82, *SB-M*-5, *SB-K*-6, *VS-M*-9, *VS-K*-8, *KS*-7/11, *MS*-34/50)</details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -77,7 +77,7 @@ Golden, refulgent, lofty is the Lady, Rohini, Rohita's devoted Consort. Through 
 - विश्याः᳙ (*MW*, *Macdonell*, *SB-K*-1)
 - पृ᳓तनाः (*TS*-9/21, *RV*-18/54, *TB*-5/11, *AV*-12/24, *SB-M*-2/6, *SB-K*-2/6, *VS-M*-2/5, *VS-K*-1/5, *KS*-2, *MS*-4/17)
 - अभि᳓ (*TS*-345, *RV*-754, *TB*-251, *TK*-15, *AV*-269, *SB-M*-607, *SB-K*-605, *VS-M*-97, *VS-K*-111, *KS*-42, *MS*-330)
-- ष्याम᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- ष्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

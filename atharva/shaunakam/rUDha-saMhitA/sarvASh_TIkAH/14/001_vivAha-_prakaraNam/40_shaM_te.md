@@ -78,7 +78,7 @@ Blest be the gold to thee, and blest the water, blest the yoke's opening, and bl
 - प᳓त्या (*TS*-4/45, *RV*-4/200, *TB*-2/15, *TK*-0/6, *AV*-9/137, *SB-M*-1/64, *SB-K*-1/61, *VS-M*-0/45, *VS-K*-0/61, *KS*-1/9, *MS*-3/43)
 - तन्व᳙म् (*RV*-46, *AV*-30, *SB-M*-4, *SB-K*-7, *VS-M*-9, *VS-K*-9, *KS*-8, *MS*-21)
 - स᳓म् (*MW*, *TS*-547, *RV*-608, *TB*-324, *TK*-14, *AV*-562, *SB-M*-1539, *SB-K*-1539, *VS-M*-187, *VS-K*-144, *KS*-121, *MS*-627)
-- स्पृशस्व᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- स्पृशस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

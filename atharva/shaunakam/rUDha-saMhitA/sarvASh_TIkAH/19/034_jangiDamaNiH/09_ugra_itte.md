@@ -54,10 +54,9 @@ To thee in truth, O Forest Tree, Indra the mighty One gave strength. Driving awa
 - अ᳓मीवाः (*TS*-2, *RV*-8, *TB*-1/2, *AV*-4, *SB-M*-3, *SB-K*-5, *VS-M*-4, *VS-K*-2, *MS*-2)
 - स᳓र्वाः (*TS*-51/287, *RV*-12/68, *TB*-33/156, *TK*-58/114, *AV*-67/444, *SB-M*-143/2265, *SB-K*-147/2286, *VS-M*-13/55, *VS-K*-13/43, *KS*-6/34, *MS*-98/410)
 - चात᳓यन् (*AV*-1)
-- जहि᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *MW* ŚBr., *TS*-2, *RV*-27, *TB*-1, *AV*-14, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2, *MS*-2)
+- जहि᳓ (पादादिः पा॰ ८.१.२८ अप्रवृत्तेः, *Whitney*, *MW* ŚBr., *TS*-2, *RV*-27, *TB*-1, *AV*-14, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2, *MS*-2)
 - र᳓क्षांसि (*TS*-60/126, *RV*-22/51, *TB*-27/56, *AV*-26/54, *SB-M*-140/235, *SB-K*-135/216, *VS-M*-7/30, *VS-K*-4/25, *KS*-14/31, *MS*-53/138)
-- ओ᳓षधे (*TS*-5, *TB*-1, *SB-M*-3/4, *SB-K*-3, *VS-M*-3, *VS-K*-1, *KS*-1, *MS*-6)
-</details>
+- ओ᳓षधे (*TS*-5, *TB*-1, *SB-M*-3/4, *SB-K*-3, *VS-M*-3, *VS-K*-1, *KS*-1, *MS*-6)</details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

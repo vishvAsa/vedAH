@@ -51,7 +51,7 @@ We loose the ties and fastenings of the house that holds all precious things, Th
 - विश्व᳓-वारायाः (*TS*-0/2, *RV*-0/25, *TB*-0/3, *AV*-1/4, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/3, *VS-K*-0/5, *MS*-0/4)
 - नद्धा᳓नि (*MW*, *Macdonell*, *SB-M*-0/2, *SB-K*-0/2)
 - वि᳓ (*TS*-379, *RV*-952, *TB*-164, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-639, *VS-M*-142, *VS-K*-127, *KS*-61, *MS*-503)
-- चृतामसि᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- चृतामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

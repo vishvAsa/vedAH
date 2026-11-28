@@ -53,7 +53,7 @@ All river founts that blend their streams for ever inexhaustible-- With all thes
 - सम्-स्रावैः᳓ (*TS*-0/1, *AV*-2)
 - ध᳓नम् (*TS*-3/10, *RV*-18/89, *TB*-1/2, *TK*-0/1, *AV*-19/47, *SB-M*-2/8, *SB-K*-3/9, *VS-M*-4/10, *VS-K*-3/8, *KS*-1/3, *MS*-3/10)
 - स᳓म् (*MW*, *TS*-547, *RV*-608, *TB*-324, *TK*-14, *AV*-562, *SB-M*-1539, *SB-K*-1539, *VS-M*-187, *VS-K*-144, *KS*-121, *MS*-627)
-- स्रावयामसि᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- स्रावयामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

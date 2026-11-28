@@ -67,7 +67,7 @@ Thy two unwasting horns, O Jatavedas, keen-pointed weapons, sharpened by devotio
 - यातु-धा᳓नम् (*TS*-0/2, *RV*-2/22, *TB*-0/1, *AV*-5/42, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/4, *VS-K*-0/3, *MS*-0/1)
 - जा᳓त-वेदः (*TS*-8, *RV*-11, *TB*-1, *AV*-5, *SB-M*-4, *SB-K*-1, *VS-M*-3, *VS-K*-2, *MS*-4)
 - वि᳓ (*TS*-379, *RV*-952, *TB*-164, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-639, *VS-M*-142, *VS-K*-127, *KS*-61, *MS*-503)
-- निक्ष्व᳓ (फिषोऽन्त उदात्तः फि॰ १.१, *MS*-1)
+- निक्ष्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

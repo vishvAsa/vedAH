@@ -64,7 +64,7 @@ The Seen and the Invisible, and the Kururu have I crushed: Alandus, and all Chha
 - छलूला᳓न् (फिषोऽन्त उदात्तः फि॰ १.१)
 - क्रि᳓मीन् (*TS*-0/1, *AV*-10/31, *SB-M*-0/2, *SB-K*-0/1, *VS-K*-0/1)
 - व᳓चसा (*TS*-4/14, *RV*-10/100, *TB*-0/10, *TK*-0/2, *AV*-14/39, *SB-M*-2/18, *SB-K*-2/18, *VS-M*-2/13, *VS-K*-3/8, *KS*-0/7, *MS*-1/14)
-- जम्भयामसि᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- जम्भयामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

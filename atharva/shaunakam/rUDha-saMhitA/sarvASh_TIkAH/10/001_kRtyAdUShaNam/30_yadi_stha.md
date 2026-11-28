@@ -54,7 +54,7 @@ If ye be girt about with clouds of darkness, bound as with a net. We rend and te
 - पु᳓नः (*TS*-111, *RV*-93, *TB*-49, *TK*-4, *AV*-119, *SB-M*-314, *SB-K*-288, *VS-M*-32, *VS-K*-29, *KS*-20, *MS*-183)
 - कर्त्रे᳓ (*TS*-0/2, *RV*-0/7, *AV*-1/7, *SB-M*-0/7, *SB-K*-0/8, *VS-M*-0/1, *VS-K*-0/3, *MS*-0/2)
 - प्र᳓ (*TS*-780, *RV*-1193, *TB*-368, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1608, *VS-M*-203, *VS-K*-195, *KS*-144, *MS*-798)
-- हिण्मसि᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- हिण्मसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

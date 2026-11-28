@@ -60,7 +60,7 @@ When, angered that a man hath died, we in our wrath have banished thee, That dee
 - पु᳓नः (*TS*-111, *RV*-93, *TB*-49, *TK*-4, *AV*-119, *SB-M*-314, *SB-K*-288, *VS-M*-32, *VS-K*-29, *KS*-20, *MS*-183)
 - त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-215, *TK*-46, *AV*-539, *SB-M*-711, *SB-K*-678, *VS-M*-615, *VS-K*-519, *KS*-247, *MS*-760)
 - उ᳓त् (*TS*-274, *RV*-293, *TB*-161, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-668, *VS-M*-114, *VS-K*-85, *KS*-61, *MS*-322)
-- दीपयामसि᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- दीपयामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

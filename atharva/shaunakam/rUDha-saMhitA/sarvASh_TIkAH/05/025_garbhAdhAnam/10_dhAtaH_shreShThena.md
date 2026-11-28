@@ -60,9 +60,8 @@ O Dhatar, thou Disposer, lay within the body of this dame. A male germ with the 
 - आ᳓ (*TS*-1105, *RV*-2810, *TB*-564, *TK*-33, *AV*-1040, *SB-M*-2160, *SB-K*-2144, *VS-M*-464, *VS-K*-414, *KS*-194, *MS*-1207)
 - धेहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-34, *RV*-63, *TB*-17, *AV*-91, *SB-M*-27, *SB-K*-21, *VS-M*-30, *VS-K*-19, *KS*-13, *MS*-45)
 - दशमे᳓ (*TS*-7/12, *RV*-3/4, *TB*-2/3, *TK*-0/2, *AV*-4/6, *SB-M*-4/10, *SB-K*-4/9, *VS-M*-1, *VS-K*-1, *MS*-4/13)
-- मासि᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-5, *RV*-2, *TB*-2, *AV*-8, *SB-M*-9, *SB-K*-12, *KS*-1)
-- सू᳓तवे (*Whitney*, *TS*-0/1, *RV*-1, *AV*-5/10, *SB-M*-1, *MS*-0/1)
-</details>
+- मासि᳓ (*TS*-5, *RV*-2, *TB*-2, *AV*-8, *SB-M*-9, *SB-K*-12, *KS*-1)
+- सू᳓तवे (*Whitney*, *TS*-0/1, *RV*-1, *AV*-5/10, *SB-M*-1, *MS*-0/1)</details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

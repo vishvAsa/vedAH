@@ -60,7 +60,7 @@ As men discharge the utmost debt, collect the eighth and sixteenth part, So to t
 - स᳓र्वम् (*TS*-49/287, *RV*-19/68, *TB*-44/156, *TK*-19/114, *AV*-108/444, *SB-M*-869/2265, *SB-K*-855/2286, *VS-M*-13/55, *VS-K*-7/43, *KS*-7/34, *MS*-68/410)
 - अ᳓प्रिये (*TB*-0/5, *AV*-3/14, *SB-M*-0/5, *SB-K*-0/6)
 - स᳓म् (*MW*, *TS*-547, *RV*-608, *TB*-324, *TK*-14, *AV*-562, *SB-M*-1539, *SB-K*-1539, *VS-M*-187, *VS-K*-144, *KS*-121, *MS*-627)
-- नयामसि᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- नयामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

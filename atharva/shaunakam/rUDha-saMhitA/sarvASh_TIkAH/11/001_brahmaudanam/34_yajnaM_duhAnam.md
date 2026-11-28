@@ -67,7 +67,7 @@ May we adore thee, Sacrifice that yieldeth an everlasting son, cow, home of trea
 - पो᳓षम् (*TS*-17/59, *RV*-17/20, *TB*-1/5, *AV*-16/32, *SB-M*-2/13, *SB-K*-1/12, *VS-M*-13/39, *VS-K*-14/35, *MS*-4/17)
 - उ᳓प (*TS*-723, *RV*-487, *TB*-203, *TK*-39, *AV*-247, *SB-M*-1431, *SB-K*-1362, *VS-M*-68, *VS-K*-60, *KS*-92, *MS*-478)
 - त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-215, *TK*-46, *AV*-539, *SB-M*-711, *SB-K*-678, *VS-M*-615, *VS-K*-519, *KS*-247, *MS*-760)
-- सदेम᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- सदेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

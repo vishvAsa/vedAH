@@ -54,7 +54,7 @@ We loose the bands of thy bamboos, of bolts, of fastening, of thatch, We loose t
 - ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-168, *TK*-35, *AV*-1022, *SB-M*-652, *SB-K*-727, *VS-M*-391, *VS-K*-307, *KS*-166, *MS*-624)
 - नद्धा᳓नि (*MW*, *Macdonell*, *SB-M*-0/2, *SB-K*-0/2)
 - वि᳓ (*TS*-379, *RV*-952, *TB*-164, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-639, *VS-M*-142, *VS-K*-127, *KS*-61, *MS*-503)
-- चृतामसि᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- चृतामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

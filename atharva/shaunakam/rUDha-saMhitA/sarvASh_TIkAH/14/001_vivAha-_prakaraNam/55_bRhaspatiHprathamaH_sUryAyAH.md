@@ -56,7 +56,7 @@ It was Brihaspati who first arranged the hair on Surya's head, And therefore, O 
 - ना᳓रीम् (*TS*-0/2, *RV*-1/12, *AV*-4/22, *SB-M*-0/1, *SB-K*-0/3, *VS-M*-0/3, *VS-K*-0/3)
 - प᳓त्या (*TS*-4/45, *RV*-4/200, *TB*-2/15, *TK*-0/6, *AV*-9/137, *SB-M*-1/64, *SB-K*-1/61, *VS-M*-0/45, *VS-K*-0/61, *KS*-1/9, *MS*-3/43)
 - स᳓म् (*MW*, *TS*-547, *RV*-608, *TB*-324, *TK*-14, *AV*-562, *SB-M*-1539, *SB-K*-1539, *VS-M*-187, *VS-K*-144, *KS*-121, *MS*-627)
-- शोभयामसि᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- शोभयामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
