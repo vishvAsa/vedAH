@@ -110,7 +110,7 @@ who, knowing well, have extended the sacrifice of all-sided stream.
 - विश्व᳓तः-धारम् (*TS*-1, *AV*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
 - सु᳓-विद्वांसः (*MS*-1, *TS*-1, *RV*-0/1, *AV*-1/2, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
 - वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *MS*-130)
-- तेनिरे᳓ (*MS*-1, मूल-पाठः)
+- तेनिरे᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1)
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>

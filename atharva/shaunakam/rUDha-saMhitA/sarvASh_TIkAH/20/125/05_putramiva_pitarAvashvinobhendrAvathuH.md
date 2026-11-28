@@ -83,7 +83,7 @@ when you drank up the heady liquor with your powers; Sarasvatī healed you, gene
 - स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
 - त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
 - म᳓घ-वन् (*MS*-1, *TS*-2, *RV*-9, *AV*-2, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1)
-- अभिष्णक् (*MS*-1, *RV*-1, *AV*-1, *SB-K*-1, *VS-M*-2, *VS-K*-4)
+- अभिष्णक् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *RV*-1, *AV*-1, *SB-K*-1, *VS-M*-2, *VS-K*-4)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
