@@ -58,7 +58,7 @@ We set around thee with the spell as 'twere a gathered arma- ment. Stay quiet li
 - स्था᳓मन् (*Whitney*)
 - अ᳓भ्रि-खाते (*AV*-2)
 - न᳓ (*TS*-758, *RV*-2095, *TB*-368, *TK*-49, *AV*-649, *SB-M*-2493, *SB-K*-2366, *VS-M*-183, *VS-K*-160, *KS*-91, *MS*-772)
-- रूरुपः᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- रूरुपः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

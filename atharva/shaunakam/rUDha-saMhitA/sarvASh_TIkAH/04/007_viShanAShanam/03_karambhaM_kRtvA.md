@@ -78,8 +78,7 @@ When he hath made of thee a cake, broad, steaming, swelling up with fat, And eve
 - करम्भ᳓म् (*TS*-0/3, *RV*-2/3, *TB*-2/4, *AV*-2/3, *SB-M*-2/5, *SB-K*-3/11, *VS-M*-0/3, *VS-K*-0/3, *MS*-1/2)
 - कृत्वा᳓ (*Whitney*, *TS*-40, *TB*-24, *TK*-7, *AV*-43, *SB-M*-141, *SB-K*-153, *VS-M*-4, *VS-K*-4, *KS*-4, *MS*-34)
 - तिर्य᳙म् (*AV*-1)
-- पी᳓व (*Whitney*, *TS*-0/1, *RV*-6, *AV*-1, *VS-M*-0/1, *VS-K*-0/1, *KS*-1, *MS*-0/2)
-- स्फा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- पीव-स्फाक᳓म् (फिषोऽन्त उदात्तः फि॰ १.१)
 - क᳓म् (*Whitney*, *MW* ŚBr., *TS*-19, *RV*-81, *TB*-3, *TK*-1, *AV*-25, *SB-M*-74, *SB-K*-66, *VS-M*-3, *VS-K*-3, *KS*-2, *MS*-25)
 - उदारथि᳓म् (*RV*-0/1, *AV*-1)
 - क्षुधा᳓ (*TS*-2, *TB*-1, *AV*-1)
@@ -88,7 +87,7 @@ When he hath made of thee a cake, broad, steaming, swelling up with fat, And eve
 - दुष्टनो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
 - ज᳓क्षिवांसम् (*Lanman*)
 - न᳓ (*TS*-758, *RV*-2095, *TB*-368, *TK*-49, *AV*-649, *SB-M*-2493, *SB-K*-2366, *VS-M*-183, *VS-K*-160, *KS*-91, *MS*-772)
-- रूरुपः᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- रूरुपः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

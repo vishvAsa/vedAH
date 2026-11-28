@@ -58,7 +58,7 @@ Provide this man with breath and sight, O Agni, and with his body and his streng
 - मा᳓ (*Whitney*, *TS*-205, *RV*-389, *TB*-95, *TK*-15, *AV*-415, *SB-M*-207, *SB-K*-184, *VS-M*-146, *VS-K*-110, *KS*-56, *MS*-219)
 - मृत᳓ (*Whitney*, *Lanman*, *TS*-0/1, *RV*-2, *TB*-4, *AV*-7, *SB-M*-4, *SB-K*-1/2, *KS*-1, *MS*-5)
 - मो᳓ (*TS*-2, *RV*-23, *TB*-2, *AV*-19, *SB-M*-3, *SB-K*-4, *VS-M*-4, *VS-K*-3, *KS*-2, *MS*-3)
-- षु᳓ (*TS*-7/8, *SB-M*-1, *SB-K*-4, *VS-K*-3/4, *KS*-2, *MS*-9/11)
+- सु᳓ (*GR* षु)
 - भू᳓मि-गृहः (*AV*-1)
 - भु᳓वत् (*Whitney*, *RV*-25/28, *AV*-4, *VS-M*-2, *VS-K*-2, *MS*-2)
 </details>

@@ -57,8 +57,7 @@ The fleet-foot Roebuck wears upon his head a healing remedy. Innate disease he d
 - क्षेत्रिय᳓म् (*AV*-11/23, *MS*-6)
 - वि-षा᳓ण (*MW*, *Macdonell*, *SB-M*-0/2, *SB-K*-0/2, *KS*-1/2, *MS*-0/2)
 - या᳓त् (*MW*, *RV*-5, *TB*-1, *AV*-3, *SB-M*-5, *SB-K*-5, *MS*-1)
-- विसूची᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
-- न᳓म् (*SB-M*-1, *SB-K*-5, *VS-K*-1)
+- वि-सूची᳓नम् (*TS*-2, *AV*-1)
 - अनीनशत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *AV*-9)
 </details>
 

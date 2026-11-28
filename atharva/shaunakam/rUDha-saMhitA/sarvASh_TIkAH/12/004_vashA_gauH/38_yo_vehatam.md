@@ -54,7 +54,7 @@ Whoever looking on the Cow as fruitless, cooks her flesh at home, Brihaspati com
 - पौ᳓त्रान् (*TS*-0/2, *AV*-1/5, *SB-M*-0/5, *SB-K*-0/6, *KS*-0/1, *MS*-0/1)
 - च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-493, *TK*-145, *AV*-1417, *SB-M*-3025, *SB-K*-2896, *VS-M*-920, *VS-K*-681, *KS*-655, *MS*-1588)
 - याच᳓यते (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *AV*-1)
-- बृ᳓हस्प᳓तिः (*TS*-70/84, *RV*-53, *TB*-16, *TK*-3, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31, *KS*-12, *MS*-94)
+- बृ᳓हस्-प᳓तिः (*TS*-70/84, *RV*-53, *TB*-16, *TK*-3, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31, *KS*-12, *MS*-94)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

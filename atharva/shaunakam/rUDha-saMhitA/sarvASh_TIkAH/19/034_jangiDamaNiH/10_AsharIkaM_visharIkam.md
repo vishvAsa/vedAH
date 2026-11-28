@@ -46,9 +46,7 @@ Lumbago and rheumatic pain, consumptive cough, and pleurisy, And fever which eac
 
 <details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
 
-- अ᳓श (*MW*, *Macdonell*, *TS*-0/2, *RV*-0/5, *TB*-2, *TK*-0/2, *AV*-1/4, *SB-M*-1/21, *SB-K*-0/18, *MS*-0/2)
-- री᳓क् (फिषोऽन्त उदात्तः फि॰ १.१)
-- अ᳓म् (*MW*, *SB-M*-1, *VS-M*-13, *VS-K*-11)
+- अ᳓-शरीकम् (फिषोऽन्त उदात्तः फि॰ १.१)
 - वि᳓-शरीकम् (*AV*-1)
 - बला᳓सम् (*AV*-5/8, *VS-M*-0/1, *VS-K*-0/1)
 - पु᳓ष्ट्याम् (*TS*-1/17, *TB*-2/23, *TK*-0/2, *AV*-0/5, *SB-M*-0/14, *SB-K*-0/12, *VS-M*-0/4, *VS-K*-0/6, *KS*-0/9, *MS*-0/35)

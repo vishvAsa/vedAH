@@ -44,7 +44,7 @@ Trees of the forest, trees that bear flower and fruit, and herbs and plants, Qua
 
 <details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
 
-- व᳓नस्प᳓तीन् (*TS*-7, *RV*-11, *TB*-2, *AV*-13, *SB-M*-9, *SB-K*-10, *VS-M*-2, *VS-K*-2, *MS*-8)
+- व᳓नस्-प᳓तीन् (*TS*-7, *RV*-11, *TB*-2, *AV*-13, *SB-M*-9, *SB-K*-10, *VS-M*-2, *VS-K*-2, *MS*-8)
 - वानस्पत्या᳓न् (*TS*-0/6, *TB*-0/3, *AV*-3/12, *SB-M*-0/15, *SB-K*-0/14, *VS-M*-0/2, *VS-K*-0/2, *KS*-0/2, *MS*-0/6)
 - ओ᳓षधीः (*TS*-27/114, *RV*-50/89, *TB*-19/52, *TK*-1, *AV*-38/86, *SB-M*-54/93, *SB-K*-51/98, *VS-M*-22/44, *VS-K*-22/49, *KS*-6/21, *MS*-43/132)
 - उत᳓ (*Whitney*, *Lanman*, *TS*-120, *RV*-701, *TB*-27, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72, *KS*-14, *MS*-105)

@@ -69,7 +69,7 @@ For each defect of mine in voice and spirit I have approached One vehement and a
 - सम्-विदानः᳓ (*TS*-7/11, *RV*-4/9, *TB*-1/3, *AV*-14/24, *SB-M*-4/6, *SB-K*-4/10, *VS-M*-2/9, *VS-K*-2/9, *MS*-7/10)
 - स᳓म् (*MW*, *TS*-547, *RV*-608, *TB*-324, *TK*-14, *AV*-562, *SB-M*-1539, *SB-K*-1539, *VS-M*-187, *VS-K*-144, *KS*-121, *MS*-627)
 - दधातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-22, *RV*-13, *TB*-2, *TK*-2, *AV*-49, *SB-M*-25, *SB-K*-28, *VS-M*-13, *VS-K*-10, *KS*-6, *MS*-25)
-- बृ᳓हस्प᳓तिः (*TS*-70/84, *RV*-53, *TB*-16, *TK*-3, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31, *KS*-12, *MS*-94)
+- बृ᳓हस्-प᳓तिः (*TS*-70/84, *RV*-53, *TB*-16, *TK*-3, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31, *KS*-12, *MS*-94)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

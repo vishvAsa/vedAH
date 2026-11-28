@@ -65,7 +65,7 @@ Cut up this skin with the grey knife, Dissector! dividing joint from joint, and 
 - म᳓ध्ये (*TS*-30/45, *RV*-30/38, *TB*-6/12, *TK*-3/5, *AV*-15/31, *SB-M*-72/146, *SB-K*-68/143, *VS-M*-12/18, *VS-K*-10/14, *KS*-6/8, *MS*-15/28)
 - अधि (गतिर्गतौ पा॰ ८.१.७०, *TB*-14, *AV*-1, *SB-M*-67, *SB-K*-64, *VS-M*-2, *VS-K*-1, *KS*-3, *MS*-16)
 - वि᳓ (*TS*-379, *RV*-952, *TB*-164, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-639, *VS-M*-142, *VS-K*-127, *KS*-61, *MS*-503)
-- श्रयेम᳓म् (फिषोऽन्त उदात्तः फि॰ १.१)
+- श्रयेमम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

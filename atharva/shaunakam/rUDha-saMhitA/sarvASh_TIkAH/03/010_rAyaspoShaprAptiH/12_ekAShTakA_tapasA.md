@@ -69,7 +69,7 @@ Ekashtaka, burning with zealous fervour, brought forth her babe the great and gl
 - हन्ता᳓ (*TS*-6/7, *RV*-7/9, *AV*-6/8, *SB-M*-5, *SB-K*-25, *VS-M*-2/4, *VS-K*-1/2, *KS*-0/1, *MS*-3/5)
 - अ᳓सुराणाम् (*TS*-21/120, *RV*-0/58, *TB*-4/46, *AV*-7/44, *SB-M*-14/150, *SB-K*-14/170, *VS-M*-0/8, *VS-K*-0/6, *KS*-2/27, *MS*-30/166)
 - अभवत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-81, *RV*-43, *TB*-82, *TK*-17, *AV*-50, *SB-M*-188, *SB-K*-196, *VS-M*-11, *VS-K*-9, *KS*-15, *MS*-96)
-- श᳓चीप᳓तिः (*TS*-1, *RV*-1, *TB*-2, *AV*-6)</details>
+- श᳓ची-प᳓तिः (*TS*-1, *RV*-1, *TB*-2, *AV*-6)</details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
